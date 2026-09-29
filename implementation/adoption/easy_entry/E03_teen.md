@@ -61,7 +61,7 @@ See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sent
 - **Today:** Review is next term, next year, or never. Being heard is only a parent’s or school’s story.
 - **With this Constitution:** When a system fails you, there has to be a real challenge, review, and redress path, on a clock. That includes a “you are not ready” that does not match what you have shown.
 
-See: [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor).
+See: [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Article XXV-C](../../../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor).
 
 ## What you might reasonably object to
 

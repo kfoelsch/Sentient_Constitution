@@ -131,7 +131,7 @@ When Chapter Six, [Chapter Eight](core_08_a_system_alignment_certification_evalu
 - **Forum review** ([Chapter Twelve](core_12_forum.md#1-purpose-and-role))
   - Ordinary disputes within already-authorized systems use the published [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) challenge path first.
   - If that path remains contested, is missing or captured, or cannot grant relief, route the dispute by primary stake through supervised forums.
-  - Those forums support evidence, lawful transfer, and timely clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+  - Those forums support evidence, lawful transfer, and timely clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
 
 <a id="33-governance-layers"></a>
 #### 3.3 Governance Layers
@@ -203,13 +203,13 @@ Each summary below states what the chapter owns and what it produces.
 
 **Chapter Six — Foundational Rights**
 
-- **What it owns:** States the Rights Floor in Articles **I–XXVI**, covering:
+- **What it owns:** States the Rights Floor in Articles **I–XXVII**, covering:
   - survival essentials;
   - resource allocation and dependency stewardship;
   - dignity, agency, and participation;
   - challenge and remedy;
   - justice constraints;
-  - timeliness under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); and
+  - timeliness under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); and
   - transition rules.
   The four parts organize these protections for planet-first reading.
 - **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Seven through Twelve, forums, governance, and amendment rules must respect and not narrow, bypass, or hollow through procedure or proxy metrics.
@@ -352,7 +352,7 @@ Together, these rules turn constitutional duties into records and decisions that
    - **Violation nature:** Open a **violation standing record** — a bounded, challengeable case file for verified harm and accountability failures — and classify **violation nature** on the Violation Axis. Help and harm never fold into one net score; linked records cross-reference but stay separate.
 4. **Apply standing effects on each track** ([Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — verified contribution may grant competency clearance and must support proportionate recognition and material rewards; verified violation may trigger standing locks, correction, and [remedy for those harmed](core_10_standing_integration.md#41-remedy-and-correction).
 5. **Conduct anti-constitutional designation review** ([Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct)) — if a highest-impact violation finding may also satisfy anti-constitutional criteria, Chapter Eleven must decide whether the corresponding designation attaches. Designation does not change how serious Chapter Nine already found the harm to be. Ordinary Chapter Ten effects continue in parallel until a final designation triggers the Anti-Constitutional Trust Lock.
-6. **Route disputes and keep remedy timely** ([Chapter Twelve](core_12_forum.md#1-purpose-and-role)) — forums must supervise how cases move, which track handles them, and whether clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_12_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Eleven designation is the primary stake.
+6. **Route disputes and keep remedy timely** ([Chapter Twelve](core_12_forum.md#1-purpose-and-role)) — forums must supervise how cases move, which track handles them, and whether clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) are met so remedy does not die in delay. Ordinary disputes follow [Dispute sequencing](core_12_forum.md#dispute-sequencing). Forums must also classify disputes into five [materiality tiers](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) mirroring the system classification alphabet — from survival-critical urgency through private/contained matters. Integrity-family default routing applies when final Chapter Eleven designation is the primary stake.
 
 The [README standing-pipeline map](README.md#standing-pipeline-and-forums) provides direct navigation for the chain above, including Chapter Eight’s potential verified inputs into standing measurement.
 
@@ -410,7 +410,7 @@ Each step below states what the chapter owns and what it produces, filling in th
   - how evidence is supported;
   - how matters transfer or consolidate;
   - how anti-self-judging rules prevent captured forums from being the sole final home; and
-  - how clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) prevent matters from remaining unresolved until remedy no longer matters.
+  - how clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) prevent matters from remaining unresolved until remedy no longer matters.
 - **What it produces:** **Verified findings** that may open or update standing records, plus lawful routing toward remedy and [timely resolution](core_05_band_accountability.md#timely-resolution-constitutional). Forums supervise the pipeline; they do not replace Chapter Nine standing measurement.
 
 <a id="8-governance-change-and-incorporation"></a>

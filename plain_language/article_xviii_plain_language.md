@@ -198,7 +198,7 @@ These are never allowed:
 
 ### Where did the movement and refuge rules go?
 
-The rule that standing can never be used as a border used to be its own part of this article. It now lives in [Article XIX-D](../core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness), alongside the other rules on moving, finding refuge, leaving, and never being left without a country.
+The rule that standing can never be used as a border used to be its own part of this article. It now lives in [Article XX-D](../core_06_rights_part_c.md#article-xx-d-limitation-custody-and-emergency-discipline), alongside the other rules on moving, finding refuge, and never being left without a country.
 
 In short: lower standing, or a lock, can never by itself stop you from moving, deny you refuge, trap you in a system, or leave you without any authority that protects your basic rights. Real dangers are handled only through a full, fair justice process.
 

@@ -176,7 +176,7 @@ This section applies [Transparency](core_05_band_oversight.md#transparency), [Au
 
 - **Transparency** and **auditability** implement **oversight**;
 - **Contestability** implements **accountability** and preserves **participation** in challenge paths;
-- Record clarity and contest clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) implement **timeliness** scaled to system class and [material stake](core_00_preamble.md#material-stake).
+- Record clarity and contest clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) implement **timeliness** scaled to system class and [material stake](core_00_preamble.md#material-stake).
 
 **Transparency** — sentients must be able to see what matters:
 
@@ -352,14 +352,14 @@ The **contestability chain** is the lawful mirror of the supervisory sequence. I
 - **Published record challenge path** — the ordinary first step for an ordinary dispute about the certification record. The record names the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) contest seat:
   - who receives the challenge;
   - how to file it; and
-  - that clocks under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*) run from receipt.
+  - that clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) run from receipt.
   
   Internal operator review, vendor attestation, or technical sign-off is not this path.
 - **Component forum path** — the Chapter Twelve forum family with merits authority over a challenged component finding.
 - **Lead-integrity path** — Integrity routing and anti-self-judging backup when the challenge is how the lead forum ran the process, including capture, hidden information, self-review, or calling certification finished too soon.
 - **Escalation path** — Chapter Twelve transfer, certification, backup routing, and family-to-family escalation when primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it.
 
-Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or eat **Article XXIV-C** clocks.
+Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or eat **Article XXV-C** clocks.
 
 The contestability chain uses those paths in this order:
 
@@ -367,7 +367,7 @@ The contestability chain uses those paths in this order:
 2. **Component challenge** (component forum path). A challenge confined to a component finding routes to the forum family with merits authority over that component. The lead forum may [stay](core_05_band_accountability.md#stay) reliance on the challenged component pending timely review.
 3. **Lead-coordination challenge** (lead-integrity path). A challenge about how the lead forum ran the process routes under [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) integrity and anti-self-judging rules. That includes capture, hidden information, self-review, abusive step-ordering, calling certification finished too soon, or other lead-forum integrity problems. When the challenge targets that lead forum's own bias, capture, conflict, or process abuse, backup routing under those rules applies so review is not confined to the same lead forum.
 4. **Escalation and certification** (escalation path). Where primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it, challenge routing continues through Chapter Twelve transfer, certification, backup routing, and family-to-family escalation.
-5. **Reliance limits during contest:** A material and timely challenge may limit or pause reliance on the certification record to the extent necessary to prevent foreseeable harm, preserve evidence, or prevent irreversible dependence on a contested finding, subject to prompt review under [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+5. **Reliance limits during contest:** A material and timely challenge may limit or pause reliance on the certification record to the extent necessary to prevent foreseeable harm, preserve evidence, or prevent irreversible dependence on a contested finding, subject to prompt review under [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 The certification record must state the contestability chain — how affected parties can challenge at each step — and the named contestability paths.
 

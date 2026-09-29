@@ -136,14 +136,14 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 **In-house mixed-crew ops inside one lab.** A system operator binds *its* deploy stack: refuse unlawful or unconstitutional instructions, keep reconstructable logs, no “model internals” veto over standing measurement, no human exemption from the costly cases. Kit door: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging); if a qualifying body will record an instrument, [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md).
 
-**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded instrument (Track B under [Article XXVI-B](../../core_06_rights_part_d.md#article-xxvi-b-transitional-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-7](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) oversight.
+**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded instrument (Track B under [Article XXVII-B](../../core_06_rights_part_d.md#article-xxvii-b-transitional-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-7](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) oversight.
 
 <a id="42-high-impact-system-operators"></a>
 ### 4.2 High-impact system operators (deploy, platform, product)
 
 A company, lab, or public operator that **runs** the system — not a commentator on it. Natural stacks: [Chapter Eight](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) certification, audit layers, [emergency / continuity](../STEWARD_ENTRY_DOORS.md#emergency), [remedy](../STEWARD_ENTRY_DOORS.md#remedy). Start as operations-guide. Full adoption only if the operator can bind those systems in **its** custody.
 
-**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge clocks on outages ([Article XXIII-D](../../core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge)).
+**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge clocks on outages ([Article XXIV-D](../../core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge)).
 
 <a id="43-two-party-mixed-cooperation"></a>
 ### 4.3 Two-party mixed cooperation (the first-adopter path)

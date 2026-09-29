@@ -132,7 +132,7 @@ A proposed amendment is invalid where the instrument of adoption, edition identi
 
 - Upstream: [§1](#1-heightened-review-for-rights-affecting-changes) independent review expectation; [§5](#5-test-3-authority-chain-and-custody-validity) custody baseline.
 - Downstream: [§7](#7-review-triggers) automatic heightened review; [§8](#8-provisional-effect-rule) irreversible effect timing.
-- Read with: [Article XII-A](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) contest pathways; [Article XXII](core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) independent constitutional review.
+- Read with: [Article XII-A](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) contest pathways; [Article XXIII](core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) independent constitutional review.
 
 </details>
 
@@ -161,7 +161,7 @@ A proposed amendment is invalid if it:
 
 Heightened review is automatically triggered for amendments that materially affect any of the following:
 - rights (**Chapter Six**)
-- constitutional interpretation and review safeguards (**Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*))
+- constitutional interpretation and review safeguards (**Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*))
 - standing effects ([Chapter Ten §7 — *Final standing effect*](core_10_standing_integration.md#7-final-standing-effect); read with the [Chapter Nine §7 unified scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale) — separate-axis measurement)
 - emergency powers
 - cross-jurisdiction enforcement pathways

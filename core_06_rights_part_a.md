@@ -17,8 +17,8 @@
 > This chapter presents rights in a **planet-first** order because environmental and material conditions support everything else:
 > - **Part A** covers **Articles I–IV**: environmental survival, material stewardship, survival essentials, equal educational access, and resource-flow transparency.
 > - **Part B** covers **Articles V–XI**: equal basic Rights Floors, sentient-centered education, self-ownership, likeness and data, agency, cooperation, and Stakeholder System Participation.
-> - **Part C** covers **Articles XII–XXII**: trustworthy systems, information integrity, audit, lifecycle, sandboxed innovation, standing, portability, complexity, root-cause diagnostics, and interpretive review.
-> - **Part D** covers **Articles XXIII–XXVI**: justice and emergencies, constitutional evolution, transition, and re-baselining.
+> - **Part C** covers **Articles XII–XXIII**: trustworthy systems, information integrity, audit, lifecycle, sandboxed innovation, standing, portability, complexity, root-cause diagnostics, and interpretive review.
+> - **Part D** covers **Articles XXIV–XXVII**: justice and emergencies, constitutional evolution, transition, and re-baselining.
 >
 > That presentation order does not change execution priorities. Rights fulfillment still depends on systems-first work: substrate, environment, lifecycle, infrastructure, and governance must be sound enough for personal and cooperative rights to survive.
 
@@ -41,7 +41,7 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 - Downstream: [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [§1.2 Layer scope](#12-layer-scope).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights); [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*).
 - Read with: [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
-- Read with: [Article XVIII-B](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+- Read with: [Article XVIII-B](core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 </details>
 
@@ -104,8 +104,8 @@ Enforcement depends on real checks, not just rules on paper:
 - **Challenge, review, and proportionate remediation** — **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*); Chapter Five (*Redress and Remediation*)
 
 **Disputes and timely process**
-- **Justice, restitution, restriction boundaries, emergencies, and rights collisions** — **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
-- **Key Practical Process Pipelines** — **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums)
+- **Justice, restitution, restriction boundaries, emergencies, and rights collisions** — **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
+- **Key Practical Process Pipelines** — **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
 
@@ -115,7 +115,7 @@ Shorter cross-references to those themes elsewhere in this chapter incorporate t
 
 *In plain terms: Chapter Six states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation).*
 
-This rule covers all of Chapter Six — Articles **I** through **XXVI**:
+This rule covers all of Chapter Six — Articles **I** through **XXVII**:
 
 - **Chapter Six cannot steal duties from other chapters:** Under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation), this chapter must not copy, restate, or move obligations that belong somewhere else. Cross-references are fine — pointing readers to another chapter is expected. But copying another chapter's actual rules into Chapter Six is **not allowed**.
 - **No sneaking rules in through the back door:** You cannot import obligations from other chapters into Chapter Six by copying text, treating reader notes as real rules, or reading too much into a cross-reference. And other chapters or implementation files cannot shrink, redefine, or move a Chapter Six Rights Floor either — that violates **Chapter Fourteen** non-regression.
@@ -276,7 +276,7 @@ Chapter Five defines those conditions under **Environmental Preconditions**. Whe
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§15 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#15-systemic-evaluation-requirement).
 - Read with: [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional), and [Existential Risk](core_05_band_continuity.md#existential-risk).
-- Downstream: **Article XXIII-D** (*Emergency Measures and Continuation Burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
+- Downstream: **Article XXIV-D** (*Emergency Measures and Continuation Burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
 
 </details>
 
@@ -555,7 +555,7 @@ This Article states **constitutional floors** for survival and equal access unde
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Read with: Flourishing measurement family (*Survival-floor access as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
+- Read with: Flourishing measurement family (*Survival-floor access as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
 - Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where systems gate or sustain delivery; **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*); **Article XVIII-B** (*Contestability and Proportional Restriction Limits*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums).
 
 </details>
@@ -600,7 +600,7 @@ This Article states **constitutional floors** for survival and equal access unde
   - When systems that sentients materially depend on supply, distribute, price, host, or cut off access to survival essentials, [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) applies — and those systems' processes cannot be used to shrink the Rights Floors stated here.
   - This Article does not prescribe a single funding model. Employment, entrepreneurship, voluntary exchange, and other lawful economic activity above any survival floor remain permitted, subject to Chapter One, Chapter Six, and incorporated instruments — including `corpus_systems.md` where market-structuring or high-impact commercial systems apply.
 
-Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition — operative detail in [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); **Chapter Five** [*Occupancy Continuity*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*Essential-Environment Non-Commodification*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where applicable.
+Cross-reference: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) transitional-stewardship discipline for essential-environment continuity across transition — operative detail in [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) through **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives); **Chapter Five** [*Occupancy Continuity*](core_05_band_continuity.md#occupancy-continuity-constitutional), [*Essential-Environment Non-Commodification*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), and the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) where applicable.
 
 #### Article III-B: Equal Educational Access
 <details>
@@ -681,7 +681,7 @@ Cross-reference: **Article XXVI-D** (*Non-Compliant Property and Systems; Volunt
 - **Non-conflation with self-ownership:** This Article states the affirmative access floor. It preserves the **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion floor and the **Article VII-B** (*Internal-State Boundary and Type-N Protection*) internal-state boundary:
   - access is not consent to intrusion;
   - affirmative access does not license compelled treatment.
-  - Any compelled or involuntary intervention is governed by **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) and the **Article VII-A** (*Self-Ownership of Body and Mind*) / **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) framework.
+  - Any compelled or involuntary intervention is governed by **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) and the **Article VII-A** (*Self-Ownership of Body and Mind*) / **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) framework.
 - **Limits and implementation routing:** Any limit on access must satisfy **Necessity**, **Proportionality**, **Protected Characteristics**, and **Substantive Fairness**.
   - Operational mechanics — cost, distribution, workforce, and system design — route to institutional implementation text (**`corpus_institutions.md`** CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*)) and other incorporated implementation text under **Chapter Seventeen** discipline.
   - That implementation text must not be read to narrow this floor.
@@ -830,7 +830,7 @@ Those requirements protect shared infrastructure and the systems that depend on 
 
 - Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5** / **§5** and the *Concentration-threshold interaction* discipline in the operative text below).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
 - Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue.
 
 </details>

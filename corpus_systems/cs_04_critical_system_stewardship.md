@@ -118,7 +118,7 @@ Also scale with **availability** of fallback, redundancy, and recovery pathways.
 
 *In plain terms: A steward may not hide behind its own complexity. Corporate structure, contracts, and process must not be arranged so that audit, intervention, or replacement becomes impractical.*
 
-This section applies [CS-6](cs_06_comprehensibility_complexity_stewardship.md) and **Article XX** (*Comprehensibility and Complexity Stewardship*) at the organization level.
+This section applies [CS-6](cs_06_comprehensibility_complexity_stewardship.md) and **Article XXI** (*Comprehensibility and Complexity Stewardship*) at the organization level.
 
 Stewards must **not** use organizational, contractual, or procedural complexity to defeat audit, intervention, or substitution (read with **CJS-3.3**, **CJS-3.8**, **CJS-3.10**, **CJS-3.17**, and **CJS-3.23**).
 
@@ -347,7 +347,7 @@ Failure integrity, intervention, and steward scaling co-apply through **corpus_j
 
 Use **independent** or **functionally independent** evaluators where **Class A/B** or **CSS-A/B** stakes require.
 
-Document findings, **communicate** under **Articles IX** and **XVI**, and link to **remediation**, **CS-6** / **Article XX** (*Comprehensibility and Complexity Stewardship*), and **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) cycles where relevant.
+Document findings, **communicate** under **Articles IX** and **XVI**, and link to **remediation**, **CS-6** / **Article XXI** (*Comprehensibility and Complexity Stewardship*), and **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) cycles where relevant.
 
 **Contest-integrity monitoring:** For **Class A** and **Class B** systems and for **CSS-A** and **CSS-B** stewards, **`corpus_institutions.md` CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*) applies to **institutions** with **supervised** scope. **Critical System Stewards** that **materially affect** such systems must **either** fall under that institutional program **or** **document** an **equivalent** **functionally independent** contest-integrity review, **or** participate in a **published** cross-institution arrangement (**CI-8** (*Cross-institution coordination and escalation*)) where applicable. Monitors assess **pathway integrity** for **contest, secondary review, audit access, and protected escalation**—not **merits**—consistent with **CJS-3.13** (*procedural integrity and adjudication terms*), **Article XII-A** (*Reliability and Trustworthiness Baseline*), and **Article XVI-B** (*Progressive Deployment and Reversibility*).
 
@@ -407,7 +407,7 @@ Duties scale with dependency and class:
 - track and disclose **uneven exclusion** patterns against protected or high-dependency groups
 - coordinate with [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) (*Transparency, participation, and accessible pathways*) and **CI-6** (*Procedure integrity, contestability, and secondary review*) so governance and forum challenge routes stay **practically usable**
 
-**Safety, security, and abuse:** **Necessity** and **Proportionality** still allow narrow fraud, security, and abuse controls. The target is **pretextual** or **concentration-driven** denial — **not** forced service for materially harmful use. Read with **Article V-G** (*Accessibility*), **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*), **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), [**Chapter One §13.1 Productive Capacity**](../core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [**Chapter One §14 Market Structure**](../core_01_c_stewardship_capacity_principles.md#14-market-structure), **CJS-3.17** (*interoperability, portability, and exit-integrity terms*), and **`corpus_institutions.md` CI-22** (commons and mutual-aid coordination).
+**Safety, security, and abuse:** **Necessity** and **Proportionality** still allow narrow fraud, security, and abuse controls. The target is **pretextual** or **concentration-driven** denial — **not** forced service for materially harmful use. Read with **Article V-G** (*Accessibility*), **Article V-H** (*Expression, Assembly, and Press*), **Article X-A** (*Non-Imposition and Consent in Association*), **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*), **Article XIX** (*Interoperability, Portability, and Exit Integrity*), [**Chapter One §13.1 Productive Capacity**](../core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good), [**Chapter One §14 Market Structure**](../core_01_c_stewardship_capacity_principles.md#14-market-structure), **CJS-3.17** (*interoperability, portability, and exit-integrity terms*), and **`corpus_institutions.md` CI-22** (commons and mutual-aid coordination).
 
 Classification-governance disclosure, challenge, and reclassification for the dependent system remain in **[CS-3 Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)**.
 

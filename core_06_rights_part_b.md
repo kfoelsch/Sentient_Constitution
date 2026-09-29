@@ -232,7 +232,7 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality).
-- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards, **Chapter Twelve** forums and jurisdiction — default lead [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) under the [§5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification).
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards, **Chapter Twelve** forums and jurisdiction — default lead [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) under the [§5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification).
 - Read with: Chapter Five *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
 
 </details>
@@ -267,10 +267,10 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 - **Scope and time-bound effect:** Declassification or narrowing determinations must:
   - be stated in the shortest necessary terms;
   - carry a declared expected-closure timeline;
-  - be subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains)) and **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards.
+  - be subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains)) and **Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards.
   
   A declassification that is not time-bound and not subject to periodic review is non-compliant.
-- **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) vectors must be reversible.
+- **Reversibility and remedy:** A determination later shown to have been wrongful, under- or mis-evidenced, or captured by **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) or **Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) vectors must be reversible.
   - The entity's Chapter Six Rights Floors must be restored, with **Chapter Five** (**Redress and Remediation**) applied to the interim period.
 - **Independent representation:** An entity whose status is under adjudication has the right to an independent representative — one with no material dependence on, ownership interest in, or employment by the parent system, operator, or any party seeking to withhold or narrow protection. That representative must:
   - be appointed by the merits forum once the case is open;
@@ -281,10 +281,10 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
   The parent system or operator may give evidence and must preserve and produce records, but may not be the sole filer, sole witness, or sole source of indicator evidence on a request to withhold, narrow, or revoke. Appointment mechanics route to [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification).
 - **Shield for the entity, not the operator:** Default inclusion and affirmed status protect the *entity's* Chapter Six Rights Floor. They do not:
   - shield the operator's property or commercial interest in a deployment;
-  - exempt the deployment from system-level containment, halt, or quarantine under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) or **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights; or
+  - exempt the deployment from system-level containment, halt, or quarantine under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) or **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) that is compatible with the entity's rights; or
   - produce Contribution Axis credit for the operator.
   
-  A status filing made by an operator on behalf of its own product is reviewed for taxonomy-of-convenience in the inclusion direction on the same terms this Article applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
+  A status filing made by an operator on behalf of its own product is reviewed for taxonomy-of-convenience in the inclusion direction on the same terms this Article applies to exclusion. Where the entity's status is contested or affirmed, the compatible system-level measure is containment that preserves the entity — not destructive disposition, which is governed by **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) preservation rules.
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Twelve** ([Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) as default lead under the [§5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Seventeen** incorporation discipline.
   - That implementation text must not be read to narrow this floor.
@@ -698,7 +698,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
-- Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article III-C** (*Bodily-Maintenance and Healthcare Access*) healthcare access, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) / **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) involuntary-deprivation framework, **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) best-interest / graduated-capability where a developing sentient is affected.
+- Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article III-C** (*Bodily-Maintenance and Healthcare Access*) healthcare access, **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) / **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) involuntary-deprivation framework, **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*) best-interest / graduated-capability where a developing sentient is affected.
 - Read with: Chapter Five *Bodily-Maintenance Access*, *Best-Interest Standard*, *Graduated Capability*, *Procedural Fairness*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -724,7 +724,7 @@ Where analysis of experiential or behavioral data produces outputs that function
   - be subject to independent review under **Procedural Fairness**;
   - preserve reversibility.
   
-  This floor applies before **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) involuntary-deprivation thresholds govern. It does not narrow **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion or **Article VII-B** (*Internal-State Boundary and Type-N Protection*) internal-state boundary protections.
+  This floor applies before **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) involuntary-deprivation thresholds govern. It does not narrow **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion or **Article VII-B** (*Internal-State Boundary and Type-N Protection*) internal-state boundary protections.
 - **No crisis-framing substitute:** "Crisis" framing does not relax the ordinary **Chapter One §5.1** limitation discipline.
   - Durable restriction dressed as continuing crisis is non-compliant where the factual predicate for crisis status is not independently reviewable, is not time-bounded, or is not subject to mandatory periodic review.
 - **No backdoor internal-state inference:** Crisis exemption does not authorize reconstruction or reliable approximation of protected internal states through behavioral, interaction, or contextual data contrary to **Article VII-B** (*Internal-State Boundary and Type-N Protection*).
@@ -829,7 +829,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
-- Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation, **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article X-A** (*Non-Imposition and Consent in Association*) consent.
+- Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body and Mind* / *Internal-State Boundary and Type-N Protection*) self-ownership and internal-state boundary, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation, **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article X-A** (*Non-Imposition and Consent in Association*) consent.
 - Read with: Chapter Five *Voluntary Discontinuation*, *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Consent*, *Coercion and Manipulation*, *Procedural Fairness*; **Article III-A** (*Survival*), **Article III-C** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*).
 
 </details>
@@ -846,7 +846,7 @@ Where analysis of experiential or behavioral data produces outputs that function
 
 <br>
 
-*In plain terms: a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).*
+*In plain terms: a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).*
 
 - **Voluntary-discontinuation floor:** Sentients hold the right to decide to discontinue their own existence under conditions that satisfy genuine, substantive, freely-formed consent under **Chapter Five** (*Consent*).
   - This right runs under **Sentience Non-Exclusion**.
@@ -871,10 +871,10 @@ Where analysis of experiential or behavioral data produces outputs that function
   Instruments must not treat pressure to decide quickly as a neutral scheduling rule. Such pressure is coercive where the sentient reasonably cannot avoid it.
 - **Non-conflation (explicit cross-reference):** This Article governs *voluntary* discontinuation — the sentient's own freely-formed and substantively informed decision.
   - It does **not** govern **irreversible, involuntary deprivation of life by state, operator, or comparable actor**.
-  - Such involuntary deprivation is categorically prohibited under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*.
+  - Such involuntary deprivation is categorically prohibited under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and is governed together with **Chapter Five** *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*.
   - That prohibition is structurally distinct from this Article regardless of any purported "voluntariness" framing that fails the tests above.
   - Nothing in this Article authorizes, legitimizes, or is to be read as a predicate for any irreversible deprivation measure or comparable involuntary measure by state, operator, or comparable actor.
-  - Conversion of a voluntary decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*.
+  - Conversion of a voluntary decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*.
 - **Developing sentients:** Where the sentient is a developing sentient under **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*), *Best-Interest Standard* and *Graduated Capability* govern the substantive reasoning.
   - No substitute decision-maker may convert a non-voluntary developmental state into "voluntary" discontinuation.
 - **Non-conflation with self-ownership floors:** This Article extends — and does not narrow — **Article VII-A** (*Self-Ownership of Body and Mind*) non-intrusion or **Article VII-B** (*Internal-State Boundary and Type-N Protection*) internal-state boundary.

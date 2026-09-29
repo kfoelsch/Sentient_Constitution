@@ -39,7 +39,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
-| Rights (Articles I–XXVI) | Ch 6 | `core_06_rights_part_*.md`; titles via `make reference-audit` |
+| Rights (Articles I–XXVII) | Ch 6 | `core_06_rights_part_*.md`; titles via `make reference-audit` |
 | Functional independence and segregation of duties | Ch 7 | `core_07_functional_independence_segregation_of_duties.md`; four-seat floor, Materially Binding Act Record minimum, control-line independence, published placement, substitutes, proportionate merged hosting, emergency departures, and wrong-seat routing |
 | System alignment certification | Ch 8 | `core_08_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_08_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_08_system_alignment_certification.md`. Under **oversight**, oversight requires auditing (**Article XV** / [Auditability](core_05_band_oversight.md#auditability) / **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** and **CJS-3.3**–**CJS-3.5** OP annexes); Ch 8 is one especially large, high-stakes audit process among others — not the sole auditing home. |
 | Standing records and measurement (Questions 1 and 2) | Ch 9 | `core_09_standing_assessment.md`; verified records and Contribution Axis / Violation Axis slots |
@@ -62,7 +62,7 @@ Filename renames require: reference audit, same-change link updates, dated evide
 2. **Implementation files own** *how* (taxonomies, protocols, institutions, forums, joint interlocks).
 3. **No duplicate definitions** across layers — implementation files *apply* Chapter Five terms.
 4. **Stricter wins** where the corpus already says so; core values and rights prevail over conflicting operational wording.
-5. **Chapter Six implements detail** for Articles I–XXVI; do not invent parallel Rights Floors in implementation files.
+5. **Chapter Six implements detail** for Articles I–XXVII; do not invent parallel Rights Floors in implementation files.
 
 ---
 
@@ -439,7 +439,7 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 
 **Visible stack (in this order):**
 
-1. `## XX-1: Scope, purpose, and boundary interface` (or the layer’s established `*-1` title).
+1. `## XXI-1: Scope, purpose, and boundary interface` (or the layer’s established `*-1` title).
 2. Collapsed **Trace**, then collapsed **Definitions · Assessment · Compliance**.
 3. One-line `*In plain terms:*` — what this layer is for.
 4. **What this layer owns** — bullets naming the layer’s operative homes.
@@ -448,7 +448,7 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 
 **Subsections under `*-1`:**
 
-- Add `### XX-1.n` only for **layer-unique** elaboration that does not belong in the owns / does-not-own lists.
+- Add `### XXI-1.n` only for **layer-unique** elaboration that does not belong in the owns / does-not-own lists.
 - **CJS-only** substance that other layers must cite — purpose of the joint layer / implementation-corpus gateway (**CJS-1.0**), identifier rules including **oDef** / **Def** and the constitutional-vs-joint-operational-definition distinction (**CJS-1.1**), shared contract (**CJS-1.3**), and parse mechanics for **oDef** (**CJS-1.13**–**CJS-1.14**) — lives in **CJS-1** (and its subsections). Parse mechanics live in [cjs_05_odef_parse_mechanics.md](corpus_joint_structure/cjs_05_odef_parse_mechanics.md); drafting contracts (**CJS-1.7**–**CJS-1.8.1**) live in [cjs_04_drafting_contracts.md](corpus_joint_structure/cjs_04_drafting_contracts.md). **CS** / **CI** / **CF** point to those homes; they do not restate them. Applicability, combined satisfaction, the default **CJS → CS → CI → CF** reading stack, and stricter-wins among jointly applicable incorporated obligations live in **Chapter One §8.4.4** and **§8.4.3**; CJS cites those homes and does not restate them. Non-operative how-to-read for average humans lives in [cjs_reader_guide.md](corpus_joint_structure/cjs_reader_guide.md) only.
 - Do **not** restate owns / does-not-own lists inside a `*-1.1` subsection when the file-level lists already state them.
 
@@ -500,7 +500,7 @@ Every substantive `CJS` / `CS` / `CI` / `CF` subfile opens the way a numbered `c
 
 **Visible stack (in this order):**
 
-1. `<a id="xx-n"></a>` and an `#` H1 carrying the stable family ID and a title — `# CF-12: Forum continuity`.
+1. `<a id="xxi-n"></a>` and an `#` H1 carrying the stable family ID and a title — `# CF-12: Forum continuity`.
 2. Collapsed **Corpus placement** widget: layer, binding status, and where to start reading.
 3. One-line **owner sentence** in operative position — `This file is the forum implementation home for **CF-12**.`
 4. One file-level collapsed **Trace**, then **Definitions · Assessment · Compliance** where the file invokes Chapter Five terms.
@@ -513,7 +513,7 @@ Every substantive `CJS` / `CS` / `CI` / `CF` subfile opens the way a numbered `c
 - `- Read with: **X**.` naming only the enclosing section;
 - an `- Upstream:` line byte-identical to the file-level Trace.
 
-**Heading grammar is one language.** CI, CF, CJS, and CS family files all use `## XX-n.m Title` (example: `## CS-7.3 Mandatory validation record`). Cite that ID as **CS-7.3**, not **CS-7 §3**. CS files keep the older `<a id="1-purpose-and-role">` slugs as compatibility aliases beside the `cs-n-m-…` ids.
+**Heading grammar is one language.** CI, CF, CJS, and CS family files all use `## XXI-n.m Title` (example: `## CS-7.3 Mandatory validation record`). Cite that ID as **CS-7.3**, not **CS-7 §3**. CS files keep the older `<a id="1-purpose-and-role">` slugs as compatibility aliases beside the `cs-n-m-…` ids.
 
 **Heading depth carries no meaning.** Markdown slugs derive from heading text, not depth, so promoting `### CF-12.1 Rights-Floor continuity rule` to `##` leaves `#cf-121-rights-floor-continuity-rule` unchanged and breaks no inbound reference. Prefer an explicit `<a id="...">` above the heading so the link survives a later rewording; `make architecture-index` regenerates the stable-ID index from these.
 
@@ -741,7 +741,7 @@ When a Chapter Six article or subarticle is cited in **body prose** — outside 
 
 **Format:** `**Article {label}** (*{title}*)`
 
-Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*)`.
+Examples: `**Article XV-C** (*Verification Accessibility*)`; `**Article XXV-C** (*Timely Resolution and Anti-Delay Floor*)`.
 
 **Rules**
 

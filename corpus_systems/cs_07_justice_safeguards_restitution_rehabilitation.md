@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*); [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-7-1-purpose-and-role); [§2](#cs-7-2-scope-and-trigger); [§3](#cs-7-3-mandatory-validation-record); [§11](#cs-7-11-lived-condition-floors-continuity-and-re-entry-alignment).
 - Read with: **CS-7**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-9**; **CJS-3.13**.
 
@@ -43,7 +43,7 @@ This file is the systems implementation home for **CS-7** (*Justice safeguards, 
 
 *In plain terms: this file is the systems protocol for restrictions — validate first, keep them light and time-bounded, and keep restoration real.*
 
-This file implements Sentient Constitution Chapter Six, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Nine** (compliance, violation, and standing model) and **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
+This file implements Sentient Constitution Chapter Six, **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*). It also implements **Sentient Constitution Chapter Nine** (compliance, violation, and standing model) and **CJS-3.13** (*procedural integrity and adjudication terms*). It operationalizes the justice objective that interventions remain safety-protective, restitution-oriented, rehabilitation-capable where feasible, and accountability-grounded.
 **It does** **not** create substitute rights or narrow [Constitutional Constraints](../core_05_band_integrative.md#constitutional-constraint).
 
 <a id="cs-7-2-scope-and-trigger"></a>
@@ -131,9 +131,9 @@ Those metrics include recurrence rates after intervention, restitution completio
 
 Patterns indicating retaliatory misalignment, discriminatory outcomes, or review non-performance require corrective action, escalation, and audit.
 
-Apply **Article XV-A** (*Auditability and Observable Evidence*), **Article XVIII-A** (*Standing Distinction*), **Article XXIII-A** (*Justice Objective and Scope*), and the related Chapter Five review and remedy definitions where auditability, standing review, or justice review is implicated.
+Apply **Article XV-A** (*Auditability and Observable Evidence*), **Article XVIII-A** (*Standing Distinction*), **Article XXIV-A** (*Justice Objective and Scope*), and the related Chapter Five review and remedy definitions where auditability, standing review, or justice review is implicated.
 
-For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIII-A** (*Justice Objective and Scope*), **Chapter Five** (*System Capture*), and **CJS-3.13** (*procedural integrity and adjudication terms*).
+For **Class A** and **Class B** systems, persistent concentrations of interpretive or adjudicative authority without effective challenge outcomes are capture-risk indicators and must trigger governance remediation review under **Article XXIV-A** (*Justice Objective and Scope*), **Chapter Five** (*System Capture*), and **CJS-3.13** (*procedural integrity and adjudication terms*).
 
 <a id="cs-7-9-cross-jurisdiction-execution-and-anti-evasion-controls"></a>
 ## CS-7.9 Cross-jurisdiction execution and anti-evasion controls
@@ -205,7 +205,7 @@ Evasive down-tiering requires corrective reclassification and enforcement review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), and **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) (Rights-Floor homes); **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) (crisis-intervention boundaries); **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Article XXIII-A** (*Justice Objective and Scope*) (proportionality, justice objective, and restoration); **CS-7** §§3–6 above; [**CI-18**](../corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md) (*Community life, voluntary association, and non-instrumental time*) through **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
+- Read with: **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*), and **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*) (Rights-Floor homes); **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*) (crisis-intervention boundaries); **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) and **Article XXIV-A** (*Justice Objective and Scope*) (proportionality, justice objective, and restoration); **CS-7** §§3–6 above; [**CI-18**](../corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md) (*Community life, voluntary association, and non-instrumental time*) through **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
 
 </details>
 
@@ -213,7 +213,7 @@ Evasive down-tiering requires corrective reclassification and enforcement review
 
 *In plain terms: While a restriction is in force, conditions must stay non-degrading and support must continue. A lawful restriction carried out in degrading conditions is still a violation.*
 
-This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Chapter Nine** measurement. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
+This subsection implements **non-degrading lived conditions** and **continuity of support** while **non-trivial restrictions** remain in force. It does **not** add criminal-law detail, create a sanction taxonomy, or restate **Chapter Nine** measurement. It **does** require that implementation of restrictions — including detention-like conditions, durable containment under **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*), **quarantine**, **supervised operation**, **role exclusion**, and comparable measures — preserves access to conditions that keep **restorative**, **least-restrictive**, and **dignity** commitments concrete rather than nominal.
 
 **Minimum lived-condition expectations (class- and context-scaled):** Responsible bodies must document and deliver, where **Necessity** and **Proportionality** allow, **healthcare and mental-health access** appropriate to the restriction’s purpose; **family, care, or trusted-contact** access where **safety** permits; **education, training, or capability development** access where the restriction is not narrowly justified to prevent it; **counsel, advocate, or independent representative** access for rights-affecting processes; **scheduled review** with **written reasons** at **intervals** that match impact and duration; **conditions** that **do not** impose **sensory deprivation**, **social isolation**, or **degradation** as an **unjustified** end; and **re-entry planning** that **does not** **sabotage** formal restoration through **withheld records**, **credential stripping without individualized predicate**, or **indefinite administrative deferral** of stated review triggers.
 

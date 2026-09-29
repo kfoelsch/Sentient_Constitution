@@ -32,7 +32,7 @@ Custody and binding scope: [Chapter Five *Corpus*](core_05_band_integrative.md#c
 
 1. **Chapter One** — the Preamble, then Values Principles (Part A), Interaction and Interpretation (Part B), and Stewardship and Governance (Part C).
 2. **Chapters Two through Five** — how definitions are built and verified, then the definition stack. Chapter Five is the **definition stack**, not the Rights Floor.
-3. **Chapter Six** — the Rights Floor, Articles I–XXVI, in Parts A–D.
+3. **Chapter Six** — the Rights Floor, Articles I–XXVII, in Parts A–D.
 4. **Chapter Seven** — functional independence and segregation of duties: the cross-process four-seat floor that separates initiation, verification or authorization, record custody, and review of challenges.
 5. **Chapters Eight through Twelve** — the standing pipeline that enforces the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
    - **Chapter Eight** — system alignment certification (one large audit process under **Article XV**, not the sole auditing home)
@@ -95,11 +95,11 @@ The corpus is written in plain language with low jargon to improve accessibility
 
 ### Rights Floor
 
-- **Chapter Six** (Articles I–XXVI in Parts A–D)
+- **Chapter Six** (Articles I–XXVII in Parts A–D)
   - Part A — Articles I–IV — [`core_06_rights_part_a.md`](core_06_rights_part_a.md)
   - Part B — Articles V–XI — [`core_06_rights_part_b.md`](core_06_rights_part_b.md)
-  - Part C — Articles XII–XXI — [`core_06_rights_part_c.md`](core_06_rights_part_c.md)
-  - Part D — Articles XXII–XXVI (transition and re-baselining in **Article XXVI**) — [`core_06_rights_part_d.md`](core_06_rights_part_d.md)
+  - Part C — Articles XII–XXIII — [`core_06_rights_part_c.md`](core_06_rights_part_c.md)
+  - Part D — Articles XXIV–XXVII (transition and re-baselining in **Article XXVII**) — [`core_06_rights_part_d.md`](core_06_rights_part_d.md)
 
 ### Governance, amendment, and incorporation
 

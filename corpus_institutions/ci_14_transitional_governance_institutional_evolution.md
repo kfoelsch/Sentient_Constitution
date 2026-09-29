@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Downstream: [CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxvi-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements); [CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements](#ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements).
+- Downstream: [CI-14.1: Interface — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxvii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements); [CI-14.3: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements](#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements).
 - Read with: **CI-14**; **CI-14.1**; **CI-14.2**; **CI-14.3**; **CI-5**; **CI-11**; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
 - Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-0.1** (*Topic router*); primary owner **CF-12**.
 
@@ -54,9 +54,9 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 - **Who owns what** — every transition authority, review authority, and evidence-custody duty must have a named institution, role, or body — not an informal working group with no accountability line.
 - **What must be published** — interim authority rules, review cadence, reauthorization windows, how unresolved risk is explained, and how evidence is kept through the handoff.
 - **What must be recorded** — material transition decisions, delays, reversals, and remediation actions, with rationale and risk implications, in auditable form.
-- **CI-14.1** — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map for non-compliant property, seizure, and voluntary turnover incentives: who decides eligibility, holds custody, adjudicates payouts, executes enforcement, reviews outcomes, and runs the contest path.
-- **CI-14.2** — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) trigger catalog, anti-abuse metrics, and publication requirements: what kinds of deprivation or incentive programs are in scope, what abuse signals to watch, and what summaries affected sentients and oversight bodies must receive.
-- **CI-14.3** — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) operative transition-scoped remediation requirements: scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and implementation custody for triggers, valuation, appeal, chain of custody, fund governance, and adversarial review.
+- **CI-14.1** — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map for non-compliant property, seizure, and voluntary turnover incentives: who decides eligibility, holds custody, adjudicates payouts, executes enforcement, reviews outcomes, and runs the contest path.
+- **CI-14.2** — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) trigger catalog, anti-abuse metrics, and publication requirements: what kinds of deprivation or incentive programs are in scope, what abuse signals to watch, and what summaries affected sentients and oversight bodies must receive.
+- **CI-14.3** — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) operative transition-scoped remediation requirements: scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and implementation custody for triggers, valuation, appeal, chain of custody, fund governance, and adversarial review.
 - **Read with** — **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity routing and conflict disclosure; **CI-11** (*Resource stewardship and incentive integrity*) for stewardship and malus/clawback interfaces where **Class A**, **Class B**, or **Critical System Steward** scope applies; **CF-12** (*Forum continuity*) for forum continuity during transition; **CS-10** (*Transition Constitution and Migration Governance*) when constitutional systems are materially involved.
 *In plain terms: "we're in transition" is not a license to suspend accountability. If an institution cannot say who holds interim power, when that power ends, how to challenge it, or what happens if the plan stalls, the transition is not constitutionally managed — no matter how many steering committees meet behind closed doors.*
 
@@ -64,19 +64,19 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 - [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
 - **CS-10** (*Transition Constitution and Migration Governance*) in `corpus_systems.md` — system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 - **CJS-3.6** (*integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
-- **CI-14 scope** — does not repeat those floors; states institutional custody, authorization, oversight, and publication duties against **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
+- **CI-14** (*Transitional governance and institutional evolution*) **scope** — does not repeat those floors; states institutional custody, authorization, oversight, and publication duties against **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).
 **Apply**
 - Apply **CJS-3.18** **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor.
 - Where the transition materially involves constitutional systems, institutions must read this section with **CS-10**.
 - **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; **CS-10** (*Transition Constitution and Migration Governance*) remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
-**Institutional transition interface (**Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) interface)**
+**Institutional transition interface (**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) interface)**
 Each institution in scope must name and maintain locally:
 - the institution, role, or body that owns each **transition authority**, **review authority**, and **evidence-custody duty**;
 - published local procedures for **interim authority**, **review cadence**, **reauthorization**, **unresolved-risk explanation**, and **evidence custody** under the **CJS-3.18** (*data-retention and lifecycle-integrity terms*) transition floor; and
 - auditable records of **material institutional transition decisions**, **delays**, **reversals**, and **remediation actions**, with rationale and risk implications.
 
-## CI-14.1: Interface — **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)
-<a id="ci-141-interface-article-xxvi-d-non-compliant-property-seizure-voluntary-incentives"></a>
+## CI-14.1: Interface — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)
+<a id="ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -88,7 +88,7 @@ Each institution in scope must name and maintain locally:
 
 *In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **CS-5 §8** and **CI-11**.*
 
-Apply **CJS-3.6** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map. Each institution in scope must name locally:
+Apply **CJS-3.6** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map. Each institution in scope must name locally:
 
 - **eligibility owner** — who decides whether a case, asset, or claim qualifies;
 - **custody body** — who holds seized, impounded, or quarantined property or systems;
@@ -104,8 +104,8 @@ Apply **CJS-3.6** **Property-custody and incentive-separation control chain** fo
 
 For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **CS-5 §8** and **CI-11**.
 
-## CI-14.2: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements
-<a id="ci-142-article-xxvi-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"></a>
+## CI-14.2: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements
+<a id="ci-142-article-xxvii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -115,17 +115,17 @@ For **Class A**, **Class B**, and **Critical System Steward** scope, connect to 
 
 <br>
 
-*In plain terms: **CI-14.2** turns **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary sentients and oversight bodies receive on a fixed schedule. The constitutional Rights Floor lives in **Chapter Six**; this subsection is implementation-only.*
+*In plain terms: **CI-14.2** turns **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary sentients and oversight bodies receive on a fixed schedule. The constitutional Rights Floor lives in **Chapter Six**; this subsection is implementation-only.*
 
-**Constitutional home:** **Chapter Six**, **Article XXVI-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
+**Constitutional home:** **Chapter Six**, **Article XXVII-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
 **Trigger catalog (for published transition and institution plans)**
 
 Institutions must publish which of the following apply in scope, with local procedure links:
 
-- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Nine**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires.
+- **Compliance-linked deprivation** — seizure, impoundment, quarantine, or disposition tied to a **Chapter Nine**-consistent or equivalent binding finding of non-compliance with applicable rules, with notice and contest paths as **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires.
 - **Remedial containment** — proportionate holding or restriction to stop ongoing harm, preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), or prevent flight of assets, distinguished from retaliatory economic stripping.
-- **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXVI-B** (*Transitional Authority Limits and Reauthorization*) reauthorization rules.
+- **Voluntary turnover incentive** — time-bounded, published incentive for good-faith voluntary transfer or verified reporting that enables lawful remediation, with **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization rules.
 
 **Non-compliant examples (illustrative)** — institutions must treat the following as out of scope or requiring immediate remediation design:
 
@@ -143,15 +143,15 @@ Publish or make available to oversight bodies, scaled to class/tier:
 - selective-enforcement indicators (divergence across comparators, unexplained cohort gaps);
 - **payout / seizure separation** — evidence that incentive adjudication does not control custody or seizure decisions;
 - appeal outcomes and time-to-decision for contests; and
-- restitution or substitute safeguards for **non-culpable holders** where **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires proportionate treatment.
+- restitution or substitute safeguards for **non-culpable holders** where **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires proportionate treatment.
 
 **Periodic summaries**
 
 Institutions must publish or provide stakeholder-facing summaries on a fixed cadence (at least annual for high-impact scope, more frequent when programs are active), subject to narrow security, safety, and privacy limits. Summaries must be intelligible without specialist training; raw sensitive data may be aggregated.
 
-<a id="ci-143-article-xxvi-d-operative-transition-scoped-remediation-requirements"></a>
+<a id="ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements"></a>
 
-## CI-14.3: **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements
+## CI-14.3: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -161,15 +161,15 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 
 <br>
 
-*In plain terms: **CI-14.3** is the operational half of **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).*
+*In plain terms: **CI-14.3** is the operational half of **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*).*
 
-**Constitutional home:** **Chapter Six**, **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
+**Constitutional home:** **Chapter Six**, **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
 Apply **CJS-3.6** **Property-custody and incentive-separation control chain** for the shared floor. Read with **CI-14.1** for role assignment and **CI-14.2** for trigger catalogs, anti-abuse metrics, and publication cadence.
 
 **Transition-scoped deprivation**
 
-A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) may authorize **accelerated remediation** of **materially non-compliant** systems or property. In scope:
+A **documented transition plan** under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) may authorize **accelerated remediation** of **materially non-compliant** systems or property. In scope:
 
 - systems within **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
 - instrumentalities whose **predominant readily foreseeable use** sustains **known non-compliant** operation at material risk.
@@ -183,7 +183,7 @@ A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and 
 
 **Notice and contest:** Prompt notice, stated reasons, and a practicable contest path must be provided as soon as feasible consistent with harm prevention and evidence integrity.
 
-**Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) is judged under remedial standards. A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) as stated in **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
+**Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) is judged under remedial standards. A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*) as stated in **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
 **Anti-pretext safeguards:** Institutions must maintain safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles V-B** and **IV-B** and [Substantive Fairness](../core_05_band_participation.md#substantive-fairness-constitutional).
 
@@ -198,7 +198,7 @@ A **documented transition plan** under **Article XXVI-A** (*Phased Adoption and 
 Time-bounded, published incentives for **good-faith voluntary turnover** or **verified reporting** that enables lawful remediation may be included in transition plans. They must:
 
 - be audit-ready;
-- require **Article XXVI-B** (*Transitional Authority Limits and Reauthorization*) reauthorization for continuation;
+- require **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization for continuation;
 - exclude coerced or bad-faith claims;
 - align with **Article XII-A** (*Reliability and Trustworthiness Baseline*) and adopted protected-reporting safeguards;
 - mitigate bounty-hunting failures — for example:
@@ -212,7 +212,7 @@ Time-bounded, published incentives for **good-faith voluntary turnover** or **ve
 
 **Implementation custody (local publication required)**
 
-Each institution in scope must publish local procedures for the following, and must **not** narrow **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*) meaning:
+Each institution in scope must publish local procedures for the following, and must **not** narrow **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*) meaning:
 
 - triggers;
 - valuation;

@@ -20,18 +20,18 @@
   },
   "clock_families": {
     "article_xxiv_c_tier_outer_bounds": {
-      "label": "Article XXIV-C / Chapter Twelve §6 tier outer bounds",
+      "label": "Article XXV-C / Chapter Twelve §6 tier outer bounds",
       "numeric_home": {
         "label": "Chapter Twelve §6",
         "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
-        "label": "Article XXIV-C",
-        "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+        "label": "Article XXV-C",
+        "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
-        "label": "Article XXIII-D restore-challenge clocks",
-        "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+        "label": "Article XXIV-D restore-challenge clocks",
+        "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
       },
       "tiers": {
         "A": "one week",
@@ -217,12 +217,12 @@
       "fact_pattern": "A continuity incident needs rapid containment. Operators want to skip notice and challenge permanently.",
       "owners": [
         {
-          "label": "Article XXIII-D",
-          "href": "core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden"
+          "label": "Article XXIV-D",
+          "href": "core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden"
         },
         {
-          "label": "Article XXIII-D restore-challenge clocks",
-          "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+          "label": "Article XXIV-D restore-challenge clocks",
+          "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -234,16 +234,16 @@
         "family": "article_xxiv_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Article XXIII-D restore-challenge clocks",
-            "href": "core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks"
+            "label": "Article XXIV-D restore-challenge clocks",
+            "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
           },
           {
             "label": "Chapter Twelve §6",
             "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
-            "label": "Article XXIV-C",
-            "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+            "label": "Article XXV-C",
+            "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -495,8 +495,8 @@
           "href": "core_01_b_interaction_interpretation.md#83-ambiguity-resolution"
         },
         {
-          "label": "Article XXII",
-          "href": "core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
+          "label": "Article XXIII",
+          "href": "core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
         }
       ],
       "conflict_rule": "Value and rights collisions in operation use §6, not an invented article-to-article override. Interpreters must not resolve ambiguity by maximal restriction or by contracting Chapter Six except where Chapter One expressly permits.",
@@ -521,8 +521,8 @@
       "fact_pattern": "An affected sentient or a tired steward cannot find the home. Specialist-only surfaces or hop count are being used as the next step.",
       "owners": [
         {
-          "label": "Article XX-A",
-          "href": "core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right"
+          "label": "Article XXI-A",
+          "href": "core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right"
         },
         {
           "label": "Chapter One §9.2 Distributed Understanding",
@@ -625,8 +625,8 @@
       "fact_pattern": "A dispute, correction, or repair is still pending while harm continues. Operators add process, hop count, or more adopted implementation text reading, or treat a met throughput target as timely.",
       "owners": [
         {
-          "label": "Article XXIV-C",
-          "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+          "label": "Article XXV-C",
+          "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
         },
         {
           "label": "Chapter Twelve §6",
@@ -649,8 +649,8 @@
             "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
-            "label": "Article XXIV-C",
-            "href": "core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor"
+            "label": "Article XXV-C",
+            "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },

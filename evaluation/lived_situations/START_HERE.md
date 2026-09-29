@@ -38,7 +38,7 @@ Read these, in order. Open the named homes; do not treat this list as the whole 
 5. [Article VII-D](../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*), including [VII-D.1](../../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship) on ordinary pregnancy vs Instantiation Consent
 6. [Chapter One §6.1.5](../../core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (*rights-collision decision test*) and the [default interim posture](../../core_01_b_interaction_interpretation.md#default-interim-posture)
 7. [Article XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)
-8. [Article XXIV-C](../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*)
+8. [Article XXV-C](../../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*)
 9. [Chapter Nine §2.1](../../core_09_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*) and [§3.6](../../core_09_standing_assessment.md#36-forum-boundary)
 10. [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog*)
 

@@ -93,7 +93,7 @@ Detailed appointment, tenure, rotation, removal, and conflict-control pathways r
 
 - [**CI-4**](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
 - [**CI-5**](../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*);
-- `core_06_rights_part_d.md` **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) where applicable.
+- `core_06_rights_part_d.md` **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) where applicable.
 
 **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) requires those protections to be reflected in the actual forum map and staffing model.
 

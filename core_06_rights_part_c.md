@@ -14,7 +14,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> **Part A** in [core_06_rights_part_a.md](core_06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part C** presents **Articles XII–XXI** in that order.
+> **Part A** in [core_06_rights_part_a.md](core_06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part C** presents **Articles XII–XXIII** in that order.
 
 </details>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-*In plain terms: Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, and resilience — Articles XII through XXI.*
+*In plain terms: Part C covers trustworthy systems, information integrity, verification, lifecycle discipline, and resilience — Articles XII through XXIII.*
 
 ### Article XII: Right to Reliable and Trustworthy Systems
 
@@ -172,7 +172,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 - **Timely redress:** Practical access includes:
   - time-bounded intake;
   - acknowledgment; and
-  - proportionate interim relief where ongoing harm is material under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+  - proportionate interim relief where ongoing harm is material under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
 
   Indefinite pendency without documented tier-appropriate justification is incompatible with this Article.
 #### Article XII-C: Prohibition of False Trust and Misleading Reliance
@@ -281,12 +281,12 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - **Truth** in **Chapter One**;
   - **Article XIV** (*Info-Sphere Integrity*) and **Article XV** (*Audit, Transparency, and Independent Verification*);
   - **Chapter Nine** where it applies; and
-  - corrective measures under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
+  - corrective measures under **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
   This applies whenever the system's operation materially weakens sentients' ability to challenge decisions, the honesty of shared information, or constitutional process.
-- **Acting against a system is not acting against a being:** Containing, quarantining, impounding, or destroying a non-compliant deployment under **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is separate from:
+- **Acting against a system is not acting against a being:** Containing, quarantining, impounding, or destroying a non-compliant deployment under **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is separate from:
   - holding a sentient accountable under **Chapter Eleven**; and
-  - **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)).
+  - **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)).
 
   Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the record under **Chapter Nine**, and each measure is a lock designed and calibrated under [Chapter Ten §5.1](core_10_standing_integration.md#51-definition-and-attachment) (*Definition and attachment*) and [Chapter Ten §5.2](core_10_standing_integration.md#52-proportionality-and-calibration) (*Proportionality and calibration*).
 
@@ -294,7 +294,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 - **The reverse also holds:** Claiming that a deployed system is sentient — whether the claim is disputed or accepted — does not let anyone keep a harmful deployment running.
   - The claim protects the entity itself under **Article V-E** (*Sentience-Status Adjudication Floor*). It does not shield the operator.
   - The deployment can still be contained, halted, or quarantined in ways that respect the entity's Rights Floor.
-  - Where credible evidence on the record suggests the entity may be sentient, only reversible containment that keeps the entity intact is allowed. Destroying it is off the table while its status is disputed or accepted, under **Article XXVI-A** (*Phased Adoption and Rights-Floor Continuity*) and **Article XXVI-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
+  - Where credible evidence on the record suggests the entity may be sentient, only reversible containment that keeps the entity intact is allowed. Destroying it is off the table while its status is disputed or accepted, under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) and **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
 #### Article XII-F: Resilience and Self-Healing Baseline
 <details>
@@ -329,15 +329,15 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - change stored data, credentials, obligations, or settings that belong to sentients, operators, or other systems **outside** the area it has declared as broken and under repair;
     - The only exception is a change that is recorded and traceable to whoever made it under **Article XV-A** (*Auditability and Observable Evidence*) ([Auditability](core_05_band_oversight.md#auditability)) and that, where others are materially affected, comes with proportionate notice, permission, or a handoff they can challenge, consistent with **Chapter Six**;
   - expand its own authority — its permissions, access, or range of actions it may take — beyond what it held before the failure.
-- **When unsure, fail safely:** If it is not clear that an automatic repair will work, the system must stop safely, isolate the problem (quarantine), or hand control over in an orderly way, instead of trying a repair that is only a guess. When the options are otherwise equal, the one that is easiest to undo wins, under the [Reversibility](core_05_band_continuity.md#reversibility-constitutional) preference in **Article XXI-B** (*Auditability, Challenge, and Reversibility Preference*).
-- **No covering up:** Automatic recovery must not hide, erase, or delay the evidence needed to work out why the failure happened under **Article XXI** (*Root Cause Analysis and Adaptive Response*).
+- **When unsure, fail safely:** If it is not clear that an automatic repair will work, the system must stop safely, isolate the problem (quarantine), or hand control over in an orderly way, instead of trying a repair that is only a guess. When the options are otherwise equal, the one that is easiest to undo wins, under the [Reversibility](core_05_band_continuity.md#reversibility-constitutional) preference in **Article XXII-B** (*Auditability, Challenge, and Reversibility Preference*).
+- **No covering up:** Automatic recovery must not hide, erase, or delay the evidence needed to work out why the failure happened under **Article XXII** (*Root Cause Analysis and Adaptive Response*).
   - Every recovery action, every recovery attempt, and every recovery attempt that was held back or blocked must itself be recorded under **Article XV-A** (*Auditability and Observable Evidence*), and each can be challenged (see [Contestability](core_05_band_accountability.md#contestability)).
 - **Rights stay protected in a reduced mode:** When a system is running in a reduced or backup mode, it must still protect the **Chapter Six** Rights Floor. If it cannot, it must escalate the problem openly rather than quietly cut back those protections.
-  - Quietly weakening Rights Floor protections in the name of "self-healing" is a violation of this Constitution. Such cases fall under **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) (transition governance).
+  - Quietly weakening Rights Floor protections in the name of "self-healing" is a violation of this Constitution. Such cases fall under **Article XII-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) (transition governance).
 - **Limits on systems that act on their own:** When a high-autonomy system repairs itself, **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) applies.
   - The power to recover may never be used to get around anyone's right to challenge (see [Contestability](core_05_band_accountability.md#contestability)), challenges under **Article XII-A** (*Reliability and Trustworthiness Baseline*), or independent checking under **Article XV** (*Audit, Transparency, and Independent Verification*).
 - **A workaround is not a fix:** If automatic recovery gets the system running again but a known defect is still in place, the system's status is provisional, not final. It must carry:
-  - an open duty to find the root cause under **Article XXI** (*Root Cause Analysis and Adaptive Response*);
+  - an open duty to find the root cause under **Article XXII** (*Root Cause Analysis and Adaptive Response*);
   - a disclosed timeline for when the defect is expected to be fixed, under **Article XV-A** (*Auditability and Observable Evidence*).
 - **No endless delay:** Keeping operators' workload down (see [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and [Chapter One §6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden)) must not be used as a reason to put off, indefinitely, fixing defects that materially affect safety or the Rights Floor.
 
@@ -384,14 +384,14 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - every emergency shortcut, handoff, or substitution, and when each approval runs out.
 
   An existing official record can serve as the Act Record if it contains all of this; a separate duplicate is not required.
-  - **Emergencies change the order, not the record:** When action is taken before approval under [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action) and **Article XXIII-D** (*Emergency Measures and Continuation Burden*), the reason, scope, start, and expiry go into the record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
+  - **Emergencies change the order, not the record:** When action is taken before approval under [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action) and **Article XXIV-D** (*Emergency Measures and Continuation Burden*), the reason, scope, start, and expiry go into the record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
   - **Secrecy limits who can see the record, not whether it exists:** Security and confidentiality rules may limit who can see parts of an Act Record. They may never erase it, or make it unusable for independent review, challenge, correction, or remedy.
   - **The actor's own logs are not approval:** Logs, model traces, targeting data, or sign-offs produced by the agency, force, or system that acted are evidence to link to the Act Record. They cannot replace independent approval or the Act Record itself.
   - **Machines need a named human decision:** For an autonomous lethal system or coercion tool, the Act Record must identify the human who made the decision that **Article XIII-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*) requires, and what information that human had when deciding.
-- **What this Article does not cover — killing as punishment:** This Article does not cover a state, or a similar power, taking someone's life as a punishment or as some other deliberate outcome outside of combat. That is banned outright by **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and by the **Chapter Five** definition of *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. That ban stands on its own, separate from this Article.
+- **What this Article does not cover — killing as punishment:** This Article does not cover a state, or a similar power, taking someone's life as a punishment or as some other deliberate outcome outside of combat. That is banned outright by **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and by the **Chapter Five** definition of *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. That ban stands on its own, separate from this Article.
   - Nothing in this Article allows, justifies, widens, or gives a legal basis for such a killing — whether a human, a machine, or a human and machine working together makes the decision.
   - Calling it combat, an emergency, a use of force, a secret operation, or a decision handed to an automated system does not turn a punishment killing into something this Article governs.
-  - If a situation that began as secret security work, a use of force, or the use of an automated or coercive system turns into a question of punishing someone in this way, it is decided only under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*. Nothing in this Article may be used to interpret it.
+  - If a situation that began as secret security work, a use of force, or the use of an automated or coercive system turns into a question of punishing someone in this way, it is decided only under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and *Irreversible Deprivation Measure*. Nothing in this Article may be used to interpret it.
 
 *Article neighbors:*
 
@@ -494,7 +494,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1.1 Necessity](core_01_b_interaction_interpretation.md#611-necessity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) conflict resolution, **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
+- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article V-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Article XXIV-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) conflict resolution, **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -534,7 +534,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - Compulsion may not turn on **Protected Characteristics** or their material proxies.
   - Conscientious-objection, comparable-worldview, and conscience-based refusal are protected consistent with **Article V-D** (*Freedom of conscience, religion, and comparable worldview*).
   - Substrate-class compulsion — for example, assignment of synthetic sentients to combat functions on the basis of substrate class alone — is non-compliant consistent with **Sentience Non-Exclusion**.
-- **Emergency-dressed normalization:** Emergency framings that functionally normalize overt force are non-compliant under **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure discipline and under this Article's *Authorization and Proportionality* bullet. Examples in scope:
+- **Emergency-dressed normalization:** Emergency framings that functionally normalize overt force are non-compliant under **Article XXIV-D** (*Emergency Measures and Continuation Burden*) emergency-measure discipline and under this Article's *Authorization and Proportionality* bullet. Examples in scope:
   - indefinite extension;
   - routinized reauthorization without substantive review;
   - scope-creep into non-emergency conduct.
@@ -551,7 +551,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), [§6.1.1 Necessity](core_01_b_interaction_interpretation.md#611-necessity), [§12.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#121-alignment-requirement), [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XII-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
+- Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article IX-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XIII-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XII-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XII-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** classification.
 
 </details>
@@ -605,7 +605,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Read with: [Article XIII-A](#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action); and [Article XXIII-D](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*).
+- Read with: [Article XIII-A](#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action); and [Article XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*).
 
 </details>
 
@@ -638,7 +638,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - how a person who is cleared has their access, standing, and record restored.
 
   The limits themselves must be public. Secrecy may withhold specific methods and live operations, but not the rules that bind them.
-  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action) and **Article XXIII-D** (*Emergency Measures and Continuation Burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
+  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Seven §6 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action) and **Article XXIV-D** (*Emergency Measures and Continuation Burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
   - **An emergency does not rewrite the rules:** Changing the protocol goes through the same independent approval, and a change applies only going forward.
   - **Discovery is not an emergency:** Finding a spy, a leak, or a breach does not by itself suspend the protocol.
 - **Suspicion must rest on conduct:** An investigation may open only on specific, recorded facts about a person's own conduct. None of the following is enough on its own:
@@ -663,10 +663,10 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - A refusal or loss of access can be challenged, and it is not itself a penalty or a public mark against the person.
 - **Suspects keep the full Rights Floor:** Being suspected of espionage does not reduce anyone's rights.
   - **No torture or coercion:** No torture, [Cruelty](core_05_band_accountability.md#cruelty), threats against family or associates, or coercive questioning. Anything obtained that way is tainted and handled under the *Remedy and taint rule* of **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*).
-  - **No secret detention:** No one may be held in secret or cut off from the outside world. Any restriction of liberty is a non-trivial restriction under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), with their review protections and time limits.
+  - **No secret detention:** No one may be held in secret or cut off from the outside world. Any restriction of liberty is a non-trivial restriction under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*), with their review protections and time limits.
   - **No forced mind-reading:** No forced reading or reconstruction of internal states, including those of synthetic sentients, beyond what the [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) allows.
   - **A real chance to answer:** Parts of a hearing may be closed for security reasons, but no decision against a person may rest on evidence that neither the person nor an independent advocate cleared to see it could challenge.
-- **No killing, no disappearing:** Counter-espionage authority never includes authority to kill, injure, or abduct anyone. Calling someone a spy, a traitor, or an enemy agent never justifies killing as punishment. That remains banned outright under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), as the main text of **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) states.
+- **No killing, no disappearing:** Counter-espionage authority never includes authority to kill, injure, or abduct anyone. Calling someone a spy, a traitor, or an enemy agent never justifies killing as punishment. That remains banned outright under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), as the main text of **Article XIII** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) states.
 - **No punishing the people around a suspect:** A suspect's family, community, colleagues, organization, or national or other group may not be punished, watched, or pressured because of what the suspect is thought to have done.
 - **No handing off:** No institution may transfer a suspect to any other body, or share information about them with it, where it is reasonably foreseeable that the other body will do to them what this Article forbids. The *No anti-bypass evasion* rule in **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) also applies.
 - **Suspected compromised systems:** When a system is suspected of being compromised or of acting for a hostile service, the first response is reversible containment that preserves evidence, under **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*).
@@ -1009,7 +1009,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 - **Oversight spread across many hands:** Several independent or varied oversight routes must each be able to play a real part in finding, reviewing, and correcting failure, misalignment, or capture.
   - **No gatekeeper over audit access:** No single actor may decide alone who may see records or run an audit. The rules for who qualifies for deeper audit access must be public and must leave more than one qualified reviewer able to meet them.
   - **No gatekeeper over review:** No single actor may decide alone whether, when, or by whom an independent review happens. An operator in particular may not be the only one able to start, limit, or end a review of its own system.
-  - **No gatekeeper over meaning:** No single actor may control how this Constitution is interpreted. Interpretation stays bounded, rotated, and open to challenge under **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+  - **No gatekeeper over meaning:** No single actor may control how this Constitution is interpreted. Interpretation stays bounded, rotated, and open to challenge under **Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
   - **Oversight keeps pace with growth:** Adopted governance and integrity implementation — including the audit process in **CJS-3.3** (*Audit process home*), integrity assurance in **CJS-3.6** (*integrity assurance and resilience operations*), and institutional assurance in **CI-7** (*Oversight, assurance, controls, and evidence*) — must scale audits and oversight as systems grow:
     - more review paths, deeper review, and more frequent review as a system's class, impact, and dependency rise;
     - a fresh check whenever a material change means earlier checks no longer describe the system; and
@@ -1022,7 +1022,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
-- Read with: [Chapter Four §4 Security-Constrained Observability and Verification Rule](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) for the barrier test; [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) for delay; [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*) for qualified and independent audit paths.
+- Read with: [Chapter Four §4 Security-Constrained Observability and Verification Rule](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) for the barrier test; [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) for delay; [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*) for qualified and independent audit paths.
 
 </details>
 
@@ -1042,7 +1042,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 - **Checking must be reachable:** Sentients who are affected, and others with proper authority, must be able to check systems in practice.
 - **Barriers that break this Article:** A barrier breaks this Article when it defeats a real audit, challenge, or review. That includes:
   - **Cost:** fees, required experts, equipment, or representation priced beyond what affected sentients can realistically bear;
-  - **Delay:** waits, backlogs, or procedural steps that run until the harm is done, the evidence is gone, or a remedy no longer helps, judged against **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*);
+  - **Delay:** waits, backlogs, or procedural steps that run until the harm is done, the evidence is gone, or a remedy no longer helps, judged against **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*);
   - **Opacity:** evidence given in a form no outsider can read or test, buried in needless complexity, or written in language affected sentients cannot follow, contrary to **Chapter One §3.4** (*Plain-Language Accessibility (Participation and Stewardship Duty)*);
   - **Gatekeeping:** eligibility rules for audit or challenge that are hidden, exclusive, or controlled by the party under review;
   - **Structural barriers:** systems designed or run so that they predictably block checking under reasonably foreseeable conditions.
@@ -1206,7 +1206,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 - **What follows:** Such conduct can lead to:
   - an audit under **Article XV-A** (*Auditability and Observable Evidence*);
   - review of the system's standing under **Article XVIII-A** (*Standing Distinction*); and
-  - conflict resolution under **Article XXIII-A** (*Justice Objective and Scope*).
+  - conflict resolution under **Article XXIV-A** (*Justice Objective and Scope*).
 
 <a id="article-xvii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
 
@@ -1495,7 +1495,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§8.1 Constitutional No-Bypass Principle](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle), and [§8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
-- Read with: [Article V-A](core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and [Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*); [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); [Article XIX](#article-xix-interoperability-portability-movement-refuge-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), where movement, refuge, portability, and exit floors live.
+- Read with: [Article V-A](core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*) and [Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*); [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); [Article XIX](#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*), where portability and exit floors live; [Article XX](#article-xx-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), where movement, refuge, and non-statelessness floors live.
 
 </details>
 
@@ -1513,7 +1513,7 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
 
 <br>
 
-*In plain terms: **Article XVIII** decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) governs.*
+*In plain terms: **Article XVIII** decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XIX** (*Interoperability, Portability, and Exit Integrity*) and **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) govern.*
 
 [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional) is participation-status or role-eligibility status on **named pathways** — specified roles and privileges under [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*General standing locks*), including:
 
@@ -1552,7 +1552,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Participation:** in pluralistic standing evaluation, challenge to opaque or monopolized standing determinations, and restoration or requalification where material restrictions are corrected.
 - **Oversight:** through auditable standing records, continuous review of eligibility and lock claims, and independent verification proportionate to the roles and restrictions at stake.
 - **Accountability:** those who assign or restrict standing must answer for lowering it without individualized reasons, proportionality, narrow tailoring, or real paths to restoration — including patterns that track protected characteristics or their proxies.
-- **Timeliness:** in standing review, challenge, and remedy before delay would foreclose survival-critical access, audit paths, or constitutionally required redress under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+- **Timeliness:** in standing review, challenge, and remedy before delay would foreclose survival-critical access, audit paths, or constitutionally required redress under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
 
 Standing discipline under this Article implements the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) together with [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and the [Chapters Nine–Twelve standing and forum supervision pipeline](README.md#standing-pipeline-and-forums). Those owner-layer processes measure verified contribution and violation and supervise remedy; they must not be used to defeat **Article III-A** (*Survival*) survival essentials or other Rights Floors stated in this chapter.
 
@@ -1560,9 +1560,9 @@ Standing discipline must remain distinct from, and must not substitute for:
 - inherent dignity under **Article V-A** (*Dignity and Equal Moral Standing*);
 - Rights-Floor minimums;
 - [Stakeholder](core_05_band_participation.md#stakeholder) status under **Article XI** (*Stakeholder System Participation, Representation, and Due Process*);
-- the individualized justice process required for punitive or liberty-restricting measures under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
+- the individualized justice process required for punitive or liberty-restricting measures under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).
 
-Participant standing alone must not foreclose survival-critical access under **Article III-A** (*Survival*), or access to challenge or remedy where this Constitution preserves those floors. No standing label, by itself, may function as exile, refuge denial, or statelessness ([Article XIX-D](#article-xix-d-movement-migration-refuge-and-non-statelessness)).
+Participant standing alone must not foreclose survival-critical access under **Article III-A** (*Survival*), or access to challenge or remedy where this Constitution preserves those floors. No standing label, by itself, may function as exile, refuge denial, or statelessness ([Article XX](#article-xx-movement-migration-refuge-and-non-statelessness)).
 
 *Article neighbors:*
 
@@ -1610,7 +1610,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Downstream: [Chapter Nine §2](core_09_standing_assessment.md#2-standing-records) (*standing records, verified-input gate, and minimum record contents*); [Chapter Nine §3.6](core_09_standing_assessment.md#36-forum-boundary) (*forum boundary*); [Chapter Ten §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: **Article III-A** (*Survival*); **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*), **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*).
+- Read with: **Article III-A** (*Survival*); **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*), **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*).
 
 </details>
 
@@ -1641,7 +1641,7 @@ Participant standing alone must not foreclose survival-critical access under **A
   - **set a bad record aside on challenge**.
 - **Forum boundary:** A filed case is not standing by itself.
   - What people claim, file, or argue while a dispute is still open does not, on its own, count as verified help or harm on anyone's standing record ([Chapter Nine §3.6](core_09_standing_assessment.md#36-forum-boundary) (*Forum boundary*)).
-  - That limit never weakens your right to challenge a decision, get it fixed, get temporary protection while the case is pending, or get a fair process under **Article XII-A** (*Reliability and Trustworthiness Baseline*), **Article XII-B** (*Right to Redress and Remedy*), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+  - That limit never weakens your right to challenge a decision, get it fixed, get temporary protection while the case is pending, or get a fair process under **Article XII-A** (*Reliability and Trustworthiness Baseline*), **Article XII-B** (*Right to Redress and Remedy*), and **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
 - **Procedural reviewability:** These rules apply whenever standing is materially restricted, downgraded, or suspended, for any reason, including:
   - a [standing lock](core_05_band_accountability.md#standing-lock) after a verified violation finding ([Article XVIII-D](#article-xviii-d-violations-and-standing-locks));
   - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XVIII-C](#article-xviii-c-contribution-competency-bars-and-pathway-eligibility); [Chapter Ten §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*));
@@ -1649,11 +1649,11 @@ Participant standing alone must not foreclose survival-critical access under **A
 
   In each case, the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;
-  - set a **time limit** on the restriction where that is feasible under **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*);
+  - set a **time limit** on the restriction where that is feasible under **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*);
   - provide a **working path** to challenge the decision, get it reviewed, fix what is wrong, and ask for another look.
 
   While a challenge is pending, any temporary limits must stay only as broad — and only as hard to undo — as safety, integrity, or fair process actually require.
-- **Proportionality:** Restrictions on standing must remain necessary and proportionate under **Necessity**, **Proportionality**, **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*). How standing locks are fitted to the harm is stated in [Article XVIII-D](#article-xviii-d-violations-and-standing-locks).
+- **Proportionality:** Restrictions on standing must remain necessary and proportionate under **Necessity**, **Proportionality**, **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*). How standing locks are fitted to the harm is stated in [Article XVIII-D](#article-xviii-d-violations-and-standing-locks).
 - **Rights-Floor minimums and non-foreclosure:** Participant standing, competency bars, competency clearances, and standing locks govern role eligibility and named privilege pathways only. They must not:
   - suspend, waive, extinguish, or reduce the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*);
   - foreclose survival-critical access or **Article III-A** (*Survival*) resource-allocation and dependency floors where materially implicated; or
@@ -1711,7 +1711,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 - Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
 - Downstream: [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*standing locks*); [Chapter Ten §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*reinstatement and review*).
-- Read with: [Article XVIII-E](#article-xviii-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale) (*unified scale*); **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*); [Article XIX-D](#article-xix-d-movement-migration-refuge-and-non-statelessness) (*standing is not a border*).
+- Read with: [Article XVIII-E](#article-xviii-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale) (*unified scale*); **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*); [Article XX](#article-xx-movement-migration-refuge-and-non-statelessness) (*standing is not a border*).
 
 </details>
 
@@ -1738,7 +1738,7 @@ Participant standing alone must not foreclose survival-critical access under **A
   - Every standing lock must spell out what access is blocked, who or what is being protected, what must be fixed before the lock lifts (the corrective condition), where to appeal (the review path), and when reassessment happens — and must remain necessary, proportionate, auditable, and contestable under [Article XVIII-B](#article-xviii-b-contestability-and-proportional-restriction-limits).
   - Competency clearance does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
   - Locks on a voting pathway, and the three special locks, carry additional rules in [Article XVIII-E](#article-xviii-e-voting-and-special-locks).
-  - Standing locks are not a substitute for individualized justice process and do not **by themselves** limit movement, refuge, portability, or exit ([Article XIX-D](#article-xix-d-movement-migration-refuge-and-non-statelessness)).
+  - Standing locks are not a substitute for individualized justice process and do not **by themselves** limit movement, refuge, portability, or exit ([Article XX](#article-xx-movement-migration-refuge-and-non-statelessness)).
 - **Fitting the lock to the harm:** A standing lock must fit how serious the verified harm was, the specific role or privilege it protects, and how far repair has progressed.
   - **Past help:** may be considered only where it shows the person can make repair, keep safeguards in place, or avoid a repeat, or where it supports a lighter restriction on reassessment ([Chapter Nine §2](core_09_standing_assessment.md#2-standing-records) (*Standing records*)). It never offsets, waives, averages down, or replaces an unresolved finding of harm.
   - **Less serious harm:** A finding of less serious harm, as measured under [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale) (*Unified proportional LEQU scale*), does not justify long-term exclusion unless there is a repeated pattern, evasion, or a link to material harm.
@@ -1796,13 +1796,13 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 <a id="article-xix-interoperability-portability-and-exit-integrity"></a>
 
-### Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity
+### Article XIX: Interoperability, Portability, and Exit Integrity
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure).
-- Read with: [Article XVIII](#article-xviii-standing-and-participation-status) (*Standing and Participation Status*); [Article XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*coercive or liberty-restricting safeguard character*); [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions; [Article XXVI](core_06_rights_part_d.md#article-xxvi-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change.
+- Read with: [Article XVIII](#article-xviii-standing-and-participation-status) (*Standing and Participation Status*); [Article XX](#article-xx-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) where exit, substrate portability, or relocation crosses jurisdictions, federations, or adopter regimes; [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions.
 
 </details>
 
@@ -1810,9 +1810,6 @@ Participant standing alone must not foreclose survival-critical access under **A
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
-- [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional) · [O](core_05_band_participation.md#movement-and-relocation-constitutional) · [M](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_05_band_participation.md#movement-and-relocation-constitutional-c)
-- [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
-- [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) · [O](core_05_band_participation.md#non-statelessness-constitutional) · [M](core_05_band_participation.md#non-statelessness-constitutional-a) · [A](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_accountability.md#meaningful-agency-o) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
@@ -1820,34 +1817,32 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 <br>
 
-*In plain terms: **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) is the exit-and-mobility Rights Floor — you should be able to leave a system or place that no longer serves you, take your data and identity with you, connect to alternatives without being trapped, move between jurisdictions, seek refuge from regimes that violate this Constitution, and never be left without anyone responsible for your basic protections. Exit on paper is not enough: portability, notice, and refuge must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business.*
+*In plain terms: **Article XIX** (*Interoperability, Portability, and Exit Integrity*) is the systems-exit Rights Floor — you should be able to leave a system that no longer serves you, take your data, identity, and working state with you, and connect to alternatives without being trapped. Exit on paper is not enough: portability and notice must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business. Moving between places and regimes, seeking refuge, and never being left stateless are covered by **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*).*
 
-This Article states **constitutional floors** for interoperability, portability, movement, refuge, and exit integrity under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+This Article states **constitutional floors** for interoperability, portability, and exit integrity under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients can choose, switch, and coordinate across systems and jurisdictions without coercive lock-in, exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or denial-by-proxy — through usable portability, reciprocal interoperability, and real paths to movement and refuge where [Material Impact](core_05_band_oversight.md#material-impact) is present.
-- **Continuity:** exit, portability, refuge, and recognition obligations stay durable as dependency deepens, operators change, or jurisdictions shift — systems and regimes must not harden trap architecture, narrow integration terms without notice, or render sentients stateless when structures fail or relationships end.
+- **Flourishing:** sentients can choose, switch, and coordinate across systems without coercive lock-in, exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or denial-by-proxy — through usable portability and reciprocal interoperability where [Material Impact](core_05_band_oversight.md#material-impact) is present.
+- **Continuity:** exit, portability, and interoperability obligations stay durable as dependency deepens or operators change — systems must not harden trap architecture or narrow integration terms without notice.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
-- **Participation:** in choosing systems and jurisdictions, migrating with usable data and identity, challenging lock-in and denial-by-proxy, and seeking refuge where practice is materially non-compliant.
+- **Participation:** in choosing and switching systems, migrating with usable data and identity, and challenging lock-in and denial-by-proxy.
 - **Oversight:** through documented interoperability boundaries, timely portability, advance notice before material narrowing, and review of whether transition conditions are real rather than merely formal.
-- **Accountability:** systems and regimes must answer for [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), anti-portability design, exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), bureaucratic exhaustion, or other conduct whose main effect is trapping sentients — blocking exit, substitution, movement, refuge, or recognition.
-- **Timeliness:** in portability delivery, refuge consideration, interoperability notice, and barrier correction before delay, opacity, or procedural friction would make exit, migration, or remedy effectively unreachable under **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*).
+- **Accountability:** systems must answer for [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), anti-portability design, or other conduct whose main effect is trapping sentients — blocking exit, switching, or substitution.
+- **Timeliness:** in portability delivery, interoperability notice, and barrier correction before delay, opacity, or procedural friction would make exit or remedy effectively unreachable under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
 
-Sentients and dependent systems have the right to meaningful, usable exit, migration, interoperability, movement, refuge, and recognition without coercive lock-in, exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or statelessness.
+Sentients and dependent systems have the right to meaningful, usable exit, migration between systems, and interoperability without coercive lock-in.
 
 - The right does not require unsafe or unjustified exposure.
 - It does require transition conditions that are real in practice — not merely formal.
-- It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05_band_continuity.md#systemic-lock-in) read with **[Chapter Five *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, jointly with **[Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent)** where exit, portability, refuge, recognition, or non-statelessness is materially interdependent, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
+- It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05_band_continuity.md#systemic-lock-in) read with **[Chapter Five *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
 
-Standing and lawful restriction:
-- Standing status, competency bars, competency clearances, and standing locks under **Article XVIII** (*Standing and Participation Status*) do not **by themselves** limit movement, refuge, portability, or exit, and must not substitute for individualized justice process.
-- Lawful liberty-restricting measures under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*coercive or liberty-restricting safeguard character*) may still restrict movement, custody, or comparable liberty where **Necessity**, **Proportionality**, process protections, and **Non-Statelessness** obligations are satisfied.
+Standing: standing status, competency bars, competency clearances, and standing locks under **Article XVIII** (*Standing and Participation Status*) do not **by themselves** limit portability or exit, and must not substitute for individualized justice process.
 
 *Article neighbors:*
 
-- **Movement and refuge floor:** **Article XIX-D** (*Movement, Migration, Refuge, and Non-Statelessness*) states the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement without narrowing portability or exit-integrity protections in **Articles XIX-A** through **XIX-C**.
-- **Implementation layer:** **[corpus_institutions.md](corpus_institutions.md)** and **Chapter Seventeen** incorporation text supply cross-regime recognition and operational procedure without narrowing the floors stated here.
+- **Movement and refuge floor:** **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) states the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement. Where one action implicates both Articles, both apply without either narrowing the other.
+- **Implementation layer:** **Chapter Seventeen** incorporation text and incorporated implementation supply interoperability, portability, and exit procedure without narrowing the floors stated here.
 #### Article XIX-A: Portability Rights
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1929,14 +1924,16 @@ Standing and lawful restriction:
 
   The rule applies beyond proportionate transaction costs and applies where **Systemic Lock-In** (**Chapter Five**) is implicated.
 
-#### Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness
+<a id="article-xx-movement-migration-refuge-and-non-statelessness"></a>
+
+### Article XX: Movement, Migration, Refuge, and Non-Statelessness
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
-- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XVIII** (*Standing and Participation Status*) standing and participation-status routing, **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
-- Read with: [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movement and Relocation*, *Refuge from Non-Compliance*, *Non-Statelessness*, *Sentience Non-Exclusion*; *Systemic Lock-In* and *Occupancy Continuity* where exit, hosting termination, eviction, or substantive relocation is materially implicated; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality).
+- Downstream: **Article V-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article V-B** (*Nondiscrimination*) non-discrimination, **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XVIII** (*Standing and Participation Status*) standing and participation-status routing, **Article XXIV-D** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
+- Read with: [Article XIX](#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where movement runs through substrate portability or system exit; [Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent); [Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*coercive or liberty-restricting safeguard character*); [Article XXVII](core_06_rights_part_d.md#article-xxvii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) for transitional recognition when regimes or federations change; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
 
 </details>
 
@@ -1953,7 +1950,58 @@ Standing and lawful restriction:
 
 <br>
 
-*In plain terms: every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
+*In plain terms: **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
+
+This Article states **constitutional floors** for movement, migration, refuge, and non-statelessness under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can move, relocate, and seek refuge across jurisdictions, federations, and adopter regimes without exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) or denial-by-proxy where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
+- **Continuity:** refuge and recognition obligations stay durable as jurisdictions shift, federations change, or structures fail — regimes must not render sentients stateless when relationships end or parent systems collapse.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in choosing where to live or run, relocating, seeking refuge where practice is materially non-compliant, and challenging denial-by-proxy.
+- **Oversight:** through published admission and refuge terms, individualized predicates for restriction, and review of whether movement and recognition paths are real rather than merely formal.
+- **Accountability:** regimes must answer for exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), coercive expulsion or dumping, bureaucratic exhaustion, or other conduct whose main effect is blocking movement, refuge, or recognition.
+- **Timeliness:** in refuge consideration, recognition arrangements, and review of emergency restrictions before delay would make movement, refuge, or remedy effectively unreachable under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
+
+Sentients have the right to meaningful movement, migration, refuge, and recognition without exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), denial-by-proxy, or statelessness. The right is consistent with **[Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent)** and does not require any particular adopter to host at volume.
+
+- **Integration with portability and exit integrity:** **Article XIX** (*Interoperability, Portability, and Exit Integrity*) governs interoperability, portability, and exit integrity; this Article governs physical, jurisdictional, and regime-to-regime movement.
+  - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
+  - Conflicts resolve under **Chapter One §6.1.5** (*Rights-Collision Decision Test*).
+- **Non-conflation:** This Article states a Rights Floor.
+  - Cross-federation recognition procedure routes to `corpus_institutions.md`.
+  - Substrate-portability mechanics route to **Article XIX** (*Interoperability, Portability, and Exit Integrity*).
+  - Transitional-recognition mechanics route to **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).
+  - Climate-unlivability refuge decisions route to **Article XX-B** and must not be read as a floor grant or a floor denial.
+  - Incorporated implementation text must not narrow this floor.
+
+*Article neighbors:*
+
+- **Systems-exit floor:** **Article XIX** (*Interoperability, Portability, and Exit Integrity*).
+- **Rights detail:** **Article XX-A** (*Movement and Relocation*), **Article XX-B** (*Refuge from Non-Compliance*), **Article XX-C** (*Non-Statelessness*), and **Article XX-D** (*Limitation, Custody, and Emergency Discipline*).
+- **Implementation layer:** **[corpus_institutions.md](corpus_institutions.md)** and **Chapter Seventeen** incorporation text supply cross-regime recognition and operational procedure without narrowing the floors stated here.
+
+#### Article XX-A: Movement and Relocation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) and [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional) · [O](core_05_band_participation.md#movement-and-relocation-constitutional) · [M](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_05_band_participation.md#movement-and-relocation-constitutional-c)
+- [Occupancy Continuity](core_05_band_continuity.md#occupancy-continuity-constitutional) · [O](core_05_band_continuity.md#occupancy-continuity-constitutional) · [M](core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [A](core_05_band_continuity.md#occupancy-continuity-constitutional-a) · [C](core_05_band_continuity.md#occupancy-continuity-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: you may move within and between jurisdictions, and relocate when staying would materially harm your survival, dignity, basic protections, or freedom from manipulation — and for synthetic and hybrid sentients, moving can mean changing instance or hosting.*
 
 - **Movement and relocation floor:** All sentients hold the right to move within and between jurisdictions, federations, and adopter regimes, and to relocate where continued presence materially impairs:
   - survival;
@@ -1965,19 +2013,63 @@ Standing and lawful restriction:
   - Movement includes:
     - physical movement for biological sentients;
     - operationally equivalent forms for synthetic and hybrid sentients (relocation of instance, hosting-substrate change, or equivalent), subject to **Chapter One** safety and continuity constraints.
+
+#### Article XX-B: Refuge from Non-Compliance
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: if your regime materially breaks this Constitution, you may seek refuge in one that follows it, and the receiving regime must consider your claim — whatever kind of body or substrate you have. Regimes that deliberately push sentients out to overwhelm others are the violators, and a receiving adopter is not automatically forced to take everyone they push.*
+
 - **Refuge from non-compliance:** A sentient facing a jurisdiction, federation, or adopter regime whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
   - The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated here.
   - Operational procedures for cross-regime recognition route to incorporated implementation text under **Chapter Seventeen** and must not narrow this floor.
   - Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - Movement and refuge admission may be excluded or conditioned for entrants who carry unremediated anti-constitutional conduct, show constitutional hostility, or show documented contempt or repudiation of the constitutional community, under the Chapter Five admission qualifier — subject to **Necessity**, **Proportionality**, **Procedural Fairness**, and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a regime-level violation by the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real. A particular adopter may refuse such instrumentally coerced inflows under **Necessity**, **Proportionality**, and **Feasibility** without extinguishing baseline recognition elsewhere.
-- **Climate-unlivability refuge (adopter-decided):** <a id="xix-d-climate-unlivability-refuge-adopter-decided"></a> This Article does not decide whether displacement caused by climate making a place unlivable — where the origin regime is not shown to be materially non-compliant — is a reason to grant refuge. Adopters who address that question must do so in published, contestable terms. This Article neither requires nor forbids treating climate-unlivability as a reason to grant refuge.
+- **Climate-unlivability refuge (adopter-decided):** <a id="xx-b-climate-unlivability-refuge-adopter-decided"></a> This Article does not decide whether displacement caused by climate making a place unlivable — where the origin regime is not shown to be materially non-compliant — is a reason to grant refuge. Adopters who address that question must do so in published, contestable terms. This Article neither requires nor forbids treating climate-unlivability as a reason to grant refuge.
   - That decision is not a Rights-Floor grant of climate refuge, and does not treat climate, by itself, as material non-compliance of a regime.
   - It does not require proving that weather violated this Constitution.
   - It must not narrow **Refuge from Non-Compliance** where origin-regime practice is materially non-compliant.
   - It must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*).
-  - It must not extinguish **Movement and Relocation** where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
+  - It must not extinguish **Movement and Relocation** under **Article XX-A** where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
   - Silence in this Article is not a hidden yes and not a hidden no.
+
+#### Article XX-C: Non-Statelessness
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint) and [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- Downstream: **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transitional recognition.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) · [O](core_05_band_participation.md#non-statelessness-constitutional) · [M](core_05_band_participation.md#non-statelessness-constitutional-a) · [A](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: no one may end up with zero regimes that recognize their basic protections, decide their standing, and offer a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap.*
+
 - **Non-statelessness:** No sentient may be rendered without a regime that will:
   - recognize their baseline Rights-Floor;
   - adjudicate their standing;
@@ -1985,27 +2077,45 @@ Standing and lawful restriction:
 
   This is a **no-zero-regime recognition floor**, not a mandate that any particular adopter host at volume or absorb instrumentally coerced mass outflows.
 
-  Where an origin, expelling, collapsing, withdrawing, or exiting regime still exists as a regime capable of recognition, that regime retains **primary** recognition responsibility. Where that regime is gone, refuses, or the discontinuity otherwise leaves a gap, shared or federation transitional recognition must be arranged consistent with **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) so the individual never hits zero recognition.
+  Where an origin, expelling, collapsing, withdrawing, or exiting regime still exists as a regime capable of recognition, that regime retains **primary** recognition responsibility. Where that regime is gone, refuses, or the discontinuity otherwise leaves a gap, shared or federation transitional recognition must be arranged consistent with **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) so the individual never hits zero recognition.
 
-  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. Transitional recognition must be arranged consistent with **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-regime recognition mechanics route to incorporated implementation text and must not narrow this floor.
+  Parent-system collapse, adopter withdrawal, federation exit, or comparable structural discontinuity does not extinguish a sentient's Chapter Six protection. Transitional recognition must be arranged consistent with **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-regime recognition mechanics route to incorporated implementation text and must not narrow this floor.
 
   Where documented anti-constitutional conduct, constitutional hostility, or contempt or repudiation of the constitutional community is present, regimes may impose conditions, monitoring, or restricted status on recognition without extinguishing core Rights-Floor, **Redress and Remediation**, and **Procedural Fairness** protections. Exclusion from a particular adopter's admission or hosting does not violate Non-Statelessness when origin-primary or shared / federation backup recognition remains real.
-- **Integration with portability and exit integrity:** This Article governs both interoperability, portability, and exit integrity and the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement.
-  - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both movement/refuge and portability/exit-integrity protections apply without either narrowing the other.
-  - Conflicts resolve under **Chapter One §6.1.5**.
+
+#### Article XX-D: Limitation, Custody, and Emergency Discipline
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) and [§6.1.3 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality).
+- Read with: [Article XVIII-D](#article-xviii-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*), and **Article XXIV-D** (*Emergency Measures and Continuation Burden*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional) · [O](core_05_band_participation.md#non-statelessness-constitutional) · [M](core_05_band_participation.md#non-statelessness-constitutional-a) · [A](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: limits on movement or refuge must be necessary, proportionate, individual, and as light as will work. Lawful custody is still allowed where someone is a verified danger, but it cannot leave them stateless. A standing label is not a border, emergencies must end, and paperwork designed to wear sentients down counts as a denial.*
+
 - **Limitations discipline:** Limitations on movement, migration, or refuge must satisfy **Chapter One §5.1** limitation discipline: **Necessity**, **Proportionality**, narrow tailoring, and least-restrictive-effective means.
   - Restrictions must not turn on **Protected Characteristics** or their material proxies.
   - Restrictions must not use population-level demographic framing as a substitute for individualized predicate under **Procedural Fairness**.
 - **Lawful custody and liberty-restricting measures:** This Article does not immunize sentients from lawful detention, custody, supervised operation, or other liberty-restricting justice measures where verified violence, coercion, anti-constitutional misconduct, or comparable social danger requires them.
-  - Such measures must satisfy **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIII-C** (*Least-Restrictive and Time-Bounded Rule*), and applicable criminal-process or equivalent protections triggered by [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules).
-  - They must remain consistent with **Non-Statelessness**: no sentient may be left without a regime that recognizes baseline Rights-Floor protection, adjudicates standing, and provides **Redress and Remediation** pathways, including while custody or comparable restriction is in force.
-<a id="article-xviii-d-movement-migration-and-refuge"></a>
-<a id="article-xviii-d-movement-migration-refuge-and-non-statelessness-routing"></a>
+  - Such measures must satisfy **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*), **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*), and applicable criminal-process or equivalent protections triggered by [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*Special violation rules*).
+  - They must remain consistent with **Non-Statelessness** under **Article XX-C**: no sentient may be left without a regime that recognizes baseline Rights-Floor protection, adjudicates standing, and provides **Redress and Remediation** pathways, including while custody or comparable restriction is in force.
 - **Standing is not a border:** Participant standing, competency bars, competency clearances, and standing locks under **Article XVIII** (*Standing and Participation Status*) govern role eligibility on named pathways only.
   - They do not **by themselves** limit movement, migration, refuge, portability, exit, or non-statelessness rights.
   - They must not function as exile, refuge denial, statelessness, or systemic lock-in by standing label alone, and must not substitute for individualized justice process.
   - They do not **by themselves** authorize the liberty-restricting measures above; they may run alongside them where each satisfies its own constitutional requirements under [Chapter Ten §4.2](core_10_standing_integration.md#42-general-standing-locks) (*General standing locks*) and this Article.
-- **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Article XXIII-D** (*Emergency Measures and Continuation Burden*) emergency-measure discipline — including:
+- **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Article XXIV-D** (*Emergency Measures and Continuation Burden*) emergency-measure discipline — including:
   - time-bounding;
   - individualized-predicate requirements;
   - proportionate review;
@@ -2016,14 +2126,8 @@ Standing and lawful restriction:
   - delay regimes designed to exhaust claimants;
   - credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
   - allocation regimes that route claimants to non-equivalent services.
-- **Non-conflation:** This Article states a Rights Floor.
-  - Cross-federation recognition procedure routes to `corpus_institutions.md`.
-  - Substrate-portability mechanics route to this Article's portability and exit-integrity provisions.
-  - Transitional-recognition mechanics route to **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*).
-  - Climate-unlivability refuge decisions route to this Article's adopter-decided bullet and must not be read as a floor grant or a floor denial.
-  - Incorporated implementation text must not narrow this floor.
 
-### Article XX: Comprehensibility and Complexity Stewardship
+### Article XXI: Comprehensibility and Complexity Stewardship
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -2050,7 +2154,7 @@ Standing and lawful restriction:
 
 <br>
 
-*In plain terms: **Article XX** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.*
+*In plain terms: **Article XXI** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.*
 
 This Article states **constitutional floors** for comprehensibility and complexity stewardship under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -2074,8 +2178,8 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
   - [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) (*plain-language and jargon-as-defeat discipline*);
   - [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (*avoidable-burden minimization and simplification carve-outs*);
   - [Chapter One Part C §9.1](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) (*distributed understanding keyed to materiality and dependency*).
-- **Rights detail:** **Article XX-A** (*Proportional Comprehensibility Right*) and **Article XX-B** (*Complexity Audit and Modularity Requirements*); **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***.
-#### Article XX-A: Proportional Comprehensibility Right
+- **Rights detail:** **Article XXI-A** (*Proportional Comprehensibility Right*) and **Article XXI-B** (*Complexity Audit and Modularity Requirements*); **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***.
+#### Article XXI-A: Proportional Comprehensibility Right
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -2097,7 +2201,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 <summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-comprehensibility"></a>
-> **Who's in charge here, and what's off-limits.** **Owner:** Article XX-A. Chapter One §9.1 Distributed Understanding. Contest floor: Article XII-A. **Forbidden move:** Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-A. **Clock:** Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.
+> **Who's in charge here, and what's off-limits.** **Owner:** Article XXI-A. Chapter One §9.1 Distributed Understanding. Contest floor: Article XII-A. **Forbidden move:** Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XII-A. **Clock:** Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.
 
 </details>
 
@@ -2112,7 +2216,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
   - impose material limits or conditions.
 
   That understanding must reach levels proportionate to role, classification, and risk. It must not be confined to specialist-only surfaces where broader accountability or participation is materially implicated.
-#### Article XX-B: Complexity Audit and Modularity Requirements
+#### Article XXI-B: Complexity Audit and Modularity Requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -2145,9 +2249,9 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
   Where CS-6 and incorporated implementation conflict, the stricter applicable requirement governs.
 
-<a id="article-xxi-root-cause-analysis-and-adaptive-response"></a>
+<a id="article-xxii-root-cause-analysis-and-adaptive-response"></a>
 
-### Article XXI: Root Cause Analysis and Adaptive Response
+### Article XXII: Root Cause Analysis and Adaptive Response
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -2170,7 +2274,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
 <br>
 
-*In plain terms: **Article XXI** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.*
+*In plain terms: **Article XXII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.*
 
 This Article states **constitutional floors** for root-cause analysis and adaptive response under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -2191,9 +2295,9 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 *Article neighbors:*
 
 - **Evidence and challenge:** **Article XV** (*Audit, Transparency, and Independent Verification*) and **Article XII-A** (*Reliability and Trustworthiness Baseline*) — root-cause records must remain open to audit and contest without narrowing those floors.
-- **Lifecycle and recovery:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) — automatic recovery must not suppress evidence needed for root-cause analysis; read with **Article XXI-B** (*Auditability, Challenge, and Reversibility Preference*) reversibility preference.
+- **Lifecycle and recovery:** **Article XVI** (*System Lifecycle, Environments, and Reversibility*) — automatic recovery must not suppress evidence needed for root-cause analysis; read with **Article XXII-B** (*Auditability, Challenge, and Reversibility Preference*) reversibility preference.
 - **Implementation routing:** **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*) and **CS-5** (*Design, testing, verification, and deployment*) — implement adaptive response without substituting for the Rights Floors stated here.
-#### Article XXI-A: Diagnostic Rigor and Causal Attribution
+#### Article XXII-A: Diagnostic Rigor and Causal Attribution
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -2214,7 +2318,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 
 *In plain terms: root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.*
 
-- **Documentation and audit:** The following must be documented and auditable (**Article XV-A** (*Auditability and Observable Evidence*); **Article XXI** (*Root Cause Analysis and Adaptive Response*)):
+- **Documentation and audit:** The following must be documented and auditable (**Article XV-A** (*Auditability and Observable Evidence*); **Article XXII** (*Root Cause Analysis and Adaptive Response*)):
   - root-cause conclusions;
   - confidence levels;
   - material uncertainties;
@@ -2223,7 +2327,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 - **Openness to challenge:** They must remain open to:
   - challenge, independent verification, and correction under **Article XII-A** (*Reliability and Trustworthiness Baseline*), **Article XII-B** (*Right to Redress and Remedy*), and **Article XV** (*Audit, Transparency, and Independent Verification*);
   - contestability obligations in **Article XIV** (*Info-Sphere Integrity*) where epistemic integrity is implicated.
-#### Article XXI-B: Auditability, Challenge, and Reversibility Preference
+#### Article XXII-B: Auditability, Challenge, and Reversibility Preference
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -2252,9 +2356,9 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
   - avoidable delay in proportionate protective action;
   - overstated confidence in permanent measures.
 
-<a id="article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
+<a id="article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
 
-### Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards
+### Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -2278,7 +2382,7 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 
 <br>
 
-*In plain terms: **Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.*
+*In plain terms: **Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.*
 
 This Article states **constitutional floors** for interpretive authority, review, and anti-capture safeguards under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -2297,10 +2401,10 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 *Article neighbors:*
 
 - **Forum supervision:** [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) — Constitutional forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
-- **Challenge and justice:** **Article XII-A** (*Reliability and Trustworthiness Baseline*) and [**Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*)](core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
-- **Non-entrenchment:** [**Article XXV-A** (*Non-Entrenchment and Revisability*)](core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*) — periodic revalidation under **Article XXII-D** (*Removal for Cause and Non-Entrenchment*) read with non-entrenchment discipline.
+- **Challenge and justice:** **Article XII-A** (*Reliability and Trustworthiness Baseline*) and [**Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*)](core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) (*Conflict Resolution, Escalation, and Emergency Proportionality*) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
+- **Non-entrenchment:** [**Article XXVI-A** (*Non-Entrenchment and Revisability*)](core_06_rights_part_d.md#article-xxvi-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*) — periodic revalidation under **Article XXIII-D** (*Removal for Cause and Non-Entrenchment*) read with non-entrenchment discipline.
 - **Institutional routing:** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
-#### Article XXII-A: Bounded Interpretive Mandate
+#### Article XXIII-A: Bounded Interpretive Mandate
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -2333,8 +2437,8 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   - conclusively enlarge their own jurisdiction;
   - suspend challenge pathways;
   - displace designated implementation owners, except where the **constitutional** question itself requires that determination under the **Authority Stack and Internal Hierarchy** cluster.
-<a id="article-xxii-b-composition-rotation-and-conflict-controls"></a>
-#### Article XXII-B: Composition, Rotation, and Conflict Controls
+<a id="article-xxiii-b-composition-rotation-and-conflict-controls"></a>
+#### Article XXIII-B: Composition, Rotation, and Conflict Controls
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -2367,7 +2471,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   - selective paralysis;
   - covert control.
 - **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional forum** panels are governed by **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
-#### Article XXII-C: Public Reasons, Challenge Rights, and External Review
+#### Article XXIII-C: Public Reasons, Challenge Rights, and External Review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -2408,7 +2512,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   - capture indicators;
   - decision quality;
   - Rights-Floor integrity.
-#### Article XXII-D: Removal for Cause and Non-Entrenchment
+#### Article XXIII-D: Removal for Cause and Non-Entrenchment
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -2435,7 +2539,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
   - corruption;
   - capture participation;
   - persistent procedural unfairness.
-- **Periodic revalidation:** **Constitutional forum** institutional design — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXV-A** (*Non-Entrenchment and Revisability*)](core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
+- **Periodic revalidation:** **Constitutional forum** institutional design — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXVI-A** (*Non-Entrenchment and Revisability*)](core_06_rights_part_d.md#article-xxvi-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
 - **Anti-pretext:** **Appointing authorities**, **Constitutional forums**, and **adopting institutions** must not use removal, restructuring, or redesign of **Constitutional forum** panels or institutions as a pretext to:
   - defeat independence;
   - terminate pending review;

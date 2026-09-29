@@ -53,7 +53,7 @@ Constitutional tracing: This file specifies implementation-file-level funding st
 
 **CS-8** governs how allocation adapts when conditions change. This file specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. It is **not** a second copy of Chapter Five.
 
-Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles IV, XI, XII, XV-A, XVIII, XXI, and XXIII** where applicable.
+Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles IV, XI, XII, XV-A, XVIII, XXII, and XXIV** where applicable.
 
 <a id="cs-9-2-principles-of-funding"></a>
 ## CS-9.2 Principles of funding
@@ -68,14 +68,14 @@ Mechanisms must:
 - support long-term sustainability and improvement;
 - resist concentration of wealth or influence that undermines constitutional alignment;
 - remain transparent, auditable, and reviewable (**Article XV-A** (*Auditability and Observable Evidence*));
-- preserve adaptability (**Article XXV** (*Constitutional Evolution and Non-Entrenchment*)).
+- preserve adaptability (**Article XXVI** (*Constitutional Evolution and Non-Entrenchment*)).
 
 <a id="cs-9-3-cross-system-resource-flows-and-dependencies"></a>
 ## CS-9.3 Cross-system resource flows and dependencies
 
 *In plain terms: Systems that lean on shared infrastructure must contribute back in proportion, and must disclose what they depend on.*
 
-Interconnected systems must meet **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*) and remain subject to **Article XV-A** (*Auditability and Observable Evidence*), **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*), and **Article XVIII-A** (*Standing Distinction*).
+Interconnected systems must meet **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article IV-B** (*Cross-System Fairness and Sustainability*) and remain subject to **Article XV-A** (*Auditability and Observable Evidence*), **Article XXII-A** (*Diagnostic Rigor and Causal Attribution*), and **Article XVIII-A** (*Standing Distinction*).
 
 Funding structures must:
 - account for all upstream and downstream dependencies;
@@ -123,7 +123,7 @@ Systems must maintain a documented representation of their material dependencies
 
 Implement **Article IV-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XV-A** (*Auditability and Observable Evidence*).
 
-Opacity or unverifiable flows are subject to review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
+Opacity or unverifiable flows are subject to review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), and **Article XXIV-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
 
 Funding systems must:
 - provide clear, auditable records of resource flows;
@@ -212,11 +212,11 @@ Once established and disclosed, allocation structures affecting builder and main
 
 *In plain terms: Every funding model must be re-approved periodically. Missing the deadline keeps the old model running but triggers automatic review.*
 
-Funding systems are subject to continuous evaluation and refinement under **Article XXV** (*Constitutional Evolution and Non-Entrenchment*).
+Funding systems are subject to continuous evaluation and refinement under **Article XXVI** (*Constitutional Evolution and Non-Entrenchment*).
 
 Models that fail to support sustainability, produce inequitable outcomes, or undermine constitutional alignment will be subject to challenge, revision, and replacement.
 
-All funding models and allocation structures must undergo **periodic reauthorization** at intervals proportionate to system criticality, scale, and stability. Failure to reauthorize may trigger review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), and **Article XXIII-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
+All funding models and allocation structures must undergo **periodic reauthorization** at intervals proportionate to system criticality, scale, and stability. Failure to reauthorize may trigger review under **Article XV-A** (*Auditability and Observable Evidence*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), and **Article XXIV-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
 
 **The reauthorization processes must**:
 - evaluate alignment with constitutional principles;
@@ -227,7 +227,7 @@ Reauthorization processes may be initiated by system participants, oversight bod
 
 **If reauthorization is not completed within the expected interval**, **the existing model remains temporarily in effect**.
 
-**A** review is automatically triggered under **Article XV-A** (*Auditability and Observable Evidence*) and **Article XXI-A** (*Diagnostic Rigor and Causal Attribution*).
+**A** review is automatically triggered under **Article XV-A** (*Auditability and Observable Evidence*) and **Article XXII-A** (*Diagnostic Rigor and Causal Attribution*).
 
 **A** transition process must be initiated within a reasonable period proportional to system criticality.
 
@@ -253,7 +253,7 @@ One such reference model includes:
 - a portion allocated to broader ecosystem development and constitutional project funding.
 
 **Default funding models must**:
-- remain easy to understand and verify (**Article XX-A** (*Proportional Comprehensibility Right*) and **Article XV-A** (*Auditability and Observable Evidence*));
+- remain easy to understand and verify (**Article XXI-A** (*Proportional Comprehensibility Right*) and **Article XV-A** (*Auditability and Observable Evidence*));
 - be disclosed transparently;
 - remain subject to modification through stakeholder deliberation (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies).
 
@@ -308,7 +308,7 @@ Systems that operate at higher layers (e.g., applications, tools, creative syste
 
 *In plain terms: Those affected by allocation decisions get to review and change them, with heightened scrutiny where stability or security is at stake.*
 
-Allocation models are subject to participatory oversight under **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and must remain understandable at a proportionate level under **Article XX-A** (*Proportional Comprehensibility Right*) where interfaces and models are materially impactful. Where funding decisions materially affect system stability, security, or foundational requirements, such decisions must be evaluated with heightened scrutiny proportional to system criticality.
+Allocation models are subject to participatory oversight under **Article XI** (*Stakeholder System Participation, Representation, and Due Process*) and must remain understandable at a proportionate level under **Article XXI-A** (*Proportional Comprehensibility Right*) where interfaces and models are materially impactful. Where funding decisions materially affect system stability, security, or foundational requirements, such decisions must be evaluated with heightened scrutiny proportional to system criticality.
 
 **Stakeholders have the authority to** **review and modify allocation structures**. They may **evaluate fairness and effectiveness**. They may **redirect funding in response to changing needs**.
 
@@ -338,7 +338,7 @@ No minimum participation threshold is required to initiate review, though outcom
 **Challenges must**:
 - be documented and supported by evidence where feasible;
 - remain subject to audit and evaluation under **Article XV-A** (*Auditability and Observable Evidence*);
-- be resolved through participatory processes (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, Article XXIII-A** (*Justice Objective and Scope*)** (justice objective and review scope).
+- be resolved through participatory processes (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, Article XXIV-A** (*Justice Objective and Scope*)** (justice objective and review scope).
 
 <a id="cs-9-18-due-process-in-funding-changes"></a>
 ## CS-9.18 Due process in funding changes
@@ -358,7 +358,7 @@ Funding-related decisions apply **Article XI** (*Stakeholder System Participatio
 
 *In plain terms: How role-holders with authority over resource flows get paid must align with long-term outcomes, not with the decisions they themselves approve.*
 
-Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. That requirement applies when those roles materially influence resource flows or funding decisions. That obligation applies when those roles materially influence dependent-systems maps. It applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-4 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. It includes substrate and dependency integrity (**Articles I–III and V**). It includes non-entrenchment and fitness over time (**Article XXV-A** (*Non-Entrenchment and Revisability*)).
+Compensation, equity, bonuses, performance metrics, and deferred incentives for **builders, operators, maintainers, and human governance roles** must be **aligned with long-term constitutional outcomes**. That requirement applies when those roles materially influence resource flows or funding decisions. That obligation applies when those roles materially influence dependent-systems maps. It applies when those roles materially influence **system classification** or **Critical System Stewardship** (CS-4 — Critical system stewardship). That alignment includes ecosystem-aware stewardship under **Sentient Constitution Chapter Six**, **Articles I-B** and **XI**. It includes substrate and dependency integrity (**Articles I–III and V**). It includes non-entrenchment and fitness over time (**Article XXVI-A** (*Non-Entrenchment and Revisability*)).
 
 Remuneration design must satisfy [corpus_joint_structure.md — Cross-domain implementation layer](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cross-domain-implementation-layer), including **CJS-3.12** (*burden-of-justification and constraint terms*) mechanism-integrity and incentive-alignment requirements, incorporated via **Sentient Constitution Chapter Seventeen**, and **Sentient Constitution Chapter One**. That includes the requirement that incentives not systematically undermine Safety, Truth (Epistemic Integrity), or meaningful agency.
 

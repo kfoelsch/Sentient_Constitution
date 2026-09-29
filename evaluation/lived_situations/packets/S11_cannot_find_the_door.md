@@ -81,9 +81,9 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship); [Article XX-A](../../../core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
+- [Article XXI](../../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship); [Article XXI-A](../../../core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right) — you should not need the whole rulebook to object; hiding the home is still a refusal
 - [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy)
-- [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
+- [Article XXV-C](../../../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) — a file that never finishes is still a refusal
 - [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival) where water is essential shelter access
 - [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) where the wage-deduction is used to defeat survival
 - If you conclude a **forum family** is in play, [Chapter Twelve §3](../../../core_12_forum.md#3-transfer-consolidation-and-coordination) and capacity-failure heard outside the starved body. Do not assume a municipal contest desk is already a forum family.

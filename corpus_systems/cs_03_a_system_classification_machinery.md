@@ -321,7 +321,7 @@ When a system offers scarce capacity — network access, compute, model inferenc
 
 - **Class A** traffic and API use gets the highest continuity protection when the request or dependent workflow is survival-critical, Rights-Floor-sustaining, emergency-response, or recovery-critical
   - Throttling, queuing, paid tiers, or commercial prioritization must **not** crowd out the minimum safe capacity Class A continuity needs
-  - A narrower emergency cut is allowed only under **Chapter Six, Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*), and only if it stays time-bounded, auditable, and restoration-triggered
+  - A narrower emergency cut is allowed only under **Chapter Six, Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*), and only if it stays time-bounded, auditable, and restoration-triggered
 - **Class B** traffic and API use gets enough priority to keep dependent systems running normally and to stop cascading degradation into Class A or broader systemic harm
   - Class B may be queued, rate-limited, or degraded **before** Class A when capacity is genuinely short
   - That degradation must be disclosed, proportionate, and designed around workable fallback or recovery paths

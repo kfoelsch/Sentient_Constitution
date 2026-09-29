@@ -230,7 +230,7 @@ Where restorative pathways for a verified violation include public acknowledgmen
   - independently reviewable for voluntariness and authenticity.
 - Refusal to participate in public expression must not, by itself, increase baseline sanctions, widen a standing lock, or substitute for remedy or correction owed under [§4.1](#41-remedy-and-correction).
 - **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
-  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection, remediation, or locks under [§4.1](#41-remedy-and-correction) and [§4.2](#42-general-standing-locks), is non-compliant.
 - No format may impose any of the following beyond what is necessary for truthful accountability and proportionate remediation:
   - degrading treatment;
@@ -645,7 +645,7 @@ An applicable standing lock under [§4.2](#42-general-standing-locks) and [§5](
 
 The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2](#2-integration-record-and-decision-order) are complete. That statement must list every open clearance and every restricted named pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2](#2-integration-record-and-decision-order).
 
-**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
 
 The integration record must state the final effect separately for each affected named pathway:
 
@@ -693,7 +693,7 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 
 *In plain terms: no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.*
 
-- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) and **Article XX-A** (*Proportional Comprehensibility Right*), and must name:
+- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) (*Plain-Language Accessibility (Participation and Stewardship Duty)*) and **Article XXI-A** (*Proportional Comprehensibility Right*), and must name:
   - each affected named pathway;
   - what the subject may and may not do while the effect holds;
   - the corrective conditions and reassessment point;
@@ -812,7 +812,7 @@ Forums and implementation systems must be able to look through formal structure 
 <a id="95-timely-implementation-and-reassessment"></a>
 #### 9.5 Timely implementation
 
-Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXIV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Nine slot.
+Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*), and **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Nine slot.
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 

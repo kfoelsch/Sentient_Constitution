@@ -50,8 +50,8 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_12_forum.md` | ~380 | Core | Chapter 9 (forums, jurisdiction) |
 | `core_06_rights_part_a.md` | ~630 | Core | Chapter 10 Part A (Articles I-IV) |
 | `core_06_rights_part_b.md` | ~1,380 | Core | Chapter 10 Part B (Articles V-XI) |
-| `core_06_rights_part_c.md` | ~1,600 | Core | Chapter 10 Part C (Articles XII-XXII) |
-| `core_06_rights_part_d.md` | ~560 | Core | Chapter 10 Part D (Articles XXIII-XXV) |
+| `core_06_rights_part_c.md` | ~1,600 | Core | Chapter 10 Part C (Articles XII-XXIII) |
+| `core_06_rights_part_d.md` | ~560 | Core | Chapter 10 Part D (Articles XXIV-XXVI) |
 | `core_13_governance.md` | ~330 | Core | Chapter 11 (constitutional contract) |
 | `core_14_non_regression.md` | ~640 | Core | Chapters 12-13 (non-regression, amendment) |
 | `core_17_incorporation.md` | ~160 | Core | Chapter 15 (incorporation bridge) |

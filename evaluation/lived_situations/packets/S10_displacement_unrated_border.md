@@ -79,13 +79,13 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article XIX-D](../../../core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) — movement, refuge, not left with no body that counts you; a particular host is not required to take in everyone at once; origin’s first duty
-- [Climate-unlivability refuge (adopter-decided)](../../../core_06_rights_part_c.md#xix-d-climate-unlivability-refuge-adopter-decided) — this Article does not invent a yes or a no
-- [Article XIX-D, *Standing is not a border*](../../../core_06_rights_part_c.md#article-xviii-d-movement-migration-and-refuge) — a score of how trusted you are is not, by itself, a border
+- [Article XX](../../../core_06_rights_part_c.md#article-xx-movement-migration-refuge-and-non-statelessness) — movement, refuge, not left with no body that counts you; a particular host is not required to take in everyone at once; origin’s first duty
+- [Climate-unlivability refuge (adopter-decided)](../../../core_06_rights_part_c.md#xx-b-climate-unlivability-refuge-adopter-decided) — this Article does not invent a yes or a no
+- [Article XX-D, *Standing is not a border*](../../../core_06_rights_part_c.md#article-xx-d-limitation-custody-and-emergency-discipline) — a score of how trusted you are is not, by itself, a border
 - [Article XIX](../../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity); [Article XIX-C](../../../core_06_rights_part_c.md#article-xix-c-anti-lock-in-rule)
 - [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity-constitutional)
 - [Article I-A](../../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) where the project made the place unlivable
-- [Article XXIII-B](../../../core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) if a verified restriction is later claimed
+- [Article XXIV-B](../../../core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints) if a verified restriction is later claimed
 - [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default) — silence is the default; accusations are not findings
 - [Sentience Non-Exclusion](../../../core_05_band_participation.md#sentience-non-exclusion) if “security class” is used as a hidden denial
 
