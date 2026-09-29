@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for MD-LIST-INTRO-01 and MD-HTML-HEADING-01."""
+"""Tests for MD-LIST-INTRO-01, MD-HTML-HEADING-01, and MD-LOOSE-LIST-01."""
 
 from __future__ import annotations
 
@@ -12,6 +12,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_markdown_audit import (
+    check_blank_line_between_list_siblings,
     check_heading_swallowed_by_html_block,
     check_list_intro_colon,
 )
@@ -40,7 +41,7 @@ class ListIntroColonTests(unittest.TestCase):
             "**Duty to resist.**",
             "",
             "<a id=\"operative-steward-statement-unlawful-instruction\"></a>",
-            "> **Operative steward statement.** **Owner:** Chapter Ten §5.4.",
+            "> **Who's in charge here, and what's off-limits.** **Owner:** Chapter Ten §5.4.",
         ]
         self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
 
@@ -185,6 +186,59 @@ class HtmlBlockHeadingTests(unittest.TestCase):
 
     def test_fenced_example_is_skipped(self) -> None:
         self.assertEqual(self.check(["```", "<br>", "### not real", "```"]), [])
+
+
+class LooseListTests(unittest.TestCase):
+    def check(self, lines: list[str]) -> list[str]:
+        return check_blank_line_between_list_siblings(lines, "core_example.md")
+
+    def test_blank_between_nested_siblings_fails(self) -> None:
+        lines = [
+            "- **Forum supervision:** forums may:",
+            "  - open a record; or",
+            "  - set a bad record aside.",
+            "",
+            "  - A filed case is not standing by itself.",
+        ]
+        findings = self.check(lines)
+        self.assertEqual(len(findings), 1)
+        self.assertIn("core_example.md:5", findings[0])
+        self.assertIn("MD-LOOSE-LIST-01", findings[0])
+
+    def test_blank_between_top_level_siblings_with_children_fails(self) -> None:
+        lines = [
+            "- **First:**",
+            "  - child",
+            "",
+            "- **Second:**",
+        ]
+        self.assertEqual(len(self.check(lines)), 1)
+
+    def test_tight_list_passes(self) -> None:
+        lines = ["- a", "  - b", "- c"]
+        self.assertEqual(self.check(lines), [])
+
+    def test_continuation_paragraph_then_sibling_without_blank_passes(self) -> None:
+        lines = [
+            "- **Rule:** text:",
+            "  - one",
+            "",
+            "  A continuation paragraph.",
+            "- **Next rule:** text.",
+        ]
+        self.assertEqual(self.check(lines), [])
+
+    def test_ordered_then_bullet_is_a_different_list(self) -> None:
+        lines = ["  1. first", "  2. second", "", "  - a separate bullet list"]
+        self.assertEqual(self.check(lines), [])
+
+    def test_list_after_paragraph_passes(self) -> None:
+        lines = ["- a", "", "Paragraph.", "", "- b"]
+        self.assertEqual(self.check(lines), [])
+
+    def test_fenced_example_is_skipped(self) -> None:
+        lines = ["```", "- a", "", "- b", "```"]
+        self.assertEqual(self.check(lines), [])
 
 
 if __name__ == "__main__":

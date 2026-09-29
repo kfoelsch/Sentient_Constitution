@@ -29,10 +29,10 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-remedy"></a>
-> **Operative steward statement.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Principle: Chapter One §4.2 Correction and Remedy. Rights-Floor redress: Article XII-B. Challenge: Article XII-A. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Principle: Chapter One §4.2 Correction and Remedy. Rights-Floor redress: Article XII-B. Challenge: Article XII-A. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
 
 </details>
 
@@ -268,7 +268,7 @@ Design a lock in this order:
 - Put the terms in plain view and keep a review path ([§5.3](#53-record-visibility-and-escalation)).
 - Apply any special violation rules that shape that attachment ([§5.4](#54-special-violation-rules)).
 - Apply any mandatory special locks, using the same attachment fields ([§5.5](#55-special-locks)).
-- Past good work does not cancel a verified harm, skip repair, or open a locked named pathway—that no-offset rule lives in [Chapter Nine §2.2](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
+- Past help does not cancel a verified harm, skip repair, or open a locked named pathway—that no-offset rule lives in [Chapter Nine §2.2](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) (*Linked records and no-offset bridge*) and applies here.
 - [§4](#4-violation-correction-and-prevention) already says contribution does not decide locks.
 - What contribution can do later is covered in [§6](#6-contribution-consequences-second) and [§8](#8-restoration-and-reassessment).
 
@@ -528,7 +528,7 @@ This section starts from verified Chapter Nine contribution records that apply t
 - how current the contribution still is; and
 - whether any competency clearance for an open named pathway is met against its published bar.
 
-Past good work does not set the remedy, the correction duties, the safeguards, or the locks under [§4](#4-violation-correction-and-prevention) and [§5](#5-lock-design-and-enforcement). Good work also cannot cancel or balance out a verified harm—that [no-offset rule](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Nine still applies.
+Past help does not set the remedy, the correction duties, the safeguards, or the locks under [§4](#4-violation-correction-and-prevention) (*Violation correction and prevention*) and [§5](#5-lock-design-and-enforcement) (*Lock design and enforcement*). Help also cannot cancel or balance out a verified harm—that [no-offset rule](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Nine still applies.
 
 Decide contribution consequences in this order:
 

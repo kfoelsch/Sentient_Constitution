@@ -198,7 +198,7 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertIn("operative_box", roles)
         box = next(span for span in result["spans"] if span["role"] == "operative_box")
         self.assertTrue(box["hydrated"])
-        self.assertIn("Operative steward statement", box["text"])
+        self.assertIn("Who's in charge here, and what's off-limits", box["text"])
         self.assertEqual(box["citation"]["edition"], "SC-Corpus-2026.08.09")
 
     def test_cite_pins_edition_and_validity(self) -> None:

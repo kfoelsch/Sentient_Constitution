@@ -288,9 +288,13 @@ The [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#ri
 - **Non-conflation:** This Article states the Rights-Floor *adjudication* right.
   - Operational procedure — institutional design, appointment mechanics, filing conditions, and sequencing — routes to **Chapter Twelve** ([Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) as default lead under the [§5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification)) and to implementation text under the **Chapter Seventeen** incorporation discipline.
   - That implementation text must not be read to narrow this floor.
+- <a id="anti-substitution-sentience-status"></a>**Scores don't decide who counts:** None of the following is a sentience-status determination:
+  - certification badges or [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) records;
+  - LEQU scores;
+  - standing scores or other operational labels;
+  - substrate labels (the kind of body or hardware a being runs on) or product classifications.
 
-<a id="anti-substitution-sentience-status"></a>
-> **Anti-substitution (operative).** A certification badge, LEQU score, substrate label, or product classification is **not** a sentience-status determination. Who-counts routes through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), and [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) — not through System Alignment Certification, standing scores, or operational labels. Read with [Article XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction).
+  Whether someone counts is decided only through this Article, [**Def.P1**](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) (*Escalation and Certification*). Read with [Article XVIII-A](core_06_rights_part_c.md#article-xviii-a-standing-distinction) (*Standing Distinction*).
 
 #### Article V-F: Developing Sentients, Best-Interest, and Graduated Capability
 
@@ -1239,7 +1243,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - **Independent audit and challenge:** Stakeholder agency, status, and participation rights must not be defined or restricted solely by the systems to which they apply. They remain subject to independent audit and challenge under adopted implementation text.
 - **Entitlement:** **Sentients** have the right to participate in **governance voting** and comparable legitimacy-mechanism **binding collective choice** on the terms stated in **Chapter Thirteen**, section 4 — *Voting and Binding Collective Choice Protocols*, subsection **4.1 — Entitlement and eligibility**.
-  - That entitlement remains open under published eligibility criteria unless an applicable [Standing Lock](core_05_band_accountability.md#standing-lock) blocks the **governance-voting** pathway under **Article XVIII-A** (*Standing Distinction*) and **Article XVIII-C** (*Pathway Eligibility, Responsibility, and Continuous Audit*).
+  - That entitlement remains open under published eligibility criteria unless an applicable [Standing Lock](core_05_band_accountability.md#standing-lock) blocks the **governance-voting** pathway under **Article XVIII-D** (*Violations and Standing Locks*) and **Article XVIII-E** (*Voting and Special Locks*).
   - That entitlement is distinct from stake-weighted [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) inside an already-authorized system. Suspending or limiting stake-weighted stakeholder voice requires a **stakeholder-participation** lock — including the **Stakeholder-Participation Standing Lock** under [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks) where its trigger is met — not a **governance-voting** lock by itself.
   - It operates together with the adopter's **documented legitimacy mechanism** and any designated owner-layer criteria that do not narrow those constitutional limits.
 - **Political-equality floor for foundational constitutional choice:** Participation in **Foundational Constitutional Choice** — as defined in **Chapter Five**, covering decisions about who holds governing authority, what the legitimacy mechanism is, and what the scope and durable terms of that authority are — is governed by a **political-equality floor**.

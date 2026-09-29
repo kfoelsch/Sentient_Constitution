@@ -28,10 +28,10 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-functional-independence"></a>
-> **Operative steward statement.** **Owner:** Chapter Seven. Before taking, verifying, recording, or reviewing a materially binding act, identify the seat you hold and the other seats the act requires. Do not verify your own act, verify what your [Material Control Line](core_05_band_accountability.md#material-control-line) initiated, record what you verified, or hear the challenge to what you verified. If the needed seat is absent, conflicted, or not yours, preserve the record, name the gap, and route to the published substitute or independent path; proximity, expertise scarcity, urgency, and title do not transfer the seat.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter Seven. Before taking, verifying, recording, or reviewing a materially binding act, identify the seat you hold and the other seats the act requires. Do not verify your own act, verify what your [Material Control Line](core_05_band_accountability.md#material-control-line) initiated, record what you verified, or hear the challenge to what you verified. If the needed seat is absent, conflicted, or not yours, preserve the record, name the gap, and route to the published substitute or independent path; proximity, expertise scarcity, urgency, and title do not transfer the seat.
 
 </details>
 

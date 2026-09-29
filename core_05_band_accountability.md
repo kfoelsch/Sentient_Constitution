@@ -1685,7 +1685,6 @@ The short form for **Materially Binding Act Record** in this instrument is **Act
 
 - Downstream: Principles: [4.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [6. Process Conflict Resolution](core_05_apex_accountability_leg.md#6-process-conflict-resolution), and [§6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Read with: [Materiality Determination](core_05_band_oversight.md#materiality-determination), [Material Impact](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), and [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection), where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
-
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: Chapter One §8.1, §11.1, §12.1, §9 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
 </details>
@@ -2584,7 +2583,7 @@ See **Joint invocation and satisfaction**.
 
 <br>
 
-*In plain terms: Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions. Reputation, pedigree, or an unverified claim of good work is not enough.*
+*In plain terms: Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Verified harm belongs on Violation Axis II and cannot be averaged, netted, or offset against verified help. Reputation, pedigree, or an unverified claim of help is not enough.*
 
 - **What it is**
   - **In scope:**

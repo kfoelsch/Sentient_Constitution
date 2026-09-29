@@ -723,7 +723,6 @@ See **Joint invocation and satisfaction**.
     4. **Epistemic and disclosure constraints** — [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), disclosure limits, publication limits, protected-data and internal-state limits, and security-sensitive disclosure balance.
     5. **Evaluation constraints** — [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint), [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint), time-consistency, proxy-divergence invalidation, and Chapter Four burden, traceability, and verification requirements.
     6. **Operational and implementation constraints** — capacity, feasibility, security, confidentiality, timing, technical, or resource limits recognized only within their valid adoption and source-layer scope, and only where they do not narrow higher kinds.
-
   - **Depends on:** [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) — constitutive frame.
     - Constraint precedence and validity are determined under the Authority Stack, including:
       - no-bypass;

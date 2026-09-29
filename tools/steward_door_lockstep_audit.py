@@ -206,8 +206,15 @@ def missing_clauses(needle_text: str, haystack_norm: str) -> list[str]:
     ]
 
 
+# Reader-facing box label (current) and the retired technical label (still accepted).
+OSS_BOX_LABELS = (
+    "**Who's in charge here, and what's off-limits.**",
+    "**Operative steward statement.**",
+)
+
+
 def extract_oss_fields(body: str) -> dict[str, str]:
-    if "**Operative steward statement.**" not in body:
+    if not any(label in body for label in OSS_BOX_LABELS):
         return {}
     return {
         "owner": slice_between(body, "**Owner:**", "**Forbidden move:**").strip(),

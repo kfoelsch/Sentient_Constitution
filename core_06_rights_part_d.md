@@ -205,10 +205,10 @@ Adopted governance implementation provides escalation, proportionality of interv
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-emergency"></a>
-> **Operative steward statement.** **Owner:** Article XXIII-D, including restore-challenge clocks. **Forbidden move:** Do not skip notice and challenge permanently. Do not stretch feasible. Do not normalize emergency into ordinary governance. Do not block a documented Tier A deferral in order to insist on full notice before containment. **Clock:** Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing.
+> **Who's in charge here, and what's off-limits.** **Owner:** Article XXIII-D, including restore-challenge clocks. **Forbidden move:** Do not skip notice and challenge permanently. Do not stretch feasible. Do not normalize emergency into ordinary governance. Do not block a documented Tier A deferral in order to insist on full notice before containment. **Clock:** Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing.
 
 </details>
 
@@ -375,10 +375,10 @@ This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutio
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-delay"></a>
-> **Operative steward statement.** **Owner:** Article XXIV-C. Numeric home: Chapter Twelve §6. Definition: Timely Resolution. **Forbidden move:** Do not add process, hop count, or "read more adopted implementation text" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists. **Clock:** Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.
+> **Who's in charge here, and what's off-limits.** **Owner:** Article XXIV-C. Numeric home: Chapter Twelve §6. Definition: Timely Resolution. **Forbidden move:** Do not add process, hop count, or "read more adopted implementation text" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists. **Clock:** Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.
 
 </details>
 

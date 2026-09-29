@@ -136,7 +136,6 @@ Duty intensity is scaled by [Materiality Determination](../core_05_band_oversigh
     - **produce irreversible** loss of survival conditions or critical system integrity within relevant timeframes
     - **present credible** [Existential Risk](../core_05_band_continuity.md#existential-risk), including low-probability, high-impact scenarios with irreversible consequences, regardless of baseline characteristics
   - **Critical-path dependency:** reclassify as Class A where the system **lies on a dependency path** whose failure would cause loss of survival conditions within **sentient survival-relevant timeframes** and has **no viable** fallback, redundancy, or substitution within those timeframes
-
 - **Class B typical patterns**
   - do **not** directly determine survival
   - enable, mediate, or support survival-critical or other infrastructure-level systems without constituting a time-critical path whose failure independently causes immediate loss of sentient life
@@ -144,7 +143,6 @@ Duty intensity is scaled by [Materiality Determination](../core_05_band_oversigh
   - remain **recoverable, bypassable, or substitutable** within survival-relevant timeframes under contingency (even at significant disruption, degradation, or cost)
   - viable fallback/redundancy/substitution exists so failure does **not** independently produce **immediate survival-critical** outcomes
   - failures **propagate indirectly** through dependency chains
-
 - **Class C characteristics**
   - **influence** coordination, interaction, or outcomes at scale
   - are **not** an **operational dependency** required for **Class A or Class B** functioning
@@ -154,7 +152,6 @@ Duty intensity is scaled by [Materiality Determination](../core_05_band_oversigh
     - disrupts coordination at scale **without** preventing critical systems from operating
     - remains **locally containable or sector-limited**
     - does **not** produce system-wide operational collapse or cross-domain disruption beyond bounded contexts
-
 - **Class L includes** systems that:
   - **operate beyond** a single sentient, household, or tightly bounded private unit with multiple participants
   - generate external effects **limited** in scope, scale, severity, and cumulative impact
@@ -166,7 +163,6 @@ Duty intensity is scaled by [Materiality Determination](../core_05_band_oversigh
   - **Re-evaluation triggers:**
     - incremental expansion in reliance, user base, or functional necessity that makes disengagement **materially difficult** requires **re-evaluation**
     - sufficient scale for **cumulative or systemic** effects requires **reclassification**
-
 - **Class P typical patterns**
   - operated **by and for** a single sentient, household, or tightly bounded unit
   - participants are **aware** and **consent** at a level appropriate to impact

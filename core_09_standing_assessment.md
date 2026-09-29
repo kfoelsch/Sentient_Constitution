@@ -40,10 +40,10 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-standing"></a>
-> **Operative steward statement.** **Owner:** Chapter Nine (Questions 1–2: verified record and measurement). Chapter Ten (Question 3: effects). Forums supervise; they do not replace measurement. **Forbidden move:** Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption. Do not treat a certification badge or LEQU score as sentience status. Do not verify facts or enter a record on your own institution, your own claim, or a claim from your control line; route to the named record-opening authority or independent verifier under §3.7. **Clock:** Do not wait for a filed case. Open or correct the Chapter Nine record now, through the named record-opening authority. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter Nine (Questions 1–2: verified record and measurement). Chapter Ten (Question 3: effects). Forums supervise; they do not replace measurement. **Forbidden move:** Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption. Do not treat a certification badge or LEQU score as sentience status. Do not verify facts or enter a record on your own institution, your own claim, or a claim from your control line; route to the named record-opening authority or independent verifier under §3.7. **Clock:** Do not wait for a filed case. Open or correct the Chapter Nine record now, through the named record-opening authority. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set.
 
 </details>
 
@@ -126,7 +126,7 @@ A **standing record** is the bounded record used by this chapter for a particula
 - what evidence, attribution, and challenge path support those findings; and
 - the record's current review, correction, and supersession status.
 
-Question 1 uses a **contribution standing record** for verified help and a **violation standing record** for verified adverse findings. One record does not combine both kinds of finding.
+Question 1 uses a **contribution standing record** for verified help and a **violation standing record** for verified harm, including accountability failures. One record does not combine both kinds of finding.
 
 - A standing record may concern a sentient, institution, system, assessment, bounded event, role, collective, actor-specific record, or other constitutionally relevant unit. It must not collapse distinct subjects, roles, systems, communities, time windows, review statuses, or decision contexts into one undifferentiated standing label.
 - A record may cover a **bounded event** — one episode with a clear start and end — or a **pattern** of repeated conduct. A pattern requires a defined subject, scope, and review period.
@@ -179,7 +179,7 @@ Any later standing effect belongs to Chapter Ten and must be traceable back to t
   - Verified contribution must not offset, average down, excuse, or relabel a verified violation finding.
   - Gate satisfaction does not waive any applicable standing lock.
 
-**The only exception:** If a violation finding itself disproves a claimed contribution — for example, if evidence shows you didn't actually do what your contribution record claims — then the linked contribution standing record can be corrected or removed through the proper evidence and review process, with the required cross-reference under **section 3.2**. But the violation does not automatically erase unrelated good work recorded in separate contribution standing records.
+**The only exception:** If a violation finding itself disproves a claimed contribution — for example, if evidence shows you didn't actually do what your contribution record claims — then the linked contribution standing record can be corrected or removed through the proper evidence and review process, with the required cross-reference under **section 3.2**. But the violation does not automatically erase unrelated help recorded in separate contribution standing records.
 
 <a id="23-question-1-event-type-guide"></a>
 
@@ -493,7 +493,7 @@ How much a recorder statement weighs is a Chapters Two through Four question for
 
 <br>
 
-*In plain terms: Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified adverse findings. The axes remain separate; they are not two sides of a net score.*
+*In plain terms: Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.*
 
 <a id="lequ-baseline-constitutional-outcome"></a>
 <a id="6-lequ-baseline-constitutional-outcome"></a>
@@ -852,7 +852,7 @@ The routing tables below are non-exhaustive. Every additional definition, princi
 | [Accountability](core_05_apex_accountability_leg.md#accountability) | Tests whether claimed stewardship or repair preserves attribution, answerability, review, redress, and correction proportional to impact. | Identifies attribution and answerability failures, including whether responsibility remains functional through organizational or formal-structure changes. |
 | [Harm](core_05_band_accountability.md#harm) | Externalized or concealed harm may cap or disqualify claimed benefit; verified repair of harm may support benefit when independently demonstrated. | Defines the direct, indirect, delayed, cumulative, cross-system, and psychologically mediated adverse effects that enter loss and severity measurement. |
 | [Materiality Determination](core_05_band_oversight.md#materiality-determination) and [Lifespan Equivalent Unit (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) | Scale verified benefit, scope, vulnerability, duration, and the applicable LEQU calibration. | Scale verified loss, danger, scope, vulnerability, duration, irreversibility, and the applicable LEQU calibration. |
-| [Contribution Nature](core_05_band_accountability.md#contribution-nature) | Supplies the positive-only classification and demonstrable verified-contribution-record basis required for a Contribution Axis assignment. | Does not classify adverse findings or reduce violation severity. |
+| [Contribution Nature](core_05_band_accountability.md#contribution-nature) | Supplies the positive-only classification and demonstrable verified-contribution-record basis required for a Contribution Axis assignment. | Does not classify harm or reduce violation severity. |
 | [Violation Nature](core_05_band_accountability.md#violation-nature-chapter-six) | Does not become negative contribution and does not erase unrelated verified benefit. | Supplies the adverse classification and verified-violation-finding basis required for a Violation Axis assignment. |
 | [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), and [Auditability](core_05_band_oversight.md#auditability) | Prevent claimed benefit from resting on constitutional defeat, evasion, a narrowed Rights Floor, or paper-only compliance. | Identify material constraint, supremacy-effect, anti-evasion, or enforceability defeat relevant to substantive severity. |
 | [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability) | Require demonstrable, reviewable benefit and a functional challenge path. | Require auditable, contestable findings and prevent allegations or opaque labels from supplying severity. |

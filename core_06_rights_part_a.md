@@ -847,10 +847,10 @@ Those requirements protect shared infrastructure and the systems that depend on 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-cross-system-contribution"></a>
-> **Operative steward statement.** **Owner:** Article IV-B. Definition: Proportionate Cross-System Contribution. Maps: CS-9. **Forbidden move:** Do not treat a press release, a one-time grant, or survival-floor compliance as corresponding support. **Clock:** Compare mapped inflows and outflows now. Do not wait for a later formula.
+> **Who's in charge here, and what's off-limits.** **Owner:** Article IV-B. Definition: Proportionate Cross-System Contribution. Maps: CS-9. **Forbidden move:** Do not treat a press release, a one-time grant, or survival-floor compliance as corresponding support. **Clock:** Compare mapped inflows and outflows now. Do not wait for a later formula.
 
 </details>
 

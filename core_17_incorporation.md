@@ -127,7 +127,6 @@ References across these constitutional volumes to **Chapter Seventeen** or to in
   - silent edition-relabeling without adoption.
 
     Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up through re-adoption under **Chapter Sixteen** and **Chapter Seventeen**; until they are validly re-adopted, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
-
 - **Anti-evasion:** Calling a post-adoption edit any of the following does **not** make it count as non-substantive when the real constitutional effect is the same as a substantive change:
   - “clarification”;
   - “correction”;

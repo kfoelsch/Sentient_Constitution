@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **618** of **884** headings carry a gloss (70%).
+Coverage: **619** of **885** headings carry a gloss (70%).
 
 ## Contents
 
@@ -42,7 +42,7 @@ Coverage: **618** of **884** headings carry a gloss (70%).
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (21/24 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (54/55 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (55/56 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
 - [CHAPTER FOURTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-fourteen-non-regression-and-substantive-amendment-validity) — `core_14_non_regression.md` (5/5 glossed)
@@ -1546,7 +1546,7 @@ only verified, reviewable contribution records and violation findings may affect
 
 ###### Contribution Nature
 
-Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions. Reputation, pedigree, or an unverified claim of good work is not enough.
+Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Verified harm belongs on Violation Axis II and cannot be averaged, netted, or offset against verified help. Reputation, pedigree, or an unverified claim of help is not enough.
 
 [Source](../../core_05_band_accountability.md#contribution-state)
 
@@ -3272,7 +3272,7 @@ four different jobs touch a standing record — asking for a change, verifying t
 
 #### 4. Question 2 — how good or bad was it?
 
-Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified adverse findings. The axes remain separate; they are not two sides of a net score.
+Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.
 
 [Source](../../core_09_standing_assessment.md#4-standing-measurement-evaluation-dimensions)
 
@@ -4512,7 +4512,7 @@ governance must actively look for — and push back against — capture, collusi
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 54/55 headings glossed
+Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 55/56 headings glossed
 
 #### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
@@ -4714,33 +4714,39 @@ inventors must explain an invention well enough for others to rebuild it. In ret
 
 #### Article XVIII: Standing and Participation Status
 
-**Article XVIII** (*Standing and Participation Status*) is the participation-status Rights Floor — it governs who qualifies for which roles, how those calls are made and challenged, and what happens when standing is lowered or suspended. **Participant standing** is role eligibility from verified records and fair rules — not popularity, a brand name, or a social score — and it is separate from dignity, Rights-Floor minimums, and being a stakeholder because a system actually affects you. If standing is lowered or suspended, you must get clear reasons, a real way to push back, and limits that fit the actual risk — and standing by itself must never cut off survival essentials or paths to challenge harm and get remedy. Good standing must reflect what can be checked today, not old reputation. Movement, refuge, portability, and exit are governed by **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), not by standing labels alone.
+**Article XVIII** decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) governs.
 
 [Source](../../core_06_rights_part_c.md#article-xviii-standing-reputation-and-participation-status)
 
 ##### Article XVIII-A: Standing Distinction
 
-trust-sensitive roles may open when verified readiness meets a published **competency bar** and **competency clearance** is in force — and may stay closed or limited through **standing locks** while a **verified violation finding** still needs correction. **governance-voting** locks pause foundational governance vote; **stakeholder-participation** locks limit stake-weighted voice inside an authorized system — they are not interchangeable, and stakeholder status is not erased by the latter. Neither named pathway is popularity, insider gatekeeping, or a substitute for dignity. Accusations alone are not violation findings; locks must fit what was actually verified and leave a real path to challenge and remedy.
+standing is about which roles and privileges you can use — nothing more. It is not your worth, your basic rights, whether you count as a sentient, or whether a system affects you. Having no record is normal and can't be held against you, and standing results can't be stitched together into a profile or public ranking.
 
 [Source](../../core_06_rights_part_c.md#article-xviii-a-standing-distinction)
 
 ##### Article XVIII-B: Contestability and Proportional Restriction Limits
 
-standing records, competency bars, competency clearances, and standing locks must all be open to challenge through real review paths — restrictions must come with reasons, fit the verified finding, and stay no broader than process or safety needs. Allegations and intake labels are not standing verdicts. Standing discipline alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy pathways.
+these rules apply to every standing decision, whether it opens a role or closes one. Only verified records count — allegations and intake labels are not standing verdicts. Every record and decision must be open to real challenge, and no single authority or hidden algorithm may decide standing on its own. Any restriction must come with reasons, fit what was verified, and stay no broader than process or safety needs. Standing alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy.
 
 [Source](../../core_06_rights_part_c.md#article-xviii-b-contestability-and-proportional-restriction-limits)
 
-##### Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit
+##### Article XVIII-C: Contribution, Competency Bars, and Pathway Eligibility
 
-ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1**](../../core_13_governance.md#41-entitlement-and-eligibility).
+this is how named pathways open. Ordinary participation, including the governance vote, stays open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. A trust-sensitive role opens when verified competence, experience, and help meet its published **competency bar**, producing a **competency clearance**. Informal and community experience counts on the same terms as formal experience. Help is recorded on its own track and never cancels verified harm; a clearance does not lift a standing lock.
 
 [Source](../../core_06_rights_part_c.md#article-xviii-c-good-standing-responsibility-and-continuous-audit)
 
-##### Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing
+##### Article XVIII-D: Violations and Standing Locks
 
-standing status is not a border, exile, or statelessness tool — you cannot lose movement, refuge, or exit rights just because your role standing dropped or a standing lock blocked trust-sensitive named pathways. Verified violence, coercion, or anti-constitutional misconduct can still lead to lawful detention, custody, or other liberty restrictions under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and full process protections; those are separate justice measures, not a standing-label workaround. If a case involves movement, migration, refuge, portability, recognition, or exit, **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) supplies the governing floor.
+this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. Locks that touch the vote, and three special locks for serious cases, carry extra rules in **Article XVIII-E**.
 
-[Source](../../core_06_rights_part_c.md#article-xviii-d-movement-migration-and-refuge)
+[Source](../../core_06_rights_part_c.md#article-xviii-d-violations-and-standing-locks)
+
+##### Article XVIII-E: Voting and Special Locks
+
+some locks carry extra rules on top of [Article XVIII-D](../../core_06_rights_part_c.md#article-xviii-d-violations-and-standing-locks). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Eleven** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Three special locks cover judges who failed to step aside, rigging stakeholder votes, and attacks on the constitution itself.
+
+[Source](../../core_06_rights_part_c.md#article-xviii-e-voting-and-special-locks)
 
 #### Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity
 

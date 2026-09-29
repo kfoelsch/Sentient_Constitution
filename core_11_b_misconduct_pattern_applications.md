@@ -101,11 +101,9 @@ The following patterns are **anti-constitutional misconduct within this chapter�
     - **standing** needed to vindicate those protections.
   - In scope where the condition functions to defeat, narrow, or chill those protections without **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**, and outside **Chapter Sixteen** procedural-validity rules for adoption instruments themselves.
   - **Ordinary commercial convenience alone** is not a sufficient justification.
-
 - **Unconstitutional contract-term conduct:** any agreement, adhesion term, policy, or comparable instrument that purports to waive, disclaim, override, or contract around binding **Sentient Constitution** obligations or **Chapter Six** Rights Floors.
   - Includes **non-disclosure agreements** (**NDAs**) and **overbroad confidentiality** terms where they **function** as **waiver**, **gag**, or **override** devices.
   - Includes a **contractual directive** requiring unlawful conduct or material constitutional violation (read with **Chapter Ten** [§5.4](core_10_standing_integration.md#54-special-violation-rules) and [§2](core_10_standing_integration.md#2-integration-record-and-decision-order)).
-
 - **Post-employment mobility-restriction conduct:**
   - **Non-compete** or **no-poach** terms in employment, **operator**, **steward**, platform, or comparable arrangements — prohibited categorically in any form, scope, or duration, with **no operative effect** to restrict labor mobility.
   - **Excessive** **non-solicitation** or **functionally equivalent** post-association terms that purport to **foreclose** **contestable** **labor** **mobility** or to **chill** **standing**, **audit**, **contestability**, or **Article XXIII-A** (*Justice Objective and Scope*) review in ways that **degrade** **Chapter Six** protections **without** **Necessity** and **Proportionality** under **Chapter One** and **Chapter Five**.
@@ -980,7 +978,6 @@ It routes evaluation of the named pattern into the existing designation criteria
   - continuing to vote;
   - continuing to sign; or
   - continuing to issue binding determinations; or
-
 - comparable verified **biased panel participation** that corrupts any of the following:
   - panel lawfulness;
   - independence;

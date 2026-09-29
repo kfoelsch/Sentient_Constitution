@@ -80,7 +80,7 @@ Chapter Nine uses a [standing record](core_09_standing_assessment.md#21-standing
 There are two distinct tracks:
 
 - **Contribution standing records** concern verified help.
-- **Violation standing records** concern verified adverse findings.
+- **Violation standing records** concern verified harm.
 
 They are not combined into a reputation score, dignity rank, permanent status, general worth label, or merged scorecard. Related records can cross-reference, but verified help does not erase verified harm, and harm does not erase verified help. A standing record opens only on its applicable verified trigger; [silence is the default](core_09_standing_assessment.md#21-silence-is-the-default), and the absence of a record is not evidence of risk or low contribution.
 

@@ -34,7 +34,7 @@ Chapter One supplies the practical guardrails:
 Three boundaries prevent common misunderstandings:
 
 - **Authorization and participation:** authorization asks who may govern and on what terms; participation gives affected sentients voice inside systems that are already authorized; neither substitutes for the other.
-- **Separate standing tracks:** contribution and violation are measured separately; good conduct does not cancel verified harm.
+- **Separate standing tracks:** contribution and violation are measured separately; verified help does not cancel verified harm.
 - **Source and adoption:** numbered `core_*` files are the binding source; incorporated adopted implementation text implements that source only within valid scope; reading or publishing the instrument is not adoption.
 
 Measurement turns those ideas into practical questions:
@@ -292,7 +292,7 @@ flowchart TB
         end
         subgraph Crow4["Articles XVIII–XIX"]
             direction LR
-            C7["Article XVIII · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
+            C7["Article XVIII · Standing and Participation Status<br/><br/>• Standing distinction<br/>• Contestability and restriction limits<br/>• Contribution, competency bars, and eligibility<br/>• Violations and standing locks<br/>• Voting and special locks"]
             C8["Article XIX · Interoperability, Portability, Movement, and Exit<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
         end
         subgraph Crow5["Articles XX–XXI"]
@@ -717,7 +717,7 @@ The connections matter as much as the chapter boundaries:
 - Standing measurement informs consequences.
 - Review makes findings contestable.
 - Correction addresses the failure that produced the harm.
-- Contribution and violation remain separate throughout; good conduct does not cancel verified harm.
+- Contribution and violation remain separate throughout; verified help does not cancel verified harm.
 
 This is a map of available processes. A particular matter enters the paths its facts and the source provisions require. For ordinary disputes inside an already-authorized system, the published stakeholder challenge path comes first; forum routing takes over under the conditions stated in [Chapter Twelve’s dispute sequencing](core_12_forum.md#dispute-sequencing).
 

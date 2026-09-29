@@ -72,7 +72,6 @@ This chapter states which **forum families** **supervise** which primary questio
    - **Chapter Ten** standing effects and integration where this chapter assigns forum supervision of remedy and sequencing.
    - **Chapter Eleven** anti-constitutional-misconduct designation where that designation is at issue for a Chapter Nine slot 7–9 record.
    - Application of **Chapters One through Six** and designated [corpus](core_05_band_integrative.md#corpus) implementation layers as the norms those disputes apply.
-
 2. **System Alignment Certification** ([Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification))
    - Forum-supervised recognition, conditional recognition, validation, revalidation, withdrawal, and related certification-record outcomes under [Chapter Eight Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process).
    - Component roles under [Part B §13](core_08_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles):

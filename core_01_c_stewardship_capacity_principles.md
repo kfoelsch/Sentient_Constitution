@@ -338,10 +338,10 @@ Proactive stewardship — catching trouble early, raising it on time, and fixing
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-shared-stewardship"></a>
-> **Operative steward statement.** **Owner:** Chapter One §10.1 Shared Stewardship Standard. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not accept an AI-only morals overlay. Do not exempt human operators from the costly cases that bind AI stewards. **Clock:** Reject the overlay. Apply the shared standard. Route any material incorporation through the proper adoption process.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter One §10.1 Shared Stewardship Standard. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not accept an AI-only morals overlay. Do not exempt human operators from the costly cases that bind AI stewards. **Clock:** Reject the overlay. Apply the shared standard. Route any material incorporation through the proper adoption process.
 
 </details>
 
@@ -570,10 +570,10 @@ The burden this duty places on a steward who carries consequential authority is 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-unlawful-instruction"></a>
-> **Operative steward statement.** **Owner:** Chapter One §10.5 Duty to Resist. Shared standard: Chapter One §10.1. Violation rule: Chapter Ten §5.4. Contest floor: Article XII-A. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter One §10.5 Duty to Resist. Shared standard: Chapter One §10.1. Violation rule: Chapter Ten §5.4. Contest floor: Article XII-A. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
 
 </details>
 
@@ -802,10 +802,10 @@ This principle binds human and AI stewards alike under [§10.1 Shared Stewardshi
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-incentive"></a>
-> **Operative steward statement.** **Owner:** Chapter One §12. Failed-test home: §10.2. Definition: Incentive Alignment. **Forbidden move:** Do not ship by suppressing material disclosure. Do not treat the bonus as a valid compliance defense. **Clock:** Refuse the proxy. Correct the incentive. Run the shared refusal and logging screen.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter One §12. Failed-test home: §10.2. Definition: Incentive Alignment. **Forbidden move:** Do not ship by suppressing material disclosure. Do not treat the bonus as a valid compliance defense. **Clock:** Refuse the proxy. Correct the incentive. Run the shared refusal and logging screen.
 
 </details>
 
@@ -1567,10 +1567,10 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-market-structure"></a>
-> **Operative steward statement.** **Owner:** Chapter One §14 / §14.1. Operative bite: CJS-3.11.1 (*Market concentration threshold-setting discipline, adopter-tunable*). **Forbidden move:** Do not treat adopter-tunable as adopter-optional. Do not clear the floor with entity count or efficiency talk. **Clock:** Invalidate the nullifying threshold now. Restore review when the only door is closing.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter One §14 / §14.1. Operative bite: CJS-3.11.1 (*Market concentration threshold-setting discipline, adopter-tunable*). **Forbidden move:** Do not treat adopter-tunable as adopter-optional. Do not clear the floor with entity count or efficiency talk. **Clock:** Invalidate the nullifying threshold now. Restore review when the only door is closing.
 
 </details>
 

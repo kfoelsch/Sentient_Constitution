@@ -104,7 +104,7 @@ class StewardDoorLockstepTests(unittest.TestCase):
     def test_parse_operative_boxes_extracts_owner_forbidden_clock(self) -> None:
         text = (
             '<a id="operative-steward-statement-standing"></a>\n'
-            "> **Operative steward statement.** **Owner:** Chapter Nine. "
+            "> **Who's in charge here, and what's off-limits.** **Owner:** Chapter Nine. "
             "**Forbidden move:** Do not wait. **Clock:** Correct the record now.\n"
         )
         boxes = parse_operative_boxes(text)

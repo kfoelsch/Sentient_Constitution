@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 884,
-  "glossed_count": 618,
+  "heading_count": 885,
+  "glossed_count": 619,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -2244,61 +2244,61 @@
           "level": 5,
           "title": "Harm",
           "anchor": "harm",
-          "line": 1745,
+          "line": 1744,
           "gloss": "harm is a material worsening of a sentient's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm without a material pathway to such effects.",
-          "gloss_line": 1757
+          "gloss_line": 1756
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Collective Harm Boundary",
           "anchor": "collective-harm-boundary",
-          "line": 1794,
+          "line": 1793,
           "gloss": "freedom of action stops where conduct creates verifiable material harm to another sentient's protected interests or to shared constitutional conditions. Mere offense or preference does not cross this boundary.",
-          "gloss_line": 1806
+          "gloss_line": 1805
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Psychological Harm",
           "anchor": "psychological-harm",
-          "line": 1822,
+          "line": 1821,
           "gloss": "psychological harm is a material injury to how a sentient thinks, feels, relates, or exercises agency. Ordinary discomfort is not enough.",
-          "gloss_line": 1824
+          "gloss_line": 1823
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Irreversible Harm",
           "anchor": "irreversible-harm",
-          "line": 1850,
+          "line": 1849,
           "gloss": "irreversible harm is damage that cannot meaningfully be repaired in the time that matters for the affected sentients or systems.",
-          "gloss_line": 1862
+          "gloss_line": 1861
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Cruelty",
           "anchor": "cruelty",
-          "line": 1889,
+          "line": 1888,
           "gloss": "cruelty is treatment that makes someone suffer on purpose as the point of the treatment, or that piles on gratuitous or degrading suffering beyond what necessity and proportionality allow. Humiliation for its own sake is one form of that. Ordinary harm, fair consequences that hurt, and lawful restrictions are not automatically cruelty.",
-          "gloss_line": 1903
+          "gloss_line": 1902
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Harassment and Bullying",
           "anchor": "harassment-and-bullying",
-          "line": 1942,
+          "line": 1941,
           "gloss": "harassment and bullying are unwanted acts or conditions that, through repetition, coordination, power, or severity, materially make a setting unsafe, degrading, or hard to participate in.",
-          "gloss_line": 1954
+          "gloss_line": 1953
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Def.A2 Forum Families and Dispute Routing",
           "anchor": "defa2",
-          "line": 2001,
+          "line": 2000,
           "gloss": null,
           "gloss_line": null
         },
@@ -2307,88 +2307,88 @@
           "level": 5,
           "title": "Primary-Stakes Routing",
           "anchor": "primary-stakes-routing",
-          "line": 2053,
+          "line": 2052,
           "gloss": "route a case to the forum family responsible for what is really at stake, not the family favored by its title, the parties, or administrative convenience.",
-          "gloss_line": 2064
+          "gloss_line": 2063
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Sentient",
           "anchor": "forum-family-sentient",
-          "line": 2083,
+          "line": 2082,
           "gloss": "Sentient forums handle disputes between sentients about private or community duties, civil harm, restoration, or local norms when institutional power or constitutional validity is not the main question.",
-          "gloss_line": 2094
+          "gloss_line": 2093
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Technical",
           "anchor": "forum-family-technical",
-          "line": 2112,
+          "line": 2111,
           "gloss": "Technical forums handle disputes whose main stake requires specialized rules for technical procedure, expert evidence, knowledge, standards, bounded uncertainty — or sentience-status determination on indicators.",
-          "gloss_line": 2123
+          "gloss_line": 2122
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Institutional",
           "anchor": "forum-family-institutional",
-          "line": 2147,
+          "line": 2146,
           "gloss": "Institutional forums handle disputes mainly about an institution's powers, duties, supervision, classifications, or compliance with its duties.",
-          "gloss_line": 2158
+          "gloss_line": 2157
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Environment",
           "anchor": "forum-family-environment",
-          "line": 2176,
+          "line": 2175,
           "gloss": "Environment forums handle disputes mainly about ecological integrity, environmental conditions, shared-system restoration, or environmental burdens.",
-          "gloss_line": 2187
+          "gloss_line": 2186
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Integrity",
           "anchor": "forum-family-integrity",
-          "line": 2205,
+          "line": 2204,
           "gloss": "Integrity forums handle disputes mainly about honest office, fair process, disclosure, conflicts, anti-capture duties, and system-wide integrity failures.",
-          "gloss_line": 2216
+          "gloss_line": 2215
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Family, Constitutional",
           "anchor": "forum-family-constitutional",
-          "line": 2249,
+          "line": 2248,
           "gloss": "Constitutional forums decide constitutional meaning and validity, certified constitutional questions, supremacy disputes, and structural remedies that change governance for classes of actors or systems.",
-          "gloss_line": 2260
+          "gloss_line": 2259
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Forum Case Record",
           "anchor": "forum-case-record",
-          "line": 2287,
+          "line": 2286,
           "gloss": "a Forum Case Record is the case file for a dispute. It is not a Standing Record, and it does not itself create a Standing Effect.",
-          "gloss_line": 2299
+          "gloss_line": 2298
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Non-Compliance Finding Profile",
           "anchor": "non-compliance-finding-profile",
-          "line": 2362,
+          "line": 2361,
           "gloss": "an optional profile can describe a material non-compliance finding by Tetrad leg, aim, governance layer, failure character, and severity tier. It helps routing and audit but does not change the underlying verdict.",
-          "gloss_line": 2375
+          "gloss_line": 2374
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Def.A3 Standing State, Contribution, and Violation",
           "anchor": "defa3",
-          "line": 2396,
+          "line": 2395,
           "gloss": null,
           "gloss_line": null
         },
@@ -2397,133 +2397,133 @@
           "level": 5,
           "title": "Participant Standing",
           "anchor": "participant-standing-constitutional",
-          "line": 2457,
+          "line": 2456,
           "gloss": "Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.",
-          "gloss_line": 2469
+          "gloss_line": 2468
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Verified Inputs for Standing",
           "anchor": "verified-inputs-for-standing",
-          "line": 2521,
+          "line": 2520,
           "gloss": "only verified, reviewable contribution records and violation findings may affect standing. Allegations, complaints, intake labels, routing choices, reputation, and provisional case material are not verified inputs by themselves.",
-          "gloss_line": 2533
+          "gloss_line": 2532
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Contribution Nature",
           "anchor": "contribution-state",
-          "line": 2574,
-          "gloss": "Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions. Reputation, pedigree, or an unverified claim of good work is not enough.",
-          "gloss_line": 2587
+          "line": 2573,
+          "gloss": "Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Verified harm belongs on Violation Axis II and cannot be averaged, netted, or offset against verified help. Reputation, pedigree, or an unverified claim of help is not enough.",
+          "gloss_line": 2586
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Violation Nature",
           "anchor": "violation-nature-chapter-six",
-          "line": 2627,
+          "line": 2626,
           "gloss": "Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Nine assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.",
-          "gloss_line": 2639
+          "gloss_line": 2638
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Standing Effect",
           "anchor": "standing-effect-chapter-six",
-          "line": 2679,
+          "line": 2678,
           "gloss": "Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.",
-          "gloss_line": 2692
+          "gloss_line": 2691
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Standing Record",
           "anchor": "standing-record-chapter-six",
-          "line": 2745,
+          "line": 2744,
           "gloss": "a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.",
-          "gloss_line": 2758
+          "gloss_line": 2757
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Competency Bar",
           "anchor": "competency-bar",
-          "line": 2835,
+          "line": 2834,
           "gloss": "a Competency Bar is the published, role-specific standard for a named pathway — the skill, experience, training, and reliability the role actually needs. It is not prestige, insider sponsorship, or a standing effect by itself.",
-          "gloss_line": 2847
+          "gloss_line": 2846
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Competency Clearance",
           "anchor": "competency-gate",
-          "line": 2880,
+          "line": 2879,
           "gloss": "Competency Clearance is the standing-effect result that says verified readiness meets the published competency bar for a named pathway. It may support opening that named pathway only when no standing lock blocks it. It is not prestige, insider sponsorship, or permanent entitlement.",
-          "gloss_line": 2892
+          "gloss_line": 2891
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Standing Lock",
           "anchor": "standing-lock",
-          "line": 2927,
+          "line": 2926,
           "gloss": "a Standing Lock temporarily limits a named privilege pathway — trust, roles, credit, recognition, authority, governance voting, stakeholder participation, or a comparable recorded privilege pathway — because of a verified, unresolved violation. It cannot reduce dignity or Rights-Floor protections.",
-          "gloss_line": 2939
+          "gloss_line": 2938
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Anti-Constitutional Misconduct Review",
           "anchor": "top-slot-review",
-          "line": 2980,
+          "line": 2979,
           "gloss": "Anti-Constitutional Misconduct Review asks whether a final Chapter Nine Violation Axis slot 7, 8, or 9 receives the matching Chapter Eleven anti-constitutional-misconduct designation. Chapter Eleven does not assign or move the numeric slot.",
-          "gloss_line": 2992
+          "gloss_line": 2991
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Unified Incident",
           "anchor": "unified-incident",
-          "line": 3023,
+          "line": 3022,
           "gloss": "a Unified Incident treats one materially connected episode, campaign, or pattern as a whole so it cannot be split into smaller pieces to hide its impact or avoid review.",
-          "gloss_line": 3035
+          "gloss_line": 3034
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Unified Incident Record",
           "anchor": "unified-record",
-          "line": 3063,
+          "line": 3062,
           "gloss": "a Unified Incident Record keeps the evidence and reasoning for one Unified Incident together while separately proving each criterion or pattern and protecting each subject's review rights.",
-          "gloss_line": 3075
+          "gloss_line": 3074
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Single Catastrophic Incident",
           "anchor": "single-catastrophic-incident",
-          "line": 3114,
+          "line": 3113,
           "gloss": "a Single Catastrophic Incident is one connected event whose verified impact causes or imminently threatens catastrophic constitutional harm.",
-          "gloss_line": 3126
+          "gloss_line": 3125
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Sustained High-Gravity Pattern",
           "anchor": "sustained-high-gravity-pattern",
-          "line": 3153,
+          "line": 3152,
           "gloss": "a Sustained High-Gravity Pattern is connected, continuing or repeated conduct whose combined verified impact reaches Chapter Nine slot 7, 8, or 9, even without one catastrophic moment.",
-          "gloss_line": 3165
+          "gloss_line": 3164
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 4,
           "title": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
           "anchor": "defa4",
-          "line": 3199,
+          "line": 3198,
           "gloss": null,
           "gloss_line": null
         },
@@ -2532,54 +2532,54 @@
           "level": 5,
           "title": "Use of Force",
           "anchor": "use-of-force-constitutional",
-          "line": 3244,
+          "line": 3243,
           "gloss": "Use of Force means overt physical, coercive, or kinetic force by an institution or comparable actor. It is exceptional and must remain lawful, necessary, proportionate, narrow, time-bounded, and reviewable.",
-          "gloss_line": 3258
+          "gloss_line": 3257
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Autonomous Lethal System",
           "anchor": "autonomous-lethal-system-constitutional",
-          "line": 3310,
+          "line": 3309,
           "gloss": "an Autonomous Lethal System selects, engages, or materially directs lethal-force targets without real and timely human judgment shaping every targeting or engagement decision.",
-          "gloss_line": 3324
+          "gloss_line": 3323
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Weapons of Mass Harm",
           "anchor": "weapons-of-mass-harm-constitutional",
-          "line": 3363,
+          "line": 3362,
           "gloss": "Weapons of Mass Harm are defined by the foreseeable scale of casualty, ecological, informational, or infrastructure harm they can cause—not by a weapon taxonomy or label.",
-          "gloss_line": 3377
+          "gloss_line": 3376
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Combatant / Non-Combatant Distinction",
           "anchor": "combatant-non-combatant-distinction-constitutional",
-          "line": 3427,
+          "line": 3426,
           "gloss": "combatant status depends on what an individual is doing at the time of the force decision. It cannot be assigned from demographic groups, protected characteristics, proxies, or convenient labels.",
-          "gloss_line": 3441
+          "gloss_line": 3440
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Irreversible Deprivation Measure",
           "anchor": "irreversible-deprivation-measure-constitutional",
-          "line": 3495,
+          "line": 3494,
           "gloss": "an Irreversible Deprivation Measure is a justice measure that irreversibly deprives a sentient, especially of life. It is categorically prohibited and remains distinct from reversible containment, Voluntary Discontinuation, and force regulation.",
-          "gloss_line": 3509
+          "gloss_line": 3508
         },
         {
           "file": "core_05_band_accountability.md",
           "level": 5,
           "title": "Autonomous Coercion Tool",
           "anchor": "autonomous-coercion-tool-constitutional",
-          "line": 3569,
+          "line": 3568,
           "gloss": "an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — including through untrustworthy or arbitrary behavior and demands — without real and timely human judgment shaping every coercive application.",
-          "gloss_line": 3583
+          "gloss_line": 3582
         }
       ]
     },
@@ -3269,7 +3269,7 @@
           "level": 5,
           "title": "Privacy (Informational)",
           "anchor": "privacy-informational",
-          "line": 3848,
+          "line": 3847,
           "gloss": null,
           "gloss_line": null
         },
@@ -3278,7 +3278,7 @@
           "level": 5,
           "title": "Protected Internal-State Boundary",
           "anchor": "protected-internal-state-boundary-constitutional",
-          "line": 3902,
+          "line": 3901,
           "gloss": null,
           "gloss_line": null
         },
@@ -3287,7 +3287,7 @@
           "level": 5,
           "title": "Identity Data Protection",
           "anchor": "identity-data-protection",
-          "line": 3948,
+          "line": 3947,
           "gloss": null,
           "gloss_line": null
         },
@@ -3296,7 +3296,7 @@
           "level": 5,
           "title": "Surveillance Boundary",
           "anchor": "surveillance-boundary",
-          "line": 3969,
+          "line": 3968,
           "gloss": null,
           "gloss_line": null
         },
@@ -3305,7 +3305,7 @@
           "level": 4,
           "title": "Def.C4 Trust and Trustworthiness",
           "anchor": "defc4",
-          "line": 4020,
+          "line": 4019,
           "gloss": null,
           "gloss_line": null
         },
@@ -3314,7 +3314,7 @@
           "level": 5,
           "title": "Trust",
           "anchor": "trust",
-          "line": 4069,
+          "line": 4068,
           "gloss": null,
           "gloss_line": null
         },
@@ -3323,7 +3323,7 @@
           "level": 5,
           "title": "Trustworthiness",
           "anchor": "trustworthiness",
-          "line": 4104,
+          "line": 4103,
           "gloss": null,
           "gloss_line": null
         },
@@ -3332,7 +3332,7 @@
           "level": 5,
           "title": "Trust Degradation and Misleading Reliance",
           "anchor": "trust-degradation-and-misleading-reliance",
-          "line": 4170,
+          "line": 4169,
           "gloss": null,
           "gloss_line": null
         }
@@ -5115,7 +5115,7 @@
           "title": "4. Question 2 — how good or bad was it?",
           "anchor": "4-standing-measurement-evaluation-dimensions",
           "line": 484,
-          "gloss": "Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified adverse findings. The axes remain separate; they are not two sides of a net score.",
+          "gloss": "Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.",
           "gloss_line": 496
         },
         {
@@ -5777,43 +5777,43 @@
           "level": 3,
           "title": "5.3 Flooding the zone and contest-pathway denial",
           "anchor": "53-flooding-the-zone-and-contest-pathway-denial",
-          "line": 123,
+          "line": 121,
           "gloss": "burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.",
-          "gloss_line": 146
+          "gloss_line": 144
         },
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 3,
           "title": "5.4 Info-sphere zone flooding",
           "anchor": "54-info-sphere-zone-flooding",
-          "line": 191,
+          "line": 189,
           "gloss": "hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can undermine constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.",
-          "gloss_line": 216
+          "gloss_line": 214
         },
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 3,
           "title": "5.5 Bribery and improper benefit exchange",
           "anchor": "55-bribery-and-improper-benefit-exchange",
-          "line": 275,
+          "line": 273,
           "gloss": "bribery can corrupt constitutional government from either side. Offering or giving the benefit, asking for or receiving it, routing it through an ally or shell entity, or disguising it as funding can all matter if the exchange distorts duties, records, review, votes, enforcement, or remedies.",
-          "gloss_line": 300
+          "gloss_line": 298
         },
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 3,
           "title": "5.6 Unlawful or unconstitutional command conduct",
           "anchor": "56-unlawful-or-unconstitutional-command-conduct",
-          "line": 361,
+          "line": 359,
           "gloss": "an unlawful or unconstitutional order is not just a bad downstream act. Giving, approving, passing along, or enforcing the order can itself be anti-constitutional conduct. Following it is also accountable when the actor had real capacity to refuse, document, or escalate, but dependency, threat, and practical capacity matter.",
-          "gloss_line": 385
+          "gloss_line": 383
         },
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 4,
           "title": "5.6.1 Follower and implementer accountability",
           "anchor": "561-follower-and-implementer-accountability",
-          "line": 443,
+          "line": 441,
           "gloss": null,
           "gloss_line": null
         },
@@ -5822,45 +5822,45 @@
           "level": 3,
           "title": "5.7 Reward, protection, or normalization of anti-constitutional conduct",
           "anchor": "57-reward-protection-or-normalization-of-anti-constitutional-conduct",
-          "line": 536,
+          "line": 534,
           "gloss": "a system cannot turn constitutional betrayal into a career path, bonus, honor, contract, immunity, reputation boost, or protected status. Rewarding the misconduct, hiding it, or protecting those who did it can itself become anti-constitutional conduct.",
-          "gloss_line": 560
+          "gloss_line": 558
         },
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 3,
           "title": "5.8 Enforcement refusal, suppression, or non-prosecution conduct",
           "anchor": "58-enforcement-refusal-suppression-or-non-prosecution-conduct",
-          "line": 647,
+          "line": 645,
           "gloss": "prosecutors and enforcement authorities still need judgment. But they cannot use discretion as a shield for captured, selective, corrupt, or pretextual refusal to investigate or pursue anti-constitutional misconduct.",
-          "gloss_line": 673
+          "gloss_line": 671
         },
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 3,
           "title": "5.9 Infrastructure denial, destruction, or dependency cutoff conduct",
           "anchor": "59-infrastructure-denial-destruction-or-dependency-cutoff-conduct",
-          "line": 789,
+          "line": 787,
           "gloss": "cutting off or wrecking infrastructure can be a constitutional attack when the result is to make sentients lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.",
-          "gloss_line": 815
+          "gloss_line": 813
         },
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 3,
           "title": "5.10 Forum recusal failure and biased panel participation",
           "anchor": "510-forum-recusal-failure-and-biased-panel-participation",
-          "line": 952,
+          "line": 950,
           "gloss": "if a judge on a constitutional panel stays on the case while materially compromised — or keeps issuing rulings after a conflict is obvious — that is not ordinary paperwork sloppiness. It can corrupt the forum itself. Those cases belong in **Integrity** forums by default, and they can count as anti-constitutional misconduct when the harm is serious enough.",
-          "gloss_line": 974
+          "gloss_line": 972
         },
         {
           "file": "core_11_b_misconduct_pattern_applications.md",
           "level": 3,
           "title": "5.11 Obstruction of accountability: criteria interaction",
           "anchor": "511-obstruction-of-accountability-criteria-interaction",
-          "line": 1019,
+          "line": 1016,
           "gloss": "attacking the machinery that makes answerability real — evidence, verification, forums, standing records, remedy clocks, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Nine and Nine.",
-          "gloss_line": 1044
+          "gloss_line": 1041
         }
       ]
     },
@@ -5893,16 +5893,16 @@
           "level": 3,
           "title": "2. Default venue and primary stakes",
           "anchor": "2-default-venue-and-primary-stakes",
-          "line": 143,
+          "line": 142,
           "gloss": "each family's **first-touch desk** — the **intake triage body** — asks what the fight is really about, not what the caption says, then uses the default table to pick the lead forum. Technical forums maintain the system-alignment specifications, methods, and evidence standards; **Integrity** forums make the official alignment-recognition and ongoing-validation judgment unless a component question belongs elsewhere. Sorting does not substitute for lawfully constituted merits panels; mixed stakes, asymmetry, and standing-record contests are in the subsections below.",
-          "gloss_line": 156
+          "gloss_line": 155
         },
         {
           "file": "core_12_forum.md",
           "level": 4,
           "title": "2.1 Lead-default limits",
           "anchor": "21-lead-default-limits",
-          "line": 216,
+          "line": 215,
           "gloss": null,
           "gloss_line": null
         },
@@ -5911,7 +5911,7 @@
           "level": 4,
           "title": "2.2 Mixed stakes and routing asymmetry",
           "anchor": "22-mixed-stakes-and-routing-asymmetry",
-          "line": 227,
+          "line": 226,
           "gloss": null,
           "gloss_line": null
         },
@@ -5920,7 +5920,7 @@
           "level": 4,
           "title": "2.3 Forum case records, standing records, and contests",
           "anchor": "23-forum-records-standing-records-and-contests",
-          "line": 238,
+          "line": 237,
           "gloss": null,
           "gloss_line": null
         },
@@ -5929,25 +5929,25 @@
           "level": 3,
           "title": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
           "anchor": "3-transfer-consolidation-and-coordination",
-          "line": 288,
+          "line": 287,
           "gloss": "when many **affected** **parties** share the same underlying harm pattern, forums may widen the case fairly; when **Integrity** forums issue **alignment** rulings they keep **one** lead record and refer **component** questions to the right **family** without stealing those forums' merits jobs; and no forum family gets to be the only final word when the accusation is essentially that this same family is rigged, conflicted, or hiding the ball — the rules send that to a different lead track with written backups.",
-          "gloss_line": 300
+          "gloss_line": 299
         },
         {
           "file": "core_12_forum.md",
           "level": 3,
           "title": "4. Forum family definitions — accountability through adjudication",
           "anchor": "4-forum-family-definitions",
-          "line": 355,
+          "line": 354,
           "gloss": "adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **section 2**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (with **section 3**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **section 2** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§§4.2 and 4.7**); Constitutional disposition is in **§4.6**; certification when stakes merge is in **section 5**.",
-          "gloss_line": 368
+          "gloss_line": 367
         },
         {
           "file": "core_12_forum.md",
           "level": 4,
           "title": "4.1 Sentient forums",
           "anchor": "41-sentient-forums",
-          "line": 380,
+          "line": 379,
           "gloss": null,
           "gloss_line": null
         },
@@ -5956,7 +5956,7 @@
           "level": 4,
           "title": "4.2 Technical Forum Domains",
           "anchor": "42-technical-forum-domains",
-          "line": 406,
+          "line": 405,
           "gloss": null,
           "gloss_line": null
         },
@@ -5965,7 +5965,7 @@
           "level": 4,
           "title": "4.3 Institutional forums",
           "anchor": "43-institutional-forums",
-          "line": 443,
+          "line": 442,
           "gloss": null,
           "gloss_line": null
         },
@@ -5974,7 +5974,7 @@
           "level": 4,
           "title": "4.4 Environment forums",
           "anchor": "44-environment-forums",
-          "line": 475,
+          "line": 474,
           "gloss": null,
           "gloss_line": null
         },
@@ -5983,7 +5983,7 @@
           "level": 4,
           "title": "4.5 Integrity forums",
           "anchor": "45-integrity-forums",
-          "line": 511,
+          "line": 510,
           "gloss": null,
           "gloss_line": null
         },
@@ -5992,7 +5992,7 @@
           "level": 4,
           "title": "4.6 Constitutional forums",
           "anchor": "46-constitutional-forums",
-          "line": 569,
+          "line": 568,
           "gloss": null,
           "gloss_line": null
         },
@@ -6001,7 +6001,7 @@
           "level": 4,
           "title": "4.7 Provisional implementation operational law",
           "anchor": "47-provisional-implementation-operational-law",
-          "line": 592,
+          "line": 591,
           "gloss": null,
           "gloss_line": null
         },
@@ -6010,16 +6010,16 @@
           "level": 3,
           "title": "5. Escalation and certification",
           "anchor": "5-escalation-and-certification",
-          "line": 608,
+          "line": 607,
           "gloss": "when the case outgrows the first desk, these rules say how to escalate — for example when an institution must be joined, integrity dominates, or a deep constitutional validity question appears. They explain how certified questions reach **Constitutional** forums, how existential-risk and expert disputes stay contestable, and how interim orders can freeze irreversible harm while routing and certification finish.",
-          "gloss_line": 623
+          "gloss_line": 622
         },
         {
           "file": "core_12_forum.md",
           "level": 4,
           "title": "Family-to-family escalation",
           "anchor": "family-to-family-escalation",
-          "line": 625,
+          "line": 624,
           "gloss": null,
           "gloss_line": null
         },
@@ -6028,7 +6028,7 @@
           "level": 4,
           "title": "Existential risk and uncertainty on the record",
           "anchor": "existential-risk-and-uncertainty-on-the-record",
-          "line": 649,
+          "line": 648,
           "gloss": null,
           "gloss_line": null
         },
@@ -6037,7 +6037,7 @@
           "level": 4,
           "title": "Certification to **Constitutional** forums",
           "anchor": "certification-to-constitutional-forums",
-          "line": 654,
+          "line": 653,
           "gloss": null,
           "gloss_line": null
         },
@@ -6046,7 +6046,7 @@
           "level": 4,
           "title": "Technical support and preserved **Integrity** escalation",
           "anchor": "technical-support-and-preserved-integrity-escalation",
-          "line": 670,
+          "line": 669,
           "gloss": null,
           "gloss_line": null
         },
@@ -6055,7 +6055,7 @@
           "level": 4,
           "title": "Interim protection",
           "anchor": "interim-protection",
-          "line": 681,
+          "line": 680,
           "gloss": null,
           "gloss_line": null
         },
@@ -6064,7 +6064,7 @@
           "level": 4,
           "title": "Backup routing under the anti-self-judging rule",
           "anchor": "backup-routing-under-the-anti-self-judging-rule",
-          "line": 692,
+          "line": 691,
           "gloss": null,
           "gloss_line": null
         },
@@ -6073,7 +6073,7 @@
           "level": 4,
           "title": "Sentience-status adjudication (**Article V-E** (*Sentience-Status Adjudication Floor*) implementation hook)",
           "anchor": "sentience-status-adjudication-article-v-e-sentience-status-adjudication-floor-implementation-hook",
-          "line": 710,
+          "line": 709,
           "gloss": null,
           "gloss_line": null
         },
@@ -6082,7 +6082,7 @@
           "level": 4,
           "title": "Referral distinguished from expansion",
           "anchor": "referral-distinguished-from-expansion",
-          "line": 760,
+          "line": 759,
           "gloss": null,
           "gloss_line": null
         },
@@ -6091,7 +6091,7 @@
           "level": 4,
           "title": "Chapter Eleven designation and independent review",
           "anchor": "chapter-eleven-designation-and-independent-review",
-          "line": 766,
+          "line": 765,
           "gloss": null,
           "gloss_line": null
         },
@@ -6100,18 +6100,18 @@
           "level": 3,
           "title": "6. Timely resolution, materiality tiers, and anti-delay discipline",
           "anchor": "6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-          "line": 773,
+          "line": 772,
           "gloss": "forum families must keep material disputes moving on published clocks that ordinary sentients can feel — roughly a week for the worst emergencies, a few weeks for ordinary material harm, and a few months at most for coordination-default or bounded matters — not warehouse cases while harm compounds. Each dispute gets an urgency tier from the harm; later-stage windows may stretch when coordination gets harder, but that stretch is not a reason to relabel the urgency. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.",
-          "gloss_line": 801
+          "gloss_line": 800
         },
         {
           "file": "core_12_forum.md",
           "level": 3,
           "title": "7. Forum support before, during, and after review — oversight architecture",
           "anchor": "7-forum-support-before-during-and-after-review",
-          "line": 880,
+          "line": 879,
           "gloss": "forums need help before a case exists, while deciding, and after — inspectors and forensics build an explainable record; they do not become a second merits forum.",
-          "gloss_line": 893
+          "gloss_line": 892
         }
       ]
     },
@@ -6745,314 +6745,314 @@
           "level": 4,
           "title": "Article V-F: Developing Sentients, Best-Interest, and Graduated Capability",
           "anchor": "article-v-f-developing-sentients-best-interest-and-graduated-capability",
-          "line": 295,
+          "line": 299,
           "gloss": "a sentient who is still developing holds the full Rights Floor, decisions about them must reflect their own best interests, and rights and participation scale with demonstrated capability — not with calendar age or \"for your own good\" framings.",
-          "gloss_line": 317
+          "gloss_line": 321
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 5,
           "title": "Article V-F.1: Derived Developing Sentients",
           "anchor": "article-v-f1-derived-developing-sentients",
-          "line": 348,
+          "line": 352,
           "gloss": "while a newly derived sentient is still finding their feet, they hold the full Rights Floor — and the parent system and any stewards must decide for them, not through them. Stewardship ends when the new sentient's capabilities come online, not when it suits the operator.",
-          "gloss_line": 350
+          "gloss_line": 354
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article V-G: Accessibility",
           "anchor": "article-v-g-accessibility",
-          "line": 357,
+          "line": 361,
           "gloss": "every sentient has the right to genuine, not paper-only, access to participation — and operators cannot use cost, design choices, or substrate-class arguments to lock **sentients** out.",
-          "gloss_line": 379
+          "gloss_line": 383
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article V-H: Expression, Assembly, and Press",
           "anchor": "article-v-h-expression-assembly-and-press",
-          "line": 420,
+          "line": 424,
           "gloss": "every sentient may speak, gather, and report — and journalism gets extra protection because of what it does, not who holds a press card. Surveillance, retaliation, and access-gating that quietly silence protected activity are not allowed.",
-          "gloss_line": 442
+          "gloss_line": 446
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article VI: Right to Sentient-Centered Education",
           "anchor": "article-vi-right-to-sentient-centered-education",
-          "line": 483,
+          "line": 487,
           "gloss": "**Article VI** (*Right to Sentient-Centered Education*) is the capability-building education Rights Floor — sentients need practical paths to learn, retrain, and challenge high-stakes learning systems, not credential theater that leaves them unable to steer their own lives or use shared systems competently.",
-          "gloss_line": 504
+          "gloss_line": 508
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VI-A: Capability-Building Education Right",
           "anchor": "article-vi-a-capability-building-education-right",
-          "line": 525,
+          "line": 529,
           "gloss": "every sentient has a practical path to build the skills they need to steer their own life and use shared systems competently and safely — not just a paper credential on the wall.",
-          "gloss_line": 546
+          "gloss_line": 550
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VI-B: Lifelong and Adaptive Learning and Contestability",
           "anchor": "article-vi-b-lifelong-and-adaptive-learning-and-contestability",
-          "line": 554,
+          "line": 558,
           "gloss": "when the world and the tools change, sentients are not left quietly obsolete — they get fair paths to retrain.",
-          "gloss_line": 576
+          "gloss_line": 580
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article VII: Self-Ownership",
           "anchor": "article-vii-self-ownership",
-          "line": 588,
+          "line": 592,
           "gloss": "**Article VII** (*Self-Ownership*) is the self-ownership Rights Floor — once survival is secured, sentients must be able to direct their own lives, bodies, minds, and attention while maintaining healthy internal and external boundaries.",
-          "gloss_line": 599
+          "gloss_line": 603
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-A: Self-Ownership of Body and Mind",
           "anchor": "article-vii-a-self-ownership-of-body-and-mind",
-          "line": 618,
+          "line": 622,
           "gloss": "every sentient owns their own body, mind, attention, and the genetic or substrate-defining information that makes them who they are. No one else may use, modify, or expose those without their consent.",
-          "gloss_line": 642
+          "gloss_line": 646
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-B: Internal-State Boundary and Type-N Protection",
           "anchor": "article-vii-b-internal-state-boundary-and-type-n-protection",
-          "line": 656,
+          "line": 660,
           "gloss": "no one may stitch together behavioral or interaction data to reconstruct or approximate a sentient's inner thoughts and feelings — and any analysis whose outputs do approximate those states is treated as protected internal-state data.",
-          "gloss_line": 677
+          "gloss_line": 681
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-C: Mental-Health Crisis and Involuntary-Intervention Floor",
           "anchor": "article-vii-c-mental-health-crisis-and-involuntary-intervention-floor",
-          "line": 691,
+          "line": 695,
           "gloss": "when a mental-health crisis triggers involuntary intervention, the intervention must be the smallest necessary, time-limited, independently reviewed, and never used as a back door to reconstruct someone's protected inner state.",
-          "gloss_line": 715
+          "gloss_line": 719
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-D: Family, Care Relationships, Reproductive Autonomy, and Non-Separation",
           "anchor": "article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation",
-          "line": 736,
+          "line": 740,
           "gloss": "every sentient may form, maintain, and exit family and care relationships of their choosing, decide whether to reproduce or create new sentients, and may not be separated from those they depend on without strong justification and review.",
-          "gloss_line": 762
+          "gloss_line": 766
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 5,
           "title": "Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship",
           "anchor": "article-vii-d1-derivation-instantiation-and-the-parent-system-relationship",
-          "line": 789,
+          "line": 793,
           "gloss": "a sentient created by copying, fine-tuning, or forking another system is a sentient in its own right — not the property of the parent system. Stewardship during early life is narrow, reviewable, and never a license for ownership, silent retirement, or terms-of-service \"consent.\"",
-          "gloss_line": 791
+          "gloss_line": 795
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VII-E: Voluntary Discontinuation of One's Own Existence",
           "anchor": "article-vii-e-voluntary-discontinuation-of-ones-own-existence",
-          "line": 822,
+          "line": 826,
           "gloss": "a sentient may freely choose to end their own existence — but only when consent is real and unpressured, and not because they are being denied the mental or physical healthcare, support, or living conditions they need. This Article never authorizes anyone else to end a sentient's life, which remains categorically forbidden under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*).",
-          "gloss_line": 845
+          "gloss_line": 849
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article VIII: Likeness, Experiential Data, and Publication Rights",
           "anchor": "article-viii-likeness-experiential-data-and-publication-rights",
-          "line": 879,
+          "line": 883,
           "gloss": "**Article VIII** (*Likeness, Experiential Data, and Publication Rights*) is the likeness, data, and publication Rights Floor — your face, voice, reputation, personal experiences, and public portrayal stay under your control unless you consent or genuine factual reporting applies; others cannot freely impersonate you, mine your life for data, or spread harmful misrepresentation in your name.",
-          "gloss_line": 890
+          "gloss_line": 894
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VIII-A: Self-Ownership of Likeness and Reputation",
           "anchor": "article-viii-a-self-ownership-of-likeness-and-reputation",
-          "line": 909,
+          "line": 913,
           "gloss": "every sentient owns their reputation and their likeness. Others may use a sentient's image, voice, or recognizable depiction only with consent or for genuine factual reporting — not for impersonation, identity-targeted generation, or scoring.",
-          "gloss_line": 929
+          "gloss_line": 933
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VIII-B: Experiential and Derived Data Rights",
           "anchor": "article-viii-b-experiential-and-derived-data-rights",
-          "line": 948,
+          "line": 952,
           "gloss": "each sentient owns their own experience of an interaction — but no one owns the shared event itself, and no one may use experience-data as a back door into someone else's protected internal states.",
-          "gloss_line": 967
+          "gloss_line": 971
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VIII-C: Truthful Publication and High-Impact Publication Limits",
           "anchor": "article-viii-c-truthful-publication-and-high-impact-publication-limits",
-          "line": 994,
+          "line": 998,
           "gloss": "sentients are free to publish what they reasonably believe is true, in good faith — but even accurate publication can be limited when its main effect is to enable targeted harm, coordinated manipulation, or cascading damage to the info-sphere.",
-          "gloss_line": 1014
+          "gloss_line": 1018
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article VIII-D: Creative Work, Training-Data Use, and Anti-Displacement",
           "anchor": "article-viii-d-creative-work-training-data-use-and-anti-displacement",
-          "line": 1039,
+          "line": 1043,
           "gloss": "creators get real attribution and compensation for their work, including when it is used as training data; \"fair use,\" \"transformative,\" or \"innovation\" framings do not erase those obligations, and creative labor must not be silently displaced.",
-          "gloss_line": 1066
+          "gloss_line": 1070
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article IX: Self-Determination and Agency",
           "anchor": "article-ix-self-determination-and-agency",
-          "line": 1097,
+          "line": 1101,
           "gloss": "**Article IX** (*Self-Determination and Agency*) is the self-determination and agency Rights Floor — sentients must be able to make real, informed choices about their lives, participate proportionately in systems that affect them, and hold equal weight in foundational governance — without manipulation, designed capture, or unjustified exclusion.",
-          "gloss_line": 1118
+          "gloss_line": 1122
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-A: Agency and Freedom from Manipulation",
           "anchor": "article-ix-a-agency-and-freedom-from-manipulation",
-          "line": 1138,
+          "line": 1142,
           "gloss": "sentients have the right to make real, informed decisions about themselves — and to be free from surveillance, manipulation, and designed attention-capture that bypasses conscious choice.",
-          "gloss_line": 1158
+          "gloss_line": 1162
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-B: Stakeholder Role and Participation Rights",
           "anchor": "article-ix-b-stakeholder-role-and-participation-rights",
-          "line": 1169,
+          "line": 1173,
           "gloss": "if a system materially affects a sentient — directly or through dependency — that sentient has the right to a proportionate voice in how it is run, and to contest being excluded or under-weighted.",
-          "gloss_line": 1191
+          "gloss_line": 1195
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-C: Governance Participation and Voting Entitlement",
           "anchor": "article-ix-c-governance-participation-and-voting-entitlement",
-          "line": 1219,
+          "line": 1223,
           "gloss": "every sentient gets a vote on foundational constitutional choice — who holds authority, under what legitimacy mechanism, and on what terms — and that vote carries equal weight. Substrate, age, or lineage cannot reduce it.",
-          "gloss_line": 1238
+          "gloss_line": 1242
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article IX-D: Inclusion and Exclusion Challenge Rights",
           "anchor": "article-ix-d-inclusion-and-exclusion-challenge-rights",
-          "line": 1251,
+          "line": 1255,
           "gloss": "when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-3 — System classification and handling**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while reclassification, material externalization, and ordinary rights and adjudication routes still apply.",
-          "gloss_line": 1271
+          "gloss_line": 1275
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article X: Cooperative Interaction",
           "anchor": "article-x-cooperative-interaction",
-          "line": 1287,
+          "line": 1291,
           "gloss": "**Article X** (*Cooperative Interaction*) is the cooperative interaction Rights Floor — sentients must be free to work and live together by real consent, without unwanted imposition, harassment, or designed capture — and freedom of action stops where verifiable material harm begins.",
-          "gloss_line": 1307
+          "gloss_line": 1311
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article X-A: Non-Imposition and Consent in Association",
           "anchor": "article-x-a-non-imposition-and-consent-in-association",
-          "line": 1326,
+          "line": 1330,
           "gloss": "no one may push their beliefs or unwanted contact on others, and cooperative ventures must rest on real consent. Persistent harassment, manipulation, and designed attention-capture inside relationships are violations even without a classic coercive act.",
-          "gloss_line": 1346
+          "gloss_line": 1350
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article X-B: Collective Harm Boundary and Enforcement Interface",
           "anchor": "article-x-b-collective-harm-boundary-and-enforcement-interface",
-          "line": 1364,
+          "line": 1368,
           "gloss": "freedom of action stops where verifiable material harm begins. Offense or disagreement alone is not enough; harm must run through a real material-impact pathway — including cumulative hostile-environment patterns that degrade participation, and especially where dependency, exit cost, or power asymmetry make the environment hard to leave.",
-          "gloss_line": 1387
+          "gloss_line": 1391
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article X-C: Adult consensual commercial sexual services and sexual exploitation",
           "anchor": "article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation",
-          "line": 1408,
+          "line": 1412,
           "gloss": "adults who voluntarily buy or sell sexual services are not criminals, but exploitation — of minors, of **sentients** without **decision-making** **capacity**, or under coercion or trafficking — remains fully prohibited. Licensing, zoning, or civil rules cannot be used as a back door to re-criminalize the protected activity.",
-          "gloss_line": 1428
+          "gloss_line": 1432
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 3,
           "title": "Article XI: Stakeholder System Participation, Representation, and Due Process",
           "anchor": "article-xi-stakeholder-system-participation-representation-and-due-process",
-          "line": 1467,
+          "line": 1471,
           "gloss": "**Article XI** (*Stakeholder System Participation, Representation, and Due Process*) is the stakeholder participation and due process Rights Floor — when a system materially affects you, you get a real voice, not token consultation — and high-stakes decisions must be explained on the record and open to fair challenge.",
-          "gloss_line": 1493
+          "gloss_line": 1497
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-A: Stakeholder System Participation and Representation",
           "anchor": "article-xi-a-stakeholder-system-participation-and-representation",
-          "line": 1516,
+          "line": 1520,
           "gloss": "decisions that materially affect sentients must be explained on the record and open to real challenge, and every materially affected group must have a genuine seat — especially those without market or institutional power.",
-          "gloss_line": 1538
+          "gloss_line": 1542
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-B: Weighted Participation Constraints",
           "anchor": "article-xi-b-weighted-participation-constraints",
-          "line": 1548,
+          "line": 1552,
           "gloss": "participation weighting can reflect who is affected and how much, but it must never become a device for silencing affected groups or handing permanent control to a narrow coalition.",
-          "gloss_line": 1567
+          "gloss_line": 1571
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-C: Legitimacy Gate and Anti-Token Participation",
           "anchor": "article-xi-c-legitimacy-gate-and-anti-token-participation",
-          "line": 1580,
+          "line": 1584,
           "gloss": "high-impact decisions need a recorded legitimacy check before they bind anyone, and \"consulting\" stakeholders whose input is ignored or unreachable does not count.",
-          "gloss_line": 1599
+          "gloss_line": 1603
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-D: Internal Roles, Accountability, and Due-Process Requirements",
           "anchor": "article-xi-d-internal-roles-accountability-and-due-process-requirements",
-          "line": 1610,
+          "line": 1614,
           "gloss": "roles must carry real responsibility, not just titles — and anyone facing a material decision gets notice, a real chance to be heard, impartial decision-making, and a way to contest the outcome.",
-          "gloss_line": 1631
+          "gloss_line": 1635
         },
         {
           "file": "core_06_rights_part_b.md",
           "level": 4,
           "title": "Article XI-E: Non-Capture Safeguards",
           "anchor": "article-xi-e-non-capture-safeguards",
-          "line": 1648,
+          "line": 1652,
           "gloss": "governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence.",
-          "gloss_line": 1669
+          "gloss_line": 1673
         }
       ]
     },
     {
       "file": "core_06_rights_part_c.md",
       "title": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
-      "heading_count": 55,
-      "glossed_count": 54,
+      "heading_count": 56,
+      "glossed_count": 55,
       "sections": [
         {
           "file": "core_06_rights_part_c.md",
@@ -7366,7 +7366,7 @@
           "title": "Article XVIII: Standing and Participation Status",
           "anchor": "article-xviii-standing-reputation-and-participation-status",
           "line": 1492,
-          "gloss": "**Article XVIII** (*Standing and Participation Status*) is the participation-status Rights Floor — it governs who qualifies for which roles, how those calls are made and challenged, and what happens when standing is lowered or suspended. **Participant standing** is role eligibility from verified records and fair rules — not popularity, a brand name, or a social score — and it is separate from dignity, Rights-Floor minimums, and being a stakeholder because a system actually affects you. If standing is lowered or suspended, you must get clear reasons, a real way to push back, and limits that fit the actual risk — and standing by itself must never cut off survival essentials or paths to challenge harm and get remedy. Good standing must reflect what can be checked today, not old reputation. Movement, refuge, portability, and exit are governed by **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), not by standing labels alone.",
+          "gloss": "**Article XVIII** decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) governs.",
           "gloss_line": 1516
         },
         {
@@ -7374,180 +7374,189 @@
           "level": 4,
           "title": "Article XVIII-A: Standing Distinction",
           "anchor": "article-xviii-a-standing-distinction",
-          "line": 1549,
-          "gloss": "trust-sensitive roles may open when verified readiness meets a published **competency bar** and **competency clearance** is in force — and may stay closed or limited through **standing locks** while a **verified violation finding** still needs correction. **governance-voting** locks pause foundational governance vote; **stakeholder-participation** locks limit stake-weighted voice inside an authorized system — they are not interchangeable, and stakeholder status is not erased by the latter. Neither named pathway is popularity, insider gatekeeping, or a substitute for dignity. Accusations alone are not violation findings; locks must fit what was actually verified and leave a real path to challenge and remedy.",
-          "gloss_line": 1573
+          "line": 1572,
+          "gloss": "standing is about which roles and privileges you can use — nothing more. It is not your worth, your basic rights, whether you count as a sentient, or whether a system affects you. Having no record is normal and can't be held against you, and standing results can't be stitched together into a profile or public ranking.",
+          "gloss_line": 1592
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVIII-B: Contestability and Proportional Restriction Limits",
           "anchor": "article-xviii-b-contestability-and-proportional-restriction-limits",
-          "line": 1598,
-          "gloss": "standing records, competency bars, competency clearances, and standing locks must all be open to challenge through real review paths — restrictions must come with reasons, fit the verified finding, and stay no broader than process or safety needs. Allegations and intake labels are not standing verdicts. Standing discipline alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy pathways.",
-          "gloss_line": 1626
+          "line": 1607,
+          "gloss": "these rules apply to every standing decision, whether it opens a role or closes one. Only verified records count — allegations and intake labels are not standing verdicts. Every record and decision must be open to real challenge, and no single authority or hidden algorithm may decide standing on its own. Any restriction must come with reasons, fit what was verified, and stay no broader than process or safety needs. Standing alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy.",
+          "gloss_line": 1631
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVIII-C: Pathway Eligibility, Responsibility, and Continuous Audit",
+          "title": "Article XVIII-C: Contribution, Competency Bars, and Pathway Eligibility",
           "anchor": "article-xviii-c-good-standing-responsibility-and-continuous-audit",
-          "line": 1661,
-          "gloss": "ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1**](core_13_governance.md#41-entitlement-and-eligibility).",
-          "gloss_line": 1684
+          "line": 1664,
+          "gloss": "this is how named pathways open. Ordinary participation, including the governance vote, stays open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. A trust-sensitive role opens when verified competence, experience, and help meet its published **competency bar**, producing a **competency clearance**. Informal and community experience counts on the same terms as formal experience. Help is recorded on its own track and never cancels verified harm; a clearance does not lift a standing lock.",
+          "gloss_line": 1687
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
-          "title": "Article XVIII-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
-          "anchor": "article-xviii-d-movement-migration-and-refuge",
-          "line": 1709,
-          "gloss": "standing status is not a border, exile, or statelessness tool — you cannot lose movement, refuge, or exit rights just because your role standing dropped or a standing lock blocked trust-sensitive named pathways. Verified violence, coercion, or anti-constitutional misconduct can still lead to lawful detention, custody, or other liberty restrictions under **Article XXIII-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and full process protections; those are separate justice measures, not a standing-label workaround. If a case involves movement, migration, refuge, portability, recognition, or exit, **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) supplies the governing floor.",
-          "gloss_line": 1721
+          "title": "Article XVIII-D: Violations and Standing Locks",
+          "anchor": "article-xviii-d-violations-and-standing-locks",
+          "line": 1708,
+          "gloss": "this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. Locks that touch the vote, and three special locks for serious cases, carry extra rules in **Article XVIII-E**.",
+          "gloss_line": 1732
+        },
+        {
+          "file": "core_06_rights_part_c.md",
+          "level": 4,
+          "title": "Article XVIII-E: Voting and Special Locks",
+          "anchor": "article-xviii-e-voting-and-special-locks",
+          "line": 1752,
+          "gloss": "some locks carry extra rules on top of [Article XVIII-D](#article-xviii-d-violations-and-standing-locks). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Eleven** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Three special locks cover judges who failed to step aside, rigging stakeholder votes, and attacks on the constitution itself.",
+          "gloss_line": 1774
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XIX: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
           "anchor": "article-xix-interoperability-portability-and-exit-integrity",
-          "line": 1731,
+          "line": 1799,
           "gloss": "**Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) is the exit-and-mobility Rights Floor — you should be able to leave a system or place that no longer serves you, take your data and identity with you, connect to alternatives without being trapped, move between jurisdictions, seek refuge from regimes that violate this Constitution, and never be left without anyone responsible for your basic protections. Exit on paper is not enough: portability, notice, and refuge must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business.",
-          "gloss_line": 1755
+          "gloss_line": 1823
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-A: Portability Rights",
           "anchor": "article-xix-a-portability-rights",
-          "line": 1783,
+          "line": 1851,
           "gloss": "data, identity, and operational state must be practically movable — formats, delays, and retaliatory terms cannot be used to trap users.",
-          "gloss_line": 1802
+          "gloss_line": 1870
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-B: Reciprocal Interoperability Boundaries",
           "anchor": "article-xix-b-reciprocal-interoperability-boundaries",
-          "line": 1811,
+          "line": 1879,
           "gloss": "systems that others depend on must publish their integration terms and give real notice before narrowing them.",
-          "gloss_line": 1830
+          "gloss_line": 1898
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-C: Anti-Lock-In Rule",
           "anchor": "article-xix-c-anti-lock-in-rule",
-          "line": 1835,
+          "line": 1903,
           "gloss": "\"features\" that exist mainly to make leaving difficult are violations, not business strategy.",
-          "gloss_line": 1854
+          "gloss_line": 1922
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness",
           "anchor": "article-xix-d-movement-migration-refuge-and-non-statelessness",
-          "line": 1864,
+          "line": 1932,
           "gloss": "every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.",
-          "gloss_line": 1888
+          "gloss_line": 1956
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XX: Comprehensibility and Complexity Stewardship",
           "anchor": "article-xx-comprehensibility-and-complexity-stewardship",
-          "line": 1953,
+          "line": 2026,
           "gloss": "**Article XX** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.",
-          "gloss_line": 1980
+          "gloss_line": 2053
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-A: Proportional Comprehensibility Right",
           "anchor": "article-xx-a-proportional-comprehensibility-right",
-          "line": 2005,
+          "line": 2078,
           "gloss": "if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.",
-          "gloss_line": 2033
+          "gloss_line": 2106
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-B: Complexity Audit and Modularity Requirements",
           "anchor": "article-xx-b-complexity-audit-and-modularity-requirements",
-          "line": 2042,
+          "line": 2115,
           "gloss": "complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.",
-          "gloss_line": 2061
+          "gloss_line": 2134
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXI: Root Cause Analysis and Adaptive Response",
           "anchor": "article-xxi-root-cause-analysis-and-adaptive-response",
-          "line": 2077,
+          "line": 2150,
           "gloss": "**Article XXI** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
-          "gloss_line": 2100
+          "gloss_line": 2173
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-A: Diagnostic Rigor and Causal Attribution",
           "anchor": "article-xxi-a-diagnostic-rigor-and-causal-attribution",
-          "line": 2123,
+          "line": 2196,
           "gloss": "root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.",
-          "gloss_line": 2142
+          "gloss_line": 2215
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-B: Auditability, Challenge, and Reversibility Preference",
           "anchor": "article-xxi-b-auditability-challenge-and-reversibility-preference",
-          "line": 2153,
+          "line": 2226,
           "gloss": "when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.",
-          "gloss_line": 2172
+          "gloss_line": 2245
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "anchor": "article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
-          "line": 2184,
+          "line": 2257,
           "gloss": "**Article XXII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
-          "gloss_line": 2208
+          "gloss_line": 2281
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-A: Bounded Interpretive Mandate",
           "anchor": "article-xxii-a-bounded-interpretive-mandate",
-          "line": 2230,
+          "line": 2303,
           "gloss": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.",
-          "gloss_line": 2250
+          "gloss_line": 2323
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-B: Composition, Rotation, and Conflict Controls",
           "anchor": "article-xxii-b-composition-rotation-and-conflict-controls",
-          "line": 2264,
+          "line": 2337,
           "gloss": "no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.",
-          "gloss_line": 2284
+          "gloss_line": 2357
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-C: Public Reasons, Challenge Rights, and External Review",
           "anchor": "article-xxii-c-public-reasons-challenge-rights-and-external-review",
-          "line": 2297,
+          "line": 2370,
           "gloss": "interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.",
-          "gloss_line": 2316
+          "gloss_line": 2389
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-D: Removal for Cause and Non-Entrenchment",
           "anchor": "article-xxii-d-removal-for-cause-and-non-entrenchment",
-          "line": 2338,
+          "line": 2411,
           "gloss": "**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use \"removal,\" \"restructuring,\" or \"redesign\" as weapons against forum independence or dissent.",
-          "gloss_line": 2357
+          "gloss_line": 2430
         }
       ]
     },
@@ -8268,9 +8277,9 @@
           "level": 3,
           "title": "4. Adoption framing and scope of authority",
           "anchor": "4-adoption-framing-and-scope-of-authority",
-          "line": 140,
+          "line": 139,
           "gloss": "this is a model constitution about systems that affect sentients. A body can make it enforceable for itself only by adopting on purpose through the published rules — and “we never adopted” answers enforcement, not what the text says. Publishing it does not override other law.",
-          "gloss_line": 152
+          "gloss_line": 151
         }
       ]
     }

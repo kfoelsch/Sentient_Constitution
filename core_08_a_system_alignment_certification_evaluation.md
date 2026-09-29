@@ -22,10 +22,10 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Who's in charge here, and what's off-limits</span></strong></summary>
 
 <a id="operative-steward-statement-sac"></a>
-> **Operative steward statement.** **Owner:** Chapter Eight (forum-supervised SAC). Principle-layer lens: Chapter One §15. SAC is one especially large audit process under Article XV / Auditability — not the only audit. **Forbidden move:** Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window. Do not invent a fifth audit home. Do not treat a certification badge or LEQU score as sentience status. **Clock:** Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, before the aligned claim.
+> **Who's in charge here, and what's off-limits.** **Owner:** Chapter Eight (forum-supervised SAC). Principle-layer lens: Chapter One §15. SAC is one especially large audit process under Article XV / Auditability — not the only audit. **Forbidden move:** Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window. Do not invent a fifth audit home. Do not treat a certification badge or LEQU score as sentience status. **Clock:** Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, before the aligned claim.
 
 </details>
 

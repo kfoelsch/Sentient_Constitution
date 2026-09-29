@@ -18,6 +18,13 @@ Rule MD-HTML-HEADING-01: an ATX heading must not sit inside a raw HTML block.
 A standalone ``<br>`` / ``</details>`` / ``<a id>`` line opens an HTML block that
 runs to the next blank line, so a heading directly beneath it renders as
 literal text. Put a blank line between the tag line and the heading.
+
+Rule MD-LOOSE-LIST-01: no blank line between two items of the same list.
+CommonMark treats a list whose sibling items are separated by a blank line as
+"loose" and wraps every item in a paragraph, so the whole list renders with
+extra spacing. Two sibling bullets split by a blank line also silently merge
+into one list. Remove the blank line, or, if the items belong to different
+ideas, give the second group its own parent bullet.
 """
 
 from __future__ import annotations
@@ -31,6 +38,7 @@ from corpus_paths import binding_corpus_scope
 
 RULE_LIST_INTRO = "MD-LIST-INTRO-01"
 RULE_HTML_HEADING = "MD-HTML-HEADING-01"
+RULE_LOOSE_LIST = "MD-LOOSE-LIST-01"
 # ASCII period plus CJK/Devanagari/Bengali danda and Urdu full stop.
 LIST_INTRO_PERIODS = frozenset(".。।۔")
 LIST_INTRO_HEADER_RE = re.compile(r"^\*\*(.+)[.\u3002\u0964\u06d4]\*\*\s*$")
@@ -483,6 +491,61 @@ def check_heading_swallowed_by_html_block(lines: list[str], path_label: str) -> 
     return errors
 
 
+_LOOSE_ITEM_RE = re.compile(r"^( *)([-*+]|\d+[.)])(?: |$)")
+_LOOSE_FENCE_RE = re.compile(r"^\s*(`{3,}|~{3,})")
+
+
+def check_blank_line_between_list_siblings(lines: list[str], path_label: str) -> list[str]:
+    """Flag a blank line separating two items of the same list (MD-LOOSE-LIST-01).
+
+    Walking back from a list item that follows a blank line, skip blank lines
+    and anything indented deeper (the earlier sibling's children or wrapped
+    text). If the first line reached is a list item at the same indent with the
+    same marker kind (bullet vs. ordered), the two are siblings in one list and
+    the blank line makes that list loose.
+    """
+    errors: list[str] = []
+    in_fence = [False] * len(lines)
+    fence: str | None = None
+    for i, line in enumerate(lines):
+        fm = _LOOSE_FENCE_RE.match(line)
+        if fence:
+            in_fence[i] = True
+            if fm and fm.group(1)[0] == fence[0] and len(fm.group(1)) >= len(fence):
+                fence = None
+            continue
+        if fm:
+            fence = fm.group(1)
+            in_fence[i] = True
+
+    def indent(text: str) -> int:
+        return len(text) - len(text.lstrip(" "))
+
+    for i, line in enumerate(lines):
+        if in_fence[i] or i == 0 or lines[i - 1].strip():
+            continue
+        m = _LOOSE_ITEM_RE.match(line)
+        if not m:
+            continue
+        k = len(m.group(1))
+        ordered = m.group(2)[-1] in ".)"
+        j = i - 1
+        while j >= 0 and not in_fence[j] and (not lines[j].strip() or indent(lines[j]) > k):
+            j -= 1
+        if j < 0 or in_fence[j]:
+            continue
+        pm = _LOOSE_ITEM_RE.match(lines[j])
+        if pm and len(pm.group(1)) == k and (pm.group(2)[-1] in ".)") == ordered:
+            item = line.strip()
+            item = item if len(item) <= 90 else item[:87] + "..."
+            errors.append(
+                f"{path_label}:{i + 1}: blank line between items of the same list makes the "
+                f"whole list render loose (extra spacing); remove it or give this group its "
+                f"own parent bullet ({RULE_LOOSE_LIST}): {item!r}"
+            )
+    return errors
+
+
 def resolve_thematic_paths(root: pathlib.Path, arg: str | None) -> list[pathlib.Path]:
     if arg is None:
         names = [
@@ -540,6 +603,8 @@ def main() -> int:
         findings.extend(check_horizontal_rule_preceding_blank(tb_lines, rel))
         findings.extend(check_oec_intro_sublist_nesting(tb_lines, rel))
         findings.extend(check_heading_swallowed_by_html_block(tb_lines, rel))
+        if not rel.startswith("archive/"):
+            findings.extend(check_blank_line_between_list_siblings(tb_lines, rel))
 
     for rel in binding_corpus_scope(root):
         path = root / rel
