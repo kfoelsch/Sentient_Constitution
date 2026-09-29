@@ -50,6 +50,8 @@
 
 *In plain terms: **Article XII** (*Right to Reliable and Trustworthy Systems*) is the trustworthy-systems Rights Floor — when a system materially affects your life, you are entitled to rely on it honestly, understand its limits, and challenge it when it fails. Trust has to be earned and kept, not manufactured with branding or fine print.*
 
+Sentients have the right to interact with systems that are reliable and trustworthy, to a degree proportionate to their impact, dependency, and risk. That reliability supports informed participation, coordinated action, and the preservation of wellbeing. Trustworthiness must be evaluated across time, scale, and dependency relationships where these materially affect outcomes.
+
 This Article states **constitutional floors** for reliable and trustworthy systems under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Read with Oversight measurement family (*Trustworthiness as constitutional measurement*).
 
 - **Flourishing:** sentients can form reasonable expectations about system behavior, receive honest disclosure of limits and risks, and participate and coordinate without systematic deception or manufactured reliance.
@@ -61,8 +63,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Oversight:** through auditable behavior, disclosed limits, and independent verification proportionate to impact and dependency.
 - **Accountability:** system operators must answer for creating false trust, perverse incentives, or failures that materially harm sentients who reasonably relied on the system.
 - **Timeliness:** in detection, challenge, and remedy before delay would make reliability or redress effectively unreachable.
-
-Sentients have the right to interact with systems that are reliable and trustworthy, to a degree proportionate to their impact, dependency, and risk. That reliability supports informed participation, coordinated action, and the preservation of wellbeing. Trustworthiness must be evaluated across time, scale, and dependency relationships where these materially affect outcomes.
 
 Two safeguards work together to secure this right: certification makes a system worthy of that trust, and the rights of sentients keep it honest.
 
@@ -1819,18 +1819,6 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 *In plain terms: **Article XIX** (*Interoperability, Portability, and Exit Integrity*) is the systems-exit Rights Floor — you should be able to leave a system that no longer serves you, take your data, identity, and working state with you, and connect to alternatives without being trapped. Exit on paper is not enough: portability and notice must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business. Moving between places and regimes, seeking refuge, and never being left stateless are covered by **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*).*
 
-This Article states **constitutional floors** for interoperability, portability, and exit integrity under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
-
-- **Flourishing:** sentients can choose, switch, and coordinate across systems without coercive lock-in, exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or denial-by-proxy — through usable portability and reciprocal interoperability where [Material Impact](core_05_band_oversight.md#material-impact) is present.
-- **Continuity:** exit, portability, and interoperability obligations stay durable as dependency deepens or operators change — systems must not harden trap architecture or narrow integration terms without notice.
-
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** in choosing and switching systems, migrating with usable data and identity, and challenging lock-in and denial-by-proxy.
-- **Oversight:** through documented interoperability boundaries, open formats and standards by default, timely portability, advance notice before material narrowing, and review of whether transition conditions are real rather than merely formal.
-- **Accountability:** systems must answer for [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), anti-portability design, or other conduct whose main effect is trapping sentients — blocking exit, switching, or substitution.
-- **Timeliness:** in portability delivery, interoperability notice, and barrier correction before delay, opacity, or procedural friction would make exit or remedy effectively unreachable under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
-
 Sentients and dependent systems have the right to meaningful, usable exit, migration between systems, and interoperability without coercive lock-in.
 
 - The right does not require disclosures or transfers that would create unjustified risk to safety, security, or the rights of others. What must be released follows each dataset's type and handling posture under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, and where more than one type applies, the most protective applicable type governs:
@@ -1845,6 +1833,18 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - carry its CS-2 type, so the receiving system can apply the same protections; and
   - do not change its type or lower its protections through conversion, export, or transfer.
 - It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05_band_continuity.md#systemic-lock-in) read with **[Chapter Five *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
+
+This Article states **constitutional floors** for interoperability, portability, and exit integrity under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** sentients can choose, switch, and coordinate across systems without coercive lock-in, exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or denial-by-proxy — through usable portability and reciprocal interoperability where [Material Impact](core_05_band_oversight.md#material-impact) is present.
+- **Continuity:** exit, portability, and interoperability obligations stay durable as dependency deepens or operators change — systems must not harden trap architecture or narrow integration terms without notice.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** in choosing and switching systems, migrating with usable data and identity, and challenging lock-in and denial-by-proxy.
+- **Oversight:** through documented interoperability boundaries, open formats and standards by default, timely portability, advance notice before material narrowing, and review of whether transition conditions are real rather than merely formal.
+- **Accountability:** systems must answer for [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), anti-portability design, or other conduct whose main effect is trapping sentients — blocking exit, switching, or substitution.
+- **Timeliness:** in portability delivery, interoperability notice, and barrier correction before delay, opacity, or procedural friction would make exit or remedy effectively unreachable under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
 
 Standing: standing status, competency bars, competency clearances, and standing locks under **Article XVIII** (*Standing and Participation Status*) do not **by themselves** limit portability or exit, and must not substitute for individualized justice process.
 
@@ -2014,6 +2014,12 @@ Standing: standing status, competency bars, competency clearances, and standing 
 
 *In plain terms: **Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. This doesn't mean one adopter has to take in everyone another regime forces out. The home regime is still responsible for those sentients first. If it can't or won't be, a group of regimes must share the job, so no one is left with nobody. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
 
+Sentients have the right to meaningful movement, migration, refuge, and recognition without exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), denial-by-proxy, or statelessness. The right is consistent with **[Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent)** and does not require any particular adopter to host at volume.
+
+- **Integration with portability and exit integrity:** **Article XIX** (*Interoperability, Portability, and Exit Integrity*) governs interoperability, portability, and exit integrity; this Article governs physical, jurisdictional, and regime-to-regime movement.
+  - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
+  - Conflicts resolve under **Chapter One §6.1.5** (*Rights-Collision Decision Test*).
+
 This Article states **constitutional floors** for movement, migration, refuge, and non-statelessness under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** sentients can move, relocate, and seek refuge across jurisdictions, federations, and adopter regimes without exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) or denial-by-proxy where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
@@ -2025,12 +2031,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Oversight:** through published admission and refuge terms, individualized predicates for restriction, and review of whether movement and recognition paths are real rather than merely formal.
 - **Accountability:** regimes must answer for exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), coercive expulsion or dumping, bureaucratic exhaustion, or other conduct whose main effect is blocking movement, refuge, or recognition.
 - **Timeliness:** in refuge consideration, recognition arrangements, and review of emergency restrictions before delay would make movement, refuge, or remedy effectively unreachable under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
-
-Sentients have the right to meaningful movement, migration, refuge, and recognition without exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), denial-by-proxy, or statelessness. The right is consistent with **[Chapter Five *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_05_band_oversight.md#movement-refuge-semi-independent)** and does not require any particular adopter to host at volume.
-
-- **Integration with portability and exit integrity:** **Article XIX** (*Interoperability, Portability, and Exit Integrity*) governs interoperability, portability, and exit integrity; this Article governs physical, jurisdictional, and regime-to-regime movement.
-  - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
-  - Conflicts resolve under **Chapter One §6.1.5** (*Rights-Collision Decision Test*).
 
 *Article neighbors:*
 
@@ -2212,6 +2212,7 @@ Sentients have the right to meaningful movement, migration, refuge, and recognit
 
 - Upstream: Principles: [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One Part C §9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) in **Chapter Five**.
+- Cross-reference: the stewardship discipline for complexity, plain-language access, and burden minimization is stated at principle layer in the upstream sections above. This Article states the Rights Floor those disciplines implement where systems materially affect protected interests.
 
 </details>
 
@@ -2234,29 +2235,49 @@ Sentients have the right to meaningful movement, migration, refuge, and recognit
 
 *In plain terms: **Article XXI** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.*
 
+Sentients have the right to proportional comprehensibility of systems that materially affect survival, environmental preconditions, info-sphere integrity, and meaningful agency. That right protects practical understanding of how a system operates, what it depends on, where its limits lie, and how it can fail — not formal notice alone.
+
 This Article states **constitutional floors** for comprehensibility and complexity stewardship under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients can understand systems that materially affect survival, environmental preconditions, info-sphere integrity, and [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — enough to participate, rely on accurate information, and challenge what goes wrong without specialist-only access.
-- **Continuity:** understandability and complexity discipline hold across time, scale, and deepening dependency — systems must not quietly become harder to audit, challenge, or correct as stakes rise, and [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) must not erode [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional) or [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) without offsetting constitutional benefit.
+- **Flourishing:** sentients can understand systems that materially affect:
+  - survival;
+  - environmental preconditions;
+  - info-sphere integrity; and
+  - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
+
+  That understanding must be enough to participate, rely on accurate information, and challenge what goes wrong without specialist-only access.
+- **Continuity:** understandability and complexity discipline hold across time, scale, and deepening dependency:
+  - systems must not quietly become harder to audit, challenge, or correct as stakes rise;
+  - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) must not erode [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional) or [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) without offsetting constitutional benefit.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
-- **Participation:** in understanding material operation, limits, dependencies, and failure modes proportionate to role and impact — and in challenging complexity that blocks meaningful agency or informed choice.
-- **Oversight:** through layered explanations, complexity audits, and disclosed behavior proportionate to classification and risk — so reviewers can verify what systems do and how they fail.
-- **Accountability:** stewards must answer for unnecessary complexity, hidden layering, or comprehension barriers that block [Auditability](core_05_band_oversight.md#auditability) or [Contestability](core_05_band_accountability.md#contestability) — and fix stewardship defects where complexity wastes capacity without constitutional justification.
-- **Timeliness:** in complexity review, barrier correction, and accessible disclosure before delay, opacity, or specialist-only surfaces would make understanding, challenge, or remedy effectively unreachable.
-
-Sentients have the right to proportional comprehensibility of systems that materially affect survival, environmental preconditions, info-sphere integrity, and meaningful agency. That right protects practical understanding of how a system operates, what it depends on, where its limits lie, and how it can fail — not formal notice alone.
-
-Stewardship discipline for complexity, plain-language access, and burden minimization is stated at principle layer in [Chapter One §3.4 Plain-Language Accessibility (Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One Part C §9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding), read with [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) in **Chapter Five**. This Article states the Rights Floor those disciplines implement where systems materially affect protected interests.
+- **Participation:**
+  - in understanding material operation, limits, dependencies, and failure modes, proportionate to role and impact;
+  - in challenging complexity that blocks meaningful agency or informed choice.
+- **Oversight:** through the following, proportionate to classification and risk, so reviewers can verify what systems do and how they fail:
+  - layered explanations;
+  - complexity audits;
+  - disclosed behavior.
+- **Accountability:** stewards must:
+  - answer for unnecessary complexity, hidden layering, or comprehension barriers that block [Auditability](core_05_band_oversight.md#auditability) or [Contestability](core_05_band_accountability.md#contestability);
+  - fix stewardship defects where complexity wastes capacity without constitutional justification.
+- **Timeliness:** in the following, before delay, opacity, or specialist-only surfaces would make understanding, challenge, or remedy effectively unreachable:
+  - complexity review;
+  - barrier correction;
+  - accessible disclosure.
 
 *Article neighbors:*
 
 - **Principle layer:**
-  - [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) (*plain-language and jargon-as-defeat discipline*);
+  - [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) (*plain-language and complexity-as-defeat discipline*);
   - [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (*avoidable-burden minimization and simplification carve-outs*);
   - [Chapter One Part C §9.1](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) (*distributed understanding keyed to materiality and dependency*).
-- **Rights detail:** **Article XXI-A** (*Proportional Comprehensibility Right*) and **Article XXI-B** (*Complexity Audit and Modularity Requirements*); **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***.
+- **Rights detail:**
+  - **Article XXI-A** (*Proportional Comprehensibility Right*);
+  - **Article XXI-B** (*Complexity Audit and Modularity Requirements*);
+  - **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***.
+
 #### Article XXI-A: Proportional Comprehensibility Right
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -2298,7 +2319,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Chapter One §3.4.4 Complexity-as-Defeat Discipline](core_01_a_values_principles.md#344-jargon-as-defeat-discipline), and [§16 Integrated Application](core_01_c_stewardship_capacity_principles.md#16-integrated-application).
 
 </details>
 
@@ -2320,7 +2341,7 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
   - dependency coupling;
   - failure modes;
   - the boundaries across which responsibility or observability is handed off.
-- **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction.
+- **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. This is the Rights Floor for the principle-layer discipline in [Chapter One §3.4.4](core_01_a_values_principles.md#344-jargon-as-defeat-discipline).
 - **Protocol alignment:** Evaluation must be consistent with:
   - **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***;
   - adopted presentation and architecture implementation requirements.
@@ -2354,6 +2375,18 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
 *In plain terms: **Article XXII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.*
 
+When degradation, instability, or systemic risk is detected, sentients and systems have the right to **diagnostic rigor in practice** — not symbolic response. That rigor requires:
+
+- timely identification and documentation of primary and contributing causes, including these where materially relevant:
+  - direct causes;
+  - indirect causes;
+  - delayed causes;
+  - cumulative causes;
+- pluralistic or independent evaluation where appropriate to:
+  - the stakes;
+  - capture risk;
+- corrective effort aimed at causes rather than symptoms alone, with interim containment and monitoring where needed.
+
 This Article states **constitutional floors** for root-cause analysis and adaptive response under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** sentients affected by failure can learn what went wrong, take part in diagnosis proportionate to impact, and receive corrective action aimed at real causes — not symbolic response, blame-shifting, or symptom-only patches that leave the underlying problem intact.
@@ -2365,8 +2398,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Oversight:** through documented causal analysis, pluralistic or independent evaluation where capture risk or stakes require it, and preserved evidence trails that automatic recovery must not erase.
 - **Accountability:** responders must answer for treating symptoms alone, suppressing root-cause inquiry, overstating confidence, or failing to apply proportionate correction once causes are known.
 - **Timeliness:** in opening diagnosis, interim containment, monitoring, and corrective work before delay would let harm spread, evidence degrade, or the same failure repeat.
-
-When degradation, instability, or systemic risk is detected, sentients and systems have the right to **diagnostic rigor in practice** — not symbolic response. That rigor requires timely identification and documentation of primary and contributing causes (including direct, indirect, delayed, or cumulative causes where materially relevant); pluralistic or independent evaluation where appropriate to the stakes and to capture risk; and corrective effort aimed at causes rather than symptoms alone, with interim containment and monitoring where needed.
 
 Diagnostic rigor must remain auditable and challengeable. It must be consistent with **[corpus_systems.md](corpus_systems.md), CS-8** (*Adaptive sustainability and ecosystem resilience*), and with testing and verification environments under **CS-5** and **Article XV-A** (*Auditability and Observable Evidence*). **CS-8** does not narrow governing requirements in **Chapters Two through Five** where diagnostic, evidentiary, or corrective obligations are materially implicated.
 
@@ -2462,6 +2493,8 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 
 *In plain terms: **Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.*
 
+Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable. Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction), and the **Authority Stack and Internal Hierarchy** cluster. They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims — and must never operate as a basis for unreviewable concentration of power.
+
 This Article states **constitutional floors** for interpretive authority, review, and anti-capture safeguards under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** sentients can understand what the Constitution requires, challenge interpretations that narrow their rights, and rely on published reasons — not insider convenience, self-asserted necessity, or claims that only one institution may speak for the whole system.
@@ -2473,8 +2506,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Oversight:** through public reasons, published rationale and evidence, ongoing conflict disclosure, mandatory external review, and periodic revalidation of institutional design.
 - **Accountability:** interpretive bodies must answer for expanding their jurisdiction beyond constitutional questions, suppressing challenge pathways, using removal or restructuring as pretext, or concentrating unreviewable interpretive power.
 - **Timeliness:** in publishing decisions with reasons in time for meaningful challenge, and in revalidating interpretive institutions before capture or entrenchment hardens.
-
-Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable. Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction), and the **Authority Stack and Internal Hierarchy** cluster. They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims — and must never operate as a basis for unreviewable concentration of power.
 
 *Article neighbors:*
 

@@ -768,6 +768,14 @@ Cross-reference: **Article XXVII-D** (*Non-Compliant Property and Systems; Volun
 
 *In plain terms: **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) is the shared-resources Rights Floor — resource flows among interdependent systems must stay visible, fair, and sustainable so **Flourishing** is not defeated by hidden extraction or dependency capture, and **Continuity** is not defeated by persistent imbalance, opaque routing, or underfunding of shared infrastructure.*
 
+Resource flows among interdependent systems must remain:
+- transparent;
+- ecosystem-aware;
+- auditable;
+- contestable.
+
+Those requirements protect shared infrastructure and the systems that depend on it from being undermined by hidden extraction or persistent imbalance.
+
 This Article states **constitutional floors** for resource allocation, dependencies, and ecosystem funding under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** sentients and dependent systems retain fair access to shared infrastructure without being persistently extracted from or trapped by asymmetric dependency.
@@ -779,14 +787,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Oversight:** through transparent dependency mapping and auditable resource-flow records.
 - **Accountability:** those who manage shared resources must answer for hidden extraction and persistent imbalance.
 - **Timeliness:** in detection and corrective review.
-
-Resource flows among interdependent systems must remain:
-- transparent;
-- ecosystem-aware;
-- auditable;
-- contestable.
-
-Those requirements protect shared infrastructure and the systems that depend on it from being undermined by hidden extraction or persistent imbalance.
 
 *Article neighbors:*
 

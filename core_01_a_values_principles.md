@@ -520,6 +520,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (meaningful agency through comprehensible **Truth** engagement); **Continuity** aim (durable institutional legibility over time).
 - Upstream: Principles: [§3.2 Truth](#32-truth-epistemic-integrity-constraint), [3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support), [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: Rights surface: [Article V-G: Accessibility](core_06_rights_part_b.md#article-v-g-accessibility), [Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education), [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), [Article XXI: Comprehensibility and Complexity Stewardship](core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship).
+- Cross-reference: layering used to evade oversight is also reached by [Chapter Ten §9.4 Anti-evasion and look-through authority](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority), which applies to standing and forum enforcement.
 - Cross-reference: Chapter Two through Four definition mechanics and plain-language guardrails in [core_02_definition_structure.md](core_02_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-eleven-floor-boundary).
 
@@ -539,7 +540,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 
 <br>
 
-*In plain terms: rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, or audit.*
+*In plain terms: rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, audit, or correction.*
 
 A **plain-language accessibility duty** applies to constitutional, governance, adjudicative, and operational text that binds sentients. The same duty applies when sentients must engage that text to exercise rights, participate in governance, contest decisions, or verify compliance. This is a [Participation](core_05_apex_participation_leg.md#participation-constitutional) requirement: sentients who cannot understand the rules that bind them cannot meaningfully participate in the systems those rules govern.
 
@@ -577,9 +578,11 @@ Plain-language work is **not** a license to soften definitional rigor. These rem
 Writing something in simpler language does not change what it means. If a plain-language summary and the formal definition it summarizes appear to say different things, the formal definition controls — and the summary must be corrected to match.
 
 <a id="344-jargon-as-defeat-discipline"></a>
-##### 3.4.4 Jargon-as-Defeat Discipline
+##### 3.4.4 Complexity-as-Defeat Discipline
 
 Systems may not use complex language, opaque procedures, or deliberate obscurity to prevent sentients from [contesting](core_05_band_accountability.md#contestability) decisions, exercising [meaningful agency](core_05_band_participation.md#meaningful-agency), accessing [audits](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification), or exercising their [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) rights.
+
+The same holds for structure, not only language. Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction. Components, handoffs between organizations, agreements, or procedural steps may not be stacked so that no one can see through them, or so that responsibility, observability, or the path to a remedy is lost between the layers.
 
 The reverse is equally prohibited: plain-language framing that misrepresents what a rule actually does, hides its real effect, or substitutes a summary for the operative text is a [Truth](core_05_band_oversight.md#truth-constitutional-constraint) violation.
 
