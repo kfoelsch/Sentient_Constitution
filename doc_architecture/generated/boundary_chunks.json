@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 879,
+  "chunk_count": 880,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -5500,140 +5500,147 @@
       "heading": "Article XIX: Interoperability, Portability, and Exit Integrity",
       "anchor": "#article-xix-interoperability-portability-and-exit-integrity",
       "line_start": 1799,
-      "line_end": 1845
+      "line_end": 1854
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XIX-A: Portability Rights",
       "anchor": "#article-xix-a-portability-rights",
-      "line_start": 1846,
-      "line_end": 1873
+      "line_start": 1855,
+      "line_end": 1883
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XIX-B: Reciprocal Interoperability Boundaries",
       "anchor": "#article-xix-b-reciprocal-interoperability-boundaries",
-      "line_start": 1874,
-      "line_end": 1897
+      "line_start": 1884,
+      "line_end": 1908
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XIX-C: Anti-Lock-In Rule",
       "anchor": "#article-xix-c-anti-lock-in-rule",
-      "line_start": 1898,
-      "line_end": 1928
+      "line_start": 1909,
+      "line_end": 1938
+    },
+    {
+      "file": "core_06_rights_part_c.md",
+      "heading": "Article XIX-D: Open Formats and Standards",
+      "anchor": "#article-xix-d-open-formats-and-standards",
+      "line_start": 1939,
+      "line_end": 1990
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XX: Movement, Migration, Refuge, and Non-Statelessness",
       "anchor": "#article-xx-movement-migration-refuge-and-non-statelessness",
-      "line_start": 1929,
-      "line_end": 1984
+      "line_start": 1991,
+      "line_end": 2046
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XX-A: Movement and Relocation",
       "anchor": "#article-xx-a-movement-and-relocation",
-      "line_start": 1985,
-      "line_end": 2016
+      "line_start": 2047,
+      "line_end": 2078
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XX-B: Refuge from Non-Compliance",
       "anchor": "#article-xx-b-refuge-from-non-compliance",
-      "line_start": 2017,
-      "line_end": 2051
+      "line_start": 2079,
+      "line_end": 2113
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XX-C: Non-Statelessness",
       "anchor": "#article-xx-c-non-statelessness",
-      "line_start": 2052,
-      "line_end": 2085
+      "line_start": 2114,
+      "line_end": 2147
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XX-D: Limitation, Custody, and Emergency Discipline",
       "anchor": "#article-xx-d-limitation-custody-and-emergency-discipline",
-      "line_start": 2086,
-      "line_end": 2129
+      "line_start": 2148,
+      "line_end": 2191
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXI: Comprehensibility and Complexity Stewardship",
       "anchor": "#article-xxi-comprehensibility-and-complexity-stewardship",
-      "line_start": 2130,
-      "line_end": 2181
+      "line_start": 2192,
+      "line_end": 2243
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXI-A: Proportional Comprehensibility Right",
       "anchor": "#article-xxi-a-proportional-comprehensibility-right",
-      "line_start": 2182,
-      "line_end": 2218
+      "line_start": 2244,
+      "line_end": 2280
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXI-B: Complexity Audit and Modularity Requirements",
       "anchor": "#article-xxi-b-complexity-audit-and-modularity-requirements",
-      "line_start": 2219,
-      "line_end": 2253
+      "line_start": 2281,
+      "line_end": 2315
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXII: Root Cause Analysis and Adaptive Response",
       "anchor": "#article-xxii-root-cause-analysis-and-adaptive-response",
-      "line_start": 2254,
-      "line_end": 2299
+      "line_start": 2316,
+      "line_end": 2361
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
       "anchor": "#article-xxii-a-diagnostic-rigor-and-causal-attribution",
-      "line_start": 2300,
-      "line_end": 2329
+      "line_start": 2362,
+      "line_end": 2391
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
       "anchor": "#article-xxii-b-auditability-challenge-and-reversibility-preference",
-      "line_start": 2330,
-      "line_end": 2360
+      "line_start": 2392,
+      "line_end": 2422
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
       "anchor": "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
-      "line_start": 2361,
-      "line_end": 2406
+      "line_start": 2423,
+      "line_end": 2468
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXIII-A: Bounded Interpretive Mandate",
       "anchor": "#article-xxiii-a-bounded-interpretive-mandate",
-      "line_start": 2407,
-      "line_end": 2440
+      "line_start": 2469,
+      "line_end": 2502
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
       "anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls",
-      "line_start": 2441,
-      "line_end": 2473
+      "line_start": 2503,
+      "line_end": 2535
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
       "anchor": "#article-xxiii-c-public-reasons-challenge-rights-and-external-review",
-      "line_start": 2474,
-      "line_end": 2514
+      "line_start": 2536,
+      "line_end": 2576
     },
     {
       "file": "core_06_rights_part_c.md",
       "heading": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
       "anchor": "#article-xxiii-d-removal-for-cause-and-non-entrenchment",
-      "line_start": 2515,
-      "line_end": 2553
+      "line_start": 2577,
+      "line_end": 2615
     },
     {
       "file": "core_06_rights_part_d.md",

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-09-29T03:40:58+00:00",
+  "generated_at": "2026-09-29T13:33:28+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 469,
@@ -5455,13 +5455,13 @@
       ]
     },
     "core_06_rights_part_c.md": {
-      "total_lines": 2553,
+      "total_lines": 2615,
       "sections": [
         {
           "header": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
           "level": 1,
           "line_start": 1,
-          "line_end": 2553,
+          "line_end": 2615,
           "anchor": null
         },
         {
@@ -5741,140 +5741,147 @@
           "header": "Article XIX: Interoperability, Portability, and Exit Integrity",
           "level": 3,
           "line_start": 1799,
-          "line_end": 1928,
+          "line_end": 1990,
           "anchor": "#article-xix-interoperability-portability-and-exit-integrity"
         },
         {
           "header": "Article XIX-A: Portability Rights",
           "level": 4,
-          "line_start": 1846,
-          "line_end": 1873,
+          "line_start": 1855,
+          "line_end": 1883,
           "anchor": null
         },
         {
           "header": "Article XIX-B: Reciprocal Interoperability Boundaries",
           "level": 4,
-          "line_start": 1874,
-          "line_end": 1897,
+          "line_start": 1884,
+          "line_end": 1908,
           "anchor": null
         },
         {
           "header": "Article XIX-C: Anti-Lock-In Rule",
           "level": 4,
-          "line_start": 1898,
-          "line_end": 1928,
+          "line_start": 1909,
+          "line_end": 1938,
+          "anchor": null
+        },
+        {
+          "header": "Article XIX-D: Open Formats and Standards",
+          "level": 4,
+          "line_start": 1939,
+          "line_end": 1990,
           "anchor": null
         },
         {
           "header": "Article XX: Movement, Migration, Refuge, and Non-Statelessness",
           "level": 3,
-          "line_start": 1929,
-          "line_end": 2129,
+          "line_start": 1991,
+          "line_end": 2191,
           "anchor": "#article-xx-movement-migration-refuge-and-non-statelessness"
         },
         {
           "header": "Article XX-A: Movement and Relocation",
           "level": 4,
-          "line_start": 1985,
-          "line_end": 2016,
+          "line_start": 2047,
+          "line_end": 2078,
           "anchor": null
         },
         {
           "header": "Article XX-B: Refuge from Non-Compliance",
           "level": 4,
-          "line_start": 2017,
-          "line_end": 2051,
+          "line_start": 2079,
+          "line_end": 2113,
           "anchor": null
         },
         {
           "header": "Article XX-C: Non-Statelessness",
           "level": 4,
-          "line_start": 2052,
-          "line_end": 2085,
+          "line_start": 2114,
+          "line_end": 2147,
           "anchor": null
         },
         {
           "header": "Article XX-D: Limitation, Custody, and Emergency Discipline",
           "level": 4,
-          "line_start": 2086,
-          "line_end": 2129,
+          "line_start": 2148,
+          "line_end": 2191,
           "anchor": null
         },
         {
           "header": "Article XXI: Comprehensibility and Complexity Stewardship",
           "level": 3,
-          "line_start": 2130,
-          "line_end": 2253,
+          "line_start": 2192,
+          "line_end": 2315,
           "anchor": null
         },
         {
           "header": "Article XXI-A: Proportional Comprehensibility Right",
           "level": 4,
-          "line_start": 2182,
-          "line_end": 2218,
+          "line_start": 2244,
+          "line_end": 2280,
           "anchor": null
         },
         {
           "header": "Article XXI-B: Complexity Audit and Modularity Requirements",
           "level": 4,
-          "line_start": 2219,
-          "line_end": 2253,
+          "line_start": 2281,
+          "line_end": 2315,
           "anchor": "#operative-steward-statement-comprehensibility"
         },
         {
           "header": "Article XXII: Root Cause Analysis and Adaptive Response",
           "level": 3,
-          "line_start": 2254,
-          "line_end": 2360,
+          "line_start": 2316,
+          "line_end": 2422,
           "anchor": "#article-xxii-root-cause-analysis-and-adaptive-response"
         },
         {
           "header": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
           "level": 4,
-          "line_start": 2300,
-          "line_end": 2329,
+          "line_start": 2362,
+          "line_end": 2391,
           "anchor": null
         },
         {
           "header": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
           "level": 4,
-          "line_start": 2330,
-          "line_end": 2360,
+          "line_start": 2392,
+          "line_end": 2422,
           "anchor": null
         },
         {
           "header": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "level": 3,
-          "line_start": 2361,
-          "line_end": 2553,
+          "line_start": 2423,
+          "line_end": 2615,
           "anchor": "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
         },
         {
           "header": "Article XXIII-A: Bounded Interpretive Mandate",
           "level": 4,
-          "line_start": 2407,
-          "line_end": 2440,
+          "line_start": 2469,
+          "line_end": 2502,
           "anchor": null
         },
         {
           "header": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
           "level": 4,
-          "line_start": 2441,
-          "line_end": 2473,
+          "line_start": 2503,
+          "line_end": 2535,
           "anchor": "#article-xxiii-b-composition-rotation-and-conflict-controls"
         },
         {
           "header": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
           "level": 4,
-          "line_start": 2474,
-          "line_end": 2514,
+          "line_start": 2536,
+          "line_end": 2576,
           "anchor": null
         },
         {
           "header": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
           "level": 4,
-          "line_start": 2515,
-          "line_end": 2553,
+          "line_start": 2577,
+          "line_end": 2615,
           "anchor": null
         }
       ]
@@ -6935,13 +6942,13 @@
       ]
     },
     "corpus_joint_structure/cjs_03c_continuity_operations.md": {
-      "total_lines": 1427,
+      "total_lines": 1444,
       "sections": [
         {
           "header": "Continuity aim operations (CJS-3.16–CJS-3.21) / oDef.16–oDef.21",
           "level": 1,
           "line_start": 1,
-          "line_end": 1427,
+          "line_end": 1444,
           "anchor": null
         },
         {
@@ -6955,35 +6962,35 @@
           "header": "CJS-3.17 Continuity: interoperability, portability, and exit-integrity terms",
           "level": 2,
           "line_start": 250,
-          "line_end": 580,
+          "line_end": 597,
           "anchor": "#substitutability-exit-constraints-and-mitigation-duties-c"
         },
         {
           "header": "CJS-3.18 Continuity: data-retention and lifecycle-integrity terms",
           "level": 2,
-          "line_start": 581,
-          "line_end": 807,
+          "line_start": 598,
+          "line_end": 824,
           "anchor": "#right-to-exit-pathway-integrity-c"
         },
         {
           "header": "CJS-3.19 Continuity: graceful degradation and failure-mode integrity terms",
           "level": 2,
-          "line_start": 808,
-          "line_end": 1033,
+          "line_start": 825,
+          "line_end": 1050,
           "anchor": "#transparency-disclosures-and-stakeholder-legibility-c"
         },
         {
           "header": "CJS-3.20 Continuity: reversibility and containment terms",
           "level": 2,
-          "line_start": 1034,
-          "line_end": 1159,
+          "line_start": 1051,
+          "line_end": 1176,
           "anchor": "#signaling-integrity-and-anti-silent-failure-controls-c"
         },
         {
           "header": "CJS-3.21 Continuity: adversarial robustness and abuse-resistance terms",
           "level": 2,
-          "line_start": 1160,
-          "line_end": 1427,
+          "line_start": 1177,
+          "line_end": 1444,
           "anchor": "#rollback-and-containment-capability-c"
         }
       ]
@@ -7375,13 +7382,13 @@
       ]
     },
     "corpus_systems/cs_02_a_information_types_and_handling.md": {
-      "total_lines": 617,
+      "total_lines": 621,
       "sections": [
         {
           "header": "CS-2, Part A: Information types and handling",
           "level": 1,
           "line_start": 2,
-          "line_end": 617,
+          "line_end": 621,
           "anchor": "#cs-2-part-a-information-types-and-handling"
         },
         {
@@ -7416,146 +7423,216 @@
           "header": "CS-2.5 Cross-domain governance principles",
           "level": 2,
           "line_start": 141,
-          "line_end": 356,
+          "line_end": 360,
           "anchor": "#cs-2-5-cross-domain-governance-principles"
         },
         {
           "header": "CS-2.6 Data separation and attribution",
           "level": 2,
-          "line_start": 357,
-          "line_end": 459,
+          "line_start": 361,
+          "line_end": 463,
           "anchor": "#cs-2-6-data-separation-and-attribution"
         },
         {
           "header": "CS-2.7 Type O baseline for Class A/B/C systems",
           "level": 2,
-          "line_start": 460,
-          "line_end": 490,
+          "line_start": 464,
+          "line_end": 494,
           "anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems"
         },
         {
           "header": "CS-2.8 System Data Types Record governance",
           "level": 2,
-          "line_start": 491,
-          "line_end": 617,
+          "line_start": 495,
+          "line_end": 621,
           "anchor": "#cs-2-8-system-data-types-record-governance"
         }
       ]
     },
     "corpus_systems/cs_02_b_data_classifications.md": {
-      "total_lines": 469,
+      "total_lines": 687,
       "sections": [
         {
           "header": "CS-2, Part B: Data classifications",
           "level": 1,
           "line_start": 2,
-          "line_end": 469,
+          "line_end": 687,
           "anchor": "#cs-2-part-b-data-classifications"
         },
         {
           "header": "CS-2.8 Data classifications",
           "level": 2,
           "line_start": 19,
-          "line_end": 469,
+          "line_end": 687,
           "anchor": "#cs-2-8-data-classifications"
         },
         {
           "header": "8.1 Type E: Environmental, emergency, and survival-coordination data",
           "level": 3,
-          "line_start": 43,
-          "line_end": 94,
+          "line_start": 49,
+          "line_end": 100,
           "anchor": "#81-type-e-environmental-emergency-and-survival-coordination-data"
         },
         {
           "header": "8.1.1 Type E access and handling duties",
           "level": 4,
-          "line_start": 65,
-          "line_end": 94,
+          "line_start": 71,
+          "line_end": 100,
           "anchor": null
         },
         {
           "header": "8.2 Type G: Governance and operational source data",
           "level": 3,
-          "line_start": 95,
-          "line_end": 150,
+          "line_start": 101,
+          "line_end": 156,
           "anchor": "#82-type-g-governance-and-operational-source-data"
         },
         {
           "header": "8.2.1 Type G access and handling duties",
           "level": 4,
-          "line_start": 117,
-          "line_end": 150,
+          "line_start": 123,
+          "line_end": 156,
           "anchor": "#821-type-g-access-and-handling-duties"
         },
         {
           "header": "8.3 Type O: Open public oversight baseline disclosure data",
           "level": 3,
-          "line_start": 151,
-          "line_end": 223,
+          "line_start": 157,
+          "line_end": 229,
           "anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data"
         },
         {
           "header": "8.3.1 Type O access and handling duties",
           "level": 4,
-          "line_start": 192,
-          "line_end": 223,
+          "line_start": 198,
+          "line_end": 229,
           "anchor": null
         },
         {
           "header": "8.4 Type H: Historical, relational, transactional, and participation data",
           "level": 3,
-          "line_start": 224,
-          "line_end": 281,
+          "line_start": 230,
+          "line_end": 289,
           "anchor": "#84-type-h-historical-relational-transactional-and-participation-data"
         },
         {
           "header": "8.4.1 Type H access and handling duties",
           "level": 4,
-          "line_start": 244,
-          "line_end": 281,
+          "line_start": 252,
+          "line_end": 289,
           "anchor": null
         },
         {
           "header": "8.5 Type I: Identity and attribution data",
           "level": 3,
-          "line_start": 282,
-          "line_end": 331,
+          "line_start": 290,
+          "line_end": 339,
           "anchor": "#85-type-i-identity-and-attribution-data"
         },
         {
           "header": "8.5.1 Type I access and handling duties",
           "level": 4,
-          "line_start": 307,
-          "line_end": 331,
+          "line_start": 315,
+          "line_end": 339,
           "anchor": null
         },
         {
           "header": "8.6 Type N: Neurocognitive and internal data",
           "level": 3,
-          "line_start": 332,
-          "line_end": 388,
+          "line_start": 340,
+          "line_end": 396,
           "anchor": "#86-type-n-neurocognitive-and-internal-data"
         },
         {
           "header": "8.6.1 Type N access and handling duties",
           "level": 4,
-          "line_start": 348,
-          "line_end": 388,
+          "line_start": 356,
+          "line_end": 396,
           "anchor": null
         },
         {
           "header": "8.7 Type S: Safety, security, and restricted investigation data",
           "level": 3,
-          "line_start": 389,
-          "line_end": 469,
+          "line_start": 397,
+          "line_end": 473,
           "anchor": "#87-type-s-safety-security-and-restricted-investigation-data"
         },
         {
           "header": "8.7.1 Type S access and handling duties",
           "level": 4,
-          "line_start": 426,
-          "line_end": 469,
+          "line_start": 434,
+          "line_end": 473,
           "anchor": null
+        },
+        {
+          "header": "8.8 Type Y: Yours",
+          "level": 3,
+          "line_start": 474,
+          "line_end": 543,
+          "anchor": "#88-type-y-yours"
+        },
+        {
+          "header": "8.8.1 Type Y access and handling duties",
+          "level": 4,
+          "line_start": 506,
+          "line_end": 543,
+          "anchor": "#881-type-y-access-and-handling-duties"
+        },
+        {
+          "header": "8.9 Type W: Works, published",
+          "level": 3,
+          "line_start": 544,
+          "line_end": 605,
+          "anchor": "#89-type-w-works-published"
+        },
+        {
+          "header": "8.9.1 Type W access and handling duties",
+          "level": 4,
+          "line_start": 566,
+          "line_end": 605,
+          "anchor": "#891-type-w-access-and-handling-duties"
+        },
+        {
+          "header": "8.10 Shared works",
+          "level": 3,
+          "line_start": 606,
+          "line_end": 687,
+          "anchor": "#810-shared-works"
+        },
+        {
+          "header": "8.10.1 Kinds of shared work",
+          "level": 4,
+          "line_start": 620,
+          "line_end": 639,
+          "anchor": "#8101-kinds-of-shared-work"
+        },
+        {
+          "header": "8.10.2 Publication choices for blended works",
+          "level": 4,
+          "line_start": 640,
+          "line_end": 648,
+          "anchor": "#8102-publication-choices-for-blended-works"
+        },
+        {
+          "header": "8.10.3 Permanent contributions to collective projects",
+          "level": 4,
+          "line_start": 649,
+          "line_end": 662,
+          "anchor": "#8103-permanent-contributions-to-collective-projects"
+        },
+        {
+          "header": "8.10.4 Copies held by recipients",
+          "level": 4,
+          "line_start": 663,
+          "line_end": 675,
+          "anchor": "#8104-copies-held-by-recipients"
+        },
+        {
+          "header": "8.10.5 Unreachable and deceased contributors, and disputes",
+          "level": 4,
+          "line_start": 676,
+          "line_end": 687,
+          "anchor": "#8105-unreachable-and-deceased-contributors-and-disputes"
         }
       ]
     },

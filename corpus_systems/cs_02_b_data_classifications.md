@@ -6,14 +6,14 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-2 parts.
 >
-> This file contains **CS-2, Part B** — data classifications (**Type E** through **Type S**, including **Type O**) as **§8**. Purpose and scope (including identity self-ownership and continuity-critical export), classification determination, anti-circumvention, cross-domain principles, and data separation / attribution (**§§1–7**) are in [`cs_02_a_information_types_and_handling.md`](cs_02_a_information_types_and_handling.md).
+> This file contains **CS-2, Part B** — data classifications (**Type E** through **Type W**, including **Type O**) as **§8**. Purpose and scope (including identity self-ownership and continuity-critical export), classification determination, anti-circumvention, cross-domain principles, and data separation / attribution (**§§1–7**) are in [`cs_02_a_information_types_and_handling.md`](cs_02_a_information_types_and_handling.md).
 
 </details>
 
 <br>
 
-**CS-2, Part B**, owns **data classifications** (**Type E** through **Type S**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
-*In plain terms: Part B names each data type and groups them by how they are usually shared — open, audit-only, restricted, or off-limits — then states each type’s content rules.*
+**CS-2, Part B**, owns **data classifications** (**Type E** through **Type W**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
+*In plain terms: Part B names each data type and groups them by how they are usually shared — open, audit-only, restricted, off-limits, or public by the creator's choice — then states each type’s content rules. Things sentients make themselves are Type Y while private or shared, and Type W once the creator makes them public.*
 
 <a id="cs-2-8-data-classifications"></a>
 ## CS-2.8 Data classifications
@@ -35,6 +35,12 @@ These type letters name different kinds of data and how they are usually shared 
 - **Type H** — Historical, relational, transactional, and participation data: logs of interactions, exchanges, and activity patterns; restricted by default.
 - **Type I** — Identity and attribution data: who is who and who did what, for verification and accountability without unnecessary tracking; restricted by default.
 - **Type S** — Safety, security, and restricted investigation data: temporary exploit-, investigation-, or compromise-sensitive material; restricted by default, time-bound, and review-bound.
+- **Type Y** — Yours: writing, media, code, designs, and other works a sentient creates or provides, while private or shared; restricted by default, with release, reuse, and retention under the creator's direction.
+
+**Public by creator release** — open to all by the creator's choice, and withdrawable by the creator:
+- **Type W** — Works, published: Type Y works the creator has released publicly; openly accessible while the creator keeps them public, still under the creator's control, and deleted on the creator's request.
+
+**Shared works** made of more than one contributor's **Type Y** or **Type W** data are governed by [§8.10](#810-shared-works).
 
 **Non-accessible by default** — consent or justified override only ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)):
 - **Type N** — Neurocognitive and internal data: thoughts, feelings, and other inner states, including reconstructions or inferences of them; non-accessible by default.
@@ -236,6 +242,8 @@ Baseline visibility into purpose, operational status, material risk, performance
 - **dependency and interoperability** events
 - **operational logs** connected to sentient or system activity
 - **resource usage** records not already classified as Type I or Type H
+
+**Boundary with Type Y and Type W:** The content of a work a sentient creates or provides is **Type Y**, or **Type W** once the creator makes it public. Records about that work — when it was created, uploaded, accessed, or shared, and with whom — remain **Type H**.
 
 **Disclosure posture:** **Restricted by default** under the **restricted by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)).
 - Access is allowed to the extent necessary for **system operation**, **accountability**, **dispute resolution**, **audit**, and **user visibility** into their own activity.
@@ -461,6 +469,216 @@ Shared consent-integrity and security-/intelligence-use record duties are in [Pa
 **Handling — prohibited.** Systems managing **Type S** data must **not:**
 - **aggregate or retain** restricted data beyond justified purpose
 - **collect or generate** restricted data beyond what is necessary for justified risk mitigation, investigation, or response
+
+<a id="88-type-y-yours"></a>
+### 8.8 Type Y: Yours
+
+**Accessibility posture:** Restricted by default, with **creator-directed release** ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
+
+*In plain terms: things sentients make — writing, pictures, recordings, code, designs — stay under the creator's direction. By default they are private. The creator decides who sees them, whether they are published, and how long they are kept. Systems may use them only to do what the creator asked. Once the creator makes a work public, it becomes Type W.*
+
+**Definition:** Content that a sentient creates, authors, or provides as its own expressive, intellectual, or practical work, where a system holds, processes, or transmits it. Examples include:
+- **written works and notes**, and the **content of messages and posts** the sentient authors
+- **images, audio, video, and other media** the sentient creates or captures
+- **code, designs, models, datasets, and other practical or technical works**
+- **compilations, arrangements, edits, and annotations**
+- works made with tools, including generative tools, **to the extent they carry the sentient's own creative direction or contribution**
+
+**Relationship to other types:**
+- Records **about** a work — creation, upload, access, and sharing events — are **Type H**.
+- **Authorship, ownership, and attribution** records for a work are **Type I**.
+- A work that represents or enables reconstruction of internal states — for example, a private journal — must **also** satisfy **Type N** requirements.
+- A work that identifies a sentient — for example, a recorded face or voice — must **also** satisfy **Type I** requirements and **Article VIII-A** (*Self-Ownership of Likeness and Reputation*).
+- Other sentients' data or likeness **inside** a work keeps its own type and protections.
+- Where more than one type applies, the **most-restrictive** applicable protections govern ([Part A §2](cs_02_a_information_types_and_handling.md#most-restrictive-applicable-classification-governs)).
+- Publishing a work makes it **Type W**, not **Type O**. **Type O** is reserved for [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure).
+
+**Disclosure posture:** **Restricted by default** under the **restricted by default** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)), with release set by the creator:
+- The creator may set a work's **release scope**:
+  - **private**;
+  - **shared** with named sentients, groups, or systems.
+- When the creator releases a work **publicly**, it becomes **Type W** under [§8.9](#89-type-w-works-published). If the creator withdraws public release without requesting deletion, it returns to **Type Y**.
+- Release is consent under the shared consent-integrity standard in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands): explicit, informed, specific to scope, and revocable where technically feasible.
+- The creator may elect **stronger** handling — including handling a work as **Type I** when binding it to a verified identity or authorship claim. No election may lower a work's protection below what functional typing requires under [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification).
+- Works with **more than one contributor** — threads, co-written works, compilations, and works built on other works — are governed by [§8.10](#810-shared-works).
+
+<a id="881-type-y-access-and-handling-duties"></a>
+#### 8.8.1 Type Y access and handling duties
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — restricted by default; shared consent integrity).
+- Topic routing (mandatory read-with): [Part A §1.2](cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
+- Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#cs-2-2-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
+- Read with: **Part B — Type H**; **Part B — Type I**; **Part B — Type N**; [Article VIII-A](../core_06_rights_part_b.md#article-viii-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*); [Article VIII-D](../core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XVII-E](../core_06_rights_part_c.md#article-xvii-e-creative-and-expressive-works) (*Creative and Expressive Works*); [Article XIX](../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*); **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
+
+</details>
+
+<br>
+
+*In plain terms: use a creator's work only for what they asked, keep it as long as they want, hand it back in full whenever they leave, and never treat uploading or publishing as permission to do something else with it.*
+
+**Core duty.** **Type Y** data must remain under the **creator's direction**. Systems may use it only for purposes the creator requested or consented to. Retention, release, and deletion follow the creator's direction, subject only to justified holds disclosed at commitment or, where a later hold arises, disclosed to the creator wherever that disclosure does not itself create material risk.
+
+**Access.** Systems must:
+- use **Type Y** only to deliver what the creator requested, to operate and secure the system, and to meet justified legal or safety duties
+- obtain fresh consent under the shared consent-integrity standard in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) for **any other use**, including:
+  - training-data use under **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*);
+  - analysis, profiling, or inference beyond the requested service;
+  - sale, licensing, or transfer to third parties;
+  - reuse for new purposes
+- follow the creator's direction on **retention and deletion** — **Type H** retention-minimization duties do **not** authorize deleting works the creator has chosen to keep
+- give the creator **full-fidelity access and export** — including metadata, structure, and recorded release scope — under [Part A §1.2](cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability), **Article XIX** (*Interoperability, Portability, and Exit Integrity*), and **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
+- let **recipients** keep and carry copies of works released to them, within the scope of that release and subject to [§8.10](#810-shared-works)
+- preserve creator **attribution** under **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*)
+
+**Handling — prohibited.** Systems managing **Type Y** data must **not:**
+- treat upload, storage, sharing, or publication as consent to any other use
+- **widen** a work's release scope without the creator's direction
+- use default settings, bundling, or pressure to push creators toward wider release or broader use
+- degrade a work, strip its metadata, or hold it in forms that defeat export
+- relabel a work as **Type H**, **Type O**, or any other type to escape these duties ([Part A §4](cs_02_a_information_types_and_handling.md#cs-2-4-anti-circumvention-and-integrity-of-classification))
+
+<a id="89-type-w-works-published"></a>
+### 8.9 Type W: Works, published
+
+**Accessibility posture:** Public by creator release; withdrawable by the creator ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands); [§8 overview](#cs-2-8-data-classifications)).
+
+*In plain terms: when you make something you created public, it is still yours. Anyone may see it while you keep it public, but you stay in control: you can take it down or have it deleted, and the system must do it.*
+
+**Definition:** A **Type Y** work that its creator has released publicly. **Type W** keeps every **Type Y** protection except the restriction on who may view the work.
+
+**Relationship to other types:**
+- **Type W** is **not** **Type O**. Public availability by creator choice does not make a work [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure), and **Type O** publication duties do not attach to it.
+- The **Relationship to other types** rules for **Type Y** in [§8.8](#88-type-y-yours) apply unchanged, including **Type N** and **Type I** overlap, other sentients' data inside a work, and the most-restrictive rule.
+- Other sentients' independent works that quote, cite, review, or report on a **Type W** work are **their** works, governed by their own types and by **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) and **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*).
+
+**Disclosure posture:** **Open while the creator keeps it public**, on these terms:
+- Public release is consent under the shared consent-integrity standard in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands). It is consent to **viewing**, not to any other use.
+- Before a public release, the system must disclose:
+  - how the creator can withdraw the work or request its deletion;
+  - how long deletion will take;
+  - that copies others make outside the system's control may persist.
+- The creator's withdrawal or deletion request is **not** a restriction subject to the hold-back limits in [Part A §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access).
+
+<a id="891-type-w-access-and-handling-duties"></a>
+#### 8.9.1 Type W access and handling duties
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Topic routing (mandatory read-with): [§8.8](#88-type-y-yours) (*Type Y: Yours*) and [§8.8.1](#881-type-y-access-and-handling-duties) — all Type Y duties apply except the viewing restriction.
+- Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — public by creator release; shared consent integrity).
+- Read with: [Article VIII-C](../core_06_rights_part_b.md#article-viii-c-truthful-publication-and-high-impact-publication-limits) (*Truthful Publication and High-Impact Publication Limits*); [Article VIII-D](../core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XIX](../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*); **CJS-3.18** (*data-retention and lifecycle-integrity terms*); **CJS-3.22** (*constrained-secrecy and protected-investigation terms*).
+
+</details>
+
+<br>
+
+*In plain terms: a public work is still the creator's. Showing it to the public is the only new permission. When the creator asks for deletion, the system deletes it, tells the systems it passed it to, and stops any further use.*
+
+**Core duty.** **Type W** data remains under the **creator's direction**. All **Type Y** access and handling duties in [§8.8.1](#881-type-y-access-and-handling-duties) apply, except that anyone may view the work while the creator keeps it public.
+
+**Withdrawal and deletion.** On the creator's request, systems must:
+- **withdraw** the work from public view, returning it to **Type Y**; or
+- **delete** it, including copies in the system's caches, mirrors, backups on their normal cycle, indexes, and recommendation or search surfaces
+- complete withdrawal or deletion within the period disclosed at release, and **timely** under **CJS-3.18** (*data-retention and lifecycle-integrity terms*)
+- **pass the request on** to every system that received the work from them for redistribution, and require those systems to honor it
+- **stop** any consented reuse going forward; where the work was used as training data, follow the revocation pathway required by **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*)
+- confirm to the creator when withdrawal or deletion is complete
+
+For works with more than one contributor, the takedown and deletion rules in [§8.10](#810-shared-works) apply.
+
+**Limits on deletion.** A deletion request may be delayed or narrowed **only** where:
+- a justified hold under **Type S** or **CJS-3.22** (*constrained-secrecy and protected-investigation terms*) requires keeping the work as evidence — time-bound, review-bound, and disclosed to the creator wherever that disclosure does not itself create material risk; or
+- the work has become part of a record that a Rights Floor or **Type O** duty requires to be kept — in which case the system keeps only what that duty requires, out of public view unless the duty requires publication.
+
+Records **about** the work (**Type H**) and attribution records (**Type I**) follow their own retention rules and must not be used to keep the work's content after deletion.
+
+**Handling — prohibited.** Systems managing **Type W** data must **not:**
+- treat public availability as consent to training, profiling, sale, licensing, or any other use beyond viewing
+- make withdrawal or deletion harder than publication, or bury it behind fees, delays, or repeated confirmation steps
+- keep a deleted work in hidden, archived, or "soft-deleted" form beyond the limits above
+- relabel a **Type W** work as **Type O**, **Type E**, or any other open type to defeat the creator's control
+
+<a id="810-shared-works"></a>
+### 8.10 Shared works
+
+**Applies to:** **Type Y** and **Type W** works with more than one contributor ([§8.8](#88-type-y-yours); [§8.9](#89-type-w-works-published)).
+
+*In plain terms: a shared work is a bundle of individual works, not a new owner. Each person keeps control of their own part. What happens to the whole — who can take it down, whether contributions can be withdrawn, what happens to copies people received — depends on the kind of shared work and on terms the contributors chose, clearly and in advance.*
+
+**Core rule.** Each contribution to a shared work keeps its own type and its own creator. A shared work does **not** create a new owner:
+- no contributor controls another contributor's part;
+- a system that hosts, arranges, or distributes a shared work does **not** become a contributor by doing so; and
+- shared-work status must **not** be used to defeat any contributor's access, export, withdrawal, or deletion rights ([Part A §4](cs_02_a_information_types_and_handling.md#cs-2-4-anti-circumvention-and-integrity-of-classification)).
+
+**Appearing is not contributing.** A sentient shown or described in a work, or a sentient who receives a message, is not a contributor by that fact alone. Their protections come from their own data types and from **Article VIII-A** (*Self-Ownership of Likeness and Reputation*).
+
+<a id="8101-kinds-of-shared-work"></a>
+#### 8.10.1 Kinds of shared work
+
+**Separable works** — each contribution can be identified and removed on its own; for example, a conversation, a comment thread, an anthology, or a codebase with attributed changes:
+- each contributor controls their own contribution;
+- deleting a contribution removes its content and leaves a marker that a contribution was removed by its author, so the rest of the work stays understandable; and
+- other contributions remain in place.
+
+**Blended works** — contributions cannot practically be separated; for example, a document written jointly line by line, a joint recording, or a jointly made image:
+- every contributor may keep and export a **full copy** for their own use, within the release scope already set;
+- **widening** the release scope — including public release as **Type W** — requires the direction of each contributor whose share is material, unless the contributors agreed otherwise in advance;
+- no single contributor may **destroy** the whole; and
+- a contributor who wants out may remove their attribution, block further widening, and remove their contribution where it can be removed.
+
+**Works built on other works** — a new work that incorporates, compiles, arranges, remixes, or replies to existing works:
+- the new layer — the arrangement, remix, commentary, or reply — is the work of its maker;
+- incorporated works remain their creators' works;
+- incorporating a work requires that its release scope allows it: a **Type W** work may be quoted, cited, reviewed, or reported on under **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) and **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*); a **Type Y** work requires its creator's consent; and
+- when an incorporated work is deleted, wholesale reproductions and embeds of it must be removed, while quotation, commentary, and reporting remain the maker's own work.
+
+<a id="8102-publication-choices-for-blended-works"></a>
+#### 8.10.2 Publication choices for blended works
+
+Before a blended work is released as **Type W**, its contributors must choose, and the system must record with the work, one **takedown rule**:
+- **Joint takedown** — the work stays public unless the contributors agree to take it down. Any contributor may still remove their attribution and, where possible, their contribution.
+- **Individual takedown** — any contributor may take the work down from public view, returning it to **Type Y**.
+
+The system must present both options on equal terms, without defaults, bundling, or pressure. If a blended work was published without a recorded choice, **joint takedown** applies, and any contributor may still remove their attribution and, where possible, their contribution. Deletion of a blended work in full requires the agreement of every contributor whose share is material.
+
+<a id="8103-permanent-contributions-to-collective-projects"></a>
+#### 8.10.3 Permanent contributions to collective projects
+
+A contributor may agree that a contribution to a **collective project** — for example, an open-source codebase, a shared reference work, or a public archive — stays in the project and cannot later be withdrawn or deleted. Such an agreement is valid **only** where:
+- it meets the shared consent-integrity standard in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands), except that it need not be revocable;
+- the permanence is stated clearly **before** the contribution is made, together with what it covers;
+- it is **not** a default setting; and
+- it is **not** a condition of access to any service or benefit outside the collective project itself.
+
+Even under a permanent-contribution agreement:
+- the contributor may always have their **attribution removed** or replaced by a pseudonym;
+- content that exposes other sentients' **Type I** or **Type N** data, or that creates material risk of targeted harm, may be removed under the applicable type's rules; and
+- the agreement covers only the contribution as made, not other works by the same contributor.
+
+<a id="8104-copies-held-by-recipients"></a>
+#### 8.10.4 Copies held by recipients
+
+When a contributor deletes a work or contribution that was shared with specific recipients:
+- the system must remove it from every **shared space** it controls — conversations, threads, shared folders, and feeds; and
+- by default, a recipient may keep a **private copy** they had already saved, for their own records, safety, or legal claims. They may **not** republish it or widen its release scope.
+
+Deletion may also reach recipients' saved copies held within the system's control **only** where:
+- the recipients consented in advance — for example, by joining a conversation set to delete for everyone; or
+- extenuating circumstances justify it — for example, an intimate image shared without ongoing consent, or content that creates material risk of targeted harm to the contributor — and the decision is made through documented, independent, timely review under **CJS-3.12** (*burden-of-justification and constraint terms*).
+
+Extenuating-circumstance deletion must **not** be used to destroy evidence of harm, coercion, or abuse by the contributor, including in the relationships covered by **[CI-20](../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md)**. Where evidence is at stake, the review must preserve it under restricted handling rather than delete it.
+
+<a id="8105-unreachable-and-deceased-contributors-and-disputes"></a>
+#### 8.10.5 Unreachable and deceased contributors, and disputes
+
+- Where a contributor whose direction is required cannot be reached, the work's release scope may be **narrowed** but not **widened**.
+- A deceased contributor's share is handled under **[CI-17](../corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
+- While contributors dispute a release, takedown, or deletion, the work's release scope stays as it was, except that it may be narrowed where needed to prevent material harm. Disputes must have an accessible, timely path to resolution under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
+- Every contributor keeps their **attribution** under **Article VIII-D** (*Creative Work, Training-Data Use, and Anti-Displacement*), and may ask to have it removed.
 
 ---
 

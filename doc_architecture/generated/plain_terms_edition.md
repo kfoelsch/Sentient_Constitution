@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **623** of **889** headings carry a gloss (70%).
+Coverage: **624** of **890** headings carry a gloss (70%).
 
 ## Contents
 
@@ -42,7 +42,7 @@ Coverage: **623** of **889** headings carry a gloss (70%).
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (21/24 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (59/60 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (60/61 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (18/19 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
 - [CHAPTER FOURTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-fourteen-non-regression-and-substantive-amendment-validity) — `core_14_non_regression.md` (5/5 glossed)
@@ -4512,7 +4512,7 @@ governance must actively look for — and push back against — capture, collusi
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 59/60 headings glossed
+Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 60/61 headings glossed
 
 #### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and resilience
 
@@ -4771,6 +4771,12 @@ systems that others depend on must publish their integration terms and give real
 "features" that exist mainly to make leaving difficult are violations, not business strategy.
 
 [Source](../../core_06_rights_part_c.md#article-xix-c-anti-lock-in-rule)
+
+##### Article XIX-D: Open Formats and Standards
+
+systems should use open formats and standards — ones anyone can read and build on without permission or fees — unless no open option does the job. The way out must always include an open format when one works. This binds systems, not individuals choosing formats for their own work, and open formats never mean open content.
+
+[Source](../../core_06_rights_part_c.md#article-xix-d-open-formats-and-standards)
 
 #### Article XX: Movement, Migration, Refuge, and Non-Statelessness
 

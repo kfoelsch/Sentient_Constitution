@@ -321,6 +321,23 @@ Access-preserving reward and anti-warehousing controls
 - **What must hold**
   - **Primary failure:** Warehouse, withhold, shelf, overbundle, or strategically maintain an innovation claim in a way that produces artificial scarcity, coercive lock-in, suppressed implementation, repair obstruction, migration obstruction, or public-interest access failure without proportionate justification.
 
+<a id="closed-format-justification-and-open-format-transition-controls"></a>
+Closed-format justification and open-format transition controls
+
+*In plain terms: when a system uses a closed format, interface, or protocol, it must show that no open option meets a real requirement, still offer an open way out, and review the choice over time. Systems already running have one year by default to move to open formats, apart from the way out, which applies at once.*
+
+- **What it is**
+  - **In scope:** Justification, disclosure, and transition duties for closed formats, interfaces, and protocols under [Article XIX-D](../core_06_rights_part_c.md#article-xix-d-open-formats-and-standards) (*Open Formats and Standards*). A closed choice is justified only where no open alternative meets a material requirement — such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must record the justification in auditable form, offer the best available open export and disclose what it loses, document the closed format enough to enable migration or deposit that documentation with an independent escrow, and review the choice periodically and at each materially impactful certification or revalidation. Systems already in operation when the sub-article first applies must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within one year by default. Adopters may set a different period for classes of systems with published justification, and individual extensions require documented, reviewable, time-bound justification. The exit duty is not subject to transition.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in closed-format justification and open-format transition.
+<a id="closed-format-justification-and-open-format-transition-controls-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** the recorded justification for each material closed format, interface, or protocol, the open alternatives considered, the open export offered and its disclosed losses, format documentation or escrow, review dates, and migration-plan milestones against the applicable transition period
+
+    **Primary assessment:** Evaluation must verify the recorded justification for each material closed format, interface, or protocol, the open alternatives considered, the open export offered and its disclosed losses, format documentation or escrow, review dates, and migration-plan milestones against the applicable transition period.
+<a id="closed-format-justification-and-open-format-transition-controls-c"></a>
+- **What must hold**
+  - **Primary failure:** A closed format, interface, or protocol kept without a current justification, justified only by convenience, operator cost savings, or incumbency, left without an open export where one can carry the data, or maintained past the applicable transition period without a documented, reviewed extension.
+
 <a id="collection-time-exportability-and-continuity-critical-data-integrity"></a>
 Collection-time exportability and continuity-critical data integrity
 
@@ -477,10 +494,10 @@ Innovation-reward duration and reclassification controls
 <a id="interchange-and-open-interface-baseline"></a>
 Interchange and open-interface baseline
 
-*In plain terms: material-impact or material-dependency systems should use open, documented, interoperable formats and interfaces unless a narrower choice is lawfully justified.*
+*In plain terms: material-impact or material-dependency systems should use open, documented, interoperable formats and interfaces unless a closed choice is justified under [Article XIX-D](../core_06_rights_part_c.md#article-xix-d-open-formats-and-standards) (*Open Formats and Standards*).*
 
 - **What it is**
-  - **In scope:** Material-impact or material-dependency systems should use open, documented, interoperable formats and interfaces unless a narrower choice is lawfully justified.
+  - **In scope:** Material-impact or material-dependency systems should use open, documented, interoperable formats and interfaces unless a closed choice is justified under [Article XIX-D](../core_06_rights_part_c.md#article-xix-d-open-formats-and-standards) (*Open Formats and Standards*). Integration boundaries relied on by others use open standards and protocols by default.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in interchange and open-interface baseline.
 <a id="interchange-and-open-interface-baseline-a"></a>
 - **How to measure and assess**
@@ -511,16 +528,16 @@ Lock-in and anti-coercion safeguards
 <a id="open-data-format-and-protocol-presumption"></a>
 Open data-format and protocol presumption
 
-*In plain terms: **Class A**, **Class B**, and **Class C** systems must use open, documented, stable, and standards-compatible data formats, schemas, APIs, and interchange protocols for material portability, audit, repair, continuity, and migration…*
+*In plain terms: **Class A**, **Class B**, and **Class C** systems must use open data formats, schemas, APIs, and interchange protocols — as [Article XIX-D](../core_06_rights_part_c.md#article-xix-d-open-formats-and-standards) (*Open Formats and Standards*) defines open — for material portability, audit, repair, continuity, and migration functions, unless no open alternative meets a material requirement.*
 
 - **What it is**
-  - **In scope:** **Class A**, **Class B**, and **Class C** systems must use open, documented, stable, and standards-compatible data formats, schemas, APIs, and interchange protocols for material portability, audit, repair, continuity, and migration functions unless a narrower format or interface is strictly justified.
+  - **In scope:** **Class A**, **Class B**, and **Class C** systems must use open, documented, stable, and standards-compatible data formats, schemas, APIs, and interchange protocols for material portability, audit, repair, continuity, and migration functions unless a closed format or interface is justified under [Article XIX-D](../core_06_rights_part_c.md#article-xix-d-open-formats-and-standards) (*Open Formats and Standards*). "Open" has the meaning in that sub-article: a publicly available complete specification, implementable without permission, fees, or royalties, and not changeable unilaterally by a single party unless freely forkable.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in open data-format and protocol presumption.
 <a id="open-data-format-and-protocol-presumption-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** public or qualified-access specifications, versioning discipline, migration tooling, test vectors, conformance records, and a scrutinizable justification for any closed, proprietary, unstable, or non-standard format or protocol
+  - **Primary measure:** publicly available specifications, royalty-free implementability, versioning discipline, migration tooling, test vectors, conformance records, and a scrutinizable justification for any closed, proprietary, unstable, or non-standard format or protocol
 
-    **Primary assessment:** Evaluation must verify public or qualified-access specifications, versioning discipline, migration tooling, test vectors, conformance records, and a scrutinizable justification for any closed, proprietary, unstable, or non-standard format or protocol.
+    **Primary assessment:** Evaluation must verify publicly available specifications, royalty-free implementability, versioning discipline, migration tooling, test vectors, conformance records, and a scrutinizable justification for any closed, proprietary, unstable, or non-standard format or protocol.
 <a id="open-data-format-and-protocol-presumption-c"></a>
 - **What must hold**
   - **Primary failure:** Closed, proprietary, degraded, unstable, or undocumented data formats or protocols where they materially impair exit, repair, independent verification, continuity, substitution, or cross-implementation operation, unless the restriction satisfies necessity, proportionality, least-restrictive-alternative, auditability, sunset, and revalidation requirements.

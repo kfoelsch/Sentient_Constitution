@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 889,
-  "glossed_count": 623,
+  "heading_count": 890,
+  "glossed_count": 624,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -7051,8 +7051,8 @@
     {
       "file": "core_06_rights_part_c.md",
       "title": "CHAPTER SIX: FOUNDATIONAL RIGHTS",
-      "heading_count": 60,
-      "glossed_count": 59,
+      "heading_count": 61,
+      "glossed_count": 60,
       "sections": [
         {
           "file": "core_06_rights_part_c.md",
@@ -7428,171 +7428,180 @@
           "level": 4,
           "title": "Article XIX-A: Portability Rights",
           "anchor": "article-xix-a-portability-rights",
-          "line": 1846,
+          "line": 1855,
           "gloss": "data, identity, and operational state must be practically movable — formats, delays, and retaliatory terms cannot be used to trap users.",
-          "gloss_line": 1865
+          "gloss_line": 1874
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-B: Reciprocal Interoperability Boundaries",
           "anchor": "article-xix-b-reciprocal-interoperability-boundaries",
-          "line": 1874,
+          "line": 1884,
           "gloss": "systems that others depend on must publish their integration terms and give real notice before narrowing them.",
-          "gloss_line": 1893
+          "gloss_line": 1903
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIX-C: Anti-Lock-In Rule",
           "anchor": "article-xix-c-anti-lock-in-rule",
-          "line": 1898,
+          "line": 1909,
           "gloss": "\"features\" that exist mainly to make leaving difficult are violations, not business strategy.",
-          "gloss_line": 1917
+          "gloss_line": 1928
+        },
+        {
+          "file": "core_06_rights_part_c.md",
+          "level": 4,
+          "title": "Article XIX-D: Open Formats and Standards",
+          "anchor": "article-xix-d-open-formats-and-standards",
+          "line": 1939,
+          "gloss": "systems should use open formats and standards — ones anyone can read and build on without permission or fees — unless no open option does the job. The way out must always include an open format when one works. This binds systems, not individuals choosing formats for their own work, and open formats never mean open content.",
+          "gloss_line": 1959
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XX: Movement, Migration, Refuge, and Non-Statelessness",
           "anchor": "article-xx-movement-migration-refuge-and-non-statelessness",
-          "line": 1929,
+          "line": 1991,
           "gloss": "**Article XX** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.",
-          "gloss_line": 1953
+          "gloss_line": 2015
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-A: Movement and Relocation",
           "anchor": "article-xx-a-movement-and-relocation",
-          "line": 1985,
+          "line": 2047,
           "gloss": "you may move within and between jurisdictions, and relocate when staying would materially harm your survival, dignity, basic protections, or freedom from manipulation — and for synthetic and hybrid sentients, moving can mean changing instance or hosting.",
-          "gloss_line": 2004
+          "gloss_line": 2066
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-B: Refuge from Non-Compliance",
           "anchor": "article-xx-b-refuge-from-non-compliance",
-          "line": 2017,
+          "line": 2079,
           "gloss": "if your regime materially breaks this Constitution, you may seek refuge in one that follows it, and the receiving regime must consider your claim — whatever kind of body or substrate you have. Regimes that deliberately push sentients out to overwhelm others are the violators, and a receiving adopter is not automatically forced to take everyone they push.",
-          "gloss_line": 2036
+          "gloss_line": 2098
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-C: Non-Statelessness",
           "anchor": "article-xx-c-non-statelessness",
-          "line": 2052,
+          "line": 2114,
           "gloss": "no one may end up with zero regimes that recognize their basic protections, decide their standing, and offer a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap.",
-          "gloss_line": 2071
+          "gloss_line": 2133
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XX-D: Limitation, Custody, and Emergency Discipline",
           "anchor": "article-xx-d-limitation-custody-and-emergency-discipline",
-          "line": 2086,
+          "line": 2148,
           "gloss": "limits on movement or refuge must be necessary, proportionate, individual, and as light as will work. Lawful custody is still allowed where someone is a verified danger, but it cannot leave them stateless. A standing label is not a border, emergencies must end, and paperwork designed to wear sentients down counts as a denial.",
-          "gloss_line": 2106
+          "gloss_line": 2168
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXI: Comprehensibility and Complexity Stewardship",
           "anchor": "article-xxi-comprehensibility-and-complexity-stewardship",
-          "line": 2130,
+          "line": 2192,
           "gloss": "**Article XXI** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.",
-          "gloss_line": 2157
+          "gloss_line": 2219
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-A: Proportional Comprehensibility Right",
           "anchor": "article-xxi-a-proportional-comprehensibility-right",
-          "line": 2182,
+          "line": 2244,
           "gloss": "if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.",
-          "gloss_line": 2210
+          "gloss_line": 2272
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXI-B: Complexity Audit and Modularity Requirements",
           "anchor": "article-xxi-b-complexity-audit-and-modularity-requirements",
-          "line": 2219,
+          "line": 2281,
           "gloss": "complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.",
-          "gloss_line": 2238
+          "gloss_line": 2300
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXII: Root Cause Analysis and Adaptive Response",
           "anchor": "article-xxii-root-cause-analysis-and-adaptive-response",
-          "line": 2254,
+          "line": 2316,
           "gloss": "**Article XXII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
-          "gloss_line": 2277
+          "gloss_line": 2339
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-A: Diagnostic Rigor and Causal Attribution",
           "anchor": "article-xxii-a-diagnostic-rigor-and-causal-attribution",
-          "line": 2300,
+          "line": 2362,
           "gloss": "root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.",
-          "gloss_line": 2319
+          "gloss_line": 2381
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXII-B: Auditability, Challenge, and Reversibility Preference",
           "anchor": "article-xxii-b-auditability-challenge-and-reversibility-preference",
-          "line": 2330,
+          "line": 2392,
           "gloss": "when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.",
-          "gloss_line": 2349
+          "gloss_line": 2411
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XXIII: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "anchor": "article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
-          "line": 2361,
+          "line": 2423,
           "gloss": "**Article XXIII** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
-          "gloss_line": 2385
+          "gloss_line": 2447
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-A: Bounded Interpretive Mandate",
           "anchor": "article-xxiii-a-bounded-interpretive-mandate",
-          "line": 2407,
+          "line": 2469,
           "gloss": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.",
-          "gloss_line": 2427
+          "gloss_line": 2489
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-B: Composition, Rotation, and Conflict Controls",
           "anchor": "article-xxiii-b-composition-rotation-and-conflict-controls",
-          "line": 2441,
+          "line": 2503,
           "gloss": "no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.",
-          "gloss_line": 2461
+          "gloss_line": 2523
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-C: Public Reasons, Challenge Rights, and External Review",
           "anchor": "article-xxiii-c-public-reasons-challenge-rights-and-external-review",
-          "line": 2474,
+          "line": 2536,
           "gloss": "interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.",
-          "gloss_line": 2493
+          "gloss_line": 2555
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XXIII-D: Removal for Cause and Non-Entrenchment",
           "anchor": "article-xxiii-d-removal-for-cause-and-non-entrenchment",
-          "line": 2515,
+          "line": 2577,
           "gloss": "**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use \"removal,\" \"restructuring,\" or \"redesign\" as weapons against forum independence or dissent.",
-          "gloss_line": 2534
+          "gloss_line": 2596
         }
       ]
     },

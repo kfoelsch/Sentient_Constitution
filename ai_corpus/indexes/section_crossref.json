@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-29T03:40:59+00:00",
+  "generated_at": "2026-09-29T13:33:30+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 14970,
+  "edge_count": 15012,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -16132,6 +16132,14 @@
       "source_anchor": "#93-openness-aspiration",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "9.3 Openness Aspiration",
+      "source_anchor": "#93-openness-aspiration",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xix-d-open-formats-and-standards",
       "count": 1
     },
     {
@@ -58859,6 +58867,14 @@
       "source_header": "Article XIX: Interoperability, Portability, and Exit Integrity",
       "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#93-openness-aspiration",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX: Interoperability, Portability, and Exit Integrity",
+      "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#14-market-structure",
       "count": 1
     },
@@ -58964,6 +58980,14 @@
       "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX: Interoperability, Portability, and Exit Integrity",
+      "source_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -63349,6 +63373,110 @@
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#93-openness-aspiration",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#14-market-structure",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIX-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -109394,6 +109522,14 @@
       "source_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "source_header": "CJS-3.17 Continuity: interoperability, portability, and exit-integrity terms",
       "source_anchor": "#substitutability-exit-constraints-and-mitigation-duties-c",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xix-d-open-formats-and-standards",
+      "count": 5
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
+      "source_header": "CJS-3.17 Continuity: interoperability, portability, and exit-integrity terms",
+      "source_anchor": "#substitutability-exit-constraints-and-mitigation-duties-c",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": null,
       "count": 1
@@ -114882,6 +115018,14 @@
       "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "source_header": "CS-2.5 Cross-domain governance principles",
       "source_anchor": "#cs-2-5-cross-domain-governance-principles",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xix-d-open-formats-and-standards",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.5 Cross-domain governance principles",
+      "source_anchor": "#cs-2-5-cross-domain-governance-principles",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#4-data-types-and-handling-evaluation",
       "count": 1
@@ -114916,6 +115060,14 @@
       "source_anchor": "#cs-2-5-cross-domain-governance-principles",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
       "target_anchor": "#cs-2-8-data-classifications",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.5 Cross-domain governance principles",
+      "source_anchor": "#cs-2-5-cross-domain-governance-principles",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#89-type-w-works-published",
       "count": 1
     },
     {
@@ -115184,6 +115336,54 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.10 Shared works",
+      "source_anchor": "#810-shared-works",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-2-4-anti-circumvention-and-integrity-of-classification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.10.3 Permanent contributions to collective projects",
+      "source_anchor": "#8103-permanent-contributions-to-collective-projects",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#50-access-posture-bands",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.10.4 Copies held by recipients",
+      "source_anchor": "#8104-copies-held-by-recipients",
+      "target_file": "corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.10.5 Unreachable and deceased contributors, and disputes",
+      "source_anchor": "#8105-unreachable-and-deceased-contributors-and-disputes",
+      "target_file": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.10.5 Unreachable and deceased contributors, and disputes",
+      "source_anchor": "#8105-unreachable-and-deceased-contributors-and-disputes",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.10.5 Unreachable and deceased contributors, and disputes",
+      "source_anchor": "#8105-unreachable-and-deceased-contributors-and-disputes",
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
       "source_header": "8.2 Type G: Governance and operational source data",
       "source_anchor": "#82-type-g-governance-and-operational-source-data",
       "target_file": "core_05_band_oversight.md",
@@ -115349,6 +115549,158 @@
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8 Type Y: Yours",
+      "source_anchor": "#88-type-y-yours",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#public-oversight-baseline-disclosure",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8 Type Y: Yours",
+      "source_anchor": "#88-type-y-yours",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#50-access-posture-bands",
+      "count": 3
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8 Type Y: Yours",
+      "source_anchor": "#88-type-y-yours",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#most-restrictive-applicable-classification-governs",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8 Type Y: Yours",
+      "source_anchor": "#88-type-y-yours",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-2-2-determination-of-classification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8.1 Type Y access and handling duties",
+      "source_anchor": "#881-type-y-access-and-handling-duties",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-viii-a-self-ownership-of-likeness-and-reputation",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8.1 Type Y access and handling duties",
+      "source_anchor": "#881-type-y-access-and-handling-duties",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8.1 Type Y access and handling duties",
+      "source_anchor": "#881-type-y-access-and-handling-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xvii-e-creative-and-expressive-works",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8.1 Type Y access and handling duties",
+      "source_anchor": "#881-type-y-access-and-handling-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8.1 Type Y access and handling duties",
+      "source_anchor": "#881-type-y-access-and-handling-duties",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#50-access-posture-bands",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8.1 Type Y access and handling duties",
+      "source_anchor": "#881-type-y-access-and-handling-duties",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#12-continuity-critical-collection-and-exportability",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8.1 Type Y access and handling duties",
+      "source_anchor": "#881-type-y-access-and-handling-duties",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-2-2-determination-of-classification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.8.1 Type Y access and handling duties",
+      "source_anchor": "#881-type-y-access-and-handling-duties",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-2-4-anti-circumvention-and-integrity-of-classification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.9 Type W: Works, published",
+      "source_anchor": "#89-type-w-works-published",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#public-oversight-baseline-disclosure",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.9 Type W: Works, published",
+      "source_anchor": "#89-type-w-works-published",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#50-access-posture-bands",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.9 Type W: Works, published",
+      "source_anchor": "#89-type-w-works-published",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#53-tiered-transparency-and-audit-access",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.9.1 Type W access and handling duties",
+      "source_anchor": "#891-type-w-access-and-handling-duties",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-viii-c-truthful-publication-and-high-impact-publication-limits",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.9.1 Type W access and handling duties",
+      "source_anchor": "#891-type-w-access-and-handling-duties",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-viii-d-creative-work-training-data-use-and-anti-displacement",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.9.1 Type W access and handling duties",
+      "source_anchor": "#891-type-w-access-and-handling-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xix-interoperability-portability-and-exit-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "8.9.1 Type W access and handling duties",
+      "source_anchor": "#891-type-w-access-and-handling-duties",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#50-access-posture-bands",
+      "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
@@ -115581,22 +115933,6 @@
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#53-tiered-transparency-and-audit-access",
       "count": 3
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.7.1 Type S access and handling duties",
-      "source_anchor": null,
-      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.7.1 Type S access and handling duties",
-      "source_anchor": null,
-      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
-      "target_anchor": null,
-      "count": 1
     },
     {
       "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",

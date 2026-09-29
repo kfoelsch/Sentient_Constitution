@@ -453,11 +453,17 @@ flowchart TB
             S["Type S<br/><br/>Safety, security, and restricted<br/>investigation data; time-bound"]
             N["Type N<br/><br/>Neurocognitive and internal data<br/>Non-accessible by default"]
         end
+        subgraph TypeRow3["Sentient-authored works, under the creator's direction"]
+            direction LR
+            Y["Type Y<br/><br/>Yours<br/>Works kept private or shared by the creator"]
+            W["Type W<br/><br/>Works, published<br/>Public by creator choice; deleted on request"]
+        end
     end
     R ~~~ TypeGrid
     style TypeGrid fill:none,stroke:none
     style TypeRow1 fill:none,stroke:none
     style TypeRow2 fill:none,stroke:none
+    style TypeRow3 fill:none,stroke:none
     style R fill:none,stroke:#2563eb,color:#ffffff
     style E fill:none,stroke:#64748b,color:#ffffff
     style O fill:none,stroke:#64748b,color:#ffffff
@@ -466,11 +472,14 @@ flowchart TB
     style I fill:none,stroke:#64748b,color:#ffffff
     style S fill:none,stroke:#64748b,color:#ffffff
     style N fill:none,stroke:#64748b,color:#ffffff
+    style Y fill:none,stroke:#64748b,color:#ffffff
+    style W fill:none,stroke:#64748b,color:#ffffff
 ```
 
 - CS-2 assigns a type by functional content and handling need, not by label, file format, or pipeline stage.
 - When data is linked, transformed, aggregated, or reconstructed into a more sensitive type, the more protective requirements apply.
 - Type O is the public oversight baseline. It may be a lawful public substitute drawn from Type G, Type E, or another restricted source; that does not change the underlying source type.
+- Type Y and Type W cover works sentients create. A work is Type Y while private or shared and Type W once its creator makes it public. Either way the creator stays in control, and a public work is still deleted on the creator's request. Public availability does not make a work Type O.
 - The record is periodically re-evaluated, audited, challengeable, and updated. Handling scales with the most restrictive applicable type and with system class.
 
 ### System classifications: how much governance a system needs

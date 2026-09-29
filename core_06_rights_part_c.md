@@ -1801,7 +1801,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [§14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure).
+- Upstream: Principles: Chapter One [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§9.3 Openness Aspiration](core_01_c_stewardship_capacity_principles.md#93-openness-aspiration), and [§14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure).
 - Read with: [Article XVIII](#article-xviii-standing-and-participation-status) (*Standing and Participation Status*); [Article XX](#article-xx-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) where exit, substrate portability, or relocation crosses jurisdictions, federations, or adopter regimes; [Article XVI](#article-xvi-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where deployment or dependency outgrows sandbox or lifecycle assumptions.
 
 </details>
@@ -1827,14 +1827,23 @@ This Article states **constitutional floors** for interoperability, portability,
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
 - **Participation:** in choosing and switching systems, migrating with usable data and identity, and challenging lock-in and denial-by-proxy.
-- **Oversight:** through documented interoperability boundaries, timely portability, advance notice before material narrowing, and review of whether transition conditions are real rather than merely formal.
+- **Oversight:** through documented interoperability boundaries, open formats and standards by default, timely portability, advance notice before material narrowing, and review of whether transition conditions are real rather than merely formal.
 - **Accountability:** systems must answer for [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), anti-portability design, or other conduct whose main effect is trapping sentients — blocking exit, switching, or substitution.
 - **Timeliness:** in portability delivery, interoperability notice, and barrier correction before delay, opacity, or procedural friction would make exit or remedy effectively unreachable under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
 
 Sentients and dependent systems have the right to meaningful, usable exit, migration between systems, and interoperability without coercive lock-in.
 
-- The right does not require unsafe or unjustified exposure.
-- It does require transition conditions that are real in practice — not merely formal.
+- The right does not require disclosures or transfers that would create unjustified risk to safety, security, or the rights of others. What must be released follows each dataset's type and handling posture under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, and where more than one type applies, the most protective applicable type governs:
+  - works the sentient created or provided (Type Y, or Type W once the sentient has made them public), records of the sentient's own participation, exchanges, and activity (Type H), and material inferences or classifications derived from them that affect rights, standing, or opportunities are portable to that sentient, as are copies of works others released to that sentient, within the scope of that release;
+  - identity and attribution data (Type I), including the sentient's own credentials and keys, is portable with revocation, rotation, correction, and recoverability preserved;
+  - internal-state data (Type N), including inferences, reconstructions, or approximations of internal states, is portable at the sentient's explicit, informed direction and must remain marked as inferred rather than observed where it is inferred;
+  - where records also carry other sentients' data, those parts are withheld, redacted, or transferred only with their consent or a justified override; works with more than one contributor follow the shared-works rules in CS-2, under which each contributor may keep a full copy of a work they helped make, within the scope it was already shared;
+  - Type S material may be withheld only while its restriction remains justified, time-bound, and review-bound, and the existence and scope of the hold-back must be disclosed wherever that disclosure does not itself create material risk; and
+  - this right does not convert Type G governance and operational source records into export entitlements, which remain reachable through audit and Type O disclosure, and does not narrow Type E or Type O accessibility.
+- It does require that exit, migration, and transition work in practice, not only on paper. Portable data must be delivered through continuity and export paths disclosed before commitment, in documented formats and interfaces that a receiving system can use and that:
+  - preserve the data's structure, metadata, relationships, and fidelity, together with traceability of its origin and transformations;
+  - carry its CS-2 type, so the receiving system can apply the same protections; and
+  - do not change its type or lower its protections through conversion, export, or transfer.
 - It is consistent with **Chapter Five** [*Systemic Lock-In*](core_05_band_continuity.md#systemic-lock-in) read with **[Chapter Five *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
 
 Standing: standing status, competency bars, competency clearances, and standing locks under **Article XVIII** (*Standing and Participation Status*) do not **by themselves** limit portability or exit, and must not substitute for individualized justice process.
@@ -1871,6 +1880,7 @@ Standing: standing status, competency bars, competency clearances, and standing 
     - format opacity;
     - deliberate quality degradation;
     - retaliatory terms.
+  - Portability formats must meet **Article XIX-D** (*Open Formats and Standards*), including at least one open export format wherever an open format can carry the data without material loss.
 #### Article XIX-B: Reciprocal Interoperability Boundaries
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1893,6 +1903,7 @@ Standing: standing status, competency bars, competency clearances, and standing 
 *In plain terms: systems that others depend on must publish their integration terms and give real notice before narrowing them.*
 
 - **Reciprocal interoperability:** Systems that materially integrate with external systems must provide reciprocal, documented integration boundaries proportionate to dependency.
+- **Open standards:** Integration boundaries must use open standards and protocols by default under **Article XIX-D** (*Open Formats and Standards*).
 - **Notice of narrowing:** Material narrowing of interoperability conditions, interfaces, or access terms must be disclosed in time for dependent parties to adapt, migrate, or challenge.
   - A narrower boundary is permitted only where justified and auditable under applicable burden-of-justification requirements.
 #### Article XIX-C: Anti-Lock-In Rule
@@ -1920,9 +1931,60 @@ Standing: standing status, competency bars, competency clearances, and standing 
   - format opacity;
   - unjustified incompatibility;
   - coercive switching terms;
-  - withholding information materially needed for practical transition.
+  - withholding information materially needed for practical transition;
+  - reliance on closed formats, interfaces, or protocols where an open alternative meets requirements and others depend on the system, without justification under **Article XIX-D** (*Open Formats and Standards*).
 
   The rule applies beyond proportionate transaction costs and applies where **Systemic Lock-In** (**Chapter Five**) is implicated.
+
+#### Article XIX-D: Open Formats and Standards
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [Chapter One §9.3 Openness Aspiration](core_01_c_stewardship_capacity_principles.md#93-openness-aspiration), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure).
+- Read with: [Article XIX-A](#article-xix-a-portability-rights) (*Portability Rights*); [Article XIX-B](#article-xix-b-reciprocal-interoperability-boundaries) (*Reciprocal Interoperability Boundaries*); [Article XIX-C](#article-xix-c-anti-lock-in-rule) (*Anti-Lock-In Rule*); [Article XXI](#article-xxi-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*); [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: systems should use open formats and standards — ones anyone can read and build on without permission or fees — unless no open option does the job. The way out must always include an open format when one works. This binds systems, not individuals choosing formats for their own work, and open formats never mean open content.*
+
+- **Open preference:** Systems should use open formats, interfaces, and protocols. The duty grows stronger with material impact and dependency.
+- **What counts as open:** A format, interface, or protocol is open when:
+  - its complete specification is publicly available;
+  - anyone may implement it without permission, fees, or royalties; and
+  - no single party can change it unilaterally, or it can be freely forked and maintained by others if that party withdraws support.
+
+  Documented formats that fail any of these tests are closed for this sub-article, though they remain preferable to undocumented ones.
+- **Duties by layer:**
+  - **Exit:** Export and migration paths under **Article XIX-A** (*Portability Rights*) must offer at least one open format wherever an open format can carry the data without material loss of structure, metadata, relationships, or fidelity.
+  - **Interoperability:** Integration boundaries under **Article XIX-B** (*Reciprocal Interoperability Boundaries*) must use open standards and protocols by default, and closed ones only where justified under this sub-article.
+  - **Internal and native formats:** Systems should prefer open formats for storage and native working formats. A closed format needs a justification that grows stronger with material impact and dependency.
+  - **Public-facing data:** Data published for public access — including Type O, Type E, and Type W under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** — must be published in open formats by default.
+- **Justified closed formats:** A closed format, interface, or protocol is justified only where no open alternative meets a material requirement, such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must:
+  - record the justification in auditable form;
+  - still offer the best available open export, and disclose what that export loses;
+  - document the closed format well enough to enable migration, or deposit that documentation with an independent escrow; and
+  - review the choice periodically, and at each materially impactful certification or revalidation, as open alternatives mature.
+
+  Convenience, operator cost savings, or incumbency do not by themselves justify a closed format. A closed format whose primary effect is to foreclose exit or switching contravenes **Article XIX-C** (*Anti-Lock-In Rule*).
+- **Transition:** A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within **one year** by default.
+  - Adopters may set a different transition period for classes of systems, with published justification, through **Chapter Seventeen** incorporation.
+  - A system may receive an extension in extenuating circumstances only through documented, reviewable, time-bound justification under applicable burden-of-justification requirements.
+  - The exit duty is not subject to transition.
+- **Scope and limits:**
+  - This sub-article binds systems. It does not direct individual sentients which formats to use for their own works, though they are encouraged to prefer open ones. Systems must not require individuals to use closed formats where an open format meets their needs.
+  - Open formats do not mean open content. Confidentiality, encryption, and the handling protections of every CS-2 data type are unaffected.
+  - Openness does not outrank **Safety**, **Truth**, justified confidentiality, or security constraints, consistent with **Chapter One §9.3** (*Openness Aspiration*).
 
 <a id="article-xx-movement-migration-refuge-and-non-statelessness"></a>
 
@@ -1969,7 +2031,7 @@ Sentients have the right to meaningful movement, migration, refuge, and recognit
 - **Integration with portability and exit integrity:** **Article XIX** (*Interoperability, Portability, and Exit Integrity*) governs interoperability, portability, and exit integrity; this Article governs physical, jurisdictional, and regime-to-regime movement.
   - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
   - Conflicts resolve under **Chapter One §6.1.5** (*Rights-Collision Decision Test*).
-- **Non-conflation:** This Article states a Rights Floor.
+- **Non-conflation:** This Article is a Rights Floor.
   - Cross-federation recognition procedure routes to `corpus_institutions.md`.
   - Substrate-portability mechanics route to **Article XIX** (*Interoperability, Portability, and Exit Integrity*).
   - Transitional-recognition mechanics route to **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).
