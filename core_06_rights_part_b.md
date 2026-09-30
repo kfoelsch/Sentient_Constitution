@@ -1859,7 +1859,7 @@ This Article sets out the scope of participation weighting, the constraints on i
   - grant persistent control to any narrow coalition, operator bloc, or capital-concentration proxy, absent constitutionally sufficient justification.
   
   Weighting rules must be auditable, periodically revalidated, and contestable.
-- **No token participation:** Asking stakeholders for their views does not count if it is only for show. Consultation breaks this rule — whether or not weighting is used — if, for the people materially affected, any of these is true:
+- **No token participation:** Asking stakeholders for their views does not count if it is only for show. Consultation breaks this rule — whether or not weighting is used — if, for the sentients materially affected, any of these is true:
   - what they say cannot change the outcome;
   - they cannot reasonably reach or use it;
   - their input is routinely ignored.
