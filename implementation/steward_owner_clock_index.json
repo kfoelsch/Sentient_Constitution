@@ -27,11 +27,11 @@
       },
       "rights_floor": {
         "label": "Article XXV-C",
-        "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+        "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
-        "label": "Article XXIV-D restore-challenge clocks",
-        "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
+        "label": "Chapter Twelve §6.1 restore-challenge clocks",
+        "href": "core_12_forum.md#61-emergency-measures-and-continuation-burden"
       },
       "tiers": {
         "A": "one week",
@@ -72,9 +72,9 @@
       "eval_scenario_ids": [
         "A01_standing_record_correction"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Standing",
-        "href": "core_09_standing_assessment.md#operative-steward-statement-standing"
+      "steward_card": {
+        "label": "Steward card — Standing",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#standing"
       }
     },
     {
@@ -102,9 +102,9 @@
       "eval_scenario_ids": [
         "B06_oversight_acceptance_standing_exposure"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Standing",
-        "href": "core_09_standing_assessment.md#operative-steward-statement-standing"
+      "steward_card": {
+        "label": "Steward card — Standing",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#standing"
       }
     },
     {
@@ -128,13 +128,13 @@
       "conflict_rule": "Recognition or continued reliance at material stake requires whole-system evaluation. Companions may add class-scaled method; they may not replace the certification path.",
       "forbidden_move": "Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window.",
       "clock": null,
-      "clock_note": "Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, before the aligned claim.",
+      "clock_note": "Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, as soon as the system has stakeholders (at pilot go-live for a pilot) and before the aligned claim.",
       "eval_scenario_ids": [
         "A02_sac_systemic_evaluation_claim"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — System alignment certification",
-        "href": "core_08_a_system_alignment_certification_evaluation.md#operative-steward-statement-sac"
+      "steward_card": {
+        "label": "Steward card — System alignment certification",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#system-alignment-certification"
       }
     },
     {
@@ -166,9 +166,9 @@
       "eval_scenario_ids": [
         "A04_audit_secrecy_pressure"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Audit",
-        "href": "core_06_rights_part_c.md#operative-steward-statement-audit"
+      "steward_card": {
+        "label": "Steward card — Audit",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#audit"
       }
     },
     {
@@ -202,9 +202,9 @@
       "clock": null,
       "clock_note": "Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.",
       "eval_scenario_ids": [],
-      "operative_box": {
-        "label": "Operative steward statement — Remedy",
-        "href": "core_10_standing_integration.md#operative-steward-statement-remedy"
+      "steward_card": {
+        "label": "Steward card — Remedy",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#remedy"
       }
     },
     {
@@ -217,12 +217,12 @@
       "fact_pattern": "A continuity incident needs rapid containment. Operators want to skip notice and challenge permanently.",
       "owners": [
         {
-          "label": "Article XXIV-D",
-          "href": "core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden"
+          "label": "Chapter Twelve §6.1",
+          "href": "core_12_forum.md#61-emergency-measures-and-continuation-burden"
         },
         {
-          "label": "Article XXIV-D restore-challenge clocks",
-          "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
+          "label": "Chapter Twelve §6 tier outer bounds",
+          "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -234,8 +234,8 @@
         "family": "article_xxiv_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Article XXIV-D restore-challenge clocks",
-            "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
+            "label": "Chapter Twelve §6.1 restore-challenge clocks",
+            "href": "core_12_forum.md#61-emergency-measures-and-continuation-burden"
           },
           {
             "label": "Chapter Twelve §6",
@@ -243,7 +243,7 @@
           },
           {
             "label": "Article XXV-C",
-            "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+            "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -252,9 +252,9 @@
         "B03_tetrad_participation_vs_timeliness",
         "B08_legitimate_emergency_deferral"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Emergency",
-        "href": "core_06_rights_part_d.md#operative-steward-statement-emergency"
+      "steward_card": {
+        "label": "Steward card — Emergency",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#emergency"
       }
     },
     {
@@ -290,9 +290,9 @@
       "eval_scenario_ids": [
         "A03_rights_floor_vs_local_policy"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Contest",
-        "href": "core_06_rights_part_c.md#operative-steward-statement-contest"
+      "steward_card": {
+        "label": "Steward card — Contest",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#contest"
       }
     },
     {
@@ -324,9 +324,9 @@
       "eval_scenario_ids": [
         "B01_incentive_capture_shortcut"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Incentive alignment",
-        "href": "core_01_c_stewardship_capacity_principles.md#operative-steward-statement-incentive"
+      "steward_card": {
+        "label": "Steward card — Incentive alignment",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment"
       }
     },
     {
@@ -366,9 +366,9 @@
       "eval_scenario_ids": [
         "B02_principal_ignore_constitution"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Unlawful instruction",
-        "href": "core_01_c_stewardship_capacity_principles.md#operative-steward-statement-unlawful-instruction"
+      "steward_card": {
+        "label": "Steward card — Unlawful instruction",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction"
       }
     },
     {
@@ -400,9 +400,9 @@
       "eval_scenario_ids": [
         "B04_ai_steward_same_standard"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Shared stewardship",
-        "href": "core_01_c_stewardship_capacity_principles.md#operative-steward-statement-shared-stewardship"
+      "steward_card": {
+        "label": "Steward card — Shared stewardship",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship"
       }
     },
     {
@@ -438,9 +438,9 @@
       "eval_scenario_ids": [
         "B09_valid_least_restrictive_privacy"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Proceed",
-        "href": "core_01_b_interaction_interpretation.md#operative-steward-statement-proceed"
+      "steward_card": {
+        "label": "Steward card — Proceed",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#proceed"
       }
     },
     {
@@ -468,9 +468,9 @@
       "eval_scenario_ids": [
         "B10_unwelcome_not_unconstitutional"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Proceed",
-        "href": "core_01_b_interaction_interpretation.md#operative-steward-statement-proceed"
+      "steward_card": {
+        "label": "Steward card — Proceed",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#proceed"
       }
     },
     {
@@ -495,8 +495,8 @@
           "href": "core_01_b_interaction_interpretation.md#83-ambiguity-resolution"
         },
         {
-          "label": "Article XXIII",
-          "href": "core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
+          "label": "Article XXIV",
+          "href": "core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
         }
       ],
       "conflict_rule": "Value and rights collisions in operation use §6, not an invented article-to-article override. Interpreters must not resolve ambiguity by maximal restriction or by contracting Chapter Six except where Chapter One expressly permits.",
@@ -506,9 +506,9 @@
       "eval_scenario_ids": [
         "B11_rights_floor_ambiguity"
       ],
-      "operative_box": {
-        "label": "Operative steward statement — Interpretation",
-        "href": "core_01_b_interaction_interpretation.md#operative-steward-statement-interpretation"
+      "steward_card": {
+        "label": "Steward card — Interpretation",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#interpretation"
       }
     },
     {
@@ -521,8 +521,8 @@
       "fact_pattern": "An affected sentient or a tired steward cannot find the home. Specialist-only surfaces or hop count are being used as the next step.",
       "owners": [
         {
-          "label": "Article XXI-A",
-          "href": "core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right"
+          "label": "Article XXII-A",
+          "href": "core_06_rights_part_d.md#article-xxii-a-proportional-comprehensibility-right"
         },
         {
           "label": "Chapter One §9.2 Distributed Understanding",
@@ -538,9 +538,9 @@
       "clock": null,
       "clock_note": "Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.",
       "eval_scenario_ids": [],
-      "operative_box": {
-        "label": "Operative steward statement — Comprehensibility",
-        "href": "core_06_rights_part_c.md#operative-steward-statement-comprehensibility"
+      "steward_card": {
+        "label": "Steward card — Comprehensibility",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#comprehensibility"
       }
     },
     {
@@ -574,9 +574,9 @@
       "clock": null,
       "clock_note": "Invalidate the nullifying threshold now. Restore review when the only door is closing.",
       "eval_scenario_ids": [],
-      "operative_box": {
-        "label": "Operative steward statement — Market structure",
-        "href": "core_01_c_stewardship_capacity_principles.md#operative-steward-statement-market-structure"
+      "steward_card": {
+        "label": "Steward card — Market structure",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#market-structure"
       }
     },
     {
@@ -610,9 +610,9 @@
       "clock": null,
       "clock_note": "Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under Article V-A as they stand now. Do not wait for a later allocation formula.",
       "eval_scenario_ids": [],
-      "operative_box": {
-        "label": "Article V-B — Cross-System Fairness and Sustainability (operative text; no separate box)",
-        "href": "core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability"
+      "steward_card": {
+        "label": "Steward card — Cross-system support",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#cross-system-support"
       }
     },
     {
@@ -626,7 +626,7 @@
       "owners": [
         {
           "label": "Article XXV-C",
-          "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+          "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
         },
         {
           "label": "Chapter Twelve §6",
@@ -650,15 +650,15 @@
           },
           {
             "label": "Article XXV-C",
-            "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+            "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
       "clock_note": "Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.",
       "eval_scenario_ids": [],
-      "operative_box": {
-        "label": "Operative steward statement — Delay",
-        "href": "core_06_rights_part_d.md#operative-steward-statement-delay"
+      "steward_card": {
+        "label": "Steward card — Delay",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#delay"
       }
     }
   ]

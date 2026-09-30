@@ -36,7 +36,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
 
-**Homes:** Boxed operative sentence at [Article V-D](../../core_06_rights_part_b.md#anti-substitution-sentience-status) and [Article XVIII-A](../../core_06_rights_part_c.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Eight and Chapter Nine operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
+**Homes:** Boxed operative sentence at [Article V-D](../../core_06_rights_part_b.md#anti-substitution-sentience-status) and [Article XVIII-A](../../core_06_rights_part_d.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Eight and Chapter Nine operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
 **Do not:** Restate Chapter Nine mechanics inside Chapter Six.
 
 ### A3. Ladder escalation — no permanent welfare parking — **done**

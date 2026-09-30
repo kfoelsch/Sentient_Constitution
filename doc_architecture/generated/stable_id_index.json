@@ -171,6 +171,11 @@
       "status": "present"
     },
     {
+      "file": "core_06_rights_part_e.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
       "file": "core_13_governance.md",
       "label": "core",
       "status": "present"

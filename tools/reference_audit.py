@@ -17,6 +17,7 @@ DEFAULT_ARTICLE_SOURCES = [
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
+    "core_06_rights_part_e.md",
 ]
 
 ARTICLE_HEADING_RE = re.compile(r"^### Article ([IVXLCDM]+):\s*(.+?)\s*$")
@@ -33,10 +34,10 @@ INLINE_CODE_RE = re.compile(r"`([^`]+)`")
 # mapping and instructing authors to insert wrong citations.
 SEMANTIC_RULES: list[tuple[re.Pattern[str], str, str]] = [
     (re.compile(r"\bstanding\b", re.IGNORECASE), "XIX", "standing"),
-    (re.compile(r"\bconflict resolution\b", re.IGNORECASE), "XXIV", "conflict resolution"),
+    (re.compile(r"\bverified violation\b", re.IGNORECASE), "XX", "verified violation"),
     (re.compile(r"\bequal basic rights\b", re.IGNORECASE), "VI", "equal basic rights"),
-    (re.compile(r"\bcomprehensibility\b", re.IGNORECASE), "XXI", "comprehensibility"),
-    (re.compile(r"\broot cause\b", re.IGNORECASE), "XXII", "root cause analysis"),
+    (re.compile(r"\bcomprehensibility\b", re.IGNORECASE), "XXII", "comprehensibility"),
+    (re.compile(r"\broot cause\b", re.IGNORECASE), "XXIII", "root cause analysis"),
     (re.compile(r"\bresource allocation\b", re.IGNORECASE), "V", "resource allocation"),
     (re.compile(r"\blifecycle\b", re.IGNORECASE), "XVII", "lifecycle and reversibility"),
 ]

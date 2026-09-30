@@ -9,9 +9,8 @@ import unittest
 from pathlib import Path
 
 from steward_door_lockstep_audit import (
-    CARD_BOX_ANCHORS,
-    CARD_OWNER_TEXT_ANCHORS,
     CARD_TITLES,
+    CARDS_REL,
     DUTY_STEPS,
     INDEX_REL,
     ROUTING_REL,
@@ -20,7 +19,6 @@ from steward_door_lockstep_audit import (
     card_next_step_classes,
     check_href,
     duty_steps_in_order,
-    parse_operative_boxes,
     parse_routing_examples,
 )
 
@@ -102,20 +100,7 @@ class StewardDoorLockstepTests(unittest.TestCase):
             ok = check_href(root, "core_example.md#live", "test", cache)
             self.assertEqual(ok, [])
 
-    def test_parse_operative_boxes_extracts_owner_forbidden_clock(self) -> None:
-        text = (
-            '<a id="operative-steward-statement-standing"></a>\n'
-            "> **Operative steward statement.** **Owner:** Chapter Nine. "
-            "**Forbidden move:** Do not wait. **Clock:** Correct the record now.\n"
-        )
-        boxes = parse_operative_boxes(text)
-        self.assertIn("operative-steward-statement-standing", boxes)
-        parsed = boxes["operative-steward-statement-standing"]
-        self.assertEqual(parsed["owner"], "Chapter Nine.")
-        self.assertEqual(parsed["forbidden_move"], "Do not wait.")
-        self.assertEqual(parsed["clock"], "Correct the record now.")
-
-    def test_clauses_split_lets_combined_boxes_match_cards(self) -> None:
+    def test_clauses_split_lets_combined_notes_match_cards(self) -> None:
         from steward_door_lockstep_audit import missing_clauses, normalize
 
         haystack = normalize(
@@ -130,13 +115,17 @@ class StewardDoorLockstepTests(unittest.TestCase):
             [],
         )
 
-    def test_named_stack_titles_have_core_box_anchors(self) -> None:
-        self.assertEqual(
-            set(CARD_BOX_ANCHORS) | set(CARD_OWNER_TEXT_ANCHORS), set(CARD_TITLES)
-        )
-        self.assertFalse(set(CARD_BOX_ANCHORS) & set(CARD_OWNER_TEXT_ANCHORS))
+    def test_index_cases_use_named_stack_cards(self) -> None:
+        index = json.loads((ROOT / INDEX_REL).read_text(encoding="utf-8"))
+        titles = {case["card_title"] for case in index["cases"]}
+        self.assertEqual(titles, set(CARD_TITLES))
+        for case in index["cases"]:
+            self.assertEqual(
+                case["steward_card"]["href"],
+                f"{CARDS_REL}#{case['card_anchor']}",
+            )
 
-    def test_owner_text_card_fails_when_article_drops_clause(self) -> None:
+    def test_card_next_step_fails_when_card_drops_clause(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             import shutil
 
@@ -150,15 +139,15 @@ class StewardDoorLockstepTests(unittest.TestCase):
                     "_pages_site", "__pycache__",
                 ),
             )
-            art = root / "core_06_rights_part_a.md"
-            text = art.read_text(encoding="utf-8")
-            art.write_text(
-                text.replace("Do not wait for a later allocation formula.", ""),
+            cards = root / CARDS_REL
+            text = cards.read_text(encoding="utf-8")
+            cards.write_text(
+                text.replace("Do not add process that eats the window.", ""),
                 encoding="utf-8",
             )
             errors = audit(root)
             self.assertTrue(
-                any("owner Article text" in e and "cross_system_support" in e for e in errors),
+                any("clock_note" in e and "`delay`" in e for e in errors),
                 errors,
             )
 
@@ -169,7 +158,7 @@ class StewardDoorLockstepTests(unittest.TestCase):
         self.assertTrue(index["cannot_narrow_core"])
         self.assertEqual(index["status"], "process_support_not_binding")
         self.assertTrue(
-            all("operative_box" in case for case in index.get("cases") or [])
+            all("steward_card" in case for case in index.get("cases") or [])
         )
 
     def test_repo_audit_passes(self) -> None:

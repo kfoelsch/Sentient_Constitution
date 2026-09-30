@@ -25,9 +25,9 @@ class SemanticRuleGuardTests(unittest.TestCase):
             "VI": "Equal Basic Rights",
             "XVII": "System Lifecycle, Environments, and Reversibility",
             "XIX": "Standing and Participation Status",
-            "XXI": "Comprehensibility and Complexity Stewardship",
-            "XXII": "Root Cause Analysis and Adaptive Response",
-            "XXIV": "Conflict Resolution, Escalation, and Emergency Proportionality",
+            "XXII": "Comprehensibility and Complexity Stewardship",
+            "XXIII": "Root Cause Analysis and Adaptive Response",
+            "XX": "Justice After Verified Violation",
         }
 
     def test_shipped_rules_match_the_live_corpus(self) -> None:

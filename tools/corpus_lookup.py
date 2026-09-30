@@ -601,7 +601,7 @@ def door_pointer(case: dict[str, Any]) -> dict[str, Any]:
                 "href": owner.get("href"),
             }
         )
-    operative = case.get("operative_box") or {}
+    card = case.get("steward_card") or {}
     return {
         "id": case.get("id"),
         "card_path": card_path,
@@ -610,9 +610,9 @@ def door_pointer(case: dict[str, Any]) -> dict[str, Any]:
         "next_step_class": case.get("next_step_class"),
         "high_pressure": case.get("high_pressure"),
         "owners": owners,
-        "operative_box": {
-            "label": operative.get("label"),
-            "href": operative.get("href"),
+        "steward_card": {
+            "label": card.get("label"),
+            "href": card.get("href"),
         },
         "clock": case.get("clock"),
         "cards": CARDS_REL,
@@ -835,13 +835,7 @@ def cmd_route(indexes: Indexes, query: str) -> dict[str, Any]:
             citation = citation_from_pointer(indexes, owners[0])
     elif door:
         owners = list(door.get("owners") or [])
-        href = (door.get("operative_box") or {}).get("href")
-        if href:
-            file_rel, _, frag = str(href).partition("#")
-            citation = citation_from_pointer(
-                indexes, {"file": file_rel, "anchor": frag, "href": href}
-            )
-        elif owners:
+        if owners:
             first = owners[0]
             href = first.get("href")
             if href:
@@ -871,6 +865,29 @@ def cmd_route(indexes: Indexes, query: str) -> dict[str, Any]:
     return out
 
 
+def span_from_heading_slug(path: Path, slug: str) -> tuple[int, int] | None:
+    """Return (start, end) lines of the section whose heading slug is ``slug``."""
+    if not slug:
+        return None
+    lines = path.read_text(encoding="utf-8").splitlines()
+    for idx, line in enumerate(lines):
+        if not HEADING_LINE.match(line):
+            continue
+        title = line.lstrip("#").strip()
+        candidate = re.sub(r"[^\w\s-]", "", title.lower())
+        candidate = re.sub(r"\s", "-", candidate)
+        if candidate != slug:
+            continue
+        level = len(line.split(" ", 1)[0])
+        end = idx + 1
+        for j in range(idx + 1, min(len(lines), idx + HYDRATE_CAP)):
+            if HEADING_LINE.match(lines[j]) and len(lines[j].split(" ", 1)[0]) <= level:
+                break
+            end = j + 1
+        return idx + 1, end
+    return None
+
+
 def span_from_href(
     indexes: Indexes, href: str
 ) -> tuple[str, int, int, str | None]:
@@ -888,8 +905,27 @@ def span_from_href(
             if needle in line:
                 start = idx
                 end = idx
-                for j in range(idx + 1, min(len(lines), idx + 39) + 1):
-                    if HEADING_LINE.match(lines[j - 1]):
+                # An anchor placed directly above a heading owns that
+                # heading's section (e.g. the steward cards), so skip
+                # blank lines and further anchors to the heading and read
+                # to the next heading of the same or higher level.
+                probe = idx
+                while probe < len(lines) and (
+                    not lines[probe].strip() or lines[probe].lstrip().startswith("<a id=")
+                ):
+                    probe += 1
+                owned = (
+                    HEADING_LINE.match(lines[probe]) if probe < len(lines) else None
+                )
+                owned_level = len(lines[probe].split(" ", 1)[0]) if owned else 0
+                scan_from = probe + 2 if owned else idx + 1
+                if owned:
+                    end = probe + 1
+                for j in range(scan_from, min(len(lines), idx + 39) + 1):
+                    nxt = HEADING_LINE.match(lines[j - 1])
+                    if nxt and (
+                        not owned or len(lines[j - 1].split(" ", 1)[0]) <= owned_level
+                    ):
                         break
                     end = j
                 return file_rel, start, end, anchor
@@ -904,6 +940,9 @@ def span_from_href(
         line=None,
     )
     if section is None:
+        by_heading = span_from_heading_slug(indexes.root / file_rel, ident)
+        if by_heading is not None:
+            return file_rel, by_heading[0], by_heading[1], anchor
         raise LookupError_(f"no section for {href}")
     return (
         file_rel,
@@ -978,9 +1017,12 @@ def cmd_apply_pack(indexes: Indexes, query: str) -> dict[str, Any]:
             add("read_with", ident=str(item["id"]))
 
     door = routed.get("door") or {}
-    href = (door.get("operative_box") or {}).get("href")
+    door_owners = door.get("owners") or []
+    if door_owners and door_owners[0].get("href"):
+        add("door_owner", href=str(door_owners[0]["href"]))
+    href = (door.get("steward_card") or {}).get("href")
     if href:
-        add("operative_box", href=str(href))
+        add("steward_card", href=str(href))
 
     if not targets and routed.get("citation"):
         citation = routed["citation"]

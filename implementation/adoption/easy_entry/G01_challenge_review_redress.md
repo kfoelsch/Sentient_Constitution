@@ -33,13 +33,13 @@ See: [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliabili
 - **Today:** Speaking up costs the lease, the shift, or the next appointment.
 - **With this Constitution:** Good-faith reports must not be punished. The boxed next-step for those running the system is on the same article.
 
-See: [Article XIII-A](../../../core_06_rights_part_c.md#operative-steward-statement-contest).
+See: [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline).
 
 **A form on paper is not being made whole.**
 - **Today:** There is an inbox and a policy page. Nobody can actually restore the water, the pay, or the record.
 - **With this Constitution:** The path has to have real capacity to deliver, not only a form.
 
-See: [Chapter Ten §4.1](../../../core_10_standing_integration.md#41-remedy-and-correction); [Remedy](../../../core_10_standing_integration.md#operative-steward-statement-remedy).
+See: [Chapter Ten §4.1](../../../core_10_standing_integration.md#41-remedy-and-correction); [Remedy](../../STEWARD_ENTRY_DOORS.md#remedy).
 
 ## What to open next
 

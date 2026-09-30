@@ -113,7 +113,7 @@
         "conflict_rule",
         "forbidden_move",
         "eval_scenario_ids",
-        "operative_box"
+        "steward_card"
       ],
       "properties": {
         "id": { "type": "string", "minLength": 1 },
@@ -151,7 +151,7 @@
           "type": "array",
           "items": { "type": "string", "minLength": 1 }
         },
-        "operative_box": { "$ref": "#/$defs/cite" }
+        "steward_card": { "$ref": "#/$defs/cite" }
       }
     }
   }

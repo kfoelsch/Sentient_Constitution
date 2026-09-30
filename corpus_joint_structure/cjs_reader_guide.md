@@ -54,7 +54,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 | **Preamble** | **Preamble §2** | Foundational requirements that open the Constitution |
 | **Constitutional Tetrad** | **Participation**, **Oversight**, **Accountability**, **Timeliness** | The four scaling principles in the Preamble |
 | **Two Constitutional Aims** | **Flourishing**, **Continuity** | The two aims in the Preamble |
-| **Article** (Chapter Six) | **Article XXI**, **Article XX-D** | Rights articles in Chapter Six |
+| **Article** (Chapter Six) | **Article XXII**, **Article XXI-D** | Rights articles in Chapter Six |
 | **Def** (Chapter Five definitions) | **Trust**, **Oversight**, **Def.O1**, **Def.C4** | Dictionary terms and clusters in Chapter Five |
 
 **Corpus references**

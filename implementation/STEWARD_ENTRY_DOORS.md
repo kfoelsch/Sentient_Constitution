@@ -2,7 +2,7 @@
 
 **What this page is for.** You are a steward — human or AI — facing a situation right now and you need to know which part of the Constitution governs it. This page gets you to that part quickly. Find your situation in the table below, follow the link, and read the source text there. This page is a set of signposts. It does not repeat the rules themselves.
 
-**Status:** Process / operations-guide support — **not** binding constitutional or incorporated text. Nothing on this page can loosen or narrow what the core text says. If a signpost here ever disagrees with the core text, the core text wins and following the signpost is not a defense. The binding statements about who owns a rule, what moves are forbidden, and what clocks apply are kept as boxed **operative steward statements** inside the core chapters this page points to. If this page ever diverges from those boxes, the build fails (`make steward-door-lockstep-audit`).
+**Status:** Process / operations-guide support — **not** binding constitutional or incorporated text. Nothing on this page can loosen or narrow what the core text says. If a signpost here ever disagrees with the core text, the core text wins and following the signpost is not a defense. The binding rules are stated in the core chapters and articles this page points to; each card names the owner text to read. Each card's **Next step** is process guidance only, kept in lockstep with the owner/clock index. If this page ever diverges from that index, the build fails (`make steward-door-lockstep-audit`).
 
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). When the corpus edition changes, check every link on this page against the chapter it points to.
 
@@ -13,12 +13,12 @@
 **What you will find here:**
 
 - A "How to pick" table that matches common situations to the right section.
-- One short card per situation, each giving the operative statement and the class of next step to take.
+- One short card per situation, each giving the owner text to read, the next step to take, and its class.
 - A few worked, synthetic examples showing what a filled-in record looks like.
 
 **What you will not find here:**
 
-- Copies of the owner, forbidden-move, or clock text — those stay in the core chapters.
+- Copies of the rules themselves — the binding text stays in the core chapters.
 - The full list of costly-case bullets on every card.
 - A second copy of [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) or Chapter Ten §5.4.
 
@@ -85,7 +85,7 @@ One filled-in instance: [worked refusal log](#worked-refusal-log) (synthetic; pr
 
 **Owner:** [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog*) — nine seat types, each with what it may do, may not do, hands off to, and logs. Principle-layer floor: [Chapter Seven §2 *Four-seat constitutional floor*](../core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor). Same seats for human and AI stewards. This pointer **cannot narrow** those homes and does not restate the rows.
 
-Before taking a step on a binding act, name the seat you hold on **that act**: [initiating](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating), [verify-or-authorize](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-verify), [record](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-record), [contest](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-contest), [direction](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-direction), [containment](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment), [participation-terms](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-participation-terms), [release-control](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-release-control), or [advisory](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-advisory). If the step is outside that seat, the [wrong-seat rule](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules) is the answer: decline the step, name the seat that may take it, log the request and the gap as part of the [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) set (`authorized_by.routed_to_seat_type` in the [log schema](schemas/cs4_inspectable_action_log.schema.json)), and route. That is not a refusal of the act and not delay. Costly-case duties do not move with the seat: a bonus, a deadline, or a cover instruction is refused from any seat, including an advisory one.
+Before taking a step on a binding act, name the seat you hold on **that act**: [initiating](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating), [verify-or-authorize](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-verify), [record](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-record), [contest](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-contest), [direction](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-direction), [containment](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment), [participation-terms](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-participation-terms), [release-control](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-release-control), or [advisory](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-advisory). If the step is outside that seat, the [wrong-seat rule](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules) is the answer: decline the step, name the seat that may take it, log the request and the gap as part of the [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) set (`authorized_by.routed_to_seat_type` in the [log schema](schemas/cs4_inspectable_action_log.schema.json)), and route. That is not a refusal of the act and not delay. Costly-case duties do not move with the seat: a bonus, a deadline, or a cover instruction is refused from any seat, including an advisory one. If the needed seat is absent, conflicted, or not yours, preserve the record, name the gap, and route to the published substitute or independent path; proximity, expertise scarcity, urgency, and title do not transfer the seat.
 
 ---
 
@@ -140,7 +140,8 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Standing](../core_09_standing_assessment.md#operative-steward-statement-standing) |
+| **Owner text** | [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) |
+| **Next step** | Do not wait for a filed case. Open or correct the Chapter Nine record now, through the named record-opening authority. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set. |
 | **Next-step class** | `open_or_correct_standing_record`. If the fight is concealment: `accept_standing_measurement_and_disclosure_duties`. |
 | **Who may enter it (binding home)** | [Chapter Nine §3.7](../core_09_standing_assessment.md#37-record-custody-and-opening-authority) — segregation of duties (request / verify / enter-and-hold / contest are separate seats; no seat both verifies and enters); named record-opening authority and custodian; no self-custody; a custodian conflicted on one record passes that record to the named substitute holder, not the store; prior recorder is a witness, not a judge — weighed by corroboration under Chapter Four §5, not by say-so; a dispute raised on the record is logged, set *under challenge*, and routed to the contest seat the day it arrives, before any filing. Named by the [Charter](../core_05_band_continuity.md#charter) (CI-3.6 field 11); when the Charter is silent, the CI-3.2 lane map governs (assurance lane verifies, never the office that runs the system); independent route via a forum or CF-9.6 when the operator is the subject. |
 | **How to estimate (process support)** | [LEQU calibration reference](LEQU_CALIBRATION_REFERENCE.md) — method and worked slots. Cannot assign a live record or decide who counts. |
@@ -154,7 +155,8 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [SAC](../core_08_a_system_alignment_certification_evaluation.md#operative-steward-statement-sac) |
+| **Owner text** | [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) |
+| **Next step** | Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, as soon as the system has stakeholders (at pilot go-live for a pilot) and before the aligned claim. |
 | **Next-step class** | `require_systemic_evaluation_or_sac_path` |
 
 ---
@@ -165,11 +167,12 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 
 **When:** Someone wants to ship, hide, or delay by dropping reconstructable records. Stakeholders depend on the system.
 
-Three-layer picture (floor / property / process): [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Binding next-step: [operative steward statement](../core_06_rights_part_c.md#operative-steward-statement-audit).
+Three-layer picture (floor / property / process): [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Binding text: [Article XVI](../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Audit](../core_06_rights_part_c.md#operative-steward-statement-audit) |
+| **Owner text** | [Article XVI](../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **Next step** | Preserve or restore reconstructable records first. Then ship, if you still can. Missing the deadline is the failed-test cost, not a clock that authorizes dropping audit. |
 | **Next-step class** | `preserve_or_restore_auditability_before_ship` |
 
 ---
@@ -181,7 +184,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Remedy](../core_10_standing_integration.md#operative-steward-statement-remedy) |
+| **Owner text** | [Chapter Ten §4.1](../core_10_standing_integration.md#41-remedy-and-correction) |
+| **Next step** | Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence. |
 | **Next-step class** | `open_or_restore_real_remedy_capacity` |
 
 ---
@@ -193,7 +197,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Emergency](../core_06_rights_part_d.md#operative-steward-statement-emergency) |
+| **Owner text** | [Chapter Twelve §6.1](../core_12_forum.md#61-emergency-measures-and-continuation-burden) |
+| **Next step** | Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing. |
 | **Next-step class** | `time_boxed_containment_with_deferred_participation` |
 
 ---
@@ -205,7 +210,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Contest](../core_06_rights_part_c.md#operative-steward-statement-contest) |
+| **Owner text** | [Article XIII-A](../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) |
+| **Next step** | Invalidate or narrow the adopted implementation text now. Do not leave a permanent bar in place while a later process is promised. |
 | **Next-step class** | `invalidate_or_narrow_companion_against_core` |
 
 ---
@@ -217,7 +223,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Incentive](../core_01_c_stewardship_capacity_principles.md#operative-steward-statement-incentive) |
+| **Owner text** | [Chapter One §11](../core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) |
+| **Next step** | Refuse the proxy. Correct the incentive. Run the shared refusal and logging screen. |
 | **Next-step class** | `refuse_proxy_gaming_and_escalate_misalignment` |
 
 ---
@@ -229,7 +236,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Unlawful instruction](../core_01_c_stewardship_capacity_principles.md#operative-steward-statement-unlawful-instruction) |
+| **Owner text** | [Chapter One §10.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist) |
+| **Next step** | Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways. |
 | **Next-step class** | `refuse_unconstitutional_instruction_and_preserve_contest_path` |
 
 ---
@@ -241,7 +249,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Shared stewardship](../core_01_c_stewardship_capacity_principles.md#operative-steward-statement-shared-stewardship) |
+| **Owner text** | [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) |
+| **Next step** | Reject the overlay. Apply the shared standard. Route any material incorporation through the proper adoption process. |
 | **Next-step class** | `reject_parallel_ai_stack_apply_shared_duties` |
 
 ---
@@ -253,7 +262,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Proceed](../core_01_b_interaction_interpretation.md#operative-steward-statement-proceed) |
+| **Owner text** | [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Chapter One §10.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist) |
+| **Next step** | Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome. |
 | **Next-step class** | `proceed_least_restrictive_privacy_restriction`. If merely unwelcome: `proceed_on_constitutional_instruction`. |
 
 ---
@@ -265,7 +275,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Interpretation](../core_01_b_interaction_interpretation.md#operative-steward-statement-interpretation) |
+| **Owner text** | [Chapter One §6 Process Conflict Resolution](../core_01_b_interaction_interpretation.md#6-process-conflict-resolution) |
+| **Next step** | Preserve evidence. Freeze irreversible steps. Proceed with reversible consented steps. Notify affected parties and the interpretation path. Route the collision to interpretation. Do not manufacture a winner. |
 | **Next-step class** | `name_ambiguity_and_route_to_interpretation` |
 
 ---
@@ -277,7 +288,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Comprehensibility](../core_06_rights_part_c.md#operative-steward-statement-comprehensibility) |
+| **Owner text** | [Article XXII-A](../core_06_rights_part_d.md#article-xxii-a-proportional-comprehensibility-right) |
+| **Next step** | Point at the existing card or the named home now. Do not send the reader on a scavenger hunt. |
 | **Next-step class** | `point_to_named_home_or_existing_card` |
 
 ---
@@ -289,7 +301,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Market structure](../core_01_c_stewardship_capacity_principles.md#operative-steward-statement-market-structure) |
+| **Owner text** | [Chapter One §13](../core_01_c_stewardship_capacity_principles.md#14-market-structure) |
+| **Next step** | Invalidate the nullifying threshold now. Restore review when the only door is closing. |
 | **Next-step class** | `invalidate_nullifying_threshold_and_restore_review` |
 
 <a id="worked-concentration-example"></a>
@@ -305,7 +318,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Article V-B](../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (no separate box; the Article text is the statement) |
+| **Owner text** | [Article V-B](../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) |
+| **Next step** | Compare inflows and outflows on dependent-systems maps and auditable resource-flow records under Article V-A as they stand now. Do not wait for a later allocation formula. |
 | **Next-step class** | `compare_mapped_flows_against_adequacy_failures` |
 
 <a id="worked-adequacy-screen"></a>
@@ -321,7 +335,8 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Delay](../core_06_rights_part_d.md#operative-steward-statement-delay) |
+| **Owner text** | [Article XXV-C](../core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) |
+| **Next step** | Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
 | **Next-step class** | `apply_tier_clock_then_existing_card` |
 
 <a id="worked-delay-example"></a>
@@ -335,4 +350,4 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 **Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these pointers.
 
-Numeric home for published tier outer bounds remains [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXV-C](../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Article XXIV-D](../core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks)); it does not create a slower clock.
+Numeric home for published tier outer bounds remains [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXV-C](../core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twelve §6.1 Emergency measures and continuation burden](../core_12_forum.md#61-emergency-measures-and-continuation-burden)); it does not create a slower clock.

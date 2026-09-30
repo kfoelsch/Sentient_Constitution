@@ -75,7 +75,7 @@ See: [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-mainte
 
 - **“We already have our own rules.”** This Constitution does not override applicable local, national, or international law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). Where used inside that framework, processes have to stay consistent with it. It is a companion measurement and challenge frame for systems that affect you, not a second state.
 
-- **“A sensor loan is just how we get seed now.”** Making next season’s food depend on giving up your data, selling only to them, or being unable to leave a buyer app is the lock-in pattern [Article XX-C](../../../core_06_rights_part_c.md#article-xx-c-anti-lock-in-rule) names. Ordinary trade with a real way to leave is not that pattern.
+- **“A sensor loan is just how we get seed now.”** Making next season’s food depend on giving up your data, selling only to them, or being unable to leave a buyer app is the lock-in pattern [Article XXI-C](../../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) names. Ordinary trade with a real way to leave is not that pattern.
 
 - **“I am not ‘Indigenous’ as a form.”** You do not have to take that label to use this page. This brief is for someone whose food and living come from land and water. It does not change the Rights Floor that applies to you. A project that touches your plot still has to ask in a way that can change the plan. When a community’s language, knowledge, or lasting tie to a place is actually at stake, those rules are located in the section on [Indigenous Continuity](../../../core_05_band_continuity.md#indigenous-continuity-constitutional).
 

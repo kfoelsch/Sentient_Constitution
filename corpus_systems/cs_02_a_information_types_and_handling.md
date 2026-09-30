@@ -25,7 +25,7 @@ Requirements and limitations scale proportionally with system classification and
 
 *In plain terms: Chapter Six Rights Floors need trustworthy data handling; CS-2 is the systems rulebook that makes typing, access defaults, integrity, identity self-ownership, and Class A/B/C continuity real.*
 
-**Sentient Constitution Chapter Six** (Articles **I**–**XXVI**; presentation **Parts A–D**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XV**, **XVI**, and **XXI**). CS-2 is the systems-layer implementation of those duties.
+**Sentient Constitution Chapter Six** (Articles **I**–**XXVI**; presentation **Parts A–E**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XV**, **XVI**, and **XXII**). CS-2 is the systems-layer implementation of those duties.
 
 CS-2 implements:
 
@@ -70,7 +70,7 @@ Identity systems must preserve **continuity** where desired, **separation** wher
 
 This subsection is foundational to continuity and exit under CS-2. It implements:
 - **Article II-E** (*Data Handling and Network Dependency*) and **Article II-F** (*Continuity and Operator Shutdown*)
-- **Article XX-A** (*Portability Rights*)
+- **Article XXI-A** (*Portability Rights*)
 - **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
 
 For **Class A**, **Class B**, and **Class C** systems, operators must **not** collect or retain continuity-critical sentient data in forms that cannot be exported, migrated, or transferred under disclosed continuity and export paths, except where **Necessity** requires:

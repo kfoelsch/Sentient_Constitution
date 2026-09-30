@@ -10,7 +10,7 @@
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XVI)](../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Eight, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Three-layer picture: [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Eight, or an OP annex as a fifth audit home.
 
 </details>
 
@@ -143,7 +143,7 @@ Audit when any of the following applies (often more than one):
 | System Classification Record audit | **CS-3** §7.3 |
 | System Data Types Record audit | **CS-2** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-3.4** |
-| Complexity / comprehensibility audits (systems profile) | **CS-6**; **Article XXI** |
+| Complexity / comprehensibility audits (systems profile) | **CS-6**; **Article XXII** |
 | Claim integrity and independent verification terms | **CJS-3.5** |
 | Institutional transparency and accessible challenge and service pathways | **CI-8** (read with **CI-7.3** where monitoring or escalation applies) |
 | Forum performance, backlog, publication, accessibility | **CF-11** |

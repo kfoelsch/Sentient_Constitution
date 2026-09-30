@@ -28,14 +28,6 @@
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-remedy"></a>
-> **Operative steward statement.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Principle: Chapter One §4.2 Correction and Remedy. Rights-Floor redress: Article XIII-B. Challenge: Article XIII-A. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
-
-</details>
-
 <br>
 
 *In plain terms: once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score.*
@@ -198,6 +190,8 @@ Forums supervise lawful implementation, challenge, interim relief, and timely mo
 
 A **standing lock** is a prevention and risk-reduction measure. It blocks or limits a named pathway while a verified violation remains unresolved or materially unremedied. Named pathways include trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, and **stakeholder-participation** pathways. It must identify the blocked named pathway, the risk it is meant to reduce, protected subjects or interests, corrective conditions, review route, and reassessment point.
 
+Detention, imprisonment, and other liberty restrictions are not standing locks. They are separate justice measures governed by the coercive or liberty-restricting safeguards in [§5.4 Special violation rules](#54-special-violation-rules). They are recorded with the same attachment fields as a lock and must meet the same needed, proportionate, and reviewable tests, plus full criminal-process or equivalent protections and explicit duration limits, review cadence, and restoration conditions.
+
 **Named-named-pathway distinction — governance-voting vs stakeholder-participation:**
 
 - **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
@@ -230,7 +224,7 @@ Where restorative pathways for a verified violation include public acknowledgmen
   - independently reviewable for voluntariness and authenticity.
 - Refusal to participate in public expression must not, by itself, increase baseline sanctions, widen a standing lock, or substitute for remedy or correction owed under [§4.1 Remedy and correction](#41-remedy-and-correction).
 - **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
-  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XX-B** (*Restriction Floors*) and [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection, remediation, or locks under [§4.1 Remedy and correction](#41-remedy-and-correction) and [§4.2 Prevention — general standing locks](#42-prevention--general-standing-locks), is non-compliant.
 - No format may impose any of the following beyond what is necessary for truthful accountability and proportionate remediation:
   - degrading treatment;
@@ -419,6 +413,11 @@ This rule applies [Chapter One §10.5 Duty to Resist](core_01_c_stewardship_capa
   - Full criminal-process or equivalent constitutional protections apply before the restriction.
   - These process protections apply whenever liberty is restricted; they do not by themselves create a conviction.
 - **Review route and reassessment:** the same process protections govern challenge, narrowing, and lifting; recurrence uncertainty and isolation from risk factors apply under [§5.1 Definition and attachment](#51-definition-and-attachment).
+- **Required imprisonment for verified violence:** Imprisonment is a liberty-restricting measure, not a standing lock. It is recorded with the same attachment fields as a lock ([§5.1 Definition and attachment](#51-definition-and-attachment)). Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. This implements the imprisonment floor in [**Article XX-B**](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*).
+  - This applies to sentients who refuse rehabilitation offered on fair terms, and where less-restrictive protective measures cannot satisfy material safety necessity.
+  - Imprisonment must satisfy the **Article XX-B** joint requirements, individualized-attribution rules, and challenge and appeal protections, and must carry the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers that **Article XX-B** requires of every justice measure.
+  - Substituting deprivation of life, or failing to impose imprisonment where this bullet requires it, is non-compliant.
+  - Imprisonment for verified anti-constitutional misconduct is specialized in [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*) and uses the same attachment fields.
 
 <a id="55-special-locks"></a>
 #### 5.5 Special locks
@@ -645,7 +644,7 @@ An applicable standing lock under [§4.2 Prevention — general standing locks](
 
 The standing system must **automatically** state the final standing effect for each named pathway once the earlier steps in [§2 Automatic integration, review, and continuity](#2-automatic-integration-review-and-continuity) are complete. That statement must list every open clearance and every restricted named pathway. No additional manual approval is required when verified inputs and published rules produce a determinate result. Contested, uncertain, novel, materially discretionary, or high-impact questions still assemble and route automatically, then go to authorized review under [§2 Automatic integration, review, and continuity](#2-automatic-integration-review-and-continuity).
 
-**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*).
+**Separate roles.** Automatic integration may use verified records, remedies, correction duties, locks, bars, clearances, and descriptors together. Each still has its own job, and none may do the work of another. Closer or automated scrutiny is not, by itself, a reason to impose a harsher restriction. Any restriction must be necessary, matched to the verified facts, backed by evidence, open to review, and consistent with **Article XX** (*Justice After Verified Violation*).
 
 The integration record must state the final effect separately for each affected named pathway:
 
@@ -697,7 +696,7 @@ This subsection sets out who may see named-pathway effects and what aggregation 
 
 This subsection sets out what the subject must be told when an effect attaches:
 
-- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and **Article XXI-A** (*Proportional Comprehensibility Right*), and must name:
+- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and **Article XXII-A** (*Proportional Comprehensibility Right*), and must name:
   - each affected named pathway;
   - what the subject may and may not do while the effect holds;
   - the corrective conditions and reassessment point;

@@ -13,7 +13,7 @@
 Use `python3 tools/corpus_lookup.py`. Do not open `id_resolver.json` for meaning — it embeds gloss. Locators point; source binds.
 
 1. **High-pressure or natural-language fact pattern** → `python3 tools/corpus_lookup.py route "QUERY"` or `door CASE_ID`
-   - Open the returned `card_path`, then verify the boxed operative steward statement at `operative_box.href`
+   - Open the returned `card_path` for the next step (process guidance), then read the binding owner text at `owners[0].href`; `steward_card.href` points back to the card
    - `apply-pack` hydrates owner plus each mandatory read-with (source spans; not gloss)
    - `retrieve "QUERY"` ranks `boundary_chunks.json` locators and source spans (token overlap; never gloss JSON); then `hydrate --file --start --end`. Vector embeddings are postponed indefinitely ([doc_architecture.md](../doc_architecture.md#retrieval-no-vector-embeddings)).
    - Do not treat card prose as a duty

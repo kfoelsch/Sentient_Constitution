@@ -12,7 +12,7 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 - **Ch 2–3:** [core_02_definition_structure.md](core_02_definition_structure.md)
 - **Ch 4:** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 - **Ch 5:** Part A compass — [core_05__definitions_home.md](core_05__definitions_home.md); band files — [core_05_band_oversight.md](core_05_band_oversight.md), [core_05_band_participation.md](core_05_band_participation.md), [core_05_band_accountability.md](core_05_band_accountability.md), [core_05_band_continuity.md](core_05_band_continuity.md), [core_05_band_integrative.md](core_05_band_integrative.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
-- **Ch 6:** [core_06_rights_part_a.md](core_06_rights_part_a.md) through [core_06_rights_part_d.md](core_06_rights_part_d.md)
+- **Ch 6:** [core_06_rights_part_a.md](core_06_rights_part_a.md) through [core_06_rights_part_e.md](core_06_rights_part_e.md)
 - **Ch 7:** [core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 - **Ch 8:** [core_09_standing_assessment.md](core_09_standing_assessment.md)
 - **Ch 9:** [core_10_standing_integration.md](core_10_standing_integration.md)
@@ -31,14 +31,26 @@ Article XIII-B is now **Right to Redress and Remedy** (`#article-xiii-b-right-to
 
 - [ ] **Translations.** All 134 files under `translations/` still carry the old XIII-A and XIII-B text and the old title (*Right to Challenge, Review, and Redress*). Each language's copy is internally consistent, so nothing is broken, but it no longer matches English. Update `core_06_rights_part_c.md` Articles XIII-A and XIII-B in each language, then the cites that point at XIII-B for challenge.
 
+### 2026-09-30 — Operative steward boxes removed from the core
+
+Supersedes the 2026-09-27 widget work below. The Owner / Forbidden move / Clock boxes are steward routing, not constitutional text, so they are gone from the core. Each Forbidden move was checked against its owning section (see `steward_box_review.md`): where the principle was already stated it was dropped, and the four gaps got one sentence each. The next step for each situation now lives on the steward cards (`implementation/STEWARD_ENTRY_DOORS.md`) and in `implementation/steward_owner_clock_index.json` (`steward_card`, replacing `operative_box`).
+
+- [x] **Remove all 15 boxes and their anchors.** Done 2026-09-30. The "Steward door (non-operative)" lines now point at the card.
+- [x] **Add the four sentences.** Article XIII-A (adopted implementation text cannot close challenge, review, or redress); Chapter Nine §3.1 (privacy and opacity are not a standing-measurement exemption); Chapter Twelve §6 anti-delay floor (a met throughput target is not timely while harm continues); Chapter Eight Part B §14.2 (the challenge path opens when the system first has stakeholders; pilots expected at every class).
+- [x] **Rework the lockstep audit, schema, and lookup tool.** The audit now diffs each card's owner pointer and next step against the index; `corpus_lookup.py` hydrates the owner text and the card (`door_owner`, `steward_card`) instead of the box.
+- [ ] **Translations.** Ten files under `translations/` still carry the boxes and the old Chapter Eight §14.2, XIII-A, Chapter Nine, and Chapter Twelve text.
+- [x] **Article V-B.** Done 2026-09-30: added the floor sentence that adequacy is judged on currently mapped flows and no allocation formula is a precondition; collapsed the certification-procedure bullets (verify, how, when) into a pointer to Chapter Eight §6. Article V-A done the same day: kept "What must be mapped", recast complete/current/auditable/backed-by-evidence as "What the maps must be", collapsed the when/verify/how bullets into one "How certification checks it" pointer to Chapter Eight §6, and pointed hiding-defect consequences to Chapter Eight §6 and §16.
+- [ ] **Chapter Ten §9 (optional).** Consider stating that evidence preservation does not wait for a filed case.
+- [ ] **Forbidden moves in the index.** `forbidden_move` and `conflict_rule` stay in the index only; the `door` command still omits them. Decide whether the cards should show them.
+
 ### 2026-09-27 — Move operative steward statements out of reader-facing text
 
-Operative steward statements (Owner / Forbidden move / Clock boxes) are steward routing content, not reader-facing constitutional text. Put each one in a collapsed widget (`<details>` with a blue "Operative steward statement" summary, the same pattern as the Trace and Definitions widgets), not in a bare blockquote in the article body. [Chapter One Part B](core_01_b_interaction_interpretation.md) already does this; use it as the model.
+*Superseded 2026-09-30: the boxes were removed.* Operative steward statements (Owner / Forbidden move / Clock boxes) are steward routing content, not reader-facing constitutional text. Put each one in a collapsed widget (`<details>` with a blue "Operative steward statement" summary, the same pattern as the Trace and Definitions widgets), not in a bare blockquote in the article body. [Chapter One Part B](core_01_b_interaction_interpretation.md) already does this; use it as the model.
 
 - [x] **Wrap every bare box in a widget.** Done 2026-09-27: all 16 boxes are now in collapsed widgets. Generated plain-terms, reader-accessibility, and boundary-chunk outputs were regenerated.
 - [x] **Keep the audit anchors.** Leave each `<a id="operative-steward-statement-…">` anchor and the `**Operative steward statement.**` text as they are, so `tools/steward_door_lockstep_audit.py` and the `implementation/steward_owner_clock_index.json` hrefs still resolve. Re-run the audit after the change.
 - [x] **Keep binding substance in the article.** When a box states something the article body does not (for example, the Contest rule that the bar is fixed now rather than later; the general rule that lower text cannot narrow the Rights Floor already lives in the Authority Stack), make sure the article body still carries it before the box goes behind a widget. Done 2026-09-27: reviewed all 16 boxes. Each applies rules stated in its owning section to a steward's next step; the boxes stay operative text inside their widgets, so collapsing them removes nothing binding. No additions needed.
-- [x] **Make the Steward door pointers consistent.** Make the "Steward door (non-operative)" pointer lines the same across doors, or move them into the same widget. Done 2026-09-27: removed the eleven same-unit pointers (the box now sits in the adjacent widget); the four cross-file pointers (Chapter One §9.1 → XXI-A, Chapter Five Auditability → XV, Chapter Five Cross-System Contribution → IV-B, Chapter Twelve §6 → XXV-C) share one format.
+- [x] **Make the Steward door pointers consistent.** Make the "Steward door (non-operative)" pointer lines the same across doors, or move them into the same widget. Done 2026-09-27: removed the eleven same-unit pointers (the box now sits in the adjacent widget); the four cross-file pointers (Chapter One §9.1 → XXII-A, Chapter Five Auditability → XV, Chapter Five Cross-System Contribution → IV-B, Chapter Twelve §6 → XXV-C) share one format.
 
 
 ### 2026-09-17 — Conceptual overview and corpus alignment follow-ups
