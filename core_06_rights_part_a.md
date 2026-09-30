@@ -405,7 +405,7 @@ This Article sets out when highest scrutiny applies to existential and ecologica
   - account for dependency concentration, coordination failure, environmental-precondition degradation, ecological recovery-capacity loss, and systemic lock-in;
   - where **Ecological Recovery Capacity** is materially implicated, assess whether the affected ecosystem or life-supporting system can sustain and regenerate itself under prevailing habitat conditions — by ecological function, connectivity, regenerative processes, and interdependence across the system as a whole, not by looking at one species, one local population, or one kind of organism on its own.
   
-  Checking boxes at the local level, showing a favorable cost-benefit estimate on paper, or securing a short-term gain does not satisfy this Article while credible paths to civilization-scale harm or irreversible ecological recovery loss remain open and not seriously addressed.
+  Checking boxes at the local level, showing a favorable cost-benefit estimate on paper, or securing a short-term gain does not satisfy this Article while credible paths to civilization-scale harm or irreversible ecological recovery loss remain open and not materially addressed.
 - **Burden and record:** Where the **Scrutiny trigger** is met, actors seeking authorization, continuation, or expansion bear the burden under [Chapter Four §1 Exclusive Enforcement and Burden Allocation](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) and must meet it under [highest scrutiny](core_05_band_oversight.md#highest-scrutiny). Uncertainty, contested evidence, or low estimated probability does not discharge the burden. They must show, by evidence meeting [Chapter Four §5 Compliance Evidence Standard](core_04_burden_traceability_verification.md#5-compliance-evidence-standard), that:
   - for each materially safer alternative, they either adopted it into the activity under review or showed that it is not reasonably effective or not available. Relying on a record that alternatives were considered, without that showing, is non-compliant;
   - mitigation and interruption measures are proportionate to the scale of possible harm;
@@ -827,7 +827,7 @@ This Article sets out the right to care, the rules that keep it from being denie
   - processing and substrate maintenance for synthetic sentients.
   
   This right sits alongside the food, water, and shelter rights in [**Article III-A**](#article-iii-a-survival) (*Survival*).
-- **No denial through the back door:** Care may not be denied or seriously degraded in ways that defeat this right — for example through:
+- **No denial through the back door:** Care may not be denied or materially degraded in ways that defeat this right — for example through:
   - insurance, allocation, or eligibility rules;
   - leaving providers out of a network;
   - sending someone to services that cannot meet their needs;
@@ -1130,7 +1130,7 @@ This Article sets out the floors for lifelong learning and for transparent, cont
   - transition support.
   
   Those opportunities must prevent agency from being nullified by imposed obsolescence or lock-in. They must also include equitable stewardship-development pathways into constitutionally relevant stewardship responsibilities under **Chapter Thirteen, section 5** — *Authorized Roles, Competency Development, and Contribution*.
-- **Transparency and contestability in learning systems:** When a school, platform, or training system can seriously affect a sentient's future — through grades, rankings, recommendations, or placement — sentients must be able to see how those decisions are made, have them checked, and challenge them if they are wrong.
+- **Transparency and contestability in learning systems:** When a school, platform, or training system can materially affect a sentient's future — through grades, rankings, recommendations, or placement — sentients must be able to see how those decisions are made, have them checked, and challenge them if they are wrong.
 
   Those systems cannot hide behind secret rules that cannot be reviewed. They also cannot pressure or trick sentients into choices they would not make freely.
 

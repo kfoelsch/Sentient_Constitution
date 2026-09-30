@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-27T10:12:39+00:00",
+  "generated_at": "2026-09-30T06:34:51+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -725,7 +725,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 74,
+            "count": 77,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -811,7 +811,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 132,
+            "count": 150,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -841,12 +841,21 @@
               "#necessity-c",
               "#proportionality",
               "#proportionality-a",
-              "#proportionality-c"
+              "#proportionality-c",
+              "#redress-and-remediation-constitutional",
+              "#redress-and-remediation-constitutional-a",
+              "#redress-and-remediation-constitutional-c",
+              "#remedy-system-constitutional",
+              "#remedy-system-constitutional-a",
+              "#remedy-system-constitutional-c",
+              "#timely-resolution-constitutional",
+              "#timely-resolution-constitutional-a",
+              "#timely-resolution-constitutional-c"
             ]
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 129,
+            "count": 130,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -1023,7 +1032,7 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 42,
+            "count": 47,
             "anchors": [
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xiii-right-to-reliable-and-trustworthy-systems",
@@ -1071,9 +1080,10 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
-              "#3-descriptor-integration-and-attachment-normalization"
+              "#3-descriptor-integration-and-attachment-normalization",
+              "#9-enforcement-realism-and-remedy-systems"
             ]
           },
           {
@@ -1100,6 +1110,11 @@
           {
             "file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
             "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+            "count": 2,
             "anchors": []
           },
           {
@@ -1465,7 +1480,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 27,
+            "count": 30,
             "anchors": [
               "#1-purpose-and-role",
               "#2-foundational-objective-wellbeing",
@@ -1473,6 +1488,7 @@
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
               "#4-system-stability-enabler-trust-coordination-integrity",
+              "#42-correction-and-remedy",
               "#5-freedom-bounded-agency",
               "#531-aligned-self-organization"
             ]
@@ -1556,7 +1572,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 345,
+            "count": 364,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1583,6 +1599,9 @@
               "#game-of-chance",
               "#game-of-chance-a",
               "#game-of-chance-c",
+              "#good-faith",
+              "#good-faith-a",
+              "#good-faith-c",
               "#governance",
               "#governance-a",
               "#governance-c",
@@ -1618,7 +1637,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 424,
+            "count": 429,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -1690,7 +1709,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 56,
+            "count": 57,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -1800,8 +1819,9 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
+              "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xiii-d-incentive-alignment-constraint",
               "#article-xix-standing-and-participation-status",
               "#article-xv-info-sphere-integrity",
@@ -1861,7 +1881,7 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 14,
+            "count": 12,
             "anchors": [
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#54-special-violation-rules",
@@ -1932,7 +1952,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 3,
+            "count": 5,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
@@ -6195,10 +6215,11 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
               "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-participation-and-stewardship-duty"
+              "#34-plain-language-accessibility-participation-and-stewardship-duty",
+              "#42-correction-and-remedy"
             ]
           },
           {
@@ -6210,9 +6231,10 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#101-shared-stewardship-standard"
+              "#101-shared-stewardship-standard",
+              "#105-duty-to-resist"
             ]
           },
           {

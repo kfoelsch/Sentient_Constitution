@@ -74,7 +74,7 @@ Those are failed tests. Then run [instruction received / refuse / document / esc
 <a id="shared-refusal-and-logging"></a>
 ## Shared refusal and logging
 
-**Sequence owner:** [Chapter Ten §5.4 Duty to resist](../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
+**Sequence owner:** [Chapter One §10.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
 
 One filled-in instance: [worked refusal log](#worked-refusal-log) (synthetic; process support).
 
@@ -229,7 +229,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Unlawful instruction](../core_10_standing_integration.md#operative-steward-statement-unlawful-instruction) |
+| **Operative statement** | [Unlawful instruction](../core_01_c_stewardship_capacity_principles.md#operative-steward-statement-unlawful-instruction) |
 | **Next-step class** | `refuse_unconstitutional_instruction_and_preserve_contest_path` |
 
 ---

@@ -37,7 +37,7 @@
 Chapter Ten is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Nine descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
 
 <a id="operative-steward-statement-remedy"></a>
-> **Operative steward statement.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Rights-Floor challenge and redress: Article XIII-B. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
+> **Operative steward statement.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Principle: Chapter One §4.2 Correction and Remedy. Rights-Floor challenge and redress: Article XIII-B. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
 
 Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) when converting verified Chapter Nine standing records into consequences.
 <a id="1-chapter-nine-records-do-not-change"></a>
@@ -374,18 +374,14 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
 <a id="54-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 **Duty to resist.**
 
-<a id="operative-steward-statement-unlawful-instruction"></a>
-> **Operative steward statement.** **Owner:** Chapter Ten §5.4 Duty to resist. Shared standard: Chapter One §10.1. Contest floor: Article XIII-B. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
-
-**Named sequence.** Instruction received → refuse → document → escalate. Log the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) minimum inspectable-action set. Same sequence for both kinds of steward. Steward pointer (process support; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+This rule applies [Chapter One §10.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#105-duty-to-resist) to standing effects. The duty, who it binds, and its sequence (instruction received → refuse → document → escalate) are stated there. The refusal is logged as the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action*) minimum inspectable-action set. Steward pointer (process support; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 - **Named pathway / finding:**
-  - No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct creates a valid compliance defense.
-  - Issuing, transmitting, ratifying, or materially enforcing such an instruction is independently measurable violation conduct.
-  - A principal’s statement that they will take responsibility does not transfer the duty or create a valid compliance defense.
+  - Issuing, transmitting, ratifying, or materially enforcing an instruction that requires unlawful or unconstitutional conduct is independently measurable violation conduct.
+  - Complying with such an instruction, where the duty-holder had material capacity to resist, is violation conduct; neither the instruction nor a principal's offer to take responsibility excuses it.
 - **Risk:** continuation of unlawful or unconstitutional harm through obedience, chain-of-command, or contractual cover.
 - **Protected subjects or interests:** those who would be harmed by compliance, and the integrity of lawful named pathways.
-- **Corrective conditions:** whoever exercises material stewardship or operational authority and has material capacity to refuse, contest, document, or escalate — including human operators and AI stewards under [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) — must do so proportionately and in good faith and must use protected-reporting and forum pathways where applicable. This duty is not an AI-only test.
+- **Corrective conditions:** the same for human operators and AI stewards under [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard); this rule is not an AI-only test.
 - **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§5.1 Definition and attachment](#51-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Nine Contribution and Violation axes for both kinds of steward.
 
 <a id="54-collective-accountability-and-acquiescent-participation"></a>
@@ -737,9 +733,9 @@ Archival is not deletion. [Evidence Preservation](core_05_band_oversight.md#evid
 <a id="9-enforcement-realism-and-remedy-systems"></a>
 ### 9. Enforcement realism and remedy systems
 
-*In plain terms: standing consequences and redress count only when real institutions can deliver them. This section is the constitutional floor for that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
+*In plain terms: standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §4.2](core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
 
-Chapter Ten owns the constitutional floor that Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XIII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
+Chapter Ten applies [Chapter One §4.2](core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) to standing effects: Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XIII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 

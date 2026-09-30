@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-09-27T10:12:41+00:00",
+  "generated_at": "2026-09-30T06:34:52+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -5865,6 +5865,10 @@
       {
         "avoid": "right / rights (generic Chapter Six baseline protection sense)",
         "prefer": "Rights Floor / Rights Floors when referring to the generic constitutional baseline protections that Chapter Six establishes; retain specific named rights such as Right to Challenge, Review, and Redress, right to privacy, challenge rights, rights collision, and similar established compounds"
+      },
+      {
+        "avoid": "seriously",
+        "prefer": "materially / material (the defined Materiality threshold); do not use an intensity adverb in place of the defined threshold"
       }
     ]
   }

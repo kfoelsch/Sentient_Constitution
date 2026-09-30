@@ -318,7 +318,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 
 <br>
 
-*In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must take seriously. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.*
+*In plain terms: life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must treat as material. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.*
 
 - **What it is**
   - **In scope:** Life-supporting natural systems — including Earth's biosphere as described in **Article I-A** (*Environmental Preconditions and Ecological Integrity*) — have continuity and integrity interests of their own. Interpretation and governance must weigh those interests alongside sentient interests, and must not treat natural systems only as raw materials to extract. Those continuity and integrity interests may be brought to an Environment forum by a published representative acting for the system, not only as a private sentient harm claim.
@@ -3186,7 +3186,7 @@ See **Joint invocation and satisfaction**.
 
 <br>
 
-*In plain terms: hard content is expression that is sexual or intimate, is about violence, or could seriously harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.*
+*In plain terms: hard content is expression that is sexual or intimate, is about violence, or could materially harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.*
 
 - **What it is**
   - **In scope:** [Expression](core_05_band_participation.md#expression-constitutional), communicated among sentients with capacity, that falls into one or more of three categories:
