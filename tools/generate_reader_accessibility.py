@@ -42,6 +42,7 @@ RIGHTS_FILES = (
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
+    "core_06_rights_part_e.md",
 )
 ARTICLE_TITLE = re.compile(r"^Article\s+[IVXLCDM]+(?:-[A-Z])?\b")
 GENERATED_DIR = "doc_architecture/generated"

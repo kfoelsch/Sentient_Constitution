@@ -53,7 +53,7 @@ See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-e
 - **Today:** The tools you bought cannot be repaired except through the vendor. “Features” exist mainly to make switching painful. A new scheduling or lending system is being pushed as “modernization.”
 - **With this Constitution:** Barriers whose primary effect is to block exit, substitution, or challenge are violations, not strategy. Repair and independent servicing have a floor for covered products.
 
-See: [Article XX-C](../../../core_06_rights_part_c.md#article-xx-c-anti-lock-in-rule); [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing).
+See: [Article XXI-C](../../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule); [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-maintenance-and-independent-servicing).
 
 **Duties scale with what is actually on the line.**
 - **Today:** The same theater is demanded of a tiny shop and a city-scale deploy.

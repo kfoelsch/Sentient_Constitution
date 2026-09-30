@@ -54,7 +54,7 @@ Constitutional tracing: This file specifies implementation-file-level funding st
 
 **CS-8** governs how allocation adapts when conditions change. This file specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. It is **not** a second copy of Chapter Five.
 
-Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles V, XII, XIII, XVI-A, XIX, XXII, and XXIV** where applicable.
+Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles V, XII, XIII, XVI-A, XIX, XX, and XXIII** where applicable.
 
 <a id="cs-9-2-principles-of-funding"></a>
 ## CS-9.2 Principles of funding
@@ -76,7 +76,7 @@ Mechanisms must:
 
 *In plain terms: Systems that lean on shared infrastructure must contribute back in proportion, and must disclose what they depend on.*
 
-Interconnected systems must meet **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) and remain subject to **Article XVI-A** (*Auditability and Observable Evidence*), **Article XXII-A** (*Diagnostic Rigor and Causal Attribution*), and **Article XIX-A** (*Standing Distinction*).
+Interconnected systems must meet **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) and remain subject to **Article XVI-A** (*Auditability and Observable Evidence*), **Article XXIII-A** (*Diagnostic Rigor and Causal Attribution*), and **Article XIX-A** (*Standing Distinction*).
 
 Funding structures must:
 - account for all upstream and downstream dependencies;
@@ -124,7 +124,7 @@ Systems must maintain a documented representation of their material dependencies
 
 Implement **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article XVI-A** (*Auditability and Observable Evidence*).
 
-Opacity or unverifiable flows are subject to review under **Article XVI-A** (*Auditability and Observable Evidence*), **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), and **Article XXIV-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
+Opacity or unverifiable flows are subject to review under **Article XVI-A** (*Auditability and Observable Evidence*), **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), and **Article XX-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
 
 Funding systems must:
 - provide clear, auditable records of resource flows;
@@ -217,7 +217,7 @@ Funding systems are subject to continuous evaluation and refinement under **Arti
 
 Models that fail to support sustainability, produce inequitable outcomes, or undermine constitutional alignment will be subject to challenge, revision, and replacement.
 
-All funding models and allocation structures must undergo **periodic reauthorization** at intervals proportionate to system criticality (including system class where assigned), scale, and stability. Failure to reauthorize may trigger review under **Article XVI-A** (*Auditability and Observable Evidence*), **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), and **Article XXIV-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
+All funding models and allocation structures must undergo **periodic reauthorization** at intervals proportionate to system criticality (including system class where assigned), scale, and stability. Failure to reauthorize may trigger review under **Article XVI-A** (*Auditability and Observable Evidence*), **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), and **Article XX-A** (*Justice Objective and Scope*) where auditability, challenge, or justice review is implicated.
 
 **The reauthorization processes must**:
 - evaluate alignment with constitutional principles;
@@ -228,7 +228,7 @@ Reauthorization processes may be initiated by system participants, oversight bod
 
 **If reauthorization is not completed within the expected interval**, **the existing model remains temporarily in effect**.
 
-**A** review is automatically triggered under **Article XVI-A** (*Auditability and Observable Evidence*) and **Article XXII-A** (*Diagnostic Rigor and Causal Attribution*).
+**A** review is automatically triggered under **Article XVI-A** (*Auditability and Observable Evidence*) and **Article XXIII-A** (*Diagnostic Rigor and Causal Attribution*).
 
 **A** transition process must be initiated within a reasonable period proportional to system criticality, including system class where assigned.
 
@@ -254,7 +254,7 @@ One such reference model includes:
 - a portion allocated to broader ecosystem development and constitutional project funding.
 
 **Default funding models must**:
-- remain easy to understand and verify (**Article XXI-A** (*Proportional Comprehensibility Right*) and **Article XVI-A** (*Auditability and Observable Evidence*));
+- remain easy to understand and verify (**Article XXII-A** (*Proportional Comprehensibility Right*) and **Article XVI-A** (*Auditability and Observable Evidence*));
 - be disclosed transparently;
 - remain subject to modification through stakeholder deliberation (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies).
 
@@ -309,7 +309,7 @@ Systems that operate at higher layers (e.g., applications, tools, creative syste
 
 *In plain terms: Those affected by allocation decisions get to review and change them, with heightened scrutiny where stability or security is at stake.*
 
-Allocation models are subject to participatory oversight under **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and must remain understandable at a proportionate level under **Article XXI-A** (*Proportional Comprehensibility Right*) where interfaces and models are materially impactful. Where funding decisions materially affect system stability, security, or foundational requirements, such decisions must be evaluated with heightened scrutiny proportional to system criticality, including system class where assigned.
+Allocation models are subject to participatory oversight under **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and must remain understandable at a proportionate level under **Article XXII-A** (*Proportional Comprehensibility Right*) where interfaces and models are materially impactful. Where funding decisions materially affect system stability, security, or foundational requirements, such decisions must be evaluated with heightened scrutiny proportional to system criticality, including system class where assigned.
 
 **Stakeholders have the authority to** **review and modify allocation structures**. They may **evaluate fairness and effectiveness**. They may **redirect funding in response to changing needs**.
 
@@ -339,7 +339,7 @@ No minimum participation threshold is required to initiate review, though outcom
 **Challenges must**:
 - be documented and supported by evidence where feasible;
 - remain subject to audit and evaluation under **Article XVI-A** (*Auditability and Observable Evidence*);
-- be resolved through participatory processes (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, Article XXIV-A** (*Justice Objective and Scope*)** (justice objective and review scope).
+- be resolved through participatory processes (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, Article XX-A** (*Justice Objective and Scope*)** (justice objective and review scope).
 
 <a id="cs-9-18-due-process-in-funding-changes"></a>
 ## CS-9.18 Due process in funding changes

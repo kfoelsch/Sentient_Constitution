@@ -46,6 +46,7 @@ SIMPLE_RENAMES = {
     "core_06_rights_part_b.md": "core_06_rights_part_b.md",
     "core_06_rights_part_c.md": "core_06_rights_part_c.md",
     "core_06_rights_part_d.md": "core_06_rights_part_d.md",
+    "core_06_rights_part_e.md": "core_06_rights_part_e.md",
     "core_08_system_alignment_certification.md": (
         "core_08_system_alignment_certification.md"
     ),
@@ -97,6 +98,7 @@ NEW_CORE_FILES = """CORE_FILES = (
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
+    "core_06_rights_part_e.md",
     "core_13_governance.md",
     "core_14_non_regression.md",
     "core_15_expansion_supremacy.md",
@@ -138,6 +140,7 @@ NEW_CORE_CHAIN = """CORE_CHAIN = (
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
+    "core_06_rights_part_e.md",
     "core_13_governance.md",
     "core_14_non_regression.md",
     "core_15_expansion_supremacy.md",

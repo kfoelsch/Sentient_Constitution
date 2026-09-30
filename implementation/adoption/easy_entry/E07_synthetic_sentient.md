@@ -65,7 +65,7 @@ See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md
 - **Today:** No score, or a low score, is treated as not counting.
 - **With this Constitution:** Dignity is not a trust score. Accusations are not findings. Having no record is the ordinary state.
 
-See: [Article XIX-A](../../../core_06_rights_part_c.md#article-xix-a-standing-distinction); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
+See: [Article XIX-A](../../../core_06_rights_part_d.md#article-xix-a-standing-distinction); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
 
 ## What you might reasonably object to
 

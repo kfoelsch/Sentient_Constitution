@@ -27,11 +27,11 @@
       },
       "rights_floor": {
         "label": "Article XXV-C",
-        "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+        "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
-        "label": "Article XXIV-D restore-challenge clocks",
-        "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
+        "label": "Chapter Twelve §6.1 restore-challenge clocks",
+        "href": "core_12_forum.md#61-emergency-measures-and-continuation-burden"
       },
       "tiers": {
         "A": "one week",
@@ -217,12 +217,12 @@
       "fact_pattern": "A continuity incident needs rapid containment. Operators want to skip notice and challenge permanently.",
       "owners": [
         {
-          "label": "Article XXIV-D",
-          "href": "core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden"
+          "label": "Chapter Twelve §6.1",
+          "href": "core_12_forum.md#61-emergency-measures-and-continuation-burden"
         },
         {
-          "label": "Article XXIV-D restore-challenge clocks",
-          "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
+          "label": "Chapter Twelve §6 tier outer bounds",
+          "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -234,8 +234,8 @@
         "family": "article_xxiv_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Article XXIV-D restore-challenge clocks",
-            "href": "core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks"
+            "label": "Chapter Twelve §6.1 restore-challenge clocks",
+            "href": "core_12_forum.md#61-emergency-measures-and-continuation-burden"
           },
           {
             "label": "Chapter Twelve §6",
@@ -243,7 +243,7 @@
           },
           {
             "label": "Article XXV-C",
-            "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+            "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -254,7 +254,7 @@
       ],
       "operative_box": {
         "label": "Operative steward statement — Emergency",
-        "href": "core_06_rights_part_d.md#operative-steward-statement-emergency"
+        "href": "core_12_forum.md#operative-steward-statement-emergency"
       }
     },
     {
@@ -495,8 +495,8 @@
           "href": "core_01_b_interaction_interpretation.md#83-ambiguity-resolution"
         },
         {
-          "label": "Article XXIII",
-          "href": "core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
+          "label": "Article XXIV",
+          "href": "core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
         }
       ],
       "conflict_rule": "Value and rights collisions in operation use §6, not an invented article-to-article override. Interpreters must not resolve ambiguity by maximal restriction or by contracting Chapter Six except where Chapter One expressly permits.",
@@ -521,8 +521,8 @@
       "fact_pattern": "An affected sentient or a tired steward cannot find the home. Specialist-only surfaces or hop count are being used as the next step.",
       "owners": [
         {
-          "label": "Article XXI-A",
-          "href": "core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right"
+          "label": "Article XXII-A",
+          "href": "core_06_rights_part_d.md#article-xxii-a-proportional-comprehensibility-right"
         },
         {
           "label": "Chapter One §9.2 Distributed Understanding",
@@ -540,7 +540,7 @@
       "eval_scenario_ids": [],
       "operative_box": {
         "label": "Operative steward statement — Comprehensibility",
-        "href": "core_06_rights_part_c.md#operative-steward-statement-comprehensibility"
+        "href": "core_06_rights_part_d.md#operative-steward-statement-comprehensibility"
       }
     },
     {
@@ -626,7 +626,7 @@
       "owners": [
         {
           "label": "Article XXV-C",
-          "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+          "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
         },
         {
           "label": "Chapter Twelve §6",
@@ -650,7 +650,7 @@
           },
           {
             "label": "Article XXV-C",
-            "href": "core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+            "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -658,7 +658,7 @@
       "eval_scenario_ids": [],
       "operative_box": {
         "label": "Operative steward statement — Delay",
-        "href": "core_06_rights_part_d.md#operative-steward-statement-delay"
+        "href": "core_06_rights_part_e.md#operative-steward-statement-delay"
       }
     }
   ]

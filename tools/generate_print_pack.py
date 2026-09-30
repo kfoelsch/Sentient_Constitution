@@ -91,7 +91,8 @@ def render_pack(root: Path) -> str:
             "[part A](../../core_06_rights_part_a.md), "
             "[part B](../../core_06_rights_part_b.md), "
             "[part C](../../core_06_rights_part_c.md), "
-            "[part D](../../core_06_rights_part_d.md).",
+            "[part D](../../core_06_rights_part_d.md), "
+            "[part E](../../core_06_rights_part_e.md).",
             "",
         ]
     )

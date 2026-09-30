@@ -91,6 +91,7 @@ CH6_RIGHTS: tuple[str, ...] = (
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
+    "core_06_rights_part_e.md",
 )
 
 CH7_PARTS: tuple[str, ...] = (

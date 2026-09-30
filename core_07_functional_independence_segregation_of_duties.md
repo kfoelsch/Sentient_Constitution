@@ -173,7 +173,7 @@ The functional four-seat floor applies at every class. The class-scaled question
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#111-governance-as-authorized-structure); [Article XXIII](core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards).
+- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#111-governance-as-authorized-structure); [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
 - Downstream: [§4](#4-published-placement-vacancy-and-substitution); [§7](#7-act-records-attributable-handoffs-and-wrong-seat-routing); Chapter Eight certification component roles; Chapter Nine record custody; Chapter Twelve forum anti-self-judging.
 - Read with: [Material Control Line](core_05_band_accountability.md#material-control-line); [CI-5](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) and [CF-7](corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) for operational conflict and anti-self-judging safeguards.
 
@@ -265,7 +265,7 @@ Any departure for Class C or Class B must satisfy this section's necessity, prop
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-four-seat-constitutional-floor); [§5](#5-proportional-scaling-and-merged-hosting); [Article XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden); [default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture).
+- Upstream: [§2](#2-four-seat-constitutional-floor); [§5](#5-proportional-scaling-and-merged-hosting); [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden); [default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
 - Read with: [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [CI-4.6 containment and release-control seats](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 

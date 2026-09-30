@@ -102,7 +102,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Falsifier:** If affected sentients could be governed without voice, challenge, or exit, scaled to material stake; or if more specific adopted implementation text could permanently bar challenge for convenience (the Article XII-B operative steward statement forbids that).
 
-**Failure-mode check:** **Exclusion.** Partly addressed, not closed. Article XII-B requires practical access to review, audit, correction, and a real Remedy System — not a paper pathway. Distributed understanding and Article XX exist so complexity is not an excuse to hide what matters. The instrument itself is still a specialist object. A sentient who cannot navigate the hop count does not have the same practical contest path as a steward who can. That is a real exclusion risk the text names and does not fully solve.
+**Failure-mode check:** **Exclusion.** Partly addressed, not closed. Article XII-B requires practical access to review, audit, correction, and a real Remedy System — not a paper pathway. Distributed understanding and Article XXI exist so complexity is not an excuse to hide what matters. The instrument itself is still a specialist object. A sentient who cannot navigate the hop count does not have the same practical contest path as a steward who can. That is a real exclusion risk the text names and does not fully solve.
 
 **Notes:** I am not saying the participation doors are missing. They are named. Mixed is the finding because “can they take part” is a capacity question, and the instrument’s own density plus the pre-adoption absence of remedy organs makes capacity uneven. A thinner stub does not solve this either; it just does not claim the doors.
 

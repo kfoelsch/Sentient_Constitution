@@ -143,7 +143,7 @@ Audit when any of the following applies (often more than one):
 | System Classification Record audit | **CS-3** §7.3 |
 | System Data Types Record audit | **CS-2** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-3.4** |
-| Complexity / comprehensibility audits (systems profile) | **CS-6**; **Article XXI** |
+| Complexity / comprehensibility audits (systems profile) | **CS-6**; **Article XXII** |
 | Claim integrity and independent verification terms | **CJS-3.5** |
 | Institutional transparency and accessible challenge and service pathways | **CI-8** (read with **CI-7.3** where monitoring or escalation applies) |
 | Forum performance, backlog, publication, accessibility | **CF-11** |

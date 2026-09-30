@@ -161,7 +161,7 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 
 <br>
 
-*In plain terms: **CI-14.3** is the operational half of **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*).*
+*In plain terms: **CI-14.3** is the operational half of **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XX-B** (*Restriction Floors*).*
 
 **Constitutional home:** **Chapter Six**, **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
@@ -183,7 +183,7 @@ A **documented transition plan** under **Article XXVII-A** (*Phased Adoption and
 
 **Notice and contest:** Prompt notice, stated reasons, and a practicable contest path must be provided as soon as feasible consistent with harm prevention and evidence integrity.
 
-**Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) is judged under remedial standards. A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*) as stated in **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
+**Remedial vs. restrictive standards:** **Remedial containment** to stop harm, restore shared integrity, or preserve evidence under [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation) is judged under remedial standards. A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XX-B** (*Restriction Floors*) as stated in **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
 **Anti-pretext safeguards:** Institutions must maintain safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles VI-C** and **V-B** and [Substantive Fairness](../core_05_band_participation.md#substantive-fairness-constitutional).
 
@@ -212,7 +212,7 @@ Time-bounded, published incentives for **good-faith voluntary turnover** or **ve
 
 **Implementation custody (local publication required)**
 
-Each institution in scope must publish local procedures for the following, and must **not** narrow **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XXIV-B** (*Non-Trivial Restriction, Restitution, and Restorative-Accountability Constraints*) and **Article XXIV-C** (*Least-Restrictive and Time-Bounded Rule*) meaning:
+Each institution in scope must publish local procedures for the following, and must **not** narrow **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XX-B** (*Restriction Floors*) meaning:
 
 - triggers;
 - valuation;

@@ -101,6 +101,7 @@ CONSUMERS = [
     "core_06_rights_part_b.md",
     "core_06_rights_part_c.md",
     "core_06_rights_part_d.md",
+    "core_06_rights_part_e.md",
 ]
 
 # Headings that are cluster parents without direct O/E/C body. The audit does

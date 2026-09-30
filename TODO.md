@@ -12,7 +12,7 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 - **Ch 2–3:** [core_02_definition_structure.md](core_02_definition_structure.md)
 - **Ch 4:** [core_04_burden_traceability_verification.md](core_04_burden_traceability_verification.md)
 - **Ch 5:** Part A compass — [core_05__definitions_home.md](core_05__definitions_home.md); band files — [core_05_band_oversight.md](core_05_band_oversight.md), [core_05_band_participation.md](core_05_band_participation.md), [core_05_band_accountability.md](core_05_band_accountability.md), [core_05_band_continuity.md](core_05_band_continuity.md), [core_05_band_integrative.md](core_05_band_integrative.md) (retired Part B/C → [archive/core_ch5_retired/](archive/core_ch5_retired/README.md))
-- **Ch 6:** [core_06_rights_part_a.md](core_06_rights_part_a.md) through [core_06_rights_part_d.md](core_06_rights_part_d.md)
+- **Ch 6:** [core_06_rights_part_a.md](core_06_rights_part_a.md) through [core_06_rights_part_e.md](core_06_rights_part_e.md)
 - **Ch 7:** [core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
 - **Ch 8:** [core_09_standing_assessment.md](core_09_standing_assessment.md)
 - **Ch 9:** [core_10_standing_integration.md](core_10_standing_integration.md)
@@ -38,7 +38,7 @@ Operative steward statements (Owner / Forbidden move / Clock boxes) are steward 
 - [x] **Wrap every bare box in a widget.** Done 2026-09-27: all 16 boxes are now in collapsed widgets. Generated plain-terms, reader-accessibility, and boundary-chunk outputs were regenerated.
 - [x] **Keep the audit anchors.** Leave each `<a id="operative-steward-statement-…">` anchor and the `**Operative steward statement.**` text as they are, so `tools/steward_door_lockstep_audit.py` and the `implementation/steward_owner_clock_index.json` hrefs still resolve. Re-run the audit after the change.
 - [x] **Keep binding substance in the article.** When a box states something the article body does not (for example, the Contest rule that the bar is fixed now rather than later; the general rule that lower text cannot narrow the Rights Floor already lives in the Authority Stack), make sure the article body still carries it before the box goes behind a widget. Done 2026-09-27: reviewed all 16 boxes. Each applies rules stated in its owning section to a steward's next step; the boxes stay operative text inside their widgets, so collapsing them removes nothing binding. No additions needed.
-- [x] **Make the Steward door pointers consistent.** Make the "Steward door (non-operative)" pointer lines the same across doors, or move them into the same widget. Done 2026-09-27: removed the eleven same-unit pointers (the box now sits in the adjacent widget); the four cross-file pointers (Chapter One §9.1 → XXI-A, Chapter Five Auditability → XV, Chapter Five Cross-System Contribution → IV-B, Chapter Twelve §6 → XXV-C) share one format.
+- [x] **Make the Steward door pointers consistent.** Make the "Steward door (non-operative)" pointer lines the same across doors, or move them into the same widget. Done 2026-09-27: removed the eleven same-unit pointers (the box now sits in the adjacent widget); the four cross-file pointers (Chapter One §9.1 → XXII-A, Chapter Five Auditability → XV, Chapter Five Cross-System Contribution → IV-B, Chapter Twelve §6 → XXV-C) share one format.
 
 
 ### 2026-09-17 — Conceptual overview and corpus alignment follow-ups

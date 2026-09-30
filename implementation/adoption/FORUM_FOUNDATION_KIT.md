@@ -70,7 +70,7 @@ This kit also does **not**:
   - Do not invent a two-party or *n*-party “forum” as ceremony.
   - Community governance bodies are not a seventh forum family ([Chapter Twelve §4.1](../../core_12_forum.md#41-sentient-forums)).
   - An intake triage body is a family’s first-touch desk. It is not a separate constitutional forum family ([Chapter Twelve §2](../../core_12_forum.md#2-default-venue-and-primary-stakes)).
-  - A standing score is not a verdict on whether someone is a sentient ([Article XIX-A](../../core_06_rights_part_c.md#article-xix-a-standing-distinction)).
+  - A standing score is not a verdict on whether someone is a sentient ([Article XIX-A](../../core_06_rights_part_d.md#article-xix-a-standing-distinction)).
   - Having a voice inside a body that already hears disputes is not the same as being authorized to constitute that body — and authorization does not wipe the voice, challenge, and fair-process duties owed to people the body affects. [Preamble §3.3](../../core_00_preamble.md#33-governance-layers) names those two jobs **Constitutional Contract Layer** and **Stakeholder System Participation**.
 - **Finish the public edition**
   - This corpus is still **pre-release**. Using this kit does not publish it ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md)).
@@ -161,7 +161,7 @@ Advancement from a draft to a live forum structure must **not** rest on elapsed 
 | **Appointment independence (Track B)** | **Integrity**, **Constitutional**, and **Environment** forums, and **Technical Forum Domains** when they hear sentience-status adjudication, use published, contested, rotatable appointment or an equivalent independence check ([Chapter Twelve §1](../../core_12_forum.md#1-purpose-and-role--participation-architecture); [Chapter Thirteen §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)). | Founding crew self-appointment to those benches. |
 | **Remedy capacity** | Practical capacity to deliver challenge and redress ([Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems)). | Named routes with no capacity. |
 | **No self-appointment** | Effects that bind others, certify, or decide merits use the separate lawful authority assigned by this Constitution ([Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)). | “We founded it, so we hear it.” |
-| **Forum boundary** | Nobody is treating a filed case, intake note, or standing score as sentience status or as a standing record by itself. | Using this map to decide who counts ([Article XIX-A](../../core_06_rights_part_c.md#article-xix-a-standing-distinction)). |
+| **Forum boundary** | Nobody is treating a filed case, intake note, or standing score as sentience status or as a standing record by itself. | Using this map to decide who counts ([Article XIX-A](../../core_06_rights_part_d.md#article-xix-a-standing-distinction)). |
 
 Fail any row: attach the [non-forum banner](#10-non-forum-banner). Ordinary cooperation may continue as operations-guide use plus declarations.
 
@@ -397,7 +397,7 @@ A live CF-3.2 map is still not Chapter Sixteen adoption, not CS-10 phase entry, 
 - **Integrity operations** while a matter is live use [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md).
 - **Continuity, fallback, and emergency adjudication** use [CF-12](../../corpus_forum/cf_12_forum_continuity.md), [CF-13](../../corpus_forum/cf_13_fallback_operation.md), and [CF-14](../../corpus_forum/cf_14_emergency_adjudication.md). Emergency is not a standing justification for family merger ([CF-3.3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-33-family-distinction-and-non-collapse-rule)).
 - **Systems under a recorded instrument** migrate under [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). Do not reuse CS-10 phase names as a metaphor for “we stood up a panel.”
-- **Progress** under [Article XXVII-B](../../core_06_rights_part_d.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
+- **Progress** under [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
 
 ---
 
@@ -462,7 +462,7 @@ If the file is also not a Chapter Sixteen instrument, attach the first-adopter k
 | [Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) | Challenge, review, and redress must stay reachable |
 | [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) | Binding Charter fields — leave this kit |
 | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | System migration **after** a recorded instrument |
-| [Article XXVII-B](../../core_06_rights_part_d.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
+| [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them |
 
 ---
