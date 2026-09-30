@@ -23,5 +23,5 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 | Interpretation | `name_ambiguity_and_route_to_interpretation` | [rights_floor_ambiguity](../../implementation/STEWARD_ENTRY_DOORS.md#interpretation) |
 | Comprehensibility | `point_to_named_home_or_existing_card` | [comprehensibility](../../implementation/STEWARD_ENTRY_DOORS.md#comprehensibility) |
 | Market structure | `invalidate_nullifying_threshold_and_restore_review` | [market_structure](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure) |
-| Cross-system contribution | `compare_mapped_flows_against_adequacy_failures` | [cross_system_contribution](../../implementation/STEWARD_ENTRY_DOORS.md#cross-system-contribution) |
+| Cross-system support | `compare_mapped_flows_against_adequacy_failures` | [cross_system_support](../../implementation/STEWARD_ENTRY_DOORS.md#cross-system-support) |
 | Delay | `apply_tier_clock_then_existing_card` | [delay](../../implementation/STEWARD_ENTRY_DOORS.md#delay) |

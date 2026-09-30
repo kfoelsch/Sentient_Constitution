@@ -184,7 +184,7 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
     - proteção de fontes;
     - investigação; e
     - publicação.
-    Sencientes que fazem esse trabalho exercem o Piso de Direitos de [Expressão](core_05_band_participation.md#expression-constitutional) e [Reunião](core_05_band_participation.md#assembly-constitutional), com proteção de escrutínio elevado sob o [Artigo V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expressão, reunião e imprensa*) contra ações de Estado e de operador feitas para prejudicar essa atividade.
+    Sencientes que fazem esse trabalho exercem o Piso de Direitos de [Expressão](core_05_band_participation.md#expression-constitutional) e [Reunião](core_05_band_participation.md#assembly-constitutional), com proteção de escrutínio elevado sob o [Artigo V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expressão, reunião e imprensa*) contra ações de Estado e de operador feitas para prejudicar essa atividade.
   - **Fora do âmbito:** credenciais de imprensa, títulos institucionais ou fala comercial ordinária que não seja coleta de notícias, investigação ou publicação que funcione como jornalismo.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Como medir e avaliar**
@@ -195,11 +195,11 @@ Esta faixa sustenta definições sob a perna **Supervisão** da Tétrade — tra
     - proteção de fontes;
     - investigação; ou
     - publicação que serve o ambiente de informação.
-    Identifique ações que prejudicam a imprensa pelo efeito real, e trate o caráter dirigido à imprensa como fator agravante sob o **Artigo XIII-A** (*Limites de segurança, inteligência e poder encoberto*) e o **Artigo V-H** (*Expressão, reunião e imprensa*). Aplique escrutínio elevado de [Necessidade](core_05_band_accountability.md#necessity) e [Proporcionalidade](core_05_band_accountability.md#proportionality), e mantenha qualquer limite estreitamente talhado.
+    Identifique ações que prejudicam a imprensa pelo efeito real, e trate o caráter dirigido à imprensa como fator agravante sob o **Artigo XIV-A** (*Limites de segurança, inteligência e poder encoberto*) e o **Artigo V-H** (*Expressão, reunião e imprensa*). Aplique escrutínio elevado de [Necessidade](core_05_band_accountability.md#necessity) e [Proporcionalidade](core_05_band_accountability.md#proportionality), e mantenha qualquer limite estreitamente talhado.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **O que deve sustentar-se**
   - **Falha primária:** ações de Estado ou de operador feitas para prejudicar a atividade jornalística que falham a análise de limites sob escrutínio elevado;
-  - **Falha secundária:** esticar a [Boa-fé](core_05_band_accountability.md#good-faith) ou o **Artigo VIII-C** (*Publicação veraz e limites de publicação de alto impacto*) de modo que esses padrões bloqueiem reportagem crítica lícita, publicação investigativa ou dissidência;
+  - **Falha secundária:** esticar a [Boa-fé](core_05_band_accountability.md#good-faith) ou o **Artigo IX-C** (*Publicação veraz e limites de publicação de alto impacto*) de modo que esses padrões bloqueiem reportagem crítica lícita, publicação investigativa ou dissidência;
   - **Falha terciária:** credenciais, status institucional ou fala comercial ordinária usados como o teste de jornalismo enquanto coleta de notícias, investigação ou publicação que funciona como jornalismo está ausente.
 
 ---

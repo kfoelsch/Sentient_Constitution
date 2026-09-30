@@ -21,7 +21,7 @@ INCLUDE_GLOBS = [
     "corpus_institutions/**/*.md",
     "ai_corpus/**/*.md",
     "implementation/**/*.md",
-    "plans/**/*.md",
+    "project/plans/**/*.md",
     "doc_architecture.md",
     "tools/README.md",
     "tools/**/*.py",

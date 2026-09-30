@@ -6,13 +6,13 @@ This resolves finding 2 of the [conceptual-overview alignment review](../2026-09
 
 ## Corrections
 
-In [Chapter Fifteen](../../core_15_amendment_ratification.md):
+In [Chapter Fifteen](../../core_16_amendment_ratification.md):
 
 - The joining provision and its read-with reference now point to **Article XI-B, Weighted Participation Constraints**, rather than Article X-B's collective-harm provision.
 - The high-impact amendment provision and both associated read-with references now point to **Article XI-C, Legitimacy Gate and Anti-Token Participation**, rather than Article X-C's commercial-sexual-services provision.
 - The heightened-review trigger for constitutional interpretation now points to **Article XXII, Constitutional Interpretation, Review, and Anti-Capture Safeguards**. Test 4's read-with references identify **Article XII-B** for challenge and redress and **Article XXII** for independent constitutional review, replacing the misplaced justice-objective reference.
 
-In [Chapter Thirteen](../../core_13_non_regression.md), expansion and supremacy now route to **Chapter Fourteen**, while ratification and procedural validity route to **Chapter Fifteen**.
+In [Chapter Thirteen](../../core_14_non_regression.md), expansion and supremacy now route to **Chapter Fourteen**, while ratification and procedural validity route to **Chapter Fifteen**.
 
 In the [Preamble's owner register](../../core_00_preamble.md#4-principles-definitions-and-rights), Chapter Three and Chapter Four now link to their own source files. The displayed filenames for Chapters Fourteen and Fifteen also match their already-correct destinations.
 

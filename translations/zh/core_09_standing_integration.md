@@ -44,7 +44,7 @@
 第九章是**轨迹整合与轨迹效果**的宪法主责者，包括附着、对第八章描述符的面向后果使用、轨迹锁定、救济指派、自愿公开问责表达，以及执行锚点。
 
 <a id="operative-steward-statement-remedy"></a>
-> **操作性尽责管理声明。** **主责：** 第九章 §4.1（从经核实违规记录指派救济与纠正）。第九章 §9（后果必须在制度上真实）。权利底线质疑与补救：Article XII-B。**禁止动作：** 不得把一份已公布表格当作救济。不得等待已提交的案件才保全证据。不得把成本外化到受伤害者身上。**时限：** 现在即开始收件、保全、审查与修复。不得等待已提交的案件才保全证据。
+> **操作性尽责管理声明。** **主责：** 第九章 §4.1（从经核实违规记录指派救济与纠正）。第九章 §9（后果必须在制度上真实）。权利底线质疑与补救：Article XIII-B。**禁止动作：** 不得把一份已公布表格当作救济。不得等待已提交的案件才保全证据。不得把成本外化到受伤害者身上。**时限：** 现在即开始收件、保全、审查与修复。不得等待已提交的案件才保全证据。
 
 问题 3 的轨迹链在把经核实的第八章轨迹记录转成后果时，适用[宪法四元](core_00_preamble.md#constitutional-tetrad)与[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)。
 <a id="1-immutable-chapter-eight-inputs"></a>
@@ -237,7 +237,7 @@
   - 可就自愿性与真实性接受独立审查。
 - 拒绝参与公开表达本身不得提高基线制裁、加宽轨迹锁定，或替代 [§4.1](#41-remedy-and-correction) 下所欠的救济或纠正。
 - **不真实或滥用性表达：** 在实质上不真诚、操纵性、表演而无真实问责，或对受影响方或公众滥用的公开承认或道歉，不满足恢复性要求。
-  - 它可以对可问责方携带负面正义后果 — 包括降低康复信用，以及 **Article XXIII-B**（《非琐碎限制、返还与恢复性问责约束》）与[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)下的其他合法限制。
+  - 它可以对可问责方携带负面正义后果 — 包括降低康复信用，以及 **Article XXIV-B**（《非琐碎限制、返还与恢复性问责约束》）与[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)下的其他合法限制。
   - 把虚假或滥用性道歉当作充分修复，或用它来回避 [§4.1](#41-remedy-and-correction) 与 [§4.2](#42-general-standing-locks) 下必要的保护、补救或锁定，即不合规。
 - 任何格式都不得在真实问责与相称补救所必要者之外施加下列任何一项：
   - 贬损待遇；
@@ -385,7 +385,7 @@
 **抵抗义务。**
 
 <a id="operative-steward-statement-unlawful-instruction"></a>
-> **操作性尽责管理声明。** **主责：** 第九章 §5.4 抵抗义务。共享标准：第一章 §9.1.1。质疑底线：Article XII-B。**禁止动作：** 不得遵从。不得把掩护当作义务转移。不得为了帮忙而关闭质疑路径。**时限：** 现在即按共享筛查运行：收到指令 → 拒绝 → 记录 → 升级。保全质疑路径。
+> **操作性尽责管理声明。** **主责：** 第九章 §5.4 抵抗义务。共享标准：第一章 §9.1.1。质疑底线：Article XIII-B。**禁止动作：** 不得遵从。不得把掩护当作义务转移。不得为了帮忙而关闭质疑路径。**时限：** 现在即按共享筛查运行：收到指令 → 拒绝 → 记录 → 升级。保全质疑路径。
 
 **具名序列。** 收到指令 → 拒绝 → 记录 → 升级。记录 [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) 最低可检查行动集合。两类尽责管理者使用同一序列。尽责管理指针（过程支持；不得收窄本节）：[`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging)。
 
@@ -656,7 +656,7 @@
 
 一旦 [§2](#2-integration-record-and-decision-order) 中前面步骤完成，轨迹系统必须**自动**陈述每一条具名路径的最终轨迹效果。该陈述必须列出每一项开放许可与每一条受限制具名路径。当经核实输入与已公布规则产出确定结果时，不需要额外人工批准。有争议、不确定、新颖、具有实质裁量或高影响的问题仍自动汇编并路由，然后按 [§2](#2-integration-record-and-decision-order) 进入获授权审查。
 
-**分开角色。** 自动整合可以把经核实记录、救济、纠正义务、锁定、门槛、许可与描述符一并使用。每一项仍有自己的工作，无一可以做另一项的工作。更近或自动化审查本身，不是施加更严限制的理由。任何限制都必须必要、匹配经核实事实、有证据支撑、可审查，并与 **Article XXIII**（《冲突解决、升级与紧急相称性》）一致。
+**分开角色。** 自动整合可以把经核实记录、救济、纠正义务、锁定、门槛、许可与描述符一并使用。每一项仍有自己的工作，无一可以做另一项的工作。更近或自动化审查本身，不是施加更严限制的理由。任何限制都必须必要、匹配经核实事实、有证据支撑、可审查，并与 **Article XXIV**（《冲突解决、升级与紧急相称性》）一致。
 
 整合记录必须就每一条受影响具名路径分开陈述最终效果：
 
@@ -685,7 +685,7 @@
 *用直白的话说：本章说明轨迹不是什么。本小节阻止任何人建造它所不是的东西。效果一次一条具名路径地陈述，并只向给该具名路径设门者显示。把它们缝成画像、等级或公开展示，就是建造本章禁止的合并分数 — 这样做本身就是违规。*
 
 - **披露范围：** 一条具名路径的最终效果向对象、向该具名路径的看门人，以及向获授权审阅者披露。它不作为惯例向其他具名路径的看门人披露。
-- **被禁止的聚合：** 下列各项建造合并分数，并在[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)下是可独立测量的违规行为，与 [Article VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection)（《内部状态边界与 Type-N 保护》）一并阅读，本小节为其聚合纪律在轨迹上的镜像：
+- **被禁止的聚合：** 下列各项建造合并分数，并在[第八章](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model)下是可独立测量的违规行为，与 [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind)（《内部状态边界与 Type-N 保护》）一并阅读，本小节为其聚合纪律在轨迹上的镜像：
   - 把跨具名路径的最终效果汇编成：
     - 一份画像；
     - 一份合成；
@@ -704,12 +704,12 @@
 
 *用直白的话说：任何人都不该从后果才得知一项轨迹效果对他们做什么。记录必须用直白语言告诉对象：精确哪些具名路径受影响、他们必须做什么、持续多久、到何处质疑 — 并且采纳者必须测量感知者是否把轨迹体验为分数，因为若落地如此，说它不是分数的规则就毫无价值。*
 
-- **向对象的直白语言陈述：** 当**无效果**以外的最终效果附着时，对象必须收到一份直白语言陈述。该陈述必须满足[第一章 §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) 与 **Article XX-A**（《相称可理解权》），并必须点名：
+- **向对象的直白语言陈述：** 当**无效果**以外的最终效果附着时，对象必须收到一份直白语言陈述。该陈述必须满足[第一章 §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) 与 **Article XXI-A**（《相称可理解权》），并必须点名：
   - 每一条受影响具名路径；
   - 在效果有效期间对象可以做什么、不可以做什么；
   - 纠正条件与再评估点；
   - 预期期限或审查节奏；以及
-  - **Article XII-B**（《质疑、审查与救济权》）下的质疑路由。
+  - **Article XIII-B**（《质疑、审查与救济权》）下的质疑路由。
 - **诚实成本：** 轨迹锁定关闭真实的门，可检查行动义务是承担它的尽责管理者身上的真实负担。采纳者必须在向受影响感知者描述轨迹的材料中，把那些成本连同轨迹不是什么一并直白陈述。只描述轨迹的限度而省略其重量，是[真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)缺陷。
 - **感受负担量度：** 采纳者必须在[参与测量族](core_05_apex_participation_leg.md#participation-measurement-family)下测量，受影响感知者是否把轨迹效果体验为一般价值等级、名声分数或永久地位，而不是有界具名路径条件。法律类别与生活类别之间的实质分歧，是[第一章 §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) 下的[替代指标偏离](core_05_band_oversight.md#proxy-divergence)：它必须经设计、披露或 [§7.1](#71-anti-aggregation-of-named-pathway-effects) 执行被记录、升级并纠正 — 不得被解释掉。
 
@@ -746,7 +746,7 @@
 
 *用直白的话说：轨迹后果与补救只有在真实制度能够交付它们时才算数。本节是该机制的宪法底线。日常人员、资金、积压与继任规则住在制度层。*
 
-第九章主责问题 3 后果及相关补救必须在制度上真实的宪法底线。[救济系统](core_05_band_accountability.md#remedy-system-constitutional)是交付质疑、收件、保全、审查、修复、监测、保障执行与锁定审查的耐久能力 — 不是纸面路径。实施细节由 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。与 **Article XII-B**（《质疑、审查与救济权》）及[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)一并阅读，用于评议所监督。
+第九章主责问题 3 后果及相关补救必须在制度上真实的宪法底线。[救济系统](core_05_band_accountability.md#remedy-system-constitutional)是交付质疑、收件、保全、审查、修复、监测、保障执行与锁定审查的耐久能力 — 不是纸面路径。实施细节由 [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md)（*救济系统与制度补救能力*）主责。与 **Article XIII-B**（《质疑、审查与救济权》）及[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction)一并阅读，用于评议所监督。
 
 若后果只存在于纸面，轨迹整合即失败。采纳者必须维持实践、及时的能力，以实施纠正、资助救济、审查限制、保全记录、执行保障，并防止经成本、拖延、边界、重组或形式身份变更而逃脱。
 
@@ -825,7 +825,7 @@
 <a id="95-timely-implementation"></a>
 #### 9.5 及时实施
 
-救济开始、纠正里程碑、锁定审查与再评估必须满足[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 **Article XXIV-C**（《及时解决与反拖延底线》）。加剧伤害、隐瞒未履行或击败审查的拖延，是问题 3 的新经核实事实，并可以正当化升级保障，而不更改原第八章槽位。
+救济开始、纠正里程碑、锁定审查与再评估必须满足[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[第十一章 §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) 与 **Article XXV-C**（《及时解决与反拖延底线》）。加剧伤害、隐瞒未履行或击败审查的拖延，是问题 3 的新经核实事实，并可以正当化升级保障，而不更改原第八章槽位。
 
 权利与轨迹后果只有在感知者能够援引它们、核验它们、资助实践修复、获得及时审查，并对功能上负责的行动者执行义务时，才是真实的。
 

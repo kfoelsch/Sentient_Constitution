@@ -44,11 +44,11 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Substance — Mixed.** Affirmed sentients get a Chapter Six floor (dignity, survival, self-ownership, challenge/redress, movement/refuge, categorical ban on irreversible deprivation of life as a justice measure) that outruns animal-welfare statutes and matches or exceeds many human-rights catalogs on contest, audit, and survival. Ordinary animals without contested or affirmed indicators stay at the Animal Life cruelty/welfare floor — **weaker** than “animals are persons” readings and **not stronger** than a serious welfare code for that class. Elevated Communicative Life adds habitat priority without full rights. That ladder is more structured than Lisbon Art. 13; it is also a stable semi-person risk.
 
-**Justiciability — Mixed.** Article V-E plus Technical Forum Domains give a designed status-adjudication path that *Breheny* refused to invent at common law. Article XII-B requires reachable challenge, review, and redress. Until adoption, none of that binds a state. UK sentience law is in force but only produces committee reports to ministers.
+**Justiciability — Mixed.** Article V-D plus Technical Forum Domains give a designed status-adjudication path that *Breheny* refused to invent at common law. Article XII-B requires reachable challenge, review, and redress. Until adoption, none of that binds a state. UK sentience law is in force but only produces committee reports to ministers.
 
 **Non-regression — Better.** Chapter Fourteen Test 1 invalidates material weakening of Chapter Six protections, including indirect narrowing through definitions, standing gates, verification barriers, or emergency carve-outs. Human-rights treaties use non-retrogression as interpretive discipline (CESCR GC 3), not as automatic invalidity of a completed amendment.
 
-**Operability — Mixed.** Def.P1, Sentience Non-Exclusion, and Article V-E are steward-usable. The concrete sentience-indicator catalog is forum/standards operational, not a fixed statutory list. Chapter Twelve notes no dedicated Sentience-Status Adjudication Record schema yet in Chapter Seventeen files — the floor binds; the record is thin.
+**Operability — Mixed.** Def.P1, Sentience Non-Exclusion, and Article V-D are steward-usable. The concrete sentience-indicator catalog is forum/standards operational, not a fixed statutory list. Chapter Twelve notes no dedicated Sentience-Status Adjudication Record schema yet in Chapter Seventeen files — the floor binds; the record is thin.
 
 **Pedigree — Incommensurable.** UDHR/ICCPR/ECHR bind states. This instrument binds adopters only after deliberate, documented, auditable adoption ([Chapter Sixteen §10.1](../../core_16_amendment_ratification.md#10-ratification-and-adoption)).
 
@@ -58,7 +58,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Who counts (comparator):** “All human beings are born free and equal in dignity and rights.” — UDHR Art. 1
 
-**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-E](../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)
+**Contested default (corpus):** “Where the state of knowledge, evidence, or classification taxonomy is materially unsettled as to whether the entity is a **sentient**, the adjudication must default to including the entity under the Chapter Six Rights Floor.” — [Article V-D](../../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)
 
 **Contested default (comparator):** “Because the writ of habeas corpus is intended to protect the liberty right of human beings to be free of unlawful confinement, it has no applicability to Happy, a nonhuman animal who is not a ‘person’ subjected to illegal detention.” — *Breheny*, 38 NY3d at 565–566
 
@@ -108,7 +108,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../core_05_band_continuity.md#ecological-integrity-constitutional)
 
-**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06_rights_part_b.md#article-v-b-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
+**Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
 
 ### Steelman
 
@@ -166,4 +166,4 @@ Paper process that no demos has ratified can be more protective *and* less legit
 
 ## Residual questions for human experts
 
-See [EXPERT_TOR.md](EXPERT_TOR.md). Desk review does not settle: (1) whether Article V-E default inclusion is workable or a capture vector; (2) whether Natural Systems Standing should be upgraded toward Ecuador/Whanganui personhood or left as hybrid; (3) whether process complexity defeats participation and timeliness in practice; (4) which missed primary instruments would change a cell.
+See [EXPERT_TOR.md](EXPERT_TOR.md). Desk review does not settle: (1) whether Article V-D default inclusion is workable or a capture vector; (2) whether Natural Systems Standing should be upgraded toward Ecuador/Whanganui personhood or left as hybrid; (3) whether process complexity defeats participation and timeliness in practice; (4) which missed primary instruments would change a cell.

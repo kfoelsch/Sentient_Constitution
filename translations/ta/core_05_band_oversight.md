@@ -184,7 +184,7 @@
     - மூலப் பாதுகாப்பு;
     - விசாரணை; மற்றும்
     - வெளியீடு.
-    அந்தப் பணியைச் செய்யும் உணர்வுள்ளோர் [வெளிப்பாடு](core_05_band_participation.md#expression-constitutional) மற்றும் [கூட்டம்](core_05_band_participation.md#assembly-constitutional) உரிமைத் தளத்தைப் பயில்கின்றனர், அந்தச் செயல்பாட்டைப் பாதிக்கும் நோக்கமுள்ள அரசு மற்றும் இயக்குநர் செயல்களுக்கு எதிராக [சரத்து V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*வெளிப்பாடு, கூட்டம், அச்சகம்*) கீழ் உயர்த்தப்பட்ட-ஆய்வுப் பாதுகாப்புடன்.
+    அந்தப் பணியைச் செய்யும் உணர்வுள்ளோர் [வெளிப்பாடு](core_05_band_participation.md#expression-constitutional) மற்றும் [கூட்டம்](core_05_band_participation.md#assembly-constitutional) உரிமைத் தளத்தைப் பயில்கின்றனர், அந்தச் செயல்பாட்டைப் பாதிக்கும் நோக்கமுள்ள அரசு மற்றும் இயக்குநர் செயல்களுக்கு எதிராக [சரத்து V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*வெளிப்பாடு, கூட்டம், அச்சகம்*) கீழ் உயர்த்தப்பட்ட-ஆய்வுப் பாதுகாப்புடன்.
   - **எல்லைக்கு வெளியே:** இதழியலாகச் செயல்படும் செய்தி சேகரித்தல், விசாரணை, அல்லது வெளியீடு அல்லாத அச்சகச் சான்றுகள், நிறுவனப் பட்டங்கள், அல்லது சாதாரண வணிகப் பேச்சு.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **எப்படி அளவிடவும் மதிப்பிடவும்**
@@ -195,11 +195,11 @@
     - மூலப் பாதுகாப்பு;
     - விசாரணை; அல்லது
     - தகவல் சூழலுக்குப் பணிபுரியும் வெளியீடு.
-    உண்மையான விளைவால் அச்சகத்தைப் பாதிக்கும் செயல்களைக் கண்டறியுங்கள். அச்சகத்தை நோக்கிய தன்மையை **சரத்து XIII-A** (*பாதுகாப்பு, உளவு, மறைமுக-அதிகார வரம்புகள்*) மற்றும் **சரத்து V-H** (*வெளிப்பாடு, கூட்டம், அச்சகம்*) கீழ் மோசமாக்கும் காரணியாகக் கருதுங்கள். உயர்த்தப்பட்ட [தேவை](core_05_band_accountability.md#necessity) மற்றும் [விகிதாசார](core_05_band_accountability.md#proportionality) ஆய்வைப் பயன்படுத்துங்கள், எந்த வரம்பையும் குறுகலாக வடிவமைத்து வையுங்கள்.
+    உண்மையான விளைவால் அச்சகத்தைப் பாதிக்கும் செயல்களைக் கண்டறியுங்கள். அச்சகத்தை நோக்கிய தன்மையை **சரத்து XIV-A** (*பாதுகாப்பு, உளவு, மறைமுக-அதிகார வரம்புகள்*) மற்றும் **சரத்து V-H** (*வெளிப்பாடு, கூட்டம், அச்சகம்*) கீழ் மோசமாக்கும் காரணியாகக் கருதுங்கள். உயர்த்தப்பட்ட [தேவை](core_05_band_accountability.md#necessity) மற்றும் [விகிதாசார](core_05_band_accountability.md#proportionality) ஆய்வைப் பயன்படுத்துங்கள், எந்த வரம்பையும் குறுகலாக வடிவமைத்து வையுங்கள்.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **எது நிற்க வேண்டும்**
   - **முதன்மை தோல்வி:** இதழியல் செயல்பாட்டைப் பாதிக்கும் நோக்கமுள்ள அரசு அல்லது இயக்குநர் செயல்கள் உயர்த்தப்பட்ட-ஆய்வு வரம்புப் பகுப்பாய்வில் தோல்வி;
-  - **இரண்டாம் தோல்வி:** [நல்லெண்ணத்தை](core_05_band_accountability.md#good-faith) அல்லது **சரத்து VIII-C**-ஐ (*உண்மையான வெளியீடும் உயர்-தாக்க வெளியீட்டு வரம்புகளும்*) நீட்டித்து அந்த நியமங்கள் சட்டபூர்வ விமர்சன அறிக்கை, விசாரணை வெளியீடு, அல்லது எதிர்ப்பைத் தடுப்பது;
+  - **இரண்டாம் தோல்வி:** [நல்லெண்ணத்தை](core_05_band_accountability.md#good-faith) அல்லது **சரத்து IX-C**-ஐ (*உண்மையான வெளியீடும் உயர்-தாக்க வெளியீட்டு வரம்புகளும்*) நீட்டித்து அந்த நியமங்கள் சட்டபூர்வ விமர்சன அறிக்கை, விசாரணை வெளியீடு, அல்லது எதிர்ப்பைத் தடுப்பது;
   - **மூன்றாம் தோல்வி:** இதழியலாகச் செயல்படும் செய்தி சேகரித்தல், விசாரணை, அல்லது வெளியீடு இல்லாதபோது சான்றுகள், நிறுவன நிலை, அல்லது சாதாரண வணிகப் பேச்சை இதழியல் சோதனையாகப் பயன்படுத்துதல்.
 
 ---
@@ -662,7 +662,7 @@
 
 அனுமதி எல்லை நிறைவேறும் இடத்தில், இந்தத் தொகுதி அத்தியாயங்கள் இரண்டு முதல் நான்கு அமைப்பு செய்வதையும் இணக்கக் கூற்றுகள் நிற்கின்றனவா என்பதையும் பற்றிய தடமறியக்கூடிய, சவால் செய்யக்கூடிய சான்றைக் கேட்கும்போது, வெளிப்படுத்தல், தணிக்கை, உறுதிப்படுத்தல் (வெளி உணர்தன்மையை உள்ளடக்குகிறது), உத்தரவாத ஆழத்தின் கூட்டு இல்லம்.
 
-**மேற்பார்வைச் சட்டகம்.** [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) **மேற்பார்வை** கால் கீழ், மேற்பார்வை தணிக்கையைக் கேட்கிறது — நடந்ததை மீளமைத்தல், சுயாதீனமாக உறுதிப்படுத்துதல், தணிக்கை அணுகலைப் பெறுதல் — இங்கேயும் **சரத்து XV**-இல் (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன உறுதிப்படுத்தல்*) அமைக்கப்படுகிறது. [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றவற்றுக்கு இடையே குறிப்பாகப் பெரிய, உயர்-பங்கு தணிக்கைச் செயல்முறை ([அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) கீழ் அனுமதி விளைவுகளை உருவாக்கும் மன்ற மேற்பார்வை இணக்க மதிப்பாய்வு); இந்தத் தொகுதியை விழுங்கவோ சகோதர தணிக்கை முறைகளைப் பதிலீடு செய்யவோ செய்யாது.
+**மேற்பார்வைச் சட்டகம்.** [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) **மேற்பார்வை** கால் கீழ், மேற்பார்வை தணிக்கையைக் கேட்கிறது — நடந்ததை மீளமைத்தல், சுயாதீனமாக உறுதிப்படுத்துதல், தணிக்கை அணுகலைப் பெறுதல் — இங்கேயும் **சரத்து XVI**-இல் (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன உறுதிப்படுத்தல்*) அமைக்கப்படுகிறது. [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றவற்றுக்கு இடையே குறிப்பாகப் பெரிய, உயர்-பங்கு தணிக்கைச் செயல்முறை ([அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) கீழ் அனுமதி விளைவுகளை உருவாக்கும் மன்ற மேற்பார்வை இணக்க மதிப்பாய்வு); இந்தத் தொகுதியை விழுங்கவோ சகோதர தணிக்கை முறைகளைப் பதிலீடு செய்யவோ செய்யாது.
 
 **அமைப்புத் தரமும் விகிதாசாரமும்.** வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, உறுதிப்படுத்தல் கடமைகள் **[corpus_systems.md](../../corpus_systems.md), CS-3 — அமைப்பு வகைப்பாடும் கையாளுதலும்** கீழ் அமைப்புத் தரத்துக்கும், பொருள் தாக்கம், சார்பு, இடருக்கும் அளவிடப்படுகின்றன. உயர்ந்த தர அமைப்புகள் (**Class A**, **B**, **C**) தாழ்ந்த தர அமைப்புகளைவிட (**Class L**, **P**) அதிகம் தேவை. இவற்றை உள்ளடக்குகிறது:
 - ஆழமான உத்தரவாதம்;
@@ -758,7 +758,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - தொகுதி உறுப்பு: [Def.O1 *வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சரிபார்ப்பு*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- கீழ்வழி: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Class A/B/C அமைப்புகளுக்கான Type O அடிப்படை*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*வகைப்படுத்தலும் O/E/G உறவும்*); [அத்தியாயம் ஏழு §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*தரவு வகைகளும் கையாளுதல் மதிப்பீடும்*); [அத்தியாயம் ஏழு B பகுதி §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*சான்றளிப்புப் பதிவு*); [அத்தியாயம் ஏழு B பகுதி §12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சவால் செய்யக்கூடிய தன்மை*).
+- கீழ்வழி: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Class A/B/C அமைப்புகளுக்கான Type O அடிப்படை*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*வகைப்படுத்தலும் O/E/G உறவும்*); [அத்தியாயம் ஏழு §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*தரவு வகைகளும் கையாளுதல் மதிப்பீடும்*); [அத்தியாயம் ஏழு B பகுதி §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*சான்றளிப்புப் பதிவு*); [அத்தியாயம் ஏழு B பகுதி §12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சவால் செய்யக்கூடிய தன்மை*).
 - இதனுடன் படிக்க: [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency), [சவால் செய்யக்கூடிய தன்மை](core_05_band_accountability.md#contestability), [தணிக்கைத்தன்மை](core_05_band_oversight.md#auditability), [இடர் வெளிப்படுத்தல்](core_05_band_oversight.md#risk-disclosure), [எல்லைக் கருவி](core_05_band_continuity.md#charter), [அமைப்பு எல்லைகள்](core_05_band_continuity.md#system-boundaries), [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional), [அமைப்பு சான்றளிப்புப் பதிவு](core_05_band_continuity.md#system-certification-record-constitutional), [அமைப்பு வகைப்பாட்டுப் பதிவு](core_05_band_continuity.md#system-classification-record-constitutional), [அமைப்புத் தரவு வகைகள் பதிவு](core_05_band_continuity.md#system-data-types-record-constitutional), [வகைப்பாடு-அளவிடப்பட்ட ஆட்சி](core_05_band_oversight.md#classification-scaled-governance), மற்றும் **[corpus_systems.md](../../corpus_systems.md), CS-2 — தகவல் வகைகளும் கையாளுதலும்** (**Type O**).
 
 </details>
@@ -882,8 +882,8 @@
 
 - தொகுதி உறுப்பு: [Def.O1 *வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சரிபார்ப்பு*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — **மேற்பார்வை** கால்; [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability), [சவால் செய்யக்கூடிய தன்மை](core_05_band_accountability.md#contestability), [அறிவார்ந்த முழுமை](core_05_band_oversight.md#epistemic-integrity), [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency), [சரிபார்க்கக்கூடிய தன்மை](core_05_band_oversight.md#verifiability), [சான்று பாதுகாப்பு](core_05_band_oversight.md#evidence-preservation), மற்றும் [மதிப்பீட்டு முழுமைக் கட்டுப்பாடு](core_05_band_oversight.md#evaluation-completeness-constraint).
-- இதனுடன் படிக்க: **சரத்து XV** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன உறுதிப்படுத்தல்*); [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) (*மேற்பார்வை கீழ் குறிப்பாகப் பெரிய தணிக்கைச் செயல்முறை ஒன்று — ஒரே தணிக்கை இல்லம் அல்ல*); [core_02_definition_structure.md](core_02_definition_structure.md) அத்தியாயங்கள் இரண்டு முதல் நான்கு அமைக்கும் அடுக்கு இயக்கவியல்.
-- பொறுப்பான நிர்வாகக் கதவு (செயல்படாதது): இந்த வரையறை தணிக்கை அடுக்கின் பண்பு அடுக்கு. பிணைக்கும் அடுத்த-படி அறிக்கை: [இயக்க பொறுப்பான நிர்வாக அறிக்கை (சரத்து XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). மூன்று அடுக்கு படம்: [சரத்து XV](../../core_06_rights_part_c.md#audit-three-layers).
+- இதனுடன் படிக்க: **சரத்து XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன உறுதிப்படுத்தல்*); [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) (*மேற்பார்வை கீழ் குறிப்பாகப் பெரிய தணிக்கைச் செயல்முறை ஒன்று — ஒரே தணிக்கை இல்லம் அல்ல*); [core_02_definition_structure.md](core_02_definition_structure.md) அத்தியாயங்கள் இரண்டு முதல் நான்கு அமைக்கும் அடுக்கு இயக்கவியல்.
+- பொறுப்பான நிர்வாகக் கதவு (செயல்படாதது): இந்த வரையறை தணிக்கை அடுக்கின் பண்பு அடுக்கு. பிணைக்கும் அடுத்த-படி அறிக்கை: [இயக்க பொறுப்பான நிர்வாக அறிக்கை (சரத்து XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). மூன்று அடுக்கு படம்: [சரத்து XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1076,7 +1076,7 @@
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
 - தொகுதி உறுப்பு: [Def.O1 *வெளிப்படைத்தன்மை, தணிக்கைத்தன்மை, சரிபார்ப்பு*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- அமைக்கும் தளம்: நடைமுறை உறுதிப்படுத்தல் அணுகலுக்கு [சரத்து XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*உறுதிப்படுத்தல் அணுகல்*).
+- அமைக்கும் தளம்: நடைமுறை உறுதிப்படுத்தல் அணுகலுக்கு [சரத்து XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*உறுதிப்படுத்தல் அணுகல்*).
 - இதனுடன் படிக்க: [தணிக்கைத்தன்மை](core_05_band_oversight.md#auditability), [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency), [சவால் செய்யக்கூடிய தன்மை](core_05_band_accountability.md#contestability), [விகிதாசாரம்](core_05_band_accountability.md#proportionality), [சாத்தியம்](core_05_band_accountability.md#feasibility), [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint), மற்றும் [எதிர்மறை, அளவிடப்பட்ட, சுரண்டப்பட்ட நிபந்தனைகள்](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1088,7 +1088,7 @@
 - **அது என்ன**
   - **எல்லைக்குள்:** அமைப்பு செயல், வெளியீடு, விளைவுகள் [தணிக்கைத்தன்மைக்கு](core_05_band_oversight.md#auditability) வெளியிலிருந்து உணரப்பட்டு, அளவிடப்பட்டு, சுயாதீனமாக உறுதிப்படுத்தப்பட முடியுமா. உறுப்பு நிபந்தனைகள்:
     - சுயாதீன உறுதிப்படுத்தல் அளவிடுவதற்கு முன் வெளி உணர்தன்மை;
-    - நடைமுறை அணுகல் ([சரத்து XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [சாத்தியம்](core_05_band_accountability.md#feasibility));
+    - நடைமுறை அணுகல் ([சரத்து XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [சாத்தியம்](core_05_band_accountability.md#feasibility));
     - இயக்குநர் சுயகூற்றிலிருந்து சுயாதீனம்;
     - [விகிதாசாரம்](core_05_band_accountability.md#proportionality) மற்றும் [பொருள் தாக்கத்தின்](core_05_band_oversight.md#material-impact) கீழ் விகிதாசார சுமை; மற்றும்
     - சாதாரண அழுத்தம், தவறான பயன்பாடு, [எதிர்மறை, அளவிடப்பட்ட, சுரண்டப்பட்ட நிபந்தனைகளின்](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) கீழ் நம்பகத்தன்மை.
@@ -1113,7 +1113,7 @@
   - **இரண்டாம் அளவு:** [மேற்பார்வை அளவீட்டுக் குடும்பம்](core_05_apex_oversight_leg.md#oversight-measurement-family) — *உணர்வுள்ளோர் அமைப்புகள் பிரதிநிதித்துவப்படுத்துவதைப் பார்க்கவும், சரிபார்க்கவும், நம்பவும் முடியுமா?* இங்கே கவனிக்கப்பட்ட செயல் நடைமுறையில் மீண்டும் செய்யக்கூடிய முறையால் சுயாதீனமாக உறுதிப்படுத்தப்பட முடியுமா என்று கேட்கிறது.
 
     **இரண்டாம் மதிப்பீடு:** இவற்றைச் செய்யும் முறையால் சுயாதீன உறுதிப்படுத்தலை உறுதிப்படுத்துங்கள்:
-    - பாதிக்கப்பட்டு சரியாக அதிகாரமளிக்கப்பட்ட தரப்பு உண்மையில் செய்ய முடியும் ([சரத்து XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [சாத்தியம்](core_05_band_accountability.md#feasibility));
+    - பாதிக்கப்பட்டு சரியாக அதிகாரமளிக்கப்பட்ட தரப்பு உண்மையில் செய்ய முடியும் ([சரத்து XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [சாத்தியம்](core_05_band_accountability.md#feasibility));
     - உள்ளகக் கூற்றுகள் அல்லது ஊகிக்கப்பட்ட நோக்கம் அல்ல, வெளியிலிருந்து உணரப்படும் சான்றில் அமர்கிறது;
     - [விகிதாசாரம்](core_05_band_accountability.md#proportionality) மற்றும் [பொருள் தாக்கத்தின்](core_05_band_oversight.md#material-impact) கீழ் அமைப்பு தாக்கத்துக்கு அளவிடப்படுகிறது; மற்றும்
     - சாதாரண அழுத்தம், தவறான பயன்பாடு, [எதிர்மறை, அளவிடப்பட்ட, சுரண்டப்பட்ட நிபந்தனைகளின்](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) கீழ் நம்பகமாக இருக்கிறது.
@@ -1225,7 +1225,7 @@
     நல்லெண்ணக் கவனிப்பு மற்றும் வரம்பிடப்பட்ட விளக்கத்திலிருந்து பிரியுங்கள். [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint) மற்றும் [நல்லெண்ணத்தின்](core_05_band_accountability.md#good-faith) கீழ்.
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **எது நிற்க வேண்டும்**
-  - கவனிப்பு, சான்று, வரம்பிடப்பட்ட விளக்கத்தின் நல்லெண்ண வெளியீடு பொருந்தும் அத்தியாயம் பதினொன்று **சரத்து VIII**, **சரத்து XII**, **சரத்து XIII** ஆள்கின்றன, மற்றும் [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint), [நல்லெண்ணம்](core_05_band_accountability.md#good-faith), [அறிவார்ந்த முழுமையின்](core_05_band_oversight.md#epistemic-integrity) கீழ் இந்தத் தொகுதியைச் சேர்த்து நிறைவேற்ற வேண்டும்.
+  - கவனிப்பு, சான்று, வரம்பிடப்பட்ட விளக்கத்தின் நல்லெண்ண வெளியீடு பொருந்தும் அத்தியாயம் பதினொன்று **சரத்து IX**, **சரத்து XIII**, **சரத்து XIV** ஆள்கின்றன, மற்றும் [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint), [நல்லெண்ணம்](core_05_band_accountability.md#good-faith), [அறிவார்ந்த முழுமையின்](core_05_band_oversight.md#epistemic-integrity) கீழ் இந்தத் தொகுதியைச் சேர்த்து நிறைவேற்ற வேண்டும்.
   - **முதன்மை தோல்வி:** அறிந்தே பொய்யான வெளியீடு, அல்லது இவற்றுக்கு அலட்சிய புறக்கணிப்பால் செய்யப்பட்ட வெளியீடு:
     - துல்லியம்;
     - நிச்சயமின்மை;

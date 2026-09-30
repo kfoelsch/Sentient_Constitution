@@ -18,7 +18,7 @@
 **Implements from the core files:**
 - [Chapter One](core_01_a_values_principles.md) principles ([Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
 - [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapter Six](core_06_rights_part_a.md) Rights Floor themes where institutions must deliver accessible pathways, remedy, care, health, and related floors
+- [Chapter Six](core_06_rights_part_a.md) Rights Floor themes where institutions must deliver accessible challenge and service pathways, remedy, care, health, and related floors
 - [Chapter Ten](core_10_standing_integration.md) remedy and enforcement realism where **CI-27** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
 - [Chapter Thirteen](core_13_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
 
@@ -83,7 +83,7 @@
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-7: Oversight, assurance, controls, and evidence | [ci_07_oversight_assurance_controls_evidence.md](corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) |
-| CI-8: Transparency, participation, and accessible pathways | [ci_08_transparency_participation_accessible_pathways.md](corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) |
+| CI-8: Transparency, participation, and accessible challenge and service pathways | [ci_08_transparency_participation_accessible_pathways.md](corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) |
 | CI-9: Classification-linked institutional obligations | [ci_09_classification_linked_institutional_obligations.md](corpus_institutions/ci_09_classification_linked_institutional_obligations.md) |
 
 ### Resources and coordination
@@ -114,7 +114,7 @@
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CI-19: Vulnerable personal services markets — Article X-C interface | [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_xc_interface.md) |
+| CI-19: Vulnerable personal services markets — Article VII-E interface | [ci_19_vulnerable_personal_services_markets_article_viie_interface.md](corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md) |
 | CI-20: Relational coercive control, intimate power, and anti-domination routing | [ci_20_relational_coercive_control_intimate_power_anti_domination.md](corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) |
 | CI-21: Community life, voluntary association, and non-instrumental time | [ci_21_community_life_voluntary_association_non_instrumental_time.md](corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md) |
 | CI-22: Commons, cooperatives, mutual aid, and non-market community governance | [ci_22_commons_cooperatives_mutual_aid_non_market_governance.md](corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) |

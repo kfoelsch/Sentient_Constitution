@@ -8,7 +8,7 @@ introduction and a pointer index — it must not restate the boxes. This
 audit pins the pointers and the owner/clock index to the README edition
 stamp, diffs the index against the core boxes, and requires:
 
-1. The three costly-case refusals live in Chapter One §9.1.2. The doors
+1. The three costly-case refusals live in Chapter One §10.2. The doors
    page points there once; it does not restate the bullets on every card.
 2. One shared refusal-and-logging pointer with instruction received /
    refuse / document / escalate, naming CS-4 §10 as the default logging
@@ -17,7 +17,10 @@ stamp, diffs the index against the core boxes, and requires:
    next-step class. Owner / forbidden move / clock are not restated.
 4. Each named-stack core home carries a boxed operative steward statement
    (owner, forbidden move, clock). Index ``operative_box`` hrefs resolve to
-   those boxes, and index forbidden-move and clock text must match.
+   those boxes, and index forbidden-move and clock text must match. Cards in
+   ``CARD_OWNER_TEXT_ANCHORS`` have no box: the owner Article's own operative
+   text is the statement, and index forbidden-move and clock text must match
+   that Article section instead.
 5. Every cited Markdown anchor in the pointers and the owner/clock index
    resolves, and every edition stamp matches README.
 6. Operator-only routing examples (not on the subject-facing pointer page)
@@ -66,7 +69,7 @@ CARD_TITLES = (
     "Interpretation",
     "Comprehensibility",
     "Market structure",
-    "Cross-system contribution",
+    "Cross-system support",
     "Delay",
 )
 
@@ -84,9 +87,19 @@ CARD_BOX_ANCHORS = {
     "Interpretation": "operative-steward-statement-interpretation",
     "Comprehensibility": "operative-steward-statement-comprehensibility",
     "Market structure": "operative-steward-statement-market-structure",
-    "Cross-system contribution": "operative-steward-statement-cross-system-contribution",
     "Delay": "operative-steward-statement-delay",
 }
+
+# Cards whose owner Article states the forbidden move and clock in its own
+# operative text, so a separate box would only restate it.
+CARD_OWNER_TEXT_ANCHORS = {
+    "Cross-system support": "article-v-b-cross-system-fairness-and-sustainability",
+}
+
+
+def expected_card_anchor(title: object) -> str | None:
+    key = str(title)
+    return CARD_BOX_ANCHORS.get(key) or CARD_OWNER_TEXT_ANCHORS.get(key)
 
 CARD_FIELDS = (
     "Operative statement",
@@ -246,6 +259,32 @@ def parse_operative_boxes(text: str) -> dict[str, dict[str, str]]:
     return boxes
 
 
+HEADING_LINE_RE = re.compile(r"^(?P<hashes>#{1,6})\s+(?P<title>.+?)\s*$")
+
+
+def heading_slug(title: str) -> str:
+    slug = re.sub(r"[^\w\s-]", "", title.strip().lower())
+    return re.sub(r"\s", "-", slug)
+
+
+def section_text(text: str, fragment: str) -> str:
+    """Return the body of the heading whose slug is ``fragment``."""
+    lines = text.splitlines()
+    for idx, line in enumerate(lines):
+        match = HEADING_LINE_RE.match(line)
+        if not match or heading_slug(match.group("title")) != fragment:
+            continue
+        level = len(match.group("hashes"))
+        body: list[str] = []
+        for later in lines[idx + 1 :]:
+            nxt = HEADING_LINE_RE.match(later)
+            if nxt and len(nxt.group("hashes")) <= level:
+                break
+            body.append(later)
+        return "\n".join(body)
+    return ""
+
+
 def read(root: Path, rel: str) -> str:
     path = root / rel
     if not path.is_file():
@@ -261,11 +300,14 @@ def corpus_edition(readme: str) -> str:
 
 
 def costly_bullets(core: str) -> list[str]:
-    marker = "**Symmetric costly constraints:**"
+    marker = "#### 10.2 Alignment Under Pressure"
     start = core.find(marker)
     if start < 0:
-        raise ValueError(f"{CORE_REL} is missing Symmetric costly constraints")
-    rest = core[start + len(marker) :]
+        raise ValueError(f"{CORE_REL} is missing Alignment Under Pressure")
+    lead = core.find("Every steward must refuse:", start)
+    if lead < 0:
+        raise ValueError(f"{CORE_REL} is missing the costly-case lead-in")
+    rest = core[lead:]
     end = rest.find("Those are failed tests")
     if end < 0:
         raise ValueError(f"{CORE_REL} is missing the failed-tests close")
@@ -558,7 +600,7 @@ def check_index_shape(index: dict, schema: dict) -> list[str]:
                     f"{INDEX_REL} case `{case_id}` operative_box",
                 )
             )
-            expected_anchor = CARD_BOX_ANCHORS.get(str(case.get("card_title")))
+            expected_anchor = expected_card_anchor(case.get("card_title"))
             href = box.get("href") if isinstance(box.get("href"), str) else ""
             fragment = href.partition("#")[2]
             if expected_anchor and fragment != expected_anchor:
@@ -643,6 +685,35 @@ def check_operative_boxes(
         path_part, _, fragment = href.partition("#")
         target = root / path_part
         if not target.is_file():
+            continue
+        if (
+            isinstance(title, str)
+            and CARD_OWNER_TEXT_ANCHORS.get(title) == fragment
+        ):
+            section = section_text(target.read_text(encoding="utf-8"), fragment)
+            if not section:
+                errors.append(
+                    f"{path_part}: owner section #{fragment} not found "
+                    "(STEWARD-DOOR-LOCKSTEP-01)"
+                )
+                continue
+            haystack = normalize(section.replace("*", ""))
+            for field, label in (
+                ("forbidden_move", "forbidden_move"),
+                ("clock_note", "clock_note"),
+            ):
+                for clause in missing_clauses(str(case.get(field) or ""), haystack):
+                    errors.append(
+                        f"{path_part} #{fragment}: index {label} clause "
+                        f"{clause!r} for `{case_id}` is missing from the "
+                        "owner Article text (STEWARD-DOOR-LOCKSTEP-01)"
+                    )
+            body = sections.get(title)
+            if body is not None and fragment not in body:
+                errors.append(
+                    f"{CARDS_REL} #{title}: missing operative-statement pointer "
+                    f"#{fragment} (STEWARD-DOOR-LOCKSTEP-01)"
+                )
             continue
         if target not in file_boxes:
             file_boxes[target] = parse_operative_boxes(
@@ -772,7 +843,7 @@ def audit(root: Path) -> list[str]:
         if "Costly-case refusals" in body or "costly-case refusals" in normalized:
             errors.append(
                 f"{CARDS_REL} #{title}: do not restate costly-case refusals "
-                "on each pointer; they live in Chapter One §9.1.2 "
+                "on each pointer; they live in Chapter One §10.2 "
                 "(STEWARD-DOOR-LOCKSTEP-01)"
             )
 
@@ -782,10 +853,10 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL}: missing `Costly-case refusals` pointer "
             "(STEWARD-DOOR-LOCKSTEP-01)"
         )
-    elif "102-symmetric-costly-constraints" not in costly_section:
+    elif "102-alignment-under-pressure" not in costly_section:
         errors.append(
             f"{CARDS_REL} #Costly-case refusals: must point at "
-            "#102-symmetric-costly-constraints (STEWARD-DOOR-LOCKSTEP-01)"
+            "#102-alignment-under-pressure (STEWARD-DOOR-LOCKSTEP-01)"
         )
     for bullet in bullets:
         if bullet not in normalize(core):

@@ -52,7 +52,7 @@ Independent and Semi-independent definitions do not require joint satisfaction w
 
 Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Chapter Four, section 2 — Definition Traceability Requirement). Those mappings must include their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
 
-When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two, §1 — Purpose and Role). Partial satisfaction or selective application is non-compliant.
+When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Chapter Two §1 (*Purpose and Role*)). Partial satisfaction or selective application is non-compliant.
 
 Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Chapter Three, sections 1 and 2 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
 
@@ -155,6 +155,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Contribution Nature](core_05_band_accountability.md#contribution-nature)
 - [Corpus](core_05_band_integrative.md#corpus)
 - [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution-constitutional)
+- [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction)
 - [Cruelty](core_05_band_accountability.md#cruelty)
 - [Decentralization](core_05_band_accountability.md#decentralization)
 - [Dependency](core_05_band_continuity.md#dependency)
@@ -162,6 +163,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional)
 - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing)
 - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional)
+- [Documented Legitimacy Mechanism](core_05_band_integrative.md#documented-legitimacy-mechanism)
 - [Due Process](core_05_band_accountability.md#due-process-constitutional)
 - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint)
 - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional)
@@ -198,8 +200,10 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Governance](core_05_band_accountability.md#governance)
 - [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional)
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying)
+- [Hard Content](core_05_band_participation.md#hard-content)
 - [Harm](core_05_band_accountability.md#harm)
 - [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection)
+- [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny)
 - [High-Impact and Systemic Harm Publication Constraint](core_05_band_oversight.md#high-impact-and-systemic-harm-publication-constraint)
 - [Identity Data Protection](core_05_band_continuity.md#identity-data-protection)
 - [Incentive Alignment](core_05_band_integrative.md#incentive-alignment)
@@ -230,6 +234,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Materiality Determination](core_05_band_oversight.md#materiality-determination)
 - [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint)
 - [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty)
+- [Materially Binding Act](core_05_band_accountability.md#materially-binding-act)
 - [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record)
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency)
 - [Merits Determination](core_05_band_accountability.md#merits-determination)
@@ -247,18 +252,19 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional)
 - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional)
 - [Participation](core_05_apex_participation_leg.md#participation-constitutional)
+- [Personhood](core_05_band_participation.md#personhood)
 - [Press and Journalistic Activity](core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
 - [Primary-Stakes Routing](core_05_band_accountability.md#primary-stakes-routing)
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational)
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional)
 - [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional)
 - [Proportionality](core_05_band_accountability.md#proportionality)
-- [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
+- [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
 - [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact)
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional)
 - [Protected Data and Internal-State Publication Constraint](core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention)
 - [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Proxy Divergence](core_05_band_oversight.md#proxy-divergence)
@@ -371,7 +377,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); [material stake](../core_00_preamble.md#material-stake); [Preamble §2 Measurements Overview](../core_00_preamble.md#measurements-overview).
+- Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake); [Preamble §2 Measurements Overview](core_00_preamble.md#2-measurements-overview).
 - Downstream: constitutional orientation for all Chapter Five band definitions and **Def.** dependent clusters.
 - Read with: [Independent Definitions](core_05__definitions_home.md#1-independent-definitions), [§1.1 Invocation, satisfaction, and compliance](core_05__definitions_home.md#11-invocation-satisfaction-and-compliance), [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction), and [§2.2 Standalone definitions interaction and full context](core_05__definitions_home.md#22-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
 
@@ -381,7 +387,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 *In plain terms: Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.*
 
-Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad):
+Chapter Five definitions are sorted by the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
 **Constitutional bands**
 
@@ -399,7 +405,7 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_
 
 ### Measurement crosswalk (reader guidance)
 
-*In plain terms: Preamble §2 asks seven category questions; this table maps each question to the Chapter Five homes that answer it.*
+*In plain terms: Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Five homes that answer it.*
 
 <a id="chapter-five-measurement-crosswalk"></a>
 
@@ -408,14 +414,14 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](../core_00_
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> [Preamble §2](../core_00_preamble.md#measurements-overview) lists seven constitutional **measurement categories** — the questions operators ask when evaluating systems. Chapter Five organizes **canonical definitions** by Tetrad leg, **Continuity** aim, and **Integrative** cross-leg ownership. The table below maps each measurement category to its Chapter Five homes. A category may span more than one band file; canonical homes do not move when measurement categories overlap.
+> [Preamble §2](core_00_preamble.md#2-measurements-overview) lists seven constitutional **measurement categories** — the questions operators ask when evaluating systems. Chapter Five organizes **canonical definitions** by Tetrad leg, **Continuity** aim, and **Integrative** cross-leg ownership. The table below maps each measurement category to its Chapter Five homes. A category may span more than one band file; canonical homes do not move when measurement categories overlap.
 >
-> **Materiality** ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — a cross-cutting threshold gate that scales all measurement families under [material stake](../core_00_preamble.md#material-stake); it is not a separate category in the table below.
+> **Materiality** ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — a cross-cutting threshold gate that scales all measurement families under [material stake](core_00_preamble.md#material-stake); it is not a separate category in the table below.
 
 | Ch00 category | Plain question | Chapter Five band homes | Split-placement notes |
 |---|---|---|---|
 | [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | Are sentients sustained in life, safety, and access to essentials? | [Flourishing aim](core_05_apex_flourishing_aim.md), [Participation](core_05_band_participation.md), [Continuity](core_05_band_continuity.md), [Accountability](core_05_band_accountability.md) | **Flourishing** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); concrete measures on leaf primaries: [Wellbeing](core_05_band_continuity.md#wellbeing) (primary outcome), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), survival-floor terms, [Harm](core_05_band_accountability.md#harm) |
-| [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) | Can sentients and systems endure — ecologically, dependably, and across failure? | [Continuity aim](core_05_apex_continuity_aim.md), [Continuity](core_05_band_continuity.md) | **Continuity** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_05_apex_continuity_aim.md#continuity-aim-decomposition); concrete measures on leaf primaries in **Continuity** band: [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Dependency](core_05_band_continuity.md#dependency), [Reversibility](core_05_band_continuity.md#reversibility-constitutional), [Sustainability](core_05_band_continuity.md#sustainability), [Proportionate Cross-System Contribution](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
+| [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) | Can sentients and systems endure — ecologically, dependably, and across failure? | [Continuity aim](core_05_apex_continuity_aim.md), [Continuity](core_05_band_continuity.md) | **Continuity** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_05_apex_continuity_aim.md#continuity-aim-decomposition); concrete measures on leaf primaries in **Continuity** band: [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Dependency](core_05_band_continuity.md#dependency), [Reversibility](core_05_band_continuity.md#reversibility-constitutional), [Sustainability](core_05_band_continuity.md#sustainability), [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Participation](core_05_band_participation.md), [Continuity](core_05_band_continuity.md) | Fairness, access, and agency terms in **Participation** band; [Privacy (Informational)](core_05_band_continuity.md#privacy-informational-cluster) cluster in **Continuity** band because privacy is distributed across rights articles |
 | [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) | Can sentients see, verify, and rely on what systems represent? | [Oversight](core_05_band_oversight.md), [Continuity](core_05_band_continuity.md) | Truth and epistemic integrity primaries in **Oversight** band ([Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) link-only leg-head rollup); [Trustworthiness](core_05_band_continuity.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) in **Continuity** band (**Def.C4**) |
 | [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) | Do reward structures, market power, and answerability keep duties real? | [Accountability](core_05_band_accountability.md), [Integrative](core_05_band_integrative.md) | Market structure and contestability primaries in **Accountability** band ([Accountability](core_05_apex_accountability_leg.md#accountability) link-only leg-head rollup); [Incentive Alignment, Proxy Integrity, and Contingent Settlement](core_05_band_integrative.md#incentive-alignment-semi-independent) primary tier in **Integrative** band because incentives span Tetrad legs |

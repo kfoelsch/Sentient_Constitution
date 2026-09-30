@@ -42,7 +42,7 @@ Kami bermaksud membangun sistem yang lebih baik — disusun untuk menghapus keti
 
 Tujuan itu harus dikejar bersama, selalu di dalam batasan prinsip yang tidak bisa ditawar dan perlindungan hak yang ditetapkan dalam Konstitusi ini. [**Tetrad Konstitusional**](#constitutional-tetrad) mengatur bagaimana pengejaran itu tetap sah: **partisipasi**, **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu** yang diskalakan ke [**taruhan material**](#material-stake). Definisi mengikat kaki Tetrad dan tujuan konstitusional hidup di Bab Lima: [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional), [Pengawasan](core_05_apex_oversight_leg.md#oversight-constitutional), [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability), [Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Berkembang](core_05_apex_flourishing_aim.md#flourishing-constitutional), dan [Kesinambungan](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. Tinjauan pengukuran
@@ -86,7 +86,7 @@ Pemahaman terdistribusi dan pengelolaan bertanggung jawab menuntut makhluk sadar
 
 Ketika Konstitusi menuntut aturan pengukuran konkret, **Domain Forum Teknis** di bawah [Bab Sebelas](core_11_forum.md#42-technical-forum-domains) mengembangkan dan memelihara standar bersama — cara mengukur, cara menguji, dan apa yang dihitung sebagai bukti andal. Forum yang bertanggung jawab atas sengketa tertentu kemudian menerapkan standar itu ketika memutuskan perkara itu di bawah [Bab Sebelas §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
-Pengelolaan bertanggung jawab konstitusional dimulai dengan menamai masalah dan [**taruhan material**](#material-stake) — seberapa besar dampak, ketergantungan, dan risiko yang terlibat. Berikutnya, pilih kategori dan subkategori [**pengukuran**](#2-the-measurements) yang relevan dari [tinjauan](#2-the-measurements) dan terapkan standar di atas untuk menguji efek dunia nyata, bukan metrik kenyamanan. Tuntut bukti yang dapat ditelusuri.
+Pengelolaan bertanggung jawab konstitusional dimulai dengan menamai masalah dan [**taruhan material**](#material-stake) — seberapa besar dampak, ketergantungan, dan risiko yang terlibat. Berikutnya, pilih kategori dan subkategori [**pengukuran**](#2-measurements-overview) yang relevan dari [tinjauan](#2-measurements-overview) dan terapkan standar di atas untuk menguji efek dunia nyata, bukan metrik kenyamanan. Tuntut bukti yang dapat ditelusuri.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Proses tata kelola utama
@@ -101,7 +101,7 @@ Di mana Bab Enam, [Bab Tujuh](../../core_08_a_system_alignment_certification_eva
 - **Tinjauan forum** ([Bab Sebelas](core_11_forum.md#1-purpose-and-role))
   - Sengketa biasa di dalam sistem yang sudah diizinkan memakai jalur gugatan terbitan [Partisipasi Sistemik Pihak Terdampak](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) lebih dulu
   - Jika jalur itu masih disengketakan, hilang, dikuasai, atau tidak dapat memberi pemulihan, rute menurut taruhan primer melalui forum yang diawasi
-  - Forum itu menopang bukti, pemindahan yang sah, dan batas waktu di bawah **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*)
+  - Forum itu menopang bukti, pemindahan yang sah, dan batas waktu di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*)
 
 <a id="33-governance-layers"></a>
 #### 3.3 Lapisan tata kelola
@@ -157,7 +157,7 @@ Setiap ringkasan menyatakan apa yang menjadi wilayah bab dan apa yang dihasilkan
 
 **Bab Enam — Hak dasar** ([Bagian A](../../core_06_rights_part_a.md) · [Bagian B](../../core_06_rights_part_b.md) · [Bagian C](../../core_06_rights_part_c.md) · [Bagian D](../../core_06_rights_part_d.md))
 
-- **Yang menjadi wilayahnya:** Menyatakan Lantai Hak dalam Pasal **I–XXVI** — hal pokok kelangsungan hidup, alokasi sumber daya dan pengelolaan ketergantungan yang bertanggung jawab, martabat, keagenan, partisipasi, gugatan dan pemulihan, batasan keadilan, ketepatan waktu di bawah **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*), dan aturan transisi — disusun untuk bacaan planet-lebih-dulu di empat bagian.
+- **Yang menjadi wilayahnya:** Menyatakan Lantai Hak dalam Pasal **I–XXVII** — hal pokok kelangsungan hidup, alokasi sumber daya dan pengelolaan ketergantungan yang bertanggung jawab, martabat, keagenan, partisipasi, gugatan dan pemulihan, batasan keadilan, ketepatan waktu di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*), dan aturan transisi — disusun untuk bacaan planet-lebih-dulu di empat bagian.
 - **Yang dihasilkannya:** Perlindungan hak yang tidak bisa ditawar dan kait pemulihan yang harus dihormati Bab Tujuh sampai Sebelas, forum, tata kelola, dan aturan amandemen — bukan dipersempit, dilewati, atau dikosongkan lewat prosedur atau metrik pengganti.
 
 <a id="5-key-practical-process-pipelines"></a>
@@ -187,7 +187,7 @@ Setiap langkah di bawah menyatakan apa yang menjadi wilayah bab dan apa yang dih
 
 - **Yang menjadi wilayahnya:** Mengintegrasikan klasifikasi terverifikasi menjadi **akibat jejak** dunia nyata pada jalur terpisah — diskalakan ke [**taruhan material**](#material-stake), tanpa melipat kontribusi dan pelanggaran menjadi satu skor bersih, dan tanpa mengosongkan partisipasi, pengawasan, pertanggungjawaban, atau ketepatan waktu.
   - **Jalur kontribusi:** Klasifikasi positif terverifikasi menghasilkan keuntungan praktis:
-    - [**Izin kompetensi**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) yang dapat membuka peran peka-kepercayaan, wewenang yang didelegasikan, kelayakan pengawasan, dan pengelolaan bertanggung jawab yang semakin berakibat ketika kompetensi dibuktikan terhadap palang kompetensi terbitan dan tidak ada [kunci jejak](../../core_10_standing_integration.md#42-general-standing-locks) yang berlaku yang menutup jalur bernama
+    - [**Izin kompetensi**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) yang dapat membuka peran peka-kepercayaan, wewenang yang didelegasikan, kelayakan pengawasan, dan pengelolaan bertanggung jawab yang semakin berakibat ketika kompetensi dibuktikan terhadap palang kompetensi terbitan dan tidak ada [kunci jejak](../../core_10_standing_integration.md#42-prevention--general-standing-locks) yang berlaku yang menutup jalur bernama
     - Pengakuan sepadan dan **imbalan material** atas pengelolaan bertanggung jawab yang sah dan kerja sama sebagaimana dituntut [Bab Satu](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)
     - Bukan pujian kosong. Manfaat harus nyata, didukung bukti, dan terbuka untuk digugat
   - **Jalur pelanggaran:** Temuan pelanggaran terverifikasi menghasilkan kerugian praktis:
@@ -211,7 +211,7 @@ Setiap langkah di bawah menyatakan apa yang menjadi wilayah bab dan apa yang dih
   - Bagaimana bukti ditopang
   - Bagaimana urusan dipindah atau digabung
   - Bagaimana aturan anti-menilai-sendiri menjaga forum yang dikuasai agar tidak menjadi rumah akhir satu-satunya
-  - Batas waktu di bawah **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) menjaga perkara agar tidak duduk tak terselesaikan begitu lama sampai pemulihan tidak lagi berarti
+  - Batas waktu di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) menjaga perkara agar tidak duduk tak terselesaikan begitu lama sampai pemulihan tidak lagi berarti
 - **Yang dihasilkannya:** **Temuan terverifikasi** yang dapat membuka atau memperbarui catatan jejak, plus perutean sah menuju pemulihan dan [penyelesaian tepat waktu](../../core_05_band_accountability.md#timely-resolution-constitutional). Forum mengawasi rantai; mereka tidak menggantikan pengukuran jejak Bab Delapan.
 
 <a id="51-how-the-full-chain-fits-together"></a>
@@ -225,7 +225,7 @@ Setiap langkah di bawah menyatakan apa yang menjadi wilayah bab dan apa yang dih
    - **Sifat pelanggaran:** Buka **catatan jejak pelanggaran** — berkas perkara terbatas yang dapat digugat untuk bahaya terverifikasi dan kegagalan pertanggungjawaban — dan klasifikasi **sifat pelanggaran** pada Sumbu Pelanggaran. Yang baik dan bahaya tidak pernah dilipat menjadi satu skor bersih; catatan tertaut saling merujuk tetapi tetap terpisah.
 3. **Terapkan akibat jejak pada setiap jalur** ([Bab Sembilan](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — kontribusi terverifikasi dapat memberi izin kompetensi dan menopang pengakuan sepadan serta imbalan material; pelanggaran terverifikasi dapat memicu kunci jejak, koreksi, dan [pemulihan bagi pihak yang dirugikan](../../core_10_standing_integration.md#41-remedy-and-correction).
 4. **Tinjauan penunjukan anti-konstitusi** ([Bab Sepuluh](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — jika temuan pelanggaran berdampak tertinggi juga dapat memenuhi kriteria anti-konstitusi, Bab Sepuluh memutuskan apakah penunjukan yang sesuai menempel. Penunjukan tidak mengubah seberapa serius Bab Delapan sudah menemukan bahayanya; akibat biasa Bab Sembilan berlanjut sejajar sampai penunjukan final memicu Kunci Kepercayaan Anti-Konstitusi.
-5. **Rute sengketa dan jaga pemulihan tepat waktu** ([Bab Sebelas](core_11_forum.md#1-purpose-and-role)) — forum mengawasi bagaimana perkara bergerak, jalur mana yang menanganinya, dan apakah batas waktu di bawah **Pasal XXIV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) terpenuhi agar pemulihan tidak mati dalam tunda. Sengketa biasa mengikuti [Urutan sengketa](core_11_forum.md#dispute-sequencing). Forum juga mengklasifikasi sengketa ke lima [tingkat materialitas](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) yang mencerminkan abjad klasifikasi sistem — dari urgensi kritis-kelangsungan-hidup sampai urusan privat/terbatas — dan perutean bawaan keluarga Integritas berlaku ketika penunjukan final Bab Sepuluh adalah taruhan primer.
+5. **Rute sengketa dan jaga pemulihan tepat waktu** ([Bab Sebelas](core_11_forum.md#1-purpose-and-role)) — forum mengawasi bagaimana perkara bergerak, jalur mana yang menanganinya, dan apakah batas waktu di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) terpenuhi agar pemulihan tidak mati dalam tunda. Sengketa biasa mengikuti [Urutan sengketa](core_11_forum.md#dispute-sequencing). Forum juga mengklasifikasi sengketa ke lima [tingkat materialitas](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) yang mencerminkan abjad klasifikasi sistem — dari urgensi kritis-kelangsungan-hidup sampai urusan privat/terbatas — dan perutean bawaan keluarga Integritas berlaku ketika penunjukan final Bab Sepuluh adalah taruhan primer.
 
 [Peta rantai jejak README](../../README.md#standing-pipeline-and-forums) memberi navigasi langsung untuk rantai di atas, termasuk masukan terverifikasi potensial Bab Tujuh ke pengukuran jejak.
 

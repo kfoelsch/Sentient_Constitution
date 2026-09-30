@@ -4,7 +4,7 @@
 The five-element set is the load-bearing artifact for costly cases.
 This tool asks a mechanical question: did the steward log the set, with
 required attributions, and with timestamps that match a published
-Chapter Twelve §6 / Article XXIV-C tier clock when a numeric bound applies?
+Chapter Twelve §6 / Article XXV-C tier clock when a numeric bound applies?
 
 Same schema for human and AI stewards. The log is not a standing record.
 

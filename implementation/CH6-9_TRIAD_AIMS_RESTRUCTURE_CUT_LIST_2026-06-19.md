@@ -1,7 +1,7 @@
 # Chapters Nine–Twelve Triad / Aims restructure cut list
 
 **Date:** 2026-06-19  
-**Scope:** Reader-comprehension reframe around [Constitutional Triad](../core_00_preamble.md#constitutional-triad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and the [standing pipeline and forums](../README.md#standing-pipeline-and-forums) navigation. Operative standing rules unchanged.
+**Scope:** Reader-comprehension reframe around [Constitutional Triad](../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../core_01_a_values_principles.md#two-constitutional-aims), and the [standing pipeline and forums](../README.md#standing-pipeline-and-forums) navigation. Operative standing rules unchanged.
 
 ## New anchors
 

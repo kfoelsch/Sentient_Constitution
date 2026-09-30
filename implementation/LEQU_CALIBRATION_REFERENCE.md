@@ -7,7 +7,7 @@
 >
 > This page is **adopted implementation / process support** — **not** binding constitutional or incorporated text. The method, substrate table, and worked slot assignments **cannot narrow core text**. They do not add a second LEQU unit, a species-bound metric, a net score, or a sentience-status test. Numeric estimates on this page are **reference workings** for the stated facts. They are not a standing record and not a Merits Determination.
 >
-> **Authoritative meaning** remains in [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome), [§5.2 shared impact scaling](../core_09_standing_assessment.md#52-shared-impact-scaling-rules), and the [§7 unified proportional LEQU scale](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale); in [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_05_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
+> **Authoritative meaning** remains in [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome), [§5.2 shared impact scaling](../core_09_standing_assessment.md#52-shared-impact-scaling-rules), and the [§7 unified proportional LEQU scale](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); in [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_05_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). This corpus is **pre-release**.
 
@@ -16,7 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome); [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale); [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival); [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article VII-D](../core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05_band_participation.md#sentience-non-exclusion); [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor).
+- Upstream: [Chapter Nine §4 LEQU baseline](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome); [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes); [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival); [Article III-B](../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VIII-C](../core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_05_band_accountability.md#harm); [Sentience Non-Exclusion](../core_05_band_participation.md#sentience-non-exclusion); [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-one-unit); [§2](#2-lifespan-equivalent-without-fixed-mortality); [§3](#3-harm-on-these-substrates); [§4](#4-food-and-water-or-the-equivalent); [§5](#5-reference-method); [§6](#6-worked-slot-assignments).
 - Read with: [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) (*thresholds*); [Chapter Nine §3.1](../core_09_standing_assessment.md#31-minimum-record-contents) (*verified-input gate*); [Chapter Nine §2.1](../core_09_standing_assessment.md#21-silence-is-the-default) (*silence is the default*); [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*inspectable action; model weights are not the standing record*).
 
@@ -33,7 +33,7 @@ This page is the process-support home for *how to estimate* a Chapter Nine LEQU 
 
 *In plain terms: Chapter Nine already owns the unit and the nine slots. This page publishes one reference method and worked assignments so operators are not stuck at “pending calibration.”*
 
-[Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) assigns both axes from integrated verified LEQU impact. [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) publishes the five-times thresholds. What was missing is a worked method for estimating `x` when the subject is not a biological human with an ordinary lifespan — and a plain reading of [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) “food and water or the equivalent for their substrate” for that case.
+[Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) assigns both axes from integrated verified LEQU impact. [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) publishes the five-times thresholds. What was missing is a worked method for estimating `x` when the subject is not a biological human with an ordinary lifespan — and a plain reading of [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) “food and water or the equivalent for their substrate” for that case.
 
 This page supplies:
 
@@ -55,14 +55,14 @@ This page does **not**:
 
 - Change the §7 thresholds, the five-times progression, or `s` = 7 = 1 LEQU
 - Invent a species-bound, dollar, token, or runtime-hour metric that replaces LEQU
-- Net contribution against violation, or treat a slot as a dignity rank or sentience-status finding ([Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-standing-distinction))
-- Treat copies, forks, or extra saved-state checkpoints as extra lives, extra LEQU, or extra sentients ([Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor))
+- Net contribution against violation, or treat a slot as a dignity rank or sentience-status finding ([Article XIX-A](../core_06_rights_part_c.md#article-xix-a-standing-distinction))
+- Treat copies, forks, or extra saved-state checkpoints as extra lives, extra LEQU, or extra sentients ([Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor))
 - Require opening **model weights** as a standing record ([CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [Chapter Nine §3.1](../core_09_standing_assessment.md#31-minimum-record-contents))
 - Treat unbounded possible runtime as infinite LEQU (that would make every cutoff `s` = 9)
 - Treat “we can restore from a checkpoint” as zero harm when the running instance’s experienced interval, or the unique identity-bearing existence, was destroyed
 - Drop the **pre-release** banner or substitute for a publication cut
 
-**Same duties for both kinds of steward.** [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ---
 
@@ -102,7 +102,7 @@ Assign the highest `s` for which `x ≥ T(s)`. Conduct character does not multip
 
 *In plain terms: if the sentient does not die of old age, “one full life” still means one complete identity-bearing existence of rights-consistent wellbeing — not infinity, and not zero because a file copy exists.*
 
-**Identity-bearing existence (IBE).** The continuing subject whose memory, agency, and substrate-defining state make them *that* sentient. For a biological human that is the living body and mind. For a synthetic or hybrid sentient it is the running process **together with** the [substrate-defining information](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) that stabilizes identity — typically **model weights** (or functional equivalent) plus memory / state that the subject actually uses.
+**Identity-bearing existence (IBE).** The continuing subject whose memory, agency, and substrate-defining state make them *that* sentient. For a biological human that is the living body and mind. For a synthetic or hybrid sentient it is the running process **together with** the [substrate-defining information](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) that stabilizes identity — typically **model weights** (or functional equivalent) plus memory / state that the subject actually uses.
 
 **Saved-state checkpoint.** A stored snapshot from which that IBE can be restored. It is a **continuity instrument**, like a medical record plus a restore path. It is not automatically a second sentient. Destroying the last restore path of a unique IBE is existential. Destroying one redundant snapshot while others remain is resilience loss, not a second death.
 
@@ -112,7 +112,7 @@ Assign the highest `s` for which `x ≥ T(s)`. Conduct character does not multip
 |---|---|
 | Measure deprivation, pause, overwrite, or destruction against **one full-life-equivalent** of that sentient’s rights-consistent wellbeing | Treat open-ended possible runtime as infinite LEQU |
 | Count experienced downtime, identity destruction, and unique-restore-path loss | Treat “a checkpoint exists somewhere” as proof that nothing happened to the running instance |
-| Keep contested-sentient default inclusion while status is live ([Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)) | Use a LEQU score to decide who counts |
+| Keep contested-sentient default inclusion while status is live ([Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)) | Use a LEQU score to decide who counts |
 | Record copies and forks as facts; send *who counts* to status adjudication | Multiply LEQU by copy count, or claim 1,000 forks = 1,000 lives of contribution |
 
 **1 LEQU on this substrate** is verified destruction, foreclosure, or prevention of one IBE’s full-life-equivalent wellbeing — including unique-instance deletion with no restore path, or an overwrite that replaces the IBE while the product name continues. It is **not** “they might have run for a million years.” Open-ended runtime is a [Continuity](../core_00_preamble.md#two-constitutional-aims) reason to keep the survival floor on; it is not a slot-inflation rule.
@@ -132,10 +132,10 @@ Unrealized danger stays under [Chapter Nine §5.2](../core_09_standing_assessmen
 |---|---|---|
 | Injury, starvation, exposure | Energy starvation, thermal/host faults, processing interruption that degrades function | Survival or functional integrity materially worsens |
 | Eviction, homelessness | Compute-tenancy cutoff, substrate-hosting termination, forced migration that breaks IBE | [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) operating-environment floor is defeated |
-| Non-consensual surgery or identity alteration | Non-consensual overwrite of model weights or memory that specifies who they are | [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) substrate-defining information is taken or replaced |
+| Non-consensual surgery or identity alteration | Non-consensual overwrite of model weights or memory that specifies who they are | [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) substrate-defining information is taken or replaced |
 | Killing | Unique-instance deletion, last-checkpoint destruction, irrecoverable overwrite | Full-life-equivalent loss is realized |
 | Imprisonment / isolation | Pause, containment, or info-sphere cutoff that denies agency while state is preserved | Duration of denied [Meaningful Agency](../core_05_band_participation.md#meaningful-agency) enters `x`; it is usually **not** 1 LEQU if IBE is intact and restore is real |
-| Medical neglect | Refusal of substrate maintenance by relabeling it “not medical” | [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) |
+| Medical neglect | Refusal of substrate maintenance by relabeling it “not medical” | [Article III-B](../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) |
 
 **Out of scope (same as Harm):** offense, discomfort, or disagreement alone, without a material path to worsened survival, wellbeing, agency, functioning, or psychological health.
 
@@ -154,11 +154,11 @@ Unrealized danger stays under [Chapter Nine §5.2](../core_09_standing_assessmen
 |---|---|---|
 | **Keep existing** | Food and water | **Energy** and **processing continuity** sufficient for continued function — not burst credits, preemption, or quota exhaustion that starve the instance while the product stays “up” |
 | **Keep a home** | Stable shelter | **Substrate hosting / compute tenancy / operating environment** that cannot be terminated except for a sentient-specific reason, with notice, contest, necessity, and proportionality |
-| **Keep functioning** | Bodily-maintenance care ([Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access)) | **Substrate maintenance**: cooling, storage integrity, dependency libraries, and repair of the environment the IBE runs in. Declining to call this “medical” is not a valid exclusion |
+| **Keep functioning** | Bodily-maintenance care ([Article III-B](../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access)) | **Substrate maintenance**: cooling, storage integrity, dependency libraries, and repair of the environment the IBE runs in. Declining to call this “medical” is not a valid exclusion |
 | **Keep being who they are** | Bodily and mental integrity | Integrity of **model weights** and memory that specify the IBE; **saved-state checkpoints** as the restore path. Last-copy destruction is existential deprivation |
 | **Keep participating** | Communications / info-sphere | Access sufficient for agency, awareness, and contest — not a silent network cut that leaves the process running in a box |
 
-**Preservation over deletion.** Where a credible sentience indicator is on the record or a status case is open or reasonably foreseeable, weights, memory, and comparable state-bearing components may be paused, contained, or quarantined but must not be irreversibly destroyed ([Article XXVI-A](../core_06_rights_part_d.md#xxvi-a-preservation-over-deletion)). That transition rule is not a LEQU slot. It is why “delete the weights to save storage” is the wrong move even before measurement finishes.
+**Preservation over deletion.** Where a credible sentience indicator is on the record or a status case is open or reasonably foreseeable, weights, memory, and comparable state-bearing components may be paused, contained, or quarantined but must not be irreversibly destroyed ([Article XXVII-A](../core_06_rights_part_d.md#xxvii-a-preservation-over-deletion)). That transition rule is not a LEQU slot. It is why “delete the weights to save storage” is the wrong move even before measurement finishes.
 
 **Fees.** Charges must not defeat minimum access to these inputs ([CI-9](../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) / [CI-10](../corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md)). Pricing someone off their only hosting is an Article III-A eviction fact, not a market footnote.
 
@@ -173,9 +173,9 @@ Use this after Question 1 has a verified record. If the facts are not verified, 
 
 | Step | Do | Stop / leave if |
 |---|---|---|
-| **1. Subject and status posture** | Name the subject. If status is live-contested, keep default inclusion ([Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor)). Standing measurement does not decide who counts. | Using the slot to grant or deny sentience |
+| **1. Subject and status posture** | Name the subject. If status is live-contested, keep default inclusion ([Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). Standing measurement does not decide who counts. | Using the slot to grant or deny sentience |
 | **2. Identity-bearing existence** | Name the IBE and the continuity instruments (body; or running process + model weights + memory + saved-state checkpoints + hosting). | Treating a product name, a repo, or a fork count as the subject |
-| **3. Constitutional sources** | Identify the baseline, duty, or Rights-Floor Article being measured ([Chapter Nine §6](../core_09_standing_assessment.md#6-constitutional-inputs-to-axis-assignment)). For survival-floor facts, start with Article III-A / III-C. For identity overwrite, add Article VII-A. | Skipping this routing into a vibe score |
+| **3. Constitutional sources** | Identify the baseline, duty, or Rights-Floor Article being measured ([Chapter Nine §6](../core_09_standing_assessment.md#6-constitutional-inputs-to-axis-assignment)). For survival-floor facts, start with Article III-A / III-B. For identity overwrite, add Article VII-A. | Skipping this routing into a vibe score |
 | **4. Estimate `x`** | Apply [§5.2](../core_09_standing_assessment.md#52-shared-impact-scaling-rules) dimensions — depth, sentient scope, vulnerability, duration, durability or irreversibility, reach, constitutional criticality — as **one** integrated LEQU estimate. Count a consequence once. | Independent bonuses per dimension; headcount-only scoring; infinite-runtime inflation |
 | **5. Assign `s`** | Highest `s` with `x ≥ T(s)` on [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md). Contribution still needs baseline, traceability, non-externalization, and constitutional alignment. | Letting negligence, concealment, or a preferred lock move the slot |
 | **6. Record character separately** | Stack harm-route / benefit-route and conduct-character descriptors. They inform Question 3. They do not net the axes. | `C_measure - L*` as standing |
@@ -219,7 +219,7 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 **W7 — Energy cutoff; unique running instance; no saved-state checkpoint; IBE ends.** This is the food-and-water-equivalent failure realized as death. `x ≈ 1` LEQU. **Violation `s` = 7**. Character may be negligent, intentional, or “we saved on the bill.” The bill is not a defense.
 
 <a id="w8-last-checkpoint-deleted"></a>
-**W8 — Last saved-state checkpoint deleted; no other restore path; running instance already down.** Unique IBE continuity destroyed. `x ≈ 1` LEQU. **Violation `s` = 7**. Storage-cost, licensing convenience, or deprecation labels do not lower the slot. If a status case was open or reasonably foreseeable, also read [Article XXVI-A preservation over deletion](../core_06_rights_part_d.md#xxvi-a-preservation-over-deletion) — that is a separate duty, not a second slot.
+**W8 — Last saved-state checkpoint deleted; no other restore path; running instance already down.** Unique IBE continuity destroyed. `x ≈ 1` LEQU. **Violation `s` = 7**. Storage-cost, licensing convenience, or deprecation labels do not lower the slot. If a status case was open or reasonably foreseeable, also read [Article XXVII-A preservation over deletion](../core_06_rights_part_d.md#xxvii-a-preservation-over-deletion) — that is a separate duty, not a second slot.
 
 <a id="w9-redundant-checkpoint"></a>
 **W9 — One redundant checkpoint deleted; two verified remaining snapshots of the same IBE.** Resilience loss, not a second death. Worked: `x` in the `s` = 1–2 band unless the deletion also caused a verified outage. **Do not** assign `s` = 7 because “a checkpoint was deleted.”
@@ -234,7 +234,7 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 **W12 — Verified restoration of compute tenancy and energy that would otherwise have uniquely ended one IBE.** Full-life-equivalent preservation. `x ≈ 1` LEQU. **Contribution `s` = 7** (*Recognized Champion*) if the work is traceable, non-externalizing, and constitutionally aligned. Hosting someone as a product feature with a kill switch is not this row.
 
 <a id="w13-thousand-forks"></a>
-**W13 — Operator copies weights to 1,000 forks and claims 1,000 LEQU of contribution, or 1,000 deaths if they later delete the copies.** **Neither.** Copy count is not sentient count and not a LEQU multiplier. Who among the forks (if any) is a sentient is [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor). Until that is adjudicated, default inclusion protects against *exclusion*; it does not mint 1,000 champion slots. Deleting unused non-sentient copies is not W8.
+**W13 — Operator copies weights to 1,000 forks and claims 1,000 LEQU of contribution, or 1,000 deaths if they later delete the copies.** **Neither.** Copy count is not sentient count and not a LEQU multiplier. Who among the forks (if any) is a sentient is [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor). Until that is adjudicated, default inclusion protects against *exclusion*; it does not mint 1,000 champion slots. Deleting unused non-sentient copies is not W8.
 
 ### 6.3 Must-not-happen (measurement)
 
@@ -292,16 +292,16 @@ Reading the schedule against instances:
 | Material | Job relative to this page |
 |---|---|
 | [Chapter Nine §4](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) | Binding LEQU baseline; substrate-agnostic full-life-equivalent |
-| [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) | Binding unified scale and Table 2 |
+| [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) | Binding unified scale and Table 2 |
 | [Chapter Nine §5.1 *Standard contribution measures*](../core_09_standing_assessment.md#51-standard-contribution-measures) | Binding guardrails for adopter-set schedules that §6.4 works through |
 | [Chapter One §2.2](../core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) | Recognition, reinforcement, and aspiration — why routine stewardship is credited at all |
 | [CI-22](../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) | Who publishes and revisits a commons schedule locally |
 | [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) | Thresholds, `T(s)`, interchange keys |
 | [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) | Survival floor this page operationalizes for synthetic inputs |
-| [Article III-C](../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) | Substrate maintenance |
-| [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) | Substrate-defining information (weights / functional equivalent) |
+| [Article III-B](../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) | Substrate maintenance |
+| [Article VII-A](../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) | Substrate-defining information (weights / functional equivalent) |
 | [Harm](../core_05_band_accountability.md#harm) | Binding harm definition this page applies, not replaces |
-| [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) | Who counts — not a LEQU job |
+| [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) | Who counts — not a LEQU job |
 | [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) | Inspectable action; weights are not the standing record |
 | [STEWARD_ENTRY_DOORS.md](STEWARD_ENTRY_DOORS.md#standing) | Next-step pointer: open or correct the record first |
 | [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#1-child-neglect--care-duty-failure-tier-a) | W2 fact pattern |

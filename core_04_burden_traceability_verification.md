@@ -36,6 +36,8 @@ Chapter Four is the constitutional owner of **burden allocation, compliance evid
 
 *In plain terms: if you claim compliance, you prove it — through one five-step check. Miss any step and the claim fails.*
 
+This section sets out who bears the burden of proof and how this chapter is enforced:
+
 - **Burden on the asserter:** The burden of demonstrating compliance rests on the system or actor asserting it.
 - **Exclusive enforcement pathway:** All evaluation standards referenced elsewhere in this chapter are enforced exclusively through sections **1** through **5** of this chapter.
 - **Integrated pipeline:** Sections **1** through **5** implement one verification pipeline; failure in any section fails the whole.
@@ -50,7 +52,7 @@ Read in order. Each step builds on the last; skip none.
 | **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§5](#5-compliance-evidence-standard) |
 
-**Plain-language access.** [Chapter One §3.4 — Plain-Language Accessibility Stewardship Duty](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05_band_accountability.md#contestability) or [Article XV: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §3.4**.
+**Plain-language access.** [Chapter One §3.4 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Chapters Two through Four require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_05_band_accountability.md#contestability) or [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter One §3.4 Plain-Language Accessibility (Participation and Stewardship Duty)**.
 
 ### 2. Definition Traceability Requirement
 <details>
@@ -122,7 +124,7 @@ Where verification is technically possible but not practically achievable, treat
 
 - Upstream: Principles: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
 - Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling**, and **CS-5** — operational cryptography, credentials, and information-type handling.
-- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05_band_oversight.md#foreseeability-diligence) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Five Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Chapter Five Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XV-A**, and **XVI-A** where environment-separation constraints are material.
+- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05_band_oversight.md#foreseeability-diligence) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Five Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Chapter Five Safety (Constraint)](core_05_band_continuity.md#safety-constraint) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XVI-A**, and **XVII-A** where environment-separation constraints are material.
 
 </details>
 
@@ -188,7 +190,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 - Upstream: [Chapter Two — Definition Structure and Component Requirements](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Chapter Three — Definition Integrity, Evasion, and Non-Compliance](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Chapter Four, sections 1 through 5](#1-exclusive-enforcement-and-burden-allocation).
 - Downstream: [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Read with: [Chapter Eight §16 — Reopening, Misalignment, and Non-Evasion](core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior recognition.
+- Read with: [Chapter Eight §16 — Reopening, Misalignment, and Non-Evasion](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior recognition.
 
 </details>
 

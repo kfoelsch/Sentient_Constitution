@@ -12,8 +12,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (participation leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
-- Downstream: Principles: [Preamble §1 The Model](../core_00_preamble.md#the-model); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [§12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline); [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) where the stakeholder layer applies; [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in [core_05_band_participation.md](core_05_band_participation.md).
+- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (participation leg; [material stake](core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](core_00_preamble.md#flourishing).
+- Downstream: Principles: [Preamble §1 The Model](core_00_preamble.md#the-model); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter One §9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [Chapter One §12.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1215-constitutional-outcome-claims-discipline); [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) where the stakeholder layer applies; [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in [core_05_band_participation.md](core_05_band_participation.md).
 - Read with: [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Contestability](core_05_band_accountability.md#contestability) (participation/accountability boundary), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) (timely participation), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [System Capture](core_05_band_continuity.md#system-capture), and Participation measurement family.
 
 </details>
@@ -25,41 +25,43 @@
 *In plain terms: give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.*
 
 <a id="participation-constitutional"></a>
+<a id="participation"></a>
 
-#### Participation
-
-- O: Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them — the Tetrad leg this entry names.
+- **What it is**
+  - Give affected sentients and [Stakeholders](core_05_band_participation.md#stakeholder) real voice in systems that affect them — the Tetrad leg this entry names.
   - **In scope:**
     - voice;
     - representation;
-    - contestable pathways; and
-    - proportionate access to consequential roles in systems that materially affect them — scaled with [material stake](../core_00_preamble.md#material-stake).
+    - contestable decision pathways; and
+    - proportionate access to consequential roles in systems that materially affect them — scaled with [material stake](core_00_preamble.md#material-stake).
     Distinct from the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) operational layer where governing authority is already authorized.
   - **Depends on:** the conditions this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition):
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
     - [Accessibility](core_05_band_participation.md#accessibility-constitutional);
     - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional); and
     - [Contestability](core_05_band_accountability.md#contestability).
-  - Out of scope: the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
+  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
 <a id="participation-constitutional-m"></a>
-- M: Can affected sentients actually be heard, treated fairly, and take part? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition).
 <a id="participation-constitutional-a"></a>
-- A:
-  - Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake).
-  - Distinguish substantive from symbolic participation — ask whether affected parties can actually:
-    - be heard;
-    - be represented;
-    - challenge decisions; and
-    - reach roles with real effect
-    under normal, degraded, and adversarial conditions.
+- **How to measure and assess**
+  - **Primary measure:** Can affected sentients actually be heard, treated fairly, and take part? This line only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition).
+  - **Primary assessment:**
+    - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+    - Distinguish substantive from symbolic participation — ask whether affected parties can actually:
+      - be heard;
+      - be represented;
+      - challenge decisions; and
+      - reach roles with real effect
+      under normal, degraded, and adversarial conditions.
 <a id="participation-constitutional-c"></a>
-- C: Non-compliant when:
-  - there is structural exclusion;
-  - token consultation substitutes for consequential voice;
-  - labels or ceremonies that do not actually change participation outcomes;
-  - contest pathways are inaccessible, captured, or ineffective where participation is materially required;
-  - role access is blocked by arbitrary gatekeeping disproportionate to [material stake](../core_00_preamble.md#material-stake); or
-  - participation capacity is degraded by [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) or [System Capture](core_05_band_continuity.md#system-capture) without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - there is structural exclusion;
+    - token consultation substitutes for consequential voice;
+    - labels or ceremonies that do not actually change participation outcomes;
+    - contest pathways are inaccessible, captured, or ineffective where participation is materially required;
+    - role access is blocked by arbitrary gatekeeping disproportionate to [material stake](core_00_preamble.md#material-stake); or
+    - participation capacity is degraded by [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) or [System Capture](core_05_band_continuity.md#system-capture) without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
 
 ---
 
@@ -101,7 +103,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 <br>
 
-*In plain terms: these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation. This is the Chapter Five home for the Participation measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.*
+*In plain terms: these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation. This is the Chapter Five home for the Participation measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
 *Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 

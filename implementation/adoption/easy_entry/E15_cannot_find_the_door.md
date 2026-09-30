@@ -19,7 +19,11 @@
 
 *In plain terms: if a system that matters to your life harmed you, you should be able to find a real way to challenge it without reading the whole rulebook first. A specialist portal, a hop count, or “come back with a lawyer” is not that door. This page points at the rules. It is not already that path.*
 
+<<<<<<< HEAD
 This page is for you if something went wrong and you cannot tell where to object, or the only next step is a maze. You do not have to take a label to use it. When the path itself is unusable, those rules are located in the section on [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship), [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline), and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy).
+=======
+This page is for you if something went wrong and you cannot tell where to object, or the only next step is a maze. You do not have to take a label to use it. When the path itself is unusable, those rules are located in the section on [Article XXI](../../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ## Lost in the maze is ordinary — not a type they get to invent
 
@@ -43,7 +47,11 @@ If a body that actually runs the systems in your life agreed to follow this Cons
 - **Today:** The only path is a specialist portal, a hop count, or “come back when you have a lawyer.”
 - **With this Constitution:** Challenge, review, and being made whole have to work in practice, in language you can actually use. Hiding the home is still a refusal.
 
+<<<<<<< HEAD
 See: [Article XX](../../../core_06_rights_part_c.md#article-xx-comprehensibility-and-complexity-stewardship); [Article XX-A](../../../core_06_rights_part_c.md#article-xx-a-proportional-comprehensibility-right); [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge).
+=======
+See: [Article XXI](../../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship); [Article XXI-A](../../../core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right); [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge).
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **Delay is not a neutral wait.**
 - **Today:** The inbox is open. The clock is not. Harm keeps compounding while the file sits.
@@ -73,6 +81,6 @@ See: [G01 — Challenge, review, and being made whole](G01_challenge_review_redr
 
 - Sibling briefs: [`README.md`](README.md)
 - Process guides: [`README.md#process-guides`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Everyday questions: [`../../FAQ.md`](../../FAQ.md)
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S11_cannot_find_the_door.md`](../../../evaluation/lived_situations/packets/S11_cannot_find_the_door.md)

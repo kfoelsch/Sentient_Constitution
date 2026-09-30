@@ -41,25 +41,29 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The contract is a waiver. “Independent” means no rest, no safety, no right to organize. The app says you opted out.
 - **With this Constitution:** Anyone who contributes productive work — wages, contracts, platforms, cooperatives, or comparable arrangements — holds fair compensation, collective organization, safe conditions, and rest. Classification tricks designed to defeat that are out.
 
-See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 **A schedule cannot be the price of a clinic or a meal.**
 - **Today:** The next shift overlaps the only clinic slot. Unpaid time off is the only swap. Missing the shift is treated as quitting.
 - **With this Constitution:** The labor floor is in play when scheduling is used to defeat healthcare or survival access. It does not rewrite every shift board for comfort.
 
-See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access); [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival).
+See: [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access); [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival).
 
 **A good-faith challenge is not supposed to cost the job.**
 - **Today:** Asking why the portal failed, or why the cut happened, is logged as attitude. The next roster disappears.
 - **With this Constitution:** Retaliation against good-faith reports is in the challenge floor. A workplace note is not, by itself, an official record of verified help or harm.
 
+<<<<<<< HEAD
 See: [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
+=======
+See: [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **Human and machine workers do not get two stacks.**
 - **Today:** The model is constrained; the human crew is told to skip the rule and “take responsibility.” Or the reverse: extra duties only the machine has to follow.
 - **With this Constitution:** One standard when it is costly. An extra rulebook only one kind of worker has to follow is a way to skip the rules.
 
-See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard).
+See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard).
 
 ## What you might reasonably object to
 
@@ -71,7 +75,7 @@ See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md
 
 - **“This isn’t labor law where I clock in.”** Correct. It does not override applicable employment or safety law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)).
 
-- **“I am not a ‘worker type.’”** You do not have to take that label to use this page. This brief is for someone who does the work while someone else holds the shop, the app, or the line. It does not change the Rights Floor that applies to you. When pay, rest, safety, organizing, or a schedule that blocks a clinic is actually at stake, those rules are located in the section on [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+- **“I am not a ‘worker type.’”** You do not have to take that label to use this page. This brief is for someone who does the work while someone else holds the shop, the app, or the line. It does not change the Rights Floor that applies to you. When pay, rest, safety, organizing, or a schedule that blocks a clinic is actually at stake, those rules are located in [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (pay and organizing), [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-safe-working-conditions) (safety), and [Article III-E](../../../core_06_rights_part_a.md#article-iii-e-rest-and-recuperation) (rest).
 
 ## What this will not pretend to give you
 
@@ -82,6 +86,6 @@ See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E08](E08_small_business_owner.md) if you run the shop; [E10](E10_system_operator.md) if you deploy a system others depend on; [E12](E12_informal_livelihood.md) if public protections are thin and a new app is the gate
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S07_worker_not_owner.md`](../../../evaluation/lived_situations/packets/S07_worker_not_owner.md)

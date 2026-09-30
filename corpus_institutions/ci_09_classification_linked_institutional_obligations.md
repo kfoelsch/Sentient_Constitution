@@ -67,7 +67,7 @@ This file is the institutional implementation home for **CI-9** (*Classification
 *Shared rules live elsewhere.* Class- and tier-scaling terms are in **CJS-3.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** does not repeat those floors; it keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
 Apply **CJS-3.11** **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
 **Constitutional floor for formation**
-The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05_band_participation.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05_band_participation.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article IX-B** (*Stakeholder Role and Participation Rights*) (System Creation) and **Article III-D** (*Labor and Economic Floor*) (Business Creation).
+The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05_band_participation.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05_band_participation.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article X-C** (*Stakeholder Role and Participation Rights*) (System Creation) and **Article III-C** (*Labor and Economic Floor*) (Business Creation).
 
 ## CI-9.1: Formation proportionality
 <details>
@@ -143,7 +143,7 @@ Subunits must remain **subordinate** to the parent mandate. They must not operat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.3.2**; **CI-9.3.1**; **CI-9.3.3**; **CI-9.3.4**; **CI-5**; **CI-7.2**; **CI-8**.
+- Read with: **CI-9.3.2**; **CI-9.3.1**; **CI-9.3.3**; **CI-9.3.4**; **CI-5**; **CI-7.2**; **CI-12**.
 
 </details>
 
@@ -155,9 +155,9 @@ Delegated subunits in scope must satisfy **CJS-2.1**. **CI-9.3.2** keeps only:
 
 - the institutional exception route when the local instrument departs from **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*);
 - the duty to publish substitute capture safeguards proportionate to institutional design class under **CI-5**; and
-- the external-assurance or **CI-8** independent-review requirement where that departure affects **Class A** or **Class B** scope.
+- the external-assurance or **CI-12** (*Cross-institution coordination and escalation*) independent-review requirement where that departure affects **Class A** or **Class B** scope.
 
-Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5**. For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2**, or a published **CI-8** functionally independent review arrangement.
+Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2** (*External assurance triggers*), or a published **CI-12** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
 
 ## CI-9.3.3: Rotating authority: attachment bounds
 <details>

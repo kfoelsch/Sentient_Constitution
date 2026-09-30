@@ -33,6 +33,7 @@ Order follows the Makefile `regression` list.
 | `section-label-anchor-audit` (+ `-test`) | **L** | `tools/section_label_anchor_audit.py` | SECTION-CITE-MATCH-01, SECTION-LABEL-ANCHOR-01, NAV-HEADING-SEQUENCE-01 | `§` / dotted-number link text must match the target heading and fragment; related cites need a current-numbering id; `core_*` numbered sibling headings must not duplicate or skip |
 | `section-cite-name-audit` (+ `-test`) | S | `tools/section_cite_name_audit.py` | SECTION-CITE-NAME-01 | Body-prose `§` / `§§` cites must carry a human-readable title; `--changed-only` in regression |
 | `heading-echo-topic-audit` (+ `-test`) | C | `tools/heading_echo_topic_audit.py` | MD-HEADING-TOPIC-01 | First body-prose line after widgets/gloss must not restate the numbered heading as a topic sentence |
+| `heading-runin-echo-audit` (+ `-test`) | C | `tools/heading_runin_echo_audit.py` | MD-HEADING-RUNIN-01 | First body line must not open with a bold run-in label that restates its own heading |
 | `fossil-anchor-audit` (+ `-test`) | **L** | `tools/fossil_anchor_audit.py` | — | Pre-release fragment policy: one current id per heading, no fossil aliases that would let stale cites keep resolving |
 | `primitive-retirement-audit` | C | `tools/primitive_retirement_audit.py` | — | Retired primitive label grammar |
 | `section-abbreviation-descriptor-audit` | C | `tools/section_abbreviation_descriptor_audit.py` | — | `--changed-only` in regression |
@@ -102,6 +103,7 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `ch1-ch5-alignment-audit` | `tools/ch1_ch5_alignment_audit.py` | CORE-TRACE | Chapter One D/A/C widgets ↔ Chapter Five guideposts; oDef backlinks |
 | `ch1-cjs3-alignment-audit` | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Also in `make regression`; Chapter One ↔ CJS-3 oDef clusters |
 | `ch1-ch6-alignment-audit` | `tools/ch1_ch6_alignment_audit.py` | — | Preamble / Chapter One ↔ Chapter Six articles, including Def.* and oDef cites |
+| `section-bullet-lead-audit` (+ `-summary`, `-test`) | `tools/section_bullet_lead_audit.py` | MD-SECTION-LEAD-01 | Sections open with lead-in prose, not a list item; Chapter Five definition files exempt. In `make regression` (blocking) |
 
 ### Definition appropriateness finding taxonomy (`definition-appropriateness-audit`)
 

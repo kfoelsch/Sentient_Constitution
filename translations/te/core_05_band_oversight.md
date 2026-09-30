@@ -185,7 +185,7 @@
     - మూలం రక్షణ;
     - విచారణ; మరియు
     - ప్రచురణ.
-    ఆ పని చేసే సంజ్ఞ ప్రాణులు [వ్యక్తీకరణ](core_05_band_participation.md#expression-constitutional) and [సమావేశం](core_05_band_participation.md#assembly-constitutional) హక్కుల నేల, దీని కింద పెంపొందిన-పరిశీలన రక్షణతో [అనుచ్ఛేదం V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, మరియు Press*) ఆ కార్యకలాపాన్ని బలహీనపరచే రాష్ట్ర మరియు నిర్వాహక చర్యలకు వ్యతిరేకంగా.
+    ఆ పని చేసే సంజ్ఞ ప్రాణులు [వ్యక్తీకరణ](core_05_band_participation.md#expression-constitutional) and [సమావేశం](core_05_band_participation.md#assembly-constitutional) హక్కుల నేల, దీని కింద పెంపొందిన-పరిశీలన రక్షణతో [అనుచ్ఛేదం V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, మరియు Press*) ఆ కార్యకలాపాన్ని బలహీనపరచే రాష్ట్ర మరియు నిర్వాహక చర్యలకు వ్యతిరేకంగా.
   - **పరిధి బయట:** వార్తా సేకరణ, విచారణ, లేదా పాత్రికేయతగా పనిచేసే ప్రచురణ కాని ప్రెస్ ధ్రువపత్రాలు, సంస్థ బిరుదులు, లేదా సాధారణ వాణిజ్య ప్రసంగం.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **కొలవడం మరియు అంచనా వేయడం ఎలా**
@@ -196,11 +196,11 @@
     - మూలం రక్షణ;
     - విచారణ; లేదా
     - సమాచార పర్యావరణానికి సేవ చేసే ప్రచురణ.
-    Spot actions that impair the press by their real effect, మరియు treat press-directed character as an aggravating factor under **అనుచ్ఛేదం XIII-A** (*Security, Intelligence, మరియు Covert-Power Limits*) and **అనుచ్ఛేదం V-H** (*Expression, Assembly, మరియు Press*). Apply heightened [ఆవశ్యకత](core_05_band_accountability.md#necessity) and [అనుపాతత](core_05_band_accountability.md#proportionality) scrutiny, మరియు keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, మరియు treat press-directed character as an aggravating factor under **అనుచ్ఛేదం XIV-A** (*Security, Intelligence, మరియు Covert-Power Limits*) and **అనుచ్ఛేదం V-H** (*Expression, Assembly, మరియు Press*). Apply heightened [ఆవశ్యకత](core_05_band_accountability.md#necessity) and [అనుపాతత](core_05_band_accountability.md#proportionality) scrutiny, మరియు keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **ఏది నిలవాలి**
   - **ప్రాథమిక వైఫల్యం:** పెంపొందిన-పరిశీలన పరిమితి విశ్లేషణలో విఫలమయ్యే, పాత్రికేయ కార్యకలాపాన్ని బలహీనపరచే రాష్ట్ర లేదా నిర్వాహక చర్యలు;
-  - **ద్వితీయ వైఫల్యం:** stretching [సద్భావన](core_05_band_accountability.md#good-faith) or **అనుచ్ఛేదం VIII-C** (*Truthful Publication and High-Impact Publication Limits*) ఆ ప్రమాణాలు చట్టబద్ధ విమర్శాత్మక నివేదిక, విచారణ ప్రచురణ, లేదా అసమ్మతిని నిరోధించేలా;
+  - **ద్వితీయ వైఫల్యం:** stretching [సద్భావన](core_05_band_accountability.md#good-faith) or **అనుచ్ఛేదం IX-C** (*Truthful Publication and High-Impact Publication Limits*) ఆ ప్రమాణాలు చట్టబద్ధ విమర్శాత్మక నివేదిక, విచారణ ప్రచురణ, లేదా అసమ్మతిని నిరోధించేలా;
   - **తృతీయ వైఫల్యం:** పాత్రికేయతగా పనిచేసే వార్తా సేకరణ, విచారణ, లేదా ప్రచురణ లేకుండా పాత్రికేయ పరీక్షగా వాడిన ధ్రువపత్రాలు, సంస్థ స్థాయి, లేదా సాధారణ వాణిజ్య ప్రసంగం.
 
 ---
@@ -662,7 +662,7 @@
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), మరియు assurance depth when Chapters Two through Four require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**పర్యవేక్షణ చట్రం.** దీని కింద the [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, మరియు get audit access — owned here and at **అనుచ్ఛేదం XV** (*Audit, Transparency, మరియు Independent Verification*). [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [అధ్యాయం ఏడు](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**పర్యవేక్షణ చట్రం.** దీని కింద the [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, మరియు get audit access — owned here and at **అనుచ్ఛేదం XVI** (*Audit, Transparency, మరియు Independent Verification*). [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [అధ్యాయం ఏడు](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **వ్యవస్థ తరగతి మరియు అనుపాతం.** Transparency, auditability, మరియు verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — వ్యవస్థ వర్గీకరణ మరియు నిర్వహణ**, మరియు with material impact, dependency, మరియు risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), వీటితో సహా:
 - లోతైన హామీ;
@@ -758,7 +758,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - క్లస్టర్ భాగం: [Def.O1 పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- గమ్యం: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [అధ్యాయం ఏడు §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [అధ్యాయం ఏడు Part B §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [అధ్యాయం ఏడు Part B §12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, మరియు contestability*).
+- గమ్యం: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [అధ్యాయం ఏడు §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [అధ్యాయం ఏడు Part B §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [అధ్యాయం ఏడు Part B §12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, మరియు contestability*).
 - దీనితో చదవండి: [పారదర్శకత](core_05_band_oversight.md#transparency), [సవాలు-యోగ్యత](core_05_band_accountability.md#contestability), [ఆడిట్-యోగ్యత](core_05_band_oversight.md#auditability), [ప్రమాద బహిర్గతం](core_05_band_oversight.md#risk-disclosure), [పరిధి పత్రం](core_05_band_continuity.md#charter), [వ్యవస్థ సరిహద్దులు](core_05_band_continuity.md#system-boundaries), [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional), [వ్యవస్థ ధృవీకరణ రికార్డు](core_05_band_continuity.md#system-certification-record-constitutional), [వ్యవస్థ వర్గీకరణ రికార్డు](core_05_band_continuity.md#system-classification-record-constitutional), [వ్యవస్థ డేటా రకాలు రికార్డు](core_05_band_continuity.md#system-data-types-record-constitutional), [వర్గీకరణ-స్కేల్ పాలన](core_05_band_oversight.md#classification-scaled-governance), మరియు **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
@@ -882,8 +882,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - క్లస్టర్ భాగం: [Def.O1 పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [సవాలు-యోగ్యత](core_05_band_accountability.md#contestability), [జ్ఞాన సమగ్రత](core_05_band_oversight.md#epistemic-integrity), [పారదర్శకత](core_05_band_oversight.md#transparency), [ధృవీకరణీయత](core_05_band_oversight.md#verifiability), [సాక్ష్యం సంరక్షణ](core_05_band_oversight.md#evidence-preservation), మరియు [అంచనా పూర్తిత్వ పరిమితి](core_05_band_oversight.md#evaluation-completeness-constraint).
-- దీనితో చదవండి: **అనుచ్ఛేదం XV** (*Audit, Transparency, మరియు Independent Verification*); [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- స్టూవర్డ్ ద్వారం (అసంచాలకం): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (అనుచ్ఛేదం XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [అనుచ్ఛేదం XV](../../core_06_rights_part_c.md#audit-three-layers).
+- దీనితో చదవండి: **అనుచ్ఛేదం XVI** (*Audit, Transparency, మరియు Independent Verification*); [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
+- స్టూవర్డ్ ద్వారం (అసంచాలకం): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (అనుచ్ఛేదం XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [అనుచ్ఛేదం XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1076,7 +1076,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
 - క్లస్టర్ భాగం: [Def.O1 పారదర్శకత, ఆడిట్-యోగ్యత, మరియు ధృవీకరణ](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- యజమాని నేల: [అనుచ్ఛేదం XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- యజమాని నేల: [అనుచ్ఛేదం XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - దీనితో చదవండి: [ఆడిట్-యోగ్యత](core_05_band_oversight.md#auditability), [పారదర్శకత](core_05_band_oversight.md#transparency), [సవాలు-యోగ్యత](core_05_band_accountability.md#contestability), [అనుపాతత](core_05_band_accountability.md#proportionality), [సాధ్యత](core_05_band_accountability.md#feasibility), [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint), మరియు [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1088,7 +1088,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **అది ఏమిటి**
   - **పరిధిలో:** Whether system behavior, outputs, మరియు effects can be externally detected, measured, మరియు independently validated for [ఆడిట్-యోగ్యత](core_05_band_oversight.md#auditability). Constitutive conditions:
     - స్వతంత్ర ధృవీకరణకు ముందు బాహ్య గుర్తింపు లెక్క;
-    - practical access ([అనుచ్ఛేదం XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [సాధ్యత](core_05_band_accountability.md#feasibility));
+    - practical access ([అనుచ్ఛేదం XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [సాధ్యత](core_05_band_accountability.md#feasibility));
     - నిర్వాహక స్వయం-ప్రకటన నుండి స్వాతంత్ర్యం;
     - proportionate burden under [అనుపాతత](core_05_band_accountability.md#proportionality) and [భౌతిక ప్రభావం](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, మరియు [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1113,7 +1113,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **ద్వితీయ కొలత:** [పర్యవేక్షణ కొలత కుటుంబం](core_05_apex_oversight_leg.md#oversight-measurement-family) — *సంజ్ఞ ప్రాణులు వ్యవస్థలు చూపించేదాన్ని చూడగలరా, ధృవీకరించగలరా, ఆధారపడగలరా?* ఇక్కడ ఇది అడగండి: observed behavior can be independently validated by reproducible methods in practice.
 
     **ద్వితీయ అంచనా:** స్వతంత్ర ధృవీకరణను ఈ పద్ధతులతో నిర్ధారించండి:
-    - affected and appropriately authorized parties can actually perform ([అనుచ్ఛేదం XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [సాధ్యత](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([అనుచ్ఛేదం XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [సాధ్యత](core_05_band_accountability.md#feasibility));
     - బాహ్యంగా గుర్తించదగిన సాక్ష్యంపై ఆనుకోండి — అంతరంగిక ప్రకటనలు లేదా అనుమానించిన ఉద్దేశం కాదు;
     - are sized to system impact under [అనుపాతత](core_05_band_accountability.md#proportionality) and [భౌతిక ప్రభావం](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, మరియు [ప్రతికూల, స్కేల్, మరియు దోపిడీ షరతులు](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1226,7 +1226,7 @@ Where admission scope is met, this cluster is the home for honest representation
     from good-faith observation and bounded interpretation, under [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint) and [సద్భావన](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **ఏది నిలవాలి**
-  - Good-faith publication of observations, evidence, మరియు bounded interpretations is governed by అధ్యాయం పదకొండు **Articles VIII**, **XII**, మరియు **XIII** as applicable and must satisfy this cluster jointly under [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint), [సద్భావన](core_05_band_accountability.md#good-faith), మరియు [జ్ఞాన సమగ్రత](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, మరియు bounded interpretations is governed by అధ్యాయం పదకొండు **Articles IX**, **XIII**, మరియు **XIV** as applicable and must satisfy this cluster jointly under [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint), [సద్భావన](core_05_band_accountability.md#good-faith), మరియు [జ్ఞాన సమగ్రత](core_05_band_oversight.md#epistemic-integrity).
   - **ప్రాథమిక వైఫల్యం:** తెలిసి అబద్ధ ప్రచురణ, లేదా వీటికి నిర్లక్ష్య విస్మరణతో చేసిన ప్రచురణ:
     - ఖచ్చితత్వం;
     - అనిశ్చితి;

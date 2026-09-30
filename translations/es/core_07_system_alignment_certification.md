@@ -32,7 +32,7 @@
 *En términos sencillos: el Capítulo Siete está partido en dos — la Parte A para cómo evaluar, la Parte B para el registro y el proceso. Léanlos como un solo capítulo.*
 
 Lean primero la **Parte A** para los requisitos de evaluación; la **Parte B** para el registro, el proceso de foro y el puente de trayectoria.
-Bajo la pata **supervisión** de la Tétrada, la supervisión exige auditoría; el Capítulo Siete es un proceso de auditoría especialmente grande y de alto enjuego entre otros (revisión de alineación supervisada por foro con resultados de reconocimiento). Los pisos de auditoría siguen en el **Artículo XV** y en la [Auditabilidad](core_05_band_oversight.md#auditability) del Capítulo Cinco.
+Bajo la pata **supervisión** de la Tétrada, la supervisión exige auditoría; el Capítulo Siete es un proceso de auditoría especialmente grande y de alto enjuego entre otros (revisión de alineación supervisada por foro con resultados de reconocimiento). Los pisos de auditoría siguen en el **Artículo XVI** y en la [Auditabilidad](core_05_band_oversight.md#auditability) del Capítulo Cinco.
 - [Capítulo Siete, Parte A — Evaluación](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [Capítulo Siete, Parte B — Registro y proceso](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

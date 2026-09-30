@@ -14,11 +14,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve §7](../core_12_forum.md#7-forum-support-before-during-and-after-review) (*forum support before, during, and after review — inspection and investigative interfaces*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve §7](../core_12_forum.md#7-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review — inspection and investigative interfaces*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-9.1 Basic rule](#cf-91-basic-rule); [CF-9.2 Why independence matters](#cf-92-why-independence-matters); [CF-9.3 Where the investigative service belongs](#cf-93-where-the-investigative-service-belongs); [CF-9.4 What investigators may do](#cf-94-what-investigators-may-do); [CF-9.5 Required separations](#cf-95-required-separations); [CF-9.6 No self-investigation](#cf-96-no-self-investigation); [CF-9.7 Rights, secrecy, and protected activity](#cf-97-rights-secrecy-and-protected-activity); [CF-9.8 Records, referrals, and backup routes](#cf-98-records-referrals-and-backup-routes).
 - Read with: **CF-9**; **CF-9.1**; **CF-9.2**; **CF-9.3**; **CF-9.4**; **CF-9.5**; **CF-9.6**; **CF-9.7**; **CF-9.8**.
 - Topic routing (mandatory read-with): **CJS-R22** (*Standing-record custody, opening authority, and segregation of duties*) in **CJS-0.1** (*Topic router*); primary owner **CI-3**.
-- Topic routing (primary owner): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-8**.
+- Topic routing (primary owner): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-12**.
 
 </details>
 
@@ -46,8 +46,8 @@
 - [Forum Family, Technical](../core_05_band_accountability.md#forum-family-technical) · [O](../core_05_band_accountability.md#forum-family-technical) · [M](../core_05_band_accountability.md#forum-family-technical-a) · [A](../core_05_band_accountability.md#forum-family-technical-a) · [C](../core_05_band_accountability.md#forum-family-technical-c)
 - [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment) · [O](../core_05_band_integrative.md#incentive-alignment) · [M](../core_05_band_integrative.md#incentive-alignment-a) · [A](../core_05_band_integrative.md#incentive-alignment-a) · [C](../core_05_band_integrative.md#incentive-alignment-c)
 - [Primary-Stakes Routing](../core_05_band_accountability.md#primary-stakes-routing) · [O](../core_05_band_accountability.md#primary-stakes-routing) · [M](../core_05_band_accountability.md#primary-stakes-routing-a) · [A](../core_05_band_accountability.md#primary-stakes-routing-a) · [C](../core_05_band_accountability.md#primary-stakes-routing-c)
-- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_integrative.md#sentient-composite-c)
-- [Systemic](../core_05_band_accountability.md#systemic) · [O](../core_05_band_accountability.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
+- [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_participation.md#sentient-composite-c)
+- [Systemic](../core_05_band_continuity.md#systemic) · [O](../core_05_band_continuity.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
 
 </details>
 
@@ -103,6 +103,8 @@ Investigation must be institutionally separate from ordinary **local enforcement
 <br>
 
 *In plain terms: Investigators must sit in a protected line of their own, not under the same command as the enforcement or prosecution they may need to examine.*
+
+This subsection sets out where investigative services belong and the conditions they operate under:
 
 - **Independent home:** Investigative services should sit in an **independent assurance**, **integrity**, or similarly protected constitutional line. They must not be housed under the same ordinary command chain that carries out local enforcement, constitutional enforcement, security operations, prosecution, or final merits decision-making.
 - **Accredited service model:** Adopting instruments may allow independent investigative or security-support providers to serve forums, institutions, communities, or individuals, provided the provider is lawfully accredited, qualified, and subject to published constitutional operating rules.
@@ -177,6 +179,8 @@ Where investigative, security-support, or enforcement-adjacent bodies exercise m
 
 <br>
 
+This subsection sets out the non-forum investigative, security-support, and enforcement roles:
+
 - **Investigators** develop, preserve, analyze, and explain facts. They may recommend referral, closure, remediation, or further lawful process, but they do not decide charges, sanctions, final liability, final constitutional meaning, or final standing effects.
 - **Independent security-support providers** may protect sentients, evidence, records, facilities, or forum access; assess security risk; advise on stabilization; and support lawful protective measures. They must not become ordinary local enforcement, constitutional enforcement command, detention command, private coercive enforcement, or a way to bypass public authorization and review.
 - **Local enforcement** may secure scenes, stabilize emergencies, execute lawful custody or access-control steps, serve process, carry out immediate protection, execute forum orders within local scope, or provide comparable local operational support. It must not have exclusive control over the investigation, especially when local enforcement personnel, detention personnel, security services, charging authorities, alignment enforcement authorities, forums, or closely aligned actors may be subjects, witnesses, or materially interested participants.
@@ -193,6 +197,8 @@ Where investigative, security-support, or enforcement-adjacent bodies exercise m
 </details>
 
 <br>
+
+This subsection sets out the roles of forums and forum-adjacent bodies:
 
 - **Forums** may authorize warrants, compulsory process, preservation orders, secrecy limits, and comparable intrusive steps. They may resolve disputes about scope, privilege, rights, standards compliance, admissibility, and the finished record. They must not become the routine managers of investigators or quietly turn executive fact-development into chamber work.
 - **Technical forums** may set, revise, and review investigative and security standards, including forensic quality, evidentiary sufficiency, expert qualifications, security protocols, testing methods, chain of custody, uncertainty treatment, and standards conformance. They may answer certified technical questions, but they must not displace primary-stakes routing or become the merits forum merely because investigative or security standards are involved.
@@ -214,7 +220,7 @@ No body may keep sole control over an investigation into its own misconduct, cap
 
 If the allegations materially involve **local enforcement**, **constitutional enforcement**, **charging authorities**, **alignment enforcement authorities**, **forums**, detention personnel, executive leadership, or the investigative service itself, a published backup mechanism must activate. That mechanism must provide transfer, co-assignment, or external participation sufficient to make the investigation functionally independent.
 
-**Standing records when the operator is the subject.** The same rule reaches [Chapter Nine §3.7 Record custody and opening authority](../core_09_standing_assessment.md#37-record-custody-and-opening-authority). Where the ordinary record-opening authority for a standing record is the record's subject, a party claiming the contribution or alleging the violation, or an office in their [Material Control Line](../core_05_band_accountability.md#material-control-line), the investigative service is a default independent verifier of the factual basis: it produces the verified finding that a Chapter Nine standing record may rest on under [§3.1 Minimum record contents](../core_09_standing_assessment.md#31-minimum-record-contents) and hands it to the record-opening authority or supervising forum the Charter or designation names (**CF-9.8** (*Records, referrals, and backup routes*)). It does not measure the finding under Chapter Nine §4 (*Question 2 — how good or bad was it?*), apply Chapter Ten effects, or become the record custodian. A steward inside the operator who halted, logged, preserved, and escalated under [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) is a witness to that verification, not its author.
+**Standing records when the operator is the subject.** The same rule reaches [Chapter Nine §3.7 Record custody and opening authority](../core_09_standing_assessment.md#37-record-custody-and-opening-authority). Where the ordinary record-opening authority for a standing record is the record's subject, a party claiming the contribution or alleging the violation, or an office in their [Material Control Line](../core_05_band_accountability.md#material-control-line), the investigative service is a default independent verifier of the factual basis: it produces the verified finding that a Chapter Nine standing record may rest on under [Chapter Nine §3.1 Minimum record contents](../core_09_standing_assessment.md#31-minimum-record-contents) and hands it to the record-opening authority or supervising forum the Charter or designation names (**CF-9.8** (*Records, referrals, and backup routes*)). It does not measure the finding under Chapter Nine §4 (*Question 2 — how good or bad was it?*), apply Chapter Ten effects, or become the record custodian. A steward inside the operator who halted, logged, preserved, and escalated under [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) is a witness to that verification, not its author.
 
 ## CF-9.7 Rights, secrecy, and protected activity
 <details>
@@ -229,7 +235,7 @@ If the allegations materially involve **local enforcement**, **constitutional en
 
 *In plain terms: Investigations may sometimes need sealed steps and delayed notice, but secrecy stays bounded by necessity, proportionality, and oversight — it is not a blanket exemption.*
 
-Investigations sometimes need restrictions, delayed notice, sealed steps, compartmentalization, or special handling of protected activity. Those measures remain governed by `core_06_rights_part_c.md` **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*), **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*), [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), and any applicable secrecy-implementation rules.
+Investigations sometimes need restrictions, delayed notice, sealed steps, compartmentalization, or special handling of protected activity. Those measures remain governed by `core_06_rights_part_c.md` **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), **Chapter Five** (*Necessity*, *Proportionality*, *Oversight*, *Accountability*, *Transparency*), [Evidence Preservation](../core_05_band_oversight.md#evidence-preservation), and any applicable secrecy-implementation rules.
 
 CF-9 adds a forum-interface record rule. When a secrecy-constrained or intrusive measure is requested, authorized, reviewed, renewed, narrowed, or found defective, the record must explain:
 - the lawful objective;
@@ -255,13 +261,13 @@ The investigative service must produce records that an ordinary affected sentien
 
 Those records must support:
 - prosecutorial or civil-enforcement decisions without making the investigators the final charging or merits authority;
-- a verified-finding handoff sufficient for a Chapter Nine standing record where the investigative service acted as independent verifier under **CF-9.6** (*No self-investigation*) — stating the subject, bounded event or pattern, time window, verified and disputed facts, verification materials, and the record-opening authority or supervising forum it is handed to under [Chapter Nine §3.7](../core_09_standing_assessment.md#37-record-custody-and-opening-authority) — without the investigators measuring the finding or entering the record themselves;
+- a verified-finding handoff sufficient for a Chapter Nine standing record where the investigative service acted as independent verifier under **CF-9.6** (*No self-investigation*) — stating the subject, bounded event or pattern, time window, verified and disputed facts, verification materials, and the record-opening authority or supervising forum it is handed to under [Chapter Nine §3.7 Record custody and opening authority](../core_09_standing_assessment.md#37-record-custody-and-opening-authority) — without the investigators measuring the finding or entering the record themselves;
 - forum review without turning the forums into the investigators' command hierarchy;
 - contest-integrity monitoring under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) without collapsing structural oversight into case management.
 
 Where local independence is not credible because of concentration, emergency incapacity, deadlock, or systemic capture indicators, institutions must escalate to one of these:
 
-- [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*);
+- [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) (*Cross-institution coordination and escalation*);
 - external assurance;
 - another pre-designated backup body with lawful authority and practical capacity to investigate.
 

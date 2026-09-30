@@ -60,6 +60,6 @@ See: …
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md)
 - (Optional operators-only:) lived packet `evaluation/lived_situations/packets/SXX_….md` — **not** this sitting’s answer key

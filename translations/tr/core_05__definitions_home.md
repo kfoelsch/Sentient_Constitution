@@ -260,7 +260,7 @@ Bu dizin **Tanımlar A-Z** ve **Kümeler A-Z**yi ayrı listeler. Her görünür 
 - [Korunan özellikler](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [Korunan veri ve iç-durum yayımlama kısıtı](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [Korunan iç-durum sınırı](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [Korunan mahrem-sinyal kapılama ve **Madde X-C** (*Yetişkin rızalı ticari cinsel hizmetler ve cinsel sömürü*) statü dolanması](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [Korunan mahrem-sinyal kapılama ve **Madde XI-C** (*Yetişkin rızalı ticari cinsel hizmetler ve cinsel sömürü*) statü dolanması](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [Korumalı bildirim (İhbar)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [Korumalı bildirime misilleme ve erişim müdahalesi](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [Vekil sapması](../../core_05_band_oversight.md#proxy-divergence)

@@ -25,7 +25,7 @@ Rows name **capabilities**, not apps. [CS-5](../../corpus_systems/cs_05_design_t
 
 A **user-reachable act** is something an ordinary sentient, party, steward, auditor, forum participant, or the public must be able to **do or inspect** through a durable interface. Audiences other than “end user” still count. Digital is the usual form; analog (paper, hearing, published notice, manual continuity) remains lawful unless the source already requires a digital channel.
 
-**Do not invent a standing portal for everyone.** [Chapter Eight §2.1](../../core_08_standing_assessment.md#21-silence-is-the-default) — silence is the default; most sentients never have a standing record. Tools under [§3.5](../../core_08_standing_assessment.md#35-implementation-tools) are optional and must not bury fields in a score.
+**Do not invent a standing portal for everyone.** [Chapter Eight §2.1](../../core_09_standing_assessment.md#21-silence-is-the-default) — silence is the default; most sentients never have a standing record. Tools under [§3.5](../../core_09_standing_assessment.md#35-implementation-tools) are optional and must not bury fields in a score.
 
 ## Two layers
 
@@ -97,8 +97,8 @@ What an adopter must stand so the instrument can run. Full cites are in the CSV.
 |---|---|---|---|---|---|
 | Publish / inspect Charter | public, steward, auditor | class-scaled-must | mixed | Explicit | [Charter](../../core_05_band_continuity.md#charter); [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) |
 | Type O package (Charter, classification, data-types, certification public views) | public | class-scaled-must | mixed | Explicit | [Public Oversight Baseline Disclosure](../../core_05_band_oversight.md#public-oversight-baseline-disclosure); [CS-2 §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems) |
-| Inspect / challenge System Classification, Data Types, and Certification Records | public, party, auditor, forum | class-scaled-must | mixed | Explicit | CS-3 §7; CS-2 §8; [Ch.7 Part B §11–12](../../core_07_b_system_alignment_certification_record_process.md#11-certification-record) |
-| Name record-opening authority and custodian on the Charter | steward, party, auditor | must | yes | Explicit | [Ch.8 §3.7](../../core_08_standing_assessment.md#37-record-custody-and-opening-authority); CI-3.6 field 11 |
+| Inspect / challenge System Classification, Data Types, and Certification Records | public, party, auditor, forum | class-scaled-must | mixed | Explicit | CS-3 §7; CS-2 §8; [Ch.7 Part B §11–12](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) |
+| Name record-opening authority and custodian on the Charter | steward, party, auditor | must | yes | Explicit | [Ch.8 §3.7](../../core_09_standing_assessment.md#37-record-custody-and-opening-authority); CI-3.6 field 11 |
 
 Paywall of the Type O floor, where lawful online publication exists, is already a failure on the Chapter Five home. Analog-only posting does not satisfy that online-availability test; analog remains usable where digital publish is not the channel.
 
@@ -106,15 +106,15 @@ Paywall of the Type O floor, where lawful online publication exists, is already 
 
 | Capability | Audience | Obligation | analog_ok | Status | Owner stack |
 |---|---|---|---|---|---|
-| Notice when a standing record opens | subject | must | yes | Explicit | [Ch.8 §2.1](../../core_08_standing_assessment.md#21-silence-is-the-default) |
-| Inspect own records; see the challenge path | subject, party, auditor, forum | must | mixed | Explicit | [Ch.8 §3.1](../../core_08_standing_assessment.md#31-minimum-record-contents) |
-| Challenge, correct, version | subject, party, forum | must | yes | Explicit | [Ch.8 §3.4 / §3.6](../../core_08_standing_assessment.md#36-forum-boundary); [Ch.11 §2.3](../../core_11_forum.md#23-forum-records-standing-records-and-contests) |
-| Integration record; remedy owed; lock terms; contest lock | party, subject, public | must | yes | Explicit | [Ch.9 §2](../../core_09_standing_integration.md#2-integration-record-and-decision-order), [§4.1](../../core_09_standing_integration.md#41-remedy-and-correction), [§5.3](../../core_09_standing_integration.md#53-record-visibility-and-escalation) |
-| Plain-language statement of effect and burden | subject | must | yes | Explicit | [Ch.9 §7.2](../../core_09_standing_integration.md#72-plain-statement-of-effect-and-burden) |
+| Notice when a standing record opens | subject | must | yes | Explicit | [Ch.8 §2.1](../../core_09_standing_assessment.md#21-silence-is-the-default) |
+| Inspect own records; see the challenge path | subject, party, auditor, forum | must | mixed | Explicit | [Ch.8 §3.1](../../core_09_standing_assessment.md#31-minimum-record-contents) |
+| Challenge, correct, version | subject, party, forum | must | yes | Explicit | [Ch.8 §3.4 / §3.6](../../core_09_standing_assessment.md#36-forum-boundary); [Ch.11 §2.3](../../core_12_forum.md#23-forum-records-standing-records-and-contests) |
+| Integration record; remedy owed; lock terms; contest lock | party, subject, public | must | yes | Explicit | [Ch.9 §2](../../core_10_standing_integration.md#2-integration-record-and-decision-order), [§4.1](../../core_10_standing_integration.md#41-remedy-and-correction), [§5.3](../../core_10_standing_integration.md#53-record-visibility-and-escalation) |
+| Plain-language statement of effect and burden | subject | must | yes | Explicit | [Ch.9 §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) |
 | Lock-to-remedy performance figures | public, auditor | must | yes | Explicit | Ch.9 §4.4; [CI-27.2](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md#ci-272-durability-backlog-and-publication); CF-11 |
-| Competency bar / clearance (where a named pathway uses one) | ordinary sentient, steward | class-scaled-must | yes | Explicit | [Ch.9 §6.2](../../core_09_standing_integration.md#62-competency-bars-and-clearances) |
-| Manual continuity during outage | steward, party, forum | must | yes | Explicit | [Ch.9 §2](../../core_09_standing_integration.md#2-integration-record-and-decision-order) |
-| Optional standing tools / dashboards | steward | should | yes | Explicit | [Ch.8 §3.5](../../core_08_standing_assessment.md#35-implementation-tools) — may build; must not bury §3.1 fields |
+| Competency bar / clearance (where a named pathway uses one) | ordinary sentient, steward | class-scaled-must | yes | Explicit | [Ch.9 §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) |
+| Manual continuity during outage | steward, party, forum | must | yes | Explicit | [Ch.9 §2](../../core_10_standing_integration.md#2-integration-record-and-decision-order) |
+| Optional standing tools / dashboards | steward | should | yes | Explicit | [Ch.8 §3.5](../../core_09_standing_assessment.md#35-implementation-tools) — may build; must not bury §3.1 fields |
 
 A filed case is not standing by itself. Dashboards are optional. Do not treat “unrated” as a reason to open a record.
 
@@ -122,8 +122,8 @@ A filed case is not standing by itself. Dashboards are optional. Do not treat �
 
 | Capability | Audience | Obligation | analog_ok | Status | Owner stack |
 |---|---|---|---|---|---|
-| File; published intake classes; contest routing | ordinary sentient, party | must | yes | Explicit | [Ch.11 §2](../../core_11_forum.md#2-default-venue-and-primary-stakes); CF-5.1/5.2 |
-| Inspect forum case record; interim protection | party, forum, auditor | must | yes | Explicit | [Ch.11 §2.3](../../core_11_forum.md#23-forum-records-standing-records-and-contests); [interim protection](../../core_11_forum.md#interim-protection) |
+| File; published intake classes; contest routing | ordinary sentient, party | must | yes | Explicit | [Ch.11 §2](../../core_12_forum.md#2-default-venue-and-primary-stakes); CF-5.1/5.2 |
+| Inspect forum case record; interim protection | party, forum, auditor | must | yes | Explicit | [Ch.11 §2.3](../../core_12_forum.md#23-forum-records-standing-records-and-contests); [interim protection](../../core_12_forum.md#interim-protection) |
 | Reach each required distinct forum family; published structure map | filer, public | must | yes | Explicit | [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule); [CF-3.2](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-32-family-to-forum-structure-translation-map) |
 | CF-15.1 standard record set (21 templates + status-adjudication format) | party, clerk, auditor | must | yes | Explicit | [CF-15.1](../../corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md#cf-151-minimum-record-set) |
 | Access-class tagging (party / public / audit / restricted) | party, public, auditor | must | mixed | Explicit | [CF-15.3](../../corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md#cf-153-access-classes) |
@@ -139,12 +139,12 @@ Twenty-one CF-15.1 templates are **one capability** (standard forms), not twenty
 
 | Capability | Audience | Obligation | analog_ok | Status | Owner stack |
 |---|---|---|---|---|---|
-| Published legitimacy mechanism; vote / verify outcomes; recall-class transfer | ordinary sentient, public, auditor | must | mixed | Explicit | [Ch.12 §1.1](../../core_12_governance.md#11-mechanism-families-auditability-and-pluralism); [§4](../../core_12_governance.md#4-voting-and-binding-collective-choice-protocols); [§1.3](../../core_12_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) |
-| Role definitions; seat catalog; lane map | steward, public, auditor | must | mixed | Explicit | [Ch.12 §5](../../core_12_governance.md#5-authorized-roles-competency-development-and-contribution); [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) |
+| Published legitimacy mechanism; vote / verify outcomes; recall-class transfer | ordinary sentient, public, auditor | must | mixed | Explicit | [Ch.12 §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism); [§4](../../core_13_governance.md#4-voting-and-binding-collective-choice-protocols); [§1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) |
+| Role definitions; seat catalog; lane map | steward, public, auditor | must | mixed | Explicit | [Ch.12 §5](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) |
 | Stakeholder notice, participation windows, weighting publication | party, public | must | yes | Explicit | [CI-8.1](../../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md#ci-81-stakeholder-oversight-notification-and-binding-governance-pathway-integrity); [CI-8.2](../../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md#ci-82-anti-concentration-and-participation-legitimacy-safeguards); [Article XI](../../core_06_rights_part_b.md#article-xi-a-stakeholder-system-participation-and-representation) |
-| Remedy intake; contest under-capacity | party | must | yes | Explicit | [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md); [Ch.9 §9](../../core_09_standing_integration.md#92-remedy-system-durability) |
+| Remedy intake; contest under-capacity | party | must | yes | Explicit | [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md); [Ch.9 §9](../../core_10_standing_integration.md#92-remedy-system-durability) |
 | Contest-integrity monitor outputs; control-failure notices; external-assurance triggers | public, auditor, party | class-scaled-must | mixed | Explicit | [CI-7.1–7.3](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) |
-| Refuse unlawful instruction; document; escalate | steward | must | mixed | Explicit | [Ch.9 §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions); [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) |
+| Refuse unlawful instruction; document; escalate | steward | must | mixed | Explicit | [Ch.9 §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions); [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) |
 
 ---
 
@@ -205,7 +205,7 @@ If a system has **no** digital entry, CJS-3.17 does not force a digital channel.
 |---|---|---|
 | [cs4_inspectable_action_log.schema.json](../../implementation/schemas/cs4_inspectable_action_log.schema.json) | Machine-checkable form of the five-element set | [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) |
 | [sentience_status_adjudication_record.schema.json](../../implementation/schemas/sentience_status_adjudication_record.schema.json) | Machine-checkable form | [Article V-E](../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [CF protocol](../../corpus_forum/cf_sentience_status_record.md) |
-| [ch06_assessment.schema.json](../../implementation/schemas/ch06_assessment.schema.json) | Logical Chapter Eight snapshot | Optional under [Ch.8 §3.5](../../core_08_standing_assessment.md#35-implementation-tools) |
+| [ch06_assessment.schema.json](../../implementation/schemas/ch06_assessment.schema.json) | Logical Chapter Eight snapshot | Optional under [Ch.8 §3.5](../../core_09_standing_assessment.md#35-implementation-tools) |
 | [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md) + owner/clock index | Pointer index | Core boxed operative statements |
 | [CONTINUITY_RESILIENCE_DASHBOARD.md](../../implementation/CONTINUITY_RESILIENCE_DASHBOARD.md) | Drill-list stub | Not a CS-12 duty |
 | [SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md](../../implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md) | System/model cards, incident packets | Packaging aid for artifacts already required in substance |

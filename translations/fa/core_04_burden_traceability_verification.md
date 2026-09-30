@@ -53,7 +53,7 @@
 | **4 — حدهای امنیت** | حدهای امنیت واقعی مجازند؛ انسدادهای پیش‌متنی مجاز نیستند | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — چه می‌شمرد** | شاهد باید واقعی، کامل، مستقل، و پایدار باشد | [§5](#5-compliance-evidence-standard) |
 
-**دسترسی زبان ساده.** [فصل یکم §3.4 — دسترس‌پذیری زبان ساده (تکلیف مشارکت و مدیریت مسئولانه)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) بر مواد حکمرانی، رسیدگی، و عملیاتی‌ای اعمال می‌شود که حس‌مندان برای اعمال حقوق، اعتراض به تصمیم‌ها، یا راستی‌آزمایی انطباق به‌کار می‌برند. زبان ساده آنچه فصل‌های دوم تا چهارم می‌خواهند را **عوض نمی‌کند** و کم نمی‌کند. اگر نسخه‌ای به زبان ساده با قواعد تعریف یا راستی‌آزمایی اینجا ناسازگار باشد، آن قواعد حاکم‌اند. به‌کار بردن زبان تخصصی، پیچیدگی انباشته، یا کدورت برای سد کردن دسترسی به [قابلیت اعتراض](../../core_05_band_accountability.md#contestability) یا [اصل XV: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) غیرمنطبق است زیر این فصل و **فصل یکم §3.4**.
+**دسترسی زبان ساده.** [فصل یکم §3.4 — دسترس‌پذیری زبان ساده (تکلیف مشارکت و مدیریت مسئولانه)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) بر مواد حکمرانی، رسیدگی، و عملیاتی‌ای اعمال می‌شود که حس‌مندان برای اعمال حقوق، اعتراض به تصمیم‌ها، یا راستی‌آزمایی انطباق به‌کار می‌برند. زبان ساده آنچه فصل‌های دوم تا چهارم می‌خواهند را **عوض نمی‌کند** و کم نمی‌کند. اگر نسخه‌ای به زبان ساده با قواعد تعریف یا راستی‌آزمایی اینجا ناسازگار باشد، آن قواعد حاکم‌اند. به‌کار بردن زبان تخصصی، پیچیدگی انباشته، یا کدورت برای سد کردن دسترسی به [قابلیت اعتراض](../../core_05_band_accountability.md#contestability) یا [اصل XVI: حسابرسی، شفافیت و راستی‌آزمایی مستقل](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) غیرمنطبق است زیر این فصل و **فصل یکم §3.4**.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. الزام ردگیری‌پذیری تعریف
@@ -128,7 +128,7 @@
 
 - بالادست: اصول: [فصل چهارم، بخش 3 — الزام مشاهده‌پذیری ردگیری‌پذیری](#3-observability-of-traceability-requirement)؛ [فصل یکم، بخش 8.2 — قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
 - پایین‌دست: [فصل چهارم، بخش 5 — استاندارد شاهد انطباق](#5-compliance-evidence-standard)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — گونه‌های اطلاعات و رسیدگی**، و **CS-5** — رمزنگاری عملیاتی، اعتبارنامه‌ها، و رسیدگی گونه‌های اطلاعات.
-- خوانده شود با: [تعریف‌های خوشه‌ای فصل پنجم (کوشش پیش‌بینی‌پذیری)](../../core_05_band_oversight.md#foreseeability-diligence) — گزینش‌های طراحی که به‌طور پیش‌بینی‌پذیر راستی‌آزمایی را زیر شرایط به‌طور معقول پیش‌بینی‌پذیر مانع می‌شوند غیرمنطبق‌اند صرف‌نظر از توجیه امنیت اعلام‌شده؛ [فصل پنجم حقیقت (قید قانون اساسی)](../../core_05_band_oversight.md#truth-constitutional-constraint) و [فصل پنجم ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint) — رسیدگی رمزنگاری و گونه‌های اطلاعات نباید جای **بخش‌های 2**، **3**، یا **5** را بگیرد؛ **اصول VII-A**، **VII-B**، **XV-A**، و **XVI-A** جایی که قیدهای جدایی محیط از نظر مادی مربوط‌اند.
+- خوانده شود با: [تعریف‌های خوشه‌ای فصل پنجم (کوشش پیش‌بینی‌پذیری)](../../core_05_band_oversight.md#foreseeability-diligence) — گزینش‌های طراحی که به‌طور پیش‌بینی‌پذیر راستی‌آزمایی را زیر شرایط به‌طور معقول پیش‌بینی‌پذیر مانع می‌شوند غیرمنطبق‌اند صرف‌نظر از توجیه امنیت اعلام‌شده؛ [فصل پنجم حقیقت (قید قانون اساسی)](../../core_05_band_oversight.md#truth-constitutional-constraint) و [فصل پنجم ایمنی (قید)](../../core_05_band_continuity.md#safety-constraint) — رسیدگی رمزنگاری و گونه‌های اطلاعات نباید جای **بخش‌های 2**، **3**، یا **5** را بگیرد؛ **اصول VII-A**، **VII-B**، **XVI-A**، و **XVII-A** جایی که قیدهای جدایی محیط از نظر مادی مربوط‌اند.
 
 </details>
 
@@ -196,7 +196,7 @@
 
 - بالادست: [فصل دوم — ساختار تعریف و الزامات مؤلفه‌ها](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [فصل سوم — یکپارچگی تعریف، گریز، و عدم‌انطباق](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [فصل چهارم، بخش‌های 1 تا 5](#1-exclusive-enforcement-and-burden-allocation).
 - پایین‌دست: [فصل هفتم — گواهی هم‌راستایی نظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [فصل هشتم — مدل همیاری، تخلف، و ردپا](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- خوانده شود با: [فصل هفتم §16 — بازگشایی، ناهم‌راستایی، و ضدگریز](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — عدم‌انطباق راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم می‌تواند گواهی را بازگشاید یا شکست دهد صرف‌نظر از بازشناسی پیشین.
+- خوانده شود با: [فصل هفتم §16 — بازگشایی، ناهم‌راستایی، و ضدگریز](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — عدم‌انطباق راستی‌آزمایی‌شده زیر فصل‌های دوم تا چهارم می‌تواند گواهی را بازگشاید یا شکست دهد صرف‌نظر از بازشناسی پیشین.
 
 </details>
 

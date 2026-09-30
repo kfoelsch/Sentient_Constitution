@@ -53,7 +53,7 @@
 | **4 — सुरक्षा सीमाएँ** | वास्तविक सुरक्षा सीमाएँ अनुमत हैं; बहाने की रोक नहीं | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — क्या गिनता है** | साक्ष्य वास्तविक, पूर्ण, स्वतंत्र, और सतत होना चाहिए | [§5](#5-compliance-evidence-standard) |
 
-**साधारण-भाषा सुगम्यता।** [अध्याय एक §3.4 — साधारण-भाषा सुगम्यता उत्तरदायी प्रबंधन कर्तव्य](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) उन शासन, न्यायनिर्णयन, और संक्रियात्मक सामग्रियों पर लागू होता है जिनसे संज्ञ प्राणी अधिकार इस्तेमाल करते, निर्णयों को चुनौती देते, या अनुपालन सत्यापित करते हैं। साधारण भाषा अध्याय दो से चार जो माँगते हैं उसे **नहीं** बदलती या घटाती। यदि कोई साधारण-भाषा संस्करण यहाँ की परिभाषा या सत्यापन नियमों से असहमत हो, वे नियम नियंत्रित करते हैं। शब्दजाल, परत-दर-परत जटिलता, या अपारदर्शिता से [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) या [अनुच्छेद XV: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) पहुँच रोकना इस अध्याय और **अध्याय एक §3.4** के अधीन गैर-अनुपालन है।
+**साधारण-भाषा सुगम्यता।** [अध्याय एक §3.4 — साधारण-भाषा सुगम्यता उत्तरदायी प्रबंधन कर्तव्य](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) उन शासन, न्यायनिर्णयन, और संक्रियात्मक सामग्रियों पर लागू होता है जिनसे संज्ञ प्राणी अधिकार इस्तेमाल करते, निर्णयों को चुनौती देते, या अनुपालन सत्यापित करते हैं। साधारण भाषा अध्याय दो से चार जो माँगते हैं उसे **नहीं** बदलती या घटाती। यदि कोई साधारण-भाषा संस्करण यहाँ की परिभाषा या सत्यापन नियमों से असहमत हो, वे नियम नियंत्रित करते हैं। शब्दजाल, परत-दर-परत जटिलता, या अपारदर्शिता से [चुनौती-योग्यता](../../core_05_band_accountability.md#contestability) या [अनुच्छेद XVI: लेखापरीक्षा, पारदर्शिता और स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) पहुँच रोकना इस अध्याय और **अध्याय एक §3.4** के अधीन गैर-अनुपालन है।
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. परिभाषा पता-योग्यता अपेक्षा
@@ -128,7 +128,7 @@
 
 - ऊर्ध्व: सिद्धांत: [अध्याय चार, अनुभाग 3 — पता-योग्यता की प्रेक्षणीयता अपेक्षा](#3-observability-of-traceability-requirement); [अध्याय एक, अनुभाग 8.2 — ज्ञानमीमांसीय प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)।
 - अधो: [अध्याय चार, अनुभाग 5 — अनुपालन साक्ष्य मानक](#5-compliance-evidence-standard); [corpus_systems.md](../../corpus_systems.md), **CS-2 — सूचना प्रकार और सँभाल**, और **CS-5** — संक्रियात्मक क्रिप्टोग्राफ़ी, प्रमाण-पत्र, और सूचना-प्रकार सँभाल।
-- साथ पढ़ें: [अध्याय पाँच समूहित परिभाषाएँ (पूर्वानुमेयता तत्परता)](../../core_05_band_oversight.md#foreseeability-diligence) — डिज़ाइन विकल्प जो यथोचित पूर्वानुमेय शर्तों के अधीन सत्यापन को पूर्वानुमेय रूप से रोकें, कथित सुरक्षा तर्क से निरपेक्ष गैर-अनुपालन हैं; [अध्याय पाँच सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) और [अध्याय पाँच सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) — क्रिप्टोग्राफ़िक और सूचना-प्रकार सँभाल **अनुभाग 2**, **3**, या **5** की जगह नहीं ले सकते; **अनुच्छेद VII-A**, **VII-B**, **XV-A**, और **XVI-A** जहाँ वातावरण-पृथक्करण बंधन तात्विक हों।
+- साथ पढ़ें: [अध्याय पाँच समूहित परिभाषाएँ (पूर्वानुमेयता तत्परता)](../../core_05_band_oversight.md#foreseeability-diligence) — डिज़ाइन विकल्प जो यथोचित पूर्वानुमेय शर्तों के अधीन सत्यापन को पूर्वानुमेय रूप से रोकें, कथित सुरक्षा तर्क से निरपेक्ष गैर-अनुपालन हैं; [अध्याय पाँच सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) और [अध्याय पाँच सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) — क्रिप्टोग्राफ़िक और सूचना-प्रकार सँभाल **अनुभाग 2**, **3**, या **5** की जगह नहीं ले सकते; **अनुच्छेद VII-A**, **VII-B**, **XVI-A**, और **XVII-A** जहाँ वातावरण-पृथक्करण बंधन तात्विक हों।
 
 </details>
 
@@ -196,7 +196,7 @@
 
 - ऊर्ध्व: [अध्याय दो — परिभाषा संरचना और घटक अपेक्षाएँ](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [अध्याय तीन — परिभाषा अखंडता, बचाव, और गैर-अनुपालन](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [अध्याय चार, अनुभाग 1 से 5](#1-exclusive-enforcement-and-burden-allocation)।
 - अधो: [अध्याय सात — प्रणाली-संरेखण प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [अध्याय आठ — योगदान, उल्लंघन और प्रस्थिति मॉडल](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)।
-- साथ पढ़ें: [अध्याय सात §16 — पुनर्खोलना, विसंरेखण, और बचाव-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — अध्याय दो से चार के अधीन सत्यापित गैर-अनुपालन पूर्व पहचान से निरपेक्ष प्रमाणन पुनर्खोल या हरा सकता है।
+- साथ पढ़ें: [अध्याय सात §16 — पुनर्खोलना, विसंरेखण, और बचाव-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — अध्याय दो से चार के अधीन सत्यापित गैर-अनुपालन पूर्व पहचान से निरपेक्ष प्रमाणन पुनर्खोल या हरा सकता है।
 
 </details>
 

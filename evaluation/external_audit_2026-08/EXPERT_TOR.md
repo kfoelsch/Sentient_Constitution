@@ -46,7 +46,7 @@ Rules:
 
 Desk review asks reviewers to **confirm or overturn** these calls:
 
-1. **Article V-E default inclusion** — workable anti-exclusion rule, or a capture vector for synthetic systems? Steelman over-inclusion *and* under-inclusion of ordinary animals on the Def.P1 ladder.
+1. **Article V-D default inclusion** — workable anti-exclusion rule, or a capture vector for synthetic systems? Steelman over-inclusion *and* under-inclusion of ordinary animals on the Def.P1 ladder.
 2. **Natural Systems Standing vs Ecuador Arts. 71–74 and Te Awa Tupua 2017** — keep the hybrid (interests of their own, no personhood), or is the absence of named guardians and ecosystem-as-party a decisive gap?
 3. **Article I-B no-cap** plus missing planetary-boundaries / carbon-budget article — honest subsidiarity to adopter instruments, or a hole relative to *Neubauer* (2021) and the ICJ climate advisory opinion (23 July 2025)?
 4. **Indigenous Continuity vs UNDRIP / ILO 169** — is “does not decide historical land title” a lawful non-relocation, or a rights cut?

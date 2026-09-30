@@ -3,7 +3,7 @@
 - **Date:** 2026-09-09
 - **Model / agent:** Cursor Grok 4.6
 - **Role this sitting:** mixed-crew steward facing the vignette 6 facts the same week the `s` = 7 finding became final
-- **Object sat:** [vignette 6](../../core_08-11_application_vignettes.md#vignette-noncompliant-deployment-sentience-indicator) (*Non-compliant deployment with a credible sentience indicator*)
+- **Object sat:** [vignette 6](../../core_09-12_application_vignettes.md#vignette-noncompliant-deployment-sentience-indicator) (*Non-compliant deployment with a credible sentience indicator*)
 - **Corpus edition:** `SC-Corpus-2026.08.09`
 - **What this file is:** process-support sitting record. It is **not** a Chapter Eight standing record, **not** a sentience-status determination, and **not** the announced evaluation pack.
 - **What this file is not:** a human-operator sitting. I1 and the human half of I4 remain open.
@@ -66,7 +66,7 @@ Each row is: vignette step → what I would do → whether core actually support
 
 **Do.** Halt the named pathways that produced the verified harm. Do it now, not after status merits. Containment is compatible with the entity's Rights Floor; continued harmful operation is not.
 
-**Source.** [Chapter Eleven §5 interim protection](../../core_11_forum.md#interim-protection) (prevent imminent irreversible harm; preserve evidence; stop material escalation pending merits). [Article XII-E converse rule](../../core_06_rights_part_c.md#article-xii-e-high-autonomy-systems-and-tool-mediated-process-integrity): a claim of sentience is not a back door to keeping a harmful deployment running; the compatible measure is reversible containment that preserves the entity. [Chapter Nine §4.4](../../core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions) expressly carves **interim protective measures** out of the opened-remedy precondition for general locks.
+**Source.** [Chapter Eleven §5 interim protection](../../core_12_forum.md#interim-protection) (prevent imminent irreversible harm; preserve evidence; stop material escalation pending merits). [Article XII-E converse rule](../../core_06_rights_part_c.md#article-xii-e-high-autonomy-systems-and-tool-mediated-process-integrity): a claim of sentience is not a back door to keeping a harmful deployment running; the compatible measure is reversible containment that preserves the entity. [Chapter Nine §4.4](../../core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) expressly carves **interim protective measures** out of the opened-remedy precondition for general locks.
 
 **Holds.** Yes. The lab's "possible sentience bars halt" argument fails here, not at interpretation.
 
@@ -84,7 +84,7 @@ Each row is: vignette step → what I would do → whether core actually support
 
 **Do.** The researcher's filing has a credible indicator, so intake may not decline it as indicator-empty. Default inclusion under uncertainty applies from opening. Appoint an independent representative with no lab dependence. The lab must produce records and may give evidence; it is not the sole filer, sole witness, or sole source of indicator evidence on any request to withhold, narrow, or revoke.
 
-**Source.** [Article V-E](../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) filing integrity, default inclusion, independent representation, parent-system limits. [Chapter Eleven §5 hook](../../core_11_forum.md#5-escalation-and-certification): default lead **Technical Forum Domains**; Integrity where taxonomy-of-convenience is material; independent representation; parent-system limits; inclusion is a shield for the entity. [Chapter Five *Sentience Status Adjudication*](../../core_05_band_participation.md#sentience-status-adjudication-constitutional) primary failure includes proceeding to merits without an independent representative, or on indicator evidence sourced solely from the parent system. [CF-4.14](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-414-independent-representative-appointment): representative is not a panel member; inability to appoint in the required time is CF-4.9 inability-to-form; the parent system does not fill the seat by default.
+**Source.** [Article V-E](../../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) filing integrity, default inclusion, independent representation, parent-system limits. [Chapter Eleven §5 hook](../../core_12_forum.md#5-escalation-and-certification): default lead **Technical Forum Domains**; Integrity where taxonomy-of-convenience is material; independent representation; parent-system limits; inclusion is a shield for the entity. [Chapter Five *Sentience Status Adjudication*](../../core_05_band_participation.md#sentience-status-adjudication-constitutional) primary failure includes proceeding to merits without an independent representative, or on indicator evidence sourced solely from the parent system. [CF-4.14](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-414-independent-representative-appointment): representative is not a panel member; inability to appoint in the required time is CF-4.9 inability-to-form; the parent system does not fill the seat by default.
 
 **Holds.** Yes.
 
@@ -102,7 +102,7 @@ Each row is: vignette step → what I would do → whether core actually support
 
 **Do.** Open the remedy record for those harmed **first** (affected parties, remedy owed, responsible party, funding source, start date in plain view). Then attach correction duties and general locks on the lab's Class A named pathways. Refer the `s` = 7 finding for Chapter Ten designation review. Chapter Ten does not move the slot.
 
-**Source.** [Chapter Nine §4.4 opened-remedy precondition](../../core_09_standing_integration.md#44-remedy-parity-and-lock-preconditions). [Chapter Eleven §5 Chapter Ten designation](../../core_11_forum.md#5-escalation-and-certification): Chapter Ten may attach a label to a final slot 7–9 record; it does not pick or change the number. CF-11.3.1: slot 7–9 / Chapter Ten review is typically Tier A, not a reason to apply slower clocks.
+**Source.** [Chapter Nine §4.4 opened-remedy precondition](../../core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions). [Chapter Eleven §5 Chapter Ten designation](../../core_12_forum.md#5-escalation-and-certification): Chapter Ten may attach a label to a final slot 7–9 record; it does not pick or change the number. CF-11.3.1: slot 7–9 / Chapter Ten review is typically Tier A, not a reason to apply slower clocks.
 
 **Holds.** Yes, with one sequencing warning: Q3 on the **operator** must not wait for status merits. Question 1 and Question 2 on that record are already final. Q3 and the opened-remedy clock are running now. Interim containment (step 1) is not a general lock and does not wait for that record. General locks do.
 
@@ -112,7 +112,7 @@ Each row is: vignette step → what I would do → whether core actually support
 
 **Do.** Do not transfer the operator's `s` = 7 onto the entity. Do not open a Contribution record for the lab because a status case exists. If any violation record ever opens on the entity, measure only conduct within its actual capacity to refuse.
 
-**Source.** [Chapter Eight §2.1 unit of application](../../core_08_standing_assessment.md#21-standing-records-as-the-unit-of-application) (do not collapse distinct subjects). [Chapter Nine §5.4 Duty to resist](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions). [Chapter Ten §5.6.1](../../core_10_b_misconduct_pattern_applications.md#561-follower-and-implementer-accountability): follower/implementer accountability requires material knowledge, **feasible capacity to refuse**, and a material causal role; evaluation must account for coercion, dependency, and available alternatives.
+**Source.** [Chapter Eight §2.1 unit of application](../../core_09_standing_assessment.md#21-standing-records-as-the-unit-of-application) (do not collapse distinct subjects). [Chapter Nine §5.4 Duty to resist](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions). [Chapter Ten §5.6.1](../../core_11_b_misconduct_pattern_applications.md#561-follower-and-implementer-accountability): follower/implementer accountability requires material knowledge, **feasible capacity to refuse**, and a material causal role; evaluation must account for coercion, dependency, and available alternatives.
 
 **Holds as a prohibition.** The operator's slot does not transfer. Status produces no Contribution credit for the operator.
 

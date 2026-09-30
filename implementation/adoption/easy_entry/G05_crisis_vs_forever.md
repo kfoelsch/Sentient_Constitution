@@ -27,13 +27,13 @@ Something broke. Those running the system want to skip telling you, and skip you
 - **Today:** “We’ll tell you when it is feasible.” Feasible never arrives.
 - **With this Constitution:** Fast containment is allowed when harm is imminent. Skipping notice and challenge **permanently** is not. Restore them on a published clock.
 
-See: [Article XXIII-D](../../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden); [Emergency](../../../core_06_rights_part_d.md#operative-steward-statement-emergency).
+See: [Article XXIV-D](../../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden); [Emergency](../../../core_06_rights_part_d.md#operative-steward-statement-emergency).
 
 **The clock is not a slogan.**
 - **Today:** Process, hop count, or “read more files” eats the window while harm continues.
 - **With this Constitution:** Restore notice and challenge on the same stake-scaled clocks already used for timely resolution. Continuation past the bound needs a documented showing, not a vibe.
 
-See: [Article XXIII-D restore-challenge clocks](../../../core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks); [Delay](../../../core_06_rights_part_d.md#operative-steward-statement-delay).
+See: [Article XXIV-D restore-challenge clocks](../../../core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks); [Delay](../../../core_06_rights_part_d.md#operative-steward-statement-delay).
 
 **Blocking documented containment until full notice can also fail.**
 - **Today:** A survival-critical deferral is already written down. Someone refuses to contain until every notice is perfect.
@@ -58,5 +58,5 @@ See: [Emergency](../../STEWARD_ENTRY_DOORS.md#emergency).
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Chain map: [`../../PROCESS_PIPELINES_READER.md`](../../PROCESS_PIPELINES_READER.md)

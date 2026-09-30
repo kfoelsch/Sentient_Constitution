@@ -184,7 +184,7 @@
     - защита источников;
     - расследование; и
     - публикация.
-    Sentients doing that work exercise the [Выражение](core_05_band_participation.md#expression-constitutional) and [Собрание](core_05_band_participation.md#assembly-constitutional) Пол прав, with heightened-scrutiny protection under [Статья V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [Выражение](core_05_band_participation.md#expression-constitutional) and [Собрание](core_05_band_participation.md#assembly-constitutional) Пол прав, with heightened-scrutiny protection under [Статья V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **Вне охвата:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Как измерять и оценивать**
@@ -195,11 +195,11 @@
     - защита источников;
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Необходимость](core_05_band_accountability.md#necessity) and [Соразмерность](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [Необходимость](core_05_band_accountability.md#necessity) and [Соразмерность](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **Что должно держаться**
   - **Первичный сбой:** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **Вторичный сбой:** stretching [Добросовестность](core_05_band_accountability.md#good-faith) or **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **Вторичный сбой:** stretching [Добросовестность](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **Третичный сбой:** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -661,7 +661,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when Глав со второй по четвёртую require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**Рамка надзора.** Under the [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Главой седьмой](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Рамка надзора.** Under the [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Главой седьмой](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Класс системы и пропорциональность.** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Классификация и обращение с системами**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - более глубокое обеспечение;
@@ -757,7 +757,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Компонент кластера: [Def.O1 Прозрачность, аудитируемость и верификация](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Назначение: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
+- Назначение: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
 - Читать вместе с: [Прозрачность](core_05_band_oversight.md#transparency), [Оспоримость](core_05_band_accountability.md#contestability), [Аудитируемость](core_05_band_oversight.md#auditability), [Раскрытие риска](core_05_band_oversight.md#risk-disclosure), [Хартия](core_05_band_continuity.md#charter), [Границы системы](core_05_band_continuity.md#system-boundaries), [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional), [Запись сертификации системы](core_05_band_continuity.md#system-certification-record-constitutional), [Запись классификации системы](core_05_band_continuity.md#system-classification-record-constitutional), [Запись типов данных системы](core_05_band_continuity.md#system-data-types-record-constitutional), [Управление, масштабированное к классификации](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — Типы информации и обращение** (**Type O**).
 
 </details>
@@ -881,8 +881,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - Компонент кластера: [Def.O1 Прозрачность, аудитируемость и верификация](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Читать вместе с: [Конституционной тетраде](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Подотчётность](core_05_apex_accountability_leg.md#accountability), [Оспоримость](core_05_band_accountability.md#contestability), [Эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity), [Прозрачность](core_05_band_oversight.md#transparency), [Проверяемость](core_05_band_oversight.md#verifiability), [Сохранение доказательств](core_05_band_oversight.md#evidence-preservation), and [Ограничение полноты оценки](core_05_band_oversight.md#evaluation-completeness-constraint).
-- Читать вместе с: **Article XV** (*Audit, Transparency, and Independent Verification*); [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Глав со второй по четвёртую.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../../core_06_rights_part_c.md#audit-three-layers).
+- Читать вместе с: **Article XVI** (*Audit, Transparency, and Independent Verification*); [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Глав со второй по четвёртую.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1075,7 +1075,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
 - Компонент кластера: [Def.O1 Прозрачность, аудитируемость и верификация](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - Читать вместе с: [Аудитируемость](core_05_band_oversight.md#auditability), [Прозрачность](core_05_band_oversight.md#transparency), [Оспоримость](core_05_band_accountability.md#contestability), [Соразмерность](core_05_band_accountability.md#proportionality), [Осуществимость](core_05_band_accountability.md#feasibility), [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint), and [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1087,7 +1087,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **Что это**
   - **В охвате:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Аудитируемость](core_05_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Осуществимость](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Осуществимость](core_05_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [Соразмерность](core_05_band_accountability.md#proportionality) and [Материальное воздействие](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1112,7 +1112,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **Вторичная мера:** [Семья измерений Надзора](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Могут ли сентенты видеть, проверять и опираться на то, что системы представляют?* Используйте её здесь, чтобы спросить,  observed behavior can be independently validated by reproducible methods in practice.
 
     **Вторичная оценка:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Осуществимость](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Осуществимость](core_05_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [Соразмерность](core_05_band_accountability.md#proportionality) and [Материальное воздействие](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [Противодействующие, масштабированные и эксплуатируемые условия](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1225,7 +1225,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     from good-faith observation and bounded interpretation, under [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint) and [Добросовестность](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **Что должно держаться**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Глава одиннадцатая **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint), [Добросовестность](core_05_band_accountability.md#good-faith), and [Эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Глава одиннадцатая **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [Истина (конституционное ограничение)](core_05_band_oversight.md#truth-constitutional-constraint), [Добросовестность](core_05_band_accountability.md#good-faith), and [Эпистемическая целостность](core_05_band_oversight.md#epistemic-integrity).
   - **Первичный сбой:** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;

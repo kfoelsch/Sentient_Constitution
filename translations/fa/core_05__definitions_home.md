@@ -260,7 +260,7 @@
 - [ویژگی‌های حمایت‌شده](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [قید انتشار دادهٔ حمایت‌شده و حالت درونی](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [مرز حالت درونی حمایت‌شده](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [دروازه‌بندی سیگنال صمیمی حمایت‌شده و دور زدن وضعیت **اصل X-C** (*خدمات جنسی تجاری رضایتمندانه میان بزرگسالان و بهره‌کشی جنسی*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [دروازه‌بندی سیگنال صمیمی حمایت‌شده و دور زدن وضعیت **اصل XI-C** (*خدمات جنسی تجاری رضایتمندانه میان بزرگسالان و بهره‌کشی جنسی*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [گزارشگری حمایت‌شده (افشاگری)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [تلافی گزارشگری حمایت‌شده و اخلال در دسترسی](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [واگرایی شاخص جانشین](../../core_05_band_oversight.md#proxy-divergence)

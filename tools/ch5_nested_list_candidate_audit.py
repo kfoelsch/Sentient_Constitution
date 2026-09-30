@@ -26,7 +26,7 @@ child bullets yet. Default is advisory: print ranked candidates and exit 0.
 Use ``--strict`` only when an operator wants a non-zero exit on hits.
 
 This is a candidate finder, not a duty. Existing nesting gates
-(``corpus_markdown_audit.check_oec_intro_sublist_nesting``, Article IX in
+(``corpus_markdown_audit.check_oec_intro_sublist_nesting``, Article X in
 ``prose_continuity_audit``) still lock lists that are already nested.
 
 Rules: CH0-NEST-CANDIDATE through CH17-NEST-CANDIDATE (by selected

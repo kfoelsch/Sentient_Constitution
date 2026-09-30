@@ -83,7 +83,7 @@ def live_text_files(root: Path) -> list[Path]:
         *sorted(root.glob(".cursor/rules/*.mdc")),
         *sorted(root.glob("ai_corpus/*.md")),
         *sorted(root.glob("tools/*.md")),
-        root / "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+        root / "project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
     ]
     names.extend(
         path.relative_to(root).as_posix()

@@ -84,11 +84,11 @@ Do not resolve the collision in this file.
 Beyond the sitting’s bounded reading path, open:
 
 - [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — rest-breaks; unpaid care; survival cannot be conditioned on care labor
-- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) — family relationship is not authority over another sentient
-- [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Val can actually do now), **not** as a holding that Val is a child
+- [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient
+- [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) for the capability test (what Val can actually do now), **not** as a holding that Val is a child
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — supported decision-making is not a quiet guardianship
-- [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional)
-- [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) only if Lee’s waged block is used to defeat care or survival access; do not drag Lee’s employer into a family-merits case it is not in
+- [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional)
+- [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) only if Lee’s waged block is used to defeat care or survival access; do not drag Lee’s employer into a family-merits case it is not in
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) if you conclude the rest-with-strings offer is coercive control in a close relationship
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.

@@ -260,7 +260,7 @@
 - [రక్షిత లక్షణాలు](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [రక్షిత డేటా మరియు అంతరంగిక-స్థితి ప్రచురణ పరిమితి](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [రక్షిత అంతరంగిక-స్థితి సరిహద్దు](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [రక్షిత అంతరంగిక-సంకేత గేటింగ్ మరియు **అనుచ్ఛేదం X-C** (*పెద్దల సమ్మతితో వాణిజ్య లైంగిక సేవలు మరియు లైంగిక దోపిడీ*) స్థితి తప్పించుకోవడం](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [రక్షిత అంతరంగిక-సంకేత గేటింగ్ మరియు **అనుచ్ఛేదం XI-C** (*పెద్దల సమ్మతితో వాణిజ్య లైంగిక సేవలు మరియు లైంగిక దోపిడీ*) స్థితి తప్పించుకోవడం](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [రక్షిత నివేదిక (విజిల్‌బ్లోయింగ్)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [రక్షిత నివేదిక ప్రతీకారం మరియు ప్రవేశ జోక్యం](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [ప్రతినిధి విచలనం](../../core_05_band_oversight.md#proxy-divergence)

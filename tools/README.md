@@ -20,12 +20,13 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 | Blocking regression bundle | `make regression` |
 | Markdown / prose / definitions gravity | `make corpus-markdown-audit`, `make prose-continuity-audit`, `make ch5-definitions-gravity-audit`, `make ch5-o-scope-audit`, `make ch5-trace-crosslink-audit` |
 | Corpus navigation footer chain and formatting | `make footer-audit` |
+| Link destinations: binding corpus stays in-repository; no machine-local targets anywhere | `make external-link-audit` (inventory: `make external-link-audit-report`) |
 | Trace / D/A/C / reader-guidance `<br>` spacer discipline | `make nav-widget-spacer-audit` |
 | Trace → D/A/C widget order (definition carrier immediately after Trace) | `make trace-dac-widget-order-audit` |
 | File-top / section-opening widget stack (placement → reader → Trace → D/A/C) | `make widget-top-placement-audit` |
 | File-top Corpus placement widget | `make file-top-placement-audit` |
 | CJS-0.1 topic-router bidirectional read-with links | `make router-bidirectional-audit` |
-| Binding corpus must not depend on `doc_architecture` for meaning/routing | `make support-doc-pointer-audit` |
+| Binding corpus must not depend on `doc_architecture` or a README section for meaning/routing | `make support-doc-pointer-audit` |
 | Materially Binding Act Record base schema and fixtures | `make materially-binding-act-record-validate` / `make materially-binding-act-record-validate-test` |
 | Chapter Five compound heading/member order | `make ch5-cluster-order-audit` |
 | Chapter Five single-definition and owner-roster rule | `make ch5-single-definition-audit` |
@@ -62,6 +63,8 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 
 `heading_echo_topic_audit.py` flags a numbered section whose first body-prose line (after widgets and `*In plain terms*` gloss) restates that heading as a topic sentence — a self-cite such as `**[§13.2 Title](#…):**`. Unnumbered heading-echo run-ins (`**Symmetric costly constraints:**`) stay under MD-LIST-INTRO-01.
 
+`section_bullet_lead_audit.py` (**MD-SECTION-LEAD-01**, blocking; in `make regression`) flags a section whose first body line — after Trace / D/A/C widgets, `<br>` spacers, callouts, and `*In plain terms*` gloss — is a bare list item instead of lead-in prose. Sections that open straight into a child heading are containers and are skipped. Chapter Five definition files (`core_05_*.md`) are carved out because their entries open with O / E / C bullets by design. `make section-bullet-lead-audit-summary` prints per-file counts. Not in `make regression` until the backlog is cleared.
+
 `apply_article_cite_gloss.py` adds missing **REF-ARTICLES-GLOSS** parenthetical titles to bare `**Article …**`, `[Article …](url)`, and unbolded `Article …` cites across the binding corpus (see `doc_architecture.md` section 7). Run after heading renames or bulk cite cleanup; review combined-label and bullet-specific edge cases by hand.
 
 `ch5_trace_crosslink_audit.py` enforces the Chapter Five navigation-metadata rule: `Read with:` lines belong inside each entry's local `Trace` / `<details>` block, not in operative prose after the block closes. It does not ban selective same-file cross-definition links in O / E / C body text.
@@ -78,9 +81,9 @@ Chapter Five and CJS-3 definition files use **one** `---` between reader units, 
 
 `ch5_cluster_order_audit.py` guards selected Chapter Five compound §2 topic groups and §3 dependent clusters whose visible heading order is intended to mirror the internal entry/member order. Expand its expected set whenever a new compound heading is intentionally made order-bearing.
 
-Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools/architecture/rule_registry.json). Full audit catalog, including the **weight class** of each blocking gate (load-bearing / structural / cosmetic — what a second maintainer may relax and what must never be skipped): [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md).
+Machine-checkable editorial rules: [tools/architecture/rule_registry.json](architecture/rule_registry.json). Full audit catalog, including the **weight class** of each blocking gate (load-bearing / structural / cosmetic — what a second maintainer may relax and what must never be skipped): [implementation/AUTOMATED_REFERENCE_CHECKING.md](../implementation/AUTOMATED_REFERENCE_CHECKING.md).
 
-`ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](tools/architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
+`ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
 
 `readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 
@@ -88,10 +91,10 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](tools
 
 `ch5_nested_list_candidate_audit.py` ranks packed list items that would scan better as nested grandchild lists. Chapter Five targets **In scope** / assessment / failure bullets; Chapters Six through Fourteen target labeled operative run-ins (`**Label:**` / `**Label** —`) and packed covers/includes lists. It is a candidate finder, not a regression gate: default exit is 0 even when candidates exist. Skip Trace widgets, **Primary measure** boilerplate, short Tetrad aim/leg glosses, and bullets that already have nested children. Limit with `--file` or `--chapter 5` / `--chapter 6` / `--chapter 8` / `--chapter 9` / `--chapter 10` / `--chapter 11` / `--chapter 12` / `--chapter 13` / `--chapter 14`, raise the floor with `--min-score`, and use `--strict` only if an operator wants a non-zero exit. Existing colon-parent nesting checks still lock lists that are already nested.
 
-`ch4_ch8_pointer_audit.py` is an advisory checker for Chapter Eight pointer discipline against Chapter Four. It flags operative restatements of Chapter Four verification-substrate rules (burden, trace artifact, security-constrained verification, and related phrases) without upstream citations to Chapters Two through Four, and verifies the corpus-placement reader guidance names Chapter Four as verification-substrate owner. Run after edits to [`core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation`](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) or [`core_04_burden_traceability_verification.md`](../core_04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
+`ch4_ch8_pointer_audit.py` is an advisory checker for Chapter Eight pointer discipline against Chapter Four. It flags places where Chapter Eight restates Chapter Four's verification rules (burden, trace artifact, security-constrained verification, and similar phrases) without citing Chapters Two through Four. It also checks that the corpus-placement widget names Chapter Four as the owner of verification. Run after edits to [`core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation`](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) or [`core_04_burden_traceability_verification.md`](../core_04_burden_traceability_verification.md) Chapter Four §§1–6; use `--strict` to block on findings.
 
 ## Retired migration scripts
 
-One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to [archive/tools_retired/](../archive/tools_retired/) on **2026-06-17**. **Do not run** them against the current tree unless you are deliberately replaying history from git; they can desync the corpus.
+One-off structural rewrite and migration helpers (Chapter Five cluster inserts, Chapter Six renumbering, corpus splits, D/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
 
 For **current** article numbers and titles, use `make reference-audit` or read Chapter Six in `core_06_rights_part_*.md`.

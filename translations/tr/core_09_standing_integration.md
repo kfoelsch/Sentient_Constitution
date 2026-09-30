@@ -44,7 +44,7 @@
 Dokuzuncu Bölüm, iliştirmeler, Sekizinci Bölüm betimleyicilerinin sonuca dönük kullanımı, güzergâh kilitleri, çare ataması, gönüllü kamusal hesap verebilirlik ifadesi ve yaptırım kancaları dahil **güzergâh bütünleştirmesi ve güzergâh etkileri**nin anayasal sahibidir.
 
 <a id="operative-steward-statement-remedy"></a>
-> **İşlemsel sorumlu yönetim bildirimi.** **Sahip:** Dokuzuncu Bölüm §4.1 (doğrulanmış ihlal kaydından çare ve düzeltme atayın). Dokuzuncu Bölüm §9 (sonuçlar kurumsal olarak gerçek olmalıdır). Hak Tabanı itirazı ve onarımı: Madde XII-B. **Yasak hamle:** Yayımlanmış bir formu çare saymayın. Kanıtı korumak için açılmış bir davayı beklemeyin. Maliyeti zarar görenlere dışsallaştırmayın. **Saat:** Alımı, korumayı, incelemeyi ve onarımı şimdi başlatın. Kanıtı korumak için açılmış bir davayı beklemeyin.
+> **İşlemsel sorumlu yönetim bildirimi.** **Sahip:** Dokuzuncu Bölüm §4.1 (doğrulanmış ihlal kaydından çare ve düzeltme atayın). Dokuzuncu Bölüm §9 (sonuçlar kurumsal olarak gerçek olmalıdır). Hak Tabanı itirazı ve onarımı: Madde XIII-B. **Yasak hamle:** Yayımlanmış bir formu çare saymayın. Kanıtı korumak için açılmış bir davayı beklemeyin. Maliyeti zarar görenlere dışsallaştırmayın. **Saat:** Alımı, korumayı, incelemeyi ve onarımı şimdi başlatın. Kanıtı korumak için açılmış bir davayı beklemeyin.
 
 Güzergâh zincirinin Soru 3'ü, doğrulanmış Sekizinci Bölüm güzergâh kayıtlarını sonuçlara çevirirken [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad)yü ve [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims)ı uygular.
 <a id="1-immutable-chapter-eight-inputs"></a>
@@ -237,7 +237,7 @@ Doğrulanmış bir ihlal için onarıcı adlandırılmış yollar kamusal kabul 
   - gönüllülük ve sahicilik için bağımsız incelenebilir olmalıdır.
 - Kamusal ifadeye katılmayı reddetmek, tek başına temel yaptırımları artırmamalı, bir güzergâh kilidini genişletmemeli ya da [§4.1](#41-remedy-and-correction) altında borçlu çare ya da düzeltmenin yerine geçmemelidir.
 - **Sahici olmayan ya da kötüye kullanılan ifade:** Maddi olarak samimiyetsiz, manipülatif, doğrucu hesap verebilirlik olmadan gösterişçi ya da etkilenen taraflara veya kamuya kötüye kullanılan kamusal kabul ya da özür, onarıcı gerekleri karşılamaz.
-  - Hesap verebilir taraf için olumsuz adalet sonuçları taşıyabilir — rehabilitasyon kredisinin düşürülmesi ve **Madde XXIII-B** (*Önemsiz olmayan kısıtlama, iade ve onarıcı-hesap verebilirlik kısıtları*) ile [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) altında diğer yasal kısıtlamalar dahil.
+  - Hesap verebilir taraf için olumsuz adalet sonuçları taşıyabilir — rehabilitasyon kredisinin düşürülmesi ve **Madde XXIV-B** (*Önemsiz olmayan kısıtlama, iade ve onarıcı-hesap verebilirlik kısıtları*) ile [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) altında diğer yasal kısıtlamalar dahil.
   - Sahte ya da kötüye kullanılan bir özrü yeterli onarım saymak, ya da onu [§4.1](#41-remedy-and-correction) ve [§4.2](#42-general-standing-locks) altında gereken korumadan, gidermeden ya da kilitlerden kaçınmak için kullanmak uyumsuzluktur.
 - Hiçbir biçim, doğrucu hesap verebilirlik ve orantılı giderme için gerekenden öte aşağıdakilerden herhangi birini dayatamaz:
   - aşağılayıcı muamele;
@@ -385,7 +385,7 @@ Bu kurallar bir kilidin ya da korumanın [§5.1](#51-definition-and-attachment) 
 **Direnme ödevi.**
 
 <a id="operative-steward-statement-unlawful-instruction"></a>
-> **İşlemsel sorumlu yönetim bildirimi.** **Sahip:** Dokuzuncu Bölüm §5.4 Direnme ödevi. Paylaşılan standart: Birinci Bölüm §9.1.1. İtiraz tabanı: Madde XII-B. **Yasak hamle:** Uymayın. Örtüyü ödev aktarımı saymayın. Yardımcı olmak için itiraz adlandırılmış yollarını kapatmayın. **Saat:** Talimat alındı → reddet → belgele → yükselt paylaşılan ekranını şimdi çalıştırın. İtiraz adlandırılmış yollarını koruyun.
+> **İşlemsel sorumlu yönetim bildirimi.** **Sahip:** Dokuzuncu Bölüm §5.4 Direnme ödevi. Paylaşılan standart: Birinci Bölüm §9.1.1. İtiraz tabanı: Madde XIII-B. **Yasak hamle:** Uymayın. Örtüyü ödev aktarımı saymayın. Yardımcı olmak için itiraz adlandırılmış yollarını kapatmayın. **Saat:** Talimat alındı → reddet → belgele → yükselt paylaşılan ekranını şimdi çalıştırın. İtiraz adlandırılmış yollarını koruyun.
 
 **Adlandırılmış sıra.** Talimat alındı → reddet → belgele → yükselt. [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) asgari incelenebilir-eylem kümesini günlükleyin. Aynı sıra her iki tür sorumlu yönetici için. Sorumlu yönetim işaretçisi (süreç desteği; bu kesiti daraltamaz): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
@@ -656,7 +656,7 @@ Bütünleştirme kaydı her izin sonucu için açık görünürde şunu söyleme
 
 Güzergâh sistemi, [§2](#2-integration-record-and-decision-order)deki önceki adımlar tamamlandığında her adlandırılmış yol için son güzergâh etkisini **otomatik** belirtmelidir. O bildirim her açık izni ve her kısıtlı adlandırılmış yolu listelemelidir. Doğrulanmış girdiler ve yayımlanmış kurallar belirli bir sonuç ürettiğinde ek el onayı gerekmez. Çekişmeli, belirsiz, yeni, maddi olarak takdirî ya da yüksek etkili sorular yine de otomatik derlenir ve yönlendirilir, sonra [§2](#2-integration-record-and-decision-order) altında yetkilendirilmiş incelemeye gider.
 
-**Ayrı roller.** Otomatik bütünleştirme doğrulanmış kayıtları, çareleri, düzeltme ödevlerini, kilitleri, eşikleri, izinleri ve betimleyicileri birlikte kullanabilir. Her birinin hâlâ kendi işi vardır ve hiçbiri diğerinin işini yapamaz. Daha yakın ya da otomatik inceleme, tek başına daha sert bir kısıt dayatma nedeni değildir. Herhangi bir kısıt gerekli, doğrulanmış olgulara eşleşmiş, kanıtla destekli, incelemeye açık ve **Madde XXIII** (*Çatışma çözümü, yükseltme ve acil durum orantılılığı*) ile tutarlı olmalıdır.
+**Ayrı roller.** Otomatik bütünleştirme doğrulanmış kayıtları, çareleri, düzeltme ödevlerini, kilitleri, eşikleri, izinleri ve betimleyicileri birlikte kullanabilir. Her birinin hâlâ kendi işi vardır ve hiçbiri diğerinin işini yapamaz. Daha yakın ya da otomatik inceleme, tek başına daha sert bir kısıt dayatma nedeni değildir. Herhangi bir kısıt gerekli, doğrulanmış olgulara eşleşmiş, kanıtla destekli, incelemeye açık ve **Madde XXIV** (*Çatışma çözümü, yükseltme ve acil durum orantılılığı*) ile tutarlı olmalıdır.
 
 Bütünleştirme kaydı son etkiyi her etkilenen adlandırılmış yol için ayrı belirtmelidir:
 
@@ -685,7 +685,7 @@ Ayrıca kullanılan girdileri, ağırlıkları, kuralları ve inceleme yolların
 *Yalın dille: bu bölüm güzergâhın ne olmadığını söyler. Bu alt kesit kimsenin olmadığı şeyi kurmasını durdurur. Etkiler bir adlandırılmış yol bir anda belirtilir ve yalnızca o adlandırılmış yolu kapılayana gösterilir. Onları bir profile, bir sıraya ya da kamusal bir görüntüye dikmek bu bölümün yasakladığı birleştirilmiş puanı kurar — ve bunu yapmak kendisi bir ihlaldir.*
 
 - **Açıklama kapsamı:** Bir adlandırılmış yol için son etki özneye, o adlandırılmış yolun kapılayıcısına ve yetkilendirilmiş inceleyenlere açıklanır. Olağan olarak diğer adlandırılmış yolların kapılayıcılarına açıklanmaz.
-- **Yasak toplanma:** Aşağıdakiler birleştirilmiş bir puan kurar ve [Madde VII-B](core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*İç-durum sınırı ve Tip-N koruması*) ile birlikte okunan [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) altında bağımsız ölçülebilir ihlal davranışıdır; bu alt kesit o maddenin toplanma disiplinini güzergâh için yansıtır:
+- **Yasak toplanma:** Aşağıdakiler birleştirilmiş bir puan kurar ve [Madde VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*İç-durum sınırı ve Tip-N koruması*) ile birlikte okunan [Sekizinci Bölüm](core_08_standing_assessment.md#chapter-eight-compliance-violation-and-standing-model) altında bağımsız ölçülebilir ihlal davranışıdır; bu alt kesit o maddenin toplanma disiplinini güzergâh için yansıtır:
   - adlandırılmış yollar boyunca son etkileri şuna derlemek:
     - bir profil;
     - bir bileşik;
@@ -704,12 +704,12 @@ Ayrıca kullanılan girdileri, ağırlıkları, kuralları ve inceleme yolların
 
 *Yalın dille: kimse bir güzergâh etkisinin kendisine ne yaptığını sonuçlarından öğrenmemelidir. Kayıt özneye, yalın dilde, tam olarak hangi adlandırılmış yolların etkilendiğini, ne yapması gerektiğini, ne kadar sürdüğünü ve nereye itiraz edeceğini söylemeli — ve benimseyen, algılayanların güzergâhı bir puan olarak yaşayıp yaşamadığını ölçmelidir, çünkü olmadığı kuralı o şekilde düşerse değersizdir.*
 
-- **Özneye yalın dil bildirimi:** **Etki yok** dışındaki bir son etki iliştiğinde özne bir yalın dil bildirimi almalıdır. Bildirim [Birinci Bölüm §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)yi ve **Madde XX-A** (*Orantılı Anlaşılabilirlik Hakkı*)yı karşılamalı ve şunları adlandırmalıdır:
+- **Özneye yalın dil bildirimi:** **Etki yok** dışındaki bir son etki iliştiğinde özne bir yalın dil bildirimi almalıdır. Bildirim [Birinci Bölüm §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)yi ve **Madde XXI-A** (*Orantılı Anlaşılabilirlik Hakkı*)yı karşılamalı ve şunları adlandırmalıdır:
   - her etkilenen adlandırılmış yol;
   - etki dururken öznenin ne yapabileceği ve yapamayacağı;
   - düzeltici koşullar ve yeniden değerlendirme noktası;
   - beklenen süre ya da inceleme temposu; ve
-  - **Madde XII-B** (*İtiraz, inceleme ve onarım hakkı*) altında itiraz yolu.
+  - **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) altında itiraz yolu.
 - **Dürüst maliyet:** Bir güzergâh kilidi gerçek kapılar kapatır ve incelenebilir-eylem ödevi onu taşıyan sorumlu yönetici üzerinde gerçek bir yüktür. Benimseyenler o maliyetleri, güzergâhın ne olmadığını yanında, güzergâhı etkilenen algılayanlara betimleyen malzemede yalın belirtmelidir. Yalnızca güzergâhın sınırlarını betimleyip ağırlığını atlamak bir [Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) kusurudur.
 - **Hissedilen-yük ölçüsü:** Benimseyenler, [Katılım ölçüm ailesi](core_05_apex_participation_leg.md#participation-measurement-family) altında, etkilenen algılayanların güzergâh etkilerini sınırlı adlandırılmış-yol koşulları olarak değil genel bir değer sırası, itibar puanı ya da kalıcı statü olarak yaşayıp yaşamadığını ölçmelidir. Yasal kategori ile yaşanan arasındaki maddi sapma, [Birinci Bölüm §6.2.4](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) altında [Vekil sapması](core_05_band_oversight.md#proxy-divergence)dır: belgelenmeli, yükseltilmeli ve tasarım, açıklama ya da [§7.1](#71-anti-aggregation-of-named-pathway-effects) yaptırımı yoluyla düzeltilmelidir — açıklanarak geçiştirilmemelidir.
 
@@ -746,7 +746,7 @@ Arşivleme silme değildir. [Kanıt koruma](core_05_band_oversight.md#evidence-p
 
 *Yalın dille: güzergâh sonuçları ve giderme yalnızca gerçek kurumlar onları teslim edebildiğinde sayılır. Bu kesit o makine için anayasal tabandır. Gündelik kadro, finansman, birikim ve halefiyet kuralları kurumlar katmanında yaşar.*
 
-Dokuzuncu Bölüm, Soru 3 sonuçlarının ve ilgili gidermenin kurumsal olarak gerçek olması gerektiği anayasal tabanı sahiplenir. Bir [Çare Sistemi](core_05_band_accountability.md#remedy-system-constitutional) itiraz, alım, koruma, inceleme, onarım, izleme, koruma yaptırımı ve kilit incelemesini teslim eden kalıcı kapasitedir — bir kâğıt yol değil. Uygulama ayrıntısı [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Çare sistemleri ve kurumsal giderme kapasitesi*)nin sahipliğindedir. Forum gözetimi için **Madde XII-B** (*İtiraz, inceleme ve onarım hakkı*) ve [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) ile birlikte okuyun.
+Dokuzuncu Bölüm, Soru 3 sonuçlarının ve ilgili gidermenin kurumsal olarak gerçek olması gerektiği anayasal tabanı sahiplenir. Bir [Çare Sistemi](core_05_band_accountability.md#remedy-system-constitutional) itiraz, alım, koruma, inceleme, onarım, izleme, koruma yaptırımı ve kilit incelemesini teslim eden kalıcı kapasitedir — bir kâğıt yol değil. Uygulama ayrıntısı [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Çare sistemleri ve kurumsal giderme kapasitesi*)nin sahipliğindedir. Forum gözetimi için **Madde XIII-B** (*İtiraz, inceleme ve onarım hakkı*) ve [On Birinci Bölüm](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) ile birlikte okuyun.
 
 Güzergâh bütünleştirmesi sonuçlar yalnızca kâğıtta varsa başarısız olur. Benimseyenler düzeltmeyi uygulamak, çareyi finanse etmek, kısıtları incelemek, kayıtları korumak, korumaları yaptırmak ve maliyet, gecikme, sınırlar, yeniden yapılandırma ya da biçimsel kimlik değişiklikleri üzerinden kaçışı önlemek için pratik, zamanında kapasite tutmalıdır.
 
@@ -823,7 +823,7 @@ Forumlar ve uygulama sistemleri biçimsel yapıdan işlevsel denetime, yarara, s
 <a id="95-timely-implementation"></a>
 #### 9.5 Zamanında uygulama
 
-Çare başlaması, düzeltme kilometre taşları, kilit incelemesi ve yeniden değerlendirme [Zamanındalık](core_05_apex_timeliness_leg.md#timeliness-constitutional), [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ve **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*)yı karşılamalıdır. Zararı biriktiren, yerine getirmemeyi gizleyen ya da incelemeyi düşüren gecikme Soru 3 için yeni bir doğrulanmış olgudur ve özgün Sekizinci Bölüm yuvasını değiştirmeden yükseltilmiş korumaları haklı kılabilir.
+Çare başlaması, düzeltme kilometre taşları, kilit incelemesi ve yeniden değerlendirme [Zamanındalık](core_05_apex_timeliness_leg.md#timeliness-constitutional), [On Birinci Bölüm §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ve **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*)yı karşılamalıdır. Zararı biriktiren, yerine getirmemeyi gizleyen ya da incelemeyi düşüren gecikme Soru 3 için yeni bir doğrulanmış olgudur ve özgün Sekizinci Bölüm yuvasını değiştirmeden yükseltilmiş korumaları haklı kılabilir.
 
 Haklar ve güzergâh sonuçları yalnızca algılayanlar onları çağırabildiğinde, doğrulayabildiğinde, pratik onarımı finanse edebildiğinde, zamanında inceleme alabildiğinde ve yükümlülükleri işlevsel olarak sorumlu aktörlere karşı yaptırabildiğinde gerçektir.
 

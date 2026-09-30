@@ -184,7 +184,7 @@
     - 情報源の保護；
     - 調査；および
     - 公表。
-    Sentients doing that work exercise the [表現](core_05_band_participation.md#expression-constitutional) and [結社](core_05_band_participation.md#assembly-constitutional) 権利の床, with heightened-scrutiny protection under [Article V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [表現](core_05_band_participation.md#expression-constitutional) and [結社](core_05_band_participation.md#assembly-constitutional) 権利の床, with heightened-scrutiny protection under [Article V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **範囲外：** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **測定と評価の仕方**
@@ -195,11 +195,11 @@
     - 情報源の保護；
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [必要性](core_05_band_accountability.md#necessity) and [比例性](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [必要性](core_05_band_accountability.md#necessity) and [比例性](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **成り立たねばならないこと**
   - **第一次の失敗：** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **第二次の失敗：** stretching [善意](core_05_band_accountability.md#good-faith) or **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **第二次の失敗：** stretching [善意](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **第三次の失敗：** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -661,7 +661,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when 第二から第四章 require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**監督の枠。** Under the [憲法四元](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**監督の枠。** Under the [憲法四元](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **システム階級と比例。** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — システムの分類と取扱い**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - より深い保証；
@@ -757,7 +757,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- 下流： **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
+- 下流： **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
 - あわせて読む： [透明性](core_05_band_oversight.md#transparency), [争訟可能性](core_05_band_accountability.md#contestability), [監査可能性](core_05_band_oversight.md#auditability), [リスク開示](core_05_band_oversight.md#risk-disclosure), [チャーター](core_05_band_continuity.md#charter), [システムの境界](core_05_band_continuity.md#system-boundaries), [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional), [システム認証記録](core_05_band_continuity.md#system-certification-record-constitutional), [システム分類記録](core_05_band_continuity.md#system-classification-record-constitutional), [システムデータ種類記録](core_05_band_continuity.md#system-data-types-record-constitutional), [分類に応じた統治](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — 情報の型と取扱い** (**Type O**).
 
 </details>
@@ -881,8 +881,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - あわせて読む： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [説明責任](core_05_apex_accountability_leg.md#accountability), [争訟可能性](core_05_band_accountability.md#contestability), [認識的誠実性](core_05_band_oversight.md#epistemic-integrity), [透明性](core_05_band_oversight.md#transparency), [検証可能性](core_05_band_oversight.md#verifiability), [証拠保全](core_05_band_oversight.md#evidence-preservation), and [評価完全性の制約](core_05_band_oversight.md#evaluation-completeness-constraint).
-- あわせて読む： **Article XV** (*Audit, Transparency, and Independent Verification*); [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) 第二から第四章.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../../core_06_rights_part_c.md#audit-three-layers).
+- あわせて読む： **Article XVI** (*Audit, Transparency, and Independent Verification*); [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) 第二から第四章.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1075,7 +1075,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - クラスター構成要素： [Def.O1 透明性、監査可能性、検証](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - あわせて読む： [監査可能性](core_05_band_oversight.md#auditability), [透明性](core_05_band_oversight.md#transparency), [争訟可能性](core_05_band_accountability.md#contestability), [比例性](core_05_band_accountability.md#proportionality), [実行可能性](core_05_band_accountability.md#feasibility), [真理（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint), and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1087,7 +1087,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **それが何か**
   - **範囲内：** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [監査可能性](core_05_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [実行可能性](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [実行可能性](core_05_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [比例性](core_05_band_accountability.md#proportionality) and [実質的影響](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1112,7 +1112,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **第二次の測定：** [監督の測定ファミリー](core_05_apex_oversight_leg.md#oversight-measurement-family) — *感知者は、システムが表すものを見、検証し、依拠できるか。* ここで問うのに用いよ： observed behavior can be independently validated by reproducible methods in practice.
 
     **第二次の評価：** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [実行可能性](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [実行可能性](core_05_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [比例性](core_05_band_accountability.md#proportionality) and [実質的影響](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [敵対的、拡大、搾取された条件](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1225,7 +1225,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     from good-faith observation and bounded interpretation, under [真理（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint) and [善意](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **成り立たねばならないこと**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by 第十一章 **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [真理（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint), [善意](core_05_band_accountability.md#good-faith), and [認識的誠実性](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by 第十一章 **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [真理（憲法上の制約）](core_05_band_oversight.md#truth-constitutional-constraint), [善意](core_05_band_accountability.md#good-faith), and [認識的誠実性](core_05_band_oversight.md#epistemic-integrity).
   - **第一次の失敗：** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;

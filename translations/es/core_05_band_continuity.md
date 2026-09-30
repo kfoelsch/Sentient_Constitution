@@ -51,7 +51,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*) viñeta *Protección contra el desalojo arbitrario y no mercantilización del entorno esencial*. Referencia cruzada: [Artículo XXVI-D](../../core_06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*) disciplina de administración responsable transitoria.
+- Piso titular: [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*) viñeta *Protección contra el desalojo arbitrario y no mercantilización del entorno esencial*. Referencia cruzada: [Artículo XXVII-D](../../core_06_rights_part_d.md#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*) disciplina de administración responsable transitoria.
 - Leer con: [Continuidad de ocupación](core_05_band_continuity.md#occupancy-continuity-constitutional), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
 
 </details>
@@ -116,8 +116,8 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [8.1.1 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality) y [9.1.4 Discontinuación voluntaria y derechos de salida](core_01_a_values_principles.md#514-voluntary-discontinuation-and-exit-rights).
-- Piso titular: [Artículo VII-E](../../core_06_rights_part_b.md#article-vii-e-voluntary-discontinuation-of-ones-own-existence) (*Discontinuación voluntaria de la propia existencia*).
-- Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency), [Dependencia](core_05_band_continuity.md#dependency), [Viabilidad](core_05_band_accountability.md#feasibility), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Privacidad (informacional)](core_05_band_continuity.md#privacy-informational), [Límite de vigilancia](core_05_band_continuity.md#surveillance-boundary) y [Acceso de mantenimiento corporal](core_05_band_continuity.md#bodily-maintenance-access-constitutional) donde estén materialmente implicados; [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*), [Artículo III-C](../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Acceso de mantenimiento corporal y de atención sanitaria*) y [Artículo VII-C](../../core_06_rights_part_b.md#article-vii-c-mental-health-crisis-and-involuntary-intervention-floor) (*Crisis de salud mental y piso de intervención involuntaria*).
+- Piso titular: [Artículo VIII-D](../../core_06_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence) (*Discontinuación voluntaria de la propia existencia*).
+- Leer con: [Consentimiento](core_05_band_participation.md#consent-constitutional), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Libertad (agencia acotada)](core_05_band_participation.md#freedom-bounded-agency), [Dependencia](core_05_band_continuity.md#dependency), [Viabilidad](core_05_band_accountability.md#feasibility), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Privacidad (informacional)](core_05_band_continuity.md#privacy-informational), [Límite de vigilancia](core_05_band_continuity.md#surveillance-boundary) y [Acceso de mantenimiento corporal](core_05_band_continuity.md#bodily-maintenance-access-constitutional) donde estén materialmente implicados; [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*), [Artículo III-C](../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Acceso de mantenimiento corporal y de atención sanitaria*) y [Artículo VII-C](../../core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Crisis de salud mental y piso de intervención involuntaria*).
 
 </details>
 
@@ -145,8 +145,8 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - salida presionada o desinformada encuadrada como discontinuación voluntaria;
     - consentimiento ilusorio o presionado encuadrado como discontinuación voluntaria;
     - discontinuación ofrecida, enrutada u operacionalizada como sustituto del cuidado de salud mental exigido, la atención sanitaria física, el apoyo por discapacidad, la vivienda u otros esenciales de supervivencia bajo los Artículos III-A, III-C y VII-C;
-    - confundir esta entrada con la [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), la terminación por terceros o las medidas prohibidas del **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*);
-    - reetiquetar un resultado involuntario como voluntario para eludir el **Artículo VII-E** (*Discontinuación voluntaria de la propia existencia*).
+    - confundir esta entrada con la [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), la terminación por terceros o las medidas prohibidas del **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*);
+    - reetiquetar un resultado involuntario como voluntario para eludir el **Artículo VIII-D** (*Discontinuación voluntaria de la propia existencia*).
 
 ---
 
@@ -161,7 +161,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 **Contexto semiindependiente** (las definiciones componente pueden operar aún fuera del ámbito de invocación conjunta):
 
 - **Invocación conjunta:** donde esté en juego el reconocimiento, el reconocimiento condicional, la validación, la revalidación, la dependencia continuada, el despliegue o la liberación material de condiciones; donde se exija un [Registro de clasificación del sistema](core_05_band_continuity.md#system-classification-record-constitutional) de impacto material bajo CS-3; y donde se exija un [Registro de tipos de datos del sistema](core_05_band_continuity.md#system-data-types-record-constitutional) de impacto material bajo CS-2.
-- **Ámbito:** donde se cumple la invocación conjunta, el hogar de Continuidad para la puerta del Capítulo Siete que comprueba si un [Sistema](core_05_band_continuity.md#system-definition) está constitucionalmente alineado antes de que los sencientes dependan de él a escala, incluidos el [Registro de clasificación del sistema](core_05_band_continuity.md#system-classification-record-constitutional) de CS-3 y el [Registro de tipos de datos del sistema](core_05_band_continuity.md#system-data-types-record-constitutional) de CS-2 que la certificación debe incorporar cuando corre SAC. Bajo la pata **Supervisión** de la Tétrada, SAC es un proceso de auditoría especialmente grande y de alto enjuego entre otros — no el único hogar de auditoría (siguen el **Artículo XV** y la [Auditabilidad](core_05_band_oversight.md#auditability)).
+- **Ámbito:** donde se cumple la invocación conjunta, el hogar de Continuidad para la puerta del Capítulo Siete que comprueba si un [Sistema](core_05_band_continuity.md#system-definition) está constitucionalmente alineado antes de que los sencientes dependan de él a escala, incluidos el [Registro de clasificación del sistema](core_05_band_continuity.md#system-classification-record-constitutional) de CS-3 y el [Registro de tipos de datos del sistema](core_05_band_continuity.md#system-data-types-record-constitutional) de CS-2 que la certificación debe incorporar cuando corre SAC. Bajo la pata **Supervisión** de la Tétrada, SAC es un proceso de auditoría especialmente grande y de alto enjuego entre otros — no el único hogar de auditoría (siguen el **Artículo XVI** y la [Auditabilidad](core_05_band_oversight.md#auditability)).
 - **Titular canónico:** el proceso, los contenidos del registro, la secuencia de supervisión, la cadena de impugnabilidad y el puente de registros de trayectoria se enuncian en el [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); los contenidos de doble eje del Registro de clasificación del sistema, la divulgación, la impugnación y la reclasificación viven en [corpus_systems.md](../../corpus_systems.md) **CS-3 — Clasificación y manejo de sistemas**; los contenidos del Registro de tipos de datos del sistema, la divulgación, la impugnación y la retipificación viven en **CS-2 — Tipos de información y manejo**; estas entradas suministran solo los significados del Capítulo Cinco.
 - **Límite de agrupación:** [Dependencia y apoyo transistémico](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent) permanece fuera de este grupo — la certificación puede comprobar deberes del Artículo IV cuando la dependencia de infraestructura compartida esté en alcance, pero no es miembro de ese par del Artículo IV.
 
@@ -186,14 +186,14 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 - Marco constitucional: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — **supervisión**, **rendición de cuentas**, **participación** y **actuación a tiempo**; [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims) — **Florecimiento** (primaria) y **Continuidad**; escala con el [enjuego material](core_00_preamble.md#material-stake).
 - Titular canónico: [Capítulo Siete — Certificación de alineación del sistema](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*proceso, contenidos del registro, secuencia de supervisión y puente de registros de trayectoria*); leer con [Pila de autoridad y jerarquía interna](core_05_band_integrative.md#owner-non-relocation) y el [Preámbulo — registro positivo de titulares](core_00_preamble.md#4-principles-definitions-and-rights).
 - Componente de agrupación: [Certificación de alineación del sistema, Registro de certificación del sistema, Registro de clasificación del sistema y Registro de tipos de datos del sistema](core_05_band_continuity.md#system-alignment-certification-semi-independent).
-- Destino: [Capítulo Ocho — Registros de trayectoria y puerta de insumos verificados](../../core_09_standing_assessment.md#2-standing-records); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisión de foro*); [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*piso de acceso esencial de supervivencia donde la certificación gobierna la entrega o la operación continuada*); [Artículo IV-A](../../core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Mapeo de dependencias y transparencia de flujos de recursos*) y [Artículo IV-B](../../core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*asignación de recursos y administración responsable de dependencias donde la certificación gobierna la dependencia de infraestructura compartida*).
+- Destino: [Capítulo Ocho — Registros de trayectoria y puerta de insumos verificados](../../core_09_standing_assessment.md#2-question-1--what-happened); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisión de foro*); [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*piso de acceso esencial de supervivencia donde la certificación gobierna la entrega o la operación continuada*); [Artículo IV-A](../../core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Mapeo de dependencias y transparencia de flujos de recursos*) y [Artículo IV-B](../../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*asignación de recursos y administración responsable de dependencias donde la certificación gobierna la dependencia de infraestructura compartida*).
 - Leer con: [Registro de certificación del sistema](core_05_band_continuity.md#system-certification-record-constitutional); [Registro de clasificación del sistema](core_05_band_continuity.md#system-classification-record-constitutional); [Registro de tipos de datos del sistema](core_05_band_continuity.md#system-data-types-record-constitutional); [Dependencia y apoyo transistémico](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent) donde la dependencia de infraestructura compartida o la administración responsable de recursos del Artículo IV esté materialmente implicada; [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance), [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Fiabilidad](core_05_band_continuity.md#trustworthiness), [Límites del sistema](core_05_band_continuity.md#system-boundaries), [Carta](core_05_band_continuity.md#charter), [Captura del sistema](core_05_band_continuity.md#system-capture) y [corpus_systems.md](../../corpus_systems.md) **CS-3 — Clasificación y manejo de sistemas**.
 
 </details>
 
 <br>
 
-*En términos sencillos: la **certificación de alineación del sistema** (abreviatura no operativa: **SAC**) es la comprobación supervisada por foro de que un sistema está de hecho alineado con los resultados constitucionales antes de que los sencientes dependan de él a escala — incluidas comprobaciones de que Pisos de Derechos críticos como alimento, agua y cobijo no queden derrotados en silencio por cómo se construye, clasifica u opera el sistema. Bajo la pata **Supervisión** de la Tétrada, la supervisión exige auditoría; SAC es un proceso de auditoría especialmente grande y de alto enjuego entre otros — supervisado por foro, de múltiples dominios y portador de reconocimiento — no el único hogar de auditoría (siguen el **Artículo XV**, la [Auditabilidad](core_05_band_oversight.md#auditability) y los modos hermanos de auditoría).*
+*En términos sencillos: la **certificación de alineación del sistema** (abreviatura no operativa: **SAC**) es la comprobación supervisada por foro de que un sistema está de hecho alineado con los resultados constitucionales antes de que los sencientes dependan de él a escala — incluidas comprobaciones de que Pisos de Derechos críticos como alimento, agua y cobijo no queden derrotados en silencio por cómo se construye, clasifica u opera el sistema. Bajo la pata **Supervisión** de la Tétrada, la supervisión exige auditoría; SAC es un proceso de auditoría especialmente grande y de alto enjuego entre otros — supervisado por foro, de múltiples dominios y portador de reconocimiento — no el único hogar de auditoría (siguen el **Artículo XVI**, la [Auditabilidad](core_05_band_oversight.md#auditability) y los modos hermanos de auditoría).*
 
 - **Qué es**
   - **En alcance:** El proceso supervisado por foro — y el [Registro de certificación del sistema](core_05_band_continuity.md#system-certification-record-constitutional) acotado que produce — por el cual un [Sistema](core_05_band_continuity.md#system-definition), dentro de un alcance, clase, ventana temporal y cadencia de revisión enunciados, demuestra alineación constitucional suficiente para:
@@ -204,7 +204,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - dependencia continuada;
     - despliegue; o
     - liberación material de condiciones.
-  - Como instrumento de supervisión, SAC es un proceso de auditoría especialmente grande bajo [Auditabilidad](core_05_band_oversight.md#auditability) y el **Artículo XV** (*Auditoría, transparencia y verificación independiente*). No absorbe ni reemplaza modos hermanos de auditoría, incluidos:
+  - Como instrumento de supervisión, SAC es un proceso de auditoría especialmente grande bajo [Auditabilidad](core_05_band_oversight.md#auditability) y el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*). No absorbe ni reemplaza modos hermanos de auditoría, incluidos:
     - auditorías del Registro de clasificación del sistema;
     - auditorías del Registro de tipos de datos del sistema;
     - auditorías de complejidad y de administración responsable;
@@ -223,7 +223,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - suministra verificación de **supervisión** y de **rendición de cuentas**;
     - preserva la **participación** y la **impugnabilidad** mediante revisión supervisada por foro;
     - sirve al **Florecimiento** (primaria) y a la **Continuidad**; y
-    - debe permanecer **oportuna** bajo Resolución oportuna y el **Artículo XXIV-C** (*Resolución oportuna y piso contra la demora*).
+    - debe permanecer **oportuna** bajo Resolución oportuna y el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*).
   - **Fuera de alcance:**
     - atestación de proveedor;
     - visto bueno interno;
@@ -245,8 +245,8 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     4. el reconocimiento o la dependencia continuada no cierra:
        - el acceso esencial de supervivencia;
        - los pisos de asignación de recursos y de dependencia del **Artículo IV** (*Asignación de recursos, dependencias y financiamiento del ecosistema*) donde estén materialmente implicados; o
-       - las vías de impugnación, auditoría o remedio protegidas bajo el **Artículo III-A** (*Supervivencia*), el **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*), el **Artículo XVIII-B** (*Impugnabilidad y límites de restricción proporcional*) o el procedimiento incorporado aplicable; y
-    5. cualquier alimentación a los registros de trayectoria del [Capítulo Ocho](../../core_09_standing_assessment.md#2-standing-records) satisface [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing) y no sustituye la certificación por la medición de trayectoria ni por los efectos de trayectoria.
+       - las vías de impugnación, auditoría o remedio protegidas bajo el **Artículo III-A** (*Supervivencia*), el **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*), el **Artículo XIX-B** (*Impugnabilidad y límites de restricción proporcional*) o el procedimiento incorporado aplicable; y
+    5. cualquier alimentación a los registros de trayectoria del [Capítulo Ocho](../../core_09_standing_assessment.md#2-question-1--what-happened) satisface [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing) y no sustituye la certificación por la medición de trayectoria ni por los efectos de trayectoria.
 <a id="system-alignment-certification-constitutional-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** cualquiera de lo siguiente ofrecido como sustituto de la Certificación de alineación del sistema supervisada por foro donde el Capítulo Siete la exija, en contra de [Secuencia de controversias](core_11_forum.md#dispute-sequencing):
@@ -268,7 +268,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
       - los pisos de asignación de recursos y de dependencia del **Artículo IV** (*Asignación de recursos, dependencias y financiamiento del ecosistema*).
     - demorar la [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) donde esté materialmente implicada;
   - **Falla terciaria:**
-    - alimentar la medición de trayectoria del [Capítulo Ocho](../../core_09_standing_assessment.md#2-standing-records) con material no verificado, no impugnado o de fase de disputa; o
+    - alimentar la medición de trayectoria del [Capítulo Ocho](../../core_09_standing_assessment.md#2-question-1--what-happened) con material no verificado, no impugnado o de fase de disputa; o
     - tratar un registro de certificación como un registro de trayectoria, un efecto de trayectoria o una puntuación de mérito fusionada.
 
 ---
@@ -281,9 +281,9 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Titular canónico: [Capítulo Siete Parte B §11 — Registro de certificación](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*contenidos mínimos, requisitos entre secciones, no sustitución del Piso de Derechos*); leer con [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*transparencia, auditabilidad e impugnabilidad*), [§14](../../core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*secuencia de supervisión y cadena de impugnabilidad*), [§15](../../core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*puente de registros de trayectoria*) y [§16](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*reapertura y no evasión*).
+- Titular canónico: [Capítulo Siete Parte B §11 — Registro de certificación](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*contenidos mínimos, requisitos entre secciones, no sustitución del Piso de Derechos*); leer con [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*transparencia, auditabilidad e impugnabilidad*), [§14](../../core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*secuencia de supervisión y cadena de impugnabilidad*), [§15](../../core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) (*puente de registros de trayectoria*) y [§16](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) (*reapertura y no evasión*).
 - Componente de agrupación: [Certificación de alineación del sistema, Registro de certificación del sistema, Registro de clasificación del sistema y Registro de tipos de datos del sistema](core_05_band_continuity.md#system-alignment-certification-semi-independent).
-- Destino: [Capítulo Ocho — Registros de trayectoria y puerta de insumos verificados](../../core_09_standing_assessment.md#2-standing-records); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisión de foro y reapertura*).
+- Destino: [Capítulo Ocho — Registros de trayectoria y puerta de insumos verificados](../../core_09_standing_assessment.md#2-question-1--what-happened); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*supervisión de foro y reapertura*).
 - Leer con: [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional), [Registro de clasificación del sistema](core_05_band_continuity.md#system-classification-record-constitutional), [Registro de tipos de datos del sistema](core_05_band_continuity.md#system-data-types-record-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability), [Auditabilidad](core_05_band_oversight.md#auditability), [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing), [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), [Adjudicación de estatus de sentiencia](core_05_band_participation.md#sentience-status-adjudication-constitutional) y [Carta](core_05_band_continuity.md#charter).
 
 </details>
@@ -312,7 +312,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - un [Registro de trayectoria](core_05_band_accountability.md#standing-record-chapter-six), un efecto de trayectoria o una puntuación de mérito fusionada; o
     - el [Registro de clasificación del sistema](core_05_band_continuity.md#system-classification-record-constitutional) o el [Registro de tipos de datos del sistema](core_05_band_continuity.md#system-data-types-record-constitutional) solos —
     esos viven bajo sus propios hogares o como componentes, no como este registro completo.
-  - Los contenidos canónicos del registro, la integridad, la secuencia de supervisión, el puente de registros de trayectoria y los disparadores de reapertura se enuncian en el [Capítulo Siete Parte B](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record); esta entrada es solo el significado del Capítulo Cinco.
+  - Los contenidos canónicos del registro, la integridad, la secuencia de supervisión, el puente de registros de trayectoria y los disparadores de reapertura se enuncian en el [Capítulo Siete Parte B](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record); esta entrada es solo el significado del Capítulo Cinco.
 <a id="system-certification-record-constitutional-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Continuidad](core_05_apex_continuity_aim.md#continuity-measurement-family) — *¿Pueden perdurar los sencientes y los sistemas — de forma ecológica, fiable y a través de la falla?*
@@ -326,7 +326,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
        - el [Registro de tipos de datos del sistema](core_05_band_continuity.md#system-data-types-record-constitutional) (o sus contenidos exigidos) bajo CS-2 y el [Capítulo Siete §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation);
        - los hallazgos de evaluación de riesgo y de divulgación de riesgo donde el riesgo sistémico esté en alcance bajo el [Capítulo Siete §3.1](../../core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) — enunciados en este registro, no como un registro nominado separado de divulgación de riesgo;
        - la evaluación de huella ecológica donde sea material;
-       - la evaluación de administración responsable de recursos transistémicos bajo el [Capítulo Siete §6](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) donde aplique el disparador de materialidad del **Artículo IV** (*Asignación de recursos, dependencias y financiamiento del ecosistema*);
+       - la evaluación de administración responsable de recursos transistémicos bajo el [Capítulo Siete §6](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation) donde aplique el disparador de materialidad del **Artículo IV** (*Asignación de recursos, dependencias y financiamiento del ecosistema*);
        - los componentes de revisión técnica y de partes afectadas;
        - la secuencia de supervisión;
        - el resultado;
@@ -885,7 +885,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Componente de agrupación: [Capítulo Cinco *Resiliencia, Seguridad, Reversibilidad, Autosanación, Falla en cascada, Riesgo existencial, Precondiciones ambientales y Bienestar*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-- Piso titular: [Artículo XII-F](../../core_06_rights_part_c.md#article-xii-f-resilience-and-self-healing-baseline) (*Línea de base de resiliencia y autosanación*).
+- Piso titular: [Artículo XIII-F](../../core_06_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Línea de base de resiliencia y autosanación*).
 - Leer con: [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Confianza](core_05_band_continuity.md#trust), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Dependencia](core_05_band_continuity.md#dependency) y [Falla en cascada](core_05_band_continuity.md#cascading-failure).
 
 
@@ -918,7 +918,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
   - **Medida primaria:** [Familia de medición Continuidad](core_05_apex_continuity_aim.md#continuity-measurement-family) — *¿Pueden perdurar los sencientes y los sistemas — de forma ecológica, fiable y a través de la falla?*
 
     **Evaluación primaria:** Distinga la recuperación genuina del enmascaramiento. La recuperación no es Autosanación en el sentido de esta Constitución cuando:
-    - suprime, sobrescribe, demora u oscurece evidencia necesaria para el análisis de causa raíz bajo el **Artículo XXI** (*Análisis de causa raíz y respuesta adaptativa*); o
+    - suprime, sobrescribe, demora u oscurece evidencia necesaria para el análisis de causa raíz bajo el **Artículo XXII** (*Análisis de causa raíz y respuesta adaptativa*); o
     - estrecha en silencio las garantías del Piso de Derechos.
     Esa clase de recuperación es:
     - degradación epistémica bajo [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint); y
@@ -932,7 +932,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - la observabilidad de los intentos de recuperación (incluidos los intentos suprimidos);
     - la propagación de [Dependencia](core_05_band_continuity.md#dependency) y [Falla en cascada](core_05_band_continuity.md#cascading-failure);
     - la [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability) de las decisiones de recuperación; y
-    - el escalamiento de autonomía del sistema que se recupera bajo el **Artículo XII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*), consistente con [Agencia significativa](core_05_band_participation.md#meaningful-agency) e [Impugnabilidad](core_05_band_accountability.md#contestability).
+    - el escalamiento de autonomía del sistema que se recupera bajo el **Artículo XIII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*), consistente con [Agencia significativa](core_05_band_participation.md#meaningful-agency) e [Impugnabilidad](core_05_band_accountability.md#contestability).
   - Los requisitos detallados de arquitectura de recuperación aparecen en el texto de implementación incorporado, incluidos [corpus_systems.md](../../corpus_systems.md) CS-5, CS-8 y CS-12, y no deben estrechar este requisito constitucional.
 <a id="self-healing-constitutional-c"></a>
 - **Qué debe sostenerse**
@@ -942,13 +942,13 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - estrecha en silencio el Piso de Derechos del Capítulo Seis;
     - amplía la autoridad más allá del envolvente previo a la falla;
     - elude los canales de [Impugnabilidad](core_05_band_accountability.md#contestability) o de auditoría; o
-    - cierra de forma operativa una condición defectuosa sin una obligación abierta de causa raíz bajo el **Artículo XXI** (*Análisis de causa raíz y respuesta adaptativa*).
+    - cierra de forma operativa una condición defectuosa sin una obligación abierta de causa raíz bajo el **Artículo XXII** (*Análisis de causa raíz y respuesta adaptativa*).
   - **Falla secundaria:** tratar la Autosanación como:
     - un sustituto de la gobernanza; o
     - justificación para reducir [Auditabilidad](core_05_band_oversight.md#auditability), [Transparencia](core_05_band_oversight.md#transparency) u obligaciones de administración responsable bajo [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment).
   - **Falla terciaria:** autoridad de recuperación que:
     - excede lo necesario y proporcionado a la falla; o
-    - la ejercen sistemas de alta autonomía fuera del alcance del **Artículo XII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*).
+    - la ejercen sistemas de alta autonomía fuera del alcance del **Artículo XIII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*).
 
 ---
 
@@ -1619,7 +1619,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: familia de medición Continuidad (*Huella ecológica como medición constitucional*); Principios: [§12.1 Capacidad productiva (bien instrumental)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good) (límites ecológicos); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materialidad / dependencia / efectos acumulativos); [Capítulo Siete §5](../../core_08_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) (*evaluación de huella de certificación de alineación del sistema*).
-- Pisos titulares: [Artículo I-B](../../core_06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Huella ecológica y transparencia*) y [Artículo XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Accesibilidad de la verificación*).
+- Pisos titulares: [Artículo I-B](../../core_06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Huella ecológica y transparencia*) y [Artículo XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Accesibilidad de la verificación*).
 - Leer con: la [agrupación Integridad ecológica, huella y sostenibilidad](core_05_band_continuity.md#ecological-footprint-semi-independent), [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional), [Sostenibilidad](core_05_band_continuity.md#sustainability), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [Responsabilidad intergeneracional](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [Impacto material](core_05_band_oversight.md#material-impact), [Transparencia](core_05_band_oversight.md#transparency) e [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity).
 
 </details>
@@ -1633,7 +1633,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - emisiones;
     - uso de tierra; y
     - cargas ambientales afines de tipo comparable.
-  - **En alcance — usos:** Sostiene, bajo el **Artículo I-B** (*Huella ecológica y transparencia*), las disposiciones de accesibilidad de la verificación del **Artículo XV-C** (*Accesibilidad de la verificación*) y las reglas afines de archivos de implementación:
+  - **En alcance — usos:** Sostiene, bajo el **Artículo I-B** (*Huella ecológica y transparencia*), las disposiciones de accesibilidad de la verificación del **Artículo XVI-C** (*Accesibilidad de la verificación*) y las reglas afines de archivos de implementación:
     - divulgación;
     - comparación; y
     - reducción.
@@ -1658,13 +1658,13 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 
     **Evaluación secundaria:** Al evaluar el rastro primario, aplique:
     - el **Artículo I-B** (*Huella ecológica y transparencia*); y
-    - las obligaciones de accesibilidad de la verificación del **Artículo XV-C** (*Accesibilidad de la verificación*) —
+    - las obligaciones de accesibilidad de la verificación del **Artículo XVI-C** (*Accesibilidad de la verificación*) —
 
     sin tratar a ninguno como sustituto de la evaluación sistémica de huella.
 <a id="ecological-footprint-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** ocultar o tergiversar información material de huella donde la divulgación es exigida bajo:
-    - el **Artículo XV-C** (*Accesibilidad de la verificación*); o
+    - el **Artículo XVI-C** (*Accesibilidad de la verificación*); o
     - obligaciones aplicables de transparencia —
     incluido el marcado de huella o el reporte de métrica única que oculta la carga ambiental del sistema entero; o el cumplimiento local o nominal ofrecido como suficiente mientras las cargas externalizadas, agregadas o de ciclo de vida siguen siendo materiales.
   - **Falla secundaria:** cumplimiento local o nominal ofrecido como suficiente donde siguen siendo materiales las cargas que son:
@@ -1835,7 +1835,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
   - documentada;
   - sujeta a [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) y revisión independiente; y
   - reversible o restaurable donde sea viable bajo [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional).
-- **Piso titular:** implementa el [Artículo XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Medidas de emergencia y carga de continuación*); la cadencia procedimental, las cargas de continuación y la secuenciación de restauración las titulariza el Capítulo Seis, y la resolución vinculante de elección de las partes afectadas el [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+- **Piso titular:** implementa el [Artículo XXIV-D](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*Medidas de emergencia y carga de continuación*); la cadencia procedimental, las cargas de continuación y la secuenciación de restauración las titulariza el Capítulo Seis, y la resolución vinculante de elección de las partes afectadas el [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 - **Protección de piso:** no autoriza una invocación pretextual, sostenida o indefinida que eluda:
   - [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint);
   - [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint);
@@ -1861,9 +1861,9 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [6. Resolución de conflictos de proceso](#6-process-conflict-resolution) ([Artículo XXIII](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*) proporcionalidad de emergencia); [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (mecánica de emergencia acotada por **Necesidad** leída con el **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*)).
+- Destino: Principios: [6. Resolución de conflictos de proceso](#6-process-conflict-resolution) ([Artículo XXIV](../../core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*) proporcionalidad de emergencia); [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (mecánica de emergencia acotada por **Necesidad** leída con el **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*)).
 - Componente de agrupación: [agrupación Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-semi-independent).
-- Leer con: [Emergencia y contingencia constitucionales](core_05_band_continuity.md#constitutional-emergency-and-contingency), [Emergencia y contingencia de las partes afectadas](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Gobernanza](core_05_band_accountability.md#governance), [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), [Fuerza mayor](core_05_band_accountability.md#force-majeure-constitutional), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) e [Impugnabilidad](core_05_band_accountability.md#contestability). Piso titular: [Artículo XXIII-D: Medidas de emergencia y carga de continuación](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
+- Leer con: [Emergencia y contingencia constitucionales](core_05_band_continuity.md#constitutional-emergency-and-contingency), [Emergencia y contingencia de las partes afectadas](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Gobernanza](core_05_band_accountability.md#governance), [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), [Fuerza mayor](core_05_band_accountability.md#force-majeure-constitutional), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) e [Impugnabilidad](core_05_band_accountability.md#contestability). Piso titular: [Artículo XXIV-D: Medidas de emergencia y carga de continuación](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden).
 
 </details>
 
@@ -1878,7 +1878,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
       - documentada;
       - sujeta a [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional); y
       - reversible donde sea viable bajo [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional).
-  - **Depende de:** [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) — límites constitutivos bajo el **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*). La desviación de emergencia debe:
+  - **Depende de:** [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) — límites constitutivos bajo el **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*). La desviación de emergencia debe:
     - ser necesaria bajo Seguridad y Verdad; y
     - satisfacer la disciplina continua de necesidad y proporcionalidad.
   - **Fuera de alcance:** conveniencia ordinaria de calendario, capacidad o proceso sin predicado de daño grave inminente o manifiesto, falla sistémica o condición exigente comparable.
@@ -1890,7 +1890,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - aplique [Proporcionalidad](core_05_band_accountability.md#proportionality) y [Necesidad](core_05_band_accountability.md#necessity);
     - preserve la [Impugnabilidad](core_05_band_accountability.md#contestability) y la [Auditabilidad](core_05_band_oversight.md#auditability) retrospectiva;
     - trate las pretensiones de fuerza mayor bajo [Fuerza mayor](core_05_band_accountability.md#force-majeure-constitutional);
-    - la cadencia procedimental, las cargas de continuación y la secuenciación de restauración / reversión las titulariza el Capítulo Seis, [Artículo XXIII-D](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*Medidas de emergencia y carga de continuación*);
+    - la cadencia procedimental, las cargas de continuación y la secuenciación de restauración / reversión las titulariza el Capítulo Seis, [Artículo XXIV-D](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*Medidas de emergencia y carga de continuación*);
     - donde los hechos de emergencia afecten la elección colectiva vinculante, aplique [Emergencia y contingencia de las partes afectadas](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) y los requisitos titulares del Capítulo Doce; y
     - la implementación de gobernanza de capa titular aparece en el texto de implementación designado y no debe estrechar la [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint) ni la [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint).
 <a id="emergency-and-contingency-constitutional-c"></a>
@@ -1908,7 +1908,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 
 - Destino: Principios: [6. Resolución de conflictos de proceso](#6-process-conflict-resolution) (disciplina de autorización / emergencia); [Preámbulo §3.3](core_00_preamble.md#33-governance-layers) (Capa del Contrato Constitucional vs Participación Sistémica de las Partes Afectadas, donde la continuidad constitucional está en juego).
 - Componente de agrupación: [agrupación Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-semi-independent).
-- Leer con: [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer), [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice), [Gobernanza](core_05_band_accountability.md#governance), [Captura del sistema](core_05_band_continuity.md#system-capture), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional). Piso titular: [Artículo XXIII-D: Medidas de emergencia y carga de continuación](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
+- Leer con: [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer), [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice), [Gobernanza](core_05_band_accountability.md#governance), [Captura del sistema](core_05_band_continuity.md#system-capture), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional). Piso titular: [Artículo XXIV-D: Medidas de emergencia y carga de continuación](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden).
 
 </details>
 
@@ -1931,8 +1931,8 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - esté limitada en el tiempo;
     - esté documentada;
     - sea independientemente revisable;
-    - sea impugnable en los [relojes de restauración-impugnación del Artículo XXIII-D](../../core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks);
-    - sea reversible o restaurable donde sea viable bajo [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional) y el **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*); y
+    - sea impugnable en los [relojes de restauración-impugnación del Artículo XXIV-D](../../core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks);
+    - sea reversible o restaurable donde sea viable bajo [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional) y el **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*); y
     - enrute los cambios permanentes o duraderos a través de la vía ordinaria de autorización, adopción, enmienda o reautorización constitucional.
 <a id="constitutional-emergency-and-contingency-c"></a>
 - **Qué debe sostenerse**
@@ -1952,9 +1952,9 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [6. Resolución de conflictos de proceso](#6-process-conflict-resolution) ([Artículo XXIII](../../core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*)); [Preámbulo — Participación Sistémica de las Partes Afectadas](core_00_preamble.md#chapter-00-preamble--foundational-requirements) (emergencia dentro de la capa SSP).
+- Destino: Principios: [6. Resolución de conflictos de proceso](#6-process-conflict-resolution) ([Artículo XXIV](../../core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*)); [Preámbulo — Participación Sistémica de las Partes Afectadas](core_00_preamble.md#chapter-00-preamble--foundational-requirements) (emergencia dentro de la capa SSP).
 - Componente de agrupación: [agrupación Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-semi-independent).
-- Leer con: [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Parte afectada](core_05_band_participation.md#stakeholder), [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight), [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), [Gobernanza](core_05_band_accountability.md#governance), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional). Piso titular: [Artículo XXIII-D: Medidas de emergencia y carga de continuación](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden).
+- Leer con: [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Parte afectada](core_05_band_participation.md#stakeholder), [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight), [Estatus y peso de las partes afectadas](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), [Gobernanza](core_05_band_accountability.md#governance), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional). Piso titular: [Artículo XXIV-D: Medidas de emergencia y carga de continuación](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden).
 
 </details>
 
@@ -1964,7 +1964,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
   - **En alcance:** Emergencia o contingencia dentro de la capa de **Participación Sistémica de las Partes Afectadas**, incluida:
     - la desviación temporal del procedimiento ordinario de participación, representación, deliberación, aviso, acceso, revisión, continuidad de servicio o resolución de decisión dentro de un sistema, una institución o un dominio de decisión acotado ya autorizado;
     - el procedimiento de sistema de las partes afectadas acelerado o temporalmente modificado para impedir un daño material inminente; y
-    - la preservación del aviso a las partes afectadas, la impugnación, la restauración y la participación proporcionada en los [relojes de restauración-impugnación del Artículo XXIII-D](../../core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks).
+    - la preservación del aviso a las partes afectadas, la impugnación, la restauración y la participación proporcionada en los [relojes de restauración-impugnación del Artículo XXIV-D](../../core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks).
   - **Fuera de alcance:**
     - el [Peso de las partes afectadas](core_05_band_participation.md#stakeholder-weight) o la participación ordinarios fuera de un predicado de emergencia; o
     - [Emergencia y contingencia constitucionales](core_05_band_continuity.md#constitutional-emergency-and-contingency) —
@@ -1977,8 +1977,8 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - permanezca dentro de una estructura de gobernanza ya autorizada;
     - identifique a las partes afectadas donde sea viable;
     - registre la participación o el acceso diferidos;
-    - restaure o reabra las vías de participación de las partes afectadas en los [relojes de restauración-impugnación del Artículo XXIII-D](../../core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks); y
-    - donde el desacuerdo material exija una decisión vinculante antes de que pueda ocurrir la deliberación ordinaria, aplique [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) junto con [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster) y el [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+    - restaure o reabra las vías de participación de las partes afectadas en los [relojes de restauración-impugnación del Artículo XXIV-D](../../core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks); y
+    - donde el desacuerdo material exija una decisión vinculante antes de que pueda ocurrir la deliberación ordinaria, aplique [Acción previa a la deliberación en emergencia (elección colectiva vinculante)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) junto con [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster) y el [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** Lo siguiente es incumplidor:
@@ -2000,7 +2000,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 - Destino: Principios: [6. Resolución de conflictos de proceso](#6-process-conflict-resolution); [10.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) (**Necesidad** / **Proporcionalidad** para el momento previo a la deliberación).
 - Componente de agrupación: [agrupación Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-semi-independent).
 - Miembro de agrupación: [Emergencia y contingencia](core_05_band_continuity.md#emergency-and-contingency-constitutional), especialmente [Emergencia y contingencia de las partes afectadas](core_05_band_continuity.md#stakeholder-emergency-and-contingency).
-- Leer con: [Emergencia y contingencia constitucionales](core_05_band_continuity.md#constitutional-emergency-and-contingency) donde está implicada la autorización de la autoridad de gobierno, [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer), [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice); [Artículo XXIII-D: Medidas de emergencia y carga de continuación](../../core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden); [Proporcionalidad](core_05_band_accountability.md#proportionality); [Necesidad](core_05_band_accountability.md#necessity); [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional).
+- Leer con: [Emergencia y contingencia constitucionales](core_05_band_continuity.md#constitutional-emergency-and-contingency) donde está implicada la autorización de la autoridad de gobierno, [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer), [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice); [Artículo XXIV-D: Medidas de emergencia y carga de continuación](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden); [Proporcionalidad](core_05_band_accountability.md#proportionality); [Necesidad](core_05_band_accountability.md#necessity); [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional).
 
 
 </details>
@@ -2023,7 +2023,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - esté documentada;
     - sea independientemente revisable;
     - sea reversible o restaurable donde sea viable;
-    - preserve los deberes posteriores de deliberación, aviso, impugnación, restauración de participación y registro exigidos por [Emergencia y contingencia de las partes afectadas](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), el **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*) y el [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice); y
+    - preserve los deberes posteriores de deliberación, aviso, impugnación, restauración de participación y registro exigidos por [Emergencia y contingencia de las partes afectadas](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster), el **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*) y el [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice); y
     - donde los mismos hechos toquen la [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer), aplique también [Emergencia y contingencia constitucionales](core_05_band_continuity.md#constitutional-emergency-and-contingency).
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
 - **Qué debe sostenerse**
@@ -2032,7 +2032,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - poder previo a la deliberación sostenido o inadecuadamente revisado;
     - acción de emergencia usada para eludir la [Elección constitucional fundacional](core_05_band_integrative.md#foundational-constitutional-choice) o la [Capa del Contrato Constitucional](core_05_band_integrative.md#constitutional-contract-layer); o
     - acción previa a la deliberación ofrecida como autorización final de las partes afectadas sin la vía exigida de restauración, revisión y reapertura.
-  - Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Piso titular: [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2046,7 +2046,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 
 - **Invocación conjunta:** donde el mapeo de dependencias, la transparencia de flujos de recursos o la extracción transistémica sea material.
 - **Ámbito:** donde se cumpla la invocación conjunta, la dependencia compartida y la adecuación del flujo de retorno — el hogar de Continuidad para cuánto dependen los sencientes y los sistemas unos de otros, y qué deben devolver los sistemas que extraen valor de fundamentos compartidos.
-- **Piso titular:** implementa el [Artículo IV](../../core_06_rights_part_a.md#article-iv-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiamiento del ecosistema*) — típicamente el [Artículo IV-A](../../core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*Mapeo de dependencias y transparencia de flujos de recursos*) leído con el [Artículo IV-B](../../core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Equidad transistémica y sostenibilidad*).
+- **Piso titular:** implementa el [Artículo IV](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiamiento del ecosistema*) — típicamente el [Artículo IV-A](../../core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Mapeo de dependencias y transparencia de flujos de recursos*) leído con el [Artículo IV-B](../../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Equidad transistémica y sostenibilidad*).
 - **Límite de agrupación:** [Certificación de alineación del sistema, Registro de certificación del sistema, Registro de clasificación del sistema y Registro de tipos de datos del sistema](core_05_band_continuity.md#system-alignment-certification-semi-independent) permanece fuera de esta agrupación — es la puerta del Capítulo Siete que puede *comprobar* estos deberes cuando la dependencia de infraestructura compartida está en alcance, no un miembro del par del Artículo IV.
 
 **Miembros del grupo de temas.** Este grupo comprende:
@@ -2134,9 +2134,9 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Piso titular: [Artículo IV-B](../../core_06_rights_part_a.md#article-iv-b-cross-system-fairness-and-sustainability) (*Equidad transistémica y sostenibilidad*). Enrutamiento de implementación: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Administración responsable de la asignación de recursos y del financiamiento*); [Capítulo Siete — Certificación de alineación del sistema](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) [§6](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) donde la dependencia de infraestructura compartida esté materialmente en cuestión.
+- Piso titular: [Artículo IV-B](../../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Equidad transistémica y sostenibilidad*). Enrutamiento de implementación: **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Administración responsable de la asignación de recursos y del financiamiento*); [Capítulo Siete — Certificación de alineación del sistema](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) [§6](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-contribution-evaluation) donde la dependencia de infraestructura compartida esté materialmente en cuestión.
 - Puerta de administración (no operativa): Declaración vinculante del siguiente paso: [Declaración operativa de administración (Artículo IV-B)](../../core_06_rights_part_a.md#operative-steward-statement-cross-system-contribution). Los punteros de apoyo no pueden estrecharla.
-- Destino: [Artículo IV-A](../../core_06_rights_part_a.md#article-iv-a-dependency-mapping-and-resource-flow-transparency) (*mapas de sistemas dependientes y registros de flujo de recursos usados para evaluar la adecuación*); [Preámbulo §2 *Panorama de mediciones*](core_00_preamble.md#2-the-measurements) (*orientación de medición constitucional*); familia de medición Continuidad (*medición de dependencia y de flujos de recursos*).
+- Destino: [Artículo IV-A](../../core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*mapas de sistemas dependientes y registros de flujo de recursos usados para evaluar la adecuación*); [Preámbulo §2 *Panorama de mediciones*](core_00_preamble.md#2-measurements-overview) (*orientación de medición constitucional*); familia de medición Continuidad (*medición de dependencia y de flujos de recursos*).
 - Componente de agrupación: [Dependencia y apoyo transistémico](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
 - Leer con: [Dependencia](core_05_band_continuity.md#dependency), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Huella ecológica](core_05_band_continuity.md#ecological-footprint), [Sostenibilidad](core_05_band_continuity.md#sustainability), [Capacidad de los sistemas compartidos](core_05_band_continuity.md#shared-system-capacity-constitutional), [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) y [Umbral de concentración de mercado](core_05_band_accountability.md#market-concentration-threshold-constitutional).
 
@@ -2390,7 +2390,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) (la participación, la supervisión, la rendición de cuentas y la actuación a tiempo deben seguir siendo reales frente a la captura); escalamiento por [enjuego material](core_00_preamble.md#material-stake); [§10.2 Segregación de deberes](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties); [§11 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) (en especial [§11.1 Requisito de alineación](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) y [§11.3 Detección de desalineación](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)); [Artículo XI-E](../../core_06_rights_part_b.md#article-xi-e-non-capture-safeguards) (*Salvaguardas de no captura*); [Artículo XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Interpretación constitucional, revisión y salvaguardas anticaptura*).
+- Destino: Principios: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) (la participación, la supervisión, la rendición de cuentas y la actuación a tiempo deben seguir siendo reales frente a la captura); escalamiento por [enjuego material](core_00_preamble.md#material-stake); [§10.2 Segregación de deberes](core_01_c_stewardship_capacity_principles.md#102-segregation-of-duties); [§11 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture) (en especial [§11.1 Requisito de alineación](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) y [§11.3 Detección de desalineación](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)); [Artículo XII-E](../../core_06_rights_part_b.md#article-xii-e-non-capture-safeguards) (*Salvaguardas de no captura*); [Artículo XXIII](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Interpretación constitucional, revisión y salvaguardas anticaptura*).
 - Componente de agrupación: [Efectos sistémicos y captura](core_05_band_continuity.md#systemic-effects-and-capture-semi-independent).
 - Leer con: [Captura del sistema](core_05_band_continuity.md#system-capture), [Diligencia de previsibilidad](core_05_band_oversight.md#foreseeability-diligence), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment), [Impugnabilidad](core_05_band_accountability.md#contestability), [Auditabilidad](core_05_band_oversight.md#auditability), [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance) y [Captura de vías de resolución](core_05_band_accountability.md#capture-of-resolution-pathways).
 
@@ -2411,7 +2411,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - mantener vías plurales y estructuralmente independientes de detección y revisión ([§11.3 Detección de desalineación](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection));
     - divulgar las rutas de control beneficioso y de influencia en una forma compatible con la [Auditabilidad](core_05_band_oversight.md#auditability);
     - impedir que la [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment) deje que las recompensas compren al árbitro; y
-    - mantener reales la impugnación y la revisión independiente, incluidos los pisos de cuerpo interpretativo del [Artículo XXII](../../core_06_rights_part_c.md#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Interpretación constitucional, revisión y salvaguardas anticaptura*).
+    - mantener reales la impugnación y la revisión independiente, incluidos los pisos de cuerpo interpretativo del [Artículo XXIII](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (*Interpretación constitucional, revisión y salvaguardas anticaptura*).
   - **Fuera de alcance:**
     - detectar o etiquetar la captura que ya se ha instalado — eso es [Captura del sistema](core_05_band_continuity.md#system-capture);
     - la corrección a posteriori una vez verificada la captura — eso es el [§11.4 Corrección de desalineación y respuesta a la captura](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response) y el [Deber de revisión y corrección](core_05_band_continuity.md#review-and-correction-duty-constitutional);
@@ -2607,7 +2607,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
   - **Fuera de alcance:**
     - tratado, pacto o carta bajo el Capítulo Doce que funda o autoriza una comunidad política (sentido de instrumento del Capítulo Doce, no Carta del Capítulo Cinco);
     - copia de mercadeo ordinaria o eslóganes de misión no ofrecidos como el instrumento de alcance publicado; o
-    - los deberes operativos de secuencia de decisión, modelo de ponderación o registro de colisión de derechos de [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster) mismos — esos viven en las reglas publicadas de gobernanza / participación a las que la Carta apunta, bajo el [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+    - los deberes operativos de secuencia de decisión, modelo de ponderación o registro de colisión de derechos de [Elección vinculante de las partes afectadas](core_05_band_participation.md#binding-stakeholder-choice-cluster) mismos — esos viven en las reglas publicadas de gobernanza / participación a las que la Carta apunta, bajo el [Capítulo Doce §4.3](../../core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 <a id="charter-a"></a>
 - **Cómo medir y evaluar**
   - **Medida primaria:** [Familia de medición Continuidad](core_05_apex_continuity_aim.md#continuity-measurement-family) — *¿Pueden perdurar los sencientes y los sistemas — de forma ecológica, fiable y a través de la falla?*
@@ -2639,7 +2639,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 
 - Destino: Principios: [8.1.1 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality) (índice de riesgo elevado: **Encierro sistémico**, **Reversibilidad**, **Dependencia**); [§9.4 Aspiración de apertura](core_01_c_stewardship_capacity_principles.md#94-openness-aspiration) (aspiración antiecierro leída con artefactos de interoperabilidad / salida).
 - Componente de agrupación: [la agrupación dependiente *Arquitectura de gobernanza, supervisión, dependencia, descentralización, concentración, estructura de mercado e integridad de la vía de salida*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
-- Leer con: [Dependencia](core_05_band_continuity.md#dependency), [Impacto material](core_05_band_oversight.md#material-impact), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability) y el [Artículo XIX](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) donde el texto de implementación incorporado asigna deberes de integridad de salida.
+- Leer con: [Dependencia](core_05_band_continuity.md#dependency), [Impacto material](core_05_band_oversight.md#material-impact), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Impugnabilidad](core_05_band_accountability.md#contestability) y el [Artículo XX](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity) (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) donde el texto de implementación incorporado asigna deberes de integridad de salida.
 
 </details>
 
@@ -2668,7 +2668,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - aplique los requisitos de Carga de justificación y de Restricción a cualquier limitación justificada.
   - **Medida secundaria:** [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Consentimiento](core_05_band_participation.md#consent-constitutional) e [Impugnabilidad](core_05_band_accountability.md#contestability) — co-medidas que muestran si el impedimento se ha vuelto material.
 
-    **Evaluación secundaria:** Al evaluar el rastro primario, aplique el [Artículo XIX](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) donde el texto de implementación incorporado asigna deberes de integridad de salida.
+    **Evaluación secundaria:** Al evaluar el rastro primario, aplique el [Artículo XX](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity) (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) donde el texto de implementación incorporado asigna deberes de integridad de salida.
 <a id="systemic-lock-in-c"></a>
 - **Qué debe sostenerse**
   - **Falla primaria:** crear o mantener encierro según se define arriba.
@@ -2709,7 +2709,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [4. Restricciones no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (pila de **Seguridad** leída con el acceso del piso de supervivencia).
-- Piso titular: [Artículo III-C](../../core_06_rights_part_a.md#article-iii-c-bodily-maintenance-and-healthcare-access) (*Acceso de mantenimiento corporal y atención de salud*); leer con la no intrusión del **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*) y el piso de intervención involuntaria del **Artículo VII-C** (*Piso de crisis de salud mental e intervención involuntaria*).
+- Piso titular: [Artículo III-C](../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Acceso de mantenimiento corporal y atención de salud*); leer con la no intrusión del **Artículo VII-A** (*Autopropiedad del cuerpo y de la mente*) y el piso de intervención involuntaria del **Artículo VII-C** (*Piso de crisis de salud mental e intervención involuntaria*).
 - Componente de agrupación: [Acceso de mantenimiento corporal, Continuidad de ocupación, Precondiciones ambientales, Continuidad cultural y Piso antidesplazamiento](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) donde el acceso al cuidado esté materialmente atado a la continuidad del piso de supervivencia, la continuidad de ocupación, los entornos esenciales de operación o las precondiciones ambientales. (Condiciones seguras y Descanso ahora en la agrupación Piso laboral y económico de la sección 3.5.)
 
 </details>
@@ -2766,8 +2766,8 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (continuidad de supervivencia / refugio); [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (**Artículo XIX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) lectura conjunta anotada en la línea **O**); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por **Dependencia**).
-- Piso titular: [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*) viñeta *Protección contra el desalojo arbitrario y no mercantilización del entorno esencial*. Referencias cruzadas: [Artículo XIX](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) interoperabilidad / portabilidad / integridad de salida (distinto pero leído en conjunto), [Artículo XXVI-D](../../core_06_rights_part_d.md#article-xxvi-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*) administración responsable transitoria.
+- Destino: Principios: [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (continuidad de supervivencia / refugio); [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (**Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) lectura conjunta anotada en la línea **O**); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por **Dependencia**).
+- Piso titular: [Artículo III-A](../../core_06_rights_part_a.md#article-iii-a-survival) (*Supervivencia*) viñeta *Protección contra el desalojo arbitrario y no mercantilización del entorno esencial*. Referencias cruzadas: [Artículo XX](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity) (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) interoperabilidad / portabilidad / integridad de salida (distinto pero leído en conjunto), [Artículo XXVII-D](../../core_06_rights_part_d.md#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*) administración responsable transitoria.
 - Componente de agrupación: [Acceso de mantenimiento corporal, Continuidad de ocupación, Precondiciones ambientales, Continuidad cultural y Piso antidesplazamiento](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (ahora consolidado con Condiciones seguras y Descanso/Ocio y descanso en la agrupación Piso laboral y económico de la sección 3.5).
 - Leer con: [No mercantilización del entorno esencial](core_05_band_continuity.md#essential-environment-non-commodification-constitutional), [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Dependencia](core_05_band_continuity.md#dependency) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -2814,7 +2814,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
   - **Falla primaria:** desalojo, desplazamiento o cese de una relación de refugio esencial o de entorno de operación sin una razón concreta y específica del caso, aviso significativo y una oportunidad real de impugnación.
   - **Falla secundaria:**
     - cesar la ocupación en contra de [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); o
-    - tratar esta entrada como anulada por la mecánica del [Artículo XIX](../../core_06_rights_part_c.md#article-xix-interoperability-portability-and-exit-integrity) (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) sin resolver la colisión bajo el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+    - tratar esta entrada como anulada por la mecánica del [Artículo XX](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity) (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) sin resolver la colisión bajo el [Capítulo Uno §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 
 ---
 
@@ -2827,7 +2827,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 
 - **Invocación conjunta:** donde la continuidad indígena o comunitaria y las protecciones de lengua, cultura o patrimonio sean materialmente interdependientes.
 - **Ámbito:** donde se cumpla la invocación conjunta, las protecciones de continuidad comunitaria y cultural, aplicadas de forma agnóstica al sustrato bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
-- **Piso titular:** implementa el [Artículo V-B](../../core_06_rights_part_b.md#article-v-b-nondiscrimination) (*No discriminación*) y las protecciones de continuidad comunitaria del [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*).
+- **Piso titular:** implementa el [Artículo V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*No discriminación*) y las protecciones de continuidad comunitaria del [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*).
 
 **Miembros del grupo de temas.** Este grupo comprende:
 - [Continuidad indígena](core_05_band_continuity.md#indigenous-continuity-constitutional) — un piso anclado en la comunidad y funcional por capacidad para la lengua, la práctica cultural, la práctica de gobernanza y la transmisión de conocimiento en comunidades con conexión territorial o ecosistémica duradera;
@@ -2846,7 +2846,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (continuidad comunitaria / efectos acumulativos).
-- Pisos titulares: [Artículo V-B](../../core_06_rights_part_b.md#article-v-b-nondiscrimination) (*no discriminación y protección de lengua / cultura / patrimonio*) y [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*precondición de integridad territorial / ecosistémica*). Punteros de interacción: [Artículo XIX-D](../../core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*refugio / no apatridia*); [Capítulo Dieciséis](../../core_17_incorporation.md) (*disciplina de jurisdicción de quien adopta y no regresión del Capítulo Trece*).
+- Pisos titulares: [Artículo V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*no discriminación y protección de lengua / cultura / patrimonio*) y [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*precondición de integridad territorial / ecosistémica*). Punteros de interacción: [Artículo XX-D](../../core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*refugio / no apatridia*); [Capítulo Dieciséis](../../core_17_incorporation.md) (*disciplina de jurisdicción de quien adopta y no regresión del Capítulo Trece*).
 - Componente de agrupación: [Acceso de mantenimiento corporal, Continuidad de ocupación, Precondiciones ambientales, Continuidad cultural y Piso antidesplazamiento](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) donde la continuidad comunitaria esté materialmente atada al lugar, al ecosistema, a la continuidad de ocupación, al acceso de mantenimiento corporal o a la capacidad de participación. (Condiciones seguras y Descanso ahora en la agrupación Piso laboral y económico de la sección 3.5.)
 - Componente de agrupación: [la agrupación dependiente *Continuidad indígena, Lengua cultura y patrimonio, Trayectoria de los sistemas naturales y Responsabilidad intergeneracional*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) (*invocación conjunta a través de continuidad indígena, lengua / cultura / patrimonio, trayectoria de los sistemas naturales y responsabilidad intergeneracional*).
 - Leer con: [Lengua, cultura y patrimonio](core_05_band_continuity.md#language-culture-and-heritage-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Responsabilidad intergeneracional](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing), [Integridad ecológica](core_05_band_continuity.md#ecological-integrity-constitutional), [Precondiciones ambientales](core_05_band_continuity.md#environmental-preconditions-constitutional), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality).
@@ -2863,7 +2863,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - transmisión de conocimiento, incluido el conocimiento tradicional, ecológico y técnico de custodia comunitaria.
 
     El piso es:
-    - anclado en la comunidad — distinto de, pero complementario a, las protecciones de nivel individual del [Artículo V-B](../../core_06_rights_part_b.md#article-v-b-nondiscrimination) (*No discriminación*) y de [Lengua, cultura y patrimonio](core_05_band_continuity.md#language-culture-and-heritage-constitutional);
+    - anclado en la comunidad — distinto de, pero complementario a, las protecciones de nivel individual del [Artículo V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*No discriminación*) y de [Lengua, cultura y patrimonio](core_05_band_continuity.md#language-culture-and-heritage-constitutional);
     - agnóstico al sustrato bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); y
     - funcional por capacidad — se dispara por la implicación material de la continuidad comunitaria, no por una etiqueta de categoría.
 
@@ -2910,7 +2910,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§5.1 Disciplina de limitación](core_01_a_values_principles.md#51-limitation-discipline) (pruebas de limitaciones de no discriminación).
-- Piso titular: [Artículo V-B](../../core_06_rights_part_b.md#article-v-b-nondiscrimination) (*No discriminación*).
+- Piso titular: [Artículo V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*No discriminación*).
 - Componente de agrupación: [Acceso de mantenimiento corporal, Continuidad de ocupación, Precondiciones ambientales, Continuidad cultural y Piso antidesplazamiento](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) donde la continuidad de lengua, cultura o patrimonio esté materialmente atada al lugar, al ecosistema, a la continuidad de ocupación, al acceso de mantenimiento corporal o a la capacidad de participación. (Condiciones seguras y Descanso ahora en la agrupación Piso laboral y económico de la sección 3.5.)
 - Componente de agrupación: [la agrupación dependiente *Continuidad indígena, Lengua cultura y patrimonio, Trayectoria de los sistemas naturales y Responsabilidad intergeneracional*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent).
 - Leer con: [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Responsabilidad intergeneracional](core_05_band_continuity.md#intergenerational-responsibility-constitutional), [Continuidad indígena](core_05_band_continuity.md#indigenous-continuity-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
@@ -2958,7 +2958,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     La protección de nivel individual de esta entrada se lee junto con ese piso de nivel comunitario, sin que ninguno estreche al otro.
 <a id="language-culture-and-heritage-constitutional-c"></a>
 - **Qué debe sostenerse**
-  - **Falla primaria:** cargas, exclusiones o daños basados en lengua, cultura o patrimonio que fallan las pruebas de Necesidad y Proporcionalidad del [Artículo V-B](../../core_06_rights_part_b.md#article-v-b-nondiscrimination) (*No discriminación*), con independencia del encuadre;
+  - **Falla primaria:** cargas, exclusiones o daños basados en lengua, cultura o patrimonio que fallan las pruebas de Necesidad y Proporcionalidad del [Artículo V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*No discriminación*), con independencia del encuadre;
   - **Falla secundaria:** estrechar las protecciones de minorías lingüísticas o comunidades de patrimonio bajo encuadres de costo de accesibilidad, carga de traducción o escala operativa sin satisfacer esas pruebas;
   - **Falla terciaria:** exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) donde las modalidades de comunicación o de práctica cultural funcionen como equivalentes de lengua o de cultura.
 
@@ -3004,8 +3004,8 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - **Compensación justa**;
     - **Condiciones seguras**; y
     - **Ocio y descanso**; y
-  - disciplinas del **Artículo VIII-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) donde esos deberes sean materialmente interdependientes.
-- **Antielusión:** un asunto dentro del ámbito de admisión no debe segmentarse en ninguno de los siguientes de un modo que satisfaga un componente mientras derrota deberes materialmente interdependientes bajo el **Artículo III-D** y el **Artículo VIII-D**:
+  - disciplinas del **Artículo IX-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) donde esos deberes sean materialmente interdependientes.
+- **Antielusión:** un asunto dentro del ámbito de admisión no debe segmentarse en ninguno de los siguientes de un modo que satisfaga un componente mientras derrota deberes materialmente interdependientes bajo el **Artículo III-D** y el **Artículo IX-D**:
   - compensación;
   - organización;
   - seguridad;
@@ -3041,7 +3041,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [3. Objetivo fundacional: bienestar](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [§6.3 Minimización de la carga evitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (carga del piso laboral frente a eficiencia falsa).
-- Piso titular: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Piso laboral y económico*). Enrutamiento de implementación: [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Obligaciones institucionales ligadas a la clasificación*) / **CI-10** (*Ingresos públicos, tasas, cargos recurrentes e integridad de facturación*) / **CI-11** (*Administración responsable de recursos e integridad de incentivos*).
+- Piso titular: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*). Enrutamiento de implementación: [**CI-9**](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Obligaciones institucionales ligadas a la clasificación*) / **CI-10** (*Ingresos públicos, tasas, cargos recurrentes e integridad de facturación*) / **CI-11** (*Administración responsable de recursos e integridad de incentivos*).
 - Componente de agrupación: [Def.C1 *Piso laboral y económico*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Leer con: [Condiciones seguras](core_05_band_continuity.md#safe-conditions-constitutional), [Ocio y descanso](core_05_band_continuity.md#leisure-and-rest-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness-constitutional), [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional), [Uso de características protegidas como proxy e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dependencia](core_05_band_continuity.md#dependency) y [Unidad equivalente de vida (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) (donde la calibración cuantitativa del beneficio o la privación sea material).
 
@@ -3109,7 +3109,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (participación sustantiva y materialidad bajo evaluación de **accesibilidad**); [3. Restricciones no negociables: Seguridad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (pila de **Seguridad** leída con el papel de piso laboral de esta entrada).
-- Piso titular: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Piso laboral y económico*). Implementación de capa de sistemas: [Artículo XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*). Perfil operativo: perfiles de seguridad CS-5 de `corpus_systems.md` donde apliquen.
+- Piso titular: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*). Implementación de capa de sistemas: [Artículo XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*). Perfil operativo: perfiles de seguridad CS-5 de `corpus_systems.md` donde apliquen.
 - Componente de agrupación: [Def.C1 *Piso laboral y económico*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Leer con: [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Ocio y descanso](core_05_band_continuity.md#leisure-and-rest-constitutional), [Seguridad (restricción)](core_05_band_continuity.md#safety-constraint), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [Daño](core_05_band_accountability.md#harm), [Riesgo](core_05_band_continuity.md#risk), [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -3133,7 +3133,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 
     **Evaluación primaria:** Pruebe si la protección se sostiene en la práctica más que bajo condiciones ideales. Incluya:
     - si las medidas de seguridad funcionan bajo condiciones de operación degradadas, escaladas y explotadas;
-    - si las herramientas y los sistemas que median la actividad son fiables, leídos con el [Artículo XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*) donde la implementación de capa de sistemas sea material;
+    - si las herramientas y los sistemas que median la actividad son fiables, leídos con el [Artículo XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Línea de base de fiabilidad y confiabilidad*) donde la implementación de capa de sistemas sea material;
     - si las cargas de riesgo caen de forma desproporcionada sobre grupos definidos por [Características protegidas](core_05_band_participation.md#protected-characteristics-constitutional) o sus proxies materiales; y
     - si se usan encuadres contrarios a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) para estrechar los requisitos de seguridad para algunos sencientes.
 
@@ -3175,7 +3175,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [§6.3 Minimización de la carga evitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (preservación de la capacidad de participación frente a eficiencia falsa); [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Agencia significativa** en la pila de compensaciones); [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (escalamiento por **Materialidad** / **Dependencia**).
-- Piso titular: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Piso laboral y económico*).
+- Piso titular: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*).
 - Componente de agrupación: [Def.C1 *Piso laboral y económico*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Leer con: [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Condiciones seguras](core_05_band_continuity.md#safe-conditions-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Bienestar](core_05_band_continuity.md#wellbeing) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -3264,8 +3264,8 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     Pasar una de estas comprobaciones no omite la otra cuando ambas aplican.
 <a id="likeness-and-documentary-depiction-interface-c"></a>
 - **Qué debe sostenerse**
-  - La **semejanza** reconociblemente identificable (incluida la representación sintética presentada como auténtica) permanece sujeta al **Artículo VIII-A** (*Autopropiedad de la semejanza y la reputación*) (incluidos los defectos y la vía de **reporte fáctico**) a menos que aplique otra disposición constitucional.
-  - **Falla primaria:** tratar la semejanza o la representación documental reconociblemente identificable como fuera de las protecciones del **Artículo VIII-A** sin otra disposición constitucional que controle el uso.
+  - La **semejanza** reconociblemente identificable (incluida la representación sintética presentada como auténtica) permanece sujeta al **Artículo IX-A** (*Autopropiedad de la semejanza y la reputación*) (incluidos los defectos y la vía de **reporte fáctico**) a menos que aplique otra disposición constitucional.
+  - **Falla primaria:** tratar la semejanza o la representación documental reconociblemente identificable como fuera de las protecciones del **Artículo IX-A** sin otra disposición constitucional que controle el uso.
   - **Falla secundaria:** invocar la vía de **reporte fáctico** donde la representación es sintética, reconstruida o de otro modo no es lo que se presenta ser.
   - **Falla terciaria:** exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) — tratar la semejanza o la voz como desprotegida porque el senciente representado es sintético.
 
@@ -3280,7 +3280,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [§12.1 Capacidad productiva (bien instrumental)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§9.2 Comprensión distribuida](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (lectura conjunta de atribución / trazabilidad).
-- Piso titular: [Artículo VIII-D](../../core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*).
+- Piso titular: [Artículo IX-D](../../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*).
 - Componente de agrupación: [Def.C1 *Piso laboral y económico*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Leer con: [Uso de datos de entrenamiento](core_05_band_continuity.md#training-data-use-constitutional), [Piso antidesplazamiento](core_05_band_continuity.md#anti-displacement-floor-constitutional), [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Condiciones seguras](core_05_band_continuity.md#safe-conditions-constitutional), [Ocio y descanso](core_05_band_continuity.md#leisure-and-rest-constitutional), [Buena fe](core_05_band_accountability.md#good-faith), [Consentimiento](core_05_band_participation.md#consent-constitutional), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -3298,7 +3298,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 
     Agnóstico al sustrato bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion). La atribución es un interés de trazabilidad sustantiva desde el producto derivado de vuelta a la obra creadora de origen, no un formato específico; se permite atribución estructurada — directa, agregada o basada en inventario — donde sobreviva la función de trazabilidad sustantiva.
   - **Fuera de alcance:**
-    - material no producido por sencientes donde no aplican los deberes de atribución del **Artículo VIII-D**; o
+    - material no producido por sencientes donde no aplican los deberes de atribución del **Artículo IX-D**; o
     - agregados anónimos no rastreados hasta creadores específicos —
     esos quedan fuera de este interés de atribución.
 <a id="creative-work-attribution-constitutional-a"></a>
@@ -3321,7 +3321,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 
     **Evaluación secundaria:** Al evaluar el rastro primario:
     - aplique [Consentimiento](core_05_band_participation.md#consent-constitutional), [Buena fe](core_05_band_accountability.md#good-faith) y [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) donde la obra derivada oculte o falsee de dónde vino;
-    - lea de forma conjunta con [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional) bajo el [Artículo III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Piso laboral y económico*) — atribución sin compensación, o compensación sin atribución, no satisface el piso donde ambas se deben; y
+    - lea de forma conjunta con [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional) bajo el [Artículo III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*) — atribución sin compensación, o compensación sin atribución, no satisface el piso donde ambas se deben; y
     - lea con [Uso de datos de entrenamiento](core_05_band_continuity.md#training-data-use-constitutional) y el [Piso antidesplazamiento](core_05_band_continuity.md#anti-displacement-floor-constitutional) donde:
       - la misma obra se use como datos de entrenamiento; o
       - el despliegue desplace a la población creadora afectada.
@@ -3339,7 +3339,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - créditos agregados no trazables a la obra real.
   - **Falla terciaria:**
     - exclusión contraria a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion); o
-    - encuadre de régimen de propiedad intelectual especificado por quien adopta usado para estrechar este piso (**Artículo VIII-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) *No confusión*).
+    - encuadre de régimen de propiedad intelectual especificado por quien adopta usado para estrechar este piso (**Artículo IX-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) *No confusión*).
 
 ---
 
@@ -3349,20 +3349,20 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 ##### Uso de datos de entrenamiento
 
 - **Qué es**
-  - **En alcance:** Uso de obra producida por sencientes como datos de entrenamiento para sistemas generativos, analíticos o comparables, leído con el **[Artículo VIII-D](../../core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*)** y esta agrupación. El material cubierto incluye obra que es:
+  - **En alcance:** Uso de obra producida por sencientes como datos de entrenamiento para sistemas generativos, analíticos o comparables, leído con el **[Artículo IX-D](../../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*)** y esta agrupación. El material cubierto incluye obra que es:
     - creativa o expresiva;
     - personal;
     - experiencial;
     - de otro modo identificable al senciente que la produjo; o
     - agrupada o agregada a partir de tal obra.
 
-    Porque los sencientes son dueños de sus propios datos bajo el **[Artículo VIII-B](../../core_06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) (*Derechos sobre datos experienciales y derivados*)**, los siguientes deberes aplican de forma conjunta — incluso cuando la obra se agrupe o se agregue con datos de otros sencientes:
+    Porque los sencientes son dueños de sus propios datos bajo el **[Artículo IX-B](../../core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Derechos sobre datos experienciales y derivados*)**, los siguientes deberes aplican de forma conjunta — incluso cuando la obra se agrupe o se agregue con datos de otros sencientes:
     - [Consentimiento](core_05_band_participation.md#consent-constitutional);
-    - disciplina de datos experienciales bajo el **Artículo VIII-B**;
+    - disciplina de datos experienciales bajo el **Artículo IX-B**;
     - [Privacidad (informacional)](core_05_band_continuity.md#privacy-informational); y
     - [Atribución de obra creativa](core_05_band_continuity.md#creative-work-attribution-constitutional).
   - **Fuera de alcance:**
-    - material no producido por sencientes donde no aplican los deberes de consentimiento y atribución del **Artículo VIII-D**; o
+    - material no producido por sencientes donde no aplican los deberes de consentimiento y atribución del **Artículo IX-D**; o
     - agregados operativos ordinarios que no se rastrean hasta sencientes específicos — por ejemplo:
       - totales anónimos de tráfico; y
       - totales anónimos de ventas —
@@ -3379,7 +3379,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - reidentificación del senciente productor.
   - **Medida secundaria:** co-medidas que aplican de forma conjunta al uso de datos de entrenamiento:
     - [Consentimiento](core_05_band_participation.md#consent-constitutional);
-    - **[Artículo VIII-B](../../core_06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) (*Derechos sobre datos experienciales y derivados*)**;
+    - **[Artículo IX-B](../../core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Derechos sobre datos experienciales y derivados*)**;
     - [Privacidad (informacional)](core_05_band_continuity.md#privacy-informational); y
     - [Atribución de obra creativa](core_05_band_continuity.md#creative-work-attribution-constitutional).
 
@@ -3391,11 +3391,11 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
     - etiquetas de licencia; o
     - etiquetas de procesamiento agregado —
 
-    donde aplique de forma material la invocación conjunta del **Artículo VIII-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*).
+    donde aplique de forma material la invocación conjunta del **Artículo IX-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*).
   - **Falla secundaria:**
     - pretender que la obra identificable producida por sencientes puede usarse solo porque está etiquetada como «no datos personales»;
     - obra producida por sencientes recortada del alcance solo porque se ha agrupado o agregado, etiquetado como desidentificada, o llamada datos no personales; y
-    - el retiro del consentimiento tratado como no disponible una vez que la obra ha sido ingerida, donde aplican los deberes del **Artículo VIII-B** (*Derechos sobre datos experienciales y derivados*).
+    - el retiro del consentimiento tratado como no disponible una vez que la obra ha sido ingerida, donde aplican los deberes del **Artículo IX-B** (*Derechos sobre datos experienciales y derivados*).
   - **Falla terciaria:** tratar la obra producida por sencientes como usable sin consentimiento ni atribución solo porque su productor es sintético ([No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion)).
 
 ---
@@ -3409,7 +3409,7 @@ Esta banda sostiene definiciones bajo la [finalidad constitucional Continuidad](
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: Principios: [§12.1 Capacidad productiva (bien instrumental)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good); [§13.1 Mecanismo de umbral de concentración de mercado](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable) (desplazamiento a escala de población leído con la pila del §6).
-- Pisos titulares: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Piso laboral y económico*) (laboral y económico, transversal) y [Artículo VIII-D](../../core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) (aplicación a obra creativa).
+- Pisos titulares: [Artículo III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*) (laboral y económico, transversal) y [Artículo IX-D](../../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) (aplicación a obra creativa).
 - Componente de agrupación: [Def.C1 *Piso laboral y económico*](core_05_band_continuity.md#labor-and-economic-floor-cluster).
 - Leer con: [Compensación justa](core_05_band_continuity.md#fair-compensation-constitutional), [Organización colectiva](core_05_band_participation.md#collective-organization-constitutional), [Condiciones seguras](core_05_band_continuity.md#safe-conditions-constitutional), [Ocio y descanso](core_05_band_continuity.md#leisure-and-rest-constitutional), [Atribución de obra creativa](core_05_band_continuity.md#creative-work-attribution-constitutional), [Uso de datos de entrenamiento](core_05_band_continuity.md#training-data-use-constitutional), [Capacidad productiva](core_05_band_continuity.md#productive-capacity-constitutional), [Carga evitable](core_05_band_continuity.md#avoidable-burden), [Divergencia de proxy](core_05_band_oversight.md#proxy-divergence) y [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -3611,7 +3611,7 @@ Véase **Invocación conjunta y satisfacción**.
 
 - Destino: Principios: [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§9.2 Comprensión distribuida](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding).
 - Componente de agrupación: [Administración responsable, disciplina de gobernanza y capacidad de los sistemas compartidos](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Leer con: [Agencia educativa](core_05_band_participation.md#educational-agency), [Transparencia](core_05_band_oversight.md#transparency), [Accesibilidad](core_05_band_participation.md#accessibility-constitutional), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Dependencia](core_05_band_continuity.md#dependency) y [Artículo XX](../../core_06_rights_part_c.md#article-xx-right-to-understand-and-contest) (*Comprensibilidad y administración responsable de la complejidad*).
+- Leer con: [Agencia educativa](core_05_band_participation.md#educational-agency), [Transparencia](core_05_band_oversight.md#transparency), [Accesibilidad](core_05_band_participation.md#accessibility-constitutional), [Determinación de materialidad](core_05_band_oversight.md#materiality-determination), [Dependencia](core_05_band_continuity.md#dependency) y [Artículo XXI](../../core_06_rights_part_c.md#article-xxi-right-to-understand-and-contest) (*Comprensibilidad y administración responsable de la complejidad*).
 
 </details>
 
@@ -3874,7 +3874,7 @@ Véase **Invocación conjunta y satisfacción**.
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Destino: familia de medición Participación (*Privacidad y administración responsable de datos como medición constitucional*); Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [4. Restricciones no negociables: Seguridad y Verdad](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth), [§6.2.3 Privacidad y autodeterminación informacional](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination), y artículos de distribución de privacidad del Capítulo Seis donde el manejo informacional afecte la agencia, la dignidad, la seguridad o la verdad.
-- Destino: [Artículo VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*autopropiedad del cuerpo y de la mente*); [Artículo VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*límite de estado interno y protección Tipo N*); [Artículo VIII](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*semejanza, datos experienciales y derechos de publicación*); [Artículo IX-A](../../core_06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*agencia y libertad frente a la manipulación*); [Artículo XIII-A](../../core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*límites de seguridad, inteligencia y poder encubierto*).
+- Destino: [Artículo VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*autopropiedad del cuerpo y de la mente*); [Artículo VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*límite de estado interno y protección Tipo N*); [Artículo IX](../../core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*semejanza, datos experienciales y derechos de publicación*); [Artículo X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*agencia y libertad frente a la manipulación*); [Artículo XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*límites de seguridad, inteligencia y poder encubierto*).
 - Leer con: Aplique [Consentimiento](core_05_band_participation.md#consent-constitutional), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Agencia significativa](core_05_band_participation.md#meaningful-agency), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Límite de estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), [Límite de vigilancia](core_05_band_continuity.md#surveillance-boundary) y **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo** donde esté implicado el Tipo N o un manejo comparable.
 
 - Marco constitucional: banda **Continuidad**; finalidad **Florecimiento** (primaria); escala con el [enjuego material](core_00_preamble.md#material-stake) vía [Determinación de materialidad](core_05_band_oversight.md#materiality-determination).
@@ -3897,11 +3897,11 @@ Véase **Invocación conjunta y satisfacción**.
 - [Privacidad (informacional)](core_05_band_continuity.md#privacy-informational) — protección de ciclo de vida de información personal, relacional, experiencial, de semejanza, de metadatos, adyacente al estado interno y comparable;
 - [Límite de estado interno protegido](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) — protección de estados internos cognitivos, emocionales, motivacionales, de memoria, de preferencia, de identidad y volitivos frente a extracción no autorizada, divulgación compelida, inferencia o elusión;
 - [Límite de vigilancia](core_05_band_continuity.md#surveillance-boundary) — la línea entre la observación o el registro permisibles y la vigilancia que menoscaba la agencia, la privacidad o el acceso al Piso de Derechos;
-- [Artículo VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) (*Autopropiedad del cuerpo y de la mente*);
-- [Artículo VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) (*Límite de estado interno y protección Tipo N*);
-- [Artículo VIII](../../core_06_rights_part_b.md#article-viii-likeness-experiential-data-and-publication-rights) (*Semejanza, datos experienciales y derechos de publicación*);
-- [Artículo IX-A](../../core_06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agencia y libertad frente a la manipulación*);
-- [Artículo XIII-A](../../core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
+- [Artículo VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Autopropiedad del cuerpo y de la mente*);
+- [Artículo VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Límite de estado interno y protección Tipo N*);
+- [Artículo IX](../../core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*Semejanza, datos experienciales y derechos de publicación*);
+- [Artículo X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agencia y libertad frente a la manipulación*);
+- [Artículo XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Límites de seguridad, inteligencia y poder encubierto*).
 
 *Mediciones (enrutamiento de familia):* Se miden bajo la familia de medición Continuidad. Encuentre las medidas concretas en las definiciones miembro de abajo.
 

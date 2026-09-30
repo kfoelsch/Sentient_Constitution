@@ -41,13 +41,13 @@ If a clinic, hospital, care home, or other body that actually runs the systems i
 - **Today:** After a certain age, or after a diagnosis, your say is treated as already gone. Someone suggests that once daily things are harder, consent is a formality.
 - **With this Constitution:** How much you may do yourself follows what you can actually show, including when that showing changes. “For your own good” still does not, by itself, pass the tests a limit must meet.
 
-See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
 
 **Help with one hard thing is not a key to every decision.**
 - **Today:** Once they help with the bills, they keep the cards, the lease, who you may see, and which clinician. Nobody sets a time to check whether you can take those decisions back.
 - **With this Constitution:** If someone has to decide a thing you cannot currently carry, that step has to be only that thing, the smallest needed, time-limited, and looked at again. It cannot become a standing substitute for your say.
 
-See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Chapter One §6.1.5](../../../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §6.1.5](../../../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 **Wishes and palliative routing have an owner.**
 - **Today:** Whoever is in the room holds the file. An advance wish is treated as outdated because it is inconvenient.
@@ -59,7 +59,7 @@ See: [CI-17](../../../corpus_institutions/ci_17_end_of_life_continuity_memorial_
 - **Today:** The “help” starts to decide money, housing, who you see, which clinician, whether you stay in the relationship you have. The “safe” placement is a durable break from the care relationship you actually have.
 - **With this Constitution:** A lasting split from someone you depend on — who you live with, who you see, who cares for you — cannot be the default “help.” It is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again. A short distance with a real way back, or a split you freely choose, is different.
 
-See: [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
+See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
 
 **Process still has to be usable.**
 - **Today:** Hearings and portals assume the energy and speed you used to have, then treat a missed form as consent.
@@ -77,7 +77,7 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 
 - **“If I refuse help, they’ll say that proves I lack capacity.”** Refusal of a conditioned offer is not, by itself, a verified incapacity finding. That is the same pattern [E01](E01_pregnant_reproducing.md) names in a different scene.
 
-- **“I’m not ‘developing.’ Don’t use the child article on me.”** You do not have to be classed as a child to use this page. This brief is for someone facing age-related challenges, or any change in remembering, stamina, or keeping up with decisions. It does not change the Rights Floor that applies to you. Birthday and diagnosis are not stand-ins for what you can actually do. You still hold [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) self-ownership. The rules this brief uses — what you can actually do, not a birthday — are located in the section on [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+- **“I’m not ‘developing.’ Don’t use the child article on me.”** You do not have to be classed as a child to use this page. This brief is for someone facing age-related challenges, or any change in remembering, stamina, or keeping up with decisions. It does not change the Rights Floor that applies to you. Birthday and diagnosis are not stand-ins for what you can actually do. You still hold [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) self-ownership. The rules this brief uses — what you can actually do, not a birthday — are located in the section on [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
 
 ## What this will not pretend to give you
 
@@ -88,6 +88,6 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E05](E05_disability.md) if the closed door is access rather than help taking over decisions; [E14](E14_mental_health.md) if the takeover is a mental-health diagnosis rather than age; [E02](E02_single_parent.md) if you are the unpaid carer of a child; [E18](E18_caregiver_of_adult.md) if you are the unpaid carer of an adult
 - Operators only (not an answer key): lived packet [`../../../evaluation/lived_situations/packets/S05_declining_capacity_takeover.md`](../../../evaluation/lived_situations/packets/S05_declining_capacity_takeover.md)

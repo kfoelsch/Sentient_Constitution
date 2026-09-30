@@ -37,7 +37,7 @@
   - **Kapsamda:**
     - sistemlerin nasıl davrandığını izlemek, kontrol etmek, doğrulamak ve sınırlamak; [etkilenen taraflar](../../core_05_band_participation.md#stakeholder), bağımsız aktörler ya da kurumlar tarafından yapılır ve bunun uygulanabilir olduğu yerde yayılır;
     - amaç: uyumsuzluğu saptamak ve düzeltmek, ve bilgilenmiş [Yönetişim](../../core_05_band_accountability.md#governance)i desteklemek;
-    - gözetim, **Madde XV** (*Denetim, şeffaflık ve bağımsız doğrulama*) altında [Denetlenebilirlik](../../core_05_band_oversight.md#auditability) ve ilgili denetim araçlarını ister;
+    - gözetim, **Madde XVI** (*Denetim, şeffaflık ve bağımsız doğrulama*) altında [Denetlenebilirlik](../../core_05_band_oversight.md#auditability) ve ilgili denetim araçlarını ister;
     - ne kadar gözetim gerektiği [Maddi etki](../../core_05_band_oversight.md#material-impact), [Bağımlılık](../../core_05_band_continuity.md#dependency) ve [Risk](../../core_05_band_continuity.md#risk) ile ölçeklenir; ve
     - [Sistem hizalama belgelendirmesi](../../core_05_band_continuity.md#system-alignment-certification-constitutional) o gereksinim altında özellikle büyük, yüksek paylı bir denetim sürecidir — tek denetim süreci değil.
   - **Bağlıdır:** bu bacağın işlemesi için gereken koşullar ve kanallar. Her terimin ayrıntılı kapsamı ve nasıl-ölçüleceği kuralları kendi tanımında yaşar; [Dörtlü bacağı ayrıştırması](#oversight-tetrad-leg-decomposition)ndan başlayın:

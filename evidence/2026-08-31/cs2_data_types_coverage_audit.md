@@ -105,7 +105,7 @@ Priority table. Full cites and notes are in the CSV.
 |---|---|---|---|---|
 | [Privacy (Informational)](../../core_05_band_continuity.md#privacy-informational) | Personal information | **I; H** | Inferred | I if it identifies a sentient |
 | Privacy (Informational) | Relational information | **H** | Example-covered | Type H relational/association patterns |
-| Privacy (Informational) | Experiential information | **H; N** | Inferred | N when it reconstructs inner states ([Article VIII-B](../../core_06-06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) Explicit N) |
+| Privacy (Informational) | Experiential information | **H; N** | Inferred | N when it reconstructs inner states ([Article VIII-B](../../core_06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) Explicit N) |
 | Privacy (Informational) | Behavioral information | **H; N** | Inferred | Same reconstruction rule |
 | Privacy (Informational) | Likeness | **I** | Inferred | Identity-bearing depiction |
 | Privacy (Informational) | Metadata | **H** | Example-covered | Type H communication/interaction metadata |
@@ -148,11 +148,11 @@ Priority table. Full cites and notes are in the CSV.
 
 | Home | Data kind | Type(s) | Status |
 |---|---|---|---|
-| [Article VII-B](../../core_06-06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) | Outputs that functionally approximate internal states | **N** | Explicit |
-| [Article VIII-A](../../core_06-06_rights_part_b.md#article-viii-a-self-ownership-of-likeness-and-reputation) | Recognizably identifiable likeness, voice, reputation-bearing depictions | **I** | Inferred (article points at CS-2 generally) |
-| [Article VIII-B](../../core_06-06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) | A sentient's own experiential and interaction-derived data | **H; N** | Inferred for the experience object; Explicit N for reconstructing another sentient's inner states |
-| [Article VIII-D](../../core_06-06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) | Creative work used as training data | **H; I** | Inferred |
-| [Article I-B](../../core_06-06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) | Ecological-footprint disclosure data | **E; O** | Example-covered |
+| [Article VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection) | Outputs that functionally approximate internal states | **N** | Explicit |
+| [Article VIII-A](../../core_06_rights_part_b.md#article-viii-a-self-ownership-of-likeness-and-reputation) | Recognizably identifiable likeness, voice, reputation-bearing depictions | **I** | Inferred (article points at CS-2 generally) |
+| [Article VIII-B](../../core_06_rights_part_b.md#article-viii-b-experiential-and-derived-data-rights) | A sentient's own experiential and interaction-derived data | **H; N** | Inferred for the experience object; Explicit N for reconstructing another sentient's inner states |
+| [Article VIII-D](../../core_06_rights_part_b.md#article-viii-d-creative-work-training-data-use-and-anti-displacement) | Creative work used as training data | **H; I** | Inferred |
+| [Article I-B](../../core_06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) | Ecological-footprint disclosure data | **E; O** | Example-covered |
 
 ### CS-2 Part B examples
 

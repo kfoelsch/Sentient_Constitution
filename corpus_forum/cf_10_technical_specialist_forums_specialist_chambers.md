@@ -177,7 +177,7 @@ Where a technical specialist forum acting within lawful adopted scope has publis
 Non-recognition must identify whether the forum is adopting an interim local rule, certifying the issue for reconsideration, or invoking another recognized shared standard. Silent non-recognition is non-compliant where this subsection applies.
 
 A repeated, unexplained refusal to recognize materially applicable shared standards may be treated as evidence of capture, evasion, or forum shopping. Where the verified facts satisfy the relevant standards, that pattern may support:
-- escalation under [**CI-8**](../corpus_institutions/ci_08_transparency_participation_accessible_pathways.md) (*Cross-institution coordination and escalation*);
+- escalation under [**CI-12**](../corpus_institutions/ci_12_cross_institution_coordination_escalation.md) (*Cross-institution coordination and escalation*);
 - external assurance;
 - potential **Chapter Eleven** anti-constitutional misconduct routing;
 - cross-jurisdiction enforcement continuity rules.

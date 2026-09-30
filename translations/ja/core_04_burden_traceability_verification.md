@@ -53,7 +53,7 @@
 | **4 — 安全限度** | 本物の安全保障の限度は許される；口実の遮断は許されない | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — 何が数えるか** | 証拠は本物で、完全で、独立し、持続していなければならない | [§5](#5-compliance-evidence-standard) |
 
-**平たい言葉のアクセス。** [第一章 §3.4 — 平たい言葉のアクセス可能性（参加と責務ある管理の義務）](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)は、感知者が権利を行使し、決定に異議を申し立て、または遵守を検証するために用いる統治、裁定、運用の材料に適用される。平たい言葉は、第二から第四章が求めるものを**変えず**、減らさない。平たい言葉の版が、ここでの定義または検証の規則と食い違うなら、それらの規則が統治する。専門用語、積み重ねた複雑さ、または不透明さを用いて[争訟可能性](../../core_05_band_accountability.md#contestability)または[Article XV：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification)へのアクセスを遮断することは、本章および**第一章 §3.4**のもとで不遵守である。
+**平たい言葉のアクセス。** [第一章 §3.4 — 平たい言葉のアクセス可能性（参加と責務ある管理の義務）](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty)は、感知者が権利を行使し、決定に異議を申し立て、または遵守を検証するために用いる統治、裁定、運用の材料に適用される。平たい言葉は、第二から第四章が求めるものを**変えず**、減らさない。平たい言葉の版が、ここでの定義または検証の規則と食い違うなら、それらの規則が統治する。専門用語、積み重ねた複雑さ、または不透明さを用いて[争訟可能性](../../core_05_band_accountability.md#contestability)または[Article XVI：監査、透明性、独立検証](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)へのアクセスを遮断することは、本章および**第一章 §3.4**のもとで不遵守である。
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. 定義の追跡可能性要件
@@ -128,7 +128,7 @@
 
 - 上流：原則：[第四章、第 3 節 — 追跡可能性の観測可能性要件](#3-observability-of-traceability-requirement)；[第一章、第 8.2 節 — 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)。
 - 下流：[第四章、第 5 節 — 遵守証拠の標準](#5-compliance-evidence-standard)；[corpus_systems.md](../../corpus_systems.md)、**CS-2 — 情報の種類と取扱い**、および **CS-5** — 運用暗号、資格情報、および情報の種類の取扱い。
-- あわせて読む：[第五章のクラスター定義（予見可能性の勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 合理的に予見可能な条件のもとで検証を予測可能に妨げる設計の選択は、述べられた安全保障の根拠にかかわらず不遵守である；[第五章 真理（憲法上の制約）](../../core_05_band_oversight.md#truth-constitutional-constraint)および[第五章 安全（制約）](../../core_05_band_continuity.md#safety-constraint) — 暗号および情報の種類の取扱いは、**第 2** 節、**第 3** 節、または**第 5** 節を置き換えてはならない；環境分離の制約が実質的なところでは **Articles VII-A**、**VII-B**、**XV-A**、および **XVI-A**。
+- あわせて読む：[第五章のクラスター定義（予見可能性の勤勉）](../../core_05_band_oversight.md#foreseeability-diligence) — 合理的に予見可能な条件のもとで検証を予測可能に妨げる設計の選択は、述べられた安全保障の根拠にかかわらず不遵守である；[第五章 真理（憲法上の制約）](../../core_05_band_oversight.md#truth-constitutional-constraint)および[第五章 安全（制約）](../../core_05_band_continuity.md#safety-constraint) — 暗号および情報の種類の取扱いは、**第 2** 節、**第 3** 節、または**第 5** 節を置き換えてはならない；環境分離の制約が実質的なところでは **Articles VII-A**、**VII-B**、**XVI-A**、および **XVII-A**。
 
 </details>
 
@@ -196,7 +196,7 @@
 
 - 上流：[第二章 — 定義の構造と構成要素の要件](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)；[第三章 — 定義の誠実性、回避、不遵守](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)；[第四章、第 1 節から第 5 節](#1-exclusive-enforcement-and-burden-allocation)。
 - 下流：[第七章 — システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
-- あわせて読む：[第七章 §16 — 再開、不整合、回避防止](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — 第二から第四章のもとでの検証済み不遵守は、以前の承認にかかわらず、認証を再開し、または打ち負かすことができる。
+- あわせて読む：[第七章 §16 — 再開、不整合、回避防止](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — 第二から第四章のもとでの検証済み不遵守は、以前の承認にかかわらず、認証を再開し、または打ち負かすことができる。
 
 </details>
 

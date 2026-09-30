@@ -54,7 +54,7 @@ Bu bölüm **Anayasal Sözleşme Katmanı**nı belirtir: yönetme yetkisinin ken
 *Yalın dille: bu bölüm yönetme gücü için anayasal sözleşmeyi belirtir — kural koymanın meşru sayılması ve sorumlu yönetimin anayasal sayılması için neyin doğru olması gerekir. Asgari taban burada yaşar; işletim ayrıntısının çoğu uygulama katmanlarında yaşar.*
 
 - Anayasal gerekleri koyar, tam işletim ayrıntısını değil.
-- Katılım, usul güvencesi ve bağlayıcı-benimseme kapıları Altıncı Bölümde demirli kalır (özellikle **Madde XI-A** (*Etkilenen Tarafların Sistem Katılımı ve temsili*)).
+- Katılım, usul güvencesi ve bağlayıcı-benimseme kapıları Altıncı Bölümde demirli kalır (özellikle **Madde XII-A** (*Etkilenen Tarafların Sistem Katılımı ve temsili*)).
 - **Sekizinci Bölüm** altında **genel** güzergâh ölçümü (Katkı Ekseni ve İhlal Ekseni — katkı **durumu**, ihlal niteliği ve her sayısal etki yuvası) **Sekizinci Bölüm**de demirli kalır. Nitelikli **İhlal Ekseni s = 7, 8 ya da 9** bulguları için **son anayasa karşıtı-kötü-davranış ataması** **Onuncu Bölüm**de demirli kalır; Onuncu Bölüm sayısal yuvayı atamaz ya da taşımaz.
 - Ayrıntılı usul, kadro, oylama uygulaması ve yürütme protokolleri belirlenmiş uygulama katmanlarınındır.
 
@@ -65,7 +65,7 @@ Bu bölüm **Anayasal Sözleşme Katmanı**nı belirtir: yönetme yetkisinin ken
 
 - Yukarı: İlkeler: [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 Sorumlu yönetim ve dağıtılmış anlayış](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Süreç çatışması çözümü](#6-process-conflict-resolution); [On İkinci Bölüm §0](#0-layer-boundary-for-this-chapter).
 - Alt kesitler: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Düzenek aileleri, denetlenebilirlik ve çoğulculuk*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Elverişlilik, yarışmalı seçim ve demokratik asgariler*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Geri çağırma sınıfı adlandırılmış yollar ve dönem-içi devir korkulukları*).
-- Aşağı: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) altında bütünlük, strateji, oylama ve rol ödevleri; [On Beşinci Bölüm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) altında benimseme ve onaylama; Altıncı Bölümde meşruiyet, katılım ve itiraz edilebilirlik — özellikle [Madde XI-C: Meşruiyet kapısı ve simgesel katılım karşıtı](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Madde XVIII: Güzergâh ve katılım statüsü](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status) ve aşağıdaki işlemsel maddelerde anahtarlanan ifade, toplanma ve usul adilliği maddeleri.
+- Aşağı: [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale) altında bütünlük, strateji, oylama ve rol ödevleri; [On Beşinci Bölüm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) altında benimseme ve onaylama; Altıncı Bölümde meşruiyet, katılım ve itiraz edilebilirlik — özellikle [Madde XII-C: Meşruiyet kapısı ve simgesel katılım karşıtı](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation), [Madde XIX: Güzergâh ve katılım statüsü](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) ve aşağıdaki işlemsel maddelerde anahtarlanan ifade, toplanma ve usul adilliği maddeleri.
 - Birlikte oku: Bu kesitte adlandırılan belirlenmiş **corpus** ve **[corpus_systems.md](../../corpus_systems.md)** kancaları ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -90,7 +90,7 @@ Düzenek aileleri, yayımlama, denetlenebilirlik ve çoğulculuk **§1.1**de ele
 - belirlenmiş heyetler için **kura** ya da yurttaş piyangosu
 - yayımlanmış kurallar altında ağ üyeleri ya da üye organlarca **federatif onaylama**
 - kayda geçmiş rıza ile **antlaşma, pakt ya da berat** benimseme
-- **yüksek etkili** kararlar için **Madde XI-C** (*Meşruiyet kapısı ve simgesel katılım karşıtı*) meşruiyet kapılarını karşılayan melez ya da sıralı tasarımlar
+- **yüksek etkili** kararlar için **Madde XII-C** (*Meşruiyet kapısı ve simgesel katılım karşıtı*) meşruiyet kapılarını karşılayan melez ya da sıralı tasarımlar
 
 **Kura bütünlüğü ve ele geçirme karşıtı kullanım**
 
@@ -116,7 +116,7 @@ Düzenek aileleri, yayımlama, denetlenebilirlik ve çoğulculuk **§1.1**de ele
     - manipülasyon;
     - ele geçirme; ya da
     - usul çarpıtması.
-- **Meşruiyet aklama yok:** Bir yurttaş piyangosu, yurttaş meclisi ya da rastgele seçilmiş heyet, ilgili bir yetkinin anlamlı müzakereyi, itiraz edilebilirliği ya da **Madde XI-C** (*Meşruiyet kapısı ve simgesel katılım karşıtı*) katılım kapılarını bozacak biçimde şunları denetlediği kararlar için meşruiyet tiyatrosu olarak kullanılmamalıdır:
+- **Meşruiyet aklama yok:** Bir yurttaş piyangosu, yurttaş meclisi ya da rastgele seçilmiş heyet, ilgili bir yetkinin anlamlı müzakereyi, itiraz edilebilirliği ya da **Madde XII-C** (*Meşruiyet kapısı ve simgesel katılım karşıtı*) katılım kapılarını bozacak biçimde şunları denetlediği kararlar için meşruiyet tiyatrosu olarak kullanılmamalıdır:
   - gündem;
   - kanıt kaydı;
   - kolaylaştırıcı denetimi;
@@ -142,9 +142,9 @@ Düzenek aileleri, yayımlama, denetlenebilirlik ve çoğulculuk **§1.1**de ele
 **İtiraz, düzeltme ve çoğulculuk**
 
 - **Başarısızlık ve düzeltme:** Yetkilendirme itiraz edildiğinde, maddeten yanlış hizalandığında ya da ele geçirildiğinde sistemler **itiraz edilebilir adlandırılmış yollar** sağlamalıdır. Adlandırılmış yollar şunları içerir:
-  - **Madde XI-C** (*Meşruiyet kapısı ve simgesel katılım karşıtı*);
-  - **Madde XII-B** (*İtiraz, inceleme ve giderim hakkı*);
-  - **Madde XXIII-A** (*Adalet amacı ve kapsamı*); ve
+  - **Madde XII-C** (*Meşruiyet kapısı ve simgesel katılım karşıtı*);
+  - **Madde XIII-B** (*İtiraz, inceleme ve giderim hakkı*);
+  - **Madde XXIV-A** (*Adalet amacı ve kapsamı*); ve
   - benimsenmiş uygulama metnindeki uygulanabilir usul-bütünlüğü korumaları.
   Elverdiğinde sistemler, gücün incelenemez sürekliliği yerine **barışçıl ardıllık ya da yeniden yetkilendirme** sağlamalıdır.
 - **Çoğulculuk:** Bu Anayasa tek bir küresel siyasal yapı **zorunlu kılmaz**. Sınırlar, **tahakküm-yokluğu** ve Altıncı Bölüm Hak Tabanları karşılandığı sürece federasyonlar boyunca birden çok düzenek bir arada yaşayabilir.
@@ -167,12 +167,12 @@ Düzenek aileleri, yayımlama, denetlenebilirlik ve çoğulculuk **§1.1**de ele
 - **Demokratik-kurum asgari denetimleri:** Yönetme yetkisini yetkilendirdiğini iddia eden herhangi bir meşruiyet düzeneği asgari olarak şunların tümünü sağlamalıdır:
 
     1. **Yarışmalı seçim** — alternatif adayların, önerilerin ya da konumların yetkilendiren toplulukça sunulup değerlendirilmesi için anlamlı fırsat.
-    2. **Muhalefet koruması** — muhalif algılayanların, önerilerin ve koalisyonların misilleme olmadan örgütlenmesi, iletişim kurması ve mevcut yetkiye itiraz etmesi için gerçek, salt biçimsel olmayan özgürlük; **Madde V-H** (*İfade, toplanma ve basın*), **Madde IX-A** (*Manipülasyondan özgürlük*) ve **Madde XIII-A** (*Korumalı faaliyet*) ile tutarlı.
+    2. **Muhalefet koruması** — muhalif algılayanların, önerilerin ve koalisyonların misilleme olmadan örgütlenmesi, iletişim kurması ve mevcut yetkiye itiraz etmesi için gerçek, salt biçimsel olmayan özgürlük; **Madde V-H** (*İfade, toplanma ve basın*), **Madde X-A** (*Manipülasyondan özgürlük*) ve **Madde XIV-A** (*Korumalı faaliyet*) ile tutarlı.
     3. **Barışçıl-ardıllık güvencesi** — düzeneğin kendi belirttiği koşullarda yetkinin devri ya da yeniden yetkilendirilmesi için tanımlanmış bir adlandırılmış yol; barışçıl-ardıllık adlandırılmış yolunun reddi ya da maddi bozulması yukarıdaki **Başarısızlık ve düzeltme** altında düzeneğin başarısızlığı sayılır.
 
     - Bu denetimler [**Temel anayasal seçim**](core_05_band_integrative.md#foundational-constitutional-choice)e (Beşinci Bölüm) ve düzeneğin kapsamındaki başka herhangi bir yetkilendirme eylemine uygulanır.
     - Denetimler **düzenek-yansız**dır: tek bir siyasal tür zorunlu kılmaz ve temsili, kura, federatif-onaylama, **antlaşma, pakt ya da berat** tasarımları ve melez tasarımlar boyunca uygulanır.
-    - Gizli bilgi-küresi bağımlılığı, **Madde XII-E** (*Yüksek-özerklik sistemleri ve araç-aracılı süreç bütünlüğü*) özerklik-sorumlu-yönetim ele geçirmesi ya da karşılaştırılabilir yapısal yollarla işlevsel dışlamayla eşlenen nominal muhalefet koruması hem bu denetim hem **Çoğulculuk** hükmü altında uyumsuzluktur.
+    - Gizli bilgi-küresi bağımlılığı, **Madde XIII-E** (*Yüksek-özerklik sistemleri ve araç-aracılı süreç bütünlüğü*) özerklik-sorumlu-yönetim ele geçirmesi ya da karşılaştırılabilir yapısal yollarla işlevsel dışlamayla eşlenen nominal muhalefet koruması hem bu denetim hem **Çoğulculuk** hükmü altında uyumsuzluktur.
 
 **Forum atama bağımsızlık tabanı**
 
@@ -208,9 +208,9 @@ Düzenek aileleri, yayımlama, denetlenebilirlik ve çoğulculuk **§1.1**de ele
   - barışçıl-ardıllık adlandırılmış yolunun reddi; ya da
   - **Altıncı Bölüm** ve benimsenmiş uygulama usulü yoluyla ele alınan **Hak Tabanı** tehdidi.
   O saate bağlanan yükselen kademeler, **Birinci Bölüm** ve **İkinci Bölümden Beşinci Bölüme** altında [**Maddi adillik**](../../core_05_band_participation.md#substantive-fairness-constitutional), [**Gereklilik**](../../core_05_band_accountability.md#necessity) ve [**Orantılılık**](../../core_05_band_accountability.md#proportionality)ı karşıladıklarında belirlenmiş uygulama metninde izinlidir.
-- **Usul adilliği:** Geri çağırma sınıfı usuller uygulanabilir **Altıncı Bölüm** gereklerini karşılamalıdır (**Madde XI** (*Etkilenen Tarafların Sistem Katılımı, temsili ve usul güvencesi*) ailesi, iç rol süreci uygulandığında **Madde XI-D** (*İç roller, hesap verebilirlik ve usul güvencesi gerekleri*) dahil). Altta yatan davranış için uygun yer **corpus_institutions.md** **CI-4** (*Atama, yetkinlik, rotasyon ve görevden alma*) ya da içerilmiş usul olduğunda bireyselleştirilmiş **nedene dayalı görevden alma** ya da disiplin kanallarının yerine geçmemelidir.
-- **Seri-kötüye-kullanım karşıtı ve istikrar:** Düzenekler **maddi etki** ve **[corpus_systems.md](../../corpus_systems.md)** sınıflamasına orantılı **soğuma** ya da **seri-karşıtı** kurallar içermelidir; böylece geri çağırma sınıfı araçlar yapılandırılmış taciz ya da kalıcı kampanya olarak yeniden konuşlandırılamaz; kötü niyet örüntüleri **Madde XII-B** (*İtiraz, inceleme ve giderim hakkı*) ve **Madde XXIII-A** (*Adalet amacı ve kapsamı*) altında itiraz edilebilir kalır.
-- **Yüksek etkili hizalama:** **Temel anayasal seçim** sonuçlarını ya da meşruiyet düzeneğinin kendisini değiştirecek geri çağırma sınıfı oylar, uygulanabilir olduğunda **Madde XI-C** (*Meşruiyet kapısı ve simgesel katılım karşıtı*) ve **§2** gereklerine tabi kalır.
+- **Usul adilliği:** Geri çağırma sınıfı usuller uygulanabilir **Altıncı Bölüm** gereklerini karşılamalıdır (**Madde XII** (*Etkilenen Tarafların Sistem Katılımı, temsili ve usul güvencesi*) ailesi, iç rol süreci uygulandığında **Madde XII-D** (*İç roller, hesap verebilirlik ve usul güvencesi gerekleri*) dahil). Altta yatan davranış için uygun yer **corpus_institutions.md** **CI-4** (*Atama, yetkinlik, rotasyon ve görevden alma*) ya da içerilmiş usul olduğunda bireyselleştirilmiş **nedene dayalı görevden alma** ya da disiplin kanallarının yerine geçmemelidir.
+- **Seri-kötüye-kullanım karşıtı ve istikrar:** Düzenekler **maddi etki** ve **[corpus_systems.md](../../corpus_systems.md)** sınıflamasına orantılı **soğuma** ya da **seri-karşıtı** kurallar içermelidir; böylece geri çağırma sınıfı araçlar yapılandırılmış taciz ya da kalıcı kampanya olarak yeniden konuşlandırılamaz; kötü niyet örüntüleri **Madde XIII-B** (*İtiraz, inceleme ve giderim hakkı*) ve **Madde XXIV-A** (*Adalet amacı ve kapsamı*) altında itiraz edilebilir kalır.
+- **Yüksek etkili hizalama:** **Temel anayasal seçim** sonuçlarını ya da meşruiyet düzeneğinin kendisini değiştirecek geri çağırma sınıfı oylar, uygulanabilir olduğunda **Madde XII-C** (*Meşruiyet kapısı ve simgesel katılım karşıtı*) ve **§2** gereklerine tabi kalır.
 
 <a id="2-ethical-culture-and-integrity-federated-scale"></a>
 ### 2. Etik kültür ve bütünlük (Federatif ölçek)
@@ -304,7 +304,7 @@ Vekil göstergeler (finansal ya da başka) yalnızca bu sonuçlara izlenebilir k
 
 - Yukarı: [§1](#1-authorization-and-legitimacy-of-governing-authority) belgelenmiş meşruiyet düzeneği; [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate) kolektif kararlar için sorumlu yönetim hizalaması.
 - Aşağı: Alt kesitler [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); bu kesitin sonundaki **Çapraz gönderim (On İkinci Bölüm)** notunda özetlenen [On Üçüncü Bölümden On Beşinci Bölüme](../../core_14_non_regression.md) benimseme, üstünlük ve gerilememe belgeler.
-- Birlikte oku: [Altıncı Bölüm](core_06_rights_part_a.md#chapter-six-foundational-rights), özellikle [Madde XI: Etkilenen Tarafların Sistem Katılımı, temsili ve usul güvencesi](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) ve §4te anılan ilgili alt maddeler.
+- Birlikte oku: [Altıncı Bölüm](core_06_rights_part_a.md#chapter-six-foundational-rights), özellikle [Madde XII: Etkilenen Tarafların Sistem Katılımı, temsili ve usul güvencesi](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) ve §4te anılan ilgili alt maddeler.
 
 </details>
 
@@ -320,8 +320,8 @@ Bir benimseyenin meşruiyet düzeneği kolektif oylama ya da benzer bağlayıcı
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§4](#4-voting-and-binding-collective-choice-protocols) kolektif-seçim çerçevesi; [§1](#1-authorization-and-legitimacy-of-governing-authority) bağlayıcı seçim usulleri için meşruiyet düzeneği.
-- Aşağı: [Madde IX-C: Yönetişim katılımı ve oy hakkı](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement), [Madde XVIII: Güzergâh ve katılım statüsü](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status)nde yönetişim katılımı ve güzergâh; [Beşinci Bölüm — Temel anayasal seçim](core_05_band_integrative.md#foundational-constitutional-choice) ve işlemsel metnin yönlendirdiği ilgili [Beşinci Bölüm](core_05__definitions_home.md#chapter-five-foundational-definitions) girdilerinde temel anayasal seçim ve etkilenen taraf makinesi; nitelikli **İhlal Ekseni s = 7, 8 ya da 9** bulguları için **son anayasa karşıtı-kötü-davranış ataması** ve bu alt kesitteki **anayasa karşıtı kötü davranış — iade önkoşulu** hükmüne bağlı usul güvencesi korumaları için **Onuncu Bölüm** (*Anayasa karşıtı kötü davranış*).
-- Birlikte oku: [§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice); yüksek etkili meşruiyet kapıları için [Madde XI-C: Meşruiyet kapısı ve simgesel katılım karşıtı](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation); nitelikli **İhlal Ekseni s = 7, 8 ya da 9** bulguları için son **anayasa karşıtı-kötü-davranış ataması** için [Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
+- Aşağı: [Madde X-C: Yönetişim katılımı ve oy hakkı](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement), [Madde XIX: Güzergâh ve katılım statüsü](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status)nde yönetişim katılımı ve güzergâh; [Beşinci Bölüm — Temel anayasal seçim](core_05_band_integrative.md#foundational-constitutional-choice) ve işlemsel metnin yönlendirdiği ilgili [Beşinci Bölüm](core_05__definitions_home.md#chapter-five-foundational-definitions) girdilerinde temel anayasal seçim ve etkilenen taraf makinesi; nitelikli **İhlal Ekseni s = 7, 8 ya da 9** bulguları için **son anayasa karşıtı-kötü-davranış ataması** ve bu alt kesitteki **anayasa karşıtı kötü davranış — iade önkoşulu** hükmüne bağlı usul güvencesi korumaları için **Onuncu Bölüm** (*Anayasa karşıtı kötü davranış*).
+- Birlikte oku: [§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice); yüksek etkili meşruiyet kapıları için [Madde XII-C: Meşruiyet kapısı ve simgesel katılım karşıtı](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation); nitelikli **İhlal Ekseni s = 7, 8 ya da 9** bulguları için son **anayasa karşıtı-kötü-davranış ataması** için [Onuncu Bölüm](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct).
 
 </details>
 
@@ -329,7 +329,7 @@ Bir benimseyenin meşruiyet düzeneği kolektif oylama ya da benzer bağlayıcı
 
 *Yalın dille: elverişli algılayanlar kurallar öyle dediğinde gerçek bir oy alır — ve büyük sorularda (kim yönetir ve nasıl) her ses eşit sayılır. Etkiye göre ağırlıklandırma zaten yetkilendirilmiş bir sistemin içindeki birçok karara uygulanabilir ama kurucu oyu sulandırmak için bir hile olarak değil. Takvim yaşı ve alttaş sınıfı o kurucu seçimleri ağırlıklandırmak için kullanılamaz. Bir güzergâh kilidi adlandırılmış bir yolda olağan oylamayı duraklatabilir ama güzergâh oyunları birini kalıcı olarak susturamaz; en ağır kötü davranış, iade gerçekten tamamlanana kadar kurucu sesi alıkoyabilir — belirsiz misilleme olarak değil.*
 
-**Algılayanlar**, yayımlanmış elverişlilik ölçütleri karşılandığında ve uygulanabilir hiçbir [güzergâh kilidi](core_09_standing_integration.md#42-general-standing-locks) **governance-voting** adlandırılmış yolunu engellemediğinde **yönetişim oylamasına** katılma hakkına sahiptir. Elverişlilik ölçütleri **Madde XVIII-A** (*Güzergâh ayrımı*) ve **Madde XVIII-C** (*Yol elverişliliği, sorumluluk ve sürekli denetim*) ile herhangi bir belirlenmiş içerilmiş ölçüt altında itiraz edilebilir kalır. Bu ölçütler anayasal sınırları daraltamaz.
+**Algılayanlar**, yayımlanmış elverişlilik ölçütleri karşılandığında ve uygulanabilir hiçbir [güzergâh kilidi](core_09_standing_integration.md#42-general-standing-locks) **governance-voting** adlandırılmış yolunu engellemediğinde **yönetişim oylamasına** katılma hakkına sahiptir. Elverişlilik ölçütleri **Madde XIX-A** (*Güzergâh ayrımı*) ve **Madde XIX-C** (*Yol elverişliliği, sorumluluk ve sürekli denetim*) ile herhangi bir belirlenmiş içerilmiş ölçüt altında itiraz edilebilir kalır. Bu ölçütler anayasal sınırları daraltamaz.
 
 Aynı hak karşılaştırılabilir meşruiyet-düzeneği **bağlayıcı kolektif seçim** usullerine uygulanır. Bu usuller benimseyenin **belgelenmiş meşruiyet düzeneği** (bu bölümün 1. kesiti) altında yürütülmelidir. O katılımın askıya alınması ya da sınırlanması, [Dokuzuncu Bölüm §5.1](core_09_standing_integration.md#51-definition-and-attachment) altında kaydedilmiş, **governance-voting** adlandırılmış yolu üzerinde uygulanabilir bir güzergâh kilidi ister.
 
@@ -337,7 +337,7 @@ Aynı hak karşılaştırılabilir meşruiyet-düzeneği **bağlayıcı kolektif
 
 **Yalnızca takvim yaşı ya da yaşam evresi** elverişliliği düşüremez. Yetkinlik, kapasite ya da rol-uygunluğu gerekleri **İkinci Bölümden Beşinci Bölüme** ([**Maddi adillik**](../../core_05_band_participation.md#substantive-fairness-constitutional), [**Orantılılık**](../../core_05_band_accountability.md#proportionality) ve [**Gereklilik**](../../core_05_band_accountability.md#necessity)) karşılamalı ve **gizlenmiş yaş ayrımcılığı** olarak işlememelidir. Bu katılımın askıya alınması ve restorasyonu aynı anayasal ve içerilmiş ölçütler altında **uygulanabilir güzergâh kilidinin iliştirilmesi ve kaldırılmasını izler**.
 
-Bu alt kesit **Altıncı Bölüm**, **Madde IX-C** (*Yönetişim katılımı ve oy hakkı*)nı işler.
+Bu alt kesit **Altıncı Bölüm**, **Madde X-C** (*Yönetişim katılımı ve oy hakkı*)nı işler.
 
 
 - **Temel anayasal seçim için siyasi-eşitlik tabanı:** **Temel anayasal seçim** (Beşinci Bölüm) kimin yönetme yetkisi tuttuğu, meşruiyet düzeneğinin ne olduğu ve o yetkinin kapsamı ile kalıcı koşulları hakkındaki kararları kapsar. Bu sorular bir **siyasi-eşitlik tabanı** tarafından yönetilir: katılmaya hakkı olan topluluk içinde her algılayan eşit katılım ağırlığına sahiptir.
@@ -347,9 +347,9 @@ Bu alt kesit **Altıncı Bölüm**, **Madde IX-C** (*Yönetişim katılımı ve 
     - takvim yaşı;
     - alttaş sınıfı; ve
     - soyağacı.
-  - Çapraz gönderim: **Altıncı Bölüm, **Madde IX-C** (*Yönetişim katılımı ve oy hakkı*)**.
+  - Çapraz gönderim: **Altıncı Bölüm, **Madde X-C** (*Yönetişim katılımı ve oy hakkı*)**.
 - **Kalıcı siyasi-ses tabanı (oy hakkından yoksun bırakma karşıtı):** **governance-voting** adlandırılmış yolu üzerindeki bir güzergâh kilidi olağan yönetişim-oylaması hakkını askıya alabilir. **Kalıcı-siyasi-ses** düşürme vektörü olarak kullanılmamalıdır.
-  - **Anayasa karşıtı kötü davranış — iade önkoşulu:** **Onuncu Bölüm** (*Anayasa karşıtı kötü davranış*) altında **İhlal Ekseni s = 7**, **s = 8** ya da **s = 9** bulgusu için **son atama**, **tam iade** karşılanana kadar — orantılı [**Giderim ve onarım**](../../core_05_band_accountability.md#redress-and-remediation-constitutional) (Beşinci Bölüm), suçtan maddi zarar için borçlu olunan yerde **iade** dahil, **On Birinci Bölüm** ve uygulanabilir içerilmiş usul altında nihai olarak belirlendiği üzere **tamamen ifa edilmiş**, **Onuncu Bölüm** usul güvencesi korumaları ve **Madde XXIII-A** (*Adalet amacı ve kapsamı*) ile tutarlı — **Temel anayasal seçim**e katılım dahil **kalıcı siyasi sesi** alıkoyar.
+  - **Anayasa karşıtı kötü davranış — iade önkoşulu:** **Onuncu Bölüm** (*Anayasa karşıtı kötü davranış*) altında **İhlal Ekseni s = 7**, **s = 8** ya da **s = 9** bulgusu için **son atama**, **tam iade** karşılanana kadar — orantılı [**Giderim ve onarım**](../../core_05_band_accountability.md#redress-and-remediation-constitutional) (Beşinci Bölüm), suçtan maddi zarar için borçlu olunan yerde **iade** dahil, **On Birinci Bölüm** ve uygulanabilir içerilmiş usul altında nihai olarak belirlendiği üzere **tamamen ifa edilmiş**, **Onuncu Bölüm** usul güvencesi korumaları ve **Madde XXIV-A** (*Adalet amacı ve kapsamı*) ile tutarlı — **Temel anayasal seçim**e katılım dahil **kalıcı siyasi sesi** alıkoyar.
   - **İyi niyetli acz, engelleme ve değerleme belirsizliği:** **Kalıcı siyasi sesin** alıkonması, **iyi niyetli restorasyon** belgelendiği ve **kısmi** karşılama sürdüğü yerde tek başına şunlardan herhangi birine dayanmamalıdır:
     - yoksulluk;
     - engellilik;
@@ -361,15 +361,15 @@ Bu alt kesit **Altıncı Bölüm**, **Madde IX-C** (*Yönetişim katılımı ve 
     - bahane olarak kullanılan yapılandırılmış imkânsızlık; ya da
     - **itiraz edilebilir** bir değerleme yönteminde anlaşmayı reddetme.
     **On Birinci Bölüm** ve uygulanabilir içerilmiş usul, **tam ifanın** hükümlü tarafın tek kontrolü dışındaki nedenlerle geciktiği yerde **incelenebilir bir kayıt** sağlamalıdır.
-  - **Kısmi ve koşullu restorasyon:** **İyi niyetli çaba**dan sonra **tam** ifa **imkânsız** olduğunda (örneğin bazı zararlar geri döndürülebilir biçimde telafi edilemez ya da hiçbir taraf gerekli karşı tarafları bulamaz), **On Birinci Bölüm** ve uygulanabilir içerilmiş usul, yapılabilir olan için [**Giderim ve onarım**](../../core_05_band_accountability.md#redress-and-remediation-constitutional)ı **maddeten karşılayan** **kısmi** ya da **koşullu** restorasyon kilometre taşları benimseyebilir; o kilometre taşları karşılandığında, **Onuncu Bölüm** korumaları ve **Madde XXIII-A** (*Adalet amacı ve kapsamı*) hâlâ **yapılabilir** ve **bahane olmayan** başka özgül ödevler istemedikçe **kalıcı siyasi ses** **restore edilmelidir**. Bu yollar **tamamen itiraz edilebilir** kalır; restorasyon hâlâ uygulanabilir olduğunda sahici restorasyonun yerine simgesel jestleri yetkilendir**mez**.
-  - **Ağır-kötü-davranış kuralının korunması:** Yukarıdaki **son** **İhlal Ekseni s = 7, 8 ya da 9** alıkoyma kuralı **tamamen işlemsel** kalır: hükümlü tarafça **kötü niyetli gecikme ya da kaçınma** erken restorasyonu **zorunlu kılmaz** ve **ağır** kötü davranış, karşılama hâlâ **yapılabilir** olduğunda **Onuncu Bölüm** ve **Madde XXIII-A** (*Adalet amacı ve kapsamı*) ile hizalı **gerçek** restorasyon ödevleri karşılanana kadar kurucu sesi **alıkoyabilir**.
+  - **Kısmi ve koşullu restorasyon:** **İyi niyetli çaba**dan sonra **tam** ifa **imkânsız** olduğunda (örneğin bazı zararlar geri döndürülebilir biçimde telafi edilemez ya da hiçbir taraf gerekli karşı tarafları bulamaz), **On Birinci Bölüm** ve uygulanabilir içerilmiş usul, yapılabilir olan için [**Giderim ve onarım**](../../core_05_band_accountability.md#redress-and-remediation-constitutional)ı **maddeten karşılayan** **kısmi** ya da **koşullu** restorasyon kilometre taşları benimseyebilir; o kilometre taşları karşılandığında, **Onuncu Bölüm** korumaları ve **Madde XXIV-A** (*Adalet amacı ve kapsamı*) hâlâ **yapılabilir** ve **bahane olmayan** başka özgül ödevler istemedikçe **kalıcı siyasi ses** **restore edilmelidir**. Bu yollar **tamamen itiraz edilebilir** kalır; restorasyon hâlâ uygulanabilir olduğunda sahici restorasyonun yerine simgesel jestleri yetkilendir**mez**.
+  - **Ağır-kötü-davranış kuralının korunması:** Yukarıdaki **son** **İhlal Ekseni s = 7, 8 ya da 9** alıkoyma kuralı **tamamen işlemsel** kalır: hükümlü tarafça **kötü niyetli gecikme ya da kaçınma** erken restorasyonu **zorunlu kılmaz** ve **ağır** kötü davranış, karşılama hâlâ **yapılabilir** olduğunda **Onuncu Bölüm** ve **Madde XXIV-A** (*Adalet amacı ve kapsamı*) ile hizalı **gerçek** restorasyon ödevleri karşılanana kadar kurucu sesi **alıkoyabilir**.
   - Bir güzergâh kilidi ya da iade alıkoyması temel anayasal seçime (yönetme yetkisinin yetkilendirilmesi ya da adlandırılmış yeniden yetkilendirme adlandırılmış yolları) katılımı kısıtlamak için çağrıldığında kısıt şunları karşılamalıdır:
     - (a) [**Usul adilliği**](../../core_05_band_participation.md#procedural-fairness-constitutional) altında bireyselleştirilmiş bir öncül;
     - (b) Birinci Bölüm altında [**Gereklilik**](../../core_05_band_accountability.md#necessity) ve [**Orantılılık**](../../core_05_band_accountability.md#proportionality);
     - (c) özgül kötü davranış kategorisine dar uyarlama; ve
-    - (d) salt biçimsel değil gerçek restorasyon adlandırılmış yolları, **Madde XVIII-C** (*Yol elverişliliği, sorumluluk ve sürekli denetim*) sürekli-denetim ve restorasyon-ya da-yeniden-nitelendirme disiplini ile tutarlı.
+    - (d) salt biçimsel değil gerçek restorasyon adlandırılmış yolları, **Madde XIX-C** (*Yol elverişliliği, sorumluluk ve sürekli denetim*) sürekli-denetim ve restorasyon-ya da-yeniden-nitelendirme disiplini ile tutarlı.
   - Düşürme kapsamına süpürülen geniş-kötü-davranış kategorileri ya da [**Korumalı özellikler**](../../core_05_band_participation.md#protected-characteristics-constitutional)i ya da onların maddi vekillerini izleyen kilit örüntüleri uyumsuzluktur.
-  - Çapraz gönderim: **Altıncı Bölüm, **Madde XVIII** (*Güzergâh ve katılım statüsü*)**; nitelikli **İhlal Ekseni s = 7, 8 ya da 9** bulguları için **son anayasa karşıtı-kötü-davranış ataması** ve **anayasa karşıtı kötü davranış — iade önkoşulu** hükmüne bağlı korumalar için **Onuncu Bölüm** (*Anayasa karşıtı kötü davranış*).
+  - Çapraz gönderim: **Altıncı Bölüm, **Madde XIX** (*Güzergâh ve katılım statüsü*)**; nitelikli **İhlal Ekseni s = 7, 8 ya da 9** bulguları için **son anayasa karşıtı-kötü-davranış ataması** ve **anayasa karşıtı kötü davranış — iade önkoşulu** hükmüne bağlı korumalar için **Onuncu Bölüm** (*Anayasa karşıtı kötü davranış*).
 
 <a id="42-records-gates-and-method-neutrality"></a>
 #### 4.2 Kayıtlar, kapılar ve yöntem yansızlığı
@@ -377,7 +377,7 @@ Bu alt kesit **Altıncı Bölüm**, **Madde IX-C** (*Yönetişim katılımı ve 
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§4.1](#41-entitlement-and-eligibility) elverişlilik, yönetişim-oylaması güzergâh kilitleri ve temel anayasal seçim için siyasi-eşitlik tabanları.
-- Aşağı: [§4.3](#43-decision-resolution-requirements-for-binding-collective-choice) müzakere ve hak-çarpışması sırası; [Madde XI-A: Etkilenen Tarafların Sistem Katılımı ve temsili](../../core_06_rights_part_b.md#article-xi-a-stakeholder-system-participation-and-representation) ve işlemsel metindeki ilgili **Madde XI** (*Etkilenen Tarafların Sistem Katılımı, temsili ve usul güvencesi*) alt maddelerine bağlanan bağlayıcı-etki ve meşruiyet kapıları.
+- Aşağı: [§4.3](#43-decision-resolution-requirements-for-binding-collective-choice) müzakere ve hak-çarpışması sırası; [Madde XII-A: Etkilenen Tarafların Sistem Katılımı ve temsili](../../core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) ve işlemsel metindeki ilgili **Madde XII** (*Etkilenen Tarafların Sistem Katılımı, temsili ve usul güvencesi*) alt maddelerine bağlanan bağlayıcı-etki ve meşruiyet kapıları.
 - Birlikte oku: Kolektif seçime bağlı muhalefet, kayıt bütünlüğü ve inceleme hakları için [Altıncı Bölüm](core_06_rights_part_a.md#chapter-six-foundational-rights).
 
 </details>
@@ -397,7 +397,7 @@ Bu alt kesit **Altıncı Bölüm**, **Madde IX-C** (*Yönetişim katılımı ve 
   - sayım; ve
   - zorlamaya direnç.
 - **Bağlayıcı-etki kapısı:** Maddeten yüksek etkili hiçbir kolektif seçim bağlayıcı değildir, şu karşılanmadıkça:
-  - **Madde XI-A** (*Etkilenen Tarafların Sistem Katılımı ve temsili*) meşruiyet kapıları karşılanır;
+  - **Madde XII-A** (*Etkilenen Tarafların Sistem Katılımı ve temsili*) meşruiyet kapıları karşılanır;
   - **muhalefet** ve **alternatif** kayıt ödevleri karşılanır; ve
   - **itiraz** adlandırılmış yolları karşılanır.
 - **Anlaşılabilirlikle yöntem yansızlığı:** Aşağıdaki yöntemlerin tümü çekirdek kısıtları karşıladığında anayasal olarak uyumludur:
@@ -418,7 +418,7 @@ Bu alt kesit **Altıncı Bölüm**, **Madde IX-C** (*Yönetişim katılımı ve 
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§4.1](#41-entitlement-and-eligibility)–[§4.2](#42-records-gates-and-method-neutrality) hak, kayıt ve meşruiyet-kapısı gerekleri.
-- Aşağı: [Madde XXIV-B: Hak-çarpışması usulü ve onarıcı hizalama](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) ve anılan [Birinci Bölüm §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) altında hak-çarpışması disiplini; Altıncı Bölümde itiraz ve yeniden açma adlandırılmış yolları.
+- Aşağı: [Madde XXV-B: Hak-çarpışması usulü ve onarıcı hizalama](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) ve anılan [Birinci Bölüm §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) altında hak-çarpışması disiplini; Altıncı Bölümde itiraz ve yeniden açma adlandırılmış yolları.
 - Birlikte oku: [Def.P2 Bağlayıcı etkilenen taraf seçimi](../../core_05_band_participation.md#binding-stakeholder-choice-cluster), [Bağlayıcı etkilenen taraf seçimi — Karar-çözüm gerekleri](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process), [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) ve [Etkilenen taraf hak-çarpışması kaydı (bağlayıcı etkilenen taraf seçimi)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) dahil; maddeten hak-etkileyen süreç tasarımı için [Altıncı Bölüm: Temel haklar](core_06_rights_part_a.md#chapter-six-foundational-rights) ve [Acil müzakere-öncesi eylem (bağlayıcı kolektif seçim)](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) ile de okuyun.
 
 </details>
@@ -431,16 +431,16 @@ Maddi anlaşmazlık zaten yetkilendirilmiş bir sistem, kurum ya da sınırlı k
 
 - **Yapılandırılmış sıra, önce yerel müzakere, çoğul değerlendirme, yeniden açma:** [Bağlayıcı etkilenen taraf seçimi — Karar-çözüm gerekleri](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process).
 - **Etkilenen taraf temsili ve ağırlık sınırları:** [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (ayrıca [§4.1](#41-entitlement-and-eligibility)den çapraz gönderilir).
-- **Etkilenen taraf hak-çarpışması disiplini:** [Etkilenen taraf hak-çarpışması kaydı (bağlayıcı etkilenen taraf seçimi)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — **Madde XXIV-B** (*Hak-çarpışması usulü ve onarıcı hizalama*) ve [Birinci Bölüm §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) ile okuyun.
+- **Etkilenen taraf hak-çarpışması disiplini:** [Etkilenen taraf hak-çarpışması kaydı (bağlayıcı etkilenen taraf seçimi)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — **Madde XXV-B** (*Hak-çarpışması usulü ve onarıcı hizalama*) ve [Birinci Bölüm §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) ile okuyun.
 - **Acil durum istisnası:** [Acil müzakere-öncesi eylem (bağlayıcı kolektif seçim)](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — şunlarla okuyun:
   - [Etkilenen taraf acil durumu ve olumsallık](../../core_05_band_continuity.md#stakeholder-emergency-and-contingency);
   - yönetme yetkisinin yetkilendirilmesi içerildiğinde [Anayasal acil durum ve olumsallık](../../core_05_band_continuity.md#constitutional-emergency-and-contingency);
   - [Acil durum ve olumsallık](../../core_05_band_continuity.md#emergency-and-contingency-constitutional); ve
-  - **Madde XXIII-D** (*Acil önlemler ve süreklilik yükü*).
+  - **Madde XXIV-D** (*Acil önlemler ve süreklilik yükü*).
 
 **Kapsam belgesi işaret kuralı.** Yöneten bir [Kapsam belgesi](../../core_05_band_continuity.md#charter) işletilen kapsamı belirtir ve Def.P2 giriş kapsamı uygulandığında bu kesiti karşılayan yayımlanmış süreç kurallarını **işaret etmelidir**. Kapsam belgesi karar sırasını, ağırlıklandırma modelini ya da hak-çarpışması kaydını taşımaz. Bu malzemelerin kurumsal yayımlanması **CI-8.1** / **CI-8.2** altında yaşar; Kapsam belgesi işareti **CI-3.6** alan 10 tarafından istenir.
 
-**Çapraz gönderim (kesit 4):** Alt kesitler **4.1–4.2** oylama gereklerini **Altıncı Bölüm**, **Madde IX-C** (*Yönetişim katılımı ve oy hakkı*) ile birlikte belirtir. Benimsenmiş yönetişim, sistem ve kurumsal uygulama metni, oylamanın **teknik** uygulamasının sınıflanmış sistemlere, veri işlemeye, sorumlu yönetici ödevlerine ya da belirlenmiş kurumsal usule dokunduğu yerde uygulanabilir kuralları sağlar.
+**Çapraz gönderim (kesit 4):** Alt kesitler **4.1–4.2** oylama gereklerini **Altıncı Bölüm**, **Madde X-C** (*Yönetişim katılımı ve oy hakkı*) ile birlikte belirtir. Benimsenmiş yönetişim, sistem ve kurumsal uygulama metni, oylamanın **teknik** uygulamasının sınıflanmış sistemlere, veri işlemeye, sorumlu yönetici ödevlerine ya da belirlenmiş kurumsal usule dokunduğu yerde uygulanabilir kuralları sağlar.
 
 **Çapraz gönderim (On İkinci Bölüm):** **Anayasal benimseme** ve değişiklik geçerliliği belgeleri **On Altıncı Bölüm**de görünür. **Dış hukuka göre üstünlük**, **daha sıkı dış korumalar** ve dış hükme bağlama organlarını içeren uyuşmazlıklar **On Dördüncü Bölüm**de görünür. **Gerilememe** maddi sınırları **On Üçüncü Bölüm**de görünür.
 
@@ -450,7 +450,7 @@ Maddi anlaşmazlık zaten yetkilendirilmiş bir sistem, kurum ya da sınırlı k
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Yukarı: [§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) yetkinin nasıl yetkilendirildiği, kaydedildiği ve kolektif seçimde kullanıldığı.
-- Aşağı: [Madde XI-D: İç roller, hesap verebilirlik ve usul güvencesi gerekleri](../../core_06_rights_part_b.md#article-xi-d-internal-roles-accountability-and-due-process-requirements)nde rol bütünlüğü ve usul güvencesi gerekleri; aşağıda anılan [corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md) ve [corpus_joint_structure.md](../../corpus_joint_structure.md)de **corpus** tasarım ve şerit kancaları.
+- Aşağı: [Madde XII-D: İç roller, hesap verebilirlik ve usul güvencesi gerekleri](../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements)nde rol bütünlüğü ve usul güvencesi gerekleri; aşağıda anılan [corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md) ve [corpus_joint_structure.md](../../corpus_joint_structure.md)de **corpus** tasarım ve şerit kancaları.
 - Birlikte oku: **[corpus_systems.md](../../corpus_systems.md)** (**CS-4 — Kritik sistem sorumlu yönetimi**, CS-9) ve işlemsel metinde anılan uygulama corpusunda **CI-4** / **CI-11** / **CI-12**; [Birinci Bölüm §9.1.1 Paylaşılan sorumlu yönetim standardı](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) (*alttaş-bağımsız ödevler; yoldaşlar günlükleme, atıf ve yetenek sınırları ekleyebilir — daha yumuşak bir iç kod değil*); [§9.1.2 Simetrik maliyetli kısıtlar](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
 
 </details>
@@ -474,7 +474,7 @@ Maddi sorumlu yönetim ve işletim, onu kâğıtta dağıtan **yapılardan** de�
 - **Sembolizm karşıtı kural:** Maddeten bağlayıcı kararlar için gerçek yetki ve yetkinlik gerektiğinde unvanlar ya da danışma forumları bu kesiti karşılamaz. Ayrıntılı rol taksonomisi, nitelik/ardıllık denetimleri, sorumlu yönetim-geliştirme adlandırılmış yol erişimi uygulaması ve teşvik-yönetişimi mekaniği [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Atama, yetkinlik, rotasyon ve görevden alma*), **CI-11** (*Kaynak sorumlu yönetimi ve teşvik bütünlüğü*) ve **CI-12** (*Şeffaflık, katılım ve erişilebilir adlandırılmış yollar*) tarafından yönetilir.
 - **Paylaşılan sorumlu yönetim standardı:** Bu kesit altındaki rol tanımları ve yetkinlik kuralları **Birinci Bölüm §9.1.1**deki [paylaşılan sorumlu yönetim standardı](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)nı ve [§9.1.2 Simetrik maliyetli kısıtlar](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints)ı uygular. Alttaşa özgü bir ödev yığını yaratmamalı ve insan işleticileri YZ sorumlu yöneticilerini bağlayan maliyetli durumlardan muaf tutmamalıdır. Doğrulanmış başarısızlıklar aynı Sekizinci Bölüm eksenlerinde kaydedilir; [Dokuzuncu Bölüm §5.4 Direnme ödevi](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) her ikisini bağlar.
 
-**Çapraz gönderim (kesit 5):** **Madde XI-D** (*İç roller, hesap verebilirlik ve usul güvencesi gerekleri*); rol bütünlüğü üzerine benimsenmiş yönetişim uygulaması; **[corpus_systems.md](../../corpus_systems.md), CS-4 — Kritik sistem sorumlu yönetimi** ve **CS-9**; ve **corpus_institutions.md** (**CI-4** (*Atama, yetkinlik, rotasyon ve görevden alma*), **CI-11** (*Kaynak sorumlu yönetimi ve teşvik bütünlüğü*), **CI-12** (*Şeffaflık, katılım ve erişilebilir adlandırılmış yollar*) ve uygulanabilir ilgili kesitler).
+**Çapraz gönderim (kesit 5):** **Madde XII-D** (*İç roller, hesap verebilirlik ve usul güvencesi gerekleri*); rol bütünlüğü üzerine benimsenmiş yönetişim uygulaması; **[corpus_systems.md](../../corpus_systems.md), CS-4 — Kritik sistem sorumlu yönetimi** ve **CS-9**; ve **corpus_institutions.md** (**CI-4** (*Atama, yetkinlik, rotasyon ve görevden alma*), **CI-11** (*Kaynak sorumlu yönetimi ve teşvik bütünlüğü*), **CI-12** (*Şeffaflık, katılım ve erişilebilir adlandırılmış yollar*) ve uygulanabilir ilgili kesitler).
 
 ---
 

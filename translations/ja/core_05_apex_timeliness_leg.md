@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[第五章の羅針](core_05__definitions_home.md#chapter-five-compass-and-definition-map)；[憲法四元](core_00_preamble.md#constitutional-tetrad)（適時性脚；[実質的利害](core_00_preamble.md#material-stake)による尺度合わせ）；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)；第一次の目的 [繁栄](core_00_preamble.md#flourishing)。
-- 下流：[適時の解決](../../core_05_band_accountability.md#timely-resolution-constitutional)（*解決経路について適時性脚を実施する*）；**第 XXIV-C 条**（《適時解決と遅延防止の床》）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[四元脚の分解](#timeliness-tetrad-leg-decomposition)；適時性を実施する葉定義は [core_05_band_accountability.md](../../core_05_band_accountability.md)。
+- 下流：[適時の解決](../../core_05_band_accountability.md#timely-resolution-constitutional)（*解決経路について適時性脚を実施する*）；**第 XXV-C 条**（《適時解決と遅延防止の床》）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[四元脚の分解](#timeliness-tetrad-leg-decomposition)；適時性を実施する葉定義は [core_05_band_accountability.md](../../core_05_band_accountability.md)。
 - あわせて読む：[解決経路の捕捉](../../core_05_band_accountability.md#capture-of-resolution-pathways)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[憲法上の効率](../../core_05_band_continuity.md#constitutional-efficiency)、[回避可能な負担](../../core_05_band_continuity.md#avoidable-burden)、[責務ある管理の欠陥](../../core_05_band_continuity.md#stewardship-defect-constitutional)、[審査と訂正の義務](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)、および [責務ある管理](../../core_05_band_continuity.md#stewardship-constitutional)。
 
 </details>

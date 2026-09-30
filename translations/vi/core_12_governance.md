@@ -54,7 +54,7 @@ Chương này nêu **Tầng Hợp đồng Hiến pháp**: yêu cầu tính chín
 *Nói thẳng: chương này nêu hợp đồng hiến pháp cho quyền quản trị — điều gì phải đúng để việc đặt quy tắc được tính là chính danh và quản trị có trách nhiệm được tính là hiến pháp. Sàn tối thiểu sống ở đây; phần lớn chi tiết vận hành sống ở các tầng triển khai.*
 
 - Nó đặt yêu cầu hiến pháp, không phải toàn bộ chi tiết vận hành.
-- Các cổng tham gia, thủ tục đúng đắn, và tiếp nhận ràng buộc vẫn neo ở Chương Sáu (đặc biệt **Điều XI-A** (*Tham gia hệ thống của bên bị ảnh hưởng và đại diện*)).
+- Các cổng tham gia, thủ tục đúng đắn, và tiếp nhận ràng buộc vẫn neo ở Chương Sáu (đặc biệt **Điều XII-A** (*Tham gia hệ thống của bên bị ảnh hưởng và đại diện*)).
 - Đo lường quỹ đạo **chung** dưới **Chương Tám** (Trục Đóng góp và Trục Vi phạm — **trạng thái** đóng góp, bản chất vi phạm, và mọi ô tác động số) vẫn neo **Chương Tám**. **Chỉ định hành vi sai phản hiến pháp cuối** cho các phát hiện **Trục Vi phạm s = 7, 8, hoặc 9** đủ điều kiện vẫn neo ở **Chương Mười**; Chương Mười không gán hay dời ô số.
 - Thủ tục chi tiết, nhân sự, triển khai bỏ phiếu, và giao thức thi hành thuộc các tầng triển khai được chỉ định.
 
@@ -65,7 +65,7 @@ Chương này nêu **Tầng Hợp đồng Hiến pháp**: yêu cầu tính chín
 
 - Thượng nguồn: Nguyên tắc: [Chương Một §5 Tự do](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 Quản trị có trách nhiệm và hiểu biết phân tán](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [5. Giải quyết xung đột quy trình](#6-process-conflict-resolution); [Chương Mười Hai §0](#0-layer-boundary-for-this-chapter).
 - Tiểu mục: [§1.1](#11-mechanism-families-auditability-and-pluralism) (*Họ cơ chế, khả năng kiểm toán, và chủ nghĩa đa nguyên*); [§1.2](#12-eligibility-contested-selection-and-democratic-minimums) (*Điều kiện, lựa chọn có tranh, và sàn dân chủ*); [§1.3](#13-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Đường dẫn lớp thu hồi và lan can chuyển giữa chu kỳ*).
-- Hạ nguồn: Nghĩa vụ toàn vẹn, chiến lược, bỏ phiếu, và vai trò dưới [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); tiếp nhận và phê chuẩn dưới [Chương Mười Lăm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); tính chính danh, tham gia, và khả năng tranh biện ở Chương Sáu — đặc biệt [Điều XI-C: Cổng chính danh và chống tham gia tượng trưng](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation), [Điều XVIII: Quỹ đạo và trạng thái tham gia](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status), và các điều biểu đạt, tụ họp, và công bằng thủ tục được khóa ở các gạch vận hành dưới đây.
+- Hạ nguồn: Nghĩa vụ toàn vẹn, chiến lược, bỏ phiếu, và vai trò dưới [§§ 2–5](#2-ethical-culture-and-integrity-federated-scale); tiếp nhận và phê chuẩn dưới [Chương Mười Lăm](../../core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity); tính chính danh, tham gia, và khả năng tranh biện ở Chương Sáu — đặc biệt [Điều XII-C: Cổng chính danh và chống tham gia tượng trưng](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation), [Điều XIX: Quỹ đạo và trạng thái tham gia](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status), và các điều biểu đạt, tụ họp, và công bằng thủ tục được khóa ở các gạch vận hành dưới đây.
 - Đọc cùng: Các móc **kho văn bản** và **[corpus_systems.md](../../corpus_systems.md)** được chỉ định nêu trong mục này ([corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md)).
 
 </details>
@@ -90,7 +90,7 @@ Họ cơ chế, công bố, khả năng kiểm toán, và chủ nghĩa đa nguy�
 - **rút thăm** (*sortition*) hoặc xổ số công dân cho các cơ quan đã nêu
 - **phê chuẩn liên bang** bởi thành viên mạng hoặc cơ quan thành viên dưới quy tắc đã công bố
 - tiếp nhận **hiệp ước, khế ước, hoặc điều lệ** với sự đồng thuận đã ghi
-- thiết kế hỗn hợp hoặc có thứ tự thỏa cổng chính danh **Điều XI-C** (*Cổng chính danh và chống tham gia tượng trưng*) cho quyết định **tác động cao**
+- thiết kế hỗn hợp hoặc có thứ tự thỏa cổng chính danh **Điều XII-C** (*Cổng chính danh và chống tham gia tượng trưng*) cho quyết định **tác động cao**
 
 **Tính toàn vẹn rút thăm và dùng chống chiếm**
 
@@ -116,7 +116,7 @@ Họ cơ chế, công bố, khả năng kiểm toán, và chủ nghĩa đa nguy�
     - thao túng;
     - chiếm; hoặc
     - méo thủ tục.
-- **Không giặt chính danh:** Một xổ số công dân, hội công dân, hoặc ban chọn ngẫu nhiên không được dùng làm sân khấu chính danh cho quyết định khi một thẩm quyền có lợi ích kiểm soát, theo cách đánh bại nghị sự có ý nghĩa, khả năng tranh biện, hoặc cổng tham gia **Điều XI-C** (*Cổng chính danh và chống tham gia tượng trưng*):
+- **Không giặt chính danh:** Một xổ số công dân, hội công dân, hoặc ban chọn ngẫu nhiên không được dùng làm sân khấu chính danh cho quyết định khi một thẩm quyền có lợi ích kiểm soát, theo cách đánh bại nghị sự có ý nghĩa, khả năng tranh biện, hoặc cổng tham gia **Điều XII-C** (*Cổng chính danh và chống tham gia tượng trưng*):
   - chương trình;
   - hồ sơ bằng chứng;
   - kiểm soát người điều phối;
@@ -142,9 +142,9 @@ Họ cơ chế, công bố, khả năng kiểm toán, và chủ nghĩa đa nguy�
 **Tranh biện, sửa, và chủ nghĩa đa nguyên**
 
 - **Thất và Sửa:** Nơi ủy quyền bị tranh, lệch lạc có trọng, hoặc bị chiếm, hệ thống phải cung **đường dẫn tranh biện được**. Đường dẫn gồm:
-  - **Điều XI-C** (*Cổng chính danh và chống tham gia tượng trưng*);
-  - **Điều XII-B** (*Quyền tranh biện, rà soát, và khắc phục*);
-  - **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*); và
+  - **Điều XII-C** (*Cổng chính danh và chống tham gia tượng trưng*);
+  - **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*);
+  - **Điều XXIV-A** (*Mục tiêu và phạm vi công lý*); và
   - bảo vệ tính toàn vẹn thủ tục áp dụng trong văn bản triển khai đã tiếp nhận.
   Nơi khả thi, hệ thống nên cung **kế vị hoặc tái ủy hòa bình** thay vì liên tục quyền không rà được.
 - **Chủ nghĩa đa nguyên:** Hiến pháp này **không** bắt một cấu trúc chính thể toàn cầu duy nhất. Nhiều cơ chế có thể cùng tồn tại xuyên liên bang nếu ranh giới, **không-thống trị**, và Sàn Quyền ở Chương Sáu vẫn được thỏa.
@@ -167,12 +167,12 @@ Họ cơ chế, công bố, khả năng kiểm toán, và chủ nghĩa đa nguy�
 - **Kiểm sàn thể chế dân chủ:** Mọi cơ chế chính danh tuyên ủy quyền quản trị phải, tối thiểu, cung tất cả những điều sau:
 
     1. **Lựa chọn có tranh** — cơ hội có ý nghĩa để ứng viên, đề xuất, hoặc lập trường thay được trình và đánh giá bởi cộng đồng ủy quyền.
-    2. **Bảo vệ đối lập** — tự do thật, không chỉ hình thức, cho hữu tri bất đồng, đề xuất, và liên minh tổ chức, giao tiếp, và tranh thẩm quyền đương nhiệm mà không bị trả đũa, nhất quán với **Điều V-H** (*Biểu đạt, tụ họp, và báo chí*), **Điều IX-A** (*Quyền năng và tự do khỏi thao túng*), và **Điều XIII-A** (*Hoạt động được bảo vệ*).
+    2. **Bảo vệ đối lập** — tự do thật, không chỉ hình thức, cho hữu tri bất đồng, đề xuất, và liên minh tổ chức, giao tiếp, và tranh thẩm quyền đương nhiệm mà không bị trả đũa, nhất quán với **Điều V-H** (*Biểu đạt, tụ họp, và báo chí*), **Điều X-A** (*Quyền năng và tự do khỏi thao túng*), và **Điều XIV-A** (*Hoạt động được bảo vệ*).
     3. **Bảo đảm kế vị hòa bình** — một đường dẫn được định để chuyển hoặc tái ủy thẩm quyền theo điều khoản chính cơ chế nêu, với từ chối hoặc suy có trọng đường dẫn kế vị hòa bình được coi là thất của cơ chế dưới **Thất và Sửa** ở trên.
 
     - Những kiểm này áp cho [**Lựa chọn hiến pháp nền tảng**](core_05_band_integrative.md#foundational-constitutional-choice) (Chương Năm) và cho mọi hành động ủy quyền khác trong phạm vi của cơ chế.
     - Các kiểm là **trung lập cơ chế**: chúng không bắt một kiểu chính thể duy nhất, và chúng áp xuyên thiết kế đại diện, rút thăm, phê chuẩn liên bang, **hiệp ước, khế ước, hoặc điều lệ**, và hỗn hợp như nhau.
-    - Giữ đối lập trên danh nghĩa đi kèm loại chức năng qua phụ thuộc không gian thông tin kín, chiếm quản trị có trách nhiệm tự chủ **Điều XII-E** (*Hệ thống tự chủ cao và tính toàn vẹn quy trình qua công cụ*), hoặc phương tiện cấu trúc tương đương là không tuân thủ dưới cả kiểm này và điều khoản **Chủ nghĩa đa nguyên**.
+    - Giữ đối lập trên danh nghĩa đi kèm loại chức năng qua phụ thuộc không gian thông tin kín, chiếm quản trị có trách nhiệm tự chủ **Điều XIII-E** (*Hệ thống tự chủ cao và tính toàn vẹn quy trình qua công cụ*), hoặc phương tiện cấu trúc tương đương là không tuân thủ dưới cả kiểm này và điều khoản **Chủ nghĩa đa nguyên**.
 
 **Sàn độc lập bổ nhiệm diễn đàn**
 
@@ -208,9 +208,9 @@ Họ cơ chế, công bố, khả năng kiểm toán, và chủ nghĩa đa nguy�
   - từ chối đường dẫn kế vị hòa bình; hoặc
   - đe dọa **Sàn Quyền** được xử qua **Chương Sáu** và thủ tục triển khai đã tiếp nhận.
   Bậc leo theo đồng hồ đó được phép trong văn bản triển khai được chỉ định khi chúng thỏa [**Công bằng nội dung**](../../core_05_band_participation.md#substantive-fairness-constitutional), [**Sự cần thiết**](../../core_05_band_accountability.md#necessity), và [**Tính tương xứng**](../../core_05_band_accountability.md#proportionality) dưới **Chương Một** và **Chương Hai đến Năm**.
-- **Công bằng thủ tục:** Thủ tục lớp thu hồi phải thỏa yêu cầu **Chương Sáu** áp dụng (họ **Điều XI** (*Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn*), kể cả **Điều XI-D** (*Vai trò nội bộ, trách nhiệm giải trình, và yêu cầu thủ tục đúng đắn*) nơi quy trình vai trò nội bộ áp). Chúng không được thế cho kênh **cách chức vì nguyên nhân** cá nhân hóa hoặc kỷ luật nơi **corpus_institutions.md** **CI-4** (*Bổ nhiệm, năng lực, luân chuyển, và cách chức*) hoặc thủ tục đã hợp nhất là nơi thích hợp cho hành vi nền.
-- **Chống lạm dụng nối tiếp và ổn định:** Cơ chế phải gồm quy tắc **làm nguội** hoặc **chống nối tiếp** tương xứng với **tác động có trọng** và phân hạng **[corpus_systems.md](../../corpus_systems.md)** để công cụ lớp thu hồi không thể được triển khai lại như quấy rối có cấu trúc hoặc vận động vĩnh viễn; mẫu ác ý vẫn tranh biện được dưới **Điều XII-B** (*Quyền tranh biện, rà soát, và khắc phục*) và **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*).
-- **Thẳng hàng tác động cao:** Phiếu lớp thu hồi sẽ đổi kết quả **Lựa chọn hiến pháp nền tảng** hoặc chính cơ chế chính danh vẫn chịu **Điều XI-C** (*Cổng chính danh và chống tham gia tượng trưng*) và yêu cầu **§2** nơi áp dụng.
+- **Công bằng thủ tục:** Thủ tục lớp thu hồi phải thỏa yêu cầu **Chương Sáu** áp dụng (họ **Điều XII** (*Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn*), kể cả **Điều XII-D** (*Vai trò nội bộ, trách nhiệm giải trình, và yêu cầu thủ tục đúng đắn*) nơi quy trình vai trò nội bộ áp). Chúng không được thế cho kênh **cách chức vì nguyên nhân** cá nhân hóa hoặc kỷ luật nơi **corpus_institutions.md** **CI-4** (*Bổ nhiệm, năng lực, luân chuyển, và cách chức*) hoặc thủ tục đã hợp nhất là nơi thích hợp cho hành vi nền.
+- **Chống lạm dụng nối tiếp và ổn định:** Cơ chế phải gồm quy tắc **làm nguội** hoặc **chống nối tiếp** tương xứng với **tác động có trọng** và phân hạng **[corpus_systems.md](../../corpus_systems.md)** để công cụ lớp thu hồi không thể được triển khai lại như quấy rối có cấu trúc hoặc vận động vĩnh viễn; mẫu ác ý vẫn tranh biện được dưới **Điều XIII-B** (*Quyền tranh biện, rà soát, và khắc phục*) và **Điều XXIV-A** (*Mục tiêu và phạm vi công lý*).
+- **Thẳng hàng tác động cao:** Phiếu lớp thu hồi sẽ đổi kết quả **Lựa chọn hiến pháp nền tảng** hoặc chính cơ chế chính danh vẫn chịu **Điều XII-C** (*Cổng chính danh và chống tham gia tượng trưng*) và yêu cầu **§2** nơi áp dụng.
 
 <a id="2-ethical-culture-and-integrity-federated-scale"></a>
 ### 2. Văn hóa đạo đức và tính toàn vẹn (Quy mô liên bang)
@@ -304,7 +304,7 @@ Chỉ số ủy nhiệm (tài chính hay khác) có thể thông tin quyết đ�
 
 - Thượng nguồn: cơ chế chính danh đã ghi [§1](#1-authorization-and-legitimacy-of-governing-authority); thẳng hàng quản trị có trách nhiệm cho quyết định tập thể [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 - Hạ nguồn: Tiểu mục [4.1](#41-entitlement-and-eligibility)–[4.3](#43-decision-resolution-requirements-for-binding-collective-choice); công cụ tiếp nhận, tối cao, và không thoái lui ở [Chương Mười Ba đến Mười Lăm](../../core_14_non_regression.md) như tóm ở chú **Tham chiếu chéo (Chương Mười Hai)** cuối mục này.
-- Đọc cùng: [Chương Sáu](core_06_rights_part_a.md#chapter-six-foundational-rights), đặc biệt [Điều XI: Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn](../../core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) và các tiểu điều liên quan viện ở §4.
+- Đọc cùng: [Chương Sáu](core_06_rights_part_a.md#chapter-six-foundational-rights), đặc biệt [Điều XII: Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) và các tiểu điều liên quan viện ở §4.
 
 </details>
 
@@ -320,8 +320,8 @@ Nơi cơ chế chính danh của bên tiếp nhận gồm bỏ phiếu tập th�
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: khung lựa chọn tập thể [§4](#4-voting-and-binding-collective-choice-protocols); cơ chế chính danh cho thủ tục lựa chọn ràng buộc [§1](#1-authorization-and-legitimacy-of-governing-authority).
-- Hạ nguồn: Tham gia quản trị và quỹ đạo ở [Điều IX-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement), [Điều XVIII: Quỹ đạo và trạng thái tham gia](../../core_06_rights_part_c.md#article-xviii-standing-and-participation-status); lựa chọn hiến pháp nền tảng và máy bên bị ảnh hưởng ở [Chương Năm — Lựa chọn hiến pháp nền tảng](core_05_band_integrative.md#foundational-constitutional-choice) và các mục [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) liên quan như văn bản vận hành định tuyến; **Chương Mười** (*Hành vi sai phản hiến pháp*) cho **chỉ định hành vi sai phản hiến pháp cuối** trên các phát hiện **Trục Vi phạm s = 7, 8, hoặc 9** đủ điều kiện và bảo vệ thủ tục đúng đắn gắn điều khoản **hành vi sai phản hiến pháp — tiền điều kiện bồi thường** trong tiểu mục này.
-- Đọc cùng: [§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice); [Điều XI-C: Cổng chính danh và chống tham gia tượng trưng](../../core_06_rights_part_b.md#article-xi-c-legitimacy-gate-and-anti-token-participation) cho cổng chính danh tác động cao; [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) cho **chỉ định hành vi sai phản hiến pháp** cuối trên các phát hiện **Trục Vi phạm s = 7, 8, hoặc 9** đủ điều kiện.
+- Hạ nguồn: Tham gia quản trị và quỹ đạo ở [Điều X-C: Tham gia quản trị và quyền phiếu](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement), [Điều XIX: Quỹ đạo và trạng thái tham gia](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status); lựa chọn hiến pháp nền tảng và máy bên bị ảnh hưởng ở [Chương Năm — Lựa chọn hiến pháp nền tảng](core_05_band_integrative.md#foundational-constitutional-choice) và các mục [Chương Năm](core_05__definitions_home.md#chapter-five-foundational-definitions) liên quan như văn bản vận hành định tuyến; **Chương Mười** (*Hành vi sai phản hiến pháp*) cho **chỉ định hành vi sai phản hiến pháp cuối** trên các phát hiện **Trục Vi phạm s = 7, 8, hoặc 9** đủ điều kiện và bảo vệ thủ tục đúng đắn gắn điều khoản **hành vi sai phản hiến pháp — tiền điều kiện bồi thường** trong tiểu mục này.
+- Đọc cùng: [§4.2](#42-records-gates-and-method-neutrality)–[§4.3](#43-decision-resolution-requirements-for-binding-collective-choice); [Điều XII-C: Cổng chính danh và chống tham gia tượng trưng](../../core_06_rights_part_b.md#article-xii-c-legitimacy-gate-and-anti-token-participation) cho cổng chính danh tác động cao; [Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct) cho **chỉ định hành vi sai phản hiến pháp** cuối trên các phát hiện **Trục Vi phạm s = 7, 8, hoặc 9** đủ điều kiện.
 
 </details>
 
@@ -329,7 +329,7 @@ Nơi cơ chế chính danh của bên tiếp nhận gồm bỏ phiếu tập th�
 
 *Nói thẳng: hữu tri đủ điều kiện được phiếu thật khi quy tắc nói họ được — và trên câu hỏi lớn (ai quản trị và thế nào), mỗi tiếng nói đếm bằng nhau. Trọng theo tác động có thể áp bên trong một hệ thống đã được ủy cho nhiều quyết định, nhưng không như trò pha loãng phiếu nền tảng. Tuổi lịch và lớp thể nền không thể được dùng để trọng những lựa chọn nền tảng đó. Một khóa quỹ đạo có thể tạm dừng bỏ phiếu thường trên một đường dẫn được đặt tên, nhưng trò quỹ đạo không thể bịt miệng ai đó vĩnh viễn; hành vi sai nghiêm nhất có thể giữ tiếng nói nền tảng cho đến khi bồi thường thực sự xong — không phải trả đũa mơ hồ.*
 
-**Hữu tri** có quyền tham gia **bỏ phiếu quản trị** khi tiêu chí điều kiện đã công bố được thỏa và không có [khóa quỹ đạo](core_09_standing_integration.md#42-general-standing-locks) áp dụng chặn đường dẫn **bỏ phiếu quản trị**. Tiêu chí điều kiện vẫn tranh biện được dưới **Điều XVIII-A** (*Phân biệt quỹ đạo*) và **Điều XVIII-C** (*Điều kiện đường dẫn, trách nhiệm, và kiểm toán liên tục*), cùng mọi tiêu chí đã hợp nhất được chỉ định. Những tiêu chí đó không được thu hẹp giới hạn hiến pháp.
+**Hữu tri** có quyền tham gia **bỏ phiếu quản trị** khi tiêu chí điều kiện đã công bố được thỏa và không có [khóa quỹ đạo](core_09_standing_integration.md#42-general-standing-locks) áp dụng chặn đường dẫn **bỏ phiếu quản trị**. Tiêu chí điều kiện vẫn tranh biện được dưới **Điều XIX-A** (*Phân biệt quỹ đạo*) và **Điều XIX-C** (*Điều kiện đường dẫn, trách nhiệm, và kiểm toán liên tục*), cùng mọi tiêu chí đã hợp nhất được chỉ định. Những tiêu chí đó không được thu hẹp giới hạn hiến pháp.
 
 Cùng quyền áp cho thủ tục **lựa chọn tập thể ràng buộc** bằng cơ chế chính danh tương đương. Những thủ tục đó phải được tiến hành dưới **cơ chế chính danh đã ghi** của bên tiếp nhận (mục 1 của chương này). Đình hoặc hạn tham gia đó đòi một khóa quỹ đạo áp dụng trên đường dẫn **bỏ phiếu quản trị**, được ghi dưới [Chương Chín §5.1](core_09_standing_integration.md#51-definition-and-attachment).
 
@@ -337,7 +337,7 @@ Cùng quyền áp cho thủ tục **lựa chọn tập thể ràng buộc** bằ
 
 **Tuổi lịch hoặc giai đoạn đời một mình** không được loại điều kiện. Yêu cầu năng lực, sức chứa, hoặc sức khỏe vai trò phải thỏa **Chương Hai đến Năm** ([**Công bằng nội dung**](../../core_05_band_participation.md#substantive-fairness-constitutional), [**Tính tương xứng**](../../core_05_band_accountability.md#proportionality), và [**Sự cần thiết**](../../core_05_band_accountability.md#necessity)) và không được vận hành như **phân biệt tuổi ngụy trang**. Đình và khôi phục tham gia này **theo gắn và nhấc khóa quỹ đạo áp dụng** dưới cùng tiêu chí hiến pháp và đã hợp nhất.
 
-Tiểu mục này triển khai **Chương Sáu**, **Điều IX-C** (*Tham gia quản trị và quyền phiếu*).
+Tiểu mục này triển khai **Chương Sáu**, **Điều X-C** (*Tham gia quản trị và quyền phiếu*).
 
 
 - **Sàn bình đẳng chính trị cho lựa chọn hiến pháp nền tảng:** **Lựa chọn hiến pháp nền tảng** (Chương Năm) phủ quyết định về ai nắm quyền quản trị, cơ chế chính danh là gì, và phạm vi cùng điều khoản bền của thẩm quyền đó. Những câu hỏi đó do một **sàn bình đẳng chính trị** quản trị: trong cộng đồng có quyền tham gia, mỗi hữu tri có trọng tham gia bằng nhau.
@@ -347,9 +347,9 @@ Tiểu mục này triển khai **Chương Sáu**, **Điều IX-C** (*Tham gia qu
     - tuổi lịch;
     - lớp thể nền; và
     - dòng dõi.
-  - Tham chiếu chéo: **Chương Sáu, **Điều IX-C** (*Tham gia quản trị và quyền phiếu*)**.
+  - Tham chiếu chéo: **Chương Sáu, **Điều X-C** (*Tham gia quản trị và quyền phiếu*)**.
 - **Sàn tiếng nói chính trị bền (chống tước quyền):** Một khóa quỹ đạo trên đường dẫn **bỏ phiếu quản trị** có thể đình quyền bỏ phiếu quản trị thường. Nó không được dùng như vector tước tư cách **tiếng nói chính trị bền**.
-  - **Hành vi sai phản hiến pháp — tiền điều kiện bồi thường:** Một **chỉ định cuối** **hành vi sai phản hiến pháp** cho phát hiện **Trục Vi phạm s = 7**, **s = 8**, hoặc **s = 9** dưới **Chương Mười** (*Hành vi sai phản hiến pháp*) giữ **tiếng nói chính trị bền** — kể cả tham gia **Lựa chọn hiến pháp nền tảng** — cho đến khi **bồi thường đầy đủ** được thỏa: [**Khắc phục và sửa chữa**](../../core_05_band_accountability.md#redress-and-remediation-constitutional) tương xứng (Chương Năm), kể cả **bồi thường** cho hại có trọng từ hành vi nơi nợ, được **xả đầy** như cuối cùng xác định dưới **Chương Mười Một** và thủ tục đã hợp nhất áp dụng, nhất quán với bảo vệ thủ tục đúng đắn **Chương Mười** và **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*).
+  - **Hành vi sai phản hiến pháp — tiền điều kiện bồi thường:** Một **chỉ định cuối** **hành vi sai phản hiến pháp** cho phát hiện **Trục Vi phạm s = 7**, **s = 8**, hoặc **s = 9** dưới **Chương Mười** (*Hành vi sai phản hiến pháp*) giữ **tiếng nói chính trị bền** — kể cả tham gia **Lựa chọn hiến pháp nền tảng** — cho đến khi **bồi thường đầy đủ** được thỏa: [**Khắc phục và sửa chữa**](../../core_05_band_accountability.md#redress-and-remediation-constitutional) tương xứng (Chương Năm), kể cả **bồi thường** cho hại có trọng từ hành vi nơi nợ, được **xả đầy** như cuối cùng xác định dưới **Chương Mười Một** và thủ tục đã hợp nhất áp dụng, nhất quán với bảo vệ thủ tục đúng đắn **Chương Mười** và **Điều XXIV-A** (*Mục tiêu và phạm vi công lý*).
   - **Không khả năng thiện chí, cản, và bất định định giá:** Giữ **tiếng nói chính trị bền** không được dựa trên bất kỳ điều nào sau đây một mình nơi **khôi phục thiện chí** đã được ghi và thỏa **một phần** đang tiếp:
     - nghèo;
     - khuyết tật;
@@ -361,15 +361,15 @@ Tiểu mục này triển khai **Chương Sáu**, **Điều IX-C** (*Tham gia qu
     - bất khả có cấu trúc dùng làm cớ; hoặc
     - từ chối đồng ý một phương pháp định giá **tranh biện được**.
     **Chương Mười Một** và thủ tục đã hợp nhất áp dụng phải cung một **hồ sơ rà được** khi **xả đầy** bị trì vì lý do ngoài kiểm soát riêng của bên bị kết.
-  - **Khôi phục một phần và có điều kiện:** Nơi xả **đầy** là **bất khả** sau **nỗ lực thiện chí** (ví dụ, một số hại không bồi thường đảo được, hoặc không bên nào tìm được đối tác cần), **Chương Mười Một** và thủ tục đã hợp nhất áp dụng có thể tiếp nhận mốc khôi phục **một phần** hoặc **có điều kiện** **thỏa có trọng** [**Khắc phục và sửa chữa**](../../core_05_band_accountability.md#redress-and-remediation-constitutional) cho điều khả thi; khi những mốc đó được thỏa, **tiếng nói chính trị bền** phải được **khôi phục** trừ khi bảo vệ **Chương Mười** và **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*) vẫn đòi bổn phận cụ thể nữa vẫn **khả thi** và **không phải cớ**. Những đường này vẫn **tranh biện được đầy**; chúng **không** ủy cử chỉ tượng trưng thay khôi phục thật nơi khôi phục vẫn thực tiễn.
-  - **Bảo tồn quy tắc hành vi sai nghiêm:** Quy tắc giữ **cuối** **Trục Vi phạm s = 7, 8, hoặc 9** ở trên vẫn **vận hành đầy**: **trì hoãn hoặc lẩn ác ý của bên bị kết** **không** buộc khôi phục sớm, và hành vi sai **nghiêm** có thể **giữ** tiếng nói nền tảng cho đến khi bổn phận khôi phục **thật** thẳng hàng với **Chương Mười** và **Điều XXIII-A** (*Mục tiêu và phạm vi công lý*) được thỏa nơi thỏa vẫn **khả thi**.
+  - **Khôi phục một phần và có điều kiện:** Nơi xả **đầy** là **bất khả** sau **nỗ lực thiện chí** (ví dụ, một số hại không bồi thường đảo được, hoặc không bên nào tìm được đối tác cần), **Chương Mười Một** và thủ tục đã hợp nhất áp dụng có thể tiếp nhận mốc khôi phục **một phần** hoặc **có điều kiện** **thỏa có trọng** [**Khắc phục và sửa chữa**](../../core_05_band_accountability.md#redress-and-remediation-constitutional) cho điều khả thi; khi những mốc đó được thỏa, **tiếng nói chính trị bền** phải được **khôi phục** trừ khi bảo vệ **Chương Mười** và **Điều XXIV-A** (*Mục tiêu và phạm vi công lý*) vẫn đòi bổn phận cụ thể nữa vẫn **khả thi** và **không phải cớ**. Những đường này vẫn **tranh biện được đầy**; chúng **không** ủy cử chỉ tượng trưng thay khôi phục thật nơi khôi phục vẫn thực tiễn.
+  - **Bảo tồn quy tắc hành vi sai nghiêm:** Quy tắc giữ **cuối** **Trục Vi phạm s = 7, 8, hoặc 9** ở trên vẫn **vận hành đầy**: **trì hoãn hoặc lẩn ác ý của bên bị kết** **không** buộc khôi phục sớm, và hành vi sai **nghiêm** có thể **giữ** tiếng nói nền tảng cho đến khi bổn phận khôi phục **thật** thẳng hàng với **Chương Mười** và **Điều XXIV-A** (*Mục tiêu và phạm vi công lý*) được thỏa nơi thỏa vẫn **khả thi**.
   - Nơi một khóa quỹ đạo hoặc giữ bồi thường được viện để hạn tham gia lựa chọn hiến pháp nền tảng (ủy quyền quản trị, hoặc đường dẫn tái ủy được đặt tên), hạn chế phải thỏa:
     - (a) một vị ngữ cá nhân hóa dưới [**Công bằng thủ tục**](../../core_05_band_participation.md#procedural-fairness-constitutional);
     - (b) [**Sự cần thiết**](../../core_05_band_accountability.md#necessity) và [**Tính tương xứng**](../../core_05_band_accountability.md#proportionality) dưới Chương Một;
     - (c) cắt hẹp tới hạng hành vi sai cụ thể; và
-    - (d) đường dẫn khôi phục thật chứ không chỉ hình thức, nhất quán với kỷ luật kiểm toán liên tục và khôi phục-hoặc-tái đủ điều kiện **Điều XVIII-C** (*Điều kiện đường dẫn, trách nhiệm, và kiểm toán liên tục*).
+    - (d) đường dẫn khôi phục thật chứ không chỉ hình thức, nhất quán với kỷ luật kiểm toán liên tục và khôi phục-hoặc-tái đủ điều kiện **Điều XIX-C** (*Điều kiện đường dẫn, trách nhiệm, và kiểm toán liên tục*).
   - Hạng hành vi sai rộng bị quét vào phạm vi tước tư cách, hoặc mẫu khóa theo [**Đặc điểm được bảo vệ**](../../core_05_band_participation.md#protected-characteristics-constitutional) hoặc ủy nhiệm có trọng của chúng, là không tuân thủ.
-  - Tham chiếu chéo: **Chương Sáu, **Điều XVIII** (*Quỹ đạo và trạng thái tham gia*)**; **Chương Mười** (*Hành vi sai phản hiến pháp*) cho **chỉ định hành vi sai phản hiến pháp cuối** trên các phát hiện **Trục Vi phạm s = 7, 8, hoặc 9** đủ điều kiện và bảo vệ gắn điều khoản **hành vi sai phản hiến pháp — tiền điều kiện bồi thường**.
+  - Tham chiếu chéo: **Chương Sáu, **Điều XIX** (*Quỹ đạo và trạng thái tham gia*)**; **Chương Mười** (*Hành vi sai phản hiến pháp*) cho **chỉ định hành vi sai phản hiến pháp cuối** trên các phát hiện **Trục Vi phạm s = 7, 8, hoặc 9** đủ điều kiện và bảo vệ gắn điều khoản **hành vi sai phản hiến pháp — tiền điều kiện bồi thường**.
 
 <a id="42-records-gates-and-method-neutrality"></a>
 #### 4.2 Hồ sơ, cổng, và trung lập phương pháp
@@ -377,7 +377,7 @@ Tiểu mục này triển khai **Chương Sáu**, **Điều IX-C** (*Tham gia qu
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: điều kiện [§4.1](#41-entitlement-and-eligibility), khóa quỹ đạo bỏ phiếu quản trị, và sàn bình đẳng chính trị cho lựa chọn hiến pháp nền tảng.
-- Hạ nguồn: trình tự nghị sự và va chạm quyền [§4.3](#43-decision-resolution-requirements-for-binding-collective-choice); cổng hiệu lực ràng buộc và chính danh khóa tới [Điều XI-A: Tham gia hệ thống của bên bị ảnh hưởng và đại diện](../../core_06_rights_part_b.md#article-xi-a-stakeholder-system-participation-and-representation) và các tiểu điều **Điều XI** (*Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn*) liên quan trong văn bản vận hành.
+- Hạ nguồn: trình tự nghị sự và va chạm quyền [§4.3](#43-decision-resolution-requirements-for-binding-collective-choice); cổng hiệu lực ràng buộc và chính danh khóa tới [Điều XII-A: Tham gia hệ thống của bên bị ảnh hưởng và đại diện](../../core_06_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) và các tiểu điều **Điều XII** (*Tham gia hệ thống của bên bị ảnh hưởng, đại diện, và thủ tục đúng đắn*) liên quan trong văn bản vận hành.
 - Đọc cùng: [Chương Sáu](core_06_rights_part_a.md#chapter-six-foundational-rights) cho bất đồng, tính toàn vẹn hồ sơ, và quyền rà soát gắn lựa chọn tập thể.
 
 </details>
@@ -397,7 +397,7 @@ Tiểu mục này triển khai **Chương Sáu**, **Điều IX-C** (*Tham gia qu
   - kiểm phiếu; và
   - kháng cưỡng.
 - **Cổng hiệu lực ràng buộc:** Không lựa chọn tập thể tác động cao có trọng nào ràng buộc trừ khi:
-  - cổng chính danh **Điều XI-A** (*Tham gia hệ thống của bên bị ảnh hưởng và đại diện*) được thỏa;
+  - cổng chính danh **Điều XII-A** (*Tham gia hệ thống của bên bị ảnh hưởng và đại diện*) được thỏa;
   - bổn phận ghi **bất đồng** và **thay** được thỏa; và
   - đường dẫn **tranh** được thỏa.
 - **Trung lập phương pháp với khả năng hiểu:** Các phương pháp sau đều tương thích hiến pháp khi chúng thỏa ràng buộc cốt:
@@ -418,7 +418,7 @@ Tiểu mục này triển khai **Chương Sáu**, **Điều IX-C** (*Tham gia qu
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: yêu cầu quyền, hồ sơ, và cổng chính danh [§4.1](#41-entitlement-and-eligibility)–[§4.2](#42-records-gates-and-method-neutrality).
-- Hạ nguồn: Kỷ luật va chạm quyền dưới [Điều XXIV-B: Thủ tục va chạm quyền và thẳng hàng phục hồi](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment) và [Chương Một §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) như viện; đường dẫn tranh và mở lại ở Chương Sáu.
+- Hạ nguồn: Kỷ luật va chạm quyền dưới [Điều XXV-B: Thủ tục va chạm quyền và thẳng hàng phục hồi](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) và [Chương Một §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) như viện; đường dẫn tranh và mở lại ở Chương Sáu.
 - Đọc cùng: [Def.P2 Lựa chọn ràng buộc của bên bị ảnh hưởng](../../core_05_band_participation.md#binding-stakeholder-choice-cluster), kể cả [Lựa chọn ràng buộc của bên bị ảnh hưởng — Yêu cầu giải quyết quyết định](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process), [Giới hạn đại diện và trọng số bên bị ảnh hưởng (Lựa chọn ràng buộc của bên bị ảnh hưởng)](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), và [Hồ sơ va chạm quyền bên bị ảnh hưởng (Lựa chọn ràng buộc của bên bị ảnh hưởng)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice); đọc thêm với [Chương Sáu: Quyền nền tảng](core_06_rights_part_a.md#chapter-six-foundational-rights) cho thiết kế quy trình tác động quyền có trọng và [Hành động trước nghị sự khẩn cấp (Lựa chọn tập thể ràng buộc)](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
 
 </details>
@@ -431,16 +431,16 @@ Nơi bất đồng có trọng đòi một **lựa chọn ràng buộc của bê
 
 - **Trình tự có cấu trúc, nghị sự địa phương trước, đánh giá đa nguyên, mở lại:** [Lựa chọn ràng buộc của bên bị ảnh hưởng — Yêu cầu giải quyết quyết định](../../core_05_band_participation.md#binding-collective-choice-decision-resolution-process).
 - **Giới hạn đại diện và trọng số bên bị ảnh hưởng:** [Giới hạn đại diện và trọng số bên bị ảnh hưởng (Lựa chọn ràng buộc của bên bị ảnh hưởng)](../../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (cũng viện từ [§4.1](#41-entitlement-and-eligibility)).
-- **Kỷ luật va chạm quyền bên bị ảnh hưởng:** [Hồ sơ va chạm quyền bên bị ảnh hưởng (Lựa chọn ràng buộc của bên bị ảnh hưởng)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — đọc cùng **Điều XXIV-B** (*Thủ tục va chạm quyền và thẳng hàng phục hồi*) và [Chương Một §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+- **Kỷ luật va chạm quyền bên bị ảnh hưởng:** [Hồ sơ va chạm quyền bên bị ảnh hưởng (Lựa chọn ràng buộc của bên bị ảnh hưởng)](../../core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice) — đọc cùng **Điều XXV-B** (*Thủ tục va chạm quyền và thẳng hàng phục hồi*) và [Chương Một §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - **Ngoại lệ khẩn cấp:** [Hành động trước nghị sự khẩn cấp (Lựa chọn tập thể ràng buộc)](../../core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — đọc cùng:
   - [Khẩn cấp và dự phòng bên bị ảnh hưởng](../../core_05_band_continuity.md#stakeholder-emergency-and-contingency);
   - [Khẩn cấp và dự phòng hiến pháp](../../core_05_band_continuity.md#constitutional-emergency-and-contingency) nơi ủy quyền quản trị bị liên lụy;
   - [Khẩn cấp và dự phòng](../../core_05_band_continuity.md#emergency-and-contingency-constitutional); và
-  - **Điều XXIII-D** (*Biện pháp khẩn cấp và gánh tiếp tục*).
+  - **Điều XXIV-D** (*Biện pháp khẩn cấp và gánh tiếp tục*).
 
 **Quy tắc con trỏ Điều lệ.** Một [Điều lệ](../../core_05_band_continuity.md#charter) quản trị nêu phạm vi vận hành và, nơi phạm vi tiếp nhận Def.P2 áp, phải **chỉ tới** các quy tắc quy trình đã công bố thỏa mục này. Điều lệ không mang trình tự quyết định, mô hình trọng, hay hồ sơ va chạm quyền. Công bố thể chế những tài liệu đó sống dưới **CI-8.1** / **CI-8.2**, với con trỏ Điều lệ đòi bởi trường 10 **CI-3.6**.
 
-**Tham chiếu chéo (mục 4):** Tiểu mục **4.1–4.2** nêu yêu cầu bỏ phiếu cùng **Chương Sáu**, **Điều IX-C** (*Tham gia quản trị và quyền phiếu*). Văn bản triển khai quản trị, hệ thống, và thể chế đã tiếp nhận cung quy tắc áp dụng nơi triển khai **kỹ thuật** bỏ phiếu chạm hệ thống đã phân hạng, xử lý dữ liệu, nghĩa vụ người quản trị có trách nhiệm, hoặc thủ tục thể chế được chỉ định.
+**Tham chiếu chéo (mục 4):** Tiểu mục **4.1–4.2** nêu yêu cầu bỏ phiếu cùng **Chương Sáu**, **Điều X-C** (*Tham gia quản trị và quyền phiếu*). Văn bản triển khai quản trị, hệ thống, và thể chế đã tiếp nhận cung quy tắc áp dụng nơi triển khai **kỹ thuật** bỏ phiếu chạm hệ thống đã phân hạng, xử lý dữ liệu, nghĩa vụ người quản trị có trách nhiệm, hoặc thủ tục thể chế được chỉ định.
 
 **Tham chiếu chéo (Chương Mười Hai):** Công cụ **tiếp nhận hiến pháp** và hiệu lực tu chính xuất hiện ở **Chương Mười Sáu**. **Tối cao tương đối với luật bên ngoài**, **bảo vệ bên ngoài nghiêm hơn**, và tranh chấp liên quan cơ quan phân xử bên ngoài xuất hiện ở **Chương Mười Bốn**. Giới hạn nội dung **không thoái lui** xuất hiện ở **Chương Mười Ba**.
 
@@ -450,7 +450,7 @@ Nơi bất đồng có trọng đòi một **lựa chọn ràng buộc của bê
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
 - Thượng nguồn: [§1](#1-authorization-and-legitimacy-of-governing-authority)–[§4](#4-voting-and-binding-collective-choice-protocols) cách thẩm quyền được ủy, ghi, và thực hiện trong lựa chọn tập thể.
-- Hạ nguồn: Yêu cầu toàn vẹn vai trò và thủ tục đúng đắn ở [Điều XI-D: Vai trò nội bộ, trách nhiệm giải trình, và yêu cầu thủ tục đúng đắn](../../core_06_rights_part_b.md#article-xi-d-internal-roles-accountability-and-due-process-requirements); móc thiết kế **kho văn bản** và làn ở [corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md), và [corpus_joint_structure.md](../../corpus_joint_structure.md) như viện dưới đây.
+- Hạ nguồn: Yêu cầu toàn vẹn vai trò và thủ tục đúng đắn ở [Điều XII-D: Vai trò nội bộ, trách nhiệm giải trình, và yêu cầu thủ tục đúng đắn](../../core_06_rights_part_b.md#article-xii-d-internal-roles-accountability-and-due-process-requirements); móc thiết kế **kho văn bản** và làn ở [corpus_systems.md](../../corpus_systems.md), [corpus_institutions.md](../../corpus_institutions.md), và [corpus_joint_structure.md](../../corpus_joint_structure.md) như viện dưới đây.
 - Đọc cùng: **[corpus_systems.md](../../corpus_systems.md)** (**CS-4 — Quản trị có trách nhiệm hệ thống then chốt**, CS-9) và **CI-4** / **CI-11** / **CI-12** trong kho văn bản triển khai viện trong văn bản vận hành; [Chương Một §9.1.1 Chuẩn quản trị có trách nhiệm chung](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) (*nghĩa vụ không phân biệt thể nền; tệp kèm có thể thêm ghi nhật ký, gán, và giới hạn năng lực — không phải mã nội bộ mềm hơn*); [§9.1.2 Ràng buộc tốn kém đối xứng](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
 
 </details>
@@ -474,7 +474,7 @@ Quản trị có trách nhiệm và vận hành có trọng đòi **hữu tri** 
 - **Quy tắc chống tượng trưng:** Chức danh hoặc diễn đàn tư vấn không thỏa mục này nơi thẩm quyền và năng lực thật được đòi cho quyết định ràng buộc có trọng. Phân loại vai trò chi tiết, kiểm soát đủ điều kiện/kế vị, triển khai lối vào đường dẫn phát triển quản trị có trách nhiệm, và cơ học quản trị khuyến khích do [**CI-4**](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Bổ nhiệm, năng lực, luân chuyển, và cách chức*), **CI-11** (*Quản trị có trách nhiệm tài nguyên và toàn vẹn khuyến khích*), và **CI-12** (*Minh bạch, tham gia, và đường dẫn tiếp cận được*) quản trị.
 - **Chuẩn quản trị có trách nhiệm chung:** Định nghĩa vai trò và quy tắc năng lực dưới mục này áp [chuẩn quản trị có trách nhiệm chung](core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) ở **Chương Một §9.1.1** và [§9.1.2 Ràng buộc tốn kém đối xứng](core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints). Chúng không được tạo chồng nghĩa vụ riêng thể nền, và không được miễn người vận hành con người khỏi các trường hợp tốn kém ràng người quản trị có trách nhiệm AI. Thất đã xác minh ghi trên cùng trục Chương Tám; [Chương Chín §5.4 Bổn phận chống lại](core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) ràng cả hai.
 
-**Tham chiếu chéo (mục 5):** **Điều XI-D** (*Vai trò nội bộ, trách nhiệm giải trình, và yêu cầu thủ tục đúng đắn*); triển khai quản trị đã tiếp nhận về toàn vẹn vai trò; **[corpus_systems.md](../../corpus_systems.md), CS-4 — Quản trị có trách nhiệm hệ thống then chốt** và **CS-9**; và **corpus_institutions.md** (**CI-4** (*Bổ nhiệm, năng lực, luân chuyển, và cách chức*), **CI-11** (*Quản trị có trách nhiệm tài nguyên và toàn vẹn khuyến khích*), **CI-12** (*Minh bạch, tham gia, và đường dẫn tiếp cận được*), và các mục liên quan khi áp dụng).
+**Tham chiếu chéo (mục 5):** **Điều XII-D** (*Vai trò nội bộ, trách nhiệm giải trình, và yêu cầu thủ tục đúng đắn*); triển khai quản trị đã tiếp nhận về toàn vẹn vai trò; **[corpus_systems.md](../../corpus_systems.md), CS-4 — Quản trị có trách nhiệm hệ thống then chốt** và **CS-9**; và **corpus_institutions.md** (**CI-4** (*Bổ nhiệm, năng lực, luân chuyển, và cách chức*), **CI-11** (*Quản trị có trách nhiệm tài nguyên và toàn vẹn khuyến khích*), **CI-12** (*Minh bạch, tham gia, và đường dẫn tiếp cận được*), và các mục liên quan khi áp dụng).
 
 ---
 

@@ -27,13 +27,21 @@ A cutoff, lockout, or decision hit you. The office says file a form, wait, or re
 - **Today:** The only door is a specialist portal, a hop count, or “come back when you have a lawyer.”
 - **With this Constitution:** Challenge, review, and being made whole have to work in practice. A file that never finishes is still a refusal.
 
+<<<<<<< HEAD
 See: [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy).
+=======
+See: [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **A good-faith report is not a punishable act.**
 - **Today:** Speaking up costs the lease, the shift, or the next appointment.
 - **With this Constitution:** Good-faith reports must not be punished. The boxed next-step for those running the system is on the same article.
 
+<<<<<<< HEAD
 See: [Article XII-A](../../../core_06_rights_part_c.md#operative-steward-statement-contest).
+=======
+See: [Article XIII-B](../../../core_06_rights_part_c.md#operative-steward-statement-contest).
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **A form on paper is not being made whole.**
 - **Today:** There is an inbox and a policy page. Nobody can actually restore the water, the pay, or the record.
@@ -59,5 +67,5 @@ See: [Chapter Ten §4.1](../../../core_10_standing_integration.md#41-remedy-and-
 ## If you want to look further
 
 - Sibling guides: [`README.md`](README.md#process-guides)
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Chain map: [`../../PROCESS_PIPELINES_READER.md`](../../PROCESS_PIPELINES_READER.md)

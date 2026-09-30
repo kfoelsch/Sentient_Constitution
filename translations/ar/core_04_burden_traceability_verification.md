@@ -53,7 +53,7 @@
 | **4 — حدود الأمن** | حدود الأمن الحقيقية مسموحة؛ الحظر بذريعة غير مسموح | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — ما يُحتسب** | يجب أن يكون الدليل حقيقيًا وكاملًا ومستقلًا ومستدامًا | [§5](#5-compliance-evidence-standard) |
 
-**تيسير اللغة البسيطة.** [الفصل الأول §3.4 — تيسير اللغة البسيطة (واجب المشاركة والإدارة المسؤولة)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) ينطبق على المواد الحوكمية ومواد البتّ في النزاعات والتشغيلية التي تستخدمها الكائنات الواعية لممارسة الحقوق أو الطعن في القرارات أو التحقق من الامتثال. اللغة البسيطة **لا** تغيّر ولا تنقص ما تطلبه الفصول من الثاني إلى الرابع. إذا اختلفت نسخة بلغة بسيطة عن قواعد التعريف أو التحقق هنا، فتلك القواعد تتحكم. استخدام المصطلحات المتخصصة أو التعقيد المتراكم أو الغموض لحجب الوصول إلى [قابلية الطعن](../../core_05_band_accountability.md#contestability) أو إلى [المادة XV: التدقيق والشفافية والتحقق المستقل](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) عدم امتثال تحت هذا الفصل و**الفصل الأول §3.4**.
+**تيسير اللغة البسيطة.** [الفصل الأول §3.4 — تيسير اللغة البسيطة (واجب المشاركة والإدارة المسؤولة)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) ينطبق على المواد الحوكمية ومواد البتّ في النزاعات والتشغيلية التي تستخدمها الكائنات الواعية لممارسة الحقوق أو الطعن في القرارات أو التحقق من الامتثال. اللغة البسيطة **لا** تغيّر ولا تنقص ما تطلبه الفصول من الثاني إلى الرابع. إذا اختلفت نسخة بلغة بسيطة عن قواعد التعريف أو التحقق هنا، فتلك القواعد تتحكم. استخدام المصطلحات المتخصصة أو التعقيد المتراكم أو الغموض لحجب الوصول إلى [قابلية الطعن](../../core_05_band_accountability.md#contestability) أو إلى [المادة XVI: التدقيق والشفافية والتحقق المستقل](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) عدم امتثال تحت هذا الفصل و**الفصل الأول §3.4**.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. متطلب قابلية تتبع التعريف
@@ -128,7 +128,7 @@
 
 - أعلى: مبادئ: [الفصل الرابع، القسم 3 — متطلب قابلية رصد التتبع](#3-observability-of-traceability-requirement)؛ [الفصل الأول، القسم 8.2 — قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
 - أسفل: [الفصل الرابع، القسم 5 — معيار دليل الامتثال](#5-compliance-evidence-standard)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — أنواع المعلومات ومعالجتها**، و**CS-5** — التشفير التشغيلي وبيانات الاعتماد ومعالجة أنواع المعلومات.
-- يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05_band_oversight.md#foreseeability-diligence) — اختيارات التصميم التي تمنع التحقق على نحو متوقَّع تحت شروط متوقَّعة على نحو معقول عدم امتثال بصرف النظر عن مبرّر الأمن المعلَن؛ [الفصل الخامس الحقيقة (قيد دستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint) و[الفصل الخامس السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint) — يجب ألا تحل معالجة التشفير وأنواع المعلومات محل **الأقسام 2** أو **3** أو **5**؛ و**المواد VII-A** و**VII-B** و**XV-A** و**XVI-A** حيث تكون قيود فصل البيئة ذات صلة مادية.
+- يُقرأ مع: [تعريفات الفصل الخامس العنقودية (عناية قابلية التوقع)](../../core_05_band_oversight.md#foreseeability-diligence) — اختيارات التصميم التي تمنع التحقق على نحو متوقَّع تحت شروط متوقَّعة على نحو معقول عدم امتثال بصرف النظر عن مبرّر الأمن المعلَن؛ [الفصل الخامس الحقيقة (قيد دستوري)](../../core_05_band_oversight.md#truth-constitutional-constraint) و[الفصل الخامس السلامة (قيد)](../../core_05_band_continuity.md#safety-constraint) — يجب ألا تحل معالجة التشفير وأنواع المعلومات محل **الأقسام 2** أو **3** أو **5**؛ و**المواد VII-A** و**VII-B** و**XVI-A** و**XVII-A** حيث تكون قيود فصل البيئة ذات صلة مادية.
 
 </details>
 
@@ -196,7 +196,7 @@
 
 - أعلى: [الفصل الثاني — بنية التعريفات ومتطلبات المكوّنات](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [الفصل الثالث — سلامة التعريف والتهرّب وعدم الامتثال](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [الفصل الرابع، الأقسام 1 حتى 5](#1-exclusive-enforcement-and-burden-allocation).
 - أسفل: [الفصل السابع — تصديق مواءمة النظام](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [الفصل الثامن — نموذج الإسهام والانتهاك والوضعية](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- يُقرأ مع: [الفصل السابع §16 — إعادة الفتح وعدم المواءمة ومنع التهرّب](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — يجوز لعدم الامتثال الموثَّق تحت الفصول من الثاني إلى الرابع أن يعيد فتح التصديق أو يهزمه بصرف النظر عن اعتراف سابق.
+- يُقرأ مع: [الفصل السابع §16 — إعادة الفتح وعدم المواءمة ومنع التهرّب](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — يجوز لعدم الامتثال الموثَّق تحت الفصول من الثاني إلى الرابع أن يعيد فتح التصديق أو يهزمه بصرف النظر عن اعتراف سابق.
 
 </details>
 

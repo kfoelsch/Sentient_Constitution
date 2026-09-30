@@ -32,7 +32,7 @@
 *Em termos simples: o Capítulo Sete está partido em dois — a Parte A para como avaliar, a Parte B para o registro e o processo. Leia-os como um só capítulo.*
 
 Leia primeiro a **Parte A** para os requisitos de avaliação; a **Parte B** para o registro, o processo de fórum e a ponte de trajetória.
-Sob a perna de **supervisão** da Tétrade, a supervisão exige auditoria; o Capítulo Sete é um processo de auditoria especialmente grande e de alta aposta entre outros (revisão de alinhamento supervisionada por fórum com resultados de reconhecimento). Os pisos de auditoria permanecem no **Artigo XV** e na [Auditabilidade](core_05_band_oversight.md#auditability) do Capítulo Cinco.
+Sob a perna de **supervisão** da Tétrade, a supervisão exige auditoria; o Capítulo Sete é um processo de auditoria especialmente grande e de alta aposta entre outros (revisão de alinhamento supervisionada por fórum com resultados de reconhecimento). Os pisos de auditoria permanecem no **Artigo XVI** e na [Auditabilidade](core_05_band_oversight.md#auditability) do Capítulo Cinco.
 - [Capítulo Sete, Parte A — Avaliação](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [Capítulo Sete, Parte B — Registro e processo](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

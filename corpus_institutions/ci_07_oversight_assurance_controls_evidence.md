@@ -29,7 +29,7 @@
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Systemic](../core_05_band_accountability.md#systemic) · [O](../core_05_band_accountability.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
+- [Systemic](../core_05_band_continuity.md#systemic) · [O](../core_05_band_continuity.md#systemic) · [M](../core_05_band_continuity.md#systemic-a) · [A](../core_05_band_continuity.md#systemic-a) · [C](../core_05_band_continuity.md#systemic-c)
 - [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Redress and Remediation](../core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](../core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](../core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](../core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [Procedural Fairness](../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../core_05_band_participation.md#procedural-fairness-constitutional-c)
@@ -83,18 +83,18 @@ Reusable disclosure templates are in `implementation/SYSTEMS_IMPLEMENTATION_TEMP
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-7.2**; **CI-8**.
+- Read with: **CI-7.2**; **CI-12**.
 
 </details>
 
 <br>
 
-*In plain terms: sometimes internal review is not enough. When serious incidents, repeated failures, or structural changes create real doubt, the institution must bring in independent outside assurance — and publish the triggers that make that mandatory. If the institution itself is conflicted, captured, missing, or stonewalling, escalation goes to **CI-8**.*
+*In plain terms: sometimes internal review is not enough. When serious incidents, repeated failures, or structural changes create real doubt, the institution must bring in independent outside assurance — and publish the triggers that make that mandatory. If the institution itself is conflicted, captured, missing, or stonewalling, escalation goes to **CI-12**.*
 
 Apply **CJS-3.6** (*integrity assurance and resilience operations*) for the shared external-assurance trigger floor. **CI-7.2** keeps only:
 
 - published trigger criteria (what forces outside review); and
-- **CI-8** escalation duties when the institution cannot credibly commission that review itself.
+- **CI-12** (*Cross-institution coordination and escalation*) escalation duties when the institution cannot credibly commission that review itself.
 
 ## CI-7.3: Contest-integrity monitoring (Class A and Class B)
 <details>
@@ -106,7 +106,7 @@ Apply **CJS-3.6** (*integrity assurance and resilience operations*) for the shar
 - Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-0.1** (*Topic router*); primary owner **CF-11**.
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*); primary owner **CJS-3.6**.
-- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-3.13**.
+- Topic routing (primary owner): **CJS-R15** (*Contest-integrity monitoring (contest-pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-4**, **CF-11**, **CJS-3.13**.
 
 </details>
 

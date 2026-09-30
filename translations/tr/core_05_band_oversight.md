@@ -185,7 +185,7 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - kaynak koruma;
     - soruşturma; ve
     - yayımlama.
-    O işi yapan algılayanlar [İfade](core_05_band_participation.md#expression-constitutional) and [Toplanma](core_05_band_participation.md#assembly-constitutional) Hak Tabanı, şunun altında yükseltilmiş-inceleme korumasıyla [Madde V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, ve Press*) o etkinliği zayıflatmaya yönelik devlet ve işleç eylemlerine karşı.
+    O işi yapan algılayanlar [İfade](core_05_band_participation.md#expression-constitutional) and [Toplanma](core_05_band_participation.md#assembly-constitutional) Hak Tabanı, şunun altında yükseltilmiş-inceleme korumasıyla [Madde V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, ve Press*) o etkinliği zayıflatmaya yönelik devlet ve işleç eylemlerine karşı.
   - **Kapsam dışında:** haber toplama, soruşturma ya da gazetecilik olarak işleyen yayımlama olmayan basın belgeleri, kurumsal unvanlar ya da sıradan ticari konuşma.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
@@ -196,11 +196,11 @@ Bu bant **Gözetim** Dörtlü bacağı altındaki tanımları tutar — şeffafl
     - kaynak koruma;
     - soruşturma; ya da
     - bilgi ortamına hizmet eden yayımlama.
-    Basını gerçek etkisiyle zayıflatan eylemleri saptayın ve basına yönelik niteliği şu altında ağırlaştırıcı etken sayın: **Madde XIII-A** (*Security, Intelligence, ve Covert-Power Limits*) and **Madde V-H** (*Expression, Assembly, ve Press*). Apply heightened [Gereklilik](core_05_band_accountability.md#necessity) and [Orantılılık](core_05_band_accountability.md#proportionality) scrutiny, ve keep any limit narrowly tailored.
+    Basını gerçek etkisiyle zayıflatan eylemleri saptayın ve basına yönelik niteliği şu altında ağırlaştırıcı etken sayın: **Madde XIV-A** (*Security, Intelligence, ve Covert-Power Limits*) and **Madde V-H** (*Expression, Assembly, ve Press*). Apply heightened [Gereklilik](core_05_band_accountability.md#necessity) and [Orantılılık](core_05_band_accountability.md#proportionality) scrutiny, ve keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **Neyin geçerli kalması gerekir**
   - **Birincil başarısızlık:** yükseltilmiş-inceleme sınır çözümlemesini geçemeyen, gazetecilik etkinliğini zayıflatmaya yönelik devlet ya da işleç eylemleri;
-  - **İkincil başarısızlık:** stretching [İyi niyet](core_05_band_accountability.md#good-faith) or **Madde VIII-C** (*Truthful Publication and High-Impact Publication Limits*) öyle ki o standartlar yasal eleştirel haberciliği, soruşturmacı yayımlamayı ya da muhalefeti engellesin;
+  - **İkincil başarısızlık:** stretching [İyi niyet](core_05_band_accountability.md#good-faith) or **Madde IX-C** (*Truthful Publication and High-Impact Publication Limits*) öyle ki o standartlar yasal eleştirel haberciliği, soruşturmacı yayımlamayı ya da muhalefeti engellesin;
   - **Üçüncül başarısızlık:** gazetecilik olarak işleyen haber toplama, soruşturma ya da yayımlama yokken gazetecilik sınavı diye kullanılan belgeler, kurumsal statü ya da sıradan ticari konuşma.
 
 ---
@@ -662,7 +662,7 @@ O kapsamın dışında, tek tek girdiler bütün kümeyi içe aktarmadan kendi b
 
 Kabul kapsamı karşılandığında, bu küme açıklama, denetim, doğrulama (dışarıdan saptanabilirlik dahil) ve güvence derinliği için ortak evdir — İkinci Bölümden Dördüncü Bölüme bir sistemin ne yaptığının ve uyum iddialarının tutulup tutulmadığının izlenebilir, itiraz edilebilir kanıtını gerektirdiğinde.
 
-**Gözetim çerçevesi.** Şunun altında the [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, ve get audit access — owned here and at **Madde XV** (*Audit, Transparency, ve Independent Verification*). [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Yedinci Bölüm](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**Gözetim çerçevesi.** Şunun altında the [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, ve get audit access — owned here and at **Madde XVI** (*Audit, Transparency, ve Independent Verification*). [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [Yedinci Bölüm](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **Sistem sınıfı ve orantılılık.** Transparency, auditability, ve verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — Sistem sınıflaması ve ele alma**, ve with material impact, dependency, ve risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), şunlar dahil:
 - daha derin güvence;
@@ -758,7 +758,7 @@ Bkz. **Ortak çağrı ve karşılama**.
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Aşağı: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Yedinci Bölüm §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Yedinci Bölüm Part B §11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [Yedinci Bölüm Part B §12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, ve contestability*).
+- Aşağı: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Yedinci Bölüm §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Yedinci Bölüm Part B §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [Yedinci Bölüm Part B §12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, ve contestability*).
 - Birlikte oku: [Şeffaflık](core_05_band_oversight.md#transparency), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Risk açıklaması](core_05_band_oversight.md#risk-disclosure), [Kapsam belgesi](core_05_band_continuity.md#charter), [Sistem sınırları](core_05_band_continuity.md#system-boundaries), [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional), [Sistem belgelendirme kaydı](core_05_band_continuity.md#system-certification-record-constitutional), [Sistem sınıflama kaydı](core_05_band_continuity.md#system-classification-record-constitutional), [Sistem veri türleri kaydı](core_05_band_continuity.md#system-data-types-record-constitutional), [Sınıflamaya ölçeklenmiş yönetişim](core_05_band_oversight.md#classification-scaled-governance), ve **[corpus_systems.md](../../corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
@@ -882,8 +882,8 @@ Bkz. **Ortak çağrı ve karşılama**.
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Hesap verebilirlik](core_05_apex_accountability_leg.md#accountability), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity), [Şeffaflık](core_05_band_oversight.md#transparency), [Doğrulanabilirlik](core_05_band_oversight.md#verifiability), [Kanıt koruma](core_05_band_oversight.md#evidence-preservation), ve [Değerlendirme tamamlama kısıtı](core_05_band_oversight.md#evaluation-completeness-constraint).
-- Birlikte oku: **Madde XV** (*Audit, Transparency, ve Independent Verification*); [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- Yönetici kapısı (işlemsel değil): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Madde XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Madde XV](../../core_06_rights_part_c.md#audit-three-layers).
+- Birlikte oku: **Madde XVI** (*Audit, Transparency, ve Independent Verification*); [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
+- Yönetici kapısı (işlemsel değil): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Madde XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Madde XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1076,7 +1076,7 @@ Bkz. **Ortak çağrı ve karşılama**.
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Küme bileşeni: [Def.O1 Şeffaflık, denetlenebilirlik ve doğrulama](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Sahip tabanı: [Madde XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Sahip tabanı: [Madde XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - Birlikte oku: [Denetlenebilirlik](core_05_band_oversight.md#auditability), [Şeffaflık](core_05_band_oversight.md#transparency), [İtiraz edilebilirlik](core_05_band_accountability.md#contestability), [Orantılılık](core_05_band_accountability.md#proportionality), [Uygulanabilirlik](core_05_band_accountability.md#feasibility), [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1088,7 +1088,7 @@ Bkz. **Ortak çağrı ve karşılama**.
 - **Nedir**
   - **Kapsamda:** Whether system behavior, outputs, ve effects can be externally detected, measured, ve independently validated for [Denetlenebilirlik](core_05_band_oversight.md#auditability). Constitutive conditions:
     - bağımsız doğrulamadan önce dışarıdan saptanabilirlik sayılır;
-    - practical access ([Madde XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Uygulanabilirlik](core_05_band_accountability.md#feasibility));
+    - practical access ([Madde XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Uygulanabilirlik](core_05_band_accountability.md#feasibility));
     - işleç öz-iddiasından bağımsızlık;
     - proportionate burden under [Orantılılık](core_05_band_accountability.md#proportionality) and [Maddi etki](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1113,7 +1113,7 @@ Bkz. **Ortak çağrı ve karşılama**.
   - **İkincil ölçü:** [Gözetim ölçüm ailesi](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Algılayanlar sistemlerin temsil ettiğini görebilir, doğrulayabilir ve ona bel bağlayabilir mi?* Bunu burada şunu sormak için kullanın: observed behavior can be independently validated by reproducible methods in practice.
 
     **İkincil değerlendirme:** Bağımsız doğrulamayı şu yöntemlerle doğrulayın:
-    - affected and appropriately authorized parties can actually perform ([Madde XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [Uygulanabilirlik](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Madde XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Uygulanabilirlik](core_05_band_accountability.md#feasibility));
     - dışarıdan saptanabilir kanıta dayanın — iç iddialara ya da çıkarsanmış niyete değil;
     - are sized to system impact under [Orantılılık](core_05_band_accountability.md#proportionality) and [Maddi etki](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, ve [Karşıt, ölçeklenmiş ve sömürülen koşullar](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1226,7 +1226,7 @@ Bu iç içe alt-blok, Def.O2 *Doğruluk ve epistemik bütünlük* içindeki yay�
     from good-faith observation and bounded interpretation, under [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint) and [İyi niyet](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **Neyin geçerli kalması gerekir**
-  - Good-faith publication of observations, evidence, ve bounded interpretations is governed by On Birinci Bölüm **Articles VIII**, **XII**, ve **XIII** as applicable and must satisfy this cluster jointly under [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), [İyi niyet](core_05_band_accountability.md#good-faith), ve [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, ve bounded interpretations is governed by On Birinci Bölüm **Articles IX**, **XIII**, ve **XIV** as applicable and must satisfy this cluster jointly under [Doğruluk (Anayasal kısıt)](core_05_band_oversight.md#truth-constitutional-constraint), [İyi niyet](core_05_band_accountability.md#good-faith), ve [Epistemik bütünlük](core_05_band_oversight.md#epistemic-integrity).
   - **Birincil başarısızlık:** bilerek yanlış yayımlama, ya da şuna pervasız kayıtsızlıkla yapılan yayımlama:
     - doğruluk;
     - belirsizlik;

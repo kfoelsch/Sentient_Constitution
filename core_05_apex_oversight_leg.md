@@ -12,8 +12,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (oversight leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
-- Downstream: Principles: [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in [core_05_band_oversight.md](core_05_band_oversight.md).
+- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (oversight leg; [material stake](core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](core_00_preamble.md#flourishing).
+- Downstream: Principles: [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in [core_05_band_oversight.md](core_05_band_oversight.md).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [*Material Impact, Materiality Determination, Classification-Scaled Governance, Oversight, and Capability Requirement*](core_05_band_oversight.md#materiality-semi-independent), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [System Capture](core_05_band_continuity.md#system-capture), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and Oversight measurement family.
 
@@ -26,14 +26,14 @@
 *In plain terms: watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.*
 
 <a id="oversight-constitutional"></a>
+<a id="oversight"></a>
 
-#### Oversight
-
-- O: Watch systems, check them, and keep them within bounds — the Tetrad leg this entry names.
+- **What it is**
+  - Watch systems, check them, and keep them within bounds — the Tetrad leg this entry names.
   - **In scope:**
     - watching, checking, verifying, and constraining how systems behave, done by [Stakeholders](core_05_band_participation.md#stakeholder), independent actors, or institutions, and spread out where that is workable;
     - purpose: catch and fix non-compliance, and support informed [Governance](core_05_band_accountability.md#governance);
-    - oversight requires [Auditability](core_05_band_oversight.md#auditability) and related audit instruments under **Article XV** (*Audit, Transparency, and Independent Verification*);
+    - oversight requires [Auditability](core_05_band_oversight.md#auditability) and related audit instruments under **Article XVI** (*Audit, Transparency, and Independent Verification*);
     - how much oversight is required scales with [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk); and
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process under that requirement — not the only auditing process.
   - **Depends on:** the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition):
@@ -47,18 +47,20 @@
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) as one high-stakes audit process among others —
     those sit under their own homes; this leg is not the leaf stack, and SAC is not the sole content of oversight.
 <a id="oversight-constitutional-m"></a>
-- M: How to tell whether systems can actually be watched, checked, and kept within bounds. This entry only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition).
 <a id="oversight-constitutional-a"></a>
-- A:
-  - Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake).
-  - Ask whether oversight is real — able to see problems and change outcomes — not just ceremony.
+- **How to measure and assess**
+  - **Primary measure:** How to tell whether systems can actually be watched, checked, and kept within bounds. This entry only names what to look at; the rules for how to measure live on each linked definition. Topic map: [Tetrad Leg decomposition](#oversight-tetrad-leg-decomposition).
+  - **Primary assessment:**
+    - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
+    - Ask whether oversight is real — able to see problems and change outcomes — not just ceremony.
 <a id="oversight-constitutional-c"></a>
-- C: Non-compliant when:
-  - there is no real oversight path where one is materially required;
-  - oversight cannot actually change outcomes;
-  - the supervised system alone controls the oversight;
-  - labels or ceremonies with no real change to governed behavior; or
-  - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the sole auditing process.
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - there is no real oversight path where one is materially required;
+    - oversight cannot actually change outcomes;
+    - the supervised system alone controls the oversight;
+    - labels or ceremonies with no real change to governed behavior; or
+    - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) treated as the sole auditing process.
 
 ---
 
@@ -99,9 +101,9 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 <br>
 
-*In plain terms: these questions ask whether sentients can see, verify, and rely on what high-impact systems represent. This is the Chapter Five home for the Oversight measurement family; Preamble §2 keeps the plain-language category question, and the family table and definition routing live here.*
+*In plain terms: these questions ask whether sentients can see, verify, and rely on what high-impact systems represent. This is the Chapter Five home for the Oversight measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
-*Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](../core_00_preamble.md#material-stake).
+*Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|

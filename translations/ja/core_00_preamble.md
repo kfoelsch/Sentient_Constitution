@@ -42,7 +42,7 @@
 
 これらの目的は、つねにこの憲法が定める交渉不能の原則制約と権利保護の内側で、ともに追求されなければならない。[**憲法四元**](#constitutional-tetrad)は、その追求がどのように正当性を保つかを統治する。[**実質的利害**](#material-stake)に応じて尺度を合わせた**参加**、**監督**、**説明責任**、**適時性**である。四元の各脚と憲法上の目的の拘束力ある定義は第五章にある。[参加](core_05_apex_participation_leg.md#participation-constitutional)、[監督](core_05_apex_oversight_leg.md#oversight-constitutional)、[説明責任](core_05_apex_accountability_leg.md#accountability)、[適時性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁栄](core_05_apex_flourishing_aim.md#flourishing-constitutional)、[継続](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. 測定の概観
@@ -86,7 +86,7 @@
 
 憲法が具体的な測定規則を求めるとき、[第十一章](core_11_forum.md#42-technical-forum-domains)のもとにある**技術フォーラム領域**が、共有標準 — どう測るか、どう試験するか、何が信頼できる証拠か — を策定し、維持する。所与の紛争を担当するフォーラムは、[第十一章 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement)のもとでその事件を決めるときに、それらの標準を適用する。
 
-憲法上の責務ある管理は、問題と[**実質的利害**](#material-stake) — どれだけの影響、依存、リスクが関わるか — を名指しすることから始まる。次に、[概観](#2-the-measurements)から関連する[**測定**](#2-the-measurements)カテゴリーと下位カテゴリーを選び、上記の標準を適用して、都合のよい指標ではなく現実世界の効果を試験する。たどれる証拠を求める。
+憲法上の責務ある管理は、問題と[**実質的利害**](#material-stake) — どれだけの影響、依存、リスクが関わるか — を名指しすることから始まる。次に、[概観](#2-measurements-overview)から関連する[**測定**](#2-measurements-overview)カテゴリーと下位カテゴリーを選び、上記の標準を適用して、都合のよい指標ではなく現実世界の効果を試験する。たどれる証拠を求める。
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 主要な統治過程
@@ -101,7 +101,7 @@
 - **フォーラム審査**（[第十一章](core_11_forum.md#1-purpose-and-role)）
   - すでに授権されたシステムの内部の通常の紛争は、まず公表された[影響を受ける側のシステム参加](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)の異議経路を用いる
   - その経路がなお争われている、欠けている、捕捉されている、または救済を与えられない場合、第一次利害に従って監督されたフォーラムへ経路づける
-  - それらのフォーラムは、**第 XXIV-C 条**（《適時解決と遅延防止の床》）のもとで、証拠、適法な移送、適時の時計を支える
+  - それらのフォーラムは、**第 XXV-C 条**（《適時解決と遅延防止の床》）のもとで、証拠、適法な移送、適時の時計を支える
 
 <a id="33-governance-layers"></a>
 #### 3.3 統治の層
@@ -157,7 +157,7 @@
 
 **第六章 — 基礎権利**（[A部](../../core_06_rights_part_a.md) · [B部](../../core_06_rights_part_b.md) · [C部](../../core_06_rights_part_c.md) · [D部](../../core_06_rights_part_d.md)）
 
-- **その職掌：** 第 **I–XXVI** 条で権利の床を述べる — 生存の必需、資源配分と依存の責務ある管理、尊厳、行為主体性、参加、異議と救済、正義の制約、**第 XXIV-C 条**（《適時解決と遅延防止の床》）のもとでの適時性、移行規則 — 惑星優先の読みのために四部に編成する。
+- **その職掌：** 第 **I–XXVII** 条で権利の床を述べる — 生存の必需、資源配分と依存の責務ある管理、尊厳、行為主体性、参加、異議と救済、正義の制約、**第 XXV-C 条**（《適時解決と遅延防止の床》）のもとでの適時性、移行規則 — 惑星優先の読みのために四部に編成する。
 - **その産出：** 交渉不能の権利保護と救済フック。第七から第十一章、フォーラム、統治、改正規則はこれを尊重しなければならない — 手続や代替指標によって狭め、迂回し、空洞化してはならない。
 
 <a id="5-key-practical-process-pipelines"></a>
@@ -187,7 +187,7 @@
 
 - **その職掌：** 検証済み分類を、現実世界の**軌跡効果**に、別軌道で統合する — [**実質的利害**](#material-stake)に応じて尺度を合わせ、貢献と違反を一つの純得点に折り畳まず、参加、監督、説明責任、適時性を空洞化しない。
   - **貢献軌道：** 検証済みの肯定分類は、実務上の上側を生む：
-    - [**能力許可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)は、公表された能力の閾に照らして能力が示され、適用される[軌跡ロック](../../core_10_standing_integration.md#42-general-standing-locks)が指名された経路を塞がないとき、信頼に敏感な役割、委任された権限、監督適格、段階的に結果の伴う責務ある管理を開きうる
+    - [**能力許可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)は、公表された能力の閾に照らして能力が示され、適用される[軌跡ロック](../../core_10_standing_integration.md#42-prevention--general-standing-locks)が指名された経路を塞がないとき、信頼に敏感な役割、委任された権限、監督適格、段階的に結果の伴う責務ある管理を開きうる
     - [第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)が求める、適法な責務ある管理と協力に対する比例的承認と**実質的報酬**
     - 空の称賛ではない。便益は実際であり、証拠に支えられ、異議に開かれていなければならない
   - **違反軌道：** 検証済みの違反認定は、実務上の下側を生む：
@@ -211,7 +211,7 @@
   - 証拠がどう支えられるか
   - 事項がどう移送され、または併合されるか
   - 自己裁定禁止の規則が、捕捉されたフォーラムが唯一の最終本拠になるのをどう防ぐか
-  - **第 XXIV-C 条**（《適時解決と遅延防止の床》）のもとでの時計が、救済がもう意味を持たなくなるほど長く事件が未解決のまま座るのを防ぐ
+  - **第 XXV-C 条**（《適時解決と遅延防止の床》）のもとでの時計が、救済がもう意味を持たなくなるほど長く事件が未解決のまま座るのを防ぐ
 - **その産出：** 軌跡記録を開き、または更新しうる**検証済み認定**、加えて救済と[適時解決](../../core_05_band_accountability.md#timely-resolution-constitutional)へ向かう適法な経路づけ。フォーラムはパイプラインを監督する。第八章の軌跡測定を置き換えない。
 
 <a id="51-how-the-full-chain-fits-together"></a>
@@ -225,7 +225,7 @@
    - **違反の性質：** **違反軌跡記録**を開く — 検証済みの危害と説明責任の失敗についての、有界で異議可能な事件ファイル — 違反軸上で**違反の性質**を分類する。善と危害は決して一つの純得点に折り畳まれない。結びついた記録は相互参照するが、分かれたままである。
 3. **各軌道に軌跡効果を適用する**（[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)） — 検証済み貢献は能力許可を与え、比例的承認と実質的報酬を支えうる。検証済み違反は軌跡ロック、是正、[危害を受けた者への救済](../../core_10_standing_integration.md#41-remedy-and-correction)を引き起こしうる。
 4. **反憲法的指定の審査**（[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)） — 最高影響の違反認定が反憲法的基準も満たしうる場合、第十章は対応する指定が付着するかを決める。指定は、第八章がすでに認定した危害の重大さを変えない。第九章の通常効果は並行して続き、最終指定が反憲法的信頼ロックを引き起こすまで続く。
-5. **紛争を経路づけ、救済を適時に保つ**（[第十一章](core_11_forum.md#1-purpose-and-role)） — フォーラムは、事件がどう動くか、どの軌道が扱うか、**第 XXIV-C 条**（《適時解決と遅延防止の床》）のもとでの時計が満たされ、救済が遅れで死なないかを監督する。通常の紛争は[紛争の順序付け](core_11_forum.md#dispute-sequencing)に従う。フォーラムはまた、紛争を五つの[実質性階層](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P）に分類する。システム分類の字母を鏡にする — 生存危機の緊急から私的/封じ込められた事項まで — 第十章の最終指定が第一次利害であるときは、誠実性ファミリーの既定経路づけが適用される。
+5. **紛争を経路づけ、救済を適時に保つ**（[第十一章](core_11_forum.md#1-purpose-and-role)） — フォーラムは、事件がどう動くか、どの軌道が扱うか、**第 XXV-C 条**（《適時解決と遅延防止の床》）のもとでの時計が満たされ、救済が遅れで死なないかを監督する。通常の紛争は[紛争の順序付け](core_11_forum.md#dispute-sequencing)に従う。フォーラムはまた、紛争を五つの[実質性階層](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P）に分類する。システム分類の字母を鏡にする — 生存危機の緊急から私的/封じ込められた事項まで — 第十章の最終指定が第一次利害であるときは、誠実性ファミリーの既定経路づけが適用される。
 
 [README の軌跡パイプライン地図](../../README.md#standing-pipeline-and-forums)は、上記の鎖の直接案内を提供する。第七章から軌跡測定へ入りうる検証済み入力を含む。
 

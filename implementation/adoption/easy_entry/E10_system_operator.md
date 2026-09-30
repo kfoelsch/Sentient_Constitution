@@ -47,7 +47,7 @@ See: [FIT_SITUATIONS.md §4.2](../FIT_SITUATIONS.md#42-high-impact-system-operat
 - **Today:** A deadline, a bonus, or “ignore it, I’ll take responsibility” shows up. Legal wants a one-way AI extra rulebook. The model is constrained; humans keep a way to skip the rules.
 - **With this Constitution:** Bonus, deadline, and cover instructions are failed tests for both kinds of operator.
 
-See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard).
+See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard).
 
 **Check the system before others have to rely on it at scale.**
 - **Today:** Ship, then staff a trust team.
@@ -59,13 +59,17 @@ See: [Chapter Eight](../../../core_08_a_system_alignment_certification_evaluatio
 - **Today:** Intake is a maze, or only insiders can open a ticket.
 - **With this Constitution:** Challenge, review, and redress are a basic protection, on a clock.
 
+<<<<<<< HEAD
 See: [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Article XXIV-C](../../../core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge).
+=======
+See: [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Article XXV-C](../../../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge).
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **Labor is not a classification trick.**
 - **Today:** Contractors, gigs, and AIs sit outside the floor.
 - **With this Constitution:** Anyone who contributes productive work holds fair compensation, collective organization, safe conditions, and rest — for everyone, not only humans.
 
-See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor).
+See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 ## What you might reasonably object to
 
@@ -88,7 +92,7 @@ See: [Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-e
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Day-to-day next step: [`../../STEWARD_ENTRY_DOORS.md`](../../STEWARD_ENTRY_DOORS.md)
 - Sibling briefs: [`README.md`](README.md) — [E08](E08_small_business_owner.md); [E07](E07_synthetic_sentient.md) if an AI operator is in the crew; [E16](E16_worker_not_owner.md) if you work there and do not own the shop
 - Fit map: [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md)

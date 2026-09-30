@@ -26,7 +26,8 @@ Optional longer sitting (not in the generated file): Chapter Six parts [A](../co
 
 | File | Job |
 |---|---|
-| [`../START_HERE.md`](../START_HERE.md) | Public door and timed reading paths |
+| [`../README.md`](../README.md) | Public door and timed reading paths |
+| [`../START_HERE.md`](../START_HERE.md) | Start page for would-be adopters and operators |
 | [`adoption/easy_entry/README.md`](adoption/easy_entry/README.md) | Situation briefs |
 | [`FAQ.md`](FAQ.md) | Everyday questions |
 | [`doc_architecture/generated/print_pack.md`](../doc_architecture/generated/print_pack.md) | One-file generated pack |

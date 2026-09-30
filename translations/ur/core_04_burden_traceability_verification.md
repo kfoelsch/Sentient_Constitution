@@ -53,7 +53,7 @@
 | **4 — سیکیورٹی حدیں** | حقیقی سیکیورٹی حدیں اجازت ہیں؛ بہانے کی رکاوٹیں نہیں | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — کیا گنا جاتا ہے** | ثبوت حقیقی، مکمل، آزاد، اور قائم رہنا چاہیے | [§5](#5-compliance-evidence-standard) |
 
-**سادہ زبان کی رسائی۔** [باب یکم §3.4 — سادہ زبان کی رسائی پذیری (شرکت اور ذمہ دارانہ انتظام کا فرض)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) حکمرانی، فیصلہ جاتی، اور عملی مواد پر لاگو ہوتا ہے جسے شعوری وجود حقوق استعمال کرنے، فیصلے چیلنج کرنے، یا اطاعت تصدیق کرنے کے لیے استعمال کرتے ہیں۔ سادہ زبان باب دوم تا چہارم کے تقاضے **نہیں** بدلتی یا گھٹاتی۔ اگر سادہ زبان کا نسخہ یہاں تعریف یا تصدیق قواعد سے اختلاف کرے، وہ قواعد قابو رکھتے ہیں۔ اصطلاحات، تہ دار پیچیدگی، یا دھند استعمال کر کے [چیلنج پذیری](../../core_05_band_accountability.md#contestability) یا [دفعہ XV: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) کی رسائی روکنا اس باب اور **باب یکم §3.4** کے تحت عدمِ اطاعت ہے۔
+**سادہ زبان کی رسائی۔** [باب یکم §3.4 — سادہ زبان کی رسائی پذیری (شرکت اور ذمہ دارانہ انتظام کا فرض)](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) حکمرانی، فیصلہ جاتی، اور عملی مواد پر لاگو ہوتا ہے جسے شعوری وجود حقوق استعمال کرنے، فیصلے چیلنج کرنے، یا اطاعت تصدیق کرنے کے لیے استعمال کرتے ہیں۔ سادہ زبان باب دوم تا چہارم کے تقاضے **نہیں** بدلتی یا گھٹاتی۔ اگر سادہ زبان کا نسخہ یہاں تعریف یا تصدیق قواعد سے اختلاف کرے، وہ قواعد قابو رکھتے ہیں۔ اصطلاحات، تہ دار پیچیدگی، یا دھند استعمال کر کے [چیلنج پذیری](../../core_05_band_accountability.md#contestability) یا [دفعہ XVI: آڈٹ، شفافیت اور آزاد تصدیق](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) کی رسائی روکنا اس باب اور **باب یکم §3.4** کے تحت عدمِ اطاعت ہے۔
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. تعریف سراغ کا تقاضا
@@ -128,7 +128,7 @@
 
 - بالائی: اصول: [باب چہارم، قطعہ 3 — سراغ کی مشاہدہ پذیری کا تقاضا](#3-observability-of-traceability-requirement)؛ [باب یکم، قطعہ 6.2 — حقائق کے انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)۔
 - زیریں: [باب چہارم، قطعہ 5 — اطاعت ثبوت کا معیار](#5-compliance-evidence-standard)؛ [corpus_systems.md](../../corpus_systems.md)، **CS-2 — معلومات کی اقسام اور ہینڈلنگ**، اور **CS-5** — عملی رمز نگاری، اسناد، اور معلومات کی قسم ہینڈلنگ۔
-- ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05_band_oversight.md#foreseeability-diligence) — ڈیزائن انتخاب جو معقول طور پر پیش بینی کے قابل شرائط کے تحت تصدیق کو پیش بینی کے قابل طور پر روکیں بیان کردہ سیکیورٹی جواز سے قطع نظر عدمِ اطاعت ہیں؛ [باب پنجم سچائی (آئینی پابندی)](../../core_05_band_oversight.md#truth-constitutional-constraint) اور [باب پنجم حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint) — رمز نگاری اور معلومات کی قسم ہینڈلنگ **قطعوں 2**، **3**، یا **5** کی جگہ نہیں لے سکتی؛ **Articles VII-A**، **VII-B**، **XV-A**، اور **XVI-A** جہاں ماحول علیحدگی پابندیاں مادی ہوں۔
+- ساتھ پڑھیں: [باب پنجم کی جھرمٹ تعریفیں (پیش بینی کی مستعدی)](../../core_05_band_oversight.md#foreseeability-diligence) — ڈیزائن انتخاب جو معقول طور پر پیش بینی کے قابل شرائط کے تحت تصدیق کو پیش بینی کے قابل طور پر روکیں بیان کردہ سیکیورٹی جواز سے قطع نظر عدمِ اطاعت ہیں؛ [باب پنجم سچائی (آئینی پابندی)](../../core_05_band_oversight.md#truth-constitutional-constraint) اور [باب پنجم حفاظت (پابندی)](../../core_05_band_continuity.md#safety-constraint) — رمز نگاری اور معلومات کی قسم ہینڈلنگ **قطعوں 2**، **3**، یا **5** کی جگہ نہیں لے سکتی؛ **Articles VII-A**، **VII-B**، **XVI-A**، اور **XVII-A** جہاں ماحول علیحدگی پابندیاں مادی ہوں۔
 
 </details>
 
@@ -196,7 +196,7 @@
 
 - بالائی: [باب دوم — تعریف کی ساخت اور اجزا کے تقاضے](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements)؛ [باب سوم — تعریف کی سالمیت، فرار، اور عدمِ اطاعت](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance)؛ [باب چہارم، قطعے 1 تا 5](#1-exclusive-enforcement-and-burden-allocation)۔
 - زیریں: [باب ہفتم — نظام ہم آہنگی سرٹیفیکیشن](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)؛ [باب ہشتم — شراکت، خلاف ورزی، اور کیفیت کا ماڈل](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)۔
-- ساتھ پڑھیں: [باب ہفتم §16 — دوبارہ کھولنا، عدمِ ہم آہنگی، اور فرار مخالف](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — باب دوم تا چہارم کے تحت تصدیق شدہ عدمِ اطاعت پہلے تسلیم سے قطع نظر سرٹیفیکیشن دوبارہ کھول یا ہرا سکتی ہے۔
+- ساتھ پڑھیں: [باب ہفتم §16 — دوبارہ کھولنا، عدمِ ہم آہنگی، اور فرار مخالف](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — باب دوم تا چہارم کے تحت تصدیق شدہ عدمِ اطاعت پہلے تسلیم سے قطع نظر سرٹیفیکیشن دوبارہ کھول یا ہرا سکتی ہے۔
 
 </details>
 

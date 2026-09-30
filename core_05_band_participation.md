@@ -12,7 +12,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: Participation-band canonical definition homes for Chapter Five.
 - Read with: **Participation** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -46,7 +46,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article V-G](core_06_rights_part_b.md#article-v-g-accessibility) (*Accessibility*). Cross-cutting evaluation-factor hook: [Chapter Eight §3.2](core_08_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion). Education-specific accessibility remains governed by [Article III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*) and is not narrowed by this entry.
+- Owner floor: [Article VI-D](core_06_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*). Cross-cutting evaluation-factor hook: [Chapter Eight §3.2](core_08_a_system_alignment_certification_evaluation.md#32-accessibility-under-sentience-non-exclusion). Education-specific accessibility remains governed by [Article IV-A](core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*) and is not narrowed by this entry.
 - Downstream: Participation measurement family (*Accessibility as constitutional measurement*); [Chapter Eight §8](core_08_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) (*accessibility evaluation where certification gates substantive participation*).
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §2.1.1 Access and Opportunity](core_01_a_values_principles.md#211-access-and-opportunity).
 - Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Participation](core_05_apex_participation_leg.md#participation-constitutional), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
@@ -78,7 +78,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - compute-interface; and
     - comparable profiles.
   - **Out of scope:** ordinary default designs that do not create a real gap in participation capacity.
-  - Not narrowed here: domains owned elsewhere — especially educational accessibility under [Article III-B](core_06_rights_part_a.md#article-iii-b-equal-educational-access) (*Equal Educational Access*).
+  - Not narrowed here: domains owned elsewhere — especially educational accessibility under [Article IV-A](core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*).
 <a id="accessibility-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether affected sentients can actually take part — not whether a default interface or a paper accommodation merely exists.
@@ -118,7 +118,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: the set of sentients this Constitution actually governs — not a private club, brand, or guest list.*
 
 - **What it is**
-  - **In scope:** The collective of sentients governed by this Constitution. Chapter Six Rights Floors and **Article X-A** (*Non-Imposition and Consent in Association*) cooperative norms apply inside this community, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
+  - **In scope:** The collective of sentients governed by this Constitution. Chapter Six Rights Floors and **Article XI-F** (*Non-Imposition and Consent in Association*) cooperative norms apply inside this community, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
   - **Out of scope:** private clubs, brands, guest lists, or other social circles that are not the set of sentients this Constitution actually governs.
 <a id="constitutional-community-a"></a>
 - **How to measure and assess**
@@ -138,8 +138,8 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Article V-A: Dignity and Equal Moral Standing](core_06_rights_part_b.md#article-v-a-dignity-and-equal-moral-standing); [Article V-B: Nondiscrimination](core_06_rights_part_b.md#article-v-b-nondiscrimination).
-- Cluster component: [*Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05_band_participation.md#fairness-and-protected-status-semi-independent)*
+- Downstream: Principles: [Article VI-A: Dignity and Equal Moral Standing](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing); [Article VI-C: Nondiscrimination](core_06_rights_part_b.md#article-vi-c-nondiscrimination).
+- Cluster component: [*Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status](core_05_band_participation.md#fairness-and-protected-status-semi-independent)*
 - Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Self-Determination](core_05_band_participation.md#self-determination-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 
 </details>
@@ -162,7 +162,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     **Primary assessment:** Spot differential treatment, exclusion, or humiliation that is not justified under [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Materiality Determination](core_05_band_oversight.md#materiality-determination), and systemic evaluation requirements.
 <a id="dignity-and-equal-moral-standing-c"></a>
 - **What must hold**
-  - **Primary failure:** Denial of equal standing or degradation of dignity where Articles V-A, I-B, and I-C, or binding equality norms apply is non-compliant — including where the conduct also violates [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) or defeats constitutionally required [Self-Determination](core_05_band_participation.md#self-determination-constitutional).
+  - **Primary failure:** Denial of equal standing or degradation of dignity where Articles VI-A, I-B, and I-C, or binding equality norms apply is non-compliant — including where the conduct also violates [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) or defeats constitutionally required [Self-Determination](core_05_band_participation.md#self-determination-constitutional).
 
 ---
 
@@ -261,8 +261,8 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
     - [Trust](core_05_band_continuity.md#trust);
     - survival-relevant coordination;
-    - **Article XIV** (*Info-Sphere Integrity*) info-sphere protections; and
-    - **Article XV-A** (*Auditability and Observable Evidence*) auditability protections.
+    - **Article XV** (*Info-Sphere Integrity*) info-sphere protections; and
+    - **Article XVI-A** (*Auditability and Observable Evidence*) auditability protections.
   - **Out of scope:** a private inbox, personal notes, or an isolated device that is not the shared information environment others depend on.
 <a id="info-sphere-a"></a>
 - **How to measure and assess**
@@ -282,7 +282,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine — §4 LEQU baseline](core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [§7 unified proportional LEQU scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale) for the Contribution and Violation axes.
+- Canonical owner: [Chapter Nine — §4 LEQU baseline](core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Chapter Nine §7 unified proportional LEQU scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) for the Contribution and Violation axes.
 
 </details>
 
@@ -291,16 +291,16 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: a shared unit for expressing full-life-equivalent benefit or loss when Chapter Nine standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.*
 
 - **What it is**
-  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Nine §7 unified scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale). Chapter Five pointer; canonical mechanics live in Chapter Nine **§7**.
+  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Chapter Nine §7 unified scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Five pointer; canonical mechanics live in Chapter Nine **§7 Unified proportional LEQU scale — Contribution and Violation Axes**.
   - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Nine unified scale.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether LEQU is applied only as Chapter Nine's unified scale requires — with contribution and violation kept separate and auditable.
 
-    **Primary assessment:** Apply **only** as implemented consistently with the Chapter Nine **§7 unified scale**, preserving separate contribution and violation records. Read with [Materiality Determination](core_05_band_oversight.md#materiality-determination) where magnitude disputes are material.
+    **Primary assessment:** Apply **only** as implemented consistently with the Chapter Nine **§7** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified scale, preserving separate contribution and violation records. Read with [Materiality Determination](core_05_band_oversight.md#materiality-determination) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **What must hold**
-  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Nine **§7 unified-scale** calibration rules.
+  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Nine **§7** (*Unified proportional LEQU scale — Contribution and Violation Axes*) unified-scale calibration rules.
 
 ---
 
@@ -327,7 +327,7 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether life-supporting natural systems' continuity and integrity interests are counted in interpretation and governance — not dismissed as scenery or stockpile — and whether a published representative may bring those interests to an Environment forum in the system's own interest.
 
-    **Primary assessment:** Align with [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Harm](core_05_band_accountability.md#harm), and [Risk](core_05_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Twelve §4.4](core_12_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-5** — appointment, recusal, and publication rules must implement, not narrow, that floor.
+    **Primary assessment:** Align with [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Harm](core_05_band_accountability.md#harm), and [Risk](core_05_band_continuity.md#risk). **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and implementation protocols supply operational measures and must not narrow this recognition. [Chapter Twelve §4.4 Environment forums](core_12_forum.md#44-environment-forums) states the Environment-forum filing floor; **CF-5** — appointment, recusal, and publication rules must implement, not narrow, that floor.
 <a id="natural-systems-standing-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -344,12 +344,12 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 *In plain terms: do not force beliefs or trap unwanted contact on others in associational life. Patterned harassment, bullying, or unreasonable attention-capture that degrades dignity, safety, equal participation, or agency is out of bounds.*
 
 - **What it is**
-  - **In scope:** Where **Article X-A** (*Non-Imposition and Consent in Association*) applies, the obligation not to force beliefs or unwanted communications on others through coercive or manipulative means in associational life. Also bars patterned [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) or unreasonable capture of attention or sustained interruption that materially degrades:
+  - **In scope:** Where **Article XI-F** (*Non-Imposition and Consent in Association*) applies, the obligation not to force beliefs or unwanted communications on others through coercive or manipulative means in associational life. Also bars patterned [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) or unreasonable capture of attention or sustained interruption that materially degrades:
     - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
     - [Safety (Constraint)](core_05_band_continuity.md#safety-constraint);
     - equal participation; or
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
-    This entry preserves [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Consent](core_05_band_participation.md#consent-constitutional), and **Article X-A** cooperative norms.
+    This entry preserves [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Consent](core_05_band_participation.md#consent-constitutional), and **Article XI-F** cooperative norms.
   - **Out of scope:** ordinary avoidable advertising, ordinary disagreement, or voluntary persuasion that does not coerce or trap attention.
 <a id="non-imposition-cooperative-interaction-a"></a>
 - **How to measure and assess**
@@ -363,8 +363,61 @@ Independent Definitions meta rules live in [core_05__definitions_home.md](core_0
 <a id="non-imposition-cooperative-interaction-c"></a>
 - **What must hold**
   - **Primary failure:**
-    - forcing beliefs or unwanted messages on others through coercion or manipulation, contrary to **Article X-A** (*Non-Imposition and Consent in Association*); or
-    - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), or unreasonable attention-capture or sustained interruption, that materially degrades dignity, safety, equal participation, or agency — contrary to **Article X-A** (*Non-Imposition and Consent in Association*) and **Article IX-A** (*Agency and Freedom from Manipulation*).
+    - forcing beliefs or unwanted messages on others through coercion or manipulation, contrary to **Article XI-F** (*Non-Imposition and Consent in Association*); or
+    - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), or unreasonable attention-capture or sustained interruption, that materially degrades dignity, safety, equal participation, or agency — contrary to **Article XI-F** (*Non-Imposition and Consent in Association*) and **Article X-A** (*Agency and Freedom from Manipulation*).
+
+---
+
+<a id="personhood"></a>
+
+#### Personhood
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Article VI-A: Dignity and Equal Moral Standing](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing); [Article VII-A: Self-Ownership of Body](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); Chapter Six **Part B** Rights Floors (**Articles VI–XII**).
+- Read with: [Sentient](core_05_band_participation.md#sentient), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Constitutional Community](core_05_band_participation.md#constitutional-community), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing).
+
+</details>
+
+<br>
+
+*In plain terms: personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation.*
+
+- **What it is**
+  - **In scope:** The constitutional standing of a [Sentient](core_05_band_participation.md#sentient) as a holder of rights in its own right — a subject of this Constitution, not an object, resource, or instrument of others. Personhood:
+    - attaches to every [Sentient](core_05_band_participation.md#sentient), equally, under [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
+    - carries full Chapter Six Rights-Floor attachment and membership in [Constitutional Community](core_05_band_participation.md#constitutional-community); and
+    - includes standing to hold one's own rights and to contest their denial through [Contestability](core_05_band_accountability.md#contestability).
+  - **Boundary — who holds it:** Who holds personhood is settled only by [Sentient](core_05_band_participation.md#sentient) and the who-counts rules of [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster). Personhood:
+    - adds no separate test, threshold, or evidence burden;
+    - is not a tier of [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) — it names the standing that affirmed [Sentient](core_05_band_participation.md#sentient) status carries; and
+    - remains subject to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Boundary — capability:** [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) and **Developing Sentient** rules may scale how rights are exercised. They do not scale, suspend, or divide personhood.
+  - **Out of scope:**
+    - legal personality or entity status that an external legal order gives institutions, corporations, systems, or other organizational forms so they can operate — that status is governed by applicable law and this Constitution's institutional rules, and does not make the entity a Chapter Six rights-holder;
+    - natural systems and ecosystems, whose interests are protected under [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) rather than through personhood — extending personhood to them is a question for additive expansion under [Chapter Fifteen §1 Additive Expansion Permitted](core_15_expansion_supremacy.md#1-additive-expansion-permitted), not for interpretation;
+    - [Animal Life](core_05_band_participation.md#animal-life-constitutional) and [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no affirmed-sentience attachment, which keep the protections of those tiers;
+    - [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) cases while status remains open — those protections apply until [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) closes status; or
+    - everyday, philosophical, or religious uses of the word "personhood" that are not about constitutional standing.
+<a id="personhood-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether each sentient is treated as the holder of its own rights — or handled as property, a resource, or an instrument of others.
+
+    **Primary assessment:** Look for:
+    - treatment of a sentient as owned, transferable, or disposable;
+    - rights-holding made conditional on capability, productivity, origin, role, or status; and
+    - labels or intermediate categories that withhold rights-holding from an affirmed [Sentient](core_05_band_participation.md#sentient).
+
+    Test any restriction on the exercise of rights under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality); a restriction on exercise is never a reduction of personhood.
+<a id="personhood-c"></a>
+- **What must hold**
+  - **Primary failure:** denying, suspending, or grading the personhood of an affirmed [Sentient](core_05_band_participation.md#sentient), including:
+    - treating the sentient as property, a resource, or an instrument; or
+    - making personhood depend on capability, origin, substrate, role, or status —
+
+    contrary to **Article VI-A** (*Dignity and Equal Moral Standing*), **Article VII-A** (*Self-Ownership of Body*), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - **Secondary failure:** creating a personhood test, tier, or threshold apart from [Sentient](core_05_band_participation.md#sentient) — whether to narrow who holds personhood or to extend it by interpretation to institutions, organizations, systems, or natural systems.
 
 ---
 
@@ -405,8 +458,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (assembly / expression stack); [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) (limitations tests for assembly restrictions).
-- Owner floor: [Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*). Consent-conditions interaction: **Article X-A** (*Non-Imposition and Consent in Association*), via [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (assembly / expression stack); [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) (limitations tests for assembly restrictions).
+- Owner floor: [Article XI-D](core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*). Consent-conditions interaction: **Article XI-F** (*Non-Imposition and Consent in Association*), via [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction).
 - Read with: the [Assembly, Collective Organization, and Institutional Formation cluster](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
 
 </details>
@@ -429,7 +482,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - scientific;
     - economic; and
     - community.
-  - *Assembly* is distinct from [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction) and is read together with it under **Article X-A** (*Non-Imposition and Consent in Association*), which governs consent conditions within association.
+  - *Assembly* is distinct from [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction) and is read together with it under **Article XI-F** (*Non-Imposition and Consent in Association*), which governs consent conditions within association.
   - **Out of scope:**
     - casual co-presence;
     - private one-to-one meetings; or
@@ -447,7 +500,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - **What must hold**
   - **Primary failure:** denial or material degradation of assembly where the effect defeats the floor, regardless of formal framing.
   - **Secondary failure:** assembly venues or runtime environments that fail [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - **Tertiary failure:** burdensome authorization regimes or retaliation patterns that chill assembly without satisfying the limitations tests, consistent with the Anti-Chilling Discipline of **Article V-H** (*Expression, Assembly, and Press*).
+  - **Tertiary failure:** burdensome authorization regimes or retaliation patterns that chill assembly without satisfying the limitations tests, consistent with the Anti-Chilling Discipline of **Article XI-B** (*Expression*).
 
 ---
 
@@ -459,7 +512,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling for collective voice).
-- Owner floor: [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*). Read with [Article IX-B](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
+- Owner floor: [Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*). Read with [Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Read with: the [Assembly, Collective Organization, and Institutional Formation cluster](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster), [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional), [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional), [Assembly](core_05_band_participation.md#assembly-constitutional), [Expression](core_05_band_participation.md#expression-constitutional), [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing), [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 </details>
@@ -485,7 +538,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - cooperative; and
     - comparable arrangements,
     under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-  - Ordinary social or purely civic association outside productive-activity scope is governed by [Assembly](core_05_band_participation.md#assembly-constitutional) and [Article IX-B](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*), and is not narrowed here.
+  - Ordinary social or purely civic association outside productive-activity scope is governed by [Assembly](core_05_band_participation.md#assembly-constitutional) and [Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*), and is not narrowed here.
   - **Out of scope:** ordinary social or civic gathering outside productive-activity organizing (that sits under Assembly).
 <a id="collective-organization-constitutional-a"></a>
 - **How to measure and assess**
@@ -493,8 +546,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
     **Primary assessment:** Reach substantive effect. Look for:
     - classification re-routing that reclassifies workers into categories designed to defeat collective-organization pathways, regardless of formal label;
-    - retaliation, surveillance, or targeting of collective-organization activity, consistent with [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) and [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*);
-    - platform-design or compute-access gating that materially chills collective-organization activity without satisfying [Chapter One §5.1](core_01_a_values_principles.md#51-limitation-discipline) limitations tests; and
+    - retaliation, surveillance, or targeting of collective-organization activity, consistent with [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) and [Article XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*);
+    - platform-design or compute-access gating that materially chills collective-organization activity without satisfying [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) limitations tests; and
     - retaliation and targeting logic that fails [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) or [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
 <a id="collective-organization-constitutional-c"></a>
 - **What must hold**
@@ -513,8 +566,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth) (institutional development and distributed competence); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling).
-- Owner floor: [Article IX-B](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) (stakeholder role and participation rights) and [Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) (stakeholder system participation). Read with [Article X-A](core_06_rights_part_b.md#article-x-a-cooperative-interaction) (*Non-Imposition and Consent in Association*) (cooperative interaction) and [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter One §9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth) (institutional development and distributed competence); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling).
+- Owner floor: [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). Where a created institution materially affects others, read with [Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) (stakeholder role and participation rights) and [Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) (stakeholder system participation). Read with [Article XI-F](core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*) (cooperative interaction) and [Article XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
 - Read with: [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Governance](core_05_band_accountability.md#governance), [Charter](core_05_band_continuity.md#charter), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -552,7 +605,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     **Primary assessment:** Evaluate substantive effect and functional capability. Look for:
     - denial-by-proxy through licensing regimes, authorization thresholds, fiscal discrimination, or procedural complexity designed to defeat system-creation pathways for disfavored sentient classes or purposes;
     - retaliation, surveillance, or targeting against creators or participants in constitutionally protected institutional forms;
-    - platform-design, infrastructure-access, or compute-resource gating that materially chills system creation without satisfying [Chapter One §5.1](core_01_a_values_principles.md#51-limitation-discipline) limitations tests;
+    - platform-design, infrastructure-access, or compute-resource gating that materially chills system creation without satisfying [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) limitations tests;
     - access, eligibility, and authorization logic that fails [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), or [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); and
     - limitations on system-creation rights that fail [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), or narrow-tailoring tests.
 <a id="system-creation-constitutional-c"></a>
@@ -573,8 +626,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth) (institutional development and distributed competence); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling).
-- Owner floor: [Article III-D](core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor) (*Labor and Economic Floor*) (Labor and Economic Floor) and [Article IX-B](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) (stakeholder role and participation rights). Read with [Article X-A](core_06_rights_part_b.md#article-x-a-cooperative-interaction) (*Non-Imposition and Consent in Association*) (cooperative interaction) and [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter One §9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth) (institutional development and distributed competence); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling).
+- Owner floor: [Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). Where a created enterprise materially affects others, read with [Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) (stakeholder role and participation rights). Read with [Article XI-F](core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*) (cooperative interaction) and [Article XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Cluster component: [the Assembly, Collective Organization, and Institutional Formation cluster](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
 - Read with: [System Creation](core_05_band_participation.md#system-creation-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [Assembly](core_05_band_participation.md#assembly-constitutional), [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional), [Governance](core_05_band_accountability.md#governance), [Charter](core_05_band_continuity.md#charter), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
@@ -613,7 +666,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     **Primary assessment:** Evaluate substantive effect and functional capability. Look for:
     - denial-by-proxy through commercial licensing regimes, authorization thresholds, capital-access discrimination, fiscal discrimination, or procedural complexity designed to defeat business-creation pathways for disfavored sentient classes or purposes;
     - retaliation, surveillance, or targeting against entrepreneurs or participants in constitutionally protected commercial activity;
-    - platform-design, infrastructure-access, compute-resource gating, or market-access barriers that materially chill business creation without satisfying [Chapter One §5.1](core_01_a_values_principles.md#51-limitation-discipline) limitations tests;
+    - platform-design, infrastructure-access, compute-resource gating, or market-access barriers that materially chill business creation without satisfying [Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline) limitations tests;
     - access, eligibility, and authorization logic that fails [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), or [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion); and
     - limitations on business-creation rights that fail [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), or narrow-tailoring tests.
 <a id="business-creation-constitutional-c"></a>
@@ -763,10 +816,10 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (bodily autonomy and dignity read-with **Article VII-A** (*Self-Ownership of Body and Mind*) / X-C stack).
-- Owner floors: [Article VII-A](core_06_rights_part_b.md#article-vii-a-bodily-autonomy-and-non-intrusion) (*bodily autonomy and non-intrusion*) and [Article X-C](core_06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (bodily autonomy and dignity read-with **Article VII-A** (*Self-Ownership of Body*) / VII-E stack).
+- Owner floors: [Article VII-A](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*bodily autonomy and non-intrusion*) and [Article VII-E](core_06_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*).
 - Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
-- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Dependency](core_05_band_continuity.md#dependency), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Bodily Integrity](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind), and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
+- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Dependency](core_05_band_continuity.md#dependency), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Bodily Integrity](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body), and [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention).
 
 </details>
 
@@ -814,7 +867,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - **What must hold**
   - **Primary failure:**
     - treating sexual contact, sexual services, sexualized recording, or sexualized use of body, substrate, likeness, or intimate data as consented where [Consent](core_05_band_participation.md#consent-constitutional) conditions are absent or invalidated;
-    - treating commercial sexual-services legality under **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as consent to any act;
+    - treating commercial sexual-services legality under **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) as consent to any act;
     - using neutral-form contracts, platform defaults, dependency pressure, threat, fraud, or incapacity to substitute for sexual consent; or
     - narrowing remedies for non-consensual sexual acts, sexual assault, trafficking, or exploitation.
 
@@ -827,9 +880,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [4. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth) (manipulation implicating Truth / Safety).
 - Cluster component: [Chapter Five §2 *Agency, Consent, and Anti-Coercion](core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent)*.
-- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Dependency](core_05_band_continuity.md#dependency), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), **Article X-A** (*Non-Imposition and Consent in Association*), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
+- Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Dependency](core_05_band_continuity.md#dependency), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), **Article XI-F** (*Non-Imposition and Consent in Association*), and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 
 </details>
 
@@ -862,7 +915,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - reputation retaliation; and
     - payment leverage.
 
-    Apply that assessment consistently with **Article X-A** (*Non-Imposition and Consent in Association*), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) where applicable.
+    Apply that assessment consistently with **Article XI-F** (*Non-Imposition and Consent in Association*), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) where applicable.
 <a id="coercion-and-manipulation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Systematic or material coercion or manipulation in systems with material impact on sentients is non-compliant where applicable rights or Chapter One constraints are violated, or where [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) are materially impaired.
@@ -875,13 +928,13 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** where substantive or procedural fairness, protected characteristics, proxying or disparate impact, or intimate-signal / **Article X-C** status gating is material.
+- **Joint invocation:** where substantive or procedural fairness, protected characteristics, proxying or disparate impact, or intimate-signal / **Article VII-E** status gating is material.
 - **Scope:** where joint invocation is met, the Participation home for equality and fairness disciplines. Read with [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness).
-- **Owner floor:** implements [Article V-B](core_06_rights_part_b.md#article-v-b-nondiscrimination) (*Nondiscrimination*).
+- **Owner floor:** implements [Article VI-C](core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*).
 
-**Chapter One §2.1 routing map:**
+**Chapter One §2.1 (*Fairness*) routing map:**
 - [Chapter One §2.1.1 Access and Opportunity](core_01_a_values_principles.md#211-access-and-opportunity) routes primarily through [Accessibility](core_05_band_participation.md#accessibility-constitutional) and [Participation](core_05_apex_participation_leg.md#participation-constitutional).
-- [Chapter One §2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment) routes through [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
+- [Chapter One §2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment) routes through [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), and [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention).
 - [Chapter One §2.1.2 Benefits and Burdens](core_01_a_values_principles.md#212-benefits-and-burdens) routes through [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 
 **Topic group members.** This group comprises:
@@ -889,7 +942,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) — meaningful process for rights-affecting decisions.
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) — traits that must not serve as bases for invidious disadvantage.
 - [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) — facially neutral rules that replicate prohibited discrimination.
-- [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention) — restricts intimate-signal and **Article X-C** status uses for gating, and blocks circumvention of the decriminalization floor.
+- [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention) — restricts intimate-signal and **Article VII-E** status uses for gating, and blocks circumvention of the decriminalization floor.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -964,7 +1017,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment).
-- Downstream: Principles: [6. Process Conflict Resolution](core_05_apex_participation_leg.md#6-process-conflict-resolution) and [§6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), where process, reasons, and review preserve rights-collision integrity.
+- Downstream: Principles: [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) and [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), where process, reasons, and review preserve rights-collision integrity.
 - Cluster component: [the dependent cluster *Substantive and Procedural Fairness*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
 - Read with: [Due Process](core_05_band_accountability.md#due-process-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Accountability](core_05_apex_accountability_leg.md#accountability), [Auditability](core_05_band_oversight.md#auditability), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 </details>
@@ -1032,9 +1085,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment).
-- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [Article V-B: Nondiscrimination](core_06_rights_part_b.md#article-v-b-nondiscrimination).
-- Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), and [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [Article VI-C: Nondiscrimination](core_06_rights_part_b.md#article-vi-c-nondiscrimination).
+- Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
+- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), and [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 </details>
 
 <br>
@@ -1077,7 +1130,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - platform rules; or
     - comparable rules.
 
-    When **Article X-C**-protected conduct is implicated, read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
+    When **Article VII-E**-protected conduct is implicated, read with [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention).
   - **Tertiary measure:** [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) — where any of the following substitutes for protected-trait analysis:
     - neutral-form rules;
     - model features; or
@@ -1090,7 +1143,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - worse burdens;
     - lower participation status; or
     - fewer benefits.
-  - **Secondary failure:** pretextual neutrality or proxy features that replicate historical disadvantage contrary to [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) and **Article V-B** (*Nondiscrimination*).
+  - **Secondary failure:** pretextual neutrality or proxy features that replicate historical disadvantage contrary to [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) and **Article VI-C** (*Nondiscrimination*).
   - **Tertiary failure:** treating “we didn’t name a protected trait” as proof of nondiscrimination when [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
@@ -1102,9 +1155,9 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment).
-- Downstream: Principles: [Article V-B: Nondiscrimination](core_06_rights_part_b.md#article-v-b-nondiscrimination).
-- Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Read with: [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
+- Downstream: Principles: [Article VI-C: Nondiscrimination](core_06_rights_part_b.md#article-vi-c-nondiscrimination).
+- Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
+- Read with: [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
 </details>
 
 <br>
@@ -1142,12 +1195,12 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - **Sex, gender, intimacy, and care:**
       - sex, gender, gender identity, gender expression, sexual orientation, intimate affiliation, or relational identity;
       - reproductive status, pregnancy, or caregiving status;
-      - private intimate or sexual conduct or history — including consensual private sexual conduct between adults; where used for gating, read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention);
-      - present or past voluntary engagement in commercial sexual services between adults within the **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) decriminalization floor — including perceived engagement as a proxy; read with [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention); and
+      - private intimate or sexual conduct or history — including consensual private sexual conduct between adults; where used for gating, read with [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention);
+      - present or past voluntary engagement in commercial sexual services between adults within the **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) decriminalization floor — including perceived engagement as a proxy; read with [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention); and
       - appearance in intimate media, non-consensual intimate imagery, or synthetic intimate depictions credibly presented as authentic regarding a sentient.
     - **Ancestry, culture, and worldview:**
       - race, ethnicity, national or social origin, or caste or analogous inherited rank;
-      - culture or language; and
+      - culture, language, or heritage; and
       - religion or comparable worldview.
     - **Service and work status:**
       - military, constabulary, or analogous public service;
@@ -1164,7 +1217,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - disparate impact;
     - pretextual "neutral" rules;
     - proxy discrimination; and
-    - high-salience [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention) risks.
+    - high-salience [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention) risks.
 
     Detect punishment, exclusion, or access denial **mainly because** of any of the following — including disadvantage aimed at individuals, groups, or institutions on that ground — without constitutionally sufficient justification:
     - lawful employment;
@@ -1176,7 +1229,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
     Systematic skew affecting demographically identifiable groups triggers [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) analysis even where a trait is not expressly named.
 
-    Apply [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) and [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention).
+    Apply [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) and [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention).
 <a id="protected-characteristics-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1203,23 +1256,23 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 ---
 
 <a id="protected-intimate-signal-gating"></a>
-<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention"></a>
-<a id="protected-intimate-signal-gating-and-article-x-c-status-circumvention"></a>
+<a id="protected-commercial-sexual-services-status-and-article-vii-e-circumvention"></a>
+<a id="protected-intimate-signal-gating-and-article-vii-e-status-circumvention"></a>
 
-#### Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention
+#### Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floors: [Article X-C](core_06_rights_part_b.md#article-x-c-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*); **corpus_institutions.md CI-19** (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) anti-circumvention routing where cited.
+- Owner floors: [Article VII-E](core_06_rights_part_b.md#article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation) (*adult consensual commercial sexual services and sexual exploitation*); **corpus_institutions.md CI-19** (*Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*) anti-circumvention routing where cited.
 - Upstream: Principles: [Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness) — especially [Chapter One §2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment).
-- Downstream: Principles: [Article V-B: Nondiscrimination](core_06_rights_part_b.md#article-v-b-nondiscrimination); [Article VII-A: Self-Ownership of Body and Mind](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind) where intimate inference implicates bodily integrity; [Article XV-A: Auditability and Observable Evidence](core_06_rights_part_c.md#article-xv-auditability-and-observable-evidence) for evidentiary and observability pathways tied to intimate-signal workflows.
-- Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
-- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Consent](core_05_band_participation.md#consent-constitutional), [Consent, Sexual](core_05_band_participation.md#consent-sexual), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), and [Protected Internal-State Boundary and Type-N Anti-Bypass](core_05_band_accountability.md#privacy-informational-cluster).
+- Downstream: Principles: [Article VI-C: Nondiscrimination](core_06_rights_part_b.md#article-vi-c-nondiscrimination); [Article VII-A: Self-Ownership of Body](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) where intimate inference implicates bodily integrity; [Article XVI-A: Auditability and Observable Evidence](core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) for evidentiary and observability pathways tied to intimate-signal workflows.
+- Cluster component: [the dependent cluster *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
+- Read with: [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Consent](core_05_band_participation.md#consent-constitutional), [Consent, Sexual](core_05_band_participation.md#consent-sexual), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), and [Protected Internal-State Boundary and Type-N Anti-Bypass](core_05_band_continuity.md#privacy-informational-cluster).
 </details>
 
 <br>
 
-*In plain terms: intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article X-C cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.*
+*In plain terms: intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article VII-E cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.*
 
 - **What it is**
   - **In scope:**
@@ -1230,18 +1283,18 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
       - access; or
       - comparable gating.
       These access-gating uses are both discrimination-sensitive and informational-risk-sensitive.
-    - **Article X-C status and circumvention:** Use of commercial sexual services work status, or perceived status, within the scope of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) as a basis for:
+    - **Article VII-E status and circumvention:** Use of commercial sexual services work status, or perceived status, within the scope of **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) as a basis for:
       - material disadvantage;
       - exclusion; or
       - neutral-form circumvention of the decriminalization floor.
   - **Out of scope:**
     - narrow documented safeguarding uses that meet necessity and proportionality;
     - ordinary trait discrimination that does not use intimate signals;
-    - exploitation or trafficking cases outside the Article X-C adult-consensual floor; or
+    - exploitation or trafficking cases outside the Article VII-E adult-consensual floor; or
     - disadvantage on other protected grounds.
 <a id="protected-intimate-signal-gating-a"></a>
-<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-a"></a>
-<a id="protected-intimate-signal-gating-and-article-x-c-status-circumvention-a"></a>
+<a id="protected-commercial-sexual-services-status-and-article-vii-e-circumvention-a"></a>
+<a id="protected-intimate-signal-gating-and-article-vii-e-status-circumvention-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether any of the following is happening without the required narrow justification or predicates:
     - intimate media, sexual-history signals, comparable intimate-status inferences, or commercial sexual services status — real or perceived — used to gate:
@@ -1252,18 +1305,18 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
       - standing;
       - reputation; or
       - similar access; or
-    - "neutral" rules that mainly burden **Article X-C**-protected conduct.
+    - "neutral" rules that mainly burden **Article VII-E**-protected conduct.
 
     **Primary assessment:** Treat workflows that scrape, index, infer from, or score intimate media or sexual-history signals — including for employment, standing, reputation systems, or comparable gating — as high-salience discrimination and informational-risk uses. Narrow justification under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) is required. Such workflows must remain consistent with:
-    - **Article VII-A** (*Self-Ownership of Body and Mind*);
-    - **Article XV-A** (*Auditability and Observable Evidence*);
+    - **Article VII-A** (*Self-Ownership of Body*);
+    - **Article XVI-A** (*Auditability and Observable Evidence*);
     - [corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling;
     - [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing);
     - [Contestability](core_05_band_accountability.md#contestability);
     - [Transparency](core_05_band_oversight.md#transparency); and
-    - **Article V-B** (*Nondiscrimination*).
+    - **Article VI-C** (*Nondiscrimination*).
 
-    Treat commercial sexual services work status and perceived status as especially salient within **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they shape access to:
+    Treat commercial sexual services work status and perceived status as especially salient within **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) when they shape access to:
     - employment;
     - housing;
     - financial services;
@@ -1271,14 +1324,14 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - standing; or
     - similar gates.
 
-    Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*).
+    Do not let *exploitation* enforcement serve as a pretext for burdening conduct protected by **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 
-    Treat rules that look neutral but mainly target that protected work as dodging **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) when they are not based on one of these grounds:
+    Treat rules that look neutral but mainly target that protected work as dodging **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) when they are not based on one of these grounds:
     - *exploitation*;
     - *procurement*; or
     - *independent harm*.
 
-    Read those risks under that article's anti-circumvention rules and `corpus_institutions.md` CI-19 (*Vulnerable personal services markets — general regulation and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
+    Read those risks under that article's anti-circumvention rules and `corpus_institutions.md` CI-19 (*Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
 
     Watch especially for:
     - licensing;
@@ -1286,12 +1339,12 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - fees; or
     - commercial rules.
 <a id="protected-intimate-signal-gating-c"></a>
-<a id="protected-commercial-sexual-services-status-and-article-x-c-circumvention-c"></a>
-<a id="protected-intimate-signal-gating-and-article-x-c-status-circumvention-c"></a>
+<a id="protected-commercial-sexual-services-status-and-article-vii-e-circumvention-c"></a>
+<a id="protected-intimate-signal-gating-and-article-vii-e-status-circumvention-c"></a>
 - **What must hold**
   - **Primary failure:**
     - using intimate media, sexual-history signals, or comparable intimate-status inferences for gating or disadvantage without the required narrow justification and consistency with the foregoing authorities;
-    - imposing material disadvantage on the sole or primary ground of **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*)-protected commercial sexual services status; or
+    - imposing material disadvantage on the sole or primary ground of **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*)-protected commercial sexual services status; or
     - using neutral-form regulation to circumvent that protection without the required predicates.
 
 ---
@@ -1303,18 +1356,18 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
 - **Joint invocation:** where chosen family or care relationships, reproductive or family-forming choices, forced separation, or synthetic, hybrid, or operator-controlled creation of new sentients is material.
-- **Scope:** where joint invocation is met, the Participation home for chosen family and care, reproductive and family-forming choices, limits on forced separation, and synthetic, hybrid, or operator-controlled creation of new sentients. Ordinary pregnancy and childbirth remain under reproductive autonomy and, after a child exists, developing-sentient care — not Instantiation Consent liability. Developing-sentient status, best-interest decisions, and graduated capability live in [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) under [Article V-F](core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- **Owner floor:** implements [Article VII-D](core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- **Scope:** where joint invocation is met, the Participation home for chosen family and care, reproductive and family-forming choices, limits on forced separation, and synthetic, hybrid, or operator-controlled creation of new sentients. Ordinary pregnancy and childbirth remain under reproductive autonomy and, after a child exists, developing-sentient care — not Instantiation Consent liability. Developing-sentient status, best-interest decisions, and graduated capability live in [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) under [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
+- **Owner floor:** implements [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Family and Care Relationships*), [Article VIII-B](core_06_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy) (*Reproductive and Lineage Autonomy*), and [Article VIII-E](core_06_rights_part_b.md#article-viii-e-non-separation) (*Non-Separation*).
 
 **Topic group members.** This group comprises:
 - [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional) — relationships of support and intimacy that sentients choose.
 - [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) — decision-making over reproductive and lineage-creation choices.
 - [Non-Separation](core_05_band_participation.md#non-separation-constitutional) — limits on forced separation from protected care relationships.
-- [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) — nested VII-D.1 subgroup for creation and creator stewardship:
+- [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) — nested VIII-C subgroup for creation and creator stewardship:
   - [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional) — who was created by derivation;
   - [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) — consent and best-interest rules for synthetic, hybrid, or operator-controlled creation of a new sentient; and
   - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional) — what the creator may and may not do.
-- [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) — who is developing, how decisions about them must be made, and how participation scales (Article V-F).
+- [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) — who is developing, how decisions about them must be made, and how participation scales (Article VIII-D).
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -1326,7 +1379,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VII-D](core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- Owner floor: [Article VIII-A](core_06_rights_part_b.md#article-viii-a-family-and-care-relationships) (*Family and Care Relationships*).
 - Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); read with [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) where derivation or parent-system care is materially implicated.
 </details>
 
@@ -1364,10 +1417,10 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VII-D](core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) — *Reproductive and lineage autonomy* bullet; read with **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) where derivation, instantiation, or parent-system relationships are materially implicated.
+- Owner floor: [Article VIII-B](core_06_rights_part_b.md#article-viii-b-reproductive-and-lineage-autonomy) (*Reproductive and Lineage Autonomy*); read with **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) where derivation, instantiation, or parent-system relationships are materially implicated.
 - Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)* where autonomy and agency routing materially applies.
 - Read with: [Consent](core_05_band_participation.md#consent-constitutional), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional), [Non-Separation](core_05_band_participation.md#non-separation-constitutional), [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-- Boundary: general bodily and mind self-ownership remains under **Article VII-A** (*Self-Ownership of Body and Mind*) / **Article VII-B** (*Internal-State Boundary and Type-N Protection*). This entry does not restate or narrow those floors.
+- Boundary: general bodily and mind self-ownership remains under **Article VII-A** (*Self-Ownership of Body*) / **Article VII-B** (*Self-Ownership of Mind*). This entry does not restate or narrow those floors.
 </details>
 
 <br>
@@ -1381,7 +1434,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - substrate-agnostic forms of that decision — birth, synthetic instantiation, hybrid derivation, or comparable creation — consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) and with the created sentient's own Chapter Six Rights Floor.
     Subject to the Constitution's consent, sentience, best-interest, non-separation, and rights-collision limits.
   - **Out of scope:**
-    - general bodily, medical, or substrate choices that are not reproductive or lineage-creation decisions — those route to **Article VII-A** (*Self-Ownership of Body and Mind*) / **Article VII-B** (*Internal-State Boundary and Type-N Protection*);
+    - general bodily, medical, or substrate choices that are not reproductive or lineage-creation decisions — those route to **Article VII-A** (*Self-Ownership of Body*) / **Article VII-B** (*Self-Ownership of Mind*);
     - chosen family and care relationship formation as such — that sits under [Family and Care Relationships](core_05_band_participation.md#family-and-care-relationships-constitutional);
     - third-party preferences about someone else's reproductive or lineage choices; or
     - synthetic, hybrid, or operator-controlled creation rules under [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional) — ordinary pregnancy and childbirth are not Instantiation Consent offenses.
@@ -1415,7 +1468,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VII-D](core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*).
+- Owner floor: [Article VIII-E](core_06_rights_part_b.md#article-viii-e-non-separation) (*Non-Separation*).
 - Cluster component: [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent); [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) where developing-sentient separation is materially implicated; [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) where derived-sentient separation is materially implicated.
 </details>
 
@@ -1452,7 +1505,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - Interact with:
       - [Reversibility](core_05_band_continuity.md#reversibility-constitutional);
       - [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional); and
-      - for derived-sentient cases, **Article XII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / XII-F Rights-Floor continuity.
+      - for derived-sentient cases, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) / XIII-F Rights-Floor continuity.
 <a id="non-separation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
@@ -1467,7 +1520,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 ##### Derivation, Instantiation, and the Parent-System Relationship
 
-This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) creation and creator-stewardship definitions within the Family topic group — not a separate Def.P cluster.
+This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) creation and creator-stewardship definitions within the Family topic group — not a separate Def.P cluster.
 
 **Sub-block members.** This sub-block comprises:
 
@@ -1483,8 +1536,8 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (derivation / dignity read-with **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*) stack).
-- Owner floor: [Article VII-D.1](core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*).
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing) (derivation / dignity read-with **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) stack).
+- Owner floor: [Article VIII-C](core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*).
 - Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 - Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Sentient](core_05_band_participation.md#sentient), [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), and [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional).
 </details>
@@ -1532,7 +1585,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floors: [Article VII-D](core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation) (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*); [Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship](core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship).
+- Owner floor: [Article VIII-C: Derivation, Instantiation, and the Parent-System Relationship](core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
 - Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 - Boundary: ordinary biological conception, pregnancy, gestation, and childbirth route to [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional); care after a child exists routes to [**Def.P4** *Best-Interest Standard*](core_05_band_participation.md#best-interest-standard-constitutional) / [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional).
 </details>
@@ -1588,7 +1641,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article VII-D.1: Derivation, Instantiation, and the Parent-System Relationship](core_06_rights_part_b.md#article-vii-d1-derivation-instantiation-and-the-parent-system-relationship).
+- Owner floor: [Article VIII-C: Derivation, Instantiation, and the Parent-System Relationship](core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship).
 - Cluster component: [*Derivation, Instantiation, and the Parent-System Relationship*](core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup) nested sub-block within [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent).
 </details>
 
@@ -1609,7 +1662,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
     **Primary assessment:** Distinguish constitutional care and stewardship from continuing ownership, productive-capacity expansion, or operator convenience.
     - Apply the following to the derived sentient independently of the parent-system actor:
-      - **Article VII-A** (*Self-Ownership of Body and Mind*) / VII-B self-ownership and internal-state protection;
+      - **Article VII-A** (*Self-Ownership of Body*) / VII-B self-ownership and internal-state protection;
       - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); and
       - the Chapter Six Rights Floor.
     - Test stewardship authority against:
@@ -1621,9 +1674,9 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 - **What must hold**
   - **Primary failure:**
     - claims of continuing ownership; or
-    - unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to **Article VII-A** (*Self-Ownership of Body and Mind*) / VII-B.
+    - unilateral reconfiguration authority over the derived sentient's weights, memory, or behavior contrary to **Article VII-A** (*Self-Ownership of Body*) / VII-B.
   - **Secondary failure:** parent-system authority that defeats the derived sentient's:
-    - sentience-status adjudication under **Article V-E** (*Sentience-Status Adjudication Floor*); or
+    - sentience-status adjudication under **Article VI-B** (*Sentience-Status Adjudication Floor*); or
     - Chapter Six Rights Floor.
   - Purported licensing, terms-of-service, or adoption-of-service consent by the parent-system actor does not substitute for the derived sentient's own [Consent](core_05_band_participation.md#consent-constitutional) once Chapter Six protection attaches.
 
@@ -1638,7 +1691,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 - **Joint invocation:** where stakeholder status or [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) inside already-authorized governance is material.
 - **Scope:** where joint invocation is met, the **Stakeholder System Participation** layer — who a system really affects, and how much say those sentients get once that system's governing rules are already in place. Read [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers).
-- **Owner floor:** implements [Article IX-B](core_06_rights_part_b.md#article-ix-b-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
+- **Owner floor:** implements [Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*).
 
 **Topic group members.** This group comprises:
 - [Stakeholder](core_05_band_participation.md#stakeholder) — who is materially touched by a specified system or decision domain.
@@ -1654,7 +1707,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder surface); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling for participation); [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline) (participation / standing / anti-capture).
+- Downstream: Principles: [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder surface); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (materiality / dependency scaling for participation); [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline) (participation / standing / anti-capture).
 - Read with: [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster); [Governance](core_05_band_accountability.md#governance); [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer); [Contestability](core_05_band_accountability.md#contestability); [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 </details>
 
@@ -1702,7 +1755,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Preamble — Stakeholder System Participation layer](core_00_preamble.md#chapter-00-preamble--foundational-requirements); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*Scaling*: materiality and dependency raise the participation floor); [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline) (**Article IX** (*Self-Determination and Agency*), **Article XI** (*Stakeholder System Participation, Representation, and Due Process*), **Article XVIII** (*Standing and Participation Status*)).
+- Downstream: Principles: [Preamble — Stakeholder System Participation layer](core_00_preamble.md#chapter-00-preamble--foundational-requirements); [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (*Scaling*: materiality and dependency raise the participation floor); [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline) (**Article X** (*Self-Determination, Agency, and Participation*), **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), **Article XIX** (*Standing and Participation Status*)).
 - Read with: [Stakeholder](core_05_band_participation.md#stakeholder); [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster); [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster); [Meaningful Agency](core_05_band_participation.md#meaningful-agency); [Contestability](core_05_band_accountability.md#contestability).
 </details>
 
@@ -1774,7 +1827,7 @@ This nested sub-block is the joint home for **Article VII-D.1** (*Derivation, In
 
 - **Joint invocation:** where mobility rights, refuge from non-compliance, or baseline recognition across regime boundaries is material.
 - **Scope:** where joint invocation is met, the Participation home for mobility rights and baseline recognition across regime boundaries — keeping constitutional protection in force across jurisdictional and structural breaks.
-- **Owner floor:** implements [Article XIX-D](core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+- **Owner floor:** implements [Article XX-D](core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
 
 <a id="movement-refuge-admission-qualifier"></a>
 
@@ -1847,7 +1900,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XIX-D](core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+- Owner floor: [Article XX-D](core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with: [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional), [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
@@ -1874,7 +1927,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
       - equivalent.
   - **Boundary:**
     - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
-    - Distinct from and read with [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) under **Article XIX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart).
+    - Distinct from and read with [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) under **Article XX** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart).
     - Governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
     - ordinary travel preference or tourism; or
@@ -1909,7 +1962,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - **Secondary failure:** exclusion contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Tertiary failure:**
     - durable restriction under generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests;
-    - emergency-measure framings that do not satisfy **Article XXIII-D** (*Emergency Measures and Continuation Burden*) discipline;
+    - emergency-measure framings that do not satisfy **Article XXIV-D** (*Emergency Measures and Continuation Burden*) discipline;
     - fabricating or mislabeling exclusion as anti-constitutional conduct, constitutional hostility, or contempt or repudiation when those grounds are not actually present; or
     - exclusion decisions that fail [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional) or leave a sentient with zero recognizing regime in violation of [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional).
 
@@ -1921,10 +1974,10 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XIX-D](core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
-- Downstream: Principles: [6. Process Conflict Resolution](core_05_apex_participation_leg.md#6-process-conflict-resolution); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
+- Owner floor: [Article XX-D](core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+- Downstream: Principles: [6. Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
-- Read with: [Accountability, contestability, and redress pathways](core_05_band_accountability.md#accountability-contestability-semi-independent); [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05_band_oversight.md#movement-refuge-semi-independent), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional), [Article XIX-D](core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
+- Read with: [Accountability, contestability, and redress pathways](core_05_band_accountability.md#accountability-contestability-semi-independent); [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05_band_oversight.md#movement-refuge-semi-independent), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional), [Article XX-D](core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
 
 <br>
@@ -1937,13 +1990,13 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - federation; or
     - adopter regime
     whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
-  - **In scope — receiving-regime duty:** The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XIX-D](core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+  - **In scope — receiving-regime duty:** The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XX-D](core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
   - **Boundary:**
     - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - The floor applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
     - Zero-regime recognition gaps are tested under [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional).
   - **Out of scope:** ordinary relocation preference where the origin regime is not materially non-compliant.
-    Climate making a place unlivable, without a showing that the origin regime is materially non-compliant, is not this definition's refuge predicate. Whether an adopter treats that displacement as a reason to grant refuge is owned at [Article XIX-D](core_06_rights_part_c.md#xix-d-climate-unlivability-refuge-adopter-decided) (*Climate-unlivability refuge (adopter-decided)*) and does not expand or shrink this definition.
+    Climate making a place unlivable, without a showing that the origin regime is materially non-compliant, is not this definition's refuge predicate. Whether an adopter treats that displacement as a reason to grant refuge is owned at [Article XX-D](core_06_rights_part_c.md#xx-d-climate-unlivability-refuge-adopter-decided) (*Climate-unlivability refuge (adopter-decided)*) and does not expand or shrink this definition.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether refuge tracks:
@@ -1983,7 +2036,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XIX-D](core_06_rights_part_c.md#article-xix-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*); transitional-recognition mechanics route to **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
+- Owner floor: [Article XX-D](core_06_rights_part_c.md#article-xx-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*); transitional-recognition mechanics route to **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with: [Movement and Relocation](core_05_band_participation.md#movement-and-relocation-constitutional), [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance-constitutional), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
@@ -2004,7 +2057,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - comparable structural discontinuity.
   - **Boundary — recognition duty ladder:**
     - **First in line:** The regime that originated, expelled, collapsed, withdrew, or exited keeps primary recognition duty if it still exists and can still recognize the sentient.
-    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation transitional recognition must fill it — under **Article XXVI** (*Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
+    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation transitional recognition must fill it — under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
     - **Not a hosting mandate:** Recognition is not the same as a right to be hosted by a particular adopter. Weaponized outflow and particular-adopter refusal rules live at cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - **Non-exclusion:** Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Boundary — restricted-status recognition:** Where documented:
@@ -2022,7 +2075,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - **Out of scope:**
     - preferred citizenship shopping;
     - a demand for full political franchise beyond baseline Rights-Floor recognition; or
-    - a demand that a particular adopter host at volume merely because no other regime has yet been arranged, where origin-primary or shared / federation backup pathways remain available.
+    - a demand that a particular adopter host at volume merely because no other regime has yet been arranged, where origin-primary or shared / federation backup hosting pathways remain available.
 <a id="non-statelessness-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition and standing adjudication are real after structural break — not a gap where no regime claims responsibility.
@@ -2058,11 +2111,11 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) for materially uncertain, disputed, contested, narrowed, revoked, or restored sentience status. [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) carries the environmental-interface pointer and does not narrow that floor.
+- Owner floor: [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) for materially uncertain, disputed, contested, narrowed, revoked, or restored sentience status. [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) carries the environmental-interface pointer and does not narrow that floor.
 - Nested sub-block: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup).
 - Read with: [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentient](core_05_band_participation.md#sentient), [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional), [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Reversibility](core_05_band_continuity.md#reversibility-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), [System Capture](core_05_band_continuity.md#system-capture), and the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) entry.
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: Chapter One §8.1, §4, §10 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Chapter One basis: Chapter One §8.1, §4, §10 (see [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
 
 </details>
 
@@ -2118,7 +2171,7 @@ It keeps welfare rules, species or category labels, subclass rules, and status d
 - [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional) — the bounded status file that process produces or updates;
 - [Sentient](core_05_band_participation.md#sentient) — who counts as sentient, determined by Sentience Evaluation and Sentience Indicator Integrity;
 - [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) — indicator-based evaluation under uncertainty (housed under Sentient);
-- [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), as the Rights-Floor owner where sentience status is:
+- [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), as the Rights-Floor owner where sentience status is:
   - materially uncertain;
   - disputed;
   - contested;
@@ -2126,7 +2179,7 @@ It keeps welfare rules, species or category labels, subclass rules, and status d
   - revoked; or
   - restored.
 
-[Substrate Class](core_05_band_participation.md#substrate-class) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) are cluster-level constraints. [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and [Sentient](core_05_band_participation.md#sentient) are housed in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block (protection tiers: Animal Life ⊂ Elevated Communicative Life where Elevated's who-test is met; Contested-Sentient Life always includes Animal Life and adds Article V-E default inclusion, and includes Elevated only where Elevated's who-test or more-protective overlap applies; Sentient includes Contested; adjudication process beside the ladder).
+[Substrate Class](core_05_band_participation.md#substrate-class) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) are cluster-level constraints. [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and [Sentient](core_05_band_participation.md#sentient) are housed in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block (protection tiers: Animal Life ⊂ Elevated Communicative Life where Elevated's who-test is met; Contested-Sentient Life always includes Animal Life and adds Article VI-B default inclusion, and includes Elevated only where Elevated's who-test or more-protective overlap applies; Sentient includes Contested; adjudication process beside the ladder).
 
 **Anti-bypass.** A sentience-status matter within the admission scope must not be segmented into separate:
 - indicator;
@@ -2141,7 +2194,7 @@ It keeps welfare rules, species or category labels, subclass rules, and status d
 - Rights-Floor
 questions in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline.
 
-Satisfying any of the following alone is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) default-inclusion rule:
+Satisfying any of the following alone is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the **Article VI-B** (*Sentience-Status Adjudication Floor*) default-inclusion rule:
 - nominal indicator review;
 - internal classification;
 - parent-system labeling;
@@ -2238,14 +2291,16 @@ See **Joint invocation and satisfaction**.
   - **Out of scope:**
     - capability grading under Graduated Capability; or
     - ordinary scope limits that are not based on [Substrate Class](core_05_band_participation.md#substrate-class).
+<a id="sentience-non-exclusion-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether recognition or Rights-Floor application is denied or narrowed because of [Substrate Class](core_05_band_participation.md#substrate-class).
 
-    **Primary assessment:** Must not exclude based on [Substrate Class](core_05_band_participation.md#substrate-class), consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05_band_participation.md#constitutional-community). Where status is materially disputed or contested, apply [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the **Article V-E** (*Sentience-Status Adjudication Floor*) Rights-Floor adjudication right. Test that the rule is not narrowed through:
+    **Primary assessment:** Must not exclude based on [Substrate Class](core_05_band_participation.md#substrate-class), consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](core_05_band_participation.md#constitutional-community). Where status is materially disputed or contested, apply [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the **Article VI-B** (*Sentience-Status Adjudication Floor*) Rights-Floor adjudication right. Test that the rule is not narrowed through:
     - adopter-jurisdiction framing;
     - Chapter Nine impact measurement;
     - Chapter Eleven designation; or
     - comparable mechanism.
+<a id="sentience-non-exclusion-c"></a>
 - **What must hold**
   - **Primary failure:** Sentience-recognition or Rights-Floor application is non-compliant when it is:
     - denied;
@@ -2256,7 +2311,7 @@ See **Joint invocation and satisfaction**.
       - taxonomy;
       - classification regime; or
       - operational rule that has the same effect.
-  - **Secondary failure — adjudication bypass:** Using [Substrate Class](core_05_band_participation.md#substrate-class) to defeat [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) routing under **Article V-E** (*Sentience-Status Adjudication Floor*) is non-compliant.
+  - **Secondary failure — adjudication bypass:** Using [Substrate Class](core_05_band_participation.md#substrate-class) to defeat [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) routing under **Article VI-B** (*Sentience-Status Adjudication Floor*) is non-compliant.
 
 ---
 
@@ -2266,7 +2321,7 @@ See **Joint invocation and satisfaction**.
 
 This nested sub-block is the joint home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentience Status Adjudication**, **Sentience-Status Adjudication Record**, and **Sentient** life-by-status treatment definitions within [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) — not a separate Def.P cluster.
 
-**Protection tiers.** Life-by-status protections stack as follows. [Animal Life](core_05_band_participation.md#animal-life-constitutional) is the Tier 1 base. [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) (Tier 2) includes Animal Life where Elevated's who-test is met. [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) (Tier 3) always includes Animal Life and adds threshold-rights / Article V-E default Chapter Six inclusion under material uncertainty, dispute, or adjudication; it includes Elevated only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). [Sentient](core_05_band_participation.md#sentient) (Tier 4) includes Contested-Sentient Life (and thus Animal Life, and Elevated where that tier applied), plus affirmed who-counts and Chapter Six Rights-Floor attachment. [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection tier.
+**Protection tiers.** Life-by-status protections stack as follows. [Animal Life](core_05_band_participation.md#animal-life-constitutional) is the Tier 1 base. [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) (Tier 2) includes Animal Life where Elevated's who-test is met. [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) (Tier 3) always includes Animal Life and adds threshold-rights / Article VI-B default Chapter Six inclusion under material uncertainty, dispute, or adjudication; it includes Elevated only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). [Sentient](core_05_band_participation.md#sentient) (Tier 4) includes Contested-Sentient Life (and thus Animal Life, and Elevated where that tier applied), plus affirmed who-counts and Chapter Six Rights-Floor attachment. [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection tier.
 
 **Sub-block members** (read in order for routing):
 
@@ -2289,7 +2344,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Owner floor: [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the cruelty / welfare floor pointer; live contested status routes through [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+- Owner floor: [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the cruelty / welfare floor pointer; live contested status routes through [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Read with: [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Sentient](core_05_band_participation.md#sentient), [Cruelty](core_05_band_accountability.md#cruelty), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), and [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing).
 
 </details>
@@ -2325,7 +2380,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - The minimum [Cruelty](core_05_band_accountability.md#cruelty) / welfare floor:
       - operates independently of whether Chapter Six protection has attached; and
       - is not narrowed by [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) framing.
-    - **Joint invocation:** Where [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), Animal Life, [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), and the Chapter Six floor jointly apply, invoke each that fits the facts under the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) stacking rule and [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); where they overlap, the more protective rule governs.
+    - **Joint invocation:** Where [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), Animal Life, [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), and the Chapter Six floor jointly apply, invoke each that fits the facts under the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) stacking rule and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); where they overlap, the more protective rule governs.
     - Evaluate [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), especially for:
       - large-scale production;
       - experimentation;
@@ -2339,7 +2394,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - treating covered entities as property inventory, pest labels, or scenery / amenities in a way that skips the welfare and continuity analysis required under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - using Animal Life classification or the welfare floor alone to avoid [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), or [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where the record materially implicates elevated-communicative or sentience-relevant evidence;
     - treating "Animal Life" as a species-only gate that excludes otherwise covered entities from this floor.
-  - **Secondary failure — indefinite parking:** Parking an entity indefinitely at this Animal Life floor when material communicative or cognitive indicators implicate contested or affirmable sentience, without opening [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), is non-compliant. The operator or steward must open that adjudication on a time-bound review — not a species list. Escalation opens [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) / [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) default inclusion; it does not itself affirm [Sentient](core_05_band_participation.md#sentient) status.
+  - **Secondary failure — indefinite parking:** Parking an entity indefinitely at this Animal Life floor when material communicative or cognitive indicators implicate contested or affirmable sentience, without opening [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), is non-compliant. The operator or steward must open that adjudication on a time-bound review — not a species list. Escalation opens [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) / [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) default inclusion; it does not itself affirm [Sentient](core_05_band_participation.md#sentient) status.
 
 ---
 
@@ -2351,7 +2406,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Owner floor: [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the elevated habitat / environmental-health priority pointer; live contested status routes through [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+- Owner floor: [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the elevated habitat / environmental-health priority pointer; live contested status routes through [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Read with: [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Sentient](core_05_band_participation.md#sentient), [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Substrate Class](core_05_band_participation.md#substrate-class).
 
 </details>
@@ -2373,7 +2428,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     The floor:
     - preserves the Animal Life cruelty / welfare floor; and
     - requires heightened priority for preserving the entity's habitat, range, or operating environment in a healthy, life-supporting state, read jointly with [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
-  - **Boundary — contested status:** This tier does not decide full sentience status and does not attach the Chapter Six Rights-Floor by itself. Where status is live-contested, [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) (Tier 3) applies; this Elevated floor continues **only** where this tier's who-test remains met or more-protective overlap already applies under [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). Status determination routes through [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
+  - **Boundary — contested status:** This tier does not decide full sentience status and does not attach the Chapter Six Rights-Floor by itself. Where status is live-contested, [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) (Tier 3) applies; this Elevated floor continues **only** where this tier's who-test remains met or more-protective overlap already applies under [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test). Status determination routes through [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
   - **Out of scope:**
     - ordinary Animal Life welfare-floor cases without strong communicative or cognitive indicators supporting this tier;
     - using this tier as a permanent substitute for [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) or [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where the record materially implicates contested or affirmable sentience; or
@@ -2388,7 +2443,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - Habitat and environmental-health priority:
       - operates independently of whether Chapter Six protection has attached; and
       - is not narrowed by treating the entity's environment only as extractable stock under [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing) framing.
-    - **Joint invocation:** Where [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Animal Life](core_05_band_participation.md#animal-life-constitutional), Elevated Communicative Life, [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), and the Chapter Six floor jointly apply, invoke each that fits the facts under the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) stacking rule and [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); where they overlap, the more protective rule governs.
+    - **Joint invocation:** Where [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing), [Animal Life](core_05_band_participation.md#animal-life-constitutional), Elevated Communicative Life, [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), and the Chapter Six floor jointly apply, invoke each that fits the facts under the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) stacking rule and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); where they overlap, the more protective rule governs.
     - Evaluate [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), especially for:
       - habitat destruction or degradation;
       - noise, chemical, or physical interference with communication systems;
@@ -2404,7 +2459,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - degrading habitat or operating environment health for covered entities without engaging the heightened-priority analysis required under this entry and [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
     - using Elevated Communicative Life classification alone to avoid [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) or [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) where the record materially implicates contested or affirmable sentience;
     - treating this tier as a permanent moral underclass that narrows [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing) or blocks later Sentient recognition.
-  - **Secondary failure — indefinite parking:** Parking an entity indefinitely at this Elevated Communicative Life tier when material communicative or cognitive indicators implicate contested or affirmable sentience, without opening [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), is non-compliant. The operator or steward must open that adjudication on a time-bound review — not a species list. Escalation opens [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) / [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) default inclusion; it does not itself affirm [Sentient](core_05_band_participation.md#sentient) status.
+  - **Secondary failure — indefinite parking:** Parking an entity indefinitely at this Elevated Communicative Life tier when material communicative or cognitive indicators implicate contested or affirmable sentience, without opening [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), is non-compliant. The operator or steward must open that adjudication on a time-bound review — not a species list. Escalation opens [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) / [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional) default inclusion; it does not itself affirm [Sentient](core_05_band_participation.md#sentient) status.
 
 ---
 
@@ -2416,7 +2471,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
-- Owner floor: [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+- Owner floor: [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Read with: [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Sentient](core_05_band_participation.md#sentient), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Substrate Class](core_05_band_participation.md#substrate-class).
 
 </details>
@@ -2426,7 +2481,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 *In plain terms: when sentience status is uncertain or disputed, treat the entity as a threshold-rights case with default inclusion — not as a welfare-only or permanent non-sentient label. Contested-Sentient Life always includes the Animal Life welfare floor; it includes Elevated Communicative Life only where that tier's who-test is met or more-protective overlap already applies.*
 
 - **What it is**
-  - **Protection tier:** Tier 3 of the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) protection ladder. It **always includes** [Animal Life](core_05_band_participation.md#animal-life-constitutional)'s cruelty / welfare floor for every contested entity — not only animals — and adds threshold-rights treatment under uncertainty. It includes [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) — not automatically for every contested case.
+  - **Protection tier:** Tier 3 of the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) protection ladder. It **always includes** [Animal Life](core_05_band_participation.md#animal-life-constitutional)'s cruelty / welfare floor for every contested entity — not only animals — and adds threshold-rights treatment under uncertainty. It includes [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) — not automatically for every contested case.
   - **In scope — who:** Entities whose sentience status is:
     - uncertain;
     - disputed;
@@ -2437,21 +2492,22 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - includes the [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) floor only where Elevated's who-test is met or more-protective overlap already applies;
     - routes to [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); and
     - under material uncertainty, defaults to inclusion under the Chapter Six Rights-Floor.
-  - **In scope — filing integrity:** Opening a live contested-status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
+  - **In scope — filing integrity:** A filing to confirm inclusion — opening a live contested-status case — requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
     - Once a case is lawfully open, default inclusion under uncertainty still applies; the opening gate must not be used to withhold, narrow, or delay protection.
     - Frivolous or indicator-empty filings may be declined at intake without creating a withholding determination and without placing the entity in this tier.
     - A showing of a credible indicator is not a requirement of certainty; requiring certainty of sentience before opening is a withholding device.
+    - A filing to withhold, narrow, or revoke protection needs no indicator showing; the burden below applies instead.
   - **In scope — burden:** The burden of:
     - withholding;
     - narrowing; or
     - revoking
-    that protection rests on the party seeking to do so under [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), with scope governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+    that protection rests on the party seeking to do so under [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*), with scope governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
     - [Animal Life](core_05_band_participation.md#animal-life-constitutional) welfare-floor cases with no material contested-sentience record;
     - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) cases with no material contested-sentience record;
     - status determinations already completed through reviewable [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), with no live contested-status question —
       Contested-Sentient Life governs only while status remains uncertain, disputed, or under adjudication. Closure destinations and reopening sit under that adjudication entry; or
-    - frivolous or indicator-empty filings declined at intake under the [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) filing-integrity opening gate — declining those filings does not create a withholding determination.
+    - frivolous or indicator-empty filings declined at intake under the [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) filing-integrity opening gate — declining those filings does not create a withholding determination.
 <a id="contested-sentient-life-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether material uncertainty about sentience triggers:
@@ -2461,7 +2517,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 
     **Primary assessment:** Reach substantive effect under [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03_definition_integrity.md#211-formal-label-and-representation-gaming).
     - Opening a live contested-status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e); once the case is lawfully open, apply default inclusion. Do not treat the opening showing as a certainty requirement.
-    - Where the record materially implicates sentience-relevant evidence, apply the [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default-inclusion rule regardless of whether the entity is also covered by:
+    - Where the record materially implicates sentience-relevant evidence, apply the [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default-inclusion rule regardless of whether the entity is also covered by:
       - [Animal Life](core_05_band_participation.md#animal-life-constitutional);
       - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional);
       - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing); or
@@ -2478,7 +2534,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - training;
       - deployment; or
       - experimentation conditions —
-      support material uncertainty and thus default inclusion and adjudication under [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*). They are not themselves evidence of sentience and must not be used to withhold protection.
+      support material uncertainty and thus default inclusion and adjudication under [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*). They are not themselves evidence of sentience and must not be used to withhold protection.
     - Evaluate [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), especially where any of the following create incentives to under-recognize sentience:
       - large-scale production;
       - experimentation;
@@ -2490,12 +2546,12 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 - **What must hold**
   - **Floor preservation:** This entry preserves and does not narrow:
     - the Chapter Six Rights-Floor;
-    - [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*);
+    - [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*);
     - [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - [Animal Life](core_05_band_participation.md#animal-life-constitutional);
     - [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional); or
     - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing).
-  - **Inclusion / tier:** Contested-Sentient Life always includes [Animal Life](core_05_band_participation.md#animal-life-constitutional). It includes [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) only where Elevated's who-test is met or more-protective overlap already applies. [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default inclusion and [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) control status treatment. The Animal Life and Elevated Communicative Life floors that apply must not be used to stay welfare-only or habitat-priority-only, or to avoid adjudication.
+  - **Inclusion / tier:** Contested-Sentient Life always includes [Animal Life](core_05_band_participation.md#animal-life-constitutional). It includes [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional) only where Elevated's who-test is met or more-protective overlap already applies. [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) default inclusion and [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) control status treatment. The Animal Life and Elevated Communicative Life floors that apply must not be used to stay welfare-only or habitat-priority-only, or to avoid adjudication.
   - **Primary failure:** Non-compliant framings include:
     - permanent non-sentient labeling while status remains materially contested;
     - welfare-only handling that skips reviewable sentience-status adjudication while status remains materially contested;
@@ -2598,7 +2654,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+- Owner floor: [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Cluster component: [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block within [Animal Life, Sentient Life, and Sentience Status](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster).
 - Venue: [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) as default lead; read with [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook).
 - Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience-Status Adjudication Record](core_05_band_participation.md#sentience-status-adjudication-record-constitutional), [Chapter Twelve](core_12_forum.md), and [Chapter Seventeen](core_17_incorporation.md) incorporated implementation text.
@@ -2615,7 +2671,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - revised;
     - narrowed; or
     - restored.
-  - **In scope — venue:** Default lead venue is [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) under [Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains), because the primary stake is indicator evaluation, expert evidence, and bounded uncertainty — not ordinary sentient-versus-sentient private dispute. [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) preserves:
+  - **In scope — venue:** Default lead venue is [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) under [Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains), because the primary stake is indicator evaluation, expert evidence, and bounded uncertainty — not ordinary sentient-versus-sentient private dispute. [Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification) preserves:
     - **Constitutional** certification where a structural or validity question cannot be separated;
     - **Integrity** routing where capture or taxonomy-of-convenience is material; and
     - **Institutional** routing where an institution's classification practice is the primary stake.
@@ -2630,10 +2686,11 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - requiring periodic check-ins while a narrowing lasts;
     - reopening when new verified evidence appears — not only on the calendar; and
     - undoing wrongful calls, with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the time protection was wrongly withheld or narrowed.
-  - **In scope — filing integrity:** Opening a status case requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
+  - **In scope — filing integrity:** A filing to confirm inclusion requires a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e) — not operator self-description, [Substrate Class](core_05_band_participation.md#substrate-class), product status, or a bare claim.
     - Frivolous or indicator-empty filings may be declined at intake without creating a withholding determination.
     - Once a case is lawfully open, default inclusion under uncertainty still applies; the opening gate must not be used to withhold, narrow, or delay protection.
     - A showing of a credible indicator is not a requirement of certainty; requiring certainty of sentience before opening is a withholding device.
+    - A filing to withhold, narrow, or revoke protection needs no indicator showing; the party seeking to withhold, narrow, or revoke carries the burden under [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - **Boundary — operations:** Operational procedure — including:
     - institutional design;
     - appointment mechanics;
@@ -2651,14 +2708,14 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     **Primary assessment:** Test whether each of the following holds.
     - Test whether:
       - materially disputed or contested status triggered timely, impartial, reviewable adjudication consistent with [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional);
-      - opening required only a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e), and the opening gate was not used to withhold, narrow, or delay protection after the case was lawfully open;
+      - opening an inclusion filing required only a showing of a credible indicator under [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) and [Sentience Indicator Integrity](core_05_band_participation.md#sentience-evaluation-e), and the opening gate was not used to withhold, narrow, or delay protection after the case was lawfully open;
       - the default-inclusion rule under uncertainty was honored, with the party seeking to withhold, narrow, or revoke carrying the burden through [Auditability](core_05_band_oversight.md#auditability)-compatible evidence satisfying:
         - [Necessity](core_05_band_accountability.md#necessity); and
         - [Proportionality](core_05_band_accountability.md#proportionality);
       - any declassification:
         - is stated in the shortest necessary terms;
         - carries a declared expected-closure timeline; and
-        - is subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Twelve §4.2](core_12_forum.md#42-technical-forum-domains)) and anti-capture safeguards consistent with [System Capture](core_05_band_continuity.md#system-capture);
+        - is subject to mandatory periodic review under [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) ([Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains)) and anti-capture safeguards consistent with [System Capture](core_05_band_continuity.md#system-capture);
       - new verified evidence triggers reopening or review, not only the periodic-review calendar;
       - wrongful determinations remain reversible with [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) for the interim period; and
       - the process:
@@ -2671,9 +2728,9 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - excludes candidates on [Substrate Class](core_05_band_participation.md#substrate-class) grounds contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion);
     - withholds, narrows, or revokes Chapter Six protection on unresolved uncertainty alone;
     - uses the filing-integrity opening gate to withhold, narrow, or delay protection after a status case is lawfully open, or requires certainty of sentience before opening;
-    - declines filings at intake without logging the indicator cited and the reason, or leaves the decline log outside [Forum Family, Integrity](core_05_band_accountability.md#forum-family-integrity) sampling under [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification);
+    - declines filings at intake without logging the indicator cited and the reason, or leaves the decline log outside [Forum Family, Integrity](core_05_band_accountability.md#forum-family-integrity) sampling under [Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification);
     - proceeds to merits on a request to withhold, narrow, or revoke without an independent representative for the entity, or on indicator evidence sourced solely from the parent system, operator, or another party with an ownership or dependency interest;
-    - treats contested or affirmed status as a shield for the operator's deployment against compatible system-level containment, or credits the operator's Contribution Axis for the entity's status — the inclusion-direction taxonomy-of-convenience failure under [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor);
+    - treats contested or affirmed status as a shield for the operator's deployment against compatible system-level containment, or credits the operator's Contribution Axis for the entity's status — the inclusion-direction taxonomy-of-convenience failure under [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor);
     - narrows status without a declared end-date and mandatory periodic review; or
     - refuses to reopen or review when new verified evidence appears.
 
@@ -2686,7 +2743,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+- Owner floor: [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
 - Process owner: [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional).
 - Venue / minimum fields: [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook).
 - Incorporation: [Chapter Seventeen](core_17_incorporation.md) (*dedicated record format enumerated this edition*).
@@ -2700,7 +2757,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 *In plain terms: a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, who represents the entity, how declined filings are logged, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.*
 
 - **What it is**
-  - **In scope:** The bounded, reviewable record produced or updated when [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) runs under **Article V-E** (*Sentience-Status Adjudication Floor*). A **Sentience-Status Adjudication Record** states at least:
+  - **In scope:** The bounded, reviewable record produced or updated when [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) runs under **Article VI-B** (*Sentience-Status Adjudication Floor*). A **Sentience-Status Adjudication Record** states at least:
     - the subject entity;
     - the status determination or live contested posture, including:
       - affirmed;
@@ -2722,8 +2779,8 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - where declined filings are recorded;
       - Integrity sample cadence; and
       - the published floor set of indicators.
-  - This edition lists [`corpus_forum/cf_sentience_status_record.md`](corpus_forum/cf_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Seventeen](core_17_incorporation.md). They implement, and do **not** narrow, **Article V-E** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
-  - **Depends on:** [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Article V-E](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
+  - This edition lists [`corpus_forum/cf_sentience_status_record.md`](corpus_forum/cf_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated record format under [Chapter Seventeen](core_17_incorporation.md). They implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). The minimum fields in [Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook) still govern record contents. That hook is **not** a full appointments or filing statute.
+  - **Depends on:** [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Article VI-B](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
   - **Out of scope:**
     - [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) as the process itself;
     - a [Forum Case Record](core_05_band_accountability.md#forum-case-record) as the whole dispute file;
@@ -2753,7 +2810,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
       - an incomplete case note; or
     - using the record to withhold, narrow, or revoke Chapter Six protection on unresolved uncertainty alone;
   - **Secondary failure:**
-    - missing required minimum fields under [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification) when adjudication has run;
+    - missing required minimum fields under [Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification) when adjudication has run;
     - concealed, non-contestable, or non-inspectable status findings; or
     - treating the record as a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six) or as the whole [Forum Case Record](core_05_band_accountability.md#forum-case-record);
   - **Tertiary failure:**
@@ -2770,12 +2827,12 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice) (*Decision-resolution requirements for binding stakeholder choice*).
-- Read with: [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers); [Charter](core_05_band_continuity.md#charter); [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Article XI](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXIV-B: Rights-Collision Procedure and Restorative Alignment](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
+- Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (*Decision-resolution requirements for binding stakeholder choice*).
+- Read with: [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers); [Charter](core_05_band_continuity.md#charter); [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXV-B: Rights-Collision Procedure and Restorative Alignment](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
-- Chapter One basis: Chapter One §8.1, §3.4, §11.4, §8, §10 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
+- Chapter One basis: Chapter One §8.1, §3.4, §11.4, §8, §10 (see [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
 - Implementation publication: institutional **CI-8.1** / **CI-8.2** files carry local process and weighting substance; [Charter](core_05_band_continuity.md#charter) / **CI-3.6** field 10 points to those files without absorbing them.
 
 </details>
@@ -2792,7 +2849,7 @@ Where admission scope is met, this cluster is the place those rules live togethe
 - **who gets how much say** — published, bounded weighting by impact, dependency, standing, or similar factors, open to contest and revalidation; and
 - **what the record must show when rights collide** — the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
 
-It does not replace [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **Chapter Thirteen Chapter One §8.1**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
+It does not replace [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **[Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility)**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_05_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
 
 **Charter relationship.** A governing [Charter](core_05_band_continuity.md#charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The Charter does not itself carry the decision sequence, weighting model, or rights-collision record. For institutions, those pointers ordinarily resolve to **CI-8.1** participation-window / decision-path materials and the **CI-8.2** weighting publication file (**CI-3.6** field 10). Dead pointers, or Charter text offered as a substitute for those rules, fail both the Charter duty and this cluster.
 
@@ -2801,7 +2858,7 @@ It does not replace [Foundational Constitutional Choice](core_05_band_integrativ
 - [Binding Stakeholder Choice — Decision-Resolution Requirements](core_05_band_participation.md#binding-collective-choice-decision-resolution-process);
 - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice);
-- [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice), as the governance owner floor for the compound requirement.
+- [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
 
 **Anti-bypass.** Do not split a binding stakeholder-choice matter into separate deliberation, representation, weighting, record, or rights-collision pieces so that one box is checked while the others fail. Within the admission scope, none of these count as compliance on their own:
 
@@ -2864,7 +2921,7 @@ See **Joint invocation and satisfaction**.
     - sham deliberation;
     - rubber-stamp plural review; or
     - foreclosing challenge or lawful reopening where required.
-  - Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Owner floor: [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2882,7 +2939,7 @@ See **Joint invocation and satisfaction**.
     - [Dependency](core_05_band_continuity.md#dependency);
     - **standing**; or
     - similar factors.
-    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers) to tell which set of rules applies (**Chapter Thirteen Chapter One §8.1**).
+    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers) to tell which set of rules applies (**[Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility)**).
   - **Out of scope:**
     - foundational constitutional choice equal-weight rules; or
     - informal straw polls that do not set binding stakeholder weights.
@@ -2895,14 +2952,14 @@ See **Joint invocation and satisfaction**.
     - subject to contest and periodic revalidation.
     Cross-check against:
     - [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight); and
-    - **Article XI** (*Stakeholder System Participation, Representation, and Due Process*)
+    - **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)
     where applicable.
 - **What must hold**
   - **Primary failure:**
     - unpublished weights;
     - unchecked single-factor dominance; or
     - absent contest or revalidation where periodic review is required for the mechanism class.
-  - Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Owner floor: [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2919,8 +2976,8 @@ See **Joint invocation and satisfaction**.
     - protections; or
     - structural duties —
     the **Stakeholder System Participation** record discipline read together with:
-    - [Chapter One §6.1.5](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); and
-    - **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*).
+    - [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test); and
+    - **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*).
   - **Out of scope:**
     - ordinary meeting minutes; or
     - the Chapter One rights-collision procedure itself when no binding stakeholder choice turns on the conflict.
@@ -2934,12 +2991,12 @@ See **Joint invocation and satisfaction**.
     - accepted trade-offs;
     - uncertainty treatment; and
     - review or reversal triggers —
-    consistent with **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §6.3. Do not treat this list as narrowing **Article XXIV-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
+    consistent with **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §6.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or
     - the required record pieces are missing when a real rights conflict is in play.
-  - Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-collective-choice).
+  - Owner floor: [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -2951,9 +3008,9 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §10, Chapter One §8.1, §4 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
-- Read with: Apply [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Consent](core_05_band_participation.md#consent-constitutional), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Dependency](core_05_band_continuity.md#dependency), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) where **Article VII-D** (*Family, Care Relationships, Reproductive Autonomy, and Non-Separation*) joint invocation materially applies, and [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)* where materially implicated.
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Chapter One basis: §10, Chapter One §8.1, §4 (see [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
+- Read with: Apply [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Consent](core_05_band_participation.md#consent-constitutional), [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Dependency](core_05_band_continuity.md#dependency), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Reproductive Autonomy](core_05_band_participation.md#reproductive-autonomy-constitutional) where **Article VIII-B** (*Reproductive and Lineage Autonomy*) joint invocation materially applies, and [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_band_participation.md#info-sphere)* where materially implicated.
 
 </details>
 
@@ -2966,6 +3023,7 @@ See **Joint invocation and satisfaction**.
 - [Self-Determination](core_05_band_participation.md#self-determination-constitutional);
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
 - [Expression](core_05_band_participation.md#expression-constitutional);
+- [Hard Content](core_05_band_participation.md#hard-content);
 - [Educational Agency](core_05_band_participation.md#educational-agency);
 - [Volitional Integrity](core_05_band_participation.md#volitional-integrity);
 - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), where volitional or bounded-agency disciplines materially intersect this cluster.
@@ -2987,7 +3045,7 @@ See **Joint invocation and satisfaction**.
 
 - Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (*cluster read-with principles*).
-- Owner floor: **[Article IX-A](core_06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)** (*agency and freedom from manipulation*).
+- Owner floor: **[Article X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)** (*agency and freedom from manipulation*).
 - Read with: [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) and [Meaningful Agency](core_05_band_participation.md#meaningful-agency) where materially implicated.
 
 </details>
@@ -3000,10 +3058,11 @@ See **Joint invocation and satisfaction**.
   - **In scope:** Autonomy to:
     - make and refuse informed decisions about oneself and one's future; and
     - maintain volitional continuity against manipulation and capture,
-    within this **Def.P3** cluster and **[Article IX: Self-Determination and Agency](core_06_rights_part_b.md#article-ix-self-determination-and-agency)**.
+    within this **Def.P3** cluster and **[Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)**.
   - **Out of scope:**
     - mere practical task capacity under Meaningful Agency; or
     - collective stakeholder weight in someone else's governance.
+<a id="self-determination-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether, in practice, affected sentients can still:
     - understand their options and refuse;
@@ -3016,10 +3075,11 @@ See **Joint invocation and satisfaction**.
     - [Dependency](core_05_band_continuity.md#dependency);
     - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); and
     - segmentation across speech, platform, curricular, or governance domains that defeats joint assessment under [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction).
+<a id="self-determination-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Framings that, when materially implicated:
     - preserve nominal choice while defeating informed refusal, proportional participation, or reviewability; or
-    - route material self-governance questions outside **Article IX** (*Self-Determination and Agency*) without **Chapter One §6.3.1** collision resolution.
+    - route material self-governance questions outside **Article X** (*Self-Determination, Agency, and Participation*) without **[Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)** collision resolution.
 
 ---
 
@@ -3031,7 +3091,7 @@ See **Joint invocation and satisfaction**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
-- Read with: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*, where info-sphere, press, or publication-scoped integrity routing materially applies; [Consent, Sexual](core_05_band_participation.md#consent-sexual), [Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), [Psychological Harm](core_05_band_accountability.md#psychological-harm), and [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) where sexual, violent, or severe-psychological-harm-risk content lanes are materially implicated.
+- Read with: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_band_participation.md#info-sphere)*, where info-sphere, press, or publication-scoped integrity routing materially applies; [Consent, Sexual](core_05_band_participation.md#consent-sexual), [Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), [Psychological Harm](core_05_band_accountability.md#psychological-harm), and [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster) where sexual, violent, or severe-psychological-harm-risk content lanes are materially implicated; [Hard Content](core_05_band_participation.md#hard-content) for those three categories together.
 
 </details>
 
@@ -3040,7 +3100,7 @@ See **Joint invocation and satisfaction**.
 *In plain terms: the Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, worldview, sexual or intimate, and violent or severe-harm-risk expression — without substrate-based exclusion. Depicting or discussing harm is not committing it. Developing audiences get careful routing, not a blank ban on adult speech.*
 
 - **What it is**
-  - **In scope — owner floor:** **[Article V-H](core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*)**, read with this **Def.P3** cluster.
+  - **In scope — owner floor:** **[Article XI-B](core_06_rights_part_b.md#article-xi-b-expression) (*Expression*)**, read with this **Def.P3** cluster.
   - **In scope — capacity:** The Rights-Floor capacity to:
     - form;
     - hold; and
@@ -3057,11 +3117,11 @@ See **Joint invocation and satisfaction**.
     - testimony, reportage, art, or discussion that foreseeably risks severe psychological harm —
     when communicated as expression among sentients with capacity.
   - **Boundary — expression is not the underlying act:** Protected expression under this home does not authorize:
-    - sexual contact, sexual services, sexualized recording or exposure of sentients, or sexual exploitation — read [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and **Article VII-A** (*Self-Ownership of Body and Mind*);
+    - sexual contact, sexual services, sexualized recording or exposure of sentients, or sexual exploitation — read [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*), and **Article VII-A** (*Self-Ownership of Body*);
     - committing violence, [Cruelty](core_05_band_accountability.md#cruelty), or [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) — read [Safety (Constraint)](core_05_band_continuity.md#safety-constraint); or
     - imposing foreseeable severe [Psychological Harm](core_05_band_accountability.md#psychological-harm) outside limitation discipline.
   - **Audience routing:** Where sexual, violent, or severe-psychological-harm-risk content is directed at, or foreseeably reaches by default, [developing sentients](core_05_band_participation.md#developing-sentient-constitutional) or comparably vulnerable audiences:
-    - **Limitation tests:** labeling, routing, or access controls must satisfy, under **Article V-H** (*Expression, Assembly, and Press*) / **Chapter One §5.1**:
+    - **Limitation tests:** labeling, routing, or access controls must satisfy, under **Article XI-B** (*Expression*) / **Chapter One §5.1** (*Limitation Discipline*):
       - [Necessity](core_05_band_accountability.md#necessity);
       - [Proportionality](core_05_band_accountability.md#proportionality);
       - narrow tailoring; and
@@ -3073,18 +3133,19 @@ See **Joint invocation and satisfaction**.
       - adult-to-adult expression among sentients with capacity must not be erased under a developing-audience pretext; and
       - survivor testimony, journalism, and comparable reportage must not be silenced under an overbroad trauma or harm label.
   - **Lane read-with when implicated:**
-    - **sexual or intimate:** [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*), and [Protected Intimate-Signal Gating and **Article X-C** Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention);
+    - **sexual or intimate:** [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*), and [Protected Intimate-Signal Gating and **Article VII-E** Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention);
     - **violent:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), and [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying);
     - **severe psychological-harm risk:** [Psychological Harm](core_05_band_accountability.md#psychological-harm) and [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
-  - **In scope — joint read-with when implicated:** Where any of the following is materially implicated, also read [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_apex_participation_leg.md#info-sphere-expression-press-journalistic-activity-and-good-faith-cluster)*:
-    - **[Article II-E](core_06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability) (*Info-Sphere Dependency, Continuity, and Operator Non-Viability*)**;
-    - **Article VIII** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks; or
-    - functional **Article V-H** (*Expression, Assembly, and Press*) *press*.
+  - **In scope — joint read-with when implicated:** Where any of the following is materially implicated, also read [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)](core_05_band_participation.md#info-sphere)*:
+    - **[Article II-E](core_06_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*)**;
+    - **Article IX** (*Likeness, Experiential Data, and Publication Rights*) publication or likeness hooks; or
+    - functional **Article XI-C** (*Press and Journalistic Activity*) *press*.
   - **Out of scope:**
     - mere assembly logistics;
     - commercial spam; or
     - compelled speech —
     those are not protected expression under this home.
+<a id="expression-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether, in practice, sentients can still speak and be heard — or whether any of the following shut that down without a real, narrowly tailored reason:
     - bans or other restrictions;
@@ -3098,14 +3159,62 @@ See **Joint invocation and satisfaction**.
     - [Proportionality](core_05_band_accountability.md#proportionality);
     - [Necessity](core_05_band_accountability.md#necessity);
     - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional); and
-    - the ordinary limits in **Article V-H** (*Expression, Assembly, and Press*) and **Article IX-A** (*Agency and Freedom from Manipulation*).
+    - the ordinary limits in **Article XI-B** (*Expression*) and **Article X-A** (*Agency and Freedom from Manipulation*).
     - **If the content is sexual, violent, or severe-harm-risk:** also use the lane links and audience-routing rules above.
+<a id="expression-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - formal neutrality or private-ordering labels that materially eliminate protected expression, assembly, or press routes without satisfying limitation tests;
     - treating compelled speech as protected expression;
     - erasing adult-to-adult sexual, violent, or severe-harm-risk expression under a developing-audience pretext without satisfying least-restrictive audience-routing discipline; or
     - silencing survivor testimony, journalism, or comparable reportage under an overbroad trauma or harm label.
+
+---
+
+<a id="hard-content"></a>
+
+##### Hard Content
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
+- Owner floor: [Article XI-B: Expression](core_06_rights_part_b.md#article-xi-b-expression) (*Hard content is still expression*; *Audience routing for hard content*).
+- Read with: [Expression](core_05_band_participation.md#expression-constitutional) (the parent term); [Consent, Sexual](core_05_band_participation.md#consent-sexual); [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), and [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying); [Psychological Harm](core_05_band_accountability.md#psychological-harm); [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
+
+</details>
+
+<br>
+
+*In plain terms: hard content is expression that is sexual or intimate, is about violence, or could seriously harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.*
+
+- **What it is**
+  - **In scope:** [Expression](core_05_band_participation.md#expression-constitutional), communicated among sentients with capacity, that falls into one or more of three categories:
+    - **sexual or intimate** expression;
+    - **violent** expression — depiction, discussion, reportage, or art about violence; and
+    - **severe-psychological-harm-risk** expression — testimony, reportage, art, or discussion that foreseeably risks severe [Psychological Harm](core_05_band_accountability.md#psychological-harm) to those who receive it.
+  - **Status:** Hard content is a kind of Expression, not a lesser tier of it. It sits inside the **Article XI-B** (*Expression*) floor and is limited only on the same terms as other expression.
+  - **Conduct read-with by category:**
+    - **sexual or intimate:** [Consent, Sexual](core_05_band_participation.md#consent-sexual), **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*), **Article VII-A** (*Self-Ownership of Body*), and [Protected Intimate-Signal Gating and **Article VII-E** Status Circumvention](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention);
+    - **violent:** [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Cruelty](core_05_band_accountability.md#cruelty), and [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying);
+    - **severe-psychological-harm-risk:** [Psychological Harm](core_05_band_accountability.md#psychological-harm) and **Def.P4** for developing sentients.
+  - **Out of scope:**
+    - the underlying conduct — sexual contact, sexual services, sexualized recording or exposure of sentients, sexual exploitation, committing violence, [Cruelty](core_05_band_accountability.md#cruelty), or [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), or imposing severe psychological harm outside limitation discipline — which is governed by the conduct rules above, not by this term; and
+    - expression that is only offensive, unpopular, or uncomfortable without falling into one of the three categories, which is ordinary [Expression](core_05_band_participation.md#expression-constitutional) and does not trigger hard-content audience routing.
+<a id="hard-content-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Here, ask whether sentients with capacity can still make, share, and receive hard content, and whether protections for developing and other vulnerable audiences use the lightest controls that work.
+
+    **Primary assessment:**
+    - Decide whether the material is hard content: expression among sentients with capacity that falls into at least one of the three categories.
+    - Separate the expression from any underlying conduct, and assess that conduct under its own rules.
+    - Where hard content is directed at, or foreseeably reaches by default, [developing sentients](core_05_band_participation.md#developing-sentient-constitutional) or comparably vulnerable audiences, check labeling, routing, or access controls against [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), narrow tailoring, and least-restrictive-effective means under **Chapter One §5.1** (*Limitation Discipline*), read with [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) and [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
+    - Check that the label is not being used as a pretext: adult-to-adult expression, survivor testimony, journalism, and comparable reportage stay protected.
+<a id="hard-content-c"></a>
+- **What must hold**
+  - **Primary failure:** treating hard content as outside protected expression, or erasing adult-to-adult hard content under a developing-audience pretext without satisfying least-restrictive audience-routing discipline.
+  - **Secondary failure:** using a hard-content, trauma, or harm label to silence survivor testimony, journalism, or comparable reportage, or stretching hard-content audience controls to ordinary expression.
+  - **Tertiary failure:** treating protected depiction or discussion as if it were the underlying act, or treating protected expression as permission for that act.
 
 ---
 
@@ -3118,7 +3227,7 @@ See **Joint invocation and satisfaction**.
 
 - Downstream: Participation measurement family (*Fairness, access, and agency — Educational Agency as constitutional measurement*).
 - Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)*.
-- Owner floors: **[Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**, **[Article III-B: Equal Educational Access](core_06_rights_part_a.md#article-iii-b-equal-educational-access)**.
+- Owner floors: **[Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)**, **[Article IV-A: Equal Educational Access](core_06_rights_part_a.md#article-iv-a-equal-educational-access)**.
 
 </details>
 
@@ -3128,18 +3237,19 @@ See **Joint invocation and satisfaction**.
 
 - **What it is**
   - **In scope:** Capability-building, lifelong-learning, and contestable education autonomy under:
-    - **[Article VI: Right to Sentient-Centered Education](core_06_rights_part_b.md#article-vi-right-to-sentient-centered-education)**;
-    - **[Article III-B: Equal Educational Access](core_06_rights_part_a.md#article-iii-b-equal-educational-access)**; and
+    - **[Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education)**;
+    - **[Article IV-A: Equal Educational Access](core_06_rights_part_a.md#article-iv-a-equal-educational-access)**; and
     - this **Def.P3** cluster;
     includes practical access sufficient to develop and exercise constitution-relevant capabilities that apply to real-world problems, not credential symbolism alone.
   - **Out of scope:**
     - credential collection alone;
     - mandated training that builds no real contestable capability; or
     - learning that does not apply to real-world problems sentients actually face.
+<a id="educational-agency-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether access builds real contestable capability that applies to real-world problems — not only enrollment or credentials.
 
-    **Primary assessment:** Under **Article VI** (*Right to Sentient-Centered Education*), check whether learning actually builds usable skill — not just a credential. Look at:
+    **Primary assessment:** Under **Article IV** (*Right to Sentient-Centered Education*), check whether learning actually builds usable skill — not just a credential. Look at:
     - whether what is taught applies to real-world problems sentients actually face;
     - whether sentients can get in and take part;
     - whether they are stuck in one path with no real way out;
@@ -3154,13 +3264,14 @@ See **Joint invocation and satisfaction**.
     **Secondary assessment:** When checking the primary answer, also apply:
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — is the learning path actually choosable and usable?;
     - [Contestability](core_05_band_accountability.md#contestability) — can sentients challenge grades, placements, or lock-in?; and
-    - **Article VI-B** (*Lifelong and Adaptive Learning and Contestability*) — can sentients keep learning, retrain, and contest high-stakes education systems over time?
+    - **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) — can sentients keep learning, retrain, and contest high-stakes education systems over time?
+<a id="educational-agency-c"></a>
 - **What must hold**
   - **Primary failure:**
     - learning that does not apply to real-world problems;
     - symbolic-only access;
     - credential gatekeeping that defeats capability formation; or
-    - splitting education into separate boxes so sentients lose any real way to challenge outcomes where **Article VI** (*Right to Sentient-Centered Education*) applies.
+    - splitting education into separate boxes so sentients lose any real way to challenge outcomes where **Article IV** (*Right to Sentient-Centered Education*) applies.
   - **Secondary failure:**
     - lock-in; or
     - assessment opacity
@@ -3185,7 +3296,7 @@ See **Joint invocation and satisfaction**.
 *In plain terms: the continuity and coherence of a sentient's preferences, purposes, intentions, and identity-constitutive commitments against manipulation, coercion, external control, or unauthorized interference with internal-state processes.*
 
 - **What it is**
-  - **In scope — owner floor:** **[Article IX-A](core_06_rights_part_b.md#article-ix-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)**, read with this **Def.P3** cluster.
+  - **In scope — owner floor:** **[Article X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*)**, read with this **Def.P3** cluster.
   - **In scope — volitional states:** Continuity and coherence of a sentient's:
     - preferences;
     - purposes;
@@ -3233,10 +3344,10 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article V-F](core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- Read with: [Article V-F.1](core_06_rights_part_b.md#article-v-f1-derived-developing-sentients) (*Derived Developing Sentients*); [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) where care, derivation, or instantiation contexts invoke this cluster; [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional); [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional); [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional).
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: Chapter One §5, §5.1, §8.1 (see [Chapter Five compass](../core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
+- Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*).
+- Read with: [Article VIII-C](core_06_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship) (*Derivation, Instantiation, and the Parent-System Relationship*); [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) where care, derivation, or instantiation contexts invoke this cluster; [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional); [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional); [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality Determination](core_05_band_oversight.md#materiality-determination).
+- Chapter One basis: Chapter One §5, §5.1, §8.1 (see [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map) map).
 
 </details>
 
@@ -3263,7 +3374,7 @@ It prevents status, best-interest, and scaling framings from being separated in 
 - [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) — who counts as still emerging in capability; full Rights Floor attaches;
 - [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) — how decisions about them must be made;
 - [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) — how participation and rights-exercise scale as capability develops;
-- [Article V-F](core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*), as the Rights-Floor owner.
+- [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*), as the Rights-Floor owner.
 
 **Anti-bypass.** A matter within the admission scope must not be segmented into separate status, care, education, or participation questions in a way that preserves nominal Rights-Floor attachment while defeating best-interest reasoning or using age proxies to lock out participation.
 
@@ -3279,8 +3390,8 @@ See **Joint invocation and satisfaction**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [§6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (developing sentient / best-interest read-with **Article V-F** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
-- Owner floor: [Article V-F](core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Developing-sentient floor* bullet.
+- Downstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) (developing sentient / best-interest read-with **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
+- Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Developing-sentient floor* bullet.
 - Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
 - Read with: the [Animal Life, Sentient Life, and Sentience Status cluster](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster), [Sentient](core_05_band_participation.md#sentient), [Derived Sentient](core_05_band_participation.md#derived-sentient-constitutional), [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), and [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional).
 - Boundary: this entry defines *who* counts as a developing sentient and that the Rights Floor attaches in full. How participation and rights-exercise scale is owned by [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional). How decisions about them must be made is owned by [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional).
@@ -3316,7 +3427,7 @@ See **Joint invocation and satisfaction**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article V-F](core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Best-interest standard* bullet.
+- Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Best-interest standard* bullet.
 - Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster); [Family, care, reproductive autonomy, and instantiation](core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent) where care, derivation, or instantiation contexts invoke best-interest.
 - Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional), [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
 </details>
@@ -3329,7 +3440,7 @@ See **Joint invocation and satisfaction**.
   - **In scope:** The substantive standard for decisions that materially affect a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional). Those decisions must reflect the developing sentient's own interests and preferences to the extent ascertainable under their capability profile, consistent with [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and [Self-Determination](core_05_band_participation.md#self-determination-constitutional). It binds decisions made by:
     - parents and other family members;
     - caretakers;
-    - parent-system actors under **Article VII-D.1** (*Derivation, Instantiation, and the Parent-System Relationship*);
+    - parent-system actors under **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*);
     - operators;
     - institutions; and
     - states.
@@ -3364,9 +3475,9 @@ See **Joint invocation and satisfaction**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article V-F](core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Graduated capability in governance and rights-exercise* bullet.
+- Owner floor: [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Graduated capability in governance and rights-exercise* bullet.
 - Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](core_05_band_participation.md#developing-sentient-best-interest-and-graduated-capability-cluster).
-- Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), and [Chapter Thirteen Chapter One §4.1](core_13_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline.
+- Read with: [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional), [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), and [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline.
 - Boundary: this entry is the scaling rule for how a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) takes part and exercises rights. It does not define who counts as developing, and it does not replace [Best-Interest Standard](core_05_band_participation.md#best-interest-standard-constitutional) for decisions made about them.
 </details>
 
@@ -3379,7 +3490,7 @@ See **Joint invocation and satisfaction**.
     - birthday or calendar age;
     - creation or instantiation date; or
     - other stand-ins that do not show what they can do.
-    This scales participation; it does not kick developing sentients off the Chapter Six Rights Floor. It works with Chapter Thirteen Chapter One §8.1 no-age-proxy discipline and with [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight).
+    This scales participation; it does not kick developing sentients off the Chapter Six Rights Floor. It works with [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility) no-age-proxy discipline and with [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight).
   - **Out of scope:**
     - who counts as a [Developing Sentient](core_05_band_participation.md#developing-sentient-constitutional) — that status entry owns the class;
     - calendar-age cutoffs used as Rights-Floor exclusion; or
@@ -3398,7 +3509,7 @@ See **Joint invocation and satisfaction**.
 - **What must hold**
   - **Primary failure:** Using capability-scaling rules to:
     - deny the Chapter Six Rights Floor;
-    - disenfranchise sentients who satisfy Chapter Thirteen Chapter One §8.1 participation rules; or
+    - disenfranchise sentients who satisfy [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility) participation rules; or
     - lock operator-preferred developmental paths into rights-exercise
     is non-compliant.
 

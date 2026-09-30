@@ -42,7 +42,7 @@ Ta chủ ý xây các hệ thống tốt hơn — được cấu trúc để lo�
 
 Những mục tiêu đó phải được theo đuổi cùng nhau, luôn trong các ràng buộc nguyên tắc không thương lượng và các bảo vệ quyền đã lập trong Hiến pháp này. [**Tứ diện Hiến pháp**](#constitutional-tetrad) quản trị cách cuộc theo đuổi đó vẫn chính danh: **tham gia**, **giám sát**, **trách nhiệm giải trình**, và **kịp thời** được chia tỷ lệ theo [**lợi hại vật chất**](#material-stake). Các định nghĩa ràng buộc cho các trụ của Tứ diện và các mục tiêu hiến pháp sống ở Chương Năm: [Tham gia](core_05_apex_participation_leg.md#participation-constitutional), [Giám sát](core_05_apex_oversight_leg.md#oversight-constitutional), [Trách nhiệm giải trình](core_05_apex_accountability_leg.md#accountability), [Kịp thời](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Hưng thịnh](core_05_apex_flourishing_aim.md#flourishing-constitutional), và [Liên tục](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. Tổng quan đo lường
@@ -86,7 +86,7 @@ Hiểu biết phân tán và quản trị có trách nhiệm đòi các hữu tr
 
 Khi Hiến pháp đòi các quy tắc đo lường cụ thể, các **Lĩnh vực Diễn đàn Kỹ thuật** dưới [Chương Mười Một](core_11_forum.md#42-technical-forum-domains) xây và giữ các chuẩn chung — cách đo, cách thử, và cái gì được tính là bằng chứng đáng tin. Diễn đàn chịu trách nhiệm cho một tranh chấp rồi áp dụng những chuẩn đó khi quyết vụ đó dưới [Chương Mười Một §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
-Quản trị có trách nhiệm hiến pháp bắt đầu bằng việc gọi tên vấn đề và [**lợi hại vật chất**](#material-stake) — mức tác động, phụ thuộc, và rủi ro liên quan. Tiếp theo, chọn nhóm và nhóm con [**đo lường**](#2-the-measurements) thích hợp từ [tổng quan](#2-the-measurements) và áp dụng các chuẩn trên để thử hiệu ứng đời thực thay vì chỉ số tiện. Đòi bằng chứng truy được.
+Quản trị có trách nhiệm hiến pháp bắt đầu bằng việc gọi tên vấn đề và [**lợi hại vật chất**](#material-stake) — mức tác động, phụ thuộc, và rủi ro liên quan. Tiếp theo, chọn nhóm và nhóm con [**đo lường**](#2-measurements-overview) thích hợp từ [tổng quan](#2-measurements-overview) và áp dụng các chuẩn trên để thử hiệu ứng đời thực thay vì chỉ số tiện. Đòi bằng chứng truy được.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Các quy trình quản trị then chốt
@@ -101,7 +101,7 @@ Nơi Chương Sáu, [Chương Bảy](../../core_08_a_system_alignment_certificat
 - **Rà soát diễn đàn** ([Chương Mười Một](core_11_forum.md#1-purpose-and-role))
   - Tranh chấp thường bên trong hệ thống đã được ủy quyền dùng đường dẫn tranh biện đã công bố của [Tham gia hệ thống của bên bị ảnh hưởng](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) trước
   - Nếu đường dẫn đó vẫn bị tranh, thiếu, bị chiếm, hoặc không thể cấp cứu trợ, định tuyến theo lợi hại chính qua các diễn đàn được giám sát
-  - Những diễn đàn đó nâng đỡ bằng chứng, chuyển hợp pháp, và đồng hồ kịp thời dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*)
+  - Những diễn đàn đó nâng đỡ bằng chứng, chuyển hợp pháp, và đồng hồ kịp thời dưới **Điều XXV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*)
 
 <a id="33-governance-layers"></a>
 #### 3.3 Các tầng quản trị
@@ -157,7 +157,7 @@ Mỗi tóm tắt nêu chương nắm gì và tạo ra gì.
 
 **Chương Sáu — Quyền nền tảng** ([Phần A](../../core_06_rights_part_a.md) · [Phần B](../../core_06_rights_part_b.md) · [Phần C](../../core_06_rights_part_c.md) · [Phần D](../../core_06_rights_part_d.md))
 
-- **Nội dung nắm giữ:** Nêu Sàn Quyền ở các Điều **I–XXVI** — những thứ thiết yếu sống còn, phân bổ tài nguyên và quản trị có trách nhiệm đối với phụ thuộc, phẩm giá, quyền năng, tham gia, tranh biện và khắc phục, ràng buộc công lý, kịp thời dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*), và quy tắc chuyển tiếp — tổ chức để đọc hành tinh-trước qua bốn phần.
+- **Nội dung nắm giữ:** Nêu Sàn Quyền ở các Điều **I–XXVII** — những thứ thiết yếu sống còn, phân bổ tài nguyên và quản trị có trách nhiệm đối với phụ thuộc, phẩm giá, quyền năng, tham gia, tranh biện và khắc phục, ràng buộc công lý, kịp thời dưới **Điều XXV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*), và quy tắc chuyển tiếp — tổ chức để đọc hành tinh-trước qua bốn phần.
 - **Nội dung tạo ra:** Bảo vệ quyền không thương lượng và móc khắc phục mà Chương Bảy đến Mười Một, các diễn đàn, quản trị, và quy tắc tu chính phải tôn — không thu hẹp, lách, hay làm rỗng bằng thủ tục hoặc chỉ số thay thế.
 
 <a id="5-key-practical-process-pipelines"></a>
@@ -187,7 +187,7 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
 
 - **Nội dung nắm giữ:** Tích hợp các phân loại đã xác minh thành **hiệu ứng quỹ đạo** đời thực trên các đường riêng — chia tỷ lệ theo [**lợi hại vật chất**](#material-stake), không gộp đóng góp và vi phạm thành một điểm ròng, và không làm rỗng tham gia, giám sát, trách nhiệm giải trình, hay kịp thời.
   - **Đường đóng góp:** Phân loại dương đã xác minh tạo lợi thực tế:
-    - [**Giấy thông hành năng lực**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) có thể mở các vai trò nhạy tin cậy, thẩm quyền được ủy, tư cách giám sát, và quản trị có trách nhiệm có hệ quả tăng dần khi năng lực được chứng minh so với thanh năng lực đã công bố và không có [khóa quỹ đạo](../../core_10_standing_integration.md#42-general-standing-locks) áp dụng chặn đường dẫn được đặt tên
+    - [**Giấy thông hành năng lực**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) có thể mở các vai trò nhạy tin cậy, thẩm quyền được ủy, tư cách giám sát, và quản trị có trách nhiệm có hệ quả tăng dần khi năng lực được chứng minh so với thanh năng lực đã công bố và không có [khóa quỹ đạo](../../core_10_standing_integration.md#42-prevention--general-standing-locks) áp dụng chặn đường dẫn được đặt tên
     - Ghi nhận tương xứng và **thưởng vật chất** cho quản trị có trách nhiệm hợp pháp và hợp tác như [Chương Một](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) đòi
     - Không phải lời khen rỗng. Lợi ích phải thực, có bằng chứng chống lưng, và mở cho tranh biện
   - **Đường vi phạm:** Phát hiện vi phạm đã xác minh tạo hại thực tế:
@@ -211,7 +211,7 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
   - Cách bằng chứng được nâng đỡ
   - Cách việc được chuyển hoặc gộp
   - Cách các quy tắc chống tự xét giữ các diễn đàn bị chiếm không phải nhà cuối duy nhất
-  - Đồng hồ dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) giữ các vụ không nằm không giải quyết lâu đến mức khắc phục không còn ý nghĩa
+  - Đồng hồ dưới **Điều XXV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) giữ các vụ không nằm không giải quyết lâu đến mức khắc phục không còn ý nghĩa
 - **Nội dung tạo ra:** **Phát hiện đã xác minh** có thể mở hoặc cập nhật hồ sơ quỹ đạo, cộng định tuyến hợp pháp hướng tới khắc phục và [giải quyết kịp thời](../../core_05_band_accountability.md#timely-resolution-constitutional). Các diễn đàn giám sát chuỗi; chúng không thay đo lường quỹ đạo Chương Tám.
 
 <a id="51-how-the-full-chain-fits-together"></a>
@@ -225,7 +225,7 @@ Mỗi bước dưới đây nêu chương nắm gì và tạo ra gì. [Chuỗi �
    - **Bản chất vi phạm:** Mở một **hồ sơ quỹ đạo vi phạm** — hồ sơ vụ có giới hạn, tranh biện được về hại đã xác minh và thất bại trách nhiệm giải trình — và phân loại **bản chất vi phạm** trên Trục Vi phạm. Tốt và hại không bao giờ gộp thành một điểm ròng; hồ sơ liên kết đối chiếu nhưng giữ riêng.
 3. **Áp hiệu ứng quỹ đạo trên mỗi đường** ([Chương Chín](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — đóng góp đã xác minh có thể cấp giấy thông hành năng lực và nâng đỡ ghi nhận tương xứng cùng thưởng vật chất; vi phạm đã xác minh có thể kích hoạt khóa quỹ đạo, sửa chữa, và [khắc phục cho những ai bị hại](../../core_10_standing_integration.md#41-remedy-and-correction).
 4. **Rà soát chỉ định phản hiến pháp** ([Chương Mười](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — nếu một phát hiện vi phạm tác động cao nhất cũng có thể thỏa tiêu chí phản hiến pháp, Chương Mười quyết chỉ định tương ứng có gắn không. Chỉ định không đổi mức nghiêm mà Chương Tám đã tìm thấy; hiệu ứng thường Chương Chín tiếp tục song song cho đến khi một chỉ định cuối kích hoạt Khóa Tin cậy Phản Hiến pháp.
-5. **Định tuyến tranh chấp và giữ khắc phục kịp thời** ([Chương Mười Một](core_11_forum.md#1-purpose-and-role)) — các diễn đàn giám sát cách vụ di chuyển, đường nào xử chúng, và liệu đồng hồ dưới **Điều XXIV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) có được thỏa để khắc phục không chết trong trì hoãn. Tranh chấp thường theo [Trình tự tranh chấp](core_11_forum.md#dispute-sequencing). Các diễn đàn cũng phân loại tranh chấp thành năm [bậc trọng yếu](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) soi bảng chữ phân loại hệ thống — từ khẩn cấp sống còn đến việc tư/kín — và định tuyến mặc định họ Toàn vẹn áp dụng khi chỉ định cuối Chương Mười là lợi hại chính.
+5. **Định tuyến tranh chấp và giữ khắc phục kịp thời** ([Chương Mười Một](core_11_forum.md#1-purpose-and-role)) — các diễn đàn giám sát cách vụ di chuyển, đường nào xử chúng, và liệu đồng hồ dưới **Điều XXV-C** (*Sàn Giải quyết kịp thời và Chống trì hoãn*) có được thỏa để khắc phục không chết trong trì hoãn. Tranh chấp thường theo [Trình tự tranh chấp](core_11_forum.md#dispute-sequencing). Các diễn đàn cũng phân loại tranh chấp thành năm [bậc trọng yếu](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) soi bảng chữ phân loại hệ thống — từ khẩn cấp sống còn đến việc tư/kín — và định tuyến mặc định họ Toàn vẹn áp dụng khi chỉ định cuối Chương Mười là lợi hại chính.
 
 [Bản đồ chuỗi quỹ đạo của README](../../README.md#standing-pipeline-and-forums) cung cấp điều hướng trực tiếp cho chuỗi trên, kể cả các đầu vào đã xác minh tiềm năng của Chương Bảy vào đo lường quỹ đạo.
 

@@ -260,7 +260,7 @@
 - [संरक्षित वैशिष्ट्ये](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [संरक्षित डेटा आणि अंतर्गत-अवस्था प्रकाशन बंधन](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [संरक्षित अंतर्गत-अवस्था सीमा](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [संरक्षित अंतरंग-संकेत द्वार आणि **अनुच्छेद X-C** (*प्रौढ संमतीपूर्ण व्यावसायिक लैंगिक सेवा आणि लैंगिक शोषण*) स्थिती वळसा](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [संरक्षित अंतरंग-संकेत द्वार आणि **अनुच्छेद XI-C** (*प्रौढ संमतीपूर्ण व्यावसायिक लैंगिक सेवा आणि लैंगिक शोषण*) स्थिती वळसा](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [संरक्षित अहवाल (सूचना)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [संरक्षित अहवाल प्रतिशोध आणि पोहोच हस्तक्षेप](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence)

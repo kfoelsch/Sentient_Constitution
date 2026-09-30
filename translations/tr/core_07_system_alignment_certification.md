@@ -32,7 +32,7 @@
 *Yalın dille: Yedinci Bölüm ikiye bölünmüştür — A Kısmı nasıl değerlendirileceği için, B Kısmı kayıt ve süreç için. Onları tek bir bölüm olarak okuyun.*
 
 Değerlendirme gerekleri için önce **A Kısmı**nı okuyun; kayıt, forum süreci ve güzergâh köprüsü için **B Kısmı**nı.
-Dörtlünün **gözetim** bacağı altında gözetim denetim ister; Yedinci Bölüm, diğerleri arasında özellikle büyük, yüksek maddi paylı bir denetim sürecidir (tanıma sonuçlarıyla forum-gözetimli hizalama incelemesi). Denetim tabanları **Madde XV**te ve Beşinci Bölüm [Denetlenebilirlik](core_05_band_oversight.md#auditability)inde kalır.
+Dörtlünün **gözetim** bacağı altında gözetim denetim ister; Yedinci Bölüm, diğerleri arasında özellikle büyük, yüksek maddi paylı bir denetim sürecidir (tanıma sonuçlarıyla forum-gözetimli hizalama incelemesi). Denetim tabanları **Madde XVI**te ve Beşinci Bölüm [Denetlenebilirlik](core_05_band_oversight.md#auditability)inde kalır.
 - [Yedinci Bölüm, A Kısmı — Değerlendirme](core_07_a_system_alignment_certification_evaluation.md#chapter-seven-part-a-certification-evaluation)
 - [Yedinci Bölüm, B Kısmı — Kayıt ve süreç](core_07_b_system_alignment_certification_record_process.md#chapter-seven-part-b-certification-record-and-process)
 ---

@@ -260,7 +260,7 @@
 - [ลักษณะที่คุ้มครอง](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [ข้อจำกัดการเผยแพร่ข้อมูลที่คุ้มครองและสถานะภายใน](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [ขอบเขตสถานะภายในที่คุ้มครอง](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [การกรองสัญญาณส่วนลึกที่คุ้มครองและการเลี่ยงสถานะ **มาตรา X-C** (*บริการทางเพศเชิงพาณิชย์โดยความยินยอมของผู้ใหญ่และการแสวงหาประโยชน์ทางเพศ*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [การกรองสัญญาณส่วนลึกที่คุ้มครองและการเลี่ยงสถานะ **มาตรา XI-C** (*บริการทางเพศเชิงพาณิชย์โดยความยินยอมของผู้ใหญ่และการแสวงหาประโยชน์ทางเพศ*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [การรายงานที่คุ้มครอง (การเป่านกหวีด)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [การแก้แค้นต่อการรายงานที่คุ้มครองและการรบกวนการเข้าถึง](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [ความคลาดของตัวแทนวัด](../../core_05_band_oversight.md#proxy-divergence)

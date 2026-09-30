@@ -8,6 +8,11 @@ Also enforces a blank line before ``---`` horizontal rules (CommonMark / Cursor
 preview): a ``---`` line immediately under non-empty text is parsed as a Setext
 heading underline, not a thematic break.
 
+Rule MD-HTML-BLOCK-BLANK-01: a standalone ``<br>`` (or ``</details>`` /
+``</div>``) line must be followed by a blank line before any Markdown. Otherwise
+CommonMark keeps the next line inside the HTML block, so a ``### Heading`` right
+under a ``<br>`` spacer renders as literal ``###`` text.
+
 Rule MD-LIST-INTRO-01: a bold list-intro lead-in must end with a colon, not a
 period. That covers a standalone ``**Record and showing:**`` line, a
 heading-echo run-in (``**Symmetric costly constraints:**`` … then a list), and
@@ -30,7 +35,15 @@ import sys
 from corpus_paths import binding_corpus_scope
 
 RULE_LIST_INTRO = "MD-LIST-INTRO-01"
+<<<<<<< HEAD
 RULE_HTML_HEADING = "MD-HTML-HEADING-01"
+=======
+RULE_HTML_BLOCK_BLANK = "MD-HTML-BLOCK-BLANK-01"
+# Standalone HTML lines that open a CommonMark HTML block. The block runs until
+# the next blank line, so Markdown directly beneath (e.g. a heading) is
+# swallowed and rendered as literal text.
+HTML_BLOCK_LINE_RE = re.compile(r"^(?:<br\s*/?>|</details>|</div>)$", re.IGNORECASE)
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 # ASCII period plus CJK/Devanagari/Bengali danda and Urdu full stop.
 LIST_INTRO_PERIODS = frozenset(".。।۔")
 LIST_INTRO_HEADER_RE = re.compile(r"^\*\*(.+)[.\u3002\u0964\u06d4]\*\*\s*$")
@@ -384,7 +397,7 @@ DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "corpus_institutions.md",
     "corpus_forum.md",
     "corpus_joint_structure.md",
-    "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+    "project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
     "README.md",
     "doc_architecture.md",
     "archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md",
@@ -425,6 +438,7 @@ def check_horizontal_rule_preceding_blank(lines: list[str], path_label: str) -> 
     return errors
 
 
+<<<<<<< HEAD
 # CommonMark §4.6 HTML block start conditions (types 1, 2, 6, 7).
 _T1_START = re.compile(r"^ {0,3}<(?:script|pre|style|textarea)(?:\s|>|$)", re.I)
 _T1_END = re.compile(r"</(?:script|pre|style|textarea)>", re.I)
@@ -480,6 +494,27 @@ def check_heading_swallowed_by_html_block(lines: list[str], path_label: str) -> 
             if end=="blank" or not end.search(line[line.find("<")+1:] if end is not _T1_END else line):
                 html_end=end
         prev_blank=False
+=======
+def check_html_block_following_blank(lines: list[str], path_label: str) -> list[str]:
+    """Standalone ``<br>``-type lines must be followed by a blank line before Markdown."""
+    errors: list[str] = []
+    in_fence = False
+    for i, line in enumerate(lines[:-1]):
+        s = line.strip()
+        if s.startswith("```") or s.startswith("~~~"):
+            in_fence = not in_fence
+            continue
+        if in_fence or not HTML_BLOCK_LINE_RE.match(s):
+            continue
+        nxt = lines[i + 1].strip()
+        if not nxt or nxt.startswith("<"):
+            continue
+        preview = nxt if len(nxt) <= 120 else nxt[:117] + "..."
+        errors.append(
+            f"{path_label}:{i + 2}: Markdown directly after {s!r} is swallowed into the "
+            f"HTML block; insert a blank line ({RULE_HTML_BLOCK_BLANK}): {preview!r}"
+        )
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
     return errors
 
 
@@ -487,7 +522,7 @@ def resolve_thematic_paths(root: pathlib.Path, arg: str | None) -> list[pathlib.
     if arg is None:
         names = [
             *binding_corpus_scope(root, include_support_docs=True),
-            "CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+            "project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
             "archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md",
         ]
     else:
@@ -540,6 +575,21 @@ def main() -> int:
         findings.extend(check_horizontal_rule_preceding_blank(tb_lines, rel))
         findings.extend(check_oec_intro_sublist_nesting(tb_lines, rel))
         findings.extend(check_heading_swallowed_by_html_block(tb_lines, rel))
+
+    html_block_paths = {p.resolve() for p in thematic_paths}
+    html_block_paths.update(
+        (root / rel).resolve()
+        for rel in binding_corpus_scope(root, include_support_docs=True)
+        if (root / rel).is_file()
+    )
+    html_block_paths.update(p.resolve() for p in translation_markdown_files(root))
+    for hb_path in sorted(html_block_paths):
+        rel = hb_path.relative_to(root).as_posix()
+        findings.extend(
+            check_html_block_following_blank(
+                hb_path.read_text(encoding="utf-8").splitlines(), rel
+            )
+        )
 
     for rel in binding_corpus_scope(root):
         path = root / rel

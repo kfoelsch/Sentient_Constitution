@@ -102,7 +102,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Aşağı: İlkeler: [Önsöz §3.3 yönetişim katmanları](core_00_preamble.md#33-governance-layers); [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Sahip tabanı: [On İkinci Bölüm: Anayasal sözleşme, meşruiyet, yetkilendirme ve sorumlu yönetim](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Madde IX-C: Yönetişim katılımı ve oy hakkı](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- Sahip tabanı: [On İkinci Bölüm: Anayasal sözleşme, meşruiyet, yetkilendirme ve sorumlu yönetim](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [Madde X-C: Yönetişim katılımı ve oy hakkı](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Küme bileşeni: [*Anayasal Sözleşme Katmanı ve Temel anayasal seçim*](core_05_band_integrative.md#constitutional-contract-layer)
 - Birlikte oku: [Temel anayasal seçim](core_05_band_integrative.md#foundational-constitutional-choice), [Bağlayıcı etkilenen taraf seçimi](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Etkilenen taraf statüsü ve ağırlığı](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [Yönetişim](core_05_band_accountability.md#governance).
 - Katman: **Anayasal Sözleşme Katmanı (CCL)** — kim yönetebilir, hangi meşruiyet mekanizmasıyla, hangi kalıcı koşullar altında. **Etkilenen Tarafların Sistem Katılımı (SSP)**nden ayrıdır.
@@ -123,7 +123,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     - [Temel anayasal seçim](core_05_band_integrative.md#foundational-constitutional-choice);
     - [On İkinci Bölüm §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) altında [belgelenmiş meşruiyet mekanizmaları](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority);
     - [benimseme](../../core_16_amendment_ratification.md#10-ratification-and-adoption) ve [yeniden yetkilendirme](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) kuralları ([On İkinci Bölüm §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [On Altıncı Bölüm §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); ve
-    - yönetme yetkisini kurmak ya da kalıcı biçimde yeniden yapılandırmak için [siyasi-eşitlik tabanı](../../core_13_governance.md#41-entitlement-and-eligibility) — hakkı olan algılayanlar o katmanda eşit sese sahiptir ([Madde IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - yönetme yetkisini kurmak ya da kalıcı biçimde yeniden yapılandırmak için [siyasi-eşitlik tabanı](../../core_13_governance.md#41-entitlement-and-eligibility) — hakkı olan algılayanlar o katmanda eşit sese sahiptir ([Madde X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **Kapsam dışında:**
     - sıradan etkilenen taraf danışması;
     - işletimsel katılım;
@@ -131,7 +131,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
     - yapılar ve süreçler zaten yetkilendirildikten sonra sıradan alan yönetişimi; ve
     - kurucu ya da yeniden yetkilendirme oylarını belirlemek için kullanılan sıradan [Etkilenen taraf ağırlığı](core_05_band_participation.md#stakeholder-weight) — daha çok etkilenenlere daha çok söz vermek ([Önsöz §3.3 yönetişim katmanları](core_00_preamble.md#33-governance-layers)).
   - **İşlemsel ev:** [On İkinci Bölüm](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) bu katman için bağlayıcı yetkilendirme, meşruiyet ve sorumlu yönetim kurallarını belirtir.
-  - **Hak Tabanı:** [Madde IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Yönetişim katılımı ve oy hakkı*), o On İkinci Bölüm kurallarının daraltmaması gereken eşit-katılım hakkını belirtir.
+  - **Hak Tabanı:** [Madde X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Yönetişim katılımı ve oy hakkı*), o On İkinci Bölüm kurallarının daraltmaması gereken eşit-katılım hakkını belirtir.
 <a id="constitutional-contract-layer-a"></a>
 - **Nasıl ölçülür ve değerlendirilir**
   - **Birincil ölçü:** [Hesap verebilirlik ölçüm ailesi](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Ödül yapıları, piyasa gücü ve yanıt verebilirlik ödevleri gerçek tutuyor mu?* Bunu burada, iddia edilen yönetme gücünün gerçek bir Anayasal Sözleşmeye — belgelenmiş meşruiyet, eşit kurucu ses ve bu Anayasayla hizalı kalan kalıcı koşullar — dayanıp dayanmadığını sormak için kullanın; yalnızca büyüklük, popülerlik ya da piyasa erişimi değil.
@@ -158,7 +158,7 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Aşağı: İlkeler: [Birinci Bölüm §5 Özgürlük](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. Süreç çatışması çözümü](#6-process-conflict-resolution).
-- Sahip tabanı: [On İkinci Bölüm Birinci Bölüm §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Temel anayasal seçim için siyasi-eşitlik tabanı*; *Kalıcı siyasi-ses tabanı*); [Madde IX-C: Yönetişim katılımı ve oy hakkı](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- Sahip tabanı: [On İkinci Bölüm Birinci Bölüm §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*Temel anayasal seçim için siyasi-eşitlik tabanı*; *Kalıcı siyasi-ses tabanı*); [Madde X-C: Yönetişim katılımı ve oy hakkı](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Küme bileşeni: [*Anayasal Sözleşme Katmanı ve Temel anayasal seçim*](core_05_band_integrative.md#constitutional-contract-layer)
 - Birlikte oku: [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#constitutional-contract-layer), [Etkilenen taraf temsili ve ağırlık sınırları (bağlayıcı etkilenen taraf seçimi)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Bağlayıcı etkilenen taraf seçimi](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Usul adilliği](core_05_band_participation.md#procedural-fairness-constitutional).
 - Katman: **Anayasal Sözleşme Katmanı (CCL)**. Zaten yetkilendirilmiş sistemlerin içindeki **Etkilenen Tarafların Sistem Katılımı (SSP)**nden ayrıdır.
@@ -177,10 +177,10 @@ Bu bant **Bütünleştirici** bacaklar arası tanımları tutar — Dörtlü bac
 
     Bu, [Anayasal Sözleşme Katmanı](core_05_band_integrative.md#constitutional-contract-layer)na aittir.
     - Sahip: [On İkinci Bölüm Birinci Bölüm §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - Hak-katmanı işaretçisi: [Madde IX-C](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*Yönetişim katılımı ve oy hakkı*).
+    - Hak-katmanı işaretçisi: [Madde X-C](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Yönetişim katılımı ve oy hakkı*).
     - [Algılama dışlamama](core_05_band_participation.md#sentience-non-exclusion) altında uygulanır.
   - **Kapsam dışında:**
-    - bir alanın zaten yetkilendirilmiş yönetme yapıları ve süreçleri olduğunda sıradan etkiye göre ağırlıklandırılmış etkilenen taraf kararları — etkilenen algılayanlar, [Etkilenen taraf](core_05_band_participation.md#stakeholder) saptaması ve [Etkilenen taraf ağırlığı](core_05_band_participation.md#stakeholder-weight) yoluyla ( **Madde XI** (*Etkilenen Tarafların Sistem Katılımı, temsil ve usul güvencesi*) kısıtları dahil) ne kadar etkilendiklerine ölçeklenmiş bir söz alır, eşit-ağırlıklı kurucu sayım kuralları yoluyla değil; ve
+    - bir alanın zaten yetkilendirilmiş yönetme yapıları ve süreçleri olduğunda sıradan etkiye göre ağırlıklandırılmış etkilenen taraf kararları — etkilenen algılayanlar, [Etkilenen taraf](core_05_band_participation.md#stakeholder) saptaması ve [Etkilenen taraf ağırlığı](core_05_band_participation.md#stakeholder-weight) yoluyla ( **Madde XII** (*Etkilenen Tarafların Sistem Katılımı, temsil ve usul güvencesi*) kısıtları dahil) ne kadar etkilendiklerine ölçeklenmiş bir söz alır, eşit-ağırlıklı kurucu sayım kuralları yoluyla değil; ve
     - o yetkiyi yetkilendirmeyen ya da kalıcı biçimde yeniden yapılandırmayan rutin işletim ya da politika seçimleri.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>

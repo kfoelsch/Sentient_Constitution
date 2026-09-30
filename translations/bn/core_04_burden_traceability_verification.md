@@ -53,7 +53,7 @@
 | **4 — নিরাপত্তা সীমা** | আসল নিরাপত্তা সীমা অনুমোদিত; অজুহাতমূলক বাধা নয় | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — কী গণ্য হয়** | প্রমাণকে আসল, সম্পূর্ণ, স্বাধীন ও স্থায়ী হতে হয় | [§5](#5-compliance-evidence-standard) |
 
-**সহজ-ভাষার প্রবেশযোগ্যতা।** [অধ্যায় এক §3.4 — সহজ-ভাষার প্রবেশযোগ্যতা দায়িত্বশীল ব্যবস্থাপনা কর্তব্য](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) প্রযোজ্য সেই শাসন, নিষ্পত্তিমূলক ও পরিচালনা উপকরণে যা সংজ্ঞ প্রাণী অধিকার প্রয়োগ, সিদ্ধান্ত চ্যালেঞ্জ, বা অনুপালন যাচাই করতে ব্যবহার করে। সহজ ভাষা অধ্যায় দুই থেকে চার যা চায় তা **বদলায় না** বা কমায় না। যদি সহজ-ভাষার সংস্করণ এখানকার সংজ্ঞা বা যাচাই নিয়মের সঙ্গে অমিল হয়, সেই নিয়ম শাসন করে। পরিভাষা, স্তূপীকৃত জটিলতা, বা অস্বচ্ছতা ব্যবহার করে [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability) বা [অনুচ্ছেদ XV: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) প্রবেশাধিকার আটকানো এই অধ্যায় ও **অধ্যায় এক §3.4**-এর অধীনে অ-অনুপালনকারী।
+**সহজ-ভাষার প্রবেশযোগ্যতা।** [অধ্যায় এক §3.4 — সহজ-ভাষার প্রবেশযোগ্যতা দায়িত্বশীল ব্যবস্থাপনা কর্তব্য](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) প্রযোজ্য সেই শাসন, নিষ্পত্তিমূলক ও পরিচালনা উপকরণে যা সংজ্ঞ প্রাণী অধিকার প্রয়োগ, সিদ্ধান্ত চ্যালেঞ্জ, বা অনুপালন যাচাই করতে ব্যবহার করে। সহজ ভাষা অধ্যায় দুই থেকে চার যা চায় তা **বদলায় না** বা কমায় না। যদি সহজ-ভাষার সংস্করণ এখানকার সংজ্ঞা বা যাচাই নিয়মের সঙ্গে অমিল হয়, সেই নিয়ম শাসন করে। পরিভাষা, স্তূপীকৃত জটিলতা, বা অস্বচ্ছতা ব্যবহার করে [চ্যালেঞ্জ-যোগ্যতা](../../core_05_band_accountability.md#contestability) বা [অনুচ্ছেদ XVI: নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) প্রবেশাধিকার আটকানো এই অধ্যায় ও **অধ্যায় এক §3.4**-এর অধীনে অ-অনুপালনকারী।
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. সংজ্ঞা খুঁজে-পাওয়া প্রয়োজনীয়তা
@@ -128,7 +128,7 @@
 
 - ঊর্ধ্ব: নীতি: [অধ্যায় চার, ধারা 3 — খুঁজে-পাওয়ার পর্যবেক্ষণযোগ্যতা প্রয়োজনীয়তা](#3-observability-of-traceability-requirement); [অধ্যায় এক, ধারা 6.2 — জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)।
 - অধঃ: [অধ্যায় চার, ধারা 5 — অনুপালন প্রমাণ মান](#5-compliance-evidence-standard); [corpus_systems.md](../../corpus_systems.md), **CS-2 — তথ্য প্রকার ও পরিচালনা**, এবং **CS-5** — পরিচালনা ক্রিপ্টোগ্রাফি, পরিচয়পত্র, ও তথ্য-প্রকার পরিচালনা।
-- সঙ্গে পড়ুন: [অধ্যায় পাঁচ গুচ্ছ সংজ্ঞা (পূর্বদৃশ্যতা সতর্কতা)](../../core_05_band_oversight.md#foreseeability-diligence) — নকশা পছন্দ যা যুক্তিসঙ্গতভাবে পূর্বদৃশ্য শর্তের অধীনে যাচাই পূর্বদৃশ্যভাবে আটকায় সেগুলো ঘোষিত নিরাপত্তা যুক্তি নির্বিশেষে অ-অনুপালনকারী; [অধ্যায় পাঁচ সত্য (সাংবিধানিক বন্ধন)](../../core_05_band_oversight.md#truth-constitutional-constraint) এবং [অধ্যায় পাঁচ নিরাপত্তা (বন্ধন)](../../core_05_band_continuity.md#safety-constraint) — ক্রিপ্টোগ্রাফিক ও তথ্য-প্রকার পরিচালনা **ধারা 2**, **3**, বা **5**-এর স্থলাভিষিক্ত হতে পারে না; **অনুচ্ছেদ VII-A**, **VII-B**, **XV-A**, এবং **XVI-A** যেখানে পরিবেশ-বিচ্ছেদ বন্ধন বস্তুগত।
+- সঙ্গে পড়ুন: [অধ্যায় পাঁচ গুচ্ছ সংজ্ঞা (পূর্বদৃশ্যতা সতর্কতা)](../../core_05_band_oversight.md#foreseeability-diligence) — নকশা পছন্দ যা যুক্তিসঙ্গতভাবে পূর্বদৃশ্য শর্তের অধীনে যাচাই পূর্বদৃশ্যভাবে আটকায় সেগুলো ঘোষিত নিরাপত্তা যুক্তি নির্বিশেষে অ-অনুপালনকারী; [অধ্যায় পাঁচ সত্য (সাংবিধানিক বন্ধন)](../../core_05_band_oversight.md#truth-constitutional-constraint) এবং [অধ্যায় পাঁচ নিরাপত্তা (বন্ধন)](../../core_05_band_continuity.md#safety-constraint) — ক্রিপ্টোগ্রাফিক ও তথ্য-প্রকার পরিচালনা **ধারা 2**, **3**, বা **5**-এর স্থলাভিষিক্ত হতে পারে না; **অনুচ্ছেদ VII-A**, **VII-B**, **XVI-A**, এবং **XVII-A** যেখানে পরিবেশ-বিচ্ছেদ বন্ধন বস্তুগত।
 
 </details>
 
@@ -196,7 +196,7 @@
 
 - ঊর্ধ্ব: [অধ্যায় দুই — সংজ্ঞার গঠন ও উপাদান প্রয়োজনীয়তা](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [অধ্যায় তিন — সংজ্ঞা সততা, এড়ানো ও অ-অনুপালন](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [অধ্যায় চার, ধারা 1 থেকে 5](#1-exclusive-enforcement-and-burden-allocation)।
 - অধঃ: [অধ্যায় সাত — ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [অধ্যায় আট — অবদান, লঙ্ঘন ও প্রস্থিতি মডেল](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)।
-- সঙ্গে পড়ুন: [অধ্যায় সাত §16 — পুনরায় খোলা, অসারিবদ্ধতা ও এড়ানো-নিরোধ](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — অধ্যায় দুই থেকে চারের অধীনে যাচাইকৃত অ-অনুপালন পূর্ব স্বীকৃতি নির্বিশেষে প্রত্যয়ন পুনরায় খুলতে বা হারাতে পারে।
+- সঙ্গে পড়ুন: [অধ্যায় সাত §16 — পুনরায় খোলা, অসারিবদ্ধতা ও এড়ানো-নিরোধ](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — অধ্যায় দুই থেকে চারের অধীনে যাচাইকৃত অ-অনুপালন পূর্ব স্বীকৃতি নির্বিশেষে প্রত্যয়ন পুনরায় খুলতে বা হারাতে পারে।
 
 </details>
 

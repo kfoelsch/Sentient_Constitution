@@ -184,7 +184,7 @@
     - উৎস সুরক্ষা;
     - তদন্ত; এবং
     - প্রকাশনা।
-    Sentients doing that work exercise the [মতপ্রকাশ](core_05_band_participation.md#expression-constitutional) and [সমাবেশ](core_05_band_participation.md#assembly-constitutional) অধিকার-তল, with heightened-scrutiny protection under [অনুচ্ছেদ V-H](../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
+    Sentients doing that work exercise the [মতপ্রকাশ](core_05_band_participation.md#expression-constitutional) and [সমাবেশ](core_05_band_participation.md#assembly-constitutional) অধিকার-তল, with heightened-scrutiny protection under [অনুচ্ছেদ V-H](../../core_06_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Expression, Assembly, and Press*) against state and operator actions meant to impair that activity.
   - **পরিসরের বাইরে:** press credentials, institutional titles, or ordinary commercial speech that is not newsgathering, investigation, or publication functioning as journalism.
 <a id="press-and-journalistic-activity-constitutional-a"></a>
 - **কীভাবে পরিমাপ ও মূল্যায়ন করতে হয়**
@@ -195,11 +195,11 @@
     - উৎস সুরক্ষা;
     - investigation; or
     - publication that serves the information environment.
-    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIII-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) and [আনুপাতিকতা](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
+    Spot actions that impair the press by their real effect, and treat press-directed character as an aggravating factor under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and **Article V-H** (*Expression, Assembly, and Press*). Apply heightened [প্রয়োজনীয়তা](core_05_band_accountability.md#necessity) and [আনুপাতিকতা](core_05_band_accountability.md#proportionality) scrutiny, and keep any limit narrowly tailored.
 <a id="press-and-journalistic-activity-constitutional-c"></a>
 - **যা ধরে রাখতে হবে**
   - **প্রাথমিক ব্যর্থতা:** state or operator actions meant to impair journalistic activity that fail heightened-scrutiny limits analysis;
-  - **দ্বিতীয় ব্যর্থতা:** stretching [সদ্বিশ্বাস](core_05_band_accountability.md#good-faith) or **Article VIII-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
+  - **দ্বিতীয় ব্যর্থতা:** stretching [সদ্বিশ্বাস](core_05_band_accountability.md#good-faith) or **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) so those standards block lawful critical reporting, investigative publication, or dissent;
   - **তৃতীয় ব্যর্থতা:** credentials, institutional status, or ordinary commercial speech used as the journalism test while newsgathering, investigation, or publication that functions as journalism is absent.
 
 ---
@@ -661,7 +661,7 @@ Outside that scope, individual entries may still apply on their own without impo
 
 Where admission scope is met, this cluster is the joint home for disclosure, audit, verification (including external detectability), and assurance depth when অধ্যায় দুই থেকে চার require traceable, challengeable evidence of what a system does and whether compliance claims hold.
 
-**তত্ত্বাবধান কাঠামো।** Under the [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XV** (*Audit, Transparency, and Independent Verification*). [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [অধ্যায় সাত](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
+**তত্ত্বাবধান কাঠামো।** Under the [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) **oversight** leg, oversight requires auditing — being able to reconstruct what happened, verify it independently, and get audit access — owned here and at **Article XVI** (*Audit, Transparency, and Independent Verification*). [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others (forum-supervised alignment review with recognition outcomes under [অধ্যায় সাত](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)); it does not swallow this cluster or replace sibling audit modes.
 
 **ব্যবস্থা শ্রেণি ও সমানুপাত।** Transparency, auditability, and verification duties scale with system class under **[corpus_systems.md](../../corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও হ্যান্ডলিং**, and with material impact, dependency, and risk. Higher-class systems (**Class A**, **B**, **C**) need more than lower-class systems (**Class L**, **P**), including:
 - গভীরতর নিশ্চয়তা;
@@ -757,7 +757,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - গুচ্ছ উপাদান: [Def.O1 স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও যাচাই](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- অধঃ: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§11](../../core_08_b_system_alignment_certification_record_process.md#11-certification-record) (*Certification record*); [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
+- অধঃ: **[CS-2 Part A §7](../../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](../../corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [§4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [§11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [§12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
 - সঙ্গে পড়ুন: [স্বচ্ছতা](core_05_band_oversight.md#transparency), [চ্যালেঞ্জ-যোগ্যতা](core_05_band_accountability.md#contestability), [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability), [ঝুঁকি প্রকাশ](core_05_band_oversight.md#risk-disclosure), [পরিসর সনদ](core_05_band_continuity.md#charter), [ব্যবস্থা সীমানা](core_05_band_continuity.md#system-boundaries), [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional), [ব্যবস্থা প্রত্যয়ন নথি](core_05_band_continuity.md#system-certification-record-constitutional), [ব্যবস্থা শ্রেণিবিন্যাস নথি](core_05_band_continuity.md#system-classification-record-constitutional), [ব্যবস্থা তথ্য-প্রকার নথি](core_05_band_continuity.md#system-data-types-record-constitutional), [শ্রেণিবিন্যাস-স্কেল করা শাসন](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](../../corpus_systems.md), CS-2 — তথ্য প্রকার ও হ্যান্ডলিং** (**Type O**).
 
 </details>
@@ -881,8 +881,8 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 
 - গুচ্ছ উপাদান: [Def.O1 স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও যাচাই](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [জবাবদিহি](core_05_apex_accountability_leg.md#accountability), [চ্যালেঞ্জ-যোগ্যতা](core_05_band_accountability.md#contestability), [জ্ঞানতাত্ত্বিক সততা](core_05_band_oversight.md#epistemic-integrity), [স্বচ্ছতা](core_05_band_oversight.md#transparency), [যাচাইযোগ্যতা](core_05_band_oversight.md#verifiability), [প্রমাণ সংরক্ষণ](core_05_band_oversight.md#evidence-preservation), and [মূল্যায়ন সম্পূর্ণতা বন্ধন](core_05_band_oversight.md#evaluation-completeness-constraint).
-- সঙ্গে পড়ুন: **Article XV** (*Audit, Transparency, and Independent Verification*); [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) অধ্যায় দুই থেকে চার.
-- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XV)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XV](../../core_06_rights_part_c.md#audit-three-layers).
+- সঙ্গে পড়ুন: **Article XVI** (*Audit, Transparency, and Independent Verification*); [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) অধ্যায় দুই থেকে চার.
+- Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](../../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../../core_06_rights_part_c.md#audit-three-layers).
 
 </details>
 
@@ -1075,7 +1075,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
 - গুচ্ছ উপাদান: [Def.O1 স্বচ্ছতা, নিরীক্ষাযোগ্যতা ও যাচাই](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Owner floor: [Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
+- Owner floor: [Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*) for practical verification access.
 - সঙ্গে পড়ুন: [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability), [স্বচ্ছতা](core_05_band_oversight.md#transparency), [চ্যালেঞ্জ-যোগ্যতা](core_05_band_accountability.md#contestability), [আনুপাতিকতা](core_05_band_accountability.md#proportionality), [সম্ভাব্যতা](core_05_band_accountability.md#feasibility), [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#truth-constitutional-constraint), and [বিরোধী, স্কেল করা ও শোষিত শর্ত](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
@@ -1087,7 +1087,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - **এটি কী**
   - **পরিসরে:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [নিরীক্ষাযোগ্যতা](core_05_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [সম্ভাব্যতা](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [সম্ভাব্যতা](core_05_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [আনুপাতিকতা](core_05_band_accountability.md#proportionality) and [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [বিরোধী, স্কেল করা ও শোষিত শর্ত](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1112,7 +1112,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
   - **দ্বিতীয় মাপ:** [তত্ত্বাবধান পরিমাপ পরিবার](core_05_apex_oversight_leg.md#oversight-measurement-family) — *সংজ্ঞ প্রাণী কি দেখতে, যাচাই করতে ও বিশ্বাস করতে পারে ব্যবস্থা কী দেখায়?* এখানে জিজ্ঞাসা করতে ব্যবহার করুন observed behavior can be independently validated by reproducible methods in practice.
 
     **দ্বিতীয় মূল্যায়ন:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XV-C](../../core_06_rights_part_c.md#article-xv-c-verification-accessibility); [সম্ভাব্যতা](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [সম্ভাব্যতা](core_05_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [আনুপাতিকতা](core_05_band_accountability.md#proportionality) and [বস্তুগত প্রভাব](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [বিরোধী, স্কেল করা ও শোষিত শর্ত](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1225,7 +1225,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     from good-faith observation and bounded interpretation, under [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#truth-constitutional-constraint) and [সদ্বিশ্বাস](core_05_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **যা ধরে রাখতে হবে**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by অধ্যায় এগারো **Articles VIII**, **XII**, and **XIII** as applicable and must satisfy this cluster jointly under [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#truth-constitutional-constraint), [সদ্বিশ্বাস](core_05_band_accountability.md#good-faith), and [জ্ঞানতাত্ত্বিক সততা](core_05_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by অধ্যায় এগারো **Articles IX**, **XIII**, and **XIV** as applicable and must satisfy this cluster jointly under [সত্য (সাংবিধানিক বন্ধন)](core_05_band_oversight.md#truth-constitutional-constraint), [সদ্বিশ্বাস](core_05_band_accountability.md#good-faith), and [জ্ঞানতাত্ত্বিক সততা](core_05_band_oversight.md#epistemic-integrity).
   - **প্রাথমিক ব্যর্থতা:** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;

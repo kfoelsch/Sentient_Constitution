@@ -42,7 +42,7 @@
 
 그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](core_05_apex_participation_leg.md#participation-constitutional), [감독](core_05_apex_oversight_leg.md#oversight-constitutional), [책무](core_05_apex_accountability_leg.md#accountability), [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional), [연속](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. 측정 개관
@@ -86,7 +86,7 @@
 
 헌법이 구체 측정 규칙을 요구할 때, [제11장](core_11_forum.md#42-technical-forum-domains) 아래 **기술 포럼 영역**이 공유 표준을 만들고 유지한다 — 어떻게 측정하고, 어떻게 시험하고, 무엇이 믿을 증거인가. 주어진 다툼을 맡은 포럼은 그다음 [제11장 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement) 아래에서 그 사건을 결정할 때 그 표준을 적용한다.
 
-헌법상 책임 있는 관리는 문제와 [**실질 이해관계**](#material-stake)를 이름 붙이는 데서 시작한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 다음으로 [개관](#2-the-measurements)에서 관련 [**측정**](#2-the-measurements) 범주와 하위범주를 고르고, 위의 표준을 적용해 편한 지표가 아니라 실제 세계 효과를 시험한다. 추적 가능한 증거를 요구하라.
+헌법상 책임 있는 관리는 문제와 [**실질 이해관계**](#material-stake)를 이름 붙이는 데서 시작한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 다음으로 [개관](#2-measurements-overview)에서 관련 [**측정**](#2-measurements-overview) 범주와 하위범주를 고르고, 위의 표준을 적용해 편한 지표가 아니라 실제 세계 효과를 시험한다. 추적 가능한 증거를 요구하라.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 핵심 거버넌스 과정
@@ -101,7 +101,7 @@
 - **포럼 검토** ([제11장](core_11_forum.md#1-purpose-and-role))
   - 이미 수권된 체계 안의 보통 다툼은 먼저 [영향받는 쪽의 체계 참여](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)의 공표된 다툼 경로를 쓴다
   - 그 경로가 여전히 다투어지거나, 없거나, 포획되었거나, 구제를 줄 수 없으면, 일차 이해관계에 따라 감독받는 포럼으로 라우팅하라
-  - 그 포럼들은 **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*) 아래에서 증거, 적법한 이송, 제때 시계를 받친다
+  - 그 포럼들은 **제 XXV-C조**(*제때 해결과 지연 금지 바닥*) 아래에서 증거, 적법한 이송, 제때 시계를 받친다
 
 <a id="33-governance-layers"></a>
 #### 3.3 거버넌스 층
@@ -157,7 +157,7 @@
 
 **제6장 — 기초 권리** ([A부분](../../core_06_rights_part_a.md) · [B부분](../../core_06_rights_part_b.md) · [C부분](../../core_06_rights_part_c.md) · [D부분](../../core_06_rights_part_d.md))
 
-- **맡은 일:** **제 I–XXVI조**에서 권리 바닥을 말한다 — 생존 필수, 자원 배분과 의존의 책임 있는 관리, 존엄, 행위주체성, 참여, 다툼과 구제, 정의 제약, **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*) 아래의 적시성, 이행 규칙 — 행성 우선 읽기를 위해 네 부분으로 짜였다.
+- **맡은 일:** **제 I–XXVI조**에서 권리 바닥을 말한다 — 생존 필수, 자원 배분과 의존의 책임 있는 관리, 존엄, 행위주체성, 참여, 다툼과 구제, 정의 제약, **제 XXV-C조**(*제때 해결과 지연 금지 바닥*) 아래의 적시성, 이행 규칙 — 행성 우선 읽기를 위해 네 부분으로 짜였다.
 - **산출:** 타협 불가 권리 보호와 구제 고리. 제7장부터 제11장, 포럼들, 거버넌스, 개정 규칙은 존중해야 한다 — 절차나 대리지표로 좁히거나, 우회하거나, 비우면 안 된다.
 
 <a id="5-key-practical-process-pipelines"></a>
@@ -187,7 +187,7 @@
 
 - **맡은 일:** 확인된 분류를 실제 세계의 **궤적 효과**로 통합한다, 따로 떨어진 궤도에서 — [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절하고, 기여와 위반을 하나의 순점수로 접지 않으며, 참여, 감독, 책무, 적시성을 비우지 않는다.
   - **기여 궤도:** 확인된 긍정 분류는 실제 상승을 산출한다:
-    - [**역량 허가**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)는 공표된 역량 문턱에 대해 역량이 입증되고 적용되는 [궤적 잠금](../../core_10_standing_integration.md#42-general-standing-locks)이 명명된 경로를 막지 않을 때, 신뢰에 민감한 역할, 위임된 권한, 감독 자격, 점차 결과가 커지는 책임 있는 관리를 열 수 있다
+    - [**역량 허가**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)는 공표된 역량 문턱에 대해 역량이 입증되고 적용되는 [궤적 잠금](../../core_10_standing_integration.md#42-prevention--general-standing-locks)이 명명된 경로를 막지 않을 때, 신뢰에 민감한 역할, 위임된 권한, 감독 자격, 점차 결과가 커지는 책임 있는 관리를 열 수 있다
     - [제1장](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)이 요구하는 대로, 적법한 책임 있는 관리와 협력에 대한 비례 인정과 **실질 보상**
     - 빈 칭찬이 아니다. 이익은 실제여야 하고, 증거로 받쳐져야 하며, 다툼에 열려 있어야 한다
   - **위반 궤도:** 확인된 위반 인정은 실제 하강을 산출한다:
@@ -211,7 +211,7 @@
   - 증거가 어떻게 받쳐지는가
   - 사항이 어떻게 이송되거나 병합되는가
   - 자기 심판 금지 규칙이 포획된 포럼들이 유일한 최종 거처가 되지 않게 하는 방식
-  - **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*) 아래 시계는 사건이 구제가 더 이상 중요하지 않을 만큼 오래 미해결로 남지 않게 한다
+  - **제 XXV-C조**(*제때 해결과 지연 금지 바닥*) 아래 시계는 사건이 구제가 더 이상 중요하지 않을 만큼 오래 미해결로 남지 않게 한다
 - **산출:** 궤적 기록을 열거나 갱신할 수 있는 **확인된 인정**, 더하여 구제와 [제때 해결](../../core_05_band_accountability.md#timely-resolution-constitutional)로 가는 적법한 라우팅. 포럼들은 사슬을 감독한다; 제8장 궤적 측정을 대체하지 않는다.
 
 <a id="51-how-the-full-chain-fits-together"></a>
@@ -225,7 +225,7 @@
    - **위반 성질:** **위반 궤적 기록**을 열어라 — 확인된 해와 책무 실패의 한정되고 다툴 수 있는 사건 철 — 그리고 위반 축에서 **위반 성질**을 분류하라. 좋음과 해는 하나의 순점수로 접히지 않는다; 연결된 기록은 교차 참조하되 따로 남는다.
 3. **각 궤도에서 궤적 효과를 적용하라** ([제9장](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — 확인된 기여는 역량 허가를 주고 비례 인정과 실질 보상을 받칠 수 있다; 확인된 위반은 궤적 잠금, 교정, [해를 입은 이를 위한 구제](../../core_10_standing_integration.md#41-remedy-and-correction)를 발동할 수 있다.
 4. **반헌법 지정 검토** ([제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — 최고영향 위반 인정이 반헌법 기준도 충족할 수 있으면, 제10장은 해당 지정이 붙는지를 결정한다. 지정은 제8장이 이미 인정한 해의 심각도를 바꾸지 않는다; 제9장 보통 효과는 최종 지정이 반헌법 신뢰 잠금을 발동할 때까지 나란히 계속된다.
-5. **다툼을 라우팅하고 구제를 제때 유지하라** ([제11장](core_11_forum.md#1-purpose-and-role)) — 포럼들은 사건이 어떻게 움직이는지, 어느 궤도가 다루는지, **제 XXIV-C조**(*제때 해결과 지연 금지 바닥*) 아래 시계가 충족되는지를 감독해 구제가 지연 속에 죽지 않게 한다. 보통 다툼은 [다툼 순서](core_11_forum.md#dispute-sequencing)를 따른다. 포럼들은 또한 다툼을 다섯 [실질성 층](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(A/B/C/L/P)으로 분류한다 — 체계 분류 알파벳을 거울로 — 생존 위급부터 사적/한정된 사항까지 — 제10장 최종 지정이 일차 이해관계일 때 청렴 가족 기본 라우팅이 적용된다.
+5. **다툼을 라우팅하고 구제를 제때 유지하라** ([제11장](core_11_forum.md#1-purpose-and-role)) — 포럼들은 사건이 어떻게 움직이는지, 어느 궤도가 다루는지, **제 XXV-C조**(*제때 해결과 지연 금지 바닥*) 아래 시계가 충족되는지를 감독해 구제가 지연 속에 죽지 않게 한다. 보통 다툼은 [다툼 순서](core_11_forum.md#dispute-sequencing)를 따른다. 포럼들은 또한 다툼을 다섯 [실질성 층](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)(A/B/C/L/P)으로 분류한다 — 체계 분류 알파벳을 거울로 — 생존 위급부터 사적/한정된 사항까지 — 제10장 최종 지정이 일차 이해관계일 때 청렴 가족 기본 라우팅이 적용된다.
 
 [README 궤적 사슬 지도](../../README.md#standing-pipeline-and-forums)는 위 사슬의 직접 항해를 제공한다, 제7장이 궤적 측정으로 넣을 수 있는 확인된 입력을 포함한다.
 

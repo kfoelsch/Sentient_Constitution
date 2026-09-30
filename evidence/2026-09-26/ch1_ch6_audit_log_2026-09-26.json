@@ -1,0 +1,23 @@
+{
+  "date": "2026-09-26",
+  "findings": [
+    {
+      "detail": null,
+      "file": "core_06_rights_part_b.md",
+      "issue": "Missing top-level Chapter 0 frame signal(s): material stake.",
+      "item": "V",
+      "kind": "missing_ch0_measurement_frame",
+      "line": 108,
+      "severity": "medium"
+    }
+  ],
+  "status": "REVIEW",
+  "summary": {
+    "articles": 127,
+    "findings": {
+      "missing_ch0_measurement_frame": 1
+    },
+    "principles": 70
+  },
+  "workflow": "CH0_CH1_CH6_ALIGNMENT_AUDIT"
+}

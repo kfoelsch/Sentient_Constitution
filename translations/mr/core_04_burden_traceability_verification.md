@@ -53,7 +53,7 @@
 | **4 — सुरक्षा मर्यादा** | खऱ्या सुरक्षा मर्यादा परवानगी आहेत; निमित्त-स्वरूप अडथळे नाहीत | [§4](#4-security-constrained-observability-and-verification-rule) |
 | **5 — काय मोजते** | पुरावा खरा, पूर्ण, स्वतंत्र आणि सातत्याने टिकणारा हवा | [§5](#5-compliance-evidence-standard) |
 
-**सोप्या-भाषा पोहोच.** [अध्याय एक §3.4 — सोप्या-भाषा सुलभता उत्तरदायी-व्यवस्थापन कर्तव्य](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) त्या शासन, न्यायनिर्णायक आणि संक्रियात्मक साहित्यावर लागू होते जे संज्ञ प्राणी अधिकार वापरण्यासाठी, निर्णयांना आव्हान देण्यासाठी, किंवा अनुपालन सत्यापित करण्यासाठी वापरतात. सोपी भाषा अध्याय दोन ते चार जे मागतात ते **बदलत नाही** किंवा कमी करत नाही. जर सोप्या-भाषा आवृत्ती येथील व्याख्या किंवा सत्यापन नियमांशी टकराते, तर ते नियम शासित करतात. शब्दजाल, थोपवलेली गुंतागुंत, किंवा अपारदर्शकता वापरून [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) किंवा [अनुच्छेद XV: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) पोहोच रोखणे या अध्यायाखाली आणि **अध्याय एक §3.4** खाली अनुपालन-भंग आहे.
+**सोप्या-भाषा पोहोच.** [अध्याय एक §3.4 — सोप्या-भाषा सुलभता उत्तरदायी-व्यवस्थापन कर्तव्य](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) त्या शासन, न्यायनिर्णायक आणि संक्रियात्मक साहित्यावर लागू होते जे संज्ञ प्राणी अधिकार वापरण्यासाठी, निर्णयांना आव्हान देण्यासाठी, किंवा अनुपालन सत्यापित करण्यासाठी वापरतात. सोपी भाषा अध्याय दोन ते चार जे मागतात ते **बदलत नाही** किंवा कमी करत नाही. जर सोप्या-भाषा आवृत्ती येथील व्याख्या किंवा सत्यापन नियमांशी टकराते, तर ते नियम शासित करतात. शब्दजाल, थोपवलेली गुंतागुंत, किंवा अपारदर्शकता वापरून [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) किंवा [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) पोहोच रोखणे या अध्यायाखाली आणि **अध्याय एक §3.4** खाली अनुपालन-भंग आहे.
 
 <a id="2-definition-traceability-requirement"></a>
 ### 2. व्याख्या माग-काढता येणे अपेक्षा
@@ -128,7 +128,7 @@
 
 - वरून: तत्त्वे: [अध्याय चार, विभाग 3 — माग-काढता येण्याची प्रेक्षणीयता अपेक्षा](#3-observability-of-traceability-requirement); [अध्याय एक, विभाग 8.2 — ज्ञानविषयक प्रकटीकरण बंधने](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
 - पुढे: [अध्याय चार, विभाग 5 — अनुपालन-पुरावा मानक](#5-compliance-evidence-standard); [corpus_systems.md](../../corpus_systems.md), **CS-2 — माहिती प्रकार आणि हाताळणी**, आणि **CS-5** — संक्रियात्मक क्रिप्टोग्राफी, ओळखपत्रे आणि माहिती-प्रकार हाताळणी.
-- सोबत वाचा: [अध्याय पाचच्या समूहित व्याख्या (पूर्वानुमेयता दक्षता)](../../core_05_band_oversight.md#foreseeability-diligence) — रचना निवडी ज्या यथोचित पूर्वानुमेय अटींखाली सत्यापन पूर्वानुमेय रीतीने रोखतात त्या सांगितलेल्या सुरक्षा तर्काची पर्वा न करता अनुपालन-भंग आहेत; [अध्याय पाच सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) आणि [अध्याय पाच सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) — क्रिप्टोग्राफिक आणि माहिती-प्रकार हाताळणीने **विभाग 2**, **3**, किंवा **5** ची जागा घेता कामा नये; **अनुच्छेद VII-A**, **VII-B**, **XV-A** आणि **XVI-A** जिथे वातावरण-विभाजन बंधने भौतिक असतील.
+- सोबत वाचा: [अध्याय पाचच्या समूहित व्याख्या (पूर्वानुमेयता दक्षता)](../../core_05_band_oversight.md#foreseeability-diligence) — रचना निवडी ज्या यथोचित पूर्वानुमेय अटींखाली सत्यापन पूर्वानुमेय रीतीने रोखतात त्या सांगितलेल्या सुरक्षा तर्काची पर्वा न करता अनुपालन-भंग आहेत; [अध्याय पाच सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) आणि [अध्याय पाच सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) — क्रिप्टोग्राफिक आणि माहिती-प्रकार हाताळणीने **विभाग 2**, **3**, किंवा **5** ची जागा घेता कामा नये; **अनुच्छेद VII-A**, **VII-B**, **XVI-A** आणि **XVII-A** जिथे वातावरण-विभाजन बंधने भौतिक असतील.
 
 </details>
 
@@ -196,7 +196,7 @@
 
 - वरून: [अध्याय दोन — व्याख्या रचना आणि घटक अपेक्षा](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [अध्याय तीन — व्याख्या सचोटी, टाळाटाळ आणि अनुपालन-भंग](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [अध्याय चार, विभाग 1 ते 5](#1-exclusive-enforcement-and-burden-allocation).
 - पुढे: [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- सोबत वाचा: [अध्याय सात §16 — पुनर्उघडणे, विसंरेखन आणि टाळाटाळ-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) — अध्याय दोन ते चारखालील सत्यापित अनुपालन-भंग आधीच्या मान्यतेची पर्वा न करता प्रमाणन पुनर्उघडू किंवा हरवू शकतो.
+- सोबत वाचा: [अध्याय सात §16 — पुनर्उघडणे, विसंरेखन आणि टाळाटाळ-निरोध](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) — अध्याय दोन ते चारखालील सत्यापित अनुपालन-भंग आधीच्या मान्यतेची पर्वा न करता प्रमाणन पुनर्उघडू किंवा हरवू शकतो.
 
 </details>
 

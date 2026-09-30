@@ -44,7 +44,7 @@
 > - **第二至四章：** 供给此处所用证据的记录、保管、可追溯性与核验纪律。
 > - **第一章：** 供给与紧急权威、必要性、集中与系统俘获相关的原则。
 > - **第十一章：** 供给评议所路由、廉正族系默认路由、移送与认证纪律。
-> - **第六章：** 供给权利底线、**Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）联合要求与**因暴力而拘禁**、**Article XXIII-C**（《限制最少且有时限的规则》）审查纪律、**Article XXIV-C**（《及时解决与反拖延底线》）救济时限纪律，以及 **Article XXIII-A**（《正义目的与范围》）审查与公布保障；此处**第 4.1 节**把第九章救济与纠正专门化为经核实反宪法不当行为，**第 4.2 节**专门化预防锁定（包括在要求处拘禁），**第 4.3 节**专门化自愿公开问责表达。
+> - **第六章：** 供给权利底线、**Article XXIV-B**（《非琐细限制、返还与修复性问责约束》）联合要求与**因暴力而拘禁**、**Article XXIV-C**（《限制最少且有时限的规则》）审查纪律、**Article XXV-C**（《及时解决与反拖延底线》）救济时限纪律，以及 **Article XXIV-A**（《正义目的与范围》）审查与公布保障；此处**第 4.1 节**把第九章救济与纠正专门化为经核实反宪法不当行为，**第 4.2 节**专门化预防锁定（包括在要求处拘禁），**第 4.3 节**专门化自愿公开问责表达。
 > - **第十二章：** 供给与最终第十章指定挂钩的治理正当性后果。
 > - **第十三至十五章：** 供给变更路径有效性、转介、程序与保管规则；它们不签发最终第十章指定。
 >
@@ -147,7 +147,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[§1](#1-decision-framework-scope-and-authority)（*指定决定如何运作*）。
-- 紧急权威：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)紧急与必要性纪律；凡**标准 5** 与 **6** 对照有界紧急权威阅读之处，[Article XXIII-D：紧急措施与继续负担](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden)。
+- 紧急权威：[第一章](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints)紧急与必要性纪律；凡**标准 5** 与 **6** 对照有界紧急权威阅读之处，[Article XXIV-D：紧急措施与继续负担](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden)。
 - 下游指定决定：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)。
 - 下游保障与纪律：[§4](#4-due-process-safeguards-for-slot-assignment)。
 - 本节：指定标准集；统一事件规则；对已治愈的标准 1–4 变更或记录错误的**善意起草例外**。
@@ -198,8 +198,8 @@
 2. **明知伪造或压制：** 在提案、审查、采纳、公布，**或其他实质宪法保管或核验**记录中的明知伪造、实质遗漏，或证据 / 保管操纵。
 3. **实质回退效果：** 对宪法保护的实际或企图实质削弱，直接地或经由等效结构性绕行。
 4. **因果显著行为：** 行为实质促成不法宪法效果、延迟纠正、被阻断的质疑权，或权利底线退化。
-5. **叛乱或实质强力颠覆：** 有组织或实质的**不法**行动，使用**武力**、**强制**或**篡夺**，以**推翻**、**中止**或**替换**本宪法的操作性宪法权威。这排除在**第一章**与 **Article XXIII-D**（《紧急措施与继续负担》）或等效**必要性**有界紧急权威下得到正当化的行为。
-6. **操作性废止：** 使宪法**过程**或**救济**在实践中不可用的行为。这排除在**第一章**与 **Article XXIII-D**（《紧急措施与继续负担》）或等效**必要性**有界紧急权威下得到正当化的行为。
+5. **叛乱或实质强力颠覆：** 有组织或实质的**不法**行动，使用**武力**、**强制**或**篡夺**，以**推翻**、**中止**或**替换**本宪法的操作性宪法权威。这排除在**第一章**与 **Article XXIV-D**（《紧急措施与继续负担》）或等效**必要性**有界紧急权威下得到正当化的行为。
+6. **操作性废止：** 使宪法**过程**或**救济**在实践中不可用的行为。这排除在**第一章**与 **Article XXIV-D**（《紧急措施与继续负担》）或等效**必要性**有界紧急权威下得到正当化的行为。
 
 除非每一项都有其自身独立证明，不得把同一行为同时计为**标准 5** 与**标准 6**。例如，记录必须显示分开的强力行为，以及使过程或救济不可用的分开方式 — 而不是给一件未分化事实贴两个标签。
 
@@ -275,8 +275,8 @@
 - 上游：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9 指定*）；[§2](#2-criteria-set-for-slot-assignment)（*标准集*），包括**善意起草例外**。
 - 模式应用：[§5.3](core_10_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial)（*对该区灌水*）；[§5.4](core_10_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)（*信息圈区域灌水*）；[§5.5](core_10_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange)（*贿赂与不当利益交换*）；[§5.6](core_10_b_misconduct_pattern_applications.md#56-unlawful-or-unconstitutional-command-conduct)（*不法或违宪命令行为*）；[§5.7](core_10_b_misconduct_pattern_applications.md#57-reward-protection-or-normalization-of-anti-constitutional-conduct)（*奖赏、保护或正常化反宪法行为*）；[§5.8](core_10_b_misconduct_pattern_applications.md#58-enforcement-refusal-suppression-or-non-prosecution-conduct)（*执行拒绝、压制或不追诉行为*）；[§5.9](core_10_b_misconduct_pattern_applications.md#59-infrastructure-denial-destruction-or-dependency-cutoff-conduct)（*基础设施拒绝、毁坏或依赖切断行为*）；[§5.10](core_10_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation)（*评议所回避失败与偏私合议参与*）；[§5.11](core_10_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction)（*阻碍问责*）。
 - 下游：[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救济与纠正（反宪法）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）。
-- 评议所纪律：[第十一章 §2](core_11_forum.md#2-default-venue-and-primary-stakes) 至 [§5](core_11_forum.md#5-escalation-and-certification) 覆盖默认廉正牵头、正当程序的评议所族系适用、移送与认证。把**第 4 节**与**第六章**中的 **Article XXIII**（《冲突解决、升级与紧急相称性》）一并阅读。
-- 一并阅读：[Article XXIII-A：正义目的与范围](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)，用于审查与公布保障；[第二至四章](core_02_definition_structure.md)公布追溯标准；[第九章 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)（*违规、纠正与预防*），用于本节所专门化的一般救济 → 锁定 → 表达语法。
+- 评议所纪律：[第十一章 §2](core_11_forum.md#2-default-venue-and-primary-stakes) 至 [§5](core_11_forum.md#5-escalation-and-certification) 覆盖默认廉正牵头、正当程序的评议所族系适用、移送与认证。把**第 4 节**与**第六章**中的 **Article XXIV**（《冲突解决、升级与紧急相称性》）一并阅读。
+- 一并阅读：[Article XXIV-A：正义目的与范围](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)，用于审查与公布保障；[第二至四章](core_02_definition_structure.md)公布追溯标准；[第九章 §4](core_09_standing_integration.md#4-violation-correction-and-prevention)（*违规、纠正与预防*），用于本节所专门化的一般救济 → 锁定 → 表达语法。
 
 </details>
 
@@ -297,7 +297,7 @@
 
 - 上游：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9 指定*）；[§4](#4-due-process-safeguards-for-slot-assignment)（*正当程序保障、救济与预防*）。
 - 下游：[§4.2](#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*）；[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）；[第九章](core_09_standing_integration.md#chapter-nine-standing-effects-and-integration) 轨迹效果与轨迹锁定整合；[第十一章](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) 评议所路由与认证。
-- 一并阅读：[第九章 §4.1](core_09_standing_integration.md#41-remedy-and-correction)（*救济与纠正*）；[Article XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope)（*正义目的与范围*）；[Article XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（*返还、补救、康复与可问责归因*）；[Article XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule)（*期限、审查与恢复*）；[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor)（*及时解决与救济启动*）。
+- 一并阅读：[第九章 §4.1](core_09_standing_integration.md#41-remedy-and-correction)（*救济与纠正*）；[Article XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope)（*正义目的与范围*）；[Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（*返还、补救、康复与可问责归因*）；[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule)（*期限、审查与恢复*）；[Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor)（*及时解决与救济启动*）。
 
 </details>
 
@@ -341,7 +341,7 @@
   - 统一事件造成或实质促成的实质伤害、权利丧失、救济丧失、依赖伤害、证据退化或过程废止；
   - 返还、补偿、恢复、纠正、在合法处的吐出或 clawback、字面修复不可能时的替代保障，以及伤害属类别范围或结构性时的系统补救；
   - 必须承担或资助每一项救济的责任行动者、角色、机构、系统、资金、继任者或协调机构；
-  - **Article XXIV-C**（《及时解决与反拖延底线》）下的启动期限、完成里程碑、核验要求与审查触发；
+  - **Article XXV-C**（《及时解决与反拖延底线》）下的启动期限、完成里程碑、核验要求与审查触发；
   - 谁监督跟进，以及发生拖延时会怎样。
 - **优先与临时保护：**
   - 把受影响方与实践恢复放在前面 — 先于声誉修复、制度便利或普通行政顺序。
@@ -371,7 +371,7 @@
 
 - 上游：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9 指定*）；[§4](#4-due-process-safeguards-for-slot-assignment)（*正当程序保障、救济与预防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救济与纠正（反宪法）*）。
 - 下游：[§4.3](#4-3-voluntary-public-accountability-expression-anti-constitutional)（*自愿公开问责表达（反宪法）*）；[第九章 §5.5](core_09_standing_integration.md#55-special-locks)（*反宪法信任锁定*）。
-- 一并阅读：[第九章 §4.2](core_09_standing_integration.md#42-general-standing-locks)（*预防 — 一般轨迹锁定*）；[第九章 §5.1](core_09_standing_integration.md#51-definition-and-attachment)（*定义与附着*）；[第九章 §5.4](core_09_standing_integration.md#54-special-violation-rules)（*强制性或限制自由的保障*）；[Article XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（*联合要求与**因暴力而拘禁***）；[Article XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule)（*期限、审查、恢复与再评价纪律*）。
+- 一并阅读：[第九章 §4.2](core_09_standing_integration.md#42-general-standing-locks)（*预防 — 一般轨迹锁定*）；[第九章 §5.1](core_09_standing_integration.md#51-definition-and-attachment)（*定义与附着*）；[第九章 §5.4](core_09_standing_integration.md#54-special-violation-rules)（*强制性或限制自由的保障*）；[Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（*联合要求与**因暴力而拘禁***）；[Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule)（*期限、审查、恢复与再评价纪律*）。
 
 </details>
 
@@ -395,9 +395,9 @@
   - **第 3 节**决定不当行为是否经核实及其有多严重；本分节决定拘禁是否作为限制自由的保障而被要求。
   - 拘禁必须满足：
     - [第九章 §5.4](core_09_standing_integration.md#54-special-violation-rules)（*强制性或限制自由的保障*）；
-    - **Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）联合要求；
+    - **Article XXIV-B**（《非琐细限制、返还与修复性问责约束》）联合要求；
     - 个别化归因，以及质疑与上诉保护；以及
-    - **第六章 D 部分**中 **Article XXIII-C**（《限制最少且有时限的规则》）的期限、审查、恢复与再评价纪律。
+    - **第六章 D 部分**中 **Article XXIV-C**（《限制最少且有时限的规则》）的期限、审查、恢复与再评价纪律。
   - 在本分节要求拘禁时，用剥夺生命、释放、行政改名或单单较轻措施来替代，构成不合规。
 
 <a id="4-3-voluntary-public-accountability-expression"></a>
@@ -410,7 +410,7 @@
 
 - 上游：[§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity)（*违规轴 s = 7–9 指定*）；[§4](#4-due-process-safeguards-for-slot-assignment)（*正当程序保障、救济与预防*）；[§4.1](#4-1-remedy-and-correction-anti-constitutional)（*救济与纠正（反宪法）*）；[§4.2](#4-2-prevention-anti-constitutional-locks)（*预防 — 反宪法锁定*）。
 - 下游：[§5](core_10_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing)（*模式应用与标准路由*）。
-- 一并阅读：[第九章 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）；[Article XXIII-B](core_06_rights_part_d.md#article-xxiii-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（*联合要求*）；[Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-rights-collision-procedure-and-restorative-alignment)（*权利碰撞程序与修复性对齐*）。
+- 一并阅读：[第九章 §4.3](core_09_standing_integration.md#43-voluntary-public-accountability-expression)（*自愿公开问责表达*）；[Article XXIV-B](core_06_rights_part_d.md#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints)（*联合要求*）；[Article XXV-B](core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)（*权利碰撞程序与修复性对齐*）。
 
 </details>
 
@@ -422,7 +422,7 @@
 
 - **自愿公开问责表达：** 经核实反宪法不当行为之修复性路径中的责任方，可以自愿选择公开承认或道歉作为补充问责行为，凡其支持修复、信任恢复或共同体愈合，并受第九章 §4.3 自愿性、真实性、非贬损与非替代控制约束。
 - **不真实或滥用的表达：** 实质不真诚、操纵性、无真实问责的表演性，或对受影响方或公众具有虐待性的公开承认或道歉，不满足修复性要求。
-  - 它可以对责任方带来负面正义后果 — 包括**第 3 节**下的额外不当行为认定、降低的康复信用，以及 **Article XXIII-B**（《非琐细限制、返还与修复性问责约束》）与**第八章**下的其他合法限制。
+  - 它可以对责任方带来负面正义后果 — 包括**第 3 节**下的额外不当行为认定、降低的康复信用，以及 **Article XXIV-B**（《非琐细限制、返还与修复性问责约束》）与**第八章**下的其他合法限制。
   - 把虚假或滥用的道歉当作充分修复，或用它来规避**第 4.1 节**下必要的保护或补救或**第 4.2 节**下的锁定，构成不合规。
 - 拒绝参与公开表达本身，不得提高基线制裁或拓宽**反宪法信任锁定**。
 

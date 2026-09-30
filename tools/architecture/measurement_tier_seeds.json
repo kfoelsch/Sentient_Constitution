@@ -58,6 +58,11 @@
       "status": "approved",
       "ch00_category": "3.6 Accountability"
     },
+    "Materially Binding Act": {
+      "tier_depth": "primary_secondary",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
     "Materially Binding Act Record": {
       "tier_depth": "primary_secondary",
       "status": "approved",
@@ -163,7 +168,12 @@
       "tier_depth": "primary_secondary",
       "status": "approved"
     },
-    "Proportionate Cross-System Contribution": {
+    "Proportionate Cross-System Support": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Cross-System Extraction": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_secondary",
       "status": "approved"
@@ -548,6 +558,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Hard Content": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Expression": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
@@ -608,6 +623,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Documented Legitimacy Mechanism": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Foundational Constitutional Choice": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
@@ -646,6 +666,11 @@
     "Harm Minimization (Tradeoff Selection)": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Heightened Scrutiny": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
       "status": "approved"
     },
     "High-Impact and Systemic Harm Publication Constraint": {
@@ -798,7 +823,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Protected Intimate-Signal Gating and **Article X-C** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention": {
+    "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention": {
       "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
@@ -1150,6 +1175,11 @@
     },
     "System Data Types Record": {
       "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Personhood": {
+      "ch00_category": "3.4 Participation",
       "tier_depth": "primary_only",
       "status": "approved"
     }

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Emit CONSTITUTIONAL_REGRESSION_SCENARIOS.md from a canonical in-repo catalog.
+"""Emit project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md from a canonical in-repo catalog.
 
 Run from repo root: python3 tools/emit_regression_scenarios.py
 Idempotent: overwrites the scenarios file. Matrix rows + seed blocks stay in sync.
@@ -11,7 +11,7 @@ import pathlib
 import sys
 
 _ROOT = pathlib.Path(__file__).resolve().parents[1]
-_OUT = _ROOT / "CONSTITUTIONAL_REGRESSION_SCENARIOS.md"
+_OUT = _ROOT / "project" / "CONSTITUTIONAL_REGRESSION_SCENARIOS.md"
 
 # (family_label, list of (scenario_id, matrix_result: pass|draft))
 # Criterion: 125 pass, 39 draft; draft = stress-pack + auto + TIERED-004 + 1 margin (RS-BMK-003).
@@ -242,6 +242,12 @@ def emit() -> str:
 
 def main() -> int:
     text = emit()
+    # The catalog is authored with repository-root link targets; the file lives
+    # in project/, so re-express each relative target from there.
+    sys.path.insert(0, str(_ROOT / "tools"))
+    from corpus_paths import rebase_relative_links
+
+    text = rebase_relative_links(text, _ROOT, _OUT.parent)
     _OUT.write_text(text, encoding="utf-8")
     print(f"Wrote {_OUT} ({len(text.splitlines())} lines)")
     return 0

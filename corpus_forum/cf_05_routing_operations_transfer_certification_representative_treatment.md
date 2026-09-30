@@ -95,7 +95,7 @@ Each Environment forum family must publish:
 - recusal and conflict rules, including when a representative's private interest conflicts with the system's continuity or integrity interests, and a prompt contest path;
 - the representative's identity, appointment basis, and recusal status, kept attributable and inspectable.
 
-Intake under **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) must not refuse an Environment-forum filing solely because no individual sentient pleads private harm when a published representative files for the system's continuity or integrity interests. This treatment does not make the system a sentient or a Chapter Six rights-holder, and it does not replace [Chapter Twelve §3](../core_12_forum.md#3-transfer-consolidation-and-coordination) class or subclass representative treatment for sentient groups.
+Intake under **CF-5.1** (*Published intake classes*) and **CF-5.2** (*Intake triage body*) must not refuse an Environment-forum filing solely because no individual sentient pleads private harm when a published representative files for the system's continuity or integrity interests. This treatment does not make the system a sentient or a Chapter Six rights-holder, and it does not replace [Chapter Twelve §3 Transfer, consolidation, and coordination — continuity and anti-capture](../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) class or subclass representative treatment for sentient groups.
 
 Independent representation for a contested-sentient or status-adjudication entity is appointed under **CF-4.14**, not under this subsection. Intake must not treat the parent system as the entity's representative.
 
@@ -104,15 +104,15 @@ Independent representation for a contested-sentient or status-adjudication entit
 
 *In plain terms: A body that is too slow, too starved, or too backlogged does not get to decide that it is fine. Someone else hears that claim.*
 
-This subsection implements, and must not narrow, [Chapter Twelve §3](../core_12_forum.md#capacity-failure-routing) (*Capacity failure is heard outside the starved body*) and the [Chapter Ten §4.4](../core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) tripwire.
+This subsection implements, and must not narrow, [Chapter Twelve §3](../core_12_forum.md#capacity-failure-routing) (*Capacity failure is heard outside the starved body*) and the [Chapter Ten §4.4 Remedy parity and lock preconditions](../core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) tripwire.
 
-A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped Chapter Ten §4.4 remedy-parity tripwire — is an anti-self-judging matter.
+A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped Chapter Ten §4.4 (*Remedy parity and lock preconditions*) remedy-parity tripwire — is an anti-self-judging matter.
 
-- The **Integrity** family is the default lead. Where Integrity is itself the body in question, the [Chapter Twelve §3](../core_12_forum.md#3-transfer-consolidation-and-coordination) backup pairs apply.
+- The **Integrity** family is the default lead. Where Integrity is itself the body in question, the [Chapter Twelve §3 Transfer, consolidation, and coordination — continuity and anti-capture](../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) backup pairs apply.
 - Any affected party, protected reporter, or self-organized group under [Chapter One §10.4 Aligned Self-Organization](../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization) may file. The claim is heard on a Tier B clock under [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) unless the record shows Tier A stakes.
 - Intake under **CF-5.1** and **CF-5.2** must not park a capacity-failure claim inside the family whose capacity is in question, and must not require that family's consent to transfer.
-- The body in question must supply its published Chapter Ten §4.4 and Chapter Twelve §6 backlog figures, and may give evidence, but must not control the finding or the corrective order.
-- A capacity-failure finding is a [Chapter Ten §9.2](../core_10_standing_integration.md#92-remedy-system-durability) durability failure. Corrective orders route to the primary-stakes family responsible for staffing and funding. Where the pattern is chronic or concealed, the ordinary Chapter Nine path opens.
+- The body in question must supply its published Chapter Ten §4.4 (*Remedy parity and lock preconditions*) and Chapter Twelve §6 (*Timely resolution, materiality tiers, and anti-delay discipline*) backlog figures, and may give evidence, but must not control the finding or the corrective order.
+- A capacity-failure finding is a [Chapter Ten §9.2 Remedy-system durability](../core_10_standing_integration.md#92-remedy-system-durability) durability failure. Corrective orders route to the primary-stakes family responsible for staffing and funding. Where the pattern is chronic or concealed, the ordinary Chapter Nine path opens.
 - **CF-11** publishes the performance figures that make the tripwire inspectable. **CI-27** holds institutional capacity, funding, and the remedy-parity funding floor. Neither file lets the starved body hear its own capacity claim.
 
 ---

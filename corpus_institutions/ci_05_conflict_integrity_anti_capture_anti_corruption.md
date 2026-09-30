@@ -16,7 +16,7 @@
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-5.1: Shared anti-capture floors](#ci-51-shared-anti-capture-floors); [CI-5.2: Institutional owner files and named routes](#ci-52-institutional-owner-files-and-named-routes); [CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)](#ci-53-integrity-trigger-taxonomy-and-cross-layer-routing-control-package).
-- Read with: **CI-5**; **CI-5.1**; **CI-5.2**; **CI-5.3**; **CI-7.2**; **CI-8**; **CI-11**; **CI-13**; **CI-6**.
+- Read with: **CI-5**; **CI-5.1**; **CI-5.2**; **CI-5.3**; **CI-7.2**; **CI-12**; **CI-11**; **CI-13**; **CI-6**.
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4**.
 - Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*); primary owner **CF-7**.
 - Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*); primary owner **CF-16**.
@@ -69,7 +69,7 @@ Apply **CJS-3.6** **Shared anti-capture control stack** and **Sortition and civi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-5.2**; **CI-7.2**; **CI-8**; **CI-11**; **CI-13**; **CI-6**.
+- Read with: **CI-5.2**; **CI-7.2**; **CI-12**; **CI-11**; **CI-13**; **CI-6**.
 
 </details>
 
@@ -82,7 +82,7 @@ Each institution must maintain and publish:
 - disclosure and cure records — what must be published and the deadlines to fix problems;
 - grave-breach forfeiture records when serious misconduct triggers loss of benefits or assets;
 - supervision rules for contingent-claim and event-market systems; and
-- escalation paths to **CI-7.2** or **CI-8** when local review lacks credible independence.
+- escalation paths to **CI-7.2** (*External assurance triggers*) or **CI-12** (*Cross-institution coordination and escalation*) when local review lacks credible independence.
 
 Each institution must also name:
 - who publishes each disclosure category, who keeps the cure-window file, and where sanctions cases escalate (**CI-11**, **CI-13**);
@@ -93,7 +93,7 @@ Each institution must also name:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-5.3**; **CI-5**; **CI-7**; **CI-8**; **CI-3**; **CI-6**; **CJS-3.6** (*integrity assurance and resilience operations*).
+- Read with: **CI-5.3**; **CI-5**; **CI-7**; **CI-12**; **CI-3**; **CI-6**; **CJS-3.6** (*integrity assurance and resilience operations*).
 
 </details>
 
@@ -115,7 +115,7 @@ This subsection names institutional trigger labels for **CI-5** control maps and
 When a trigger fires, route it to the correct owner section — not every problem stays inside the institution that received it. Assign a **Notification Urgency Level** under **CJS-3.6** (*integrity assurance and resilience operations*) and publish notice through **CI-7.1** without waiting for routine attestation:
 - **CI-5** — receiving and opening reports;
 - **CI-7** — independent assurance checks and urgency-scaled incident notification (**CI-7.1**);
-- **CI-8** — escalation when local review fails;
+- **CI-12** — escalation when local review fails;
 - **CI-3** — structural independence and lane safeguards when capture is suspected;
 - **CI-6** — fair procedure and contest rights;
 - applicable **CF** sections — forum-side support; and

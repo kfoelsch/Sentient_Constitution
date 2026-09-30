@@ -42,7 +42,7 @@
 
 这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](core_05_apex_participation_leg.md#participation-constitutional)、[监督](core_05_apex_oversight_leg.md#oversight-constitutional)、[问责](core_05_apex_accountability_leg.md#accountability)、[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)、[延续](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. 测量概览
@@ -86,7 +86,7 @@
 
 当宪法要求具体测量规则时，[第十一章](core_11_forum.md#42-technical-forum-domains)下的**技术评议所领域**制定并维持共享标准 — 如何测量、如何检验、什么算可靠证据。负责既定争议的评议所随后在[第十一章 §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement)下裁决该案时适用这些标准。
 
-宪法尽责管理从点名问题与[**实质利害**](#material-stake)开始 — 涉及多少影响、依赖与风险。接下来，从[概览](#2-the-measurements)中选择相关的[**测量**](#2-the-measurements)类别与子类，并适用上述标准去检验真实世界效果，而不是图方便的指标。要求可追溯证据。
+宪法尽责管理从点名问题与[**实质利害**](#material-stake)开始 — 涉及多少影响、依赖与风险。接下来，从[概览](#2-measurements-overview)中选择相关的[**测量**](#2-measurements-overview)类别与子类，并适用上述标准去检验真实世界效果，而不是图方便的指标。要求可追溯证据。
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 关键治理过程
@@ -101,7 +101,7 @@
 - **评议所审查**（[第十一章](core_11_forum.md#1-purpose-and-role)）
   - 已获授权系统内部的普通争议，先走[受影响方的系统参与](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)已公布的质疑路径
   - 若该路径仍被争议、缺失、被俘获、或不能给予救济，则按首要利害经受监督的评议所路由
-  - 这些评议所在 **第 XXIV-C 条**（《及时解决与反拖延底线》）下支撑证据、合法移送与及时时限
+  - 这些评议所在 **第 XXV-C 条**（《及时解决与反拖延底线》）下支撑证据、合法移送与及时时限
 
 <a id="33-governance-layers"></a>
 #### 3.3 治理层
@@ -157,7 +157,7 @@
 
 **第六章 — 基础权利**（[A 部分](../../core_06_rights_part_a.md) · [B 部分](../../core_06_rights_part_b.md) · [C 部分](../../core_06_rights_part_c.md) · [D 部分](../../core_06_rights_part_d.md)）
 
-- **其职掌：** 在第 **I–XXVI** 条中陈述权利底线 — 生存必需、资源分配与依赖的尽责管理、尊严、能动性、参与、质疑与救济、正义约束、**第 XXIV-C 条**（《及时解决与反拖延底线》）下的及时性，以及过渡规则 — 按星球优先阅读编为四部分。
+- **其职掌：** 在第 **I–XXVII** 条中陈述权利底线 — 生存必需、资源分配与依赖的尽责管理、尊严、能动性、参与、质疑与救济、正义约束、**第 XXV-C 条**（《及时解决与反拖延底线》）下的及时性，以及过渡规则 — 按星球优先阅读编为四部分。
 - **其产出：** 不可妥协的权利保护与救济钩，第七至十一章、评议所、治理与修正规则必须尊重 — 不得借程序或替代指标收窄、绕过或掏空。
 
 <a id="5-key-practical-process-pipelines"></a>
@@ -187,7 +187,7 @@
 
 - **其职掌：** 把经核实的分类整合为真实世界的**轨迹效果**，走分开的轨道 — 按[**实质利害**](#material-stake)缩放，不把贡献与违规折成一个净分，也不掏空参与、监督、问责或及时性。
   - **贡献轨道：** 经核实的正面分类产生实际上侧：
-    - [**能力许可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_10_standing_integration.md#42-general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
+    - [**能力许可**](../../core_10_standing_integration.md#62-competency-bars-and-clearances)可打开信任敏感角色、受托权威、监督准入，以及在对照已公布能力门槛证明能力、且无适用[轨迹锁定](../../core_10_standing_integration.md#42-prevention--general-standing-locks)阻断具名路径时，逐步加重后果的尽责管理
     - 对合法尽责管理与合作的相称承认与**实质奖赏**，如[第一章](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)所要求
     - 不是空夸奖。好处必须真实、有证据支撑、并开放质疑
   - **违规轨道：** 经核实的违规认定产生实际下侧：
@@ -211,7 +211,7 @@
   - 证据如何得到支撑
   - 事项如何移送或合并
   - 禁止自评自裁规则如何防止被俘获的评议所成为唯一终局家园
-  - **第 XXIV-C 条**（《及时解决与反拖延底线》）下的时限防止案件久悬不决，以致救济不再要紧
+  - **第 XXV-C 条**（《及时解决与反拖延底线》）下的时限防止案件久悬不决，以致救济不再要紧
 - **其产出：** 可打开或更新轨迹记录的**经核实认定**，外加通向救济与[及时解决](../../core_05_band_accountability.md#timely-resolution-constitutional)的合法路由。评议所监督该链；它们不取代第八章的轨迹测量。
 
 <a id="51-how-the-full-chain-fits-together"></a>
@@ -225,7 +225,7 @@
    - **违规性质：** 打开**违规轨迹记录** — 经核实伤害与问责失败的有界、可质疑案件档 — 并在违规轴上分类**违规性质**。善与伤害永不折成一个净分；关联记录交叉引用但保持分开。
 3. **在每条轨道上适用轨迹效果**（[第九章](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)） — 经核实的贡献可授予能力许可并支撑相称承认与实质奖赏；经核实的违规可触发轨迹锁定、纠正与[对受伤害者的救济](../../core_10_standing_integration.md#41-remedy-and-correction)。
 4. **反宪法指定审查**（[第十章](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)） — 若最高影响违规认定也可能满足反宪法标准，第十章决定是否附着相应指定。指定不改变第八章已经认定的伤害严重程度；第九章普通效果并行继续，直到最终指定触发反宪法信任锁定。
-5. **路由争议并保持救济及时**（[第十一章](core_11_forum.md#1-purpose-and-role)） — 评议所监督案件如何移动、由哪条轨道处理，以及 **第 XXIV-C 条**（《及时解决与反拖延底线》）下的时限是否满足，以免救济死于拖延。普通争议遵循[争议顺序](core_11_forum.md#dispute-sequencing)。评议所也将争议分为五个[实质性层级](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P），镜像系统分类字母 — 从生存危急到私人/受控事项 — 当第十章最终指定是首要利害时，适用廉正族系默认路由。
+5. **路由争议并保持救济及时**（[第十一章](core_11_forum.md#1-purpose-and-role)） — 评议所监督案件如何移动、由哪条轨道处理，以及 **第 XXV-C 条**（《及时解决与反拖延底线》）下的时限是否满足，以免救济死于拖延。普通争议遵循[争议顺序](core_11_forum.md#dispute-sequencing)。评议所也将争议分为五个[实质性层级](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)（A/B/C/L/P），镜像系统分类字母 — 从生存危急到私人/受控事项 — 当第十章最终指定是首要利害时，适用廉正族系默认路由。
 
 [README 轨迹链地图](../../README.md#standing-pipeline-and-forums)为上述链提供直接导航，包括第七章进入轨迹测量的潜在经核实输入。
 

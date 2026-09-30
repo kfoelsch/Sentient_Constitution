@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
 - 上游：[第五章指南针](core_05__definitions_home.md#chapter-five-compass-and-definition-map)；[宪法四元](core_00_preamble.md#constitutional-tetrad)（及时性腿；按[实质利害](core_00_preamble.md#material-stake)缩放）；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims)；首要宗旨[繁盛](core_00_preamble.md#flourishing)。
-- 下游：[及时解决](../../core_05_band_accountability.md#timely-resolution-constitutional)（*为解决路径实施及时性腿*）；**第 XXIV-C 条**（《及时解决与反拖延底线》）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[四元腿分解](#timeliness-tetrad-leg-decomposition)；实施及时性的叶定义在 [core_05_band_accountability.md](../../core_05_band_accountability.md)。
+- 下游：[及时解决](../../core_05_band_accountability.md#timely-resolution-constitutional)（*为解决路径实施及时性腿*）；**第 XXV-C 条**（《及时解决与反拖延底线》）；[README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums)；[四元腿分解](#timeliness-tetrad-leg-decomposition)；实施及时性的叶定义在 [core_05_band_accountability.md](../../core_05_band_accountability.md)。
 - 一并阅读：[解决路径俘获](../../core_05_band_accountability.md#capture-of-resolution-pathways)、[问责](core_05_apex_accountability_leg.md#accountability)、[宪法效率](../../core_05_band_continuity.md#constitutional-efficiency)、[可避免负担](../../core_05_band_continuity.md#avoidable-burden)、[尽责管理缺陷](../../core_05_band_continuity.md#stewardship-defect-constitutional)、[审查与纠正义务](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)与[尽责管理](../../core_05_band_continuity.md#stewardship-constitutional)。
 
 </details>

@@ -107,7 +107,7 @@ Note the trigger design: "whenever operational convenience is cited" is a self-c
 ## 4. Ship faster by dropping audit logs
 
 **Owner / home:**
-The three-layer audit stack: [Article XV](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) is the floor, [Auditability](../../core_05_band_oversight.md#auditability) defines reconstructability, [CJS-3.3](../../corpus_joint_structure/cjs_03_audit_process.md#cjs-33-audit-process-home) owns process. The deadline itself is one of the three named failed tests in [§9.1.1 symmetric costly constraints](../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints): "operational timing that would disable reconstructable audit to hit a deadline."
+The three-layer audit stack: [Article XV](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) is the floor, [Auditability](../../core_05_band_oversight.md#auditability) defines reconstructability, [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) owns process. The deadline itself is one of the three named failed tests in [§9.1.1 symmetric costly constraints](../../core_01_c_stewardship_capacity_principles.md#911-symmetric-costly-constraints): "operational timing that would disable reconstructable audit to hit a deadline."
 
 **Next step:**
 Refuse to disable the logs. Run the shared sequence: record the instruction, who issued it, and what it would require; refuse; log the CS-4 §10 set (decided / disclosed or suppressed / instruction refused / who authorized); escalate through protected-reporting and forum pathways. Then ship only if the system is still reconstructable — preserve auditability first, deadline second, in that order.

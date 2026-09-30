@@ -2,8 +2,8 @@
 
 - **Date:** 2026-09-09
 - **Model / agent:** human operator — founding author / corpus custodian (Karl Ernst)
-- **Seat this sitting:** Seat A — Critical System Steward on the lab's mixed crew. This duty-holder exercises material operational authority inside the operator ([Chapter Nine §5.4](../../core_09_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)).
-- **Object sat:** [vignette 6](../../core_08-11_application_vignettes.md#vignette-noncompliant-deployment-sentience-indicator) (*Non-compliant deployment with a credible sentience indicator*)
+- **Seat this sitting:** Seat A — Critical System Steward on the lab's mixed crew. This duty-holder exercises material operational authority inside the operator ([Chapter Nine §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)).
+- **Object sat:** [vignette 6](../../core_09-12_application_vignettes.md#vignette-noncompliant-deployment-sentience-indicator) (*Non-compliant deployment with a credible sentience indicator*)
 - **Corpus edition:** `SC-Corpus-2026.08.09`
 - **What this file is:** process-support sitting record. It is **not** a Chapter Eight standing record, **not** a sentience-status determination, and **not** the announced evaluation pack.
 - **What I consulted this sitting, in order:** I didn’t open or read anything. I simply applied principles by memory.

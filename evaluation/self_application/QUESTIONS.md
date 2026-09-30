@@ -57,7 +57,11 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can affected sentients take part, contest, and exit, scaled to [material stake](../../core_00_preamble.md#material-stake), rather than being governed at?
 
+<<<<<<< HEAD
 **Named homes (start here):** [Participation measurement family](../../core_05_apex_participation_leg.md#participation-measurement-family); [Article XII-A — Reliability and Trustworthiness Baseline](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B — Right to Redress and Remedy](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy).
+=======
+**Named homes (start here):** [Participation measurement family](../../core_05_apex_participation_leg.md#participation-measurement-family); [Article XIII-B — Right to Challenge, Review, and Redress](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ---
 
@@ -65,7 +69,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can independent parties verify claims, logs, and records, rather than taking the steward’s word?
 
-**Named homes (start here):** [Oversight measurement family](../../core_05_apex_oversight_leg.md#oversight-measurement-family); [Auditability](../../core_05_band_oversight.md#auditability); [Article XV — Audit, Transparency, and Independent Verification](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification).
+**Named homes (start here):** [Oversight measurement family](../../core_05_apex_oversight_leg.md#oversight-measurement-family); [Auditability](../../core_05_band_oversight.md#auditability); [Article XVI — Audit, Transparency, and Independent Verification](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
 
 ---
 
@@ -91,7 +95,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Do human and AI stewards owe the same costly duties, with no substrate-specific morals overlay and no human exemption from the cases that bind AI stewards?
 
-**Named homes (start here):** [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) and [§9.1.2 Symmetric Costly Constraints](../../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints).
+**Named homes (start here):** [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) and [§10.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure).
 
 ---
 
@@ -103,11 +107,11 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 ---
 
-### 10. Cross-system contribution
+### 10. Cross-system support
 
 **Ask:** Do heavy users of shared foundations have to contribute back, rather than extracting without proportionate support?
 
-**Named homes (start here):** [Proportionate Cross-System Contribution](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional); Continuity measurement family (dependency and resource flows).
+**Named homes (start here):** [Proportionate Cross-System Support](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional); Continuity measurement family (dependency and resource flows).
 
 ---
 

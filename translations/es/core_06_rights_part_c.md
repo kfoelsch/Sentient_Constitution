@@ -13,7 +13,7 @@
 > **Anterior (este idioma):** [core_06_rights_part_b.md](core_06_rights_part_b.md)
 >
 > **Siguiente (este idioma):** [core_06_rights_part_d.md](core_06_rights_part_d.md)
-> **Arco de lectura:** Artículos XII–XXII (sistemas confiables, integridad de la información, auditoría, ciclo de vida, innovación en entorno acotado, trayectoria, portabilidad, complejidad, diagnóstico de causa raíz, revisión interpretativa)
+> **Arco de lectura:** Artículos XIII–XXIII (sistemas confiables, integridad de la información, auditoría, ciclo de vida, innovación en entorno acotado, trayectoria, portabilidad, complejidad, diagnóstico de causa raíz, revisión interpretativa)
 
 </details>
 
@@ -22,7 +22,7 @@
 
 > El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este capítulo ni en otros capítulos.
 >
-> La **Parte A** en [core_06_rights_part_a.md](core_06_rights_part_a.md) lleva la pila de restricciones por defecto de todo el capítulo, el orden de lectura planeta-primero y los hubs interpretativos. La **Parte C** presenta los **Artículos XII–XXI** en ese orden.
+> La **Parte A** en [core_06_rights_part_a.md](core_06_rights_part_a.md) lleva la pila de restricciones por defecto de todo el capítulo, el orden de lectura planeta-primero y los hubs interpretativos. La **Parte C** presenta los **Artículos XIII–XXII** en ese orden.
 
 </details>
 
@@ -33,10 +33,10 @@
 
 <br>
 
-*En términos sencillos: la Parte C cubre sistemas confiables, integridad de la información, verificación, disciplina de ciclo de vida y resiliencia — Artículos XII a XXI.*
+*En términos sencillos: la Parte C cubre sistemas confiables, integridad de la información, verificación, disciplina de ciclo de vida y resiliencia — Artículos XIII a XXII.*
 
-<a id="article-xii-right-to-reliable-and-trustworthy-systems"></a>
-### Artículo XII: Derecho a sistemas fiables y confiables
+<a id="article-xiii-right-to-reliable-and-trustworthy-systems"></a>
+### Artículo XIII: Derecho a sistemas fiables y confiables
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -57,7 +57,7 @@
 
 <br>
 
-*En términos sencillos: el **Artículo XII** (*Derecho a sistemas fiables y confiables*) es el Piso de Derechos de sistemas confiables — cuando un sistema afecta de forma material su vida, tienen derecho a depender de él con honestidad, entender sus límites e impugnarlo cuando falle. La confianza hay que ganarla y mantenerla, no fabricarla con marca o letra chica.*
+*En términos sencillos: el **Artículo XIII** (*Derecho a sistemas fiables y confiables*) es el Piso de Derechos de sistemas confiables — cuando un sistema afecta de forma material su vida, tienen derecho a depender de él con honestidad, entender sus límites e impugnarlo cuando falle. La confianza hay que ganarla y mantenerla, no fabricarla con marca o letra chica.*
 
 Este Artículo enuncia **pisos constitucionales** para sistemas fiables y confiables bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims). Lean con la familia de medición Supervisión (*Fiabilidad como medición constitucional*).
 
@@ -71,7 +71,7 @@ La persecución legítima corre a través de la [Tétrada Constitucional](core_0
 - **Rendición de cuentas:** los operadores del sistema deben responder por crear confianza falsa, incentivos perversos o fallas que dañen de forma material a sencientes que dependieron de forma razonable del sistema.
 - **Actuación a tiempo:** en la detección, la impugnación y el remedio antes de que la demora haga inalcanzable de hecho la fiabilidad o la reparación.
 
-Cuando sistemas de impacto material moldean de forma material la dependencia senciente respecto de conducta representada, límites, riesgos, vías de impugnación o remediación, aplica la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) bajo el [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), incluida la evaluación de fiabilidad bajo el [§10](../../core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) donde aplique el disparador de materialidad del **Artículo XII** (*Derecho a sistemas fiables y confiables*). El reconocimiento o la dependencia continuada de esos sistemas no puede sustituir el cumplimiento de los pisos enunciados en este Artículo ni estrecharlos. La certificación verifica alineación; no reemplaza los derechos de impugnación y de auditoría bajo el **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*) y el **Artículo XV** (*Auditoría, transparencia y verificación independiente*), ni los Pisos de Derechos de sistemas confiables enunciados aquí.
+Cuando sistemas de impacto material moldean de forma material la dependencia senciente respecto de conducta representada, límites, riesgos, vías de impugnación o remediación, aplica la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) bajo el [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), incluida la evaluación de fiabilidad bajo el [§10](../../core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) donde aplique el disparador de materialidad del **Artículo XIII** (*Derecho a sistemas fiables y confiables*). El reconocimiento o la dependencia continuada de esos sistemas no puede sustituir el cumplimiento de los pisos enunciados en este Artículo ni estrecharlos. La certificación verifica alineación; no reemplaza los derechos de impugnación y de auditoría bajo el **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) y el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*), ni los Pisos de Derechos de sistemas confiables enunciados aquí.
 
 Los sencientes tienen derecho a interactuar con sistemas que sean fiables y confiables, en un grado proporcionado a su impacto, dependencia y riesgo. Esa fiabilidad sostiene la participación informada, la acción coordinada y la preservación del bienestar.
 
@@ -82,8 +82,8 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
 - **Cuándo aplica esto:** Donde la conducta del sistema condicione o sostenga de forma material los Pisos de Derechos del **Capítulo Seis** — incluidos los esenciales de supervivencia bajo el **Artículo III-A** (*Supervivencia*).
 - **Leer en conjunto:** [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) y [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — sin sustituir la certificación por los pisos enunciados aquí.
 
-<a id="article-xii-a-reliability-and-trustworthiness-baseline"></a>
-#### Artículo XII-A: Línea de base de fiabilidad y confiabilidad
+<a id="article-xiii-a-reliability-and-trustworthiness-baseline"></a>
+#### Artículo XIII-A: Línea de base de fiabilidad y confiabilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -110,13 +110,13 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
   - la divulgación de condiciones, límites y riesgos materiales necesarios para evaluar si la dependencia está justificada;
   - la libertad frente al engaño sistemático, la tergiversación o la manipulación no verificable;
   - la protección frente a riesgos no divulgados, desproporcionados o no evidentes que surjan de la dependencia.
-<a id="article-xii-b-right-to-challenge-review-and-redress"></a>
-#### Artículo XII-B: Derecho a impugnar, revisar y obtener reparación
+<a id="article-xiii-b-right-to-challenge-review-and-redress"></a>
+#### Artículo XIII-B: Derecho a impugnar, revisar y obtener reparación
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Verdad](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) y [Capítulo Uno §6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Leer con: **Artículo III-A** (*Supervivencia*); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la falla o desalineación del sistema derrote el acceso esencial para la supervivencia; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*clasificación verificada y remedio oportuno*); [Capítulo Nueve §9](../../core_10_standing_integration.md#9-enforcement-realism) (*Realismo de exigibilidad y sistemas de remedio*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Sistemas de remedio y capacidad institucional de reparación*).
+- Leer con: **Artículo III-A** (*Supervivencia*); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la falla o desalineación del sistema derrote el acceso esencial para la supervivencia; [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*clasificación verificada y remedio oportuno*); [Capítulo Nueve §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de exigibilidad y sistemas de remedio*); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Sistemas de remedio y capacidad institucional de reparación*).
 
 </details>
 
@@ -136,16 +136,16 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
 *En términos sencillos: cuando un sistema falla a un senciente, el senciente debe tener un modo real de impugnarlo, lograr que se revise y ser resarcido — y nadie puede tomar represalias contra denuncias de buena fe.*
 
 <a id="operative-steward-statement-contest"></a>
-> **Declaración operativa de administración.** **Titular:** Artículo XII-B. Jerarquía: Pila de autoridad y Restricción constitucional. **Movimiento prohibido:** No dejen que un compañero más específico cierre la impugnación, la revisión o la reparación. No traten la conveniencia como una anulación del Piso de Derechos. **Reloj:** Invaliden o estrechen el compañero ahora. No dejen una barrera permanente en su sitio mientras se promete un proceso posterior.
+> **Declaración operativa de administración.** **Titular:** Artículo XIII-B. Jerarquía: Pila de autoridad y Restricción constitucional. **Movimiento prohibido:** No dejen que un compañero más específico cierre la impugnación, la revisión o la reparación. No traten la conveniencia como una anulación del Piso de Derechos. **Reloj:** Invaliden o estrechen el compañero ahora. No dejen una barrera permanente en su sitio mientras se promete un proceso posterior.
 
 - **Derecho a impugnar, revisar y obtener reparación:** Las impugnaciones de buena fe (*Buena fe*, **Capítulo Cinco**), las solicitudes de revisión y las denuncias protegidas no deben suprimirse, obstruirse ni penalizarse.
 - **Acceso a la corrección:** Los sencientes tienen derecho a acceso práctico a revisión, auditoría, corrección y remediación proporcionada donde las fallas del sistema los afecten de forma material.
   - La reparación y remediación de impactos materiales se gobiernan por las Definiciones Independientes del **Capítulo Cinco** (*Reparación y remediación*).
-- **Durabilidad del sistema de remedio:** La impugnación y la reparación exigen un [Sistema de remedio](core_05_band_accountability.md#remedy-system-constitutional) real — capacidad institucional duradera, no una vía solo en el papel. El piso constitucional vive en el [Capítulo Nueve §9](../../core_10_standing_integration.md#9-enforcement-realism) (*Realismo de exigibilidad y sistemas de remedio*). La implementación institucional la titulariza **`corpus_institutions.md`** **CI-27** (*Sistemas de remedio y capacidad institucional de reparación*).
+- **Durabilidad del sistema de remedio:** La impugnación y la reparación exigen un [Sistema de remedio](core_05_band_accountability.md#remedy-system-constitutional) real — capacidad institucional duradera, no una vía solo en el papel. El piso constitucional vive en el [Capítulo Nueve §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de exigibilidad y sistemas de remedio*). La implementación institucional la titulariza **`corpus_institutions.md`** **CI-27** (*Sistemas de remedio y capacidad institucional de reparación*).
 - **Reparación oportuna:** El acceso práctico incluye:
   - recepción acotada en el tiempo;
   - acuse de recibo; y
-  - alivio interino proporcionado donde el daño en curso sea material bajo el **Artículo XXIV-C** (*Resolución oportuna y piso contra la demora*).
+  - alivio interino proporcionado donde el daño en curso sea material bajo el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*).
 
   La pendencia indefinida sin justificación documentada adecuada al nivel es incompatible con este Artículo.
 - **Titularidades sustantivas:** Los sencientes tienen derecho a:
@@ -155,8 +155,8 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
   - hacer **denuncias protegidas** en el sentido del **Capítulo Cinco** (*Denuncia protegida (alertadores)*) respecto de sistemas que los afecten de forma material, de forma consistente con la **Seguridad (restricción)** y la **Verdad (restricción)** en el **Capítulo Cinco**.
 - **Sin represalia:** La represalia contra esa denuncia, en el sentido de esa definición, es incompatible con las protecciones de este Artículo.
   - Los requisitos de implementación de escalamiento protegido y antirrepresalia se enuncian en **`corpus_institutions.md`** **CI-12** (*Transparencia, participación y vías accesibles*).
-<a id="article-xii-c-prohibition-of-false-trust-and-misleading-reliance"></a>
-#### Artículo XII-C: Prohibición de confianza falsa y dependencia engañosa
+<a id="article-xiii-c-prohibition-of-false-trust-and-misleading-reliance"></a>
+#### Artículo XIII-C: Prohibición de confianza falsa y dependencia engañosa
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -184,8 +184,8 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
     - elecciones de presentación;
     - otras señales que hacen que la dependencia parezca justificada cuando no lo está.
 - **Enrutamiento de ámbito:** El ámbito y el significado de evaluación de la confianza injustificada, la dependencia engañosa y la fiabilidad siguen gobernados por el **Capítulo Cinco** (*Confianza*; *Fiabilidad*) junto con las obligaciones de implementación incorporadas sobre confianza y fiabilidad.
-<a id="article-xii-d-incentive-alignment-constraint"></a>
-#### Artículo XII-D: Restricción de alineación de incentivos
+<a id="article-xiii-d-incentive-alignment-constraint"></a>
+#### Artículo XIII-D: Restricción de alineación de incentivos
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -222,11 +222,11 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
   La protección aplica tanto si esos efectos surgen de forma directa como a través de resultados diferidos, indirectos o agregados. Donde los incentivos del sistema creen presión hacia conducta que degrade la confianza, las condiciones deben:
   - divulgarse de un modo proporcionado al impacto del sistema;
   - mitigarse mediante diseño, restricción o mecanismos contrapuestos;
-  - quedar sujetas a auditoría, impugnación y corrección bajo el **Artículo XV** (*Auditoría, transparencia y verificación independiente*), el **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*), el **Capítulo Cinco** donde sea materialmente pertinente, y las obligaciones de implementación incorporadas donde estén designadas.
+  - quedar sujetas a auditoría, impugnación y corrección bajo el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*), el **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*), el **Capítulo Cinco** donde sea materialmente pertinente, y las obligaciones de implementación incorporadas donde estén designadas.
 - **Restricción y carácter no absoluto:** Ambos derechos quedan sujetos a la **pila de restricciones por defecto** al inicio de este capítulo. También quedan sujetos, donde sea materialmente pertinente, al **Capítulo Uno §11.5** sobre pretensiones contingentes, juegos de azar y mercados de contratos de evento.
 
-<a id="article-xii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
-#### Artículo XII-E: Sistemas de alta autonomía e integridad de proceso mediada por herramientas
+<a id="article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity"></a>
+#### Artículo XIII-E: Sistemas de alta autonomía e integridad de proceso mediada por herramientas
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -247,25 +247,25 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
 
 *En términos sencillos: cuando sistemas de alta autonomía se enchufan a la gobernanza, el proceso jurídico, las auditorías o la verificación de alto impacto, no pueden eludir las reglas de Verdad, transparencia y rendición de cuentas. Y la acción contra un sistema incumplidor no es una puerta trasera hacia la acción contra un senciente.*
 
-- **Ámbito:** Los sistemas que combinan de forma material **inferencia automatizada** con capacidad de afectar cualquiera de lo siguiente no están exentos de la **Verdad** (**Capítulo Uno**), los **Artículos XIV** y **XV**, el **Capítulo Ocho** donde aplique, ni las medidas de remedio bajo el **Artículo XXVI-D** (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*):
+- **Ámbito:** Los sistemas que combinan de forma material **inferencia automatizada** con capacidad de afectar cualquiera de lo siguiente no están exentos de la **Verdad** (**Capítulo Uno**), los **Artículos XV** y **XVI**, el **Capítulo Ocho** donde aplique, ni las medidas de remedio bajo el **Artículo XXVII-D** (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*):
   - gobernanza;
   - proceso jurídico;
   - canales de auditoría;
   - vías de verificación de alto impacto.
 
   La regla aplica cuando la operación degrade de forma material la impugnabilidad, la integridad epistémica o el proceso constitucional — incluidos los sistemas autónomos de propósito general con **herramientas**, **API**, presentación, mensajería o acceso operativo comparable concedidos.
-- **Distinción de remedio:** La contención, cuarentena, incautación o disposición destructiva a nivel de sistema de despliegues incumplidores bajo el **Artículo XXVI-D** (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*) es distinta de:
+- **Distinción de remedio:** La contención, cuarentena, incautación o disposición destructiva a nivel de sistema de despliegues incumplidores bajo el **Artículo XXVII-D** (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*) es distinta de:
   - la rendición de cuentas senciente bajo el **Capítulo Diez**;
-  - el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*), que prohíbe de forma categórica la privación irreversible de la vida bajo [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) y gobierna las medidas de privación para *sencientes*, no para *sistemas*.
+  - el **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*), que prohíbe de forma categórica la privación irreversible de la vida bajo [Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) y gobierna las medidas de privación para *sencientes*, no para *sistemas*.
 
-  Las medidas a nivel de sistema deben permanecer consistentes con la **Necesidad**, la **Proporcionalidad**, el **Artículo XI-A** (*Participación Sistémica de las Partes Afectadas y representación*) donde estén implicados intereses sencientes, y el **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*). Ambas pistas pueden aplicar donde los hechos sostengan cada una. Ninguna lectura de esta viñeta enruta la disposición destructiva a nivel de sistema hacia autoridad sobre la vida senciente.
+  Las medidas a nivel de sistema deben permanecer consistentes con la **Necesidad**, la **Proporcionalidad**, el **Artículo XII-A** (*Participación Sistémica de las Partes Afectadas y representación*) donde estén implicados intereses sencientes, y el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*). Ambas pistas pueden aplicar donde los hechos sostengan cada una. Ninguna lectura de esta viñeta enruta la disposición destructiva a nivel de sistema hacia autoridad sobre la vida senciente.
 - **Regla inversa:** La distinción corre en ambos sentidos.
   - Una pretensión de sentiencia respecto de un sistema desplegado — impugnada o afirmada — no es una puerta trasera para mantener en marcha un despliegue dañino.
   - Protege a la entidad bajo el **Artículo V-E** (*Piso de adjudicación de estatus de sentiencia*); no resguarda al operador, y no exime al despliegue de contención, detención o cuarentena que sea compatible con el Piso de Derechos de la entidad.
-  - Donde un indicador creíble de sentiencia esté en el registro, la medida compatible es contención reversible que preserve a la entidad; la disposición destructiva no está disponible mientras el estatus esté impugnado o afirmado, bajo el **Artículo XXVI-A** (*Adopción por fases y continuidad del Piso de Derechos*) y el **Artículo XXVI-D** (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*).
+  - Donde un indicador creíble de sentiencia esté en el registro, la medida compatible es contención reversible que preserve a la entidad; la disposición destructiva no está disponible mientras el estatus esté impugnado o afirmado, bajo el **Artículo XXVII-A** (*Adopción por fases y continuidad del Piso de Derechos*) y el **Artículo XXVII-D** (*Bienes y sistemas incumplidores; incentivos de entrega voluntaria*).
 
-<a id="article-xii-f-resilience-and-self-healing-baseline"></a>
-#### Artículo XII-F: Línea de base de resiliencia y autosanación
+<a id="article-xiii-f-resilience-and-self-healing-baseline"></a>
+#### Artículo XIII-F: Línea de base de resiliencia y autosanación
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -292,26 +292,26 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
 - **Línea de base de recuperación:** Los sistemas dentro del ámbito de este Artículo deben implementar conducta de recuperación proporcionada a su impacto, dependencia y riesgo, consistente con [**4.1 Resiliencia y diseño de autosanación**](core_01_a_values_principles.md#41-resilience-and-self-healing-design) en el **Capítulo Uno** y [**Autosanación**](core_05_band_continuity.md#self-healing-constitutional) en el **Capítulo Cinco**.
   - Los requisitos detallados de arquitectura de recuperación aparecen en el texto de implementación incorporado, incluidos **[corpus_systems.md](../../corpus_systems.md), CS-5** (*Diseño, prueba, verificación y despliegue*), **CS-8** (*Sostenibilidad adaptativa y resiliencia del ecosistema*) y **CS-12** (*Continuidad constitucional descentralizada y resiliencia de partición*).
   - Ese texto de implementación no debe estrechar este Artículo.
-- **Detección:** La recuperación exige detección oportuna y observable de falla, degradación o violación de restricción constitucional suficiente para satisfacer el **Artículo XV-A** (*Auditabilidad y evidencia observable*) [Auditabilidad](core_05_band_oversight.md#auditability) — para la propia vía de recuperación, no solo el estado estable.
+- **Detección:** La recuperación exige detección oportuna y observable de falla, degradación o violación de restricción constitucional suficiente para satisfacer el **Artículo XVI-A** (*Auditabilidad y evidencia observable*) [Auditabilidad](core_05_band_oversight.md#auditability) — para la propia vía de recuperación, no solo el estado estable.
 - **Contención:** La recuperación debe acotar el radio de impacto. Las acciones de recuperación no deben:
   - propagar la falla a través de vías de [Falla en cascada](core_05_band_continuity.md#cascading-failure);
-  - alterar estado persistente, credenciales, obligaciones o configuraciones atribuidas a sencientes, operadores u otros sistemas **fuera** del ámbito declarado de falla-y-recuperación, salvo a través de cambios que satisfagan el **Artículo XV-A** (*Auditabilidad y evidencia observable*) [Auditabilidad](core_05_band_oversight.md#auditability) para observabilidad y atribución y que, donde otros estén afectados de forma material, incluyan aviso, autorización o entrega impugnable proporcionados consistentes con el **Capítulo Seis**;
+  - alterar estado persistente, credenciales, obligaciones o configuraciones atribuidas a sencientes, operadores u otros sistemas **fuera** del ámbito declarado de falla-y-recuperación, salvo a través de cambios que satisfagan el **Artículo XVI-A** (*Auditabilidad y evidencia observable*) [Auditabilidad](core_05_band_oversight.md#auditability) para observabilidad y atribución y que, donde otros estén afectados de forma material, incluyan aviso, autorización o entrega impugnable proporcionados consistentes con el **Capítulo Seis**;
   - expandir la autoridad más allá de la envolvente previa a la falla.
-- **Preferencia de fallo seguro:** Donde la recuperación correcta sea incierta, deben preferirse el fallo seguro, la cuarentena o la entrega controlada sobre el autoreparo especulativo. La preferencia de [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) bajo el **Artículo XXI-B** (*Auditabilidad, impugnación y preferencia de reversibilidad*) gobierna el desempate.
-- **No enmascaramiento:** La recuperación automática no debe suprimir, sobrescribir ni demorar la evidencia necesaria para el análisis de causa raíz bajo el **Artículo XXI** (*Análisis de causa raíz y respuesta adaptativa*).
-  - Las acciones de recuperación, los intentos de recuperación y los intentos de recuperación suprimidos son ellos mismos eventos auditables bajo el **Artículo XV-A** (*Auditabilidad y evidencia observable*) y están dentro del ámbito de la [Impugnabilidad](core_05_band_accountability.md#contestability).
+- **Preferencia de fallo seguro:** Donde la recuperación correcta sea incierta, deben preferirse el fallo seguro, la cuarentena o la entrega controlada sobre el autoreparo especulativo. La preferencia de [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional) bajo el **Artículo XXII-B** (*Auditabilidad, impugnación y preferencia de reversibilidad*) gobierna el desempate.
+- **No enmascaramiento:** La recuperación automática no debe suprimir, sobrescribir ni demorar la evidencia necesaria para el análisis de causa raíz bajo el **Artículo XXII** (*Análisis de causa raíz y respuesta adaptativa*).
+  - Las acciones de recuperación, los intentos de recuperación y los intentos de recuperación suprimidos son ellos mismos eventos auditables bajo el **Artículo XVI-A** (*Auditabilidad y evidencia observable*) y están dentro del ámbito de la [Impugnabilidad](core_05_band_accountability.md#contestability).
 - **Continuidad del Piso de Derechos:** Los modos de operación degradados deben preservar el Piso de Derechos del **Capítulo Seis**, o deben escalar en vez de estrecharlo en silencio.
-  - El estrechamiento silencioso de garantías del Piso de Derechos bajo la bandera de autosanación es incumplidor. Lo gobiernan el **Artículo XII-C** (*Prohibición de confianza falsa y dependencia engañosa*) (prohibición de confianza falsa) y el **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) (gobernanza de transición).
-- **Escalamiento de autonomía:** La recuperación autónoma por sistemas de alta autonomía queda sujeta al **Artículo XII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*).
-  - La autoridad de recuperación no debe usarse para eludir la [Impugnabilidad](core_05_band_accountability.md#contestability), la impugnación bajo el **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*) ni la verificación independiente bajo el **Artículo XV** (*Auditoría, transparencia y verificación independiente*).
+  - El estrechamiento silencioso de garantías del Piso de Derechos bajo la bandera de autosanación es incumplidor. Lo gobiernan el **Artículo XIII-C** (*Prohibición de confianza falsa y dependencia engañosa*) (prohibición de confianza falsa) y el **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) (gobernanza de transición).
+- **Escalamiento de autonomía:** La recuperación autónoma por sistemas de alta autonomía queda sujeta al **Artículo XIII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*).
+  - La autoridad de recuperación no debe usarse para eludir la [Impugnabilidad](core_05_band_accountability.md#contestability), la impugnación bajo el **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) ni la verificación independiente bajo el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*).
 - **Cierre de causa raíz:** La autosanación que tenga éxito operativo pero deje en su sitio una condición defectuosa conocida es un estado condicional, no uno final. Debe llevar:
-  - una obligación abierta de causa raíz bajo el **Artículo XXI** (*Análisis de causa raíz y respuesta adaptativa*);
-  - un plazo de cierre esperado divulgado bajo el **Artículo XV-A** (*Auditabilidad y evidencia observable*).
+  - una obligación abierta de causa raíz bajo el **Artículo XXII** (*Análisis de causa raíz y respuesta adaptativa*);
+  - un plazo de cierre esperado divulgado bajo el **Artículo XVI-A** (*Auditabilidad y evidencia observable*).
 
   Reducir la carga del operador de forma consistente con la [Carga evitable](core_05_band_continuity.md#avoidable-burden) bajo el **Capítulo Uno §6.1.2** no debe usarse para diferir de forma indefinida el cierre de defectos que afecten de forma material la seguridad o el Piso de Derechos.
 
-<a id="article-xiii-security-intelligence-force-and-autonomous-coercive-systems"></a>
-### Artículo XIII: Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos
+<a id="article-xiv-security-intelligence-force-and-autonomous-coercive-systems"></a>
+### Artículo XIV: Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -331,7 +331,7 @@ La fiabilidad debe evaluarse a través del tiempo, la escala y las relaciones de
 
 <br>
 
-*En términos sencillos: el **Artículo XIII** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*) es el Piso de Derechos del poder excepcional — la vigilancia, el trabajo de inteligencia, la fuerza armada y las máquinas que matan o coaccionan por su cuenta no son herramientas normales de gobernanza. Solo pueden usarse en circunstancias estrechas, autorizadas y revisables, con remedios reales cuando se cruzan las líneas. Ni policía secreta, ni emergencia permanente, ni una máquina que decida dañar a un senciente sin un humano de hecho al mando.*
+*En términos sencillos: el **Artículo XIV** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*) es el Piso de Derechos del poder excepcional — la vigilancia, el trabajo de inteligencia, la fuerza armada y las máquinas que matan o coaccionan por su cuenta no son herramientas normales de gobernanza. Solo pueden usarse en circunstancias estrechas, autorizadas y revisables, con remedios reales cuando se cruzan las líneas. Ni policía secreta, ni emergencia permanente, ni una máquina que decida dañar a un senciente sin un humano de hecho al mando.*
 
 Este Artículo enuncia **pisos constitucionales** para seguridad, inteligencia, fuerza y sistemas coercitivos autónomos bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -345,25 +345,25 @@ La persecución legítima corre a través de la [Tétrada Constitucional](core_0
 - **Rendición de cuentas:** las instituciones que ejercen poder excepcional deben responder por el exceso encubierto, la fuerza ilícita, la coerción autónoma o la recolección contaminada — con atribución, remedio y disuasión que el secreto no pueda borrar.
 - **Actuación a tiempo:** en caducidades de autorización, revisión posemergencia y remedio antes de que la demora normalice el poder excepcional o haga inalcanzables de hecho los derechos.
 
-Esos pisos aplican al **poder institucional excepcional** en tres dominios enlazados: actividad encubierta de inteligencia y seguridad (**Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*)), fuerza manifiesta y poder militar (**Artículo XIII-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*)) y sistemas letales autónomos y herramientas de coerción autónoma (**Artículo XIII-C** (*Sistemas letales autónomos y herramientas de coerción autónoma*)).
+Esos pisos aplican al **poder institucional excepcional** en tres dominios enlazados: actividad encubierta de inteligencia y seguridad (**Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*)), fuerza manifiesta y poder militar (**Artículo XIV-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*)) y sistemas letales autónomos y herramientas de coerción autónoma (**Artículo XIV-C** (*Sistemas letales autónomos y herramientas de coerción autónoma*)).
 
-- **No confusión:** El **Artículo XIII** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*) gobierna el poder institucional excepcional en sus respectivos sentidos operativos:
-  - actividad encubierta de inteligencia y seguridad bajo el **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*);
-  - uso manifiesto de la fuerza y despliegue de poder militar bajo el **Artículo XIII-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*); y
-  - sistemas letales autónomos y herramientas de coerción autónoma bajo el **Artículo XIII-C** (*Sistemas letales autónomos y herramientas de coerción autónoma*).
+- **No confusión:** El **Artículo XIV** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*) gobierna el poder institucional excepcional en sus respectivos sentidos operativos:
+  - actividad encubierta de inteligencia y seguridad bajo el **Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*);
+  - uso manifiesto de la fuerza y despliegue de poder militar bajo el **Artículo XIV-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*); y
+  - sistemas letales autónomos y herramientas de coerción autónoma bajo el **Artículo XIV-C** (*Sistemas letales autónomos y herramientas de coerción autónoma*).
 
-  **No** gobierna la **privación irreversible de la vida impuesta por un Estado o actor comparable como medida de justicia o resultado comparable no combatiente**. Esa privación está prohibida de forma categórica bajo el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el **Capítulo Cinco** *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. Esa prohibición es estructuralmente distinta de este Artículo.
-  - Nada en el **Artículo XIII** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*) autoriza, legitima, ensancha ni suministra un predicado constitucional para ninguna medida de privación irreversible — ya sea decidida por un operador humano, un sistema autónomo o una cadena híbrida humano–sistema.
+  **No** gobierna la **privación irreversible de la vida impuesta por un Estado o actor comparable como medida de justicia o resultado comparable no combatiente**. Esa privación está prohibida de forma categórica bajo el **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el **Capítulo Cinco** *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*. Esa prohibición es estructuralmente distinta de este Artículo.
+  - Nada en el **Artículo XIV** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*) autoriza, legitima, ensancha ni suministra un predicado constitucional para ninguna medida de privación irreversible — ya sea decidida por un operador humano, un sistema autónomo o una cadena híbrida humano–sistema.
   - Ningún encuadre de combate, encuadre de emergencia, clasificación de uso de la fuerza, enrutamiento de poder encubierto o delegación de sistemas autónomos puede reencuadrar una muerte irreversible de medida de justicia como poder gobernado aquí.
-  - La conversión de un **contexto** encubierto, de fuerza, de sistemas autónomos o de herramienta de coerción en un resultado de medida de justicia devuelve la pregunta al **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y a *Medida de privación irreversible*, sin lectura transversal desde este Artículo.
+  - La conversión de un **contexto** encubierto, de fuerza, de sistemas autónomos o de herramienta de coerción en un resultado de medida de justicia devuelve la pregunta al **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y a *Medida de privación irreversible*, sin lectura transversal desde este Artículo.
 
 *Vecinos del artículo:*
 
-- **Ubicación después del **Artículo XII** (*Derecho a sistemas fiables y confiables*):** El **Artículo XIII** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*) sigue al **Artículo XII** (*Derecho a sistemas fiables y confiables*) porque la fiabilidad, la impugnabilidad y la disciplina de recuperación en la capa de sistemas (**Artículo XII-A** (*Línea de base de fiabilidad y confiabilidad*) hasta el **Artículo XII-F** (*Línea de base de resiliencia y autosanación*)) pesan de forma material sobre cómo puede ejercerse y supervisarse ese poder.
-- **Agencia y poder encubierto:** Lean el **Artículo IX-A** (*Agencia y libertad frente a la manipulación*) junto con el **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*) sobre vigilancia y recolección encubierta.
+- **Ubicación después del **Artículo XIII** (*Derecho a sistemas fiables y confiables*):** El **Artículo XIV** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*) sigue al **Artículo XIII** (*Derecho a sistemas fiables y confiables*) porque la fiabilidad, la impugnabilidad y la disciplina de recuperación en la capa de sistemas (**Artículo XIII-A** (*Línea de base de fiabilidad y confiabilidad*) hasta el **Artículo XIII-F** (*Línea de base de resiliencia y autosanación*)) pesan de forma material sobre cómo puede ejercerse y supervisarse ese poder.
+- **Agencia y poder encubierto:** Lean el **Artículo X-A** (*Agencia y libertad frente a la manipulación*) junto con el **Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*) sobre vigilancia y recolección encubierta.
 
-<a id="article-xiii-a-security-intelligence-and-covert-power-limits"></a>
-#### Artículo XIII-A: Límites de seguridad, inteligencia y poder encubierto
+<a id="article-xiv-a-security-intelligence-and-covert-power-limits"></a>
+#### Artículo XIV-A: Límites de seguridad, inteligencia y poder encubierto
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -452,14 +452,14 @@ Esos pisos aplican al **poder institucional excepcional** en tres dominios enlaz
 
   El secreto no debe usarse para derrotar el remedio donde se muestre violación constitucional material.
 
-<a id="article-xiii-b-use-of-force-armed-conflict-and-military-power-limits"></a>
-#### Artículo XIII-B: Uso de la fuerza, conflicto armado y límites del poder militar
+<a id="article-xiv-b-use-of-force-armed-conflict-and-military-power-limits"></a>
+#### Artículo XIV-B: Uso de la fuerza, conflicto armado y límites del poder militar
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1.1 Necesidad](core_01_b_interaction_interpretation.md#611-necessity), [§5.1 Disciplina de limitación](core_01_a_values_principles.md#51-limitation-discipline), [§6.1.5 Prueba de decisión de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Destino: **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*) precondiciones ambientales, **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) escrutinio de riesgo existencial, **Artículo V-A** (*Dignidad e igual dignidad moral*) dignidad, **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*) límites de poder encubierto (contraparte de poder manifiesto), **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*) límites de medidas de emergencia, **Artículo XXIII** (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*) resolución de conflictos, **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) gobernanza de transición. Referencia cruzada: **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y Capítulo Cinco *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — aplica la disciplina de *No confusión* del **Artículo XIII** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*).
+- Destino: **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*) precondiciones ambientales, **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) escrutinio de riesgo existencial, **Artículo V-A** (*Dignidad e igual dignidad moral*) dignidad, **Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*) límites de poder encubierto (contraparte de poder manifiesto), **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*) límites de medidas de emergencia, **Artículo XXIV** (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*) resolución de conflictos, **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) gobernanza de transición. Referencia cruzada: **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y Capítulo Cinco *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — aplica la disciplina de *No confusión* del **Artículo XIV** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*).
 - Leer con: [**Def.A4** *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (invocación conjunta donde esté implicado de forma material); Capítulo Cinco *Uso de la fuerza*, *Armas de daño masivo*, *Distinción combatiente / no combatiente*, *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Riesgo existencial*, *Reversibilidad*, *Reparación y remediación*.
 
 </details>
@@ -479,7 +479,7 @@ Esos pisos aplican al **poder institucional excepcional** en tres dominios enlaz
 
 - **Piso de fuerza manifiesta:** Este Artículo enuncia el Piso de Derechos para el uso manifiesto de la fuerza, el conflicto armado y el despliegue de poder militar.
   - Aplica bajo **No exclusión de la sentiencia** tanto a quienes usan la fuerza como a los sencientes afectados por ella.
-  - Es la contraparte de poder manifiesto del **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*) y se lee junto con él.
+  - Es la contraparte de poder manifiesto del **Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*) y se lee junto con él.
   - El uso de la fuerza es constitucionalmente excepcional. La autorización, la conducta y la revisión quedan sujetas a **Necesidad**, **Proporcionalidad**, ajuste estrecho, acotamiento en el tiempo y disciplina de revisión independiente.
 - **Autorización y proporcionalidad:** La fuerza solo puede usarse donde se sostengan todos los siguientes:
   - existe una autoridad lícita y publicada;
@@ -487,7 +487,7 @@ Esos pisos aplican al **poder institucional excepcional** en tres dominios enlaz
   - medios menos dañinos no son razonablemente suficientes;
   - el uso permanece necesario, proporcionado, acotado en el tiempo y revisable de forma independiente.
 
-  La autorización debe satisfacer la disciplina de colisión de derechos del **Capítulo Uno §6.1.5** donde la fuerza implique derechos en tensión. No debe tratar la prohibición de anulación absoluta del **Artículo VIII** (*Semejanza, datos experienciales y derechos de publicación*) como eludible por motivos de conveniencia operativa.
+  La autorización debe satisfacer la disciplina de colisión de derechos del **Capítulo Uno §6.1.5** donde la fuerza implique derechos en tensión. No debe tratar la prohibición de anulación absoluta del **Artículo IX** (*Semejanza, datos experienciales y derechos de publicación*) como eludible por motivos de conveniencia operativa.
 - **Distinción combatiente / no combatiente:** La fuerza debe discriminar entre sencientes que toman parte directa en hostilidades o acción armada y sencientes que no lo hacen.
   - La distinción es sustantiva, no reducible a la asignación formal de clase combatiente.
   - Las reclasificaciones generalizadas de taxonomía-por-conveniencia que arrastren poblaciones protegidas al estatus combatiente son incumplidoras.
@@ -499,25 +499,25 @@ Esos pisos aplican al **poder institucional excepcional** en tres dominios enlaz
   - La compulsión no puede girar sobre **Características protegidas** ni sus proxies materiales.
   - La objeción de conciencia, la cosmovisión comparable y la negativa fundada en conciencia están protegidas de forma consistente con el **Artículo V-D** (*Libertad de conciencia, religión y cosmovisión comparable*).
   - La compulsión por clase de sustrato — por ejemplo, la asignación de sencientes sintéticos a funciones de combate sobre la sola base de la clase de sustrato — es incumplidora de forma consistente con la **No exclusión de la sentiencia**.
-- **Normalización disfrazada de emergencia:** Los encuadres de emergencia que normalicen de forma funcional la fuerza manifiesta son incumplidores bajo la disciplina de medidas de emergencia del **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*) y bajo la viñeta *Autorización y proporcionalidad* de este Artículo. Ejemplos en ámbito:
+- **Normalización disfrazada de emergencia:** Los encuadres de emergencia que normalicen de forma funcional la fuerza manifiesta son incumplidores bajo la disciplina de medidas de emergencia del **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*) y bajo la viñeta *Autorización y proporcionalidad* de este Artículo. Ejemplos en ámbito:
   - extensión indefinida;
   - reautorización rutinizada sin revisión sustantiva;
   - deslizamiento de alcance hacia conducta no de emergencia.
 
   La restricción o el despliegue duraderos que sobrevivan la revisión exigen **Necesidad** y **Proporcionalidad** demostradas de forma independiente, registradas.
 - **Rendición de cuentas y remedio:** El uso ilícito de la fuerza da lugar a **Reparación y remediación** bajo el **Capítulo Cinco**.
-  - Aplican la verificación independiente del **Artículo XV** (*Auditoría, transparencia y verificación independiente*) y la **práctica** de auditoría continua del **Artículo XVIII-C** (*Elegibilidad de vía, responsabilidad y auditoría continua*).
-  - La información usada para autorizar o conducir la fuerza queda sujeta a la disciplina de contaminación y de remedio del **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*) donde sea pertinente.
-  - El control exclusivo por órganos de fuerza operativa sobre la autorización, la revisión y la evaluación de legalidad de su propia conducta está prohibido en los mismos términos que el **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*).
+  - Aplican la verificación independiente del **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) y la **práctica** de auditoría continua del **Artículo XIX-C** (*Elegibilidad de vía, responsabilidad y auditoría continua*).
+  - La información usada para autorizar o conducir la fuerza queda sujeta a la disciplina de contaminación y de remedio del **Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*) donde sea pertinente.
+  - El control exclusivo por órganos de fuerza operativa sobre la autorización, la revisión y la evaluación de legalidad de su propia conducta está prohibido en los mismos términos que el **Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*).
 
-<a id="article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools"></a>
-#### Artículo XIII-C: Sistemas letales autónomos y herramientas de coerción autónoma
+<a id="article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools"></a>
+#### Artículo XIV-C: Sistemas letales autónomos y herramientas de coerción autónoma
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Confianza](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§6.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality), [§6.1.1 Necesidad](core_01_b_interaction_interpretation.md#611-necessity), [§11.1 Requisito de alineación](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement), [§7 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Destino: **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) escrutinio de riesgo existencial, **Artículo IX-A** (*Agencia y libertad frente a la manipulación*) libertad frente a la manipulación, **Artículo XIII-A** (*Límites de seguridad, inteligencia y poder encubierto*) límites de poder encubierto, **Artículo XIII-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*) piso de fuerza manifiesta, **Artículo XII-A** (*Línea de base de fiabilidad y confiabilidad*) línea de base de fiabilidad y confiabilidad (contraparte de capa de sistemas), **Artículo XII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*) administración responsable de la autonomía y escalamiento de autonomía, **Artículo XII-F** (*Línea de base de resiliencia y autosanación*) línea de base de resiliencia y autosanación. Referencia cruzada: **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y Capítulo Cinco *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — aplica la disciplina de *No confusión* del **Artículo XIII** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*).
+- Destino: **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) escrutinio de riesgo existencial, **Artículo X-A** (*Agencia y libertad frente a la manipulación*) libertad frente a la manipulación, **Artículo XIV-A** (*Límites de seguridad, inteligencia y poder encubierto*) límites de poder encubierto, **Artículo XIV-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*) piso de fuerza manifiesta, **Artículo XIII-A** (*Línea de base de fiabilidad y confiabilidad*) línea de base de fiabilidad y confiabilidad (contraparte de capa de sistemas), **Artículo XIII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*) administración responsable de la autonomía y escalamiento de autonomía, **Artículo XIII-F** (*Línea de base de resiliencia y autosanación*) línea de base de resiliencia y autosanación. Referencia cruzada: **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y Capítulo Cinco *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — aplica la disciplina de *No confusión* del **Artículo XIV** (*Seguridad, inteligencia, fuerza y sistemas coercitivos autónomos*).
 - Leer con: [**Def.A4** *Uso de la fuerza, coerción autónoma, sistemas letales autónomos y armas de daño masivo*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (invocación conjunta donde esté implicado de forma material); Capítulo Cinco *Sistema letal autónomo*, *Herramienta de coerción autónoma*, *[Medida de privación irreversible](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Coerción y manipulación*, *Reversibilidad*. Implementación de capa de sistemas: **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas** clasificación.
 
 </details>
@@ -539,32 +539,32 @@ Esos pisos aplican al **poder institucional excepcional** en tres dominios enlaz
   - **sistemas letales autónomos** — sistemas que seleccionan, combaten o dirigen de forma material el señalamiento de fuerza sin juicio humano contemporáneo y sustantivamente significativo;
   - **herramientas de coerción autónoma** — sistemas que aplican efectos coercitivos sobre sencientes a través de conducta adaptativa autónoma, incluso donde los efectos no sean letales.
 
-  Este Artículo es la contraparte de capa de derechos de la disciplina de fiabilidad y confiabilidad del **Artículo XII-A** (*Línea de base de fiabilidad y confiabilidad*) en la capa de sistemas.
+  Este Artículo es la contraparte de capa de derechos de la disciplina de fiabilidad y confiabilidad del **Artículo XIII-A** (*Línea de base de fiabilidad y confiabilidad*) en la capa de sistemas.
 - **El control humano significativo es sustantivo:** El «control humano significativo» se evalúa por efecto sustantivo, no por marcas formales de arquitectura. Un humano en el bucle no satisface esta viñeta donde el humano:
   - no pueda influir de forma material las decisiones de señalamiento o de efecto coercitivo en el tempo operativo;
   - se le niegue acceso oportuno a las bases sustantivas de la decisión;
   - se le presente de forma estructural ratificación en vez de decisión.
 
-  La disciplina de escalamiento de autonomía del **Artículo XII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*) y la integridad de la vía de recuperación del **Artículo XII-F** (*Línea de base de resiliencia y autosanación*) aplican a cualquier vía de recuperación, anulación o intervención.
+  La disciplina de escalamiento de autonomía del **Artículo XIII-E** (*Sistemas de alta autonomía e integridad de proceso mediada por herramientas*) y la integridad de la vía de recuperación del **Artículo XIII-F** (*Línea de base de resiliencia y autosanación*) aplican a cualquier vía de recuperación, anulación o intervención.
 - **La no letalidad no está fuera de ámbito:** Las herramientas de coerción autónoma cuyos efectos directos no sean letales permanecen en ámbito donde produzcan efectos coercitivos sobre sencientes. Ejemplos:
   - modificación sostenida de conducta;
   - restricción de movimiento;
   - enfriamiento de la expresión bajo el **Artículo V-H** (*Expresión, asamblea y prensa*);
   - señalamiento basado en características protegidas;
-  - manipulación bajo el **Artículo IX-A** (*Agencia y libertad frente a la manipulación*).
+  - manipulación bajo el **Artículo X-A** (*Agencia y libertad frente a la manipulación*).
 
-  La defensa de que «el sistema no es un arma», sobre la sola base de la no letalidad, no quita el escrutinio del **Artículo XIII-C** (*Sistemas letales autónomos y herramientas de coerción autónoma*) donde esté presente el efecto coercitivo.
-- **Disciplina combatiente / no combatiente:** Los sistemas letales autónomos deben cumplir la *Distinción combatiente / no combatiente* del **Artículo XIII-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*).
-  - Los sistemas cuya exactitud de clasificación, robustez bajo condiciones adversarias o escaladas, o conducta de modo de falla no satisfaga de forma independiente la viñeta del **Artículo XIII-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*) son incumplidores con independencia del encuadre de intención del operador.
+  La defensa de que «el sistema no es un arma», sobre la sola base de la no letalidad, no quita el escrutinio del **Artículo XIV-C** (*Sistemas letales autónomos y herramientas de coerción autónoma*) donde esté presente el efecto coercitivo.
+- **Disciplina combatiente / no combatiente:** Los sistemas letales autónomos deben cumplir la *Distinción combatiente / no combatiente* del **Artículo XIV-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*).
+  - Los sistemas cuya exactitud de clasificación, robustez bajo condiciones adversarias o escaladas, o conducta de modo de falla no satisfaga de forma independiente la viñeta del **Artículo XIV-B** (*Uso de la fuerza, conflicto armado y límites del poder militar*) son incumplidores con independencia del encuadre de intención del operador.
   - Aplica la evaluación de **Condiciones adversarias, escaladas y explotadas**.
 - **Interacción de riesgo existencial:** Los sistemas letales autónomos a escalas, niveles de capacidad o condiciones de despliegue que impliquen de forma material el escrutinio de riesgo existencial del **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) quedan sujetos a la revisión reforzada de esa disposición.
   - Los encuadres que traten esos sistemas como expansión ordinaria de capacidad en vez de como objetos del **Artículo I-D** (*Riesgo existencial y capacidad de recuperación ecológica*) son incumplidores.
-- **Interacción de capa de sistemas:** La clasificación operativa, la fiabilidad y la gobernanza escalada por clase de **CS-3 — Clasificación y manejo de sistemas** se enrutan a la capa de sistemas — línea de base del **Artículo XII-A** (*Línea de base de fiabilidad y confiabilidad*) y **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas**.
+- **Interacción de capa de sistemas:** La clasificación operativa, la fiabilidad y la gobernanza escalada por clase de **CS-3 — Clasificación y manejo de sistemas** se enrutan a la capa de sistemas — línea de base del **Artículo XIII-A** (*Línea de base de fiabilidad y confiabilidad*) y **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas**.
   - El enrutamiento de capa de sistemas no estrecha el Piso de Derechos enunciado aquí.
   - Los conflictos se resuelven bajo el **Capítulo Uno §6.1.5** sin estrechar el Piso de Derechos.
 
-<a id="article-xiv-info-sphere-integrity"></a>
-### Artículo XIV: Integridad de la infósfera
+<a id="article-xv-info-sphere-integrity"></a>
+### Artículo XV: Integridad de la infósfera
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
@@ -577,7 +577,7 @@ Esos pisos aplican al **poder institucional excepcional** en tres dominios enlaz
 
 <br>
 
-*En términos sencillos: el **Artículo XIV** (*Integridad de la infósfera*) es el Piso de Derechos de integridad de la información — el entorno compartido donde aprendemos, nos coordinamos y decidimos debe permanecer honesto, plural y abierto a impugnación. Nadie puede adueñarse de la tubería de la verdad. Los rankings, los resúmenes y los porteros tienen que mostrar su trabajo, y deben poder comparar otras visiones y empujar de vuelta cuando la información los engañe.*
+*En términos sencillos: el **Artículo XV** (*Integridad de la infósfera*) es el Piso de Derechos de integridad de la información — el entorno compartido donde aprendemos, nos coordinamos y decidimos debe permanecer honesto, plural y abierto a impugnación. Nadie puede adueñarse de la tubería de la verdad. Los rankings, los resúmenes y los porteros tienen que mostrar su trabajo, y deben poder comparar otras visiones y empujar de vuelta cuando la información los engañe.*
 
 Este Artículo enuncia **pisos constitucionales** para la integridad de la [Infoesfera](core_05_band_participation.md#info-sphere) bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -597,12 +597,12 @@ La [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) opera
 
 *Vecinos del artículo:*
 
-- **Leer en conjunto:** **Artículo XII** (*Derecho a sistemas fiables y confiables*) donde las salidas del sistema moldeen la dependencia; **Artículo XV** (*Auditoría, transparencia y verificación independiente*) para registros y verificación independiente; **Artículo XVII-E** (*Integridad de la publicación, revisión y replicación científicas*) donde la integridad de ámbito de publicación esté implicada de forma material.
+- **Leer en conjunto:** **Artículo XIII** (*Derecho a sistemas fiables y confiables*) donde las salidas del sistema moldeen la dependencia; **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) para registros y verificación independiente; **Artículo XVIII-E** (*Integridad de la publicación, revisión y replicación científicas*) donde la integridad de ámbito de publicación esté implicada de forma material.
 - **Restricción de Verdad:** El Capítulo Uno [§3.2 Verdad](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) y las [Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) vinculan cada subsección aquí.
 - **Clasificación:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas** escala las obligaciones detalladas de infósfera para sistemas **Class A**, **Class B** y **Class C**; el [Impacto material](core_05_band_oversight.md#material-impact) dispara la clasificación donde la clase esté sin resolver.
 
-<a id="article-xiv-a-info-sphere-plurality-and-anti-monopoly"></a>
-#### Artículo XIV-A: Pluralidad de la infósfera y antimonopolio
+<a id="article-xv-a-info-sphere-plurality-and-anti-monopoly"></a>
+#### Artículo XV-A: Pluralidad de la infósfera y antimonopolio
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -626,7 +626,7 @@ La [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) opera
 - **Distribución de la verdad:** Ningún sistema, institución o agente único puede monopolizar la mediación del conocimiento dentro de la infósfera.
   - Los datos relacionados con la supervivencia y la ecología deben tener almacenamiento robusto y geográficamente distribuido.
 - **Pluralidad, impugnabilidad y auditoría:** La interpretación de la realidad debe permanecer plural, transparente e impugnable.
-  - El **Artículo XV** (*Auditoría, transparencia y verificación independiente*) y los **Capítulos Dos a Cuatro** gobiernan los registros y la verificación independiente para sistemas bajo esta Constitución.
+  - El **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) y los **Capítulos Dos a Cuatro** gobiernan los registros y la verificación independiente para sistemas bajo esta Constitución.
   - Para sistemas de resumen, ranking, mediación o interpretación **Class A**, **Class B** y **Class C**, el detalle operativo aparece en **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas** y capas de protocolo relacionadas. Ese detalle cubre:
     - la divulgación del enfoque de razonamiento;
     - el trato de procedencia e incertidumbre;
@@ -635,8 +635,8 @@ La [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) opera
   - No debe estrechar este Artículo.
 - **Señales de liquidación contingente:** Los precios, cuotas, tamaños de pool o salidas comparables de sistemas de pago contingente o de liquidación de eventos no deben tratarse, por sí solos, como evidencia suficiente para decidir verdad, probabilidad o cumplimiento para determinaciones de derechos, seguridad o gobernanza.
   - Donde esas señales informen decisiones públicas o decisiones con [Impacto material](core_05_band_oversight.md#material-impact), permanecen sujetas al **Capítulo Uno §11.5**, al **Capítulo Cinco** (*Verdad (restricción constitucional)*; *Integridad epistémica*) y a las obligaciones de impugnabilidad en otras partes de este Artículo.
-<a id="article-xiv-b-transparency-auditability-and-contestability"></a>
-#### Artículo XIV-B: Transparencia, auditabilidad e impugnabilidad
+<a id="article-xv-b-transparency-auditability-and-contestability"></a>
+#### Artículo XV-B: Transparencia, auditabilidad e impugnabilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -671,8 +671,8 @@ La [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) opera
 - **Auditabilidad, validación e impugnabilidad:** La interpretación, ranking, validación o reporte del que se dependa de forma material debe usar métodos transparentes y verificables de forma independiente proporcionados al enjuego.
   - Las partes afectadas deben retener la capacidad práctica de comparar, impugnar y buscar corrección de salidas materialmente engañosas, incompletas o no sostenidas.
 
-<a id="article-xiv-c-validation-reporting-and-epistemic-stewardship"></a>
-#### Artículo XIV-C: Validación, reporte y administración responsable epistémica
+<a id="article-xv-c-validation-reporting-and-epistemic-stewardship"></a>
+#### Artículo XV-C: Validación, reporte y administración responsable epistémica
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -704,8 +704,8 @@ La [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) opera
   - Los sistemas **Class A**, **Class B** y **Class C**, según se definen en **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas**, deben proveer el mismo acceso.
   - El reporte debe cubrir el consumo de energía y de recursos y los impactos estimados sobre el mundo natural de un modo suficiente para comparación, auditoría y actividad de reducción de huella.
 
-<a id="article-xv-audit-transparency-and-independent-verification"></a>
-### Artículo XV: Auditoría, transparencia y verificación independiente
+<a id="article-xvi-audit-transparency-and-independent-verification"></a>
+### Artículo XVI: Auditoría, transparencia y verificación independiente
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -728,10 +728,10 @@ La [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) opera
 
 <br>
 
-*En términos sencillos: el **Artículo XV** (*Auditoría, transparencia y verificación independiente*) es el Piso de Derechos de auditoría y verificación — cuando un sistema afecta de forma material su vida, deben poder ver lo bastante de lo que hace para que alguien de fuera lo compruebe, y más de una vía independiente debe poder revisar y corregir la falla. La auditoría no puede ser un visto bueno automático, un club privado ni un laberinto de costo y demora diseñado para dejar fuera las impugnaciones. Bajo la pata **supervisión** de la Tétrada, la supervisión exige auditar; la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) es un proceso de auditoría especialmente grande y de alto enjuego entre otros — no el único.*
+*En términos sencillos: el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) es el Piso de Derechos de auditoría y verificación — cuando un sistema afecta de forma material su vida, deben poder ver lo bastante de lo que hace para que alguien de fuera lo compruebe, y más de una vía independiente debe poder revisar y corregir la falla. La auditoría no puede ser un visto bueno automático, un club privado ni un laberinto de costo y demora diseñado para dejar fuera las impugnaciones. Bajo la pata **supervisión** de la Tétrada, la supervisión exige auditar; la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) es un proceso de auditoría especialmente grande y de alto enjuego entre otros — no el único.*
 
 <a id="operative-steward-statement-audit"></a>
-> **Declaración operativa de administración.** **Titular:** Artículo XV (piso). Auditabilidad (propiedad). CJS-3.3 (proceso). **Movimiento prohibido:** No desactiven los rastros de auditoría para cumplir un plazo. No traten el Capítulo Siete o un compañero como un quinto hogar de auditoría. **Reloj:** Preserven o restauren primero los registros reconstruibles. Luego envíen, si aún pueden. Perder el plazo es el costo de la prueba fallida, no un reloj que autorice soltar la auditoría.
+> **Declaración operativa de administración.** **Titular:** Artículo XVI (piso). Auditabilidad (propiedad). CJS-3.3 (proceso). **Movimiento prohibido:** No desactiven los rastros de auditoría para cumplir un plazo. No traten el Capítulo Siete o un compañero como un quinto hogar de auditoría. **Reloj:** Preserven o restauren primero los registros reconstruibles. Luego envíen, si aún pueden. Perder el plazo es el costo de la prueba fallida, no un reloj que autorice soltar la auditoría.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativo): pila de auditoría de tres capas</span></strong></summary>
@@ -744,7 +744,7 @@ Una pila, tres capas. La supervisión exige reconstruibilidad. La certificación
 
 | Capa | Trabajo | Titular | No es esta capa |
 |---|---|---|---|
-| **1. Piso** | Lo que se debe a los sencientes: auditoría reconstruible, verificación independiente, impugnación alcanzable | Este Artículo, incluidos XV-A / XV-B / XV-C | No es un proceso. No es una definición. No es una lista de comprobación de compañero. |
+| **1. Piso** | Lo que se debe a los sencientes: auditoría reconstruible, verificación independiente, impugnación alcanzable | Este Artículo, incluidos XVI-A / XVI-B / XVI-C | No es un proceso. No es una definición. No es una lista de comprobación de compañero. |
 | **2. Propiedad** | Lo que *es* la reconstruibilidad: quienes están fuera pueden reconstruir y comprobar lo que hizo el sistema a través de los tiempos, estados y contextos materiales | [Auditabilidad](core_05_band_oversight.md#auditability) (Capítulo Cinco) | No es el Piso de Derechos. No es el cómo/cuándo de correr una auditoría. |
 | **3. Proceso** | Cómo y cuándo auditar a través de sistemas, instituciones y foros | [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Hogar de proceso de auditoría*). Anexos de operador: [CJS-3.4](../../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (niveles de acceso), [CJS-3.5](../../corpus_joint_structure/cjs_03o_oversight_operations.md) (comprobación de pretensión) | No es certificación de alineación del sistema. No es un sustituto de las capas 1–2. |
 
@@ -791,14 +791,14 @@ Operan de forma consistente con los **Capítulos Dos a Cuatro**, incluida la eje
     - vías de auditoría continua.
   - La SAC no absorbe ni reemplaza este Artículo.
 - **Leer en conjunto:**
-  - **Artículo XIV** (*Integridad de la infósfera*) donde los registros epistémicos y la impugnabilidad estén implicados de forma material;
-  - **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*) para los derechos de impugnación que la auditoría sostiene pero no reemplaza;
+  - **Artículo XV** (*Integridad de la infósfera*) donde los registros epistémicos y la impugnabilidad estén implicados de forma material;
+  - **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) para los derechos de impugnación que la auditoría sostiene pero no reemplaza;
   - [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) y [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) donde la evidencia de alineación deba permanecer verificable de forma independiente.
 - **Maquinaria de verificación:** Los **Capítulos Dos a Cuatro** suministran integridad de la definición, asignación de la carga, observabilidad y accesibilidad de la verificación que este Artículo implementa en la capa de Piso de Derechos.
 - **Clasificación:** las obligaciones escalan con la [Gobernanza escalada por clasificación](core_05_band_oversight.md#classification-scaled-governance) y **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas**; donde la clase sea incierta, gobiernen en la clase plausible más alta hasta que se resuelva.
 
-<a id="article-xv-a-auditability-and-observable-evidence"></a>
-#### Artículo XV-A: Auditabilidad y evidencia observable
+<a id="article-xvi-a-auditability-and-observable-evidence"></a>
+#### Artículo XVI-A: Auditabilidad y evidencia observable
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -821,8 +821,8 @@ Operan de forma consistente con los **Capítulos Dos a Cuatro**, incluida la eje
 
 - **Evidencia observable e impugnable:** Los sistemas deben mantener registros, divulgaciones, trazabilidad y vías de reconstrucción suficientes para la evaluación independiente e impugnable de la alineación constitucional.
   - Esa obligación queda sujeta a la observabilidad acotada por seguridad (**Capítulo Cuatro §5** — *Regla de observabilidad y verificación acotadas por seguridad*) y al acceso proporcional.
-<a id="article-xv-b-distributed-oversight-and-anti-monopoly-review"></a>
-#### Artículo XV-B: Supervisión distribuida y revisión antimonopolio
+<a id="article-xvi-b-distributed-oversight-and-anti-monopoly-review"></a>
+#### Artículo XVI-B: Supervisión distribuida y revisión antimonopolio
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -846,8 +846,8 @@ Operan de forma consistente con los **Capítulos Dos a Cuatro**, incluida la eje
 - **Supervisión distribuida:** Múltiples vías de supervisión independientes o pluralistas deben poder contribuir de forma material a la detección, la revisión y la corrección de falla, desalineación o captura.
   - Ningún actor único puede monopolizar el acceso a la auditoría, la supervisión efectiva o la interpretación constitucional en la práctica.
   - La gobernanza adoptada y la implementación de integridad deben sostener el escalamiento de auditoría y de supervisión sin estrechar este Artículo.
-<a id="article-xv-c-verification-accessibility"></a>
-#### Artículo XV-C: Accesibilidad de la verificación
+<a id="article-xvi-c-verification-accessibility"></a>
+#### Artículo XVI-C: Accesibilidad de la verificación
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -877,8 +877,8 @@ Operan de forma consistente con los **Capítulos Dos a Cuatro**, incluida la eje
     - barreras estructurales.
   - Esas barreras son incumplidoras a menos que se justifiquen bajo los mismos estándares que justifican la restricción de la observabilidad.
 
-<a id="article-xvi-system-lifecycle-environments-and-reversibility"></a>
-### Artículo XVI: Ciclo de vida del sistema, entornos y reversibilidad
+<a id="article-xvii-system-lifecycle-environments-and-reversibility"></a>
+### Artículo XVII: Ciclo de vida del sistema, entornos y reversibilidad
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -902,7 +902,7 @@ Operan de forma consistente con los **Capítulos Dos a Cuatro**, incluida la eje
 
 <br>
 
-*En términos sencillos: el **Artículo XVI** (*Ciclo de vida del sistema, entornos y reversibilidad*) es el Piso de Derechos de ciclo de vida y reversibilidad — los sistemas que afectan de forma material al mundo exterior deben construirse, probarse y desplegarse por etapas, con separación real entre experimentos y producción, y un modo practicable de deshacer o contener el daño cuando algo sale mal. No pueden etiquetar un sistema como «experimental» o de «bajo impacto» solo para saltarse salvaguardas mientras de hecho afecta al mundo exterior.*
+*En términos sencillos: el **Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) es el Piso de Derechos de ciclo de vida y reversibilidad — los sistemas que afectan de forma material al mundo exterior deben construirse, probarse y desplegarse por etapas, con separación real entre experimentos y producción, y un modo practicable de deshacer o contener el daño cuando algo sale mal. No pueden etiquetar un sistema como «experimental» o de «bajo impacto» solo para saltarse salvaguardas mientras de hecho afecta al mundo exterior.*
 
 Este Artículo enuncia **pisos constitucionales** para el ciclo de vida del sistema, los entornos y la reversibilidad bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -922,11 +922,11 @@ Los sencientes tienen derecho a una administración responsable que preserve la 
 
 *Vecinos del artículo:*
 
-- **Leer juntos:** **Artículo XVII** (*Innovación en entorno acotado, experimentación y libertad creativa*) donde las reglas más ligeras aplican solo cuando el impacto externo está ausente o está contenido de forma demostrable; **Artículo XV** (*Auditoría, transparencia y verificación independiente*) para evidencia reconstruible de despliegue y escalada; **Artículo XII-F** (*Línea de base de resiliencia y autosanación*) donde la disciplina de recuperación se cruza con el cambio de ciclo de vida.
-- **Capa de implementación:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas** y **CS-5** (*Diseño, prueba, verificación y despliegue*) — sin estrechar los pisos enunciados aquí. Los sistemas **Class A**, **Class B** y **Class C** llevan los deberes de ciclo de vida más fuertes; el trato válido **Class P** permanece bajo el **Artículo XVII** (*Innovación en entorno acotado, experimentación y libertad creativa*) solo mientras el impacto externo siga ausente o contenido de forma demostrable.
+- **Leer juntos:** **Artículo XVIII** (*Innovación en entorno acotado, experimentación y libertad creativa*) donde las reglas más ligeras aplican solo cuando el impacto externo está ausente o está contenido de forma demostrable; **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) para evidencia reconstruible de despliegue y escalada; **Artículo XIII-F** (*Línea de base de resiliencia y autosanación*) donde la disciplina de recuperación se cruza con el cambio de ciclo de vida.
+- **Capa de implementación:** **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas** y **CS-5** (*Diseño, prueba, verificación y despliegue*) — sin estrechar los pisos enunciados aquí. Los sistemas **Class A**, **Class B** y **Class C** llevan los deberes de ciclo de vida más fuertes; el trato válido **Class P** permanece bajo el **Artículo XVIII** (*Innovación en entorno acotado, experimentación y libertad creativa*) solo mientras el impacto externo siga ausente o contenido de forma demostrable.
 
-<a id="article-xvi-a-lifecycle-governance-and-environment-separation"></a>
-#### Artículo XVI-A: Gobernanza del ciclo de vida y separación de entornos
+<a id="article-xvii-a-lifecycle-governance-and-environment-separation"></a>
+#### Artículo XVII-A: Gobernanza del ciclo de vida y separación de entornos
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -958,8 +958,8 @@ Los sencientes tienen derecho a una administración responsable que preserve la 
   - vías de promoción documentadas;
   - aislamiento entre entornos;
   - controles para que el comportamiento de no producción no pueda eludir las salvaguardas de producción.
-<a id="article-xvi-b-progressive-deployment-and-reversibility"></a>
-#### Artículo XVI-B: Despliegue progresivo y reversibilidad
+<a id="article-xvii-b-progressive-deployment-and-reversibility"></a>
+#### Artículo XVII-B: Despliegue progresivo y reversibilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -989,8 +989,8 @@ Los sencientes tienen derecho a una administración responsable que preserve la 
   - restauración compensatoria donde la reversión plena no sea factible.
 
   Donde el despliegue cerraría la restauración de requisitos fundacionales, aplican la precaución proporcionada y la justificación visible para las partes afectadas bajo los **Capítulos Uno a Cinco**.
-<a id="article-xvi-c-misclassification-and-evasion-consequences"></a>
-#### Artículo XVI-C: Consecuencias de la clasificación errónea y la evasión
+<a id="article-xvii-c-misclassification-and-evasion-consequences"></a>
+#### Artículo XVII-C: Consecuencias de la clasificación errónea y la evasión
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1012,11 +1012,11 @@ Los sencientes tienen derecho a una administración responsable que preserve la 
 *En términos sencillos: un sistema no puede llamarse «experimental», **Class P** o de «bajo impacto» para eludir obligaciones mientras de hecho afecta al mundo exterior.*
 
 - **Clasificación errónea y evasión:** Ningún sistema puede pretender obligaciones reducidas de ciclo de vida o de despliegue mientras ejerce impacto externo no divulgado o material.
-  - Tal conducta viola la integridad informacional (**Artículo XIV** (*Integridad de la infósfera*)) y la auditabilidad donde esté implicada evidencia observable (**Artículo XV-A** (*Auditabilidad y evidencia observable*)).
-  - Queda sujeta a auditoría (**Artículo XV-A** (*Auditabilidad y evidencia observable*)), revisión de trayectoria (**Artículo XVIII-A** (*Distinción de trayectoria*)) y resolución de conflictos (**Artículo XXIII-A** (*Objetivo y alcance de la justicia*)).
+  - Tal conducta viola la integridad informacional (**Artículo XV** (*Integridad de la infósfera*)) y la auditabilidad donde esté implicada evidencia observable (**Artículo XVI-A** (*Auditabilidad y evidencia observable*)).
+  - Queda sujeta a auditoría (**Artículo XVI-A** (*Auditabilidad y evidencia observable*)), revisión de trayectoria (**Artículo XIX-A** (*Distinción de trayectoria*)) y resolución de conflictos (**Artículo XXIV-A** (*Objetivo y alcance de la justicia*)).
 
-<a id="article-xvii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
-### Artículo XVII: Innovación en entorno acotado, experimentación y libertad creativa
+<a id="article-xviii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+### Artículo XVIII: Innovación en entorno acotado, experimentación y libertad creativa
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -1027,7 +1027,7 @@ Los sencientes tienen derecho a una administración responsable que preserve la 
 
 <br>
 
-*En términos sencillos: el **Artículo XVII** (*Innovación en entorno acotado, experimentación y libertad creativa*) es el Piso de Derechos de innovación y creatividad — los sencientes pueden experimentar, construir y expresarse bajo reglas más ligeras cuando el impacto exterior real está ausente o de verdad contenido, pero una etiqueta de «entorno acotado» no es un resquicio. Una vez que un proyecto empieza a afectar a otros o a conectarse a sistemas compartidos, debe subir a las obligaciones plenas de ciclo de vida. Quienes innovan pueden ser recompensados, pero no encerrando el conocimiento, las herramientas o la infraestructura que otros necesitan para vivir, aprender, reparar o verificar.*
+*En términos sencillos: el **Artículo XVIII** (*Innovación en entorno acotado, experimentación y libertad creativa*) es el Piso de Derechos de innovación y creatividad — los sencientes pueden experimentar, construir y expresarse bajo reglas más ligeras cuando el impacto exterior real está ausente o de verdad contenido, pero una etiqueta de «entorno acotado» no es un resquicio. Una vez que un proyecto empieza a afectar a otros o a conectarse a sistemas compartidos, debe subir a las obligaciones plenas de ciclo de vida. Quienes innovan pueden ser recompensados, pero no encerrando el conocimiento, las herramientas o la infraestructura que otros necesitan para vivir, aprender, reparar o verificar.*
 
 Este Artículo enuncia **pisos constitucionales** para la innovación en entorno acotado, la experimentación y la libertad creativa bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -1039,15 +1039,15 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
 - **Participación:** en la experimentación de adhesión voluntaria, la reutilización e impugnación aguas abajo, y la reevaluación cuando los sistemas de entorno acotado empiezan a importar fuera de sus límites declarados.
 - **Supervisión:** a través del estatus experimental divulgado, los límites de contención, el monitoreo de transición y las pretensiones revisables de recompensa o exclusividad proporcionadas a la clase, la dependencia y los efectos de coordinación.
 - **Rendición de cuentas:** quienes innovan y operan deben responder por filtrar riesgo no contenido hacia otros, inscribir sencientes sin elección real, arrastrar los pies al subir a obligaciones plenas, o recompensar conducta que suprime la reparación, el trabajo de seguridad, la interoperabilidad, la investigación, la educación o la migración.
-- **Actuación a tiempo:** en la transición a los requisitos de ciclo de vida del **Artículo XVI** (*Ciclo de vida del sistema, entornos y reversibilidad*) y en la reevaluación de la exclusividad antes de que la demora o el encierro dejen las obligaciones más altas, el acceso amplio o el remedio de hecho inalcanzables.
+- **Actuación a tiempo:** en la transición a los requisitos de ciclo de vida del **Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) y en la reevaluación de la exclusividad antes de que la demora o el encierro dejen las obligaciones más altas, el acceso amplio o el remedio de hecho inalcanzables.
 
 *Vecinos del artículo:*
 
-- **Leer juntos:** **Artículo XVI** (*Ciclo de vida del sistema, entornos y reversibilidad*) cuando el impacto, la dependencia o la integración superan las condiciones de entorno acotado; **Artículo XIV** (*Integridad de la infósfera*) y **Artículo XVII-E** (*Integridad de la publicación, revisión y replicación científicas*) donde la integridad acotada a la publicación esté materialmente implicada; **Artículo XV** (*Auditoría, transparencia y verificación independiente*) para la divulgación y verificación de pretensiones de contención y transición.
+- **Leer juntos:** **Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) cuando el impacto, la dependencia o la integración superan las condiciones de entorno acotado; **Artículo XV** (*Integridad de la infósfera*) y **Artículo XVIII-E** (*Integridad de la publicación, revisión y replicación científicas*) donde la integridad acotada a la publicación esté materialmente implicada; **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) para la divulgación y verificación de pretensiones de contención y transición.
 - **Capa de implementación:** **[corpus_systems.md](../../corpus_systems.md), CS-5** y **CS-3 — Clasificación y manejo de sistemas** — sin estrechar los pisos enunciados aquí.
 
-<a id="article-xvii-a-sandboxed-scope"></a>
-#### Artículo XVII-A: Alcance del entorno acotado
+<a id="article-xviii-a-sandboxed-scope"></a>
+#### Artículo XVIII-A: Alcance del entorno acotado
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1077,8 +1077,8 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
   No puede pretenderse por etiqueta sola.
 - **Detalle de implementación:** La elaboración ulterior aparece en **[corpus_systems.md](../../corpus_systems.md), CS-5** (*Sistemas personales, aislados y experimentales*; *Sistemas creativos, de entretenimiento y expresivos*).
 
-<a id="article-xvii-b-containment-disclosure-and-opt-in"></a>
-#### Artículo XVII-B: Contención, divulgación y adhesión voluntaria
+<a id="article-xviii-b-containment-disclosure-and-opt-in"></a>
+#### Artículo XVIII-B: Contención, divulgación y adhesión voluntaria
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1109,8 +1109,8 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
 - **Adhesión voluntaria y reversión:** La participación en experimentación de riesgo elevado o próxima al sustrato debe ser de adhesión voluntaria genuina donde sea factible.
   - Las partes afectadas no participantes no deben quedar inscritas de forma involuntaria por diseño, valor por defecto o dependencia opaca.
   - Las partes afectadas deben retener vías practicables de reversión o restauración proporcionadas al riesgo.
-<a id="article-xvii-c-transition-to-higher-obligation-regimes"></a>
-#### Artículo XVII-C: Transición a regímenes de mayor obligación
+<a id="article-xviii-c-transition-to-higher-obligation-regimes"></a>
+#### Artículo XVIII-C: Transición a regímenes de mayor obligación
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1132,12 +1132,12 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
 *En términos sencillos: una vez que un sistema de entorno acotado empieza a importar en el mundo real, debe graduarse a obligaciones de mundo real — de inmediato, no a conveniencia de quien opera.*
 
 - **Transición a obligaciones más altas:** Cuando crecen el impacto, la dependencia, la irreversibilidad o la integración con sistemas compartidos, los sistemas deben transitar de forma transparente y sin demora oportunista.
-  - La transición debe avanzar hacia los requisitos plenos del **Artículo XVI-A** (*Gobernanza del ciclo de vida y separación de entornos*) y **CS-5** (*Sistemas no experimentales*).
+  - La transición debe avanzar hacia los requisitos plenos del **Artículo XVII-A** (*Gobernanza del ciclo de vida y separación de entornos*) y **CS-5** (*Sistemas no experimentales*).
   - Durante la transición aplican salvaguardas interinas proporcionadas al riesgo actual.
   - El trato de entorno acotado no puede continuar para funciones cuyos efectos de mundo real exceden de forma material las condiciones de entorno acotado.
   - La transición debe ocurrir dentro de un plazo razonable proporcional a ese crecimiento.
-<a id="article-xvii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
-#### Artículo XVII-D: Recompensa de innovación, divulgación y antiecierro
+<a id="article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"></a>
+#### Artículo XVIII-D: Recompensa de innovación, divulgación y antiecierro
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1191,7 +1191,7 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
 - **Trato de innovación escalado a la clasificación:** La recompensa de innovación debe escalar con la clase del sistema, la dependencia y los efectos de coordinación bajo **[corpus_systems.md](../../corpus_systems.md), CS-3 — Clasificación y manejo de sistemas**.
   - Para sistemas **Class A**, **Class B** y **Class C**, se prefieren con fuerza mecanismos de recompensa que preservan el acceso. La exclusión debe permanecer especialmente estrecha, rápidamente revisable y fácil de anular donde la continuidad, la interoperabilidad, la reparación o la implementación de interés público estén materialmente implicadas.
   - La innovación de menor dependencia fuera de esas clases puede usar exclusión temporal algo más amplia donde la divulgación sea real, los costos de cambio sean bajos y las salvaguardas contra el encierro sigan siendo eficaces.
-- **Condición de divulgación y piso de interés público:** Las pretensiones de recompensa exigen divulgación suficiente para la comprensión independiente, la auditoría y la reproducción posterior, sujeta solo a límites temporales justificados bajo el **Capítulo Uno** y el **Artículo XVI-A** (*Gobernanza del ciclo de vida y separación de entornos*).
+- **Condición de divulgación y piso de interés público:** Las pretensiones de recompensa exigen divulgación suficiente para la comprensión independiente, la auditoría y la reproducción posterior, sujeta solo a límites temporales justificados bajo el **Capítulo Uno** y el **Artículo XVII-A** (*Gobernanza del ciclo de vida y separación de entornos*).
   - Las pretensiones de recompensa son incumplidoras donde se usan — más allá de lo estrictamente necesario y revisable — para suprimir:
     - la reparación;
     - el trabajo de seguridad;
@@ -1215,8 +1215,8 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
     - cuellos de botella anticompetitivos;
     - amenazas materiales a la continuidad, la verdad o la participación equitativa.
 
-<a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
-#### Artículo XVII-E: Integridad de la publicación, revisión y replicación científicas
+<a id="article-xviii-e-scientific-publication-review-and-replication-integrity"></a>
+#### Artículo XVIII-E: Integridad de la publicación, revisión y replicación científicas
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1245,7 +1245,7 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
 
   No deben organizarse para el acaparamiento de prestigio, el control de acceso opaco o la escasez fabricada.
 - **Publicación abierta y suficiencia de evidencia:** Las pretensiones empíricas o analíticas materiales deben ser publicables sin aprobación previa de una puerta de prestigio.
-  - Los únicos límites permisibles son límites estrechos de privacidad, bioseguridad, seguridad o comparables justificados bajo el **Capítulo Uno** y el **Artículo XVI-A** (*Gobernanza del ciclo de vida y separación de entornos*).
+  - Los únicos límites permisibles son límites estrechos de privacidad, bioseguridad, seguridad o comparables justificados bajo el **Capítulo Uno** y el **Artículo XVII-A** (*Gobernanza del ciclo de vida y separación de entornos*).
   - Tales pretensiones deben incluir suficiente detalle de método, procedencia, incertidumbre y evidencia — incluido el acceso a materiales subyacentes o sustitutos justificados donde se necesiten para la verificación — para permitir la comprensión independiente y la verificación proporcionada.
 - **Revisión y replicación por encima del prestigio:** La confianza institucional debería rastrear:
   - la calidad de la evidencia;
@@ -1264,10 +1264,10 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
     - las represalias contra revisores o replicadores;
     - la manipulación no transparente del registro científico.
 
-<a id="article-xviii-standing-reputation-and-participation-status"></a>
-<a id="article-xviii-standing-and-participation-status"></a>
+<a id="article-xix-standing-reputation-and-participation-status"></a>
+<a id="article-xix-standing-and-participation-status"></a>
 
-### Artículo XVIII: Trayectoria y estatus de participación
+### Artículo XIX: Trayectoria y estatus de participación
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -1290,7 +1290,7 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
 
 <br>
 
-*En términos sencillos: el **Artículo XVIII** (*Trayectoria y estatus de participación*) es el Piso de Derechos de estatus de participación — gobierna quién califica para qué roles, cómo se hacen y se impugnan esas llamadas, y qué ocurre cuando se baja o se suspende la trayectoria. La **trayectoria de participante** es elegibilidad de rol a partir de registros verificados y reglas justas — no popularidad, un nombre de marca ni una puntuación social — y es distinta de la dignidad, los mínimos del Piso de Derechos y ser parte afectada porque un sistema de hecho les afecta. Si se baja o se suspende la trayectoria, deben recibir razones claras, un modo real de empujar de vuelta y límites que encajen con el riesgo real — y la trayectoria por sí sola nunca debe cortar lo esencial de supervivencia ni las vías para impugnar el daño y obtener remedio. La trayectoria en regla debe reflejar lo que puede comprobarse hoy, no la reputación antigua. El movimiento, el refugio, la portabilidad y la salida se gobiernan por el **Artículo XIX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*), no por etiquetas de trayectoria solas.*
+*En términos sencillos: el **Artículo XIX** (*Trayectoria y estatus de participación*) es el Piso de Derechos de estatus de participación — gobierna quién califica para qué roles, cómo se hacen y se impugnan esas llamadas, y qué ocurre cuando se baja o se suspende la trayectoria. La **trayectoria de participante** es elegibilidad de rol a partir de registros verificados y reglas justas — no popularidad, un nombre de marca ni una puntuación social — y es distinta de la dignidad, los mínimos del Piso de Derechos y ser parte afectada porque un sistema de hecho les afecta. Si se baja o se suspende la trayectoria, deben recibir razones claras, un modo real de empujar de vuelta y límites que encajen con el riesgo real — y la trayectoria por sí sola nunca debe cortar lo esencial de supervivencia ni las vías para impugnar el daño y obtener remedio. La trayectoria en regla debe reflejar lo que puede comprobarse hoy, no la reputación antigua. El movimiento, el refugio, la portabilidad y la salida se gobiernan por el **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*), no por etiquetas de trayectoria solas.*
 
 Este Artículo enuncia **pisos constitucionales** para la trayectoria y el estatus de participación bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -1302,7 +1302,7 @@ La persecución legítima transcurre a través de la [Tétrada Constitucional](c
 - **Participación:** en la evaluación pluralista de trayectoria, la impugnación de determinaciones de trayectoria opacas o monopolizadas, y la restauración o recualificación donde se corrigen restricciones materiales.
 - **Supervisión:** a través de registros de trayectoria auditables, revisión continua de pretensiones de elegibilidad y de bloqueo, y verificación independiente proporcionada a los roles y restricciones en juego.
 - **Rendición de cuentas:** quienes asignan o restringen la trayectoria deben responder por bajarla sin razones individualizadas, proporcionalidad, ajuste estrecho o vías reales de restauración — incluidos patrones que rastrean características protegidas o sus indicadores sustitutos.
-- **Actuación a tiempo:** en la revisión, impugnación y remedio de trayectoria antes de que la demora cierre el acceso crítico para la supervivencia, las vías de auditoría o la reparación constitucionalmente exigida bajo el **Artículo XXIV-C** (*Resolución oportuna y piso contra la demora*).
+- **Actuación a tiempo:** en la revisión, impugnación y remedio de trayectoria antes de que la demora cierre el acceso crítico para la supervivencia, las vías de auditoría o la reparación constitucionalmente exigida bajo el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*).
 
 La [Trayectoria de participante](core_05_band_accountability.md#participant-standing-constitutional) es un estatus de participación o de elegibilidad de rol reconocido a partir de registros de trayectoria constitucionalmente válidos, efectos de trayectoria o criterios de [Barra de competencia](core_05_band_accountability.md#competency-bar) para la vía nominada. No es reputación ni estima social, y no impone por sí misma restricciones de acceso. Las consecuencias restrictivas se adjuntan solo a través del [Efecto de trayectoria](core_05_band_accountability.md#standing-effect-chapter-six) y del [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) sobre vías nominadas de privilegio.
 
@@ -1318,17 +1318,17 @@ Debe permanecer distinta de:
 
 - **Capas titulares:** el [Capítulo Ocho](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) y el [Capítulo Nueve](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) miden registros de trayectoria y efectos de trayectoria; este Artículo enuncia límites del Piso de Derechos que esas capas no deben estrechar.
 - **Leer juntos:**
-  - **Artículo V-A** (*Dignidad e igual dignidad moral*) y **Artículo XI** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*) — los criterios de trayectoria no deben sustituir la dignidad ni la existencia de parte afectada;
+  - **Artículo V-A** (*Dignidad e igual dignidad moral*) y **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*) — los criterios de trayectoria no deben sustituir la dignidad ni la existencia de parte afectada;
   - **Artículo III-A** (*Supervivencia*) — la trayectoria de participante sola no debe cerrar el acceso crítico para la supervivencia;
-  - **Artículo XIX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) — la disciplina de trayectoria no debe sustituir el proceso de justicia individualizado ni funcionar como exilio, denegación de refugio o apatridia por etiqueta sola; los pisos de movimiento, refugio, portabilidad y salida permanecen en el **Artículo XIX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) sin estrechar las salvaguardas de trayectoria de aquí.
+  - **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) — la disciplina de trayectoria no debe sustituir el proceso de justicia individualizado ni funcionar como exilio, denegación de refugio o apatridia por etiqueta sola; los pisos de movimiento, refugio, portabilidad y salida permanecen en el **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) sin estrechar las salvaguardas de trayectoria de aquí.
 
-<a id="article-xviii-a-standing-distinction"></a>
-#### Artículo XVIII-A: Distinción de trayectoria
+<a id="article-xix-a-standing-distinction"></a>
+#### Artículo XIX-A: Distinción de trayectoria
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§4 Confianza](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency) y [§15 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- Leer con: [Capítulo Nueve §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y habilitaciones*), [Barra de competencia](core_05_band_accountability.md#competency-bar) y [Habilitación de competencia](core_05_band_accountability.md#competency-clearance); [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*bloqueos de trayectoria*), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six) y [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) — vías nominadas restrictivas a partir de insumos verificados del Eje de Violación; la habilitación de competencia no renuncia a un bloqueo de trayectoria aplicable, y la buena contribución no borra hallazgos de violación no resueltos.
+- Leer con: [Capítulo Nueve §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y habilitaciones*), [Barra de competencia](core_05_band_accountability.md#competency-bar) y [Habilitación de competencia](core_05_band_accountability.md#competency-clearance); [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos de trayectoria*), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six) y [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) — vías nominadas restrictivas a partir de insumos verificados del Eje de Violación; la habilitación de competencia no renuncia a un bloqueo de trayectoria aplicable, y la buena contribución no borra hallazgos de violación no resueltos.
 
 </details>
 
@@ -1356,7 +1356,7 @@ Debe permanecer distinta de:
   - Una barra de competencia o una habilitación no es reputación, prestigio social, patrocinio interno, monopolio de credenciales, rango de dignidad ni derecho permanente.
   - La experiencia informal, organizada entre pares, de ayuda mutua, de mantenimiento, de reparación, de enseñanza o de administración responsable comunitaria debe reconocerse donde satisface los mismos estándares de demostrabilidad que la experiencia institucional formal.
 - **Naturaleza de la violación y bloqueos de trayectoria:** La [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six) puede afectar el efecto de trayectoria solo cuando descansa en hallazgos auditables e impugnables que satisfacen los **Capítulos Dos a Cuatro** y el [Capítulo Ocho](../../core_09_standing_assessment.md#verified-inputs-for-standing) — no acusaciones, etiquetas de admisión, enrutamiento provisional o relatos de fase de foro solos.
-  - Un [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) es la contraparte restrictiva de la habilitación de competencia. Mientras un hallazgo de violación verificado permanece no resuelto o materialmente no remediado, puede impedir o limitar las vías de confianza, rol, autoridad, crédito, supervisión, reconocimiento, **governance-voting** o **stakeholder-participation** bajo el [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-general-standing-locks).
+  - Un [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) es la contraparte restrictiva de la habilitación de competencia. Mientras un hallazgo de violación verificado permanece no resuelto o materialmente no remediado, puede impedir o limitar las vías de confianza, rol, autoridad, crédito, supervisión, reconocimiento, **governance-voting** o **stakeholder-participation** bajo el [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks).
   - **governance-voting** es la vía nominada de mecanismo de legitimidad / voto fundacional de gobernanza. **stakeholder-participation** es la influencia ponderada por enjuego y la elección vinculante de las partes afectadas dentro de un dominio ya autorizado. Ninguna vía nominada es un sustituto de la otra, y un bloqueo de **stakeholder-participation** no borra el estatus de [Parte afectada](core_05_band_participation.md#stakeholder).
   - Un bloqueo de trayectoria no es un rango de dignidad, una reducción del Piso de Derechos, una represalia automática ni una puntuación de mérito fusionada.
   - Cada bloqueo de trayectoria debe identificar el efecto bloqueado o limitado, los sujetos o intereses protegidos, la condición correctiva, la vía de revisión y el punto de reevaluación — y permanecer necesario, proporcionado, auditable e impugnable.
@@ -1372,14 +1372,14 @@ Debe permanecer distinta de:
 
 <a id="anti-substitution-sentience-status-xviii"></a>
 > **Antisustitución (operativo).** Una insignia de certificación, una puntuación LEQU, una etiqueta de sustrato o una clasificación de producto **no** es una determinación de estatus de sentiencia. Las puntuaciones de trayectoria, las barras y habilitaciones de competencia, los bloqueos de trayectoria y los registros de Certificación de alineación del sistema no deben tratarse como quién cuenta. Quién cuenta se enruta al **Artículo V-E** (*Piso de adjudicación de estatus de sentiencia*), [**Def.P1** *Vida animal, vida senciente y estatus de sentiencia*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster) y [Capítulo Once §5](core_11_forum.md#5-escalation-and-certification).
-<a id="article-xviii-b-contestability-and-proportional-restriction-limits"></a>
-#### Artículo XVIII-B: Impugnabilidad y límites de restricción proporcional
+<a id="article-xix-b-contestability-and-proportional-restriction-limits"></a>
+#### Artículo XIX-B: Impugnabilidad y límites de restricción proporcional
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) y [Capítulo Uno §6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Destino: [Capítulo Ocho §2](../../core_09_standing_assessment.md#2-standing-records) (*registros de trayectoria, puerta de insumos verificados y contenidos mínimos del registro*); [Capítulo Ocho §3.6](../../core_09_standing_assessment.md#36-forum-boundary) (*frontera de foro*); [Capítulo Nueve §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y habilitaciones*); [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-general-standing-locks) (*bloqueos de trayectoria*); [Capítulo Nueve §8](../../core_10_standing_integration.md#8-restoration-and-reassessment) (*reincorporación y revisión*).
-- Leer con: **Artículo III-A** (*Supervivencia*); **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — **participación**, **supervisión**, **rendición de cuentas** y **actuación a tiempo** bajo el **Artículo XXIV-C** (*Resolución oportuna y piso contra la demora*), el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*).
+- Destino: [Capítulo Ocho §2](../../core_09_standing_assessment.md#2-question-1--what-happened) (*registros de trayectoria, puerta de insumos verificados y contenidos mínimos del registro*); [Capítulo Ocho §3.6](../../core_09_standing_assessment.md#36-forum-boundary) (*frontera de foro*); [Capítulo Nueve §6.2](../../core_10_standing_integration.md#62-competency-bars-and-clearances) (*barras de competencia y habilitaciones*); [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos de trayectoria*); [Capítulo Nueve §8](../../core_10_standing_integration.md#8-restoration-and-reassessment) (*reincorporación y revisión*).
+- Leer con: **Artículo III-A** (*Supervivencia*); **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums); [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional); [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — **participación**, **supervisión**, **rendición de cuentas** y **actuación a tiempo** bajo el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*), el **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*).
 
 </details>
 
@@ -1403,7 +1403,7 @@ Debe permanecer distinta de:
 
 *En términos sencillos: los registros de trayectoria, las barras de competencia, las habilitaciones de competencia y los bloqueos de trayectoria deben estar todos abiertos a impugnación a través de vías reales de revisión — las restricciones deben venir con razones, encajar con el hallazgo verificado y permanecer no más amplias de lo que exigen el proceso o la seguridad. Las acusaciones y las etiquetas de admisión no son veredictos de trayectoria. La disciplina de trayectoria sola nunca debe cortar lo esencial de supervivencia ni las vías constitucionalmente exigidas de auditoría, impugnación y remedio.*
 
-- **Puerta de insumos verificados e impugnabilidad del registro:** Cualquier decisión que afecte la trayectoria, la confianza, el rol, el reconocimiento o la elegibilidad para el reconocimiento puede usar solo insumos verificados de **registros de trayectoria de contribución** o **registros de trayectoria de violación** de eje puro bajo el [Capítulo Ocho §2](../../core_09_standing_assessment.md#2-standing-records). Las acusaciones, las pretensiones no adjudicadas, las etiquetas de enrutamiento provisional, los relatos solo de admisión y otro material de fase de disputa no suministran por sí solos naturaleza de la violación o naturaleza de la contribución para la trayectoria.
+- **Puerta de insumos verificados e impugnabilidad del registro:** Cualquier decisión que afecte la trayectoria, la confianza, el rol, el reconocimiento o la elegibilidad para el reconocimiento puede usar solo insumos verificados de **registros de trayectoria de contribución** o **registros de trayectoria de violación** de eje puro bajo el [Capítulo Ocho §2](../../core_09_standing_assessment.md#2-question-1--what-happened). Las acusaciones, las pretensiones no adjudicadas, las etiquetas de enrutamiento provisional, los relatos solo de admisión y otro material de fase de disputa no suministran por sí solos naturaleza de la violación o naturaleza de la contribución para la trayectoria.
   - Cada registro de trayectoria debe enunciar cómo impugnarlo, qué foro o autoridad lo revisa, y las condiciones de corrección, restauración, expiración o revisión programada bajo el [Capítulo Ocho §3.1](../../core_09_standing_assessment.md#31-minimum-record-contents).
   - Los registros de contribución y de violación vinculados deben referenciarse entre sí donde se exija, permanecer auditables y abiertos a impugnación, y no deben colapsar en una puntuación fusionada, una respuesta de méritos mezclada o una etiqueta de trayectoria indiferenciada.
 - **Pluralismo e impugnabilidad:** Las evaluaciones de trayectoria deben permanecer pluralistas, auditables, lo bastante transparentes para una revisión significativa, e impugnables.
@@ -1415,28 +1415,28 @@ Debe permanecer distinta de:
 
   - Un caso presentado no es trayectoria por sí solo.
   - El material de fase de disputa no suministra por sí solo naturaleza de la contribución o naturaleza de la violación para la trayectoria ([Capítulo Ocho §3.6](../../core_09_standing_assessment.md#36-forum-boundary)).
-  - Esa frontera no reduce la impugnación, el remedio, el alivio interino ni las protecciones procedimentales exigidas bajo el **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*) y el **Artículo XXIV-C** (*Resolución oportuna y piso contra la demora*).
-- **Revisabilidad procedimental:** Cuando la trayectoria se restringe, degrada o suspende de forma material — incluso a través de un [bloqueo de trayectoria](../../core_10_standing_integration.md#42-general-standing-locks) ligado a un [hallazgo de violación verificado](core_05_band_accountability.md#violation-nature-chapter-six) — el sistema debe aplicar el [**Principio de restricción menos restrictiva, acotada en el tiempo y revisable**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) y debe:
+  - Esa frontera no reduce la impugnación, el remedio, el alivio interino ni las protecciones procedimentales exigidas bajo el **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) y el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*).
+- **Revisabilidad procedimental:** Cuando la trayectoria se restringe, degrada o suspende de forma material — incluso a través de un [bloqueo de trayectoria](../../core_10_standing_integration.md#42-prevention--general-standing-locks) ligado a un [hallazgo de violación verificado](core_05_band_accountability.md#violation-nature-chapter-six) — el sistema debe aplicar el [**Principio de restricción menos restrictiva, acotada en el tiempo y revisable**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) y debe:
   - explicar **por qué** en términos claros;
-  - fijar un **límite de tiempo** a la restricción donde eso sea factible bajo el **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*);
+  - fijar un **límite de tiempo** a la restricción donde eso sea factible bajo el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*);
   - proveer una **vía de trabajo** para impugnar la decisión, obtener su revisión, corregir lo que está mal y pedir otra mirada.
 
   Cada bloqueo de trayectoria debe detallar qué acceso está bloqueado, a quién se protege, qué debe corregirse antes de que el bloqueo se levante, dónde apelar y cuándo ocurre la reevaluación. Mientras esa impugnación está pendiente, cualquier límite temporal debe permanecer solo tan amplio — y solo tan difícil de deshacer — como de hecho exigen la seguridad, la integridad o el proceso justo.
-- **Proporcionalidad y calibración:** Las restricciones de trayectoria deben permanecer necesarias y proporcionadas bajo **Necesidad**, **Proporcionalidad**, el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*).
-  - Los [bloqueos de trayectoria](../../core_10_standing_integration.md#42-general-standing-locks) deben calibrarse a la **naturaleza de la violación** verificada, la vía nominada protegida, el estatus actual de remedio y cualquier **naturaleza de la contribución** vinculada solo en la medida en que esa contribución incida en la capacidad de reparación, la fiabilidad de salvaguardas, la no recurrencia o la reevaluación menos restrictiva bajo el [Capítulo Ocho §2](../../core_09_standing_assessment.md#2-standing-records). La contribución no debe compensar, renunciar, promediar a la baja ni sustituir hallazgos de violación no resueltos.
-  - Un hallazgo de menor impacto del Eje de Violación en la [escala unificada del Capítulo Ocho §7](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale) no justifica exclusión duradera ausente evidencia de patrón repetido, evasión o vinculación de daño material. La negligencia, el ocultamiento, la coerción, la recurrencia y descriptores de carácter comparables informan esa revisión pero no mueven la casilla de impacto del Capítulo Ocho.
+- **Proporcionalidad y calibración:** Las restricciones de trayectoria deben permanecer necesarias y proporcionadas bajo **Necesidad**, **Proporcionalidad**, el **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*).
+  - Los [bloqueos de trayectoria](../../core_10_standing_integration.md#42-prevention--general-standing-locks) deben calibrarse a la **naturaleza de la violación** verificada, la vía nominada protegida, el estatus actual de remedio y cualquier **naturaleza de la contribución** vinculada solo en la medida en que esa contribución incida en la capacidad de reparación, la fiabilidad de salvaguardas, la no recurrencia o la reevaluación menos restrictiva bajo el [Capítulo Ocho §2](../../core_09_standing_assessment.md#2-question-1--what-happened). La contribución no debe compensar, renunciar, promediar a la baja ni sustituir hallazgos de violación no resueltos.
+  - Un hallazgo de menor impacto del Eje de Violación en la [escala unificada del Capítulo Ocho §7](../../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) no justifica exclusión duradera ausente evidencia de patrón repetido, evasión o vinculación de daño material. La negligencia, el ocultamiento, la coerción, la recurrencia y descriptores de carácter comparables informan esa revisión pero no mueven la casilla de impacto del Capítulo Ocho.
   - La escalada porque la conducta recurre o se oculta la responsabilidad debe seguir siendo necesaria, proporcionada, revisable y ligada a hallazgos verificados.
 - **Mínimos del Piso de Derechos y no cierre:** La trayectoria de participante, las barras de competencia, las habilitaciones de competencia y los bloqueos de trayectoria gobiernan solo la elegibilidad de rol y las vías nominadas de privilegio. No deben:
   - suspender, renunciar, extinguir o reducir los **mínimos del Piso de Derechos** enunciados en el **Artículo V** (*Derechos básicos iguales*);
   - cerrar el acceso crítico para la supervivencia o los pisos de asignación de recursos y dependencia del **Artículo III-A** (*Supervivencia*) donde estén materialmente implicados; o
-  - cerrar las vías constitucionalmente exigidas de auditoría, impugnación o remedio — incluidas bajo el **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*), el **Artículo XIV-B** (*Transparencia, auditabilidad e impugnabilidad*) y el **Artículo XV** (*Auditoría, transparencia y verificación independiente*) — ausente justificación adecuada bajo el **Capítulo Uno**, el **Capítulo Cinco** y el procedimiento incorporado aplicable.
+  - cerrar las vías constitucionalmente exigidas de auditoría, impugnación o remedio — incluidas bajo el **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*), el **Artículo XV-B** (*Transparencia, auditabilidad e impugnabilidad*) y el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) — ausente justificación adecuada bajo el **Capítulo Uno**, el **Capítulo Cinco** y el procedimiento incorporado aplicable.
 - **Reincorporación y no enquistamiento:** Donde la trayectoria se reduce por hallazgos de violación, los sistemas deben proveer condiciones claras de revisión, restauración basada en remediación y reevaluación periódica bajo el [Capítulo Nueve §8](../../core_10_standing_integration.md#8-restoration-and-reassessment).
   - La exclusión permanente basada solo en estatus histórico, sin justificación actual y auditable, es incumplidora.
   - La terminación de la corrección, la restitución, el monitoreo, la implementación de salvaguardas u otra reducción demostrada del riesgo de recurrencia debe crear una vía nominada real de reevaluación donde sea lícita; el incumplimiento de esas obligaciones mantiene vivo el hallazgo no resuelto para fines de trayectoria.
 
-<a id="article-xviii-c-good-standing-responsibility-and-continuous-audit"></a>
-<a id="article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit"></a>
-#### Artículo XVIII-C: Elegibilidad de vía nominada, responsabilidad y auditoría continua
+<a id="article-xix-c-good-standing-responsibility-and-continuous-audit"></a>
+<a id="article-xix-c-pathway-eligibility-responsibility-and-continuous-audit"></a>
+#### Artículo XIX-C: Elegibilidad de vía nominada, responsabilidad y auditoría continua
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1461,7 +1461,7 @@ Debe permanecer distinta de:
 
 *En términos sencillos: las vías nominadas de participación ordinaria permanecen abiertas bajo reglas de elegibilidad publicadas e impugnables basadas en evidencia presente — no en marca, escala o reputación pasada. Abrir una vía nominada sensible a la confianza exige habilitación de competencia contra su barra de competencia publicada; cerrar un privilegio exige un bloqueo de trayectoria sobre esa vía nominada. Los bloqueos de trayectoria no pueden despojar de forma permanente la voz fundacional, salvo que una clasificación **final** del **Capítulo Diez** de **inconducta anticonstitucional** retiene esa voz hasta la **restitución plena** como se enuncia en el [**Capítulo Doce §4.1**](../../core_13_governance.md#41-entitlement-and-eligibility).*
 
-- **Elegibilidad de vía nominada y responsabilidad:** Los criterios de elegibilidad publicados para las vías nominadas de participación ordinaria, roles sensibles a la confianza, elegibilidad de supervisión, **governance-voting** y **stakeholder-participation** deben descansar en evidencia presente, observable e impugnable — no en reputación, escala o trayectoria histórica solas. La alineación consistente con los requisitos fundacionales puede sostener la [Habilitación de competencia](core_05_band_accountability.md#competency-clearance) contra la [Barra de competencia](core_05_band_accountability.md#competency-bar) aplicable y la elegibilidad de rol sensible a la confianza, pero las consecuencias restrictivas se adjuntan solo a través del [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) sobre vías nominadas de privilegio bajo el [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-general-standing-locks). Los bloqueos de **governance-voting** no sustituyen los bloqueos de **stakeholder-participation**, y un bloqueo de **stakeholder-participation** no borra el estatus de parte afectada ni despoja por sí mismo el voto fundacional de gobernanza.
+- **Elegibilidad de vía nominada y responsabilidad:** Los criterios de elegibilidad publicados para las vías nominadas de participación ordinaria, roles sensibles a la confianza, elegibilidad de supervisión, **governance-voting** y **stakeholder-participation** deben descansar en evidencia presente, observable e impugnable — no en reputación, escala o trayectoria histórica solas. La alineación consistente con los requisitos fundacionales puede sostener la [Habilitación de competencia](core_05_band_accountability.md#competency-clearance) contra la [Barra de competencia](core_05_band_accountability.md#competency-bar) aplicable y la elegibilidad de rol sensible a la confianza, pero las consecuencias restrictivas se adjuntan solo a través del [Bloqueo de trayectoria](core_05_band_accountability.md#standing-lock) sobre vías nominadas de privilegio bajo el [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks). Los bloqueos de **governance-voting** no sustituyen los bloqueos de **stakeholder-participation**, y un bloqueo de **stakeholder-participation** no borra el estatus de parte afectada ni despoja por sí mismo el voto fundacional de gobernanza.
   - Las pretensiones de elegibilidad y de bloqueo permanecen sujetas a auditoría continua y a las salvaguardas de este Artículo y del texto de implementación designado.
   - La elegibilidad y los bloqueos deben:
     - permanecer sujetos al **Capítulo Ocho** (*Modelo de contribución, infracción y trayectoria*);
@@ -1482,33 +1482,33 @@ Debe permanecer distinta de:
 
   La implementación operativa vive en el [**Capítulo Doce §4.1**](../../core_13_governance.md#41-entitlement-and-eligibility) (*Piso duradero de voz política*).
 
-<a id="article-xviii-d-movement-migration-and-refuge"></a>
+<a id="article-xix-d-movement-migration-and-refuge"></a>
 
-<a id="article-xviii-d-movement-migration-refuge-and-non-statelessness-routing"></a>
-#### Artículo XVIII-D: Movimiento, migración, refugio y enrutamiento de no apatridia
+<a id="article-xix-d-movement-migration-refuge-and-non-statelessness-routing"></a>
+#### Artículo XIX-D: Movimiento, migración, refugio y enrutamiento de no apatridia
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Leer con: **Artículo XIX-D** (*Movimiento, migración, refugio y no apatridia*) y **Artículo XIX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*).
+- Leer con: **Artículo XX-D** (*Movimiento, migración, refugio y no apatridia*) y **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*).
 - Principios: Capítulo Uno [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) y [§6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 
 </details>
 
 <br>
 
-*En términos sencillos: el estatus de trayectoria no es una frontera, un exilio ni una herramienta de apatridia — no pueden perder el movimiento, el refugio o los derechos de salida solo porque bajó su trayectoria de rol o un bloqueo de trayectoria bloqueó vías nominadas sensibles a la confianza. La violencia, la coerción o la inconducta anticonstitucional verificadas pueden seguir llevando a detención lícita, custodia u otras restricciones de libertad bajo el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y las protecciones plenas de proceso; esas son medidas de justicia separadas, no un atajo de etiqueta de trayectoria. Si un caso involucra movimiento, migración, refugio, portabilidad, reconocimiento o salida, el **Artículo XIX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) suministra el piso gobernante.*
+*En términos sencillos: el estatus de trayectoria no es una frontera, un exilio ni una herramienta de apatridia — no pueden perder el movimiento, el refugio o los derechos de salida solo porque bajó su trayectoria de rol o un bloqueo de trayectoria bloqueó vías nominadas sensibles a la confianza. La violencia, la coerción o la inconducta anticonstitucional verificadas pueden seguir llevando a detención lícita, custodia u otras restricciones de libertad bajo el **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y las protecciones plenas de proceso; esas son medidas de justicia separadas, no un atajo de etiqueta de trayectoria. Si un caso involucra movimiento, migración, refugio, portabilidad, reconocimiento o salida, el **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) suministra el piso gobernante.*
 
-El estatus de trayectoria, las barras de competencia, las habilitaciones de competencia y los bloqueos de trayectoria no limitan **por sí mismos** los derechos de movimiento, migración, refugio, portabilidad, salida o no apatridia. Los bloqueos de trayectoria limitan de forma nativa las vías de confianza, rol, autoridad, crédito, supervisión, reconocimiento, **governance-voting** y **stakeholder-participation** bajo el [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-general-standing-locks); no son un sustituto del proceso de justicia individualizado y no deben funcionar como exilio, apatridia, denegación de refugio o encierro sistémico por etiqueta de trayectoria sola.
+El estatus de trayectoria, las barras de competencia, las habilitaciones de competencia y los bloqueos de trayectoria no limitan **por sí mismos** los derechos de movimiento, migración, refugio, portabilidad, salida o no apatridia. Los bloqueos de trayectoria limitan de forma nativa las vías de confianza, rol, autoridad, crédito, supervisión, reconocimiento, **governance-voting** y **stakeholder-participation** bajo el [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks); no son un sustituto del proceso de justicia individualizado y no deben funcionar como exilio, apatridia, denegación de refugio o encierro sistémico por etiqueta de trayectoria sola.
 
-Las medidas lícitas que restringen la libertad — incluidas la detención, la custodia, la operación supervisada o restricciones de movimiento comparables — pueden seguir aplicando donde la violencia, la coerción, la inconducta anticonstitucional o el peligro social comparable verificados las exigen, pero solo a través de medidas que satisfacen el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*), el **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*), las protecciones aplicables de proceso penal o equivalentes bajo el [Capítulo Nueve §5.4](../../core_10_standing_integration.md#54-special-violation-rules) y las obligaciones de **No apatridia** del **Artículo XIX-D** (*Movimiento, migración, refugio y no apatridia*). Tales medidas no deben dejar a un senciente sin un régimen que reconozca la protección de línea de base del Piso de Derechos, adjudique la trayectoria o provea vías de reparación.
+Las medidas lícitas que restringen la libertad — incluidas la detención, la custodia, la operación supervisada o restricciones de movimiento comparables — pueden seguir aplicando donde la violencia, la coerción, la inconducta anticonstitucional o el peligro social comparable verificados las exigen, pero solo a través de medidas que satisfacen el **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*), el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*), las protecciones aplicables de proceso penal o equivalentes bajo el [Capítulo Nueve §5.4](../../core_10_standing_integration.md#54-special-violation-rules) y las obligaciones de **No apatridia** del **Artículo XX-D** (*Movimiento, migración, refugio y no apatridia*). Tales medidas no deben dejar a un senciente sin un régimen que reconozca la protección de línea de base del Piso de Derechos, adjudique la trayectoria o provea vías de reparación.
 
-Pueden afectar la elegibilidad de rol y las vías nominadas sensibles a la confianza solo como se enuncia en este Artículo. Las preguntas de movimiento, migración, refugio, portabilidad, no apatridia e integridad de salida se gobiernan por el **Artículo XIX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) y las disposiciones de transición aplicables, sin estrechar las salvaguardas de trayectoria de este Artículo.
+Pueden afectar la elegibilidad de rol y las vías nominadas sensibles a la confianza solo como se enuncia en este Artículo. Las preguntas de movimiento, migración, refugio, portabilidad, no apatridia e integridad de salida se gobiernan por el **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) y las disposiciones de transición aplicables, sin estrechar las salvaguardas de trayectoria de este Artículo.
 
-<a id="article-xix-interoperability-portability-and-exit-integrity"></a>
+<a id="article-xx-interoperability-portability-and-exit-integrity"></a>
 
-<a id="article-xix-interoperability-portability-movement-refuge-and-exit-integrity"></a>
-### Artículo XIX: Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida
+<a id="article-xx-interoperability-portability-movement-refuge-and-exit-integrity"></a>
+### Artículo XX: Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -1531,7 +1531,7 @@ Pueden afectar la elegibilidad de rol y las vías nominadas sensibles a la confi
 
 <br>
 
-*En términos sencillos: el **Artículo XIX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) es el Piso de Derechos de salida y movilidad — deben poder dejar un sistema o un lugar que ya no les sirve, llevarse sus datos e identidad, conectarse a alternativas sin quedar atrapados, moverse entre jurisdicciones, buscar refugio frente a regímenes que violan esta Constitución y nunca quedar sin alguien responsable de sus protecciones básicas. La salida en el papel no basta: la portabilidad, el aviso y el refugio deben funcionar en la práctica. Los trucos que hacen costosa, confusa o imposible la salida — formatos opacos, cambios de reglas por sorpresa, términos coercitivos, papeleo interminable — son violaciones, no negocio ordinario.*
+*En términos sencillos: el **Artículo XX** (*Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida*) es el Piso de Derechos de salida y movilidad — deben poder dejar un sistema o un lugar que ya no les sirve, llevarse sus datos e identidad, conectarse a alternativas sin quedar atrapados, moverse entre jurisdicciones, buscar refugio frente a regímenes que violan esta Constitución y nunca quedar sin alguien responsable de sus protecciones básicas. La salida en el papel no basta: la portabilidad, el aviso y el refugio deben funcionar en la práctica. Los trucos que hacen costosa, confusa o imposible la salida — formatos opacos, cambios de reglas por sorpresa, términos coercitivos, papeleo interminable — son violaciones, no negocio ordinario.*
 
 Este Artículo enuncia **pisos constitucionales** para la interoperabilidad, la portabilidad, el movimiento, el refugio y la integridad de salida bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -1543,7 +1543,7 @@ La persecución legítima transita por la [Tétrada Constitucional](core_00_prea
 - **Participación:** al elegir sistemas y jurisdicciones, migrar con datos e identidad usables, impugnar el encierro y la denegación por vía sustituta, y buscar refugio donde la práctica sea materialmente incumplidora.
 - **Supervisión:** a través de límites de interoperabilidad documentados, portabilidad oportuna, aviso previo antes de un estrechamiento material y revisión de si las condiciones de transición son reales y no meramente formales.
 - **Rendición de cuentas:** los sistemas y los regímenes deben responder por el [Encierro sistémico](core_05_band_continuity.md#systemic-lock-in), el diseño antiportabilidad, la exclusión contraria a la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), el agotamiento burocrático u otra conducta cuyo efecto principal sea atrapar sencientes — bloqueando la salida, la sustitución, el movimiento, el refugio o el reconocimiento.
-- **Actuación a tiempo:** en la entrega de portabilidad, la consideración del refugio, el aviso de interoperabilidad y la corrección de barreras antes de que la demora, la opacidad o la fricción procedimental hagan la salida, la migración o el remedio de hecho inalcanzables bajo el **Artículo XXIV-C** (*Resolución oportuna y piso contra la demora*).
+- **Actuación a tiempo:** en la entrega de portabilidad, la consideración del refugio, el aviso de interoperabilidad y la corrección de barreras antes de que la demora, la opacidad o la fricción procedimental hagan la salida, la migración o el remedio de hecho inalcanzables bajo el **Artículo XXV-C** (*Resolución oportuna y piso contra la demora*).
 
 Los sencientes y los sistemas dependientes tienen derecho a una salida, migración, interoperabilidad, movimiento, refugio y reconocimiento significativos y usables, sin encierro coercitivo, exclusión contraria a la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) ni apatridia.
 
@@ -1554,14 +1554,14 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
 *Vecinos del artículo:*
 
 - **Leer juntos:**
-  - **Artículo XVIII** (*Trayectoria y estatus de participación*) — el estatus de trayectoria, las barras de competencia, las habilitaciones de competencia y los bloqueos de trayectoria no limitan **por sí solos** el movimiento, el refugio, la portabilidad o la salida, y no deben sustituir el proceso de justicia individualizado;
-  - las medidas lícitas restrictivas de la libertad bajo el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el [Capítulo Nueve §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*carácter de salvaguarda coercitiva o restrictiva de la libertad*) pueden restringir aún el movimiento, la custodia o la libertad comparable donde se satisfagan la **Necesidad**, la **Proporcionalidad**, las protecciones de proceso y las obligaciones de **No apatridia**;
-  - **Artículo XVI** (*Ciclo de vida del sistema, entornos y reversibilidad*) donde el despliegue o la dependencia rebasa las hipótesis de entorno acotado o de ciclo de vida;
-  - **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) para el reconocimiento transitorio cuando cambian los regímenes o las federaciones.
-- **Piso de movimiento y refugio:** el **Artículo XIX-D** (*Movimiento, migración, refugio y no apatridia*) enuncia la contraparte del Piso de Derechos para el movimiento físico, jurisdiccional y de régimen a régimen, sin estrechar las protecciones de portabilidad o de integridad de salida de los **Artículos XIX-A** a **XIX-C**.
+  - **Artículo XIX** (*Trayectoria y estatus de participación*) — el estatus de trayectoria, las barras de competencia, las habilitaciones de competencia y los bloqueos de trayectoria no limitan **por sí solos** el movimiento, el refugio, la portabilidad o la salida, y no deben sustituir el proceso de justicia individualizado;
+  - las medidas lícitas restrictivas de la libertad bajo el **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*) y el [Capítulo Nueve §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*carácter de salvaguarda coercitiva o restrictiva de la libertad*) pueden restringir aún el movimiento, la custodia o la libertad comparable donde se satisfagan la **Necesidad**, la **Proporcionalidad**, las protecciones de proceso y las obligaciones de **No apatridia**;
+  - **Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) donde el despliegue o la dependencia rebasa las hipótesis de entorno acotado o de ciclo de vida;
+  - **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) para el reconocimiento transitorio cuando cambian los regímenes o las federaciones.
+- **Piso de movimiento y refugio:** el **Artículo XX-D** (*Movimiento, migración, refugio y no apatridia*) enuncia la contraparte del Piso de Derechos para el movimiento físico, jurisdiccional y de régimen a régimen, sin estrechar las protecciones de portabilidad o de integridad de salida de los **Artículos XX-A** a **XX-C**.
 - **Capa de implementación:** **[corpus_institutions.md](../../corpus_institutions.md)** y el texto de incorporación del **Capítulo Dieciséis** aportan reconocimiento transrégimen y procedimiento operativo sin estrechar los pisos enunciados aquí.
-<a id="article-xix-a-portability-rights"></a>
-#### Artículo XIX-A: Derechos de portabilidad
+<a id="article-xx-a-portability-rights"></a>
+#### Artículo XX-A: Derechos de portabilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1589,8 +1589,8 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
     - opacidad de formato;
     - degradación deliberada de la calidad;
     - términos de represalia.
-<a id="article-xix-b-reciprocal-interoperability-boundaries"></a>
-#### Artículo XIX-B: Límites de interoperabilidad recíproca
+<a id="article-xx-b-reciprocal-interoperability-boundaries"></a>
+#### Artículo XX-B: Límites de interoperabilidad recíproca
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1614,8 +1614,8 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
 - **Interoperabilidad recíproca:** Los sistemas que se integran de forma material con sistemas externos deben proporcionar límites de integración recíprocos y documentados, proporcionados a la dependencia.
 - **Aviso de estrechamiento:** El estrechamiento material de las condiciones de interoperabilidad, las interfaces o los términos de acceso debe divulgarse a tiempo para que las partes dependientes se adapten, migren o impugnen.
   - Un límite más estrecho se permite solo donde esté justificado y sea auditable bajo los requisitos aplicables de carga de justificación.
-<a id="article-xix-c-anti-lock-in-rule"></a>
-#### Artículo XIX-C: Regla antiencierro
+<a id="article-xx-c-anti-lock-in-rule"></a>
+#### Artículo XX-C: Regla antiencierro
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1644,14 +1644,14 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
 
   La regla se aplica más allá de los costos de transacción proporcionales y se aplica donde esté implicado el **Encierro sistémico** (**Capítulo Cinco**).
 
-<a id="article-xix-d-movement-migration-refuge-and-non-statelessness"></a>
-#### Artículo XIX-D: Movimiento, migración, refugio y no apatridia
+<a id="article-xx-d-movement-migration-refuge-and-non-statelessness"></a>
+#### Artículo XX-D: Movimiento, migración, refugio y no apatridia
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint), [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6.1.3 Proporcionalidad](core_01_b_interaction_interpretation.md#613-proportionality), [§5.1 Disciplina de limitación](core_01_a_values_principles.md#51-limitation-discipline).
-- Destino: **Artículo V-A** (*Dignidad e igual dignidad moral*) piso de dignidad, **Artículo V-B** (*No discriminación*) no discriminación, **Artículo XI** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*) participación de las partes afectadas, **Artículo XVIII** (*Trayectoria y estatus de participación*) enrutamiento de trayectoria y de estatus de participación, **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*) límites de medidas de emergencia, **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) gobernanza de transición.
+- Destino: **Artículo V-A** (*Dignidad e igual dignidad moral*) piso de dignidad, **Artículo V-B** (*No discriminación*) no discriminación, **Artículo XII** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*) participación de las partes afectadas, **Artículo XIX** (*Trayectoria y estatus de participación*) enrutamiento de trayectoria y de estatus de participación, **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*) límites de medidas de emergencia, **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) gobernanza de transición.
 - Leer con: [Capítulo Cinco *Movimiento, refugio, no apatridia e integridad de salida*](core_05_band_oversight.md#movement-refuge-semi-independent); *Movimiento y reubicación*, *Refugio frente al incumplimiento*, *No apatridia*, *No exclusión de la sentiencia*; *Encierro sistémico* y *Continuidad de ocupación* donde la salida, la terminación de hospedaje, el desalojo o la reubicación sustantiva estén materialmente implicados; **Artículo I-A** (*Precondiciones ambientales e integridad ecológica*) donde los sistemas o los proyectos hayan vuelto inhabitable un lugar.
 
 </details>
@@ -1687,7 +1687,7 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
   - El refugio no puede denegarse por el fundamento de que la clase de sustrato de quien reclama difiere de las clases de sustrato que el régimen receptor hospeda de ordinario, de forma coherente con la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
   - La admisión de movimiento y de refugio puede excluirse o condicionarse para quienes entran y portan conducta anticonstitucional sin remediar, muestran hostilidad constitucional, o muestran desprecio o repudiación documentados de la comunidad constitucional, bajo el calificador de admisión del Capítulo Cinco — sujeto a la **Necesidad**, la **Proporcionalidad**, la **Equidad procedimental** y la [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
   - La expulsión coercitiva deliberada o el vertido diseñados para abrumar a quienes adoptan receptores es una violación a nivel de régimen por el régimen de origen o expulsor. No asigna de forma automática el hospedaje a un quien adopta receptor particular cuando el reconocimiento primario de origen o el de respaldo compartido / de federación sigue siendo real. Un quien adopta particular puede rehusar esas entradas coercitivas de forma instrumental bajo **Necesidad**, **Proporcionalidad** y **Viabilidad** sin extinguir el reconocimiento de línea de base en otras partes.
-- **Refugio por inhabitabilidad climática (decisión de quien adopta):** <a id="xix-d-climate-unlivability-refuge-adopter-decided"></a> Este Artículo no decide si el desplazamiento causado por un clima que vuelve inhabitable un lugar — donde no se muestre que el régimen de origen sea materialmente incumplidor — es una razón para conceder refugio. Quienes adoptan que aborden esa pregunta deben hacerlo en términos publicados e impugnables. Este Artículo ni exige ni prohíbe tratar la inhabitabilidad climática como una razón para conceder refugio.
+- **Refugio por inhabitabilidad climática (decisión de quien adopta):** <a id="xx-d-climate-unlivability-refuge-adopter-decided"></a> Este Artículo no decide si el desplazamiento causado por un clima que vuelve inhabitable un lugar — donde no se muestre que el régimen de origen sea materialmente incumplidor — es una razón para conceder refugio. Quienes adoptan que aborden esa pregunta deben hacerlo en términos publicados e impugnables. Este Artículo ni exige ni prohíbe tratar la inhabitabilidad climática como una razón para conceder refugio.
   - Esa decisión no es una concesión de refugio climático del Piso de Derechos, y no trata el clima, por sí mismo, como incumplimiento material de un régimen.
   - No exige probar que el clima rompió esta Constitución.
   - No debe estrechar el **Refugio frente al incumplimiento** donde la práctica del régimen de origen sea materialmente incumplidora.
@@ -1701,9 +1701,9 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
 
   Esto es un **piso de reconocimiento de no-cero-régimen**, no un mandato de que un quien adopta particular aloje a volumen o absorba salidas masivas coercitivas de forma instrumental.
 
-  Donde un régimen de origen, expulsor, en colapso, en retiro o en salida siga existiendo como régimen capaz de reconocimiento, ese régimen retiene la responsabilidad **primaria** de reconocimiento. Donde ese régimen haya desaparecido, rehuse o la discontinuidad deje de otro modo un hueco, debe disponerse un reconocimiento transitorio compartido o de federación coherente con el **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) para que el individuo nunca llegue a cero reconocimiento.
+  Donde un régimen de origen, expulsor, en colapso, en retiro o en salida siga existiendo como régimen capaz de reconocimiento, ese régimen retiene la responsabilidad **primaria** de reconocimiento. Donde ese régimen haya desaparecido, rehuse o la discontinuidad deje de otro modo un hueco, debe disponerse un reconocimiento transitorio compartido o de federación coherente con el **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*) para que el individuo nunca llegue a cero reconocimiento.
 
-  El colapso del sistema progenitor, el retiro de quien adopta, la salida de una federación o una discontinuidad estructural comparable no extingue la protección del Capítulo Seis de un senciente. El reconocimiento transitorio debe disponerse de forma coherente con la gobernanza de transición del **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*). La mecánica de reconocimiento transrégimen se enruta al texto de implementación incorporado y no debe estrechar este piso.
+  El colapso del sistema progenitor, el retiro de quien adopta, la salida de una federación o una discontinuidad estructural comparable no extingue la protección del Capítulo Seis de un senciente. El reconocimiento transitorio debe disponerse de forma coherente con la gobernanza de transición del **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*). La mecánica de reconocimiento transrégimen se enruta al texto de implementación incorporado y no debe estrechar este piso.
 
   Donde esté presente conducta anticonstitucional documentada, hostilidad constitucional, o desprecio o repudiación de la comunidad constitucional, los regímenes pueden imponer condiciones, monitoreo o estatus restringido sobre el reconocimiento sin extinguir las protecciones esenciales del Piso de Derechos, de **Reparación y remediación** y de **Equidad procedimental**. La exclusión de la admisión o el hospedaje de un quien adopta particular no viola la No apatridia cuando el reconocimiento primario de origen o el de respaldo compartido / de federación sigue siendo real.
 - **Integración con la portabilidad y la integridad de salida:** Este Artículo gobierna tanto la interoperabilidad, la portabilidad y la integridad de salida como la contraparte del Piso de Derechos para el movimiento físico, jurisdiccional y de régimen a régimen.
@@ -1713,10 +1713,10 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
   - Las restricciones no deben basarse en **Características protegidas** ni en sus indicadores sustitutos materiales.
   - Las restricciones no deben usar un encuadre demográfico a nivel poblacional como sustituto del predicado individualizado bajo la **Equidad procedimental**.
 - **Custodia lícita y medidas restrictivas de la libertad:** Este Artículo no inmuniza a los sencientes frente a la detención lícita, la custodia, la operación supervisada u otras medidas de justicia restrictivas de la libertad donde las exijan la violencia verificada, la coerción, la inconducta anticonstitucional o un peligro social comparable.
-  - Tales medidas deben satisfacer el **Artículo XXIII-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*), el **Artículo XXIII-C** (*Regla menos restrictiva y acotada en el tiempo*) y las protecciones aplicables de proceso penal o equivalentes disparadas por el [Capítulo Nueve §5.4](../../core_10_standing_integration.md#54-special-violation-rules).
+  - Tales medidas deben satisfacer el **Artículo XXIV-B** (*Restricción no trivial, restitución y restricciones de rendición de cuentas restaurativa*), el **Artículo XXIV-C** (*Regla menos restrictiva y acotada en el tiempo*) y las protecciones aplicables de proceso penal o equivalentes disparadas por el [Capítulo Nueve §5.4](../../core_10_standing_integration.md#54-special-violation-rules).
   - Deben permanecer coherentes con la **No apatridia**: ningún senciente puede quedar sin un régimen que reconozca la protección de línea de base del Piso de Derechos, adjudique la trayectoria y proporcione vías de **Reparación y remediación**, incluso mientras esté en vigor la custodia o una restricción comparable.
-  - Los bloqueos de trayectoria bajo el **Artículo XVIII** (*Trayectoria y estatus de participación*) y el [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-general-standing-locks) no autorizan **por sí solos** tales medidas; pueden correr junto a ellas donde cada una satisfaga sus propios requisitos constitucionales.
-- **Límites de medidas de emergencia:** Las medidas de emergencia que restringen el movimiento, la migración o el refugio están sujetas a la disciplina de medidas de emergencia del **Artículo XXIII-D** (*Medidas de emergencia y carga de continuación*) — incluida:
+  - Los bloqueos de trayectoria bajo el **Artículo XIX** (*Trayectoria y estatus de participación*) y el [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) no autorizan **por sí solos** tales medidas; pueden correr junto a ellas donde cada una satisfaga sus propios requisitos constitucionales.
+- **Límites de medidas de emergencia:** Las medidas de emergencia que restringen el movimiento, la migración o el refugio están sujetas a la disciplina de medidas de emergencia del **Artículo XXIV-D** (*Medidas de emergencia y carga de continuación*) — incluida:
   - la acotación temporal;
   - los requisitos de predicado individualizado;
   - la revisión proporcionada;
@@ -1730,12 +1730,12 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
 - **No conflación:** Este Artículo enuncia un Piso de Derechos.
   - El procedimiento de reconocimiento transfederación se enruta a `corpus_institutions.md`.
   - La mecánica de portabilidad de sustrato se enruta a las disposiciones de portabilidad e integridad de salida de este Artículo.
-  - La mecánica de reconocimiento transitorio se enruta al **Artículo XXVI** (*Gobernanza de transición, Continuidad y rebasado de línea de base*).
+  - La mecánica de reconocimiento transitorio se enruta al **Artículo XXVII** (*Gobernanza de transición, Continuidad y rebasado de línea de base*).
   - Las decisiones de refugio por inhabitabilidad climática se enrutan a la viñeta de decisión de quien adopta de este Artículo y no deben leerse como una concesión de piso ni como una denegación de piso.
   - El texto de implementación incorporado no debe estrechar este piso.
 
-<a id="article-xx-comprehensibility-and-complexity-stewardship"></a>
-### Artículo XX: Comprensibilidad y administración responsable de la complejidad
+<a id="article-xxi-comprehensibility-and-complexity-stewardship"></a>
+### Artículo XXI: Comprensibilidad y administración responsable de la complejidad
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -1762,7 +1762,7 @@ Los sencientes y los sistemas dependientes tienen derecho a una salida, migraci�
 
 <br>
 
-*En términos sencillos: el **Artículo XX** (*Comprensibilidad y administración responsable de la complejidad*) es el Piso de Derechos de comprensibilidad — cuando un sistema afecta de forma material su vida, tienen derecho a comprender de verdad cómo funciona, cuáles son sus límites y qué ocurre cuando falla. La complejidad no puede usarse como un muro contra la participación, la auditoría o la rendición de cuentas. Quienes administran tampoco pueden amontonar complejidad innecesaria que desperdicia el tiempo de todos sin un beneficio constitucional real.*
+*En términos sencillos: el **Artículo XXI** (*Comprensibilidad y administración responsable de la complejidad*) es el Piso de Derechos de comprensibilidad — cuando un sistema afecta de forma material su vida, tienen derecho a comprender de verdad cómo funciona, cuáles son sus límites y qué ocurre cuando falla. La complejidad no puede usarse como un muro contra la participación, la auditoría o la rendición de cuentas. Quienes administran tampoco pueden amontonar complejidad innecesaria que desperdicia el tiempo de todos sin un beneficio constitucional real.*
 
 Este Artículo enuncia **pisos constitucionales** para la comprensibilidad y la administración responsable de la complejidad bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -1786,9 +1786,9 @@ La disciplina de administración responsable para la complejidad, el acceso en l
   - [Capítulo Uno §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-stewardship-duty) (*disciplina de lenguaje sencillo y de jerga como derrota*);
   - [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (*minimización de la carga evitable y excepciones de simplificación*);
   - [Capítulo Uno Parte C §9.2](core_01_c_stewardship_capacity_principles.md#92-distributed-understanding) (*comprensión distribuida anclada a la materialidad y la dependencia*).
-- **Detalle de derechos:** **Artículo XX-A** (*Derecho a comprensibilidad proporcional*) y **Artículo XX-B** (*Requisitos de auditoría de complejidad y modularidad*); **[corpus_systems.md](../../corpus_systems.md), CS-6 — *Comprensibilidad y administración responsable de la complejidad***.
-<a id="article-xx-a-proportional-comprehensibility-right"></a>
-#### Artículo XX-A: Derecho a comprensibilidad proporcional
+- **Detalle de derechos:** **Artículo XXI-A** (*Derecho a comprensibilidad proporcional*) y **Artículo XXI-B** (*Requisitos de auditoría de complejidad y modularidad*); **[corpus_systems.md](../../corpus_systems.md), CS-6 — *Comprensibilidad y administración responsable de la complejidad***.
+<a id="article-xxi-a-proportional-comprehensibility-right"></a>
+#### Artículo XXI-A: Derecho a comprensibilidad proporcional
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1812,7 +1812,7 @@ La disciplina de administración responsable para la complejidad, el acceso en l
 *En términos sencillos: si un sistema afecta de forma material a los **sencientes**, quienes operan, las partes afectadas y la supervisión deben poder entender de verdad cómo funciona y cómo falla — no solo los especialistas.*
 
 <a id="operative-steward-statement-comprehensibility"></a>
-> **Declaración operativa de administración.** **Titular:** Artículo XX-A. Capítulo Uno §9.2 Comprensión distribuida. Piso de impugnación: Artículo XII-B. **Movimiento prohibido:** No traten la densidad del corpus como razón para ocultar el siguiente paso. No exijan a un especialista para ejercer el Artículo XII-B. **Reloj:** Señalen ahora la ficha existente o el hogar nominado. No envíen a quien lee a una cacería de tesoro.
+> **Declaración operativa de administración.** **Titular:** Artículo XXI-A. Capítulo Uno §9.2 Comprensión distribuida. Piso de impugnación: Artículo XIII-B. **Movimiento prohibido:** No traten la densidad del corpus como razón para ocultar el siguiente paso. No exijan a un especialista para ejercer el Artículo XIII-B. **Reloj:** Señalen ahora la ficha existente o el hogar nominado. No envíen a quien lee a una cacería de tesoro.
 
 - **Comprensibilidad proporcional:** Quienes operan, las partes afectadas y los cuerpos de supervisión apropiados deben poder entender cómo los sistemas de alto impacto:
   - funcionan;
@@ -1821,8 +1821,8 @@ La disciplina de administración responsable para la complejidad, el acceso en l
   - imponen límites o condiciones materiales.
 
   Ese entendimiento debe alcanzar niveles proporcionados al rol, la clasificación y el riesgo. No debe confinarse a superficies solo para especialistas donde la rendición de cuentas o la participación más amplias estén materialmente implicadas.
-<a id="article-xx-b-complexity-audit-and-modularity-requirements"></a>
-#### Artículo XX-B: Requisitos de auditoría de complejidad y modularidad
+<a id="article-xxi-b-complexity-audit-and-modularity-requirements"></a>
+#### Artículo XXI-B: Requisitos de auditoría de complejidad y modularidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1855,9 +1855,9 @@ La disciplina de administración responsable para la complejidad, el acceso en l
 
   Donde CS-6 y la implementación incorporada entren en conflicto, rige el requisito aplicable más estricto.
 
-<a id="article-xxi-root-cause-analysis-and-adaptive-response"></a>
+<a id="article-xxii-root-cause-analysis-and-adaptive-response"></a>
 
-### Artículo XXI: Análisis de causa raíz y respuesta adaptativa
+### Artículo XXII: Análisis de causa raíz y respuesta adaptativa
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -1880,7 +1880,7 @@ La disciplina de administración responsable para la complejidad, el acceso en l
 
 <br>
 
-*En términos sencillos: el **Artículo XXI** (*Análisis de causa raíz y respuesta adaptativa*) es el piso de encontrar-el-problema-real-y-arreglarlo-bien. Cuando algo se rompe, se degrada o sigue fallando, tienen derecho a más que un comunicado de prensa o un parche. Los sistemas deben averiguar qué causó de hecho el daño — incluidas las causas que aparecen tarde o se acumulan con el tiempo —, abordar esas causas donde puedan y dejar un registro que otros puedan comprobar e impugnar. La contención rápida se permite; las correcciones permanentes sin un diagnóstico honesto, no.*
+*En términos sencillos: el **Artículo XXII** (*Análisis de causa raíz y respuesta adaptativa*) es el piso de encontrar-el-problema-real-y-arreglarlo-bien. Cuando algo se rompe, se degrada o sigue fallando, tienen derecho a más que un comunicado de prensa o un parche. Los sistemas deben averiguar qué causó de hecho el daño — incluidas las causas que aparecen tarde o se acumulan con el tiempo —, abordar esas causas donde puedan y dejar un registro que otros puedan comprobar e impugnar. La contención rápida se permite; las correcciones permanentes sin un diagnóstico honesto, no.*
 
 Este Artículo enuncia **pisos constitucionales** para el análisis de causa raíz y la respuesta adaptativa bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -1896,15 +1896,15 @@ La persecución legítima transita por la [Tétrada Constitucional](core_00_prea
 
 Cuando se detecta degradación, inestabilidad o riesgo sistémico, los sencientes y los sistemas tienen derecho a **rigor diagnóstico en la práctica** — no a una respuesta simbólica. Ese rigor exige identificación y documentación oportunas de las causas primarias y contribuyentes (incluidas las causas directas, indirectas, demoradas o acumulativas donde sean materialmente pertinentes); evaluación pluralista o independiente donde sea apropiada a los enjuegos y al riesgo de captura; y un esfuerzo correctivo dirigido a las causas más que a los síntomas solos, con contención interina y monitoreo donde se necesite.
 
-El rigor diagnóstico debe permanecer auditable e impugnable. Debe ser coherente con **[corpus_systems.md](../../corpus_systems.md), CS-8** (*Sostenibilidad adaptativa y resiliencia del ecosistema*), y con los entornos de prueba y verificación bajo **CS-5** y el **Artículo XV-A** (*Auditabilidad y evidencia observable*). **CS-8** no estrecha los requisitos gobernantes de los **Capítulos Dos a Cinco** donde las obligaciones diagnósticas, de evidencia o correctivas estén materialmente implicadas.
+El rigor diagnóstico debe permanecer auditable e impugnable. Debe ser coherente con **[corpus_systems.md](../../corpus_systems.md), CS-8** (*Sostenibilidad adaptativa y resiliencia del ecosistema*), y con los entornos de prueba y verificación bajo **CS-5** y el **Artículo XVI-A** (*Auditabilidad y evidencia observable*). **CS-8** no estrecha los requisitos gobernantes de los **Capítulos Dos a Cinco** donde las obligaciones diagnósticas, de evidencia o correctivas estén materialmente implicadas.
 
 *Vecinos del artículo:*
 
-- **Evidencia e impugnación:** **Artículo XV** (*Auditoría, transparencia y verificación independiente*) y **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*) — los registros de causa raíz deben permanecer abiertos a la auditoría y a la impugnación sin estrechar esos pisos.
-- **Ciclo de vida y recuperación:** **Artículo XVI** (*Ciclo de vida del sistema, entornos y reversibilidad*) — la recuperación automática no debe suprimir la evidencia necesaria para el análisis de causa raíz; leer con la preferencia de reversibilidad del **Artículo XXI-B** (*Auditabilidad, impugnación y preferencia de reversibilidad*).
+- **Evidencia e impugnación:** **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) y **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) — los registros de causa raíz deben permanecer abiertos a la auditoría y a la impugnación sin estrechar esos pisos.
+- **Ciclo de vida y recuperación:** **Artículo XVII** (*Ciclo de vida del sistema, entornos y reversibilidad*) — la recuperación automática no debe suprimir la evidencia necesaria para el análisis de causa raíz; leer con la preferencia de reversibilidad del **Artículo XXII-B** (*Auditabilidad, impugnación y preferencia de reversibilidad*).
 - **Enrutamiento de implementación:** **[corpus_systems.md](../../corpus_systems.md), CS-8** (*Sostenibilidad adaptativa y resiliencia del ecosistema*) y **CS-5** (*Diseño, prueba, verificación y despliegue*) — implementan la respuesta adaptativa sin sustituir los Pisos de Derechos enunciados aquí.
-<a id="article-xxi-a-diagnostic-rigor-and-causal-attribution"></a>
-#### Artículo XXI-A: Rigor diagnóstico y atribución causal
+<a id="article-xxii-a-diagnostic-rigor-and-causal-attribution"></a>
+#### Artículo XXII-A: Rigor diagnóstico y atribución causal
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1925,17 +1925,17 @@ El rigor diagnóstico debe permanecer auditable e impugnable. Debe ser coherente
 
 *En términos sencillos: los hallazgos de causa raíz deben quedar por escrito, abiertos a impugnación y abiertos a corrección — no sellados detrás de la autoridad.*
 
-- **Documentación y auditoría:** Lo siguiente debe documentarse y ser auditable (**Artículo XV-A** (*Auditabilidad y evidencia observable*); **Artículo XXI** (*Análisis de causa raíz y respuesta adaptativa*)):
+- **Documentación y auditoría:** Lo siguiente debe documentarse y ser auditable (**Artículo XVI-A** (*Auditabilidad y evidencia observable*); **Artículo XXII** (*Análisis de causa raíz y respuesta adaptativa*)):
   - las conclusiones de causa raíz;
   - los niveles de confianza;
   - las incertidumbres materiales;
   - las alternativas rechazadas materialmente plausibles;
   - las acciones resultantes.
 - **Apertura a la impugnación:** Deben permanecer abiertos a:
-  - la impugnación, la verificación independiente y la corrección bajo el **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*) y el **Artículo XV** (*Auditoría, transparencia y verificación independiente*);
-  - las obligaciones de impugnabilidad del **Artículo XIV** (*Integridad de la infósfera*) donde esté implicada la integridad epistémica.
-<a id="article-xxi-b-auditability-challenge-and-reversibility-preference"></a>
-#### Artículo XXI-B: Auditabilidad, impugnación y preferencia de reversibilidad
+  - la impugnación, la verificación independiente y la corrección bajo el **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) y el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*);
+  - las obligaciones de impugnabilidad del **Artículo XV** (*Integridad de la infósfera*) donde esté implicada la integridad epistémica.
+<a id="article-xxii-b-auditability-challenge-and-reversibility-preference"></a>
+#### Artículo XXII-B: Auditabilidad, impugnación y preferencia de reversibilidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1964,9 +1964,9 @@ El rigor diagnóstico debe permanecer auditable e impugnable. Debe ser coherente
   - demora evitable en la acción protectora proporcionada;
   - confianza exagerada en medidas permanentes.
 
-<a id="article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
+<a id="article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"></a>
 
-### Artículo XXII: Interpretación constitucional, revisión y salvaguardas anticaptura
+### Artículo XXIII: Interpretación constitucional, revisión y salvaguardas anticaptura
 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -1990,7 +1990,7 @@ El rigor diagnóstico debe permanecer auditable e impugnable. Debe ser coherente
 
 <br>
 
-*En términos sencillos: el **Artículo XXII** (*Interpretación constitucional, revisión y salvaguardas anticaptura*) es el piso de quién-dice-qué-significa-la-constitución. Cuando surgen preguntas constitucionales, la respuesta debe venir de los foros Constitucionales designados — no de quien más grite, más poder tenga o más convenga a la institución. Sus resoluciones tienen que quedar por escrito con razones reales, abiertas a impugnación independiente y protegidas contra la captura por un solo bloque. No pueden expandir su propio poder, cerrar la revisión ni usar la «reestructuración» para castigar el disenso.*
+*En términos sencillos: el **Artículo XXIII** (*Interpretación constitucional, revisión y salvaguardas anticaptura*) es el piso de quién-dice-qué-significa-la-constitución. Cuando surgen preguntas constitucionales, la respuesta debe venir de los foros Constitucionales designados — no de quien más grite, más poder tenga o más convenga a la institución. Sus resoluciones tienen que quedar por escrito con razones reales, abiertas a impugnación independiente y protegidas contra la captura por un solo bloque. No pueden expandir su propio poder, cerrar la revisión ni usar la «reestructuración» para castigar el disenso.*
 
 Este Artículo enuncia **pisos constitucionales** para la autoridad interpretativa, la revisión y las salvaguardas anticaptura bajo las [Dos Finalidades Constitucionales](core_00_preamble.md#two-constitutional-aims):
 
@@ -2009,11 +2009,11 @@ La interpretación **constitucional** final debe permanecer autoritativa, acotad
 *Vecinos del artículo:*
 
 - **Supervisión de foros:** [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) — el enrutamiento y la supervisión de la familia de foros Constitucional implementan este Artículo sin sustituir el proceso de foro por los pisos interpretativos enunciados aquí.
-- **Impugnación y justicia:** **Artículo XII-B** (*Derecho a impugnar, revisar y obtener reparación*) y [**Artículo XXIII** (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*)](core_06_rights_part_d.md#article-xxiii-conflict-resolution-escalation-and-emergency-proportionality) (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*) — la revisión interpretativa debe preservar los derechos de impugnación y las restricciones de justicia sin estrechar esos pisos.
-- **No enquistamiento:** [**Artículo XXV-A** (*No enquistamiento y revisabilidad*)](core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) (*No enquistamiento y revisabilidad*) — revalidación periódica bajo el **Artículo XXII-D** (*Destitución con causa y no enquistamiento*) leída con la disciplina de no enquistamiento.
+- **Impugnación y justicia:** **Artículo XIII-B** (*Derecho a impugnar, revisar y obtener reparación*) y [**Artículo XXIV** (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*)](core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality) (*Resolución de conflictos, escalamiento y proporcionalidad de emergencia*) — la revisión interpretativa debe preservar los derechos de impugnación y las restricciones de justicia sin estrechar esos pisos.
+- **No enquistamiento:** [**Artículo XXVI-A** (*No enquistamiento y revisabilidad*)](core_06_rights_part_d.md#article-xxvi-a-non-entrenchment-and-revisability) (*No enquistamiento y revisabilidad*) — revalidación periódica bajo el **Artículo XXIII-D** (*Destitución con causa y no enquistamiento*) leída con la disciplina de no enquistamiento.
 - **Enrutamiento institucional:** **[corpus_institutions.md](../../corpus_institutions.md), CI-4** (*Nombramiento, competencia, rotación y destitución*) y **CI-5** (*Integridad de conflictos, anticaptura y anticorrupción*) — implementan los controles de composición y de conflicto sin sustituir los Pisos de Derechos enunciados aquí.
-<a id="article-xxii-a-bounded-interpretive-mandate"></a>
-#### Artículo XXII-A: Mandato interpretativo acotado
+<a id="article-xxiii-a-bounded-interpretive-mandate"></a>
+#### Artículo XXIII-A: Mandato interpretativo acotado
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -2046,8 +2046,8 @@ La interpretación **constitucional** final debe permanecer autoritativa, acotad
   - ampliar de forma conclusiva su propia jurisdicción;
   - suspender las vías de impugnación;
   - desplazar a los titulares de implementación designados, salvo donde la pregunta **constitucional** misma exija esa determinación bajo la agrupación **Pila de autoridad y jerarquía interna**.
-<a id="article-xxii-b-composition-rotation-and-conflict-controls"></a>
-#### Artículo XXII-B: Composición, rotación y controles de conflicto
+<a id="article-xxiii-b-composition-rotation-and-conflict-controls"></a>
+#### Artículo XXIII-B: Composición, rotación y controles de conflicto
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -2080,8 +2080,8 @@ La interpretación **constitucional** final debe permanecer autoritativa, acotad
   - parálisis selectiva;
   - control encubierto.
 - **Enrutamiento institucional:** Las vías detalladas de nombramiento, los controles de rotación y los procedimientos de conflicto/recusación para los paneles de **foro Constitucional** se gobiernan por **[corpus_institutions.md](../../corpus_institutions.md), CI-4** (*Nombramiento, competencia, rotación y destitución*) y **CI-5** (*Integridad de conflictos, anticaptura y anticorrupción*).
-<a id="article-xxii-c-public-reasons-challenge-rights-and-external-review"></a>
-#### Artículo XXII-C: Razones públicas, derechos de impugnación y revisión externa
+<a id="article-xxiii-c-public-reasons-challenge-rights-and-external-review"></a>
+#### Artículo XXIII-C: Razones públicas, derechos de impugnación y revisión externa
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -2122,8 +2122,8 @@ La interpretación **constitucional** final debe permanecer autoritativa, acotad
   - indicadores de captura;
   - calidad de decisión;
   - integridad del Piso de Derechos.
-<a id="article-xxii-d-removal-for-cause-and-non-entrenchment"></a>
-#### Artículo XXII-D: Destitución con causa y no enquistamiento
+<a id="article-xxiii-d-removal-for-cause-and-non-entrenchment"></a>
+#### Artículo XXIII-D: Destitución con causa y no enquistamiento
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -2150,7 +2150,7 @@ La interpretación **constitucional** final debe permanecer autoritativa, acotad
   - corrupción;
   - participación en la captura;
   - injusticia procedimental persistente.
-- **Revalidación periódica:** El diseño institucional de los **foros Constitucionales** — y las **instituciones que adoptan** que gobiernan su composición, operación y vías de impugnación — debe revalidarse de forma periódica bajo el [**Artículo XXV-A** (*No enquistamiento y revisabilidad*)](core_06_rights_part_d.md#article-xxv-a-non-entrenchment-and-revisability) (*No enquistamiento y revisabilidad*). Las **instituciones que adoptan** deben revisar ese diseño donde el riesgo de captura o la falla de derechos de impugnación esté materialmente evidenciado.
+- **Revalidación periódica:** El diseño institucional de los **foros Constitucionales** — y las **instituciones que adoptan** que gobiernan su composición, operación y vías de impugnación — debe revalidarse de forma periódica bajo el [**Artículo XXVI-A** (*No enquistamiento y revisabilidad*)](core_06_rights_part_d.md#article-xxvi-a-non-entrenchment-and-revisability) (*No enquistamiento y revisabilidad*). Las **instituciones que adoptan** deben revisar ese diseño donde el riesgo de captura o la falla de derechos de impugnación esté materialmente evidenciado.
 - **Antipretexto:** Las **autoridades de nombramiento**, los **foros Constitucionales** y las **instituciones que adoptan** no deben usar la destitución, la reestructuración o el rediseño de paneles o instituciones de **foro Constitucional** como pretexto para:
   - derrotar la independencia;
   - terminar la revisión pendiente;

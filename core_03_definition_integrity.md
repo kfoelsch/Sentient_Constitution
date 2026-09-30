@@ -89,14 +89,18 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](#1-definition-integrity-and-anti-evasion-constraints); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement); [Chapter Two, §2.2 Non-Compliance by Structural or Applied Weakening](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening).
-- Downstream: type catalogs in sections [2.1](#21-common-evasion-patterns) through [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint); [3. Non-Compliance Finding Profiles](#3-non-compliance-finding-profiles); [Chapter Four, section 5 — Compliance Evidence Standard](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [Chapter Four, section 3 — Observability of Traceability Requirement](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [Chapter Eight §16](core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion) (*system alignment certification reopening and anti-evasion pointer*); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+- Downstream: type catalogs in sections [2.1](#21-common-evasion-patterns) through [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint); [3. Non-Compliance Finding Profiles](#3-non-compliance-finding-profiles); [Chapter Four, section 5 — Compliance Evidence Standard](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [Chapter Four, section 3 — Observability of Traceability Requirement](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement); [Chapter Eight §16](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) (*system alignment certification reopening and anti-evasion pointer*); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 - Read with: [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role) for the joint-satisfaction rule under full functional system conditions; [Chapter Two, §2.4 Interpretation Rule Under Ambiguity](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid; [Chapter Four, section 5 — Compliance Evidence Standard](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — evidence must demonstrate compliance under the rules in this section; proof that would be non-compliant here fails the burden of proof; [Non-Compliance](core_05_band_integrative.md#non-compliance).
 
 </details>
 
 <br>
 
+<<<<<<< HEAD
 *In plain terms: a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 — regardless of intent, awareness, or claimed purpose.*
+=======
+*In plain terms: a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.*
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 This section defines when systems are non-compliant based on observable behavior and outcomes, including:
 
@@ -123,7 +127,7 @@ The type subsections below catalog common patterns. They do not replace the eval
 
 #### 2.1 Common Evasion Patterns
 
-*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§2.2](#22-reductive-evasion).*
+*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§2.2 Reductive Evasion](#22-reductive-evasion).*
 
 The following forms of evasion are prohibited:
 
@@ -131,7 +135,7 @@ The following forms of evasion are prohibited:
   - swapping in measures, indicators, or descriptions that diverge from what the definition is about, while still claiming a pass
   - optimizing for a score or measure in ways that make the real-world result the definition requires worse
   - presenting records, artifacts, or evidence that materially misstate what the system actually does or whether it complies
-  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§2.1.1](#211-formal-label-and-representation-gaming))
+  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§2.1.1 Formal Label and Representation Gaming](#211-formal-label-and-representation-gaming))
 - **Scope and boundary tricks** — arranging what gets counted, and when, so the hard parts never get tested:
   - narrowing evaluation or application to leave out system elements, effects, or conditions that matter
   - splitting responsibility across components, actors, or time so no one has to meet the definition for the whole system
@@ -215,7 +219,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 <br>
 
-*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case ([§3.2](#32-standing-effects-at-first-certification)).*
+*In plain terms: when something fails a definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification is a special case ([§3.2 Standing Effects at First Certification](#32-standing-effects-at-first-certification)).*
 
 Material **non-compliance** findings under this chapter or under invoked **Chapter Five** definitions may carry a [Non-Compliance Finding Profile](core_05_band_accountability.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It:
 
@@ -228,11 +232,11 @@ Standing effects depend on who is being assessed and on whether the system is al
 
 #### 3.1 Standing Effects for Already-Certified Systems
 
-If a system is already running under a [system alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — including recognition, conditional recognition, or a revalidation that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_09_standing_assessment.md#verified-inputs-for-standing) may enter. Measure and apply standing under Chapters Nine and Nine. Reopening, withdrawal, or other certification consequences stay under [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#16-reopening-drift-and-non-evasion). They do not replace that system's standing records.
+If a system is already running under a [system alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) — including recognition, conditional recognition, or a revalidation that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_09_standing_assessment.md#verified-inputs-for-standing) may enter. Measure and apply standing under Chapters Nine and Nine. Reopening, withdrawal, or other certification consequences stay under [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion). They do not replace that system's standing records.
 
 #### 3.2 Standing Effects at First Certification
 
-If the system is still in its **first** [system alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and has not yet been recognized — including where recognition is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Eight. That outcome may be conditional recognition, deferred recognition, non-recognition, or a comparable result. Those certification records may still supply verified standing input under [Chapter Eight §15](core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) when the facts support it. This chapter does not require the same standing records that an already-certified running system must receive.
+If the system is still in its **first** [system alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and has not yet been recognized — including where recognition is deferred or refused — verified non-compliance primarily decides the **certification outcome** under Chapter Eight. That outcome may be conditional recognition, deferred recognition, non-recognition, or a comparable result. Those certification records may still supply verified standing input under [Chapter Eight §15 Relationship to Standing](core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing) when the facts support it. This chapter does not require the same standing records that an already-certified running system must receive.
 
 #### 3.3 Standing Effects for Sentients and Institutions
 

@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
+<<<<<<< HEAD
 """Tests for MD-LIST-INTRO-01 and MD-HTML-HEADING-01."""
+=======
+"""Tests for MD-LIST-INTRO-01 and MD-HTML-BLOCK-BLANK-01."""
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 from __future__ import annotations
 
@@ -12,7 +16,11 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_markdown_audit import (
+<<<<<<< HEAD
     check_heading_swallowed_by_html_block,
+=======
+    check_html_block_following_blank,
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
     check_list_intro_colon,
 )
 
@@ -151,6 +159,7 @@ class ListIntroColonTests(unittest.TestCase):
         self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
 
 
+<<<<<<< HEAD
 class HtmlBlockHeadingTests(unittest.TestCase):
     def check(self, lines: list[str]) -> list[str]:
         return check_heading_swallowed_by_html_block(lines, "core_example.md")
@@ -185,6 +194,37 @@ class HtmlBlockHeadingTests(unittest.TestCase):
 
     def test_fenced_example_is_skipped(self) -> None:
         self.assertEqual(self.check(["```", "<br>", "### not real", "```"]), [])
+=======
+class HtmlBlockFollowingBlankTests(unittest.TestCase):
+    def test_heading_directly_after_br_fails(self) -> None:
+        lines = ["</details>", "", "<br>", "### Part B: Personhood", "", "Body."]
+        errors = check_html_block_following_blank(lines, "core_example.md")
+        self.assertEqual(len(errors), 1)
+        self.assertIn("core_example.md:4:", errors[0])
+        self.assertIn("MD-HTML-BLOCK-BLANK-01", errors[0])
+
+    def test_blank_line_after_br_passes(self) -> None:
+        lines = ["<br>", "", "### Part B: Personhood"]
+        self.assertEqual(check_html_block_following_blank(lines, "core_example.md"), [])
+
+    def test_br_variants_and_closing_details_fail(self) -> None:
+        for tag in ("<br/>", "<br />", "<BR>", "</details>", "</div>"):
+            with self.subTest(tag=tag):
+                errors = check_html_block_following_blank([tag, "Prose."], "x.md")
+                self.assertEqual(len(errors), 1)
+
+    def test_html_directly_after_br_passes(self) -> None:
+        lines = ["<br>", "<details>", "<summary>Trace</summary>", "</details>", ""]
+        self.assertEqual(check_html_block_following_blank(lines, "core_example.md"), [])
+
+    def test_fenced_example_is_skipped(self) -> None:
+        lines = ["```markdown", "<br>", "### Heading", "```"]
+        self.assertEqual(check_html_block_following_blank(lines, "core_example.md"), [])
+
+    def test_inline_br_in_prose_passes(self) -> None:
+        lines = ["Line one<br>", "Line two"]
+        self.assertEqual(check_html_block_following_blank(lines, "core_example.md"), [])
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 
 if __name__ == "__main__":

@@ -53,13 +53,13 @@ See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); 
 - **Today:** Someone hints that a single-parent home is already a risk. Single parent, chosen family, or non-marital care is treated as incomplete and therefore easier to override.
 - **With this Constitution:** You may form, keep, and leave family and care relationships of your choosing. A one-parent home is not itself a reason to take the child. A lasting split from a child you care for is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 
-See: [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
+See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
 
 **The child’s interests are not a spare argument for the other adult’s convenience.**
 - **Today:** “For the child” is used to move the child, change who they live with, or put another adult in charge — without asking what actually helps this child, and without asking them as far as they can show what they want.
 - **With this Constitution:** Those decisions have to be about this child’s own interests, including what they can show they want — not about a quieter house, a “complete” family, or an easier adult schedule. Calling it “for the child” is not enough.
 
-See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability).
+See: [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability).
 
 ## What you might reasonably object to
 
@@ -71,7 +71,7 @@ See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sent
 
 - **“I want the other parent out of the picture.”** Protected care relationships run both ways. This text will not make another adult disappear to settle a preference contest.
 
-- **“Work already treats parenting as my scheduling problem.”** The labor protection is in play when scheduling is used to defeat healthcare or survival access ([Article III-D](../../../core_06_rights_part_a.md#article-iii-d-labor-and-economic-floor)). It does not rewrite every gig platform’s shift board for comfort.
+- **“Work already treats parenting as my scheduling problem.”** The labor protection is in play when scheduling is used to defeat healthcare or survival access ([Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)). It does not rewrite every gig platform’s shift board for comfort.
 
 ## What this will not pretend to give you
 
@@ -82,5 +82,5 @@ See: [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sent
 
 ## If you want to look further
 
-- Public door: [`../../../START_HERE.md`](../../../START_HERE.md)
+- Public door: [`../../../README.md`](../../../README.md)
 - Sibling briefs: [`README.md`](README.md) — [E01](E01_pregnant_reproducing.md) before birth; [E05](E05_disability.md) if extra support needs are in the household; [E18](E18_caregiver_of_adult.md) if the unpaid care is for an adult

@@ -102,7 +102,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 하류: 원칙: [전문 §3.3 거버넌스 층 규율](core_00_preamble.md#33-governance-layers); [제1장 §5 자유](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- 주관 바닥: [제12장: 헌법 계약, 정당성, 수권, 책임 있는 관리](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [제 IX-C조: 거버넌스 참여와 투표 자격](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- 주관 바닥: [제12장: 헌법 계약, 정당성, 수권, 책임 있는 관리](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship); [제 X-C조: 거버넌스 참여와 투표 자격](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - 무리 구성 요소: [*헌법 계약 층과 기초 헌법 선택*](core_05_band_integrative.md#constitutional-contract-layer)
 - 함께 읽기: [기초 헌법 선택](core_05_band_integrative.md#foundational-constitutional-choice), [구속력 있는 영향받는 쪽 선택](core_05_band_participation.md#binding-stakeholder-choice-cluster), [영향받는 쪽 지위와 무게](core_05_band_participation.md#stakeholder-status-and-weight-cluster), [거버넌스](core_05_band_accountability.md#governance).
 - 층: **헌법 계약 층 (CCL)** — 누가 통치할 수 있는가, 어떤 정당성 메커니즘으로, 어떤 오래가는 조건 아래에서. **영향받는 쪽의 체계 참여 (SSP)** 와 구별된다.
@@ -123,7 +123,7 @@
     - [기초 헌법 선택](core_05_band_integrative.md#foundational-constitutional-choice);
     - [문서화된 정당성 메커니즘](../../core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) ([제12장 §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) 아래);
     - [채택](../../core_16_amendment_ratification.md#10-ratification-and-adoption)과 [재수권](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) 규칙 ([제12장 §1.3](../../core_13_governance.md#13-recall-class-pathways-and-mid-cycle-transfer-guardrails); [제16장 §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)); 그리고
-    - 통치 권한을 구성하거나 오래가게 재구조화하기 위한 [정치 평등 바닥](../../core_13_governance.md#41-entitlement-and-eligibility) — 자격 있는 감지자는 그 층에서 같은 목소리를 갖는다 ([제 IX-C조](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement)).
+    - 통치 권한을 구성하거나 오래가게 재구조화하기 위한 [정치 평등 바닥](../../core_13_governance.md#41-entitlement-and-eligibility) — 자격 있는 감지자는 그 층에서 같은 목소리를 갖는다 ([제 X-C조](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement)).
   - **범위 밖:**
     - 보통의 영향받는 쪽 자문;
     - 운영 참여;
@@ -131,7 +131,7 @@
     - 구조와 과정이 이미 수권된 뒤의 보통 영역 거버넌스; 그리고
     - 보통의 [영향받는 쪽 무게](core_05_band_participation.md#stakeholder-weight) — 더 영향받는 이에게 더 많은 목소리를 주는 것 — 를 창설이나 재수권 투표를 정하는 데 쓰는 것 ([전문 §3.3 거버넌스 층 규율](core_00_preamble.md#33-governance-layers)).
   - **운영 거처:** [제12장](../../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship)이 이 층의 구속력 있는 수권, 정당성, 책임 있는 관리 규칙을 말한다.
-  - **권리 바닥:** [제 IX-C조](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*거버넌스 참여와 투표 자격*)가 그 제12장 규칙이 좁혀서는 안 되는 평등 참여 자격을 말한다.
+  - **권리 바닥:** [제 X-C조](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*거버넌스 참여와 투표 자격*)가 그 제12장 규칙이 좁혀서는 안 되는 평등 참여 자격을 말한다.
 <a id="constitutional-contract-layer-a"></a>
 - **어떻게 측정하고 평가하는가**
   - **일차 측정:** [책무 측정 가족](core_05_apex_accountability_leg.md#accountability-measurement-family) — *보상 구조, 시장 힘, 답할 의무는 의무를 실제로 유지하는가?* 여기서는 주장된 통치 권력이 실제 헌법 계약 — 문서화된 정당성, 평등한 창설 목소리, 이 헌법에 정합된 채 남는 오래가는 조건 — 에 기대는지 묻는다. 크기, 인기, 시장 도달만으로는 안 된다.
@@ -158,7 +158,7 @@
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 하류: 원칙: [제1장 §5 자유](core_01_a_values_principles.md#5-freedom-bounded-agency); [6. 과정 충돌 해결](#6-process-conflict-resolution).
-- 주관 바닥: [제12장 제1장 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*기초 헌법 선택을 위한 정치 평등 바닥*; *오래가는 정치 목소리 바닥*); [제 IX-C조: 거버넌스 참여와 투표 자격](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement).
+- 주관 바닥: [제12장 제1장 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility) (*기초 헌법 선택을 위한 정치 평등 바닥*; *오래가는 정치 목소리 바닥*); [제 X-C조: 거버넌스 참여와 투표 자격](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - 무리 구성 요소: [*헌법 계약 층과 기초 헌법 선택*](core_05_band_integrative.md#constitutional-contract-layer)
 - 함께 읽기: [헌법 계약 층](core_05_band_integrative.md#constitutional-contract-layer), [영향받는 쪽 대표와 무게 한도 (구속력 있는 영향받는 쪽 선택)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [구속력 있는 영향받는 쪽 선택](core_05_band_participation.md#binding-stakeholder-choice-cluster), [절차 공정](core_05_band_participation.md#procedural-fairness-constitutional).
 - 층: **헌법 계약 층 (CCL)**. 이미 수권된 체계 안의 **영향받는 쪽의 체계 참여 (SSP)** 와 구별된다.
@@ -177,7 +177,7 @@
 
     이것은 [헌법 계약 층](core_05_band_integrative.md#constitutional-contract-layer)에 속한다.
     - 주관자: [제12장 제1장 §4.1](../../core_13_governance.md#41-entitlement-and-eligibility).
-    - 권리 층 포인터: [제 IX-C조](../../core_06_rights_part_b.md#article-ix-c-governance-participation-and-voting-entitlement) (*거버넌스 참여와 투표 자격*).
+    - 권리 층 포인터: [제 X-C조](../../core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*거버넌스 참여와 투표 자격*).
     - [감지 비배제](core_05_band_participation.md#sentience-non-exclusion) 아래에서 적용된다.
   - **범위 밖:**
     - 영역이 이미 수권된 통치 구조와 과정을 가진 뒤의 보통의 영향에 맞춰 무게를 둔 영향받는 쪽 결정 — 영향받는 감지자는 [영향받는 쪽](core_05_band_participation.md#stakeholder) 식별과 [영향받는 쪽 무게](core_05_band_participation.md#stakeholder-weight)를 통해, 얼마나 영향받는지에 맞춰 세기가 조절된 목소리를 얻는다 (**제 XI조** (*영향받는 쪽의 체계 참여, 대표, 적법절차*) 제약을 포함). 같은 무게의 창설 집계 규칙이 아니다; 그리고

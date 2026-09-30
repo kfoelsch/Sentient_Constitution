@@ -24,4 +24,4 @@ The following gates pass against the repaired working tree:
 - `make section-cite-name-audit-test` — 14 tests pass.
 - Fossil-anchor, corpus-Markdown, navigation-spacer, Chapter Five entry-format, lexical-vocabulary, reference, citation-name, section-label, and `git diff --check` gates pass.
 
-The full regression run includes the repository's static scenario gate; it is not evidence of live institutional performance. The remaining practical validation and coverage tasks stay open in [TODO.md](../../TODO.md).
+The full regression run includes the repository's static scenario gate; it is not evidence of live institutional performance. The remaining practical validation and coverage tasks stay open in [TODO.md](../../project/TODO.md).

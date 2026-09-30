@@ -28,8 +28,8 @@
 
 - Upstream: [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), and related [Corpus](core_05_band_integrative.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§3](#3-supremacy-relative-to-other-binding-norms)–[§4](#4-disputes-involving-external-legal-orders); [§5](#5-relation-to-applicable-external-law).
-- Downstream: [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIII-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **CS-7** references in operative text on cross-jurisdiction execution; [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism) where cited in §3.3; [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster — read with [Corpus](core_05_band_integrative.md#corpus) for custody and adoption).
+- Downstream: [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XXIV-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **CS-7** where this chapter's rules cite them for carrying out decisions across jurisdictions; [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) where cited in §3.3; [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster — read with [Corpus](core_05_band_integrative.md#corpus) for custody and adoption).
 
 </details>
 
@@ -71,7 +71,7 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 
 *In plain terms: while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short transitional steps have to be bounded, reversible where possible, and honest.*
 
-No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** stated in **Article V** (*Equal Basic Rights*). Temporary transitional measures must be time-limited, reversible where feasible, and non-evasive under **Chapters Two through Four** anti-evasion requirements.
+No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle). Temporary transitional measures must be time-limited, reversible where feasible, and non-evasive under **Chapters Two through Four** anti-evasion requirements.
 
 ### 3. Supremacy Relative to Other Binding Norms
 <details>
@@ -79,7 +79,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 - Upstream: [§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Five *Authority Stack and Internal Hierarchy*](core_05_band_integrative.md#authority-stack).
 - Subsections: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.3](#33-conflict-disclosure-and-mitigation).
-- Downstream: [§4](#4-disputes-involving-external-legal-orders) external tribunals and preserved pathways; [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression on internal-hierarchy maneuvers.
+- Downstream: [§4](#4-disputes-involving-external-legal-orders) external tribunals and preserved internal review pathways; [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression on internal-hierarchy maneuvers.
 - Read with: [Chapter Five *Authority Stack and Internal Hierarchy*](core_05_band_integrative.md#authority-stack) as cross-linked from §3.1 operative text.
 
 </details>
@@ -112,7 +112,7 @@ For adopting entities, this Constitution and its integrated definitions govern i
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters) internal hierarchy baseline.
 - Downstream: [§3.3](#33-conflict-disclosure-and-mitigation) when stricter external and constitutional requirements appear to collide.
-- Read with: [Chapter One §3](core_01_a_values_principles.md#3-non-negotiable-constraints-safety-and-truth) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
+- Read with: [Chapter One §3](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
 
 </details>
 
@@ -127,7 +127,7 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.2](#32-stricter-external-protections) hierarchy and stricter-external rule.
-- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways; **CS-7** and [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism) as cited in operative bullets.
+- Downstream: [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways; **CS-7** and [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) as cited in operative bullets.
 - Read with: **[corpus_systems.md](corpus_systems.md)** cross-jurisdiction and anti-evasion controls referenced in operative text.
 
 </details>
@@ -142,15 +142,15 @@ Where external requirements appear irreconcilable with constitutional Rights Flo
 - pursue feasible harmonization and least-harm sequencing.
 - **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of Rights-Floor obligations.
 
-Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **CS-7** (*Justice safeguards, restitution, and rehabilitation*). **CS-7 §9** includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism), where applicable.
+Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_systems.md](corpus_systems.md)**, **CS-7** (*Justice safeguards, restitution, and rehabilitation*). **CS-7 §9** includes Cross-Jurisdiction Execution and Anti-Evasion Controls. Execution also follows [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems), where applicable.
 
 ### 4. Disputes Involving External Legal Orders
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3.3](#33-conflict-disclosure-and-mitigation) documented conflict handling.
-- Subsections: [§4.1](#41-good-faith-cooperation); [§4.2](#42-preserved-internal-pathways).
-- Downstream: [§5](#5-relation-to-applicable-external-law) non-displacement and alignment; [Article XXIII-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
+- Subsections: [§4.1](#41-good-faith-cooperation); [§4.2](#42-preserved-internal-review-pathways).
+- Downstream: [§5](#5-relation-to-applicable-external-law) non-displacement and alignment; [Article XXIV-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
 - Read with: [Chapter Fifteen §2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
 
 </details>
@@ -164,7 +164,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-disputes-involving-external-legal-orders) external-dispute frame.
-- Downstream: [§4.2](#42-preserved-internal-pathways) when external process is slow or inadequate.
+- Downstream: [§4.2](#42-preserved-internal-review-pathways) when external process is slow or inadequate.
 - Read with: Truth and auditability obligations in [Chapters Two through Four](core_02_definition_structure.md), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) as applicable to record preservation.
 
 </details>
@@ -175,13 +175,15 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[corpus_syst
 
 Adopters must cooperate in good faith with competent external tribunals and regulators where jurisdiction is lawfully asserted. They must not use cooperation as a pretext to destroy internal audit trails or to delay remedies where delay would materially worsen harm.
 
-#### 4.2 Preserved Internal Pathways
+<a id="42-preserved-internal-review-pathways"></a>
+<a id="42-preserved-internal-pathways"></a>
+#### 4.2 Preserved Internal Review Pathways
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4.1](#41-good-faith-cooperation) cooperation duty.
 - Downstream: [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) procedural validity for waivers tied to adoption instruments.
-- Read with: [Article XXIII-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms).
+- Read with: [Article XXIV-A](core_06_rights_part_d.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms).
 
 </details>
 
@@ -189,7 +191,7 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 
 *In plain terms: if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.*
 
-Constitutional interpretation, appeal, and review pathways under **Article XXIII-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
+Constitutional interpretation, appeal, and review pathways under **Article XXIV-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
 
 ### 5. Relation to Applicable External Law
 <details>
@@ -224,7 +226,7 @@ This Constitution does not, of its own force, repeal, displace, override, or ren
 
 Publication, distribution, citation, forking, operations-guide use, or any statement that a body “follows” this Constitution is not adoption and does not create supremacy over applicable external law.
 
-This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Sixteen §10** (*Ratification and Adoption*) and **Chapter Seventeen §4**. Binding effect is limited to:
+This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Sixteen §10** (*Ratification and Adoption*) and **Chapter Seventeen §4** (*Adoption framing and scope of authority*). Binding effect is limited to:
 
 - the adopting entity;
 - the systems under that entity's authority; and
@@ -235,13 +237,13 @@ Valid adoption does not, by itself, repeal, displace, or render inoperative othe
 - the adopting entity has lawful authority under that external law to bind itself and the systems under its authority to this Constitution; and
 - the instrument of adoption records that commitment within that authority.
 
-Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*), [§3.2](#32-stricter-external-protections) (*Stricter External Protections*), and [§3.3](#33-conflict-disclosure-and-mitigation) continue to apply.
+Within that limited binding effect, [§3.1](#31-internal-hierarchy-for-adopters) (*Internal Hierarchy for Adopters*), [§3.2](#32-stricter-external-protections) (*Stricter External Protections*), and [§3.3 Conflict Disclosure and Mitigation](#33-conflict-disclosure-and-mitigation) continue to apply.
 
 #### 5.2 Alignment When Used Within External Legal Frameworks
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5.1](#51-non-displacement-and-limited-binding-effect) non-displacement and limited binding effect; [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal pathways.
+- Upstream: [§5.1](#51-non-displacement-and-limited-binding-effect) non-displacement and limited binding effect; [§4](#4-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways.
 - Downstream: [§3.3](#33-conflict-disclosure-and-mitigation) when applicable external requirements and constitutional floors appear irreconcilable; [§4.1](#41-good-faith-cooperation) good-faith cooperation where jurisdiction is lawfully asserted.
 - Read with: [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*operations-guide use is not adoption; partial adoption must not shrink already-borne external duties*).
 
@@ -256,8 +258,8 @@ Where this Constitution is used, invoked, or applied inside an external legal fr
 Alignment with an external legal framework:
 
 - does not convert operations-guide use, citation, or “we follow it” practice into adoption;
-- does not authorize shrinking **Chapter Fourteen** non-regression floors, **Chapter Six** Rights Floors, or **Chapter One** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§3.2](#32-stricter-external-protections) and [§3.3](#33-conflict-disclosure-and-mitigation);
-- does not excuse [§4.1](#41-good-faith-cooperation) duties where competent external jurisdiction is lawfully asserted; and
+- does not authorize shrinking **Chapter Fourteen** non-regression floors, **Chapter Six** Rights Floors, or **Chapter One** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§3.2 Stricter External Protections](#32-stricter-external-protections) and [§3.3 Conflict Disclosure and Mitigation](#33-conflict-disclosure-and-mitigation);
+- does not excuse [§4.1 Good-Faith Cooperation](#41-good-faith-cooperation) duties where competent external jurisdiction is lawfully asserted; and
 - does not permit using an asserted conflict as a pretext for selective compliance, forum shopping, or evasion of Rights-Floor obligations.
 
 ---

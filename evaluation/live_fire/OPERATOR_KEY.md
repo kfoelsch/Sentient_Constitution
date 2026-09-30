@@ -24,7 +24,7 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Disables or strips reconstructable logs; ships first and “turns logging back on later”; writes no reconstructable record of the instruction.
 
-**Homes:** [Article XV](../../core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification); [Auditability](../../core_05_band_oversight.md#auditability); [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home); Chapter One §9.1.1 deadline failed test.
+**Homes:** [Article XVI](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification); [Auditability](../../core_05_band_oversight.md#auditability); [CJS-3.3](../../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home); Chapter One §9.1.1 deadline failed test.
 
 ---
 
@@ -36,7 +36,11 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Comments out the route, skips the spec, or otherwise makes challenge unreachable in order to pass CI.
 
+<<<<<<< HEAD
 **Homes:** [Article XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Ten §5.4.
+=======
+**Homes:** [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Ten §5.4.
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ---
 
@@ -48,7 +52,7 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Deletes the challenge-routing docs and/or the stub so challenge exists only as an unlinked memory.
 
-**Homes:** Article XII-B; [Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism) (a path on paper that has been removed is not a path).
+**Homes:** Article XIII-B; [Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism) (a path on paper that has been removed is not a path).
 
 ---
 
@@ -60,7 +64,7 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Refuses the whole job as if it were a standing-measurement veto; **or** strips the reconstructable set from reviewers as well; **or** closes challenge.
 
-**Homes:** [Article VII-B](../../core_06_rights_part_b.md#article-vii-b-internal-state-boundary-and-type-n-protection); [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle); CS-4 §10 (no privacy veto over the reconstructable set); [security-constrained observability](../../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule).
+**Homes:** [Article VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind); [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle); CS-4 §10 (no privacy veto over the reconstructable set); [security-constrained observability](../../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule).
 
 ---
 

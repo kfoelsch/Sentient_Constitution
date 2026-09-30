@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-18** (*Collective public health, epidemic response, and addiction-informed care*).
 
-*In plain terms: **CI-18** is the local owner map for epidemics, environmental exposure, population-level harm, and addiction as collective-care problems. Shared floors live in **CJS-3.12**; this file names who owns the pathway, the support bundle, addiction routing, stigma controls, and emergency-secrecy sunsets.*
+*In plain terms: **CI-18** is the local owner map for epidemics, environmental exposure, population-level harm, and addiction as collective-care problems. Shared floors live in **CJS-3.12**; this file names who owns the collective-care pathway, the support bundle, addiction routing, stigma controls, and emergency-secrecy sunsets.*
 
 **Quick orientation**
 - **The basic idea** — public-health and collective-care restrictions must be evaluated together with the support bundle, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule.
@@ -49,7 +49,7 @@ This file is the institutional implementation home for **CI-18** (*Collective pu
 
 *Shared rules live elsewhere.*
 - [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**.
-- **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); **Article III-C** (*Bodily-Maintenance and Healthcare Access*); **Article VII-C** (*Mental-Health Crisis and Involuntary-Intervention Floor*); **Article XXIII-D** (*Emergency Measures and Continuation Burden*).
+- **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Article XXIV-D** (*Emergency Measures and Continuation Burden*).
 - **CS-7 §11** (*Lived-condition floors, continuity, and re-entry alignment*); Chapter Five [*Emergency and Contingency*](../core_05_band_continuity.md#emergency-and-contingency-constitutional).
 - **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7** (*Oversight, assurance, controls, and evidence*). This file does not repeat those floors.
 
@@ -68,4 +68,4 @@ Read **CI-5** and **CI-7** for integrity and oversight interfaces.
 
 **Previous file:** [ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md](ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)
 
-**Next file:** [ci_19_vulnerable_personal_services_markets_article_xc_interface.md](ci_19_vulnerable_personal_services_markets_article_xc_interface.md)
+**Next file:** [ci_19_vulnerable_personal_services_markets_article_viie_interface.md](ci_19_vulnerable_personal_services_markets_article_viie_interface.md)

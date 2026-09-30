@@ -32,7 +32,7 @@ INCLUDE_GLOBS = [
     "corpus_institutions/**/*.md",
     "ai_corpus/**/*.md",
     "implementation/**/*.md",
-    "plans/**/*.md",
+    "project/plans/**/*.md",
 ]
 
 EXCLUDE_SUBSTR = [

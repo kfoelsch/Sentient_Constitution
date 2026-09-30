@@ -12,10 +12,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad) (accountability leg; [material stake](../core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](../core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](../core_00_preamble.md#flourishing).
-- Downstream: Principles: [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape); [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition); Accountability-band leaf definitions in [core_05_band_accountability.md](core_05_band_accountability.md).
+- Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (accountability leg; [material stake](core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](core_00_preamble.md#flourishing).
+- Downstream: Principles: [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline); [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape); [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition); Accountability-band leaf definitions in [core_05_band_accountability.md](core_05_band_accountability.md).
 - Sibling Tetrad leg: [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [Chapter One §12.6](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape), [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), and [Chapter Ten §9.1](core_10_standing_integration.md#91-remediation-capacity-and-funding) / [§9.4](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
+- Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [Chapter One §12.6](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape), [Chapter Three §2.1.1 Formal Label and Representation Gaming](core_03_definition_integrity.md#211-formal-label-and-representation-gaming), and [Chapter Ten §9.1](core_10_standing_integration.md#91-remediation-capacity-and-funding) / [Chapter Ten §9.4](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
 
@@ -27,24 +27,25 @@
 
 <a id="accountability"></a>
 
-#### Accountability
-
-- O: Hold actors answerable — the Tetrad leg this entry names.
+- **What it is**
+  - Hold actors answerable — the Tetrad leg this entry names.
   - **In scope:** Material decisions, failures, and behaviors can be attributed to identifiable actors, roles, or system components, who can be answered for through review, [redress](core_05_band_accountability.md#redress-and-remediation-constitutional), or correction proportional to impact.
   - **Depends on:** [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional) — the conditions and channels this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
-  - Out of scope: the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
+  - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
 <a id="accountability-m"></a>
-- M: How to tell whether answerability is real in practice. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
 <a id="accountability-a"></a>
-- A: Judge under the [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad), scaled to [material stake](../core_00_preamble.md#material-stake). Ask whether accountability is real — attribution chains, records, and functional recourse work under normal, degraded, and adversarial conditions — not just ceremony.
+- **How to measure and assess**
+  - **Primary measure:** How to tell whether answerability is real in practice. This line only points to the measures; the how-to-measure rules sit on each linked definition. Topic map: [Tetrad Leg decomposition](#accountability-tetrad-leg-decomposition).
+  - **Primary assessment:** Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). Ask whether accountability is real — attribution chains, records, and functional recourse work under normal, degraded, and adversarial conditions — not just ceremony.
 <a id="accountability-c"></a>
-- C: Non-compliant when:
-  - material harm is unattributable;
-  - accountability pathways are non-functional or illusory where accountability is materially required;
-  - labels or ceremonies that do not actually change the governed behavior;
-  - attribution exists in form while affected parties lack functional [Contestability](core_05_band_accountability.md#contestability) to invoke review, redress, or correction;
-  - verified duties are extinguished by receivership, restructuring, asset transfer, dissolution, or comparable formal-structure change alone; or
-  - successor or estate arrangements leave material obligations unassigned or practically unenforceable where proportionate transfer or satisfaction was feasible.
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - material harm is unattributable;
+    - accountability pathways are non-functional or illusory where accountability is materially required;
+    - labels or ceremonies that do not actually change the governed behavior;
+    - attribution exists in form while affected parties lack functional [Contestability](core_05_band_accountability.md#contestability) to invoke review, redress, or correction;
+    - verified duties are extinguished by receivership, restructuring, asset transfer, dissolution, or comparable formal-structure change alone; or
+    - successor or estate arrangements leave material obligations unassigned or practically unenforceable where proportionate transfer or satisfaction was feasible.
 
 ---
 
@@ -85,7 +86,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 *In plain terms: these questions ask whether rewards, markets, and answerability keep accountability real in practice — not merely present on paper.*
 
-*Chapter Five home for the Accountability measurement family. Preamble §2 keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
+*Chapter Five home for the Accountability measurement family. Preamble §2 (*Measurements Overview*) keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
 
 *Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 

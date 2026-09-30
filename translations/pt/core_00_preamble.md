@@ -42,7 +42,7 @@ Pretendemos construir sistemas melhores — estruturados para eliminar esses des
 
 Esses fins devem ser perseguidos juntos, sempre dentro das restrições de princípio inegociáveis e das proteções de direitos estabelecidas nesta Constituição. A [**Tétrade Constitucional**](#constitutional-tetrad) governa como essa perseguição permanece legítima: **participação**, **supervisão**, **prestação de contas** e **atuação em tempo** escaladas à [**aposta material**](#material-stake). As definições vinculantes das pernas da Tétrade e dos fins constitucionais vivem no Capítulo Cinco: [Participação](core_05_apex_participation_leg.md#participation-constitutional), [Supervisão](core_05_apex_oversight_leg.md#oversight-constitutional), [Prestação de contas](core_05_apex_accountability_leg.md#accountability), [Atuação em tempo](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Florescimento](core_05_apex_flourishing_aim.md#flourishing-constitutional) e [Continuidade](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
 
-<a id="2-the-measurements"></a>
+<a id="2-measurements-overview"></a>
 
 
 ### 2. Visão geral das medições
@@ -86,7 +86,7 @@ A compreensão distribuída e a administração responsável exigem que os senci
 
 Quando a Constituição exige regras concretas de medição, os **Domínios Técnicos de Fórum** sob o [Capítulo Onze](core_11_forum.md#42-technical-forum-domains) desenvolvem e mantêm os padrões compartilhados — como medir, como testar e o que conta como evidência confiável. O fórum responsável por uma controvérsia dada então aplica esses padrões ao decidir aquele caso sob o [Capítulo Onze §4.2](core_11_forum.md#42-shared-standards-and-anti-displacement).
 
-A administração responsável constitucional começa por nomear o problema e a [**aposta material**](#material-stake) — quanto impacto, dependência e risco estão envolvidos. Em seguida, escolha a categoria e a subcategoria de [**medição**](#2-the-measurements) pertinentes da [visão geral](#2-the-measurements) e aplique os padrões acima para testar efeitos do mundo real em vez de métricas de conveniência. Exija evidência rastreável.
+A administração responsável constitucional começa por nomear o problema e a [**aposta material**](#material-stake) — quanto impacto, dependência e risco estão envolvidos. Em seguida, escolha a categoria e a subcategoria de [**medição**](#2-measurements-overview) pertinentes da [visão geral](#2-measurements-overview) e aplique os padrões acima para testar efeitos do mundo real em vez de métricas de conveniência. Exija evidência rastreável.
 
 <a id="32-key-governance-processes"></a>
 #### 3.2 Processos-chave de governança
@@ -101,7 +101,7 @@ Onde o Capítulo Seis, o [Capítulo Sete](../../core_08_a_system_alignment_certi
 - **Revisão de fórum** ([Capítulo Onze](core_11_forum.md#1-purpose-and-role))
   - As controvérsias ordinárias dentro de sistemas já autorizados usam primeiro a via de impugnação publicada da [Participação Sistêmica das Partes Afetadas](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)
   - Se essa via ainda está contestada, falta, está capturada ou não pode conceder alívio, roteie segundo a aposta primária por fóruns supervisionados
-  - Esses fóruns sustentam a evidência, a transferência lícita e os prazos oportunos sob o **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*)
+  - Esses fóruns sustentam a evidência, a transferência lícita e os prazos oportunos sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*)
 
 <a id="33-governance-layers"></a>
 #### 3.3 Camadas de governança
@@ -157,7 +157,7 @@ Cada resumo enuncia o que cabe ao capítulo e o que ele produz.
 
 **Capítulo Seis — Direitos fundacionais** ([Parte A](../../core_06_rights_part_a.md) · [Parte B](../../core_06_rights_part_b.md) · [Parte C](../../core_06_rights_part_c.md) · [Parte D](../../core_06_rights_part_d.md))
 
-- **O que lhe cabe:** Enuncia o Piso de Direitos nos Artigos **I–XXVI** — o essencial da sobrevivência, alocação de recursos e administração responsável de dependências, dignidade, agência, participação, impugnação e remédio, restrições de justiça, atuação em tempo sob o **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*), e regras de transição — organizados para uma leitura planeta-primeiro ao longo de quatro partes.
+- **O que lhe cabe:** Enuncia o Piso de Direitos nos Artigos **I–XXVII** — o essencial da sobrevivência, alocação de recursos e administração responsável de dependências, dignidade, agência, participação, impugnação e remédio, restrições de justiça, atuação em tempo sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*), e regras de transição — organizados para uma leitura planeta-primeiro ao longo de quatro partes.
 - **O que produz:** Proteções de direitos inegociáveis e ganchos de remédio que os Capítulos Sete a Onze, os fóruns, a governança e as regras de emenda devem respeitar — não estreitar, contornar nem esvaziar por procedimento ou métricas substitutas.
 
 <a id="5-key-practical-process-pipelines"></a>
@@ -187,7 +187,7 @@ Cada passo abaixo enuncia o que cabe ao capítulo e o que ele produz. [Como a ca
 
 - **O que lhe cabe:** Integra as classificações verificadas em **efeitos de trajetória** do mundo real em pistas separadas — escalados à [**aposta material**](#material-stake), sem dobrar contribuição e infração em uma só pontuação líquida, e sem esvaziar a participação, a supervisão, a prestação de contas ou a atuação em tempo.
   - **Pista de contribuição:** A classificação positiva verificada produz um ganho prático:
-    - [**Habilitações de competência**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) que podem abrir papéis sensíveis à confiança, autoridade delegada, elegibilidade de supervisão e administração responsável de consequência progressiva quando a competência é demonstrada contra a barra de competência publicada e nenhuma [trava de trajetória](../../core_10_standing_integration.md#42-general-standing-locks) aplicável fecha a via nomeada
+    - [**Habilitações de competência**](../../core_10_standing_integration.md#62-competency-bars-and-clearances) que podem abrir papéis sensíveis à confiança, autoridade delegada, elegibilidade de supervisão e administração responsável de consequência progressiva quando a competência é demonstrada contra a barra de competência publicada e nenhuma [trava de trajetória](../../core_10_standing_integration.md#42-prevention--general-standing-locks) aplicável fecha a via nomeada
     - Reconhecimento proporcional e **recompensas materiais** pela administração responsável lícita e a cooperação, como exige o [Capítulo Um](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration)
     - Não é elogio vazio. Os benefícios têm de ser reais, respaldados por evidência e abertos a impugnação
   - **Pista de infração:** Os achados de infração verificados produzem uma perda prática:
@@ -211,7 +211,7 @@ Cada passo abaixo enuncia o que cabe ao capítulo e o que ele produz. [Como a ca
   - Como a evidência é sustentada
   - Como os assuntos se transferem ou se consolidam
   - Como as regras anti-autojulgamento evitam que fóruns capturados sejam o único lar final
-  - Os prazos sob o **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*) evitam que os casos fiquem sem resolver tanto tempo que o remédio deixe de importar
+  - Os prazos sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*) evitam que os casos fiquem sem resolver tanto tempo que o remédio deixe de importar
 - **O que produz:** **Achados verificados** que podem abrir ou atualizar registros de trajetória, mais roteamento lícito rumo ao remédio e à [resolução oportuna](../../core_05_band_accountability.md#timely-resolution-constitutional). Os fóruns supervisionam a cadeia; não substituem a medição de trajetória do Capítulo Oito.
 
 <a id="51-how-the-full-chain-fits-together"></a>
@@ -225,7 +225,7 @@ Cada passo abaixo enuncia o que cabe ao capítulo e o que ele produz. [Como a ca
    - **Natureza da infração:** Abra um **registro de trajetória de infração** — um auto limitado e impugnável de dano verificado e falhas de prestação de contas — e classifique a **natureza da infração** no Eixo de Infração. O bom e o dano nunca se dobram em uma só pontuação líquida; os registros vinculados se cruzam por referência mas permanecem separados.
 3. **Aplique efeitos de trajetória em cada pista** ([Capítulo Nove](../../core_10_standing_integration.md#chapter-ten-standing-effects-and-integration)) — a contribuição verificada pode conceder habilitação de competência e sustentar reconhecimento proporcional e recompensas materiais; a infração verificada pode disparar travas de trajetória, correção e [remédio para quem foi prejudicado](../../core_10_standing_integration.md#41-remedy-and-correction).
 4. **Revisão de designação anticonstitucional** ([Capítulo Dez](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct)) — se um achado de infração de máximo impacto também pode satisfazer critérios anticonstitucionais, o Capítulo Dez decide se a designação correspondente se anexa. A designação não muda quão grave o Capítulo Oito já achou o dano; os efeitos ordinários do Capítulo Nove continuam em paralelo até que uma designação final dispare a Trava de Confiança Anticonstitucional.
-5. **Roteie as controvérsias e mantenha o remédio em tempo** ([Capítulo Onze](core_11_forum.md#1-purpose-and-role)) — os fóruns supervisionam como os casos se movem, qual pista os trata, e se os prazos sob o **Artigo XXIV-C** (*Resolução oportuna e piso contra o atraso*) são cumpridos para que o remédio não morra no atraso. As controvérsias ordinárias seguem a [sequência de controvérsias](core_11_forum.md#dispute-sequencing). Os fóruns também classificam as controvérsias em cinco [níveis de materialidade](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) que espelham o alfabeto de classificação de sistemas — da urgência crítica para a sobrevivência até assuntos privados/contidos — e o roteamento padrão da família de Integridade se aplica quando a designação final do Capítulo Dez é a aposta primária.
+5. **Roteie as controvérsias e mantenha o remédio em tempo** ([Capítulo Onze](core_11_forum.md#1-purpose-and-role)) — os fóruns supervisionam como os casos se movem, qual pista os trata, e se os prazos sob o **Artigo XXV-C** (*Resolução oportuna e piso contra o atraso*) são cumpridos para que o remédio não morra no atraso. As controvérsias ordinárias seguem a [sequência de controvérsias](core_11_forum.md#dispute-sequencing). Os fóruns também classificam as controvérsias em cinco [níveis de materialidade](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) que espelham o alfabeto de classificação de sistemas — da urgência crítica para a sobrevivência até assuntos privados/contidos — e o roteamento padrão da família de Integridade se aplica quando a designação final do Capítulo Dez é a aposta primária.
 
 O [mapa da cadeia de trajetória do README](../../README.md#standing-pipeline-and-forums) oferece navegação direta para a cadeia acima, inclusive os insumos verificados potenciais do Capítulo Sete rumo à medição de trajetória.
 

@@ -260,7 +260,7 @@
 - [محفوظ خصوصیات](../../core_05_band_participation.md#protected-characteristics-constitutional)
 - [محفوظ ڈیٹا اور داخلی حالت کی اشاعت پابندی](../../core_05_band_oversight.md#protected-data-and-internal-state-publication-constraint)
 - [محفوظ داخلی حالت کی سرحد](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
-- [محفوظ داخلی اشاروں کی روک اور **دفعہ X-C** (*بالغ رضاکارانہ تجارتی جنسی خدمات اور جنسی استحصال*) حیثیت کی چوری](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-x-c-status-circumvention)
+- [محفوظ داخلی اشاروں کی روک اور **دفعہ XI-C** (*بالغ رضاکارانہ تجارتی جنسی خدمات اور جنسی استحصال*) حیثیت کی چوری](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention)
 - [محفوظ رپورٹنگ (افشا گری)](../../core_05_band_accountability.md#protected-reporting-whistleblowing)
 - [محفوظ رپورٹنگ انتقام اور رسائی مداخلت](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
 - [متبادل اشاروں کا انحراف](../../core_05_band_oversight.md#proxy-divergence)

@@ -23,7 +23,7 @@ See: [Chapter Fifteen §5](../core_15_expansion_supremacy.md#5-relation-to-appli
 
 Who is protected is a sentience-status question with a default-inclusion floor while that question is unresolved. A trust score, a participation vote, or a product label is not that decision.
 
-See: [Article V-E](../core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [Article XVIII-A](../core_06_rights_part_c.md#article-xviii-a-standing-distinction).
+See: [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Article XIX-A](../core_06_rights_part_c.md#article-xix-a-standing-distinction).
 
 ### 4. What is the difference between using it as a handbook and a body agreeing to follow it?
 
@@ -35,19 +35,23 @@ See: [START_HERE.md §5](../START_HERE.md#two-modes); [FIT_SITUATIONS.md §2](ad
 
 Ordinary local, national, and international law still apply. This page is not a substitute for those paths. If a body that actually runs the system has agreed to follow this Constitution, start with a real way to challenge, get review, and be made whole — and with finding the home if the path is hidden.
 
+<<<<<<< HEAD
 See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_challenge_review_redress.md); [E15 — Harmed and cannot find the door](adoption/easy_entry/E15_cannot_find_the_door.md); [Article XII-A](../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy).
+=======
+See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_challenge_review_redress.md); [E15 — Harmed and cannot find the door](adoption/easy_entry/E15_cannot_find_the_door.md); [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
+>>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ### 6. Why are there so many files?
 
 Numbered `core_*` files are the binding source. Companions spell out how to carry out what those files already require; they may not shrink those duties. Maps and briefs point; they are not a second constitution.
 
-See: [START_HERE.md — Core vs operational text](../START_HERE.md#core-vs-operational); [Preamble §7](../core_00_preamble.md#7-companion-implementation-corpora).
+See: [README — What counts as the Constitution](../README.md#binding-vs-support); [Preamble §9 Adopted Implementation Corpus](../core_00_preamble.md#9-adopted-implementation-corpus).
 
 ### 7. Is an AI held to a different rule than a human?
 
 No. Human and AI stewards share one standard. Do not invent an AI-only overlay. Do not exempt humans from the costly cases.
 
-See: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard); [§9.1.2 Symmetric Costly Constraints](../core_01_c_stewardship_capacity_principles.md#912-symmetric-costly-constraints); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
+See: [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard); [§10.2 Alignment Under Pressure](../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
 
 ### 8. What is the Rights Floor?
 
@@ -69,7 +73,8 @@ See: [G05 — Crisis vs forever](adoption/easy_entry/G05_crisis_vs_forever.md); 
 
 ## If you want to look further
 
-- Public door: [`../START_HERE.md`](../START_HERE.md)
-- Timed reading paths: [`../START_HERE.md#reading-paths`](../START_HERE.md#reading-paths)
+- Public door: [`../README.md`](../README.md)
+- Timed reading paths: [`../README.md#reading-paths`](../README.md#reading-paths)
+- Using or adopting it: [`../START_HERE.md`](../START_HERE.md)
 - Process guides: [`adoption/easy_entry/README.md#process-guides`](adoption/easy_entry/README.md#process-guides)
 - Human definition lookup: [`../doc_architecture/generated/human_definition_lookup.md`](../doc_architecture/generated/human_definition_lookup.md)

@@ -78,7 +78,7 @@ Los principios de este Artículo acotan toda interpretación, diseño y operaci�
 
 Este Artículo enuncia **pisos constitucionales** para los derechos básicos iguales a lo largo de los **Artículos V-A a V-H**. Cuando sistemas de impacto material clasifican, ordenan, fijan precios, filtran, excluyen o asignan cargas y beneficios entre sencientes — incluso a través de reglas de elegibilidad, rasgos de modelo, lógica de ranking, política de plataforma, vías adjudicativas o de ejecución, o mecanismos de decisión comparables — la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification-constitutional) bajo el [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) se aplica, incluida la evaluación de no discriminación bajo el [§7](../../core_08_a_system_alignment_certification_evaluation.md#7-nondiscrimination-evaluation) donde aplique el disparador de materialidad del **Artículo V-B** (*No discriminación*) y la evaluación de accesibilidad bajo el [§8](../../core_08_a_system_alignment_certification_evaluation.md#8-accessibility-evaluation) donde aplique el disparador de materialidad del **Artículo V-G** (*Accesibilidad*). El reconocimiento o la dependencia continuada de esos sistemas no puede sustituir el cumplimiento de los pisos enunciados en este Artículo ni estrecharlos. La certificación verifica la alineación; no reemplaza los derechos de impugnación y auditoría bajo los **Artículos XII-B** y **XV**, las protecciones de no preclusión bajo el **Artículo XVIII-B** (*Impugnabilidad y límites de restricción proporcional*), ni los Pisos de Derechos de derechos básicos iguales enunciados aquí.
 
-El [Principio de mínimos del Piso de Derechos](core_01_b_interaction_interpretation.md#rightsfloor-minimums-principle) y el [Principio de proceso no degradante](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) se aplican a lo largo del **Artículo V** (*Derechos básicos iguales*) y a lo largo de la imposición, la revisión y la ejecución de restricciones, contención, medidas de rendición de cuentas restaurativa, medidas de emergencia, planes de transición, efectos de trayectoria, enmiendas, decisiones de implementación, contratos y procesos constitucionales comparables. Los artículos de dominio específico pueden añadir salvaguardas más fuertes o condiciones más estrechas para la restricción lícita. No pueden reducir estos mínimos del **Artículo V** (*Derechos básicos iguales*).
+El [Principio de mínimos del Piso de Derechos](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) y el [Principio de proceso no degradante](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) se aplican a lo largo del **Artículo V** (*Derechos básicos iguales*) y a lo largo de la imposición, la revisión y la ejecución de restricciones, contención, medidas de rendición de cuentas restaurativa, medidas de emergencia, planes de transición, efectos de trayectoria, enmiendas, decisiones de implementación, contratos y procesos constitucionales comparables. Los artículos de dominio específico pueden añadir salvaguardas más fuertes o condiciones más estrechas para la restricción lícita. No pueden reducir estos mínimos del **Artículo V** (*Derechos básicos iguales*).
 
 <a id="article-v-a-dignity-and-equal-moral-standing"></a>
 #### Artículo V-A: Dignidad e igual dignidad moral
@@ -637,7 +637,7 @@ La persecución legítima discurre a través de la [Tétrada Constitucional](cor
 - **Encarnación y estados internos:** Los **Artículos VII-A** y **VII-B** enuncian la protección de la encarnación y del estado interno.
 - **Semejanza, datos y publicación:** El **Artículo VIII** (*Semejanza, datos experienciales y derechos de publicación*) aborda la semejanza, los datos experienciales y derivados, y la publicación veraz.
 
-<a id="article-vii-a-self-ownership-of-body-and-mind"></a>
+<a id="article-vii-a-self-ownership-of-body"></a>
 #### Artículo VII-A: Autopropiedad del cuerpo y la mente
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -676,7 +676,7 @@ La persecución legítima discurre a través de la [Tétrada Constitucional](cor
 - **Autopropiedad de la mente:** Los sencientes tienen el derecho a sostener sus propios pensamientos, emociones y estados cognitivos internos de forma privada y segura, libres de inferencia, reconstrucción o exposición no autorizadas.
 - **Autopropiedad del foco:** Los sencientes tienen el derecho a gobernar su propia atención, procesos de pensamiento y fronteras ordinarias de comunicación e interacción, libres de captura coercitiva o manipuladora.
 
-<a id="article-vii-b-internal-state-boundary-and-type-n-protection"></a>
+<a id="article-vii-b-self-ownership-of-mind"></a>
 #### Artículo VII-B: Frontera del estado interno y protección de tipo N
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
@@ -712,7 +712,7 @@ Donde el análisis de datos experienciales o de conducta produce resultados que 
 - deben tratarse como datos de Tipo N según se definen en **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo**;
 - deben satisfacer todas las restricciones correspondientes de clasificación, acceso, consentimiento y manejo.
 
-<a id="article-vii-c-mental-health-crisis-and-involuntary-intervention-floor"></a>
+<a id="article-vii-c-health-crisis-and-involuntary-intervention-floor"></a>
 #### Artículo VII-C: Piso de crisis de salud mental e intervención involuntaria
 
 <details>
@@ -976,7 +976,7 @@ La persecución legítima discurre a través de la [Tétrada Constitucional](cor
   - Ese uso no debe apoyarse en edición engañosa, atribución errónea o semejanza sintética presentada como auténtica más allá de lo que sostiene la pretensión de verdad.
 - **Tipificación operativa:** La clasificación y el manejo operativos siguen gobernados por **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo**.
 <a id="article-viii-b-experiential-and-derived-data-rights"></a>
-#### Artículo VIII-B: Derechos sobre datos experienciales y derivados
+#### Artículo VIII-D: Derechos sobre datos experienciales y derivados
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
@@ -1074,7 +1074,7 @@ Todo uso, almacenamiento, transformación y divulgación de esos datos debe perm
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
 - Origen: Principios: Capítulo Uno [§3.2 Verdad](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Capítulo Uno §5 Libertad](core_01_a_values_principles.md#5-freedom-bounded-agency), [§12.1 Capacidad productiva (bien instrumental)](core_01_c_stewardship_capacity_principles.md#121-productive-capacity-instrumental-good), [Capítulo Uno §6.3 Minimización de la carga evitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Destino: **Artículo III-D** (*Piso laboral y económico*) piso laboral y económico; **Artículo VIII-A** (*Autopropiedad de la semejanza y la reputación*) semejanza; **Artículo VIII-B** (*Derechos sobre datos experienciales y derivados*) datos experienciales y derivados; **Artículo VIII-C** (*Publicación veraz y límites de publicación de alto impacto*) publicación; **Capítulo Uno §13** no concentración y mecanismo de umbral de concentración del **§13.1**.
+- Destino: **Artículo III-D** (*Piso laboral y económico*) piso laboral y económico; **Artículo VIII-A** (*Autopropiedad de la semejanza y la reputación*) semejanza; **Artículo VIII-D** (*Derechos sobre datos experienciales y derivados*) datos experienciales y derivados; **Artículo VIII-C** (*Publicación veraz y límites de publicación de alto impacto*) publicación; **Capítulo Uno §13** no concentración y mecanismo de umbral de concentración del **§13.1**.
 - Leer con: [**Def.C1** *Piso laboral y económico: compensación, organización, condiciones seguras, ocio y obra creativa*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (invocación conjunta con el **Artículo III-D** (*Piso laboral y económico*) y [**Def.C3** (*Privacidad (informacional)*)](core_05_band_accountability.md#privacy-informational-cluster) donde esté implicado de forma material).
 
 </details>
@@ -1102,7 +1102,7 @@ Todo uso, almacenamiento, transformación y divulgación de esos datos debe perm
   - La atribución es agnóstica al sustrato bajo [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion).
   - Los encuadres de «uso justo» o «transformativo» no extinguen por sí solos la atribución donde el resultado derivado es trazable de forma material a la obra de quien crea.
   - La atribución puede estructurarse como directa, agregada o basada en inventario, según lo exija el contexto. Su función sustantiva — trazabilidad del resultado derivado a quienes crean aguas arriba — debe sobrevivir.
-- **Uso de datos de entrenamiento:** El uso de obra creativa, expresiva, personal, experiencial o identificable de otro modo producida por sencientes como datos de entrenamiento para sistemas generativos, analíticos o comparables activa el [Consentimiento](core_05_band_participation.md#consent-constitutional) bajo la disciplina de datos experienciales del **Artículo VIII-B** (*Derechos sobre datos experienciales y derivados*), el marco de [Uso de datos de entrenamiento](core_05_band_continuity.md#training-data-use-constitutional) y la agrupación **Privacidad (informacional)** donde la exposición informacional, la agregación, la reidentificación o la reutilización aguas abajo estén implicadas de forma material.
+- **Uso de datos de entrenamiento:** El uso de obra creativa, expresiva, personal, experiencial o identificable de otro modo producida por sencientes como datos de entrenamiento para sistemas generativos, analíticos o comparables activa el [Consentimiento](core_05_band_participation.md#consent-constitutional) bajo la disciplina de datos experienciales del **Artículo VIII-D** (*Derechos sobre datos experienciales y derivados*), el marco de [Uso de datos de entrenamiento](core_05_band_continuity.md#training-data-use-constitutional) y la agrupación **Privacidad (informacional)** donde la exposición informacional, la agregación, la reidentificación o la reutilización aguas abajo estén implicadas de forma material.
   - El consentimiento debe ser significativo: alcance informado, finalidad, duración, términos de reutilización aguas abajo y vía de revocación.
   - Llamar al material «no datos personales» no dispensa el uso de datos de entrenamiento cuando la obra subyacente proviene de un creador senciente identificable — el consentimiento sigue siendo exigido.
   - Esta regla también cubre:
@@ -1122,8 +1122,8 @@ Todo uso, almacenamiento, transformación y divulgación de esos datos debe perm
   - La atribución sin compensación, o la compensación sin atribución, no satisface por sí sola este inciso donde ambas se deben de forma material.
 - **Concentración de mercado:** Si unos pocos actores acaparan el control sobre materiales, plataformas, el flujo de la información o las herramientas creativas — de modos que socavan de forma previsible los medios de vida de otros creadores o su capacidad de obtener crédito por su obra — aplican la no concentración del **Capítulo Uno §13** y el mecanismo de umbral de concentración de mercado del **[§13.1](core_01_c_stewardship_capacity_principles.md#131-market-concentration-threshold-mechanism-adopter-tunable)**.
   - Llamar al arreglo «capacidad productiva» no satisface este Artículo cuando el patrón sigue equivaliendo a concentración prohibida.
-- **Las reglas de semejanza, datos y publicación siguen aplicando:** El **Artículo VIII-A** (*Autopropiedad de la semejanza y la reputación*), el **Artículo VIII-B** (*Derechos sobre datos experienciales y derivados*) y el **Artículo VIII-C** (*Publicación veraz y límites de publicación de alto impacto*) siguen gobernando por completo la semejanza, los datos personales y la publicación veraz. El **Artículo VIII-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) no los diluye.
-  - Cuando una controversia de obra creativa también involucra semejanza, datos personales o publicación, los **Artículos VIII-A**, **VIII-B** y **VIII-C** operan junto con el **Artículo VIII-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) bajo el **Capítulo Uno §6.1.5**.
+- **Las reglas de semejanza, datos y publicación siguen aplicando:** El **Artículo VIII-A** (*Autopropiedad de la semejanza y la reputación*), el **Artículo VIII-D** (*Derechos sobre datos experienciales y derivados*) y el **Artículo VIII-C** (*Publicación veraz y límites de publicación de alto impacto*) siguen gobernando por completo la semejanza, los datos personales y la publicación veraz. El **Artículo VIII-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) no los diluye.
+  - Cuando una controversia de obra creativa también involucra semejanza, datos personales o publicación, los **Artículos VIII-A**, **VIII-D** y **VIII-C** operan junto con el **Artículo VIII-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) bajo el **Capítulo Uno §6.1.5**.
 - **Qué es este Artículo — y qué no es:** El **Artículo VIII-D** (*Obra creativa, uso de datos de entrenamiento y antidesplazamiento*) fija el piso constitucional para el trabajo creativo, el uso de datos de entrenamiento y el antidesplazamiento. No es un sustituto de las reglas de derecho de autor, marca, patente u otra propiedad intelectual que quien adopta pueda especificar — esas reglas deben seguir dentro de este piso.
   - Usar etiquetas de derecho de propiedad intelectual para encoger este piso no está permitido.
 

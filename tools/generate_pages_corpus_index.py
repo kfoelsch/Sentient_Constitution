@@ -52,7 +52,9 @@ def render(root: Path) -> str:
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> This `/docs` Pages host does **not** copy numbered `core_*` files. Relative `../core_*` links from `docs/` 404. The links below open the same files in the repository. A **full render** (same files, assembled at build time, not a second constitution) is `make pages-site` and `.github/workflows/pages.yml` — set GitHub Pages source to GitHub Actions. If this page and a `core_*` file disagree, the `core_*` file wins. Canonical public door: [START_HERE.md]("
+        "> This `/docs` Pages host does **not** copy numbered `core_*` files. Relative `../core_*` links from `docs/` 404. The links below open the same files in the repository. A **full render** (same files, assembled at build time, not a second constitution) is `make pages-site` and `.github/workflows/pages.yml` — set GitHub Pages source to GitHub Actions. If this page and a `core_*` file disagree, the `core_*` file wins. Public door: [README.md]("
+        + BLOB
+        + "README.md). Using or adopting it: [START_HERE.md]("
         + BLOB
         + "START_HERE.md).",
         "",
@@ -69,7 +71,9 @@ def render(root: Path) -> str:
             "",
             "## First-hour adopted implementation texts (process support)",
             "",
-            f"- [START_HERE.md]({BLOB}START_HERE.md)",
+            f"- [README.md]({BLOB}README.md) (public door)",
+            f"- [START_HERE.md]({BLOB}START_HERE.md) (using or adopting it)",
+            f"- [Big-picture overview]({BLOB}guides/CONCEPTUAL_OVERVIEW.md)",
             f"- [Rights Floor wall sheet]({BLOB}doc_architecture/generated/rights_floor_sheet.md)",
             f"- [Print pack]({BLOB}implementation/PRINT_PACK.md)",
             f"- [Easy-entry briefs]({BLOB}implementation/adoption/easy_entry/README.md)",

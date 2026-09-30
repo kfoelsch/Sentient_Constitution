@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import os
+import re
 from pathlib import Path
 
 
@@ -86,3 +88,26 @@ def binding_corpus_scope(root: Path, *, include_support_docs: bool = False) -> l
 
 def source_markdown_files(root: Path) -> list[Path]:
     return [root / rel for rel in binding_corpus_scope(root) if (root / rel).exists()]
+
+
+_REL_LINK_RE = re.compile(r"\]\((?!https?:|mailto:|#|/)([^)\s]+)\)")
+
+
+def rebase_relative_links(text: str, src_dir: Path, out_dir: Path) -> str:
+    """Rewrite relative Markdown link targets in text copied out of ``src_dir``.
+
+    Generators lift cells verbatim from corpus files into
+    doc_architecture/generated/, which sits at a different depth. A target
+    that is correct beside its source resolves to the wrong path in the
+    output, so each relative target is re-expressed against ``out_dir``.
+    """
+
+    def fix(match: "re.Match[str]") -> str:
+        target = match.group(1)
+        path, sep, fragment = target.partition("#")
+        if not path:
+            return match.group(0)
+        rebased = os.path.relpath((src_dir / path).resolve(), out_dir)
+        return f"]({rebased}{sep}{fragment})"
+
+    return _REL_LINK_RE.sub(fix, text)
