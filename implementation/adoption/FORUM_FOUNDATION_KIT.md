@@ -16,11 +16,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-<<<<<<< HEAD
-- Upstream: [Chapter Twelve](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum families, default venue, anti-self-judging*); [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) (*forum formation, forum-structure mapping, and chamber structure*); [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4-contestability-and-independent-review-validity) (*contestability and independent review*); [Article XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) (*challenge, review, and redress*); [Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (*aligned self-organization; no self-appointment*); [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Preamble §3.3](../../core_00_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption); [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
-=======
 - Upstream: [Chapter Twelve](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum families, default venue, anti-self-judging*); [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) (*forum formation, forum-structure mapping, and chamber structure*); [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity) (*contestability and independent review*); [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*challenge, review, and redress*); [Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization) (*aligned self-organization; no self-appointment*); [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Preamble §3.3](../../core_00_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption); [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-two-tracks-do-not-merge); [§4](#4-formation-cliffs-not-a-slope); [§5](#5-independent-review-naming-not-a-forum-family); [§6](#6-forum-structure-map-fill-in-not-a-live-map).
 - Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation — not this kit*); [CF-1](../../corpus_forum/cf_01_scope_authority_boundary_rules.md); [CF-4](../../corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md); [CF-5](../../corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md); [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md); [CF-16](../../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role).
 - Topic routing (primary owner): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve families)*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.1**, **CJS-2.5**, **CJS-3.13**, **CI-9.3**.
@@ -155,11 +151,7 @@ Advancement from a draft to a live forum structure must **not** rest on elapsed 
 |---|---|---|
 | **Track honesty** | Track A as named independent review, or Track B with a recorded Chapter Sixteen instrument. | Track B claimed with no instrument. A draft map labeled “we are the forum family now.” Track A relabeled as a Chapter Twelve family. |
 | **Qualifying body (Track B)** | A body that can bind the named scope ([Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)) already holds a recorded instrument. That body holds the map in **its** custody. | Stewards listing themselves as the forum. *n* declarations stapled together. |
-<<<<<<< HEAD
-| **Independent review (Track A, and Track B backup)** | A published backup, external reviewer, or existing adjudicative body the founding crew does not solely staff. [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination); [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4-contestability-and-independent-review-validity). Keep [Article XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) reachable. | The only merits path is the founding crew. A ceremony “forum” invented to check this box. |
-=======
 | **Independent review (Track A, and Track B backup)** | A published backup, external reviewer, or existing adjudicative body the founding crew does not solely staff. [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture); [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity). Keep [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) reachable. | The only merits path is the founding crew. A ceremony “forum” invented to check this box. |
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 | **Chapter Twelve inventory (Track B)** | All six families are named, distinct, and in Chapter Twelve §2 table order. [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule). If this kit and CF-3 disagree, CF-3 wins. | Five families plus a merged leftover. A seventh “community” or “intake” family. Local titles used to erase a family. |
 | **Non-collapse (Track B)** | Shared clerks, buildings, or software still leave separate intake, panels where applicable, and appeal or review paths per family. [CF-3.3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-33-family-distinction-and-non-collapse-rule). | One family treated as a chamber of another so independent routing, review, or remedy disappears. Emergency or caseload used as a standing merger. |
 | **Forum-structure map (Track B)** | Published fields matching [CF-3.2](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-32-family-to-forum-structure-translation-map). | Mission slogan, org-chart names, or a filled template left in `implementation/adoption/`. |
@@ -227,11 +219,7 @@ What is named (pick one; do not relabel as a forum family):
 This path is not solely the other signatory / founding crew.
   [ ] acknowledged
 
-<<<<<<< HEAD
-Articles XII-A and XII-B remain reachable.
-=======
 Article XIII-B remains reachable.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
   [ ] acknowledged
 
 This path does not:
@@ -382,13 +370,8 @@ Do not restate CF or Chapter Twelve. Use the owner files. This section is only t
 | Chamber authority | [CF-3.5](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-35-chamber-creation-identification-and-family-boundary)–[CF-3.8](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-38-specialist-and-technical-chamber-discipline); **CJS-2.1**; [CI-9.3](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline) | Class C floor. Attachment published. Chamber stays inside its family. |
 | Anti-self-judging and capture backup | [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture); [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) | Own-integrity claims leave that family as sole final merits home. Captured family does not control restoration. |
 | Staffing and reserve | [CF-16](../../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md); [CF-3.4](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-34-minimum-structural-availability-by-family) | Enough people to sit without one recurring bench hearing everything. |
-<<<<<<< HEAD
-| Appointment independence | [Chapter Twelve §1](../../core_12_forum.md#1-purpose-and-role); [Chapter Thirteen §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums); [CI-4](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) | Integrity, Constitutional, Environment, and Technical-on-sentience-status are not founding-crew self-appointment. |
-| Appeal and exhaustion | [CF-6](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) | Articles XII-A and XII-B remain reachable. |
-=======
 | Appointment independence | [Chapter Twelve §1](../../core_12_forum.md#1-purpose-and-role--participation-architecture); [Chapter Thirteen §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums); [CI-4](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md) | Integrity, Constitutional, Environment, and Technical-on-sentience-status are not founding-crew self-appointment. |
 | Appeal and exhaustion | [CF-6](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) | Article XIII-B remains reachable. |
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 | Continuity under stress | [CF-12](../../corpus_forum/cf_12_forum_continuity.md); [CF-13](../../corpus_forum/cf_13_fallback_operation.md); [CF-14](../../corpus_forum/cf_14_emergency_adjudication.md) | Fallback is named. Emergency is not a standing family merger. |
 | Forum case record vs standing record | [Chapter Twelve §2.3](../../core_12_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Nine §3.6](../../core_09_standing_assessment.md#36-forum-boundary) | Filing is not standing. Case files are not standing records. |
 | Remedy capacity | [Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems); [CI-27](../../corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) | Named routes have practical capacity. Accountability for that capacity stays with the primary-stakes family. |
@@ -475,13 +458,8 @@ If the file is also not a Chapter Sixteen instrument, attach the first-adopter k
 | [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) | Integrity operations while a matter is live |
 | [CF-16](../../corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md) | Staffing, reserve, structural records |
 | [Chapter Twelve](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) | Binding family routing, default venue, anti-self-judging |
-<<<<<<< HEAD
-| [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4-contestability-and-independent-review-validity) | Independent-review validity for Track A |
-| [Article XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) | Challenge, review, and redress must stay reachable |
-=======
 | [Chapter Sixteen Test 4](../../core_16_amendment_ratification.md#6-test-4--contestability-and-independent-review-validity) | Independent-review validity for Track A |
 | [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) | Challenge, review, and redress must stay reachable |
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 | [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) | Binding Charter fields — leave this kit |
 | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | System migration **after** a recorded instrument |
 | [Article XXVII-B](../../core_06_rights_part_d.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |

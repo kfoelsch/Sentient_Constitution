@@ -28,7 +28,6 @@
 
 <br>
 <a id="part-d-justice-constitutional-review-evolution-and-transition"></a>
-
 ### অংশ ঘ: ন্যায়, সাংবিধানিক পর্যালোচনা, বিবর্তন ও উত্তরণ
 
 <br>

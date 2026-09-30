@@ -1,10 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-<<<<<<< HEAD
-  "generated_at": "2026-09-27T20:24:29+00:00",
-=======
   "generated_at": "2026-09-27T10:12:39+00:00",
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -619,13 +615,6 @@
             ]
           },
           {
-            "file": "core_06_rights_part_c.md",
-            "count": 1,
-            "anchors": [
-              "#article-xii-right-to-reliable-and-trustworthy-systems"
-            ]
-          },
-          {
             "file": "core_07_functional_independence_segregation_of_duties.md",
             "count": 3,
             "anchors": [
@@ -736,11 +725,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-<<<<<<< HEAD
-            "count": 75,
-=======
             "count": 74,
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -826,11 +811,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-<<<<<<< HEAD
-            "count": 128,
-=======
             "count": 132,
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -860,16 +841,7 @@
               "#necessity-c",
               "#proportionality",
               "#proportionality-a",
-              "#proportionality-c",
-              "#redress-and-remediation-constitutional",
-              "#redress-and-remediation-constitutional-a",
-              "#redress-and-remediation-constitutional-c",
-              "#remedy-system-constitutional",
-              "#remedy-system-constitutional-a",
-              "#remedy-system-constitutional-c",
-              "#timely-resolution-constitutional",
-              "#timely-resolution-constitutional-a",
-              "#timely-resolution-constitutional-c"
+              "#proportionality-c"
             ]
           },
           {
@@ -1051,24 +1023,8 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 48,
+            "count": 42,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xii-right-to-reliable-and-trustworthy-systems",
-              "#article-xiv-info-sphere-integrity",
-              "#article-xix-interoperability-portability-and-exit-integrity",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xvi-system-lifecycle-environments-and-reversibility",
-              "#article-xvii-e-scientific-publication-review-and-replication-integrity",
-              "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
-              "#article-xviii-b-contestability-and-proportional-restriction-limits",
-              "#article-xviii-standing-and-participation-status",
-              "#article-xx-comprehensibility-and-complexity-stewardship",
-              "#article-xxi-root-cause-analysis-and-adaptive-response",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xiii-right-to-reliable-and-trustworthy-systems",
               "#article-xix-b-contestability-and-proportional-restriction-limits",
@@ -1082,7 +1038,6 @@
               "#article-xxi-comprehensibility-and-complexity-stewardship",
               "#article-xxii-root-cause-analysis-and-adaptive-response",
               "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -1116,10 +1071,9 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 3,
+            "count": 1,
             "anchors": [
-              "#3-descriptor-integration-and-attachment-normalization",
-              "#9-enforcement-realism"
+              "#3-descriptor-integration-and-attachment-normalization"
             ]
           },
           {
@@ -1146,11 +1100,6 @@
           {
             "file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
             "count": 1,
-            "anchors": []
-          },
-          {
-            "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
-            "count": 2,
             "anchors": []
           },
           {
@@ -1415,17 +1364,6 @@
             "file": "core_06_rights_part_c.md",
             "count": 15,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xiv-b-transparency-auditability-and-contestability",
-              "#article-xiv-info-sphere-integrity",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xviii-b-contestability-and-proportional-restriction-limits",
-              "#article-xx-comprehensibility-and-complexity-stewardship",
-              "#article-xxii-a-bounded-interpretive-mandate",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xiv-a-security-intelligence-and-covert-power-limits",
               "#article-xix-b-contestability-and-proportional-restriction-limits",
@@ -1435,7 +1373,6 @@
               "#article-xxi-comprehensibility-and-complexity-stewardship",
               "#article-xxiii-a-bounded-interpretive-mandate",
               "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -1528,7 +1465,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 30,
+            "count": 27,
             "anchors": [
               "#1-purpose-and-role",
               "#2-foundational-objective-wellbeing",
@@ -1536,7 +1473,6 @@
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
               "#4-system-stability-enabler-trust-coordination-integrity",
-              "#42-correction-and-remedy",
               "#5-freedom-bounded-agency",
               "#531-aligned-self-organization"
             ]
@@ -1620,11 +1556,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-<<<<<<< HEAD
-            "count": 375,
-=======
             "count": 345,
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1651,9 +1583,6 @@
               "#game-of-chance",
               "#game-of-chance-a",
               "#game-of-chance-c",
-              "#good-faith",
-              "#good-faith-a",
-              "#good-faith-c",
               "#governance",
               "#governance-a",
               "#governance-c",
@@ -1689,7 +1618,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 429,
+            "count": 424,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -1761,7 +1690,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 57,
+            "count": 56,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -1871,22 +1800,8 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 31,
+            "count": 30,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-d-incentive-alignment-constraint",
-              "#article-xiv-info-sphere-integrity",
-              "#article-xix-interoperability-portability-and-exit-integrity",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xvi-system-lifecycle-environments-and-reversibility",
-              "#article-xviii-standing-and-participation-status",
-              "#article-xx-comprehensibility-and-complexity-stewardship",
-              "#article-xxi-root-cause-analysis-and-adaptive-response",
-              "#article-xxii-a-bounded-interpretive-mandate",
-              "#article-xxii-c-public-reasons-challenge-rights-and-external-review",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards",
-=======
               "#article-xiii-d-incentive-alignment-constraint",
               "#article-xix-standing-and-participation-status",
               "#article-xv-info-sphere-integrity",
@@ -1898,7 +1813,6 @@
               "#article-xxiii-a-bounded-interpretive-mandate",
               "#article-xxiii-c-public-reasons-challenge-rights-and-external-review",
               "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards",
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
               "#operative-steward-statement-comprehensibility"
             ]
           },
@@ -1947,7 +1861,7 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 12,
+            "count": 14,
             "anchors": [
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#54-special-violation-rules",
@@ -2018,7 +1932,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 5,
+            "count": 3,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
@@ -3366,7 +3280,6 @@
               "#23-anti-degrading-process",
               "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#31-safety-harm-constraint",
-              "#42-correction-and-remedy",
               "#5-freedom-bounded-agency"
             ]
           },
@@ -3661,21 +3574,12 @@
             "file": "core_06_rights_part_c.md",
             "count": 21,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xii-f-resilience-and-self-healing-baseline",
-              "#article-xiii-a-security-intelligence-and-covert-power-limits",
-              "#article-xiii-b-use-of-force-armed-conflict-and-military-power-limits",
-              "#article-xiii-c-autonomous-lethal-systems-and-autonomous-coercion-tools"
-=======
               "#article-xiii-a-reliability-and-trustworthiness-baseline",
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xiii-f-resilience-and-self-healing-baseline",
               "#article-xiv-a-security-intelligence-and-covert-power-limits",
               "#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits",
               "#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -5307,10 +5211,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 9,
+            "count": 8,
             "anchors": [
               "#101-shared-stewardship-standard",
-              "#105-duty-to-resist",
               "#11-governance-under-stewardship-discipline",
               "#111-governance-as-authorized-structure",
               "#112-segregation-of-duties",
@@ -5403,18 +5306,11 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xvi-audit-transparency-and-independent-verification",
               "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -5445,6 +5341,13 @@
               "#37-informal-and-small-scope-records",
               "#37-segregation-of-duties",
               "#chapter-nine-compliance-violation-and-standing-model"
+            ]
+          },
+          {
+            "file": "core_10_standing_integration.md",
+            "count": 1,
+            "anchors": [
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
             ]
           },
           {
@@ -5887,16 +5790,10 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 5,
+            "count": 3,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xv-audit-transparency-and-independent-verification"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xvi-audit-transparency-and-independent-verification"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -6060,9 +5957,8 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 9,
+            "count": 7,
             "anchors": [
-              "#105-duty-to-resist",
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
               "#123-misalignment-detection",
@@ -6171,22 +6067,13 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 10,
+            "count": 8,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xiv-b-transparency-auditability-and-contestability",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xviii-standing-and-participation-status",
-              "#article-xxi-root-cause-analysis-and-adaptive-response"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xix-standing-and-participation-status",
               "#article-xv-b-transparency-auditability-and-contestability",
               "#article-xvi-audit-transparency-and-independent-verification",
               "#article-xxii-root-cause-analysis-and-adaptive-response"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -6230,7 +6117,7 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 59,
+            "count": 61,
             "anchors": [
               "#101-informal-ecological-stewardship-competency-clearance",
               "#1013-obstruction-of-accountability",
@@ -6242,6 +6129,7 @@
               "#42-prevention--general-standing-locks",
               "#43-voluntary-public-accountability-expression",
               "#5-lock-design-and-enforcement",
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#54-special-violation-rules",
               "#55-special-locks",
               "#6-contribution-consequences-second",
@@ -6307,15 +6195,10 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 4,
+            "count": 2,
             "anchors": [
               "#32-truth-epistemic-integrity-constraint",
-<<<<<<< HEAD
-              "#34-plain-language-accessibility-stewardship-duty",
-              "#42-correction-and-remedy"
-=======
               "#34-plain-language-accessibility-participation-and-stewardship-duty"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -6327,10 +6210,9 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 2,
+            "count": 1,
             "anchors": [
-              "#101-shared-stewardship-standard",
-              "#105-duty-to-resist"
+              "#101-shared-stewardship-standard"
             ]
           },
           {
@@ -7026,18 +6908,11 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 10,
+            "count": 7,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xxii-b-composition-rotation-and-conflict-controls"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xvi-audit-transparency-and-independent-verification",
               "#article-xxiii-b-composition-rotation-and-conflict-controls"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -7212,16 +7087,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
               "#10-consequential-stewardship-the-steward-role",
               "#101-shared-stewardship-standard",
-<<<<<<< HEAD
-              "#103-role-scoped-observability",
-              "#105-duty-to-resist"
-=======
               "#103-logging-the-role-not-the-steward"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -7301,7 +7171,7 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 18,
+            "count": 19,
             "anchors": [
               "#10-pattern-applications-and-question-3-routing",
               "#4-violation-correction-and-prevention",
@@ -7677,17 +7547,10 @@
             "file": "core_06_rights_part_c.md",
             "count": 6,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xix-a-portability-rights",
-              "#article-xv-audit-transparency-and-independent-verification",
-              "#article-xviii-b-contestability-and-proportional-restriction-limits"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xix-b-contestability-and-proportional-restriction-limits",
               "#article-xvi-audit-transparency-and-independent-verification",
               "#article-xx-a-portability-rights"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -8300,7 +8163,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 83,
+            "count": 80,
             "anchors": [
               "#2-foundational-objective-wellbeing",
               "#31-safety-harm-constraint",
@@ -8308,7 +8171,6 @@
               "#34-plain-language-accessibility-participation-and-stewardship-duty",
               "#4-system-stability-enabler-trust-coordination-integrity",
               "#41-resilience-and-self-healing-design",
-              "#42-correction-and-remedy",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline"
             ]
@@ -8333,12 +8195,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 40,
+            "count": 38,
             "anchors": [
               "#11-governance-under-stewardship-discipline",
               "#12-incentive-alignment-and-system-capture",
               "#121-alignment-requirement",
-              "#1211-what-incentives-must-do",
               "#13-shared-system-capacity",
               "#14-market-structure",
               "#15-systemic-evaluation-requirement",
@@ -8369,11 +8230,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-<<<<<<< HEAD
-            "count": 337,
-=======
             "count": 391,
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             "anchors": [
               "#autonomous-coercion-tool-constitutional",
               "#autonomous-coercion-tool-constitutional-a",
@@ -8662,15 +8519,9 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 26,
+            "count": 25,
             "anchors": [
-<<<<<<< HEAD
-              "#42-general-standing-locks",
-              "#51-definition-and-attachment",
-              "#52-proportionality-and-calibration",
-=======
               "#42-prevention--general-standing-locks",
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
               "#54-special-violation-rules",
               "#55-special-locks",
               "#62-competency-bars-and-clearances",
@@ -8941,11 +8792,7 @@
             "file": "core_06_rights_part_c.md",
             "count": 2,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-b-right-to-redress-and-remedy"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -9052,15 +8899,10 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#101-shared-stewardship-standard",
-<<<<<<< HEAD
-              "#102-symmetric-costly-constraints",
-              "#105-duty-to-resist",
-=======
               "#102-alignment-under-pressure",
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
               "#131-productive-capacity-instrumental-good",
               "#9-stewardship-in-depth",
               "#chapter-01-principles-and-constraints"
@@ -9191,10 +9033,11 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#42-prevention--general-standing-locks",
               "#51-definition-and-attachment",
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#55-special-locks",
               "#92-remedy-system-durability"
             ]
@@ -9541,13 +9384,8 @@
             "file": "core_06_rights_part_c.md",
             "count": 2,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -9814,18 +9652,11 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xv-a-auditability-and-observable-evidence",
-              "#article-xv-audit-transparency-and-independent-verification"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xvi-a-auditability-and-observable-evidence",
               "#article-xvi-audit-transparency-and-independent-verification"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -10146,18 +9977,11 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xv-a-auditability-and-observable-evidence",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xvi-a-auditability-and-observable-evidence",
               "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -13387,17 +13211,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
               "#101-shared-stewardship-standard",
-<<<<<<< HEAD
-              "#102-symmetric-costly-constraints",
-              "#103-role-scoped-observability",
-              "#105-duty-to-resist",
-=======
               "#102-alignment-under-pressure",
               "#103-logging-the-role-not-the-steward",
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
               "#131-productive-capacity-instrumental-good",
               "#14-market-structure"
             ]
@@ -13492,8 +13310,9 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#71-anti-aggregation-of-named-pathway-effects",
               "#72-plain-statement-of-effect-and-burden"
             ]
@@ -13671,16 +13490,10 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 5,
+            "count": 3,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xii-b-right-to-redress-and-remedy",
-              "#article-xvi-system-lifecycle-environments-and-reversibility"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xvii-system-lifecycle-environments-and-reversibility"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -15037,15 +14850,10 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 6,
+            "count": 4,
             "anchors": [
               "#101-shared-stewardship-standard",
-<<<<<<< HEAD
-              "#102-symmetric-costly-constraints",
-              "#105-duty-to-resist",
-=======
               "#102-alignment-under-pressure",
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
               "#15-systemic-evaluation-requirement"
             ]
           },
@@ -15163,13 +14971,8 @@
             "file": "core_06_rights_part_c.md",
             "count": 2,
             "anchors": [
-<<<<<<< HEAD
-              "#article-xii-a-reliability-and-trustworthiness-baseline",
-              "#article-xxii-constitutional-interpretation-review-and-anti-capture-safeguards"
-=======
               "#article-xiii-b-right-to-challenge-review-and-redress",
               "#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards"
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             ]
           },
           {
@@ -15206,14 +15009,10 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 13,
+            "count": 15,
             "anchors": [
-<<<<<<< HEAD
-              "#42-general-standing-locks",
-=======
               "#42-prevention--general-standing-locks",
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
               "#55-special-locks",
               "#62-competency-bars-and-clearances"
             ]

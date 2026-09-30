@@ -28,7 +28,6 @@
 
 <br>
 <a id="part-c-trustworthy-systems-security-and-force-limits-information-integrity-verification-lifecycle-and-resilience"></a>
-
 ### Parte C: Sistemas confiables, límites de seguridad y de fuerza, integridad de la información, verificación, ciclo de vida y resiliencia
 
 <br>

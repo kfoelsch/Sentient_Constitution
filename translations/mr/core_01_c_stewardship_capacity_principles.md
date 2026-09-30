@@ -592,7 +592,6 @@
 
 <br>
 <a id="10-governance-under-stewardship-discipline"></a>
-
 ### 10. उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन
 
 <details>

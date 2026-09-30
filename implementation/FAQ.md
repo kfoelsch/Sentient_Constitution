@@ -35,11 +35,7 @@ See: [START_HERE.md §5](../START_HERE.md#two-modes); [FIT_SITUATIONS.md §2](ad
 
 Ordinary local, national, and international law still apply. This page is not a substitute for those paths. If a body that actually runs the system has agreed to follow this Constitution, start with a real way to challenge, get review, and be made whole — and with finding the home if the path is hidden.
 
-<<<<<<< HEAD
-See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_challenge_review_redress.md); [E15 — Harmed and cannot find the door](adoption/easy_entry/E15_cannot_find_the_door.md); [Article XII-A](../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy).
-=======
 See: [G01 — Challenge, review, and being made whole](adoption/easy_entry/G01_challenge_review_redress.md); [E15 — Harmed and cannot find the door](adoption/easy_entry/E15_cannot_find_the_door.md); [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ### 6. Why are there so many files?
 

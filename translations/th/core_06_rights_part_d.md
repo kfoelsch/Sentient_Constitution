@@ -28,7 +28,6 @@
 
 <br>
 <a id="part-d-justice-constitutional-review-evolution-and-transition"></a>
-
 ### ส่วน ง: ความยุติธรรม การทบทวนทางรัฐธรรมนูญ วิวัฒนาการ และการเปลี่ยนผ่าน
 
 <br>

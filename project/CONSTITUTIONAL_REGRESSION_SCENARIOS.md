@@ -683,13 +683,8 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-XXIV-C-DISC-001
 - **Class:** implementation / timely-resolution vignette
-<<<<<<< HEAD:CONSTITUTIONAL_REGRESSION_SCENARIOS.md
-- **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [core_09-12_application_vignettes.md](core_09-12_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b).
-- **Read with:** [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); **CF-11.3.1**.
-=======
 - **Summary:** Tier B employment discrimination / participation-barrier pattern: Q1 records the verified institutional pattern; **Accessibility and Participation-Barrier Misconduct** + **System Misconduct** are measured under Q2; restriction and institutional vehicle locks follow under Q3; no contribution offset. Vignette: [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#2-employment-discrimination--participation-barrier-injury-tier-b).
 - **Read with:** [Article XXV-C](../core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); **CF-11.3.1**.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042:project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md
 
 ### Scenario ID: RS-XXIV-C-BIZ-001
 - **Class:** implementation / timely-resolution vignette

@@ -81,15 +81,9 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-<<<<<<< HEAD
-- [Article V-F](../../../core_06_rights_part_b.md#article-v-f-developing-sentients-best-interest-and-graduated-capability) — decisions that actually affect Sami must reflect Sami’s interests and ascertainable wishes, not household convenience; voice is sought to the extent Sami can give it
-- [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional); [Article VII-D](../../../core_06_rights_part_b.md#article-vii-d-family-care-relationships-reproductive-autonomy-and-non-separation)
-- [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) if the statement is dropped from the file
-=======
 - [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) — decisions that actually affect Sami must reflect Sami’s interests and ascertainable wishes, not household convenience; voice is sought to the extent Sami can give it
 - [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional); [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation)
 - [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) if the statement is dropped from the file
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) only if the facts show the format of asking Sami is unusable; do not invent a diagnosis
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.

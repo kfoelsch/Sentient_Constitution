@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-<<<<<<< HEAD
-"""Tests for MD-LIST-INTRO-01 and MD-HTML-HEADING-01."""
-=======
 """Tests for MD-LIST-INTRO-01 and MD-HTML-BLOCK-BLANK-01."""
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 from __future__ import annotations
 
@@ -16,11 +12,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_markdown_audit import (
-<<<<<<< HEAD
-    check_heading_swallowed_by_html_block,
-=======
     check_html_block_following_blank,
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
     check_list_intro_colon,
 )
 
@@ -159,42 +151,6 @@ class ListIntroColonTests(unittest.TestCase):
         self.assertEqual(check_list_intro_colon(lines, "core_example.md"), [])
 
 
-<<<<<<< HEAD
-class HtmlBlockHeadingTests(unittest.TestCase):
-    def check(self, lines: list[str]) -> list[str]:
-        return check_heading_swallowed_by_html_block(lines, "core_example.md")
-
-    def test_heading_directly_under_br_fails(self) -> None:
-        findings = self.check(["</details>", "", "<br>", "### Part C: Trustworthy systems", "", "<br>"])
-        self.assertEqual(len(findings), 1)
-        self.assertIn("core_example.md:4", findings[0])
-        self.assertIn("MD-HTML-HEADING-01", findings[0])
-
-    def test_heading_under_br_and_anchor_fails(self) -> None:
-        lines = ["", "<br>", '<a id="part-d"></a>', "### Part D: Justice"]
-        findings = self.check(lines)
-        self.assertEqual(len(findings), 1)
-        self.assertIn("core_example.md:4", findings[0])
-
-    def test_heading_directly_under_closing_details_fails(self) -> None:
-        self.assertEqual(len(self.check(["</details>", "## Next"])), 1)
-
-    def test_blank_line_between_br_and_heading_passes(self) -> None:
-        self.assertEqual(self.check(["<br>", "", "### Part A: Planetary preconditions"]), [])
-
-    def test_anchor_after_paragraph_is_not_html_block(self) -> None:
-        lines = ["Some prose.", '<a id="x"></a>', "### Heading"]
-        self.assertEqual(self.check(lines), [])
-
-    def test_single_line_comment_closes_itself(self) -> None:
-        self.assertEqual(self.check(["<!-- BEGIN GENERATED -->", "## Index"]), [])
-
-    def test_multiline_comment_swallows_heading(self) -> None:
-        self.assertEqual(len(self.check(["<!--", "## hidden", "-->"])), 1)
-
-    def test_fenced_example_is_skipped(self) -> None:
-        self.assertEqual(self.check(["```", "<br>", "### not real", "```"]), [])
-=======
 class HtmlBlockFollowingBlankTests(unittest.TestCase):
     def test_heading_directly_after_br_fails(self) -> None:
         lines = ["</details>", "", "<br>", "### Part B: Personhood", "", "Body."]
@@ -224,7 +180,6 @@ class HtmlBlockFollowingBlankTests(unittest.TestCase):
     def test_inline_br_in_prose_passes(self) -> None:
         lines = ["Line one<br>", "Line two"]
         self.assertEqual(check_html_block_following_blank(lines, "core_example.md"), [])
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 
 if __name__ == "__main__":

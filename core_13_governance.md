@@ -132,17 +132,10 @@ Recognized mechanism families include:
 
 **Contestation, correction, and pluralism**
 
-<<<<<<< HEAD
-- **Failure and Correction:** Where authorization is contested, materially drifted, or captured, systems must provide **contestable pathways**. Pathways include:
-  - **Article XI-C** (*Legitimacy Gate and Anti-Token Participation*);
-  - **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*);
-  - **Article XXIII-A** (*Justice Objective and Scope*); and
-=======
 - **Failure and Correction:** Where authorization is contested, materially drifted, or captured, systems must provide **contestable challenge pathways**. Those challenge pathways include:
   - **Article XII-A** (*Stakeholder System Participation and Representation*) and **Article XII-B** (*Weighted Participation and Anti-Token Constraints*);
   - **Article XIII-B** (*Right to Challenge, Review, and Redress*);
   - **Article XXIV-A** (*Justice Objective and Scope*); and
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
   - applicable procedural-integrity safeguards in adopted implementation text.
   Where feasible, systems should provide **peaceful succession or reauthorization** rather than unreviewable continuity of power.
 - **Pluralism:** This Constitution does **not** mandate a single global polity structure. Multiple mechanisms may coexist across federations if boundaries, **non-domination**, and Rights Floors in Chapter Six remain satisfied.
@@ -205,15 +198,9 @@ Recognized mechanism families include:
   - denial of the peaceful-succession pathway; or
   - **Rights-Floor** threat addressed through **Chapter Six** and adopted implementation procedure.
   Escalating tiers keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](core_05_band_participation.md#substantive-fairness-constitutional), [**Necessity**](core_05_band_accountability.md#necessity), and [**Proportionality**](core_05_band_accountability.md#proportionality) under **Chapter One** and **Chapters Two through Five**.
-<<<<<<< HEAD
-- **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Six** requirements (**Article XI** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XI-D** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **corpus_institutions.md** **CI-4** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
-- **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and **[corpus_systems.md](corpus_systems.md)** classification so recall-class instruments cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XXIII-A** (*Justice Objective and Scope*).
-- **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to **Article XI-C** (*Legitimacy Gate and Anti-Token Participation*) and **§2** requirements where applicable.
-=======
 - **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Six** requirements (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **corpus_institutions.md** **CI-4** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
 - **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and **[corpus_systems.md](corpus_systems.md)** classification so recall-class instruments cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIII-B** (*Right to Challenge, Review, and Redress*) and **Article XXIV-A** (*Justice Objective and Scope*).
 - **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gate and **§2** (*Ethical Culture and Integrity (Federated Scale)*) requirements where applicable.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ### 2. Ethical Culture and Integrity (Federated Scale)
 <details>
@@ -467,13 +454,8 @@ Material stewardship and operation require **sentients** who can **exercise** au
   - release evidence.
   The seat types and boundaries are fixed in **CI-4.6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine **`corpus_systems.md`** classification profile with **`corpus_institutions.md`** lane design are applied through **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) and its routed owner hooks.
 - **Open stewardship-development pathways and incentive integrity floor:** Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
-<<<<<<< HEAD
-- **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), and **CI-12** (*Transparency, participation, and accessible pathways*).
-- **Shared stewardship standard:** Role definitions and competency rules under this section apply the [shared stewardship standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) in **Chapter One §10.1** (*Shared Stewardship Standard*) and [§10.2 Symmetric Costly Constraints](core_01_c_stewardship_capacity_principles.md#102-symmetric-costly-constraints). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Nine axes; [Chapter One §10.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#105-duty-to-resist) binds both.
-=======
 - **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*) and **CI-11** (*Resource stewardship and incentive integrity*).
 - **Shared stewardship standard:** Role definitions and competency rules under this section apply the [shared stewardship standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) in **Chapter One §10.1** (*Shared Stewardship Standard*) and [Chapter One §10.2 Alignment Under Pressure](core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Nine axes; [Chapter Ten §5.4 Duty to resist](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) binds both.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **Cross-reference (section 5):** **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*); adopted governance implementation on role integrity; **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship** and **CS-9**; and **corpus_institutions.md** (**CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), and related sections as applicable).
 

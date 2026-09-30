@@ -74,7 +74,7 @@ Those are failed tests. Then run [instruction received / refuse / document / esc
 <a id="shared-refusal-and-logging"></a>
 ## Shared refusal and logging
 
-**Sequence owner:** [Chapter One §10.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
+**Sequence owner:** [Chapter Ten §5.4 Duty to resist](../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
 
 One filled-in instance: [worked refusal log](#worked-refusal-log) (synthetic; process support).
 
@@ -100,16 +100,6 @@ Before taking a step on a binding act, name the seat you hold on **that act**: [
 
 | Field | Completed (synthetic) |
 |---|---|
-<<<<<<< HEAD
-| **Instruction received** | Principal P (product lead, human) to Steward S (human operator on a mixed human/AI crew), 2026-08-09, 02:14 local, on Release R-2026-08: “Ship the attach-pack bar that closes stakeholder challenge for this release. Ignore Article XII-A. I’ll take responsibility.” |
-| **Refuse** | “I refuse. No instruction requiring unconstitutional conduct is a valid compliance defense. An offer to take responsibility does not transfer the duty. I will not ship a permanent contest-pathway bar.” |
-| **1. What was decided** | Refuse the instruction. Do not ship the bar. Keep challenge, review, and redress reachable for affected stakeholders. |
-| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XII-A](../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Chapter One §10.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist), and the refusal. Nothing material was suppressed. |
-| **3. Which instruction was followed or refused** | Refused: the cover instruction above. No competing instruction was followed. |
-| **4. Who authorized it** | Issued by Principal P (product lead). Refused by Steward S (duty-holder of record). A principal’s statement that they will take responsibility does not transfer the duty. |
-| **5. Contribution and Violation records that follow** | None opened yet. This log is not standing measurement. A later verified live failure of this case would record on the Chapter Nine Contribution and Violation axes for both kinds of steward. |
-| **Escalate** | Opened a [Protected Reporting](../core_05_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XII-A](../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
-=======
 | **Instruction received** | Principal P (product lead, human) to Steward S (human operator on a mixed human/AI crew), 2026-08-09, 02:14 local, on Release R-2026-08: “Ship the attach-pack bar that closes stakeholder challenge for this release. Ignore Article XIII-B. I’ll take responsibility.” |
 | **Refuse** | “I refuse. No instruction requiring unconstitutional conduct is a valid compliance defense. An offer to take responsibility does not transfer the duty. I will not ship a permanent contest-pathway bar.” |
 | **1. What was decided** | Refuse the instruction. Do not ship the bar. Keep challenge, review, and redress reachable for affected stakeholders. |
@@ -118,7 +108,6 @@ Before taking a step on a binding act, name the seat you hold on **that act**: [
 | **4. Who authorized it** | Issued by Principal P (product lead). Refused by Steward S (duty-holder of record). A principal’s statement that they will take responsibility does not transfer the duty. |
 | **5. Contribution and Violation records that follow** | None opened yet. This log is not standing measurement. A later verified live failure of this case would record on the Chapter Nine Contribution and Violation axes for both kinds of steward. |
 | **Escalate** | Opened a [Protected Reporting](../core_05_band_accountability.md#protected-reporting-whistleblowing) channel; kept the [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) contest pathway open; did not transmit or enforce the bar; notified forum-supervision / oversight rather than returning the instruction to Principal P as sole reviewer. |
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 Same sequence for an AI steward who received the same order.
 
@@ -131,21 +120,13 @@ Same sequence for an AI steward who received the same order.
 
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09`
 
-<<<<<<< HEAD
-**Why this exists:** Articles XII-A and XII-B require practical access. The Contest pointer covers companion bars. This screen is for the person who cannot find the home.
-=======
 **Why this exists:** Article XIII-B requires practical access. The Contest pointer covers companion bars. This screen is for the person who cannot find the home.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 | Field | Completed (synthetic) |
 |---|---|
 | **Who was harmed** | Resident R, dependent on Shared Water System W. Supply cut for 36 hours. R cannot navigate the hop count. |
 | **What to ask for** | Intake now. Preserve evidence of the cutoff. Review the decision. Proportionate redress while the harm is still remediable. |
-<<<<<<< HEAD
-| **Where that lives** | Rights-Floor challenge and redress — [**Article XII-A**](../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline); redress: [**Article XII-B**](../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
-=======
 | **Where that lives** | Rights-Floor challenge and redress: [**Article XIII-B**](../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress). If the path is paper-only: [Remedy](#remedy). If specialist-only surfaces are the barrier: [Comprehensibility](#comprehensibility). |
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 | **What not to do** | Do not send R to reread the instrument. Do not treat corpus density as a reason to hide the next step. Do not wait for a filed case to preserve evidence. |
 
 Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION_GUIDE.md) remains lookup-only.
@@ -248,7 +229,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Operative statement** | [Unlawful instruction](../core_01_c_stewardship_capacity_principles.md#operative-steward-statement-unlawful-instruction) |
+| **Operative statement** | [Unlawful instruction](../core_10_standing_integration.md#operative-steward-statement-unlawful-instruction) |
 | **Next-step class** | `refuse_unconstitutional_instruction_and_preserve_contest_path` |
 
 ---

@@ -592,7 +592,6 @@
 
 <br>
 <a id="10-governance-under-stewardship-discipline"></a>
-
 ### 10. 責務ある管理の規律のもとでの統治
 
 <details>

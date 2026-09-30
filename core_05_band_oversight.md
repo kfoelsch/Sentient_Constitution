@@ -748,7 +748,7 @@ See **Joint invocation and satisfaction**.
 - **What it is**
   - **In scope:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) and [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints).
     - If a material system, institution, forum process, or similar governed domain can lawfully publish online, its baseline transparency disclosure must be free to the public at the access level its class requires — not behind a paywall or available only to insiders — wherever [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) applies.
-    - If publishing the raw material would violate lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [Contestability](core_05_band_accountability.md#contestability) — for example:
+    - If publishing the raw material would break lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [Contestability](core_05_band_accountability.md#contestability) — for example:
       - aggregation;
       - de-identification;
       - summary disclosure;
@@ -920,13 +920,8 @@ See **Joint invocation and satisfaction**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint).
-<<<<<<< HEAD
-- Read with: **Article XV** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement (Article XV)](core_06_rights_part_c.md#operative-steward-statement-audit). Support pointers cannot narrow it. This definition is the property layer of the audit stack; three-layer picture: [Article XV](core_06_rights_part_c.md#audit-three-layers).
-=======
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
 - Steward door (non-operative): This definition is the property layer of the audit stack. Binding next-step statement: [Operative steward statement (Article XVI)](core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](core_06_rights_part_c.md#audit-three-layers).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 </details>
 

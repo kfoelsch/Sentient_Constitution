@@ -33,13 +33,8 @@ class ParallelNormCheckTests(unittest.TestCase):
 
     def test_clean_pointer_is_ok(self) -> None:
         text = (
-<<<<<<< HEAD
-            "Open [Article XII-B](core_06_rights_part_c.md"
-            "#article-xii-b-right-to-redress-and-remedy). "
-=======
             "Open [Article XIII-B](core_06_rights_part_c.md"
             "#article-xiii-b-right-to-challenge-review-and-redress). "
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
             "The source binds."
         )
         payload = parallel_norm_check.check_text(self.indexes, text, None)

@@ -229,15 +229,9 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
        - Rights-Floor, accessibility, dependency, and ecological components;
     4. recognition or continued reliance does not foreclose:
        - survival-essential access;
-<<<<<<< HEAD
-       - **Article IV** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated; or
-       - challenge, audit, or remedy pathways protected under **Article III-A** (*Survival*), **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*), **Article XVIII-B** (*Contestability and Proportional Restriction Limits*), or applicable incorporated procedure; and
-    5. any feed into [Chapter Nine](core_09_standing_assessment.md#2-standing-records) standing records satisfies [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
-=======
        - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated; or
        - challenge, audit, or remedy pathways protected under **Article III-A** (*Survival*), **Article XIII-B** (*Right to Challenge, Review, and Redress*), **Article XIX-B** (*Contestability and Proportional Restriction Limits*), or applicable incorporated procedure; and
     5. any feed into [Chapter Nine](core_09_standing_assessment.md#2-question-1--what-happened) standing records satisfies [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 <a id="system-alignment-certification-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** any of the following offered as a substitute for forum-supervised System Alignment Certification where Chapter Eight requires it, contrary to [Dispute sequencing](core_12_forum.md#dispute-sequencing):

@@ -73,11 +73,7 @@ See: [CI-22](../../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_
 
 - **“Formalization is how they tax us out.”** The right to start a stall, and to organize with others, is a protection against being frozen out — not a rule that every stall must become a company. Lawful savings circles and mutual aid are not supposed to be treated as a crime ([CI-22](../../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md)). That is not a secret promise that you owe no tax.
 
-<<<<<<< HEAD
-- **“If I challenge the app, they will shut the SIM.”** Retaliation against good-faith reports is in the challenge floor ([Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline)). Reachability still depends on a body that actually runs that system and has agreed to follow this Constitution.
-=======
 - **“If I challenge the app, they will shut the SIM.”** Retaliation against good-faith reports is in the challenge floor ([Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)). Reachability still depends on a body that actually runs that system and has agreed to follow this Constitution.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 - **“This isn’t our law.”** Correct. It does not override applicable law ([Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)). Use inside an existing framework has to stay consistent with that framework.
 

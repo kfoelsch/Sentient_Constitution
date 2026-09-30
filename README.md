@@ -63,19 +63,6 @@ You do not have to read everything. Pick the time you have; each path builds on 
 <details>
 <summary><strong><span style="color: #2563eb;">Jump to what you need: common questions, rights at a glance, word lookup, and more</span></strong></summary>
 
-<<<<<<< HEAD
-- Burden of proof, traceability, verification → **Chapter Four**
-- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing → **Chapter Seven**
-- Constitutional Tetrad, Two Constitutional Aims, material stake → **Preamble §1 The Model**; Chapter One develops the aims into operative principles
-- Auditing / auditability / independent verification → **Article XV** is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; **[CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** is how/when. **Chapter Eight** is one large process that uses that stack — not the home
-- System alignment certification records → **Chapter Eight**
-- Contribution / violation records and measurement (Questions 1 and 2) → **Chapter Nine**
-- Standing integration and effects (Question 3) → **Chapter Ten**
-- Duty to resist unlawful or unconstitutional instructions → **[Chapter One §10.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#105-duty-to-resist)**
-- Remedy systems and enforcement realism → **Chapter Ten §9**; implementation → **CI-27**
-- Anti-constitutional misconduct designation only → **Chapter Eleven**
-- Relation to local / national / international law → **[Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)**
-=======
 | I want to… | Go here |
 |---|---|
 | Get oriented in 15 minutes, 45 minutes, or 2 hours | [Reading paths ↑](#reading-paths) |
@@ -89,7 +76,6 @@ You do not have to read everything. Pick the time you have; each path builds on 
 | Use or adopt it in my organization, lab, platform, or cooperative | [Using or adopting it: start here](START_HERE.md) |
 | Print it | [Print pack](implementation/PRINT_PACK.md) |
 | Read the actual text from the beginning | [The Preamble](core_00_preamble.md) |
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 </details>
 <br>

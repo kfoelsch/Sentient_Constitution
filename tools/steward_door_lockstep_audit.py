@@ -883,10 +883,10 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must name the default "
             "logging contract (STEWARD-DOOR-LOCKSTEP-01)"
         )
-    if "105-duty-to-resist" not in screen:
+    if "54-duty-to-resist" not in screen:
         errors.append(
-            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at Chapter One "
-            "§10.5 Duty to Resist (STEWARD-DOOR-LOCKSTEP-01)"
+            f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at Chapter Ten "
+            "§5.4 (STEWARD-DOOR-LOCKSTEP-01)"
         )
     if "10-inspectable-attributable-action" not in screen:
         errors.append(

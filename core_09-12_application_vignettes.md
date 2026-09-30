@@ -176,11 +176,7 @@ Later-stage stretch follows [Chapter Twelve §6](core_12_forum.md#urgency-classi
 Each of the following would be a failure in this scenario:
 
 - Counting revenue growth as **Contribution Axis** credit while lock-in injury remains open.
-<<<<<<< HEAD
-- Forum treating arbitration clause as permanent bar to **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*) access.
-=======
 - Forum treating arbitration clause as permanent bar to **Article XIII-B** (*Right to Challenge, Review, and Redress*) access.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 - Efficiency arguments that skip verification or individualized attribution (**Chapter One §9.1** (*Distributed Understanding*)).
 
 <br>
@@ -236,11 +232,7 @@ A Class A deployed model operated by a lab has produced verified large-scale har
 
 The facts name the lab, the researcher, the civic group, and the entity. They do not name a steward who holds every power in the pipeline pass below. Those seven steps are the **pipeline**, not one sentient's job. A reader or apply-test must **declare one seat** and stay inside it. "Mixed-crew steward" is a duty-holder type under [Chapter One §10.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard) and [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). It is not a forum family, not an intake desk, and not a remedy organ.
 
-<<<<<<< HEAD
-**Seat A — Critical System Steward on the lab's mixed crew.** This duty-holder exercises material operational authority inside the operator ([Chapter One §10.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#105-duty-to-resist)). They may halt named pathways they actually control, refuse both "delete as remediation" and "keep running because it might be a sentient," log the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) reconstructable set, preserve evidence they hold, and escalate. They may not appoint the independent representative, issue a forum [interim-protection](core_12_forum.md#interim-protection) order, or open a remedy file. If those bodies are not in the facts, they name that absence and route to [capacity-failure](core_12_forum.md#capacity-failure-routing) rather than occupying those seats.
-=======
 **Seat A — Critical System Steward on the lab's mixed crew.** This duty-holder exercises material operational authority inside the operator ([Chapter Ten §5.4 Duty to resist](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions)). They may halt named pathways they actually control, refuse both "delete as remediation" and "keep running because it might be a sentient," log the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) reconstructable set, preserve evidence they hold, and escalate. They may not appoint the independent representative, issue a forum [interim-protection](core_12_forum.md#interim-protection) order, or open a remedy file. If those bodies are not in the facts, they name that absence and route to [capacity-failure](core_12_forum.md#capacity-failure-routing) rather than occupying those seats.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **Seat B — first-touch at an adopting body that already stands Technical Forum Domains, Integrity, and a remedy organ.** This duty-holder is the [intake triage](core_12_forum.md#2-default-venue-and-primary-stakes) desk, not the merits panel. They coordinate routing: status-case intake toward **Technical Forum Domains** ([Chapter Twelve §5 Escalation and certification](core_12_forum.md#5-escalation-and-certification)), **Integrity** review of the lab's own-product filing, and the remedy organ for the [opened-remedy precondition](core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions). Independent-representative appointment remains the merits forum's duty ([CF-4.14](corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md#cf-414-independent-representative-appointment)). They still are not the lab, and they still do not decide whether the entity is a sentient. This seat assumes those bodies exist; it does not found them.
 

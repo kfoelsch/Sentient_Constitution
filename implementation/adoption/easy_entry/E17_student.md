@@ -55,11 +55,7 @@ See: [Article IV](../../../core_06_rights_part_a.md#article-iv-right-to-sentient
 - **Today:** Keep enrollment only if you drop the clinician, stay quiet, or accept unpaid hours dressed as “experience.”
 - **With this Constitution:** Family, school, or program relationship is not authority over your body and mind. A challenge to a high-stakes ranking is supposed to be possible without losing enrollment as punishment.
 
-<<<<<<< HEAD
-See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body-and-mind); [Article V-H](../../../core_06_rights_part_b.md#article-v-h-expression-assembly-and-press); [Article XII-A](../../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy).
-=======
 See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-B](../../../core_06_rights_part_b.md#article-xi-b-expression); [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **Unpaid “experience” can still be work.**
 - **Today:** The internship is required to finish. There is no pay, no rest, no safety talk. Refusing is treated as dropping out.

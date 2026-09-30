@@ -54,11 +54,7 @@ Chapter Twelve is the constitutional owner of **forum families, default venue, j
 - Upstream: [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration); [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct); [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*principles and interpretive constraints*); [Chapters Two through Four](core_02_definition_structure.md) (*tracing and verification expectations*); [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) (*definitions read together with Chapters Two through Four in the Corpus placement widget*); [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) (*Foundational Rights Floor this chapter applies together with*).
 - Downstream: [§2](#2-default-venue-and-primary-stakes) (*primary-stakes default venue, intake triage, mixed stakes, asymmetry, standing-record contests; prompt contestable threshold access; good-faith characterization and anti-gaming*); [§3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*transfer and anti-self-judging*); [§4](#4-forum-family-definitions--accountability-through-adjudication) (*forum family definitions, chambers, shared standards, and provisional operational law*); [§4.3](#43-institutional-forums) (*Internal process boundary as Institutional-family application of Dispute sequencing*); [§5](#5-escalation-and-certification) (*escalation, certification, and interim protection*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (verified findings may open, update, or correct standing records; **CF-11** implements tier clocks). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00_preamble.md#material-stake) scaling applies to routing and access burden.
-<<<<<<< HEAD
-- Read with: [Preamble §3.2](core_00_preamble.md#32-key-governance-processes) and [§3.3](core_00_preamble.md#33-governance-layers) (*process paths and governance-layer discipline*); [Article XI: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xi-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](corpus_forum.md) (**CF-6.2.2** (*Emergency, Exhaustion, and Timing Rules*) — implement, not narrow); [corpus_institutions.md](corpus_institutions.md) (*contest, secondary review, and integrity monitoring — does not replace assigned forum jurisdiction*); [Article XII-A: Reliability and Trustworthiness Baseline](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Article XXIII family](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*justice constraints referenced in the Corpus placement widget*).
-=======
 - Read with: [Preamble §3.2](core_00_preamble.md#32-key-governance-processes) and [§3.3](core_00_preamble.md#33-governance-layers) (*process paths and governance-layer discipline*); [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process); [corpus_forum.md](corpus_forum.md) (**CF-6.2.2** (*Emergency, Exhaustion, and Timing Rules*)); [corpus_institutions.md](corpus_institutions.md) (*contest, secondary review, and integrity monitoring — does not replace assigned forum jurisdiction*); [Article XIII-B: Right to Challenge, Review, and Redress](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Article XXIV family](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*justice constraints referenced in the Corpus placement widget*).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 </details>
 
@@ -119,11 +115,7 @@ flowchart TD
 They:
 
 - carry a proactive governance role, including problem resolution, root-cause analysis, prevention, remediation sequencing, and learning from patterns of failure, in alignment with **Chapter One** principles including **Safety**, **Truth**, **Wellbeing**, **Responsiveness**, and **Stewardship In Depth**.
-<<<<<<< HEAD
-- must satisfy **independence**, **contestability**, and **tracing** expectations in **Chapters Two through Four**, **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XII-B** (*Right to Redress and Remedy*) where challenge and remediation are implicated, and **Article XXIII** (*Conflict Resolution, Escalation, and Emergency Proportionality*) where justice constraints govern.
-=======
 - must satisfy **independence**, **contestability**, and **tracing** expectations in **Chapters Two through Four**, **Article XIII-B** (*Right to Challenge, Review, and Redress*) where challenge and remediation are implicated, and **Article XXIV** (*Conflict Resolution, Escalation, and Emergency Proportionality*) where justice constraints govern.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 - are subject to this instrument's most stringent expressed procedural and integrity-accountability requirements, including public justification, traceability, recusal and panel discipline, forensic and analytical support where this chapter assigns them
 - require anti-self-judging backup routing. Those requirements must not substitute political control for judicial independence.
 - **Integrity**, **Constitutional**, and **Environment** forums, and **Technical Forum Domains** when they hear sentience-status adjudication, require **published**, **contested**, **rotatable** appointment or an equivalent independence check under [Chapter Thirteen §1.2 Eligibility, contested selection, and democratic minimums](core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums). Under-appointment or underfunding of those benches is a [Chapter Ten §9 Enforcement realism and remedy systems](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) failure.
@@ -234,11 +226,7 @@ These rules limit how the table's default leads interact. They do not replace **
 
 #### 2.2 Mixed stakes and routing asymmetry
 
-<<<<<<< HEAD
-**Mixed stakes.** One record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting instruments provide, consistent with **Article XII-A** (*Reliability and Trustworthiness Baseline*), **Article XII-B** (*Right to Redress and Remedy*), and **Chapter Nine** joint-assessment and non-substitution discipline.
-=======
 One record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting instruments provide, consistent with **Article XIII-B** (*Right to Challenge, Review, and Redress*) and **Chapter Nine** joint-assessment and non-substitution discipline.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 **Asymmetry:**
 - Where **dependency**, **measurement**, or an **institutional** **monopoly** on a **necessary** **input** materially disadvantages a **sentient** party, **Institutional** or **Integrity** routing **must** be **available** when the table assigns **institutional** or **integrity** stakes.
@@ -304,11 +292,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 
 - Upstream: [§2](#2-default-venue-and-primary-stakes) (*default venue table, intake triage, mixed stakes, and asymmetry*); [Chapter Ten §2 — Integration record and decision order](core_10_standing_integration.md#2-automatic-integration-review-and-continuity) (*highest applicable non-compliance category — mixed-stakes coordination*).
 - Downstream: [§5](#5-escalation-and-certification) (*certified constitutional questions, backup routing activation, and Interim protection while coordination proceeds*).
-<<<<<<< HEAD
-- Read with: [Article XII-A](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*); [corpus_institutions.md](corpus_institutions.md) (*internal integrity process that may precede integrity forums where safeguards meet expectations*); [corpus_forum.md](corpus_forum.md) (**CF-7**, integrity-led alignment coordination).
-=======
 - Read with: [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*Right to Challenge, Review, and Redress*); [corpus_institutions.md](corpus_institutions.md) (*internal integrity process that may precede integrity forums where safeguards meet expectations*); [corpus_forum.md](corpus_forum.md) (**CF-7**, integrity-led alignment coordination).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 </details>
 
@@ -631,11 +615,7 @@ Where **necessary** to resolve a matter within jurisdiction, the forum may issue
 - Upstream: [§2](#2-default-venue-and-primary-stakes) and [§3](#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*default venue, intake, transfer, mixed stakes, and anti-self-judging backups*); [§4.6](#46-constitutional-forums) and [§4.7](#47-provisional-implementation-operational-law) (*provisional-law disposition and issuance*); [Chapter Nine §7 unified scale](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*numeric impact-slot assignment*); [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*); [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) (*Safety and Truth hooks in certified constitutional questions*).
 - Downstream: [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*); [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*contestable forum support for escalation and certification*); [Chapter Seventeen](core_17_incorporation.md) (*implementation routing for **Article VI-B** (*Sentience-Status Adjudication Floor*) implementation design*).
 - Within §5: [Interim protection](#interim-protection) (*status-quo pending merits and multi-forum interim-order conflict coordination*).
-<<<<<<< HEAD
-- Read with: [Article V-E: Sentience-Status Adjudication Floor](core_06_rights_part_b.md#article-v-e-sentience-status-adjudication-floor); [Chapter Five — Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Article XXIII-A](core_06_rights_part_d.md#article-xxiii-a-justice-objective-and-scope) (*Justice Objective and Scope*) through [Article XXIII-C](core_06_rights_part_d.md#article-xxiii-c-least-restrictive-and-time-bounded-rule) (*review safeguards referenced with Chapter Eleven designations*); [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) (*certification — alignment rulings and general doctrine*).
-=======
 - Read with: [Article VI-B: Sentience-Status Adjudication Floor](core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); [Chapter Five — Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional); [Article XXIV-A](core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*Justice Objective and Scope*) through [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-least-restrictive-and-time-bounded-rule) (*review safeguards referenced with Chapter Eleven designations*); [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*certification — alignment rulings and general doctrine*).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 </details>
 
@@ -680,11 +660,7 @@ This subsection sets out when matters are certified to **Constitutional** forums
 
 - **Certified constitutional questions:** Where resolving such a matter requires determination of constitutional meaning, validity, or structural effect under **Safety**, **Truth**, **Article I** (*Environmental Survival*), or comparable long-horizon rights and constraint provisions, the lead family must certify that question to **Constitutional** forums **under** **adopting** **instruments** that **preserve** applicable review safeguards.
 - **Provisional operational law:** Where a provisional implementation-operational-law ruling under **section 4.7** cannot be separated from constitutional validity, meaning, or structural remedy, the lead family must certify or escalate under this section. Disposition of separable provisional rulings remains under **section 4.6**.
-<<<<<<< HEAD
-- **Alignment rulings and general doctrine:** Where an **Integrity** forum's **alignment** ruling **would** establish **general** **implementation** operational **doctrine** or **class-wide** **structural** rules **outside** **case-specific** or **pattern-specific** **integrity** **remediation**, the **lead** forum **must** **certify** or **escalate** under **adopting** **instruments** consistent with **Article XII-B** (*Right to Redress and Remedy*) and **this** **section**. **Alignment** rulings **do** **not** **use** the **section 4.7** framework.
-=======
 - **Alignment rulings and general doctrine:** Where an **Integrity** forum's **alignment** ruling **would** establish **general** **implementation** operational **doctrine** or **class-wide** **structural** rules **outside** **case-specific** or **pattern-specific** **integrity** **remediation**, the **lead** forum **must** **certify** or **escalate** under **adopting** **instruments** consistent with **Article XIII-B** (*Right to Challenge, Review, and Redress*) and **this** **section**. **Alignment** rulings **do** **not** **use** the **section 4.7** framework.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 - **System recognition and revalidation:** A **forum case record** that recognizes a new system as constitutionally aligned, imposes conditions on recognition, withdraws recognition, or materially revalidates an existing system must state:
   - the system scope;
   - evidence basis;
@@ -824,13 +800,8 @@ This subsection sets out how Chapter Eleven designation relates to independent r
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-<<<<<<< HEAD
-- Upstream: [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-timely-resolution-and-anti-delay-floor) (*timely, efficient, and just floor*); [README — Standing pipeline and forums](README.md#standing-pipeline-and-forums); [Article XII-A](core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy) (*challenge and redress access*); [Article XXIII-D](core_06_rights_part_d.md#article-xxiii-d-emergency-measures-and-continuation-burden) (*continuation discipline*); [§5](#5-escalation-and-certification) (*escalation and certification clocks interact with*).
-- Downstream: [§7](#7-forum-support-before-during-and-after-review) (*inspection, forensic, and follow-through support*); [§5](#interim-protection) (*Interim protection*); [corpus_forum.md](corpus_forum.md) (**CF-11.3.1** (*target windows and timing floors*)); [corpus_institutions.md](corpus_institutions.md) (**CI-8** (*accessible pathways*)); [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-eight-eleven-application-vignettes); [Article XXIII-D](core_06_rights_part_d.md#xxiii-d-restore-challenge-clocks) (*same outer bounds as default restore-challenge windows*).
-=======
 - Upstream: [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*timely, efficient, and just floor*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together); [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*challenge and redress access*); [Article XXIV-D](core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*continuation discipline*); [§5](#5-escalation-and-certification) (*escalation and certification clocks interact with*).
 - Downstream: [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*inspection, forensic, and follow-through support*); [§5](#interim-protection) (*Interim protection*); [corpus_forum.md](corpus_forum.md) (**CF-11.3.1** (*target windows and timing floors*)); [corpus_institutions.md](corpus_institutions.md) (**CI-8** (*accessible challenge and service pathways*)); [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes); [Article XXIV-D](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) (*same outer bounds as default restore-challenge windows*).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*); [Materiality Determination](core_05_band_oversight.md#materiality-determination); [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways); [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency).
 - Steward door (non-operative): Binding next-step statement: [Operative steward statement (Article XXV-C)](core_06_rights_part_d.md#operative-steward-statement-delay). Support pointers cannot narrow it.
@@ -915,11 +886,7 @@ This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Flo
   Going past a tier’s outer bound without that documented extension is non-compliant. Indefinite deferral is non-compliant wherever constitutional interests remain unresolved.
 - **Restore-challenge after emergency containment:** The same outer bounds are the default windows for restoring notice and challenge after an [**Article XXIV-D**](core_06_rights_part_d.md#xxiv-d-restore-challenge-clocks) emergency measure that deferred them. The window runs from the start of the measure, or from when notice or challenge was deferred, whichever is earlier. Emergency deferral of notice or challenge is **Tier A** unless a documented lower-urgency showing is recorded. Continuation past the bound is the **Article XXIV-D** continuation showing, not a new clock.
 - **Anti-delay floor:** The following are non-compliant where they foreseeably nullify rights, remedies, or timely protection:
-<<<<<<< HEAD
-  - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XII-B** (*Right to Redress and Remedy*) practical access;
-=======
   - designed backlog, chronic underfunding, or inaccessible intake that defeats **Article XIII-B** (*Right to Challenge, Review, and Redress*) practical access;
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
   - delay regimes designed to exhaust claimants;
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Nine §3.1 Verified-input gate](core_09_standing_assessment.md#verified-inputs-for-standing));
@@ -939,11 +906,7 @@ This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Flo
 
 - Upstream: [§1](#1-purpose-and-role--participation-architecture) (*independence, contestability, and tracing expectations*); [§2](#2-default-venue-and-primary-stakes) (*primary-stakes routing and intake*); [§4](#4-forum-family-definitions--accountability-through-adjudication) (*forum families that hold this capacity*); [§5](#5-escalation-and-certification) (*escalation and certification that rely on contestable support*); [§6](#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tier clocks and anti-delay discipline*).
 - Downstream: [§5](#interim-protection) (*Interim protection while support work proceeds*).
-<<<<<<< HEAD
-- Read with: [corpus_forum.md](corpus_forum.md) (**CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*)); [Article XII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); [Article XV](core_06_rights_part_c.md#article-xv-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
-=======
 - Read with: [corpus_forum.md](corpus_forum.md) (**CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*)); [Article XIII-B: Right to Challenge, Review, and Redress](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 </details>
 
@@ -960,11 +923,7 @@ Forum families must maintain or obtain access to **independent** support across 
   - Boundary: it does **not** itself decide merits or open, update, or correct standing records.
 - **During review:**
   - Trigger: where **material** **uncertainty**, **technical** **opacity**, **restricted** **evidence**, or **causal** **complexity** would otherwise prevent reliable adjudication.
-<<<<<<< HEAD
-  - Capacity: forum families must have access to independent **forensic** or **analytical** capacity consistent with **Chapters Two through Four**, **Article XII-B** (*Right to Redress and Remedy*), and **Article XV** (*Audit, Transparency, and Independent Verification*).
-=======
   - Capacity: forum families must have access to independent **forensic** or **analytical** capacity consistent with **Chapters Two through Four**, **Article XIII-B** (*Right to Challenge, Review, and Redress*), and **Article XVI** (*Audit, Transparency, and Independent Verification*).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 - **After review:**
   - Capacity: where material, forum families must be able to obtain support for remedy verification, pattern follow-through, and reopening inputs.
   - Boundary: that support must **not** substitute for Chapter Nine standing measurement or Chapter Ten integration.

@@ -28,7 +28,6 @@
 
 <br>
 <a id="part-d-justice-constitutional-review-evolution-and-transition"></a>
-
 ### Parte D: Justiça, revisão constitucional, evolução e transição
 
 <br>

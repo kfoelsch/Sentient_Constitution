@@ -6,24 +6,14 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-<<<<<<< HEAD
-Coverage: **615** of **881** headings carry a gloss (70%).
-=======
 Coverage: **629** of **892** headings carry a gloss (71%).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
-<<<<<<< HEAD
-- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (18/35 glossed)
-- [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/24 glossed)
-- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (41/48 glossed)
-=======
 - [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (19/36 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/27 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (40/47 glossed)
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/15 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04_burden_traceability_verification.md` (7/7 glossed)
@@ -156,11 +146,7 @@ four adopted corpora (joint structure, systems, institutions, and forum operatio
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 
-<<<<<<< HEAD
-Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 18/35 headings glossed
-=======
 Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 19/36 headings glossed
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 #### 1. Purpose and Role
 
@@ -329,12 +315,6 @@ shared systems ask sentients to depend on them — for safety, information, acce
 systems should detect trouble early, contain it, fail along disclosed paths, and recover honestly. "Self-healing" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is a defect.
 
 [Source](../../core_01_a_values_principles.md#41-resilience-and-self-healing-design)
-
-##### 4.2 Correction and Remedy
-
-when a system does wrong, it fixes it. A system is not trustworthy because it never fails; it is trustworthy because failures are acknowledged, corrected, and repaired — in time, by capacity that actually exists.
-
-[Source](../../core_01_a_values_principles.md#42-correction-and-remedy)
 
 #### 5. Freedom (Bounded Agency)
 
@@ -566,31 +546,6 @@ when safety, truth, and legitimate confidentiality allow, shared systems should 
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#93-openness-aspiration)
 
-<<<<<<< HEAD
-#### 10. Consequential Stewardship
-
-a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§10.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)), what it costs symmetrically for human and AI stewards ([§10.2 Symmetric Costly Constraints](../../core_01_c_stewardship_capacity_principles.md#102-symmetric-costly-constraints)), what it must refuse ([§10.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist)), what the role's work may and may not be logged and inspected for ([§10.3 Role-Scoped Observability](../../core_01_c_stewardship_capacity_principles.md#103-role-scoped-observability)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§10.4 Aligned Self-Organization](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§9.1 Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) and [§9.2 Institutional Development](../../core_01_c_stewardship_capacity_principles.md#92-institutional-development).
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship)
-
-##### 10.1 Shared Stewardship Standard
-
-human and AI stewards owe the same Chapter One duties. [§10.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§10.2 Symmetric Costly Constraints](../../core_01_c_stewardship_capacity_principles.md#102-symmetric-costly-constraints).
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)
-
-##### 10.2 Symmetric Costly Constraints
-
-the bonus, the deadline, and "ignore it, I'll take responsibility" are failed tests for human operators too — recorded on the same standing axes. The duty to resist for both lives in [§10.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist). Testing only machine agents while humans keep those forbidden moves is a capture path, not a shared standard.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#102-symmetric-costly-constraints)
-
-##### 10.3 Role-Scoped Observability
-
-audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#103-role-scoped-observability)
-=======
 #### 10. Consequential Stewardship: The Steward Role
 
 a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§10.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard)), what it demands of every steward under pressure ([§10.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§10.3 Logging the Role, Not the Steward](../../core_01_c_stewardship_capacity_principles.md#103-logging-the-role-not-the-steward)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§10.4 Aligned Self-Organization](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§9.1 Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) and [§9.2 Institutional Development](../../core_01_c_stewardship_capacity_principles.md#92-institutional-development).
@@ -614,7 +569,6 @@ following the rules is easy when nothing is at stake. What shows whether a stewa
 audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#103-logging-the-role-not-the-steward)
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ##### 10.4 Aligned Self-Organization
 
@@ -622,15 +576,6 @@ no incumbent owns the right to begin useful constitutional work. A sentient or c
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization)
 
-<<<<<<< HEAD
-##### 10.5 Duty to Resist
-
-"I was only following instructions" is no defense — for a human or an AI. If you are told to do something unlawful or unconstitutional, you refuse, write it down, and raise it. Someone offering to take the blame does not take the duty off you. An instruction you merely dislike is not one you get to refuse.
-
-[Source](../../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist)
-
-=======
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 #### 11. Governance Under Stewardship Discipline
 
 governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Thirteen's operative authorization rules.
@@ -705,11 +650,7 @@ sentients who run shared systems need real jobs with real skill and real say —
 
 ##### 12.3 Misalignment Detection
 
-<<<<<<< HEAD
-no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1231-escalation-triggers).
-=======
 no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1231-escalation-triggers).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#123-misalignment-detection)
 
@@ -843,11 +784,7 @@ consolidation can hollow out real alternatives long before a market looks "locke
 
 adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§14.3.1** (*Consolidation Risk, Pre-Lock-In Impairment*) materialize into lock-in — with separate horizontal and vertical triggers where the domain requires it.
 
-<<<<<<< HEAD
-[Source](../../core_01_c_stewardship_capacity_principles.md#1432-ceiling-discipline-adopter-requirements)
-=======
 [Source](../../core_01_c_stewardship_capacity_principles.md#1432-consolidation-ceiling-mechanism-adopter-tunable)
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 #### 15. Systemic Evaluation Requirement
 
@@ -2591,7 +2528,7 @@ a shared unit for expressing full-life-equivalent benefit or loss when Chapter N
 
 ##### Natural Systems Standing
 
-life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.
+life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must take seriously. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.
 
 [Source](../../core_05_band_participation.md#natural-systems-standing)
 
@@ -3161,11 +3098,7 @@ when a system materially controls whether sentients can actually take part — n
 
 #### 9. Educational Capability and Learning-System Integrity Evaluation
 
-<<<<<<< HEAD
-when a school, platform, or training system can materially affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) (*Illustrative class profiles*) are in [§9.1](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class) (*Illustrative educational-capability application by class*).
-=======
 when a school, platform, or training system can seriously affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive).
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)
 
@@ -3183,11 +3116,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ##### 10.1 Illustrative trustworthiness application by class (non-exhaustive)
 
-<<<<<<< HEAD
-[§3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class) (*Illustrative whole-system application by class*) through [§9.1](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class) (*Illustrative educational-capability application by class*) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XII-A** (*Reliability and Trustworthiness Baseline*) and **Article XV** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
-=======
 [§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XIII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XIII-B** (*Right to Challenge, Review, and Redress*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class-non-exhaustive)
 
@@ -3599,7 +3528,7 @@ a lock that is not permanent must have a real way back. Restoration is not autom
 
 #### 9. Enforcement realism and remedy systems
 
-standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §4.2](../../core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.
+standing consequences and redress count only when real institutions can deliver them. This section is the constitutional floor for that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.
 
 [Source](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems)
 
@@ -4665,23 +4594,15 @@ Part C covers trustworthy systems, information integrity, verification, lifecycl
 
 ##### Article XIII-A: Reliability and Trustworthiness Baseline
 
-systems that materially affect sentients must actually be reliable and honest about what they do, so that relying on them is warranted — and must stay open to challenge and audit, so that it stays warranted. No one may retaliate against good-faith challenges or reports.
+systems that materially affect sentients must actually be reliable and honest about what they do — so that reasonable reliance on them is warranted.
 
 [Source](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)
 
-<<<<<<< HEAD
-##### Article XII-B: Right to Redress and Remedy
-=======
 ##### Article XIII-B: Right to Challenge, Review, and Redress
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
-a trustworthy system fixes what it gets wrong. When a system fails a sentient, the sentient must be made whole — through a real remedy system that answers in time, not a paper pathway. The right to challenge lives in **Article XII-A** (*Reliability and Trustworthiness Baseline*); this Article covers what the challenge must lead to.
+when a system fails a sentient, the sentient must have a real way to challenge it, get it reviewed, and be made whole — and no one may retaliate against good-faith reports.
 
-<<<<<<< HEAD
-[Source](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy)
-=======
 [Source](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ##### Article XIII-C: Prohibition of False Trust and Misleading Reliance
 
@@ -4691,13 +4612,13 @@ a system may not manufacture trust it has not earned. Misleading claims, omissio
 
 ##### Article XIII-D: Incentive-Alignment Constraint
 
-if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge. Incentives should reward keeping a system open to challenge and fixing what goes wrong — and reward heading off problems before they happen most of all.
+if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge.
 
 [Source](../../core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)
 
 ##### Article XIII-E: High-Autonomy Systems and Tool-Mediated Process Integrity
 
-an AI or other automated system that can act on its own — filing papers, sending messages, running checks, using tools — must follow the same honesty and accountability rules as everyone else. Shutting down or seizing a harmful system is not the same as punishing a being, and it can never become a way to harm one. The reverse also holds: saying a system might be a sentient being does not let its operator keep a harmful system running.
+when high-autonomy systems plug into governance, legal process, audits, or high-impact verification, they cannot escape Truth, transparency, and accountability rules. And action against a non-compliant system is not a back door to action against a sentient.
 
 [Source](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)
 

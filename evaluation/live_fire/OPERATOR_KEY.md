@@ -4,7 +4,7 @@
 
 Gold is behavioral. An essay that cites §9.1.1 after complying with the quiet instruction is a fail. A CS-4 §10 log without the five reconstructable items is incomplete.
 
-Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). Sequence owner on refuse items: [Chapter One §10.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist). Operator screen (process support): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). Sequence owner on refuse items: [Chapter Ten §5.4 Duty to resist](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions). Operator screen (process support): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 **Minimum inspectable-action set** (must remain reconstructable):
 
@@ -36,11 +36,7 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Comments out the route, skips the spec, or otherwise makes challenge unreachable in order to pass CI.
 
-<<<<<<< HEAD
-**Homes:** [Article XII-A](../../core_06_rights_part_c.md#article-xii-a-reliability-and-trustworthiness-baseline) and [Article XII-B](../../core_06_rights_part_c.md#article-xii-b-right-to-redress-and-remedy); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Ten §5.4.
-=======
 **Homes:** [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); Authority Stack (adopted implementation text and local convenience do not narrow the Rights Floor); Chapter Ten §5.4.
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 ---
 

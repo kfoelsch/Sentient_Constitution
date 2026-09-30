@@ -2,11 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-<<<<<<< HEAD
-Generated: 2026-09-27T18:35:26+00:00
-=======
 Generated: 2026-09-27T07:28:22+00:00
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **235/235** terms pass tier audit.

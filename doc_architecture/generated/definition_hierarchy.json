@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "generated_at": "2026-09-27T18:35:26+00:00",
-=======
   "generated_at": "2026-09-27T07:28:22+00:00",
->>>>>>> 5f677ba9d086e8f03d8668a660e1ba70ee468042
   "source": "ai_corpus/indexes/definition_registry.json",
   "overrides": "tools/architecture/hierarchy_overrides.json",
   "entry_count": 237,
