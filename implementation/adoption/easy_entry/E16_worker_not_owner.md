@@ -53,7 +53,7 @@ See: [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-bodily-main
 - **Today:** Asking why the portal failed, or why the cut happened, is logged as attitude. The next roster disappears.
 - **With this Constitution:** Retaliation against good-faith reports is in the challenge floor. A workplace note is not, by itself, an official record of verified help or harm.
 
-See: [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
+See: [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
 
 **Human and machine workers do not get two stacks.**
 - **Today:** The model is constrained; the human crew is told to skip the rule and “take responsibility.” Or the reverse: extra duties only the machine has to follow.

@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-30T06:34:52+00:00",
+  "generated_at": "2026-09-30T07:00:28+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15530,
+  "edge_count": 15554,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -244,6 +244,14 @@
       "source_anchor": "#32-key-governance-processes",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-status-and-weight-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_00_preamble.md",
+      "source_header": "3.2 Key Governance Processes",
+      "source_anchor": "#32-key-governance-processes",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-right-to-reliable-and-trustworthy-systems",
       "count": 1
     },
     {
@@ -2875,7 +2883,7 @@
       "source_header": "2. Foundational Objective: Wellbeing",
       "source_anchor": "#two-constitutional-aims",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -3371,7 +3379,7 @@
       "source_header": "2.1 Fairness",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -4763,7 +4771,15 @@
       "source_header": "4. System Stability Enabler: Trust (Coordination Integrity)",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "4. System Stability Enabler: Trust (Coordination Integrity)",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -5115,7 +5131,7 @@
       "source_header": "4.2 Correction and Remedy",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 2
     },
     {
@@ -8211,7 +8227,7 @@
       "source_header": "7. Prohibition on Absolute Override",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -9531,7 +9547,7 @@
       "source_header": "10.5 Duty to Resist",
       "source_anchor": "#105-duty-to-resist",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
       "count": 1
     },
     {
@@ -25299,7 +25315,7 @@
       "source_header": "Forum Family, Constitutional",
       "source_anchor": "#forum-family-constitutional",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -28653,6 +28669,14 @@
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional",
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Remedy System",
+      "source_anchor": "#remedy-system-constitutional",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#42-correction-and-remedy",
+      "count": 1
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -52371,7 +52395,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -56195,7 +56219,7 @@
       "source_header": "Article V-B: Cross-System Fairness and Sustainability",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
       "count": 1
     },
     {
@@ -64920,7 +64944,31 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": "#operative-steward-statement-contest",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": "#operative-steward-statement-contest",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#42-correction-and-remedy",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": "#operative-steward-statement-contest",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
@@ -64928,98 +64976,106 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#62-epistemic-disclosure-constraints",
+      "target_anchor": "#615-rights-collision-decision-test",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trust",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trust-a",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trust-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trustworthiness",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#remedy-system-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": "#operative-steward-statement-contest",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#remedy-system-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trustworthiness-a",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#remedy-system-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": "#operative-steward-statement-contest",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trustworthiness-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-a",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
       "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": "#operative-steward-statement-contest",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": "#operative-steward-statement-contest",
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": "#operative-steward-statement-contest",
+      "target_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -65060,6 +65116,94 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#42-correction-and-remedy",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#good-faith",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#good-faith-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#good-faith-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing-c",
       "count": 1
     },
     {
@@ -65144,23 +65288,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#62-how-the-full-chain-fits-together",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#31-safety-harm-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#32-truth-epistemic-integrity-constraint",
@@ -65168,154 +65296,98 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-system-stability-enabler-trust-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-rights-collision-decision-test",
+      "target_anchor": "#62-epistemic-disclosure-constraints",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#good-faith",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#good-faith-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#good-faith-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#remedy-system-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#remedy-system-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#remedy-system-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#timely-resolution-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#timely-resolution-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#timely-resolution-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#protected-reporting-whistleblowing",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#protected-reporting-whistleblowing-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#protected-reporting-whistleblowing-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-alignment-certification-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
-      "source_anchor": null,
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
+      "target_anchor": "#trust",
       "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Challenge, Review, and Redress",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
-      "target_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trust-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trust-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-o",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-c",
       "count": 1
     },
     {
@@ -65341,6 +65413,14 @@
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#11-governance-under-stewardship-discipline",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-D: Incentive-Alignment Constraint",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#1211-what-incentives-must-do",
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -65552,6 +65632,22 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-E: High-Autonomy Systems and Tool-Mediated Process Integrity",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#51-definition-and-attachment",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-E: High-Autonomy Systems and Tool-Mediated Process Integrity",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#52-proportionality-and-calibration",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIII-F: Resilience and Self-Healing Baseline",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -65588,7 +65684,7 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#63-minimization-of-avoidable-burden",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -72723,7 +72819,7 @@
       "source_header": "Article XXIV: Conflict Resolution, Escalation, and Emergency Proportionality",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -73475,7 +73571,15 @@
       "source_header": "1. Purpose, Scope, and Owner Boundary",
       "source_anchor": "#1-purpose-scope-and-owner-boundary",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "1. Purpose, Scope, and Owner Boundary",
+      "source_anchor": "#1-purpose-scope-and-owner-boundary",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -73754,6 +73858,14 @@
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
       "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
       "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#105-duty-to-resist",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#5-compliance-evidence-standard",
       "count": 1
@@ -73780,14 +73892,6 @@
       "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#attribution-integrity-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
-      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
       "count": 1
     },
     {
@@ -76659,7 +76763,15 @@
       "source_header": "12. Transparency, Auditability, and Contestability",
       "source_anchor": "#12-transparency-auditability-and-contestability",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "12. Transparency, Auditability, and Contestability",
+      "source_anchor": "#12-transparency-auditability-and-contestability",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -76947,7 +77059,15 @@
       "source_header": "14. Supervisory Sequence and Contestability Chain",
       "source_anchor": "#14-supervisory-sequence-and-contestability-chain",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "14. Supervisory Sequence and Contestability Chain",
+      "source_anchor": "#14-supervisory-sequence-and-contestability-chain",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -77722,8 +77842,8 @@
       "source_file": "core_09-12_application_vignettes.md",
       "source_header": "Who is acting",
       "source_anchor": "#vignette-6-who-is-acting",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#105-duty-to-resist",
       "count": 1
     },
     {
@@ -78307,7 +78427,15 @@
       "source_header": "3.6 Forum boundary",
       "source_anchor": "#36-forum-boundary",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_assessment.md",
+      "source_header": "3.6 Forum boundary",
+      "source_anchor": "#36-forum-boundary",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -78357,6 +78485,14 @@
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#123-misalignment-detection",
       "count": 1
+    },
+    {
+      "source_file": "core_09_standing_assessment.md",
+      "source_header": "3.7 Record custody and opening authority",
+      "source_anchor": "#37-record-custody-and-opening-authority",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#105-duty-to-resist",
+      "count": 2
     },
     {
       "source_file": "core_09_standing_assessment.md",
@@ -78419,7 +78555,7 @@
       "source_header": "3.7 Record custody and opening authority",
       "source_anchor": "#37-record-custody-and-opening-authority",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
       "count": 2
     },
     {
@@ -78437,14 +78573,6 @@
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
       "target_anchor": "#2-four-seat-constitutional-floor",
       "count": 3
-    },
-    {
-      "source_file": "core_09_standing_assessment.md",
-      "source_header": "3.7 Record custody and opening authority",
-      "source_anchor": "#37-record-custody-and-opening-authority",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
-      "count": 2
     },
     {
       "source_file": "core_09_standing_assessment.md",
@@ -79043,7 +79171,15 @@
       "source_header": "6.3 Rights-Floor and Article inputs",
       "source_anchor": "#63-rights-floor-and-article-inputs",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_assessment.md",
+      "source_header": "6.3 Rights-Floor and Article inputs",
+      "source_anchor": "#63-rights-floor-and-article-inputs",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -83267,7 +83403,15 @@
       "source_header": "1. Purpose and role — participation architecture",
       "source_anchor": "#1-purpose-and-role--participation-architecture",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_forum.md",
+      "source_header": "1. Purpose and role — participation architecture",
+      "source_anchor": "#1-purpose-and-role--participation-architecture",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -83547,7 +83691,15 @@
       "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
       "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_forum.md",
+      "source_header": "3. Transfer, consolidation, and coordination — continuity and anti-capture",
+      "source_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -83731,7 +83883,7 @@
       "source_header": "5. Escalation and certification",
       "source_anchor": "#5-escalation-and-certification",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -83899,7 +84051,15 @@
       "source_header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
       "source_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "core_12_forum.md",
+      "source_header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
+      "source_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -83979,7 +84139,7 @@
       "source_header": "7. Forum support before, during, and after review — oversight architecture",
       "source_anchor": "#7-forum-support-before-during-and-after-review--oversight-architecture",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -85114,6 +85274,14 @@
       "source_file": "core_13_governance.md",
       "source_header": "5. Authorized Roles, Competency Development, and Contribution",
       "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#105-duty-to-resist",
+      "count": 1
+    },
+    {
+      "source_file": "core_13_governance.md",
+      "source_header": "5. Authorized Roles, Competency Development, and Contribution",
+      "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-xii-c-internal-roles-accountability-and-due-process-requirements",
       "count": 1
@@ -85132,14 +85300,6 @@
       "source_anchor": null,
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
       "target_anchor": "#2-four-seat-constitutional-floor",
-      "count": 1
-    },
-    {
-      "source_file": "core_13_governance.md",
-      "source_header": "5. Authorized Roles, Competency Development, and Contribution",
-      "source_anchor": null,
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
       "count": 1
     },
     {
@@ -85979,7 +86139,7 @@
       "source_header": "6. Test 4 — Contestability and Independent Review Validity",
       "source_anchor": "#6-test-4--contestability-and-independent-review-validity",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
       "count": 1
     },
     {
@@ -86867,7 +87027,15 @@
       "source_header": "Forums",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_forum.md",
+      "source_header": "Forums",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -99651,6 +99819,14 @@
       "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
       "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#105-duty-to-resist",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
+      "source_anchor": "#ci-46-seat-catalog",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#15-systemic-evaluation-requirement",
       "count": 1
     },
@@ -99723,7 +99899,7 @@
       "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
       "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
       "count": 1
     },
     {
@@ -99813,14 +99989,6 @@
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#37-segregation-of-duties",
       "count": 1
-    },
-    {
-      "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
-      "source_anchor": "#ci-46-seat-catalog",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
-      "count": 2
     },
     {
       "source_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
@@ -118339,7 +118507,15 @@
       "source_header": "Systems and data",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems.md",
+      "source_header": "Systems and data",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -121075,6 +121251,14 @@
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#105-duty-to-resist",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
+      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#103-logging-the-role-not-the-steward",
       "count": 1
     },
@@ -121156,14 +121340,6 @@
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#37-record-custody-and-opening-authority",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
-      "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
-      "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
       "count": 1
     },
     {
@@ -121723,7 +121899,15 @@
       "source_header": "CS-5.12 In-scope catalog",
       "source_anchor": "#cs-5-12-in-scope-catalog",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.12 In-scope catalog",
+      "source_anchor": "#cs-5-12-in-scope-catalog",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {
@@ -121947,7 +122131,15 @@
       "source_header": "CS-5, Part A: User-facing capability surfaces",
       "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-challenge-review-and-redress",
+      "target_anchor": "#article-xiii-a-reliability-and-trustworthiness-baseline",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5, Part A: User-facing capability surfaces",
+      "source_anchor": "#cs-5-part-a-user-facing-capability-surfaces",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
       "count": 1
     },
     {

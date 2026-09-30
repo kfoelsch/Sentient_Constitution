@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body)
 - [Article XI-B](../../../core_06_rights_part_b.md#article-xi-b-expression)
 - [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) where unpaid “experience” is productive work used to gate the exam
-- [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)
+- [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

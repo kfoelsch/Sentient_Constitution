@@ -19,7 +19,7 @@
 
 *In plain terms: if a system that matters to your life harmed you, you should be able to find a real way to challenge it without reading the whole rulebook first. A specialist portal, a hop count, or “come back with a lawyer” is not that door. This page points at the rules. It is not already that path.*
 
-This page is for you if something went wrong and you cannot tell where to object, or the only next step is a maze. You do not have to take a label to use it. When the path itself is unusable, those rules are located in the section on [Article XXI](../../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
+This page is for you if something went wrong and you cannot tell where to object, or the only next step is a maze. You do not have to take a label to use it. When the path itself is unusable, those rules are located in the section on [Article XXI](../../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship), [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline), and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
 
 ## Lost in the maze is ordinary — not a type they get to invent
 
@@ -43,7 +43,7 @@ If a body that actually runs the systems in your life agreed to follow this Cons
 - **Today:** The only path is a specialist portal, a hop count, or “come back when you have a lawyer.”
 - **With this Constitution:** Challenge, review, and being made whole have to work in practice, in language you can actually use. Hiding the home is still a refusal.
 
-See: [Article XXI](../../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship); [Article XXI-A](../../../core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right); [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge).
+See: [Article XXI](../../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship); [Article XXI-A](../../../core_06_rights_part_c.md#article-xxi-a-proportional-comprehensibility-right); [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge).
 
 **Delay is not a neutral wait.**
 - **Today:** The inbox is open. The clock is not. Harm keeps compounding while the file sits.

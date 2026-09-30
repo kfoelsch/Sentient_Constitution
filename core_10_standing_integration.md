@@ -16,8 +16,6 @@
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations.
 >
 > Read this chapter in order: immutable Chapter Nine inputs; integration record and decision order; descriptor integration and attachment normalization; violation, correction, and prevention (remedy and correction, general standing locks, then voluntary public accountability expression where used); lock design and enforcement (definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, and special locks); contribution consequences (recency and currentness, then competency bars and clearances); final standing effect; restoration and reassessment; enforcement realism and remedy systems; pattern applications and Question 3 routing.
->
-> **Steward door (non-operative):** Binding next-step statement: [Operative steward statement](#operative-steward-statement-remedy). Support pointers in [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md) cannot narrow it.
 
 </details>
 
@@ -30,14 +28,19 @@
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
+
+<a id="operative-steward-statement-remedy"></a>
+> **Operative steward statement.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Principle: Chapter One §4.2 Correction and Remedy. Rights-Floor redress: Article XIII-B. Challenge: Article XIII-A. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
+
+</details>
+
 <br>
 
 *In plain terms: once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score.*
 
 Chapter Ten is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Nine descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
-
-<a id="operative-steward-statement-remedy"></a>
-> **Operative steward statement.** **Owner:** Chapter Ten §4.1 (assign remedy and correction from the verified violation record). Chapter Ten §9 (consequences must be institutionally real). Principle: Chapter One §4.2 Correction and Remedy. Rights-Floor challenge and redress: Article XIII-B. **Forbidden move:** Do not treat a published form as remedy. Do not wait for a filed case to preserve evidence. Do not externalize cost onto those harmed. **Clock:** Start intake, preservation, review, and repair now. Do not wait for a filed case to preserve evidence.
 
 Question 3 of the standing pipeline applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) when converting verified Chapter Nine standing records into consequences.
 <a id="1-chapter-nine-records-do-not-change"></a>
@@ -699,7 +702,7 @@ This subsection sets out what the subject must be told when an effect attaches:
   - what the subject may and may not do while the effect holds;
   - the corrective conditions and reassessment point;
   - the expected duration or review cadence; and
-  - the challenge route under **Article XIII-B** (*Right to Challenge, Review, and Redress*).
+  - the challenge route under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
 - **Honest cost:** A standing lock closes real doors and an inspectable-action duty is a real burden on the steward who carries it. Adopters must state those costs plainly in the material that describes standing to affected sentients, alongside what standing is not. Describing only the limits of standing while omitting its weight is a [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) defect.
 - **Felt-burden measure:** Adopters must measure, under the [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded named-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) under [Chapter One §6.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§7.1 Anti-aggregation of named-pathway effects](#71-anti-aggregation-of-named-pathway-effects) enforcement — not explained away.
 
@@ -735,7 +738,7 @@ Archival is not deletion. [Evidence Preservation](core_05_band_oversight.md#evid
 
 *In plain terms: standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §4.2](core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
 
-Chapter Ten applies [Chapter One §4.2](core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) to standing effects: Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XIII-B** (*Right to Challenge, Review, and Redress*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
+Chapter Ten applies [Chapter One §4.2](core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) to standing effects: Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XIII-B** (*Right to Redress and Remedy*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 

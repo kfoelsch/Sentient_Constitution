@@ -57,7 +57,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can affected sentients take part, contest, and exit, scaled to [material stake](../../core_00_preamble.md#material-stake), rather than being governed at?
 
-**Named homes (start here):** [Participation measurement family](../../core_05_apex_participation_leg.md#participation-measurement-family); [Article XIII-B — Right to Challenge, Review, and Redress](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress).
+**Named homes (start here):** [Participation measurement family](../../core_05_apex_participation_leg.md#participation-measurement-family); [Article XIII-A — Reliability and Trustworthiness Baseline](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B — Right to Redress and Remedy](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
 
 ---
 

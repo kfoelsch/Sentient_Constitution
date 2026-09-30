@@ -47,7 +47,7 @@
 
 This file is the institutional implementation home for **CI-14** (*Transitional governance and institutional evolution*).
 
-*In plain terms: **CI-14** is the institutions layer's "how do we change structure without breaking rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-3.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **CS-10**. What this file adds is local: what each institution must name, publish, and maintain locally.*
+*In plain terms: **CI-14** is the institutions layer's "how do we change structure without violating rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-3.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **CS-10**. What this file adds is local: what each institution must name, publish, and maintain locally.*
 
 **Quick orientation**
 - **The basic idea** — institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Rights and services do not get a gap year while someone reorganizes the org chart.
@@ -200,7 +200,7 @@ Time-bounded, published incentives for **good-faith voluntary turnover** or **ve
 - be audit-ready;
 - require **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization for continuation;
 - exclude coerced or bad-faith claims;
-- align with **Article XIII-B** (*Right to Challenge, Review, and Redress*) and adopted protected-reporting safeguards;
+- align with **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and adopted protected-reporting safeguards;
 - mitigate bounty-hunting failures — for example:
   - false accusation;
   - privacy invasion;

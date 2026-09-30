@@ -840,7 +840,7 @@ the A part answers one simple question — **how must this term be judged?** It 
 
 ##### 1.4 Compliance Components (C) — What Must Be True in Practice
 
-the C part answers one simple question — **what must actually hold, and when has this term been broken?** It states the real-world conditions that must be met and the failures that count — based on what can be seen in behavior and effects, not on what the system claims about itself.
+the C part answers one simple question — **what must actually hold, and when has this term been violated?** It states the real-world conditions that must be met and the failures that count — based on what can be seen in behavior and effects, not on what the system claims about itself.
 
 [Source](../../core_02_definition_structure.md#14-compliance-components-c--what-must-be-true-in-practice)
 
@@ -892,7 +892,7 @@ Source file: [`core_03_definition_integrity.md`](../../core_03_definition_integr
 
 #### 2. Non-Compliance from Observable System Behavior
 
-a system is non-compliant when what it actually does or produces would break a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.
+a system is non-compliant when what it actually does or produces would violate a definition — judged under full functional conditions, not only on paper. Evasion means weakening a definition when it is actually applied. That is non-compliance under Chapter Two §2.2 (*Non-Compliance by Structural or Applied Weakening*) — regardless of intent, awareness, or claimed purpose.
 
 [Source](../../core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior)
 
@@ -2540,7 +2540,7 @@ a shared unit for expressing full-life-equivalent benefit or loss when Chapter N
 
 ##### Natural Systems Standing
 
-life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must treat as material. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.
+life-supporting natural systems — including Earth's biosphere — have continuity and integrity interests that governance must give material weight. They are not only raw materials to extract. A published representative may bring those interests to an Environment forum in the system's own interest.
 
 [Source](../../core_05_band_participation.md#natural-systems-standing)
 
@@ -2858,7 +2858,7 @@ the Rights-Floor capacity to form, hold, and communicate views — including pol
 
 ###### Hard Content
 
-hard content is expression that is sexual or intimate, is about violence, or could materially harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.
+hard content is expression that is sexual or intimate, is about violence, or could badly harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.
 
 [Source](../../core_05_band_participation.md#hard-content)
 
@@ -3110,7 +3110,7 @@ when a system materially controls whether sentients can actually take part — n
 
 #### 9. Educational Capability and Learning-System Integrity Evaluation
 
-when a school, platform, or training system can materially affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) are in [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive).
+when a school, platform, or training system can materially affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) (*Illustrative class profiles*) are in [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#9-educational-capability-and-learning-system-integrity-evaluation)
 
@@ -3128,7 +3128,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ##### 10.1 Illustrative trustworthiness application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XIII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XIII-B** (*Right to Challenge, Review, and Redress*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) (*Illustrative whole-system application by class*) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive) (*Illustrative educational-capability application by class*) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XIII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class-non-exhaustive)
 
@@ -3740,7 +3740,7 @@ burying forums and contest desks under junk volume, copy-paste filings, or autom
 
 #### 5.4 Info-sphere zone flooding
 
-hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can break constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.
+hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can undermine constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.
 
 [Source](../../core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding)
 
@@ -4606,15 +4606,15 @@ Part C covers trustworthy systems, information integrity, verification, lifecycl
 
 ##### Article XIII-A: Reliability and Trustworthiness Baseline
 
-systems that materially affect sentients must actually be reliable and honest about what they do — so that reasonable reliance on them is warranted.
+systems that materially affect sentients must actually be reliable and honest about what they do, so that relying on them is warranted — and must stay open to challenge and audit, so that it stays warranted. No one may retaliate against good-faith challenges or reports.
 
 [Source](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline)
 
-##### Article XIII-B: Right to Challenge, Review, and Redress
+##### Article XIII-B: Right to Redress and Remedy
 
-when a system fails a sentient, the sentient must have a real way to challenge it, get it reviewed, and be made whole — and no one may retaliate against good-faith reports.
+a trustworthy system fixes what it gets wrong. When a system fails a sentient, the sentient must be made whole — through a real remedy system that answers in time, not a remedy that exists only on paper. The right to challenge lives in **Article XIII-A** (*Reliability and Trustworthiness Baseline*); this Article covers what the challenge must lead to.
 
-[Source](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress)
+[Source](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy)
 
 ##### Article XIII-C: Prohibition of False Trust and Misleading Reliance
 
@@ -4624,19 +4624,19 @@ a system may not manufacture trust it has not earned. Misleading claims, omissio
 
 ##### Article XIII-D: Incentive-Alignment Constraint
 
-if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge.
+if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge. Incentives should reward keeping a system open to challenge and fixing what goes wrong — and reward heading off problems before they happen most of all.
 
 [Source](../../core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)
 
 ##### Article XIII-E: High-Autonomy Systems and Tool-Mediated Process Integrity
 
-when high-autonomy systems plug into governance, legal process, audits, or high-impact verification, they cannot escape Truth, transparency, and accountability rules. And action against a non-compliant system is not a back door to action against a sentient.
+an AI or other automated system that can act on its own — filing papers, sending messages, running checks, using tools — must follow the same honesty and accountability rules as everyone else. Shutting down or seizing a harmful system is not the same as punishing a being, and it can never become a way to harm one. The reverse also holds: saying a system might be a sentient being does not let its operator keep a harmful system running.
 
 [Source](../../core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity)
 
 ##### Article XIII-F: Resilience and Self-Healing Baseline
 
-systems must be able to detect, contain, and recover from faults — but recovery cannot be used to hide failures, silently narrow rights, or skip root-cause work. Safe failure beats speculative auto-repair.
+when something goes wrong, a system must notice it, stop the damage from spreading, and recover. But "fixing itself" can never be used to hide what went wrong, quietly take away anyone's rights, or skip finding out why it broke. If a system is not sure a repair will work, it should stop safely rather than guess.
 
 [Source](../../core_06_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline)
 
@@ -5186,7 +5186,7 @@ if an outside process cannot deliver timely, real protection, the constitution's
 
 #### 5. Relation to Applicable External Law
 
-this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Sixteen, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without breaking that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.
+this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Sixteen, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without violating that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.
 
 [Source](../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)
 

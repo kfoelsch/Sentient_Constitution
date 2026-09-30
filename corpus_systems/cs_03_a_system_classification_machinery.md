@@ -89,7 +89,7 @@ Account for expected and credible worst-case conditions in the system's realisti
 - **transparent**, **auditable**, and **subject to challenge** under:
   - **Article XVI-A** (*Auditability and Observable Evidence*)
   - **Article XVI** (*Audit, Transparency, and Independent Verification*)'s verification-access provisions
-  - **Article XIII-B** (*Right to Challenge, Review, and Redress*)
+  - **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*)
 - **continuously revalidated** per **CJS-3.18** (*data-retention and lifecycle-integrity terms*)
 
 <a id="14-alignment-status-recognition-and-ambiguity-default"></a>
@@ -436,9 +436,9 @@ Forum verification under Chapter Eight §2 (*System Class Evaluation*) does **no
 
 *System Classification Record duty:* let affected sentients contest the file.
 
-- **Required:** The right to challenge the System Classification Record is required under [§1.3 Mandatory, functional classification](#13-mandatory-functional-classification) (**Article XIII-B**).
+- **Required:** The right to challenge the System Classification Record is required under [§1.3 Mandatory, functional classification](#13-mandatory-functional-classification) (*Mandatory, functional classification*) (**Article XIII-A**).
 - **What systems must offer:** challenge routes sentients can actually use; good-faith, timely review; and reasoned answers — including evidence of misclassification or hidden impact, and requests for review or reclassification of the record.
-- **Why:** so class findings that feed System Alignment Certification stay challengeable under **Article XIII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+- **Why:** so class findings that feed System Alignment Certification stay challengeable under **Article XIII-A** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
 - **For Class A, B, and C:** if an internal dispute about the System Classification Record cannot be resolved, escalation to external or independent review must remain available.
 - **When the challenge concerns classification assumptions, class assignment, or related evidence inside an active System Certification Record:** the contestability chain in **[Chapter Eight Part B §12 Transparency, Auditability, and Contestability](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)** and **[Chapter Eight §14 Supervisory Sequence and Contestability Chain](../core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain)** applies, and material challenges may reopen review under **[Part B §16 Reopening, Misalignment, and Non-Evasion](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)**.
 

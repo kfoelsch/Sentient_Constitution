@@ -53,7 +53,7 @@ See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-owners
 
 **Help cannot buy your clinician, your money, or who you live with.**
 - **Today:** The spare room, food, and rides are offered only if you switch clinicians, give them your bank cards, and agree “the family” will decide housing and who you see. If you refuse, they say they will have you held, or that someone you live with is not safe.
-- **With this Constitution:** You own your body and mind. Family relationship is not authority over you. Using housing or survival help as the price of those decisions is a break of this protection, not ordinary family terms you can refuse.
+- **With this Constitution:** You own your body and mind. Family relationship is not authority over you. Using housing or survival help as the price of those decisions is a violation of this protection, not ordinary family terms you can refuse.
 
 See: [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article XI-F](../../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association); [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md).
 

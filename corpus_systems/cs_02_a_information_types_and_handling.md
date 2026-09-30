@@ -126,7 +126,7 @@ Hiding, flagging, suspending, or re-labeling data while it stays usable is **not
 - preservation duties under **Article XXVII-A** (*preservation over deletion for possible sentients*)
 - functionality the sentient still wants, kept only with their ongoing consent — a deletion request withdraws that consent for the data it covers
 
-Each refusal must state its ground, what is kept, and for how long. Kept data must be limited to what that ground needs and must not be used for anything else. Refusals are challengeable under **Article XIII-B** (*Right to Challenge, Review, and Redress*).
+Each refusal must state its ground, what is kept, and for how long. Kept data must be limited to what that ground needs and must not be used for anything else. Refusals are challengeable under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
 
 <a id="cs-2-2-determination-of-classification"></a>
 ## CS-2.2 Determination of classification
@@ -605,7 +605,7 @@ Forum verification under Chapter Eight §4 (*Data Types and Handling Evaluation*
 <a id="84-challenge-the-system-data-types-record"></a>
 **8.4. Challenge the System Data Types Record.**
 
-*System Data Types Record duty:* let affected sentients contest the file so type findings feeding System Alignment Certification stay challengeable under **Article XIII-B** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
+*System Data Types Record duty:* let affected sentients contest the file so type findings feeding System Alignment Certification stay challengeable under **Article XIII-A** and, when inside an active certification record, under **[Part B §§12 and 14](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)**.
 
 Systems must offer challenge routes sentients can actually use, review claims in good faith and on time, and give reasoned answers — including evidence of mistyping, hidden impact, unsafe linkage, or overdue re-evaluation, and requests for review or retyping of the record.
 

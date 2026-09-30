@@ -230,7 +230,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     4. recognition or continued reliance does not foreclose:
        - survival-essential access;
        - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource-allocation and dependency floors where materially implicated; or
-       - challenge, audit, or remedy pathways protected under **Article III-A** (*Survival*), **Article XIII-B** (*Right to Challenge, Review, and Redress*), **Article XIX-B** (*Contestability and Proportional Restriction Limits*), or applicable incorporated procedure; and
+       - challenge, audit, or remedy pathways protected under **Article III-A** (*Survival*), **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), **Article XIX-B** (*Contestability and Proportional Restriction Limits*), or applicable incorporated procedure; and
     5. any feed into [Chapter Nine](core_09_standing_assessment.md#2-question-1--what-happened) standing records satisfies [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and does not substitute certification for standing measurement or standing effects.
 <a id="system-alignment-certification-constitutional-c"></a>
 - **What must hold**
