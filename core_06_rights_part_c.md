@@ -158,14 +158,6 @@ If the system meets the importance threshold in **Article XIII** (*Right to Reli
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-contest"></a>
-> **Operative steward statement.** **Owner:** Article XIII-A (contestability guarantee). Redress: Article XIII-B. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not let more specific adopted implementation text close challenge, review, or redress. Do not treat convenience as a Rights-Floor override. **Clock:** Invalidate or narrow the adopted implementation text now. Do not leave a permanent bar in place while a later process is promised.
-
-</details>
-
 <br>
 
 *In plain terms: systems that materially affect sentients must actually be reliable and honest about what they do, so that relying on them is warranted — and must stay open to challenge and audit, so that it stays warranted. No one may retaliate against good-faith challenges or reports.*
@@ -181,7 +173,8 @@ This Article sets out the trust guarantee for systems that materially affect sen
 - **Contestability guarantee:** Systems that materially affect sentients must stay open to challenge for as long as sentients rely on them. That requires:
   - a usable path to challenge the system's behavior, outputs, or representations and have the challenge reviewed;
   - audit and independent verification proportionate to impact and dependency under [**Article XVI**](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
-  - no narrowing of any of these because the system is certified, officially recognized, or widely relied on.
+  - no narrowing of any of these because the system is certified, officially recognized, or widely relied on;
+  - no narrowing by adopted implementation text, which says how to run challenge, review, and redress in a domain and must satisfy this Article: convenience, deadline, and local policy are lower-kind limits and cannot close challenge, review, or redress.
 - **Right to challenge and review:** Sentients have the right to:
   - challenge the reliability, integrity, or trustworthiness of systems that materially affect them;
   - access appropriate mechanisms for review and audit;
@@ -826,14 +819,6 @@ This Article sets out the floors for correction and reporting, including footpri
 - [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Risk](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-audit"></a>
-> **Operative steward statement.** **Owner:** Article XVI (floor). Auditability (property). CJS-3.3 (process). **Forbidden move:** Do not disable audit trails to hit a deadline. Do not treat Chapter Eight or adopted implementation text as a fifth audit home. **Clock:** Preserve or restore reconstructable records first. Then ship, if you still can. Missing the deadline is the failed-test cost, not a clock that authorizes dropping audit.
 
 </details>
 

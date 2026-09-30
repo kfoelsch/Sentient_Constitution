@@ -150,7 +150,7 @@ flowchart TB
 
 - Upstream: [§10 Consequential Stewardship](#10-consequential-stewardship-the-steward-role) (*Pillar 1*); [§9 Stewardship In Depth](#9-stewardship-in-depth) (parent, including *In plain terms* and Pillar 3 framing above); [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Trust](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg ([Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Educational Agency](core_05_band_participation.md#educational-agency)); **oversight** leg ([Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability)); [material stake](core_00_preamble.md#material-stake) scaling.
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement (Article XXII-A)](core_06_rights_part_d.md#operative-steward-statement-comprehensibility). Support pointers cannot narrow it.
+- Steward door (non-operative): Next-step card: [Comprehensibility](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). The card cannot narrow the Constitution.
 - Downstream: [6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); rights surface especially [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -331,7 +331,7 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 
 - Upstream: [§10 Consequential Stewardship](#10-consequential-stewardship-the-steward-role); [§9 Stewardship In Depth](#9-stewardship-in-depth); [§11 Governance Under Stewardship Discipline](#11-governance-under-stewardship-discipline).
 - Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Substrate Class](core_05_band_participation.md#substrate-class) (*substrate-agnostic application — this subsection binds duty-holders, including agents and operators who are not recognized sentients*); [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint); [Contestability](core_05_band_accountability.md#contestability); [§10.5 Duty to Resist](#105-duty-to-resist).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-shared-stewardship). Support pointers cannot narrow it.
+- Steward door (non-operative): Next-step card: [Shared stewardship](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). The card cannot narrow the Constitution.
 - Downstream: [§10.2 Alignment Under Pressure](#102-alignment-under-pressure); [§10.3 Logging the Role, Not the Steward](#103-logging-the-role-not-the-steward); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Chapter Seventeen](core_17_incorporation.md) (*adopted implementation text implements; it does not replace*); [§12.1.3 Stewardship and Operator Application](#1213-stewardship-and-operator-application).
 
 </details>
@@ -345,14 +345,6 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) · [O](core_05_band_integrative.md#authority-stack) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 - [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) · [O](core_05_band_integrative.md#constitutional-constraint) · [M](core_05_band_integrative.md#constitutional-constraint-a) · [A](core_05_band_integrative.md#constitutional-constraint-a) · [C](core_05_band_integrative.md#constitutional-constraint-c)
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-shared-stewardship"></a>
-> **Operative steward statement.** **Owner:** Chapter One §10.1 Shared Stewardship Standard. Hierarchy: Authority Stack and Constitutional Constraint. **Forbidden move:** Do not accept an AI-only morals overlay. Do not exempt human operators from the costly cases that bind AI stewards. **Clock:** Reject the overlay. Apply the shared standard. Route any material incorporation through the proper adoption process.
 
 </details>
 
@@ -542,7 +534,7 @@ The burden this duty places on a steward who carries consequential authority is 
 
 - Upstream: [§10 Consequential Stewardship](#10-consequential-stewardship-the-steward-role); [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard) (*who the duty binds*); [§10.2 Alignment Under Pressure](#102-alignment-under-pressure) (*the cover instruction as a failed test*); [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint) and [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-unlawful-instruction). Support pointers cannot narrow it.
+- Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). The card cannot narrow the Constitution.
 - Downstream: [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 
 </details>
@@ -554,14 +546,6 @@ The burden this duty places on a steward who carries consequential authority is 
 - [Good Faith](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
 - [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
 - [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) · [O](core_05_band_accountability.md#attributable-action-constitutional) · [M](core_05_band_accountability.md#attributable-action-constitutional-a) · [A](core_05_band_accountability.md#attributable-action-constitutional-a) · [C](core_05_band_accountability.md#attributable-action-constitutional-c)
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-unlawful-instruction"></a>
-> **Operative steward statement.** **Owner:** Chapter One §10.5 Duty to Resist. Shared standard: Chapter One §10.1. Violation rule: Chapter Ten §5.4. Contest floor: Article XIII-B. **Forbidden move:** Do not comply. Do not treat cover as a transfer of duty. Do not close contest pathways to be helpful. **Clock:** Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways.
 
 </details>
 
@@ -766,7 +750,7 @@ This principle binds human and AI stewards alike under [§10.1 Shared Stewardshi
 - Downstream: [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) and [§7 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
 - Downstream: [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship**.
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights); especially [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIII-D: Incentive-Alignment Constraint](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [Article XV: Info-Sphere Integrity](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), and [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-incentive). Support pointers cannot narrow it.
+- Steward door (non-operative): Next-step card: [Incentive alignment](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). The card cannot narrow the Constitution.
 
 </details>
 
@@ -787,14 +771,6 @@ This principle binds human and AI stewards alike under [§10.1 Shared Stewardshi
 - [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [System Capture](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 - [Anti-Capture](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-incentive"></a>
-> **Operative steward statement.** **Owner:** Chapter One §12. Failed-test home: §10.2. Definition: Incentive Alignment. **Forbidden move:** Do not ship by suppressing material disclosure. Do not treat the bonus as a valid compliance defense. **Clock:** Refuse the proxy. Correct the incentive. Run the shared refusal and logging screen.
 
 </details>
 
@@ -1548,7 +1524,7 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
 
 - Upstream: [§14 Market Structure](#14-market-structure); [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional).
 - Downstream: **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules); [§14.2 Pro-Competition and Anti-Domination](#142-pro-competition-and-anti-domination); [§14.3 Consolidation Ceiling](#143-consolidation-ceiling); [CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§14.3.2](#1432-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules); [Chapter Nine §4 Question 2 — how good or bad was it?](core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [Chapter Eleven §5.1 Concentration-based subversion](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-market-structure). Support pointers cannot narrow it.
+- Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure). The card cannot narrow the Constitution.
 - Subsections (reading order): [§14.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1411-concentration-threshold-triggers-adopter-tunable).
 
 </details>
@@ -1559,14 +1535,6 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
 - [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Market Structure](core_05_band_accountability.md#market-structure-constitutional) · [O](core_05_band_accountability.md#market-structure-constitutional) · [M](core_05_band_accountability.md#market-structure-constitutional-a) · [A](core_05_band_accountability.md#market-structure-constitutional-a) · [C](core_05_band_accountability.md#market-structure-constitutional-c)
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-market-structure"></a>
-> **Operative steward statement.** **Owner:** Chapter One §14 / §14.1. Operative bite: CJS-3.11.1 (*Market concentration threshold-setting discipline, adopter-tunable*). **Forbidden move:** Do not treat adopter-tunable as adopter-optional. Do not clear the floor with entity count or efficiency talk. **Clock:** Invalidate the nullifying threshold now. Restore review when the only door is closing.
 
 </details>
 

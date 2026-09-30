@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-30T13:02:34+00:00",
+  "generated_at": "2026-09-30T23:10:06+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1860,7 +1860,7 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 23,
+            "count": 22,
             "anchors": [
               "#article-xix-standing-and-participation-status",
               "#article-xxi-interoperability-portability-and-exit-integrity",
@@ -1868,8 +1868,7 @@
               "#article-xxiii-root-cause-analysis-and-adaptive-response",
               "#article-xxiv-a-bounded-interpretive-mandate",
               "#article-xxiv-c-public-reasons-challenge-rights-and-external-review",
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards",
-              "#operative-steward-statement-comprehensibility"
+              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
@@ -4742,12 +4741,11 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
               "#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
               "#article-xvi-c-verification-accessibility",
-              "#audit-three-layers",
-              "#operative-steward-statement-audit"
+              "#audit-three-layers"
             ]
           },
           {
@@ -5325,7 +5323,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 24,
+            "count": 23,
             "anchors": [
               "#attributable-action-constitutional",
               "#attribution-integrity-constitutional",
@@ -6018,7 +6016,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#61-core-tradeoff-principles",
               "#614-constitutional-floors-safety-and-process-character-constraints"
@@ -7035,11 +7033,10 @@
           },
           {
             "file": "core_06_rights_part_e.md",
-            "count": 4,
+            "count": 3,
             "anchors": [
               "#article-xxv-a-retrospective-review-and-disclosure",
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
-              "#operative-steward-statement-delay"
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -7687,7 +7684,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 30,
+            "count": 29,
             "anchors": [
               "#10-trustworthiness-and-system-reliance-integrity-evaluation",
               "#2-system-class-evaluation",
@@ -7699,10 +7696,9 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
               "#113-rights-floor-record-evaluation-non-substitution",
-              "#12-transparency-auditability-and-contestability",
               "#16-reopening-misalignment-and-non-evasion"
             ]
           },
@@ -12535,10 +12531,9 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
-              "#audit-three-layers",
-              "#operative-steward-statement-audit"
+              "#audit-three-layers"
             ]
           },
           {

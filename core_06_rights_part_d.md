@@ -764,14 +764,6 @@ Stewardship discipline for complexity, plain-language access, and burden minimiz
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-comprehensibility"></a>
-> **Operative steward statement.** **Owner:** Article XXII-A. Chapter One §9.1 Distributed Understanding. Contest floor: Article XIII-A. **Forbidden move:** Do not treat corpus density as a reason to hide the next step. Do not require a specialist to exercise Article XIII-A. **Clock:** Point at the existing card or the named home now. Do not send the reader on a scavenger hunt.
-
-</details>
-
 <br>
 
 *In plain terms: if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.*

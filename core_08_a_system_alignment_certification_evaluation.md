@@ -21,14 +21,6 @@
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-sac"></a>
-> **Operative steward statement.** **Owner:** Chapter Eight (forum-supervised SAC). Principle-layer lens: Chapter One §15. SAC is one especially large audit process under Article XVI / Auditability — not the only audit. **Forbidden move:** Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window. Do not invent a fifth audit home. Do not treat a certification badge or LEQU score as sentience status. **Clock:** Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, before the aligned claim.
-
-</details>
-
 <br>
 
 Chapter Eight, **Part A**, is the constitutional owner of **system alignment certification evaluation**. Record contents, forum supervision, contest paths, and the standing bridge are in **[Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process)**.

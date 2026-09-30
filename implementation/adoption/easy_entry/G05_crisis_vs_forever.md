@@ -27,13 +27,13 @@ Something broke. Those running the system want to skip telling you, and skip you
 - **Today:** “We’ll tell you when it is feasible.” Feasible never arrives.
 - **With this Constitution:** Fast containment is allowed when harm is imminent. Skipping notice and challenge **permanently** is not. Restore them on a published clock.
 
-See: [Chapter Twelve §6.1 Emergency measures and continuation burden](../../../core_12_forum.md#61-emergency-measures-and-continuation-burden); [Emergency](../../../core_12_forum.md#operative-steward-statement-emergency).
+See: [Chapter Twelve §6.1 Emergency measures and continuation burden](../../../core_12_forum.md#61-emergency-measures-and-continuation-burden); [Emergency](../../STEWARD_ENTRY_DOORS.md#emergency).
 
 **The clock is not a slogan.**
 - **Today:** Process, hop count, or “read more files” eats the window while harm continues.
 - **With this Constitution:** Restore notice and challenge on the same stake-scaled clocks already used for timely resolution. Continuation past the bound needs a documented showing, not a vibe.
 
-See: [Chapter Twelve §6.1 restore-challenge clocks](../../../core_12_forum.md#61-emergency-measures-and-continuation-burden); [Delay](../../../core_06_rights_part_e.md#operative-steward-statement-delay).
+See: [Chapter Twelve §6.1 restore-challenge clocks](../../../core_12_forum.md#61-emergency-measures-and-continuation-burden); [Delay](../../STEWARD_ENTRY_DOORS.md#delay).
 
 **Blocking documented containment until full notice can also fail.**
 - **Today:** A survival-critical deferral is already written down. Someone refuses to contain until every notice is perfect.

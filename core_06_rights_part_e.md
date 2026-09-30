@@ -204,7 +204,7 @@ This Article sets out the rights-collision procedure and the place of restorativ
 - Upstream: Timeliness measurement family (*Timely Resolution and anti-delay discipline as constitutional measurement*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) (*standing, integration, and forum coordination pipeline*).
 - Principles: Chapter One [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency), [Chapter One §6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), and [Chapter One §6.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
 - Downstream: [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*); [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*same outer bounds as default restore-challenge windows after emergency containment*).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement](#operative-steward-statement-delay). Support pointers cannot narrow it.
+- Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay). The card cannot narrow the Constitution.
 
 </details>
 
@@ -223,9 +223,6 @@ This Article sets out the rights-collision procedure and the place of restorativ
 <br>
 
 *In plain terms: constitutional problem resolution is a coordination and restoration system — quick, efficient, and just — not a warehouse where harm sits for years. Material disputes must move on bounded clocks through intake, verification, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.*
-
-<a id="operative-steward-statement-delay"></a>
-> **Operative steward statement.** **Owner:** Article XXV-C. Numeric home: Chapter Twelve §6. Definition: Timely Resolution. **Forbidden move:** Do not add process, hop count, or "read more adopted implementation text" in a way that eats the tier window. Do not treat a met throughput target as timely when harm persists. **Clock:** Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window.
 
 This Article sets out the anti-delay floor for constitutional problem resolution:
 

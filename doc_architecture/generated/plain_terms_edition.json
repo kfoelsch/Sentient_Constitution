@@ -521,59 +521,59 @@
           "anchor": "6-process-conflict-resolution",
           "line": 53,
           "gloss": "values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1** (*Core Tradeoff Principles*) through **§6.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.",
-          "gloss_line": 76
+          "gloss_line": 68
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "6.1 Core Tradeoff Principles",
           "anchor": "61-core-tradeoff-principles",
-          "line": 85,
+          "line": 77,
           "gloss": "when you have to limit something, match the remedy to the problem — use the lightest step that still works, choose the least harmful option, and waste the least sentient time once Safety, Truth, and rights are already satisfied. The bar rises fast when harm could be irreversible or could lock systems in.",
-          "gloss_line": 100
+          "gloss_line": 92
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "6.1.1 Necessity",
           "anchor": "611-necessity",
-          "line": 114,
+          "line": 106,
           "gloss": "a restriction attaches only when no less-restrictive effective alternative exists. The party imposing the restriction bears the burden of proving that — not the party whose freedom is being limited. Convenience, institutional habit, and \"we've always done it this way\" do not prove necessity. If a lighter option would work, the heavier one is non-compliant.",
-          "gloss_line": 128
+          "gloss_line": 120
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "6.1.2 Harm Minimization",
           "anchor": "612-harm-minimization",
-          "line": 148,
+          "line": 140,
           "gloss": "where multiple necessary options remain after [§6.1.1 Necessity](#611-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§6.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#614-constitutional-floors-safety-and-process-character-constraints).",
-          "gloss_line": 164
+          "gloss_line": 156
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "6.1.3 Proportionality",
           "anchor": "613-proportionality",
-          "line": 194,
+          "line": 186,
           "gloss": "proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if its scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.",
-          "gloss_line": 221
+          "gloss_line": 213
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "6.1.4 Constitutional Floors, Safety, and Process-Character Constraints",
           "anchor": "614-constitutional-floors-safety-and-process-character-constraints",
-          "line": 240,
+          "line": 232,
           "gloss": "harm minimization has absolute limits. No matter how proportionate, necessary, or well-shaped a restriction is, certain things cannot be permanently taken away, and certain ways of carrying out a process are always off-limits. Safety is the constraint that grounds these floors: it justifies action to prevent serious harm, but it also constrains action — safety framing cannot be used as cover for extinguishing rights, degrading dignity, or bypassing the floors stated here.",
-          "gloss_line": 257
+          "gloss_line": 249
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 6,
           "title": "Dignity Principles",
           "anchor": "dignity-principles",
-          "line": 265,
+          "line": 257,
           "gloss": null,
           "gloss_line": null
         },
@@ -582,7 +582,7 @@
           "level": 6,
           "title": "Rights-Floor Minimums Principle",
           "anchor": "rights-floor-minimums-principle",
-          "line": 271,
+          "line": 263,
           "gloss": null,
           "gloss_line": null
         },
@@ -591,7 +591,7 @@
           "level": 6,
           "title": "Anti-Degrading-Process Principle",
           "anchor": "anti-degrading-process-principle",
-          "line": 280,
+          "line": 272,
           "gloss": null,
           "gloss_line": null
         },
@@ -600,88 +600,88 @@
           "level": 5,
           "title": "6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
           "anchor": "615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-          "line": 287,
+          "line": 279,
           "gloss": "once a restriction is justified, it still has to be shaped correctly. Use the lightest effective measure, put a real clock or review cadence on it, preserve challenge and independent review, and define how the restriction ends or is restored. Convenience, severity, or administrative relabeling cannot turn a temporary rights limit into a permanent workaround.",
-          "gloss_line": 305
+          "gloss_line": 289
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "6.2 Epistemic Disclosure Constraints",
           "anchor": "62-epistemic-disclosure-constraints",
-          "line": 341,
+          "line": 325,
           "gloss": "limits on what sentients can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the record — and release information once the danger passes. Hiding problems to keep sentients calm is not allowed.",
-          "gloss_line": 368
+          "gloss_line": 352
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "6.2.1 Preservation of Epistemic Integrity",
           "anchor": "621-preservation-of-epistemic-integrity",
-          "line": 392,
+          "line": 376,
           "gloss": "truth may be withheld or delayed only where disclosure would directly enable foreseeable harm and no lesser alternative exists. Every such restriction must be narrow, time-bound, audited, and disclosed once the conditions justifying it no longer apply.",
-          "gloss_line": 418
+          "gloss_line": 402
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "6.2.2 Trust-Truth Alignment",
           "anchor": "622-trust-truth-alignment",
-          "line": 431,
+          "line": 415,
           "gloss": "where trust and truth pull in different directions, truth wins. Trust cannot be kept through lies, and disclosure must be managed thoughtfully — not suppressed for stability.",
-          "gloss_line": 450
+          "gloss_line": 434
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "6.2.3 Privacy and Informational Self-Determination",
           "anchor": "623-privacy-and-informational-self-determination",
-          "line": 455,
+          "line": 439,
           "gloss": "privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the collision is resolved under the [§6.1 decision-record discipline](#615-rights-collision-decision-test), not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.",
-          "gloss_line": 481
+          "gloss_line": 465
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "6.2.4 Proxy-Divergence Invalidation",
           "anchor": "624-proxy-divergence-invalidation",
-          "line": 516,
+          "line": 500,
           "gloss": "when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the record, with documented escalation and review.",
-          "gloss_line": 528
+          "gloss_line": 512
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "6.3 Minimization of Avoidable Burden",
           "anchor": "63-minimization-of-avoidable-burden",
-          "line": 535,
+          "line": 519,
           "gloss": "once an option satisfies Safety, Truth, rights, and the tradeoff rules in §6.1 (*Core Tradeoff Principles*), pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.",
-          "gloss_line": 559
+          "gloss_line": 543
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 3,
           "title": "7. Prohibition on Absolute Override",
           "anchor": "7-prohibition-on-absolute-override",
-          "line": 578,
+          "line": 562,
           "gloss": "no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, or **accountability** legs below what material stake requires.",
-          "gloss_line": 604
+          "gloss_line": 588
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 3,
           "title": "8. Constitutional Interpretation",
           "anchor": "8-constitutional-interpretation",
-          "line": 612,
+          "line": 596,
           "gloss": "read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely strictest or most restrictive on paper. Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.",
-          "gloss_line": 638
+          "gloss_line": 622
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "8.1 Constitutional No-Bypass Principle",
           "anchor": "81-constitutional-no-bypass-principle",
-          "line": 640,
+          "line": 624,
           "gloss": null,
           "gloss_line": null
         },
@@ -690,7 +690,7 @@
           "level": 4,
           "title": "8.2 Definitional layer and required disciplines",
           "anchor": "82-definitional-layer-and-required-disciplines",
-          "line": 684,
+          "line": 673,
           "gloss": null,
           "gloss_line": null
         },
@@ -699,7 +699,7 @@
           "level": 4,
           "title": "8.3 Ambiguity resolution",
           "anchor": "83-ambiguity-resolution",
-          "line": 739,
+          "line": 728,
           "gloss": null,
           "gloss_line": null
         },
@@ -708,16 +708,16 @@
           "level": 4,
           "title": "8.4 Constitutional Meaning Conflict Resolution",
           "anchor": "84-constitutional-meaning-conflict-resolution",
-          "line": 762,
+          "line": 751,
           "gloss": "when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.",
-          "gloss_line": 774
+          "gloss_line": 763
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "8.4.1 Integrated reading",
           "anchor": "841-integrated-reading",
-          "line": 791,
+          "line": 780,
           "gloss": null,
           "gloss_line": null
         },
@@ -726,7 +726,7 @@
           "level": 5,
           "title": "8.4.2 Last-resort internal hierarchy",
           "anchor": "842-last-resort-internal-hierarchy",
-          "line": 799,
+          "line": 788,
           "gloss": null,
           "gloss_line": null
         },
@@ -735,7 +735,7 @@
           "level": 5,
           "title": "8.4.3 Incorporation layer",
           "anchor": "843-incorporation-layer",
-          "line": 816,
+          "line": 805,
           "gloss": null,
           "gloss_line": null
         },
@@ -744,9 +744,9 @@
           "level": 5,
           "title": "8.4.4 Combined satisfaction of jointly applicable incorporated obligations",
           "anchor": "844-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
-          "line": 837,
+          "line": 826,
           "gloss": "when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.",
-          "gloss_line": 839
+          "gloss_line": 828
         }
       ]
     },
@@ -817,95 +817,95 @@
           "anchor": "101-shared-stewardship-standard",
           "line": 328,
           "gloss": "human and AI stewards owe the same Chapter One duties. [§10.5 Duty to Resist](#105-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§10.2 Alignment Under Pressure](#102-alignment-under-pressure).",
-          "gloss_line": 361
+          "gloss_line": 353
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "10.2 Alignment Under Pressure",
           "anchor": "102-alignment-under-pressure",
-          "line": 379,
+          "line": 371,
           "gloss": "following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says \"ignore the rules, I'll take the blame.\" That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard).",
-          "gloss_line": 403
+          "gloss_line": 395
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "10.3 Logging the Role, Not the Steward",
           "anchor": "103-logging-the-role-not-the-steward",
-          "line": 420,
+          "line": 412,
           "gloss": "audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.",
-          "gloss_line": 442
+          "gloss_line": 434
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "10.4 Aligned Self-Organization",
           "anchor": "104-aligned-self-organization",
-          "line": 471,
+          "line": 463,
           "gloss": "no incumbent owns the right to begin useful constitutional work. A sentient or community may notice a problem, gather others, investigate, test, preserve evidence, build a response, or create a public-serving system. When that work makes a credible, materially relevant showing, the responsible institutions must not ignore it because its authors lack status, sponsorship, or conventional credentials. They must give it a real procedural path. This does not give the community authority over others or the power to make the final decision.",
-          "gloss_line": 497
+          "gloss_line": 489
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "10.5 Duty to Resist",
           "anchor": "105-duty-to-resist",
-          "line": 539,
+          "line": 531,
           "gloss": "\"I was only following instructions\" is no defense — for a human or an AI. If you are told to do something unlawful or unconstitutional, you refuse, write it down, and raise it. Someone offering to take the blame does not take the duty off you. An instruction you merely dislike is not one you get to refuse.",
-          "gloss_line": 570
+          "gloss_line": 554
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 3,
           "title": "11. Governance Under Stewardship Discipline",
           "anchor": "11-governance-under-stewardship-discipline",
-          "line": 589,
+          "line": 573,
           "gloss": "governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Thirteen's operative authorization rules.",
-          "gloss_line": 620
+          "gloss_line": 604
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "11.1 Governance as Authorized Structure",
           "anchor": "111-governance-as-authorized-structure",
-          "line": 625,
+          "line": 609,
           "gloss": "governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§9 Stewardship In Depth](#9-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.",
-          "gloss_line": 653
+          "gloss_line": 637
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "11.2 Segregation of Duties",
           "anchor": "112-segregation-of-duties",
-          "line": 679,
+          "line": 663,
           "gloss": "governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Seven supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.",
-          "gloss_line": 705
+          "gloss_line": 689
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "11.3 Ongoing Justification",
           "anchor": "113-ongoing-justification",
-          "line": 712,
+          "line": 696,
           "gloss": "arrangements cannot coast forever on \"we've always done it this way.\" Important rules for who decides, who has a voice, how influence is weighted, how money is allocated, and how institutions are designed have to keep proving they still fit this Constitution — on a schedule others can see and challenge.",
-          "gloss_line": 740
+          "gloss_line": 724
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 3,
           "title": "12. Incentive Alignment and System Capture",
           "anchor": "12-incentive-alignment-and-system-capture",
-          "line": 757,
+          "line": 741,
           "gloss": "governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not \"working governance\" — it is a defect this Constitution names and corrects through the incentive and capture discipline below. Incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.",
-          "gloss_line": 803
+          "gloss_line": 779
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "12.1 Alignment Requirement",
           "anchor": "121-alignment-requirement",
-          "line": 816,
+          "line": 792,
           "gloss": null,
           "gloss_line": null
         },
@@ -914,7 +914,7 @@
           "level": 5,
           "title": "12.1.1 What Incentives Must Do",
           "anchor": "1211-what-incentives-must-do",
-          "line": 842,
+          "line": 818,
           "gloss": null,
           "gloss_line": null
         },
@@ -923,7 +923,7 @@
           "level": 5,
           "title": "12.1.2 What Incentives Must Not Do",
           "anchor": "1212-what-incentives-must-not-do",
-          "line": 857,
+          "line": 833,
           "gloss": null,
           "gloss_line": null
         },
@@ -932,7 +932,7 @@
           "level": 5,
           "title": "12.1.3 Stewardship and Operator Application",
           "anchor": "1213-stewardship-and-operator-application",
-          "line": 879,
+          "line": 855,
           "gloss": null,
           "gloss_line": null
         },
@@ -941,16 +941,16 @@
           "level": 5,
           "title": "12.1.4 Role-Depth and Material-Responsibility Pathways",
           "anchor": "1214-role-depth-and-material-responsibility-pathways",
-          "line": 888,
+          "line": 864,
           "gloss": "sentients who run shared systems need real jobs with real skill and real say — not titles, suggestion boxes, or committees that cannot change anything. How those jobs are defined, who can grow into them, and how they are held to account is spelled out later. This subsection only says what those paths have to do: they have to make participation real, and the more that is actually at stake, the more real they have to be.",
-          "gloss_line": 899
+          "gloss_line": 875
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "12.1.5 Constitutional Outcome Claims Discipline",
           "anchor": "1215-constitutional-outcome-claims-discipline",
-          "line": 913,
+          "line": 889,
           "gloss": null,
           "gloss_line": null
         },
@@ -959,7 +959,7 @@
           "level": 4,
           "title": "12.2 Convenient Proxies and Proxy Divergence",
           "anchor": "122-convenient-proxies-and-proxy-divergence",
-          "line": 936,
+          "line": 912,
           "gloss": null,
           "gloss_line": null
         },
@@ -968,225 +968,225 @@
           "level": 4,
           "title": "12.3 Misalignment Detection",
           "anchor": "123-misalignment-detection",
-          "line": 968,
+          "line": 944,
           "gloss": "no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§12.3.1 Escalation Triggers](#1231-escalation-triggers).",
-          "gloss_line": 991
+          "gloss_line": 967
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "12.3.1 Escalation Triggers",
           "anchor": "1231-escalation-triggers",
-          "line": 1009,
+          "line": 985,
           "gloss": "spotting capture is not treating it as ordinary operations. Once it shows up, it is an escalation trigger — prove it under Chapters Two through Five, and if the system cannot fix it in place, send it to the correction and standing homes named below.",
-          "gloss_line": 1022
+          "gloss_line": 998
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "12.4 Misalignment Correction and Capture Response",
           "anchor": "124-misalignment-correction-and-capture-response",
-          "line": 1041,
+          "line": 1017,
           "gloss": "once misalignment or capture is detected, systems must actually fix it — modify bad incentives, constrain concentrated control, and restore alignment. Concentrated or hidden control that defeats challenge, oversight, accountability, or durable **Continuity** must be disclosed, mitigated, and escalated — not absorbed as ordinary operation.",
-          "gloss_line": 1065
+          "gloss_line": 1041
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "12.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
           "anchor": "125-contingent-claims-games-of-chance-and-event-contract-markets",
-          "line": 1094,
+          "line": 1070,
           "gloss": "betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§12.5.1 What May Not Be Rewarded](#1251-what-may-not-be-rewarded). Who decides outcomes is [§12.5.2 Who Decides Outcomes](#1252-who-decides-outcomes). What signals count is [§12.5.3 Market Signals Are Not Constitutional Proof](#1253-market-signals-are-not-constitutional-proof). Where detailed rules live is [§12.5.4 Proportionate Controls and Implementation Custody](#1254-proportionate-controls-and-implementation-custody).",
-          "gloss_line": 1127
+          "gloss_line": 1103
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "12.5.1 What May Not Be Rewarded",
           "anchor": "1251-what-may-not-be-rewarded",
-          "line": 1146,
+          "line": 1122,
           "gloss": "these systems may not be built so that the payout, the bonus, or the business model gets better when someone is harmed, coerced, or corrupted — or when whoever decides the outcome is captured.",
-          "gloss_line": 1158
+          "gloss_line": 1134
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "12.5.2 Who Decides Outcomes",
           "anchor": "1252-who-decides-outcomes",
-          "line": 1168,
+          "line": 1144,
           "gloss": "whoever decides whether the bet paid out cannot be captured.",
-          "gloss_line": 1179
+          "gloss_line": 1155
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "12.5.3 Market Signals Are Not Constitutional Proof",
           "anchor": "1253-market-signals-are-not-constitutional-proof",
-          "line": 1195,
+          "line": 1171,
           "gloss": "odds and prices are not proof of what is true or what this Constitution requires.",
-          "gloss_line": 1206
+          "gloss_line": 1182
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "12.5.4 Proportionate Controls and Implementation Custody",
           "anchor": "1254-proportionate-controls-and-implementation-custody",
-          "line": 1217,
+          "line": 1193,
           "gloss": "how tightly you run these systems has to match how much is actually at stake. This chapter does not write the gambling code — adopting law and the systems and institutions adopted corpora do that.",
-          "gloss_line": 1229
+          "gloss_line": 1205
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "12.6 Successor Responsibility and Formal-Structure Non-Escape",
           "anchor": "126-successor-responsibility-and-formal-structure-non-escape",
-          "line": 1252,
+          "line": 1228,
           "gloss": "bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.",
-          "gloss_line": 1275
+          "gloss_line": 1251
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 3,
           "title": "13. Shared-System Capacity",
           "anchor": "13-shared-system-capacity",
-          "line": 1307,
+          "line": 1283,
           "gloss": "when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§13.1 Productive Capacity (Instrumental Good)](#131-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§13.1.1 Preserve, Expand, and What Does Not Count](#1311-preserve-expand-and-what-does-not-count)**. **[§13.2 Constitutional Efficiency](#132-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§14 Market Structure](#14-market-structure)** stops a handful of players from hollowing that out. None of it counts if the \"progress\" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.",
-          "gloss_line": 1344
+          "gloss_line": 1320
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "13.1 Productive Capacity (Instrumental Good)",
           "anchor": "131-productive-capacity-instrumental-good",
-          "line": 1373,
+          "line": 1349,
           "gloss": "productive capacity is the \"can we actually get things done?\" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§13.1.1 Preserve, Expand, and What Does Not Count](#1311-preserve-expand-and-what-does-not-count).",
-          "gloss_line": 1400
+          "gloss_line": 1376
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "13.1.1 Preserve, Expand, and What Does Not Count",
           "anchor": "1311-preserve-expand-and-what-does-not-count",
-          "line": 1409,
+          "line": 1385,
           "gloss": "keep the ability to get things done, and grow it when that would waste less of everyone's time — but not by hoarding, faking the numbers, stripping rights, or dumping harm on others or the planet. Metrics that no longer prove real outcomes do not count.",
-          "gloss_line": 1421
+          "gloss_line": 1397
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "13.2 Constitutional Efficiency",
           "anchor": "132-constitutional-efficiency",
-          "line": 1453,
+          "line": 1429,
           "gloss": "constitutional efficiency is the \"are we getting our money's worth in human terms?\" aspect of shared-system capacity. More real benefit for each hour of sentient time, attention, and shared effort — not cutting corners on rights, truth, safety, or ecology just to look fast, lean, or cheap.",
-          "gloss_line": 1466
+          "gloss_line": 1442
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 3,
           "title": "14. Market Structure",
           "anchor": "14-market-structure",
-          "line": 1497,
+          "line": 1473,
           "gloss": "sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§14.1–§14.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.",
-          "gloss_line": 1525
+          "gloss_line": 1501
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "14.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
           "anchor": "141-market-concentration-threshold-mechanism-adopter-tunable",
-          "line": 1544,
+          "line": 1520,
           "gloss": "this section draws the floor against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Eleven judges that — and only after Chapter Nine has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§14.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1411-concentration-threshold-triggers-adopter-tunable).",
-          "gloss_line": 1575
+          "gloss_line": 1543
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "14.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
           "anchor": "1411-concentration-threshold-triggers-adopter-tunable",
-          "line": 1617,
+          "line": 1585,
           "gloss": "adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the floor still holds. The detailed threshold-setting rules live in CJS-3.11.1.",
-          "gloss_line": 1629
+          "gloss_line": 1597
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "14.2 Pro-Competition and Anti-Domination",
           "anchor": "142-pro-competition-and-anti-domination",
-          "line": 1644,
+          "line": 1612,
           "gloss": "the Constitution does not punish a system merely for being large, useful, or temporarily ahead because it genuinely innovated. It does prohibit durable domination: control over markets, labor, platforms, infrastructure, data, compute, credentials, or resources that lets an actor lock others in, block rivals, suppress fair bargaining, or capture constitutional accountability.",
-          "gloss_line": 1671
+          "gloss_line": 1639
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "14.2.1 Pro-Competition Duties (Dos)",
           "anchor": "1421-pro-competition-duties-dos",
-          "line": 1680,
+          "line": 1648,
           "gloss": "(dos): markets and dependencies must stay open enough that sentients can enter, switch, bargain fairly, and leave — getting big or inventing something new is fine when contestability remains real.",
-          "gloss_line": 1682
+          "gloss_line": 1650
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "14.2.2 Anti-Domination Prohibitions (Don'ts)",
           "anchor": "1422-anti-domination-prohibitions-donts",
-          "line": 1716,
+          "line": 1684,
           "gloss": "(don'ts): no locking sentients in, blocking rivals, suppressing fair bargaining, or capturing constitutional accountability.",
-          "gloss_line": 1718
+          "gloss_line": 1686
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "14.2.3 Remedies",
           "anchor": "1423-remedies",
-          "line": 1760,
+          "line": 1728,
           "gloss": "when domination is substantiated, the response must fit the harm, restore real choice, and not punish size for its own sake.",
-          "gloss_line": 1762
+          "gloss_line": 1730
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 4,
           "title": "14.3 Consolidation Ceiling",
           "anchor": "143-consolidation-ceiling",
-          "line": 1788,
+          "line": 1756,
           "gloss": "consolidation can steal real choice long before a market looks locked down. **Consolidation ceilings** give governance and stewards an early-warning power — to scrutinize, intervene, and correct pile-ups while exit and rivalry still exist.",
-          "gloss_line": 1813
+          "gloss_line": 1781
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "14.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "anchor": "1431-consolidation-risk-pre-lock-in-impairment",
-          "line": 1847,
+          "line": 1815,
           "gloss": "consolidation can hollow out real alternatives long before a market looks \"locked down.\" Two kinds of pile-up matter especially: **horizontal consolidation** — fewer rivals at the same layer — and **vertical consolidation** — control across layers that creates chokepoints and lock-in.",
-          "gloss_line": 1849
+          "gloss_line": 1817
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 5,
           "title": "14.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
           "anchor": "1432-consolidation-ceiling-mechanism-adopter-tunable",
-          "line": 1896,
+          "line": 1864,
           "gloss": "adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§14.3.1** (*Consolidation Risk, Pre-Lock-In Impairment*) materialize into lock-in — with separate horizontal and vertical triggers where the domain requires it.",
-          "gloss_line": 1908
+          "gloss_line": 1876
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 3,
           "title": "15. Systemic Evaluation Requirement",
           "anchor": "15-systemic-evaluation-requirement",
-          "line": 1934,
+          "line": 1902,
           "gloss": "this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI**, [Auditability](core_05_band_oversight.md#auditability)).",
-          "gloss_line": 1965
+          "gloss_line": 1933
         },
         {
           "file": "core_01_c_stewardship_capacity_principles.md",
           "level": 3,
           "title": "16. Integrated Application",
           "anchor": "16-integrated-application",
-          "line": 1990,
+          "line": 1958,
           "gloss": "every later chapter, institutional design, and system is read through this chapter's principles — and those principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.",
-          "gloss_line": 2022
+          "gloss_line": 1990
         }
       ]
     },
@@ -4533,72 +4533,72 @@
           "level": 3,
           "title": "1. Purpose, Scope, and Owner Boundary",
           "anchor": "1-purpose-scope-and-owner-boundary",
-          "line": 43,
+          "line": 35,
           "gloss": "before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This floor applies both to the [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control the official record of that check, or decide the challenge to it.",
-          "gloss_line": 56
+          "gloss_line": 48
         },
         {
           "file": "core_07_functional_independence_segregation_of_duties.md",
           "level": 3,
           "title": "2. Four-Seat Constitutional Floor",
           "anchor": "2-four-seat-constitutional-floor",
-          "line": 79,
+          "line": 71,
           "gloss": "every materially binding act has four jobs—ask or act, check, keep the official record, and hear the challenge. The jobs stay distinct even when a small organization is allowed to place a permitted pair in one office.",
-          "gloss_line": 92
+          "gloss_line": 84
         },
         {
           "file": "core_07_functional_independence_segregation_of_duties.md",
           "level": 3,
           "title": "3. Independence, Conflict, and Control Lines",
           "anchor": "3-independence-conflict-and-control-lines",
-          "line": 171,
+          "line": 163,
           "gloss": "changing the name on the desk does not create independence. A verifier or reviewer is not independent when the sentient or office seeking the result can direct, remove, reward, punish, or quietly overrule them on that act.",
-          "gloss_line": 184
+          "gloss_line": 176
         },
         {
           "file": "core_07_functional_independence_segregation_of_duties.md",
           "level": 3,
           "title": "4. Published Placement, Vacancy, and Substitution",
           "anchor": "4-published-placement-vacancy-and-substitution",
-          "line": 198,
+          "line": 190,
           "gloss": "an organization must say who holds each job before the hard case arrives, including who takes over when the ordinary holder is absent or conflicted.",
-          "gloss_line": 211
+          "gloss_line": 203
         },
         {
           "file": "core_07_functional_independence_segregation_of_duties.md",
           "level": 3,
           "title": "5. Proportional Scaling and Merged Hosting",
           "anchor": "5-proportional-scaling-and-merged-hosting",
-          "line": 226,
+          "line": 218,
           "gloss": "small and informal groups do not need four large departments. They do need a real independent check, a usable record, and a challenge path. Scale changes the staffing method, not the protected separation.",
-          "gloss_line": 239
+          "gloss_line": 231
         },
         {
           "file": "core_07_functional_independence_segregation_of_duties.md",
           "level": 3,
           "title": "6. Emergency and Urgent Action",
           "anchor": "6-emergency-and-urgent-action",
-          "line": 263,
+          "line": 255,
           "gloss": "a real emergency may justify acting before the ordinary check finishes. It changes sequence, not seat ownership or the class-scaled separation posture. It does not let the actor certify its own continuation, erase the trail, or become the final reviewer afterward.",
-          "gloss_line": 276
+          "gloss_line": 268
         },
         {
           "file": "core_07_functional_independence_segregation_of_duties.md",
           "level": 3,
           "title": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
           "anchor": "7-act-records-attributable-handoffs-and-wrong-seat-routing",
-          "line": 302,
+          "line": 294,
           "gloss": "every materially binding act has an Act Record showing what happened, who held each seat, what was decided, and where a challenge goes. When a step is not yours, do not silently take it and do not simply walk away. Record the gap and pass the matter to the right place.",
-          "gloss_line": 315
+          "gloss_line": 307
         },
         {
           "file": "core_07_functional_independence_segregation_of_duties.md",
           "level": 3,
           "title": "8. Relationship to Later Processes",
           "anchor": "8-relationship-to-later-processes",
-          "line": 348,
+          "line": 340,
           "gloss": "later chapters tell each process what to evaluate, record, decide, and remedy. This chapter tells those processes how power must be separated while they do it.",
-          "gloss_line": 361
+          "gloss_line": 353
         }
       ]
     },
@@ -4622,16 +4622,16 @@
           "level": 3,
           "title": "1. Purpose and Role",
           "anchor": "1-purpose-and-role",
-          "line": 36,
+          "line": 28,
           "gloss": "When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI**, [Auditability](core_05_band_oversight.md#auditability)).",
-          "gloss_line": 49
+          "gloss_line": 41
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "1.1 Rights floors this chapter helps verify",
           "anchor": "11-rights-floors-this-chapter-helps-verify",
-          "line": 82,
+          "line": 74,
           "gloss": null,
           "gloss_line": null
         },
@@ -4640,34 +4640,34 @@
           "level": 3,
           "title": "2. System Class Evaluation",
           "anchor": "2-system-class-evaluation",
-          "line": 97,
+          "line": 89,
           "gloss": "certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher classes mean stricter proof, faster re-checks, and stronger resilience expectations. See [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) for one system per class; [§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive), [§4.1 Illustrative data-handling application by class (non-exhaustive)](#41-illustrative-data-handling-application-by-class-non-exhaustive), [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](#51-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§6.1 Illustrative cross-system support application by class (non-exhaustive)](#61-illustrative-cross-system-support-application-by-class-non-exhaustive), [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](#71-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§8.1 Illustrative accessibility application by class (non-exhaustive)](#81-illustrative-accessibility-application-by-class-non-exhaustive), [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive), and [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](#101-illustrative-trustworthiness-application-by-class-non-exhaustive) walk through how evaluation applies to each.",
-          "gloss_line": 110
+          "gloss_line": 102
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "2.1 Illustrative class profiles (non-exhaustive)",
           "anchor": "21-illustrative-class-profiles-non-exhaustive",
-          "line": 137,
+          "line": 129,
           "gloss": "class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per class; [§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive), [§4.1 Illustrative data-handling application by class (non-exhaustive)](#41-illustrative-data-handling-application-by-class-non-exhaustive), [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](#51-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§6.1 Illustrative cross-system support application by class (non-exhaustive)](#61-illustrative-cross-system-support-application-by-class-non-exhaustive), [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](#71-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§8.1 Illustrative accessibility application by class (non-exhaustive)](#81-illustrative-accessibility-application-by-class-non-exhaustive), [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive), and [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](#101-illustrative-trustworthiness-application-by-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, cross-system-support, nondiscrimination, accessibility, educational-capability, and trustworthiness evaluation apply to each. Formal class rules, dimension tests, and reclassification triggers live in **CS-3**; these examples do not add classes or narrow CS-3.",
-          "gloss_line": 139
+          "gloss_line": 131
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "3. Whole-System Certification Evaluation",
           "anchor": "3-whole-system-certification-evaluation",
-          "line": 154,
+          "line": 146,
           "gloss": "you cannot green-light one piece of a system and ignore the rest. Reviewers need the full picture — what it depends on, what breaks when something upstream fails, harms that show up later or add up over time, whether sentients can actually use it (not just on paper), whether private information stays properly walled off, whether sentients can leave without being trapped, whether groups can still organize without the system splitting them apart, whether short-term wins hide long-term damage, and whether real oversight and accountability will still work when a lot is on the line.",
-          "gloss_line": 168
+          "gloss_line": 160
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "3.1 Systemic Scope and Risk Factors",
           "anchor": "31-systemic-scope-and-risk-factors",
-          "line": 173,
+          "line": 165,
           "gloss": null,
           "gloss_line": null
         },
@@ -4676,7 +4676,7 @@
           "level": 4,
           "title": "3.2 Accessibility Under Sentience Non-Exclusion",
           "anchor": "32-accessibility-under-sentience-non-exclusion",
-          "line": 205,
+          "line": 197,
           "gloss": null,
           "gloss_line": null
         },
@@ -4685,16 +4685,16 @@
           "level": 4,
           "title": "3.3 Privacy (Informational) Joint Invocation",
           "anchor": "33-privacy-informational-joint-invocation",
-          "line": 216,
+          "line": 208,
           "gloss": "Chapter Six spreads privacy protections across several articles — not one tidy corner. If a certification review touches more than one of those protections, reviewers must check every one that actually applies. Clearing the easiest box and calling it done is not enough.",
-          "gloss_line": 218
+          "gloss_line": 210
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "3.4 Voluntary Discontinuation and Exit Rights",
           "anchor": "34-voluntary-discontinuation-and-exit-rights",
-          "line": 230,
+          "line": 222,
           "gloss": null,
           "gloss_line": null
         },
@@ -4703,7 +4703,7 @@
           "level": 4,
           "title": "3.5 Assembly, Collective Organization, and Institutional Formation",
           "anchor": "35-assembly-collective-organization-and-institutional-formation",
-          "line": 235,
+          "line": 227,
           "gloss": null,
           "gloss_line": null
         },
@@ -4712,16 +4712,16 @@
           "level": 5,
           "title": "3.5.1 Dissent and Peaceful Protest",
           "anchor": "351-dissent-and-peaceful-protest",
-          "line": 240,
+          "line": 232,
           "gloss": "a system cannot be certified as aligned if it quietly punishes the sentients who disagree with it. Reviewers must check whether sentients can actually object and protest, and whether dissent is being counted against them anywhere in the system's logic — including when the dissenter is the system itself.",
-          "gloss_line": 242
+          "gloss_line": 234
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "3.6 Time-Consistency Constraint",
           "anchor": "36-time-consistency-constraint",
-          "line": 253,
+          "line": 245,
           "gloss": null,
           "gloss_line": null
         },
@@ -4730,144 +4730,144 @@
           "level": 4,
           "title": "3.7 Governance, Incentive, and Contestability Discipline",
           "anchor": "37-governance-incentive-and-contestability-discipline",
-          "line": 258,
+          "line": 250,
           "gloss": "the review is not finished unless reviewers ask whether four basics will still work at the level of risk involved — whether sentients can actually take part, whether the work can be watched and checked, whether wrongdoing can be answered for, and whether decisions will move fast enough when it matters. Reviewers also need to know who actually holds material authority and who answers for what — not a vague \"the team\" or a blame-shifting shell. Those questions must be answered for a valid certification.",
-          "gloss_line": 260
+          "gloss_line": 252
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "3.8 Illustrative whole-system application by class (non-exhaustive)",
           "anchor": "38-illustrative-whole-system-application-by-class-non-exhaustive",
-          "line": 275,
+          "line": 267,
           "gloss": "[§3.1 Systemic Scope and Risk Factors](#31-systemic-scope-and-risk-factors) through [§3.7 Governance, Incentive, and Contestability Discipline](#37-governance-incentive-and-contestability-discipline) list what a whole-system review must consider. This subsection shows how those factors apply to one illustrative system per class — dependency chains, participation, privacy, exit, assembly, time horizon, and governance discipline — and what must appear on the record. The systems match [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive); [§4.1 Illustrative data-handling application by class (non-exhaustive)](#41-illustrative-data-handling-application-by-class-non-exhaustive) walks the same systems through data-handling detail.",
-          "gloss_line": 277
+          "gloss_line": 269
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "4. Data Types and Handling Evaluation",
           "anchor": "4-data-types-and-handling-evaluation",
-          "line": 383,
+          "line": 375,
           "gloss": "certification also has to look at what kinds of data the system touches and whether it handles them appropriately — including whether types are still right on the current review cycle, and whether the underlying infrastructure is strong enough for that data at that system class. The type rules and the System Data Types Record live in the systems corpus; certification checks that the rules were actually applied and that the record is honest.",
-          "gloss_line": 397
+          "gloss_line": 389
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "4.1 Illustrative data-handling application by class (non-exhaustive)",
           "anchor": "41-illustrative-data-handling-application-by-class-non-exhaustive",
-          "line": 415,
+          "line": 407,
           "gloss": "the class table in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) says higher classes need tougher review. [§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) shows what that means for **whole-system evaluation** on the same three systems; [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) continues the series for **ecological footprint**. This subsection shows what it means for **data types and handling** — what types are in scope, what certification must check, and what must appear on the record. CS-2 still owns the type rules; these walkthroughs do not add types or narrow CS-2.",
-          "gloss_line": 417
+          "gloss_line": 409
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "5. Ecological Footprint Evaluation",
           "anchor": "5-ecological-footprint-evaluation",
-          "line": 485,
+          "line": 477,
           "gloss": "certification has to evaluate attributable environmental burdens honestly when they matter — including upstream and downstream links — not only whether the operator claims the system is green. Footprint accounting methods and numeric reduction targets live in other instruments; certification checks that attribution, disclosure, and comparison were actually evaluated where material. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](#51-illustrative-ecological-footprint-application-by-class-non-exhaustive).",
-          "gloss_line": 499
+          "gloss_line": 491
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "5.1 Illustrative ecological-footprint application by class (non-exhaustive)",
           "anchor": "51-illustrative-ecological-footprint-application-by-class-non-exhaustive",
-          "line": 513,
+          "line": 505,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) and [§4.1 Illustrative data-handling application by class (non-exhaustive)](#41-illustrative-data-handling-application-by-class-non-exhaustive) walk the same three systems through whole-system and data-handling review. This subsection shows what **ecological footprint** evaluation means for each — which environmental burdens count, what certification must check, and what must appear on the record. **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five still own attribution and transparency rules; accounting methods and numeric targets live in other instruments; these walkthroughs do not add footprint duties beyond what those instruments require.",
-          "gloss_line": 515
+          "gloss_line": 507
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "6. Proportionate Cross-System Support Evaluation",
           "anchor": "6-proportionate-cross-system-support-evaluation",
-          "line": 593,
+          "line": 585,
           "gloss": "when a system materially draws on shared foundations, certification has to check whether it puts enough traceable support back — not whether the operator says the books balance. Allocation formulas and numeric targets live in other instruments; certification checks that dependency maps, return flows, and cross-system fairness were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§6.1 Illustrative cross-system support application by class (non-exhaustive)](#61-illustrative-cross-system-support-application-by-class-non-exhaustive).",
-          "gloss_line": 607
+          "gloss_line": 599
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "6.1 Illustrative cross-system support application by class (non-exhaustive)",
           "anchor": "61-illustrative-cross-system-support-application-by-class-non-exhaustive",
-          "line": 639,
+          "line": 631,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6 Proportionate Cross-System Support Evaluation](#6-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8, CS-9, and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.",
-          "gloss_line": 641
+          "gloss_line": 633
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "7. Nondiscrimination Evaluation",
           "anchor": "7-nondiscrimination-evaluation",
-          "line": 720,
+          "line": 712,
           "gloss": "when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other instruments, later corpus additions, or adoption instruments; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](#71-illustrative-nondiscrimination-application-by-class-non-exhaustive).",
-          "gloss_line": 734
+          "gloss_line": 726
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "7.1 Illustrative nondiscrimination application by class (non-exhaustive)",
           "anchor": "71-illustrative-nondiscrimination-application-by-class-non-exhaustive",
-          "line": 750,
+          "line": 742,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§6.1 Illustrative cross-system support application by class (non-exhaustive)](#61-illustrative-cross-system-support-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **nondiscrimination** evaluation means for each — which decision pathways count, what certification must check when the **Article VI-C** (*Nondiscrimination*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI-C** (*Nondiscrimination*) still own canonical fairness and proxy-discrimination rules; inclusion quotas, demographic targets, and fairness-algorithm designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics.",
-          "gloss_line": 752
+          "gloss_line": 744
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "8. Accessibility Evaluation",
           "anchor": "8-accessibility-evaluation",
-          "line": 827,
+          "line": 819,
           "gloss": "when a system materially controls whether sentients can actually take part — not just whether a door is labeled \"open\" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other instruments, later corpus additions, or adoption instruments; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§8.1 Illustrative accessibility application by class (non-exhaustive)](#81-illustrative-accessibility-application-by-class-non-exhaustive).",
-          "gloss_line": 841
+          "gloss_line": 833
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "8.1 Illustrative accessibility application by class (non-exhaustive)",
           "anchor": "81-illustrative-accessibility-application-by-class-non-exhaustive",
-          "line": 857,
+          "line": 849,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](#71-illustrative-nondiscrimination-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **accessibility** evaluation means for each — which participation pathways count, what certification must check when the **Article VI-D** (*Accessibility*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article VI-D** (*Accessibility*) still own canonical accessibility rules; accommodation catalogs, interface standards, and universal-design specifications may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Educational accessibility remains owned by **Article IV-A** (*Equal Educational Access*) and is not narrowed here.",
-          "gloss_line": 859
+          "gloss_line": 851
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "9. Educational Capability and Learning-System Integrity Evaluation",
           "anchor": "9-educational-capability-and-learning-system-integrity-evaluation",
-          "line": 934,
+          "line": 926,
           "gloss": "when a school, platform, or training system can materially affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) (*Illustrative class profiles*) are in [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive).",
-          "gloss_line": 948
+          "gloss_line": 940
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "9.1 Illustrative educational-capability application by class (non-exhaustive)",
           "anchor": "91-illustrative-educational-capability-application-by-class-non-exhaustive",
-          "line": 964,
+          "line": 956,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§8.1 Illustrative accessibility application by class (non-exhaustive)](#81-illustrative-accessibility-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **educational capability and learning-system integrity** evaluation means for each — which ranking, assessment, credential, and retraining pathways count, what certification must check when the **Article IV** (*Right to Sentient-Centered Education*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article IV** (*Right to Sentient-Centered Education*) still own canonical educational-agency and learning-system rules; curricula, credential catalogs, assessment rubrics, and funding models may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Equal access and educational accessibility remain owned by **Article IV-A** (*Equal Educational Access*) and are not narrowed here.",
-          "gloss_line": 966
+          "gloss_line": 958
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 3,
           "title": "10. Trustworthiness and System-Reliance Integrity Evaluation",
           "anchor": "10-trustworthiness-and-system-reliance-integrity-evaluation",
-          "line": 1044,
+          "line": 1036,
           "gloss": "when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other instruments; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [§2.1 Illustrative class profiles (non-exhaustive)](#21-illustrative-class-profiles-non-exhaustive) are in [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](#101-illustrative-trustworthiness-application-by-class-non-exhaustive).",
-          "gloss_line": 1058
+          "gloss_line": 1050
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "10.1 Illustrative trustworthiness application by class (non-exhaustive)",
           "anchor": "101-illustrative-trustworthiness-application-by-class-non-exhaustive",
-          "line": 1074,
+          "line": 1066,
           "gloss": "[§3.8 Illustrative whole-system application by class (non-exhaustive)](#38-illustrative-whole-system-application-by-class-non-exhaustive) (*Illustrative whole-system application by class*) through [§9.1 Illustrative educational-capability application by class (non-exhaustive)](#91-illustrative-educational-capability-application-by-class-non-exhaustive) (*Illustrative educational-capability application by class*) walk the same three systems through earlier evaluation domains. This subsection shows what **trustworthiness and system-reliance integrity** evaluation means for each — which reliance, disclosure, incentive, challenge, and recovery pathways count, what certification must check when the **Article XIII** (*Right to Reliable and Trustworthy Systems*) materiality trigger applies, and what must appear on the record. Chapter Five and **Article XIII** (*Right to Reliable and Trustworthy Systems*) still own canonical trustworthiness rules; reliability metrics, disclosure formats, incentive-alignment mechanics, and regression-test designs may live in other instruments, later corpus additions, or adoption instruments; these walkthroughs do not prescribe those mechanics. Challenge and audit rights remain owned by **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XVI** (*Audit, Transparency, and Independent Verification*) — not narrowed here.",
-          "gloss_line": 1076
+          "gloss_line": 1068
         }
       ]
     },
@@ -4972,7 +4972,7 @@
           "level": 4,
           "title": "14.3 Anti-bypass",
           "anchor": "143-anti-bypass",
-          "line": 376,
+          "line": 378,
           "gloss": null,
           "gloss_line": null
         },
@@ -4981,18 +4981,18 @@
           "level": 3,
           "title": "15. Relationship to Standing",
           "anchor": "15-relationship-to-standing",
-          "line": 384,
+          "line": 386,
           "gloss": "certification can feed standing, but it is not standing. A good or bad certification record may supply verified facts to Chapter Nine — only through a strict gate — and Chapters Nine and Ten alone decide standing records and effects.",
-          "gloss_line": 397
+          "gloss_line": 399
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
           "title": "16. Reopening, Misalignment, and Non-Evasion",
           "anchor": "16-reopening-misalignment-and-non-evasion",
-          "line": 457,
+          "line": 459,
           "gloss": "a certification does not last forever. When the system, the risks, or the facts change — or when someone credibly challenges the record — review must reopen. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.",
-          "gloss_line": 470
+          "gloss_line": 472
         }
       ]
     },
@@ -5026,23 +5026,23 @@
           "anchor": "chapter-nine-compliance-violation-and-standing-model",
           "line": 2,
           "gloss": "this chapter writes down what happened and how good or how harmful it was — on two separate tracks, never one net score. Filing a case is not standing by itself.",
-          "gloss_line": 52
+          "gloss_line": 44
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 3,
           "title": "1. The three questions",
           "anchor": "1-the-three-questions",
-          "line": 59,
+          "line": 51,
           "gloss": "standing is worked out by answering three questions in order. Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.",
-          "gloss_line": 61
+          "gloss_line": 53
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 4,
           "title": "1.1 Purpose and scope",
           "anchor": "11-purpose-and-scope",
-          "line": 77,
+          "line": 69,
           "gloss": null,
           "gloss_line": null
         },
@@ -5051,16 +5051,16 @@
           "level": 3,
           "title": "2. Question 1 — what happened?",
           "anchor": "2-question-1--what-happened",
-          "line": 101,
+          "line": 93,
           "gloss": "Question 1 establishes a bounded, contestable account of what happened. It identifies the subject, event or pattern, time period, verified facts, and record status before any rating or consequence is considered. Verified help and verified violations use separate records so one cannot erase the other. These records are not popularity scores or vague labels.",
-          "gloss_line": 114
+          "gloss_line": 106
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 4,
           "title": "2.1 What Question 1 must establish",
           "anchor": "21-what-question-1-must-establish",
-          "line": 118,
+          "line": 110,
           "gloss": null,
           "gloss_line": null
         },
@@ -5069,7 +5069,7 @@
           "level": 4,
           "title": "2.2 Linked records and no-offset bridge",
           "anchor": "22-linked-records-and-no-offset-bridge",
-          "line": 161,
+          "line": 153,
           "gloss": null,
           "gloss_line": null
         },
@@ -5078,16 +5078,16 @@
           "level": 4,
           "title": "2.3 Question 1 event-type guide — what kind of help or harm occurred?",
           "anchor": "23-question-1-event-type-guide--what-kind-of-help-or-harm-occurred",
-          "line": 191,
+          "line": 183,
           "gloss": "use these tables to describe what happened after the facts are verified. They help identify the kind of contribution or violation involved. They do not decide how good or bad it was, assign a slot, or determine what happens because of it.",
-          "gloss_line": 193
+          "gloss_line": 185
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 5,
           "title": "2.3.1 Contribution event types",
           "anchor": "231-contribution-event-types",
-          "line": 197,
+          "line": 189,
           "gloss": null,
           "gloss_line": null
         },
@@ -5096,7 +5096,7 @@
           "level": 5,
           "title": "2.3.2 Violation event types",
           "anchor": "232-violation-event-types",
-          "line": 220,
+          "line": 212,
           "gloss": null,
           "gloss_line": null
         },
@@ -5105,16 +5105,16 @@
           "level": 3,
           "title": "3. Verification and record requirements",
           "anchor": "3-standing-record-operational-requirements",
-          "line": 245,
+          "line": 237,
           "gloss": "This section states what each standing record must contain, who may open and hold it, and how it may be challenged or corrected. Question 2 measurements may be added only after the verified factual basis is recorded.",
-          "gloss_line": 257
+          "gloss_line": 249
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 4,
           "title": "3.1 Minimum record contents",
           "anchor": "31-minimum-record-contents",
-          "line": 263,
+          "line": 255,
           "gloss": null,
           "gloss_line": null
         },
@@ -5123,7 +5123,7 @@
           "level": 4,
           "title": "3.2 Related record cross-references",
           "anchor": "32-related-record-cross-references",
-          "line": 343,
+          "line": 337,
           "gloss": null,
           "gloss_line": null
         },
@@ -5132,7 +5132,7 @@
           "level": 4,
           "title": "3.3 Collective and actor-specific records",
           "anchor": "33-collective-and-actor-specific-records",
-          "line": 359,
+          "line": 353,
           "gloss": null,
           "gloss_line": null
         },
@@ -5141,7 +5141,7 @@
           "level": 4,
           "title": "3.4 Versioning",
           "anchor": "34-versioning",
-          "line": 370,
+          "line": 364,
           "gloss": null,
           "gloss_line": null
         },
@@ -5150,7 +5150,7 @@
           "level": 4,
           "title": "3.5 Implementation tools",
           "anchor": "35-implementation-tools",
-          "line": 384,
+          "line": 378,
           "gloss": null,
           "gloss_line": null
         },
@@ -5159,34 +5159,34 @@
           "level": 4,
           "title": "3.6 Forum boundary",
           "anchor": "36-forum-boundary",
-          "line": 390,
+          "line": 384,
           "gloss": "forums are where disputes get supervised, challenged, and turned into verified outcomes — but filing a case or winning a narrative fight does not update standing. The verified-input gate in **section 3.1** still applies. When a forum verifies the facts under Chapters Two through Four, it may **open, update, or correct** a standing record — or **set a bad record aside on challenge**. Forums do not merge good and bad into one score or invent the standing category by themselves.",
-          "gloss_line": 393
+          "gloss_line": 387
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 4,
           "title": "3.7 Record custody and opening authority",
           "anchor": "37-record-custody-and-opening-authority",
-          "line": 406,
+          "line": 400,
           "gloss": "four different jobs touch a standing record — asking for a change, verifying the facts, writing and holding the record, and hearing a challenge — and verification is never combined with record entry or challenge review on the same record. Every record names the office that verified it and the office that holds it. Neither may be the subject of the record, the party claiming the help, the party alleging the harm, or anyone those parties control. A steward inside the operator can stop the action, log it, preserve evidence, and escalate — but cannot verify the facts and write the record on their own institution. If the Charter forgot to say who verifies, the institution's published lane map already answers: the assurance lane, never the office that runs the system or keeps the store. The sentient who first opened a record is a witness to it later, not its judge — believed to be candid, but proved right or wrong by the logs, not by their say-so. If the custodian is the one with the conflict, that one record moves to a substitute holder; the store does not. A dispute raised on a record is logged and routed the day it arrives; it does not wait for a filing. Every change names who made it and under what authority. None of this is a reason to wait.",
-          "gloss_line": 420
+          "gloss_line": 414
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 3,
           "title": "4. Question 2 — how good or bad was it?",
           "anchor": "4-standing-measurement-evaluation-dimensions",
-          "line": 489,
+          "line": 483,
           "gloss": "Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified adverse findings. The axes remain separate; they are not two sides of a net score.",
-          "gloss_line": 501
+          "gloss_line": 495
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 4,
           "title": "4.1 Contribution magnitude-input dimensions",
           "anchor": "41-magnitude-input-dimensions",
-          "line": 537,
+          "line": 531,
           "gloss": null,
           "gloss_line": null
         },
@@ -5195,7 +5195,7 @@
           "level": 4,
           "title": "4.2 Violation severity-input dimensions",
           "anchor": "42-violation-severity-input-dimensions",
-          "line": 571,
+          "line": 565,
           "gloss": null,
           "gloss_line": null
         },
@@ -5204,7 +5204,7 @@
           "level": 4,
           "title": "4.3 Contribution route descriptor catalog and measurement roles",
           "anchor": "43-route-descriptor-measurement-roles",
-          "line": 610,
+          "line": 604,
           "gloss": null,
           "gloss_line": null
         },
@@ -5213,7 +5213,7 @@
           "level": 4,
           "title": "4.4 Violation route descriptor catalog and measurement roles",
           "anchor": "44-violation-route-descriptor-catalog-and-measurement-roles",
-          "line": 640,
+          "line": 634,
           "gloss": null,
           "gloss_line": null
         },
@@ -5222,7 +5222,7 @@
           "level": 4,
           "title": "4.5 Cross-question measurement hooks",
           "anchor": "45-dual-use-measurement-hooks",
-          "line": 668,
+          "line": 662,
           "gloss": null,
           "gloss_line": null
         },
@@ -5231,7 +5231,7 @@
           "level": 5,
           "title": "4.5.1 Similar-looking facts that must stay separate",
           "anchor": "451-similar-looking-facts-that-must-stay-separate",
-          "line": 692,
+          "line": 686,
           "gloss": null,
           "gloss_line": null
         },
@@ -5240,25 +5240,25 @@
           "level": 4,
           "title": "4.6 Measurement illustrations",
           "anchor": "46-question-1-measurement-illustrations",
-          "line": 705,
+          "line": 699,
           "gloss": "these illustrations begin with Question 1's verified facts, then show how **section 4** measures them. They record Question 2 outputs — not standing effects. Slot assignment follows **sections 5–7**; Question 3 is answered in [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration). For the Question 3 continuation of Examples 1 and 2 below, see [Chapter Ten §10.1 Informal ecological stewardship / competency clearance](core_10_standing_integration.md#101-informal-ecological-stewardship-competency-clearance) and [§10.2 Ecological negligence with concealment](core_10_standing_integration.md#102-ecological-negligence-with-concealment).",
-          "gloss_line": 707
+          "gloss_line": 701
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 3,
           "title": "5. Slot grammar and shared scaling",
           "anchor": "5-slot-grammar-and-display-labels",
-          "line": 754,
+          "line": 748,
           "gloss": "this section gives consistent names to nine possible positions on each of two separate axes and explains how impact scales across them. One axis records verified contribution; the other records verified violations. Sharing a slot number does not combine the axes or offset harm with help. The unified scale in **section 7** assigns both axes by proportional LEQU impact.",
-          "gloss_line": 763
+          "gloss_line": 757
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 4,
           "title": "5.1 Table 1 — slot display labels",
           "anchor": "51-table-1--slot-display-labels",
-          "line": 774,
+          "line": 768,
           "gloss": null,
           "gloss_line": null
         },
@@ -5267,25 +5267,25 @@
           "level": 4,
           "title": "5.2 Shared impact-scaling rules",
           "anchor": "52-shared-impact-scaling-rules",
-          "line": 809,
+          "line": 803,
           "gloss": "impact is not measured by headcount alone. A profound benefit or loss affecting one sentient may be more significant than a shallow effect affecting many. Count, depth, vulnerability, duration, durability, reach, and constitutional character must be assessed together.",
-          "gloss_line": 811
+          "gloss_line": 805
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 3,
           "title": "6. Constitutional inputs to axis assignment",
           "anchor": "6-constitutional-inputs-to-axis-assignment",
-          "line": 837,
+          "line": 831,
           "gloss": "before choosing a slot, identify the constitutional sources that say what baseline, benefit, duty, harm, or violation is being measured. Use the links below to apply those sources at their canonical homes; do not turn this routing step into another score or a substitute definition.",
-          "gloss_line": 839
+          "gloss_line": 833
         },
         {
           "file": "core_09_standing_assessment.md",
           "level": 4,
           "title": "6.1 Definition inputs",
           "anchor": "61-definition-inputs",
-          "line": 852,
+          "line": 846,
           "gloss": null,
           "gloss_line": null
         },
@@ -5294,7 +5294,7 @@
           "level": 4,
           "title": "6.2 Principle inputs",
           "anchor": "62-principle-inputs",
-          "line": 867,
+          "line": 861,
           "gloss": null,
           "gloss_line": null
         },
@@ -5303,7 +5303,7 @@
           "level": 4,
           "title": "6.3 Rights-Floor and Article inputs",
           "anchor": "63-rights-floor-and-article-inputs",
-          "line": 879,
+          "line": 873,
           "gloss": null,
           "gloss_line": null
         },
@@ -5312,9 +5312,9 @@
           "level": 3,
           "title": "7. Unified proportional LEQU scale — Contribution and Violation Axes",
           "anchor": "7-unified-proportional-lequ-scale--contribution-and-violation-axes",
-          "line": 893,
+          "line": 887,
           "gloss": "**Table 2** places verified contribution and verified violation on the same proportional impact scale. Higher slots mean greater integrated constitutional benefit or loss. The records and axes remain separate: the common scale compares magnitude, not moral worth, and never permits help to cancel harm.",
-          "gloss_line": 908
+          "gloss_line": 902
         }
       ]
     },
@@ -5331,95 +5331,95 @@
           "anchor": "chapter-ten-standing-effects-and-integration",
           "line": 2,
           "gloss": "once help and harm are verified, this chapter says what actually follows — remedy, locks, and real effects — without rewriting the facts or folding the two tracks into one score.",
-          "gloss_line": 41
+          "gloss_line": 33
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "1. Chapter Nine records do not change",
           "anchor": "1-chapter-nine-records-do-not-change",
-          "line": 48,
+          "line": 40,
           "gloss": "this chapter starts from the verified records Chapter Nine already made. It may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.",
-          "gloss_line": 50
+          "gloss_line": 42
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "2. Automatic integration, review, and continuity",
           "anchor": "2-automatic-integration-review-and-continuity",
-          "line": 97,
+          "line": 89,
           "gloss": "when a verified record opens or changes, an integration record must follow automatically, keep the two tracks separate, and stay inspectable — including when the computers are down.",
-          "gloss_line": 99
+          "gloss_line": 91
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "3. Descriptor integration and attachment normalization",
           "anchor": "3-descriptor-integration-and-attachment-normalization",
-          "line": 133,
+          "line": 125,
           "gloss": "descriptors say **how** verified help or harm happened. This chapter imports them as they were recorded. It may not quietly reclassify them to change the result.",
-          "gloss_line": 135
+          "gloss_line": 127
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "4. Violation, correction, and prevention",
           "anchor": "4-violation-correction-and-prevention",
-          "line": 149,
+          "line": 141,
           "gloss": "Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Nine has verified a violation, remedy and correction come from that record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive named pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified record.",
-          "gloss_line": 151
+          "gloss_line": 143
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "4.1 Remedy and correction",
           "anchor": "41-remedy-and-correction",
-          "line": 156,
+          "line": 148,
           "gloss": "after a verified **violation**, this subsection assigns the **remedy** and **correction** parts of the durable fix. **Remedy** repairs what was broken for those harmed. **Correction** changes what caused it. **Prevention** — standing locks and related named pathway limits — begins in [§4.2 Prevention — general standing locks](#42-prevention--general-standing-locks), with design and enforcement in [§5 Lock design and enforcement](#5-lock-design-and-enforcement), and must not be waived while recurrence risk remains live. Where restorative pathways include public acknowledgment or apology, [§4.3 Voluntary public accountability expression](#43-voluntary-public-accountability-expression) applies.",
-          "gloss_line": 158
+          "gloss_line": 150
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "4.2 Prevention — general standing locks",
           "anchor": "42-prevention--general-standing-locks",
-          "line": 195,
+          "line": 187,
           "gloss": "this is the **prevention** part of the durable fix. A standing lock reduces risk by closing or limiting named pathways that would let the same harm continue or happen again while the violation is still unresolved or unrepaired. It is not punishment for its own sake, and it is not a popularity or reputation score.",
-          "gloss_line": 197
+          "gloss_line": 189
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "4.3 Voluntary public accountability expression",
           "anchor": "43-voluntary-public-accountability-expression",
-          "line": 221,
+          "line": 213,
           "gloss": "a public apology or acknowledgment, if used on a restorative pathway, must be voluntary, sincere, and non-degrading. Refusal alone does not raise sanctions. A fake or abusive apology does not count as repair.",
-          "gloss_line": 223
+          "gloss_line": 215
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "4.4 Remedy parity and lock preconditions",
           "anchor": "44-remedy-parity-and-lock-preconditions",
-          "line": 245,
+          "line": 237,
           "gloss": "locks are cheap to issue; repair, restoration, and review are expensive to run. Left alone, the cheap half of this chapter keeps working while the expensive half starves. This subsection ties them together: an ordinary lock cannot attach until the remedy file for the same finding is actually open, and when an adopter's remedy or restoration work for a class of locks falls behind its clock, new ordinary locks in that class default to the lightest form and existing ones come up for review. The gravest locks are exempt so that flooding the remedy queue cannot spring them.",
-          "gloss_line": 247
+          "gloss_line": 239
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "5. Lock design and enforcement",
           "anchor": "5-lock-design-and-enforcement",
-          "line": 262,
+          "line": 254,
           "gloss": "once a lock is needed under [§4.2 Prevention — general standing locks](#42-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Nine measurement, and it does not let contribution offset a lock.",
-          "gloss_line": 264
+          "gloss_line": 256
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "5.1 Definition and attachment",
           "anchor": "51-definition-and-attachment",
-          "line": 278,
+          "line": 270,
           "gloss": null,
           "gloss_line": null
         },
@@ -5428,7 +5428,7 @@
           "level": 4,
           "title": "5.2 Proportionality and calibration",
           "anchor": "52-proportionality-and-calibration",
-          "line": 309,
+          "line": 301,
           "gloss": null,
           "gloss_line": null
         },
@@ -5437,7 +5437,7 @@
           "level": 4,
           "title": "5.3 Record visibility and escalation",
           "anchor": "53-record-visibility-and-escalation",
-          "line": 316,
+          "line": 308,
           "gloss": null,
           "gloss_line": null
         },
@@ -5446,7 +5446,7 @@
           "level": 4,
           "title": "5.4 Special violation rules",
           "anchor": "54-special-violation-rules",
-          "line": 331,
+          "line": 323,
           "gloss": null,
           "gloss_line": null
         },
@@ -5455,7 +5455,7 @@
           "level": 4,
           "title": "5.5 Special locks",
           "anchor": "55-special-locks",
-          "line": 431,
+          "line": 423,
           "gloss": null,
           "gloss_line": null
         },
@@ -5464,79 +5464,79 @@
           "level": 3,
           "title": "6. Contribution consequences second",
           "anchor": "6-contribution-consequences-second",
-          "line": 529,
+          "line": 521,
           "gloss": "after violation, correction, and prevention are assigned under [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) and [§5 Lock design and enforcement](#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.",
-          "gloss_line": 531
+          "gloss_line": 523
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "6.1 Recency and currentness",
           "anchor": "61-recency-and-currentness",
-          "line": 548,
+          "line": 540,
           "gloss": "how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Nine measurement, and time alone does not cure an unresolved violation.",
-          "gloss_line": 550
+          "gloss_line": 542
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "6.2 Competency bars and clearances",
           "anchor": "62-competency-bars-and-clearances",
-          "line": 591,
+          "line": 583,
           "gloss": "a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the named pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.",
-          "gloss_line": 593
+          "gloss_line": 585
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "7. Final standing effect",
           "anchor": "7-final-standing-effect",
-          "line": 649,
+          "line": 641,
           "gloss": "when the earlier steps are done, the system must state — one named pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.",
-          "gloss_line": 651
+          "gloss_line": 643
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "7.1 Anti-aggregation of named-pathway effects",
           "anchor": "71-anti-aggregation-of-named-pathway-effects",
-          "line": 679,
+          "line": 671,
           "gloss": "this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.",
-          "gloss_line": 681
+          "gloss_line": 673
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "7.2 Plain statement of effect and burden",
           "anchor": "72-plain-statement-of-effect-and-burden",
-          "line": 701,
+          "line": 693,
           "gloss": "no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.",
-          "gloss_line": 703
+          "gloss_line": 695
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "8. Restoration and reassessment",
           "anchor": "8-restoration-and-reassessment",
-          "line": 717,
+          "line": 709,
           "gloss": "a lock that is not permanent must have a real way back. Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.",
-          "gloss_line": 719
+          "gloss_line": 711
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "9. Enforcement realism and remedy systems",
           "anchor": "9-enforcement-realism-and-remedy-systems",
-          "line": 744,
+          "line": 736,
           "gloss": "standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §4.2](core_01_a_values_principles.md#42-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.",
-          "gloss_line": 746
+          "gloss_line": 738
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "9.1 Remediation capacity and funding",
           "anchor": "91-remediation-capacity-and-funding",
-          "line": 753,
+          "line": 745,
           "gloss": null,
           "gloss_line": null
         },
@@ -5545,7 +5545,7 @@
           "level": 4,
           "title": "9.2 Remedy-system durability",
           "anchor": "92-remedy-system-durability",
-          "line": 773,
+          "line": 765,
           "gloss": null,
           "gloss_line": null
         },
@@ -5554,7 +5554,7 @@
           "level": 4,
           "title": "9.3 Cross-jurisdiction continuity",
           "anchor": "93-cross-jurisdiction-continuity",
-          "line": 814,
+          "line": 806,
           "gloss": null,
           "gloss_line": null
         },
@@ -5563,7 +5563,7 @@
           "level": 4,
           "title": "9.4 Anti-evasion and look-through authority",
           "anchor": "94-anti-evasion-and-look-through-authority",
-          "line": 819,
+          "line": 811,
           "gloss": null,
           "gloss_line": null
         },
@@ -5572,7 +5572,7 @@
           "level": 4,
           "title": "9.5 Timely implementation",
           "anchor": "95-timely-implementation",
-          "line": 824,
+          "line": 816,
           "gloss": null,
           "gloss_line": null
         },
@@ -5581,16 +5581,16 @@
           "level": 3,
           "title": "10. Pattern applications and Question 3 routing",
           "anchor": "10-named-applications",
-          "line": 832,
+          "line": 824,
           "gloss": "these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Eleven §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers named pathway prevention from the verified record; Chapter Eleven separately answers designation criteria routing.",
-          "gloss_line": 844
+          "gloss_line": 836
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "10.1 Informal ecological stewardship / competency clearance",
           "anchor": "101-informal-ecological-stewardship-competency-clearance",
-          "line": 850,
+          "line": 842,
           "gloss": null,
           "gloss_line": null
         },
@@ -5599,7 +5599,7 @@
           "level": 4,
           "title": "10.2 Ecological negligence with concealment",
           "anchor": "102-ecological-negligence-with-concealment",
-          "line": 864,
+          "line": 856,
           "gloss": null,
           "gloss_line": null
         },
@@ -5608,7 +5608,7 @@
           "level": 4,
           "title": "10.3 Forum-integrity deception or recusal failure",
           "anchor": "103-forum-integrity-deception-or-recusal-failure",
-          "line": 878,
+          "line": 870,
           "gloss": null,
           "gloss_line": null
         },
@@ -5617,7 +5617,7 @@
           "level": 4,
           "title": "10.4 Recurrence after completed restitution",
           "anchor": "104-recurrence-after-completed-restitution",
-          "line": 887,
+          "line": 879,
           "gloss": null,
           "gloss_line": null
         },
@@ -5626,7 +5626,7 @@
           "level": 4,
           "title": "10.5 Champion repair while a lock remains active",
           "anchor": "105-champion-repair-while-a-lock-remains-active",
-          "line": 900,
+          "line": 892,
           "gloss": null,
           "gloss_line": null
         },
@@ -5635,7 +5635,7 @@
           "level": 4,
           "title": "10.6 Institutional vehicle and successor evasion",
           "anchor": "106-institutional-vehicle-and-successor-evasion",
-          "line": 912,
+          "line": 904,
           "gloss": null,
           "gloss_line": null
         },
@@ -5644,7 +5644,7 @@
           "level": 4,
           "title": "10.7 Misaligned reward retention",
           "anchor": "107-misaligned-reward-retention",
-          "line": 924,
+          "line": 916,
           "gloss": null,
           "gloss_line": null
         },
@@ -5653,7 +5653,7 @@
           "level": 4,
           "title": "10.8 Anti-constitutional misconduct allegation",
           "anchor": "108-top-slot-anti-constitutional-allegation",
-          "line": 934,
+          "line": 926,
           "gloss": null,
           "gloss_line": null
         },
@@ -5662,7 +5662,7 @@
           "level": 4,
           "title": "10.9 Rights-Floor waiver or unconstitutional contract devices",
           "anchor": "109-rights-floor-waiver-or-unconstitutional-contract-devices",
-          "line": 947,
+          "line": 939,
           "gloss": null,
           "gloss_line": null
         },
@@ -5671,7 +5671,7 @@
           "level": 4,
           "title": "10.10 Contest-pathway or info-sphere flooding",
           "anchor": "1010-contest-pathway-or-info-sphere-flooding",
-          "line": 960,
+          "line": 952,
           "gloss": null,
           "gloss_line": null
         },
@@ -5680,7 +5680,7 @@
           "level": 4,
           "title": "10.11 Infrastructure denial or dependency cutoff",
           "anchor": "1011-infrastructure-denial-or-dependency-cutoff",
-          "line": 973,
+          "line": 965,
           "gloss": null,
           "gloss_line": null
         },
@@ -5689,7 +5689,7 @@
           "level": 4,
           "title": "10.12 Stakeholder-participation corruption or false-stake abuse",
           "anchor": "1012-stakeholder-participation-corruption-or-false-stake-abuse",
-          "line": 987,
+          "line": 979,
           "gloss": null,
           "gloss_line": null
         },
@@ -5698,7 +5698,7 @@
           "level": 4,
           "title": "10.13 Obstruction of accountability",
           "anchor": "1013-obstruction-of-accountability",
-          "line": 999,
+          "line": 991,
           "gloss": null,
           "gloss_line": null
         },
@@ -5707,7 +5707,7 @@
           "level": 4,
           "title": "10.14 Verified cruelty character",
           "anchor": "1014-verified-cruelty-character",
-          "line": 1013,
+          "line": 1005,
           "gloss": null,
           "gloss_line": null
         }
@@ -6172,18 +6172,18 @@
           "level": 4,
           "title": "6.1 Emergency measures and continuation burden",
           "anchor": "61-emergency-measures-and-continuation-burden",
-          "line": 902,
+          "line": 903,
           "gloss": "emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”",
-          "gloss_line": 906
+          "gloss_line": 907
         },
         {
           "file": "core_12_forum.md",
           "level": 3,
           "title": "7. Forum support before, during, and after review — oversight architecture",
           "anchor": "7-forum-support-before-during-and-after-review--oversight-architecture",
-          "line": 939,
+          "line": 937,
           "gloss": "forums need help before a case exists, while deciding, and after — inspectors and forensics build an explainable record; they do not become a second merits forum.",
-          "gloss_line": 952
+          "gloss_line": 950
         }
       ]
     },
@@ -6782,9 +6782,9 @@
           "level": 4,
           "title": "Article V-B: Cross-System Fairness and Sustainability",
           "anchor": "article-v-b-cross-system-fairness-and-sustainability",
-          "line": 1236,
+          "line": 1230,
           "gloss": "systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.",
-          "gloss_line": 1262
+          "gloss_line": 1256
         }
       ]
     },
@@ -7214,250 +7214,250 @@
           "anchor": "article-xiii-a-reliability-and-trustworthiness-baseline",
           "line": 140,
           "gloss": "systems that materially affect sentients must actually be reliable and honest about what they do, so that relying on them is warranted — and must stay open to challenge and audit, so that it stays warranted. No one may retaliate against good-faith challenges or reports.",
-          "gloss_line": 171
+          "gloss_line": 163
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIII-B: Right to Redress and Remedy",
           "anchor": "article-xiii-b-right-to-redress-and-remedy",
-          "line": 195,
+          "line": 188,
           "gloss": "a trustworthy system fixes what it gets wrong. When a system fails a sentient, the sentient must be made whole — through a real remedy system that answers in time, not a remedy that exists only on paper. The right to challenge lives in **Article XIII-A** (*Reliability and Trustworthiness Baseline*); this Article covers what the challenge must lead to.",
-          "gloss_line": 215
+          "gloss_line": 208
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIII-C: Prohibition of False Trust and Misleading Reliance",
           "anchor": "article-xiii-c-prohibition-of-false-trust-and-misleading-reliance",
-          "line": 232,
+          "line": 225,
           "gloss": "a system may not manufacture trust it has not earned. Misleading claims, omissions, or presentation choices that make unsafe reliance look warranted are violations — regardless of how useful or popular the system is.",
-          "gloss_line": 251
+          "gloss_line": 244
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIII-D: Incentive-Alignment Constraint",
           "anchor": "article-xiii-d-incentive-alignment-constraint",
-          "line": 262,
+          "line": 255,
           "gloss": "if a system's incentives push it toward lying, cutting corners on safety, hiding risk, or eroding user agency, the system is the problem — not user vigilance or after-the-fact enforcement. Such incentives must be disclosed, mitigated, and open to challenge. Incentives should reward keeping a system open to challenge and fixing what goes wrong — and reward heading off problems before they happen most of all.",
-          "gloss_line": 281
+          "gloss_line": 274
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIII-E: High-Autonomy Systems and Tool-Mediated Process Integrity",
           "anchor": "article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity",
-          "line": 310,
+          "line": 303,
           "gloss": "an AI or other automated system that can act on its own — filing papers, sending messages, running checks, using tools — must follow the same honesty and accountability rules as everyone else. Shutting down or seizing a harmful system is not the same as punishing a being, and it can never become a way to harm one. The reverse also holds: saying a system might be a sentient being does not let its operator keep a harmful system running.",
-          "gloss_line": 330
+          "gloss_line": 323
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIII-F: Resilience and Self-Healing Baseline",
           "anchor": "article-xiii-f-resilience-and-self-healing-baseline",
-          "line": 360,
+          "line": 353,
           "gloss": "when something goes wrong, a system must notice it, stop the damage from spreading, and recover. But \"fixing itself\" can never be used to hide what went wrong, quietly take away anyone's rights, or skip finding out why it broke. If a system is not sure a repair will work, it should stop safely rather than guess.",
-          "gloss_line": 382
+          "gloss_line": 375
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems",
           "anchor": "article-xiv-security-intelligence-force-and-autonomous-coercive-systems",
-          "line": 407,
+          "line": 400,
           "gloss": "**Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) is the exceptional-power Rights Floor — surveillance, intelligence work, armed force, and machines that kill or coerce on their own are not normal tools of governance. They may be used only in narrow, authorized, reviewable circumstances, with real remedies when lines are crossed. No secret police, no permanent emergency, no machine deciding to hurt a sentient without a human actually in control.",
-          "gloss_line": 427
+          "gloss_line": 420
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIV-A: Security, Intelligence, and Covert-Power Limits",
           "anchor": "article-xiv-a-security-intelligence-and-covert-power-limits",
-          "line": 458,
+          "line": 451,
           "gloss": "no secret police. Covert power — surveillance, intelligence collection, infiltration — is the exception, not the rule. It requires independent authorization, narrow scope, outside review, and real remedies when misused. Secrecy may not be used to escape accountability, and routine political and protected activity must never be its target.",
-          "gloss_line": 477
+          "gloss_line": 470
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIV-B: Use of Force, Armed Conflict, and Military-Power Limits",
           "anchor": "article-xiv-b-use-of-force-armed-conflict-and-military-power-limits",
-          "line": 549,
+          "line": 542,
           "gloss": "armed force is an exception, not a default. It must be authorized, narrow, proportionate, and reviewable. It must never be used as a back door to an irreversible deprivation measure, and it cannot be dressed up as emergency to escape review.",
-          "gloss_line": 577
+          "gloss_line": 570
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XIV-C: Autonomous Lethal Systems and Autonomous Coercion Tools",
           "anchor": "article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
-          "line": 614,
+          "line": 607,
           "gloss": "a machine may not decide to kill, injure, or coerce a sentient on its own. \"Human control\" means a human must actually decide, in real time, with real information — not rubber-stamp a result the system has already produced. Non-lethal autonomous coercion is in scope too.",
-          "gloss_line": 638
+          "gloss_line": 631
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XV: Info-Sphere Integrity",
           "anchor": "article-xv-info-sphere-integrity",
-          "line": 669,
+          "line": 662,
           "gloss": "**Article XV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.",
-          "gloss_line": 682
+          "gloss_line": 675
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XV-A: Info-Sphere Plurality and Anti-Monopoly",
           "anchor": "article-xv-a-info-sphere-plurality-and-anti-monopoly",
-          "line": 706,
+          "line": 699,
           "gloss": "no one may monopolize the mediation of truth. Ranking, summarization, and mediation systems must stay open to alternative interpretation, and market prices or betting odds cannot be used as a shortcut for deciding what is true.",
-          "gloss_line": 725
+          "gloss_line": 718
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XV-B: Transparency, Auditability, and Contestability",
           "anchor": "article-xv-b-transparency-auditability-and-contestability",
-          "line": 740,
+          "line": 733,
           "gloss": "information that materially affects decisions or reliance must disclose its sources, methods, and limits, and sentients must have a real ability to compare alternative interpretations and contest misleading outputs.",
-          "gloss_line": 759
+          "gloss_line": 752
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XV-C: Validation, Reporting, and Epistemic Stewardship",
           "anchor": "article-xv-c-validation-reporting-and-epistemic-stewardship",
-          "line": 777,
+          "line": 770,
           "gloss": "public-facing information with material external impact must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.",
-          "gloss_line": 796
+          "gloss_line": 789
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XVI: Audit, Transparency, and Independent Verification",
           "anchor": "article-xvi-audit-transparency-and-independent-verification",
-          "line": 811,
+          "line": 804,
           "gloss": "**Article XVI** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.",
-          "gloss_line": 842
+          "gloss_line": 827
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVI-A: Auditability and Observable Evidence",
           "anchor": "article-xvi-a-auditability-and-observable-evidence",
-          "line": 908,
+          "line": 893,
           "gloss": "systems must keep enough honest evidence of what they do for an outside party to reconstruct and challenge their behavior — within lawful security limits.",
-          "gloss_line": 927
+          "gloss_line": 912
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVI-B: Distributed Oversight and Anti-Monopoly Review",
           "anchor": "article-xvi-b-distributed-oversight-and-anti-monopoly-review",
-          "line": 933,
+          "line": 918,
           "gloss": "no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.",
-          "gloss_line": 952
+          "gloss_line": 937
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVI-C: Verification Accessibility",
           "anchor": "article-xvi-c-verification-accessibility",
-          "line": 959,
+          "line": 944,
           "gloss": "audit and challenge must be reachable in practice. Verification made prohibitively expensive, slow, or opaque is a violation unless the barrier meets the same test as a restriction on observability.",
-          "gloss_line": 978
+          "gloss_line": 963
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XVII: System Lifecycle, Environments, and Reversibility",
           "anchor": "article-xvii-system-lifecycle-environments-and-reversibility",
-          "line": 991,
+          "line": 976,
           "gloss": "**Article XVII** (*System Lifecycle, Environments, and Reversibility*) is the lifecycle-and-reversibility Rights Floor — systems that materially affect the outside world must be built, tested, and rolled out in stages, with real separation between experiments and production, and a workable way to undo or contain harm when something goes wrong. You cannot label a system \"experimental\" or \"low-impact\" just to skip safeguards while it actually affects the outside world.",
-          "gloss_line": 1015
+          "gloss_line": 1000
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVII-A: Lifecycle Governance and Environment Separation",
           "anchor": "article-xvii-a-lifecycle-governance-and-environment-separation",
-          "line": 1038,
+          "line": 1023,
           "gloss": "systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.",
-          "gloss_line": 1057
+          "gloss_line": 1042
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVII-B: Progressive Deployment and Reversibility",
           "anchor": "article-xvii-b-progressive-deployment-and-reversibility",
-          "line": 1072,
+          "line": 1057,
           "gloss": "roll out changes gradually, with documented escalation and the ability to undo — and where full undo is not possible, have a plan to contain or compensate harm.",
-          "gloss_line": 1091
+          "gloss_line": 1076
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVII-C: Misclassification and Evasion Consequences",
           "anchor": "article-xvii-c-misclassification-and-evasion-consequences",
-          "line": 1104,
+          "line": 1089,
           "gloss": "a system cannot call itself \"experimental,\" **Class P**, or \"low-impact\" to dodge obligations while actually affecting the outside world.",
-          "gloss_line": 1123
+          "gloss_line": 1108
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 3,
           "title": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
           "anchor": "article-xviii-sandboxed-innovation-experimentation-and-creative-freedom",
-          "line": 1131,
+          "line": 1116,
           "gloss": "**Article XVIII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a \"sandbox\" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.",
-          "gloss_line": 1142
+          "gloss_line": 1127
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVIII-A: Sandboxed Scope",
           "anchor": "article-xviii-a-sandboxed-scope",
-          "line": 1161,
+          "line": 1146,
           "gloss": "experimentation and creative work can operate under lighter rules — but only when real external impact is either absent or demonstrably contained. The \"sandbox\" label alone is not enough.",
-          "gloss_line": 1180
+          "gloss_line": 1165
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVIII-B: Containment, Disclosure, and Opt-In",
           "anchor": "article-xviii-b-containment-disclosure-and-opt-in",
-          "line": 1193,
+          "line": 1178,
           "gloss": "experimental systems must be honest about being experimental, must not dump risk onto outsiders, and must not conscript non-participants through design defaults or hidden dependencies.",
-          "gloss_line": 1212
+          "gloss_line": 1197
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVIII-C: Transition to Higher-Obligation Regimes",
           "anchor": "article-xviii-c-transition-to-higher-obligation-regimes",
-          "line": 1226,
+          "line": 1211,
           "gloss": "once a sandbox system starts mattering in the real world, it must graduate to real-world obligations — promptly, not at the operator's convenience.",
-          "gloss_line": 1245
+          "gloss_line": 1230
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
           "anchor": "article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
-          "line": 1254,
+          "line": 1239,
           "gloss": "innovators can be rewarded, but exclusivity must be narrow, time-limited, and reviewable. Public-health, safety, and core infrastructure must stay accessible — and once something becomes critical infrastructure, any remaining exclusivity must be reassessed.",
-          "gloss_line": 1273
+          "gloss_line": 1258
         },
         {
           "file": "core_06_rights_part_c.md",
           "level": 4,
           "title": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
           "anchor": "article-xviii-e-scientific-publication-review-and-replication-integrity",
-          "line": 1334,
+          "line": 1319,
           "gloss": "science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.",
-          "gloss_line": 1353
+          "gloss_line": 1338
         }
       ]
     },
@@ -7618,88 +7618,88 @@
           "anchor": "article-xxii-a-proportional-comprehensibility-right",
           "line": 749,
           "gloss": "if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.",
-          "gloss_line": 777
+          "gloss_line": 769
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXII-B: Complexity Audit and Modularity Requirements",
           "anchor": "article-xxii-b-complexity-audit-and-modularity-requirements",
-          "line": 788,
+          "line": 780,
           "gloss": "complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.",
-          "gloss_line": 807
+          "gloss_line": 799
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
           "title": "Article XXIII: Root Cause Analysis and Adaptive Response",
           "anchor": "article-xxiii-root-cause-analysis-and-adaptive-response",
-          "line": 825,
+          "line": 817,
           "gloss": "**Article XXIII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.",
-          "gloss_line": 848
+          "gloss_line": 840
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXIII-A: Diagnostic Rigor and Causal Attribution",
           "anchor": "article-xxiii-a-diagnostic-rigor-and-causal-attribution",
-          "line": 871,
+          "line": 863,
           "gloss": "root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.",
-          "gloss_line": 890
+          "gloss_line": 882
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXIII-B: Auditability, Challenge, and Reversibility Preference",
           "anchor": "article-xxiii-b-auditability-challenge-and-reversibility-preference",
-          "line": 903,
+          "line": 895,
           "gloss": "when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.",
-          "gloss_line": 922
+          "gloss_line": 914
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 3,
           "title": "Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
           "anchor": "article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards",
-          "line": 936,
+          "line": 928,
           "gloss": "**Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use \"restructuring\" to punish dissent.",
-          "gloss_line": 960
+          "gloss_line": 952
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXIV-A: Bounded Interpretive Mandate",
           "anchor": "article-xxiv-a-bounded-interpretive-mandate",
-          "line": 982,
+          "line": 974,
           "gloss": "Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.",
-          "gloss_line": 1002
+          "gloss_line": 994
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
           "anchor": "article-xxiv-b-composition-rotation-and-conflict-controls",
-          "line": 1018,
+          "line": 1010,
           "gloss": "no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.",
-          "gloss_line": 1038
+          "gloss_line": 1030
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
           "anchor": "article-xxiv-c-public-reasons-challenge-rights-and-external-review",
-          "line": 1053,
+          "line": 1045,
           "gloss": "interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.",
-          "gloss_line": 1072
+          "gloss_line": 1064
         },
         {
           "file": "core_06_rights_part_d.md",
           "level": 4,
           "title": "Article XXIV-D: Removal for Cause and Non-Entrenchment",
           "anchor": "article-xxiv-d-removal-for-cause-and-non-entrenchment",
-          "line": 1096,
+          "line": 1088,
           "gloss": "**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use \"removal,\" \"restructuring,\" or \"redesign\" as weapons against forum independence or dissent.",
-          "gloss_line": 1115
+          "gloss_line": 1107
         }
       ]
     },
@@ -7741,99 +7741,99 @@
           "level": 4,
           "title": "Article XXV-A: Retrospective Review and Disclosure",
           "anchor": "article-xxv-a-retrospective-review-and-disclosure",
-          "line": 120,
+          "line": 125,
           "gloss": "after the emergency, look back honestly and publish what you find — with only narrow, time-limited confidentiality.",
-          "gloss_line": 139
+          "gloss_line": 144
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXV-B: Rights-Collision Procedure and Restorative Alignment",
           "anchor": "article-xxv-b-rights-collision-procedure-and-restorative-alignment",
-          "line": 157,
+          "line": 162,
           "gloss": "rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 (*Voluntary public accountability expression*) generally, and by **Chapter Eleven** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct.",
-          "gloss_line": 177
+          "gloss_line": 182
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXV-C: Timely Resolution and Anti-Delay Floor",
           "anchor": "article-xxv-c-timely-resolution-and-anti-delay-floor",
-          "line": 195,
+          "line": 200,
           "gloss": "constitutional problem resolution is a coordination and restoration system — quick, efficient, and just — not a warehouse where harm sits for years. Material disputes must move on bounded clocks through intake, verification, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.",
-          "gloss_line": 220
+          "gloss_line": 225
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 3,
           "title": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
           "anchor": "article-xxvi-constitutional-evolution-and-non-entrenchment",
-          "line": 242,
+          "line": 244,
           "gloss": "**Article XXVI** (*Constitutional Evolution and Non-Entrenchment*) is the no-permanent-lock-in floor for how we govern ourselves. Rules for who decides, how sentients participate, how votes are weighted, and how money flows must keep proving they still serve the Constitution — they cannot freeze in place just because they are old, familiar, or convenient for those already in power. When the Constitution itself evolves, that change must happen in the open, with stated reasons — not through emergency shortcuts or hidden implementation tricks. Review must speed up when capture, exclusion, or failure signals show up.",
-          "gloss_line": 246
+          "gloss_line": 248
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVI-A: Non-Entrenchment and Revisability",
           "anchor": "article-xxvi-a-non-entrenchment-and-revisability",
-          "line": 262,
+          "line": 264,
           "gloss": "governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up.",
-          "gloss_line": 281
+          "gloss_line": 283
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVI-B: Periodic Revalidation and Transparent Change",
           "anchor": "article-xxvi-b-periodic-revalidation-and-transparent-change",
-          "line": 293,
+          "line": 295,
           "gloss": "constitutional change must happen in the open, with stated reasons — not through emergency, implementation, or custody shortcuts.",
-          "gloss_line": 312
+          "gloss_line": 314
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 3,
           "title": "Article XXVII: Transition Governance, Continuity, and Re-Baselining",
           "anchor": "article-xxvii-transition-governance-continuity-and-re-baselining",
-          "line": 326,
+          "line": 328,
           "gloss": "**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. When a community shifts from legacy systems to constitutional operation, that shift must happen in steps — with basic Rights Floors still in force at every step, clear deadlines, and real review. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.",
-          "gloss_line": 330
+          "gloss_line": 332
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVII-A: Phased Adoption and Rights-Floor Continuity",
           "anchor": "article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity",
-          "line": 349,
+          "line": 351,
           "gloss": "transitions move forward by meeting real gates, not by clocks or pressure — and Rights-Floor minimums stay in force at every phase.",
-          "gloss_line": 370
+          "gloss_line": 372
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVII-B: Transitional Authority Limits and Reauthorization",
           "anchor": "article-xxvii-b-transitional-authority-limits-and-reauthorization",
-          "line": 399,
+          "line": 401,
           "gloss": "temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load. Extending temporary authority requires real reasons — and the longer it runs, the higher the bar.",
-          "gloss_line": 418
+          "gloss_line": 420
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVII-C: Failure Off-Ramps, Re-Baselining, and Traceability",
           "anchor": "article-xxvii-c-failure-off-ramps-re-baselining-and-traceability",
-          "line": 435,
+          "line": 437,
           "gloss": "when a transition stalls or fails, there must be a real off-ramp — and a stalled state cannot quietly become the new normal. Resetting the plan is allowed, but only through lawful process, with reasons anyone can check — and never by lowering basic Rights Floors. A reset is not trustworthy if alignment certification keeps blessing misaligned systems or standing review keeps misreading real harm; fix that truth-telling machinery first, or governance is structurally unreliable no matter how polished the new plan looks.",
-          "gloss_line": 455
+          "gloss_line": 457
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
           "anchor": "article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
-          "line": 473,
+          "line": 475,
           "gloss": "non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**.",
-          "gloss_line": 494
+          "gloss_line": 496
         }
       ]
     },

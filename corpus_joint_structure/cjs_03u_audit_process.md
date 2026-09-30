@@ -10,7 +10,7 @@
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Binding next-step statement: [Operative steward statement (Article XVI)](../core_06_rights_part_c.md#operative-steward-statement-audit). Three-layer picture: [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Eight, or an OP annex as a fifth audit home.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVI**; layer 2 is Chapter Five [Auditability](../core_05_band_oversight.md#auditability). Three-layer picture: [Article XVI](../core_06_rights_part_c.md#audit-three-layers). Do not treat this file, Chapter Eight, or an OP annex as a fifth audit home.
 
 </details>
 

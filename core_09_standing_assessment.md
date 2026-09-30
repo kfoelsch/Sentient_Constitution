@@ -39,14 +39,6 @@
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-standing"></a>
-> **Operative steward statement.** **Owner:** Chapter Nine (Questions 1–2: verified record and measurement). Chapter Ten (Question 3: effects). Forums supervise; they do not replace measurement. **Forbidden move:** Do not treat a claimed effect as standing. Do not wait for a filed case. Do not fold help and harm into one net score. Do not treat model internals or privacy as a standing-measurement exemption. Do not treat a certification badge or LEQU score as sentience status. Do not verify facts or enter a record on your own institution, your own claim, or a claim from your control line; route to the named record-opening authority or independent verifier under §3.7. **Clock:** Do not wait for a filed case. Open or correct the Chapter Nine record now, through the named record-opening authority. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set.
-
-</details>
-
 <br>
 
 *In plain terms: this chapter writes down what happened and how good or how harmful it was — on two separate tracks, never one net score. Filing a case is not standing by itself.*
@@ -289,6 +281,8 @@ Every standing record must include, at minimum:
 <a id="verified-inputs-for-standing"></a>
 
 **Verified-input gate.** Any decision that affects standing, trust, role, recognition, or eligibility for recognition may use only verified inputs from the relevant **contribution standing records** or **violation standing records**. Allegations, unadjudicated claims, provisional routing tags, intake-only narratives, and other dispute-phase material do not supply contribution nature or violation nature for standing by themselves.
+
+**No privacy or opacity exemption.** Privacy, confidentiality, or the opacity of a system's internals does not exempt a matter from standing measurement. Where these collide with the verified-record requirement, the collision is resolved under [Chapter One §6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) and its decision-record discipline, with independent-reviewer access preserved.
 
 **Contribution standing records** must also state:
 

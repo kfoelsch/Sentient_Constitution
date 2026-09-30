@@ -804,7 +804,7 @@ This subsection sets out how Chapter Eleven designation relates to independent r
 - Downstream: [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*inspection, forensic, and follow-through support*); [§5](#interim-protection) (*Interim protection*); [corpus_forum.md](corpus_forum.md) (**CF-11.3.1** (*target windows and timing floors*)); [corpus_institutions.md](corpus_institutions.md) (**CI-8** (*accessible challenge and service pathways*)); [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes); [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden) (*same outer bounds as default restore-challenge windows*).
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*); [Materiality Determination](core_05_band_oversight.md#materiality-determination); [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways); [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency).
-- Steward door (non-operative): Binding next-step statement: [Operative steward statement (Article XXV-C)](core_06_rights_part_e.md#operative-steward-statement-delay). Support pointers cannot narrow it.
+- Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay). The card cannot narrow the Constitution.
 
 </details>
 
@@ -891,6 +891,7 @@ This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Flo
   - self-created delay, procedural layering, forum shopping, or record fragmentation used to prolong resolution without milestone justification;
   - treating allegations as verified standing inputs to buy time ([Chapter Nine §3.1 Verified-input gate](core_09_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
+  - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;
   - efficiency claims contrary to Chapter One [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency) that:
     - skip fact-checking;
     - punish the wrong party;
@@ -904,9 +905,6 @@ This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Flo
 This subsection sets the floor and the operating rules for emergency measures. Retrospective review of an emergency measure is governed by [**Article XXV-A**](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure) (*Retrospective Review and Disclosure*). Any restriction an emergency measure imposes must also meet [**Article XX-B**](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*). It reuses the tier outer bounds and the **Restore-challenge after emergency containment** rule above. It adds no second clock table. Read with [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Constitutional Emergency and Contingency](core_05_band_continuity.md#constitutional-emergency-and-contingency), [Stakeholder Emergency and Contingency](core_05_band_continuity.md#stakeholder-emergency-and-contingency), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality); and with **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) where existential-risk scrutiny is materially implicated.
 
 *In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”*
-
-<a id="operative-steward-statement-emergency"></a>
-> **Operative steward statement.** **Owner:** Chapter Twelve §6.1, including restore-challenge clocks. **Forbidden move:** Do not skip notice and challenge permanently. Do not stretch feasible. Do not normalize emergency into ordinary governance. Do not block a documented Tier A deferral in order to insist on full notice before containment. **Clock:** Contain now. Restore notice and challenge inside the Tier A one-week outer bound unless a documented lower-urgency showing is recorded. Continuation past that bound needs a documented necessity showing.
 
 - **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;

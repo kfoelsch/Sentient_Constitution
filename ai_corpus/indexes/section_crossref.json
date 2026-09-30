@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-09-30T13:02:35+00:00",
+  "generated_at": "2026-09-30T23:10:07+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15547,
+  "edge_count": 15541,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -16036,14 +16036,6 @@
       "source_anchor": "#91-distributed-understanding",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xvi-audit-transparency-and-independent-verification",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_c_stewardship_capacity_principles.md",
-      "source_header": "9.1 Distributed Understanding",
-      "source_anchor": "#91-distributed-understanding",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#operative-steward-statement-comprehensibility",
       "count": 1
     },
     {
@@ -41843,14 +41835,6 @@
       "source_header": "Auditability",
       "source_anchor": "#auditability",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#operative-steward-statement-audit",
-      "count": 1
-    },
-    {
-      "source_file": "core_05_band_oversight.md",
-      "source_header": "Auditability",
-      "source_anchor": "#auditability",
-      "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#audit-three-layers",
       "count": 1
     },
@@ -55899,16 +55883,8 @@
       "source_header": "Article V-A: Dependency Mapping and Resource-Flow Transparency",
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#2-system-class-evaluation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article V-A: Dependency Mapping and Resource-Flow Transparency",
-      "source_anchor": null,
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#6-proportionate-cross-system-support-evaluation",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -55916,15 +55892,7 @@
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#16-reopening-misalignment-and-non-evasion",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article V-A: Dependency Mapping and Resource-Flow Transparency",
-      "source_anchor": null,
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#12-transparency-auditability-and-contestability",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -56212,7 +56180,7 @@
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#6-proportionate-cross-system-support-evaluation",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -56228,14 +56196,6 @@
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_a.md",
-      "source_header": "Article V-B: Cross-System Fairness and Sustainability",
-      "source_anchor": null,
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#12-transparency-auditability-and-contestability",
       "count": 1
     },
     {
@@ -63320,142 +63280,6 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#62-how-the-full-chain-fits-together",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#42-correction-and-remedy",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#31-safety-harm-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#32-truth-epistemic-integrity-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#615-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#remedy-system-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#remedy-system-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#remedy-system-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#timely-resolution-constitutional",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#timely-resolution-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#timely-resolution-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-alignment-certification-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XIII-B: Right to Redress and Remedy",
-      "source_anchor": "#operative-steward-statement-contest",
-      "target_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIII-A: Reliability and Trustworthiness Baseline",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -63660,6 +63484,142 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#62-how-the-full-chain-fits-together",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#42-correction-and-remedy",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#32-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#615-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#remedy-system-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#remedy-system-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#remedy-system-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#9-enforcement-realism-and-remedy-systems",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIII-B: Right to Redress and Remedy",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -69208,110 +69168,6 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#31-safety-harm-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#16-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-boundary-integrity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-boundary-integrity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-boundary-integrity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#3-whole-system-certification-evaluation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "source_anchor": "#operative-steward-statement-comprehensibility",
-      "target_file": "corpus_systems.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XIX-A: Standing Distinction",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -70820,6 +70676,110 @@
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#31-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundary-integrity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundary-integrity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundary-integrity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -72384,62 +72344,6 @@
     },
     {
       "source_file": "core_06_rights_part_e.md",
-      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": "#operative-steward-statement-delay",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#two-constitutional-aims",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_e.md",
-      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": "#operative-steward-statement-delay",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_e.md",
-      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": "#operative-steward-statement-delay",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_e.md",
-      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": "#operative-steward-statement-delay",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#113-ongoing-justification",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_e.md",
-      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": "#operative-steward-statement-delay",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_e.md",
-      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": "#operative-steward-statement-delay",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_e.md",
-      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
-      "source_anchor": "#operative-steward-statement-delay",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#governance-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_e.md",
       "source_header": "Article XXV-A: Retrospective Review and Disclosure",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
@@ -73164,6 +73068,62 @@
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_e.md",
+      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_e.md",
+      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_e.md",
+      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_e.md",
+      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#113-ongoing-justification",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_e.md",
+      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_e.md",
+      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_e.md",
+      "source_header": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance-c",
       "count": 1
     },
     {
@@ -73908,7 +73868,7 @@
       "source_anchor": "#chapter-seven-functional-independence-and-segregation-of-duties",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#material-control-line",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
@@ -75857,7 +75817,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#4-principles-definitions-and-rights",
       "count": 1
@@ -75865,7 +75825,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
       "count": 2
@@ -75873,7 +75833,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 2
@@ -75881,7 +75841,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 2
@@ -75889,7 +75849,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#flourishing",
       "count": 1
@@ -75897,7 +75857,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#continuity",
       "count": 1
@@ -75905,7 +75865,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#9-stewardship-in-depth",
       "count": 1
@@ -75913,7 +75873,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#15-systemic-evaluation-requirement",
       "count": 1
@@ -75921,7 +75881,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-foundational-definitions",
       "count": 1
@@ -75929,7 +75889,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 2
@@ -75937,7 +75897,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-alignment-certification-constitutional",
       "count": 1
@@ -75945,7 +75905,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-certification-record-constitutional",
       "count": 1
@@ -75953,7 +75913,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#authority-stack",
       "count": 1
@@ -75961,7 +75921,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 3
@@ -75969,7 +75929,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness-constitutional",
       "count": 1
@@ -75977,7 +75937,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
       "target_anchor": "#2-four-seat-constitutional-floor",
       "count": 1
@@ -75985,7 +75945,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#11-system-certification-record",
       "count": 3
@@ -75993,7 +75953,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#12-transparency-auditability-and-contestability",
       "count": 2
@@ -76001,7 +75961,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#13-forum-supervision-and-component-roles",
       "count": 1
@@ -76009,7 +75969,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#14-supervisory-sequence-and-contestability-chain",
       "count": 2
@@ -76017,7 +75977,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#15-relationship-to-standing",
       "count": 1
@@ -76025,7 +75985,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 2
@@ -76033,7 +75993,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
       "count": 1
@@ -76041,7 +76001,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#chapter-ten-standing-effects-and-integration",
       "count": 1
@@ -76049,7 +76009,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
@@ -76057,7 +76017,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "corpus_forum.md",
       "target_anchor": null,
       "count": 1
@@ -76065,7 +76025,7 @@
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "1. Purpose and Role",
-      "source_anchor": "#operative-steward-statement-sac",
+      "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -78276,6 +78236,14 @@
       "source_anchor": "#3-verification-and-record-requirements",
       "target_file": "core_02_definition_structure.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_09_standing_assessment.md",
+      "source_header": "3.1 Minimum record contents",
+      "source_anchor": "#31-minimum-record-contents",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#61-core-tradeoff-principles",
       "count": 1
     },
     {
@@ -83940,14 +83908,6 @@
       "source_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "target_file": "core_06_rights_part_e.md",
       "target_anchor": "#article-xxv-c-timely-resolution-and-anti-delay-floor",
-      "count": 1
-    },
-    {
-      "source_file": "core_12_forum.md",
-      "source_header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
-      "source_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
-      "target_file": "core_06_rights_part_e.md",
-      "target_anchor": "#operative-steward-statement-delay",
       "count": 1
     },
     {
@@ -117228,14 +117188,6 @@
       "source_anchor": "#cjs-33-audit-process-home",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material-c",
-      "count": 1
-    },
-    {
-      "source_file": "corpus_joint_structure/cjs_03u_audit_process.md",
-      "source_header": "CJS-3.3 / oDef.3 Audit process home",
-      "source_anchor": "#cjs-33-audit-process-home",
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#operative-steward-statement-audit",
       "count": 1
     },
     {

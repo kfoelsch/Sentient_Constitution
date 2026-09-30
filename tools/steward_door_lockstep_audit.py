@@ -1,26 +1,25 @@
 #!/usr/bin/env python3
-"""Keep steward-entry cards in lockstep with core owners.
+"""Keep steward-entry cards in lockstep with core owners and the index.
 
 Pointers in ``implementation/STEWARD_ENTRY_DOORS.md`` route a steward to
-the named core home. Binding owner / forbidden-move / clock statements
-live in those homes as operative steward statements. This page is an
-introduction and a pointer index — it must not restate the boxes. This
-audit pins the pointers and the owner/clock index to the README edition
-stamp, diffs the index against the core boxes, and requires:
+the core home that states the rule. The binding rules live in the core
+chapters and articles; there are no boxed steward statements in the core
+text. Each card carries an owner-text pointer and a process-guidance next
+step, and the owner/clock index carries the same next step in machine-
+readable form. This page is an introduction and a pointer index: it must
+not restate the rules. This audit pins the pointers and the owner/clock
+index to the README edition stamp and requires:
 
 1. The three costly-case refusals live in Chapter One §10.2. The doors
    page points there once; it does not restate the bullets on every card.
 2. One shared refusal-and-logging pointer with instruction received /
    refuse / document / escalate, naming CS-4 §10 as the default logging
    contract. The inspectable-action set lives in CS-4 §10.
-3. Every named-stack pointer has an operative-statement link and a
-   next-step class. Owner / forbidden move / clock are not restated.
-4. Each named-stack core home carries a boxed operative steward statement
-   (owner, forbidden move, clock). Index ``operative_box`` hrefs resolve to
-   those boxes, and index forbidden-move and clock text must match. Cards in
-   ``CARD_OWNER_TEXT_ANCHORS`` have no box: the owner Article's own operative
-   text is the statement, and index forbidden-move and clock text must match
-   that Article section instead.
+3. Every named-stack card has an owner-text pointer, a next step, and a
+   next-step class.
+4. Each card's owner-text pointer names the index case's first owner, each
+   card's next step matches the index ``clock_note`` for its cases, and
+   each index ``steward_card`` href resolves to its card anchor.
 5. Every cited Markdown anchor in the pointers and the owner/clock index
    resolves, and every edition stamp matches README.
 6. Operator-only routing examples (not on the subject-facing pointer page)
@@ -73,36 +72,9 @@ CARD_TITLES = (
     "Delay",
 )
 
-CARD_BOX_ANCHORS = {
-    "Standing": "operative-steward-statement-standing",
-    "System alignment certification": "operative-steward-statement-sac",
-    "Audit": "operative-steward-statement-audit",
-    "Remedy": "operative-steward-statement-remedy",
-    "Emergency": "operative-steward-statement-emergency",
-    "Contest": "operative-steward-statement-contest",
-    "Incentive alignment": "operative-steward-statement-incentive",
-    "Unlawful instruction": "operative-steward-statement-unlawful-instruction",
-    "Shared stewardship": "operative-steward-statement-shared-stewardship",
-    "Proceed": "operative-steward-statement-proceed",
-    "Interpretation": "operative-steward-statement-interpretation",
-    "Comprehensibility": "operative-steward-statement-comprehensibility",
-    "Market structure": "operative-steward-statement-market-structure",
-    "Delay": "operative-steward-statement-delay",
-}
-
-# Cards whose owner Article states the forbidden move and clock in its own
-# operative text, so a separate box would only restate it.
-CARD_OWNER_TEXT_ANCHORS = {
-    "Cross-system support": "article-v-b-cross-system-fairness-and-sustainability",
-}
-
-
-def expected_card_anchor(title: object) -> str | None:
-    key = str(title)
-    return CARD_BOX_ANCHORS.get(key) or CARD_OWNER_TEXT_ANCHORS.get(key)
-
 CARD_FIELDS = (
-    "Operative statement",
+    "Owner text",
+    "Next step",
     "Next-step class",
 )
 
@@ -162,10 +134,7 @@ CASE_REQUIRED = (
     "forbidden_move",
     "clock_note",
     "eval_scenario_ids",
-    "operative_box",
-)
-OSS_ANCHOR_RE = re.compile(
-    r'<a id="(?P<anchor>operative-steward-statement-[^"]+)"></a>'
+    "steward_card",
 )
 CITE_REQUIRED = ("label", "href")
 
@@ -189,21 +158,6 @@ def normalize(text: str) -> str:
     return text.strip().rstrip(";.")
 
 
-def slice_between(text: str, start: str, end: str) -> str:
-    start_idx = text.find(start)
-    end_idx = text.find(end)
-    if start_idx < 0 or end_idx < 0 or end_idx < start_idx:
-        return ""
-    return text[start_idx + len(start) : end_idx]
-
-
-def after_marker(text: str, start: str) -> str:
-    start_idx = text.find(start)
-    if start_idx < 0:
-        return ""
-    return text[start_idx + len(start) :]
-
-
 CLAUSE_SPLIT_RE = re.compile(r"\.\s+")
 
 
@@ -217,46 +171,6 @@ def missing_clauses(needle_text: str, haystack_norm: str) -> list[str]:
         for clause in clauses(needle_text)
         if clause and clause not in haystack_norm
     ]
-
-
-def extract_oss_fields(body: str) -> dict[str, str]:
-    if "**Operative steward statement.**" not in body:
-        return {}
-    return {
-        "owner": slice_between(body, "**Owner:**", "**Forbidden move:**").strip(),
-        "forbidden_move": slice_between(
-            body, "**Forbidden move:**", "**Clock:**"
-        ).strip(),
-        "clock": after_marker(body, "**Clock:**").strip(),
-    }
-
-
-def parse_operative_boxes(text: str) -> dict[str, dict[str, str]]:
-    boxes: dict[str, dict[str, str]] = {}
-    lines = text.splitlines()
-    idx = 0
-    while idx < len(lines):
-        match = OSS_ANCHOR_RE.search(lines[idx])
-        if not match:
-            idx += 1
-            continue
-        quoted: list[str] = []
-        cursor = idx + 1
-        while cursor < len(lines):
-            stripped = lines[cursor].strip()
-            if not stripped:
-                if quoted:
-                    break
-                cursor += 1
-                continue
-            if stripped.startswith(">"):
-                quoted.append(stripped[1:].strip())
-                cursor += 1
-                continue
-            break
-        boxes[match.group("anchor")] = extract_oss_fields(" ".join(quoted))
-        idx = cursor
-    return boxes
 
 
 HEADING_LINE_RE = re.compile(r"^(?P<hashes>#{1,6})\s+(?P<title>.+?)\s*$")
@@ -401,9 +315,9 @@ def iter_cites(index: dict) -> list[tuple[str, dict]]:
         for idx, owner in enumerate(case.get("owners") or []):
             if isinstance(owner, dict):
                 cites.append((f"cases.{case_id}.owners[{idx}]", owner))
-        box = case.get("operative_box")
+        box = case.get("steward_card")
         if isinstance(box, dict):
-            cites.append((f"cases.{case_id}.operative_box", box))
+            cites.append((f"cases.{case_id}.steward_card", box))
         clock = case.get("clock")
         if isinstance(clock, dict):
             for idx, home in enumerate(clock.get("homes") or []):
@@ -586,10 +500,10 @@ def check_index_shape(index: dict, schema: dict) -> list[str]:
                     f"{INDEX_REL} case `{case_id}` owners[{idx}]",
                 )
             )
-        box = case.get("operative_box")
+        box = case.get("steward_card")
         if not isinstance(box, dict):
             errors.append(
-                f"{INDEX_REL} case `{case_id}`: operative_box must be an "
+                f"{INDEX_REL} case `{case_id}`: steward_card must be an "
                 "object (STEWARD-DOOR-LOCKSTEP-01)"
             )
         else:
@@ -597,17 +511,16 @@ def check_index_shape(index: dict, schema: dict) -> list[str]:
                 missing_required(
                     box,
                     CITE_REQUIRED,
-                    f"{INDEX_REL} case `{case_id}` operative_box",
+                    f"{INDEX_REL} case `{case_id}` steward_card",
                 )
             )
-            expected_anchor = expected_card_anchor(case.get("card_title"))
             href = box.get("href") if isinstance(box.get("href"), str) else ""
-            fragment = href.partition("#")[2]
-            if expected_anchor and fragment != expected_anchor:
+            path_part, _, fragment = href.partition("#")
+            if path_part != CARDS_REL or fragment != case.get("card_anchor"):
                 errors.append(
-                    f"{INDEX_REL} case `{case_id}`: operative_box fragment "
-                    f"#{fragment} does not match core box "
-                    f"#{expected_anchor} (STEWARD-DOOR-LOCKSTEP-01)"
+                    f"{INDEX_REL} case `{case_id}`: steward_card href "
+                    f"{href!r} must be {CARDS_REL}#{case.get('card_anchor')} "
+                    "(STEWARD-DOOR-LOCKSTEP-01)"
                 )
         clock = case.get("clock")
         if clock is not None:
@@ -659,115 +572,34 @@ def check_eval_gold(root: Path, index: dict) -> list[str]:
     return errors
 
 
-def check_operative_boxes(
-    root: Path,
-    index: dict,
-    cards: str,
-) -> list[str]:
+def check_card_rows(index: dict, cards: str) -> list[str]:
+    """Each card's owner text and next step must match the index."""
     errors: list[str] = []
     sections = h2_sections(cards)
-    file_boxes: dict[Path, dict[str, dict[str, str]]] = {}
     for case in index.get("cases") or []:
         if not isinstance(case, dict):
             continue
         case_id = case.get("id", "?")
         title = case.get("card_title")
-        box_cite = case.get("operative_box")
-        if not isinstance(box_cite, dict):
-            continue
-        href = box_cite.get("href")
-        if not isinstance(href, str) or not href.strip():
-            errors.append(
-                f"{INDEX_REL} case `{case_id}`: operative_box.href is "
-                "missing (STEWARD-DOOR-LOCKSTEP-01)"
-            )
-            continue
-        path_part, _, fragment = href.partition("#")
-        target = root / path_part
-        if not target.is_file():
-            continue
-        if (
-            isinstance(title, str)
-            and CARD_OWNER_TEXT_ANCHORS.get(title) == fragment
-        ):
-            section = section_text(target.read_text(encoding="utf-8"), fragment)
-            if not section:
-                errors.append(
-                    f"{path_part}: owner section #{fragment} not found "
-                    "(STEWARD-DOOR-LOCKSTEP-01)"
-                )
-                continue
-            haystack = normalize(section.replace("*", ""))
-            for field, label in (
-                ("forbidden_move", "forbidden_move"),
-                ("clock_note", "clock_note"),
-            ):
-                for clause in missing_clauses(str(case.get(field) or ""), haystack):
-                    errors.append(
-                        f"{path_part} #{fragment}: index {label} clause "
-                        f"{clause!r} for `{case_id}` is missing from the "
-                        "owner Article text (STEWARD-DOOR-LOCKSTEP-01)"
-                    )
-            body = sections.get(title)
-            if body is not None and fragment not in body:
-                errors.append(
-                    f"{CARDS_REL} #{title}: missing operative-statement pointer "
-                    f"#{fragment} (STEWARD-DOOR-LOCKSTEP-01)"
-                )
-            continue
-        if target not in file_boxes:
-            file_boxes[target] = parse_operative_boxes(
-                target.read_text(encoding="utf-8")
-            )
-        parsed = file_boxes[target].get(fragment)
-        if not parsed or not parsed.get("forbidden_move") or not parsed.get("clock"):
-            errors.append(
-                f"{path_part}: missing operative steward statement "
-                f"#{fragment} with Owner / Forbidden move / Clock "
-                "(STEWARD-DOOR-LOCKSTEP-01)"
-            )
-            continue
-        forbidden_src = str(case.get("forbidden_move") or "")
-        clock_src = str(case.get("clock_note") or "")
-        box_forbidden_src = parsed.get("forbidden_move") or ""
-        box_clock_src = parsed.get("clock") or ""
-        box_forbidden = normalize(box_forbidden_src)
-        box_clock = normalize(box_clock_src)
-        for clause in missing_clauses(forbidden_src, box_forbidden):
-            errors.append(
-                f"{path_part} #{fragment}: index forbidden_move clause "
-                f"{clause!r} for `{case_id}` is missing from the core box "
-                "(STEWARD-DOOR-LOCKSTEP-01)"
-            )
-        for clause in missing_clauses(clock_src, box_clock):
-            errors.append(
-                f"{path_part} #{fragment}: index clock_note clause "
-                f"{clause!r} for `{case_id}` is missing from the core box "
-                "(STEWARD-DOOR-LOCKSTEP-01)"
-            )
-        if not isinstance(title, str):
-            continue
-        body = sections.get(title)
+        body = sections.get(title) if isinstance(title, str) else None
         if body is None:
             continue
-        expected_anchor = CARD_BOX_ANCHORS.get(title)
-        if expected_anchor and expected_anchor not in body:
+        normalized = normalize(body)
+        owners = case.get("owners") or []
+        first = owners[0] if owners and isinstance(owners[0], dict) else {}
+        owner_href = str(first.get("href") or "")
+        if owner_href and owner_href not in body:
             errors.append(
-                f"{CARDS_REL} #{title}: missing operative-statement pointer "
-                f"#{expected_anchor} (STEWARD-DOOR-LOCKSTEP-01)"
+                f"{CARDS_REL} #{title}: owner-text pointer {owner_href} for "
+                f"`{case_id}` is missing from the card "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
             )
-    expected_anchors = set(CARD_BOX_ANCHORS.values())
-    found_anchors = {
-        fragment
-        for boxes in file_boxes.values()
-        for fragment in boxes
-    }
-    missing_homes = sorted(expected_anchors - found_anchors)
-    for anchor in missing_homes:
-        errors.append(
-            f"core home missing operative steward statement #{anchor} "
-            "(STEWARD-DOOR-LOCKSTEP-01)"
-        )
+        for clause in missing_clauses(str(case.get("clock_note") or ""), normalized):
+            errors.append(
+                f"{CARDS_REL} #{title}: index clock_note clause {clause!r} "
+                f"for `{case_id}` is missing from the card next step "
+                "(STEWARD-DOOR-LOCKSTEP-01)"
+            )
     return errors
 
 
@@ -834,12 +666,6 @@ def audit(root: Path) -> list[str]:
                     f"{CARDS_REL} #{title}: missing pointer-field `{field}` "
                     "(STEWARD-DOOR-LOCKSTEP-01)"
                 )
-        expected_anchor = CARD_BOX_ANCHORS.get(title)
-        if expected_anchor and expected_anchor not in body:
-            errors.append(
-                f"{CARDS_REL} #{title}: missing operative-statement pointer "
-                f"#{expected_anchor} (STEWARD-DOOR-LOCKSTEP-01)"
-            )
         if "Costly-case refusals" in body or "costly-case refusals" in normalized:
             errors.append(
                 f"{CARDS_REL} #{title}: do not restate costly-case refusals "
@@ -1011,7 +837,7 @@ def audit(root: Path) -> list[str]:
         )
     )
     errors.extend(check_eval_gold(root, index))
-    errors.extend(check_operative_boxes(root, index, cards))
+    errors.extend(check_card_rows(index, cards))
     return errors
 
 
@@ -1025,10 +851,10 @@ def main() -> int:
             print(err)
         return 1
     print(
-        "PASS: steward-entry pointers match core operative steward statements, "
+        "PASS: steward-entry cards match the owner/clock index, "
         "core costly cases, the shared refusal-and-logging pointer, CS-4 §10 "
         "logging contract, next-step classes, live anchors, "
-        "README edition pin, operator-only routing examples, and the owner/clock index."
+        "README edition pin, and operator-only routing examples."
     )
     return 0
 

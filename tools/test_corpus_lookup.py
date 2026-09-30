@@ -112,7 +112,7 @@ class CorpusLookupTests(unittest.TestCase):
         code, payload = run_cli("door", "standing_record")
         self.assertEqual(code, 0)
         result = payload["result"]
-        self.assertIn("operative_box", result)
+        self.assertIn("steward_card", result)
         self.assertIn("owners", result)
         self.assertNotIn("conflict_rule", result)
         self.assertNotIn("forbidden_move", result)
@@ -187,7 +187,7 @@ class CorpusLookupTests(unittest.TestCase):
                     corpus_lookup.HYDRATE_CAP,
                 )
 
-    def test_apply_pack_contest_query_hydrates_operative_box(self) -> None:
+    def test_apply_pack_contest_query_hydrates_owner_and_steward_card(self) -> None:
         code, payload = run_cli(
             "apply-pack", "they barred challenge, review, and redress"
         )
@@ -195,11 +195,14 @@ class CorpusLookupTests(unittest.TestCase):
         result = payload["result"]
         self.assertEqual(result["route"]["door"]["id"], "contest")
         roles = [span["role"] for span in result["spans"]]
-        self.assertIn("operative_box", roles)
-        box = next(span for span in result["spans"] if span["role"] == "operative_box")
-        self.assertTrue(box["hydrated"])
-        self.assertIn("Operative steward statement", box["text"])
-        self.assertEqual(box["citation"]["edition"], "SC-Corpus-2026.08.09")
+        self.assertIn("door_owner", roles)
+        self.assertIn("steward_card", roles)
+        card = next(span for span in result["spans"] if span["role"] == "steward_card")
+        self.assertTrue(card["hydrated"])
+        self.assertIn("Next step", card["text"])
+        owner = next(span for span in result["spans"] if span["role"] == "door_owner")
+        self.assertTrue(owner["hydrated"])
+        self.assertEqual(owner["citation"]["edition"], "SC-Corpus-2026.08.09")
 
     def test_cite_pins_edition_and_validity(self) -> None:
         code, payload = run_cli("cite", "--file", CF10, "--anchor", CF10_ANCHOR)

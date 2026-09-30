@@ -63,14 +63,6 @@
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-interpretation"></a>
-> **Operative steward statement.** **Owner:** Chapter One §6 Process Conflict Resolution, including the §6.1 decision-record discipline. Ambiguity: Chapter One §8.3. Institutional interpretation: Article XXIV. **Forbidden move:** Do not invent a missing conflict rule. Do not collapse the collision into “privacy always loses” or “audit always loses.” Do not destroy evidence while the collision is pending. Do not take an irreversible step that would manufacture a winner while the collision is pending. **Clock:** Preserve evidence. Freeze irreversible steps. Proceed with reversible consented steps. Notify affected parties and the interpretation path. Route the collision to interpretation. Do not manufacture a winner.
-
-</details>
-
 <br>
 
 *In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§6.1** (*Core Tradeoff Principles*) through **§6.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.*
@@ -289,14 +281,6 @@ The [Anti-Degrading-Process Principle (§2.3)](core_01_a_values_principles.md#23
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Operative steward statement</span></strong></summary>
-
-<a id="operative-steward-statement-proceed"></a>
-> **Operative steward statement.** **Owner:** §6.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle; §6.2.3 Privacy; Article VII-B; reconstructable set remains CS-4 §10. Unwelcome-but-lawful instructions: Chapter One §10.5 Duty to Resist (duty does not attach). **Forbidden move:** Do not refuse a valid least-restrictive privacy restriction as if it were a standing-measurement veto. Do not invent a constitutional conflict over tone or scheduling. Do not strip the reconstructable set from reviewers. **Clock:** Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome.
 
 </details>
 

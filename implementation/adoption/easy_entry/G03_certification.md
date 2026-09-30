@@ -27,7 +27,7 @@ A clinic, pay stack, identity gate, model, or water system others depend on is t
 - **Today:** Unit tests, a privacy page, or local sign-off stand in for a whole-system review.
 - **With this Constitution:** For a system that really matters, independent review writes a time-bound record: is it safe enough to rely on *right now*, in a stated scope? That record can be challenged. It is not a forever pass.
 
-See: [Chapter Eight](../../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [SAC](../../../core_08_a_system_alignment_certification_evaluation.md#operative-steward-statement-sac).
+See: [Chapter Eight](../../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [SAC](../../STEWARD_ENTRY_DOORS.md#system-alignment-certification).
 
 **That check is not a decision about whether you count.**
 - **Today:** A safety badge, a score, or “the model is aligned” is used to say you are (or are not) someone this Constitution covers.

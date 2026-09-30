@@ -31,9 +31,21 @@ Article XIII-B is now **Right to Redress and Remedy** (`#article-xiii-b-right-to
 
 - [ ] **Translations.** All 134 files under `translations/` still carry the old XIII-A and XIII-B text and the old title (*Right to Challenge, Review, and Redress*). Each language's copy is internally consistent, so nothing is broken, but it no longer matches English. Update `core_06_rights_part_c.md` Articles XIII-A and XIII-B in each language, then the cites that point at XIII-B for challenge.
 
+### 2026-09-30 — Operative steward boxes removed from the core
+
+Supersedes the 2026-09-27 widget work below. The Owner / Forbidden move / Clock boxes are steward routing, not constitutional text, so they are gone from the core. Each Forbidden move was checked against its owning section (see `steward_box_review.md`): where the principle was already stated it was dropped, and the four gaps got one sentence each. The next step for each situation now lives on the steward cards (`implementation/STEWARD_ENTRY_DOORS.md`) and in `implementation/steward_owner_clock_index.json` (`steward_card`, replacing `operative_box`).
+
+- [x] **Remove all 15 boxes and their anchors.** Done 2026-09-30. The "Steward door (non-operative)" lines now point at the card.
+- [x] **Add the four sentences.** Article XIII-A (adopted implementation text cannot close challenge, review, or redress); Chapter Nine §3.1 (privacy and opacity are not a standing-measurement exemption); Chapter Twelve §6 anti-delay floor (a met throughput target is not timely while harm continues); Chapter Eight Part B §14.2 (the challenge path opens when the system first has stakeholders; pilots expected at every class).
+- [x] **Rework the lockstep audit, schema, and lookup tool.** The audit now diffs each card's owner pointer and next step against the index; `corpus_lookup.py` hydrates the owner text and the card (`door_owner`, `steward_card`) instead of the box.
+- [ ] **Translations.** Ten files under `translations/` still carry the boxes and the old Chapter Eight §14.2, XIII-A, Chapter Nine, and Chapter Twelve text.
+- [x] **Article V-B.** Done 2026-09-30: added the floor sentence that adequacy is judged on currently mapped flows and no allocation formula is a precondition; collapsed the certification-procedure bullets (verify, how, when) into a pointer to Chapter Eight §6. Article V-A done the same day: kept "What must be mapped", recast complete/current/auditable/backed-by-evidence as "What the maps must be", collapsed the when/verify/how bullets into one "How certification checks it" pointer to Chapter Eight §6, and pointed hiding-defect consequences to Chapter Eight §6 and §16.
+- [ ] **Chapter Ten §9 (optional).** Consider stating that evidence preservation does not wait for a filed case.
+- [ ] **Forbidden moves in the index.** `forbidden_move` and `conflict_rule` stay in the index only; the `door` command still omits them. Decide whether the cards should show them.
+
 ### 2026-09-27 — Move operative steward statements out of reader-facing text
 
-Operative steward statements (Owner / Forbidden move / Clock boxes) are steward routing content, not reader-facing constitutional text. Put each one in a collapsed widget (`<details>` with a blue "Operative steward statement" summary, the same pattern as the Trace and Definitions widgets), not in a bare blockquote in the article body. [Chapter One Part B](core_01_b_interaction_interpretation.md) already does this; use it as the model.
+*Superseded 2026-09-30: the boxes were removed.* Operative steward statements (Owner / Forbidden move / Clock boxes) are steward routing content, not reader-facing constitutional text. Put each one in a collapsed widget (`<details>` with a blue "Operative steward statement" summary, the same pattern as the Trace and Definitions widgets), not in a bare blockquote in the article body. [Chapter One Part B](core_01_b_interaction_interpretation.md) already does this; use it as the model.
 
 - [x] **Wrap every bare box in a widget.** Done 2026-09-27: all 16 boxes are now in collapsed widgets. Generated plain-terms, reader-accessibility, and boundary-chunk outputs were regenerated.
 - [x] **Keep the audit anchors.** Leave each `<a id="operative-steward-statement-…">` anchor and the `**Operative steward statement.**` text as they are, so `tools/steward_door_lockstep_audit.py` and the `implementation/steward_owner_clock_index.json` hrefs still resolve. Re-run the audit after the change.
