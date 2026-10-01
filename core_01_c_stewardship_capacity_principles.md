@@ -669,6 +669,7 @@ Where governance and stewardship conflict, stewardship discipline controls at pr
 - Upstream: [§11.1 Governance as Authorized Structure](#111-governance-as-authorized-structure); [§11 Governance Under Stewardship Discipline](#11-governance-under-stewardship-discipline); [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard) (*same seats for human and AI stewards*).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (the one who checks is not the one who acted); **accountability** leg (answerability cannot collapse onto the actor); [material stake](core_00_preamble.md#material-stake) scaling under [Proportionality](core_05_band_accountability.md#proportionality).
 - Read with: [§12.3 Misalignment Detection](#123-misalignment-detection) (*Plural detection and review — the many-eyes half of this pair*).
+- Read with: [§11.4 Modular Architecture and Dependency Discipline](#114-modular-architecture-and-dependency-discipline) (*the architectural counterpart: separable, attributable system components*).
 - Downstream: [Chapter Seven — Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties), the constitutional owner of the four-seat floor and its cross-process application; designated implementation text and later process chapters apply that floor and may not narrow it.
 
 </details>
@@ -737,6 +738,58 @@ This principle binds human and AI stewards alike under [§10.1 Shared Stewardshi
   - change would be inconvenient (**convenience**)
   - "we've always done it this way" (**historical precedent**)
   - past choices make change harder (**path dependence**)
+
+<a id="114-modular-architecture-and-dependency-discipline"></a>
+#### 11.4 Modular Architecture and Dependency Discipline
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§11.1 Governance as Authorized Structure](#111-governance-as-authorized-structure); [§11.2 Segregation of Duties](#112-segregation-of-duties) (*the organizational counterpart: separation of roles keeps the checker apart from the actor; this section keeps the system's parts separable enough to be checked*).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (parts that can be examined one at a time), **accountability** leg (responsibility that attaches to an identifiable component), **participation** leg (understanding that does not require mastering the whole); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** (containment, repair, replacement) and **Flourishing**.
+- Read with: [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (*complexity reduction*); [§9.1 Distributed Understanding](#91-distributed-understanding); [§14.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1431-consolidation-risk-pre-lock-in-impairment).
+- Downstream: [Article XXII-B: Complexity Audit and Modularity Requirements](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*the Rights Floor*); [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependency maps*); [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*exit and portability*); [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*systems-layer modularity expectations*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
+- [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Accountability](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Cascading Failure](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: build systems in parts that have clear jobs, clear connections, and visible reliance on each other, so that anyone with a stake can see what depends on what, point to who is responsible for each piece, check one piece without having to take the whole thing on faith, and replace or repair a piece without everything else breaking. Modularity is a way to make complexity understandable and accountable. It is not a way to hide it behind boundaries.*
+
+Material systems should be built so that their parts, and the dependencies between those parts, can be seen, assigned, examined, and changed one at a time. Precise modularity, especially precise treatment of dependencies, is one of the main ways a system makes [Auditability](core_05_band_oversight.md#auditability) and [Accountability](core_05_apex_accountability_leg.md#accountability) real in practice rather than only on paper.
+
+**What modular architecture does:**
+
+- **Makes accountability attributable.** Each component has a stated function, an identifiable steward, and defined inputs and outputs, so a defect or harm can be traced to the part and the actor responsible for it.
+- **Makes transparency usable.** Reviewers can examine a component against its stated interface without reconstructing the whole system, and affected sentients can follow how their situation depends on which components, consistent with [§9.1 Distributed Understanding](#91-distributed-understanding).
+- **Reduces and bounds complexity.** Complexity that cannot be removed can be contained: partitioned into parts that can each be understood, with the connections between them kept few, explicit, and documented. This is the structural counterpart of [§3.4](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden).
+- **Contains failure and preserves substitutability.** A fault in one component should not cascade through hidden couplings ([Cascading Failure](core_05_band_continuity.md#cascading-failure)), and a component that fails, degrades, or becomes captured should be repairable or replaceable at a cost others can bear, which is the design-side answer to the lock-in that [Dependency](core_05_band_continuity.md#dependency) measures.
+
+**Dependency discipline.** The dependencies between components are part of the architecture, not an afterthought to it. For material systems:
+
+- dependencies are **explicit**: declared at interfaces, not implicit in shared state, side channels, or undocumented conventions;
+- dependencies are **minimal and directional**: coupling is kept no broader than function requires, and one-way or chained reliance is visible rather than buried;
+- dependencies are **mapped to the same boundaries that are audited**, so the dependency map required by [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) lines up with the components a reviewer can actually inspect;
+- dependencies preserve **substitutability and exit** where function allows, consistent with [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
+
+**Boundaries must not become hiding places.** Modularity is legitimate only when responsibility and observability survive every internal boundary. Partitioning that moves responsibility to an unaccountable layer, that makes the whole unauditable even though each part is individually inspectable, or that spreads one function across components so that no steward answers for it, is the layering that [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) prohibits, and it is a [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) concern when internal partitions are used to shrink the evaluated scope. Splitting a system into parts does not by itself reduce its complexity: where the interfaces add more burden than they remove, [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) applies to the design.
+
+**Scaling.** The depth of modular discipline scales with [material stake](core_00_preamble.md#material-stake) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) under [Proportionality](core_05_band_accountability.md#proportionality). Critical systems **must** meet the [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) modularity floor; lower-stake systems are expected to follow the principle as far as is proportionate. This section does not require any particular architectural style, and it does not narrow the floors in [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) or [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md).
+
+This principle binds human and AI stewards alike under [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard).
 
 <a id="12-incentive-alignment-and-system-capture"></a>
 ### 12. Incentive Alignment and System Capture

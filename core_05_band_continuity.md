@@ -2034,6 +2034,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Cluster component: [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
 - Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Wellbeing](core_05_band_continuity.md#wellbeing), [Risk](core_05_band_continuity.md#risk), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where certification gates shared-infrastructure reliance.
+- Read with: [§11.4 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#114-modular-architecture-and-dependency-discipline) (*architecture that keeps dependencies explicit, minimal, and auditable*).
 
 </details>
 
