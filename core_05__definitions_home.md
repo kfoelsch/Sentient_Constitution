@@ -303,6 +303,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice)
 - [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight)
+- [Standardization](core_05_band_accountability.md#standardization)
 - [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six)
 - [Standing Lock](core_05_band_accountability.md#standing-lock)
 - [Standing Record](core_05_band_accountability.md#standing-record-chapter-six)

@@ -9,7 +9,7 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§6–8: process conflict resolution, prohibition on absolute override, and constitutional interpretation).
 >
 > **Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — §§1–5)  
-> **Next:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Chapter One, Part C — §§9–14, stewardship and governance).
+> **Next:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Chapter One, Part C — §§9–16, stewardship, governance, capacity, and integrated application).
 > **Reading arc:** §6 process conflict resolution → §7 prohibition on absolute override → §8 constitutional interpretation.
 
 </details>

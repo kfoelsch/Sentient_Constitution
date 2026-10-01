@@ -581,7 +581,7 @@ Whoever exercises material stewardship or operational authority, and has materia
 - Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) — mechanism lemmas that keep authority-scaled answerability real where material action must remain traceable; operative detail in **[CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md)** and **Chapter Eight**.
 - Upstream: [§9 Stewardship In Depth](#9-stewardship-in-depth); [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard) (*substrate-agnostic duties bind human and AI stewards alike*).
 - Downstream: [§12 Incentive Alignment and System Capture](#12-incentive-alignment-and-system-capture); [§13 Shared-System Capacity](#13-shared-system-capacity); [Chapter Thirteen](core_13_governance.md) (*Constitutional Contract Layer* operationalization); [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member floors*).
-- Subsections (reading order): [§11.1 Governance as Authorized Structure](#111-governance-as-authorized-structure) · [§11.2 Segregation of Duties](#112-segregation-of-duties) · [§11.3 Ongoing Justification](#113-ongoing-justification).
+- Subsections (reading order): [§11.1 Governance as Authorized Structure](#111-governance-as-authorized-structure) · [§11.2 Segregation of Duties](#112-segregation-of-duties) · [§11.3 Ongoing Justification](#113-ongoing-justification) · [§11.4 Modular Architecture and Dependency Discipline](#114-modular-architecture-and-dependency-discipline) · [§11.5 Standardization](#115-standardization).
 
 </details>
 
@@ -788,6 +788,59 @@ Material systems should be built so that their parts, and the dependencies betwe
 **Boundaries must not become hiding places.** Modularity is legitimate only when responsibility and observability survive every internal boundary. Partitioning that moves responsibility to an unaccountable layer, that makes the whole unauditable even though each part is individually inspectable, or that spreads one function across components so that no steward answers for it, is the layering that [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) prohibits, and it is a [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) concern when internal partitions are used to shrink the evaluated scope. Splitting a system into parts does not by itself reduce its complexity: where the interfaces add more burden than they remove, [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) applies to the design.
 
 **Scaling.** The depth of modular discipline scales with [material stake](core_00_preamble.md#material-stake) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) under [Proportionality](core_05_band_accountability.md#proportionality). Critical systems **must** meet the [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) modularity floor; lower-stake systems are expected to follow the principle as far as is proportionate. This section does not require any particular architectural style, and it does not narrow the floors in [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) or [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md).
+
+This principle binds human and AI stewards alike under [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard).
+
+<a id="115-standardization"></a>
+#### 11.5 Standardization
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§11.1 Governance as Authorized Structure](#111-governance-as-authorized-structure); [§11.4 Modular Architecture and Dependency Discipline](#114-modular-architecture-and-dependency-discipline) (*modular parts stay checkable and replaceable when their interfaces are common and published; this section supplies that common form*).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (a common standard can be inspected once and applied everywhere), **accountability** leg (like cases treated alike), **participation** leg (stakeholders can learn one way of doing things rather than many); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** (interoperability, substitutability) and **Flourishing**.
+- Read with: [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and [§6.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) (*needless variation is a burden*); [§10.4 Aligned Self-Organization](#104-aligned-self-organization) (*the counterweight: local choice, kept interoperable*); [§14.2 Pro-Competition and Anti-Domination](#142-pro-competition-and-anti-domination) and [§14.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1431-consolidation-risk-pre-lock-in-impairment) (*standards must not become lock-in*).
+- Downstream: [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*interoperability, portability, and exit*); [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*complexity and modularity floor*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Standardization](core_05_band_accountability.md#standardization) · [O](core_05_band_accountability.md#standardization) · [M](core_05_band_accountability.md#standardization-a) · [A](core_05_band_accountability.md#standardization-a) · [C](core_05_band_accountability.md#standardization-c)
+- [Decentralization](core_05_band_accountability.md#decentralization) · [O](core_05_band_accountability.md#decentralization) · [M](core_05_band_accountability.md#decentralization-a) · [A](core_05_band_accountability.md#decentralization-a) · [C](core_05_band_accountability.md#decentralization-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Anti-Capture](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+
+</details>
+
+<br>
+
+*In plain terms: when in doubt, standardize. If there is no good reason to do something differently, do it the common, published way. Sameness needs no excuse; a difference does. But a standard has to be open, checkable, and changeable, and it standardizes how things are done, never what people may choose to do.*
+
+Where a material system must treat terms, interfaces, records, procedures, criteria, or like cases, the default is the common, published form of each. This is [Standardization](core_05_band_accountability.md#standardization). A system that departs from an available common standard should be able to say why.
+
+**What standardization does:**
+
+- **Treats like cases alike.** Common criteria and procedures make unequal treatment visible and contestable, and keep unfairness from hiding behind local variation (see [§2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment)).
+- **Makes review cheaper and stronger.** A reviewer who understands one standard can check every place it is applied. Idiosyncratic local forms multiply what must be learned, audited, and explained, which is [Avoidable Burden](core_05_band_continuity.md#avoidable-burden).
+- **Keeps parts connectable and replaceable.** Common interfaces and formats are what let a component, provider, or record be moved, repaired, or substituted without rebuilding everything around it, supporting [§11.4](#114-modular-architecture-and-dependency-discipline) and [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
+- **Lowers the cost of understanding.** Stakeholders who meet the same terms, forms, and steps everywhere can follow what is happening to them, consistent with [§3.4](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty).
+
+**A standard must itself be sound.** Standardization is legitimate only when the standard is published, versioned, open to inspection, contestable, and usable without a license, fee, or dependency that gives its owner control over others. A private or unreviewable "standard" is not Standardization. It is a form of the lock-in that [§14](#14-market-structure) and [Anti-Capture](core_05_band_continuity.md#anti-capture) address.
+
+**When variation is justified.** Departure from an available standard is supported where:
+
+- [Safety](core_05_band_continuity.md#safety-constraint), [Truth](core_05_band_oversight.md#truth-constitutional-constraint), or a Chapter Six right requires something the standard does not provide;
+- the [Necessity](core_05_band_accountability.md#necessity) of a materially different situation, or a documented [Proportionality](core_05_band_accountability.md#proportionality) reason, makes the common form unworkable or harmful; or
+- [Decentralization](core_05_band_accountability.md#decentralization) and [§10.4 Aligned Self-Organization](#104-aligned-self-organization) place a decision locally. Local choices should remain interoperable with the common standard unless a documented reason says otherwise.
+
+Innovation, experimentation, and plural approaches stay open. A proposal to improve on a standard is a reason to revise the standard, through its contest and revision path, rather than a reason to ignore it.
+
+**Limits.** Standardization governs form and treatment. It does not standardize values, ends, or lawful choices, and it never overrides the Rights Floor or a binding safety or truth requirement. It is not a ground for centralizing authority, and it does not displace [Decentralization](core_05_band_accountability.md#decentralization) where local capacity is enough. Where the two pull apart, [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) decide, and the choice is recorded.
+
+**Scaling.** The depth of this discipline scales with [material stake](core_00_preamble.md#material-stake) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance). Material and critical systems are expected to document where they depart from an available common standard and why. Lower-stake settings follow the principle as far as is proportionate.
 
 This principle binds human and AI stewards alike under [§10.1 Shared Stewardship Standard](#101-shared-stewardship-standard).
 

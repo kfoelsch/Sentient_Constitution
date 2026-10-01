@@ -1581,7 +1581,7 @@ The short form for **Materially Binding Act Record** in this instrument is **Act
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) (non-concentration / subsidiarity read-with); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (centralization justification).
+- Downstream: Principles: [Chapter One §11.5 Standardization](core_01_c_stewardship_capacity_principles.md#115-standardization) (*the common-form counterweight*); [Chapter One §13.1 Productive Capacity (Instrumental Good)](core_01_c_stewardship_capacity_principles.md#131-productive-capacity-instrumental-good) (non-concentration / subsidiarity read-with); [8.1.1 Proportionality](core_01_b_interaction_interpretation.md#613-proportionality) (centralization justification).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Governance](core_05_band_accountability.md#governance), [Chapter One §10.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
 
@@ -1605,7 +1605,7 @@ The short form for **Materially Binding Act Record** in this instrument is **Act
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
-    **Primary assessment:** Increase oversight, standardization, or central control when local capacity is not enough or effects on others are material. Do not use Decentralization to break apart [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) or evade [Accountability](core_05_apex_accountability_leg.md#accountability). Check who can actually decide, fund, approve, veto, reverse, appoint, or remove. Sending work or consultation downward does not decentralize authority when those powers stay above without [Necessity](core_05_band_accountability.md#necessity).
+    **Primary assessment:** Increase oversight, [Standardization](core_05_band_accountability.md#standardization), or central control when local capacity is not enough or effects on others are material. Do not use Decentralization to break apart [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) or evade [Accountability](core_05_apex_accountability_leg.md#accountability). Check who can actually decide, fund, approve, veto, reverse, appoint, or remove. Sending work or consultation downward does not decentralize authority when those powers stay above without [Necessity](core_05_band_accountability.md#necessity).
 <a id="decentralization-c"></a>
 <a id="subsidiarity-c"></a>
 - **What must hold**
@@ -1613,6 +1613,51 @@ The short form for **Materially Binding Act Record** in this instrument is **Act
     - It is non-compliant to centralize authority without [Necessity](core_05_band_accountability.md#necessity), or to decentralize in ways that prevent required [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), defeat [Accountability](core_05_apex_accountability_leg.md#accountability), or produce unaddressed system-wide [Harm](core_05_band_accountability.md#harm).
     - Claimed decentralization is non-compliant when it shifts duties or blame downward while keeping meaningful authority, resources, information, or review access centralized without [Necessity](core_05_band_accountability.md#necessity).
     - A Decentralization label or formal arrangement that has no real effect in the situation being evaluated is also non-compliant.
+
+---
+
+<a id="standardization"></a>
+
+#### Standardization
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §11.4 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#114-modular-architecture-and-dependency-discipline) (stable, inspectable interfaces); [Chapter One §11.5 Standardization](core_01_c_stewardship_capacity_principles.md#115-standardization); [Article XXI: Interoperability, Portability, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
+- Read with: [Decentralization](core_05_band_accountability.md#decentralization), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), [Anti-Capture](core_05_band_continuity.md#anti-capture), [System Capture](core_05_band_continuity.md#system-capture), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
+
+</details>
+
+<br>
+
+*In plain terms: when in doubt, standardize. Where no good reason supports a difference, use the common, published, interoperable way of doing it. Different treatment, formats, or procedures need a reason; sameness does not.*
+
+- **What it is**
+  - **In scope:** The default of using one common, published, openly available form for the following, wherever no binding reason supports variation:
+    - terms, definitions, and classifications;
+    - interfaces, data formats, and records;
+    - procedures, forms, and decision criteria; and
+    - treatment of like cases and like stakeholders.
+  - **Standard quality:** A standard satisfies this definition only when it is published, versioned, open to inspection and review, [contestable](core_05_band_accountability.md#contestability), and implementable without a license, fee, or dependency that would give its owner control over others.
+  - **Out of scope:** Uniformity of substance, ends, values, or lawful choices. This definition standardizes form and treatment. It does not standardize what stakeholders may pursue, believe, or create.
+<a id="standardization-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — used alongside any other relevant measures to assess whether like cases are treated alike and whether the standard in use can be inspected and checked.
+
+    **Primary assessment:** Identify each material variation in terms, interfaces, records, procedures, criteria, or treatment of like cases. For each, check whether a published common standard exists and whether the variation is supported by [Necessity](core_05_band_accountability.md#necessity), a binding safety, truth, or rights requirement, or a documented [Proportionality](core_05_band_accountability.md#proportionality) reason. Where [Decentralization](core_05_band_accountability.md#decentralization) places authority locally, check that local choices stay interoperable with the common standard unless a documented reason says otherwise.
+  - **Secondary measure:** [Contestability](core_05_band_accountability.md#contestability), [Anti-Capture](core_05_band_continuity.md#anti-capture), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — co-measures for who controls the standard, whether it can be challenged and revised, and whether it leaves real room for choice.
+
+    **Secondary assessment:** Test who writes, owns, and amends the standard; whether a dominant actor can use it to lock in dependents or exclude competitors; whether affected stakeholders can challenge it and propose revisions; and whether exit or substitution remains workable.
+<a id="standardization-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - It is non-compliant to vary terms, interfaces, procedures, criteria, or treatment of like cases without a documented reason when a published common standard is available.
+    - It is non-compliant to use a private, undisclosed, or unreviewable standard in place of a published one when affected stakeholders depend on it.
+    - A Standardization label for a standard that is not published, versioned, open to review, and contestable has no effect in the situation being evaluated and is non-compliant.
+  - **Secondary failure:**
+    - A standard that overrides a Chapter Six right, a binding safety or truth requirement, or a lawful choice that falls outside what this definition standardizes is non-compliant to that extent.
+    - A standard captured by a dominant actor, or one that locks in dependents or blocks exit or substitution, is non-compliant. It must be corrected under [Anti-Capture](core_05_band_continuity.md#anti-capture).
+    - Standardization used to centralize authority without [Necessity](core_05_band_accountability.md#necessity), or to break apart [Decentralization](core_05_band_accountability.md#decentralization) where local capacity suffices, is non-compliant.
 
 ---
 
