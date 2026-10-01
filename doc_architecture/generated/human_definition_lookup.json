@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 238,
+  "term_count": 239,
   "terms": [
     {
       "term": "Accessibility",
@@ -949,7 +949,7 @@
       "term": "Market Concentration Threshold",
       "file": "core_05_band_accountability.md",
       "anchor": "#market-concentration-threshold-constitutional",
-      "plain_terms": "adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §14 (*Market Structure*) protection never works.",
+      "plain_terms": "adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §12 (*Market Structure*) protection never works.",
       "href": "../../core_05_band_accountability.md#market-concentration-threshold-constitutional"
     },
     {
@@ -1483,6 +1483,13 @@
       "anchor": "#stakeholder-weight",
       "plain_terms": null,
       "href": "../../core_05_band_participation.md#stakeholder-weight"
+    },
+    {
+      "term": "Standardization",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#standardization",
+      "plain_terms": "when in doubt, standardize. Where no good reason supports a difference, use the common, published, interoperable way of doing it. Different treatment, formats, or procedures need a reason; sameness does not.",
+      "href": "../../core_05_band_accountability.md#standardization"
     },
     {
       "term": "Standing Effect",

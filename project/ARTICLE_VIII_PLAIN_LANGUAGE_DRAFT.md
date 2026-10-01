@@ -17,7 +17,7 @@
 |---|---|---|
 | **Necessity** | truly necessary; no less intrusive option would work | [Chapter Five](../core_05_band_accountability.md#necessity) |
 | **Proportionality** | no bigger than needed for the goal | [Chapter Five](../core_05_band_accountability.md#proportionality) |
-| **Reversibility under uncertainty** | when the facts are uncertain, choose options that can be undone | [Chapter One §6.1.3](../core_01_b_interaction_interpretation.md#613-proportionality) |
+| **Reversibility under uncertainty** | when the facts are uncertain, choose options that can be undone | [Chapter One §10.1.3](../core_01_b_interaction_interpretation.md#1013-proportionality) |
 | **Procedural Fairness** | decided through a fair process | [Chapter Five](../core_05_band_participation.md#procedural-fairness-constitutional) |
 | **Redress and Remediation** | the right to have a wrong put right | [Chapter Five](../core_05_band_accountability.md#redress-and-remediation-constitutional) |
 | **Auditability** | open to checking by others | [Chapter Five](../core_05_band_oversight.md#auditability) |
@@ -26,7 +26,7 @@
 | **Graduated Capability** | more say as abilities are shown, not at a fixed age | [Chapter Five](../core_05_band_participation.md#graduated-capability-constitutional) |
 | **Limitation Discipline** | the tests every limit on a right must pass | [Chapter One §5.1](../core_01_a_values_principles.md#51-limitation-discipline) |
 | **Stewardship** | limited, temporary authority to look after someone | [Chapter Five](../core_05_band_continuity.md#stewardship-constitutional) |
-| **Least-Restrictive, Time-Bounded, and Reviewable Constraint** | as light as possible, for as short as possible, and open to review | [Chapter One §6.1.5](../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) |
+| **Least-Restrictive, Time-Bounded, and Reviewable Constraint** | as light as possible, for as short as possible, and open to review | [Chapter One §10.1.5](../core_01_b_interaction_interpretation.md#1015-least-restrictive-time-bounded-and-reviewable-constraint-principle) |
 
 </details>
 
@@ -76,7 +76,7 @@ Being someone's parent, partner, or relative does not give you control over thei
 - create them in a way designed to trap them in dependence;
 - create them into conditions where it's predictable their rights will be violated.
 
-Creating them on a large scale also falls under the constitution's rules against market concentration [**Chapter One §14**, *Market Structure*].
+Creating them on a large scale also falls under the constitution's rules against market concentration [**Chapter One §8**, *Market Structure*].
 
 **Ordinary pregnancy and birth are not covered by these creation rules.** A planned or unplanned human pregnancy is not a "creation without consent" problem. Having children is covered by the choice rules in Part B, and caring for a child after birth is covered by Part D.
 

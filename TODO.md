@@ -55,17 +55,17 @@ Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editin
 - §3.3 Science-Informed Inquiry: Epistemic Integrity, Truth (Constitutional Constraint), Risk, Foreseeability, Materiality, Classification-Scaled Governance.
 - §5.4 Dissent and Peaceful Protest: Assembly, Freedom (Bounded Agency), Meaningful Agency, Necessity, Proportionality (owner floor: Article XI-D).
 - §5.5 Institutional Secularism: Governance, Protected Characteristics, Non-Imposition (Cooperative Interaction), Necessity, Proportionality (Article XI-A).
-- §7 Prohibition on Absolute Override: Necessity, Proportionality, Harm Minimization (Tradeoff Selection), Materiality, Proxy Divergence.
-- §9.2 Institutional Development: Strategic Stewardship Obligation, Auditability, Verifiability, Materiality.
-- §9.3 Openness Aspiration: Meaningful Agency, Contestability, Dependency, Materiality.
-- §10.2 Alignment Under Pressure: Stewardship, Incentive Alignment, Safety, Truth, Auditability, Contestability.
-- §10.3 Logging the Role, Not the Steward: Attributable Action, Auditability, Surveillance Boundary, Protected Internal-State Boundary.
-- §10.4 Aligned Self-Organization: System Creation, Protected Reporting, Evidence Preservation, Foreseeability, Merits Determination, Necessity, Proportionality.
-- §11.2 Segregation of Duties: Oversight, Accountability, Auditability, Contestability, Stewardship, Proportionality; the four seats are defined under Materially Binding Act and its cluster (Initiating Seat, Contest Seat, and the rest).
-- §11.3 Ongoing Justification: Review and Correction Duty, Governance, Oversight, Accountability, Contestability, Timeliness, Transparency.
+- §11 Prohibition on Absolute Override: Necessity, Proportionality, Harm Minimization (Tradeoff Selection), Materiality, Proxy Divergence.
+- §13.2 Institutional Development: Strategic Stewardship Obligation, Auditability, Verifiability, Materiality.
+- §13.3 Openness Aspiration: Meaningful Agency, Contestability, Dependency, Materiality.
+- §14.2 Alignment Under Pressure: Stewardship, Incentive Alignment, Safety, Truth, Auditability, Contestability.
+- §14.3 Logging the Role, Not the Steward: Attributable Action, Auditability, Surveillance Boundary, Protected Internal-State Boundary.
+- §14.4 Aligned Self-Organization: System Creation, Protected Reporting, Evidence Preservation, Foreseeability, Merits Determination, Necessity, Proportionality.
+- §15.2 Segregation of Duties: Oversight, Accountability, Auditability, Contestability, Stewardship, Proportionality; the four seats are defined under Materially Binding Act and its cluster (Initiating Seat, Contest Seat, and the rest).
+- §15.3 Ongoing Justification: Review and Correction Duty, Governance, Oversight, Accountability, Contestability, Timeliness, Transparency.
 - §12.6 Successor Responsibility: Accountability, Attributable Action, Attribution Integrity, Necessity, Proportionality.
-- §14.2 Pro-Competition and Anti-Domination and §14.3 Consolidation Ceiling: Market Structure, Market Concentration Threshold, Systemic Lock-In, Dependency, Contestability, Governance, Stewardship (operational homes: CJS-3.11.1 to 3.11.3).
-- §16 Integrated Application: Authority Stack and Internal Hierarchy, Corpus, Governance, Accountability, Anti-Capture, System Capture, and others.
+- §8.2 Pro-Competition and Anti-Domination and §8.3 Consolidation Ceiling: Market Structure, Market Concentration Threshold, Systemic Lock-In, Dependency, Contestability, Governance, Stewardship (operational homes: CJS-3.11.1 to 3.11.3).
+- §17 Integrated Application: Authority Stack and Internal Hierarchy, Corpus, Governance, Accountability, Anti-Capture, System Capture, and others.
 
 **Two worth a second look.** These are the only ones where a distinct concept may lack a home.
 
@@ -176,3 +176,13 @@ Keep this active file limited to editor checks, current open work, and short arc
 - **2026-06-18 Chapter Five closeout:** [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md)
 - **2026-05-01 root retirement:** [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md), [archive/MEMLOG_ROOT_RETIRED_2026-05-01.md](archive/MEMLOG_ROOT_RETIRED_2026-05-01.md)
 - **Older TODO/MEMLOG snapshots:** removed 2026-06-17; retrieve from git history if needed
+
+
+## 2026-10-01 — Chapter One continuity relocation: done, open follow-ups
+- Done: Part A is now §1 purpose, §2–5 Flourishing, §6–9 Continuity; later sections renumbered (§10–17). §2 and §4 retitled. Report: evidence/2026-10-01/ch1_continuity_relocation_report_2026-10-01.json.
+- [ ] Translations (20 languages) still carry the old Chapter One numbering; not updated.
+- [ ] Add the relocated Continuity principles (new §7/§8) to the Trace downstream in core_05_apex_continuity_aim.md.
+- [ ] Decide §13 (now §7) primary aim: Trace says Continuity; hierarchy treats it as a means toward Flourishing.
+- [ ] "Standardization" definition in core_05_band_accountability.md lacks an approved measurement seed (blocks hierarchy-map regeneration).
+- [ ] Run `make ai-manifest-regenerate` now that source changes are committed.
+- Baseline failures unchanged: corpus-markdown-audit, ch5-cluster-order-audit, lexical-vocabulary-audit.

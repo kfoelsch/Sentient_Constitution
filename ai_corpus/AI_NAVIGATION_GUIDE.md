@@ -64,7 +64,7 @@ Step 1: python3 tools/corpus_lookup.py topic-route CJS-R09
 
 Step 2: Hydrate the owner, then each listed read-with
 
-Step 3: Apply Chapter One §8.4.4 combined satisfaction; do not skip read-with
+Step 3: Apply Chapter One §12.4.4 combined satisfaction; do not skip read-with
 ```
 
 ### Pattern 4: Natural-language fact pattern

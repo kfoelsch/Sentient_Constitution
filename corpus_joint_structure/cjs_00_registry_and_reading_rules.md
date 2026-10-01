@@ -38,7 +38,7 @@
 
 - Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-0.1: Cross-file routing](#cjs-01-cross-file-routing); [CJS-0.2: Joint structure registry](#cjs-02-joint-structure-registry); [CJS-0.3: Stable identifiers, edition alignment, and drafting notes](#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes).
-- Read with: **CJS-0**; **CJS-0.1**; **CJS-1**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
+- Read with: **CJS-0**; **CJS-0.1**; **CJS-1**; [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
 
 </details>
 
@@ -66,9 +66,9 @@ Scope, boundary, and the shared implementation-corpus contract live in **CJS-1.0
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CJS-0.1 topic-router stable IDs](#cjs-01-topic-router-stable-ids).
-- Read with: **CJS-0.1**; **CJS-2**; [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-0.2](#cjs-02-joint-structure-registry); [CJS-0.3](#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes); [CJS-1.8](cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail).
+- Read with: **CJS-0.1**; **CJS-2**; [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-0.2](#cjs-02-joint-structure-registry); [CJS-0.3](#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes); [CJS-1.8](cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail).
 
 </details>
 
@@ -82,7 +82,7 @@ Do not open the full router table below for ordinary reading. Stay in the primar
 
 **How cross-file topics work**
 
-Apply topics within the default reading stack named in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*).
+Apply topics within the default reading stack named in [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*).
 
 - **Start here (primary owner)** — the section that owns the topic's operative rules. A primary owner may be **CJS**, **CS**, **CI**, or **CF**.
 - **Also read (mandatory read-with)** — adopted implementation text sections (and core hooks where listed) that must also be satisfied when the topic materially applies. They complete the topic; they do not replace the primary owner's operative scope.
@@ -91,7 +91,7 @@ If a matter triggers more than one cross-layer topic, apply **every** triggered 
 
 **When joint obligations apply**
 
-Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations live in [Chapter One §8.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.1** (*Topic router*)). Domain-specific joint rules: **CJS-1.9**–**CJS-1.11**.
+Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations live in [Chapter One §12.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter One §12.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1243-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.1** (*Topic router*)). Domain-specific joint rules: **CJS-1.9**–**CJS-1.11**.
 
 **Topic finder**
 
@@ -105,7 +105,7 @@ Use the [non-binding support index: topic router reader index](../doc_architectu
 
 <a id="cjs-01-topic-router-stable-ids"></a>
 
-When implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §8.4.4](../core_01_b_interaction_interpretation.md#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what **CJS-0.1** (*Topic router (stable IDs)*) routes for the topic.
+When implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what **CJS-0.1** (*Topic router (stable IDs)*) routes for the topic.
 
 Router rows are **indicative**, not exhaustive: if a matter triggers multiple rows, apply **all** triggered rows whose scope is materially true.
 
@@ -214,7 +214,7 @@ Default sequential reading is wrapper → reader guide → **CJS-1** (*Scope, pu
 
 **Implementation-label citation hygiene**
 
-When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [Chapter One §8.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#843-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
+When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [Chapter One §12.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1243-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>

@@ -79,297 +79,307 @@
     },
     "1": {
       "title": "Purpose and Role",
-      "line": 17,
+      "line": 64,
       "file": "core_01_a_values_principles.md"
     },
     "2": {
-      "title": "Foundational Objective: Wellbeing",
-      "line": 96,
+      "title": "Foundational Objective: Wellbeing (Flourishing Aim)",
+      "line": 151,
       "file": "core_01_a_values_principles.md"
     },
     "2.1": {
       "title": "Fairness",
-      "line": 138,
+      "line": 195,
       "file": "core_01_a_values_principles.md"
     },
     "2.2": {
       "title": "Recognition, Reinforcement, and Aspiration",
-      "line": 223,
+      "line": 280,
       "file": "core_01_a_values_principles.md"
     },
     "2.3": {
       "title": "Anti-Degrading Process",
-      "line": 314,
+      "line": 371,
       "file": "core_01_a_values_principles.md"
     },
     "3": {
       "title": "Non-Negotiable Principle Constraints: Safety and Truth",
-      "line": 374,
+      "line": 431,
       "file": "core_01_a_values_principles.md"
     },
     "3.1": {
       "title": "Safety (Harm Constraint)",
-      "line": 405,
+      "line": 462,
       "file": "core_01_a_values_principles.md"
     },
     "3.2": {
       "title": "Truth (Epistemic Integrity Constraint)",
-      "line": 440,
+      "line": 497,
       "file": "core_01_a_values_principles.md"
     },
     "3.3": {
       "title": "Science-Informed Inquiry and Decision Support",
-      "line": 473,
+      "line": 530,
       "file": "core_01_a_values_principles.md"
     },
     "3.4": {
       "title": "Plain-Language Accessibility (Participation and Stewardship Duty)",
-      "line": 521,
+      "line": 578,
       "file": "core_01_a_values_principles.md"
     },
     "4": {
-      "title": "System Stability Enabler: Trust (Coordination Integrity)",
-      "line": 597,
+      "title": "Trust and Trustworthiness (Coordination Integrity)",
+      "line": 654,
       "file": "core_01_a_values_principles.md"
     },
     "4.1": {
-      "title": "Resilience and Self-Healing Design",
-      "line": 642,
-      "file": "core_01_a_values_principles.md"
-    },
-    "4.2": {
       "title": "Correction and Remedy",
-      "line": 682,
+      "line": 700,
       "file": "core_01_a_values_principles.md"
     },
     "5": {
       "title": "Freedom (Bounded Agency)",
-      "line": 721,
+      "line": 739,
       "file": "core_01_a_values_principles.md"
     },
     "5.1": {
       "title": "Limitation Discipline",
-      "line": 776,
+      "line": 794,
       "file": "core_01_a_values_principles.md"
     },
     "5.2": {
       "title": "Voluntary Discontinuation and Exit Rights",
-      "line": 809,
+      "line": 827,
       "file": "core_01_a_values_principles.md"
     },
     "5.3": {
       "title": "Assembly, Collective Organization, and Institutional Formation",
-      "line": 853,
+      "line": 871,
       "file": "core_01_a_values_principles.md"
     },
     "5.4": {
       "title": "Dissent and Peaceful Protest",
-      "line": 919,
+      "line": 937,
       "file": "core_01_a_values_principles.md"
     },
     "5.5": {
       "title": "Institutional Secularism and Worldview Neutrality",
-      "line": 956,
+      "line": 974,
       "file": "core_01_a_values_principles.md"
     },
     "6": {
+      "title": "Resilience and Self-Healing Design",
+      "line": 1005,
+      "file": "core_01_a_values_principles.md"
+    },
+    "7": {
+      "title": "Shared-System Capacity",
+      "line": 1046,
+      "file": "core_01_a_values_principles.md"
+    },
+    "7.1": {
+      "title": "Productive Capacity (Instrumental Good)",
+      "line": 1112,
+      "file": "core_01_a_values_principles.md"
+    },
+    "7.2": {
+      "title": "Constitutional Efficiency",
+      "line": 1192,
+      "file": "core_01_a_values_principles.md"
+    },
+    "8": {
+      "title": "Market Structure",
+      "line": 1236,
+      "file": "core_01_a_values_principles.md"
+    },
+    "8.1": {
+      "title": "Market Concentration Threshold Mechanism (Adopter-Tunable)",
+      "line": 1283,
+      "file": "core_01_a_values_principles.md"
+    },
+    "8.2": {
+      "title": "Pro-Competition and Anti-Domination",
+      "line": 1375,
+      "file": "core_01_a_values_principles.md"
+    },
+    "8.3": {
+      "title": "Consolidation Ceiling",
+      "line": 1519,
+      "file": "core_01_a_values_principles.md"
+    },
+    "9": {
+      "title": "Systemic Evaluation Requirement",
+      "line": 1665,
+      "file": "core_01_a_values_principles.md"
+    },
+    "10": {
       "title": "Process Conflict Resolution",
       "line": 53,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "6.1": {
+    "10.1": {
       "title": "Core Tradeoff Principles",
       "line": 77,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "6.2": {
+    "10.2": {
       "title": "Epistemic Disclosure Constraints",
       "line": 325,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "6.3": {
+    "10.3": {
       "title": "Minimization of Avoidable Burden",
       "line": 519,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "7": {
+    "11": {
       "title": "Prohibition on Absolute Override",
       "line": 562,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "8": {
+    "12": {
       "title": "Constitutional Interpretation",
       "line": 596,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "8.1": {
+    "12.1": {
       "title": "Constitutional No-Bypass Principle",
       "line": 624,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "8.2": {
+    "12.2": {
       "title": "Definitional layer and required disciplines",
       "line": 674,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "8.3": {
+    "12.3": {
       "title": "Ambiguity resolution",
       "line": 729,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "8.4": {
+    "12.4": {
       "title": "Constitutional Meaning Conflict Resolution",
       "line": 752,
       "file": "core_01_b_interaction_interpretation.md"
     },
-    "9": {
-      "title": "Stewardship In Depth",
-      "line": 41,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "9.1": {
-      "title": "Distributed Understanding",
-      "line": 147,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "9.2": {
-      "title": "Institutional Development",
-      "line": 197,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "9.3": {
-      "title": "Openness Aspiration",
-      "line": 251,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "10": {
-      "title": "Consequential Stewardship: The Steward Role",
-      "line": 290,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "10.1": {
-      "title": "Shared Stewardship Standard",
-      "line": 328,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "10.2": {
-      "title": "Alignment Under Pressure",
-      "line": 371,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "10.3": {
-      "title": "Logging the Role, Not the Steward",
-      "line": 412,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "10.4": {
-      "title": "Aligned Self-Organization",
-      "line": 463,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "10.5": {
-      "title": "Duty to Resist",
-      "line": 531,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "11": {
-      "title": "Governance Under Stewardship Discipline",
-      "line": 574,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "11.1": {
-      "title": "Governance as Authorized Structure",
-      "line": 610,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "11.2": {
-      "title": "Segregation of Duties",
-      "line": 664,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "11.3": {
-      "title": "Ongoing Justification",
-      "line": 697,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "12": {
-      "title": "Incentive Alignment and System Capture",
-      "line": 742,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "12.1": {
-      "title": "Alignment Requirement",
-      "line": 793,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "12.2": {
-      "title": "Convenient Proxies and Proxy Divergence",
-      "line": 913,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "12.3": {
-      "title": "Misalignment Detection",
-      "line": 945,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "12.4": {
-      "title": "Misalignment Correction and Capture Response",
-      "line": 1018,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "12.5": {
-      "title": "Contingent Claims, Games of Chance, and Event-Contract Markets",
-      "line": 1071,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
-    "12.6": {
-      "title": "Successor Responsibility and Formal-Structure Non-Escape",
-      "line": 1229,
-      "file": "core_01_c_stewardship_capacity_principles.md"
-    },
     "13": {
-      "title": "Shared-System Capacity",
-      "line": 1284,
+      "title": "Stewardship In Depth",
+      "line": 38,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "13.1": {
-      "title": "Productive Capacity (Instrumental Good)",
-      "line": 1350,
+      "title": "Distributed Understanding",
+      "line": 144,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "13.2": {
-      "title": "Constitutional Efficiency",
-      "line": 1430,
+      "title": "Institutional Development",
+      "line": 194,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "13.3": {
+      "title": "Openness Aspiration",
+      "line": 248,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "14": {
-      "title": "Market Structure",
-      "line": 1474,
+      "title": "Consequential Stewardship: The Steward Role",
+      "line": 287,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "14.1": {
-      "title": "Market Concentration Threshold Mechanism (Adopter-Tunable)",
-      "line": 1521,
+      "title": "Shared Stewardship Standard",
+      "line": 325,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "14.2": {
-      "title": "Pro-Competition and Anti-Domination",
-      "line": 1613,
+      "title": "Alignment Under Pressure",
+      "line": 368,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "14.3": {
-      "title": "Consolidation Ceiling",
-      "line": 1757,
+      "title": "Logging the Role, Not the Steward",
+      "line": 409,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "14.4": {
+      "title": "Aligned Self-Organization",
+      "line": 460,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "14.5": {
+      "title": "Duty to Resist",
+      "line": 528,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "15": {
-      "title": "Systemic Evaluation Requirement",
-      "line": 1903,
+      "title": "Governance Under Stewardship Discipline",
+      "line": 571,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "15.1": {
+      "title": "Governance as Authorized Structure",
+      "line": 607,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "15.2": {
+      "title": "Segregation of Duties",
+      "line": 661,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "15.3": {
+      "title": "Ongoing Justification",
+      "line": 695,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "15.4": {
+      "title": "Modular Architecture and Dependency Discipline",
+      "line": 740,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "15.5": {
+      "title": "Standardization",
+      "line": 792,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "16": {
+      "title": "Incentive Alignment and System Capture",
+      "line": 845,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "16.1": {
+      "title": "Alignment Requirement",
+      "line": 896,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "16.2": {
+      "title": "Convenient Proxies and Proxy Divergence",
+      "line": 1016,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "16.3": {
+      "title": "Misalignment Detection",
+      "line": 1048,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "16.4": {
+      "title": "Misalignment Correction and Capture Response",
+      "line": 1121,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "16.5": {
+      "title": "Contingent Claims, Games of Chance, and Event-Contract Markets",
+      "line": 1174,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "16.6": {
+      "title": "Successor Responsibility and Formal-Structure Non-Escape",
+      "line": 1332,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "17": {
       "title": "Integrated Application",
-      "line": 1959,
+      "line": 1387,
       "file": "core_01_c_stewardship_capacity_principles.md"
     }
   },
@@ -609,11 +619,11 @@
       "end_line": 410,
       "read_with": [],
       "direct_ch1_refs": [
-        "11.1",
+        "12.1",
+        "12.2",
+        "15.1",
         "2",
         "3.4",
-        "8.1",
-        "8.2",
         "linked"
       ],
       "inferred_principles": [
@@ -868,10 +878,10 @@
       "end_line": 582,
       "read_with": [],
       "direct_ch1_refs": [
+        "10.1.5",
         "11",
         "11.2",
         "12.1",
-        "6.1.5",
         "8",
         "8.2",
         "linked"
@@ -1894,18 +1904,17 @@
       "read_with": [],
       "direct_ch1_refs": [
         "10",
+        "10.2.4",
         "12.2",
-        "14",
-        "14.1",
-        "14.2",
-        "14.2.3",
-        "14.3",
-        "14.3.1",
-        "14.3.2",
         "4",
         "6.2",
-        "6.2.4",
+        "8",
         "8.1",
+        "8.2",
+        "8.2.3",
+        "8.3",
+        "8.3.1",
+        "8.3.2",
         "linked"
       ],
       "inferred_principles": [
@@ -2083,11 +2092,11 @@
       "end_line": 654,
       "read_with": [],
       "direct_ch1_refs": [
+        "10.1.5",
         "11",
         "11.1",
         "11.3",
         "12.1",
-        "6.1.5",
         "8",
         "9",
         "linked"
@@ -3690,10 +3699,10 @@
       "end_line": 401,
       "read_with": [],
       "direct_ch1_refs": [
+        "10.1.5",
         "11",
         "11.1",
         "12.1",
-        "6.1.5",
         "8.1",
         "9",
         "linked"

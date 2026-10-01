@@ -21,7 +21,7 @@
 | Orientation | Integrated | Reader-guidance widget, Trace, §1 |
 | Oversight foundation | Oversight | §2 |
 | Accountability gate | Accountability + Participation boundary | §3 |
-| Flourishing measure | Flourishing | §4.0, Chapter One §8.1 (LEQU baseline), Chapter One §8.2 (primary category defaults) |
+| Flourishing measure | Flourishing | §4.0, Chapter One §12.1 (LEQU baseline), Chapter One §12.2 (primary category defaults) |
 | Accountability measure | Accountability | §3.3 |
 
 ## Chapter Ten — section map

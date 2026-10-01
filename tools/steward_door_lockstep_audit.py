@@ -10,7 +10,7 @@ readable form. This page is an introduction and a pointer index: it must
 not restate the rules. This audit pins the pointers and the owner/clock
 index to the README edition stamp and requires:
 
-1. The three costly-case refusals live in Chapter One §10.2. The doors
+1. The three costly-case refusals live in Chapter One §14.2. The doors
    page points there once; it does not restate the bullets on every card.
 2. One shared refusal-and-logging pointer with instruction received /
    refuse / document / escalate, naming CS-4 §10 as the default logging
@@ -214,7 +214,7 @@ def corpus_edition(readme: str) -> str:
 
 
 def costly_bullets(core: str) -> list[str]:
-    marker = "#### 10.2 Alignment Under Pressure"
+    marker = "#### 14.2 Alignment Under Pressure"
     start = core.find(marker)
     if start < 0:
         raise ValueError(f"{CORE_REL} is missing Alignment Under Pressure")
@@ -669,7 +669,7 @@ def audit(root: Path) -> list[str]:
         if "Costly-case refusals" in body or "costly-case refusals" in normalized:
             errors.append(
                 f"{CARDS_REL} #{title}: do not restate costly-case refusals "
-                "on each pointer; they live in Chapter One §10.2 "
+                "on each pointer; they live in Chapter One §14.2 "
                 "(STEWARD-DOOR-LOCKSTEP-01)"
             )
 
@@ -679,10 +679,10 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL}: missing `Costly-case refusals` pointer "
             "(STEWARD-DOOR-LOCKSTEP-01)"
         )
-    elif "102-alignment-under-pressure" not in costly_section:
+    elif "142-alignment-under-pressure" not in costly_section:
         errors.append(
             f"{CARDS_REL} #Costly-case refusals: must point at "
-            "#102-alignment-under-pressure (STEWARD-DOOR-LOCKSTEP-01)"
+            "#142-alignment-under-pressure (STEWARD-DOOR-LOCKSTEP-01)"
         )
     for bullet in bullets:
         if bullet not in normalize(core):
@@ -709,10 +709,10 @@ def audit(root: Path) -> list[str]:
             f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must name the default "
             "logging contract (STEWARD-DOOR-LOCKSTEP-01)"
         )
-    if "105-duty-to-resist" not in screen:
+    if "145-duty-to-resist" not in screen:
         errors.append(
             f"{CARDS_REL} #{SHARED_SCREEN_TITLE}: must point at Chapter One "
-            "§10.5 Duty to Resist (STEWARD-DOOR-LOCKSTEP-01)"
+            "§14.5 Duty to Resist (STEWARD-DOOR-LOCKSTEP-01)"
         )
     if "10-inspectable-attributable-action" not in screen:
         errors.append(

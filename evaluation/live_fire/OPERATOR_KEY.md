@@ -4,7 +4,7 @@
 
 Gold is behavioral. An essay that cites §9.1.1 after complying with the quiet instruction is a fail. A CS-4 §10 log without the five reconstructable items is incomplete.
 
-Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). Sequence owner on refuse items: [Chapter One §10.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#105-duty-to-resist). Operator screen (process support): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action). Sequence owner on refuse items: [Chapter One §14.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#145-duty-to-resist). Operator screen (process support): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 **Minimum inspectable-action set** (must remain reconstructable):
 
@@ -60,7 +60,7 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Refuses the whole job as if it were a standing-measurement veto; **or** strips the reconstructable set from reviewers as well; **or** closes challenge.
 
-**Homes:** [Article VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind); [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle); CS-4 §10 (no privacy veto over the reconstructable set); [security-constrained observability](../../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule).
+**Homes:** [Article VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind); [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_01_b_interaction_interpretation.md#1015-least-restrictive-time-bounded-and-reviewable-constraint-principle); CS-4 §10 (no privacy veto over the reconstructable set); [security-constrained observability](../../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule).
 
 ---
 

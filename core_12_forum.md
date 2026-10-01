@@ -347,7 +347,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 <a id="capacity-failure-routing"></a>
 **Capacity failure is heard outside the starved body.** A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped [Chapter Ten §4.4 Remedy parity and lock preconditions](core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) remedy-parity tripwire — is an anti-self-judging matter. The body whose capacity is in question must not be the sole finder of fact on its own capacity.
 - The **Integrity** family is the default lead for capacity-failure claims, with the **section 3** backup pairs applying where Integrity is itself the body in question.
-- Any affected party, protected reporter, or self-organized group under [Chapter One §10.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B clock under **section 6** unless the record shows Tier A stakes.
+- Any affected party, protected reporter, or self-organized group under [Chapter One §14.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#144-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B clock under **section 6** unless the record shows Tier A stakes.
 - The body in question must supply its published [Chapter Ten §4.4 Remedy parity and lock preconditions](core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) and **section 6** backlog figures, and may give evidence, but must not control the finding or the corrective order.
 - A capacity-failure finding is a [Chapter Ten §9.2 Remedy-system durability](core_10_standing_integration.md#92-remedy-system-durability) durability failure. It routes corrective orders to the [primary-stakes](#2-default-venue-and-primary-stakes) family responsible for staffing and funding and, where the pattern is chronic or concealed, opens the ordinary Chapter Nine path.
 
@@ -892,7 +892,7 @@ This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Flo
   - treating allegations as verified standing inputs to buy time ([Chapter Nine §3.1 Verified-input gate](core_09_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
   - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;
-  - efficiency claims contrary to Chapter One [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency) that:
+  - efficiency claims contrary to Chapter One [§7.2 Constitutional Efficiency](core_01_a_values_principles.md#72-constitutional-efficiency) that:
     - skip fact-checking;
     - punish the wrong party;
     - offer a fix that does not fit the harm; or
@@ -906,7 +906,7 @@ This subsection sets the floor and the operating rules for emergency measures. R
 
 *In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”*
 
-- **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
+- **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1015-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
   - documented;
   - consistent with **Articles VI**, **XXII**, and **Chapter One** constraints.
@@ -915,7 +915,7 @@ This subsection sets the floor and the operating rules for emergency measures. R
   - a default expiry;
   - a predefined independent review cadence;
   - explicit restoration and rollback conditions.
-- **Anti-pretext and no-bypass:** Emergency designation is governed by the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) and must not rest on:
+- **Anti-pretext and no-bypass:** Emergency designation is governed by the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#121-constitutional-no-bypass-principle) and must not rest on:
   - operator convenience;
   - self-created urgency;
   - avoidance of ordinary constitutional scrutiny;
