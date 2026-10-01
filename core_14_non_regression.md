@@ -56,7 +56,7 @@ Permitted expansion of protection and supremacy sequencing are governed by **Cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Fourteen](#chapter-fourteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05_band_oversight.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05__definitions_home.md#chapter-five-foundational-definitions)).
+- Upstream: [Chapter Fourteen](#chapter-fourteen-non-regression-and-substantive-amendment-validity) opening floor list (Chapters One through Four, Ten, Eleven); integrated definitions — [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) (canonical O/M/A/C under [Truth and Epistemic Integrity](core_05_band_oversight.md#truth-and-epistemic-integrity-cluster)), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and related floors named in operative text ([Chapter Five definitions](core_05__definitions_home.md#chapter-five-foundational-definitions)).
 - Downstream: [§2](#2-test-1--substantive-non-regression-validity) Test 1 inventory; [§3](#3-anti-evasion-clause-and-constitutional-misconduct-referral) anti-evasion and referral triggers.
 - Read with: [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) for Rights-Floor specifics; [Chapters Two through Four](core_02_definition_structure.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
 
@@ -64,10 +64,10 @@ Permitted expansion of protection and supremacy sequencing are governed by **Cha
 
 <br>
 
-*In plain terms: weakening **Safety (Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label.*
+*In plain terms: weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label.*
 
 No constitutional change is valid if it materially weakens core protections for any covered sentient class. Core protections include:
-- Safety (Constraint);
+- Safety (Constitutional Constraint);
 - Truth (Constitutional Constraint);
 - Epistemic Integrity;
 - Dignity and Equal Moral Standing; and

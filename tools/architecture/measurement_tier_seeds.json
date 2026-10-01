@@ -14,7 +14,7 @@
       "tier_depth": "full",
       "status": "approved"
     },
-    "Safety (Constraint)": {
+    "Safety (Constitutional Constraint)": {
       "ch00_category": "3.2 Flourishing",
       "tier_depth": "full",
       "status": "approved"
@@ -24,7 +24,12 @@
       "tier_depth": "full",
       "status": "approved"
     },
-    "Materiality Determination": {
+    "Duty to Resist": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Materiality": {
       "tier_depth": "full",
       "status": "approved"
     },
@@ -42,6 +47,11 @@
       "tier_depth": "primary_secondary",
       "status": "approved",
       "ch00_category": "3.6 Accountability"
+    },
+    "No-Bypass": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
     },
     "Verify-or-Authorize Seat": {
       "tier_depth": "primary_secondary",
@@ -588,7 +598,7 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
-    "Foreseeability Diligence": {
+    "Foreseeability": {
       "ch00_category": "3.5 Oversight",
       "tier_depth": "primary_only",
       "status": "approved"

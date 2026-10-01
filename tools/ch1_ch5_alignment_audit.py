@@ -37,8 +37,8 @@ from definition_index import (  # noqa: E402
 
 # Chapter One widgets shorten these Chapter Five labels; map display name → canonical term.
 DAC_LABEL_ALIASES = {
-    "materiality": "Materiality Determination",
-    "foreseeability": "Foreseeability Diligence",
+    "materiality": "Materiality",
+    "foreseeability": "Foreseeability",
 }
 DETAILS_BLOCK_RE = re.compile(r"<details>[\s\S]*?</details>", re.IGNORECASE)
 NON_OPERATIVE_SUMMARY_RE = re.compile(

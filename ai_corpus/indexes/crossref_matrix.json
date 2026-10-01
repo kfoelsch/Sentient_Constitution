@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-30T23:10:06+00:00",
+  "generated_at": "2026-10-01T12:27:47+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1308,7 +1308,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 28,
+            "count": 33,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -1318,7 +1318,10 @@
               "#corpus",
               "#corpus-a",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
-              "#corpus-c"
+              "#corpus-c",
+              "#no-bypass",
+              "#no-bypass-a",
+              "#no-bypass-c"
             ]
           },
           {
@@ -1602,7 +1605,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 364,
+            "count": 374,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1620,6 +1623,9 @@
               "#contingent-claim-a",
               "#contingent-claim-c",
               "#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent",
+              "#duty-to-resist",
+              "#duty-to-resist-a",
+              "#duty-to-resist-c",
               "#event-contract-market",
               "#event-contract-market-a",
               "#event-contract-market-c",
@@ -1648,6 +1654,8 @@
               "#market-structure-constitutional-a",
               "#market-structure-constitutional-c",
               "#materially-binding-act",
+              "#materially-binding-act-a",
+              "#materially-binding-act-c",
               "#merits-determination",
               "#merits-determination-a",
               "#merits-determination-c",
@@ -2409,7 +2417,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 83,
+            "count": 84,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#anti-constitutional-misconduct-review",
@@ -2431,6 +2439,7 @@
               "#cruelty",
               "#decentralization",
               "#due-process-constitutional",
+              "#duty-to-resist",
               "#event-contract-market",
               "#feasibility",
               "#force-majeure-constitutional",
@@ -2567,7 +2576,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 17,
+            "count": 18,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
@@ -2583,6 +2592,7 @@
               "#incentive-alignment-semi-independent",
               "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
               "#innovation-reward-and-anti-enclosure",
+              "#no-bypass",
               "#non-compliance"
             ]
           },
@@ -3356,9 +3366,12 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 40,
+            "count": 43,
             "anchors": [
+              "#101-shared-stewardship-standard",
+              "#102-alignment-under-pressure",
               "#104-aligned-self-organization",
+              "#105-duty-to-resist",
               "#11-governance-under-stewardship-discipline",
               "#111-governance-as-authorized-structure",
               "#112-segregation-of-duties",
@@ -3397,7 +3410,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 110,
+            "count": 111,
             "anchors": [
               "#accountability",
               "#accountability-measurement-family",
@@ -3428,7 +3441,7 @@
           },
           {
             "file": "core_05_apex_timeliness_leg.md",
-            "count": 52,
+            "count": 53,
             "anchors": [
               "#timeliness-constitutional",
               "#timeliness-measurement-family"
@@ -3436,7 +3449,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 623,
+            "count": 628,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3470,6 +3483,7 @@
               "#forum-family-sentient",
               "#forum-family-technical",
               "#game-of-chance",
+              "#good-faith",
               "#governance",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#harassment-and-bullying",
@@ -3518,7 +3532,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 135,
+            "count": 136,
             "anchors": [
               "#anti-capture",
               "#avoidable-burden",
@@ -3706,12 +3720,13 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
               "#1-chapter-nine-records-do-not-change",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-prevention--general-standing-locks",
               "#5-lock-design-and-enforcement",
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#55-special-locks",
               "#62-competency-bars-and-clearances",
               "#9-enforcement-realism-and-remedy-systems",
@@ -3800,7 +3815,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
@@ -4312,10 +4327,11 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#6-process-conflict-resolution",
               "#8-constitutional-interpretation",
+              "#81-constitutional-no-bypass-principle",
               "#84-constitutional-meaning-conflict-resolution"
             ]
           },
@@ -4371,8 +4387,9 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 10,
+            "count": 13,
             "anchors": [
+              "#accountability",
               "#accountability-measurement-family"
             ]
           },
@@ -4385,7 +4402,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 39,
+            "count": 41,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
@@ -4424,7 +4441,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 48,
+            "count": 49,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
@@ -4442,7 +4459,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 32,
+            "count": 34,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4484,6 +4501,13 @@
             "anchors": [
               "#article-x-b-governance-participation-and-voting-entitlement",
               "#article-xii-a-stakeholder-system-participation-and-representation"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_e.md",
+            "count": 1,
+            "anchors": [
+              "#article-xxvi-b-periodic-revalidation-and-transparent-change"
             ]
           },
           {

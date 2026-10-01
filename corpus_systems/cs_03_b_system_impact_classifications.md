@@ -25,7 +25,7 @@
 
 - Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application* — Chapter Five owns meanings; CS-3 applies them).
 - Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — dual axis with this catalog).
-- Read with: [Material Impact](../core_05_band_oversight.md#material-impact); [Materiality Determination](../core_05_band_oversight.md#materiality-determination); [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance).
+- Read with: [Material Impact](../core_05_band_oversight.md#material-impact); [Materiality](../core_05_band_oversight.md#materiality-determination); [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance).
 - Read with: [Dependency](../core_05_band_continuity.md#dependency); [Risk](../core_05_band_continuity.md#risk); [Cascading Failure](../core_05_band_continuity.md#cascading-failure); [Existential Risk](../core_05_band_continuity.md#existential-risk).
 - Read with: [Systemic](../core_05_band_continuity.md#systemic); [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional).
 - Read with: [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*forum materiality tiers A/B/C/L/P — alphabet mirror only*).
@@ -45,7 +45,7 @@ Impact-class findings apply the Chapter Five meanings of:
 - [Dependency](../core_05_band_continuity.md#dependency);
 - [Risk](../core_05_band_continuity.md#risk), including [Cascading Failure](../core_05_band_continuity.md#cascading-failure) and [Existential Risk](../core_05_band_continuity.md#existential-risk) where implicated.
 
-Duty intensity is scaled by [Materiality Determination](../core_05_band_oversight.md#materiality-determination) and [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance). **Chapter Five** owns those meanings corpus-wide, and **CS-3** owns how classification uses them.
+Duty intensity is scaled by [Materiality](../core_05_band_oversight.md#materiality-determination) and [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance). **Chapter Five** owns those meanings corpus-wide, and **CS-3** owns how classification uses them.
 
 **Dual-axis rule:** **Impact classes** use **Class A–P** in this catalog. **Dependency types** use **Dep-A–P** in [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letter bands **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must state **both** the **impact class** ([§9 Class A: Survival-critical, foundational, and irreplaceable systems](#cs-3-9-class-a-survival-critical-foundational-and-irreplaceable-systems) through [§13 Class P: Personal, private-use, isolated, and experimental systems](#cs-3-13-class-p-personal-private-use-isolated-and-experimental-systems)) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p)).
 

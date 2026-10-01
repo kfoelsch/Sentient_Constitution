@@ -109,7 +109,7 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 
 *In plain terms: these questions ask whether sentients and the living systems they depend on can endure — ecologically, dependably, and across failure. This is the Chapter Five home for the Continuity measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
-*Materiality* ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category. It scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
+*Materiality* ([Materiality](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category. It scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
 | Subfamily | Plain question | Main constitutional use |
 |---|---|---|

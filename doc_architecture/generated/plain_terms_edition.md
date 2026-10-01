@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **631** of **895** headings carry a gloss (71%).
+Coverage: **633** of **897** headings carry a gloss (71%).
 
 ## Contents
 
@@ -24,9 +24,9 @@ Coverage: **631** of **895** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (72/84 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (73/85 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/84 glossed)
-- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (13/18 glossed)
+- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (14/19 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (27/37 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
@@ -1165,7 +1165,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 72/84 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 73/85 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1173,11 +1173,17 @@ Source file: [`core_05_band_accountability.md`](../../core_05_band_accountabilit
 
 [Source](../../core_05_band_accountability.md#accountability-independent-terms)
 
+##### Duty to Resist
+
+when someone with real authority or control is told to do something unlawful or unconstitutional, they refuse. "I was told to" is not a defense, and an offer by whoever gives the order to take the blame does not lift the duty. It binds human and AI stewards alike, and it does not reach an instruction that is merely disliked.
+
+[Source](../../core_05_band_accountability.md#accountability-independent-terms)
+
 ##### Feasibility
 
 whether something required — an action, alternative, safeguard, or exit path — can actually be done in the real system, not just on paper. Saying "we can't" needs real proof; convenience or cost alone is not enough.
 
-[Source](../../core_05_band_accountability.md#accountability-independent-terms)
+[Source](../../core_05_band_accountability.md#feasibility)
 
 ##### Good Faith
 
@@ -1735,7 +1741,7 @@ a **System Data Types Record** is the honest, inspectable file stating what kind
 
 [Source](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
 
-##### Safety (Constraint)
+##### Safety (Constitutional Constraint)
 
 systems must prevent, limit, and contain harm to sentients and the living conditions they depend on — including under stress or attack — not trade away hard protections just because the average case looks fine.
 
@@ -2169,7 +2175,7 @@ when automation or generative systems take work away from sentients at populatio
 
 ## Integrative Constitutional Definitions
 
-Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 13/18 headings glossed
+Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 14/19 headings glossed
 
 #### Integrative: Independent terms
 
@@ -2206,6 +2212,12 @@ the written, published rule an adopter uses to decide how governing power is gra
 reward real invention and useful creation — but do not let that reward harden into lasting lock-up of repair, reuse, research, or public-interest use.
 
 [Source](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
+
+##### No-Bypass
+
+a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, instrument, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.
+
+[Source](../../core_05_band_integrative.md#no-bypass)
 
 #### Integrative: Semi-independent terms
 
@@ -2331,9 +2343,9 @@ big enough to matter — not trivia, cosmetics, or paperwork that changes nothin
 
 [Source](../../core_05_band_oversight.md#material)
 
-##### Materiality Determination
+##### Materiality
 
-the method for deciding whether an impact or risk is constitutionally material — big enough in stake to change which duties apply — for a system or an event, looking at the connected whole, not just isolated pieces. That includes prospective harm, not only harm that has already happened.
+materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened.
 
 [Source](../../core_05_band_oversight.md#materiality-determination)
 
@@ -2475,13 +2487,13 @@ the methods and evidence behind an evaluation must stay honest and checkable —
 
 [Source](../../core_05_band_oversight.md#epistemic-integrity)
 
-###### Foreseeability Diligence and Reasonably Foreseeable
+###### Foreseeability and Reasonably Foreseeable
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable)
 
-###### Foreseeability Diligence
+###### Foreseeability
 
 do a reasonable analysis sized to the impact — dig deeper when stakes are high, cover the required boundaries (including interactions, dependency, and adversarial use), and if you claim something was unforeseeable, justify that claim. Assertion and checkboxes are not enough.
 
@@ -5109,7 +5121,7 @@ Source file: [`core_14_non_regression.md`](../../core_14_non_regression.md) · 5
 
 #### 1. Non-Regression Floor
 
-weakening **Safety (Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label.
+weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constraint)**, **Epistemic Integrity**, **Dignity and Equal Moral Standing**, **Meaningful Agency**, or other Chapter Six protections — including by tightening definitions, raising impossible proof bars, or carving emergencies so they eat the rule — counts as invalid even if the words "amendment" or "interpretation" are on the label.
 
 [Source](../../core_14_non_regression.md#1-non-regression-floor)
 

@@ -207,7 +207,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### Def.O2 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
-        "Foreseeability Diligence and Reasonably Foreseeable",
+        "Foreseeability and Reasonably Foreseeable",
         "Publication and High-Impact Communication",
     ],
     "#### Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [

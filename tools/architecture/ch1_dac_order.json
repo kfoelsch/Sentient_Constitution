@@ -6,7 +6,7 @@
     "Necessity"
   ],
   "#### 3.1 Safety (Harm Constraint)": [
-    "Safety (Constraint)",
+    "Safety (Constitutional Constraint)",
     "Harm",
     "Irreversible Harm",
     "Risk",
@@ -27,7 +27,7 @@
     "Materiality",
     "Dependency",
     "Accessibility",
-    "Safety (Constraint)",
+    "Safety (Constitutional Constraint)",
     "Truth (Constitutional Constraint)",
     "Necessity",
     "Proportionality",
@@ -162,6 +162,7 @@
     "Governance"
   ],
   "#### 8.1 Constitutional No-Bypass Principle": [
+    "No-Bypass",
     "Contestability",
     "Auditability",
     "Accountability"
@@ -196,7 +197,8 @@
     "Proportionality",
     "Contestability",
     "Auditability",
-    "Stewardship"
+    "Stewardship",
+    "Materially Binding Act"
   ],
   "#### 11.3 Ongoing Justification": [
     "Timeliness",
@@ -213,7 +215,7 @@
     "Constitutional Efficiency",
     "Avoidable Burden",
     "Proxy Divergence",
-    "Safety (Constraint)",
+    "Safety (Constitutional Constraint)",
     "Truth (Constitutional Constraint)",
     "Meaningful Agency",
     "Auditability",

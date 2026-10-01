@@ -127,7 +127,7 @@
       "primary_aim": "Flourishing",
       "ch00_measurement": ["3.2 Flourishing", "3.5 Oversight"]
     },
-    "Safety (Constraint)": {
+    "Safety (Constitutional Constraint)": {
       "aim_role": "constituent",
       "primary_aim": "Flourishing",
       "ch00_measurement": ["3.2 Flourishing"]
@@ -163,7 +163,7 @@
       "primary_aim": "cross-cutting",
       "ch00_measurement": ["3.2 Flourishing", "3.3 Continuity"]
     },
-    "Materiality Determination": {
+    "Materiality": {
       "aim_role": "measurement_family_member",
       "primary_aim": "cross-cutting",
       "tetrad_leg": "Integrative",
