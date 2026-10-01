@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-01T22:49:52+00:00",
+  "generated_at": "2026-10-01T22:57:14+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15696,
+  "edge_count": 15742,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -4544,258 +4544,370 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#the-model",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
       "target_file": "core_00_preamble.md",
-      "target_anchor": "#flourishing",
-      "count": 1
+      "target_anchor": "#continuity",
+      "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#10-process-conflict-resolution",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#13-stewardship-in-depth",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-aim-constitutional",
+      "count": 4
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-aim-constitutional-m",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_02_definition_structure.md",
-      "target_anchor": null,
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-aim-constitutional-a",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_apex_participation_leg.md",
-      "target_anchor": "#participation-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_apex_participation_leg.md",
-      "target_anchor": "#participation-constitutional-m",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-aim-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_apex_participation_leg.md",
-      "target_anchor": "#participation-constitutional-a",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#shared-system-capacity-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#shared-system-capacity-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#shared-system-capacity-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_apex_participation_leg.md",
-      "target_anchor": "#participation-constitutional-c",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#self-healing-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#self-healing-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#self-healing-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#intergenerational-responsibility-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#intergenerational-responsibility-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Continuity Aim: Introduction",
+      "source_anchor": "#continuity-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#intergenerational-responsibility-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#flourishing",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#10-process-conflict-resolution",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_apex_flourishing_aim.md",
+      "target_anchor": "#flourishing-constitutional",
+      "count": 4
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_apex_flourishing_aim.md",
+      "target_anchor": "#flourishing-constitutional-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_apex_flourishing_aim.md",
+      "target_anchor": "#flourishing-constitutional-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_apex_flourishing_aim.md",
+      "target_anchor": "#flourishing-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#materiality-determination",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#materiality-determination-a",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#materiality-determination-c",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#proxy-divergence",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#proxy-divergence-a",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#proxy-divergence-c",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#dignity-and-equal-moral-standing",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#dignity-and-equal-moral-standing-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#dignity-and-equal-moral-standing-c",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#substantive-fairness-constitutional-c",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-o",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-vi-equal-basic-rights",
-      "count": 1
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency-a",
+      "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_06_rights_part_b.md",
-      "target_anchor": "#article-x-self-determination-agency-and-participation",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
-      "source_anchor": "#two-constitutional-aims",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xix-b-contestability-and-proportional-restriction-limits",
+      "source_header": "Flourishing Aim: Introduction",
+      "source_anchor": "#flourishing-aim-introduction",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency-c",
       "count": 1
     },
     {
@@ -4988,6 +5100,262 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#the-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#flourishing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#10-process-conflict-resolution",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#13-stewardship-in-depth",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_02_definition_structure.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-constitutional-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-constitutional-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_apex_participation_leg.md",
+      "target_anchor": "#participation-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#wellbeing-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#proxy-divergence",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#proxy-divergence-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#proxy-divergence-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#dignity-and-equal-moral-standing",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#dignity-and-equal-moral-standing-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#dignity-and-equal-moral-standing-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vi-equal-basic-rights",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-x-self-determination-agency-and-participation",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-b-right-to-redress-and-remedy",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xix-b-contestability-and-proportional-restriction-limits",
       "count": 1
     },
     {

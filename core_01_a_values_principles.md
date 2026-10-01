@@ -9,7 +9,7 @@
 >
 > **Upstream:** [core_00_preamble.md](core_00_preamble.md)  
 > **Next:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Chapter One, Part B — §§10–12, interaction, override limits, and constitutional interpretation).  
-> **Reading arc:** §1 purpose and role → **Flourishing:** §2 wellbeing (the outcome) → §3 Safety and Truth → §4 Trust → §5 Freedom → **Continuity:** §6 shared-system capacity (the bridge: a means toward Flourishing and the substance of Continuity) → §7 resilience → §8 market structure → §9 systemic evaluation.
+> **Reading arc:** §1 purpose and role → **Flourishing:** introduction → §2 wellbeing (the outcome) → §3 Safety and Truth → §4 Trust → §5 Freedom → **Continuity:** introduction → §6 shared-system capacity (the bridge: a means toward Flourishing and the substance of Continuity) → §7 resilience → §8 market structure → §9 systemic evaluation.
 
 </details>
 
@@ -94,8 +94,8 @@
 Those aims must be pursued together, always within the non-negotiable principle constraints and rights protections established in this Constitution. The [**Constitutional Tetrad**](core_00_preamble.md#constitutional-tetrad) governs how that pursuit remains legitimate — scaled to [**material stake**](core_00_preamble.md#material-stake).
 
 The chapter is organized around those two aims and that Tetrad:
-- **Flourishing:** [§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing-flourishing-aim) states the outcome. [§3.1 Safety](#31-safety-harm-constraint), [§3.2 Truth](#32-truth-epistemic-integrity-constraint), [§4 Trust](#4-trust-and-trustworthiness-coordination-integrity), and [§5 Freedom](#5-freedom-bounded-agency) develop the four conditions that sustain it: safety, truth, trustworthiness, and meaningful agency.
-- **Continuity:** [§6 Shared-System Capacity](#6-shared-system-capacity) (a means toward Flourishing that is also the substance of Continuity), [§7 Resilience and Self-Healing Design](#7-resilience-and-self-healing-design), [§8 Market Structure](#8-market-structure), and [§9 Systemic Evaluation Requirement](#9-systemic-evaluation-requirement) develop long-horizon stability, durable shared-system capacity, and resilience.
+- **Flourishing:** [Flourishing Aim: Introduction](#flourishing-aim-introduction) maps the aim. [§2 Foundational Objective: Wellbeing](#2-foundational-objective-wellbeing-flourishing-aim) states the outcome. [§3.1 Safety](#31-safety-harm-constraint), [§3.2 Truth](#32-truth-epistemic-integrity-constraint), [§4 Trust](#4-trust-and-trustworthiness-coordination-integrity), and [§5 Freedom](#5-freedom-bounded-agency) develop the four conditions that sustain it: safety, truth, trustworthiness, and meaningful agency.
+- **Continuity:** [Continuity Aim: Introduction](#continuity-aim-introduction) maps the aim. [§6 Shared-System Capacity](#6-shared-system-capacity) (a means toward Flourishing that is also the substance of Continuity), [§7 Resilience and Self-Healing Design](#7-resilience-and-self-healing-design), [§8 Market Structure](#8-market-structure), and [§9 Systemic Evaluation Requirement](#9-systemic-evaluation-requirement) develop long-horizon stability, durable shared-system capacity, and resilience.
 - **When principles meet:** [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution), [§11 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#11-prohibition-on-absolute-override), and [§12 Constitutional Interpretation](core_01_b_interaction_interpretation.md#12-constitutional-interpretation) govern how the aims and principles are weighed and read together.
 - **The Tetrad in practice:** [§13 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#13-stewardship-in-depth) through [§16 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#16-incentive-alignment-and-system-capture) carry participation, oversight, accountability, and timeliness into stewardship, governance, and incentives, and [§17 Integrated Application](core_01_c_stewardship_capacity_principles.md#17-integrated-application) applies the whole chapter to every later chapter.
 
@@ -147,6 +147,78 @@ These values:
 - apply to all "systems," which include technical, organizational, economic, socio-technical structures, and ecosystems that materially affect sentients and the planet Earth.
 
 No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them under the proportionality, necessity, and systemic-impact requirements stated in this chapter. Where unresolved conflict directly implicates non-negotiable principle constraints, Chapter One **§10** Process Conflict Resolution controls precedence.
+
+<a id="flourishing-aim-introduction"></a>
+### Flourishing Aim: Introduction
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all four legs apply to how Flourishing is pursued; [material stake](core_00_preamble.md#material-stake) scales the depth of every Flourishing claim.
+- Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — the **Flourishing** aim; its partner aim is introduced in [Continuity Aim: Introduction](#continuity-aim-introduction).
+- Upstream: Principles: [Preamble §1 The Model](core_00_preamble.md#flourishing); [Flourishing (Constitutional Aim)](core_05_apex_flourishing_aim.md#flourishing-constitutional); [§1 Purpose and Role](#1-purpose-and-role).
+- Downstream: [§2 Foundational Objective: Wellbeing (Flourishing Aim)](#2-foundational-objective-wellbeing-flourishing-aim), [§3.1 Safety (Harm Constraint)](#31-safety-harm-constraint), [§3.2 Truth (Epistemic Integrity Constraint)](#32-truth-epistemic-integrity-constraint), [§4 Trust and Trustworthiness (Coordination Integrity)](#4-trust-and-trustworthiness-coordination-integrity), and [§5 Freedom (Bounded Agency)](#5-freedom-bounded-agency); the Articles that protect each are named in that section's Trace.
+- Read with: the Chapter Six Rights Floor generally.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Flourishing (Constitutional Aim)](core_05_apex_flourishing_aim.md#flourishing-constitutional) · [O](core_05_apex_flourishing_aim.md#flourishing-constitutional) · [M](core_05_apex_flourishing_aim.md#flourishing-constitutional-m) · [A](core_05_apex_flourishing_aim.md#flourishing-constitutional-a) · [C](core_05_apex_flourishing_aim.md#flourishing-constitutional-c)
+- [Wellbeing](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Trustworthiness](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+
+</details>
+
+<br>
+
+*In plain terms: Flourishing is the first of the two aims: sentients doing well, and staying able to do well, because the systems around them are safe, honest, trustworthy, and leave real room to choose. Section 2 says what that outcome is. The four principles after it say what keeps it real.*
+
+[**Flourishing**](core_05_apex_flourishing_aim.md#flourishing-constitutional) is **sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency** ([Preamble §1 The Model](core_00_preamble.md#flourishing)). Chapter One develops it in two moves: [§2 Foundational Objective: Wellbeing (Flourishing Aim)](#2-foundational-objective-wellbeing-flourishing-aim) states the outcome, and four principles state the conditions that sustain it.
+
+| Condition | Principle | The question it answers |
+|---|---|---|
+| **Safety** | [§3.1 Safety (Harm Constraint)](#31-safety-harm-constraint) | Are sentients protected from avoidable harm? |
+| **Truth** | [§3.2 Truth (Epistemic Integrity Constraint)](#32-truth-epistemic-integrity-constraint), with [§3.3 Science-Informed Inquiry and Decision Support](#33-science-informed-inquiry-and-decision-support) and [§3.4 Plain-Language Accessibility (Participation and Stewardship Duty)](#34-plain-language-accessibility-participation-and-stewardship-duty) | Can sentients rely on what they are told, and understand it? |
+| **Trustworthiness** | [§4 Trust and Trustworthiness (Coordination Integrity)](#4-trust-and-trustworthiness-coordination-integrity) | Do systems earn reliance, and repair it when they fail? |
+| **Meaningful agency** | [§5 Freedom (Bounded Agency)](#5-freedom-bounded-agency) | Do sentients keep real, bounded freedom to choose, dissent, organize, and leave? |
+
+**How the Flourishing principles work together:**
+- **Safety and Truth are non-negotiable constraints.** They are stated together in [§3 Non-Negotiable Principle Constraints: Safety and Truth](#3-non-negotiable-principle-constraints-safety-and-truth) and are not traded away to gain the other principles.
+- **Trust and Freedom are bounded, not absolute.** Trust is earned and correctable ([§4.1 Correction and Remedy](#41-correction-and-remedy)); Freedom has disciplined limits ([§5.1 Limitation Discipline](#51-limitation-discipline)).
+- **None is applied in isolation.** The principles are read together, and where they collide they are weighed under [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution).
+- **Flourishing has a partner.** The Continuity aim asks what keeps this outcome durable; it is introduced in [Continuity Aim: Introduction](#continuity-aim-introduction).
+
+**Diagram: Flourishing and its principles**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    F["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency<br/>• Always bounded by the Rights Floor"]
+    W["§2 Wellbeing (the outcome)<br/><br/>• §2.1 Fairness<br/>• §2.2 Recognition, Reinforcement, and Aspiration<br/>• §2.3 Anti-Degrading Process"]
+    subgraph Conditions["Four sustaining conditions"]
+        direction LR
+        S["§3.1 Safety<br/><br/>• Harm constraint"]
+        T["§3.2 Truth<br/><br/>• Epistemic integrity<br/>• §3.3 Science-Informed Inquiry<br/>and Decision Support<br/>• §3.4 Plain-Language Accessibility"]
+        R["§4 Trust<br/><br/>• Coordination integrity<br/>• §4.1 Correction and Remedy"]
+        G["§5 Freedom<br/><br/>• Bounded agency<br/>• §5.1 Limitation Discipline<br/>• §5.2 to §5.5 Exit, assembly,<br/>dissent, and worldview neutrality"]
+    end
+    F -->|"is stated as"| W
+    W -->|"is sustained by"| Conditions
+    style Conditions fill:none,stroke:none
+    style F fill:none,stroke:#16a34a,color:#ffffff
+    style W fill:none,stroke:#9333ea,color:#ffffff
+    style S fill:none,stroke:#64748b,color:#ffffff
+    style T fill:none,stroke:#ea580c,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style G fill:none,stroke:#0f766e,color:#ffffff
+```
+
+*Flourishing is stated as an outcome and sustained by four conditions. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions.*
 
 ### 2. Foundational Objective: Wellbeing (Flourishing Aim)
 <details>
@@ -1001,6 +1073,79 @@ This Constitution and the public governance it constrains are secular in the ins
 - A narrow exception exists only where unavoidable under **Chapter One** and **Chapter Five** (**Necessity** and **Proportionality**) and without invidious targeting.
 
 **Scope:** Institutional secularism governs public authority under **this Constitution**. It does not restrict private, associational, or civic expression of religion or non-religion. Apply it consistently with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article XI-F** (*Non-Imposition and Consent in Association*) where cooperative interaction applies. The individual freedom of conscience, religion, and comparable worldview is stated in **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
+
+<a id="continuity-aim-introduction"></a>
+### Continuity Aim: Introduction
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all four legs apply to how Continuity is pursued; [material stake](core_00_preamble.md#material-stake) scales the depth of every Continuity claim.
+- Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — the **Continuity** aim; its partner aim is introduced in [Flourishing Aim: Introduction](#flourishing-aim-introduction).
+- Upstream: Principles: [Preamble §1 The Model](core_00_preamble.md#continuity); [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional); [Flourishing Aim: Introduction](#flourishing-aim-introduction).
+- Downstream: [§6 Shared-System Capacity](#6-shared-system-capacity), [§7 Resilience and Self-Healing Design](#7-resilience-and-self-healing-design), [§8 Market Structure](#8-market-structure), and [§9 Systemic Evaluation Requirement](#9-systemic-evaluation-requirement); the Articles that protect each are named in that section's Trace.
+- Read with: the Chapter Six Rights Floor generally.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) · [O](core_05_apex_continuity_aim.md#continuity-aim-constitutional) · [M](core_05_apex_continuity_aim.md#continuity-aim-constitutional-m) · [A](core_05_apex_continuity_aim.md#continuity-aim-constitutional-a) · [C](core_05_apex_continuity_aim.md#continuity-aim-constitutional-c)
+- [Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Self-Healing](core_05_band_continuity.md#self-healing-constitutional) · [O](core_05_band_continuity.md#self-healing-constitutional) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
+- [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional) · [O](core_05_band_continuity.md#ecological-integrity-constitutional) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: Continuity is the second of the two aims: making sure the good outcome lasts — across failures, across generations, and without a few powerful actors locking it up. It opens with Shared-System Capacity, which serves Flourishing and is also the substance of Continuity.*
+
+[**Continuity**](core_05_apex_continuity_aim.md#continuity-aim-constitutional) is **long-horizon stability, sustainability, resilience, and ecological wellbeing** ([Preamble §1 The Model](core_00_preamble.md#continuity)). Chapter One develops it through four principles, and the first is the bridge from [Flourishing](#flourishing-aim-introduction).
+
+| Principle | The question it answers |
+|---|---|
+| [§6 Shared-System Capacity](#6-shared-system-capacity) | Do sentients and shared systems keep the lasting ability to get constitutionally required work done? |
+| [§7 Resilience and Self-Healing Design](#7-resilience-and-self-healing-design) | Do systems detect trouble early, contain it, and recover honestly? |
+| [§8 Market Structure](#8-market-structure) | Can sentients still challenge, compete, and leave, or has concentration hollowed capacity out? |
+| [§9 Systemic Evaluation Requirement](#9-systemic-evaluation-requirement) | Has the whole system, with its dependencies and incentives, been verified before a claim stands? |
+
+**How the Continuity principles work together:**
+- **Capacity straddles the two aims.** [§6 Shared-System Capacity](#6-shared-system-capacity) is a means toward Flourishing and the substance of Continuity, and it is not a trump card over safety, truth, rights, or ecology.
+- **Resilience and market structure protect capacity.** Resilience keeps it durable; market structure keeps it contestable.
+- **Systemic evaluation checks the whole.** [§9 Systemic Evaluation Requirement](#9-systemic-evaluation-requirement) verifies scope, dependency, and incentive alignment before compliance claims stand.
+- **Continuity must not quietly defeat Flourishing.** Where the two collide, they are weighed under [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution).
+
+**Diagram: Continuity and its principles**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    C["Continuity aim<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing<br/>• Always bounded by the Rights Floor"]
+    CAP["§6 Shared-System Capacity<br/><br/>• §6.1 Productive Capacity (Instrumental Good)<br/>• §6.2 Constitutional Efficiency<br/>• Straddles both aims"]
+    FL["Flourishing aim<br/><br/>• §2 to §5"]
+    subgraph Protect["What protects capacity"]
+        direction LR
+        RES["§7 Resilience and Self-Healing Design<br/><br/>• Detect, contain, fail safely, recover honestly"]
+        MKT["§8 Market Structure<br/><br/>• §8.1 Market Concentration Threshold Mechanism<br/>• §8.2 Pro-Competition and Anti-Domination<br/>• §8.3 Consolidation Ceiling"]
+    end
+    EV["§9 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment"]
+    C -->|"opens with"| CAP
+    CAP -.->|"is a means toward"| FL
+    CAP -->|"is protected by"| Protect
+    Protect -->|"is verified as a whole by"| EV
+    style Protect fill:none,stroke:none
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style CAP fill:none,stroke:#9333ea,color:#ffffff
+    style FL fill:none,stroke:#16a34a,color:#ffffff
+    style RES fill:none,stroke:#64748b,color:#ffffff
+    style MKT fill:none,stroke:#0f766e,color:#ffffff
+    style EV fill:none,stroke:#ea580c,color:#ffffff
+```
+
+*Continuity opens with the capacity that bridges to Flourishing, protects it through resilience and contestable markets, and verifies it as a whole. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions.*
 
 <a id="6-shared-system-capacity"></a>
 ### 6. Shared-System Capacity

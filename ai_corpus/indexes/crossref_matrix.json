@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-01T22:49:51+00:00",
+  "generated_at": "2026-10-01T22:57:13+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -736,7 +736,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 109,
+            "count": 119,
             "anchors": [
               "#2-measurements-overview",
               "#constitutional-tetrad",
@@ -749,7 +749,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 53,
+            "count": 55,
             "anchors": [
               "#10-process-conflict-resolution",
               "#101-core-tradeoff-principles",
@@ -807,16 +807,22 @@
           },
           {
             "file": "core_05_apex_continuity_aim.md",
-            "count": 1,
+            "count": 8,
             "anchors": [
-              "#continuity-aim-constitutional"
+              "#continuity-aim-constitutional",
+              "#continuity-aim-constitutional-a",
+              "#continuity-aim-constitutional-c",
+              "#continuity-aim-constitutional-m"
             ]
           },
           {
             "file": "core_05_apex_flourishing_aim.md",
-            "count": 1,
+            "count": 8,
             "anchors": [
-              "#flourishing-constitutional"
+              "#flourishing-constitutional",
+              "#flourishing-constitutional-a",
+              "#flourishing-constitutional-c",
+              "#flourishing-constitutional-m"
             ]
           },
           {
@@ -898,7 +904,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 292,
+            "count": 327,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -975,7 +981,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 142,
+            "count": 147,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1008,7 +1014,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 245,
+            "count": 250,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",

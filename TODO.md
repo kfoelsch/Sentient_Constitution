@@ -188,3 +188,4 @@ Keep this active file limited to editor checks, current open work, and short arc
 - Baseline failures unchanged: corpus-markdown-audit, ch5-cluster-order-audit, lexical-vocabulary-audit.
 
 - 2026-10-01 (later): Chapter One §6 and §7 swapped (tools/ch1_swap_6_7.py): §6 Shared-System Capacity (straddles both aims), §7 Resilience and Self-Healing Design. Translations still use the old numbering.
+- 2026-10-01 (later): Added unnumbered Part A openers "Flourishing Aim: Introduction" (after §1) and "Continuity Aim: Introduction" (before §6), each with a Mermaid chart. Chart sync (VIS-CHART-SYNC-03): update both when §2–§9 headings change. Translations not updated.

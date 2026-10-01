@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-01T22:49:50+00:00",
+  "generated_at": "2026-10-01T22:57:12+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -120,370 +120,384 @@
       ]
     },
     "core_01_a_values_principles.md": {
-      "total_lines": 1727,
+      "total_lines": 1872,
       "sections": [
         {
           "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 1,
           "line_start": 1,
-          "line_end": 1727,
+          "line_end": 1872,
           "anchor": null
         },
         {
           "header": "1. Purpose and Role",
           "level": 3,
           "line_start": 64,
-          "line_end": 150,
+          "line_end": 151,
           "anchor": null
+        },
+        {
+          "header": "Flourishing Aim: Introduction",
+          "level": 3,
+          "line_start": 152,
+          "line_end": 222,
+          "anchor": "#flourishing-aim-introduction"
         },
         {
           "header": "2. Foundational Objective: Wellbeing (Flourishing Aim)",
           "level": 3,
-          "line_start": 151,
-          "line_end": 430,
-          "anchor": "#two-constitutional-aims"
+          "line_start": 223,
+          "line_end": 502,
+          "anchor": null
         },
         {
           "header": "2.1 Fairness",
           "level": 4,
-          "line_start": 195,
-          "line_end": 279,
+          "line_start": 267,
+          "line_end": 351,
           "anchor": null
         },
         {
           "header": "2.1.1 Access and Opportunity",
           "level": 5,
-          "line_start": 239,
-          "line_end": 247,
+          "line_start": 311,
+          "line_end": 319,
           "anchor": "#211-access-and-opportunity"
         },
         {
           "header": "2.1.2 Benefits and Burdens",
           "level": 5,
-          "line_start": 248,
-          "line_end": 255,
+          "line_start": 320,
+          "line_end": 327,
           "anchor": "#212-benefits-and-burdens"
         },
         {
           "header": "2.1.3 Fair Treatment",
           "level": 5,
-          "line_start": 256,
-          "line_end": 268,
+          "line_start": 328,
+          "line_end": 340,
           "anchor": "#213-fair-treatment"
         },
         {
           "header": "2.1.4 Unfair Treatment",
           "level": 5,
-          "line_start": 269,
-          "line_end": 279,
+          "line_start": 341,
+          "line_end": 351,
           "anchor": "#214-unfair-treatment"
         },
         {
           "header": "2.2 Recognition, Reinforcement, and Aspiration",
           "level": 4,
-          "line_start": 280,
-          "line_end": 370,
+          "line_start": 352,
+          "line_end": 442,
           "anchor": null
         },
         {
           "header": "2.2.1 Recognition and Reinforcement",
           "level": 5,
-          "line_start": 313,
-          "line_end": 319,
+          "line_start": 385,
+          "line_end": 391,
           "anchor": "#221-recognition-and-reinforcement"
         },
         {
           "header": "2.2.2 Celebration of Success",
           "level": 5,
-          "line_start": 320,
-          "line_end": 329,
+          "line_start": 392,
+          "line_end": 401,
           "anchor": "#222-celebration-of-success"
         },
         {
           "header": "2.2.3 Aspiration",
           "level": 5,
-          "line_start": 330,
-          "line_end": 338,
+          "line_start": 402,
+          "line_end": 410,
           "anchor": "#223-aspiration"
         },
         {
           "header": "2.2.4 Preference-Aligned Recognition",
           "level": 5,
-          "line_start": 339,
-          "line_end": 349,
+          "line_start": 411,
+          "line_end": 421,
           "anchor": "#224-preference-aligned-recognition"
         },
         {
           "header": "2.2.5 Aligned Recognition Pathways",
           "level": 5,
-          "line_start": 350,
-          "line_end": 356,
+          "line_start": 422,
+          "line_end": 428,
           "anchor": "#225-aligned-recognition-pathways"
         },
         {
           "header": "2.2.6 Anti-Reward for Anti-Constitutional Conduct",
           "level": 5,
-          "line_start": 357,
-          "line_end": 365,
+          "line_start": 429,
+          "line_end": 437,
           "anchor": "#226-anti-reward-for-anti-constitutional-conduct"
         },
         {
           "header": "2.2.7 Implementation Layer",
           "level": 5,
-          "line_start": 366,
-          "line_end": 370,
+          "line_start": 438,
+          "line_end": 442,
           "anchor": "#227-implementation-layer"
         },
         {
           "header": "2.3 Anti-Degrading Process",
           "level": 4,
-          "line_start": 371,
-          "line_end": 430,
+          "line_start": 443,
+          "line_end": 502,
           "anchor": "#23-anti-degrading-process"
         },
         {
           "header": "3. Non-Negotiable Principle Constraints: Safety and Truth",
           "level": 3,
-          "line_start": 431,
-          "line_end": 653,
+          "line_start": 503,
+          "line_end": 725,
           "anchor": "#3-non-negotiable-principle-constraints-safety-and-truth"
         },
         {
           "header": "3.1 Safety (Harm Constraint)",
           "level": 4,
-          "line_start": 462,
-          "line_end": 496,
+          "line_start": 534,
+          "line_end": 568,
           "anchor": null
         },
         {
           "header": "3.2 Truth (Epistemic Integrity Constraint)",
           "level": 4,
-          "line_start": 497,
-          "line_end": 529,
+          "line_start": 569,
+          "line_end": 601,
           "anchor": null
         },
         {
           "header": "3.3 Science-Informed Inquiry and Decision Support",
           "level": 4,
-          "line_start": 530,
-          "line_end": 577,
+          "line_start": 602,
+          "line_end": 649,
           "anchor": null
         },
         {
           "header": "3.4 Plain-Language Accessibility (Participation and Stewardship Duty)",
           "level": 4,
-          "line_start": 578,
-          "line_end": 653,
+          "line_start": 650,
+          "line_end": 725,
           "anchor": "#34-plain-language-accessibility-participation-and-stewardship-duty"
         },
         {
           "header": "3.4.1 Scope",
           "level": 5,
-          "line_start": 610,
-          "line_end": 622,
+          "line_start": 682,
+          "line_end": 694,
           "anchor": "#341-scope"
         },
         {
           "header": "3.4.2 The Duty",
           "level": 5,
-          "line_start": 623,
-          "line_end": 632,
+          "line_start": 695,
+          "line_end": 704,
           "anchor": "#342-the-duty"
         },
         {
           "header": "3.4.3 Definitional Rigor Preserved",
           "level": 5,
-          "line_start": 633,
-          "line_end": 642,
+          "line_start": 705,
+          "line_end": 714,
           "anchor": "#343-definitional-rigor-preserved"
         },
         {
           "header": "3.4.4 Jargon-as-Defeat Discipline",
           "level": 5,
-          "line_start": 643,
-          "line_end": 649,
+          "line_start": 715,
+          "line_end": 721,
           "anchor": "#344-jargon-as-defeat-discipline"
         },
         {
           "header": "3.4.5 Rights-Floor Boundary",
           "level": 5,
-          "line_start": 650,
-          "line_end": 653,
+          "line_start": 722,
+          "line_end": 725,
           "anchor": "#345-rights-floor-boundary"
         },
         {
           "header": "4. Trust and Trustworthiness (Coordination Integrity)",
           "level": 3,
-          "line_start": 654,
-          "line_end": 738,
+          "line_start": 726,
+          "line_end": 810,
           "anchor": null
         },
         {
           "header": "4.1 Correction and Remedy",
           "level": 4,
-          "line_start": 700,
-          "line_end": 738,
+          "line_start": 772,
+          "line_end": 810,
           "anchor": null
         },
         {
           "header": "5. Freedom (Bounded Agency)",
           "level": 3,
-          "line_start": 739,
-          "line_end": 1005,
+          "line_start": 811,
+          "line_end": 1077,
           "anchor": "#5-freedom-bounded-agency"
         },
         {
           "header": "5.1 Limitation Discipline",
           "level": 4,
-          "line_start": 794,
-          "line_end": 826,
+          "line_start": 866,
+          "line_end": 898,
           "anchor": "#51-limitation-discipline"
         },
         {
           "header": "5.2 Voluntary Discontinuation and Exit Rights",
           "level": 4,
-          "line_start": 827,
-          "line_end": 870,
+          "line_start": 899,
+          "line_end": 942,
           "anchor": null
         },
         {
           "header": "5.3 Assembly, Collective Organization, and Institutional Formation",
           "level": 4,
-          "line_start": 871,
-          "line_end": 936,
+          "line_start": 943,
+          "line_end": 1008,
           "anchor": "#52-voluntary-discontinuation-and-exit-rights"
         },
         {
           "header": "5.3.1 Aligned Self-Organization",
           "level": 5,
-          "line_start": 915,
-          "line_end": 936,
+          "line_start": 987,
+          "line_end": 1008,
           "anchor": "#53-assembly-collective-organization-and-institutional-formation"
         },
         {
           "header": "5.4 Dissent and Peaceful Protest",
           "level": 4,
-          "line_start": 937,
-          "line_end": 973,
+          "line_start": 1009,
+          "line_end": 1045,
           "anchor": null
         },
         {
           "header": "5.5 Institutional Secularism and Worldview Neutrality",
           "level": 4,
-          "line_start": 974,
-          "line_end": 1005,
+          "line_start": 1046,
+          "line_end": 1077,
           "anchor": "#54-dissent-and-peaceful-protest"
+        },
+        {
+          "header": "Continuity Aim: Introduction",
+          "level": 3,
+          "line_start": 1078,
+          "line_end": 1150,
+          "anchor": "#continuity-aim-introduction"
         },
         {
           "header": "6. Shared-System Capacity",
           "level": 3,
-          "line_start": 1006,
-          "line_end": 1194,
+          "line_start": 1151,
+          "line_end": 1339,
           "anchor": "#6-shared-system-capacity"
         },
         {
           "header": "6.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 1072,
-          "line_end": 1151,
+          "line_start": 1217,
+          "line_end": 1296,
           "anchor": "#61-productive-capacity-instrumental-good"
         },
         {
           "header": "6.1.1 Preserve, Expand, and What Does Not Count",
           "level": 5,
-          "line_start": 1108,
-          "line_end": 1151,
+          "line_start": 1253,
+          "line_end": 1296,
           "anchor": "#611-preserve-expand-and-what-does-not-count"
         },
         {
           "header": "6.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 1152,
-          "line_end": 1194,
+          "line_start": 1297,
+          "line_end": 1339,
           "anchor": "#62-constitutional-efficiency"
         },
         {
           "header": "7. Resilience and Self-Healing Design",
           "level": 3,
-          "line_start": 1195,
-          "line_end": 1236,
+          "line_start": 1340,
+          "line_end": 1381,
           "anchor": null
         },
         {
           "header": "8. Market Structure",
           "level": 3,
-          "line_start": 1237,
-          "line_end": 1665,
+          "line_start": 1382,
+          "line_end": 1810,
           "anchor": "#8-market-structure"
         },
         {
           "header": "8.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 1284,
-          "line_end": 1375,
+          "line_start": 1429,
+          "line_end": 1520,
           "anchor": "#81-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "header": "8.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1349,
-          "line_end": 1375,
+          "line_start": 1494,
+          "line_end": 1520,
           "anchor": "#811-concentration-threshold-triggers-adopter-tunable"
         },
         {
           "header": "8.2 Pro-Competition and Anti-Domination",
           "level": 4,
-          "line_start": 1376,
-          "line_end": 1519,
+          "line_start": 1521,
+          "line_end": 1664,
           "anchor": "#82-pro-competition-and-anti-domination"
         },
         {
           "header": "8.2.1 Pro-Competition Duties (Dos)",
           "level": 5,
-          "line_start": 1412,
-          "line_end": 1447,
+          "line_start": 1557,
+          "line_end": 1592,
           "anchor": "#821-pro-competition-duties-dos"
         },
         {
           "header": "8.2.2 Anti-Domination Prohibitions (Don'ts)",
           "level": 5,
-          "line_start": 1448,
-          "line_end": 1491,
+          "line_start": 1593,
+          "line_end": 1636,
           "anchor": "#822-anti-domination-prohibitions-donts"
         },
         {
           "header": "8.2.3 Remedies",
           "level": 5,
-          "line_start": 1492,
-          "line_end": 1519,
+          "line_start": 1637,
+          "line_end": 1664,
           "anchor": "#823-remedies"
         },
         {
           "header": "8.3 Consolidation Ceiling",
           "level": 4,
-          "line_start": 1520,
-          "line_end": 1665,
+          "line_start": 1665,
+          "line_end": 1810,
           "anchor": "#83-consolidation-ceiling"
         },
         {
           "header": "8.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "level": 5,
-          "line_start": 1579,
-          "line_end": 1627,
+          "line_start": 1724,
+          "line_end": 1772,
           "anchor": "#831-consolidation-risk-pre-lock-in-impairment"
         },
         {
           "header": "8.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1628,
-          "line_end": 1665,
+          "line_start": 1773,
+          "line_end": 1810,
           "anchor": "#832-consolidation-ceiling-mechanism-adopter-tunable"
         },
         {
           "header": "9. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 1666,
-          "line_end": 1727,
+          "line_start": 1811,
+          "line_end": 1872,
           "anchor": "#9-systemic-evaluation-requirement"
         }
       ]
