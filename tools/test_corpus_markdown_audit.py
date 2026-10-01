@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for MD-LIST-INTRO-01 and MD-HTML-BLOCK-BLANK-01."""
+"""Tests for MD-LIST-INTRO-01, MD-HTML-BLOCK-BLANK-01, and MD-GLOSS-CLOSE-01."""
 
 from __future__ import annotations
 
@@ -12,6 +12,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from corpus_markdown_audit import (
+    check_gloss_italic_closed,
     check_html_block_following_blank,
     check_list_intro_colon,
 )
@@ -180,6 +181,50 @@ class HtmlBlockFollowingBlankTests(unittest.TestCase):
     def test_inline_br_in_prose_passes(self) -> None:
         lines = ["Line one<br>", "Line two"]
         self.assertEqual(check_html_block_following_blank(lines, "core_example.md"), [])
+
+
+class GlossItalicClosedTests(unittest.TestCase):
+    def test_unclosed_gloss_with_nested_title_fails(self) -> None:
+        lines = [
+            "*In plain terms: **Article XXVII** (*Transition Governance*) is the moving-day floor.",
+            "",
+        ]
+        findings = check_gloss_italic_closed(lines, "core_example.md")
+        self.assertEqual(len(findings), 1)
+        self.assertIn("core_example.md:1", findings[0])
+        self.assertIn("MD-GLOSS-CLOSE-01", findings[0])
+
+    def test_unclosed_gloss_ending_in_link_fails(self) -> None:
+        lines = ["*In plain terms: see [Section 5.1](#51-x)."]
+        self.assertEqual(len(check_gloss_italic_closed(lines, "f.md")), 1)
+
+    def test_closed_gloss_passes(self) -> None:
+        lines = ["*In plain terms: **Article I** (*Survival*) is the floor.*"]
+        self.assertEqual(check_gloss_italic_closed(lines, "f.md"), [])
+
+    def test_trailing_bold_does_not_close_italic(self) -> None:
+        self.assertEqual(len(check_gloss_italic_closed(["*In plain terms: a **b**"], "f.md")), 1)
+
+    def test_bold_then_italic_closer_passes(self) -> None:
+        self.assertEqual(check_gloss_italic_closed(["*In plain terms: a **b***"], "f.md"), [])
+
+    def test_multiline_gloss_checks_last_line(self) -> None:
+        lines = ["*In plain terms: first line", "second line.*", "", "next"]
+        self.assertEqual(check_gloss_italic_closed(lines, "f.md"), [])
+        lines = ["*In plain terms: first line", "second line.", "", "next"]
+        self.assertEqual(len(check_gloss_italic_closed(lines, "f.md")), 1)
+
+    def test_paragraph_stops_at_block_start(self) -> None:
+        lines = ["*In plain terms: ok.*", "- a bullet", "<details>"]
+        self.assertEqual(check_gloss_italic_closed(lines, "f.md"), [])
+
+    def test_bold_and_other_italic_openers_are_out_of_scope(self) -> None:
+        lines = ["**In plain terms: bold lead-in**", "*Plain-language version of Article XX", "*Note:* text"]
+        self.assertEqual(check_gloss_italic_closed(lines, "f.md"), [])
+
+    def test_fenced_example_is_skipped(self) -> None:
+        lines = ["```", "*In plain terms: unclosed", "```"]
+        self.assertEqual(check_gloss_italic_closed(lines, "f.md"), [])
 
 
 if __name__ == "__main__":

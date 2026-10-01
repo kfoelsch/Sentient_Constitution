@@ -31,6 +31,11 @@ from corpus_paths import binding_corpus_scope
 
 RULE_LIST_INTRO = "MD-LIST-INTRO-01"
 RULE_HTML_BLOCK_BLANK = "MD-HTML-BLOCK-BLANK-01"
+RULE_GLOSS_CLOSE = "MD-GLOSS-CLOSE-01"
+# Opening of an italic "In plain terms" gloss: one ``*`` (not ``**`` bold).
+GLOSS_OPEN_RE = re.compile(r"^\*(?!\*)\s*In plain terms\b", re.IGNORECASE)
+# Lines that end a paragraph even without a blank line (block-level starts).
+GLOSS_PARA_BREAK_RE = re.compile(r"^(?:[-*+] |\d+\. |#{1,6}\s|>|<|\||```|~~~)")
 # Standalone HTML lines that open a CommonMark HTML block. The block runs until
 # the next blank line, so Markdown directly beneath (e.g. a heading) is
 # swallowed and rendered as literal text.
@@ -452,6 +457,49 @@ def check_html_block_following_blank(lines: list[str], path_label: str) -> list[
     return errors
 
 
+def italic_span_closed(last_line: str) -> bool:
+    """True when the paragraph's last line ends with a single closing ``*``.
+
+    A trailing ``**`` is a bold closer and does not close the italic; ``***``
+    (bold closer plus italic closer) does.
+    """
+    t = last_line.rstrip()
+    return t.endswith("*") and (not t.endswith("**") or t.endswith("***"))
+
+
+def check_gloss_italic_closed(lines: list[str], path_label: str) -> list[str]:
+    """MD-GLOSS-CLOSE-01: ``*In plain terms: ...`` paragraphs must close with ``*``."""
+    errors: list[str] = []
+    in_fence = False
+    i, n = 0, len(lines)
+    while i < n:
+        s = lines[i].strip()
+        if s.startswith("```") or s.startswith("~~~"):
+            in_fence = not in_fence
+            i += 1
+            continue
+        if in_fence or not GLOSS_OPEN_RE.match(s):
+            i += 1
+            continue
+        j = i
+        while (
+            j + 1 < n
+            and lines[j + 1].strip()
+            and not GLOSS_PARA_BREAK_RE.match(lines[j + 1].strip())
+        ):
+            j += 1
+        if not italic_span_closed(lines[j]):
+            tail = lines[j].strip()
+            tail = tail if len(tail) <= 80 else "..." + tail[-77:]
+            errors.append(
+                f"{path_label}:{i + 1}: italic gloss opens with '*In plain terms' but the "
+                f"paragraph does not end with a closing '*' (renders a literal asterisk "
+                f"and drops the italics) ({RULE_GLOSS_CLOSE}); paragraph ends: {tail!r}"
+            )
+        i = j + 1
+    return errors
+
+
 def resolve_thematic_paths(root: pathlib.Path, arg: str | None) -> list[pathlib.Path]:
     if arg is None:
         names = [
@@ -520,6 +568,11 @@ def main() -> int:
         rel = hb_path.relative_to(root).as_posix()
         findings.extend(
             check_html_block_following_blank(
+                hb_path.read_text(encoding="utf-8").splitlines(), rel
+            )
+        )
+        findings.extend(
+            check_gloss_italic_closed(
                 hb_path.read_text(encoding="utf-8").splitlines(), rel
             )
         )
