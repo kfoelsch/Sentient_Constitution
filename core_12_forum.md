@@ -892,7 +892,7 @@ This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Flo
   - treating allegations as verified standing inputs to buy time ([Chapter Nine §3.1 Verified-input gate](core_09_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
   - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;
-  - efficiency claims contrary to Chapter One [§7.2 Constitutional Efficiency](core_01_a_values_principles.md#72-constitutional-efficiency) that:
+  - efficiency claims contrary to Chapter One [§6.2 Constitutional Efficiency](core_01_a_values_principles.md#62-constitutional-efficiency) that:
     - skip fact-checking;
     - punish the wrong party;
     - offer a fix that does not fit the harm; or

@@ -491,146 +491,146 @@
         {
           "file": "core_01_a_values_principles.md",
           "level": 3,
-          "title": "6. Resilience and Self-Healing Design",
-          "anchor": "6-resilience-and-self-healing-design",
-          "line": 1005,
-          "gloss": "systems should detect trouble early, contain it, fail along disclosed paths, and recover honestly. \"Self-healing\" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is a defect.",
-          "gloss_line": 1031
-        },
-        {
-          "file": "core_01_a_values_principles.md",
-          "level": 3,
-          "title": "7. Shared-System Capacity",
-          "anchor": "7-shared-system-capacity",
-          "line": 1046,
-          "gloss": "when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§7.1 Productive Capacity (Instrumental Good)](#71-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§7.1.1 Preserve, Expand, and What Does Not Count](#711-preserve-expand-and-what-does-not-count)**. **[§7.2 Constitutional Efficiency](#72-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§8 Market Structure](#8-market-structure)** stops a handful of players from hollowing that out. None of it counts if the \"progress\" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.",
-          "gloss_line": 1083
+          "title": "6. Shared-System Capacity",
+          "anchor": "6-shared-system-capacity",
+          "line": 1006,
+          "gloss": "when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§6.1 Productive Capacity (Instrumental Good)](#61-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§6.1.1 Preserve, Expand, and What Does Not Count](#611-preserve-expand-and-what-does-not-count)**. **[§6.2 Constitutional Efficiency](#62-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§8 Market Structure](#8-market-structure)** stops a handful of players from hollowing that out. None of it counts if the \"progress\" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.",
+          "gloss_line": 1043
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
-          "title": "7.1 Productive Capacity (Instrumental Good)",
-          "anchor": "71-productive-capacity-instrumental-good",
-          "line": 1112,
-          "gloss": "productive capacity is the \"can we actually get things done?\" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§7.1.1 Preserve, Expand, and What Does Not Count](#711-preserve-expand-and-what-does-not-count).",
-          "gloss_line": 1139
+          "title": "6.1 Productive Capacity (Instrumental Good)",
+          "anchor": "61-productive-capacity-instrumental-good",
+          "line": 1072,
+          "gloss": "productive capacity is the \"can we actually get things done?\" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§6.1.1 Preserve, Expand, and What Does Not Count](#611-preserve-expand-and-what-does-not-count).",
+          "gloss_line": 1099
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
-          "title": "7.1.1 Preserve, Expand, and What Does Not Count",
-          "anchor": "711-preserve-expand-and-what-does-not-count",
-          "line": 1148,
+          "title": "6.1.1 Preserve, Expand, and What Does Not Count",
+          "anchor": "611-preserve-expand-and-what-does-not-count",
+          "line": 1108,
           "gloss": "keep the ability to get things done, and grow it when that would waste less of everyone's time — but not by hoarding, faking the numbers, stripping rights, or dumping harm on others or the planet. Metrics that no longer prove real outcomes do not count.",
-          "gloss_line": 1160
+          "gloss_line": 1120
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
-          "title": "7.2 Constitutional Efficiency",
-          "anchor": "72-constitutional-efficiency",
-          "line": 1192,
+          "title": "6.2 Constitutional Efficiency",
+          "anchor": "62-constitutional-efficiency",
+          "line": 1152,
           "gloss": "constitutional efficiency is the \"are we getting our money's worth in human terms?\" aspect of shared-system capacity. More real benefit for each hour of sentient time, attention, and shared effort — not cutting corners on rights, truth, safety, or ecology just to look fast, lean, or cheap.",
-          "gloss_line": 1205
+          "gloss_line": 1165
+        },
+        {
+          "file": "core_01_a_values_principles.md",
+          "level": 3,
+          "title": "7. Resilience and Self-Healing Design",
+          "anchor": "7-resilience-and-self-healing-design",
+          "line": 1195,
+          "gloss": "systems should detect trouble early, contain it, fail along disclosed paths, and recover honestly. \"Self-healing\" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is a defect.",
+          "gloss_line": 1222
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 3,
           "title": "8. Market Structure",
           "anchor": "8-market-structure",
-          "line": 1236,
+          "line": 1237,
           "gloss": "sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§14.1–§14.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.",
-          "gloss_line": 1264
+          "gloss_line": 1265
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
           "title": "8.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
           "anchor": "81-market-concentration-threshold-mechanism-adopter-tunable",
-          "line": 1283,
+          "line": 1284,
           "gloss": "this section draws the floor against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Eleven judges that — and only after Chapter Nine has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§8.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#811-concentration-threshold-triggers-adopter-tunable).",
-          "gloss_line": 1306
+          "gloss_line": 1307
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
           "title": "8.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
           "anchor": "811-concentration-threshold-triggers-adopter-tunable",
-          "line": 1348,
+          "line": 1349,
           "gloss": "adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the floor still holds. The detailed threshold-setting rules live in CJS-3.11.1 (market concentration threshold-setting discipline).",
-          "gloss_line": 1360
+          "gloss_line": 1361
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
           "title": "8.2 Pro-Competition and Anti-Domination",
           "anchor": "82-pro-competition-and-anti-domination",
-          "line": 1375,
+          "line": 1376,
           "gloss": "the Constitution does not punish a system merely for being large, useful, or temporarily ahead because it genuinely innovated. It does prohibit durable domination: control over markets, labor, platforms, infrastructure, data, compute, credentials, or resources that lets an actor lock others in, block rivals, suppress fair bargaining, or capture constitutional accountability.",
-          "gloss_line": 1402
+          "gloss_line": 1403
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
           "title": "8.2.1 Pro-Competition Duties (Dos)",
           "anchor": "821-pro-competition-duties-dos",
-          "line": 1411,
+          "line": 1412,
           "gloss": "(dos): markets and dependencies must stay open enough that sentients can enter, switch, bargain fairly, and leave — getting big or inventing something new is fine when contestability remains real.",
-          "gloss_line": 1413
+          "gloss_line": 1414
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
           "title": "8.2.2 Anti-Domination Prohibitions (Don'ts)",
           "anchor": "822-anti-domination-prohibitions-donts",
-          "line": 1447,
+          "line": 1448,
           "gloss": "(don'ts): no locking sentients in, blocking rivals, suppressing fair bargaining, or capturing constitutional accountability.",
-          "gloss_line": 1449
+          "gloss_line": 1450
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
           "title": "8.2.3 Remedies",
           "anchor": "823-remedies",
-          "line": 1491,
+          "line": 1492,
           "gloss": "when domination is substantiated, the response must fit the harm, restore real choice, and not punish size for its own sake.",
-          "gloss_line": 1493
+          "gloss_line": 1494
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 4,
           "title": "8.3 Consolidation Ceiling",
           "anchor": "83-consolidation-ceiling",
-          "line": 1519,
+          "line": 1520,
           "gloss": "consolidation can steal real choice long before a market looks locked down. **Consolidation ceilings** give governance and stewards an early-warning power — to scrutinize, intervene, and correct pile-ups while exit and rivalry still exist.",
-          "gloss_line": 1544
+          "gloss_line": 1545
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
           "title": "8.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "anchor": "831-consolidation-risk-pre-lock-in-impairment",
-          "line": 1578,
+          "line": 1579,
           "gloss": "consolidation can hollow out real alternatives long before a market looks \"locked down.\" Two kinds of pile-up matter especially: **horizontal consolidation** — fewer rivals at the same layer — and **vertical consolidation** — control across layers that creates chokepoints and lock-in.",
-          "gloss_line": 1580
+          "gloss_line": 1581
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 5,
           "title": "8.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
           "anchor": "832-consolidation-ceiling-mechanism-adopter-tunable",
-          "line": 1627,
+          "line": 1628,
           "gloss": "adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§14.3.1** (*Consolidation Risk, Pre-Lock-In Impairment*) materialize into lock-in — with separate horizontal and vertical triggers where the domain requires it.",
-          "gloss_line": 1639
+          "gloss_line": 1640
         },
         {
           "file": "core_01_a_values_principles.md",
           "level": 3,
           "title": "9. Systemic Evaluation Requirement",
           "anchor": "9-systemic-evaluation-requirement",
-          "line": 1665,
+          "line": 1666,
           "gloss": "this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI**, [Auditability](core_05_band_oversight.md#auditability)).",
-          "gloss_line": 1696
+          "gloss_line": 1697
         }
       ]
     },

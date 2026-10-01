@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-01T22:32:21+00:00",
+  "generated_at": "2026-10-01T22:49:26+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -2616,1064 +2616,840 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#two-constitutional-aims",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#the-model",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#103-minimization-of-avoidable-burden",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#11-prohibition-on-absolute-override",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#13-stewardship-in-depth",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#15-governance-under-stewardship-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#self-healing-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#self-healing-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#self-healing-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#cascading-failure",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#cascading-failure-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#cascading-failure-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#reversibility-constitutional",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#reversibility-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#reversibility-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#avoidable-burden",
-      "count": 3
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#avoidable-burden-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#avoidable-burden-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#incentive-alignment",
-      "count": 6
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xiii-right-to-reliable-and-trustworthy-systems",
-      "count": 2
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xvi-audit-transparency-and-independent-verification",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xvii-system-lifecycle-environments-and-reversibility",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxiii-root-cause-analysis-and-adaptive-response",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "6. Resilience and Self-Healing Design",
-      "source_anchor": "#55-institutional-secularism-and-worldview-neutrality",
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#3-whole-system-certification-evaluation",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#the-model",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#103-minimization-of-avoidable-burden",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#15-governance-under-stewardship-discipline",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#1613-stewardship-and-operator-application",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#feasibility",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#feasibility-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#feasibility-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#governance",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#environmental-preconditions-constitutional",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#environmental-preconditions-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#environmental-preconditions-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#stewardship-constitutional",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#proxy-divergence",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#proxy-divergence-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#proxy-divergence-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-i-a-environmental-preconditions-and-ecological-integrity",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-iii-survival-and-essential-access",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-x-self-determination-agency-and-participation",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xvii-system-lifecycle-environments-and-reversibility",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7. Shared-System Capacity",
-      "source_anchor": "#7-shared-system-capacity",
+      "source_header": "6. Shared-System Capacity",
+      "source_anchor": "#6-shared-system-capacity",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiii-root-cause-analysis-and-adaptive-response",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#wellbeing-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#environmental-preconditions-constitutional",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#environmental-preconditions-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#environmental-preconditions-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#proxy-divergence",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#proxy-divergence-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#proxy-divergence-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1 Productive Capacity (Instrumental Good)",
-      "source_anchor": "#71-productive-capacity-instrumental-good",
+      "source_header": "6.1 Productive Capacity (Instrumental Good)",
+      "source_anchor": "#61-productive-capacity-instrumental-good",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#dignity-and-equal-moral-standing-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#10-process-conflict-resolution",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#1024-proxy-divergence-invalidation",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#11-prohibition-on-absolute-override",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#1015-rights-collision-decision-test",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-integrity-constitutional",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#environmental-preconditions-constitutional",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.1.1 Preserve, Expand, and What Does Not Count",
-      "source_anchor": "#711-preserve-expand-and-what-does-not-count",
+      "source_header": "6.1.1 Preserve, Expand, and What Does Not Count",
+      "source_anchor": "#611-preserve-expand-and-what-does-not-count",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#article-i-a-environmental-preconditions-and-ecological-integrity",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional",
       "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#shared-system-capacity-constitutional-c",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional-a",
       "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.2 Constitutional Efficiency",
-      "source_anchor": "#72-constitutional-efficiency",
+      "source_header": "6.2 Constitutional Efficiency",
+      "source_anchor": "#62-constitutional-efficiency",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity-constitutional-c",
       "count": 1
@@ -7328,6 +7104,230 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#the-model",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#103-minimization-of-avoidable-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#11-prohibition-on-absolute-override",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#13-stewardship-in-depth",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#15-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#self-healing-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#self-healing-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#self-healing-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cascading-failure",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cascading-failure-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cascading-failure-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#reversibility-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#reversibility-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#reversibility-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#incentive-alignment",
+      "count": 6
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiii-right-to-reliable-and-trustworthy-systems",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xvi-audit-transparency-and-independent-verification",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xvii-system-lifecycle-environments-and-reversibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiii-root-cause-analysis-and-adaptive-response",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7. Resilience and Self-Healing Design",
+      "source_anchor": null,
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
       "source_header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -7507,7 +7507,7 @@
       "source_header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#self-healing-constitutional",
+      "target_anchor": "#shared-system-capacity-constitutional",
       "count": 2
     },
     {
@@ -7515,7 +7515,7 @@
       "source_header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#shared-system-capacity-constitutional",
+      "target_anchor": "#self-healing-constitutional",
       "count": 2
     },
     {
@@ -9483,7 +9483,7 @@
       "source_header": "10.3 Minimization of Avoidable Burden",
       "source_anchor": "#103-minimization-of-avoidable-burden",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#72-constitutional-efficiency",
+      "target_anchor": "#62-constitutional-efficiency",
       "count": 1
     },
     {
@@ -10851,7 +10851,7 @@
       "source_header": "13. Stewardship In Depth",
       "source_anchor": "#13-stewardship-in-depth",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#7-shared-system-capacity",
+      "target_anchor": "#6-shared-system-capacity",
       "count": 1
     },
     {
@@ -12147,7 +12147,7 @@
       "source_header": "14. Consequential Stewardship: The Steward Role",
       "source_anchor": "#14-consequential-stewardship-the-steward-role",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#7-shared-system-capacity",
+      "target_anchor": "#6-shared-system-capacity",
       "count": 1
     },
     {
@@ -13219,7 +13219,7 @@
       "source_header": "15. Governance Under Stewardship Discipline",
       "source_anchor": "#15-governance-under-stewardship-discipline",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#7-shared-system-capacity",
+      "target_anchor": "#6-shared-system-capacity",
       "count": 1
     },
     {
@@ -21259,7 +21259,7 @@
       "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
       "source_anchor": "#continuity-aim-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#6-resilience-and-self-healing-design",
+      "target_anchor": "#7-resilience-and-self-healing-design",
       "count": 1
     },
     {
@@ -21267,7 +21267,7 @@
       "source_header": "CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)",
       "source_anchor": "#continuity-aim-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#7-shared-system-capacity",
+      "target_anchor": "#6-shared-system-capacity",
       "count": 1
     },
     {
@@ -25443,7 +25443,7 @@
       "source_header": "Decentralization",
       "source_anchor": "#decentralization",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -27779,7 +27779,7 @@
       "source_header": "Market Concentration Threshold",
       "source_anchor": "#market-concentration-threshold-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -32307,7 +32307,7 @@
       "source_header": "Anti-Displacement Floor",
       "source_anchor": "#anti-displacement-floor-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -32459,7 +32459,7 @@
       "source_header": "Avoidable Burden",
       "source_anchor": "#avoidable-burden",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#7-shared-system-capacity",
+      "target_anchor": "#6-shared-system-capacity",
       "count": 1
     },
     {
@@ -33051,7 +33051,7 @@
       "source_header": "Constitutional Efficiency",
       "source_anchor": "#constitutional-efficiency",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#72-constitutional-efficiency",
+      "target_anchor": "#62-constitutional-efficiency",
       "count": 1
     },
     {
@@ -33291,7 +33291,7 @@
       "source_header": "Creative Work Attribution",
       "source_anchor": "#creative-work-attribution-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -33891,7 +33891,7 @@
       "source_header": "Ecological Footprint",
       "source_anchor": "#ecological-footprint",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -34011,7 +34011,7 @@
       "source_header": "Ecological Integrity",
       "source_anchor": "#ecological-integrity-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -34723,7 +34723,7 @@
       "source_header": "Environmental Preconditions",
       "source_anchor": "#environmental-preconditions-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -36395,7 +36395,7 @@
       "source_header": "Productive Capacity",
       "source_anchor": "#productive-capacity-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -37715,7 +37715,7 @@
       "source_header": "Shared-System Capacity",
       "source_anchor": "#shared-system-capacity-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#7-shared-system-capacity",
+      "target_anchor": "#6-shared-system-capacity",
       "count": 1
     },
     {
@@ -37723,7 +37723,7 @@
       "source_header": "Shared-System Capacity",
       "source_anchor": "#shared-system-capacity-constitutional",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -38635,7 +38635,7 @@
       "source_header": "Sustainability",
       "source_anchor": "#sustainability",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -57491,7 +57491,7 @@
       "source_header": "Article V: Resource Allocation, Dependencies, and Ecosystem Funding",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#7-shared-system-capacity",
+      "target_anchor": "#6-shared-system-capacity",
       "count": 1
     },
     {
@@ -57987,7 +57987,7 @@
       "source_header": "Article IX-D: Creative Work, Training-Data Use, and Anti-Displacement",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -65227,7 +65227,7 @@
       "source_header": "Article XIII-F: Resilience and Self-Healing Baseline",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#6-resilience-and-self-healing-design",
+      "target_anchor": "#7-resilience-and-self-healing-design",
       "count": 2
     },
     {
@@ -67051,7 +67051,7 @@
       "source_header": "Article XVI: Audit, Transparency, and Independent Verification",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#7-shared-system-capacity",
+      "target_anchor": "#6-shared-system-capacity",
       "count": 1
     },
     {
@@ -72867,7 +72867,7 @@
       "source_header": "Article XXV-C: Timely Resolution and Anti-Delay Floor",
       "source_anchor": "#article-xxv-c-timely-resolution-and-anti-delay-floor",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#72-constitutional-efficiency",
+      "target_anchor": "#62-constitutional-efficiency",
       "count": 2
     },
     {
@@ -82187,7 +82187,7 @@
       "source_header": "5.1 Concentration-based subversion: criteria interaction",
       "source_anchor": "#51-concentration-based-subversion-criteria-interaction",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -85003,7 +85003,7 @@
       "source_header": "6. Timely resolution, materiality tiers, and anti-delay discipline",
       "source_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#72-constitutional-efficiency",
+      "target_anchor": "#62-constitutional-efficiency",
       "count": 1
     },
     {
@@ -86139,7 +86139,7 @@
       "source_header": "3.2 Ecosystem Value Orientation",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -122579,7 +122579,7 @@
       "source_header": "CS-4.14 Private chokepoints sentients depend on (access continuity and non-capture)",
       "source_anchor": "#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-productive-capacity-instrumental-good",
+      "target_anchor": "#61-productive-capacity-instrumental-good",
       "count": 1
     },
     {
@@ -123307,7 +123307,7 @@
       "source_header": "CS-5.1 Purpose and role",
       "source_anchor": "#cs-5-1-purpose-and-role",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#6-resilience-and-self-healing-design",
+      "target_anchor": "#7-resilience-and-self-healing-design",
       "count": 1
     },
     {
@@ -123467,7 +123467,7 @@
       "source_header": "CS-5.9 Self-healing and recovery-path integrity",
       "source_anchor": "#cs-5-9-self-healing-and-recovery-path-integrity",
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#6-resilience-and-self-healing-design",
+      "target_anchor": "#7-resilience-and-self-healing-design",
       "count": 1
     },
     {
@@ -123507,7 +123507,7 @@
       "source_header": "CS-5: Design, testing, verification, and deployment",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#6-resilience-and-self-healing-design",
+      "target_anchor": "#7-resilience-and-self-healing-design",
       "count": 1
     },
     {

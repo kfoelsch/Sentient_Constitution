@@ -521,7 +521,7 @@ Correction must follow **Chapter Four** traceability and **Chapter Five** proxy-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§10.1 Core Tradeoff Principles](#101-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§14 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#14-consequential-stewardship-the-steward-role); [§7.2 Constitutional Efficiency](core_01_a_values_principles.md#72-constitutional-efficiency).
+- Upstream: [§10.1 Core Tradeoff Principles](#101-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§14 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#14-consequential-stewardship-the-steward-role); [§6.2 Constitutional Efficiency](core_01_a_values_principles.md#62-constitutional-efficiency).
 - Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05_band_participation.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden).
 - Downstream: [§16.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1613-stewardship-and-operator-application) (incentives must not reward unnecessary burden creation); [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 

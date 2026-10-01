@@ -359,35 +359,35 @@ public authority under this Constitution belongs to no religion or worldview. It
 
 [Source](../../core_01_a_values_principles.md#55-institutional-secularism-and-worldview-neutrality)
 
-#### 6. Resilience and Self-Healing Design
+#### 6. Shared-System Capacity
 
-systems should detect trouble early, contain it, fail along disclosed paths, and recover honestly. "Self-healing" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is a defect.
+when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§6.1 Productive Capacity (Instrumental Good)](../../core_01_a_values_principles.md#61-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§6.1.1 Preserve, Expand, and What Does Not Count](../../core_01_a_values_principles.md#611-preserve-expand-and-what-does-not-count)**. **[§6.2 Constitutional Efficiency](../../core_01_a_values_principles.md#62-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§8 Market Structure](../../core_01_a_values_principles.md#8-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.
 
-[Source](../../core_01_a_values_principles.md#6-resilience-and-self-healing-design)
+[Source](../../core_01_a_values_principles.md#6-shared-system-capacity)
 
-#### 7. Shared-System Capacity
+##### 6.1 Productive Capacity (Instrumental Good)
 
-when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§7.1 Productive Capacity (Instrumental Good)](../../core_01_a_values_principles.md#71-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§7.1.1 Preserve, Expand, and What Does Not Count](../../core_01_a_values_principles.md#711-preserve-expand-and-what-does-not-count)**. **[§7.2 Constitutional Efficiency](../../core_01_a_values_principles.md#72-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§8 Market Structure](../../core_01_a_values_principles.md#8-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.
+productive capacity is the "can we actually get things done?" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§6.1.1 Preserve, Expand, and What Does Not Count](../../core_01_a_values_principles.md#611-preserve-expand-and-what-does-not-count).
 
-[Source](../../core_01_a_values_principles.md#7-shared-system-capacity)
+[Source](../../core_01_a_values_principles.md#61-productive-capacity-instrumental-good)
 
-##### 7.1 Productive Capacity (Instrumental Good)
-
-productive capacity is the "can we actually get things done?" aspect of shared-system capacity. Can sentients take part, learn, contribute, and turn effort and resources into results that make life better — and keep that ability over time? It is a tool for better living. What must be preserved, and what does not count, is [§7.1.1 Preserve, Expand, and What Does Not Count](../../core_01_a_values_principles.md#711-preserve-expand-and-what-does-not-count).
-
-[Source](../../core_01_a_values_principles.md#71-productive-capacity-instrumental-good)
-
-###### 7.1.1 Preserve, Expand, and What Does Not Count
+###### 6.1.1 Preserve, Expand, and What Does Not Count
 
 keep the ability to get things done, and grow it when that would waste less of everyone's time — but not by hoarding, faking the numbers, stripping rights, or dumping harm on others or the planet. Metrics that no longer prove real outcomes do not count.
 
-[Source](../../core_01_a_values_principles.md#711-preserve-expand-and-what-does-not-count)
+[Source](../../core_01_a_values_principles.md#611-preserve-expand-and-what-does-not-count)
 
-##### 7.2 Constitutional Efficiency
+##### 6.2 Constitutional Efficiency
 
 constitutional efficiency is the "are we getting our money's worth in human terms?" aspect of shared-system capacity. More real benefit for each hour of sentient time, attention, and shared effort — not cutting corners on rights, truth, safety, or ecology just to look fast, lean, or cheap.
 
-[Source](../../core_01_a_values_principles.md#72-constitutional-efficiency)
+[Source](../../core_01_a_values_principles.md#62-constitutional-efficiency)
+
+#### 7. Resilience and Self-Healing Design
+
+systems should detect trouble early, contain it, fail along disclosed paths, and recover honestly. "Self-healing" that hides failure, skips root-cause work, or quietly narrows rights is not resilience — it is a defect.
+
+[Source](../../core_01_a_values_principles.md#7-resilience-and-self-healing-design)
 
 #### 8. Market Structure
 

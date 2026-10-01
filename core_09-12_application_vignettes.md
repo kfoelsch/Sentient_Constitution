@@ -177,7 +177,7 @@ Each of the following would be a failure in this scenario:
 
 - Counting revenue growth as **Contribution Axis** credit while lock-in injury remains open.
 - Forum treating arbitration clause as permanent bar to **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*) access.
-- Efficiency arguments that skip verification or individualized attribution (**Chapter One §7.1** (*Distributed Understanding*)).
+- Efficiency arguments that skip verification or individualized attribution (**Chapter One §6.1** (*Distributed Understanding*)).
 
 <br>
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-01T22:32:20+00:00",
+  "generated_at": "2026-10-01T22:49:25+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1257,7 +1257,7 @@
               "#4-trust-and-trustworthiness-coordination-integrity",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline",
-              "#72-constitutional-efficiency"
+              "#62-constitutional-efficiency"
             ]
           },
           {
@@ -1613,7 +1613,7 @@
               "#41-correction-and-remedy",
               "#5-freedom-bounded-agency",
               "#531-aligned-self-organization",
-              "#7-shared-system-capacity",
+              "#6-shared-system-capacity",
               "#8-market-structure",
               "#81-market-concentration-threshold-mechanism-adopter-tunable",
               "#82-pro-competition-and-anti-domination",
@@ -2896,8 +2896,8 @@
             "file": "core_01_a_values_principles.md",
             "count": 2,
             "anchors": [
-              "#6-resilience-and-self-healing-design",
-              "#7-shared-system-capacity"
+              "#6-shared-system-capacity",
+              "#7-resilience-and-self-healing-design"
             ]
           },
           {
@@ -3414,7 +3414,7 @@
               "#31-safety-harm-constraint",
               "#41-correction-and-remedy",
               "#5-freedom-bounded-agency",
-              "#71-productive-capacity-instrumental-good",
+              "#61-productive-capacity-instrumental-good",
               "#8-market-structure",
               "#81-market-concentration-threshold-mechanism-adopter-tunable",
               "#82-pro-competition-and-anti-domination",
@@ -3921,9 +3921,9 @@
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline",
               "#52-voluntary-discontinuation-and-exit-rights",
-              "#7-shared-system-capacity",
-              "#71-productive-capacity-instrumental-good",
-              "#72-constitutional-efficiency",
+              "#6-shared-system-capacity",
+              "#61-productive-capacity-instrumental-good",
+              "#62-constitutional-efficiency",
               "#8-market-structure",
               "#81-market-concentration-threshold-mechanism-adopter-tunable",
               "#83-consolidation-ceiling"
@@ -6715,7 +6715,7 @@
             "anchors": [
               "#22-recognition-reinforcement-and-aspiration",
               "#32-truth-epistemic-integrity-constraint",
-              "#71-productive-capacity-instrumental-good",
+              "#61-productive-capacity-instrumental-good",
               "#81-market-concentration-threshold-mechanism-adopter-tunable",
               "#82-pro-competition-and-anti-domination",
               "#83-consolidation-ceiling"
@@ -7009,7 +7009,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 1,
             "anchors": [
-              "#72-constitutional-efficiency"
+              "#62-constitutional-efficiency"
             ]
           },
           {
@@ -7477,7 +7477,7 @@
               "#34-plain-language-accessibility-participation-and-stewardship-duty",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline",
-              "#7-shared-system-capacity",
+              "#6-shared-system-capacity",
               "#8-market-structure",
               "#81-market-concentration-threshold-mechanism-adopter-tunable",
               "#9-systemic-evaluation-requirement"
@@ -7917,7 +7917,7 @@
               "#53-assembly-collective-organization-and-institutional-formation",
               "#54-dissent-and-peaceful-protest",
               "#55-institutional-secularism-and-worldview-neutrality",
-              "#71-productive-capacity-instrumental-good",
+              "#61-productive-capacity-instrumental-good",
               "#8-market-structure",
               "#81-market-concentration-threshold-mechanism-adopter-tunable"
             ]
@@ -8393,8 +8393,8 @@
               "#41-correction-and-remedy",
               "#5-freedom-bounded-agency",
               "#51-limitation-discipline",
-              "#6-resilience-and-self-healing-design",
-              "#7-shared-system-capacity",
+              "#6-shared-system-capacity",
+              "#7-resilience-and-self-healing-design",
               "#9-systemic-evaluation-requirement"
             ]
           },
@@ -9081,7 +9081,7 @@
               "#2-foundational-objective-wellbeing-flourishing-aim",
               "#31-safety-harm-constraint",
               "#32-truth-epistemic-integrity-constraint",
-              "#72-constitutional-efficiency"
+              "#62-constitutional-efficiency"
             ]
           },
           {
@@ -9323,7 +9323,7 @@
               "#2-foundational-objective-wellbeing-flourishing-aim",
               "#3-non-negotiable-principle-constraints-safety-and-truth",
               "#5-freedom-bounded-agency",
-              "#71-productive-capacity-instrumental-good"
+              "#61-productive-capacity-instrumental-good"
             ]
           },
           {
@@ -13662,7 +13662,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 2,
             "anchors": [
-              "#71-productive-capacity-instrumental-good",
+              "#61-productive-capacity-instrumental-good",
               "#8-market-structure"
             ]
           },
@@ -14038,7 +14038,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 3,
             "anchors": [
-              "#6-resilience-and-self-healing-design"
+              "#7-resilience-and-self-healing-design"
             ]
           },
           {

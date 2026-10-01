@@ -354,7 +354,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), [6 Resilience and Self-Healing Design](core_01_a_values_principles.md#6-resilience-and-self-healing-design), [Chapter One §10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), [7 Resilience and Self-Healing Design](core_01_a_values_principles.md#7-resilience-and-self-healing-design), [Chapter One §10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -376,7 +376,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 
 This Article sets out the recovery baseline, from detection through root-cause closure:
 
-- **What this requires:** Every system covered by this Article must be able to recover from failures. The more impact a system has, the more others depend on it, and the riskier it is, the stronger its recovery must be. This follows [**6 Resilience and Self-Healing Design**](core_01_a_values_principles.md#6-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
+- **What this requires:** Every system covered by this Article must be able to recover from failures. The more impact a system has, the more others depend on it, and the riskier it is, the stronger its recovery must be. This follows [**7 Resilience and Self-Healing Design**](core_01_a_values_principles.md#7-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
   - The detailed technical rules for how recovery must be built are in the implementation text: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*), and [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Decentralized continuity and partition resilience*).
   - That implementation text can add detail, but it cannot weaken this Article.
 - **Notice problems in time:** A system must spot faults, slowdowns, partial breakdowns, and breaches of constitutional limits quickly enough, and visibly enough, to meet the record-keeping standard in **Article XVI-A** (*Auditability and Observable Evidence*) ([Auditability](core_05_band_oversight.md#auditability)). This applies to the recovery process itself, not only to normal operation.
@@ -806,7 +806,7 @@ This Article sets out the floors for correction and reporting, including footpri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution), [§13.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#131-distributed-understanding), and [§7 Shared-System Capacity](core_01_a_values_principles.md#7-shared-system-capacity).
+- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution), [§13.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#131-distributed-understanding), and [§6 Shared-System Capacity](core_01_a_values_principles.md#6-shared-system-capacity).
 - Read with: [Three-layer audit picture](#audit-three-layers) below.
 
 </details>

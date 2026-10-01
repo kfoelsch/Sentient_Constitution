@@ -267,7 +267,7 @@ Direction must remain outcome-oriented rather than institution-preserving for it
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [Chapter One §7.1](core_01_a_values_principles.md#71-productive-capacity-instrumental-good) (*Productive Capacity* as instrumental good).
+- Upstream: [§3](#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [Chapter One §6.1](core_01_a_values_principles.md#61-productive-capacity-instrumental-good) (*Productive Capacity* as instrumental good).
 - Downstream: Outcome and proxy discipline continues through [§4](#4-voting-and-binding-collective-choice-protocols)–[§5](#5-authorized-roles-competency-development-and-contribution); Chapter Five (*Proxy Divergence*; *Constitutional Efficiency*; *Avoidable Burden*) as named in operative text.
 - Read with: [*Productive Capacity*](core_05_band_continuity.md#productive-capacity-constitutional) and related bounding definitions in [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions).
 

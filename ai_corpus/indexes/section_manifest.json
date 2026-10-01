@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-01T22:32:20+00:00",
+  "generated_at": "2026-10-01T22:49:24+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -120,13 +120,13 @@
       ]
     },
     "core_01_a_values_principles.md": {
-      "total_lines": 1726,
+      "total_lines": 1727,
       "sections": [
         {
           "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 1,
           "line_start": 1,
-          "line_end": 1726,
+          "line_end": 1727,
           "anchor": null
         },
         {
@@ -329,7 +329,7 @@
           "header": "5. Freedom (Bounded Agency)",
           "level": 3,
           "line_start": 739,
-          "line_end": 1004,
+          "line_end": 1005,
           "anchor": "#5-freedom-bounded-agency"
         },
         {
@@ -371,119 +371,119 @@
           "header": "5.5 Institutional Secularism and Worldview Neutrality",
           "level": 4,
           "line_start": 974,
-          "line_end": 1004,
+          "line_end": 1005,
           "anchor": "#54-dissent-and-peaceful-protest"
         },
         {
-          "header": "6. Resilience and Self-Healing Design",
+          "header": "6. Shared-System Capacity",
           "level": 3,
-          "line_start": 1005,
-          "line_end": 1045,
-          "anchor": "#55-institutional-secularism-and-worldview-neutrality"
+          "line_start": 1006,
+          "line_end": 1194,
+          "anchor": "#6-shared-system-capacity"
         },
         {
-          "header": "7. Shared-System Capacity",
-          "level": 3,
-          "line_start": 1046,
-          "line_end": 1235,
-          "anchor": "#7-shared-system-capacity"
-        },
-        {
-          "header": "7.1 Productive Capacity (Instrumental Good)",
+          "header": "6.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 1112,
-          "line_end": 1191,
-          "anchor": "#71-productive-capacity-instrumental-good"
+          "line_start": 1072,
+          "line_end": 1151,
+          "anchor": "#61-productive-capacity-instrumental-good"
         },
         {
-          "header": "7.1.1 Preserve, Expand, and What Does Not Count",
+          "header": "6.1.1 Preserve, Expand, and What Does Not Count",
           "level": 5,
-          "line_start": 1148,
-          "line_end": 1191,
-          "anchor": "#711-preserve-expand-and-what-does-not-count"
+          "line_start": 1108,
+          "line_end": 1151,
+          "anchor": "#611-preserve-expand-and-what-does-not-count"
         },
         {
-          "header": "7.2 Constitutional Efficiency",
+          "header": "6.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 1192,
-          "line_end": 1235,
-          "anchor": "#72-constitutional-efficiency"
+          "line_start": 1152,
+          "line_end": 1194,
+          "anchor": "#62-constitutional-efficiency"
+        },
+        {
+          "header": "7. Resilience and Self-Healing Design",
+          "level": 3,
+          "line_start": 1195,
+          "line_end": 1236,
+          "anchor": null
         },
         {
           "header": "8. Market Structure",
           "level": 3,
-          "line_start": 1236,
-          "line_end": 1664,
+          "line_start": 1237,
+          "line_end": 1665,
           "anchor": "#8-market-structure"
         },
         {
           "header": "8.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 1283,
-          "line_end": 1374,
+          "line_start": 1284,
+          "line_end": 1375,
           "anchor": "#81-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "header": "8.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1348,
-          "line_end": 1374,
+          "line_start": 1349,
+          "line_end": 1375,
           "anchor": "#811-concentration-threshold-triggers-adopter-tunable"
         },
         {
           "header": "8.2 Pro-Competition and Anti-Domination",
           "level": 4,
-          "line_start": 1375,
-          "line_end": 1518,
+          "line_start": 1376,
+          "line_end": 1519,
           "anchor": "#82-pro-competition-and-anti-domination"
         },
         {
           "header": "8.2.1 Pro-Competition Duties (Dos)",
           "level": 5,
-          "line_start": 1411,
-          "line_end": 1446,
+          "line_start": 1412,
+          "line_end": 1447,
           "anchor": "#821-pro-competition-duties-dos"
         },
         {
           "header": "8.2.2 Anti-Domination Prohibitions (Don'ts)",
           "level": 5,
-          "line_start": 1447,
-          "line_end": 1490,
+          "line_start": 1448,
+          "line_end": 1491,
           "anchor": "#822-anti-domination-prohibitions-donts"
         },
         {
           "header": "8.2.3 Remedies",
           "level": 5,
-          "line_start": 1491,
-          "line_end": 1518,
+          "line_start": 1492,
+          "line_end": 1519,
           "anchor": "#823-remedies"
         },
         {
           "header": "8.3 Consolidation Ceiling",
           "level": 4,
-          "line_start": 1519,
-          "line_end": 1664,
+          "line_start": 1520,
+          "line_end": 1665,
           "anchor": "#83-consolidation-ceiling"
         },
         {
           "header": "8.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "level": 5,
-          "line_start": 1578,
-          "line_end": 1626,
+          "line_start": 1579,
+          "line_end": 1627,
           "anchor": "#831-consolidation-risk-pre-lock-in-impairment"
         },
         {
           "header": "8.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1627,
-          "line_end": 1664,
+          "line_start": 1628,
+          "line_end": 1665,
           "anchor": "#832-consolidation-ceiling-mechanism-adopter-tunable"
         },
         {
           "header": "9. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 1665,
-          "line_end": 1726,
+          "line_start": 1666,
+          "line_end": 1727,
           "anchor": "#9-systemic-evaluation-requirement"
         }
       ]

@@ -1145,7 +1145,7 @@ This Article sets out the floors for lifelong learning and for transparent, cont
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing-flourishing-aim), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§12 Constitutional Interpretation](core_01_b_interaction_interpretation.md#12-constitutional-interpretation), [§16 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#16-incentive-alignment-and-system-capture), and [§7 Shared-System Capacity](core_01_a_values_principles.md#7-shared-system-capacity).
+- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing-flourishing-aim), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§12 Constitutional Interpretation](core_01_b_interaction_interpretation.md#12-constitutional-interpretation), [§16 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#16-incentive-alignment-and-system-capture), and [§6 Shared-System Capacity](core_01_a_values_principles.md#6-shared-system-capacity).
 
 </details>
 

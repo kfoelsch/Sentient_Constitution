@@ -181,8 +181,10 @@ Keep this active file limited to editor checks, current open work, and short arc
 ## 2026-10-01 — Chapter One continuity relocation: done, open follow-ups
 - Done: Part A is now §1 purpose, §2–5 Flourishing, §6–9 Continuity; later sections renumbered (§10–17). §2 and §4 retitled. Report: evidence/2026-10-01/ch1_continuity_relocation_report_2026-10-01.json.
 - [ ] Translations (20 languages) still carry the old Chapter One numbering; not updated.
-- [ ] Add the relocated Continuity principles (new §7/§8) to the Trace downstream in core_05_apex_continuity_aim.md.
-- [ ] Decide §13 (now §7) primary aim: Trace says Continuity; hierarchy treats it as a means toward Flourishing.
+- [ ] Add the relocated Continuity principles (new §6/§7 and §8/§9) to the Trace downstream in core_05_apex_continuity_aim.md.
+- [x] Shared-System Capacity aim question resolved 2026-10-01: it straddles both aims (means toward Flourishing, substance of Continuity); swapped to §6 as the bridge, Resilience is now §7.
 - [ ] "Standardization" definition in core_05_band_accountability.md lacks an approved measurement seed (blocks hierarchy-map regeneration).
 - [ ] Run `make ai-manifest-regenerate` now that source changes are committed.
 - Baseline failures unchanged: corpus-markdown-audit, ch5-cluster-order-audit, lexical-vocabulary-audit.
+
+- 2026-10-01 (later): Chapter One §6 and §7 swapped (tools/ch1_swap_6_7.py): §6 Shared-System Capacity (straddles both aims), §7 Resilience and Self-Healing Design. Translations still use the old numbering.
