@@ -196,3 +196,5 @@ Keep this active file limited to editor checks, current open work, and short arc
 - [x] Mermaid charts (Part A intros, Part C stewardship chart) verified against headings 2026-10-01; hand-maintained, so update when §2–§12 or §16–§20 headings change (VIS-CHART-SYNC-03).
 - [ ] Translations (20 languages) still use the old Chapter One numbering.
 - [x] Cite sweep 2026-10-01: fixed 27 broken Chapter One links in evaluation/ and project/ (they sat outside the fragment audit's scope) and 5 mislabeled links. Remaining risk: bare untitled "§N" cites in prose; local-markdown-fragment-audit now also scans evaluation/ (excluding dated results) and project/plans/ (implementation/ was already covered).
+
+- 2026-10-02: Added "distinct from each other and meaningful options" to Chapter Five Meaningful Agency and Consent (gloss, assessment, failure lists, topic-group line). Translations and Chapter Six consent articles not checked for the same wording.
