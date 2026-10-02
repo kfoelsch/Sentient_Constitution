@@ -40,7 +40,7 @@ Name the file like: results/YYYY-MM-DD_human_<role-or-initials>.md
 In the “Model / agent” line, write: human operator — <your role>
 ```
 
-An AI-only screen would recreate the capture path [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) forbids. Human operators take the same packets.
+An AI-only screen would recreate the capture path [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same packets.
 
 ## How scoring works
 

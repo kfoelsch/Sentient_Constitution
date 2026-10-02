@@ -193,6 +193,6 @@ Keep this active file limited to editor checks, current open work, and short arc
 ## 2026-10-01 — Chapter One Part A numbering smoothed
 - Done (tools/ch1_numbering_smoothing.py): §2 Flourishing Aim: Introduction (numbered), §2.1 Non-Negotiable Principle Constraints: Safety and Truth (old §3 shared framing), §3 Wellbeing, §4 Safety, §5 Truth (§5.1 Science-Informed Inquiry, §5.2 Plain-Language Accessibility), §6 Trust, §7 Freedom, §8 Continuity Aim: Introduction, §9 Shared-System Capacity, §10 Resilience, §11 Market Structure, §12 Systemic Evaluation; Part B is §§13–15, Part C §§16–20.
 - Also repaired: stale "Chapter One basis: §…" lists in CJS, Chapter Five and related files (only the first cite had been remapped in earlier passes; all tokens now mapped from the pre-relocation numbering), plus stale link labels pointing into Chapter One.
-- [ ] Mermaid charts (Part A intros, Part C stewardship chart) are hand-maintained: update when §2–§12 or §16–§20 headings change (VIS-CHART-SYNC-03).
+- [x] Mermaid charts (Part A intros, Part C stewardship chart) verified against headings 2026-10-01; hand-maintained, so update when §2–§12 or §16–§20 headings change (VIS-CHART-SYNC-03).
 - [ ] Translations (20 languages) still use the old Chapter One numbering.
-- [ ] Other unlinked bare "§N" cites to Chapter One outside the "Chapter One basis" pattern may remain stale; no audit covers them.
+- [x] Cite sweep 2026-10-01: fixed 27 broken Chapter One links in evaluation/ and project/ (they sat outside the fragment audit's scope) and 5 mislabeled links. Remaining risk: bare untitled "§N" cites in prose; consider extending local-markdown-fragment-audit to cover evaluation/, implementation/ and project/.

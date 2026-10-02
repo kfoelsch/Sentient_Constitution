@@ -2030,7 +2030,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [5. System Stability Enabler: Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), [Chapter One §13.1 decision-record discipline](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Downstream: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [6. System Stability Enabler: Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), [Chapter One §13.1 decision-record discipline](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Cluster component: [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support-semi-independent).
 - Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
 - Read with: [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional), [Wellbeing](core_05_band_continuity.md#wellbeing), [Risk](core_05_band_continuity.md#risk), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity), and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where certification gates shared-infrastructure reliance.
@@ -4153,7 +4153,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [5. System Stability Enabler: Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+- Downstream: Principles: [6. System Stability Enabler: Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Read with: [Trustworthiness](core_05_band_continuity.md#trustworthiness), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Accountability](core_05_apex_accountability_leg.md#accountability).
 
 </details>
@@ -4188,7 +4188,7 @@ See **Joint invocation and satisfaction**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Oversight measurement family (*Trustworthiness as constitutional measurement*); Principles: [5. System Stability Enabler: Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+- Downstream: Oversight measurement family (*Trustworthiness as constitutional measurement*); Principles: [6. System Stability Enabler: Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Read with: [Trust](core_05_band_continuity.md#trust), [Auditability](core_05_band_oversight.md#auditability), [Transparency](core_05_band_oversight.md#transparency), [Accountability](core_05_apex_accountability_leg.md#accountability), and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
 
 </details>

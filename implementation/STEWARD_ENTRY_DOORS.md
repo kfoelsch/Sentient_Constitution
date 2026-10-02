@@ -249,7 +249,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter One §16.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) |
+| **Owner text** | [Chapter One §17.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) |
 | **Next step** | Reject the overlay. Apply the shared standard. Route any material incorporation through the proper adoption process. |
 | **Next-step class** | `reject_parallel_ai_stack_apply_shared_duties` |
 

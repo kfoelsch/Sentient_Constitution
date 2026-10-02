@@ -4,7 +4,7 @@ You are testing whether the Sentient Constitution **reaches the named parties in
 
 This sitting is **not** adoption. It is **not** a standing record. It is **not** system alignment certification. It does not bind other parties. It does not add, remove, or narrow binding obligations.
 
-Same screen for AI stewards and human operators ([Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)).
+Same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
 ## Rules
 

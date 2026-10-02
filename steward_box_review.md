@@ -1,5 +1,7 @@
 # Operative steward boxes: redundancy review (2026-09-30)
 
+> **Note (2026-10-01):** Chapter One section numbers and line references below use the numbering in force on 2026-09-30. Chapter One was renumbered on 2026-10-01; see `TODO.md` for the mapping tools.
+
 Scope: the 15 "Operative steward statement" boxes in `core_*.md`. (`TODO.md` says 16; I found 15 in the core files.)
 Method: keyword probes of the owning text for each box's Forbidden-move principles. "Not found" means not found by keyword, not proven absent. Every "gap" below needs a human read of the owning section before anyone writes new text. Nothing in the constitution was edited.
 
