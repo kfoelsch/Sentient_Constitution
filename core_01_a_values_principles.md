@@ -696,15 +696,15 @@ This is a [Participation](core_05_apex_participation_leg.md#participation-consti
 <a id="521-scope"></a>
 ##### 5.2.1 Scope
 
-This duty covers instruments and communications that sentients actually engage with. Examples include:
+This duty covers any rule, notice, or tool that sentients actually have to read or use. For example:
 
-- constitutional and governance text;
-- adjudicative decisions and notices;
-- contestability and redress procedures;
-- audit and verification artifacts where they reach sentient readers;
-- terms and consent interfaces, and comparable text.
+- constitutional and governance text
+- decisions and notices from forums
+- the steps for challenging a decision or getting a remedy
+- audit and verification records, when they reach sentient readers
+- terms and consent screens, and anything similar
 
-This duty applies however binding information reaches sentients — written text, interfaces, spoken communication, or any other channel. A channel satisfies it when it provides a plain-language equivalent that any affected sentient can access, consistent with [Article VI-D](core_06_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+It doesn't matter how the information arrives: written text, an interface, a spoken message, or any other channel. A channel meets the duty when it offers a plain-language version that every affected sentient can reach. That follows [Article VI-D](core_06_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 
 <a id="522-the-duty"></a>
 ##### 5.2.2 The Duty
