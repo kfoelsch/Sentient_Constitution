@@ -201,16 +201,20 @@ No single principle may be applied in isolation where doing so would materially 
 flowchart TB
     F["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency<br/>• Always bounded by the Rights Floor"]
     W["§3 Wellbeing (the outcome)<br/><br/>• §3.1 Fairness<br/>• §3.2 Recognition, Reinforcement, and Aspiration<br/>• §3.3 Anti-Degrading Process"]
-    subgraph Conditions["Four sustaining conditions"]
+    subgraph NN["Non-Negotiable (§2.1)"]
         direction LR
-        S["§4 Safety<br/><br/>• Harm constraint<br/>• Non-negotiable (§2.1)"]
-        T["§5 Truth<br/><br/>• Epistemic integrity<br/>• Non-negotiable (§2.1)<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
-        R["§6 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy"]
-        G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.5 Exit, assembly,<br/>dissent, and worldview neutrality"]
+        S["§4 Safety<br/><br/>• Harm constraint"]
+        T["§5 Truth<br/><br/>• Epistemic integrity<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
     end
+    R["§6 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy"]
+    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.5 Exit, assembly,<br/>dissent, and worldview neutrality"]
     F -->|"is stated as"| W
-    W -->|"is sustained by"| Conditions
-    style Conditions fill:none,stroke:none
+    W -->|"is sustained by"| S
+    W --> T
+    S --> R
+    T --> R
+    R --> G
+    style NN fill:none,stroke:#64748b,stroke-dasharray:6 4,color:#ffffff
     style F fill:none,stroke:#16a34a,color:#ffffff
     style W fill:none,stroke:#9333ea,color:#ffffff
     style S fill:none,stroke:#64748b,color:#ffffff
@@ -219,7 +223,7 @@ flowchart TB
     style G fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-*Flourishing is stated as an outcome and sustained by four conditions. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions.*
+*Flourishing is stated as an outcome and sustained first by the non-negotiable constraints, Safety and Truth, which both feed Trust, which in turn feeds Freedom. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions.*
 
 <a id="21-non-negotiable-principle-constraints-safety-and-truth"></a>
 #### 2.1 Non-Negotiable Principle Constraints: Safety and Truth
