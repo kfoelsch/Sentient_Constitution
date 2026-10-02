@@ -711,10 +711,12 @@ It doesn't matter how the information arrives: written text, an interface, a spo
 
 Under [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), operators and governance bodies must:
 
-- use plain, direct language instead of jargon or unnecessarily complex phrasing wherever that is possible without losing operative meaning;
-- provide a plain-language summary or orientation when sentients must engage technically dense material;
-- organize text so sentients can find what they need and read it without unnecessary difficulty — supporting the learning interest recognized under [Article IV](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*Right to Sentient-Centered Education*);
-- keep complexity proportionate to what the communication actually needs to say. Unnecessary complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) defect under [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) and an [Article XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) concern.
+- Use plain, direct words instead of jargon or needlessly complicated phrasing, as long as the meaning that matters stays intact.
+- Give a plain-language summary or orientation when sentients have to work with dense technical material.
+- Organize text so sentients can find what they need and read it without extra effort. This supports the learning interest recognized in [Article IV](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*Right to Sentient-Centered Education*).
+- Keep complexity in proportion to what the communication has to say.
+
+Complexity that makes things harder without serving a constitutional purpose is an [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) defect under [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden). It is also a concern under [Article XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 
 <a id="523-definitional-rigor-preserved"></a>
 ##### 5.2.3 Definitional Rigor Preserved
