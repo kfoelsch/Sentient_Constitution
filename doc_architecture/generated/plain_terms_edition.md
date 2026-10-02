@@ -1479,12 +1479,6 @@ harm is a material worsening of a sentient's life, agency, functioning, or psych
 
 [Source](../../core_05_band_accountability.md#harm)
 
-###### Collective Harm Boundary
-
-freedom of action stops where conduct creates verifiable material harm to another sentient's protected interests or to shared constitutional conditions. Mere offense or preference does not cross this boundary.
-
-[Source](../../core_05_band_accountability.md#collective-harm-boundary)
-
 ###### Psychological Harm
 
 psychological harm is a material injury to how a sentient thinks, feels, relates, or exercises agency. Ordinary discomfort is not enough.
@@ -1508,6 +1502,12 @@ cruelty is treatment that makes someone suffer on purpose as the point of the tr
 harassment and bullying are unwanted acts or conditions that, through repetition, coordination, power, or severity, materially make a setting unsafe, degrading, or hard to participate in.
 
 [Source](../../core_05_band_accountability.md#harassment-and-bullying)
+
+###### Collective Harm Boundary
+
+freedom of action stops where conduct creates verifiable material harm to another sentient's protected interests or to shared constitutional conditions. Mere offense or preference does not cross this boundary.
+
+[Source](../../core_05_band_accountability.md#collective-harm-boundary)
 
 ##### Def.A2 Forum Families and Dispute Routing
 

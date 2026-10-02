@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-02T23:01:05+00:00",
+  "generated_at": "2026-10-02T23:23:27+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -854,8 +854,10 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 239,
+            "count": 246,
             "anchors": [
+              "#collective-harm-boundary",
+              "#collective-harm-boundary-and-harm-cluster",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -869,6 +871,7 @@
               "#governance",
               "#governance-a",
               "#governance-c",
+              "#harassment-and-bullying",
               "#harm",
               "#harm-a",
               "#harm-c",
@@ -891,6 +894,7 @@
               "#proportionality",
               "#proportionality-a",
               "#proportionality-c",
+              "#psychological-harm",
               "#redress-and-remediation-constitutional",
               "#redress-and-remediation-constitutional-a",
               "#redress-and-remediation-constitutional-c",

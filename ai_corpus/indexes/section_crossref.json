@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-02T23:01:06+00:00",
+  "generated_at": "2026-10-02T23:23:27+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15742,
+  "edge_count": 15748,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -3484,7 +3484,7 @@
       "source_anchor": "#71-limitation-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#harm",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -3500,6 +3500,54 @@
       "source_anchor": "#71-limitation-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#harm-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7.1 Limitation Discipline",
+      "source_anchor": "#71-limitation-discipline",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-harm-boundary-and-harm-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7.1 Limitation Discipline",
+      "source_anchor": "#71-limitation-discipline",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#psychological-harm",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7.1 Limitation Discipline",
+      "source_anchor": "#71-limitation-discipline",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#irreversible-harm",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7.1 Limitation Discipline",
+      "source_anchor": "#71-limitation-discipline",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7.1 Limitation Discipline",
+      "source_anchor": "#71-limitation-discipline",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#harassment-and-bullying",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7.1 Limitation Discipline",
+      "source_anchor": "#71-limitation-discipline",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-harm-boundary",
       "count": 1
     },
     {
@@ -24683,14 +24731,6 @@
       "source_header": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
       "source_anchor": "#collective-harm-boundary-and-harm-cluster",
       "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#collective-harm-boundary",
-      "count": 6
-    },
-    {
-      "source_file": "core_05_band_accountability.md",
-      "source_header": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
-      "source_anchor": "#collective-harm-boundary-and-harm-cluster",
-      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#cruelty",
       "count": 4
     },
@@ -24701,6 +24741,14 @@
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#harassment-and-bullying",
       "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
+      "source_anchor": "#collective-harm-boundary-and-harm-cluster",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-harm-boundary",
+      "count": 6
     },
     {
       "source_file": "core_05_band_accountability.md",

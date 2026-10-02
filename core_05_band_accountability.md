@@ -1822,20 +1822,20 @@ Outside that admission scope, component definitions may still operate as support
 Where admission scope is met, this cluster is the joint-invocation home for:
 
 - [Harm](core_05_band_accountability.md#harm), as the general degradation concept;
-- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary), as the defined limit on freedom of action: the point where one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions;
-- [Cruelty](core_05_band_accountability.md#cruelty), as the conduct-character construct for suffering inflicted as an end in itself or beyond necessity and proportionality; and
-- [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings.
+- [Cruelty](core_05_band_accountability.md#cruelty), as the conduct-character construct for suffering inflicted as an end in itself or beyond necessity and proportionality;
+- [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings; and
+- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary), as the defined limit on freedom of action: the point where one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions.
 
 These definitions do different jobs, but they must be considered together when needed. When conduct harms others — whether directly, indirectly, over time, through accumulated effects, across systems, or at a collective level — the harm analysis must also ask whether the conduct crosses the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) and, where relevant, whether it amounts to [Cruelty](core_05_band_accountability.md#cruelty), harassment, or bullying.
 
 **Cluster members.** This cluster comprises:
 
 - [Harm](core_05_band_accountability.md#harm);
-- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary);
 - [Psychological Harm](core_05_band_accountability.md#psychological-harm);
 - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm);
 - [Cruelty](core_05_band_accountability.md#cruelty);
-- [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying).
+- [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying);
+- [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary).
 
 **Anti-bypass.** A matter within the admission scope must not be split into separate individual-harm, collective-harm, cruelty, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that:
 
@@ -1903,34 +1903,6 @@ The following limits also apply:
   - **Secondary failure:** dismissing harm to individuals without considering whether its collective, accumulated, or system-wide effects create a material harm pathway under [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint) or [Risk](core_05_band_continuity.md#risk).
 
 ---
-
-<a id="collective-harm-boundary"></a>
-
-##### Collective Harm Boundary
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (harm boundary in the tradeoff stack).
-- Read with: the [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster), [Harm](core_05_band_accountability.md#harm), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Materiality](core_05_band_oversight.md#materiality-determination).
-
-</details>
-
-<br>
-
-*In plain terms: freedom of action stops where conduct creates verifiable material harm to another sentient's protected interests or to shared constitutional conditions. Mere offense or preference does not cross this boundary.*
-
-- **What it is**
-  - **In scope:** The point at which a sentient's or collective's freedom of action must yield because it causes verifiable harm to another sentient's protected interests. Protected interests include wellbeing-related resources under **Article III-A** (*Survival*), ecological conditions under **Article I-A** (*Environmental Preconditions and Ecological Integrity*), and the [Info-Sphere](core_05_band_participation.md#info-sphere) under **Article XV** (*Info-Sphere Integrity*). **Article XI-G** (*Collective Harm Boundary and Enforcement Interface*) states this limit.
-  - **Out of scope:** Offense or preference alone, without a [Material Impact](core_05_band_oversight.md#material-impact) pathway, is not collective harm.
-<a id="collective-harm-boundary-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Do reward structures, market power, and answerability keep duties real?*
-
-    **Primary assessment:** Verify the harm and its system-wide scope using [Harm](core_05_band_accountability.md#harm), [Materiality](core_05_band_oversight.md#materiality-determination), and [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction).
-<a id="collective-harm-boundary-c"></a>
-- **What must hold**
-  - **Primary failure:** It is non-compliant to cause material harm beyond this boundary and then refuse proportionate containment or [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 <a id="psychological-harm"></a>
 
@@ -2107,6 +2079,36 @@ The following limits also apply:
     - It is also non-compliant to:
       - split up a course of conduct to avoid cumulative assessment; or
       - use speech, association, discipline, moderation, caregiving, or operational authority as a pretext for materially degrading unwanted conduct.
+
+---
+
+<a id="collective-harm-boundary"></a>
+
+##### Collective Harm Boundary
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (harm boundary in the tradeoff stack).
+- Read with: the [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster), [Harm](core_05_band_accountability.md#harm), [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction), and [Materiality](core_05_band_oversight.md#materiality-determination).
+
+</details>
+
+<br>
+
+*In plain terms: freedom of action stops where conduct creates verifiable material harm to another sentient's protected interests or to shared constitutional conditions. Mere offense or preference does not cross this boundary.*
+
+- **What it is**
+  - **In scope:** The point at which a sentient's or collective's freedom of action must yield because it causes verifiable harm to another sentient's protected interests. Protected interests include wellbeing-related resources under **Article III-A** (*Survival*), ecological conditions under **Article I-A** (*Environmental Preconditions and Ecological Integrity*), and the [Info-Sphere](core_05_band_participation.md#info-sphere) under **Article XV** (*Info-Sphere Integrity*). **Article XI-G** (*Collective Harm Boundary and Enforcement Interface*) states this limit.
+  - **Out of scope:** Offense or preference alone, without a [Material Impact](core_05_band_oversight.md#material-impact) pathway, is not collective harm.
+<a id="collective-harm-boundary-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) and [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Are sentients sustained in life, safety, and access to essentials?* / *Do reward structures, market power, and answerability keep duties real?*
+
+    **Primary assessment:** Verify the harm and its system-wide scope using [Harm](core_05_band_accountability.md#harm), [Materiality](core_05_band_oversight.md#materiality-determination), and [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction).
+<a id="collective-harm-boundary-c"></a>
+- **What must hold**
+  - **Primary failure:** It is non-compliant to cause material harm beyond this boundary and then refuse proportionate containment or [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 ---
 

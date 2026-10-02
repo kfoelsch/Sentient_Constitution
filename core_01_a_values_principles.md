@@ -915,6 +915,17 @@ Freedom may be limited only where:
 - necessary to prevent **material harm** or **systemic risk**
 - such limitation is **proportionate**, **reversible where possible**, and **subject to oversight**
 
+The limits above depend on what counts as harm. Chapter Five treats these six ideas together, as the [Harm cluster](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster):
+
+- [**Harm**](core_05_band_accountability.md#harm): a material worsening of someone's life, agency, functioning, or psychological health. Offense, discomfort, or disagreement alone is not harm.
+- [**Psychological Harm**](core_05_band_accountability.md#psychological-harm): serious injury to how someone thinks, feels, relates to others, or exercises agency. Ordinary discomfort is not enough.
+- [**Irreversible Harm**](core_05_band_accountability.md#irreversible-harm): damage that can't be meaningfully repaired in the time that matters.
+- [**Cruelty**](core_05_band_accountability.md#cruelty): making someone suffer on purpose, or piling on needless or degrading suffering beyond what necessity and proportionality allow.
+- [**Harassment and Bullying**](core_05_band_accountability.md#harassment-and-bullying): unwanted acts or conditions that, through repetition, coordination, power, or severity, make a setting unsafe, degrading, or hard to take part in.
+- [**Collective Harm Boundary**](core_05_band_accountability.md#collective-harm-boundary): the point where one party's freedom of action must give way, because it causes verifiable harm to others' protected interests or to shared conditions everyone relies on.
+
+These are meant to be read together. A matter can't be split up to dodge one of them.
+
 Constraints may be imposed only when no less-restrictive, reasonably effective alternative exists, consistent with [Necessity](core_05_band_accountability.md#necessity) in **Chapter Five**. Feasibility claims that limit agency must be demonstrable under **Chapter Four** burden and traceability requirements. They must also be consistent with **Chapter Five** definitions (including Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection)). Limitations must remain subject to [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) scaled to [material stake](core_00_preamble.md#material-stake).
 
 When freedom limits collide with other constitutional values or rights, apply [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) through [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.

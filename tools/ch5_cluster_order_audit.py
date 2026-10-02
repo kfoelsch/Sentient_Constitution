@@ -122,11 +122,11 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     ],
     "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",
-        "Collective Harm Boundary",
         "Psychological Harm",
         "Irreversible Harm",
         "Cruelty",
         "Harassment and Bullying",
+        "Collective Harm Boundary",
     ],
     "#### Def.I1 Corpus and Authority Stack": [
         "Corpus",

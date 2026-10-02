@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-02T23:01:06+00:00",
+  "generated_at": "2026-10-02T23:23:28+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -3197,21 +3197,21 @@
       "file": "core_05_band_accountability.md",
       "anchor": "#defa2",
       "heading": "Def.A2 Forum Families and Dispute Routing",
-      "line": 2116,
+      "line": 2118,
       "kind": "cluster"
     },
     "Def.A3": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa3",
       "heading": "Def.A3 Standing State, Contribution, and Violation",
-      "line": 2511,
+      "line": 2513,
       "kind": "cluster"
     },
     "Def.A4": {
       "file": "core_05_band_accountability.md",
       "anchor": "#defa4",
       "heading": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
-      "line": 3314,
+      "line": 3316,
       "kind": "cluster"
     },
     "Def.C1": {
@@ -4034,8 +4034,8 @@
       "term": "Anti-Constitutional Misconduct Review",
       "file": "core_05_band_accountability.md",
       "anchor": "#anti-constitutional-misconduct-review",
-      "line_start": 3095,
-      "line_end": 3137
+      "line_start": 3097,
+      "line_end": 3139
     },
     {
       "term": "Anti-Displacement Floor",
@@ -4083,15 +4083,15 @@
       "term": "Autonomous Coercion Tool",
       "file": "core_05_band_accountability.md",
       "anchor": "#autonomous-coercion-tool-constitutional",
-      "line_start": 3684,
-      "line_end": 3747
+      "line_start": 3686,
+      "line_end": 3749
     },
     {
       "term": "Autonomous Lethal System",
       "file": "core_05_band_accountability.md",
       "anchor": "#autonomous-lethal-system-constitutional",
-      "line_start": 3425,
-      "line_end": 3477
+      "line_start": 3427,
+      "line_end": 3479
     },
     {
       "term": "Avoidable Burden",
@@ -4188,8 +4188,8 @@
       "term": "Collective Harm Boundary",
       "file": "core_05_band_accountability.md",
       "anchor": "#collective-harm-boundary",
-      "line_start": 1909,
-      "line_end": 1936
+      "line_start": 2087,
+      "line_end": 2117
     },
     {
       "term": "Collective Organization",
@@ -4202,22 +4202,22 @@
       "term": "Combatant / Non-Combatant Distinction",
       "file": "core_05_band_accountability.md",
       "anchor": "#combatant-non-combatant-distinction-constitutional",
-      "line_start": 3542,
-      "line_end": 3609
+      "line_start": 3544,
+      "line_end": 3611
     },
     {
       "term": "Competency Bar",
       "file": "core_05_band_accountability.md",
       "anchor": "#competency-bar",
-      "line_start": 2950,
-      "line_end": 2994
+      "line_start": 2952,
+      "line_end": 2996
     },
     {
       "term": "Competency Clearance",
       "file": "core_05_band_accountability.md",
       "anchor": "#competency-clearance",
-      "line_start": 2995,
-      "line_end": 3041
+      "line_start": 2997,
+      "line_end": 3043
     },
     {
       "term": "Consent",
@@ -4314,8 +4314,8 @@
       "term": "Contribution Nature",
       "file": "core_05_band_accountability.md",
       "anchor": "#contribution-nature",
-      "line_start": 2689,
-      "line_end": 2741
+      "line_start": 2691,
+      "line_end": 2743
     },
     {
       "term": "Corpus",
@@ -4342,8 +4342,8 @@
       "term": "Cruelty",
       "file": "core_05_band_accountability.md",
       "anchor": "#cruelty",
-      "line_start": 2004,
-      "line_end": 2056
+      "line_start": 1976,
+      "line_end": 2028
     },
     {
       "term": "Decentralization",
@@ -4559,50 +4559,50 @@
       "term": "Forum Case Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-case-record",
-      "line_start": 2402,
-      "line_end": 2476
+      "line_start": 2404,
+      "line_end": 2478
     },
     {
       "term": "Forum Family, Constitutional",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-constitutional",
-      "line_start": 2364,
-      "line_end": 2401
+      "line_start": 2366,
+      "line_end": 2403
     },
     {
       "term": "Forum Family, Environment",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-environment",
-      "line_start": 2291,
-      "line_end": 2319
+      "line_start": 2293,
+      "line_end": 2321
     },
     {
       "term": "Forum Family, Institutional",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-institutional",
-      "line_start": 2262,
-      "line_end": 2290
+      "line_start": 2264,
+      "line_end": 2292
     },
     {
       "term": "Forum Family, Integrity",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-integrity",
-      "line_start": 2320,
-      "line_end": 2363
+      "line_start": 2322,
+      "line_end": 2365
     },
     {
       "term": "Forum Family, Sentient",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-sentient",
-      "line_start": 2198,
-      "line_end": 2226
+      "line_start": 2200,
+      "line_end": 2228
     },
     {
       "term": "Forum Family, Technical",
       "file": "core_05_band_accountability.md",
       "anchor": "#forum-family-technical",
-      "line_start": 2227,
-      "line_end": 2261
+      "line_start": 2229,
+      "line_end": 2263
     },
     {
       "term": "Foundational Constitutional Choice",
@@ -4650,8 +4650,8 @@
       "term": "Harassment and Bullying",
       "file": "core_05_band_accountability.md",
       "anchor": "#harassment-and-bullying",
-      "line_start": 2057,
-      "line_end": 2115
+      "line_start": 2029,
+      "line_end": 2086
     },
     {
       "term": "Hard Content",
@@ -4783,15 +4783,15 @@
       "term": "Irreversible Deprivation Measure",
       "file": "core_05_band_accountability.md",
       "anchor": "#irreversible-deprivation-measure-constitutional",
-      "line_start": 3610,
-      "line_end": 3683
+      "line_start": 3612,
+      "line_end": 3685
     },
     {
       "term": "Irreversible Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#irreversible-harm",
-      "line_start": 1965,
-      "line_end": 2003
+      "line_start": 1937,
+      "line_end": 1975
     },
     {
       "term": "Language, Culture, and Heritage",
@@ -4972,8 +4972,8 @@
       "term": "Non-Compliance Finding Profile",
       "file": "core_05_band_accountability.md",
       "anchor": "#non-compliance-finding-profile",
-      "line_start": 2477,
-      "line_end": 2510
+      "line_start": 2479,
+      "line_end": 2512
     },
     {
       "term": "Non-Imposition (Cooperative Interaction)",
@@ -5014,8 +5014,8 @@
       "term": "Participant Standing",
       "file": "core_05_band_accountability.md",
       "anchor": "#participant-standing-constitutional",
-      "line_start": 2572,
-      "line_end": 2635
+      "line_start": 2574,
+      "line_end": 2637
     },
     {
       "term": "Personhood",
@@ -5035,8 +5035,8 @@
       "term": "Primary-Stakes Routing",
       "file": "core_05_band_accountability.md",
       "anchor": "#primary-stakes-routing",
-      "line_start": 2168,
-      "line_end": 2197
+      "line_start": 2170,
+      "line_end": 2199
     },
     {
       "term": "Privacy (Informational)",
@@ -5133,8 +5133,8 @@
       "term": "Psychological Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#psychological-harm",
-      "line_start": 1937,
-      "line_end": 1964
+      "line_start": 1909,
+      "line_end": 1936
     },
     {
       "term": "Public Oversight Baseline Disclosure",
@@ -5322,8 +5322,8 @@
       "term": "Single Catastrophic Incident",
       "file": "core_05_band_accountability.md",
       "anchor": "#single-catastrophic-incident",
-      "line_start": 3229,
-      "line_end": 3267
+      "line_start": 3231,
+      "line_end": 3269
     },
     {
       "term": "Stakeholder",
@@ -5371,22 +5371,22 @@
       "term": "Standing Effect",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-effect-chapter-six",
-      "line_start": 2794,
-      "line_end": 2859
+      "line_start": 2796,
+      "line_end": 2861
     },
     {
       "term": "Standing Lock",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-lock",
-      "line_start": 3042,
-      "line_end": 3094
+      "line_start": 3044,
+      "line_end": 3096
     },
     {
       "term": "Standing Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#standing-record-chapter-six",
-      "line_start": 2860,
-      "line_end": 2949
+      "line_start": 2862,
+      "line_end": 2951
     },
     {
       "term": "Stay",
@@ -5448,8 +5448,8 @@
       "term": "Sustained High-Gravity Pattern",
       "file": "core_05_band_accountability.md",
       "anchor": "#sustained-high-gravity-pattern",
-      "line_start": 3268,
-      "line_end": 3313
+      "line_start": 3270,
+      "line_end": 3315
     },
     {
       "term": "System",
@@ -5595,22 +5595,22 @@
       "term": "Unified Incident",
       "file": "core_05_band_accountability.md",
       "anchor": "#unified-incident",
-      "line_start": 3138,
-      "line_end": 3177
+      "line_start": 3140,
+      "line_end": 3179
     },
     {
       "term": "Unified Incident Record",
       "file": "core_05_band_accountability.md",
       "anchor": "#unified-incident-record",
-      "line_start": 3178,
-      "line_end": 3228
+      "line_start": 3180,
+      "line_end": 3230
     },
     {
       "term": "Use of Force",
       "file": "core_05_band_accountability.md",
       "anchor": "#use-of-force-constitutional",
-      "line_start": 3359,
-      "line_end": 3424
+      "line_start": 3361,
+      "line_end": 3426
     },
     {
       "term": "Verifiability",
@@ -5623,8 +5623,8 @@
       "term": "Verified Inputs for Standing",
       "file": "core_05_band_accountability.md",
       "anchor": "#verified-inputs-for-standing",
-      "line_start": 2636,
-      "line_end": 2688
+      "line_start": 2638,
+      "line_end": 2690
     },
     {
       "term": "Verify-or-Authorize Seat",
@@ -5637,8 +5637,8 @@
       "term": "Violation Nature",
       "file": "core_05_band_accountability.md",
       "anchor": "#violation-nature-chapter-six",
-      "line_start": 2742,
-      "line_end": 2793
+      "line_start": 2744,
+      "line_end": 2795
     },
     {
       "term": "Volitional Integrity",
@@ -5658,8 +5658,8 @@
       "term": "Weapons of Mass Harm",
       "file": "core_05_band_accountability.md",
       "anchor": "#weapons-of-mass-harm-constitutional",
-      "line_start": 3478,
-      "line_end": 3541
+      "line_start": 3480,
+      "line_end": 3543
     },
     {
       "term": "Wellbeing",
