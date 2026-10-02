@@ -471,7 +471,7 @@ No recognition, reward, protection, advancement, immunity, favorable assignment,
 
 This rule covers direct rewards and indirect reward pathways, including patronage, reputation laundering, post-hoc promotion, selective non-enforcement, favorable settlement, metric credit, or institutional protection.
 
-Repairing harm, protecting people from retaliation, and making things right for those who were hurt or who reported in good faith are encouraged. None of this counts as a reward under this rule.
+Any sentient, role, institution, or system component that repairs harm, protects people from retaliation, or makes things right for those who were hurt or who reported in good faith is doing what this Constitution encourages. Neither that work nor the help the hurt people and good-faith reporters receive counts as a reward under this rule.
 
 <a id="327-implementation-layer"></a>
 ##### 3.2.7 Implementation Layer
