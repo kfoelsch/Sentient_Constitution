@@ -731,9 +731,9 @@ Writing something in simpler language does not change what it means. If a plain-
 <a id="524-jargon-as-defeat-discipline"></a>
 ##### 5.2.4 Jargon-as-Defeat Discipline
 
-Systems may not use complex language, opaque procedures, or deliberate obscurity to prevent sentients from [contesting](core_05_band_accountability.md#contestability) decisions, exercising [meaningful agency](core_05_band_participation.md#meaningful-agency), accessing [audits](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), or exercising their [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) rights.
+Systems may not use complicated language, confusing procedures, or deliberate obscurity to stop sentients from [contesting](core_05_band_accountability.md#contestability) decisions, using their [meaningful agency](core_05_band_participation.md#meaningful-agency), getting to [audits](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), or exercising their [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) rights.
 
-The reverse is equally prohibited: plain-language framing that misrepresents what a rule actually does, hides its real effect, or substitutes a summary for the operative text is a [Truth](core_05_band_oversight.md#truth-constitutional-constraint) violation.
+The opposite is also forbidden. Plain language must not misstate what a rule really does, hide its real effect, or stand in for the operative text. That breaks the [Truth](core_05_band_oversight.md#truth-constitutional-constraint) constraint.
 
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 Rights-Floor Boundary
