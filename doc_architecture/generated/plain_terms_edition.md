@@ -241,7 +241,7 @@ wellbeing is not only what's forbidden and what's fair — shared systems should
 
 ###### 3.2.6 Anti-Reward for Anti-Constitutional Conduct
 
-repairing harm and protecting people who speak up honestly is the right response, and it should be encouraged. It is not rewarding bad conduct. Fixing the damage, shielding someone from retaliation, and making whole those who were hurt or who reported in good faith are exactly what the Constitution wants.
+no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the people who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.
 
 [Source](../../core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)
 

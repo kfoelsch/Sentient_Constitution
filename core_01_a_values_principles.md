@@ -465,13 +465,13 @@ They **must not** systematically reward harm, deception, avoidance of scrutiny, 
 <a id="326-anti-reward-for-anti-constitutional-conduct"></a>
 ##### 3.2.6 Anti-Reward for Anti-Constitutional Conduct
 
+*In plain terms: no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the people who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.*
+
 No recognition, reward, protection, advancement, immunity, favorable assignment, contract, access, status, reputation benefit, standing benefit, or comparable advantage may be granted because a sentient, role, institution, or system component committed, enabled, concealed, normalized, refused to correct, or retaliated for reporting anti-constitutional conduct.
 
 This rule covers direct rewards and indirect reward pathways, including patronage, reputation laundering, post-hoc promotion, selective non-enforcement, favorable settlement, metric credit, or institutional protection.
 
 Corrective, protective, or restorative measures for affected parties and good-faith protected reporters are not prohibited rewards.
-
-*In plain terms: repairing harm and protecting people who speak up honestly is the right response, and it should be encouraged. It is not rewarding bad conduct. Fixing the damage, shielding someone from retaliation, and making whole those who were hurt or who reported in good faith are exactly what the Constitution wants.*
 
 <a id="327-implementation-layer"></a>
 ##### 3.2.7 Implementation Layer
