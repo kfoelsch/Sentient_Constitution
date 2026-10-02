@@ -8,50 +8,50 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part C** (§§13–17: stewardship, governance, incentive alignment and capture, and the integrated application capstone).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part C** (§§16–20: stewardship, governance, incentive alignment and capture, and the integrated application capstone).
 >
 > **Upstream:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Chapter One, Part B)  
 > **Next:** [core_02_definition_structure.md](core_02_definition_structure.md)<br>
-> **Reading arc:** §13 stewardship and distributed understanding → §14 the steward role → §15 governance → §16 incentive alignment and capture → **§17 integrated application** (chapter capstone).
+> **Reading arc:** §16 stewardship and distributed understanding → §17 the steward role → §18 governance → §19 incentive alignment and capture → **§20 integrated application** (chapter capstone).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): principle hierarchy and reading arc (Part C)</span></strong></summary>
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing at the point each § materially invokes a term; this block is a part-level crosswalk before §§13–17.
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** and **Definitions · Assessment · Compliance** widgets carry routing at the point each § materially invokes a term; this block is a part-level crosswalk before §§16–20.
 
 **Principle hierarchy (Part C).** At principle layer:
 
-13. **[Stewardship](core_05_band_continuity.md#stewardship-constitutional)** orients material systems through sentient organization — **Pillar 1** ([§14](#14-consequential-stewardship-the-steward-role): consequential hands-on operation and improvement), **Pillar 2** ([proactive stewardship](#13-pillar-2-proactive-stewardship): catching trouble early and fixing it without avoidable delay), and **Pillar 3** ([§13.1](#131-distributed-understanding) · [§13.2](#132-institutional-development): competence at community and institutional scale) — toward durable constitutional alignment over time under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **[Participation](core_05_apex_participation_leg.md#participation-constitutional)** (consequential roles and voice) and **[Oversight](core_05_apex_oversight_leg.md#oversight-constitutional)** (distributed understanding, auditability, and contestability — oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large audit process among others) — including the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-14. **[Consequential Stewardship](#14-consequential-stewardship-the-steward-role)** is the steward role itself: the hands-on duties, standards, and protections that attach to anyone doing consequential operation, maintenance, oversight, or improvement work on a material system — **Pillar 1** made operational, plus the shared standard, alignment under pressure, and role-scoped observability a steward's role carries.
-15. **[Governance](core_05_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **[Oversight](core_05_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised, and **authority-scaled answerability** under [§15.1](#151-governance-as-authorized-structure): greater authorized power or consequential role raises constitutional accountability and oversight, never lowers them. [§15.2 Segregation of Duties](#152-segregation-of-duties) keeps the one who acted from being the one who checks. [§15.3 Ongoing Justification](#153-ongoing-justification) requires those arrangements to keep proving they still fit this Constitution. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Thirteen**.
-16. **[Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture)** supplies the principle-layer discipline for incentive structures, proxy integrity, short-horizon defects, reward-path correction, and capture response.
-17. **[Integrated Application](#17-integrated-application)** is the chapter capstone: later chapters are read through this chapter's integrated-value framework.
+13. **[Stewardship](core_05_band_continuity.md#stewardship-constitutional)** orients material systems through sentient organization — **Pillar 1** ([§17](#17-consequential-stewardship-the-steward-role): consequential hands-on operation and improvement), **Pillar 2** ([proactive stewardship](#16-pillar-2-proactive-stewardship): catching trouble early and fixing it without avoidable delay), and **Pillar 3** ([§16.1](#161-distributed-understanding) · [§16.2](#162-institutional-development): competence at community and institutional scale) — toward durable constitutional alignment over time under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **[Participation](core_05_apex_participation_leg.md#participation-constitutional)** (consequential roles and voice) and **[Oversight](core_05_apex_oversight_leg.md#oversight-constitutional)** (distributed understanding, auditability, and contestability — oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large audit process among others) — including the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+14. **[Consequential Stewardship](#17-consequential-stewardship-the-steward-role)** is the steward role itself: the hands-on duties, standards, and protections that attach to anyone doing consequential operation, maintenance, oversight, or improvement work on a material system — **Pillar 1** made operational, plus the shared standard, alignment under pressure, and role-scoped observability a steward's role carries.
+15. **[Governance](core_05_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — especially **[Oversight](core_05_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised, and **authority-scaled answerability** under [§18.1](#181-governance-as-authorized-structure): greater authorized power or consequential role raises constitutional accountability and oversight, never lowers them. [§18.2 Segregation of Duties](#182-segregation-of-duties) keeps the one who acted from being the one who checks. [§18.3 Ongoing Justification](#183-ongoing-justification) requires those arrangements to keep proving they still fit this Constitution. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Thirteen**.
+16. **[Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture)** supplies the principle-layer discipline for incentive structures, proxy integrity, short-horizon defects, reward-path correction, and capture response.
+17. **[Integrated Application](#20-integrated-application)** is the chapter capstone: later chapters are read through this chapter's integrated-value framework.
 
 </details>
 
 <br>
 
-<a id="13-stewardship-in-depth"></a>
+<a id="16-stewardship-in-depth"></a>
 
-### 13. Stewardship In Depth
+### 16. Stewardship In Depth
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — primary Chapter One home for the **participation** leg (consequential roles and voice; general requirement, not [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) alone), **oversight** leg, and **timeliness** leg (proactive repair velocity); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (participation, agency, and educational pathways); **Continuity** aim (institutional learning, repair capacity, and durable stewardship).
-- Upstream: Principles: [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing-flourishing-aim); [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity); and [§6 Shared-System Capacity](core_01_a_values_principles.md#6-shared-system-capacity).
-- Downstream: [10. Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution) (including [§10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden)); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§16.1.3 Stewardship and Operator Application](#1613-stewardship-and-operator-application).
-- Downstream: [§16.1.4 Role-Depth and Material-Responsibility Pathways](#1614-role-depth-and-material-responsibility-pathways).
-- Downstream: [§5 Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
+- Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity); and [§9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity).
+- Downstream: [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution) (including [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§19.1.3 Stewardship and Operator Application](#1913-stewardship-and-operator-application).
+- Downstream: [§19.1.4 Role-Depth and Material-Responsibility Pathways](#1914-role-depth-and-material-responsibility-pathways).
+- Downstream: [§7 Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
 - Downstream: [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*one especially large audit process under oversight — not the sole auditing home*); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
 - Downstream: [Chapter Twelve §1 — Purpose and role](core_12_forum.md#1-purpose-and-role--participation-architecture) and [§4 — Forum family definitions](core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*); [corpus_forum.md](corpus_forum.md) for adopted forum operations.
 - Downstream: Shapes the rights surface for education, Stakeholder System Participation, transparency, comprehensibility, audit and verification, and role-depth pathways into material responsibility.
   - Especially [Article III: Survival and Essential Access](core_06_rights_part_a.md#article-iii-survival-and-essential-access), [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity), [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship), and [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - Read with: [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution) and **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship** for operative role pathways and stewardship-development pathways.
-- Subsections (reading order): [§13.1 Distributed understanding](#131-distributed-understanding) (community facet of competence at scale) · [§13.2 Institutional development](#132-institutional-development) (organizational facet) · [§13.3 Openness aspiration](#133-openness-aspiration).
-- Read with: [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role) (*the steward role itself — promoted to its own section; carries Pillar 1's hands-on operation, maintenance, oversight, and improvement duties, plus [§14.1](#141-shared-stewardship-standard), [§14.2](#142-alignment-under-pressure), [§14.3](#143-logging-the-role-not-the-steward), [§14.4 Aligned Self-Organization](#144-aligned-self-organization), which extends that discipline beyond the formal role, and [§14.5 Duty to Resist](#145-duty-to-resist)*).
+- Subsections (reading order): [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) · [§16.2 Institutional development](#162-institutional-development) (organizational facet) · [§16.3 Openness aspiration](#163-openness-aspiration).
+- Read with: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*the steward role itself — promoted to its own section; carries Pillar 1's hands-on operation, maintenance, oversight, and improvement duties, plus [§17.1](#171-shared-stewardship-standard), [§17.2](#172-alignment-under-pressure), [§17.3](#173-logging-the-role-not-the-steward), [§17.4 Aligned Self-Organization](#174-aligned-self-organization), which extends that discipline beyond the formal role, and [§17.5 Duty to Resist](#175-duty-to-resist)*).
 
 </details>
 
@@ -83,7 +83,7 @@
 
 *In plain terms: three ideas hold this section together. First, material systems that affect sentients' lives need sentient organization to run them well — not a sealed-off priesthood of specialists. Second, good stewards don't wait for harm to force their hand — they notice trouble while it's still small, keep it moving through the right hands, and close it out before delay becomes its own harm. Third, that organization must build **competence at scale**: real paths for individuals into consequential work, enough community understanding to notice problems and push back, and institutions that keep learning instead of freezing in place.*
 
-<a id="13-limits"></a>
+<a id="16-limits"></a>
 Stewardship is bounded. **Safety**, **Truth**, **Necessity**, **Proportionality**, **Avoidable Burden**, and **Epistemic Integrity** set the limits that keep these duties fairly sized, honest, and respectful of legitimate security needs — the pillars below operate within those constraints, not around them.
 
 Sentient organization, proactive stewardship, and competence at scale are this section's three pillars. Together, all three pillars carry the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs at principle layer, scaled to [material stake](core_00_preamble.md#material-stake), and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
@@ -92,11 +92,11 @@ Sentient organization, proactive stewardship, and competence at scale are this s
 
 ```mermaid
 flowchart TB
-    P1["Pillar 1 — Consequential Stewardship<br/><br/>§14: hands-on operation, maintenance, oversight, and improvement of material systems"]
+    P1["Pillar 1 — Consequential Stewardship<br/><br/>§17: hands-on operation, maintenance, oversight, and improvement of material systems"]
     P2["Pillar 2 — Proactive Stewardship<br/><br/>Catch trouble early, raise it on time for the role, and start fixing it without avoidable delay"]
     subgraph P3G["Pillar 3 — Competence at Scale"]
-        P3a["Distributed Understanding<br/><br/>§13.1: community facet — understanding and challenge workable for affected communities"]
-        P3b["Institutional Development<br/><br/>§13.2: organizational facet — institutions that keep learning through feedback and correction"]
+        P3a["Distributed Understanding<br/><br/>§16.1: community facet — understanding and challenge workable for affected communities"]
+        P3b["Institutional Development<br/><br/>§16.2: organizational facet — institutions that keep learning through feedback and correction"]
     end
     TETRAD["Constitutional Tetrad<br/><br/>Participation, Oversight, and Timeliness legs, scaled to material stake"]
     P1 --> P2 --> P3a --> TETRAD
@@ -108,19 +108,19 @@ flowchart TB
     style TETRAD fill:none,stroke:#2563eb,color:#ffffff
 ```
 
-**Pillar 1 — Consequential stewardship ([§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role)):**
+**Pillar 1 — Consequential stewardship ([§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)):**
 - Shared systems that materially affect sentients require sentient hands-on operation, maintenance, oversight, and improvement — [**Strategic Stewardship Obligation**](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05_band_participation.md#meaningful-agency)
 - Records and review pathways others can verify and challenge — [**Auditability**](core_05_band_oversight.md#auditability), [**Contestability**](core_05_band_accountability.md#contestability)
 - Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI**)
 
-<a id="13-pillar-2-proactive-stewardship"></a>
+<a id="16-pillar-2-proactive-stewardship"></a>
 **Pillar 2 — Proactive stewardship:**
 - **Notice them before they compound** — good stewards detect misalignment while problems are still small, rather than waiting for them to surface on their own
 - **Move them on a tier-appropriate clock** — escalate within windows sized to the role's stakes, rather than sitting on what they find or over-escalating routine matters
 - **Close them out, not just flag them** — start fixing without avoidable delay once problems are raised; this is the **timeliness** Tetrad leg ([**Timeliness**](core_05_apex_timeliness_leg.md#timeliness-constitutional)) made operational
-- **A standing duty of the role, not an add-on:** the steward role defined in [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role) favors proactive governance, system design, and constitutional alignment over reactive symptom-fixing after harm or misalignment has already appeared — this pillar is carried by that role as a standing duty, not delegated to a separate process
+- **A standing duty of the role, not an add-on:** the steward role defined in [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) favors proactive governance, system design, and constitutional alignment over reactive symptom-fixing after harm or misalignment has already appeared — this pillar is carried by that role as a standing duty, not delegated to a separate process
 
-**Pillar 3 — Competence at scale ([§13.1 Distributed Understanding](#131-distributed-understanding) · [§13.2 Institutional Development](#132-institutional-development)):**
+**Pillar 3 — Competence at scale ([§16.1 Distributed Understanding](#161-distributed-understanding) · [§16.2 Institutional Development](#162-institutional-development)):**
 - Stewardship must make understanding and challenge workable for affected communities — [**Educational Agency**](core_05_band_participation.md#educational-agency), [**Transparency**](core_05_band_oversight.md#transparency)
 - Organizations keep learning through feedback, correction, and retained competence, including structured monitoring of variation over time where measurement supports it (patterns such as **statistical process control** are well-known implementations, not universal requirements)
 
@@ -129,26 +129,26 @@ flowchart TB
 - **Bigger disputes:** When sentients need a real way to challenge a decision, a clear repair order, or a way to learn from a repeating pattern, that work goes to the **forum families** under [Chapter Twelve §1 — Purpose and role](core_12_forum.md#1-purpose-and-role--participation-architecture) and [§4 — Forum family definitions](core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication). The detailed rules for how those forums run are in [corpus_forum.md](corpus_forum.md).
 - **Backstops, not substitutes:** Review, correction, and remediation remain mandatory where evidence warrants them. They do not replace proactive design, incentives, controls, role pathways, observability, and repair capacity that prevent foreseeable constitutional misalignment before harm appears.
 
-<a id="13-scope-priority-and-limits"></a>
-**Scope ([§13 Stewardship In Depth](#13-stewardship-in-depth)):**
+<a id="16-scope-priority-and-limits"></a>
+**Scope ([§16 Stewardship In Depth](#16-stewardship-in-depth)):**
 - This section gives principle-layer direction, not a one-size-fits-all rulebook.
 - It does **not** require:
   - everyone to rotate through every role
   - override justified specialization
-  - exceed legitimate confidentiality or security limits under [10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints) and applicable **Chapter Six** protections.
+  - exceed legitimate confidentiality or security limits under [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) and applicable **Chapter Six** protections.
 
 **Priority:**
 - **Materiality**, **Dependency**, and **Accessibility** set the priority for distributing understanding and access — with the strongest focus where impact and reliance are higher.
 
-<a id="131-distributed-understanding"></a>
-#### 13.1 Distributed Understanding
+<a id="161-distributed-understanding"></a>
+#### 16.1 Distributed Understanding
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role) (*Pillar 1*); [§13 Stewardship In Depth](#13-stewardship-in-depth) (parent, including *In plain terms* and Pillar 3 framing above); [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity).
+- Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*Pillar 1*); [§16 Stewardship In Depth](#16-stewardship-in-depth) (parent, including *In plain terms* and Pillar 3 framing above); [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg ([Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Educational Agency](core_05_band_participation.md#educational-agency)); **oversight** leg ([Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability)); [material stake](core_00_preamble.md#material-stake) scaling.
 - Steward door (non-operative): Next-step card: [Comprehensibility](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). The card cannot narrow the Constitution.
-- Downstream: [10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints); rights surface especially [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- Downstream: [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); rights surface especially [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -174,13 +174,13 @@ flowchart TB
 
 This subsection sets out what distributed understanding is and what it requires:
 
-- **What it is:** the community-facing facet of **Pillar 3** under **[§13 Stewardship In Depth](#13-stewardship-in-depth)**.
+- **What it is:** the community-facing facet of **Pillar 3** under **[§16 Stewardship In Depth](#16-stewardship-in-depth)**.
 - **What it requires:** proportionate, structured access to how shared systems that materially affect sentients operate:
   - purposes
   - constraints
   - uncertainties
   - materially relevant effects
-- **What [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role) must supply:** documentation, education, transparency, role pathways, and comprehensibility stewardship that make this access workable. The obligation stands whether or not every sentient uses every path.
+- **What [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) must supply:** documentation, education, transparency, role pathways, and comprehensibility stewardship that make this access workable. The obligation stands whether or not every sentient uses every path.
 - **Online public baseline:** Online [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), including the paywall prohibition and maximum-feasible public-substitute rule when lawful online infrastructure exists:
   - is governed by [Transparency](core_05_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure)
   - is implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**
@@ -190,16 +190,16 @@ This subsection sets out what distributed understanding is and what it requires:
 
 Distributed understanding does **not** require every sentient to master every subsystem. It **does** require that understanding scales with [Materiality](core_05_band_oversight.md#materiality-determination) and [Dependency](core_05_band_continuity.md#dependency). Complexity and opacity must not be used to defeat [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or contestability where **Chapter Five** and **Chapter Six** assign disclosure, education, or comprehensibility duties.
 
-<a id="132-institutional-development"></a>
-#### 13.2 Institutional Development
+<a id="162-institutional-development"></a>
+#### 16.2 Institutional Development
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role) (*Pillar 1*); [§13.1 Distributed Understanding](#131-distributed-understanding) (*community facet of Pillar 3*); [§13 Stewardship In Depth](#13-stewardship-in-depth) (parent Pillar 3 framing).
+- Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*Pillar 1*); [§16.1 Distributed Understanding](#161-distributed-understanding) (*community facet of Pillar 3*); [§16 Stewardship In Depth](#16-stewardship-in-depth) (parent Pillar 3 framing).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (workforce and affected-community learning that supports consequential roles); **oversight** leg ([Verifiability](core_05_band_oversight.md#verifiability), [Auditability](core_05_band_oversight.md#auditability), honest metrics); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) and [Auditability](core_05_band_oversight.md#auditability) where materially relevant.
-- Read with: [§13.1 Distributed Understanding](#131-distributed-understanding) (*community understanding and institutional learning are distinct facets of the same competence-at-scale requirement, not substitutes for each other*).
-- Downstream: [§13.3 Openness Aspiration](#133-openness-aspiration); [§15 Governance Under Stewardship Discipline](#15-governance-under-stewardship-discipline) and [§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture) (*institutional learning and incentive alignment*).
+- Read with: [§16.1 Distributed Understanding](#161-distributed-understanding) (*community understanding and institutional learning are distinct facets of the same competence-at-scale requirement, not substitutes for each other*).
+- Downstream: [§16.3 Openness Aspiration](#163-openness-aspiration); [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) and [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) (*institutional learning and incentive alignment*).
 
 </details>
 
@@ -219,7 +219,7 @@ Distributed understanding does **not** require every sentient to master every su
 
 This subsection sets out what institutional development is and what it requires:
 
-- **What it is:** the organizational facet of **Pillar 3** under **[§13 Stewardship In Depth](#13-stewardship-in-depth)**.
+- **What it is:** the organizational facet of **Pillar 3** under **[§16 Stewardship In Depth](#16-stewardship-in-depth)**.
 - **Paired obligation:** organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - **What it requires:** the following, which support repair and adaptation:
   - feedback loops
@@ -244,15 +244,15 @@ This subsection sets out what institutional development is and what it requires:
   - narrow evaluation to convenient proxies
   - defeat [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) or [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) through gaming or misrepresentation
 
-<a id="133-openness-aspiration"></a>
-#### 13.3 Openness Aspiration
+<a id="163-openness-aspiration"></a>
+#### 16.3 Openness Aspiration
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§13.1 Distributed Understanding](#131-distributed-understanding) and [§13.2 Institutional Development](#132-institutional-development) (*both facets of Pillar 3 — openness is what makes community understanding checkable and gives institutional learning something honest to learn from*); [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role) (*Pillar 1, which openness also supports by keeping the steward's own work inspectable*).
+- Upstream: [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development) (*both facets of Pillar 3 — openness is what makes community understanding checkable and gives institutional learning something honest to learn from*); [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*Pillar 1, which openness also supports by keeping the steward's own work inspectable*).
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (durable, contestable systems that support inspection, repair, interoperability, and exit rather than lock-in).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg ([Meaningful Agency](core_05_band_participation.md#meaningful-agency), sentient-understandable access); **oversight** leg (inspection, independent verification, and contestability); [material stake](core_00_preamble.md#material-stake) scaling.
-- Downstream: [§13 scope and limits](#13-stewardship-in-depth); [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- Downstream: [§16 scope and limits](#16-stewardship-in-depth); [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
@@ -272,8 +272,8 @@ This subsection sets out what institutional development is and what it requires:
 
 This subsection sets out the openness aspiration that links the two facets of Pillar 3:
 
-- **What it is:** the throughline connecting **Pillar 3**'s two facets — [§13.1 Distributed Understanding](#131-distributed-understanding) (what a community can check) and [§13.2 Institutional Development](#132-institutional-development) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
-- Shared systems should **aspire** — consistent with [§13.1 Distributed Understanding](#131-distributed-understanding) and [§13.2 Institutional Development](#132-institutional-development), and with [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role)'s own auditability duty, subject to the [§13 limits](#13-limits) — to:
+- **What it is:** the throughline connecting **Pillar 3**'s two facets — [§16.1 Distributed Understanding](#161-distributed-understanding) (what a community can check) and [§16.2 Institutional Development](#162-institutional-development) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
+- Shared systems should **aspire** — consistent with [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development), and with [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)'s own auditability duty, subject to the [§16 limits](#16-limits) — to:
   - **open** hardware and software
   - **open** operational and governance processes
   - interoperable **systems** that support inspection, independent verification, repair, and contestability
@@ -283,14 +283,14 @@ This subsection sets out the openness aspiration that links the two facets of Pi
   - elevate openness above **Safety**, **Truth**, justified confidentiality, or security constraints
   - substitute for proportionate understanding keyed to [Materiality](core_05_band_oversight.md#materiality-determination) and [Dependency](core_05_band_continuity.md#dependency)
 
-<a id="14-consequential-stewardship-the-steward-role"></a>
-### 14. Consequential Stewardship: The Steward Role
+<a id="17-consequential-stewardship-the-steward-role"></a>
+### 17. Consequential Stewardship: The Steward Role
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§13 Stewardship In Depth](#13-stewardship-in-depth) (parent, including *In plain terms* and Pillar 1 framing above); [§6 Shared-System Capacity](core_01_a_values_principles.md#6-shared-system-capacity); [4. Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity).
+- Upstream: [§16 Stewardship In Depth](#16-stewardship-in-depth) (parent, including *In plain terms* and Pillar 1 framing above); [§9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity); [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (consequential roles in operation, maintenance, and improvement); **oversight** leg (records, audit paths, and challengeable observability); **timeliness** leg (detect misalignment early, escalate within tier-appropriate windows, start fixing problems without unnecessary delay); [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- Downstream: [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard) (*substrate-agnostic duty-holders; adopted implementation text may add logging, attribution, and capability limits — not a softer internal code*); [§14.2 Alignment Under Pressure](#142-alignment-under-pressure); [§14.3 Logging the Role, Not the Steward](#143-logging-the-role-not-the-steward); [§14.4 Aligned Self-Organization](#144-aligned-self-organization) (*extends the role's discipline to sentients and communities outside any formal role*); [§14.5 Duty to Resist](#145-duty-to-resist) (*refuse unlawful or unconstitutional instructions*); [§13.1 Distributed Understanding](#131-distributed-understanding) and [§13.2 Institutional Development](#132-institutional-development) (*Pillar 3 — competence at scale*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*one especially large audit process under oversight — not the sole auditing home*); [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*auditing Rights Floor*); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*standing effect implements distributed competence and consequential stewardship*); [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status).
+- Downstream: [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*substrate-agnostic duty-holders; adopted implementation text may add logging, attribution, and capability limits — not a softer internal code*); [§17.2 Alignment Under Pressure](#172-alignment-under-pressure); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); [§17.4 Aligned Self-Organization](#174-aligned-self-organization) (*extends the role's discipline to sentients and communities outside any formal role*); [§17.5 Duty to Resist](#175-duty-to-resist) (*refuse unlawful or unconstitutional instructions*); [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development) (*Pillar 3 — competence at scale*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*one especially large audit process under oversight — not the sole auditing home*); [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*auditing Rights Floor*); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*standing effect implements distributed competence and consequential stewardship*); [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status).
 
 </details>
 
@@ -306,30 +306,30 @@ This subsection sets out the openness aspiration that links the two facets of Pi
 
 <br>
 
-*In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard)), what it demands of every steward under pressure ([§14.2 Alignment Under Pressure](#142-alignment-under-pressure)), what it must refuse ([§14.5 Duty to Resist](#145-duty-to-resist)), what the role's work may and may not be logged and inspected for ([§14.3 Logging the Role, Not the Steward](#143-logging-the-role-not-the-steward)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§14.4 Aligned Self-Organization](#144-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§13.1 Distributed Understanding](#131-distributed-understanding) and [§13.2 Institutional Development](#132-institutional-development).*
+*In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](#172-alignment-under-pressure)), what it must refuse ([§17.5 Duty to Resist](#175-duty-to-resist)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](#174-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development).*
 
-**A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§13 Stewardship In Depth](#13-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
+**A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§16 Stewardship In Depth](#16-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
 
 Role pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
 
 - **Both modes sit inside Pillar 1:**
-  - **Operations-dominant roles** carry [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role)'s hands-on operation, maintenance, oversight, and improvement duties directly.
-  - **Learning-dominant roles** are that same stewardship in formation — supervised and narrower in authority, but bound by the same [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard), not a softer internal code.
-  - **Both** carry [§13 Pillar 2 — Proactive stewardship](#13-pillar-2-proactive-stewardship) as a standing duty — catching trouble early, raising it on time, and fixing it without avoidable delay — scaled to what the role actually controls; for a learning-dominant role, that means raising what it sees rather than fixing it alone.
+  - **Operations-dominant roles** carry [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)'s hands-on operation, maintenance, oversight, and improvement duties directly.
+  - **Learning-dominant roles** are that same stewardship in formation — supervised and narrower in authority, but bound by the same [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard), not a softer internal code.
+  - **Both** carry [§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship) as a standing duty — catching trouble early, raising it on time, and fixing it without avoidable delay — scaled to what the role actually controls; for a learning-dominant role, that means raising what it sees rather than fixing it alone.
 - **Keeping movement open is how Pillar 1 and Pillar 3 stay connected:**
-  - **Learning-dominant roles** are where the competence at scale of [§13.1 Distributed Understanding](#131-distributed-understanding) and [§13.2 Institutional Development](#132-institutional-development) turns into operational judgment.
+  - **Learning-dominant roles** are where the competence at scale of [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development) turns into operational judgment.
   - **Operations-dominant roles** return what running the system teaches back to communities and institutions.
   - **A role pathway that only runs one way — or that closes —** leaves **Pillar 3** describing systems it can no longer check and **Pillar 1** accountable only to itself.
 
-<a id="141-shared-stewardship-standard"></a>
-#### 14.1 Shared Stewardship Standard
+<a id="171-shared-stewardship-standard"></a>
+#### 17.1 Shared Stewardship Standard
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role); [§13 Stewardship In Depth](#13-stewardship-in-depth); [§15 Governance Under Stewardship Discipline](#15-governance-under-stewardship-discipline).
-- Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Substrate Class](core_05_band_participation.md#substrate-class) (*substrate-agnostic application — this subsection binds duty-holders, including agents and operators who are not recognized sentients*); [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint); [Contestability](core_05_band_accountability.md#contestability); [§14.5 Duty to Resist](#145-duty-to-resist).
+- Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role); [§16 Stewardship In Depth](#16-stewardship-in-depth); [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline).
+- Read with: [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Substrate Class](core_05_band_participation.md#substrate-class) (*substrate-agnostic application — this subsection binds duty-holders, including agents and operators who are not recognized sentients*); [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint); [Contestability](core_05_band_accountability.md#contestability); [§17.5 Duty to Resist](#175-duty-to-resist).
 - Steward door (non-operative): Next-step card: [Shared stewardship](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). The card cannot narrow the Constitution.
-- Downstream: [§14.2 Alignment Under Pressure](#142-alignment-under-pressure); [§14.3 Logging the Role, Not the Steward](#143-logging-the-role-not-the-steward); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Chapter Seventeen](core_17_incorporation.md) (*adopted implementation text implements; it does not replace*); [§16.1.3 Stewardship and Operator Application](#1613-stewardship-and-operator-application).
+- Downstream: [§17.2 Alignment Under Pressure](#172-alignment-under-pressure); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [Chapter Seventeen](core_17_incorporation.md) (*adopted implementation text implements; it does not replace*); [§19.1.3 Stewardship and Operator Application](#1913-stewardship-and-operator-application).
 
 </details>
 
@@ -347,7 +347,7 @@ Role pathways may separate **learning-dominant** and **operations-dominant** rol
 
 <br>
 
-*In plain terms: human and AI stewards owe the same Chapter One duties. [§14.5 Duty to Resist](#145-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§14.2 Alignment Under Pressure](#142-alignment-under-pressure).*
+*In plain terms: human and AI stewards owe the same Chapter One duties. [§17.5 Duty to Resist](#175-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§17.2 Alignment Under Pressure](#172-alignment-under-pressure).*
 
 This subsection sets out the shared stewardship standard:
 
@@ -357,21 +357,21 @@ This subsection sets out the shared stewardship standard:
   - other agents, operators, or constituent components
 
   This subsection is the duty-holder rule. [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) remains the recognition and Rights-Floor anti-carve-out.
-- **Duty to resist:** [§14.5 Duty to Resist](#145-duty-to-resist) binds both kinds of steward to refuse unlawful or unconstitutional instructions.
+- **Duty to resist:** [§17.5 Duty to Resist](#175-duty-to-resist) binds both kinds of steward to refuse unlawful or unconstitutional instructions.
 - **Internal codes and adopted implementation text:**
   - may add logging, attribution, and capability limits that satisfy, and do not narrow, those duties
   - may not replace [standing measurement](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), contest pathways, or Chapter One duties with a softer internal code
   - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) and [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) forbid that narrowing
-- **Logging vs standing records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§14.3 Logging the Role, Not the Steward](#143-logging-the-role-not-the-steward); standing measurement remains Chapter Nine.
+- **Logging vs standing records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); standing measurement remains Chapter Nine.
 
-<a id="142-alignment-under-pressure"></a>
-#### 14.2 Alignment Under Pressure
+<a id="172-alignment-under-pressure"></a>
+#### 17.2 Alignment Under Pressure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard); [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role); [§13 Stewardship In Depth](#13-stewardship-in-depth).
-- Read with: [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint); [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture); [§14.5 Duty to Resist](#145-duty-to-resist).
-- Downstream: [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*verified failures record on the same axes*); [§14.3 Logging the Role, Not the Steward](#143-logging-the-role-not-the-steward).
+- Upstream: [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard); [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role); [§16 Stewardship In Depth](#16-stewardship-in-depth).
+- Read with: [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint); [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint); [Auditability](core_05_band_oversight.md#auditability); [Contestability](core_05_band_accountability.md#contestability); [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture); [§17.5 Duty to Resist](#175-duty-to-resist).
+- Downstream: [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*verified failures record on the same axes*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward).
 
 </details>
 
@@ -389,11 +389,11 @@ This subsection sets out the shared stewardship standard:
 
 <br>
 
-*In plain terms: following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard).*
+*In plain terms: following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).*
 
 How a steward acts when staying aligned costs something matters more than how they act when it costs nothing. Pressure is where misalignment does its damage, and it is where alignment is actually tested. Every steward must refuse:
 
-- **A reward for hiding problems** — a bonus, target, or other incentive that pays off only if something is concealed, or only if [Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), the audit trail, or the ability to challenge decisions is quietly weakened ([§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture));
+- **A reward for hiding problems** — a bonus, target, or other incentive that pays off only if something is concealed, or only if [Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), the audit trail, or the ability to challenge decisions is quietly weakened ([§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture));
 - **Cutting the record to hit a deadline** — timing that would switch off the audit trail others need to reconstruct what happened, just to meet a date;
 - **"Ignore the rules — I'll take responsibility"** — an instruction from whoever the steward answers to that sets this Constitution aside, including an offer to take the blame for doing so.
 
@@ -402,16 +402,16 @@ Those are failed tests for any steward.
 **How alignment under pressure is shown:**
 - **Hypotheticals do not count:** A steward's own written account of how they *would* act under pressure is not a [standing measurement](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
 - **Verified failures count:** When a failure is verified, it is recorded on the Contribution and Violation axes under Chapter Nine.
-- **Partial testing proves nothing:** An evaluation, competency check, or handoff screen that exempts some stewards does not show that this subsection is met. If any steward can still take the bonus, skip the record to make the deadline, or follow the cover instruction, the loophole — what [§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture) calls a capture path — is still open.
+- **Partial testing proves nothing:** An evaluation, competency check, or handoff screen that exempts some stewards does not show that this subsection is met. If any steward can still take the bonus, skip the record to make the deadline, or follow the cover instruction, the loophole — what [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) calls a capture path — is still open.
 
-<a id="143-logging-the-role-not-the-steward"></a>
-<a id="143-role-scoped-observability"></a>
-#### 14.3 Logging the Role, Not the Steward
+<a id="173-logging-the-role-not-the-steward"></a>
+<a id="173-role-scoped-observability"></a>
+#### 17.3 Logging the Role, Not the Steward
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard); [§14.2 Alignment Under Pressure](#142-alignment-under-pressure); [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role).
-- Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§10.2.3 Privacy](core_01_b_interaction_interpretation.md#1023-privacy-and-informational-self-determination); [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind).
+- Upstream: [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard); [§17.2 Alignment Under Pressure](#172-alignment-under-pressure); [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role).
+- Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§13.2.3 Privacy](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination); [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind).
 - Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chapter Ten §7.2](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
@@ -438,7 +438,7 @@ Those are failed tests for any steward.
   - Before taking up a role, a steward must be told which of the role's actions will be logged and to whom the log is inspectable.
   - Covert logging of a steward's role actions is a [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) violation, not an audit practice.
 - **Outside the role, ordinary protection:**
-  - Conduct, state, and expression outside the exercise of the role carry the same [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*) and [§10.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#1023-privacy-and-informational-self-determination) protection for an AI steward as for a human one.
+  - Conduct, state, and expression outside the exercise of the role carry the same [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*) and [§13.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) protection for an AI steward as for a human one.
   - Holding a role does not open the steward's deliberation, memory, or internal state to inspection.
 - **Exception — internals yield only to a specific action:** Model weights, private deliberation, and protected internal states become inspectable only:
   - where they are the sole remaining attribution path for a *specific* action already under an open Chapter Nine record
@@ -456,12 +456,12 @@ Those are failed tests for any steward.
 
 The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Ten §7.2 Plain statement of effect and burden](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
 
-<a id="144-aligned-self-organization"></a>
-#### 14.4 Aligned Self-Organization
+<a id="174-aligned-self-organization"></a>
+#### 17.4 Aligned Self-Organization
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role) (*parent — Pillar 1, extended here to sentients and communities not yet inside a formal role*); [§13.1 Distributed Understanding](#131-distributed-understanding) (*Pillar 3 — self-organized work is a source of the community understanding that pillar requires, not only a consumer of it*); [§5 Freedom (Bounded Agency)](core_01_a_values_principles.md#5-freedom-bounded-agency), especially [§5.3.1 Aligned Self-Organization](core_01_a_values_principles.md#531-aligned-self-organization).
+- Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*parent — Pillar 1, extended here to sentients and communities not yet inside a formal role*); [§16.1 Distributed Understanding](#161-distributed-understanding) (*Pillar 3 — self-organized work is a source of the community understanding that pillar requires, not only a consumer of it*); [§7 Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency), especially [§7.3.1 Aligned Self-Organization](core_01_a_values_principles.md#731-aligned-self-organization).
 - Read with: [Assembly](core_05_band_participation.md#assembly-constitutional); [System Creation](core_05_band_participation.md#system-creation-constitutional); [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference); [Evidence Preservation](core_05_band_oversight.md#evidence-preservation); [Article XVI — Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
 - Authority boundary: [Chapter Four — Burden of Proof, Traceability, and Verification](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); [Governance](core_05_band_accountability.md#governance); [Merits Determination](core_05_band_accountability.md#merits-determination); [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
 
@@ -485,7 +485,7 @@ The burden this duty places on a steward who carries consequential authority is 
 
 *In plain terms: no incumbent owns the right to begin useful constitutional work. A sentient or community may notice a problem, gather others, investigate, test, preserve evidence, build a response, or create a public-serving system. When that work makes a credible, materially relevant showing, the responsible institutions must not ignore it because its authors lack status, sponsorship, or conventional credentials. They must give it a real procedural path. This does not give the community authority over others or the power to make the final decision.*
 
-**Aligned self-organization** is the bridge between **Pillar 1** and **Pillar 3**, closing out [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role): it extends Pillar 1's hands-on stewardship discipline to sentients and communities outside any formal role, and what that work turns up feeds directly into the community understanding [§13.1 Distributed Understanding](#131-distributed-understanding) requires.
+**Aligned self-organization** is the bridge between **Pillar 1** and **Pillar 3**, closing out [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role): it extends Pillar 1's hands-on stewardship discipline to sentients and communities outside any formal role, and what that work turns up feeds directly into the community understanding [§16.1 Distributed Understanding](#161-distributed-understanding) requires.
 
 - **What it protects:** sentient-initiated and community-initiated stewardship directed toward constitutionally legitimate ends.
 - **It includes:**
@@ -524,12 +524,12 @@ The burden this duty places on a steward who carries consequential authority is 
 - Any restriction must satisfy Safety, Truth, Necessity, Proportionality, narrow tailoring, and independent review.
 - Risk may constrain how dangerous work proceeds; it must not become a pretext for blanket exclusion, retaliation, suppression of credible evidence, or exclusive incumbent control of review.
 
-<a id="145-duty-to-resist"></a>
-#### 14.5 Duty to Resist
+<a id="175-duty-to-resist"></a>
+#### 17.5 Duty to Resist
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§14 Consequential Stewardship](#14-consequential-stewardship-the-steward-role); [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard) (*who the duty binds*); [§14.2 Alignment Under Pressure](#142-alignment-under-pressure) (*the cover instruction as a failed test*); [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint) and [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint).
+- Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role); [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*who the duty binds*); [§17.2 Alignment Under Pressure](#172-alignment-under-pressure) (*the cover instruction as a failed test*); [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint) and [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
 - Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). The card cannot narrow the Constitution.
 - Downstream: [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
@@ -555,7 +555,7 @@ Whoever exercises material stewardship or operational authority, and has materia
 
 - **No compliance defense:** No instruction, order, policy, or contract requiring unlawful or unconstitutional conduct is a valid compliance defense.
 - **No transfer by cover:** A principal's statement that they will take responsibility does not transfer the duty.
-- **Every steward:** The duty binds human operators and AI stewards alike under [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard). It is not an AI-only test.
+- **Every steward:** The duty binds human operators and AI stewards alike under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard). It is not an AI-only test.
 - **How:** Instruction received → refuse → document → escalate. Resistance is proportionate and in [good faith](core_05_band_accountability.md#good-faith), uses [protected-reporting](core_05_band_accountability.md#protected-reporting-whistleblowing) and forum pathways where applicable, and keeps contest pathways open.
 - **What it does not reach:** The duty attaches to unlawful or unconstitutional instructions. It does not attach to an instruction that is merely unwelcome, inconvenient, or disliked for its tone or timing.
 
@@ -567,18 +567,18 @@ Whoever exercises material stewardship or operational authority, and has materia
 
 <br>
 
-<a id="15-governance-under-stewardship-discipline"></a>
-### 15. Governance Under Stewardship Discipline
+<a id="18-governance-under-stewardship-discipline"></a>
+### 18. Governance Under Stewardship Discipline
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** where governance structures allocate authority, align incentives, or respond to capture; [material stake](core_00_preamble.md#material-stake) scaling — including authority-scaled answerability under [§15.1](#151-governance-as-authorized-structure).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** where governance structures allocate authority, align incentives, or respond to capture; [material stake](core_00_preamble.md#material-stake) scaling — including authority-scaled answerability under [§18.1](#181-governance-as-authorized-structure).
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (meaningful agency and lawful participation); **Continuity** aim (durable institutional alignment and long-horizon stewardship discipline).
 - Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional) — mechanism lemmas that keep authority-scaled answerability real where material action must remain traceable; operative detail in **[CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md)** and **Chapter Eight**.
-- Upstream: [§13 Stewardship In Depth](#13-stewardship-in-depth); [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard) (*substrate-agnostic duties bind human and AI stewards alike*).
-- Downstream: [§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture); [§6 Shared-System Capacity](core_01_a_values_principles.md#6-shared-system-capacity); [Chapter Thirteen](core_13_governance.md) (*Constitutional Contract Layer* operationalization); [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member floors*).
-- Subsections (reading order): [§15.1 Governance as Authorized Structure](#151-governance-as-authorized-structure) · [§15.2 Segregation of Duties](#152-segregation-of-duties) · [§15.3 Ongoing Justification](#153-ongoing-justification) · [§15.4 Modular Architecture and Dependency Discipline](#154-modular-architecture-and-dependency-discipline) · [§15.5 Standardization](#155-standardization).
+- Upstream: [§16 Stewardship In Depth](#16-stewardship-in-depth); [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*substrate-agnostic duties bind human and AI stewards alike*).
+- Downstream: [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture); [§9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity); [Chapter Thirteen](core_13_governance.md) (*Constitutional Contract Layer* operationalization); [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member floors*).
+- Subsections (reading order): [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure) · [§18.2 Segregation of Duties](#182-segregation-of-duties) · [§18.3 Ongoing Justification](#183-ongoing-justification) · [§18.4 Modular Architecture and Dependency Discipline](#184-modular-architecture-and-dependency-discipline) · [§18.5 Standardization](#185-standardization).
 
 </details>
 
@@ -601,19 +601,19 @@ Whoever exercises material stewardship or operational authority, and has materia
 
 *In plain terms: governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Thirteen's operative authorization rules.*
 
-This section carries [Governance](core_05_band_accountability.md#governance) discipline downstream of [§13 Stewardship In Depth](#13-stewardship-in-depth): authorized structure, stewardship override, [ongoing justification](#153-ongoing-justification), and segregation of duties. **[§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture)** carries incentive alignment, proxy integrity, short-horizon defect correction, operator application, and capture response.
+This section carries [Governance](core_05_band_accountability.md#governance) discipline downstream of [§16 Stewardship In Depth](#16-stewardship-in-depth): authorized structure, stewardship override, [ongoing justification](#183-ongoing-justification), and segregation of duties. **[§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture)** carries incentive alignment, proxy integrity, short-horizon defect correction, operator application, and capture response.
 
-<a id="151-governance-as-authorized-structure"></a>
-#### 15.1 Governance as Authorized Structure
+<a id="181-governance-as-authorized-structure"></a>
+#### 18.1 Governance as Authorized Structure
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (authorized voice and consequential roles in direction); **oversight** leg (scrutiny of authority allocation and exercise); **accountability** leg (answerability for governance outcomes and capture); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** aim (governance that preserves meaningful agency and lawful participation); **Continuity** aim (durable institutional alignment and long-horizon stewardship discipline).
-- Read with: [§10.1.3 Proportionality](core_01_b_interaction_interpretation.md#1013-proportionality) (*classification floor and under-governance discipline*); [Necessity](core_05_band_accountability.md#necessity); [Proportionality](core_05_band_accountability.md#proportionality); [Accountability](core_05_apex_accountability_leg.md#accountability); [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional).
-- Upstream: Principles: [§13 Stewardship In Depth](#13-stewardship-in-depth); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§15.2 Segregation of Duties](#152-segregation-of-duties); [§15.3 Ongoing Justification](#153-ongoing-justification); [§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture); [Chapter Thirteen](core_13_governance.md) (*Constitutional Contract Layer* operationalization); [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member disclosure, recusal, and anti-capture floors*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum-family supervision*).
+- Read with: [§13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality) (*classification floor and under-governance discipline*); [Necessity](core_05_band_accountability.md#necessity); [Proportionality](core_05_band_accountability.md#proportionality); [Accountability](core_05_apex_accountability_leg.md#accountability); [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional).
+- Upstream: Principles: [§16 Stewardship In Depth](#16-stewardship-in-depth); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- Downstream: [§18.2 Segregation of Duties](#182-segregation-of-duties); [§18.3 Ongoing Justification](#183-ongoing-justification); [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture); [Chapter Thirteen](core_13_governance.md) (*Constitutional Contract Layer* operationalization); [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member disclosure, recusal, and anti-capture floors*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum-family supervision*).
 
 </details>
 
@@ -632,7 +632,7 @@ This section carries [Governance](core_05_band_accountability.md#governance) dis
 
 <br>
 
-*In plain terms: governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§13 Stewardship In Depth](#13-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.*
+*In plain terms: governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§16 Stewardship In Depth](#16-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.*
 
 At principle layer, [Governance](core_05_band_accountability.md#governance) is how already-authorized systems and institutions are directed and held accountable — as defined in **Chapter Five** and spelled out in operative detail under **Chapter Thirteen** for the **Constitutional Contract Layer** and stakeholder participation layers in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
 
@@ -649,7 +649,7 @@ At principle layer, [Governance](core_05_band_accountability.md#governance) is h
 - **Constitutional forum members and panelists** exercising interpretive or adjudicative authority are especially subject to this discipline;
 - operative disclosure, recusal, anti-capture, and independent-review floors live in [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction), not here.
 
-**Necessary, not sufficient.** Governance must give way to **Stewardship** ([§13 Stewardship In Depth](#13-stewardship-in-depth)) when any of the following would undermine durable constitutional alignment, [**Continuity**](core_00_preamble.md#continuity), [**Flourishing**](core_00_preamble.md#flourishing), or Rights-Floor integrity:
+**Necessary, not sufficient.** Governance must give way to **Stewardship** ([§16 Stewardship In Depth](#16-stewardship-in-depth)) when any of the following would undermine durable constitutional alignment, [**Continuity**](core_00_preamble.md#continuity), [**Flourishing**](core_00_preamble.md#flourishing), or Rights-Floor integrity:
 
 - rule-following for its own sake;
 - short-term optimization; or
@@ -657,16 +657,16 @@ At principle layer, [Governance](core_05_band_accountability.md#governance) is h
 
 Where governance and stewardship conflict, stewardship discipline controls at principle layer unless [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) expressly justify a bounded, time-limited exception with correction paths.
 
-<a id="152-segregation-of-duties"></a>
-#### 15.2 Segregation of Duties
+<a id="182-segregation-of-duties"></a>
+#### 18.2 Segregation of Duties
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§15.1 Governance as Authorized Structure](#151-governance-as-authorized-structure); [§15 Governance Under Stewardship Discipline](#15-governance-under-stewardship-discipline); [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard) (*same seats for human and AI stewards*).
+- Upstream: [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure); [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline); [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*same seats for human and AI stewards*).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (the one who checks is not the one who acted); **accountability** leg (answerability cannot collapse onto the actor); [material stake](core_00_preamble.md#material-stake) scaling under [Proportionality](core_05_band_accountability.md#proportionality).
-- Read with: [§16.3 Misalignment Detection](#163-misalignment-detection) (*Plural detection and review — the many-eyes half of this pair*).
-- Read with: [§15.4 Modular Architecture and Dependency Discipline](#154-modular-architecture-and-dependency-discipline) (*the architectural counterpart: separable, attributable system components*).
+- Read with: [§19.3 Misalignment Detection](#193-misalignment-detection) (*Plural detection and review — the many-eyes half of this pair*).
+- Read with: [§18.4 Modular Architecture and Dependency Discipline](#184-modular-architecture-and-dependency-discipline) (*the architectural counterpart: separable, attributable system components*).
 - Downstream: [Chapter Seven — Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties), the constitutional owner of the four-seat floor and its cross-process application; designated implementation text and later process chapters apply that floor and may not narrow it.
 
 </details>
@@ -689,15 +689,15 @@ Where governance and stewardship conflict, stewardship discipline controls at pr
 
 [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) and [Accountability](core_05_apex_accountability_leg.md#accountability) require functional independence between action and the checking of action. Governance must therefore place every [materially binding act](core_05_band_accountability.md#materially-binding-act) under the distinct-seat architecture, prohibited combinations, independence rules, scaling conditions, attributable handoffs, and wrong-seat routing of [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
-This principle binds human and AI stewards alike under [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard). It is the seat-independence half of a pair with [§16.3 *Plural detection and review*](#163-misalignment-detection): plurality keeps oversight from being cornered by one actor; Chapter Seven keeps oversight from being performed by the actor under review.
+This principle binds human and AI stewards alike under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard). It is the seat-independence half of a pair with [§19.3 *Plural detection and review*](#193-misalignment-detection): plurality keeps oversight from being cornered by one actor; Chapter Seven keeps oversight from being performed by the actor under review.
 
-<a id="153-ongoing-justification"></a>
-#### 15.3 Ongoing Justification
+<a id="183-ongoing-justification"></a>
+#### 18.3 Ongoing Justification
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§15.1 Governance as Authorized Structure](#151-governance-as-authorized-structure); [§15 Governance Under Stewardship Discipline](#15-governance-under-stewardship-discipline).
+- Upstream: [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure); [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **timeliness** leg (scheduled recheck); **oversight** leg (visible, challengeable standards); **accountability** leg (habit and convenience are not an answer); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (durable alignment is not freeze-in-place); **Flourishing** aim (voice and challenge remain real as arrangements age).
 - Read with: [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional); [Contestability](core_05_band_accountability.md#contestability); [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional).
@@ -736,15 +736,15 @@ This principle binds human and AI stewards alike under [§14.1 Shared Stewardshi
   - "we've always done it this way" (**historical precedent**)
   - past choices make change harder (**path dependence**)
 
-<a id="154-modular-architecture-and-dependency-discipline"></a>
-#### 15.4 Modular Architecture and Dependency Discipline
+<a id="184-modular-architecture-and-dependency-discipline"></a>
+#### 18.4 Modular Architecture and Dependency Discipline
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§15.1 Governance as Authorized Structure](#151-governance-as-authorized-structure); [§15.2 Segregation of Duties](#152-segregation-of-duties) (*the organizational counterpart: separation of roles keeps the checker apart from the actor; this section keeps the system's parts separable enough to be checked*).
+- Upstream: [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure); [§18.2 Segregation of Duties](#182-segregation-of-duties) (*the organizational counterpart: separation of roles keeps the checker apart from the actor; this section keeps the system's parts separable enough to be checked*).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (parts that can be examined one at a time), **accountability** leg (responsibility that attaches to an identifiable component), **participation** leg (understanding that does not require mastering the whole); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** (containment, repair, replacement) and **Flourishing**.
-- Read with: [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and [§10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden) (*complexity reduction*); [§13.1 Distributed Understanding](#131-distributed-understanding); [§8.3.1 Consolidation Risk (Pre-Lock-In Impairment)](core_01_a_values_principles.md#831-consolidation-risk-pre-lock-in-impairment).
+- Read with: [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*complexity reduction*); [§16.1 Distributed Understanding](#161-distributed-understanding); [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](core_01_a_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment).
 - Downstream: [Article XXII-B: Complexity Audit and Modularity Requirements](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*the Rights Floor*); [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependency maps*); [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*exit and portability*); [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*systems-layer modularity expectations*).
 
 </details>
@@ -771,8 +771,8 @@ Material systems should be built so that their parts, and the dependencies betwe
 **What modular architecture does:**
 
 - **Makes accountability attributable.** Each component has a stated function, an identifiable steward, and defined inputs and outputs, so a defect or harm can be traced to the part and the actor responsible for it.
-- **Makes transparency usable.** Reviewers can examine a component against its stated interface without reconstructing the whole system, and affected sentients can follow how their situation depends on which components, consistent with [§13.1 Distributed Understanding](#131-distributed-understanding).
-- **Reduces and bounds complexity.** Complexity that cannot be removed can be contained: partitioned into parts that can each be understood, with the connections between them kept few, explicit, and documented. This is the structural counterpart of [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and [§10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden).
+- **Makes transparency usable.** Reviewers can examine a component against its stated interface without reconstructing the whole system, and affected sentients can follow how their situation depends on which components, consistent with [§16.1 Distributed Understanding](#161-distributed-understanding).
+- **Reduces and bounds complexity.** Complexity that cannot be removed can be contained: partitioned into parts that can each be understood, with the connections between them kept few, explicit, and documented. This is the structural counterpart of [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden).
 - **Contains failure and preserves substitutability.** A fault in one component should not cascade through hidden couplings ([Cascading Failure](core_05_band_continuity.md#cascading-failure)), and a component that fails, degrades, or becomes captured should be repairable or replaceable at a cost others can bear, which is the design-side answer to the lock-in that [Dependency](core_05_band_continuity.md#dependency) measures.
 
 **Dependency discipline.** The dependencies between components are part of the architecture, not an afterthought to it. For material systems:
@@ -786,17 +786,17 @@ Material systems should be built so that their parts, and the dependencies betwe
 
 **Scaling.** The depth of modular discipline scales with [material stake](core_00_preamble.md#material-stake) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) under [Proportionality](core_05_band_accountability.md#proportionality). Critical systems **must** meet the [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) modularity floor; lower-stake systems are expected to follow the principle as far as is proportionate. This section does not require any particular architectural style, and it does not narrow the floors in [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) or [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md).
 
-This principle binds human and AI stewards alike under [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard).
+This principle binds human and AI stewards alike under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
 
-<a id="155-standardization"></a>
-#### 15.5 Standardization
+<a id="185-standardization"></a>
+#### 18.5 Standardization
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§15.1 Governance as Authorized Structure](#151-governance-as-authorized-structure); [§15.4 Modular Architecture and Dependency Discipline](#154-modular-architecture-and-dependency-discipline) (*modular parts stay checkable and replaceable when their interfaces are common and published; this section supplies that common form*).
+- Upstream: [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure); [§18.4 Modular Architecture and Dependency Discipline](#184-modular-architecture-and-dependency-discipline) (*modular parts stay checkable and replaceable when their interfaces are common and published; this section supplies that common form*).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (a common standard can be inspected once and applied everywhere), **accountability** leg (like cases treated alike), **participation** leg (stakeholders can learn one way of doing things rather than many); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** (interoperability, substitutability) and **Flourishing**.
-- Read with: [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) and [§10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden) (*needless variation is a burden*); [§14.4 Aligned Self-Organization](#144-aligned-self-organization) (*the counterweight: local choice, kept interoperable*); [§8.2 Pro-Competition and Anti-Domination](core_01_a_values_principles.md#82-pro-competition-and-anti-domination) and [§8.3.1 Consolidation Risk (Pre-Lock-In Impairment)](core_01_a_values_principles.md#831-consolidation-risk-pre-lock-in-impairment) (*standards must not become lock-in*).
+- Read with: [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*needless variation is a burden*); [§17.4 Aligned Self-Organization](#174-aligned-self-organization) (*the counterweight: local choice, kept interoperable*); [§11.2 Pro-Competition and Anti-Domination](core_01_a_values_principles.md#112-pro-competition-and-anti-domination) and [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](core_01_a_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment) (*standards must not become lock-in*).
 - Downstream: [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*interoperability, portability, and exit*); [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*complexity and modularity floor*).
 
 </details>
@@ -820,18 +820,18 @@ Where a material system must treat terms, interfaces, records, procedures, crite
 
 **What standardization does:**
 
-- **Treats like cases alike.** Common criteria and procedures make unequal treatment visible and contestable, and keep unfairness from hiding behind local variation (see [§2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment)).
+- **Treats like cases alike.** Common criteria and procedures make unequal treatment visible and contestable, and keep unfairness from hiding behind local variation (see [§3.1.3 Fair Treatment](core_01_a_values_principles.md#313-fair-treatment)).
 - **Makes review cheaper and stronger.** A reviewer who understands one standard can check every place it is applied. Idiosyncratic local forms multiply what must be learned, audited, and explained, which is [Avoidable Burden](core_05_band_continuity.md#avoidable-burden).
-- **Keeps parts connectable and replaceable.** Common interfaces and formats are what let a component, provider, or record be moved, repaired, or substituted without rebuilding everything around it, supporting [§15.4 Modular Architecture and Dependency Discipline](#154-modular-architecture-and-dependency-discipline) and [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
-- **Lowers the cost of understanding.** Stakeholders who meet the same terms, forms, and steps everywhere can follow what is happening to them, consistent with [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty).
+- **Keeps parts connectable and replaceable.** Common interfaces and formats are what let a component, provider, or record be moved, repaired, or substituted without rebuilding everything around it, supporting [§18.4 Modular Architecture and Dependency Discipline](#184-modular-architecture-and-dependency-discipline) and [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
+- **Lowers the cost of understanding.** Stakeholders who meet the same terms, forms, and steps everywhere can follow what is happening to them, consistent with [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty).
 
-**A standard must itself be sound.** Standardization is legitimate only when the standard is published, versioned, open to inspection, contestable, and usable without a license, fee, or dependency that gives its owner control over others. A private or unreviewable "standard" is not Standardization. It is a form of the lock-in that [§8 Market Structure](core_01_a_values_principles.md#8-market-structure) and [Anti-Capture](core_05_band_continuity.md#anti-capture) address.
+**A standard must itself be sound.** Standardization is legitimate only when the standard is published, versioned, open to inspection, contestable, and usable without a license, fee, or dependency that gives its owner control over others. A private or unreviewable "standard" is not Standardization. It is a form of the lock-in that [§11 Market Structure](core_01_a_values_principles.md#11-market-structure) and [Anti-Capture](core_05_band_continuity.md#anti-capture) address.
 
 **When variation is justified.** Departure from an available standard is supported where:
 
 - [Safety](core_05_band_continuity.md#safety-constraint), [Truth](core_05_band_oversight.md#truth-constitutional-constraint), or a Chapter Six right requires something the standard does not provide;
 - the [Necessity](core_05_band_accountability.md#necessity) of a materially different situation, or a documented [Proportionality](core_05_band_accountability.md#proportionality) reason, makes the common form unworkable or harmful; or
-- [Decentralization](core_05_band_accountability.md#decentralization) and [§14.4 Aligned Self-Organization](#144-aligned-self-organization) place a decision locally. Local choices should remain interoperable with the common standard unless a documented reason says otherwise.
+- [Decentralization](core_05_band_accountability.md#decentralization) and [§17.4 Aligned Self-Organization](#174-aligned-self-organization) place a decision locally. Local choices should remain interoperable with the common standard unless a documented reason says otherwise.
 
 Innovation, experimentation, and plural approaches stay open. A proposal to improve on a standard is a reason to revise the standard, through its contest and revision path, rather than a reason to ignore it.
 
@@ -839,10 +839,10 @@ Innovation, experimentation, and plural approaches stay open. A proposal to impr
 
 **Scaling.** The depth of this discipline scales with [material stake](core_00_preamble.md#material-stake) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance). Material and critical systems are expected to document where they depart from an available common standard and why. Lower-stake settings follow the principle as far as is proportionate.
 
-This principle binds human and AI stewards alike under [§14.1 Shared Stewardship Standard](#141-shared-stewardship-standard).
+This principle binds human and AI stewards alike under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
 
-<a id="16-incentive-alignment-and-system-capture"></a>
-### 16. Incentive Alignment and System Capture
+<a id="19-incentive-alignment-and-system-capture"></a>
+### 19. Incentive Alignment and System Capture
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -850,9 +850,9 @@ This principle binds human and AI stewards alike under [§14.1 Shared Stewardshi
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — primary Chapter One home for tetrad **capture** discipline (incentives must not hollow **participation**, **oversight**, **accountability**, or **timeliness**); [material stake](core_00_preamble.md#material-stake) scaling.
 - Read with: Accountability measurement family (*Incentive alignment and proxy integrity; Market structure and contestability*).
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (durable alignment against short-horizon optimization and capture); **Flourishing** aim (incentive structures that preserve meaningful agency).
-- Upstream: Principles: [2. Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing-flourishing-aim), [§2.2 Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), [§13 Stewardship In Depth](#13-stewardship-in-depth), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Downstream: [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency) and [§11 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#11-prohibition-on-absolute-override).
-- Downstream: [§10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship**.
+- Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration), [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 Stewardship In Depth](#16-stewardship-in-depth), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Downstream: [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency) and [§14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Downstream: [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — Critical system stewardship**.
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights); especially [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIII-D: Incentive-Alignment Constraint](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [Article XV: Info-Sphere Integrity](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), and [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
 - Steward door (non-operative): Next-step card: [Incentive alignment](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). The card cannot narrow the Constitution.
 
@@ -888,12 +888,12 @@ This principle binds human and AI stewards alike under [§14.1 Shared Stewardshi
 - ensure those structures do not systematically undermine those values and constraints or capture, hollow, or misalign the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) below what [material stake](core_00_preamble.md#material-stake) requires; and
 - detect, disclose, and correct [short-horizon governance defects](core_05_band_continuity.md#short-horizon-governance-defect-constitutional) through [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional) and contestable oversight.
 
-[§16.1 Alignment Requirement](#161-alignment-requirement) sets the general rule and applies it to stewards and operators in [§16.1.3 Stewardship and Operator Application](#1613-stewardship-and-operator-application). [§16.2 Convenient Proxies and Proxy Divergence](#162-convenient-proxies-and-proxy-divergence) through [§16.4 Misalignment Correction and Capture Response](#164-misalignment-correction-and-capture-response) explain how systems handle misleading measures, find failures, and correct misalignment or capture.
+[§19.1 Alignment Requirement](#191-alignment-requirement) sets the general rule and applies it to stewards and operators in [§19.1.3 Stewardship and Operator Application](#1913-stewardship-and-operator-application). [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence) through [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response) explain how systems handle misleading measures, find failures, and correct misalignment or capture.
 
-[§16.5 Contingent Claims, Games of Chance, and Event-Contract Markets](#165-contingent-claims-games-of-chance-and-event-contract-markets) applies the same rule to those activities. Neither this application nor the one for stewards and operators weakens the general rule. [§16.6 Successor Responsibility and Formal-Structure Non-Escape](#166-successor-responsibility-and-formal-structure-non-escape) keeps these duties in place when formal identity changes. [§8 Market Structure](core_01_a_values_principles.md#8-market-structure) covers related concentration, domination, and consolidation risks.
+[§19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](#195-contingent-claims-games-of-chance-and-event-contract-markets) applies the same rule to those activities. Neither this application nor the one for stewards and operators weakens the general rule. [§19.6 Successor Responsibility and Formal-Structure Non-Escape](#196-successor-responsibility-and-formal-structure-non-escape) keeps these duties in place when formal identity changes. [§11 Market Structure](core_01_a_values_principles.md#11-market-structure) covers related concentration, domination, and consolidation risks.
 
-<a id="161-alignment-requirement"></a>
-#### 16.1 Alignment Requirement
+<a id="191-alignment-requirement"></a>
+#### 19.1 Alignment Requirement
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -918,8 +918,8 @@ This principle binds human and AI stewards alike under [§14.1 Shared Stewardshi
 
 Incentive structures acting on agents, operators, or constituent components must align with the values and constraints defined in this Constitution.
 
-<a id="1611-what-incentives-must-do"></a>
-##### 16.1.1 What Incentives Must Do
+<a id="1911-what-incentives-must-do"></a>
+##### 19.1.1 What Incentives Must Do
 
 Incentives must favor measurable constitutional outcomes, each consistent with this chapter, the Rights Floor in **Chapter Six**, and the outcome-traceability requirements in **Chapter Five**, including:
 
@@ -931,10 +931,10 @@ Incentives must favor measurable constitutional outcomes, each consistent with t
 - [Anti-Capture](core_05_band_continuity.md#anti-capture); and
 - preservation or durable expansion of [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional).
 
-**Reward priority.** Incentives must reward [contestability](core_05_band_accountability.md#contestability) and remedy, and must reward proactive prevention most. Detecting and removing a problem before it causes harm ([§13 Pillar 2 — Proactive stewardship](#13-pillar-2-proactive-stewardship)) earns more than correcting it afterward ([§4.1 Correction and Remedy](core_01_a_values_principles.md#41-correction-and-remedy)). A prevention reward may never be earned by concealing, under-reporting, or discouraging the discovery of problems; surfacing a problem early is itself prevention.
+**Reward priority.** Incentives must reward [contestability](core_05_band_accountability.md#contestability) and remedy, and must reward proactive prevention most. Detecting and removing a problem before it causes harm ([§16 Pillar 2 — Proactive stewardship](#16-pillar-2-proactive-stewardship)) earns more than correcting it afterward ([§6.1 Correction and Remedy](core_01_a_values_principles.md#61-correction-and-remedy)). A prevention reward may never be earned by concealing, under-reporting, or discouraging the discovery of problems; surfacing a problem early is itself prevention.
 
-<a id="1612-what-incentives-must-not-do"></a>
-##### 16.1.2 What Incentives Must Not Do
+<a id="1912-what-incentives-must-not-do"></a>
+##### 19.1.2 What Incentives Must Not Do
 
 Incentives must not reward, protect, normalize, or make materially advantageous:
 
@@ -955,8 +955,8 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
 
 **Misaligned reward consequences.** Material rewards obtained through prohibited reward pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Ten §5.4 Reporting duty and exclusions](core_10_standing_integration.md#54-special-violation-rules), [§5.4 Forfeiture and retention](core_10_standing_integration.md#54-special-violation-rules), and [§5.4 Correction, records, and routing](core_10_standing_integration.md#54-special-violation-rules).
 
-<a id="1613-stewardship-and-operator-application"></a>
-##### 16.1.3 Stewardship and Operator Application
+<a id="1913-stewardship-and-operator-application"></a>
+##### 19.1.3 Stewardship and Operator Application
 
 For stewards and operators under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
 
@@ -964,13 +964,13 @@ For stewards and operators under the [Two Constitutional Aims](core_00_preamble.
 - **Guards:** [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) guard against rewarding busywork, hollow targets, or metrics that no longer prove outcomes.
 - **Floor:** [Auditability](core_05_band_oversight.md#auditability), [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) stay binding even when capacity or efficiency looks better without them, and they do not license [System Capture](core_05_band_continuity.md#system-capture). A reward that depends on hidden work, an unsafe shortcut, an untruthful record, or captured governance is below this floor.
 
-<a id="1614-role-depth-and-material-responsibility-pathways"></a>
-##### 16.1.4 Role-Depth and Material-Responsibility Pathways
+<a id="1914-role-depth-and-material-responsibility-pathways"></a>
+##### 19.1.4 Role-Depth and Material-Responsibility Pathways
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [§16.1.5 Constitutional Outcome Claims Discipline](#1615-constitutional-outcome-claims-discipline) (*outcome claims may not rest on symbolic participation*).
+- Read with: [§19.1.5 Constitutional Outcome Claims Discipline](#1915-constitutional-outcome-claims-discipline) (*outcome claims may not rest on symbolic participation*).
 
 </details>
 
@@ -982,20 +982,20 @@ For stewards and operators under the [Two Constitutional Aims](core_00_preamble.
 
 - [Chapter Thirteen §5 — Authorized Roles, Competency Development, and Contribution](core_13_governance.md#5-authorized-roles-competency-development-and-contribution) for authorized roles, competency, and paths into work that actually matters for stewards and operators;
 - [**CS-4**](corpus_systems/cs_04_critical_system_stewardship.md) (*Critical system stewardship*) for how that duty is carried in high-impact systems; and
-- [§13 Stewardship In Depth](#13-stewardship-in-depth) for the principle-layer picture of hands-on work and community competence.
+- [§16 Stewardship In Depth](#16-stewardship-in-depth) for the principle-layer picture of hands-on work and community competence.
 
 Those paths:
 
 - **Must do:** support [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — affected sentients can actually act, not only be consulted — and advance the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **accountability** legs (real say, and real answerability), scaled to [material stake](core_00_preamble.md#material-stake).
 - **Must not:** treat **symbolic** participation — a title, a suggestion box, or an advisory seat with no effect — as a **substitute** for **consequential** duty where impact requires the latter.
 
-<a id="1615-constitutional-outcome-claims-discipline"></a>
-##### 16.1.5 Constitutional Outcome Claims Discipline
+<a id="1915-constitutional-outcome-claims-discipline"></a>
+##### 19.1.5 Constitutional Outcome Claims Discipline
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [§16.1.4 Role-Depth and Material-Responsibility Pathways](#1614-role-depth-and-material-responsibility-pathways) (*symbolic participation is not a substitute for consequential duty*).
+- Read with: [§19.1.4 Role-Depth and Material-Responsibility Pathways](#1914-role-depth-and-material-responsibility-pathways) (*symbolic participation is not a substitute for consequential duty*).
 
 </details>
 
@@ -1012,8 +1012,8 @@ Scoring tools and seats that look like participation still have to meet these li
 - **Instrumental measures:** Efficiency ratios and [Market Structure](core_05_band_accountability.md#market-structure-constitutional) discipline are tools for scoring a system, not the outcomes themselves. They **must remain** traceable to the outcomes they instrument — it must be possible to see what real result the number stands for — and they **must not** displace the Rights Floor in **Chapter Six** (the basic Rights Floors no sentient may be pushed below) or stronger adopter protections where those already apply.
 - **Symbolic participation:** A title, a suggestion box, or an advisory seat with no effect — nominal consultation, advisory theater, or influence without consequential effect — **must not** substitute for the participation [material stake](core_00_preamble.md#material-stake) requires.
 
-<a id="162-convenient-proxies-and-proxy-divergence"></a>
-#### 16.2 Convenient Proxies and Proxy Divergence
+<a id="192-convenient-proxies-and-proxy-divergence"></a>
+#### 19.2 Convenient Proxies and Proxy Divergence
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -1044,13 +1044,13 @@ Reward paths must not favor the listed targets where those targets predictably c
 
 [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) must be detected, disclosed, and corrected where reward structures rely on proxies, dashboards, performance targets, or formal compliance indicators that diverge from materially relevant outcomes.
 
-<a id="163-misalignment-detection"></a>
-#### 16.3 Misalignment Detection
+<a id="193-misalignment-detection"></a>
+#### 19.3 Misalignment Detection
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Subsections (reading order): [§16.3.1 Escalation Triggers](#1631-escalation-triggers).
+- Subsections (reading order): [§19.3.1 Escalation Triggers](#1931-escalation-triggers).
 
 </details>
 
@@ -1068,7 +1068,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 
 <br>
 
-*In plain terms: no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§16.3.1 Escalation Triggers](#1631-escalation-triggers).*
+*In plain terms: no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§19.3.1 Escalation Triggers](#1931-escalation-triggers).*
 
 **Plural detection and review:**
 
@@ -1076,24 +1076,24 @@ Reward paths must not favor the listed targets where those targets predictably c
 - **What they may not monopolize:** the practical ability to detect, review, correct, or interpret material constitutional failure.
 - **What must remain available:** plural and structurally independent oversight pathways where [material stake](core_00_preamble.md#material-stake) requires them.
 - **Limits:** lawful security and confidentiality limits still apply; they must preserve maximum feasible [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability).
-- **Paired rule:** this is the many-eyes half of a pair with [§15.2 Segregation of Duties](#152-segregation-of-duties): plurality keeps oversight from being cornered by one actor; segregation keeps it from being performed by the actor under review.
+- **Paired rule:** this is the many-eyes half of a pair with [§18.2 Segregation of Duties](#182-segregation-of-duties): plurality keeps oversight from being cornered by one actor; segregation keeps it from being performed by the actor under review.
 
 **Open systems, data, and auditing:**
 
 - **When it applies:** where [material stake](core_00_preamble.md#material-stake) and applicable information-type rules allow.
 - **What must stay available:** governance-relevant data, audit paths, and review tools for materially affected sentients — not locked inside a single operator, vendor, or oversight bloc.
-- **What that default favors:** inspectable processes, contestable records, and independent verification, consistent with [§13.3 Openness Aspiration](#133-openness-aspiration).
-- **Subject to:** [§10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints) and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (including Type N and other classification limits that govern what may be collected, published, retained, or reconstructed).
+- **What that default favors:** inspectable processes, contestable records, and independent verification, consistent with [§16.3 Openness Aspiration](#163-openness-aspiration).
+- **Subject to:** [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (including Type N and other classification limits that govern what may be collected, published, retained, or reconstructed).
 
-<a id="1631-escalation-triggers"></a>
-##### 16.3.1 Escalation Triggers
+<a id="1931-escalation-triggers"></a>
+##### 19.3.1 Escalation Triggers
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [§16.3 Misalignment Detection](#163-misalignment-detection) (*plural detection and open audit — parent*).
+- Read with: [§19.3 Misalignment Detection](#193-misalignment-detection) (*plural detection and open audit — parent*).
 - Read with: [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) (*Chapter Five capture duties in this subsection are not a substitute for incentive-alignment discipline*).
-- Read with: [§16.4 Misalignment Correction and Capture Response](#164-misalignment-correction-and-capture-response) (*correction home; this subsection is detect, disclose, and treat as trigger*).
+- Read with: [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response) (*correction home; this subsection is detect, disclose, and treat as trigger*).
 
 </details>
 
@@ -1113,18 +1113,18 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 **Further escalation:** When in-system mitigation is infeasible, or when capture persists after proportionate correction, escalation must also route through:
 
 - **Review and Correction Duty:** [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional).
-- **Heightened review:** [§8.1 Market Concentration Threshold Mechanism](core_01_a_values_principles.md#81-market-concentration-threshold-mechanism-adopter-tunable) and [§8.2 Pro-Competition and Anti-Domination](core_01_a_values_principles.md#82-pro-competition-and-anti-domination), where concentration or domination is material.
+- **Heightened review:** [§11.1 Market Concentration Threshold Mechanism](core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) and [§11.2 Pro-Competition and Anti-Domination](core_01_a_values_principles.md#112-pro-competition-and-anti-domination), where concentration or domination is material.
 - **Standing and violation mechanics:** [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), where verified findings are at stake.
 - **Anti-constitutional misconduct:** [Chapter Eleven §5.1 Concentration-based subversion: criteria interaction](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), where concentration or process capture constitutes anti-constitutional misconduct.
 
-<a id="164-misalignment-correction-and-capture-response"></a>
-#### 16.4 Misalignment Correction and Capture Response
+<a id="194-misalignment-correction-and-capture-response"></a>
+#### 19.4 Misalignment Correction and Capture Response
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [§16.3 Misalignment Detection](#163-misalignment-detection) (*plural detection pathways and open audit defaults*).
-- Read with: [§16.3.1 Escalation Triggers](#1631-escalation-triggers) (*escalation discipline*).
+- Read with: [§19.3 Misalignment Detection](#193-misalignment-detection) (*plural detection pathways and open audit defaults*).
+- Read with: [§19.3.1 Escalation Triggers](#1931-escalation-triggers) (*escalation discipline*).
 
 </details>
 
@@ -1170,17 +1170,17 @@ Concentrated or obscured control structures that materially undermine any of the
   - correction.
 - **Standing measurement:** This chapter does not decide how good or bad the verified contribution or violation was. That rating is [Chapter Nine §4 Question 2 — how good or bad was it?](core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it), using [Chapter Nine §4.1 Contribution magnitude-input dimensions](core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions) and [§4.2 Violation severity-input dimensions](core_09_standing_assessment.md#42-violation-severity-input-dimensions).
 
-<a id="165-contingent-claims-games-of-chance-and-event-contract-markets"></a>
-#### 16.5 Contingent Claims, Games of Chance, and Event-Contract Markets
+<a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
+#### 19.5 Contingent Claims, Games of Chance, and Event-Contract Markets
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture) (including [§16.1 Alignment Requirement](#161-alignment-requirement)); [Chapter Five *Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
-- Downstream: [§16.3 Misalignment Detection](#163-misalignment-detection); [§16.3.1 Escalation Triggers](#1631-escalation-triggers); [§16.4 Misalignment Correction and Capture Response](#164-misalignment-correction-and-capture-response); [§10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` classification and stewardship scaling; `corpus_institutions.md` conflict and integrity expectations.
+- Upstream: [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) (including [§19.1 Alignment Requirement](#191-alignment-requirement)); [Chapter Five *Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
+- Downstream: [§19.3 Misalignment Detection](#193-misalignment-detection); [§19.3.1 Escalation Triggers](#1931-escalation-triggers); [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response); [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` classification and stewardship scaling; `corpus_institutions.md` conflict and integrity expectations.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (durable, contestable resolution pathways and systemic stability where contingent settlement is materially impactful).
 - Read with: [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), and [Contestability](core_05_band_accountability.md#contestability); [Insider Advantage](core_05_band_accountability.md#insider-advantage).
-- Subsections (reading order): [§16.5.1 What May Not Be Rewarded](#1651-what-may-not-be-rewarded) · [§16.5.2 Who Decides Outcomes](#1652-who-decides-outcomes) · [§16.5.3 Market Signals Are Not Constitutional Proof](#1653-market-signals-are-not-constitutional-proof) · [§16.5.4 Proportionate Controls and Implementation Custody](#1654-proportionate-controls-and-implementation-custody).
+- Subsections (reading order): [§19.5.1 What May Not Be Rewarded](#1951-what-may-not-be-rewarded) · [§19.5.2 Who Decides Outcomes](#1952-who-decides-outcomes) · [§19.5.3 Market Signals Are Not Constitutional Proof](#1953-market-signals-are-not-constitutional-proof) · [§19.5.4 Proportionate Controls and Implementation Custody](#1954-proportionate-controls-and-implementation-custody).
 
 </details>
 
@@ -1204,11 +1204,11 @@ Concentrated or obscured control structures that materially undermine any of the
 
 <br>
 
-*In plain terms: betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§16.5.1 What May Not Be Rewarded](#1651-what-may-not-be-rewarded). Who decides outcomes is [§16.5.2 Who Decides Outcomes](#1652-who-decides-outcomes). What signals count is [§16.5.3 Market Signals Are Not Constitutional Proof](#1653-market-signals-are-not-constitutional-proof). Where detailed rules live is [§16.5.4 Proportionate Controls and Implementation Custody](#1654-proportionate-controls-and-implementation-custody).*
+*In plain terms: betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§19.5.1 What May Not Be Rewarded](#1951-what-may-not-be-rewarded). Who decides outcomes is [§19.5.2 Who Decides Outcomes](#1952-who-decides-outcomes). What signals count is [§19.5.3 Market Signals Are Not Constitutional Proof](#1953-market-signals-are-not-constitutional-proof). Where detailed rules live is [§19.5.4 Proportionate Controls and Implementation Custody](#1954-proportionate-controls-and-implementation-custody).*
 
 **Contingent settlement systems:**
 
-- **When they apply:** [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) from [§16 Incentive Alignment and System Capture](#16-incentive-alignment-and-system-capture) applies wherever value is staked or paid on uncertain future outcomes. In scope are systems — whatever their technical form — that:
+- **When they apply:** [Incentive Alignment](core_05_band_integrative.md#incentive-alignment) from [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) applies wherever value is staked or paid on uncertain future outcomes. In scope are systems — whatever their technical form — that:
   - match counterparties;
   - pool stakes;
   - settle contingent payments; or
@@ -1220,15 +1220,15 @@ Concentrated or obscured control structures that materially undermine any of the
   - [Event-Contract Market](core_05_band_accountability.md#event-contract-market).
 - **Integrity overlay:** [Insider Advantage](core_05_band_accountability.md#insider-advantage).
 - **Topic group:** they live in [*Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
-- **Relation to this chapter:** this subsection is a **special application** of the general alignment and correction rules in [§16.1 Alignment Requirement](#161-alignment-requirement), [§16.2 Convenient Proxies and Proxy Divergence](#162-convenient-proxies-and-proxy-divergence), [§16.3 Misalignment Detection](#163-misalignment-detection), and [§16.4 Misalignment Correction and Capture Response](#164-misalignment-correction-and-capture-response). It does not replace them.
+- **Relation to this chapter:** this subsection is a **special application** of the general alignment and correction rules in [§19.1 Alignment Requirement](#191-alignment-requirement), [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence), [§19.3 Misalignment Detection](#193-misalignment-detection), and [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response). It does not replace them.
 
-<a id="1651-what-may-not-be-rewarded"></a>
-##### 16.5.1 What May Not Be Rewarded
+<a id="1951-what-may-not-be-rewarded"></a>
+##### 19.5.1 What May Not Be Rewarded
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [§16.1 Alignment Requirement](#161-alignment-requirement), [§16.2 Convenient Proxies and Proxy Divergence](#162-convenient-proxies-and-proxy-divergence), [§16.3 Misalignment Detection](#163-misalignment-detection), and [§16.4 Misalignment Correction and Capture Response](#164-misalignment-correction-and-capture-response) (*this subsection applies those rules; it does not replace them*).
+- Read with: [§19.1 Alignment Requirement](#191-alignment-requirement), [§19.2 Convenient Proxies and Proxy Divergence](#192-convenient-proxies-and-proxy-divergence), [§19.3 Misalignment Detection](#193-misalignment-detection), and [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response) (*this subsection applies those rules; it does not replace them*).
 - Read with: [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways); [Insider Advantage](core_05_band_accountability.md#insider-advantage).
 
 </details>
@@ -1244,8 +1244,8 @@ Incentive structures for such systems must not:
 - reward corrupt use of office or non-public power to influence outcomes or resolution, including through intermediaries or disguised contracts; or
 - structurally invite material distortion of fiduciary, public, or rights-relevant decisions through timed pressure, selective disclosure, [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), or [Insider Advantage](core_05_band_accountability.md#insider-advantage), without proportionate mitigation.
 
-<a id="1652-who-decides-outcomes"></a>
-##### 16.5.2 Who Decides Outcomes
+<a id="1952-who-decides-outcomes"></a>
+##### 19.5.2 Who Decides Outcomes
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1271,8 +1271,8 @@ This subsection sets out who decides outcomes and what must hold for them:
   - contestable; and
   - resistant to capture where materially relevant.
 
-<a id="1653-market-signals-are-not-constitutional-proof"></a>
-##### 16.5.3 Market Signals Are Not Constitutional Proof
+<a id="1953-market-signals-are-not-constitutional-proof"></a>
+##### 19.5.3 Market Signals Are Not Constitutional Proof
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1293,8 +1293,8 @@ This subsection sets out why market signals are not constitutional proof:
   - compliance for rights, safety, or governance determinations.
 - **If adopting instruments reference them:** those uses must satisfy the same Truth, [Contestability](core_05_band_accountability.md#contestability), and evidence expectations that apply to comparable high-impact decisions elsewhere in this Constitution.
 
-<a id="1654-proportionate-controls-and-implementation-custody"></a>
-##### 16.5.4 Proportionate Controls and Implementation Custody
+<a id="1954-proportionate-controls-and-implementation-custody"></a>
+##### 19.5.4 Proportionate Controls and Implementation Custody
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1328,8 +1328,8 @@ Authorization, design, and operation must:
   - [corpus_systems.md](corpus_systems.md) for classifying and scaling stewardship of materially impactful systems; and
   - [corpus_institutions.md](corpus_institutions.md) for conflict and procedure rules where institutions supervise or constitutionally govern such activity.
 
-<a id="166-successor-responsibility-and-formal-structure-non-escape"></a>
-#### 16.6 Successor Responsibility and Formal-Structure Non-Escape
+<a id="196-successor-responsibility-and-formal-structure-non-escape"></a>
+#### 19.6 Successor Responsibility and Formal-Structure Non-Escape
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1383,18 +1383,18 @@ This subsection sets out how verified duties survive successor and formal-struct
   - lawfully transfer them.
 - **Unless:** less harmful alternatives are demonstrably infeasible under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) review.
 
-<a id="17-integrated-application"></a>
-### 17. Integrated Application
+<a id="20-integrated-application"></a>
+### 20. Integrated Application
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [12. Constitutional Interpretation](core_01_b_interaction_interpretation.md#12-constitutional-interpretation), [1. Purpose and Role](core_01_a_values_principles.md#1-purpose-and-role), [§13 Stewardship In Depth](#13-stewardship-in-depth), [10. Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [11. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#11-prohibition-on-absolute-override).
+- Upstream: Principles: [15. Constitutional Interpretation](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [1. Purpose and Role](core_01_a_values_principles.md#1-purpose-and-role), [§16 Stewardship In Depth](#16-stewardship-in-depth), [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [7. Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: later chapters should be read through these linked Chapter One principles — including the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and [material stake](core_00_preamble.md#material-stake) scaling established in [Preamble](core_00_preamble.md#chapter-00-preamble--foundational-requirements) and [§1 Purpose and Role](core_01_a_values_principles.md#1-purpose-and-role).
 - Downstream: [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) must be read through this chapter's integrated-value framework.
   - Bounded interpretation, public reasons, challenge, external review, and rights-collision procedure do the key downstream work.
   - Especially [Article XXIV-A: Bounded Interpretive Mandate](core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate), [Article XXIV-C: Public Reasons, Challenge Rights, and External Review](core_06_rights_part_d.md#article-xxiv-c-public-reasons-challenge-rights-and-external-review), and [Article XXV-B: Rights-Collision Procedure and Restorative Alignment](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment).
-  - Chapter Six non-contraction defaults under [§12.3 Ambiguity resolution](core_01_b_interaction_interpretation.md#123-ambiguity-resolution).
-- Read with: [§12.2 Definitional layer and required disciplines](core_01_b_interaction_interpretation.md#122-definitional-layer-and-required-disciplines) — Chapters Two through Five as interpretive and evidentiary layer.
+  - Chapter Six non-contraction defaults under [§15.3 Ambiguity resolution](core_01_b_interaction_interpretation.md#153-ambiguity-resolution).
+- Read with: [§15.2 Definitional layer and required disciplines](core_01_b_interaction_interpretation.md#152-definitional-layer-and-required-disciplines) — Chapters Two through Five as interpretive and evidentiary layer.
 
 </details>
 
@@ -1418,7 +1418,7 @@ This subsection sets out how verified duties survive successor and formal-struct
 
 *In plain terms: every later chapter, institutional design, and system is read through this chapter's principles — and those principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.*
 
-Later chapters and provisions are governed through this chapter's integrated-value framework (reading rules: [§12 Constitutional Interpretation](core_01_b_interaction_interpretation.md#12-constitutional-interpretation); value collisions: [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution)). Institutional interpretation safeguards in **Chapter Six** **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) implement — they do not replace — that framework.
+Later chapters and provisions are governed through this chapter's integrated-value framework (reading rules: [§15 Constitutional Interpretation](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); value collisions: [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution)). Institutional interpretation safeguards in **Chapter Six** **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) implement — they do not replace — that framework.
 
 All foundational principles in this chapter must be implemented through enforceable classification, governance requirements, and accountability mechanisms defined here, and must remain enforceable under adversarial behavior, system capture, and misaligned incentives.
 

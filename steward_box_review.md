@@ -6,7 +6,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 ## Headline findings
 
 1. **Owner / Numeric home / Definition lines** are pointers already carried by each article's Trace and Definitions widgets. Drop them.
-2. **Clock lines** are steward procedure. Several repeat the Forbidden move in positive form (Proceed, Remedy, Emergency, Delay). Interpretation's Clock duplicates the interim posture already written in Chapter One §10.1.5 (lines ~329-332: preserve, freeze irreversible steps, do not manufacture a winner). Move the rest to the implementation cards and `implementation/steward_owner_clock_index.json`, which already carry clock notes.
+2. **Clock lines** are steward procedure. Several repeat the Forbidden move in positive form (Proceed, Remedy, Emergency, Delay). Interpretation's Clock duplicates the interim posture already written in Chapter One §13.1.5 (lines ~329-332: preserve, freeze irreversible steps, do not manufacture a winner). Move the rest to the implementation cards and `implementation/steward_owner_clock_index.json`, which already carry clock notes.
 3. **Forbidden moves** are mostly principles the owning text already states (table below). A handful do not appear to be, and are the real decisions.
 4. **Functional Independence (Ch7)** is not in Owner/Forbidden/Clock form. It is a substantive seat-separation rule ("identify the seat you hold... do not verify your own act... if the needed seat is absent, preserve the record, name the gap, route to the published substitute"). Check whether Chapter Seven's body already says this; if not, promote it into the body rather than remove it.
 5. **Widget gap:** XXV-C (`core_06_rights_part_e.md`) and Chapter Twelve §6.1 (`core_12_forum.md`) are still bare blockquotes; the other 13 are in widgets. `TODO.md` says all were wrapped.
@@ -76,7 +76,7 @@ Corrections to the first table: Unlawful Instruction and Market Structure are **
 
 **Draft sentence for the one real gap** (Chapter Nine, in the verified-record/measurement section; not applied). It is framed to stay consistent with §6.2.3's "privacy is not automatically subordinate":
 
-> Privacy, confidentiality, or the opacity of a system's internals does not exempt a matter from standing measurement. Where these collide with the verified-record requirement, the collision is resolved under Chapter One §10.1, with independent-reviewer access preserved.
+> Privacy, confidentiality, or the opacity of a system's internals does not exempt a matter from standing measurement. Where these collide with the verified-record requirement, the collision is resolved under Chapter One §13.1, with independent-reviewer access preserved.
 
 If adopted, it closes both the Proceed and Standing boxes on this point.
 

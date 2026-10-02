@@ -47,7 +47,7 @@ See: [Business Creation](../../../core_05_band_participation.md#business-creatio
 - **Today:** A few buyers, platforms, or employers control who you can hire, who you can sell to, and whether you can leave — and they call that competition.
 - **With this Constitution:** A contract cannot stop your workers from leaving, or stop you from hiring someone who used to work at another shop. You still have to pay fairly, keep the shop safe, give rest, and let workers organize. That is not the same as whether a few big buyers or platforms control the terms. Paying legal wages does not make that control OK.
 
-See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor); [Chapter One §8.2](../../../core_01_a_values_principles.md#82-pro-competition-and-anti-domination).
+See: [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor); [Chapter One §11.2](../../../core_01_a_values_principles.md#112-pro-competition-and-anti-domination).
 
 **Leaving a vendor is not supposed to be the product.**
 - **Today:** The tools you bought cannot be repaired except through the vendor. “Features” exist mainly to make switching painful. A new scheduling or lending system is being pushed as “modernization.”

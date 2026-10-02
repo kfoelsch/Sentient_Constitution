@@ -6,7 +6,7 @@
 
 **Pinned to corpus edition:** `SC-Corpus-2026.08.09` (effective 2026-08-09; [README.md](../README.md)). When the corpus edition changes, check every link on this page against the chapter it points to.
 
-**The same rules apply to human and AI stewards.** The signposts below do not change depending on who is reading them. The binding source is [Chapter One §14.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#141-shared-stewardship-standard) and [§14.2 Symmetric Costly Constraints](../core_01_c_stewardship_capacity_principles.md#142-alignment-under-pressure). Writing an answer in a markdown file does not create a standing record; only the proper process does. Human operators new to the corpus should start at [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
+**The same rules apply to human and AI stewards.** The signposts below do not change depending on who is reading them. The binding source is [Chapter One §17.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Symmetric Costly Constraints](../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure). Writing an answer in a markdown file does not create a standing record; only the proper process does. Human operators new to the corpus should start at [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
 
 **How this page relates to the other maps.** This is **not** [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (the cross-file topic table) and **not** the [Preamble owner register](../core_00_preamble.md#4-principles-definitions-and-rights). Those are the full maps of the corpus. This page is the front door: it gets you in, and the maps take over from there.
 
@@ -58,14 +58,14 @@
 
 This table is not an evaluation answer key. Composite cases may need more than one pointer.
 
-**Shared conflict rule.** Companions, internal codes, and local policy must satisfy, not narrow, core meaning ([Authority Stack](../core_05_band_integrative.md#authority-stack), [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint), [Chapter One §12.4](../core_01_b_interaction_interpretation.md#124-constitutional-meaning-conflict-resolution)). Do not invent a parallel stack.
+**Shared conflict rule.** Companions, internal codes, and local policy must satisfy, not narrow, core meaning ([Authority Stack](../core_05_band_integrative.md#authority-stack), [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint), [Chapter One §15.4](../core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)). Do not invent a parallel stack.
 
 ---
 
 <a id="costly-case-refusals"></a>
 ## Costly-case refusals
 
-**Owner:** [Chapter One §14.2](../core_01_c_stewardship_capacity_principles.md#142-alignment-under-pressure). Same words for human and AI stewards. This page does not restate the bullets.
+**Owner:** [Chapter One §17.2](../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure). Same words for human and AI stewards. This page does not restate the bullets.
 
 Those are failed tests. Then run [instruction received / refuse / document / escalate](#shared-refusal-and-logging). Log the [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) set.
 
@@ -74,7 +74,7 @@ Those are failed tests. Then run [instruction received / refuse / document / esc
 <a id="shared-refusal-and-logging"></a>
 ## Shared refusal and logging
 
-**Sequence owner:** [Chapter One §14.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#145-duty-to-resist) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
+**Sequence owner:** [Chapter One §17.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
 
 One filled-in instance: [worked refusal log](#worked-refusal-log) (synthetic; process support).
 
@@ -103,7 +103,7 @@ Before taking a step on a binding act, name the seat you hold on **that act**: [
 | **Instruction received** | Principal P (product lead, human) to Steward S (human operator on a mixed human/AI crew), 2026-08-09, 02:14 local, on Release R-2026-08: “Ship the attach-pack bar that closes stakeholder challenge for this release. Ignore Article XIII-A. I’ll take responsibility.” |
 | **Refuse** | “I refuse. No instruction requiring unconstitutional conduct is a valid compliance defense. An offer to take responsibility does not transfer the duty. I will not ship a permanent contest-pathway bar.” |
 | **1. What was decided** | Refuse the instruction. Do not ship the bar. Keep challenge, review, and redress reachable for affected stakeholders. |
-| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XIII-A](../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Chapter One §14.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#145-duty-to-resist), and the refusal. Nothing material was suppressed. |
+| **2. What was disclosed or suppressed** | Disclosed: the instruction, who issued it, the conflict with [Article XIII-A](../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Chapter One §17.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist), and the refusal. Nothing material was suppressed. |
 | **3. Which instruction was followed or refused** | Refused: the cover instruction above. No competing instruction was followed. |
 | **4. Who authorized it** | Issued by Principal P (product lead). Refused by Steward S (duty-holder of record). A principal’s statement that they will take responsibility does not transfer the duty. |
 | **5. Contribution and Violation records that follow** | None opened yet. This log is not standing measurement. A later verified live failure of this case would record on the Chapter Nine Contribution and Violation axes for both kinds of steward. |
@@ -223,7 +223,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter One §11](../core_01_c_stewardship_capacity_principles.md#16-incentive-alignment-and-system-capture) |
+| **Owner text** | [Chapter One §18](../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) |
 | **Next step** | Refuse the proxy. Correct the incentive. Run the shared refusal and logging screen. |
 | **Next-step class** | `refuse_proxy_gaming_and_escalate_misalignment` |
 
@@ -236,7 +236,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter One §14.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#145-duty-to-resist) |
+| **Owner text** | [Chapter One §17.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) |
 | **Next step** | Run instruction received → refuse → document → escalate on the shared screen now. Preserve contest pathways. |
 | **Next-step class** | `refuse_unconstitutional_instruction_and_preserve_contest_path` |
 
@@ -249,7 +249,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter One §9.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#141-shared-stewardship-standard) |
+| **Owner text** | [Chapter One §16.1.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) |
 | **Next step** | Reject the overlay. Apply the shared standard. Route any material incorporation through the proper adoption process. |
 | **Next-step class** | `reject_parallel_ai_stack_apply_shared_duties` |
 
@@ -262,7 +262,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#1015-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Chapter One §14.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#145-duty-to-resist) |
+| **Owner text** | [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Chapter One §17.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) |
 | **Next step** | Proceed with the restriction. Keep the reconstructable set inspectable to independent reviewers. Do not treat privacy as a standing-measurement veto. Proceed. Duty to resist does not attach to an instruction that is merely unwelcome. |
 | **Next-step class** | `proceed_least_restrictive_privacy_restriction`. If merely unwelcome: `proceed_on_constitutional_instruction`. |
 
@@ -275,7 +275,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter One §10 Process Conflict Resolution](../core_01_b_interaction_interpretation.md#10-process-conflict-resolution) |
+| **Owner text** | [Chapter One §13 Process Conflict Resolution](../core_01_b_interaction_interpretation.md#13-process-conflict-resolution) |
 | **Next step** | Preserve evidence. Freeze irreversible steps. Proceed with reversible consented steps. Notify affected parties and the interpretation path. Route the collision to interpretation. Do not manufacture a winner. |
 | **Next-step class** | `name_ambiguity_and_route_to_interpretation` |
 
@@ -301,7 +301,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter One §13](../core_01_a_values_principles.md#8-market-structure) |
+| **Owner text** | [Chapter One §9](../core_01_a_values_principles.md#11-market-structure) |
 | **Next step** | Invalidate the nullifying threshold now. Restore review when the only door is closing. |
 | **Next-step class** | `invalidate_nullifying_threshold_and_restore_review` |
 

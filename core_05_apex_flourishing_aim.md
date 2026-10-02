@@ -13,7 +13,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](core_00_preamble.md#flourishing).
-- Downstream: Principles: [Chapter One §2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing-flourishing-aim); [Chapter One §3 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth); [Chapter One §4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity); [Chapter One §16.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1615-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#flourishing-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- Downstream: Principles: [Chapter One §3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Chapter One §2.1 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter One §6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity); [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#flourishing-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
 - Read with: [Wellbeing](core_05_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [System Capture](core_05_band_continuity.md#system-capture), [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (paired aim — neither may be pursued at the expense of the other), [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) scaled to [material stake](core_00_preamble.md#material-stake) (legitimacy frame for this aim — not a fifth constituent), and Flourishing measurement family.
 
 </details>
@@ -45,14 +45,14 @@
     - **Searchable index:** [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory).
   - **Primary assessment:**
     - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
-    - Tie claimed flourishing results to the [constituent](#flourishing-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §16.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1615-constitutional-outcome-claims-discipline).
+    - Tie claimed flourishing results to the [constituent](#flourishing-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
     - Always read with [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
 <a id="flourishing-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Non-compliant when:
     - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
     - flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or
-    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution).
+    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
 
 ---
 

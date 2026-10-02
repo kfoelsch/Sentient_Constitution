@@ -21,7 +21,7 @@
 | Orientation | Integrated | Reader-guidance widget, Trace, §1 |
 | Oversight foundation | Oversight | §2 |
 | Accountability gate | Accountability + Participation boundary | §3 |
-| Flourishing measure | Flourishing | §4.0, Chapter One §12.1 (LEQU baseline), Chapter One §12.2 (primary category defaults) |
+| Flourishing measure | Flourishing | §4.0, Chapter One §15.1 (LEQU baseline), Chapter One §15.2 (primary category defaults) |
 | Accountability measure | Accountability | §3.3 |
 
 ## Chapter Ten — section map
@@ -77,7 +77,7 @@
 - `core_11_a_misconduct_designation.md`
 - `core_12_forum.md`
 - `core_00_preamble.md`
-- `core_05_band_accountability.md` (Chapter One §8.10 trace)
+- `core_05_band_accountability.md` (Chapter One §15.10 trace)
 - `README.md`
 - `doc_architecture.md`
 - `corpus_forum/cf_00_registry_and_reading_rules.md`

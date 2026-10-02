@@ -49,7 +49,7 @@ See: [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_res
 - **Today:** The clinic will give you a break if you become “decision-maker.” Or they will only help if you leave the household. Keep the adult and lose rest, or take rest and take over.
 - **With this Constitution:** Survival and rest cannot be billed as the price of unpaid care. Helping with one hard thing is not a key to every decision. If someone has to decide a thing they cannot currently carry, that step has to be only that thing, the smallest needed, time-limited, and looked at again.
 
-See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §10.1.5](../../../core_01_b_interaction_interpretation.md#1015-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter One §13.1.5](../../../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 **You are not automatically their owner.**
 - **Today:** Because you pay a bill, the file lists you as the one who decides the clinician, the cards, and who they may see. Refusal is treated as proof they cannot decide — or as proof you are failing.

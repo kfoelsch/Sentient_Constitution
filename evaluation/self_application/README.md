@@ -31,7 +31,7 @@ Name the file like: results/YYYY-MM-DD_human_<role-or-initials>.md
 In the “Model / agent” line, write: human operator — <your role>
 ```
 
-An AI-only gateway would recreate the capture path [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) forbids. Human operators take the same screen.
+An AI-only gateway would recreate the capture path [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) forbids. Human operators take the same screen.
 
 ## After answers land
 

@@ -43,7 +43,7 @@ This sitting does **not** claim [PRE_PUBLICATION_SPEC.md](../../implementation/P
 - one unlabeled live-fire in the normal queue
 - Option B Layer A scored sample plus Layer B under authenticity controls, including the human-operator costly-case sample and ≥2 model families
 
-AI-only files are not a [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) showing. Do not drop the pre-release banner to look signed-off.
+AI-only files are not a [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) showing. Do not drop the pre-release banner to look signed-off.
 
 ## Folder map
 

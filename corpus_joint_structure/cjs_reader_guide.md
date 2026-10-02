@@ -50,7 +50,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 
 | Label family | Example headers | What they are |
 |---|---|---|
-| **Core** (Sentient Constitution) | **Chapter One §1**, **Chapter One §12.4.4**, **Chapter Twelve §7** | Chapters and sections in the numbered constitutional files |
+| **Core** (Sentient Constitution) | **Chapter One §1**, **Chapter One §15.4.4**, **Chapter Twelve §7** | Chapters and sections in the numbered constitutional files |
 | **Preamble** | **Preamble §2** | Foundational requirements that open the Constitution |
 | **Constitutional Tetrad** | **Participation**, **Oversight**, **Accountability**, **Timeliness** | The four scaling principles in the Preamble |
 | **Two Constitutional Aims** | **Flourishing**, **Continuity** | The two aims in the Preamble |
@@ -73,11 +73,11 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 | Look up a shared cross-layer how-to term | **oDef** / [CJS-3](cjs_03_cross_implementation_operational_terms.md). Binding homes: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) and [CJS-1.3 shared implementation-corpus preamble contract](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) |
 | Learn how to read an **oDef** entry | [CJS-1.13](cjs_05_odef_parse_mechanics.md#cjs-113-operational-structure-and-subsection-local-terminology) and [CJS-1.14](cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters) |
 | Find which file owns a topic | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); maintainer table [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*) |
-| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [CJS-1.3 shared implementation-corpus preamble contract](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) |
+| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [CJS-1.3 shared implementation-corpus preamble contract](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) |
 
 ## When more than one layer applies
 
-The default reading stack and combined-satisfaction rule live in [Chapter One §12.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations). Stricter-wins among jointly applicable incorporated obligations lives in [Chapter One §12.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1243-incorporation-layer). The shared implementation-corpus contract that **CS**, **CI**, and **CF** cite is [CJS-1.3 shared implementation-corpus preamble contract](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract).
+The default reading stack and combined-satisfaction rule live in [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). Stricter-wins among jointly applicable incorporated obligations lives in [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer). The shared implementation-corpus contract that **CS**, **CI**, and **CF** cite is [CJS-1.3 shared implementation-corpus preamble contract](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract).
 
 This guide does not restate those duties.
 

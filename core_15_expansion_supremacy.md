@@ -112,7 +112,7 @@ For adopting entities, this Constitution and its integrated definitions govern i
 
 - Upstream: [§3.1](#31-internal-hierarchy-for-adopters) internal hierarchy baseline.
 - Downstream: [§3.3](#33-conflict-disclosure-and-mitigation) when stricter external and constitutional requirements appear to collide.
-- Read with: [Chapter One §3](core_01_a_values_principles.md#3-non-negotiable-principle-constraints-safety-and-truth) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
+- Read with: [Chapter One §2.1](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
 
 </details>
 

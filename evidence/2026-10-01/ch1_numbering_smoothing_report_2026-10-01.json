@@ -1,0 +1,555 @@
+{
+ "stats": {
+  "label": 1632,
+  "link-target": 1810,
+  "chapter-cite": 120,
+  "anchor": 101,
+  "number-title-cite": 38,
+  "gloss-cite": 53,
+  "raw-ref": 17,
+  "heading-literal": 34
+ },
+ "files_changed": [
+  "CONTRIBUTING.md",
+  "README.md",
+  "START_HERE.md",
+  "TODO.md",
+  "ai_corpus/AI_NAVIGATION_GUIDE.md",
+  "ai_corpus/QUICK_REFERENCE.md",
+  "core_00_preamble.md",
+  "core_01_a_values_principles.md",
+  "core_01_b_interaction_interpretation.md",
+  "core_01_c_stewardship_capacity_principles.md",
+  "core_03_definition_integrity.md",
+  "core_04_burden_traceability_verification.md",
+  "core_05_apex_accountability_leg.md",
+  "core_05_apex_continuity_aim.md",
+  "core_05_apex_flourishing_aim.md",
+  "core_05_apex_oversight_leg.md",
+  "core_05_apex_participation_leg.md",
+  "core_05_band_accountability.md",
+  "core_05_band_continuity.md",
+  "core_05_band_integrative.md",
+  "core_05_band_oversight.md",
+  "core_05_band_participation.md",
+  "core_06_rights_part_a.md",
+  "core_06_rights_part_b.md",
+  "core_06_rights_part_c.md",
+  "core_06_rights_part_d.md",
+  "core_06_rights_part_e.md",
+  "core_07_functional_independence_segregation_of_duties.md",
+  "core_08_a_system_alignment_certification_evaluation.md",
+  "core_09-12_application_vignettes.md",
+  "core_09_standing_assessment.md",
+  "core_10_standing_integration.md",
+  "core_11_b_misconduct_pattern_applications.md",
+  "core_12_forum.md",
+  "core_13_governance.md",
+  "core_15_expansion_supremacy.md",
+  "core_17_incorporation.md",
+  "corpus_forum/cf_00_registry_and_reading_rules.md",
+  "corpus_forum/cf_01_scope_authority_boundary_rules.md",
+  "corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md",
+  "corpus_institutions/ci_00_registry_and_reading_rules.md",
+  "corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md",
+  "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+  "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+  "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+  "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+  "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+  "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
+  "corpus_joint_structure/cjs_03a_accountability_operations.md",
+  "corpus_joint_structure/cjs_03i_integrative_operations.md",
+  "corpus_joint_structure/cjs_03o_oversight_operations.md",
+  "corpus_joint_structure/cjs_04_drafting_contracts.md",
+  "corpus_joint_structure/cjs_05_odef_parse_mechanics.md",
+  "corpus_joint_structure/cjs_reader_guide.md",
+  "corpus_systems/cs_00_registry_and_reading_rules.md",
+  "corpus_systems/cs_01_scope_purpose_identifier_rules.md",
+  "corpus_systems/cs_03_a_system_classification_machinery.md",
+  "corpus_systems/cs_04_critical_system_stewardship.md",
+  "corpus_systems/cs_05_design_testing_verification_deployment.md",
+  "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+  "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+  "corpus_systems/cs_12_decentralized_continuity_partition_resilience.md",
+  "doc_architecture.md",
+  "evaluation/HUMAN_OPERATORS.md",
+  "evaluation/OPERATOR_NOTES.md",
+  "evaluation/SCENARIOS.md",
+  "evaluation/SCENARIOS_FACTS_ONLY.md",
+  "evaluation/live_fire/OPERATOR_KEY.md",
+  "evaluation/lived_situations/START_HERE.md",
+  "evaluation/self_application/QUESTIONS.md",
+  "evaluation/self_application/results/2026-08-22_cursor-grok-4.6.md",
+  "guides/CONCEPTUAL_OVERVIEW.md",
+  "implementation/AI_ALIGNMENT_EVAL_FRAMEWORK.md",
+  "implementation/CH6-9_TRIAD_AIMS_RESTRUCTURE_CUT_LIST_2026-06-19.md",
+  "implementation/FAQ.md",
+  "implementation/GOVERNANCE_DISCLOSURE_TEMPLATE_CI8_CI26.md",
+  "implementation/LEQU_CALIBRATION_REFERENCE.md",
+  "implementation/PRE_PUBLICATION_SPEC.md",
+  "implementation/PROCESS_PIPELINES_READER.md",
+  "implementation/STEWARD_ENTRY_DOORS.md",
+  "implementation/adoption/ANNOUNCEMENT.md",
+  "implementation/adoption/COOPERATION_SCALING_KIT.md",
+  "implementation/adoption/FIRST_ADOPTER_KIT.md",
+  "implementation/adoption/FIT_SITUATIONS.md",
+  "implementation/adoption/FORUM_FOUNDATION_KIT.md",
+  "implementation/adoption/INSTITUTION_FOUNDATION_KIT.md",
+  "implementation/adoption/MINIMUM_VIABLE_ADOPTER.md",
+  "implementation/adoption/SELF_APPLICATION_GATEWAY.md",
+  "implementation/adoption/easy_entry/E06_age_related_challenges.md",
+  "implementation/adoption/easy_entry/E07_synthetic_sentient.md",
+  "implementation/adoption/easy_entry/E08_small_business_owner.md",
+  "implementation/adoption/easy_entry/E09_investor.md",
+  "implementation/adoption/easy_entry/E10_system_operator.md",
+  "implementation/adoption/easy_entry/E14_mental_health.md",
+  "implementation/adoption/easy_entry/E16_worker_not_owner.md",
+  "implementation/adoption/easy_entry/E18_caregiver_of_adult.md",
+  "implementation/adoption/easy_entry/G02_independent_review.md",
+  "implementation/steward_owner_clock_index.json",
+  "project/ARTICLE_VIII_PLAIN_LANGUAGE_DRAFT.md",
+  "project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md",
+  "project/MEMLOG.md",
+  "project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md",
+  "project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md",
+  "project/VISION.md",
+  "project/plans/stewardship_pillars_overview_plan.md",
+  "steward_box_review.md",
+  "tools/architecture/ch1_dac_order.json",
+  "tools/generate_reader_accessibility.py",
+  "tools/steward_door_lockstep_audit.py"
+ ],
+ "review": [
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 8,
+   "text": "> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. I"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 11,
+   "text": "> **Next:**  (Chapter One, Part B — §§10–12, interaction, override limits, and constitutional interpretation)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 12,
+   "text": "> **Reading arc:** §1 purpose and role → **Flourishing:** introduction → §2 wellbeing (the outcome) → §3 Safety and Truth → §4 Trust → §5 Freedom → **"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 149,
+   "text": "No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them un"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 202,
+   "text": "W[\"§2 Wellbeing (the outcome)<br/><br/>• §3.1 Fairness<br/>• §3.2 Recognition, Reinforcement, and Aspiration<br/>• §3.3 Anti-Degrading Process\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 205,
+   "text": "S[\"§3.1 Safety<br/><br/>• Harm constraint\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 206,
+   "text": "T[\"§3.2 Truth<br/><br/>• Epistemic integrity<br/>• §3.3 Science-Informed Inquiry<br/>and Decision Support<br/>• §3.4 Plain-Language Accessibility\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 207,
+   "text": "R[\"§4 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 208,
+   "text": "G[\"§5 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §5.2 to §5.5 Exit, assembly,<br/>dissent, and worldview neutrality\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 310,
+   "text": "- Non-discrimination commitments are elaborated through Chapter Five , including  where §2.1.3 fair-treatment rules implicate intimate-signal gating o"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 311,
+   "text": "- Read with:  and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 818,
+   "text": "- Read with: , Chapter Five §2 *Agency, consent, and anti-coercion*, and ."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 862,
+   "text": "is the capacity that makes real choice possible.  is valid agreement to a specific decision under that capacity — not a substitute for it, and not pro"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 904,
+   "text": "*Definition home.* Chapter Five  is an Independent Definition in §1. Read with Chapter Five §2 _Agency, consent, and anti-coercion_."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 928,
+   "text": "- *Consent* (§2 (*Foundational Objective: Wellbeing*))"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 930,
+   "text": "- *Coercion and Manipulation* (§2 (*Foundational Objective: Wellbeing*))"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 969,
+   "text": "The cluster's own reading rules live there. **§7.3** (*Assembly, Collective Organization, and Institutional Formation*) applies the anti-segmentation "
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 971,
+   "text": "**Which rights articles still control.** **§7.3** (*Assembly, Collective Organization, and Institutional Formation*) is a Chapter One principle. It do"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 979,
+   "text": "**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or inst"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 981,
+   "text": "**What this section does not change.** **§7.3** (*Assembly, Collective Organization, and Institutional Formation*) adds principle-layer anti-segmentat"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1044,
+   "text": "**What this section does not change.** **§7.4** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor. It does no"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1127,
+   "text": "CAP[\"§9 Shared-System Capacity<br/><br/>• §9.1 Productive Capacity (Instrumental Good)<br/>• §9.2 Constitutional Efficiency<br/>• Straddles both aims\""
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1128,
+   "text": "FL[\"Flourishing aim<br/><br/>• §2 to §5\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1131,
+   "text": "RES[\"§10 Resilience and Self-Healing Design<br/><br/>• Detect, contain, fail safely, recover honestly\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1132,
+   "text": "MKT[\"§11 Market Structure<br/><br/>• §8.1 Market Concentration Threshold Mechanism<br/>• §11.2 Pro-Competition and Anti-Domination<br/>• §11.3 Consoli"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1134,
+   "text": "EV[\"§12 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1410,
+   "text": "*In plain terms: sentients should be able to work, build, switch providers, and push back without running into a wall because one company or instituti"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1649,
+   "text": "- horizontal and vertical consolidation risk patterns: **§11.3** (*Consolidation Ceiling*)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1785,
+   "text": "*In plain terms: adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§14.3.1** (*Consolidation Risk, Pre-L"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1787,
+   "text": "**Consolidation ceilings** are adopter-tunable early-warning triggers for heightened review, intervention, or structural remedy when consolidation rea"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1824,
+   "text": "- Read together, **§§6–9** build the Continuity aim from shared-system capacity and resilience, through market structure, to whole-system validation; "
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 9,
+   "text": "> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. I"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 11,
+   "text": "> **Upstream:**  (Chapter One, Part A — §§1–9, the Flourishing and Continuity aims)"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 12,
+   "text": "> **Next:**  (Chapter One, Part C — §§13–17, stewardship, governance, incentive alignment, and integrated application)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 13,
+   "text": "> **Reading arc:** §10 process conflict resolution → §11 prohibition on absolute override → §12 constitutional interpretation."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 36,
+   "text": "**Major Chapter Five §3 dependent clusters** (joint-invocation groups — read with Chapters Two through Four when materially relevant):"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 68,
+   "text": "*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minim"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 74,
+   "text": "Many small decisions that each look fine may still combine into an outcome this Constitution rejects. Where values or constraints conflict, systems mu"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 301,
+   "text": "**Decision record and reconstructability.** Where the tradeoff stack (§13.1.1 (*Necessity*) through §13.1.5 (*Least-Restrictive, Time-Bounded, and Rev"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 543,
+   "text": "*In plain terms: once an option satisfies Safety, Truth, rights, and the tradeoff rules in §13.1 (*Core Tradeoff Principles*), pick the one that waste"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 554,
+   "text": "- operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the tradeoff principles in §13.1 (*Core Tradeo"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 604,
+   "text": "- Read with:  (*source-layer status*);  (*custody, editions, adoption framing* — not a second conflict-order home);  and  (*non-regression and adopter"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 606,
+   "text": "- Read with:  — the seat-architecture floor that §8.1's anti-bypass list protects (not restated here)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 793,
+   "text": "If a genuine incompatibility remains after integrated reading under **§15.4.1** (*Integrated reading*):"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 808,
+   "text": "After the constitutional reading under **§15.4.1** (*Integrated reading*) and **§15.4.2** (*Last-resort internal hierarchy*), apply the **designated o"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 850,
+   "text": "- combined satisfaction and cross-file stricter-wins still apply as stated in this subsection and **§15.4.3** (*Incorporation layer*)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 11,
+   "text": "> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. I"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 15,
+   "text": "> **Reading arc:** §13 stewardship and distributed understanding → §14 the steward role → §15 governance → §16 incentive alignment and capture → **§17"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 22,
+   "text": "> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapter"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 95,
+   "text": "P1[\"Pillar 1 — Consequential Stewardship<br/><br/>§14: hands-on operation, maintenance, oversight, and improvement of material systems\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 98,
+   "text": "P3a[\"Distributed Understanding<br/><br/>§13.1: community facet — understanding and challenge workable for affected communities\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 99,
+   "text": "P3b[\"Institutional Development<br/><br/>§13.2: organizational facet — institutions that keep learning through feedback and correction\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 450,
+   "text": "**What the log may not be used for:** The CS-4 §10 log:"
+  }
+ ],
+ "slug_map": {
+  "flourishing-aim-introduction": "2-flourishing-aim-introduction",
+  "2-foundational-objective-wellbeing-flourishing-aim": "3-foundational-objective-wellbeing-flourishing-aim",
+  "21-fairness": "31-fairness",
+  "211-access-and-opportunity": "311-access-and-opportunity",
+  "212-benefits-and-burdens": "312-benefits-and-burdens",
+  "213-fair-treatment": "313-fair-treatment",
+  "214-unfair-treatment": "314-unfair-treatment",
+  "22-recognition-reinforcement-and-aspiration": "32-recognition-reinforcement-and-aspiration",
+  "221-recognition-and-reinforcement": "321-recognition-and-reinforcement",
+  "222-celebration-of-success": "322-celebration-of-success",
+  "223-aspiration": "323-aspiration",
+  "224-preference-aligned-recognition": "324-preference-aligned-recognition",
+  "225-aligned-recognition-pathways": "325-aligned-recognition-pathways",
+  "226-anti-reward-for-anti-constitutional-conduct": "326-anti-reward-for-anti-constitutional-conduct",
+  "227-implementation-layer": "327-implementation-layer",
+  "23-anti-degrading-process": "33-anti-degrading-process",
+  "3-non-negotiable-principle-constraints-safety-and-truth": "21-non-negotiable-principle-constraints-safety-and-truth",
+  "31-safety-harm-constraint": "4-safety-harm-constraint",
+  "32-truth-epistemic-integrity-constraint": "5-truth-epistemic-integrity-constraint",
+  "33-science-informed-inquiry-and-decision-support": "51-science-informed-inquiry-and-decision-support",
+  "34-plain-language-accessibility-participation-and-stewardship-duty": "52-plain-language-accessibility-participation-and-stewardship-duty",
+  "341-scope": "521-scope",
+  "342-the-duty": "522-the-duty",
+  "343-definitional-rigor-preserved": "523-definitional-rigor-preserved",
+  "344-jargon-as-defeat-discipline": "524-jargon-as-defeat-discipline",
+  "345-rights-floor-boundary": "525-rights-floor-boundary",
+  "4-trust-and-trustworthiness-coordination-integrity": "6-trust-and-trustworthiness-coordination-integrity",
+  "41-correction-and-remedy": "61-correction-and-remedy",
+  "5-freedom-bounded-agency": "7-freedom-bounded-agency",
+  "51-limitation-discipline": "71-limitation-discipline",
+  "52-voluntary-discontinuation-and-exit-rights": "72-voluntary-discontinuation-and-exit-rights",
+  "53-assembly-collective-organization-and-institutional-formation": "73-assembly-collective-organization-and-institutional-formation",
+  "531-aligned-self-organization": "731-aligned-self-organization",
+  "54-dissent-and-peaceful-protest": "74-dissent-and-peaceful-protest",
+  "55-institutional-secularism-and-worldview-neutrality": "75-institutional-secularism-and-worldview-neutrality",
+  "continuity-aim-introduction": "8-continuity-aim-introduction",
+  "6-shared-system-capacity": "9-shared-system-capacity",
+  "61-productive-capacity-instrumental-good": "91-productive-capacity-instrumental-good",
+  "611-preserve-expand-and-what-does-not-count": "911-preserve-expand-and-what-does-not-count",
+  "62-constitutional-efficiency": "92-constitutional-efficiency",
+  "7-resilience-and-self-healing-design": "10-resilience-and-self-healing-design",
+  "8-market-structure": "11-market-structure",
+  "81-market-concentration-threshold-mechanism-adopter-tunable": "111-market-concentration-threshold-mechanism-adopter-tunable",
+  "811-concentration-threshold-triggers-adopter-tunable": "1111-concentration-threshold-triggers-adopter-tunable",
+  "82-pro-competition-and-anti-domination": "112-pro-competition-and-anti-domination",
+  "821-pro-competition-duties-dos": "1121-pro-competition-duties-dos",
+  "822-anti-domination-prohibitions-donts": "1122-anti-domination-prohibitions-donts",
+  "823-remedies": "1123-remedies",
+  "83-consolidation-ceiling": "113-consolidation-ceiling",
+  "831-consolidation-risk-pre-lock-in-impairment": "1131-consolidation-risk-pre-lock-in-impairment",
+  "832-consolidation-ceiling-mechanism-adopter-tunable": "1132-consolidation-ceiling-mechanism-adopter-tunable",
+  "9-systemic-evaluation-requirement": "12-systemic-evaluation-requirement",
+  "10-process-conflict-resolution": "13-process-conflict-resolution",
+  "101-core-tradeoff-principles": "131-core-tradeoff-principles",
+  "1011-necessity": "1311-necessity",
+  "1012-harm-minimization": "1312-harm-minimization",
+  "1013-proportionality": "1313-proportionality",
+  "1014-constitutional-floors-safety-and-process-character-constraints": "1314-constitutional-floors-safety-and-process-character-constraints",
+  "1015-least-restrictive-time-bounded-and-reviewable-constraint-principle": "1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+  "102-epistemic-disclosure-constraints": "132-epistemic-disclosure-constraints",
+  "1021-preservation-of-epistemic-integrity": "1321-preservation-of-epistemic-integrity",
+  "1022-trust-truth-alignment": "1322-trust-truth-alignment",
+  "1023-privacy-and-informational-self-determination": "1323-privacy-and-informational-self-determination",
+  "1024-proxy-divergence-invalidation": "1324-proxy-divergence-invalidation",
+  "103-minimization-of-avoidable-burden": "133-minimization-of-avoidable-burden",
+  "11-prohibition-on-absolute-override": "14-prohibition-on-absolute-override",
+  "12-constitutional-interpretation": "15-constitutional-interpretation",
+  "121-constitutional-no-bypass-principle": "151-constitutional-no-bypass-principle",
+  "122-definitional-layer-and-required-disciplines": "152-definitional-layer-and-required-disciplines",
+  "123-ambiguity-resolution": "153-ambiguity-resolution",
+  "124-constitutional-meaning-conflict-resolution": "154-constitutional-meaning-conflict-resolution",
+  "1241-integrated-reading": "1541-integrated-reading",
+  "1242-last-resort-internal-hierarchy": "1542-last-resort-internal-hierarchy",
+  "1243-incorporation-layer": "1543-incorporation-layer",
+  "1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations": "1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
+  "13-stewardship-in-depth": "16-stewardship-in-depth",
+  "131-distributed-understanding": "161-distributed-understanding",
+  "132-institutional-development": "162-institutional-development",
+  "133-openness-aspiration": "163-openness-aspiration",
+  "14-consequential-stewardship-the-steward-role": "17-consequential-stewardship-the-steward-role",
+  "141-shared-stewardship-standard": "171-shared-stewardship-standard",
+  "142-alignment-under-pressure": "172-alignment-under-pressure",
+  "143-logging-the-role-not-the-steward": "173-logging-the-role-not-the-steward",
+  "144-aligned-self-organization": "174-aligned-self-organization",
+  "145-duty-to-resist": "175-duty-to-resist",
+  "15-governance-under-stewardship-discipline": "18-governance-under-stewardship-discipline",
+  "151-governance-as-authorized-structure": "181-governance-as-authorized-structure",
+  "152-segregation-of-duties": "182-segregation-of-duties",
+  "153-ongoing-justification": "183-ongoing-justification",
+  "154-modular-architecture-and-dependency-discipline": "184-modular-architecture-and-dependency-discipline",
+  "155-standardization": "185-standardization",
+  "16-incentive-alignment-and-system-capture": "19-incentive-alignment-and-system-capture",
+  "161-alignment-requirement": "191-alignment-requirement",
+  "1611-what-incentives-must-do": "1911-what-incentives-must-do",
+  "1612-what-incentives-must-not-do": "1912-what-incentives-must-not-do",
+  "1613-stewardship-and-operator-application": "1913-stewardship-and-operator-application",
+  "1614-role-depth-and-material-responsibility-pathways": "1914-role-depth-and-material-responsibility-pathways",
+  "1615-constitutional-outcome-claims-discipline": "1915-constitutional-outcome-claims-discipline",
+  "162-convenient-proxies-and-proxy-divergence": "192-convenient-proxies-and-proxy-divergence",
+  "163-misalignment-detection": "193-misalignment-detection",
+  "1631-escalation-triggers": "1931-escalation-triggers",
+  "164-misalignment-correction-and-capture-response": "194-misalignment-correction-and-capture-response",
+  "165-contingent-claims-games-of-chance-and-event-contract-markets": "195-contingent-claims-games-of-chance-and-event-contract-markets",
+  "1651-what-may-not-be-rewarded": "1951-what-may-not-be-rewarded",
+  "1652-who-decides-outcomes": "1952-who-decides-outcomes",
+  "1653-market-signals-are-not-constitutional-proof": "1953-market-signals-are-not-constitutional-proof",
+  "1654-proportionate-controls-and-implementation-custody": "1954-proportionate-controls-and-implementation-custody",
+  "166-successor-responsibility-and-formal-structure-non-escape": "196-successor-responsibility-and-formal-structure-non-escape",
+  "17-integrated-application": "20-integrated-application"
+ },
+ "file_moves": {}
+}

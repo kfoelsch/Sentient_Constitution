@@ -55,7 +55,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §4, §6.2, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.2, §6, §13.2, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -256,7 +256,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §4, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -375,13 +375,13 @@ Operational transparency and structured logging requirements
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- Read with: **[Chapter One §10.1.5 Rights-Collision Procedure](../core_01_b_interaction_interpretation.md#1015-rights-collision-decision-test)**
+- Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)**
 - Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems))
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §11.2, §11, §12.1, §8 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.2, §18.2, §18, §19.1, §15 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -591,7 +591,7 @@ Tier structure and baseline accessibility
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
-- Chapter One basis: §8.2, §3.3, §4, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -745,7 +745,7 @@ Structured review and incentive-integrity floor
 - Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
-- Chapter One basis: §8.1, §8.2, §12.1, §12.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.1, §15.2, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-3.3**, **CJS-3.15**, **CI-7.3**, **CI-8**, **CI-12**, **CF-11**.
 
 </details>

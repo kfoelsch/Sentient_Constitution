@@ -81,7 +81,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing-flourishing-aim), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution), and [§16 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#16-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), and [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -141,7 +141,7 @@ If the system meets the importance threshold in **Article XIII** (*Right to Reli
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), and [Chapter One §10.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1015-rights-collision-decision-test).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access; [**Article XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) for what a successful challenge must lead to.
 
 </details>
@@ -169,7 +169,7 @@ This Article sets out the trust guarantee for systems that materially affect sen
   - disclosure of material conditions, limits, and risks needed to evaluate whether reliance is warranted;
   - freedom from systematic deception, misrepresentation, or unverifiable manipulation;
   - protection from undisclosed, disproportionate, or non-obvious risks arising from reliance;
-  - correction and remedy when the system does wrong: acknowledgment, correction, proportionate repair, and prevention of recurrence, under [**Article XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) and [Chapter One §4.1 Correction and Remedy](core_01_a_values_principles.md#41-correction-and-remedy).
+  - correction and remedy when the system does wrong: acknowledgment, correction, proportionate repair, and prevention of recurrence, under [**Article XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) and [Chapter One §6.1 Correction and Remedy](core_01_a_values_principles.md#61-correction-and-remedy).
 - **Contestability guarantee:** Systems that materially affect sentients must stay open to challenge for as long as sentients rely on them. That requires:
   - a usable path to challenge the system's behavior, outputs, or representations and have the challenge reviewed;
   - audit and independent verification proportionate to impact and dependency under [**Article XVI**](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
@@ -189,7 +189,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4.1 Correction and Remedy](core_01_a_values_principles.md#41-correction-and-remedy) (principle floor), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Chapter One §10.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1015-rights-collision-decision-test).
+- Upstream: Principles: Chapter One [§6.1 Correction and Remedy](core_01_a_values_principles.md#61-correction-and-remedy) (principle floor), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Read with: [**Article XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where system failure or misalignment defeats survival-essential access; [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*); [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 </details>
@@ -215,7 +215,7 @@ This Article sets out the right to redress and remedy and what makes it usable i
   - proportionate remediation.
 
   Redress and remediation for material impacts are governed by **Chapter Five** Independent Definitions (*Redress and Remediation*).
-- **Remedy-system durability:** Redress requires a real [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — durable institutional capacity, not a paper remedy pathway — with correction costs borne by those responsible, as [Chapter One §4.1](core_01_a_values_principles.md#41-correction-and-remedy) (*Correction and Remedy*) requires.
+- **Remedy-system durability:** Redress requires a real [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) — durable institutional capacity, not a paper remedy pathway — with correction costs borne by those responsible, as [Chapter One §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) requires.
 - **Timely redress:** Practical access includes:
   - time-bounded intake;
   - acknowledgment; and
@@ -226,7 +226,7 @@ This Article sets out the right to redress and remedy and what makes it usable i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), and [§10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
 
 </details>
 
@@ -256,7 +256,7 @@ This Article sets out the prohibition of false trust and its scope:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), [§15 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#15-governance-under-stewardship-discipline), and [§16.1.1 What Incentives Must Do](core_01_c_stewardship_capacity_principles.md#1611-what-incentives-must-do) (*reward priority*).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§19.1.1 What Incentives Must Do](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*reward priority*).
 
 </details>
 
@@ -297,14 +297,14 @@ This Article sets out the right-level constraints on trust and safety incentives
   - remedy under **Article XIII-B** (*Right to Redress and Remedy*); and
   - proactive prevention of problems most of all — preventing a problem earns more than remedying it.
 
-  The principle, including its bar on earning prevention rewards by hiding problems, is in [Chapter One §16.1.1](core_01_c_stewardship_capacity_principles.md#1611-what-incentives-must-do) (*What Incentives Must Do*).
-- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §16.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*) on contingent claims, games of chance, and event-contract markets.
+  The principle, including its bar on earning prevention rewards by hiding problems, is in [Chapter One §19.1.1](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) (*What Incentives Must Do*).
+- **Constraint and non-absoluteness:** Both rights are subject to the **default constraint stack** at the opening of this chapter. They are also subject, where materially relevant, to **Chapter One §19.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*) on contingent claims, games of chance, and event-contract markets.
 
 #### Article XIII-E: High-Autonomy Systems and Tool-Mediated Process Integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §10.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1015-rights-collision-decision-test), and [§15 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#15-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -354,7 +354,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), [7 Resilience and Self-Healing Design](core_01_a_values_principles.md#7-resilience-and-self-healing-design), [Chapter One §10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Resilience and Self-Healing Design](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -376,7 +376,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 
 This Article sets out the recovery baseline, from detection through root-cause closure:
 
-- **What this requires:** Every system covered by this Article must be able to recover from failures. The more impact a system has, the more others depend on it, and the riskier it is, the stronger its recovery must be. This follows [**7 Resilience and Self-Healing Design**](core_01_a_values_principles.md#7-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
+- **What this requires:** Every system covered by this Article must be able to recover from failures. The more impact a system has, the more others depend on it, and the riskier it is, the stronger its recovery must be. This follows [**10 Resilience and Self-Healing Design**](core_01_a_values_principles.md#10-resilience-and-self-healing-design) in **Chapter One** and [**Self-Healing**](core_05_band_continuity.md#self-healing-constitutional) in **Chapter Five**.
   - The detailed technical rules for how recovery must be built are in the implementation text: [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*), [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*), and [**CS-12**](corpus_systems/cs_12_decentralized_continuity_partition_resilience.md) (*Decentralized continuity and partition resilience*).
   - That implementation text can add detail, but it cannot weaken this Article.
 - **Notice problems in time:** A system must spot faults, slowdowns, partial breakdowns, and breaches of constitutional limits quickly enough, and visibly enough, to meet the record-keeping standard in **Article XVI-A** (*Auditability and Observable Evidence*) ([Auditability](core_05_band_oversight.md#auditability)). This applies to the recovery process itself, not only to normal operation.
@@ -395,14 +395,14 @@ This Article sets out the recovery baseline, from detection through root-cause c
 - **A workaround is not a fix:** If automatic recovery gets the system running again but a known defect is still in place, the system's status is provisional, not final. It must carry:
   - an open duty to find the root cause under **Article XXIII** (*Root Cause Analysis and Adaptive Response*);
   - a disclosed timeline for when the defect is expected to be fixed, under **Article XVI-A** (*Auditability and Observable Evidence*).
-- **No endless delay:** Keeping operators' workload down (see [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and [Chapter One §10.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#103-minimization-of-avoidable-burden)) must not be used as a reason to put off, indefinitely, fixing defects that materially affect safety or the Rights Floor.
+- **No endless delay:** Keeping operators' workload down (see [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) must not be used as a reason to put off, indefinitely, fixing defects that materially affect safety or the Rights Floor.
 
 ### Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing-flourishing-aim), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§15 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#15-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -452,7 +452,7 @@ Those floors apply to **exceptional institutional power** in three linked domain
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), and [Chapter One §10.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1015-rights-collision-decision-test).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 
 </details>
 
@@ -544,7 +544,7 @@ This Article sets out the limits on security, intelligence, and covert power:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§10.1.1 Necessity](core_01_b_interaction_interpretation.md#1011-necessity), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§10.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1015-rights-collision-decision-test), [§11 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#11-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Twelve §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXV** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
@@ -581,7 +581,7 @@ This Article sets out the limits on overt force, armed conflict, and military po
   - less harmful means are not reasonably sufficient;
   - the use remains necessary, proportionate, time-bounded, and independently reviewable.
 
-  Authorization must satisfy **Chapter One §10.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) rights-collision discipline where force implicates rights in tension. It must not treat the **Article IX** (*Likeness, Experiential Data, and Publication Rights*) prohibition on absolute override as escapable on operational-convenience grounds.
+  Authorization must satisfy **Chapter One §13.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) rights-collision discipline where force implicates rights in tension. It must not treat the **Article IX** (*Likeness, Experiential Data, and Publication Rights*) prohibition on absolute override as escapable on operational-convenience grounds.
 - **Combatant / non-combatant distinction:** Force must discriminate between sentients taking direct part in hostilities or armed action and sentients who are not.
   - The distinction is substantive, not reducible to formal combatant-class assignment.
   - Generalized taxonomy-of-convenience reclassifications that sweep protected populations into combatant status are non-compliant.
@@ -589,7 +589,7 @@ This Article sets out the limits on overt force, armed conflict, and military po
 - **Weapons of mass harm and existential-risk scrutiny:** Weapons whose use foreseeably causes casualty, ecological, informational, or infrastructural harm at a scale that materially implicates **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions or **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny are subject to heightened review under those provisions.
   - Possession, transfer, deployment, and use decisions must be reasoned against **Existential Risk** under **Chapter Five**.
   - Framings that treat such weapons as ordinary force-escalation tools rather than as **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) objects are non-compliant.
-- **Conscription and participation:** Compulsion into combatant status must satisfy ordinary **Chapter One §5.1** (*Limitation Discipline*) limitation discipline.
+- **Conscription and participation:** Compulsion into combatant status must satisfy ordinary **Chapter One §7.1** (*Limitation Discipline*) limitation discipline.
   - Compulsion may not turn on **Protected Characteristics** or their material proxies.
   - Conscientious-objection, comparable-worldview, and conscience-based refusal are protected consistent with **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
   - Substrate-class compulsion — for example, assignment of synthetic sentients to combat functions on the basis of substrate class alone — is non-compliant consistent with **Sentience Non-Exclusion**.
@@ -609,7 +609,7 @@ This Article sets out the limits on overt force, armed conflict, and military po
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), [§10.1.3 Proportionality](core_01_b_interaction_interpretation.md#1013-proportionality), [§10.1.1 Necessity](core_01_b_interaction_interpretation.md#1011-necessity), [§16.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#161-alignment-requirement), [§11 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#11-prohibition-on-absolute-override).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality), [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity), [§19.1 Alignment Requirement](core_01_c_stewardship_capacity_principles.md#191-alignment-requirement), [§14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article X-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XIII-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster) (joint invocation where materially implicated); Chapter Five *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** classification.
 
@@ -657,7 +657,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
 - **Existential-risk interaction:** Autonomous lethal systems at scales, capability levels, or deployment conditions materially implicating **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny are subject to that provision's [highest scrutiny](core_05_band_oversight.md#highest-scrutiny).
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) objects are non-compliant.
 - **Systems-layer interaction:** Operational classification, reliability, and **CS-3 — System classification and handling** class-scaled governance route to the systems layer — **Article XIII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
-  - Conflicts resolve under **Chapter One §10.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) without narrowing the Rights Floor.
+  - Conflicts resolve under **Chapter One §13.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) without narrowing the Rights Floor.
 
 ### Article XV: Info-Sphere Integrity
 
@@ -693,14 +693,14 @@ Accurate, relevant, and contestable information is foundational to self-determin
 *Article neighbors:*
 
 - **Read together:** **Article XIII** (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; **Article XVI** (*Audit, Transparency, and Independent Verification*) for records and independent verification; **Article XVIII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated.
-- **Truth constraint:** Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints) bind every subsection here.
+- **Truth constraint:** Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) bind every subsection here.
 - **Classification:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05_band_oversight.md#material-impact) triggers classification where class is unsettled.
 
 #### Article XV-A: Info-Sphere Plurality and Anti-Monopoly
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§4 Trust](core_01_a_values_principles.md#4-trust-and-trustworthiness-coordination-integrity), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -729,12 +729,12 @@ This Article sets out the floors for info-sphere plurality and against monopoly 
     - contestability;
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
-  - Where such signals inform public decisions or decisions with [Material Impact](core_05_band_oversight.md#material-impact), they remain subject to **Chapter One §16.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*), **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
+  - Where such signals inform public decisions or decisions with [Material Impact](core_05_band_oversight.md#material-impact), they remain subject to **Chapter One §19.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*), **Chapter Five** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XV-B: Transparency, Auditability, and Contestability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints), and [§17 Integrated Application](core_01_c_stewardship_capacity_principles.md#17-integrated-application).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -771,7 +771,7 @@ This Article sets out the floors for authentic inquiry, provenance, and contesta
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -795,7 +795,7 @@ This Article sets out the floors for correction and reporting, including footpri
   - preserve provenance;
   - avoid selective reporting, suppression, or fragmented disclosure that materially degrades decision-relevant understanding.
 
-  Where disclosure is restricted under **Chapter One §17** (*Incentive Alignment and System Capture*), limits must remain narrowly scoped, time-limited, and reviewable.
+  Where disclosure is restricted under **Chapter One §19** (*Incentive Alignment and System Capture*), limits must remain narrowly scoped, time-limited, and reviewable.
 - **Footprint data:** Reporting under this subsection implements transparency for [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) as defined in **Chapter Five**.
   - All sentients must have access to transparent, decision-usable reporting.
   - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, must provide the same access.
@@ -806,7 +806,7 @@ This Article sets out the floors for correction and reporting, including footpri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution), [§13.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#131-distributed-understanding), and [§6 Shared-System Capacity](core_01_a_values_principles.md#6-shared-system-capacity).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), [§16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), and [§9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity).
 - Read with: [Three-layer audit picture](#audit-three-layers) below.
 
 </details>
@@ -894,7 +894,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints), and [§17 Integrated Application](core_01_c_stewardship_capacity_principles.md#17-integrated-application).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -919,7 +919,7 @@ This Article sets out the floor for observable and contestable evidence:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §15 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#15-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -945,7 +945,7 @@ This Article sets out the floor for distributed oversight:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#101-core-tradeoff-principles), and [§17 Integrated Application](core_01_c_stewardship_capacity_principles.md#17-integrated-application).
+- Upstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -978,7 +978,7 @@ This Article sets out the floor for verification accessibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution), [§13 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#13-stewardship-in-depth), and [§9 Systemic Evaluation Requirement](core_01_a_values_principles.md#9-systemic-evaluation-requirement).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), [§16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), and [§12 Systemic Evaluation Requirement](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
 
 </details>
 
@@ -1024,7 +1024,7 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §17 Integrated Application](core_01_c_stewardship_capacity_principles.md#17-integrated-application).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1058,7 +1058,7 @@ This Article sets out the floor for environment integrity:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#101-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1090,7 +1090,7 @@ This Article sets out the floors for progressive deployment and reversibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §17 Integrated Application](core_01_c_stewardship_capacity_principles.md#17-integrated-application).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1118,7 +1118,7 @@ This Article sets out the consequences of misclassification and evasion:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§10 Process Conflict Resolution](core_01_b_interaction_interpretation.md#10-process-conflict-resolution), and [§16 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#16-incentive-alignment-and-system-capture).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), and [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
 
 </details>
 
@@ -1147,7 +1147,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1179,7 +1179,7 @@ This Article sets out the innovation and experimentation right and when sandbox 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§10.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#101-core-tradeoff-principles).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
@@ -1212,7 +1212,7 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §17 Integrated Application](core_01_c_stewardship_capacity_principles.md#17-integrated-application).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1240,7 +1240,7 @@ This Article sets out when a sandboxed system moves to higher obligations:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§15 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#15-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1268,7 +1268,7 @@ This Article sets out how innovation may be rewarded without enclosing what the 
     - interoperability;
     - truthful scrutiny.
   - Reward must not be structured for durable enclosure.
-- **Temporary and reviewable exclusivity only:** Any exclusion right over materially useful invention, design, interface, process, or expressive system must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1015-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
+- **Temporary and reviewable exclusivity only:** Any exclusion right over materially useful invention, design, interface, process, or expressive system must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
   - narrow;
   - time-bounded;
   - reviewable;
@@ -1320,7 +1320,7 @@ This Article sets out how innovation may be rewarded without enclosing what the 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§10.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#102-epistemic-disclosure-constraints), and [§17 Integrated Application](core_01_c_stewardship_capacity_principles.md#17-integrated-application).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

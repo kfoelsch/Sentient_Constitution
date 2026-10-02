@@ -50,22 +50,22 @@ Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editin
 
 **Where each is measured (existing definitions)**
 
-- §2.2 Recognition, Reinforcement, and Aspiration: Wellbeing, Participation, Substantive Fairness, Contestability, Meaningful Agency, Incentive Alignment.
-- §2.3 Anti-Degrading Process: Cruelty (the section names it as the Chapter Five home), Dignity and Equal Moral Standing, Harm, Proportionality, Contestability.
+- §3.2 Recognition, Reinforcement, and Aspiration: Wellbeing, Participation, Substantive Fairness, Contestability, Meaningful Agency, Incentive Alignment.
+- §3.3 Anti-Degrading Process: Cruelty (the section names it as the Chapter Five home), Dignity and Equal Moral Standing, Harm, Proportionality, Contestability.
 - §3.3 Science-Informed Inquiry: Epistemic Integrity, Truth (Constitutional Constraint), Risk, Foreseeability, Materiality, Classification-Scaled Governance.
-- §5.4 Dissent and Peaceful Protest: Assembly, Freedom (Bounded Agency), Meaningful Agency, Necessity, Proportionality (owner floor: Article XI-D).
+- §7.4 Dissent and Peaceful Protest: Assembly, Freedom (Bounded Agency), Meaningful Agency, Necessity, Proportionality (owner floor: Article XI-D).
 - §5.5 Institutional Secularism: Governance, Protected Characteristics, Non-Imposition (Cooperative Interaction), Necessity, Proportionality (Article XI-A).
-- §11 Prohibition on Absolute Override: Necessity, Proportionality, Harm Minimization (Tradeoff Selection), Materiality, Proxy Divergence.
-- §13.2 Institutional Development: Strategic Stewardship Obligation, Auditability, Verifiability, Materiality.
-- §13.3 Openness Aspiration: Meaningful Agency, Contestability, Dependency, Materiality.
-- §14.2 Alignment Under Pressure: Stewardship, Incentive Alignment, Safety, Truth, Auditability, Contestability.
-- §14.3 Logging the Role, Not the Steward: Attributable Action, Auditability, Surveillance Boundary, Protected Internal-State Boundary.
-- §14.4 Aligned Self-Organization: System Creation, Protected Reporting, Evidence Preservation, Foreseeability, Merits Determination, Necessity, Proportionality.
-- §15.2 Segregation of Duties: Oversight, Accountability, Auditability, Contestability, Stewardship, Proportionality; the four seats are defined under Materially Binding Act and its cluster (Initiating Seat, Contest Seat, and the rest).
-- §15.3 Ongoing Justification: Review and Correction Duty, Governance, Oversight, Accountability, Contestability, Timeliness, Transparency.
+- §14 Prohibition on Absolute Override: Necessity, Proportionality, Harm Minimization (Tradeoff Selection), Materiality, Proxy Divergence.
+- §16.2 Institutional Development: Strategic Stewardship Obligation, Auditability, Verifiability, Materiality.
+- §16.3 Openness Aspiration: Meaningful Agency, Contestability, Dependency, Materiality.
+- §17.2 Alignment Under Pressure: Stewardship, Incentive Alignment, Safety, Truth, Auditability, Contestability.
+- §17.3 Logging the Role, Not the Steward: Attributable Action, Auditability, Surveillance Boundary, Protected Internal-State Boundary.
+- §17.4 Aligned Self-Organization: System Creation, Protected Reporting, Evidence Preservation, Foreseeability, Merits Determination, Necessity, Proportionality.
+- §18.2 Segregation of Duties: Oversight, Accountability, Auditability, Contestability, Stewardship, Proportionality; the four seats are defined under Materially Binding Act and its cluster (Initiating Seat, Contest Seat, and the rest).
+- §18.3 Ongoing Justification: Review and Correction Duty, Governance, Oversight, Accountability, Contestability, Timeliness, Transparency.
 - §12.6 Successor Responsibility: Accountability, Attributable Action, Attribution Integrity, Necessity, Proportionality.
-- §8.2 Pro-Competition and Anti-Domination and §8.3 Consolidation Ceiling: Market Structure, Market Concentration Threshold, Systemic Lock-In, Dependency, Contestability, Governance, Stewardship (operational homes: CJS-3.11.1 to 3.11.3).
-- §17 Integrated Application: Authority Stack and Internal Hierarchy, Corpus, Governance, Accountability, Anti-Capture, System Capture, and others.
+- §11.2 Pro-Competition and Anti-Domination and §11.3 Consolidation Ceiling: Market Structure, Market Concentration Threshold, Systemic Lock-In, Dependency, Contestability, Governance, Stewardship (operational homes: CJS-3.11.1 to 3.11.3).
+- §20 Integrated Application: Authority Stack and Internal Hierarchy, Corpus, Governance, Accountability, Anti-Capture, System Capture, and others.
 
 **Two worth a second look.** These are the only ones where a distinct concept may lack a home.
 
@@ -187,5 +187,12 @@ Keep this active file limited to editor checks, current open work, and short arc
 - [ ] Run `make ai-manifest-regenerate` now that source changes are committed.
 - Baseline failures unchanged: corpus-markdown-audit, ch5-cluster-order-audit, lexical-vocabulary-audit.
 
-- 2026-10-01 (later): Chapter One §6 and §7 swapped (tools/ch1_swap_6_7.py): §6 Shared-System Capacity (straddles both aims), §7 Resilience and Self-Healing Design. Translations still use the old numbering.
+- 2026-10-01 (later): Chapter One §9 and §7 swapped (tools/ch1_swap_6_7.py): §9 Shared-System Capacity (straddles both aims), §10 Resilience and Self-Healing Design. Translations still use the old numbering.
 - 2026-10-01 (later): Added unnumbered Part A openers "Flourishing Aim: Introduction" (after §1) and "Continuity Aim: Introduction" (before §6), each with a Mermaid chart. Chart sync (VIS-CHART-SYNC-03): update both when §2–§9 headings change. Translations not updated.
+
+## 2026-10-01 — Chapter One Part A numbering smoothed
+- Done (tools/ch1_numbering_smoothing.py): §2 Flourishing Aim: Introduction (numbered), §2.1 Non-Negotiable Principle Constraints: Safety and Truth (old §3 shared framing), §3 Wellbeing, §4 Safety, §5 Truth (§5.1 Science-Informed Inquiry, §5.2 Plain-Language Accessibility), §6 Trust, §7 Freedom, §8 Continuity Aim: Introduction, §9 Shared-System Capacity, §10 Resilience, §11 Market Structure, §12 Systemic Evaluation; Part B is §§13–15, Part C §§16–20.
+- Also repaired: stale "Chapter One basis: §…" lists in CJS, Chapter Five and related files (only the first cite had been remapped in earlier passes; all tokens now mapped from the pre-relocation numbering), plus stale link labels pointing into Chapter One.
+- [ ] Mermaid charts (Part A intros, Part C stewardship chart) are hand-maintained: update when §2–§12 or §16–§20 headings change (VIS-CHART-SYNC-03).
+- [ ] Translations (20 languages) still use the old Chapter One numbering.
+- [ ] Other unlinked bare "§N" cites to Chapter One outside the "Chapter One basis" pattern may remain stale; no audit covers them.

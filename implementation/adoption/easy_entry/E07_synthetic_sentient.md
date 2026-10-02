@@ -59,7 +59,7 @@ See: [Article VIII-C](../../../core_06_rights_part_b.md#article-viii-c-derivatio
 - **Today:** A lab wants an AI-only extra rulebook so humans keep the bonus, the deadline, and “ignore it, I’ll take responsibility.” The model is constrained; the humans keep a way to skip the rules.
 - **With this Constitution:** Human and AI operators share one standard — no AI-only extra rulebook, no human exemption from costly constraints.
 
-See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#141-shared-stewardship-standard).
+See: [Chapter One §16.1.1](../../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 
 **A trust score is not whether you count.**
 - **Today:** No score, or a low score, is treated as not counting.

@@ -113,7 +113,7 @@ Grouped family list: [corpus_systems.md](../corpus_systems.md). Former protocol-
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Domain topic owner map (CS-D)](#domain-topic-owner-map-cs-d); [Systems overlap discipline](#systems-overlap-discipline); [Systems read-with pointers](#systems-read-with-pointers).
-- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8**; [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
+- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8**; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
 
 </details>
 
@@ -184,14 +184,14 @@ For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cj
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack.
-- Read with: [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CS-1**.
+- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack.
+- Read with: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CS-1**.
 
 </details>
 
 <br>
 
-When systems implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §12.4.4](../core_01_b_interaction_interpretation.md#1244-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
+When systems implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
 
 Systems-local abstractions may specialize **CJS** joint operational definitions cited in owner text but must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 

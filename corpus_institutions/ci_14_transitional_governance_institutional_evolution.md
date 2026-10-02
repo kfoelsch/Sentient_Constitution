@@ -176,7 +176,7 @@ A **documented transition plan** under **Article XXVII-A** (*Phased Adoption and
 
 **Permitted measures (only with procedural safeguards):** **Seizure**, **impoundment**, **quarantine from shared infrastructure**, or comparable **lawful custody transfer** is permitted **only** when procedural custody-transfer pathways satisfy **Article XII-A** (*Stakeholder System Participation and Representation*) and **Chapter Nine** where applicable.
 
-**Necessity and proportionality:** **Necessity**, **Proportionality**, and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](../core_01_b_interaction_interpretation.md#1015-least-restrictive-time-bounded-and-reviewable-constraint-principle) must be demonstrable, including:
+**Necessity and proportionality:** **Necessity**, **Proportionality**, and the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](../core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) must be demonstrable, including:
 
 - least-restrictive feasible alternatives;
 - time-bounds.

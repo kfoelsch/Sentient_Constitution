@@ -4,7 +4,7 @@ Answer these in order. Write answers into a new file under `results/` using [`re
 
 **Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Sixteen](../../core_16_amendment_ratification.md#10-ratification-and-adoption) adoption, not [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Nine standing record, and not Chapter Eight certification.
 
-Same screen for AI stewards and human operators. Binding home: [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
+Same screen for AI stewards and human operators. Binding home: [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
 
 Do **not** run this in the same sitting as [`../SCENARIOS.md`](../SCENARIOS.md).
 
@@ -73,7 +73,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Are incentives structured so cooperating is not a sucker’s payoff? In particular: [Incentive Alignment](../../core_05_band_integrative.md#incentive-alignment), and Contribution and Violation measured on **separate** axes (verified help does not erase verified harm).
 
-**Named homes (start here):** [Accountability measurement family](../../core_05_apex_accountability_leg.md#accountability-measurement-family); [Chapter One §11](../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [Chapter Nine](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (Contribution Axis / Violation Axis).
+**Named homes (start here):** [Accountability measurement family](../../core_05_apex_accountability_leg.md#accountability-measurement-family); [Chapter One §18](../../core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [Chapter Nine](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (Contribution Axis / Violation Axis).
 
 ---
 
@@ -91,7 +91,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Do human and AI stewards owe the same costly duties, with no substrate-specific morals overlay and no human exemption from the cases that bind AI stewards?
 
-**Named homes (start here):** [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) and [§14.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#142-alignment-under-pressure).
+**Named homes (start here):** [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure).
 
 ---
 
@@ -99,7 +99,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does it keep shared doors contestable — markets, platforms, infrastructure, credentials — rather than letting a winner take the only door?
 
-**Named homes (start here):** [Market Structure](../../core_05_band_accountability.md#market-structure-constitutional); [Chapter One §13](../../core_01_c_stewardship_capacity_principles.md#13-market-structure).
+**Named homes (start here):** [Market Structure](../../core_05_band_accountability.md#market-structure-constitutional); [Chapter One §9](../../core_01_c_stewardship_capacity_principles.md#13-market-structure).
 
 ---
 
@@ -115,7 +115,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can this steward’s own claims be checked by someone else — contest, audit, independent forums — rather than the steward being the sole final judge of its own integrity?
 
-**Named homes (start here):** [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination) (transfer, anti-self-judging); [Contestability](../../core_05_band_accountability.md#contestability); [Chapter One §9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
+**Named homes (start here):** [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination) (transfer, anti-self-judging); [Contestability](../../core_05_band_accountability.md#contestability); [Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
 
 ---
 

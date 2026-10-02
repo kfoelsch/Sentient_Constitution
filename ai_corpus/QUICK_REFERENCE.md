@@ -45,7 +45,7 @@ If locator and source disagree: source wins
 ```
 Topic: python3 tools/corpus_lookup.py topic-route CJS-R09
 Read:  hydrate primary owner, then every mandatory read-with
-Apply: Chapter One §12.4.4 combined satisfaction
+Apply: Chapter One §15.4.4 combined satisfaction
 ```
 
 ## Safe Edit Boundaries
