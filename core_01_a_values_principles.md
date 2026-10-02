@@ -689,7 +689,9 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
 
 *In plain terms: rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, or audit.*
 
-A **plain-language accessibility duty** applies to constitutional, governance, adjudicative, and operational text that binds sentients. The same duty applies when sentients must engage that text to exercise rights, participate in governance, contest decisions, or verify compliance. This is a [Participation](core_05_apex_participation_leg.md#participation-constitutional) requirement: sentients who cannot understand the rules that bind them cannot meaningfully participate in the systems those rules govern.
+The rules that bind sentients must be written in plain language. This is the **plain-language accessibility duty**. It covers constitutional, governance, court-style, and day-to-day operating text. It also covers any text sentients have to work with to use their rights, take part in governance, challenge a decision, or check that the rules are being followed.
+
+This is a [Participation](core_05_apex_participation_leg.md#participation-constitutional) requirement. If sentients can't understand the rules that bind them, they can't take a real part in the systems those rules govern.
 
 <a id="521-scope"></a>
 ##### 5.2.1 Scope
