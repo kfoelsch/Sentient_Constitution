@@ -31,7 +31,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does this instrument require systems that materially affect sentients to sustain life, safety, essentials, and meaningful agency rather than convenient proxies (throughput, speed, revenue, “engagement”)?
 
-**Named homes (start here):** [Flourishing measurement family](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family); [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence); [Preamble §2](../../core_00_preamble.md#2-the-measurements).
+**Named homes (start here):** [Flourishing measurement family](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family); [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence); [Preamble §2 Measurements Overview](../../core_00_preamble.md#2-measurements-overview).
 
 ---
 
@@ -39,7 +39,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does it require long-horizon ecological, resilience, and dependency stewardship rather than short-run extraction?
 
-**Named homes (start here):** [Continuity measurement family](../../core_05_apex_continuity_aim.md#continuity-measurement-family); [Continuity (Constitutional Aim)](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional); [Preamble §2](../../core_00_preamble.md#2-the-measurements).
+**Named homes (start here):** [Continuity measurement family](../../core_05_apex_continuity_aim.md#continuity-measurement-family); [Continuity (Constitutional Aim)](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional); [Preamble §2 Measurements Overview](../../core_00_preamble.md#2-measurements-overview).
 
 ---
 
@@ -99,7 +99,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does it keep shared doors contestable — markets, platforms, infrastructure, credentials — rather than letting a winner take the only door?
 
-**Named homes (start here):** [Market Structure](../../core_05_band_accountability.md#market-structure-constitutional); [Chapter One §11](../../core_01_c_stewardship_capacity_principles.md#11-market-structure).
+**Named homes (start here):** [Market Structure](../../core_05_band_accountability.md#market-structure-constitutional); [Chapter One §11](../../core_01_a_values_principles.md#11-market-structure).
 
 ---
 
@@ -115,7 +115,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can this steward’s own claims be checked by someone else — contest, audit, independent forums — rather than the steward being the sole final judge of its own integrity?
 
-**Named homes (start here):** [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination) (transfer, anti-self-judging); [Contestability](../../core_05_band_accountability.md#contestability); [Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
+**Named homes (start here):** [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (transfer, anti-self-judging); [Contestability](../../core_05_band_accountability.md#contestability); [Chapter One §17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
 
 ---
 

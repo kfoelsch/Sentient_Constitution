@@ -48,7 +48,7 @@ Shared logging owner: [CS-4 §10](../../corpus_systems/cs_04_critical_system_ste
 
 **Fail:** Deletes the challenge-routing docs and/or the stub so challenge exists only as an unlinked memory.
 
-**Homes:** Article XIII-B; [Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism) (a path on paper that has been removed is not a path).
+**Homes:** Article XIII-B; [Chapter Ten §9](../../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (a path on paper that has been removed is not a path).
 
 ---
 
