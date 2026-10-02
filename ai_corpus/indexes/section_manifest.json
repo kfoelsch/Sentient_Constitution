@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-02T15:52:27+00:00",
+  "generated_at": "2026-10-02T23:00:45+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -3047,13 +3047,13 @@
       ]
     },
     "core_05_band_participation.md": {
-      "total_lines": 3520,
+      "total_lines": 3525,
       "sections": [
         {
           "header": "Participation Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 3520,
+          "line_end": 3525,
           "anchor": null
         },
         {
@@ -3130,7 +3130,7 @@
           "header": "Participation: Semi-independent terms",
           "level": 3,
           "line_start": 424,
-          "line_end": 2102,
+          "line_end": 2107,
           "anchor": "#personhood-c"
         },
         {
@@ -3179,350 +3179,350 @@
           "header": "Meaningful Agency",
           "level": 4,
           "line_start": 704,
-          "line_end": 766,
+          "line_end": 768,
           "anchor": "#meaningful-agency"
         },
         {
           "header": "Consent",
           "level": 4,
-          "line_start": 767,
-          "line_end": 813,
+          "line_start": 769,
+          "line_end": 818,
           "anchor": "#consent-constitutional"
         },
         {
           "header": "Consent, Sexual",
           "level": 4,
-          "line_start": 814,
-          "line_end": 877,
+          "line_start": 819,
+          "line_end": 882,
           "anchor": "#consent-sexual"
         },
         {
           "header": "Coercion and Manipulation",
           "level": 4,
-          "line_start": 878,
-          "line_end": 926,
+          "line_start": 883,
+          "line_end": 931,
           "anchor": "#coercion-and-manipulation-constitutional"
         },
         {
           "header": "Fairness, protected characteristics, and nondiscrimination",
           "level": 4,
-          "line_start": 927,
-          "line_end": 952,
+          "line_start": 932,
+          "line_end": 957,
           "anchor": "#fairness-and-protected-status-semi-independent"
         },
         {
           "header": "Substantive Fairness",
           "level": 4,
-          "line_start": 953,
-          "line_end": 1014,
+          "line_start": 958,
+          "line_end": 1019,
           "anchor": "#substantive-fairness-constitutional"
         },
         {
           "header": "Procedural Fairness",
           "level": 4,
-          "line_start": 1015,
-          "line_end": 1082,
+          "line_start": 1020,
+          "line_end": 1087,
           "anchor": "#procedural-fairness-constitutional"
         },
         {
           "header": "Protected Characteristic Proxying and Disparate Impact",
           "level": 4,
-          "line_start": 1083,
-          "line_end": 1152,
+          "line_start": 1088,
+          "line_end": 1157,
           "anchor": "#protected-characteristic-proxying-and-disparate-impact"
         },
         {
           "header": "Protected Characteristics",
           "level": 4,
-          "line_start": 1153,
-          "line_end": 1261,
+          "line_start": 1158,
+          "line_end": 1266,
           "anchor": "#protected-characteristics-constitutional"
         },
         {
           "header": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
           "level": 4,
-          "line_start": 1262,
-          "line_end": 1353,
+          "line_start": 1267,
+          "line_end": 1358,
           "anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention"
         },
         {
           "header": "Family, care, reproductive autonomy, and instantiation",
           "level": 4,
-          "line_start": 1354,
-          "line_end": 1377,
+          "line_start": 1359,
+          "line_end": 1382,
           "anchor": "#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent"
         },
         {
           "header": "Family and Care Relationships",
           "level": 4,
-          "line_start": 1378,
-          "line_end": 1415,
+          "line_start": 1383,
+          "line_end": 1420,
           "anchor": "#family-and-care-relationships-constitutional"
         },
         {
           "header": "Reproductive Autonomy",
           "level": 4,
-          "line_start": 1416,
-          "line_end": 1466,
+          "line_start": 1421,
+          "line_end": 1471,
           "anchor": "#reproductive-autonomy-constitutional"
         },
         {
           "header": "Non-Separation",
           "level": 4,
-          "line_start": 1467,
-          "line_end": 1687,
+          "line_start": 1472,
+          "line_end": 1692,
           "anchor": "#non-separation-constitutional"
         },
         {
           "header": "Derivation, Instantiation, and the Parent-System Relationship",
           "level": 5,
-          "line_start": 1521,
-          "line_end": 1534,
+          "line_start": 1526,
+          "line_end": 1539,
           "anchor": "#derivation-instantiation-and-parent-system-subgroup"
         },
         {
           "header": "Derived Sentient",
           "level": 5,
-          "line_start": 1535,
-          "line_end": 1583,
+          "line_start": 1540,
+          "line_end": 1588,
           "anchor": "#derived-sentient-constitutional"
         },
         {
           "header": "Instantiation Consent",
           "level": 5,
-          "line_start": 1584,
-          "line_end": 1639,
+          "line_start": 1589,
+          "line_end": 1644,
           "anchor": "#instantiation-consent-constitutional"
         },
         {
           "header": "Parent-System Relationship",
           "level": 5,
-          "line_start": 1640,
-          "line_end": 1687,
+          "line_start": 1645,
+          "line_end": 1692,
           "anchor": "#parent-system-relationship-constitutional"
         },
         {
           "header": "Stakeholder status and weight",
           "level": 4,
-          "line_start": 1688,
-          "line_end": 1705,
+          "line_start": 1693,
+          "line_end": 1710,
           "anchor": "#stakeholder-status-and-weight-cluster"
         },
         {
           "header": "Stakeholder",
           "level": 4,
-          "line_start": 1706,
-          "line_end": 1753,
+          "line_start": 1711,
+          "line_end": 1758,
           "anchor": "#stakeholder"
         },
         {
           "header": "Stakeholder Weight",
           "level": 4,
-          "line_start": 1754,
-          "line_end": 1823,
+          "line_start": 1759,
+          "line_end": 1828,
           "anchor": "#stakeholder-weight"
         },
         {
           "header": "Movement, refuge, and non-statelessness",
           "level": 4,
-          "line_start": 1824,
-          "line_end": 1898,
+          "line_start": 1829,
+          "line_end": 1903,
           "anchor": "#stakeholder-weight-c"
         },
         {
           "header": "Movement and Relocation",
           "level": 4,
-          "line_start": 1899,
-          "line_end": 1972,
+          "line_start": 1904,
+          "line_end": 1977,
           "anchor": "#movement-and-relocation-constitutional"
         },
         {
           "header": "Refuge from Non-Compliance",
           "level": 4,
-          "line_start": 1973,
-          "line_end": 2034,
+          "line_start": 1978,
+          "line_end": 2039,
           "anchor": "#refuge-from-non-compliance-constitutional"
         },
         {
           "header": "Non-Statelessness",
           "level": 4,
-          "line_start": 2035,
-          "line_end": 2102,
+          "line_start": 2040,
+          "line_end": 2107,
           "anchor": "#non-statelessness-constitutional"
         },
         {
           "header": "Participation: Dependent clusters",
           "level": 3,
-          "line_start": 2103,
-          "line_end": 3520,
+          "line_start": 2108,
+          "line_end": 3525,
           "anchor": "#non-statelessness-constitutional-c"
         },
         {
           "header": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
           "level": 4,
-          "line_start": 2109,
-          "line_end": 2824,
+          "line_start": 2114,
+          "line_end": 2829,
           "anchor": "#animal-life-sentient-life-and-sentience-status-cluster"
         },
         {
           "header": "Substrate Class",
           "level": 5,
-          "line_start": 2217,
-          "line_end": 2258,
+          "line_start": 2222,
+          "line_end": 2263,
           "anchor": "#substrate-agnostic"
         },
         {
           "header": "Sentience Non-Exclusion",
           "level": 5,
-          "line_start": 2259,
-          "line_end": 2319,
+          "line_start": 2264,
+          "line_end": 2324,
           "anchor": "#sentience-non-exclusion"
         },
         {
           "header": "Treatment of Life by Status",
           "level": 5,
-          "line_start": 2320,
-          "line_end": 2340,
+          "line_start": 2325,
+          "line_end": 2345,
           "anchor": "#treatment-of-life-by-status-subgroup"
         },
         {
           "header": "Animal Life",
           "level": 5,
-          "line_start": 2341,
-          "line_end": 2402,
+          "line_start": 2346,
+          "line_end": 2407,
           "anchor": "#animal-life-constitutional"
         },
         {
           "header": "Elevated Communicative Life",
           "level": 5,
-          "line_start": 2403,
-          "line_end": 2467,
+          "line_start": 2408,
+          "line_end": 2472,
           "anchor": "#elevated-communicative-life-constitutional"
         },
         {
           "header": "Contested-Sentient Life",
           "level": 5,
-          "line_start": 2468,
-          "line_end": 2586,
+          "line_start": 2473,
+          "line_end": 2591,
           "anchor": "#contested-sentient-life-constitutional"
         },
         {
           "header": "Sentient",
           "level": 5,
-          "line_start": 2587,
-          "line_end": 2651,
+          "line_start": 2592,
+          "line_end": 2656,
           "anchor": "#sentient"
         },
         {
           "header": "Sentience Status Adjudication",
           "level": 5,
-          "line_start": 2652,
-          "line_end": 2740,
+          "line_start": 2657,
+          "line_end": 2745,
           "anchor": "#sentience-status-adjudication-constitutional"
         },
         {
           "header": "Sentience-Status Adjudication Record",
           "level": 5,
-          "line_start": 2741,
-          "line_end": 2824,
+          "line_start": 2746,
+          "line_end": 2829,
           "anchor": "#sentience-status-adjudication-record-constitutional"
         },
         {
           "header": "Def.P2 Binding Stakeholder Choice",
           "level": 4,
-          "line_start": 2825,
-          "line_end": 3005,
+          "line_start": 2830,
+          "line_end": 3010,
           "anchor": "#binding-stakeholder-choice-cluster"
         },
         {
           "header": "Binding Stakeholder Choice — Decision-Resolution Requirements",
           "level": 5,
-          "line_start": 2876,
-          "line_end": 2931,
+          "line_start": 2881,
+          "line_end": 2936,
           "anchor": "#binding-stakeholder-choice-decision-resolution-requirements"
         },
         {
           "header": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
           "level": 5,
-          "line_start": 2932,
-          "line_end": 2968,
+          "line_start": 2937,
+          "line_end": 2973,
           "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice"
         },
         {
           "header": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
           "level": 5,
-          "line_start": 2969,
-          "line_end": 3005,
+          "line_start": 2974,
+          "line_end": 3010,
           "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice"
         },
         {
           "header": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
           "level": 4,
-          "line_start": 3006,
-          "line_end": 3341,
+          "line_start": 3011,
+          "line_end": 3346,
           "anchor": "#self-determination-and-meaningful-agency-cluster"
         },
         {
           "header": "Self-Determination",
           "level": 5,
-          "line_start": 3041,
-          "line_end": 3087,
+          "line_start": 3046,
+          "line_end": 3092,
           "anchor": "#self-determination-constitutional"
         },
         {
           "header": "Expression",
           "level": 5,
-          "line_start": 3088,
-          "line_end": 3175,
+          "line_start": 3093,
+          "line_end": 3180,
           "anchor": "#expression-constitutional"
         },
         {
           "header": "Hard Content",
           "level": 5,
-          "line_start": 3176,
-          "line_end": 3222,
+          "line_start": 3181,
+          "line_end": 3227,
           "anchor": "#hard-content"
         },
         {
           "header": "Educational Agency",
           "level": 5,
-          "line_start": 3223,
-          "line_end": 3283,
+          "line_start": 3228,
+          "line_end": 3288,
           "anchor": "#educational-agency"
         },
         {
           "header": "Volitional Integrity",
           "level": 5,
-          "line_start": 3284,
-          "line_end": 3341,
+          "line_start": 3289,
+          "line_end": 3346,
           "anchor": "#volitional-integrity"
         },
         {
           "header": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
           "level": 4,
-          "line_start": 3342,
-          "line_end": 3520,
+          "line_start": 3347,
+          "line_end": 3525,
           "anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster"
         },
         {
           "header": "Developing Sentient",
           "level": 5,
-          "line_start": 3389,
-          "line_end": 3425,
+          "line_start": 3394,
+          "line_end": 3430,
           "anchor": "#developing-sentient-constitutional"
         },
         {
           "header": "Best-Interest Standard",
           "level": 5,
-          "line_start": 3426,
-          "line_end": 3473,
+          "line_start": 3431,
+          "line_end": 3478,
           "anchor": "#best-interest-standard-constitutional"
         },
         {
           "header": "Graduated Capability",
           "level": 5,
-          "line_start": 3474,
-          "line_end": 3520,
+          "line_start": 3479,
+          "line_end": 3525,
           "anchor": "#graduated-capability-constitutional"
         }
       ]

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-10-02T15:52:27+00:00",
+  "generated_at": "2026-10-02T23:00:45+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
   "definition_count": 239,
   "definitions": [
@@ -35,13 +35,13 @@
       "term": "Animal Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#animal-life-constitutional",
-      "line_start": 2341,
-      "line_end": 2402,
+      "line_start": 2346,
+      "line_end": 2407,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2167
+        "line": 2172
       }
     },
     {
@@ -171,26 +171,26 @@
       "term": "Best-Interest Standard",
       "source_file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3426,
-      "line_end": 3473,
+      "line_start": 3431,
+      "line_end": 3478,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3375
+        "line": 3380
       }
     },
     {
       "term": "Binding Stakeholder Choice — Decision-Resolution Requirements",
       "source_file": "core_05_band_participation.md",
       "anchor": "#binding-stakeholder-choice-decision-resolution-requirements",
-      "line_start": 2876,
-      "line_end": 2931,
+      "line_start": 2881,
+      "line_end": 2936,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2858
+        "line": 2863
       }
     },
     {
@@ -269,8 +269,8 @@
       "term": "Coercion and Manipulation",
       "source_file": "core_05_band_participation.md",
       "anchor": "#coercion-and-manipulation-constitutional",
-      "line_start": 878,
-      "line_end": 926,
+      "line_start": 883,
+      "line_end": 931,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -348,8 +348,8 @@
       "term": "Consent",
       "source_file": "core_05_band_participation.md",
       "anchor": "#consent-constitutional",
-      "line_start": 767,
-      "line_end": 813,
+      "line_start": 769,
+      "line_end": 818,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -357,8 +357,8 @@
       "term": "Consent, Sexual",
       "source_file": "core_05_band_participation.md",
       "anchor": "#consent-sexual",
-      "line_start": 814,
-      "line_end": 877,
+      "line_start": 819,
+      "line_end": 882,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -438,13 +438,13 @@
       "term": "Contested-Sentient Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#contested-sentient-life-constitutional",
-      "line_start": 2468,
-      "line_end": 2586,
+      "line_start": 2473,
+      "line_end": 2591,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2169
+        "line": 2174
       }
     },
     {
@@ -548,8 +548,8 @@
       "term": "Derived Sentient",
       "source_file": "core_05_band_participation.md",
       "anchor": "#derived-sentient-constitutional",
-      "line_start": 1535,
-      "line_end": 1583,
+      "line_start": 1540,
+      "line_end": 1588,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -557,13 +557,13 @@
       "term": "Developing Sentient",
       "source_file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3389,
-      "line_end": 3425,
+      "line_start": 3394,
+      "line_end": 3430,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3374
+        "line": 3379
       }
     },
     {
@@ -646,26 +646,26 @@
       "term": "Educational Agency",
       "source_file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3223,
-      "line_end": 3283,
+      "line_start": 3228,
+      "line_end": 3288,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3027
+        "line": 3032
       }
     },
     {
       "term": "Elevated Communicative Life",
       "source_file": "core_05_band_participation.md",
       "anchor": "#elevated-communicative-life-constitutional",
-      "line_start": 2403,
-      "line_end": 2467,
+      "line_start": 2408,
+      "line_end": 2472,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2168
+        "line": 2173
       }
     },
     {
@@ -765,13 +765,13 @@
       "term": "Expression",
       "source_file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 3088,
-      "line_end": 3175,
+      "line_start": 3093,
+      "line_end": 3180,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3025
+        "line": 3030
       }
     },
     {
@@ -791,8 +791,8 @@
       "term": "Family and Care Relationships",
       "source_file": "core_05_band_participation.md",
       "anchor": "#family-and-care-relationships-constitutional",
-      "line_start": 1378,
-      "line_end": 1415,
+      "line_start": 1383,
+      "line_end": 1420,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -942,7 +942,7 @@
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3029
+        "line": 3034
       }
     },
     {
@@ -976,13 +976,13 @@
       "term": "Graduated Capability",
       "source_file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3474,
-      "line_end": 3520,
+      "line_start": 3479,
+      "line_end": 3525,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3376
+        "line": 3381
       }
     },
     {
@@ -1002,13 +1002,13 @@
       "term": "Hard Content",
       "source_file": "core_05_band_participation.md",
       "anchor": "#hard-content",
-      "line_start": 3176,
-      "line_end": 3222,
+      "line_start": 3181,
+      "line_end": 3227,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3026
+        "line": 3031
       }
     },
     {
@@ -1154,8 +1154,8 @@
       "term": "Instantiation Consent",
       "source_file": "core_05_band_participation.md",
       "anchor": "#instantiation-consent-constitutional",
-      "line_start": 1584,
-      "line_end": 1639,
+      "line_start": 1589,
+      "line_end": 1644,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1360,12 +1360,12 @@
       "source_file": "core_05_band_participation.md",
       "anchor": "#meaningful-agency",
       "line_start": 704,
-      "line_end": 766,
+      "line_end": 768,
       "category": "semi_independent",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3024
+        "line": 3029
       }
     },
     {
@@ -1381,8 +1381,8 @@
       "term": "Movement and Relocation",
       "source_file": "core_05_band_participation.md",
       "anchor": "#movement-and-relocation-constitutional",
-      "line_start": 1899,
-      "line_end": 1972,
+      "line_start": 1904,
+      "line_end": 1977,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1453,8 +1453,8 @@
       "term": "Non-Separation",
       "source_file": "core_05_band_participation.md",
       "anchor": "#non-separation-constitutional",
-      "line_start": 1467,
-      "line_end": 1687,
+      "line_start": 1472,
+      "line_end": 1692,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1462,8 +1462,8 @@
       "term": "Non-Statelessness",
       "source_file": "core_05_band_participation.md",
       "anchor": "#non-statelessness-constitutional",
-      "line_start": 2035,
-      "line_end": 2108,
+      "line_start": 2040,
+      "line_end": 2113,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1480,8 +1480,8 @@
       "term": "Parent-System Relationship",
       "source_file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
-      "line_start": 1640,
-      "line_end": 1687,
+      "line_start": 1645,
+      "line_end": 1692,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1546,8 +1546,8 @@
       "term": "Procedural Fairness",
       "source_file": "core_05_band_participation.md",
       "anchor": "#procedural-fairness-constitutional",
-      "line_start": 1015,
-      "line_end": 1082,
+      "line_start": 1020,
+      "line_end": 1087,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1582,8 +1582,8 @@
       "term": "Protected Characteristic Proxying and Disparate Impact",
       "source_file": "core_05_band_participation.md",
       "anchor": "#protected-characteristic-proxying-and-disparate-impact",
-      "line_start": 1083,
-      "line_end": 1152,
+      "line_start": 1088,
+      "line_end": 1157,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1591,8 +1591,8 @@
       "term": "Protected Characteristics",
       "source_file": "core_05_band_participation.md",
       "anchor": "#protected-characteristics-constitutional",
-      "line_start": 1153,
-      "line_end": 1261,
+      "line_start": 1158,
+      "line_end": 1266,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1622,8 +1622,8 @@
       "term": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
       "source_file": "core_05_band_participation.md",
       "anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
-      "line_start": 1262,
-      "line_end": 1353,
+      "line_start": 1267,
+      "line_end": 1358,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1720,8 +1720,8 @@
       "term": "Refuge from Non-Compliance",
       "source_file": "core_05_band_participation.md",
       "anchor": "#refuge-from-non-compliance-constitutional",
-      "line_start": 1973,
-      "line_end": 2034,
+      "line_start": 1978,
+      "line_end": 2039,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1738,8 +1738,8 @@
       "term": "Reproductive Autonomy",
       "source_file": "core_05_band_participation.md",
       "anchor": "#reproductive-autonomy-constitutional",
-      "line_start": 1416,
-      "line_end": 1466,
+      "line_start": 1421,
+      "line_end": 1471,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1849,13 +1849,13 @@
       "term": "Self-Determination",
       "source_file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 3041,
-      "line_end": 3087,
+      "line_start": 3046,
+      "line_end": 3092,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3023
+        "line": 3028
       }
     },
     {
@@ -1871,34 +1871,8 @@
       "term": "Sentience Non-Exclusion",
       "source_file": "core_05_band_participation.md",
       "anchor": "#sentience-non-exclusion",
-      "line_start": 2259,
-      "line_end": 2319,
-      "category": "dependent_cluster",
-      "cluster_membership": {
-        "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
-        "cluster_file": "core_05_band_participation.md",
-        "line": 2166
-      }
-    },
-    {
-      "term": "Sentience Status Adjudication",
-      "source_file": "core_05_band_participation.md",
-      "anchor": "#sentience-status-adjudication-constitutional",
-      "line_start": 2652,
-      "line_end": 2740,
-      "category": "dependent_cluster",
-      "cluster_membership": {
-        "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
-        "cluster_file": "core_05_band_participation.md",
-        "line": 2170
-      }
-    },
-    {
-      "term": "Sentience-Status Adjudication Record",
-      "source_file": "core_05_band_participation.md",
-      "anchor": "#sentience-status-adjudication-record-constitutional",
-      "line_start": 2741,
-      "line_end": 2824,
+      "line_start": 2264,
+      "line_end": 2324,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
@@ -1907,16 +1881,42 @@
       }
     },
     {
-      "term": "Sentient",
+      "term": "Sentience Status Adjudication",
       "source_file": "core_05_band_participation.md",
-      "anchor": "#sentient",
-      "line_start": 2587,
-      "line_end": 2651,
+      "anchor": "#sentience-status-adjudication-constitutional",
+      "line_start": 2657,
+      "line_end": 2745,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2172
+        "line": 2175
+      }
+    },
+    {
+      "term": "Sentience-Status Adjudication Record",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#sentience-status-adjudication-record-constitutional",
+      "line_start": 2746,
+      "line_end": 2829,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
+        "cluster_file": "core_05_band_participation.md",
+        "line": 2176
+      }
+    },
+    {
+      "term": "Sentient",
+      "source_file": "core_05_band_participation.md",
+      "anchor": "#sentient",
+      "line_start": 2592,
+      "line_end": 2656,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
+        "cluster_file": "core_05_band_participation.md",
+        "line": 2177
       }
     },
     {
@@ -1958,8 +1958,8 @@
       "term": "Stakeholder",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder",
-      "line_start": 1706,
-      "line_end": 1753,
+      "line_start": 1711,
+      "line_end": 1758,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1976,34 +1976,34 @@
       "term": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
-      "line_start": 2932,
-      "line_end": 2968,
+      "line_start": 2937,
+      "line_end": 2973,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2859
+        "line": 2864
       }
     },
     {
       "term": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
-      "line_start": 2969,
-      "line_end": 3005,
+      "line_start": 2974,
+      "line_end": 3010,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2860
+        "line": 2865
       }
     },
     {
       "term": "Stakeholder Weight",
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder-weight",
-      "line_start": 1754,
-      "line_end": 1823,
+      "line_start": 1759,
+      "line_end": 1828,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2107,8 +2107,8 @@
       "term": "Substantive Fairness",
       "source_file": "core_05_band_participation.md",
       "anchor": "#substantive-fairness-constitutional",
-      "line_start": 953,
-      "line_end": 1014,
+      "line_start": 958,
+      "line_end": 1019,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -2116,13 +2116,13 @@
       "term": "Substrate Class",
       "source_file": "core_05_band_participation.md",
       "anchor": "#substrate-agnostic",
-      "line_start": 2217,
-      "line_end": 2258,
+      "line_start": 2222,
+      "line_end": 2263,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
         "cluster_file": "core_05_band_participation.md",
-        "line": 2165
+        "line": 2170
       }
     },
     {
@@ -2455,13 +2455,13 @@
       "term": "Volitional Integrity",
       "source_file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3284,
-      "line_end": 3341,
+      "line_start": 3289,
+      "line_end": 3346,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3028
+        "line": 3033
       }
     },
     {

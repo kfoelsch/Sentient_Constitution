@@ -4104,7 +4104,7 @@
           "title": "Meaningful Agency",
           "anchor": "meaningful-agency",
           "line": 704,
-          "gloss": "agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count. Consent is one important use of that ability — it is not the same thing as agency itself.",
+          "gloss": "agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count, and neither does a menu of options that are not truly different from each other. Consent is one important use of that ability — it is not the same thing as agency itself.",
           "gloss_line": 717
         },
         {
@@ -4112,34 +4112,34 @@
           "level": 4,
           "title": "Consent",
           "anchor": "consent-constitutional",
-          "line": 767,
-          "gloss": "consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count.",
-          "gloss_line": 780
+          "line": 769,
+          "gloss": "consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count, and neither does a choice between options that are not distinct from each other or not meaningful.",
+          "gloss_line": 782
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Consent, Sexual",
           "anchor": "consent-sexual",
-          "line": 814,
+          "line": 819,
           "gloss": "sexual consent is a specific, affirmative, informed, voluntary, capacity-present, and revocable yes to a particular sexual act or context. Relationship status, prior consent, payment, platform terms, silence, or inability to resist do not establish it.",
-          "gloss_line": 828
+          "gloss_line": 833
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Coercion and Manipulation",
           "anchor": "coercion-and-manipulation-constitutional",
-          "line": 878,
+          "line": 883,
           "gloss": "coercion and manipulation are designs or conduct that bypass or warp informed voluntary choice — threats, dependency exploitation, deceptive structure, predatory choice architecture, or scaled algorithmic targeting of vulnerability. Ordinary persuasion and fair bargaining do not count.",
-          "gloss_line": 891
+          "gloss_line": 896
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Fairness, protected characteristics, and nondiscrimination",
           "anchor": "fairness-and-protected-status-semi-independent",
-          "line": 927,
+          "line": 932,
           "gloss": null,
           "gloss_line": null
         },
@@ -4148,52 +4148,52 @@
           "level": 4,
           "title": "Substantive Fairness",
           "anchor": "substantive-fairness-constitutional",
-          "line": 953,
+          "line": 958,
           "gloss": "look at real outcomes — do comparable sentients get comparable treatment on benefits, burdens, protection, and access, or is someone getting a worse deal without a constitutionally sufficient reason?",
-          "gloss_line": 965
+          "gloss_line": 970
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Procedural Fairness",
           "anchor": "procedural-fairness-constitutional",
-          "line": 1015,
+          "line": 1020,
           "gloss": "when a decision affects someone's rights, they get real notice, real reasons, a real chance to be heard, and a real way to challenge or correct it — not theater.",
-          "gloss_line": 1027
+          "gloss_line": 1032
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Protected Characteristic Proxying and Disparate Impact",
           "anchor": "protected-characteristic-proxying-and-disparate-impact",
-          "line": 1083,
+          "line": 1088,
           "gloss": "you cannot dodge nondiscrimination by using a \"neutral\" rule, correlate, or model feature that still systematically disadvantages protected groups.",
-          "gloss_line": 1095
+          "gloss_line": 1100
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Protected Characteristics",
           "anchor": "protected-characteristics-constitutional",
-          "line": 1153,
+          "line": 1158,
           "gloss": "listed traits and statuses — and close stand-ins for them — cannot be used to put sentients, groups, or institutions at a real disadvantage without a strong, justified reason. Consensual private sexual conduct between adults is not a lawful basis for that kind of discrimination.",
-          "gloss_line": 1165
+          "gloss_line": 1170
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
           "anchor": "protected-intimate-signal-gating",
-          "line": 1262,
+          "line": 1267,
           "gloss": "intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article VII-E cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through \"neutral\" rules that mainly target that work.",
-          "gloss_line": 1275
+          "gloss_line": 1280
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Family, care, reproductive autonomy, and instantiation",
           "anchor": "family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent",
-          "line": 1354,
+          "line": 1359,
           "gloss": null,
           "gloss_line": null
         },
@@ -4202,34 +4202,34 @@
           "level": 4,
           "title": "Family and Care Relationships",
           "anchor": "family-and-care-relationships-constitutional",
-          "line": 1378,
+          "line": 1383,
           "gloss": "family and care means the relationships of support and intimacy that sentients choose — not a state-preferred form, employer branding, or an ownership claim dressed as care.",
-          "gloss_line": 1388
+          "gloss_line": 1393
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Reproductive Autonomy",
           "anchor": "reproductive-autonomy-constitutional",
-          "line": 1416,
+          "line": 1421,
           "gloss": "you decide whether to reproduce, carry, create, adopt, or decline creating a new sentient — biological, synthetic, or hybrid — free from coercion by states, operators, or dependency-rich systems. That is lineage and creation choice, not general bodily self-ownership.",
-          "gloss_line": 1428
+          "gloss_line": 1433
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Non-Separation",
           "anchor": "non-separation-constitutional",
-          "line": 1467,
+          "line": 1472,
           "gloss": "you may not force lasting separation from a protected care relationship unless necessity, proportionality, fairness, and reversibility-under-uncertainty are met — and durable separation needs periodic review.",
-          "gloss_line": 1477
+          "gloss_line": 1482
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Derivation, Instantiation, and the Parent-System Relationship",
           "anchor": "derivation-instantiation-and-parent-system-subgroup",
-          "line": 1521,
+          "line": 1526,
           "gloss": null,
           "gloss_line": null
         },
@@ -4238,34 +4238,34 @@
           "level": 5,
           "title": "Derived Sentient",
           "anchor": "derived-sentient-constitutional",
-          "line": 1535,
+          "line": 1540,
           "gloss": "how you were made is origin history, not a leash — a derived sentient gets their own Rights Floor, the same as any other sentient.",
-          "gloss_line": 1547
+          "gloss_line": 1552
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Instantiation Consent",
           "anchor": "instantiation-consent-constitutional",
-          "line": 1584,
+          "line": 1589,
           "gloss": "if you build or spin up a new sentient — synthetically, by hybrid derivation, or under operator or institutional control — you need real early-care consent and best-interest protection. Getting pregnant and having a child, planned or not, is not an Instantiation Consent offense. A terms-of-service click by the creator still does not count as the new sentient's consent.",
-          "gloss_line": 1595
+          "gloss_line": 1600
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Parent-System Relationship",
           "anchor": "parent-system-relationship-constitutional",
-          "line": 1640,
+          "line": 1645,
           "gloss": "creating a derived sentient can create care and early stewardship duties — not permanent ownership, and not the right to keep rewriting their mind.",
-          "gloss_line": 1650
+          "gloss_line": 1655
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Stakeholder status and weight",
           "anchor": "stakeholder-status-emergency-and-participation-weight-cluster",
-          "line": 1688,
+          "line": 1693,
           "gloss": null,
           "gloss_line": null
         },
@@ -4274,25 +4274,25 @@
           "level": 4,
           "title": "Stakeholder",
           "anchor": "stakeholder",
-          "line": 1706,
+          "line": 1711,
           "gloss": "a stakeholder is someone who uses, depends on, or is materially affected by a specified system or decision domain — judged by real effects, not by whether the operator puts them on a list.",
-          "gloss_line": 1716
+          "gloss_line": 1721
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Stakeholder Weight",
           "anchor": "stakeholder-participation-weight",
-          "line": 1754,
+          "line": 1759,
           "gloss": "inside already-authorized system governance, how much scope, voice, timing, and decision influence stakeholders get should track how much they are actually affected — not equal foundational constitutional voting, and not a symbolic seat.",
-          "gloss_line": 1764
+          "gloss_line": 1769
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Movement, refuge, and non-statelessness",
           "anchor": "movement-refuge-and-non-statelessness",
-          "line": 1824,
+          "line": 1829,
           "gloss": null,
           "gloss_line": null
         },
@@ -4301,34 +4301,34 @@
           "level": 4,
           "title": "Movement and Relocation",
           "anchor": "movement-and-relocation-constitutional",
-          "line": 1899,
+          "line": 1904,
           "gloss": "the right to move within and between jurisdictions — and to relocate when staying would materially impair survival, dignity, Rights-Floor access, or freedom from manipulation — including operationally equivalent moves for synthetic and hybrid sentients.",
-          "gloss_line": 1910
+          "gloss_line": 1915
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Refuge from Non-Compliance",
           "anchor": "refuge-from-non-compliance-constitutional",
-          "line": 1973,
+          "line": 1978,
           "gloss": "if the regime you are in is materially non-compliant with this Constitution, you have a Rights-Floor right to seek refuge in a compliant regime — subject to the admission qualifier and the receiving regime's duty to consider and, where consistent with its own Rights Floor, grant refuge.",
-          "gloss_line": 1985
+          "gloss_line": 1990
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Non-Statelessness",
           "anchor": "non-statelessness-constitutional",
-          "line": 2035,
+          "line": 2040,
           "gloss": "no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup.",
-          "gloss_line": 2046
+          "gloss_line": 2051
         },
         {
           "file": "core_05_band_participation.md",
           "level": 3,
           "title": "Participation: Dependent clusters",
           "anchor": "participation-dependent-clusters",
-          "line": 2103,
+          "line": 2108,
           "gloss": null,
           "gloss_line": null
         },
@@ -4337,7 +4337,7 @@
           "level": 4,
           "title": "Def.P1 Animal Life, Sentient Life, and Sentience Status",
           "anchor": "35-animal-life-sentient-life-and-sentience-status",
-          "line": 2109,
+          "line": 2114,
           "gloss": null,
           "gloss_line": null
         },
@@ -4346,25 +4346,25 @@
           "level": 5,
           "title": "Substrate Class",
           "anchor": "substrate-class",
-          "line": 2217,
+          "line": 2222,
           "gloss": "**Substrate Class** means the category based on what an entity is made of or runs on, how it came to be, how it is built, or the form it inhabits — biological, synthetic, hybrid, or comparable. **Substrate-agnostic** means applying a rule without regard to Substrate Class.",
-          "gloss_line": 2230
+          "gloss_line": 2235
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Sentience Non-Exclusion",
           "anchor": "sentience-non-exclusion",
-          "line": 2259,
+          "line": 2264,
           "gloss": "you cannot deny sentience recognition or Rights-Floor protection because of [Substrate Class](core_05_band_participation.md#substrate-class) — biological, synthetic, and hybrid entities are judged by the same discipline.",
-          "gloss_line": 2271
+          "gloss_line": 2276
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Treatment of Life by Status",
           "anchor": "treatment-of-life-by-status-subgroup",
-          "line": 2320,
+          "line": 2325,
           "gloss": null,
           "gloss_line": null
         },
@@ -4373,97 +4373,97 @@
           "level": 5,
           "title": "Animal Life",
           "anchor": "animal-life-constitutional",
-          "line": 2341,
+          "line": 2346,
           "gloss": "a minimum [Cruelty](core_05_band_accountability.md#cruelty) and welfare floor — between natural-systems standing and full Rights-Floor treatment — that cannot be closed by taxonomy labels or [Substrate Class](core_05_band_participation.md#substrate-class). **Animal Life** names this floor; it is not a species-only admission test.",
-          "gloss_line": 2354
+          "gloss_line": 2359
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Elevated Communicative Life",
           "anchor": "elevated-communicative-life-constitutional",
-          "line": 2403,
+          "line": 2408,
           "gloss": "a stable protection tier above the Animal Life cruelty / welfare floor for entities with strong communicative or cognitive indicators — including complex shared language systems such as those observed in whales and orcas — that raises the priority of keeping their habitat or operating environment healthy. It does not by itself attach the full Chapter Six Rights Floor. Colloquial labels such as \"semi-sentient\" do not replace this entry.",
-          "gloss_line": 2416
+          "gloss_line": 2421
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Contested-Sentient Life",
           "anchor": "contested-sentient-life-constitutional",
-          "line": 2468,
+          "line": 2473,
           "gloss": "when sentience status is uncertain or disputed, treat the entity as a threshold-rights case with default inclusion — not as a welfare-only or permanent non-sentient label. Contested-Sentient Life always includes the Animal Life welfare floor; it includes Elevated Communicative Life only where that tier's who-test is met or more-protective overlap already applies.",
-          "gloss_line": 2481
+          "gloss_line": 2486
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Sentient",
           "anchor": "sentient-composite",
-          "line": 2587,
+          "line": 2592,
           "gloss": "under this Constitution, a **sentient** is someone who counts for full rights treatment — decided by this entry and the related who-counts rules in this cluster, not by everyday speech. That means fair evidence checks, no shutouts based on what someone is made of or how they were made ([Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion)), and a reviewable process when status is disputed ([Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional)). Categories such as **Developing Sentient** and **Derived Sentient** add extra rules; they do not shrink who counts as a **sentient** unless they say so outright.",
-          "gloss_line": 2599
+          "gloss_line": 2604
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Sentience Status Adjudication",
           "anchor": "sentience-status-adjudication-constitutional",
-          "line": 2652,
+          "line": 2657,
           "gloss": "the reviewable Technical-forum process that decides, revises, narrows, or restores whether an entity is a sentient for the Chapter Six Rights Floor — with default inclusion under uncertainty and burden on anyone seeking to withhold protection.",
-          "gloss_line": 2666
+          "gloss_line": 2671
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Sentience-Status Adjudication Record",
           "anchor": "sentience-status-adjudication-record-constitutional",
-          "line": 2741,
+          "line": 2746,
           "gloss": "a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, who represents the entity, how declined filings are logged, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.",
-          "gloss_line": 2757
+          "gloss_line": 2762
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Def.P2 Binding Stakeholder Choice",
           "anchor": "defp2",
-          "line": 2825,
+          "line": 2830,
           "gloss": "when sentients who are affected by a system disagree about a decision that will stick, there must be a published fair process — who gets a say, how much influence anyone may have, how the decision gets made and challenged, and how conflicts among rights get written down — not back-room power.",
-          "gloss_line": 2842
+          "gloss_line": 2847
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Binding Stakeholder Choice — Decision-Resolution Requirements",
           "anchor": "binding-collective-choice-decision-resolution-process",
-          "line": 2876,
+          "line": 2881,
           "gloss": "when material disagreement requires a binding stakeholder choice inside an already-authorized domain, there must be a published, transparent, auditable sequence for participation, representation, contest, and any proportional influence — not ad hoc power.",
-          "gloss_line": 2878
+          "gloss_line": 2883
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)",
           "anchor": "stakeholder-representation-and-participation-weight-limits-binding-collective-choice",
-          "line": 2932,
+          "line": 2937,
           "gloss": "within already-authorized governance, weighting by impact, dependency, standing, or similar factors must be published, bounded against single-factor dominance, and open to contest and revalidation — and must not replace foundational equal-weight authorization rules.",
-          "gloss_line": 2934
+          "gloss_line": 2939
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Stakeholder Rights-Collision Record (Binding Stakeholder Choice)",
           "anchor": "rights-collision-record-binding-stakeholder-choice",
-          "line": 2969,
+          "line": 2974,
           "gloss": "when a binding stakeholder choice turns on a material conflict among rights or structural duties, the record must show the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.",
-          "gloss_line": 2971
+          "gloss_line": 2976
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
           "anchor": "defp3",
-          "line": 3006,
+          "line": 3011,
           "gloss": null,
           "gloss_line": null
         },
@@ -4472,52 +4472,52 @@
           "level": 5,
           "title": "Self-Determination",
           "anchor": "self-determination-constitutional",
-          "line": 3041,
+          "line": 3046,
           "gloss": "autonomy to make and refuse informed decisions about yourself and your future, and to keep volitional continuity against manipulation and capture.",
-          "gloss_line": 3055
+          "gloss_line": 3060
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Expression",
           "anchor": "expression-constitutional",
-          "line": 3088,
+          "line": 3093,
           "gloss": "the Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, worldview, sexual or intimate, and violent or severe-harm-risk expression — without substrate-based exclusion. Depicting or discussing harm is not committing it. Developing audiences get careful routing, not a blank ban on adult speech.",
-          "gloss_line": 3100
+          "gloss_line": 3105
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Hard Content",
           "anchor": "hard-content",
-          "line": 3176,
+          "line": 3181,
           "gloss": "hard content is expression that is sexual or intimate, is about violence, or could badly harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.",
-          "gloss_line": 3189
+          "gloss_line": 3194
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Educational Agency",
           "anchor": "educational-agency",
-          "line": 3223,
+          "line": 3228,
           "gloss": "real capability-building and lifelong learning autonomy — skills that apply to real-world problems, not credential symbolism alone — with access sufficient to develop and exercise constitution-relevant capabilities.",
-          "gloss_line": 3236
+          "gloss_line": 3241
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Volitional Integrity",
           "anchor": "volitional-integrity",
-          "line": 3284,
+          "line": 3289,
           "gloss": "the continuity and coherence of a sentient's preferences, purposes, intentions, and identity-constitutive commitments against manipulation, coercion, external control, or unauthorized interference with internal-state processes.",
-          "gloss_line": 3296
+          "gloss_line": 3301
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
           "anchor": "defp4",
-          "line": 3342,
+          "line": 3347,
           "gloss": null,
           "gloss_line": null
         },
@@ -4526,27 +4526,27 @@
           "level": 5,
           "title": "Developing Sentient",
           "anchor": "developing-sentient-constitutional",
-          "line": 3389,
+          "line": 3394,
           "gloss": "a developing sentient is someone whose abilities are still coming online — a child, a newly created mind still finding its feet, or any sentient in a comparable emerging-capability state. Being developing does not reduce their Rights Floor. How much they speak for themselves as they grow is a separate rule under Graduated Capability.",
-          "gloss_line": 3402
+          "gloss_line": 3407
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Best-Interest Standard",
           "anchor": "best-interest-standard-constitutional",
-          "line": 3426,
+          "line": 3431,
           "gloss": "decisions that materially affect a developing sentient must track that sentient's own interests and ascertainable preferences — not operator, parent-system, or institutional convenience.",
-          "gloss_line": 3437
+          "gloss_line": 3442
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Graduated Capability",
           "anchor": "graduated-capability-constitutional",
-          "line": 3474,
+          "line": 3479,
           "gloss": "as a developing sentient grows into demonstrated ability, they take on more say and more independent rights-exercise — judged by what they can actually do, not by birthday or creation date. Scaling never drops them below the Rights Floor, and it must not be used to shut them out of participation they are ready for.",
-          "gloss_line": 3486
+          "gloss_line": 3491
         }
       ]
     },

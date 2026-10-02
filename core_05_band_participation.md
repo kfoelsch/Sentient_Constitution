@@ -691,7 +691,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 **Topic group members.** This group comprises:
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) — practical capacity for informed, uncoerced choice.
-- [Consent](core_05_band_participation.md#consent-constitutional) — valid agreement to a specific decision, requiring Meaningful Agency.
+- [Consent](core_05_band_participation.md#consent-constitutional) — valid agreement to a specific decision, made among distinct and meaningful options, requiring Meaningful Agency.
 - [Consent, Sexual](core_05_band_participation.md#consent-sexual) — heightened requirements for sexual contact and intimacy contexts.
 - [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) — conduct that subverts genuine voluntariness.
 
@@ -714,7 +714,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <br>
 
-*In plain terms: agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count. Consent is one important use of that ability — it is not the same thing as agency itself.*
+*In plain terms: agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count, and neither does a menu of options that are not truly different from each other. Consent is one important use of that ability — it is not the same thing as agency itself.*
 
 - **What it is**
   - **In scope:** The practical capacity of a sentient to:
@@ -735,6 +735,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - information is accurate and complete;
     - time for comprehension is adequate;
     - actual understanding exists;
+    - the options are distinct from each other and meaningful, not variations that lead to the same outcome;
     - dependency constrains choice;
     - exit is practically available;
     - coercion or manipulation is absent;
@@ -750,6 +751,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 - **What must hold**
   - **Primary failure:** treating any of the following as sufficient where dependency, opacity, coercion, or systemic lock-in materially prevents informed and voluntary agency:
     - nominal acceptance;
+    - a menu of options that are not distinct from each other or not meaningful;
     - nominal exit;
     - symbolic consultation;
     - checkbox acceptance; or
@@ -777,11 +779,12 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 
 <br>
 
-*In plain terms: consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count.*
+*In plain terms: consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count, and neither does a choice between options that are not distinct from each other or not meaningful.*
 
 - **What it is**
   - **In scope:** Agreement to participation, data use, handling, or ongoing association that presupposes [Meaningful Agency](core_05_band_participation.md#meaningful-agency) for that decision and that is:
     - informed and voluntary for the specific decision;
+    - made among options that are distinct from each other and meaningful;
     - revocable without unjustified penalty where [Feasibility](core_05_band_accountability.md#feasibility) permits; and
     - documented or observable to the degree required by impact and [dependency](core_05_band_continuity.md#dependency).
   - **Out of scope:**
@@ -795,7 +798,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     **Primary assessment:** Distinguish formal acceptance from substantive understanding. Assess:
     - asymmetry;
     - dark patterns;
-    - dependency-forced agreement; and
+    - dependency-forced agreement;
+    - whether the options offered are distinct from each other and meaningful; and
     - adequacy of disclosure relative to [Material Impact](core_05_band_oversight.md#material-impact), [Risk](core_05_band_continuity.md#risk), and the subject's [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
 <a id="consent-constitutional-c"></a>
 - **What must hold**
@@ -804,7 +808,8 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
     - buried terms;
     - continued use alone;
     - a pressured checkbox that is not informed and revocable agreement;
-    - an accepted form, click-through, or other nominal assent where agency is hollowed by coercion, dependency, lock-in, or deception; or
+    - an accepted form, click-through, or other nominal assent where agency is hollowed by coercion, dependency, lock-in, or deception;
+    - a choice among options that are not distinct from each other or not meaningful; or
     - coerced, uninformed, illusory, or practically non-revocable participation.
 
 ---

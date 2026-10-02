@@ -2643,13 +2643,13 @@ sentients must be able to start and run commercial enterprises and entrepreneuri
 
 ##### Meaningful Agency
 
-agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count. Consent is one important use of that ability — it is not the same thing as agency itself.
+agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count, and neither does a menu of options that are not truly different from each other. Consent is one important use of that ability — it is not the same thing as agency itself.
 
 [Source](../../core_05_band_participation.md#meaningful-agency)
 
 ##### Consent
 
-consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count.
+consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count, and neither does a choice between options that are not distinct from each other or not meaningful.
 
 [Source](../../core_05_band_participation.md#consent-constitutional)
 

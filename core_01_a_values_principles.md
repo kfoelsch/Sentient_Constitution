@@ -882,9 +882,9 @@ A claim that limiting freedom was unavoidable — including "we had no choice" �
 
 Operative tests live in [§7.1 Limitation Discipline](#71-limitation-discipline) and [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity).
 
-[Meaningful Agency](core_05_band_participation.md#meaningful-agency) is the capacity that makes real choice possible. [Consent](core_05_band_participation.md#consent-constitutional) is valid agreement to a specific decision under that capacity — not a substitute for it, and not proven by a form alone. [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) defeats both. Operative detail for that relationship lives in Chapter Five §2 *Agency, consent, and anti-coercion*.
+[Meaningful Agency](core_05_band_participation.md#meaningful-agency) is the ability to make a choice between real options. [Consent](core_05_band_participation.md#consent-constitutional) is a valid yes to one specific option. Consent does not count when the options are not distinct from each other or are not meaningful. A signed form alone creates neither meaningful agency nor consent. [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) destroy both. The detailed rules are in Chapter Five §2 *Agency, consent, and anti-coercion*.
 
-Freedom does not include authority to subvert constitutional systems, defeat constitutional process or remedies, or claim protected agency for conduct whose material purpose or effect is to reward, protect, normalize, or make anti-constitutional conduct advantageous. Dissent against constitutional systems, and peaceful protest aimed at changing them, is not subversion: see [§7.4 Dissent and Peaceful Protest](#74-dissent-and-peaceful-protest).
+Freedom does not let anyone undermine constitutional systems, get around constitutional process or remedies, or claim protected agency for conduct whose main purpose or effect is to reward, shield, normalize, or pay off anti-constitutional conduct. Disagreeing with constitutional systems, and protesting peacefully to change them, is not undermining them. See [§7.4 Dissent and Peaceful Protest](#74-dissent-and-peaceful-protest).
 
 #### 7.1 Limitation Discipline
 
