@@ -649,9 +649,15 @@ Where governance choices — including predictions, causal claims, classificatio
 
 The scientific method, systematic inquiry, and peer review set the standard — but they are not the only acceptable procedures. How much formality is required depends on the stakes: higher-impact decisions need stricter evidence practices, governed by [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
 
-Where expert-evidence standards, methods, or evidence-stewardship disputes require forum resolution, routing follows **Technical Forum Domains** under [Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains). Technical forums maintain cross-family standards and may answer certified component questions without displacing primary-stakes routing elsewhere.
+If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Twelve §4.2 Technical Forum Domains](core_12_forum.md#42-technical-forum-domains). Technical forums keep standards consistent across families, and can answer certified technical questions. They don't take over a case that belongs in another forum because of what is at stake.
 
-Safety-sensitive limits on publication, data access, method disclosure, or replication materials may be justified only under [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), the Chapter Five definitions listed above, and applicable Chapter Six Rights Floors. Such limits must preserve maximum feasible epistemic integrity through protected records, independent review, delayed disclosure, redaction, secure access, or comparable safeguards; they must not become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
+Sometimes safety is a good reason to limit what gets published or shared: data access, how a method works, or the materials someone would need to repeat a study. Such limits are allowed only under:
+
+- [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)
+- the Chapter Five definitions listed above
+- the Chapter Six Rights Floors that apply
+
+Even then, keep as much honesty and checkability as you safely can. Use protected records, independent review, delayed release, redaction, secure access, or something similar. Never use a limit to bury unwelcome evidence, hide a safety defect, or make agreement look stronger than it is.
 
 <a id="52-plain-language-accessibility-participation-and-stewardship-duty"></a>
 #### 5.2 Plain-Language Accessibility (Participation and Stewardship Duty)
