@@ -471,6 +471,8 @@ This rule covers direct rewards and indirect reward pathways, including patronag
 
 Corrective, protective, or restorative measures for affected parties and good-faith protected reporters are not prohibited rewards.
 
+*In plain terms: repairing harm and protecting people who speak up honestly is the right response, and it should be encouraged. It is not rewarding bad conduct. Fixing the damage, shielding someone from retaliation, and making whole those who were hurt or who reported in good faith are exactly what the Constitution wants.*
+
 <a id="327-implementation-layer"></a>
 ##### 3.2.7 Implementation Layer
 

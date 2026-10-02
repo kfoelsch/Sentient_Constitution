@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-02T03:24:40+00:00",
+  "generated_at": "2026-10-02T03:32:10+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -120,13 +120,13 @@
       ]
     },
     "core_01_a_values_principles.md": {
-      "total_lines": 1877,
+      "total_lines": 1879,
       "sections": [
         {
           "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 1,
           "line_start": 1,
-          "line_end": 1877,
+          "line_end": 1879,
           "anchor": null
         },
         {
@@ -154,7 +154,7 @@
           "header": "3. Foundational Objective: Wellbeing (Flourishing Aim)",
           "level": 3,
           "line_start": 260,
-          "line_end": 538,
+          "line_end": 540,
           "anchor": null
         },
         {
@@ -196,7 +196,7 @@
           "header": "3.2 Recognition, Reinforcement, and Aspiration",
           "level": 4,
           "line_start": 389,
-          "line_end": 479,
+          "line_end": 481,
           "anchor": null
         },
         {
@@ -238,266 +238,266 @@
           "header": "3.2.6 Anti-Reward for Anti-Constitutional Conduct",
           "level": 5,
           "line_start": 466,
-          "line_end": 474,
+          "line_end": 476,
           "anchor": "#326-anti-reward-for-anti-constitutional-conduct"
         },
         {
           "header": "3.2.7 Implementation Layer",
           "level": 5,
-          "line_start": 475,
-          "line_end": 479,
+          "line_start": 477,
+          "line_end": 481,
           "anchor": "#327-implementation-layer"
         },
         {
           "header": "3.3 Anti-Degrading Process",
           "level": 4,
-          "line_start": 480,
-          "line_end": 538,
+          "line_start": 482,
+          "line_end": 540,
           "anchor": "#33-anti-degrading-process"
         },
         {
           "header": "4. Safety (Harm Constraint)",
           "level": 3,
-          "line_start": 539,
-          "line_end": 573,
+          "line_start": 541,
+          "line_end": 575,
           "anchor": null
         },
         {
           "header": "5. Truth (Epistemic Integrity Constraint)",
           "level": 3,
-          "line_start": 574,
-          "line_end": 730,
+          "line_start": 576,
+          "line_end": 732,
           "anchor": null
         },
         {
           "header": "5.1 Science-Informed Inquiry and Decision Support",
           "level": 4,
-          "line_start": 607,
-          "line_end": 654,
+          "line_start": 609,
+          "line_end": 656,
           "anchor": null
         },
         {
           "header": "5.2 Plain-Language Accessibility (Participation and Stewardship Duty)",
           "level": 4,
-          "line_start": 655,
-          "line_end": 730,
+          "line_start": 657,
+          "line_end": 732,
           "anchor": "#52-plain-language-accessibility-participation-and-stewardship-duty"
         },
         {
           "header": "5.2.1 Scope",
           "level": 5,
-          "line_start": 687,
-          "line_end": 699,
+          "line_start": 689,
+          "line_end": 701,
           "anchor": "#521-scope"
         },
         {
           "header": "5.2.2 The Duty",
           "level": 5,
-          "line_start": 700,
-          "line_end": 709,
+          "line_start": 702,
+          "line_end": 711,
           "anchor": "#522-the-duty"
         },
         {
           "header": "5.2.3 Definitional Rigor Preserved",
           "level": 5,
-          "line_start": 710,
-          "line_end": 719,
+          "line_start": 712,
+          "line_end": 721,
           "anchor": "#523-definitional-rigor-preserved"
         },
         {
           "header": "5.2.4 Jargon-as-Defeat Discipline",
           "level": 5,
-          "line_start": 720,
-          "line_end": 726,
+          "line_start": 722,
+          "line_end": 728,
           "anchor": "#524-jargon-as-defeat-discipline"
         },
         {
           "header": "5.2.5 Rights-Floor Boundary",
           "level": 5,
-          "line_start": 727,
-          "line_end": 730,
+          "line_start": 729,
+          "line_end": 732,
           "anchor": "#525-rights-floor-boundary"
         },
         {
           "header": "6. Trust and Trustworthiness (Coordination Integrity)",
           "level": 3,
-          "line_start": 731,
-          "line_end": 815,
+          "line_start": 733,
+          "line_end": 817,
           "anchor": null
         },
         {
           "header": "6.1 Correction and Remedy",
           "level": 4,
-          "line_start": 777,
-          "line_end": 815,
+          "line_start": 779,
+          "line_end": 817,
           "anchor": null
         },
         {
           "header": "7. Freedom (Bounded Agency)",
           "level": 3,
-          "line_start": 816,
-          "line_end": 1082,
+          "line_start": 818,
+          "line_end": 1084,
           "anchor": "#7-freedom-bounded-agency"
         },
         {
           "header": "7.1 Limitation Discipline",
           "level": 4,
-          "line_start": 871,
-          "line_end": 903,
+          "line_start": 873,
+          "line_end": 905,
           "anchor": "#71-limitation-discipline"
         },
         {
           "header": "7.2 Voluntary Discontinuation and Exit Rights",
           "level": 4,
-          "line_start": 904,
-          "line_end": 947,
+          "line_start": 906,
+          "line_end": 949,
           "anchor": null
         },
         {
           "header": "7.3 Assembly, Collective Organization, and Institutional Formation",
           "level": 4,
-          "line_start": 948,
-          "line_end": 1013,
+          "line_start": 950,
+          "line_end": 1015,
           "anchor": "#72-voluntary-discontinuation-and-exit-rights"
         },
         {
           "header": "7.3.1 Aligned Self-Organization",
           "level": 5,
-          "line_start": 992,
-          "line_end": 1013,
+          "line_start": 994,
+          "line_end": 1015,
           "anchor": "#73-assembly-collective-organization-and-institutional-formation"
         },
         {
           "header": "7.4 Dissent and Peaceful Protest",
           "level": 4,
-          "line_start": 1014,
-          "line_end": 1050,
+          "line_start": 1016,
+          "line_end": 1052,
           "anchor": null
         },
         {
           "header": "7.5 Institutional Secularism and Worldview Neutrality",
           "level": 4,
-          "line_start": 1051,
-          "line_end": 1082,
+          "line_start": 1053,
+          "line_end": 1084,
           "anchor": "#74-dissent-and-peaceful-protest"
         },
         {
           "header": "8. Continuity Aim: Introduction",
           "level": 3,
-          "line_start": 1083,
-          "line_end": 1155,
+          "line_start": 1085,
+          "line_end": 1157,
           "anchor": "#8-continuity-aim-introduction"
         },
         {
           "header": "9. Shared-System Capacity",
           "level": 3,
-          "line_start": 1156,
-          "line_end": 1344,
+          "line_start": 1158,
+          "line_end": 1346,
           "anchor": "#9-shared-system-capacity"
         },
         {
           "header": "9.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 1222,
-          "line_end": 1301,
+          "line_start": 1224,
+          "line_end": 1303,
           "anchor": "#91-productive-capacity-instrumental-good"
         },
         {
           "header": "9.1.1 Preserve, Expand, and What Does Not Count",
           "level": 5,
-          "line_start": 1258,
-          "line_end": 1301,
+          "line_start": 1260,
+          "line_end": 1303,
           "anchor": "#911-preserve-expand-and-what-does-not-count"
         },
         {
           "header": "9.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 1302,
-          "line_end": 1344,
+          "line_start": 1304,
+          "line_end": 1346,
           "anchor": "#92-constitutional-efficiency"
         },
         {
           "header": "10. Resilience and Self-Healing Design",
           "level": 3,
-          "line_start": 1345,
-          "line_end": 1386,
+          "line_start": 1347,
+          "line_end": 1388,
           "anchor": null
         },
         {
           "header": "11. Market Structure",
           "level": 3,
-          "line_start": 1387,
-          "line_end": 1815,
+          "line_start": 1389,
+          "line_end": 1817,
           "anchor": "#11-market-structure"
         },
         {
           "header": "11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 1434,
-          "line_end": 1525,
+          "line_start": 1436,
+          "line_end": 1527,
           "anchor": "#111-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "header": "11.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1499,
-          "line_end": 1525,
+          "line_start": 1501,
+          "line_end": 1527,
           "anchor": "#1111-concentration-threshold-triggers-adopter-tunable"
         },
         {
           "header": "11.2 Pro-Competition and Anti-Domination",
           "level": 4,
-          "line_start": 1526,
-          "line_end": 1669,
+          "line_start": 1528,
+          "line_end": 1671,
           "anchor": "#112-pro-competition-and-anti-domination"
         },
         {
           "header": "11.2.1 Pro-Competition Duties (Dos)",
           "level": 5,
-          "line_start": 1562,
-          "line_end": 1597,
+          "line_start": 1564,
+          "line_end": 1599,
           "anchor": "#1121-pro-competition-duties-dos"
         },
         {
           "header": "11.2.2 Anti-Domination Prohibitions (Don'ts)",
           "level": 5,
-          "line_start": 1598,
-          "line_end": 1641,
+          "line_start": 1600,
+          "line_end": 1643,
           "anchor": "#1122-anti-domination-prohibitions-donts"
         },
         {
           "header": "11.2.3 Remedies",
           "level": 5,
-          "line_start": 1642,
-          "line_end": 1669,
+          "line_start": 1644,
+          "line_end": 1671,
           "anchor": "#1123-remedies"
         },
         {
           "header": "11.3 Consolidation Ceiling",
           "level": 4,
-          "line_start": 1670,
-          "line_end": 1815,
+          "line_start": 1672,
+          "line_end": 1817,
           "anchor": "#113-consolidation-ceiling"
         },
         {
           "header": "11.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "level": 5,
-          "line_start": 1729,
-          "line_end": 1777,
+          "line_start": 1731,
+          "line_end": 1779,
           "anchor": "#1131-consolidation-risk-pre-lock-in-impairment"
         },
         {
           "header": "11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1778,
-          "line_end": 1815,
+          "line_start": 1780,
+          "line_end": 1817,
           "anchor": "#1132-consolidation-ceiling-mechanism-adopter-tunable"
         },
         {
           "header": "12. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 1816,
-          "line_end": 1877,
+          "line_start": 1818,
+          "line_end": 1879,
           "anchor": "#12-systemic-evaluation-requirement"
         }
       ]
