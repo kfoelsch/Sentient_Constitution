@@ -146,6 +146,41 @@ The rights themselves span the conditions that make agency possible:
 
 [Chapter Six’s opening](../core_06_rights_part_a.md#1-purpose-and-role) explains how this floor constrains later governance, measurement, certification, and implementation.
 
+<a id="flourishing-and-its-principles"></a>
+### Flourishing and its principles
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    F["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency<br/>• Always bounded by the Rights Floor"]
+    W["§3 Wellbeing (the outcome)<br/><br/>• §3.1 Fairness<br/>• §3.2 Recognition, Reinforcement, and Aspiration<br/>• §3.3 Anti-Degrading Process"]
+    subgraph NN["Non-Negotiable (§2.1)"]
+        direction LR
+        S["§4 Safety<br/><br/>• Harm constraint"]
+        T["§5 Truth<br/><br/>• Epistemic integrity<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
+    end
+    R["§6 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy"]
+    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.5 Exit, assembly,<br/>dissent, and worldview neutrality"]
+    F -->|"is stated as"| W
+    W -->|"is sustained by"| S
+    W --> T
+    S --> R
+    T --> R
+    R --> G
+    style NN fill:none,stroke:#64748b,stroke-dasharray:6 4,color:#ffffff
+    style F fill:none,stroke:#16a34a,color:#ffffff
+    style W fill:none,stroke:#9333ea,color:#ffffff
+    style S fill:none,stroke:#64748b,color:#ffffff
+    style T fill:none,stroke:#ea580c,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style G fill:none,stroke:#0f766e,color:#ffffff
+```
+
+Flourishing is stated as an outcome (wellbeing) and sustained by principles that depend on one another. **Safety** and **Truth** come first as non-negotiable constraints: systems may not foreseeably endanger sentients or deceive them. Both feed **Trust**, because reliance has to be earned on safe and honest ground, and Trust in turn supports **Freedom**, the bounded agency that lets sentients choose, dissent, organize, and leave. The arrows show how the principles build on one another. They do not rank the principles or override the integrated reading described in [Authority Stack and Internal Hierarchy](#authority-stack-and-internal-hierarchy).
+
+Their source is [Chapter One §2 Flourishing Aim: Introduction](../core_01_a_values_principles.md#2-flourishing-aim-introduction), which maps each principle to its Articles and definitions. The constraints themselves are stated in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth).
+
 <a id="stewardship-pillars"></a>
 ### Stewardship: three pillars
 

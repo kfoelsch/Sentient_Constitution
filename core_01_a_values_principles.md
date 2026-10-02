@@ -223,7 +223,7 @@ flowchart TB
     style G fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-*Flourishing is stated as an outcome and sustained first by the non-negotiable constraints, Safety and Truth, which both feed Trust, which in turn feeds Freedom. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions.*
+*Flourishing is stated as an outcome and sustained first by the non-negotiable constraints, Safety and Truth, which both feed Trust, which in turn feeds Freedom. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions. Reproduced in the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#flourishing-and-its-principles).*
 
 <a id="21-non-negotiable-principle-constraints-safety-and-truth"></a>
 #### 2.1 Non-Negotiable Principle Constraints: Safety and Truth
