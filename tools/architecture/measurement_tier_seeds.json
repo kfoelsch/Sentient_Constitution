@@ -9,6 +9,11 @@
     "3.8 Constitutional performance": "#measuring-constitutional-performance"
   },
   "terms": {
+    "Standardization": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
     "Wellbeing": {
       "ch00_category": "3.2 Flourishing",
       "tier_depth": "full",

@@ -3019,7 +3019,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - **Safe Conditions**; and
     - **Leisure and Rest**; and
   - **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) disciplines where those duties are materially interdependent.
-- **Anti-bypass:** a matter within admission scope must not be segmented into any of the following in a way that satisfies one component while defeating materially interdependent duties under **Article III-C** and **Article IX-D**:
+- **Anti-bypass:** these compartments must not be separated in a way that satisfies one component while defeating materially interdependent duties under **Article III-C** and **Article IX-D** (see [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)):
   - compensation;
   - organization;
   - safety;
@@ -3030,7 +3030,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - displacement; or
   - innovation-reward.
 
-  See **Joint invocation and satisfaction**.
+  See **Anti-Segmentation Principle**.
 - **Read with:** [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) where productive-activity organizing is materially implicated.
 
 **Cluster members.** This cluster comprises:
@@ -3547,7 +3547,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - long- versus short-horizon tradeoffs;
     - incentive structure; or
     - capacity assertions.
-- **Anti-bypass:** when a matter falls within admission scope, splitting it into any of the following does not count as compliance if that split only looks compliant on paper, hides stewardship failures, or undercuts stewardship discipline, distributed understanding, or lasting constitutional alignment:
+- **Anti-bypass:** separating these compartments is non-compliant where the split only looks compliant on paper, hides stewardship failures, or undercuts stewardship discipline, distributed understanding, or lasting constitutional alignment:
   - governance-form;
   - capacity-metric;
   - disclosure-summary;
@@ -3555,7 +3555,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - compliance-artifact; or
   - short-horizon efficiency or incentive questions.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 **Cluster members.** This cluster comprises:
 - [Stewardship](core_05_band_continuity.md#stewardship-constitutional) — principle-layer orientation toward preserving constitutional alignment, repair capacity, distributed understanding, and long-horizon Continuity-aim effects;
@@ -3909,9 +3909,9 @@ See **Joint invocation and satisfaction**.
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
 - **Scope:** where admission scope is met, the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction).
 - **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all CS-2 data types.
-- **Anti-bypass:** privacy matters within admission scope must not be segmented across articles or definitions to satisfy one article's standard while evading another's materially implicated discipline, or to isolate privacy analysis from internal-state-boundary or surveillance-boundary assessment where those protections materially intersect. Anti-read-across for standard-setting remains as stated under **Def.C3**.
+- **Anti-bypass:** privacy analysis must not be separated across articles or definitions, or from internal-state-boundary or surveillance-boundary assessment, where that satisfies one standard while evading another materially implicated discipline (see [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)). Anti-read-across for standard-setting remains as stated under **Def.C3**.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 **Cluster members.** This cluster comprises the **Def.C3** enumeration:
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) — lifecycle protection of personal, relational, experiential, likeness, metadata, internal-state-adjacent, and comparable information;
@@ -4131,7 +4131,7 @@ See **Joint invocation and satisfaction**.
   - limits;
   - uncertainty treatment; and
   - means of verification.
-- **Anti-bypass:** a matter within admission scope must not be segmented into trust-only or trustworthiness-only frames that:
+- **Anti-bypass:** the trust-only and trustworthiness-only frames must not be separated in a way that:
   - treat reliance as justified without the joint observable-and-verifiable evidence discipline both entries require; or
   - satisfy one [Trustworthiness](core_05_band_continuity.md#trustworthiness) assessment subcomponent while bypassing another where materially relevant.
 

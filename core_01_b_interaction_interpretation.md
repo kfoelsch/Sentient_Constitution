@@ -598,7 +598,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Preamble — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
-- Downstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle), [§15.2 Definitional layer and required disciplines](#152-definitional-layer-and-required-disciplines), [§15.3 Ambiguity resolution](#153-ambiguity-resolution), [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) through [20. Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); [13. Process Conflict Resolution](#13-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
+- Downstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-anti-segmentation-principle)), [§15.2 Definitional layer and required disciplines](#152-definitional-layer-and-required-disciplines), [§15.3 Ambiguity resolution](#153-ambiguity-resolution), [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) through [20. Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); [13. Process Conflict Resolution](#13-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02_definition_structure.md) and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) and [Chapter Fifteen](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under §8.4*).
@@ -669,6 +669,28 @@ It must not be used to bypass:
 - accountability.
 
 Adopted implementation layers may add detail to these protections. They must not narrow them.
+
+<a id="1511-anti-segmentation-principle"></a>
+##### 15.1.1 Anti-Segmentation Principle
+
+*In plain terms: No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails.*
+
+Where the questions a matter raises materially travel together, assess the matter as one. This applies to jointly invoked definition clusters under [Chapter Five §2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction), and to any other matter whose duties are materially interdependent.
+
+A matter inside that scope must not be divided into any of the following in a way that satisfies one part while defeating another part that is materially implicated:
+- separate framings, categories, or classifications;
+- separate questions, components, or tests;
+- separate channels, records, or procedures;
+- separate actors, owners, forums, or time periods.
+
+Meeting one part is not compliance with the whole. Where the matter's duties interlock, the assessment must test them together and give the result for the whole matter.
+
+This principle does not:
+- pull unrelated definitions or duties into a matter because one term appears;
+- create, extend, or narrow any Chapter Six Rights-Floor provision; or
+- displace a cluster's own statement of which compartments and protected duties it covers. A cluster states those under **Anti-bypass** and cites this section for the rule.
+
+Whole-system evaluations must test anti-segmentation under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Chapter Three §2.1 Common Evasion Patterns](core_03_definition_integrity.md#21-common-evasion-patterns) and [§2.2 Reductive Evasion](core_03_definition_integrity.md#22-reductive-evasion).
 
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 Definitional layer and required disciplines

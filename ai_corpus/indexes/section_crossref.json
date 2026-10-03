@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-03T01:30:48+00:00",
+  "generated_at": "2026-10-03T02:12:40+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15748,
+  "edge_count": 15763,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -7290,6 +7290,14 @@
       "source_file": "core_01_a_values_principles.md",
       "source_header": "7.2 Assembly, Collective Organization, and Institutional Formation",
       "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7.2 Assembly, Collective Organization, and Institutional Formation",
+      "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#174-aligned-self-organization",
       "count": 1
@@ -9924,6 +9932,38 @@
       "source_anchor": "#133-minimization-of-avoidable-burden",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.1.1 Anti-Segmentation Principle",
+      "source_anchor": "#1511-anti-segmentation-principle",
+      "target_file": "core_03_definition_integrity.md",
+      "target_anchor": "#21-common-evasion-patterns",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.1.1 Anti-Segmentation Principle",
+      "source_anchor": "#1511-anti-segmentation-principle",
+      "target_file": "core_03_definition_integrity.md",
+      "target_anchor": "#22-reductive-evasion",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.1.1 Anti-Segmentation Principle",
+      "source_anchor": "#1511-anti-segmentation-principle",
+      "target_file": "core_05__definitions_home.md",
+      "target_anchor": "#21-joint-invocation-and-satisfaction",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.1.1 Anti-Segmentation Principle",
+      "source_anchor": "#1511-anti-segmentation-principle",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
     },
     {
@@ -18840,6 +18880,14 @@
     },
     {
       "source_file": "core_05__definitions_home.md",
+      "source_header": "2.1 Joint invocation and satisfaction",
+      "source_anchor": "#21-joint-invocation-and-satisfaction",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
       "source_header": "Chapter Five compass and definition map",
       "source_anchor": "#chapter-five-compass-and-definition-map",
       "target_file": "core_00_preamble.md",
@@ -27371,6 +27419,14 @@
       "source_header": "Governance architecture, decentralization, and concentration",
       "source_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standardization",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Governance architecture, decentralization, and concentration",
+      "source_anchor": "#governance-architecture-oversight-decentralization-and-concentration-cluster",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#market-structure-constitutional",
       "count": 2
     },
@@ -30970,6 +31026,14 @@
       "source_file": "core_05_band_accountability.md",
       "source_header": "Def.A3 Standing State, Contribution, and Violation",
       "source_anchor": "#standing-state-contribution-and-violation-cluster",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Def.A3 Standing State, Contribution, and Violation",
+      "source_anchor": "#standing-state-contribution-and-violation-cluster",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-compass-and-definition-map",
       "count": 1
@@ -31636,6 +31700,14 @@
       "source_anchor": "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm",
+      "source_anchor": "#use-of-force-autonomous-coercion-and-mass-harm-cluster",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
       "count": 1
     },
     {
@@ -35978,6 +36050,14 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
       "source_anchor": "#labor-and-economic-floor-cluster",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
+      "source_anchor": "#labor-and-economic-floor-cluster",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-compass-and-definition-map",
       "count": 1
@@ -36652,6 +36732,14 @@
       "source_anchor": "#privacy-informational-cluster",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#1323-privacy-and-informational-self-determination",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C3 Privacy (Informational) — peer-level cluster head",
+      "source_anchor": "#privacy-informational-cluster",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
       "count": 1
     },
     {
@@ -45706,6 +45794,14 @@
       "source_file": "core_05_band_oversight.md",
       "source_header": "Def.O1 Transparency, Auditability, and Verification",
       "source_anchor": "#transparency-auditability-and-verification-cluster",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Def.O1 Transparency, Auditability, and Verification",
+      "source_anchor": "#transparency-auditability-and-verification-cluster",
       "target_file": "core_05__definitions_home.md",
       "target_anchor": "#chapter-five-compass-and-definition-map",
       "count": 1
@@ -48188,6 +48284,14 @@
       "source_anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
+      "source_anchor": "#developing-sentient-best-interest-and-graduated-capability-cluster",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
       "count": 1
     },
     {
@@ -51180,6 +51284,14 @@
       "source_anchor": "#self-determination-and-meaningful-agency-cluster",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
+      "source_anchor": "#self-determination-and-meaningful-agency-cluster",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
       "count": 1
     },
     {
@@ -76364,6 +76476,14 @@
       "source_anchor": "#35-assembly-collective-organization-and-institutional-formation",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#72-assembly-collective-organization-and-institutional-formation",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "3.5 Assembly, Collective Organization, and Institutional Formation",
+      "source_anchor": "#35-assembly-collective-organization-and-institutional-formation",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1511-anti-segmentation-principle",
       "count": 1
     },
     {

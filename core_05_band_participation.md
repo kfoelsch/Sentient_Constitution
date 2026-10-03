@@ -2186,18 +2186,7 @@ It keeps welfare rules, species or category labels, subclass rules, and status d
 
 [Substrate Class](core_05_band_participation.md#substrate-class) and [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) are cluster-level constraints. [Animal Life](core_05_band_participation.md#animal-life-constitutional), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life-constitutional), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life-constitutional), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional), and [Sentient](core_05_band_participation.md#sentient) are housed in the [*Treatment of Life by Status*](core_05_band_participation.md#treatment-of-life-by-status-subgroup) nested sub-block (protection tiers: Animal Life ⊂ Elevated Communicative Life where Elevated's who-test is met; Contested-Sentient Life always includes Animal Life and adds Article VI-B default inclusion, and includes Elevated only where Elevated's who-test or more-protective overlap applies; Sentient includes Contested; adjudication process beside the ladder).
 
-**Anti-bypass.** A sentience-status matter within the admission scope must not be segmented into separate:
-- indicator;
-- taxonomy;
-- origin;
-- derivation;
-- development;
-- capability;
-- classification;
-- adjudication;
-- standing; or
-- Rights-Floor
-questions in a way that withholds, narrows, or revokes protection while avoiding the full sentience-status discipline.
+**Anti-bypass.** Compartments: indicator, taxonomy, origin, derivation, development, capability, classification, adjudication, standing, and Rights-Floor. Separating them is non-compliant where it withholds, narrows, or revokes protection while avoiding the full sentience-status discipline.
 
 Satisfying any of the following alone is not sufficient where material uncertainty, dispute, contestation, or narrowing requires [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication-constitutional) and the **Article VI-B** (*Sentience-Status Adjudication Floor*) default-inclusion rule:
 - nominal indicator review;
@@ -2210,7 +2199,7 @@ Derived or developing status may specify additional safeguards; it must not:
 - narrow who counts as a sentient; or
 - reduce the Chapter Six Rights Floor.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -2865,13 +2854,13 @@ It does not replace [Foundational Constitutional Choice](core_05_band_integrativ
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#rights-collision-record-binding-stakeholder-choice);
 - [Chapter Thirteen §4.3 Decision-resolution requirements for binding stakeholder choice](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
 
-**Anti-bypass.** Do not split a binding stakeholder-choice matter into separate deliberation, representation, weighting, record, or rights-collision pieces so that one box is checked while the others fail. Within the admission scope, none of these count as compliance on their own:
+**Anti-bypass.** Compartments: deliberation, representation, weighting, record, and rights-collision. Checking one while the others fail is non-compliant; none of these counts as compliance on its own:
 
 - a published sequence without meaningful stakeholder representation;
 - a weighting model that cannot be contested or revalidated; or
 - a binding rights-affecting outcome without the required rights-collision record.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -3033,9 +3022,9 @@ See **Joint invocation and satisfaction**.
 - [Volitional Integrity](core_05_band_participation.md#volitional-integrity);
 - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), where volitional or bounded-agency disciplines materially intersect this cluster.
 
-**Anti-bypass.** A matter within the admission scope must not be segmented into separate speech, platform, curricular, or surveillance questions in a way that preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture.
+**Anti-bypass.** Compartments: speech, platform, curricular, and surveillance. Separating them is non-compliant where it preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture. See [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle).
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 
@@ -3381,9 +3370,9 @@ It prevents status, best-interest, and scaling framings from being separated in 
 - [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional) — how participation and rights-exercise scale as capability develops;
 - [Article VIII-D](core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*), as the Rights-Floor owner.
 
-**Anti-bypass.** A matter within the admission scope must not be segmented into separate status, care, education, or participation questions in a way that preserves nominal Rights-Floor attachment while defeating best-interest reasoning or using age proxies to lock out participation.
+**Anti-bypass.** Compartments: status, care, education, and participation. Separating them is non-compliant where it preserves nominal Rights-Floor attachment while defeating best-interest reasoning or using age proxies to lock out participation. See [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle).
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
 

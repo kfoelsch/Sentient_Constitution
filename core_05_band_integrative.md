@@ -616,19 +616,12 @@ When any of those questions is in play, read the cluster members together rather
 
 [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint) lives in this section as a supporting definition read with the cluster; it is not an additional joint-invocation member unless independently required. The positive owner register of which chapter owns which substantive domain lives in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (sections 4–9). Owner non-relocation and supremacy effect are stated under [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack). Practical enforceability of binding claims routes under [Auditability](core_05_band_oversight.md#auditability) and [Contestability](core_05_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.3 Governance Layers](core_00_preamble.md#33-governance-layers) and [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer).
 
-**Anti-bypass.** A matter within the admission scope must not be segmented into separate:
-
-- labeling;
-- process-artifact;
-- edition-display; or
-- interpretive-gloss
-
-questions in a way that:
+**Anti-bypass.** Compartments: labeling, process-artifact, edition-display, and interpretive-gloss. Separating them is non-compliant where it:
 
 - treats non-binding material as operative corpus; or
 - inverts supremacy ordering without a valid adoption path.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Oversight measurement family and Accountability measurement family. Find the concrete measures on the member definitions below.
 

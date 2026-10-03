@@ -1255,6 +1255,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Materially Binding Act](core_05_band_accountability.md#materially-binding-act) — an attributable act under constitutional, adopted, or delegated authority that materially creates, changes, confirms, suspends, or ends a right, duty, status, standing, permission, allocation, record, or operating state, and that others must follow or may rely on as settled.
 - [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) — the attributable, versioned official record for a materially binding act; short form: **Act Record**.
 - [Decentralization](core_05_band_accountability.md#decentralization) — placement of authority at the least centralized scale that can satisfy binding requirements.
+- [Standardization](core_05_band_accountability.md#standardization) — the default of one common, published, openly available form for terms, interfaces, procedures, and like cases wherever no binding reason supports variation.
 - [Market Structure](core_05_band_accountability.md#market-structure-constitutional) — principle-layer discipline for contestable productive conditions.
 - [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) — operational trigger for heightened review when material concentration reaches problematic levels.
 
@@ -1837,14 +1838,14 @@ These definitions do different jobs, but they must be considered together when n
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying);
 - [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary).
 
-**Anti-bypass.** A matter within the admission scope must not be split into separate individual-harm, collective-harm, cruelty, harassment-and-bullying, non-imposition, materiality, freedom-limitation, or remediation questions in a way that:
+**Anti-bypass.** Compartments: individual-harm, collective-harm, cruelty, harassment-and-bullying, non-imposition, materiality, freedom-limitation, and remediation. Separating them is non-compliant where it:
 
 - recognizes a harm pathway while avoiding the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary);
 - invokes the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) while understating the harm;
 - treats bare [Harm](core_05_band_accountability.md#harm) magnitude as a substitute for [Cruelty](core_05_band_accountability.md#cruelty) analysis where suffering-as-end or gratuitous infliction is materially implicated; or
 - separates generic [Harm](core_05_band_accountability.md#harm) or the [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary) from [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying) when patterned unwanted conduct is materially involved.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 The following limits also apply:
 
@@ -2152,14 +2153,14 @@ Where admission scope is met, this cluster brings together the six constitutiona
 - [Primary-Stakes Routing](core_05_band_accountability.md#primary-stakes-routing);
 - [Forum Case Record](core_05_band_accountability.md#forum-case-record).
 
-**Anti-bypass.** A matter within this scope must be considered as a whole. It must not be split into separate questions about its case title, intake category, or specialist panel if doing so would:
+**Anti-bypass.** Compartments: case title, intake category, and specialist panel. Separating them is non-compliant where it would:
 
 - blur the different roles of the forum families;
 - bypass routing based on what is mainly at stake;
 - avoid formal referral requirements; or
 - defeat backup routing that prevents a forum from judging its own matter.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on the member definitions below.
 
@@ -2561,9 +2562,9 @@ Where admission scope is met, this cluster is the shared home for the Chapter Fi
 - [Single Catastrophic Incident](core_05_band_accountability.md#single-catastrophic-incident);
 - [Sustained High-Gravity Pattern](core_05_band_accountability.md#sustained-high-gravity-pattern).
 
-**Anti-bypass.** A matter within the admission scope must not be segmented into separate narrative, procedural, evidentiary, standing-effect, or incident-gravity compartments in a way that defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Eleven designation review, or non-substitution discipline required by Chapters Nine through Eleven.
+**Anti-bypass.** Compartments: narrative, procedural, evidentiary, standing-effect, and incident-gravity. Separating them is non-compliant where it defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Eleven designation review, or non-substitution discipline required by Chapters Nine through Eleven. See [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle).
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on the member definitions below.
 
@@ -3348,9 +3349,9 @@ Where admission scope is met, this cluster is the joint-invocation home for over
 - [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional), for non-conflation discipline with **Article XX-B** (*Restriction Floors*);
 - [Autonomous Coercion Tool](core_05_band_accountability.md#autonomous-coercion-tool-constitutional).
 
-**Anti-bypass.** A matter within the admission scope must not be segmented into separate authorization, targeting, weapons-class, autonomy, coercion, or review questions in a way that satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties.
+**Anti-bypass.** Compartments: authorization, targeting, weapons-class, autonomy, coercion, and review. Separating them is non-compliant where it satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties. See [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle).
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on the member definitions below.
 

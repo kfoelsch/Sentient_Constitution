@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-01T12:27:49+00:00
+Generated: 2026-10-03T02:12:30+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **237/237** terms pass tier audit.
+Approved progress: **238/238** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -251,6 +251,7 @@ Approved progress: **237/237** terms pass tier audit.
 | Remedy System | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Restorative Justice | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Single Catastrophic Incident | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Standardization | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Standing Effect | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Standing Lock | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Standing Record | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |

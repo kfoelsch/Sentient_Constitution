@@ -720,9 +720,9 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint) — cover plausible failure, misuse, interaction, and adversarial pathways before claiming compliance; and
 - [Verifiability](core_05_band_oversight.md#verifiability) — externally detect and measure behavior and effects, and independently validate what was observed under practical access, independence, proportionate burden, and stressed-condition reliability.
 
-**Anti-bypass.** Within the admission scope, do not split the matter into separate disclosure, preservation, logging, metrics, audit sampling, verification UX, or independence questions in a way that checks a box on one channel while defeating practical reconstruction, challenge, or proportionate assurance depth.
+**Anti-bypass.** Compartments: disclosure, preservation, logging, metrics, audit sampling, verification UX, and independence. Separating them is non-compliant where it checks a box on one channel while defeating practical reconstruction, challenge, or proportionate assurance depth. See [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle).
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), and [Verifiability](core_05_band_oversight.md#verifiability) below.
 
@@ -1221,9 +1221,9 @@ Where admission scope is met, this cluster is the home for honest representation
 - [Foreseeability and Reasonably Foreseeable](core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) — nested sub-block for foreseeability mechanics read together with **Truth** and **Epistemic Integrity** (not a separate cluster head); and
 - [Publication and High-Impact Communication](core_05_band_oversight.md#publication-and-high-impact-communication) — nested sub-block for publication-conduct floors read together with **Truth**, **Epistemic Integrity**, and **Foreseeability** (not a separate cluster head).
 
-**Anti-bypass.** Within the admission scope, do not split the matter into separate disclosure, publication, method, uncertainty, integrity, verification, or foreseeability questions in a way that satisfies one while defeating another. Nominal compliance with a disclosure or publication rule is not enough when foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
+**Anti-bypass.** Compartments: disclosure, publication, method, uncertainty, integrity, verification, and foreseeability. Separating them is non-compliant where it satisfies one while defeating another. Nominal compliance with a disclosure or publication rule is not enough when foreseeable-condition analysis, methodological integrity, or honesty about limits and uncertainty remains materially deficient.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Oversight measurement family. Find the concrete measures on [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) below.
 
@@ -1464,9 +1464,9 @@ Where admission scope is met, this nested sub-block is the joint home for forese
 - [Foreseeability](core_05_band_oversight.md#foreseeability-diligence) — reasonable analysis sized to impact: required depth, evaluation boundaries, incompleteness failure, and justified non-foreseeability claims; and
 - [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) — outcomes a careful analyst using known methods could identify before acting.
 
-**Anti-bypass.** Do not split foreseeability analysis into isolated depth, boundary, claim-burden, incompleteness, or reasonably-foreseeable questions in a way that satisfies one while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
+**Anti-bypass.** Compartments: depth, boundary, claim-burden, incompleteness, and reasonably-foreseeable. Separating them is non-compliant where it satisfies one while defeating another. Claiming unforeseeability without audit-compatible justification, or evaluating only best-case operation where adversarial, scaled, repeated, or misuse contexts are material, is non-compliant within the admission scope.
 
-See **Joint invocation and satisfaction**.
+See **Anti-Segmentation Principle**.
 
 <a id="foreseeability-burden"></a>
 <a id="foreseeability-failure"></a>

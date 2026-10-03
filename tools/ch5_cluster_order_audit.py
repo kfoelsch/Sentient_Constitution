@@ -76,6 +76,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Materially Binding Act",
         "Materially Binding Act Record",
         "Decentralization",
+        "Standardization",
         "Market Structure",
         "Market Concentration Threshold",
     ],

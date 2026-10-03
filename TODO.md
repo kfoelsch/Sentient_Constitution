@@ -183,9 +183,9 @@ Keep this active file limited to editor checks, current open work, and short arc
 - [ ] Translations (20 languages) still carry the old Chapter One numbering; not updated.
 - [ ] Add the relocated Continuity principles (new §6/§7 and §8/§9) to the Trace downstream in core_05_apex_continuity_aim.md.
 - [x] Shared-System Capacity aim question resolved 2026-10-01: it straddles both aims (means toward Flourishing, substance of Continuity); swapped to §6 as the bridge, Resilience is now §7.
-- [ ] "Standardization" definition in core_05_band_accountability.md lacks an approved measurement seed (blocks hierarchy-map regeneration).
+- [x] "Standardization" measurement seed approved 2026-10-02 (Accountability, primary_secondary); hierarchy map regenerated. Also added to the Governance architecture topic group members and to ch5_cluster_order_audit.
 - [ ] Run `make ai-manifest-regenerate` now that source changes are committed.
-- Baseline failures unchanged: corpus-markdown-audit, ch5-cluster-order-audit, lexical-vocabulary-audit.
+- Baseline failures corpus-markdown-audit and ch5-cluster-order-audit cleared 2026-10-02 (list-intro colons; Standardization added to the topic group). lexical-vocabulary-audit not re-checked.
 
 - 2026-10-01 (later): Chapter One §9 and §7 swapped (tools/ch1_swap_6_7.py): §9 Shared-System Capacity (straddles both aims), §10 Resilience and Self-Healing Design. Translations still use the old numbering.
 - 2026-10-01 (later): Added unnumbered Part A openers "Flourishing Aim: Introduction" (after §1) and "Continuity Aim: Introduction" (before §6), each with a Mermaid chart. Chart sync (VIS-CHART-SYNC-03): update both when §2–§9 headings change. Translations not updated.

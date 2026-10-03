@@ -226,7 +226,7 @@ Where [Chapter One §7.4 Voluntary Discontinuation and Exit Rights](core_01_a_va
 <a id="35-assembly-collective-organization-and-institutional-formation"></a>
 #### 3.5 Assembly, Collective Organization, and Institutional Formation
 
-Where [Chapter One §7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) applies to a certification matter, certification must test the issue jointly enough to prevent anti-segmentation evasion. The evaluation is incomplete if it routes the matter through one framing alone in a way that defeats assembly or collective-organization protection.
+Where [Chapter One §7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation) applies to a certification matter, certification must test the issue jointly under the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle). The evaluation is incomplete if it routes the matter through one framing alone in a way that defeats assembly or collective-organization protection.
 
 <a id="351-dissent-and-peaceful-protest"></a>
 ##### 3.5.1 Dissent and Peaceful Protest

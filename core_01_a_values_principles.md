@@ -188,10 +188,10 @@ No single principle may be applied in isolation where doing so would materially 
 | **Meaningful agency** | [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency) | Do sentients keep real, bounded freedom to choose, dissent, organize, and leave? |
 
 **How the Flourishing principles work together:**
-- **Safety and Truth are non-negotiable constraints.** They are stated together in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](#21-non-negotiable-principle-constraints-safety-and-truth) and are not traded away to gain the other principles.
-- **Trust and Freedom are bounded, not absolute.** Trust is earned and correctable ([§6.1 Correction and Remedy](#61-correction-and-remedy)); Freedom has disciplined limits ([§7.1 Limitation Discipline](#71-limitation-discipline)).
-- **None is applied in isolation.** The principles are read together, and where they collide they are weighed under [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
-- **Flourishing has a partner.** The Continuity aim asks what keeps this outcome durable; it is introduced in [Continuity Aim: Introduction](#8-continuity-aim-introduction).
+- **Safety and Truth are non-negotiable constraints:** They are stated together in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](#21-non-negotiable-principle-constraints-safety-and-truth) and are not traded away to gain the other principles.
+- **Trust and Freedom are bounded, not absolute:** Trust is earned and correctable ([§6.1 Correction and Remedy](#61-correction-and-remedy)); Freedom has disciplined limits ([§7.1 Limitation Discipline](#71-limitation-discipline)).
+- **None is applied in isolation:** The principles are read together, and where they collide they are weighed under [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
+- **Flourishing has a partner:** The Continuity aim asks what keeps this outcome durable; it is introduced in [Continuity Aim: Introduction](#8-continuity-aim-introduction).
 
 **Diagram: Flourishing and its principles**
 
@@ -928,10 +928,10 @@ These must be read together. When a matter falls within this cluster, it may not
 
 You may limit someone's freedom only as a last resort. If a less restrictive option would still prevent the material harm or systemic risk, you must use it. Every limit must meet all of these conditions:
 
-- **Necessary.** No less restrictive option would still prevent the harm or risk. This is the [Necessity](core_05_band_accountability.md#necessity) test in Chapter Five.
-- **Proven.** Anyone who says a limit is unavoidable must be able to show it, under the burden and traceability rules in Chapter Four. Convenience, cost alone, operator-created barriers, and habit do not count as proof.
-- **Consistent with the definitions.** The claim must fit the Chapter Five definitions of Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection).
-- **Overseen.** Every limit stays under [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and the more is at stake, the closer that oversight must be ([material stake](core_00_preamble.md#material-stake)).
+- **Necessary:** No less restrictive option would still prevent the harm or risk. This is the [Necessity](core_05_band_accountability.md#necessity) test in Chapter Five.
+- **Proven:** Anyone who says a limit is unavoidable must be able to show it, under the burden and traceability rules in Chapter Four. Convenience, cost alone, operator-created barriers, and habit do not count as proof.
+- **Consistent with the definitions:** The claim must fit the Chapter Five definitions of Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection).
+- **Overseen:** Every limit stays under [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and the more is at stake, the closer that oversight must be ([material stake](core_00_preamble.md#material-stake)).
 
 If limiting freedom clashes with other constitutional values or rights, first make sure **Safety** and **Truth** are satisfied. Then work through [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) to [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 
@@ -961,7 +961,7 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 - [System Creation](core_05_band_participation.md#system-creation-constitutional)
 - [Business Creation](core_05_band_participation.md#business-creation-constitutional)
 
-The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the anti-segmentation principle at Chapter One; it does not restate those Chapter Five mechanics.
+The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic; it does not restate those Chapter Five mechanics.
 
 **Which rights articles still control.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) is a Chapter One principle. It does not replace the Chapter Six Rights Floor. Inside **§7.2** (*Assembly, Collective Organization, and Institutional Formation*), those articles still decide what the right is and how it may be limited:
 - **[Article XI-D](core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest)** (*Assembly, Dissent, and Peaceful Protest*) — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
@@ -977,11 +977,9 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 - Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster.
 - Do not apply the anti-segmentation package of **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) just because one of those terms appears.
 
-Single-definition use is not a license to re-segment a jointly covered matter.
+**What this section does not change.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
 
-**What this section does not change.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) adds principle-layer anti-segmentation discipline and the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
-
-A matter inside that together-reading scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
+**Compartments.** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
 
 Whole-system evaluations must test anti-segmentation under [Chapter Eight §3.5 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
@@ -1126,10 +1124,10 @@ Whole-system evaluations must test these conditions under [Chapter Eight §3.4 V
 | [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) | Has the whole system, with its dependencies and incentives, been verified before a claim stands? |
 
 **How the Continuity principles work together:**
-- **Capacity straddles the two aims.** [§9 Shared-System Capacity](#9-shared-system-capacity) is a means toward Flourishing and the substance of Continuity, and it is not a trump card over safety, truth, rights, or ecology.
-- **Resilience and market structure protect capacity.** Resilience keeps it durable; market structure keeps it contestable.
-- **Systemic evaluation checks the whole.** [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) verifies scope, dependency, and incentive alignment before compliance claims stand.
-- **Continuity must not quietly defeat Flourishing.** Where the two collide, they are weighed under [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
+- **Capacity straddles the two aims:** [§9 Shared-System Capacity](#9-shared-system-capacity) is a means toward Flourishing and the substance of Continuity, and it is not a trump card over safety, truth, rights, or ecology.
+- **Resilience and market structure protect capacity:** Resilience keeps it durable; market structure keeps it contestable.
+- **Systemic evaluation checks the whole:** [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) verifies scope, dependency, and incentive alignment before compliance claims stand.
+- **Continuity must not quietly defeat Flourishing:** Where the two collide, they are weighed under [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
 
 **Diagram: Continuity and its principles**
 
