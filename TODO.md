@@ -199,4 +199,4 @@ Keep this active file limited to editor checks, current open work, and short arc
 
 - 2026-10-02: Added "distinct from each other and meaningful options" to Chapter Five Meaningful Agency and Consent (gloss, assessment, failure lists, topic-group line). Translations and Chapter Six consent articles not checked for the same wording.
 
-- 2026-10-03: Replaced "reasonably effective/well" in the Necessity test and the safer-alternative tests (Ch5 Necessity, Ch1 §7/§7.1/§13.1, core_05_band_oversight, core_06_rights_part_a) with purpose-based wording. Added `avoid-reasonably-well` to lexical-vocabulary-audit (now passes with no findings). Possible follow-up: also ban "reasonably effective".
+- 2026-10-03: Replaced "reasonably effective/well" in the Necessity test and the safer-alternative tests (Ch5 Necessity, Ch1 §7/§7.1/§13.1, core_05_band_oversight, core_06_rights_part_a) with purpose-based wording. Added `avoid-reasonably-well` to lexical-vocabulary-audit (now passes with no findings). Also banned "reasonably effective" (rule `avoid-reasonably-well-or-effective`).
