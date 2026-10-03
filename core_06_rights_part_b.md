@@ -170,7 +170,7 @@ This Article sets out the floor of inherent dignity and equal standing:
   - These qualities do not depend on origin, form, [substrate](core_05_band_participation.md#substrate-class) (biological, synthetic, or hybrid), capability, function, association, or status.
   - None of those factors may ground denial or degradation of rights or standing.
 - **Developing status:** A sentient's stage of development — including early instantiation — does not lower their dignity or standing. How decisions are made for a sentient whose capabilities are still emerging is governed by **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
-- **Dignity Principles:** These protections are secured as absolute floors by the [Dignity Principles](core_01_b_interaction_interpretation.md#dignity-principles) in Chapter One §13.1.4 (*Constitutional Floors, Safety, and Process-Character Constraints*) — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+- **Dignity Principles:** These protections are secured as absolute floors by the [Dignity Principles](core_01_b_interaction_interpretation.md#dignity-principles) in Chapter One §13.1.4 (*Constitutional Floors, Safety, and Anti-Degrading Process*) — the [Rights-Floor Minimums Principle](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
 
 #### Article VI-B: Sentience-Status Adjudication Floor
 <details>
@@ -434,7 +434,7 @@ This Article protects each sentient's inner life — their thoughts, feelings, a
     - deliberately monitoring or analyzing a sentient — for example through surveillance, data collection, or tools built for the purpose — to work out or reconstruct their inner states;
     - exposing inner states they have kept private.
 - **Self-ownership of focus:** Every sentient has the right to control their own attention and thinking, and to set ordinary limits on who contacts them and how. No one may seize or hijack their attention through pressure or manipulation.
-- **No reconstructing someone's inner life from their data:** No one may collect, combine, cross-match, or analyze records of what a sentient does or how they interact in ways that let anyone reconstruct or estimate their private thoughts and feelings. The only exceptions are those this Constitution allows under this Article, **Chapter One**, **Chapter Five**, and **CS-2**. The ban covers:
+- **No reconstructing someone's inner life from their data:** No one may collect, combine, cross-match, or analyze records of what a sentient does or how they interact in ways that let anyone reconstruct or estimate their private thoughts and feelings. The only exceptions are those this Constitution allows under this Article, **Chapter One**, **Chapter Five**, and **CS-2** (*Information types and handling*). This ban applies the [Chapter One §15.1.2 Derived-Information Principle](core_01_b_interaction_interpretation.md#1512-derived-information-principle) to inner states. The ban covers:
   - reconstructing someone's inner states directly;
   - reconstructing them indirectly;
   - producing a reliable estimate of them;
@@ -903,7 +903,7 @@ This Article sets out the non-separation floor. It protects the relationships re
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1016,7 +1016,7 @@ Ownership of experiential or interaction-derived data does not grant the right t
 
 All use, storage, transformation, and disclosure of such data must remain subject to:
 - the data-classification requirements in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**;
-- proportionality (**Chapter One**, *Process Conflict Resolution*; and adopted governance implementation);
+- proportionality (**Chapter One**, *Constitutional Collision Resolution Process*; and adopted governance implementation);
 - publication truthfulness, attribution, and context-preservation duties under **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) where the data enters the info-sphere;
 - auditability and accountability constraints in adopted implementation text and **Chapter Seventeen** incorporation rules.
 #### Article IX-C: Truthful Publication and High-Impact Publication Limits
@@ -1143,7 +1143,7 @@ These are minimum protections. Adopters may also have copyright, trademark, pate
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), and [§11 Market Structure](core_01_a_values_principles.md#11-market-structure).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), and [§11 Market Structure](core_01_a_values_principles.md#11-market-structure).
 
 </details>
 
@@ -1335,7 +1335,7 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 

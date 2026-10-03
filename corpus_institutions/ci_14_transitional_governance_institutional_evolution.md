@@ -237,7 +237,7 @@ Each institution in scope must publish local procedures for the following, and m
 
 <br>
 
-*In plain terms: a right is only as real as the forums, oversight, trained people, and public habits that enforce it, and those take time to build. So **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) asks for two things: what the adopter must not do binds from day one, and what it must deliver becomes enforceable scope by scope as the enforcing machinery and culture are verified ready. **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*) is the scorecard and the readiness test. It says where each floor started, where it is now, where it must be and by when, which scopes it is already enforceable for, how the numbers are checked by someone other than the people being measured, and how the results reach the public — live as they change, with a major progress report every three months, bad news included. The constitutional floor lives in **Chapter Six**; this subsection is implementation-only.*
+*In plain terms: a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those take time to build. So **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) asks for two things: what the adopter must not do binds from day one, and what it must deliver becomes enforceable scope by scope as the enforcing machinery and culture are verified ready. **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*) is the scorecard and the readiness test. It says where each floor started, where it is now, where it must be and by when, which scopes it is already enforceable for, how the numbers are checked by someone other than the sentients being measured, and how the results reach the public — live as they change, with a major progress report every three months, bad news included. The constitutional floor lives in **Chapter Six**; this subsection is implementation-only.*
 
 **Constitutional home:** **Chapter Six**, **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*), with **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) and **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*). This subsection is **implementation-only**; it does not restate the Rights Floor and must not narrow those Articles.
 
@@ -263,12 +263,12 @@ Each transition plan keeps one ledger row per Rights-Floor domain in scope — a
 | Family | Question it answers | Illustrative measures |
 | --- | --- | --- |
 | Coverage | Who actually gets the protection? | Share of in-scope sentients or systems receiving the floor; share with required records or channels in place |
-| Practical usability | Can people actually use it? | Time and cost to exercise the right; language and accessibility barriers; abandonment rate; share needing escalation |
+| Practical usability | Can sentients actually use it? | Time and cost to exercise the right; language and accessibility barriers; abandonment rate; share needing escalation |
 | Remedy performance | When it fails, does redress work? | Time-to-decision on contests; share decided on the merits; reversal rate; time-to-remedy; repeat-harm rate |
 | Disparity | Is attainment equal? | Divergence across groups, classes, and substrates under **Article VI-C** (*Nondiscrimination*); unexplained cohort gaps |
 | Enforcement readiness | Are the institutions and culture there to enforce it? | Forum capacity against expected volume; time to first hearing; independence of oversight; share of operators and reviewers demonstrably competent in practice; contest uptake by group; reported fear of retaliation and retaliation findings; awareness and trust surveys; operator-practice audits |
 | Regression | Has anything gone backward? | Any measure below its starting measure or prior reading; any closed gap that reopens |
-| Gap-affected treatment | Are people inside the gap protected meanwhile? | Gap-affected cases recorded; accommodations delivered; time to accommodation |
+| Gap-affected treatment | Are sentients inside the gap protected meanwhile? | Gap-affected cases recorded; accommodations delivered; time to accommodation |
 | Data quality | Can the numbers be trusted? | Verification tier; sample size; share of domains unmeasured; divergence from lived-experience signals |
 | Interim-authority shrinkage | Are temporary powers shrinking while institutions mature? | Count and scope of active interim authorities; days to sunset; reauthorizations and their grounds; throughput and timeliness of forums, standing, and challenge pathways |
 
@@ -367,7 +367,7 @@ Each institution in scope must publish locally the ledger owner, independent ver
 
 <br>
 
-*In plain terms: existing institutions cannot all be rebuilt at once either. Courts, agencies, companies, and governing bodies each need to be moved toward constitutional operation, and the order matters. Start with the institutions that hold the most power over people, and with the ones every other floor depends on, such as forums, oversight, verification, and appointment bodies. Don't let ease decide everything, don't let an institution grade its own readiness, and don't interrupt services people live on. The constitutional floor lives in **Chapter Six**; this subsection is implementation-only.*
+*In plain terms: existing institutions cannot all be rebuilt at once either. Forums, agencies, companies, and governing bodies each need to be moved toward constitutional operation, and the order matters. Start with the institutions that hold the most power over sentients, and with the ones every other floor depends on, such as forums, oversight, verification, and appointment bodies. Don't let ease decide everything, don't let an institution grade its own readiness, and don't interrupt services sentients live on. The constitutional floor lives in **Chapter Six**; this subsection is implementation-only.*
 
 **Constitutional home:** **Chapter Six**, **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*), priority-setting for transition targets. This subsection is **implementation-only**; it must not narrow that Article.
 
@@ -375,7 +375,7 @@ Each institution in scope must publish locally the ledger owner, independent ver
 
 - **Institutional class and stewardship tier:** from the published classification under **CI-9** (*Classification-linked institutional obligations*).
 - **Degree of misalignment:** gaps against constitutional requirements for institutional design and separation of powers, appointment and rotation, conflict integrity, procedure integrity, and contestability.
-- **Ease of alignment:** whether the institution can change within its own authority, what outside acts it needs (statute, charter, treaty, or another body's approval), support, flexibility, and resources.
+- **Ease of alignment:** whether the institution can change within its own authority, what outside acts it needs (statute, treaty, compact, or charter, or another body's approval), support, flexibility, and resources.
 - **Rights exposure:** the decisions the institution makes over liberty, status, subsistence, custody, and access to remedy, and at what volume.
 - **Enabling role:** whether other floors depend on it: forums, intake, oversight and verification bodies, appointment bodies, and evidence custodians.
 - **Capture and entrenchment risk:** concentration of control, insulation from review, and trend.

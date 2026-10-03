@@ -6,11 +6,11 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§13–15: process conflict resolution, prohibition on absolute override, and constitutional interpretation) — the part that keeps the Constitutional Tetrad intact when principles collide and when the Constitution is read.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§13–15: Constitutional Collision Resolution Process, prohibition on absolute override, and constitutional interpretation) — the part that keeps the Constitutional Tetrad intact when principles collide and when the Constitution is read.
 >
 > **Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — §§1–12, the Flourishing and Continuity aims)  
 > **Next:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Chapter One, Part C — §§16–20, stewardship, governance, incentive alignment, and integrated application).
-> **Reading arc:** §13 process conflict resolution (the tradeoff stack, disclosure limits, and avoidable burden) → §14 prohibition on absolute override → §15 constitutional interpretation (no-bypass, definitions, ambiguity, and precedence).
+> **Reading arc:** §13 Constitutional Collision Resolution Process (the tradeoff stack, disclosure limits, and avoidable burden) → §14 prohibition on absolute override → §15 constitutional interpretation (no-bypass, derived information, definitions, ambiguity, and precedence).
 
 </details>
 
@@ -53,7 +53,7 @@
 
 **What Part B does.** [Part A](core_01_a_values_principles.md) develops the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Part B adds no new principle and no fifth duty. It keeps the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**, scaled to [material stake](core_00_preamble.md#material-stake) — intact in three situations:
 
-- **When principles collide** ([§13 Process Conflict Resolution](#13-process-conflict-resolution)): Safety and Truth come first, and every other tradeoff must preserve the Tetrad rather than weaken it to buy an easy resolution.
+- **When principles collide** ([§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process)): Safety and Truth come first, and every other tradeoff must preserve the Tetrad rather than weaken it to buy an easy resolution.
 - **When one value is pushed too far** ([§14 Prohibition on Absolute Override](#14-prohibition-on-absolute-override)): no value, and neither aim, may be used to hollow a leg below what material stake requires.
 - **When the Constitution is read or applied** ([§15 Constitutional Interpretation](#15-constitutional-interpretation)): relabeling, splitting, or rerouting the same act cannot avoid a requirement, and ambiguity is read toward the fullest protective effect as an integrated whole.
 
@@ -61,10 +61,10 @@
 
 | Tetrad leg | What Part B keeps real | Principal Part B homes |
 |---|---|---|
-| **Participation** | The burden of proof never falls on the restricted party; core challenge, review, and appeal rights cannot be permanently extinguished; disclosure limits must leave informed contestability intact; avoidable burden narrows agency | [§13.1.1](#1311-necessity), [§13.1.4](#1314-constitutional-floors-safety-and-process-character-constraints), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle) |
+| **Participation** | The burden of proof never falls on the restricted party; core challenge, review, and appeal rights cannot be permanently extinguished; disclosure limits must leave informed contestability intact; avoidable burden narrows agency | [§13.1.1](#1311-necessity), [§13.1.4](#1314-constitutional-floors-safety-and-anti-degrading-process), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle), [§15.1.2](#1512-derived-information-principle) |
 | **Oversight** | Harm counted in full; decisions others can reconstruct and independently review; disclosure limits that keep scrutiny possible; metrics that stop counting once they diverge from their purpose | [§13.1.2](#1312-harm-minimization), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.2.4](#1324-proxy-divergence-invalidation), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
-| **Accountability** | The restrictor bears the burden of proof; answerability rises with authority; process may not degrade or humiliate; every disclosure limit is audited after the fact | [§13.1.1](#1311-necessity), [§13.1.3](#1313-proportionality), [§13.1.4](#1314-constitutional-floors-safety-and-process-character-constraints), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§15.1](#151-constitutional-no-bypass-principle) |
-| **Timeliness** | Restrictions are time-bounded and reviewable, with a restoration path; a pending collision runs on the applicable clock; delayed disclosure ends in disclosure; avoidable delay is avoidable burden; emergency narrowing is time-limited | [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
+| **Accountability** | The restrictor bears the burden of proof; answerability rises with authority; process may not degrade or humiliate; every disclosure limit is audited after the fact | [§13.1.1](#1311-necessity), [§13.1.3](#1313-proportionality), [§13.1.4](#1314-constitutional-floors-safety-and-anti-degrading-process), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§15.1](#151-constitutional-no-bypass-principle), [§15.1.2](#1512-derived-information-principle) |
+| **Timeliness** | Restrictions are time-bounded and reviewable, with a restoration path; a pending Constitutional Collision runs on the applicable clock; delayed disclosure ends in disclosure; avoidable delay is avoidable burden; emergency narrowing is time-limited | [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
 
 **Sections that engage no leg directly.** [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle) and [§15.4.1](#1541-integrated-reading) through [§15.4.3](#1543-incorporation-layer) govern how the text is read and which source layer controls. Their Traces carry no Tetrad line by design.
 
@@ -76,24 +76,25 @@
 
 <br>
 
-<a id="13-process-conflict-resolution"></a>
+<a id="13-constitutional-collision-resolution-process"></a>
 
-### 13. Process Conflict Resolution
+### 13. Constitutional Collision Resolution Process
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness in procedure, disclosure, collision handling, and redress; [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness in procedure, disclosure, Constitutional Collision handling, and redress; [material stake](core_00_preamble.md#material-stake) scaling.
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [7. Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
-- Downstream: [13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity), [§13.1 decision-record discipline](#1315-rights-collision-decision-test), [default interim posture](#default-interim-posture), and [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
+- Downstream: [13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity), [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record), [default interim posture](#default-interim-posture), and [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
 - Downstream: Governs cross-article conflicts across [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights).
   - Read this with [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) and [Article XX: Justice After Verified Violation](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
-  - Apply this where review, emergency, or rights-collision questions arise.
+  - Apply this where review, emergency, or Constitutional Collision questions arise.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
+- [Constitutional Collision](core_05_band_integrative.md#constitutional-collision) · [O](core_05_band_integrative.md#constitutional-collision) · [M](core_05_band_integrative.md#constitutional-collision-a) · [A](core_05_band_integrative.md#constitutional-collision-a) · [C](core_05_band_integrative.md#constitutional-collision-c)
 - [Participation](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Accountability](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -103,15 +104,18 @@
 
 <br>
 
-*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.*
+*In plain terms: Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.*
 
-**Safety** and **Truth** take precedence where conflicts cannot be resolved without violating them.
+Part B keeps the Tetrad intact in three situations:
+- **[Constitutional Collisions](core_05_band_integrative.md#constitutional-collision) (this section):** resolves them without weakening any leg.
+- **Overreach ([§14 Prohibition on Absolute Override](#14-prohibition-on-absolute-override)):** bars any single value, including either aim, from overriding the others or hollowing a leg below what material stake requires.
+- **Reading and application ([§15 Constitutional Interpretation](#15-constitutional-interpretation)):** bars relabeling, splitting, or rerouting the same act to avoid a requirement, and reads ambiguity toward the fullest protective effect as an integrated whole.
 
-Other tradeoffs must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** scaled to [material stake](core_00_preamble.md#material-stake) — not weaken it to buy an easy resolution.
-
-Many small decisions that each look fine may still combine into an outcome this Constitution rejects. Where values or constraints conflict, systems must resolve them under **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*).
-
-Part B keeps the Tetrad intact in three situations. This section resolves collisions without weakening any leg. [§14 Prohibition on Absolute Override](#14-prohibition-on-absolute-override) bars any single value, including either aim, from overriding the others or hollowing a leg below what material stake requires. [§15 Constitutional Interpretation](#15-constitutional-interpretation) bars relabeling, splitting, or rerouting the same act to avoid a requirement, and reads ambiguity toward the fullest protective effect as an integrated whole.
+Where values or constraints conflict:
+- **Precedence:** **Safety** and **Truth** take precedence where conflicts cannot be resolved without violating them.
+- **Tetrad preserved:** other tradeoffs must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** scaled to [material stake](core_00_preamble.md#material-stake) — not weaken it to buy an easy resolution.
+- **Combined effect:** many small decisions that each look fine may still combine into an outcome this Constitution rejects.
+- **Where to resolve:** systems must resolve conflicts under **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*).
 
 **Diagram: Part B and the Constitutional Tetrad**
 
@@ -120,9 +124,9 @@ Part B keeps the Tetrad intact in three situations. This section resolves collis
 ```mermaid
 flowchart TB
     PA["Part A principles and the Two Constitutional Aims<br/><br/>• Flourishing and Continuity<br/>• Principles and constraints that can collide<br/>or be read more than one way"]
-    P13["§13 Process Conflict Resolution<br/><br/>• Safety and Truth first<br/>• Every other tradeoff preserves the Tetrad<br/>• Tradeoff stack, disclosure limits,<br/>and avoidable burden"]
+    P13["§13 Constitutional Collision Resolution Process<br/><br/>• Safety and Truth first<br/>• Every other tradeoff preserves the Tetrad<br/>• Tradeoff stack, disclosure limits,<br/>and avoidable burden"]
     P14["§14 Prohibition on Absolute Override<br/><br/>• No value is a trump<br/>• Neither aim overrides the other<br/>• No leg is hollowed below material stake"]
-    P15["§15 Constitutional Interpretation<br/><br/>• No-Bypass and Anti-Segmentation<br/>• Ambiguity read as an integrated whole<br/>• Source-layer precedence"]
+    P15["§15 Constitutional Interpretation<br/><br/>• No-Bypass, Anti-Segmentation,<br/>and Derived Information<br/>• Ambiguity read as an integrated whole<br/>• Source-layer precedence"]
     TT["Constitutional Tetrad<br/><br/>• Kept intact, scaled to material stake<br/>• Participation · Oversight · Accountability · Timeliness"]
     P["Participation<br/><br/>• Burden never on the restricted party<br/>• Challenge and appeal rights survive"]
     O["Oversight<br/><br/>• Harm counted in full<br/>• Decisions others can reconstruct<br/>and independently review"]
@@ -149,7 +153,7 @@ flowchart TB
     style T fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-*Part A's principles and aims can collide and can be read more than one way. Part B resolves collisions, bars override, and fixes how the text is read, so that each Tetrad leg stays real at the level material stake requires. Outline colors reuse the Tetrad leg colors and are visual cues, not claims of priority. Each section's Trace names the legs it engages.*
+*Part A's principles and aims can collide and can be read more than one way. Part B resolves Constitutional Collisions, bars override, and fixes how the text is read, so that each Tetrad leg stays real at the level material stake requires. Outline colors reuse the Tetrad leg colors and are visual cues, not claims of priority. Each section's Trace names the legs it engages.*
 
 <a id="131-core-tradeoff-principles"></a>
 #### 13.1 Core Tradeoff Principles
@@ -157,8 +161,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all four legs run through the tradeoff stack: **accountability** and **participation** ([§13.1.1](#1311-necessity), who bears the burden), **oversight** ([§13.1.2](#1312-harm-minimization) and [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), harm counted in full and a decision record others can review), and **timeliness** (§13.1.5, restrictions that are time-bounded and reviewable); [material stake](core_00_preamble.md#material-stake) scaling for the burden of proof and the depth of scrutiny. Each subsection's Trace names the legs it engages.
-- Subsections: [§13.1.1 Necessity](#1311-necessity) · [§13.1.2 Harm Minimization](#1312-harm-minimization) · [§13.1.3 Proportionality](#1313-proportionality) · [§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints) · [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all four legs run through the tradeoff stack: **accountability** and **participation** ([§13.1.1](#1311-necessity), who bears the burden), **oversight** ([§13.1.2](#1312-harm-minimization) and [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), harm counted in full and a Constitutional Collision Record others can review), and **timeliness** (§13.1.5, restrictions that are time-bounded and reviewable); [material stake](core_00_preamble.md#material-stake) scaling for the burden of proof and the depth of scrutiny. Each subsection's Trace names the legs it engages.
+- Subsections: [§13.1.1 Necessity](#1311-necessity) · [§13.1.2 Harm Minimization](#1312-harm-minimization) · [§13.1.3 Proportionality](#1313-proportionality) · [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process) · [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 </details>
 
@@ -181,7 +185,7 @@ flowchart TB
 - **[§13.1.1 Necessity](#1311-necessity)** asks whether a restriction is needed at all, or whether a less-restrictive alternative can still prevent the material harm or systemic risk. The restrictor bears the burden of proof.
 - **[§13.1.2 Harm Minimization](#1312-harm-minimization)** requires the least harmful constitutionally adequate option across sentients, systems, and time horizons.
 - **[§13.1.3 Proportionality](#1313-proportionality)** verifies that the scale of the selected limitation fits the magnitude, likelihood, and systemic character of the harm addressed.
-- **[§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints)** states absolute limits that survive even a necessary, harm-minimizing, correctly proportioned restriction: certain Rights-Floor minimums cannot be permanently extinguished, Safety operates as both justification and constraint, and process character must never degrade into humiliation, spectacle, or retaliation. The Rights-Floor minimums and the anti-degrading-process floor together make up the [Dignity Principles](#dignity-principles).
+- **[§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process)** states absolute limits that survive even a necessary, harm-minimizing, correctly proportioned restriction: certain Rights-Floor minimums cannot be permanently extinguished, Safety operates as both justification and constraint, and process must never degrade into humiliation, spectacle, or retaliation. The Rights-Floor minimums and the anti-degrading-process floor together make up the [Dignity Principles](#dignity-principles).
 - **[§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)** governs the form of any restriction that survives the preceding tests: it must use the lightest effective measure, remain independently reviewable, and be temporary unless this Constitution expressly permits durable restriction.
 
 Once the tradeoff stack is satisfied, **[§13.3 Minimization of Avoidable Burden](#133-minimization-of-avoidable-burden)** applies to the resulting design: systems must prefer the option that wastes the least sentient time, attention, and effort.
@@ -192,11 +196,11 @@ Once the tradeoff stack is satisfied, **[§13.3 Minimization of Avoidable Burden
 
 ```mermaid
 flowchart TB
-    C["§13 Process Conflict Resolution<br/><br/>• Values or rights collide<br/>• Safety and Truth come first"]
+    C["§13 Constitutional Collision Resolution Process<br/><br/>• Values or rights collide<br/>• Safety and Truth come first"]
     N["§13.1.1 Necessity<br/><br/>• Restrictor bears the burden of proof<br/>• Alternatives analyzed on the record<br/>• Legs: accountability, participation, oversight"]
     H["§13.1.2 Harm Minimization<br/><br/>• Least total harm across sentients, systems,<br/>ecosystems, and time<br/>• Legs: oversight, accountability"]
     PR["§13.1.3 Proportionality<br/><br/>• Scrutiny rises with irreversibility and authority<br/>• Legs: accountability, oversight"]
-    FL["§13.1.4 Constitutional Floors, Safety, and<br/>Process-Character Constraints<br/><br/>• Dignity Principles cannot be traded below<br/>• Legs: participation, accountability"]
+    FL["§13.1.4 Constitutional Floors, Safety, and<br/>Anti-Degrading Process<br/><br/>• Dignity Principles cannot be traded below<br/>• Legs: participation, accountability"]
     R["§13.1.5 Least-Restrictive, Time-Bounded, and<br/>Reviewable Constraint Principle<br/><br/>• Least restrictive, time-bounded, reviewable<br/>• Reconstructable record and interim posture<br/>• Legs: all four"]
     D["§13.2 Epistemic Disclosure Constraints<br/><br/>• No distortion or suppression of truth<br/>• Limited or delayed disclosure only under conditions<br/>• Legs: participation, oversight, accountability, timeliness"]
     B["§13.3 Minimization of Avoidable Burden<br/><br/>• Least burdensome option among those that pass<br/>• Legs: participation, timeliness, oversight, accountability"]
@@ -213,7 +217,7 @@ flowchart TB
     style B fill:none,stroke:#2563eb,color:#ffffff
 ```
 
-*A collision runs the stack in order: necessity, harm minimization, proportionality, the constitutional floors, and the form of any surviving restriction. Disclosure and privacy conflicts also answer to §13.2 (*Epistemic Disclosure Constraints*). §13.3 (*Minimization of Avoidable Burden*) applies to whatever passes. Each box lists the Tetrad legs its Trace names. Colors are visual cues, not claims of priority.*
+*A Constitutional Collision runs the stack in order: necessity, harm minimization, proportionality, the constitutional floors, and the form of any surviving restriction. Disclosure and privacy conflicts also answer to §13.2 (*Epistemic Disclosure Constraints*). §13.3 (*Minimization of Avoidable Burden*) applies to whatever passes. Each box lists the Tetrad legs its Trace names. Colors are visual cues, not claims of priority.*
 
 <br>
 
@@ -255,7 +259,7 @@ Assertion that no alternative exists, without documented analysis, does not sati
 - cost savings alone where rights are materially affected;
 - the fact that the restriction already exists.
 
-**Scope.** This subsection applies to any constitutional restriction — not only rights-collision contexts under [§13.1.5 Rights-Collision Procedure](#1315-rights-collision-decision-test). Where a restriction materially burdens [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Consent](core_05_band_participation.md#consent-constitutional), the necessity showing must be correspondingly rigorous.
+**Scope.** This subsection applies to any constitutional restriction — not only Constitutional Collision contexts under [§13.1.5 Rights-Collision Procedure](#1315-rights-collision-decision-test). Where a restriction materially burdens [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), or [Consent](core_05_band_participation.md#consent-constitutional), the necessity showing must be correspondingly rigorous.
 
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 Harm Minimization
@@ -280,7 +284,7 @@ Assertion that no alternative exists, without documented analysis, does not sati
 
 <br>
 
-*In plain terms: where multiple necessary options remain after [§13.1.1 Necessity](#1311-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints).*
+*In plain terms: where multiple necessary options remain after [§13.1.1 Necessity](#1311-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process).*
 
 **Scope of comparison.** Where multiple constitutionally adequate options satisfy [Safety (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [Truth (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [§13.1.1 Necessity](#1311-necessity), selection must favor the option that minimizes total [Harm](core_05_band_accountability.md#harm) across:
 - sentients directly and indirectly affected;
@@ -302,9 +306,9 @@ The following are non-compliant:
 
 **Time-horizon discipline.** Short-term optimization at long-term systemic cost fails this test. Harm minimization must account for the [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): a decision that looks harm-minimizing in the current period but predictably creates greater harm across the relevant constitutional time horizon is non-compliant.
 
-**Relationship to constitutional floors.** Harm minimization operates *above* the constitutional floors stated in [§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints). It never authorizes:
+**Relationship to constitutional floors.** Harm minimization operates *above* the constitutional floors stated in [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process). It never authorizes:
 - permanent extinguishment of Rights-Floor minimums;
-- degrading process character — a restriction, remedy, or process designed, framed, or carried out as humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion ([§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints));
+- degrading process — a restriction, remedy, or process designed, framed, or carried out as humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion ([§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process));
 - pushing below the Safety floor.
 
 Harm minimization selects among options that already clear those floors — it does not trade below them.
@@ -340,7 +344,7 @@ Harm minimization selects among options that already clear those floors — it d
 
 *In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if its scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
 
-Limitations on constitutional **values** — including **Chapter Six** Rights-Floor protections and other principles and protections subject to tradeoff under [§13 Process Conflict Resolution](#13-process-conflict-resolution) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](core_05_band_accountability.md#proportionality) in **Chapter Five**.
+Limitations on constitutional **values** — including **Chapter Six** Rights-Floor protections and other principles and protections subject to tradeoff under [§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](core_05_band_accountability.md#proportionality) in **Chapter Five**.
 
 **Classification floor.** No system may be governed at a level lower than that required by its highest applicable classification. A lower administrative label cannot reduce the scrutiny required by the highest applicable risk, dependency, rights, or system-impact classification.
 
@@ -356,8 +360,8 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 - Existential Risk
 - irreversible loss of Ecological Recovery Capacity
 
-<a id="1314-constitutional-floors-safety-and-process-character-constraints"></a>
-##### 13.1.4 Constitutional Floors, Safety, and Process-Character Constraints
+<a id="1314-constitutional-floors-safety-and-anti-degrading-process"></a>
+##### 13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -415,8 +419,15 @@ The [Anti-Degrading-Process Principle (§3.3)](core_01_a_values_principles.md#33
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all four legs: **oversight** leg (restrictions stay independently reviewable; evidence is preserved and independent reviewers keep access while a collision is pending); **accountability** leg (a documented, auditable decision record names the rule, the alternatives, the evidence, and the basis for selection); **participation** leg (affected parties can understand, contest, and reconstruct the decision, and are told what is frozen); **timeliness** leg (restrictions are temporary unless a stronger Rights-Floor rule says otherwise, carry a duration or review cadence and a restoration path, and a pending collision runs on the applicable clock); [material stake](core_00_preamble.md#material-stake) scaling (the burden of proof rises with severity, irreversibility, dependency concentration, and uncertainty).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all four legs: **oversight** leg (restrictions stay independently reviewable; evidence is preserved and independent reviewers keep access while a Constitutional Collision is pending); **accountability** leg (a documented, auditable Constitutional Collision Record names the rule, the alternatives, the evidence, and the basis for selection); **participation** leg (affected parties can understand, contest, and reconstruct the decision, and are told what is frozen); **timeliness** leg (restrictions are temporary unless a stronger Rights-Floor rule says otherwise, carry a duration or review cadence and a restoration path, and a pending Constitutional Collision runs on the applicable clock); [material stake](core_00_preamble.md#material-stake) scaling (the burden of proof rises with severity, irreversibility, dependency concentration, and uncertainty).
 - Downstream: [Article XXV-B: Rights-Collision Procedure and Restorative Alignment](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (forums apply this decision test); [Article XXV-C: Timely Resolution and Anti-Delay Floor](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) · [O](core_05_band_integrative.md#constitutional-collision-record) · [M](core_05_band_integrative.md#constitutional-collision-record-a) · [A](core_05_band_integrative.md#constitutional-collision-record-a) · [C](core_05_band_integrative.md#constitutional-collision-record-c)
 
 </details>
 
@@ -424,7 +435,7 @@ The [Anti-Degrading-Process Principle (§3.3)](core_01_a_values_principles.md#33
 
 *In plain terms: once a restriction is justified, it still has to be shaped correctly. Use the lightest effective measure, put a real clock or review cadence on it, preserve challenge and independent review, and define how the restriction ends or is restored. Convenience, severity, or administrative relabeling cannot turn a temporary rights limit into a permanent workaround.*
 
-This subsection governs the form of constitutional restrictions after proportionality, necessity, harm minimization, and the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints) have been applied. It does not lower those tests.
+This subsection governs the form of constitutional restrictions after proportionality, necessity, harm minimization, and the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process) have been applied. It does not lower those tests.
 
 Constitutional restrictions must satisfy all of the following:
 - **Justified and minimal:** the restriction must be justified by the constitutional harm or systemic impact addressed and must not reach beyond what that justification supports.
@@ -434,26 +445,28 @@ Constitutional restrictions must satisfy all of the following:
 - **Restoration path:** the restriction must include a stated duration or review cadence where feasible, plus restoration, rollback, or re-evaluation conditions tied to evidence, changed circumstances, or observed divergence from expected outcomes.
 
 <a id="1315-rights-collision-decision-test"></a>
-**Decision record and reconstructability.** Where the tradeoff stack (§13.1.1 (*Necessity*) through §13.1.5 (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*)) is applied to a material restriction or rights collision, the resolution must produce a **documented and auditable decision record** with sufficient clarity for affected parties and reviewers to understand, contest, and independently reconstruct the decision. At minimum, the record must include:
+**Constitutional Collision Record and reconstructability.** Where the tradeoff stack (§13.1.1 (*Necessity*) through §13.1.5 (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*)) is applied to a material restriction or Constitutional Collision, the resolution must produce a documented and auditable [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) (short form **Collision Record**) with sufficient clarity for affected parties and reviewers to understand, contest, and independently reconstruct the decision. At minimum, the record must include:
 - **Operative rule and predicates:** the constitutional provision relied on and the material facts that triggered it.
 - **Alternatives considered:** materially feasible alternatives, including non-action, with explicit reasons for rejection — satisfying the alternative-analysis requirement in [§13.1.1 Necessity](#1311-necessity).
 - **Evidence and uncertainty treatment:** the evidence supporting the selected option's necessity, harm profile, and proportionality, including how uncertainty was handled.
 - **Basis for selection:** why the selected option satisfies necessity, harm minimization, proportionality, the constitutional floors, and least-restrictive form — not merely that it does.
 - **Review triggers:** the sunset, re-evaluation cadence, or reversal conditions under [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
+The Collision Record is carried by the [Act Record](core_05_band_accountability.md#materially-binding-act-record) of the act that resolves the Constitutional Collision; no duplicative standalone record is required where these elements remain identifiable, linked, versioned, preserved, and accessible.
+
 Burden of proof scales with expected harm severity, irreversibility, dependency concentration, and uncertainty. Higher-risk restrictions require stronger evidence and independent scrutiny. Convenience, institutional inertia, or optimization preference alone are not sufficient justification for restricting rights where this discipline applies.
 
-Confidentiality limits on the decision record must satisfy [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints). Where full public disclosure is not feasible, maximum feasible partial disclosure plus independent reviewer access must be maintained.
+Confidentiality limits on the Collision Record must satisfy [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints). Where full public disclosure is not feasible, maximum feasible partial disclosure plus independent reviewer access must be maintained.
 
 <a id="default-interim-posture"></a>
-**Default interim posture while a rights collision is pending.** Until the [§13.1 decision-record discipline](#1315-rights-collision-decision-test) and [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) resolve the collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
+**Default interim posture while a Constitutional Collision is pending.** Until the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) process and [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) resolve the Constitutional Collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
 
-- **Preserve evidence:** Do not moot the collision by deletion, leak, or irreversible publication.
-- **Freeze irreversible steps** that would make one of the colliding readings unavailable — do not take a step that cannot be undone if taking it would close the collision, moot one side, or manufacture a winner before interpretation resolves it.
+- **Preserve evidence:** Do not moot the Constitutional Collision by deletion, leak, or irreversible publication.
+- **Freeze irreversible steps** that would make one of the colliding readings unavailable — do not take a step that cannot be undone if taking it would close the Constitutional Collision, moot one side, or manufacture a winner before interpretation resolves it.
 - **Proceed with reversible, consented steps** that keep both readings available — including independent-reviewer access under [security-constrained observability](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) where consent exists.
 - **Notify** affected parties and the interpretation path of what is frozen, what proceeds, and the applicable clock (for a dispute routed to a forum, the tier clocks and outer bounds in [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*)).
 
-This holding pattern is not a decision about which side is right. Freeze what cannot be undone so neither reading is closed off; [§13 Process Conflict Resolution](#13-process-conflict-resolution) still has to answer the collision. [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) is why: a reversible consented step leaves both readings available; an irreversible step does not.
+This holding pattern is not a decision about which side is right. Freeze what cannot be undone so neither reading is closed off; [§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process) still has to answer the Constitutional Collision. [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) is why: a reversible consented step leaves both readings available; an irreversible step does not.
 
 Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](#133-minimization-of-avoidable-burden) applies to the resulting design.
 
@@ -463,7 +476,7 @@ Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (informed contestability under limits); **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); **accountability** leg (every limit carries retrospective audit and review under [§13.2.1](#1321-preservation-of-epistemic-integrity), so someone answers for it); **timeliness** leg (limited or delayed disclosure is time-limited and ends in eventual disclosure under §13.2.1); [material stake](core_00_preamble.md#material-stake) scaling.
-- Upstream: Principles: [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [§13 Process Conflict Resolution](#13-process-conflict-resolution).
+- Upstream: Principles: [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process).
 - Downstream: [§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity), [§13.2.2 Trust-Truth Alignment](#1322-trust-truth-alignment), [§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination), and [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
 - Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially [Article XV: Info-Sphere Integrity](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXV-A: Retrospective Review and Disclosure](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
 
@@ -487,7 +500,10 @@ Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](
 
 *In plain terms: limits on what sentients can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the record — and release information once the danger passes. Hiding problems to keep sentients calm is not allowed.*
 
-**Epistemic disclosure constraints** govern conflicts between **Truth**, transparency duties, and **Safety** when immediate or full disclosure would directly and materially enable harm. **[§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity)** states when justified limits on disclosure are permitted. **[§13.2.2 Trust-Truth Alignment](#1322-trust-truth-alignment)** states that **Trust** may not be preserved through deception or suppression of truth. **[§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination)** states when privacy may limit disclosure.
+**Epistemic disclosure constraints** govern conflicts between **Truth**, transparency duties, and **Safety** when immediate or full disclosure would directly and materially enable harm. Its three subsections each state one part:
+- **[§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity):** states when justified limits on disclosure are permitted.
+- **[§13.2.2 Trust-Truth Alignment](#1322-trust-truth-alignment):** states that **Trust** may not be preserved through deception or suppression of truth.
+- **[§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination):** states when privacy may limit disclosure.
 
 This section distinguishes three patterns:
 - **Distortion or suppression of truth** — **not permitted**, including for:
@@ -501,10 +517,10 @@ This section distinguishes three patterns:
   - maximum feasible [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) is preserved.
 - **Privacy-protective limitation** of disclosure under [§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination):
   - permitted only under the [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
-  - where privacy collides with transparency, audit, safety, or accountability, resolve the collision under the [§13.1 decision-record discipline](#1315-rights-collision-decision-test);
+  - where privacy collides with transparency, audit, safety, or accountability, resolve the Constitutional Collision under the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) requirements;
   - privacy is not automatically subordinate.
 
-Any justified limit must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg through protected records, independent review, secure access, redaction, delayed release, or comparable safeguards. It must **not** defeat informed [contestability](core_05_band_accountability.md#contestability) or applicable **Chapter Six** transparency, audit, or review duties except as [§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity) expressly permits.
+Any justified limit must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg through protected records (including the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) for the limit itself), independent review, secure access, redaction, delayed release, or comparable safeguards. It must **not** defeat informed [contestability](core_05_band_accountability.md#contestability) or applicable **Chapter Six** transparency, audit, or review duties except as [§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity) expressly permits.
 
 Safety-sensitive limits on publication, data access, method disclosure, or replication materials are governed here and under [Chapter One §5.1 Science-Informed Inquiry and Decision Support](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support). Such limits must **not** become a means to suppress unfavorable evidence, hide safety defects, or manufacture apparent consensus.
 
@@ -515,7 +531,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 
 - Upstream: [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints) (parent, including *In plain terms* and operative text above).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (informed contestability under limits); **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); **accountability** leg (every restriction carries retrospective audit and review); **timeliness** leg (restrictions are narrowly scoped and time-limited, with eventual disclosure once the conditions justifying them no longer apply); [material stake](core_00_preamble.md#material-stake) scaling.
-- Upstream: Principles: [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [13. Process Conflict Resolution](#13-process-conflict-resolution).
+- Upstream: Principles: [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [13. Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process).
 - Downstream: [§13.2.2 Trust-Truth Alignment](#1322-trust-truth-alignment) and [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
 - Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially [Article XV: Info-Sphere Integrity](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXV-A: Retrospective Review and Disclosure](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
 
@@ -577,11 +593,11 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins free expression and association); **oversight** leg (privacy intrusions must themselves be auditable); **accountability** leg (where privacy collides with transparency, audit, safety, or accountability, the collision is resolved on a documented decision record, not by treating privacy as subordinate); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins free expression and association); **oversight** leg (privacy intrusions must themselves be auditable); **accountability** leg (where privacy collides with transparency, audit, safety, or accountability, the Constitutional Collision is resolved on a documented Constitutional Collision Record, not by treating privacy as subordinate); [material stake](core_00_preamble.md#material-stake) scaling.
 - Upstream: Principles: [7. Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency), [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints).
 - Downstream: [**Def.C3** Privacy (Informational) — peer-level cluster head](core_05_band_continuity.md#privacy-informational-cluster), including [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary).
 - Downstream: [Article VII-A](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*); [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*); [Article IX](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*Likeness, Experiential Data, and Publication Rights*); [Article X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*); [Article XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
-- Read with: [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [§13.1 decision-record discipline](#1315-rights-collision-decision-test) where privacy collides with transparency, audit, safety, or other constitutional interests.
+- Read with: [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) where privacy collides with transparency, audit, safety, or other constitutional interests.
 
 </details>
 
@@ -599,9 +615,9 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 <br>
 
-*In plain terms: privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the collision is resolved under the [§13.1 decision-record discipline](#1315-rights-collision-decision-test), not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.*
+*In plain terms: privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the Constitutional Collision is resolved under the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) requirements, not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.*
 
-**Privacy as a constitutional interest.** Privacy — including informational privacy, spatial and relational privacy, and freedom from unjustified surveillance — is a constitutionally weighted interest that supports **Freedom** ([§7 Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency)), **Dignity** ([Article VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*)), and the conditions for meaningful agency and uncoerced participation. It carries independent constitutional weight in the tradeoff and collision machinery of this section.
+**Privacy as a constitutional interest.** Privacy — including informational privacy, spatial and relational privacy, and freedom from unjustified surveillance — is a constitutionally weighted interest that supports **Freedom** ([§7 Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency)), **Dignity** ([Article VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*)), and the conditions for meaningful agency and uncoerced participation. It carries independent constitutional weight in the tradeoff and Constitutional Collision machinery of this section.
 
 **Collection and use discipline.** Collection, inference, aggregation, retention, transfer, and use of personal, relational, behavioral, biometric, internal-state-adjacent, or comparable information must satisfy:
 - **Necessity:** no broader collection or retention than required for a constitutionally valid purpose.
@@ -615,8 +631,8 @@ Availability, observability, prior publication, platform possession, or technica
 
 **Surveillance and monitoring.** Monitoring, observation, logging, and inference systems that materially affect sentient agency, association, or expression must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). Monitoring must not be indiscriminate, covert, open-ended, or made a condition of using a system sentients depend on, where a milder method would work. It is not permitted if it discourages sentients from speaking, gathering, or otherwise exercising freedoms this Constitution protects.
 
-**Privacy in collision with other interests.** Privacy may be limited where it materially collides with **Safety**, **Truth**, transparency and audit duties, accountability obligations, or another constitutional interest of equal or greater weight.
-- Such limitations must follow the [§13.1 decision-record discipline](#1315-rights-collision-decision-test), including:
+**Privacy in a Constitutional Collision with other interests.** Privacy may be limited where it materially collides with **Safety**, **Truth**, transparency and audit duties, accountability obligations, or another constitutional interest of equal or greater weight.
+- Such limitations must follow the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) requirements, including:
   - documented alternatives;
   - least-restrictive selection;
   - time-bounded scope; and
@@ -627,11 +643,8 @@ Availability, observability, prior publication, platform possession, or technica
   - institutional convenience.
 
 **Aggregation and re-identification:**
-- Combining individually non-sensitive data is treated as collection of the resulting sensitive information, and must satisfy the corresponding discipline, when it is used to:
-  - reconstruct sensitive personal information;
-  - approximate protected internal states; or
-  - re-identify de-identified subjects.
-- Segmenting collection across systems or time to evade privacy duties is non-compliant.
+- Combining, linking, inferring, and de-identifying information are governed by the [§15.1.2 Derived-Information Principle](#1512-derived-information-principle): information is treated by what it reveals, and de-identification does not end privacy duties while re-identification remains reasonably possible.
+- Segmenting collection across systems or time to evade privacy duties is governed by the [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
 
 <a id="1324-proxy-divergence-invalidation"></a>
 ##### 13.2.4 Proxy-Divergence Invalidation
@@ -654,9 +667,12 @@ Availability, observability, prior publication, platform possession, or technica
 
 *In plain terms: when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the record, with documented escalation and review.*
 
-Where materially relevant evidence indicates **proxy divergence** from constitutional objectives, compliance claims relying on such proxies are **invalid** unless corrected.
+A metric, score, or checkbox is only a stand-in for something real. If materially relevant evidence shows that a stand-in has stopped tracking what it was meant to measure (what the Constitution actually cares about), a compliance claim that rests on it does not count. This gap is called [proxy divergence](core_05_band_oversight.md#proxy-divergence). The claim stays invalid until the problem is corrected.
 
-Correction must follow **Chapter Four** traceability and **Chapter Five** proxy-related definitions. It must include **documented escalation and review**.
+A correction counts only if it is on the record:
+- **Traceable:** it follows the traceability rules in [Chapter Four](core_04_burden_traceability_verification.md) and the proxy definitions in Chapter Five, so anyone can see what was wrong and what changed.
+- **Escalated:** the problem was raised to someone with the authority to act on it.
+- **Reviewed:** the fix was checked, and both the escalation and the review are documented.
 
 <a id="133-minimization-of-avoidable-burden"></a>
 #### 13.3 Minimization of Avoidable Burden
@@ -695,10 +711,10 @@ For this section:
 
 This section:
 - operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the tradeoff principles in §13.1 (*Core Tradeoff Principles*). It does **not** authorize reducing burden by weakening those protections.
-- pairs with **Least-Restrictive Effective Selection** in the [§13.1 decision-record discipline](#1315-rights-collision-decision-test). Where this section applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
+- pairs with **Least-Restrictive Effective Selection** in the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) requirements. Where this section applies, the selected action should be both the least-restrictive and the least-burdensome effective option.
 - treats over-process, over-restriction, and over-burden with no checkable link to a constitutional benefit as constitutional defects. Such defects are reviewable under **Chapter Nine** and correctable under **Chapter Four** traceability of definitions to results.
 
-Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks a checkable link to a constitutional outcome, consistent with the [§13.1 decision-record discipline](#1315-rights-collision-decision-test).
+Claims that a given burden is constitutionally required must satisfy **Chapter Four** evidentiary and traceability requirements. Convenience, institutional inertia, tradition, or preference alone are not sufficient to sustain a burden that lacks a checkable link to a constitutional outcome, consistent with the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) requirements.
 
 Where incentive structures act on stewards or operators, this section reinforces [§19.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application). Stewardship incentives must not reward unnecessary burden creation any more than they may reward raw throughput.
 
@@ -708,7 +724,7 @@ Where incentive structures act on stewards or operators, this section reinforces
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — no single value may be invoked to hollow **participation**, **oversight**, **accountability**, or **timeliness** below [material stake](core_00_preamble.md#material-stake) requirements.
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — neither **Flourishing** nor **Continuity** may be invoked as a trump over the other, over Safety and Truth, or over tetrad discipline; the prohibition on absolute override protects pursuit of both aims together.
-- Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13. Process Conflict Resolution](#13-process-conflict-resolution), [7. Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+- Upstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13. Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process), [7. Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: [20. Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 - Downstream: Protects the rights surface against one-value override logic that would collapse equality, challenge rights, transparency, contestability, or bounded interpretation.
   - Especially [Article VI: Equal Basic Rights](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Article XIII-B: Right to Redress and Remedy](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [Article XV-B: Transparency, Auditability, and Contestability](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [Article XIX-B: Contestability and Proportional Restriction Limits](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits), and [Article XXIV-A: Bounded Interpretive Mandate](core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate).
@@ -741,7 +757,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Preamble — Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [material stake](core_00_preamble.md#material-stake) scaling applies chapter-wide through section traces.
-- Downstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-anti-segmentation-principle)), [§15.2 Definitional layer and required disciplines](#152-definitional-layer-and-required-disciplines), [§15.3 Ambiguity resolution](#153-ambiguity-resolution), [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) through [20. Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); [13. Process Conflict Resolution](#13-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
+- Downstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-anti-segmentation-principle)), [§15.2 Definitional layer and required disciplines](#152-definitional-layer-and-required-disciplines), [§15.3 Ambiguity resolution](#153-ambiguity-resolution), [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) through [20. Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); [13. Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process) for Constitutional Collision procedure; [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02_definition_structure.md) and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) and [Chapter Fifteen](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution)*).
@@ -772,7 +788,7 @@ Each principle in this chapter applies together with the [Constitutional Tetrad]
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — the bypass list tracks the four legs: **oversight** leg (ordinary scrutiny and auditability); **participation** leg (contestability, practical access, and public-reason duties); **timeliness** leg (timely resolution, and restoration and rollback paths); **accountability** leg (accountability itself, and functional independence and segregation of duties under [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); [material stake](core_00_preamble.md#material-stake) scaling.
-- Downstream: [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
+- Downstream: [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle); [§15.1.2 Derived-Information Principle](#1512-derived-information-principle).
 
 </details>
 
@@ -845,6 +861,49 @@ This principle does not:
 
 Whole-system evaluations must test anti-segmentation under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Chapter Three §2.1 Common Evasion Patterns](core_03_definition_integrity.md#21-common-evasion-patterns) and [§2.2 Reductive Evasion](core_03_definition_integrity.md#22-reductive-evasion).
 
+<a id="1512-derived-information-principle"></a>
+##### 15.1.2 Derived-Information Principle
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins agency and expression, which reconstruction from combined data would defeat); **accountability** leg (the party relying on a de-identified or aggregate label shows that it holds); [material stake](core_00_preamble.md#material-stake) scaling.
+- Upstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle); [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
+- Downstream: [§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination); [CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Derived Information](core_05_band_integrative.md#derived-information) · [O](core_05_band_integrative.md#derived-information) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
+- [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
+- [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: No-Bypass says changing the label does not lift a requirement, and Anti-Segmentation says chopping does not either. This section says the same about combining. Information is treated by what it reveals, not by how it was made: pieces that look harmless but add up to something sensitive are sensitive, and a "de-identified" or "aggregate" label is not safe while sentients can still be identified or something protected can still be reconstructed.*
+
+Information is treated at the protection level of what it reveals, however it was derived. [Derived Information](core_05_band_integrative.md#derived-information) takes the discipline that applies to what it reveals or enables, not the lower discipline that applied to its inputs.
+
+**When it applies:** Derived information is covered where any of the following holds:
+- **Functional effect:** it reveals, reconstructs, approximates, or re-identifies something protected, such as sensitive personal information, protected internal states, protected characteristics, or security-sensitive facts. Functional effect is the primary test.
+- **Use:** it is used to do any of those things.
+- **Capability:** the holder, or a recipient with reasonably available means, could readily use it to do any of those things.
+
+Absence of intent does not take covered derived information outside this principle. The test scales with [material stake](core_00_preamble.md#material-stake) and with the sensitivity of what would be revealed.
+
+**What follows:**
+- The derivation must satisfy the discipline that would apply to collecting what it reveals, including consent or adequate authority, necessity, proportionality, and minimization, under [§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination) and, for internal states, [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
+- De-identification, aggregation, pooling, and similar labels do not end those duties while re-identification or reconstruction remains reasonably possible. The party relying on such a label must show that it is not.
+- Splitting a derivation across systems, actors, or time so that each step passes while the whole reveals the protected result is governed by [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
+
+This principle does not:
+- pull ordinary aggregates into scope, such as anonymous traffic totals, where they reveal nothing protected and cannot reasonably be used to re-identify or reconstruct;
+- create, extend, or narrow any Chapter Six Rights-Floor provision; or
+- displace the data-type rules in [CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md), which apply it.
+
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 Definitional layer and required disciplines
 
@@ -898,7 +957,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 - **proportionality**, **necessity**, and **systemic evaluation**
 - **Chapter Four** evidentiary and traceability requirements
 - **Chapter Three** definition integrity, evasion, and non-compliance
-- **[§13 Process Conflict Resolution](#13-process-conflict-resolution)**, including rights-collision handling under the **[§13.1 decision-record discipline](#1315-rights-collision-decision-test)** where materially relevant
+- **[§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process)**, including Constitutional Collision handling under the **[Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record)** requirements where materially relevant
 
 <a id="153-ambiguity-resolution"></a>
 #### 15.3 Ambiguity resolution
@@ -944,7 +1003,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
   - at the incorporation layer for **strictest** / **stricter** incorporated text.
 - Source-layer status is identified under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) in Chapter Five.
 - [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) supplies custody, edition pinning, and adoption framing. It does **not** restate this procedure.
-- For **value and rights collisions in operation** — not textual layer precedence — apply **[§13 Process Conflict Resolution](#13-process-conflict-resolution)**.
+- For **Constitutional Collisions in operation** — not textual layer precedence — apply **[§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process)**.
 
 **Operative sequence.** Apply the following **in this order**:
 

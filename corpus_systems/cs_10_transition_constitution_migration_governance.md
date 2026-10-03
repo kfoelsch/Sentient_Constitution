@@ -35,7 +35,7 @@
 
 This file is the systems implementation home for **CS-10** (*Transition constitution and migration governance*).
 
-*In plain terms: **CS-10** (*Transition constitution and migration governance*) governs the move into constitutional operation. Adoption runs in named phases. At every stage the plan says plainly what the adopter must not do, which Rights Floors are enforceable yet and for whom, and what is still being built, so a partly migrated system never leaves people guessing or hides the gap. There is a recorded way to pause, re-baseline, or step back if a phase fails.*
+*In plain terms: **CS-10** (*Transition constitution and migration governance*) governs the move into constitutional operation. Adoption runs in named phases. At every stage the plan says plainly what the adopter must not do, which Rights Floors are enforceable yet and for whom, and what is still being built, so a partly migrated system never leaves sentients guessing or hides the gap. There is a recorded way to pause, re-baseline, or step back if a phase fails.*
 <a id="cs-10-1-purpose-and-role"></a>
 ## CS-10.1 Purpose and role
 

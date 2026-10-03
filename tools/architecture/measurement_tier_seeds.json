@@ -73,6 +73,21 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Constitutional Collision": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Constitutional Collision Record": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Derived Information": {
+      "ch00_category": "3.4 Participation",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Verify-or-Authorize Seat": {
       "tier_depth": "primary_secondary",
       "status": "approved",

@@ -49,7 +49,7 @@
     - using **Continuity** to forever put off fixes;
     - treating "stability" as compliant when it rests on hidden risk dumping, irreversible harm, or shifting ecological burdens onto others;
     - using ordinary "keep the lights on" talk to block [Contestability](core_05_band_accountability.md#contestability) or [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); or
-    - pursuing **Continuity** in a way that materially defeats [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter One §13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
+    - pursuing **Continuity** in a way that materially defeats [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 ---
 

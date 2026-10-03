@@ -275,7 +275,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter One §13 Process Conflict Resolution](../core_01_b_interaction_interpretation.md#13-process-conflict-resolution) |
+| **Owner text** | [Chapter One §13 Constitutional Collision Resolution Process](../core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) |
 | **Next step** | Preserve evidence. Freeze irreversible steps. Proceed with reversible consented steps. Notify affected parties and the interpretation path. Route the collision to interpretation. Do not manufacture a winner. |
 | **Next-step class** | `name_ambiguity_and_route_to_interpretation` |
 

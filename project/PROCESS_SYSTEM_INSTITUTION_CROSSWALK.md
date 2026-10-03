@@ -102,7 +102,7 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1A §5.3 | Assembly, Collective Organization, Institutional Formation | Institution | — | H | Forming and operating organizations |
 | 1A §5.4 | Dissent and Peaceful Protest | Institution | Process | M | Contestability of authority |
 | 1A §5.5 | Institutional Secularism and Worldview Neutrality | Institution | — | H | Basis of public authority |
-| 1B §6 | Process Conflict Resolution | Process | — | H | Named as process in the title |
+| 1B §6 | Constitutional Collision Resolution Process | Process | — | H | Named as process in the title |
 | 1B §6.1 | Core Tradeoff Principles | Process | — | H | Lightest step that works |
 | 1B §6.2 | Epistemic Disclosure Constraints | Process | — | H | Restrict little, short, on the record, release after |
 | 1B §6.3 | Minimization of Avoidable Burden | Process | — | H | Remove steps that do no constitutional work |

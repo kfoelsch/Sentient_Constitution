@@ -25,7 +25,9 @@
 This band holds **Integrative** cross-leg definitions — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
 - the corpus authority stack;
 - the constitutional contract layer;
-- foundational authorization terms; and
+- foundational authorization terms;
+- collisions among constitutional values, rights, and duties, and the record of their resolution;
+- derived information, whatever its form or label; and
 - incentive alignment across reward paths, proxy integrity, and contingent settlement.
 **Materiality** / [Materiality](core_05_band_oversight.md#materiality-determination) is Integrative (cross-cutting threshold gate). Leaf homes currently remain in the Oversight band file pending any later relocation. Canonical **governance-layer discipline** ([Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Preamble §3.3 Governance Layers](core_00_preamble.md#33-governance-layers).
 | Cluster | Section |
@@ -148,7 +150,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency); [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
+- Downstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency); [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 - Owner floor: [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article X-B: Governance Participation and Voting Entitlement](core_06_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](core_05_band_integrative.md#constitutional-contract-layer)
 - Read with: [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
@@ -362,6 +364,151 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <a id="no-bypass-c"></a>
 - **What must hold**
   - **Primary failure:** Avoiding a constitutional requirement by changing the label, route, owner, forum, instrument, or timing of the same act, or by using an allowed framing whose own step does not follow this Constitution. A no-bypass statement or review step that leaves the act's actual treatment unchanged is also non-compliant.
+
+---
+
+<a id="constitutional-collision"></a>
+
+#### Constitutional Collision
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (*the process that resolves collisions*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test); [Chapter One §14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [Article XXV-B](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+- Read with: [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [No-Bypass](core_05_band_integrative.md#no-bypass), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection), [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record), and [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional).
+
+</details>
+
+<br>
+
+*In plain terms: a collision is when two things this Constitution requires cannot both be fully done in the same act, decision, or design, so honoring one limits the other. It is not a disagreement about facts, not a conflict between texts, and not a reason to drop a requirement. A real collision goes through the Constitutional Collision Resolution Process; a tension that disappears once each requirement is read in full is not a collision.*
+
+- **What it is**
+  - **In scope:** A situation in which two or more constitutional values, rights, duties, or constraints each materially apply to the same act, decision, or design, and no feasible alternative honors all of them, so that satisfying one limits another. It takes three forms:
+    - a **rights collision**, where Rights-Floor protections or other rights pull against each other;
+    - a **value collision**, where principles such as Safety, Truth, Trust, Freedom, or the Two Constitutional Aims pull against each other; and
+    - a **duty collision**, where requirements such as disclosure and privacy, or speed and review, pull against each other.
+
+    A collision exists only where all three of the following hold:
+    - each requirement materially applies on the facts;
+    - the tension remains after each requirement is read in full; and
+    - no feasible alternative honors both.
+  - **Depends on:** [Materiality](core_05_band_oversight.md#materiality-determination) (whether a requirement materially applies) and [Feasibility](core_05_band_accountability.md#feasibility) (whether an alternative honoring both is available).
+  - **Out of scope:**
+    - conflict between source texts or layers, which routes to [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack);
+    - a dispute between parties over facts, standing, or merits, which routes to [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional); and
+    - ordinary preference or inconvenience in which no constitutional requirement is limited.
+<a id="constitutional-collision-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a collision was identified, recorded, and resolved with answerable reasons.
+
+    **Primary assessment:** Check three things:
+    - that both requirements actually apply and no alternative honors both;
+    - that the resolution kept **Safety** and **Truth** first, preserved each leg of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) at the level [material stake](core_00_preamble.md#material-stake) requires, and limited the yielding requirement no more than [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) allow; and
+    - that the same act, relabeled or rerouted, would be resolved the same way ([No-Bypass](core_05_band_integrative.md#no-bypass)).
+<a id="constitutional-collision-c"></a>
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - a collision is claimed to avoid a requirement that can in fact be honored alongside the other;
+    - a collision rests on barriers the operator built for its own benefit, as with infeasibility under [Feasibility](core_05_band_accountability.md#feasibility);
+    - a material collision is resolved outside the [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), or without the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) that process requires; or
+    - a collision is used to remove a requirement entirely, to hollow a Tetrad leg below what material stake requires, or to let one value override the rest.
+
+    A collision label or record that does not change how the collision is actually decided is also non-compliant.
+
+---
+
+<a id="constitutional-collision-record"></a>
+
+#### Constitutional Collision Record
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (*the minimum contents of the record*); [Article XXV-B](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+- Read with: [Constitutional Collision](core_05_band_integrative.md#constitutional-collision), [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), [Materially Binding Act](core_05_band_accountability.md#materially-binding-act), [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
+
+</details>
+
+<br>
+
+*In plain terms: a Collision Record is the written account of how one material Constitutional Collision was decided. It lets an affected party or an independent reviewer see which rule applied, what alternatives were weighed, what the evidence and uncertainty were, why this option was chosen, and when it comes back for review. It is not a second filing: the Act Record for the act that resolved the collision carries it.*
+
+The short form for **Constitutional Collision Record** in this instrument is **Collision Record**.
+
+- **What it is**
+  - **In scope:** The attributable, versioned official account of how a material [Constitutional Collision](core_05_band_integrative.md#constitutional-collision) was resolved. It is carried by the [Act Record](core_05_band_accountability.md#materially-binding-act-record) of the [materially binding act](core_05_band_accountability.md#materially-binding-act) that resolves the collision, and it holds the reasoning elements that [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) requires:
+    - the operative rule and the facts that triggered it;
+    - the alternatives considered, including non-action, with reasons for rejection;
+    - the evidence and how uncertainty was handled;
+    - the basis for selecting the chosen option; and
+    - the review triggers.
+
+    A Collision Record may be embodied in an applicable process-specific official record, such as a Forum Case Record, a Standing Record, a System Certification Record, or a [Stakeholder Rights-Collision Record](core_05_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice). No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path. Confidentiality limits on a Collision Record follow [Chapter One §13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints): maximum feasible partial disclosure, plus independent reviewer access.
+  - **Depends on:** [Constitutional Collision](core_05_band_integrative.md#constitutional-collision) (what is being resolved) and [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) (the record that carries it).
+  - **Out of scope:** A bare conclusion, a template filled without the required elements, or a rationale written after the fact that the official record does not support is not a Collision Record. A Collision Record does not itself decide the collision, and it does not become a [Standing Record](core_05_band_accountability.md#standing-record-chapter-six), merits determination, or forum record unless the applicable process independently makes it one.
+<a id="constitutional-collision-record-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — used together to test whether a collision resolution can be understood, contested, and independently reconstructed.
+
+    **Primary assessment:** For each material Constitutional Collision resolution, check:
+    - that all five required elements are present, with non-action among the alternatives and review triggers set;
+    - that evidence and uncertainty treatment scale with expected harm severity, irreversibility, dependency concentration, and uncertainty;
+    - that the record links to the Act Record of the resolving act and resolves to the same act; and
+    - that an affected party or independent reviewer with lawful access can reconstruct the decision from the official record path, without relying on the decider's later account.
+<a id="constitutional-collision-record-c"></a>
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - a material Constitutional Collision is resolved without a Collision Record;
+    - the record omits a required element, such as non-action among the alternatives or the review triggers;
+    - the record states a conclusion without the basis for selecting it;
+    - the record is not linked to the Act Record of the resolving act, or cannot be reconstructed from the official record path; or
+    - confidentiality is used to withhold the record from independent reviewers.
+
+    A Collision Record that does not reflect how the collision was actually decided is also non-compliant.
+
+---
+
+<a id="derived-information"></a>
+
+#### Derived Information
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §15.1.2 Derived-Information Principle](core_01_b_interaction_interpretation.md#1512-derived-information-principle); [Chapter One §13.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination).
+- Read with: [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), [Identity Data Protection](core_05_band_continuity.md#identity-data-protection), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), and [No-Bypass](core_05_band_integrative.md#no-bypass).
+
+</details>
+
+<br>
+
+*In plain terms: derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information. It is treated by what it reveals, not by how harmless its inputs looked. Pieces that add up to something sensitive are sensitive, and a "de-identified" or "aggregate" label does not change that while the output can still be traced back to a sentient or used to reconstruct something protected.*
+
+- **What it is**
+  - **In scope:** Information that results from aggregating, combining, linking, inferring from, modeling, transforming, or de-identifying other information, including scores, profiles, model outputs, and aggregate or de-identified releases. Whether derived information is covered turns on what it does:
+    - its **functional effect**, meaning that it reveals, reconstructs, approximates, or re-identifies something protected (the primary test);
+    - its **use**, meaning that it is used to do any of those things; or
+    - its **capability**, meaning that the holder, or a recipient with reasonably available means, could readily use it to do any of those things.
+
+    Absence of intent does not take covered derived information out of scope.
+  - **Depends on:** [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional) (the protections its output may engage).
+  - **Out of scope:** ordinary operational aggregates, such as anonymous traffic or sales totals, that are not traced to specific sentients and cannot reasonably be used to re-identify or reconstruct anything protected.
+<a id="derived-information-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether information built from other information is handled at the level of what it reveals.
+
+    **Primary assessment:** For each derivation that is material under [Materiality](core_05_band_oversight.md#materiality-determination), check:
+    - what the output reveals, reconstructs, approximates, or enables, taken together with other information reasonably available to the holder and recipients;
+    - whether it was handled at the protection level of that result and not of its inputs; and
+    - for any de-identified, aggregate, or pooled release, whether re-identification or reconstruction is reasonably possible.
+<a id="derived-information-c"></a>
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - covered derived information is handled at a lower protection level than what it reveals;
+    - a de-identified, aggregate, or pooled label is relied on while re-identification or reconstruction remains reasonably possible, without the relying party showing otherwise;
+    - a derivation is split across systems, actors, or time so that each step passes while the whole reveals the protected result, contrary to the [Chapter One §15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle); or
+    - a derived-information label or review that does not change how the output is actually handled is used in place of the discipline.
 
 ---
 
@@ -777,7 +924,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §2.1 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter One §13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
+- Upstream: Principles: [Chapter One §2.1 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 - Read with: [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), and [Harm](core_05_band_accountability.md#harm).
 
 </details>

@@ -82,6 +82,9 @@
     }
   },
   "terms": {
+    "Derived Information": {
+      "ch00_measurement": ["3.4 Participation"]
+    },
     "Flourishing": {
       "aim_role": "aim_head",
       "primary_aim": "Flourishing",
