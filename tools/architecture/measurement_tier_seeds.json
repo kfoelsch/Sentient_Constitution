@@ -9,7 +9,22 @@
     "3.8 Constitutional performance": "#measuring-constitutional-performance"
   },
   "terms": {
+    "Gate": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Gate Criteria": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
     "Standardization": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Subversion": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_secondary",
       "status": "approved"

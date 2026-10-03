@@ -154,6 +154,94 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 
 ---
 
+<a id="gate"></a>
+
+#### Gate
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Rights-Floor: **[Article XXVII-A](core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity)** (*Phased Adoption and Rights-Floor Continuity*).
+- Canonical owner: this definition states what a gate is. [Gate Criteria](core_05_band_oversight.md#gate-criteria) states what must be shown for it to open. Implementation detail lives in **CS-10.3** and **CI-14**.
+- Read with: [Gate Criteria](core_05_band_oversight.md#gate-criteria), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
+
+</details>
+
+<br>
+
+*In plain terms: a gate is a checkpoint in a transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.*
+
+- **What it is**
+  - **In scope:** The checkpoint between two phases of a transition plan under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*), or before the plan widens the scope of adoption, at which the plan either meets its [Gate Criteria](core_05_band_oversight.md#gate-criteria) and advances, or does not meet them and holds.
+  - **Out of scope:**
+    - ordinary project milestones that do not open or widen constitutional operation; and
+    - approval steps decided by discretion alone, with no published criteria to meet.
+<a id="gate-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
+
+    **Primary assessment:** Confirm from the record that the plan could not have advanced without a recorded decision against published criteria, and that the decision, its evidence, and its date are visible to those affected.
+  - **Secondary measure:** [Gate Criteria](core_05_band_oversight.md#gate-criteria), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
+
+    **Secondary assessment:** When evaluating the primary trace, test whether affected stakeholders could challenge the gate decision and whether any scope of adoption widened without passing through a gate.
+<a id="gate-c"></a>
+- **What must hold**
+  - **Primary failure:** Treating a gate as a date or a formality: advancing because time passed, because it was convenient, or under pressure, or advancing without a recorded decision against published criteria.
+  - **Secondary failure:** Widening the scope of adoption without passing through a gate.
+
+---
+
+<a id="gate-criteria"></a>
+
+#### Gate Criteria
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Rights-Floor: **[Article XXVII-A](core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity)** (*Phased Adoption and Rights-Floor Continuity*); **[Article XXVII-B](core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization)** (*Transitional Authority Limits and Reauthorization*).
+- Canonical owner: this definition states what gate criteria are. The contents of any particular plan's criteria stay with that plan under **CS-10.3** and **CI-14**, and may not narrow this definition.
+- Read with: [Gate](core_05_band_oversight.md#gate), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
+
+</details>
+
+<br>
+
+*In plain terms: gate criteria are the specific tests a transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.*
+
+- **What it is**
+  - **In scope:** The specific, measurable conditions that a transition plan publishes before a phase begins and that must be shown met, on verified evidence, before a [Gate](core_05_band_oversight.md#gate) opens. Each criterion states:
+    - what is measured;
+    - the threshold;
+    - who owns it; and
+    - who verifies it independently.
+  - **In scope:** Criteria scaled to material stake, covering as the stake warrants:
+    - continuity of critical services and survival-supporting access;
+    - readiness of oversight, audit, and contestability pathways;
+    - rollback and fallback feasibility; and
+    - Rights-Floor attainment and enforcement-readiness milestones under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*).
+  - **Out of scope:**
+    - goals or aspirations that cannot be measured;
+    - the contents of a particular plan's criteria, which stay with that plan; and
+    - criteria for decisions that are not transition gates.
+<a id="gate-criteria-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?*
+
+    **Primary assessment:** Confirm from the record that:
+    - the criteria were published before the phase began;
+    - each states its measure, threshold, owner, and independent verifier;
+    - the evidence was verified by someone independent of the owner; and
+    - affected stakeholders could comment on the criteria before adoption and could see the evidence and the decision afterward.
+  - **Secondary measure:** [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance).
+
+    **Secondary assessment:** When evaluating the primary trace, test whether the criteria are strict enough for the class and stake of what is moving, and whether any waiver was approved independently and paired with time-bounded compensating controls.
+<a id="gate-criteria-c"></a>
+- **What must hold**
+  - **Primary failure:** Criteria that are unpublished, vague, or unmeasurable; set or loosened after results were known; verified only by their owner; or passed on assertion rather than evidence.
+  - **Secondary failure:** A waiver without independent approval and time-bounded compensating controls, or criteria that are not scaled to the class and stake of what is moving.
+
+---
+
 <a id="heightened-scrutiny"></a>
 
 #### Heightened Scrutiny

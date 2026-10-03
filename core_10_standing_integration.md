@@ -355,6 +355,13 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
     - ordinary pay for ordinary work when the sentient did not know the system was misaligned;
     - money paid to repair harm to affected parties; and
     - fair settlements reached through a contestable process.
+<a id="54-transition-exception-misaligned-rewards"></a>
+- **Transition exception:** During approved transition phases under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
+  - operation stays within a **documented transition plan** and published [gate criteria](core_05_band_oversight.md#gate-criteria) under **Article XXVII**;
+  - the system is proceeding toward [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) on a published cadence, including **conditional** or **deferred recognition** where Chapter Eight allows; and
+  - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved transition scope, or using transition status to evade certification, correction, or protected reporting.
+
+  The exception does **not** apply where verified anti-constitutional conduct, knowing concealment, operation outside approved transition scope, failed or exceeded transition milestones, or a certification record — including **conditional recognition** — documents material misalignment or misaligned reward pathways.
 - **Review route and reassessment:**
   - The record must show how the system was abused.
   - The record must show what the sentient knew.

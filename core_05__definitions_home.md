@@ -197,6 +197,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)
 - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency)
 - [Game of Chance](core_05_band_accountability.md#game-of-chance)
+- [Gate](core_05_band_oversight.md#gate)
+- [Gate Criteria](core_05_band_oversight.md#gate-criteria)
 - [Good Faith](core_05_band_accountability.md#good-faith)
 - [Governance](core_05_band_accountability.md#governance)
 - [Graduated Capability](core_05_band_participation.md#graduated-capability-constitutional)

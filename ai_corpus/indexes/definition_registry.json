@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-10-03T07:06:21+00:00",
+  "generated_at": "2026-10-03T10:06:32+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 240,
+  "definition_count": 242,
   "definitions": [
     {
       "term": "Accessibility",
@@ -110,13 +110,13 @@
       "term": "Auditability",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#auditability",
-      "line_start": 916,
-      "line_end": 997,
+      "line_start": 1004,
+      "line_end": 1085,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 718
+        "line": 806
       }
     },
     {
@@ -699,13 +699,13 @@
       "term": "Epistemic Integrity",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#epistemic-integrity",
-      "line_start": 1391,
-      "line_end": 1435,
+      "line_start": 1479,
+      "line_end": 1523,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O2 Truth and Epistemic Integrity",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 1220
+        "line": 1308
       }
     },
     {
@@ -721,13 +721,13 @@
       "term": "Evaluation Completeness Constraint",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#evaluation-completeness-constraint",
-      "line_start": 1048,
-      "line_end": 1110,
+      "line_start": 1136,
+      "line_end": 1198,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 720
+        "line": 808
       }
     },
     {
@@ -743,13 +743,13 @@
       "term": "Evidence Preservation",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#evidence-preservation",
-      "line_start": 998,
-      "line_end": 1047,
+      "line_start": 1086,
+      "line_end": 1135,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 719
+        "line": 807
       }
     },
     {
@@ -827,8 +827,8 @@
       "term": "Foreseeability",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#foreseeability-diligence",
-      "line_start": 1477,
-      "line_end": 1537,
+      "line_start": 1565,
+      "line_end": 1625,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -955,6 +955,24 @@
       "cluster_membership": null
     },
     {
+      "term": "Gate",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#gate",
+      "line_start": 159,
+      "line_end": 195,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
+      "term": "Gate Criteria",
+      "source_file": "core_05_band_oversight.md",
+      "anchor": "#gate-criteria",
+      "line_start": 196,
+      "line_end": 246,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
       "term": "Good Faith",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#good-faith",
@@ -1037,8 +1055,8 @@
       "term": "Heightened Scrutiny",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#heightened-scrutiny",
-      "line_start": 159,
-      "line_end": 210,
+      "line_start": 247,
+      "line_end": 298,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1046,8 +1064,8 @@
       "term": "High-Impact and Systemic Harm Publication Constraint",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#high-impact-and-systemic-harm-publication-constraint",
-      "line_start": 1293,
-      "line_end": 1321,
+      "line_start": 1381,
+      "line_end": 1409,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1260,8 +1278,8 @@
       "term": "Material",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#material",
-      "line_start": 286,
-      "line_end": 319,
+      "line_start": 374,
+      "line_end": 407,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1278,8 +1296,8 @@
       "term": "Material Degradation",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#material-degradation",
-      "line_start": 634,
-      "line_end": 675,
+      "line_start": 722,
+      "line_end": 763,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1287,8 +1305,8 @@
       "term": "Material Impact",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#material-impact",
-      "line_start": 429,
-      "line_end": 476,
+      "line_start": 517,
+      "line_end": 564,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1296,8 +1314,8 @@
       "term": "Material Risk",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#material-risk",
-      "line_start": 477,
-      "line_end": 522,
+      "line_start": 565,
+      "line_end": 610,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1314,8 +1332,8 @@
       "term": "Materiality",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#materiality-determination",
-      "line_start": 320,
-      "line_end": 391,
+      "line_start": 408,
+      "line_end": 479,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1323,8 +1341,8 @@
       "term": "Materiality Integrity Constraint",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#materiality-integrity-constraint",
-      "line_start": 392,
-      "line_end": 428,
+      "line_start": 480,
+      "line_end": 516,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1332,8 +1350,8 @@
       "term": "Materiality Under Uncertainty",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#materiality-under-uncertainty",
-      "line_start": 523,
-      "line_end": 562,
+      "line_start": 611,
+      "line_end": 650,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1511,8 +1529,8 @@
       "term": "Press and Journalistic Activity",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#press-and-journalistic-activity-constitutional",
-      "line_start": 211,
-      "line_end": 253,
+      "line_start": 299,
+      "line_end": 341,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1600,8 +1618,8 @@
       "term": "Protected Data and Internal-State Publication Constraint",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#protected-data-and-internal-state-publication-constraint",
-      "line_start": 1275,
-      "line_end": 1292,
+      "line_start": 1363,
+      "line_end": 1380,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1649,8 +1667,8 @@
       "term": "Proxy Divergence",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#proxy-divergence",
-      "line_start": 563,
-      "line_end": 633,
+      "line_start": 651,
+      "line_end": 721,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1671,21 +1689,21 @@
       "term": "Public Oversight Baseline Disclosure",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#public-oversight-baseline-disclosure",
-      "line_start": 793,
-      "line_end": 872,
+      "line_start": 881,
+      "line_end": 960,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 716
+        "line": 804
       }
     },
     {
       "term": "Publication Truthfulness and Recklessness Floor",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#publication-truthfulness-and-recklessness-floor",
-      "line_start": 1245,
-      "line_end": 1274,
+      "line_start": 1333,
+      "line_end": 1362,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1693,8 +1711,8 @@
       "term": "Reasonably Foreseeable",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#reasonably-foreseeable",
-      "line_start": 1538,
-      "line_end": 1558,
+      "line_start": 1626,
+      "line_end": 1646,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1796,13 +1814,13 @@
       "term": "Risk Disclosure",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#risk-disclosure",
-      "line_start": 873,
-      "line_end": 915,
+      "line_start": 961,
+      "line_end": 1003,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 717
+        "line": 805
       }
     },
     {
@@ -1840,8 +1858,8 @@
       "term": "Security-Sensitive Disclosure Balance",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#security-sensitive-disclosure-balance",
-      "line_start": 1322,
-      "line_end": 1350,
+      "line_start": 1410,
+      "line_end": 1438,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -2303,13 +2321,13 @@
       "term": "Transparency",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#transparency",
-      "line_start": 733,
-      "line_end": 792,
+      "line_start": 821,
+      "line_end": 880,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 715
+        "line": 803
       }
     },
     {
@@ -2355,13 +2373,13 @@
       "term": "Truth (Constitutional Constraint)",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#truth-constitutional-constraint",
-      "line_start": 1351,
-      "line_end": 1390,
+      "line_start": 1439,
+      "line_end": 1478,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O2 Truth and Epistemic Integrity",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 1219
+        "line": 1307
       }
     },
     {
@@ -2416,13 +2434,13 @@
       "term": "Verifiability",
       "source_file": "core_05_band_oversight.md",
       "anchor": "#verifiability",
-      "line_start": 1111,
-      "line_end": 1186,
+      "line_start": 1199,
+      "line_end": 1274,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.O1 Transparency, Auditability, and Verification",
         "cluster_file": "core_05_band_oversight.md",
-        "line": 721
+        "line": 809
       }
     },
     {
