@@ -1,0 +1,41 @@
+{
+ "stats": {
+  "anchor": 96,
+  "label": 45,
+  "link-target": 47,
+  "gloss-cite": 6,
+  "number-title-cite": 4,
+  "chapter-cite": 1,
+  "raw-ref": 17,
+  "heading-literal": 4
+ },
+ "files_changed": [
+  "TODO.md",
+  "core_01_a_values_principles.md",
+  "core_01_b_interaction_interpretation.md",
+  "core_01_c_stewardship_capacity_principles.md",
+  "core_05_band_accountability.md",
+  "core_05_band_continuity.md",
+  "core_06_rights_part_b.md",
+  "core_06_rights_part_d.md",
+  "core_06_rights_part_e.md",
+  "core_07_functional_independence_segregation_of_duties.md",
+  "core_08_a_system_alignment_certification_evaluation.md",
+  "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+  "project/MEMLOG.md",
+  "project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md",
+  "tools/architecture/ch1_dac_order.json"
+ ],
+ "review": [],
+ "slug_map": {
+  "72-voluntary-discontinuation-and-exit-rights": "74-voluntary-discontinuation-and-exit-rights",
+  "73-assembly-collective-organization-and-institutional-formation": "72-assembly-collective-organization-and-institutional-formation",
+  "731-aligned-self-organization": "721-aligned-self-organization",
+  "74-dissent-and-peaceful-protest": "73-dissent-and-peaceful-protest",
+  "75-institutional-secularism-and-worldview-neutrality": "182-institutional-secularism-and-worldview-neutrality",
+  "182-segregation-of-duties": "183-segregation-of-duties",
+  "183-ongoing-justification": "184-ongoing-justification",
+  "184-modular-architecture-and-dependency-discipline": "185-modular-architecture-and-dependency-discipline",
+  "185-standardization": "186-standardization"
+ }
+}

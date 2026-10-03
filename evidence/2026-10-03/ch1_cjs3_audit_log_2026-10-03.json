@@ -153,73 +153,68 @@
       "file": "core_01_a_values_principles.md"
     },
     "7.2": {
-      "title": "Voluntary Discontinuation and Exit Rights",
+      "title": "Assembly, Collective Organization, and Institutional Formation",
       "line": 938,
       "file": "core_01_a_values_principles.md"
     },
     "7.3": {
-      "title": "Assembly, Collective Organization, and Institutional Formation",
-      "line": 982,
+      "title": "Dissent and Peaceful Protest",
+      "line": 1004,
       "file": "core_01_a_values_principles.md"
     },
     "7.4": {
-      "title": "Dissent and Peaceful Protest",
-      "line": 1048,
-      "file": "core_01_a_values_principles.md"
-    },
-    "7.5": {
-      "title": "Institutional Secularism and Worldview Neutrality",
-      "line": 1085,
+      "title": "Voluntary Discontinuation and Exit Rights",
+      "line": 1041,
       "file": "core_01_a_values_principles.md"
     },
     "8": {
       "title": "Continuity Aim: Introduction",
-      "line": 1117,
+      "line": 1086,
       "file": "core_01_a_values_principles.md"
     },
     "9": {
       "title": "Shared-System Capacity",
-      "line": 1190,
+      "line": 1159,
       "file": "core_01_a_values_principles.md"
     },
     "9.1": {
       "title": "Productive Capacity (Instrumental Good)",
-      "line": 1256,
+      "line": 1225,
       "file": "core_01_a_values_principles.md"
     },
     "9.2": {
       "title": "Constitutional Efficiency",
-      "line": 1336,
+      "line": 1305,
       "file": "core_01_a_values_principles.md"
     },
     "10": {
       "title": "Resilience and Self-Healing Design",
-      "line": 1379,
+      "line": 1348,
       "file": "core_01_a_values_principles.md"
     },
     "11": {
       "title": "Market Structure",
-      "line": 1421,
+      "line": 1390,
       "file": "core_01_a_values_principles.md"
     },
     "11.1": {
       "title": "Market Concentration Threshold Mechanism (Adopter-Tunable)",
-      "line": 1468,
+      "line": 1437,
       "file": "core_01_a_values_principles.md"
     },
     "11.2": {
       "title": "Pro-Competition and Anti-Domination",
-      "line": 1560,
+      "line": 1529,
       "file": "core_01_a_values_principles.md"
     },
     "11.3": {
       "title": "Consolidation Ceiling",
-      "line": 1704,
+      "line": 1673,
       "file": "core_01_a_values_principles.md"
     },
     "12": {
       "title": "Systemic Evaluation Requirement",
-      "line": 1850,
+      "line": 1819,
       "file": "core_01_a_values_principles.md"
     },
     "13": {
@@ -333,63 +328,68 @@
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "18.2": {
-      "title": "Segregation of Duties",
-      "line": 661,
+      "title": "Institutional Secularism and Worldview Neutrality",
+      "line": 660,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "18.3": {
-      "title": "Ongoing Justification",
-      "line": 695,
+      "title": "Segregation of Duties",
+      "line": 692,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "18.4": {
-      "title": "Modular Architecture and Dependency Discipline",
-      "line": 740,
+      "title": "Ongoing Justification",
+      "line": 726,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "18.5": {
+      "title": "Modular Architecture and Dependency Discipline",
+      "line": 771,
+      "file": "core_01_c_stewardship_capacity_principles.md"
+    },
+    "18.6": {
       "title": "Standardization",
-      "line": 792,
+      "line": 823,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19": {
       "title": "Incentive Alignment and System Capture",
-      "line": 845,
+      "line": 876,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.1": {
       "title": "Alignment Requirement",
-      "line": 896,
+      "line": 927,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.2": {
       "title": "Convenient Proxies and Proxy Divergence",
-      "line": 1016,
+      "line": 1047,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.3": {
       "title": "Misalignment Detection",
-      "line": 1048,
+      "line": 1079,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.4": {
       "title": "Misalignment Correction and Capture Response",
-      "line": 1121,
+      "line": 1152,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.5": {
       "title": "Contingent Claims, Games of Chance, and Event-Contract Markets",
-      "line": 1174,
+      "line": 1205,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.6": {
       "title": "Successor Responsibility and Formal-Structure Non-Escape",
-      "line": 1332,
+      "line": 1363,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "20": {
       "title": "Integrated Application",
-      "line": 1387,
+      "line": 1418,
       "file": "core_01_c_stewardship_capacity_principles.md"
     }
   },

@@ -161,7 +161,7 @@ flowchart TB
         T["§5 Truth<br/><br/>• Epistemic integrity<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
     end
     R["§6 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy"]
-    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.5 Exit, assembly,<br/>dissent, and worldview neutrality"]
+    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.4 Assembly,<br/>dissent, and exit"]
     F -->|"is stated as"| W
     W -->|"is sustained by"| S
     W --> T

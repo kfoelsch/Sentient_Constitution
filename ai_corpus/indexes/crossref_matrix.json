@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-03T01:06:59+00:00",
+  "generated_at": "2026-10-03T01:23:30+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -773,6 +773,7 @@
               "#17-consequential-stewardship-the-steward-role",
               "#174-aligned-self-organization",
               "#18-governance-under-stewardship-discipline",
+              "#182-institutional-secularism-and-worldview-neutrality",
               "#19-incentive-alignment-and-system-capture",
               "#1913-stewardship-and-operator-application",
               "#1914-role-depth-and-material-responsibility-pathways",
@@ -854,7 +855,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 246,
+            "count": 231,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-and-harm-cluster",
@@ -975,9 +976,8 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 13,
+            "count": 12,
             "anchors": [
-              "#documented-legitimacy-mechanism",
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c"
@@ -1018,7 +1018,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 250,
+            "count": 240,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -1049,9 +1049,6 @@
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
-              "#non-imposition-cooperative-interaction",
-              "#non-imposition-cooperative-interaction-a",
-              "#non-imposition-cooperative-interaction-c",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
               "#procedural-fairness-constitutional-c",
@@ -1092,7 +1089,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 31,
+            "count": 30,
             "anchors": [
               "#article-ix-likeness-experiential-data-and-publication-rights",
               "#article-vi-a-dignity-and-equal-moral-standing",
@@ -1102,7 +1099,6 @@
               "#article-vii-self-ownership",
               "#article-x-c-stakeholder-role-and-participation-rights",
               "#article-x-self-determination-agency-and-participation",
-              "#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview",
               "#article-xi-conscience-expression-association-and-cooperative-interaction",
               "#article-xi-d-assembly-dissent-and-peaceful-protest",
               "#article-xi-e-institutional-formation-and-business-creation",
@@ -1200,13 +1196,6 @@
             "count": 2,
             "anchors": [
               "#42-technical-forum-domains"
-            ]
-          },
-          {
-            "file": "core_13_governance.md",
-            "count": 1,
-            "anchors": [
-              "#1-authorization-and-legitimacy-of-governing-authority"
             ]
           },
           {
@@ -1626,7 +1615,7 @@
               "#6-trust-and-trustworthiness-coordination-integrity",
               "#61-correction-and-remedy",
               "#7-freedom-bounded-agency",
-              "#731-aligned-self-organization",
+              "#721-aligned-self-organization",
               "#9-shared-system-capacity"
             ]
           },
@@ -1700,7 +1689,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 319,
+            "count": 334,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1829,7 +1818,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 57,
+            "count": 58,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -1840,6 +1829,7 @@
               "#corpus",
               "#corpus-a",
               "#corpus-c",
+              "#documented-legitimacy-mechanism",
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c"
@@ -1886,7 +1876,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 95,
+            "count": 105,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -1901,7 +1891,13 @@
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
+              "#non-imposition-cooperative-interaction",
+              "#non-imposition-cooperative-interaction-a",
+              "#non-imposition-cooperative-interaction-c",
               "#procedural-fairness-constitutional",
+              "#protected-characteristics-constitutional",
+              "#protected-characteristics-constitutional-a",
+              "#protected-characteristics-constitutional-c",
               "#sentience-non-exclusion",
               "#stakeholder-status-and-weight-cluster",
               "#substrate-agnostic",
@@ -1923,10 +1919,11 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#article-vii-b-self-ownership-of-mind",
               "#article-x-self-determination-agency-and-participation",
+              "#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview",
               "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
@@ -2021,8 +2018,9 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
+              "#1-authorization-and-legitimacy-of-governing-authority",
               "#5-authorized-roles-competency-development-and-contribution"
             ]
           },
@@ -3456,9 +3454,9 @@
               "#175-duty-to-resist",
               "#18-governance-under-stewardship-discipline",
               "#181-governance-as-authorized-structure",
-              "#182-segregation-of-duties",
-              "#184-modular-architecture-and-dependency-discipline",
-              "#185-standardization",
+              "#183-segregation-of-duties",
+              "#185-modular-architecture-and-dependency-discipline",
+              "#186-standardization",
               "#1915-constitutional-outcome-claims-discipline",
               "#195-contingent-claims-games-of-chance-and-event-contract-markets",
               "#196-successor-responsibility-and-formal-structure-non-escape",
@@ -3933,7 +3931,7 @@
               "#6-trust-and-trustworthiness-coordination-integrity",
               "#7-freedom-bounded-agency",
               "#71-limitation-discipline",
-              "#72-voluntary-discontinuation-and-exit-rights",
+              "#74-voluntary-discontinuation-and-exit-rights",
               "#9-shared-system-capacity",
               "#91-productive-capacity-instrumental-good",
               "#92-constitutional-efficiency"
@@ -3963,7 +3961,7 @@
               "#163-openness-aspiration",
               "#171-shared-stewardship-standard",
               "#18-governance-under-stewardship-discipline",
-              "#184-modular-architecture-and-dependency-discipline",
+              "#185-modular-architecture-and-dependency-discipline",
               "#19-incentive-alignment-and-system-capture",
               "#191-alignment-requirement",
               "#1913-stewardship-and-operator-application",
@@ -5394,7 +5392,7 @@
               "#175-duty-to-resist",
               "#18-governance-under-stewardship-discipline",
               "#181-governance-as-authorized-structure",
-              "#182-segregation-of-duties",
+              "#183-segregation-of-duties",
               "#193-misalignment-detection"
             ]
           },
@@ -5615,9 +5613,9 @@
               "#12-systemic-evaluation-requirement",
               "#5-truth-epistemic-integrity-constraint",
               "#6-trust-and-trustworthiness-coordination-integrity",
-              "#72-voluntary-discontinuation-and-exit-rights",
-              "#73-assembly-collective-organization-and-institutional-formation",
-              "#74-dissent-and-peaceful-protest"
+              "#72-assembly-collective-organization-and-institutional-formation",
+              "#73-dissent-and-peaceful-protest",
+              "#74-voluntary-discontinuation-and-exit-rights"
             ]
           },
           {
@@ -7915,7 +7913,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 96,
+            "count": 94,
             "anchors": [
               "#11-market-structure",
               "#111-market-concentration-threshold-mechanism-adopter-tunable",
@@ -7926,9 +7924,8 @@
               "#52-plain-language-accessibility-participation-and-stewardship-duty",
               "#7-freedom-bounded-agency",
               "#71-limitation-discipline",
-              "#73-assembly-collective-organization-and-institutional-formation",
-              "#74-dissent-and-peaceful-protest",
-              "#75-institutional-secularism-and-worldview-neutrality",
+              "#72-assembly-collective-organization-and-institutional-formation",
+              "#73-dissent-and-peaceful-protest",
               "#91-productive-capacity-instrumental-good"
             ]
           },
@@ -7954,10 +7951,11 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 15,
+            "count": 17,
             "anchors": [
               "#162-institutional-development",
               "#18-governance-under-stewardship-discipline",
+              "#182-institutional-secularism-and-worldview-neutrality",
               "#19-incentive-alignment-and-system-capture",
               "#20-integrated-application"
             ]
@@ -8759,7 +8757,7 @@
               "#16-stewardship-in-depth",
               "#161-distributed-understanding",
               "#18-governance-under-stewardship-discipline",
-              "#184-modular-architecture-and-dependency-discipline",
+              "#185-modular-architecture-and-dependency-discipline",
               "#20-integrated-application"
             ]
           },
@@ -9115,7 +9113,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 5,
             "anchors": [
-              "#183-ongoing-justification",
+              "#184-ongoing-justification",
               "#20-integrated-application"
             ]
           },
@@ -14194,7 +14192,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
-              "#184-modular-architecture-and-dependency-discipline"
+              "#185-modular-architecture-and-dependency-discipline"
             ]
           },
           {

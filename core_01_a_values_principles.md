@@ -207,7 +207,7 @@ flowchart TB
         T["§5 Truth<br/><br/>• Epistemic integrity<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
     end
     R["§6 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy"]
-    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.5 Exit, assembly,<br/>dissent, and worldview neutrality"]
+    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.4 Assembly,<br/>dissent, and exit"]
     F -->|"is stated as"| W
     W -->|"is sustained by"| S
     W --> T
@@ -837,7 +837,7 @@ The right to this correction is stated in [Article XIII-B](core_06_rights_part_c
 - Read with: [§11 Market Structure](#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with: [§7.1 Limitation Discipline](#71-limitation-discipline) and [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) through [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles: [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [4 Safety](#4-safety-harm-constraint); [5 Truth](#5-truth-epistemic-integrity-constraint); [6. Trust](#6-trust-and-trustworthiness-coordination-integrity); and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§7.1 Limitation Discipline](#71-limitation-discipline) through [§7.5 Institutional Secularism and Worldview Neutrality](#75-institutional-secularism-and-worldview-neutrality); [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); and [§13.1 decision-record discipline](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) where concrete applications require collision handling.
+- Downstream: [§7.1 Limitation Discipline](#71-limitation-discipline) through [§7.4 Voluntary Discontinuation and Exit Rights](#74-voluntary-discontinuation-and-exit-rights); [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*the public-authority counterpart of Freedom*); [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); and [§13.1 decision-record discipline](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
   - Especially [Article VI: Equal Basic Rights](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Article VII: Self-Ownership](core_06_rights_part_b.md#article-vii-self-ownership), [Article IX: Likeness, Experiential Data, and Publication Rights](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights), [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), and [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six Rights Floor context where agency is limited or claimed.
@@ -884,7 +884,7 @@ Operative tests live in [§7.1 Limitation Discipline](#71-limitation-discipline)
 
 [Meaningful Agency](core_05_band_participation.md#meaningful-agency) is the ability to make a choice between real options. [Consent](core_05_band_participation.md#consent-constitutional) is a valid yes to one specific option. Consent does not count when the options are not distinct from each other or are not meaningful. A signed form alone creates neither meaningful agency nor consent. [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) destroy both. The detailed rules are in Chapter Five §2 *Agency, consent, and anti-coercion*.
 
-Freedom does not let anyone undermine constitutional systems, get around constitutional process or remedies, or claim protected agency for conduct whose main purpose or effect is to reward, shield, normalize, or pay off anti-constitutional conduct. Disagreeing with constitutional systems, and protesting peacefully to change them, is not undermining them. See [§7.4 Dissent and Peaceful Protest](#74-dissent-and-peaceful-protest).
+Freedom does not let anyone undermine constitutional systems, get around constitutional process or remedies, or claim protected agency for conduct whose main purpose or effect is to reward, shield, normalize, or pay off anti-constitutional conduct. Disagreeing with constitutional systems, and protesting peacefully to change them, is not undermining them. See [§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest).
 
 #### 7.1 Limitation Discipline
 
@@ -935,7 +935,110 @@ You may limit someone's freedom only as a last resort. If a less restrictive opt
 
 If limiting freedom clashes with other constitutional values or rights, first make sure **Safety** and **Truth** are satisfied. Then work through [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) to [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 
-#### 7.2 Voluntary Discontinuation and Exit Rights
+#### 7.2 Assembly, Collective Organization, and Institutional Formation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) is the home for this group of definitions. Read with **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) (assembly), **Article III-C** (*Labor and Economic Floor*) (collective organization within the labor and economic floor), and [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) (the procedural path for sentient-initiated and community-initiated constitutional stewardship).
+
+- [Assembly](core_05_band_participation.md#assembly-constitutional) · [O](core_05_band_participation.md#assembly-constitutional) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
+- [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) · [O](core_05_band_participation.md#collective-organization-constitutional) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
+- [System Creation](core_05_band_participation.md#system-creation-constitutional) · [O](core_05_band_participation.md#system-creation-constitutional) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
+- [Business Creation](core_05_band_participation.md#business-creation-constitutional) · [O](core_05_band_participation.md#business-creation-constitutional) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
+
+</details>
+
+<br>
+
+<a id="72-assembly-collective-organization-and-institutional-formation"></a>
+
+*In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article XI-D still owns assembly, and Article III-C still owns labor organizing.*
+
+**Where the full rules live.** Chapter Five groups related definitions that must be read together when the questions they cover travel together. That grouping is a **definition cluster**. It is not a separate right, and it is not a substitute for the Chapter Six articles below. The definitions for this topic live in [Chapter Five — Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster):
+- [Assembly](core_05_band_participation.md#assembly-constitutional)
+- [Collective Organization](core_05_band_participation.md#collective-organization-constitutional)
+- [System Creation](core_05_band_participation.md#system-creation-constitutional)
+- [Business Creation](core_05_band_participation.md#business-creation-constitutional)
+
+The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the anti-segmentation principle at Chapter One; it does not restate those Chapter Five mechanics.
+
+**Which rights articles still control.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) is a Chapter One principle. It does not replace the Chapter Six Rights Floor. Inside **§7.2** (*Assembly, Collective Organization, and Institutional Formation*), those articles still decide what the right is and how it may be limited:
+- **[Article XI-D](core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest)** (*Assembly, Dissent, and Peaceful Protest*) — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
+- **[Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)** (*Labor and Economic Floor*) — collective organization in productive and economic activity (unions, cooperatives, guilds, worker councils, and comparable forms used to shape the terms of work)
+- **[Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)** (*Institutional Formation and Business Creation*) — [System Creation](core_05_band_participation.md#system-creation-constitutional) (forming and running non-commercial institutions) and [Business Creation](core_05_band_participation.md#business-creation-constitutional) (forming and running commercial enterprises)
+- **[Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights)** (*Stakeholder Role and Participation Rights*) and **[Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)** (*Stakeholder System Participation, Representation, and Due Process*) — stakeholder rights once a created institution or enterprise materially affects others
+
+**When the full definition cluster applies.** The anti-segmentation rule applies when [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [System Creation](core_05_band_participation.md#system-creation-constitutional), or [Business Creation](core_05_band_participation.md#business-creation-constitutional) is material in a way that makes those questions travel together.
+
+**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or institution-forming stake — use [Assembly](core_05_band_participation.md#assembly-constitutional) or [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) as an ordinary supporting definition. Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster, and do not apply the anti-segmentation package of **§7.2** (*Assembly, Collective Organization, and Institutional Formation*), just because one of those terms appears. Single-definition use is not a license to re-segment a jointly covered matter.
+
+**What this section does not change.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) adds principle-layer anti-segmentation discipline and the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
+
+A matter inside that together-reading scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
+
+Whole-system evaluations must test anti-segmentation under [Chapter Eight §3.5 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
+
+##### 7.2.1 Aligned Self-Organization
+<a id="721-aligned-self-organization"></a>
+
+*In plain terms: you may start legitimate work without a sponsor, and institutions must give credible work a real procedural path — but that path is not power to govern others, and it is not a final decision on the substance.*
+
+The freedom to assemble or create a system includes a real way to start work this Constitution treats as legitimate, without waiting for stewards already in charge to sponsor it. [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) is the operative home. This subsection applies that rule at the Freedom / assembly-and-formation layer.
+
+When that work is credible and materially relevant, institutions must give it a real procedural path:
+- receive it
+- preserve it where warranted
+- route it
+- give a reasoned response
+- have it reviewed by someone independent of those whose actions are being examined
+
+That path is not a grant of power. Starting, running, funding, publishing, or submitting the work does not, by itself:
+- give anyone the power to govern others, enforce against them, or coerce them
+- bind sentients who did not agree to a substantive outcome
+- decide standing, liability, entitlement, validity, a mandate, a remedy, a classification, or a rights restriction
+- count as a [Merits Determination](core_05_band_accountability.md#merits-determination) — a binding decision on the substance of the dispute
+
+Being received, routed, or answered is not approval of the authors' conclusions. Any governing or merits effect requires the separate lawful authority, evidence, fair process, review, and remedy this Constitution assigns. The full no-self-appointment rule lives in [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization).
+
+#### 7.3 Dissent and Peaceful Protest
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+*Rights-Floor home.* **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)** (*Assembly, Dissent, and Peaceful Protest*) states the operative dissent, peaceful protest, and civil disobedience floor. This subsection states the Freedom principle it implements.
+
+- [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Assembly](core_05_band_participation.md#assembly-constitutional) · [O](core_05_band_participation.md#assembly-constitutional) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+<a id="73-dissent-and-peaceful-protest"></a>
+
+*In plain terms: freedom includes the freedom to say no — to disagree with any authority, including this Constitution, and to protest peacefully to change it. A system that punishes disagreement is no longer contestable, and a system that cannot be contested cannot correct itself.*
+
+**Dissent is part of freedom.** [Meaningful Agency](core_05_band_participation.md#meaningful-agency) includes the ability to disagree with, object to, and organize against the decisions, institutions, and systems that shape a sentient's life. Bounded agency that could not reach the systems doing the bounding would not be meaningful.
+
+**Dissent keeps systems contestable.** The [**Continuity**](core_00_preamble.md#continuity) aim depends on constitutional systems that stay contestable. Dissent and peaceful protest are how contest reaches authority from outside formal process, and how errors that formal process has missed become visible. They serve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs.
+
+**Dissent is not subversion.** Disagreeing with this Constitution or with the authority acting under it, and advocating by peaceful and lawful means to amend it or to change who holds authority, is exercise of freedom. It is not the subversion of constitutional systems excluded from protected agency in [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency). Subversion requires force, coercion, usurpation, or making constitutional process or remedies unusable in practice.
+
+**Limiting dissent follows limitation discipline.** Dissent and peaceful protest may be limited only under [§7.1 Limitation Discipline](#71-limitation-discipline).
+- Disagreement, disruption, inconvenience, offense, unpopularity, or pressure on authority is not, by itself, **material harm** or **systemic risk**.
+- Limits must not turn on viewpoint, and the party limiting dissent bears the burden under **Chapter Four**.
+
+**Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)**.
+
+Whole-system evaluations must test this principle under [Chapter Eight §3.5.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest) before classification, governance, or compliance claims stand where it applies.
+
+**What this section does not change.** **§7.3** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor. It does not narrow **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*), and it does not protect separable conduct that independently breaches Safety or another sentient's Rights-Floor minimums.
+
+#### 7.4 Voluntary Discontinuation and Exit Rights
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -951,7 +1054,7 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 
 <br>
 
-<a id="72-voluntary-discontinuation-and-exit-rights"></a>
+<a id="74-voluntary-discontinuation-and-exit-rights"></a>
 
 *In plain terms: life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency comes first; consent is agreement under that agency — and both fail if coercion or dependency pressure is doing the real decision-making.*
 
@@ -978,140 +1081,6 @@ This subsection does **not** import voluntary-discontinuation discipline into th
 - commercial-service
 
 Whole-system evaluations must test these conditions under [Chapter Eight §3.4 Voluntary Discontinuation and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
-
-#### 7.3 Assembly, Collective Organization, and Institutional Formation
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-*Definition home.* Chapter Five [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) is the home for this group of definitions. Read with **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) (assembly), **Article III-C** (*Labor and Economic Floor*) (collective organization within the labor and economic floor), and [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) (the procedural path for sentient-initiated and community-initiated constitutional stewardship).
-
-- [Assembly](core_05_band_participation.md#assembly-constitutional) · [O](core_05_band_participation.md#assembly-constitutional) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
-- [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) · [O](core_05_band_participation.md#collective-organization-constitutional) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
-- [System Creation](core_05_band_participation.md#system-creation-constitutional) · [O](core_05_band_participation.md#system-creation-constitutional) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
-- [Business Creation](core_05_band_participation.md#business-creation-constitutional) · [O](core_05_band_participation.md#business-creation-constitutional) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
-
-</details>
-
-<br>
-
-<a id="73-assembly-collective-organization-and-institutional-formation"></a>
-
-*In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article XI-D still owns assembly, and Article III-C still owns labor organizing.*
-
-**Where the full rules live.** Chapter Five groups related definitions that must be read together when the questions they cover travel together. That grouping is a **definition cluster**. It is not a separate right, and it is not a substitute for the Chapter Six articles below. The definitions for this topic live in [Chapter Five — Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster):
-- [Assembly](core_05_band_participation.md#assembly-constitutional)
-- [Collective Organization](core_05_band_participation.md#collective-organization-constitutional)
-- [System Creation](core_05_band_participation.md#system-creation-constitutional)
-- [Business Creation](core_05_band_participation.md#business-creation-constitutional)
-
-The cluster's own reading rules live there. **§7.3** (*Assembly, Collective Organization, and Institutional Formation*) applies the anti-segmentation principle at Chapter One; it does not restate those Chapter Five mechanics.
-
-**Which rights articles still control.** **§7.3** (*Assembly, Collective Organization, and Institutional Formation*) is a Chapter One principle. It does not replace the Chapter Six Rights Floor. Inside **§7.3** (*Assembly, Collective Organization, and Institutional Formation*), those articles still decide what the right is and how it may be limited:
-- **[Article XI-D](core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest)** (*Assembly, Dissent, and Peaceful Protest*) — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
-- **[Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)** (*Labor and Economic Floor*) — collective organization in productive and economic activity (unions, cooperatives, guilds, worker councils, and comparable forms used to shape the terms of work)
-- **[Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation)** (*Institutional Formation and Business Creation*) — [System Creation](core_05_band_participation.md#system-creation-constitutional) (forming and running non-commercial institutions) and [Business Creation](core_05_band_participation.md#business-creation-constitutional) (forming and running commercial enterprises)
-- **[Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights)** (*Stakeholder Role and Participation Rights*) and **[Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)** (*Stakeholder System Participation, Representation, and Due Process*) — stakeholder rights once a created institution or enterprise materially affects others
-
-**When the full definition cluster applies.** The anti-segmentation rule applies when [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [System Creation](core_05_band_participation.md#system-creation-constitutional), or [Business Creation](core_05_band_participation.md#business-creation-constitutional) is material in a way that makes those questions travel together.
-
-**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or institution-forming stake — use [Assembly](core_05_band_participation.md#assembly-constitutional) or [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) as an ordinary supporting definition. Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster, and do not apply the anti-segmentation package of **§7.3** (*Assembly, Collective Organization, and Institutional Formation*), just because one of those terms appears. Single-definition use is not a license to re-segment a jointly covered matter.
-
-**What this section does not change.** **§7.3** (*Assembly, Collective Organization, and Institutional Formation*) adds principle-layer anti-segmentation discipline and the [§7.3.1 Aligned Self-Organization](#731-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
-
-A matter inside that together-reading scope must not be segmented into separate civic-association, labor-organization, platform-access, or authorization framings in a way that preserves formal access while defeating assembly or collective-organization protection.
-
-Whole-system evaluations must test anti-segmentation under [Chapter Eight §3.5 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
-
-##### 7.3.1 Aligned Self-Organization
-<a id="731-aligned-self-organization"></a>
-
-*In plain terms: you may start legitimate work without a sponsor, and institutions must give credible work a real procedural path — but that path is not power to govern others, and it is not a final decision on the substance.*
-
-The freedom to assemble or create a system includes a real way to start work this Constitution treats as legitimate, without waiting for stewards already in charge to sponsor it. [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) is the operative home. This subsection applies that rule at the Freedom / assembly-and-formation layer.
-
-When that work is credible and materially relevant, institutions must give it a real procedural path:
-- receive it
-- preserve it where warranted
-- route it
-- give a reasoned response
-- have it reviewed by someone independent of those whose actions are being examined
-
-That path is not a grant of power. Starting, running, funding, publishing, or submitting the work does not, by itself:
-- give anyone the power to govern others, enforce against them, or coerce them
-- bind sentients who did not agree to a substantive outcome
-- decide standing, liability, entitlement, validity, a mandate, a remedy, a classification, or a rights restriction
-- count as a [Merits Determination](core_05_band_accountability.md#merits-determination) — a binding decision on the substance of the dispute
-
-Being received, routed, or answered is not approval of the authors' conclusions. Any governing or merits effect requires the separate lawful authority, evidence, fair process, review, and remedy this Constitution assigns. The full no-self-appointment rule lives in [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization).
-
-#### 7.4 Dissent and Peaceful Protest
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-*Rights-Floor home.* **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)** (*Assembly, Dissent, and Peaceful Protest*) states the operative dissent, peaceful protest, and civil disobedience floor. This subsection states the Freedom principle it implements.
-
-- [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
-- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
-- [Assembly](core_05_band_participation.md#assembly-constitutional) · [O](core_05_band_participation.md#assembly-constitutional) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
-- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-</details>
-
-<br>
-
-<a id="74-dissent-and-peaceful-protest"></a>
-
-*In plain terms: freedom includes the freedom to say no — to disagree with any authority, including this Constitution, and to protest peacefully to change it. A system that punishes disagreement is no longer contestable, and a system that cannot be contested cannot correct itself.*
-
-**Dissent is part of freedom.** [Meaningful Agency](core_05_band_participation.md#meaningful-agency) includes the ability to disagree with, object to, and organize against the decisions, institutions, and systems that shape a sentient's life. Bounded agency that could not reach the systems doing the bounding would not be meaningful.
-
-**Dissent keeps systems contestable.** The [**Continuity**](core_00_preamble.md#continuity) aim depends on constitutional systems that stay contestable. Dissent and peaceful protest are how contest reaches authority from outside formal process, and how errors that formal process has missed become visible. They serve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs.
-
-**Dissent is not subversion.** Disagreeing with this Constitution or with the authority acting under it, and advocating by peaceful and lawful means to amend it or to change who holds authority, is exercise of freedom. It is not the subversion of constitutional systems excluded from protected agency in [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency). Subversion requires force, coercion, usurpation, or making constitutional process or remedies unusable in practice.
-
-**Limiting dissent follows limitation discipline.** Dissent and peaceful protest may be limited only under [§7.1 Limitation Discipline](#71-limitation-discipline).
-- Disagreement, disruption, inconvenience, offense, unpopularity, or pressure on authority is not, by itself, **material harm** or **systemic risk**.
-- Limits must not turn on viewpoint, and the party limiting dissent bears the burden under **Chapter Four**.
-
-**Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)**.
-
-Whole-system evaluations must test this principle under [Chapter Eight §3.5.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest) before classification, governance, or compliance claims stand where it applies.
-
-**What this section does not change.** **§7.4** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor. It does not narrow **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*), and it does not protect separable conduct that independently breaches Safety or another sentient's Rights-Floor minimums.
-
-#### 7.5 Institutional Secularism and Worldview Neutrality
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-*Rights-Floor home.* **[Article XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)** (*Freedom of conscience, religion, and comparable worldview*) states the individual freedom this neutrality protects. This subsection states the principle that binds public authority. It also constrains [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) and the [documented legitimacy mechanism](core_05_band_integrative.md#documented-legitimacy-mechanism) under [Chapter Thirteen §1 Authorization and Legitimacy of Governing Authority](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority).
-
-- [Governance](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-- [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
-- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-
-
-</details>
-
-<br>
-
-<a id="75-institutional-secularism-and-worldview-neutrality"></a>
-
-*In plain terms: public authority under this Constitution belongs to no religion or worldview. Its right to govern and its rules rest on reasons anyone can examine, not on doctrine or revelation, and no one's rights depend on what they believe or don't believe. This limits government, not believers — sentients stay free to practice, express, and organize around religion or non-religion.*
-
-This Constitution and the public governance it constrains are secular in the institutional sense:
-
-- Legitimacy, interpretation, and binding public rules must not derive from religious doctrine or purported revelation.
-- No religion or comparable worldview may be established or preferred as a matter of public authority.
-- Baseline rights and access to constitutionally protected processes must not be conditioned on profession of belief, religious practice, or absence of belief.
-- A narrow exception exists only where unavoidable under **Chapter One** and **Chapter Five** (**Necessity** and **Proportionality**) and without invidious targeting.
-
-**Scope:** Institutional secularism governs public authority under **this Constitution**. It does not restrict private, associational, or civic expression of religion or non-religion. Apply it consistently with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article XI-F** (*Non-Imposition and Consent in Association*) where cooperative interaction applies. The individual freedom of conscience, religion, and comparable worldview is stated in **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Continuity Aim: Introduction

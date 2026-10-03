@@ -1335,7 +1335,7 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#73-assembly-collective-organization-and-institutional-formation), [§7.4 Dissent and Peaceful Protest](core_01_a_values_principles.md#74-dissent-and-peaceful-protest), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1376,7 +1376,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), and [Chapter One §7.5 Institutional Secularism and Worldview Neutrality](core_01_a_values_principles.md#75-institutional-secularism-and-worldview-neutrality).
+- Upstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), and [Chapter One §18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality).
 
 </details>
 
@@ -1397,7 +1397,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 This Article sets out the freedom of conscience, religion, and comparable worldview:
 
-- **Neutral public authority:** Public authority under this Constitution is secular and worldview-neutral under [Chapter One §7.5 Institutional Secularism and Worldview Neutrality](core_01_a_values_principles.md#75-institutional-secularism-and-worldview-neutrality). This Article states the individual freedom that neutrality protects.
+- **Neutral public authority:** Public authority under this Constitution is secular and worldview-neutral under [Chapter One §18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality). This Article states the individual freedom that neutrality protects.
 - **Freedom of conscience, religion, and comparable worldview:** All sentients have the right to:
   - hold, change, or abstain from religious or non-religious beliefs and worldviews;
   - manifest religion or belief in worship, observance, practice, and teaching, alone or in community;
@@ -1515,7 +1515,7 @@ This Article sets out heightened protection for journalistic activity and the cr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#73-assembly-collective-organization-and-institutional-formation), [§7.4 Dissent and Peaceful Protest](core_01_a_values_principles.md#74-dissent-and-peaceful-protest), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), and [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity).
+- Upstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), and [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity).
 - Downstream: **Article XI-F** (*Non-Imposition and Consent in Association*) consent in association, **Article III-C** (*Labor and Economic Floor*) strikes and collective work stoppage, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XIX** (*Standing and Participation Status*), and the dissent protections in **Chapters Eight, Nine, Eleven, and Thirteen**.
 - Read with: Chapter Five *Assembly*, [Chapter Five *Assembly, Collective Organization, and Institutional Formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (where materially implicated); **Article XI-B** (*Expression*).
 
@@ -1542,7 +1542,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
     - conducting meetings; and
     - coordinated action consistent with **Article XI-F** (*Non-Imposition and Consent in Association*).
   - Denial of assembly on substrate grounds, or via allocation or runtime-gating mechanisms functioning as denial-by-proxy, is non-compliant.
-- <a id="xi-d-dissent-and-peaceful-protest"></a>**Dissent and peaceful protest floor:** All sentients hold the right to dissent and to protest peacefully, alone or together, in physical spaces, in digital and networked spaces, and in shared compute and runtime environments. This floor implements [Chapter One §7.4 Dissent and Peaceful Protest](core_01_a_values_principles.md#74-dissent-and-peaceful-protest) as part of **Freedom (Bounded Agency)**.
+- <a id="xi-d-dissent-and-peaceful-protest"></a>**Dissent and peaceful protest floor:** All sentients hold the right to dissent and to protest peacefully, alone or together, in physical spaces, in digital and networked spaces, and in shared compute and runtime environments. This floor implements [Chapter One §7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) as part of **Freedom (Bounded Agency)**.
   - Dissent includes disagreeing with, criticizing, objecting to, organizing against, and campaigning to change any institution, authority, operator, steward, policy, decision, system, forum ruling, or this Constitution itself — including by advocating amendment under **Chapter Sixteen**.
   - Peaceful protest includes:
     - demonstrations, marches, vigils, and sit-ins;
@@ -1590,7 +1590,7 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), [§7.3 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#73-assembly-collective-organization-and-institutional-formation), [§16.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-institutional-development), and [§11 Market Structure](core_01_a_values_principles.md#11-market-structure).
+- Upstream: Principles: Chapter One [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), [§7.2 Assembly, Collective Organization, and Institutional Formation](core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation), [§16.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-institutional-development), and [§11 Market Structure](core_01_a_values_principles.md#11-market-structure).
 - Read with: Chapter Five [*Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster), including its [creation-rights limits](core_05_band_participation.md#creation-rights-limits); [**Article XI-D**](#article-xi-d-assembly-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*) for gathering and association; [**Article III-C**](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) for worker organizing; [**Article XI-F**](#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*).
 - Downstream: [**Article X-C**](#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [**Article XII**](#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*) once a created institution or enterprise materially affects others.
 

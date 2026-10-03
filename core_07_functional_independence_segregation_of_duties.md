@@ -9,7 +9,7 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Seven**: the cross-process floor for functional independence and segregation of duties. It follows the Chapter Six Rights Floor and precedes the constitutional process chapters beginning with [Chapter Eight system alignment certification](core_08_system_alignment_certification.md#chapter-eight-system-alignment-certification-index).
 >
 > - **Constitutional owner:** the distinct-seat floor for materially binding acts; the universal minimum contents of each [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_05_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; and the minimum independence conditions that every later constitutional process must apply.
-> - **Principle-layer source:** [Chapter One §18.2](core_01_c_stewardship_capacity_principles.md#182-segregation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
+> - **Principle-layer source:** [Chapter One §18.3](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
 > - **Implementation owner:** [CJS-3.11](corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation), [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes), and [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
 > - **Process-specific application remains downstream:** Chapter Eight applies this floor to system alignment certification; [Chapter Nine §3.7](core_09_standing_assessment.md#37-segregation-of-duties) applies it to standing records; Chapter Twelve and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
 >
@@ -73,7 +73,7 @@ This chapter states the cross-process segregation-of-duties floor. It does not r
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-scope-and-owner-boundary); [Chapter One §18.2](core_01_c_stewardship_capacity_principles.md#182-segregation-of-duties); [Chapter One §17.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+- Upstream: [§1](#1-purpose-scope-and-owner-boundary); [Chapter One §18.3](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties); [Chapter One §17.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 - Downstream: [§3](#3-independence-conflict-and-control-lines) through [§8](#8-relationship-to-later-processes); [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
 - Read with: [§5](#5-proportional-scaling-and-merged-hosting) for the only permitted merged-hosting path.
 

@@ -781,7 +781,7 @@ This Article sets out the floor for proportional understandability:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §18.4 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#184-modular-architecture-and-dependency-discipline), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -805,7 +805,7 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
   - dependency coupling;
   - failure modes;
   - the boundaries across which responsibility or observability is handed off.
-- **Modular architecture:** Critical systems **must** be structured so that their components, the responsibilities of each, and the dependencies between components can be identified and examined independently. Dependencies must be declared at interfaces, kept no broader than function requires, and mapped to the same boundaries that are audited. Responsibility and observability must be preserved across every internal boundary. Modular structure that conceals responsibility or defeats whole-system audit is anti-layering under the next bullet, and does not satisfy this requirement. Read with [§18.4 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#184-modular-architecture-and-dependency-discipline).
+- **Modular architecture:** Critical systems **must** be structured so that their components, the responsibilities of each, and the dependencies between components can be identified and examined independently. Dependencies must be declared at interfaces, kept no broader than function requires, and mapped to the same boundaries that are audited. Responsibility and observability must be preserved across every internal boundary. Modular structure that conceals responsibility or defeats whole-system audit is anti-layering under the next bullet, and does not satisfy this requirement. Read with [§18.5 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
 - **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction.
 - **Protocol alignment:** Evaluation must be consistent with:
   - **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***;

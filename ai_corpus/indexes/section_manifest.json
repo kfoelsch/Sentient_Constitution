@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-03T01:06:59+00:00",
+  "generated_at": "2026-10-03T01:23:29+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -120,13 +120,13 @@
       ]
     },
     "core_01_a_values_principles.md": {
-      "total_lines": 1911,
+      "total_lines": 1880,
       "sections": [
         {
           "header": "CHAPTER 01, PART A: VALUES PRINCIPLES",
           "level": 1,
           "line_start": 1,
-          "line_end": 1911,
+          "line_end": 1880,
           "anchor": null
         },
         {
@@ -336,7 +336,7 @@
           "header": "7. Freedom (Bounded Agency)",
           "level": 3,
           "line_start": 828,
-          "line_end": 1116,
+          "line_end": 1085,
           "anchor": "#7-freedom-bounded-agency"
         },
         {
@@ -347,157 +347,150 @@
           "anchor": "#71-limitation-discipline"
         },
         {
-          "header": "7.2 Voluntary Discontinuation and Exit Rights",
+          "header": "7.2 Assembly, Collective Organization, and Institutional Formation",
           "level": 4,
           "line_start": 938,
-          "line_end": 981,
+          "line_end": 1003,
           "anchor": null
         },
         {
-          "header": "7.3 Assembly, Collective Organization, and Institutional Formation",
-          "level": 4,
-          "line_start": 982,
-          "line_end": 1047,
-          "anchor": "#72-voluntary-discontinuation-and-exit-rights"
-        },
-        {
-          "header": "7.3.1 Aligned Self-Organization",
+          "header": "7.2.1 Aligned Self-Organization",
           "level": 5,
-          "line_start": 1026,
-          "line_end": 1047,
-          "anchor": "#73-assembly-collective-organization-and-institutional-formation"
+          "line_start": 982,
+          "line_end": 1003,
+          "anchor": "#72-assembly-collective-organization-and-institutional-formation"
         },
         {
-          "header": "7.4 Dissent and Peaceful Protest",
+          "header": "7.3 Dissent and Peaceful Protest",
           "level": 4,
-          "line_start": 1048,
-          "line_end": 1084,
+          "line_start": 1004,
+          "line_end": 1040,
           "anchor": null
         },
         {
-          "header": "7.5 Institutional Secularism and Worldview Neutrality",
+          "header": "7.4 Voluntary Discontinuation and Exit Rights",
           "level": 4,
-          "line_start": 1085,
-          "line_end": 1116,
-          "anchor": "#74-dissent-and-peaceful-protest"
+          "line_start": 1041,
+          "line_end": 1085,
+          "anchor": "#73-dissent-and-peaceful-protest"
         },
         {
           "header": "8. Continuity Aim: Introduction",
           "level": 3,
-          "line_start": 1117,
-          "line_end": 1189,
+          "line_start": 1086,
+          "line_end": 1158,
           "anchor": "#8-continuity-aim-introduction"
         },
         {
           "header": "9. Shared-System Capacity",
           "level": 3,
-          "line_start": 1190,
-          "line_end": 1378,
+          "line_start": 1159,
+          "line_end": 1347,
           "anchor": "#9-shared-system-capacity"
         },
         {
           "header": "9.1 Productive Capacity (Instrumental Good)",
           "level": 4,
-          "line_start": 1256,
-          "line_end": 1335,
+          "line_start": 1225,
+          "line_end": 1304,
           "anchor": "#91-productive-capacity-instrumental-good"
         },
         {
           "header": "9.1.1 Preserve, Expand, and What Does Not Count",
           "level": 5,
-          "line_start": 1292,
-          "line_end": 1335,
+          "line_start": 1261,
+          "line_end": 1304,
           "anchor": "#911-preserve-expand-and-what-does-not-count"
         },
         {
           "header": "9.2 Constitutional Efficiency",
           "level": 4,
-          "line_start": 1336,
-          "line_end": 1378,
+          "line_start": 1305,
+          "line_end": 1347,
           "anchor": "#92-constitutional-efficiency"
         },
         {
           "header": "10. Resilience and Self-Healing Design",
           "level": 3,
-          "line_start": 1379,
-          "line_end": 1420,
+          "line_start": 1348,
+          "line_end": 1389,
           "anchor": null
         },
         {
           "header": "11. Market Structure",
           "level": 3,
-          "line_start": 1421,
-          "line_end": 1849,
+          "line_start": 1390,
+          "line_end": 1818,
           "anchor": "#11-market-structure"
         },
         {
           "header": "11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
           "level": 4,
-          "line_start": 1468,
-          "line_end": 1559,
+          "line_start": 1437,
+          "line_end": 1528,
           "anchor": "#111-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "header": "11.1.1 Concentration Threshold Triggers (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1533,
-          "line_end": 1559,
+          "line_start": 1502,
+          "line_end": 1528,
           "anchor": "#1111-concentration-threshold-triggers-adopter-tunable"
         },
         {
           "header": "11.2 Pro-Competition and Anti-Domination",
           "level": 4,
-          "line_start": 1560,
-          "line_end": 1703,
+          "line_start": 1529,
+          "line_end": 1672,
           "anchor": "#112-pro-competition-and-anti-domination"
         },
         {
           "header": "11.2.1 Pro-Competition Duties (Dos)",
           "level": 5,
-          "line_start": 1596,
-          "line_end": 1631,
+          "line_start": 1565,
+          "line_end": 1600,
           "anchor": "#1121-pro-competition-duties-dos"
         },
         {
           "header": "11.2.2 Anti-Domination Prohibitions (Don'ts)",
           "level": 5,
-          "line_start": 1632,
-          "line_end": 1675,
+          "line_start": 1601,
+          "line_end": 1644,
           "anchor": "#1122-anti-domination-prohibitions-donts"
         },
         {
           "header": "11.2.3 Remedies",
           "level": 5,
-          "line_start": 1676,
-          "line_end": 1703,
+          "line_start": 1645,
+          "line_end": 1672,
           "anchor": "#1123-remedies"
         },
         {
           "header": "11.3 Consolidation Ceiling",
           "level": 4,
-          "line_start": 1704,
-          "line_end": 1849,
+          "line_start": 1673,
+          "line_end": 1818,
           "anchor": "#113-consolidation-ceiling"
         },
         {
           "header": "11.3.1 Consolidation Risk (Pre-Lock-In Impairment)",
           "level": 5,
-          "line_start": 1763,
-          "line_end": 1811,
+          "line_start": 1732,
+          "line_end": 1780,
           "anchor": "#1131-consolidation-risk-pre-lock-in-impairment"
         },
         {
           "header": "11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)",
           "level": 5,
-          "line_start": 1812,
-          "line_end": 1849,
+          "line_start": 1781,
+          "line_end": 1818,
           "anchor": "#1132-consolidation-ceiling-mechanism-adopter-tunable"
         },
         {
           "header": "12. Systemic Evaluation Requirement",
           "level": 3,
-          "line_start": 1850,
-          "line_end": 1911,
+          "line_start": 1819,
+          "line_end": 1880,
           "anchor": "#12-systemic-evaluation-requirement"
         }
       ]
@@ -697,13 +690,13 @@
       ]
     },
     "core_01_c_stewardship_capacity_principles.md": {
-      "total_lines": 1429,
+      "total_lines": 1460,
       "sections": [
         {
           "header": "CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE",
           "level": 1,
           "line_start": 4,
-          "line_end": 1429,
+          "line_end": 1460,
           "anchor": "#chapter-01-part-c-stewardship-and-governance"
         },
         {
@@ -780,168 +773,175 @@
           "header": "18. Governance Under Stewardship Discipline",
           "level": 3,
           "line_start": 571,
-          "line_end": 844,
+          "line_end": 875,
           "anchor": "#18-governance-under-stewardship-discipline"
         },
         {
           "header": "18.1 Governance as Authorized Structure",
           "level": 4,
           "line_start": 607,
-          "line_end": 660,
+          "line_end": 659,
           "anchor": "#181-governance-as-authorized-structure"
         },
         {
-          "header": "18.2 Segregation of Duties",
+          "header": "18.2 Institutional Secularism and Worldview Neutrality",
           "level": 4,
-          "line_start": 661,
-          "line_end": 694,
-          "anchor": "#182-segregation-of-duties"
+          "line_start": 660,
+          "line_end": 691,
+          "anchor": null
         },
         {
-          "header": "18.3 Ongoing Justification",
+          "header": "18.3 Segregation of Duties",
           "level": 4,
-          "line_start": 695,
-          "line_end": 739,
-          "anchor": "#183-ongoing-justification"
+          "line_start": 692,
+          "line_end": 725,
+          "anchor": "#183-segregation-of-duties"
         },
         {
-          "header": "18.4 Modular Architecture and Dependency Discipline",
+          "header": "18.4 Ongoing Justification",
           "level": 4,
-          "line_start": 740,
-          "line_end": 791,
-          "anchor": "#184-modular-architecture-and-dependency-discipline"
+          "line_start": 726,
+          "line_end": 770,
+          "anchor": "#184-ongoing-justification"
         },
         {
-          "header": "18.5 Standardization",
+          "header": "18.5 Modular Architecture and Dependency Discipline",
           "level": 4,
-          "line_start": 792,
-          "line_end": 844,
-          "anchor": "#185-standardization"
+          "line_start": 771,
+          "line_end": 822,
+          "anchor": "#185-modular-architecture-and-dependency-discipline"
+        },
+        {
+          "header": "18.6 Standardization",
+          "level": 4,
+          "line_start": 823,
+          "line_end": 875,
+          "anchor": "#186-standardization"
         },
         {
           "header": "19. Incentive Alignment and System Capture",
           "level": 3,
-          "line_start": 845,
-          "line_end": 1386,
+          "line_start": 876,
+          "line_end": 1417,
           "anchor": "#19-incentive-alignment-and-system-capture"
         },
         {
           "header": "19.1 Alignment Requirement",
           "level": 4,
-          "line_start": 896,
-          "line_end": 1015,
+          "line_start": 927,
+          "line_end": 1046,
           "anchor": "#191-alignment-requirement"
         },
         {
           "header": "19.1.1 What Incentives Must Do",
           "level": 5,
-          "line_start": 922,
-          "line_end": 936,
+          "line_start": 953,
+          "line_end": 967,
           "anchor": "#1911-what-incentives-must-do"
         },
         {
           "header": "19.1.2 What Incentives Must Not Do",
           "level": 5,
-          "line_start": 937,
-          "line_end": 958,
+          "line_start": 968,
+          "line_end": 989,
           "anchor": "#1912-what-incentives-must-not-do"
         },
         {
           "header": "19.1.3 Stewardship and Operator Application",
           "level": 5,
-          "line_start": 959,
-          "line_end": 967,
+          "line_start": 990,
+          "line_end": 998,
           "anchor": "#1913-stewardship-and-operator-application"
         },
         {
           "header": "19.1.4 Role-Depth and Material-Responsibility Pathways",
           "level": 5,
-          "line_start": 968,
-          "line_end": 992,
+          "line_start": 999,
+          "line_end": 1023,
           "anchor": "#1914-role-depth-and-material-responsibility-pathways"
         },
         {
           "header": "19.1.5 Constitutional Outcome Claims Discipline",
           "level": 5,
-          "line_start": 993,
-          "line_end": 1015,
+          "line_start": 1024,
+          "line_end": 1046,
           "anchor": "#1915-constitutional-outcome-claims-discipline"
         },
         {
           "header": "19.2 Convenient Proxies and Proxy Divergence",
           "level": 4,
-          "line_start": 1016,
-          "line_end": 1047,
+          "line_start": 1047,
+          "line_end": 1078,
           "anchor": "#192-convenient-proxies-and-proxy-divergence"
         },
         {
           "header": "19.3 Misalignment Detection",
           "level": 4,
-          "line_start": 1048,
-          "line_end": 1120,
+          "line_start": 1079,
+          "line_end": 1151,
           "anchor": "#193-misalignment-detection"
         },
         {
           "header": "19.3.1 Escalation Triggers",
           "level": 5,
-          "line_start": 1089,
-          "line_end": 1120,
+          "line_start": 1120,
+          "line_end": 1151,
           "anchor": "#1931-escalation-triggers"
         },
         {
           "header": "19.4 Misalignment Correction and Capture Response",
           "level": 4,
-          "line_start": 1121,
-          "line_end": 1173,
+          "line_start": 1152,
+          "line_end": 1204,
           "anchor": "#194-misalignment-correction-and-capture-response"
         },
         {
           "header": "19.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
           "level": 4,
-          "line_start": 1174,
-          "line_end": 1331,
+          "line_start": 1205,
+          "line_end": 1362,
           "anchor": "#195-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "19.5.1 What May Not Be Rewarded",
           "level": 5,
-          "line_start": 1226,
-          "line_end": 1247,
+          "line_start": 1257,
+          "line_end": 1278,
           "anchor": "#1951-what-may-not-be-rewarded"
         },
         {
           "header": "19.5.2 Who Decides Outcomes",
           "level": 5,
-          "line_start": 1248,
-          "line_end": 1274,
+          "line_start": 1279,
+          "line_end": 1305,
           "anchor": "#1952-who-decides-outcomes"
         },
         {
           "header": "19.5.3 Market Signals Are Not Constitutional Proof",
           "level": 5,
-          "line_start": 1275,
-          "line_end": 1296,
+          "line_start": 1306,
+          "line_end": 1327,
           "anchor": "#1953-market-signals-are-not-constitutional-proof"
         },
         {
           "header": "19.5.4 Proportionate Controls and Implementation Custody",
           "level": 5,
-          "line_start": 1297,
-          "line_end": 1331,
+          "line_start": 1328,
+          "line_end": 1362,
           "anchor": "#1954-proportionate-controls-and-implementation-custody"
         },
         {
           "header": "19.6 Successor Responsibility and Formal-Structure Non-Escape",
           "level": 4,
-          "line_start": 1332,
-          "line_end": 1386,
+          "line_start": 1363,
+          "line_end": 1417,
           "anchor": "#196-successor-responsibility-and-formal-structure-non-escape"
         },
         {
           "header": "20. Integrated Application",
           "level": 3,
-          "line_start": 1387,
-          "line_end": 1429,
+          "line_start": 1418,
+          "line_end": 1460,
           "anchor": "#20-integrated-application"
         }
       ]

@@ -64,7 +64,7 @@ Confidence: 42 high, 22 medium, 3 low.
 3. **Process is the most entangled object.** 13 of 20 Process items (65%) name a second object. System and Institution are about half single-object each (8 of 16 and 10 of 19). System items cluster in Chapter One Part C (capture, capacity, market structure).
 4. **Chapter One already roughly sorts this way.** Part B is mostly Process plus the interpretation rules. Part C is mostly System and Institution. Part A is mostly values that bind every object, plus six Process items (2.3, 3.3, 3.4, 4.2, 5.1, 5.2).
 5. **The values and the object-specific principles are different kinds of thing.** Eight items are values that bind every object. They are what the object-specific principles serve, and no object owns them. For the reorganizing task, that is a more useful split than any of the three objects.
-6. **Process principles are scattered.** Ten Process items sit outside Part B: six in Part A and four in Part C (§§10.3, 10.5, 11.2, 12.3). §18.2 Segregation of Duties is the clearest case. It is a Chapter One principle whose home chapter, Chapter Seven, is itself a Process floor.
+6. **Process principles are scattered.** Ten Process items sit outside Part B: six in Part A and four in Part C (§§10.3, 10.5, 11.2, 12.3). §18.3 Segregation of Duties is the clearest case. It is a Chapter One principle whose home chapter, Chapter Seven, is itself a Process floor.
 
 ## What this does and does not support
 

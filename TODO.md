@@ -53,7 +53,7 @@ Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editin
 - §3.2 Recognition, Reinforcement, and Aspiration: Wellbeing, Participation, Substantive Fairness, Contestability, Meaningful Agency, Incentive Alignment.
 - §3.3 Anti-Degrading Process: Cruelty (the section names it as the Chapter Five home), Dignity and Equal Moral Standing, Harm, Proportionality, Contestability.
 - §3.3 Science-Informed Inquiry: Epistemic Integrity, Truth (Constitutional Constraint), Risk, Foreseeability, Materiality, Classification-Scaled Governance.
-- §7.4 Dissent and Peaceful Protest: Assembly, Freedom (Bounded Agency), Meaningful Agency, Necessity, Proportionality (owner floor: Article XI-D).
+- §7.3 Dissent and Peaceful Protest: Assembly, Freedom (Bounded Agency), Meaningful Agency, Necessity, Proportionality (owner floor: Article XI-D).
 - §5.5 Institutional Secularism: Governance, Protected Characteristics, Non-Imposition (Cooperative Interaction), Necessity, Proportionality (Article XI-A).
 - §14 Prohibition on Absolute Override: Necessity, Proportionality, Harm Minimization (Tradeoff Selection), Materiality, Proxy Divergence.
 - §16.2 Institutional Development: Strategic Stewardship Obligation, Auditability, Verifiability, Materiality.
@@ -61,8 +61,8 @@ Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editin
 - §17.2 Alignment Under Pressure: Stewardship, Incentive Alignment, Safety, Truth, Auditability, Contestability.
 - §17.3 Logging the Role, Not the Steward: Attributable Action, Auditability, Surveillance Boundary, Protected Internal-State Boundary.
 - §17.4 Aligned Self-Organization: System Creation, Protected Reporting, Evidence Preservation, Foreseeability, Merits Determination, Necessity, Proportionality.
-- §18.2 Segregation of Duties: Oversight, Accountability, Auditability, Contestability, Stewardship, Proportionality; the four seats are defined under Materially Binding Act and its cluster (Initiating Seat, Contest Seat, and the rest).
-- §18.3 Ongoing Justification: Review and Correction Duty, Governance, Oversight, Accountability, Contestability, Timeliness, Transparency.
+- §18.3 Segregation of Duties: Oversight, Accountability, Auditability, Contestability, Stewardship, Proportionality; the four seats are defined under Materially Binding Act and its cluster (Initiating Seat, Contest Seat, and the rest).
+- §18.4 Ongoing Justification: Review and Correction Duty, Governance, Oversight, Accountability, Contestability, Timeliness, Transparency.
 - §12.6 Successor Responsibility: Accountability, Attributable Action, Attribution Integrity, Necessity, Proportionality.
 - §11.2 Pro-Competition and Anti-Domination and §11.3 Consolidation Ceiling: Market Structure, Market Concentration Threshold, Systemic Lock-In, Dependency, Contestability, Governance, Stewardship (operational homes: CJS-3.11.1 to 3.11.3).
 - §20 Integrated Application: Authority Stack and Internal Hierarchy, Corpus, Governance, Accountability, Anti-Capture, System Capture, and others.
@@ -200,3 +200,5 @@ Keep this active file limited to editor checks, current open work, and short arc
 - 2026-10-02: Added "distinct from each other and meaningful options" to Chapter Five Meaningful Agency and Consent (gloss, assessment, failure lists, topic-group line). Translations and Chapter Six consent articles not checked for the same wording.
 
 - 2026-10-03: Replaced "reasonably effective/well" in the Necessity test and the safer-alternative tests (Ch5 Necessity, Ch1 §7/§7.1/§13.1, core_05_band_oversight, core_06_rights_part_a) with purpose-based wording. Added `avoid-reasonably-well` to lexical-vocabulary-audit (now passes with no findings). Also banned "reasonably effective" (rule `avoid-reasonably-well-or-effective`).
+
+- 2026-10-02: Chapter One §7 reordered (7.1 Limitation Discipline; 7.2 Assembly; 7.3 Dissent; 7.4 Voluntary Discontinuation and Exit Rights). Institutional Secularism moved from §7.5 to §18.2; old 18.2–18.5 are now 18.3–18.6. Optional: Dissent before Assembly was not done. Translations still use old numbering. Bare untitled "§N" Chapter One cites are unchecked by any audit.

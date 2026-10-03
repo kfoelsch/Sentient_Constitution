@@ -11,9 +11,9 @@ Coverage: **639** of **902** headings carry a gloss (71%).
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
-- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (38/54 glossed)
+- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (37/53 glossed)
 - [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/27 glossed)
-- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (28/35 glossed)
+- [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (29/36 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/15 glossed)
 - [CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION](#chapter-four-burden-of-proof-traceability-and-verification) — `core_04_burden_traceability_verification.md` (7/7 glossed)
@@ -147,7 +147,7 @@ four adopted corpora (joint structure, systems, institutions, and forum operatio
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 
-Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 38/54 headings glossed
+Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 37/53 headings glossed
 
 #### 1. Purpose and Role
 
@@ -335,35 +335,29 @@ freedom is bounded, not disposable. Do not restrict someone's freedom unless you
 
 [Source](../../core_01_a_values_principles.md#71-limitation-discipline)
 
-##### 7.2 Voluntary Discontinuation and Exit Rights
-
-life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency comes first; consent is agreement under that agency — and both fail if coercion or dependency pressure is doing the real decision-making.
-
-[Source](../../core_01_a_values_principles.md#72-voluntary-discontinuation-and-exit-rights)
-
-##### 7.3 Assembly, Collective Organization, and Institutional Formation
+##### 7.2 Assembly, Collective Organization, and Institutional Formation
 
 you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article XI-D still owns assembly, and Article III-C still owns labor organizing.
 
-[Source](../../core_01_a_values_principles.md#73-assembly-collective-organization-and-institutional-formation)
+[Source](../../core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)
 
-###### 7.3.1 Aligned Self-Organization
+###### 7.2.1 Aligned Self-Organization
 
 you may start legitimate work without a sponsor, and institutions must give credible work a real procedural path — but that path is not power to govern others, and it is not a final decision on the substance.
 
-[Source](../../core_01_a_values_principles.md#731-aligned-self-organization)
+[Source](../../core_01_a_values_principles.md#721-aligned-self-organization)
 
-##### 7.4 Dissent and Peaceful Protest
+##### 7.3 Dissent and Peaceful Protest
 
 freedom includes the freedom to say no — to disagree with any authority, including this Constitution, and to protest peacefully to change it. A system that punishes disagreement is no longer contestable, and a system that cannot be contested cannot correct itself.
 
-[Source](../../core_01_a_values_principles.md#74-dissent-and-peaceful-protest)
+[Source](../../core_01_a_values_principles.md#73-dissent-and-peaceful-protest)
 
-##### 7.5 Institutional Secularism and Worldview Neutrality
+##### 7.4 Voluntary Discontinuation and Exit Rights
 
-public authority under this Constitution belongs to no religion or worldview. Its right to govern and its rules rest on reasons anyone can examine, not on doctrine or revelation, and no one's rights depend on what they believe or don't believe. This limits government, not believers — sentients stay free to practice, express, and organize around religion or non-religion.
+life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency comes first; consent is agreement under that agency — and both fail if coercion or dependency pressure is doing the real decision-making.
 
-[Source](../../core_01_a_values_principles.md#75-institutional-secularism-and-worldview-neutrality)
+[Source](../../core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights)
 
 #### 8. Continuity Aim: Introduction
 
@@ -629,7 +623,7 @@ when one situation touches more than one incorporated how-to file — or when yo
 
 ## CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE
 
-Source file: [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) · 28/35 headings glossed
+Source file: [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) · 29/36 headings glossed
 
 #### 16. Stewardship In Depth
 
@@ -703,29 +697,35 @@ governance is the rulebook for power — who may decide what, through which stru
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure)
 
-##### 18.2 Segregation of Duties
+##### 18.2 Institutional Secularism and Worldview Neutrality
+
+public authority under this Constitution belongs to no religion or worldview. Its right to govern and its rules rest on reasons anyone can examine, not on doctrine or revelation, and no one's rights depend on what they believe or don't believe. This limits government, not believers — sentients stay free to practice, express, and organize around religion or non-religion.
+
+[Source](../../core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)
+
+##### 18.3 Segregation of Duties
 
 governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Seven supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#182-segregation-of-duties)
+[Source](../../core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties)
 
-##### 18.3 Ongoing Justification
+##### 18.4 Ongoing Justification
 
 arrangements cannot coast forever on "we've always done it this way." Important rules for who decides, who has a voice, how influence is weighted, how money is allocated, and how institutions are designed have to keep proving they still fit this Constitution — on a schedule others can see and challenge.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#183-ongoing-justification)
+[Source](../../core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)
 
-##### 18.4 Modular Architecture and Dependency Discipline
+##### 18.5 Modular Architecture and Dependency Discipline
 
 build systems in parts that have clear jobs, clear connections, and visible reliance on each other, so that anyone with a stake can see what depends on what, point to who is responsible for each piece, check one piece without having to take the whole thing on faith, and replace or repair a piece without everything else breaking. Modularity is a way to make complexity understandable and accountable. It is not a way to hide it behind boundaries.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#184-modular-architecture-and-dependency-discipline)
+[Source](../../core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)
 
-##### 18.5 Standardization
+##### 18.6 Standardization
 
 when in doubt, standardize. If there is no good reason to do something differently, do it the common, published way. Sameness needs no excuse; a difference does. But a standard has to be open, checkable, and changeable, and it standardizes how things are done, never what sentients may choose to do.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#185-standardization)
+[Source](../../core_01_c_stewardship_capacity_principles.md#186-standardization)
 
 #### 19. Incentive Alignment and System Capture
 
