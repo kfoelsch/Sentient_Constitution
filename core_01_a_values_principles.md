@@ -1209,11 +1209,11 @@ flowchart TB
 
 <br>
 
-Flourishing names the outcome; this section opens the Continuity block by asking what keeps that outcome durable in practice: challengeable shared-system capacity. Any claim about that capacity is made honestly: it is checked against what the whole system actually does over time, as [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) requires. It straddles the two aims, serving **Flourishing** as a means and constituting **Continuity** as its substance.
+*In plain terms: shared systems should keep working for sentients over the long run. Sentients should be able to do useful work, make life better over time, and speak up when something is wrong, without a few powerful players locking everyone else out. That lasting ability is **Shared-System Capacity**. **[§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good)** asks whether sentients get real results. **[§9.2 Constitutional Efficiency](#92-constitutional-efficiency)** asks whether those results come without wasting anyone's time, money, and attention. None of it counts if the gains come from hoarding wealth or power, faking the numbers, stripping rights, or pushing harm onto others or the planet; **[§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count)** spells that out. **[§11 Market Structure](#11-market-structure)** keeps a handful of players from taking over.*
 
-*In plain terms: when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count)**. **[§9.2 Constitutional Efficiency](#92-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§11 Market Structure](#11-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.*
+Flourishing is the goal: sentient lives going well. This section opens the Continuity half of the chapter by asking what keeps that going over the long run. The answer is shared systems that keep doing real work and that sentients can still question and push back on. Claims about that ability have to be honest. They are checked against what the whole system actually does over time, as [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) requires.
 
-**[Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional)** is what [Stewardship](core_05_band_continuity.md#stewardship-constitutional) and [Governance](core_05_band_accountability.md#governance) should produce together over time: lasting, challengeable ability for sentients and shared systems to achieve what this Constitution requires. It straddles the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims): it is a **means** toward the **Flourishing** aim and the substance of the **Continuity** aim — not a trump card that overrides safety, truth, rights, or ecology.
+**[Shared-System Capacity](core_05_band_continuity.md#shared-system-capacity-constitutional)** is what good [Stewardship](core_05_band_continuity.md#stewardship-constitutional) and [Governance](core_05_band_accountability.md#governance) should add up to over time: the lasting ability of sentients and shared systems to get done what this Constitution requires, while staying open to challenge. It is a **means** to the **Flourishing** aim, and it is the core of the **Continuity** aim. But it is never a reason to override safety, truth, rights, or ecology.
 
 That capacity has several aspects working together:
 - **[Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional)** — can sentients participate, contribute, and get real results? ([§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good))
@@ -1303,19 +1303,23 @@ Systems must preserve productive capacity and, where feasible, expand it when do
     - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional);
     - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional); and
     - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional).
-  - Chapter One's non-negotiable substantive-constraint discipline.
+  - the hard limits in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](#21-non-negotiable-principle-constraints-safety-and-truth): Safety and Truth are never traded away for any other goal.
 - **How it is judged:** traced outcomes under **Chapters Four and Five**.
 - **How it is shown:** evidence, not slogans.
 
 Productive capacity does not count — and must not be used to justify:
 
-- concentrating wealth, power, control, or opportunity in ways that harm other sentients' wellbeing, agency, dignity, or ecological conditions — now or later;
-- degrading life-supporting natural systems, or pushing ecological or intergenerational costs onto others without mitigation, disclosure, and representation;
-- raw throughput, output volume, utilization, headcount, revenue, asset growth, market share, or similar proxies that no longer track real outcomes — including proxies that show "growth" while harm is exported to sentients, future generations, or the environment;
-- narrowing or delaying Chapter Six Rights Floors, including ecological preconditions under [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
-- bypassing [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), including the [§13.1 decision-record discipline](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test);
-- weakening audit, contestability, or retrospective-review duties; or
-- the other prohibited override paths in [§14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), including shifting ecological, intergenerational, or distributional harm off the books that **Chapters Two through Four** require stay visible.
+- **Concentrating power or pushing costs onto others:**
+  - concentrating wealth, power, control, or opportunity in ways that harm other sentients' wellbeing, agency, dignity, or ecological conditions — now or later;
+  - degrading life-supporting natural systems, or pushing ecological or intergenerational costs onto others without mitigation, disclosure, and representation;
+- **Counting the wrong things:**
+  - raw throughput, output volume, utilization, headcount, revenue, asset growth, market share, or similar proxies that no longer track real outcomes — including proxies that show "growth" while harm is exported to sentients, future generations, or the environment;
+- **Weakening protections:**
+  - narrowing or delaying Chapter Six Rights Floors, including ecological preconditions under [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
+  - weakening audit, contestability, or retrospective-review duties;
+- **Bypassing the rules for weighing principles:**
+  - bypassing [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), including the [§13.1 decision-record discipline](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test); or
+  - the other prohibited override paths in [§14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), including shifting ecological, intergenerational, or distributional harm off the books that **Chapters Two through Four** require stay visible.
 
 Where productive-capacity claims rest on metrics that no longer prove real outcomes — including metrics that hide ecological damage, future harm, or concentration-driven loss — [§13.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation) applies.
 
@@ -1343,7 +1347,7 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
 - utilization targets;
 - revenue growth;
 - market share;
-- headcount cuts; or
+- headcount; or
 - cost-cutting for its own sake.
 
 **When an efficiency claim counts:**
@@ -1413,9 +1417,9 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§9 Shared-System Capacity](#9-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [18. Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: [Chapter Eleven §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (concentration-based subversion); [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution) ([§13.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
-- Downstream: **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** ([§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) rules for applying it); **CJS-3.11.2 — Anti-domination conduct and remediation catalog** ([§11.2](#112-pro-competition-and-anti-domination) the banned conduct and its remedies); **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** ([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) how to set the ceiling).
+- Downstream: **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** ([§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) and [§11.4](#114-resource-and-dependency-concentration-adopter-tunable) rules for applying it); **CJS-3.11.2 — Anti-domination conduct and remediation catalog** ([§11.2](#112-pro-competition-and-anti-domination) the banned conduct and its remedies); **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** ([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) how to set the ceiling).
 - Downstream: Shapes the rights surface for resource allocation, fair compensation, collective organization, interoperability, exit, and anti-capture review; especially [Article III-C: Labor and Economic Floor](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), and [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
-- Subsections (reading order): [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable) · [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable) · [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination) · [§11.3 Consolidation Ceiling](#113-consolidation-ceiling).
+- Subsections (reading order): [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable) · [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable) · [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination) · [§11.3 Consolidation Ceiling](#113-consolidation-ceiling) · [§11.4 Resource and Dependency Concentration (Adopter-Tunable)](#114-resource-and-dependency-concentration-adopter-tunable).
 
 </details>
 
@@ -1433,7 +1437,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§14.1–§14.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.*
+*In plain terms: sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§11.1–§11.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in. **§11.4** (*Resource and Dependency Concentration*) applies the same thresholds to shared resources and dependencies.*
 
 **[Market Structure](core_05_band_accountability.md#market-structure-constitutional)** governs whether sentients and shared systems can take part in productive life in ways that stay open to choice, competition, and pushback. Where [material stake](core_00_preamble.md#material-stake) requires, that includes:
 - commercial exchange;
@@ -1482,7 +1486,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) floor.
 - **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
 - **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Eleven §5.1 Concentration-based subversion](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration above the floor:** is reached through Chapter Eleven criteria 3, 4, and 6 for designation review, and only where [Chapter Nine §4 Question 2 — how good or bad was it?](core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) has already rated that verified harm as one of the three most serious scores Chapter Nine records.
+- **Creating, maintaining, or exploiting concentration above the floor:** this can go to Chapter Eleven for misconduct designation review, but only in two steps. First, [Chapter Nine §4 Question 2 — how good or bad was it?](core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Eleven checks whether the concentration meets criterion 3 (a workaround that rolls back protections), criterion 4 (damage to Rights Floor protections or blocked challenges), or criterion 6 (constitutional process made unusable in practice).
 
 **Constitutional floor:**
 
@@ -1498,23 +1502,11 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - dignity; or
   - ecological integrity.
 - **What it is not:** a single fixed number — it is the minimum bar.
-- **What also conflicts:** the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), where concentration predictably defeats:
-  - voice;
-  - scrutiny;
-  - answerability; or
-  - timely correction.
-
-**[Article V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*):**
-
-- **Resource rights:** stay intact.
-- **What it sets:** the baseline **Rights Floor** for how resources are shared:
-  - who gets them;
-  - who depends on what; and
-  - how ecosystems are funded.
-- **What this subsection adds:** concentration-threshold direction at the principles level only.
-- **What it does not do:** weaken, replace, or narrow Article V.
-
-This provision states the concentration-threshold mechanism at principle layer. It does not create a new Rights-Floor and does not narrow any existing Chapter Six floor. The non-concentration discipline in [§11 Market Structure](#11-market-structure) remains controlling.
+- **What else it conflicts with:** the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Concentration conflicts with both wherever it predictably defeats one of the Tetrad's four duties:
+  - voice (participation);
+  - scrutiny (oversight);
+  - answerability (accountability); or
+  - timely correction (timeliness).
 
 <a id="1111-concentration-threshold-triggers-adopter-tunable"></a>
 ##### 11.1.1 Concentration Threshold Triggers (Adopter-Tunable)
@@ -1586,11 +1578,11 @@ Operative threshold-setting discipline — floor preservation, substance-over-fo
 
 Shared-system capacity must stay contestable in practice. Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), domination that hollows **participation**, **oversight**, **accountability**, or **timeliness** — scaled to [material stake](core_00_preamble.md#material-stake) — is incompatible with this section, whatever the scale or efficiency claim.
 
-Where sentients depend on markets, platforms, infrastructure, labor arrangements, resource flows, data access, compute access, credentials, or comparable productive conditions for livelihood, agency, wellbeing, or constitutional review, governing systems and market-structuring arrangements must preserve:
-- contestable participation;
-- meaningful substitutability and exit;
-- fair entry and re-entry pathways;
-- interoperability and portability where material to exit or competition;
+Where sentients depend on markets, platforms, infrastructure, labor arrangements, resource flows, data access, compute access, credentials, or comparable productive conditions for livelihood, agency, or wellbeing, governing systems and market-structuring arrangements must preserve:
+- contestable participation, meaning sentients can take part and can challenge the decisions and terms that affect them;
+- meaningful substitutability and exit, meaning a viable alternative exists and sentients can switch or leave without unreasonable cost, delay, or loss of what they need;
+- fair entry and re-entry, meaning newcomers can get in, and those who left can come back, on fair terms;
+- interoperability and portability where material to exit or competition, meaning systems can connect to alternatives and sentients can take their data and identity with them;
 - non-coercive bargaining for workers, suppliers, users, dependent participants, and affected stakeholders;
 - reviewable access to essential or high-dependency infrastructure where denial would defeat Chapter Six protections, audit, redress, or meaningful agency.
 
@@ -1720,11 +1712,13 @@ Consolidation that predictably impairs contestability before lock-in is obvious 
 - [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination).
 
 Adopters and governing systems must detect consolidation pile-ups of the following kinds:
-- horizontal (*fewer rivals at the same layer*);
-- vertical (*control across layers that creates chokepoints and lock-in*);
-- cross-domain (*federated, shell, or split-domain forms that keep the same pile-up of control*).
+- **Horizontal consolidation** (*same-layer rival reduction*). Consolidation that reduces alternatives, rivalry, or bargaining power within a single layer or market — for example fewer contestable sellers or service providers, labor-market monopsony, serial or killer acquisitions that remove potential competition, or buyer-power concentration that forecloses rivals while headline prices stay stable.
+- **Vertical consolidation** (*cross-layer dependency and chokepoint control*). Consolidation that links control across layers of a value chain, platform stack, or dependency chain — for example input or interface capture, capital-access gatekeeping, interoperability or portability suppression, self-preferencing, or ranking control that raises switching costs and defeats exit.
+- **Cross-domain and federated structures** (*forms that keep the same pile-up of control*). Arrangements across domains, platforms, shells, successors, or federated forms that preserve effective consolidation while clearing nominal horizontal or vertical tests.
 
-while the following can still restore contestability:
+Any of these patterns may involve dependency density, switching costs, lock-in, substitute foreclosure, or ecological burden concentration or control over environmental preconditions where materially relevant.
+
+They must detect these early, while the following can still restore contestability:
 - review;
 - intervention;
 - structural remedy.
@@ -1772,12 +1766,9 @@ Review must not wait until any of the following is already locked down:
 - infrastructure dependency(ies).
 
 The principal risk patterns are:
-
-- **Horizontal consolidation** (*same-layer rival reduction*). Consolidation that reduces alternatives, rivalry, or bargaining power within a single layer or market — for example fewer contestable sellers or service providers, labor-market monopsony, serial or killer acquisitions that remove potential competition, or buyer-power concentration that forecloses rivals while headline prices stay stable.
-- **Vertical consolidation** (*cross-layer dependency and chokepoint control*). Consolidation that links control across layers of a value chain, platform stack, or dependency chain — for example input or interface capture, capital-access gatekeeping, interoperability or portability suppression, self-preferencing, or ranking control that raises switching costs and defeats exit.
-- **Cross-domain and federated structures:** Arrangements across domains, platforms, shells, successors, or federated forms that preserve effective consolidation while clearing nominal horizontal or vertical tests.
-
-Any of these patterns may involve dependency density, switching costs, lock-in, substitute foreclosure, or ecological burden concentration or control over environmental preconditions where materially relevant.
+- horizontal (*fewer rivals at the same layer*);
+- vertical (*control across layers that creates chokepoints and lock-in*);
+- cross-domain (*federated, shell, or split-domain forms that keep the same pile-up of control*).
 
 Ceiling evaluation judges:
 - substantive control;
@@ -1832,6 +1823,54 @@ where consolidation can materially affect:
 - constitutional accountability.
 
 Operative ceiling-setting discipline — horizontal and vertical trigger design, crossing presumption, rebuttal, anti-nullification, and remedy routing — lives in **CJS-3.11.3 — Consolidation ceiling-setting discipline (adopter-tunable)**.
+
+<a id="114-resource-and-dependency-concentration-adopter-tunable"></a>
+#### 11.4 Resource and Dependency Concentration (Adopter-Tunable)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** (maps and records of who relies on whom and where resources flow), **accountability** (answerability for hidden extraction and unfixed imbalance), **participation** (the right to challenge how resources are divided), and **timeliness** (acting before dependency is locked in); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim (shared infrastructure stays funded and durable); **Flourishing** aim (fair access, with no one stuck in a one-sided dependency).
+- Upstream: [§11 Market Structure](#11-market-structure); [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable); [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
+- Downstream: [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (the Rights Floor this subsection leaves intact), [Article V-A: Dependency Mapping and Resource-Flow Transparency](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency), and [Article V-B: Cross-System Fairness and Sustainability](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability); [CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (operative threshold-setting rules); [CS-9](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [CS-8](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) · [O](core_05_band_continuity.md#cross-system-extraction) · [M](core_05_band_continuity.md#cross-system-extraction-a) · [A](core_05_band_continuity.md#cross-system-extraction-a) · [C](core_05_band_continuity.md#cross-system-extraction-c)
+- [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
+
+</details>
+
+<br>
+
+*In plain terms: shared infrastructure, such as networks, open tools, public services, data, and computing power, is where a few players can quietly end up controlling who gets resources, who has to depend on whom, and who pays to keep it running. Adopters must set clear limits for that kind of concentration and act when a limit is crossed or about to be. The limits can differ by context, but they cannot be set so loose that they never matter. [Article V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) and its protections for sharing resources stay exactly as they are.*
+
+Concentration is easy to miss in shared infrastructure. A few systems can come to control how resources are allocated, how many others rely on them with no real alternative, and who pays to keep the infrastructure going. [Article V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) sets the Rights Floor for sharing resources. This subsection applies the [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable) concentration thresholds to that ground. Operative threshold-setting rules live in **CJS-3.11.1** (*Market concentration threshold-setting discipline*); the detail on resource maps, flows, allocation, and ecosystem funding lives in [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) and [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md).
+
+**What adopters must set:**
+
+Adopters must define [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) indicators for resource allocation, dependencies, and ecosystem funding, and act when a threshold is crossed or credibly approached. The indicators must cover:
+- lasting control over how shared resources are allocated;
+- dependency concentration, meaning how many sentients or systems rely on one provider or foundation with no real alternative;
+- gatekeeping of the interfaces and access points to shared infrastructure; and
+- concentrated control over how ecosystems are funded and who benefits.
+
+**How adopters must set them:**
+
+- **From real flows:** base the levels on the dependency maps and resource-flow records that [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) requires, not on operator labels or one-off transfers.
+- **By context:** levels may differ by domain, population size, and dependency density, as in [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
+- **Under the same discipline:** the floor-preservation, substance-over-form, anti-nullification, and heightened-scrutiny rules of **CJS-3.11.1 — Market concentration threshold-setting discipline (adopter-tunable)** apply in full. No level may be set so high that it never bites, and concentration hidden behind shell, federated, or split-up structures still counts.
+- **In the open:** the levels, and the reasons for them, must be written down and open to challenge, in line with [Article V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), which requires resource flows to be visible, checkable, and open to challenge.
+
+**When a level is crossed:**
+
+Crossing a level calls for heightened review and mitigation under [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable). It is not, by itself, a finding of misconduct ([§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable)). Where the same arrangement also falls short of [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) or [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability), both apply: concentration scrutiny is added on top of Article V and does not replace it.
 
 <a id="12-systemic-evaluation-requirement"></a>
 ### 12. Systemic Evaluation Requirement

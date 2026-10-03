@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-03T02:12:39+00:00",
+  "generated_at": "2026-10-03T07:06:22+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -736,7 +736,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 119,
+            "count": 121,
             "anchors": [
               "#2-measurements-overview",
               "#constitutional-tetrad",
@@ -856,7 +856,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 231,
+            "count": 238,
             "anchors": [
               "#collective-harm-boundary",
               "#collective-harm-boundary-and-harm-cluster",
@@ -903,6 +903,7 @@
               "#remedy-system-constitutional",
               "#remedy-system-constitutional-a",
               "#remedy-system-constitutional-c",
+              "#subversion",
               "#timely-resolution-constitutional",
               "#timely-resolution-constitutional-a",
               "#timely-resolution-constitutional-c"
@@ -910,7 +911,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 327,
+            "count": 342,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -921,6 +922,9 @@
               "#constitutional-efficiency",
               "#constitutional-efficiency-a",
               "#constitutional-efficiency-c",
+              "#cross-system-extraction",
+              "#cross-system-extraction-a",
+              "#cross-system-extraction-c",
               "#dependency",
               "#dependency-a",
               "#dependency-c",
@@ -936,6 +940,9 @@
               "#productive-capacity-constitutional",
               "#productive-capacity-constitutional-a",
               "#productive-capacity-constitutional-c",
+              "#proportionate-cross-system-support-constitutional",
+              "#proportionate-cross-system-support-constitutional-a",
+              "#proportionate-cross-system-support-constitutional-c",
               "#reversibility-constitutional",
               "#reversibility-constitutional-a",
               "#reversibility-constitutional-c",
@@ -1077,13 +1084,15 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 24,
+            "count": 32,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-iii-c-labor-and-economic-floor",
               "#article-iii-survival-and-essential-access",
               "#article-iv-a-equal-educational-access",
               "#article-iv-right-to-sentient-centered-education",
+              "#article-v-a-dependency-mapping-and-resource-flow-transparency",
+              "#article-v-b-cross-system-fairness-and-sustainability",
               "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
               "#chapter-six-foundational-rights"
             ]
@@ -1147,7 +1156,7 @@
             "count": 10,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#34-voluntary-discontinuation-and-exit-rights",
+              "#34-voluntary-discontinuation-major-self-modification-and-exit-rights",
               "#35-assembly-collective-organization-and-institutional-formation",
               "#351-dissent-and-peaceful-protest",
               "#36-time-consistency-constraint",
@@ -1211,7 +1220,7 @@
           },
           {
             "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
               "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
@@ -1226,6 +1235,16 @@
           {
             "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
             "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+            "count": 2,
             "anchors": []
           }
         ]
@@ -2502,7 +2521,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 85,
+            "count": 86,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#anti-constitutional-misconduct-review",
@@ -2572,6 +2591,7 @@
               "#standing-record-chapter-six",
               "#standing-state-contribution-and-violation-cluster",
               "#stay",
+              "#subversion",
               "#sustained-high-gravity-pattern",
               "#timely-resolution-constitutional",
               "#unified-incident",
@@ -3431,7 +3451,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 41,
+            "count": 44,
             "anchors": [
               "#11-market-structure",
               "#111-market-concentration-threshold-mechanism-adopter-tunable",
@@ -3443,6 +3463,8 @@
               "#4-safety-harm-constraint",
               "#61-correction-and-remedy",
               "#7-freedom-bounded-agency",
+              "#71-limitation-discipline",
+              "#73-dissent-and-peaceful-protest",
               "#91-productive-capacity-instrumental-good"
             ]
           },
@@ -3505,7 +3527,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 112,
+            "count": 113,
             "anchors": [
               "#accountability",
               "#accountability-measurement-family",
@@ -3544,7 +3566,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 641,
+            "count": 648,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3628,7 +3650,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 140,
+            "count": 142,
             "anchors": [
               "#anti-capture",
               "#avoidable-burden",
@@ -3695,7 +3717,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 95,
+            "count": 99,
             "anchors": [
               "#animal-life-constitutional",
               "#coercion-and-manipulation-constitutional",
@@ -3727,13 +3749,14 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#article-vi-b-sentience-status-adjudication-floor",
               "#article-vii-d-voluntary-discontinuation-of-ones-own-existence",
               "#article-xi-f-non-imposition-and-consent-in-association",
               "#article-xi-g-collective-harm-boundary-and-enforcement-interface",
-              "#article-xii-stakeholder-system-participation-representation-and-due-process"
+              "#article-xii-stakeholder-system-participation-representation-and-due-process",
+              "#xi-d-dissent-and-peaceful-protest"
             ]
           },
           {
@@ -3833,7 +3856,7 @@
           },
           {
             "file": "core_11_a_misconduct_designation.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#1-decision-framework-scope-and-authority",
               "#2-criteria-set-for-slot-assignment",
@@ -3844,8 +3867,9 @@
           },
           {
             "file": "core_11_b_misconduct_pattern_applications.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
+              "#51-concentration-based-subversion-criteria-interaction",
               "#54-info-sphere-zone-flooding"
             ]
           },

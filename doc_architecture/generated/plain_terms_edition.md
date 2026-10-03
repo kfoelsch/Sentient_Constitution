@@ -6,13 +6,13 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **639** of **902** headings carry a gloss (71%).
+Coverage: **642** of **905** headings carry a gloss (71%).
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
-- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (37/53 glossed)
-- [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (17/27 glossed)
+- [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (38/54 glossed)
+- [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (18/28 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (29/36 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/15 glossed)
@@ -24,7 +24,7 @@ Coverage: **639** of **902** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (74/86 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (75/87 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/84 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (14/19 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (27/37 glossed)
@@ -147,7 +147,7 @@ four adopted corpora (joint structure, systems, institutions, and forum operatio
 
 ## CHAPTER 01, PART A: VALUES PRINCIPLES
 
-Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 37/53 headings glossed
+Source file: [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md) · 38/54 headings glossed
 
 #### 1. Purpose and Role
 
@@ -353,11 +353,11 @@ freedom includes the freedom to say no — to disagree with any authority, inclu
 
 [Source](../../core_01_a_values_principles.md#73-dissent-and-peaceful-protest)
 
-##### 7.4 Voluntary Discontinuation and Exit Rights
+##### 7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights
 
 life-changing or hard-to-reverse choices are not "voluntary" just because someone signed a form. Real agency comes first; consent is agreement under that agency — and both fail if coercion or dependency pressure is doing the real decision-making.
 
-[Source](../../core_01_a_values_principles.md#74-voluntary-discontinuation-and-exit-rights)
+[Source](../../core_01_a_values_principles.md#74-voluntary-discontinuation-major-self-modification-and-exit-rights)
 
 #### 8. Continuity Aim: Introduction
 
@@ -367,7 +367,7 @@ Continuity is the second of the two aims: making sure the good outcome lasts —
 
 #### 9. Shared-System Capacity
 
-when shared systems are run well, sentients should be able to do useful work, improve life over time, and push back when something is wrong — without everything getting locked up by a few powerful actors. That overall ability is **Shared-System Capacity**. **[§9.1 Productive Capacity (Instrumental Good)](../../core_01_a_values_principles.md#91-productive-capacity-instrumental-good)** covers whether sentients can actually participate and get real results. What must be preserved, and what does not count, is **[§9.1.1 Preserve, Expand, and What Does Not Count](../../core_01_a_values_principles.md#911-preserve-expand-and-what-does-not-count)**. **[§9.2 Constitutional Efficiency](../../core_01_a_values_principles.md#92-constitutional-efficiency)** covers whether those results come without wasting everyone's time, money, and attention. **[§11 Market Structure](../../core_01_a_values_principles.md#11-market-structure)** stops a handful of players from hollowing that out. None of it counts if the "progress" comes from hoarding wealth or power, faking the numbers, stripping rights, or dumping harm on others or the planet.
+shared systems should keep working for sentients over the long run. Sentients should be able to do useful work, make life better over time, and speak up when something is wrong, without a few powerful players locking everyone else out. That lasting ability is **Shared-System Capacity**. **[§9.1 Productive Capacity (Instrumental Good)](../../core_01_a_values_principles.md#91-productive-capacity-instrumental-good)** asks whether sentients get real results. **[§9.2 Constitutional Efficiency](../../core_01_a_values_principles.md#92-constitutional-efficiency)** asks whether those results come without wasting anyone's time, money, and attention. None of it counts if the gains come from hoarding wealth or power, faking the numbers, stripping rights, or pushing harm onto others or the planet; **[§9.1.1 Preserve, Expand, and What Does Not Count](../../core_01_a_values_principles.md#911-preserve-expand-and-what-does-not-count)** spells that out. **[§11 Market Structure](../../core_01_a_values_principles.md#11-market-structure)** keeps a handful of players from taking over.
 
 [Source](../../core_01_a_values_principles.md#9-shared-system-capacity)
 
@@ -397,7 +397,7 @@ systems should detect trouble early, contain it, fail along disclosed paths, and
 
 #### 11. Market Structure
 
-sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§14.1–§14.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in.
+sentients should be able to work, build, switch providers, and push back without running into a wall because one company or institution owns the only door. **Market Structure** is that anti-monopoly discipline — for markets, platforms, job systems, infrastructure, data, computing power, credentials, and other dependencies that matter to daily life. Getting big and inventing new things is fine; cornering the market is not. **§11.1–§11.3** (*Market Concentration Threshold Mechanism, Pro-Competition and Anti-Domination, and Consolidation Ceiling*) set when concentration has gone too far, how domination gets stopped, and how much consolidation is allowed before sentients are locked in. **§11.4** (*Resource and Dependency Concentration*) applies the same thresholds to shared resources and dependencies.
 
 [Source](../../core_01_a_values_principles.md#11-market-structure)
 
@@ -455,6 +455,12 @@ adopters must set evidence-based ceilings that trigger scrutiny before consolida
 
 [Source](../../core_01_a_values_principles.md#1132-consolidation-ceiling-mechanism-adopter-tunable)
 
+##### 11.4 Resource and Dependency Concentration (Adopter-Tunable)
+
+shared infrastructure, such as networks, open tools, public services, data, and computing power, is where a few players can quietly end up controlling who gets resources, who has to depend on whom, and who pays to keep it running. Adopters must set clear limits for that kind of concentration and act when a limit is crossed or about to be. The limits can differ by context, but they cannot be set so loose that they never matter. [Article V](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) and its protections for sharing resources stay exactly as they are.
+
+[Source](../../core_01_a_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable)
+
 #### 12. Systemic Evaluation Requirement
 
 this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI**, [Auditability](../../core_05_band_oversight.md#auditability)).
@@ -463,7 +469,7 @@ this principle is a pointer. Whole-system evaluation must look beyond immediate 
 
 ## CHAPTER 01, PART B: INTERACTION AND INTERPRETATION
 
-Source file: [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) · 17/27 headings glossed
+Source file: [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) · 18/28 headings glossed
 
 #### 13. Process Conflict Resolution
 
@@ -578,6 +584,12 @@ read this Constitution as one whole. Chapter One states values and limits, but t
 *(no plain-terms gloss in source)*
 
 [Source](../../core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle)
+
+###### 15.1.1 Anti-Segmentation Principle
+
+No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails.
+
+[Source](../../core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)
 
 ##### 15.2 Definitional layer and required disciplines
 
@@ -1189,7 +1201,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 74/86 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 75/87 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1382,6 +1394,12 @@ a sentient may safely report or escalate a reasonable concern about constitution
 no actor may punish, threaten, exclude, discredit, delay, or block access for a sentient because that sentient reported a concern, preserved evidence, joined an audit, made a challenge, or sought review or remedy.
 
 [Source](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference)
+
+##### Subversion
+
+subversion is attacking constitutional systems by force, coercion, or taking power that was never assigned — or by making their process and remedies unusable in practice. Disagreeing with those systems, and working openly and lawfully to change them, is not subversion.
+
+[Source](../../core_05_band_accountability.md#subversion)
 
 ##### Governance architecture, decentralization, and concentration
 
@@ -3055,11 +3073,11 @@ Chapter Six spreads privacy protections across several articles — not one tidy
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#33-privacy-informational-joint-invocation)
 
-##### 3.4 Voluntary Discontinuation and Exit Rights
+##### 3.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights)
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-major-self-modification-and-exit-rights)
 
 ##### 3.5 Assembly, Collective Organization, and Institutional Formation
 
