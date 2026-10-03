@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-03T07:06:23+00:00
+Generated: 2026-10-03T10:06:32+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **238/238** terms pass tier audit.
+Approved progress: **241/241** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -161,6 +161,8 @@ Approved progress: **238/238** terms pass tier audit.
 | Evaluation Completeness Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evidence Preservation | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Foreseeability | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
+| Gate | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
+| Gate Criteria | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Heightened Scrutiny | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | High-Impact and Systemic Harm Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Material | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
@@ -256,6 +258,7 @@ Approved progress: **238/238** terms pass tier audit.
 | Standing Lock | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Standing Record | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Stay | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Subversion | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Sustained High-Gravity Pattern | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Unified Incident | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Unified Incident Record | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
