@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 905,
-  "glossed_count": 642,
+  "heading_count": 911,
+  "glossed_count": 648,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -655,8 +655,8 @@
     {
       "file": "core_01_b_interaction_interpretation.md",
       "title": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
-      "heading_count": 28,
-      "glossed_count": 18,
+      "heading_count": 29,
+      "glossed_count": 19,
       "sections": [
         {
           "file": "core_01_b_interaction_interpretation.md",
@@ -670,63 +670,63 @@
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 3,
-          "title": "13. Process Conflict Resolution",
-          "anchor": "13-process-conflict-resolution",
-          "line": 53,
-          "gloss": "values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.",
-          "gloss_line": 68
+          "title": "13. Constitutional Collision Resolution Process",
+          "anchor": "13-constitutional-collision-resolution-process",
+          "line": 81,
+          "gloss": "Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.",
+          "gloss_line": 107
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "13.1 Core Tradeoff Principles",
           "anchor": "131-core-tradeoff-principles",
-          "line": 77,
+          "line": 159,
           "gloss": "when you have to limit something, match the remedy to the problem — use the lightest step that still works, choose the least harmful option, and waste the least sentient time once Safety, Truth, and rights are already satisfied. The bar rises fast when harm could be irreversible or could lock systems in.",
-          "gloss_line": 92
+          "gloss_line": 182
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "13.1.1 Necessity",
           "anchor": "1311-necessity",
-          "line": 106,
+          "line": 225,
           "gloss": "a restriction attaches only when no less-restrictive alternative would still prevent the material harm or systemic risk. The party imposing the restriction bears the burden of proving that — not the party whose freedom is being limited. Convenience, institutional habit, and \"we've always done it this way\" do not prove necessity. If a lighter option would work, the heavier one is non-compliant.",
-          "gloss_line": 120
+          "gloss_line": 245
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "13.1.2 Harm Minimization",
           "anchor": "1312-harm-minimization",
-          "line": 140,
-          "gloss": "where multiple necessary options remain after [§13.1.1 Necessity](#1311-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints).",
-          "gloss_line": 156
+          "line": 265,
+          "gloss": "where multiple necessary options remain after [§13.1.1 Necessity](#1311-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process).",
+          "gloss_line": 287
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "13.1.3 Proportionality",
           "anchor": "1313-proportionality",
-          "line": 186,
+          "line": 317,
           "gloss": "proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if its scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.",
-          "gloss_line": 213
+          "gloss_line": 345
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
-          "title": "13.1.4 Constitutional Floors, Safety, and Process-Character Constraints",
-          "anchor": "1314-constitutional-floors-safety-and-process-character-constraints",
-          "line": 232,
+          "title": "13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process",
+          "anchor": "1314-constitutional-floors-safety-and-anti-degrading-process",
+          "line": 364,
           "gloss": "harm minimization has absolute limits. No matter how proportionate, necessary, or well-shaped a restriction is, certain things cannot be permanently taken away, and certain ways of carrying out a process are always off-limits. Safety is the constraint that grounds these floors: it justifies action to prevent serious harm, but it also constrains action — safety framing cannot be used as cover for extinguishing rights, degrading dignity, or bypassing the floors stated here.",
-          "gloss_line": 249
+          "gloss_line": 387
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 6,
           "title": "Dignity Principles",
           "anchor": "dignity-principles",
-          "line": 257,
+          "line": 395,
           "gloss": null,
           "gloss_line": null
         },
@@ -735,7 +735,7 @@
           "level": 6,
           "title": "Rights-Floor Minimums Principle",
           "anchor": "rights-floor-minimums-principle",
-          "line": 263,
+          "line": 401,
           "gloss": null,
           "gloss_line": null
         },
@@ -744,7 +744,7 @@
           "level": 6,
           "title": "Anti-Degrading-Process Principle",
           "anchor": "anti-degrading-process-principle",
-          "line": 272,
+          "line": 410,
           "gloss": null,
           "gloss_line": null
         },
@@ -753,88 +753,88 @@
           "level": 5,
           "title": "13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
           "anchor": "1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-          "line": 279,
+          "line": 417,
           "gloss": "once a restriction is justified, it still has to be shaped correctly. Use the lightest effective measure, put a real clock or review cadence on it, preserve challenge and independent review, and define how the restriction ends or is restored. Convenience, severity, or administrative relabeling cannot turn a temporary rights limit into a permanent workaround.",
-          "gloss_line": 289
+          "gloss_line": 436
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "13.2 Epistemic Disclosure Constraints",
           "anchor": "132-epistemic-disclosure-constraints",
-          "line": 325,
+          "line": 474,
           "gloss": "limits on what sentients can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the record — and release information once the danger passes. Hiding problems to keep sentients calm is not allowed.",
-          "gloss_line": 352
+          "gloss_line": 501
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "13.2.1 Preservation of Epistemic Integrity",
           "anchor": "1321-preservation-of-epistemic-integrity",
-          "line": 376,
+          "line": 528,
           "gloss": "truth may be withheld or delayed only where disclosure would directly enable foreseeable harm and no lesser alternative exists. Every such restriction must be narrow, time-bound, audited, and disclosed once the conditions justifying it no longer apply.",
-          "gloss_line": 402
+          "gloss_line": 554
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "13.2.2 Trust-Truth Alignment",
           "anchor": "1322-trust-truth-alignment",
-          "line": 415,
+          "line": 567,
           "gloss": "where trust and truth pull in different directions, truth wins. Trust cannot be kept through lies, and disclosure must be managed thoughtfully — not suppressed for stability.",
-          "gloss_line": 434
+          "gloss_line": 587
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "13.2.3 Privacy and Informational Self-Determination",
           "anchor": "1323-privacy-and-informational-self-determination",
-          "line": 439,
-          "gloss": "privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the collision is resolved under the [§13.1 decision-record discipline](#1315-rights-collision-decision-test), not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.",
-          "gloss_line": 465
+          "line": 592,
+          "gloss": "privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the Constitutional Collision is resolved under the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) requirements, not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.",
+          "gloss_line": 618
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "13.2.4 Proxy-Divergence Invalidation",
           "anchor": "1324-proxy-divergence-invalidation",
-          "line": 500,
+          "line": 650,
           "gloss": "when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the record, with documented escalation and review.",
-          "gloss_line": 512
+          "gloss_line": 668
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "13.3 Minimization of Avoidable Burden",
           "anchor": "133-minimization-of-avoidable-burden",
-          "line": 519,
+          "line": 678,
           "gloss": "once an option satisfies Safety, Truth, rights, and the tradeoff rules in §13.1 (*Core Tradeoff Principles*), pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.",
-          "gloss_line": 543
+          "gloss_line": 702
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 3,
           "title": "14. Prohibition on Absolute Override",
           "anchor": "14-prohibition-on-absolute-override",
-          "line": 562,
-          "gloss": "no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, or **accountability** legs below what material stake requires.",
-          "gloss_line": 588
+          "line": 721,
+          "gloss": "no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, **accountability**, or **timeliness** legs below what material stake requires.",
+          "gloss_line": 747
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 3,
           "title": "15. Constitutional Interpretation",
           "anchor": "15-constitutional-interpretation",
-          "line": 596,
+          "line": 755,
           "gloss": "read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely strictest or most restrictive on paper. Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.",
-          "gloss_line": 622
+          "gloss_line": 781
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "15.1 Constitutional No-Bypass Principle",
           "anchor": "151-constitutional-no-bypass-principle",
-          "line": 624,
+          "line": 785,
           "gloss": null,
           "gloss_line": null
         },
@@ -843,16 +843,25 @@
           "level": 5,
           "title": "15.1.1 Anti-Segmentation Principle",
           "anchor": "1511-anti-segmentation-principle",
-          "line": 674,
+          "line": 843,
           "gloss": "No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails.",
-          "gloss_line": 676
+          "gloss_line": 845
+        },
+        {
+          "file": "core_01_b_interaction_interpretation.md",
+          "level": 5,
+          "title": "15.1.2 Derived-Information Principle",
+          "anchor": "1512-derived-information-principle",
+          "line": 865,
+          "gloss": "No-Bypass says changing the label does not lift a requirement, and Anti-Segmentation says chopping does not either. This section says the same about combining. Information is treated by what it reveals, not by how it was made: pieces that look harmless but add up to something sensitive are sensitive, and a \"de-identified\" or \"aggregate\" label is not safe while sentients can still be identified or something protected can still be reconstructed.",
+          "gloss_line": 886
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 4,
           "title": "15.2 Definitional layer and required disciplines",
           "anchor": "152-definitional-layer-and-required-disciplines",
-          "line": 696,
+          "line": 908,
           "gloss": null,
           "gloss_line": null
         },
@@ -861,7 +870,7 @@
           "level": 4,
           "title": "15.3 Ambiguity resolution",
           "anchor": "153-ambiguity-resolution",
-          "line": 751,
+          "line": 963,
           "gloss": null,
           "gloss_line": null
         },
@@ -870,16 +879,16 @@
           "level": 4,
           "title": "15.4 Constitutional Meaning Conflict Resolution",
           "anchor": "154-constitutional-meaning-conflict-resolution",
-          "line": 774,
+          "line": 986,
           "gloss": "when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.",
-          "gloss_line": 786
+          "gloss_line": 998
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "15.4.1 Integrated reading",
           "anchor": "1541-integrated-reading",
-          "line": 803,
+          "line": 1015,
           "gloss": null,
           "gloss_line": null
         },
@@ -888,7 +897,7 @@
           "level": 5,
           "title": "15.4.2 Last-resort internal hierarchy",
           "anchor": "1542-last-resort-internal-hierarchy",
-          "line": 811,
+          "line": 1023,
           "gloss": null,
           "gloss_line": null
         },
@@ -897,7 +906,7 @@
           "level": 5,
           "title": "15.4.3 Incorporation layer",
           "anchor": "1543-incorporation-layer",
-          "line": 828,
+          "line": 1038,
           "gloss": null,
           "gloss_line": null
         },
@@ -906,9 +915,9 @@
           "level": 5,
           "title": "15.4.4 Combined satisfaction of jointly applicable incorporated obligations",
           "anchor": "1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
-          "line": 849,
+          "line": 1059,
           "gloss": "when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.",
-          "gloss_line": 851
+          "gloss_line": 1069
         }
       ]
     },
@@ -1657,18 +1666,18 @@
           "level": 3,
           "title": "Chapter Five compass and definition map",
           "anchor": "chapter-five-compass-and-definition-map",
-          "line": 378,
+          "line": 383,
           "gloss": "Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.",
-          "gloss_line": 392
+          "gloss_line": 397
         },
         {
           "file": "core_05__definitions_home.md",
           "level": 3,
           "title": "Measurement crosswalk (reader guidance)",
           "anchor": "measurement-crosswalk-reader-guidance",
-          "line": 410,
+          "line": 415,
           "gloss": "Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Five homes that answer it.",
-          "gloss_line": 412
+          "gloss_line": 417
         }
       ]
     },
@@ -1860,25 +1869,25 @@
           "anchor": "chapter-five-definitions-timeliness-tetrad-leg",
           "line": 1,
           "gloss": "move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.",
-          "gloss_line": 25
+          "gloss_line": 26
         },
         {
           "file": "core_05_apex_timeliness_leg.md",
           "level": 3,
           "title": "Tetrad Leg decomposition",
           "anchor": "timeliness-tetrad-leg-decomposition",
-          "line": 68,
+          "line": 69,
           "gloss": "this map lists the Timeliness leaves; they inherit this leg's scope unless they say otherwise.",
-          "gloss_line": 70
+          "gloss_line": 71
         },
         {
           "file": "core_05_apex_timeliness_leg.md",
           "level": 3,
           "title": "Measuring Timeliness",
           "anchor": "timeliness-measurement-family",
-          "line": 87,
+          "line": 88,
           "gloss": "these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Five home for the Timeliness measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.",
-          "gloss_line": 100
+          "gloss_line": 101
         }
       ]
     },
@@ -3440,8 +3449,8 @@
     {
       "file": "core_05_band_integrative.md",
       "title": "Integrative Constitutional Definitions",
-      "heading_count": 19,
-      "glossed_count": 14,
+      "heading_count": 22,
+      "glossed_count": 17,
       "sections": [
         {
           "file": "core_05_band_integrative.md",
@@ -3457,7 +3466,7 @@
           "level": 3,
           "title": "Integrative: Independent terms",
           "anchor": "integrative-independent-terms",
-          "line": 37,
+          "line": 39,
           "gloss": null,
           "gloss_line": null
         },
@@ -3466,61 +3475,88 @@
           "level": 4,
           "title": "Non-Compliance",
           "anchor": "non-compliance",
-          "line": 41,
+          "line": 43,
           "gloss": "a system or definition is non-compliant when its requirements are not met in practice — judged by what it actually does and produces, through the measures that apply, when the system is running as a whole.",
-          "gloss_line": 54
+          "gloss_line": 56
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 4,
           "title": "Constitutional Contract Layer",
           "anchor": "constitutional-contract-layer",
-          "line": 90,
+          "line": 92,
           "gloss": "this is the layer that answers who may govern, by what legitimacy, and under what lasting terms — not ordinary consultation, usage, or branding.",
-          "gloss_line": 105
+          "gloss_line": 107
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 4,
           "title": "Foundational Constitutional Choice",
           "anchor": "foundational-constitutional-choice",
-          "line": 146,
+          "line": 148,
           "gloss": "decisions about who holds governing authority, by what mechanism, and on what lasting terms — one-person-one-voice at that founding layer, not impact-weighted ordinary stakeholder voting.",
-          "gloss_line": 161
+          "gloss_line": 163
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 4,
           "title": "Documented Legitimacy Mechanism",
           "anchor": "documented-legitimacy-mechanism",
-          "line": 201,
+          "line": 203,
           "gloss": "the written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or charter adopted with recorded agreement. If there is no such rule on the record, nobody's claim to govern counts as authorized. Silence, habit, or branding does not count.",
-          "gloss_line": 215
+          "gloss_line": 217
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 4,
           "title": "Innovation Reward and Anti-Enclosure",
           "anchor": "innovation-reward-and-anti-enclosure",
-          "line": 251,
+          "line": 253,
           "gloss": "reward real invention and useful creation — but do not let that reward harden into lasting lock-up of repair, reuse, research, or public-interest use.",
-          "gloss_line": 263
+          "gloss_line": 265
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 4,
           "title": "No-Bypass",
           "anchor": "no-bypass",
-          "line": 340,
+          "line": 342,
           "gloss": "a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, instrument, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.",
-          "gloss_line": 352
+          "gloss_line": 354
+        },
+        {
+          "file": "core_05_band_integrative.md",
+          "level": 4,
+          "title": "Constitutional Collision",
+          "anchor": "constitutional-collision",
+          "line": 372,
+          "gloss": "a collision is when two things this Constitution requires cannot both be fully done in the same act, decision, or design, so honoring one limits the other. It is not a disagreement about facts, not a conflict between texts, and not a reason to drop a requirement. A real collision goes through the Constitutional Collision Resolution Process; a tension that disappears once each requirement is read in full is not a collision.",
+          "gloss_line": 384
+        },
+        {
+          "file": "core_05_band_integrative.md",
+          "level": 4,
+          "title": "Constitutional Collision Record",
+          "anchor": "constitutional-collision-record",
+          "line": 423,
+          "gloss": "a Collision Record is the written account of how one material Constitutional Collision was decided. It lets an affected party or an independent reviewer see which rule applied, what alternatives were weighed, what the evidence and uncertainty were, why this option was chosen, and when it comes back for review. It is not a second filing: the Act Record for the act that resolved the collision carries it.",
+          "gloss_line": 435
+        },
+        {
+          "file": "core_05_band_integrative.md",
+          "level": 4,
+          "title": "Derived Information",
+          "anchor": "derived-information",
+          "line": 474,
+          "gloss": "derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information. It is treated by what it reveals, not by how harmless its inputs looked. Pieces that add up to something sensitive are sensitive, and a \"de-identified\" or \"aggregate\" label does not change that while the output can still be traced back to a sentient or used to reconstruct something protected.",
+          "gloss_line": 486
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 3,
           "title": "Integrative: Semi-independent terms",
           "anchor": "integrative-semi-independent-terms",
-          "line": 368,
+          "line": 515,
           "gloss": null,
           "gloss_line": null
         },
@@ -3529,7 +3565,7 @@
           "level": 4,
           "title": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
           "anchor": "incentive-alignment-semi-independent",
-          "line": 373,
+          "line": 520,
           "gloss": null,
           "gloss_line": null
         },
@@ -3538,43 +3574,43 @@
           "level": 5,
           "title": "Incentive Alignment",
           "anchor": "incentive-alignment",
-          "line": 392,
+          "line": 539,
           "gloss": "rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture.",
-          "gloss_line": 408
+          "gloss_line": 555
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Incentive Alignment — baseline constitutional alignment",
           "anchor": "incentive-alignment-baseline-constitutional-alignment",
-          "line": 460,
+          "line": 607,
           "gloss": "incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.",
-          "gloss_line": 472
+          "gloss_line": 619
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
           "anchor": "incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-          "line": 490,
+          "line": 637,
           "gloss": "check incentives under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.",
-          "gloss_line": 502
+          "gloss_line": 649
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
           "anchor": "incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-          "line": 524,
+          "line": 671,
           "gloss": "bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.",
-          "gloss_line": 537
+          "gloss_line": 684
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 3,
           "title": "Integrative: Dependent clusters",
           "anchor": "integrative-dependent-clusters",
-          "line": 572,
+          "line": 719,
           "gloss": null,
           "gloss_line": null
         },
@@ -3583,44 +3619,44 @@
           "level": 4,
           "title": "Def.I1 Corpus and Authority Stack",
           "anchor": "defi1",
-          "line": 577,
+          "line": 724,
           "gloss": "this cluster answers which text is binding, which source wins in a conflict, whether claimed duties can actually be checked and enforced, and — with the Preamble owner register — who owns which topic.",
-          "gloss_line": 591
+          "gloss_line": 738
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Corpus",
           "anchor": "corpus",
-          "line": 632,
+          "line": 779,
           "gloss": "the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies.",
-          "gloss_line": 646
+          "gloss_line": 793
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Authority Stack and Internal Hierarchy",
           "anchor": "authority-stack",
-          "line": 675,
+          "line": 822,
           "gloss": "first decide which source layer is speaking and whether it binds; then identify which chapter owns the topic; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it. Binding duties win within their valid scope. Other chapters may point to an owner — they must not quietly rewrite or relocate it.",
-          "gloss_line": 689
+          "gloss_line": 836
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Constitutional Constraint",
           "anchor": "constitutional-constraint",
-          "line": 775,
+          "line": 922,
           "gloss": "a constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice. Constraints come in ranked kinds: higher kinds control, and lower kinds must not narrow them.",
-          "gloss_line": 787
+          "gloss_line": 934
         }
       ]
     },
     {
       "file": "core_05_band_oversight.md",
       "title": "Oversight Constitutional Definitions",
-      "heading_count": 37,
-      "glossed_count": 27,
+      "heading_count": 39,
+      "glossed_count": 29,
       "sections": [
         {
           "file": "core_05_band_oversight.md",
@@ -3670,27 +3706,45 @@
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
+          "title": "Gate",
+          "anchor": "gate",
+          "line": 159,
+          "gloss": "a gate is a checkpoint in a transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.",
+          "gloss_line": 172
+        },
+        {
+          "file": "core_05_band_oversight.md",
+          "level": 4,
+          "title": "Gate Criteria",
+          "anchor": "gate-criteria",
+          "line": 196,
+          "gloss": "gate criteria are the specific tests a transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.",
+          "gloss_line": 209
+        },
+        {
+          "file": "core_05_band_oversight.md",
+          "level": 4,
           "title": "Heightened Scrutiny",
           "anchor": "heightened-scrutiny",
-          "line": 159,
+          "line": 247,
           "gloss": "some decisions are risky enough that the ordinary check is not enough. Heightened scrutiny is the harder check: whoever wants to go ahead must prove the case, safer options must really have been weighed, and outsiders must be able to see and challenge the reasoning. Highest scrutiny is the hardest check, kept for a few cases where a wrong call does the most damage.",
-          "gloss_line": 172
+          "gloss_line": 260
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Press and Journalistic Activity",
           "anchor": "press-and-journalistic-activity-constitutional",
-          "line": 211,
+          "line": 299,
           "gloss": "journalism is what sentients do — gathering news, protecting sources, investigating, and publishing — not a badge, title, or press pass. Actions meant to shut that down get heightened scrutiny.",
-          "gloss_line": 222
+          "gloss_line": 310
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 3,
           "title": "Oversight: Semi-independent terms",
           "anchor": "oversight-semi-independent-terms",
-          "line": 250,
+          "line": 338,
           "gloss": null,
           "gloss_line": null
         },
@@ -3699,7 +3753,7 @@
           "level": 4,
           "title": "Materiality, impact, risk, and proxy integrity",
           "anchor": "materiality-semi-independent",
-          "line": 254,
+          "line": 342,
           "gloss": null,
           "gloss_line": null
         },
@@ -3708,79 +3762,79 @@
           "level": 4,
           "title": "Material",
           "anchor": "material",
-          "line": 286,
+          "line": 374,
           "gloss": "big enough to matter — not trivia, cosmetics, or paperwork that changes nothing real.",
-          "gloss_line": 298
+          "gloss_line": 386
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Materiality",
           "anchor": "materiality-determination",
-          "line": 320,
+          "line": 408,
           "gloss": "materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened.",
-          "gloss_line": 333
+          "gloss_line": 421
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Materiality Integrity Constraint",
           "anchor": "materiality-integrity-constraint",
-          "line": 392,
+          "line": 480,
           "gloss": "you may not make a big problem look small by redrawing boxes, splitting pieces, or reclassifying your way out of it.",
-          "gloss_line": 404
+          "gloss_line": 492
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Material Impact",
           "anchor": "material-impact",
-          "line": 429,
+          "line": 517,
           "gloss": "how far the effects reach, how big they are, and how severe — looking at the whole system, not just the headline or the paperwork.",
-          "gloss_line": 442
+          "gloss_line": 530
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Material Risk",
           "anchor": "material-risk",
-          "line": 477,
+          "line": 565,
           "gloss": "how likely harm is, how fast it can arrive, and how hard it is to undo — including rare but severe outcomes.",
-          "gloss_line": 489
+          "gloss_line": 577
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Materiality Under Uncertainty",
           "anchor": "materiality-under-uncertainty",
-          "line": 523,
+          "line": 611,
           "gloss": "when you are not sure whether something is material, default to the safer (higher) classification — do not wait for certainty or hope for a low label.",
-          "gloss_line": 535
+          "gloss_line": 623
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Proxy Divergence",
           "anchor": "proxy-divergence",
-          "line": 563,
+          "line": 651,
           "gloss": "when the score no longer matches reality — a dashboard, class label, or compliance indicator that says one thing while the real condition says another — including cooking the score so it looks fine while conditions stay bad, get worse, or go unmeasured.",
-          "gloss_line": 576
+          "gloss_line": 664
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Material Degradation",
           "anchor": "material-degradation",
-          "line": 634,
+          "line": 722,
           "gloss": "a real drop in how well a protected condition holds — safety, honest knowledge, or meaningful agency — not a brief blip, planned maintenance, or a worse score on a dashboard that does not track those conditions.",
-          "gloss_line": 646
+          "gloss_line": 734
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 3,
           "title": "Oversight: Dependent clusters",
           "anchor": "movement-refuge-semi-independent",
-          "line": 671,
+          "line": 759,
           "gloss": null,
           "gloss_line": null
         },
@@ -3789,7 +3843,7 @@
           "level": 4,
           "title": "Def.O1 Transparency, Auditability, and Verification",
           "anchor": "defo1",
-          "line": 676,
+          "line": 764,
           "gloss": null,
           "gloss_line": null
         },
@@ -3798,70 +3852,70 @@
           "level": 5,
           "title": "Transparency",
           "anchor": "transparency",
-          "line": 733,
+          "line": 821,
           "gloss": "telling affected sentients enough about how a system works, its limits, and its risks that they can genuinely understand and question it — not burying them in noise.",
-          "gloss_line": 746
+          "gloss_line": 834
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Public Oversight Baseline Disclosure",
           "anchor": "public-oversight-baseline-disclosure",
-          "line": 793,
+          "line": 881,
           "gloss": "the minimum public disclosure high-impact systems must publish so sentients can understand, oversee, and challenge them — including purpose, class, dependencies, status, risk, performance, failures, governance, stakeholder effects, constitutional alignment, and the public face of the Charter, classification, data-typing, and certification records — with a strong public substitute when raw private or non-baseline records cannot be released.",
-          "gloss_line": 806
+          "gloss_line": 894
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Risk Disclosure",
           "anchor": "risk-disclosure",
-          "line": 873,
+          "line": 961,
           "gloss": "tell the sentients who need to know about systemic risk — keeping the evaluation in a drawer does not count.",
-          "gloss_line": 886
+          "gloss_line": 974
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Auditability",
           "anchor": "auditability",
-          "line": 916,
+          "line": 1004,
           "gloss": "**auditability** is whether outsiders can actually reconstruct and check what a system did — across the real times, states, and situations that matter, not just one happy-path snapshot. System alignment certification is one especially large way that property gets exercised for high-stakes systems; it is not the only auditing process.",
-          "gloss_line": 930
+          "gloss_line": 1018
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Evidence Preservation",
           "anchor": "evidence-preservation",
-          "line": 998,
+          "line": 1086,
           "gloss": "keep the evidence that matters — identify it, secure it, and make it available for review — once a serious constitutional issue is known or should be known.",
-          "gloss_line": 1011
+          "gloss_line": 1099
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Evaluation Completeness Constraint",
           "anchor": "evaluation-completeness-constraint",
-          "line": 1048,
+          "line": 1136,
           "gloss": "do not claim compliance from a narrow demo suite — evaluation must cover the failure, misuse, interaction, and adversarial paths that matter. A Charter states intended scope; certification checks that the hard paths were actually evaluated.",
-          "gloss_line": 1061
+          "gloss_line": 1149
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Verifiability",
           "anchor": "observability",
-          "line": 1111,
+          "line": 1199,
           "gloss": "outsiders can detect and measure what the system does, and someone independent can actually check those observations in practice — not only what operators see inside, take the operator's word for it, or hold a verification right on paper.",
-          "gloss_line": 1124
+          "gloss_line": 1212
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 4,
           "title": "Def.O2 Truth and Epistemic Integrity",
           "anchor": "defo2",
-          "line": 1187,
+          "line": 1275,
           "gloss": null,
           "gloss_line": null
         },
@@ -3870,7 +3924,7 @@
           "level": 5,
           "title": "Publication and High-Impact Communication",
           "anchor": "publication-and-high-impact-communication",
-          "line": 1232,
+          "line": 1320,
           "gloss": null,
           "gloss_line": null
         },
@@ -3879,61 +3933,61 @@
           "level": 5,
           "title": "Publication Truthfulness and Recklessness Floor",
           "anchor": "publication-truthfulness-and-recklessness-floor",
-          "line": 1245,
+          "line": 1333,
           "gloss": "if you publish something as fact, do not knowingly lie — and do not recklessly ignore accuracy, uncertainty, context, or material interpretive limits.",
-          "gloss_line": 1247
+          "gloss_line": 1335
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Protected Data and Internal-State Publication Constraint",
           "anchor": "protected-data-and-internal-state-publication-constraint",
-          "line": 1275,
+          "line": 1363,
           "gloss": "do not publish restricted data or expose another sentient's protected inner cognitive or emotional states.",
-          "gloss_line": 1277
+          "gloss_line": 1365
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "High-Impact and Systemic Harm Publication Constraint",
           "anchor": "high-impact-and-systemic-harm-publication-constraint",
-          "line": 1293,
+          "line": 1381,
           "gloss": "even true publication can be constrained when it foreseeably enables targeted harm, coercion, large-scale harmful coordination, or cascading failure.",
-          "gloss_line": 1295
+          "gloss_line": 1383
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Security-Sensitive Disclosure Balance",
           "anchor": "security-sensitive-disclosure-balance",
-          "line": 1322,
+          "line": 1410,
           "gloss": "weigh the benefit of disclosure against the risk that it helps someone break safeguards or game the system — give good-faith security researchers (white hats) a real route to publish low-risk findings, and wait to publish exploit-enabling detail until the fix is in place.",
-          "gloss_line": 1324
+          "gloss_line": 1412
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Truth (Constitutional Constraint)",
           "anchor": "truth-constitutional-constraint",
-          "line": 1351,
+          "line": 1439,
           "gloss": "when claims matter for decisions, be honest about what is known, unknown, and uncertain — do not deceive, distort, or present things in a misleading structure.",
-          "gloss_line": 1353
+          "gloss_line": 1441
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Epistemic Integrity",
           "anchor": "epistemic-integrity",
-          "line": 1391,
+          "line": 1479,
           "gloss": "the methods and evidence behind an evaluation must stay honest and checkable — prestige, opacity, or paperwork cannot stand in for truth.",
-          "gloss_line": 1393
+          "gloss_line": 1481
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Foreseeability and Reasonably Foreseeable",
           "anchor": "foreseeability-diligence-and-reasonably-foreseeable",
-          "line": 1436,
+          "line": 1524,
           "gloss": null,
           "gloss_line": null
         },
@@ -3942,18 +3996,18 @@
           "level": 5,
           "title": "Foreseeability",
           "anchor": "foreseeability-burden",
-          "line": 1477,
+          "line": 1565,
           "gloss": "do a reasonable analysis sized to the impact — dig deeper when stakes are high, cover the required boundaries (including interactions, dependency, and adversarial use), and if you claim something was unforeseeable, justify that claim. Assertion and checkboxes are not enough.",
-          "gloss_line": 1479
+          "gloss_line": 1567
         },
         {
           "file": "core_05_band_oversight.md",
           "level": 5,
           "title": "Reasonably Foreseeable",
           "anchor": "reasonably-foreseeable",
-          "line": 1538,
+          "line": 1626,
           "gloss": "outcomes a careful analyst using known methods could identify before acting — including under adversarial and scaled conditions — not every conceivable outcome or pure hindsight.",
-          "gloss_line": 1540
+          "gloss_line": 1628
         }
       ]
     },
@@ -4490,7 +4544,7 @@
           "level": 4,
           "title": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
           "anchor": "defp3",
-          "line": 3000,
+          "line": 3001,
           "gloss": null,
           "gloss_line": null
         },
@@ -4499,52 +4553,52 @@
           "level": 5,
           "title": "Self-Determination",
           "anchor": "self-determination-constitutional",
-          "line": 3035,
+          "line": 3036,
           "gloss": "autonomy to make and refuse informed decisions about yourself and your future, and to keep volitional continuity against manipulation and capture.",
-          "gloss_line": 3049
+          "gloss_line": 3050
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Expression",
           "anchor": "expression-constitutional",
-          "line": 3082,
+          "line": 3083,
           "gloss": "the Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, worldview, sexual or intimate, and violent or severe-harm-risk expression — without substrate-based exclusion. Depicting or discussing harm is not committing it. Developing audiences get careful routing, not a blank ban on adult speech.",
-          "gloss_line": 3094
+          "gloss_line": 3095
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Hard Content",
           "anchor": "hard-content",
-          "line": 3170,
+          "line": 3171,
           "gloss": "hard content is expression that is sexual or intimate, is about violence, or could badly harm someone's mental health. It is still protected expression between sentients who can handle it — showing or talking about something is not doing it. The rules on the real-world conduct still apply, and when hard content reaches children or other vulnerable audiences it gets careful routing, not a blanket ban.",
-          "gloss_line": 3183
+          "gloss_line": 3184
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Educational Agency",
           "anchor": "educational-agency",
-          "line": 3217,
+          "line": 3218,
           "gloss": "real capability-building and lifelong learning autonomy — skills that apply to real-world problems, not credential symbolism alone — with access sufficient to develop and exercise constitution-relevant capabilities.",
-          "gloss_line": 3230
+          "gloss_line": 3231
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Volitional Integrity",
           "anchor": "volitional-integrity",
-          "line": 3278,
+          "line": 3279,
           "gloss": "the continuity and coherence of a sentient's preferences, purposes, intentions, and identity-constitutive commitments against manipulation, coercion, external control, or unauthorized interference with internal-state processes.",
-          "gloss_line": 3290
+          "gloss_line": 3291
         },
         {
           "file": "core_05_band_participation.md",
           "level": 4,
           "title": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
           "anchor": "defp4",
-          "line": 3336,
+          "line": 3337,
           "gloss": null,
           "gloss_line": null
         },
@@ -4553,27 +4607,27 @@
           "level": 5,
           "title": "Developing Sentient",
           "anchor": "developing-sentient-constitutional",
-          "line": 3383,
+          "line": 3384,
           "gloss": "a developing sentient is someone whose abilities are still coming online — a child, a newly created mind still finding its feet, or any sentient in a comparable emerging-capability state. Being developing does not reduce their Rights Floor. How much they speak for themselves as they grow is a separate rule under Graduated Capability.",
-          "gloss_line": 3396
+          "gloss_line": 3397
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Best-Interest Standard",
           "anchor": "best-interest-standard-constitutional",
-          "line": 3420,
+          "line": 3421,
           "gloss": "decisions that materially affect a developing sentient must track that sentient's own interests and ascertainable preferences — not operator, parent-system, or institutional convenience.",
-          "gloss_line": 3431
+          "gloss_line": 3432
         },
         {
           "file": "core_05_band_participation.md",
           "level": 5,
           "title": "Graduated Capability",
           "anchor": "graduated-capability-constitutional",
-          "line": 3468,
+          "line": 3469,
           "gloss": "as a developing sentient grows into demonstrated ability, they take on more say and more independent rights-exercise — judged by what they can actually do, not by birthday or creation date. Scaling never drops them below the Rights Floor, and it must not be used to shut them out of participation they are ready for.",
-          "gloss_line": 3480
+          "gloss_line": 3481
         }
       ]
     },
@@ -5545,7 +5599,7 @@
           "level": 4,
           "title": "5.5 Special locks",
           "anchor": "55-special-locks",
-          "line": 423,
+          "line": 430,
           "gloss": null,
           "gloss_line": null
         },
@@ -5554,79 +5608,79 @@
           "level": 3,
           "title": "6. Contribution consequences second",
           "anchor": "6-contribution-consequences-second",
-          "line": 521,
+          "line": 528,
           "gloss": "after violation, correction, and prevention are assigned under [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) and [§5 Lock design and enforcement](#5-lock-design-and-enforcement), this section asks what verified contribution may still do. It may support recognition and readiness for named pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked named pathway.",
-          "gloss_line": 523
+          "gloss_line": 530
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "6.1 Recency and currentness",
           "anchor": "61-recency-and-currentness",
-          "line": 540,
+          "line": 547,
           "gloss": "how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Nine measurement, and time alone does not cure an unresolved violation.",
-          "gloss_line": 542
+          "gloss_line": 549
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "6.2 Competency bars and clearances",
           "anchor": "62-competency-bars-and-clearances",
-          "line": 583,
+          "line": 590,
           "gloss": "a competency bar is the published standard for a named pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the named pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a named pathway that a standing lock still blocks.",
-          "gloss_line": 585
+          "gloss_line": 592
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "7. Final standing effect",
           "anchor": "7-final-standing-effect",
-          "line": 641,
+          "line": 648,
           "gloss": "when the earlier steps are done, the system must state — one named pathway at a time — what is open, limited, or blocked. That statement is not a dignity rank or a merged score.",
-          "gloss_line": 643
+          "gloss_line": 650
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "7.1 Anti-aggregation of named-pathway effects",
           "anchor": "71-anti-aggregation-of-named-pathway-effects",
-          "line": 671,
+          "line": 678,
           "gloss": "this chapter says what standing is not. This subsection stops anyone from building the thing it is not. Effects are stated one named pathway at a time and shown only to whoever gates that named pathway. Stitching them together into a profile, a rank, or a public display constructs the merged score this chapter forbids — and doing so is itself a violation.",
-          "gloss_line": 673
+          "gloss_line": 680
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "7.2 Plain statement of effect and burden",
           "anchor": "72-plain-statement-of-effect-and-burden",
-          "line": 693,
+          "line": 700,
           "gloss": "no one should learn what a standing effect does to them from its consequences. The record must tell the subject, in plain language, exactly which named pathways are affected, what they must do, how long it lasts, and where to contest it — and the adopter must measure whether sentients are experiencing standing as a score, because the rule that it is not one is worthless if that is how it lands.",
-          "gloss_line": 695
+          "gloss_line": 702
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "8. Restoration and reassessment",
           "anchor": "8-restoration-and-reassessment",
-          "line": 709,
+          "line": 716,
           "gloss": "a lock that is not permanent must have a real way back. Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.",
-          "gloss_line": 711
+          "gloss_line": 718
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 3,
           "title": "9. Enforcement realism and remedy systems",
           "anchor": "9-enforcement-realism-and-remedy-systems",
-          "line": 736,
+          "line": 743,
           "gloss": "standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.",
-          "gloss_line": 738
+          "gloss_line": 745
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "9.1 Remediation capacity and funding",
           "anchor": "91-remediation-capacity-and-funding",
-          "line": 745,
+          "line": 752,
           "gloss": null,
           "gloss_line": null
         },
@@ -5635,7 +5689,7 @@
           "level": 4,
           "title": "9.2 Remedy-system durability",
           "anchor": "92-remedy-system-durability",
-          "line": 765,
+          "line": 772,
           "gloss": null,
           "gloss_line": null
         },
@@ -5644,7 +5698,7 @@
           "level": 4,
           "title": "9.3 Cross-jurisdiction continuity",
           "anchor": "93-cross-jurisdiction-continuity",
-          "line": 806,
+          "line": 813,
           "gloss": null,
           "gloss_line": null
         },
@@ -5653,7 +5707,7 @@
           "level": 4,
           "title": "9.4 Anti-evasion and look-through authority",
           "anchor": "94-anti-evasion-and-look-through-authority",
-          "line": 811,
+          "line": 818,
           "gloss": null,
           "gloss_line": null
         },
@@ -5662,7 +5716,7 @@
           "level": 4,
           "title": "9.5 Timely implementation",
           "anchor": "95-timely-implementation",
-          "line": 816,
+          "line": 823,
           "gloss": null,
           "gloss_line": null
         },
@@ -5671,16 +5725,16 @@
           "level": 3,
           "title": "10. Pattern applications and Question 3 routing",
           "anchor": "10-named-applications",
-          "line": 824,
+          "line": 831,
           "gloss": "these patterns show how recurring Question 3 edge shapes route through the rules already stated above — they do not invent new consequences or new special lock types. Where a cue mirrors a Chapter Eleven §5 (*Pattern applications and criteria routing — Participation and accountability-pathway integrity*) attack family, this section answers named pathway prevention from the verified record; Chapter Eleven separately answers designation criteria routing.",
-          "gloss_line": 836
+          "gloss_line": 843
         },
         {
           "file": "core_10_standing_integration.md",
           "level": 4,
           "title": "10.1 Informal ecological stewardship / competency clearance",
           "anchor": "101-informal-ecological-stewardship-competency-clearance",
-          "line": 842,
+          "line": 849,
           "gloss": null,
           "gloss_line": null
         },
@@ -5689,7 +5743,7 @@
           "level": 4,
           "title": "10.2 Ecological negligence with concealment",
           "anchor": "102-ecological-negligence-with-concealment",
-          "line": 856,
+          "line": 863,
           "gloss": null,
           "gloss_line": null
         },
@@ -5698,7 +5752,7 @@
           "level": 4,
           "title": "10.3 Forum-integrity deception or recusal failure",
           "anchor": "103-forum-integrity-deception-or-recusal-failure",
-          "line": 870,
+          "line": 877,
           "gloss": null,
           "gloss_line": null
         },
@@ -5707,7 +5761,7 @@
           "level": 4,
           "title": "10.4 Recurrence after completed restitution",
           "anchor": "104-recurrence-after-completed-restitution",
-          "line": 879,
+          "line": 886,
           "gloss": null,
           "gloss_line": null
         },
@@ -5716,7 +5770,7 @@
           "level": 4,
           "title": "10.5 Champion repair while a lock remains active",
           "anchor": "105-champion-repair-while-a-lock-remains-active",
-          "line": 892,
+          "line": 899,
           "gloss": null,
           "gloss_line": null
         },
@@ -5725,7 +5779,7 @@
           "level": 4,
           "title": "10.6 Institutional vehicle and successor evasion",
           "anchor": "106-institutional-vehicle-and-successor-evasion",
-          "line": 904,
+          "line": 911,
           "gloss": null,
           "gloss_line": null
         },
@@ -5734,7 +5788,7 @@
           "level": 4,
           "title": "10.7 Misaligned reward retention",
           "anchor": "107-misaligned-reward-retention",
-          "line": 916,
+          "line": 923,
           "gloss": null,
           "gloss_line": null
         },
@@ -5743,7 +5797,7 @@
           "level": 4,
           "title": "10.8 Anti-constitutional misconduct allegation",
           "anchor": "108-top-slot-anti-constitutional-allegation",
-          "line": 926,
+          "line": 933,
           "gloss": null,
           "gloss_line": null
         },
@@ -5752,7 +5806,7 @@
           "level": 4,
           "title": "10.9 Rights-Floor waiver or unconstitutional contract devices",
           "anchor": "109-rights-floor-waiver-or-unconstitutional-contract-devices",
-          "line": 939,
+          "line": 946,
           "gloss": null,
           "gloss_line": null
         },
@@ -5761,7 +5815,7 @@
           "level": 4,
           "title": "10.10 Contest-pathway or info-sphere flooding",
           "anchor": "1010-contest-pathway-or-info-sphere-flooding",
-          "line": 952,
+          "line": 959,
           "gloss": null,
           "gloss_line": null
         },
@@ -5770,7 +5824,7 @@
           "level": 4,
           "title": "10.11 Infrastructure denial or dependency cutoff",
           "anchor": "1011-infrastructure-denial-or-dependency-cutoff",
-          "line": 965,
+          "line": 972,
           "gloss": null,
           "gloss_line": null
         },
@@ -5779,7 +5833,7 @@
           "level": 4,
           "title": "10.12 Stakeholder-participation corruption or false-stake abuse",
           "anchor": "1012-stakeholder-participation-corruption-or-false-stake-abuse",
-          "line": 979,
+          "line": 986,
           "gloss": null,
           "gloss_line": null
         },
@@ -5788,7 +5842,7 @@
           "level": 4,
           "title": "10.13 Obstruction of accountability",
           "anchor": "1013-obstruction-of-accountability",
-          "line": 991,
+          "line": 998,
           "gloss": null,
           "gloss_line": null
         },
@@ -5797,7 +5851,7 @@
           "level": 4,
           "title": "10.14 Verified cruelty character",
           "anchor": "1014-verified-cruelty-character",
-          "line": 1005,
+          "line": 1012,
           "gloss": null,
           "gloss_line": null
         }
@@ -7886,7 +7940,7 @@
           "title": "Article XXVII: Transition Governance, Continuity, and Re-Baselining",
           "anchor": "article-xxvii-transition-governance-continuity-and-re-baselining",
           "line": 328,
-          "gloss": "**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. When a community shifts from legacy systems to constitutional operation, that shift must happen in steps — with basic Rights Floors still in force at every step, clear deadlines, and real review. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.",
+          "gloss": "**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. Nobody can run a full set of Rights Floors on day one, because a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those have to be built. So when a community shifts from legacy systems to constitutional operation, this Article asks for two different things. What the adopter must **not do** — make things worse, start new violations, destroy possible minds, hide the gap — binds from the start. What it must **deliver** — access, review, remedy — becomes enforceable step by step, scope by scope, as the institutions and culture that enforce it are verified ready. The Rights Floors are the fixed target the whole way, and the gap to them is measured, published, and shrinking on a dated path. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.",
           "gloss_line": 332
         },
         {
@@ -7894,36 +7948,36 @@
           "level": 4,
           "title": "Article XXVII-A: Phased Adoption and Rights-Floor Continuity",
           "anchor": "article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity",
-          "line": 351,
-          "gloss": "transitions move forward by meeting real gates, not by clocks or pressure — and Rights-Floor minimums stay in force at every phase.",
-          "gloss_line": 372
+          "line": 362,
+          "gloss": "transitions move forward by meeting real gates, not by clocks or pressure. What the adopter must not do binds from day one. What it must deliver becomes enforceable as the forums, oversight, capability, and culture to enforce it are verified ready — scope by scope, on a dated path. The gap, and the data showing it closing, are public.",
+          "gloss_line": 383
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVII-B: Transitional Authority Limits and Reauthorization",
           "anchor": "article-xxvii-b-transitional-authority-limits-and-reauthorization",
-          "line": 401,
-          "gloss": "temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load. Extending temporary authority requires real reasons — and the longer it runs, the higher the bar.",
-          "gloss_line": 420
+          "line": 440,
+          "gloss": "temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load, and the measured gap to the full Rights Floors getting smaller on schedule. Extending temporary authority requires real reasons and real data — and the longer it runs, the higher the bar.",
+          "gloss_line": 459
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVII-C: Failure Off-Ramps, Re-Baselining, and Traceability",
           "anchor": "article-xxvii-c-failure-off-ramps-re-baselining-and-traceability",
-          "line": 437,
+          "line": 482,
           "gloss": "when a transition stalls or fails, there must be a real off-ramp — and a stalled state cannot quietly become the new normal. Resetting the plan is allowed, but only through lawful process, with reasons anyone can check — and never by lowering basic Rights Floors. A reset is not trustworthy if alignment certification keeps blessing misaligned systems or standing review keeps misreading real harm; fix that truth-telling machinery first, or governance is structurally unreliable no matter how polished the new plan looks.",
-          "gloss_line": 457
+          "gloss_line": 502
         },
         {
           "file": "core_06_rights_part_e.md",
           "level": 4,
           "title": "Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
           "anchor": "article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
-          "line": 475,
-          "gloss": "non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**.",
-          "gloss_line": 496
+          "line": 519,
+          "gloss": "non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. Ownership also does not shield property that is being used to carry out anti-constitutional conduct, though that case runs through the anti-constitutional misconduct chapter, not through transition powers. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** (*non-compliant property, seizure, voluntary incentives*) through **CI-14.3** (*operative transition-scoped remediation requirements*).",
+          "gloss_line": 540
         }
       ]
     },

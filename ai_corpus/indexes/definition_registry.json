@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-10-03T10:06:32+00:00",
+  "generated_at": "2026-10-03T13:23:58+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 242,
+  "definition_count": 245,
   "definitions": [
     {
       "term": "Accessibility",
@@ -123,13 +123,13 @@
       "term": "Authority Stack and Internal Hierarchy",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#authority-stack",
-      "line_start": 675,
-      "line_end": 774,
+      "line_start": 822,
+      "line_end": 921,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.I1 Corpus and Authority Stack",
         "cluster_file": "core_05_band_integrative.md",
-        "line": 615
+        "line": 762
       }
     },
     {
@@ -171,13 +171,13 @@
       "term": "Best-Interest Standard",
       "source_file": "core_05_band_participation.md",
       "anchor": "#best-interest-standard-constitutional",
-      "line_start": 3420,
-      "line_end": 3467,
+      "line_start": 3421,
+      "line_end": 3468,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3369
+        "line": 3370
       }
     },
     {
@@ -363,6 +363,24 @@
       "cluster_membership": null
     },
     {
+      "term": "Constitutional Collision",
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#constitutional-collision",
+      "line_start": 372,
+      "line_end": 422,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
+      "term": "Constitutional Collision Record",
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#constitutional-collision-record",
+      "line_start": 423,
+      "line_end": 473,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
       "term": "Constitutional Community",
       "source_file": "core_05_band_participation.md",
       "anchor": "#constitutional-community",
@@ -375,8 +393,8 @@
       "term": "Constitutional Constraint",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#constitutional-constraint",
-      "line_start": 775,
-      "line_end": 848,
+      "line_start": 922,
+      "line_end": 995,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -384,8 +402,8 @@
       "term": "Constitutional Contract Layer",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#constitutional-contract-layer",
-      "line_start": 90,
-      "line_end": 145,
+      "line_start": 92,
+      "line_end": 147,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -482,13 +500,13 @@
       "term": "Corpus",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#corpus",
-      "line_start": 632,
-      "line_end": 674,
+      "line_start": 779,
+      "line_end": 821,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.I1 Corpus and Authority Stack",
         "cluster_file": "core_05_band_integrative.md",
-        "line": 614
+        "line": 761
       }
     },
     {
@@ -545,6 +563,15 @@
       "cluster_membership": null
     },
     {
+      "term": "Derived Information",
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#derived-information",
+      "line_start": 474,
+      "line_end": 519,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
       "term": "Derived Sentient",
       "source_file": "core_05_band_participation.md",
       "anchor": "#derived-sentient-constitutional",
@@ -557,13 +584,13 @@
       "term": "Developing Sentient",
       "source_file": "core_05_band_participation.md",
       "anchor": "#developing-sentient-constitutional",
-      "line_start": 3383,
-      "line_end": 3419,
+      "line_start": 3384,
+      "line_end": 3420,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3368
+        "line": 3369
       }
     },
     {
@@ -592,8 +619,8 @@
       "term": "Documented Legitimacy Mechanism",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#documented-legitimacy-mechanism",
-      "line_start": 201,
-      "line_end": 250,
+      "line_start": 203,
+      "line_end": 252,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -646,13 +673,13 @@
       "term": "Educational Agency",
       "source_file": "core_05_band_participation.md",
       "anchor": "#educational-agency",
-      "line_start": 3217,
-      "line_end": 3277,
+      "line_start": 3218,
+      "line_end": 3278,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3021
+        "line": 3022
       }
     },
     {
@@ -765,13 +792,13 @@
       "term": "Expression",
       "source_file": "core_05_band_participation.md",
       "anchor": "#expression-constitutional",
-      "line_start": 3082,
-      "line_end": 3169,
+      "line_start": 3083,
+      "line_end": 3170,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3019
+        "line": 3020
       }
     },
     {
@@ -927,8 +954,8 @@
       "term": "Foundational Constitutional Choice",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#foundational-constitutional-choice",
-      "line_start": 146,
-      "line_end": 200,
+      "line_start": 148,
+      "line_end": 202,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -942,7 +969,7 @@
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3023
+        "line": 3024
       }
     },
     {
@@ -994,13 +1021,13 @@
       "term": "Graduated Capability",
       "source_file": "core_05_band_participation.md",
       "anchor": "#graduated-capability-constitutional",
-      "line_start": 3468,
-      "line_end": 3514,
+      "line_start": 3469,
+      "line_end": 3515,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3370
+        "line": 3371
       }
     },
     {
@@ -1020,13 +1047,13 @@
       "term": "Hard Content",
       "source_file": "core_05_band_participation.md",
       "anchor": "#hard-content",
-      "line_start": 3170,
-      "line_end": 3216,
+      "line_start": 3171,
+      "line_end": 3217,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3020
+        "line": 3021
       }
     },
     {
@@ -1082,8 +1109,8 @@
       "term": "Incentive Alignment",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment",
-      "line_start": 392,
-      "line_end": 459,
+      "line_start": 539,
+      "line_end": 606,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1091,8 +1118,8 @@
       "term": "Incentive Alignment — baseline constitutional alignment",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
-      "line_start": 460,
-      "line_end": 489,
+      "line_start": 607,
+      "line_end": 636,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1100,8 +1127,8 @@
       "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 524,
-      "line_end": 576,
+      "line_start": 671,
+      "line_end": 723,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1109,8 +1136,8 @@
       "term": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-      "line_start": 490,
-      "line_end": 523,
+      "line_start": 637,
+      "line_end": 670,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1118,8 +1145,8 @@
       "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
-      "line_start": 373,
-      "line_end": 576,
+      "line_start": 520,
+      "line_end": 723,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1154,8 +1181,8 @@
       "term": "Innovation Reward and Anti-Enclosure",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#innovation-reward-and-anti-enclosure",
-      "line_start": 251,
-      "line_end": 339,
+      "line_start": 253,
+      "line_end": 341,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1383,7 +1410,7 @@
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3018
+        "line": 3019
       }
     },
     {
@@ -1435,8 +1462,8 @@
       "term": "No-Bypass",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#no-bypass",
-      "line_start": 340,
-      "line_end": 372,
+      "line_start": 342,
+      "line_end": 371,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -1444,8 +1471,8 @@
       "term": "Non-Compliance",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#non-compliance",
-      "line_start": 41,
-      "line_end": 89,
+      "line_start": 43,
+      "line_end": 91,
       "category": "independent",
       "cluster_membership": null
     },
@@ -1867,13 +1894,13 @@
       "term": "Self-Determination",
       "source_file": "core_05_band_participation.md",
       "anchor": "#self-determination-constitutional",
-      "line_start": 3035,
-      "line_end": 3081,
+      "line_start": 3036,
+      "line_end": 3082,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3017
+        "line": 3018
       }
     },
     {
@@ -2008,7 +2035,7 @@
       "source_file": "core_05_band_participation.md",
       "anchor": "#stakeholder-rights-collision-record-binding-stakeholder-choice",
       "line_start": 2963,
-      "line_end": 2999,
+      "line_end": 3000,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P2 Binding Stakeholder Choice",
@@ -2482,13 +2509,13 @@
       "term": "Volitional Integrity",
       "source_file": "core_05_band_participation.md",
       "anchor": "#volitional-integrity",
-      "line_start": 3278,
-      "line_end": 3335,
+      "line_start": 3279,
+      "line_end": 3336,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity",
         "cluster_file": "core_05_band_participation.md",
-        "line": 3022
+        "line": 3023
       }
     },
     {
