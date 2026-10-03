@@ -29,3 +29,5 @@ Spine pack (generated pointers, not duties): `doc_architecture/generated/spine_p
 Patterns: `ai_corpus/AI_NAVIGATION_GUIDE.md`.
 
 Renumbering or renaming Articles: also update the Mermaid charts that list them (**VIS-CHART-SYNC-03** in [doc_architecture.md](doc_architecture.md#chart-sync-on-renumbering-vis-chart-sync-03)).
+
+New session: check that the git branch name matches the work, and rename it when it does not (**GIT-BRANCH-NAME-01** in [doc_architecture.md](doc_architecture.md#branch-naming-git-branch-name-01)).

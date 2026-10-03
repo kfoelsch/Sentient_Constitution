@@ -107,26 +107,28 @@ Their source is the [Preamble’s Constitutional Tetrad](../core_00_preamble.md#
 flowchart TB
     subgraph Foundation[" "]
         direction TB
-        subgraph AimRow["Two Constitutional Aims"]
+        subgraph Aims["Two Constitutional Aims"]
             direction LR
             F["Flourishing<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
             C["Continuity<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
         end
-        subgraph TetradRow1["Constitutional Tetrad · participation and oversight"]
+        subgraph Tetrad1["Constitutional Tetrad · participation and oversight"]
             direction LR
             P["Participation<br/><br/>• Affected sentients get a real voice<br/>• Fair representation and a fair chance to challenge<br/>• Access to consequential roles in proportion to stake"]
             O["Oversight<br/><br/>• Watching, checking, verifying, and keeping records<br/>• Independent review can constrain bad choices"]
         end
-        subgraph TetradRow2["Constitutional Tetrad · accountability and timeliness"]
+        subgraph Tetrad2["Constitutional Tetrad · accountability and timeliness"]
             direction LR
             A["Accountability<br/><br/>• Responsibility traces to the right actors<br/>• Answerability, redress, and real correction<br/>• Bad outcomes trigger repair"]
             T["Timeliness<br/><br/>• Problems are detected, challenged, resolved, and fixed<br/>• Time limits match the material stake<br/>• Delay cannot erase rights, remedies, or repair"]
         end
     end
+    F ~~~ P
+    P ~~~ A
     style Foundation fill:none,stroke:none
-    style AimRow fill:none,stroke:none
-    style TetradRow1 fill:none,stroke:none
-    style TetradRow2 fill:none,stroke:none
+    style Aims fill:none,stroke:none
+    style Tetrad1 fill:none,stroke:none
+    style Tetrad2 fill:none,stroke:none
     style F fill:none,stroke:#16a34a,color:#ffffff
     style C fill:none,stroke:#16a34a,color:#ffffff
     style P fill:none,stroke:#0f766e,color:#ffffff
@@ -180,6 +182,48 @@ flowchart TB
 Flourishing is stated as an outcome (wellbeing) and sustained by principles that depend on one another. **Safety** and **Truth** come first as non-negotiable constraints: systems may not foreseeably endanger sentients or deceive them. Both feed **Trust**, because reliance has to be earned on safe and honest ground, and Trust in turn supports **Freedom**, the bounded agency that lets sentients choose, dissent, organize, and leave. The arrows show how the principles build on one another. They do not rank the principles or override the integrated reading described in [Authority Stack and Internal Hierarchy](#authority-stack-and-internal-hierarchy).
 
 Their source is [Chapter One §2 Flourishing Aim: Introduction](../core_01_a_values_principles.md#2-flourishing-aim-introduction), which maps each principle to its Articles and definitions. The constraints themselves are stated in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth).
+
+<a id="continuity-and-its-principles"></a>
+### Continuity and its principles
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    C["Continuity aim<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing<br/>• Always bounded by the Rights Floor"]
+    CAP["§9 Shared-System Capacity<br/><br/>• §9.1 Productive Capacity (Instrumental Good)<br/>• §9.2 Constitutional Efficiency<br/>• Straddles both aims"]
+    FL["Flourishing aim<br/><br/>• §3 to §7"]
+    RES["§10 Resilience and Self-Healing Design<br/><br/>• Detect, contain, fail safely, recover honestly"]
+    MKT["§11 Market Structure<br/><br/>• §11.1 Market Concentration Threshold Mechanism<br/>• §11.2 Pro-Competition and Anti-Domination<br/>• §11.3 Consolidation Ceiling<br/>• §11.4 Resource and Dependency Concentration"]
+    EV["§12 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment"]
+    C -->|"opens with"| CAP
+    GL["&nbsp;"]
+    GE["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    GF[" "]
+    CAP ~~~ GL
+    GL ~~~ GE
+    GE ~~~ GF
+    GE ~~~ FL
+    CAP -->|"is kept durable by"| RES
+    CAP -->|"is kept contestable by"| MKT
+    RES -->|"is verified as a whole by"| EV
+    MKT -->|"is verified as a whole by"| EV
+    EV -->|"confirms the whole system serves"| FL
+    CAP -.->|"is a means toward"| FL
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style CAP fill:none,stroke:#9333ea,color:#ffffff
+    style FL fill:none,stroke:#16a34a,color:#ffffff
+    style RES fill:none,stroke:#64748b,color:#ffffff
+    style MKT fill:none,stroke:#0f766e,color:#ffffff
+    style EV fill:none,stroke:#ea580c,color:#ffffff
+    style GL fill:none,stroke:none,color:#111111
+    style GE fill:none,stroke:none,color:#111111
+    style GF fill:none,stroke:none,color:#111111
+```
+
+Continuity opens with **shared-system capacity**, the ability to keep doing what a system is for. Capacity is a means toward Flourishing, never a trump card over safety, truth, rights, or ecology. **Resilience** keeps that capacity durable, and **market structure** keeps it contestable. **Systemic evaluation** comes last because it checks the whole: before anyone claims a system is compliant, safe, or well governed, someone must have looked at its dependencies and incentives, not just one part at one moment.
+
+Their source is [Chapter One §8 Continuity Aim: Introduction](../core_01_a_values_principles.md#8-continuity-aim-introduction), which maps each principle to its Articles and definitions. Where Continuity and Flourishing collide, they are weighed under [§13 Process Conflict Resolution](../core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
 
 <a id="stewardship-pillars"></a>
 ### Stewardship: three pillars

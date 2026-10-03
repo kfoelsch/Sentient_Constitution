@@ -139,7 +139,7 @@ flowchart TB
     style T fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-*The aims describe what shared systems must pursue; the Tetrad describes the duties that keep that pursuit legitimate. All four duties scale with [material stake](core_00_preamble.md#material-stake), and both aims remain bounded by the Rights Floor. Reproduced from the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad).*
+*The aims describe what shared systems must pursue; the Tetrad describes the duties that keep that pursuit legitimate. All four duties scale with [material stake](core_00_preamble.md#material-stake), and both aims remain bounded by the Rights Floor. Reproduced from the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#aims-and-tetrad).*
 
 These values:
 - are not independent, and in ordinary operation they are not strictly hierarchical.
@@ -1144,7 +1144,7 @@ flowchart TB
     CAP["§9 Shared-System Capacity<br/><br/>• §9.1 Productive Capacity (Instrumental Good)<br/>• §9.2 Constitutional Efficiency<br/>• Straddles both aims"]
     FL["Flourishing aim<br/><br/>• §3 to §7"]
     RES["§10 Resilience and Self-Healing Design<br/><br/>• Detect, contain, fail safely, recover honestly"]
-    MKT["§11 Market Structure<br/><br/>• §11.1 Market Concentration Threshold Mechanism<br/>• §11.2 Pro-Competition and Anti-Domination<br/>• §11.3 Consolidation Ceiling"]
+    MKT["§11 Market Structure<br/><br/>• §11.1 Market Concentration Threshold Mechanism<br/>• §11.2 Pro-Competition and Anti-Domination<br/>• §11.3 Consolidation Ceiling<br/>• §11.4 Resource and Dependency Concentration"]
     EV["§12 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment"]
     C -->|"opens with"| CAP
     GL["&nbsp;"]
@@ -1171,7 +1171,7 @@ flowchart TB
     style GF fill:none,stroke:none,color:#111111
 ```
 
-*Continuity opens with the capacity that bridges to Flourishing, keeps it durable through resilience and contestable through market structure, and verifies it as a whole. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions.*
+*Continuity opens with the capacity that bridges to Flourishing, keeps it durable through resilience and contestable through market structure, and verifies it as a whole. Colors are reusable visual cues, not claims of priority. Each principle's Trace names its Articles, and its Definitions · Assessment · Compliance widget names its definitions. Reproduced in the [Conceptual Overview](guides/CONCEPTUAL_OVERVIEW.md#continuity-and-its-principles).*
 
 <a id="9-shared-system-capacity"></a>
 ### 9. Shared-System Capacity
