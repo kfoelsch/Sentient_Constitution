@@ -837,7 +837,7 @@ The right to this correction is stated in [Article XIII-B](core_06_rights_part_c
 - Read with: [§11 Market Structure](#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with: [§7.1 Limitation Discipline](#71-limitation-discipline) and [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) through [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles: [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [4 Safety](#4-safety-harm-constraint); [5 Truth](#5-truth-epistemic-integrity-constraint); [6. Trust](#6-trust-and-trustworthiness-coordination-integrity); and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
-- Downstream: [§7.1 Limitation Discipline](#71-limitation-discipline) through [§7.4 Voluntary Discontinuation and Exit Rights](#74-voluntary-discontinuation-and-exit-rights); [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*the public-authority counterpart of Freedom*); [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); and [§13.1 decision-record discipline](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) where concrete applications require collision handling.
+- Downstream: [§7.1 Limitation Discipline](#71-limitation-discipline) through [§7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#74-voluntary-discontinuation-and-exit-rights); [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*the public-authority counterpart of Freedom*); [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); and [§13.1 decision-record discipline](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
   - Especially [Article VI: Equal Basic Rights](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Article IV: Right to Sentient-Centered Education](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Article VII: Self-Ownership](core_06_rights_part_b.md#article-vii-self-ownership), [Article IX: Likeness, Experiential Data, and Publication Rights](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights), [Article X: Self-Determination, Agency, and Participation](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Article XI: Conscience, Expression, Association, and Cooperative Interaction](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction), [Article XII: Stakeholder System Participation, Representation, and Due Process](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Article XIX: Standing and Participation Status](core_06_rights_part_d.md#article-xix-standing-and-participation-status), and [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Six Rights Floor context where agency is limited or claimed.
@@ -977,11 +977,11 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 - Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster.
 - Do not apply the anti-segmentation package of **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) just because one of those terms appears.
 
-**What this section does not change.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
+**Scope and limits of this section.**
 
-**Compartments.** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
-
-Whole-system evaluations must test anti-segmentation under [Chapter Eight §3.5 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
+- **What it does not change.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
+- **Compartments.** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
+- **Whole-system evaluations.** Must test anti-segmentation under [Chapter Eight §3.5 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
 ##### 7.2.1 Aligned Self-Organization
 <a id="721-aligned-self-organization"></a>
@@ -1030,7 +1030,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 **Dissent keeps systems contestable.** The [**Continuity**](core_00_preamble.md#continuity) aim depends on constitutional systems that stay contestable. Dissent and peaceful protest are how contest reaches authority from outside formal process, and how errors that formal process has missed become visible. They serve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs.
 
-**Dissent is not subversion.** Disagreeing with this Constitution or with the authority acting under it, and advocating by peaceful and lawful means to amend it or to change who holds authority, is exercise of freedom. It is not the subversion of constitutional systems excluded from protected agency in [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency). Subversion requires force, coercion, usurpation, or making constitutional process or remedies unusable in practice.
+**Dissent is not subversion.** Disagreeing with this Constitution or with the authority acting under it, and advocating by peaceful and lawful means to amend it or to change who holds authority, is exercise of freedom. It is not the [subversion](core_05_band_accountability.md#subversion) of constitutional systems excluded from protected agency in [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency). Subversion requires force, coercion, usurpation, or making constitutional process or remedies unusable in practice.
 
 **Limiting dissent follows limitation discipline.** Dissent and peaceful protest may be limited only under [§7.1 Limitation Discipline](#71-limitation-discipline).
 - Disagreement, disruption, inconvenience, offense, unpopularity, or pressure on authority is not, by itself, **material harm** or **systemic risk**.
@@ -1038,11 +1038,15 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 **Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)**.
 
-Whole-system evaluations must test this principle under [Chapter Eight §3.5.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest) before classification, governance, or compliance claims stand where it applies.
+When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Eight §3.5.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest). Until that check is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
 
-**What this section does not change.** **§7.3** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor. It does not narrow **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*), and it does not protect separable conduct that independently breaches Safety or another sentient's Rights-Floor minimums.
+**What this section does not change.**
 
-#### 7.4 Voluntary Discontinuation and Exit Rights
+- **§7.3** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor.
+- It does not narrow **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*).
+- It does not protect separable conduct that independently breaches Safety or another sentient's Rights-Floor minimums.
+
+#### 7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -1066,7 +1070,7 @@ A high-stakes life-direction matter may not be treated as voluntary through form
 
 **Admission scope.** This subsection applies to:
 - voluntary discontinuation
-- irreversible or practically irreversible self-directed changes
+- irreversible or practically irreversible self-directed changes, including major self-modification
 - dependency-rich decisions materially affecting continued existence or essential agency
 - comparable decisions where voluntariness depends on jointly testing consent, self-determination, coercion/manipulation, information, dependency pressure, and reversibility
 
@@ -1084,7 +1088,7 @@ This subsection does **not** import voluntary-discontinuation discipline into th
 - sexual-consent
 - commercial-service
 
-Whole-system evaluations must test these conditions under [Chapter Eight §3.4 Voluntary Discontinuation and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
+Whole-system evaluations must test these conditions under [Chapter Eight §3.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-major-self-modification-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Continuity Aim: Introduction

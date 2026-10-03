@@ -1233,6 +1233,54 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 ---
 
+<a id="subversion"></a>
+
+#### Subversion
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §7 Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency); [Chapter One §7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) (dissent is not subversion).
+- Canonical owner: this definition states what subversion is. [Chapter Eleven §2](core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (criteria 5 and 6) and [Chapter Eleven §5.1](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) apply it to misconduct designation. They do not redefine it.
+- Rights-Floor read-with: **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)** (*Assembly, Dissent, and Peaceful Protest*).
+- Read with: [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Contestability](core_05_band_accountability.md#contestability), [System Capture](core_05_band_continuity.md#system-capture), [Anti-Constitutional Misconduct Review](core_05_band_accountability.md#anti-constitutional-misconduct-review), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
+
+</details>
+
+<br>
+
+*In plain terms: subversion is attacking constitutional systems by force, coercion, or taking power that was never assigned — or by making their process and remedies unusable in practice. Disagreeing with those systems, and working openly and lawfully to change them, is not subversion.*
+
+- **What it is**
+  - **In scope:** Conduct, or a material attempt at conduct, that aims to overthrow, suspend, replace, or defeat constitutional authority, process, or remedies by:
+    - **force**;
+    - [coercion](core_05_band_participation.md#coercion-and-manipulation-constitutional);
+    - **usurpation** — exercising constitutional authority that was never lawfully assigned to the actor; or
+    - making constitutional process or remedies unusable in practice, so that they remain only on paper (see [Contestability](core_05_band_accountability.md#contestability)).
+  - **In scope:** An attempt counts even if it fails, where it is material.
+  - **Out of scope:**
+    - disagreement with this Constitution or with authority acting under it;
+    - peaceful, lawful advocacy to amend this Constitution or to change who holds authority;
+    - dissent, peaceful protest, and civil disobedience protected by **Article XI-D**; and
+    - [Necessity](core_05_band_accountability.md#necessity)-bounded emergency measures justified under **Chapter One** and **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
+<a id="subversion-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — checks whether constitutional process and remedies stay usable and answerable.
+
+    **Primary assessment:**
+    - Ask what the conduct does, not what it is called. Look at its purpose and its effect on constitutional authority, process, and remedies.
+    - Separate force, coercion, or usurpation from the second route (making process or remedies unusable). Each needs its own proof.
+    - Disruption, inconvenience, offense, unpopularity, or pressure on authority is not subversion by itself.
+  - **Secondary measure:** [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Contestability](core_05_band_accountability.md#contestability), and [System Capture](core_05_band_continuity.md#system-capture) — co-measures that show whether pressure, lost challenge pathways, or captured control are doing the subverting.
+
+    **Secondary assessment:** When evaluating the primary trace, test whether a formally lawful step is being used to reach one of the four routes above. Test whether the actor is also claiming protected dissent for conduct that is separable and independently subversive.
+<a id="subversion-c"></a>
+- **What must hold**
+  - **Primary failure:** Subversion of constitutional systems is non-compliant. It is not protected agency under [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency).
+  - **Secondary failure:** Treating dissent or peaceful protest as subversion, or using the label to limit them outside [Chapter One §7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), is also non-compliant.
+
+---
+
 <a id="assembly-collective-organization-institutional-formation-semi-independent"></a>
 <a id="governance-architecture-oversight-decentralization-and-concentration-cluster"></a>
 

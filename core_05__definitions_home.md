@@ -313,6 +313,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional)
 - [Substrate Class](core_05_band_participation.md#substrate-agnostic)
+- [Subversion](core_05_band_accountability.md#subversion)
 - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary)
 - [Sustainability](core_05_band_continuity.md#sustainability)
 - [Sustained High-Gravity Pattern](core_05_band_accountability.md#sustained-high-gravity-pattern)
