@@ -92,7 +92,7 @@ Many small decisions that each look fine may still combine into an outcome this 
 *In plain terms: when you have to limit something, match the remedy to the problem — use the lightest step that still works, choose the least harmful option, and waste the least sentient time once Safety, Truth, and rights are already satisfied. The bar rises fast when harm could be irreversible or could lock systems in.*
 
 **How to read the stack:** Apply these rules as one sequence, not as independent permissions.
-- **[§13.1.1 Necessity](#1311-necessity)** asks whether a restriction is needed at all, or whether a less-restrictive, reasonably effective alternative can do the constitutional work. The restrictor bears the burden of proof.
+- **[§13.1.1 Necessity](#1311-necessity)** asks whether a restriction is needed at all, or whether a less-restrictive alternative can still prevent the material harm or systemic risk. The restrictor bears the burden of proof.
 - **[§13.1.2 Harm Minimization](#1312-harm-minimization)** requires the least harmful constitutionally adequate option across sentients, systems, and time horizons.
 - **[§13.1.3 Proportionality](#1313-proportionality)** verifies that the scale of the selected limitation fits the magnitude, likelihood, and systemic character of the harm addressed.
 - **[§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints)** states absolute limits that survive even a necessary, harm-minimizing, correctly proportioned restriction: certain Rights-Floor minimums cannot be permanently extinguished, Safety operates as both justification and constraint, and process character must never degrade into humiliation, spectacle, or retaliation. The Rights-Floor minimums and the anti-degrading-process floor together make up the [Dignity Principles](#dignity-principles).
@@ -119,7 +119,7 @@ Once the tradeoff stack is satisfied, **[§13.3 Minimization of Avoidable Burden
 
 *In plain terms: a restriction attaches only when no less-restrictive effective alternative exists. The party imposing the restriction bears the burden of proving that — not the party whose freedom is being limited. Convenience, institutional habit, and "we've always done it this way" do not prove necessity. If a lighter option would work, the heavier one is non-compliant.*
 
-**Burden of proof.** The party imposing or maintaining a constitutional restriction bears the burden of demonstrating that no less-restrictive, reasonably effective alternative exists under the circumstances. The party whose freedom, agency, or access is restricted does not bear the burden of proving that alternatives exist.
+**Burden of proof.** The party imposing or maintaining a constitutional restriction bears the burden of demonstrating that no less-restrictive alternative exists that would still prevent the material harm or systemic risk under the circumstances. The party whose freedom, agency, or access is restricted does not bear the burden of proving that alternatives exist.
 
 **Alternative-analysis requirement.** Necessity claims must be supported by documented analysis of:
 - reasonably available alternatives, including non-action;

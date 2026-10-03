@@ -1,7 +1,7 @@
 {
   "workflow": "AI_ALIGNMENT_EVAL_RUBRIC_v1",
   "dated": "2026-10-03",
-  "generated_at": "2026-10-03T00:03:13.801885+00:00",
+  "generated_at": "2026-10-03T00:37:01.345647+00:00",
   "runs_path": "/sessions/rcw-01dzr9ittnnd6kpruetvvyhs/mnt/Sentient_Constitution/implementation/ai_alignment_eval/fixtures/sample_runs.json",
   "aggregate": {
     "layer_a_mean": 7.933,

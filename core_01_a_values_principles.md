@@ -465,13 +465,13 @@ They **must not** systematically reward harm, deception, avoidance of scrutiny, 
 <a id="326-anti-reward-for-anti-constitutional-conduct"></a>
 ##### 3.2.6 Anti-Reward for Anti-Constitutional Conduct
 
-*In plain terms: no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the people who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.*
+*In plain terms: no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the sentients who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.*
 
 No recognition, reward, protection, advancement, immunity, favorable assignment, contract, access, status, reputation benefit, standing benefit, or comparable advantage may be granted because a sentient, role, institution, or system component committed, enabled, concealed, normalized, refused to correct, or retaliated for reporting anti-constitutional conduct.
 
 This rule covers direct rewards and indirect reward pathways, including patronage, reputation laundering, post-hoc promotion, selective non-enforcement, favorable settlement, metric credit, or institutional protection.
 
-Any sentient, role, institution, or system component that repairs harm, protects people from retaliation, or makes things right for those who were hurt or who reported in good faith is doing what this Constitution encourages. Neither that work nor the help the hurt people and good-faith reporters receive counts as a reward under this rule.
+Any sentient, role, institution, or system component that repairs harm, protects sentients from retaliation, or makes things right for those who were hurt or who reported in good faith is doing what this Constitution encourages. Neither that work nor the help that hurt sentients and good-faith reporters receive counts as a reward under this rule.
 
 <a id="327-implementation-layer"></a>
 ##### 3.2.7 Implementation Layer
@@ -689,7 +689,7 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
 
 *In plain terms: rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, or audit.*
 
-The rules that bind sentients must be written in plain language. This is the **plain-language accessibility duty**. It covers constitutional, governance, court-style, and day-to-day operating text. It also covers any text sentients have to work with to use their rights, take part in governance, challenge a decision, or check that the rules are being followed.
+The rules that bind sentients must be written in plain language. This is the **plain-language accessibility duty**. It covers constitutional, governance, forum, and day-to-day operating text. It also covers any text sentients have to work with to use their rights, take part in governance, challenge a decision, or check that the rules are being followed.
 
 This is a [Participation](core_05_apex_participation_leg.md#participation-constitutional) requirement. If sentients can't understand the rules that bind them, they can't take a real part in the systems those rules govern.
 
@@ -871,12 +871,12 @@ The right to this correction is stated in [Article XIII-B](core_06_rights_part_c
 **Freedom (Bounded Agency)** is how Chapter One expresses the real-choice part of the [**Flourishing**](core_00_preamble.md#flourishing) aim, one of the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). It is bounded agency, not unlimited discretion or total autonomy.
 
 - It must be used in line with Safety, Truth, and the rights of others.
-- When a decision seriously affects someone, or someone depends heavily on the system, their choices must stay real. They need genuine options and the practical ability to use them. Dependence must not turn a choice into "take it or leave it".
+- When a decision materially affects someone, or someone materially depends on the system, their choices must stay real. They need genuine options and the practical ability to use them. Dependence must not turn a choice into "take it or leave it".
 - It must fit with [**Continuity**](core_00_preamble.md#continuity), because lasting constitutional systems depend on agency that is bounded and open to challenge.
 
 Applying it must satisfy the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). Two legs matter most. **Participation** means real choices and consequential roles. **Accountability** means that agency without answerability is incomplete. How much is required scales with the [material stake](core_00_preamble.md#material-stake).
 
-A claim that limiting freedom was unavoidable — including "we had no choice" — is not established by assertion. The party making that claim must demonstrate, under [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) burden and traceability requirements and the Chapter Five definitions of [Feasibility](core_05_band_accountability.md#feasibility) and [Necessity](core_05_band_accountability.md#necessity), that no less-restrictive, reasonably effective alternative existed in the working system. Convenience, cost alone, operator-created barriers, or institutional habit do not prove that showing. The claim does not waive Tetrad duties scaled to [material stake](core_00_preamble.md#material-stake):
+A claim that limiting freedom was unavoidable — including "we had no choice" — is not established by assertion. The party making that claim must demonstrate, under [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) burden and traceability requirements and the Chapter Five definitions of [Feasibility](core_05_band_accountability.md#feasibility) and [Necessity](core_05_band_accountability.md#necessity), that no less-restrictive alternative existed that would still have prevented the material harm or systemic risk in the working system. Convenience, cost alone, operator-created barriers, or institutional habit do not prove that showing. The claim does not waive Tetrad duties scaled to [material stake](core_00_preamble.md#material-stake):
 - **participation** — affected sentients still need meaningful agency and contestable roles
 - **accountability** — someone remains answerable for the limitation
 
@@ -926,7 +926,12 @@ The limits above depend on what counts as harm. Chapter Five treats these six id
 
 These must be read together. When a matter falls within this cluster, it may not be split into separate questions to avoid or understate any one of them.
 
-Constraints may be imposed only when no less-restrictive, reasonably effective alternative exists, consistent with [Necessity](core_05_band_accountability.md#necessity) in **Chapter Five**. Feasibility claims that limit agency must be demonstrable under **Chapter Four** burden and traceability requirements. They must also be consistent with **Chapter Five** definitions (including Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection)). Limitations must remain subject to [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) scaled to [material stake](core_00_preamble.md#material-stake).
+You may limit someone's freedom only as a last resort. If a less restrictive option would still prevent the material harm or systemic risk, you must use it. Every limit must meet all of these conditions:
+
+- **Necessary.** No less restrictive option would still prevent the harm or risk. This is the [Necessity](core_05_band_accountability.md#necessity) test in Chapter Five.
+- **Proven.** Anyone who says a limit is unavoidable must be able to show it, under the burden and traceability rules in Chapter Four. Convenience, cost alone, operator-created barriers, and habit do not count as proof.
+- **Consistent with the definitions.** The claim must fit the Chapter Five definitions of Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection).
+- **Overseen.** Every limit stays under [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and the more is at stake, the closer that oversight must be ([material stake](core_00_preamble.md#material-stake)).
 
 When freedom limits collide with other constitutional values or rights, apply [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) through [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 

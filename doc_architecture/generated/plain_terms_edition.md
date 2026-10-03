@@ -241,7 +241,7 @@ wellbeing is not only what's forbidden and what's fair — shared systems should
 
 ###### 3.2.6 Anti-Reward for Anti-Constitutional Conduct
 
-no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the people who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.
+no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the sentients who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.
 
 [Source](../../core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)
 
@@ -1223,7 +1223,7 @@ when several lawful options remain, choose the one expected to cause the least t
 
 ##### Necessity
 
-a restriction is necessary only when no less-restrictive option would work reasonably well in the real system. Habit, operator convenience, or cost alone does not prove necessity.
+a restriction is necessary only when no less-restrictive option would still prevent the harm or risk in the real system. Habit, operator convenience, or cost alone does not prove necessity.
 
 [Source](../../core_05_band_accountability.md#necessity)
 

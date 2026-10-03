@@ -172,10 +172,10 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 <br>
 
-*In plain terms: a restriction is necessary only when no less-restrictive option would work reasonably well in the real system. Habit, operator convenience, or cost alone does not prove necessity.*
+*In plain terms: a restriction is necessary only when no less-restrictive option would still prevent the harm or risk in the real system. Habit, operator convenience, or cost alone does not prove necessity.*
 
 - **What it is**
-  - **In scope:** A constraint is allowed only when no less-restrictive, reasonably effective alternative exists under the full conditions of the working system. This test must remain consistent with [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency).
+  - **In scope:** A constraint is allowed only when no less-restrictive alternative exists that would still prevent the material harm or systemic risk under the full conditions of the working system. This test must remain consistent with [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency).
   - **Out of scope:** ordinary operational preference or habit talk with no constraint or rights burden at stake.
 <a id="necessity-a"></a>
 - **How to measure and assess**
@@ -185,7 +185,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <a id="necessity-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to impose a constraint:
-    - when a less-restrictive, reasonably effective alternative exists; or
+    - when a less-restrictive alternative exists that would still prevent the material harm or systemic risk; or
     - when the alternatives were not adequately analyzed.
 
     A necessity label or paperwork with no real effect in the situation being evaluated is also non-compliant. This is especially serious when the constraint burdens:
