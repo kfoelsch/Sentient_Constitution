@@ -1022,7 +1022,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter One §3.1 Fairness](core_01_a_values_principles.md#31-fairness) — especially [Chapter One §3.1.3 Fair Treatment](core_01_a_values_principles.md#313-fair-treatment).
-- Downstream: Principles: [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution) and [Chapter One §13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), where process, reasons, and review preserve rights-collision integrity.
+- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Chapter One §13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), where process, reasons, and review preserve rights-collision integrity.
 - Cluster component: [the dependent cluster *Substantive and Procedural Fairness*](core_05_band_participation.md#fairness-and-protected-status-semi-independent).
 - Read with: [Due Process](core_05_band_accountability.md#due-process-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Accountability](core_05_apex_accountability_leg.md#accountability), [Auditability](core_05_band_oversight.md#auditability), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), and [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 </details>
@@ -1980,7 +1980,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article XXI-D](core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
-- Downstream: Principles: [13. Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
+- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with: [Accountability, contestability, and redress pathways](core_05_band_accountability.md#accountability-contestability-semi-independent); [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05_band_oversight.md#movement-refuge-semi-independent), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional), [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional), [Article XXI-D](core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
@@ -2972,6 +2972,7 @@ See **Anti-Segmentation Principle**.
     the **Stakeholder System Participation** record discipline read together with:
     - [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test); and
     - **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*).
+  - This record is the Stakeholder System Participation instance of the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
   - **Out of scope:**
     - ordinary meeting minutes; or
     - the Chapter One rights-collision procedure itself when no binding stakeholder choice turns on the conflict.

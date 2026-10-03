@@ -142,7 +142,7 @@ Each refusal must state its ground, what is kept, and for how long. Kept data mu
 
 Weaker protection is allowed only with a **justified, documented override** under **CJS-3.12** (*burden-of-justification and constraint terms*). Systems must **not** selectively apply less restrictive classifications to enable access, processing, or disclosure that would otherwise be prohibited.
 
-If pieces of data can be rebuilt, transformed, or combined into something more sensitive, treat them under that **more sensitive** type.
+If pieces of data can be rebuilt, transformed, or combined into something more sensitive, treat them under that **more sensitive** type. This applies the [Chapter One §15.1.2 Derived-Information Principle](../core_01_b_interaction_interpretation.md#1512-derived-information-principle).
 
 **Same outcome, same type.** If two arrangements work the same way in practice, they get the same classification. Typing decisions and material changes must stay:
 - **transparent** (**CJS-3.10** (*disclosure sufficiency and observability terms*))

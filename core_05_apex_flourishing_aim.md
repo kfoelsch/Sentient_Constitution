@@ -52,7 +52,7 @@
   - **Primary failure:** Non-compliant when:
     - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
     - flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or
-    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
+    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 ---
 

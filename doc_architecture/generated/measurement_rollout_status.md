@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-03T10:06:32+00:00
+Generated: 2026-10-03T13:15:05+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **241/241** terms pass tier audit.
+Approved progress: **244/244** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -103,6 +103,7 @@ Approved progress: **241/241** terms pass tier audit.
 | Consent, Sexual | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Constitutional Community | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Contested-Sentient Life | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Derived Information | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Derived Sentient | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Developing Sentient | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Dignity and Equal Moral Standing | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
@@ -199,6 +200,8 @@ Approved progress: **241/241** terms pass tier audit.
 | Collective Accountability Failure | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Competency Bar | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Competency Clearance | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Constitutional Collision | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Constitutional Collision Record | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Constitutional Constraint | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Constitutional Contract Layer | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Contest Seat | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |

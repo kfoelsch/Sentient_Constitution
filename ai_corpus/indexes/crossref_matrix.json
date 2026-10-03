@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-03T07:06:22+00:00",
+  "generated_at": "2026-10-03T13:23:58+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -749,12 +749,12 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 57,
+            "count": 54,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1311-necessity",
-              "#1314-constitutional-floors-safety-and-process-character-constraints",
+              "#1314-constitutional-floors-safety-and-anti-degrading-process",
               "#1315-rights-collision-decision-test",
               "#132-epistemic-disclosure-constraints",
               "#1321-preservation-of-epistemic-integrity",
@@ -984,8 +984,9 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 12,
+            "count": 15,
             "anchors": [
+              "#constitutional-collision-record",
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c"
@@ -1254,7 +1255,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 34,
+            "count": 61,
             "anchors": [
               "#constitutional-tetrad",
               "#continuity",
@@ -1266,7 +1267,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 30,
+            "count": 32,
             "anchors": [
               "#3-foundational-objective-wellbeing-flourishing-aim",
               "#33-anti-degrading-process",
@@ -1305,7 +1306,7 @@
           },
           {
             "file": "core_04_burden_traceability_verification.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
               "#4-security-constrained-observability-and-verification-rule"
             ]
@@ -1320,7 +1321,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 13,
+            "count": 18,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -1330,7 +1331,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 7,
+            "count": 12,
             "anchors": [
               "#oversight",
               "#oversight-constitutional",
@@ -1340,8 +1341,28 @@
             ]
           },
           {
+            "file": "core_05_apex_participation_leg.md",
+            "count": 5,
+            "anchors": [
+              "#participation-constitutional",
+              "#participation-constitutional-a",
+              "#participation-constitutional-c",
+              "#participation-constitutional-m"
+            ]
+          },
+          {
+            "file": "core_05_apex_timeliness_leg.md",
+            "count": 5,
+            "anchors": [
+              "#timeliness-constitutional",
+              "#timeliness-constitutional-a",
+              "#timeliness-constitutional-c",
+              "#timeliness-constitutional-m"
+            ]
+          },
+          {
             "file": "core_05_band_accountability.md",
-            "count": 169,
+            "count": 170,
             "anchors": [
               "#contestability",
               "#contestability-a",
@@ -1363,6 +1384,7 @@
               "#irreversible-harm",
               "#irreversible-harm-a",
               "#irreversible-harm-c",
+              "#materially-binding-act-record",
               "#necessity",
               "#necessity-a",
               "#necessity-c",
@@ -1373,7 +1395,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 103,
+            "count": 114,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -1423,17 +1445,26 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 33,
+            "count": 61,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
               "#authority-stack-c",
+              "#constitutional-collision",
+              "#constitutional-collision-a",
+              "#constitutional-collision-c",
+              "#constitutional-collision-record",
+              "#constitutional-collision-record-a",
+              "#constitutional-collision-record-c",
               "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#corpus",
               "#corpus-a",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
               "#corpus-c",
+              "#derived-information",
+              "#derived-information-a",
+              "#derived-information-c",
               "#no-bypass",
               "#no-bypass-a",
               "#no-bypass-c"
@@ -1441,7 +1472,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 99,
+            "count": 101,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -1535,21 +1566,23 @@
           },
           {
             "file": "core_06_rights_part_e.md",
-            "count": 2,
+            "count": 4,
             "anchors": [
-              "#article-xxv-a-retrospective-review-and-disclosure"
+              "#article-xxv-a-retrospective-review-and-disclosure",
+              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#36-time-consistency-constraint"
@@ -1557,8 +1590,9 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
+              "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#61-emergency-measures-and-continuation-burden"
             ]
           },
@@ -1606,7 +1640,7 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 1,
+            "count": 3,
             "anchors": []
           }
         ]
@@ -1652,7 +1686,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 23,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#1313-proportionality",
               "#132-epistemic-disclosure-constraints",
               "#1323-privacy-and-informational-self-determination",
@@ -2336,7 +2370,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 3,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#132-epistemic-disclosure-constraints"
             ]
           },
@@ -2682,13 +2716,16 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 18,
+            "count": 21,
             "anchors": [
               "#authority-stack",
+              "#constitutional-collision",
+              "#constitutional-collision-record",
               "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#corpus",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
+              "#derived-information",
               "#documented-legitimacy-mechanism",
               "#foundational-constitutional-choice",
               "#incentive-alignment",
@@ -2704,7 +2741,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 33,
+            "count": 35,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -2714,6 +2751,8 @@
               "#evaluation-completeness-constraint",
               "#evidence-preservation",
               "#foreseeability-diligence",
+              "#gate",
+              "#gate-criteria",
               "#heightened-scrutiny",
               "#high-impact-and-systemic-harm-publication-constraint",
               "#material",
@@ -2827,6 +2866,19 @@
             "count": 1,
             "anchors": [
               "#11-market-structure"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 7,
+            "anchors": [
+              "#1311-necessity",
+              "#1313-proportionality",
+              "#1314-constitutional-floors-safety-and-anti-degrading-process",
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#1321-preservation-of-epistemic-integrity",
+              "#151-constitutional-no-bypass-principle",
+              "#1512-derived-information-principle"
             ]
           },
           {
@@ -2949,7 +3001,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#13-process-conflict-resolution"
+              "#13-constitutional-collision-resolution-process"
             ]
           },
           {
@@ -3057,7 +3109,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#13-process-conflict-resolution"
+              "#13-constitutional-collision-resolution-process"
             ]
           },
           {
@@ -3162,6 +3214,18 @@
               "#flourishing",
               "#material-stake",
               "#two-constitutional-aims"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 6,
+            "anchors": [
+              "#1312-harm-minimization",
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#132-epistemic-disclosure-constraints",
+              "#1324-proxy-divergence-invalidation",
+              "#151-constitutional-no-bypass-principle",
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -3273,6 +3337,19 @@
             ]
           },
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 7,
+            "anchors": [
+              "#1311-necessity",
+              "#1314-constitutional-floors-safety-and-anti-degrading-process",
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#132-epistemic-disclosure-constraints",
+              "#133-minimization-of-avoidable-burden",
+              "#151-constitutional-no-bypass-principle",
+              "#1512-derived-information-principle"
+            ]
+          },
+          {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
@@ -3368,6 +3445,25 @@
               "#flourishing",
               "#material-stake",
               "#two-constitutional-aims"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 5,
+            "anchors": [
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#1321-preservation-of-epistemic-integrity",
+              "#133-minimization-of-avoidable-burden",
+              "#151-constitutional-no-bypass-principle",
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 2,
+            "anchors": [
+              "#16-stewardship-in-depth",
+              "#17-consequential-stewardship-the-steward-role"
             ]
           },
           {
@@ -3472,7 +3568,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 41,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1311-necessity",
               "#1312-harm-minimization",
@@ -3981,9 +4077,9 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 27,
+            "count": 25,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1313-proportionality",
               "#1315-rights-collision-decision-test",
@@ -4184,10 +4280,12 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 33,
+            "count": 36,
             "anchors": [
               "#authority-stack",
+              "#constitutional-collision-record",
               "#constitutional-contract-layer",
+              "#derived-information",
               "#foundational-constitutional-choice",
               "#incentive-alignment",
               "#innovation-reward-and-anti-enclosure",
@@ -4431,7 +4529,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 26,
+            "count": 28,
             "anchors": [
               "#33-governance-layers",
               "#4-principles-definitions-and-rights",
@@ -4450,11 +4548,18 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 11,
+            "count": 21,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#1315-rights-collision-decision-test",
+              "#132-epistemic-disclosure-constraints",
+              "#1323-privacy-and-informational-self-determination",
+              "#14-prohibition-on-absolute-override",
               "#15-constitutional-interpretation",
               "#151-constitutional-no-bypass-principle",
+              "#1511-anti-segmentation-principle",
+              "#1512-derived-information-principle",
               "#154-constitutional-meaning-conflict-resolution"
             ]
           },
@@ -4510,7 +4615,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 13,
+            "count": 15,
             "anchors": [
               "#accountability",
               "#accountability-measurement-family"
@@ -4518,43 +4623,60 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#oversight-measurement-family"
             ]
           },
           {
-            "file": "core_05_band_accountability.md",
-            "count": 41,
+            "file": "core_05_apex_participation_leg.md",
+            "count": 1,
             "anchors": [
+              "#participation-measurement-family"
+            ]
+          },
+          {
+            "file": "core_05_band_accountability.md",
+            "count": 57,
+            "anchors": [
+              "#adjudication-and-dispute-resolution-constitutional",
               "#capture-of-resolution-pathways",
               "#contestability",
               "#contingent-claim",
               "#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent",
               "#due-process-constitutional",
               "#event-contract-market",
+              "#feasibility",
               "#game-of-chance",
               "#governance",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#harm",
+              "#harm-minimization-tradeoff-selection",
               "#insider-advantage",
+              "#materially-binding-act",
+              "#materially-binding-act-record",
               "#necessity",
               "#non-compliance-finding-profile",
-              "#proportionality"
+              "#proportionality",
+              "#standing-record-chapter-six"
             ]
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 32,
+            "count": 38,
             "anchors": [
               "#avoidable-burden",
               "#constitutional-efficiency",
               "#dependency",
+              "#identity-data-protection",
+              "#privacy-informational",
               "#productive-capacity-constitutional",
+              "#protected-internal-state-boundary-constitutional",
               "#residual-risk--misalignment",
               "#reversibility-constitutional",
               "#risk",
               "#safety-constraint",
+              "#surveillance-boundary",
               "#system-alignment-certification-constitutional",
               "#system-capture",
               "#systemic-lock-in",
@@ -4564,9 +4686,11 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 49,
+            "count": 60,
             "anchors": [
               "#authority-stack",
+              "#constitutional-collision",
+              "#constitutional-collision-record",
               "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#corpus",
@@ -4577,17 +4701,19 @@
               "#incentive-alignment-baseline-constitutional-alignment",
               "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
               "#incentive-alignment-semi-independent",
-              "#incentive-alignment-strategic-scaled-and-adversarial-evaluation"
+              "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
+              "#no-bypass"
             ]
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 34,
+            "count": 38,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
               "#epistemic-integrity",
               "#evaluation-completeness-constraint",
+              "#evidence-preservation",
               "#material-impact",
               "#materiality-determination",
               "#materiality-integrity-constraint",
@@ -4597,15 +4723,17 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 20,
+            "count": 23,
             "anchors": [
               "#binding-stakeholder-choice-cluster",
               "#lifespan-equivalent-unit-lequ",
               "#meaningful-agency",
               "#procedural-fairness-constitutional",
+              "#protected-characteristic-proxying-and-disparate-impact",
               "#sentience-non-exclusion",
               "#stakeholder",
               "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+              "#stakeholder-rights-collision-record-binding-stakeholder-choice",
               "#stakeholder-status-and-weight-cluster",
               "#stakeholder-weight"
             ]
@@ -4628,8 +4756,9 @@
           },
           {
             "file": "core_06_rights_part_e.md",
-            "count": 1,
+            "count": 3,
             "anchors": [
+              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
               "#article-xxvi-b-periodic-revalidation-and-transparent-change"
             ]
           },
@@ -4722,7 +4851,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 13,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1313-proportionality",
               "#132-epistemic-disclosure-constraints",
@@ -4767,7 +4896,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 32,
+            "count": 34,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-measurement-family",
@@ -4776,7 +4905,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 72,
+            "count": 76,
             "anchors": [
               "#contestability",
               "#feasibility",
@@ -4791,13 +4920,14 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 174,
+            "count": 176,
             "anchors": [
               "#cascading-failure",
               "#charter",
               "#dependency",
               "#privacy-informational",
               "#protected-internal-state-boundary-constitutional",
+              "#reversibility-constitutional",
               "#risk",
               "#risk-evaluation",
               "#safety-constraint",
@@ -4823,7 +4953,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 292,
+            "count": 304,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4833,6 +4963,8 @@
               "#evidence-preservation",
               "#foreseeability-diligence",
               "#foreseeability-diligence-and-reasonably-foreseeable",
+              "#gate",
+              "#gate-criteria",
               "#heightened-scrutiny",
               "#high-impact-and-systemic-harm-publication-constraint",
               "#material",
@@ -4894,6 +5026,14 @@
               "#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools",
               "#article-xvi-c-verification-accessibility",
               "#audit-three-layers"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_e.md",
+            "count": 3,
+            "anchors": [
+              "#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity",
+              "#article-xxvii-b-transitional-authority-limits-and-reauthorization"
             ]
           },
           {
@@ -4988,7 +5128,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 16,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1315-rights-collision-decision-test",
               "#1511-anti-segmentation-principle"
@@ -5097,9 +5237,10 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
               "#authority-stack",
+              "#constitutional-collision-record",
               "#constitutional-constraint",
               "#constitutional-contract-layer",
               "#foundational-constitutional-choice"
@@ -6175,7 +6316,7 @@
             "count": 3,
             "anchors": [
               "#131-core-tradeoff-principles",
-              "#1314-constitutional-floors-safety-and-process-character-constraints"
+              "#1314-constitutional-floors-safety-and-anti-degrading-process"
             ]
           },
           {
@@ -6474,16 +6615,18 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#avoidable-burden"
+              "#avoidable-burden",
+              "#system-alignment-certification-constitutional"
             ]
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#evidence-preservation",
+              "#gate-criteria",
               "#proxy-divergence"
             ]
           },
@@ -6529,6 +6672,13 @@
             "count": 1,
             "anchors": [
               "#2-four-seat-constitutional-floor"
+            ]
+          },
+          {
+            "file": "core_08_a_system_alignment_certification_evaluation.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-eight-system-alignment-certification"
             ]
           },
           {
@@ -7547,7 +7697,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 17,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1315-rights-collision-decision-test",
               "#132-epistemic-disclosure-constraints",
@@ -7983,9 +8133,9 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 44,
+            "count": 45,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1311-necessity",
               "#1313-proportionality",
@@ -7996,6 +8146,7 @@
               "#133-minimization-of-avoidable-burden",
               "#14-prohibition-on-absolute-override",
               "#151-constitutional-no-bypass-principle",
+              "#1512-derived-information-principle",
               "#anti-degrading-process-principle",
               "#dignity-principles",
               "#rights-floor-minimums-principle"
@@ -8462,7 +8613,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 26,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1311-necessity",
               "#1313-proportionality",
@@ -9146,9 +9297,9 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 23,
+            "count": 25,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#131-core-tradeoff-principles",
               "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
               "#1315-rights-collision-decision-test",
@@ -9157,6 +9308,7 @@
               "#14-prohibition-on-absolute-override",
               "#15-constitutional-interpretation",
               "#151-constitutional-no-bypass-principle",
+              "#anti-degrading-process-principle",
               "#default-interim-posture",
               "#rights-floor-minimums-principle"
             ]
@@ -9222,7 +9374,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 23,
+            "count": 22,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -9241,7 +9393,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 45,
+            "count": 48,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -9249,6 +9401,8 @@
               "#evidence-preservation",
               "#evidence-preservation-a",
               "#evidence-preservation-c",
+              "#gate",
+              "#gate-criteria",
               "#materiality-determination",
               "#materiality-determination-a",
               "#materiality-determination-c",
@@ -9295,7 +9449,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#chapter-eight-system-alignment-certification"
@@ -9310,7 +9464,7 @@
           },
           {
             "file": "core_09_standing_assessment.md",
-            "count": 2,
+            "count": 7,
             "anchors": [
               "#chapter-nine-compliance-violation-and-standing-model",
               "#verified-inputs-for-standing"
@@ -9321,14 +9475,19 @@
             "count": 5,
             "anchors": [
               "#43-voluntary-public-accountability-expression",
-              "#54-special-violation-rules"
+              "#54-special-violation-rules",
+              "#54-transition-exception-misaligned-rewards",
+              "#94-anti-evasion-and-look-through-authority"
             ]
           },
           {
             "file": "core_11_a_misconduct_designation.md",
-            "count": 2,
+            "count": 6,
             "anchors": [
-              "#4-3-voluntary-public-accountability-expression-anti-constitutional"
+              "#4-1-remedy-and-correction-anti-constitutional",
+              "#4-3-voluntary-public-accountability-expression-anti-constitutional",
+              "#chapter-eleven-anti-constitutional-misconduct",
+              "#dissent-and-peaceful-protest-carve-out"
             ]
           },
           {
@@ -9357,11 +9516,34 @@
             "anchors": []
           },
           {
+            "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-            "count": 7,
+            "count": 15,
             "anchors": [
               "#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives",
-              "#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements"
+              "#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements",
+              "#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication",
+              "#ci-145-article-xxvii-a-prioritizing-institutional-transition-targets"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+            "count": 1,
+            "anchors": [
+              "#cs-3-8-system-impact-classifications"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
+            "count": 4,
+            "anchors": [
+              "#cs-10-3-gate-criteria-and-advancement-rules",
+              "#cs-10-7-prioritizing-system-transition-targets",
+              "#cs-10-8-preservation-during-transition"
             ]
           }
         ]
@@ -9390,7 +9572,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#13-process-conflict-resolution",
+              "#13-constitutional-collision-resolution-process",
               "#1315-rights-collision-decision-test",
               "#133-minimization-of-avoidable-burden"
             ]
@@ -13349,6 +13531,13 @@
         "source": "corpus_systems/cs_02_a_information_types_and_handling.md",
         "targets": [
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#1512-derived-information-principle"
+            ]
+          },
+          {
             "file": "core_05_band_accountability.md",
             "count": 10,
             "anchors": [
@@ -14666,6 +14855,13 @@
             "count": 2,
             "anchors": [
               "#chapter-seventeen-incorporation-bridge"
+            ]
+          },
+          {
+            "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+            "count": 1,
+            "anchors": [
+              "#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication"
             ]
           },
           {
@@ -16929,6 +17125,13 @@
             "count": 1,
             "anchors": [
               "#chapter-six-foundational-rights"
+            ]
+          },
+          {
+            "file": "core_09_standing_assessment.md",
+            "count": 1,
+            "anchors": [
+              "#chapter-nine-compliance-violation-and-standing-model"
             ]
           },
           {

@@ -6,13 +6,13 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **642** of **905** headings carry a gloss (71%).
+Coverage: **648** of **911** headings carry a gloss (71%).
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00_preamble.md` (14/16 glossed)
 - [CHAPTER 01, PART A: VALUES PRINCIPLES](#chapter-01-part-a-values-principles) — `core_01_a_values_principles.md` (38/54 glossed)
-- [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (18/28 glossed)
+- [CHAPTER 01, PART B: INTERACTION AND INTERPRETATION](#chapter-01-part-b-interaction-and-interpretation) — `core_01_b_interaction_interpretation.md` (19/29 glossed)
 - [CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE](#chapter-01-part-c-stewardship-and-governance) — `core_01_c_stewardship_capacity_principles.md` (29/36 glossed)
 - [CHAPTER TWO: DEFINITION STRUCTURE AND COMPONENT REQUIREMENTS](#chapter-two-definition-structure-and-component-requirements) — `core_02_definition_structure.md` (8/12 glossed)
 - [CHAPTER THREE: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE](#chapter-three-definition-integrity-evasion-and-non-compliance) — `core_03_definition_integrity.md` (5/15 glossed)
@@ -26,8 +26,8 @@ Coverage: **642** of **905** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (75/87 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/84 glossed)
-- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (14/19 glossed)
-- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (27/37 glossed)
+- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (17/22 glossed)
+- [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (8/9 glossed)
@@ -469,13 +469,13 @@ this principle is a pointer. Whole-system evaluation must look beyond immediate 
 
 ## CHAPTER 01, PART B: INTERACTION AND INTERPRETATION
 
-Source file: [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) · 18/28 headings glossed
+Source file: [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) · 19/29 headings glossed
 
-#### 13. Process Conflict Resolution
+#### 13. Constitutional Collision Resolution Process
 
-values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](../../core_01_a_values_principles.md#71-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.
+Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](../../core_01_a_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.
 
-[Source](../../core_01_b_interaction_interpretation.md#13-process-conflict-resolution)
+[Source](../../core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)
 
 ##### 13.1 Core Tradeoff Principles
 
@@ -491,7 +491,7 @@ a restriction attaches only when no less-restrictive alternative would still pre
 
 ###### 13.1.2 Harm Minimization
 
-where multiple necessary options remain after [§13.1.1 Necessity](../../core_01_b_interaction_interpretation.md#1311-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](../../core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-process-character-constraints).
+where multiple necessary options remain after [§13.1.1 Necessity](../../core_01_b_interaction_interpretation.md#1311-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](../../core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process).
 
 [Source](../../core_01_b_interaction_interpretation.md#1312-harm-minimization)
 
@@ -501,11 +501,11 @@ proportionality verifies that the scale of a restriction fits the scale of the h
 
 [Source](../../core_01_b_interaction_interpretation.md#1313-proportionality)
 
-###### 13.1.4 Constitutional Floors, Safety, and Process-Character Constraints
+###### 13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process
 
 harm minimization has absolute limits. No matter how proportionate, necessary, or well-shaped a restriction is, certain things cannot be permanently taken away, and certain ways of carrying out a process are always off-limits. Safety is the constraint that grounds these floors: it justifies action to prevent serious harm, but it also constrains action — safety framing cannot be used as cover for extinguishing rights, degrading dignity, or bypassing the floors stated here.
 
-[Source](../../core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-process-character-constraints)
+[Source](../../core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process)
 
 ###### Dignity Principles
 
@@ -551,7 +551,7 @@ where trust and truth pull in different directions, truth wins. Trust cannot be 
 
 ###### 13.2.3 Privacy and Informational Self-Determination
 
-privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the collision is resolved under the [§13.1 decision-record discipline](../../core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.
+privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the Constitutional Collision is resolved under the [Constitutional Collision Record](../../core_05_band_integrative.md#constitutional-collision-record) requirements, not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.
 
 [Source](../../core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination)
 
@@ -569,7 +569,7 @@ once an option satisfies Safety, Truth, rights, and the tradeoff rules in §13.1
 
 #### 14. Prohibition on Absolute Override
 
-no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, or **accountability** legs below what material stake requires.
+no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, **accountability**, or **timeliness** legs below what material stake requires.
 
 [Source](../../core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)
 
@@ -590,6 +590,12 @@ read this Constitution as one whole. Chapter One states values and limits, but t
 No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails.
 
 [Source](../../core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)
+
+###### 15.1.2 Derived-Information Principle
+
+No-Bypass says changing the label does not lift a requirement, and Anti-Segmentation says chopping does not either. This section says the same about combining. Information is treated by what it reveals, not by how it was made: pieces that look harmless but add up to something sensitive are sensitive, and a "de-identified" or "aggregate" label is not safe while sentients can still be identified or something protected can still be reconstructed.
+
+[Source](../../core_01_b_interaction_interpretation.md#1512-derived-information-principle)
 
 ##### 15.2 Definitional layer and required disciplines
 
@@ -2223,7 +2229,7 @@ when automation or generative systems take work away from sentients at populatio
 
 ## Integrative Constitutional Definitions
 
-Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 14/19 headings glossed
+Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 17/22 headings glossed
 
 #### Integrative: Independent terms
 
@@ -2266,6 +2272,24 @@ reward real invention and useful creation — but do not let that reward harden 
 a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, instrument, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.
 
 [Source](../../core_05_band_integrative.md#no-bypass)
+
+##### Constitutional Collision
+
+a collision is when two things this Constitution requires cannot both be fully done in the same act, decision, or design, so honoring one limits the other. It is not a disagreement about facts, not a conflict between texts, and not a reason to drop a requirement. A real collision goes through the Constitutional Collision Resolution Process; a tension that disappears once each requirement is read in full is not a collision.
+
+[Source](../../core_05_band_integrative.md#constitutional-collision)
+
+##### Constitutional Collision Record
+
+a Collision Record is the written account of how one material Constitutional Collision was decided. It lets an affected party or an independent reviewer see which rule applied, what alternatives were weighed, what the evidence and uncertainty were, why this option was chosen, and when it comes back for review. It is not a second filing: the Act Record for the act that resolved the collision carries it.
+
+[Source](../../core_05_band_integrative.md#constitutional-collision-record)
+
+##### Derived Information
+
+derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information. It is treated by what it reveals, not by how harmless its inputs looked. Pieces that add up to something sensitive are sensitive, and a "de-identified" or "aggregate" label does not change that while the output can still be traced back to a sentient or used to reconstruct something protected.
+
+[Source](../../core_05_band_integrative.md#derived-information)
 
 #### Integrative: Semi-independent terms
 
@@ -2335,7 +2359,7 @@ a constitutional constraint is a binding limit that decides whether a claim, act
 
 ## Oversight Constitutional Definitions
 
-Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 27/37 headings glossed
+Source file: [`core_05_band_oversight.md`](../../core_05_band_oversight.md) · 29/39 headings glossed
 
 #### Oversight: Independent terms
 
@@ -2360,6 +2384,18 @@ how a system behaves under pressure — when sentients game it, coordinate acros
 bigger stake means harder oversight — how closely a system is watched and checked must match how much it actually matters, not a convenient low label.
 
 [Source](../../core_05_band_oversight.md#classification-scaled-governance)
+
+##### Gate
+
+a gate is a checkpoint in a transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.
+
+[Source](../../core_05_band_oversight.md#gate)
+
+##### Gate Criteria
+
+gate criteria are the specific tests a transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.
+
+[Source](../../core_05_band_oversight.md#gate-criteria)
 
 ##### Heightened Scrutiny
 
@@ -5047,19 +5083,19 @@ constitutional change must happen in the open, with stated reasons — not throu
 
 #### Article XXVII: Transition Governance, Continuity, and Re-Baselining
 
-**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. When a community shifts from legacy systems to constitutional operation, that shift must happen in steps — with basic Rights Floors still in force at every step, clear deadlines, and real review. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.
+**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. Nobody can run a full set of Rights Floors on day one, because a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those have to be built. So when a community shifts from legacy systems to constitutional operation, this Article asks for two different things. What the adopter must **not do** — make things worse, start new violations, destroy possible minds, hide the gap — binds from the start. What it must **deliver** — access, review, remedy — becomes enforceable step by step, scope by scope, as the institutions and culture that enforce it are verified ready. The Rights Floors are the fixed target the whole way, and the gap to them is measured, published, and shrinking on a dated path. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.
 
 [Source](../../core_06_rights_part_e.md#article-xxvii-transition-governance-continuity-and-re-baselining)
 
 ##### Article XXVII-A: Phased Adoption and Rights-Floor Continuity
 
-transitions move forward by meeting real gates, not by clocks or pressure — and Rights-Floor minimums stay in force at every phase.
+transitions move forward by meeting real gates, not by clocks or pressure. What the adopter must not do binds from day one. What it must deliver becomes enforceable as the forums, oversight, capability, and culture to enforce it are verified ready — scope by scope, on a dated path. The gap, and the data showing it closing, are public.
 
 [Source](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity)
 
 ##### Article XXVII-B: Transitional Authority Limits and Reauthorization
 
-temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load. Extending temporary authority requires real reasons — and the longer it runs, the higher the bar.
+temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load, and the measured gap to the full Rights Floors getting smaller on schedule. Extending temporary authority requires real reasons and real data — and the longer it runs, the higher the bar.
 
 [Source](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization)
 
@@ -5071,7 +5107,7 @@ when a transition stalls or fails, there must be a real off-ramp — and a stall
 
 ##### Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
 
-non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** through **CI-14.3**.
+non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. Ownership also does not shield property that is being used to carry out anti-constitutional conduct, though that case runs through the anti-constitutional misconduct chapter, not through transition powers. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** (*non-compliant property, seizure, voluntary incentives*) through **CI-14.3** (*operative transition-scoped remediation requirements*).
 
 [Source](../../core_06_rights_part_e.md#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives)
 

@@ -223,7 +223,7 @@ flowchart TB
 
 Continuity opens with **shared-system capacity**, the ability to keep doing what a system is for. Capacity is a means toward Flourishing, never a trump card over safety, truth, rights, or ecology. **Resilience** keeps that capacity durable, and **market structure** keeps it contestable. **Systemic evaluation** comes last because it checks the whole: before anyone claims a system is compliant, safe, or well governed, someone must have looked at its dependencies and incentives, not just one part at one moment.
 
-Their source is [Chapter One §8 Continuity Aim: Introduction](../core_01_a_values_principles.md#8-continuity-aim-introduction), which maps each principle to its Articles and definitions. Where Continuity and Flourishing collide, they are weighed under [§13 Process Conflict Resolution](../core_01_b_interaction_interpretation.md#13-process-conflict-resolution).
+Their source is [Chapter One §8 Continuity Aim: Introduction](../core_01_a_values_principles.md#8-continuity-aim-introduction), which maps each principle to its Articles and definitions. Where Continuity and Flourishing collide, they are weighed under [§13 Constitutional Collision Resolution Process](../core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 <a id="stewardship-pillars"></a>
 ### Stewardship: three pillars
