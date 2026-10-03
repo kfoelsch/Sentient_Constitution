@@ -6,11 +6,11 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§13–15: process conflict resolution, prohibition on absolute override, and constitutional interpretation).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter One, Part B** (§§13–15: process conflict resolution, prohibition on absolute override, and constitutional interpretation) — the part that keeps the Constitutional Tetrad intact when principles collide and when the Constitution is read.
 >
 > **Upstream:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (Chapter One, Part A — §§1–12, the Flourishing and Continuity aims)  
 > **Next:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (Chapter One, Part C — §§16–20, stewardship, governance, incentive alignment, and integrated application).
-> **Reading arc:** §13 process conflict resolution → §14 prohibition on absolute override → §15 constitutional interpretation.
+> **Reading arc:** §13 process conflict resolution (the tradeoff stack, disclosure limits, and avoidable burden) → §14 prohibition on absolute override → §15 constitutional interpretation (no-bypass, definitions, ambiguity, and precedence).
 
 </details>
 
@@ -46,6 +46,34 @@
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how Part B keeps the Constitutional Tetrad intact</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters. Per-section **Trace** widgets name the Tetrad legs each section engages; this block is a part-level map for readers entering Part B.
+
+**What Part B does.** [Part A](core_01_a_values_principles.md) develops the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims). Part B adds no new principle and no fifth duty. It keeps the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**, scaled to [material stake](core_00_preamble.md#material-stake) — intact in three situations:
+
+- **When principles collide** ([§13 Process Conflict Resolution](#13-process-conflict-resolution)): Safety and Truth come first, and every other tradeoff must preserve the Tetrad rather than weaken it to buy an easy resolution.
+- **When one value is pushed too far** ([§14 Prohibition on Absolute Override](#14-prohibition-on-absolute-override)): no value, and neither aim, may be used to hollow a leg below what material stake requires.
+- **When the Constitution is read or applied** ([§15 Constitutional Interpretation](#15-constitutional-interpretation)): relabeling, splitting, or rerouting the same act cannot avoid a requirement, and ambiguity is read toward the fullest protective effect as an integrated whole.
+
+**Where Part B carries each leg.** Each section's Trace lists every leg it engages. This table names the principal homes.
+
+| Tetrad leg | What Part B keeps real | Principal Part B homes |
+|---|---|---|
+| **Participation** | The burden of proof never falls on the restricted party; core challenge, review, and appeal rights cannot be permanently extinguished; disclosure limits must leave informed contestability intact; avoidable burden narrows agency | [§13.1.1](#1311-necessity), [§13.1.4](#1314-constitutional-floors-safety-and-process-character-constraints), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle) |
+| **Oversight** | Harm counted in full; decisions others can reconstruct and independently review; disclosure limits that keep scrutiny possible; metrics that stop counting once they diverge from their purpose | [§13.1.2](#1312-harm-minimization), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.2.4](#1324-proxy-divergence-invalidation), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
+| **Accountability** | The restrictor bears the burden of proof; answerability rises with authority; process may not degrade or humiliate; every disclosure limit is audited after the fact | [§13.1.1](#1311-necessity), [§13.1.3](#1313-proportionality), [§13.1.4](#1314-constitutional-floors-safety-and-process-character-constraints), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§15.1](#151-constitutional-no-bypass-principle) |
+| **Timeliness** | Restrictions are time-bounded and reviewable, with a restoration path; a pending collision runs on the applicable clock; delayed disclosure ends in disclosure; avoidable delay is avoidable burden; emergency narrowing is time-limited | [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
+
+**Sections that engage no leg directly.** [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle) and [§15.4.1](#1541-integrated-reading) through [§15.4.3](#1543-incorporation-layer) govern how the text is read and which source layer controls. Their Traces carry no Tetrad line by design.
+
+**Two meanings of time.** Time appears in Part B in two senses. Long time horizons (delayed and cumulative harm, the [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) applied in [§13.1.2](#1312-harm-minimization)) belong to the **Continuity** aim. Clocks, review cadences, and delay (time limits on restrictions, eventual disclosure, avoidable delay) belong to the **timeliness** leg.
+
+**Two axes, not a conflict.** Part A's aims say what shared systems pursue. Part B says what no tradeoff, override, or reading may take away on the way.
+
+</details>
+
 <br>
 
 <a id="13-process-conflict-resolution"></a>
@@ -63,6 +91,16 @@
 
 </details>
 
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Participation](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Accountability](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
+
+</details>
+
 <br>
 
 *In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline); rights conflicts need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and rights-collision procedure.*
@@ -73,8 +111,56 @@ Other tradeoffs must preserve the [Constitutional Tetrad](core_00_preamble.md#co
 
 Many small decisions that each look fine may still combine into an outcome this Constitution rejects. Where values or constraints conflict, systems must resolve them under **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*).
 
+Part B keeps the Tetrad intact in three situations. This section resolves collisions without weakening any leg. [§14 Prohibition on Absolute Override](#14-prohibition-on-absolute-override) bars any single value, including either aim, from overriding the others or hollowing a leg below what material stake requires. [§15 Constitutional Interpretation](#15-constitutional-interpretation) bars relabeling, splitting, or rerouting the same act to avoid a requirement, and reads ambiguity toward the fullest protective effect as an integrated whole.
+
+**Diagram: Part B and the Constitutional Tetrad**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    PA["Part A principles and the Two Constitutional Aims<br/><br/>• Flourishing and Continuity<br/>• Principles and constraints that can collide<br/>or be read more than one way"]
+    P13["§13 Process Conflict Resolution<br/><br/>• Safety and Truth first<br/>• Every other tradeoff preserves the Tetrad<br/>• Tradeoff stack, disclosure limits,<br/>and avoidable burden"]
+    P14["§14 Prohibition on Absolute Override<br/><br/>• No value is a trump<br/>• Neither aim overrides the other<br/>• No leg is hollowed below material stake"]
+    P15["§15 Constitutional Interpretation<br/><br/>• No-Bypass and Anti-Segmentation<br/>• Ambiguity read as an integrated whole<br/>• Source-layer precedence"]
+    TT["Constitutional Tetrad<br/><br/>• Kept intact, scaled to material stake<br/>• Participation · Oversight · Accountability · Timeliness"]
+    P["Participation<br/><br/>• Burden never on the restricted party<br/>• Challenge and appeal rights survive"]
+    O["Oversight<br/><br/>• Harm counted in full<br/>• Decisions others can reconstruct<br/>and independently review"]
+    A["Accountability<br/><br/>• Restrictor bears the burden<br/>• Answerability rises with authority"]
+    T["Timeliness<br/><br/>• Restrictions are time-bounded and reviewable<br/>• Delay cannot defeat remedy"]
+    PA --> P13
+    PA --> P14
+    PA --> P15
+    P13 --> TT
+    P14 --> TT
+    P15 --> TT
+    TT --> P
+    TT --> O
+    TT --> A
+    TT --> T
+    style PA fill:none,stroke:#16a34a,color:#ffffff
+    style P13 fill:none,stroke:#2563eb,color:#ffffff
+    style P14 fill:none,stroke:#2563eb,color:#ffffff
+    style P15 fill:none,stroke:#2563eb,color:#ffffff
+    style TT fill:none,stroke:#2563eb,color:#ffffff
+    style P fill:none,stroke:#0f766e,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style A fill:none,stroke:#db2777,color:#ffffff
+    style T fill:none,stroke:#9333ea,color:#ffffff
+```
+
+*Part A's principles and aims can collide and can be read more than one way. Part B resolves collisions, bars override, and fixes how the text is read, so that each Tetrad leg stays real at the level material stake requires. Outline colors reuse the Tetrad leg colors and are visual cues, not claims of priority. Each section's Trace names the legs it engages.*
+
 <a id="131-core-tradeoff-principles"></a>
 #### 13.1 Core Tradeoff Principles
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all four legs run through the tradeoff stack: **accountability** and **participation** ([§13.1.1](#1311-necessity), who bears the burden), **oversight** ([§13.1.2](#1312-harm-minimization) and [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), harm counted in full and a decision record others can review), and **timeliness** (§13.1.5, restrictions that are time-bounded and reviewable); [material stake](core_00_preamble.md#material-stake) scaling for the burden of proof and the depth of scrutiny. Each subsection's Trace names the legs it engages.
+- Subsections: [§13.1.1 Necessity](#1311-necessity) · [§13.1.2 Harm Minimization](#1312-harm-minimization) · [§13.1.3 Proportionality](#1313-proportionality) · [§13.1.4 Constitutional Floors, Safety, and Process-Character Constraints](#1314-constitutional-floors-safety-and-process-character-constraints) · [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -100,10 +186,45 @@ Many small decisions that each look fine may still combine into an outcome this 
 
 Once the tradeoff stack is satisfied, **[§13.3 Minimization of Avoidable Burden](#133-minimization-of-avoidable-burden)** applies to the resulting design: systems must prefer the option that wastes the least sentient time, attention, and effort.
 
+**Diagram: the tradeoff stack and the Tetrad legs each step engages**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    C["§13 Process Conflict Resolution<br/><br/>• Values or rights collide<br/>• Safety and Truth come first"]
+    N["§13.1.1 Necessity<br/><br/>• Restrictor bears the burden of proof<br/>• Alternatives analyzed on the record<br/>• Legs: accountability, participation, oversight"]
+    H["§13.1.2 Harm Minimization<br/><br/>• Least total harm across sentients, systems,<br/>ecosystems, and time<br/>• Legs: oversight, accountability"]
+    PR["§13.1.3 Proportionality<br/><br/>• Scrutiny rises with irreversibility and authority<br/>• Legs: accountability, oversight"]
+    FL["§13.1.4 Constitutional Floors, Safety, and<br/>Process-Character Constraints<br/><br/>• Dignity Principles cannot be traded below<br/>• Legs: participation, accountability"]
+    R["§13.1.5 Least-Restrictive, Time-Bounded, and<br/>Reviewable Constraint Principle<br/><br/>• Least restrictive, time-bounded, reviewable<br/>• Reconstructable record and interim posture<br/>• Legs: all four"]
+    D["§13.2 Epistemic Disclosure Constraints<br/><br/>• No distortion or suppression of truth<br/>• Limited or delayed disclosure only under conditions<br/>• Legs: participation, oversight, accountability, timeliness"]
+    B["§13.3 Minimization of Avoidable Burden<br/><br/>• Least burdensome option among those that pass<br/>• Legs: participation, timeliness, oversight, accountability"]
+    C --> N --> H --> PR --> FL --> R --> B
+    C -.->|"where disclosure or privacy is at issue"| D
+    D --> B
+    style C fill:none,stroke:#64748b,color:#ffffff
+    style N fill:none,stroke:#2563eb,color:#ffffff
+    style H fill:none,stroke:#2563eb,color:#ffffff
+    style PR fill:none,stroke:#2563eb,color:#ffffff
+    style FL fill:none,stroke:#2563eb,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style D fill:none,stroke:#2563eb,color:#ffffff
+    style B fill:none,stroke:#2563eb,color:#ffffff
+```
+
+*A collision runs the stack in order: necessity, harm minimization, proportionality, the constitutional floors, and the form of any surviving restriction. Disclosure and privacy conflicts also answer to §13.2 (*Epistemic Disclosure Constraints*). §13.3 (*Minimization of Avoidable Burden*) applies to whatever passes. Each box lists the Tetrad legs its Trace names. Colors are visual cues, not claims of priority.*
+
 <br>
 
 <a id="1311-necessity"></a>
 ##### 13.1.1 Necessity
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** leg (the restrictor bears the burden of proof and must document the alternatives); **participation** leg (the burden never falls on the party whose freedom, agency, or access is restricted, and the showing is stricter where Freedom, Meaningful Agency, or Consent is burdened); **oversight** leg (the alternative analysis is documented so reviewers can check it); [material stake](core_00_preamble.md#material-stake) scaling.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -138,6 +259,12 @@ Assertion that no alternative exists, without documented analysis, does not sati
 
 <a id="1312-harm-minimization"></a>
 ##### 13.1.2 Harm Minimization
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (indirect, delayed, cumulative, cross-system, and ecological harm is counted, not left unseen); **accountability** leg (harm may not be externalized onto uncounted parties to look harm-minimizing); [material stake](core_00_preamble.md#material-stake) scaling across relevant time horizons.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -188,6 +315,7 @@ Harm minimization selects among options that already clear those floors — it d
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **accountability** and **oversight** legs (authority-scaled answerability: intensity rises with authorized power or consequential role, never falls); [material stake](core_00_preamble.md#material-stake) scaling (the classification floor and the heightened thresholds).
 - Read with: [§18.1 Governance as Authorized Structure](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure).
 
 </details>
@@ -230,6 +358,12 @@ Limitations on constitutional **values** — including **Chapter Six** Rights-Fl
 
 <a id="1314-constitutional-floors-safety-and-process-character-constraints"></a>
 ##### 13.1.4 Constitutional Floors, Safety, and Process-Character Constraints
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (core challenge, review, and appeal rights are among the minimums that cannot be permanently extinguished); **accountability** leg (a process that survives the tradeoff stack still may not degrade, humiliate, or retaliate; see [§3.3 Anti-Degrading Process](core_01_a_values_principles.md#33-anti-degrading-process)); [material stake](core_00_preamble.md#material-stake) scaling where heightened scrutiny applies.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -281,6 +415,8 @@ The [Anti-Degrading-Process Principle (§3.3)](core_01_a_values_principles.md#33
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — all four legs: **oversight** leg (restrictions stay independently reviewable; evidence is preserved and independent reviewers keep access while a collision is pending); **accountability** leg (a documented, auditable decision record names the rule, the alternatives, the evidence, and the basis for selection); **participation** leg (affected parties can understand, contest, and reconstruct the decision, and are told what is frozen); **timeliness** leg (restrictions are temporary unless a stronger Rights-Floor rule says otherwise, carry a duration or review cadence and a restoration path, and a pending collision runs on the applicable clock); [material stake](core_00_preamble.md#material-stake) scaling (the burden of proof rises with severity, irreversibility, dependency concentration, and uncertainty).
+- Downstream: [Article XXV-B: Rights-Collision Procedure and Restorative Alignment](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (forums apply this decision test); [Article XXV-C: Timely Resolution and Anti-Delay Floor](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*).
 
 </details>
 
@@ -315,7 +451,7 @@ Confidentiality limits on the decision record must satisfy [§13.2 Epistemic Dis
 - **Preserve evidence:** Do not moot the collision by deletion, leak, or irreversible publication.
 - **Freeze irreversible steps** that would make one of the colliding readings unavailable — do not take a step that cannot be undone if taking it would close the collision, moot one side, or manufacture a winner before interpretation resolves it.
 - **Proceed with reversible, consented steps** that keep both readings available — including independent-reviewer access under [security-constrained observability](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) where consent exists.
-- **Notify** affected parties and the interpretation path of what is frozen, what proceeds, and the applicable clock.
+- **Notify** affected parties and the interpretation path of what is frozen, what proceeds, and the applicable clock (for a dispute routed to a forum, the tier clocks and outer bounds in [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Timely resolution, materiality tiers, and anti-delay discipline*)).
 
 This holding pattern is not a decision about which side is right. Freeze what cannot be undone so neither reading is closed off; [§13 Process Conflict Resolution](#13-process-conflict-resolution) still has to answer the collision. [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) is why: a reversible consented step leaves both readings available; an irreversible step does not.
 
@@ -326,7 +462,7 @@ Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (informed contestability under limits); **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (informed contestability under limits); **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); **accountability** leg (every limit carries retrospective audit and review under [§13.2.1](#1321-preservation-of-epistemic-integrity), so someone answers for it); **timeliness** leg (limited or delayed disclosure is time-limited and ends in eventual disclosure under §13.2.1); [material stake](core_00_preamble.md#material-stake) scaling.
 - Upstream: Principles: [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [§13 Process Conflict Resolution](#13-process-conflict-resolution).
 - Downstream: [§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity), [§13.2.2 Trust-Truth Alignment](#1322-trust-truth-alignment), [§13.2.3 Privacy and Informational Self-Determination](#1323-privacy-and-informational-self-determination), and [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
 - Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially [Article XV: Info-Sphere Integrity](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXV-A: Retrospective Review and Disclosure](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
@@ -378,7 +514,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints) (parent, including *In plain terms* and operative text above).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (informed contestability under limits); **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (informed contestability under limits); **oversight** leg (disclosure limits must preserve maximum feasible scrutiny); **accountability** leg (every restriction carries retrospective audit and review); **timeliness** leg (restrictions are narrowly scoped and time-limited, with eventual disclosure once the conditions justifying them no longer apply); [material stake](core_00_preamble.md#material-stake) scaling.
 - Upstream: Principles: [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [13. Process Conflict Resolution](#13-process-conflict-resolution).
 - Downstream: [§13.2.2 Trust-Truth Alignment](#1322-trust-truth-alignment) and [14. Prohibition on Absolute Override](#14-prohibition-on-absolute-override).
 - Downstream: Protects the rights surface for info-sphere integrity, auditability, retrospective review, and informed contestability when disclosure is limited; especially [Article XV: Info-Sphere Integrity](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Article XVI: Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), and [Article XXV-A: Retrospective Review and Disclosure](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
@@ -416,6 +552,7 @@ All restrictions on disclosure must include provisions for **retrospective audit
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (epistemic integrity is Oversight-band content; managing disclosure may not hide problems to keep sentients calm); [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
 - Upstream: [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints) (parent, including *In plain terms* and operative text above); [§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity).
 
 </details>
@@ -440,7 +577,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins free expression and association); **oversight** leg (privacy intrusions must themselves be auditable); [material stake](core_00_preamble.md#material-stake) scaling.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins free expression and association); **oversight** leg (privacy intrusions must themselves be auditable); **accountability** leg (where privacy collides with transparency, audit, safety, or accountability, the collision is resolved on a documented decision record, not by treating privacy as subordinate); [material stake](core_00_preamble.md#material-stake) scaling.
 - Upstream: Principles: [7. Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency), [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints).
 - Downstream: [**Def.C3** Privacy (Informational) — peer-level cluster head](core_05_band_continuity.md#privacy-informational-cluster), including [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), and [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary).
 - Downstream: [Article VII-A](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*); [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*); [Article IX](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*Likeness, Experiential Data, and Publication Rights*); [Article X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*); [Article XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
@@ -498,6 +635,12 @@ Availability, observability, prior publication, platform possession, or technica
 
 <a id="1324-proxy-divergence-invalidation"></a>
 ##### 13.2.4 Proxy-Divergence Invalidation
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg ([Proxy Divergence](core_05_band_oversight.md#proxy-divergence) is an Oversight-band term; a metric that no longer tracks its constitutional objective cannot support a compliance claim); **accountability** leg (correction requires documented escalation and review); [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -522,7 +665,7 @@ Correction must follow **Chapter Four** traceability and **Chapter Five** proxy-
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§13.1 Core Tradeoff Principles](#131-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role); [§9.2 Constitutional Efficiency](core_01_a_values_principles.md#92-constitutional-efficiency).
-- Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05_band_participation.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden).
+- Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](core_05_band_participation.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden); **oversight** and **accountability** legs (a burden claimed as constitutionally required must meet Chapter Four evidence and traceability, so it can be checked and challenged); [material stake](core_00_preamble.md#material-stake) scaling.
 - Downstream: [§19.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) (incentives must not reward unnecessary burden creation); [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
@@ -585,7 +728,7 @@ Where incentive structures act on stewards or operators, this section reinforces
 
 <br>
 
-*In plain terms: no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, or **accountability** legs below what material stake requires.*
+*In plain terms: no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, **accountability**, or **timeliness** legs below what material stake requires.*
 
 No value defined in this chapter may be used as a universal or unbounded justification for overriding the others — including one of the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) at the expense of the other. All applications remain subject to the interaction and constraint principles above and must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) to the level [material stake](core_00_preamble.md#material-stake) requires. In particular:
 - wellbeing must not be used to justify disproportionate coercion or epistemic manipulation
@@ -601,9 +744,9 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 - Downstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-anti-segmentation-principle)), [§15.2 Definitional layer and required disciplines](#152-definitional-layer-and-required-disciplines), [§15.3 Ambiguity resolution](#153-ambiguity-resolution), [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) through [20. Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); [13. Process Conflict Resolution](#13-process-conflict-resolution) for value-collision procedure; [Chapter Six: Foundational Rights](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
 - Read with: [Chapters Two through Four](core_02_definition_structure.md) and [Chapter Five](core_05__definitions_home.md#chapter-five-foundational-definitions) — interpretive and evidentiary layer for every term in this chapter.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00_preamble.md#material-stake) scaling where materially relevant.
-- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) and [Chapter Fifteen](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under §8.4*).
+- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*source-layer status*); [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*custody, editions, adoption framing* — not a second conflict-order home); [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) and [Chapter Fifteen](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*non-regression and adopter hierarchy gates under [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution)*).
 - Read with: [Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
-- Read with: [Chapter Seven: Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — the seat-architecture floor that §8.1's anti-bypass list protects (not restated here).
+- Read with: [Chapter Seven: Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — the seat-architecture floor that the anti-bypass list in [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) protects (not restated here).
 
 </details>
 
@@ -621,7 +764,17 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 
 *In plain terms: read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely strictest or most restrictive on paper. Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.*
 
+Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Preamble §1 The Model](core_00_preamble.md#the-model). Where a section materially engages a Tetrad leg or an aim, its Trace says which, and whether its duties scale with [material stake](core_00_preamble.md#material-stake).
+
 #### 15.1 Constitutional No-Bypass Principle
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — the bypass list tracks the four legs: **oversight** leg (ordinary scrutiny and auditability); **participation** leg (contestability, practical access, and public-reason duties); **timeliness** leg (timely resolution, and restoration and rollback paths); **accountability** leg (accountability itself, and functional independence and segregation of duties under [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); [material stake](core_00_preamble.md#material-stake) scaling.
+- Downstream: [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -822,8 +975,6 @@ This hierarchy is an interpretive rule of last resort and does not license:
 - rights contraction outside expressly permitted interaction rules
 - substitution of one layer for another under ordinary operation
 
-Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Preamble §1 The Model](core_00_preamble.md#the-model). Section traces identify which tetrad leg or legs are materially implicated, which aim or aims are materially implicated, and whether duties scale with [material stake](core_00_preamble.md#material-stake).
-
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 Incorporation layer
 
@@ -847,6 +998,14 @@ When the rules below say **strictest** or **stricter**, those words have the sam
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
 ##### 15.4.4 Combined satisfaction of jointly applicable incorporated obligations
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (emergency narrowing of incorporated duties must be published); **timeliness** leg (it must be clearly bounded and time-limited, and quiet or open-ended "temporary" narrowing does not count); **accountability** leg (it must be tied to this Constitution and the applicable emergency rules); [material stake](core_00_preamble.md#material-stake) scaling.
+
+</details>
+
+<br>
 
 *In plain terms: when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.*
 
