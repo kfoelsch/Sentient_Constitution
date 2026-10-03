@@ -971,7 +971,13 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 
 **When the full definition cluster applies.** The anti-segmentation rule applies when [Assembly](core_05_band_participation.md#assembly-constitutional), [Collective Organization](core_05_band_participation.md#collective-organization-constitutional), [System Creation](core_05_band_participation.md#system-creation-constitutional), or [Business Creation](core_05_band_participation.md#business-creation-constitutional) is material in a way that makes those questions travel together.
 
-**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or institution-forming stake — use [Assembly](core_05_band_participation.md#assembly-constitutional) or [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) as an ordinary supporting definition. Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster, and do not apply the anti-segmentation package of **§7.2** (*Assembly, Collective Organization, and Institutional Formation*), just because one of those terms appears. Single-definition use is not a license to re-segment a jointly covered matter.
+**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or institution-forming stake:
+
+- Use [Assembly](core_05_band_participation.md#assembly-constitutional) or [Collective Organization](core_05_band_participation.md#collective-organization-constitutional) as an ordinary supporting definition.
+- Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster.
+- Do not apply the anti-segmentation package of **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) just because one of those terms appears.
+
+Single-definition use is not a license to re-segment a jointly covered matter.
 
 **What this section does not change.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) adds principle-layer anti-segmentation discipline and the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
 
