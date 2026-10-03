@@ -1124,8 +1124,8 @@ Whole-system evaluations must test these conditions under [Chapter Eight §3.4 V
 |---|---|
 | [§9 Shared-System Capacity](#9-shared-system-capacity) | Do sentients and shared systems keep the lasting ability to get constitutionally required work done? |
 | [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design) | Do systems detect trouble early, contain it, and recover honestly? |
-| [§11 Market Structure](#11-market-structure) | Can sentients still challenge, compete, and leave, or has concentration hollowed capacity out? |
-| [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) | Has the whole system, with its dependencies and incentives, been verified before a claim stands? |
+| [§11 Market Structure](#11-market-structure) | Can sentients still enter markets, compete, challenge powerful actors, and switch away from them, or has concentration by a few actors closed those doors and drained the system's capacity? |
+| [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) | Before anyone claims a system is compliant, safe, or well governed, has the whole system been checked, including what it depends on and what incentives drive it, and not just one part at one moment? |
 
 **How the Continuity principles work together:**
 - **Capacity straddles the two aims:** [§9 Shared-System Capacity](#9-shared-system-capacity) is a means toward Flourishing and the substance of Continuity, and it is not a trump card over safety, truth, rights, or ecology.
