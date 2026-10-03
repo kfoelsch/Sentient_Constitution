@@ -35,8 +35,8 @@ Chapter Six is the constitutional owner of **Rights Floors** and rights-level in
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [material stake](core_00_preamble.md#material-stake).
-- Upstream: [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- Upstream: [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture).
+- Upstream: [Chapter One §13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Upstream: [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
 - Upstream: Chapters Two through Four; Chapter Five definitions.
 - Downstream: **Parts A through D** of this chapter; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional); [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 - Downstream: [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together); [§1.2 Layer scope](#12-layer-scope).
@@ -65,9 +65,9 @@ To legitimately pursue these Rights Floors, four duties must be followed, with t
 The rest of the Constitution explains how this floor is understood, where its limits are, how it is checked, and how it is enforced. Unless a specific provision in this chapter says differently, every Rights Floor in Chapter Six must be read together with:
 - **Chapter One**, including:
   - **value constraints** — Safety, Truth, Necessity, Proportionality, and weighing effects locally, in total, over time, and across systems;
-  - **interaction discipline** — [Chapter One §6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution);
+  - **interaction discipline** — [Chapter One §13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution);
   - **constitutional scaling** — the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), and matching the effort to [material stake](core_00_preamble.md#material-stake);
-  - **incentive alignment and system capture** — [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) and related stewardship rules, but only where incentives, trust, fidelity, capture, market structure, or a defended limit actually matter to the situation.
+  - **incentive alignment and system capture** — [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) and related stewardship rules, but only where incentives, trust, fidelity, capture, market structure, or a defended limit actually matter to the situation.
 - **Chapters Two through Four** — keeping definitions honest, tracking who bears what burden, being able to see what is happening, verifying claims in ways sentients can use, and limiting observation where security requires it.
 - **Chapter Five** — definitions that actually matter to the right, behavior, system, or limit being judged.
 - **Classification and scale rules** — **Materiality**, [Dependency](core_05_band_continuity.md#dependency), and any class, tier, or timing rule added by the adopting body.
@@ -153,7 +153,7 @@ Enforcement depends on real checks, not just rules on paper:
 
 **Disputes and timely process**
 - **Justice, restitution, and restriction boundaries** — **Article XX** (*Justice After Verified Violation*)
-- **Conflict resolution, rights collisions, and emergencies** — **Article XXV** (*Timely Retrospective Review and Restorative Alignment*); **Chapter Twelve §6.1** (*Emergency measures and continuation burden*); [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test)
+- **Conflict resolution, rights collisions, and emergencies** — **Article XXV** (*Timely Retrospective Review and Restorative Alignment*); **Chapter Twelve §6.1** (*Emergency measures and continuation burden*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)
 - **Key Practical Process Pipelines** — **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together)
 
 Shorter cross-references to those themes elsewhere in this chapter incorporate these anchors.
@@ -224,7 +224,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -250,7 +250,7 @@ Chapter Five defines those conditions under [Environmental Preconditions](core_0
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -302,14 +302,14 @@ This Article sets out the environmental and animal-life floors, from ecosystem i
   - the full Chapter Six Rights Floor for sentients
 
   Use every protection that fits the facts.
-  - Where protections overlap, the stronger one wins under [Chapter One §6.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) and the compliance rules in those Chapter Five entries.
+  - Where protections overlap, the stronger one wins under [Chapter One §13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) and the compliance rules in those Chapter Five entries.
   - If there are real signs of communication or cognition pointing to possible sentience, open a sentience-status review rather than leaving the being stuck in animal-welfare or habitat-priority status indefinitely.
 
 #### Article I-B: Ecological Footprint and Transparency
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@ Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecologica
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [§15 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#15-systemic-evaluation-requirement).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), and [§12 Systemic Evaluation Requirement](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
 - Chapter Five: canonical **Intergenerational Responsibility** O/M/A/C sits in [**Def.I1** *Ecological Integrity, Footprint, and Sustainability*](core_05_band_continuity.md#ecological-footprint-semi-independent), read jointly with **Ecological Integrity**, **Sustainability**, **Environmental Preconditions**, and **Ecological Footprint** (joint invocation where footprint burden, disclosure, comparison, reduction, or traceability is materially at issue). Joint invocation for **Indigenous Continuity**, **Language, Culture, and Heritage**, **Natural Systems Standing**, and **Intergenerational Responsibility** also routes through [Chapter Five *Indigenous Continuity, Language, Culture, and Heritage*](core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent) where community-anchored continuity, heritage, natural-systems standing, and futures-discipline analysis apply together.
 
 </details>
@@ -354,7 +354,7 @@ Chapter Five defines [Ecological Footprint](core_05_band_continuity.md#ecologica
 
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
 - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -376,8 +376,8 @@ This Article sets out the floor that protects future generations:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§15 Systemic Evaluation Requirement](core_01_c_stewardship_capacity_principles.md#15-systemic-evaluation-requirement).
-- Read with: [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional), and [Existential Risk](core_05_band_continuity.md#existential-risk).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§12 Systemic Evaluation Requirement](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Read with: [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional), [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional), [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional), and [Existential Risk](core_05_band_continuity.md#existential-risk).
 - Downstream: **Chapter Twelve §6.1** (*Emergency measures and continuation burden*) — anti-pretext and time-limited review discipline where existential-risk or emergency framing is invoked.
 
 </details>
@@ -413,7 +413,7 @@ This Article sets out when highest scrutiny applies to existential and ecologica
   
   Checking boxes at the local level, showing a favorable cost-benefit estimate on paper, or securing a short-term gain does not satisfy this Article while credible paths to civilization-scale harm or irreversible ecological recovery loss remain open and not materially addressed.
 - **Burden and record:** Where the **Scrutiny trigger** is met, actors seeking authorization, continuation, or expansion bear the burden under [Chapter Four §1 Exclusive Enforcement and Burden Allocation](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation) and must meet it under [highest scrutiny](core_05_band_oversight.md#highest-scrutiny). Uncertainty, contested evidence, or low estimated probability does not discharge the burden. They must show, by evidence meeting [Chapter Four §5 Compliance Evidence Standard](core_04_burden_traceability_verification.md#5-compliance-evidence-standard), that:
-  - for each materially safer alternative, they either adopted it into the activity under review or showed that it is not reasonably effective or not available. Relying on a record that alternatives were considered, without that showing, is non-compliant;
+  - for each materially safer alternative, they either adopted it into the activity under review or showed that it would not still achieve the activity's legitimate purpose or is not available. Relying on a record that alternatives were considered, without that showing, is non-compliant;
   - mitigation and interruption measures are proportionate to the scale of possible harm;
   - monitoring can detect the causal pathway early enough to interrupt it **before harm becomes irreversible**, and a named actor holds both the authority and the practical capacity to interrupt it.
   
@@ -429,7 +429,7 @@ This Article sets out when highest scrutiny applies to existential and ecologica
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth), and [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), and [§16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
 
@@ -460,7 +460,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [Chapter Eight §5 Ecological Footprint Evaluation](core_08_a_system_alignment_certification_evaluation.md#5-ecological-footprint-evaluation) and [§10 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) (*where a materially impactful system is certified, lifecycle burdens and lifecycle representations are evaluated there; this Article does not by itself require certification*).
 
 </details>
@@ -470,7 +470,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 
 </details>
 
@@ -499,7 +499,7 @@ This Article sets out the lifecycle-honesty floors for durable goods and the rec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles).
 
 </details>
 
@@ -536,7 +536,7 @@ This Article sets out the repair and independent-servicing floors:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -561,14 +561,14 @@ This Article sets out the floors against designed obsolescence and their excepti
   - pressure on sentients to replace products they do not reasonably need to replace; and
   - pricing, sales targets, staff pay, service contracts, or similar arrangements under which the producer or operator gains when products are thrown away or when repair tools, parts, or manuals are held back.
   
-  A producer or operator violates this Article when the design or everyday operation of a product, or the software inside it, can reasonably be expected to make either of the first two the main result during normal, lawful use. This includes remote software updates the operator chooses to send. Where the third is present, [Chapter One §12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture) and **Article XIII-D** (*Incentive-Alignment Constraint*) also apply.
+  A producer or operator violates this Article when the design or everyday operation of a product, or the software inside it, can reasonably be expected to make either of the first two the main result during normal, lawful use. This includes remote software updates the operator chooses to send. Where the third is present, [Chapter One §19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) and **Article XIII-D** (*Incentive-Alignment Constraint*) also apply.
 - **Exceptions:** This rule does not apply when the operator can document **Necessity** and **Proportionality**. Examples are a genuine safety fix, a security response, or a real compatibility (interoperability) limit. None of these can excuse skipping a longer-lasting design that was reasonably available.
 
 #### Article II-D: Post-Sale Access and Subscription Integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -602,7 +602,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [Article XXI-A](core_06_rights_part_d.md#article-xxi-a-portability-rights) (*Portability Rights*).
 - Read with: [corpus_systems.md](corpus_systems.md) **CS-2 — Information types and handling**, especially [§1.2](corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
 - Read with: **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
@@ -616,7 +616,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
-- [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
 - [Consent](core_05_band_participation.md#consent-constitutional) · [O](core_05_band_participation.md#consent-constitutional) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
@@ -666,10 +666,10 @@ This Article sets out the floors for product data handling, collection notice, d
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Read with: [Article II-E](#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*) — the disclosure and export paths this Article relies on.
 - Read with: **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
-- Read with: [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape).
+- Read with: [Chapter One §19.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape).
 - Read with: [Chapter Ten §9.1](core_10_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -679,7 +679,7 @@ This Article sets out the floors for product data handling, collection notice, d
 
 - [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-- [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Negligence](core_05_band_accountability.md#negligence) · [O](core_05_band_accountability.md#negligence) · [M](core_05_band_accountability.md#negligence-a) · [A](core_05_band_accountability.md#negligence-a) · [C](core_05_band_accountability.md#negligence-c)
 
 </details>
@@ -715,8 +715,8 @@ This Article sets out the operator's continuity duties before, during, and after
 
 - Read with: **Article I** (*Environmental Survival*), **Article II** (*Material Stewardship and Durable-Use Integrity*), and Chapter Five where survival, bodily maintenance, or labor conditions are materially at issue.
 - Read with: **Article IV** (*Right to Sentient-Centered Education*), which applies the same fair-access, accessibility, and limits principles to education.
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 Process Conflict Resolution](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), and [§9 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth).
-- Upstream: Principles applied throughout **Articles III-A** through **III-E**: Chapter One [§2.1 Fairness](core_01_a_values_principles.md#21-fairness) (especially [§2.1.1 Access and Opportunity](core_01_a_values_principles.md#211-access-and-opportunity) and [§2.1.3 Fair Treatment](core_01_a_values_principles.md#213-fair-treatment)), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty), and [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13 Process Conflict Resolution](core_01_b_interaction_interpretation.md#13-process-conflict-resolution), and [§16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- Upstream: Principles applied throughout **Articles III-A** through **III-E**: Chapter One [§3.1 Fairness](core_01_a_values_principles.md#31-fairness) (especially [§3.1.1 Access and Opportunity](core_01_a_values_principles.md#311-access-and-opportunity) and [§3.1.3 Fair Treatment](core_01_a_values_principles.md#313-fair-treatment)), [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), and [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline).
 
 </details>
 
@@ -735,9 +735,9 @@ This Article states **constitutional floors** for survival and equal access unde
 
 **Principles that apply to every subarticle.** **Articles III-A** through **III-E** each apply three Chapter One principles to their own domain:
 
-- **Fair access** ([Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness)): paths to what this Article protects must not be blocked, priced out, or tilted because of a [Protected Characteristic](core_05_band_participation.md#protected-characteristics-constitutional), a [proxy](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) for one, or an arbitrary grouping.
-- **Accessibility** ([Chapter One §3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty)): sentients must be able to understand and actually use those paths, with the [Accessibility](core_05_band_participation.md#accessibility-constitutional) they need — not access that exists only on paper.
-- **Limits** ([Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline)): any restriction or difference in treatment must be [necessary](core_05_band_accountability.md#necessity) and [proportionate](core_05_band_accountability.md#proportionality), reversible where possible, and subject to oversight.
+- **Fair access** ([Chapter One §3.1 Fairness](core_01_a_values_principles.md#31-fairness)): paths to what this Article protects must not be blocked, priced out, or tilted because of a [Protected Characteristic](core_05_band_participation.md#protected-characteristics-constitutional), a [proxy](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) for one, or an arbitrary grouping.
+- **Accessibility** ([Chapter One §5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)): sentients must be able to understand and actually use those paths, with the [Accessibility](core_05_band_participation.md#accessibility-constitutional) they need — not access that exists only on paper.
+- **Limits** ([Chapter One §7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)): any restriction or difference in treatment must be [necessary](core_05_band_accountability.md#necessity) and [proportionate](core_05_band_accountability.md#proportionality), reversible where possible, and subject to oversight.
 
 **Institutional guarantees.** Securing the floors in **Articles III-A** through **III-E** at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
 
@@ -756,7 +756,7 @@ Those rules may structure delivery. They must not be used to defeat any floor in
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), and [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - Read with: Flourishing measurement family (*Survival-floor access as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
 - Read with: [**Article XXVII-D**](core_06_rights_part_e.md#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) for how essential environments are kept running and cared for during transition. The detailed rules are in [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) through [**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements).
 - Read with: Chapter Five [*Occupancy Continuity*](core_05_band_continuity.md#occupancy-continuity-constitutional) and [*Essential-Environment Non-Commodification*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional); where applicable, the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster).
@@ -796,14 +796,14 @@ This Article sets out the survival floor — ongoing resource access, stable she
     - Ordinary market-structuring instruments may not narrow that floor.
 - **Connectivity:** Access to the info-sphere and to core information and communication systems is a foundational requirement for participation in modern sentient society.
   - Sentients must have access sufficient to maintain agency, awareness, and meaningful participation.
-  - Any limit on that access must satisfy [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) where security, safety, or lawful operational limits materially require narrower access.
+  - Any limit on that access must satisfy [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint) where security, safety, or lawful operational limits materially require narrower access.
 
 #### Article III-B: Bodily-Maintenance and Healthcare Access
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A** (*Self-Ownership of Body*) self-ownership non-intrusion floor, **Article VI-C** (*Nondiscrimination*) non-discrimination.
 - Read with: Chapter Five *Bodily-Maintenance Access*, *Substantive Fairness*, *Protected Characteristics*; [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where care access, survival-floor continuity, safe participation conditions, rest or recuperation, occupancy continuity, essential operating environments, environmental preconditions, or place-linked continuity are materially implicated together).
 
@@ -856,8 +856,8 @@ This Article sets out the right to care, the rules that keep it from being denie
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline), [§12.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1213-stewardship-and-operator-application).
-- Downstream: **Article III-A** (*Survival*) survival floor (read-on-top-of, not substitute-for), **Article IV-A** (*Equal Educational Access*) educational access, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article X-C** (*Stakeholder Role and Participation Rights*) free association, **Article XIX** (*Standing and Participation Status*) standing and participation, **Chapter One §14** non-concentration (explicit: §6 alone does not satisfy this floor).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), [§19.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
+- Downstream: **Article III-A** (*Survival*) survival floor (read-on-top-of, not substitute-for), **Article IV-A** (*Equal Educational Access*) educational access, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article X-C** (*Stakeholder Role and Participation Rights*) free association, **Article XIX** (*Standing and Participation Status*) standing and participation, **Chapter One §11** non-concentration (explicit: §6 alone does not satisfy this floor).
 - Read with: [**Article III-D**](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*) and [**Article III-E**](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*); [**Article XI-E**](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) for starting new enterprises.
 - Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Anti-Displacement Floor*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, occupancy continuity, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [Chapter Five *Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` CS-5 safety profile for *Safe Conditions*.
 
@@ -892,7 +892,7 @@ This Article sets out the labor and economic floor — fair compensation, collec
   
   [**Article III-D**](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*) protects the conditions of work, and [**Article III-E**](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*) protects time away from it.
   
-  This floor builds on the **Article III-A** (*Survival*) survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **Chapter One §14** (*Market Structure*) non-concentration rules alone is not enough either.
+  This floor builds on the **Article III-A** (*Survival*) survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **Chapter One §11** (*Market Structure*) non-concentration rules alone is not enough either.
 - **Fair compensation:** Compensation for productive activity must:
   - reach substantive adequacy under [Fair Compensation](core_05_band_continuity.md#fair-compensation-constitutional);
   - track [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) across comparable activity;
@@ -908,10 +908,10 @@ This Article sets out the labor and economic floor — fair compensation, collec
   - Reclassifying workers into categories designed to defeat collective-organization pathways is non-compliant, regardless of the formal classification label.
   - Founding a new enterprise or other institution, rather than organizing within an existing one, is covered by [**Article XI-E**](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 - **Labor mobility:** Non-compete and no-poach agreements are prohibited in any form, scope, or duration. They may not be imposed in employment, operator, steward, platform, or comparable productive-activity arrangements. Wage-fixing, excessive non-solicitation, and other mobility-restricting terms that suppress fair bargaining or productive mobility remain non-compliant where they materially degrade this floor.
-- **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §14** (*Market Structure*) non-concentration discipline, **§14.2** (*Pro-Competition and Anti-Domination*) pro-competition / anti-domination discipline, and **§14.3** (*Consolidation Ceiling*) consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
+- **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §11** (*Market Structure*) non-concentration discipline, **§11.2** (*Pro-Competition and Anti-Domination*) pro-competition / anti-domination discipline, and **§11.3** (*Consolidation Ceiling*) consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
   - A market structure that satisfies non-concentration while failing Fair Compensation or Collective Organization is non-compliant under this Article; one that fails Safe Conditions or Leisure and Rest is non-compliant under [**Article III-D**](#article-iii-d-safe-working-conditions) or [**Article III-E**](#article-iii-e-rest-and-recuperation).
-  - A productive-activity structure that satisfies this Article while concentrating power contrary to **Chapter One §14** (*Market Structure*) is non-compliant under that section.
-  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter One §14.2** (*Pro-Competition and Anti-Domination*), **[CJS-3.11.2 Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§14.3** (*Consolidation Ceiling*), and this Article when they materially apply.
+  - A productive-activity structure that satisfies this Article while concentrating power contrary to **Chapter One §11** (*Market Structure*) is non-compliant under that section.
+  - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*), **[CJS-3.11.2 Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§11.3** (*Consolidation Ceiling*), and this Article when they materially apply.
 - **Limits and implementation routing:** Beyond the limits in [**Article III**](#article-iii-survival-and-essential-access), any limit on **Fair Compensation**, **Collective Organization**, or labor mobility must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
   - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-9 through CI-11 instruments named in [**Article III**](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Seventeen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
@@ -921,9 +921,9 @@ This Article sets out the labor and economic floor — fair compensation, collec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), and [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), and [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline).
 - Downstream: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability as it bears on working conditions; `corpus_systems.md` CS-5 safety profiles.
-- Read with: [**Article III-C**](#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) and [**Article III-E**](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*); Chapter Five [Safety (Constraint)](core_05_band_continuity.md#safety-constraint) for safety outside productive activity; [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where safe labor conditions, rest, bodily-maintenance access, occupancy continuity, anti-displacement, or environmental preconditions are materially implicated together).
+- Read with: [**Article III-C**](#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) and [**Article III-E**](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*); Chapter Five [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint) for safety outside productive activity; [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where safe labor conditions, rest, bodily-maintenance access, occupancy continuity, anti-displacement, or environmental preconditions are materially implicated together).
 
 </details>
 
@@ -944,7 +944,7 @@ This Article sets out the labor and economic floor — fair compensation, collec
 
 This Article sets out the safe-working-conditions floor, its equal application across substrates, and its limits:
 
-- **Safe working conditions:** Productive activity must be carried out under conditions that meet [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional). The protection covers those doing the work and those affected by it; safety outside productive activity falls under [Safety (Constraint)](core_05_band_continuity.md#safety-constraint). Those conditions must:
+- **Safe working conditions:** Productive activity must be carried out under conditions that meet [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional). The protection covers those doing the work and those affected by it; safety outside productive activity falls under [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint). Those conditions must:
   - apply to every substrate;
   - protect in practice, not just on paper;
   - integrate with **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability and with `corpus_systems.md` CS-5 safety profiles where applicable; and
@@ -959,7 +959,7 @@ This Article sets out the safe-working-conditions floor, its equal application a
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline).
 - Read with: [**Article III-C**](#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) and [**Article III-D**](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*); [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where rest, safe labor conditions, bodily-maintenance access, or occupancy continuity are materially implicated together).
 
 </details>
@@ -991,8 +991,8 @@ This Article sets out the right to rest, the rules that keep it from being defea
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty), [§5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
-- Upstream: Principles applied throughout **Articles IV-A** through **IV-C**: Chapter One [§2.1 Fairness](core_01_a_values_principles.md#21-fairness) (especially [§2.1.1 Access and Opportunity](core_01_a_values_principles.md#211-access-and-opportunity)), [§3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty), and [§5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§15 Constitutional Interpretation](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
+- Upstream: Principles applied throughout **Articles IV-A** through **IV-C**: Chapter One [§3.1 Fairness](core_01_a_values_principles.md#31-fairness) (especially [§3.1.1 Access and Opportunity](core_01_a_values_principles.md#311-access-and-opportunity)), [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), and [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline).
 - Read with: **Article III** (*Survival and Essential Access*) for the institutional guarantees and dependent-system certification rules this Article also relies on.
 
 </details>
@@ -1027,9 +1027,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 
 **Principles that apply to every subarticle.** **Articles IV-A** through **IV-C** each apply three Chapter One principles to education:
 
-- **Fair access** ([Chapter One §2.1 Fairness](core_01_a_values_principles.md#21-fairness)): paths to education must not be blocked, priced out, or tilted because of a [Protected Characteristic](core_05_band_participation.md#protected-characteristics-constitutional), a [proxy](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) for one, or an arbitrary grouping.
-- **Accessibility** ([Chapter One §3.4 Plain-Language Accessibility](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty)): sentients must be able to understand and actually use those paths, with the [Accessibility](core_05_band_participation.md#accessibility-constitutional) they need — not access that exists only on paper.
-- **Limits** ([Chapter One §5.1 Limitation Discipline](core_01_a_values_principles.md#51-limitation-discipline)): any restriction or difference in treatment must be [necessary](core_05_band_accountability.md#necessity) and [proportionate](core_05_band_accountability.md#proportionality), reversible where possible, and subject to oversight.
+- **Fair access** ([Chapter One §3.1 Fairness](core_01_a_values_principles.md#31-fairness)): paths to education must not be blocked, priced out, or tilted because of a [Protected Characteristic](core_05_band_participation.md#protected-characteristics-constitutional), a [proxy](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) for one, or an arbitrary grouping.
+- **Accessibility** ([Chapter One §5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)): sentients must be able to understand and actually use those paths, with the [Accessibility](core_05_band_participation.md#accessibility-constitutional) they need — not access that exists only on paper.
+- **Limits** ([Chapter One §7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline)): any restriction or difference in treatment must be [necessary](core_05_band_accountability.md#necessity) and [proportionate](core_05_band_accountability.md#proportionality), reversible where possible, and subject to oversight.
 
 *Article neighbors:*
 
@@ -1040,8 +1040,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), and [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency).
-- Upstream: Chapter One [§9.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) for the governance aim in *Purpose of education*; the fairness, accessibility, and limitation principles applied throughout **Article IV**.
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency).
+- Upstream: Chapter One [§16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) for the governance aim in *Purpose of education*; the fairness, accessibility, and limitation principles applied throughout **Article IV**.
 - Read with: **Articles IV-B** (*Capability-Building Education Right*) and **IV-C** (*Lifelong and Adaptive Learning and Contestability*) for what education should build, lifelong and adaptive learning, and transparency rules for educational systems with significant impact.
 
 </details>
@@ -1077,7 +1077,7 @@ This Article sets out what education is for, the equal-access floor, and its lim
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1108,7 +1108,7 @@ This Article sets out the right to capability-building education:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter One §5 Freedom](core_01_a_values_principles.md#5-freedom-bounded-agency), and [§11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1145,7 +1145,7 @@ This Article sets out the floors for lifelong learning and for transparent, cont
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Safety](core_01_a_values_principles.md#31-safety-harm-constraint), [§8 Constitutional Interpretation](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [§12 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture), and [§13 Shared-System Capacity](core_01_c_stewardship_capacity_principles.md#13-shared-system-capacity).
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§15 Constitutional Interpretation](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), and [§9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity).
 
 </details>
 
@@ -1189,7 +1189,7 @@ These requirements keep shared infrastructure, and everyone who depends on it, f
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§3.2 Truth](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §11 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#11-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Read with: Continuity measurement family (*Dependency and resource flows as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XVI-A** (*Auditability and Observable Evidence*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (visible cost-and-benefit allocation) and **Continuity** (durable dependency visibility across changing systems).
 - Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies; **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
@@ -1231,8 +1231,8 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§2 Foundational Objective: Wellbeing](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect with resource allocation; [Chapter One §14 Market Structure](core_01_c_stewardship_capacity_principles.md#14-market-structure), [§14.1 Market Concentration Threshold Mechanism](core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable), and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) where allocation arrangements produce or preserve concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. That scrutiny is added on top of this Article; it does not replace or narrow it.
+- Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect with resource allocation; [Chapter One §11 Market Structure](core_01_a_values_principles.md#11-market-structure), [§11.1 Market Concentration Threshold Mechanism](core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable), and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) where allocation arrangements produce or preserve concentration that predictably degrades wellbeing, agency, dignity, or ecological integrity. That scrutiny is added on top of this Article; it does not replace or narrow it.
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (cross-system fairness and non-extraction) and **Continuity** (long-term sustainability and ecosystem funding).
 - Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) (*what certification must verify and record*) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is materially at issue; [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Resource allocation and funding stewardship*) and [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Adaptive sustainability and ecosystem resilience*) (*allocation categories, reauthorization mechanics, and numeric targets*).
 
@@ -1245,7 +1245,7 @@ This Article sets the floor for dependency mapping and resource-flow transparenc
 - [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) · [O](core_05_band_continuity.md#cross-system-extraction) · [M](core_05_band_continuity.md#cross-system-extraction-a) · [A](core_05_band_continuity.md#cross-system-extraction-a) · [C](core_05_band_continuity.md#cross-system-extraction-c)
 - [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [O](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) · [O](core_05_band_continuity.md#ecological-footprint) · [M](core_05_band_continuity.md#ecological-footprint-a) · [A](core_05_band_continuity.md#ecological-footprint-a) · [C](core_05_band_continuity.md#ecological-footprint-c)
 - [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
 
@@ -1266,7 +1266,7 @@ This Article sets the minimum rules for sharing the load fairly between systems.
     - ecological footprint, including upstream and downstream burden;
     - long-term sustainability.
   - **No persistent extraction:** Systems must not persistently extract. A system that draws on shared foundations must put [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) back; that entry sets what the support must cover and how its adequacy is judged.
-  - **What does not count:** Do not treat a press release, a one-time grant, an opaque transfer, an off-map transfer, or the fact that a system meets the [survival floor](#article-iii-a-survival) or stays within [market-concentration limits](core_01_c_stewardship_capacity_principles.md#14-market-structure) as Proportionate Cross-System Support.
+  - **What does not count:** Do not treat a press release, a one-time grant, an opaque transfer, an off-map transfer, or the fact that a system meets the [survival floor](#article-iii-a-survival) or stays within [market-concentration limits](core_01_a_values_principles.md#11-market-structure) as Proportionate Cross-System Support.
   - **No formula precondition:** Adequacy is judged on the flows mapped now under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*). No allocation formula or numeric target is a precondition.
 - **How certification checks it:** Certification evaluates this floor under [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation), which sets what it must verify, how its depth scales with system class, what goes on the **System Certification Record**, and when it runs.
 - **When support falls short:** Shortfalls are certification defects, with the consequences set in [Chapter Eight §6 Proportionate Cross-System Support Evaluation](core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) and [Chapter Eight Part B §16 Reopening, Misalignment, and Non-Evasion](core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion). Persistent imbalances also remain open to audit under **Article XVI-A** (*Auditability and Observable Evidence*) and challenge under [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*), whether or not a certification is pending.

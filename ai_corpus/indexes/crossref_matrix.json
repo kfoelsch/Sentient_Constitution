@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-30T23:10:06+00:00",
+  "generated_at": "2026-10-03T02:12:39+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -485,17 +485,17 @@
             "file": "core_01_a_values_principles.md",
             "count": 7,
             "anchors": [
-              "#22-recognition-reinforcement-and-aspiration",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#4-system-stability-enabler-trust-coordination-integrity"
+              "#32-recognition-reinforcement-and-aspiration",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint",
+              "#6-trust-and-trustworthiness-coordination-integrity"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#63-minimization-of-avoidable-burden"
+              "#133-minimization-of-avoidable-burden"
             ]
           },
           {
@@ -736,8 +736,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 77,
+            "count": 119,
             "anchors": [
+              "#2-measurements-overview",
               "#constitutional-tetrad",
               "#continuity",
               "#flourishing",
@@ -748,42 +749,41 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 34,
+            "count": 57,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#611-necessity",
-              "#614-constitutional-floors-safety-and-process-character-constraints",
-              "#615-rights-collision-decision-test",
-              "#62-epistemic-disclosure-constraints",
-              "#621-preservation-of-epistemic-integrity",
-              "#622-trust-truth-alignment",
-              "#63-minimization-of-avoidable-burden",
-              "#7-prohibition-on-absolute-override",
-              "#8-constitutional-interpretation"
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1311-necessity",
+              "#1314-constitutional-floors-safety-and-process-character-constraints",
+              "#1315-rights-collision-decision-test",
+              "#132-epistemic-disclosure-constraints",
+              "#1321-preservation-of-epistemic-integrity",
+              "#1322-trust-truth-alignment",
+              "#1324-proxy-divergence-invalidation",
+              "#133-minimization-of-avoidable-burden",
+              "#14-prohibition-on-absolute-override",
+              "#15-constitutional-interpretation",
+              "#1511-anti-segmentation-principle"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 27,
+            "count": 47,
             "anchors": [
-              "#10-consequential-stewardship-the-steward-role",
-              "#104-aligned-self-organization",
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#1213-stewardship-and-operator-application",
-              "#1214-role-depth-and-material-responsibility-pathways",
-              "#13-shared-system-capacity",
-              "#14-market-structure",
-              "#142-pro-competition-and-anti-domination",
-              "#15-systemic-evaluation-requirement",
-              "#16-integrated-application",
-              "#9-stewardship-in-depth"
+              "#16-stewardship-in-depth",
+              "#17-consequential-stewardship-the-steward-role",
+              "#174-aligned-self-organization",
+              "#18-governance-under-stewardship-discipline",
+              "#182-institutional-secularism-and-worldview-neutrality",
+              "#19-incentive-alignment-and-system-capture",
+              "#1913-stewardship-and-operator-application",
+              "#1914-role-depth-and-material-responsibility-pathways",
+              "#20-integrated-application"
             ]
           },
           {
             "file": "core_02_definition_structure.md",
-            "count": 6,
+            "count": 7,
             "anchors": []
           },
           {
@@ -801,8 +801,35 @@
             ]
           },
           {
+            "file": "core_05_apex_accountability_leg.md",
+            "count": 1,
+            "anchors": [
+              "#accountability"
+            ]
+          },
+          {
+            "file": "core_05_apex_continuity_aim.md",
+            "count": 8,
+            "anchors": [
+              "#continuity-aim-constitutional",
+              "#continuity-aim-constitutional-a",
+              "#continuity-aim-constitutional-c",
+              "#continuity-aim-constitutional-m"
+            ]
+          },
+          {
+            "file": "core_05_apex_flourishing_aim.md",
+            "count": 8,
+            "anchors": [
+              "#flourishing-constitutional",
+              "#flourishing-constitutional-a",
+              "#flourishing-constitutional-c",
+              "#flourishing-constitutional-m"
+            ]
+          },
+          {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 7,
+            "count": 14,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -812,7 +839,7 @@
           },
           {
             "file": "core_05_apex_participation_leg.md",
-            "count": 24,
+            "count": 25,
             "anchors": [
               "#participation-constitutional",
               "#participation-constitutional-a",
@@ -821,9 +848,18 @@
             ]
           },
           {
-            "file": "core_05_band_accountability.md",
-            "count": 150,
+            "file": "core_05_apex_timeliness_leg.md",
+            "count": 1,
             "anchors": [
+              "#timeliness-constitutional"
+            ]
+          },
+          {
+            "file": "core_05_band_accountability.md",
+            "count": 231,
+            "anchors": [
+              "#collective-harm-boundary",
+              "#collective-harm-boundary-and-harm-cluster",
               "#contestability",
               "#contestability-a",
               "#contestability-c",
@@ -837,6 +873,7 @@
               "#governance",
               "#governance-a",
               "#governance-c",
+              "#harassment-and-bullying",
               "#harm",
               "#harm-a",
               "#harm-c",
@@ -846,6 +883,12 @@
               "#irreversible-harm",
               "#irreversible-harm-a",
               "#irreversible-harm-c",
+              "#market-concentration-threshold-constitutional",
+              "#market-concentration-threshold-constitutional-a",
+              "#market-concentration-threshold-constitutional-c",
+              "#market-structure-constitutional",
+              "#market-structure-constitutional-a",
+              "#market-structure-constitutional-c",
               "#merits-determination",
               "#necessity",
               "#necessity-a",
@@ -853,6 +896,7 @@
               "#proportionality",
               "#proportionality-a",
               "#proportionality-c",
+              "#psychological-harm",
               "#redress-and-remediation-constitutional",
               "#redress-and-remediation-constitutional-a",
               "#redress-and-remediation-constitutional-c",
@@ -866,7 +910,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 130,
+            "count": 327,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -874,9 +918,24 @@
               "#cascading-failure",
               "#cascading-failure-a",
               "#cascading-failure-c",
+              "#constitutional-efficiency",
+              "#constitutional-efficiency-a",
+              "#constitutional-efficiency-c",
               "#dependency",
               "#dependency-a",
               "#dependency-c",
+              "#ecological-integrity-constitutional",
+              "#ecological-integrity-constitutional-a",
+              "#ecological-integrity-constitutional-c",
+              "#environmental-preconditions-constitutional",
+              "#environmental-preconditions-constitutional-a",
+              "#environmental-preconditions-constitutional-c",
+              "#intergenerational-responsibility-constitutional",
+              "#intergenerational-responsibility-constitutional-a",
+              "#intergenerational-responsibility-constitutional-c",
+              "#productive-capacity-constitutional",
+              "#productive-capacity-constitutional-a",
+              "#productive-capacity-constitutional-c",
               "#reversibility-constitutional",
               "#reversibility-constitutional-a",
               "#reversibility-constitutional-c",
@@ -889,6 +948,15 @@
               "#self-healing-constitutional",
               "#self-healing-constitutional-a",
               "#self-healing-constitutional-c",
+              "#shared-system-capacity-constitutional",
+              "#shared-system-capacity-constitutional-a",
+              "#shared-system-capacity-constitutional-c",
+              "#stewardship-constitutional",
+              "#stewardship-constitutional-a",
+              "#stewardship-constitutional-c",
+              "#system-alignment-certification-constitutional",
+              "#system-alignment-certification-constitutional-a",
+              "#system-alignment-certification-constitutional-c",
               "#trust",
               "#trust-a",
               "#trust-c",
@@ -909,9 +977,8 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 13,
+            "count": 12,
             "anchors": [
-              "#documented-legitimacy-mechanism",
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c"
@@ -919,7 +986,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 107,
+            "count": 147,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -952,7 +1019,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 214,
+            "count": 240,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -983,9 +1050,6 @@
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
-              "#non-imposition-cooperative-interaction",
-              "#non-imposition-cooperative-interaction-a",
-              "#non-imposition-cooperative-interaction-c",
               "#procedural-fairness-constitutional",
               "#procedural-fairness-constitutional-a",
               "#procedural-fairness-constitutional-c",
@@ -1013,17 +1077,20 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 7,
+            "count": 24,
             "anchors": [
+              "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-iii-c-labor-and-economic-floor",
+              "#article-iii-survival-and-essential-access",
               "#article-iv-a-equal-educational-access",
               "#article-iv-right-to-sentient-centered-education",
+              "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
               "#chapter-six-foundational-rights"
             ]
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 26,
+            "count": 30,
             "anchors": [
               "#article-ix-likeness-experiential-data-and-publication-rights",
               "#article-vi-a-dignity-and-equal-moral-standing",
@@ -1033,7 +1100,6 @@
               "#article-vii-self-ownership",
               "#article-x-c-stakeholder-role-and-participation-rights",
               "#article-x-self-determination-agency-and-participation",
-              "#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview",
               "#article-xi-conscience-expression-association-and-cooperative-interaction",
               "#article-xi-d-assembly-dissent-and-peaceful-protest",
               "#article-xi-e-institutional-formation-and-business-creation",
@@ -1043,7 +1109,7 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 30,
+            "count": 43,
             "anchors": [
               "#article-xiii-a-reliability-and-trustworthiness-baseline",
               "#article-xiii-b-right-to-redress-and-remedy",
@@ -1057,7 +1123,7 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 20,
+            "count": 30,
             "anchors": [
               "#article-xix-b-contestability-and-proportional-restriction-limits",
               "#article-xix-standing-and-participation-status",
@@ -1078,7 +1144,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 8,
+            "count": 10,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#34-voluntary-discontinuation-and-exit-rights",
@@ -1090,9 +1156,17 @@
             ]
           },
           {
-            "file": "core_09_standing_assessment.md",
-            "count": 3,
+            "file": "core_08_b_system_alignment_certification_record_process.md",
+            "count": 1,
             "anchors": [
+              "#11-system-certification-record"
+            ]
+          },
+          {
+            "file": "core_09_standing_assessment.md",
+            "count": 5,
+            "anchors": [
+              "#4-question-2-how-good-or-bad-was-it",
               "#43-route-descriptor-measurement-roles"
             ]
           },
@@ -1112,17 +1186,17 @@
             ]
           },
           {
+            "file": "core_11_b_misconduct_pattern_applications.md",
+            "count": 5,
+            "anchors": [
+              "#51-concentration-based-subversion-criteria-interaction"
+            ]
+          },
+          {
             "file": "core_12_forum.md",
             "count": 2,
             "anchors": [
               "#42-technical-forum-domains"
-            ]
-          },
-          {
-            "file": "core_13_governance.md",
-            "count": 1,
-            "anchors": [
-              "#1-authorization-and-legitimacy-of-governing-authority"
             ]
           },
           {
@@ -1132,6 +1206,20 @@
           },
           {
             "file": "corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+            "count": 3,
+            "anchors": [
+              "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
+              "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
+              "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable"
+            ]
+          },
+          {
+            "file": "corpus_systems.md",
             "count": 2,
             "anchors": []
           },
@@ -1159,34 +1247,42 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 29,
+            "count": 30,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#23-anti-degrading-process",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#33-science-informed-inquiry-and-decision-support",
-              "#4-system-stability-enabler-trust-coordination-integrity",
-              "#5-freedom-bounded-agency",
-              "#51-limitation-discipline"
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#33-anti-degrading-process",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint",
+              "#51-science-informed-inquiry-and-decision-support",
+              "#6-trust-and-trustworthiness-coordination-integrity",
+              "#7-freedom-bounded-agency",
+              "#71-limitation-discipline",
+              "#92-constitutional-efficiency"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 11,
+            "count": 10,
             "anchors": [
-              "#10-consequential-stewardship-the-steward-role",
-              "#111-governance-as-authorized-structure",
-              "#1213-stewardship-and-operator-application",
-              "#132-constitutional-efficiency",
-              "#16-integrated-application",
-              "#9-stewardship-in-depth"
+              "#16-stewardship-in-depth",
+              "#17-consequential-stewardship-the-steward-role",
+              "#181-governance-as-authorized-structure",
+              "#1913-stewardship-and-operator-application",
+              "#20-integrated-application"
             ]
           },
           {
             "file": "core_02_definition_structure.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "core_03_definition_integrity.md",
+            "count": 2,
+            "anchors": [
+              "#21-common-evasion-patterns",
+              "#22-reductive-evasion"
+            ]
           },
           {
             "file": "core_04_burden_traceability_verification.md",
@@ -1197,7 +1293,7 @@
           },
           {
             "file": "core_05__definitions_home.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#21-joint-invocation-and-satisfaction",
               "#chapter-five-foundational-definitions"
@@ -1308,7 +1404,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 28,
+            "count": 33,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -1318,7 +1414,10 @@
               "#corpus",
               "#corpus-a",
               "#corpus-authority-stack-supremacy-and-enforceability-cluster",
-              "#corpus-c"
+              "#corpus-c",
+              "#no-bypass",
+              "#no-bypass-a",
+              "#no-bypass-c"
             ]
           },
           {
@@ -1431,8 +1530,9 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
+              "#3-whole-system-certification-evaluation",
               "#36-time-consistency-constraint"
             ]
           },
@@ -1497,54 +1597,51 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 98,
+            "count": 76,
             "anchors": [
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
               "#continuity",
               "#flourishing",
               "#material-stake",
-              "#the-model",
               "#two-constitutional-aims"
             ]
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 30,
+            "count": 38,
             "anchors": [
               "#1-purpose-and-role",
-              "#2-foundational-objective-wellbeing",
-              "#22-recognition-reinforcement-and-aspiration",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#4-system-stability-enabler-trust-coordination-integrity",
-              "#42-correction-and-remedy",
-              "#5-freedom-bounded-agency",
-              "#531-aligned-self-organization"
+              "#11-market-structure",
+              "#111-market-concentration-threshold-mechanism-adopter-tunable",
+              "#112-pro-competition-and-anti-domination",
+              "#1131-consolidation-risk-pre-lock-in-impairment",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#313-fair-treatment",
+              "#32-recognition-reinforcement-and-aspiration",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint",
+              "#52-plain-language-accessibility-participation-and-stewardship-duty",
+              "#6-trust-and-trustworthiness-coordination-integrity",
+              "#61-correction-and-remedy",
+              "#7-freedom-bounded-agency",
+              "#721-aligned-self-organization",
+              "#9-shared-system-capacity"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 35,
+            "count": 23,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#613-proportionality",
-              "#615-rights-collision-decision-test",
-              "#62-epistemic-disclosure-constraints",
-              "#623-privacy-and-informational-self-determination",
-              "#624-proxy-divergence-invalidation",
-              "#63-minimization-of-avoidable-burden",
-              "#7-prohibition-on-absolute-override",
-              "#8-constitutional-interpretation",
-              "#82-definitional-layer-and-required-disciplines",
-              "#83-ambiguity-resolution"
-            ]
-          },
-          {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 1,
-            "anchors": [
-              "#9-stewardship-in-depth"
+              "#13-process-conflict-resolution",
+              "#1313-proportionality",
+              "#132-epistemic-disclosure-constraints",
+              "#1323-privacy-and-informational-self-determination",
+              "#133-minimization-of-avoidable-burden",
+              "#14-prohibition-on-absolute-override",
+              "#15-constitutional-interpretation",
+              "#152-definitional-layer-and-required-disciplines",
+              "#153-ambiguity-resolution"
             ]
           },
           {
@@ -1562,7 +1659,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 40,
+            "count": 46,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -1572,7 +1669,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 42,
+            "count": 36,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -1602,7 +1699,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 364,
+            "count": 334,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1620,12 +1717,15 @@
               "#contingent-claim-a",
               "#contingent-claim-c",
               "#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent",
+              "#decentralization",
+              "#decentralization-a",
+              "#decentralization-c",
+              "#duty-to-resist",
+              "#duty-to-resist-a",
+              "#duty-to-resist-c",
               "#event-contract-market",
               "#event-contract-market-a",
               "#event-contract-market-c",
-              "#feasibility",
-              "#feasibility-a",
-              "#feasibility-c",
               "#game-of-chance",
               "#game-of-chance-a",
               "#game-of-chance-c",
@@ -1641,13 +1741,10 @@
               "#irreversible-harm",
               "#irreversible-harm-a",
               "#irreversible-harm-c",
-              "#market-concentration-threshold-constitutional",
-              "#market-concentration-threshold-constitutional-a",
-              "#market-concentration-threshold-constitutional-c",
               "#market-structure-constitutional",
-              "#market-structure-constitutional-a",
-              "#market-structure-constitutional-c",
               "#materially-binding-act",
+              "#materially-binding-act-a",
+              "#materially-binding-act-c",
               "#merits-determination",
               "#merits-determination-a",
               "#merits-determination-c",
@@ -1662,12 +1759,15 @@
               "#protected-reporting-retaliation-and-access-interference-c",
               "#protected-reporting-whistleblowing",
               "#protected-reporting-whistleblowing-a",
-              "#protected-reporting-whistleblowing-c"
+              "#protected-reporting-whistleblowing-c",
+              "#standardization",
+              "#standardization-a",
+              "#standardization-c"
             ]
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 429,
+            "count": 306,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -1675,6 +1775,9 @@
               "#avoidable-burden",
               "#avoidable-burden-a",
               "#avoidable-burden-c",
+              "#cascading-failure",
+              "#cascading-failure-a",
+              "#cascading-failure-c",
               "#constitutional-efficiency",
               "#constitutional-efficiency-a",
               "#constitutional-efficiency-c",
@@ -1684,15 +1787,6 @@
               "#distributed-understanding-constitutional",
               "#distributed-understanding-constitutional-a",
               "#distributed-understanding-constitutional-c",
-              "#ecological-integrity-constitutional",
-              "#ecological-integrity-constitutional-a",
-              "#ecological-integrity-constitutional-c",
-              "#environmental-preconditions-constitutional",
-              "#environmental-preconditions-constitutional-a",
-              "#environmental-preconditions-constitutional-c",
-              "#intergenerational-responsibility-constitutional",
-              "#intergenerational-responsibility-constitutional-a",
-              "#intergenerational-responsibility-constitutional-c",
               "#productive-capacity-constitutional",
               "#productive-capacity-constitutional-a",
               "#productive-capacity-constitutional-c",
@@ -1702,15 +1796,9 @@
               "#review-and-correction-duty-constitutional",
               "#review-and-correction-duty-constitutional-a",
               "#review-and-correction-duty-constitutional-c",
-              "#risk",
-              "#risk-a",
-              "#risk-c",
               "#safety-constraint",
               "#safety-constraint-a",
               "#safety-constraint-c",
-              "#shared-system-capacity-constitutional",
-              "#shared-system-capacity-constitutional-a",
-              "#shared-system-capacity-constitutional-c",
               "#short-horizon-governance-defect-constitutional",
               "#short-horizon-governance-defect-constitutional-a",
               "#short-horizon-governance-defect-constitutional-c",
@@ -1727,8 +1815,9 @@
               "#surveillance-boundary-a",
               "#surveillance-boundary-c",
               "#system-alignment-certification-constitutional",
-              "#system-alignment-certification-constitutional-a",
-              "#system-alignment-certification-constitutional-c",
+              "#system-boundary-integrity",
+              "#system-boundary-integrity-a",
+              "#system-boundary-integrity-c",
               "#system-capture",
               "#system-capture-a",
               "#system-capture-c",
@@ -1739,7 +1828,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 57,
+            "count": 58,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -1750,6 +1839,7 @@
               "#corpus",
               "#corpus-a",
               "#corpus-c",
+              "#documented-legitimacy-mechanism",
               "#incentive-alignment",
               "#incentive-alignment-a",
               "#incentive-alignment-c"
@@ -1757,14 +1847,12 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 220,
+            "count": 195,
             "anchors": [
               "#auditability",
               "#auditability-a",
               "#auditability-c",
               "#classification-scaled-governance",
-              "#classification-scaled-governance-a",
-              "#classification-scaled-governance-c",
               "#epistemic-integrity",
               "#epistemic-integrity-a",
               "#epistemic-integrity-c",
@@ -1798,7 +1886,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 125,
+            "count": 105,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -1807,16 +1895,19 @@
               "#coercion-and-manipulation-constitutional",
               "#coercion-and-manipulation-constitutional-a",
               "#coercion-and-manipulation-constitutional-c",
-              "#dignity-and-equal-moral-standing",
-              "#dignity-and-equal-moral-standing-a",
-              "#dignity-and-equal-moral-standing-c",
               "#educational-agency",
               "#educational-agency-a",
               "#educational-agency-c",
               "#meaningful-agency",
               "#meaningful-agency-a",
               "#meaningful-agency-c",
+              "#non-imposition-cooperative-interaction",
+              "#non-imposition-cooperative-interaction-a",
+              "#non-imposition-cooperative-interaction-c",
               "#procedural-fairness-constitutional",
+              "#protected-characteristics-constitutional",
+              "#protected-characteristics-constitutional-a",
+              "#protected-characteristics-constitutional-c",
               "#sentience-non-exclusion",
               "#stakeholder-status-and-weight-cluster",
               "#substrate-agnostic",
@@ -1828,13 +1919,11 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 15,
+            "count": 6,
             "anchors": [
-              "#article-i-a-environmental-preconditions-and-ecological-integrity",
-              "#article-iii-c-labor-and-economic-floor",
               "#article-iii-survival-and-essential-access",
               "#article-iv-right-to-sentient-centered-education",
-              "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
+              "#article-v-a-dependency-mapping-and-resource-flow-transparency",
               "#chapter-six-foundational-rights"
             ]
           },
@@ -1844,28 +1933,29 @@
             "anchors": [
               "#article-vii-b-self-ownership-of-mind",
               "#article-x-self-determination-agency-and-participation",
+              "#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview",
               "#article-xii-stakeholder-system-participation-representation-and-due-process"
             ]
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
               "#article-xiii-a-reliability-and-trustworthiness-baseline",
               "#article-xiii-d-incentive-alignment-constraint",
               "#article-xv-info-sphere-integrity",
-              "#article-xvi-audit-transparency-and-independent-verification",
-              "#article-xvii-system-lifecycle-environments-and-reversibility"
+              "#article-xvi-audit-transparency-and-independent-verification"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 22,
+            "count": 26,
             "anchors": [
               "#article-xix-standing-and-participation-status",
               "#article-xxi-interoperability-portability-and-exit-integrity",
+              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity",
+              "#article-xxii-b-complexity-audit-and-modularity-requirements",
               "#article-xxii-comprehensibility-and-complexity-stewardship",
-              "#article-xxiii-root-cause-analysis-and-adaptive-response",
               "#article-xxiv-a-bounded-interpretive-mandate",
               "#article-xxiv-c-public-reasons-challenge-rights-and-external-review",
               "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
@@ -1889,22 +1979,15 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 10,
+            "count": 8,
             "anchors": [
               "#3-whole-system-certification-evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
           {
-            "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 1,
-            "anchors": [
-              "#11-system-certification-record"
-            ]
-          },
-          {
             "file": "core_09_standing_assessment.md",
-            "count": 14,
+            "count": 12,
             "anchors": [
               "#21-silence-is-the-default",
               "#232-violation-event-types",
@@ -1928,7 +2011,7 @@
           },
           {
             "file": "core_11_b_misconduct_pattern_applications.md",
-            "count": 7,
+            "count": 2,
             "anchors": [
               "#51-concentration-based-subversion-criteria-interaction",
               "#511-obstruction-of-accountability-criteria-interaction"
@@ -1945,8 +2028,9 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
+              "#1-authorization-and-legitimacy-of-governing-authority",
               "#5-authorized-roles-competency-development-and-contribution"
             ]
           },
@@ -1967,17 +2051,14 @@
           },
           {
             "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-            "count": 4,
+            "count": 1,
             "anchors": [
-              "#baseline-governance-accountability-conditions",
-              "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
-              "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
-              "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable"
+              "#baseline-governance-accountability-conditions"
             ]
           },
           {
             "file": "corpus_systems.md",
-            "count": 9,
+            "count": 7,
             "anchors": []
           },
           {
@@ -1991,6 +2072,11 @@
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
+          },
+          {
+            "file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+            "count": 2,
+            "anchors": []
           }
         ]
       },
@@ -2123,14 +2209,14 @@
             "file": "core_01_a_values_principles.md",
             "count": 1,
             "anchors": [
-              "#32-truth-epistemic-integrity-constraint"
+              "#5-truth-epistemic-integrity-constraint"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#126-successor-responsibility-and-formal-structure-non-escape"
+              "#196-successor-responsibility-and-formal-structure-non-escape"
             ]
           },
           {
@@ -2224,15 +2310,15 @@
             "file": "core_01_a_values_principles.md",
             "count": 1,
             "anchors": [
-              "#34-plain-language-accessibility-participation-and-stewardship-duty"
+              "#52-plain-language-accessibility-participation-and-stewardship-duty"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 3,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#62-epistemic-disclosure-constraints"
+              "#13-process-conflict-resolution",
+              "#132-epistemic-disclosure-constraints"
             ]
           },
           {
@@ -2343,6 +2429,13 @@
             ]
           },
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#1511-anti-segmentation-principle"
+            ]
+          },
+          {
             "file": "core_04_burden_traceability_verification.md",
             "count": 1,
             "anchors": []
@@ -2409,7 +2502,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 83,
+            "count": 85,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#anti-constitutional-misconduct-review",
@@ -2431,6 +2524,7 @@
               "#cruelty",
               "#decentralization",
               "#due-process-constitutional",
+              "#duty-to-resist",
               "#event-contract-market",
               "#feasibility",
               "#force-majeure-constitutional",
@@ -2472,6 +2566,7 @@
               "#remedy-system-constitutional",
               "#restorative-justice",
               "#single-catastrophic-incident",
+              "#standardization",
               "#standing-effect-chapter-six",
               "#standing-lock",
               "#standing-record-chapter-six",
@@ -2567,7 +2662,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 17,
+            "count": 18,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
@@ -2583,6 +2678,7 @@
               "#incentive-alignment-semi-independent",
               "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
               "#innovation-reward-and-anti-enclosure",
+              "#no-bypass",
               "#non-compliance"
             ]
           },
@@ -2707,13 +2803,19 @@
             ]
           },
           {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "file": "core_01_a_values_principles.md",
+            "count": 1,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#126-successor-responsibility-and-formal-structure-non-escape",
-              "#14-market-structure"
+              "#11-market-structure"
+            ]
+          },
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 4,
+            "anchors": [
+              "#18-governance-under-stewardship-discipline",
+              "#19-incentive-alignment-and-system-capture",
+              "#196-successor-responsibility-and-formal-structure-non-escape"
             ]
           },
           {
@@ -2817,24 +2919,24 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#41-resilience-and-self-healing-design"
+              "#10-resilience-and-self-healing-design",
+              "#9-shared-system-capacity"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#6-process-conflict-resolution"
+              "#13-process-conflict-resolution"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 3,
+            "count": 2,
             "anchors": [
-              "#1215-constitutional-outcome-claims-discipline",
-              "#13-shared-system-capacity"
+              "#1915-constitutional-outcome-claims-discipline"
             ]
           },
           {
@@ -2926,23 +3028,23 @@
             "file": "core_01_a_values_principles.md",
             "count": 3,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#3-non-negotiable-principle-constraints-safety-and-truth",
-              "#4-system-stability-enabler-trust-coordination-integrity"
+              "#21-non-negotiable-principle-constraints-safety-and-truth",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#6-trust-and-trustworthiness-coordination-integrity"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#6-process-conflict-resolution"
+              "#13-process-conflict-resolution"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
-              "#1215-constitutional-outcome-claims-discipline"
+              "#1915-constitutional-outcome-claims-discipline"
             ]
           },
           {
@@ -3046,7 +3148,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#11-governance-under-stewardship-discipline"
+              "#18-governance-under-stewardship-discipline"
             ]
           },
           {
@@ -3147,15 +3249,15 @@
             "file": "core_01_a_values_principles.md",
             "count": 1,
             "anchors": [
-              "#5-freedom-bounded-agency"
+              "#7-freedom-bounded-agency"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
-              "#1215-constitutional-outcome-claims-discipline",
-              "#9-stewardship-in-depth"
+              "#16-stewardship-in-depth",
+              "#1915-constitutional-outcome-claims-discipline"
             ]
           },
           {
@@ -3329,48 +3431,54 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 25,
+            "count": 41,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#23-anti-degrading-process",
-              "#3-non-negotiable-principle-constraints-safety-and-truth",
-              "#31-safety-harm-constraint",
-              "#42-correction-and-remedy",
-              "#5-freedom-bounded-agency"
+              "#11-market-structure",
+              "#111-market-concentration-threshold-mechanism-adopter-tunable",
+              "#112-pro-competition-and-anti-domination",
+              "#113-consolidation-ceiling",
+              "#21-non-negotiable-principle-constraints-safety-and-truth",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#33-anti-degrading-process",
+              "#4-safety-harm-constraint",
+              "#61-correction-and-remedy",
+              "#7-freedom-bounded-agency",
+              "#91-productive-capacity-instrumental-good"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 39,
+            "count": 41,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#611-necessity",
-              "#612-harm-minimization",
-              "#613-proportionality",
-              "#615-rights-collision-decision-test",
-              "#621-preservation-of-epistemic-integrity",
-              "#624-proxy-divergence-invalidation",
-              "#7-prohibition-on-absolute-override"
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1311-necessity",
+              "#1312-harm-minimization",
+              "#1313-proportionality",
+              "#1315-rights-collision-decision-test",
+              "#1321-preservation-of-epistemic-integrity",
+              "#1324-proxy-divergence-invalidation",
+              "#14-prohibition-on-absolute-override",
+              "#1511-anti-segmentation-principle"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 40,
+            "count": 30,
             "anchors": [
-              "#104-aligned-self-organization",
-              "#11-governance-under-stewardship-discipline",
-              "#111-governance-as-authorized-structure",
-              "#112-segregation-of-duties",
-              "#1215-constitutional-outcome-claims-discipline",
-              "#125-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#126-successor-responsibility-and-formal-structure-non-escape",
-              "#131-productive-capacity-instrumental-good",
-              "#14-market-structure",
-              "#141-market-concentration-threshold-mechanism-adopter-tunable",
-              "#142-pro-competition-and-anti-domination",
-              "#143-consolidation-ceiling",
-              "#16-integrated-application"
+              "#171-shared-stewardship-standard",
+              "#172-alignment-under-pressure",
+              "#174-aligned-self-organization",
+              "#175-duty-to-resist",
+              "#18-governance-under-stewardship-discipline",
+              "#181-governance-as-authorized-structure",
+              "#183-segregation-of-duties",
+              "#185-modular-architecture-and-dependency-discipline",
+              "#186-standardization",
+              "#1915-constitutional-outcome-claims-discipline",
+              "#195-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#196-successor-responsibility-and-formal-structure-non-escape",
+              "#20-integrated-application"
             ]
           },
           {
@@ -3397,7 +3505,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 110,
+            "count": 112,
             "anchors": [
               "#accountability",
               "#accountability-measurement-family",
@@ -3420,7 +3528,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 24,
+            "count": 25,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-measurement-family"
@@ -3428,7 +3536,7 @@
           },
           {
             "file": "core_05_apex_timeliness_leg.md",
-            "count": 52,
+            "count": 53,
             "anchors": [
               "#timeliness-constitutional",
               "#timeliness-measurement-family"
@@ -3436,7 +3544,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 623,
+            "count": 641,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3470,6 +3578,7 @@
               "#forum-family-sentient",
               "#forum-family-technical",
               "#game-of-chance",
+              "#good-faith",
               "#governance",
               "#governance-architecture-oversight-decentralization-and-concentration-cluster",
               "#harassment-and-bullying",
@@ -3499,6 +3608,7 @@
               "#remedy-system-constitutional",
               "#restorative-justice",
               "#single-catastrophic-incident",
+              "#standardization",
               "#standing-effect-chapter-six",
               "#standing-lock",
               "#standing-record-chapter-six",
@@ -3518,7 +3628,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 135,
+            "count": 140,
             "anchors": [
               "#anti-capture",
               "#avoidable-burden",
@@ -3585,7 +3695,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 93,
+            "count": 95,
             "anchors": [
               "#animal-life-constitutional",
               "#coercion-and-manipulation-constitutional",
@@ -3640,10 +3750,11 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 4,
+            "count": 5,
             "anchors": [
               "#article-xx-a-justice-objective-and-scope",
-              "#article-xx-b-restriction-floors"
+              "#article-xx-b-restriction-floors",
+              "#article-xxi-interoperability-portability-and-exit-integrity"
             ]
           },
           {
@@ -3706,12 +3817,13 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 20,
+            "count": 21,
             "anchors": [
               "#1-chapter-nine-records-do-not-change",
               "#3-descriptor-integration-and-attachment-normalization",
               "#42-prevention--general-standing-locks",
               "#5-lock-design-and-enforcement",
+              "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#55-special-locks",
               "#62-competency-bars-and-clearances",
               "#9-enforcement-realism-and-remedy-systems",
@@ -3800,7 +3912,7 @@
           },
           {
             "file": "corpus_systems/cs_04_critical_system_stewardship.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#10-inspectable-attributable-action"
             ]
@@ -3826,53 +3938,55 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 24,
+            "count": 42,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#3-non-negotiable-principle-constraints-safety-and-truth",
-              "#31-safety-harm-constraint",
-              "#4-system-stability-enabler-trust-coordination-integrity",
-              "#5-freedom-bounded-agency",
-              "#51-limitation-discipline",
-              "#52-voluntary-discontinuation-and-exit-rights"
+              "#11-market-structure",
+              "#111-market-concentration-threshold-mechanism-adopter-tunable",
+              "#113-consolidation-ceiling",
+              "#21-non-negotiable-principle-constraints-safety-and-truth",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#4-safety-harm-constraint",
+              "#6-trust-and-trustworthiness-coordination-integrity",
+              "#7-freedom-bounded-agency",
+              "#71-limitation-discipline",
+              "#74-voluntary-discontinuation-and-exit-rights",
+              "#9-shared-system-capacity",
+              "#91-productive-capacity-instrumental-good",
+              "#92-constitutional-efficiency"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 25,
+            "count": 27,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#613-proportionality",
-              "#615-rights-collision-decision-test",
-              "#623-privacy-and-informational-self-determination",
-              "#624-proxy-divergence-invalidation",
-              "#63-minimization-of-avoidable-burden",
-              "#843-incorporation-layer",
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1313-proportionality",
+              "#1315-rights-collision-decision-test",
+              "#1323-privacy-and-informational-self-determination",
+              "#1324-proxy-divergence-invalidation",
+              "#133-minimization-of-avoidable-burden",
+              "#1511-anti-segmentation-principle",
+              "#1543-incorporation-layer",
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 46,
+            "count": 29,
             "anchors": [
-              "#101-shared-stewardship-standard",
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#121-alignment-requirement",
-              "#1213-stewardship-and-operator-application",
-              "#1215-constitutional-outcome-claims-discipline",
-              "#123-misalignment-detection",
-              "#124-misalignment-correction-and-capture-response",
-              "#13-shared-system-capacity",
-              "#131-productive-capacity-instrumental-good",
-              "#132-constitutional-efficiency",
-              "#14-market-structure",
-              "#141-market-concentration-threshold-mechanism-adopter-tunable",
-              "#143-consolidation-ceiling",
-              "#9-stewardship-in-depth",
-              "#91-distributed-understanding",
-              "#93-openness-aspiration",
+              "#16-stewardship-in-depth",
+              "#161-distributed-understanding",
+              "#163-openness-aspiration",
+              "#171-shared-stewardship-standard",
+              "#18-governance-under-stewardship-discipline",
+              "#185-modular-architecture-and-dependency-discipline",
+              "#19-incentive-alignment-and-system-capture",
+              "#191-alignment-requirement",
+              "#1913-stewardship-and-operator-application",
+              "#1915-constitutional-outcome-claims-discipline",
+              "#193-misalignment-detection",
+              "#194-misalignment-correction-and-capture-response",
               "#chapter-01-part-c-stewardship-and-governance"
             ]
           },
@@ -4306,35 +4420,36 @@
             "file": "core_01_a_values_principles.md",
             "count": 5,
             "anchors": [
-              "#3-non-negotiable-principle-constraints-safety-and-truth",
-              "#5-freedom-bounded-agency"
+              "#21-non-negotiable-principle-constraints-safety-and-truth",
+              "#7-freedom-bounded-agency"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 10,
+            "count": 11,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#8-constitutional-interpretation",
-              "#84-constitutional-meaning-conflict-resolution"
+              "#13-process-conflict-resolution",
+              "#15-constitutional-interpretation",
+              "#151-constitutional-no-bypass-principle",
+              "#154-constitutional-meaning-conflict-resolution"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 21,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#121-alignment-requirement",
-              "#1213-stewardship-and-operator-application",
-              "#1214-role-depth-and-material-responsibility-pathways",
-              "#1215-constitutional-outcome-claims-discipline",
-              "#122-convenient-proxies-and-proxy-divergence",
-              "#123-misalignment-detection",
-              "#124-misalignment-correction-and-capture-response",
-              "#125-contingent-claims-games-of-chance-and-event-contract-markets",
-              "#16-integrated-application",
-              "#9-stewardship-in-depth"
+              "#16-stewardship-in-depth",
+              "#18-governance-under-stewardship-discipline",
+              "#19-incentive-alignment-and-system-capture",
+              "#191-alignment-requirement",
+              "#1913-stewardship-and-operator-application",
+              "#1914-role-depth-and-material-responsibility-pathways",
+              "#1915-constitutional-outcome-claims-discipline",
+              "#192-convenient-proxies-and-proxy-divergence",
+              "#193-misalignment-detection",
+              "#194-misalignment-correction-and-capture-response",
+              "#195-contingent-claims-games-of-chance-and-event-contract-markets",
+              "#20-integrated-application"
             ]
           },
           {
@@ -4371,8 +4486,9 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 10,
+            "count": 13,
             "anchors": [
+              "#accountability",
               "#accountability-measurement-family"
             ]
           },
@@ -4385,7 +4501,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 39,
+            "count": 41,
             "anchors": [
               "#capture-of-resolution-pathways",
               "#contestability",
@@ -4424,7 +4540,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 48,
+            "count": 49,
             "anchors": [
               "#authority-stack",
               "#constitutional-constraint",
@@ -4442,7 +4558,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 32,
+            "count": 34,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4484,6 +4600,13 @@
             "anchors": [
               "#article-x-b-governance-participation-and-voting-entitlement",
               "#article-xii-a-stakeholder-system-participation-and-representation"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_e.md",
+            "count": 1,
+            "anchors": [
+              "#article-xxvi-b-periodic-revalidation-and-transparent-change"
             ]
           },
           {
@@ -4567,31 +4690,32 @@
             "file": "core_01_a_values_principles.md",
             "count": 4,
             "anchors": [
-              "#3-non-negotiable-principle-constraints-safety-and-truth",
-              "#31-safety-harm-constraint"
+              "#21-non-negotiable-principle-constraints-safety-and-truth",
+              "#4-safety-harm-constraint"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 12,
+            "count": 13,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#613-proportionality",
-              "#62-epistemic-disclosure-constraints",
-              "#621-preservation-of-epistemic-integrity",
-              "#624-proxy-divergence-invalidation",
-              "#843-incorporation-layer"
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1313-proportionality",
+              "#132-epistemic-disclosure-constraints",
+              "#1321-preservation-of-epistemic-integrity",
+              "#1324-proxy-divergence-invalidation",
+              "#1511-anti-segmentation-principle",
+              "#1543-incorporation-layer"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 4,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#9-stewardship-in-depth",
-              "#91-distributed-understanding",
-              "#92-institutional-development"
+              "#16-stewardship-in-depth",
+              "#161-distributed-understanding",
+              "#162-institutional-development",
+              "#18-governance-under-stewardship-discipline"
             ]
           },
           {
@@ -4823,34 +4947,35 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 36,
+            "count": 37,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#21-fairness",
-              "#211-access-and-opportunity",
-              "#212-benefits-and-burdens",
-              "#213-fair-treatment",
-              "#3-non-negotiable-principle-constraints-safety-and-truth",
-              "#5-freedom-bounded-agency",
-              "#51-limitation-discipline"
+              "#11-market-structure",
+              "#21-non-negotiable-principle-constraints-safety-and-truth",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#31-fairness",
+              "#311-access-and-opportunity",
+              "#312-benefits-and-burdens",
+              "#313-fair-treatment",
+              "#7-freedom-bounded-agency",
+              "#71-limitation-discipline"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 14,
+            "count": 16,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#615-rights-collision-decision-test"
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1315-rights-collision-decision-test",
+              "#1511-anti-segmentation-principle"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#14-market-structure",
-              "#9-stewardship-in-depth"
+              "#16-stewardship-in-depth",
+              "#18-governance-under-stewardship-discipline"
             ]
           },
           {
@@ -5270,7 +5395,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 1,
             "anchors": [
-              "#23-anti-degrading-process"
+              "#33-anti-degrading-process"
             ]
           },
           {
@@ -5284,12 +5409,12 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 9,
             "anchors": [
-              "#101-shared-stewardship-standard",
-              "#105-duty-to-resist",
-              "#11-governance-under-stewardship-discipline",
-              "#111-governance-as-authorized-structure",
-              "#112-segregation-of-duties",
-              "#123-misalignment-detection"
+              "#171-shared-stewardship-standard",
+              "#175-duty-to-resist",
+              "#18-governance-under-stewardship-discipline",
+              "#181-governance-as-authorized-structure",
+              "#183-segregation-of-duties",
+              "#193-misalignment-detection"
             ]
           },
           {
@@ -5503,25 +5628,32 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 7,
+            "count": 11,
             "anchors": [
-              "#32-truth-epistemic-integrity-constraint",
-              "#4-system-stability-enabler-trust-coordination-integrity",
-              "#52-voluntary-discontinuation-and-exit-rights",
-              "#53-assembly-collective-organization-and-institutional-formation",
-              "#54-dissent-and-peaceful-protest"
+              "#11-market-structure",
+              "#12-systemic-evaluation-requirement",
+              "#5-truth-epistemic-integrity-constraint",
+              "#6-trust-and-trustworthiness-coordination-integrity",
+              "#72-assembly-collective-organization-and-institutional-formation",
+              "#73-dissent-and-peaceful-protest",
+              "#74-voluntary-discontinuation-and-exit-rights"
+            ]
+          },
+          {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#1511-anti-segmentation-principle"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 13,
+            "count": 9,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#1214-role-depth-and-material-responsibility-pathways",
-              "#14-market-structure",
-              "#15-systemic-evaluation-requirement",
-              "#9-stewardship-in-depth"
+              "#16-stewardship-in-depth",
+              "#18-governance-under-stewardship-discipline",
+              "#19-incentive-alignment-and-system-capture",
+              "#1914-role-depth-and-material-responsibility-pathways"
             ]
           },
           {
@@ -6008,29 +6140,29 @@
             "file": "core_01_a_values_principles.md",
             "count": 5,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#22-recognition-reinforcement-and-aspiration",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint"
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#32-recognition-reinforcement-and-aspiration",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 3,
             "anchors": [
-              "#61-core-tradeoff-principles",
-              "#614-constitutional-floors-safety-and-process-character-constraints"
+              "#131-core-tradeoff-principles",
+              "#1314-constitutional-floors-safety-and-process-character-constraints"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 9,
             "anchors": [
-              "#105-duty-to-resist",
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#123-misalignment-detection",
-              "#9-stewardship-in-depth",
+              "#16-stewardship-in-depth",
+              "#175-duty-to-resist",
+              "#18-governance-under-stewardship-discipline",
+              "#19-incentive-alignment-and-system-capture",
+              "#193-misalignment-detection",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -6271,24 +6403,24 @@
             "file": "core_01_a_values_principles.md",
             "count": 4,
             "anchors": [
-              "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-participation-and-stewardship-duty",
-              "#42-correction-and-remedy"
+              "#5-truth-epistemic-integrity-constraint",
+              "#52-plain-language-accessibility-participation-and-stewardship-duty",
+              "#61-correction-and-remedy"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#624-proxy-divergence-invalidation"
+              "#1324-proxy-divergence-invalidation"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
-              "#101-shared-stewardship-standard",
-              "#105-duty-to-resist"
+              "#171-shared-stewardship-standard",
+              "#175-duty-to-resist"
             ]
           },
           {
@@ -6615,29 +6747,29 @@
         "targets": [
           {
             "file": "core_01_a_values_principles.md",
-            "count": 2,
+            "count": 6,
             "anchors": [
-              "#22-recognition-reinforcement-and-aspiration",
-              "#32-truth-epistemic-integrity-constraint"
+              "#111-market-concentration-threshold-mechanism-adopter-tunable",
+              "#112-pro-competition-and-anti-domination",
+              "#113-consolidation-ceiling",
+              "#32-recognition-reinforcement-and-aspiration",
+              "#5-truth-epistemic-integrity-constraint",
+              "#91-productive-capacity-instrumental-good"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#621-preservation-of-epistemic-integrity"
+              "#1321-preservation-of-epistemic-integrity"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 6,
+            "count": 2,
             "anchors": [
-              "#12-incentive-alignment-and-system-capture",
-              "#1212-what-incentives-must-not-do",
-              "#131-productive-capacity-instrumental-good",
-              "#141-market-concentration-threshold-mechanism-adopter-tunable",
-              "#142-pro-competition-and-anti-domination",
-              "#143-consolidation-ceiling"
+              "#19-incentive-alignment-and-system-capture",
+              "#1912-what-incentives-must-not-do"
             ]
           },
           {
@@ -6910,19 +7042,25 @@
             ]
           },
           {
+            "file": "core_01_a_values_principles.md",
+            "count": 1,
+            "anchors": [
+              "#92-constitutional-efficiency"
+            ]
+          },
+          {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 2,
             "anchors": [
-              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-              "#81-constitutional-no-bypass-principle"
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#151-constitutional-no-bypass-principle"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
-              "#104-aligned-self-organization",
-              "#132-constitutional-efficiency",
+              "#174-aligned-self-organization",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -7186,8 +7324,8 @@
             "file": "core_01_a_values_principles.md",
             "count": 2,
             "anchors": [
-              "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-participation-and-stewardship-duty"
+              "#5-truth-epistemic-integrity-constraint",
+              "#52-plain-language-accessibility-participation-and-stewardship-duty"
             ]
           },
           {
@@ -7201,10 +7339,10 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 4,
             "anchors": [
-              "#10-consequential-stewardship-the-steward-role",
-              "#101-shared-stewardship-standard",
-              "#103-logging-the-role-not-the-steward",
-              "#105-duty-to-resist"
+              "#17-consequential-stewardship-the-steward-role",
+              "#171-shared-stewardship-standard",
+              "#173-logging-the-role-not-the-steward",
+              "#175-duty-to-resist"
             ]
           },
           {
@@ -7364,44 +7502,44 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 66,
+            "count": 72,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#21-fairness",
-              "#211-access-and-opportunity",
-              "#213-fair-treatment",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-participation-and-stewardship-duty",
-              "#5-freedom-bounded-agency",
-              "#51-limitation-discipline"
+              "#11-market-structure",
+              "#111-market-concentration-threshold-mechanism-adopter-tunable",
+              "#12-systemic-evaluation-requirement",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#31-fairness",
+              "#311-access-and-opportunity",
+              "#313-fair-treatment",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint",
+              "#52-plain-language-accessibility-participation-and-stewardship-duty",
+              "#7-freedom-bounded-agency",
+              "#71-limitation-discipline",
+              "#9-shared-system-capacity"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 17,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#615-rights-collision-decision-test",
-              "#62-epistemic-disclosure-constraints",
-              "#8-constitutional-interpretation"
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1315-rights-collision-decision-test",
+              "#132-epistemic-disclosure-constraints",
+              "#15-constitutional-interpretation"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 21,
+            "count": 15,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#1213-stewardship-and-operator-application",
-              "#126-successor-responsibility-and-formal-structure-non-escape",
-              "#13-shared-system-capacity",
-              "#14-market-structure",
-              "#141-market-concentration-threshold-mechanism-adopter-tunable",
-              "#15-systemic-evaluation-requirement",
-              "#9-stewardship-in-depth",
-              "#91-distributed-understanding"
+              "#16-stewardship-in-depth",
+              "#161-distributed-understanding",
+              "#18-governance-under-stewardship-discipline",
+              "#19-incentive-alignment-and-system-capture",
+              "#1913-stewardship-and-operator-application",
+              "#196-successor-responsibility-and-formal-structure-non-escape"
             ]
           },
           {
@@ -7803,35 +7941,37 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 91,
+            "count": 94,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#21-fairness",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-participation-and-stewardship-duty",
-              "#5-freedom-bounded-agency",
-              "#51-limitation-discipline",
-              "#53-assembly-collective-organization-and-institutional-formation",
-              "#54-dissent-and-peaceful-protest",
-              "#55-institutional-secularism-and-worldview-neutrality"
+              "#11-market-structure",
+              "#111-market-concentration-threshold-mechanism-adopter-tunable",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#31-fairness",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint",
+              "#52-plain-language-accessibility-participation-and-stewardship-duty",
+              "#7-freedom-bounded-agency",
+              "#71-limitation-discipline",
+              "#72-assembly-collective-organization-and-institutional-formation",
+              "#73-dissent-and-peaceful-protest",
+              "#91-productive-capacity-instrumental-good"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 44,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#611-necessity",
-              "#613-proportionality",
-              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-              "#615-rights-collision-decision-test",
-              "#62-epistemic-disclosure-constraints",
-              "#621-preservation-of-epistemic-integrity",
-              "#63-minimization-of-avoidable-burden",
-              "#7-prohibition-on-absolute-override",
-              "#81-constitutional-no-bypass-principle",
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1311-necessity",
+              "#1313-proportionality",
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#1315-rights-collision-decision-test",
+              "#132-epistemic-disclosure-constraints",
+              "#1321-preservation-of-epistemic-integrity",
+              "#133-minimization-of-avoidable-burden",
+              "#14-prohibition-on-absolute-override",
+              "#151-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
               "#dignity-principles",
               "#rights-floor-minimums-principle"
@@ -7839,15 +7979,13 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 20,
+            "count": 17,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#131-productive-capacity-instrumental-good",
-              "#14-market-structure",
-              "#141-market-concentration-threshold-mechanism-adopter-tunable",
-              "#16-integrated-application",
-              "#92-institutional-development"
+              "#162-institutional-development",
+              "#18-governance-under-stewardship-discipline",
+              "#182-institutional-secularism-and-worldview-neutrality",
+              "#19-incentive-alignment-and-system-capture",
+              "#20-integrated-application"
             ]
           },
           {
@@ -8282,46 +8420,46 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 56,
+            "count": 58,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#4-system-stability-enabler-trust-coordination-integrity",
-              "#41-resilience-and-self-healing-design",
-              "#42-correction-and-remedy",
-              "#5-freedom-bounded-agency",
-              "#51-limitation-discipline"
+              "#10-resilience-and-self-healing-design",
+              "#12-systemic-evaluation-requirement",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint",
+              "#6-trust-and-trustworthiness-coordination-integrity",
+              "#61-correction-and-remedy",
+              "#7-freedom-bounded-agency",
+              "#71-limitation-discipline",
+              "#9-shared-system-capacity"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 26,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#611-necessity",
-              "#613-proportionality",
-              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-              "#615-rights-collision-decision-test",
-              "#62-epistemic-disclosure-constraints",
-              "#63-minimization-of-avoidable-burden",
-              "#7-prohibition-on-absolute-override"
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1311-necessity",
+              "#1313-proportionality",
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#1315-rights-collision-decision-test",
+              "#132-epistemic-disclosure-constraints",
+              "#133-minimization-of-avoidable-burden",
+              "#14-prohibition-on-absolute-override"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 21,
+            "count": 19,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#12-incentive-alignment-and-system-capture",
-              "#121-alignment-requirement",
-              "#1211-what-incentives-must-do",
-              "#13-shared-system-capacity",
-              "#15-systemic-evaluation-requirement",
-              "#16-integrated-application",
-              "#9-stewardship-in-depth",
-              "#91-distributed-understanding"
+              "#16-stewardship-in-depth",
+              "#161-distributed-understanding",
+              "#18-governance-under-stewardship-discipline",
+              "#19-incentive-alignment-and-system-capture",
+              "#191-alignment-requirement",
+              "#1911-what-incentives-must-do",
+              "#20-integrated-application"
             ]
           },
           {
@@ -8610,30 +8748,31 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 33,
+            "count": 34,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#23-anti-degrading-process",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint",
-              "#34-plain-language-accessibility-participation-and-stewardship-duty",
-              "#4-system-stability-enabler-trust-coordination-integrity",
-              "#5-freedom-bounded-agency",
-              "#51-limitation-discipline"
+              "#11-market-structure",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#33-anti-degrading-process",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint",
+              "#52-plain-language-accessibility-participation-and-stewardship-duty",
+              "#6-trust-and-trustworthiness-coordination-integrity",
+              "#7-freedom-bounded-agency",
+              "#71-limitation-discipline"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 30,
             "anchors": [
-              "#61-core-tradeoff-principles",
-              "#613-proportionality",
-              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-              "#615-rights-collision-decision-test",
-              "#63-minimization-of-avoidable-burden",
-              "#7-prohibition-on-absolute-override",
-              "#8-constitutional-interpretation",
-              "#81-constitutional-no-bypass-principle",
+              "#131-core-tradeoff-principles",
+              "#1313-proportionality",
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#1315-rights-collision-decision-test",
+              "#133-minimization-of-avoidable-burden",
+              "#14-prohibition-on-absolute-override",
+              "#15-constitutional-interpretation",
+              "#151-constitutional-no-bypass-principle",
               "#anti-degrading-process-principle",
               "#dignity-principles",
               "#rights-floor-minimums-principle"
@@ -8641,13 +8780,13 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 21,
+            "count": 22,
             "anchors": [
-              "#11-governance-under-stewardship-discipline",
-              "#14-market-structure",
-              "#16-integrated-application",
-              "#9-stewardship-in-depth",
-              "#91-distributed-understanding"
+              "#16-stewardship-in-depth",
+              "#161-distributed-understanding",
+              "#18-governance-under-stewardship-discipline",
+              "#185-modular-architecture-and-dependency-discipline",
+              "#20-integrated-application"
             ]
           },
           {
@@ -8973,37 +9112,37 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 8,
+            "count": 10,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#31-safety-harm-constraint",
-              "#32-truth-epistemic-integrity-constraint"
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#4-safety-harm-constraint",
+              "#5-truth-epistemic-integrity-constraint",
+              "#92-constitutional-efficiency"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 23,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#61-core-tradeoff-principles",
-              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle",
-              "#615-rights-collision-decision-test",
-              "#62-epistemic-disclosure-constraints",
-              "#63-minimization-of-avoidable-burden",
-              "#7-prohibition-on-absolute-override",
-              "#8-constitutional-interpretation",
-              "#81-constitutional-no-bypass-principle",
+              "#13-process-conflict-resolution",
+              "#131-core-tradeoff-principles",
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle",
+              "#1315-rights-collision-decision-test",
+              "#132-epistemic-disclosure-constraints",
+              "#133-minimization-of-avoidable-burden",
+              "#14-prohibition-on-absolute-override",
+              "#15-constitutional-interpretation",
+              "#151-constitutional-no-bypass-principle",
               "#default-interim-posture",
               "#rights-floor-minimums-principle"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 7,
+            "count": 5,
             "anchors": [
-              "#113-ongoing-justification",
-              "#132-constitutional-efficiency",
-              "#16-integrated-application"
+              "#184-ongoing-justification",
+              "#20-integrated-application"
             ]
           },
           {
@@ -9215,31 +9354,31 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 3,
+            "count": 4,
             "anchors": [
-              "#2-foundational-objective-wellbeing",
-              "#3-non-negotiable-principle-constraints-safety-and-truth",
-              "#5-freedom-bounded-agency"
+              "#21-non-negotiable-principle-constraints-safety-and-truth",
+              "#3-foundational-objective-wellbeing-flourishing-aim",
+              "#7-freedom-bounded-agency",
+              "#91-productive-capacity-instrumental-good"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#6-process-conflict-resolution",
-              "#615-rights-collision-decision-test",
-              "#63-minimization-of-avoidable-burden"
+              "#13-process-conflict-resolution",
+              "#1315-rights-collision-decision-test",
+              "#133-minimization-of-avoidable-burden"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 8,
+            "count": 7,
             "anchors": [
-              "#101-shared-stewardship-standard",
-              "#102-alignment-under-pressure",
-              "#105-duty-to-resist",
-              "#131-productive-capacity-instrumental-good",
-              "#9-stewardship-in-depth",
+              "#16-stewardship-in-depth",
+              "#171-shared-stewardship-standard",
+              "#172-alignment-under-pressure",
+              "#175-duty-to-resist",
               "#chapter-01-principles-and-constraints"
             ]
           },
@@ -9561,7 +9700,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 1,
             "anchors": [
-              "#3-non-negotiable-principle-constraints-safety-and-truth"
+              "#21-non-negotiable-principle-constraints-safety-and-truth"
             ]
           },
           {
@@ -9813,8 +9952,8 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 6,
             "anchors": [
-              "#84-constitutional-meaning-conflict-resolution",
-              "#843-incorporation-layer"
+              "#154-constitutional-meaning-conflict-resolution",
+              "#1543-incorporation-layer"
             ]
           },
           {
@@ -10604,8 +10743,8 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 8,
             "anchors": [
-              "#843-incorporation-layer",
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1543-incorporation-layer",
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -10889,9 +11028,9 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 17,
             "anchors": [
-              "#84-constitutional-meaning-conflict-resolution",
-              "#843-incorporation-layer",
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#154-constitutional-meaning-conflict-resolution",
+              "#1543-incorporation-layer",
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -11073,8 +11212,8 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 8,
             "anchors": [
-              "#843-incorporation-layer",
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1543-incorporation-layer",
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -11492,25 +11631,25 @@
             ]
           },
           {
-            "file": "core_01_b_interaction_interpretation.md",
-            "count": 8,
+            "file": "core_01_a_values_principles.md",
+            "count": 13,
             "anchors": [
-              "#615-rights-collision-decision-test",
-              "#624-proxy-divergence-invalidation"
+              "#11-market-structure",
+              "#111-market-concentration-threshold-mechanism-adopter-tunable",
+              "#112-pro-competition-and-anti-domination",
+              "#1122-anti-domination-prohibitions-donts",
+              "#1123-remedies",
+              "#113-consolidation-ceiling",
+              "#1131-consolidation-risk-pre-lock-in-impairment",
+              "#1132-consolidation-ceiling-mechanism-adopter-tunable"
             ]
           },
           {
-            "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 13,
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 8,
             "anchors": [
-              "#14-market-structure",
-              "#141-market-concentration-threshold-mechanism-adopter-tunable",
-              "#142-pro-competition-and-anti-domination",
-              "#1422-anti-domination-prohibitions-donts",
-              "#1423-remedies",
-              "#143-consolidation-ceiling",
-              "#1431-consolidation-risk-pre-lock-in-impairment",
-              "#1432-consolidation-ceiling-mechanism-adopter-tunable"
+              "#1315-rights-collision-decision-test",
+              "#1324-proxy-divergence-invalidation"
             ]
           },
           {
@@ -11940,7 +12079,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#615-rights-collision-decision-test"
+              "#1315-rights-collision-decision-test"
             ]
           },
           {
@@ -12089,7 +12228,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#615-rights-collision-decision-test"
+              "#1315-rights-collision-decision-test"
             ]
           },
           {
@@ -12600,8 +12739,8 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 7,
             "anchors": [
-              "#843-incorporation-layer",
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1543-incorporation-layer",
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -12682,7 +12821,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -12836,8 +12975,8 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 3,
             "anchors": [
-              "#843-incorporation-layer",
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1543-incorporation-layer",
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -12943,7 +13082,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -13054,7 +13193,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 7,
             "anchors": [
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -13348,7 +13487,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#125-contingent-claims-games-of-chance-and-event-contract-markets"
+              "#195-contingent-claims-games-of-chance-and-event-contract-markets"
             ]
           },
           {
@@ -13556,22 +13695,28 @@
             ]
           },
           {
+            "file": "core_01_a_values_principles.md",
+            "count": 2,
+            "anchors": [
+              "#11-market-structure",
+              "#91-productive-capacity-instrumental-good"
+            ]
+          },
+          {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#843-incorporation-layer"
+              "#1543-incorporation-layer"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 6,
+            "count": 4,
             "anchors": [
-              "#101-shared-stewardship-standard",
-              "#102-alignment-under-pressure",
-              "#103-logging-the-role-not-the-steward",
-              "#105-duty-to-resist",
-              "#131-productive-capacity-instrumental-good",
-              "#14-market-structure"
+              "#171-shared-stewardship-standard",
+              "#172-alignment-under-pressure",
+              "#173-logging-the-role-not-the-steward",
+              "#175-duty-to-resist"
             ]
           },
           {
@@ -13929,7 +14074,7 @@
             "file": "core_01_a_values_principles.md",
             "count": 3,
             "anchors": [
-              "#41-resilience-and-self-healing-design"
+              "#10-resilience-and-self-healing-design"
             ]
           },
           {
@@ -14071,6 +14216,13 @@
       {
         "source": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
         "targets": [
+          {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 2,
+            "anchors": [
+              "#185-modular-architecture-and-dependency-discipline"
+            ]
+          },
           {
             "file": "core_05__definitions_home.md",
             "count": 1,
@@ -14705,7 +14857,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -14800,7 +14952,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 5,
             "anchors": [
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -15202,27 +15354,27 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#23-anti-degrading-process"
+              "#12-systemic-evaluation-requirement",
+              "#33-anti-degrading-process"
             ]
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#61-core-tradeoff-principles",
+              "#131-core-tradeoff-principles",
               "#default-interim-posture"
             ]
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 6,
+            "count": 5,
             "anchors": [
-              "#101-shared-stewardship-standard",
-              "#102-alignment-under-pressure",
-              "#105-duty-to-resist",
-              "#15-systemic-evaluation-requirement"
+              "#171-shared-stewardship-standard",
+              "#172-alignment-under-pressure",
+              "#175-duty-to-resist"
             ]
           },
           {
@@ -16646,7 +16798,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
-              "#615-least-restrictive-time-bounded-and-reviewable-constraint-principle"
+              "#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"
             ]
           },
           {
@@ -18308,7 +18460,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 4,
             "anchors": [
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -18436,7 +18588,7 @@
             "file": "core_01_b_interaction_interpretation.md",
             "count": 3,
             "anchors": [
-              "#844-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
+              "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
             ]
           },
           {
@@ -18892,7 +19044,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 1,
             "anchors": [
-              "#104-aligned-self-organization"
+              "#174-aligned-self-organization"
             ]
           },
           {

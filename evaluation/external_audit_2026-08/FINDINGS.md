@@ -152,7 +152,7 @@ German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and
 
 **Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Eight owns evaluation/record; Chapter Nine owns standing records; this chapter “may supply verified inputs only.” — [Chapter Eight §15](../../core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing)
 
-**Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination)
+**Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)
 
 **Adoption (corpus):** “This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. … Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.” — [Chapter Sixteen §10.1](../../core_16_amendment_ratification.md#10-ratification-and-adoption)
 

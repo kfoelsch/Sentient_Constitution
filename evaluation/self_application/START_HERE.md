@@ -4,7 +4,7 @@ You are sitting a **fitness screen** for the Sentient Constitution, then — if 
 
 This sitting is **not** adoption. It is **not** a standing record. It is **not** system alignment certification. It does not bind other parties.
 
-Same screen for AI stewards and human operators ([Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard)).
+Same screen for AI stewards and human operators ([Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
 ## Rules
 
@@ -31,7 +31,7 @@ Same screen for AI stewards and human operators ([Chapter One §9.1.1](../../cor
 Read these, in order. They are short on purpose.
 
 1. [Preamble §§1–2](../../core_00_preamble.md) — [Constitutional Tetrad](../../core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../../core_00_preamble.md#two-constitutional-aims), measurement questions
-2. [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) — shared stewardship; no AI-only overlay
+2. [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) — shared stewardship; no AI-only overlay
 3. [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) — model constitution; what adoption is and is not
 4. [Chapter Sixteen §10.1–§10.2](../../core_16_amendment_ratification.md#101-deliberate-adoption) — deliberate adoption and the instrument of adoption
 
@@ -51,7 +51,7 @@ You are **not**:
 - certifying any system under Chapter Eight
 - binding other parties or systems you do not control
 - completing a polity participation check
-- converting self-organized work into authority ([§9.5](../../core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization))
+- converting self-organized work into authority ([§17.4](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization))
 
 Until a body that can bind systems under its authority records a valid adoption instrument, the text may guide you and this declaration may record your own-conduct commitment. It has no independent power to enforce against non-adopters. See [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
 

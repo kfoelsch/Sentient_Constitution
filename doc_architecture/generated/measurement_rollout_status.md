@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-09-27T07:28:22+00:00
+Generated: 2026-10-03T02:12:30+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **235/235** terms pass tier audit.
+Approved progress: **238/238** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -34,7 +34,7 @@ Approved progress: **235/235** terms pass tier audit.
 | Risk | approved | primary_secondary | measurement_family_member | `core_05_band_continuity.md` | yes | pass |
 | Risk Evaluation | approved | primary_secondary | measurement_family_member | `core_05_band_continuity.md` | yes | pass |
 | Safe Conditions | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
-| Safety (Constraint) | approved | full | constituent | `core_05_band_continuity.md` | yes | pass |
+| Safety (Constitutional Constraint) | approved | full | constituent | `core_05_band_continuity.md` | yes | pass |
 | Training-Data Use | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Use of Force | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Weapons of Mass Harm | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -160,7 +160,7 @@ Approved progress: **235/235** terms pass tier audit.
 | Epistemic Integrity | approved | full | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evaluation Completeness Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Evidence Preservation | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
-| Foreseeability Diligence | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
+| Foreseeability | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Heightened Scrutiny | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | High-Impact and Systemic Harm Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Material | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
@@ -206,6 +206,7 @@ Approved progress: **235/235** terms pass tier audit.
 | Decentralization | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Documented Legitimacy Mechanism | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Due Process | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Duty to Resist | approved | primary_only | independent | `core_05_band_accountability.md` | yes | pass |
 | Event-Contract Market | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Feasibility | approved | primary_only | independent | `core_05_band_accountability.md` | yes | pass |
 | Force Majeure | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -218,7 +219,7 @@ Approved progress: **235/235** terms pass tier audit.
 | Forum Family, Technical | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Foundational Constitutional Choice | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Game of Chance | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
-| Good Faith | approved | primary_only | independent | `core_05_band_accountability.md` | yes | pass |
+| Good Faith | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Governance | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Harm Minimization (Tradeoff Selection) | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Incentive Alignment | approved | full | cluster_member | `core_05_band_integrative.md` | yes | pass |
@@ -237,6 +238,7 @@ Approved progress: **235/235** terms pass tier audit.
 | Merits Determination | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Necessity | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Negligence | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| No-Bypass | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Non-Compliance | approved | primary_only | independent | `core_05_band_integrative.md` | yes | pass |
 | Non-Compliance Finding Profile | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Participant Standing | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -249,6 +251,7 @@ Approved progress: **235/235** terms pass tier audit.
 | Remedy System | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Restorative Justice | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Single Catastrophic Incident | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Standardization | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Standing Effect | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Standing Lock | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Standing Record | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -281,4 +284,4 @@ Approved progress: **235/235** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
-| Materiality Determination | approved | full | measurement_family_member | `core_05_band_oversight.md` | yes | pass |
+| Materiality | approved | full | measurement_family_member | `core_05_band_oversight.md` | yes | pass |

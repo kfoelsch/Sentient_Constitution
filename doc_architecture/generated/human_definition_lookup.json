@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 236,
+  "term_count": 239,
   "terms": [
     {
       "term": "Accessibility",
@@ -347,7 +347,7 @@
       "term": "Consent",
       "file": "core_05_band_participation.md",
       "anchor": "#consent-constitutional",
-      "plain_terms": "consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count.",
+      "plain_terms": "consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count, and neither does a choice between options that are not distinct from each other or not meaningful.",
       "href": "../../core_05_band_participation.md#consent-constitutional"
     },
     {
@@ -526,6 +526,13 @@
       "href": "../../core_05_band_accountability.md#due-process-constitutional"
     },
     {
+      "term": "Duty to Resist",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#duty-to-resist",
+      "plain_terms": null,
+      "href": "../../core_05_band_accountability.md#duty-to-resist"
+    },
+    {
       "term": "Ecological Footprint",
       "file": "core_05_band_continuity.md",
       "anchor": "#ecological-footprint",
@@ -648,7 +655,7 @@
       "term": "Feasibility",
       "file": "core_05_band_accountability.md",
       "anchor": "#feasibility",
-      "plain_terms": null,
+      "plain_terms": "whether something required — an action, alternative, safeguard, or exit path — can actually be done in the real system, not just on paper. Saying \"we can't\" needs real proof; convenience or cost alone is not enough.",
       "href": "../../core_05_band_accountability.md#feasibility"
     },
     {
@@ -666,7 +673,7 @@
       "href": "../../core_05_band_accountability.md#force-majeure-constitutional"
     },
     {
-      "term": "Foreseeability Diligence",
+      "term": "Foreseeability",
       "file": "core_05_band_oversight.md",
       "anchor": "#foreseeability-diligence",
       "plain_terms": null,
@@ -942,7 +949,7 @@
       "term": "Market Concentration Threshold",
       "file": "core_05_band_accountability.md",
       "anchor": "#market-concentration-threshold-constitutional",
-      "plain_terms": "adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §14 (*Market Structure*) protection never works.",
+      "plain_terms": "adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §11 (*Market Structure*) protection never works.",
       "href": "../../core_05_band_accountability.md#market-concentration-threshold-constitutional"
     },
     {
@@ -995,10 +1002,10 @@
       "href": "../../core_00_preamble.md#material-stake"
     },
     {
-      "term": "Materiality Determination",
+      "term": "Materiality",
       "file": "core_05_band_oversight.md",
       "anchor": "#materiality-determination",
-      "plain_terms": "the method for deciding whether an impact or risk is constitutionally material — big enough in stake to change which duties apply — for a system or an event, looking at the connected whole, not just isolated pieces. That includes prospective harm, not only harm that has already happened.",
+      "plain_terms": "materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened.",
       "href": "../../core_05_band_oversight.md#materiality-determination"
     },
     {
@@ -1033,7 +1040,7 @@
       "term": "Meaningful Agency",
       "file": "core_05_band_participation.md",
       "anchor": "#meaningful-agency",
-      "plain_terms": "agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count. Consent is one important use of that ability — it is not the same thing as agency itself.",
+      "plain_terms": "agency is the real ability to understand what matters, form and revise your aims, take part in decisions that affect you, refuse or leave when the Constitution requires it, and act without coercion, manipulation, deception, or lock-in that hollows that out. A menu of choices you cannot actually use does not count, and neither does a menu of options that are not truly different from each other. Consent is one important use of that ability — it is not the same thing as agency itself.",
       "href": "../../core_05_band_participation.md#meaningful-agency"
     },
     {
@@ -1061,7 +1068,7 @@
       "term": "Necessity",
       "file": "core_05_band_accountability.md",
       "anchor": "#necessity",
-      "plain_terms": "a restriction is necessary only when no less-restrictive option would work reasonably well in the real system. Habit, operator convenience, or cost alone does not prove necessity.",
+      "plain_terms": "a restriction is necessary only when no less-restrictive option would still prevent the harm or risk in the real system. Habit, operator convenience, or cost alone does not prove necessity.",
       "href": "../../core_05_band_accountability.md#necessity"
     },
     {
@@ -1070,6 +1077,13 @@
       "anchor": "#negligence",
       "plain_terms": "a reasonably avoidable failure to take the care, action, or timely response needed to prevent or reduce serious harm when there was a duty and real ability to act.",
       "href": "../../core_05_band_accountability.md#negligence"
+    },
+    {
+      "term": "No-Bypass",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#no-bypass",
+      "plain_terms": "a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, instrument, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution.",
+      "href": "../../core_05_band_integrative.md#no-bypass"
     },
     {
       "term": "Non-Compliance",
@@ -1359,7 +1373,7 @@
       "href": "../../core_05_band_continuity.md#safe-conditions-constitutional"
     },
     {
-      "term": "Safety (Constraint)",
+      "term": "Safety (Constitutional Constraint)",
       "file": "core_05_band_continuity.md",
       "anchor": "#safety-constraint",
       "plain_terms": "systems must prevent, limit, and contain harm to sentients and the living conditions they depend on — including under stress or attack — not trade away hard protections just because the average case looks fine.",
@@ -1469,6 +1483,13 @@
       "anchor": "#stakeholder-weight",
       "plain_terms": null,
       "href": "../../core_05_band_participation.md#stakeholder-weight"
+    },
+    {
+      "term": "Standardization",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#standardization",
+      "plain_terms": "when in doubt, standardize. Where no good reason supports a difference, use the common, published, interoperable way of doing it. Different treatment, formats, or procedures need a reason; sameness does not.",
+      "href": "../../core_05_band_accountability.md#standardization"
     },
     {
       "term": "Standing Effect",

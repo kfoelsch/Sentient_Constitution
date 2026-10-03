@@ -183,7 +183,7 @@ Chapter Five leaf definitions must carry those C requirements using the Complian
 
 - Upstream: [§1 Purpose and Role](#1-purpose-and-role) — O/M/A/C component structure and whole-system joint-satisfaction rule.
 - Downstream: [§2.4 Interpretation Rule Under Ambiguity](#24-interpretation-rule-under-ambiguity); [§3 Consistency Across the Definition Stack](#3-consistency-across-the-definition-stack); [Chapter Three, section 1 — Definition Integrity and Anti-Evasion Constraints](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints); [Chapter Four, section 1 — Exclusive Enforcement and Burden Allocation](core_04_burden_traceability_verification.md#1-exclusive-enforcement-and-burden-allocation); [Chapter Four, section 5 — Compliance Evidence Standard](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
-- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05_band_oversight.md#foreseeability-diligence) — operative meaning for every “reasonably foreseeable” in Chapters Two through Four.
+- Read with: [Chapter Five Clustered Definitions (Foreseeability)](core_05_band_oversight.md#foreseeability-diligence) — operative meaning for every “reasonably foreseeable” in Chapters Two through Four.
 
 </details>
 
@@ -227,7 +227,7 @@ If one reasonable reading would weaken safeguards, narrow what must be checked, 
 
 - Upstream: Principles: [§2 Definition Integrity Requirement](#2-definition-integrity-requirement); [§1 Purpose and Role](#1-purpose-and-role).
 - Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Definition Traceability Requirement](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); Chapter Four sections **4**, **3**, **5**, and **6** where “reasonably foreseeable” appears without an inline Chapter Five pointer.
-- Read with: [Chapter Five Clustered Definitions (Foreseeability Diligence)](core_05_band_oversight.md#foreseeability-diligence) — the rule for every “reasonably foreseeable” in Chapters Two through Four. The term itself is defined at [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) in Chapter Five.
+- Read with: [Chapter Five Clustered Definitions (Foreseeability)](core_05_band_oversight.md#foreseeability-diligence) — the rule for every “reasonably foreseeable” in Chapters Two through Four. The term itself is defined at [Reasonably Foreseeable](core_05_band_oversight.md#reasonably-foreseeable) in Chapter Five.
 
 </details>
 
@@ -235,11 +235,11 @@ If one reasonable reading would weaken safeguards, narrow what must be checked, 
 
 *In plain terms: a definition doesn't just have to hold together on paper — it has to hold together across the definition stack in the real world. Its parts must line up the same way across normal, degraded, and adversarial operation, over time, across connected systems, in every situation you could reasonably see coming, and under every fair reading of its words.*
 
-Whenever “reasonably foreseeable” appears anywhere in **Chapters Two through Four**, it means exactly what the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) say — nothing looser. Each use must point clearly back to those definitions.
+Whenever “reasonably foreseeable” appears anywhere in **Chapters Two through Four**, it means exactly what the Foreseeability definitions in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability) say — nothing looser. Each use must point clearly back to those definitions.
 
 A definition's parts must stay consistent across:
 - the full range of conditions the system runs under — including normal operation, degraded operation, adversarial pressure, changes over time, and interactions with other systems, wherever those matter
-- every reasonably foreseeable condition, as set out in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability Diligence) (Foreseeability)
+- every reasonably foreseeable condition, as set out in Chapter Five, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability) (Foreseeability)
 - every reasonable reading the definition's wording and structure allow
 
 ---

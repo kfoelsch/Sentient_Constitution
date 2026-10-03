@@ -12,6 +12,7 @@ import argparse
 import html
 import re
 import sys
+import fnmatch
 from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
@@ -36,6 +37,16 @@ SOURCE_EXTRAS = ("project/CONSTITUTIONAL_REGRESSION_SCENARIOS.md", *READER_ENTRY
 SOURCE_GLOBS = (
     "implementation/**/*.md",
     "doc_architecture/generated/**/*.md",
+    # Maintained process-support pages that cite Chapter One by section and anchor.
+    # A renumbering once left 28 broken links here that no audit saw.
+    "evaluation/**/*.md",
+    "project/plans/**/*.md",
+)
+# Dated sitting records inside the scanned globs: they record what was true when
+# written (see the note above), so they are not validated.
+SOURCE_EXCLUDE_GLOBS = (
+    "evaluation/results/**",
+    "evaluation/**/results/**",
 )
 INLINE_LINK_RE = re.compile(
     r"!?\[[^\]\n]*\]\(\s*(?P<target><[^>\n]+>|[^)\s]+)"
@@ -112,6 +123,10 @@ def source_files(root: Path, scope: list[str] | None = None) -> list[Path]:
             for pattern in SOURCE_GLOBS
             for path in sorted(root.glob(pattern))
             if path.is_file()
+            and not any(
+                fnmatch.fnmatch(path.relative_to(root).as_posix(), ex)
+                for ex in SOURCE_EXCLUDE_GLOBS
+            )
         ]
         names = [
             *binding_corpus_scope(root, include_support_docs=True),

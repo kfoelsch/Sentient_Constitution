@@ -74,7 +74,7 @@ A **dependent cluster** is a group of definitions that must be met together, ins
 #### 2.1 Joint invocation and satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
-Cluster-local applications of this rule appear under **Anti-bypass** (not a second "joint invocation" header). Those bullets state the cluster-specific anti-segmentation rule and may end with `See this section`. They must not reopen with `Under Joint invocation and satisfaction, …`.
+This is the cluster form of the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle). Cluster-local applications appear under **Anti-bypass** (not a second "joint invocation" header). Each lists the cluster's compartments and protected duties and ends with a cite to that principle. They must not reopen with `Under Joint invocation and satisfaction, …`.
 
 <a id="22-standalone-definitions-interaction-and-full-context"></a>
 
@@ -165,6 +165,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional)
 - [Documented Legitimacy Mechanism](core_05_band_integrative.md#documented-legitimacy-mechanism)
 - [Due Process](core_05_band_accountability.md#due-process-constitutional)
+- [Duty to Resist](core_05_band_accountability.md#duty-to-resist)
 - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint)
 - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional)
 - [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity-constitutional)
@@ -185,7 +186,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Feasibility](core_05_band_accountability.md#feasibility)
 - [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional)
 - [Force Majeure](core_05_band_accountability.md#force-majeure-constitutional)
-- [Foreseeability Diligence](core_05_band_oversight.md#foreseeability-diligence)
+- [Foreseeability](core_05_band_oversight.md#foreseeability-diligence)
 - [Forum Case Record](core_05_band_accountability.md#forum-case-record)
 - [Forum Family, Constitutional](core_05_band_accountability.md#forum-family-constitutional)
 - [Forum Family, Environment](core_05_band_accountability.md#forum-family-environment)
@@ -231,7 +232,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Material Degradation](core_05_band_oversight.md#material-degradation)
 - [Material Impact](core_05_band_oversight.md#material-impact)
 - [Material Risk](core_05_band_oversight.md#material-risk)
-- [Materiality Determination](core_05_band_oversight.md#materiality-determination)
+- [Materiality](core_05_band_oversight.md#materiality-determination)
 - [Materiality Integrity Constraint](core_05_band_oversight.md#materiality-integrity-constraint)
 - [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty)
 - [Materially Binding Act](core_05_band_accountability.md#materially-binding-act)
@@ -242,6 +243,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing)
 - [Necessity](core_05_band_accountability.md#necessity)
 - [Negligence](core_05_band_accountability.md#negligence)
+- [No-Bypass](core_05_band_integrative.md#no-bypass)
 - [Non-Compliance](core_05_band_integrative.md#non-compliance)
 - [Non-Compliance Finding Profile](core_05_band_accountability.md#non-compliance-finding-profile)
 - [Non-Imposition (Cooperative Interaction)](core_05_band_participation.md#non-imposition-cooperative-interaction)
@@ -285,7 +287,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Risk Disclosure](core_05_band_oversight.md#risk-disclosure)
 - [Risk Evaluation](core_05_band_continuity.md#risk-evaluation)
 - [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional)
-- [Safety (Constraint)](core_05_band_continuity.md#safety-constraint)
+- [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint)
 - [Security-Sensitive Disclosure Balance](core_05_band_oversight.md#security-sensitive-disclosure-balance)
 - [Self-Determination](core_05_band_participation.md#self-determination-constitutional)
 - [Self-Healing](core_05_band_continuity.md#self-healing-constitutional)
@@ -301,6 +303,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice)
 - [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight)
+- [Standardization](core_05_band_accountability.md#standardization)
 - [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six)
 - [Standing Lock](core_05_band_accountability.md#standing-lock)
 - [Standing Record](core_05_band_accountability.md#standing-record-chapter-six)
@@ -310,6 +313,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)
 - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional)
 - [Substrate Class](core_05_band_participation.md#substrate-agnostic)
+- [Subversion](core_05_band_accountability.md#subversion)
 - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary)
 - [Sustainability](core_05_band_continuity.md#sustainability)
 - [Sustained High-Gravity Pattern](core_05_band_accountability.md#sustained-high-gravity-pattern)
@@ -416,11 +420,11 @@ Chapter Five definitions are sorted by the [Two Constitutional Aims](core_00_pre
 >
 > [Preamble §2](core_00_preamble.md#2-measurements-overview) lists seven constitutional **measurement categories** — the questions operators ask when evaluating systems. Chapter Five organizes **canonical definitions** by Tetrad leg, **Continuity** aim, and **Integrative** cross-leg ownership. The table below maps each measurement category to its Chapter Five homes. A category may span more than one band file; canonical homes do not move when measurement categories overlap.
 >
-> **Materiality** ([Materiality Determination](core_05_band_oversight.md#materiality-determination)) is Integrative — a cross-cutting threshold gate that scales all measurement families under [material stake](core_00_preamble.md#material-stake); it is not a separate category in the table below.
+> **Materiality** ([Materiality](core_05_band_oversight.md#materiality-determination)) is Integrative — a cross-cutting threshold gate that scales all measurement families under [material stake](core_00_preamble.md#material-stake); it is not a separate category in the table below.
 
 | Ch00 category | Plain question | Chapter Five band homes | Split-placement notes |
 |---|---|---|---|
-| [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | Are sentients sustained in life, safety, and access to essentials? | [Flourishing aim](core_05_apex_flourishing_aim.md), [Participation](core_05_band_participation.md), [Continuity](core_05_band_continuity.md), [Accountability](core_05_band_accountability.md) | **Flourishing** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); concrete measures on leaf primaries: [Wellbeing](core_05_band_continuity.md#wellbeing) (primary outcome), [Safety (Constraint)](core_05_band_continuity.md#safety-constraint), survival-floor terms, [Harm](core_05_band_accountability.md#harm) |
+| [Flourishing measurement family](core_05_apex_flourishing_aim.md#flourishing-measurement-family) | Are sentients sustained in life, safety, and access to essentials? | [Flourishing aim](core_05_apex_flourishing_aim.md), [Participation](core_05_band_participation.md), [Continuity](core_05_band_continuity.md), [Accountability](core_05_band_accountability.md) | **Flourishing** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_05_apex_flourishing_aim.md#flourishing-aim-decomposition); concrete measures on leaf primaries: [Wellbeing](core_05_band_continuity.md#wellbeing) (primary outcome), [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), survival-floor terms, [Harm](core_05_band_accountability.md#harm) |
 | [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) | Can sentients and systems endure — ecologically, dependably, and across failure? | [Continuity aim](core_05_apex_continuity_aim.md), [Continuity](core_05_band_continuity.md) | **Continuity** is a constitutional **aim**, not a Tetrad leg — [Constitutional Aim decomposition map](core_05_apex_continuity_aim.md#continuity-aim-decomposition); concrete measures on leaf primaries in **Continuity** band: [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Dependency](core_05_band_continuity.md#dependency), [Reversibility](core_05_band_continuity.md#reversibility-constitutional), [Sustainability](core_05_band_continuity.md#sustainability), [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional) |
 | [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family) | Can affected sentients take part fairly — voice, access, learning, and privacy? | [Participation](core_05_band_participation.md), [Continuity](core_05_band_continuity.md) | Fairness, access, and agency terms in **Participation** band; [Privacy (Informational)](core_05_band_continuity.md#privacy-informational-cluster) cluster in **Continuity** band because privacy is distributed across rights articles |
 | [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) | Can sentients see, verify, and rely on what systems represent? | [Oversight](core_05_band_oversight.md), [Continuity](core_05_band_continuity.md) | Truth and epistemic integrity primaries in **Oversight** band ([Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) link-only leg-head rollup); [Trustworthiness](core_05_band_continuity.md#trustworthiness) and [Trust Degradation and Misleading Reliance](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) in **Continuity** band (**Def.C4**) |

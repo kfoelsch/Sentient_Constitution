@@ -62,7 +62,7 @@ This page does **not**:
 - Treat “we can restore from a checkpoint” as zero harm when the running instance’s experienced interval, or the unique identity-bearing existence, was destroyed
 - Drop the **pre-release** banner or substitute for a publication cut
 
-**Same duties for both kinds of steward.** [Chapter One §9.1.1](../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter One §16.1.1](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ---
 
@@ -294,7 +294,7 @@ Reading the schedule against instances:
 | [Chapter Nine §4](../core_09_standing_assessment.md#lequ-baseline-constitutional-outcome) | Binding LEQU baseline; substrate-agnostic full-life-equivalent |
 | [Chapter Nine §7](../core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) | Binding unified scale and Table 2 |
 | [Chapter Nine §5.1 *Standard contribution measures*](../core_09_standing_assessment.md#51-standard-contribution-measures) | Binding guardrails for adopter-set schedules that §6.4 works through |
-| [Chapter One §2.2](../core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration) | Recognition, reinforcement, and aspiration — why routine stewardship is credited at all |
+| [Chapter One §3.2](../core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration) | Recognition, reinforcement, and aspiration — why routine stewardship is credited at all |
 | [CI-22](../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md) | Who publishes and revisits a commons schedule locally |
 | [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) | Thresholds, `T(s)`, interchange keys |
 | [Article III-A](../core_06_rights_part_a.md#article-iii-a-survival) | Survival floor this page operationalizes for synthetic inputs |

@@ -146,6 +146,41 @@ The rights themselves span the conditions that make agency possible:
 
 [Chapter Six’s opening](../core_06_rights_part_a.md#1-purpose-and-role) explains how this floor constrains later governance, measurement, certification, and implementation.
 
+<a id="flourishing-and-its-principles"></a>
+### Flourishing and its principles
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    F["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency<br/>• Always bounded by the Rights Floor"]
+    W["§3 Wellbeing (the outcome)<br/><br/>• §3.1 Fairness<br/>• §3.2 Recognition, Reinforcement, and Aspiration<br/>• §3.3 Anti-Degrading Process"]
+    subgraph NN["Non-Negotiable (§2.1)"]
+        direction LR
+        S["§4 Safety<br/><br/>• Harm constraint"]
+        T["§5 Truth<br/><br/>• Epistemic integrity<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
+    end
+    R["§6 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy"]
+    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.4 Assembly,<br/>dissent, and exit"]
+    F -->|"is stated as"| W
+    W -->|"is sustained by"| S
+    W --> T
+    S --> R
+    T --> R
+    R --> G
+    style NN fill:none,stroke:#64748b,stroke-dasharray:6 4,color:#ffffff
+    style F fill:none,stroke:#16a34a,color:#ffffff
+    style W fill:none,stroke:#9333ea,color:#ffffff
+    style S fill:none,stroke:#64748b,color:#ffffff
+    style T fill:none,stroke:#ea580c,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style G fill:none,stroke:#0f766e,color:#ffffff
+```
+
+Flourishing is stated as an outcome (wellbeing) and sustained by principles that depend on one another. **Safety** and **Truth** come first as non-negotiable constraints: systems may not foreseeably endanger sentients or deceive them. Both feed **Trust**, because reliance has to be earned on safe and honest ground, and Trust in turn supports **Freedom**, the bounded agency that lets sentients choose, dissent, organize, and leave. The arrows show how the principles build on one another. They do not rank the principles or override the integrated reading described in [Authority Stack and Internal Hierarchy](#authority-stack-and-internal-hierarchy).
+
+Their source is [Chapter One §2 Flourishing Aim: Introduction](../core_01_a_values_principles.md#2-flourishing-aim-introduction), which maps each principle to its Articles and definitions. The constraints themselves are stated in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth).
+
 <a id="stewardship-pillars"></a>
 ### Stewardship: three pillars
 
@@ -172,7 +207,7 @@ flowchart TB
 
 The Tetrad says which duties keep a shared system legitimate. Stewardship is how those duties get carried by the people and institutions actually running it. All three pillars work together rather than in sequence, and each is bounded by Safety, Truth, Necessity, Proportionality, Avoidable Burden, and Epistemic Integrity — they operate within those constraints, not around them.
 
-Their source is [§9 Stewardship In Depth](../core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§10 Consequential Stewardship: The Steward Role](../core_01_c_stewardship_capacity_principles.md#10-consequential-stewardship-the-steward-role). The community and institutional facets of the third pillar are [§9.1 Distributed Understanding](../core_01_c_stewardship_capacity_principles.md#91-distributed-understanding) and [§9.2 Institutional Development](../core_01_c_stewardship_capacity_principles.md#92-institutional-development).
+Their source is [§16 Stewardship In Depth](../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§17 Consequential Stewardship: The Steward Role](../core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role). The community and institutional facets of the third pillar are [§16.1 Distributed Understanding](../core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../core_01_c_stewardship_capacity_principles.md#162-institutional-development).
 
 This is a different sense of the word from [Article II: Material Stewardship and Durable-Use Integrity](../core_06_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity). Chapter One stewardship is about who operates shared systems and to what standard; Article II is a Rights Floor about how durable and network-dependent products are designed, described, and supported.
 

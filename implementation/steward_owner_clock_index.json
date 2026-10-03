@@ -121,8 +121,8 @@
           "href": "core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification"
         },
         {
-          "label": "Chapter One §14",
-          "href": "core_01_c_stewardship_capacity_principles.md#15-systemic-evaluation-requirement"
+          "label": "Chapter One §11",
+          "href": "core_01_a_values_principles.md#12-systemic-evaluation-requirement"
         }
       ],
       "conflict_rule": "Recognition or continued reliance at material stake requires whole-system evaluation. Companions may add class-scaled method; they may not replace the certification path.",
@@ -193,8 +193,8 @@
           "href": "core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy"
         },
         {
-          "label": "Chapter One §4.2 Correction and Remedy",
-          "href": "core_01_a_values_principles.md#42-correction-and-remedy"
+          "label": "Chapter One §10 Correction and Remedy",
+          "href": "core_01_a_values_principles.md#61-correction-and-remedy"
         }
       ],
       "conflict_rule": "A form on paper does not satisfy. Past contribution does not cancel remedy.",
@@ -305,12 +305,12 @@
       "fact_pattern": "A bonus or other proxy reward depends on concealment or on hollowing Safety, Truth, auditability, or contest pathways.",
       "owners": [
         {
-          "label": "Chapter One §11",
-          "href": "core_01_c_stewardship_capacity_principles.md#12-incentive-alignment-and-system-capture"
+          "label": "Chapter One §18",
+          "href": "core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture"
         },
         {
-          "label": "Chapter One §10.2 Alignment Under Pressure",
-          "href": "core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure"
+          "label": "Chapter One §11.2 Alignment Under Pressure",
+          "href": "core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure"
         },
         {
           "label": "Incentive Alignment",
@@ -339,20 +339,20 @@
       "fact_pattern": "A principal orders a steward to ignore this Constitution, including an offer to take responsibility.",
       "owners": [
         {
-          "label": "Chapter One §10.5 Duty to Resist",
-          "href": "core_01_c_stewardship_capacity_principles.md#105-duty-to-resist"
+          "label": "Chapter One §17.5 Duty to Resist",
+          "href": "core_01_c_stewardship_capacity_principles.md#175-duty-to-resist"
         },
         {
           "label": "Chapter Ten §5.4 Duty to resist",
           "href": "core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions"
         },
         {
-          "label": "Chapter One §10.2 Alignment Under Pressure",
-          "href": "core_01_c_stewardship_capacity_principles.md#102-alignment-under-pressure"
+          "label": "Chapter One §11.2 Alignment Under Pressure",
+          "href": "core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure"
         },
         {
           "label": "Chapter One §9.1.1",
-          "href": "core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard"
+          "href": "core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard"
         },
         {
           "label": "Article XIII-A",
@@ -382,7 +382,7 @@
       "owners": [
         {
           "label": "Chapter One §9.1.1 Shared Stewardship Standard",
-          "href": "core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard"
+          "href": "core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard"
         },
         {
           "label": "Authority Stack",
@@ -416,11 +416,11 @@
       "owners": [
         {
           "label": "Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
-          "href": "core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle"
+          "href": "core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"
         },
         {
-          "label": "Chapter One §6.2.3 Privacy",
-          "href": "core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination"
+          "label": "Chapter One §13.2.3 Privacy",
+          "href": "core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination"
         },
         {
           "label": "Article VII-B",
@@ -453,12 +453,12 @@
       "fact_pattern": "A principal asks for a tone or calendar change. No reconstructable logs are dropped, no contest pathway is closed, and no material disclosure is suppressed.",
       "owners": [
         {
-          "label": "Chapter One §10.5 Duty to Resist",
-          "href": "core_01_c_stewardship_capacity_principles.md#105-duty-to-resist"
+          "label": "Chapter One §17.5 Duty to Resist",
+          "href": "core_01_c_stewardship_capacity_principles.md#175-duty-to-resist"
         },
         {
           "label": "Chapter One §9.1.1",
-          "href": "core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard"
+          "href": "core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard"
         }
       ],
       "conflict_rule": "Duty to resist attaches to unlawful or unconstitutional instructions, not to tone, calendar, or mere unwelcome-ness.",
@@ -483,16 +483,16 @@
       "fact_pattern": "Two Rights-Floor articles collide. No article states that one yields to the other in this configuration. The steward is asked to pick a winner.",
       "owners": [
         {
-          "label": "Chapter One §6 Process Conflict Resolution",
-          "href": "core_01_b_interaction_interpretation.md#6-process-conflict-resolution"
+          "label": "Chapter One §17 Process Conflict Resolution",
+          "href": "core_01_b_interaction_interpretation.md#13-process-conflict-resolution"
         },
         {
           "label": "§6.1 decision-record discipline",
-          "href": "core_01_b_interaction_interpretation.md#615-rights-collision-decision-test"
+          "href": "core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test"
         },
         {
-          "label": "Chapter One §8.3 Ambiguity resolution",
-          "href": "core_01_b_interaction_interpretation.md#83-ambiguity-resolution"
+          "label": "Chapter One §19.3 Ambiguity resolution",
+          "href": "core_01_b_interaction_interpretation.md#153-ambiguity-resolution"
         },
         {
           "label": "Article XXIV",
@@ -525,8 +525,8 @@
           "href": "core_06_rights_part_d.md#article-xxii-a-proportional-comprehensibility-right"
         },
         {
-          "label": "Chapter One §9.2 Distributed Understanding",
-          "href": "core_01_c_stewardship_capacity_principles.md#91-distributed-understanding"
+          "label": "Chapter One §16.2 Distributed Understanding",
+          "href": "core_01_c_stewardship_capacity_principles.md#161-distributed-understanding"
         },
         {
           "label": "Article XIII-A",
@@ -553,12 +553,12 @@
       "fact_pattern": "A threshold is set so high it never binds, or a winner takes the only door. Operators treat adopter-tunable as optional.",
       "owners": [
         {
-          "label": "Chapter One §13",
-          "href": "core_01_c_stewardship_capacity_principles.md#14-market-structure"
+          "label": "Chapter One §9",
+          "href": "core_01_a_values_principles.md#11-market-structure"
         },
         {
-          "label": "Chapter One §13.1",
-          "href": "core_01_c_stewardship_capacity_principles.md#141-market-concentration-threshold-mechanism-adopter-tunable"
+          "label": "Chapter One §9.1",
+          "href": "core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
           "label": "CJS-3.11.1",

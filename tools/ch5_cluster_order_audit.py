@@ -76,6 +76,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Materially Binding Act",
         "Materially Binding Act Record",
         "Decentralization",
+        "Standardization",
         "Market Structure",
         "Market Concentration Threshold",
     ],
@@ -122,11 +123,11 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     ],
     "#### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying": [
         "Harm",
-        "Collective Harm Boundary",
         "Psychological Harm",
         "Irreversible Harm",
         "Cruelty",
         "Harassment and Bullying",
+        "Collective Harm Boundary",
     ],
     "#### Def.I1 Corpus and Authority Stack": [
         "Corpus",
@@ -207,7 +208,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### Def.O2 Truth and Epistemic Integrity": [
         "Truth (Constitutional Constraint)",
         "Epistemic Integrity",
-        "Foreseeability Diligence and Reasonably Foreseeable",
+        "Foreseeability and Reasonably Foreseeable",
         "Publication and High-Impact Communication",
     ],
     "#### Def.A4 Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm": [

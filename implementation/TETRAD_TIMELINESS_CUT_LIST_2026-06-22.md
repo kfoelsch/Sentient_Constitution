@@ -29,7 +29,7 @@
 - `core_05_band_continuity.md` — stewardship cluster timeliness hooks
 - `core_01_b_stewardship_capacity_principles.md` — §6 stewardship timeliness
 - `core_09_standing_assessment.md` — compass, dual-use delay dimension
-- `core_10_standing_integration.md` — Chapter One §8.10 remedy-commencement row
+- `core_10_standing_integration.md` — Chapter One §15.10 remedy-commencement row
 - `core_11_a_misconduct_designation.md` — tetrad capture
 - `core_12_forum.md` — timeliness leg in forum trace
 - Corpus-wide Tetrad propagation (core Ch1–15, CJS/CI/CF/CS registries)

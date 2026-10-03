@@ -1,0 +1,298 @@
+{
+ "stats": {
+  "label": 60,
+  "link-target": 61,
+  "anchor": 94,
+  "chapter-cite": 5,
+  "raw-ref": 17,
+  "heading-literal": 3
+ },
+ "files_changed": [
+  "core_01_a_values_principles.md",
+  "core_01_b_interaction_interpretation.md",
+  "core_01_c_stewardship_capacity_principles.md",
+  "core_05_apex_continuity_aim.md",
+  "core_05_band_accountability.md",
+  "core_05_band_continuity.md",
+  "core_06_rights_part_a.md",
+  "core_06_rights_part_b.md",
+  "core_06_rights_part_c.md",
+  "core_06_rights_part_e.md",
+  "core_09-12_application_vignettes.md",
+  "core_11_b_misconduct_pattern_applications.md",
+  "core_12_forum.md",
+  "core_13_governance.md",
+  "corpus_systems/cs_04_critical_system_stewardship.md",
+  "corpus_systems/cs_05_design_testing_verification_deployment.md",
+  "implementation/steward_owner_clock_index.json",
+  "tools/architecture/ch1_dac_order.json"
+ ],
+ "review": [
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 8,
+   "text": "> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. I"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 11,
+   "text": "> **Next:**  (Chapter One, Part B — §§10–12, interaction, override limits, and constitutional interpretation)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 12,
+   "text": "> **Reading arc:** §1 purpose and role → **Flourishing:** §2 wellbeing (the outcome) → §3 Safety and Truth → §4 Trust → §5 Freedom → **Continuity:** §"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 149,
+   "text": "No single principle may be applied in isolation where doing so would materially violate the others. Where tensions arise, systems must resolve them un"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 206,
+   "text": "- Non-discrimination commitments are elaborated through Chapter Five , including  where §2.1.3 fair-treatment rules implicate intimate-signal gating o"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 207,
+   "text": "- Read with:  and related Chapter Six Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 746,
+   "text": "- Read with: , Chapter Five §2 *Agency, consent, and anti-coercion*, and ."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 790,
+   "text": "is the capacity that makes real choice possible.  is valid agreement to a specific decision under that capacity — not a substitute for it, and not pro"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 832,
+   "text": "*Definition home.* Chapter Five  is an Independent Definition in §1. Read with Chapter Five §2 _Agency, consent, and anti-coercion_."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 856,
+   "text": "- *Consent* (§2 (*Foundational Objective: Wellbeing*))"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 858,
+   "text": "- *Coercion and Manipulation* (§2 (*Foundational Objective: Wellbeing*))"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 897,
+   "text": "The cluster's own reading rules live there. **§5.3** (*Assembly, Collective Organization, and Institutional Formation*) applies the anti-segmentation "
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 899,
+   "text": "**Which rights articles still control.** **§5.3** (*Assembly, Collective Organization, and Institutional Formation*) is a Chapter One principle. It do"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 907,
+   "text": "**When lighter rules apply.** If the matter is only one of those questions — for example, an ordinary civic gathering with no labor-organizing or inst"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 909,
+   "text": "**What this section does not change.** **§5.3** (*Assembly, Collective Organization, and Institutional Formation*) adds principle-layer anti-segmentat"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 972,
+   "text": "**What this section does not change.** **§5.4** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor. It does no"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1264,
+   "text": "*In plain terms: sentients should be able to work, build, switch providers, and push back without running into a wall because one company or instituti"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1503,
+   "text": "- horizontal and vertical consolidation risk patterns: **§8.3** (*Consolidation Ceiling*)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1639,
+   "text": "*In plain terms: adopters must set evidence-based ceilings that trigger scrutiny before consolidation risks in **§14.3.1** (*Consolidation Risk, Pre-L"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1641,
+   "text": "**Consolidation ceilings** are adopter-tunable early-warning triggers for heightened review, intervention, or structural remedy when consolidation rea"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_a_values_principles.md",
+   "line": 1678,
+   "text": "- Read together, **§§6–9** build the Continuity aim from resilience and capacity, through market structure, to whole-system validation; **§§10–12** su"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 9,
+   "text": "> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. I"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 11,
+   "text": "> **Upstream:**  (Chapter One, Part A — §§1–9, the Flourishing and Continuity aims)"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 12,
+   "text": "> **Next:**  (Chapter One, Part C — §§13–17, stewardship, governance, incentive alignment, and integrated application)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 13,
+   "text": "> **Reading arc:** §10 process conflict resolution → §11 prohibition on absolute override → §12 constitutional interpretation."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 36,
+   "text": "**Major Chapter Five §3 dependent clusters** (joint-invocation groups — read with Chapters Two through Four when materially relevant):"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 68,
+   "text": "*In plain terms: values and rights will collide — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minim"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 74,
+   "text": "Many small decisions that each look fine may still combine into an outcome this Constitution rejects. Where values or constraints conflict, systems mu"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 301,
+   "text": "**Decision record and reconstructability.** Where the tradeoff stack (§10.1.1 (*Necessity*) through §10.1.5 (*Least-Restrictive, Time-Bounded, and Rev"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 543,
+   "text": "*In plain terms: once an option satisfies Safety, Truth, rights, and the tradeoff rules in §10.1 (*Core Tradeoff Principles*), pick the one that waste"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 554,
+   "text": "- operates **only within** the set of options that already satisfy Safety, Truth, the Rights Floor, and the tradeoff principles in §10.1 (*Core Tradeo"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 604,
+   "text": "- Read with:  (*source-layer status*);  (*custody, editions, adoption framing* — not a second conflict-order home);  and  (*non-regression and adopter"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 606,
+   "text": "- Read with:  — the seat-architecture floor that §8.1's anti-bypass list protects (not restated here)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 793,
+   "text": "If a genuine incompatibility remains after integrated reading under **§12.4.1** (*Integrated reading*):"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 808,
+   "text": "After the constitutional reading under **§12.4.1** (*Integrated reading*) and **§12.4.2** (*Last-resort internal hierarchy*), apply the **designated o"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_b_interaction_interpretation.md",
+   "line": 850,
+   "text": "- combined satisfaction and cross-file stricter-wins still apply as stated in this subsection and **§12.4.3** (*Incorporation layer*)."
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 11,
+   "text": "> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. I"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 15,
+   "text": "> **Reading arc:** §13 stewardship and distributed understanding → §14 the steward role → §15 governance → §16 incentive alignment and capture → **§17"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 22,
+   "text": "> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapter"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 95,
+   "text": "P1[\"Pillar 1 — Consequential Stewardship<br/><br/>§14: hands-on operation, maintenance, oversight, and improvement of material systems\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 98,
+   "text": "P3a[\"Distributed Understanding<br/><br/>§13.1: community facet — understanding and challenge workable for affected communities\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 99,
+   "text": "P3b[\"Institutional Development<br/><br/>§13.2: organizational facet — institutions that keep learning through feedback and correction\"]"
+  },
+  {
+   "kind": "unlinked § cite",
+   "file": "core_01_c_stewardship_capacity_principles.md",
+   "line": 450,
+   "text": "**What the log may not be used for:** The CS-4 §10 log:"
+  }
+ ],
+ "slug_map": {
+  "6-resilience-and-self-healing-design": "7-resilience-and-self-healing-design",
+  "7-shared-system-capacity": "6-shared-system-capacity",
+  "71-productive-capacity-instrumental-good": "61-productive-capacity-instrumental-good",
+  "711-preserve-expand-and-what-does-not-count": "611-preserve-expand-and-what-does-not-count",
+  "72-constitutional-efficiency": "62-constitutional-efficiency"
+ },
+ "file_moves": {}
+}

@@ -49,9 +49,9 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
-- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
-- Chapter One basis: §8.1, §12.1, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.1, §19.1, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -262,9 +262,9 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: **Article II-E** (*Data Handling and Network Dependency*)
 - Read with: **Article II-F** (*Continuity and Operator Shutdown*)
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
-- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
-- Chapter One basis: §8.1, §11.1, §12.1, §8, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.1, §18.1, §19.1, §15, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -591,9 +591,9 @@ Right-to-exit pathway integrity
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
 - Read with: **CJS-1.11 — Classification alignment for supervised scope**
-- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
-- Chapter One basis: §8.2, §11.2, §12.1, §8, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.2, §18.2, §19.1, §15, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -817,9 +817,9 @@ Transparency disclosures and stakeholder legibility
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
-- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
-- Chapter One basis: §8.1, §11.1, §7, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.1, §18.1, §14, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -1045,9 +1045,9 @@ Signaling integrity and anti-silent-failure controls
 - Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Read with: **Article XVII** (*System Lifecycle, Environments, and Reversibility*) and **Article XIII-F** (*Resilience and Self-Healing Baseline*)
-- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
-- Chapter One basis: §8.1, §11.1, §12.1, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.1, §18.1, §19.1, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
 
 </details>
@@ -1176,9 +1176,9 @@ Rollback and containment capability
 - Read with: **CJS-3.22 — Constrained Secrecy and Protected Investigations**
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Read with: **Article XIII** (*Right to Reliable and Trustworthy Systems*)
-- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality Determination](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Adversarial resilience serves constitutional **Continuity** under material stake.
-- Chapter One basis: §8.1, §8.2, §12.1, §12.2, §9 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter One basis: §15.1, §15.2, §19.1, §19.2, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>

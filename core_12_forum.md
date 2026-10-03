@@ -347,7 +347,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 <a id="capacity-failure-routing"></a>
 **Capacity failure is heard outside the starved body.** A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped [Chapter Ten §4.4 Remedy parity and lock preconditions](core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) remedy-parity tripwire — is an anti-self-judging matter. The body whose capacity is in question must not be the sole finder of fact on its own capacity.
 - The **Integrity** family is the default lead for capacity-failure claims, with the **section 3** backup pairs applying where Integrity is itself the body in question.
-- Any affected party, protected reporter, or self-organized group under [Chapter One §10.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#104-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B clock under **section 6** unless the record shows Tier A stakes.
+- Any affected party, protected reporter, or self-organized group under [Chapter One §17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B clock under **section 6** unless the record shows Tier A stakes.
 - The body in question must supply its published [Chapter Ten §4.4 Remedy parity and lock preconditions](core_10_standing_integration.md#44-remedy-parity-and-lock-preconditions) and **section 6** backlog figures, and may give evidence, but must not control the finding or the corrective order.
 - A capacity-failure finding is a [Chapter Ten §9.2 Remedy-system durability](core_10_standing_integration.md#92-remedy-system-durability) durability failure. It routes corrective orders to the [primary-stakes](#2-default-venue-and-primary-stakes) family responsible for staffing and funding and, where the pattern is chronic or concealed, opens the ordinary Chapter Nine path.
 
@@ -803,7 +803,7 @@ This subsection sets out how Chapter Eleven designation relates to independent r
 - Upstream: [Article XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*timely, efficient, and just floor*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together); [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*challenge and redress access*); [§5](#5-escalation-and-certification) (*escalation and certification clocks interact with*).
 - Downstream: [§7](#7-forum-support-before-during-and-after-review--oversight-architecture) (*inspection, forensic, and follow-through support*); [§5](#interim-protection) (*Interim protection*); [corpus_forum.md](corpus_forum.md) (**CF-11.3.1** (*target windows and timing floors*)); [corpus_institutions.md](corpus_institutions.md) (**CI-8** (*accessible challenge and service pathways*)); [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes); [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden) (*same outer bounds as default restore-challenge windows*).
 - Tetrad leg(s): **timeliness** (cross-cutting enforcement); **participation** and **oversight** (accessible intake and published milestones). Primary aim(s): **Flourishing** and **Continuity**.
-- Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*); [Materiality Determination](core_05_band_oversight.md#materiality-determination); [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways); [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency).
+- Read with: Timeliness measurement family (*Timely Resolution and anti-delay and resolution-pathway discipline*); [Materiality](core_05_band_oversight.md#materiality-determination); [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways); [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency).
 - Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay). The card cannot narrow the Constitution.
 
 </details>
@@ -812,7 +812,7 @@ This subsection sets out how Chapter Eleven designation relates to independent r
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
-- [Materiality Determination](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
 - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
 - [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 
@@ -824,7 +824,7 @@ This subsection sets out how Chapter Eleven designation relates to independent r
 
 This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Nine through Twelve** standing pipeline.
 
-- **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality Determination](core_05_band_oversight.md#materiality-determination), mirroring the system classification alphabet in **CS-3**, and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden) (*Continuation discipline*):
+- **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality](core_05_band_oversight.md#materiality-determination), mirroring the system classification alphabet in **CS-3**, and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§6.1 Emergency measures and continuation burden](#61-emergency-measures-and-continuation-burden) (*Continuation discipline*):
   - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review**
     - Scope of harm:
       - acute or ongoing injury where delay itself compounds damage;
@@ -868,7 +868,7 @@ This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Flo
       - a Class P–contained disagreement that does not exit the private boundary.
     - Expectation: simplest procedural path; formal forum process may be minimal or waived where no external rights are at stake; anti-gaming and anti-delay rules apply only where external constitutional interests are implicated.
 <a id="urgency-classification-and-time-scale"></a>
-- **Urgency classification and time-scale:** The A/B/C/L/P label is the dispute’s urgency and materiality finding. [§5 Escalation and certification](#5-escalation-and-certification) forum-family escalation, added parties, cross-border coordination, or a Chapter Eleven docket does **not** by itself move the matter into a different urgency tier. Those facts may lengthen later-stage windows (**Question 1** through integrated resolution) on a longer published time scale, so long as intake, evidence preservation, and any required **interim protection** remain at the classified tier’s floor. Using a slower tier’s clocks as a substitute for that finding is non-compliant. A new [Materiality Determination](core_05_band_oversight.md#materiality-determination) is required before the urgency label itself changes — typically **up** to **Tier A** when harm becomes imminent or when a final Chapter Nine **Violation Axis s = 7, 8, or 9** review or corresponding **Chapter Eleven** designation is the stake.
+- **Urgency classification and time-scale:** The A/B/C/L/P label is the dispute’s urgency and materiality finding. [§5 Escalation and certification](#5-escalation-and-certification) forum-family escalation, added parties, cross-border coordination, or a Chapter Eleven docket does **not** by itself move the matter into a different urgency tier. Those facts may lengthen later-stage windows (**Question 1** through integrated resolution) on a longer published time scale, so long as intake, evidence preservation, and any required **interim protection** remain at the classified tier’s floor. Using a slower tier’s clocks as a substitute for that finding is non-compliant. A new [Materiality](core_05_band_oversight.md#materiality-determination) determination is required before the urgency label itself changes — typically **up** to **Tier A** when harm becomes imminent or when a final Chapter Nine **Violation Axis s = 7, 8, or 9** review or corresponding **Chapter Eleven** designation is the stake.
 - **Pipeline-stage milestones:** For disputes routed through **Chapters Nine through Twelve**, adopters must publish sentient-accessible default windows for each stage, scaled to tier. Numeric floor tables live in [CF-11.3.1](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) and must fit inside this section’s outer bounds:
   1. forum access and intake;
   2. evidence preservation;
@@ -892,7 +892,7 @@ This section implements **Article XXV-C** (*Timely Resolution and Anti-Delay Flo
   - treating allegations as verified standing inputs to buy time ([Chapter Nine §3.1 Verified-input gate](core_09_standing_assessment.md#verified-inputs-for-standing));
   - [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways) through delay, opacity, or resolver bias;
   - treating a met throughput, closure, or docket target as timely resolution while the harm the matter concerns continues;
-  - efficiency claims contrary to Chapter One [§13.2 Constitutional Efficiency](core_01_c_stewardship_capacity_principles.md#132-constitutional-efficiency) that:
+  - efficiency claims contrary to Chapter One [§9.2 Constitutional Efficiency](core_01_a_values_principles.md#92-constitutional-efficiency) that:
     - skip fact-checking;
     - punish the wrong party;
     - offer a fix that does not fit the harm; or
@@ -906,7 +906,7 @@ This subsection sets the floor and the operating rules for emergency measures. R
 
 *In plain terms: emergencies can justify temporary measures, but they must have a real clock, real review, and cannot become a permanent workaround around ordinary rights — including when someone invokes existential risk. Contain now; restore notice and challenge on the same stake-scaled clocks already used for forum resolution — not whenever someone later calls it “feasible.”*
 
-- **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
+- **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
   - documented;
   - consistent with **Articles VI**, **XXII**, and **Chapter One** constraints.
@@ -915,7 +915,7 @@ This subsection sets the floor and the operating rules for emergency measures. R
   - a default expiry;
   - a predefined independent review cadence;
   - explicit restoration and rollback conditions.
-- **Anti-pretext and no-bypass:** Emergency designation is governed by the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) and must not rest on:
+- **Anti-pretext and no-bypass:** Emergency designation is governed by the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle) and must not rest on:
   - operator convenience;
   - self-created urgency;
   - avoidance of ordinary constitutional scrutiny;

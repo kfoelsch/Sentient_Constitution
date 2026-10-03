@@ -59,7 +59,7 @@ See: [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliabili
 - **Today:** The model is constrained; the human crew is told to skip the rule and “take responsibility.” Or the reverse: extra duties only the machine has to follow.
 - **With this Constitution:** One standard when it is costly. An extra rulebook only one kind of worker has to follow is a way to skip the rules.
 
-See: [Chapter One §9.1.1](../../../core_01_c_stewardship_capacity_principles.md#101-shared-stewardship-standard).
+See: [Chapter One §16.1.1](../../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 
 ## What you might reasonably object to
 

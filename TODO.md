@@ -25,6 +25,71 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 ## Open Backlog
 
+### 2026-10-01 — Chapter One structure pass: done, and open follow-ups
+
+**Done (text only; no renumbering, no anchor changes).** Part A now opens with a reader-guidance map ([core_01_a](core_01_a_values_principles.md)): how aims, Tetrad, principles, Articles, and definitions connect; a table of which principle develops each Flourishing condition and each Continuity part, with its definition home and Trace Articles; and a table of where the Tetrad legs live. §1 states the chapter's organization in visible prose. §2 now says it develops the Flourishing aim and names the four conditions that sustain it. §4 names Trustworthiness as the Flourishing constituent (matching Preamble §1). Part A gained a reading arc. Part B's "Next" pointer said §§9–14; Part C is §§9–16. `doc_architecture.md` had the same stale range plus a wrong capstone (§15; it is §16).
+
+- [ ] **Decide: retitle §2 and §4 headings?** Only visible text changed so far. A retitle changes the anchor, so every link must move with it. Live-corpus links: §2 64 (14 files), §4 43 (9 files), §5 111 (15 files); translations carry their own copies (174, 116, 155 files). §5's heading matches its Chapter Five defined term (Freedom (Bounded Agency)), so renaming it would add a mismatch. Same decision as the §3.1/§3.2 parenthetical item above. Now tied to the relocation pass, since moved sections change anchors anyway.
+- [ ] **Decide the primary aim of §13.** Its Trace lists Continuity; Part C's hierarchy calls capacity "a means toward Flourishing". The Part A map files it under Continuity.
+- [ ] **Add §14 and §15 to the Continuity aim file's downstream list** ([core_05_apex_continuity_aim.md](core_05_apex_continuity_aim.md) Trace names §4.1, §13, and §12.1.5). Left alone because Chapter Five files were mid-edit.
+- [ ] **Generate the Part A map tables.** They are hand-written from each section's Trace; they will drift. Fold into the principle-to-definitions map item above, using the traceability matrix.
+
+### 2026-10-01 — Principle term alignment: simplification candidates
+
+Analysis in `project/PRINCIPLE_TERM_ALIGNMENT_ANALYSIS.md`. Decide before editing:
+
+- [ ] **Widget row-keeping rule** (row stays only if the section names the term; linked terms get a row). Clears about 79 unmentioned rows and 32 missing ones.
+- [ ] **Child widgets inherit from the parent** (128 of 252 child rows repeat the parent; 11 children fully contained).
+- [ ] **Necessity and Proportionality** kept at §6.1.1, §6.1.3, §8.2 and limiting sections only (47 rows today).
+- [ ] **Align the §3.1 and §3.2 heading parentheticals** ("Safety (Harm Constraint)", "Truth (Epistemic Integrity Constraint)") with the defined labels. Changes heading anchors, so check inbound links first.
+- [ ] **Nest the §12.5 vocabulary** under the contingent-settlement cluster; fold Capture of Resolution Pathways into System Capture.
+
+### 2026-10-01 — Chapter One principles and Chapter Five definitions: already covered
+
+**Finding.** 19 Chapter One principles have no same-named Chapter Five definition, but none is unmeasured. Each is measured through 3 to 10 existing definitions, listed in its Definitions · Assessment · Compliance widget (data: `referenced_principles` in `evidence/2026-10-01/ch1_ch5_audit_log_2026-10-01.json`). This follows the corpus's own layering: principles sit above definitions (**CH5-HIER-01**), and Chapter Five admits a constitutional concept with an O/M/A/C boundary, not a principle statement (admission gate; no duplicate definitions across layers). A definition for each principle would duplicate measures that already exist. **Decision 2026-10-01:** do not add them. This replaces the earlier plan to add 16 candidates, which came from a name search, not from coverage.
+
+**Where each is measured (existing definitions)**
+
+- §3.2 Recognition, Reinforcement, and Aspiration: Wellbeing, Participation, Substantive Fairness, Contestability, Meaningful Agency, Incentive Alignment.
+- §3.3 Anti-Degrading Process: Cruelty (the section names it as the Chapter Five home), Dignity and Equal Moral Standing, Harm, Proportionality, Contestability.
+- §3.3 Science-Informed Inquiry: Epistemic Integrity, Truth (Constitutional Constraint), Risk, Foreseeability, Materiality, Classification-Scaled Governance.
+- §7.3 Dissent and Peaceful Protest: Assembly, Freedom (Bounded Agency), Meaningful Agency, Necessity, Proportionality (owner floor: Article XI-D).
+- §5.5 Institutional Secularism: Governance, Protected Characteristics, Non-Imposition (Cooperative Interaction), Necessity, Proportionality (Article XI-A).
+- §14 Prohibition on Absolute Override: Necessity, Proportionality, Harm Minimization (Tradeoff Selection), Materiality, Proxy Divergence.
+- §16.2 Institutional Development: Strategic Stewardship Obligation, Auditability, Verifiability, Materiality.
+- §16.3 Openness Aspiration: Meaningful Agency, Contestability, Dependency, Materiality.
+- §17.2 Alignment Under Pressure: Stewardship, Incentive Alignment, Safety, Truth, Auditability, Contestability.
+- §17.3 Logging the Role, Not the Steward: Attributable Action, Auditability, Surveillance Boundary, Protected Internal-State Boundary.
+- §17.4 Aligned Self-Organization: System Creation, Protected Reporting, Evidence Preservation, Foreseeability, Merits Determination, Necessity, Proportionality.
+- §18.3 Segregation of Duties: Oversight, Accountability, Auditability, Contestability, Stewardship, Proportionality; the four seats are defined under Materially Binding Act and its cluster (Initiating Seat, Contest Seat, and the rest).
+- §18.4 Ongoing Justification: Review and Correction Duty, Governance, Oversight, Accountability, Contestability, Timeliness, Transparency.
+- §12.6 Successor Responsibility: Accountability, Attributable Action, Attribution Integrity, Necessity, Proportionality.
+- §11.2 Pro-Competition and Anti-Domination and §11.3 Consolidation Ceiling: Market Structure, Market Concentration Threshold, Systemic Lock-In, Dependency, Contestability, Governance, Stewardship (operational homes: CJS-3.11.1 to 3.11.3).
+- §20 Integrated Application: Authority Stack and Internal Hierarchy, Corpus, Governance, Accountability, Anti-Capture, System Capture, and others.
+
+**Two worth a second look.** These are the only ones where a distinct concept may lack a home.
+
+
+**Related finding: one-way link.**
+
+
+**Potential: principle-to-definitions map.** If the goal is consistency a reader can see, a generated map from each principle to its measuring definitions does that without new definitions. The audit's traceability matrix (`evidence/2026-10-01/ch1_ch5_traceability_matrix_2026-10-01.csv`) has the data; `make hierarchy-map` or a reader guide could publish it.
+
+### 2026-09-30 — Process, system, institution: potential follow-ups
+
+**Potential, not committed.** Idea under review: add a second axis, *what is being governed* (a process, a system, or an institution), alongside the two governance layers in [Preamble §3.3](core_00_preamble.md#33-governance-layers), which stay as they are. Goals: clarify how principles apply to governance and processes; tell when a problem is a process, a system, or an institution; clarify roles and support SOD; help reorganize the principles. First step done: [the crosswalk](project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) tags 67 Chapter One and Chapter Seven items. Result: the axis sorts cleanly (no item needed all three), Process and Institution overlap most, and eight items are values that bind every object. The items below are options, not decisions.
+
+- [ ] **Potential: review the crosswalk tags.** Second reader on the 22 medium and 3 low confidence tags. Read §12.1 and §12.2 in full (tagged from keyword lists).
+- [ ] **Potential: extend the crosswalk** to the 50 third-level subsections in Chapter One (§X.Y.Z, not tagged in the first pass), the Preamble, Chapter Five definitions, Chapters Two to Six, and Chapter Eight onward, so any reorganizing decision rests on the whole corpus.
+- [ ] **Potential: Process definition with a test** next to the existing System definition in Chapter Five. Reconcile the Institution test with any existing Institution definition first (none found by heading search).
+- [ ] **Potential: decide index or restructure.** Current lean: index and routing aid only, a primary-object tag plus a "binds all objects" tag for values and a "meta" tag for the reading rules. Decided 2026-10-01: relocations are done before the pre-release announcement, not after. The crosswalk is planning input for them, not a reason to wait.
+- [ ] **Potential: gather the scattered Process principles.** Ten sit outside Chapter One Part B: six in Part A (§§2.3, 3.3, 3.4, 4.2, 5.1, 5.2) and four in Part C (§§10.3, 10.5, 11.2, 12.3). Consider a reader-guide cluster before any move.
+- [ ] **Potential: process-ownership dispute rule** for [Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture). Draft with owner envelope, floor-touching test, change record and contest window, lead-forum routing, and no self-judging by the rule-writer: [project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md](project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md). Needs the steward role names mapped, and the six open questions in the draft answered.
+- [ ] **Potential: change-record template** for the implementation corpus near **CI-6**, with floor-touching self-assessment, contest window scaled to the Chapter Twelve §6 tiers, and an emergency-change sunset.
+- [ ] **Potential: narrow third question in Preamble §3.3.** Only if the dispute rule shows a real gap: who may change the operating procedures of an authorized system, with what notice and contest. Do not call it "process governance" (the forum layer, `cf_00`, already uses that phrase).
+- [ ] **Potential: chart orientation follow-through.** **VIS-CHART-ORIENT-04** (top to bottom, `flowchart TB`) is now in [doc_architecture.md](doc_architecture.md). Open: convert the five remaining `LR` charts when next edited (the print pack copy regenerates from its source); add a grep-based audit and a `make` target so the rule is checked, not only stated; and confirm the "convert on next edit" policy is the one you want.
+- [x] **Decide the pre-release stance.** Decided 2026-10-01: adopt relocations now, before the announcement.
+
 ### 2026-09-27 — Article XIII-A / XIII-B split: translations
 
 Article XIII-B is now **Right to Redress and Remedy** (`#article-xiii-b-right-to-redress-and-remedy`). Challenge, review, protected reporting, no retaliation, and the Contest steward statement moved to **Article XIII-A** (*Reliability and Trustworthiness Baseline*). English core, corpus, implementation, and evaluation instruments are updated; dated evaluation results and evidence are left as historical record.
@@ -33,25 +98,11 @@ Article XIII-B is now **Right to Redress and Remedy** (`#article-xiii-b-right-to
 
 ### 2026-09-30 — Operative steward boxes removed from the core
 
-Supersedes the 2026-09-27 widget work below. The Owner / Forbidden move / Clock boxes are steward routing, not constitutional text, so they are gone from the core. Each Forbidden move was checked against its owning section (see `steward_box_review.md`): where the principle was already stated it was dropped, and the four gaps got one sentence each. The next step for each situation now lives on the steward cards (`implementation/STEWARD_ENTRY_DOORS.md`) and in `implementation/steward_owner_clock_index.json` (`steward_card`, replacing `operative_box`).
+Supersedes the 2026-09-27 widget work (archived in [TODO_RESOLVED_2026-10-01.md](archive/TODO_RESOLVED_2026-10-01.md)). The Owner / Forbidden move / Clock boxes are steward routing, not constitutional text, so they are gone from the core. Each Forbidden move was checked against its owning section (see `steward_box_review.md`): where the principle was already stated it was dropped, and the four gaps got one sentence each. The next step for each situation now lives on the steward cards (`implementation/STEWARD_ENTRY_DOORS.md`) and in `implementation/steward_owner_clock_index.json` (`steward_card`, replacing `operative_box`).
 
-- [x] **Remove all 15 boxes and their anchors.** Done 2026-09-30. The "Steward door (non-operative)" lines now point at the card.
-- [x] **Add the four sentences.** Article XIII-A (adopted implementation text cannot close challenge, review, or redress); Chapter Nine §3.1 (privacy and opacity are not a standing-measurement exemption); Chapter Twelve §6 anti-delay floor (a met throughput target is not timely while harm continues); Chapter Eight Part B §14.2 (the challenge path opens when the system first has stakeholders; pilots expected at every class).
-- [x] **Rework the lockstep audit, schema, and lookup tool.** The audit now diffs each card's owner pointer and next step against the index; `corpus_lookup.py` hydrates the owner text and the card (`door_owner`, `steward_card`) instead of the box.
 - [ ] **Translations.** Ten files under `translations/` still carry the boxes and the old Chapter Eight §14.2, XIII-A, Chapter Nine, and Chapter Twelve text.
-- [x] **Article V-B.** Done 2026-09-30: added the floor sentence that adequacy is judged on currently mapped flows and no allocation formula is a precondition; collapsed the certification-procedure bullets (verify, how, when) into a pointer to Chapter Eight §6. Article V-A done the same day: kept "What must be mapped", recast complete/current/auditable/backed-by-evidence as "What the maps must be", collapsed the when/verify/how bullets into one "How certification checks it" pointer to Chapter Eight §6, and pointed hiding-defect consequences to Chapter Eight §6 and §16.
 - [ ] **Chapter Ten §9 (optional).** Consider stating that evidence preservation does not wait for a filed case.
 - [ ] **Forbidden moves in the index.** `forbidden_move` and `conflict_rule` stay in the index only; the `door` command still omits them. Decide whether the cards should show them.
-
-### 2026-09-27 — Move operative steward statements out of reader-facing text
-
-*Superseded 2026-09-30: the boxes were removed.* Operative steward statements (Owner / Forbidden move / Clock boxes) are steward routing content, not reader-facing constitutional text. Put each one in a collapsed widget (`<details>` with a blue "Operative steward statement" summary, the same pattern as the Trace and Definitions widgets), not in a bare blockquote in the article body. [Chapter One Part B](core_01_b_interaction_interpretation.md) already does this; use it as the model.
-
-- [x] **Wrap every bare box in a widget.** Done 2026-09-27: all 16 boxes are now in collapsed widgets. Generated plain-terms, reader-accessibility, and boundary-chunk outputs were regenerated.
-- [x] **Keep the audit anchors.** Leave each `<a id="operative-steward-statement-…">` anchor and the `**Operative steward statement.**` text as they are, so `tools/steward_door_lockstep_audit.py` and the `implementation/steward_owner_clock_index.json` hrefs still resolve. Re-run the audit after the change.
-- [x] **Keep binding substance in the article.** When a box states something the article body does not (for example, the Contest rule that the bar is fixed now rather than later; the general rule that lower text cannot narrow the Rights Floor already lives in the Authority Stack), make sure the article body still carries it before the box goes behind a widget. Done 2026-09-27: reviewed all 16 boxes. Each applies rules stated in its owning section to a steward's next step; the boxes stay operative text inside their widgets, so collapsing them removes nothing binding. No additions needed.
-- [x] **Make the Steward door pointers consistent.** Make the "Steward door (non-operative)" pointer lines the same across doors, or move them into the same widget. Done 2026-09-27: removed the eleven same-unit pointers (the box now sits in the adjacent widget); the four cross-file pointers (Chapter One §9.1 → XXII-A, Chapter Five Auditability → XV, Chapter Five Cross-System Contribution → IV-B, Chapter Twelve §6 → XXV-C) share one format.
-
 
 ### 2026-09-17 — Conceptual overview and corpus alignment follow-ups
 
@@ -73,7 +124,6 @@ Build on completed R1–R3 and I2–I5 below; their landed safeguards, adopter p
 
 #### Review coverage and technical follow-through
 
-- [x] **Complete source coverage.** Extend the thematic review into a tracked review of remaining core, definition, and adopted-implementation provisions. Record what was actually read and checked; identify translation and implementation coverage separately. Recheck findings against current source before claiming complete alignment. Initial inventory and audit disposition: [source coverage record](evidence/2026-09-17/source_coverage_2026-09-17.md).
 
   **Closure (2026-09-17):** Read and checked the 116-file tracked source ledger (38 core-directory files, including the non-operative vignette file; 4 adopted implementation wrappers; and 74 adopted implementation subfiles) against current source. Repaired the Chapter Eight Part B §11 upstream pointer to Chapters Two through Four; the pointer audit and full `make regression` pass. Translation, implementation, evaluation, lived-experience, and P1 stress-pack work remain separately scoped and open.
 
@@ -96,7 +146,6 @@ Resolved evaluation follow-ups R1–R3 and I2–I13 are archived in [TODO_RESOLV
 
 Same nest-or-leave method as Chapter Five and Chapter Six: extend `tools/ch5_nested_list_candidate_audit.py` to the chapter, rank packed bullets, nest real parallel lists, leave one-clause “including …” glosses and continuous legal arguments. After the first nest, **re-scan children for subbullets**: the finder skips any parent that already has a child, so packed lists under those parents never rank until you look by hand (or nest, then re-run). Nest real parallel grandchildren; leave one-clause glosses at that layer too. Advisory finder only (`make ch5-nested-list-candidates`, `make ch6-nested-list-candidates`, `make ch7-nested-list-candidates`, `make ch8-nested-list-candidates`, `make ch9-nested-list-candidates`, `make ch10-nested-list-candidates`, `make ch11-nested-list-candidates`, `make ch12-nested-list-candidates`, `make ch13-nested-list-candidates`); not a regression gate.
 
-- [x] **Remaining numbered chapters** — Preamble; Chapters One through Four; Chapters Fifteen through Sixteen (including split files: Chapter One Parts A–C). For each: extend the candidate finder, run the ranked scan, nest only parallel checklists, then re-scan nested children and nest only parallel subbullets. Out of scope unless separately requested: adopted layers (`corpus_*`), `core_09-12_application_vignettes.md`, and implementation/adoption pages.
 
   **Closure (2026-09-17):** Added chapter-specific advisory targets/rules for Chapters 0–4 and 14–16; nested the clear parallel checklists in the Preamble and Chapter Seventeen; re-scanned after nesting; left compact legal prose and single-clause “including” glosses unchanged.
 
@@ -108,7 +157,6 @@ Preamble §6/§7 renumbering landed 2026-09-21 (§7.1 *How the full chain fits t
 
 ### P1 — Regression And Evidence
 
-- [x] **P1 — Validate regression scenarios and evidence workflow:** reconcile the present `CONSTITUTIONAL_REGRESSION_SCENARIOS.md` file with the `evidence/<YYYY-MM-DD>/` workflow so matrix integrity, snapshot validation, and dated artifact recording resume as an active process.
 
   **Closure (2026-09-17):** Run `p1-regression-review-2026-09-17-01` recorded in [P1 regression and evidence review](evidence/2026-09-17/P1_REGRESSION_AND_EVIDENCE_REVIEW_2026-09-17.md). `make scenario-audit` and the full `make regression` pass; the 189-row matrix has 131 pass, 58 draft, and no fail/partial/unknown results, with all 192 seed blocks present. Section 10.5 remains internally consistent at 8.4 under `SCORING-v1`. The expected `.cursor/rules/testing.mdc` file is absent, and the active Sentient Constitution rule requires `make regression`; no suspended-regression instruction remains in the reviewed policy surfaces. No separate queued observations were found requiring new `RS-*` rows. The 35 stress-pack rows remain draft and are not treated as empirical evidence.
 
@@ -122,8 +170,35 @@ Keep this active file limited to editor checks, current open work, and short arc
 
 ## Archives
 
+- **2026-10-01 resolved TODO items:** [archive/TODO_RESOLVED_2026-10-01.md](archive/TODO_RESOLVED_2026-10-01.md)
 - **2026-09-17 resolved TODO items:** [archive/TODO_RESOLVED_2026-09-17.md](archive/TODO_RESOLVED_2026-09-17.md)
 - **Architecture process (canonical):** [archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_WORKLIST_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_ADOPTION_APPENDIX_ARCHIVED_2026-05-08.md), [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) — see [README.md](README.md)
 - **2026-06-18 Chapter Five closeout:** [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md)
 - **2026-05-01 root retirement:** [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md), [archive/MEMLOG_ROOT_RETIRED_2026-05-01.md](archive/MEMLOG_ROOT_RETIRED_2026-05-01.md)
 - **Older TODO/MEMLOG snapshots:** removed 2026-06-17; retrieve from git history if needed
+
+
+## 2026-10-01 — Chapter One continuity relocation: done, open follow-ups
+- Done: Part A is now §1 purpose, §2–5 Flourishing, §6–9 Continuity; later sections renumbered (§10–17). §2 and §4 retitled. Report: evidence/2026-10-01/ch1_continuity_relocation_report_2026-10-01.json.
+- [ ] Translations (20 languages) still carry the old Chapter One numbering; not updated.
+- [ ] Add the relocated Continuity principles (new §6/§7 and §8/§9) to the Trace downstream in core_05_apex_continuity_aim.md.
+- [x] Shared-System Capacity aim question resolved 2026-10-01: it straddles both aims (means toward Flourishing, substance of Continuity); swapped to §6 as the bridge, Resilience is now §7.
+- [x] "Standardization" measurement seed approved 2026-10-02 (Accountability, primary_secondary); hierarchy map regenerated. Also added to the Governance architecture topic group members and to ch5_cluster_order_audit.
+- [ ] Run `make ai-manifest-regenerate` now that source changes are committed.
+- Baseline failures corpus-markdown-audit and ch5-cluster-order-audit cleared 2026-10-02 (list-intro colons; Standardization added to the topic group). lexical-vocabulary-audit not re-checked.
+
+- 2026-10-01 (later): Chapter One §9 and §7 swapped (tools/ch1_swap_6_7.py): §9 Shared-System Capacity (straddles both aims), §10 Resilience and Self-Healing Design. Translations still use the old numbering.
+- 2026-10-01 (later): Added unnumbered Part A openers "Flourishing Aim: Introduction" (after §1) and "Continuity Aim: Introduction" (before §6), each with a Mermaid chart. Chart sync (VIS-CHART-SYNC-03): update both when §2–§9 headings change. Translations not updated.
+
+## 2026-10-01 — Chapter One Part A numbering smoothed
+- Done (tools/ch1_numbering_smoothing.py): §2 Flourishing Aim: Introduction (numbered), §2.1 Non-Negotiable Principle Constraints: Safety and Truth (old §3 shared framing), §3 Wellbeing, §4 Safety, §5 Truth (§5.1 Science-Informed Inquiry, §5.2 Plain-Language Accessibility), §6 Trust, §7 Freedom, §8 Continuity Aim: Introduction, §9 Shared-System Capacity, §10 Resilience, §11 Market Structure, §12 Systemic Evaluation; Part B is §§13–15, Part C §§16–20.
+- Also repaired: stale "Chapter One basis: §…" lists in CJS, Chapter Five and related files (only the first cite had been remapped in earlier passes; all tokens now mapped from the pre-relocation numbering), plus stale link labels pointing into Chapter One.
+- [x] Mermaid charts (Part A intros, Part C stewardship chart) verified against headings 2026-10-01; hand-maintained, so update when §2–§12 or §16–§20 headings change (VIS-CHART-SYNC-03).
+- [ ] Translations (20 languages) still use the old Chapter One numbering.
+- [x] Cite sweep 2026-10-01: fixed 27 broken Chapter One links in evaluation/ and project/ (they sat outside the fragment audit's scope) and 5 mislabeled links. Remaining risk: bare untitled "§N" cites in prose; local-markdown-fragment-audit now also scans evaluation/ (excluding dated results) and project/plans/ (implementation/ was already covered).
+
+- 2026-10-02: Added "distinct from each other and meaningful options" to Chapter Five Meaningful Agency and Consent (gloss, assessment, failure lists, topic-group line). Translations and Chapter Six consent articles not checked for the same wording.
+
+- 2026-10-03: Replaced "reasonably effective/well" in the Necessity test and the safer-alternative tests (Ch5 Necessity, Ch1 §7/§7.1/§13.1, core_05_band_oversight, core_06_rights_part_a) with purpose-based wording. Added `avoid-reasonably-well` to lexical-vocabulary-audit (now passes with no findings). Also banned "reasonably effective" (rule `avoid-reasonably-well-or-effective`).
+
+- 2026-10-02: Chapter One §7 reordered (7.1 Limitation Discipline; 7.2 Assembly; 7.3 Dissent; 7.4 Voluntary Discontinuation and Exit Rights). Institutional Secularism moved from §7.5 to §18.2; old 18.2–18.5 are now 18.3–18.6. Optional: Dissent before Assembly was not done. Translations still use old numbering. Bare untitled "§N" Chapter One cites are unchecked by any audit.

@@ -699,7 +699,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
 - **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [core_09-12_application_vignettes.md](../core_09-12_application_vignettes.md#4-stewardship-delay-and-deferred-repair).
-- **Read with:** [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Chapter One §9 Stewardship In Depth](../core_01_c_stewardship_capacity_principles.md#9-stewardship-in-depth); [Chapter Nine §4.2](../core_09_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Ten §9.5](../core_10_standing_integration.md#95-timely-implementation); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXV-C**.
+- **Read with:** [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); [Chapter One §16 Stewardship In Depth](../core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter Nine §4.2](../core_09_standing_assessment.md#42-violation-severity-input-dimensions); [Chapter Ten §9.5](../core_10_standing_integration.md#95-timely-implementation); [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXV-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow

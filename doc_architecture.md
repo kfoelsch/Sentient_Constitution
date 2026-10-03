@@ -73,7 +73,7 @@ Machine-checkable rules: [tools/architecture/rule_registry.json](tools/architect
 ### What counts as a definition
 
 - **Hard definitions:** Ch 2–3 ([`core_02_definition_structure.md`](core_02_definition_structure.md)); Ch 4 ([`core_04_burden_traceability_verification.md`](core_04_burden_traceability_verification.md)); Chapter Five §1–§3 (single-home rule below).
-- **Values language:** Preamble §1 — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; Chapter Five O/M/A/C for Tetrad legs ([Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional)) and aims ([Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)); Chapter One develops those aims into operative principles. **Reading arc:** Part A (§§1–5 values and bounded agency) → Part B (§§6–8 interaction, override limits, and interpretation) → Part C (§§9–14 stewardship through systemic evaluation) → **§15 Integrated Application** capstone in Part C. Use **Continuity aim** when naming the constitutional aim; reserve bare *continuity* for operational uses elsewhere.
+- **Values language:** Preamble §1 — [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) (**Flourishing** / **Continuity**), and [material stake](core_00_preamble.md#material-stake) at principle layer; Chapter Five O/M/A/C for Tetrad legs ([Participation](core_05_apex_participation_leg.md#participation-constitutional), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional)) and aims ([Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional), [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional)); Chapter One develops those aims into operative principles. **Reading arc:** Part A (§§1–12 the Flourishing and Continuity aims) → Part B (§§13–15 interaction, override limits, and interpretation) → Part C (§§16–19 stewardship, governance, and incentives) → **§20 Integrated Application** capstone in Part C. Use **Continuity aim** when naming the constitutional aim; reserve bare *continuity* for operational uses elsewhere.
 - **Measurement frame (Preamble §2):** Eight constitutional measurement categories in [Measurements Overview](core_00_preamble.md#2-measurements-overview) link directly to their Chapter Five **measurement-family homes** (category column) and to canonical definitions (subcategory column); the family table, constitutional use, and definition routing live on the Chapter Five homes. **Family-home map:** Threshold/scaling and Oversight → [`core_05_apex_oversight_leg.md`](core_05_apex_oversight_leg.md#oversight-measurement-family); Flourishing → [`core_05_apex_flourishing_aim.md`](core_05_apex_flourishing_aim.md#flourishing-measurement-family); Continuity → [`core_05_apex_continuity_aim.md`](core_05_apex_continuity_aim.md#continuity-measurement-family); Participation → [`core_05_apex_participation_leg.md`](core_05_apex_participation_leg.md#participation-measurement-family); Accountability → [`core_05_apex_accountability_leg.md`](core_05_apex_accountability_leg.md#accountability-measurement-family); Timeliness → [`core_05_apex_timeliness_leg.md`](core_05_apex_timeliness_leg.md#timeliness-measurement-family); Constitutional Performance → [`core_05_band_performance.md`](core_05_band_performance.md#performance-measurement-family). Home-section anchors use the `#…-measurement-family` suffix (skipped as non-leaf routing anchors by `make ch5-measurement-coverage-audit`). [§3.1 Using Measurements in Governance](core_00_preamble.md#31-using-measurements-in-governance) routes measurement → certification (Chapter Eight), standing records (Chapter Nine), remedy (Chapter Ten), forum review (Chapter Twelve). **Standing measurement** (Chapter Nine contribution/violation axis measurement) is a *process* concept distinct from **constitutional measurement** categories (Preamble §2), which supply the evidentiary frame for what gets verified before records enter the standing pipeline.
 - **Standing:** Chapter Nine owns Questions 1 and 2 (**verified** standing records and Contribution Axis / Violation Axis measurement). Chapter Ten accepts those inputs as immutable and owns Question 3 integration and effects. Chapter Eleven owns designation only. Chapter Twelve forums may **open, update, or correct** standing records — or **set a bad record aside on challenge** — from verified findings. Boundary gloss: a **filed case** is not standing by itself. Prefer **case** (forum matter / dispute filing) over **claim** in that contrast; keep **claim** for dispute-phase inventory labels (*unadjudicated claims*) and other established senses.
 - **Rights:** Chapter Six; implementation files **cite** articles.
@@ -108,12 +108,14 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | NAV-IMPL-FILENAME-01 | Adopted implementation files share a numeric prefix only as same-chapter parts | `make adopted-implementation-filename-audit` |
 | NAV-PRE-RELEASE-FRAGMENT-01 | Pre-release: one current fragment id per heading; no fossil or legacy redirect anchors | `make fossil-anchor-audit` |
 | MD-LIST-INTRO-01 | Bold list-intro lead-in ends with `:` not `.`: standalone (`**Record and showing:**`), heading-echo run-in (`**Symmetric costly constraints:**`), or list-item label (`- **Not standing:**`). Ordinary non-echo run-ins (`**Admission scope.**`) are out of scope. | `make corpus-markdown-audit` |
+| MD-GLOSS-CLOSE-01 | An italic `*In plain terms: ...` gloss paragraph ends with a closing `*`. A missing closer renders a literal leading asterisk and drops the italics. | `make corpus-markdown-audit` |
 | MD-HEADING-TOPIC-01 | Numbered section's first body-prose line (after widgets and `*In plain terms*` gloss) must not restate that heading as a topic sentence (`**[§13.2 Title](#…):**`). Heading-echo run-in labels are MD-HEADING-RUNIN-01. | `make heading-echo-topic-audit` |
 | MD-HEADING-RUNIN-01 | A section's first body line must not open with a bold run-in label that restates its own heading (`**Governance as authorized structure.**` under `#### 11.1 Governance as Authorized Structure`). Bold terms used as a sentence subject, and labels that add a distinct idea, are out of scope. | `make heading-runin-echo-audit` |
 | MD-SECTION-LEAD-01 | A section's first body line (after widgets, spacers, callouts, and `*In plain terms*` gloss) is lead-in prose, not a bare list item. Container sections whose first content is a child heading are out of scope. **Carve-out:** Chapter Five definition files (`core_05_*.md`), whose entries open with O / E / C bullets by design. Blocking (`make regression`). | `make section-bullet-lead-audit` |
 | VIS-CHART-READABILITY-01 | Mermaid chart boxes with a title and explanatory content use `<br/><br/>` between the title and content for a blank visual line. | Manual (see **Chart readability standard** below) |
 | VIS-CHART-THEME-02 | Reader-facing Mermaid nodes use transparent fills, white labels, and the shared semantic-outline palette; do not rely on renderer-default label colors. | Manual (see **Chart color and theme standard** below) |
 | VIS-CHART-SYNC-03 | When an Article or subarticle is renumbered, renamed, added, moved, split, or removed, update every reader-facing Mermaid chart that lists it so numbers, titles, and bullets match the current headings. | Manual (see **Chart sync on renumbering (VIS-CHART-SYNC-03)**) |
+| VIS-CHART-ORIENT-04 | Mermaid flowcharts flow top to bottom (`flowchart TB`); a left-to-right, right-to-left, or bottom-up chart needs a stated exception. | Manual (see **Chart orientation standard** below) |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | LINK-OFF-CORPUS-15 | Link destinations stay in-repository in binding text; no machine-local targets anywhere | `make external-link-audit` (inventory: `make external-link-audit-report`) |
@@ -186,7 +188,7 @@ Assign a node by its primary role in the diagram. Color is a reusable visual cue
 Use an explicit style on every colored node, with `fill:none`, `color:#ffffff`, and the palette's outline color. Example:
 
 ```mermaid
-flowchart LR
+flowchart TB
     A["Source record"] --> B["Review route"] --> C["Named effect"]
     style A fill:none,stroke:#2563eb,color:#ffffff
     style B fill:none,stroke:#ea580c,color:#ffffff
@@ -194,6 +196,31 @@ flowchart LR
 ```
 
 Before publishing a diagram to a different rendering surface, visually confirm that its canvas is dark enough for white labels; if it is not, choose an explicitly contrasting label/fill pair rather than depending on theme defaults.
+
+### Chart orientation standard (VIS-CHART-ORIENT-04)
+
+Mermaid charts flow **top to bottom**. Start every flowchart with `flowchart TB`. Do not use `LR`, `RL`, or `BT` unless the chart records an exception. `TD` is the same direction as `TB` and is accepted in existing charts; write `TB` in new ones.
+
+**Why.** Top to bottom reads as levels or bands: each band is a layer or stage a reader works down through, in the same direction the page scrolls. It keeps one reading direction across the corpus, and most existing charts already follow it.
+
+**Exceptions.** An exception needs a stated reason in the sentence that introduces the chart, or in a caption. Accepted reasons:
+
+- a sequence of many short steps where top to bottom would make one very tall, thin column and left to right fits the page width;
+- a side-by-side comparison where the columns carry the meaning.
+
+A chart that is merely easier to draw another way is not an exception.
+
+**Layout tips.** To keep related nodes in a horizontal band inside a top-to-bottom chart:
+
+- Put the band in a `subgraph` and give it `direction LR`.
+- Link a band to the next band (`V --> L`), not to a node inside it. A link from an outside node to an inner node makes Mermaid ignore the band's `direction`.
+- Use an invisible link (`a ~~~ b ~~~ c`) to force nodes into one row when the renderer wraps them.
+
+**Scope.** This standard covers flowcharts, the only Mermaid type the corpus uses. It sits beside **VIS-CHART-READABILITY-01** (title and content spacing) and **VIS-CHART-THEME-02** (unfilled nodes, white labels, palette outlines); a chart meets all three.
+
+**Check.** Manual. `grep -rn -E '^\s*flowchart (LR|RL|BT)' --include='*.md' .` lists charts that need an exception or a change.
+
+**Existing charts.** On 2026-09-30, outside `translations/`, `archive/`, `evidence/`, `evaluation/`, and the generated site, the corpus held 41 `TB`, 1 `TD`, and 7 `LR` flowcharts. Two of the `LR` charts were this document's own example and the process-system-institution diagrams, both since converted. The other five (`project/VISION.md`, `guides/RECORD_OVERVIEW.md`, `CONTRIBUTING.md`, `implementation/PROCESS_PIPELINES_READER.md`, and the generated print pack) convert when next edited, in the same pass as any **VIS-CHART-SYNC-03** update, unless an exception is recorded. No bulk conversion: it would touch binding `core_*` files and every translation copy.
 
 ### Constitutional owner opening statement (OWNER-OPENING-01)
 
@@ -286,7 +313,7 @@ To keep the model legible for non-specialist readers, definition homes present O
 
 | Component | Measurement role |
 |-----------|------------------|
-| **O** (*What it is*) | What the term is — mandatory `**In scope:**` / `**Out of scope:**` sub-bullets carry the concept and boundaries (consolidated or dimensional). `**Out of scope:**` names adjacent concepts, sibling homes, or ordinary cases outside the matter — not hollow labels, paper substitutes, or failure modes (those belong under `**Primary failure:**` in C; see [Chapter Two §1.1](core_02_definition_structure.md#11-ontological-components-o--what-it-is)). Optional `**Depends on:**` lists constitutively required canonical definitions (bounds, floors, alignment targets); omit when dependencies are the phenomenon named in **In scope** (for example reliance relationships under [Dependency](core_05_band_continuity.md#dependency)) or when the linked term is the definitional subject rather than a prerequisite (for example [Material Impact](core_05_band_oversight.md#material-impact) under [Materiality Determination](core_05_band_oversight.md#materiality-determination)). `**Depends on:**` carries only *upstream* prerequisites and must not duplicate the joint-invocation rules under [Chapter Five §2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction) or co-measures under **How to measure and assess**; inverse relationships (downstream consumers via `Downstream:`, the parent group via `Cluster component:`, and a head's `Cluster members (family routing):`) live in the Trace block. Do not duplicate the concept across the header and In scope; do not encode metrics, proxies, assessment co-measures, or Trace routing in O. |
+| **O** (*What it is*) | What the term is — mandatory `**In scope:**` / `**Out of scope:**` sub-bullets carry the concept and boundaries (consolidated or dimensional). `**Out of scope:**` names adjacent concepts, sibling homes, or ordinary cases outside the matter — not hollow labels, paper substitutes, or failure modes (those belong under `**Primary failure:**` in C; see [Chapter Two §1.1](core_02_definition_structure.md#11-ontological-components-o--what-it-is)). Optional `**Depends on:**` lists constitutively required canonical definitions (bounds, floors, alignment targets); omit when dependencies are the phenomenon named in **In scope** (for example reliance relationships under [Dependency](core_05_band_continuity.md#dependency)) or when the linked term is the definitional subject rather than a prerequisite (for example [Material Impact](core_05_band_oversight.md#material-impact) under [Materiality](core_05_band_oversight.md#materiality-determination)). `**Depends on:**` carries only *upstream* prerequisites and must not duplicate the joint-invocation rules under [Chapter Five §2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction) or co-measures under **How to measure and assess**; inverse relationships (downstream consumers via `Downstream:`, the parent group via `Cluster component:`, and a head's `Cluster members (family routing):`) live in the Trace block. Do not duplicate the concept across the header and In scope; do not encode metrics, proxies, assessment co-measures, or Trace routing in O. |
 | **M** (in *How to measure and assess*) | Which measure applies at each tier — Preamble category routing and Chapter Five co-measure links, stated on the `**Primary measure:**` (etc.) label. Interwoven with A; not a pass/fail outcome. |
 | **A** (in *How to measure and assess*) | How the term must be assessed — the `**Primary assessment:**` (etc.) label paired with each tier's measure (primary trace, secondary co-measures, tertiary integrity checks). A specifies assessment scope and conditions; it does not prescribe pass/fail outcomes. |
 | **C** (*What must hold*) | What must hold in practice — observable satisfaction and failure modes, stated on `**Primary failure:**` (etc.) labels aligned to primary, secondary, and tertiary measurement duties. |
@@ -324,7 +351,7 @@ Not every definition requires all three tiers. Independent building blocks may d
 
 **Family vs definition**
 
-- Where a Preamble family maps 1:1 to a term ([Wellbeing](core_05_band_continuity.md#wellbeing), [Materiality Determination](core_05_band_oversight.md#materiality-determination)), tiers attach on that definition entry.
+- Where a Preamble family maps 1:1 to a term ([Wellbeing](core_05_band_continuity.md#wellbeing), [Materiality](core_05_band_oversight.md#materiality-determination)), tiers attach on that definition entry.
 - Where a family is a cluster label ("Safety, harm, and risk," "Survival-floor access"), the **cluster head** carries family routing on the header's final `*Measurements (family routing):*` line (see **Cluster-header order** under Definition hierarchy); leaves inherit or override explicitly.
 
 **Distinct from standing measurement.** [Chapter Nine](core_09_standing_assessment.md) Contribution Axis / Violation Axis measurement is a *process* concept. Constitutional measurement categories (Preamble §2) supply the evidentiary frame for what gets verified before records enter the standing pipeline — see **section 4** measurement frame bullet.
@@ -348,7 +375,7 @@ Chapter Five organizes **224 canonical definitions** across principle layer, con
    2. Member list — `**Topic group members.**` or `**Cluster members.**` (and any non-measurement header notes that must accompany the member list, such as `**Evaluation measure.**` or `**Anti-bypass.**`).
    3. **Measurements last** — `*Measurements (family routing):* Measured under the {family}. Find the concrete measures on the member definitions below.` Optional cluster-specific read-withs (for example CS-9) may trail on the same Measurements line. Do **not** link editorial progress reports (including `measurement_rollout_status.md`) from corpus Measurements lines. Do not place Measurements above the member list, and do not place Topic group / Cluster members after Measurements.
 
-**Anti-bypass house wording.** Cluster-local anti-segmentation rules use the label `**Anti-bypass.**` (or `- **Anti-bypass:**` in Dependent cluster context blocks). Do **not** open with `Under [Joint invocation and satisfaction], …` — that meta-rule already applies to every dependent cluster via [Chapter Five §2](core_05__definitions_home.md#2-dependent-cluster-meta-rules). Prefer a single terminal cite: `See [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction).`
+**Anti-bypass house wording.** Cluster-local applications of the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) use the label `**Anti-bypass.**` (or `- **Anti-bypass:**` in Dependent cluster context blocks). State the cluster's **Compartments** and the duties they must not defeat; do not restate the general rule. Do **not** open with `Under [Joint invocation and satisfaction], …` — that meta-rule already applies to every dependent cluster via [Chapter Five §2](core_05__definitions_home.md#2-dependent-cluster-meta-rules). Prefer a single terminal cite: `See [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle).`
 6. **Leaf definitions** — canonical `####` O/M/A/C entries (one visible label per term).
 
 **Orthogonal tags** (per term in [generated hierarchy index](doc_architecture/generated/definition_hierarchy.md))
@@ -471,7 +498,7 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 **Subsections under `*-1`:**
 
 - Add `### XX-1.n` only for **layer-unique** elaboration that does not belong in the owns / does-not-own lists.
-- **CJS-only** substance that other layers must cite — purpose of the joint layer / implementation-corpus gateway (**CJS-1.0**), identifier rules including **oDef** / **Def** and the constitutional-vs-joint-operational-definition distinction (**CJS-1.1**), shared contract (**CJS-1.3**), and parse mechanics for **oDef** (**CJS-1.13**–**CJS-1.14**) — lives in **CJS-1** (and its subsections). Parse mechanics live in [cjs_05_odef_parse_mechanics.md](corpus_joint_structure/cjs_05_odef_parse_mechanics.md); drafting contracts (**CJS-1.7**–**CJS-1.8.1**) live in [cjs_04_drafting_contracts.md](corpus_joint_structure/cjs_04_drafting_contracts.md). **CS** / **CI** / **CF** point to those homes; they do not restate them. Applicability, combined satisfaction, the default **CJS → CS → CI → CF** reading stack, and stricter-wins among jointly applicable incorporated obligations live in **Chapter One §8.4.4** and **§8.4.3**; CJS cites those homes and does not restate them. Non-operative how-to-read for average humans lives in [cjs_reader_guide.md](corpus_joint_structure/cjs_reader_guide.md) only.
+- **CJS-only** substance that other layers must cite — purpose of the joint layer / implementation-corpus gateway (**CJS-1.0**), identifier rules including **oDef** / **Def** and the constitutional-vs-joint-operational-definition distinction (**CJS-1.1**), shared contract (**CJS-1.3**), and parse mechanics for **oDef** (**CJS-1.13**–**CJS-1.14**) — lives in **CJS-1** (and its subsections). Parse mechanics live in [cjs_05_odef_parse_mechanics.md](corpus_joint_structure/cjs_05_odef_parse_mechanics.md); drafting contracts (**CJS-1.7**–**CJS-1.8.1**) live in [cjs_04_drafting_contracts.md](corpus_joint_structure/cjs_04_drafting_contracts.md). **CS** / **CI** / **CF** point to those homes; they do not restate them. Applicability, combined satisfaction, the default **CJS → CS → CI → CF** reading stack, and stricter-wins among jointly applicable incorporated obligations live in **Chapter One §15.4.4** and **§8.4.3**; CJS cites those homes and does not restate them. Non-operative how-to-read for average humans lives in [cjs_reader_guide.md](corpus_joint_structure/cjs_reader_guide.md) only.
 - Do **not** restate owns / does-not-own lists inside a `*-1.1` subsection when the file-level lists already state them.
 
 **Placement rules:**
@@ -480,15 +507,15 @@ Each layer’s first substantive file (`cjs_01_*`, `cs_01_*`, `ci_01_*`, `cf_01_
 |---|---|
 | What the layer owns / does not own | File-level lists on that layer’s `*-1` |
 | Purpose of the joint layer / implementation-corpus gateway | **CJS-1.0** only |
-| Default cross-layer reading stack | **Chapter One §8.4.4** only |
+| Default cross-layer reading stack | **Chapter One §15.4.4** only |
 | Constitutional vs joint operational definitions | **CJS-1.1** only (other layers may keep one short pointer bullet) |
 | Shared implementation-corpus contract | **CJS-1.3** only |
-| Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations | **Chapter One §8.4.4** / **§8.4.3** (CJS-0.1 identifies which files the facts require) |
+| Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations | **Chapter One §15.4.4** / **§8.4.3** (CJS-0.1 identifies which files the facts require) |
 | Identifier / label rules | **CJS-1.1** + each layer’s `*_00` registry annex (**oDef.*n*** = **CJS-3.*n***; Chapter Five **Def.*** separate) |
 | Parse mechanics (guidepost **What it is** / **How to measure and assess** / **What must hold**; **oDef** clusters) | **CJS-1.13**–**CJS-1.14** in [cjs_05_odef_parse_mechanics.md](corpus_joint_structure/cjs_05_odef_parse_mechanics.md) |
 | Specialty classification examples | Owner taxonomy file (for example **CS-3**), not the `*-1` boundary page |
 
-**Trace Upstream** for `*-1` boundary pages should cite the joint-application home (**Chapter One §8.4.4**), the identifier / **Def.*** / **oDef** home (**CJS-1.1**), or the relevant core chapter — not **CJS-1.3** unless the subsection is itself the shared-contract owner.
+**Trace Upstream** for `*-1` boundary pages should cite the joint-application home (**Chapter One §15.4.4**), the identifier / **Def.*** / **oDef** home (**CJS-1.1**), or the relevant core chapter — not **CJS-1.3** unless the subsection is itself the shared-contract owner.
 
 **Do not** keep a second **Quick orientation** that restates owns / does-not-own or reprints apply-CJS boilerplate already covered by **Read next** and **CJS-1.3**.
 
@@ -643,7 +670,7 @@ Do not maintain hand-edited article or implementation maps here.
 <a id="reader-language-editions"></a>
 ### Reader-language editions (shipping order)
 
-**Decision (2026-09-12).** Non-English editions, when they exist, follow the **shipping order** below — not the reach ranking, and not UN official-language prestige. This file is process support; it cannot narrow core. It does not create a translation duty, freeze a locale, or change [Chapter One §3.4](core_01_a_values_principles.md#34-plain-language-accessibility-participation-and-stewardship-duty) (*Plain-Language Accessibility*).
+**Decision (2026-09-12).** Non-English editions, when they exist, follow the **shipping order** below — not the reach ranking, and not UN official-language prestige. This file is process support; it cannot narrow core. It does not create a translation duty, freeze a locale, or change [Chapter One §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*Plain-Language Accessibility*).
 
 **Metric (reach).** Rank languages by *literate unread readers*: sentients who can read the language well enough for a written edition and cannot currently read this English corpus well enough to use it. Sources for the 2026-09-12 snapshot: Ethnologue 2025 speaker counts; EF EPI 2025 country bands in each language's core countries; national adult-literacy haircuts. Order-of-magnitude only. Conversational English is not enough for this corpus.
 
@@ -809,7 +836,7 @@ Examples: `**Article XVI-C** (*Verification Accessibility*)`; `**Article XXV-C**
 
 When a `§` or `§§` number is cited in **body prose**, name the section for human readers. A fragment slug is not a title.
 
-**Format (preferred):** `[§12.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01_c_stewardship_capacity_principles.md#125-contingent-claims-games-of-chance-and-event-contract-markets)`
+**Format (preferred):** `[§19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_01_c_stewardship_capacity_principles.md#195-contingent-claims-games-of-chance-and-event-contract-markets)`
 
 **Also named:** unlinked `§11.1 Alignment Requirement`; `[§11.5](#…)` followed by `(*Contingent Claims…*)`.
 

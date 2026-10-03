@@ -39,7 +39,7 @@ Chapter Three is the constitutional owner of **definition integrity, evasion, an
 
 - Upstream: Principles: [Chapter Two, §1 — Purpose and Role](core_02_definition_structure.md#1-purpose-and-role); [Chapter Two, §2 Definition Integrity Requirement](core_02_definition_structure.md#2-definition-integrity-requirement).
 - Downstream: [Chapter Three, section 2 — Non-Compliance from Observable System Behavior](#2-non-compliance-from-observable-system-behavior); [Chapter Four, section 2 — Definition Traceability Requirement](core_04_burden_traceability_verification.md#2-definition-traceability-requirement); [Chapter Four, section 5 — Compliance Evidence Standard](core_04_burden_traceability_verification.md#5-compliance-evidence-standard); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
-- Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
+- Read with: [Chapter One, section 3.2 — Truth (Epistemic Integrity Constraint)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
 
@@ -151,7 +151,7 @@ This is a focused form of **Fake measures and paperwork**. Systems must not meet
 - formal renaming, restructuring, or entity reclassification that drops duties without transferring responsibility in practice
 - convenient taxonomy choices that erase distinctions the definition requires
 
-Where formal-structure change is material, apply [Chapter One §12.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#126-successor-responsibility-and-formal-structure-non-escape).
+Where formal-structure change is material, apply [Chapter One §19.6 Successor Responsibility and Formal-Structure Non-Escape](core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape).
 
 #### 2.2 Reductive Evasion
 

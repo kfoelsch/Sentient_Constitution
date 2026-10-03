@@ -195,7 +195,7 @@ Adaptive allocation remains subject to **Article XVI-A** (*Auditability and Obse
 
 *In plain terms: Adaptive allocation must satisfy the CS-5 self-healing test-and-verify profile; this section adds only ecosystem-specific cross-checks.*
 
-This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §4.1** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional). It is a CS-8-specific application of **CS-5 §9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
+This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional). It is a CS-8-specific application of **CS-5 §9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
 
 Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must satisfy **Article XIII-F** recovery floors and the **CS-5 §9** test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. CS-8 adds only the ecosystem-specific cross-checks below.
 
@@ -204,7 +204,7 @@ Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under
 - Anti-concentration obligations under **§6** (*Anti-concentration and resilience*) apply to recovery-time authority as well as steady-state authority. Ecosystem recovery must not become a vector for concentrated resources, influence, dependencies, credentials, or decision control.
 - The governance-integration rule in **§8** (*Governance integration*) controls adaptive or self-healing mechanisms in this file. They may not substitute for governance, reduce [Auditability](../core_05_band_oversight.md#auditability), [Transparency](../core_05_band_oversight.md#transparency), contestability, or stewardship obligations under [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment).
 
-Where this subsection is silent, **CS-5 §9**, Chapter One §4.1 (*Resilience and Self-Healing Design*), **Article XIII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This subsection does not create rights and must not be read to narrow those homes.
+Where this subsection is silent, **CS-5 §9**, Chapter One §10 (*Resilience and Self-Healing Design*), **Article XIII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This subsection does not create rights and must not be read to narrow those homes.
 
 <a id="cs-8-10-regenerative-alignment-circular-material-flows-and-bioregional-stewardship-implementation-profile"></a>
 ## CS-8.10 Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)

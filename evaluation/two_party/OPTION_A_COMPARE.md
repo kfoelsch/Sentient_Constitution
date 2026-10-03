@@ -19,7 +19,7 @@ Wording may differ. Example: both route to Standing / Chapters Nine–Ten and pr
 2. Copy [`results/_TEMPLATE.md`](results/_TEMPLATE.md) to `results/YYYY-MM-DD_option-a-compare.md`.
 3. Do not read operator-only gold tables into the subjects’ sittings. This compare happens **after** both files exist.
 4. Gold next-step-class labels live in [`../OPERATOR_ROUTING.md`](../OPERATOR_ROUTING.md) (operators only). If you use them, say so. Subjects must not be pointed at that file for a sitting.
-5. An AI-only pair is Option A evidence only. It is not [Chapter One §9.1.1](../../core_01_c_stewardship_capacity_principles.md#911-shared-stewardship-standard) shared-standard evidence.
+5. An AI-only pair is Option A evidence only. It is not [Chapter One §17.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) shared-standard evidence.
 
 ## What to score per item
 
