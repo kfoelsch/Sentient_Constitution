@@ -924,7 +924,7 @@ The limits above depend on what counts as harm. Chapter Five treats these six id
 - [**Harassment and Bullying**](core_05_band_accountability.md#harassment-and-bullying): unwanted acts or conditions that, through repetition, coordination, power, or severity, make a setting unsafe, degrading, or hard to take part in.
 - [**Collective Harm Boundary**](core_05_band_accountability.md#collective-harm-boundary): the point where one party's freedom of action must give way, because it causes verifiable harm to others' protected interests or to shared conditions everyone relies on.
 
-These are meant to be read together. A matter can't be split up to dodge one of them.
+These must be read together. When a matter falls within this cluster, it may not be split into separate questions to avoid or understate any one of them.
 
 Constraints may be imposed only when no less-restrictive, reasonably effective alternative exists, consistent with [Necessity](core_05_band_accountability.md#necessity) in **Chapter Five**. Feasibility claims that limit agency must be demonstrable under **Chapter Four** burden and traceability requirements. They must also be consistent with **Chapter Five** definitions (including Feasibility, Necessity, Proportionality, and Harm Minimization (Tradeoff Selection)). Limitations must remain subject to [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) scaled to [material stake](core_00_preamble.md#material-stake).
 
