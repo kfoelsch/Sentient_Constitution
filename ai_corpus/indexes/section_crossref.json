@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-03T02:12:40+00:00",
+  "generated_at": "2026-10-03T07:06:22+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15763,
+  "edge_count": 15799,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -1154,14 +1154,6 @@
       "source_file": "core_01_a_values_principles.md",
       "source_header": "11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
       "source_anchor": "#111-market-concentration-threshold-mechanism-adopter-tunable",
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
-      "count": 1
-    },
-    {
-      "source_file": "core_01_a_values_principles.md",
-      "source_header": "11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)",
-      "source_anchor": "#111-market-concentration-threshold-mechanism-adopter-tunable",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#4-question-2-how-good-or-bad-was-it",
       "count": 2
@@ -1629,6 +1621,174 @@
       "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
       "target_anchor": "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
       "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#market-concentration-threshold-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#market-concentration-threshold-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#market-concentration-threshold-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-v-resource-allocation-dependencies-and-ecosystem-funding",
+      "count": 4
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-v-a-dependency-mapping-and-resource-flow-transparency",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-v-b-cross-system-fairness-and-sustainability",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "target_anchor": "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "11.4 Resource and Dependency Concentration (Adopter-Tunable)",
+      "source_anchor": "#114-resource-and-dependency-concentration-adopter-tunable",
+      "target_file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+      "target_anchor": null,
+      "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -3648,7 +3808,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#voluntary-discontinuation-constitutional",
@@ -3656,7 +3816,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#voluntary-discontinuation-constitutional-a",
@@ -3664,7 +3824,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#voluntary-discontinuation-constitutional-c",
@@ -3672,7 +3832,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
@@ -3680,7 +3840,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-a",
@@ -3688,7 +3848,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
@@ -3696,7 +3856,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#consent-constitutional",
@@ -3704,7 +3864,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#consent-constitutional-a",
@@ -3712,7 +3872,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#consent-constitutional-c",
@@ -3720,7 +3880,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#coercion-and-manipulation-constitutional",
@@ -3728,7 +3888,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#coercion-and-manipulation-constitutional-a",
@@ -3736,7 +3896,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#coercion-and-manipulation-constitutional-c",
@@ -3744,7 +3904,7 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
@@ -3752,10 +3912,10 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "7.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#73-dissent-and-peaceful-protest",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#34-voluntary-discontinuation-and-exit-rights",
+      "target_anchor": "#34-voluntary-discontinuation-major-self-modification-and-exit-rights",
       "count": 1
     },
     {
@@ -3932,7 +4092,7 @@
       "source_anchor": "#9-shared-system-capacity",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_a_values_principles.md",
@@ -7516,6 +7676,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
+      "source_header": "7.3 Dissent and Peaceful Protest",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#subversion",
       "count": 1
     },
     {
@@ -19699,6 +19867,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#subversion",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#sustained-high-gravity-pattern",
       "count": 1
     },
@@ -31300,6 +31476,118 @@
       "source_anchor": "#stay",
       "target_file": "corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#73-dissent-and-peaceful-protest",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#71-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#anti-constitutional-misconduct-review",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#coercion-and-manipulation-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#xi-d-dissent-and-peaceful-protest",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_11_a_misconduct_designation.md",
+      "target_anchor": "#2-criteria-set-for-slot-assignment",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Subversion",
+      "source_anchor": "#subversion",
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#51-concentration-based-subversion-criteria-interaction",
       "count": 1
     },
     {
@@ -76464,7 +76752,7 @@
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "3.4 Voluntary Discontinuation and Exit Rights",
+      "source_header": "3.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "source_anchor": "#34-voluntary-discontinuation-and-exit-rights",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#74-voluntary-discontinuation-and-exit-rights",

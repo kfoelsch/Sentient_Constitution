@@ -116,6 +116,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | VIS-CHART-THEME-02 | Reader-facing Mermaid nodes use transparent fills, white labels, and the shared semantic-outline palette; do not rely on renderer-default label colors. | Manual (see **Chart color and theme standard** below) |
 | VIS-CHART-SYNC-03 | When an Article or subarticle is renumbered, renamed, added, moved, split, or removed, update every reader-facing Mermaid chart that lists it so numbers, titles, and bullets match the current headings. | Manual (see **Chart sync on renumbering (VIS-CHART-SYNC-03)**) |
 | VIS-CHART-ORIENT-04 | Mermaid flowcharts flow top to bottom (`flowchart TB`); a left-to-right, right-to-left, or bottom-up chart needs a stated exception. | Manual (see **Chart orientation standard** below) |
+| VIS-CHART-CENTER-05 | Mermaid flowcharts keep boxes horizontally centered on one another: a node sits centered under its parent, or under the midpoint of its parents; a node that fans out to a row of siblings is centered over the row; a node that the row converges on is centered under it. Exceptions need a stated reason. | Manual (see **Chart centering standard** below) |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | LINK-OFF-CORPUS-15 | Link destinations stay in-repository in binding text; no machine-local targets anywhere | `make external-link-audit` (inventory: `make external-link-audit-report`) |
@@ -215,12 +216,41 @@ A chart that is merely easier to draw another way is not an exception.
 - Put the band in a `subgraph` and give it `direction LR`.
 - Link a band to the next band (`V --> L`), not to a node inside it. A link from an outside node to an inner node makes Mermaid ignore the band's `direction`.
 - Use an invisible link (`a ~~~ b ~~~ c`) to force nodes into one row when the renderer wraps them.
+- To center a node when a long link pulls the layout to one side, see **Chart centering standard (VIS-CHART-CENTER-05)** below.
 
-**Scope.** This standard covers flowcharts, the only Mermaid type the corpus uses. It sits beside **VIS-CHART-READABILITY-01** (title and content spacing) and **VIS-CHART-THEME-02** (unfilled nodes, white labels, palette outlines); a chart meets all three.
+**Scope.** This standard covers flowcharts, the only Mermaid type the corpus uses. It sits beside **VIS-CHART-READABILITY-01** (title and content spacing) and **VIS-CHART-THEME-02** (unfilled nodes, white labels, palette outlines), and **VIS-CHART-CENTER-05** (horizontal centering); a chart meets all four.
 
 **Check.** Manual. `grep -rn -E '^\s*flowchart (LR|RL|BT)' --include='*.md' .` lists charts that need an exception or a change.
 
 **Existing charts.** On 2026-09-30, outside `translations/`, `archive/`, `evidence/`, `evaluation/`, and the generated site, the corpus held 41 `TB`, 1 `TD`, and 7 `LR` flowcharts. Two of the `LR` charts were this document's own example and the process-system-institution diagrams, both since converted. The other five (`project/VISION.md`, `guides/RECORD_OVERVIEW.md`, `CONTRIBUTING.md`, `implementation/PROCESS_PIPELINES_READER.md`, and the generated print pack) convert when next edited, in the same pass as any **VIS-CHART-SYNC-03** update, unless an exception is recorded. No bulk conversion: it would touch binding `core_*` files and every translation copy.
+
+### Chart centering standard (VIS-CHART-CENTER-05)
+
+Boxes in a Mermaid chart are **horizontally centered on one another**. A chart that reads as symmetric about a vertical axis is easier to scan, and it shows the structure: a box off to one side looks like it belongs to a different branch.
+
+- **Single chain.** A box that follows one parent sits directly under it, and a box that leads to one child sits directly over it.
+- **Fan-out.** When a box leads to a row of siblings, it is centered over the row.
+- **Convergence.** When a row of siblings leads to one box, that box is centered under the row, and any box below it stays on the same axis.
+- **Side links.** A link that skips a level (for example a dotted "serves" link from a top box to the last box) must not drag the boxes it passes off the axis.
+
+**Why.** Mermaid's automatic layout centers a box on its parents' and children's *average* position. A single long link adds a hidden stop at every level it crosses, and that pulls the boxes toward its side.
+
+**How to fix an off-center chart.**
+
+1. Render the chart (see **Check**) and measure each box's horizontal center.
+2. Add invisible spacer nodes on the side opposite the pull and chain them with invisible links: `CAP ~~~ GL ~~~ GE ~~~ GF`. Define each spacer with a blank label (`GL["&nbsp;"]`) and style it with no fill, no outline, and a label color that matches the canvas (`style GL fill:none,stroke:none,color:#111111`).
+3. To center a box that the long link also reaches, link a spacer to it as well (`GE ~~~ FL`).
+4. Widen a spacer with extra `&nbsp;` to move the result a few pixels, then render again.
+
+Spacer nodes carry no meaning. Keep them out of the chart's caption and out of any audit of chart contents. Keep them out of the **VIS-CHART-SYNC-03** list of boxes that must match headings.
+
+**Exceptions.** A chart whose meaning comes from asymmetry (a timeline, or a main path with a short side branch) may be off-axis; say so in the caption or the sentence that introduces it. A chart that is merely harder to balance is not an exception.
+
+**Check.** Manual. Render the chart with Mermaid and confirm the centers. A small tolerance is fine (a few pixels). Do not hand-tune a chart whose automatic layout is already centered. Spacers add noise.
+
+**Reference example.** The Continuity diagram in `core_01_a_values_principles.md` (§8): the top two boxes, §12, and the Flourishing box share one axis centered between §10 and §11, and the "means toward" link runs down the right side.
+
+**Existing charts.** Apply when a chart is next edited, in the same pass as any **VIS-CHART-SYNC-03** update. No bulk conversion.
 
 ### Constitutional owner opening statement (OWNER-OPENING-01)
 
