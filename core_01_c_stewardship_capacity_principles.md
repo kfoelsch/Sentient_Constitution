@@ -773,7 +773,7 @@ Material systems should be built so that their parts, and the dependencies betwe
 - **Makes accountability attributable.** Each component has a stated function, an identifiable steward, and defined inputs and outputs, so a defect or harm can be traced to the part and the actor responsible for it.
 - **Makes transparency usable.** Reviewers can examine a component against its stated interface without reconstructing the whole system, and affected sentients can follow how their situation depends on which components, consistent with [§16.1 Distributed Understanding](#161-distributed-understanding).
 - **Reduces and bounds complexity.** Complexity that cannot be removed can be contained: partitioned into parts that can each be understood, with the connections between them kept few, explicit, and documented. This is the structural counterpart of [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden).
-- **Contains failure and preserves substitutability.** A fault in one component should not cascade through hidden couplings ([Cascading Failure](core_05_band_continuity.md#cascading-failure)), and a component that fails, degrades, or becomes captured should be repairable or replaceable at a cost others can bear, which is the design-side answer to the lock-in that [Dependency](core_05_band_continuity.md#dependency) measures.
+- **Contains failure and preserves substitutability.** A fault in one component must not cascade through hidden couplings ([Cascading Failure](core_05_band_continuity.md#cascading-failure)), and a component that fails, degrades, or becomes captured should be repairable or replaceable at a cost others can bear, which is the design-side answer to the lock-in that [Dependency](core_05_band_continuity.md#dependency) measures.
 
 **Dependency discipline.** The dependencies between components are part of the architecture, not an afterthought to it. For material systems:
 
@@ -814,7 +814,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 
 <br>
 
-*In plain terms: when in doubt, standardize. If there is no good reason to do something differently, do it the common, published way. Sameness needs no excuse; a difference does. But a standard has to be open, checkable, and changeable, and it standardizes how things are done, never what people may choose to do.*
+*In plain terms: when in doubt, standardize. If there is no good reason to do something differently, do it the common, published way. Sameness needs no excuse; a difference does. But a standard has to be open, checkable, and changeable, and it standardizes how things are done, never what sentients may choose to do.*
 
 Where a material system must treat terms, interfaces, records, procedures, criteria, or like cases, the default is the common, published form of each. This is [Standardization](core_05_band_accountability.md#standardization). A system that departs from an available common standard should be able to say why.
 

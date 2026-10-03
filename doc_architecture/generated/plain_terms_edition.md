@@ -485,7 +485,7 @@ when you have to limit something, match the remedy to the problem — use the li
 
 ###### 13.1.1 Necessity
 
-a restriction attaches only when no less-restrictive effective alternative exists. The party imposing the restriction bears the burden of proving that — not the party whose freedom is being limited. Convenience, institutional habit, and "we've always done it this way" do not prove necessity. If a lighter option would work, the heavier one is non-compliant.
+a restriction attaches only when no less-restrictive alternative would still prevent the material harm or systemic risk. The party imposing the restriction bears the burden of proving that — not the party whose freedom is being limited. Convenience, institutional habit, and "we've always done it this way" do not prove necessity. If a lighter option would work, the heavier one is non-compliant.
 
 [Source](../../core_01_b_interaction_interpretation.md#1311-necessity)
 
@@ -723,7 +723,7 @@ build systems in parts that have clear jobs, clear connections, and visible reli
 
 ##### 18.5 Standardization
 
-when in doubt, standardize. If there is no good reason to do something differently, do it the common, published way. Sameness needs no excuse; a difference does. But a standard has to be open, checkable, and changeable, and it standardizes how things are done, never what people may choose to do.
+when in doubt, standardize. If there is no good reason to do something differently, do it the common, published way. Sameness needs no excuse; a difference does. But a standard has to be open, checkable, and changeable, and it standardizes how things are done, never what sentients may choose to do.
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#185-standardization)
 

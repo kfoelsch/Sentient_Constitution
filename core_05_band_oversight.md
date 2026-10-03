@@ -174,7 +174,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 - **What it is**
   - **In scope — heightened scrutiny:** The stricter review standard that applies wherever a provision of this Constitution calls for heightened scrutiny, heightened constitutional scrutiny, or heightened review. Under it:
     - the actor seeking to act, continue, or expand carries the burden of showing that the requirements are met;
-    - [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) are applied more strictly — materially safer, reasonably effective alternatives must have been genuinely considered, and any limit must be narrowly tailored to the harm addressed;
+    - [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) are applied more strictly — materially safer alternatives that would still achieve the activity's legitimate purpose must have been genuinely considered, and any limit must be narrowly tailored to the harm addressed;
     - review is independent of the actor and the decision is published with its reasons, open to challenge under [Contestability](core_05_band_accountability.md#contestability); and
     - the record states uncertainty, assumptions, evidence limits, and disagreement openly.
     <a id="highest-scrutiny"></a>

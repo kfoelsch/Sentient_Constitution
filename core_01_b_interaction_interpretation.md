@@ -117,7 +117,7 @@ Once the tradeoff stack is satisfied, **[§13.3 Minimization of Avoidable Burden
 
 <br>
 
-*In plain terms: a restriction attaches only when no less-restrictive effective alternative exists. The party imposing the restriction bears the burden of proving that — not the party whose freedom is being limited. Convenience, institutional habit, and "we've always done it this way" do not prove necessity. If a lighter option would work, the heavier one is non-compliant.*
+*In plain terms: a restriction attaches only when no less-restrictive alternative would still prevent the material harm or systemic risk. The party imposing the restriction bears the burden of proving that — not the party whose freedom is being limited. Convenience, institutional habit, and "we've always done it this way" do not prove necessity. If a lighter option would work, the heavier one is non-compliant.*
 
 **Burden of proof.** The party imposing or maintaining a constitutional restriction bears the burden of demonstrating that no less-restrictive alternative exists that would still prevent the material harm or systemic risk under the circumstances. The party whose freedom, agency, or access is restricted does not bear the burden of proving that alternatives exist.
 
