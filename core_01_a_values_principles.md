@@ -977,11 +977,11 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 - Do not pull in [System Creation](core_05_band_participation.md#system-creation-constitutional), [Business Creation](core_05_band_participation.md#business-creation-constitutional), or the rest of this definition cluster.
 - Do not apply the anti-segmentation package of **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) just because one of those terms appears.
 
-**Scope and limits of this section.**
+**Scope and limits of this section:**
 
-- **What it does not change.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
-- **Compartments.** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
-- **Whole-system evaluations.** Must test anti-segmentation under [Chapter Eight §3.5 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
+- **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
+- **Compartments:** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
+- **Whole-system evaluations:** Must test anti-segmentation under [Chapter Eight §3.5 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
 ##### 7.2.1 Aligned Self-Organization
 <a id="721-aligned-self-organization"></a>
@@ -1040,7 +1040,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Eight §3.5.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest). Until that check is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
 
-**What this section does not change.**
+**What this section does not change:**
 
 - **§7.3** (*Dissent and Peaceful Protest*) states the Freedom principle behind the Chapter Six floor.
 - It does not narrow **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*).
