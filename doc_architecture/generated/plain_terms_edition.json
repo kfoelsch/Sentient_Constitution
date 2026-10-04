@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 911,
-  "glossed_count": 648,
+  "heading_count": 913,
+  "glossed_count": 650,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -826,7 +826,7 @@
           "title": "15. Constitutional Interpretation",
           "anchor": "15-constitutional-interpretation",
           "line": 755,
-          "gloss": "read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely strictest or most restrictive on paper. Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.",
+          "gloss": "read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely the most restrictive on paper ([Abstract Strictness](core_05_band_integrative.md#abstract-strictness)). Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.",
           "gloss_line": 781
         },
         {
@@ -879,16 +879,16 @@
           "level": 4,
           "title": "15.4 Constitutional Meaning Conflict Resolution",
           "anchor": "154-constitutional-meaning-conflict-resolution",
-          "line": 986,
+          "line": 988,
           "gloss": "when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.",
-          "gloss_line": 998
+          "gloss_line": 1001
         },
         {
           "file": "core_01_b_interaction_interpretation.md",
           "level": 5,
           "title": "15.4.1 Integrated reading",
           "anchor": "1541-integrated-reading",
-          "line": 1015,
+          "line": 1018,
           "gloss": null,
           "gloss_line": null
         },
@@ -897,7 +897,7 @@
           "level": 5,
           "title": "15.4.2 Last-resort internal hierarchy",
           "anchor": "1542-last-resort-internal-hierarchy",
-          "line": 1023,
+          "line": 1026,
           "gloss": null,
           "gloss_line": null
         },
@@ -915,9 +915,9 @@
           "level": 5,
           "title": "15.4.4 Combined satisfaction of jointly applicable incorporated obligations",
           "anchor": "1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
-          "line": 1059,
+          "line": 1058,
           "gloss": "when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.",
-          "gloss_line": 1069
+          "gloss_line": 1068
         }
       ]
     },
@@ -1666,18 +1666,18 @@
           "level": 3,
           "title": "Chapter Five compass and definition map",
           "anchor": "chapter-five-compass-and-definition-map",
-          "line": 383,
+          "line": 385,
           "gloss": "Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.",
-          "gloss_line": 397
+          "gloss_line": 399
         },
         {
           "file": "core_05__definitions_home.md",
           "level": 3,
           "title": "Measurement crosswalk (reader guidance)",
           "anchor": "measurement-crosswalk-reader-guidance",
-          "line": 415,
+          "line": 417,
           "gloss": "Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Five homes that answer it.",
-          "gloss_line": 417
+          "gloss_line": 419
         }
       ]
     },
@@ -3449,8 +3449,8 @@
     {
       "file": "core_05_band_integrative.md",
       "title": "Integrative Constitutional Definitions",
-      "heading_count": 22,
-      "glossed_count": 17,
+      "heading_count": 24,
+      "glossed_count": 19,
       "sections": [
         {
           "file": "core_05_band_integrative.md",
@@ -3553,10 +3553,28 @@
         },
         {
           "file": "core_05_band_integrative.md",
+          "level": 4,
+          "title": "Abstract Strictness",
+          "anchor": "abstract-strictness",
+          "line": 517,
+          "gloss": "abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more. The Constitution rejects it. Choosing between readings is governed by [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect).",
+          "gloss_line": 529
+        },
+        {
+          "file": "core_05_band_integrative.md",
+          "level": 4,
+          "title": "Fullest Protective Effect",
+          "anchor": "fullest-protective-effect",
+          "line": 553,
+          "gloss": "when two readings or two rules apply to the same thing, pick the one that protects sentients most when everything is taken together. Do not pick the one that only sounds harsher. This one test applies wherever the corpus chooses between readings or rules.",
+          "gloss_line": 565
+        },
+        {
+          "file": "core_05_band_integrative.md",
           "level": 3,
           "title": "Integrative: Semi-independent terms",
           "anchor": "integrative-semi-independent-terms",
-          "line": 515,
+          "line": 591,
           "gloss": null,
           "gloss_line": null
         },
@@ -3565,7 +3583,7 @@
           "level": 4,
           "title": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
           "anchor": "incentive-alignment-semi-independent",
-          "line": 520,
+          "line": 596,
           "gloss": null,
           "gloss_line": null
         },
@@ -3574,43 +3592,43 @@
           "level": 5,
           "title": "Incentive Alignment",
           "anchor": "incentive-alignment",
-          "line": 539,
+          "line": 615,
           "gloss": "rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture.",
-          "gloss_line": 555
+          "gloss_line": 631
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Incentive Alignment — baseline constitutional alignment",
           "anchor": "incentive-alignment-baseline-constitutional-alignment",
-          "line": 607,
+          "line": 683,
           "gloss": "incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.",
-          "gloss_line": 619
+          "gloss_line": 695
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
           "anchor": "incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-          "line": 637,
+          "line": 713,
           "gloss": "check incentives under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.",
-          "gloss_line": 649
+          "gloss_line": 725
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
           "anchor": "incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-          "line": 671,
+          "line": 747,
           "gloss": "bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.",
-          "gloss_line": 684
+          "gloss_line": 760
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 3,
           "title": "Integrative: Dependent clusters",
           "anchor": "integrative-dependent-clusters",
-          "line": 719,
+          "line": 795,
           "gloss": null,
           "gloss_line": null
         },
@@ -3619,36 +3637,36 @@
           "level": 4,
           "title": "Def.I1 Corpus and Authority Stack",
           "anchor": "defi1",
-          "line": 724,
+          "line": 800,
           "gloss": "this cluster answers which text is binding, which source wins in a conflict, whether claimed duties can actually be checked and enforced, and — with the Preamble owner register — who owns which topic.",
-          "gloss_line": 738
+          "gloss_line": 814
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Corpus",
           "anchor": "corpus",
-          "line": 779,
+          "line": 855,
           "gloss": "the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies.",
-          "gloss_line": 793
+          "gloss_line": 869
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Authority Stack and Internal Hierarchy",
           "anchor": "authority-stack",
-          "line": 822,
+          "line": 898,
           "gloss": "first decide which source layer is speaking and whether it binds; then identify which chapter owns the topic; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it. Binding duties win within their valid scope. Other chapters may point to an owner — they must not quietly rewrite or relocate it.",
-          "gloss_line": 836
+          "gloss_line": 912
         },
         {
           "file": "core_05_band_integrative.md",
           "level": 5,
           "title": "Constitutional Constraint",
           "anchor": "constitutional-constraint",
-          "line": 922,
+          "line": 998,
           "gloss": "a constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice. Constraints come in ranked kinds: higher kinds control, and lower kinds must not narrow them.",
-          "gloss_line": 934
+          "gloss_line": 1010
         }
       ]
     },

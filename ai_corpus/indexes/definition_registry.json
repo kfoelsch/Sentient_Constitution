@@ -1,9 +1,18 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-10-03T13:23:58+00:00",
+  "generated_at": "2026-10-03T23:57:10+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 245,
+  "definition_count": 247,
   "definitions": [
+    {
+      "term": "Abstract Strictness",
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#abstract-strictness",
+      "line_start": 517,
+      "line_end": 552,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
     {
       "term": "Accessibility",
       "source_file": "core_05_band_participation.md",
@@ -123,13 +132,13 @@
       "term": "Authority Stack and Internal Hierarchy",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#authority-stack",
-      "line_start": 822,
-      "line_end": 921,
+      "line_start": 898,
+      "line_end": 997,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.I1 Corpus and Authority Stack",
         "cluster_file": "core_05_band_integrative.md",
-        "line": 762
+        "line": 838
       }
     },
     {
@@ -393,8 +402,8 @@
       "term": "Constitutional Constraint",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#constitutional-constraint",
-      "line_start": 922,
-      "line_end": 995,
+      "line_start": 998,
+      "line_end": 1071,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -500,13 +509,13 @@
       "term": "Corpus",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#corpus",
-      "line_start": 779,
-      "line_end": 821,
+      "line_start": 855,
+      "line_end": 897,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.I1 Corpus and Authority Stack",
         "cluster_file": "core_05_band_integrative.md",
-        "line": 761
+        "line": 837
       }
     },
     {
@@ -567,7 +576,7 @@
       "source_file": "core_05_band_integrative.md",
       "anchor": "#derived-information",
       "line_start": 474,
-      "line_end": 519,
+      "line_end": 516,
       "category": "semi_independent",
       "cluster_membership": null
     },
@@ -973,6 +982,15 @@
       }
     },
     {
+      "term": "Fullest Protective Effect",
+      "source_file": "core_05_band_integrative.md",
+      "anchor": "#fullest-protective-effect",
+      "line_start": 553,
+      "line_end": 595,
+      "category": "semi_independent",
+      "cluster_membership": null
+    },
+    {
       "term": "Game of Chance",
       "source_file": "core_05_band_accountability.md",
       "anchor": "#game-of-chance",
@@ -1109,8 +1127,8 @@
       "term": "Incentive Alignment",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment",
-      "line_start": 539,
-      "line_end": 606,
+      "line_start": 615,
+      "line_end": 682,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1118,8 +1136,8 @@
       "term": "Incentive Alignment — baseline constitutional alignment",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
-      "line_start": 607,
-      "line_end": 636,
+      "line_start": 683,
+      "line_end": 712,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1127,8 +1145,8 @@
       "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 671,
-      "line_end": 723,
+      "line_start": 747,
+      "line_end": 799,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1136,8 +1154,8 @@
       "term": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-      "line_start": 637,
-      "line_end": 670,
+      "line_start": 713,
+      "line_end": 746,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1145,8 +1163,8 @@
       "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
       "source_file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
-      "line_start": 520,
-      "line_end": 723,
+      "line_start": 596,
+      "line_end": 799,
       "category": "semi_independent",
       "cluster_membership": null
     },

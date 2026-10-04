@@ -77,7 +77,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 
 ## When more than one layer applies
 
-The default reading stack and combined-satisfaction rule live in [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). Stricter-wins among jointly applicable incorporated obligations lives in [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer). The shared implementation-corpus contract that **CS**, **CI**, and **CF** cite is [CJS-1.3 shared implementation-corpus preamble contract](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract).
+The default reading stack and combined-satisfaction rule live in [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). The [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) rule among jointly applicable incorporated obligations lives in [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer). The shared implementation-corpus contract that **CS**, **CI**, and **CF** cite is [CJS-1.3 shared implementation-corpus preamble contract](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract).
 
 This guide does not restate those duties.
 

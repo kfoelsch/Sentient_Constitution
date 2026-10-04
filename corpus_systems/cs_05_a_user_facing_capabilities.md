@@ -61,7 +61,7 @@ This file is the systems implementation home for **CS-5, Part A** (*User-facing 
 
 This file implements the **CS-5.1** rule that the constitution defines required capabilities and outcomes, and that specific technical implementations may evolve, provided they remain auditable. It is a catalog of surfaces, not a software list and not a second home for **CF-15** or **CJS-3.17**.
 
-Where this file is silent, Sentient Constitution Chapters Two through Five govern. Where this file and `corpus_joint_structure.md` conflict, the stricter applicable requirement governs.
+Where this file is silent, Sentient Constitution Chapters Two through Five govern. Where this file and `corpus_joint_structure.md` conflict, the applicable requirement with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) governs.
 
 <a id="cs-5-12-in-scope-catalog"></a>
 ## CS-5.12 In-scope catalog

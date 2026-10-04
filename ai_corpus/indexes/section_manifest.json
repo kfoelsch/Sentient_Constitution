@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-03T13:23:58+00:00",
+  "generated_at": "2026-10-03T23:57:09+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -503,13 +503,13 @@
       ]
     },
     "core_01_b_interaction_interpretation.md": {
-      "total_lines": 1105,
+      "total_lines": 1104,
       "sections": [
         {
           "header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
           "level": 1,
           "line_start": 2,
-          "line_end": 1105,
+          "line_end": 1104,
           "anchor": "#chapter-01-part-b-interaction-and-interpretation"
         },
         {
@@ -635,7 +635,7 @@
           "header": "15. Constitutional Interpretation",
           "level": 3,
           "line_start": 755,
-          "line_end": 1105,
+          "line_end": 1104,
           "anchor": null
         },
         {
@@ -670,27 +670,27 @@
           "header": "15.3 Ambiguity resolution",
           "level": 4,
           "line_start": 963,
-          "line_end": 985,
+          "line_end": 987,
           "anchor": "#153-ambiguity-resolution"
         },
         {
           "header": "15.4 Constitutional Meaning Conflict Resolution",
           "level": 4,
-          "line_start": 986,
-          "line_end": 1105,
+          "line_start": 988,
+          "line_end": 1104,
           "anchor": "#154-constitutional-meaning-conflict-resolution"
         },
         {
           "header": "15.4.1 Integrated reading",
           "level": 5,
-          "line_start": 1015,
-          "line_end": 1022,
+          "line_start": 1018,
+          "line_end": 1025,
           "anchor": "#1541-integrated-reading"
         },
         {
           "header": "15.4.2 Last-resort internal hierarchy",
           "level": 5,
-          "line_start": 1023,
+          "line_start": 1026,
           "line_end": 1037,
           "anchor": "#1542-last-resort-internal-hierarchy"
         },
@@ -698,14 +698,14 @@
           "header": "15.4.3 Incorporation layer",
           "level": 5,
           "line_start": 1038,
-          "line_end": 1058,
+          "line_end": 1057,
           "anchor": "#1543-incorporation-layer"
         },
         {
           "header": "15.4.4 Combined satisfaction of jointly applicable incorporated obligations",
           "level": 5,
-          "line_start": 1059,
-          "line_end": 1105,
+          "line_start": 1058,
+          "line_end": 1104,
           "anchor": "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"
         }
       ]
@@ -1221,13 +1221,13 @@
       ]
     },
     "core_05__definitions_home.md": {
-      "total_lines": 448,
+      "total_lines": 450,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 448,
+          "line_end": 450,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -1276,35 +1276,35 @@
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
           "line_start": 88,
-          "line_end": 382,
+          "line_end": 384,
           "anchor": "#chapter-five-alphabetical-directory"
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
           "line_start": 108,
-          "line_end": 358,
+          "line_end": 360,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 359,
-          "line_end": 382,
+          "line_start": 361,
+          "line_end": 384,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 383,
-          "line_end": 414,
+          "line_start": 385,
+          "line_end": 416,
           "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 415,
-          "line_end": 448,
+          "line_start": 417,
+          "line_end": 450,
           "anchor": null
         }
       ]
@@ -2673,20 +2673,20 @@
       ]
     },
     "core_05_band_integrative.md": {
-      "total_lines": 995,
+      "total_lines": 1071,
       "sections": [
         {
           "header": "Integrative Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 995,
+          "line_end": 1071,
           "anchor": null
         },
         {
           "header": "Integrative: Independent terms",
           "level": 3,
           "line_start": 39,
-          "line_end": 514,
+          "line_end": 590,
           "anchor": "#non-compliance"
         },
         {
@@ -2749,84 +2749,98 @@
           "header": "Derived Information",
           "level": 4,
           "line_start": 474,
-          "line_end": 514,
+          "line_end": 516,
           "anchor": "#derived-information"
+        },
+        {
+          "header": "Abstract Strictness",
+          "level": 4,
+          "line_start": 517,
+          "line_end": 552,
+          "anchor": "#abstract-strictness"
+        },
+        {
+          "header": "Fullest Protective Effect",
+          "level": 4,
+          "line_start": 553,
+          "line_end": 590,
+          "anchor": "#fullest-protective-effect"
         },
         {
           "header": "Integrative: Semi-independent terms",
           "level": 3,
-          "line_start": 515,
-          "line_end": 718,
-          "anchor": "#derived-information-c"
+          "line_start": 591,
+          "line_end": 794,
+          "anchor": "#fullest-protective-effect-c"
         },
         {
           "header": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
           "level": 4,
-          "line_start": 520,
-          "line_end": 718,
+          "line_start": 596,
+          "line_end": 794,
           "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement"
         },
         {
           "header": "Incentive Alignment",
           "level": 5,
-          "line_start": 539,
-          "line_end": 606,
+          "line_start": 615,
+          "line_end": 682,
           "anchor": "#incentive-alignment"
         },
         {
           "header": "Incentive Alignment — baseline constitutional alignment",
           "level": 5,
-          "line_start": 607,
-          "line_end": 636,
+          "line_start": 683,
+          "line_end": 712,
           "anchor": "#incentive-alignment-baseline-constitutional-alignment"
         },
         {
           "header": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
           "level": 5,
-          "line_start": 637,
-          "line_end": 670,
+          "line_start": 713,
+          "line_end": 746,
           "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation"
         },
         {
           "header": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
           "level": 5,
-          "line_start": 671,
-          "line_end": 718,
+          "line_start": 747,
+          "line_end": 794,
           "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "Integrative: Dependent clusters",
           "level": 3,
-          "line_start": 719,
-          "line_end": 995,
+          "line_start": 795,
+          "line_end": 1071,
           "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"
         },
         {
           "header": "Def.I1 Corpus and Authority Stack",
           "level": 4,
-          "line_start": 724,
-          "line_end": 995,
+          "line_start": 800,
+          "line_end": 1071,
           "anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster"
         },
         {
           "header": "Corpus",
           "level": 5,
-          "line_start": 779,
-          "line_end": 821,
+          "line_start": 855,
+          "line_end": 897,
           "anchor": "#corpus"
         },
         {
           "header": "Authority Stack and Internal Hierarchy",
           "level": 5,
-          "line_start": 822,
-          "line_end": 921,
+          "line_start": 898,
+          "line_end": 997,
           "anchor": "#authority-stack"
         },
         {
           "header": "Constitutional Constraint",
           "level": 5,
-          "line_start": 922,
-          "line_end": 995,
+          "line_start": 998,
+          "line_end": 1071,
           "anchor": "#constitutional-constraint"
         }
       ]

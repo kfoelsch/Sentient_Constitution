@@ -112,7 +112,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-custody-editions-and-operative-effect) (*edition pinning and custody chain*); [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) (*re-adoption path*); [Chapter Fourteen §3](core_14_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral) (*anti-evasion rule*); [Chapter One §15.4.3](core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*stricter clearly adopted baseline*).
+- Upstream: [§2](#2-custody-editions-and-operative-effect) (*edition pinning and custody chain*); [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) (*re-adoption path*); [Chapter Fourteen §3](core_14_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral) (*anti-evasion rule*); [Chapter One §15.4.3](core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*clearly adopted baseline*).
 - Downstream: [§4](#4-adoption-framing-and-scope-of-authority) (*operative effect contingent on valid adoption*).
 - Read with: [Chapters Twelve and Thirteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) (*validity restoration when operational text has drifted*).
 
@@ -139,7 +139,7 @@ This section sets out the safeguards that protect incorporated text:
   - “non-substantive refactor”; or
   - “editorial compression.”
 
-  The anti-evasion **rule** in **[Chapter Fourteen, section 3](core_14_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **stricter clearly adopted baseline** under **[Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer)** governs until the record is fixed under **Chapters Twelve and Thirteen**.
+  The anti-evasion **rule** in **[Chapter Fourteen, section 3](core_14_non_regression.md#3-anti-evasion-clause-and-constitutional-misconduct-referral)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) under **[Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer)** governs until the record is fixed under **Chapters Twelve and Thirteen**.
 
 ### 4. Adoption framing and scope of authority
 <details>

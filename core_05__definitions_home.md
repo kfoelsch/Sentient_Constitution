@@ -107,6 +107,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 #### Definitions A-Z
 
+- [Abstract Strictness](core_05_band_integrative.md#abstract-strictness)
 - [Accessibility](core_05_band_participation.md#accessibility-constitutional)
 - [Accountability](core_05_apex_accountability_leg.md#accountability)
 - [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional)
@@ -199,6 +200,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical)
 - [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)
 - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency)
+- [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect)
 - [Game of Chance](core_05_band_accountability.md#game-of-chance)
 - [Gate](core_05_band_oversight.md#gate)
 - [Gate Criteria](core_05_band_oversight.md#gate-criteria)

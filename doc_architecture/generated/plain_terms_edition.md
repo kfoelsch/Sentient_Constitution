@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **648** of **911** headings carry a gloss (71%).
+Coverage: **650** of **913** headings carry a gloss (71%).
 
 ## Contents
 
@@ -26,7 +26,7 @@ Coverage: **648** of **911** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (75/87 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/84 glossed)
-- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (17/22 glossed)
+- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (19/24 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
@@ -575,7 +575,7 @@ no single value in this chapter is a trump card — and neither **Flourishing** 
 
 #### 15. Constitutional Interpretation
 
-read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely strictest or most restrictive on paper. Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.
+read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely the most restrictive on paper ([Abstract Strictness](../../core_05_band_integrative.md#abstract-strictness)). Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.
 
 [Source](../../core_01_b_interaction_interpretation.md#15-constitutional-interpretation)
 
@@ -2229,7 +2229,7 @@ when automation or generative systems take work away from sentients at populatio
 
 ## Integrative Constitutional Definitions
 
-Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 17/22 headings glossed
+Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 19/24 headings glossed
 
 #### Integrative: Independent terms
 
@@ -2290,6 +2290,18 @@ a Collision Record is the written account of how one material Constitutional Col
 derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information. It is treated by what it reveals, not by how harmless its inputs looked. Pieces that add up to something sensitive are sensitive, and a "de-identified" or "aggregate" label does not change that while the output can still be traced back to a sentient or used to reconstruct something protected.
 
 [Source](../../core_05_band_integrative.md#derived-information)
+
+##### Abstract Strictness
+
+abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more. The Constitution rejects it. Choosing between readings is governed by [Fullest Protective Effect](../../core_05_band_integrative.md#fullest-protective-effect).
+
+[Source](../../core_05_band_integrative.md#abstract-strictness)
+
+##### Fullest Protective Effect
+
+when two readings or two rules apply to the same thing, pick the one that protects sentients most when everything is taken together. Do not pick the one that only sounds harsher. This one test applies wherever the corpus chooses between readings or rules.
+
+[Source](../../core_05_band_integrative.md#fullest-protective-effect)
 
 #### Integrative: Semi-independent terms
 

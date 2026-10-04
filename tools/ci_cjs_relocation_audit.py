@@ -117,7 +117,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
             "interface",
             "routing",
             "read with",
-            "stricter-wins",
+            "stricter-wins", "fullest protective effect",
             "coordination",
             "escalation",
             "shared",
@@ -130,7 +130,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
 RELOCATION_SIGNALS: tuple[tuple[str, tuple[str, ...], int], ...] = (
     ("joint-interface", ("joint", "cross-implementation", "cross-domain", "shared", "interlock"), 3),
     ("multi-owner-routing", ("corpus_systems.md", "corpus_forum.md", " cjs-", " cs ", " cf "), 3),
-    ("routing-read-with", ("read with", "routing", "interface", "stricter-wins", "owner", "stable id"), 2),
+    ("routing-read-with", ("read with", "routing", "interface", "stricter-wins", "fullest protective effect", "owner", "stable id"), 2),
     ("cjs-cluster", ("cjs-5a", "cjs-5b", "cjs-5c", "cjs-5d", "cjs-5e", "operational cluster"), 3),
     ("shared-procedure", ("burden", "constraint", "procedure", "procedural", "verification", "audit"), 1),
     ("dependency-failure", ("dependency", "exit", "lifecycle", "failure", "intervention", "robustness"), 1),

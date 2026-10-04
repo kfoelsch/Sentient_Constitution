@@ -91,7 +91,7 @@ If a matter triggers more than one cross-layer topic, apply **every** triggered 
 
 **When joint obligations apply**
 
-Applicability, combined satisfaction, and stricter-wins for jointly applicable incorporated obligations live in [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.1** (*Topic router*)). Domain-specific joint rules: **CJS-1.9**–**CJS-1.11**.
+Applicability, combined satisfaction, and the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.1** (*Cross-file routing*)). Domain-specific joint rules: **CJS-1.9** (*Support roles, hosting independence, and classification alignment*)–**CJS-1.11** (*Classification alignment for supervised scope*).
 
 **Topic finder**
 
@@ -214,7 +214,7 @@ Default sequential reading is wrapper → reader guide → **CJS-1** (*Scope, pu
 
 **Implementation-label citation hygiene**
 
-When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters, adopters must keep those references traceable and must not use implementation text to weaken them. Stricter-wins between adopted implementation standards on the same risk remains in [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including cross-file stricter-wins).
+When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3** (*operational cluster library*) clusters, adopters must keep those references traceable and must not use implementation text to weaken them. The [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) rule between adopted implementation standards on the same risk remains in [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>

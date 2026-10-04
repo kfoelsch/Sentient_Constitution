@@ -117,8 +117,15 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 239,
+  "term_count": 247,
   "terms": [
+    {
+      "term": "Abstract Strictness",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#abstract-strictness",
+      "plain_terms": "abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more. The Constitution rejects it. Choosing between readings is governed by [Fullest Protective Effect](../../core_05_band_integrative.md#fullest-protective-effect).",
+      "href": "../../core_05_band_integrative.md#abstract-strictness"
+    },
     {
       "term": "Accessibility",
       "file": "core_05_band_participation.md",
@@ -358,6 +365,20 @@
       "href": "../../core_05_band_participation.md#consent-sexual"
     },
     {
+      "term": "Constitutional Collision",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#constitutional-collision",
+      "plain_terms": "a collision is when two things this Constitution requires cannot both be fully done in the same act, decision, or design, so honoring one limits the other. It is not a disagreement about facts, not a conflict between texts, and not a reason to drop a requirement. A real collision goes through the Constitutional Collision Resolution Process; a tension that disappears once each requirement is read in full is not a collision.",
+      "href": "../../core_05_band_integrative.md#constitutional-collision"
+    },
+    {
+      "term": "Constitutional Collision Record",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#constitutional-collision-record",
+      "plain_terms": "a Collision Record is the written account of how one material Constitutional Collision was decided. It lets an affected party or an independent reviewer see which rule applied, what alternatives were weighed, what the evidence and uncertainty were, why this option was chosen, and when it comes back for review. It is not a second filing: the Act Record for the act that resolved the collision carries it.",
+      "href": "../../core_05_band_integrative.md#constitutional-collision-record"
+    },
+    {
       "term": "Constitutional Community",
       "file": "core_05_band_participation.md",
       "anchor": "#constitutional-community",
@@ -482,6 +503,13 @@
       "anchor": "#dependency",
       "plain_terms": "how much a sentient or system relies on another for survival, function, stability, or participation — including chains and one-way dependencies that are hard to see or hard to leave.",
       "href": "../../core_05_band_continuity.md#dependency"
+    },
+    {
+      "term": "Derived Information",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#derived-information",
+      "plain_terms": "derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information. It is treated by what it reveals, not by how harmless its inputs looked. Pieces that add up to something sensitive are sensitive, and a \"de-identified\" or \"aggregate\" label does not change that while the output can still be traced back to a sentient or used to reconstruct something protected.",
+      "href": "../../core_05_band_integrative.md#derived-information"
     },
     {
       "term": "Derived Sentient",
@@ -743,11 +771,32 @@
       "href": "../../core_05_band_participation.md#freedom-bounded-agency"
     },
     {
+      "term": "Fullest Protective Effect",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#fullest-protective-effect",
+      "plain_terms": "when two readings or two rules apply to the same thing, pick the one that protects sentients most when everything is taken together. Do not pick the one that only sounds harsher. This one test applies wherever the corpus chooses between readings or rules.",
+      "href": "../../core_05_band_integrative.md#fullest-protective-effect"
+    },
+    {
       "term": "Game of Chance",
       "file": "core_05_band_accountability.md",
       "anchor": "#game-of-chance",
       "plain_terms": "a bet or payout decided mainly by random chance — such as a draw or other random process — rather than by how an outside real-world event turns out.",
       "href": "../../core_05_band_accountability.md#game-of-chance"
+    },
+    {
+      "term": "Gate",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#gate",
+      "plain_terms": "a gate is a checkpoint in a transition. The plan stops there, and only goes on if the published tests have been met and checked. It is not a date on a calendar.",
+      "href": "../../core_05_band_oversight.md#gate"
+    },
+    {
+      "term": "Gate Criteria",
+      "file": "core_05_band_oversight.md",
+      "anchor": "#gate-criteria",
+      "plain_terms": "gate criteria are the specific tests a transition plan must publish in advance and then actually pass, with checked evidence, before it can move on. They are set before the results are known, not after.",
+      "href": "../../core_05_band_oversight.md#gate-criteria"
     },
     {
       "term": "Good Faith",
@@ -1553,6 +1602,13 @@
       "anchor": "#substrate-agnostic",
       "plain_terms": null,
       "href": "../../core_05_band_participation.md#substrate-agnostic"
+    },
+    {
+      "term": "Subversion",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#subversion",
+      "plain_terms": "subversion is attacking constitutional systems by force, coercion, or taking power that was never assigned — or by making their process and remedies unusable in practice. Disagreeing with those systems, and working openly and lawfully to change them, is not subversion.",
+      "href": "../../core_05_band_accountability.md#subversion"
     },
     {
       "term": "Surveillance Boundary",

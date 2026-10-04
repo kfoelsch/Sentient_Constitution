@@ -55,7 +55,7 @@
 
 - **When principles collide** ([§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process)): Safety and Truth come first, and every other tradeoff must preserve the Tetrad rather than weaken it to buy an easy resolution.
 - **When one value is pushed too far** ([§14 Prohibition on Absolute Override](#14-prohibition-on-absolute-override)): no value, and neither aim, may be used to hollow a leg below what material stake requires.
-- **When the Constitution is read or applied** ([§15 Constitutional Interpretation](#15-constitutional-interpretation)): relabeling, splitting, or rerouting the same act cannot avoid a requirement, and ambiguity is read toward the fullest protective effect as an integrated whole.
+- **When the Constitution is read or applied** ([§15 Constitutional Interpretation](#15-constitutional-interpretation)): relabeling, splitting, or rerouting the same act cannot avoid a requirement, and ambiguity is read toward the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect).
 
 **Where Part B carries each leg.** Each section's Trace lists every leg it engages. This table names the principal homes.
 
@@ -109,7 +109,7 @@
 Part B keeps the Tetrad intact in three situations:
 - **[Constitutional Collisions](core_05_band_integrative.md#constitutional-collision) (this section):** resolves them without weakening any leg.
 - **Overreach ([§14 Prohibition on Absolute Override](#14-prohibition-on-absolute-override)):** bars any single value, including either aim, from overriding the others or hollowing a leg below what material stake requires.
-- **Reading and application ([§15 Constitutional Interpretation](#15-constitutional-interpretation)):** bars relabeling, splitting, or rerouting the same act to avoid a requirement, and reads ambiguity toward the fullest protective effect as an integrated whole.
+- **Reading and application ([§15 Constitutional Interpretation](#15-constitutional-interpretation)):** bars relabeling, splitting, or rerouting the same act to avoid a requirement, and reads ambiguity toward the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect).
 
 Where values or constraints conflict:
 - **Precedence:** **Safety** and **Truth** take precedence where conflicts cannot be resolved without violating them.
@@ -746,7 +746,7 @@ Where incentive structures act on stewards or operators, this section reinforces
 
 *In plain terms: no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, **accountability**, or **timeliness** legs below what material stake requires.*
 
-No value defined in this chapter may be used as a universal or unbounded justification for overriding the others — including one of the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) at the expense of the other. All applications remain subject to the interaction and constraint principles above and must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) to the level [material stake](core_00_preamble.md#material-stake) requires. In particular:
+No value defined in this chapter may be used as a universal or unbounded justification for overriding the others — including one of the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) at the expense of the other. All applications remain subject to [§13.1 Core Tradeoff Principles](#131-core-tradeoff-principles), [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints), and [§13.3 Minimization of Avoidable Burden](#133-minimization-of-avoidable-burden), and must preserve the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) to the level [material stake](core_00_preamble.md#material-stake) requires. In particular:
 - wellbeing must not be used to justify disproportionate coercion or epistemic manipulation
 - safety must not be used to justify indefinite or unbounded restriction
 - trust must not be maintained through falsehood
@@ -778,7 +778,7 @@ No value defined in this chapter may be used as a universal or unbounded justifi
 
 <br>
 
-*In plain terms: read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely strictest or most restrictive on paper. Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.*
+*In plain terms: read this Constitution as one whole. Chapter One states values and limits, but those words only count when read with the definition and evidence rules in Chapters Two through Five. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely the most restrictive on paper ([Abstract Strictness](core_05_band_integrative.md#abstract-strictness)). Rights in Chapter Six may not be narrowed unless this Constitution clearly allows it.*
 
 Each principle in this chapter applies together with the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) established in [Preamble §1 The Model](core_00_preamble.md#the-model). Where a section materially engages a Tetrad leg or an aim, its Trace says which, and whether its duties scale with [material stake](core_00_preamble.md#material-stake).
 
@@ -900,7 +900,7 @@ Absence of intent does not take covered derived information outside this princip
 - Splitting a derivation across systems, actors, or time so that each step passes while the whole reveals the protected result is governed by [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
 
 This principle does not:
-- pull ordinary aggregates into scope, such as anonymous traffic totals, where they reveal nothing protected and cannot reasonably be used to re-identify or reconstruct;
+- apply to ordinary aggregates, such as anonymous traffic totals, that reveal nothing protected and cannot reasonably be used to re-identify anyone or reconstruct anything protected;
 - create, extend, or narrow any Chapter Six Rights-Floor provision; or
 - displace the data-type rules in [CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md), which apply it.
 
@@ -933,15 +933,15 @@ flowchart TB
     D["Chapter Five: definitions<br/><br/>Shared constitutional meanings"]
     V["Chapters Two–Four<br/><br/>Definition structure, integrity and verification"]
     X["Application to a real system or decision"]
-    A -->|pursued through| T
-    P -->|develops and constrains pursuit of| A
-    P -->|read together with| R
+    D -->|makes claims testable in| X
+    V -->|govern structure and testing of| D
     D -->|gives precision to terms in| P
     D -->|gives precision to terms in| R
-    V -->|govern structure and testing of| D
+    P -->|develops and constrains pursuit of| A
+    P -->|read together with| R
+    A -->|pursued through| T
     T -->|duties apply to| X
     R -->|protect affected sentients in| X
-    D -->|makes claims testable in| X
     style A fill:none,stroke:#16a34a,color:#ffffff
     style T fill:none,stroke:#2563eb,color:#ffffff
     style P fill:none,stroke:#2563eb,color:#ffffff
@@ -965,6 +965,8 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
+- [Abstract Strictness](core_05_band_integrative.md#abstract-strictness) · [O](core_05_band_integrative.md#abstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
+- [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
 - [Wellbeing](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
 - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
@@ -974,7 +976,7 @@ No interpretation of Chapter One is valid outside the definitions and evaluation
 
 <br>
 
-Where Chapter One is ambiguous, interpreters must choose the reading that best preserves two things at once: the Constitution's **fullest protective effect as an integrated whole**, and its constitutional objective of aligning shared systems with sentient wellbeing. They must not resolve ambiguity by preferring **maximal restriction** or **abstract strictness** in isolation. Where **Chapter Six** rights are implicated, interpreters must **not** resolve ambiguity by readings that **contract** those protections, except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
+Where Chapter One is ambiguous, interpreters must choose the reading that best preserves two things at once: the Constitution's [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect), and its constitutional objective of aligning shared systems with sentient wellbeing. They must not resolve ambiguity by [Abstract Strictness](core_05_band_integrative.md#abstract-strictness). Where **Chapter Six** rights are implicated, interpreters must **not** resolve ambiguity by readings that **contract** those protections, except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
 
 Where ambiguity remains after integrated reading, interpretation must also favor:
 - preservation of systemic stability
@@ -989,6 +991,7 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Corpus](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
+- [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
 - [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) · [O](core_05_band_integrative.md#authority-stack) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 
 </details>
@@ -1000,7 +1003,7 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 This subsection is the **single canonical procedure** for resolving interpretive tension from **textual and source-layer precedence**.
 - It applies:
   - within the binding constitutional source (the integrated `core_*` instrument); and
-  - at the incorporation layer for **strictest** / **stricter** incorporated text.
+  - at the incorporation layer, where incorporated texts are chosen by [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect).
 - Source-layer status is identified under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) in Chapter Five.
 - [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) supplies custody, edition pinning, and adoption framing. It does **not** restate this procedure.
 - For **Constitutional Collisions in operation** — not textual layer precedence — apply **[§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process)**.
@@ -1016,7 +1019,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
 
 Apply **[§15.2 Definitional layer and required disciplines](#152-definitional-layer-and-required-disciplines)** and **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** first:
 - **Chapters Two through Five** operate as the interpretive and evidentiary layer.
-- The **ambiguity** rule requires the fullest **protective** effect as an integrated whole and alignment with sentient wellbeing; it does **not** permit **maximal restriction** or **abstract strictness** in isolation.
+- The **ambiguity** rule requires the fullest **protective** effect as an integrated whole and alignment with sentient wellbeing; it does **not** permit [Abstract Strictness](core_05_band_integrative.md#abstract-strictness).
 - **Chapter Six** rights may not be contracted except where **Chapter One** interaction rules and applicable definitions **expressly** permit.
 
 <a id="1542-last-resort-internal-hierarchy"></a>
@@ -1029,28 +1032,24 @@ If a genuine incompatibility remains after integrated reading under **§15.4.1**
 - articles control over definitions read as independent substantive glosses
 - canonical definitions continue to govern the meaning of the terms used at each level
 
-This hierarchy is an interpretive rule of last resort and does not license:
-- abstract-strictness preferences
-- rights contraction outside expressly permitted interaction rules
-- substitution of one layer for another under ordinary operation
+This hierarchy is an interpretive rule of last resort. It applies only to a genuine incompatibility that survives integrated reading under **§15.4.1** (*Integrated reading*), and it does not let one layer stand in for another under ordinary operation. The limits in **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** and **§15.4.1** (*Integrated reading*) continue to apply. They bar [Abstract Strictness](core_05_band_integrative.md#abstract-strictness), and they bar contraction of **Chapter Six** rights outside expressly permitted **Chapter One** interaction rules.
 
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 Incorporation layer
 
 After the constitutional reading under **§15.4.1** (*Integrated reading*) and **§15.4.2** (*Last-resort internal hierarchy*), apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** (who holds the records, which edition is pinned, and how adoption is framed).
 
-When the rules below say **strictest** or **stricter**, those words have the same meaning as the **ambiguity** rule in **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)**: the **fullest protective effect as an integrated whole**, not **maximal restriction** or **abstract strictness** in isolation.
+The rules below choose among incorporated texts by [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect), the same standard the **ambiguity** rule in **[§15.3 Ambiguity resolution](#153-ambiguity-resolution)** uses. They never choose by [Abstract Strictness](core_05_band_integrative.md#abstract-strictness).
 
-- **Strictest applicable:** Apply incorporated obligations at the **strictest applicable** level consistent with that constitutional reading.
-  - **Strictest applicable** means the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation.
+- **Fullest Protective Effect among incorporated texts:** Apply incorporated obligations at the level with the Fullest Protective Effect that is consistent with that constitutional reading.
+  - That level is the incorporated **text** that preserves the **strongest protective, safety, accountability, and traceability** requirements for the same materially scoped obligation.
   - Choose among alternatives that remain coherent with the constitutional reading produced under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
-  - That is the same sense as the Constitution's **fullest protective effect as an integrated whole**.
-  - It is **not** **maximal restriction** or **abstract strictness** in isolation.
-- **Stricter clearly adopted baseline:** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable:
-  - the **stricter clearly adopted baseline** governs until validity is restored under **Chapters Twelve and Thirteen**;
-  - **Stricter clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and **anti-drift** under Chapter Seventeen);
-  - this is **not** substantive constitutional ambiguity resolution by preference for **abstract strictness**.
-- **Cross-file stricter-wins:** Where two or more adopted implementation files set different standards for the same meaningfully scoped risk, the stricter clearly adopted rule controls, consistent with **Strictest applicable** and **Stricter clearly adopted baseline** above.
+  - It is **not** [Abstract Strictness](core_05_band_integrative.md#abstract-strictness).
+- **Clearly adopted baseline:** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable:
+  - the **clearly adopted baseline** with the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) governs until validity is restored under **Chapters Twelve and Thirteen**;
+  - **Clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and **anti-drift** under Chapter Seventeen);
+  - this is **not** substantive constitutional ambiguity resolution by [Abstract Strictness](core_05_band_integrative.md#abstract-strictness).
+- **Cross-file Fullest Protective Effect:** Where two or more adopted implementation files set different standards for the same meaningfully scoped risk, the clearly adopted rule with the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) controls, consistent with the two rules above.
   - Source-layer status remains under the [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack).
   - Custody, editions, and adoption framing remain under **[Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)**.
   - The same rule applies when a cited profile and a cited implementation label seem to conflict for that risk.
@@ -1077,7 +1076,7 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
 1. **One situation, more than one file:** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
 2. **Adoption brings the joint-structure set into force:** The adopting instrument applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
 
-**Combined satisfaction.** Where more than one incorporated implementation file applies to the same facts under those triggers, compliance means meeting **all** material duties in that set. A sentient or institution cannot satisfy one file and then claim compliance while leaving another material duty undone. Where two files in that set disagree about the same meaningfully scoped risk, apply **[§15.4.3](#1543-incorporation-layer)** (*Cross-file stricter-wins*).
+**Combined satisfaction.** Where more than one incorporated implementation file applies to the same facts under those triggers, compliance means meeting **all** material duties in that set. A sentient or institution cannot satisfy one file and then claim compliance while leaving another material duty undone. Where two files in that set disagree about the same meaningfully scoped risk, apply **[§15.4.3](#1543-incorporation-layer)** (*Cross-file Fullest Protective Effect*).
 
 **Default reading stack.** Where more than one of the incorporated adopted layers — joint structure (**CJS**), systems (**CS**), institutions (**CI**), and forums (**CF**) — applies to the same facts under those triggers:
 - read in this order:
@@ -1087,7 +1086,7 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
   - then **CF** (Chapter Twelve forum-family doctrine);
 - within that order, read only what the topic routing for the facts requires;
 - editors and auditors use **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** for the authoritative row table;
-- combined satisfaction and cross-file stricter-wins still apply as stated in this subsection and **§15.4.3** (*Incorporation layer*).
+- combined satisfaction and the cross-file Fullest Protective Effect rule still apply as stated in this subsection and **§15.4.3** (*Incorporation layer*).
 
 Emergencies may narrow those duties only when the narrowing is:
 - published;

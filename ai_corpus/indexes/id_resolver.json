@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-03T13:23:59+00:00",
+  "generated_at": "2026-10-03T23:57:11+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -3274,7 +3274,7 @@
       "file": "core_05_band_integrative.md",
       "anchor": "#defi1",
       "heading": "Def.I1 Corpus and Authority Stack",
-      "line": 724,
+      "line": 800,
       "kind": "cluster"
     },
     "Def.O1": {
@@ -4024,6 +4024,13 @@
   ],
   "definitions": [
     {
+      "term": "Abstract Strictness",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#abstract-strictness",
+      "line_start": 517,
+      "line_end": 552
+    },
+    {
       "term": "Accessibility",
       "file": "core_05_band_participation.md",
       "anchor": "#accessibility-constitutional",
@@ -4104,8 +4111,8 @@
       "term": "Authority Stack and Internal Hierarchy",
       "file": "core_05_band_integrative.md",
       "anchor": "#authority-stack",
-      "line_start": 822,
-      "line_end": 921
+      "line_start": 898,
+      "line_end": 997
     },
     {
       "term": "Autonomous Coercion Tool",
@@ -4286,8 +4293,8 @@
       "term": "Constitutional Constraint",
       "file": "core_05_band_integrative.md",
       "anchor": "#constitutional-constraint",
-      "line_start": 922,
-      "line_end": 995
+      "line_start": 998,
+      "line_end": 1071
     },
     {
       "term": "Constitutional Contract Layer",
@@ -4363,8 +4370,8 @@
       "term": "Corpus",
       "file": "core_05_band_integrative.md",
       "anchor": "#corpus",
-      "line_start": 779,
-      "line_end": 821
+      "line_start": 855,
+      "line_end": 897
     },
     {
       "term": "Creative Work Attribution",
@@ -4406,7 +4413,7 @@
       "file": "core_05_band_integrative.md",
       "anchor": "#derived-information",
       "line_start": 474,
-      "line_end": 519
+      "line_end": 516
     },
     {
       "term": "Derived Sentient",
@@ -4668,6 +4675,13 @@
       "line_end": 232
     },
     {
+      "term": "Fullest Protective Effect",
+      "file": "core_05_band_integrative.md",
+      "anchor": "#fullest-protective-effect",
+      "line_start": 553,
+      "line_end": 595
+    },
+    {
       "term": "Game of Chance",
       "file": "core_05_band_accountability.md",
       "anchor": "#game-of-chance",
@@ -4762,36 +4776,36 @@
       "term": "Incentive Alignment",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment",
-      "line_start": 539,
-      "line_end": 606
+      "line_start": 615,
+      "line_end": 682
     },
     {
       "term": "Incentive Alignment — baseline constitutional alignment",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
-      "line_start": 607,
-      "line_end": 636
+      "line_start": 683,
+      "line_end": 712
     },
     {
       "term": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 671,
-      "line_end": 723
+      "line_start": 747,
+      "line_end": 799
     },
     {
       "term": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-      "line_start": 637,
-      "line_end": 670
+      "line_start": 713,
+      "line_end": 746
     },
     {
       "term": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
       "file": "core_05_band_integrative.md",
       "anchor": "#incentive-alignment-proxy-integrity-and-contingent-settlement",
-      "line_start": 520,
-      "line_end": 723
+      "line_start": 596,
+      "line_end": 799
     },
     {
       "term": "Indigenous Continuity",

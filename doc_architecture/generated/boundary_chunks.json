@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 902,
+  "chunk_count": 904,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -663,27 +663,27 @@
       "heading": "15.3 Ambiguity resolution",
       "anchor": "#153-ambiguity-resolution",
       "line_start": 963,
-      "line_end": 985
+      "line_end": 987
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "15.4 Constitutional Meaning Conflict Resolution",
       "anchor": "#154-constitutional-meaning-conflict-resolution",
-      "line_start": 986,
-      "line_end": 1014
+      "line_start": 988,
+      "line_end": 1017
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "15.4.1 Integrated reading",
       "anchor": "#1541-integrated-reading",
-      "line_start": 1015,
-      "line_end": 1022
+      "line_start": 1018,
+      "line_end": 1025
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "15.4.2 Last-resort internal hierarchy",
       "anchor": "#1542-last-resort-internal-hierarchy",
-      "line_start": 1023,
+      "line_start": 1026,
       "line_end": 1037
     },
     {
@@ -691,14 +691,14 @@
       "heading": "15.4.3 Incorporation layer",
       "anchor": "#1543-incorporation-layer",
       "line_start": 1038,
-      "line_end": 1058
+      "line_end": 1057
     },
     {
       "file": "core_01_b_interaction_interpretation.md",
       "heading": "15.4.4 Combined satisfaction of jointly applicable incorporated obligations",
       "anchor": "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
-      "line_start": 1059,
-      "line_end": 1105
+      "line_start": 1058,
+      "line_end": 1104
     },
     {
       "file": "core_01_c_stewardship_capacity_principles.md",
@@ -1244,21 +1244,21 @@
       "heading": "Chapter Five alphabetical directory (non-operative)",
       "anchor": "#chapter-five-alphabetical-directory",
       "line_start": 88,
-      "line_end": 382
+      "line_end": 384
     },
     {
       "file": "core_05__definitions_home.md",
       "heading": "Chapter Five compass and definition map",
       "anchor": "#chapter-five-compass-and-definition-map",
-      "line_start": 383,
-      "line_end": 414
+      "line_start": 385,
+      "line_end": 416
     },
     {
       "file": "core_05__definitions_home.md",
       "heading": "Measurement crosswalk (reader guidance)",
       "anchor": "#measurement-crosswalk-reader-guidance",
-      "line_start": 415,
-      "line_end": 448
+      "line_start": 417,
+      "line_end": 450
     },
     {
       "file": "core_05_apex_accountability_leg.md",
@@ -2637,84 +2637,98 @@
       "heading": "Derived Information",
       "anchor": "#derived-information",
       "line_start": 474,
-      "line_end": 514
+      "line_end": 516
+    },
+    {
+      "file": "core_05_band_integrative.md",
+      "heading": "Abstract Strictness",
+      "anchor": "#abstract-strictness",
+      "line_start": 517,
+      "line_end": 552
+    },
+    {
+      "file": "core_05_band_integrative.md",
+      "heading": "Fullest Protective Effect",
+      "anchor": "#fullest-protective-effect",
+      "line_start": 553,
+      "line_end": 590
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Integrative: Semi-independent terms",
       "anchor": "#integrative-semi-independent-terms",
-      "line_start": 515,
-      "line_end": 519
+      "line_start": 591,
+      "line_end": 595
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Incentive Alignment, Proxy Integrity, and Contingent Settlement",
       "anchor": "#incentive-alignment-semi-independent",
-      "line_start": 520,
-      "line_end": 538
+      "line_start": 596,
+      "line_end": 614
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Incentive Alignment",
       "anchor": "#incentive-alignment",
-      "line_start": 539,
-      "line_end": 606
+      "line_start": 615,
+      "line_end": 682
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Incentive Alignment — baseline constitutional alignment",
       "anchor": "#incentive-alignment-baseline-constitutional-alignment",
-      "line_start": 607,
-      "line_end": 636
+      "line_start": 683,
+      "line_end": 712
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Incentive Alignment — strategic, scaled, and adversarial evaluation",
       "anchor": "#incentive-alignment-strategic-scaled-and-adversarial-evaluation",
-      "line_start": 637,
-      "line_end": 670
+      "line_start": 713,
+      "line_end": 746
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Incentive Alignment — contingent claims, games of chance, and event-contract markets",
       "anchor": "#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets",
-      "line_start": 671,
-      "line_end": 718
+      "line_start": 747,
+      "line_end": 794
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Integrative: Dependent clusters",
       "anchor": "#integrative-dependent-clusters",
-      "line_start": 719,
-      "line_end": 723
+      "line_start": 795,
+      "line_end": 799
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Def.I1 Corpus and Authority Stack",
       "anchor": "#defi1",
-      "line_start": 724,
-      "line_end": 778
+      "line_start": 800,
+      "line_end": 854
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Corpus",
       "anchor": "#corpus",
-      "line_start": 779,
-      "line_end": 821
+      "line_start": 855,
+      "line_end": 897
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Authority Stack and Internal Hierarchy",
       "anchor": "#authority-stack",
-      "line_start": 822,
-      "line_end": 921
+      "line_start": 898,
+      "line_end": 997
     },
     {
       "file": "core_05_band_integrative.md",
       "heading": "Constitutional Constraint",
       "anchor": "#constitutional-constraint",
-      "line_start": 922,
-      "line_end": 995
+      "line_start": 998,
+      "line_end": 1071
     },
     {
       "file": "core_05_band_oversight.md",
