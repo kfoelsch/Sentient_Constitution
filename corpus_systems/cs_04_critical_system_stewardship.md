@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Stewardship](../core_05_band_continuity.md#stewardship-constitutional); [Dependency](../core_05_band_continuity.md#dependency); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); **CS-3 — System classification and handling**; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CS-4.2](#cs-4-2-classification-as-steward) (*Classification as steward*); [CS-4.3](#cs-4-3-stewardship-criticality-levels) (*Stewardship criticality levels*); [CS-4.20](#cs-4-20-failure-and-reclassification) (*Failure and reclassification*); **CS-5** (*User-facing capability surfaces*); **CS-6** (*Comprehensibility and complexity stewardship*).
+- Upstream: [Stewardship](../core_05_band_continuity.md#stewardship); [Dependency](../core_05_band_continuity.md#dependency); [System Classification Record](../core_05_band_continuity.md#system-classification-record); **CS-3 — System classification and handling**; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: [CS-4.2](#cs-42-classification-as-steward) (*Classification as steward*); [CS-4.3](#cs-43-stewardship-criticality-levels) (*Stewardship criticality levels*); [CS-4.20](#cs-420-failure-and-reclassification) (*Failure and reclassification*); **CS-5** (*User-facing capability surfaces*); **CS-6** (*Comprehensibility and complexity stewardship*).
 - Read with: **CS-4** (*Critical system stewardship*); **CS-3 — System classification and handling**; **CJS-3.16** (*dependency integrity and disclosure terms*); [Critical system steward](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#critical-system-steward); [Stewardship role](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#stewardship-role); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*); **CJS-3.23** (*Integrative: intervention and override integrity terms*).
 
 </details>
@@ -23,9 +23,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Stewardship](../core_05_band_continuity.md#stewardship-constitutional) · [O](../core_05_band_continuity.md#stewardship-constitutional) · [M](../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../core_05_band_continuity.md#stewardship-constitutional-c)
+- [Stewardship](../core_05_band_continuity.md#stewardship) · [O](../core_05_band_continuity.md#stewardship) · [M](../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../core_05_band_continuity.md#stewardship-constitutional-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
-- [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) · [O](../core_05_band_continuity.md#system-classification-record-constitutional) · [M](../core_05_band_continuity.md#system-classification-record-constitutional-a) · [A](../core_05_band_continuity.md#system-classification-record-constitutional-a) · [C](../core_05_band_continuity.md#system-classification-record-constitutional-c)
+- [System Classification Record](../core_05_band_continuity.md#system-classification-record) · [O](../core_05_band_continuity.md#system-classification-record) · [M](../core_05_band_continuity.md#system-classification-record-constitutional-a) · [A](../core_05_band_continuity.md#system-classification-record-constitutional-a) · [C](../core_05_band_continuity.md#system-classification-record-constitutional-c)
 - [Material Impact](../core_05_band_oversight.md#material-impact) · [O](../core_05_band_oversight.md#material-impact) · [M](../core_05_band_oversight.md#material-impact-a) · [A](../core_05_band_oversight.md#material-impact-a) · [C](../core_05_band_oversight.md#material-impact-c)
 - [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
@@ -45,9 +45,9 @@ This file is the systems implementation home for **CS-4** (*Critical system stew
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-3.0](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-30-role-definition-preface-and-standing-competency-bar-and-clearance-interface) (*role definition preface*); [Critical system steward](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#critical-system-steward); [Stewardship role](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#stewardship-role); [CS-3 Part A §4 dependency types (Dep-A–P)](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p); [CS-3 Part B §8 system impact classifications](cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications).
-- Downstream: [CS-4.3 Stewardship criticality levels](#cs-4-3-stewardship-criticality-levels); [CS-4.13 Relationship to system classes](#cs-4-13-relationship-to-system-classes).
-- Read with: **CS-4.2** (*Classification as steward*); [CS-3.5](cs_03_a_system_classification_machinery.md#cs-3-5-boundaries-timeframes-and-resilience) (*boundaries, timeframes, and resilience*); **CJS-3.16** (*dependency integrity and disclosure terms*); [CS-D03](cs_00_registry_and_reading_rules.md#domain-topic-owner-map-cs-d) (*Critical system stewardship tiers*).
+- Upstream: [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-3.0](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-30-role-definition-preface-and-standing-competency-bar-and-clearance-interface) (*role definition preface*); [Critical system steward](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#critical-system-steward); [Stewardship role](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#stewardship-role); [CS-3 Part A §4 dependency types (Dep-A–P)](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap); [CS-3 Part B §8 system impact classifications](cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications).
+- Downstream: [CS-4.3 Stewardship criticality levels](#cs-43-stewardship-criticality-levels); [CS-4.13 Relationship to system classes](#cs-413-relationship-to-system-classes).
+- Read with: **CS-4.2** (*Classification as steward*); [CS-3.5](cs_03_a_system_classification_machinery.md#cs-35-boundaries-timeframes-and-resilience) (*boundaries, timeframes, and resilience*); **CJS-3.16** (*dependency integrity and disclosure terms*); [CS-D03](cs_00_registry_and_reading_rules.md#domain-topic-owner-map-cs-d) (*Critical system stewardship tiers*).
 
 </details>
 
@@ -55,9 +55,9 @@ This file is the systems implementation home for **CS-4** (*Critical system stew
 
 *In plain terms: Steward status follows the CS-3 (*System classification machinery*) class of what you actually run, recover, or gate. Class A or B — or a Dep-A / Dep-B dependency of one — makes you a Critical System Steward. Class C only if you have become a chokepoint. The four tests below prove that relationship; they are not a second classification scheme.*
 
-Admission meaning is the [Critical system steward](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#critical-system-steward) role. This section states the systems-layer classification tests that specialize that role. Intensity remains in [CS-4.3](#cs-4-3-stewardship-criticality-levels) (*Stewardship criticality levels*).
+Admission meaning is the [Critical system steward](../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#critical-system-steward) role. This section states the systems-layer classification tests that specialize that role. Intensity remains in [CS-4.3](#cs-43-stewardship-criticality-levels) (*Stewardship criticality levels*).
 
-Steward classification uses the affected system's [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) — **impact class** ([CS-3 Part B](cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications)) and **dependency type(s)** ([CS-3 Part A §4 dependency types (Dep-A–P)](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p)). It does **not** invent a parallel class axis. [§3 Stewardship criticality levels](#cs-4-3-stewardship-criticality-levels) sets CSS-A / CSS-B / CSS-C intensity. [§13 Relationship to system classes](#cs-4-13-relationship-to-system-classes) states ownership and chain rules.
+Steward classification uses the affected system's [System Classification Record](../core_05_band_continuity.md#system-classification-record) — **impact class** ([CS-3 Part B](cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications)) and **dependency type(s)** ([CS-3 Part A §4 dependency types (Dep-A–P)](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap)). It does **not** invent a parallel class axis. [§3 Stewardship criticality levels](#cs-43-stewardship-criticality-levels) sets CSS-A / CSS-B / CSS-C intensity. [§13 Relationship to system classes](#cs-413-relationship-to-system-classes) states ownership and chain rules.
 
 An organization is a **Critical System Steward** where any of the following holds:
 
@@ -94,18 +94,18 @@ Stewardship must reflect dependency and system impact; it sets the **scale and i
 
 **Alternatively**, failure produces **widespread, systemic, or cross-domain** disruption **without** immediate loss of survival conditions.
 
-**CSS-C (Moderate-Criticality):** Steward of a **Class C** system or dependency that entered under [§2](#cs-4-2-classification-as-steward) (*gated Class C*), with significant coordination or dependency effects.
+**CSS-C (Moderate-Criticality):** Steward of a **Class C** system or dependency that entered under [§2](#cs-42-classification-as-steward) (*gated Class C*), with significant coordination or dependency effects.
 
 **Substitutability or recovery** remains achievable within **reasonable** timeframes.
 
-Where the same organization also affects **Class A** or **Class B**, [§4 Scaling obligations](#cs-4-4-scaling-obligations) (**highest affected class**) governs — do **not** hold CSS-C to avoid a higher tier.
+Where the same organization also affects **Class A** or **Class B**, [§4 Scaling obligations](#cs-44-scaling-obligations) (**highest affected class**) governs — do **not** hold CSS-C to avoid a higher tier.
 
 <a id="cs-4-4-scaling-obligations"></a>
 ## CS-4.4 Scaling obligations
 
 *In plain terms: Duties follow the real dependency, not the paperwork. The highest affected class governs, and a narrow contract does not buy a lighter obligation.*
 
-Entry into this category is [§2 Classification as steward](#cs-4-2-classification-as-steward). Scale with **highest affected system class (A, B, or C)**.
+Entry into this category is [§2 Classification as steward](#cs-42-classification-as-steward). Scale with **highest affected system class (A, B, or C)**.
 
 Also scale with **dependency concentration and substitutability**.
 
@@ -214,7 +214,7 @@ Use independent review for **material** conflicts on **Class B** paths.
 
 **Escalate** to independent review when internal resolution risks **credible appearance of bias** (**Article XVI-A** (*Auditability and Observable Evidence*), **CJS-3.13** (*procedural integrity and adjudication terms*)).
 
-**Cross-reference:** **Articles X, XII, XIII, XVII, XXI**, **CS-3** (*System classification machinery*) (classification challenge and System Classification Record audit), **[Integrated risk governance (Class A/B)](#cs-4-11-integrated-risk-governance-class-a-b)** (*second line* where applicable), **CJS-3.14** (*intervention governance and override-authorization terms*) and **CJS-3.23** (*intervention and override integrity terms*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.12** (*burden-of-justification and constraint terms*).
+**Cross-reference:** **Articles X, XII, XIII, XVII, XXI**, **CS-3** (*System classification machinery*) (classification challenge and System Classification Record audit), **[Integrated risk governance (Class A/B)](#cs-411-integrated-risk-governance-class-ab)** (*second line* where applicable), **CJS-3.14** (*intervention governance and override-authorization terms*) and **CJS-3.23** (*intervention and override integrity terms*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.12** (*burden-of-justification and constraint terms*).
 
 <a id="cs-4-9-continuity-transfer-and-exit-integrity"></a>
 ## CS-4.9 Continuity, transfer, and exit integrity
@@ -273,7 +273,7 @@ Maintain **competency**, **succession readiness**, and **effective oversight** p
 
 The five-element set below is the load-bearing artifact. Machine-checkable form: [`implementation/schemas/cs4_inspectable_action_log.schema.json`](../implementation/schemas/cs4_inspectable_action_log.schema.json). Validator: [`tools/cs4_inspectable_action_log_validate.py`](../tools/cs4_inspectable_action_log_validate.py). Same schema for human and AI stewards. "Did you log the set" is a mechanical question. Timestamps on the set are checked against the [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier clocks where a numeric bound applies.
 
-Published role definitions for personnel/agents exercising **Critical System Stewardship** or **material** operational authority must make reconstructable **attributable action** inspectable, and must map each role to the seat types it may hold under [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog*) — including, for every Class A or Class B system, who holds the containment, participation-terms, and release-control seats. That surface may feed or link to the applicable [Materially Binding Act Record](../core_05_band_accountability.md#materially-binding-act-record) and feeds [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) standing records. It is **not** an Act Record or a standing record and does **not** relocate official-record custody, independent verification, or standing measurement.
+Published role definitions for personnel/agents exercising **Critical System Stewardship** or **material** operational authority must make reconstructable **attributable action** inspectable, and must map each role to the seat types it may hold under [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*) — including, for every Class A or Class B system, who holds the containment, participation-terms, and release-control seats. That surface may feed or link to the applicable [Materially Binding Act Record](../core_05_band_accountability.md#materially-binding-act-record) and feeds [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) standing records. It is **not** an Act Record or a standing record and does **not** relocate official-record custody, independent verification, or standing measurement.
 
 The same surface binds human stewards, AI stewards, and other agents under [Chapter One §17.1 Shared Stewardship Standard](../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure). Adopted implementation text may add logging and capability limits. They may not swap a softer internal code for this surface. Human operators are not exempt from reconstructable recording when the costly case is a bonus, a deadline, or a cover instruction.
 
@@ -284,8 +284,8 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 - what was **decided**;
 - what was **disclosed or suppressed**;
 - which **instruction** was followed or refused;
-- **who authorized** it — naming the [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog*) seat type held and the authority it was held under, and, where a step was declined as outside the seat, the seat type it was routed to;
-- the **Contribution** and **Violation** standing records that follow ([Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)).
+- **who authorized** it — naming the [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*) seat type held and the authority it was held under, and, where a step was declined as outside the seat, the seat type it was routed to;
+- the **Contribution** and **Violation** standing records that follow ([Chapter Nine](../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement)).
 
 **Not required as a standing record:**
 
@@ -295,7 +295,7 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 
 **Residual rule.** If internals are the **only remaining attribution path** for a material action, they do **not** stay hidden. If they are not the only path, they are **not** a standing-measurement exemption.
 
-**No privacy veto.** Lawful privacy and [security-constrained observability](../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) may limit *how* internals are disclosed. They must **not** block standing measurement, [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional), [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional), or independent review of the conduct those records measure. “Model internals are private” is not a high-privilege-role exemption.
+**No privacy veto.** Lawful privacy and [security-constrained observability](../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) may limit *how* internals are disclosed. They must **not** block standing measurement, [Attributable Action](../core_05_band_accountability.md#attributable-action), [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity), or independent review of the conduct those records measure. “Model internals are private” is not a high-privilege-role exemption.
 
 **Role-scoped audit and silence.** This log follows the work of the role, not the steward as an individual — human or AI. It implements, and must not narrow, [Chapter One §17.3](../core_01_c_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward) (*Logging the Role, Not the Steward*):
 
@@ -327,9 +327,9 @@ Maintain **ongoing** proficiency as conditions evolve.
 
 *In plain terms: For the highest-impact systems: publish how much residual risk you accept, name who owns the risk picture, and keep operating, challenge, and assurance roles separate enough that challenge is credible.*
 
-For **Class A** and **Class B**, operators and **Critical System Stewards** must run integrated risk governance across the systems and dependency chains they control or materially affect. These roles protect classification honesty so the finding System Alignment Certification will verify stays honest — they are **around** the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), not extra fields inside it, and they do **not** replace forum-supervised SAC. SCR field duties stay in **[CS-3 Part A §7 classification governance, disclosure, and challenge](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)**.
+For **Class A** and **Class B**, operators and **Critical System Stewards** must run integrated risk governance across the systems and dependency chains they control or materially affect. These roles protect classification honesty so the finding System Alignment Certification will verify stays honest — they are **around** the [System Classification Record](../core_05_band_continuity.md#system-classification-record), not extra fields inside it, and they do **not** replace forum-supervised SAC. SCR field duties stay in **[CS-3 Part A §7 classification governance, disclosure, and challenge](cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge)**.
 
-This block is practical vocabulary for large-organization risk coordination. It does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards — those stay with **Chapter Five** and the CS-3 (*System classification machinery*) dimensions in **[CS-3 Part A §2 classification dimensions and real-world application](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application)**. Anti-evasion and misclassification bars remain in **[CS-3 Part A §1.3 mandatory functional classification](cs_03_a_system_classification_machinery.md#13-mandatory-functional-classification)** and **[§7.6 Correct the System Classification Record](cs_03_a_system_classification_machinery.md#76-misclassification-and-evasion)**; shared correction and default discipline remains in **[CJS-3.15](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty) (*Accountability: structural review, correction urgency, and disclosure terms*)**.
+This block is practical vocabulary for large-organization risk coordination. It does **not** redefine *Risk*, *Material*, *Dependency*, or related assessment standards — those stay with **Chapter Five** and the CS-3 (*System classification machinery*) dimensions in **[CS-3 Part A §2 classification dimensions and real-world application](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application)**. Anti-evasion and misclassification bars remain in **[CS-3 Part A §1.3 mandatory functional classification](cs_03_a_system_classification_machinery.md#13-mandatory-functional-classification)** and **[§7.6 Correct the System Classification Record](cs_03_a_system_classification_machinery.md#76-misclassification-and-evasion)**; shared correction and default discipline remains in **[CJS-3.15](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty) (*Accountability: structural review, correction urgency, and disclosure terms*)**.
 
 - **Risk appetite and tolerance** — publish clear, reviewable statements of how much leftover risk (after prevention and mitigation) the organization accepts, by level and type. Those statements must stay inside foundational requirements (**Chapter One**, **Chapter Six, Articles IV and VI through X**, and **Chapter Five** where material), and must reconcile with the System Classification Record without violating **CJS-3.11** (*distributed and proportional authority terms*), **CJS-3.7** (*quorum and participatory legitimacy terms*), or **CJS-3.12** (*burden-of-justification and constraint terms*) in **corpus_joint_structure.md**.
 - **Who owns the risk picture** — name an accountable function (or clearly split functions with non-overlapping scopes) for the full risk picture of the classified system and its material dependencies, including cross-system and cross-steward interfaces. Ownership covers identification, assessment, treatment, monitoring, and escalation, and stays **traceable** through governance changes, delegation, and subcontracting.
@@ -343,7 +343,7 @@ Failure integrity, intervention, and steward scaling co-apply through **corpus_j
 
 **Class C, L, and P** still need **proportional** risk management. They do **not** need the full three-lines model unless scale, coupling, or dependency makes similar measures warranted under ordinary classification and stewardship rules.
 
-**Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including [Integrated risk governance (Class A/B)](#cs-4-11-integrated-risk-governance-class-a-b)** second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
+**Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including [Integrated risk governance (Class A/B)](#cs-411-integrated-risk-governance-class-ab)** second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
 
 Use **independent** or **functionally independent** evaluators where **Class A/B** or **CSS-A/B** stakes require.
 
@@ -381,13 +381,13 @@ Its purpose is to preserve function, recoverability, and **Foundational Rights**
 
 *In plain terms: Steward status follows the highest class you actually affect, not who holds title. You can be a Critical System Steward without owning the system.*
 
-Steward category is **coupled to** system class **(A, B, C)** through [§2 Classification as steward](#cs-4-2-classification-as-steward) and [§3 Stewardship criticality levels](#cs-4-3-stewardship-criticality-levels). It does **not replace** system class and is **not** a second impact-class finding.
+Steward category is **coupled to** system class **(A, B, C)** through [§2 Classification as steward](#cs-42-classification-as-steward) and [§3 Stewardship criticality levels](#cs-43-stewardship-criticality-levels). It does **not replace** system class and is **not** a second impact-class finding.
 
 An organization may be a Critical System Steward if it **materially affects** continuity or integrity **whether or not it owns** the system.
 
 Assess criticality from **actual dependency and substitutability**, not ownership, contract framing, or declared scope alone. Assess across the **dependency chain** including subcontractors, maintainers, infrastructure providers.
 
-**Class L** and **Class P** remain outside this overlay unless reclassification under **CS-3** (*System classification machinery*) raises the affected system to **Class C** or higher **and** [§2 Classification as steward](#cs-4-2-classification-as-steward) is met.
+**Class L** and **Class P** remain outside this overlay unless reclassification under **CS-3** (*System classification machinery*) raises the affected system to **Class C** or higher **and** [§2 Classification as steward](#cs-42-classification-as-steward) is met.
 
 <a id="cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture"></a>
 ## CS-4.14 Private chokepoints sentients depend on (access continuity and non-capture)
@@ -409,7 +409,7 @@ Duties scale with dependency and class:
 
 **Safety, security, and abuse:** **Necessity** and **Proportionality** still allow narrow fraud, security, and abuse controls. The target is **pretextual** or **concentration-driven** denial — **not** forced service for materially harmful use. Read with **Article VI-D** (*Accessibility*), **Article XI-B** (*Expression*), **Article XI-F** (*Non-Imposition and Consent in Association*), **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), **Article XXI-D** (*Movement, Migration, Refuge, and Non-Statelessness*), **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), [**Chapter One §9.1 Productive Capacity**](../core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [**Chapter One §11 Market Structure**](../core_01_a_values_principles.md#11-market-structure), **CJS-3.17** (*interoperability, portability, and exit-integrity terms*), and **`corpus_institutions.md` CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*) (commons and mutual-aid coordination).
 
-Classification-governance disclosure, challenge, and reclassification for the dependent system remain in **[CS-3 Part A §7 classification governance, disclosure, and challenge](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge)**.
+Classification-governance disclosure, challenge, and reclassification for the dependent system remain in **[CS-3 Part A §7 classification governance, disclosure, and challenge](cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge)**.
 
 <a id="cs-4-15-core-characteristics-typical"></a>
 ## CS-4.15 Core characteristics (typical)

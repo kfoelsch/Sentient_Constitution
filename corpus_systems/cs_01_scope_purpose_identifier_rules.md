@@ -43,14 +43,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) · [O](../core_05_band_integrative.md#authority-stack) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
+- [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](../core_05_band_integrative.md#authority-stack-a) · [A](../core_05_band_integrative.md#authority-stack-a) · [C](../core_05_band_integrative.md#authority-stack-c)
 - [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance) · [O](../core_05_band_oversight.md#classification-scaled-governance) · [M](../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../core_05_band_oversight.md#classification-scaled-governance-c)
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Materiality](../core_05_band_oversight.md#materiality-determination) · [O](../core_05_band_oversight.md#materiality-determination) · [M](../core_05_band_oversight.md#materiality-determination-a) · [A](../core_05_band_oversight.md#materiality-determination-a) · [C](../core_05_band_oversight.md#materiality-determination-c)
+- [Materiality](../core_05_band_oversight.md#materiality) · [O](../core_05_band_oversight.md#materiality) · [M](../core_05_band_oversight.md#materiality-determination-a) · [A](../core_05_band_oversight.md#materiality-determination-a) · [C](../core_05_band_oversight.md#materiality-determination-c)
 - [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_participation.md#sentient-composite-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 
 </details>
 
@@ -75,7 +75,7 @@ This file is the systems implementation home for **CS-1** (*Scope, purpose, and 
 - institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
 - forum-family operational doctrine under Chapter Twelve — those belong to **CF**.
 
-**Authority stack.** This file does not create a separate authority stack. Use the constitutional [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack) in Chapter Five, read with [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) for incorporation, edition custody, and anti-drift rules. Domain owners: [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
+**Authority stack.** This file does not create a separate authority stack. Use the constitutional [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Five, read with [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) for incorporation, edition custody, and anti-drift rules. Domain owners: [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
 
 <a id="cs-10-purpose-and-role"></a>
 ## CS-1.0: Purpose and role

@@ -14,7 +14,7 @@
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad).
 - Downstream: Chapter Five measurement-family home for Constitutional Performance; **all leaf bodies** remain in the [Continuity band](core_05_band_continuity.md) (stewardship / shared-system capacity / proportionality–burden–efficiency clusters).
-- Read with: [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty-constitutional).
+- Read with: [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity), and [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty).
 
 </details>
 
@@ -36,19 +36,19 @@ This file is the home for the **Constitutional Performance** measurement family 
 
 *Chapter Five home for the Constitutional Performance measurement family. Preamble §2 (*Measurements Overview*) keeps the plain-language category question in the overview table; the family table, constitutional use, and definition routing live here.*
 
-*Materiality* ([Materiality](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
+*Materiality* ([Materiality](core_05_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|
 | [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency) | Are constitutional outcomes actually being delivered? | Prevents proxy metrics from replacing real protection |
 | [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) | Is the system wasting sentient time, effort, materials, infrastructure, or energy? | Reduces unnecessary friction |
-| [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional) | Can sentients and systems keep producing aligned outcomes? | Protects durable capability without ecological burden-shifting |
+| [Productive Capacity](core_05_band_continuity.md#productive-capacity) | Can sentients and systems keep producing aligned outcomes? | Protects durable capability without ecological burden-shifting |
 
 These cross-cutting measures ask whether systems deliver constitutional outcomes effectively, avoid pointless waste, and preserve the capacity to keep producing aligned results — instrumental to both [**Flourishing**](core_00_preamble.md#flourishing) and [**Continuity**](core_00_preamble.md#continuity).
 
-- Operative measurement tiers live on Chapter Five definition homes — see [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), and [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty-constitutional).
+- Operative measurement tiers live on Chapter Five definition homes — see [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Productive Capacity](core_05_band_continuity.md#productive-capacity), and [Burden-Reduction Duty](core_05_band_continuity.md#burden-reduction-duty).
 - Performance targets, rewards, and resource measures are valid only to the extent they remain traceable to constitutional outcomes.
-- They cannot substitute for Constitutional Efficiency, [Productive Capacity](core_05_band_continuity.md#productive-capacity-constitutional), or Rights-Floor compliance.
+- They cannot substitute for Constitutional Efficiency, [Productive Capacity](core_05_band_continuity.md#productive-capacity), or Rights-Floor compliance.
 - Read with [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) where whole-system performance is materially in scope.
 
 ---

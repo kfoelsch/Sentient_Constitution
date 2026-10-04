@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article V-B** (*Cross-System Fairness and Sustainability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#cs-9-1-purpose-and-role); [§2](#cs-9-2-principles-of-funding); [§4](#cs-9-4-dependent-systems-map); [§16](#cs-9-16-trigger-definitions).
+- Downstream: [§1](#cs-91-purpose-and-role); [§2](#cs-92-principles-of-funding); [§4](#cs-94-dependent-systems-map); [§16](#cs-916-trigger-definitions).
 - Read with: **CS-9** (*Resource allocation and funding stewardship*); **CS-8** (*Adaptive sustainability and ecosystem resilience*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
 
 </details>
@@ -23,7 +23,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction) · [O](../core_05_band_continuity.md#cross-system-extraction) · [M](../core_05_band_continuity.md#cross-system-extraction-a) · [A](../core_05_band_continuity.md#cross-system-extraction-a) · [C](../core_05_band_continuity.md#cross-system-extraction-c)
 - [Sustainability](../core_05_band_continuity.md#sustainability) · [O](../core_05_band_continuity.md#sustainability) · [M](../core_05_band_continuity.md#sustainability-a) · [A](../core_05_band_continuity.md#sustainability-a) · [C](../core_05_band_continuity.md#sustainability-c)
@@ -44,13 +44,13 @@ This file is the systems implementation home for **CS-9** (*Resource allocation 
 
 *In plain terms: what this file covers, which articles it implements, and where the boundary with CS-8 (*Adaptive sustainability and ecosystem resilience*) and Chapter Five falls.*
 
-Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
+Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
 
 **CS-8** (*Adaptive sustainability and ecosystem resilience*) governs adaptive adjustment of allocation in response to degradation and systemic risk. This file does not replace or narrow Sentient Constitution Chapters Two through Five. Where this file is silent, Sentient Constitution Chapters Two through Five govern.
 
 **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*), together with **Articles I–III and VI**, state the core obligations for transparent, ecosystem-aware resource flows, cross-system fairness, and substrate wellbeing.
 
-**What Articles I-B, V-A, and V-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article V-B** (*Cross-System Fairness and Sustainability*), what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
+**What Articles I-B, V-A, and V-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article V-B** (*Cross-System Fairness and Sustainability*), what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
 
 **CS-8** (*Adaptive sustainability and ecosystem resilience*) governs how allocation adapts when conditions change. This file specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. It is **not** a second copy of Chapter Five.
 
@@ -90,7 +90,7 @@ Funding structures must:
 - monitor and disclose funding imbalances across interconnected systems;
 - monitor and disclose potential points of systemic fragility.
 
-**Funding imbalances** must be evaluated in context, considering **the criticality of the systems involved**, including their [system class](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) where assigned.
+**Funding imbalances** must be evaluated in context, considering **the criticality of the systems involved**, including their [system class](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application) where assigned.
 
 **Evaluation** must:
 - consider the degree of dependency between systems;

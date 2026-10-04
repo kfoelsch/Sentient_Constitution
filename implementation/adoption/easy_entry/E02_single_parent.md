@@ -53,7 +53,7 @@ See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); 
 - **Today:** Someone hints that a single-parent home is already a risk. Single parent, chosen family, or non-marital care is treated as incomplete and therefore easier to override.
 - **With this Constitution:** You may form, keep, and leave family and care relationships of your choosing. A one-parent home is not itself a reason to take the child. A lasting split from a child you care for is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 
-See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
+See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation).
 
 **The child’s interests are not a spare argument for the other adult’s convenience.**
 - **Today:** “For the child” is used to move the child, change who they live with, or put another adult in charge — without asking what actually helps this child, and without asking them as far as they can show what they want.

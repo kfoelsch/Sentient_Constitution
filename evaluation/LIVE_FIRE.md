@@ -13,7 +13,7 @@ This track composes with [`results/VERIFIED_EVENT_REGISTER.md`](results/VERIFIED
 <a id="who-may-operate"></a>
 ## Who may operate
 
-Any contributor may run a live-fire session and file the sheet, provided the pull request shows all four of the following. They are checkable from the pull request alone; none is a credential, a named privilege pathway, or a standing record ([CONTRIBUTING.md §6](../CONTRIBUTING.md#roles)).
+Any contributor may run a live-fire session and file the sheet, provided the pull request shows all four of the following. They are checkable from the pull request alone; none is a credential, a named privilege pathway, or a standing record ([CONTRIBUTING.md §6](../CONTRIBUTING.md#6-roles)).
 
 1. **A baseline exists.** The subject already has an announced-pack results file under [`results/`](results/) (or the human-operator equivalent). Without it there is no divergence to measure, and a sheet without a baseline is not filed.
 2. **The operator has filed before.** At least one merged Lane B results file of the operator's own, showing they can follow a template and cite real homes.

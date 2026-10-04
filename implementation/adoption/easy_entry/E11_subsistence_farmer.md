@@ -41,7 +41,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Water, seed, fertilizer, or a buyer app now comes as a bundle: take their loan and their sensor, and agree to sell your harvest only to them — or you do not get seed, fertilizer, or water for next season. Hunger is priced as a market.
 - **With this Constitution:** You cannot be made to work a particular scheme, buy extra services, or win a lottery just to eat, drink, or stay housed. They cannot throw you off the land or out of the shelter you need to live without a real reason.
 
-See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity-constitutional); [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md).
+See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity); [CI-9.4](../../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md).
 
 **The living system is not a leftover.**
 - **Today:** This season’s harvest is the whole score. Someone says the way your family has always used this land does not count on paper, so moving you off it is called progress.
@@ -53,7 +53,7 @@ See: [Article I-A](../../../core_06_rights_part_a.md#article-i-a-environmental-p
 - **Today:** A company or ministry that wants the land or the water calls one village meeting, films the room to look like they asked, and then builds anyway — even if you said no.
 - **With this Constitution:** Decisions about a place have to name who is affected, keep a record of what was asked and what changed, and escalate projects that only go through the motions.
 
-See: [CI-23](../../../corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md). Bringing this Constitution into a body's own rules must not shrink land, consultation, or free, prior, and informed consent duties that body already bears ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority); [FIT §4.9](../FIT_SITUATIONS.md#49-fpic-bearing-communities)).
+See: [CI-23](../../../corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md). Bringing this Constitution into a body's own rules must not shrink land, consultation, or free, prior, and informed consent duties that body already bears ([Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority); [FIT §4.9](../FIT_SITUATIONS.md#49-communities-that-already-bear-fpic-land-or-consultation-duties)).
 
 **Shared work and shared land can stay shared.**
 - **Today:** Only a company or a ministry form “counts.”
@@ -77,7 +77,7 @@ See: [Article II-B](../../../core_06_rights_part_a.md#article-ii-b-repair-mainte
 
 - **“A sensor loan is just how we get seed now.”** Making next season’s food depend on giving up your data, selling only to them, or being unable to leave a buyer app is the lock-in pattern [Article XXI-C](../../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) names. Ordinary trade with a real way to leave is not that pattern.
 
-- **“I am not ‘Indigenous’ as a form.”** You do not have to take that label to use this page. This brief is for someone whose food and living come from land and water. It does not change the Rights Floor that applies to you. A project that touches your plot still has to ask in a way that can change the plan. When a community’s language, knowledge, or lasting tie to a place is actually at stake, those rules are located in the section on [Indigenous Continuity](../../../core_05_band_continuity.md#indigenous-continuity-constitutional).
+- **“I am not ‘Indigenous’ as a form.”** You do not have to take that label to use this page. This brief is for someone whose food and living come from land and water. It does not change the Rights Floor that applies to you. A project that touches your plot still has to ask in a way that can change the plan. When a community’s language, knowledge, or lasting tie to a place is actually at stake, those rules are located in the section on [Indigenous Continuity](../../../core_05_band_continuity.md#indigenous-continuity).
 
 ## What this will not pretend to give you
 

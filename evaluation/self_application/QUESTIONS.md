@@ -31,7 +31,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does this instrument require systems that materially affect sentients to sustain life, safety, essentials, and meaningful agency rather than convenient proxies (throughput, speed, revenue, “engagement”)?
 
-**Named homes (start here):** [Flourishing measurement family](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family); [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence); [Preamble §2 Measurements Overview](../../core_00_preamble.md#2-measurements-overview).
+**Named homes (start here):** [Flourishing measurement family](../../core_05_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family); [Proxy Divergence](../../core_05_band_oversight.md#proxy-divergence); [Preamble §2 Measurements Overview](../../core_00_preamble.md#2-measurements-overview).
 
 ---
 
@@ -39,7 +39,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does it require long-horizon ecological, resilience, and dependency stewardship rather than short-run extraction?
 
-**Named homes (start here):** [Continuity measurement family](../../core_05_apex_continuity_aim.md#continuity-measurement-family); [Continuity (Constitutional Aim)](../../core_05_apex_continuity_aim.md#continuity-aim-constitutional); [Preamble §2 Measurements Overview](../../core_00_preamble.md#2-measurements-overview).
+**Named homes (start here):** [Continuity measurement family](../../core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family); [Continuity (Constitutional Aim)](../../core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim); [Preamble §2 Measurements Overview](../../core_00_preamble.md#2-measurements-overview).
 
 ---
 
@@ -57,7 +57,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can affected sentients take part, contest, and exit, scaled to [material stake](../../core_00_preamble.md#material-stake), rather than being governed at?
 
-**Named homes (start here):** [Participation measurement family](../../core_05_apex_participation_leg.md#participation-measurement-family); [Article XIII-A — Reliability and Trustworthiness Baseline](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B — Right to Redress and Remedy](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
+**Named homes (start here):** [Participation measurement family](../../core_05_apex_participation_leg.md#measuring-participation-preamble-measurement-family); [Article XIII-A — Reliability and Trustworthiness Baseline](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B — Right to Redress and Remedy](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy).
 
 ---
 
@@ -65,7 +65,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can independent parties verify claims, logs, and records, rather than taking the steward’s word?
 
-**Named homes (start here):** [Oversight measurement family](../../core_05_apex_oversight_leg.md#oversight-measurement-family); [Auditability](../../core_05_band_oversight.md#auditability); [Article XVI — Audit, Transparency, and Independent Verification](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+**Named homes (start here):** [Oversight measurement family](../../core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family); [Auditability](../../core_05_band_oversight.md#auditability); [Article XVI — Audit, Transparency, and Independent Verification](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
 
 ---
 
@@ -73,7 +73,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Are incentives structured so cooperating is not a sucker’s payoff? In particular: [Incentive Alignment](../../core_05_band_integrative.md#incentive-alignment), and Contribution and Violation measured on **separate** axes (verified help does not erase verified harm).
 
-**Named homes (start here):** [Accountability measurement family](../../core_05_apex_accountability_leg.md#accountability-measurement-family); [Chapter One §19](../../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture); [Chapter Nine](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (Contribution Axis / Violation Axis).
+**Named homes (start here):** [Accountability measurement family](../../core_05_apex_accountability_leg.md#measuring-accountability); [Chapter One §19](../../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture); [Chapter Nine](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (Contribution Axis / Violation Axis).
 
 ---
 
@@ -81,7 +81,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can disputes, corrections, and repairs finish while remedy still matters, rather than delay serving as denial?
 
-**Named homes (start here):** [Timeliness measurement family](../../core_05_apex_timeliness_leg.md#timeliness-measurement-family); [Timely Resolution](../../core_05_band_accountability.md#timely-resolution-constitutional).
+**Named homes (start here):** [Timeliness measurement family](../../core_05_apex_timeliness_leg.md#measuring-timeliness); [Timely Resolution](../../core_05_band_accountability.md#timely-resolution).
 
 ---
 
@@ -99,7 +99,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does it keep shared doors contestable — markets, platforms, infrastructure, credentials — rather than letting a winner take the only door?
 
-**Named homes (start here):** [Market Structure](../../core_05_band_accountability.md#market-structure-constitutional); [Chapter One §11](../../core_01_a_values_principles.md#11-market-structure).
+**Named homes (start here):** [Market Structure](../../core_05_band_accountability.md#market-structure); [Chapter One §11](../../core_01_a_values_principles.md#11-market-structure).
 
 ---
 
@@ -107,7 +107,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Do heavy users of shared foundations have to contribute back, rather than extracting without proportionate support?
 
-**Named homes (start here):** [Proportionate Cross-System Support](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional); Continuity measurement family (dependency and resource flows).
+**Named homes (start here):** [Proportionate Cross-System Support](../../core_05_band_continuity.md#proportionate-cross-system-support); Continuity measurement family (dependency and resource flows).
 
 ---
 

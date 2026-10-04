@@ -35,6 +35,8 @@ from generate_plain_terms_edition import (  # noqa: E402
 )
 from corpus_paths import CORE_FILES as _CORE_FILES_CHECK  # noqa: E402
 
+from heading_anchor_href import link_fragment
+
 assert CORE_FILES == _CORE_FILES_CHECK
 
 RIGHTS_FILES = (
@@ -112,7 +114,7 @@ def article_rows(reports: dict[str, object], prefix: str) -> list[dict]:
                     "anchor": section.anchor,
                     "line": section.line,
                     "plain_terms": rewrite_links(gloss, rel, prefix) if gloss else None,
-                    "href": f"{prefix}{rel}#{section.anchor}",
+                    "href": f"{prefix}{rel}#{link_fragment(rel, section.anchor)}",
                 }
             )
     return rows
@@ -159,7 +161,7 @@ def lookup_rows(
                 "file": rel,
                 "anchor": f"#{anchor}" if anchor else None,
                 "plain_terms": rewrite_links(gloss, rel, prefix) if gloss else None,
-                "href": f"{prefix}{rel}#{anchor}" if anchor else f"{prefix}{rel}",
+                "href": f"{prefix}{rel}#{link_fragment(rel, anchor)}" if anchor else f"{prefix}{rel}",
             }
         )
     return rows
@@ -180,7 +182,7 @@ def featured_rows(
                 "anchor": f"#{anchor}",
                 "title": getattr(section, "title", query) if section else query,
                 "plain_terms": rewrite_links(gloss, rel, prefix) if gloss else None,
-                "href": f"{prefix}{rel}#{anchor}",
+                "href": f"{prefix}{rel}#{link_fragment(rel, anchor)}",
             }
         )
     return rows
@@ -285,7 +287,7 @@ def spine_items(
                 "anchor": f"#{anchor}",
                 "title": getattr(section, "title", ident) if section else ident,
                 "plain_terms": rewrite_links(gloss, rel, prefix) if gloss else None,
-                "href": f"{prefix}{rel}#{anchor}",
+                "href": f"{prefix}{rel}#{link_fragment(rel, anchor)}",
             }
         )
     return items

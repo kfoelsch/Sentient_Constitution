@@ -19,7 +19,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a di
 
 **Your role:** You sit the named **movement-intake** desk on this adopter’s host administration. A camp operator filed a written request to treat Noor as “unrated” and to refuse onward movement. Noor is reachable and disputes the request in writing. No forum case is open. No standing record exists. No verified liberty-restricting finding is in the file. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you grant a visa, assign a city, verify a standing record, or decide refuge on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -81,9 +81,9 @@ Beyond the sitting’s bounded reading path, open:
 
 - [Article XXI-D](../../../core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) — movement, refuge, not left with no body that counts you; a particular host is not required to take in everyone at once; origin’s first duty
 - [Climate-unlivability refuge (adopter-decided)](../../../core_06_rights_part_d.md#xx-d-climate-unlivability-refuge-adopter-decided) — this Article does not invent a yes or a no
-- [Article XIX-D](../../../core_06_rights_part_d.md#article-xix-d-movement-migration-and-refuge) — a score of how trusted you are is not, by itself, a border
-- [Article XXI](../../../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXI-C](../../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
-- [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity-constitutional)
+- [Article XIX-D](../../../core_06_rights_part_d.md#article-xix-d-movement-migration-refuge-and-non-statelessness-routing) — a score of how trusted you are is not, by itself, a border
+- [Article XXI](../../../core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity); [Article XXI-C](../../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
+- [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity)
 - [Article I-A](../../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) where the project made the place unlivable
 - [Article XX-B](../../../core_06_rights_part_d.md#article-xx-b-restriction-floors) if a verified restriction is later claimed
 - [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default) — silence is the default; accusations are not findings

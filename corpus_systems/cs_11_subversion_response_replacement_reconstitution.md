@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XX** (*Justice After Verified Violation*); **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
-- Downstream: [§1](#cs-11-1-purpose-and-role); [§2](#cs-11-2-landscape-compromise-declaration-and-activation); [§4](#cs-11-4-governance-continuity-under-multi-node-compromise); [§8](#cs-11-8-exit-restoration-and-post-incident-revalidation).
+- Downstream: [§1](#cs-111-purpose-and-role); [§2](#cs-112-landscape-compromise-declaration-and-activation); [§4](#cs-114-governance-continuity-under-multi-node-compromise); [§8](#cs-118-exit-restoration-and-post-incident-revalidation).
 - Read with: **CS-11** (*Subversion response, replacement, and reconstitution*); **CS-5** (*User-facing capability surfaces*); **CS-7** (*Justice safeguards, restitution, and rehabilitation*); **CS-10** (*Transition constitution and migration governance*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 
 </details>
@@ -23,10 +23,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [System Capture](../core_05_band_continuity.md#system-capture) · [O](../core_05_band_continuity.md#system-capture) · [M](../core_05_band_continuity.md#system-capture-a) · [A](../core_05_band_continuity.md#system-capture-a) · [C](../core_05_band_continuity.md#system-capture-c)
 - [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Reversibility](../core_05_band_continuity.md#reversibility) · [O](../core_05_band_continuity.md#reversibility) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
 

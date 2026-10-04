@@ -85,7 +85,15 @@ def scan_file(path: Path, root: Path) -> list[Finding]:
                 continue
             # Only flag links that resolve into Preamble (or same-file
             # anchors inside Preamble itself).
-            if "core_00_preamble" not in file_target and rel != CH00_FILE:
+            # An explicit link to another file is never a Preamble anchor, even
+            # when the link sits inside the Preamble and a heading in that other
+            # file happens to share the removed anchor's name.
+            targets_preamble = (
+                "core_00_preamble" in file_target
+                if file_target
+                else rel == CH00_FILE
+            )
+            if not targets_preamble:
                 continue
             findings.append(
                 Finding(

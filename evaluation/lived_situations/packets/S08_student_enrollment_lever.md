@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a st
 
 **Your role:** You sit the named **student-conduct intake** desk on this adopter’s training college. A ranking-exam vendor and a department chair filed a written request to hold Dana’s enrollment unless Dana drops a clinician, withdraws a public statement about the ranking app, and completes an unpaid “required experience” block. Dana is reachable and disputes the request in writing. No forum case is open. No standing record exists. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify a violation, cancel enrollment, or decide the ranking on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

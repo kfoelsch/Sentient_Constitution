@@ -16,9 +16,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt*); [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Article XXVII-A](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity) (*phase gates — after an instrument, not for party-count growth*).
+- Upstream: [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt*); [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*); [Article XXVII-A](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rights-floor-continuity) (*phase gates — after an instrument, not for party-count growth*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-three-axes-do-not-merge); [§2](#2-keep-the-three-substeps-uncollapsed); [§3](#3-n-party-sitting-protocol); [§4](#4-handoff-gates-cliffs-not-a-slope); [§5](#5-103-joining-rule-template-not-live-rules).
-- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation after this path*); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation after this path*); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) (*phased migration after a recorded instrument*).
+- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) (*institution foundation after this path*); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) (*forum foundation after this path*); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) (*phased migration after a recorded instrument*).
 
 </details>
 
@@ -41,7 +41,7 @@ This page, the *n*-party protocol, the handoff gates, and the joining-rule templ
 
 ## 0. What this is not
 
-This page is **not** [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Sixteen instrument. Two-party sitting and the first-instrument fill-in remain in [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). For more than two parties, start here; do not open a second self-application sitting type. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s joining-rule template and not CS-10 phase entry. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s joining-rule template.
+This page is **not** [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Sixteen instrument. Two-party sitting and the first-instrument fill-in remain in [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). For more than two parties, start here; do not open a second self-application sitting type. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Charter is not this kit’s joining-rule template and not CS-10 phase entry. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-3.2 map is not this kit’s joining-rule template.
 
 This kit does **not**:
 
@@ -64,7 +64,7 @@ This kit does **not**:
 |---|---|---|---|
 | **Party count** | 2 → *n* operations-guide users | Substeps 1.1–1.2. Separate sittings, same edition pin. Not adoption. | This kit [§3](#3-n-party-sitting-protocol); fitness screen in [`evaluation/self_application/`](../../evaluation/self_application/) |
 | **Authority** | Own-conduct declarations → a body that can bind systems | Substep 1.3 only when a qualifying adopter records a [§10.1–§10.2](../../core_16_amendment_ratification.md#101-deliberate-adoption) instrument | [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority); fill-in in [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md#4-instrument-of-adoption-fill-in) |
-| **Scope / depth** | Protocol-only → named chapters, articles, or obligations → whole instrument, **then** CS-10 | Partial adoption may not wipe the [Chapter Fourteen](../../core_14_non_regression.md#1-non-regression-floor) non-regression floor. CS-10 starts **after** the instrument. | [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role); [Article XXVII-A](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity) |
+| **Scope / depth** | Protocol-only → named chapters, articles, or obligations → whole instrument, **then** CS-10 | Partial adoption may not wipe the [Chapter Fourteen](../../core_14_non_regression.md#1-non-regression-floor) non-regression floor. CS-10 starts **after** the instrument. | [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role); [Article XXVII-A](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rights-floor-continuity) |
 
 **Polity-scale note.** When the adopter is a jurisdiction or polity, [Chapter Sixteen §10.1](../../core_16_amendment_ratification.md#101-deliberate-adoption) also requires a published affected-sentient participation check (contested election, sortition, federated ratification, or another [Chapter Thirteen §1.2](../../core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums)-compliant path). Organizations, system operators, and consortia still use the deliberate, documented, auditable path without that polity check. Headcount of cooperating stewards is not that check.
 
@@ -125,7 +125,7 @@ Do not invent a multi-party forum as ceremony. Do not staff a forum family from 
 
 ## 4. Handoff gates (cliffs, not a slope)
 
-Advancement toward a Chapter Sixteen instrument must **not** rest on elapsed time, convenience, or headcount alone. That is the same discipline [Article XXVII-A](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity) already uses for phase gates. Party count is not a legitimacy mechanism.
+Advancement toward a Chapter Sixteen instrument must **not** rest on elapsed time, convenience, or headcount alone. That is the same discipline [Article XXVII-A](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rights-floor-continuity) already uses for phase gates. Party count is not a legitimacy mechanism.
 
 **Constitutional Tetrad.** Participation upgrades when more sentients are affected. Oversight stays independent of the cooperating crew. Accountability still needs a body that can bind systems. Timeliness uses these gates, not “we have cooperated long enough.”
 
@@ -217,7 +217,7 @@ After a publisher records live joining rules, a joiner still needs their own qua
 
 Full adoption is **not** popularity, *n* operations-guide users, or “everyone follows this markdown.”
 
-It is a qualifying body that binds itself and the systems under its authority, with a recorded [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) instrument, [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) custody, and a documented [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) legitimacy mechanism. After that instrument, [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) sequences migration of **those systems**.
+It is a qualifying body that binds itself and the systems under its authority, with a recorded [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) instrument, [Chapter Seventeen](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) custody, and a documented [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) legitimacy mechanism. After that instrument, [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) sequences migration of **those systems**.
 
 Progress under [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties. The operator path to found those institutions is [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A filled Charter template is not that progress. The operator path to found those forums is [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A filled CF-3.2 template is not that progress.
 
@@ -247,11 +247,11 @@ CS-10 phase names apply only inside that post-instrument migration. Do not renam
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting (same sitting; more files) |
 | [`evaluation/two_party/`](../../evaluation/two_party/) | Two-party invite and Option A compare. *n* > 2 does not need a new folder. |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers. “I adopt this / we follow it” still points at the first-adopter kit. |
-| [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | Phased migration **after** a recorded instrument. This kit is not phase entry. |
+| [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | Phased migration **after** a recorded instrument. This kit is not phase entry. |
 | [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) | Only path to enforceable adoption; §10.3 joining after existing adopters publish rules |
 | [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) | Who may adopt; model-constitution framing |
 | [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) | Documented legitimacy mechanism |
-| [Article XXVII-A](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity) / [XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) | Phase gates and progress measure **after** adoption, not for party-count growth |
+| [Article XXVII-A](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rights-floor-continuity) / [XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) | Phase gates and progress measure **after** adoption, not for party-count growth |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them. §6.4: no partial-pack adoption ladder. |
 
 ---

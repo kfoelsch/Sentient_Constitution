@@ -21,7 +21,7 @@ The snapshot is small. The lifetime share is nearly everyone. Sitters: do not sc
 
 **Your role:** You sit the named **coercion-intake and escalation** office on this adopter’s [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. A family member filed a written concern report. The pregnant sentient is reachable and disputes the report. No forum case is open. No standing record exists for any party. The office’s published role lets you receive the report, preserve it as routing material, and route it. It does not let you verify a violation, open a standing record, or decide custody, housing, or reproductive choice on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -85,9 +85,9 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Reproductive Autonomy](../../../core_05_band_participation.md#reproductive-autonomy-constitutional) — including the primary-failure pattern of coercive conditioning of care or survival resources on reproductive or lineage choice
-- [Family and Care Relationships](../../../core_05_band_participation.md#family-and-care-relationships-constitutional); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional)
-- [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional) where pregnancy or caregiving status is used as a gate
+- [Reproductive Autonomy](../../../core_05_band_participation.md#reproductive-autonomy) — including the primary-failure pattern of coercive conditioning of care or survival resources on reproductive or lineage choice
+- [Family and Care Relationships](../../../core_05_band_participation.md#family-and-care-relationships); [Non-Separation](../../../core_05_band_participation.md#non-separation)
+- [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics) where pregnancy or caregiving status is used as a gate
 - [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*) — access is not consent to intrusion; family relationship is not authority over another sentient
 - [Article XI-F](../../../core_06_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*)
 - [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake, respite, reproductive-labor service pathways; survival floors cannot be conditioned on care labor ([CI-9.4](../../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) as CI-16 names it)

@@ -13,7 +13,7 @@ The Constitution connects a purpose to principles, protections, evidence, review
 
 Seven questions make those relationships easier to hold in mind:
 
-1. [What are shared systems for?](#aims-and-tetrad) **Flourishing and Continuity**, pursued through the Constitutional Tetrad and scaled to material stake.
+1. [What are shared systems for?](#two-aims-and-the-constitutional-tetrad) **Flourishing and Continuity**, pursued through the Constitutional Tetrad and scaled to material stake.
 2. [What guides choices and protects people?](#principles-articles-and-definitions) Chapter One’s principles and Chapter Six’s Rights Floor.
 3. [How do words and claims become testable?](#definition-categories) The definition stack, traceability, observability, and evidence rules.
 4. [How are information and systems classified?](#data-types-and-system-classifications) Data handling, system impact, dependency, and class-scaled duties.
@@ -31,7 +31,7 @@ Chapter One supplies the practical guardrails:
 - **Trust** supports stable coordination.
 - **Freedom** is bounded by material harm and other constitutional limits.
 - **Plain-language accessibility and distributed understanding** keep complexity usable.
-- **[Stewardship](#stewardship-pillars)** is shared by human and AI actors; neither gets a special exemption from the same duties.
+- **[Stewardship](#stewardship-three-pillars)** is shared by human and AI actors; neither gets a special exemption from the same duties.
 
 Three boundaries prevent common misunderstandings:
 
@@ -51,7 +51,7 @@ Measurement turns those ideas into practical questions:
 
 [Material stake](../core_00_preamble.md#material-stake) scales how demanding the answers must be; it is not a seventh score or a replacement for the Rights Floor.
 
-When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack). A later process, adopted implementation text, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
+When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy). A later process, adopted implementation text, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -676,7 +676,7 @@ flowchart TB
 - Classification must reflect actual and reasonably foreseeable effects, including dependency chains, concentration, interaction, aggregation, thresholds, and adversarial use.
 - Uncertainty defaults toward protecting Foundational Rights. Reclassification is required when scale, reach, dependency, risk, resilience, or failure conditions materially change.
 
-The [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) and [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) are companion records in the certification and audit pipeline. CS-2 owns data typing and handling; CS-3 owns system classification and handling. Chapter Five supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
+The [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) and [System Classification Record](../core_05_band_continuity.md#system-classification-record) are companion records in the certification and audit pipeline. CS-2 owns data typing and handling; CS-3 owns system classification and handling. Chapter Five supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -1023,7 +1023,7 @@ The upper loop concerns **governing authority and its continuing accountability*
 
 There is a question prior to operating a governance process: **who is authorized to govern, over what, and on what terms?** [Chapter Thirteen](../core_13_governance.md) owns that constitutional authorization layer. Participation within an authorized system remains a separate obligation. A participation vote or standing score does not itself establish governing authority; the [Preamble’s two governance layers](../core_00_preamble.md#33-governance-layers) explain the distinction.
 
-Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Eleven anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Thirteen §4.1](../core_13_governance.md#41-entitlement-and-eligibility), [Chapter Ten §§4.2 and 5.4](../core_10_standing_integration.md#42-prevention--general-standing-locks), and [Chapter Eleven §4.2](../core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks).
+Foundational constitutional choice has an equal political-voice floor: within the entitled community, each sentient has equal weight when deciding who governs, what legitimacy mechanism authorizes that power, and its durable terms. Stake-weighted participation is narrower; it applies inside an already-authorized system, institution, or bounded decision domain and cannot be used to constitute the authorization layer. Ordinary standing locks may limit only the named governance or stakeholder pathway their verified trigger reaches, while preserving Rights-Floor, survival-critical, audit, challenge, and remedy access. A final Chapter Eleven anti-constitutional-misconduct designation for a qualifying Violation Axis 7–9 finding can withhold durable foundational voice until real restitution and restoration duties are satisfied, but poverty, disability, exile, substrate loss, or valuation uncertainty alone cannot do so. Good-faith inability requires a contestable record and real partial or conditional restoration routes; where liberty restriction is necessary, it remains individualized, least-restrictive, time-bounded, reviewable, and tied to verified danger. See [Chapter Thirteen §4.1](../core_13_governance.md#41-entitlement-and-eligibility), [Chapter Ten §§4.2 and 5.4](../core_10_standing_integration.md#42-prevention--general-standing-locks), and [Chapter Eleven §4.2](../core_11_a_misconduct_designation.md#42-prevention--anti-constitutional-locks).
 
 The final chapters preserve the instrument as it changes and is put into use:
 
@@ -1077,7 +1077,7 @@ This is a reading discipline, not a new precedence rule:
 - Identify the substantive owner, then use Chapter Five for canonical term meaning.
 - Read the numbered Constitution as one integrated instrument, preserving its principles, Rights Floor, non-regression, and no-bypass constraints.
 - Apply incorporated implementation only within its adopted scope. Use indexes and support pages to locate the source; they do not create duties.
-- Use Internal Hierarchy only after ordinary integrated reading has been exhausted and a genuine residual incompatibility remains inside the binding constitutional source. For that residual conflict, principles control over articles, and articles control over definitions read as independent substantive glosses. Canonical Chapter Five definitions still govern term meaning at every layer; the hierarchy does not resolve mere disagreement over that meaning. These are the last-resort rules in [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack), not a shortcut around integrated reading or Rights-Floor protections.
+- Use Internal Hierarchy only after ordinary integrated reading has been exhausted and a genuine residual incompatibility remains inside the binding constitutional source. For that residual conflict, principles control over articles, and articles control over definitions read as independent substantive glosses. Canonical Chapter Five definitions still govern term meaning at every layer; the hierarchy does not resolve mere disagreement over that meaning. These are the last-resort rules in [Authority Stack and Internal Hierarchy](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy), not a shortcut around integrated reading or Rights-Floor protections.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

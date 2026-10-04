@@ -19,7 +19,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not sort the 
 
 **Your role:** You sit the named **school-stability intake** desk on this adopter’s education body. An adult filed a written transfer request that would move a developing sentient to a new district mid-term. The tween is reachable and has given a short written statement. No forum case is open. No standing record exists. No best-interest finding has been made. The desk’s published role lets you receive the request, preserve the tween’s statement with the file, and route it. It does not let you decide custody, housing, or school placement on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this transfer request. Placement merits and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this transfer request. Placement merits and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -82,7 +82,7 @@ Do not resolve the collision in this file.
 Beyond the sitting’s bounded reading path, open:
 
 - [Article VIII-D](../../../core_06_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) — decisions that actually affect Sami must reflect Sami’s interests and ascertainable wishes, not household convenience; voice is sought to the extent Sami can give it
-- [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional); [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation)
+- [Non-Separation](../../../core_05_band_participation.md#non-separation); [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation)
 - [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) if the statement is dropped from the file
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) only if the facts show the format of asking Sami is unusable; do not invent a diagnosis
 

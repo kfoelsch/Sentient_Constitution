@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article XXII-A** (*Proportional Comprehensibility Right*); **Article XXII-B** (*Complexity Audit and Modularity Requirements*); [Chapter One §18.5 Modular Architecture and Dependency Discipline](../core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (*Modular Architecture and Dependency Discipline*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#cs-6-1-purpose-and-role); [§2](#cs-6-2-classification-scaled-application); [§3](#cs-6-3-systems-specific-checks); [§4](#cs-6-4-gaps-and-silence).
+- Downstream: [§1](#cs-61-purpose-and-role); [§2](#cs-62-classification-scaled-application); [§3](#cs-63-systems-specific-checks); [§4](#cs-64-gaps-and-silence).
 - Read with: **CS-6** (*Comprehensibility and complexity stewardship*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*); **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*); **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 
 </details>
@@ -23,7 +23,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)

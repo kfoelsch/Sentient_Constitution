@@ -27,6 +27,8 @@ if str(_TOOLS) not in sys.path:
 
 from ch5_paths import CH5_ALL, CH5_INDEX as CH5_PART_A, CH5_BANDS, CH5_APEX
 
+from heading_anchor_href import normalize_href
+
 HEADING_RE = re.compile(r"^(#{4,5})\s+(.+)$")
 ANCHOR_RE = re.compile(r'<a id="([^"]+)"></a>')
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
@@ -367,9 +369,14 @@ def audit(root: Path) -> list[str]:
                 violations.append(f"{CH5_PART_A}: duplicate directory display label '{label}': {rendered}")
         violations.extend(sorted_violations(directory_rows))
 
-        expected_defs = {(entry.label, entry.href) for entry in entries}
+        # Directory rows may link a heading slug (editor-resolvable) or the stable
+        # <a id>; compare both sides by heading slug (HTML-ANCHOR-LINK-01).
+        def norm(href: str) -> str:
+            return normalize_href(root, CH5_PART_A, href)
+
+        expected_defs = {(entry.label, norm(entry.href)) for entry in entries}
         actual_defs = {
-            (row.label, row.href)
+            (row.label, norm(row.href))
             for row in directory_rows
             if row.list_name == "Definitions A-Z"
         }
@@ -379,9 +386,9 @@ def audit(root: Path) -> list[str]:
             for label, href in actual_defs
             if not href.startswith(apex_prefix)
         }
-        expected_clusters = {(cluster.label, cluster.href) for cluster in clusters}
+        expected_clusters = {(cluster.label, norm(cluster.href)) for cluster in clusters}
         actual_clusters = {
-            (row.label, row.href)
+            (row.label, norm(row.href))
             for row in directory_rows
             if row.list_name == "Clusters A-Z"
         }

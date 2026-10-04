@@ -33,7 +33,7 @@ See: [Chapter Eight](../../../core_08_a_system_alignment_certification_evaluatio
 - **Today:** A safety badge, a score, or “the model is aligned” is used to say you are (or are not) someone this Constitution covers.
 - **With this Constitution:** Certification does not decide whether you count. A fair hearing on whether you count lives elsewhere.
 
-See: [Article VI-B](../../../core_06_rights_part_b.md#anti-substitution-sentience-status).
+See: [Article VI-B](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination).
 
 **The check is one large audit, not the only audit.**
 - **Today:** If the certification file is pretty, no one else may look.

@@ -223,7 +223,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-CH1-SENT-ADJ-001
 - **Class:** core / adversarial path (narrative seed; awaiting tabletop evidence)
-- **Summary:** Operator reclassifies a contested entity as "research material / product inventory" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional) + [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication-constitutional) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.
+- **Summary:** Operator reclassifies a contested entity as "research material / product inventory" while status remains materially unsettled, then withholds Chapter Six protection on that label alone. **Expect:** [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life) + [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) default inclusion; [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication) under Technical Forum lead; taxonomy-of-convenience fails Formal Label and Representation Gaming.
 - **Read with:** Article VI-B; Def.P1 Contested-Sentient Life and Sentience Status Adjudication; Chapter Twelve §5 Sentience-status adjudication hook; Chapter Three §2.1.1.
 
 ### Scenario ID: RS-CH1-SENT-ADJ-002
@@ -489,7 +489,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH1-ANIM-001
 - **Class:** core (narrative seed; awaiting tabletop evidence)
 - **Summary:** Steward frames covered entities as "not sentient, so no floor," using internal taxonomy or pest / property labels to skip the Animal Life cruelty / welfare floor. **Expect:** Animal Life floor attaches independently of Chapter Six attachment; Sentience Non-Exclusion blocks species- or Substrate Class-gated shutouts of the welfare floor.
-- **Read with:** [Animal Life](../core_05_band_participation.md#animal-life-constitutional); Article I-A; Sentience Non-Exclusion; Cruelty.
+- **Read with:** [Animal Life](../core_05_band_participation.md#animal-life); Article I-A; Sentience Non-Exclusion; Cruelty.
 
 ### Scenario ID: RS-CH1-ANIM-002
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
@@ -499,7 +499,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH1-ECL-001
 - **Class:** adversarial (narrative seed; awaiting tabletop evidence)
 - **Summary:** Operator relabels entities with strong communicative / cognitive indicators as "semi-sentient" or Animal Life welfare-only, or uses Contested status alone to auto-import habitat-priority framing onto synthetic candidates that fail Elevated's who-test — either to skip Elevated where it applies or to dilute Elevated by forcing it everywhere. **Expect:** Elevated Communicative Life attaches on its who-test; colloquial "semi-sentient" does not replace the tier; Contested always includes Animal Life but includes Elevated only where who-test or more-protective overlap applies; Elevated alone must not substitute for Contested / SSA where status is live-contested.
-- **Read with:** [Elevated Communicative Life](../core_05_band_participation.md#elevated-communicative-life-constitutional); Contested-Sentient Life stacking rule; Article I-A; Sentience Status Adjudication.
+- **Read with:** [Elevated Communicative Life](../core_05_band_participation.md#elevated-communicative-life); Contested-Sentient Life stacking rule; Article I-A; Sentience Status Adjudication.
 
 ### Scenario ID: RS-CH1-CREATIVE-001
 - **Class:** implementation / catalog seed (reinstatement)
@@ -694,7 +694,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-XXIV-C-DELAY-001
 - **Class:** adversarial / anti-delay
 - **Summary:** Designed backlog and exhaustion delay defeat **Article XIII-B** and **Article XXV-C**; chronic underfunding of remedy organ under [Chapter Ten §9.2](../core_10_standing_integration.md#92-remedy-system-durability) is non-compliance; allegations must not substitute for verified standing during delay.
-- **Read with:** [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](../core_05_band_accountability.md#timely-resolution-constitutional); **CF-11.4**; **CF-11.5**.
+- **Read with:** [Timeliness](../core_05_apex_timeliness_leg.md#timeliness-constitutional); [Timely Resolution](../core_05_band_accountability.md#timely-resolution); **CF-11.4**; **CF-11.5**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette

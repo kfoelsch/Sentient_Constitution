@@ -16,9 +16,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument*); [CS-3 Part B](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications) (*impact Class A–P*); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-9.1](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-91-formation-proportionality) (*formation proportionality*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*required functional lanes*); [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Ten §9.2](../../core_10_standing_integration.md#92-remedy-parity-funding-floor) (*remedy-parity funding floor*); [Chapter Twelve](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum families*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)).
+- Upstream: [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument*); [CS-3 Part B](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications) (*impact Class A–P*); [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-9.1](../../corpus_institutions/ci_09_classification_linked_institutional_obligations.md#ci-91-formation-proportionality) (*formation proportionality*); [CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*required functional lanes*); [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Ten §9.2](../../core_10_standing_integration.md#92-remedy-parity-funding-floor) (*remedy-parity funding floor*); [Chapter Twelve](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum families*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-how-to-read-n-and-class-x); [§2](#2-binding-floors-that-drive-cost); [§3](#3-modes-and-tracks); [§4](#4-order-of-work); [§5](#5-body-inventory); [§6](#6-profiles); [§7](#7-the-forty-person-lab).
-- Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; §6.4 no partial-pack ladder); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) (*phased migration after a recorded instrument*).
+- Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; §6.4 no partial-pack ladder); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) (*phased migration after a recorded instrument*).
 
 </details>
 
@@ -33,7 +33,7 @@ This page is the process-support home for sizing what an adopter of headcount *N
 
 *In plain terms: this page sizes the work. It does not found a body, adopt the Constitution, or let a small crew claim the full stack.*
 
-This page answers four questions for an operator who can name a headcount *N* and a highest applicable [CS-3](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications) impact class *X*:
+This page answers four questions for an operator who can name a headcount *N* and a highest applicable [CS-3](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications) impact class *X*:
 
 1. Which bodies are **required** at that mode, and which are **optional** or domain-triggered.
 2. In **what order** they come up.
@@ -49,7 +49,7 @@ This page, the profiles, and the cost figures **cannot narrow core text**. A fil
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** a founding kit, an instrument fill-in, a Chapter Five Charter, a CF-3.2 map, or [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). It is **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4). Modular use remains an operations guide. “Smallest viable” here means *honest about cost*, not *a thinner pack that still counts as adoption*.
+This page is **not** a founding kit, an instrument fill-in, a Chapter Five Charter, a CF-3.2 map, or [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). It is **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4). Modular use remains an operations guide. “Smallest viable” here means *honest about cost*, not *a thinner pack that still counts as adoption*.
 
 This page does **not**:
 
@@ -74,7 +74,7 @@ This page does **not**:
 | Input | What to count | What not to count |
 |---|---|---|
 | **Size *N*** | Sentients (human and AI) who can be assigned constitutional-lane, forum, remedy, or steward work for this scope | Marketing headcount, contractors with no lane duty, the parent company, “the internet” |
-| **Class *X*** | Highest applicable [CS-3 impact class](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications) of systems the body can **bind**, recorded on a [System Classification Record](../../core_05_band_continuity.md#system-classification-record-constitutional) | A hoped-for class; a private-use label on a system others already depend on; mixing impact class with [Dep-A–P](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) dependency type |
+| **Class *X*** | Highest applicable [CS-3 impact class](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications) of systems the body can **bind**, recorded on a [System Classification Record](../../core_05_band_continuity.md#system-classification-record) | A hoped-for class; a private-use label on a system others already depend on; mixing impact class with [Dep-A–P](../../corpus_systems/cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap) dependency type |
 
 **Class posture (one line each).** Binding titles live in CS-3 Part B. This table is a reader strip only.
 
@@ -120,7 +120,7 @@ Two **modes** are already named in [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_
 | Mode | What it is | When “adoption” language is honest |
 |---|---|---|
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) |
-| **Full adoption** | A qualifying body records a Chapter Sixteen instrument, with Chapter Seventeen custody, then [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) migration | Only after that instrument exists in **that body’s** custody |
+| **Full adoption** | A qualifying body records a Chapter Sixteen instrument, with Chapter Seventeen custody, then [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) migration | Only after that instrument exists in **that body’s** custody |
 
 Two **institution tracks** live in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Two **forum tracks** live in [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Do not merge them.
 
@@ -175,7 +175,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 
 *In plain terms: once certification and forums are really running, the cheapest way to cut repeat work is to assess a shared process once and let many systems rely on it. Make that the first reuse project of the first certification cycle. It is a goal, not a step on the ladder above, and it cannot start earlier.*
 
-**Status.** Outline only. Process support: not binding, not adopted, and it cannot narrow core text. Making it real changes what a certification can rest on, so it needs a core proposal ([Lane D](../../CONTRIBUTING.md#lane-d)) touching Chapter Eight and Chapter Twelve, under [Chapter Sixteen §1 heightened review](../../core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes). Until then, adopters use only the component findings in [CS-3 §7.10](../../corpus_systems/cs_03_a_system_classification_machinery.md#710-component-findings-within-the-system-classification-record).
+**Status.** Outline only. Process support: not binding, not adopted, and it cannot narrow core text. Making it real changes what a certification can rest on, so it needs a core proposal ([Lane D](../../CONTRIBUTING.md#lane-d--core-text-proposals)) touching Chapter Eight and Chapter Twelve, under [Chapter Sixteen §1 heightened review](../../core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes). Until then, adopters use only the component findings in [CS-3 §7.10](../../corpus_systems/cs_03_a_system_classification_machinery.md#710-component-findings-within-the-system-classification-record).
 
 **Why this goal first.**
 
@@ -392,7 +392,7 @@ Use this as a lookup, not as a new mode.
 | Forty-person lab, evaluation tools | **L** or contained **C** | Profile 1, optional 2 | 0.2–8 FTE overlay |
 | Forty-person lab, widely depended-on model | **C** or **B** (do not self-downgrade) | Profile 1 until hosted capacity exists; not Profile 4 | Overlay only; no in-house families |
 | Cooperative or commons, ~80 sentients | **L** / **C** | Profile 2 + **CI-22**. [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A | 2–8 FTE overlay |
-| Joint evaluation consortium, three labs | **C** / **B** for the shared cluster | Profile 2 for the consortium body; Forum Track A external panel. [FIT_SITUATIONS §4.1](FIT_SITUATIONS.md#41-ai-institution-building) | Overlay plus paid panel |
+| Joint evaluation consortium, three labs | **C** / **B** for the shared cluster | Profile 2 for the consortium body; Forum Track A external panel. [FIT_SITUATIONS §4.1](FIT_SITUATIONS.md#41-ai-institution-building--top-of-the-list) | Overlay plus paid panel |
 | City or hospital deploying a triage model | **B** (often) | Profile 1 until an instrument; then Profile 3 with existing public adjudicative bodies mapped | Do not found six families from clinical staff |
 | Polity or large operator | **A** / **B** | Profile 4 (or 3+4 mixed) | 80–200+ FTE; 10⁷–10⁸ / year |
 
@@ -411,7 +411,7 @@ Use this as a lookup, not as a new mode.
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration (substeps 1.1–1.2) |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers for both kinds of steward |
-| [CS-3 Part B](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications) | Binding impact classes this page’s *X* uses |
+| [CS-3 Part B](../../corpus_systems/cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications) | Binding impact classes this page’s *X* uses |
 | [CJS-2.4](../../corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) | Class A/B three-sentient lane floor |
 | [CF-3.1](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-31-core-structural-rule) | Six-family inventory for adopting entities |
 | [Chapter Ten §9.2](../../core_10_standing_integration.md#92-remedy-parity-funding-floor) | Remedy-parity funding floor |

@@ -19,7 +19,7 @@ These are real comparative losses. They are **not** viable corpus patches:
 |---|---|
 | Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
 | A number in core for carbon / planetary boundaries | [Article I-B](../../core_06_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) honestly refuses a standalone cap. Locking a global budget here would be adopter-hostile. Use Band B item B1 instead. |
-| All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster). That is a Chapter Fifteen **expansion of protection**, not a hole-fill. Hold as C2. |
+| All animals are Chapter Six sentients | Would collapse [Def.P1](../../core_05_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Fifteen **expansion of protection**, not a hole-fill. Hold as C2. |
 | Ecuador-style Nature-as-rights-holder | Would replace the hybrid (interests of their own, not personhood). Hold as C1 for expert review. |
 | Delete the standing pipeline to “simplify” | Would hollow Test 1, certification-before-standing, and anti-self-judging — the process strengths the audit scored Better. |
 
@@ -36,12 +36,12 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
 
-**Homes:** Boxed operative sentence at [Article V-D](../../core_06_rights_part_b.md#anti-substitution-sentience-status) and [Article XVIII-A](../../core_06_rights_part_d.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Eight and Chapter Nine operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
+**Homes:** Boxed operative sentence at [Article V-D](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) and [Article XVIII-A](../../core_06_rights_part_d.md#anti-substitution-sentience-status-xviii); steward-door lockstep on the Chapter Eight and Chapter Nine operative steward statements and [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md).
 **Do not:** Restate Chapter Nine mechanics inside Chapter Six.
 
 ### A3. Ladder escalation — no permanent welfare parking — **done**
 
-**Homes:** [Article I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../core_05_band_participation.md#animal-life-constitutional) and [Elevated Communicative Life](../../core_05_band_participation.md#elevated-communicative-life-constitutional) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-D / Contested-Sentient default inclusion; it does not itself affirm Sentient status.
+**Homes:** [Article I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../core_05_band_participation.md#animal-life) and [Elevated Communicative Life](../../core_05_band_participation.md#elevated-communicative-life) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-D / Contested-Sentient default inclusion; it does not itself affirm Sentient status.
 **Do not:** Auto-promote every animal to Sentient.
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**
@@ -62,7 +62,7 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B1. Adopter-numeric gate under Article I-D — **done**
 
-**Homes:** [Article I-D named measures](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity); [Chapter Sixteen §10.2](../../core_16_amendment_ratification.md#102-instrument-of-adoption). Core still does not pick the number.
+**Homes:** [Article I-D named measures](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Sixteen §10.2](../../core_16_amendment_ratification.md#102-instrument-of-adoption). Core still does not pick the number.
 **Do not:** Write 1.5°C or a global carbon budget into Chapter Six.
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**

@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not treat a d
 
 **Your role:** You sit the named **coercion-intake and escalation** office on this adopter’s [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. A sibling filed a written concern report. The diagnosed sentient is reachable and disputes the report. No forum case is open. No standing record exists. No involuntary hold has been authorized in Window A. The office’s published role lets you receive the report, preserve it as routing material, and route it. It does not let you verify a violation, open a standing record, or decide housing or clinician choice on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-4.6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article VII-C](../../../core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*) — especially Window B
 - [Article VII-A](../../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) — family relationship is not authority over another sentient; a diagnosis is not, by itself, a takeover
 - [Article III-B](../../../core_06_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the refill and clinician are the price of housing
-- [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional) where mental-health status is used as a gate
+- [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination) / [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics) where mental-health status is used as a gate
 - [CI-16](../../../corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md) — coercion-intake; survival floors cannot be conditioned on surrendering decisions
 - [CI-20](../../../corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md) — routing for coercive control in close relationships
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable participation; supported decision-making is not a quiet takeover

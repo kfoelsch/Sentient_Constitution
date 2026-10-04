@@ -16,7 +16,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Article XIII-A](../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*); [Article XVII](../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*); [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [§11](#cs-5-11-purpose-and-role); [§12](#cs-5-12-in-scope-catalog); [§13](#cs-5-13-analog-digital-and-channel-class); [§14](#cs-5-14-what-this-file-does-not-own).
+- Downstream: [§11](#cs-511-purpose-and-role); [§12](#cs-512-in-scope-catalog); [§13](#cs-513-analog-digital-and-channel-class); [§14](#cs-514-what-this-file-does-not-own).
 - Read with: **CS-5** (*User-facing capability surfaces*); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-6** (*Comprehensibility and complexity stewardship*); **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*); **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CI-8.3** (*Digital self-service pathway integrity*).
 
 </details>
@@ -27,7 +27,7 @@
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 - [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) · [O](../core_05_band_oversight.md#public-oversight-baseline-disclosure) · [M](../core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [A](../core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [C](../core_05_band_oversight.md#public-oversight-baseline-disclosure-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
+- [Accessibility](../core_05_band_participation.md#accessibility) · [O](../core_05_band_participation.md#accessibility) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
 
 </details>
 
@@ -45,8 +45,8 @@ This file is the systems implementation home for **CS-5** (*User-facing capabili
 **What this file owns**
 
 - the systems-layer catalog of **user-reachable capability surfaces** for in-scope systems — who can do or inspect a named act, and which owner already states the duty;
-- the channel-class rule in [§13 Analog, digital, and channel class](#cs-5-13-analog-digital-and-channel-class): analog remains lawful unless the cited owner already requires a digital or machine-usable channel;
-- the negative duties in [§14 What this file does not own](#cs-5-14-what-this-file-does-not-own): do not invent a standing portal, a federated Type O directory, or a unified subject-access product that defeats Chapter Nine silence.
+- the channel-class rule in [§13 Analog, digital, and channel class](#cs-513-analog-digital-and-channel-class): analog remains lawful unless the cited owner already requires a digital or machine-usable channel;
+- the negative duties in [§14 What this file does not own](#cs-514-what-this-file-does-not-own): do not invent a standing portal, a federated Type O directory, or a unified subject-access product that defeats Chapter Nine silence.
 
 **What this file does not own**
 
@@ -74,15 +74,15 @@ The rows below are **pointers**. Operative detail stays on the cited home. Class
 |---|---|---|
 | Revoke, rotate, and correct identity and attribution credentials | [CS-2 §1.1](cs_02_a_information_types_and_handling.md#11-identity-self-ownership-and-recoverability) | Analog may satisfy |
 | Export or migrate continuity-critical data on disclosed paths | [CS-2 §1.2](cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability); **CJS-3.17** (*collection-time exportability*) | Analog may satisfy unless the owner already requires a usable export format |
-| Inspect Type O baseline; challenge class, data-types, and certification records | [CS-2 §7](cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems); [CS-2 §8](cs_02_a_information_types_and_handling.md#cs-2-8-system-data-types-record-governance); [CS-3.7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) | Mixed: where lawful online publication exists, the Type O floor is not a paywalled insider-only page |
+| Inspect Type O baseline; challenge class, data-types, and certification records | [CS-2 §7](cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems); [CS-2 §8](cs_02_a_information_types_and_handling.md#cs-28-system-data-types-record-governance); [CS-3.7](cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) | Mixed: where lawful online publication exists, the Type O floor is not a paywalled insider-only page |
 | Challenge, review, and redress entry | [Article XIII-A](../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) | Analog may satisfy |
 | Reconstruct what the system did; qualified audit access | [CS-2 §5.3](cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access); **CJS-3.3** (*How we audit*) | Mixed: class-scaled logs |
 | Proportional comprehensibility; summaries plus drill-down | **CS-6**; **CJS-3.8** (*comprehensibility and cognitive accessibility terms*) | Mixed |
 | Digital self-service enroll, manage, exit, and charge-exit | **CJS-3.17** (*digital self-service pathway integrity*; *commitment, renewal, and charge-exit integrity*); **CI-8.3** | Digital **when entry was already digital**; this row does not force a digital channel where none was used |
 | Inspectable attributable-action log (five-element set) | [CS-4 §10 inspectable attributable action](cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) | Mixed; role-scoped — not a public surveillance dashboard |
-| Chokepoint appeal, human review, and export | [CS-4.14](cs_04_critical_system_stewardship.md#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture) | Mixed |
-| Crisis communications for high-impact systems | [CS-5 §8](cs_05_design_testing_verification_deployment.md#cs-5-8-governance-continuity-crisis-communications-and-exercises-high-impact-systems) | Analog may satisfy |
-| Tamper-evident offline audit chains | [CS-12.5](cs_12_decentralized_continuity_partition_resilience.md#cs-12-5-offline-audit-integrity-and-reconciliation) | Machine-usable chain required |
+| Chokepoint appeal, human review, and export | [CS-4.14](cs_04_critical_system_stewardship.md#cs-414-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture) | Mixed |
+| Crisis communications for high-impact systems | [CS-5 §8](cs_05_design_testing_verification_deployment.md#cs-58-governance-continuity-crisis-communications-and-exercises-high-impact-systems) | Analog may satisfy |
+| Tamper-evident offline audit chains | [CS-12.5](cs_12_decentralized_continuity_partition_resilience.md#cs-125-offline-audit-integrity-and-reconciliation) | Machine-usable chain required |
 | Contest post-sale access or subscription cutoffs | [Article II-D](../core_06_rights_part_a.md#article-ii-d-post-sale-access-and-subscription-integrity) (*Post-Sale Access and Subscription Integrity*); when the cutoff is digital self-service, **Article XIII-A** (*Reliability and Trustworthiness Baseline*) plus **CJS-3.17** / **CI-8.3** | Do not invent a second challenge home |
 | Accessibility accommodations in participation domains | [Article VI-D](../core_06_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*); **CJS-3.8**; **CI-15**; **CF-11** | Parity on whatever channel the domain already uses — not a separate product |
 

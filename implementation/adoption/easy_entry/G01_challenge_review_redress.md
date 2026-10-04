@@ -45,7 +45,7 @@ See: [Chapter Ten §4.1](../../../core_10_standing_integration.md#41-remedy-and-
 
 | If this is closer | Open |
 |---|---|
-| You cannot find the home, or the next step is “read the corpus first” | [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge) |
+| You cannot find the home, or the next step is “read the corpus first” | [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic) |
 | The only “fix” is a form | [Remedy](../../STEWARD_ENTRY_DOORS.md#remedy) |
 | A local policy permanently bars challenge | [Contest](../../STEWARD_ENTRY_DOORS.md#contest) |
 | Delay is the denial | [Delay](../../STEWARD_ENTRY_DOORS.md#delay); [G05 — Crisis vs forever](G05_crisis_vs_forever.md) |

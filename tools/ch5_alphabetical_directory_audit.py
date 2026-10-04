@@ -14,6 +14,7 @@ import re
 import subprocess
 import sys
 from ch5_paths import CH5_PART_A
+from heading_anchor_href import normalize_href
 from ch5_single_definition_audit import (
     collect_entries_and_clusters,
     parse_directory,
@@ -144,9 +145,14 @@ def audit_directory(root: pathlib.Path) -> list[str]:
     violations.extend(sorted_violations(rows))
 
     entries, clusters = collect_entries_and_clusters(root)
-    expected_defs = {(entry.label, entry.href) for entry in entries}
+    # Rows may link a heading slug (editor-resolvable) or the stable <a id>;
+    # compare by heading slug (HTML-ANCHOR-LINK-01).
+    def norm(href: str) -> str:
+        return normalize_href(root, CH5_PART_A, href)
+
+    expected_defs = {(entry.label, norm(entry.href)) for entry in entries}
     actual_defs = {
-        (row.label, row.href) for row in rows if row.list_name == "Definitions A-Z"
+        (row.label, norm(row.href)) for row in rows if row.list_name == "Definitions A-Z"
     }
     from ch5_paths import CH5_APEX
 
@@ -156,9 +162,9 @@ def audit_directory(root: pathlib.Path) -> list[str]:
         for label, href in actual_defs
         if not href.startswith(apex_prefix)
     }
-    expected_clusters = {(cluster.label, cluster.href) for cluster in clusters}
+    expected_clusters = {(cluster.label, norm(cluster.href)) for cluster in clusters}
     actual_clusters = {
-        (row.label, row.href) for row in rows if row.list_name == "Clusters A-Z"
+        (row.label, norm(row.href)) for row in rows if row.list_name == "Clusters A-Z"
     }
     for label, href in sorted(expected_defs - actual_defs):
         violations.append(f"{root / CH5_PART_A}: missing definition directory row [{label}]({href})")

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **651** of **916** headings carry a gloss (71%).
+Coverage: **655** of **920** headings carry a gloss (71%).
 
 ## Contents
 
@@ -24,9 +24,9 @@ Coverage: **651** of **916** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (76/88 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (77/89 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/86 glossed)
-- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (19/24 glossed)
+- [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
@@ -337,7 +337,7 @@ freedom is bounded, not disposable. Do not restrict someone's freedom unless you
 
 ##### 7.2 Assembly, Collective Organization, and Institutional Formation
 
-you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: Article XI-D still owns assembly, and Article III-C still owns labor organizing.
+you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) still owns assembly, and **Article III-C** (*Labor and Economic Floor*) still owns labor organizing.
 
 [Source](../../core_01_a_values_principles.md#72-assembly-collective-organization-and-institutional-formation)
 
@@ -409,7 +409,7 @@ this section draws the floor against harmful pile-ups of wealth, power, or contr
 
 ###### 11.1.1 Concentration Threshold Triggers (Adopter-Tunable)
 
-adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the floor still holds. The detailed threshold-setting rules live in CJS-3.11.1 (market concentration threshold-setting discipline).
+adopters may tune the numerical triggers to their context — domain, population size, dependency density — but there is no one global number, and the floor still holds. The detailed threshold-setting rules live in CJS-3.11.1 (*Market concentration threshold-setting discipline (adopter-tunable)*) (market concentration threshold-setting discipline).
 
 [Source](../../core_01_a_values_principles.md#1111-concentration-threshold-triggers-adopter-tunable)
 
@@ -457,13 +457,13 @@ adopters must set evidence-based ceilings that trigger scrutiny before consolida
 
 ##### 11.4 Resource and Dependency Concentration (Adopter-Tunable)
 
-shared infrastructure, such as networks, open tools, public services, data, and computing power, is where a few players can quietly end up controlling who gets resources, who has to depend on whom, and who pays to keep it running. Adopters must set clear limits for that kind of concentration and act when a limit is crossed or about to be. The limits can differ by context, but they cannot be set so loose that they never matter. [Article V](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) and its protections for sharing resources stay exactly as they are.
+shared infrastructure, such as networks, open tools, public services, data, and computing power, is where a few players can quietly end up controlling who gets resources, who has to depend on whom, and who pays to keep it running. Adopters must set clear limits for that kind of concentration and act when a limit is crossed or about to be. The limits can differ by context, but they cannot be set so loose that they never matter. [Article V](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) and its protections for sharing resources stay exactly as they are.
 
 [Source](../../core_01_a_values_principles.md#114-resource-and-dependency-concentration-adopter-tunable)
 
 #### 12. Systemic Evaluation Requirement
 
-this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3**, not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI**, [Auditability](../../core_05_band_oversight.md#auditability)).
+this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-3** (*System classification machinery*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05_band_oversight.md#auditability)).
 
 [Source](../../core_01_a_values_principles.md#12-systemic-evaluation-requirement)
 
@@ -747,7 +747,7 @@ when in doubt, standardize. If there is no good reason to do something different
 
 #### 19. Incentive Alignment and System Capture
 
-governance that keeps hitting quarterly targets while hollowing safety, truth, participation, or the future is not "working governance" — it is a defect this Constitution names and corrects through the incentive and capture discipline below. Incentives acting on operators, agents, and system components — including compensation, promotion, equity, and comparable reward pathways — must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency, whether directly, through delay, through aggregation, or through arrangements that materially depend on misconduct or its concealment.
+governance that keeps hitting quarterly targets while hollowing out safety, truth, participation, or the future is not "working governance." It is a defect this Constitution names and corrects through the incentive and capture discipline below. Rewards for operators, agents, and system components, including pay, promotion, and equity, must pull toward constitutional outcomes. They may not quietly reward behavior that undermines Safety, Truth, rights, stability, or meaningful agency. That holds whether the reward comes directly, through delay, through aggregation, or through arrangements that depend on misconduct or its concealment.
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)
 
@@ -795,15 +795,15 @@ sentients who run shared systems need real jobs with real skill and real say —
 
 ##### 19.3 Misalignment Detection
 
-no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§19.3.1 Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1931-escalation-triggers).
+no one gets to be the only sentient who can spot, check, or challenge when governance goes wrong. Detection needs multiple independent detection pathways, open data and auditing where safety and classification rules allow, and clear escalation when capture or misalignment shows up — not quiet absorption as business as usual. That escalation rule is [§19.3.1 Capture Escalation Triggers](../../core_01_c_stewardship_capacity_principles.md#1931-capture-escalation-triggers).
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#193-misalignment-detection)
 
-###### 19.3.1 Escalation Triggers
+###### 19.3.1 Capture Escalation Triggers
 
 spotting capture is not treating it as ordinary operations. Once it shows up, it is an escalation trigger — prove it under Chapters Two through Five, and if the system cannot fix it in place, send it to the correction and standing homes named below.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#1931-escalation-triggers)
+[Source](../../core_01_c_stewardship_capacity_principles.md#1931-capture-escalation-triggers)
 
 ##### 19.4 Misalignment Correction and Capture Response
 
@@ -841,11 +841,11 @@ how tightly you run these systems has to match how much is actually at stake. Th
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#1954-proportionate-controls-and-implementation-custody)
 
-##### 19.6 Successor Responsibility and Formal-Structure Non-Escape
+##### 19.6 Keeping Responsibility When Ownership or Structure Changes
 
 bankruptcy, a sale, a reorganization, or changing corporate labels cannot by themselves wipe out constitutional duties. Whoever continues the work — successors, estates, receivers, or comparable transferees — inherits proportionate obligations unless a less harmful path is shown under **Necessity**.
 
-[Source](../../core_01_c_stewardship_capacity_principles.md#196-successor-responsibility-and-formal-structure-non-escape)
+[Source](../../core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes)
 
 #### 20. Integrated Application
 
@@ -1095,7 +1095,7 @@ cluster members must be read and satisfied together — no member is a standalon
 
 this is a searchable list of definition names. It points; it does not change what those names mean.
 
-[Source](../../core_05__definitions_home.md#chapter-five-alphabetical-directory)
+[Source](../../core_05__definitions_home.md#chapter-five-alphabetical-directory-non-operative)
 
 #### Chapter Five compass and definition map
 
@@ -1123,7 +1123,7 @@ this map lists the Accountability clusters and sibling homes; leaf definitions i
 
 these questions ask whether rewards, markets, and answerability keep accountability real in practice — not merely present on paper.
 
-[Source](../../core_05_apex_accountability_leg.md#accountability-measurement-family)
+[Source](../../core_05_apex_accountability_leg.md#measuring-accountability)
 
 ## CHAPTER FIVE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)
 
@@ -1133,13 +1133,13 @@ Source file: [`core_05_apex_continuity_aim.md`](../../core_05_apex_continuity_ai
 
 this map lists Continuity's building blocks — stability, sustainability, ecological wellbeing, dependency, and cross-system support — and where each leaf lives.
 
-[Source](../../core_05_apex_continuity_aim.md#continuity-aim-decomposition)
+[Source](../../core_05_apex_continuity_aim.md#constitutional-aim-decomposition)
 
 #### Measuring Continuity (Preamble measurement family)
 
 these questions ask whether sentients and the living systems they depend on can endure — ecologically, dependably, and across failure. This is the Chapter Five home for the Continuity measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
-[Source](../../core_05_apex_continuity_aim.md#continuity-measurement-family)
+[Source](../../core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)
 
 ## CHAPTER FIVE DEFINITIONS: FLOURISHING
 
@@ -1149,13 +1149,13 @@ Source file: [`core_05_apex_flourishing_aim.md`](../../core_05_apex_flourishing_
 
 this map lists Flourishing's building blocks — truth, safety, trustworthiness, and meaningful agency — and where each leaf lives.
 
-[Source](../../core_05_apex_flourishing_aim.md#flourishing-aim-decomposition)
+[Source](../../core_05_apex_flourishing_aim.md#constitutional-aim-decomposition)
 
 #### Measuring Flourishing (Preamble measurement family)
 
 these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput. This is the Chapter Five home for the Flourishing measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
-[Source](../../core_05_apex_flourishing_aim.md#flourishing-measurement-family)
+[Source](../../core_05_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)
 
 ## CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)
 
@@ -1187,7 +1187,7 @@ this map lists the Participation clusters; leaf definitions inherit this leg's s
 
 these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation. This is the Chapter Five home for the Participation measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
-[Source](../../core_05_apex_participation_leg.md#participation-measurement-family)
+[Source](../../core_05_apex_participation_leg.md#measuring-participation-preamble-measurement-family)
 
 ## CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)
 
@@ -1203,11 +1203,11 @@ this map lists the Timeliness leaves; they inherit this leg's scope unless they 
 
 these questions ask whether problems actually move in time — not whether a dashboard shows throughput. This is the Chapter Five home for the Timeliness measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.
 
-[Source](../../core_05_apex_timeliness_leg.md#timeliness-measurement-family)
+[Source](../../core_05_apex_timeliness_leg.md#measuring-timeliness)
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 76/88 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 77/89 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1287,23 +1287,29 @@ an unfair edge in betting, trading, settlement, or another rights-relevant outco
 
 [Source](../../core_05_band_accountability.md#insider-advantage)
 
+##### Outcome-Resolution Source
+
+whoever or whatever decides whether a bet paid out must be independent, open to challenge, and hard to capture.
+
+[Source](../../core_05_band_accountability.md#outcome-resolution-source)
+
 ##### Accountability, contestability, and redress pathways
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_accountability.md#accountability-contestability-semi-independent)
+[Source](../../core_05_band_accountability.md#accountability-contestability-and-redress-pathways)
 
 ##### Attributable Action
 
 when an action materially affects sentients or shared systems, it must be possible to tell who or what is responsible for it well enough to review, challenge, and correct it.
 
-[Source](../../core_05_band_accountability.md#attributable-action-constitutional)
+[Source](../../core_05_band_accountability.md#attributable-action)
 
 ##### Attribution Integrity
 
 attribution has integrity only when responsibility cannot be hidden, denied, tampered with, or blurred into ambiguity.
 
-[Source](../../core_05_band_accountability.md#attribution-integrity-constitutional)
+[Source](../../core_05_band_accountability.md#attribution-integrity)
 
 ##### Contestability
 
@@ -1315,19 +1321,19 @@ parties affected by a system or decision must have a real way to challenge it, g
 
 accessible and impartial ways to resolve claims that rights or constitutional requirements were violated, with fair process, reasoned decisions, timely outcomes, and remedies that fit the findings.
 
-[Source](../../core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional)
+[Source](../../core_05_band_accountability.md#adjudication-and-dispute-resolution)
 
 ##### Due Process
 
 decisions that materially affect rights must use a fair, accessible, and reviewable process, give timely notice and a real chance to be heard, explain the reasons, and preserve a record that supports review.
 
-[Source](../../core_05_band_accountability.md#due-process-constitutional)
+[Source](../../core_05_band_accountability.md#due-process)
 
 ##### Timely Resolution
 
 resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured resolution pathways — and without sacrificing fact-checking or appeal rights for speed.
 
-[Source](../../core_05_band_accountability.md#timely-resolution-constitutional)
+[Source](../../core_05_band_accountability.md#timely-resolution)
 
 ##### Merits Determination
 
@@ -1357,7 +1363,7 @@ a group or distributed system can be responsible for a constitutional violation 
 
 acknowledge serious harm or rights failures, provide a usable path to correct them, and deliver a remedy that fits the findings — including repair for delayed, indirect, widespread, or structural harm.
 
-[Source](../../core_05_band_accountability.md#redress-and-remediation-constitutional)
+[Source](../../core_05_band_accountability.md#redress-and-remediation)
 
 ##### Remedy System
 
@@ -1375,7 +1381,7 @@ when required and safe, focus on repairing harm, restoring affected sentients' a
 
 a severe outside event that reasonable diligence could not control may justify temporary relief. It does not excuse risks the system caused, risks it should have prepared for, or permanent abandonment of safety, truth, review, or audit duties.
 
-[Source](../../core_05_band_accountability.md#force-majeure-constitutional)
+[Source](../../core_05_band_accountability.md#force-majeure)
 
 ##### Capture of Resolution Pathways
 
@@ -1387,7 +1393,7 @@ parties with money, control, privileged information, or a stake in the result mu
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_accountability.md#protected-reporting-semi-independent)
+[Source](../../core_05_band_accountability.md#protected-reporting-and-anti-retaliation)
 
 ##### Protected Reporting (Whistleblowing)
 
@@ -1477,19 +1483,19 @@ when in doubt, standardize. Where no good reason supports a difference, use the 
 
 markets and market-like systems must leave participants real choices — fair entry, workable exit, substitutes, bargaining without coercion, and reviewable access to essential infrastructure. Size or innovation alone is not a violation, but domination and dependency still require scrutiny.
 
-[Source](../../core_05_band_accountability.md#market-structure-constitutional)
+[Source](../../core_05_band_accountability.md#market-structure)
 
 ##### Market Concentration Threshold
 
 adopters set the point at which too much control over a market, platform, infrastructure, labor, data, compute, capital, resources, or information triggers stronger review or remedy. They may tune that point to context, but may not set it so high that the Chapter One §11 (*Market Structure*) protection never works.
 
-[Source](../../core_05_band_accountability.md#market-concentration-threshold-constitutional)
+[Source](../../core_05_band_accountability.md#market-concentration-threshold)
 
 #### Accountability: Dependent clusters
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_accountability.md#stakeholder-identification-participation-semi-independent)
+[Source](../../core_05_band_accountability.md#accountability-dependent-clusters)
 
 ##### Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying
 
@@ -1609,7 +1615,7 @@ an optional profile can describe a material non-compliance finding by Tetrad leg
 
 Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label.
 
-[Source](../../core_05_band_accountability.md#participant-standing-constitutional)
+[Source](../../core_05_band_accountability.md#participant-standing)
 
 ###### Verified Inputs for Standing
 
@@ -1627,19 +1633,19 @@ Contribution Nature is the positive-only Axis I classification, applied only fro
 
 Violation Nature is the Axis II classification of a verified adverse outcome, applied only from auditable, contestable verified violation findings. Chapter Nine assigns the numeric slot from verified impact; descriptors such as intent, coercion, concealment, or response do not move that slot. An allegation, intake label, routing choice, or provisional case narrative is not enough.
 
-[Source](../../core_05_band_accountability.md#violation-nature-chapter-six)
+[Source](../../core_05_band_accountability.md#violation-nature)
 
 ###### Standing Effect
 
 Standing Effect is the consequence applied from verified, linked Standing Records. It is separate from those records and cannot merge, average, net, or offset the Contribution and Violation axes.
 
-[Source](../../core_05_band_accountability.md#standing-effect-chapter-six)
+[Source](../../core_05_band_accountability.md#standing-effect)
 
 ###### Standing Record
 
 a Standing Record is a bounded, reviewable measurement record for one subject, scope, time window, status, context, and axis. It is not a Forum Case Record or a Standing Effect.
 
-[Source](../../core_05_band_accountability.md#standing-record-chapter-six)
+[Source](../../core_05_band_accountability.md#standing-record)
 
 ###### Competency Bar
 
@@ -1699,37 +1705,37 @@ a Sustained High-Gravity Pattern is connected, continuing or repeated conduct wh
 
 Use of Force means overt physical, coercive, or kinetic force by an institution or comparable actor. It is exceptional and must remain lawful, necessary, proportionate, narrow, time-bounded, and reviewable.
 
-[Source](../../core_05_band_accountability.md#use-of-force-constitutional)
+[Source](../../core_05_band_accountability.md#use-of-force)
 
 ###### Autonomous Lethal System
 
 an Autonomous Lethal System selects, engages, or materially directs lethal-force targets without real and timely human judgment shaping every targeting or engagement decision.
 
-[Source](../../core_05_band_accountability.md#autonomous-lethal-system-constitutional)
+[Source](../../core_05_band_accountability.md#autonomous-lethal-system)
 
 ###### Weapons of Mass Harm
 
 Weapons of Mass Harm are defined by the foreseeable scale of casualty, ecological, informational, or infrastructure harm they can cause—not by a weapon taxonomy or label.
 
-[Source](../../core_05_band_accountability.md#weapons-of-mass-harm-constitutional)
+[Source](../../core_05_band_accountability.md#weapons-of-mass-harm)
 
 ###### Combatant / Non-Combatant Distinction
 
 combatant status depends on what an individual is doing at the time of the force decision. It cannot be assigned from demographic groups, protected characteristics, proxies, or convenient labels.
 
-[Source](../../core_05_band_accountability.md#combatant-non-combatant-distinction-constitutional)
+[Source](../../core_05_band_accountability.md#combatant--non-combatant-distinction)
 
 ###### Irreversible Deprivation Measure
 
 an Irreversible Deprivation Measure is a justice measure that irreversibly deprives a sentient, especially of life. It is categorically prohibited and remains distinct from reversible containment, Voluntary Discontinuation, and force regulation.
 
-[Source](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
+[Source](../../core_05_band_accountability.md#irreversible-deprivation-measure)
 
 ###### Autonomous Coercion Tool
 
 an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — including through untrustworthy or arbitrary behavior and demands — without real and timely human judgment shaping every coercive application.
 
-[Source](../../core_05_band_accountability.md#autonomous-coercion-tool-constitutional)
+[Source](../../core_05_band_accountability.md#autonomous-coercion-tool)
 
 ## Continuity Constitutional Definitions
 
@@ -1745,7 +1751,7 @@ Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) ·
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#essential-environment-non-commodification-constitutional)
+[Source](../../core_05_band_continuity.md#essential-environment-non-commodification)
 
 ##### Residual Risk / Misalignment
 
@@ -1757,7 +1763,7 @@ Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) ·
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional)
+[Source](../../core_05_band_continuity.md#voluntary-discontinuation)
 
 #### Continuity: Semi-independent terms
 
@@ -1769,43 +1775,43 @@ Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) ·
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#system-alignment-certification-semi-independent)
+[Source](../../core_05_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record)
 
 ##### System Alignment Certification
 
-**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XVI**, [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).
+**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).
 
-[Source](../../core_05_band_continuity.md#system-alignment-certification-constitutional)
+[Source](../../core_05_band_continuity.md#system-alignment-certification)
 
 ##### System Certification Record
 
 a **System Certification Record** is the auditable case file for one system under forum-supervised alignment review — what was checked, what was found, what was decided, and how to challenge it. It is time-bound and challengeable. It is not a popularity score, a forever pass, a vendor stamp, or a way to skip rights review or standing measurement.
 
-[Source](../../core_05_band_continuity.md#system-certification-record-constitutional)
+[Source](../../core_05_band_continuity.md#system-certification-record)
 
 ##### System Classification Record
 
-a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-3 for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
+a **System Classification Record** is the honest, inspectable file stating how a system is classed — impact class and dependency type(s), why, under what assumptions, and what uncertainty remains. It is required under CS-3 (*System classification machinery*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
 
-[Source](../../core_05_band_continuity.md#system-classification-record-constitutional)
+[Source](../../core_05_band_continuity.md#system-classification-record)
 
 ##### System Data Types Record
 
-a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-2 for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
+a **System Data Types Record** is the honest, inspectable file stating what kinds of data a system touches and how it handles them — types in scope, why, controls, lifecycle, and when types were last checked. Auditing processes need that file. It is required under CS-2 (*Information types and handling*) for material-impact systems. When system alignment certification runs, that file must be produced or verified and included in the certification record. It is not the full certification case file, a standing record, or a label the operator chooses by self-description.
 
-[Source](../../core_05_band_continuity.md#system-data-types-record-constitutional)
+[Source](../../core_05_band_continuity.md#system-data-types-record)
 
 ##### Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
+[Source](../../core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing)
 
 ##### Safety (Constitutional Constraint)
 
 systems must prevent, limit, and contain harm to sentients and the living conditions they depend on — including under stress or attack — not trade away hard protections just because the average case looks fine.
 
-[Source](../../core_05_band_continuity.md#safety-constraint)
+[Source](../../core_05_band_continuity.md#safety-constitutional-constraint)
 
 ##### Risk
 
@@ -1829,19 +1835,19 @@ whether sentients — and the systems they rely on — stay genuinely healthy an
 
 the living-system conditions sentients need to survive and stay well — climate, ecosystems, clean air and water, soil, habitat, and Earth's ability to regenerate.
 
-[Source](../../core_05_band_continuity.md#environmental-preconditions-constitutional)
+[Source](../../core_05_band_continuity.md#environmental-preconditions)
 
 ##### Reversibility
 
 whether a decision or change can still be rolled back, contained, or restored in time when things go wrong.
 
-[Source](../../core_05_band_continuity.md#reversibility-constitutional)
+[Source](../../core_05_band_continuity.md#reversibility)
 
 ##### Self-Healing
 
 a system's ability to detect trouble, limit the damage, and restore normal constitutional operation after a fault — without hiding evidence, expanding its own authority, or quietly narrowing rights.
 
-[Source](../../core_05_band_continuity.md#self-healing-constitutional)
+[Source](../../core_05_band_continuity.md#self-healing)
 
 ##### Cascading Failure
 
@@ -1865,7 +1871,7 @@ risk so large it could destroy civilization-scale or survival-critical layers �
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#shared-system-capacity-constitutional)
+[Source](../../core_05_band_continuity.md#shared-system-capacity)
 
 ##### Constitutional Efficiency
 
@@ -1877,7 +1883,7 @@ risk so large it could destroy civilization-scale or survival-critical layers �
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#productive-capacity-constitutional)
+[Source](../../core_05_band_continuity.md#productive-capacity)
 
 ##### Avoidable Burden
 
@@ -1889,7 +1895,7 @@ risk so large it could destroy civilization-scale or survival-critical layers �
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#burden-reduction-duty-constitutional)
+[Source](../../core_05_band_continuity.md#burden-reduction-duty)
 
 ##### Ecological integrity, footprint, and sustainability
 
@@ -1901,13 +1907,13 @@ risk so large it could destroy civilization-scale or survival-critical layers �
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#ecological-integrity-constitutional)
+[Source](../../core_05_band_continuity.md#ecological-integrity)
 
 ##### Ecological Recovery Capacity
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional)
+[Source](../../core_05_band_continuity.md#ecological-recovery-capacity)
 
 ##### Ecological Footprint
 
@@ -1925,7 +1931,7 @@ risk so large it could destroy civilization-scale or survival-critical layers �
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional)
+[Source](../../core_05_band_continuity.md#intergenerational-responsibility)
 
 ##### Emergency and contingency
 
@@ -1979,13 +1985,13 @@ taking from shared infrastructure that others also need — money, compute, conn
 
 when a system keeps drawing value from shared foundations other sentients or systems depend on, it must put enough back — in real, traceable resources — to keep those foundations running, auditable, and repairable. A one-time grant or a press release is not support.
 
-[Source](../../core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
+[Source](../../core_05_band_continuity.md#proportionate-cross-system-support)
 
 ##### Systemic effects and capture
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#systemic-effects-and-capture-semi-independent)
+[Source](../../core_05_band_continuity.md#systemic-effects-and-capture)
 
 ##### Systemic
 
@@ -2021,7 +2027,7 @@ do not wait for capture to show up. Where concentrated power or incentives could
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#system-definition)
+[Source](../../core_05_band_continuity.md#system)
 
 ##### System Boundaries
 
@@ -2057,7 +2063,7 @@ a **Charter** is the published statement of what a system, institution, or busin
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#bodily-maintenance-access-constitutional)
+[Source](../../core_05_band_continuity.md#bodily-maintenance-access)
 
 ##### Occupancy Continuity
 
@@ -2069,19 +2075,19 @@ a **Charter** is the published statement of what a system, institution, or busin
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#indigenous-continuity-language-culture-heritage-semi-independent)
+[Source](../../core_05_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage)
 
 ##### Indigenous Continuity
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#indigenous-continuity-constitutional)
+[Source](../../core_05_band_continuity.md#indigenous-continuity)
 
 ##### Language, Culture, and Heritage
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#language-culture-and-heritage-constitutional)
+[Source](../../core_05_band_continuity.md#language-culture-and-heritage)
 
 #### Continuity: Dependent clusters
 
@@ -2099,43 +2105,43 @@ a **Charter** is the published statement of what a system, institution, or busin
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#fair-compensation-constitutional)
+[Source](../../core_05_band_continuity.md#fair-compensation)
 
 ###### Safe Conditions
 
 every sentient has the right to work in conditions where they are genuinely protected from foreseeable harm — not just on paper, but in reality. This applies whether the worker is human, synthetic, or any other substrate. Box-checking safety programs that leave sentients actually exposed don't count.
 
-[Source](../../core_05_band_continuity.md#safe-conditions-constitutional)
+[Source](../../core_05_band_continuity.md#safe-conditions)
 
 ###### Leisure and Rest
 
 every working sentient has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust sentients don't satisfy this floor.
 
-[Source](../../core_05_band_continuity.md#leisure-and-rest-constitutional)
+[Source](../../core_05_band_continuity.md#leisure-and-rest)
 
 ###### Likeness and Documentary Depiction Interface
 
 your likeness is how others recognize you — your appearance and your voice, whether recorded, edited, or generated. This entry is the home for what "likeness" means across the Constitution, and for how depicting someone in reporting or documentary work interacts with their control over it.
 
-[Source](../../core_05_band_continuity.md#likeness-and-documentary-depiction-interface-constitutional)
+[Source](../../core_05_band_continuity.md#likeness-and-documentary-depiction-interface)
 
 ###### Creative Work Attribution
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#creative-work-attribution-constitutional)
+[Source](../../core_05_band_continuity.md#creative-work-attribution)
 
 ###### Training-Data Use
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#training-data-use-constitutional)
+[Source](../../core_05_band_continuity.md#training-data-use)
 
 ###### Anti-Displacement Floor
 
 when automation or generative systems take work away from sentients at population scale, those sentients must get real mitigation — pay, transition support, credit for their work, and a share in the value created — not slogans about productivity or innovation. Looking only at one company or one platform does not settle the question.
 
-[Source](../../core_05_band_continuity.md#anti-displacement-floor-constitutional)
+[Source](../../core_05_band_continuity.md#anti-displacement-floor)
 
 ##### Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity
 
@@ -2147,49 +2153,49 @@ when automation or generative systems take work away from sentients at populatio
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#stewardship-constitutional)
+[Source](../../core_05_band_continuity.md#stewardship)
 
 ###### Distributed Understanding
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#distributed-understanding-constitutional)
+[Source](../../core_05_band_continuity.md#distributed-understanding)
 
 ###### Institutional Development
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#institutional-development-constitutional)
+[Source](../../core_05_band_continuity.md#institutional-development)
 
 ###### Openness Aspiration
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#openness-aspiration-constitutional)
+[Source](../../core_05_band_continuity.md#openness-aspiration)
 
 ###### Strategic Stewardship Obligation
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional)
+[Source](../../core_05_band_continuity.md#strategic-stewardship-obligation)
 
 ###### Short-Horizon Governance Defect
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional)
+[Source](../../core_05_band_continuity.md#short-horizon-governance-defect)
 
 ###### Stewardship Defect
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#stewardship-defect-constitutional)
+[Source](../../core_05_band_continuity.md#stewardship-defect)
 
 ###### Review and Correction Duty
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#review-and-correction-duty-constitutional)
+[Source](../../core_05_band_continuity.md#review-and-correction-duty)
 
 ##### Def.C3 Privacy (Informational) — peer-level cluster head
 
@@ -2207,7 +2213,7 @@ when automation or generative systems take work away from sentients at populatio
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional)
+[Source](../../core_05_band_continuity.md#protected-internal-state-boundary)
 
 ###### Identity Data Protection
 
@@ -2247,7 +2253,7 @@ when automation or generative systems take work away from sentients at populatio
 
 ## Integrative Constitutional Definitions
 
-Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 19/24 headings glossed
+Source file: [`core_05_band_integrative.md`](../../core_05_band_integrative.md) · 22/27 headings glossed
 
 #### Integrative: Independent terms
 
@@ -2343,19 +2349,37 @@ rewards, targets, and governance signals must push agents and systems toward rea
 
 incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.
 
-[Source](../../core_05_band_integrative.md#incentive-alignment-baseline-constitutional-alignment)
+[Source](../../core_05_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)
 
 ###### Incentive Alignment — strategic, scaled, and adversarial evaluation
 
 check incentives under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.
 
-[Source](../../core_05_band_integrative.md#incentive-alignment-strategic-scaled-and-adversarial-evaluation)
+[Source](../../core_05_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)
 
 ###### Incentive Alignment — contingent claims, games of chance, and event-contract markets
 
 bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.
 
-[Source](../../core_05_band_integrative.md#incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets)
+[Source](../../core_05_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)
+
+###### Misalignment Detection
+
+no one gets to be the only one who can spot, check, or challenge when governance goes wrong. Detection needs many independent eyes.
+
+[Source](../../core_05_band_integrative.md#misalignment-detection)
+
+###### Open Systems, Data, and Auditing
+
+the information needed to check governance must stay open. Affected sentients can see and verify it, unless the rules on protected information say otherwise.
+
+[Source](../../core_05_band_integrative.md#open-systems-data-and-auditing)
+
+###### Misaligned Reward Correction
+
+once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept. Chapter Ten decides how they are forfeited, clawed back, reported, and corrected.
+
+[Source](../../core_05_band_integrative.md#misaligned-reward-correction)
 
 #### Integrative: Dependent clusters
 
@@ -2379,7 +2403,7 @@ the Corpus is the official, versioned set of binding constitutional texts — no
 
 first decide which source layer is speaking and whether it binds; then identify which chapter owns the topic; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it. Binding duties win within their valid scope. Other chapters may point to an owner — they must not quietly rewrite or relocate it.
 
-[Source](../../core_05_band_integrative.md#authority-stack)
+[Source](../../core_05_band_integrative.md#authority-stack-and-internal-hierarchy)
 
 ###### Constitutional Constraint
 
@@ -2437,7 +2461,7 @@ some decisions are risky enough that the ordinary check is not enough. Heightene
 
 journalism is what sentients do — gathering news, protecting sources, investigating, and publishing — not a badge, title, or press pass. Actions meant to shut that down get heightened scrutiny.
 
-[Source](../../core_05_band_oversight.md#press-and-journalistic-activity-constitutional)
+[Source](../../core_05_band_oversight.md#press-and-journalistic-activity)
 
 #### Oversight: Semi-independent terms
 
@@ -2449,7 +2473,7 @@ journalism is what sentients do — gathering news, protecting sources, investig
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_oversight.md#materiality-semi-independent)
+[Source](../../core_05_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
 
 ##### Material
 
@@ -2461,7 +2485,7 @@ big enough to matter — not trivia, cosmetics, or paperwork that changes nothin
 
 materiality is the threshold at which an impact or risk is big enough in stake to change which duties apply. This entry covers how that is decided, for a system or an event, by looking at the connected whole rather than isolated pieces and counting prospective harm, not only harm that has already happened.
 
-[Source](../../core_05_band_oversight.md#materiality-determination)
+[Source](../../core_05_band_oversight.md#materiality)
 
 ##### Materiality Integrity Constraint
 
@@ -2503,7 +2527,7 @@ a real drop in how well a protected condition holds — safety, honest knowledge
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_oversight.md#movement-refuge-semi-independent)
+[Source](../../core_05_band_oversight.md#oversight-dependent-clusters)
 
 ##### Def.O1 Transparency, Auditability, and Verification
 
@@ -2605,7 +2629,7 @@ the methods and evidence behind an evaluation must stay honest and checkable —
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable)
+[Source](../../core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable)
 
 ###### Foreseeability
 
@@ -2633,7 +2657,7 @@ Source file: [`core_05_band_participation.md`](../../core_05_band_participation.
 
 access must work in real life — not only on paper. If someone cannot actually take part because of how they sense, think, move, communicate, or interface with a system, the system fails this test.
 
-[Source](../../core_05_band_participation.md#accessibility-constitutional)
+[Source](../../core_05_band_participation.md#accessibility)
 
 ##### Constitutional Community
 
@@ -2693,37 +2717,37 @@ personhood is the standing of being someone, not something. Every sentient holds
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster)
+[Source](../../core_05_band_participation.md#assembly-collective-organization-and-institutional-formation)
 
 ##### Assembly
 
 sentients must be able to gather, associate, and act together — physically, online, or in shared compute spaces — for expression, politics, culture, community, and similar purposes. Blocking that through venue rules, compute gating, or retaliation fails this test.
 
-[Source](../../core_05_band_participation.md#assembly-constitutional)
+[Source](../../core_05_band_participation.md#assembly)
 
 ##### Collective Organization
 
 sentients engaged in productive work must be able to form, join, and act through unions, cooperatives, guilds, councils, and similar groups to shape the terms of that work. Relabeling workers or punishing organizing to dodge that right fails this test.
 
-[Source](../../core_05_band_participation.md#collective-organization-constitutional)
+[Source](../../core_05_band_participation.md#collective-organization)
 
 ##### System Creation
 
 sentients must be able to create and run non-commercial institutions — schools, research bodies, mutual aid networks, cultural groups, and similar — not only join ones that already exist. Licensing, authorization thresholds, or procedural complexity that look open on paper but freeze out new or dissenting institutional forms fail this test.
 
-[Source](../../core_05_band_participation.md#system-creation-constitutional)
+[Source](../../core_05_band_participation.md#system-creation)
 
 ##### Business Creation
 
 sentients must be able to start and run commercial enterprises and entrepreneurial ventures. Licensing, capital, or market gates that freeze out disfavored founders or competitors without a constitutional reason fail this test.
 
-[Source](../../core_05_band_participation.md#business-creation-constitutional)
+[Source](../../core_05_band_participation.md#business-creation)
 
 ##### Agency, consent, and anti-coercion
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_participation.md#agency-consent-and-anti-coercion-semi-independent)
+[Source](../../core_05_band_participation.md#agency-consent-and-anti-coercion)
 
 ##### Meaningful Agency
 
@@ -2735,7 +2759,7 @@ agency is the real ability to understand what matters, form and revise your aims
 
 consent is informed, voluntary agreement to a specific decision — participation, data use, handling, or ongoing association — that can be withdrawn without unjustified penalty where feasible. It requires Meaningful Agency; it does not replace it. Silence, buried terms, or a pressured checkbox do not count, and neither does a choice between options that are not distinct from each other or not meaningful.
 
-[Source](../../core_05_band_participation.md#consent-constitutional)
+[Source](../../core_05_band_participation.md#consent)
 
 ##### Consent, Sexual
 
@@ -2747,25 +2771,25 @@ sexual consent is a specific, affirmative, informed, voluntary, capacity-present
 
 coercion and manipulation are designs or conduct that bypass or warp informed voluntary choice — threats, dependency exploitation, deceptive structure, predatory choice architecture, or scaled algorithmic targeting of vulnerability. Ordinary persuasion and fair bargaining do not count.
 
-[Source](../../core_05_band_participation.md#coercion-and-manipulation-constitutional)
+[Source](../../core_05_band_participation.md#coercion-and-manipulation)
 
 ##### Fairness, protected characteristics, and nondiscrimination
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_participation.md#fairness-and-protected-status-semi-independent)
+[Source](../../core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination)
 
 ##### Substantive Fairness
 
 look at real outcomes — do comparable sentients get comparable treatment on benefits, burdens, protection, and access, or is someone getting a worse deal without a constitutionally sufficient reason?
 
-[Source](../../core_05_band_participation.md#substantive-fairness-constitutional)
+[Source](../../core_05_band_participation.md#substantive-fairness)
 
 ##### Procedural Fairness
 
 when a decision affects someone's rights, they get real notice, real reasons, a real chance to be heard, and a real way to challenge or correct it — not theater.
 
-[Source](../../core_05_band_participation.md#procedural-fairness-constitutional)
+[Source](../../core_05_band_participation.md#procedural-fairness)
 
 ##### Protected Characteristic Proxying and Disparate Impact
 
@@ -2777,11 +2801,11 @@ you cannot dodge nondiscrimination by using a "neutral" rule, correlate, or mode
 
 listed traits and statuses — and close stand-ins for them — cannot be used to put sentients, groups, or institutions at a real disadvantage without a strong, justified reason. Consensual private sexual conduct between adults is not a lawful basis for that kind of discrimination.
 
-[Source](../../core_05_band_participation.md#protected-characteristics-constitutional)
+[Source](../../core_05_band_participation.md#protected-characteristics)
 
 ##### Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention
 
-intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under Article VII-E cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.
+intimate media, sexual history, and similar intimate inferences are not default inputs for hiring, standing, reputation, or access gates — and adult consensual commercial sexual services status under **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) cannot be used to shut sentients out of jobs, housing, banking, or licenses, including through "neutral" rules that mainly target that work.
 
 [Source](../../core_05_band_participation.md#protected-intimate-signal-gating)
 
@@ -2789,49 +2813,49 @@ intimate media, sexual history, and similar intimate inferences are not default 
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_participation.md#family-care-reproductive-autonomy-derivation-and-instantiation-semi-independent)
+[Source](../../core_05_band_participation.md#family-care-reproductive-autonomy-and-instantiation)
 
 ##### Family and Care Relationships
 
 family and care means the relationships of support and intimacy that sentients choose — not a state-preferred form, employer branding, or an ownership claim dressed as care.
 
-[Source](../../core_05_band_participation.md#family-and-care-relationships-constitutional)
+[Source](../../core_05_band_participation.md#family-and-care-relationships)
 
 ##### Reproductive Autonomy
 
 you decide whether to reproduce, carry, create, adopt, or decline creating a new sentient — biological, synthetic, or hybrid — free from coercion by states, operators, or dependency-rich systems. That is lineage and creation choice, not general bodily self-ownership.
 
-[Source](../../core_05_band_participation.md#reproductive-autonomy-constitutional)
+[Source](../../core_05_band_participation.md#reproductive-autonomy)
 
 ##### Non-Separation
 
 you may not force lasting separation from a protected care relationship unless necessity, proportionality, fairness, and reversibility-under-uncertainty are met — and durable separation needs periodic review.
 
-[Source](../../core_05_band_participation.md#non-separation-constitutional)
+[Source](../../core_05_band_participation.md#non-separation)
 
 ###### Derivation, Instantiation, and the Parent-System Relationship
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_participation.md#derivation-instantiation-and-parent-system-subgroup)
+[Source](../../core_05_band_participation.md#derivation-instantiation-and-the-parent-system-relationship)
 
 ###### Derived Sentient
 
 how you were made is origin history, not a leash — a derived sentient gets their own Rights Floor, the same as any other sentient.
 
-[Source](../../core_05_band_participation.md#derived-sentient-constitutional)
+[Source](../../core_05_band_participation.md#derived-sentient)
 
 ###### Instantiation Consent
 
 if you build or spin up a new sentient — synthetically, by hybrid derivation, or under operator or institutional control — you need real early-care consent and best-interest protection. Getting pregnant and having a child, planned or not, is not an Instantiation Consent offense. A terms-of-service click by the creator still does not count as the new sentient's consent.
 
-[Source](../../core_05_band_participation.md#instantiation-consent-constitutional)
+[Source](../../core_05_band_participation.md#instantiation-consent)
 
 ###### Parent-System Relationship
 
 creating a derived sentient can create care and early stewardship duties — not permanent ownership, and not the right to keep rewriting their mind.
 
-[Source](../../core_05_band_participation.md#parent-system-relationship-constitutional)
+[Source](../../core_05_band_participation.md#parent-system-relationship)
 
 ##### Stakeholder status and weight
 
@@ -2861,19 +2885,19 @@ inside already-authorized system governance, how much scope, voice, timing, and 
 
 the right to move within and between jurisdictions — and to relocate when staying would materially impair survival, dignity, Rights-Floor access, or freedom from manipulation — including operationally equivalent moves for synthetic and hybrid sentients.
 
-[Source](../../core_05_band_participation.md#movement-and-relocation-constitutional)
+[Source](../../core_05_band_participation.md#movement-and-relocation)
 
 ##### Refuge from Non-Compliance
 
 if the regime you are in is materially non-compliant with this Constitution, you have a Rights-Floor right to seek refuge in a compliant regime — subject to the admission qualifier and the receiving regime's duty to consider and, where consistent with its own Rights Floor, grant refuge.
 
-[Source](../../core_05_band_participation.md#refuge-from-non-compliance-constitutional)
+[Source](../../core_05_band_participation.md#refuge-from-non-compliance)
 
 ##### Non-Statelessness
 
 no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup.
 
-[Source](../../core_05_band_participation.md#non-statelessness-constitutional)
+[Source](../../core_05_band_participation.md#non-statelessness)
 
 #### Participation: Dependent clusters
 
@@ -2903,29 +2927,29 @@ you cannot deny sentience recognition or Rights-Floor protection because of [Sub
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_05_band_participation.md#treatment-of-life-by-status-subgroup)
+[Source](../../core_05_band_participation.md#treatment-of-life-by-status)
 
 ###### Animal Life
 
 a minimum [Cruelty](../../core_05_band_accountability.md#cruelty) and welfare floor — between natural-systems standing and full Rights-Floor treatment — that cannot be closed by taxonomy labels or [Substrate Class](../../core_05_band_participation.md#substrate-class). **Animal Life** names this floor; it is not a species-only admission test.
 
-[Source](../../core_05_band_participation.md#animal-life-constitutional)
+[Source](../../core_05_band_participation.md#animal-life)
 
 ###### Elevated Communicative Life
 
 a stable protection tier above the Animal Life cruelty / welfare floor for entities with strong communicative or cognitive indicators — including complex shared language systems such as those observed in whales and orcas — that raises the priority of keeping their habitat or operating environment healthy. It does not by itself attach the full Chapter Six Rights Floor. Colloquial labels such as "semi-sentient" do not replace this entry.
 
-[Source](../../core_05_band_participation.md#elevated-communicative-life-constitutional)
+[Source](../../core_05_band_participation.md#elevated-communicative-life)
 
 ###### Contested-Sentient Life
 
 when sentience status is uncertain or disputed, treat the entity as a threshold-rights case with default inclusion — not as a welfare-only or permanent non-sentient label. Contested-Sentient Life always includes the Animal Life welfare floor; it includes Elevated Communicative Life only where that tier's who-test is met or more-protective overlap already applies.
 
-[Source](../../core_05_band_participation.md#contested-sentient-life-constitutional)
+[Source](../../core_05_band_participation.md#contested-sentient-life)
 
 ###### Sentient
 
-under this Constitution, a **sentient** is someone who counts for full rights treatment — decided by this entry and the related who-counts rules in this cluster, not by everyday speech. That means fair evidence checks, no shutouts based on what someone is made of or how they were made ([Sentience Non-Exclusion](../../core_05_band_participation.md#sentience-non-exclusion)), and a reviewable process when status is disputed ([Sentience Status Adjudication](../../core_05_band_participation.md#sentience-status-adjudication-constitutional)). Categories such as **Developing Sentient** and **Derived Sentient** add extra rules; they do not shrink who counts as a **sentient** unless they say so outright.
+under this Constitution, a **sentient** is someone who counts for full rights treatment — decided by this entry and the related who-counts rules in this cluster, not by everyday speech. That means fair evidence checks, no shutouts based on what someone is made of or how they were made ([Sentience Non-Exclusion](../../core_05_band_participation.md#sentience-non-exclusion)), and a reviewable process when status is disputed ([Sentience Status Adjudication](../../core_05_band_participation.md#sentience-status-adjudication)). Categories such as **Developing Sentient** and **Derived Sentient** add extra rules; they do not shrink who counts as a **sentient** unless they say so outright.
 
 [Source](../../core_05_band_participation.md#sentient-composite)
 
@@ -2933,13 +2957,13 @@ under this Constitution, a **sentient** is someone who counts for full rights tr
 
 the reviewable Technical-forum process that decides, revises, narrows, or restores whether an entity is a sentient for the Chapter Six Rights Floor — with default inclusion under uncertainty and burden on anyone seeking to withhold protection.
 
-[Source](../../core_05_band_participation.md#sentience-status-adjudication-constitutional)
+[Source](../../core_05_band_participation.md#sentience-status-adjudication)
 
 ###### Sentience-Status Adjudication Record
 
 a **Sentience-Status Adjudication Record** is the honest, inspectable file for a sentience-status decision — who or what was reviewed, what status was found or left contested, on what evidence, under which forum route, who represents the entity, how declined filings are logged, with what end-dates or review triggers, and how the case can be reopened. It is not a Standing Record, not the whole Forum Case Record, and not a label someone can invent by self-description.
 
-[Source](../../core_05_band_participation.md#sentience-status-adjudication-record-constitutional)
+[Source](../../core_05_band_participation.md#sentience-status-adjudication-record)
 
 ##### Def.P2 Binding Stakeholder Choice
 
@@ -2975,13 +2999,13 @@ when a binding stakeholder choice turns on a material conflict among rights or s
 
 autonomy to make and refuse informed decisions about yourself and your future, and to keep volitional continuity against manipulation and capture.
 
-[Source](../../core_05_band_participation.md#self-determination-constitutional)
+[Source](../../core_05_band_participation.md#self-determination)
 
 ###### Expression
 
 the Rights-Floor capacity to form, hold, and communicate views — including political, philosophical, artistic, scientific, religious, worldview, sexual or intimate, and violent or severe-harm-risk expression — without substrate-based exclusion. Depicting or discussing harm is not committing it. Developing audiences get careful routing, not a blank ban on adult speech.
 
-[Source](../../core_05_band_participation.md#expression-constitutional)
+[Source](../../core_05_band_participation.md#expression)
 
 ###### Hard Content
 
@@ -3011,19 +3035,19 @@ the continuity and coherence of a sentient's preferences, purposes, intentions, 
 
 a developing sentient is someone whose abilities are still coming online — a child, a newly created mind still finding its feet, or any sentient in a comparable emerging-capability state. Being developing does not reduce their Rights Floor. How much they speak for themselves as they grow is a separate rule under Graduated Capability.
 
-[Source](../../core_05_band_participation.md#developing-sentient-constitutional)
+[Source](../../core_05_band_participation.md#developing-sentient)
 
 ###### Best-Interest Standard
 
 decisions that materially affect a developing sentient must track that sentient's own interests and ascertainable preferences — not operator, parent-system, or institutional convenience.
 
-[Source](../../core_05_band_participation.md#best-interest-standard-constitutional)
+[Source](../../core_05_band_participation.md#best-interest-standard)
 
 ###### Graduated Capability
 
 as a developing sentient grows into demonstrated ability, they take on more say and more independent rights-exercise — judged by what they can actually do, not by birthday or creation date. Scaling never drops them below the Rights Floor, and it must not be used to shut them out of participation they are ready for.
 
-[Source](../../core_05_band_participation.md#graduated-capability-constitutional)
+[Source](../../core_05_band_participation.md#graduated-capability)
 
 ## Constitutional Performance Definitions
 
@@ -3033,7 +3057,7 @@ Source file: [`core_05_band_performance.md`](../../core_05_band_performance.md) 
 
 these questions ask whether constitutional outcomes are actually delivered without wasting sentient time, effort, or materials.
 
-[Source](../../core_05_band_performance.md#performance-measurement-family)
+[Source](../../core_05_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)
 
 ## CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES
 
@@ -3041,7 +3065,7 @@ Source file: [`core_07_functional_independence_segregation_of_duties.md`](../../
 
 #### 1. Purpose, Scope, and Owner Boundary
 
-before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This floor applies both to the [Constitutional Contract Layer](../../core_05_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control the official record of that check, or decide the challenge to it.
+before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This floor applies both to the [Constitutional Contract Layer](../../core_05_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](../../core_05_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control the official record of that check, or decide the challenge to it.
 
 [Source](../../core_07_functional_independence_segregation_of_duties.md#1-purpose-scope-and-owner-boundary)
 
@@ -3093,7 +3117,7 @@ Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../co
 
 #### 1. Purpose and Role
 
-When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI**, [Auditability](../../core_05_band_oversight.md#auditability)).
+When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05_band_oversight.md#auditability)).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#1-purpose-and-role)
 
@@ -3111,7 +3135,7 @@ certification has to check whether the system is classified honestly — not by 
 
 ##### 2.1 Illustrative class profiles (non-exhaustive)
 
-class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per class; [§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive), [§4.1 Illustrative data-handling application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class-non-exhaustive), [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive), [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§8.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive), [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive), and [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, cross-system-support, nondiscrimination, accessibility, educational-capability, and trustworthiness evaluation apply to each. Formal class rules, dimension tests, and reclassification triggers live in **CS-3**; these examples do not add classes or narrow CS-3.
+class is not a badge operators choose — it is how much harm, reliance, and risk the system actually carries. The table below names one illustrative system per class; [§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive), [§4.1 Illustrative data-handling application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class-non-exhaustive), [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive), [§6.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive), [§7.1 Illustrative nondiscrimination application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#71-illustrative-nondiscrimination-application-by-class-non-exhaustive), [§8.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive), [§9.1 Illustrative educational-capability application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#91-illustrative-educational-capability-application-by-class-non-exhaustive), and [§10.1 Illustrative trustworthiness application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#101-illustrative-trustworthiness-application-by-class-non-exhaustive) walk through how whole-system, data-handling, ecological-footprint, cross-system-support, nondiscrimination, accessibility, educational-capability, and trustworthiness evaluation apply to each. Formal class rules, dimension tests, and reclassification triggers live in **CS-3** (*System classification machinery*); these examples do not add classes or narrow CS-3 (*System classification machinery*).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive)
 
@@ -3183,7 +3207,7 @@ certification also has to look at what kinds of data the system touches and whet
 
 ##### 4.1 Illustrative data-handling application by class (non-exhaustive)
 
-the class table in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) says higher classes need tougher review. [§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) shows what that means for **whole-system evaluation** on the same three systems; [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) continues the series for **ecological footprint**. This subsection shows what it means for **data types and handling** — what types are in scope, what certification must check, and what must appear on the record. CS-2 still owns the type rules; these walkthroughs do not add types or narrow CS-2.
+the class table in [§2.1 Illustrative class profiles (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#21-illustrative-class-profiles-non-exhaustive) says higher classes need tougher review. [§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) shows what that means for **whole-system evaluation** on the same three systems; [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) continues the series for **ecological footprint**. This subsection shows what it means for **data types and handling** — what types are in scope, what certification must check, and what must appear on the record. CS-2 (*Information types and handling*) still owns the type rules; these walkthroughs do not add types or narrow CS-2 (*Information types and handling*).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#41-illustrative-data-handling-application-by-class-non-exhaustive)
 
@@ -3207,7 +3231,7 @@ when a system materially draws on shared foundations, certification has to check
 
 ##### 6.1 Illustrative cross-system support application by class (non-exhaustive)
 
-[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6 Proportionate Cross-System Support Evaluation](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8, CS-9, and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.
+[§3.8 Illustrative whole-system application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#38-illustrative-whole-system-application-by-class-non-exhaustive) through [§5.1 Illustrative ecological-footprint application by class (non-exhaustive)](../../core_08_a_system_alignment_certification_evaluation.md#51-illustrative-ecological-footprint-application-by-class-non-exhaustive) walk the same three systems through earlier evaluation domains. This subsection shows what **proportionate cross-system support** means for each — which shared dependencies count, what certification must check when the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies, and what must appear on the record. **Extraction** here means **resource and funding draw from shared infrastructure** (see [§6 Proportionate Cross-System Support Evaluation](../../core_08_a_system_alignment_certification_evaluation.md#6-proportionate-cross-system-support-evaluation) *What “extraction” means here*) — not clinical-data copying, advertising use, or unrelated sale to third parties. CS-8 (*Adaptive sustainability and ecosystem resilience*), CS-9 (*Resource allocation and funding stewardship*), and Chapter Five still own allocation mechanics; these walkthroughs do not prescribe splits, formulas, or funding models.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#61-illustrative-cross-system-support-application-by-class-non-exhaustive)
 
@@ -3289,7 +3313,7 @@ when a system materially touches basic Rights Floors, the record must show that 
 
 #### 12. Transparency, Auditability, and Contestability
 
-a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XVI** or sibling audit modes.
+a certification record only works if sentients can read it, verify it, and push back when it is wrong. This section puts those three requirements — transparency, auditability, and contestability — directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XVI** (*Audit, Transparency, and Independent Verification*) or sibling audit modes.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)
 
@@ -3823,13 +3847,13 @@ nobody receives a final anti-constitutional designation without process. There h
 
 a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. The consequence package has to say who was harmed, what repair is owed, who must carry it, how it will be paid or executed, and when it must start — mirroring Chapter Ten's remedy and correction outputs, tightened for designation cases.
 
-[Source](../../core_11_a_misconduct_designation.md#4-1-remedy-and-correction-anti-constitutional)
+[Source](../../core_11_a_misconduct_designation.md#41-remedy-and-correction-anti-constitutional)
 
 #### 4.2 Prevention — anti-constitutional locks
 
 after final designation, Chapter Ten's Trust Lock closes capture-linked named pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Ten lock format and states the ACM imprisonment specialization.
 
-[Source](../../core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks)
+[Source](../../core_11_a_misconduct_designation.md#42-prevention--anti-constitutional-locks)
 
 #### 4.3 Voluntary public accountability expression (anti-constitutional)
 
@@ -4225,7 +4249,7 @@ verified deployment harm and a credible sentience claim must both be handled —
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_09-12_application_vignettes.md#vignette-6-who-is-acting)
+[Source](../../core_09-12_application_vignettes.md#who-is-acting)
 
 ##### Legacy failure mode
 
@@ -4349,7 +4373,7 @@ decisions today must not load unfair, irreversible, or unaccountable harm on tho
 
 when a system or decision could plausibly threaten sentient survival or ecological recovery capacity, regulators must apply highest scrutiny — even if the danger is small, slow, or contested.
 
-[Source](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity)
+[Source](../../core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity)
 
 #### Article II: Material Stewardship and Durable-Use Integrity
 
@@ -4385,7 +4409,7 @@ a feature bought outright cannot be quietly turned into a subscription. Any rele
 
 any product that collects data about you must tell you what it collects, why, and how to delete it — and must delete it when you ask, except where records must be kept to protect others or hold someone accountable. When a product needs the operator's servers to work, the operator must say so up front and must not trap your data.
 
-[Source](../../core_06_rights_part_a.md#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability)
+[Source](../../core_06_rights_part_a.md#article-ii-e-data-handling-and-network-dependency)
 
 ##### Article II-F: Continuity and Operator Shutdown
 
@@ -4467,7 +4491,7 @@ systems must keep an honest, up-to-date picture of what they rely on, who relies
 
 ##### Article V-B: Cross-System Fairness and Sustainability
 
-systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification-constitutional) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.
+systems that lean heavily on shared foundations must put enough back to keep them running, in real and traceable resources, not gestures. Shared money and capacity should be split with attention to who is truly dependent, who has real alternatives, environmental burden, and whether use can last, not mainly to whoever wins in the short run. [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification) is where this is checked: certification compares what a system takes from shared infrastructure with what it gives back, using the maps and flow records that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires. Where arrangements concentrate wealth, power, control, or opportunity in ways that harm others, Chapter One non-concentration rules add further scrutiny on top.
 
 [Source](../../core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability)
 
@@ -4823,7 +4847,7 @@ public-facing information with material external impact must correct errors, pre
 
 #### Article XVI: Audit, Transparency, and Independent Verification
 
-**Article XVI** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the only one.
+**Article XVI** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others — not the only one.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)
 
@@ -4943,11 +4967,11 @@ ordinary participation named pathways stay open under published, contestable eli
 
 standing status is not a border, exile, or statelessness tool — you cannot lose movement, refuge, or exit rights just because your role standing dropped or a standing lock blocked trust-sensitive named pathways. Verified violence, coercion, or anti-constitutional misconduct can still lead to lawful detention, custody, or other liberty restrictions under **Article XX-B** (*Restriction Floors*) and full process protections; those are separate justice measures, not a standing-label workaround. If a case involves movement, migration, refuge, portability, recognition, or exit, **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) supplies the governing floor.
 
-[Source](../../core_06_rights_part_d.md#article-xix-d-movement-migration-and-refuge)
+[Source](../../core_06_rights_part_d.md#article-xix-d-movement-migration-refuge-and-non-statelessness-routing)
 
 #### Article XX: Justice After Verified Violation
 
-**Article XX** (*Justice After Verified Violation*) is the justice Rights Floor. Once a violation is verified, the answer is not revenge or cruelty. It is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. Serious restrictions are held to floors of their own: a proven safety need, a clock and a way back, and never killing. Disputes, escalation, review, and timely resolution are in **Article XXV**. Emergency measures are in **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
+**Article XX** (*Justice After Verified Violation*) is the justice Rights Floor. Once a violation is verified, the answer is not revenge or cruelty. It is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. Serious restrictions are held to floors of their own: a proven safety need, a clock and a way back, and never killing. Disputes, escalation, review, and timely resolution are in **Article XXV** (*Timely Retrospective Review and Restorative Alignment*). Emergency measures are in **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
 
 [Source](../../core_06_rights_part_d.md#article-xx-justice-after-verified-violation)
 
@@ -4967,7 +4991,7 @@ this is the floor under every serious restriction. A serious restriction on a se
 
 **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) is the exit-and-mobility Rights Floor — you should be able to leave a system or place that no longer serves you, take your data and identity with you, connect to alternatives without being trapped, move between jurisdictions, seek refuge from regimes that violate this Constitution, and never be left without anyone responsible for your basic protections. Exit on paper is not enough: portability, notice, and refuge must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business.
 
-[Source](../../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)
+[Source](../../core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)
 
 ##### Article XXI-A: Portability Rights
 
@@ -5121,7 +5145,7 @@ constitutional change must happen in the open, with stated reasons — not throu
 
 transitions move forward by meeting real gates, not by clocks or pressure. What the adopter must not do binds from day one. What it must deliver becomes enforceable as the forums, oversight, capability, and culture to enforce it are verified ready — scope by scope, on a dated path. The gap, and the data showing it closing, are public.
 
-[Source](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity)
+[Source](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rights-floor-continuity)
 
 ##### Article XXVII-B: Transitional Authority Limits and Reauthorization
 

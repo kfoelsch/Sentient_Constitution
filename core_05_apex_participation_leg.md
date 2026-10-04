@@ -13,8 +13,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) (participation leg; [material stake](core_00_preamble.md#material-stake) scaling); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); primary aim [Flourishing](core_00_preamble.md#flourishing).
-- Downstream: Principles: [Preamble §1 The Model](core_00_preamble.md#the-model); [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency); [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); Part B tradeoff and interpretation homes: [Chapter One §13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity); [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process); [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Chapter One §13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter One §15.1 Constitutional No-Bypass Principle](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle); [Chapter One §15.1.2 Derived-Information Principle](core_01_b_interaction_interpretation.md#1512-derived-information-principle); [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) where the stakeholder layer applies; [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in [core_05_band_participation.md](core_05_band_participation.md).
-- Read with: [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Contestability](core_05_band_accountability.md#contestability) (participation/accountability boundary), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) (timely participation), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [System Capture](core_05_band_continuity.md#system-capture), and Participation measurement family.
+- Downstream: Principles: [Preamble §1 The Model](core_00_preamble.md#the-model); [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency); [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); Part B tradeoff and interpretation homes: [Chapter One §13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity); [Chapter One §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process); [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Chapter One §13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter One §15.1 Constitutional No-Bypass Principle](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle); [Chapter One §15.1.2 Derived-Information Principle](core_01_b_interaction_interpretation.md#1512-derived-information-principle); [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight) where the stakeholder layer applies; [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in [core_05_band_participation.md](core_05_band_participation.md).
+- Read with: [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Contestability](core_05_band_accountability.md#contestability) (participation/accountability boundary), [Accessibility](core_05_band_participation.md#accessibility), [Substantive Fairness](core_05_band_participation.md#substantive-fairness), [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice), [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) (timely participation), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [System Capture](core_05_band_continuity.md#system-capture), and Participation measurement family.
 
 </details>
 
@@ -34,11 +34,11 @@
     - representation;
     - contestable decision pathways; and
     - proportionate access to consequential roles in systems that materially affect them — scaled with [material stake](core_00_preamble.md#material-stake).
-    Distinct from the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster) operational layer where governing authority is already authorized.
+    Distinct from the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight) operational layer where governing authority is already authorized.
   - **Depends on:** the conditions this leg needs in order to work. Each term's detailed scope and how-to-measure rules live on its own definition; start from [Tetrad Leg decomposition](#participation-tetrad-leg-decomposition):
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
-    - [Accessibility](core_05_band_participation.md#accessibility-constitutional);
-    - [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional); and
+    - [Accessibility](core_05_band_participation.md#accessibility);
+    - [Substantive Fairness](core_05_band_participation.md#substantive-fairness); and
     - [Contestability](core_05_band_accountability.md#contestability).
   - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by leaf entries and CJS.
 <a id="participation-constitutional-m"></a>
@@ -61,7 +61,7 @@
     - labels or ceremonies that do not actually change participation outcomes;
     - contest pathways are inaccessible, captured, or ineffective where participation is materially required;
     - role access is blocked by arbitrary gatekeeping disproportionate to [material stake](core_00_preamble.md#material-stake); or
-    - participation capacity is degraded by [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional) or [System Capture](core_05_band_continuity.md#system-capture) without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
+    - participation capacity is degraded by [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation) or [System Capture](core_05_band_continuity.md#system-capture) without justified exception under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality).
 
 ---
 
@@ -76,12 +76,12 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 **Dependent clusters** (**Def.P1–Def.P3**) — joint-invocation homes:
 
-- **Animal Life, Sentient Life, and Sentience Status** — [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)
-- **Binding Stakeholder Choice** — [Def.P2 *Binding Stakeholder Choice*](core_05_band_participation.md#binding-stakeholder-choice-cluster)
-- **Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity** — [Def.P3 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster):
-    - [Self-Determination](core_05_band_participation.md#self-determination-constitutional);
+- **Animal Life, Sentient Life, and Sentience Status** — [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)
+- **Binding Stakeholder Choice** — [Def.P2 *Binding Stakeholder Choice*](core_05_band_participation.md#defp2-binding-stakeholder-choice)
+- **Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity** — [Def.P3 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity):
+    - [Self-Determination](core_05_band_participation.md#self-determination);
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency);
-    - [Expression](core_05_band_participation.md#expression-constitutional);
+    - [Expression](core_05_band_participation.md#expression);
     - [Educational Agency](core_05_band_participation.md#educational-agency); and
     - [Volitional Integrity](core_05_band_participation.md#volitional-integrity).
 
@@ -96,7 +96,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Educational Agency](core_05_band_participation.md#educational-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](core_05_band_continuity.md#privacy-informational-cluster) in the Continuity band.
+- Downstream: Participation measurement family — link-only rollup; per-term tiers live on leaf definitions — see [Substantive Fairness](core_05_band_participation.md#substantive-fairness), [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), [Accessibility](core_05_band_participation.md#accessibility), [Educational Agency](core_05_band_participation.md#educational-agency), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), and the [Privacy (Informational) cluster](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
 - Read with: Chapter Six, [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), or incorporated instruments — binding nondiscrimination, accommodation, education, or privacy requirements arise when those instruments expressly require them.
 
 </details>
@@ -105,7 +105,7 @@ Leaf definitions under this leg inherit its scope unless they expressly narrow o
 
 *In plain terms: these questions ask whether affected parties actually get voice, access, and a fair chance to challenge — not symbolic consultation. This is the Chapter Five home for the Participation measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
-*Materiality* ([Materiality](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
+*Materiality* ([Materiality](core_05_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
 | Measurement family | Plain question | Main constitutional use |
 |---|---|---|

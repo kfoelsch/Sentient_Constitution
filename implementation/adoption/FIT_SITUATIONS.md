@@ -17,8 +17,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Sixteen §10](../../core_16_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, joining*); [Preamble §1](../../core_00_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00_preamble.md#material-stake)); [Preamble §3.3](../../core_00_preamble.md#33-governance-layers) (*Constitutional Contract Layer* vs *Stakeholder System Participation*); [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*); [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) (*documented legitimacy mechanism*).
-- Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-fit-tests); [§2](#2-two-modes); [§3](#3-how-to-route); [§4](#4-ranked-situations); [§5](#5-honest-non-fits); [§6](#6-kit-routing).
-- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) (*phased migration after a recorded instrument*).
+- Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-fit-tests); [§2](#2-two-modes); [§3](#3-how-to-route); [§4](#4-ranked-situations-near-term-first); [§5](#5-honest-non-fits); [§6](#6-kit-routing).
+- Read with: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`COOPERATION_SCALING_KIT.md`](COOPERATION_SCALING_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*); [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) (*phased migration after a recorded instrument*).
 
 </details>
 
@@ -46,7 +46,7 @@ This page, the sketches, and the routing table **cannot narrow core text**. A fi
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** a founding kit, an instrument fill-in, a Charter, a forum-structure map, or [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Sixteen instrument.
+This page is **not** a founding kit, an instrument fill-in, a Charter, a forum-structure map, or [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). CS-10 sequences migration **after** a recorded Chapter Sixteen instrument.
 
 This page does **not**:
 
@@ -71,7 +71,7 @@ A situation is a good fit when **several** of these are true. None of these test
 |---|---|---|
 | **Bind the systems** | A body can bind the models, logs, deploy stack, or staffing it actually runs ([Chapter Seventeen §4](../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority)) | A values page, a blog, or a hosted product the crew does not control |
 | **Shared costly duties** | Bonus, deadline, and “ignore it, I’ll take responsibility” are failed tests for **both** kinds of steward ([§9.1.2](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)) | An AI-only overlay, or a human exemption |
-| **Founding or operating a body** | Greenfield cooperative, research body, commons, operator, or consortium ([System Creation](../../core_05_band_participation.md#system-creation-constitutional); [Business Creation](../../core_05_band_participation.md#business-creation-constitutional)) | Retrofitting an existing national constitution as drop-in law |
+| **Founding or operating a body** | Greenfield cooperative, research body, commons, operator, or consortium ([System Creation](../../core_05_band_participation.md#system-creation); [Business Creation](../../core_05_band_participation.md#business-creation)) | Retrofitting an existing national constitution as drop-in law |
 | **Material stake** | Impact, dependence, and risk are high enough that participation, oversight, accountability, and timeliness must scale ([Preamble §1](../../core_00_preamble.md#constitutional-tetrad)) | Convenience metrics standing in for constitutional performance |
 | **Layer discipline** | Who may govern is documented separately from voice inside an already-authorized system ([Preamble §3.3](../../core_00_preamble.md#33-governance-layers)) | A participation vote, token vote, or standing score treated as authorization — or as sentience status |
 | **Independent review** | A published backup, external reviewer, or existing adjudicative body the cooperating crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A) | The founding Slack calling itself the merits path |
@@ -88,7 +88,7 @@ Two modes of use are already named in [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATI
 | Mode | What it is | When “adoption” language is honest |
 |---|---|---|
 | **Operations-guide use** | Pick up stacks for real-world problem solving without claiming full constitutional adoption | It is not. Attach the first-adopter kit’s [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when that is the actual situation |
-| **Full adoption** | A qualifying body records a Chapter Sixteen instrument, with Chapter Seventeen custody, then [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) migration | Only after that instrument exists in **that body’s** custody |
+| **Full adoption** | A qualifying body records a Chapter Sixteen instrument, with Chapter Seventeen custody, then [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) migration | Only after that instrument exists in **that body’s** custody |
 
 Track A in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) lets a cooperative, research body, commons, or commercial form publish a [Chapter Five Charter](../../core_05_band_continuity.md#charter) **without** a Chapter Sixteen instrument. Track B (oversight, certification steward, standing-record admin, amendment admin) waits on that instrument. A Charter draft is not the instrument, and the kit fill-in is not a live Charter.
 
@@ -143,7 +143,7 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 A company, lab, or public operator that **runs** the system — not a commentator on it. Natural stacks: [Chapter Eight](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) certification, audit layers, [emergency / continuity](../STEWARD_ENTRY_DOORS.md#emergency), [remedy](../STEWARD_ENTRY_DOORS.md#remedy). Start as operations-guide. Full adoption only if the operator can bind those systems in **its** custody.
 
-**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge clocks on outages ([Chapter Twelve §6.1 Emergency measures and continuation burden](../../core_12_forum.md#61-emergency-measures-and-continuation-burden)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge)).
+**Sketch.** A hospital or city deploys a triage or dispatch model. Certification before scale; restore-challenge clocks on outages ([Chapter Twelve §6.1 Emergency measures and continuation burden](../../core_12_forum.md#61-emergency-measures-and-continuation-burden)); affected sentients can ask for intake without reading the corpus ([plain challenge](../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic)).
 
 <a id="43-two-party-mixed-cooperation"></a>
 ### 4.3 Two-party mixed cooperation (the first-adopter path)
@@ -163,7 +163,7 @@ A new body that sets tool-use, payment, or routing rules among agents. Same stew
 <a id="46-cooperatives-with-ai-members"></a>
 ### 4.6 Cooperatives and worker bodies that include AI members
 
-Platform cooperatives, research cooperatives, and mutual-aid networks that treat AI members as stewards under [Sentience Non-Exclusion](../../core_05_band_participation.md#sentience-non-exclusion), not as tools with a side ethics policy. [System Creation](../../core_05_band_participation.md#system-creation-constitutional) / [Collective Organization](../../core_05_band_participation.md#collective-organization-constitutional) / [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). Same costly cases for human members. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A.
+Platform cooperatives, research cooperatives, and mutual-aid networks that treat AI members as stewards under [Sentience Non-Exclusion](../../core_05_band_participation.md#sentience-non-exclusion), not as tools with a side ethics policy. [System Creation](../../core_05_band_participation.md#system-creation) / [Collective Organization](../../core_05_band_participation.md#collective-organization) / [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). Same costly cases for human members. Kit door: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) Track A.
 
 <a id="47-critical-infrastructure-ops-guide"></a>
 ### 4.7 Critical-infrastructure operators using stacks without polity adoption
@@ -222,7 +222,7 @@ If any “cannot bind” row in the first-adopter kit’s [scope honesty](FIRST_
 | Naming independent review, or founding forum families after an instrument | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | A markdown panel; staffing Track A from the cooperating crew |
 | Fitness screen plus own-conduct | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Adoption |
 | Day-to-day next step at 2 a.m. | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | A standing record or a parallel morals stack |
-| Phased migration **after** a recorded instrument | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-10-1-purpose-and-role) | Using this page, or a Charter draft, as phase entry |
+| Phased migration **after** a recorded instrument | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | Using this page, or a Charter draft, as phase entry |
 
 Filling any row is not adoption. Opening this folder is not adoption.
 

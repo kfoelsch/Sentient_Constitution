@@ -29,11 +29,11 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 | Cluster | Section |
 |---|---|
 | **CJS-3.2** / **oDef.2** | Oversight: reflexive transparency and accountability terms |
-| **CJS-3.3** / **oDef.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33-audit-process-home)) |
+| **CJS-3.3** / **oDef.3** | Oversight: auditability and reconstructability terms (**OP annex** — process home is [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)) |
 | **CJS-3.4** / **oDef.4** | Oversight: tiered transparency and audit-access terms (annex — including audit-process output disclosure) |
 | **CJS-3.5** / **oDef.5** | Oversight: independent verification and claim-integrity terms (annex) |
 | **CJS-3.6** / **oDef.6** | Oversight: integrity assurance and resilience operations |
-**Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
+**Reader note.** For what auditing is, why / how / when to run it, and the sibling-mode map, start at the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)**. This file keeps the machine-facing Oversight OP clusters.
 
 ---
 
@@ -44,7 +44,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*); **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
 - Read with: **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
-- Read with: **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
+- Read with: **[CJS-3.3](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (*audit process home*)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
@@ -54,7 +54,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **CJS-3.13 — Procedural Integrity and Adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §13.2, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
@@ -243,11 +243,11 @@ Transparency, audit, and verification-integrity duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)**).
+- Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)**).
 - Read with: **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
-- Read with: **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — what / why / how / when; this section is the machine-facing annex only
+- Read with: **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** — what / why / how / when; this section is the machine-facing annex only
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) (*tiered transparency and audit-access terms* — annex for access tiers and audit-output disclosure)
 - Read with: **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
@@ -255,7 +255,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
@@ -268,14 +268,14 @@ Transparency, audit, and verification-integrity duties
 - [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
 <br>
 
-*In plain terms: this is the machine-facing auditability checklist for **CJS-3.3** — Oversight: auditability and reconstructability terms (annex). Start at the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** for what / why / how / when.*
+*In plain terms: this is the machine-facing auditability checklist for **CJS-3.3** — Oversight: auditability and reconstructability terms (annex). Start at the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** for what / why / how / when.*
 
 The guidepost **oDef** rules below are the compliance checklist for the process home. They do not replace the what / why / how / when guide. Tiered access and audit-output disclosure continue in **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); independent claim verification continues in **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*).
 
@@ -371,7 +371,7 @@ Operational transparency and structured logging requirements
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*).
-- Read with: **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*) (*audit process home* — what / why / how / when in [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33-audit-process-home); this cluster is the access-tier and output-disclosure annex)
+- Read with: **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*) (*audit process home* — what / why / how / when in [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home); this cluster is the access-tier and output-disclosure annex)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
@@ -379,8 +379,8 @@ Operational transparency and structured logging requirements
 - Read with: **`corpus_forum.md` CF-12 (*Forum continuity*) through CF-14 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems))
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems))
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §18.2, §18, §19.1, §15 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
@@ -388,8 +388,8 @@ Operational transparency and structured logging requirements
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Accessibility](../core_05_band_participation.md#accessibility) · [O](../core_05_band_participation.md#accessibility) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
+- [Reversibility](../core_05_band_continuity.md#reversibility) · [O](../core_05_band_continuity.md#reversibility) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 - [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
 - [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
@@ -399,9 +399,9 @@ Operational transparency and structured logging requirements
 
 <br>
 
-*In plain terms: this cluster is the access-tier and audit-output annex to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — not the process home itself.*
+*In plain terms: this cluster is the access-tier and audit-output annex to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** — not the process home itself.*
 
-Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
+Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
 
 <a id="tiered-transparency-and-audit-access-terms"></a>
 tiered transparency and audit-access terms
@@ -480,7 +480,7 @@ Class A/B/C public-interest visibility
 *In plain terms: for Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational…*
 
 - **What it is**
-  - **In scope:** For Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance — including, at public-baseline fidelity, a usable public view of the governing Charter (or equivalent), [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional), and [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional) — subject to `corpus_systems.md` CS-2 — Information types and handling data handling. **Type O** is the publication posture for that floor; **Type E** and **Type G** are source domains, not substitutes for it.
+  - **In scope:** For Class A, Class B, and Class C systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) must cover the system purpose, classification, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance — including, at public-baseline fidelity, a usable public view of the governing Charter (or equivalent), [System Classification Record](../core_05_band_continuity.md#system-classification-record), [System Data Types Record](../core_05_band_continuity.md#system-data-types-record), and [System Certification Record](../core_05_band_continuity.md#system-certification-record) — subject to `corpus_systems.md` CS-2 — Information types and handling data handling. **Type O** is the publication posture for that floor; **Type E** and **Type G** are source domains, not substitutes for it.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in class A/B/C public-interest visibility.
 <a id="class-a-b-c-public-interest-visibility-a"></a>
 - **How to measure and assess**
@@ -586,11 +586,11 @@ Tier structure and baseline accessibility
 
 - Read with: **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*).
 - Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
-- Read with: **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
+- Read with: **[CJS-3.3](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (*audit process home*)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
@@ -604,16 +604,16 @@ Tier structure and baseline accessibility
 - [Feasibility](../core_05_band_accountability.md#feasibility) · [O](../core_05_band_accountability.md#feasibility) · [M](../core_05_band_accountability.md#feasibility-a) · [A](../core_05_band_accountability.md#feasibility-a) · [C](../core_05_band_accountability.md#feasibility-c)
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Trust](../core_05_band_continuity.md#trust) · [O](../core_05_band_continuity.md#trust) · [M](../core_05_band_continuity.md#trust-a) · [A](../core_05_band_continuity.md#trust-a) · [C](../core_05_band_continuity.md#trust-c)
 
 </details>
 
 <br>
 
-*In plain terms: this cluster is the claim-checking annex to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — how material claims stay independently testable.*
+*In plain terms: this cluster is the claim-checking annex to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** — how material claims stay independently testable.*
 
-Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
+Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
 
 <a id="independent-verification-and-claim-integrity-terms"></a>
 independent verification and claim-integrity terms
@@ -742,7 +742,7 @@ Structured review and incentive-integrity floor
 
 - Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
 - Read with: Core definitions for auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
-- Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
 - Chapter One basis: §15.1, §15.2, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
@@ -757,7 +757,7 @@ Structured review and incentive-integrity floor
 - [Trustworthiness](../core_05_band_continuity.md#trustworthiness) · [O](../core_05_band_continuity.md#trustworthiness-o) · [M](../core_05_band_continuity.md#trustworthiness-a) · [A](../core_05_band_continuity.md#trustworthiness-a) · [C](../core_05_band_continuity.md#trustworthiness-c)
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
 - [Material Risk](../core_05_band_oversight.md#material-risk) · [O](../core_05_band_oversight.md#material-risk) · [M](../core_05_band_oversight.md#material-risk-a) · [A](../core_05_band_oversight.md#material-risk-a) · [C](../core_05_band_oversight.md#material-risk-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Reversibility](../core_05_band_continuity.md#reversibility) · [O](../core_05_band_continuity.md#reversibility) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Verifiability](../core_05_band_oversight.md#verifiability) · [O](../core_05_band_oversight.md#verifiability) · [M](../core_05_band_oversight.md#verifiability-a) · [A](../core_05_band_oversight.md#verifiability-a) · [C](../core_05_band_oversight.md#verifiability-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 

@@ -44,7 +44,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - Read with: **Sentient Constitution Chapter Thirteen** section 4
 - Read with: **Chapter Six **Article X-B** (*Governance Participation and Voting Entitlement*)**
 - Read with: **Chapter Six **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)**
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §15.1, §6, §13.2, §18, §15, §17 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
@@ -56,7 +56,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - [Constitutional Contract Layer](../core_05_band_integrative.md#constitutional-contract-layer) · [O](../core_05_band_integrative.md#constitutional-contract-layer) · [M](../core_05_band_integrative.md#constitutional-contract-layer-a) · [A](../core_05_band_integrative.md#constitutional-contract-layer-a) · [C](../core_05_band_integrative.md#constitutional-contract-layer-c)
 - [Material Impact](../core_05_band_oversight.md#material-impact) · [O](../core_05_band_oversight.md#material-impact) · [M](../core_05_band_oversight.md#material-impact-a) · [A](../core_05_band_oversight.md#material-impact-a) · [C](../core_05_band_oversight.md#material-impact-c)
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Reversibility](../core_05_band_continuity.md#reversibility) · [O](../core_05_band_continuity.md#reversibility) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 
 </details>
@@ -296,7 +296,7 @@ Weighted participation
 
 - Read with: **CJS-3.8 — Comprehensibility and Cognitive Accessibility**
 - Read with: [**CS-6**](../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*)
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §5.2, §13.2, §19.1, §15 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
@@ -304,7 +304,7 @@ Weighted participation
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
+- [Accessibility](../core_05_band_participation.md#accessibility) · [O](../core_05_band_participation.md#accessibility) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 - [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
 - [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
@@ -518,7 +518,7 @@ Summary integrity
 - Read with: **CJS-3.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §3, §15.2, §6, §19.1, §15 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
@@ -531,8 +531,8 @@ Summary integrity
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 - [Sentient](../core_05_band_participation.md#sentient-composite) · [O](../core_05_band_participation.md#sentient-composite) · [M](../core_05_band_participation.md#sentient-composite-a) · [A](../core_05_band_participation.md#sentient-composite-a) · [C](../core_05_band_participation.md#sentient-composite-c)
-- [Consent](../core_05_band_participation.md#consent-constitutional) · [O](../core_05_band_participation.md#consent-constitutional) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Consent](../core_05_band_participation.md#consent) · [O](../core_05_band_participation.md#consent) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Risk](../core_05_band_continuity.md#risk) · [O](../core_05_band_continuity.md#risk) · [M](../core_05_band_continuity.md#risk-a) · [A](../core_05_band_continuity.md#risk-a) · [C](../core_05_band_continuity.md#risk-c)
 
 </details>
@@ -724,7 +724,7 @@ User agency and control
 - Read with: **CJS-3.16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity** where dependencies matter
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §18.2, §19.1, §15 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
@@ -739,7 +739,7 @@ User agency and control
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [Consent](../core_05_band_participation.md#consent-constitutional) · [O](../core_05_band_participation.md#consent-constitutional) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
+- [Consent](../core_05_band_participation.md#consent) · [O](../core_05_band_participation.md#consent) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
 
 </details>
 

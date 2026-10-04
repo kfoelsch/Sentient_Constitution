@@ -28,9 +28,9 @@
 
 - [Trust Degradation and Misleading Reliance](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [M](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
 - [Stakeholder Weight](../core_05_band_participation.md#stakeholder-weight) · [O](../core_05_band_participation.md#stakeholder-weight) · [M](../core_05_band_participation.md#stakeholder-weight-a) · [A](../core_05_band_participation.md#stakeholder-weight-a) · [C](../core_05_band_participation.md#stakeholder-weight-c)
-- [Coercion and Manipulation](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Coercion and Manipulation](../core_05_band_participation.md#coercion-and-manipulation) · [O](../core_05_band_participation.md#coercion-and-manipulation) · [M](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
-- [Accessibility](../core_05_band_participation.md#accessibility-constitutional) · [O](../core_05_band_participation.md#accessibility-constitutional) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
+- [Accessibility](../core_05_band_participation.md#accessibility) · [O](../core_05_band_participation.md#accessibility) · [M](../core_05_band_participation.md#accessibility-constitutional-a) · [A](../core_05_band_participation.md#accessibility-constitutional-a) · [C](../core_05_band_participation.md#accessibility-constitutional-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 - [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
 - [Stakeholder](../core_05_band_participation.md#stakeholder) · [O](../core_05_band_participation.md#stakeholder) · [M](../core_05_band_participation.md#stakeholder-a) · [A](../core_05_band_participation.md#stakeholder-a) · [C](../core_05_band_participation.md#stakeholder-c)
@@ -39,8 +39,8 @@
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
 - [Charter](../core_05_band_continuity.md#charter) · [O](../core_05_band_continuity.md#charter) · [M](../core_05_band_continuity.md#charter-a) · [A](../core_05_band_continuity.md#charter-a) · [C](../core_05_band_continuity.md#charter-c)
-- [Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster)
-- [Consent](../core_05_band_participation.md#consent-constitutional) · [O](../core_05_band_participation.md#consent-constitutional) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
+- [Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice)
+- [Consent](../core_05_band_participation.md#consent) · [O](../core_05_band_participation.md#consent) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
 - [Corpus](../core_05_band_integrative.md#corpus) · [O](../core_05_band_integrative.md#corpus) · [M](../core_05_band_integrative.md#corpus-a) · [A](../core_05_band_integrative.md#corpus-a) · [C](../core_05_band_integrative.md#corpus-c)
 - [Trust](../core_05_band_continuity.md#trust) · [O](../core_05_band_continuity.md#trust) · [M](../core_05_band_continuity.md#trust-a) · [A](../core_05_band_continuity.md#trust-a) · [C](../core_05_band_continuity.md#trust-c)
 - [Accountability](../core_05_apex_accountability_leg.md#accountability) · [O](../core_05_apex_accountability_leg.md#accountability) · [M](../core_05_apex_accountability_leg.md#accountability-m) · [A](../core_05_apex_accountability_leg.md#accountability-a) · [C](../core_05_apex_accountability_leg.md#accountability-c)
@@ -90,7 +90,7 @@ Stewardship-development pathways are owned by **CI-4.5** (*Authorized roles and 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*); **CI-3.6** (*Charter contents, review, and formation template*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster); [Charter](../core_05_band_continuity.md#charter).
+- Read with: **CI-8.1** (*Stakeholder oversight, notification, and binding-governance pathway integrity*); **CI-3.6** (*Charter contents, review, and formation template*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice); [Charter](../core_05_band_continuity.md#charter).
 
 </details>
 
@@ -106,7 +106,7 @@ Apply **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) *
 - published **decision-path** material explaining whether input is advisory, binding, or otherwise relied on for governance effect; and
 - the escalation route when notice, participation, or reconstruction duties fail — including **CI-12** (*Cross-institution coordination and escalation*) where local review is conflicted or unavailable.
 
-Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster) admission scope applies, the governing [Charter](../core_05_band_continuity.md#charter) must point to these materials under **CI-3.6** (*Charter contents, review, and formation template*) field 10. The Charter points; this file and related Def.P2-compliant rules carry the substance.
+Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Charter](../core_05_band_continuity.md#charter) must point to these materials under **CI-3.6** (*Charter contents, review, and formation template*) field 10. The Charter points; this file and related Def.P2-compliant rules carry the substance.
 
 **What the local participation-window file must name**
 
@@ -122,7 +122,7 @@ Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#bindi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*); **CI-12** (*Cross-institution coordination and escalation*); **CI-3.6** (*Charter contents, review, and formation template*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster); [Charter](../core_05_band_continuity.md#charter); [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+- Read with: **CI-8.2** (*Anti-concentration and participation-legitimacy safeguards*); **CI-12** (*Cross-institution coordination and escalation*); **CI-3.6** (*Charter contents, review, and formation template*); [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice); [Charter](../core_05_band_continuity.md#charter); [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
 
 </details>
 
@@ -138,7 +138,7 @@ Apply **CJS-3.11** (*Accountability: distributed and proportional authority term
 - a **remediation trigger** and response path when thresholds are crossed or credibly approached; and
 - the **CI-12** (*Cross-institution coordination and escalation*) escalation route when local remediation stalls, is captured, or cannot act independently.
 
-Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#binding-stakeholder-choice-cluster) admission scope applies, the governing [Charter](../core_05_band_continuity.md#charter) must point to the weighting publication file under **CI-3.6** (*Charter contents, review, and formation template*) field 10. The Charter points; this file carries the weighting substance under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+Where [Def.P2 Binding Stakeholder Choice](../core_05_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, the governing [Charter](../core_05_band_continuity.md#charter) must point to the weighting publication file under **CI-3.6** (*Charter contents, review, and formation template*) field 10. The Charter points; this file carries the weighting substance under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](../core_05_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
 
 **What the local weighting publication file must name**
 

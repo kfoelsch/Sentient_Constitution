@@ -7,7 +7,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical home and hierarchy map for the **Continuity** constitutional aim. Read the definition below first (**What it is** / **How to measure and assess** / **What must hold**). Detailed definitions for Continuity topics and measurement families live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#continuity-aim-decomposition). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical home and hierarchy map for the **Continuity** constitutional aim. Read the definition below first (**What it is** / **How to measure and assess** / **What must hold**). Detailed definitions for Continuity topics and measurement families live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#constitutional-aim-decomposition). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -15,8 +15,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); plain-language aim at [Preamble §1](core_00_preamble.md#continuity).
-- Downstream: Principles: [Chapter One §10 Resilience and Self-Healing Design](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [Chapter One §9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity); [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#continuity-aim-decomposition); Continuity topic groups in [core_05_band_continuity.md](core_05_band_continuity.md).
-- Read with: [Stewardship](core_05_band_continuity.md#stewardship-constitutional), [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional), [Dependency](core_05_band_continuity.md#dependency), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Existential Risk](core_05_band_continuity.md#existential-risk), [Cascading Failure](core_05_band_continuity.md#cascading-failure), [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) (the paired aim — neither may be chased at the other's expense; chasing short-term gains that hollow **participation**, **oversight**, **accountability**, or **timeliness** below what [material stake](core_00_preamble.md#material-stake) requires fails **Continuity**, even if near-term outputs go up), [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) scaled to [material stake](core_00_preamble.md#material-stake) (how Continuity stays legitimate — not a fifth building block), Continuity measurement family, and [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+- Downstream: Principles: [Chapter One §10 Resilience and Self-Healing Design](core_01_a_values_principles.md#10-resilience-and-self-healing-design); [Chapter One §9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity); [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#constitutional-aim-decomposition); Continuity topic groups in [core_05_band_continuity.md](core_05_band_continuity.md).
+- Read with: [Stewardship](core_05_band_continuity.md#stewardship), [Stewardship Defect](core_05_band_continuity.md#stewardship-defect), [Ecological Integrity](core_05_band_continuity.md#ecological-integrity), [Dependency](core_05_band_continuity.md#dependency), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [Existential Risk](core_05_band_continuity.md#existential-risk), [Cascading Failure](core_05_band_continuity.md#cascading-failure), [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) (the paired aim — neither may be chased at the other's expense; chasing short-term gains that hollow **participation**, **oversight**, **accountability**, or **timeliness** below what [material stake](core_00_preamble.md#material-stake) requires fails **Continuity**, even if near-term outputs go up), [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) scaled to [material stake](core_00_preamble.md#material-stake) (how Continuity stays legitimate — not a fifth building block), Continuity measurement family, and [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory-non-operative).
 
 </details>
 
@@ -27,28 +27,28 @@
 *In plain terms: keep sentients and the living systems they depend on going for the long run — stable, sustainable, able to bounce back, and ecologically sound — not just looking fine for now.*
 
 - **What it is**
-  - **In scope:** Judging systems against this aim using the Continuity building blocks and measurement families listed in [Constitutional Aim decomposition](#continuity-aim-decomposition). The aim is long-horizon stability, sustainability, resilience, and ecological wellbeing for sentients and the life-supporting systems they depend on.
-  - **Depends on:** the themes named in [Preamble §1 The Model](core_00_preamble.md#continuity). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#continuity-aim-decomposition):
-    - [Stewardship](core_05_band_continuity.md#stewardship-constitutional);
-    - [Self-Healing](core_05_band_continuity.md#self-healing-constitutional);
+  - **In scope:** Judging systems against this aim using the Continuity building blocks and measurement families listed in [Constitutional Aim decomposition](#constitutional-aim-decomposition). The aim is long-horizon stability, sustainability, resilience, and ecological wellbeing for sentients and the life-supporting systems they depend on.
+  - **Depends on:** the themes named in [Preamble §1 The Model](core_00_preamble.md#continuity). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#constitutional-aim-decomposition):
+    - [Stewardship](core_05_band_continuity.md#stewardship);
+    - [Self-Healing](core_05_band_continuity.md#self-healing);
     - [Sustainability](core_05_band_continuity.md#sustainability);
-    - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional);
-    - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional);
-    - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional);
+    - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity);
+    - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions);
+    - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility);
     - [Dependency](core_05_band_continuity.md#dependency); and
-    - [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional).
-  - **Out of scope:** [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity-constitutional) unless the text expressly brings it in; the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
+    - [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support).
+  - **Out of scope:** [Indigenous Continuity](core_05_band_continuity.md#indigenous-continuity) unless the text expressly brings it in; the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
 <a id="continuity-aim-constitutional-m"></a>
 <a id="continuity-aim-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Continuity measurement family](#continuity-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* See also [Constitutional Aim decomposition](#continuity-aim-decomposition). This line only points to the measures; the how-to-measure rules sit on each linked definition.
-  - **Primary assessment:** Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). Ask whether systems keep lasting capacity to repair, adapt, face risk honestly, and stay within ecological limits — not whether today's numbers look calm. Tie claimed continuity results to the [constituent](#continuity-aim-decomposition) conditions, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
+  - **Primary measure:** [Continuity measurement family](#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* See also [Constitutional Aim decomposition](#constitutional-aim-decomposition). This line only points to the measures; the how-to-measure rules sit on each linked definition.
+  - **Primary assessment:** Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake). Ask whether systems keep lasting capacity to repair, adapt, face risk honestly, and stay within ecological limits — not whether today's numbers look calm. Tie claimed continuity results to the [constituent](#constitutional-aim-decomposition) conditions, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
 <a id="continuity-aim-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - using **Continuity** to forever put off fixes;
     - treating "stability" as compliant when it rests on hidden risk dumping, irreversible harm, or shifting ecological burdens onto others;
-    - using ordinary "keep the lights on" talk to block [Contestability](core_05_band_accountability.md#contestability) or [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional); or
+    - using ordinary "keep the lights on" talk to block [Contestability](core_05_band_accountability.md#contestability) or [Timely Resolution](core_05_band_accountability.md#timely-resolution); or
     - pursuing **Continuity** in a way that materially defeats [Flourishing](core_05_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 ---
@@ -64,32 +64,32 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 **Main building blocks** (named in [Preamble §1 The Model](core_00_preamble.md#continuity) — long-horizon stability, sustainability, resilience, and ecological wellbeing) — where each term lives, and which cluster to read when several apply together:
 
 - **Stability and resilience:**
-  - [Stewardship](core_05_band_continuity.md#stewardship-constitutional)
-  - [Self-Healing](core_05_band_continuity.md#self-healing-constitutional)
-  - [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-  - [Def.C2 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster)
+  - [Stewardship](core_05_band_continuity.md#stewardship)
+  - [Self-Healing](core_05_band_continuity.md#self-healing)
+  - [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing)
+  - [Def.C2 *Stewardship, Governance Discipline, and Shared-System Capacity*](core_05_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity)
 - **Sustainability:**
   - [Sustainability](core_05_band_continuity.md#sustainability)
   - [Ecological Footprint](core_05_band_continuity.md#ecological-footprint)
   - [*Ecological Integrity, Footprint, and Sustainability*](core_05_band_continuity.md#ecological-footprint-semi-independent)
 - **Ecological wellbeing:**
-  - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity-constitutional)
-  - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional)
-  - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional)
+  - [Ecological Integrity](core_05_band_continuity.md#ecological-integrity)
+  - [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions)
+  - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility)
 - **Dependency and resource flows:**
   - [Dependency](core_05_band_continuity.md#dependency)
   - **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*)
 - **Cross-system support:**
   - [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction)
-  - [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional)
+  - [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support)
   - **Article V-B** (*Cross-System Fairness and Sustainability*)
 
 **Other Continuity-primary clusters** (use when their admission scope applies; not listed as building-block homes above):
 
-- [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#use-of-force-autonomous-coercion-and-mass-harm-cluster)
-- [Def.C1 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05_band_continuity.md#labor-and-economic-floor-cluster)
-- [Def.C3 *Privacy (Informational)*](core_05_band_continuity.md#privacy-informational-cluster)
-- [Def.C4 *Trust and Trustworthiness*](core_05_band_continuity.md#trust-and-trustworthiness-cluster)
+- [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm)
+- [Def.C1 *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work)
+- [Def.C3 *Privacy (Informational)*](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
+- [Def.C4 *Trust and Trustworthiness*](core_05_band_continuity.md#defc4-trust-and-trustworthiness)
 
 ---
 
@@ -109,14 +109,14 @@ Definitions under this aim inherit its scope unless they expressly narrow or wid
 
 *In plain terms: these questions ask whether sentients and the living systems they depend on can endure — ecologically, dependably, and across failure. This is the Chapter Five home for the Continuity measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
-*Materiality* ([Materiality](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category. It scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
+*Materiality* ([Materiality](core_05_band_oversight.md#materiality)) is Integrative — not a separate measurement category. It scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
 | Subfamily | Plain question | Main constitutional use |
 |---|---|---|
-| Ecological footprint and environmental preconditions | What environmental burden is being created or shifted? | [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional); disclosure under **Articles I-A** and **I-B** |
-| Resilience, reversibility, and systemic risk | Can failures be contained, reversed, and escalated honestly? | [Reversibility](core_05_band_continuity.md#reversibility-constitutional), [Cascading Failure](core_05_band_continuity.md#cascading-failure), [Existential Risk](core_05_band_continuity.md#existential-risk), [Self-Healing](core_05_band_continuity.md#self-healing-constitutional); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster) |
+| Ecological footprint and environmental preconditions | What environmental burden is being created or shifted? | [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions); disclosure under **Articles I-A** and **I-B** |
+| Resilience, reversibility, and systemic risk | Can failures be contained, reversed, and escalated honestly? | [Reversibility](core_05_band_continuity.md#reversibility), [Cascading Failure](core_05_band_continuity.md#cascading-failure), [Existential Risk](core_05_band_continuity.md#existential-risk), [Self-Healing](core_05_band_continuity.md#self-healing); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) |
 | Dependency and resource flows | Are shared dependencies visible and sustained? | [Dependency](core_05_band_continuity.md#dependency); **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) |
-| Cross-system support | Does documented return sustain shared infrastructure and ecological repair? | [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction), [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support-constitutional); **Article V-B** (*Cross-System Fairness and Sustainability*) |
+| Cross-system support | Does documented return sustain shared infrastructure and ecological repair? | [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction), [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support); **Article V-B** (*Cross-System Fairness and Sustainability*) |
 
 The detailed how-to-measure rules live on each linked definition.
 

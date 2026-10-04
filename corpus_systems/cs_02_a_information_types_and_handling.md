@@ -12,7 +12,7 @@
 
 <br>
 
-**CS-2** (*Information types and handling*), **Part A**, owns **information-type determination, foundational identity and continuity controls, cross-domain governance, separation / attribution, and the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional)**. Canonical type definitions and per-type handling rules are in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)**.
+**CS-2** (*Information types and handling*), **Part A**, owns **information-type determination, foundational identity and continuity controls, cross-domain governance, separation / attribution, and the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record)**. Canonical type definitions and per-type handling rules are in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)**.
 *In plain terms: Part A says how to type data, keep those types honest across systems, protect separation, attribution, and exit, and keep a System Data Types Record that audits can check — Part B names the types themselves.*
 
 **Introductory provisions:**
@@ -30,17 +30,17 @@ Requirements and limitations scale proportionally with system classification and
 CS-2 (*Information types and handling*) implements:
 
 - **Data typing** — every material dataset is assigned one or more types defined in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** (**Type E**, **G**, **O**, **H**, **I**, **N**, and **S**)
-- **System Data Types Record** — for every system with **material impact**, operators must maintain a [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) stating types in scope, handling posture, and re-evaluation status. That record is **material audited information**: auditing processes require it, and System Data Types Record audits check it between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) cycles ([§8 System Data Types Record governance](#cs-2-8-system-data-types-record-governance)). When System Alignment Certification runs, **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** must produce or verify the record and include it in the [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional) under **[Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
-- **Default access posture** — each type belongs to one of four **access-posture bands** defined in **[Part B §8](cs_02_b_data_classifications.md#cs-2-8-data-classifications)** (*open / accessible by default*; *audit-accessible, not public*; *restricted by default*; *non-accessible by default*), plus type-specific disclosure, consent, and handling rules. Bands group shared defaults; they are **not** a ranked sensitivity score
-- **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#cs-2-2-determination-of-classification) *When it is unclear*), subject to proportionality (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*))
-- **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§2 Determination of classification](#cs-2-2-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification))
+- **System Data Types Record** — for every system with **material impact**, operators must maintain a [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) stating types in scope, handling posture, and re-evaluation status. That record is **material audited information**: auditing processes require it, and System Data Types Record audits check it between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) cycles ([§8 System Data Types Record governance](#cs-28-system-data-types-record-governance)). When System Alignment Certification runs, **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** must produce or verify the record and include it in the [System Certification Record](../core_05_band_continuity.md#system-certification-record) under **[Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
+- **Default access posture** — each type belongs to one of four **access-posture bands** defined in **[Part B §8](cs_02_b_data_classifications.md#cs-28-data-classifications)** (*open / accessible by default*; *audit-accessible, not public*; *restricted by default*; *non-accessible by default*), plus type-specific disclosure, consent, and handling rules. Bands group shared defaults; they are **not** a ranked sensitivity score
+- **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#cs-22-determination-of-classification) *When it is unclear*), subject to proportionality (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*))
+- **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§2 Determination of classification](#cs-22-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-24-anti-circumvention-and-integrity-of-classification))
 - **Identity self-ownership** — identity and attribution data remain under sentient control through revocation, rotation, correction, and recoverability ([§1.1 Identity self-ownership and recoverability](#11-identity-self-ownership-and-recoverability); **Article VII** (*Self-Ownership*))
 - **Collection notice and deletion** — every system that collects data about sentients must disclose what it collects, why, and how to delete it, and must honor deletion requests except on narrow, disclosed grounds ([§1.3 Collection notice and deletion](#13-collection-notice-and-deletion); **Article II-E** (*Data Handling and Network Dependency*))
 - **Continuity and exit** — for **Class A**, **Class B**, and **Class C** systems, sentients must be able to take their continuity-critical data with them when a service ends or changes hands ([§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability); **Article II-E** (*Data Handling and Network Dependency*); **Article II-F** (*Continuity and Operator Shutdown*)), and the formats and interfaces used for that handoff must meet **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
-- **Cross-domain governance** — proportional access, reclassification and lifecycle, tiered transparency and audit, transformation traceability, attribution, and retention ([§5 Cross-domain governance principles](#cs-2-5-cross-domain-governance-principles)); typing integrity and anti-evasion remain in [§2 Determination of classification](#cs-2-2-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification)
-- **Separation and attribution** — keep higher-sensitivity domains from leaking through linkage or inference, and preserve attributable action ([§6 Data separation and attribution](#cs-2-6-data-separation-and-attribution))
+- **Cross-domain governance** — proportional access, reclassification and lifecycle, tiered transparency and audit, transformation traceability, attribution, and retention ([§5 Cross-domain governance principles](#cs-25-cross-domain-governance-principles)); typing integrity and anti-evasion remain in [§2 Determination of classification](#cs-22-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-24-anti-circumvention-and-integrity-of-classification)
+- **Separation and attribution** — keep higher-sensitivity domains from leaking through linkage or inference, and preserve attributable action ([§6 Data separation and attribution](#cs-26-data-separation-and-attribution))
 - **Class scaling** — higher-impact systems get stricter data rules. How strict depends on the system's class under **CS-3 — System classification and handling**
-- **Type O public-baseline (Class A/B/C)** — for high-impact systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) must be released by default as **Type O** data defined in **[Part B — Type O](cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)**, with substitute and holding-back limits in [§7 Type O baseline for Class A/B/C systems](#cs-2-7-type-o-baseline-for-class-a-b-c-systems)
+- **Type O public-baseline (Class A/B/C)** — for high-impact systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) must be released by default as **Type O** data defined in **[Part B — Type O](cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)**, with substitute and holding-back limits in [§7 Type O baseline for Class A/B/C systems](#cs-27-type-o-baseline-for-class-abc-systems)
 
 <a id="11-identity-self-ownership-and-recoverability"></a>
 
@@ -102,7 +102,7 @@ This subsection implements:
 It applies to **every** system that collects, infers, or transmits data about sentients, regardless of system class. Depth scales with **system impact** and the access-posture band of the data ([§5.0 Access-posture bands](#50-access-posture-bands)).
 
 **Collection notice.** Before collection begins, operators must tell affected sentients, in a form reachable without expert tools:
-- the **data types** collected or inferred, using the types in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** and consistent with the [System Data Types Record](#cs-2-8-system-data-types-record-governance) where one is required
+- the **data types** collected or inferred, using the types in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** and consistent with the [System Data Types Record](#cs-28-system-data-types-record-governance) where one is required
 - the **purpose** of each type, and that the data will not be used beyond it ([§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance))
 - **recipients**, including processors and other systems the data is linked to
 - the **retention period** or the rule that sets it
@@ -122,7 +122,7 @@ Hiding, flagging, suspending, or re-labeling data while it stays usable is **not
 **Grounds for keeping data.** An operator may refuse or limit deletion only where **Necessity** requires, for:
 - evidence preservation, audit, or a lawful hold — including **Type S** data under an authorized investigation
 - another sentient's rights in the same data under **Article IX-B** (*Experiential and Derived Data Rights*)
-- official records the Constitution requires, including Act Records, Standing Records, attribution records under [§6.3 Attribution and accountability requirements](#63-attribution-and-accountability-requirements), and **Type O** public oversight data where [§7 Type O baseline for Class A/B/C systems](#cs-2-7-type-o-baseline-for-class-a-b-c-systems) requires it
+- official records the Constitution requires, including Act Records, Standing Records, attribution records under [§6.3 Attribution and accountability requirements](#63-attribution-and-accountability-requirements), and **Type O** public oversight data where [§7 Type O baseline for Class A/B/C systems](#cs-27-type-o-baseline-for-class-abc-systems) requires it
 - preservation duties under **Article XXVII-A** (*preservation over deletion for possible sentients*)
 - functionality the sentient still wants, kept only with their ongoing consent — a deletion request withdraws that consent for the data it covers
 
@@ -176,12 +176,12 @@ Data classification under CS-2 — Information types and handling is binding acr
 - **rely** on intermediate systems, agents, or third parties to perform actions that would be prohibited if performed directly
 - **de-anonymize** anonymized data except under **CJS-3.12** (*burden-of-justification and constraint terms*), with such actions **fully documented and auditable**
 - **use** classification to **evade** constitutional requirements, **justify unnecessary** restriction of participation or access, **conceal** systemic risk or harm, or **create artificial barriers** to audit, verification, or accountability
-- **treat** restricted source data (including **Type H**, **Type I**, **Type N**, or **Type S**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 (*Type O baseline for Class A/B/C systems*) and [Part B §8](cs_02_b_data_classifications.md#cs-2-8-data-classifications)
+- **treat** restricted source data (including **Type H**, **Type I**, **Type N**, or **Type S**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 (*Type O baseline for Class A/B/C systems*) and [Part B §8](cs_02_b_data_classifications.md#cs-28-data-classifications)
 
 <a id="cs-2-5-cross-domain-governance-principles"></a>
 ## CS-2.5 Cross-domain governance principles
 
-*In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§2 Determination of classification](#cs-2-2-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification).*
+*In plain terms: these are the shared rules for how typed data is accessed, transformed, retyped, attributed, and retained across systems — stricter where impact is higher. Typing integrity and anti-evasion live in [§2 Determination of classification](#cs-22-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-24-anti-circumvention-and-integrity-of-classification).*
 
 All data, regardless of classification, must be handled in accordance with the following cross-domain principles. These principles govern how classifications are applied, enforced, and interacted with across systems, and ensure alignment with **Chapter Six, Articles I through X** and **CJS-3** (*operational cluster library (oDef)*) operational clusters in **corpus_joint_structure.md**. Survival-, environment-, and substrate-critical data handling remains grounded in **Articles I–III and VI**; participation, oversight, and protected-boundary duties run through **Articles VI through X**.
 
@@ -193,7 +193,7 @@ Part B type sections state type-specific defaults, definitions, and handling rul
 
 *In plain terms: types share a default sharing style — open, audit-only, restricted, or off-limits — so common rules can attach to that style. The letter codes are still not a least-to-most sensitive ranking.*
 
-Each type belongs to one **access-posture band**. Bands define shared default access and restriction posture. They are **labels for shared defaults**, not a ranked list from “least sensitive” to “most sensitive.” Type-specific content and deltas are in **[Part B §8](cs_02_b_data_classifications.md#cs-2-8-data-classifications)**.
+Each type belongs to one **access-posture band**. Bands define shared default access and restriction posture. They are **labels for shared defaults**, not a ranked list from “least sensitive” to “most sensitive.” Type-specific content and deltas are in **[Part B §8](cs_02_b_data_classifications.md#cs-28-data-classifications)**.
 
 | Band | Types | Shared default posture |
 |---|---|---|
@@ -238,7 +238,7 @@ Systems must **not**:
   - persistent **cross-context tracking**
   - hidden **political, associational, or belief-linked profiling**
 
-Where more than one type applies, the **most-restrictive** applicable protections govern ([§2 Determination of classification](#cs-2-2-determination-of-classification)). Band membership does **not** displace **Type O** publication duties or **Type E** survival-coordination duties.
+Where more than one type applies, the **most-restrictive** applicable protections govern ([§2 Determination of classification](#cs-22-determination-of-classification)). Band membership does **not** displace **Type O** publication duties or **Type E** survival-coordination duties.
 
 <a id="51-proportional-access-and-handling"></a>
 
@@ -280,7 +280,7 @@ Classification is **not** static. **Material** changes in any of the following m
 - **risks or capabilities**
 
 All data must be:
-- **periodically re-evaluated** for appropriate classification (**CJS-3.18** (*data-retention and lifecycle-integrity terms*)) — verified on each materially impactful system alignment certification or revalidation cycle under **[Chapter Eight §4](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded in the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) under **[Chapter Eight Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** and [§8 System Data Types Record governance](#cs-2-8-system-data-types-record-governance)
+- **periodically re-evaluated** for appropriate classification (**CJS-3.18** (*data-retention and lifecycle-integrity terms*)) — verified on each materially impactful system alignment certification or revalidation cycle under **[Chapter Eight §4](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded in the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) under **[Chapter Eight Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)** and [§8 System Data Types Record governance](#cs-28-system-data-types-record-governance)
 - **reclassified** whenever necessary to maintain alignment with constitutional requirements
 - **stored** in alignment with its classification, including **duration limits** proportional to purpose, risk, and stakeholder impact
 
@@ -293,7 +293,7 @@ Reclassification must:
 - **rely on outdated classification** to justify continued access or reduced protection
 - **delay or avoid reclassification** where material changes in impact or use have occurred
 
-This subsection owns **retype mechanics**. [§8 System Data Types Record governance](#cs-2-8-system-data-types-record-governance) owns **when** operators must update the System Data Types Record after those retypes.
+This subsection owns **retype mechanics**. [§8 System Data Types Record governance](#cs-28-system-data-types-record-governance) owns **when** operators must update the System Data Types Record after those retypes.
 
 <a id="53-tiered-transparency-and-audit-access"></a>
 
@@ -311,9 +311,9 @@ It must also balance protection of internal states and sensitive data (**Sentien
 - **forensic access** — full reconstruction in cases of harm, dispute, or credible risk, consistent with **CJS-3.11** (*Accountability: distributed and proportional authority terms*), **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-3.12** (*burden-of-justification and constraint terms*)
 - **access-control integrity** — access controls must **not** conceal systemic behavior, prevent accountability, or obstruct legitimate audit and verification
 
-For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) defined in **[Part B — Type O](cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** is **public by default**, subject to the substitute and holding-back rules in [§7 Type O baseline for Class A/B/C systems](#cs-2-7-type-o-baseline-for-class-a-b-c-systems).
+For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) defined in **[Part B — Type O](cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** is **public by default**, subject to the substitute and holding-back rules in [§7 Type O baseline for Class A/B/C systems](#cs-27-type-o-baseline-for-class-abc-systems).
 
-**Audit-process outputs.** Findings, reports, eligibility rules for deeper access, and related artifacts from material audit, verification, or independent review follow the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** and the disclosure preference in **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*tiered transparency and audit-access terms*): **Type O** where feasible, then qualified **Type G** (or other non-public source) access, then forensic or more-restricted tiers only as justified. This subsection owns the CS-2 (*Information types and handling*) typing and access-tier mechanics those outputs use; it does not relocate audit-process ownership out of **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*)–**CJS-3.5** (*Oversight: independent verification and claim-integrity terms*).
+**Audit-process outputs.** Findings, reports, eligibility rules for deeper access, and related artifacts from material audit, verification, or independent review follow the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** and the disclosure preference in **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*tiered transparency and audit-access terms*): **Type O** where feasible, then qualified **Type G** (or other non-public source) access, then forensic or more-restricted tiers only as justified. This subsection owns the CS-2 (*Information types and handling*) typing and access-tier mechanics those outputs use; it does not relocate audit-process ownership out of **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*)–**CJS-3.5** (*Oversight: independent verification and claim-integrity terms*).
 
 Any limit on who may see or use data must be:
 - **narrow in scope** — only as broad as needed for the stated lawful purpose
@@ -343,9 +343,9 @@ All material handling, processing, and transformation must preserve:
 - **the ability to evaluate impact and dependencies** (**CJS-3.16** (*dependency integrity and disclosure terms*))
 - **transparency, auditability, and reconstructability** where required (**CJS-3.10** (*disclosure sufficiency and observability terms*); **CJS-3.3** (*auditability and reconstructability terms*))
 
-If a material transform changes what the data enables, how it can be used, or its sensitivity — including by rebuild, combination, or aggregation — the resulting data must be **re-evaluated and retyped** under [§2 Determination of classification](#cs-2-2-determination-of-classification) and [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance), and that type change must remain on the same transparent, auditable trail.
+If a material transform changes what the data enables, how it can be used, or its sensitivity — including by rebuild, combination, or aggregation — the resulting data must be **re-evaluated and retyped** under [§2 Determination of classification](#cs-22-determination-of-classification) and [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance), and that type change must remain on the same transparent, auditable trail.
 
-Anti-degradation and anti-obscurity duties for classification integrity are stated in [§2 Determination of classification](#cs-2-2-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification).
+Anti-degradation and anti-obscurity duties for classification integrity are stated in [§2 Determination of classification](#cs-22-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-24-anti-circumvention-and-integrity-of-classification).
 
 <a id="55-accountability-and-attribution-in-data-use"></a>
 
@@ -375,7 +375,7 @@ Systems must ensure:
 
 Attribution requirements do **not** imply universal or persistent logging of all actions.
 
-Systems must provide attribution capability **proportional to system impact** sufficient to support [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional) and [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional) under:
+Systems must provide attribution capability **proportional to system impact** sufficient to support [Attributable Action](../core_05_band_accountability.md#attributable-action) and [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity) under:
 - **CJS-3.11** (*distributed and proportional authority terms*)
 - **CJS-3.7** (*quorum and participatory legitimacy terms*)
 
@@ -418,7 +418,7 @@ General anti-circumvention and retyping rules for:
 - aggregation
 - functional-equivalence outcomes
 
-are governed by [§2 Determination of classification](#cs-2-2-determination-of-classification), [§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification), and [§5.4 Integrity of data handling and transformation](#54-integrity-of-data-handling-and-transformation).
+are governed by [§2 Determination of classification](#cs-22-determination-of-classification), [§4 Anti-circumvention and integrity of classification](#cs-24-anti-circumvention-and-integrity-of-classification), and [§5.4 Integrity of data handling and transformation](#54-integrity-of-data-handling-and-transformation).
 
 **Restricted linkages** are governed by [Identity Data Protection](../core_05_band_continuity.md#identity-data-protection); this subsection applies the domain-separation mechanics above.
 
@@ -448,17 +448,17 @@ All linkage mechanisms must remain:
 
 *In plain terms: actions that affect sentients or shared systems must be traceable to someone or something responsible. If impact grows — or value, identity, or resources start moving outside the system — reduced attribution must end and full attribution must take over.*
 
-This subsection applies [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional) and [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional) to system actions that affect the outside world:
+This subsection applies [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity) and [Attributable Action](../core_05_band_accountability.md#attributable-action) to system actions that affect the outside world:
 
-- **No** system may **obscure responsibility** through indirection, delegation, or system complexity ([Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional))
-- **No** system may **create conditions** where actions cannot be reliably attributed ([Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional))
+- **No** system may **obscure responsibility** through indirection, delegation, or system complexity ([Attribution Integrity](../core_05_band_accountability.md#attribution-integrity))
+- **No** system may **create conditions** where actions cannot be reliably attributed ([Attribution Integrity](../core_05_band_accountability.md#attribution-integrity))
 - Delegation of action does **not** eliminate accountability
 - Responsibility must remain traceable through transparent, auditable attribution chains
 
 **Attributable action scope and audit-resistance:**
 
-- All actions affecting **sentients**, **shared infrastructure**, **resource systems**, or the **info-sphere** must satisfy [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional) through identifiable systems, agents, or sentients
-- Attribution must satisfy [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional), including **auditability (CJS-3.3 (*auditability and reconstructability terms*))** and resistance to tampering, repudiation, or ambiguity
+- All actions affecting **sentients**, **shared infrastructure**, **resource systems**, or the **info-sphere** must satisfy [Attributable Action](../core_05_band_accountability.md#attributable-action) through identifiable systems, agents, or sentients
+- Attribution must satisfy [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity), including **auditability (CJS-3.3 (*auditability and reconstructability terms*))** and resistance to tampering, repudiation, or ambiguity
 
 For personnel/agents exercising **Critical System Stewardship** or **material** operational authority, the inspectable attributable-action surface lives in **[CS-4 §10 inspectable attributable action](cs_04_critical_system_stewardship.md#10-inspectable-attributable-action)** as the default logging contract for mixed crews. This subsection remains the system-action attribution home.
 
@@ -487,8 +487,8 @@ It is permitted **only if** all of the following are true:
 - the system does **not** materially affect **sentient survival or foundational resources** (**Articles I–III and VI**)
 - the system does **not** materially affect **shared infrastructure stability**, **resource systems or external economic structures**, or **the integrity of the info-sphere**
 - **system-level accountability** is preserved and all actions within the system remain attributable at an audit level consistent with:
-  - [Attributable Action](../core_05_band_accountability.md#attributable-action-constitutional)
-  - [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity-constitutional)
+  - [Attributable Action](../core_05_band_accountability.md#attributable-action)
+  - [Attribution Integrity](../core_05_band_accountability.md#attribution-integrity)
   - system impact
   - **CJS-3.10** (*disclosure sufficiency and observability terms*)
   - **CJS-3.3** (*auditability and reconstructability terms*)
@@ -504,7 +504,7 @@ It is permitted **only if** all of the following are true:
 
 For **Class A**, **Class B**, and **Class C** systems, [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) — the **Type O** public-baseline content defined in **[Part B — Type O](cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** — is **public by default** and must be released as **Type O**, subject to the substitute and holding-back rules below.
 
-**Scope of the baseline.** What Public Oversight Baseline Disclosure must cover is **mapped from** the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent published scope instrument), the assigned system class under **CS-3** (*System classification machinery*), and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries). Charter fields — purpose, in-scope and out-of-scope limits, affected communities and dependencies, and classification assumptions — are inputs to that coverage map; they are **not** the sole source of Type O content. Understated Charter text, paper-only scope, or a missing Charter where one is required must **not** shrink Type O publication duties. Sufficiency of Public Oversight Baseline Disclosure is verified on each materially impactful system alignment certification or revalidation cycle under **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded in the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) under **[Chapter Eight Part B §11 System Certification Record](../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)** and [§8 CS-2.8 System Data Types Record governance](#cs-2-8-system-data-types-record-governance).
+**Scope of the baseline.** What Public Oversight Baseline Disclosure must cover is **mapped from** the governing [Charter](../core_05_band_continuity.md#charter) (or equivalent published scope instrument), the assigned system class under **CS-3** (*System classification machinery*), and observed [System Boundaries](../core_05_band_continuity.md#system-boundaries). Charter fields — purpose, in-scope and out-of-scope limits, affected communities and dependencies, and classification assumptions — are inputs to that coverage map; they are **not** the sole source of Type O content. Understated Charter text, paper-only scope, or a missing Charter where one is required must **not** shrink Type O publication duties. Sufficiency of Public Oversight Baseline Disclosure is verified on each materially impactful system alignment certification or revalidation cycle under **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) and recorded in the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) under **[Chapter Eight Part B §11 System Certification Record](../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)** and [§8 CS-2.8 System Data Types Record governance](#cs-28-system-data-types-record-governance).
 
 **Substitutes for non-public or restricted source data.** If raw disclosure of **Type G**, **Type E**, or other protected source would harm privacy, identity, internal-state protection, safety, security, or an active restricted investigation, or if full release would exceed Public Oversight Baseline Disclosure, publish the strongest feasible **Type O** substitute instead — for example:
 - aggregation
@@ -533,9 +533,9 @@ Security or investigation limits must also be time-bound and review-bound under 
 
 *In plain terms: keep a System Data Types Record that says what data the system touches and how it is handled — own it, publish a usable view, let audits and challenges check it, update it when types change, and fix understatement. When certification runs, that same file must be produced or verified and put in the certification case file.*
 
-**System alignment certification (SAC) bridge.** When [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) runs for a materially impactful system, **[Chapter Eight §4](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) must **produce or verify** the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) and include it (or its required contents) in the [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional) under **[Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. Under the **oversight** Tetrad leg, that SAC cycle is one especially large audit process among others; [§8.3](#83-audit-the-system-data-types-record) System Data Types Record audits continue between and beside certification cycles.
+**System alignment certification (SAC) bridge.** When [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) runs for a materially impactful system, **[Chapter Eight §4](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** (*Data Types and Handling Evaluation*) must **produce or verify** the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) and include it (or its required contents) in the [System Certification Record](../core_05_band_continuity.md#system-certification-record) under **[Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. Under the **oversight** Tetrad leg, that SAC cycle is one especially large audit process among others; [§8.3](#83-audit-the-system-data-types-record) System Data Types Record audits continue between and beside certification cycles.
 
-Operators must maintain that System Data Types Record for every system with **material impact**. It is the CS-2 (*Information types and handling*) type-and-handling file — not a marketing label, and **not** the full System Certification Record. Required contents are owned in the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) definition; Part B names the types themselves.
+Operators must maintain that System Data Types Record for every system with **material impact**. It is the CS-2 (*Information types and handling*) type-and-handling file — not a marketing label, and **not** the full System Certification Record. Required contents are owned in the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) definition; Part B names the types themselves.
 
 This section owns what operators must **do with** the System Data Types Record between and during those certification cycles:
 
@@ -579,7 +579,7 @@ Forum verification under Chapter Eight §4 (*Data Types and Handling Evaluation*
 
 **For Class A, B, and C**, disclosure of the System Data Types Record must also meet:
 
-- [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) under the **Type O** default in [§7 Type O baseline for Class A/B/C systems](#cs-2-7-type-o-baseline-for-class-a-b-c-systems)
+- [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) under the **Type O** default in [§7 Type O baseline for Class A/B/C systems](#cs-27-type-o-baseline-for-class-abc-systems)
 - the strongest feasible **Type O** public substitutes when protected (non-**Type O**) classifications block raw disclosure
 
 <a id="83-audit-the-system-data-types-record"></a>
@@ -588,16 +588,16 @@ Forum verification under Chapter Eight §4 (*Data Types and Handling Evaluation*
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **[CS-3 — System classification and handling](cs_03_a_system_classification_machinery.md)** (*class scaling*).
+- Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **[CS-3 — System classification and handling](cs_03_a_system_classification_machinery.md)** (*class scaling*).
 - This subsection does **not** relocate the process home or Rights Floor (**Article XVI** (*Audit, Transparency, and Independent Verification*) / **Article XVI-A** (*Auditability and Observable Evidence*)).
 
 </details>
 
 <br>
 
-*System Data Types Record duty:* this subsection owns the **System Data Types Record audit** sibling mode named in the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-sibling-modes)** — an independent check that the type-and-handling file matches real data behavior, so System Alignment Certification under **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** verifies substance when SAC runs, and so typing honesty stays checkable between and beside those cycles.
+*System Data Types Record duty:* this subsection owns the **System Data Types Record audit** sibling mode named in the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map)** — an independent check that the type-and-handling file matches real data behavior, so System Alignment Certification under **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)** verifies substance when SAC runs, and so typing honesty stays checkable between and beside those cycles.
 
-- **Required:** Auditability of the System Data Types Record is required under [§1 Purpose and scope](#cs-2-1-purpose-and-scope).
+- **Required:** Auditability of the System Data Types Record is required under [§1 Purpose and scope](#cs-21-purpose-and-scope).
 - **What to verify:** Inspect real datasets, pipelines, access controls, and effects — not only claims in the file.
 - **When:** On a schedule that matches impact and how fast data uses change, including the triggers in the process home and in [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance) / [§8.5 Update the System Data Types Record](#85-update-the-system-data-types-record).
 - **For Class A, B, and C:** System Data Types Record audits must be able to catch mistyping, under-classification, unsafe linkage, and unreported behavior changes. Independent or third-party audit paths must remain available under **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); "where feasible" does **not** make those paths soft-optional at these classes.
@@ -622,7 +622,7 @@ What triggers a retype, and how protections must be preserved, live in [§5.2 Re
 
 - **before** rolling out materially bigger data uses or linkages, **where feasible**
 - **promptly** once changed conditions are recognized
-- as part of **periodic review**, including each materially impactful [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) or revalidation cycle under **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)**
+- as part of **periodic review**, including each materially impactful [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) or revalidation cycle under **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)**
 
 The System Data Types Record must state a **re-evaluation cadence scaled to class** (and monitoring triggers). On each materially impactful SAC or revalidation cycle, certification must **verify** that reassessment under [§5.2 Reclassification and lifecycle governance](#52-reclassification-and-lifecycle-governance) was applied where triggers fired, and record the System Data Types Record under **[Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**.
 
@@ -635,18 +635,18 @@ Failure to update the System Data Types Record after material change is non-comp
 
 Shared correction, precautionary-default, and no-quiet-lowering discipline live in **[CJS-3.15 — Accountability: structural review, correction urgency, and disclosure terms](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**. This subsection applies that discipline to the System Data Types Record:
 
-- do **not** fragment, re-label, or route data just to dodge a stronger type on the System Data Types Record ([§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification))
+- do **not** fragment, re-label, or route data just to dodge a stronger type on the System Data Types Record ([§4 Anti-circumvention and integrity of classification](#cs-24-anti-circumvention-and-integrity-of-classification))
 - when mistyping or evasion is found, **correct** the System Data Types Record
 - do **not** treat Charter text, vendor attestation, or self-description as the corrected file
 
-How those failures count as **certification defects** live under **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)**, **[Part B §16 Reopening, Misalignment, and Non-Evasion](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)**, and the [§8 SAC bridge](#cs-2-8-system-data-types-record-governance).
+How those failures count as **certification defects** live under **[Chapter Eight §4 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation)**, **[Part B §16 Reopening, Misalignment, and Non-Evasion](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)**, and the [§8 SAC bridge](#cs-28-system-data-types-record-governance).
 
 <a id="87-default-uncertain-system-data-types-record-fields"></a>
 **8.7. Default uncertain System Data Types Record fields.**
 
 *System Data Types Record duty:* when the file is incomplete or contested, apply the precautionary default and state any precautionary typing relied on — do not quietly weaken protections.
 
-Shared discipline lives in **[CJS-3.15 — Accountability: structural review, correction urgency, and disclosure terms](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**. CS-2 (*Information types and handling*) keeps the strongest applicable protections under [§2 Determination of classification](#cs-2-2-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-2-4-anti-circumvention-and-integrity-of-classification). This subsection applies them to the System Data Types Record:
+Shared discipline lives in **[CJS-3.15 — Accountability: structural review, correction urgency, and disclosure terms](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-315-material-classification-record-honesty)**. CS-2 (*Information types and handling*) keeps the strongest applicable protections under [§2 Determination of classification](#cs-22-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-24-anti-circumvention-and-integrity-of-classification). This subsection applies them to the System Data Types Record:
 
 - State any **precautionary typing** relied on, and any conditions pending resolution, **in the System Data Types Record**.
 - **Lowering** typing protections on the System Data Types Record requires evidence, documentation, and successful review under the CJS-3.15 (*Accountability: structural review, correction urgency, and disclosure terms*) rule. Passing an internal check alone does **not** defeat a timely contest. Where recognition or continued reliance already rests on a System Certification Record, material requests also route through **[Part B §16](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)**.

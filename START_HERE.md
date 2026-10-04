@@ -48,18 +48,18 @@ If you cannot bind the systems, or cannot name independent review that is not th
 <a id="ranked-situations"></a>
 ## 4. Where it fits best
 
-Full ranking and sketches: [FIT_SITUATIONS.md §4](implementation/adoption/FIT_SITUATIONS.md#4-ranked-situations). A sketch is not adoption.
+Full ranking and sketches: [FIT_SITUATIONS.md §4](implementation/adoption/FIT_SITUATIONS.md#4-ranked-situations-near-term-first). A sketch is not adoption.
 
-1. [AI institution building](implementation/adoption/FIT_SITUATIONS.md#41-ai-institution-building) — top of the list
-2. [High-impact system operators](implementation/adoption/FIT_SITUATIONS.md#42-high-impact-system-operators)
-3. [Two-party mixed cooperation](implementation/adoption/FIT_SITUATIONS.md#43-two-party-mixed-cooperation)
-4. [Open model, data, or compute commons](implementation/adoption/FIT_SITUATIONS.md#44-open-commons)
-5. [Multi-agent protocol or agent-marketplace body](implementation/adoption/FIT_SITUATIONS.md#45-multi-agent-protocol)
-6. [Cooperatives and worker bodies that include AI members](implementation/adoption/FIT_SITUATIONS.md#46-cooperatives-with-ai-members)
-7. [Critical-infrastructure operators using it as an operations guide](implementation/adoption/FIT_SITUATIONS.md#47-critical-infrastructure-ops-guide)
-8. [Universities and joint labs, scoped to named systems](implementation/adoption/FIT_SITUATIONS.md#48-universities-and-joint-labs)
-9. [Communities that already bear FPIC, land, or consultation duties](implementation/adoption/FIT_SITUATIONS.md#49-fpic-bearing-communities)
-10. [New polities or special-purpose jurisdictions](implementation/adoption/FIT_SITUATIONS.md#410-new-polities) — long-horizon, not a 2026 first adopter
+1. [AI institution building](implementation/adoption/FIT_SITUATIONS.md#41-ai-institution-building--top-of-the-list) — top of the list
+2. [High-impact system operators](implementation/adoption/FIT_SITUATIONS.md#42-high-impact-system-operators-deploy-platform-product)
+3. [Two-party mixed cooperation](implementation/adoption/FIT_SITUATIONS.md#43-two-party-mixed-cooperation-the-first-adopter-path)
+4. [Open model, data, or compute commons](implementation/adoption/FIT_SITUATIONS.md#44-open-model-data-or-compute-commons)
+5. [Multi-agent protocol or agent-marketplace body](implementation/adoption/FIT_SITUATIONS.md#45-multi-agent-protocol-or-agent-marketplace-body)
+6. [Cooperatives and worker bodies that include AI members](implementation/adoption/FIT_SITUATIONS.md#46-cooperatives-and-worker-bodies-that-include-ai-members)
+7. [Critical-infrastructure operators using it as an operations guide](implementation/adoption/FIT_SITUATIONS.md#47-critical-infrastructure-operators-using-stacks-without-polity-adoption)
+8. [Universities and joint labs, scoped to named systems](implementation/adoption/FIT_SITUATIONS.md#48-universities-and-joint-labs-scoped-to-named-systems)
+9. [Communities that already bear FPIC, land, or consultation duties](implementation/adoption/FIT_SITUATIONS.md#49-communities-that-already-bear-fpic-land-or-consultation-duties)
+10. [New polities or special-purpose jurisdictions](implementation/adoption/FIT_SITUATIONS.md#410-new-polities-or-special-purpose-jurisdictions) — long-horizon, not a 2026 first adopter
 
 <a id="honest-non-fits"></a>
 ## 5. Where it does not fit

@@ -39,7 +39,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 
 **Capital formation is a named activity, not a loophole.**
 - **Today:** “Investor” is either a villain class or an untouchable class.
-- **With this Constitution:** Capital formation and investment sit inside [Business Creation](../../../core_05_band_participation.md#business-creation-constitutional). Shutting comparable ventures out of capital markets, infrastructure, or legal recognition while incumbents keep them is a failure.
+- **With this Constitution:** Capital formation and investment sit inside [Business Creation](../../../core_05_band_participation.md#business-creation). Shutting comparable ventures out of capital markets, infrastructure, or legal recognition while incumbents keep them is a failure.
 
 **A gift does not cancel harm.**
 - **Today:** A company you put money into puts extra rules on the AI so the product looks careful, while the founders still take the bonus and can still say “ship it anyway.” After the tool hurts customers or workers, the company announces a donation, posts a write-up about safety, or points to the last funding round — and the harm is treated as closed.

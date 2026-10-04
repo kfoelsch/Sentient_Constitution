@@ -8,7 +8,7 @@
 
 **Constitutional guardrails (summary)**
 
-- **Verified inputs only** (demonstrable Contribution Axis; [Violation Nature](../core_05_band_accountability.md#violation-nature-chapter-six) for the Violation Axis) per [Verified inputs for standing](../core_09_standing_assessment.md#verified-inputs-for-standing).
+- **Verified inputs only** (demonstrable Contribution Axis; [Violation Nature](../core_05_band_accountability.md#violation-nature) for the Violation Axis) per [Verified inputs for standing](../core_09_standing_assessment.md#verified-inputs-for-standing).
 - **Constitutional-outcome baseline controls.** Both axes use the unified Chapter Nine thresholds. Numeric estimates must not count raw efficiency, output, prestige, wealth, utilization, burden shifting, allegations, or disfavored status as impact.
 - **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Ten §6.1](../core_10_standing_integration.md#61-recency-and-currentness). They must not alter a Chapter Nine contribution standing record, Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
 - **Unresolved** violation findings are **not** time-discounted for standing integration.

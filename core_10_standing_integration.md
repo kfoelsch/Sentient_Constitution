@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten**, the standing-pipeline integration and consequence layer. [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) exclusively owns verified facts, standing records, standing measurement, and every Contribution Axis and Violation Axis slot. This chapter accepts those inputs as fixed and answers Question 3: what follows. [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) decides only whether a qualifying `s = 7`, `s = 8`, or `s = 9` violation receives the matching anti-constitutional-misconduct designation.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Ten**, the standing-pipeline integration and consequence layer. [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) exclusively owns verified facts, standing records, standing measurement, and every Contribution Axis and Violation Axis slot. This chapter accepts those inputs as fixed and answers Question 3: what follows. [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) decides only whether a qualifying `s = 7`, `s = 8`, or `s = 9` violation receives the matching anti-constitutional-misconduct designation.
 
 </details>
 
@@ -22,7 +22,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Questions 1 and 2; verified records and standing measurement*).
+- Upstream: [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*Questions 1 and 2; verified records and standing measurement*).
 - This file: Question 3 integration, remedy, correction, locks, voluntary public accountability expression, competency bars and clearances, final standing effect, restoration, reassessment, enforcement realism, remedy systems, and pattern applications / Question 3 routing.
 - Downstream: [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*designation only*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
@@ -195,7 +195,7 @@ Detention, imprisonment, and other liberty restrictions are not standing locks. 
 **Named-named-pathway distinction — governance-voting vs stakeholder-participation:**
 
 - **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
-- **stakeholder-participation** covers stake-weighted influence, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster). It does **not** erase [Stakeholder](core_05_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
+- **stakeholder-participation** covers stake-weighted influence, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice). It does **not** erase [Stakeholder](core_05_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
 
 Where verified stakeholder-pathway corruption, capture, false-stake abuse, or coercive participation-weight gaming is the trigger, apply the [Stakeholder-Participation Standing Lock](#55-special-locks) under [§5.5 Special locks](#55-special-locks).
 
@@ -224,14 +224,14 @@ Where restorative pathways for a verified violation include public acknowledgmen
   - independently reviewable for voluntariness and authenticity.
 - Refusal to participate in public expression must not, by itself, increase baseline sanctions, widen a standing lock, or substitute for remedy or correction owed under [§4.1 Remedy and correction](#41-remedy-and-correction).
 - **Inauthentic or abusive expression:** Public acknowledgment or apology that is materially insincere, manipulative, performative without truthful accountability, or abusive toward affected parties or the public does not satisfy restorative requirements.
-  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XX-B** (*Restriction Floors*) and [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+  - It may carry negative justice consequences for the accountable party — including reduced credit for rehabilitation and other lawful restrictions under **Article XX-B** (*Restriction Floors*) and [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
   - Treating a fake or abusive apology as sufficient repair, or using it to avoid necessary protection, remediation, or locks under [§4.1 Remedy and correction](#41-remedy-and-correction) and [§4.2 Prevention — general standing locks](#42-prevention--general-standing-locks), is non-compliant.
 - No format may impose any of the following beyond what is necessary for truthful accountability and proportionate remediation:
   - degrading treatment;
   - compelled self-abasement;
   - irreversible reputational harm.
 
-Anti-constitutional misconduct specializations — including designation-triggered rules and designation-linked consequences for inauthentic expression — are governed by [Chapter Eleven §4.3](core_11_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
+Anti-constitutional misconduct specializations — including designation-triggered rules and designation-linked consequences for inauthentic expression — are governed by [Chapter Eleven §4.3](core_11_a_misconduct_designation.md#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*).
 
 <a id="44-remedy-parity-and-lock-preconditions"></a>
 #### 4.4 Remedy parity and lock preconditions
@@ -248,7 +248,7 @@ Anti-constitutional misconduct specializations — including designation-trigger
 
 **Exemptions.** The tripwire does not relax [§5.5 Special locks](#55-special-locks) special locks, locks attached to Violation Axis slot **7**, **8**, or **9** findings, or coercive or liberty-restricting safeguards under [§5.4 Special violation rules](#54-special-violation-rules). Filings verified as contest-pathway flooding under [§10.10 Contest-pathway or info-sphere flooding](#1010-contest-pathway-or-info-sphere-flooding) do not count toward the backlog that trips this rule.
 
-**Measurement.** The ratio of locks issued to remedies commenced and restorations decided is a constitutional performance indicator under the [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family). A ratio that widens over successive periods is evidence of [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) on the violation side and of a [§9 Enforcement realism and remedy systems](#9-enforcement-realism-and-remedy-systems) paper-pathway failure on the remedy side; it is not a neutral operations metric.
+**Measurement.** The ratio of locks issued to remedies commenced and restorations decided is a constitutional performance indicator under the [Constitutional Performance measurement family](core_05_band_performance.md#measuring-constitutional-performance-preamble-measurement-family). A ratio that widens over successive periods is evidence of [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) on the violation side and of a [§9 Enforcement realism and remedy systems](#9-enforcement-realism-and-remedy-systems) paper-pathway failure on the remedy side; it is not a neutral operations metric.
 
 <a id="5-lock-design-and-enforcement"></a>
 ### 5. Lock design and enforcement
@@ -358,7 +358,7 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
 <a id="54-transition-exception-misaligned-rewards"></a>
 - **Transition exception:** During approved transition phases under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
   - operation stays within a **documented transition plan** and published [gate criteria](core_05_band_oversight.md#gate-criteria) under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*);
-  - the system is proceeding toward [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) on a published cadence, including **conditional** or **deferred recognition** where Chapter Eight allows; and
+  - the system is proceeding toward [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) on a published cadence, including **conditional** or **deferred recognition** where Chapter Eight allows; and
   - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved transition scope, or using transition status to evade certification, correction, or protected reporting.
 
   The exception does **not** apply where verified anti-constitutional conduct, knowing concealment, operation outside approved transition scope, failed or exceeded transition milestones, or a certification record — including **conditional recognition** — documents material misalignment or misaligned reward pathways.
@@ -424,7 +424,7 @@ This rule applies [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capa
   - This applies to sentients who refuse rehabilitation offered on fair terms, and where less-restrictive protective measures cannot satisfy material safety necessity.
   - Imprisonment must satisfy the **Article XX-B** (*Restriction Floors*) joint requirements, individualized-attribution rules, and challenge and appeal protections, and must carry the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers that **Article XX-B** (*Restriction Floors*) requires of every justice measure.
   - Substituting deprivation of life, or failing to impose imprisonment where this bullet requires it, is non-compliant.
-  - Imprisonment for verified anti-constitutional misconduct is specialized in [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*) and uses the same attachment fields.
+  - Imprisonment for verified anti-constitutional misconduct is specialized in [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*) and uses the same attachment fields.
 
 <a id="55-special-locks"></a>
 #### 5.5 Special locks
@@ -466,7 +466,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
   - stake-weighted influence;
   - binding stakeholder choice participation;
   - stakeholder representation authority; and
-  - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05_band_participation.md#binding-stakeholder-choice-cluster).
+  - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_05_band_participation.md#defp2-binding-stakeholder-choice).
 - **Does not by itself restrict:**
   - [Stakeholder](core_05_band_participation.md#stakeholder) status or recognition that the sentient is materially affected;
   - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility);
@@ -522,7 +522,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 - **Reassessment point:**
   - The published restoration or reinstatement finding above is the checkpoint for any narrowing or lifting.
   - Under [§5.1 Definition and attachment](#51-definition-and-attachment), keep the sentient isolated from proxy networks, successor entities, and settings shared with coordinated violators while the risk remains live.
-- **Read with:** [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*) for the extra rules on restricting liberty or imprisonment that apply only after a final anti-constitutional misconduct designation. The Trust Lock rules themselves stay in this subsection.
+- **Read with:** [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*) for the extra rules on restricting liberty or imprisonment that apply only after a final anti-constitutional misconduct designation. The Trust Lock rules themselves stay in this subsection.
 
 <a id="6-contribution-consequences-second"></a>
 ### 6. Contribution consequences second
@@ -682,7 +682,7 @@ It must also expose the inputs, weights, rules, and review routes used. The fina
 This subsection sets out who may see named-pathway effects and what aggregation is prohibited:
 
 - **Disclosure scope:** The final effect for a named pathway is disclosed to the subject, to the gatekeeper of that named pathway, and to authorized reviewers. It is not disclosed to gatekeepers of other named pathways as a matter of course.
-- **Prohibited aggregation:** The following construct a merged score and are independently measurable violation conduct under [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), read with [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*), whose aggregation discipline this subsection mirrors for standing:
+- **Prohibited aggregation:** The following construct a merged score and are independently measurable violation conduct under [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement), read with [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*), whose aggregation discipline this subsection mirrors for standing:
   - assembling final effects across named pathways into:
     - a profile;
     - a composite;
@@ -710,7 +710,7 @@ This subsection sets out what the subject must be told when an effect attaches:
   - the expected duration or review cadence; and
   - the challenge route under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
 - **Honest cost:** A standing lock closes real doors and an inspectable-action duty is a real burden on the steward who carries it. Adopters must state those costs plainly in the material that describes standing to affected sentients, alongside what standing is not. Describing only the limits of standing while omitting its weight is a [Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) defect.
-- **Felt-burden measure:** Adopters must measure, under the [Participation measurement family](core_05_apex_participation_leg.md#participation-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded named-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) under [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§7.1 Anti-aggregation of named-pathway effects](#71-anti-aggregation-of-named-pathway-effects) enforcement — not explained away.
+- **Felt-burden measure:** Adopters must measure, under the [Participation measurement family](core_05_apex_participation_leg.md#measuring-participation-preamble-measurement-family), whether affected sentients experience standing effects as a general worth rank, reputation score, or permanent status rather than as bounded named-pathway conditions. Material divergence between the legal category and the lived one is [Proxy Divergence](core_05_band_oversight.md#proxy-divergence) under [Chapter One §13.2.4 Proxy-Divergence Invalidation](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation): it must be documented, escalated, and corrected through design, disclosure, or [§7.1 Anti-aggregation of named-pathway effects](#71-anti-aggregation-of-named-pathway-effects) enforcement — not explained away.
 
 <a id="8-restoration-and-reassessment"></a>
 ### 8. Restoration and reassessment
@@ -744,7 +744,7 @@ Archival is not deletion. [Evidence Preservation](core_05_band_oversight.md#evid
 
 *In plain terms: standing consequences and redress count only when real institutions can deliver them. This section applies the [Chapter One §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) principle to that machinery. Day-to-day staffing, funding, backlog, and succession rules live in the institutions layer.*
 
-Chapter Ten applies [Chapter One §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) to standing effects: Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system-constitutional) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XIII-B** (*Right to Redress and Remedy*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
+Chapter Ten applies [Chapter One §6.1](core_01_a_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) to standing effects: Question 3 consequences and related redress must be institutionally real. A [Remedy System](core_05_band_accountability.md#remedy-system) is the durable capacity that delivers challenge, intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review — not a paper remedy pathway. Implementation detail is owned by [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*). Read with **Article XIII-B** (*Right to Redress and Remedy*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must maintain practical, timely capacity to implement correction, fund remedy, review restrictions, preserve records, enforce safeguards, and prevent escape through cost, delay, borders, restructuring, or formal identity changes.
 
@@ -834,7 +834,7 @@ Rights and standing consequences are real only when sentients can invoke them, v
 
 - Upstream: [§1](#1-chapter-nine-records-do-not-change) through [§9](#9-enforcement-realism-and-remedy-systems) (*immutable Chapter Nine inputs through enforcement realism and remedy systems*).
 - Subsections: [§10.1](#101-informal-ecological-stewardship-competency-clearance); [§10.2](#102-ecological-negligence-with-concealment); [§10.3](#103-forum-integrity-deception-or-recusal-failure); [§10.4](#104-recurrence-after-completed-restitution); [§10.5](#105-champion-repair-while-a-lock-remains-active); [§10.6](#106-institutional-vehicle-and-successor-evasion); [§10.7](#107-misaligned-reward-retention); [§10.8](#108-anti-constitutional-misconduct-allegation); [§10.9](#109-rights-floor-waiver-or-unconstitutional-contract-devices); [§10.10](#1010-contest-pathway-or-info-sphere-flooding); [§10.11](#1011-infrastructure-denial-or-dependency-cutoff); [§10.12](#1012-stakeholder-participation-corruption-or-false-stake-abuse); [§10.13](#1013-obstruction-of-accountability).
-- Read with: [Chapter Nine §4.6](core_09_standing_assessment.md#46-question-2-measurement-illustrations) (*Question 2 measurement illustrations*); [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-nine-twelve-application-vignettes) (*full pipeline domain walkthroughs*); [Chapter Eleven §5](core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*designation-side pattern routing — dual-layer twin; not a lock-type catalog*).
+- Read with: [Chapter Nine §4.6](core_09_standing_assessment.md#46-measurement-illustrations) (*Question 2 measurement illustrations*); [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-ninetwelve-pipeline-application-vignettes) (*full pipeline domain walkthroughs*); [Chapter Eleven §5](core_11_b_misconduct_pattern_applications.md#5-criteria-interactions-and-named-pattern-routing) (*designation-side pattern routing — dual-layer twin; not a lock-type catalog*).
 
 </details>
 
@@ -857,7 +857,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§6.1 Recency and currentness](#61-recency-and-currentness) and [§6.2](#62-competency-bars-and-clearances) (*current, role-relevant work may support clearance against an inclusive, named-pathway-scoped bar*); and
   - [Chapter Nine §3.7 *Informal and small-scope records*](core_09_standing_assessment.md#37-informal-and-small-scope-records) (*the relying body verified and holds the record; the cooperative's members were claimants, not verifiers*).
 - **Non-negotiable:** The Contribution Axis slot does not change. Formal pedigree is not required where verified, current, role-relevant work meets the published bar, and formal-institution verification is not required where a disinterested relying body verified the record.
-- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Nine §4.6 Example 1](core_09_standing_assessment.md#46-question-2-measurement-illustrations).
+- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Nine §4.6 Example 1](core_09_standing_assessment.md#46-measurement-illustrations).
 
 <a id="102-ecological-negligence-with-concealment"></a>
 #### 10.2 Ecological negligence with concealment
@@ -871,7 +871,7 @@ This situation is identified by the cue below and governed by the sections liste
   - [§4](#4-violation-correction-and-prevention) (*remedy, correction, and prevention*); and
   - [§5.4](#54-special-violation-rules) (*negligence / concealment shape lock and safeguard attachment*).
 - **Non-negotiable:** Concealment never moves the Violation Axis slot. It may orient remedy, monitoring, resource-stewardship restrictions, and heightened verification only.
-- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Nine §4.6 Example 2](core_09_standing_assessment.md#46-question-2-measurement-illustrations).
+- **Depth pointer:** Question 2 illustration of the same fact family — [Chapter Nine §4.6 Example 2](core_09_standing_assessment.md#46-measurement-illustrations).
 
 <a id="103-forum-integrity-deception-or-recusal-failure"></a>
 #### 10.3 Forum-integrity deception or recusal failure

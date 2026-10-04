@@ -29,7 +29,7 @@ See: [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-ad
 
 Using the ideas as a handbook is **operations-guide** use. “We adopted” is honest only after a qualifying body records a Chapter Sixteen instrument. Attach the non-adoption banner when that is the actual situation.
 
-See: [START_HERE.md §5](../START_HERE.md#two-modes); [FIT_SITUATIONS.md §2](adoption/FIT_SITUATIONS.md#2-two-modes); [non-adoption banner](adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner).
+See: [START_HERE.md §5](../START_HERE.md#2-two-ways-to-use-it); [FIT_SITUATIONS.md §2](adoption/FIT_SITUATIONS.md#2-two-modes); [non-adoption banner](adoption/FIRST_ADOPTER_KIT.md#6-non-adoption-banner).
 
 ### 5. If I am being harmed, what do I do *here* vs in ordinary law?
 
@@ -59,7 +59,7 @@ See: [Rights Floor wall sheet](../doc_architecture/generated/rights_floor_sheet.
 
 A filed case is not standing by itself. Help and harm, when they matter, have to be verified and written on two separate tracks. Rumors and dispute stories are not that record.
 
-See: [G04 — Help and harm](adoption/easy_entry/G04_help_and_harm.md); [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md); [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+See: [G04 — Help and harm](adoption/easy_entry/G04_help_and_harm.md); [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md); [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
 
 ### 10. What if there is a crisis?
 

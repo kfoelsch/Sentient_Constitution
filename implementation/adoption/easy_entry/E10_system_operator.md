@@ -41,7 +41,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The press team wants a public line that the organization follows a careful standard. An outside commentator or the board signs on. Those who actually run the logs and the release are not bound.
 - **With this Constitution:** A company, lab, or public operator that **runs** the system is a ranked fit. Start by using the ideas as a handbook. Full adoption only if you can bind those systems in **your** custody.
 
-See: [FIT_SITUATIONS.md §4.2](../FIT_SITUATIONS.md#42-high-impact-system-operators); [Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
+See: [FIT_SITUATIONS.md §4.2](../FIT_SITUATIONS.md#42-high-impact-system-operators-deploy-platform-product); [Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority).
 
 **One standard when it is costly.**
 - **Today:** A deadline, a bonus, or “ignore it, I’ll take responsibility” shows up. Legal wants a one-way AI extra rulebook. The model is constrained; humans keep a way to skip the rules.
@@ -59,7 +59,7 @@ See: [Chapter Eight](../../../core_08_a_system_alignment_certification_evaluatio
 - **Today:** Intake is a maze, or only insiders can open a ticket.
 - **With this Constitution:** Challenge, review, and redress are a basic protection, on a clock.
 
-See: [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Article XXV-C](../../../core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge).
+See: [Article XIII-A](../../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Article XXV-C](../../../core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [plain challenge](../../STEWARD_ENTRY_DOORS.md#plain-challenge-synthetic).
 
 **Labor is not a classification trick.**
 - **Today:** Contractors, gigs, and AIs sit outside the floor.

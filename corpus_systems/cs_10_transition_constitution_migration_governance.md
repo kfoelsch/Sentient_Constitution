@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#cs-10-1-purpose-and-role); [§2](#cs-10-2-phased-transition-structure); [§5](#cs-10-5-failure-handling-off-ramps-and-re-baselining); [§7](#cs-10-7-prioritizing-system-transition-targets); [§8](#cs-10-8-preservation-during-transition).
+- Downstream: [§1](#cs-101-purpose-and-role); [§2](#cs-102-phased-transition-structure); [§5](#cs-105-failure-handling-off-ramps-and-re-baselining); [§7](#cs-107-prioritizing-system-transition-targets); [§8](#cs-108-preservation-during-transition).
 - Read with: **CS-10** (*Transition constitution and migration governance*); **CS-5** (*User-facing capability surfaces*); **CS-11** (*Subversion response, replacement, and reconstitution*).
 
 </details>
@@ -23,8 +23,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [Reversibility](../core_05_band_continuity.md#reversibility) · [O](../core_05_band_continuity.md#reversibility) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Emergency and Contingency](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](../core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](../core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](../core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
 - [Contestability](../core_05_band_accountability.md#contestability) · [O](../core_05_band_accountability.md#contestability) · [M](../core_05_band_accountability.md#contestability-a) · [A](../core_05_band_accountability.md#contestability-a) · [C](../core_05_band_accountability.md#contestability-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
@@ -52,12 +52,12 @@ A stewardship self-application declaration (process support: [`evaluation/self_a
 
 Transition programs must define at least: preparation, limited adoption, expanded adoption, and steady-state phases.
 
-**Existing instantiations.** The clock published for systems and derived entities already instantiated when the adopter's instrument takes effect is scaled to the system's class under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*). Higher-exposure tiers under [CS-10.7](#cs-10-7-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) receive shorter clocks and earlier interim measures. The clock defers delivery work. It does not defer restraint duties or the preservation rules in [CS-10.8](#cs-10-8-preservation-during-transition) (*Preservation during transition*).
+**Existing instantiations.** The clock published for systems and derived entities already instantiated when the adopter's instrument takes effect is scaled to the system's class under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*). Higher-exposure tiers under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) receive shorter clocks and earlier interim measures. The clock defers delivery work. It does not defer restraint duties or the preservation rules in [CS-10.8](#cs-108-preservation-during-transition) (*Preservation during transition*).
 
 Each phase must:
 - publish scope of affected systems and stakeholders;
 - publish the **restraint duties** that bind during the phase and the scopes in which each Rights Floor is **enforceable** under the **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) readiness rules;
-- publish the phase's open **Rights-Floor attainment gaps** and dated milestones (see [**CI-14.4**](../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger: measures, verification, and publication*));
+- publish the phase's open **Rights-Floor attainment gaps** and dated milestones (see [**CI-14.4**](../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger: measures, verification, and publication*));
 - publish accountable transition owners and review bodies.
 
 <a id="cs-10-3-gate-criteria-and-advancement-rules"></a>
@@ -67,7 +67,7 @@ Each phase must:
 
 A **gate** is the checkpoint between phases, or before adoption widens in scope. **Gate criteria** are the measurable conditions, published before the phase begins, that must be shown met before the gate opens. Each states what is measured, the threshold, the owner, and the independent verifier.
 
-Gate criteria, verification strength, and rollback-feasibility evidence are scaled to the **system class** of the systems the phase moves, and phases are sequenced by exposure tier under [CS-10.7](#cs-10-7-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) as **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) requires.
+Gate criteria, verification strength, and rollback-feasibility evidence are scaled to the **system class** of the systems the phase moves, and phases are sequenced by exposure tier under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) as **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) requires.
 
 Phase advancement requires auditable evidence that predefined gate criteria are satisfied. The criteria, the evidence, and the gate decision are published, and materially affected parties may comment on the criteria before adoption and challenge the decision.
 

@@ -62,8 +62,8 @@ Think of an Act Record as the **accountability spine**, not as a separate record
 
 Two context records describe a materially impactful system before or alongside certification:
 
-- The [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) records impact class, dependency type, rationale, assumptions, uncertainty, and revalidation triggers. It is not the full certification file or a standing record.
-- The [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional) records material data types and handling posture, including relevant separation, lifecycle, attribution, disclosure, and re-evaluation information. It too is not a certification case file or standing record.
+- The [System Classification Record](../core_05_band_continuity.md#system-classification-record) records impact class, dependency type, rationale, assumptions, uncertainty, and revalidation triggers. It is not the full certification file or a standing record.
+- The [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) records material data types and handling posture, including relevant separation, lifecycle, attribution, disclosure, and re-evaluation information. It too is not a certification case file or standing record.
 
 The [System Certification Record](../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) is the bounded, reviewable case file for a system, version, operator, scope, time window, material-impact profile, and decision context. It reflects the applicable evaluation outputs and includes the classification and data-type records when certification runs. Certification is not a one-line approval, and it does not replace the later rules for standing measurement or effects.
 
@@ -128,7 +128,7 @@ Correction and contest are not afterthoughts. A forum reviewing a standing recor
 
 - **Evidence, logs, and attestations are inputs, not automatically official records or valid determinations** ([Act Record](../core_05_band_accountability.md#materially-binding-act-record)).
 - **An Act Record is an accountability trail, not a substitute for a process-specific record’s independent requirements** ([Chapter Seven §7](../core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)).
-- **A system classification or data-types record is not the full certification file, a standing record, or an operator’s self-label** ([System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional)).
+- **A system classification or data-types record is not the full certification file, a standing record, or an operator’s self-label** ([System Classification Record](../core_05_band_continuity.md#system-classification-record)).
 - **A Forum Case Record is not a Standing Record and does not by itself create a standing effect** ([Chapter Twelve §2.3](../core_12_forum.md#23-forum-case-records-standing-records-and-contests)).
 - **Contribution and violation records remain separately auditable** ([Chapter Nine §2](../core_09_standing_assessment.md#2-question-1--what-happened)).
 - **An integration record links its source records and states named-pathway-specific effects; it does not silently reclassify or rewrite them** ([Chapter Ten §2](../core_10_standing_integration.md#2-automatic-integration-review-and-continuity)).

@@ -7,7 +7,7 @@
 - How shared contracts set authority, readability, identifiers, and “who owns this topic”
 - How topic routing and mandatory read-with order work across implementation files
 - How joint obligations and interlocks must be satisfied together — not restated as domain doctrine
-- How shared operational definitions (**oDef**) live in the **CJS-3** (*operational cluster library (oDef)*) library (**oDef.*n*** = **CJS-3.*n***) — including the **[CJS-3.3 / oDef.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
+- How shared operational definitions (**oDef**) live in the **CJS-3** (*operational cluster library (oDef)*) library (**oDef.*n*** = **CJS-3.*n***) — including the **[CJS-3.3 / oDef.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
 - Families **CJS-1** (*Scope, purpose, and boundary interface*)–**CJS-3** (*operational cluster library (oDef)*) and the registry annex carry the detail — expand **Joint structure index** below, or open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) / [CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*), when you need a specific file
 
 **Does not:**
