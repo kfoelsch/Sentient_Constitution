@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-03T13:15:05+00:00
+Generated: 2026-10-04T02:46:20+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **244/244** terms pass tier audit.
+Approved progress: **248/248** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -60,8 +60,10 @@ Approved progress: **244/244** terms pass tier audit.
 | Existential Risk | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Identity Data Protection | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Institutional Development | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Openness Aspiration | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Proportionate Cross-System Support | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Residual Risk / Misalignment | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Reversibility | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
@@ -192,6 +194,7 @@ Approved progress: **244/244** terms pass tier audit.
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
+| Abstract Strictness | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Accountability | approved | primary_only | tetrad_leg_head | `core_05_apex_accountability_leg.md` | yes | pass |
 | Adjudication and Dispute Resolution | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Anti-Constitutional Misconduct Review | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
@@ -223,6 +226,7 @@ Approved progress: **244/244** terms pass tier audit.
 | Forum Family, Sentient | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Forum Family, Technical | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Foundational Constitutional Choice | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Fullest Protective Effect | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Game of Chance | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Good Faith | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Governance | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |

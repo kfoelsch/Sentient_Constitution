@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-03T13:23:59+00:00",
+  "generated_at": "2026-10-04T02:46:22+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 15978,
+  "edge_count": 16109,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -8354,6 +8354,14 @@
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "13. Constitutional Collision Resolution Process",
       "source_anchor": "#13-constitutional-collision-resolution-process",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "13. Constitutional Collision Resolution Process",
+      "source_anchor": "#13-constitutional-collision-resolution-process",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
       "count": 1
@@ -10690,6 +10698,54 @@
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "15.3 Ambiguity resolution",
       "source_anchor": "#153-ambiguity-resolution",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.3 Ambiguity resolution",
+      "source_anchor": "#153-ambiguity-resolution",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.3 Ambiguity resolution",
+      "source_anchor": "#153-ambiguity-resolution",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.3 Ambiguity resolution",
+      "source_anchor": "#153-ambiguity-resolution",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.3 Ambiguity resolution",
+      "source_anchor": "#153-ambiguity-resolution",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.3 Ambiguity resolution",
+      "source_anchor": "#153-ambiguity-resolution",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.3 Ambiguity resolution",
+      "source_anchor": "#153-ambiguity-resolution",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint",
       "count": 1
@@ -10771,6 +10827,30 @@
       "source_header": "15.4 Constitutional Meaning Conflict Resolution",
       "source_anchor": "#154-constitutional-meaning-conflict-resolution",
       "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.4 Constitutional Meaning Conflict Resolution",
+      "source_anchor": "#154-constitutional-meaning-conflict-resolution",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.4 Constitutional Meaning Conflict Resolution",
+      "source_anchor": "#154-constitutional-meaning-conflict-resolution",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.4 Constitutional Meaning Conflict Resolution",
+      "source_anchor": "#154-constitutional-meaning-conflict-resolution",
+      "target_file": "core_05_band_integrative.md",
       "target_anchor": "#authority-stack",
       "count": 3
     },
@@ -10800,11 +10880,43 @@
     },
     {
       "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.4.1 Integrated reading",
+      "source_anchor": "#1541-integrated-reading",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "15.4.2 Last-resort internal hierarchy",
       "source_anchor": "#1542-last-resort-internal-hierarchy",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#authority-stack",
       "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.4.2 Last-resort internal hierarchy",
+      "source_anchor": "#1542-last-resort-internal-hierarchy",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.4.3 Incorporation layer",
+      "source_anchor": "#1543-incorporation-layer",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15.4.3 Incorporation layer",
+      "source_anchor": "#1543-incorporation-layer",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness",
+      "count": 3
     },
     {
       "source_file": "core_01_b_interaction_interpretation.md",
@@ -11028,6 +11140,14 @@
       "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#corpus-authority-stack-supremacy-and-enforceability-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "CHAPTER 01, PART B: INTERACTION AND INTERPRETATION",
+      "source_anchor": "#chapter-01-part-b-interaction-and-interpretation",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -11626,6 +11746,14 @@
       "source_file": "core_01_b_interaction_interpretation.md",
       "source_header": "15. Constitutional Interpretation",
       "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "15. Constitutional Interpretation",
+      "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
       "count": 1
@@ -11821,6 +11949,14 @@
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#33-governance-layers",
+      "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -12162,6 +12298,14 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "16. Stewardship In Depth",
       "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#constitutional-contract-layer",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 3
@@ -12300,7 +12444,7 @@
       "source_anchor": "#16-stewardship-in-depth",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-status-and-weight-cluster",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -12490,8 +12634,32 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "16. Stewardship In Depth",
       "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#46-constitutional-forums",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
       "target_file": "core_13_governance.md",
       "target_anchor": "#5-authorized-roles-competency-development-and-contribution",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_13_governance.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -12580,7 +12748,7 @@
       "source_anchor": "#161-distributed-understanding",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#distributed-understanding-constitutional",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -12875,6 +13043,30 @@
       "source_header": "16.2 Institutional Development",
       "source_anchor": "#162-institutional-development",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.2 Institutional Development",
+      "source_anchor": "#162-institutional-development",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.2 Institutional Development",
+      "source_anchor": "#162-institutional-development",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.2 Institutional Development",
+      "source_anchor": "#162-institutional-development",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#strategic-stewardship-obligation-constitutional-a",
       "count": 2
     },
@@ -13044,6 +13236,30 @@
       "source_anchor": "#163-openness-aspiration",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.3 Openness Aspiration",
+      "source_anchor": "#163-openness-aspiration",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.3 Openness Aspiration",
+      "source_anchor": "#163-openness-aspiration",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.3 Openness Aspiration",
+      "source_anchor": "#163-openness-aspiration",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional-c",
       "count": 1
     },
     {
@@ -19242,6 +19458,14 @@
       "source_file": "core_04_burden_traceability_verification.md",
       "source_header": "CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION",
       "source_anchor": "#chapter-four-burden-of-proof-traceability-and-verification",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "core_04_burden_traceability_verification.md",
+      "source_header": "CHAPTER FOUR: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION",
+      "source_anchor": "#chapter-four-burden-of-proof-traceability-and-verification",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-system-alignment-certification",
       "count": 2
@@ -20659,6 +20883,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional",
       "count": 1
     },
@@ -20692,6 +20924,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#occupancy-continuity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional",
       "count": 1
     },
     {
@@ -20995,6 +21235,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_integrative.md",
       "target_anchor": "#authority-stack",
       "count": 1
     },
@@ -21060,6 +21308,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#foundational-constitutional-choice",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -35330,9 +35586,17 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Distributed Understanding",
       "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#16-stewardship-in-depth",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35341,6 +35605,14 @@
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#161-distributed-understanding",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#17-consequential-stewardship-the-steward-role",
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35356,7 +35628,7 @@
       "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
-      "count": 1
+      "count": 4
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35388,7 +35660,15 @@
       "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
-      "count": 2
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35396,7 +35676,23 @@
       "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency",
-      "count": 4
+      "count": 7
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#public-oversight-baseline-disclosure",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35404,7 +35700,7 @@
       "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35413,6 +35709,14 @@
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#educational-agency",
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 3
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35434,8 +35738,24 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Distributed Understanding",
       "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xvi-audit-transparency-and-independent-verification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -36858,6 +37178,14 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Indigenous Continuity",
       "source_anchor": "#indigenous-continuity-constitutional",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Indigenous Continuity",
+      "source_anchor": "#indigenous-continuity-constitutional",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics-constitutional",
       "count": 1
@@ -36989,6 +37317,166 @@
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-vi-c-nondiscrimination",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-stewardship-in-depth",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#162-institutional-development",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#distributed-understanding-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#strategic-stewardship-obligation-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#verifiability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_performance.md",
+      "target_anchor": "#performance-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -37701,6 +38189,190 @@
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-stewardship-in-depth",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#163-openness-aspiration",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#17-consequential-stewardship-the-steward-role",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#distributed-understanding-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#verifiability",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#security-sensitive-disclosure-balance",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_performance.md",
+      "target_anchor": "#performance-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -39980,6 +40652,22 @@
       "source_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#distributed-understanding-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "source_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "source_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional",
       "count": 2
     },
     {
@@ -42784,6 +43472,78 @@
     },
     {
       "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#153-ambiguity-resolution",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1541-integrated-reading",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1543-incorporation-layer",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#authority-stack",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Abstract Strictness",
+      "source_anchor": "#abstract-strictness",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
       "source_header": "Authority Stack and Internal Hierarchy",
       "source_anchor": "#authority-stack",
       "target_file": "core_00_preamble.md",
@@ -42884,6 +43644,14 @@
       "source_anchor": "#authority-stack",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#constitutional-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Authority Stack and Internal Hierarchy",
+      "source_anchor": "#authority-stack",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -43988,6 +44756,86 @@
       "source_anchor": "#foundational-constitutional-choice",
       "target_file": "core_13_governance.md",
       "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#153-ambiguity-resolution",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1543-incorporation-layer",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#abstract-strictness",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#authority-stack",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#heightened-scrutiny",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_integrative.md",
+      "source_header": "Fullest Protective Effect",
+      "source_anchor": "#fullest-protective-effect",
+      "target_file": "core_15_expansion_supremacy.md",
+      "target_anchor": "#32-stricter-external-protections",
       "count": 2
     },
     {
@@ -45765,6 +46613,14 @@
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
       "count": 3
+    },
+    {
+      "source_file": "core_05_band_oversight.md",
+      "source_header": "Heightened Scrutiny",
+      "source_anchor": "#heightened-scrutiny",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
     },
     {
       "source_file": "core_05_band_oversight.md",
@@ -74026,6 +74882,14 @@
       "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
       "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 2
@@ -78426,6 +79290,14 @@
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "4.1 Illustrative data-handling application by class (non-exhaustive)",
       "source_anchor": "#41-illustrative-data-handling-application-by-class-non-exhaustive",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "4.1 Illustrative data-handling application by class (non-exhaustive)",
+      "source_anchor": "#41-illustrative-data-handling-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#16-reopening-misalignment-and-non-evasion",
       "count": 1
@@ -79196,6 +80068,14 @@
       "source_anchor": "#chapter-eight-part-a-certification-evaluation",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#chapter-four-burden-of-proof-traceability-and-verification",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION",
+      "source_anchor": "#chapter-eight-part-a-certification-evaluation",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -90034,6 +90914,14 @@
       "source_file": "core_17_incorporation.md",
       "source_header": "3. Safeguards",
       "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "core_17_incorporation.md",
+      "source_header": "3. Safeguards",
+      "source_anchor": null,
       "target_file": "core_14_non_regression.md",
       "target_anchor": "#3-anti-evasion-clause-and-constitutional-misconduct-referral",
       "count": 2
@@ -91237,6 +92125,14 @@
       "target_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
       "target_anchor": "#cjs-11-section-identifiers-and-article-references",
       "count": 2
+    },
+    {
+      "source_file": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
+      "source_header": "CF-3.6 Chamber authority composition and service mechanics",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
     },
     {
       "source_file": "corpus_forum/cf_03_forum_formation_chamber_structure.md",
@@ -106106,6 +107002,14 @@
       "source_file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
       "source_header": "CI-9: Classification-linked institutional obligations",
       "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
+      "source_header": "CI-9: Classification-linked institutional obligations",
+      "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#classification-scaled-governance",
       "count": 2
@@ -111962,6 +112866,14 @@
       "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
       "source_header": "CJS-0.1: Cross-file routing",
       "source_anchor": "#cjs-01-cross-file-routing",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "source_header": "CJS-0.1: Cross-file routing",
+      "source_anchor": "#cjs-01-cross-file-routing",
       "target_file": "core_17_incorporation.md",
       "target_anchor": "#chapter-seventeen-incorporation-bridge",
       "count": 1
@@ -112212,6 +113124,14 @@
       "source_anchor": "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#incentive-alignment-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
+      "source_header": "CJS-0.3: Stable identifiers, edition alignment, and drafting notes",
+      "source_anchor": "#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -112938,6 +113858,14 @@
       "source_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
       "source_header": "CJS-1.3: Shared implementation-corpus preamble contract",
       "source_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 3
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+      "source_header": "CJS-1.3: Shared implementation-corpus preamble contract",
+      "source_anchor": "#cjs-13-shared-implementation-corpus-preamble-contract",
       "target_file": "core_17_incorporation.md",
       "target_anchor": "#chapter-seventeen-incorporation-bridge",
       "count": 1
@@ -113218,6 +114146,14 @@
       "source_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
       "source_header": "CJS-1: Scope, purpose, and boundary interface",
       "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md",
+      "source_header": "CJS-1: Scope, purpose, and boundary interface",
+      "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination",
       "count": 2
@@ -113440,6 +114376,14 @@
     },
     {
       "source_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "source_header": "CJS-2.1.1 Composition floor",
+      "source_anchor": "#cjs-21-hybrid-delegated-authority-delegated-binding-bodies",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
       "source_header": "CJS-2.1 Hybrid delegated authority (delegated binding bodies)",
       "source_anchor": "#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies",
       "target_file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -113524,6 +114468,14 @@
       "source_anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing",
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#1543-incorporation-layer",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "source_header": "CJS-2.5 Shared procedural abstractions for delegated bodies and forum routing",
+      "source_anchor": "#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -113964,6 +114916,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#incentive-alignment-c",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "source_header": "CJS-2: Specific joint interlocks and shared abstractions",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -115013,6 +115973,14 @@
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 3
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
+      "source_header": "CJS-3.11.3 Consolidation ceiling-setting discipline (adopter-tunable)",
+      "source_anchor": "#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
     },
     {
       "source_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
@@ -120882,6 +121850,14 @@
       "source_file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
       "source_header": "CJS-1.8: Two-tier definition contract (binding abstraction + owner detail)",
       "source_anchor": "#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
+      "source_header": "CJS-1.8: Two-tier definition contract (binding abstraction + owner detail)",
+      "source_anchor": "#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail",
       "target_file": "corpus_forum/cf_00_registry_and_reading_rules.md",
       "target_anchor": "#forums-read-with-pointers",
       "count": 1
@@ -120925,6 +121901,14 @@
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#1543-incorporation-layer",
       "count": 2
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
+      "source_header": "CJS-1.8.1 Implementation boundary (primary owner to CJS seam)",
+      "source_anchor": "#cjs-181-implementation-boundary-primary-owner-to-cjs-seam",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
     },
     {
       "source_file": "corpus_joint_structure/cjs_04_drafting_contracts.md",
@@ -121668,6 +122652,14 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#1543-incorporation-layer",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_reader_guide.md",
+      "source_header": "When more than one layer applies",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -125002,6 +125994,14 @@
       "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "source_header": "CS-4.5 Comprehensibility and complexity stewardship",
       "source_anchor": "#cs-4-5-comprehensibility-and-complexity-stewardship",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_04_critical_system_stewardship.md",
+      "source_header": "CS-4.5 Comprehensibility and complexity stewardship",
+      "source_anchor": "#cs-4-5-comprehensibility-and-complexity-stewardship",
       "target_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
       "target_anchor": null,
       "count": 1
@@ -125228,6 +126228,14 @@
       "source_anchor": null,
       "target_file": "corpus_systems/cs_00_registry_and_reading_rules.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_a_user_facing_capabilities.md",
+      "source_header": "CS-5.11 Purpose and role",
+      "source_anchor": "#cs-5-11-purpose-and-role",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -125565,6 +126573,14 @@
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": null,
       "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "source_header": "CS-5.1 Purpose and role",
+      "source_anchor": "#cs-5-1-purpose-and-role",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 2
     },
     {
       "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
@@ -126064,6 +127080,22 @@
     },
     {
       "source_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+      "source_header": "CS-6.1 Purpose and role",
+      "source_anchor": "#cs-6-1-purpose-and-role",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+      "source_header": "CS-6.2 Classification-scaled application",
+      "source_anchor": "#cs-6-2-classification-scaled-application",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
       "source_header": "CS-6.3 Systems-specific checks",
       "source_anchor": "#cs-6-3-systems-specific-checks",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
@@ -126236,6 +127268,14 @@
       "source_anchor": "#cs-7-1-purpose-and-role",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#constitutional-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
+      "source_header": "CS-7.10 Proportional compliance templates (class-scaled)",
+      "source_anchor": "#cs-7-10-proportional-compliance-templates-class-scaled",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
@@ -126508,6 +127548,14 @@
       "source_anchor": null,
       "target_file": "corpus_systems/cs_00_registry_and_reading_rules.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
+      "source_header": "CS-8.1 Purpose and role",
+      "source_anchor": "#cs-8-1-purpose-and-role",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {

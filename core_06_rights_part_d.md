@@ -811,7 +811,7 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
   - **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***;
   - adopted presentation and architecture implementation requirements.
 
-  Where CS-6 and incorporated implementation conflict, the stricter applicable requirement governs.
+  Where CS-6 (*Comprehensibility and complexity stewardship*) and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) governs.
 
 <a id="article-xxiii-root-cause-analysis-and-adaptive-response"></a>
 

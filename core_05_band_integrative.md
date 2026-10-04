@@ -512,6 +512,82 @@ The short form for **Constitutional Collision Record** in this instrument is **C
 
 ---
 
+<a id="abstract-strictness"></a>
+
+#### Abstract Strictness
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §15.3 Ambiguity resolution](core_01_b_interaction_interpretation.md#153-ambiguity-resolution); [Chapter One §15.4.1 Integrated reading](core_01_b_interaction_interpretation.md#1541-integrated-reading); [Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer).
+- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [Proportionality](core_05_band_accountability.md#proportionality), and [Necessity](core_05_band_accountability.md#necessity).
+
+</details>
+
+<br>
+
+*In plain terms: abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more. The Constitution rejects it. Choosing between readings is governed by [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect).*
+
+- **What it is**
+  - **In scope:** Preferring a reading of this Constitution, or of incorporated text, because it is the most restrictive, demanding, or severe one available. It is abstract when the added strictness does not trace to greater protective effect for affected sentients under the integrated reading. Two cases count: picking the most restrictive reading of an ambiguous passage, and presenting severity as protective effect.
+  - **Out of scope:** A reading chosen because it has the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect), including under the rules in [Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer). A requirement written in strong terms, such as a Rights-Floor minimum, is not abstract strictness merely for being strong.
+<a id="abstract-strictness-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a party who prefers a more restrictive reading can show the protective effect that justifies it.
+
+    **Primary assessment:** For each contested reading that is material under [Materiality](core_05_band_oversight.md#materiality-determination), check:
+    - what added protection the more restrictive reading gives, and to whom, under the integrated reading of this Constitution;
+    - whether the reading was chosen over a coherent alternative only because it is more restrictive; and
+    - whether the reading is justified by that protection or only by its severity.
+<a id="abstract-strictness-c"></a>
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - an ambiguity is resolved by preferring the most restrictive or demanding reading, and its added strictness does not trace to greater protective effect for affected sentients;
+    - severity is presented as protective effect; or
+    - a protective-effect claim is made for a reading that does not change what actually protects sentients.
+
+---
+
+<a id="fullest-protective-effect"></a>
+
+#### Fullest Protective Effect
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §15.3 Ambiguity resolution](core_01_b_interaction_interpretation.md#153-ambiguity-resolution); [Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer); [Chapter One §15.4.4 Combined satisfaction of jointly applicable incorporated obligations](core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
+- Read with: [Abstract Strictness](core_05_band_integrative.md#abstract-strictness), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), and [Chapter Fifteen §3.2 Stricter External Protections](core_15_expansion_supremacy.md#32-stricter-external-protections).
+
+</details>
+
+<br>
+
+*In plain terms: when two readings or two rules apply to the same thing, pick the one that protects sentients most when everything is taken together. Do not pick the one that only sounds harsher. This one test applies wherever the corpus chooses between readings or rules.*
+
+- **What it is**
+  - **In scope:** The standard for choosing between two or more readings of this Constitution, or between two or more incorporated or implementation rules that apply to the same materially scoped obligation or risk. The choice with the Fullest Protective Effect is the one that, taken as an integrated whole, preserves the strongest protective, safety, accountability, and traceability requirements for that obligation or risk. It governs:
+    - the ambiguity rule in [Chapter One §15.3 Ambiguity resolution](core_01_b_interaction_interpretation.md#153-ambiguity-resolution);
+    - the incorporation-layer rules in [Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer), including the choice among incorporated texts, the clearly adopted baseline when custody records are unreliable, and the choice between adopted implementation files; and
+    - every implementation-file rule that says which of two overlapping requirements, profiles, or classes governs.
+  - **Out of scope:** [Abstract Strictness](core_05_band_integrative.md#abstract-strictness), which is severity with no added protection. Also out of scope are the tiers of review in [Heightened Scrutiny](core_05_band_oversight.md#heightened-scrutiny), and the relation between this Constitution and stricter external law, which [Chapter Fifteen §3.2 Stricter External Protections](core_15_expansion_supremacy.md#32-stricter-external-protections) governs.
+<a id="fullest-protective-effect-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the party who chose between readings or rules can show that the choice protects sentients most.
+
+    **Primary assessment:** Where two or more readings or rules apply to the same obligation or risk and the choice is material under [Materiality](core_05_band_oversight.md#materiality-determination), check:
+    - what each one preserves of the protective, safety, accountability, and traceability requirements, taken together;
+    - that the one applied is the one that preserves the most; and
+    - that the [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default still holds.
+<a id="fullest-protective-effect-c"></a>
+- **What must hold**
+  - **Primary failure:** Non-compliant when:
+    - a party meets only the reading or rule that is easiest to satisfy when two apply to the same risk;
+    - a reading or rule with less protective effect is chosen because it is easier, cheaper, or more familiar;
+    - severity is presented as protective effect, contrary to [Abstract Strictness](core_05_band_integrative.md#abstract-strictness); or
+    - a protective-effect claim is made for a choice that does not change what actually protects sentients.
+
+---
+
 ### Integrative: Semi-independent terms
 
 <a id="incentive-alignment-semi-independent"></a>
@@ -888,7 +964,7 @@ See **Anti-Segmentation Principle**.
     - First identify the operative edition/custody chain and source layer under the Authority Stack.
     - Then identify the owner home in the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) (and the chapter opening owner claim); apply substance only from that owner home — elsewhere use pointers only.
     - Then apply integrated reading under [Chapter One — §15 Constitutional Interpretation](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
-    - Preserve the Constitution's fullest protective effect as an integrated whole and the [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
+    - Preserve the Constitution's [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) and the [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) non-contraction default.
     - Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning.
     - Where the dispute is term meaning, the Chapter Five canonical definition governs at every layer.
     - For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-0.1** (Topic router) after owner identification.

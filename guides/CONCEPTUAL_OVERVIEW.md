@@ -67,15 +67,15 @@ flowchart TB
     D["Chapter Five: definitions<br/><br/>Shared constitutional meanings"]
     V["Chapters Two–Four<br/><br/>Definition structure, integrity and verification"]
     X["Application to a real system or decision"]
-    A -->|pursued through| T
-    P -->|develops and constrains pursuit of| A
-    P -->|read together with| R
+    D -->|makes claims testable in| X
+    V -->|govern structure and testing of| D
     D -->|gives precision to terms in| P
     D -->|gives precision to terms in| R
-    V -->|govern structure and testing of| D
+    P -->|develops and constrains pursuit of| A
+    P -->|read together with| R
+    A -->|pursued through| T
     T -->|duties apply to| X
     R -->|protect affected sentients in| X
-    D -->|makes claims testable in| X
     style A fill:none,stroke:#16a34a,color:#ffffff
     style T fill:none,stroke:#2563eb,color:#ffffff
     style P fill:none,stroke:#2563eb,color:#ffffff

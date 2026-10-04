@@ -169,7 +169,7 @@ Apply Sentient Constitution **Chapter Fifteen** (*Disputes Involving External Le
 
 Systems must implement class-scaled compliance templates that preserve core protections while right-sizing documentation and verification burden.
 
-Templates are implementation profiles, not alternative standards. When multiple profiles could apply, the **stricter** governs.
+Templates are implementation profiles, not alternative standards. When multiple profiles could apply, the profile with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) governs.
 
 Implementation packets may be standardized through reusable templates so long as they do not narrow constitutional obligations. For **Class A**, **Class B**, and **Class C** systems, packet formats and interchange protocols must also preserve the open data-format and protocol presumption in **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) where portability, audit, repair, continuity, migration, or cross-implementation operation is material. See `implementation/SYSTEMS_IMPLEMENTATION_TEMPLATES_2026-04-13.md` for adopter-facing templates covering system cards, model cards, post-deployment monitoring cadence, incident reporting bundles, and material control-failure disclosure packets.
 

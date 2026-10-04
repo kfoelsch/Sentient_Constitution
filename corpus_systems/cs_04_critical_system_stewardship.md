@@ -125,7 +125,7 @@ Stewards must **not** use organizational, contractual, or procedural complexity 
 **CS-3 — System classification and handling interaction:** For each **Class A, B, or C** system the steward materially affects, the **Comprehensibility and Complexity Stewardship** line in that system’s **Implementation label Application Profile** applies. It applies to steward-controlled **interfaces, documentation, tooling, and disclosed behavior** relevant to that system.
 
 The following add **organization-specific** expectations (governance structure, incentives, subcontractor chains, handoffs).
-Where they **differ in stringency** from the affected system’s class profile, the **stricter** governs (**CS-5**/**CS-6** in this implementation file; [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) stricter-wins).
+Where they **differ in stringency** from the affected system’s class profile, the one with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) governs (**CS-5** (*Design, testing, verification, and deployment; User-facing capability surfaces*) and **CS-6** (*Comprehensibility and complexity stewardship*) in this implementation file; [Chapter One §15.4.3 Incorporation layer](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) cross-file Fullest Protective Effect rule).
 
 **CSS-A — Maximum (organizational):** Periodic **independent complexity audits** of structures, processes, and dependencies touching **Class A** or survival-critical paths.
 

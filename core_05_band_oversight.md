@@ -273,7 +273,7 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
   - **Out of scope:**
     - ordinary [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) review, which applies everywhere without a heightened trigger;
     - the trigger conditions themselves, which stay with the provisions that invoke this standard;
-    - the **strictest applicable** rule for choosing among incorporated texts under [Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer); and
+    - the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) rule for choosing among incorporated texts under [Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer); and
     - other uses of "heightened" that name a stronger safeguard, weight, priority, or control rather than a review standard (for example heightened safeguards in Chapter Nine or heightened priority for habitat).
 <a id="heightened-scrutiny-a"></a>
 - **How to measure and assess**

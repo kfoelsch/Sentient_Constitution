@@ -57,14 +57,14 @@ Read it together with these operational clusters:
 
 This file is not a second home for **Article XXII** (*Comprehensibility and Complexity Stewardship*) or for those operational definitions.
 
-Two rules settle any gap or conflict. Where this file and a **CJS-3** (*operational cluster library*) term conflict, the stricter requirement governs. Where this file is silent on how to interpret, define, verify, or trace a constitutional term, **Sentient Constitution Chapters Two through Five** govern.
+Two rules settle any gap or conflict. Where this file and a **CJS-3** (*operational cluster library*) term conflict, the requirement with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) governs. Where this file is silent on how to interpret, define, verify, or trace a constitutional term, **Sentient Constitution Chapters Two through Five** govern.
 
 <a id="cs-6-2-classification-scaled-application"></a>
 ## CS-6.2 Classification-scaled application
 
-*In plain terms: how strict these rules are depends on the system's class and, for stewards, on the steward tier; where both apply the stricter one wins.*
+*In plain terms: how strict these rules are depends on the system's class and, for stewards, on the steward tier; where both apply, the one with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) wins.*
 
-How strict these requirements are depends on the system's class. The **Comprehensibility and Complexity Stewardship** line in each **Implementation label Application Profile** under **CS-3** (*System classification and handling*) sets that scaling for Classes A, B, C, L, and P, alongside transparency and auditability. It scales this file and the six clusters listed above together. **CS-4** (*Critical system stewardship*) adds organization-scaled rows for the Critical System Steward tiers (**CSS-A**, **CSS-B**, and **CSS-C**). Where both apply, the **stricter** requirement governs.
+How strict these requirements are depends on the system's class. The **Comprehensibility and Complexity Stewardship** line in each **Implementation label Application Profile** under **CS-3** (*System classification machinery*) sets that scaling for Classes A, B, C, L, and P, alongside transparency and auditability. It scales this file and the six clusters listed above together. **CS-4** (*Critical system stewardship*) adds organization-scaled rows for the Critical System Steward tiers (**CSS-A**, **CSS-B**, and **CSS-C**). Where both apply, the requirement with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) governs.
 
 <a id="cs-6-3-systems-specific-checks"></a>
 ## CS-6.3 Systems-specific checks

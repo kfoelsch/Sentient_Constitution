@@ -2911,7 +2911,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <a id="indigenous-continuity-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article VI-C** (*Nondiscrimination*) [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) tests; using this entry or [Chapter Seventeen](core_17_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding instruments;
-  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Fourteen non-regression](core_14_non_regression.md); [Chapter Seventeen §3](core_17_incorporation.md#3-safeguards) safeguards and [Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer) stricter clearly adopted baseline);
+  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Fourteen non-regression](core_14_non_regression.md); [Chapter Seventeen §3](core_17_incorporation.md#3-safeguards) safeguards and [Chapter One §15.4.3 Incorporation layer](core_01_b_interaction_interpretation.md#1543-incorporation-layer) clearly adopted baseline with the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect));
   - **Tertiary failure:** misreading the boundary of this entry, including:
     - category-label framings substituting for capability-functional evaluation; and
     - reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) ecosystem-integrity floors.
@@ -3539,6 +3539,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - **Scope:** where admission scope is met, the joint-invocation home for principle-layer stewardship and capacity discipline where any of the following are materially interdependent:
   - stewardship orientation;
   - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional);
+  - [Institutional Development](core_05_band_continuity.md#institutional-development-constitutional);
+  - [Openness Aspiration](core_05_band_continuity.md#openness-aspiration-constitutional);
   - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional);
   - [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional);
   - [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional);
@@ -3560,6 +3562,8 @@ See **Anti-Segmentation Principle**.
 **Cluster members.** This cluster comprises:
 - [Stewardship](core_05_band_continuity.md#stewardship-constitutional) — principle-layer orientation toward preserving constitutional alignment, repair capacity, distributed understanding, and long-horizon Continuity-aim effects;
 - [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional) — workable opportunities for materially affected sentients to understand how shared systems operate;
+- [Institutional Development](core_05_band_continuity.md#institutional-development-constitutional) — organizational learning through feedback loops, documented correction, strategy alignment, and retained competence that keep institutions able to repair and adapt;
+- [Openness Aspiration](core_05_band_continuity.md#openness-aspiration-constitutional) — the aspiration for shared systems to be open enough to inspect, verify, repair, and leave, within safety, truth, confidentiality, and security limits;
 - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) — the duty of materially influential actors to govern strategy, incentives, and long-horizon consequences for durable alignment;
 - [Short-Horizon Governance Defect](core_05_band_continuity.md#short-horizon-governance-defect-constitutional) — governance that optimizes immediate metrics at foreseeable expense of medium- or long-horizon alignment or Rights-Floor integrity;
 - [Stewardship Defect](core_05_band_continuity.md#stewardship-defect-constitutional) — material failure of stewardship, strategy, incentive design, monitoring, correction, or disclosure that foreseeably permits misalignment or harm;
@@ -3637,14 +3641,14 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Principles: [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter One §16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
-- Read with: [Educational Agency](core_05_band_participation.md#educational-agency), [Transparency](core_05_band_oversight.md#transparency), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), and [Article XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
+- Read with: [Educational Agency](core_05_band_participation.md#educational-agency), [Transparency](core_05_band_oversight.md#transparency), [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), [Auditability](core_05_band_oversight.md#auditability), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Contestability](core_05_band_accountability.md#contestability), [Accessibility](core_05_band_participation.md#accessibility-constitutional), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), [Chapter One §17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role), and [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) and [Article XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 
 </details>
 
 <br>
 
 - **What it is**
-  - **In scope:** Workable opportunities for materially affected sentients to learn how shared systems that affect them operate, with understanding scaled by:
+  - **In scope — facet and purpose:** The community-facing facet of **Pillar 3** (competence at scale) under [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth): workable opportunities for materially affected sentients to learn how shared systems that affect them operate, with understanding scaled by:
     - [Materiality](core_05_band_oversight.md#materiality-determination); and
     - [Dependency](core_05_band_continuity.md#dependency) —
 
@@ -3652,15 +3656,33 @@ See **Anti-Segmentation Principle**.
     - informed participation;
     - stewardship; and
     - [Contestability](core_05_band_accountability.md#contestability).
+  - **In scope — access:** Proportionate, structured access to how shared systems that materially affect sentients operate, covering:
+    - purposes;
+    - constraints;
+    - uncertainties; and
+    - materially relevant effects.
+  - **In scope — supply:** What [Chapter One §17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) must supply to make that access workable:
+    - documentation;
+    - education;
+    - [Transparency](core_05_band_oversight.md#transparency);
+    - role pathways; and
+    - comprehensibility stewardship.
+
+    The obligation stands whether or not every sentient uses every path.
+  - **In scope — online public baseline:** Where lawful online infrastructure exists, the access includes the online [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), including its paywall prohibition and maximum-feasible public-substitute rule. [Transparency](core_05_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) govern that baseline; **[corpus_systems.md](corpus_systems.md), CS-2** (*Information types and handling*) implements it as **Type O** data.
+  - **In scope — what the access supports:**
+    - the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** leg — informed [Meaningful Agency](core_05_band_participation.md#meaningful-agency) and [Contestability](core_05_band_accountability.md#contestability); and
+    - the **oversight** leg — auditing under [Auditability](core_05_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large process among sibling audit modes.
   - **Out of scope:**
+    - every sentient mastering every subsystem — understanding scales with [Materiality](core_05_band_oversight.md#materiality-determination) and [Dependency](core_05_band_continuity.md#dependency) instead;
     - [Transparency](core_05_band_oversight.md#transparency) disclosure alone when workable learning is not the claim; or
     - expert or operator knowledge kept for internal ops with no claim that affected sentients can use it —
-    those sit under their own homes or as ordinary internal practice.
+    the last two sit under their own homes or as ordinary internal practice.
 <a id="distributed-understanding-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
 
-    **Primary assessment:** Distinguish workable understanding from:
+    **Primary assessment:** Check that access covers purposes, constraints, uncertainties, and materially relevant effects at the scale that applies, and that the documentation, education, [Transparency](core_05_band_oversight.md#transparency), role pathways, and comprehensibility stewardship supplied make it workable whether or not every sentient uses every path. Distinguish workable understanding from:
     - nominal disclosure;
     - jargon barriers; and
     - summaries that misstate operative effect.
@@ -3682,6 +3704,130 @@ See **Anti-Segmentation Principle**.
     - [Proportionality](core_05_band_accountability.md#proportionality); and
     - applicable security limits —
     including expert-only or internal operator knowledge, or [Transparency](core_05_band_oversight.md#transparency) disclosures, that do not create usable learning at the materiality scale that applies.
+  - **Secondary failure:** complexity or opacity used to defeat [Meaningful Agency](core_05_band_participation.md#meaningful-agency) or [Contestability](core_05_band_accountability.md#contestability) where this chapter or **Chapter Six** assigns disclosure, education, or comprehensibility duties.
+
+---
+
+<a id="institutional-development-constitutional"></a>
+
+##### Institutional Development
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter One §16.2 Institutional Development](core_01_c_stewardship_capacity_principles.md#162-institutional-development).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
+- Read with: [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional) (*community facet of the same competence-at-scale requirement; the two are distinct and neither substitutes for the other*), [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty-constitutional), [Verifiability](core_05_band_oversight.md#verifiability), [Auditability](core_05_band_oversight.md#auditability), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim, and [Article XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
+
+</details>
+
+<br>
+
+- **What it is**
+  - **In scope — facet and purpose:** The organizational facet of **Pillar 3** (competence at scale) under [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth): organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
+  - **In scope — requirements:** The following, which support repair and adaptation:
+    - feedback loops;
+    - documented correction;
+    - strategy alignment; and
+    - retention of competence.
+  - **In scope — Tetrad:** Carries the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs through institutional learning that keeps competence, feedback, and scrutiny pathways live rather than static.
+  - **In scope — measured monitoring:** Where materially relevant behavior supports **repeated, comparable measurement** under [Verifiability](core_05_band_oversight.md#verifiability) read with [Auditability](core_05_band_oversight.md#auditability):
+    - **structured monitoring of variation over time** is one proportionate way to implement those feedback loops;
+    - that monitoring must be paired with **documented investigation and correction** when indicators warrant; and
+    - **statistical process control** is a well-known implementation pattern for that discipline, not a universal requirement.
+  - **In scope — scale and presentation:** The discipline is scaled to:
+    - [Materiality](core_05_band_oversight.md#materiality-determination);
+    - [Dependency](core_05_band_continuity.md#dependency);
+    - [Necessity](core_05_band_accountability.md#necessity);
+    - [Proportionality](core_05_band_accountability.md#proportionality); and
+    - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) —
+
+    and is presented in **sentient-understandable** form where this chapter and **Chapter Six** assign comprehension or transparency duties, read with [Article XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
+  - **Out of scope:**
+    - community understanding of how shared systems operate — that sits under [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional);
+    - the duty of materially influential actors to govern strategy, incentives, and long-horizon consequences — that sits under [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional); or
+    - any single monitoring method, including **statistical process control**, as a universal requirement —
+    those sit under their own homes or as proportionate implementation choices.
+<a id="institutional-development-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+
+    **Primary assessment:** Distinguish institutional learning from:
+    - upgrading technical artifacts while governance and workforce understanding stay static;
+    - indicators tracked without documented investigation and correction when they warrant it; and
+    - dashboards that look healthy while root causes go unfixed.
+  - **Secondary measure:** co-measures that set the learning standard:
+    - [Verifiability](core_05_band_oversight.md#verifiability); and
+    - [Auditability](core_05_band_oversight.md#auditability).
+
+    **Secondary assessment:** When evaluating the primary trace, scale depth, frequency, and format to:
+    - material impact;
+    - dependency;
+    - necessity and proportionality; and
+    - avoidable burden —
+
+    without defeating practical comprehension.
+<a id="institutional-development-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** institutional learning treated as met by:
+    - upgrading technical artifacts while leaving governance and workforce understanding static;
+    - monitoring that flags indicators without documented investigation and correction when they warrant it; or
+    - letting competence leave without retention —
+    where [Materiality](core_05_band_oversight.md#materiality-determination) and [Dependency](core_05_band_continuity.md#dependency) call for learning.
+  - **Secondary failure:** gaming or misrepresentation that:
+    - substitutes favorable metrics for substantive alignment;
+    - narrows evaluation to convenient proxies; or
+    - defeats [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) or [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity).
+
+---
+
+<a id="openness-aspiration-constitutional"></a>
+
+##### Openness Aspiration
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [Chapter One §16.3 Openness Aspiration](core_01_c_stewardship_capacity_principles.md#163-openness-aspiration); [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); [Article XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
+- Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](core_05_band_continuity.md#stewardship-governance-discipline-and-shared-system-capacity-cluster).
+- Read with: [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional) and [Institutional Development](core_05_band_continuity.md#institutional-development-constitutional) (*the two facets of Pillar 3 that openness links*), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), [Transparency](core_05_band_oversight.md#transparency), [Auditability](core_05_band_oversight.md#auditability), [Verifiability](core_05_band_oversight.md#verifiability), [Contestability](core_05_band_accountability.md#contestability), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Security-Sensitive Disclosure Balance](core_05_band_oversight.md#security-sensitive-disclosure-balance), [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), [Chapter One §17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role), and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** aim.
+
+</details>
+
+<br>
+
+- **What it is**
+  - **In scope — throughline:** The connection between the two facets of **Pillar 3** (competence at scale) under [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth): [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional) (what a community can check) and [Institutional Development](core_05_band_continuity.md#institutional-development-constitutional) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
+  - **In scope — aspiration:** Shared systems should **aspire** — consistent with those two facets and with [Chapter One §17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)'s own auditability duty, subject to the scope and limits stated in [Chapter One §16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) — to:
+    - **open** hardware and software;
+    - **open** operational and governance processes; and
+    - interoperable **systems** that support inspection, independent verification, repair, and [Contestability](core_05_band_accountability.md#contestability).
+  - **In scope — grounding:** The aspiration serves the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs and the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), as the alternative to opaque lock-in by default.
+  - **In scope — presentation:** Where this chapter and **Chapter Six** assign duties, materially relevant behavior should be presented in **sentient-understandable** forms that enable [Meaningful Agency](core_05_band_participation.md#meaningful-agency) and [Contestability](core_05_band_accountability.md#contestability), read with [Article XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
+  - **Out of scope:**
+    - ranking openness above [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), justified confidentiality, or security constraints — those limits control, as [Security-Sensitive Disclosure Balance](core_05_band_oversight.md#security-sensitive-disclosure-balance) states;
+    - proportionate understanding keyed to [Materiality](core_05_band_oversight.md#materiality-determination) and [Dependency](core_05_band_continuity.md#dependency) — that sits under [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional); or
+    - disclosure and interoperability duties as such — those sit under [Transparency](core_05_band_oversight.md#transparency) and **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) —
+    those sit under their own homes.
+<a id="openness-aspiration-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#continuity-measurement-family) and [Constitutional Performance measurement family](core_05_band_performance.md#performance-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?* / *Are constitutional outcomes delivered efficiently without pointless waste?*
+
+    **Primary assessment:** Distinguish systems that can actually be inspected, verified, repaired, and left from:
+    - nominal "open" labels with no inspectable substance;
+    - interoperability claims that do not support verification, repair, or exit; and
+    - opaque lock-in by default.
+  - **Secondary measure:** co-measures that show whether openness is real:
+    - [Transparency](core_05_band_oversight.md#transparency);
+    - [Auditability](core_05_band_oversight.md#auditability);
+    - [Verifiability](core_05_band_oversight.md#verifiability); and
+    - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in).
+
+    **Secondary assessment:** When evaluating the primary trace, scale depth to [Materiality](core_05_band_oversight.md#materiality-determination) and [Dependency](core_05_band_continuity.md#dependency), and apply the safety, truth, confidentiality, and security limits before treating a closed element as a failure.
+<a id="openness-aspiration-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** opaque lock-in by default where [Materiality](core_05_band_oversight.md#materiality-determination) and [Dependency](core_05_band_continuity.md#dependency) call for inspection, verification, repair, or exit, and no safety, truth, confidentiality, or security limit justifies it.
+  - **Secondary failure:** openness invoked to override [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), justified confidentiality, or security constraints, or offered as a substitute for proportionate understanding.
 
 ---
 

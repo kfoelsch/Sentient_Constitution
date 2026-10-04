@@ -107,6 +107,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 #### Definitions A-Z
 
+- [Abstract Strictness](core_05_band_integrative.md#abstract-strictness)
 - [Accessibility](core_05_band_participation.md#accessibility-constitutional)
 - [Accountability](core_05_apex_accountability_leg.md#accountability)
 - [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional)
@@ -199,6 +200,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical)
 - [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice)
 - [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency)
+- [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect)
 - [Game of Chance](core_05_band_accountability.md#game-of-chance)
 - [Gate](core_05_band_oversight.md#gate)
 - [Gate Criteria](core_05_band_oversight.md#gate-criteria)
@@ -223,6 +225,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Insider Advantage](core_05_band_accountability.md#insider-advantage)
 - [Instantiation Consent](core_05_band_participation.md#instantiation-consent-constitutional)
+- [Institutional Development](core_05_band_continuity.md#institutional-development-constitutional)
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm)
@@ -255,6 +258,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Non-Separation](core_05_band_participation.md#non-separation-constitutional)
 - [Non-Statelessness](core_05_band_participation.md#non-statelessness-constitutional)
 - [Occupancy Continuity](core_05_band_continuity.md#occupancy-continuity-constitutional)
+- [Openness Aspiration](core_05_band_continuity.md#openness-aspiration-constitutional)
 - [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional)
 - [Parent-System Relationship](core_05_band_participation.md#parent-system-relationship-constitutional)
 - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional)
