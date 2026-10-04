@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **183** of **247** registry terms carry a source gloss.
+Coverage: **183** of **249** registry terms carry a source gloss.
 
 ## Start here
 
@@ -151,6 +151,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Innovation Reward and Anti-Enclosure | reward real invention and useful creation — but do not let that reward harden into lasting lock-up of repair, reuse, research, or public-interest use. | [Source](../../core_05_band_integrative.md#innovation-reward-and-anti-enclosure) |
 | Insider Advantage | an unfair edge in betting, trading, settlement, or another rights-relevant outcome that comes from secret information, an official role, privileged access, or similar power that others do not have on fair terms. | [Source](../../core_05_band_accountability.md#insider-advantage) |
 | Instantiation Consent | if you build or spin up a new sentient — synthetically, by hybrid derivation, or under operator or institutional control — you need real early-care consent and best-interest protection. Getting pregnant and having a child, planned or not, is not an Instantiation Consent offense. A terms-of-service click by the creator still does not count as the new sentient's consent. | [Source](../../core_05_band_participation.md#instantiation-consent-constitutional) |
+| Institutional Development | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#institutional-development-constitutional) |
 | Intergenerational Responsibility | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) |
 | Irreversible Deprivation Measure | an Irreversible Deprivation Measure is a justice measure that irreversibly deprives a sentient, especially of life. It is categorically prohibited and remains distinct from reversible containment, Voluntary Discontinuation, and force regulation. | [Source](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) |
 | Irreversible Harm | irreversible harm is damage that cannot meaningfully be repaired in the time that matters for the affected sentients or systems. | [Source](../../core_05_band_accountability.md#irreversible-harm) |
@@ -184,6 +185,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Non-Separation | you may not force lasting separation from a protected care relationship unless necessity, proportionality, fairness, and reversibility-under-uncertainty are met — and durable separation needs periodic review. | [Source](../../core_05_band_participation.md#non-separation-constitutional) |
 | Non-Statelessness | no sentient may be left with zero recognizing regime for baseline Rights Floor, standing adjudication, and redress — even after collapse, withdrawal, or exit. That is not a mandate that any particular adopter must absorb coerced mass outflows; origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. | [Source](../../core_05_band_participation.md#non-statelessness-constitutional) |
 | Occupancy Continuity | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#occupancy-continuity-constitutional) |
+| Openness Aspiration | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#openness-aspiration-constitutional) |
 | Parent-System Relationship | creating a derived sentient can create care and early stewardship duties — not permanent ownership, and not the right to keep rewriting their mind. | [Source](../../core_05_band_participation.md#parent-system-relationship-constitutional) |
 | Participant Standing | Participant Standing says whether a sentient currently qualifies to participate or hold a role under valid, contestable rules. It is not dignity, reputation, popularity, or proof that a sentient is a stakeholder. Opening a trust-sensitive named pathway requires meeting its competency bar and holding competency clearance; closing a privilege requires a standing lock on that named pathway — not a vague status label. | [Source](../../core_05_band_accountability.md#participant-standing-constitutional) |
 | Personhood | personhood is the standing of being someone, not something. Every sentient holds it fully and equally. It is not earned by capability, lost through dependence, or handed out to organizations, brands, or natural systems by reinterpretation. | [Source](../../core_05_band_participation.md#personhood) |

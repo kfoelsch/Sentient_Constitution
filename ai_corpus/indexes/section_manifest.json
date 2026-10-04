@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-03T23:57:09+00:00",
+  "generated_at": "2026-10-04T02:46:20+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -711,258 +711,258 @@
       ]
     },
     "core_01_c_stewardship_capacity_principles.md": {
-      "total_lines": 1460,
+      "total_lines": 1463,
       "sections": [
         {
           "header": "CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE",
           "level": 1,
           "line_start": 4,
-          "line_end": 1460,
+          "line_end": 1463,
           "anchor": "#chapter-01-part-c-stewardship-and-governance"
         },
         {
           "header": "16. Stewardship In Depth",
           "level": 3,
           "line_start": 38,
-          "line_end": 286,
+          "line_end": 289,
           "anchor": "#16-stewardship-in-depth"
         },
         {
           "header": "16.1 Distributed Understanding",
           "level": 4,
-          "line_start": 144,
-          "line_end": 193,
+          "line_start": 159,
+          "line_end": 201,
           "anchor": "#161-distributed-understanding"
         },
         {
           "header": "16.2 Institutional Development",
           "level": 4,
-          "line_start": 194,
-          "line_end": 247,
+          "line_start": 202,
+          "line_end": 249,
           "anchor": "#162-institutional-development"
         },
         {
           "header": "16.3 Openness Aspiration",
           "level": 4,
-          "line_start": 248,
-          "line_end": 286,
+          "line_start": 250,
+          "line_end": 289,
           "anchor": "#163-openness-aspiration"
         },
         {
           "header": "17. Consequential Stewardship: The Steward Role",
           "level": 3,
-          "line_start": 287,
-          "line_end": 570,
+          "line_start": 290,
+          "line_end": 573,
           "anchor": "#17-consequential-stewardship-the-steward-role"
         },
         {
           "header": "17.1 Shared Stewardship Standard",
           "level": 4,
-          "line_start": 325,
-          "line_end": 367,
+          "line_start": 328,
+          "line_end": 370,
           "anchor": "#171-shared-stewardship-standard"
         },
         {
           "header": "17.2 Alignment Under Pressure",
           "level": 4,
-          "line_start": 368,
-          "line_end": 408,
+          "line_start": 371,
+          "line_end": 411,
           "anchor": "#172-alignment-under-pressure"
         },
         {
           "header": "17.3 Logging the Role, Not the Steward",
           "level": 4,
-          "line_start": 409,
-          "line_end": 459,
+          "line_start": 412,
+          "line_end": 462,
           "anchor": "#173-role-scoped-observability"
         },
         {
           "header": "17.4 Aligned Self-Organization",
           "level": 4,
-          "line_start": 460,
-          "line_end": 527,
+          "line_start": 463,
+          "line_end": 530,
           "anchor": "#174-aligned-self-organization"
         },
         {
           "header": "17.5 Duty to Resist",
           "level": 4,
-          "line_start": 528,
-          "line_end": 570,
+          "line_start": 531,
+          "line_end": 573,
           "anchor": "#175-duty-to-resist"
         },
         {
           "header": "18. Governance Under Stewardship Discipline",
           "level": 3,
-          "line_start": 571,
-          "line_end": 875,
+          "line_start": 574,
+          "line_end": 878,
           "anchor": "#18-governance-under-stewardship-discipline"
         },
         {
           "header": "18.1 Governance as Authorized Structure",
           "level": 4,
-          "line_start": 607,
-          "line_end": 659,
+          "line_start": 610,
+          "line_end": 662,
           "anchor": "#181-governance-as-authorized-structure"
         },
         {
           "header": "18.2 Institutional Secularism and Worldview Neutrality",
           "level": 4,
-          "line_start": 660,
-          "line_end": 691,
+          "line_start": 663,
+          "line_end": 694,
           "anchor": null
         },
         {
           "header": "18.3 Segregation of Duties",
           "level": 4,
-          "line_start": 692,
-          "line_end": 725,
+          "line_start": 695,
+          "line_end": 728,
           "anchor": "#183-segregation-of-duties"
         },
         {
           "header": "18.4 Ongoing Justification",
           "level": 4,
-          "line_start": 726,
-          "line_end": 770,
+          "line_start": 729,
+          "line_end": 773,
           "anchor": "#184-ongoing-justification"
         },
         {
           "header": "18.5 Modular Architecture and Dependency Discipline",
           "level": 4,
-          "line_start": 771,
-          "line_end": 822,
+          "line_start": 774,
+          "line_end": 825,
           "anchor": "#185-modular-architecture-and-dependency-discipline"
         },
         {
           "header": "18.6 Standardization",
           "level": 4,
-          "line_start": 823,
-          "line_end": 875,
+          "line_start": 826,
+          "line_end": 878,
           "anchor": "#186-standardization"
         },
         {
           "header": "19. Incentive Alignment and System Capture",
           "level": 3,
-          "line_start": 876,
-          "line_end": 1417,
+          "line_start": 879,
+          "line_end": 1420,
           "anchor": "#19-incentive-alignment-and-system-capture"
         },
         {
           "header": "19.1 Alignment Requirement",
           "level": 4,
-          "line_start": 927,
-          "line_end": 1046,
+          "line_start": 930,
+          "line_end": 1049,
           "anchor": "#191-alignment-requirement"
         },
         {
           "header": "19.1.1 What Incentives Must Do",
           "level": 5,
-          "line_start": 953,
-          "line_end": 967,
+          "line_start": 956,
+          "line_end": 970,
           "anchor": "#1911-what-incentives-must-do"
         },
         {
           "header": "19.1.2 What Incentives Must Not Do",
           "level": 5,
-          "line_start": 968,
-          "line_end": 989,
+          "line_start": 971,
+          "line_end": 992,
           "anchor": "#1912-what-incentives-must-not-do"
         },
         {
           "header": "19.1.3 Stewardship and Operator Application",
           "level": 5,
-          "line_start": 990,
-          "line_end": 998,
+          "line_start": 993,
+          "line_end": 1001,
           "anchor": "#1913-stewardship-and-operator-application"
         },
         {
           "header": "19.1.4 Role-Depth and Material-Responsibility Pathways",
           "level": 5,
-          "line_start": 999,
-          "line_end": 1023,
+          "line_start": 1002,
+          "line_end": 1026,
           "anchor": "#1914-role-depth-and-material-responsibility-pathways"
         },
         {
           "header": "19.1.5 Constitutional Outcome Claims Discipline",
           "level": 5,
-          "line_start": 1024,
-          "line_end": 1046,
+          "line_start": 1027,
+          "line_end": 1049,
           "anchor": "#1915-constitutional-outcome-claims-discipline"
         },
         {
           "header": "19.2 Convenient Proxies and Proxy Divergence",
           "level": 4,
-          "line_start": 1047,
-          "line_end": 1078,
+          "line_start": 1050,
+          "line_end": 1081,
           "anchor": "#192-convenient-proxies-and-proxy-divergence"
         },
         {
           "header": "19.3 Misalignment Detection",
           "level": 4,
-          "line_start": 1079,
-          "line_end": 1151,
+          "line_start": 1082,
+          "line_end": 1154,
           "anchor": "#193-misalignment-detection"
         },
         {
           "header": "19.3.1 Escalation Triggers",
           "level": 5,
-          "line_start": 1120,
-          "line_end": 1151,
+          "line_start": 1123,
+          "line_end": 1154,
           "anchor": "#1931-escalation-triggers"
         },
         {
           "header": "19.4 Misalignment Correction and Capture Response",
           "level": 4,
-          "line_start": 1152,
-          "line_end": 1204,
+          "line_start": 1155,
+          "line_end": 1207,
           "anchor": "#194-misalignment-correction-and-capture-response"
         },
         {
           "header": "19.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
           "level": 4,
-          "line_start": 1205,
-          "line_end": 1362,
+          "line_start": 1208,
+          "line_end": 1365,
           "anchor": "#195-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "19.5.1 What May Not Be Rewarded",
           "level": 5,
-          "line_start": 1257,
-          "line_end": 1278,
+          "line_start": 1260,
+          "line_end": 1281,
           "anchor": "#1951-what-may-not-be-rewarded"
         },
         {
           "header": "19.5.2 Who Decides Outcomes",
           "level": 5,
-          "line_start": 1279,
-          "line_end": 1305,
+          "line_start": 1282,
+          "line_end": 1308,
           "anchor": "#1952-who-decides-outcomes"
         },
         {
           "header": "19.5.3 Market Signals Are Not Constitutional Proof",
           "level": 5,
-          "line_start": 1306,
-          "line_end": 1327,
+          "line_start": 1309,
+          "line_end": 1330,
           "anchor": "#1953-market-signals-are-not-constitutional-proof"
         },
         {
           "header": "19.5.4 Proportionate Controls and Implementation Custody",
           "level": 5,
-          "line_start": 1328,
-          "line_end": 1362,
+          "line_start": 1331,
+          "line_end": 1365,
           "anchor": "#1954-proportionate-controls-and-implementation-custody"
         },
         {
           "header": "19.6 Successor Responsibility and Formal-Structure Non-Escape",
           "level": 4,
-          "line_start": 1363,
-          "line_end": 1417,
+          "line_start": 1366,
+          "line_end": 1420,
           "anchor": "#196-successor-responsibility-and-formal-structure-non-escape"
         },
         {
           "header": "20. Integrated Application",
           "level": 3,
-          "line_start": 1418,
-          "line_end": 1460,
+          "line_start": 1421,
+          "line_end": 1463,
           "anchor": "#20-integrated-application"
         }
       ]
@@ -1221,13 +1221,13 @@
       ]
     },
     "core_05__definitions_home.md": {
-      "total_lines": 450,
+      "total_lines": 452,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 450,
+          "line_end": 452,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -1276,35 +1276,35 @@
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
           "line_start": 88,
-          "line_end": 384,
+          "line_end": 386,
           "anchor": "#chapter-five-alphabetical-directory"
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
           "line_start": 108,
-          "line_end": 360,
+          "line_end": 362,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 361,
-          "line_end": 384,
+          "line_start": 363,
+          "line_end": 386,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 385,
-          "line_end": 416,
+          "line_start": 387,
+          "line_end": 418,
           "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 417,
-          "line_end": 450,
+          "line_start": 419,
+          "line_end": 452,
           "anchor": null
         }
       ]
@@ -2080,13 +2080,13 @@
       ]
     },
     "core_05_band_continuity.md": {
-      "total_lines": 4351,
+      "total_lines": 4497,
       "sections": [
         {
           "header": "Continuity Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 4351,
+          "line_end": 4497,
           "anchor": null
         },
         {
@@ -2499,7 +2499,7 @@
           "header": "Continuity: Dependent clusters",
           "level": 3,
           "line_start": 2983,
-          "line_end": 4351,
+          "line_end": 4497,
           "anchor": "#language-culture-and-heritage-constitutional-c"
         },
         {
@@ -2562,112 +2562,126 @@
           "header": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
           "level": 4,
           "line_start": 3508,
-          "line_end": 3890,
+          "line_end": 4036,
           "anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster"
         },
         {
           "header": "Stewardship",
           "level": 5,
-          "line_start": 3574,
-          "line_end": 3632,
+          "line_start": 3578,
+          "line_end": 3636,
           "anchor": "#stewardship-constitutional"
         },
         {
           "header": "Distributed Understanding",
           "level": 5,
-          "line_start": 3633,
-          "line_end": 3689,
+          "line_start": 3637,
+          "line_end": 3712,
           "anchor": "#distributed-understanding-constitutional"
+        },
+        {
+          "header": "Institutional Development",
+          "level": 5,
+          "line_start": 3713,
+          "line_end": 3785,
+          "anchor": "#institutional-development-constitutional"
+        },
+        {
+          "header": "Openness Aspiration",
+          "level": 5,
+          "line_start": 3786,
+          "line_end": 3835,
+          "anchor": "#openness-aspiration-constitutional"
         },
         {
           "header": "Strategic Stewardship Obligation",
           "level": 5,
-          "line_start": 3690,
-          "line_end": 3745,
+          "line_start": 3836,
+          "line_end": 3891,
           "anchor": "#strategic-stewardship-obligation-constitutional"
         },
         {
           "header": "Short-Horizon Governance Defect",
           "level": 5,
-          "line_start": 3746,
-          "line_end": 3790,
+          "line_start": 3892,
+          "line_end": 3936,
           "anchor": "#short-horizon-governance-defect-constitutional"
         },
         {
           "header": "Stewardship Defect",
           "level": 5,
-          "line_start": 3791,
-          "line_end": 3849,
+          "line_start": 3937,
+          "line_end": 3995,
           "anchor": "#stewardship-defect-constitutional"
         },
         {
           "header": "Review and Correction Duty",
           "level": 5,
-          "line_start": 3850,
-          "line_end": 3890,
+          "line_start": 3996,
+          "line_end": 4036,
           "anchor": "#review-and-correction-duty-constitutional"
         },
         {
           "header": "Def.C3 Privacy (Informational) — peer-level cluster head",
           "level": 4,
-          "line_start": 3891,
-          "line_end": 4101,
+          "line_start": 4037,
+          "line_end": 4247,
           "anchor": "#privacy-informational-cluster"
         },
         {
           "header": "Privacy (Informational)",
           "level": 5,
-          "line_start": 3930,
-          "line_end": 3983,
+          "line_start": 4076,
+          "line_end": 4129,
           "anchor": "#privacy-informational"
         },
         {
           "header": "Protected Internal-State Boundary",
           "level": 5,
-          "line_start": 3984,
-          "line_end": 4029,
+          "line_start": 4130,
+          "line_end": 4175,
           "anchor": "#protected-internal-state-boundary-constitutional"
         },
         {
           "header": "Identity Data Protection",
           "level": 5,
-          "line_start": 4030,
-          "line_end": 4050,
+          "line_start": 4176,
+          "line_end": 4196,
           "anchor": "#identity-data-protection"
         },
         {
           "header": "Surveillance Boundary",
           "level": 5,
-          "line_start": 4051,
-          "line_end": 4101,
+          "line_start": 4197,
+          "line_end": 4247,
           "anchor": "#surveillance-boundary"
         },
         {
           "header": "Def.C4 Trust and Trustworthiness",
           "level": 4,
-          "line_start": 4102,
-          "line_end": 4351,
+          "line_start": 4248,
+          "line_end": 4497,
           "anchor": "#trust-and-trustworthiness-cluster"
         },
         {
           "header": "Trust",
           "level": 5,
-          "line_start": 4151,
-          "line_end": 4185,
+          "line_start": 4297,
+          "line_end": 4331,
           "anchor": "#trust"
         },
         {
           "header": "Trustworthiness",
           "level": 5,
-          "line_start": 4186,
-          "line_end": 4251,
+          "line_start": 4332,
+          "line_end": 4397,
           "anchor": "#trustworthiness"
         },
         {
           "header": "Trust Degradation and Misleading Reliance",
           "level": 5,
-          "line_start": 4252,
-          "line_end": 4351,
+          "line_start": 4398,
+          "line_end": 4497,
           "anchor": "#trust-degradation-and-misleading-reliance"
         }
       ]

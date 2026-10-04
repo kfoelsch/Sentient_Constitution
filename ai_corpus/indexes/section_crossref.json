@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-03T23:57:11+00:00",
+  "generated_at": "2026-10-04T02:46:22+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16043,
+  "edge_count": 16109,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -11954,6 +11954,14 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "16. Stewardship In Depth",
       "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#33-governance-layers",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#3-foundational-objective-wellbeing-flourishing-aim",
       "count": 1
@@ -12290,6 +12298,14 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "16. Stewardship In Depth",
       "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#constitutional-contract-layer",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 3
@@ -12428,7 +12444,7 @@
       "source_anchor": "#16-stewardship-in-depth",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder-status-and-weight-cluster",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -12618,8 +12634,32 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "16. Stewardship In Depth",
       "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#dispute-sequencing",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#46-constitutional-forums",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
       "target_file": "core_13_governance.md",
       "target_anchor": "#5-authorized-roles-competency-development-and-contribution",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16. Stewardship In Depth",
+      "source_anchor": "#16-stewardship-in-depth",
+      "target_file": "core_13_governance.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -12708,7 +12748,7 @@
       "source_anchor": "#161-distributed-understanding",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#distributed-understanding-constitutional",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -13003,6 +13043,30 @@
       "source_header": "16.2 Institutional Development",
       "source_anchor": "#162-institutional-development",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.2 Institutional Development",
+      "source_anchor": "#162-institutional-development",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.2 Institutional Development",
+      "source_anchor": "#162-institutional-development",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.2 Institutional Development",
+      "source_anchor": "#162-institutional-development",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#strategic-stewardship-obligation-constitutional-a",
       "count": 2
     },
@@ -13172,6 +13236,30 @@
       "source_anchor": "#163-openness-aspiration",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.3 Openness Aspiration",
+      "source_anchor": "#163-openness-aspiration",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.3 Openness Aspiration",
+      "source_anchor": "#163-openness-aspiration",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.3 Openness Aspiration",
+      "source_anchor": "#163-openness-aspiration",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional-c",
       "count": 1
     },
     {
@@ -20795,6 +20883,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#intergenerational-responsibility-constitutional",
       "count": 1
     },
@@ -20828,6 +20924,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#occupancy-continuity-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional",
       "count": 1
     },
     {
@@ -35482,9 +35586,17 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Distributed Understanding",
       "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#16-stewardship-in-depth",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35493,6 +35605,14 @@
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#161-distributed-understanding",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#17-consequential-stewardship-the-steward-role",
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35508,7 +35628,7 @@
       "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
-      "count": 1
+      "count": 4
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35540,7 +35660,15 @@
       "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
-      "count": 2
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification-constitutional",
+      "count": 1
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35548,7 +35676,23 @@
       "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency",
-      "count": 4
+      "count": 7
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#public-oversight-baseline-disclosure",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35556,7 +35700,7 @@
       "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality-determination",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35565,6 +35709,14 @@
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#educational-agency",
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 3
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -35586,8 +35738,24 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Distributed Understanding",
       "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xvi-audit-transparency-and-independent-verification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Distributed Understanding",
+      "source_anchor": "#distributed-understanding-constitutional",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -37152,6 +37320,166 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-stewardship-in-depth",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#162-institutional-development",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#distributed-understanding-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#strategic-stewardship-obligation-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#verifiability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_05_band_performance.md",
+      "target_anchor": "#performance-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Institutional Development",
+      "source_anchor": "#institutional-development-constitutional",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Intergenerational Responsibility",
       "source_anchor": "#intergenerational-responsibility-constitutional",
       "target_file": "core_01_a_values_principles.md",
@@ -37861,6 +38189,190 @@
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#16-stewardship-in-depth",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#163-openness-aspiration",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#17-consequential-stewardship-the-steward-role",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#continuity-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#distributed-understanding-constitutional",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#safety-constraint",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#verifiability",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#security-sensitive-disclosure-balance",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-determination",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#meaningful-agency",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_05_band_performance.md",
+      "target_anchor": "#performance-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Openness Aspiration",
+      "source_anchor": "#openness-aspiration-constitutional",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -40140,6 +40652,22 @@
       "source_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#distributed-understanding-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "source_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#institutional-development-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
+      "source_anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#openness-aspiration-constitutional",
       "count": 2
     },
     {

@@ -1,8 +1,8 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-10-03T23:57:10+00:00",
+  "generated_at": "2026-10-04T02:46:21+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
-  "definition_count": 247,
+  "definition_count": 249,
   "definitions": [
     {
       "term": "Abstract Strictness",
@@ -615,13 +615,13 @@
       "term": "Distributed Understanding",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#distributed-understanding-constitutional",
-      "line_start": 3633,
-      "line_end": 3689,
+      "line_start": 3637,
+      "line_end": 3712,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3562
+        "line": 3564
       }
     },
     {
@@ -1118,8 +1118,8 @@
       "term": "Identity Data Protection",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#identity-data-protection",
-      "line_start": 4030,
-      "line_end": 4050,
+      "line_start": 4176,
+      "line_end": 4196,
       "category": "dependent_cluster",
       "cluster_membership": null
     },
@@ -1221,6 +1221,19 @@
       "line_end": 1644,
       "category": "dependent_cluster",
       "cluster_membership": null
+    },
+    {
+      "term": "Institutional Development",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#institutional-development-constitutional",
+      "line_start": 3713,
+      "line_end": 3785,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
+        "cluster_file": "core_05_band_continuity.md",
+        "line": 3565
+      }
     },
     {
       "term": "Intergenerational Responsibility",
@@ -1540,6 +1553,19 @@
       "cluster_membership": null
     },
     {
+      "term": "Openness Aspiration",
+      "source_file": "core_05_band_continuity.md",
+      "anchor": "#openness-aspiration-constitutional",
+      "line_start": 3786,
+      "line_end": 3835,
+      "category": "dependent_cluster",
+      "cluster_membership": {
+        "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
+        "cluster_file": "core_05_band_continuity.md",
+        "line": 3566
+      }
+    },
+    {
       "term": "Parent-System Relationship",
       "source_file": "core_05_band_participation.md",
       "anchor": "#parent-system-relationship-constitutional",
@@ -1596,13 +1622,13 @@
       "term": "Privacy (Informational)",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#privacy-informational",
-      "line_start": 3930,
-      "line_end": 3983,
+      "line_start": 4076,
+      "line_end": 4129,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3917
+        "line": 4063
       }
     },
     {
@@ -1672,13 +1698,13 @@
       "term": "Protected Internal-State Boundary",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#protected-internal-state-boundary-constitutional",
-      "line_start": 3984,
-      "line_end": 4029,
+      "line_start": 4130,
+      "line_end": 4175,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3918
+        "line": 4064
       }
     },
     {
@@ -1837,13 +1863,13 @@
       "term": "Review and Correction Duty",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#review-and-correction-duty-constitutional",
-      "line_start": 3850,
-      "line_end": 3890,
+      "line_start": 3996,
+      "line_end": 4036,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3566
+        "line": 3570
       }
     },
     {
@@ -1995,13 +2021,13 @@
       "term": "Short-Horizon Governance Defect",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#short-horizon-governance-defect-constitutional",
-      "line_start": 3746,
-      "line_end": 3790,
+      "line_start": 3892,
+      "line_end": 3936,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3564
+        "line": 3568
       }
     },
     {
@@ -2131,39 +2157,39 @@
       "term": "Stewardship",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#stewardship-constitutional",
-      "line_start": 3574,
-      "line_end": 3632,
+      "line_start": 3578,
+      "line_end": 3636,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3561
+        "line": 3563
       }
     },
     {
       "term": "Stewardship Defect",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#stewardship-defect-constitutional",
-      "line_start": 3791,
-      "line_end": 3849,
+      "line_start": 3937,
+      "line_end": 3995,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3565
+        "line": 3569
       }
     },
     {
       "term": "Strategic Stewardship Obligation",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#strategic-stewardship-obligation-constitutional",
-      "line_start": 3690,
-      "line_end": 3745,
+      "line_start": 3836,
+      "line_end": 3891,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3563
+        "line": 3567
       }
     },
     {
@@ -2201,13 +2227,13 @@
       "term": "Surveillance Boundary",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#surveillance-boundary",
-      "line_start": 4051,
-      "line_end": 4101,
+      "line_start": 4197,
+      "line_end": 4247,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C3 Privacy (Informational) — peer-level cluster head",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 3919
+        "line": 4065
       }
     },
     {
@@ -2379,39 +2405,39 @@
       "term": "Trust",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trust",
-      "line_start": 4151,
-      "line_end": 4185,
+      "line_start": 4297,
+      "line_end": 4331,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 4141
+        "line": 4287
       }
     },
     {
       "term": "Trust Degradation and Misleading Reliance",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trust-degradation-and-misleading-reliance",
-      "line_start": 4252,
-      "line_end": 4351,
+      "line_start": 4398,
+      "line_end": 4497,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 4143
+        "line": 4289
       }
     },
     {
       "term": "Trustworthiness",
       "source_file": "core_05_band_continuity.md",
       "anchor": "#trustworthiness",
-      "line_start": 4186,
-      "line_end": 4251,
+      "line_start": 4332,
+      "line_end": 4397,
       "category": "dependent_cluster",
       "cluster_membership": {
         "cluster": "Def.C4 Trust and Trustworthiness",
         "cluster_file": "core_05_band_continuity.md",
-        "line": 4142
+        "line": 4288
       }
     },
     {

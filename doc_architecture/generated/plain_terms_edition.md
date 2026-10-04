@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **650** of **913** headings carry a gloss (71%).
+Coverage: **650** of **915** headings carry a gloss (71%).
 
 ## Contents
 
@@ -25,7 +25,7 @@ Coverage: **650** of **913** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (75/87 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/84 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/86 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (19/24 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
@@ -1727,7 +1727,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 25/84 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 25/86 headings glossed
 
 #### Continuity: Independent terms
 
@@ -2148,6 +2148,18 @@ when automation or generative systems take work away from sentients at populatio
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05_band_continuity.md#distributed-understanding-constitutional)
+
+###### Institutional Development
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_05_band_continuity.md#institutional-development-constitutional)
+
+###### Openness Aspiration
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_05_band_continuity.md#openness-aspiration-constitutional)
 
 ###### Strategic Stewardship Obligation
 

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-03T23:57:10+00:00",
+  "generated_at": "2026-10-04T02:46:21+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1656,8 +1656,9 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 76,
+            "count": 77,
             "anchors": [
+              "#33-governance-layers",
               "#chapter-00-preamble--foundational-requirements",
               "#constitutional-tetrad",
               "#continuity",
@@ -1826,7 +1827,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 306,
+            "count": 319,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -1846,6 +1847,12 @@
               "#distributed-understanding-constitutional",
               "#distributed-understanding-constitutional-a",
               "#distributed-understanding-constitutional-c",
+              "#institutional-development-constitutional",
+              "#institutional-development-constitutional-a",
+              "#institutional-development-constitutional-c",
+              "#openness-aspiration-constitutional",
+              "#openness-aspiration-constitutional-a",
+              "#openness-aspiration-constitutional-c",
               "#productive-capacity-constitutional",
               "#productive-capacity-constitutional-a",
               "#productive-capacity-constitutional-c",
@@ -1887,7 +1894,7 @@
           },
           {
             "file": "core_05_band_integrative.md",
-            "count": 58,
+            "count": 59,
             "anchors": [
               "#authority-stack",
               "#authority-stack-a",
@@ -1895,6 +1902,7 @@
               "#constitutional-constraint",
               "#constitutional-constraint-a",
               "#constitutional-constraint-c",
+              "#constitutional-contract-layer",
               "#corpus",
               "#corpus-a",
               "#corpus-c",
@@ -1945,7 +1953,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 105,
+            "count": 106,
             "anchors": [
               "#accessibility-constitutional",
               "#accessibility-constitutional-a",
@@ -2078,16 +2086,18 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 6,
+            "count": 8,
             "anchors": [
               "#1-purpose-and-role--participation-architecture",
               "#4-forum-family-definitions--accountability-through-adjudication",
-              "#chapter-twelve-forums-and-jurisdiction"
+              "#46-constitutional-forums",
+              "#chapter-twelve-forums-and-jurisdiction",
+              "#dispute-sequencing"
             ]
           },
           {
             "file": "core_13_governance.md",
-            "count": 8,
+            "count": 9,
             "anchors": [
               "#1-authorization-and-legitimacy-of-governing-authority",
               "#5-authorized-roles-competency-development-and-contribution"
@@ -2653,7 +2663,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 86,
+            "count": 88,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor-constitutional",
@@ -2679,12 +2689,14 @@
               "#fair-compensation-constitutional",
               "#identity-data-protection",
               "#indigenous-continuity-constitutional",
+              "#institutional-development-constitutional",
               "#intergenerational-responsibility-constitutional",
               "#labor-and-economic-floor-cluster",
               "#language-culture-and-heritage-constitutional",
               "#leisure-and-rest-constitutional",
               "#likeness-and-documentary-depiction-interface-constitutional",
               "#occupancy-continuity-constitutional",
+              "#openness-aspiration-constitutional",
               "#privacy-informational",
               "#privacy-informational-cluster",
               "#productive-capacity-constitutional",
@@ -4059,7 +4071,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 43,
+            "count": 50,
             "anchors": [
               "#2-measurements-overview",
               "#33-governance-layers",
@@ -4108,11 +4120,13 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 29,
+            "count": 41,
             "anchors": [
               "#16-stewardship-in-depth",
               "#161-distributed-understanding",
+              "#162-institutional-development",
               "#163-openness-aspiration",
+              "#17-consequential-stewardship-the-steward-role",
               "#171-shared-stewardship-standard",
               "#18-governance-under-stewardship-discipline",
               "#185-modular-architecture-and-dependency-discipline",
@@ -4143,7 +4157,7 @@
           },
           {
             "file": "core_05_apex_continuity_aim.md",
-            "count": 50,
+            "count": 52,
             "anchors": [
               "#continuity-aim-constitutional",
               "#continuity-measurement-family"
@@ -4181,7 +4195,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 211,
+            "count": 221,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#attributable-action-constitutional",
@@ -4213,7 +4227,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 719,
+            "count": 751,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor-constitutional",
@@ -4243,12 +4257,14 @@
               "#identity-data-protection",
               "#indigenous-continuity-constitutional",
               "#indigenous-continuity-language-culture-heritage-semi-independent",
+              "#institutional-development-constitutional",
               "#intergenerational-responsibility-constitutional",
               "#labor-and-economic-floor-cluster",
               "#language-culture-and-heritage-constitutional",
               "#leisure-and-rest-constitutional",
               "#likeness-and-documentary-depiction-interface-constitutional",
               "#occupancy-continuity-constitutional",
+              "#openness-aspiration-constitutional",
               "#privacy-informational",
               "#privacy-informational-cluster",
               "#productive-capacity-constitutional",
@@ -4310,7 +4326,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 215,
+            "count": 253,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4325,6 +4341,7 @@
               "#proxy-divergence",
               "#public-oversight-baseline-disclosure",
               "#risk-disclosure",
+              "#security-sensitive-disclosure-balance",
               "#transparency",
               "#truth-constitutional-constraint",
               "#verifiability"
@@ -4332,7 +4349,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 187,
+            "count": 192,
             "anchors": [
               "#accessibility-constitutional",
               "#binding-stakeholder-choice-cluster",
@@ -4363,7 +4380,7 @@
           },
           {
             "file": "core_05_band_performance.md",
-            "count": 10,
+            "count": 12,
             "anchors": [
               "#performance-measurement-family"
             ]
@@ -4406,17 +4423,18 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 6,
+            "count": 7,
             "anchors": [
               "#article-xiii-a-reliability-and-trustworthiness-baseline",
               "#article-xiii-f-resilience-and-self-healing-baseline",
               "#article-xiv-a-security-intelligence-and-covert-power-limits",
+              "#article-xvi-audit-transparency-and-independent-verification",
               "#article-xvi-c-verification-accessibility"
             ]
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 8,
+            "count": 13,
             "anchors": [
               "#article-xxi-d-movement-migration-refuge-and-non-statelessness",
               "#article-xxi-interoperability-portability-and-exit-integrity",
@@ -4530,7 +4548,7 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 10,
+            "count": 11,
             "anchors": []
           },
           {
