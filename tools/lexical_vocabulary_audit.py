@@ -78,6 +78,8 @@ _BREACH_FAMILY = re.compile(
 _MINIMA_WORD = re.compile(r"\bminima\b", re.IGNORECASE)
 _SERIOUSLY_WORD = re.compile(r"\bseriously\b", re.IGNORECASE)
 _REASONABLY_WELL = re.compile(r"\breasonably\s+(?:well|effective(?:ly)?)\b", re.IGNORECASE)
+# "competent" reads as skilled, not as having jurisdiction. Name the jurisdiction instead.
+_COMPETENT_FORUM = re.compile(r"\bcompetent\s+(?:forums?|famil(?:y|ies)|tracks?)\b", re.IGNORECASE)
 _COURT_FAMILY = re.compile(r"\bcourts?\b", re.IGNORECASE)
 _TRIBUNAL_FAMILY = re.compile(r"\btribunals?\b", re.IGNORECASE)
 _TRIBUNAL_ALLOWED_EXTERNAL = re.compile(
@@ -366,6 +368,19 @@ def run_internal_regression_checks() -> None:
     if len(layer_findings) != 2:
         raise RuntimeError(
             "Internal regression failed: stakeholder-governance / governance-layer-mechanism labels were not flagged, or the safeguards exception broke.",
+        )
+    competent_forum_findings = scan_avoid_competent_forum(
+        "internal-regression.md",
+        "A competent forum may review the record.\n"
+        "Related matters start in the nearest competent track.\n"
+        "Any competent family may issue interim relief.\n"
+        "A forum with jurisdiction may review the record.\n"
+        "Competent help is needed to preserve evidence.\n"
+        "`competent forum` inside backticks is documentation only.\n",
+    )
+    if len(competent_forum_findings) != 3:
+        raise RuntimeError(
+            "Internal regression failed: 'competent forum' / 'competent family' / 'competent track' was not flagged or backtick masking broke.",
         )
 
 
@@ -662,6 +677,32 @@ def scan_avoid_reasonably_well(rel_path: str, text: str) -> list[Finding]:
                     file=rel_path,
                     line=idx,
                     rule="avoid-reasonably-well-or-effective",
+                    text=raw.strip(),
+                ),
+            )
+
+    return findings
+
+
+def scan_avoid_competent_forum(rel_path: str, text: str) -> list[Finding]:
+    """Reject **competent forum** (also **competent family** / **competent track**); ambiguous between skilled and authorized. Say **forum with jurisdiction** (or family / track with jurisdiction over the matter)."""
+    findings: list[Finding] = []
+    lines = text.splitlines()
+    in_fence = False
+
+    for idx, raw in enumerate(lines, start=1):
+        if raw.strip().startswith("```"):
+            in_fence = not in_fence
+            continue
+        if in_fence:
+            continue
+
+        if _COMPETENT_FORUM.search(_mask_inline_code_and_link_targets(raw)):
+            findings.append(
+                Finding(
+                    file=rel_path,
+                    line=idx,
+                    rule="avoid-competent-forum",
                     text=raw.strip(),
                 ),
             )
@@ -1000,6 +1041,7 @@ def main() -> int:
         findings.extend(scan_avoid_minima(rel_path, text))
         findings.extend(scan_avoid_seriously(rel_path, text))
         findings.extend(scan_avoid_reasonably_well(rel_path, text))
+        findings.extend(scan_avoid_competent_forum(rel_path, text))
         findings.extend(scan_avoid_court_family(rel_path, text))
         findings.extend(scan_avoid_tribunal_family(rel_path, text))
         findings.extend(scan_avoid_standing_calculus(rel_path, text))

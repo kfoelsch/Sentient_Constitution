@@ -1188,6 +1188,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Jurisdiction": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Non-Compliance": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",

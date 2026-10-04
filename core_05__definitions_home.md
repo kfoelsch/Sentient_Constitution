@@ -229,6 +229,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility-constitutional)
 - [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure-constitutional)
 - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm)
+- [Jurisdiction](core_05_band_accountability.md#jurisdiction)
 - [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage-constitutional)
 - [Leisure and Rest](core_05_band_continuity.md#leisure-and-rest-constitutional)
 - [Lifespan Equivalent Unit (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ)
