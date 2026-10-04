@@ -563,6 +563,16 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Institutional Development": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
+    "Openness Aspiration": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_secondary",
+      "status": "approved"
+    },
     "Due Process": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",

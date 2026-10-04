@@ -115,6 +115,7 @@ flowchart TB
 
 <a id="16-pillar-2-proactive-stewardship"></a>
 **Pillar 2 — Proactive stewardship:**
+Proactive stewards handle emerging problems and misalignment in three ways:
 - **Notice them before they compound** — good stewards detect misalignment while problems are still small, rather than waiting for them to surface on their own
 - **Move them on a tier-appropriate clock** — escalate within windows sized to the role's stakes, rather than sitting on what they find or over-escalating routine matters
 - **Close them out, not just flag them** — start fixing without avoidable delay once problems are raised; this is the **timeliness** Tetrad leg ([**Timeliness**](core_05_apex_timeliness_leg.md#timeliness-constitutional)) made operational
@@ -126,16 +127,30 @@ flowchart TB
 
 <a id="when-day-to-day-stewardship-is-not-enough"></a>
 **When day-to-day stewardship is not enough:**
-- **Bigger disputes:** When sentients need a real way to challenge a decision, a clear repair order, or a way to learn from a repeating pattern, that work goes to the **forum families** under [Chapter Twelve §1 — Purpose and role](core_12_forum.md#1-purpose-and-role--participation-architecture) and [§4 — Forum family definitions](core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication). The detailed rules for how those forums run are in [corpus_forum.md](corpus_forum.md).
+Stewardship is the first line, not the only one. Three different questions have three different homes, and none of them stands in for another:
+- **Disputes inside an already-authorized system — [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight-cluster):**
+  - Affected sentients use the published Stakeholder System Participation challenge path first, covering participation, representation, contestability, and due process.
+  - These protections are owed to every sentient materially affected.
+  - They operate inside systems, institutions, and decision domains that are already authorized.
+- **Disputes Stakeholder System Participation cannot settle — [forum review](core_12_forum.md#dispute-sequencing):**
+  - When the Stakeholder System Participation challenge path stays contested, is missing or captured, or cannot grant relief, the matter goes to the independent **forum families** under [Chapter Twelve §1 — Purpose and role](core_12_forum.md#1-purpose-and-role--participation-architecture) and [§4 — Forum family definitions](core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication), routed by primary stake.
+  - This is where sentients get a real way to challenge a decision, a clear repair order, or a way to learn from a repeating pattern.
+  - Where the primary stake is the meaning or validity of constitutional text, or action beyond lawful authority, the lead family is the [Constitutional forums](core_12_forum.md#46-constitutional-forums).
+  - The detailed rules for how those forums run are in [corpus_forum.md](corpus_forum.md).
+- **Who may govern at all — [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer) ([Chapter Thirteen](core_13_governance.md)):**
+  - Whether governing authority itself is legitimate — who may govern, by what legitimacy mechanism, and under what scope and durable terms — is a separate question from Stakeholder System Participation and forum review.
+  - A participation vote, a challenge-path outcome, or a trust score does not confer governing authority.
+  - Constitutional authorization does not erase the duties owed under Stakeholder System Participation.
+  - The two layers stay distinct even where they overlap ([Preamble §3.3 — Governance Layers](core_00_preamble.md#33-governance-layers)).
 - **Backstops, not substitutes:** Review, correction, and remediation remain mandatory where evidence warrants them. They do not replace proactive design, incentives, controls, role pathways, observability, and repair capacity that prevent foreseeable constitutional misalignment before harm appears.
 
 <a id="16-scope-priority-and-limits"></a>
 **Scope ([§16 Stewardship In Depth](#16-stewardship-in-depth)):**
 - This section gives principle-layer direction, not a one-size-fits-all rulebook.
 - It does **not** require:
-  - everyone to rotate through every role
-  - override justified specialization
-  - exceed legitimate confidentiality or security limits under [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) and applicable **Chapter Six** protections.
+  - rotating everyone through every role
+  - overriding justified specialization
+  - exceeding legitimate confidentiality or security limits under [13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) and applicable **Chapter Six** protections.
 
 **Priority:**
 - **Materiality**, **Dependency**, and **Accessibility** set the priority for distributing understanding and access — with the strongest focus where impact and reliance are higher.
@@ -172,19 +187,12 @@ flowchart TB
 
 *In plain terms: you must not need a PhD in every subsystem to live safely inside shared systems — but the more a system affects your life, the more you should be able to learn what it does, what could go wrong, and how to challenge bad calls. Transparency, education, plain explanations, and audit paths are how that happens. Complexity is not an excuse to hide what matters. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process among those paths — not the only one.*
 
-This subsection sets out what distributed understanding is and what it requires:
+Distributed understanding is the community-facing facet of **Pillar 3** under **[§16 Stewardship In Depth](#16-stewardship-in-depth)**. The full definition, measures, and failure conditions are in [Distributed Understanding](core_05_band_continuity.md#distributed-understanding-constitutional). In summary:
 
-- **What it is:** the community-facing facet of **Pillar 3** under **[§16 Stewardship In Depth](#16-stewardship-in-depth)**.
-- **What it requires:** proportionate, structured access to how shared systems that materially affect sentients operate:
-  - purposes
-  - constraints
-  - uncertainties
-  - materially relevant effects
-- **What [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) must supply:** documentation, education, transparency, role pathways, and comprehensibility stewardship that make this access workable. The obligation stands whether or not every sentient uses every path.
-- **Online public baseline:** Online [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), including the paywall prohibition and maximum-feasible public-substitute rule when lawful online infrastructure exists:
-  - is governed by [Transparency](core_05_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure)
-  - is implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**
-- **What that access supports:**
+- **What it requires:** proportionate, structured access to how shared systems that materially affect sentients operate — their purposes, constraints, uncertainties, and materially relevant effects.
+- **What makes it workable:** [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) must supply documentation, education, transparency, role pathways, and comprehensibility stewardship. The obligation stands whether or not every sentient uses every path.
+- **Online public baseline:** where lawful online infrastructure exists, the online [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) — including the paywall prohibition and maximum-feasible public-substitute rule — is governed by [Transparency](core_05_band_oversight.md#transparency) and [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), and is implemented as **Type O** data under **[corpus_systems.md](corpus_systems.md), CS-2** (*Information types and handling*).
+- **What the access supports:**
   - the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** leg (informed [Meaningful Agency](core_05_band_participation.md#meaningful-agency) and contestability)
   - the **oversight** leg, including auditing under [Auditability](core_05_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*), of which [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large process among sibling audit modes
 
@@ -206,6 +214,7 @@ Distributed understanding does **not** require every sentient to master every su
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
+- [Institutional Development](core_05_band_continuity.md#institutional-development-constitutional) · [O](core_05_band_continuity.md#institutional-development-constitutional) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
 - [Strategic Stewardship Obligation](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [O](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
@@ -217,28 +226,21 @@ Distributed understanding does **not** require every sentient to master every su
 
 *In plain terms: institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things fall out of alignment, and keeping competence from walking out the door. Where behavior can be measured repeatably, tracking how performance varies over time is one proportionate way to implement those loops — **statistical process control** is a well-known pattern for that discipline, not a requirement everywhere. Numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.*
 
-This subsection sets out what institutional development is and what it requires:
+Institutional development is the organizational facet of **Pillar 3** under **[§16 Stewardship In Depth](#16-stewardship-in-depth)**. The full definition, measures, and failure conditions are in [Institutional Development](core_05_band_continuity.md#institutional-development-constitutional). In summary:
 
-- **What it is:** the organizational facet of **Pillar 3** under **[§16 Stewardship In Depth](#16-stewardship-in-depth)**.
 - **Paired obligation:** organizations and shared systems **learn** — a core requirement of the **Continuity** aim under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - **What it requires:** the following, which support repair and adaptation:
   - feedback loops
   - documented correction
   - strategy alignment
   - retention of competence
-- **Tetrad:** It carries the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs through institutional learning that keeps competence, feedback, and scrutiny pathways live rather than static.
+- **Tetrad:** it carries the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation** and **oversight** legs through institutional learning that keeps competence, feedback, and scrutiny pathways live rather than static.
 - **Not satisfied by:** upgrading technical artifacts while leaving governance and workforce understanding static.
-- **When measurement applies:** Where materially relevant behavior supports **repeated, comparable measurement** under [Verifiability](core_05_band_oversight.md#verifiability) read with [Auditability](core_05_band_oversight.md#auditability):
+- **When measurement applies:** where materially relevant behavior supports **repeated, comparable measurement** under [Verifiability](core_05_band_oversight.md#verifiability) read with [Auditability](core_05_band_oversight.md#auditability):
   - **structured monitoring of variation over time** is one proportionate way to implement those feedback loops
   - that monitoring must be paired with **documented investigation and correction** when indicators warrant
-  - **Statistical process control** is a well-known implementation pattern for that discipline, not a universal requirement
-- **Scale:** That discipline must be scaled to:
-  - [Materiality](core_05_band_oversight.md#materiality-determination)
-  - [Dependency](core_05_band_continuity.md#dependency)
-  - [Necessity](core_05_band_accountability.md#necessity)
-  - [Proportionality](core_05_band_accountability.md#proportionality)
-  - [Avoidable Burden](core_05_band_continuity.md#avoidable-burden)
-- **Presentation:** It must be presented in **sentient-understandable** form where **Chapter Five** and **Chapter Six** assign comprehension or transparency duties, read with [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+  - **statistical process control** is a well-known implementation pattern for that discipline, not a universal requirement
+- **Scale and presentation:** the discipline is scaled to [Materiality](core_05_band_oversight.md#materiality-determination), [Dependency](core_05_band_continuity.md#dependency), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), and is presented in **sentient-understandable** form where **Chapter Five** and **Chapter Six** assign comprehension or transparency duties, read with [Article XXII: Comprehensibility and Complexity Stewardship](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 - **Must not:**
   - substitute favorable metrics for substantive alignment
   - narrow evaluation to convenient proxies
@@ -259,6 +261,7 @@ This subsection sets out what institutional development is and what it requires:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
+- [Openness Aspiration](core_05_band_continuity.md#openness-aspiration-constitutional) · [O](core_05_band_continuity.md#openness-aspiration-constitutional) · [M](core_05_band_continuity.md#openness-aspiration-constitutional-a) · [A](core_05_band_continuity.md#openness-aspiration-constitutional-a) · [C](core_05_band_continuity.md#openness-aspiration-constitutional-c)
 - [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Materiality](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
@@ -270,7 +273,7 @@ This subsection sets out what institutional development is and what it requires:
 
 *In plain terms: when safety, truth, and legitimate confidentiality allow, shared systems should default toward openness — inspectable tech, transparent processes, and designs you can verify, repair, or leave — instead of opaque lock-in. That supports **Continuity**: systems sentients can still understand, fix, and exit over time, not just use today. What matters should be explained in language sentients can actually use to participate and push back. Openness never outranks safety, honesty, or justified secrets, and it does not replace the deeper understanding owed where dependence is high.*
 
-This subsection sets out the openness aspiration that links the two facets of Pillar 3:
+The openness aspiration links the two facets of **Pillar 3**. The full definition, measures, and failure conditions are in [Openness Aspiration](core_05_band_continuity.md#openness-aspiration-constitutional). In summary:
 
 - **What it is:** the throughline connecting **Pillar 3**'s two facets — [§16.1 Distributed Understanding](#161-distributed-understanding) (what a community can check) and [§16.2 Institutional Development](#162-institutional-development) (what an institution can honestly learn from) both depend on shared systems being open enough to inspect, not just described.
 - Shared systems should **aspire** — consistent with [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development), and with [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)'s own auditability duty, subject to the [§16 limits](#16-limits) — to:

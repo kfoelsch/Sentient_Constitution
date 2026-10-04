@@ -186,6 +186,8 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
     "#### Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity": [
         "Stewardship",
         "Distributed Understanding",
+        "Institutional Development",
+        "Openness Aspiration",
         "Strategic Stewardship Obligation",
         "Short-Horizon Governance Defect",
         "Stewardship Defect",
