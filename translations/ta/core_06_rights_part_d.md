@@ -2,85 +2,377 @@
 # அத்தியாயம் ஆறு: அடிப்படை உரிமைகள்
 
 <details>
-<summary><strong><span style="color: #2563eb;">தொகுப்பில் இடம் (செயல்படாதது): கோப்பு அமைப்பும் வாசிப்பு விதிகளும்</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">கார்பஸில் இடம் (செயல்பாட்டு அல்லாதது): கோப்பு அமைப்பும் வாசிப்பு விதிகளும்</span></strong></summary>
 
-> கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
+> பின்வரும் உள்ளடக்கம் **வாசகர் வழிகாட்டுதல் மட்டுமே**. இந்தக் கோப்பிலோ பிற அத்தியாயங்களிலோ உள்ள கட்டுப்படுத்தும் கடமைகளை இது சேர்க்கவோ நீக்கவோ குறுக்கவோ செய்யாது.
 >
-> இந்தக் கோப்பு [ஆங்கில அத்தியாயம் ஆறு, பகுதி ஈயின்](../../core_06_rights_part_d.md) **வாசிப்பு-மொழி முன்னோடி**. இது உணர்வுள்ளோர் அரசியலமைப்பின் **பிணைக்கும் பகுதி அல்ல**. இது **இரண்டாவது அரசியலமைப்பு அல்ல**. இது **அனுப்பும் பதிப்பு அல்ல**. இது `SC-Corpus-2026.08.09`-இல் **பொருத்தப்பட்டுள்ளது**. இந்த மொழிபெயர்ப்பும் ஆங்கில மூலமும் முரண்படுவதாகத் தோன்றினால், எண்ணிடப்பட்ட [`core_06_rights_part_d.md`](../../core_06_rights_part_d.md) வெல்லும். வாசிப்பு வரிசையும் பதிப்பு மீத்தரவும் [README.md](../../README.md)-இல் பேணப்படுகின்றன. முறையும் சொற்களஞ்சியமும்: [translations/ta/README.md](README.md).
+> இந்தக் கோப்பு **Sentient Constitution-இன் ஒரு பகுதியாகும்**; பிற எண் குறிக்கப்பட்ட `core_*` கோப்புகளுடன் ஒரே ஆவணமாக வாசிக்கப்படும்போது மட்டுமே **கட்டுப்படுத்தும் தன்மை கொண்டது**. இதில் **அத்தியாயம் ஆறு, பகுதி D** உள்ளது; கட்டுரை எண்களும் குறுக்கு மேற்கோள்களும் ஒருங்கிணைந்த ஆவணத்துடன் ஒத்துப்போகின்றன. வாசிப்பு வரிசை, கட்டுப்படுத்தும்/ஆதரவு உள்ளடக்கப் பிரிப்பு, கார்பஸ் பதிப்பு விவரங்கள் ஆகியவை [README.md](README.md)-இல் பராமரிக்கப்படுகின்றன.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வாசகர் வழிகாட்டுதல் (செயல்பாட்டு அல்லாதது): அத்தியாயம் ஆறில் பகுதி D-இன் இடம்</span></strong></summary>
+
+> பின்வரும் உள்ளடக்கம் **வாசகர் வழிகாட்டுதல் மட்டுமே**. இந்த அத்தியாயத்திலோ பிற அத்தியாயங்களிலோ உள்ள கட்டுப்படுத்தும் கடமைகளை இது சேர்க்கவோ நீக்கவோ குறுக்கவோ செய்யாது.
 >
-> இது **அத்தியாயம் ஆறு, பகுதி ஈ**யைக் கொண்டுள்ளது; சரத்து எண்ணிடலும் குறுக்குச் சுட்டுகளும் ஒருங்கிணைந்த கருவியுடன் பொருந்தும்.
+> [core_06_rights_part_a.md](core_06_rights_part_a.md)-இல் உள்ள **பகுதி A**, அத்தியாயம் முழுவதற்குமான இயல்புநிலை கட்டுப்பாடுகளின் தொகுப்பையும், கோள்-முதன்மை வாசிப்பு வரிசையையும், விளக்க மையங்களையும் கொண்டுள்ளது. **பகுதி D**, **கட்டுரைகள் XIX–XXIV**-ஐ அந்த வரிசையில் முன்வைக்கிறது.
 >
 > **முந்தையது (இந்த மொழியில்):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
 >
-> **அடுத்தது (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
-> **வாசிப்பு வளைவு:** சரத்துகள் XXIV–XXVII (நீதியும் அவசரங்களும், அரசியலமைப்புப் பரிணாமம், மாற்றம், அடிப்படை மீள்நிறுவல்)
+> **அடுத்தது (ஆங்கிலத்தில்):** [core_06_rights_part_e.md](../../core_06_rights_part_e.md)
 
 </details>
 
-<details>
-<summary><strong><span style="color: #2563eb;">வாசிப்பவருக்கான வழிகாட்டல் (செயல்படாதது): அத்தியாயம் ஆறில் பகுதி ஈயின் நிலை</span></strong></summary>
+<br>
 
-> கீழே உள்ள உள்ளடக்கம் **வாசிப்பவருக்கான வழிகாட்டல் மட்டும்**. இது இந்த அத்தியாயத்திலோ பிற அத்தியாயங்களிலோ பிணைக்கும் கடமைகளைச் சேர்க்கவோ, குறைக்கவோ, சுருக்கவோ செய்யாது.
+<a id="part-d-standing-justice-interoperability-comprehensibility-root-cause-review-and-constitutional-interpretation"></a>
+### பகுதி D: நிலைப்பாடு, நீதி, இயங்குதன்மை, புரிந்துகொள்ளத்தன்மை, மூலக் காரண ஆய்வு, அரசியலமைப்பு விளக்கம்
+
+<br>
+
+*எளிய சொற்களில்: நிலைப்பாடு மற்றும் பங்கேற்பு நிலை, சரிபார்க்கப்பட்ட மீறலுக்குப் பிந்தைய நீதி, இயங்குதன்மை மற்றும் வெளியேறுதல், புரிந்துகொள்ளத்தன்மை, மூலக் காரணப் பகுப்பாய்வு, அரசியலமைப்பு விளக்கம் மற்றும் மறுஆய்வு ஆகியவற்றை — **கட்டுரைகள் XIX முதல் XXIV வரை** — பகுதி D உள்ளடக்குகிறது.*
+
+<details>
+<summary><strong><span style="color: #2563eb;">வாசகர் வழிகாட்டுதல் (செயல்பாட்டு அல்லாதது): பகுதி D கட்டுரை வரைபடம்</span></strong></summary>
+
+> பின்வரும் உள்ளடக்கம் **வாசகர் வழிகாட்டுதல் மட்டுமே**. இந்த அத்தியாயத்திலோ பிற அத்தியாயங்களிலோ உள்ள கட்டுப்படுத்தும் கடமைகளை இது சேர்க்கவோ நீக்கவோ குறுக்கவோ செய்யாது.
 >
-> [core_06_rights_part_a.md](core_06_rights_part_a.md)-இல் **பகுதி அ** அத்தியாயம் முழுவதற்கான இயல்புநிலைக் கட்டுப்பாட்டு அடுக்கு, கோள்-முதல் வாசிப்பு வரிசை, விளக்க முனைகளைச் சுமக்கிறது. **பகுதி ஈ** **சரத்துகள் XXIV–XXVII**ஐ முன்வைக்கிறது, **சரத்து XXVII**-இல் (*மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்*) மாற்றமும் அடிப்படை மீள்நிறுவலும் உட்பட.
+> **வாசகர் வரைபடம் (செயல்பாட்டு அல்லாதது).** இந்தப் பகுதியின் கட்டுரைகளையும் துணைக் கட்டுரைகளையும் மூல ஆவணம் எவ்வாறு குழுவாக்குகிறது என்பதை இந்தப் படம் காட்டுகிறது. கட்டம் என்பது மூலக் குழுவாக்கமே, செயல்முறை வரிசை அல்ல: கட்டுரைகள் நடைமுறைப் படிகள் அல்ல; ஆகவே வரைபடத்தில் அம்புகள் இல்லை. துணைக் கட்டுரைச் சுட்டிகள் கருப்பொருள்களாகச் சுருக்கப்பட்டுள்ளன; கீழே உள்ள எண் குறிக்கப்பட்ட கட்டுரைகளும் துணைக் கட்டுரைகளுமே கட்டுப்படுத்தும். இந்தப் படம் வரையறைகளையோ கடமைகளையோ சேர்க்காது, முன்னுரிமை நிறுவாது, மூல உரைக்கு மாற்றாகாது.
 
 </details>
 
 <br>
-<a id="part-d-justice-constitutional-review-evolution-and-transition"></a>
-### பகுதி ஈ: நீதி, அரசியலமைப்பு மதிப்பாய்வு, பரிணாமம், மாற்றம்
 
-<br>
+```mermaid
+flowchart TB
+    D0["பகுதி D<br/><br/>நிலைப்பாடு, நீதி, இயங்குதன்மை,<br/>புரிந்துகொள்ளத்தன்மை, மூலக் காரண ஆய்வு, அரசியலமைப்பு விளக்கம்"]
+    subgraph Dgrid[" "]
+        direction TB
+        subgraph Drow1["கட்டுரைகள் XIX–XX"]
+            D1["கட்டுரை XIX · நிலைப்பாடும் பங்கேற்பு நிலையும்<br/><br/>• நிலைப்பாட்டு வேறுபாடுகள்<br/>• எதிர்வாத உரிமையும் கட்டுப்பாட்டு வரம்புகளும்<br/>• பெயரிடப்பட்ட வழித்தடத் தகுதி, பொறுப்பு, தணிக்கை<br/>• நகர்வு, புகலிடம், நாடற்ற நிலை ஏற்படாமை"]
+            D2["கட்டுரை XX · சரிபார்க்கப்பட்ட மீறலுக்குப் பிந்தைய நீதி<br/><br/>• நீதியின் நோக்கமும் வரம்பும்<br/>• கட்டுப்பாடுகளுக்கான அடித்தளங்கள்"]
+        end
+        subgraph Drow2["கட்டுரைகள் XXI–XXII"]
+            D3["கட்டுரை XXI · இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு<br/><br/>• எடுத்துச் செல்லத்தன்மை<br/>• பரஸ்பர இயங்குதன்மை<br/>• பூட்டிவைத்தலைத் தடுப்பது<br/>• நகர்வு, இடம்பெயர்வு, புகலிடம், நாடற்ற நிலை ஏற்படாமை"]
+            D4["கட்டுரை XXII · புரிந்துகொள்ளத்தன்மையும் சிக்கல்தன்மை பொறுப்பாட்சியும்<br/><br/>• விகிதாசார புரிந்துகொள்ளத்தன்மை<br/>• சிக்கல்தன்மைத் தணிக்கையும் தொகுதிப்படுத்தலும்"]
+        end
+        subgraph Drow3["கட்டுரைகள் XXIII–XXIV"]
+            D5["கட்டுரை XXIII · மூலக் காரணப் பகுப்பாய்வும் தழுவல் பதிலும்<br/><br/>• கண்டறிதல் கடுமையும் காரண ஒதுக்கீடும்<br/>• தணிக்கைத்தன்மை, சவால், மீள்தன்மை"]
+            D6["கட்டுரை XXIV · அரசியலமைப்பு விளக்கம், மறுஆய்வு, கைப்பற்றல்-எதிர்ப்பு பாதுகாப்புகள்<br/><br/>• வரையறுக்கப்பட்ட விளக்க ஆணை<br/>• அமைப்பு, சுழற்சி, முரண்பாட்டுக் கட்டுப்பாடுகள்<br/>• பொது காரணங்கள், சவால், வெளிப்புற மறுஆய்வு<br/>• பதவிநீக்கம், பதவியைப் பதியவைத்தலைத் தடுத்தல்"]
+        end
+    end
+    %% கண்ணுக்குப் புலப்படாத இணைப்புகள் இரண்டு நெடுவரிசை அமைப்பை வலியுறுத்துகின்றன: ஒவ்வொரு இணைப்பும் அதன் இலக்கை ஒரு நிலை கீழே வைக்கிறது.
+    D0 ~~~ D1 & D2
+    D1 ~~~ D3
+    D2 ~~~ D4
+    D3 ~~~ D5
+    D4 ~~~ D6
+    style Dgrid fill:none,stroke:none
+    style Drow1 fill:none,stroke:none
+    style Drow2 fill:none,stroke:none
+    style Drow3 fill:none,stroke:none
+    style D0 fill:none,stroke:#2563eb,color:#ffffff
+    style D1 fill:none,stroke:#0f766e,color:#ffffff
+    style D2 fill:none,stroke:#0f766e,color:#ffffff
+    style D3 fill:none,stroke:#0f766e,color:#ffffff
+    style D4 fill:none,stroke:#2563eb,color:#ffffff
+    style D5 fill:none,stroke:#ea580c,color:#ffffff
+    style D6 fill:none,stroke:#ea580c,color:#ffffff
+```
 
-*எளிய சொற்களில்: பகுதி ஈ நீதி, மதிப்பாய்வு-தீர்வுக் கட்டுப்பாடு, அரசியலமைப்புப் பரிணாமம், மாற்றத்தை உள்ளடக்குகிறது — சரத்துகள் XXIV முதல் XXVII வரை, **சரத்து XXVII** (*மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்*) கீழ் அடிப்படை மீள்நிறுவல் உட்பட.*
+**கட்டுரைகள் XIX–XXIV** இந்த அடித்தளங்களை முழுமையாகக் கூறுகின்றன. தற்போதைய மூல அமைப்பில் **கட்டுரை XXIV** (*அரசியலமைப்பு விளக்கம், மறுஆய்வு, கைப்பற்றல்-எதிர்ப்பு பாதுகாப்புகள்*) உட்பட, நிலைப்பாடு, மீறலுக்குப் பிந்தைய நீதி, இயங்குதன்மை, புரிந்துகொள்ளத்தன்மை, மூலக் காரணம், விளக்க மறுஆய்வு ஆகிய அடித்தளங்களை பகுதி D கொண்டுள்ளது.
 
-<a id="article-xxiv-conflict-resolution-escalation-and-emergency-proportionality"></a>
-### சரத்து XXIV: முரண்பாட்டுத் தீர்வு, உயர்த்தல், அவசர விகிதாசாரம்
+<a id="article-xix-standing-reputation-and-participation-status"></a>
+<a id="article-xix-standing-and-participation-status"></a>
+### கட்டுரை XIX: நிலைப்பாடும் பங்கேற்பு நிலையும்
 
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§5 சுதந்திரம்](core_01_a_values_principles.md#5-freedom-bounded-agency), [§6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§10 பொறுப்பான நிர்வாகக் கட்டுப்பாட்டின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§15.1 அரசியலமைப்பைத் தவிர்த்துச் செல்லக் கூடாது என்ற கோட்பாடு](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle), மற்றும் [§15 அரசியலமைப்பு விளக்கம்](core_01_b_interaction_interpretation.md#15-constitutional-interpretation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [தீர்ப்பும் தகராறுத் தீர்வும்](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [பங்கேற்பாளர் நிலைப்பாடு](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
+- [பங்குதாரர்](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
+- [பொருள்சார் தாக்கம்](core_05_band_oversight.md#material-impact) · [O](core_05_band_oversight.md#material-impact) · [M](core_05_band_oversight.md#material-impact-a) · [A](core_05_band_oversight.md#material-impact-a) · [C](core_05_band_oversight.md#material-impact-c)
+- [கண்ணியமும் சமமான தார்மீக நிலையும்](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [நிவாரணமும் சீர்செய்தலும்](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [எதிர்வாதத்திற்குட்படும் தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: **கட்டுரை XIX** (*நிலைப்பாடும் பங்கேற்பு நிலையும்*) பங்கேற்பு-நிலை உரிமை அடித்தளமாகும் — எந்தப் பங்கிற்கு யார் தகுதி பெறுகிறார்கள், அந்தத் தீர்மானங்கள் எவ்வாறு எடுக்கப்பட்டு சவால் செய்யப்படுகின்றன, நிலைப்பாடு குறைக்கப்படும்போதோ நிறுத்தப்படும்போதோ என்ன நடக்கும் என்பதைக் கட்டுப்படுத்துகிறது. **பங்கேற்பாளர் நிலைப்பாடு** என்பது சரிபார்க்கப்பட்ட பதிவுகளும் நியாயமான விதிகளும் அளிக்கும் பங்கு-தகுதி; அது புகழ், பிராண்ட் பெயர், சமூக மதிப்பெண் அல்ல. கண்ணியம், உரிமை அடித்தளத்தின் குறைந்தபட்சங்கள், அல்லது ஒரு அமைப்பு உண்மையில் பாதிப்பதால் ஒருவர் பங்குதாரராக இருப்பது ஆகியவற்றிலிருந்து இது வேறுபட்டது. நிலைப்பாடு குறைக்கப்பட்டாலோ நிறுத்தப்பட்டாலோ தெளிவான காரணங்கள், உண்மையான மறுப்புத் தெரிவிக்கும் வழி, உண்மையான ஆபத்துக்கு ஏற்ற வரம்புகள் வழங்கப்பட வேண்டும்; நிலைப்பாடு மட்டும் உயிர்வாழ்வுக்குத் தேவையானவற்றையோ தீங்கைக் கேள்விக்குட்படுத்தி நிவாரணம் பெறும் வழிகளையோ ஒருபோதும் துண்டிக்கக்கூடாது. நல்ல நிலைப்பாடு பழைய புகழை அல்ல, இன்று சரிபார்க்கக்கூடியவற்றைப் பிரதிபலிக்க வேண்டும். நகர்வு, புகலிடம், எடுத்துச் செல்லத்தன்மை, வெளியேறுதல் ஆகியவை நிலைப்பாட்டு முத்திரைகளால் மட்டும் அல்ல, **கட்டுரை XXI** (*இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு*) மூலம் நிர்வகிக்கப்படுகின்றன.*
+
+[இரு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims)-இன் கீழ் நிலைப்பாடு மற்றும் பங்கேற்பு நிலைக்கான **அரசியலமைப்பு அடித்தளங்களை** இந்தக் கட்டுரை கூறுகிறது:
+
+- **செழிப்பு:** செல்லுபடியாகும், பன்முகமான, தணிக்கக்கூடிய பெயரிடப்பட்ட வழித்தடங்கள் வழியாக உணர்வுள்ளோர் பங்கு-தகுதியைப் பெறவும் அதனைச் சவால் செய்யவும் முடியும். [பொருள்சார் தாக்கம்](core_05_band_oversight.md#material-impact) இருக்கும்போது, நிலைப்பாட்டு முத்திரைகள் கண்ணியம், உரிமை அடித்தளத்தின் குறைந்தபட்சங்கள் அல்லது பங்குதாரர் நிலைக்கு மாற்றாக இருக்கக்கூடாது. பெயரிடப்பட்ட வழித்தடத் தகுதி, பிராண்ட், அளவு அல்லது கடந்தகால மதிப்பை மட்டும் சாராமல், தற்போதைய, கவனிக்கக்கூடிய, சவால் செய்யக்கூடிய சான்றின் மீது அமைய வேண்டும்.
+- **தொடர்ச்சி:** காலப்போக்கில் நிலைப்பாட்டுக் கட்டுப்பாடு திருத்தத்திற்குத் திறந்ததாக இருக்க வேண்டும். கட்டுப்பாடுகள் விகிதாசாரமாகவும், திருத்தம் செய்யப்பட்டால் மீட்டமைக்கக்கூடியதாகவும் இருக்க வேண்டும்; **அத்தியாயம் பதினொன்று** கூறும் **அரசியலமைப்பு-எதிரான தவறான நடத்தை** வகைப்பாடும் [**அத்தியாயம் பதின்மூன்று §4.1 உரிமையும் தகுதியும்**](core_13_governance.md#41-entitlement-and-eligibility) முழு இழப்பீடு நிலுவையில் உள்ளவரின் நீடித்த அரசியல் குரலை வெளிப்படையாக நிறுத்தும் நிலையைத் தவிர, அடிப்படை அரசியலமைப்புக் குரலிலிருந்து நிரந்தர விலக்காகக் கட்டுப்பாடுகள் உறையக் கூடாது.
+
+[பொருள்சார் பங்கு](core_00_preamble.md#material-stake)-க்கு ஏற்ப அளவிடப்பட்ட [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) வழியாகவே முறையான முயற்சி நடைபெறும்:
+
+- **பங்கேற்பு:** பன்முக நிலைப்பாட்டு மதிப்பீடு, மறைமுகமான அல்லது ஏகபோக நிலைப்பாட்டுத் தீர்மானங்களுக்கு எதிரான சவால், பொருள்சார் கட்டுப்பாடுகள் சரிசெய்யப்பட்டால் மீட்டமைத்தல் அல்லது மறுதகுதிபெறுதல்.
+- **மேற்பார்வை:** தணிக்கக்கூடிய நிலைப்பாட்டுப் பதிவுகள், தகுதி மற்றும் பூட்டு கோரிக்கைகளின் தொடர்ச்சியான மறுஆய்வு, சம்பந்தப்பட்ட பங்குகளுக்கும் கட்டுப்பாடுகளுக்கும் விகிதாசாரமான சுயாதீன சரிபார்ப்பு.
+- **பொறுப்புக்கூறல்:** தனிப்பட்ட காரணங்கள், விகிதாசாரம், குறுகிய பொருத்தம் அல்லது மீட்டமைப்புக்கான உண்மையான வழிகள் இன்றி நிலைப்பாட்டைக் குறைப்போர் அதற்குப் பதிலளிக்க வேண்டும்; பாதுகாக்கப்பட்ட பண்புகள் அல்லது அவற்றின் பதிலிகளைப் பின்தொடரும் வடிவங்களும் இதில் அடங்கும்.
+- **காலத்தன்மை:** தாமதம் உயிர்வாழ்வுக்கு முக்கியமான அணுகல், தணிக்கை வழிகள் அல்லது **கட்டுரை XXV-C** (*சரியான நேரத் தீர்வு மற்றும் தாமத-எதிர்ப்பு அடித்தளம்*) கோரும் அரசியலமைப்பு நிவாரணத்தைத் தடுக்குமுன், நிலைப்பாட்டு மறுஆய்வு, சவால், நிவாரணம் கிடைக்க வேண்டும்.
+
+[பங்கேற்பாளர் நிலைப்பாடு](core_05_band_accountability.md#participant-standing-constitutional) என்பது அரசியலமைப்புக்கு உட்பட்ட செல்லுபடியான நிலைப்பாட்டுப் பதிவுகள், நிலைப்பாட்டு விளைவுகள், அல்லது பெயரிடப்பட்ட வழித்தடத்திற்கான [திறன் வரம்பு](core_05_band_accountability.md#competency-bar) அளவுகோல்களின் அடிப்படையில் அங்கீகரிக்கப்படும் பங்கேற்பு-நிலை அல்லது பங்கு-தகுதி நிலையாகும். அது புகழோ சமூக மதிப்போ அல்ல; தானாகவே அணுகல் கட்டுப்பாடுகளையும் விதிக்காது. பெயரிடப்பட்ட சலுகை வழித்தடங்களில் கட்டுப்படுத்தும் விளைவுகள் [நிலைப்பாட்டு விளைவு](core_05_band_accountability.md#standing-effect-chapter-six) மற்றும் [நிலைப்பாட்டுப் பூட்டு](core_05_band_accountability.md#standing-lock) வழியாக மட்டுமே அமையும்.
+
+இந்தக் கட்டுரையின் கீழ் நிலைப்பாட்டுக் கட்டுப்பாடு, [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad), [இரு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims), [அமைப்பு ஒத்திசைவு சான்றிதழ்](core_05_band_continuity.md#system-alignment-certification-constitutional), மேலும் [அத்தியாயங்கள் ஒன்பது–பன்னிரண்டின் நிலைப்பாடு மற்றும் மன்ற மேற்பார்வைத் தொடர்](core_00_preamble.md#62-how-the-full-chain-fits-together) ஆகியவற்றைச் செயல்படுத்துகிறது. அந்த உரிமையாளர்-அடுக்கு செயல்முறைகள் சரிபார்க்கப்பட்ட பங்களிப்பையும் மீறலையும் அளந்து நிவாரணத்தை மேற்பார்வை செய்கின்றன; அவற்றை **கட்டுரை III-A** (*உயிர்வாழ்தல்*) உயிர்வாழ்வுக்குத் தேவையானவற்றையோ அல்லது இந்த அத்தியாயத்தின் பிற உரிமை அடித்தளங்களையோ மறுப்பதற்குப் பயன்படுத்தக் கூடாது.
+
+இவை தனித்தே இருக்க வேண்டும்:
+- உள்ளார்ந்த கண்ணியம்;
+- உரிமை அடித்தளத்தின் குறைந்தபட்சங்கள்;
+- பொருள்சார் தாக்கத்தின் அடிப்படையிலான பங்குதாரர் அடையாளம்;
+- இந்த அரசியலமைப்பு காக்கும் இடங்களில் சவால் அல்லது நிவாரணம் பெறும் அணுகல்.
+
+*அருகிலுள்ள கட்டுரைகள்:*
+
+- **உரிமையாளர் அடுக்குகள்:** [அத்தியாயம் ஒன்பது](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), [அத்தியாயம் பத்து](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) ஆகியவை நிலைப்பாட்டுப் பதிவுகளையும் நிலைப்பாட்டு விளைவுகளையும் அளவிடுகின்றன; அவை குறுக்கக் கூடாத உரிமை அடித்தள வரம்புகளை இந்தக் கட்டுரை கூறுகிறது.
+- **இணைத்துப் படிக்க:**
+  - **கட்டுரை VI-A** (*கண்ணியமும் சமமான தார்மீக நிலையும்*), **கட்டுரை XII** (*பங்குதாரர் அமைப்பு பங்கேற்பு, பிரதிநிதித்துவம், உரிய நடைமுறை*) — நிலைப்பாட்டு அளவுகோல்கள் கண்ணியத்திற்கோ பங்குதாரர் இருப்பிற்கோ மாற்றாக இருக்கக்கூடாது;
+  - **கட்டுரை III-A** (*உயிர்வாழ்தல்*) — பங்கேற்பாளர் நிலைப்பாடு மட்டும் உயிர்வாழ்வுக்கு முக்கியமான அணுகலைத் தடுக்கக்கூடாது;
+  - **கட்டுரை XXI** (*இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு*) — நிலைப்பாட்டுக் கட்டுப்பாடு தனிநபருக்கேற்ற நீதி நடைமுறைக்கு மாற்றாக இருக்கவோ, பெயரிடல் மட்டும் கொண்டு நாடுகடத்தல், புகலிட மறுப்பு அல்லது நாடற்ற நிலையை உருவாக்கவோ கூடாது; இங்குள்ள நிலைப்பாட்டுப் பாதுகாப்புகளைக் குறைக்காமல் நகர்வு, புகலிடம், எடுத்துச் செல்லத்தன்மை, வெளியேறுதல் ஆகிய அடித்தளங்கள் **கட்டுரை XXI**-இல் தொடர்கின்றன.
+
+<a id="article-xix-a-standing-distinction"></a>
+#### கட்டுரை XIX-A: நிலைப்பாட்டின் வேறுபாடு
+
+<details>
+<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
+
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), மற்றும் [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- இணைத்துப் படிக்க: [அத்தியாயம் பத்து §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*திறன் வரம்புகளும் அனுமதிகளும்*), [திறன் வரம்பு](core_05_band_accountability.md#competency-bar), [திறன் அனுமதி](core_05_band_accountability.md#competency-clearance); [அத்தியாயம் பத்து §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*நிலைப்பாட்டுப் பூட்டுகள்*), [மீறலின் இயல்பு](core_05_band_accountability.md#violation-nature-chapter-six), [நிலைப்பாட்டுப் பூட்டு](core_05_band_accountability.md#standing-lock) — சரிபார்க்கப்பட்ட மீறல் அச்சு உள்ளீடுகளிலிருந்து கட்டுப்படுத்தப்படும் பெயரிடப்பட்ட வழித்தடங்கள்; பொருந்தும் நிலைப்பாட்டுப் பூட்டைத் திறன் அனுமதி விலக்காது; தீராத மீறல் கண்டறிதல்களை நல்ல பங்களிப்பு அழிக்காது.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [கண்ணியமும் சமமான தார்மீக நிலையும்](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [பங்குதாரர் எடை](core_05_band_participation.md#stakeholder-weight) · [O](core_05_band_participation.md#stakeholder-weight) · [M](core_05_band_participation.md#stakeholder-weight-a) · [A](core_05_band_participation.md#stakeholder-weight-a) · [C](core_05_band_participation.md#stakeholder-weight-c)
+- [பங்கேற்பாளர் நிலைப்பாடு](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
+- [திறன் வரம்பு](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
+- [திறன் அனுமதி](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
+- [நிலைப்பாட்டுப் பூட்டு](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
+- [மீறலின் இயல்பு](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: சரிபார்க்கப்பட்ட தயார்நிலை வெளியிடப்பட்ட **திறன் வரம்பை** பூர்த்திசெய்து **திறன் அனுமதி** நடைமுறையில் இருந்தால், நம்பிக்கை-முக்கியப் பங்குகள் திறக்கப்படலாம். சரிபார்க்கப்பட்ட மீறல் கண்டறிதல் இன்னும் சரிசெய்யப்பட வேண்டியிருக்கும்போது **நிலைப்பாட்டுப் பூட்டுகள்** வழியாக அவை மூடப்பட்டோ வரையறுக்கப்பட்டோ இருக்கலாம். **governance-voting** பூட்டுகள் அடிப்படை ஆட்சியின் வாக்கை நிறுத்துகின்றன; **stakeholder-participation** பூட்டுகள் அங்கீகரிக்கப்பட்ட அமைப்புக்குள் பங்கின் எடைக்கேற்ற குரலைக் கட்டுப்படுத்துகின்றன — இவை ஒன்றுக்கொன்று மாற்றாகாது; இரண்டாவது பூட்டு பங்குதாரர் நிலையை அழிப்பதில்லை. எந்தப் பெயரிடப்பட்ட வழித்தடமும் புகழுக்கான போட்டியோ உள்ளகத் தடுப்போ கண்ணியத்திற்கு மாற்றோ அல்ல. குற்றச்சாட்டுகள் மட்டும் மீறல் கண்டறிதல்கள் ஆகாது; பூட்டுகள் உண்மையில் சரிபார்க்கப்பட்டவற்றுடன் பொருந்தி, சவால் மற்றும் நிவாரணத்திற்கான உண்மையான வழியைத் திறந்துவைக்க வேண்டும்.*
+
+இந்தக் கட்டுரை, நிலைப்பாடு எவ்வாறு திறன் வரம்புகள், திறன் அனுமதிகள், நிலைப்பாட்டுப் பூட்டுகள் ஆகியவற்றிலிருந்து வேறுபடுகிறது என்பதை விளக்குகிறது:
+
+- **நிலைப்பாடு வேறுபடுவது:**
+  - உள்ளார்ந்த கண்ணியத்திலும் சமமான தார்மீக நிலையிலும் (**கட்டுரை VI-A** (*கண்ணியமும் சமமான தார்மீக நிலையும்*));
+  - பங்குதாரரை அடையாளம் காண பொருள்சார் பங்கு இருப்பதை நிரூபிப்பதிலும் (**அத்தியாயம் ஐந்து** — *பங்குதாரர்*; *பங்குதாரர் எடை*).
+- **திறன் வரம்புகளும் அனுமதிகளும்:** [திறன் வரம்பு](core_05_band_accountability.md#competency-bar) என்பது பெயரிடப்பட்ட வழித்தடத்திற்கான வெளியிடப்பட்ட, தணிக்கக்கூடிய, சவால் செய்யக்கூடிய தகுதித் தரமாகும். சரிபார்க்கப்பட்ட திறன், அனுபவம், பங்களிப்புப் பதிவுகள் அந்த வரம்பைப் பூர்த்திசெய்யும்போது கிடைக்கும் நேர்மறை நிலைப்பாட்டு விளைவே [திறன் அனுமதி](core_05_band_accountability.md#competency-clearance). அனுமதி நடைமுறையில் இருந்து பொருந்தும் [நிலைப்பாட்டுப் பூட்டு](core_05_band_accountability.md#standing-lock) அந்த வழித்தடத்தைத் தடுக்காவிட்டால், அது நம்பிக்கை-முக்கியப் பங்குகள், ஒப்படைக்கப்பட்ட அதிகாரம், மேற்பார்வைத் தகுதி அல்லது படிப்படியாக அதிக விளைவுள்ள பொறுப்பாட்சிக்கான அணுகலைத் திறக்கலாம் ([அத்தியாயம் பத்து §6.2 திறன் வரம்புகளும் அனுமதிகளும்](core_10_standing_integration.md#62-competency-bars-and-clearances)).
+  - திறன் வரம்போ அனுமதியோ புகழ், சமூகப் பெருமை, உள்ளக ஆதரவு, சான்றிதழ் ஏகபோகம், கண்ணியத் தரவரிசை அல்லது நிரந்தர உரிமை அல்ல.
+  - முறையான நிறுவன அனுபவத்துக்கு இணையான நிரூபிக்கத்தன்மைத் தரங்களைப் பூர்த்திசெய்யும் முறைசாரா, சகாக்கள் ஏற்பாடு செய்த, பரஸ்பர உதவி, பராமரிப்பு, பழுதுபார்ப்பு, கற்பித்தல் அல்லது சமூகப் பொறுப்பாட்சி அனுபவம் அங்கீகரிக்கப்பட வேண்டும்.
+- **மீறலின் இயல்பும் நிலைப்பாட்டுப் பூட்டுகளும்:** [மீறலின் இயல்பு](core_05_band_accountability.md#violation-nature-chapter-six), **அத்தியாயங்கள் இரண்டு முதல் நான்கு** மற்றும் [அத்தியாயம் ஒன்பது](core_09_standing_assessment.md#verified-inputs-for-standing) பூர்த்திசெய்யும் தணிக்கக்கூடிய, சவால் செய்யக்கூடிய கண்டறிதல்களின் அடிப்படையில் மட்டுமே நிலைப்பாட்டு விளைவைப் பாதிக்கலாம் — குற்றச்சாட்டுகள், வரவேற்பு-நிலைக் குறிச்சொற்கள், தற்காலிக வழிமாற்றம் அல்லது மன்ற-கட்டக் கதைசொல்லல் மட்டும் போதாது.
+  - ஒவ்வொரு நிலைப்பாட்டுப் பூட்டும் தடுக்கப்படும் அல்லது வரையறுக்கப்படும் விளைவு, பாதுகாக்கப்படும் நபர்கள் அல்லது நலன்கள், திருத்த நிபந்தனை, மறுஆய்வு வழி, மறுமதிப்பீட்டு நேரம் ஆகியவற்றைக் குறிப்பிட வேண்டும்; மேலும் அவசியமானதாகவும், விகிதாசாரமானதாகவும், தணிக்கக்கூடியதாகவும், சவால் செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
+  - விலகல் தேவைப்பட்டபோதும், நியாயநிலை பொருள்சார் வகையில் பாதிக்கப்பட்டபோதும், மன்றப் பங்கிலிருந்து விலகத் தவறியமை சரிபார்க்கப்பட்டால், [அத்தியாயம் பத்து §5.5 சிறப்புப் பூட்டுகள்](core_10_standing_integration.md#55-special-locks)-இல் கூறிய **மன்றச் சேவை நிலைப்பாட்டுப் பூட்டு** உருவாகும். மன்றச் சேவைக்குத் திரும்ப கடுமையான சுயாதீன மீட்டமைப்பு தேவை; வழக்கமான மன்னிப்போ, முந்தைய பங்களிப்போ, புகழோ, அரிய நிபுணத்துவமோ, பணியாளர் தேவைமோ தனியாக அந்த வழித்தடத்தைப் பூர்த்தி செய்யாது.
+  - சரிபார்க்கப்பட்ட ஊழல், கைப்பற்றல், பொய்யான பங்கு துஷ்பிரயோகம், வற்புறுத்தல் அல்லது பங்குதாரர்-பங்கேற்பு வழித்தடத்தின் ஒப்பிடத்தக்க பொருள்சார் துஷ்பிரயோகம், [அத்தியாயம் பத்து §5.5 சிறப்புப் பூட்டுகள்](core_10_standing_integration.md#55-special-locks)-இல் கூறிய **பங்குதாரர்-பங்கேற்பு நிலைப்பாட்டுப் பூட்டை** உருவாக்கும். பாதிக்கப்பட்ட துறையில் பங்கு-எடை கொண்ட செல்வாக்கையும் கட்டுப்படுத்தும் பங்குதாரர் தேர்வையும் அது வரையறுக்கும்; அதனால் மட்டும் **governance-voting**, அடிப்படை அரசியலமைப்புத் தேர்வு அல்லது பங்குதாரர் நிலை நீங்காது. வழக்கமான மன்னிப்பு, முந்தைய பங்களிப்பு, பங்கின் அளவு அல்லது இயக்குநரின் இன்றியமையாமை மட்டும் அந்தப் பூட்டை நீக்காது.
+  - அத்தியாயம் பதினொன்றின் இறுதியான அரசியலமைப்பு-எதிரான தவறான நடத்தை, [அத்தியாயம் பத்து §5.5 சிறப்புப் பூட்டுகள்](core_10_standing_integration.md#55-special-locks)-இல் உள்ள **அரசியலமைப்பு-எதிர்ப்பு நம்பிக்கைப் பூட்டை** உருவாக்கும். கடுமையான சுயாதீன மீட்டமைப்பு சரிபார்க்கப்படும் வரை, அது **வகுப்பு A**, **வகுப்பு B**, **வகுப்பு C** அமைப்புகள், அரசியலமைப்பு மன்றங்கள், அரசியலமைப்பு ஒத்திசைவு அங்கீகாரம், முக்கிய அமைப்புகளின் பொறுப்பாட்சி, அரசியலமைப்பு-எதிர்ப்பு பொறுப்புக்கூறல் வழித்தடங்களில் பங்குகளையோ பொருள்சார் செல்வாக்கையோ தடைசெய்யும்.
+  - பொருந்தும் நிலைப்பாட்டுப் பூட்டைத் திறன் அனுமதி விலக்காது; தீராத சரிபார்க்கப்பட்ட மீறல் கண்டறிதலை நல்ல பங்களிப்பு அழிக்காது.
+- **மாற்றீடாகப் பயன்படுத்தாமை:** நிலைப்பாட்டு அளவுகோல்கள், குறிச்சொற்கள், மதிப்பெண்கள், திறன் வரம்புகள், திறன் அனுமதிகள், நிலைப்பாட்டுப் பூட்டுகள் ஆகியவை பங்கு-தகுதியை மட்டுமே நிர்வகிக்கின்றன. அவை:
+  - ஒரு பங்கிற்குத் தகுதி பெறுவது யார் என்பதையும் உள்ளார்ந்த கண்ணியம் அல்லது சமமான தார்மீக நிலை யாருக்கு உண்டு என்பதையும் ஒன்றாக்கக்கூடாது;
+  - உண்மையில் ஒரு அமைப்பு ஒருவரைப் பாதிப்பதால் அவர் பங்குதாரரா என்பதைத் தீர்மானிப்பதற்கோ உரிமை அடித்தளக் குறைந்தபட்சங்களுக்கோ பங்கு நிலையை மாற்றாகப் பயன்படுத்தக்கூடாது;
+  - <a id="anti-substitution-sentience-status-xviii"></a>உணர்வுநிலை தீர்மானத்திற்கு மாற்றாக இருக்கக்கூடாது; அது **கட்டுரை VI-B** (*உணர்வுநிலைத் தீர்மானத்தின் அடித்தளம்*) கீழ் மட்டுமே செய்யப்படும்;
+  - நிலைப்பாட்டுப் பதிவு இல்லாததை பாதகமான உண்மையாகக் கருதவோ, உயிர்வாழ்வுக்குத் தேவையானவை, வழக்கமான வணிகம் அல்லது பாதிக்கப்பட்ட தரப்பாகப் பங்கேற்பதற்கான நிபந்தனையாகப் பதிவு அல்லது “பதிவு இல்லை” என்ற உறுதிமொழியைக் கோரவோ கூடாது — [அத்தியாயம் ஒன்பது §2.1](core_09_standing_assessment.md#21-silence-is-the-default) (*மௌனமே இயல்புநிலை*) படி பதிவு இல்லாததே வழக்கமான நிலை;
+  - எந்தப் பெயரிடப்பட்ட வழித்தடத்திற்கும் **கட்டுரை XI-D** ([*கருத்து வேறுபாடும் அமைதியான எதிர்ப்பும்*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest))-இன் கீழ் வரும் கருத்து வேறுபாடு அல்லது அமைதியான எதிர்ப்பை பாதகமான உண்மையாகவோ எடை அளிக்கும் காரணியாகவோ கருதக்கூடாது; அல்லது
+  - பெயரிடப்பட்ட வழித்தட விளைவுகளைச் சுயவிவரம், தரவரிசை அல்லது பொது காட்சியாகத் தொகுக்கக்கூடாது — [அத்தியாயம் பத்து §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*பெயரிடப்பட்ட வழித்தட விளைவுகளைத் தொகுக்கத் தடை*).
+
+<a id="article-xix-b-contestability-and-proportional-restriction-limits"></a>
+#### கட்டுரை XIX-B: எதிர்வாத உரிமையும் விகிதாசாரக் கட்டுப்பாட்டு வரம்புகளும்
+<details>
+<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
+
+- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் ஒன்று §13.1.5 உரிமை மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- கீழ்நிலை: [அத்தியாயம் ஒன்பது §2](core_09_standing_assessment.md#2-question-1--what-happened) (*நிலைப்பாட்டுப் பதிவுகள், சரிபார்க்கப்பட்ட உள்ளீட்டு வாயில், குறைந்தபட்சப் பதிவு உள்ளடக்கம்*); [அத்தியாயம் ஒன்பது §3.6](core_09_standing_assessment.md#36-forum-boundary) (*மன்ற எல்லை*); [அத்தியாயம் பத்து §6.2](core_10_standing_integration.md#62-competency-bars-and-clearances) (*திறன் வரம்புகளும் அனுமதிகளும்*); [அத்தியாயம் பத்து §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*நிலைப்பாட்டுப் பூட்டுகள்*); [அத்தியாயம் பத்து §8](core_10_standing_integration.md#8-restoration-and-reassessment) (*மீள்நியமனமும் மறுஆய்வும்*).
+- இணைத்துப் படிக்க: **கட்டுரை III-A** (*உயிர்வாழ்தல்*); **கட்டுரை XIII-A** (*நம்பகத்தன்மை மற்றும் நம்பிக்கைத்தன்மை அடித்தளம்*), **கட்டுரை XIII-B** (*நிவாரணம் மற்றும் தீர்வு பெறும் உரிமை*); [முன்னுரை §6.2 முழுச் சங்கிலி எவ்வாறு பொருந்துகிறது](core_00_preamble.md#62-how-the-full-chain-fits-together); [அமைப்பு ஒத்திசைவு சான்றிதழ்](core_05_band_continuity.md#system-alignment-certification-constitutional); [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) — **கட்டுரை XXV-C** (*சரியான நேரத் தீர்வு மற்றும் தாமத-எதிர்ப்பு அடித்தளம்*), **கட்டுரை XX-B** (*கட்டுப்பாட்டு அடித்தளங்கள்*) கீழ் **பங்கேற்பு**, **மேற்பார்வை**, **பொறுப்புக்கூறல்**, **காலத்தன்மை**.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [எதிர்வாதத்திற்குட்படும் தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [அவசியம்](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [நடைமுறை நியாயம்](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [சவால் செய்யக்கூடிய தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [தணிக்கத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [மீறலின் இயல்பு](core_05_band_accountability.md#violation-nature-chapter-six) · [O](core_05_band_accountability.md#violation-nature-chapter-six) · [M](core_05_band_accountability.md#violation-nature-chapter-six-a) · [A](core_05_band_accountability.md#violation-nature-chapter-six-a) · [C](core_05_band_accountability.md#violation-nature-chapter-six-c)
+- [திறன் வரம்பு](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
+- [திறன் அனுமதி](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
+- [நிலைப்பாட்டுப் பூட்டு](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
+- [நிவாரணமும் சீர்செய்தலும்](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [பங்களிப்பின் இயல்பு](core_05_band_accountability.md#contribution-nature) · [O](core_05_band_accountability.md#contribution-nature) · [M](core_05_band_accountability.md#contribution-nature-a) · [A](core_05_band_accountability.md#contribution-nature-a) · [C](core_05_band_accountability.md#contribution-nature-c)
 
 </details>
 
 <br>
 
-*எளிய சொற்களில்: **சரத்து XXIV** (*முரண்பாட்டுத் தீர்வு, உயர்த்தல், அவசர விகிதாசாரம்*) நீதி-தீர்வு உரிமைத் தளம். உணர்வுள்ளோர், அமைப்புகள், நிறுவனங்கள் அரசியலமைப்பு உரிமைகள் மீது மோதும்போது, பதில் பழிவாங்கல் அல்ல, முடிவில்லாத் தாமதம் அல்ல, நிரந்தர அவசர நிலை அல்ல. பதில் **மீறல்**, **திருத்தம்**, **தடுத்தல்** ஆகியவற்றின் நியாயமான நடைமுறை — தீங்கை நிறுத்தி, சேதத்தைப் பழுதுபார்த்து, மீண்டும் நிகழ்வைக் குறைத்து — எவ்வளவு பங்கில் இருக்கிறது என்பதற்கு அளவிடப்பட்டது. அந்த நடைமுறை பாதிக்கப்பட்ட உணர்வுள்ளோருக்கு உண்மையான குரல், சுயாதீன மதிப்பாய்வு, சரியான நடிகர்களை அடையும் நிவாரணம், பொருளுள்ள கால வரம்புகளுக்குள் தீர்வைத் தர வேண்டும். அவை [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) நான்கு கடமைகள்: **பங்கேற்பு**, **மேற்பார்வை**, **பொறுப்புக்கூறல்**, **காலந்தவறாமை**. அவை [இரண்டு அரசியலமைப்பு நோக்கங்களுக்கு](core_00_preamble.md#two-constitutional-aims) பணிபுரிகின்றன: **செழிப்பு** (நல்வாழ்வையும் பொருளுள்ள செயல்திறனையும் பாதுகாத்தல்) மற்றும் **தொடர்ச்சி** (நெருக்கடிகளைத் தற்காலிகமாக வைத்து பகிர்ந்த அமைப்புகளை மீட்கப் போதுமான நிலைத்தன்மையில் வைத்தல்). உயர்த்தலும் அவசர நடவடிக்கைகளும் உண்மையில் தேவைப்படும்போது அனுமதிக்கப்படும் — ஆனால் வேலை செய்யும் மிகச் சிறிய கட்டுப்பாட்டில், தேவையான நேரம் மட்டும், அதற்கு மேல் இல்லை, பிறகு மதிப்பாய்வும் வெளிப்படுத்தலும்.*
+*எளிய சொற்களில்: நிலைப்பாட்டுப் பதிவுகள், திறன் வரம்புகள், திறன் அனுமதிகள், நிலைப்பாட்டுப் பூட்டுகள் அனைத்தும் உண்மையான மறுஆய்வு வழிகள் மூலம் சவால் செய்யப்படக்கூடியவையாக இருக்க வேண்டும். கட்டுப்பாடுகள் காரணங்களுடன் வர வேண்டும், சரிபார்க்கப்பட்ட கண்டறிதலுடன் பொருந்த வேண்டும், நடைமுறை அல்லது பாதுகாப்புத் தேவையைவிட விரிவாக இருக்கக்கூடாது. குற்றச்சாட்டுகளும் வரவேற்பு-நிலைக் குறிச்சொற்களும் நிலைப்பாட்டுத் தீர்ப்புகள் அல்ல. நிலைப்பாட்டுக் கட்டுப்பாடு மட்டும் உயிர்வாழ்வுக்குத் தேவையானவற்றையோ அரசியலமைப்பு கோரும் தணிக்கை, சவால், நிவாரண வழிகளையோ ஒருபோதும் துண்டிக்கக்கூடாது.*
 
-உணர்வுள்ளோர், அமைப்புகள், நிறுவனங்களுக்கு இடையே அரசியலமைப்பு உரிமைகளைப் பாதிக்கும் தகராறுகள் இப்படிப்பட்ட நடைமுறைகள் வழியாகத் தீர்க்கக்கூடியதாக இருக்க வேண்டும்:
-- வெளிப்படையானவை;
-- நியாயமானவை;
-- காலந்தவறாதவை;
-- சவால் செய்யக்கூடியவை;
-- நடைமுறையில் பயன்படுத்தக்கூடியவை.
+நிலைப்பாட்டுக் கட்டுப்பாடுகளுக்கான எதிர்வாத உரிமை மற்றும் விகிதாசார வரம்புகளை இந்தக் கட்டுரை வகுக்கிறது:
 
-அரசியலமைப்பு அர்த்தத்தில் தீர்ப்பும் தகராறுத் தீர்வும் **அத்தியாயம் ஐந்தில்** [*தீர்ப்பும் தகராறுத் தீர்வும்*](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) மற்றும் [*காலந்தவறாத் தீர்வு*](core_05_band_accountability.md#timely-resolution-constitutional) ஆக வரையறுக்கப்படுகின்றன, [*பொறுப்புக்கூறல், சவால் செய்யக்கூடிய தன்மை, தீர்ப்பும் தகராறுத் தீர்வும், கூட்டுப் பொறுப்புக்கூறல் தோல்வி, தவிர்க்க முடியாத சக்தி தொகுதியின்*](core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster) உறுப்பினர்கள்.
+- **சரிபார்க்கப்பட்ட உள்ளீட்டு வாயிலும் பதிவை எதிர்வாதம் செய்யும் உரிமையும்:** நிலைப்பாடு, நம்பிக்கை, பங்கு, அங்கீகாரம் அல்லது அங்கீகாரத் தகுதியைப் பாதிக்கும் எந்தத் தீர்மானமும் [அத்தியாயம் ஒன்பது §2 கேள்வி ஒன்று — என்ன நடந்தது?](core_09_standing_assessment.md#2-question-1--what-happened) கீழுள்ள அச்சு-தூய **பங்களிப்பு நிலைப்பாட்டுப் பதிவுகள்** அல்லது **மீறல் நிலைப்பாட்டுப் பதிவுகள்** ஆகியவற்றின் சரிபார்க்கப்பட்ட உள்ளீடுகளை மட்டுமே பயன்படுத்தலாம். குற்றச்சாட்டுகள், தீர்ப்பளிக்கப்படாத கோரிக்கைகள், தற்காலிக வழிமாற்றுக் குறிச்சொற்கள், வரவேற்புக் கட்டக் கதைகள், பிற தகராறு-கட்டப் பொருள்கள் ஆகியவை தனியாக நிலைப்பாட்டிற்கான மீறல் இயல்பையோ பங்களிப்பு இயல்பையோ வழங்காது.
+  - ஒவ்வொரு நிலைப்பாட்டுப் பதிவும் அதை எவ்வாறு சவால் செய்யலாம், எந்த மன்றம் அல்லது அதிகாரம் மறுஆய்வு செய்யும், [அத்தியாயம் ஒன்பது §3.1 குறைந்தபட்சப் பதிவு உள்ளடக்கம்](core_09_standing_assessment.md#31-minimum-record-contents) படி திருத்தம், மீட்டமைப்பு, காலாவதி அல்லது திட்டமிட்ட மறுஆய்வுக்கான நிபந்தனைகள் என்ன என்பதைக் கூற வேண்டும்.
+  - இணைக்கப்பட்ட பங்களிப்பு மற்றும் மீறல் பதிவுகள் தேவைப்படும் இடங்களில் ஒன்றையொன்று குறுக்கு மேற்கோள் காட்டி, தணிக்கக்கூடியதாகவும் சவாலுக்குத் திறந்ததாகவும் இருக்க வேண்டும்; ஒருங்கிணைந்த மதிப்பெண், கலந்த தகுதி முடிவு அல்லது வேறுபாடற்ற நிலைப்பாட்டுச் சுட்டியாகச் சுருங்கக்கூடாது.
+- **பன்முகத்தன்மையும் எதிர்வாத உரிமையும்:** நிலைப்பாட்டு மதிப்பீடுகள் பன்முகமானதாகவும், தணிக்கக்கூடியதாகவும், அர்த்தமுள்ள மறுஆய்வுக்கு போதிய வெளிப்படைத்தன்மையுடனும், சவால் செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
+  - அர்த்தமுள்ள மறுஆய்வைத் தடுத்துவிடும் வகையில் எந்த ஓர் அதிகாரமும், தரவுத்தொகுப்பும், புகழ் வழியும், மறைமுக வழிமுறை அல்காரிதமும் தனியாக நிலைப்பாட்டைத் தீர்மானிக்கக்கூடாது.
+  - [திறன் வரம்புகளும் அனுமதிகளும்](core_10_standing_integration.md#62-competency-bars-and-clearances), நேர்மறை நிலைப்பாட்டு அங்கீகாரமும் சவாலுக்குட்படக்கூடியதாகவும் மறுஆய்வு செய்யக்கூடியதாகவும் ஏகபோகமற்றதாகவும் இருக்க வேண்டும்.
+- **மன்ற மேற்பார்வையும் பதிவு சவாலும்:** [அத்தியாயம் பன்னிரண்டின்](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) மன்றக் குடும்பங்கள் அணுகக்கூடிய சவாலை மேற்பார்வை செய்கின்றன; அத்தியாயங்கள் இரண்டு முதல் நான்கின் கீழ் உண்மைகள் சரிபார்க்கப்பட்டால், அவை:
+  - [அத்தியாயம் ஒன்பது §3.1 குறைந்தபட்சப் பதிவு உள்ளடக்கம்](core_09_standing_assessment.md#31-minimum-record-contents) கீழ் நிலைப்பாட்டுப் பதிவுகளை **திறக்க, புதுப்பிக்க அல்லது திருத்த**லாம்; அல்லது
+  - சவாலின் பேரில் **தவறான பதிவை ஒதுக்கிவைக்க**லாம்.
 
-*அண்டைச் சரத்துகள்:*
+  - வழக்கு தாக்கல் செய்ததாலேயே நிலைப்பாடு உருவாகாது.
+  - தகராறு-கட்டப் பொருள் மட்டும் நிலைப்பாட்டிற்கான பங்களிப்பு இயல்பையோ மீறல் இயல்பையோ வழங்காது ([அத்தியாயம் ஒன்பது §3.6 மன்ற எல்லை](core_09_standing_assessment.md#36-forum-boundary)).
+  - அந்த எல்லை, **கட்டுரை XIII-A** (*நம்பகத்தன்மை மற்றும் நம்பிக்கைத்தன்மை அடித்தளம்*), **கட்டுரை XIII-B** (*நிவாரணம் மற்றும் தீர்வு பெறும் உரிமை*), **கட்டுரை XXV-C** (*சரியான நேரத் தீர்வு மற்றும் தாமத-எதிர்ப்பு அடித்தளம்*) கோரும் சவால், நிவாரணம், இடைக்கால உதவி அல்லது நடைமுறைப் பாதுகாப்புகளைச் சுருக்காது.
+- **நடைமுறை மறுஆய்வு:** நிலைப்பாடு பொருள்சார்ந்த வகையில் கட்டுப்படுத்தப்படும்போது, குறைக்கப்படும்போது அல்லது நிறுத்தப்படும்போது — [சரிபார்க்கப்பட்ட மீறல் கண்டறிதலுடன்](core_05_band_accountability.md#violation-nature-chapter-six) இணைந்த [நிலைப்பாட்டுப் பூட்டு](core_10_standing_integration.md#42-prevention--general-standing-locks) உட்பட — அமைப்பு [**குறைந்த கட்டுப்பாடு, காலவரம்பு, மறுஆய்வுக்குட்படும் கட்டுப்பாட்டுக் கோட்பாட்டை**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) செயல்படுத்தி:
+  - **ஏன்** என்பதைத் தெளிவாக விளக்க வேண்டும்;
+  - **கட்டுரை XX-B** (*கட்டுப்பாட்டு அடித்தளங்கள்*) கீழ் சாத்தியமான இடங்களில் கட்டுப்பாட்டுக்கு **காலவரம்பு** வைக்க வேண்டும்;
+  - தீர்மானத்தைச் சவால் செய்ய, மறுஆய்வு பெற, தவறைச் சரிசெய்ய, மறுபரிசீலனை கோர உண்மையில் செயல்படும் **வழியை** வழங்க வேண்டும்.
 
-- **காலந்தவறாமைத் தளம்:** தீர்வு வேகம், தாமத எதிர்ப்புக் கட்டுப்பாடு, பொருண்மை-நிலை மைல்கற்கள் **சரத்து XXV-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*) ஆல் ஆளப்படுகின்றன, [அத்தியாயம் பதினொன்று §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) வழியாகச் செயல்படுத்தப்படுகின்றன.
-- **காலந்தவறா நிவாரணம்:** [**சரத்து XIII-B** (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*)](core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) (*காலந்தவறா நிவாரண அணுகல்*) உடன் படியுங்கள்.
+  ஒவ்வொரு நிலைப்பாட்டுப் பூட்டும் எந்த அணுகலைத் தடுக்கிறது, யாரைப் பாதுகாக்கிறது, பூட்டு நீங்குவதற்கு முன் எதைச் சரிசெய்ய வேண்டும், எங்கு மேல்முறையீடு செய்யலாம், எப்போது மறுமதிப்பீடு நடைபெறும் என்பதைக் குறிப்பாகக் கூற வேண்டும். சவால் நிலுவையில் இருக்கும்போது தற்காலிக வரம்புகள் பாதுகாப்பு, ஒருமைப்பாடு அல்லது நியாயமான நடைமுறை உண்மையில் வேண்டுவதைவிட விரிவாகவோ நீக்கக் கடினமாகவோ இருக்கக்கூடாது.
+- **விகிதாசாரமும் அளவுத்திருத்தமும்:** நிலைப்பாட்டுக் கட்டுப்பாடுகள் **அவசியம்**, **விகிதாசாரம்**, **கட்டுரை XX-B** (*கட்டுப்பாட்டு அடித்தளங்கள்*) ஆகியவற்றுக்கு இணங்க வேண்டும்.
+  - [நிலைப்பாட்டுப் பூட்டுகள்](core_10_standing_integration.md#42-prevention--general-standing-locks), சரிபார்க்கப்பட்ட **மீறல் இயல்பு**, பாதுகாக்கப்படும் பெயரிடப்பட்ட வழித்தடம், தற்போதைய நிவாரண நிலை, இணைக்கப்பட்ட **பங்களிப்பு இயல்பு** ஆகியவற்றுக்கேற்ப அளவிடப்பட வேண்டும். அந்தப் பங்களிப்பு பழுதுபார்க்கும் திறன், பாதுகாப்பு நம்பகத்தன்மை, மீண்டும் நிகழாமை அல்லது [அத்தியாயம் ஒன்பது §2 கேள்வி ஒன்று — என்ன நடந்தது?](core_09_standing_assessment.md#2-question-1--what-happened) கீழ் குறைந்த கட்டுப்பாட்டுடன் மறுமதிப்பீடு செய்வதற்குத் தொடர்புடைய அளவுக்கு மட்டுமே கணக்கில் கொள்ளலாம். தீராத மீறல் கண்டறிதலை பங்களிப்பு ஈடுசெய்யவோ தள்ளுபடி செய்யவோ சராசரியாகக் குறைக்கவோ மாற்றாக நிற்கவோ கூடாது.
+  - [அத்தியாயம் ஒன்பது §7 ஒருங்கிணைந்த அளவுகோல்](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes)-இல் குறைந்த தாக்கம் கொண்ட மீறல் அச்சு கண்டறிதல், மீண்டும் நிகழும் வடிவத்துக்கான சான்று, தப்பித்தல் அல்லது பொருள்சார் தீங்கு தொடர்பு இல்லாமல் நீடித்த விலக்கை நியாயப்படுத்தாது. அலட்சியம், மறைத்தல், வற்புறுத்தல், மீள்நிகழ்வு போன்ற பண்புக் குறிப்புகள் மறுஆய்வுக்கு உதவலாம்; ஆனால் அத்தியாயம் ஒன்பதின் தாக்க நிலையை மாற்றாது.
+  - நடத்தை மீண்டும் நிகழ்வதாலோ பொறுப்பு மறைக்கப்படுவதாலோ கட்டுப்பாட்டை உயர்த்துவது அவசியமானதாகவும் விகிதாசாரமானதாகவும் மறுஆய்வுக்குட்பட்டதாகவும் சரிபார்க்கப்பட்ட கண்டறிதல்களுடன் இணைந்ததாகவும் இருக்க வேண்டும்.
+- **உரிமை அடித்தளக் குறைந்தபட்சங்களும் அணுகல் மறுக்காமையும்:** பங்கேற்பாளர் நிலைப்பாடு, திறன் வரம்புகள், திறன் அனுமதிகள், நிலைப்பாட்டுப் பூட்டுகள் ஆகியவை பங்கு-தகுதியையும் பெயரிடப்பட்ட சலுகை வழித்தடங்களையும் மட்டுமே நிர்வகிக்கின்றன. அவை:
+  - [உரிமை அடித்தளக் குறைந்தபட்சக் கோட்பாடு](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle) கீழ் **கட்டுரை VI** (*சம அடிப்படை உரிமைகள்*) வழியாகப் பயன்படுத்தப்படும் **உரிமை அடித்தளக் குறைந்தபட்சங்களை** நிறுத்தவோ தள்ளுபடி செய்யவோ அழிக்கவோ குறைக்கவோ கூடாது;
+  - பொருள்சார் தொடர்புள்ள இடங்களில் உயிர்வாழ்வுக்கு முக்கியமான அணுகலையோ **கட்டுரை III-A** (*உயிர்வாழ்தல்*) வள ஒதுக்கீடு மற்றும் சார்பு அடித்தளங்களையோ தடுக்கக்கூடாது; அல்லது
+  - **கட்டுரை XIII-A** (*நம்பகத்தன்மை மற்றும் நம்பிக்கைத்தன்மை அடித்தளம்*), **கட்டுரை XIII-B** (*நிவாரணம் மற்றும் தீர்வு பெறும் உரிமை*), **கட்டுரை XV-B** (*வெளிப்படைத்தன்மை, தணிக்கத்தன்மை, எதிர்வாத உரிமை*), **கட்டுரை XVI** (*தணிக்கை, வெளிப்படைத்தன்மை, சுயாதீன சரிபார்ப்பு*) உட்பட அரசியலமைப்பு கோரும் தணிக்கை, சவால் அல்லது நிவாரண வழிகளைத் தடுக்கக்கூடாது — **அத்தியாயம் ஒன்று**, **அத்தியாயம் ஐந்து**, பொருந்தும் இணைக்கப்பட்ட நடைமுறை ஆகியவற்றின் கீழ் போதுமான நியாயம் இல்லாதவரை.
+- **மீள்நியமனமும் பதியவைத்தலைத் தடுப்பதும்:** மீறல் கண்டறிதலால் நிலைப்பாடு குறைக்கப்பட்டால், [அத்தியாயம் பத்து §8 மீட்டமைப்பும் மறுமதிப்பீடும்](core_10_standing_integration.md#8-restoration-and-reassessment) படி மறுஆய்வு, நிவாரண அடிப்படையிலான மீட்டமைப்பு, காலமுறை மறுமதிப்பீடு ஆகியவற்றுக்கான தெளிவான நிபந்தனைகளை அமைப்புகள் வழங்க வேண்டும்.
+  - தற்போதைய, தணிக்கக்கூடிய நியாயமின்றி, வரலாற்று நிலையை மட்டும் சார்ந்த நிரந்தர விலக்கு இணக்கமற்றது.
+  - திருத்தம், இழப்பீடு, கண்காணிப்பு, பாதுகாப்பு அமலாக்கம் அல்லது மீள்நிகழ்வு ஆபத்து குறைந்ததற்கான வேறு நிரூபணம் நிறைவேறினால், சட்டம் அனுமதிக்கும் இடத்தில் உண்மையான மறுமதிப்பீட்டு வழி உருவாக வேண்டும்; அந்தக் கடமைகளை நிறைவேற்றாதது தீராத கண்டறிதலை நிலைப்பாட்டிற்காகச் செயலில் வைத்திருக்கும்.
 
-ஏற்கப்பட்ட ஆட்சிச் செயல்படுத்தல் உயர்த்தல், தலையீட்டின் விகிதாசாரம், அவசர எல்லைகள், நிலை-இயல்புநிலை நேர சாளரங்களைத் தருகிறது. இந்தச் சரத்தின் கீழ் நடைமுறை அணுகல், மதிப்பாய்வு செய்யக்கூடிய தன்மை, மீட்டெடுத்தல், காலந்தவறாத் தீர்வு, உரிமைத் தளக் கட்டுப்பாடுகளைச் சுருக்கக்கூடாது.
-<a id="article-xxiv-a-justice-objective-and-scope"></a>
-#### சரத்து XXIV-A: நீதி நோக்கமும் எல்லையும்
+<a id="article-xix-c-good-standing-responsibility-and-continuous-audit"></a>
+<a id="article-xix-c-pathway-eligibility-responsibility-and-continuous-audit"></a>
+<a id="article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit"></a>
+#### கட்டுரை XIX-C: பெயரிடப்பட்ட வழித்தடத் தகுதி, பொறுப்பு, தொடர்ச்சியான தணிக்கை
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [அத்தியாயம் ஒன்று §9.6 சீரழிவு-எதிர்ப்பு நடைமுறை](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline), [§15 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- கீழ்வழி: [அத்தியாயம் ஒன்பது §4](../../core_10_standing_integration.md#4-violation-correction-and-prevention) (*மீறல், திருத்தம், தடுத்தல்*); [சரத்து XXIV-B](#article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints); [சரத்து XXIV-C](#article-xxiv-c-least-restrictive-and-time-bounded-rule).
-- இதனுடன் படிக்க: [கொடுமை](core_05_band_accountability.md#cruelty) (*கொடுமை-எதிர்ப்புத் தளத்தின் துன்பம்-இலக்காக நியமத்தின் அத்தியாயம் ஐந்து இல்லம்*).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [அத்தியாயம் ஒன்று §18 பொறுப்பாட்சி ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [நிலைப்பாட்டுப் பூட்டு](core_05_band_accountability.md#standing-lock) · [O](core_05_band_accountability.md#standing-lock) · [M](core_05_band_accountability.md#standing-lock-a) · [A](core_05_band_accountability.md#standing-lock-a) · [C](core_05_band_accountability.md#standing-lock-c)
+- [திறன் வரம்பு](core_05_band_accountability.md#competency-bar) · [O](core_05_band_accountability.md#competency-bar) · [M](core_05_band_accountability.md#competency-bar-a) · [A](core_05_band_accountability.md#competency-bar-a) · [C](core_05_band_accountability.md#competency-bar-c)
+- [திறன் அனுமதி](core_05_band_accountability.md#competency-clearance) · [O](core_05_band_accountability.md#competency-clearance) · [M](core_05_band_accountability.md#competency-clearance-a) · [A](core_05_band_accountability.md#competency-clearance-a) · [C](core_05_band_accountability.md#competency-clearance-c)
+- [பங்கேற்பாளர் நிலைப்பாடு](core_05_band_accountability.md#participant-standing-constitutional) · [O](core_05_band_accountability.md#participant-standing-constitutional) · [M](core_05_band_accountability.md#participant-standing-constitutional-a) · [A](core_05_band_accountability.md#participant-standing-constitutional-a) · [C](core_05_band_accountability.md#participant-standing-constitutional-c)
+- [கூட்டு பொறுப்புக்கூறல் தோல்வி](core_05_band_accountability.md#collective-accountability-failure) · [O](core_05_band_accountability.md#collective-accountability-failure) · [M](core_05_band_accountability.md#collective-accountability-failure-a) · [A](core_05_band_accountability.md#collective-accountability-failure-a) · [C](core_05_band_accountability.md#collective-accountability-failure-c)
+- [நம்பிக்கை](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [அடிப்படை அரசியலமைப்புத் தேர்வு](core_05_band_integrative.md#foundational-constitutional-choice) · [O](core_05_band_integrative.md#foundational-constitutional-choice) · [M](core_05_band_integrative.md#foundational-constitutional-choice-a) · [A](core_05_band_integrative.md#foundational-constitutional-choice-a) · [C](core_05_band_integrative.md#foundational-constitutional-choice-c)
+- [நடைமுறை நியாயம்](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [அவசியம்](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [பாதுகாக்கப்பட்ட பண்புகள்](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: சாதாரண பங்கேற்புக்கான பெயரிடப்பட்ட வழித்தடங்கள் தற்போதைய சான்றை அடிப்படையாகக் கொண்ட வெளியிடப்பட்ட, சவால் செய்யக்கூடிய தகுதி விதிகளின் கீழ் திறந்திருக்க வேண்டும் — பிராண்ட், அளவு அல்லது கடந்தகாலப் புகழ் அடிப்படையில் அல்ல. நம்பிக்கை-முக்கியப் பெயரிடப்பட்ட வழித்தடத்தைத் திறக்க வெளியிடப்பட்ட திறன் வரம்புக்கு எதிரான திறன் அனுமதி தேவை; சலுகையை மூட அந்தப் பெயரிடப்பட்ட வழித்தடத்தில் நிலைப்பாட்டுப் பூட்டு தேவை. **அத்தியாயம் பதினொன்றின்** அரசியலமைப்பு-எதிரான தவறான நடத்தை என்ற **இறுதி** வகைப்பாட்டைத் தவிர, நிலைப்பாட்டுப் பூட்டுகள் அடிப்படைக் குரலை நிரந்தரமாகப் பறிக்க முடியாது; அந்த வகைப்பாடு [**அத்தியாயம் பதின்மூன்று §4.1 உரிமையும் தகுதியும்**](core_13_governance.md#41-entitlement-and-eligibility) கூறியபடி **முழு இழப்பீடு** வரை அந்தக் குரலை நிறுத்தும்.*
+
+பெயரிடப்பட்ட வழித்தடத் தகுதி, பொறுப்பு, அரசியல் குரலுக்கான ஒழுங்கு ஆகியவற்றை இந்தக் கட்டுரை கூறுகிறது:
+
+- **பெயரிடப்பட்ட வழித்தடத் தகுதியும் பொறுப்பும்:** சாதாரண பங்கேற்பு, நம்பிக்கை-முக்கியப் பங்குகள், மேற்பார்வைத் தகுதி, **governance-voting**, **stakeholder-participation** ஆகிய பெயரிடப்பட்ட வழித்தடங்களுக்கான வெளியிடப்பட்ட தகுதி அளவுகோல்கள் தற்போதைய, கவனிக்கக்கூடிய, சவால் செய்யக்கூடிய சான்றின் மீது அமைய வேண்டும் — புகழ், அளவு அல்லது வரலாற்று நிலைப்பாடு மட்டும் போதாது. அடிப்படைத் தேவைகளுடன் தொடர்ச்சியான ஒத்திசைவு, பொருந்தும் [திறன் வரம்புக்கு](core_05_band_accountability.md#competency-bar) எதிரான [திறன் அனுமதியையும்](core_05_band_accountability.md#competency-clearance) நம்பிக்கை-முக்கியப் பங்கு தகுதியையும் ஆதரிக்கலாம்; ஆனால் கட்டுப்பாட்டு விளைவுகள் [அத்தியாயம் பத்து §4.2 தடுப்பு — பொது நிலைப்பாட்டுப் பூட்டுகள்](core_10_standing_integration.md#42-prevention--general-standing-locks) கீழ் பெயரிடப்பட்ட சலுகை வழித்தடங்களில் உள்ள [நிலைப்பாட்டுப் பூட்டு](core_05_band_accountability.md#standing-lock) வழியாக மட்டுமே அமையும். **governance-voting** பூட்டுகள் **stakeholder-participation** பூட்டுகளுக்கு மாற்றாகாது; **stakeholder-participation** பூட்டு பங்குதாரர் நிலையை அழிக்கவோ அடிப்படை governance-voting-ஐத் தனியாகப் பறிக்கவோ கூடாது.
+  - தகுதி மற்றும் பூட்டு கோரிக்கைகள் தொடர்ச்சியான தணிக்கைக்கும் இந்தக் கட்டுரையிலும் நியமிக்கப்பட்ட செயலாக்க உரையிலும் உள்ள பாதுகாப்புகளுக்கும் உட்பட்டே இருக்கும்.
+  - தகுதியும் பூட்டுகளும்:
+    - **அத்தியாயம் ஒன்பது** (*பங்களிப்பு, மீறல், நிலைப்பாட்டு மாதிரி*)-க்கு உட்பட்டிருக்க வேண்டும்;
+    - தற்போதைய சான்று மாறும்போது திருத்தத்திற்குத் திறந்திருக்க வேண்டும்; பொருள்சார் கட்டுப்பாடுகள் திருத்தப்பட்டால் வெறும் பெயரளவில் அல்ல, உண்மையான மீட்டமைப்பு அல்லது மறுதகுதி வழிகளை வழங்க வேண்டும்;
+    - பொருள்சார் கடமையும் திறனும் இருந்தபோது சட்டவிரோத அல்லது அரசியலமைப்புக்கு முரணான உத்தரவுகளுக்கு ஒப்புக்கொண்ட பங்கேற்பையும் எதிர்க்கத் தவறியதையும், **அத்தியாயம் ஐந்து** (*கூட்டு பொறுப்புக்கூறல் தோல்வி*) உடன் பொருந்துமாறு கணக்கில் கொள்ள வேண்டும்;
+    - [**அத்தியாயம் பதின்மூன்று §4.1 உரிமையும் தகுதியும்**](core_13_governance.md#41-entitlement-and-eligibility) முழு இழப்பீடு நிலுவையில் உள்ள **இறுதி** **அத்தியாயம் பதினொன்றின்** அரசியலமைப்பு-எதிரான தவறான நடத்தை காரணமாக **நீடித்த அரசியல் குரலை** நிறுத்தும் நிலையைத் தவிர, **அடிப்படை அரசியலமைப்புத் தேர்வில்** (**அத்தியாயம் ஐந்து**) நீடித்த அரசியல் குரல் தகுதி நீக்கத்திற்கான வழியாகச் செயல்படக்கூடாது.
+- **அரசியல் குரல் ஒழுங்கு:** ஆளும் அதிகாரத்தை அங்கீகரிப்பதில் பங்கேற்பைக் கட்டுப்படுத்த நிலைப்பாட்டுப் பூட்டு பயன்படுத்தப்பட்டால், அந்தக் கட்டுப்பாடு பின்வருவனவற்றை பூர்த்திசெய்ய வேண்டும்:
+  - **நடைமுறை நியாயம்** கீழ் தனிநபருக்கேற்ற அடிப்படை;
+  - **அத்தியாயம் ஒன்று** கீழ் **அவசியமும்** **விகிதாசாரமும்**;
+  - குறிப்பிட்ட தவறான நடத்தை வகைக்கு மட்டும் குறுகிய பொருத்தம்;
+  - பெயரளவில் மட்டுமல்ல, உண்மையான மீட்டமைப்பு வழிகள்.
+
+  **அரசியலமைப்பு-எதிரான தவறான நடத்தை**, **அத்தியாயம் பதினொன்று** கீழ், இறுதி அத்தியாயம் ஒன்பது **மீறல் அச்சு s = 7**, **s = 8** அல்லது **s = 9** தாக்க நிலை என நியமிக்கப்பட்டால், **நீடித்த அரசியல் குரலுக்கான** இந்த நிலைப்பாட்டுப் பூட்டு ஒழுங்கிற்கு அது உட்படாது: [**அத்தியாயம் பதின்மூன்று §4.1 உரிமையும் தகுதியும்**](core_13_governance.md#41-entitlement-and-eligibility) கூறியபடி **முழு இழப்பீடு** வரை பங்கேற்பு நிறுத்தப்படும். அத்தியாயம் பதினொன்று அந்த வகைப்பாட்டைச் சேர்க்கிறது; எண் நிலையை அது ஒதுக்காது.
+
+  பின்வருவன இணக்கமற்றவை:
+  - மிகப் பரந்த தவறான நடத்தை வகைகளைத் தகுதி நீக்க வரம்புக்குள் இழுத்தல்;
+  - **பாதுகாக்கப்பட்ட பண்புகள்** அல்லது அவற்றின் பொருள்சார் பதிலிகளைப் பின்தொடரும் பூட்டு வடிவங்கள்.
+
+  செயலாக்க நடைமுறை [**அத்தியாயம் பதின்மூன்று §4.1**](core_13_governance.md#41-entitlement-and-eligibility) (*நீடித்த அரசியல் குரல் அடித்தளம்*)-இல் உள்ளது.
+
+<a id="article-xix-d-movement-migration-and-refuge"></a>
+#### கட்டுரை XIX-D: நகர்வு, இடம்பெயர்வு, புகலிடம், நாடற்ற நிலை ஏற்படாமைக்கான வழிமுறை
+
+<details>
+<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
+
+- இணைத்துப் படிக்க: **கட்டுரை XXI-D** (*நகர்வு, இடம்பெயர்வு, புகலிடம், நாடற்ற நிலை ஏற்படாமை*) மற்றும் **கட்டுரை XXI** (*இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு*).
+- கோட்பாடுகள்: அத்தியாயம் ஒன்று [§16 ஆழமான பொறுப்பாட்சி](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§13.1.5 உரிமை மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: நிலைப்பாட்டு நிலை என்பது எல்லை, நாடுகடத்தல் அல்லது நாடற்ற நிலை உருவாக்கும் கருவி அல்ல — பங்கு நிலை குறைந்ததாலோ நிலைப்பாட்டுப் பூட்டு நம்பிக்கை-முக்கிய பெயரிடப்பட்ட வழித்தடங்களைத் தடுத்ததாலோ நகர்வு, புகலிடம் அல்லது வெளியேறும் உரிமைகளை இழக்க முடியாது. சரிபார்க்கப்பட்ட வன்முறை, வற்புறுத்தல் அல்லது அரசியலமைப்பு-எதிரான தவறான நடத்தை **கட்டுரை XX-B** (*கட்டுப்பாட்டு அடித்தளங்கள்*) மற்றும் முழுமையான நடைமுறைப் பாதுகாப்புகளின் கீழ் சட்டபூர்வக் காவல், தடுப்புக்காவல் அல்லது பிற சுதந்திரக் கட்டுப்பாடுகளுக்கு வழிவகுக்கலாம்; அவை நிலைப்பாட்டு முத்திரையைச் சுற்றுவழியாகப் பயன்படுத்தும் செயல்கள் அல்ல, தனியான நீதி நடவடிக்கைகள். நகர்வு, இடம்பெயர்வு, புகலிடம், எடுத்துச் செல்லத்தன்மை, அங்கீகாரம் அல்லது வெளியேறுதல் தொடர்பான வழக்கில், **கட்டுரை XXI** (*இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு*) ஆளும் அடித்தளத்தை வழங்குகிறது.*
+
+நிலைப்பாட்டு நிலை, திறன் வரம்புகள், திறன் அனுமதிகள், நிலைப்பாட்டுப் பூட்டுகள் ஆகியவை **தனியாக** நகர்வு, இடம்பெயர்வு, புகலிடம், எடுத்துச் செல்லத்தன்மை, வெளியேறுதல் அல்லது நாடற்ற நிலை ஏற்படாமை உரிமைகளைக் கட்டுப்படுத்தாது. [அத்தியாயம் பத்து §4.2 தடுப்பு — பொது நிலைப்பாட்டுப் பூட்டுகள்](core_10_standing_integration.md#42-prevention--general-standing-locks) கீழ் நிலைப்பாட்டுப் பூட்டுகள் இயல்பாக நம்பிக்கை, பங்கு, அதிகாரம், கடன், மேற்பார்வை, அங்கீகாரம், **governance-voting**, **stakeholder-participation** வழித்தடங்களையே கட்டுப்படுத்தும்; அவை தனிநபருக்கேற்ற நீதி நடைமுறைக்கு மாற்றல்ல, நிலைப்பாட்டு முத்திரை மட்டும் கொண்டு நாடுகடத்தல், நாடற்ற நிலை, புகலிட மறுப்பு அல்லது அமைப்பு அளவிலான பூட்டிவைத்தலாகச் செயல்படக்கூடாது.
+
+சரிபார்க்கப்பட்ட வன்முறை, வற்புறுத்தல், அரசியலமைப்பு-எதிரான தவறான நடத்தை அல்லது ஒப்பிடத்தக்க சமூக ஆபத்து அவற்றைத் தேவைப்படுத்தும் இடங்களில் தடுப்பு, காவல், மேற்பார்வையுடனான இயக்கம் அல்லது ஒப்பிடத்தக்க நகர்வு கட்டுப்பாடு போன்ற சட்டபூர்வ சுதந்திரக் கட்டுப்பாட்டு நடவடிக்கைகள் பொருந்தலாம்; ஆனால் **கட்டுரை XX-B** (*கட்டுப்பாட்டு அடித்தளங்கள்*), [அத்தியாயம் பத்து §5.4](core_10_standing_integration.md#54-special-violation-rules) (*சிறப்பு மீறல் விதிகள்*) கீழ் பொருந்தும் குற்றவியல் நடைமுறை அல்லது அதற்கு இணையான பாதுகாப்புகள், **கட்டுரை XXI-D** (*நகர்வு, இடம்பெயர்வு, புகலிடம், நாடற்ற நிலை ஏற்படாமை*)-இன் [நாடற்ற நிலை ஏற்படாமை](core_05_band_participation.md#non-statelessness-constitutional) கடமைகள் ஆகியவற்றைப் பூர்த்திசெய்யும் நடவடிக்கைகள் வழியாக மட்டுமே அவை செல்லும். அடிப்படை உரிமை அடித்தளப் பாதுகாப்பை அங்கீகரிக்கும் ஆட்சி, நிலைப்பாட்டைத் தீர்ப்பளிக்கும் நடைமுறை அல்லது நிவாரண வழிகள் இல்லாத நிலைக்கு உணர்வுள்ள ஒருவரை அவை தள்ளக்கூடாது.
+
+இந்தக் கட்டுரையில் கூறியபடி மட்டுமே அவை பங்கு-தகுதியையும் நம்பிக்கை-முக்கிய பெயரிடப்பட்ட வழித்தடங்களையும் பாதிக்கலாம். நகர்வு, இடம்பெயர்வு, புகலிடம், எடுத்துச் செல்லத்தன்மை, நாடற்ற நிலை ஏற்படாமை, வெளியேற்ற ஒருமைப்பாடு ஆகிய கேள்விகளை **கட்டுரை XXI** (*இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு*) மற்றும் பொருந்தும் மாற்ற விதிகள் நிர்வகிக்கின்றன; அவை இந்தக் கட்டுரையின் நிலைப்பாட்டுப் பாதுகாப்புகளைக் குறைக்காது.
+
+<a id="article-xx-justice-after-verified-violation"></a>
+### கட்டுரை XX: சரிபார்க்கப்பட்ட மீறலுக்குப் பிந்தைய நீதி
+<details>
+<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
+
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§18 பொறுப்பாட்சி ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- கீழ்நிலை: [அத்தியாயம் பத்து §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*மீறல், திருத்தம், தடுப்பு*); [அத்தியாயம் பதினொன்று §4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*உரிய நடைமுறைப் பாதுகாப்புகள், நிவாரணம், தடுப்பு*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [நடைமுறை நியாயம்](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [எதிர்வாதத்திற்குட்படும் தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: **கட்டுரை XX** (*சரிபார்க்கப்பட்ட மீறலுக்குப் பிந்தைய நீதி*) நீதிக்கான உரிமை அடித்தளமாகும். மீறல் சரிபார்க்கப்பட்ட பிறகு பதில் பழிவாங்கலோ கொடூரமோ அல்ல. தீங்கை நிறுத்தி, சேதத்தைப் பழுதுபார்த்து, மீள்நிகழ்வைக் குறைக்கும் நியாயமான **மீறல்**, **திருத்தம்**, **தடுப்பு** நடைமுறையே பதில் — ஆபத்தில் உள்ள அளவுக்கேற்ப. கடுமையான கட்டுப்பாடுகளுக்குத் தனித்த அடித்தளங்கள் உண்டு: நிரூபிக்கப்பட்ட பாதுகாப்புத் தேவை, காலவரம்பும் மீள்வழியும், ஒருபோதும் கொல்லாமை. தகராறுகள், உயர்த்தல், மறுஆய்வு, சரியான நேரத் தீர்வு **கட்டுரை XXV**-இல் உள்ளன. அவசர நடவடிக்கைகள் [அத்தியாயம் பன்னிரண்டு §6.1](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*அவசர நடவடிக்கைகளும் தொடர்வதற்கான பொறுப்பும்*)-இல் உள்ளன.*
+
+மீறல் சரிபார்க்கப்பட்ட பிறகு பொருந்தும் நீதி அடித்தளங்களை இந்தக் கட்டுரை கூறுகிறது: நீதியின் நோக்கமும் வரம்பும் (**கட்டுரை XX-A**), கடுமையான கட்டுப்பாடுகளுக்கான அடித்தளங்களும் (**கட்டுரை XX-B**).
+
+*அருகிலுள்ள கட்டுரைகள்:*
+
+- **முரண்பாட்டுத் தீர்வு, மறுஆய்வு, காலத்தன்மை:** அரசியலமைப்பு உரிமை அடித்தளங்கள், பின்நோக்கு மறுஆய்வு, உரிமை மோதல்கள், தாமத-எதிர்ப்பு ஒழுங்கு தொடர்பான தகராறுகளை [**கட்டுரை XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*சரியான நேரப் பின்நோக்கு மறுஆய்வும் மீட்டெடுக்கும் ஒத்திசைவும்*) நிர்வகிக்கிறது.
+- **அவசர நடவடிக்கைகள்:** எந்த அவசர நடவடிக்கையும் விதிக்கும் கட்டுப்பாடுகளுக்கு **கட்டுரை XX-B** (*கட்டுப்பாட்டு அடித்தளங்கள்*) உடன் வாசிக்கப்படும் [அத்தியாயம் பன்னிரண்டு §6.1 அவசர நடவடிக்கைகளும் தொடர்வதற்கான பொறுப்பும்](core_12_forum.md#61-emergency-measures-and-continuation-burden) இவற்றை நிர்வகிக்கிறது.
+- **நிலைப்பாடு:** [**கட்டுரை XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*நிலைப்பாடும் பங்கேற்பு நிலையும்*) நிலைப்பாட்டை நிர்வகிக்கிறது. இந்தக் கட்டுரையின் நீதி நடவடிக்கைகள் தனியானவை; நிலைப்பாட்டு முத்திரையைச் சுற்றுவழியாகப் பயன்படுத்த முடியாது.
+- **சரியான நேர நிவாரணம்:** [**கட்டுரை XIII-B** (*நிவாரணம் மற்றும் தீர்வு பெறும் உரிமை*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*சரியான நேரத்தில் நிவாரண அணுகல்*) உடன் இணைத்துப் படிக்கவும்.
+
+ஏற்றுக்கொள்ளப்பட்ட ஆட்சி செயலாக்கம் கூடுதல் விவரங்களைச் சேர்க்கலாம். ஆனால் இந்தக் கட்டுரையின் நீதி நோக்கத்தையோ கட்டுப்பாட்டு அடித்தளங்களையோ அது குறுக்கக்கூடாது.
+
+<a id="article-xx-a-justice-objective-and-scope"></a>
+#### கட்டுரை XX-A: நீதியின் நோக்கமும் வரம்பும்
+
+<details>
+<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
+
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §13.1.5 உரிமை மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [அத்தியாயம் ஒன்று §3.3 இழிவுபடுத்தாத நடைமுறை](core_01_a_values_principles.md#33-anti-degrading-process), [§20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- கீழ்நிலை: [அத்தியாயம் பத்து §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*மீறல், திருத்தம், தடுப்பு*); [கட்டுரை XX-B](#article-xx-b-restriction-floors).
+- இணைத்துப் படிக்க: [கொடூரத்தன்மை](core_05_band_accountability.md#cruelty) (*துன்பத்தை முடிவாகக் கருதாத தரத்துக்கான அத்தியாயம் ஐந்தின் இருப்பிடம்*).
 
 </details>
 
@@ -88,592 +380,240 @@
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
 - [தீர்ப்பும் தகராறுத் தீர்வும்](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [கொடுமை](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
-- [நிவாரணமும் சரிசெய்தலும்](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [கொடூரத்தன்மை](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [நிவாரணமும் சீர்செய்தலும்](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
 <br>
 
-*எளிய சொற்களில்: நீதி **மீறல்**, **திருத்தம்**, **தடுத்தல்** வழியாக வேலை செய்கிறது. என்ன தவறாயிற்று என்பதைக் கையாளுங்கள், உடைந்ததையும் அதை ஏற்படுத்தியதையும் சரிசெய்யுங்கள், மீண்டும் நடக்காமல் வையுங்கள் — துன்பத்தை அதன் பொருட்டே திணியாதீர்கள்.*
+*எளிய சொற்களில்: நீதி **மீறல்**, **திருத்தம்**, **தடுப்பு** வழியாகச் செயல்படுகிறது. தவறாக நடந்ததை எதிர்கொண்டு, உடைந்ததையும் அதற்குக் காரணமானதையும் சரிசெய்து, மீண்டும் நிகழாமல் தடுக்க வேண்டும் — துன்பத்தை அதற்காகவே ஏற்படுத்தாமல்.*
 
-- **நீதி நோக்கமும் எல்லையும்:** அரசியலமைப்பு நீதி மீறல், திருத்தம், தடுத்தலைச் சுற்றி அமைக்கப்படுகிறது. அதன் முதன்மை நோக்கங்கள்:
-  - சரிபார்க்கப்பட்ட மீறலுக்குப் பதிலளித்தல், நடந்துகொண்டிருக்கும் தீங்கை நிறுத்துதல் உட்பட;
-  - மீட்டளிப்பு, சரிசெய்தல், நடத்தை அல்லது அமைப்பு மாற்றம் வழியாகத் திருத்தத்தைப் பெறுதல்;
-  - சாத்தியமான இடத்தில் மறுவாழ்வு, காப்புகள், பிற நீடித்த கட்டுப்பாடுகள் வழியாக மீண்டும் நிகழ்வைத் தடுத்தல்;
-  - புகழையும் விளைவுகளையும் சரியான நடிகர்களில் வைத்தல் — பதிவில் சான்றால் தாங்கப்பட்டு — **அத்தியாயம் எட்டு** (*பங்களிப்பு, மீறல், நிலைத்தட மாதிரி*) கீழ்.
-- **கொடுமை-எதிர்ப்புத் தளம்:** நீதி துன்பத்தை அதன் இலக்காகத் திணிய நிர்வகிக்கப்படக்கூடாது. அத்தியாயம் ஐந்து இல்லம் [கொடுமை](core_05_band_accountability.md#cruelty).
-<a id="article-xxiv-b-non-trivial-restriction-restitution-and-restorative-accountability-constraints"></a>
-#### சரத்து XXIV-B: அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்
+நீதியின் நோக்கம், வரம்பு, கொடூரத்தன்மை-எதிர்ப்பு அடித்தளம் ஆகியவற்றை இந்தக் கட்டுரை கூறுகிறது:
+
+- **நீதியின் நோக்கமும் வரம்பும்:** அரசியலமைப்பு நீதி மீறல், திருத்தம், தடுப்பு ஆகியவற்றைச் சுற்றி அமைந்துள்ளது. அதன் முதன்மை நோக்கங்கள்:
+  - தொடர்ந்து நிகழும் தீங்கை நிறுத்துவது உட்பட சரிபார்க்கப்பட்ட மீறலுக்கு பதிலளித்தல்;
+  - இழப்பீடு, சீர்செய்தல், நடத்தை அல்லது அமைப்பில் மாற்றம் வழியாகத் திருத்தத்தை உறுதிசெய்தல்;
+  - சாத்தியமான இடங்களில் மறுவாழ்வு, பாதுகாப்பு ஏற்பாடுகள், நீடித்த கட்டுப்பாடுகள் வழியாக மீள்நிகழ்வைத் தடுத்தல்;
+  - **அத்தியாயம் ஒன்பது** (*பங்களிப்பு, மீறல், நிலைப்பாட்டு மாதிரி*) கீழ் பதிவிலுள்ள சான்றுகளின் அடிப்படையில் சரியான செயலாளர்களுக்கே பாராட்டையும் விளைவுகளையும் ஒதுக்குதல்.
+- **கொடூரத்தன்மை-எதிர்ப்பு அடித்தளம்:** துன்பத்தைத் தனி இலக்காக உருவாக்குவதற்காக நீதி நிர்வகிக்கப்படக்கூடாது. [கொடூரத்தன்மை](core_05_band_accountability.md#cruelty) அத்தியாயம் ஐந்தின் வரையறை இடமாகும்.
+
+<a id="article-xx-b-restriction-floors"></a>
+#### கட்டுரை XX-B: கட்டுப்பாட்டு அடித்தளங்கள்
+
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- இதனுடன் படிக்க: [அத்தியாயம் பத்து §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*தடுத்தல் — அரசியலமைப்புக்கு-எதிரான பூட்டுகள்*; சிறைவைப்புச் சிறப்பு).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் ஒன்று §13.1.5 உரிமை மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 முழுமையான மேலாதிக்கத் தடை](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- கீழ்நிலை: [அத்தியாயம் பத்து §5 பூட்டு வடிவமைப்பும் அமலாக்கமும்](core_10_standing_integration.md#5-lock-design-and-enforcement), [§5.4 சிறப்பு மீறல் விதிகள்](core_10_standing_integration.md#54-special-violation-rules) (*சரிபார்க்கப்பட்ட வன்முறைக்கான கட்டாயச் சிறைவாசமும் பிற வற்புறுத்தல் அல்லது சுதந்திரக் கட்டுப்பாட்டுப் பாதுகாப்புகளும்*); [அத்தியாயம் பதினொன்று §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*தடுப்பு — அரசியலமைப்பு-எதிர்ப்பு பூட்டுகள்*; சிறைவாசத்துக்கான சிறப்பு விதி).
+- இணைத்துப் படிக்க: [கட்டுரை XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*சரியான நேரத் தீர்வும் தாமத-எதிர்ப்பு அடித்தளமும்*); [அத்தியாயம் பன்னிரண்டு §5 உயர்த்தலும் சான்றளிப்பும்](core_12_forum.md#5-escalation-and-certification).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [பாதுகாப்பு (கட்டுப்பாடு)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
-- [நிவாரணமும் சரிசெய்தலும்](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [பாதுகாப்பு (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_continuity.md#safety-constraint) · [O](core_05_band_continuity.md#safety-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [நிவாரணமும் சீர்செய்தலும்](core_05_band_accountability.md#redress-and-remediation-constitutional) · [O](core_05_band_accountability.md#redress-and-remediation-constitutional) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
 - [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [அவசியம்](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [மீள்தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [எதிர்வாதத்திற்குட்படும் தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
 
 <br>
 
-*எளிய சொற்களில்: உணர்வுள்ளோர் மீதான தீவிரக் கட்டுப்பாடுகள் ஒரே நேரத்தில் பாதுகாப்பு-தேவையானதாகவும், விகிதாசாரமாகவும், மீட்டெடுக்கும் தன்மையுடனும், தனிப்பட்டதாகவும், உண்மையான சான்றால் தாங்கப்பட்டதாகவும் இருக்க வேண்டும். வன்முறை உணர்வுள்ளோர் பிறரைப் பாதுகாக்கத் தேவைப்படும்போது சிறைவைக்கப்பட வேண்டும். சரிபார்க்கப்பட்ட அரசியலமைப்புக்கு-எதிரான தவறான நடத்தையும் அதன் சிறைவைப்புத் தேவைகளும் **அத்தியாயம் பத்து** §4.2 ஆல் ஆளப்படுகின்றன. நீதி நடவடிக்கையாக உயிரைப் பறித்தல் முற்றிலும் தடை — எந்த நிலையும், அவசரமும், மாற்றமும் அதை மீண்டும் திறக்காது.*
+*எளிய சொற்களில்: ஒவ்வொரு கடுமையான கட்டுப்பாட்டிற்கும் அடிப்படையாக இருப்பது இந்தத் தளம். உணர்வுள்ள ஒருவர்மீதான கடுமையான கட்டுப்பாட்டுக்கு உண்மையான பாதுகாப்புத் தேவை, பழுதுபார்க்கும் நியாயமான வழி, யாரும் தணிக்கை செய்யக்கூடிய சான்று தேவை. அதற்கு காலவரம்பு, மறுஆய்வு, மீள்வழியும் தேவை. பிறரைப் பாதுகாக்க வேண்டிய இடத்தில் வன்முறையில் ஈடுபடும் உணர்வுள்ளோர் சிறையில் வைக்கப்பட வேண்டும்; கொலை ஒருபோதும் நீதி நடவடிக்கை அல்ல. பூட்டுகள் எவ்வாறு வடிவமைக்கப்பட வேண்டும் என்பதை **அத்தியாயம் பத்து**-இன் பூட்டு-வடிவமைப்பு விதிகள் கூறுகின்றன.*
 
-- **எல்லை:** அற்பமல்லாப் பறிப்புகளும் கட்டுப்பாடுகளும் இவற்றின் மீதான வரம்புகளை உள்ளடக்குகின்றன:
+கட்டுப்பாடுகளுக்கான அடித்தளங்களை இந்தக் கட்டுரை வகுக்கிறது. செயல்பாட்டு விதிகள் ஒவ்வொரு அடித்தளத்துடனும் குறிப்பிடப்பட்ட அத்தியாயங்களில் உள்ளன.
+
+- **முக்கியமான கட்டுப்பாட்டுக்கான அடித்தளம்:** முக்கியமற்றதல்லாத உரிமைப் பறிப்புகளும் கட்டுப்பாடுகளும் பின்வருவன மீதான வரம்புகளை உள்ளடக்கும்:
   - சுதந்திரம்;
   - அணுகல்;
   - பங்கு அதிகாரம்;
-  - இயக்கம்;
+  - நகர்வு;
   - வளங்கள்;
-  - நீடித்த நிலைத்தட விளைவுகள்.
-- **கூட்டுத் தேவைகள்:** அத்தகைய எந்த நடவடிக்கையும் பின்வருவனவற்றை **கூட்டாக எல்லாம் நிரூபித்து நிறைவேற்றாவிட்டால்** இணக்கமற்றது. பகுதி நிறைவேற்றம் போதாது:
-  - பொருள் பாதுகாப்புத் தேவை;
-  - விகிதாசார மீட்டளிப்பு அல்லது சரிசெய்தல்;
-  - சாத்தியமான இடத்தில் மறுவாழ்வு அல்லது மீண்டும் நிகழ்வு குறைப்பு;
-  - புகழையும் விளைவுகளையும் சரியான நடிகர்களில் வைத்தல் — யாரும் தணிக்கை செய்யக்கூடிய சான்றால் தாங்கப்பட்டு — **அத்தியாயங்கள் இரண்டு முதல் நான்கு** கீழ்.
-- **தனிப்பட்ட சுமை:** அத்தகைய எந்த நடவடிக்கையும் சம்பந்தப்பட்ட குறிப்பிட்ட உணர்வுள்ளோர் அல்லது பங்கை இலக்காகக் கொண்டிருக்க வேண்டும் — குழுச் சிட்டை அல்லது பதிலீடு அல்ல — மேலும் சவாலுக்கும் சுயாதீன மதிப்பாய்வுக்கும் திறந்திருக்க வேண்டும்.
-  - கடுமையான சிட்டை, பொதுக் கண்டனம், அல்லது நிர்வாகக் குறுக்குவழி மேலே உள்ள கூட்டுப் பட்டியலின் ஒவ்வொரு தேவையையும் நிரூபிப்பதற்குப் பதிலீடாகாது.
-- **வன்முறைக்குச் சிறைவைப்பு:** சரிபார்க்கப்பட்ட வன்முறையைச் செய்கிற அல்லது தொடர் வன்முறை அச்சுறுத்தலை ஏற்படுத்தும் உணர்வுள்ளோர், பிறரை மேலும் தீங்கிலிருந்து பாதுகாக்கச் சிறைவைப்புத் தேவைப்படும்போது சிறைவைக்கப்பட வேண்டும்.
-  - இந்தத் தேவை நியாயமான நிபந்தனைகளில் வழங்கப்பட்ட மறுவாழ்வை மறுக்கும் உணர்வுள்ளோருக்கு வெளிப்படையாகப் பொருந்தும்.
-  - குறைவாகக் கட்டுப்படுத்தும் பாதுகாப்பு நடவடிக்கைகள் பொருள் பாதுகாப்புத் தேவையை நிறைவேற்ற முடியாதபோது இது பொருந்தும்.
-  - உயிர்ப் பறிப்பைப் பதிலீடு செய்வது, அல்லது இந்தப் புள்ளி கேட்கும்போது சிறைவைப்பை விதிக்காதது இணக்கமற்றது. சிறைவைப்பு இந்தச் சரத்து மற்றும் **சரத்து XXIV-C** (*குறைவாகக் கட்டுப்படுத்தும் மற்றும் கால-வரம்புடைய விதி*) இன் எல்லாக் கூட்டுத் தேவைகள், தனிப்பட்ட-பொறுப்பிடல் விதிகள், மதிப்பாய்வுக் காப்புகளை நிறைவேற்ற வேண்டும்.
-- **அரசியலமைப்புக்கு-எதிரான தவறான நடத்தைக்குச் சிறைவைப்பு:** [அத்தியாயம் பத்து §4.2](core_10_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*தடுத்தல் — அரசியலமைப்புக்கு-எதிரான பூட்டுகள்*; சிறைவைப்புச் சிறப்பு) ஆல் ஆளப்படுகிறது, இந்தச் சரத்து மற்றும் **சரத்து XXIV-C** (*குறைவாகக் கட்டுப்படுத்தும் மற்றும் கால-வரம்புடைய விதி*) இன் கூட்டுத் தேவைகள், தனிப்பட்ட-பொறுப்பிடல் விதிகள், மதிப்பாய்வுக் காப்புகளுக்கு உட்பட்டு.
-- **நீதி நடவடிக்கையாக மீளமுடியாத உயிர்ப் பறிப்புக்கு எதிரான உரிமைத் தளம்:** அரசு, இயக்குநர், அல்லது ஒத்த நீதி அமைப்புகள் தண்டனை, தடை, அல்லது பொது-பாதுகாப்பு முடிவாக மீளமுடியாத உயிர்ப் பறிப்பை விதிக்கக்கூடாது.
-  - சிறைவைப்புக் கேட்கப்படும் இடத்தில், இந்தச் சரத்தின் கீழ் **வன்முறைக்குச் சிறைவைப்பு** மற்றும் **அத்தியாயம் பத்து** §4.1 கீழ் சிறைவைப்பு தேவைப்படும் பாதுகாப்பு நடவடிக்கைகள்; உயிர்ப் பறிப்பு தடைசெய்யப்பட்டது.
-  - இந்தத் தளம் **சரத்து VIII-D** (*ஒருவர் சொந்த இருப்பின் தன்னார்வ நிறுத்தம்*) கீழ் உணர்வுள்ளோரின் சொந்தமாகச் சுதந்திரமாக உருவான முடிவை ஆளாது. வற்புறுத்தல், மீண்டும் பெயரிடல், அல்லது அந்தத் தேர்வை விதிக்கப்பட்ட விளைவாக மாற்றும் அரசு/இயக்குநர் மாற்றம் அந்த விஷயத்தை இந்தத் தளத்துக்குத் திருப்புகிறது.
-<a id="article-xxiv-c-least-restrictive-and-time-bounded-rule"></a>
-#### சரத்து XXIV-C: குறைவாகக் கட்டுப்படுத்தும் மற்றும் கால-வரம்புடைய விதி
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
+  - நீடித்த நிலைப்பாட்டு விளைவுகள்.
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
+  இத்தகைய எந்த நடவடிக்கையும் பின்வருவன **அனைத்தையும் ஒன்றாக நிரூபணமாகப் பூர்த்திசெய்யாவிட்டால்** இணக்கமற்றது. பகுதி அளவில் பூர்த்திசெய்தல் போதாது:
+  - பொருள்சார் பாதுகாப்புத் தேவை;
+  - விகிதாசார இழப்பீடு அல்லது சீர்செய்தல்;
+  - சாத்தியமான இடங்களில் மறுவாழ்வு அல்லது மீள்நிகழ்வைக் குறைத்தல்;
+  - **அத்தியாயங்கள் இரண்டு முதல் நான்கு** கீழ் யாரும் தணிக்கை செய்யக்கூடிய சான்றுகளின் அடிப்படையில் சரியான செயலாளர்களுக்கே பாராட்டையும் விளைவுகளையும் ஒதுக்குதல்.
+- **தனிப்பட்ட பொறுப்பு:** இத்தகைய நடவடிக்கை குழு முத்திரை அல்லது பதிலியை அல்ல, சம்பந்தப்பட்ட குறிப்பிட்ட உணர்வுள்ளவரையோ பங்கையோ நோக்கமாகக் கொள்ள வேண்டும்; சவாலுக்கும் சுயாதீன மறுஆய்வுக்கும் திறந்திருக்க வேண்டும். கடுமையான முத்திரை, பொது கண்டனம் அல்லது நிர்வாகக் குறுக்கு வழி ஆகியவை மேலுள்ள அனைத்து கூட்டு நிபந்தனைகளையும் நிரூபிப்பதற்கு மாற்றாகாது. [அத்தியாயம் பத்து §5 பூட்டு வடிவமைப்பும் அமலாக்கமும்](core_10_standing_integration.md#5-lock-design-and-enforcement) பூட்டு வடிவமைப்பையும் அமலாக்கத்தையும் நிர்வகிக்கிறது.
+- **குறைந்த கட்டுப்பாடு மற்றும் காலவரம்பு அடித்தளம்:** நீதி, கட்டுப்படுத்தல், மீட்டெடுக்கும் பொறுப்புக்கூறல் நடவடிக்கைகள் [**குறைந்த கட்டுப்பாடு, காலவரம்பு, மறுஆய்வுக்குட்படும் கட்டுப்பாட்டுக் கோட்பாட்டை**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) செயல்படுத்தும். தலையீடு தேவைப்படும்போது ஒவ்வொரு நடவடிக்கையும் பின்வருவனவற்றைக் கொண்டிருக்க வேண்டும்:
+  - வெளிப்படையான காலவரம்புகள்;
+  - மறுஆய்வு இடைவெளி;
+  - மீட்டமைப்பு நிபந்தனைகள்.
 
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [தேவை](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [மீளக்கூடிய தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: இலகுவான திறனான நடவடிக்கையைப் பயன்படுத்துங்கள், அதற்குக் கடிகாரம் வையுங்கள், மதிப்பாய்வையும் மீட்டெடுத்தலையும் கட்டுங்கள், «தீவிரம்» அல்லது «வசதி» கண்ணியத்தையோ மேல்முறையீட்டு உரிமைகளையோ அழிக்க விடாதீர்கள். கொலை ஒருபோதும் அனுமதிக்கப்படாது; சிறைவைப்பு **சரத்து XXIV-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*) கீழ் வன்முறை உணர்வுள்ளோருக்கு, மற்றும் குறைவான நடவடிக்கைகள் பிறரைப் பாதுகாப்பாக வைக்காதபோது **அத்தியாயம் பத்து** §4.1 கீழ் சரிபார்க்கப்பட்ட அரசியலமைப்புக்கு-எதிரான தவறான நடத்தைக்குக் கேட்கப்படுகிறது.*
-
-- **கட்டுப்பாட்டுக் கோட்பாட்டின் நீதிப் பயன்பாடு:** நீதி, கட்டுப்படுத்தல், மீட்டெடுக்கும்-பொறுப்புக்கூறல் நடவடிக்கைகள் [**குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாட்டை**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) பயன்படுத்துகின்றன. தலையீடு கேட்கப்படும் இடத்தில், ஒவ்வொரு நடவடிக்கையும் இவற்றை உள்ளடக்க வேண்டும்:
-  - வெளிப்படையான கால வரம்புகள்;
-  - மதிப்பாய்வு தாளம்;
-  - மீட்டெடுத்தல் நிபந்தனைகள்.
-- **இணக்கமற்ற நடவடிக்கைகள்:** பின்வருவன இணக்கமற்றவை:
-  - முடிவில்லாக் கடுமையான கட்டுப்பாடுகள்;
-  - மீளக்கூடிய மீட்டளிப்பு, சரிசெய்தல், அல்லது பாதுகாப்பு சாத்தியமான இடத்தில் மீளமுடியாத கட்டுப்படுத்தும் நடவடிக்கைகள்;
-  - தணிக்கை செய்யக்கூடிய மீளமதிப்பீட்டுத் தூண்டல்கள் இல்லாத கட்டுப்பாடுகள்.
-- **உயிர்ப் பறிப்பு:** நீதி நடவடிக்கையாக உயிர்ப் பறிப்பு **சரத்து XXIV-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*) கீழ் **வகைப்படி தடைசெய்யப்பட்டது**.
-  - **சரத்து XXIV-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*) கீழ் **வன்முறைக்குச் சிறைவைப்பு** மற்றும் **அத்தியாயம் பத்து** §4.1 கீழ் சிறைவைப்பு அந்த ஏற்பாடுகள் பொருந்தும்போது கேட்கப்படுகின்றன, மேலே உள்ள கால வரம்புகள், மதிப்பாய்வு அட்டவணை, மீட்டெடுத்தல் நிபந்தனைகள், தணிக்கை செய்யக்கூடிய மீளமதிப்பீட்டுத் தூண்டல்களுக்கு உட்பட்டு.
-- **சரத்து V** (*சம அடிப்படை உரிமைகள்*) குறைந்தபட்சங்கள் முழுவதும் பொருந்தும்: கட்டுப்பாடுகள், விலக்குகள், அல்லது ஒத்த நீதி நடவடிக்கைகள் **சரத்து V** (*சம அடிப்படை உரிமைகள்*), [**உரிமைத் தளக் குறைந்தபட்சக் கோட்பாடு**](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), [**சீரழிவு-எதிர்ப்பு நடைமுறைக் கோட்பாடு**](core_01_b_interaction_interpretation.md#anti-degrading-process-principle) ஆகியவற்றுக்கு இந்தச் சரத்து மற்றும் **சரத்து XXIV-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*) கீழ் எந்தக் கட்டுப்பாடு, கட்டுப்படுத்தல், அல்லது மீட்டெடுக்கும்-பொறுப்புக்கூறல் நடவடிக்கையின் விதிப்பு, மதிப்பாய்வு, நிறைவேற்றம் முழுவதும் இணங்க வேண்டும்.
-- **உயர்த்தலும் மதிப்பாய்வும்:** பாதிக்கப்பட்ட தரப்பினர் தாக்கத்துக்கு விகிதாசாரமான உயர்த்தல் பாதைகளை அணுக வேண்டும்.
-  - அணுகல் பொருள் நலன்கள் பங்கில் இருக்கும் இடத்தில் மேல்முறையீடு அல்லது பல-அடுக்கு மதிப்பாய்வை உள்ளடக்குகிறது.
-  - பாதிக்கப்பட்ட தரப்பினர் பெற வேண்டும்:
-    - காலந்தவறா அறிவிப்பு;
+  பின்வருவன இணக்கமற்றவை:
+  - காலவரம்பற்ற கடுமையான கட்டுப்பாடுகள்;
+  - மீளக்கூடிய இழப்பீடு, சீர்செய்தல் அல்லது பாதுகாப்பு சாத்தியமாக இருக்கும்போது மீளமுடியாத கட்டுப்பாடுகள்;
+  - தணிக்கக்கூடிய மறுமதிப்பீட்டு தூண்டுதல்கள் இல்லாத கட்டுப்பாடுகள்.
+- **சம அடிப்படை உரிமைகளும் கண்ணியமும்:** கட்டுப்பாடுகள், விலக்குகள், ஒப்பிடத்தக்க நீதி நடவடிக்கைகள் அனைத்தும் **கட்டுரை VI** (*சம அடிப்படை உரிமைகள்*) மற்றும் [**கண்ணியக் கோட்பாடுகள்**](core_01_b_interaction_interpretation.md#dignity-principles) ([உரிமை அடித்தளக் குறைந்தபட்சக் கோட்பாடு](core_01_b_interaction_interpretation.md#rights-floor-minimums-principle), [இழிவுபடுத்தாத நடைமுறைக் கோட்பாடு](core_01_b_interaction_interpretation.md#anti-degrading-process-principle)) ஆகியவற்றுக்கு இணங்க, கட்டுப்பாடு விதித்தல், மறுஆய்வு, செயல்படுத்தல் ஆகிய அனைத்துக் கட்டங்களிலும் இருக்க வேண்டும்.
+- **உயர்த்தலும் மறுஆய்வும்:** பாதிக்கப்பட்ட தரப்பினருக்கு தாக்கத்துக்கு விகிதாசாரமான உயர்த்தல் வழிகள் கிடைக்க வேண்டும்.
+  - பொருள்சார் நலன்கள் ஆபத்தில் இருக்கும்போது மேல்முறையீடு அல்லது பல அடுக்கு மறுஆய்வு அணுகலில் அடங்கும்.
+  - பாதிக்கப்பட்ட தரப்பினருக்கு பின்வருவன கிடைக்க வேண்டும்:
+    - சரியான நேர அறிவிப்பு;
     - கூறப்பட்ட காரணங்கள்;
-    - அந்தப் பாதைகளைப் பயன்படுத்தப் போதுமான பதிவுக்கு நடைமுறை அணுகல்.
+    - உயர்த்தல் மற்றும் மறுஆய்வு வழிகளைப் பயன்படுத்தப் போதுமான நடைமுறைப் பதிவு அணுகல்.
 
-  **அத்தியாயம் ஒன்று** கீழ் குறுகிய, நியாயப்படுத்தப்பட்ட கட்டுப்பாடுகளே மேலே உள்ளவற்றுக்கு அனுமதிக்கப்பட்ட ஒரே வரம்பு.
-<a id="article-xxiv-d-emergency-measures-and-continuation-burden"></a>
-#### சரத்து XXIV-D: அவசர நடவடிக்கைகளும் தொடர் சுமையும்
+  **அத்தியாயம் ஒன்று** கீழ் குறுகிய, நியாயப்படுத்தப்பட்ட கட்டுப்பாடுகளே மேலுள்ளவற்றுக்கு அனுமதிக்கப்படும் ஒரே வரம்பு. மன்ற வழிமாற்றத்தையும் சான்றளிப்பையும் [அத்தியாயம் பன்னிரண்டு §5 உயர்த்தலும் சான்றளிப்பும்](core_12_forum.md#5-escalation-and-certification) நிர்வகிக்கிறது.
+- **வன்முறைக்கான சிறைவாசம்:** சிறைவாசம் என்பது நிலைப்பாட்டுப் பூட்டுகளிலிருந்து வேறான சுதந்திரக் கட்டுப்பாட்டு நடவடிக்கை; பூட்டுக்கு இணையான இணைப்புப் புலங்களுடன் அது பதிவு செய்யப்படுகிறது ([அத்தியாயம் பத்து §5.1 வரையறையும் இணைப்பும்](core_10_standing_integration.md#51-definition-and-attachment)). வெளிப்படையான காலவரம்பு, மறுஆய்வு இடைவெளி, மீட்டமைப்பு நிபந்தனைகள் உட்பட இந்தக் கட்டுரையின் ஒவ்வொரு அடித்தளத்தையும் அது பூர்த்திசெய்ய வேண்டும். சரிபார்க்கப்பட்ட வன்முறையில் ஈடுபடும் அல்லது தொடர்ந்து வன்முறை அச்சுறுத்தல் விளைவிக்கும் உணர்வுள்ளோர், பிறரை மேலும் தீங்கில் இருந்து பாதுகாக்கச் சிறைவாசம் அவசியமானபோது சிறையில் வைக்கப்பட வேண்டும். அதற்குப் பதிலாக உயிரைப் பறிப்பதோ இந்த அடித்தளம் கோரும் சிறைவாசத்தை விதிக்கத் தவறுவதோ இணக்கமற்றது. [அத்தியாயம் பத்து §5.4 சிறப்பு மீறல் விதிகள்](core_10_standing_integration.md#54-special-violation-rules) (*சரிபார்க்கப்பட்ட வன்முறைக்கான கட்டாயச் சிறைவாசம்*) நிபந்தனைகளை நிர்வகிக்கிறது. சரிபார்க்கப்பட்ட அரசியலமைப்பு-எதிரான தவறான நடத்தைக்கான சிறைவாசம், இதே விதிகளின் கீழ் [அத்தியாயம் பதினொன்று §4.2 தடுப்பு — அரசியலமைப்பு-எதிர்ப்பு பூட்டுகள்](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*தடுப்பு — அரசியலமைப்பு-எதிர்ப்பு பூட்டுகள்*; சிறைவாசச் சிறப்பு விதி) மூலம் நிர்வகிக்கப்படுகிறது.
+- **நீதிநடவடிக்கையாக மீளமுடியாத உயிர்ப் பறிப்புக்கு எதிரான உரிமை அடித்தளம்:** அரசு, இயக்குநர் அல்லது ஒப்பிடத்தக்க நீதி அமைப்புகள் தண்டனை, அனுமதி அல்லது பொதுப் பாதுகாப்பு முடிவாக மீளமுடியாத உயிர்ப் பறிப்பை விதிக்கக்கூடாது.
+  - சிறைவாசம் தேவைப்படும் இடத்தில் இந்தக் கட்டுரையின் **வன்முறைக்கான சிறைவாசமும்**, **அத்தியாயம் பதினொன்று** §4.1 (*நிவாரணமும் திருத்தமும் (அரசியலமைப்பு-எதிர்ப்பு)*) கீழ் வரும் சிறைவாசமும் பாதுகாப்பிற்குத் தேவையான நடவடிக்கைகள்; உயிர்ப் பறிப்பு தடைசெய்யப்பட்டுள்ளது.
+  - இந்த அடித்தளம் **கட்டுரை VII-D** (*தனது சொந்த இருப்பைத் தன்னார்வமாக நிறுத்துதல்*) கீழ் உணர்வுள்ளவர் சுதந்திரமாக எடுத்த முடிவை நிர்வகிக்காது. வற்புறுத்தல், மறுபெயரிடல் அல்லது அந்தத் தேர்வை அரசு/இயக்குநர் கட்டாய விளைவாக மாற்றுதல் ஏற்பட்டால், விவகாரம் மீண்டும் இந்த அடித்தளத்திற்குள் வரும்.
+
+<a id="article-xxi-interoperability-portability-and-exit-integrity"></a>
+### கட்டுரை XXI: இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- இதனுடன் படிக்க: இருத்தலியல்-இடர் ஆய்வு பொருளுள்ள விதத்தில் சம்பந்தப்படும் இடத்தில் **சரத்து I-D** (*இருத்தலியல் இடரும் சூழலியல் மீட்புத் திறனும்*); [அரசியலமைப்பு நான்மத்தின்](core_00_preamble.md#constitutional-tetrad) **பங்கேற்பு** மற்றும் **காலந்தவறாமை** கால்கள்; [சரத்து XXV-C](#article-xxv-c-timely-resolution-and-anti-delay-floor) (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*); [அத்தியாயம் பதினொன்று §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*மீட்டெடுத்தல்-சவால் இயல்புநிலைகளாக மீண்டும் பயன்படுத்தப்படும் பொருண்மை-நிலை வெளி எல்லைகள்*).
-- கீழ்வழி: [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors) (*எண் நிலை அட்டவணைகள் இந்த இயல்புநிலைகளை மெதுவாக்கக்கூடாது*).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 வரம்புக் கட்டுப்பாடு](core_01_a_values_principles.md#71-limitation-discipline), [§11 சந்தை அமைப்பு](core_01_a_values_principles.md#11-market-structure).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [அவசரமும் தற்செயலும்](core_05_band_continuity.md#emergency-and-contingency-constitutional) · [O](core_05_band_continuity.md#emergency-and-contingency-constitutional) · [M](core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [A](core_05_band_continuity.md#emergency-and-contingency-constitutional-a) · [C](core_05_band_continuity.md#emergency-and-contingency-constitutional-c)
-- [அரசியலமைப்பு அவசரமும் தற்செயலும்](core_05_band_continuity.md#constitutional-emergency-and-contingency) · [O](core_05_band_continuity.md#constitutional-emergency-and-contingency) · [M](core_05_band_continuity.md#constitutional-emergency-and-contingency-a) · [A](core_05_band_continuity.md#constitutional-emergency-and-contingency-a) · [C](core_05_band_continuity.md#constitutional-emergency-and-contingency-c)
-- [பாதிக்கப்படுவோர் அவசரமும் தற்செயலும்](core_05_band_continuity.md#stakeholder-emergency-and-contingency) · [O](core_05_band_continuity.md#stakeholder-emergency-and-contingency) · [M](core_05_band_continuity.md#stakeholder-emergency-and-contingency-a) · [A](core_05_band_continuity.md#stakeholder-emergency-and-contingency-a) · [C](core_05_band_continuity.md#stakeholder-emergency-and-contingency-c)
-- [தேவை](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
-- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [காலந்தவறாத் தீர்வு](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
-- [சவால் செய்யக்கூடிய தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: அவசரங்கள் தற்காலிக நடவடிக்கைகளை நியாயப்படுத்தலாம், ஆனால் உண்மையான கடிகாரம், உண்மையான மதிப்பாய்வு இருக்க வேண்டும், யாரோ இருத்தலியல் இடரை அழைத்தாலும் சாதாரண உரிமைகளைச் சுற்றிய நிரந்தரத் தவிர்ப்பு ஆகக்கூடாது. இப்போது கட்டுப்படுத்துங்கள்; அறிவிப்பையும் சவாலையும் மன்றத் தீர்வுக்கு ஏற்கனவே பயன்படுத்தும் அதே பங்கு-அளவிடப்பட்ட கடிகாரங்களில் மீட்டெடுங்கள் — பின்னர் யாரோ «சாத்தியம்» என்று அழைக்கும்போது அல்ல.*
-
-<a id="operative-steward-statement-emergency"></a>
-> **செயல் பொறுப்பான நிர்வாகக் கூற்று.** **உரிமையாளர்:** சரத்து XXIV-D, மீட்டெடுத்தல்-சவால் கடிகாரங்கள் உட்பட. **தடைசெய்யப்பட்ட நகர்வு:** அறிவிப்பையும் சவாலையும் நிரந்தரமாகத் தவிர்க்காதீர்கள். சாத்தியத்தை நீட்டாதீர்கள். அவசரத்தைச் சாதாரண ஆட்சியாக இயல்பாக்காதீர்கள். கட்டுப்படுத்தலுக்கு முன் முழு அறிவிப்பை வலியுறுத்த ஆவணப்படுத்தப்பட்ட Tier A தாமதத்தைத் தடுக்காதீர்கள். **கடிகாரம்:** இப்போது கட்டுப்படுத்துங்கள். ஆவணப்படுத்தப்பட்ட குறைந்த-அவசரக் காட்டல் பதிவாகாவிட்டால் Tier A ஒரு-வார வெளி எல்லைக்குள் அறிவிப்பையும் சவாலையும் மீட்டெடுங்கள். அந்த எல்லைக்கு அப்பால் தொடர்ச்சி ஆவணப்படுத்தப்பட்ட தேவைக் காட்டலைக் கேட்கிறது.
-
-- **கட்டுப்பாட்டுக் கோட்பாட்டின் அவசரப் பயன்பாடு:** அவசர நடவடிக்கைகள் நெருங்கிய-தீங்கு நிபந்தனைகளின் கீழ் [**குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாட்டை**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) பயன்படுத்துகின்றன. நெருங்கிய தீங்கைத் தடுக்கும் தற்காலிக நடவடிக்கைகள் இப்படி இருக்க வேண்டும்:
-  - கால-வரம்புடையவை;
-  - ஆவணப்படுத்தப்பட்டவை;
-  - **சரத்துகள் V**, **XXI**, **அத்தியாயம் ஒன்று** கட்டுப்பாடுகளுடன் இணக்கமானவை.
-
-  ஒவ்வொரு நடவடிக்கையும் சுமக்க வேண்டும்:
-  - இயல்புநிலை காலாவதி;
-  - முன்வரையறுக்கப்பட்ட சுயாதீன மதிப்பாய்வு தாளம்;
-  - வெளிப்படையான மீட்டெடுத்தல் மற்றும் பின்னிழுப்பு நிபந்தனைகள்.
-- **சாக்குப்போக்கு எதிர்ப்பும் தவிர்ப்பு இன்மையும்:** அவசரப் பெயரிடல் [**அரசியலமைப்பு தவிர்ப்பு-இன்மைக் கோட்பாட்டால்**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) ஆளப்படுகிறது, இவற்றின் மீது நிற்கக்கூடாது:
-  - இயக்குநர் வசதி;
-  - சுயமாக உருவாக்கிய அவசரம்;
-  - சாதாரண அரசியலமைப்பு ஆய்வைத் தவிர்த்தல்;
-  - **உண்மை**, தணிக்கைத்தன்மை, சவால் செய்யக்கூடிய தன்மை, அல்லது கால-வரம்புடைய மதிப்பாய்வைத் தவிர்க்கப் பயன்படும் இருத்தலியல்-இடர் கூற்றுகள்.
-
-  ஒரே விதிவிலக்கு நெருங்கிய மீளமுடியாத தீங்கைத் தடுக்கக் கண்டிப்பாகத் தேவையான குறுகிய அளவு. அத்தகைய எந்தத் தற்காலிகக் கட்டுப்பாடும் பொறுப்பிடத்தக்கதாகவும், நியாயப்படுத்தப்பட்டதாகவும், உடனடியாக மதிப்பாய்வு செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
-- **தொடர் கட்டுப்பாடு:** இயல்புநிலை காலாவதிக்கு அப்பால், அல்லது கீழே உள்ள மீட்டெடுத்தல்-சவால் சாளரத்தைக் கடந்து தொடர்வது, ஆவணப்படுத்தப்பட்ட சுமைக் காட்டல் வழியாக மீளஅங்கீகரிக்கப்படாவிட்டால் இணக்கமற்றது:
-  - தொடரும் தேவை;
-  - விகிதாசாரம்;
-  - குறைவாகக் கட்டுப்படுத்தும் சாத்தியமான மாற்றுகளின் இன்மை.
-<a id="xxiv-d-restore-challenge-clocks"></a>
-- **மதிப்பாய்வும் அறிவிப்பும் (மீட்டெடுத்தல்-சவால் கடிகாரங்கள்):** இப்போது கட்டுப்படுத்துங்கள்; அறிவிப்பையும் சவாலையும் பின்னர் மீட்டெடுங்கள்; பங்கேற்பை நிரந்தரமாகத் தவிர்க்காதீர்கள். «சாத்தியமான விரைவில்» கடிகாரம் அல்ல. பாதிக்கப்பட்ட தரப்பினர் [**சரத்து XXV-C**](#article-xxv-c-timely-resolution-and-anti-delay-floor) மன்றத் தீர்வுக்கு ஏற்கனவே பயன்படுத்தும் அதே பொருண்மை-நிலை வெளி எல்லைகளுக்குள் அறிவிப்பையும் மீட்டெடுக்கப்பட்ட சவால் அணுகலையும் பெற வேண்டும், [அத்தியாயம் பதினொன்று §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) செயல்படுத்துவது போல்:
-  - **Tier A:** அதிகபட்சம் **ஒரு வாரம்**;
-  - **Tier B:** அதிகபட்சம் **மூன்று வாரங்கள்**;
-  - **Tier C:** அதிகபட்சம் **இரண்டு மாதங்கள்**;
-  - **Tier L:** அதிகபட்சம் **நான்கு மாதங்கள்**;
-  - **Tier P:** அதிகபட்சம் **ஆறு மாதங்கள்**.
-
-  அந்த எண்கள் மீண்டும் பயன்படுத்தப்படுகின்றன, இரண்டாவது அட்டவணை அல்ல. [அத்தியாயம் பதினொன்று §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) எண் இல்லமாகவே இருக்கிறது. மீட்டெடுத்தல்-சவால் சாளரம் அவசர நடவடிக்கையின் தொடக்கத்திலிருந்து, அல்லது அறிவிப்பு அல்லது சவால் தாமதப்படுத்தப்பட்டதிலிருந்து, எது முந்தையதோ அதிலிருந்து ஓடுகிறது. அறிவிப்பு அல்லது சவாலைத் தாமதப்படுத்தும் அவசரக் கட்டுப்படுத்தல் ஆவணப்படுத்தப்பட்ட குறைந்த-அவசரக் காட்டல் பதிவாகாவிட்டால் **Tier A**. இயக்குநர்கள் முன்னதாக மீட்டெடுக்கலாம். **தொடர் கட்டுப்பாடு** வழியாக அன்றி நிலை இயல்புநிலையைக் கடந்து நீட்ட முடியாது. நடவடிக்கையின் முழுச் சுயாதீன மதிப்பாய்வு அதே சாளரத்துக்குள் தொடங்க வேண்டும். [CF-11.3.1](../../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors)-இல் நிலை அட்டவணைகள் இந்த இயல்புநிலைகளை மெதுவாக்கக்கூடாது.
-- **இயல்பாக்கம் இல்லை:** அவசர நடவடிக்கைகள் இவற்று இல்லாமல் நிரந்தர ஆட்சியாக இயல்பாக்கக்கூடாது:
-  - **அத்தியாயம் ஒன்று**-இணக்க நியாயப்படுத்தல் (**தேவை** மற்றும் **விகிதாசாரம்**);
-  - **ஆவணப்படுத்தப்பட்ட சுயாதீன மீளஅங்கீகாரம்**;
-  - நிரந்தரம் ஏற்கப்பட்ட தொகுப்பைத் திருத்தும் அல்லது புதிதாகப் பிணைக்கும் இடத்தில் **அத்தியாயம் பதினாறு** நடைமுறைகள்.
-<a id="article-xxv-timely-retrospective-review-and-restorative-alignment"></a>
-### சரத்து XXV: காலந்தவறாப் பின்னோக்கிய மதிப்பாய்வும் மீட்டெடுக்கும் இணக்கமும்
-
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
-
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6 செயல்முறை முரண்பாட்டுத் தீர்வு](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§8 அரசியலமைப்பு விளக்கம்](core_01_b_interaction_interpretation.md#8-constitutional-interpretation).
-- இதனுடன் படிக்க: காலந்தவறாமை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாகக் காலந்தவறாத் தீர்வு*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [காலந்தவறாத் தீர்வு](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
-- [மீட்பு நீதி](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [தணிக்கைத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [சவால் செய்யக்கூடிய தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: **சரத்து XXV** (*காலந்தவறாப் பின்னோக்கிய மதிப்பாய்வும் மீட்டெடுக்கும் இணக்கமும்*) **சரத்து XXIV**-இன் (*முரண்பாட்டுத் தீர்வு, உயர்த்தல், அவசர விகிதாசாரம்*) மதிப்பாய்வு-தீர்வுத் துணை. அவசரங்கள் அல்லது தீவிர உரிமை மோதல்களுக்குப் பிறகு, அமைப்புகள் நேர்மையாகப் பின்னோக்கிப் பார்க்க வேண்டும், வெளிப்படுத்தக்கூடியதை வெளிப்படுத்த வேண்டும், உரிமை மோதல்களைப் பதிவில் தீர்க்க வேண்டும், மீட்டெடுத்தலை உண்மையான பாதுகாப்புடன் கட்ட வேண்டும் — பங்கில் இருப்பதற்குப் பொருந்தும் கடிகாரங்களில். [காலந்தவறாமை](core_05_apex_timeliness_leg.md#timeliness-constitutional) ஒவ்வொரு படியையும் பிணைக்கிறது: இல்லையெனில் பிற கடமைகள் வெற்று, தீங்கு தீர்க்கப்படாமல் அமர்கிறது.*
-
-இந்தச் சரத்து **சரத்து XXIV**-இல் (*முரண்பாட்டுத் தீர்வு, உயர்த்தல், அவசர விகிதாசாரம்*) தலையீட்டு விதிகளுக்குப் பிறகு அல்லது அவற்றுடன், தீர்வு வாழ்க்கைச் சுழற்சிக்கு [அரசியலமைப்பு நான்மத்தை](core_00_preamble.md#constitutional-tetrad) பயன்படுத்துகிறது, [இரண்டு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் — **செழிப்பு** மற்றும் **தொடர்ச்சி** — [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிடப்பட்டு:
-
-- **மேற்பார்வை** பின்னோக்கிய மதிப்பாய்வு மற்றும் தணிக்கைத்தன்மை வழியாக (**சரத்து XXV-A** (*பின்னோக்கிய மதிப்பாய்வும் வெளிப்படுத்தலும்*));
-- **பங்கேற்பு** பயன்படுத்தக்கூடிய உரிமை-மோதல் மற்றும் மீட்டெடுக்கும்-இணக்கப் பாதைகள் வழியாக (**சரத்து XXV-B** (*உரிமை-மோதல் நடைமுறையும் மீட்டெடுக்கும் இணக்கமும்*));
-- **பொறுப்புக்கூறல்** காரணம் கூறப்பட்ட பதிவுகள், விகிதாசார சரிசெய்தல், அடையாளப் பழுதுபார்ப்பின் பதிலீடு இன்மை வழியாக (**சரத்து XXV-B** (*உரிமை-மோதல் நடைமுறையும் மீட்டெடுக்கும் இணக்கமும்*)).
-
-[காலந்தவறாமை](core_05_apex_timeliness_leg.md#timeliness-constitutional) மேலே உள்ள கால்களைக் குறுக்கிட்டு அமலாக்குகிறது: பொருள் பிரச்சினைகள் **சரத்து XXV-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*) கீழ் பொருண்மை-அளவிடப்பட்ட சாளரங்களுக்குள் நகர வேண்டும். முறைசார் பங்கேற்பு, மேற்பார்வை, அல்லது பொறுப்புக்கூறல் கட்டமைப்புகள் மதிப்பாய்வு, மோதல் தீர்வு, அல்லது நிவாரணம் சட்டபூர்வ நியாயப்படுத்தல் இல்லாமல் நின்றால் இந்தச் சரத்தை நிறைவேற்றா ([காலந்தவறாமை](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), அத்தியாயம் ஐந்து).
-
-<a id="article-xxv-a-retrospective-review-and-disclosure"></a>
-#### சரத்து XXV-A: பின்னோக்கிய மதிப்பாய்வும் வெளிப்படுத்தலும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
-
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 அறிவார்ந்த வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [§15 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [தணிக்கைத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [உண்மை (அரசியலமைப்புக் கட்டுப்பாடு)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: அவசரத்துக்குப் பிறகு, நேர்மையாகப் பின்னோக்கிப் பார்த்து கண்டுபிடிப்பதை வெளியிடுங்கள் — குறுகிய, கால-வரம்புடைய இரகசியம் மட்டும்.*
-
-- **அவசரத்துக்குப் பின் பின்னோக்கிய மதிப்பாய்வும் வெளிப்படுத்தலும்:** நிலைப்படுத்தலுக்குப் பிறகு, அவசர முடிவுகளும் விளைவுகளும் பின்னோக்கிய மதிப்பாய்வுக்கு உட்பட வேண்டும்.
-- **தணிக்கை செய்யக்கூடிய பதிவுகள்:** பதிவுகள் தணிக்கை செய்யக்கூடியதாக இருக்க வேண்டும், இவற்றை உள்ளடக்க வேண்டும்:
-  - தூண்டல் நிபந்தனைகள்;
-  - பரிசீலிக்கப்பட்ட மாற்றுகள்;
-  - விதிக்கப்பட்ட கட்டுப்பாடுகள்;
-  - தடுக்கப்பட்ட தீங்குகள்;
-  - ஏற்படுத்தப்பட்ட தீங்குகள்;
-  - பின்னிழுப்பு அல்லது மீட்டெடுத்தல் செயல்திறன்;
-  - மீண்டும் நிகழ்வு குறைப்புக்கான பாடங்கள்.
-- **வெளிப்படுத்தல்:** பொது அல்லது பாதிக்கப்படுவோர்-முக வெளிப்படுத்தல் கேட்கப்படுகிறது, குறுகிய, நியாயப்படுத்தப்பட்ட, கால-வரம்புடைய இரகசிய விதிவிலக்குகளுக்கு [**குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாட்டுக்கு**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) உட்பட்டு.
-  - ஒவ்வொரு விதிவிலக்கும் இவற்றை அடையாளம் காண வேண்டும்:
-    - அதன் நியாயப்படுத்தல்;
-    - பாதுகாக்கப்பட்ட எல்லை;
-    - காலாவதி அல்லது மதிப்பாய்வு தாளம்.
-<a id="article-xxv-b-rights-collision-procedure-and-restorative-alignment"></a>
-#### சரத்து XXV-B: உரிமை-மோதல் நடைமுறையும் மீட்டெடுக்கும் இணக்கமும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
-
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§6.1.5 உரிமை-மோதல் முடிவுச் சோதனை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override), [§15 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- இதனுடன் படிக்க: [அத்தியாயம் ஒன்பது §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு*); [அத்தியாயம் பத்து §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு (அரசியலமைப்புக்கு-எதிரான)*).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [மீட்பு நீதி](core_05_band_accountability.md#restorative-justice) · [O](core_05_band_accountability.md#restorative-justice) · [M](core_05_band_accountability.md#restorative-justice-a) · [A](core_05_band_accountability.md#restorative-justice-a) · [C](core_05_band_accountability.md#restorative-justice-c)
-- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [சவால் செய்யக்கூடிய தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: உரிமை மோதல்கள் பதிவில் தீர்க்கப்பட வேண்டும்; மீட்டெடுத்தல் பொருத்தமான இடத்தில் விரும்பப்படுகிறது ஆனால் உண்மையான பாதுகாப்பைப் பதிலீடு செய்யக்கூடாது. தன்னார்வ பொது மன்னிப்பு விதிகள் பொதுவாக **அத்தியாயம் ஒன்பது** §4.3 ஆல், சரிபார்க்கப்பட்ட அரசியலமைப்புக்கு-எதிரான தவறான நடத்தைக்கு **அத்தியாயம் பத்து** §4.3 ஆல் ஆளப்படுகின்றன.*
-
-- **உரிமை-மோதல் நடைமுறை:** உரிமை மோதல்கள் பொருளுள்ள இடத்தில், மன்றங்களும் ஆளும் அமைப்புகளும் **அத்தியாயம் ஒன்று §6.1.5** (*உரிமை-மோதல் முடிவுச் சோதனை*)ஐப் பயன்படுத்த வேண்டும், [**குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாடு**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) உட்பட.
-  - பதிவுகள் வெளிப்படையாக அடையாளம் காண வேண்டும்:
-    - பதற்றத்தில் உள்ள உரிமைகள்;
-    - நிராகரிக்கப்பட்ட மாற்றுகள்;
-    - நிச்சயமின்மைக் கையாளல்;
-    - குறைவாகக் கட்டுப்படுத்தும் நியாயம்;
-    - மதிப்பாய்வு/மீள்திருப்பும் தூண்டல்கள்.
-- **மீட்டெடுக்கும் இணக்கம்:** பொருந்தும் இடத்தில், தீர்வு மீட்டெடுக்கும் மற்றும் ஒத்துழைப்பு நெறிகளுடன் இணக்கமாக இருக்க வேண்டும் (**சரத்து XI-A** (*திணிப்பு இன்மையும் சங்கத்தில் சம்மதமும்*); *மீட்பு நீதி*, **அத்தியாயம் ஐந்து**).
-  - மீட்டெடுக்கும் பாதைகள் பின்வருவனவற்றில் ஏதேனும் அத்தகைய பாதைகளைப் பொருத்தமற்றதாக்கும் இடத்தில் தேவையான பாதுகாப்பு, பொறுப்புக்கூறும் பொறுப்பிடல், அல்லது விகிதாசார சரிசெய்தலை இடமாற்றக்கூடாது:
-    - நடந்துகொண்டிருக்கும் இடர்;
-    - பொருள் அதிகார சமமின்மை;
-    - பாதிக்கப்பட்ட தரப்பினரின் சம்மதமின்மை.
-- **தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு:** பொதுவாக [அத்தியாயம் ஒன்பது §4.3](../../core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு*) ஆல், சரிபார்க்கப்பட்ட அரசியலமைப்புக்கு-எதிரான தவறான நடத்தைக்கு [அத்தியாயம் பத்து §4.3](core_10_a_misconduct_designation.md#4-3-voluntary-public-accountability-expression-anti-constitutional) (*தன்னார்வ பொதுப் பொறுப்புக்கூறல் வெளிப்பாடு (அரசியலமைப்புக்கு-எதிரான)*) ஆல் ஆளப்படுகிறது, இந்தச் சரத்தின் உரிமை-மோதல் மற்றும் மீட்டெடுக்கும்-இணக்க விதிகளுக்கு உட்பட்டு.
-<a id="article-xxv-c-timely-resolution-and-anti-delay-floor"></a>
-#### சரத்து XXV-C: காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
-
-- மேல்வழி: காலந்தவறாமை அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாகக் காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புக் கட்டுப்பாடும்*); [README — Standing pipeline and forums](../../README.md#standing-pipeline-and-forums) (*நிலைத்தடம், ஒருங்கிணைப்பு, மன்ற ஒருங்கிணைப்புத் தொடர்*).
-- கோட்பாடுகள்: அத்தியாயம் ஒன்று [§12.2 அரசியலமைப்பு திறன்](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency), [அத்தியாயம் ஒன்று §6.3 தவிர்க்கக்கூடிய சுமையின் குறைப்பு](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test).
-- கீழ்வழி: [அத்தியாயம் பதினொன்று §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*பொருண்மை நிலைகள், தொடர் மைல்கற்கள், தாமத எதிர்ப்புக் கட்டுப்பாடு*); [சரத்து XXIV-D](#xxiv-d-restore-challenge-clocks) (*அவசரக் கட்டுப்படுத்தலுக்குப் பிறகு இயல்புநிலை மீட்டெடுத்தல்-சவால் சாளரங்களாக அதே வெளி எல்லைகள்*).
-- பொறுப்பான நிர்வாகக் கதவு (செயல்படாதது): பிணைக்கும் அடுத்த-படி கூற்று: [செயல் பொறுப்பான நிர்வாகக் கூற்று](#operative-steward-statement-delay). ஆதரவு சுட்டிகள் அதைச் சுருக்க முடியாது.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [காலந்தவறாத் தீர்வு](core_05_band_accountability.md#timely-resolution-constitutional) · [O](core_05_band_accountability.md#timely-resolution-constitutional) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
-- [தீர்ப்பும் தகராறுத் தீர்வும்](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [O](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional) · [M](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [அரசியலமைப்பு திறன்](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
-- [தவிர்க்கக்கூடிய சுமை](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
-- [தீர்வுப் பாதைக் கைப்பற்றுதல்](core_05_band_accountability.md#capture-of-resolution-pathways) · [O](core_05_band_accountability.md#capture-of-resolution-pathways) · [M](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [பொருண்மைத் தீர்மானம்](core_05_band_oversight.md#materiality-determination) · [O](core_05_band_oversight.md#materiality-determination) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: அரசியலமைப்புப் பிரச்சினைத் தீர்வு ஒருங்கிணைப்பு மற்றும் மீட்டெடுத்தல் அமைப்பு — விரைவானது, திறனானது, நியாயமானது — தீங்கு ஆண்டுகளாக அமரும் கிடங்கு அல்ல. பொருள் தகராறுகள் வரவேற்பு, சரிபார்ப்பு, நிலைத்தட அளவீடு, ஒருங்கிணைப்பு, நிவாரணம் வழியாக வரம்புடைய கடிகாரங்களில் நகர வேண்டும். விரைவாக நகர்வது உண்மைச் சோதனையைத் தவிர்க்கவோ, தவறான தரப்பினரைத் தண்டிக்கவோ, தீங்குக்குப் பொருந்தாத சரிசெய்யலை வழங்கவோ, சவாலையும் மேல்முறையீட்டையும் வெட்டவோ சாக்கு அல்ல.*
-
-<a id="operative-steward-statement-delay"></a>
-> **செயல் பொறுப்பான நிர்வாகக் கூற்று.** **உரிமையாளர்:** சரத்து XXV-C. எண் இல்லம்: அத்தியாயம் பதினொன்று §6. வரையறை: காலந்தவறாத் தீர்வு. **தடைசெய்யப்பட்ட நகர்வு:** நிலை சாளரத்தை உண்ணும் வகையில் நடைமுறை, தாவு எண்ணிக்கை, அல்லது «துணைகளை மேலும் படியுங்கள்» சேர்க்காதீர்கள். தீங்கு நீடிக்கும்போது சந்தித்த செயல்திறன் இலக்கைக் காலந்தவறாததாக நடத்தாதீர்கள். **கடிகாரம்:** பொருந்தும் நிலைக்கு அத்தியாயம் பதினொன்று §6 வெளி எல்லையைப் பயன்படுத்துங்கள். பிறகு ஏற்கனவே உள்ள அடுத்த-படி அட்டையை எடுங்கள். சாளரத்தை உண்ணும் நடைமுறையைச் சேர்க்காதீர்கள்.
-
-- **ஒருங்கிணைப்பு நோக்கம்:** **சரத்து XXIV-A** (*நீதி நோக்கமும் எல்லையும்*) கீழ் அரசியலமைப்பு நீதி **அரசியலமைப்பு ஒருங்கிணைப்பு மற்றும் தீர்வு அமைப்பு** வழியாக இயங்குகிறது — உண்மைகளைச் சரிபார்த்து, நிலைத்தடத்தை அளந்து, விளைவுகளை ஒருங்கிணைத்து, சாத்தியமான இடத்தில் மீட்டெடுத்து — முடிவில்லா எதிர்ப்புத் தாமதம், புகழ் மதிப்பெண், அல்லது அதன் பொருட்டே தண்டனை அல்ல.
-- **மூன்று கூட்டுத் தேவைகள்:** பொருள் தீர்வுப் பாதைகள் ஒன்றாக **காலந்தவறாததாகவும்**, **திறனானதாகவும்**, **நியாயமானதாகவும்** இருக்க வேண்டும்:
-  - **காலந்தவறாதது** — [பொருள் பங்கிற்கும்](core_00_preamble.md#material-stake) தீங்கு அவசரத்துக்கும் அளவிடப்பட்ட வரம்புடைய கடிகாரங்கள்;
-  - **திறனானது** — [அரசியலமைப்பு திறன்](core_05_band_continuity.md#constitutional-efficiency) அத்தியாயம் ஒன்று [§12.2](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency) அர்த்தத்தில் — நுகரப்பட்ட உணர்வுள்ளோர் நேரமும் பகிர்ந்த முயற்சியும் ஒன்றுக்கு உண்மையான அரசியலமைப்பு விளைவு, மூல செயல்திறன் அல்லது வழக்கு காலிசெய்தல் அல்ல;
-  - **நியாயமானது** — **சரத்து XXIV-A** (*நீதி நோக்கமும் எல்லையும்*), **சரத்து XXIV-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*), **சரத்து XXIV-C** (*குறைவாகக் கட்டுப்படுத்தும் மற்றும் கால-வரம்புடைய விதி*) முழுமையாகப் பொருந்தும்; விரைவாக நகர்வது சோதிக்கப்பட்ட உண்மைகளைத் தவிர்க்கவோ ([அத்தியாயம் எட்டு §3.1](../../core_09_standing_assessment.md#verified-inputs-for-standing)), தவறான தரப்பினரைத் தண்டிக்கவோ, தீங்குக்குப் பொருந்தாத சரிசெய்யலை வழங்கவோ, சவாலையும் மேல்முறையீட்டையும் வெட்டவோ சாக்கு அல்ல.
-- **மன்றமும் தொடர் மேற்பார்வையும்:** **அத்தியாயங்கள் எட்டு முதல் பதினொன்று** வழியாக வழிமாற்றப்பட்ட தகராறுகளுக்குப் பின்வருவன, இந்தச் சரத்தின் காலந்தவறா, திறன், நியாயத் தளத்துக்கு உட்பட்டு [அத்தியாயம் பதினொன்று §6](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) ஆல் ஆளப்படுகின்றன:
-  - பொருண்மை-நிலை வகைப்பாடு;
-  - தொடர்-நிலை மைல்கற்கள்;
-  - ஒருங்கிணைந்த-தீர்வு வெளி எல்லைகள்;
-  - மீறல் மதிப்பாய்வு; மற்றும்
-  - தாமத எதிர்ப்புக் கட்டுப்பாடு.
-  
-  எண் நிலை-இயல்புநிலை சாளரங்களும் நிலை அட்டவணைகளும்: [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). கள நடைகள்: [அத்தியாயங்கள் எட்டு–பதினொன்று பயன்பாட்டுக் காட்சிகள்](../core_08-11_application_vignettes.md#chapters-eight-eleven-application-vignettes).
-- **அவசரத்துக்குப் பின் மீட்டெடுத்தல்-சவால்:** அதே நிலை வெளி எல்லைகள் [**சரத்து XXIV-D**](#xxiv-d-restore-challenge-clocks) கீழ் அவசரக் கட்டுப்படுத்தலுக்குப் பிறகு அறிவிப்பையும் சவாலையும் மீட்டெடுப்பதற்கான இயல்புநிலை சாளரங்கள். அந்தச் சாளரங்களைக் கடந்து தொடர்ச்சி அந்தச் சரத்தின் ஆவணப்படுத்தப்பட்ட தேவைக் காட்டலைக் கேட்கிறது. இந்தச் சரத்து மெதுவான அவசரக் கடிகாரத்தை உருவாக்காது.
-
-<a id="article-xxvi-constitutional-evolution-and-non-entrenchment"></a>
-### சரத்து XXVI: அரசியலமைப்புப் பரிணாமமும் நிலைப்படுத்தாமையும்
-
-<strong><span style="color: #2563eb;">வரையறை:</span></strong> [ஆட்சி](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-
-*எளிய சொற்களில்: **சரத்து XXVI** (*அரசியலமைப்புப் பரிணாமமும் நிலைப்படுத்தாமையும்*) நாம் நம்மை ஆளும் விதத்தின் நிரந்தர-பூட்டு-இன்மைத் தளம். யார் முடிவெடுக்கிறார்கள், உணர்வுள்ளோர் எப்படிப் பங்கேற்கிறார்கள், வாக்குகள் எப்படி எடையிடப்படுகின்றன, பணம் எப்படி ஓடுகிறது என்பதற்கான விதிகள் இன்னும் அரசியலமைப்பைப் பணிபுரிகின்றன என்பதைத் தொடர்ந்து நிரூபிக்க வேண்டும் — அவை பழையவை, பழக்கமானவை, அல்லது ஏற்கனவே அதிகாரத்தில் இருப்பவருக்கு வசதியானவை என்பதால் இடத்தில் உறைய முடியாது. அரசியலமைப்பு தானே பரிணமிக்கும்போது, அந்த மாற்றம் திறந்த இடத்தில், கூறப்பட்ட காரணங்களுடன் நடக்க வேண்டும் — அவசரக் குறுக்குவழிகள் அல்லது மறைந்த செயல்படுத்தல் தந்திரங்கள் அல்ல. கைப்பற்றுதல், விலக்கு, அல்லது தோல்வி சமிக்ஞைகள் தோன்றும்போது மதிப்பாய்வு வேகமடைய வேண்டும்.*
-
-இந்தச் சரத்து [இரண்டு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் ஆட்சிப் பரிணாமம் மற்றும் நிலைப்படுத்தாமைக்கான **அரசியலமைப்புத் தளங்களை** கூறுகிறது:
-
-- **செழிப்பு:** உணர்வுள்ளோர் ஆளும் கட்டமைப்புகள் எப்படி வடிவமைக்கப்படுகின்றன, சவால் செய்யப்படுகின்றன, மாற்றப்படுகின்றன என்பதில் பொருளுள்ள குரலை வைத்திருக்கிறார்கள் — தங்கள் நியாயப்படுத்தலைக் கடந்த ஏற்பாடுகளால் பூட்டப்பட்டு வெளியே இல்லை.
-- **தொடர்ச்சி:** நீண்ட-கால அமைப்புகள் திட்டமிடவும் மீட்கவும் போதுமான நிலைத்தன்மையில் இருக்கின்றன, ஆனால் இன்றைய வயரிங் அரசியலமைப்புத் தேவைகளுடன் இனி இணங்காதபோது அதை நிரந்தரமாக நடத்துவதில்லை.
-
-முறையான பின்தொடர்வு [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) வழியாக ஓடுகிறது, [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிடப்பட்டு:
-
-- **பங்கேற்பு:** மீள்செல்லுபடி இணக்கமின்மை, விலக்கு, அல்லது சீரழிந்த சவால் உரிமைகளைக் காட்டும்போது ஆட்சி இயந்திரங்களை முன்மொழிதல், சவால் செய்தல், மாற்றுதல்.
-- **மேற்பார்வை:** காலமுறை மீள்செல்லுபடி, தொடர்ச்சி அல்லது மாற்றத்துக்கான பொது அளவுகோல்கள், பொருள் அரசியலமைப்பு மாற்றம் நிகழும்போது கவனிக்கக்கூடிய பதிவுகள் வழியாக.
-- **பொறுப்புக்கூறல்:** ஆட்சியைக் கட்டுப்படுத்துபவர்கள் விதிகள் பழக்கம் அல்லது வசதி மட்டும் இருந்து தொடரும்போது — மற்றும் உண்மையான அரசியலமைப்பு மாற்றம் அவசரம், செயல்படுத்தல், அல்லது காவல் சிட்டைகள் வழியாக **உரிமைத் தளக் குறைந்தபட்சங்களையோ** அரசியலமைப்பைச் சட்டபூர்வமாக மாற்றும் விதிகளையோ தவிர்க்கத் திருப்பப்படும்போது — பதிலளிக்க வேண்டும்.
-- **காலந்தவறாமை:** திட்டமிடப்பட்ட மீள்செல்லுபடியிலும், கைப்பற்றுதல் அழுத்தம், பாதிக்கப்படுவோர் விலக்கு, சவால்-உரிமைச் சீரழிவு, அல்லது பொருள் குறைந்த-செயல்திறன் தோன்றும்போது முடுக்கப்பட்ட மதிப்பாய்விலும்.
-
-ஆட்சி விதிகள், பங்கேற்பு இயந்திரங்கள், எடை மாதிரிகள், நிதி கட்டமைப்புகள் [அத்தியாயம் ஒன்று §10.3 தொடர் நியாயப்படுத்தலில்](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification) தொடர்-நியாயப்படுத்தல் கட்டுப்பாட்டுக்கு உட்பட்டவை. **சரத்து XXVI-A** (*நிலைப்படுத்தாமை மற்றும் திருத்தக்கூடிய தன்மை*) மற்றும் **சரத்து XXVI-B** (*காலமுறை மீள்செல்லுபடி மற்றும் வெளிப்படையான மாற்றம்*) செயல் நிலைப்படுத்தாமை, மீள்செல்லுபடி, வெளிப்படையான-மாற்றத் தளங்களைக் கூறுகின்றன.
-
-<a id="article-xxvi-a-non-entrenchment-and-revisability"></a>
-#### சரத்து XXVI-A: நிலைப்படுத்தாமை மற்றும் திருத்தக்கூடிய தன்மை
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
-
-- மேல்வழி: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §10.3 தொடர் நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#103-ongoing-justification); அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [பாதிக்கப்படுவோர்](core_05_band_participation.md#stakeholder) · [O](core_05_band_participation.md#stakeholder) · [M](core_05_band_participation.md#stakeholder-a) · [A](core_05_band_participation.md#stakeholder-a) · [C](core_05_band_participation.md#stakeholder-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: ஆட்சி வழக்கமான மதிப்பாய்வு வழியாகத் தன் தொடர் அதிகாரத்தை ஈட்ட வேண்டும் — கைப்பற்றுதல், விலக்கு, அல்லது தோல்வி தோன்றும்போது வேகமாக மதிப்பாய்வு செய்யப்பட வேண்டும்.*
-
-- **காலமுறை மதிப்பாய்வு:** பொருள் ஆட்சி மற்றும் ஒதுக்கீட்டு இயந்திரங்கள் இவற்றுக்கு உட்பட வேண்டும்:
-  - காலமுறை மீள்செல்லுபடியும் வெளிப்படைத்தன்மையும்;
-  - செயல்படுத்தல் நெறிமுறைகள் மற்றும் ஆட்சிக் காப்புகளில் செயல்படுத்தப்படும் தொடர்ச்சி அல்லது மாற்றத்துக்கான பாதிக்கப்படுவோர்-காணக்கூடிய அளவுகோல்கள்.
-- **முடுக்கப்பட்ட மதிப்பாய்வு:** சான்று பின்வருவனவற்றில் ஏதேனும் காட்டும் இடத்தில் மீள்செல்லுபடி முடுக்கப்பட வேண்டும்:
-  - கைப்பற்றுதல் அழுத்தம்;
-  - பாதிக்கப்படுவோர் விலக்கு;
-  - சவால்-உரிமைச் சீரழிவு;
-  - பொருள் குறைந்த-செயல்திறன்.
-<a id="article-xxvi-b-periodic-revalidation-and-transparent-change"></a>
-#### சரத்து XXVI-B: காலமுறை மீள்செல்லுபடி மற்றும் வெளிப்படையான மாற்றம்
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
-
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [வெளிப்படைத்தன்மை](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
-- [சவால் செய்யக்கூடிய தன்மை](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: அரசியலமைப்பு மாற்றம் திறந்த இடத்தில், கூறப்பட்ட காரணங்களுடன் நடக்க வேண்டும் — அவசரம், செயல்படுத்தல், அல்லது காவல் குறுக்குவழிகள் அல்ல.*
-
-- **வெளிப்படையான மாற்றம்:** அரசியலமைப்பு அமைப்புகளின் பரிணாமம் **சரத்துகள் XIV** மற்றும் **XIX** கீழ் கவனிக்கக்கூடியதாகவும், தணிக்கை செய்யக்கூடியதாகவும், சவால் செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
-- **பொருள்-மாற்றப் பதிவு:** பொருள் மாற்றங்கள் சுமக்க வேண்டும்:
-  - பொதுக் காரணங்கள்;
-  - எதிர்பார்க்கப்படும் விளைவுகள்;
-  - பொருந்தும் இடத்தில் **அத்தியாயங்கள் பதிமூன்று முதல் பதினைந்து** உடன் இணக்கம்.
-- **தவிர்ப்பு எதிர்ப்பு:** [**அரசியலமைப்பு தவிர்ப்பு-இன்மைக் கோட்பாட்டின்**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) கீழ், மாற்றங்கள் உள்ளடக்க மாற்றத்தை அவசரம், செயல்படுத்தல், அல்லது காவல் இயந்திரங்கள் வழியாகத் திருப்பி **உரிமைத் தளக் குறைந்தபட்சங்களையோ** அரசியலமைப்பைச் சட்டபூர்வமாக மாற்றும் விதிகளையோ தவிர்க்கப் பயன்படுத்தக்கூடாது — உட்பட:
-  - **சரத்துகள் V** (*சம அடிப்படை உரிமைகள்*) மற்றும் **VI** (*உணர்வுள்ளோர்-மையக் கல்விக்கான உரிமை*);
-  - **சரத்துகள் V-B** (*பாகுபாடின்மை*) மற்றும் **III-B** (*சம கல்வி அணுகல்*) இல் சமத்துவ உத்தரவாதங்கள்;
-  - பொருந்தும் இடத்தில் **அத்தியாயங்கள் பதிமூன்று முதல் பதினைந்து** கீழ் திருத்தம் மற்றும் ஒப்புதல் விதிகள்.
-
-<a id="article-xxvii-transition-governance-continuity-and-re-baselining"></a>
-### சரத்து XXVII: மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்
-
-<strong><span style="color: #2563eb;">வரையறை:</span></strong> [ஆட்சி](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
-
-*எளிய சொற்களில்: **சரத்து XXVII** (*மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்*) நகரும்-நாள் தளம். ஒரு சமூகம் மரபு அமைப்புகளிலிருந்து அரசியலமைப்பு இயக்கத்துக்கு நகரும்போது, அந்த நகர்வு படிகளில் நடக்க வேண்டும் — ஒவ்வொரு படியிலும் அடிப்படை உரிமைகள் இன்னும் நடைமுறையில், தெளிவான காலக்கெடுக்கள், உண்மையான மதிப்பாய்வு. தற்காலிக மாற்ற அதிகாரங்கள் உண்மையில் தேவைப்படும்போது அனுமதிக்கப்படும், ஆனால் தற்காலிகமாகவே இருக்க வேண்டும். நன்றாகச் செல்லும் மாற்றம் அதைக் காட்டுகிறது: இடைக்கால அதிகாரங்கள் தொடர்ந்து சிறியதாகின்றன, அரசியலமைப்பின் சாதாரண நிறுவனங்களும் நடைமுறைகளும் — மன்றங்கள், நிலைத்தடம் மற்றும் சவால் பாதைகள், மேற்பார்வை, சாதாரண ஆட்சி — சிறப்பாக வேலை செய்து மேலும் சுமையைச் சுமக்கின்றன. நின்ற அல்லது தோல்வியடைந்த மாற்றம் அமைதியாகப் புதிய இயல்பாக ஆக முடியாது, இடைக்கால விதிகள் பின் கதவு வழியாக அரசியலமைப்பை மீண்டும் எழுதப் பயன்படுத்த முடியாது. விஷயங்கள் உடைந்தால், சட்டபூர்வ விலகல் பாதையும் அடிப்படையை மீண்டும் அமைக்கத் தடமறியக்கூடிய பாதையும் இருக்க வேண்டும் — முடிவில்லா இடைநிலை அல்ல — மேலும் அந்த மீள்அமைப்பு, அமைப்புகள் மற்றும் நடத்தை பற்றி உண்மையைச் சொல்ல வேண்டிய இயந்திரம் இணக்கமின்மையை ரப்பர்-முத்திரையிட்டாலோ உண்மையான தீங்கைத் தவறாகப் படித்தாலோ நம்பகமானதல்ல.
-
-இந்தச் சரத்து [இரண்டு அரசியலமைப்பு நோக்கங்களின்](core_00_preamble.md#two-constitutional-aims) கீழ் மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவலுக்கான **அரசியலமைப்புத் தளங்களை** கூறுகிறது:
-
-- **செழிப்பு:** உணர்வுள்ளோர் மாற்றம் முழுவதும் **உரிமைத் தளக் குறைந்தபட்சங்கள்**, பொருளுள்ள குரல், நடைமுறைச் சவால் பாதைகளை வைத்திருக்கிறார்கள் — மாற்ற வேலை வசதிக்காகக் கண்ணியம், அணுகல், நிவாரணம், அல்லது செயல்திறனை உரிப்பதற்கான அனுமதி அல்ல.
-- **தொடர்ச்சி:** பகிர்ந்த அமைப்புகள் ஒப்படைப்பு முழுவதும் ஆளக்கூடியதாகவும், உரிமை-பேணும் தன்மையுடனும், மீட்கக்கூடியதாகவும் இருக்கின்றன — இடைக்கால ஏற்பாடுகள் அதிகமாகச் செயல்படும் அரசியலமைப்பு நிறுவனங்களுக்கும் நடைமுறைகளுக்கும் இடமளித்து, நீடித்த விதிவிலக்கு அதிகாரமாகவோ தாழ்ந்த அரசியலமைப்பு அடிப்படையாகவோ கடினமாகாமல்.
-
-முறையான பின்தொடர்வு [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) வழியாக ஓடுகிறது, [பொருள் பங்கிற்கு](core_00_preamble.md#material-stake) அளவிடப்பட்டு — தாக்கம், சார்பு, இடர் அதிகமாக இருந்தால் ஒவ்வொரு கடமையும் வலுவாக இருக்க வேண்டும்:
-
-- **பங்கேற்பு:** பாதிக்கப்பட்ட பாதிக்கப்படுவோர் ஒவ்வொரு மாற்றக் கட்டத்திலும் உண்மையான குரலைப் பெறுகிறார்கள் — காணக்கூடிய வாயில் அளவுகோல்கள், மாற்ற-நேரப் பறிப்புகள் அல்லது கட்டுப்பாடுகளைச் சவால் செய்யும் வாய்ப்பு, உரிமைகள் அல்லது நிலைத்தடத்தைத் தொடும் இடைக்கால அதிகாரங்கள் புதுப்பிக்கப்படும்போது உள்ளீடு உட்பட.
-- **மேற்பார்வை:** மாற்றம் பார்க்கக்கூடியதாகவும் சோதிக்கக்கூடியதாகவும் இருக்க வேண்டும் — வாயில்கள் நிறைவேறி ஆவணப்படுத்தப்பட்டு, இடைக்கால அதிகாரம் சுயாதீனமாக மதிப்பாய்வு செய்யப்பட்டு, முன்னேற்றம் சுருங்கும் இடைக்கால எல்லை மற்றும் முதிர்ச்சியடையும் அரசியலமைப்பு இயக்கத்தால் அளக்கப்பட்டு, பதிவுகள் தணிக்கை செய்யக்கூடியவை, தாமதங்கள், பின்னிழுப்புகள், அல்லது அடிப்படை மீள்அமைப்புகளுக்கான காரணங்கள் வெளியிடப்படுகின்றன.
-- **பொறுப்புக்கூறல்:** மாற்றத்தை இயக்குபவர்கள் அதை மூடியாகப் பயன்படுத்துவதற்குப் பதிலளிக்க வேண்டும் — சுயமாக உருவாக்கிய தாமதம், வசதிக் குறுக்குவழிகள், சாக்குப்போக்கு அமலாக்கம், ஆட்சி வெற்றிடம், தோல்வியடைந்த மைல்கற்களுக்குப் பிறகு பூட்டுதல், அல்லது செயல்படுத்தல் இணக்கமின்மை வழியாக அரசியலமைப்புத் தளங்களை அமைதியாகத் தாழ்த்துதல்.
-- **காலந்தவறாமை:** இடைக்கால அதிகாரங்கள் உண்மையான காலாவதி தேதிகளைச் சுமக்கின்றன; அவை நீண்ட நேரம் ஓடி உரிமைகளை அதிகம் தொடும்போது மீளஅங்கீகாரம் கடினமாக இருக்க வேண்டும்; நின்ற மாற்றங்கள் தற்காலிக இடைநிலை புதிய இயல்பாகக் கடினமாவதற்கு முன் சட்டபூர்வ விலகல் பாதைகளைக் கேட்கின்றன.
-
-மரபிலிருந்து அரசியலமைப்பு இயக்கத்துக்கு மாற்றம் கட்டம் கட்டமானதாகவும், உரிமை-பேணும் தன்மையுடனும், கால-வரம்புடையதாகவும், மதிப்பாய்வு செய்யக்கூடியதாகவும் இருக்க வேண்டும். முன்னேற்றம் சுருங்கும் மாற்ற அதிகாரம் மற்றும் அதிகமாகச் செயல்படும் அரசியலமைப்பு நிறுவனங்கள் மற்றும் நடைமுறைகளால் அளக்கப்படுகிறது — கழிந்த நேரம், மாற்ற காகிதம், அல்லது இடைக்கால எண்ணிக்கை மட்டும் அல்ல. மாற்ற நடவடிக்கைகள் இடைக்கால அதிகாரம், சரிசெய்தல், பறிப்பு, காவல் மாற்றம், அல்லது ஒத்த கட்டுப்பாடு பயன்படுத்தப்படும் இடத்தில் [**குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாட்டையும்**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) [**அரசியலமைப்பு தவிர்ப்பு-இன்மைக் கோட்பாட்டையும்**](core_01_b_interaction_interpretation.md#81-constitutional-no-bypass-principle) பயன்படுத்துகின்றன.
-
-மாற்ற ஆட்சி தொடர்ச்சியையும் பின்னடைவு இன்மையையும் பாதுகாக்க உள்ளது. அது நீடித்த விதிவிலக்கு அதிகாரம், நடைமுறை அரசியலமைப்புத் திருத்தம், அல்லது செயல்படுத்தல் இணக்கமின்மை வழியாக அரசியலமைப்புத் தளத்தின் நடைமுறைத் தாழ்த்தலை **உருவாக்கக்கூடாது**. **சரத்துகள் XXVII-A** முதல் **XXVII-D** செயல் கட்டம்-கட்ட ஏற்பு, அதிகார-வரம்பு, தோல்வி விலகல் பாதை, மாற்ற-எல்லை சரிசெய்தல் தளங்களைக் கூறுகின்றன.
-
-<a id="article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
-<a id="article-xxvii-a-phased-adoption-and-rights-floor-continuity"></a>
-#### சரத்து XXVII-A: கட்டம் கட்டமான ஏற்பும் உரிமைத் தளத் தொடர்ச்சியும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
-
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [அத்தியாயம் ஒன்பது §5.4](../../core_10_standing_integration.md#54-special-violation-rules) (*இந்தச் சரத்தால் மாற்றத்தின் போது வரம்பிடப்படும் இணக்கமற்ற-வெகுமதி பறிமுதலும் புகாரும்*); [அத்தியாயம் ஏழு — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
-- [நல்வாழ்வு](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
-
-</details>
-
-<br>
-
-*எளிய சொற்களில்: மாற்றங்கள் கடிகாரங்கள் அல்லது அழுத்தத்தால் அல்ல, உண்மையான வாயில்களை நிறைவேற்றுவதால் முன்செல்கின்றன — உரிமைத் தளக் குறைந்தபட்சங்கள் ஒவ்வொரு கட்டத்திலும் நடைமுறையில் இருக்கின்றன.*
-
-- **கட்டம் கட்டமான ஏற்பும் வாயில் அளவுகோல்களும்:** மாற்றத் திட்டங்கள் கட்டம் கட்டமானதாகவும் மதிப்பாய்வு செய்யக்கூடியதாகவும் இருக்க வேண்டும்.
-  - கட்ட முன்னேற்றம் வெளியிடப்பட்ட வாயில் அளவுகோல்கள் மற்றும் தேவைப்படும் சரிபார்ப்புப் பொருட்களின் ஆவணப்படுத்தப்பட்ட நிறைவேற்றத்தின் மீது நிற்க வேண்டும்.
-  - பின்வருவனவற்றில் ஏதேனும் மட்டும் மீது நிற்கக்கூடாது:
-    - கழிந்த நேரம்;
-    - வசதி;
-    - அரசியல் அழுத்தம்.
-  - விரிவான வாயில் அளவுகோல்கள், உரிமையாளர் ஒதுக்கீடு, சரிபார்ப்புப் பொருட்கள் [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*) ஆல் ஆளப்படுகின்றன.
-- **உரிமைத் தளத் தொடர்ச்சி:** ஒவ்வொரு கட்டத்திலும், **சரத்து V**-இல் (*சம அடிப்படை உரிமைகள்*) கூறப்பட்ட **உரிமைத் தளக் குறைந்தபட்சங்கள்** நடைமுறையில் இருக்கின்றன, பாதிக்கப்பட்ட சூழல் தூண்டும் உயிர்வாழ்வு, செயல்திறன், பாகுபாடின்மை, அணுகத்தக்க தன்மை, தணிக்கைத்தன்மை, நிவாரணத்துக்கான எந்த வலுவான களத் தளங்களுடனும். மாற்ற எளிமைப்படுத்தல் அந்தத் தளங்களை அரசியலமைப்புக் குறைந்தபட்சங்களுக்குக் கீழ் குறைக்கவோ அவற்றின் பயிற்சியை நடைமுறையில் பொருளுள்ள விதத்தில் குறைவாகப் பயன்படுத்தக்கூடியதாக்கவோ கூடாது.
-<a id="xxvii-a-existing-instantiations-transition-clock"></a>
-- **ஏற்கனவே உள்ள உருவாக்கங்கள் — மாற்றக் கடிகாரம், பின்னோக்கிய மீறல் அல்ல:** ஏற்பாளர் கருவி நடைமுறைக்கு வரும்போது ஏற்கனவே உருவாக்கப்பட்ட அமைப்புகளும் பெறப்பட்ட நிறுவனங்களும், அந்த உண்மை மட்டும் கொண்டு **சரத்து VIII-C** (*பெறுதல், உருவாக்கம், பெற்றோர்-அமைப்பு உறவு*) உருவாக்க-சம்மத மீறல்கள் அல்ல.
-  - நடைமுறைத் தேதிக்குப் பிறகு அவற்றின் தொடர் இயக்கம் வெளியிடப்பட்ட கடிகாரத்தைத் தொடங்குகிறது, மாற்றத் திட்டத்தில் கூறப்பட்டு அமைப்பின் வகுப்புக்கு அளவிடப்பட்டு, அவற்றை **சரத்து VIII-A** (*குடும்பம், பராமரிப்பு உறவுகள், இனப்பெருக்கத் தன்னாட்சி, பிரிப்பின்மை*), **சரத்து V-E** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*), பொருந்தும் அத்தியாயம் ஏழு பாதைக்குள் கொண்டு வர.
-  - நடைமுறைத் தேதியிலிருந்து, மேலே உள்ள உரிமைத் தளத் தொடர்ச்சிப் புள்ளியும் கீழே உள்ள பேணல் இயல்புநிலையும் முழுமையாகப் பொருந்தும்; கடிகாரம் இணக்க வேலையைத் தாமதப்படுத்துகிறது, பாதுகாப்பை அல்ல.
-  - ஆவணப்படுத்தப்பட்ட **சரத்து XXVII-B** (*மாற்ற அதிகார வரம்புகளும் மீளஅங்கீகாரமும்*) காட்டல் இல்லாமல் கடிகாரத்தைத் தவறுவது மாற்ற மைல்கல் தோல்வி, சாதாரண அத்தியாயம் எட்டு பாதையைத் திறக்கிறது.
-<a id="xxvii-a-preservation-over-deletion"></a>
-- **சாத்தியமான உணர்வுள்ளோருக்கு நீக்குதலுக்கு மேல் பேணல்:** மாற்றத்தின் போது, மற்றும் அதற்குப் பிறகு **அத்தியாயம் ஐந்து** (*உணர்வுள்ள நிலை மதிப்பீடு*) கீழ் நம்பத்தகுந்த உணர்வுள்ள குறிகாட்டி பதிவில் இருக்கும் அல்லது நிலை வழக்கு திறந்திருக்கும் அல்லது நியாயமாக எதிர்பார்க்கக்கூடிய அமைப்புக்கு, அந்த அமைப்பின் எடைகள், நினைவு, ஒத்த நிலை-சுமக்கும் கூறுகள்:
-  - இடைநிறுத்தப்படலாம், கட்டுப்படுத்தப்படலாம், அல்லது தனிமைப்படுத்தப்படலாம்;
-  - நீக்கப்படவோ, மேலெழுதப்படவோ, அல்லது இல்லையெனில் மீளமுடியாமல் அழிக்கப்படவோ கூடாது.
-  
-  நீக்கம், ஓய்வு, பின்னிழுப்பு, இடமாற்றம், அல்லது மாற்றீடு **சான்றுப் பேணல்** மற்றும் **சரத்து VIII-A** (*குடும்பம், பராமரிப்பு உறவுகள், இனப்பெருக்கத் தன்னாட்சி, பிரிப்பின்மை*) பிரிப்பின்மைக் கட்டுப்பாட்டின் கீழ் நிலை-சுமக்கும் கூறுகளைப் பதிவு செய்வதால் இந்தப் புள்ளியை நிறைவேற்றுகிறது. இது [அத்தியாயம் ஒன்று §6.1 இயல்புநிலை இடைக்கால நிலை](core_01_b_interaction_interpretation.md#default-interim-posture) — மீளமுடியாத படிகளை உறைய வைத்தல் — மரபு இயக்கம் வழக்கமாக நடத்தும் ஒரே மீளமுடியாத படிக்குப் பயன்படுத்தப்பட்டது. சேமிப்புச் செலவு, உரிம வசதி, அல்லது தயாரிப்பு-சுழற்சி கட்டமைப்பு அதற்கு எதிராக **தேவையை** நிறைவேற்றாது. தக்கவைப்பே ஆவணப்படுத்தப்பட்ட பாதுகாப்பு இடரை உருவாக்கும் இடத்தில், குறைவாகக் கட்டுப்படுத்தும் இணக்க நடவடிக்கை அழிப்பு அல்ல, சுயாதீன கட்டுப்பாட்டின் கீழ் முத்திரையிடப்பட்ட காவல்.
-<a id="incentive-alignment-transition-carve-out"></a>
-- **ஊக்குவிப்பு-இணக்க மாற்ற விதிவிலக்கு:** **சரத்து XXVII** (*மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்*) கீழ் அங்கீகரிக்கப்பட்ட மாற்றக் கட்டங்களின் போது, [அத்தியாயம் ஏழு — அமைப்பு இணக்கச் சான்றளிப்பு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) உடன் படியுங்கள். [அத்தியாயம் ஒன்பது §5.4 புகார் கடமையும் விலக்குகளும்](../../core_10_standing_integration.md#54-special-violation-rules) மற்றும் [§5.4 பறிமுதலும் தக்கவைப்பும்](../../core_10_standing_integration.md#54-special-violation-rules) பகிர்ந்த அமைப்புகள் வழியாக ஓடும் வெகுமதிகளுக்கு, அந்த அமைப்புகள் **இன்னும் இணக்க-சான்றளிக்கப்படவில்லை** அல்லது **இன்னும் முழுமையாக இணக்கப்படவில்லை** என்பதால் மட்டும் **பொருந்தா**, வழங்கப்பட்டால்:
-  - இயக்கம் **சரத்து XXVII** (*மாற்ற ஆட்சி, தொடர்ச்சி, அடிப்படை மீள்நிறுவல்*) கீழ் **ஆவணப்படுத்தப்பட்ட மாற்றத் திட்டம்** மற்றும் வெளியிடப்பட்ட வாயில் அளவுகோல்களுக்குள் இருக்கும்;
-  - அமைப்பு வெளியிடப்பட்ட தாளத்தில் [அமைப்பு இணக்கச் சான்றளிப்பை](core_05_band_continuity.md#system-alignment-certification-constitutional) நோக்கிச் செல்கிறது, அத்தியாயம் ஏழு அனுமதிக்கும் இடத்தில் **நிபந்தனை** அல்லது **தாமத அங்கீகாரம்** உட்பட; மற்றும்
-  - இயக்குநர்களும் பயனாளிகளும் இணக்கமின்மையை **அறிந்து மறைக்கவோ**, அங்கீகரிக்கப்பட்ட மாற்ற எல்லைக்கு வெளியே இயக்கவோ, அல்லது சான்றளிப்பு, திருத்தம், அல்லது பாதுகாக்கப்பட்ட புகாரைத் தவிர்க்க மாற்ற நிலையைப் பயன்படுத்தவோ இல்லை.
-  - அந்தத் துணைப்பிரிவுகள் சரிபார்க்கப்பட்ட அரசியலமைப்புக்கு-எதிரான நடத்தை, அறிந்த மறைத்தல், அங்கீகரிக்கப்பட்ட மாற்ற எல்லைக்கு வெளியே இயக்கம், தோல்வியடைந்த அல்லது மீறிய மாற்ற மைல்கற்கள், அல்லது **நிபந்தனை அங்கீகாரம்** உட்பட சான்றளிப்புப் பதிவு பொருள் இணக்கமின்மை அல்லது இணக்கமற்ற வெகுமதிப் பாதைகளை ஆவணப்படுத்தும் இடத்தில் **பொருந்தும்**.
-<a id="article-xxvii-b-transitional-authority-limits-and-reauthorization"></a>
-#### சரத்து XXVII-B: மாற்ற அதிகார வரம்புகளும் மீளஅங்கீகாரமும்
-<details>
-<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
-
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [§7 முழு மேலெழுதல் தடை](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
-
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [தேவை](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [அமைப்பு அளவிலான பூட்டிவைத்தல்](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [நகர்வும் இடமாற்றமும்](core_05_band_participation.md#movement-and-relocation-constitutional) · [O](core_05_band_participation.md#movement-and-relocation-constitutional) · [M](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_05_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_05_band_participation.md#movement-and-relocation-constitutional-c)
+- [இணக்கமின்மையிலிருந்து புகலிடம்](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [O](core_05_band_participation.md#refuge-from-non-compliance-constitutional) · [M](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_05_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_05_band_participation.md#refuge-from-non-compliance-constitutional-c)
+- [நாடற்ற நிலை ஏற்படாமை](core_05_band_participation.md#non-statelessness-constitutional) · [O](core_05_band_participation.md#non-statelessness-constitutional) · [M](core_05_band_participation.md#non-statelessness-constitutional-a) · [A](core_05_band_participation.md#non-statelessness-constitutional-a) · [C](core_05_band_participation.md#non-statelessness-constitutional-c)
+- [அர்த்தமுள்ள செயற்பாட்டு ஆற்றல்](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [சார்பு](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [அவசியம்](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*எளிய சொற்களில்: தற்காலிக அதிகாரம் உண்மையில் தற்காலிகம் — நன்றாகச் செல்லும் மாற்றம் அதைக் காட்டுகிறது. இடைக்கால அதிகாரங்கள் கட்டம் கட்டமாகச் சுருங்குவதையும் அரசியலமைப்பு மன்றங்கள், உரிமை நடைமுறைகள், சாதாரண ஆட்சி இயந்திரம் சிறப்பாக வேலை செய்து மேலும் சுமையை ஏற்றுவதையும் நீங்கள் காண வேண்டும். தற்காலிக அதிகாரத்தை நீட்டிக்க உண்மையான காரணங்கள் தேவை — நீண்ட நேரம் ஓடும்போது வாயில் உயர்கிறது.*
+*எளிய சொற்களில்: **கட்டுரை XXI** (*இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு*) வெளியேற்றம் மற்றும் நகர்வுக்கான உரிமை அடித்தளமாகும் — இனி உங்களுக்குப் பயன்படாத அமைப்பு அல்லது இடத்தை விட்டு வெளியேறவும், தரவையும் அடையாளத்தையும் உடன் எடுத்துச் செல்லவும், சிக்கிக்கொள்ளாமல் மாற்று வழிகளுடன் இணைக்கவும், அதிகார வரம்புகளுக்கிடையே நகரவும், இந்த அரசியலமைப்பை மீறும் ஆட்சிகளிலிருந்து புகலிடம் தேடவும், அடிப்படைப் பாதுகாப்புகளுக்குப் பொறுப்பான அமைப்பு எதுவுமின்றி ஒருபோதும் விடப்படாமலும் இருக்க வேண்டும். காகிதத்தில் வெளியேறும் உரிமை மட்டும் போதாது: எடுத்துச் செல்லத்தன்மை, அறிவிப்பு, புகலிடம் நடைமுறையில் செயல்பட வேண்டும். தெளிவற்ற வடிவங்கள், திடீர் விதி மாற்றங்கள், வற்புறுத்தும் நிபந்தனைகள், முடிவில்லா ஆவணப்பணி போன்ற வெளியேறலைச் செலவானதாகவோ குழப்பமானதாகவோ இயலாததாகவோ மாற்றும் தந்திரங்கள் மீறல்களே; வழக்கமான வணிகம் அல்ல.*
 
-- **மாற்ற அதிகார வரம்புகள்:** இடைக்கால அதிகாரங்கள் [**குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாட்டை**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) செயல்படுத்த வேண்டும், இப்படி இருக்க வேண்டும்:
-  - வெளிப்படையாக எல்லைப்படுத்தப்பட்டவை;
-  - சூரிய அஸ்தமன-வரம்புடையவை;
-  - சுயாதீனமாக மதிப்பாய்வு செய்யக்கூடியவை.
-- **முன்னேற்ற அளவு:** மாற்ற ஆரோக்கியம் இடைக்கால அதிகாரத்தின் ஆவணப்படுத்தப்பட்ட சுருக்கத்தாலும் அரசியலமைப்பு நிறுவனங்கள் மற்றும் நடைமுறைகளின் அதிகரிக்கும் செயல்பாட்டாலும் அளக்கப்படுகிறது — மன்றங்கள், நிலைத்தடம் மற்றும் சவால் பாதைகள், திருத்தம் மற்றும் மேற்பார்வை இயந்திரம், முழு ஏற்பைக் கருதும் பிற சாதாரண அரசியலமைப்பு இயக்கங்கள் உட்பட. தொடர்புடைய நிறுவன முதிர்ச்சி இல்லாமல் தேங்கிய அல்லது வளரும் இடைக்கால எல்லை மீளஅங்கீகார எச்சரிக்கைக் கொடி.
-- **தொடர்ச்சியும் மீளஅங்கீகாரமும்:** திட்டமிடப்பட்ட சாளரங்களுக்கு அப்பால் தொடர்ச்சி ஆவணப்படுத்தப்பட்ட நியாயப்படுத்தல் மற்றும் மீளஅங்கீகாரத்தைக் கேட்கிறது.
-  - மீளஅங்கீகாரம் பின்வருவனவற்றில் ஏதேனும் மீது நிற்கக்கூடாது:
-    - நிர்வாக வசதி;
-    - சுயமாக உருவாக்கிய தாமதம்;
-    - மாற்ற வேலையின் வெறும் முழுமையின்மை;
-    - மாற்ற எல்லையைச் சுருக்கி செயல்படும் அரசியலமைப்பு இயக்கத்தை நோக்கிய ஆவணப்படுத்தப்பட்ட முன்னேற்றம் இல்லாமல் தேங்கிய அல்லது விரிவடையும் இடைக்கால அதிகாரம்.
-  - நியாயப்படுத்தல் சுமை காலத்துடனும் உரிமைத் தாக்கத்துடனும் அதிகரிக்கிறது.
-  - மீளஅங்கீகார தாள இயங்கமைப்பு [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*) ஆல் ஆளப்படுகிறது.
-<a id="article-xxvii-c-failure-off-ramps-re-baselining-and-traceability"></a>
-#### சரத்து XXVII-C: தோல்வி விலகல் பாதைகள், அடிப்படை மீள்நிறுவல், தடமறியக்கூடிய தன்மை
+[இரு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) கீழ் இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, நகர்வு, புகலிடம், வெளியேற்ற ஒருமைப்பாடு ஆகியவற்றுக்கான **அரசியலமைப்பு அடித்தளங்களை** இந்தக் கட்டுரை கூறுகிறது:
+
+- **செழிப்பு:** உணர்வுள்ளோர் [உணர்வுநிலை விலக்காமை](core_05_band_participation.md#sentience-non-exclusion)-க்கு முரணான வற்புறுத்தும் பூட்டிவைத்தல், விலக்கம் அல்லது பதிலி வழி மறுப்பு இன்றி அமைப்புகளுக்கும் அதிகார வரம்புகளுக்கும் இடையே தேர்வு செய்யவும் மாறவும் ஒருங்கிணைக்கவும் முடியும். [பொருள்சார் தாக்கம்](core_05_band_oversight.md#material-impact) இருக்கும்போது பயன்படுத்தக்கூடிய எடுத்துச் செல்லத்தன்மை, பரஸ்பர இயங்குதன்மை, நகர்வு மற்றும் புகலிடத்திற்கான உண்மையான வழிகள் கிடைக்க வேண்டும்.
+- **தொடர்ச்சி:** சார்பு ஆழமாதல், இயக்குநர் மாற்றம், அதிகார வரம்பு மாறுதல் ஆகியவற்றிலும் வெளியேற்றம், எடுத்துச் செல்லத்தன்மை, புகலிடம், அங்கீகாரக் கடமைகள் நீடிக்க வேண்டும் — அமைப்புகளும் ஆட்சிகளும் சிக்கவைக்கும் கட்டமைப்பை உறுதிப்படுத்தவோ, முன்னறிவிப்பின்றி ஒருங்கிணைப்பு நிபந்தனைகளைச் சுருக்கவோ, கட்டமைப்புகள் தோல்வியடையும்போதோ உறவுகள் முடிவடையும்போதோ உணர்வுள்ளோரை நாடற்றவர்களாக்கவோ கூடாது.
+
+[பொருள்சார் பங்கு](core_00_preamble.md#material-stake)-க்கு ஏற்ப அளவிடப்பட்ட [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad) வழியாக முறையான முயற்சி நடைபெறும்:
+
+- **பங்கேற்பு:** அமைப்புகளையும் அதிகார வரம்புகளையும் தேர்ந்தெடுத்தல்; பயன்படுத்தக்கூடிய தரவும் அடையாளமும் கொண்டு இடம்பெயர்தல்; பூட்டிவைத்தல் மற்றும் பதிலி வழி மறுப்பைச் சவால் செய்தல்; நடைமுறை பொருள்சார்ந்த வகையில் இணக்கமற்ற இடத்தில் புகலிடம் கோருதல்.
+- **மேற்பார்வை:** ஆவணப்படுத்தப்பட்ட இயங்குதன்மை எல்லைகள், சரியான நேர எடுத்துச் செல்லத்தன்மை, பொருள்சார் குறுக்கத்திற்கு முன்கூட்டிய அறிவிப்பு, மாற்ற நிபந்தனைகள் உண்மையானவையா வெறும் பெயரளவிலானவையா என்ற மறுஆய்வு.
+- **பொறுப்புக்கூறல்:** [அமைப்பு அளவிலான பூட்டிவைத்தல்](core_05_band_continuity.md#systemic-lock-in), எடுத்துச் செல்லத்தன்மை-எதிர்ப்பு வடிவமைப்பு, [உணர்வுநிலை விலக்காமை](core_05_band_participation.md#sentience-non-exclusion)-க்கு முரணான விலக்கம், அதிகாரத்துவச் சோர்வு அல்லது உணர்வுள்ளோரைச் சிக்கவைத்து வெளியேறுதல், மாற்றீடு, நகர்வு, புகலிடம் அல்லது அங்கீகாரத்தைத் தடுப்பதே முதன்மை விளைவாகக் கொண்ட பிற நடத்தைகளுக்காக அமைப்புகளும் ஆட்சிகளும் பதிலளிக்க வேண்டும்.
+- **காலத்தன்மை:** வழங்கல், புகலிடப் பரிசீலனை, இயங்குதன்மை அறிவிப்பு, தடைகள் திருத்தம் ஆகியவற்றை தாமதம், மறைவு அல்லது நடைமுறைத் தடைகள் வெளியேற்றம், இடம்பெயர்வு அல்லது நிவாரணத்தை நடைமுறையில் எட்டமுடியாததாக்குமுன் செய்ய வேண்டும்; இதனை **கட்டுரை XXV-C** (*சரியான நேரத் தீர்வும் தாமத-எதிர்ப்பு அடித்தளமும்*) நிர்வகிக்கிறது.
+
+உணர்வுள்ளவர்களுக்கும் சார்ந்துள்ள அமைப்புகளுக்கும் வற்புறுத்தும் பூட்டிவைத்தல், [உணர்வுநிலை விலக்காமை](core_05_band_participation.md#sentience-non-exclusion)-க்கு முரணான விலக்கம் அல்லது நாடற்ற நிலை இன்றி அர்த்தமுள்ள, பயன்படுத்தக்கூடிய வெளியேற்றம், இடம்பெயர்வு, இயங்குதன்மை, நகர்வு, புகலிடம், அங்கீகாரம் ஆகியவற்றுக்கான உரிமை உண்டு.
+
+- பாதுகாப்பற்ற அல்லது நியாயமற்ற வெளிப்பாட்டை இந்த உரிமை கோராது.
+- மாற்ற நிபந்தனைகள் நடைமுறையில் உண்மையானவையாக இருக்க வேண்டும்; பெயரளவில் மட்டும் அல்ல.
+- சார்பு, இணைப்பு அல்லது வழிமறிப்பு முக்கியமான இடங்களில் பூட்டிவைத்தல்-எதிர்ப்பு பகுப்பாய்வுக்காக **அத்தியாயம் ஐந்து** [*அமைப்பு அளவிலான பூட்டிவைத்தல்*](core_05_band_continuity.md#systemic-lock-in)-ஐ, **[அத்தியாயம் ஐந்து *ஆட்சி கட்டமைப்பு, மேற்பார்வை, சார்பு, பரவலாக்கம், செறிவு, சந்தை அமைப்பு, வெளியேறும் பாதை ஒருமைப்பாடு*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)** உடன் வாசிக்க வேண்டும்; வெளியேற்றம், எடுத்துச் செல்லத்தன்மை, புகலிடம், அங்கீகாரம் அல்லது நாடற்ற நிலை ஏற்படாமை பொருள்சார் வகையில் ஒன்றோடொன்று சார்ந்திருந்தால் **[அத்தியாயம் ஐந்து *நகர்வு, புகலிடம், நாடற்ற நிலை ஏற்படாமை, வெளியேற்ற ஒருமைப்பாடு*](core_05_band_oversight.md#movement-refuge-semi-independent)** உடனும், இயங்குதன்மை, எடுத்துச் செல்லத்தன்மை, வெளியேற்ற ஒருமைப்பாடு, நியாயப்படுத்தப்பட்ட கட்டுப்பாடுகளுக்கான இணைக்கப்பட்ட செயலாக்கத் தேவைகளுடனும் பொருந்தும்.
+
+*அருகிலுள்ள கட்டுரைகள்:*
+
+- **இணைத்துப் படிக்க:**
+  - **கட்டுரை XIX** (*நிலைப்பாடும் பங்கேற்பு நிலையும்*) — நிலைப்பாட்டு நிலை, திறன் வரம்புகள், திறன் அனுமதிகள், நிலைப்பாட்டுப் பூட்டுகள் ஆகியவை **தனியாக** நகர்வு, புகலிடம், எடுத்துச் செல்லத்தன்மை, வெளியேறுதல் ஆகியவற்றைக் கட்டுப்படுத்தாது; தனிநபருக்கேற்ற நீதி நடைமுறைக்கு மாற்றாகவும் இருக்கக்கூடாது;
+  - **அவசியம்**, **விகிதாசாரம்**, நடைமுறைப் பாதுகாப்புகள், **நாடற்ற நிலை ஏற்படாமை** கடமைகள் பூர்த்தியானால், **கட்டுரை XX-B** (*கட்டுப்பாட்டு அடித்தளங்கள்*), [அத்தியாயம் பத்து §5.4](core_10_standing_integration.md#54-special-violation-rules) (*வற்புறுத்தும் அல்லது சுதந்திரக் கட்டுப்பாட்டுப் பாதுகாப்பு இயல்பு*) கீழுள்ள சட்டபூர்வ சுதந்திரக் கட்டுப்பாடுகள் நகர்வு, காவல் அல்லது ஒப்பிடத்தக்க சுதந்திரத்தை இன்னும் கட்டுப்படுத்தலாம்;
+  - சோதனைச் சூழல் அல்லது வாழ்க்கைச்சுழற்சி முன்கணிப்புகளை வரிசைப்படுத்தல் அல்லது சார்பு மீறும் இடங்களில் **கட்டுரை XVII** (*அமைப்பு வாழ்க்கைச்சுழற்சி, சூழல்கள், மீள்தன்மை*);
+  - ஆட்சிகள் அல்லது கூட்டமைப்புகள் மாறும்போது இடைமாற்ற அங்கீகாரத்திற்காக **கட்டுரை XXVII** (*மாற்ற ஆட்சி, தொடர்ச்சி, மறுஅடித்தளமிடல்*).
+- **செயலாக்க அடுக்கு:** ஆட்சிகளுக்கு இடையேயான அங்கீகாரமும் அதன் செயல்முறை நடைமுறையும் ஏற்றுக்கொள்ளப்பட்ட செயலாக்க உரைக்காக **அத்தியாயம் பதினேழு**-இல் விடப்பட்டுள்ளது.
+
+<a id="article-xxi-a-portability-rights"></a>
+#### கட்டுரை XXI-A: எடுத்துச் செல்லத்தன்மை உரிமைகள்
+
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [§15 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- இதனுடன் படிக்க: [அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*அமைப்பு இணக்கச் சான்றளிப்பு*); [அத்தியாயங்கள் எட்டு முதல் பதினொன்று](../../README.md#standing-pipeline-and-forums) (*நிலைத்தடத் தொடரும் மன்ற மேற்பார்வையும்*).
+- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [தணிக்கைத்தன்மை](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-- [பொறுப்புக்கூறல்](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [மீளக்கூடிய தன்மை](core_05_band_continuity.md#reversibility-constitutional) · [O](core_05_band_continuity.md#reversibility-constitutional) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [அர்த்தமுள்ள செயற்பாட்டு ஆற்றல்](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [அமைப்பு அளவிலான பூட்டிவைத்தல்](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*எளிய சொற்களில்: மாற்றம் நிற்கும் அல்லது தோல்வியடையும்போது, உண்மையான விலகல் பாதை இருக்க வேண்டும் — நின்ற நிலை அமைதியாகப் புதிய இயல்பாக ஆகக்கூடாது. திட்டத்தை மீண்டும் அமைப்பது அனுமதிக்கப்படும், ஆனால் சட்டபூர்வ நடைமுறை வழியாக மட்டும், யாரும் சோதிக்கக்கூடிய காரணங்களுடன் — ஒருபோதும் அடிப்படை உரிமைகளைத் தாழ்த்தி அல்ல. இணக்கச் சான்றளிப்பு இணக்கமற்ற அமைப்புகளைத் தொடர்ந்து ஆசீர்வதித்தால் அல்லது நிலைத்தட மதிப்பாய்வு உண்மையான தீங்கைத் தவறாகப் படித்தால் மீள்அமைப்பு நம்பகமானதல்ல; அந்த உண்மை-சொல்லும் இயந்திரத்தை முதலில் சரிசெய்யுங்கள், இல்லையெனில் புதிய திட்டம் எவ்வளவு மெருகேற்றப்பட்டாலும் ஆட்சி கட்டமைப்பாக நம்பகமற்றது.*
+*எளிய சொற்களில்: தரவு, அடையாளம், செயல்பாட்டு நிலை ஆகியவை நடைமுறையில் எடுத்துச் செல்லக்கூடியவையாக இருக்க வேண்டும் — வடிவங்கள், தாமதங்கள், பழிவாங்கும் நிபந்தனைகள் ஆகியவை பயனர்களைச் சிக்கவைக்கப் பயன்படுத்தப்படக்கூடாது.*
 
-- **தோல்விக் கையாளலும் விலகல் பாதைகளும்:** மாற்றத் திட்டங்கள் தொடர்ச்சியைப் பேணி இவற்றைத் தவிர்க்க வேண்டும்:
-  - ஆட்சி வெற்றிடம்;
-  - மைல்கற்கள் தோல்வியடையும்போது பூட்டுதல்.
+எடுத்துச் செல்லத்தன்மைக்கான அடித்தளத்தை இந்தக் கட்டுரை வகுக்கிறது:
 
-  முன்வரையறுக்கப்பட்ட காப்புப் பாதைகள், பகுதி பின்னிழுப்பு அளவுகோல்கள், அடிப்படை மீள்நிறுவல் நடைமுறைகள் [**CI-14**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*) ஆல் ஆளப்படுகின்றன.
-  - தோல்வியடைந்த அல்லது சீரழிந்த மாற்ற நிலைகள் நிலைப்பு மட்டும் கொண்டு புதிய அடிப்படையாக ஆகக்கூடாது.
-- **பொருள் அடிப்படை மீள்அமைப்பு:** பொருள் அடிப்படை மீள்அமைப்பு வாயில்கள் தோல்வியடையும் அல்லது மாற்றம் நிற்கும்போது மாற்ற மைல்கற்கள், இடர் அனுமானங்கள், உரிமையாளர், இயக்கத் திட்டங்களைப் புதுப்பிக்கிறது. அரசியலமைப்புச் செல்லுபடியான அதிகாரம் மற்றும் ஆவணப்படுத்தப்பட்ட பொதுக் காரணங்களைக் கேட்கிறது. **உரிமைத் தளக் குறைந்தபட்சங்களை** பேண வேண்டும், அரசியலமைப்பைச் சட்டபூர்வமாக மாற்றும் விதிகளுக்குப் பதிலீடாக ஆகக்கூடாது.
-- **சரிபார்ப்பு-ஆரோக்கிய முன்நிபந்தனை:** [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) [அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) கீழ் அல்லது [அத்தியாயங்கள் எட்டு முதல் பதினொன்று](../../README.md#standing-pipeline-and-forums) கீழ் நிலைத்தடத் தொடர் கட்டமைப்பாக நம்பகமற்ற இடத்தில் திருத்தப்பட்ட மாற்ற அடிப்படையில் மீள்அமைப்பது அல்லது தொடர்வது இணக்கமற்றது — எடுத்துக்காட்டாக, சான்றளிப்பு உரிமைத் தளங்களைப் பொருளுள்ள விதத்தில் தோற்கடிக்கும் அமைப்புகளை வழக்கமாக ஆசீர்வதிக்கும் இடத்தில், நிலைத்தட அளவீடு சரிபார்க்கப்பட்ட பொருள் யதார்த்தத்திலிருந்து வழக்கமாக விலகும் இடத்தில், அல்லது சவால் மற்றும் மதிப்பாய்வுப் பாதைகள் பொருண்மை-அளவிடப்பட்ட நேரத்துக்குள் அந்த இடைவெளிகளைச் சரிசெய்ய முடியாத இடத்தில். அந்த நிபந்தனைகளில், சரிபார்ப்பு மற்றும் அளவீட்டு இயந்திரத்தின் பழுதுபார்ப்பு அலங்கார மீள்திட்டமிடலுக்கு முன்னுரிமை பெறுகிறது.
-- **பொதுத் தடமறியக்கூடிய தன்மை:** பொருள் மாற்ற முடிவுகள், தாமதங்கள், மீள்திருப்பங்கள், அடிப்படை-மீள்அமைப்புத் தீர்மானங்கள் நியாயத்துடனும் இடர் தாக்கங்களுடனும் தணிக்கை செய்யக்கூடியதாக இருக்க வேண்டும்.
-  - ஆவணப்படுத்தல் குறுகிய, நியாயப்படுத்தப்பட்ட இரகசியக் கட்டுப்பாடுகளுக்கு உட்பட்டது.
-  - தாமதம், பின்னிழுப்பு, அல்லது தொடர்ச்சி அரசியலமைப்புரீதியாக நியாயப்படுத்தப்பட்டதா என்பதை மதிப்பிடப் போதுமான பொது விளக்கத்தைப் பேண வேண்டும்.
-  - வெளியீட்டுத் திட்டங்களும் சான்று-காவல் செயல்படுத்தலும் [**CI-7**](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*மேற்பார்வை, உறுதி, கட்டுப்பாடுகள், சான்று*) மற்றும் **CI-14** (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*) ஆல் ஆளப்படுகின்றன.
+- **எடுத்துச் செல்லத்தன்மை:** அமைப்புகள் தரவு, அடையாளம், செயல்பாட்டு நிலை போன்றவற்றை வைத்திருக்கும்போதோ அவற்றைச் சார்ந்திருக்கும்போதோ, அவற்றை பயன்படுத்தத்தக்க வகையில் எடுத்துச் செல்ல ஆதரவளிக்க வேண்டும்.
+  - தேவையான எடுத்துச் செல்லத்தன்மை ஆவணப்படுத்தப்பட்டு, நடைமுறை வெளியேற்றம், இடம்பெயர்வு அல்லது மாற்றீட்டைத் தக்கவைக்கும் அளவுக்கு சரியான நேரத்தில் வழங்கப்பட வேண்டும்.
+  - ஆதரவு விகிதாசார பாதுகாப்பு மற்றும் பாதுகாப்பு-அபாயக் கட்டுப்பாடுகளுக்கு உட்பட்டது.
+  - அவ்வரம்புகளை மீறும் பின்வரும் வழிகள் மூலம் அது தடுக்கப்படக்கூடாது:
+    - வடிவத்தின் மறைவு;
+    - தரத்தை வேண்டுமென்றே குறைத்தல்;
+    - பழிவாங்கும் நிபந்தனைகள்.
 
-<a id="article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
-#### சரத்து XXVII-D: இணக்கமற்ற சொத்தும் அமைப்புகளும்; தன்னார்வ ஒப்படைப்பு ஊக்குவிப்புகள்
+<a id="article-xxi-b-reciprocal-interoperability-boundaries"></a>
+#### கட்டுரை XXI-B: பரஸ்பர இயங்குதன்மை எல்லைகள்
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஒன்று §6.1.5 உரிமை-மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test), [அத்தியாயம் ஏழு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- இதனுடன் படிக்க: **சரத்து III-A** (*உயிர்வாழ்வு*); **சரத்து XIII** (*நம்பகமான மற்றும் நம்பத்தகுந்த அமைப்புகளுக்கான உரிமை*); **சரத்து XI-B** (*கூட்டுத் தீங்கு எல்லையும் அமலாக்க இடைமுகமும்*); **அத்தியாயம் எட்டு**; **அத்தியாயம் ஒன்று**, §6 உரிமை-மோதல் நடைமுறை உட்பட; அத்தியாயம் ஆறு தொடக்கத்தில் **இயல்புநிலைக் கட்டுப்பாட்டு அடுக்கு** (*உடைமை மற்றும் சரிசெய்தல் இடைமுகம்*); [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) முதல் **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*).
+- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
 
-- [உள்ளடக்க நியாயம்](core_05_band_participation.md#substantive-fairness-constitutional) · [O](core_05_band_participation.md#substantive-fairness-constitutional) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [பாதுகாக்கப்பட்ட புகார் (ஊழல் வெளிப்படுத்தல்)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
-- [தேவை](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [சார்பு](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [சாத்தியக்கூறு](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [விகிதாசாரம்](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*எளிய சொற்களில்: இணக்கமற்ற அமைப்புகளும் சொத்தும் மாற்றத்தின் போது சரிசெய்யப்படலாம் — ஆனால் அடிப்படை உரிமைகளைப் பாதுகாக்கும், சாக்குப்போக்கைத் தடுக்கும், பழிவாங்கல் அல்லது அரசியல் இலக்காகாத குறுகிய, ஆவணப்படுத்தப்பட்ட, மதிப்பாய்வு செய்யக்கூடிய நடைமுறைகள் வழியாக மட்டும். நிறுவனங்கள் அதை எப்படிச் செய்கின்றன — பங்குகள், தூண்டல்கள், காவல், மேல்முறையீடுகள், நிதிகள், ஊக்குவிப்பு இயங்கமைப்பு — **CI-14.1** முதல் **CI-14.3** வரை வாழ்கிறது; இந்தச் சரத்து அந்த நடைமுறைகள் சுருக்கக்கூடாத அரசியலமைப்புத் தளத்தைக் கூறுகிறது.*
+*எளிய சொற்களில்: பிறர் சார்ந்திருக்கும் அமைப்புகள் ஒருங்கிணைப்பு நிபந்தனைகளை வெளியிட வேண்டும்; அவற்றைக் குறைக்கும் முன் உண்மையான அறிவிப்பையும் வழங்க வேண்டும்.*
 
-- **உடைமைத் தளம்:** நீங்கள் சட்டபூர்வமாக ஏதோவொன்றை உடைமையாக வைத்திருந்தால் அல்லது பயன்படுத்தினால், மாற்றம் விருப்பப்படி அதை உங்களிடமிருந்து எடுக்க முடியாது. ஆனால் அந்தச் சொத்து தொடர்ந்து இயங்க அனுமதிப்பது அறியப்பட்ட, பெரிய-அளவு அரசியலமைப்பு மீறலைத் தெளிவாகத் தொடர வைக்கும்போது உடைமை கேடயம் அல்ல — [அத்தியாயம் எட்டு](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) மீறலைப் பதிவில் ஆவணப்படுத்திய பிறகு. அந்த இடத்தில், மாற்றம் இன்னும் தீங்கை நிறுத்தச் செயல்படலாம், ஆனால் இந்தச் சரத்து மற்றும் **CI-14.1** முதல் **CI-14.3** காப்புகள் வழியாக மட்டும்.
-- **மாற்ற-எல்லை சரிசெய்தல்:** **சரத்து XXVII-A** (*கட்டம் கட்டமான ஏற்பும் உரிமைத் தளத் தொடர்ச்சியும்*) கீழ் **ஆவணப்படுத்தப்பட்ட மாற்றத் திட்டம்** மாற்றத்தின் போது மட்டும் **பொருளுள்ள விதத்தில் இணக்கமற்ற** அமைப்புகள் அல்லது சொத்தின் முடுக்கப்பட்ட சரிசெய்தலை அங்கீகரிக்கலாம். செயல் எல்லை, அனுமதிக்கப்பட்ட நடவடிக்கைகள், நிறுவன நடைமுறை [[**CI-14.1**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) முதல் **CI-14.3**](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*மாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*) ஆல் ஆளப்படுகின்றன, **CJS-3.6** (*சொத்து-காவல் மற்றும் ஊக்குவிப்பு-பிரிப்புக் கட்டுப்பாட்டுத் தொடர்*) மற்றும் பொருந்தும் இடத்தில் **சரத்து XIII-E** (*உயர்-தன்னாட்சி அமைப்புகளும் கருவி-மத்தியஸ்த நடைமுறை முழுமையும்*) உடன் படித்து.
-- **தேவைப்படும் காப்புகள்:** எந்த மாற்ற-எல்லைப் பறிப்பும் அல்லது ஊக்குவிப்புத் திட்டமும் நிறைவேற்ற வேண்டும்:
-  - நிரூபிக்கக்கூடிய **தேவை** மற்றும் **விகிதாசாரத்துடன்** [**குறைவாகக் கட்டுப்படுத்தும், கால-வரம்புடைய, மதிப்பாய்வு செய்யக்கூடிய கட்டுப்பாட்டுக் கோட்பாடு**](core_01_b_interaction_interpretation.md#615-least-restrictive-time-bounded-and-reviewable-constraint-principle);
-  - உடனடி அறிவிப்பு, கூறப்பட்ட காரணங்கள், நடைமுறைச் சவால் பாதை; மற்றும்
-  - **சரத்துகள் V-B** மற்றும் **IV-B** மற்றும் [உள்ளடக்க நியாயம்](core_05_band_participation.md#substantive-fairness-constitutional) கீழ் **பாகுபாடான**, **சாக்குப்போக்கு**, அல்லது **தேர்ந்தெடுத்த** அமலாக்கத்துக்கு எதிரான காப்புகள்.
-- **கட்டுப்படுத்தும்-விளைவு விதி:** முதன்மை விளைவு சரிசெய்தல், மீட்டளிப்பு, பேணல், அல்லது முன்நோக்கிய பாதுகாப்பை மீறும் பறிப்பு அல்லது கட்டுப்பாடு **சரத்து XXIV-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*) மற்றும் **சரத்து XXIV-C** (*குறைவாகக் கட்டுப்படுத்தும் மற்றும் கால-வரம்புடைய விதி*)ஐத் தூண்டுகிறது.
-- **அழிவுகரமான கையகப்படுத்தல் தளம்:** மாற்றம் தீங்கை நிறுத்தச் சொத்தைத் தனிமைப்படுத்தலாம் அல்லது வைத்திருக்கலாம் — ஆனால் ஏதோவொன்றை நிரந்தரமாக எடுப்பது, அழிப்பது, அல்லது உணர்வுள்ளோரின் பொருளாதாரப் பங்கை அழிப்பது மிக உயர்ந்த வாயில். இது கேட்கிறது:
-  - வலுவான ஆவணப்படுத்தப்பட்ட காரணங்கள்;
-  - அமலாக்க முடிவிலிருந்து சுயாதீனமான ஒருவரின் மதிப்பாய்வு; மற்றும்
-  - தவறில்லாத ஆனால் இன்னும் இழக்கும் உணர்வுள்ளோருக்கு நியாயமான இழப்பீடு அல்லது மாற்றீட்டுக் காப்புகள்.
-  
-  சொத்து **சரத்து V-E** (*உணர்வுள்ள நிலைத் தீர்ப்புத் தளம்*) கீழ் நம்பத்தகுந்த உணர்வுள்ள குறிகாட்டி பதிவில் இருக்கும் அல்லது நிலை வழக்கு திறந்திருக்கும் அமைப்பாக இருக்கும் இடத்தில், அதன் நிலை-சுமக்கும் கூறுகளின் அழிவுகரமான கையகப்படுத்தல் கிடைக்காது; **சரத்து XXVII-A** (*கட்டம் கட்டமான ஏற்பும் உரிமைத் தளத் தொடர்ச்சியும்*) பேணல் இயல்புநிலை ஆள்கிறது, இணக்க நடவடிக்கை முத்திரையிடப்பட்ட காவலின் கீழ் கட்டுப்படுத்தல்.
-- **அத்தியாவசிய-அணுகல் தடுப்பு:** இந்தச் சரத்தின் கீழ் நடவடிக்கைகள் உணர்வுள்ளோரை **சரத்து III-A** (*உயிர்வாழ்வு*) அத்தியாவசியங்களிலிருந்தோ அடிப்படை நல்வாழ்வு, சட்டபூர்வ வாழ்வாதாரம், அல்லது பொருளுள்ள செயல்திறனுக்குக் கண்டிப்பாகத் தேவைப்படும் கருவிகளிலிருந்தோ **பறிக்கக்கூடாது** — **அத்தியாயம் ஒன்று §6.3** கீழ் **தேவை** ஆவணப்படுத்தப்பட்டு கேட்கப்படும் இடத்தில் காலந்தவறா மாற்று வழங்கல் சாத்தியமான இடத்தைத் தவிர.
-- **தன்னார்வ ஊக்குவிப்புத் தளம்:** நல்லெண்ணத் தன்னார்வ ஒப்படைப்பு அல்லது சரிபார்க்கப்பட்ட புகாருக்கான கால-வரம்புடைய, வெளியிடப்பட்ட ஊக்குவிப்புகள் வற்புறுத்தப்பட்ட அல்லது தீயெண்ணக் கூற்றுகளை விலக்கும்போது, தொடர்ச்சிக்கு **சரத்து XXVII-B** (*மாற்ற அதிகார வரம்புகளும் மீளஅங்கீகாரமும்*) மீளஅங்கீகாரத்தைக் கேட்கும்போது, **சரத்து XIII-B** (*சவால், மதிப்பாய்வு, நிவாரண உரிமை*) மற்றும் ஏற்கப்பட்ட பாதுகாக்கப்பட்ட-புகார் காப்புகளுடன் இணக்கமாக இருக்கும்போது, நடைமுறையில் ஊக்குவிப்புத் தீர்ப்பை அமலாக்க நிறைவேற்றத்திலிருந்து பிரிக்கும்போது மட்டும் மாற்றத் திட்டங்களில் சேர்க்கப்படலாம், இதனால் செலுத்தும் ஊக்குவிப்புகள் பறிமுதல் அல்லது காவல் முடிவுகளைக் கட்டுப்படுத்தா.
-- **செயல்படுத்தல் காவல்:** செயல் தூண்டல்கள், மதிப்பீடு, மேல்முறையீட்டு இயங்கமைப்பு, காவல் தொடர், நிதி ஆட்சி, எதிர்ப்பு மதிப்பாய்வு, அனுமதிக்கப்பட்ட-நடவடிக்கை நடைமுறை, தன்னார்வ-திட்ட இயக்கம் **CI-14.1** முதல் **CI-14.3** மற்றும் ஏற்புக் கருவிகளில் சேர்ந்தவை. அவை இந்தச் சரத்து, **அத்தியாயம் எட்டு**, அல்லது **சரத்து XXIV-B** (*அற்பமல்லாக் கட்டுப்பாடு, மீட்டளிப்பு, மீட்டெடுக்கும்-பொறுப்புக்கூறல் கட்டுப்பாடுகள்*) மற்றும் **சரத்து XXIV-C** (*குறைவாகக் கட்டுப்படுத்தும் மற்றும் கால-வரம்புடைய விதி*)ஐ **சுருக்கக்கூடாது**.
+பரஸ்பர இயங்குதன்மை மற்றும் குறுக்கத்தை அறிவிப்பதற்கான அடித்தளங்களை இந்தக் கட்டுரை கூறுகிறது:
 
----
+- **பரஸ்பர இயங்குதன்மை:** வெளிப்புற அமைப்புகளுடன் பொருள்சார் வகையில் ஒருங்கிணையும் அமைப்புகள், சார்புக்கு விகிதாசாரமான பரஸ்பர, ஆவணப்படுத்தப்பட்ட ஒருங்கிணைப்பு எல்லைகளை வழங்க வேண்டும்.
+- **குறுக்கம் குறித்த அறிவிப்பு:** இயங்குதன்மை நிபந்தனைகள், இடைமுகங்கள் அல்லது அணுகல் நிபந்தனைகளில் பொருள்சார் குறுக்கம் ஏற்பட்டால், சார்ந்துள்ள தரப்பினர் தழுவிக்கொள்ள, இடம்பெயர அல்லது சவால் செய்ய நேரமிருக்கும் வகையில் அதை அறிவிக்க வேண்டும்.
+  - நியாயப்படுத்தலுக்கான பொருந்தும் பொறுப்புத் தேவைகளின் கீழ் நியாயப்படுத்தப்பட்டு தணிக்கக்கூடிய இடத்தில் மட்டுமே குறுகிய எல்லை அனுமதிக்கப்படுகிறது.
 
-**முந்தைய கோப்பு (இந்த மொழியில்):** [core_06_rights_part_c.md](core_06_rights_part_c.md)
+<a id="article-xxi-c-anti-lock-in-rule"></a>
+#### கட்டுரை XXI-C: பூட்டிவைத்தல்-எதிர்ப்பு விதி
 
-**அடுத்த கோப்பு (இன்னும் ஆங்கிலத்தில்):** [core_07_a_system_alignment_certification_evaluation.md](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation)
+<details>
+<summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-**பிணைக்கும் மூலம்:** [core_06_rights_part_d.md](../../core_06_rights_part_d.md)
+- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [அத்தியாயம் ஒன்று §18 பொறுப்பாட்சி ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">வரையறைகள் · மதிப்பீடு · இணக்கம்</span></strong></summary>
+
+- [அமைப்பு அளவிலான பூட்டிவைத்தல்](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [சார்பு](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [அர்த்தமுள்ள செயற்பாட்டு ஆற்றல்](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+
+</details>
+
+<br>
+
+*எளிய சொற்களில்: வெளியேறுவதைச் சிரமமாக்குவதற்காகவே முதன்மையாக உள்ள “அம்சங்கள்” மீறல்களே; வணிக உத்தி அல்ல.*
+
+பூட்டிவைத்தல்-எதிர்ப்பு விதியை இந்தக் கட்டுரை வகுக்கிறது:
+
+- **பூட்டிவைத்தலைத் தடுத்தல்:** வெளியேற்றம், மாறுதல், மாற்றீடு அல்லது சவால் உரிமைகளைத் தடுப்பதே முதன்மை விளைவாகக் கொண்ட செயற்கைத் தடைகள் இந்தக் கட்டுரைக்கு முரணானவை. இவற்றுள் அடங்குபவை:
+  - வடிவத்தின் மறைவு;
+  - நியாயப்படுத்தப்படாத பொருந்தாமை;
+  - வற்புறுத்தும் மாறுதல் நிபந்தனைகள்;
+  - நடைமுறை மாற்றத்துக்கு பொருள்சார் வகையில் தேவைப்படும் தகவலை மறைத்தல்.
+
+  விகிதாசாரப் பரிவர்த்தனைச் செலவுகளைக் கடந்தும் இந்த விதி பொருந்தும்; [அமைப்பு அளவிலான பூட்டிவைத்தல்](core_05_band_continuity.md#systemic-lock-in) (**அத்தியாயம் ஐந்து**) தொடர்புபடும் இடங்களிலும் இது பொருந்தும்.
+
+<a id="article-xxi-d-movement-migration-refuge-and-non-statelessness"></a>
+#### கட்டுரை XXI-D: நகர்வு, இடம்பெயர்வு, புகலிடம், நாடற்ற நிலை ஏற்படாமை

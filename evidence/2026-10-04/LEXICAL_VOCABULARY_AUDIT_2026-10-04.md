@@ -1,0 +1,156 @@
+# Lexical vocabulary audit — 2026-10-04
+
+Rules:
+- **`forbidden-cloud`:** standalone **cloud** → use **info-sphere** (and related) terminology.
+- **`corpus-no-bare-charter`:** in scoped files, standalone **charter** → prefer **constitutional** / **this Constitution** for Corpus sense. **Allowed:** `corporate charter`; `treaty, compact, or charter`; `adoption, federation, or charter`; verb forms such as `supervise, charter, or …` / `hold a charter over`; Chapter Five **Charter** (scope instrument) and related compounds (`governing Charter`, `charter amendment`, `chartered scope`, `#charter` anchors).
+- **`malformed-constitutional-*`:** reject **this constitutional.** / **implement this constitutional.** / **the constitutional requires** / **under the constitutional.** (line-end) / **with this constitutional when** / **constitutional-free**, and hyphen glitches **constitutional-valid**, **constitutional-bounded**, **constitutional-governed**, **constitutional-scaled**, **constitutional-compatible**, **constitutional-applicable**, **constitutional-material**, **constitutional-hook** (use *constitutionally …* or **this Constitution** / **constitutional hook** as appropriate).
+- **`prefer-sentients-not-person-people-phrasing`:** reject standalone **person** / **persons** (including possessives), **people**, and **people and agents** → use **sentient** / **sentients** (or another defined corpus term). Exceptions are preserved by boundary rules for compounds and lemmas such as **in-person**, **personal**, **personnel**, **persona**, **personalized**, and **non-personal data**.
+- **`avoid-accession-jargon`:** reject **accede**, **acceding**, and **accession** → prefer **join** / **joining** / **additional parties** adoption wording.
+- **`avoid-undefined-breach-family`:** reject standalone **breach** / **breaches** / **breached** / **breaching**, **duty breach**, and **duty-breaching** → prefer **violation**, **non-compliance**, **unmet duties**, or defined Chapter Nine typing (see `.cursor/rules/clarity.mdc`). *Currently enforced only on files in `_BREACH_FAMILY_SCOPE` inside `tools/lexical_vocabulary_audit.py`.*
+- **`avoid-seriously`:** reject **seriously** → use **materially** / **material** (the defined [Materiality](core_05_band_oversight.md#materiality-determination) threshold), not an intensity adverb.
+- **`avoid-reasonably-well-or-effective`:** reject **reasonably well** / **reasonably effective** / **reasonably effectively** (undefined threshold) → name the purpose the alternative must serve, e.g. **would still prevent the material harm or systemic risk**.
+- **`avoid-minima`:** reject **minima** → prefer **requirements**, **floors**, **conditions**, or another context-specific term.
+- **`avoid-court-family`:** reject **court** / **courts** in institutional senses → prefer **forum** / **forums**, **forum family**, or **adjudicative body**.
+- **`avoid-tribunal-family`:** reject internal Chapter Twelve / forum-governance **tribunal** / **tribunals** → prefer **forum** / **forums**, **forum family**, **panel**, **bench**, or **adjudicative body**. **Allowed:** external or historical tribunal wording where source fidelity or external legal-order references require it.
+- **`avoid-standing-calculus`:** reject **standing calculus** / **standing-calculus** (undefined jargon) → prefer **standing-record classification under Chapter Nine**, **classify standing records** on the Contribution and Violation axes, or other explicit Chapter Nine wording.
+- **`avoid-bare-drift`:** reject bare **drift** for stewardship, governance, incentive, or alignment divergence → prefer **misalignment** or **constitutional misalignment**. **Allowed:** **anti-drift**, **classification drift**, **version drift**, **editorial drift**, **cross-layer drift**, **Misclassification and misalignment**, and `reopening-drift` anchors.
+- **`avoid-bare-pathway`:** reject **pathway** / **pathways** without a qualifier that says which kind (after a determiner, conjunction, preposition, or generic adjective; at the start of a sentence, bullet, or cell; or as a `pathway-…` prefix compound) → prefer **named pathway** / a Chapter Ten §4.2 type prefix in the standing sense, **challenge** / **review** / **appeal** / **remedy** / **redress** / **contest** / **dispute-resolution** / **restorative** pathways for process routes, and **causal** / **harm** / **risk** / **reliance** / **service** or another explicit type elsewhere.
+- **`load-bearing-rights-floor-casing`:** reject lowercase **rights floor**, **rights floors**, and **rights-floor** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Rights Floor**, **Rights Floors**, or **Rights-Floor** for the named Chapter Six layer.
+- **`load-bearing-foundational-rights-casing`:** reject **Foundational rights** / **foundational rights** outside Markdown link targets, inline code, and HTML ``id`` attributes → use **Foundational Rights** when naming the Chapter Six title or layer.
+- **`avoid-should-not-prohibitions`:** reject **should not** in corpus prose → use **must not** for binding negative constraints.
+- **`avoid-definition-map-label`:** reject **Definition map.** → integrate term relationships in plain prose; use *In plain terms* for reader orientation.
+- **`avoid-router-read-label`:** reject **Router read:** in implementation-corpus body prose → use `- Topic routing (primary owner):` or `- Topic routing (mandatory read-with):` bullets inside the Trace `<details>` block.
+- **`avoid-governance-layer-labels`:** reject **stakeholder governance**, **constitutional governance** (except Tetrad-sense **constitutional governance safeguards**), **constitutional governance layer**, **stakeholder governance layer**, **governance layer mechanism** / **governance-layer mechanism**, **stakeholder-layer**, and **two-tier constitutional and stakeholder governance** → name **Constitutional Contract Layer** vs **Stakeholder System Participation** (Preamble §3.3). Finding-profile codes **CCL** / **SSP** / **INT** remain allowed.
+
+## Scope
+- `core_00_preamble.md`
+- `core_01_a_values_principles.md`
+- `core_01_b_interaction_interpretation.md`
+- `core_01_c_stewardship_capacity_principles.md`
+- `core_02_definition_structure.md`
+- `core_03_definition_integrity.md`
+- `core_04_burden_traceability_verification.md`
+- `core_05__definitions_home.md`
+- `core_05_apex_accountability_leg.md`
+- `core_05_apex_continuity_aim.md`
+- `core_05_apex_flourishing_aim.md`
+- `core_05_apex_oversight_leg.md`
+- `core_05_apex_participation_leg.md`
+- `core_05_apex_timeliness_leg.md`
+- `core_05_band_accountability.md`
+- `core_05_band_continuity.md`
+- `core_05_band_integrative.md`
+- `core_05_band_oversight.md`
+- `core_05_band_participation.md`
+- `core_05_band_performance.md`
+- `core_07_functional_independence_segregation_of_duties.md`
+- `core_08_a_system_alignment_certification_evaluation.md`
+- `core_08_b_system_alignment_certification_record_process.md`
+- `core_08_system_alignment_certification.md`
+- `core_09_standing_assessment.md`
+- `core_10_standing_integration.md`
+- `core_11_a_misconduct_designation.md`
+- `core_11_b_misconduct_pattern_applications.md`
+- `core_12_forum.md`
+- `core_09-12_application_vignettes.md`
+- `core_06_rights_part_a.md`
+- `core_06_rights_part_b.md`
+- `core_06_rights_part_c.md`
+- `core_06_rights_part_d.md`
+- `core_06_rights_part_e.md`
+- `core_13_governance.md`
+- `core_14_non_regression.md`
+- `core_15_expansion_supremacy.md`
+- `core_16_amendment_ratification.md`
+- `core_17_incorporation.md`
+- `corpus_systems.md`
+- `corpus_institutions.md`
+- `corpus_forum.md`
+- `corpus_joint_structure.md`
+- `corpus_joint_structure/cjs_00_registry_and_reading_rules.md`
+- `corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md`
+- `corpus_joint_structure/cjs_02_specific_joint_interlocks.md`
+- `corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md`
+- `corpus_joint_structure/cjs_03a_accountability_operations.md`
+- `corpus_joint_structure/cjs_03c_continuity_operations.md`
+- `corpus_joint_structure/cjs_03i_integrative_operations.md`
+- `corpus_joint_structure/cjs_03o_oversight_operations.md`
+- `corpus_joint_structure/cjs_03p_participation_operations.md`
+- `corpus_joint_structure/cjs_03u_audit_process.md`
+- `corpus_joint_structure/cjs_04_drafting_contracts.md`
+- `corpus_joint_structure/cjs_05_odef_parse_mechanics.md`
+- `corpus_joint_structure/cjs_06_support_hosting_classification.md`
+- `corpus_joint_structure/cjs_reader_guide.md`
+- `corpus_systems/cs_00_registry_and_reading_rules.md`
+- `corpus_systems/cs_01_scope_purpose_identifier_rules.md`
+- `corpus_systems/cs_02_a_information_types_and_handling.md`
+- `corpus_systems/cs_02_b_data_classifications.md`
+- `corpus_systems/cs_03_a_system_classification_machinery.md`
+- `corpus_systems/cs_03_b_system_impact_classifications.md`
+- `corpus_systems/cs_04_critical_system_stewardship.md`
+- `corpus_systems/cs_05_a_user_facing_capabilities.md`
+- `corpus_systems/cs_05_design_testing_verification_deployment.md`
+- `corpus_systems/cs_06_comprehensibility_complexity_stewardship.md`
+- `corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md`
+- `corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md`
+- `corpus_systems/cs_09_resource_allocation_funding_stewardship.md`
+- `corpus_systems/cs_10_transition_constitution_migration_governance.md`
+- `corpus_systems/cs_11_subversion_response_replacement_reconstitution.md`
+- `corpus_systems/cs_12_decentralized_continuity_partition_resilience.md`
+- `corpus_institutions/ci_00_registry_and_reading_rules.md`
+- `corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md`
+- `corpus_institutions/ci_03_institutional_design_separation_of_powers.md`
+- `corpus_institutions/ci_04_appointment_competency_rotation_removal.md`
+- `corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md`
+- `corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md`
+- `corpus_institutions/ci_07_oversight_assurance_controls_evidence.md`
+- `corpus_institutions/ci_08_transparency_participation_accessible_pathways.md`
+- `corpus_institutions/ci_09_classification_linked_institutional_obligations.md`
+- `corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md`
+- `corpus_institutions/ci_11_resource_stewardship_incentive_integrity.md`
+- `corpus_institutions/ci_12_cross_institution_coordination_escalation.md`
+- `corpus_institutions/ci_13_institutional_failure_sanctions_dissolution_accountability.md`
+- `corpus_institutions/ci_14_transitional_governance_institutional_evolution.md`
+- `corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md`
+- `corpus_institutions/ci_16_care_labor_dependent_support_respite_care_economy_fairness.md`
+- `corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md`
+- `corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md`
+- `corpus_institutions/ci_19_vulnerable_personal_services_markets_article_viie_interface.md`
+- `corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md`
+- `corpus_institutions/ci_21_community_life_voluntary_association_non_instrumental_time.md`
+- `corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md`
+- `corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md`
+- `corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md`
+- `corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md`
+- `corpus_institutions/ci_26_compliance_mapping_stable_registry.md`
+- `corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md`
+- `corpus_forum/cf_00_registry_and_reading_rules.md`
+- `corpus_forum/cf_01_scope_authority_boundary_rules.md`
+- `corpus_forum/cf_03_forum_formation_chamber_structure.md`
+- `corpus_forum/cf_04_panel_formation_disclosure_recusal_bench_constitution.md`
+- `corpus_forum/cf_05_routing_operations_transfer_certification_representative_treatment.md`
+- `corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md`
+- `corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md`
+- `corpus_forum/cf_08_forum_forensic_analytical_support.md`
+- `corpus_forum/cf_09_independent_investigative_service_prosecution_interface.md`
+- `corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md`
+- `corpus_forum/cf_11_performance_backlog_publication_accessibility.md`
+- `corpus_forum/cf_12_forum_continuity.md`
+- `corpus_forum/cf_13_fallback_operation.md`
+- `corpus_forum/cf_14_emergency_adjudication.md`
+- `corpus_forum/cf_15_standard_records_forms_evidence_artifacts.md`
+- `corpus_forum/cf_16_staffing_reserve_capacity_structural_records.md`
+- `corpus_forum/cf_sentience_status_record.md`
+- `doc_architecture.md`
+- `README.md`
+
+## Findings
+| File | Line | Rule | Snippet |
+|---:|---:|---|---|
+| `core_01_c_stewardship_capacity_principles.md` | 659 | `prefer-sentients-not-person-people-phrasing` | - **Judges and interpreters are held to the highest standard.** People on constitutional forums and panels who interp... |
+| `core_01_c_stewardship_capacity_principles.md` | 738 | `prefer-sentients-not-person-people-phrasing` | Oversight and accountability only work if the checking is done independently of the action being checked. So every de... |
+| `core_01_c_stewardship_capacity_principles.md` | 740 | `prefer-sentients-not-person-people-phrasing` | - different people (or AI systems) in the "doing" and "checking" roles; |
+| `core_01_c_stewardship_capacity_principles.md` | 744 | `prefer-sentients-not-person-people-phrasing` | - a way to redirect a matter that lands with the wrong person. |
+
+## Result
+- `FAIL`

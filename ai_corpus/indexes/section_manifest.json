@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-04T10:08:12+00:00",
+  "generated_at": "2026-10-04T12:53:06+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -711,13 +711,13 @@
       ]
     },
     "core_01_c_stewardship_capacity_principles.md": {
-      "total_lines": 1468,
+      "total_lines": 1488,
       "sections": [
         {
           "header": "CHAPTER 01, PART C: STEWARDSHIP AND GOVERNANCE",
           "level": 1,
           "line_start": 4,
-          "line_end": 1468,
+          "line_end": 1488,
           "anchor": "#chapter-01-part-c-stewardship-and-governance"
         },
         {
@@ -794,175 +794,175 @@
           "header": "18. Governance Under Stewardship Discipline",
           "level": 3,
           "line_start": 579,
-          "line_end": 883,
+          "line_end": 903,
           "anchor": "#18-governance-under-stewardship-discipline"
         },
         {
           "header": "18.1 Governance as Authorized Structure",
           "level": 4,
           "line_start": 615,
-          "line_end": 667,
+          "line_end": 669,
           "anchor": "#181-governance-as-authorized-structure"
         },
         {
           "header": "18.2 Institutional Secularism and Worldview Neutrality",
           "level": 4,
-          "line_start": 668,
-          "line_end": 699,
+          "line_start": 670,
+          "line_end": 706,
           "anchor": null
         },
         {
           "header": "18.3 Segregation of Duties",
           "level": 4,
-          "line_start": 700,
-          "line_end": 733,
+          "line_start": 707,
+          "line_end": 753,
           "anchor": "#183-segregation-of-duties"
         },
         {
           "header": "18.4 Ongoing Justification",
           "level": 4,
-          "line_start": 734,
-          "line_end": 778,
+          "line_start": 754,
+          "line_end": 798,
           "anchor": "#184-ongoing-justification"
         },
         {
           "header": "18.5 Modular Architecture and Dependency Discipline",
           "level": 4,
-          "line_start": 779,
-          "line_end": 830,
+          "line_start": 799,
+          "line_end": 850,
           "anchor": "#185-modular-architecture-and-dependency-discipline"
         },
         {
           "header": "18.6 Standardization",
           "level": 4,
-          "line_start": 831,
-          "line_end": 883,
+          "line_start": 851,
+          "line_end": 903,
           "anchor": "#186-standardization"
         },
         {
           "header": "19. Incentive Alignment and System Capture",
           "level": 3,
-          "line_start": 884,
-          "line_end": 1425,
+          "line_start": 904,
+          "line_end": 1445,
           "anchor": "#19-incentive-alignment-and-system-capture"
         },
         {
           "header": "19.1 Alignment Requirement",
           "level": 4,
-          "line_start": 935,
-          "line_end": 1054,
+          "line_start": 955,
+          "line_end": 1074,
           "anchor": "#191-alignment-requirement"
         },
         {
           "header": "19.1.1 What Incentives Must Do",
           "level": 5,
-          "line_start": 961,
-          "line_end": 975,
+          "line_start": 981,
+          "line_end": 995,
           "anchor": "#1911-what-incentives-must-do"
         },
         {
           "header": "19.1.2 What Incentives Must Not Do",
           "level": 5,
-          "line_start": 976,
-          "line_end": 997,
+          "line_start": 996,
+          "line_end": 1017,
           "anchor": "#1912-what-incentives-must-not-do"
         },
         {
           "header": "19.1.3 Stewardship and Operator Application",
           "level": 5,
-          "line_start": 998,
-          "line_end": 1006,
+          "line_start": 1018,
+          "line_end": 1026,
           "anchor": "#1913-stewardship-and-operator-application"
         },
         {
           "header": "19.1.4 Role-Depth and Material-Responsibility Pathways",
           "level": 5,
-          "line_start": 1007,
-          "line_end": 1031,
+          "line_start": 1027,
+          "line_end": 1051,
           "anchor": "#1914-role-depth-and-material-responsibility-pathways"
         },
         {
           "header": "19.1.5 Constitutional Outcome Claims Discipline",
           "level": 5,
-          "line_start": 1032,
-          "line_end": 1054,
+          "line_start": 1052,
+          "line_end": 1074,
           "anchor": "#1915-constitutional-outcome-claims-discipline"
         },
         {
           "header": "19.2 Convenient Proxies and Proxy Divergence",
           "level": 4,
-          "line_start": 1055,
-          "line_end": 1086,
+          "line_start": 1075,
+          "line_end": 1106,
           "anchor": "#192-convenient-proxies-and-proxy-divergence"
         },
         {
           "header": "19.3 Misalignment Detection",
           "level": 4,
-          "line_start": 1087,
-          "line_end": 1159,
+          "line_start": 1107,
+          "line_end": 1179,
           "anchor": "#193-misalignment-detection"
         },
         {
           "header": "19.3.1 Escalation Triggers",
           "level": 5,
-          "line_start": 1128,
-          "line_end": 1159,
+          "line_start": 1148,
+          "line_end": 1179,
           "anchor": "#1931-escalation-triggers"
         },
         {
           "header": "19.4 Misalignment Correction and Capture Response",
           "level": 4,
-          "line_start": 1160,
-          "line_end": 1212,
+          "line_start": 1180,
+          "line_end": 1232,
           "anchor": "#194-misalignment-correction-and-capture-response"
         },
         {
           "header": "19.5 Contingent Claims, Games of Chance, and Event-Contract Markets",
           "level": 4,
-          "line_start": 1213,
-          "line_end": 1370,
+          "line_start": 1233,
+          "line_end": 1390,
           "anchor": "#195-contingent-claims-games-of-chance-and-event-contract-markets"
         },
         {
           "header": "19.5.1 What May Not Be Rewarded",
           "level": 5,
-          "line_start": 1265,
-          "line_end": 1286,
+          "line_start": 1285,
+          "line_end": 1306,
           "anchor": "#1951-what-may-not-be-rewarded"
         },
         {
           "header": "19.5.2 Who Decides Outcomes",
           "level": 5,
-          "line_start": 1287,
-          "line_end": 1313,
+          "line_start": 1307,
+          "line_end": 1333,
           "anchor": "#1952-who-decides-outcomes"
         },
         {
           "header": "19.5.3 Market Signals Are Not Constitutional Proof",
           "level": 5,
-          "line_start": 1314,
-          "line_end": 1335,
+          "line_start": 1334,
+          "line_end": 1355,
           "anchor": "#1953-market-signals-are-not-constitutional-proof"
         },
         {
           "header": "19.5.4 Proportionate Controls and Implementation Custody",
           "level": 5,
-          "line_start": 1336,
-          "line_end": 1370,
+          "line_start": 1356,
+          "line_end": 1390,
           "anchor": "#1954-proportionate-controls-and-implementation-custody"
         },
         {
           "header": "19.6 Successor Responsibility and Formal-Structure Non-Escape",
           "level": 4,
-          "line_start": 1371,
-          "line_end": 1425,
+          "line_start": 1391,
+          "line_end": 1445,
           "anchor": "#196-successor-responsibility-and-formal-structure-non-escape"
         },
         {
           "header": "20. Integrated Application",
           "level": 3,
-          "line_start": 1426,
-          "line_end": 1468,
+          "line_start": 1446,
+          "line_end": 1488,
           "anchor": "#20-integrated-application"
         }
       ]
@@ -7754,13 +7754,13 @@
       ]
     },
     "corpus_systems/cs_03_a_system_classification_machinery.md": {
-      "total_lines": 514,
+      "total_lines": 566,
       "sections": [
         {
           "header": "CS-3, Part A: System classification machinery",
           "level": 1,
           "line_start": 2,
-          "line_end": 514,
+          "line_end": 566,
           "anchor": "#cs-3-part-a-system-classification-machinery"
         },
         {
@@ -7809,7 +7809,7 @@
           "header": "CS-3.7 Classification governance, disclosure, and challenge",
           "level": 2,
           "line_start": 342,
-          "line_end": 514,
+          "line_end": 566,
           "anchor": "#cs-3-7-classification-governance-disclosure-and-challenge"
         }
       ]
