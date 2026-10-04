@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-04T02:46:22+00:00",
+  "generated_at": "2026-10-04T10:08:14+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16109,
+  "edge_count": 16137,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -13956,7 +13956,7 @@
       "source_anchor": "#173-role-scoped-observability",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-compliance-violation-and-standing-model",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -14010,6 +14010,22 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "17.4 Aligned Self-Organization",
       "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1323-privacy-and-informational-self-determination",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
       "target_file": "core_04_burden_traceability_verification.md",
       "target_anchor": "#chapter-four-burden-of-proof-traceability-and-verification",
       "count": 2
@@ -14020,7 +14036,7 @@
       "source_anchor": "#174-aligned-self-organization",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#protected-reporting-whistleblowing",
-      "count": 3
+      "count": 4
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -14146,6 +14162,38 @@
       "source_file": "core_01_c_stewardship_capacity_principles.md",
       "source_header": "17.4 Aligned Self-Organization",
       "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#jurisdiction",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#jurisdiction-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#jurisdiction-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#surveillance-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#evidence-preservation",
       "count": 3
@@ -14236,6 +14284,62 @@
       "source_anchor": "#174-aligned-self-organization",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xvi-audit-transparency-and-independent-verification",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#37-record-custody-and-opening-authority",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#21-silence-is-the-default",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#36-forum-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#31-minimum-record-contents",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#6-contribution-consequences-second",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#23-forum-case-records-standing-records-and-contests",
+      "count": 4
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17.4 Aligned Self-Organization",
+      "source_anchor": "#174-aligned-self-organization",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#capacity-failure-routing",
       "count": 1
     },
     {
@@ -20404,6 +20508,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#irreversible-harm",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#jurisdiction",
       "count": 1
     },
     {
@@ -27971,6 +28083,14 @@
       "source_header": "Def.A2 Forum Families and Dispute Routing",
       "source_anchor": "#forum-families-and-dispute-routing-cluster",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#jurisdiction",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Def.A2 Forum Families and Dispute Routing",
+      "source_anchor": "#forum-families-and-dispute-routing-cluster",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#primary-stakes-routing",
       "count": 1
     },
@@ -29452,6 +29572,110 @@
       "source_anchor": "#irreversible-harm",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#existential-risk",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#primary-stakes-routing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-case-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#adjudication-and-dispute-resolution-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#merits-determination",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contestability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#2-default-venue-and-primary-stakes",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#5-escalation-and-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_15_expansion_supremacy.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Jurisdiction",
+      "source_anchor": "#jurisdiction",
+      "target_file": "core_17_incorporation.md",
+      "target_anchor": null,
       "count": 2
     },
     {

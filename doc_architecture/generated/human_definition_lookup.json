@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 249,
+  "term_count": 250,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -972,6 +972,13 @@
       "anchor": "#irreversible-harm",
       "plain_terms": "irreversible harm is damage that cannot meaningfully be repaired in the time that matters for the affected sentients or systems.",
       "href": "../../core_05_band_accountability.md#irreversible-harm"
+    },
+    {
+      "term": "Jurisdiction",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#jurisdiction",
+      "plain_terms": "jurisdiction is a forum's authority to hear and decide a particular matter. This Constitution assigns it. A forum cannot claim it by caption, by a party's choice, or for convenience, and being skilled does not create it. A forum with jurisdiction can still fail on independence or capacity, and those failures are handled separately.",
+      "href": "../../core_05_band_accountability.md#jurisdiction"
     },
     {
       "term": "Language, Culture, and Heritage",

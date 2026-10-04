@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-04T02:46:20+00:00
+Generated: 2026-10-04T10:08:21+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **248/248** terms pass tier audit.
+Approved progress: **249/249** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -239,6 +239,7 @@ Approved progress: **248/248** terms pass tier audit.
 | Initiating Seat | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Innovation Reward and Anti-Enclosure | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Insider Advantage | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Jurisdiction | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Market Concentration Threshold | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Market Structure | approved | full | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Material Control Line | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
