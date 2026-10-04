@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-04T12:53:07+00:00",
+  "generated_at": "2026-10-04T14:56:51+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -9590,6 +9590,7 @@
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 15,
             "anchors": [
+              "#ci-141-interface--article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
               "#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives",
               "#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements",
               "#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication",
@@ -13850,7 +13851,9 @@
           {
             "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
             "count": 2,
-            "anchors": []
+            "anchors": [
+              "#cf-72-constitutional-alignment-recognition-and-review"
+            ]
           },
           {
             "file": "corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md",
@@ -14509,7 +14512,9 @@
           {
             "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cf-72-constitutional-alignment-recognition-and-review"
+            ]
           },
           {
             "file": "corpus_systems.md",
@@ -14702,7 +14707,9 @@
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#ci-71-controls-declaration"
+            ]
           },
           {
             "file": "corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md",
@@ -15445,7 +15452,9 @@
           {
             "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-311-accountability-distributed-and-proportional-authority-terms"
+            ]
           }
         ]
       },
@@ -17297,7 +17306,9 @@
           {
             "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms"
+            ]
           }
         ]
       },
@@ -17401,7 +17412,9 @@
           {
             "file": "corpus_joint_structure/cjs_03p_participation_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-38-participation-comprehensibility-and-cognitive-accessibility-terms"
+            ]
           }
         ]
       },
@@ -17526,7 +17539,9 @@
           {
             "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-316-continuity-dependency-integrity-and-disclosure-terms"
+            ]
           }
         ]
       },
@@ -17636,7 +17651,9 @@
           {
             "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms"
+            ]
           }
         ]
       },
@@ -17753,7 +17770,9 @@
           {
             "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-312-accountability-burden-of-justification-and-constraint-terms"
+            ]
           }
         ]
       },
@@ -17857,7 +17876,9 @@
           {
             "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms"
+            ]
           }
         ]
       },
@@ -17973,7 +17994,9 @@
           {
             "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms"
+            ]
           }
         ]
       },
@@ -18086,7 +18109,9 @@
           {
             "file": "corpus_joint_structure/cjs_03p_participation_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-37-participation-quorum-and-participatory-legitimacy-terms"
+            ]
           }
         ]
       },
@@ -18212,7 +18237,9 @@
           {
             "file": "corpus_joint_structure/cjs_03p_participation_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-37-participation-quorum-and-participatory-legitimacy-terms"
+            ]
           }
         ]
       },
@@ -18323,7 +18350,9 @@
           {
             "file": "corpus_joint_structure/cjs_03p_participation_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-37-participation-quorum-and-participatory-legitimacy-terms"
+            ]
           }
         ]
       },
@@ -18427,12 +18456,16 @@
           {
             "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-312-accountability-burden-of-justification-and-constraint-terms"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms"
+            ]
           }
         ]
       },
@@ -18536,7 +18569,9 @@
           {
             "file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cjs-35-oversight-independent-verification-and-claim-integrity-terms"
+            ]
           }
         ]
       },
@@ -19156,7 +19191,9 @@
           {
             "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -19366,7 +19403,9 @@
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#ci-73-contest-integrity-monitoring-class-a-and-class-b"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -19844,7 +19883,9 @@
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 3,
-            "anchors": []
+            "anchors": [
+              "#ci-73-contest-integrity-monitoring-class-a-and-class-b"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -20013,7 +20054,9 @@
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#ci-73-contest-integrity-monitoring-class-a-and-class-b"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",
@@ -20211,12 +20254,16 @@
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#ci-73-contest-integrity-monitoring-class-a-and-class-b"
+            ]
           },
           {
             "file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline"
+            ]
           },
           {
             "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
@@ -20390,7 +20437,7 @@
             "anchors": []
           },
           {
-            "file": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+            "file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
             "count": 1,
             "anchors": []
           },
@@ -20616,7 +20663,9 @@
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#ci-73-contest-integrity-monitoring-class-a-and-class-b"
+            ]
           },
           {
             "file": "corpus_institutions/ci_12_cross_institution_coordination_escalation.md",
@@ -20645,7 +20694,9 @@
           {
             "file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#cs-711-lived-condition-floors-continuity-and-re-entry-alignment"
+            ]
           }
         ]
       },
@@ -21201,7 +21252,9 @@
           {
             "file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
             "count": 1,
-            "anchors": []
+            "anchors": [
+              "#ci-73-contest-integrity-monitoring-class-a-and-class-b"
+            ]
           },
           {
             "file": "corpus_joint_structure/cjs_00_registry_and_reading_rules.md",

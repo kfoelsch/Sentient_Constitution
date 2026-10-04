@@ -14,15 +14,15 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline); [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.8.1](#cjs-181-implementation-boundary-primary-owner-to-cjs-seam).
-- Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline) (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-1.8.1](#cjs-181-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*).
+- Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
 
 </details>
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-1.7**, **CJS-1.8**, and **CJS-1.8.1** (*drafting contracts and the primary-owner-to-CJS seam*).
+This file is the joint-structure implementation home for **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*), **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*), and **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*).
 
 *In plain terms: these sections are for editors and auditors. They say how to split a topic across files without writing two competing rulebooks, and how to keep **CJS** as a connector rather than a second owner.*
 
@@ -34,7 +34,7 @@ Average readers can skip this file unless a citation sends them here. How to ent
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-1.7**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
+- Read with: **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*).
 
 </details>
 
@@ -44,7 +44,7 @@ Some topics are **deliberately** split across implementation files — for examp
 
 - the **primary owner** states the **full operative** rules for the scope that row assigns to it;
 - **CJS** text for the same topic adds **joint satisfaction conditions**, **read-with pointers**, and **interface requirements** only when **CJS** is not the **primary owner** for that row;
-- do **not** restate **oDef** / **CJS-3** (*Implementation and cross-implementation operational cluster library*) clusters, **CS-2/CS-3** tables, or **CF-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
+- do **not** restate **oDef** / **CJS-3** (*operational cluster library (oDef)*) clusters, **CS-2** (*Information types and handling*)/**CS-3** (*System classification machinery*) tables, or **CF-** / **CI-** checklists except in brief **quote** or **summary pointer** form when needed for coherence.
 
 Domain-layer overlap discipline: apply [Institutions overlap discipline](../corpus_institutions/ci_00_registry_and_reading_rules.md#institutions-overlap-discipline), [Forums overlap discipline](../corpus_forum/cf_00_registry_and_reading_rules.md#forums-overlap-discipline), and [Systems overlap discipline](../corpus_systems/cs_00_registry_and_reading_rules.md#systems-overlap-discipline) in the respective registry annexes.
 
@@ -54,7 +54,7 @@ Domain-layer overlap discipline: apply [Institutions overlap discipline](../corp
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-1.8**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8.1**; [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
+- Read with: **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
 - Downstream: [CJS-1.8.1 Implementation boundary (primary owner to CJS seam)](#cjs-181-implementation-boundary-primary-owner-to-cjs-seam).
 
 </details>
@@ -66,7 +66,7 @@ The CJS folder may adopt **binding high-level joint abstractions** only where a 
 For this contract:
 
 - **Tier 1 (CJS abstraction):** state only shared admission scope, cross-implementation trigger conditions, and minimum joint consequences needed to avoid contradiction or silent gaps.
-- **Tier 2 (owner detail):** retain all operational tests, thresholds, procedures, and implementation mechanics in the **primary owner** section(s) named in **CJS-0.1** (*Cross-implementation read-with contract*).
+- **Tier 2 (owner detail):** retain all operational tests, thresholds, procedures, and implementation mechanics in the **primary owner** section(s) named in **CJS-0.1** (*Cross-file routing*).
 - **No parallel canon:** CJS abstractions must not become a second full taxonomy for domains owned by **CJS**, **CS**, **CI**, or **CF**.
 - **Specialize, do not redefine:** owner files may specialize a CJS abstraction for their domain scope but must not redefine it incompatibly.
 
@@ -88,16 +88,16 @@ Domain-layer read-with contracts: apply [Institutions read-with pointers](../cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
-- Read with: **CJS-1.8.1**; **CJS-1.1**; **CJS-1.7**; **CJS-1.8**; **CJS-0.3**; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
+- Upstream: [CJS-1.8](#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*); [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); [CJS-1.7](#cjs-17-intentional-overlap-non-duplication-discipline) (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations).
+- Read with: **CJS-1.8.1** (*Implementation boundary (primary owner to CJS seam)*); **CJS-1.1** (*Section identifiers and article references*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); **CJS-0.3** (*Stable identifiers, edition alignment, and drafting notes*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*).
 
 </details>
 
 <br>
 
-*In plain terms: **CJS** connects files — it does not swallow them. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF**), keep **CJS** pointers short, and keep **CJS-3** cluster citations traceable under **CJS-0.3**.*
+*In plain terms: **CJS** connects files — it does not swallow them. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF**), keep **CJS** pointers short, and keep **CJS-3** (*operational cluster library (oDef)*) cluster citations traceable under **CJS-0.3** (*Stable identifiers, edition alignment, and drafting notes*).*
 
-Under the identifier and definition-home rules in **CJS-1.1** (*Section identifiers and article references*), the **CJS-3** (*Implementation and cross-implementation operational cluster library*) files remain the operative home for **oDef** clusters (**oDef.*n*** = **CJS-3.*n***).
+Under the identifier and definition-home rules in **CJS-1.1** (*Section identifiers and article references*), the **CJS-3** (*operational cluster library (oDef)*) files remain the operative home for **oDef** clusters (**oDef.*n*** = **CJS-3.*n***).
 
 When revising **CJS** joint-structure text:
 - keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;

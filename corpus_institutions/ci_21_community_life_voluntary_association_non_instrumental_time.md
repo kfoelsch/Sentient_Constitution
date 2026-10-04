@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-21.1: Civic infrastructure and non-instrumental time](#ci-211-civic-infrastructure-and-non-instrumental-time); [CI-21.2: Voluntary association and anti-coercion guardrails](#ci-212-voluntary-association-and-anti-coercion-guardrails); [CI-21.3: Referral and escalation interfaces](#ci-213-referral-and-escalation-interfaces).
-- Read with: **CI-21**; **CI-5**; **CI-9**; **CI-8**; **CI-22**; **CI-20**; **CI-6**; **CJS-3.7** (*quorum and participatory legitimacy terms*).
+- Read with: **CI-21** (*Community life, voluntary association, and non-instrumental time*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-9** (*Classification-linked institutional obligations*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*); **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*); **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CJS-3.7** (*quorum and participatory legitimacy terms*).
 
 </details>
 
@@ -37,7 +37,7 @@
 
 This file is the institutional implementation home for **CI-21** (*Community life, voluntary association, and non-instrumental time*).
 
-*In plain terms: **CI-21** is the local owner map for community life that is not just another productivity slot — gathering, play, recreation, solitude, cultural practice, and voluntary association. Shared floors live in **CJS-3.7**; local duties sit in **CI-21.1** through **CI-21.3**.*
+*In plain terms: **CI-21** (*Community life, voluntary association, and non-instrumental time*) is the local owner map for community life that is not just another productivity slot — gathering, play, recreation, solitude, cultural practice, and voluntary association. Shared floors live in **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*); local duties sit in **CI-21.1** (*Civic infrastructure and non-instrumental time*) through **CI-21.3** (*Referral and escalation interfaces*).*
 
 **Quick orientation**
 - **The basic idea** — shared spaces, civic infrastructure, cultural gathering, peaceable assembly, recreation, and non-instrumental time must stay practically usable — not reserved only for sentients who meet productivity, payment, or prestige tests.
@@ -45,22 +45,22 @@ This file is the institutional implementation home for **CI-21** (*Community lif
 - **What is out of bounds** — productivity-only allocation, private chokepoints, coerced belonging, exclusionary local hierarchy, retaliation for leaving, and informal coercion that blocks lawful community access without a documented necessity record and contest route.
 - **CI-21.1** — civic infrastructure and non-instrumental time: who stewards gathering places, recreation routes, and time that is not treated as output.
 - **CI-21.2** — voluntary association and anti-coercion guardrails: association programs, freedom to leave, hostile-design escalation, and independent review when informal community power harms sentients.
-- **CI-21.3** — referral and escalation interfaces: how local failures route to **CI-5**, **CI-6**, **CI-12**, **CI-9**, **CI-8**, **CI-20**, and **CI-22**.
+- **CI-21.3** — referral and escalation interfaces: how local failures route to **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-12** (*Cross-institution coordination and escalation*), **CI-9** (*Classification-linked institutional obligations*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*), and **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*).
 - **Read with** — **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity and conflict disclosure; **CI-9** (*Classification-linked institutional obligations*) for class and tier scaling; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility; **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) for coercive-control routing; **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*) for commons and mutual-aid interfaces; **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Cross-institution coordination and escalation*) for procedure maps and escalation.
 
 *Shared rules live elsewhere.*
-- [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md) (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**.
+- [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md#cjs-37-participation-quorum-and-participatory-legitimacy-terms) (*quorum and participatory legitimacy terms*) — **Community and associational pathway integrity**.
 - **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*); **Article XI-F** (*Non-Imposition and Consent in Association*).
 - Chapter Five [Assembly](../core_05_band_participation.md#assembly-constitutional); [Collective Organization](../core_05_band_participation.md#collective-organization-constitutional); [Non-Imposition (Cooperative Interaction)](../core_05_band_participation.md#non-imposition-cooperative-interaction).
 - This file does not repeat those floors.
 
-**Apply.** Apply **CJS-3.7** **Community and associational pathway integrity**. **CI-21** states only the local owner duties in **CI-21.1** through **CI-21.3**.
+**Apply.** Apply **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) **Community and associational pathway integrity**. **CI-21** (*Community life, voluntary association, and non-instrumental time*) states only the local owner duties in **CI-21.1** (*Civic infrastructure and non-instrumental time*) through **CI-21.3** (*Referral and escalation interfaces*).
 
 ## CI-21.1: Civic infrastructure and non-instrumental time
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-21.1**; **CI-21.2**; **CI-9**; **CI-8**.
+- Read with: **CI-21.1** (*Civic infrastructure and non-instrumental time*); **CI-21.2** (*Voluntary association and anti-coercion guardrails*); **CI-9** (*Classification-linked institutional obligations*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 
 </details>
 
@@ -72,14 +72,14 @@ Each institution in scope must name and maintain locally:
 
 - **civic infrastructure owner** — who stewards shared physical and digital gathering infrastructure under the institution's control or supervision;
 - **non-instrumental-time pathway record** — how lawful cultural gathering, recreation, play, and solitude routes are classified, funded, scheduled, and kept accessible;
-- **access-rule publication** — published rules for fees, licensing, zoning, moderation, visibility, hours, and design standards that affect gathering or non-productive time, scaled under **CI-9** where class or tier applies; and
+- **access-rule publication** — published rules for fees, licensing, zoning, moderation, visibility, hours, and design standards that affect gathering or non-productive time, scaled under **CI-9** (*Classification-linked institutional obligations*) where class or tier applies; and
 - **productivity-only allocation guardrail** — the test and review route when allocation rules treat community, cultural, or recreational use as disfavored relative to measurable output without documented **Necessity** and **Proportionality**.
 
 ## CI-21.2: Voluntary association and anti-coercion guardrails
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-21.2**; **CI-21.1**; **CI-21.3**; **CI-20**; **CI-22**.
+- Read with: **CI-21.2** (*Voluntary association and anti-coercion guardrails*); **CI-21.1** (*Civic infrastructure and non-instrumental time*); **CI-21.3** (*Referral and escalation interfaces*); **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*); **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*).
 
 </details>
 
@@ -92,14 +92,14 @@ Each institution in scope must name and maintain locally:
 - **voluntary-association programs owner** — who supervises institution-linked association, membership, or gathering programs and their access rules;
 - **freedom-to-leave record** — how sentients exit associations, memberships, or recurring gatherings without unjustified penalty where **Feasibility** permits;
 - **hostile-design escalation owner** — who receives reports of benches removed to stop sitting, fees that exist only to exclude, moderation or visibility rules whose main effect is lawful-gathering denial, or comparable hostile-design exclusion;
-- **informal-power review route** — independent review when exclusion, shunning, or local hierarchy inside a community pathway materially harms a sentient, read with **CI-20** where coercive-control patterns are implicated and **CI-22** where commons or mutual-aid governance is implicated; and
+- **informal-power review route** — independent review when exclusion, shunning, or local hierarchy inside a community pathway materially harms a sentient, read with **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) where coercive-control patterns are implicated and **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*) where commons or mutual-aid governance is implicated; and
 - **anti-retaliation interface** — how reporters, leavers, and challengers are protected from retaliation tied to association or gathering disputes.
 
 ## CI-21.3: Referral and escalation interfaces
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-21.3**; **CI-6**; **CI-12**; **CI-5**; **CI-8**.
+- Read with: **CI-21.3** (*Referral and escalation interfaces*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-12** (*Cross-institution coordination and escalation*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 
 </details>
 
@@ -109,13 +109,13 @@ Each institution in scope must name and maintain locally:
 
 Each institution in scope must name and maintain locally:
 
-- **local procedure map** — published routing under **CI-6** for community-pathway complaints, hostile-design reports, and association disputes;
-- **integrity and capture referral** — **CI-5** route when conflict, self-dealing, or capture affects community stewardship;
+- **local procedure map** — published routing under **CI-6** (*Procedure integrity, contestability, and secondary review*) for community-pathway complaints, hostile-design reports, and association disputes;
+- **integrity and capture referral** — **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) route when conflict, self-dealing, or capture affects community stewardship;
 - **participation and accessibility referral** — **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) route when notice, participation, or challenge-pathway accessibility fails for materially binding community decisions;
-- **coercive-control referral** — **CI-20** route when intimate, household, workplace, platform, or community coercion blocks exit or challenge; and
-- **CI-12 escalation route** — cross-institution escalation when local review stalls, is conflicted, or cannot act independently.
+- **coercive-control referral** — **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) route when intimate, household, workplace, platform, or community coercion blocks exit or challenge; and
+- **CI-12** (*Cross-institution coordination and escalation*) **escalation route** — cross-institution escalation when local review stalls, is conflicted, or cannot act independently.
 
-Read **CI-5**, **CI-9**, **CI-8**, **CI-20**, **CI-22**, **CI-6**, and **CI-12** for local control, referral, and escalation interfaces.
+Read **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-9** (*Classification-linked institutional obligations*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*), **CI-22** (*Commons, cooperatives, mutual aid, and non-market community governance*), **CI-6** (*Procedure integrity, contestability, and secondary review*), and **CI-12** (*Cross-institution coordination and escalation*) for local control, referral, and escalation interfaces.
 
 ---
 

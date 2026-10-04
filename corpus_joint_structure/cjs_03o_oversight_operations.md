@@ -14,14 +14,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional compass and cluster map*) constitutional compass.
 
 </details>
 
 <br>
 
-This file is the joint-structure implementation home for **Oversight leg (CJS-3.2–CJS-3.6 / oDef.2–oDef.6)**.
+This file is the joint-structure implementation home for **Oversight leg (CJS-3.2 (*Oversight: reflexive transparency and accountability terms*)–CJS-3.6 (*Oversight: integrity assurance and resilience operations*) / oDef.2–oDef.6)**.
 
 *In plain terms: These clusters carry the **Oversight** leg into working terms: making a system explain itself, keeping enough record to reconstruct what happened, scaling who may see what, verifying claims independently, and keeping assurance itself resilient. They must be read together, because one strong control cannot rescue a weak link elsewhere.*
 
@@ -41,16 +41,16 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.10**; **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.15 and CJS-3.6**; **CJS-3.2 and CJS-3.6**.
+- Read with: **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*); **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
 - Read with: **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
-- Read with: **CJS-3.10 — Transparency and Disclosure**
+- Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
-- Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
+- Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*) and **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
 - Read with: **CJS-3.12 — Burden of Justification and Constraint**
-- Read with: **CJS-3.22 — Constrained Secrecy and Protected Investigations**
+- Read with: **CJS-3.22 — Integrative: constrained-secrecy and protected-investigation terms**
 - Read with: **CJS-3.13 — Procedural Integrity and Adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
@@ -77,7 +77,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 
 Use this rule when legitimacy depends on authorities holding themselves to equal or stronger standards than they apply to others.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because reflexive-accountability failures usually appear only when authorities are held to the same or stronger standards they impose; meeting transparency or audit sub-rules for subjects does not by itself prove equal treatment for the authority. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.2** as a whole: reflexive transparency and accountability must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because reflexive-accountability failures usually appear only when authorities are held to the same or stronger standards they impose; meeting transparency or audit sub-rules for subjects does not by itself prove equal treatment for the authority. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) as a whole: reflexive transparency and accountability must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="reflexive-transparency-and-accountability-terms"></a>
 reflexive transparency and accountability terms
@@ -244,14 +244,14 @@ Transparency, audit, and verification-integrity duties
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: this section's local auditability and reconstructability OP terms (**annex** to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)**).
-- Read with: **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.10**.
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CJS-2.3**.
-- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CJS-3.6**.
+- Read with: **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilie…*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
 - Read with: **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — what / why / how / when; this section is the machine-facing annex only
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor
-- Read with: **CJS-3.4** (*tiered transparency and audit-access terms* — annex for access tiers and audit-output disclosure)
-- Read with: **CJS-3.5** (*independent verification and claim-integrity terms* — annex for claim checking)
-- Read with: **CJS-3.10 — Transparency and Disclosure**
+- Read with: **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) (*tiered transparency and audit-access terms* — annex for access tiers and audit-output disclosure)
+- Read with: **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) (*independent verification and claim-integrity terms* — annex for claim checking)
+- Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
@@ -275,9 +275,9 @@ Transparency, audit, and verification-integrity duties
 
 <br>
 
-*In plain terms: this is the machine-facing auditability checklist for **CJS-3.3** — not the readable process home. Start at the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** for what / why / how / when.*
+*In plain terms: this is the machine-facing auditability checklist for **CJS-3.3** — Oversight: auditability and reconstructability terms (annex). Start at the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** for what / why / how / when.*
 
-The guidepost **oDef** rules below are the compliance checklist for the process home. They do not replace the what / why / how / when guide. Tiered access and audit-output disclosure continue in **CJS-3.4**; independent claim verification continues in **CJS-3.5**.
+The guidepost **oDef** rules below are the compliance checklist for the process home. They do not replace the what / why / how / when guide. Tiered access and audit-output disclosure continue in **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); independent claim verification continues in **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*).
 
 <a id="auditability-and-reconstructability-terms"></a>
 auditability and reconstructability terms
@@ -370,13 +370,13 @@ Operational transparency and structured logging requirements
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.4**; **CJS-3.3**; **CJS-3.5**; **CJS-3.20 and CJS-3.18**.
-- Read with: **CJS-3.3** (*audit process home* — what / why / how / when in [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33-audit-process-home); this cluster is the access-tier and output-disclosure annex)
+- Read with: **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*).
+- Read with: **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*) (*audit process home* — what / why / how / when in [cjs_03u_audit_process.md](cjs_03u_audit_process.md#cjs-33-audit-process-home); this cluster is the access-tier and output-disclosure annex)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
-- Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
+- Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)**
-- Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
+- Read with: **`corpus_forum.md` CF-12 (*Forum continuity*) through CF-14 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands, and [Part A §5.3](../corpus_systems/cs_02_a_information_types_and_handling.md#53-tiered-transparency-and-audit-access) / [§7](../corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems))
@@ -401,7 +401,7 @@ Operational transparency and structured logging requirements
 
 *In plain terms: this cluster is the access-tier and audit-output annex to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — not the process home itself.*
 
-Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)**.
+Use this rule when public visibility, qualified review, forensic reconstruction, or disclosure of **audit-process outputs** depends on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, institutions, or implementation layers work together. For what auditing is, why / how / when to run it, start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
 
 <a id="tiered-transparency-and-audit-access-terms"></a>
 tiered transparency and audit-access terms
@@ -443,9 +443,9 @@ Audit process output disclosure preference
 *In plain terms: material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability.*
 
 - **What it is**
-  - **In scope:** Material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability. Disclose those outputs at the **most open feasible** tier under **CS-2**:
+  - **In scope:** Material audit, verification, and independent-review processes must produce usable outputs — including findings, reports, eligibility rules for deeper access, and related artifacts needed for oversight and contestability. Disclose those outputs at the **most open feasible** tier under **CS-2** (*Information types and handling*):
   1. publish as **Type O** — including the strongest feasible **Type O** public substitute — where [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) or another public-baseline duty applies, or where the output can lawfully be public;
-  2. otherwise provide **structured or qualified audit access** to **Type G** or other non-public source under this cluster and **CJS-3.3**;
+  2. otherwise provide **structured or qualified audit access** to **Type G** or other non-public source under this cluster and **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*);
   3. escalate to **forensic** or more-restricted tiers (**Type H**, **Type I**, **Type S**, **Type N**, or justified hold-backs) only when required by the applicable type, necessity, and constraint rules — and only while preserving maximum feasible visibility into the existence and character of the audit and its material results.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in audit process output disclosure.
 <a id="audit-process-output-disclosure-preference-a"></a>
@@ -584,15 +584,15 @@ Tier structure and baseline accessibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.5**; **CJS-3.3**; **CJS-3.4**.
-- Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
+- Read with: **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*).
+- Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*audit process home*)
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and **Article XVI-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -613,7 +613,7 @@ Tier structure and baseline accessibility
 
 *In plain terms: this cluster is the claim-checking annex to the **[CJS-3.3 audit process home](cjs_03u_audit_process.md#cjs-33-audit-process-home)** — how material claims stay independently testable.*
 
-Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home)**.
+Use this rule when evidence quality, verification routes, or trust claims depend on a standalone system, institution, forum, or bounded decision domain, or on how multiple systems, dependencies, or implementation layers work together. For the shared audit process (what / why / how / when), start at **[CJS-3.3](cjs_03u_audit_process.md#cjs-33-audit-process-home) (*Oversight: auditability and reconstructability terms (annex)*)**.
 
 <a id="independent-verification-and-claim-integrity-terms"></a>
 independent verification and claim-integrity terms
@@ -740,13 +740,13 @@ Structured review and incentive-integrity floor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
+- Read with: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
 - Read with: Core definitions for auditability, verifiability, reversibility, dependency, cascading failure, adversarial conditions, and trustworthiness.
 - Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
 - Chapter One basis: §15.1, §15.2, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-3.3**, **CJS-3.15**, **CI-7.3**, **CI-8**, **CI-12**, **CF-11**.
+- Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*), **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*), **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), **CI-12** (*Cross-institution coordination and escalation*), **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
 
@@ -928,7 +928,7 @@ Incident and assurance notification urgency floor
 *In plain terms: material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and…*
 
 - **What it is**
-  - **In scope:** Material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and class. Routine annual or other baseline attestations do not replace incident-driven notice. Institutions must publish default **Notification Urgency Levels** (**NUL**) aligned with Correction Urgency Level (**CUL**) discipline in **CJS-3.15** where both apply.
+  - **In scope:** Material control failures, integrity incidents, data-handling breaches, and verified corruption or fraud discoveries must trigger notice on a default urgency schedule scaled to harm, reversibility, data-type sensitivity, dependency, and class. Routine annual or other baseline attestations do not replace incident-driven notice. Institutions must publish default **Notification Urgency Levels** (**NUL**) aligned with Correction Urgency Level (**CUL**) discipline in **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) where both apply.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in incident and assurance notification urgency floor.
 <a id="incident-and-assurance-notification-urgency-floor-a"></a>
 - **How to measure and assess**
@@ -1042,12 +1042,12 @@ Three-lines assurance model
   - **Primary failure:** Treat assurance as satisfied when the challenged operational owner also controls the only review or assurance path without an independence safeguard, or when record custody cannot support reconstruction across transfers.
 
 Default **NUL** bands (adopting instruments may tighten but must not weaken without lawful authority):
-- **NUL-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md); active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice without unjustified delay; supervisory, assurance-line, and public declaration as soon as containment posture allows without destroying lawful investigation integrity where **Type S** or protected-investigation constraints apply.
-- **NUL-2 (expedited):** Confirmed breach, integrity failure, or verified **CI-5.3** corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line within a published expedited window materially shorter than routine reporting.
+- **NUL-1 (immediate):** Active ongoing harm; unlawful **Type N** access, exposure, or reconstruction risk under [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md) (*Information types and handling*); active corruption, fraud, or capture in progress; or control collapse affecting rights pathways — internal escalation and affected-party notice without unjustified delay; supervisory, assurance-line, and public declaration as soon as containment posture allows without destroying lawful investigation integrity where **Type S** or protected-investigation constraints apply.
+- **NUL-2 (expedited):** Confirmed breach, integrity failure, or verified **CI-5.3** (*Integrity trigger taxonomy and cross-layer routing (control package)*) corruption or fraud trigger with material but contained impact — notice to affected parties and the independent assurance line within a published expedited window materially shorter than routine reporting.
 - **NUL-3 (standard):** Material control weakness or integrity finding requiring cure but not active ongoing exposure — notice within a published standard incident window and inclusion in the next required control declaration if not cured.
 - **NUL-4 (routine):** Baseline controls attestation and non-urgent assurance reporting only — published annual or other routine cadence.
 
-**NUL** assignment must govern who is notified, in what order, and by when. **NUL-1** and **NUL-2** events must invoke **CI-7.2** external-assurance review when published triggers are met. **Type N** breaches default to at least **NUL-2** and to **NUL-1** while unlawful access, exposure, or reconstruction risk is ongoing.
+**NUL** assignment must govern who is notified, in what order, and by when. **NUL-1** and **NUL-2** events must invoke **CI-7.2** (*External assurance triggers*) external-assurance review when published triggers are met. **Type N** breaches default to at least **NUL-2** and to **NUL-1** while unlawful access, exposure, or reconstruction risk is ongoing.
 
 ---
 

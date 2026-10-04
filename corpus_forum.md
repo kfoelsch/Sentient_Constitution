@@ -8,7 +8,7 @@
 - How integrity, anti-capture, and anti-self-judging rules protect fair hearing while a matter is live
 - How forensic support, investigation interfaces, and specialist chambers assist without capturing the forum
 - How performance, accessibility, records, staffing, continuity, fallback, and emergency adjudication keep hearings usable under stress
-- Section families **CF-1** (*Scope, authority, and boundary rules*) and **CF-3–CF-16** carry the detail (**CF-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Forums index** below when you need a specific file.
+- Section families **CF-1** (*Scope, authority, and boundary rules*) and **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*)–**CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*) carry the detail (**CF-2** (*reserved family ID*) is unused — routing lives in the registry annex). Expand **Forums index** below when you need a specific file.
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -17,7 +17,7 @@
 
 **Implements from the core files:**
 - [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
-- [Chapter Six](core_06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XVI-A](core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [**Article XX**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Justice After Verified Violation*), and [Article XXVII](core_06_rights_part_e.md#article-xxvii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
+- [Chapter Six](core_06_rights_part_c.md) hearing-facing Rights Floor themes — especially [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XVI-A](core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), [**Article XX** (*Justice After Verified Violation*)](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Justice After Verified Violation*), and [Article XXVII](core_06_rights_part_e.md#article-xxvii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) where forums support transition
 - [Chapter Twelve](core_12_forum.md) forum families, jurisdiction, and cross-forum anti-self-judging — the constitutional owner this layer operationalizes
 - [Standing pipeline](core_00_preamble.md#62-how-the-full-chain-fits-together) supervision context under Chapters Eight through Eleven — forums hear and route; they do not replace standing measurement owners
 
@@ -99,7 +99,7 @@
 <!-- END GENERATED FAMILY INDEX -->
 </details>
 
-**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_sentience_status_record.md) is the Chapter Seventeen–enumerated status-file format. It implements, and does not narrow, **Article VI-B**. It is not a substitute for **CF-15** (*Standard records, forms, and evidence artifacts*).
+**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_sentience_status_record.md) is the Chapter Seventeen–enumerated status-file format. It implements, and does not narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). It is not a substitute for **CF-15** (*Standard records, forms, and evidence artifacts*).
 
 **What to do now:** Continue to the next file. It states this layer’s boundary: what it owns here, and what remains in the Constitution or in the other implementation folders.
 

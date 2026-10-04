@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-04T12:53:08+00:00",
+  "generated_at": "2026-10-04T14:56:52+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -76691,7 +76691,7 @@
       "source_header": "Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
       "source_anchor": "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
       "target_file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-141-interface--article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
       "count": 1
     },
     {
@@ -92363,7 +92363,7 @@
       "source_header": "CF-3.6 Chamber authority composition and service mechanics",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline",
       "count": 1
     },
     {
@@ -92963,7 +92963,7 @@
       "source_header": "CF-4.10 Certifier for inability-to-form findings",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-73-contest-integrity-monitoring-class-a-and-class-b",
       "count": 1
     },
     {
@@ -94491,7 +94491,7 @@
       "source_header": "CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-73-contest-integrity-monitoring-class-a-and-class-b",
       "count": 1
     },
     {
@@ -94499,7 +94499,7 @@
       "source_header": "CF-7.3.1 Activation Threshold",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-73-contest-integrity-monitoring-class-a-and-class-b",
       "count": 1
     },
     {
@@ -94515,7 +94515,7 @@
       "source_header": "CF-7.3.6 Contest-Integrity Interface",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-73-contest-integrity-monitoring-class-a-and-class-b",
       "count": 1
     },
     {
@@ -95507,7 +95507,7 @@
       "source_header": "CF-8.6 Boundary with contest-integrity monitoring",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-73-contest-integrity-monitoring-class-a-and-class-b",
       "count": 1
     },
     {
@@ -96195,7 +96195,7 @@
       "source_header": "CF-9.5 Required separations",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_09_classification_linked_institutional_obligations.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline",
       "count": 1
     },
     {
@@ -96467,7 +96467,7 @@
       "source_header": "CF-9.8 Records, referrals, and backup routes",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-73-contest-integrity-monitoring-class-a-and-class-b",
       "count": 1
     },
     {
@@ -97154,7 +97154,7 @@
       "source_file": "corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md",
       "source_header": "CF-10.15 Publication and review governance",
       "source_anchor": null,
-      "target_file": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+      "target_file": "corpus_institutions/ci_25_scientific_publication_peer_review_replication_evidence_stewardship.md",
       "target_anchor": null,
       "count": 1
     },
@@ -97715,7 +97715,7 @@
       "source_header": "CF-11.10 Lived conditions during restriction and re-entry alignment (cross-layer)",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md",
-      "target_anchor": null,
+      "target_anchor": "#cs-711-lived-condition-floors-continuity-and-re-entry-alignment",
       "count": 1
     },
     {
@@ -97851,7 +97851,7 @@
       "source_header": "CF-11.8 Contest-integrity monitoring interface",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-73-contest-integrity-monitoring-class-a-and-class-b",
       "count": 1
     },
     {
@@ -99795,7 +99795,7 @@
       "source_header": "CF-15.3 Access classes",
       "source_anchor": null,
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-73-contest-integrity-monitoring-class-a-and-class-b",
       "count": 1
     },
     {
@@ -102891,7 +102891,7 @@
       "source_header": "CI-1.2: Proportionality rule",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-311-accountability-distributed-and-proportional-authority-terms",
       "count": 1
     },
     {
@@ -109227,7 +109227,7 @@
       "source_header": "CI-14: Transitional governance and institutional evolution",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms",
       "count": 1
     },
     {
@@ -109483,7 +109483,7 @@
       "source_header": "CI-15: Neurodiversity, disability justice, and trauma-informed participation",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03p_participation_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-38-participation-comprehensibility-and-cognitive-accessibility-terms",
       "count": 1
     },
     {
@@ -109763,7 +109763,7 @@
       "source_header": "CI-16: Care labor, dependent support, respite, and care-economy fairness",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-316-continuity-dependency-integrity-and-disclosure-terms",
       "count": 1
     },
     {
@@ -110019,7 +110019,7 @@
       "source_header": "CI-17: End-of-life continuity, memorial dignity, and posthumous-data stewardship",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms",
       "count": 1
     },
     {
@@ -110283,7 +110283,7 @@
       "source_header": "CI-18: Collective public health, epidemic response, and addiction-informed care",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-312-accountability-burden-of-justification-and-constraint-terms",
       "count": 1
     },
     {
@@ -110539,7 +110539,7 @@
       "source_header": "CI-19: Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms",
       "count": 1
     },
     {
@@ -110795,7 +110795,7 @@
       "source_header": "CI-20: Relational coercive control, intimate power, and anti-domination routing",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms",
       "count": 1
     },
     {
@@ -111075,7 +111075,7 @@
       "source_header": "CI-21: Community life, voluntary association, and non-instrumental time",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03p_participation_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-37-participation-quorum-and-participatory-legitimacy-terms",
       "count": 1
     },
     {
@@ -111363,7 +111363,7 @@
       "source_header": "CI-22: Commons, cooperatives, mutual aid, and non-market community governance",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03p_participation_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-37-participation-quorum-and-participatory-legitimacy-terms",
       "count": 1
     },
     {
@@ -111627,7 +111627,7 @@
       "source_header": "CI-23: Place-based stewardship, Indigenous continuity, and consultation routes",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03p_participation_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-37-participation-quorum-and-participatory-legitimacy-terms",
       "count": 1
     },
     {
@@ -111883,7 +111883,7 @@
       "source_header": "CI-24: Innovation reward, disclosure, and anti-enclosure",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-312-accountability-burden-of-justification-and-constraint-terms",
       "count": 1
     },
     {
@@ -111891,7 +111891,7 @@
       "source_header": "CI-24: Innovation reward, disclosure, and anti-enclosure",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms",
       "count": 1
     },
     {
@@ -112147,7 +112147,7 @@
       "source_header": "CI-25: Scientific publication, peer review, replication, and evidence stewardship",
       "source_anchor": null,
       "target_file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
-      "target_anchor": null,
+      "target_anchor": "#cjs-35-oversight-independent-verification-and-claim-integrity-terms",
       "count": 1
     },
     {
@@ -124795,7 +124795,7 @@
       "source_header": "CS-3.1 Purpose and scope",
       "source_anchor": "#cs-3-1-purpose-and-scope",
       "target_file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
-      "target_anchor": null,
+      "target_anchor": "#cf-72-constitutional-alignment-recognition-and-review",
       "count": 1
     },
     {
@@ -125035,7 +125035,7 @@
       "source_header": "CS-3.7 Classification governance, disclosure, and challenge",
       "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "target_file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
-      "target_anchor": null,
+      "target_anchor": "#cf-72-constitutional-alignment-recognition-and-review",
       "count": 1
     },
     {
@@ -126859,7 +126859,7 @@
       "source_header": "CS-5.1 Purpose and role",
       "source_anchor": "#cs-5-1-purpose-and-role",
       "target_file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
-      "target_anchor": null,
+      "target_anchor": "#cf-72-constitutional-alignment-recognition-and-review",
       "count": 1
     },
     {
@@ -127531,7 +127531,7 @@
       "source_header": "CS-7.10 Proportional compliance templates (class-scaled)",
       "source_anchor": "#cs-7-10-proportional-compliance-templates-class-scaled",
       "target_file": "corpus_institutions/ci_07_oversight_assurance_controls_evidence.md",
-      "target_anchor": null,
+      "target_anchor": "#ci-71-controls-declaration",
       "count": 1
     },
     {

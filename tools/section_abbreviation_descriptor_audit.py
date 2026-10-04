@@ -130,7 +130,11 @@ def scan_line(rel_path: str, line_number: int, line: str) -> Finding | None:
     if is_exempt_line(line, in_trace_widget=False):
         return None
 
-    match = SECTION_ID_RE.search(line)
+    # ``CJS-3.*n*`` is the oDef placeholder pattern, not a cite of CJS-3.
+    match = next(
+        (m for m in SECTION_ID_RE.finditer(line) if not re.match(r"[*_]*\.\*", line[m.end() :])),
+        None,
+    )
     if not match:
         return None
 

@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Read with: **CI-19**; **CI-8.3**; **CI-6**; **CI-8**; **CI-9**; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Read with: **CI-19** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*); **CI-8.3** (*Digital self-service pathway integrity*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*); **CI-9** (*Classification-linked institutional obligations*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
 
 </details>
 
@@ -34,9 +34,9 @@
 
 <br>
 
-This file is the institutional implementation home for **CI-19** (*Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
+This file is the institutional implementation home for **CI-19** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) (*Vulnerable personal services markets — general regulation and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) interface*).
 
-*In plain terms: **CI-19** is the local owner map for regulating vulnerable personal-service markets — especially **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization. Shared floors live in **CJS-3.17**; this file names who holds the application file, who separates lanes, and who publishes record relief.*
+*In plain terms: **CI-19** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) is the local owner map for regulating vulnerable personal-service markets — especially **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) — without turning regulation into a back door for criminalization. Shared floors live in **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); this file names who holds the application file, who separates lanes, and who publishes record relief.*
 
 **Quick orientation**
 - **The basic idea** — implement **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) through the same general regulatory families used for other lawful personal services, scaled by impact, dependency, isolation, and vulnerability, and not through stigma-only singling out. Those families are labor, safety, contracts, platforms, payments, and dispute resolution.
@@ -53,12 +53,12 @@ This file is the institutional implementation home for **CI-19** (*Vulnerable pe
 - **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-9** (*Classification-linked institutional obligations*) for class and tier scaling; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility; **CI-8.3** (*Digital self-service pathway integrity*) for digital self-service pathway integrity where platform enrollment, billing, or exit apply.
 
 *Shared rules live elsewhere.*
-- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity.
+- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms) (*interoperability, portability, and exit-integrity terms*) — high-vulnerability personal-service pathway integrity.
 - **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*); **Articles XI-F**, **VI-C**, **I-C**, **V-A**, and **IV-C**; Chapter Five (*Protected Characteristics*, *Consent*, *Coercion and Manipulation*).
-- **CS-3** classification examples; **CS-4** stewardship scaling where platform, data, or system stewardship is material.
+- **CS-3** (*System classification machinery*) classification examples; **CS-4** (*Critical system stewardship*) stewardship scaling where platform, data, or system stewardship is material.
 - This file does not repeat those floors.
 
-**Apply.** Apply **CJS-3.17** **High-vulnerability personal-service pathway integrity**. **CI-19** states only local **Article VII-E** application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
+**Apply.** Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) **High-vulnerability personal-service pathway integrity**. **CI-19** (*Vulnerable personal services markets — general regulation and Article VII-E (Adult consensual commercial sexual services and sexual exploitation) interface*) states only local **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) application-file owner duties. Comparable lawful personal services should use comparable regulatory families unless documented **Necessity** and **Proportionality** justify differentiation.
 
 **Local **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) role map**
 Each institution in scope must name the office or body responsible for:

@@ -43,16 +43,16 @@ flowchart TB
     subgraph Dgrid[" "]
         direction TB
         subgraph Drow1["Articles XIX–XX"]
-            D1["Article XIX · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Named-pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
-            D2["Article XX · Justice After Verified Violation<br/><br/>• Justice objective and scope<br/>• Restriction floors"]
+            D1["**Article XIX** (*Standing and Participation Status*) · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Named-pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
+            D2["**Article XX** (*Justice After Verified Violation*) · Justice After Verified Violation<br/><br/>• Justice objective and scope<br/>• Restriction floors"]
         end
         subgraph Drow2["Articles XXI–XXII"]
-            D3["Article XXI · Interoperability, Portability, Movement, Refuge, and Exit Integrity<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
-            D4["Article XXII · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
+            D3["**Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) · Interoperability, Portability, Movement, Refuge, and Exit Integrity<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
+            D4["**Article XXII** (*Comprehensibility and Complexity Stewardship*) · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
         end
         subgraph Drow3["Articles XXIII–XXIV"]
-            D5["Article XXIII · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
-            D6["Article XXIV · Constitutional Interpretation, Review, and Anti-Capture Safeguards<br/><br/>• Bounded interpretive mandate<br/>• Composition, rotation, and conflict controls<br/>• Public reasons, challenge, and external review<br/>• Removal and non-entrenchment"]
+            D5["**Article XXIII** (*Root Cause Analysis and Adaptive Response*) · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
+            D6["**Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) · Constitutional Interpretation, Review, and Anti-Capture Safeguards<br/><br/>• Bounded interpretive mandate<br/>• Composition, rotation, and conflict controls<br/>• Public reasons, challenge, and external review<br/>• Removal and non-entrenchment"]
         end
     end
     %% Invisible links force a two-wide grid: each link puts its target one level down.
@@ -182,7 +182,7 @@ This Article sets out how standing differs from competency bars, competency clea
   - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a stakeholder because a system actually affects them;
   - <a id="anti-substitution-sentience-status-xviii"></a>stand in for a sentience-status determination, which is made only under **Article VI-B** (*Sentience-Status Adjudication Floor*);
   - treat the absence of a standing record as an adverse fact, or require a record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no record is the ordinary state under [Chapter Nine §2.1](core_09_standing_assessment.md#21-silence-is-the-default) (*Silence is the default*);
-  - treat dissent or peaceful protest under **Article XI-D** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any named pathway; or
+  - treat dissent or peaceful protest under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any named pathway; or
   - assemble named-pathway effects into a profile, ranking, or public display — [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects) (*Anti-aggregation of named-pathway effects*).
 
 #### Article XIX-B: Contestability and Proportional Restriction Limits
@@ -347,15 +347,15 @@ They may affect role eligibility and trust-sensitive named pathways only as stat
 
 <br>
 
-*In plain terms: **Article XX** (*Justice After Verified Violation*) is the justice Rights Floor. Once a violation is verified, the answer is not revenge or cruelty. It is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. Serious restrictions are held to floors of their own: a proven safety need, a clock and a way back, and never killing. Disputes, escalation, review, and timely resolution are in **Article XXV**. Emergency measures are in **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).*
+*In plain terms: **Article XX** (*Justice After Verified Violation*) is the justice Rights Floor. Once a violation is verified, the answer is not revenge or cruelty. It is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. Serious restrictions are held to floors of their own: a proven safety need, a clock and a way back, and never killing. Disputes, escalation, review, and timely resolution are in **Article XXV** (*Timely Retrospective Review and Restorative Alignment*). Emergency measures are in **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).*
 
-This Article states the justice floors that apply once a violation has been verified: the justice objective and scope (**Article XX-A**) and the floors on serious restrictions (**Article XX-B**).
+This Article states the justice floors that apply once a violation has been verified: the justice objective and scope (**Article XX-A** (*Justice Objective and Scope*)) and the floors on serious restrictions (**Article XX-B** (*Restriction Floors*)).
 
 *Article neighbors:*
 
-- **Conflict resolution, review, and timeliness:** Disputes over constitutional Rights Floors, retrospective review, rights collisions, and anti-delay discipline are governed by [**Article XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*).
+- **Conflict resolution, review, and timeliness:** Disputes over constitutional Rights Floors, retrospective review, rights collisions, and anti-delay discipline are governed by [**Article XXV** (*Timely Retrospective Review and Restorative Alignment*)](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*).
 - **Emergency measures:** Governed by [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden), read with **Article XX-B** (*Restriction Floors*) for any restriction an emergency measure imposes.
-- **Standing:** [**Article XIX**](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*Standing and Participation Status*) governs standing. Justice measures under this Article are separate and are not a standing-label workaround.
+- **Standing:** [**Article XIX** (*Standing and Participation Status*)](core_06_rights_part_d.md#article-xix-standing-and-participation-status) (*Standing and Participation Status*) governs standing. Justice measures under this Article are separate and are not a standing-label workaround.
 - **Timely redress:** Read with [**Article XIII-B** (*Right to Redress and Remedy*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*timely redress access*).
 
 Adopted governance implementation may add detail. It must not narrow the justice objective or the restriction floors under this Article.
@@ -365,7 +365,7 @@ Adopted governance implementation may add detail. It must not narrow the justice
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [Chapter One §3.3 Anti-Degrading Process](core_01_a_values_principles.md#33-anti-degrading-process), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Downstream: [Chapter Ten §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violation, correction, and prevention*); [Article XX-B](#article-xx-b-restriction-floors).
+- Downstream: [Chapter Ten §4](core_10_standing_integration.md#4-violation-correction-and-prevention) (*Violation, correction, and prevention*); [Article XX-B](#article-xx-b-restriction-floors) (*Restriction Floors*).
 - Read with: [Cruelty](core_05_band_accountability.md#cruelty) (*Chapter Five home for the anti-cruelty floor's suffering-as-end standard*).
 
 </details>
@@ -808,7 +808,7 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
 - **Modular architecture:** Critical systems **must** be structured so that their components, the responsibilities of each, and the dependencies between components can be identified and examined independently. Dependencies must be declared at interfaces, kept no broader than function requires, and mapped to the same boundaries that are audited. Responsibility and observability must be preserved across every internal boundary. Modular structure that conceals responsibility or defeats whole-system audit is anti-layering under the next bullet, and does not satisfy this requirement. Read with [§18.5 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline).
 - **Anti-layering:** Complexity may not be used — through technical, organizational, contractual, or procedural layering — to defeat audit, contest, or correction.
 - **Protocol alignment:** Evaluation must be consistent with:
-  - **[corpus_systems.md](corpus_systems.md), CS-6 — *Comprehensibility and complexity stewardship***;
+  - **[corpus_systems.md](corpus_systems.md), CS-6 (*Comprehensibility and complexity stewardship*) — *Comprehensibility and complexity stewardship***;
   - adopted presentation and architecture implementation requirements.
 
   Where CS-6 (*Comprehensibility and complexity stewardship*) and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](core_05_band_integrative.md#fullest-protective-effect) governs.
@@ -969,7 +969,7 @@ Final **constitutional** interpretation must remain authoritative, bounded, audi
 *Article neighbors:*
 
 - **Forum supervision:** [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) — Constitutional forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
-- **Challenge and justice:** **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and [**Article XX**](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Justice After Verified Violation*) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
+- **Challenge and justice:** **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and [**Article XX** (*Justice After Verified Violation*)](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) (*Justice After Verified Violation*) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
 - **Non-entrenchment:** [**Article XXVI-A** (*Non-Entrenchment and Revisability*)](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) — periodic revalidation under this Article's removal-for-cause provisions is read with non-entrenchment discipline.
 - **Institutional routing:** **[corpus_institutions.md](corpus_institutions.md), CI-4** (*Appointment, competency, rotation, and removal*) and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
 #### Article XXIV-A: Bounded Interpretive Mandate
@@ -1081,7 +1081,7 @@ This Article sets out the floors for public reasons, independent challenge, and 
 - **Independent challenge and external review:** Affected stakeholders must have standing to seek secondary review through an independent review pathway.
   - The review must be run by a different body — not the same participants or panel that made the original decision.
   - If the record shows a serious mistake, capture, or Rights-Floor breach, the reviewer must be able to fix, pause, or undo the decision.
-  - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-6.2.5** (*Appeal Outcomes, Remedies, and Reviewable Records*), staffed from a published constitutional-review reserve roster maintained under **CF-16**, with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-7** before merits review.
+  - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-6.2.5** (*Appeal Outcomes, Remedies, and Reviewable Records*), staffed from a published constitutional-review reserve roster maintained under **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) before merits review.
 - **Mandatory external review:** At defined intervals, independent external review of **Constitutional forums** is mandatory. By default, **Integrity** forums conduct this review under **[Chapter Twelve §2 Default venue and primary stakes](core_12_forum.md#2-default-venue-and-primary-stakes)** and the **cross-forum anti-self-judging rule** in **[Chapter Twelve §3 Transfer, consolidation, and coordination — continuity and anti-capture](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)**. The reviewing **Integrity** forum must be structurally separate from the **Constitutional** forum under review and must not include overlapping decision-makers from the reviewed body's recent interpretive panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twelve §3 Transfer, consolidation, and coordination** applies without narrowing this obligation. The review must assess:
   - capture indicators;
   - decision quality;

@@ -14,14 +14,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional compass and cluster map*) constitutional compass.
 
 </details>
 
 <br>
 
-This file is the joint-structure implementation home for **Continuity aim operations (CJS-3.16–CJS-3.21 / oDef.16–oDef.21)**.
+This file is the joint-structure implementation home for **Continuity aim operations (CJS-3.16 (*Continuity: dependency integrity and disclosure terms*)–CJS-3.21 (*Continuity: adversarial robustness and abuse-resistance terms*) / oDef.16–oDef.21)**.
 
 *In plain terms: These clusters keep a system working — and keep it possible to leave — under dependency, change, stress, and attack: knowing what you depend on, being able to export and exit, retaining data for the right span, failing gracefully rather than catastrophically, being able to undo, and resisting deliberate abuse.*
 
@@ -41,9 +41,9 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.16**; **CJS-3.10**; **CJS-3.17**; **CJS-3.3**; **CJS-3.15 and CJS-3.6**; **CI-11**.
-- Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity**
-- Read with: **CJS-3.10 — Transparency and Disclosure**
+- Read with: **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*); **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*); **CI-11** (*Resource stewardship and incentive integrity*).
+- Read with: **CJS-3.16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
+- Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **CJS-3.17 — Interoperability, Portability, and Exit Integrity**
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
@@ -52,7 +52,7 @@ This family operationalizes the constitutional [Continuity aim](../core_00_pream
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — not protocol or forum continuity alone.
 - Chapter One basis: §15.1, §19.1, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -146,10 +146,10 @@ Dependency identification and disclosure content
 <a id="domain-and-sector-classification-mapping"></a>
 Domain and sector classification mapping
 
-*In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md)…*
+*In plain terms: where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification machinery*)…*
 
 - **What it is**
-  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) classes and **CS-4 — Critical system stewardship** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
+  - **In scope:** Where an implementation authority regulates, supervises, charters, funds, or materially relies on major domains or sectors, it must map those domains against applicable [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification machinery*) classes and **CS-4 — Critical system stewardship** stewardship tiers using the canonical domain taxonomy where one applies. The map must identify domains present in governed scope, split classifications or tiers, survival-relevant, operationally critical, or coordination-critical domains, and reclassification triggers when dependency criticality, cascade risk, or historical treatment changes.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in domain and sector classification mapping.
 <a id="domain-and-sector-classification-mapping-a"></a>
 - **How to measure and assess**
@@ -251,13 +251,13 @@ Substitutability, exit constraints, and mitigation duties
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.17**; **CJS-3.16**; **CJS-3.10**; **CI-12.3**.
+- Read with: **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*); **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CI-8.3** (*Digital self-service pathway integrity*).
 - Read with: **CJS-3.17 — Interoperability, Portability, and Exit Integrity**
-- Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity**
-- Read with: **CJS-3.10 — Transparency and Disclosure**
-- Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md)
-- Read with: [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md)
-- Read with: [**CS-4**](../corpus_systems/cs_04_critical_system_stewardship.md)
+- Read with: **CJS-3.16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
+- Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
+- Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md) (*Information types and handling*)
+- Read with: [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification machinery*)
+- Read with: [**CS-4**](../corpus_systems/cs_04_critical_system_stewardship.md) (*Critical system stewardship*)
 - Read with: **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*)
 - Read with: **Article II-E** (*Data Handling and Network Dependency*)
 - Read with: **Article II-F** (*Continuity and Operator Shutdown*)
@@ -265,7 +265,7 @@ Substitutability, exit constraints, and mitigation duties
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — exit paths preserve lawful agency and system survivability.
 - Chapter One basis: §15.1, §18.1, §19.1, §15, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -583,18 +583,18 @@ Right-to-exit pathway integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-1.11**; **CJS-3.3**; **CJS-3.4**; **CJS-3.5**; **CJS-3.20 and CJS-3.18**; **CJS-3.15 and CJS-3.6**.
+- Read with: **CJS-1.11** (*Classification alignment for supervised scope*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*); **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
-- Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
+- Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
-- Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
+- Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md) (*Information types and handling*), including Types **E**, **G**, **O**, **H**, **I**, **N**, and **S**
 - Read with: **CJS-1.11 — Classification alignment for supervised scope**
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — lifecycle rules must not narrow the Continuity aim.
 - Chapter One basis: §15.2, §18.2, §19.1, §15, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -810,17 +810,17 @@ Transparency disclosures and stakeholder legibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.19**; **CJS-3.9 and CJS-3.10**; **CJS-3.16**; **CJS-3.20 and CJS-3.18**; **CJS-3.15 and CJS-3.6**.
+- Read with: **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*); **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
 - Read with: **CJS-3.19 — Graceful Degradation and Failure Mode Integrity**
 - Read with: **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
-- Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- Read with: **CJS-3.16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Operational degradation discipline serves constitutional **Continuity**; not a substitute for it.
 - Chapter One basis: §15.1, §18.1, §14, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -1036,19 +1036,19 @@ Signaling integrity and anti-silent-failure controls
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.20 and CJS-3.18**; **CJS-3.16**; **CJS-3.19**; **CJS-3.3**; **CJS-3.4**; **CJS-3.5**.
+- Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*); **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*).
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
-- Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- Read with: **CJS-3.16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-3.19 — Graceful Degradation and Failure Mode Integrity**
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.4 — Tiered Transparency and Audit Access**
-- Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
+- Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Read with: **Article XVII** (*System Lifecycle, Environments, and Reversibility*) and **Article XIII-F** (*Resilience and Self-Healing Baseline*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Continuity disambiguation: Constitutional **Continuity** aim — reversibility protects against irreversible constitutional harm.
 - Chapter One basis: §15.1, §18.1, §19.1, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -1162,18 +1162,18 @@ Rollback and containment capability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.21**; **CJS-3.10**; **CJS-3.16**; **CJS-3.19**; **CJS-3.3**; **CJS-3.5**.
+- Read with: **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*); **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*).
 - Read with: **CJS-3.21 — Adversarial Robustness and Abuse Resistance**
-- Read with: **CJS-3.10 — Transparency and Disclosure**
-- Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity**
+- Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
+- Read with: **CJS-3.16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity**
 - Read with: **CJS-3.19 — Graceful Degradation and Failure Mode Integrity**
 - Read with: **CJS-3.3 — Auditability**
-- Read with: **CJS-3.5 — Independent Verification and Integrity of Claims**
+- Read with: **CJS-3.5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-3.20** (*Continuity: reversibility and containment terms*) and **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) — Reversibility and Containment
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*) and **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) for distributed authority and participation legitimacy
 - Read with: **CJS-3.12 — Burden of Justification and Constraint**
-- Read with: **CJS-3.22 — Constrained Secrecy and Protected Investigations**
+- Read with: **CJS-3.22 — Integrative: constrained-secrecy and protected-investigation terms**
 - Read with: [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*)
 - Read with: **Article XIII** (*Right to Reliable and Trustworthy Systems*)
 - Constitutional frame: **Continuity band** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).

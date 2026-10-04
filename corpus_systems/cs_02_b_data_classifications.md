@@ -12,7 +12,7 @@
 
 <br>
 
-**CS-2, Part B**, owns **data classifications** (**Type E** through **Type S**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
+**CS-2** (*Information types and handling*), **Part B**, owns **data classifications** (**Type E** through **Type S**, including **Type O**). Classification determination and cross-domain governance are in **[Part A](cs_02_a_information_types_and_handling.md#cs-2-part-a-information-types-and-handling)**.
 *In plain terms: Part B names each data type and groups them by how they are usually shared — open, audit-only, restricted, or off-limits — then states each type’s content rules.*
 
 <a id="cs-2-8-data-classifications"></a>
@@ -260,7 +260,7 @@ Baseline visibility into purpose, operational status, material risk, performance
 - Collection and use must be **limited to the minimum necessary** for the justified purpose.
 - **Type H** must **not** be exposed, combined, or retained in ways that create **latent reconstruction** of **Type N** or **Type I** data.
 - It must be collected, accessed, and used **only** for **specific, defined, legitimate** purposes and must **not** be used **beyond its original purpose**.
-- Extension requires **re-classification** under CS-2, which may require consent under the shared consent-integrity standard in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) or **justified override** under **CJS-3.12** (*burden-of-justification and constraint terms*).
+- Extension requires **re-classification** under CS-2 (*Information types and handling*), which may require consent under the shared consent-integrity standard in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) or **justified override** under **CJS-3.12** (*burden-of-justification and constraint terms*).
 
 **Access.** Systems must:
 - require consent under the shared consent-integrity standard in [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands), or **justified override** under **CJS-3.12** (*burden-of-justification and constraint terms*), for use beyond core operational necessity
@@ -446,7 +446,7 @@ Shared consent-integrity and security-/intelligence-use record duties are in [Pa
 - make restrictions **explicitly time-bound** at classification:
   - subject them to periodic revalidation under **CJS-3.18** (*data-retention and lifecycle-integrity terms*)
   - automatically review for **release**, **partial disclosure**, or **summary disclosure**
-  - if revalidation does **not** occur within the defined time bound, restriction **expires automatically** and data must be reclassified and disclosed per CS-2
+  - if revalidation does **not** occur within the defined time bound, restriction **expires automatically** and data must be reclassified and disclosed per CS-2 (*Information types and handling*)
 - on expiration or invalidation of justification, reclassify to the appropriate non-restricted domain (including **Type O**, **Type E**, or **G** where applicable) and disclose the data, or a sufficiently informative summary classified as **Type O** where public-baseline release applies, including:
   - **nature** of the restricted data
   - **justification** and **duration**

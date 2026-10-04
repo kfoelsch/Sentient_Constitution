@@ -14,10 +14,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-14.1 Emergency triage hierarchy](#cf-141-emergency-triage-hierarchy); [CF-14.2 Independent review during emergency mode](#cf-142-independent-review-during-emergency-mode); [CF-14.3 Restoration and reconciliation](#cf-143-restoration-and-reconciliation); [CF-14.4 Post-incident review](#cf-144-post-incident-review); [CF-14.5 Non-compliant emergency patterns](#cf-145-non-compliant-emergency-patterns).
-- Read with: **CF-14**; **CF-14.1**; **CF-14.2**; **CF-14.3**; **CF-14.4**; **CF-14.5**; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
-- Topic routing (primary owner): **CJS-R11B** (*Emergency adjudication*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-11**.
+- Read with: **CF-14** (*Emergency adjudication*); **CF-14.1** (*Emergency triage hierarchy*); **CF-14.2** (*Independent review during emergency mode*); **CF-14.3** (*Restoration and reconciliation*); **CF-14.4** (*Post-incident review*); **CF-14.5** (*Non-compliant emergency patterns*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
+- Topic routing (primary owner): **CJS-R11B** (*Emergency adjudication*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
 
@@ -47,7 +47,7 @@ This file is the forum implementation home for **CF-14** (*Emergency adjudicatio
 
 This section governs emergency adjudicative priority, review, restoration, post-incident findings, and prohibited emergency patterns when ordinary forum operation is degraded or fallback operation is active.
 Emergency adjudication must preserve access to urgent relief, Rights Floor protection, evidence preservation, challenge rights, auditability, and a path back to ordinary independent adjudication.
-Where emergency adjudication materially depends on constitutional systems, this section must be read with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Governance continuity, crisis communications, and exercises*), **CF-12** (*Forum continuity*), and **CF-13** (*Fallback operation*).
+Where emergency adjudication materially depends on constitutional systems, this section must be read with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*) on governance continuity, crisis communications, and exercises, **CF-12** (*Forum continuity*), and **CF-13** (*Fallback operation*).
 
 ## CF-14.1 Emergency triage hierarchy
 
@@ -92,7 +92,7 @@ When the triggering condition subsides, the system must enter a restoration mode
 
 *In plain terms: Every activation ends with findings: what triggered it, what failed, what was used instead, and whether the Rights Floor actually held.*
 
-Every activation must produce the restoration and post-incident evidence required by [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md), with forum-specific findings stating:
+Every activation must produce the restoration and post-incident evidence required by [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*), with forum-specific findings stating:
 - what triggered the continuity mode;
 - what functions degraded or failed;
 - what fallback measures were used;

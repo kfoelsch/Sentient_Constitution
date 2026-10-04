@@ -8,7 +8,7 @@
 - How design, testing, deployment, and ongoing operation stay auditable, challengeable, and aligned with the Constitution
 - How complexity and funding are stewarded in ordinary operation without rewriting Rights Floors
 - How transition, attack/subversion, and partition or continuity failures are governed when ordinary operation is not enough
-- Named **CS-5–CS-12** families and **CS-2–CS-4** families carry the detail — expand **Systems index** below when you need a specific file
+- Named **CS-5** (*User-facing capability surfaces*)–**CS-12** (*Decentralized continuity and partition resilience*) families and **CS-2** (*Information types and handling*)–**CS-4** (*Critical system stewardship*) families carry the detail — expand **Systems index** below when you need a specific file
 
 **Does not:**
 - Redefine constitutional terms, Rights Floors, or offense taxonomy
@@ -19,7 +19,7 @@
 - [Chapter One](core_01_a_values_principles.md) principles and [Chapter Five](core_05__definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapters Two through Four](core_02_definition_structure.md) where auditability, traceability, and verification must hold in systems
 - [Chapter Six](core_06_rights_part_a.md) Rights Floor themes in operation — especially [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XV](core_06_rights_part_c.md) (*Info-Sphere Integrity*), [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVI-A](core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXII-A / XXII-B](core_06_rights_part_c.md) (comprehensibility), and related system-facing articles
-- [Chapter Eight](core_08_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** oversight requirements, not the sole auditing home
+- [Chapter Eight](core_08_system_alignment_certification.md) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVI** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
 
 **Siblings:**
 - Core [README](README.md) — Rights Floor, standing pipeline, and constitutional reading order before implementation detail

@@ -14,10 +14,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-13.1 Temporary quorum and provisional authority](#cf-131-temporary-quorum-and-provisional-authority); [CF-13.2 Fallback venues and backup forums](#cf-132-fallback-venues-and-backup-forums); [CF-13.3 Capture-sensitive fallback operation](#cf-133-capture-sensitive-fallback-operation); [CF-13.4 Family-capture fallback operation](#cf-134-family-capture-fallback-operation).
-- Read with: **CF-13**; **CF-13.1**; **CF-13.2**; **CF-13.3**; **CF-13.4**; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
-- Topic routing (primary owner): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-4**, **CF-7**.
+- Read with: **CF-13** (*Fallback operation*); **CF-13.1** (*Temporary quorum and provisional authority*); **CF-13.2** (*Fallback venues and backup forums*); **CF-13.3** (*Capture-sensitive fallback operation*); **CF-13.4** (*Family-capture fallback operation*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
+- Topic routing (primary owner): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
 </details>
 
@@ -47,7 +47,7 @@ This file is the forum implementation home for **CF-13** (*Fallback operation*).
 
 This section governs temporary forum substitution mechanics when ordinary operation is unavailable, compromised, or unable to form lawful authority. It covers temporary quorum, backup venues, capture-sensitive fallback, family-capture fallback, transfer records, and return-to-primary discipline.
 Fallback operation must preserve primary-stakes routing as far as feasible. It does not authorize permanent alteration of constitutional forum-family boundaries or silent reclassification of a matter.
-Where fallback operation materially depends on constitutional systems, this section must be read with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Governance continuity, crisis communications, and exercises*), **CF-12** (*Forum continuity*), and **CF-14** (*Emergency adjudication*).
+Where fallback operation materially depends on constitutional systems, this section must be read with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*) on governance continuity, crisis communications, and exercises, **CF-12** (*Forum continuity*), and **CF-14** (*Emergency adjudication*).
 
 ## CF-13.1 Temporary quorum and provisional authority
 
@@ -86,7 +86,7 @@ If the emergency condition includes credible capture, concealment, or compromise
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-13.4**; **CF-7.3.8**.
+- Read with: **CF-13.4** (*Family-capture fallback operation*); **CF-7.3.8** (*Family-Level Capture Activation*).
 
 </details>
 
@@ -94,7 +94,7 @@ If the emergency condition includes credible capture, concealment, or compromise
 
 *In plain terms: The severe case: a whole family loses control of intake, panels, or publication. The record must state which family, on what basis, and what replaced it.*
 
-Family-capture continuity applies when **CF-7.3.8** activation displaces a forum family as a whole or materially limits its ordinary control over intake, panel formation, merits adjudication, certification, appeal, publication, record custody, emergency relief, or restoration. The continuity record must state:
+Family-capture continuity applies when **CF-7.3.8** (*Family-Level Capture Activation*) activation displaces a forum family as a whole or materially limits its ordinary control over intake, panel formation, merits adjudication, certification, appeal, publication, record custody, emergency relief, or restoration. The continuity record must state:
 - the affected forum family and functions;
 - the backup family, external reviewer, or Constitutional certification path responsible for activation oversight;
 - which urgent matters remain available for intake and emergency relief;

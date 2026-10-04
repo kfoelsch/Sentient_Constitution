@@ -14,12 +14,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture; and [Chapter Ten §9](../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*).
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture; and [Chapter Ten §9](../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*).
 - Downstream: [CI-27.1: Capacity, funding, and succession](#ci-271-capacity-funding-and-succession); [CI-27.2: Durability, backlog, and publication](#ci-272-durability-backlog-and-publication); [CI-27.3: High-impact remedy domains](#ci-273-high-impact-remedy-domains); [CI-27.4: Standards interface and accountability routing](#ci-274-standards-interface-and-accountability-routing); [CI-27.5: Remedy parity and capacity-failure interface](#ci-275-remedy-parity-and-capacity-failure-interface).
-- Read with: **CI-27**; **CI-6**; **CI-7**; **CI-8**; **CI-12**; **CI-13**; **CF-11**; **CF-5**.
-- Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CF-11**.
-- Topic routing (primary owner): **CJS-R20** (*Remedy parity and lock-to-remedy capacity*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-11**.
-- Topic routing (mandatory read-with): **CJS-R21** (*Capacity-failure routing*) in **CJS-0.1** (*Topic router*); primary owner **CF-5**.
+- Read with: **CI-27** (*Remedy systems and institutional redress capacity*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-7** (*Oversight, assurance, controls, and evidence*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*); **CI-12** (*Cross-institution coordination and escalation*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*); **CF-5** (*Routing operations, transfer, certification, and representative treatment*).
+- Topic routing (mandatory read-with): **CJS-R10** (*Forum performance, backlog requirements, publication timeliness, access…*) in **CJS-0.1** (*Topic router (stable IDs)*); primary owner **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+- Topic routing (primary owner): **CJS-R20** (*Remedy parity and lock-to-remedy capacity*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+- Topic routing (mandatory read-with): **CJS-R21** (*Capacity-failure routing*) in **CJS-0.1** (*Topic router*); primary owner **CF-5** (*Routing operations, transfer, certification, and representative treatment*).
 
 </details>
 
@@ -40,11 +40,11 @@
 
 This file is the institutional implementation home for **CI-27** (*Remedy systems and institutional redress capacity*).
 
-*In plain terms: **CI-27** is the institutions layer's home for making challenge and repair real — staffing, funding, backlog, succession, and high-impact remedy domains. The constitutional floor lives in [Chapter Ten §9 Enforcement realism and remedy systems](../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) and [Remedy System](../core_05_band_accountability.md#remedy-system-constitutional). Forum clocks live in **CF-11**. Technical forums publish measurement standards; they do not run these offices as bosses.*
+*In plain terms: **CI-27** (*Remedy systems and institutional redress capacity*) is the institutions layer's home for making challenge and repair real — staffing, funding, backlog, succession, and high-impact remedy domains. The constitutional floor lives in [Chapter Ten §9 Enforcement realism and remedy systems](../core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) and [Remedy System](../core_05_band_accountability.md#remedy-system-constitutional). Forum clocks live in **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*). Technical forums publish measurement standards; they do not run these offices as bosses.*
 
 **Quick orientation**
 - **What this family owns** — institutional capacity to deliver practical redress: intake, preservation, review, repair, monitoring, safeguard enforcement, and lock review.
-- **What it does not own** — forum-family routing (**Chapter Twelve** / **CF**), standing measurement (**Chapter Nine**), or technical measurement standards (**Technical Forum Domains** / **CF-10**).
+- **What it does not own** — forum-family routing (**Chapter Twelve** / **CF**), standing measurement (**Chapter Nine**), or technical measurement standards (**Technical Forum Domains** / **CF-10** (*Technical specialist forums and specialist chambers*)).
 - **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-7** (*Oversight, assurance, controls, and evidence*) for oversight and assurance; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for accessible challenge and service pathways; **CI-12** (*Cross-institution coordination and escalation*) for cross-institution escalation; **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) when chronic under-capacity becomes institutional failure; **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) for tier milestones and backlog publication; **CF-5** (*Routing operations, transfer, certification, and representative treatment*) for capacity-failure routing.
 <a id="ci-271-capacity-funding-and-succession"></a>
 
@@ -67,7 +67,7 @@ Expense, insolvency, inconvenience, receivership, dissolution, asset transfer, o
 
 *In plain terms: Remedy systems publish their own waiting times and backlog ages, so a route that has quietly stopped working in practice becomes visible from outside.*
 
-Each remedy system must publish, on a fixed schedule compatible with **CF-11**:
+Each remedy system must publish, on a fixed schedule compatible with **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*):
 
 - current intake and acknowledgment windows;
 - backlog size and age distribution for open matters;
@@ -93,7 +93,7 @@ The following domains, and comparable high-impact systems, require durable remed
 - public-health response; and
 - other rights-sensitive administrative systems named by adopting instruments.
 
-Domain-specific operational detail may live in other **CI** families (**CI-15** through **CI-23**, **CI-18**, and cognates). **CI-27** states the shared capacity floor those domains must meet.
+Domain-specific operational detail may live in other **CI** families (**CI-15** (*Neurodiversity, disability justice, and trauma-informed participation*) through **CI-23** (*Place-based stewardship, Indigenous continuity, and consultation routes*), **CI-18** (*Collective public health, epidemic response, and addiction-informed care*), and cognates). **CI-27** (*Remedy systems and institutional redress capacity*) states the shared capacity floor those domains must meet.
 
 <a id="ci-274-standards-interface-and-accountability-routing"></a>
 
@@ -103,7 +103,7 @@ Domain-specific operational detail may live in other **CI** families (**CI-15** 
 
 Remedy systems must meet published capacity, measurement, and milestone standards under [Technical Forum Domains](../core_12_forum.md#42-technical-forum-domains). Technical forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
 
-Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](../core_12_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](../core_12_forum.md#43-institutional-forums), or [Integrity](../core_12_forum.md#45-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Cross-institution stall or handoff failure routes through **CI-12** (*Cross-institution coordination and escalation*). Chronic institutional failure routes through **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*). A claim that this family or a remedy system it funds is itself under capacity routes under **CI-27.5** and **CF-5.4**, not as a self-judged staffing dispute.
+Accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](../core_12_forum.md#2-default-venue-and-primary-stakes) forum family — ordinarily [Institutional](../core_12_forum.md#43-institutional-forums), or [Integrity](../core_12_forum.md#45-integrity-forums) where capture, process failure, or system-alignment collapse is primary. Cross-institution stall or handoff failure routes through **CI-12** (*Cross-institution coordination and escalation*). Chronic institutional failure routes through **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*). A claim that this family or a remedy system it funds is itself under capacity routes under **CI-27.5** (*Remedy parity and capacity-failure interface*) and **CF-5.4** (*Capacity-failure routing*), not as a self-judged staffing dispute.
 
 <a id="ci-275-remedy-parity-and-capacity-failure-interface"></a>
 
@@ -116,7 +116,7 @@ This subsection implements, and must not narrow, [Chapter Ten §4.4](../core_10_
 - **Funding floor:** For each system class an adopter administers, the capacity funded for remedy, restoration, and reassessment must be no less than the capacity funded for lock administration, enforcement, and safeguard imposition on the same class. An adopter that cannot fund remedy for a class must not stand up lock machinery for that class.
 - **Opened-remedy precondition:** Institutional lock offices may not treat a general standing lock as attached until the [Chapter Ten §4.1 Remedy and correction](../core_10_standing_integration.md#41-remedy-and-correction) integration record for the same verified finding is open, except for interim protective measures under [Chapter Twelve §5 Escalation and certification](../core_12_forum.md#interim-protection) (*Interim protection*). Completion of remedy is not required; an opened remedy record is.
 - **Tripwire:** Where remedy commencement or restoration review for a lock class exceeds its [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier outer bound, the capacity failure is a [Chapter Ten §9.2 Remedy-system durability](../core_10_standing_integration.md#92-remedy-system-durability) durability failure. New ordinary locks and existing-lock reassessment follow **Chapter Ten §4.4** (*Remedy parity and lock preconditions*); this family does not invent a lighter or heavier tripwire.
-- **Routing:** A capacity-failure claim about a remedy system, lock office, or forum family is heard outside the starved body under **CF-5.4**. **Integrity** is the default lead. The body in question supplies its published tripwire and backlog figures and may give evidence, but must not be the sole finder of fact on its own capacity.
+- **Routing:** A capacity-failure claim about a remedy system, lock office, or forum family is heard outside the starved body under **CF-5.4** (*Capacity-failure routing*). **Integrity** is the default lead. The body in question supplies its published tripwire and backlog figures and may give evidence, but must not be the sole finder of fact on its own capacity.
 
 This subsection does not relocate standing measurement, forum-family routing, or Chapter Twelve clocks.
 

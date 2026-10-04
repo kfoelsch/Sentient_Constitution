@@ -14,10 +14,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-14.1: Interface — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)](#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives); [CI-14.2: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements](#ci-142-article-xxvii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements); [CI-14.3: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements](#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements); [CI-14.4: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication](#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication); [CI-14.5: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets](#ci-145-article-xxvii-a-prioritizing-institutional-transition-targets).
-- Read with: **CI-14**; **CI-14.1**; **CI-14.2**; **CI-14.3**; **CI-14.4**; **CI-5**; **CI-11**; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
-- Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-0.1** (*Topic router*); primary owner **CF-12**.
+- Read with: **CI-14** (*Transitional governance and institutional evolution*); **CI-14.1** (*non-compliant property, seizure, voluntary incentives*); **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*); **CI-14.3** (*operative transition-scoped remediation requirements*); **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-11** (*Resource stewardship and incentive integrity*); [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
+- Topic routing (mandatory read-with): **CJS-R11** (*Forum continuity*) in **CJS-0.1** (*Topic router*); primary owner **CF-12** (*Forum continuity*).
 
 </details>
 
@@ -47,7 +47,7 @@
 
 This file is the institutional implementation home for **CI-14** (*Transitional governance and institutional evolution*).
 
-*In plain terms: **CI-14** is the institutions layer's "how do we change structure without violating rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-3.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **CS-10**. What this file adds is local: what each institution must name, publish, and maintain locally.*
+*In plain terms: **CI-14** (*Transitional governance and institutional evolution*) is the institutions layer's "how do we change structure without violating rights or losing the thread?" rulebook — when an institution redesigns, merges, hands off authority, or moves from legacy operation toward constitutional operation, and what must stay documented, reviewable, and reversible while that happens. Transition is a bridge, not a permanent emergency. Temporary powers must expire, get reauthorized for real reasons, or roll back — and Rights-Floor minimums cannot quietly shrink because the change is inconvenient. Shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floors live in **CJS-3.18** (*data-retention and lifecycle-integrity terms*); system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics live in **CS-10** (*Transition constitution and migration governance*). What this file adds is local: what each institution must name, publish, and maintain locally.*
 
 **Quick orientation**
 - **The basic idea** — institutional redesign, consolidation, or transfer must preserve non-regression and continuity duties. Rights and services do not get a gap year while someone reorganizes the org chart.
@@ -63,13 +63,13 @@ This file is the institutional implementation home for **CI-14** (*Transitional 
 *In plain terms: "we're in transition" is not a license to suspend accountability. If an institution cannot say who holds interim power, when that power ends, how to challenge it, or what happens if the plan stalls, the transition is not constitutionally managed — no matter how many steering committees meet behind closed doors.*
 
 *Shared rules live elsewhere.*
-- [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
+- [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms) (*data-retention and lifecycle-integrity terms*) — transition continuity, authority-transfer lifecycle integrity, sunset, reauthorization, and challenge-pathway floors, especially **Transition continuity and authority-transfer lifecycle integrity**.
 - **CS-10** (*Transition Constitution and Migration Governance*) in `corpus_systems.md` — system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 - **CJS-3.6** (*integrity assurance and resilience operations*) — property-custody and incentive-separation control chains.
 - **Scope of CI-14** (*Transitional governance and institutional evolution*) — does not repeat those floors; states institutional custody, authorization, oversight, and publication duties against **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).
 **Apply**
-- Apply **CJS-3.18** **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor.
-- Where the transition materially involves constitutional systems, institutions must read this section with **CS-10**.
+- Apply **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*) **Transition continuity and authority-transfer lifecycle integrity** for the shared continuity, authority-transfer, sunset, reauthorization, and challenge-pathway floor.
+- Where the transition materially involves constitutional systems, institutions must read this section with **CS-10** (*Transition constitution and migration governance*).
 - **CI-14** (*Transitional governance and institutional evolution*) states the institutional custody, authorization, and oversight interface; **CS-10** (*Transition Constitution and Migration Governance*) remains the operative home for system phase structure, gate criteria, fallback handling, off-ramps, and re-baselining mechanics.
 **Institutional transition interface (**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) interface)**
 Each institution in scope must name and maintain locally:
@@ -83,15 +83,15 @@ Each institution in scope must name and maintain locally:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-14.1**; **CI-14.3**; **CI-5**; **CI-11**.
+- Read with: **CI-14.1** (*non-compliant property, seizure, voluntary incentives*); **CI-14.3** (*operative transition-scoped remediation requirements*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-11** (*Resource stewardship and incentive integrity*).
 
 </details>
 
 <br>
 
-*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **CS-5 §8** and **CI-11**.*
+*In plain terms: when transition plans touch non-compliant property, seizure, impoundment, quarantine, or voluntary turnover incentives, every step in the chain needs a named owner — who decides someone is eligible, who holds the asset, who pays a bounty, who enforces, who reviews, who funds the program, how sentients are notified, and how they contest. The office that decides payouts must not be the same shop that decides seizures. For high-stakes **Class A**, **Class B**, and **Critical System Steward** scope, read with **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*) and **CI-11** (*Resource stewardship and incentive integrity*).*
 
-Apply **CJS-3.6** **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** states only the **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map. Each institution in scope must name locally:
+Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Property-custody and incentive-separation control chain** for the shared floor. **CI-14.1** (*non-compliant property, seizure, voluntary incentives*) states only the **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) role map. Each institution in scope must name locally:
 
 - **eligibility owner** — who decides whether a case, asset, or claim qualifies;
 - **custody body** — who holds seized, impounded, or quarantined property or systems;
@@ -103,22 +103,22 @@ Apply **CJS-3.6** **Property-custody and incentive-separation control chain** fo
 - **contest path** — how challenges are filed, routed, and decided;
 - **end-date authority** — who sets and enforces sunset or program end dates;
 - **revalidation owner** — who re-checks continued necessity before reauthorization; and
-- the **CI-5** **conflict-disclosure route** when roles overlap or the same party holds incompatible duties.
+- the **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) **conflict-disclosure route** when roles overlap or the same party holds incompatible duties.
 
-For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **CS-5 §8** and **CI-11**.
+For **Class A**, **Class B**, and **Critical System Steward** scope, connect to **CS-5** (*User-facing capability surfaces*) **§8** (*Governance continuity, crisis communications, and exercises*) and **CI-11** (*Resource stewardship and incentive integrity*).
 
 ## CI-14.2: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements
 <a id="ci-142-article-xxvii-d-trigger-catalog-anti-abuse-metrics-and-publication-requirements"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-14.2**; **CI-14.3**.
+- Read with: **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*); **CI-14.3** (*operative transition-scoped remediation requirements*).
 
 </details>
 
 <br>
 
-*In plain terms: **CI-14.2** turns **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary sentients and oversight bodies receive on a fixed schedule. The constitutional Rights Floor lives in **Chapter Six**; this subsection is implementation-only.*
+*In plain terms: **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*) turns **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) into a practical checklist institutions must publish in transition plans — what kinds of deprivation or incentive programs are allowed, what abuse patterns are out of bounds, what metrics show the program is not being weaponized, and what summaries ordinary sentients and oversight bodies receive on a fixed schedule. The constitutional Rights Floor lives in **Chapter Six**; this subsection is implementation-only.*
 
 **Constitutional home:** **Chapter Six**, **Article XXVII-D** (*Non-Compliant Property, Seizure, Impoundment, Quarantine, Forfeiture, and Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
@@ -159,17 +159,17 @@ Institutions must publish or provide stakeholder-facing summaries on a fixed cad
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-14.1**; **CI-14.2**; **CI-5**; **CI-11**; **CJS-3.6** (*property-custody and incentive-separation control chain*).
+- Read with: **CI-14.1** (*non-compliant property, seizure, voluntary incentives*); **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-11** (*Resource stewardship and incentive integrity*); **CJS-3.6** (*property-custody and incentive-separation control chain*).
 
 </details>
 
 <br>
 
-*In plain terms: **CI-14.3** is the operational half of **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XX-B** (*Restriction Floors*).*
+*In plain terms: **CI-14.3** (*operative transition-scoped remediation requirements*) is the operational half of **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — what institutions actually do when transition plans touch non-compliant property or systems. The constitutional floor lives in **Chapter Six**; this subsection states scope, permitted measures, notice and contest mechanics, remedial standards, voluntary-program operation, and the custody items adopters must publish locally. It must not narrow **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*), **Chapter Nine**, or **Article XX-B** (*Restriction Floors*).*
 
 **Constitutional home:** **Chapter Six**, **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*). This subsection is **implementation-only**; it does not restate the Rights Floor.
 
-Apply **CJS-3.6** **Property-custody and incentive-separation control chain** for the shared floor. Read with **CI-14.1** for role assignment and **CI-14.2** for trigger catalogs, anti-abuse metrics, and publication cadence.
+Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Property-custody and incentive-separation control chain** for the shared floor. Read with **CI-14.1** (*non-compliant property, seizure, voluntary incentives*) for role assignment and **CI-14.2** (*trigger catalog, anti-abuse metrics, and publication requirements*) for trigger catalogs, anti-abuse metrics, and publication cadence.
 
 **Transition-scoped deprivation**
 
@@ -231,7 +231,7 @@ Each institution in scope must publish local procedures for the following, and m
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-14.4**; **CI-5**; **CS-10** (*Transition constitution and migration governance*) §CS-10.3 gate criteria; **CI-7** (*Oversight, assurance, controls, and evidence*).
+- Read with: **CI-14.4** (*Rights-Floor attainment ledger: measures, verification, and publication*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CS-10** (*Transition constitution and migration governance*) §CS-10.3 (*Gate criteria and advancement rules*) gate criteria; **CI-7** (*Oversight, assurance, controls, and evidence*).
 
 </details>
 
@@ -287,14 +287,14 @@ Institutions may add measures. They may not drop a family.
 
 - **Criteria set in advance:** For each domain and scope, the plan states before results are known the measurable readiness criteria for institutions, capability, and culture, and the verification tier that applies.
 - **Independent declaration:** When the verified criteria are met, the independent verifier, or a body independent of the ledger owner, declares the floor enforceable for that scope and publishes its reasons.
-- **Published window:** The plan states the maximum time between criteria being met and the declaration. Withholding beyond it is self-created delay for **Article XXVII-B** purposes.
+- **Published window:** The plan states the maximum time between criteria being met and the declaration. Withholding beyond it is self-created delay for **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) purposes.
 - **Contest:** Affected sentients and oversight bodies may contest a declaration as premature or as withheld. The contest is decided by a party independent of the ledger owner.
 - **Staged scopes:** Scopes are sequenced so that enforcement demand matches enforcement capacity. The plan states the sequence and its reasons.
 - **Readiness criteria and evidence:**
   - **Institutions:** forum capacity measured against expected volume (for example time to first hearing); documented standing and challenge pathways; oversight and verification bodies outside the reporting line of the party checked; and funding, staffing, and record-keeping in place.
   - **Capability:** reviewer and operator competence shown in practice (case audits, error and reversal rates); working tools; and tested evidence-custody practice.
   - **Culture and legitimacy:** contest uptake across groups; retaliation reports and findings; survey measures of awareness and trust; and operator-practice audits. Training attendance, policy adoption, and declarations of commitment do not satisfy these criteria.
-- **No narrowing:** A declaration is not withdrawn. If capacity is later lost, the ledger records the loss and **Article XXVII-C** institutional-failure handling applies.
+- **No narrowing:** A declaration is not withdrawn. If capacity is later lost, the ledger records the loss and **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) institutional-failure handling applies.
 
 **Interim enforcement of restraint duties**
 
@@ -333,7 +333,7 @@ While any indicator persists, repair of the verification and measurement machine
 
 - **On track:** at or ahead of the current milestone.
 - **At risk:** behind the milestone but within the stated tolerance. A recovery plan is published.
-- **Failed:** a milestone missed without **Article XXVII-B** reauthorization, an avoidable or unrecovered regression, or a domain unmeasured past its window. This is a transition milestone failure that opens the ordinary path under [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Compliance, Violation, and Standing Model*). No phase advancement that depends on the domain may proceed, and **Article XXVII-C** failure handling applies.
+- **Failed:** a milestone missed without **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization, an avoidable or unrecovered regression, or a domain unmeasured past its window. This is a transition milestone failure that opens the ordinary path under [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Compliance, Violation, and Standing Model*). No phase advancement that depends on the domain may proceed, and **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) failure handling applies.
 - **Unmeasured:** treated as unattained and as a measurement priority until measured.
 - **Regression:** any recorded decline needs a published cause analysis and recovery plan by the next major progress report. It becomes **failed** if it was caused by the adopter's avoidable acts or is not recovered by the following report.
 
@@ -348,7 +348,7 @@ While any indicator persists, repair of the verification and measurement machine
 **Use in gates, reauthorization, and re-baselining**
 
 - **Gates:** **CS-10.3** (*Gate criteria and advancement rules*) gate evidence includes the ledger extract and readiness declarations for every domain the next phase depends on.
-- **Reauthorization:** **Article XXVII-B** requests attach the current ledger extract and shrinkage data.
+- **Reauthorization:** **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) requests attach the current ledger extract and shrinkage data.
 - **Re-baselining:** ledger history carries forward unchanged. A new plan baseline does not reset any starting measure.
 
 **Implementation custody (local publication required)**
@@ -361,7 +361,7 @@ Each institution in scope must publish locally the ledger owner, independent ver
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-14.5**; **CI-9** (*Classification-linked institutional obligations*); **CI-5**; **CI-13** (*Institutional failure, sanctions, dissolution, accountability*); **CS-10.7** (*Prioritizing system transition targets*).
+- Read with: **CI-14.5** (*prioritizing institutional transition targets*); **CI-9** (*Classification-linked institutional obligations*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CS-10.7** (*Prioritizing system transition targets*).
 
 </details>
 

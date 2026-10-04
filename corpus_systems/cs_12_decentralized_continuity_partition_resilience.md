@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); **Article XX**; **Article XXI**; **Article XXVI**; **Article XII**; **Article XXVII-C**; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
+- Upstream: [Chapter One](../core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints); [Constitutional Tetrad](../core_00_preamble.md#constitutional-tetrad); **Article XX** (*Justice After Verified Violation*); **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); **Article XXVI** (*Constitutional Evolution and Non-Entrenchment*); **Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
 - Downstream: [§1](#cs-12-1-purpose-and-role); [§2](#cs-12-2-continuity-modes-and-rights-floor-invariants); [§9](#cs-12-9-self-healing-under-decentralized-continuity).
-- Read with: **CS-12**; **CS-5 §9**; **CJS-3.19**; **CJS-3.20**; **CJS-3.3**.
+- Read with: **CS-12** (*Decentralized continuity and partition resilience*); **CS-5** (*User-facing capability surfaces*) **§9**; **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*).
 
 </details>
 
@@ -37,7 +37,7 @@
 
 This file is the systems implementation home for **CS-12** (*Decentralized continuity and partition resilience*).
 
-*In plain terms: **CS-12** covers operating when the network splits or goes dark. Systems must define the modes they can run in — normal, partitioned, fully offline, and rejoining — and preserve the Rights Floor in every one of them, including how conflicting records are reconciled once the parts reconnect.*
+*In plain terms: **CS-12** (*Decentralized continuity and partition resilience*) covers operating when the network splits or goes dark. Systems must define the modes they can run in — normal, partitioned, fully offline, and rejoining — and preserve the Rights Floor in every one of them, including how conflicting records are reconciled once the parts reconnect.*
 <a id="cs-12-1-purpose-and-role"></a>
 ## CS-12.1 Purpose and role
 
@@ -163,9 +163,9 @@ Persistent operation in degraded modes without renewed necessity and independent
 
 *In plain terms: How automatic detection, containment, and recovery apply across the four modes — without masking the failure that triggered them.*
 
-This section is the **Article XIII-F** (*Resilience and Self-Healing Baseline*) implementation profile. It applies **CS-5 §9** (*Self-healing and recovery-path integrity*), to the four continuity modes defined in **§2** (*Continuity modes and Rights-Floor invariants*): **Normal**, **Degraded-Partitioned**, **Offline-Sovereign**, and **Rejoin-Reconciliation**. It is not a second self-healing profile.
+This section is the **Article XIII-F** (*Resilience and Self-Healing Baseline*) implementation profile. It applies **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*), to the four continuity modes defined in **§2** (*Continuity modes and Rights-Floor invariants*): **Normal**, **Degraded-Partitioned**, **Offline-Sovereign**, and **Rejoin-Reconciliation**. It is not a second self-healing profile.
 
-Detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure remain governed by **Sentient Constitution Chapter Six, Article XIII-F** (*Resilience and Self-Healing Baseline*), **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional). **CS-5 §9** supplies the test, verify, and deploy profile. This section adds only the decentralized-continuity cross-checks below.
+Detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure remain governed by **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional). **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*) supplies the test, verify, and deploy profile. This section adds only the decentralized-continuity cross-checks below.
 
 - Offline and partitioned modes must maintain tamper-evident local recovery-event chains consistent with **§5** (*Offline audit integrity and reconciliation*) (offline audit integrity), and must reconcile recovery events on rejoin rather than treating mode-internal recovery as closed.
 - Recovery across partitions must not alter persistent state, credentials, obligations, or configurations attributed to sentients, operators, or other systems **in other partitions** that fall **outside** the declared fault-and-recovery scope except through changes that satisfy **Article XVI-A** (*Auditability and Observable Evidence*) [Auditability](../core_05_band_oversight.md#auditability) for observability and attribution and that, where parties in those partitions are materially affected, include proportionate notice, authorization, or contestable handoff consistent with **Chapter Six**.
@@ -174,9 +174,9 @@ Detection, containment, safe-failure preference, non-masking, Rights-Floor conti
 - Mode transitions, provisional trust states under **§6.1** (*Threshold recovery and emergency trust-anchor rotation safeguards*), and emergency-authority invocations must not suppress, overwrite, or delay evidence needed for root-cause analysis under **Article XXIII-A** (*Diagnostic Rigor and Causal Attribution*). Reconciliation on rejoin must treat masked or under-logged recovery as a post-rejoin validation failure under **§8** (*Rejoin, de-escalation, and anti-normalization*).
 - Where Rights-Floor capacity is genuinely constrained by partition topology, narrowing must be explicit, time-bound, and restoration-triggered, and must be treated as **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition-governance territory at rejoin.
 - Partition-local contestability intake, audit emission, or external-review pathways must remain materially external or independently verifiable within the partition and must reconcile on rejoin.
-- Self-healing that succeeds operationally in a partitioned or offline mode but leaves a known defective condition in place must carry the CS-5 open root-cause obligation into Rejoin-Reconciliation mode. Recurrence across partition cycles or rejoin cycles remains a single open obligation, not closure of each incident.
+- Self-healing that succeeds operationally in a partitioned or offline mode but leaves a known defective condition in place must carry the CS-5 (*User-facing capability surfaces*) open root-cause obligation into Rejoin-Reconciliation mode. Recurrence across partition cycles or rejoin cycles remains a single open obligation, not closure of each incident.
 
-Where this section is silent, **CS-5 §9**, Chapter One §10 (*Resilience and Self-Healing Design*), **Article XIII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This section does not create rights and must not be read to narrow those homes.
+Where this section is silent, **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*), Chapter One §10 (*Resilience and Self-Healing Design*), **Article XIII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This section does not create rights and must not be read to narrow those homes.
 
 ---
 

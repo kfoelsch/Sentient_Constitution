@@ -40,9 +40,9 @@
 - [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
 - [Accountability, Contestability, and Collective Accountability Failure](core_05_apex_accountability_leg.md#accountability)
 
-**CJS-3** (*Implementation and cross-implementation operational cluster library*) — the operational cluster compass for cross-implementation joint operational terms; read together with this chapter's Tetrad, Aims, and material-stake scaling:
+**CJS-3** (*operational cluster library (oDef)*) — the operational cluster compass for cross-implementation joint operational terms; read together with this chapter's Tetrad, Aims, and material-stake scaling:
 
-- [CJS-3.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — primary entry for **CJS-3.2–CJS-3.23** clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
+- [CJS-3.1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — primary entry for **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*)–**CJS-3.23** (*Integrative: intervention and override integrity terms*) clusters organized by Tetrad leg, Continuity aim, and integrative cross-leg bands
 
 </details>
 
@@ -459,7 +459,7 @@ Burden of proof scales with expected harm severity, irreversibility, dependency 
 Confidentiality limits on the Collision Record must satisfy [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints). Where full public disclosure is not feasible, maximum feasible partial disclosure plus independent reviewer access must be maintained.
 
 <a id="default-interim-posture"></a>
-**Default interim posture while a Constitutional Collision is pending.** Until the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) process and [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) resolve the Constitutional Collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
+**Default interim posture while a Constitutional Collision is pending.** Until the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) process and [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) resolve the Constitutional Collision, the holding pattern is fixed so a steward cannot manufacture a winner by improvising:
 
 - **Preserve evidence:** Do not moot the Constitutional Collision by deletion, leak, or irreversible publication.
 - **Freeze irreversible steps** that would make one of the colliding readings unavailable — do not take a step that cannot be undone if taking it would close the Constitutional Collision, moot one side, or manufacture a winner before interpretation resolves it.
@@ -1085,7 +1085,7 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
   - then **CI** (institutional governance and assurance);
   - then **CF** (Chapter Twelve forum-family doctrine);
 - within that order, read only what the topic routing for the facts requires;
-- editors and auditors use **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** for the authoritative row table;
+- editors and auditors use **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*)** for the authoritative row table;
 - combined satisfaction and the cross-file Fullest Protective Effect rule still apply as stated in this subsection and **§15.4.3** (*Incorporation layer*).
 
 Emergencies may narrow those duties only when the narrowing is:

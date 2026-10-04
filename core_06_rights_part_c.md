@@ -43,16 +43,16 @@ flowchart TB
     subgraph Cgrid[" "]
         direction TB
         subgraph Crow1["Articles XIII–XIV"]
-            C1["Article XIII · Right to Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
-            C2["Article XIV · Security, Intelligence, Force, and Autonomous Coercive Systems<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems"]
+            C1["**Article XIII** (*Right to Reliable and Trustworthy Systems*) · Right to Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
+            C2["**Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) · Security, Intelligence, Force, and Autonomous Coercive Systems<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems"]
         end
         subgraph Crow2["Articles XV–XVI"]
-            C3["Article XV · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship"]
-            C4["Article XVI · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
+            C3["**Article XV** (*Info-Sphere Integrity*) · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship"]
+            C4["**Article XVI** (*Audit, Transparency, and Independent Verification*) · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
         end
         subgraph Crow3["Articles XVII–XVIII"]
-            C5["Article XVII · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
-            C6["Article XVIII · Sandboxed Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Publication, review, and replication integrity"]
+            C5["**Article XVII** (*System Lifecycle, Environments, and Reversibility*) · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
+            C6["**Article XVIII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) · Sandboxed Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Publication, review, and replication integrity"]
         end
     end
     %% Invisible links force a two-wide grid: each link puts its target one level down.
@@ -142,7 +142,7 @@ If the system meets the importance threshold in **Article XIII** (*Right to Reli
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access; [**Article XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) for what a successful challenge must lead to.
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access; [**Article XIII-B** (*Right to Redress and Remedy*)](#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) for what a successful challenge must lead to.
 
 </details>
 
@@ -169,10 +169,10 @@ This Article sets out the trust guarantee for systems that materially affect sen
   - disclosure of material conditions, limits, and risks needed to evaluate whether reliance is warranted;
   - freedom from systematic deception, misrepresentation, or unverifiable manipulation;
   - protection from undisclosed, disproportionate, or non-obvious risks arising from reliance;
-  - correction and remedy when the system does wrong: acknowledgment, correction, proportionate repair, and prevention of recurrence, under [**Article XIII-B**](#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) and [Chapter One §6.1 Correction and Remedy](core_01_a_values_principles.md#61-correction-and-remedy).
+  - correction and remedy when the system does wrong: acknowledgment, correction, proportionate repair, and prevention of recurrence, under [**Article XIII-B** (*Right to Redress and Remedy*)](#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) and [Chapter One §6.1 Correction and Remedy](core_01_a_values_principles.md#61-correction-and-remedy).
 - **Contestability guarantee:** Systems that materially affect sentients must stay open to challenge for as long as sentients rely on them. That requires:
   - a usable path to challenge the system's behavior, outputs, or representations and have the challenge reviewed;
-  - audit and independent verification proportionate to impact and dependency under [**Article XVI**](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - audit and independent verification proportionate to impact and dependency under [**Article XVI** (*Audit, Transparency, and Independent Verification*)](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
   - no narrowing of any of these because the system is certified, officially recognized, or widely relied on;
   - no narrowing by adopted implementation text, which says how to run challenge, review, and redress in a domain and must satisfy this Article: convenience, deadline, and local policy are lower-kind limits and cannot close challenge, review, or redress.
 - **Right to challenge and review:** Sentients have the right to:
@@ -190,7 +190,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§6.1 Correction and Remedy](core_01_a_values_principles.md#61-correction-and-remedy) (principle floor), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Read with: [**Article XIII-A**](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where system failure or misalignment defeats survival-essential access; [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*); [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
+- Read with: [**Article XIII-A** (*Reliability and Trustworthiness Baseline*)](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) where system failure or misalignment defeats survival-essential access; [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*); [Chapter Ten §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Enforcement realism and remedy systems*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -875,7 +875,7 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 *Article neighbors:*
 
 - **Oversight → auditing → SAC:** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, this Article is the Rights-Floor home for auditing.
-  - Cross-implementation *how* / *when* lives in the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (read with **CJS-3.4** / **CJS-3.5** OP annexes).
+  - Cross-implementation *how* / *when* lives in the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (read with **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) / **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) OP annexes).
   - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is one especially large, high-stakes audit process — forum-supervised, multi-domain, and recognition-bearing — among sibling audit modes:
     - System Classification Record audits;
     - System Data Types Record audits;
@@ -1173,7 +1173,7 @@ This Article sets out the innovation and experimentation right and when sandbox 
   - limited integration with shared systems.
 
   It may not be claimed by label alone.
-- **Implementation detail:** Further elaboration appears in **[corpus_systems.md](corpus_systems.md), CS-5** (*Personal, isolated, and experimental systems*; *Creative, entertainment, and expressive systems*).
+- **Implementation detail:** Further elaboration appears in **[corpus_systems.md](corpus_systems.md), CS-5** (*User-facing capability surfaces*) (*Personal, isolated, and experimental systems*; *Creative, entertainment, and expressive systems*).
 
 #### Article XVIII-B: Containment, Disclosure, and Opt-In
 <details>
@@ -1232,7 +1232,7 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 This Article sets out when a sandboxed system moves to higher obligations:
 
 - **Transition to higher obligations:** When impact, dependency, irreversibility, or integration with shared systems grows, systems must transition transparently and without opportunistic delay.
-  - The transition must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5** (*Non-Experimental Systems*).
+  - The transition must move toward the full requirements of **Article XVII-A** (*Lifecycle Governance and Environment Separation*) and **CS-5.7** (*Non-experimental systems*).
   - Interim safeguards proportionate to current risk apply during transition.
   - Sandbox treatment may not continue for functions whose real-world effects materially exceed sandbox conditions.
   - The transition must occur within a reasonable timeframe proportional to that growth.

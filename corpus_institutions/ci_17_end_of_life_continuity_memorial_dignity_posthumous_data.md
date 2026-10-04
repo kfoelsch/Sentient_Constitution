@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Read with: **CI-17**; **CI-8**.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Read with: **CI-17** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 
 </details>
 
@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-17** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
 
-*In plain terms: **CI-17** is the local owner map for dying, mourning, and posthumous records, likeness, and wishes. Shared floors live in **CJS-3.18**; this file names who holds advance directives, who routes palliative access, and who enforces posthumous likeness controls.*
+*In plain terms: **CI-17** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*) is the local owner map for dying, mourning, and posthumous records, likeness, and wishes. Shared floors live in **CJS-3.18** (*Continuity: data-retention and lifecycle-integrity terms*); this file names who holds advance directives, who routes palliative access, and who enforces posthumous likeness controls.*
 
 **Quick orientation**
 - **The basic idea** — dying, mourning, and post-death stewardship are continuity problems: records, wishes, access routes, and dignity must survive the transition.
@@ -48,7 +48,7 @@ This file is the institutional implementation home for **CI-17** (*End-of-life c
 - **Read with** — **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility.
 
 *Shared rules live elsewhere.*
-- [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*data-retention and lifecycle-integrity terms*).
+- [**CJS-3.18**](../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms) (*data-retention and lifecycle-integrity terms*).
 - **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*); **Article IX** (*Likeness, Experiential Data, and Publication Rights*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article XX-B** (*Restriction Floors*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) (not narrowed here).
 - This file does not repeat those floors.
 
@@ -62,7 +62,7 @@ Each institution in scope must name the office or body responsible for:
 - **memorial and disposition files** — who holds memorial preferences, burial or disposition choices, and comparable post-death handling records with auditable custody;
 - **grief and cultural-practice accommodation** — who coordinates leave, ritual space, bereavement support, and culturally specific mourning practices without treating grief as a scheduling inconvenience; and
 - **posthumous likeness or experiential-data controls** — who enforces **Article IX** (*Likeness, Experiential Data, and Publication Rights*) defaults and documented wishes for likeness, voice, synthetic depiction, and experiential or derived data after death, including retention, deletion, and secondary-use limits under **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
-Read **CI-8** for participation and accessibility interfaces.
+Read **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and accessibility interfaces.
 
 ---
 

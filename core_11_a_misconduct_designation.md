@@ -195,7 +195,7 @@ Do not count the same conduct as both **criterion 5** and **criterion 6** unless
 **Good-faith drafting carve-out.** Good-faith drafting error that is promptly disclosed and cured before constitutional effect is not anti-constitutional misconduct **when** that error is material only to **criteria 1–4** in **change** or **record** contexts. It does **not** excuse **criteria 5** or **6** conduct.
 
 <a id="dissent-and-peaceful-protest-carve-out"></a>
-**Dissent and peaceful protest carve-out.** Dissent, advocacy for amendment or replacement of authority by lawful means, peaceful protest, and [protected nonviolent civil disobedience](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) under **Article XI-D** ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) are not anti-constitutional misconduct.
+**Dissent and peaceful protest carve-out.** Dissent, advocacy for amendment or replacement of authority by lawful means, peaceful protest, and [protected nonviolent civil disobedience](core_06_rights_part_b.md#xi-d-nonviolent-civil-disobedience) under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) are not anti-constitutional misconduct.
 - They satisfy no criterion — including **criterion 5** or **6** — through their message, intensity, popularity, or aim of changing who holds authority or what the Constitution says.
 - **Criteria 5** and **6** require force, coercion, usurpation, or operative nullification shown by separable conduct.
 
