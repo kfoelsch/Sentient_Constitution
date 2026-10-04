@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Five home (and Preamble named terms where listed in the start list).
 
-Coverage: **183** of **249** registry terms carry a source gloss.
+Coverage: **184** of **250** registry terms carry a source gloss.
 
 ## Start here
 
@@ -155,6 +155,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Intergenerational Responsibility | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) |
 | Irreversible Deprivation Measure | an Irreversible Deprivation Measure is a justice measure that irreversibly deprives a sentient, especially of life. It is categorically prohibited and remains distinct from reversible containment, Voluntary Discontinuation, and force regulation. | [Source](../../core_05_band_accountability.md#irreversible-deprivation-measure-constitutional) |
 | Irreversible Harm | irreversible harm is damage that cannot meaningfully be repaired in the time that matters for the affected sentients or systems. | [Source](../../core_05_band_accountability.md#irreversible-harm) |
+| Jurisdiction | jurisdiction is a forum's authority to hear and decide a particular matter. This Constitution assigns it. A forum cannot claim it by caption, by a party's choice, or for convenience, and being skilled does not create it. A forum with jurisdiction can still fail on independence or capacity, and those failures are handled separately. | [Source](../../core_05_band_accountability.md#jurisdiction) |
 | Language, Culture, and Heritage | *(no plain-terms gloss in source)* | [Source](../../core_05_band_continuity.md#language-culture-and-heritage-constitutional) |
 | Leisure and Rest | every working sentient has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust sentients don't satisfy this floor. | [Source](../../core_05_band_continuity.md#leisure-and-rest-constitutional) |
 | Lifespan Equivalent Unit (LEQU) | a shared unit for expressing full-life-equivalent benefit or loss when Chapter Nine standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages. | [Source](../../core_05_band_participation.md#lifespan-equivalent-unit-lequ) |

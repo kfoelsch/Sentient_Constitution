@@ -2198,6 +2198,7 @@ Where admission scope is met, this cluster brings together the six constitutiona
 - [Forum Family, Environment](core_05_band_accountability.md#forum-family-environment);
 - [Forum Family, Integrity](core_05_band_accountability.md#forum-family-integrity);
 - [Forum Family, Constitutional](core_05_band_accountability.md#forum-family-constitutional);
+- [Jurisdiction](core_05_band_accountability.md#jurisdiction);
 - [Primary-Stakes Routing](core_05_band_accountability.md#primary-stakes-routing);
 - [Forum Case Record](core_05_band_accountability.md#forum-case-record).
 
@@ -2211,6 +2212,46 @@ Where admission scope is met, this cluster brings together the six constitutiona
 See **Anti-Segmentation Principle**.
 
 *Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on the member definitions below.
+
+---
+
+<a id="jurisdiction"></a>
+
+##### Jurisdiction
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner: [Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes); read with [Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) and [Chapter Twelve §5](core_12_forum.md#5-escalation-and-certification).
+- Read with: [Primary-Stakes Routing](core_05_band_accountability.md#primary-stakes-routing), [Forum Case Record](core_05_band_accountability.md#forum-case-record), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Merits Determination](core_05_band_accountability.md#merits-determination), [Contestability](core_05_band_accountability.md#contestability); [Chapter Seventeen](core_17_incorporation.md) and [Chapter Fifteen](core_15_expansion_supremacy.md) (*adopter enforceability and external legal authority, not defined here*).
+
+</details>
+
+<br>
+
+*In plain terms: jurisdiction is a forum's authority to hear and decide a particular matter. This Constitution assigns it. A forum cannot claim it by caption, by a party's choice, or for convenience, and being skilled does not create it. A forum with jurisdiction can still fail on independence or capacity, and those failures are handled separately.*
+
+- **What it is**
+  - **In scope:** A forum's or forum family's authority to hear a matter and decide it, including the interim orders that go with deciding it, as [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) assigns it through default venue, primary-stakes routing, transfer, consolidation, certification, and backup routing. Jurisdiction is:
+    - assigned by this Constitution and the forum rules adopted under it, never self-declared by the forum and never conferred by a party's filing, consent, or choice of forum;
+    - limited to the matter and the relief the assignment covers; and
+    - separate from skill, capacity, and independence, which are measured elsewhere. Having one does not create, remove, or stand in for another.
+  - A question that Chapter Twelve reserves to another forum family, or to Chapter Nine, Chapter Ten, or Chapter Eleven, stays with its owner. A forum with jurisdiction over the matter refers, certifies, or stays it.
+  - **Out of scope:**
+    - a forum's skill, capacity, or independence;
+    - who may file or contest a matter;
+    - intra-family docket assignment and scheduling;
+    - when this Constitution is enforceable against an adopter or a non-adopter ([Chapter Seventeen](core_17_incorporation.md)); and
+    - the lawful authority of an external legal system or regulator over a matter or an adopter ([Chapter Fifteen](core_15_expansion_supremacy.md)).
+<a id="jurisdiction-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
+
+    **Primary assessment:** For any matter, check that the forum can point to the Chapter Twelve assignment that gave it the matter: a default venue or primary-stakes route, a transfer or consolidation, a certification, or backup routing. Compare the scope of that assignment with what the forum actually decided or ordered, including interim relief and any question reserved to another owner.
+<a id="jurisdiction-c"></a>
+- **What must hold**
+  - A forum may hear and decide only the matters Chapter Twelve assigns it, and only to the extent of that assignment. Chapter Twelve's independent backup review applies when a forum would otherwise judge its own authority.
+  - **Primary failure:** a forum deciding or ordering beyond its assignment; claiming a matter by caption, party consent, funding incentive, or administrative convenience; ruling alone on a challenge to its own authority where backup review applies; or treating its skill or capacity as a substitute for assigned jurisdiction.
 
 ---
 

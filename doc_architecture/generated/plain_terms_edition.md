@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **650** of **915** headings carry a gloss (71%).
+Coverage: **651** of **916** headings carry a gloss (71%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **650** of **915** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (75/87 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (76/88 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/86 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (19/24 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
@@ -669,7 +669,7 @@ when safety, truth, and legitimate confidentiality allow, shared systems should 
 
 #### 17. Consequential Stewardship: The Steward Role
 
-a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)), what it must refuse ([§17.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](../../core_01_c_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../../core_01_c_stewardship_capacity_principles.md#162-institutional-development).
+a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](../../core_01_c_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization)), and what it must refuse ([§17.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](../../core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../../core_01_c_stewardship_capacity_principles.md#162-institutional-development).
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)
 
@@ -681,7 +681,7 @@ human and AI stewards owe the same Chapter One duties. [§17.5 Duty to Resist](.
 
 ##### 17.2 Alignment Under Pressure
 
-following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§17.1 Shared Stewardship Standard](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§17.5 Duty to Resist](../../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist).
 
 [Source](../../core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure)
 
@@ -1207,7 +1207,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 75/87 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 76/88 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1538,6 +1538,12 @@ freedom of action stops where conduct creates verifiable material harm to anothe
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05_band_accountability.md#defa2)
+
+###### Jurisdiction
+
+jurisdiction is a forum's authority to hear and decide a particular matter. This Constitution assigns it. A forum cannot claim it by caption, by a party's choice, or for convenience, and being skilled does not create it. A forum with jurisdiction can still fail on independence or capacity, and those failures are handled separately.
+
+[Source](../../core_05_band_accountability.md#jurisdiction)
 
 ###### Primary-Stakes Routing
 

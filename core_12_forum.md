@@ -260,7 +260,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 
 **Contests of standing records:**
 - A challenge raised on a record before any filing — to the custodian, the record-opening authority, or any office of the institution — is logged on the record, set *under challenge*, and routed by the custodian under [Chapter Nine §3.7](core_09_standing_assessment.md#37-challenge-received-on-the-record) (*Challenge received on the record*); the tier clocks under **§6** (*Timely resolution, materiality tiers, and anti-delay discipline*) run from that receipt, and the **forum case record** opens when the contest reaches a forum.
-- A sentient, institution, system, community, or other affected subject may ask a competent forum to review a **contribution standing record** or **violation standing record** when they claim the record is:
+- A sentient, institution, system, community, or other affected subject may ask a forum with jurisdiction to review a **contribution standing record** or **violation standing record** when they claim the record is:
   - wrong;
   - incomplete;
   - stale;
@@ -311,7 +311,7 @@ This subsection sets out the records a forum keeps and how they may be contested
 - It **should** also expand when refusing to expand would predictably produce conflicting rulings, or would block relief that has to work at a **structural** level.
 - Expanding the case does not take away the original claimant's **standing**. It also does not erase individual issues that still need person-by-person proof or remedy.
 
-**Family sequencing and alignment lead.** Related matters may start in the nearest competent track, use a lawful institutional internal integrity process first where safeguards hold, and keep one **Integrity** lead record for **alignment** coordination — without displacing other families' **primary-stakes** merits.
+**Family sequencing and alignment lead.** Related matters may start in the nearest track with jurisdiction, use a lawful institutional internal integrity process first where safeguards hold, and keep one **Integrity** lead record for **alignment** coordination — without displacing other families' **primary-stakes** merits.
 - **Sentient** first may apply when peer disputes can be fully resolved without final institutional or constitutional determination; institutional or constitutional aspects may be stayed or split with explicit preclusion rules.
 - **Institutional** internal integrity process may precede **Integrity** forums where independence and contest safeguards meet **Chapter Nine**, **Chapter Six** (Foundational Rights), and **`corpus_institutions.md`** expectations; **Integrity** forums remain available for final integrity determinations, cross-institution deadlock, and pattern claims.
 
@@ -689,7 +689,7 @@ This subsection sets out technical support for existential-risk matters and the 
 
 This subsection sets out interim protection while a matter is pending:
 
-- Any competent family may issue interim relief necessary to:
+- Any family with jurisdiction over the matter may issue interim relief necessary to:
   - prevent imminent irreversible harm;
   - preserve evidence under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation);
   - maintain **Ecological Recovery Capacity**;

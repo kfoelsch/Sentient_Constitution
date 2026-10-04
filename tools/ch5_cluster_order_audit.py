@@ -149,6 +149,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Forum Family, Environment",
         "Forum Family, Integrity",
         "Forum Family, Constitutional",
+        "Jurisdiction",
         "Primary-Stakes Routing",
         "Forum Case Record",
     ],

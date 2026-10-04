@@ -117,6 +117,10 @@
       "prefer": "forums, panel, bench, adjudicative body"
     },
     {
+      "avoid": "competent forum (also competent family, competent track)",
+      "prefer": "forum with jurisdiction (or family / track with jurisdiction over the matter); competent reads as skilled, not authorized"
+    },
+    {
       "avoid": "standing calculus",
       "prefer": "standing measurement under Chapter Nine; measure standing records on the Contribution and Violation axes"
     },

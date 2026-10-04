@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-04T02:46:21+00:00",
+  "generated_at": "2026-10-04T10:08:13+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1669,7 +1669,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 38,
+            "count": 39,
             "anchors": [
               "#1-purpose-and-role",
               "#11-market-structure",
@@ -1691,7 +1691,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 23,
+            "count": 24,
             "anchors": [
               "#13-constitutional-collision-resolution-process",
               "#1313-proportionality",
@@ -1759,7 +1759,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 334,
+            "count": 340,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -1801,6 +1801,9 @@
               "#irreversible-harm",
               "#irreversible-harm-a",
               "#irreversible-harm-c",
+              "#jurisdiction",
+              "#jurisdiction-a",
+              "#jurisdiction-c",
               "#market-structure-constitutional",
               "#materially-binding-act",
               "#materially-binding-act-a",
@@ -1827,7 +1830,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 319,
+            "count": 320,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -2054,10 +2057,13 @@
           },
           {
             "file": "core_09_standing_assessment.md",
-            "count": 12,
+            "count": 18,
             "anchors": [
               "#21-silence-is-the-default",
               "#232-violation-event-types",
+              "#31-minimum-record-contents",
+              "#36-forum-boundary",
+              "#37-record-custody-and-opening-authority",
               "#4-question-2-how-good-or-bad-was-it",
               "#41-contribution-magnitude-input-dimensions",
               "#42-violation-severity-input-dimensions",
@@ -2066,10 +2072,11 @@
           },
           {
             "file": "core_10_standing_integration.md",
-            "count": 12,
+            "count": 13,
             "anchors": [
               "#54-duty-to-resist-unlawful-or-unconstitutional-instructions",
               "#54-special-violation-rules",
+              "#6-contribution-consequences-second",
               "#71-anti-aggregation-of-named-pathway-effects",
               "#72-plain-statement-of-effect-and-burden",
               "#91-remediation-capacity-and-funding",
@@ -2086,11 +2093,13 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 8,
+            "count": 13,
             "anchors": [
               "#1-purpose-and-role--participation-architecture",
+              "#23-forum-case-records-standing-records-and-contests",
               "#4-forum-family-definitions--accountability-through-adjudication",
               "#46-constitutional-forums",
+              "#capacity-failure-routing",
               "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
@@ -2578,7 +2587,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 86,
+            "count": 87,
             "anchors": [
               "#adjudication-and-dispute-resolution-constitutional",
               "#anti-constitutional-misconduct-review",
@@ -2622,6 +2631,7 @@
               "#insider-advantage",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
+              "#jurisdiction",
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#material-control-line",
@@ -3650,7 +3660,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 113,
+            "count": 114,
             "anchors": [
               "#accountability",
               "#accountability-measurement-family",
@@ -3681,7 +3691,7 @@
           },
           {
             "file": "core_05_apex_timeliness_leg.md",
-            "count": 53,
+            "count": 54,
             "anchors": [
               "#timeliness-constitutional",
               "#timeliness-measurement-family"
@@ -3689,7 +3699,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 648,
+            "count": 654,
             "anchors": [
               "#accountability-contestability-semi-independent",
               "#adjudication-and-dispute-resolution-constitutional",
@@ -3733,6 +3743,7 @@
               "#insider-advantage",
               "#irreversible-deprivation-measure-constitutional",
               "#irreversible-harm",
+              "#jurisdiction",
               "#market-concentration-threshold-constitutional",
               "#market-structure-constitutional",
               "#material-control-line",
@@ -3998,7 +4009,7 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 27,
+            "count": 31,
             "anchors": [
               "#2-default-venue-and-primary-stakes",
               "#22-mixed-stakes-and-routing-asymmetry",
@@ -4016,6 +4027,16 @@
               "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
+          },
+          {
+            "file": "core_15_expansion_supremacy.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "core_17_incorporation.md",
+            "count": 2,
+            "anchors": []
           },
           {
             "file": "corpus_forum.md",

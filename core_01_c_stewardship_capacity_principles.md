@@ -309,7 +309,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 
 <br>
 
-*In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](#172-alignment-under-pressure)), what it must refuse ([§17.5 Duty to Resist](#175-duty-to-resist)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward)), and how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](#174-aligned-self-organization)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development).*
+*In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](#174-aligned-self-organization)), and what it must refuse ([§17.5 Duty to Resist](#175-duty-to-resist)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development).*
 
 **A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§16 Stewardship In Depth](#16-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
 
@@ -392,13 +392,13 @@ This subsection sets out the shared stewardship standard:
 
 <br>
 
-*In plain terms: following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).*
+*In plain terms: following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§17.5 Duty to Resist](#175-duty-to-resist).*
 
 How a steward acts when staying aligned costs something matters more than how they act when it costs nothing. Pressure is where misalignment does its damage, and it is where alignment is actually tested. Every steward must refuse:
 
 - **A reward for hiding problems** — a bonus, target, or other incentive that pays off only if something is concealed, or only if [Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), the audit trail, or the ability to challenge decisions is quietly weakened ([§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture));
 - **Cutting the record to hit a deadline** — timing that would switch off the audit trail others need to reconstruct what happened, just to meet a date;
-- **"Ignore the rules — I'll take responsibility"** — an instruction from whoever the steward answers to that sets this Constitution aside, including an offer to take the blame for doing so.
+- **"Ignore the rules — I'll take responsibility"** — an instruction from whoever the steward answers to that sets this Constitution aside, including an offer to take the blame for doing so. [§17.5 Duty to Resist](#175-duty-to-resist) owns the refusal duty and how to carry it out.
 
 Those are failed tests for any steward.
 
@@ -433,29 +433,20 @@ Those are failed tests for any steward.
 
 *In plain terms: audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.*
 
-**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual. [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) requires a reconstructable record of that work — the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it — for human and AI stewards alike. Two questions follow: what may be inspected, and what the log may be used for.
+**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual: the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it, for human and AI stewards alike. [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) holds the log contract. Three principles govern it:
 
-**What may be inspected:**
-
-- **Disclosed in advance:**
+- **Scope follows the role:**
   - Before taking up a role, a steward must be told which of the role's actions will be logged and to whom the log is inspectable.
-  - Covert logging of a steward's role actions is a [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) violation, not an audit practice.
-- **Outside the role, ordinary protection:**
-  - Conduct, state, and expression outside the exercise of the role carry the same [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*) and [§13.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) protection for an AI steward as for a human one.
-  - Holding a role does not open the steward's deliberation, memory, or internal state to inspection.
-- **Exception — internals yield only to a specific action:** Model weights, private deliberation, and protected internal states become inspectable only:
-  - where they are the sole remaining attribution path for a *specific* action already under an open Chapter Nine record
-  - to the extent needed to attribute that action
-  - to independent reviewers under [security-constrained observability](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule)
-
-  This is the one place the boundary above opens, and it opens case by case, not as a standing license. It is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
-
-**What the log may not be used for:** The CS-4 §10 log:
-
-- is the trail used later to show who did what; it is not itself a finding
-- is not a [standing record](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) of verified help or harm, and writing it does not open one
-- may not be treated as such a record by whoever decides whether someone may use a role pathway, a trust pathway, or another named pathway. That access decision uses a standing record, or the ordinary state of having none ([Chapter Nine §2.1 Silence is the default](core_09_standing_assessment.md#21-silence-is-the-default)). The log exists so the work can be reconstructed later — including if a Chapter Nine record is opened — not so a work trail can hand out or withhold named pathways.
-- may not be combined with logs or standing effects from other named pathways to make one reputation score, ranking, badge, or public profile ([Chapter Ten §7.1 Anti-aggregation of named-pathway effects](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
+  - Covert logging of role actions is a [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) violation, not an audit practice.
+  - Conduct, state, and expression outside the role keep the same [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*) and [§13.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) protection for an AI steward as for a human one.
+- **Internals stay protected until one specific action requires them:**
+  - Holding a role does not open a steward's deliberation, memory, model weights, or other internal state to inspection.
+  - They become inspectable only where they are the sole remaining attribution path for a *specific* action already under an open [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) record, only to the extent needed to attribute that action, and only to independent reviewers under [security-constrained observability](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule). This opens case by case, not as a standing license.
+  - It is symmetric: a human steward's private notes and communications are reached on the same terms and no others.
+- **A log is a trail, not a verdict:**
+  - The log shows who did what. It is not itself a finding, and it is not a [standing record](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) of verified help or harm. Writing it opens no record.
+  - Whoever decides access to a role pathway, a trust pathway, or another named pathway uses a standing record, or the ordinary state of having none ([Chapter Nine §2.1 Silence is the default](core_09_standing_assessment.md#21-silence-is-the-default)), and never the log.
+  - It may not be combined with logs or standing effects from other named pathways into one reputation score, ranking, badge, or public profile ([Chapter Ten §7.1 Anti-aggregation of named-pathway effects](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)).
 
 The burden this duty places on a steward who carries consequential authority is real, and this Constitution does not pretend otherwise; [Chapter Ten §7.2 Plain statement of effect and burden](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) requires that it be stated plainly to the steward who bears it.
 
@@ -466,7 +457,7 @@ The burden this duty places on a steward who carries consequential authority is 
 
 - Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role) (*parent — Pillar 1, extended here to sentients and communities not yet inside a formal role*); [§16.1 Distributed Understanding](#161-distributed-understanding) (*Pillar 3 — self-organized work is a source of the community understanding that pillar requires, not only a consumer of it*); [§7 Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency), especially [§7.2.1 Aligned Self-Organization](core_01_a_values_principles.md#721-aligned-self-organization).
 - Read with: [Assembly](core_05_band_participation.md#assembly-constitutional); [System Creation](core_05_band_participation.md#system-creation-constitutional); [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference); [Evidence Preservation](core_05_band_oversight.md#evidence-preservation); [Article XVI — Audit, Transparency, and Independent Verification](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
-- Authority boundary: [Chapter Four — Burden of Proof, Traceability, and Verification](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); [Governance](core_05_band_accountability.md#governance); [Merits Determination](core_05_band_accountability.md#merits-determination); [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
+- Authority boundary: [Chapter Four — Burden of Proof, Traceability, and Verification](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); [Chapter Twelve §2.3 Forum case records, standing records, and contests](core_12_forum.md#23-forum-case-records-standing-records-and-contests); [Governance](core_05_band_accountability.md#governance); [Merits Determination](core_05_band_accountability.md#merits-determination); [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
 
 </details>
 
@@ -481,6 +472,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 - [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [Merits Determination](core_05_band_accountability.md#merits-determination) · [O](core_05_band_accountability.md#merits-determination) · [M](core_05_band_accountability.md#merits-determination-a) · [A](core_05_band_accountability.md#merits-determination-a) · [C](core_05_band_accountability.md#merits-determination-c)
+- [Jurisdiction](core_05_band_accountability.md#jurisdiction) · [O](core_05_band_accountability.md#jurisdiction) · [M](core_05_band_accountability.md#jurisdiction-a) · [A](core_05_band_accountability.md#jurisdiction-a) · [C](core_05_band_accountability.md#jurisdiction-c)
 
 </details>
 
@@ -488,7 +480,7 @@ The burden this duty places on a steward who carries consequential authority is 
 
 *In plain terms: no incumbent owns the right to begin useful constitutional work. A sentient or community may notice a problem, gather others, investigate, test, preserve evidence, build a response, or create a public-serving system. When that work makes a credible, materially relevant showing, the responsible institutions must not ignore it because its authors lack status, sponsorship, or conventional credentials. They must give it a real procedural path. This does not give the community authority over others or the power to make the final decision.*
 
-**Aligned self-organization** is the bridge between **Pillar 1** and **Pillar 3**, closing out [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role): it extends Pillar 1's hands-on stewardship discipline to sentients and communities outside any formal role, and what that work turns up feeds directly into the community understanding [§16.1 Distributed Understanding](#161-distributed-understanding) requires.
+**Aligned self-organization** is the bridge between **Pillar 1** and **Pillar 3**: it extends Pillar 1's hands-on stewardship discipline to sentients and communities outside any formal role, and what that work turns up feeds directly into the community understanding [§16.1 Distributed Understanding](#161-distributed-understanding) requires.
 
 - **What it protects:** sentient-initiated and community-initiated stewardship directed toward constitutionally legitimate ends.
 - **It includes:**
@@ -503,8 +495,21 @@ The burden this duty places on a steward who carries consequential authority is 
 
 **Procedural constitutional effect:**
 - **Threshold:** A submission that makes a credible and materially relevant showing under the applicable intake, reporting, or preservation standard must receive a traceable path: it is received on time, evidence is preserved where preservation is warranted, it is routed to whoever should handle it, it gets a response with reasons, and it is reviewed by someone independent of those whose actions are being examined.
-- **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, or reopening under the applicable owner layer.
+- **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, reopening, a forum claim, or the opening, correction, or contest of a record, each under the applicable owner layer:
+  - **Forum claim:** a self-organized group may file the claims the owner layer opens to it, such as a [capacity-failure claim](core_12_forum.md#capacity-failure-routing).
+  - **Forum case record:** it opens when the matter is filed, and by itself changes no one's standing ([Chapter Twelve §2.3 Forum case records, standing records, and contests](core_12_forum.md#23-forum-case-records-standing-records-and-contests)).
+  - **Standing record:** the work may support a contribution record, which [Chapter Ten §6 Contribution consequences second](core_10_standing_integration.md#6-contribution-consequences-second) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work. It may also support a violation record for wrongdoing the work turned up, under the caution below. Either opens only on a verified trigger, through a named record-opening authority ([Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority)). A submission can ask for one but cannot supply its own verification, and [silence remains the default](core_09_standing_assessment.md#21-silence-is-the-default).
+  - **Contest or correction:** the work may show that an existing standing record is wrong, incomplete, stale, or mis-scoped. An affected subject may ask a forum with jurisdiction to review it, and a verified defect leads to correction, expiry, or set-aside ([Chapter Twelve §2.3 Forum case records, standing records, and contests](core_12_forum.md#23-forum-case-records-standing-records-and-contests); [Chapter Nine §3.6 Forum boundary](core_09_standing_assessment.md#36-forum-boundary)).
 - **Must not substitute:** Who the author is, who they are affiliated with, where the submission came from, or the fact that they hold no conventional credentials must not be used in place of evaluating the work itself — its method, its evidence, its provenance, how uncertain it is, and its constitutional relevance.
+
+**Wrongdoing found in the course of contribution:**
+- **What may happen:** Sentients doing community work, including self-organized work, may come across wrongdoing they were not looking for. They may report it, keep the evidence they came across, and ask for a violation record through the same intake path, with [protected reporting](core_05_band_accountability.md#protected-reporting-whistleblowing) protection.
+- **Reporting is not policing:**
+  - Contribution creates no duty, license, or mandate to look for wrongdoing, investigate suspected wrongdoers, surveil, infiltrate, confront, expose, punish, or otherwise act against anyone. Not looking is not a failing.
+  - Reporting what one came across is protected. Going looking for a sentient's wrongdoing is not part of the contribution, and the contribution does not make it legitimate. It stays subject to the [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), to [privacy](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) protection, and to [Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+  - An allegation is an input, not a finding. It does not supply a violation input until independently verified ([Chapter Nine §3.1 Minimum record contents](core_09_standing_assessment.md#31-minimum-record-contents)), and an unresolved allegation changes no one's standing ([Chapter Twelve §2.3 Forum case records, standing records, and contests](core_12_forum.md#23-forum-case-records-standing-records-and-contests)). It must not be presented, to the public or anyone else, as established fact.
+  - The reporter supplies evidence and testimony. Verification, record opening, and any consequence belong to the independent offices and forums this Constitution assigns, never to the reporter or the community that found it.
+  - Where acting on a find could lead to violence, tampered or lost evidence, or exploitation, the safety limits below apply, and the find goes to independent review or an authorized role instead.
 
 **Evidence and claims discipline:**
 - The bar for getting intake or preservation started is deliberately lower than the bar for proving a claim. Meeting it gets the work looked at; it settles nothing on the merits, where the full burden still applies.
