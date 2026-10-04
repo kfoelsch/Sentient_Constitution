@@ -651,11 +651,13 @@ At principle layer, [Governance](core_05_band_accountability.md#governance) is h
 - processes for directing institutions; and
 - mechanisms for holding governance itself accountable.
 
-**Authority-scaled answerability.** Greater authorized power, consequential role, or institutional influence raises — and must not lower — constitutional [Accountability](core_05_apex_accountability_leg.md#accountability) and [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) duties under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled with [material stake](core_00_preamble.md#material-stake) and read with [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality):
+**Authority-scaled answerability.** The more power you have, the more you answer for.
 
-- office, expertise scarcity, staffing need, or institutional self-protection must not dilute answerability to this Constitution;
-- **Constitutional forum members and panelists** exercising interpretive or adjudicative authority are especially subject to this discipline;
-- operative disclosure, recusal, anti-capture, and independent-review floors live in [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction), not here.
+The more power, influence, or responsibility someone has under this Constitution, the more accountability and oversight they must accept. It should never be less. How much more depends on what's at stake, and the extra duties should go no further than needed and stay fair to the situation.
+
+- **No excuses.** Holding high office, having rare expertise, being short-staffed, or wanting to protect an institution's reputation never justifies being less accountable to this Constitution.
+- **Judges and interpreters are held to the highest standard.** People on constitutional forums and panels who interpret the Constitution or decide disputes under it are especially bound by this rule.
+- **The detailed rules are elsewhere.** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
 
 **Necessary, not sufficient.** Governance must give way to **Stewardship** ([§16 Stewardship In Depth](#16-stewardship-in-depth)) when any of the following would undermine durable constitutional alignment, [**Continuity**](core_00_preamble.md#continuity), [**Flourishing**](core_00_preamble.md#flourishing), or Rights-Floor integrity:
 
@@ -694,7 +696,12 @@ This Constitution and the public governance it constrains are secular in the ins
 - Baseline rights and access to constitutionally protected processes must not be conditioned on profession of belief, religious practice, or absence of belief.
 - A narrow exception exists only where unavoidable under **Chapter One** and **Chapter Five** (**Necessity** and **Proportionality**) and without invidious targeting.
 
-**Scope:** Institutional secularism governs public authority under **this Constitution**. It does not restrict private, associational, or civic expression of religion or non-religion. Apply it consistently with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article XI-F** (*Non-Imposition and Consent in Association*) where cooperative interaction applies. The individual freedom of conscience, religion, and comparable worldview is stated in **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
+**Scope:**
+
+- Institutional secularism governs public authority under **this Constitution**.
+- It does not restrict private, associational, or civic expression of religion or non-religion.
+- Apply it consistently with **Chapter Five** Independent Definitions (**Non-Imposition (Cooperative Interaction)**) and **Article XI-F** (*Non-Imposition and Consent in Association*) where cooperative interaction applies.
+- The individual freedom of conscience, religion, and comparable worldview is stated in **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*).
 
 <a id="183-segregation-of-duties"></a>
 #### 18.3 Segregation of Duties
@@ -726,9 +733,22 @@ This Constitution and the public governance it constrains are secular in the ins
 
 *In plain terms: governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Seven supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.*
 
-[Oversight](core_05_apex_oversight_leg.md#oversight-constitutional) and [Accountability](core_05_apex_accountability_leg.md#accountability) require functional independence between action and the checking of action. Governance must therefore place every [materially binding act](core_05_band_accountability.md#materially-binding-act) under the distinct-seat architecture, prohibited combinations, independence rules, scaling conditions, attributable handoffs, and wrong-seat routing of [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
+**Whoever checks the work can't be the one who did it.**
 
-This principle binds human and AI stewards alike under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard). It is the seat-independence half of a pair with [§19.3 *Plural detection and review*](#193-misalignment-detection): plurality keeps oversight from being cornered by one actor; Chapter Seven keeps oversight from being performed by the actor under review.
+Oversight and accountability only work if the checking is done independently of the action being checked. So every decision or action that materially binds people must follow the separation-of-roles rules in [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties). Those rules include:
+
+- different people (or AI systems) in the "doing" and "checking" roles;
+- combinations of roles that are off-limits;
+- independence requirements, which get stricter as the stakes rise;
+- clear, traceable handoffs from one role to the next; and
+- a way to redirect a matter that lands with the wrong person.
+
+**Who it applies to.** Human and AI stewards are held to this equally ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)).
+
+**How it fits with §19.3.** The two rules work as a pair ([§19.3 *Plural detection and review*](#193-misalignment-detection)):
+
+- Having several reviewers keeps any single actor from taking control of oversight.
+- Chapter Seven keeps the actor under review from doing the reviewing.
 
 <a id="184-ongoing-justification"></a>
 #### 18.4 Ongoing Justification
@@ -761,7 +781,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 
 *In plain terms: arrangements cannot coast forever on "we've always done it this way." Important rules for who decides, who has a voice, how influence is weighted, how money is allocated, and how institutions are designed have to keep proving they still fit this Constitution — on a schedule others can see and challenge.*
 
-**Must stay justified over time:** Important governance choices cannot be set once and forgotten. They must be rechecked on a regular schedule, using standards that materially affected sentients can see and challenge.
+Important governance choices cannot be set once and forgotten. They must be rechecked on a regular schedule, using standards that materially affected sentients can see and challenge.
 
 - **What must be rechecked:**
   - rules for how decisions are made
