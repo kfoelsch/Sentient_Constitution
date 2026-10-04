@@ -14,10 +14,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-6.1 Disposition-effect categories and record labels](#cf-61-disposition-effect-categories-and-record-labels); [CF-6.2 Core rules](#cf-62-core-rules).
-- Read with: **CF-6**; **CF-6.1**; **CF-6.1.1**; **CF-6.1.2**; **CF-6.1.3**; **CF-4**; **CF-6.1.4**.
-- Topic routing (primary owner): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-6**, **CJS-3.13**.
+- Read with: **CF-6** (*Appeal, secondary review, and exhaustion pathways*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.1** (*Party-Bound Disposition Effect*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*); **CF-6.1.3** (*Published Panel-Rule Disposition Effect*); **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*); **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*).
+- Topic routing (primary owner): **CJS-R05** (*Appeal, secondary review, exhaustion*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-6** (*Procedure integrity, contestability, and secondary review*), **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 
 </details>
 
@@ -49,7 +49,7 @@
 
 This file is the forum implementation home for **CF-6** (*Appeal, secondary review, and exhaustion pathways*).
 
-*In plain terms: **CF-6** (*Appeal and secondary review*) makes sure a first decision is not automatically the last word. It sets the minimum review routes every forum family must keep open, labels what each disposition actually decided, and stops "you have not exhausted your options" from being used to run out the clock.*
+*In plain terms: **CF-6** (*Appeal, secondary review, and exhaustion pathways*) makes sure a first decision is not automatically the last word. It sets the minimum review routes every forum family must keep open, labels what each disposition actually decided, and stops "you have not exhausted your options" from being used to run out the clock.*
 
 This section sets the minimum review paths every forum family must preserve. It covers:
 - ordinary appeal or secondary-review lanes;
@@ -66,7 +66,7 @@ When an adopting system permits depositions, the rules must define at least: who
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-6.1**; **CF-6.1.1**; **CF-6.1.2**; **CF-6.1.3**; **CF-6**; **CF-4**; **CF-6.1.4**.
+- Read with: **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.1** (*Party-Bound Disposition Effect*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*); **CF-6.1.3** (*Published Panel-Rule Disposition Effect*); **CF-6** (*Appeal, secondary review, and exhaustion pathways*); **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*); **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*).
 
 </details>
 
@@ -74,27 +74,27 @@ When an adopting system permits depositions, the rules must define at least: who
 
 *In plain terms: Labels stating how far a ruling reaches: only these parties, a whole class, later panels, or a technical standard. Recording the reach prevents a narrow decision from quietly becoming a general rule.*
 
-**Usage.** Adopting instruments should use the categories in this subsection when a disposition may matter beyond the immediate case. The categories say how far the ruling travels: only to the parties, to a class or shared practice, to later panels, or through a technical standard. For structured records, each category is assigned through the stable **CF-6.1.1** through **CF-6.1.4** class labels below. These are local **forum disposition-effect** categories and record labels. They are not CJS-3 (*Implementation and cross-implementation operational cluster library*) operational cluster labels, not `corpus_systems.md` data-type labels, not `corpus_systems.md` system-class labels, and not institutional **CI-** anchors.
+**Usage.** Adopting instruments should use the categories in this subsection when a disposition may matter beyond the immediate case. The categories say how far the ruling travels: only to the parties, to a class or shared practice, to later panels, or through a technical standard. For structured records, each category is assigned through the stable **CF-6.1.1** (*Party-Bound Disposition Effect*) through **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*) class labels below. These are local **forum disposition-effect** categories and record labels. They are not CJS-3 (*operational cluster library (oDef)*) operational cluster labels, not `corpus_systems.md` data-type labels, not `corpus_systems.md` system-class labels, and not institutional **CI-** anchors.
 
 **Disposition-effect categories:**
-- **Party-bound** (**CF-6.1.1**) — effect remains with the parties and decided issues.
-- **Scope-anchored** (**CF-6.1.2**) — effect reaches a class, subclass, shared practice, common rule, or representative stake.
-- **Published panel-rule** (**CF-6.1.3**) — effect supplies a presumptive rule, threshold, or disposition pattern for later panels.
-- **Technical shared-standard** (**CF-6.1.4**) — effect travels mainly through a recognized technical or expert-evidence standard.
+- **Party-bound** (**CF-6.1.1** (*Party-Bound Disposition Effect*)) — effect remains with the parties and decided issues.
+- **Scope-anchored** (**CF-6.1.2** (*Scope-Anchored Disposition Effect*)) — effect reaches a class, subclass, shared practice, common rule, or representative stake.
+- **Published panel-rule** (**CF-6.1.3** (*Published Panel-Rule Disposition Effect*)) — effect supplies a presumptive rule, threshold, or disposition pattern for later panels.
+- **Technical shared-standard** (**CF-6.1.4** (*Technical Shared-Standard Disposition Effect*)) — effect travels mainly through a recognized technical or expert-evidence standard.
 
-**Recordkeeping.** When a disposition carries **CF-6.1.2**, **CF-6.1.3**, or **CF-6.1.4**, the attributable record must identify the applicable disposition-effect category or categories, the corresponding **CF-6.1** class label or labels, the covered population or panel scope, any sunset or review cadence, and the published path for challenge, certification, appeal, or standards reconsideration. Rights-collision records elsewhere in this section still apply where relevant.
+**Recordkeeping.** When a disposition carries **CF-6.1.2** (*Scope-Anchored Disposition Effect*), **CF-6.1.3** (*Published Panel-Rule Disposition Effect*), or **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*), the attributable record must identify the applicable disposition-effect category or categories, the corresponding **CF-6.1** (*Disposition-effect categories and record labels*) class label or labels, the covered population or panel scope, any sunset or review cadence, and the published path for challenge, certification, appeal, or standards reconsideration. Rights-collision records elsewhere in this section still apply where relevant.
 
 ### CF-6.1.1 Party-Bound Disposition Effect
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-6.1.1**; **CF-6.1**.
+- Read with: **CF-6.1.1** (*Party-Bound Disposition Effect*); **CF-6.1** (*Disposition-effect categories and record labels*).
 
 </details>
 
 <br>
 
-The determination binds the parties before the forum on the issues decided, including ordinary **issue preclusion** effects adopting law gives it. It does not, by itself, create a published rule for unrelated matters. This is the default for routine party-to-party outcomes unless the record assigns a broader **CF-6.1** disposition-effect category and class label.
+The determination binds the parties before the forum on the issues decided, including ordinary **issue preclusion** effects adopting law gives it. It does not, by itself, create a published rule for unrelated matters. This is the default for routine party-to-party outcomes unless the record assigns a broader **CF-6.1** (*Disposition-effect categories and record labels*) disposition-effect category and class label.
 
 ### CF-6.1.2 Scope-Anchored Disposition Effect
 
@@ -104,32 +104,32 @@ The determination binds or governs a **class**, **subclass**, **common practice*
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-6.1.3**; **CF-6**; **CF-4**.
+- Read with: **CF-6.1.3** (*Published Panel-Rule Disposition Effect*); **CF-6** (*Appeal, secondary review, and exhaustion pathways*); **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 
 </details>
 
 <br>
 
-The determination publishes an **intra-family** rule, or an expressly stated **cross-family** rule, threshold, or disposition pattern. Other lawful merits panels in the same adopting system must treat the published rule as presumptive. A later panel may depart from it only by giving reasons in a record that can be reviewed. The published rule does not override independent review required by **CF-6**, and it does not relax **CF-4** rules on panel formation, disclosure, recusal, or lawful bench constitution. The system must publish the departure process. Panels handling the same class of dispute must not reach inconsistent outcomes without explanation. If they do, the system is presumptively non-compliant unless a published coordination rule explains why the difference is allowed.
+The determination publishes an **intra-family** rule, or an expressly stated **cross-family** rule, threshold, or disposition pattern. Other lawful merits panels in the same adopting system must treat the published rule as presumptive. A later panel may depart from it only by giving reasons in a record that can be reviewed. The published rule does not override independent review required by **CF-6** (*Appeal, secondary review, and exhaustion pathways*), and it does not relax **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) rules on panel formation, disclosure, recusal, or lawful bench constitution. The system must publish the departure process. Panels handling the same class of dispute must not reach inconsistent outcomes without explanation. If they do, the system is presumptively non-compliant unless a published coordination rule explains why the difference is allowed.
 
 ### CF-6.1.4 Technical Shared-Standard Disposition Effect
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-6.1.4**; **CF-10**; **CF-6.1.3**.
+- Read with: **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*); **CF-10** (*Technical specialist forums and specialist chambers*); **CF-6.1.3** (*Published Panel-Rule Disposition Effect*).
 
 </details>
 
 <br>
 
-The ruling's force runs through a **shared technical or expert-evidence standard** maintained or recognized under **CF-10** (*Technical specialist forums and specialist chambers*), including that section's departure, variance, and cross-jurisdiction recognition rules. Use **CF-6.1.4** when the binding or presumptive effect comes mainly from the technical-standard architecture rather than from a general **CF-6.1.3** panel rule. A lead forum may also state **CF-6.1.3** when it publishes a non-technical disposition pattern that depends on a **CF-10** standard.
+The ruling's force runs through a **shared technical or expert-evidence standard** maintained or recognized under **CF-10** (*Technical specialist forums and specialist chambers*), including that section's departure, variance, and cross-jurisdiction recognition rules. Use **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*) when the binding or presumptive effect comes mainly from the technical-standard architecture rather than from a general **CF-6.1.3** (*Published Panel-Rule Disposition Effect*) panel rule. A lead forum may also state **CF-6.1.3** (*Published Panel-Rule Disposition Effect*) when it publishes a non-technical disposition pattern that depends on a **CF-10** (*Technical specialist forums and specialist chambers*) standard.
 
 ## CF-6.2 Core rules
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: [CF-6.2.1 Review-Lane Architecture](#cf-621-review-lane-architecture); [CF-6.2.2 Emergency, Exhaustion, and Timing Rules](#cf-622-emergency-exhaustion-and-timing-rules); [CF-6.2.3 Rights-Collision Records](#cf-623-rights-collision-records).
-- Read with: **CF-6.2**; **CF-6.2.1**; **CF-6.1**; **CF-6.1.2**; **CF-6.2.2**; **CF-6.2.3**; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
+- Read with: **CF-6.2** (*Core rules*); **CF-6.2.1** (*Review-Lane Architecture*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*); **CF-6.2.2** (*Emergency, Exhaustion, and Timing Rules*); **CF-6.2.3** (*Rights-Collision Records*); [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract.
 
 </details>
 
@@ -143,7 +143,7 @@ Every forum family must keep a practical way to review materially impactful deci
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-6.2.1**; **CF-6.1**; **CF-6.1.2**.
+- Read with: **CF-6.2.1** (*Review-Lane Architecture*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*).
 
 </details>
 
@@ -151,7 +151,7 @@ Every forum family must keep a practical way to review materially impactful deci
 
 **Minimum lane structure.** At minimum, adopting systems must provide the following review lanes:
 - Ordinary merits determinations must have a published review path.
-- High-impact, Rights-Floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CF-6.1** disposition-effect category and corresponding class label. The ordinary expectation is at least **CF-6.1.2** unless adopting law expressly treats the outcome as party-bound only.
+- High-impact, Rights-Floor, constitutional, or structurally precedential determinations must have access to a review body that is meaningfully independent of the original decision-maker. The attributable record must state the applicable **CF-6.1** (*Disposition-effect categories and record labels*) disposition-effect category and corresponding class label. The ordinary expectation is at least **CF-6.1.2** (*Scope-Anchored Disposition Effect*) unless adopting law expressly treats the outcome as party-bound only.
 - Emergency or imminent-harm matters must have an expedited interim-review lane.
 - Restricted-evidence matters must preserve a lawful route to review scope, secrecy, access, and later merits. Secrecy alone must not make the decision practically unreviewable.
 
@@ -224,15 +224,15 @@ Record supplementation may cure the procedural defect only prospectively and onl
 - constitutional-meaning, constitutional-validity, supremacy, action-beyond-lawful-authority, or class-wide structural-remedy issues must be certified or appealed to the **Constitutional** forum family, subject to **Article XXIV-C** (*Public Reasons, Challenge Rights, and External Review*) and Chapter Twelve certification rules;
 - manifest constitutional error in a non-Constitutional forum ruling is reviewed by the forum family that would have had lawful authority over the controlling constitutional issue, with **Constitutional** forums deciding constitutional meaning, validity, supremacy, and class-wide structural remedy;
 - manifest constitutional error in a **Constitutional** forum ruling is reviewed by a specially constituted **Constitutional review panel** that is structurally separate from the originating panel, has no overlapping decision-makers, and is selected under published rotation, recusal, and conflict-screening rules sufficient to prevent the originating body or appointing chain from controlling the review;
-- where the claimed error is capture, conflict, recusal failure, biased panel participation, evidence-control dependency, retaliation, or the forum judging its own integrity breach, reviewer assignment follows **CF-7** anti-self-judging and backup-routing rules before any merits review proceeds; and
+- where the claimed error is capture, conflict, recusal failure, biased panel participation, evidence-control dependency, retaliation, or the forum judging its own integrity breach, reviewer assignment follows **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) anti-self-judging and backup-routing rules before any merits review proceeds; and
 - where no independent same-family reviewer can lawfully be constituted in time to prevent material harm, backup routing, certification, emergency adjudication, or external assurance must be used only to the extent needed to preserve a lawful and contestable merits review.
 
-**Constitutional review panel staffing and status.** The **Constitutional review panel** for manifest constitutional error is a special review panel inside the **Constitutional** forum family. It is not a seventh forum family, not a permanent superior forum over all other families, and not an ordinary merits adjudicative layer. Each adopting system must maintain, under **CF-4** and **CF-16**, a published **constitutional-review reserve roster** sufficient to form that panel on short notice. The roster must:
+**Constitutional review panel staffing and status.** The **Constitutional review panel** for manifest constitutional error is a special review panel inside the **Constitutional** forum family. It is not a seventh forum family, not a permanent superior forum over all other families, and not an ordinary merits adjudicative layer. Each adopting system must maintain, under **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), a published **constitutional-review reserve roster** sufficient to form that panel on short notice. The roster must:
 - be selected through a published, auditable, multi-source appointment, rotation, or sortition-compatible method that prevents durable control by the originating panel, a single appointing authority, an interested institution, or a stakeholder bloc;
 - include only adjudicators who satisfy Constitutional forum competence requirements, including competence in constitutional interpretation, authority-stack analysis, Rights-Floor review, remedy limits, and forum-family routing;
 - include enough reserve and substitute members to survive foreseeable recusal, incapacity, emergency, and capture-sensitive cases without repeatedly returning to the same small cadre;
 - exclude any member of the originating panel, anyone who materially participated in the challenged ruling, and anyone in a dependency, supervisory, appointment, disciplinary, or promotion chain that would make review functionally controlled by the originating body;
-- apply the disclosure, recusal, panel-formation, inability-to-form, and backup-activation rules in **CF-4** and **CF-7** before merits review;
+- apply the disclosure, recusal, panel-formation, inability-to-form, and backup-activation rules in **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) before merits review;
 - use independent clerical, records, accessibility, and forensic-support arrangements where ordinary Constitutional forum administration is materially implicated in the challenged error; and
 - publish a panel-formation record identifying the roster source, selection method, recusals, substitutions, competence basis, independence safeguards, and any reason emergency or reduced-panel procedures were used.
 
@@ -243,7 +243,7 @@ Adopting instruments may use Constitutional forum members, reserve Constitutiona
 - displace another forum family's lawful merits authority after the constitutional error is corrected;
 - convert specialist evidence or component findings into general constitutional doctrine without the publication, certification, and disposition-effect records required by this section and Chapter Twelve;
 - retain supervision over implementation except for compliance milestones necessary to effectuate its stay, remand, vacatur, correction, or restoration order; or
-- use manifest-error review to bypass **CF-7** where the real issue is capture, recusal failure, retaliation, evidence-control dependency, or self-judging.
+- use manifest-error review to bypass **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) where the real issue is capture, recusal failure, retaliation, evidence-control dependency, or self-judging.
 
 Other forum families must treat the Constitutional review panel's constitutional holding, stay, and remand instructions as binding within the disposition-effect category assigned on the record. They retain authority over their assigned component or merits questions unless the panel's constitutional ruling lawfully narrows, vacates, or remands that action.
 

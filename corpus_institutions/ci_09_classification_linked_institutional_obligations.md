@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-9.1: Formation proportionality](#ci-91-formation-proportionality); [CI-9.2: Published industry and domain mapping](#ci-92-published-industry-and-domain-mapping); [CI-9.3: Delegated subunits, institutional design class, and attachment discipline](#ci-93-delegated-subunits-institutional-design-class-and-attachment-discipline).
-- Read with: **CI-9**; **CI-9.1**; **CI-7**; **CI-9.2**; **CI-9.3**; **CI-9.3.1**; **CI-9.3.2**.
+- Read with: **CI-9** (*Classification-linked institutional obligations*); **CI-9.1** (*Formation proportionality*); **CI-7** (*Oversight, assurance, controls, and evidence*); **CI-9.2** (*Published industry and domain mapping*); **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*); **CI-9.3.1** (*Identification and competence*); **CI-9.3.2** (*Authority composition*).
 
 </details>
 
@@ -54,7 +54,7 @@
 
 This file is the institutional implementation home for **CI-9** (*Classification-linked institutional obligations*).
 
-*In plain terms: **CI-9** is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-3.11** (*distributed and proportional authority terms*), **CJS-3.16** (*dependency integrity and disclosure terms*), and **CJS-3.12** (*burden-of-justification and constraint terms*); delegated-body composition rules live in **CJS-2.1**. What this file adds is local: what each institution must publish and maintain locally.*
+*In plain terms: **CI-9** (*Classification-linked institutional obligations*) is the institutions layer's "how much oversight does this deserve?" rulebook — how formation burdens, governance duties, domain maps, and delegated-subunit rules scale with a system's risk class and stewardship tier. Low-impact organizations must not face needless red tape; high-impact or high-dependency systems must face proportionate scrutiny. Shared scaling floors live in **CJS-3.11** (*distributed and proportional authority terms*), **CJS-3.16** (*dependency integrity and disclosure terms*), and **CJS-3.12** (*burden-of-justification and constraint terms*); delegated-body composition rules live in **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 - **The basic idea** — when an institution's duties depend on system class under **CS-3** (*System classification machinery*) or stewardship tier under **CS-4** (*Critical system stewardship*), apply the burden with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) that fits the affected scope. You cannot use a lower class label to dodge stronger duties.
@@ -64,8 +64,8 @@ This file is the institutional implementation home for **CI-9** (*Classification
 - **CI-9.4** — how institutional instruments connect essential-access floors and voluntary markets without conditioning survival on labor or premium purchasing (**Article III-A** (*Survival*) interface).
 *In plain terms: classification is not a decorative label. It is the dial that sets how hard institutions must work — and the dial must match reality, stay published, and tighten when dependency or risk grows.*
 
-*Shared rules live elsewhere.* Class- and tier-scaling terms are in **CJS-3.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** does not repeat those floors; it keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
-Apply **CJS-3.11** **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
+*Shared rules live elsewhere.* Class- and tier-scaling terms are in **CJS-3.11** (*distributed and proportional authority terms*), especially **Classification-scaled governance burden**. **CI-9** (*Classification-linked institutional obligations*) does not repeat those floors; it keeps only the institutional application across formation, authorization, oversight, mapping, delegated-subunit, and related duties.
+Apply **CJS-3.11** (*Accountability: distributed and proportional authority terms*) **Classification-scaled governance burden** for the shared class- and tier-scaling rule.
 **Constitutional floor for formation**
 The operational mechanics in this section — registration, fiscal treatment, liability frameworks, and dissolution pathways — implement the Chapter Five Rights Floor for [System Creation](../core_05_band_participation.md#system-creation-constitutional) (non-commercial institutional formation) and [Business Creation](../core_05_band_participation.md#business-creation-constitutional) (commercial entrepreneurial formation). These mechanics must not narrow the constitutional floor. They must remain consistent with the [Assembly, Collective Organization, and Institutional Formation cluster](../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) and owner-floor provisions in **Article X-C** (*Stakeholder Role and Participation Rights*) (System Creation) and **Article III-C** (*Labor and Economic Floor*) (Business Creation).
 
@@ -73,7 +73,7 @@ The operational mechanics in this section — registration, fiscal treatment, li
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.1**; **CI-7**; **CI-7.3**.
+- Read with: **CI-9.1** (*Formation proportionality*); **CI-7** (*Oversight, assurance, controls, and evidence*); **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*).
 
 </details>
 
@@ -81,7 +81,7 @@ The operational mechanics in this section — registration, fiscal treatment, li
 
 *In plain terms: starting or authorizing an institution must be as easy as the risk allows and as rigorous as the risk requires. A small low-impact group must not face the same paperwork as a body supervising survival-critical systems.*
 
-Apply **CJS-3.11** **Formation and authorization proportionality floor** for the shared scaling rule. **CI-9.1** keeps only what each formation or authorizing instrument must publish locally:
+Apply **CJS-3.11** (*Accountability: distributed and proportional authority terms*) **Formation and authorization proportionality floor** for the shared scaling rule. **CI-9.1** (*Formation proportionality*) keeps only what each formation or authorizing instrument must publish locally:
 
 - the authorization path — who approves formation and on what basis;
 - the evidence burden — what proof is required before authorization;
@@ -89,13 +89,13 @@ Apply **CJS-3.11** **Formation and authorization proportionality floor** for the
 - publication depth — how much the public can see about the body and its duties;
 - continuity-planning depth — how the institution stays operational through disruption;
 - compliance-cost expectations — so burdens are not hidden; and
-- the contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-7.3**).
+- the contest-integrity monitoring route for **Class A** and **Class B** supervised scope (**CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*)).
 
 ## CI-9.2: Published industry and domain mapping
 
 *In plain terms: if an institution regulates or supervises whole sectors — food, energy, health, finance, communications, and the like — it must publish a living map of what it oversees, how risky each domain is classified, and when that classification must change. The map is for real planning and proportional burden, not for hiding critical dependencies behind vague labels.*
 
-Apply **CJS-3.16** **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassification floor. **CI-9.2** keeps only what each institution must name and maintain locally:
+Apply **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*) **Domain and sector classification mapping** for the shared domain-taxonomy, criticality, split-classification, and reclassification floor. **CI-9.2** (*Published industry and domain mapping*) keeps only what each institution must name and maintain locally:
 
 - who owns the domain map;
 - how often the map is published or refreshed;
@@ -106,10 +106,10 @@ Apply **CJS-3.16** **Domain and sector classification mapping** for the shared d
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.3**; **CI-9.2**; **CI-9.3.1**; **CI-9.3.2**; **CI-9.3.3**; **CI-9.3.4**; **CJS-2.5**.
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3**.
-- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*); primary owner **CF-16**.
-- Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.1**, **CJS-2.5**, **CJS-3.13**, **CI-3**, **CJS-3.11**, **CJS-3.12**.
+- Read with: **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*); **CI-9.2** (*Published industry and domain mapping*); **CI-9.3.1** (*Identification and competence*); **CI-9.3.2** (*Authority composition*); **CI-9.3.3** (*Rotating authority: attachment bounds*); **CI-9.3.4** (*Home-based authority: term and renewal*); **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
+- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*); primary owner **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
+- Topic routing (primary owner): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*), **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*), **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*), **CI-3** (*Institutional design, separation of powers, and authority custody*), **CJS-3.11** (*Accountability: distributed and proportional authority terms*), **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*).
 
 </details>
 
@@ -117,13 +117,13 @@ Apply **CJS-3.16** **Domain and sector classification mapping** for the shared d
 
 *In plain terms: when an institution creates a subunit or hybrid decision body to share authority, the rules must be written down before sentients serve — who the parent is, what the subunit may decide, who sits on it, how long they serve, and what safeguards stop the subunit from becoming a shadow power structure.*
 
-Apply **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** through **CI-9.3.4** state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-3 — System classification and handling** class.
+Apply **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) and **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*) for shared delegated-body abstractions. **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*) through **CI-9.3.4** (*Home-based authority: term and renewal*) state only institutional design-class, applicability, identification, authority-composition exception, rotating-attachment, and home-based term duties for delegated subunits at or above **Class C** under the highest published **CS-3 — System classification and handling** class.
 
 ## CI-9.3.1: Identification and competence
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.3.1**; **CI-6**.
+- Read with: **CI-9.3.1** (*Identification and competence*); **CI-6** (*Procedure integrity, contestability, and secondary review*).
 
 </details>
 
@@ -137,24 +137,24 @@ Each formation or authorizing instrument must state:
 - the subunit's **subject-matter scope**;
 - the **competence profile** expected for service in the subunit.
 
-Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** contest pathways, or **Chapter Eleven** routing where adjudication applies.
+Subunits must remain **subordinate** to the parent mandate. They must not operate as **parallel** decision routes that bypass published hierarchy, **CI-6** (*Procedure integrity, contestability, and secondary review*) contest pathways, or **Chapter Eleven** routing where adjudication applies.
 
 ## CI-9.3.2: Authority composition
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.3.2**; **CI-9.3.1**; **CI-9.3.3**; **CI-9.3.4**; **CI-5**; **CI-7.2**; **CI-12**.
+- Read with: **CI-9.3.2** (*Authority composition*); **CI-9.3.1** (*Identification and competence*); **CI-9.3.3** (*Rotating authority: attachment bounds*); **CI-9.3.4** (*Home-based authority: term and renewal*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7.2** (*External assurance triggers*); **CI-12** (*Cross-institution coordination and escalation*).
 
 </details>
 
 <br>
 
-*In plain terms: hybrid bodies must follow the shared composition rules in **CJS-2.1**. If a local instrument departs from those rules — different bench balance, different staging, or other material variation — it must publish substitute anti-capture safeguards and, for high-impact **Class A** and **Class B** scope, get outside review or a published independent cross-institution arrangement first.*
+*In plain terms: hybrid bodies must follow the shared composition rules in **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). If a local instrument departs from those rules — different bench balance, different staging, or other material variation — it must publish substitute anti-capture safeguards and, for high-impact **Class A** and **Class B** scope, get outside review or a published independent cross-institution arrangement first.*
 
-Delegated subunits in scope must satisfy **CJS-2.1**. **CI-9.3.2** keeps only:
+Delegated subunits in scope must satisfy **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). **CI-9.3.2** (*Authority composition*) keeps only:
 
 - the institutional exception route when the local instrument departs from **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*);
-- the duty to publish substitute capture safeguards proportionate to institutional design class under **CI-5**; and
+- the duty to publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); and
 - the external-assurance or **CI-12** (*Cross-institution coordination and escalation*) independent-review requirement where that departure affects **Class A** or **Class B** scope.
 
 Where a multi-member body uses a different deciding-bench balance or materially different hybrid staging, the instrument must publish substitute capture safeguards proportionate to institutional design class under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*). For **Class A** and **Class B**, that pattern is non-compliant unless previewed through **CI-7.2** (*External assurance triggers*), or a published **CI-12** (*Cross-institution coordination and escalation*) functionally independent review arrangement.
@@ -163,7 +163,7 @@ Where a multi-member body uses a different deciding-bench balance or materially 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.3.3**; **CJS-2.1.2**; **CI-7.2**.
+- Read with: **CI-9.3.3** (*Rotating authority: attachment bounds*); **CJS-2.1.2** (*Attachment publication*); **CI-7.2** (*External assurance triggers*).
 
 </details>
 
@@ -177,13 +177,13 @@ Apply **CJS-2.1.2** (*Attachment publication*) for shared rotating-attachment re
 
 - **Class C** — suggested guidance: treat **one calendar year** as the ordinary **maximum** for a single rotating attachment spell unless the instrument publishes a longer ceiling and a brief justification.
 - **Class B** — maximum and minimum attachment rules must be **published**; **undefined discretion** over duration is **non-compliant**.
-- **Class A** — the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **CI-7.2**.
+- **Class A** — the ordinary **maximum** of **one calendar year** for a single rotating attachment spell is **expected**; any **longer** published ceiling requires **independent external assurance** or **documented external participation** in the approval record under **CI-7.2** (*External assurance triggers*).
 
 ## CI-9.3.4: Home-based authority: term and renewal
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.3.4**; **CJS-2.1.2**.
+- Read with: **CI-9.3.4** (*Home-based authority: term and renewal*); **CJS-2.1.2** (*Attachment publication*).
 
 </details>
 
@@ -191,24 +191,24 @@ Apply **CJS-2.1.2** (*Attachment publication*) for shared rotating-attachment re
 
 *In plain terms: "home-based" members — those with a stable seat on the body — also need published term, renewal, and stagger rules so continuity is planned, not accidental. Those rules do not have to mirror the rotating-member formula, but they must be written down.*
 
-Apply **CJS-2.1.2** (*Attachment publication*) for shared home-based continuity requirements (published term, renewal, and stagger rules and no mirror requirement relative to rotating formulas). **CI-9.3.4** retains institution-specific scaling and assurance requirements on top of that shared floor.
+Apply **CJS-2.1.2** (*Attachment publication*) for shared home-based continuity requirements (published term, renewal, and stagger rules and no mirror requirement relative to rotating formulas). **CI-9.3.4** (*Home-based authority: term and renewal*) retains institution-specific scaling and assurance requirements on top of that shared floor.
 
 ## CI-9.4: Survival floors, voluntary exchange, and markets (**Article III-A** (*Survival*) interface)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-9.4**; **CI-10.1**.
+- Read with: **CI-9.4** (*Survival floors, voluntary exchange, and markets (Article III-A (Survival) interface)*); **CI-10.1** (*Public revenue, user fees, and class-aligned burden*).
 
 </details>
 
 <br>
 
-*In plain terms: essential survival access cannot be made to depend on working, buying premium services, or winning market lotteries. Voluntary markets may operate above the floor, but institutions must document how their instruments protect baseline access, keep charges proportionate, and stay aligned with class-scaled revenue rules under **CI-10.1**.*
+*In plain terms: essential survival access cannot be made to depend on working, buying premium services, or winning market lotteries. Voluntary markets may operate above the floor, but institutions must document how their instruments protect baseline access, keep charges proportionate, and stay aligned with class-scaled revenue rules under **CI-10.1** (*Public revenue, user fees, and class-aligned burden*).*
 
-Apply **CJS-3.12** **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** keeps only what each institution must name and maintain locally:
+Apply **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*) **Survival-critical access and voluntary-market interface** for the shared floor. **CI-9.4** (*Survival floors, voluntary exchange, and markets (Article III-A (Survival) interface)*) keeps only what each institution must name and maintain locally:
 
 - who owns the **Article III-A** (*Survival*) instrument or program interface;
-- how it links to **CI-10.1** revenue and charge design; and
+- how it links to **CI-10.1** (*Public revenue, user fees, and class-aligned burden*) revenue and charge design; and
 - documentation duties for eligibility, migration, fraud control, regional adequacy, and proportionality.
 
 ---

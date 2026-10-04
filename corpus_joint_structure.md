@@ -7,8 +7,8 @@
 - How shared contracts set authority, readability, identifiers, and “who owns this topic”
 - How topic routing and mandatory read-with order work across implementation files
 - How joint obligations and interlocks must be satisfied together — not restated as domain doctrine
-- How shared operational definitions (**oDef**) live in the **CJS-3** library (**oDef.*n*** = **CJS-3.*n***) — including the **[CJS-3.3 / oDef.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
-- Families **CJS-1–CJS-3** and the registry annex carry the detail — expand **Joint structure index** below, or open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) / [CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing), when you need a specific file
+- How shared operational definitions (**oDef**) live in the **CJS-3** (*operational cluster library (oDef)*) library (**oDef.*n*** = **CJS-3.*n***) — including the **[CJS-3.3 / oDef.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (what / why / how / when auditing works across CS, CI, and CF)
+- Families **CJS-1** (*Scope, purpose, and boundary interface*)–**CJS-3** (*operational cluster library (oDef)*) and the registry annex carry the detail — expand **Joint structure index** below, or open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) / [CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*Cross-file routing*), when you need a specific file
 
 **Does not:**
 - Replace day-to-day domain rules in [Systems and data](corpus_systems.md), [Institutions](corpus_institutions.md), or [Forums](corpus_forum.md)
@@ -26,7 +26,7 @@
 - [Systems and data](corpus_systems.md) — start here for typing, classification, and system protocols
 - [Institutions](corpus_institutions.md) — start here for body formation, oversight, and institutional remedy
 - [Forums](corpus_forum.md) — start here for panels, routing, appeals, and hearing operations
-- [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) and [CJS-0.1 Cross-file routing](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) — topic-driven entry when you already know the subject (**CJS-0.1** is integrator/maintainer only)
+- [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) and [CJS-0.1 Cross-file routing](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) — topic-driven entry when you already know the subject (**CJS-0.1** (*Cross-file routing*) is integrator/maintainer only)
 
 **Binding:** When an adopter incorporates this layer under [Chapter Seventeen](core_17_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 

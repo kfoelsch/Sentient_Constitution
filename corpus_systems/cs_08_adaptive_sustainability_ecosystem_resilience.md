@@ -16,7 +16,7 @@
 
 - Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXIII** (*Root Cause Analysis and Adaptive Response*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-8-1-purpose-and-role); [§2](#cs-8-2-system-health-and-degradation-awareness); [§3](#cs-8-3-adaptive-allocation-requirement); [§9](#cs-8-9-self-healing-and-recovery-path-integration).
-- Read with: **CS-8**; **CS-9**; **CS-5**; **CS-6**; **Article XIII-F**.
+- Read with: **CS-8** (*Adaptive sustainability and ecosystem resilience*); **CS-9** (*Resource allocation and funding stewardship*); **CS-5** (*User-facing capability surfaces*); **CS-6** (*Comprehensibility and complexity stewardship*); **Article XIII-F** (*Resilience and Self-Healing Baseline*).
 
 </details>
 
@@ -37,7 +37,7 @@
 
 This file is the systems implementation home for **CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
-*In plain terms: **CS-8** covers noticing strain early and responding at the cause rather than the symptom. Systems must map what they depend on, monitor whether that base is degrading, and adapt allocation before a slow decline becomes an emergency.*
+*In plain terms: **CS-8** (*Adaptive sustainability and ecosystem resilience*) covers noticing strain early and responding at the cause rather than the symptom. Systems must map what they depend on, monitor whether that base is degrading, and adapt allocation before a slow decline becomes an emergency.*
 <a id="cs-8-1-purpose-and-role"></a>
 ## CS-8.1 Purpose and role
 
@@ -77,7 +77,7 @@ Allocation structures must implement **Article V-A** (*Dependency Mapping and Re
 <a id="31-root-cause-analysis"></a>
 ### 3.1 Root cause analysis
 
-When degradation, instability, or systemic risk is detected, the CS-8 record must identify **primary and contributing** causes and distinguish, where applicable:
+When degradation, instability, or systemic risk is detected, the CS-8 (*Adaptive sustainability and ecosystem resilience*) record must identify **primary and contributing** causes and distinguish, where applicable:
 - **technical failures**;
 - **security vulnerabilities**;
 - **governance or coordination failures**;
@@ -109,7 +109,7 @@ Where root causes are unclear or multi-causal, systems must:
 - **avoid irreversible or over-concentrated interventions**
 - **perform additional root cause analysis** where feasible within controlled environments (**Article XXIII-A** (*Diagnostic Rigor and Causal Attribution*); **Article XVII-A** (*Lifecycle Governance and Environment Separation*)), prioritizing **sandboxed development environments**, **controlled, low-impact environments**, and **higher-impact environments only when lower-risk options are not feasible**
 
-Preference should be given to **reversible actions** (**CS-5**; Principle of Reversibility), **low-risk exploratory interventions**, and **approaches that preserve future optionality and minimize harm**.
+Preference should be given to **reversible actions** (**CS-5** (*User-facing capability surfaces*); Principle of Reversibility), **low-risk exploratory interventions**, and **approaches that preserve future optionality and minimize harm**.
 
 <a id="34-feedback-and-iteration"></a>
 ### 3.4 Feedback and iteration
@@ -193,25 +193,25 @@ Adaptive allocation remains subject to **Article XVI-A** (*Auditability and Obse
 <a id="cs-8-9-self-healing-and-recovery-path-integration"></a>
 ## CS-8.9 Self-healing and recovery-path integration
 
-*In plain terms: Adaptive allocation must satisfy the CS-5 self-healing test-and-verify profile; this section adds only ecosystem-specific cross-checks.*
+*In plain terms: Adaptive allocation must satisfy the CS-5 (*User-facing capability surfaces*) self-healing test-and-verify profile; this section adds only ecosystem-specific cross-checks.*
 
-This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional). It is a CS-8-specific application of **CS-5 §9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
+This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional). It is a CS-8 (*Adaptive sustainability and ecosystem resilience*)-specific application of **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
 
-Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must satisfy **Article XIII-F** recovery floors and the **CS-5 §9** test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. CS-8 adds only the ecosystem-specific cross-checks below.
+Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must satisfy **Article XIII-F** (*Resilience and Self-Healing Baseline*) recovery floors and the **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*) test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. CS-8 (*Adaptive sustainability and ecosystem resilience*) adds only the ecosystem-specific cross-checks below.
 
 - Root-cause analysis under **§3.1** (*Root cause analysis*) must not let adaptive reallocation suppress, overwrite, obscure, or repeatedly silence the fault signals that triggered it. Recurrence across cycles remains a single open root-cause obligation under **§3.1** (*Root cause analysis*) and **Article XXIII-A** (*Diagnostic Rigor and Causal Attribution*).
 - Where adaptive response narrows capacity that implements Chapter Six guarantees (for example, contestability capacity, audit fidelity, or participation access), narrowing must be explicit, time-bounded, and escalated under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition-governance when degraded modes persist beyond pre-declared thresholds.
 - Anti-concentration obligations under **§6** (*Anti-concentration and resilience*) apply to recovery-time authority as well as steady-state authority. Ecosystem recovery must not become a vector for concentrated resources, influence, dependencies, credentials, or decision control.
 - The governance-integration rule in **§8** (*Governance integration*) controls adaptive or self-healing mechanisms in this file. They may not substitute for governance, reduce [Auditability](../core_05_band_oversight.md#auditability), [Transparency](../core_05_band_oversight.md#transparency), contestability, or stewardship obligations under [Incentive Alignment](../core_05_band_integrative.md#incentive-alignment).
 
-Where this subsection is silent, **CS-5 §9**, Chapter One §10 (*Resilience and Self-Healing Design*), **Article XIII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This subsection does not create rights and must not be read to narrow those homes.
+Where this subsection is silent, **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*), Chapter One §10 (*Resilience and Self-Healing Design*), **Article XIII-F** (*Resilience and Self-Healing Baseline*), and the Chapter Five definition govern. This subsection does not create rights and must not be read to narrow those homes.
 
 <a id="cs-8-10-regenerative-alignment-circular-material-flows-and-bioregional-stewardship-implementation-profile"></a>
 ## CS-8.10 Regenerative alignment, circular material flows, and bioregional stewardship (implementation profile)
 
 *In plain terms: Judge allocation by whether it regenerates, not only whether it harms less — and treat offsets and green slogans as claims to be tested.*
 
-Adaptive allocation and ecosystem interdependence under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must be evaluated for **regeneration** — not only **harm reduction** — where **Article I** (*Environmental Survival*), **Article II** (*Material Stewardship and Durable-Use Integrity*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **CS-9**, and **Chapter Five** *Environmental Preconditions*, *Ecological Integrity*, *Ecological Footprint*, *Intergenerational Responsibility*, and *Sustainability* apply. This subsection does **not** mandate a **particular land-use aesthetic** or **dogmatic** design school; it requires **outcome-facing** attention to **soil**, **watershed**, **biodiversity**, **food-system resilience**, **waste-as-input** loops where feasible, **right-to-repair** and **maintenance** access that reduces **extractive churn**, **local redundancy** for **critical dependencies**, and **fair yield / reinvestment** patterns that **do not** treat **efficiency metrics** as a **license** to **collapse** long-horizon **ecological repair**.
+Adaptive allocation and ecosystem interdependence under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must be evaluated for **regeneration** — not only **harm reduction** — where **Article I** (*Environmental Survival*), **Article II** (*Material Stewardship and Durable-Use Integrity*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **CS-9** (*Resource allocation and funding stewardship*), and **Chapter Five** *Environmental Preconditions*, *Ecological Integrity*, *Ecological Footprint*, *Intergenerational Responsibility*, and *Sustainability* apply. This subsection does **not** mandate a **particular land-use aesthetic** or **dogmatic** design school; it requires **outcome-facing** attention to **soil**, **watershed**, **biodiversity**, **food-system resilience**, **waste-as-input** loops where feasible, **right-to-repair** and **maintenance** access that reduces **extractive churn**, **local redundancy** for **critical dependencies**, and **fair yield / reinvestment** patterns that **do not** treat **efficiency metrics** as a **license** to **collapse** long-horizon **ecological repair**.
 
 **Anti-“green” exceptionalism:** **Offset** claims, **monoculture resilience** slogans, or **remote bookkeeping** that **displace** burdens onto **ecosystems** or **communities** must be **tested** under **Article XXIII-A** (*Diagnostic Rigor and Causal Attribution*) root-cause discipline, **Chapter Five** *Materiality* / *Risk*, and **Chapter One** truth and **anti-capture** constraints. **Indigenous continuity** and **place-based** knowledge routes through **Chapter Five** *Indigenous Continuity* and [**CI-23**](../corpus_institutions/ci_23_place_based_stewardship_indigenous_continuity_consultation.md) (*Place-based stewardship, Indigenous continuity, and consultation routes*); it does **not** reopen **unbounded territorial-restitution** mandates by **implementation indirection**.
 

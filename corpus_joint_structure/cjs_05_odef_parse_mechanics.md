@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CJS-1.13](#cjs-113-operational-structure-and-subsection-local-terminology); [CJS-1.14](#cjs-114-operational-clusters).
-- Read with: **CJS-1.13**; **CJS-1.14**; **CJS-3**.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers and **Def.*** / **oDef** homes; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: [CJS-1.13](#cjs-113-operational-structure-and-subsection-local-terminology) (*CJS-1.14: oDef parse mechanics*); [CJS-1.14](#cjs-114-operational-clusters) (*Operational clusters*).
+- Read with: **CJS-1.13** (*CJS-1.14: oDef parse mechanics*); **CJS-1.14** (*Operational clusters*); **CJS-3** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -29,19 +29,19 @@
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-1.13** and **CJS-1.14** (*oDef parse mechanics*).
+This file is the joint-structure implementation home for **CJS-1.13** (*Operational structure and subsection-local terminology*) and **CJS-1.14** (*Operational clusters*), together the oDef parse mechanics.
 
 *In plain terms: these sections say how to read each **oDef** entry and how to treat a cluster of entries as one compound definition.*
 
-A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guide.md#how-to-read-an-odef-entry). The subsections below are the binding parse rules for **oDef** entries in **CJS-3** (*Implementation and cross-implementation operational cluster library*) — the reader-facing guidepost format (**What it is** / **How to measure and assess** / **What must hold**).
+A short reader gloss lives in the [joint-structure reader guide](cjs_reader_guide.md#how-to-read-an-odef-entry). The subsections below are the binding parse rules for **oDef** entries in **CJS-3** (*operational cluster library (oDef)*) — the reader-facing guidepost format (**What it is** / **How to measure and assess** / **What must hold**).
 
 ## CJS-1.13: Operational structure and subsection-local terminology
 <a id="cjs-113-operational-structure-and-subsection-local-terminology"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CJS-1.13**; **CJS-1.14**.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CJS-1.13** (*CJS-1.14: oDef parse mechanics*); **CJS-1.14** (*Operational clusters*).
 
 </details>
 
@@ -76,8 +76,8 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CJS-1.14**; **CJS-1.13**.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CJS-1.14** (*Operational clusters*); **CJS-1.13** (*CJS-1.14: oDef parse mechanics*).
 
 </details>
 

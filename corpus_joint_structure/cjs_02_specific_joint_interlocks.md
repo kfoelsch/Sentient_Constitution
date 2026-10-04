@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CJS-2.1](#cjs-21-hybrid-delegated-authority-delegated-binding-bodies); [CJS-2.3](#cjs-23-cross-implementation-trust-integrity-joint-operation-model); [CJS-2.4](#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CJS-2.5](#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing); [CJS-1.9](cjs_06_support_hosting_classification.md#cjs-19-boundary-between-support-roles-and-merits-decisions) through [CJS-1.11](cjs_06_support_hosting_classification.md#cjs-111-classification-alignment-for-supervised-scope).
-- Read with: **CJS-2**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Downstream: [CJS-2.1](#cjs-21-hybrid-delegated-authority-delegated-binding-bodies) (*Hybrid delegated authority (delegated binding bodies)*); [CJS-2.3](#cjs-23-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity (joint operation model)*); [CJS-2.4](#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CJS-2.5](#cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing) (*Shared procedural abstractions for delegated bodies and forum routing*); [CJS-1.9](cjs_06_support_hosting_classification.md#cjs-19-boundary-between-support-roles-and-merits-decisions) (*CJS-1.11: Support roles, hosting independence, and classification alignment*) through [CJS-1.11](cjs_06_support_hosting_classification.md#cjs-111-classification-alignment-for-supervised-scope) (*Classification alignment for supervised scope*).
+- Read with: **CJS-2** (*Specific joint interlocks and shared abstractions*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [Preamble — constitutional owner register](../core_00_preamble.md#4-principles-definitions-and-rights).
 
 </details>
 
@@ -47,7 +47,7 @@
 
 <br>
 
-This file is the joint-structure implementation home for **CJS-2** (*Specific joint interlocks and shared abstractions*), including **CJS-2.1**, **CJS-2.3**, **CJS-2.4**, and **CJS-2.5**.
+This file is the joint-structure implementation home for **CJS-2** (*Specific joint interlocks and shared abstractions*), including **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*), **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*), **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*), and **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*).
 
 *In plain terms: this is the joint-structure adopted implementation text in [Corpus](../core_05_band_integrative.md#corpus) — the shared glue when systems, institutions, and forums have to be read together. It is not [Chapter Thirteen](../core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) (who may govern). Open the section you were sent to — not this file front to back.*
 
@@ -61,7 +61,7 @@ When more than one adopted corpus applies to the same facts, use the default rea
 - [**CI**](../corpus_institutions.md) — institutional formation, [Governance](../core_05_band_accountability.md#governance), oversight, and dissolution
 - [**CF**](../corpus_forum.md) — forum operations under [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)
 
-Shared operational clusters (**oDef.*n***, same as **CJS-3.*n***) live in [CJS-3](cjs_03_cross_implementation_operational_terms.md). Label homes: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references).
+Shared operational clusters (**oDef.*n***, same as **CJS-3.*n***) live in [CJS-3](cjs_03_cross_implementation_operational_terms.md) (*operational cluster library (oDef)*). Label homes: [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*).
 
 | Interlock | What it covers |
 |---|---|
@@ -78,20 +78,20 @@ Shared operational clusters (**oDef.*n***, same as **CJS-3.*n***) live in [CJS-3
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: [CJS-2.1.1 Composition floor](#cjs-211-composition-floor); [CJS-2.1.2 Attachment publication](#cjs-212-attachment-publication).
-- Read with: **CJS-2.1**; **CJS-2.1.1**; **CJS-2.1.2**; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids).
-- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3**.
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3**.
+- Read with: **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*); **CJS-2.1.1** (*Composition floor*); **CJS-2.1.2** (*Attachment publication*); [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*).
+- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
 
 </details>
 
 <br>
 
-*In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-2.1.1** (*Composition floor*) says who must be on the body; **CJS-2.1.2** (*Publication mechanics*) says what the published rules must spell out about how long members serve. Both steps must be satisfied.*
+*In plain terms: this package covers hybrid decision bodies for institutions and forums in two steps — **CJS-2.1.1** (*Composition floor*) says who must be on the body; **CJS-2.1.2** (*Attachment publication*) says what the published rules must spell out about how long members serve. Both steps must be satisfied.*
 
-A hybrid design that names home and rotating roles but omits **CJS-2.1.2** publication mechanics does not satisfy **CJS-2.1**. Naming the mix is not enough; the published term rules have to be there too.
+A hybrid design that names home and rotating roles but omits **CJS-2.1.2** (*Attachment publication*) publication mechanics does not satisfy **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). Naming the mix is not enough; the published term rules have to be there too.
 
-- **Composition floor** — [CJS-2.1.1](#cjs-211-composition-floor)
-- **Attachment publication** — [CJS-2.1.2](#cjs-212-attachment-publication)
+- **Composition floor** — [CJS-2.1.1](#cjs-211-composition-floor) (*Composition floor*)
+- **Attachment publication** — [CJS-2.1.2](#cjs-212-attachment-publication) (*Attachment publication*)
 
 ### CJS-2.1.1 Composition floor
 <a id="cjs-211-composition-floor"></a>
@@ -100,8 +100,8 @@ A hybrid design that names home and rotating roles but omits **CJS-2.1.2** publi
 
 **Who this covers**
 
-- **Institution decision bodies** — committees, divisions, and similar bodies below a parent institution that make binding decisions. Owner detail: **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*). Router topic: **CJS-R01** in **CJS-0.1**.
-- **Forum chambers and panels** — chambers, divisions, and designated panels under **CF-3.5** (*Chamber creation, identification, and family boundary*) through **CF-3.8** (*Specialist and technical chamber discipline*). Router topic: **CJS-R02** in **CJS-0.1**.
+- **Institution decision bodies** — committees, divisions, and similar bodies below a parent institution that make binding decisions. Owner detail: **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*). Router topic: **CJS-R01** in **CJS-0.1** (*Cross-file routing*).
+- **Forum chambers and panels** — chambers, divisions, and designated panels under **CF-3.5** (*Chamber creation, identification, and family boundary*) through **CF-3.8** (*Specialist and technical chamber discipline*). Router topic: **CJS-R02** in **CJS-0.1** (*Cross-file routing*).
 
 **The hybrid mix required**
 
@@ -121,7 +121,7 @@ Every covered body must use a **hybrid design** that includes both:
 ### CJS-2.1.2 Attachment publication
 <a id="cjs-212-attachment-publication"></a>
 
-*In plain terms: once the hybrid mix is required (**CJS-2.1.1**), the published rules must spell out how long rotating members serve, how home-member terms work, and who may not change those durations in secret.*
+*In plain terms: once the hybrid mix is required (**CJS-2.1.1** (*Composition floor*)), the published rules must spell out how long rotating members serve, how home-member terms work, and who may not change those durations in secret.*
 
 Where **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*) applies, the instrument must publish:
 
@@ -137,7 +137,7 @@ In everyday reading: publish how long rotating members serve, how home-member te
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-2.3**; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*combined satisfaction*); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*); **CJS-1.11**.
+- Read with: **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*combined satisfaction*); [Chapter One §15.4.3](../core_01_b_interaction_interpretation.md#1543-incorporation-layer) (*cross-file Fullest Protective Effect rule*); **CJS-1.11** (*Classification alignment for supervised scope*).
 - Topic routing (primary owner): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*).; see that row for mandatory read-with.
 
 </details>
@@ -146,13 +146,13 @@ In everyday reading: publish how long rotating members serve, how home-member te
 
 *In plain terms: a trust claim is only as strong as the whole chain behind it. If one implementation file looks reassuring while another in the same chain still leaves gaps that block observation, verification, or challenge, the claim fails — and institutions must publish a map of what supports it, how to contest it, and who fixes it.*
 
-Use this rule when a trust claim depends on more than one system, institution, dependency, or implementation layer working together. Router topic: **CJS-R17** in **CJS-0.1**.
+Use this rule when a trust claim depends on more than one system, institution, dependency, or implementation layer working together. Router topic: **CJS-R17** (*Cross-implementation trust integrity*) in **CJS-0.1** (*Cross-file routing*).
 
 The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misleading Reliance** remain in the [Chapter Five trust cluster](../core_05_band_continuity.md#trust-and-trustworthiness-cluster). This subsection only explains the joint-operation duties.
 
 A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
-For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **CS-3** criteria and limits, apply **Chapter Eight §3** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
+For implementation routing, **Class A**, **Class B**, and **Class C** systems follow [corpus_systems.md](../corpus_systems.md) **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **CS-3** (*System classification machinery*) criteria and limits, apply **Chapter Eight §3** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
 
 Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
 - the implementation duties, classification conditions, dependencies, steward duties, and assurance burdens supporting the trust claim;
@@ -176,8 +176,8 @@ Trust claims must remain consistent with [Chapter One §15.4.4 Combined satisfac
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-2.4**; **CJS-3.0**.
-- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*); primary owners **CI-3**, **CI-4**, **CI-11**, **CI-12**.
+- Read with: **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*); **CJS-3.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*).
+- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*); primary owners **CI-3** (*Institutional design, separation of powers, and authority custody*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Cross-institution coordination and escalation*).
 
 </details>
 
@@ -185,11 +185,11 @@ Trust claims must remain consistent with [Chapter One §15.4.4 Combined satisfac
 
 *In plain terms: high-impact roles cannot depend on one sentient. For materially binding constitutional lanes — especially under higher-risk system classes — institutions need enough qualified sentients, documented backup and succession, and real spread of knowledge so the lane stays competent without becoming fragile or captured.*
 
-This rule covers roles with materially binding effect under **Chapter Six**, section **5**, where [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) or **CS-4 — Critical system stewardship** scales the burden. Router topic: **CJS-R18** in **CJS-0.1**.
+This rule covers roles with materially binding effect under **Chapter Six**, section **5**, where [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification machinery*) or **CS-4 — Critical system stewardship** scales the burden. Router topic: **CJS-R18** in **CJS-0.1** (*Cross-file routing*).
 
 Before using role, role-holder, stewardship, operator, accountable-role, or lane terms in this subsection, apply **CJS-3.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*), [Chapter Ten §6.2 Competency bars and clearances](../core_10_standing_integration.md#62-competency-bars-and-clearances) (*Competency bars and clearances*), and any controlling standing lock under [Chapter Ten §4.2 Prevention — general standing locks](../core_10_standing_integration.md#42-prevention--general-standing-locks) or [§5.5 Special locks](../core_10_standing_integration.md#55-special-locks).
 
-For **constitutional lane** and functional-separation meaning, apply **CJS-3.11** (*Constitutional lane and functional separation*) with **CI-3** (*Institutional design and separation of powers*).
+For **constitutional lane** and functional-separation meaning, apply **CJS-3.11** (*Accountability: distributed and proportional authority terms*) with **CI-3** (*Institutional design, separation of powers, and authority custody*).
 
 For **Class A** and **Class B** systems, each institution that hosts a constitutional lane with materially binding duties must have:
 - at least **three sentients** assigned to the lane;
@@ -200,26 +200,26 @@ Role-boundary design must balance sustained engagement with community redundancy
 
 Staffing must be real, not just numerical. Responsibility cannot be spread so thin that nobody is competent, and knowledge cannot be concentrated so tightly that the lane becomes fragile, captured, or unable to replace itself.
 
-The constitutional floor remains in [Chapter Thirteen](../core_13_governance.md), section **5**. Domain detail remains in **CI-3** (*Institutional design and separation of powers*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Cross-institution coordination and escalation*), and [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) and **CS-4 — Critical system stewardship**.
+The constitutional floor remains in [Chapter Thirteen](../core_13_governance.md), section **5**. Domain detail remains in **CI-3** (*Institutional design, separation of powers, and authority custody*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-11** (*Resource stewardship and incentive integrity*), **CI-12** (*Cross-institution coordination and escalation*), and [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification machinery*) and **CS-4 — Critical system stewardship**.
 
 ## CJS-2.5 Shared procedural abstractions for delegated bodies and forum routing
 <a id="cjs-25-shared-procedural-abstractions-for-delegated-bodies-and-forum-routing"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-2.5**; **CJS-3.0**.
-- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3**.
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3**.
-- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4**.
-- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.1** (*Topic router*); primary owner **CF-5**.
+- Read with: **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*); **CJS-3.0** (*Cross-band: Role-definition preface and standing competency bar and clearance interface*).
+- Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.1** (*Topic router*); primary owner **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twelve famili…*) in **CJS-0.1** (*Topic router*); primary owner **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*).
+- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+- Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, certification, representative treatment*) in **CJS-0.1** (*Topic router*); primary owner **CF-5** (*Routing operations, transfer, certification, and representative treatment*).
 
 </details>
 
 <br>
 
-*In plain terms: institutions and forums use different local rulebooks, but they need the same baseline words for delegated bodies, lawful independent forums, backup routing when a lead forum cannot act in time, and representative procedures that still preserve individual contest rights. **CJS-2.5** states those shared terms; **CI** and **CF** state the full operative detail.*
+*In plain terms: institutions and forums use different local rulebooks, but they need the same baseline words for delegated bodies, lawful independent forums, backup routing when a lead forum cannot act in time, and representative procedures that still preserve individual contest rights. **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*) states those shared terms; **CI** and **CF** state the full operative detail.*
 
-These shared **CJS** terms apply wherever the following owner files apply, as routed in **CJS-0.1**:
+These shared **CJS** terms apply wherever the following owner files apply, as routed in **CJS-0.1** (*Cross-file routing*):
 
 - **CI-9.3** (*Delegated subunits, institutional design class, and attachment discipline*)
 - **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*)

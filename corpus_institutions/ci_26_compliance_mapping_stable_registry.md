@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Read with: **CI-26**; **CI-10.1**; **CI-9.4**; **CI-10.2**; **CI-8.3**; **CI-15**; **CI-7**.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Read with: **CI-26** (*Compliance mapping and stable registry*); **CI-10.1** (*Public revenue, user fees, and class-aligned burden*); **CI-9.4** (*Survival floors, voluntary exchange, and markets (Article III-A (Survival) interface)*); **CI-10.2** (*Recurring charges, renewals, and commercial billing integrity*); **CI-8.3** (*Digital self-service pathway integrity*); **CI-15** (*Neurodiversity, disability justice, and trauma-informed participation*); **CI-7** (*Oversight, assurance, controls, and evidence*).
 
 </details>
 
@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-26** (*Compliance mapping and stable registry*).
 
-*In plain terms: **CI-26** is the institutions layer's compliance index — a stable map from **CI** section numbers to the topics they own. Use it for external compliance mapping, audit routing, and cross-reference tables. Operative rules live in the cited **CI** sections; this file does not add new obligations.*
+*In plain terms: **CI-26** (*Compliance mapping and stable registry*) is the institutions layer's compliance index — a stable map from **CI** section numbers to the topics they own. Use it for external compliance mapping, audit routing, and cross-reference tables. Operative rules live in the cited **CI** sections; this file does not add new obligations.*
 
 **Core section families**
 | Section | Topic |

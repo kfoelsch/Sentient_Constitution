@@ -14,11 +14,11 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Topic routing (primary owner): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-5**, **CF-7**.
-- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.4**, **CJS-3.11**.
-- Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-0.1** (*Topic router*); primary owner **CF-9**.
-- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*); primary owner **CJS-3.6**.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Topic routing (primary owner): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+- Topic routing (primary owner): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*), **CJS-3.11** (*Accountability: distributed and proportional authority terms*).
+- Topic routing (mandatory read-with): **CJS-R08** (*Independent investigative service and prosecution interface*) in **CJS-0.1** (*Topic router*); primary owner **CF-9** (*Independent investigative service and prosecution interface*).
+- Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*); primary owner **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
 
 </details>
 
@@ -39,24 +39,24 @@
 
 This file is the institutional implementation home for **CI-12** (*Cross-institution coordination and escalation*).
 
-*In plain terms: **CI-12** is the institutions layer's overlap-and-deadlock rulebook — what happens when more than one body could handle the same matter, who coordinates handoffs, where to go when they disagree or stall, and how to reach an independent backup when the usual forum or investigator cannot act fairly. Shared coordination floors live in **CJS-3.6** (*integrity assurance and resilience operations*); forum routing and transfer detail lives in **CF-5** and **CF-7**; independent investigative backup lives in **CF-9**. What this file adds is local: what each institution must publish and maintain locally.*
+*In plain terms: **CI-12** (*Cross-institution coordination and escalation*) is the institutions layer's overlap-and-deadlock rulebook — what happens when more than one body could handle the same matter, who coordinates handoffs, where to go when they disagree or stall, and how to reach an independent backup when the usual forum or investigator cannot act fairly. Shared coordination floors live in **CJS-3.6** (*integrity assurance and resilience operations*); forum routing and transfer detail lives in **CF-5** (*Routing operations, transfer, certification, and representative treatment*) and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); independent investigative backup lives in **CF-9** (*Independent investigative service and prosecution interface*). What this file adds is local: what each institution must publish and maintain locally.*
 
 **Quick orientation**
 - **When this applies** — two or more institutions share jurisdiction, evidence custody, review duty, enforcement support, investigative interface, or forum-adjacent routing on the same matter.
-- **What the shared rules already cover** — conflict-order handling, a deadlock-breaker path, evidence-sharing boundaries, who is accountable for what, triggers for outside review when internal deadlock persists, independent investigative backup under **CF-9**, and cross-forum anti-self-judging backup under **Chapter Twelve** (**CJS-3.6** (*integrity assurance and resilience operations*)).
+- **What the shared rules already cover** — conflict-order handling, a deadlock-breaker path, evidence-sharing boundaries, who is accountable for what, triggers for outside review when internal deadlock persists, independent investigative backup under **CF-9** (*Independent investigative service and prosecution interface*), and cross-forum anti-self-judging backup under **Chapter Twelve** (**CJS-3.6** (*integrity assurance and resilience operations*)).
 - **What each institution must publish** — who owns the coordination protocol; a role map; the records that prove transfers and escalations happened lawfully; deadlines; escalation triggers; and how the public can see the plan.
-- **Where sentients are routed when local review fails** — **CI-12** is the named escalation route when an institution is conflicted, captured, unavailable, or stonewalling — including when it cannot credibly commission outside assurance under **CI-7.2**.
+- **Where sentients are routed when local review fails** — **CI-12** (*Cross-institution coordination and escalation*) is the named escalation route when an institution is conflicted, captured, unavailable, or stonewalling — including when it cannot credibly commission outside assurance under **CI-7.2** (*External assurance triggers*).
 *In plain terms: overlapping authority is not an excuse to improvise after a fight starts. Each affected institution must publish a usable coordination and escalation plan before conflict arises — with real owners, real deadlines, written transfer records, and backup routes that still work when independence is in doubt.*
 
-*Shared rules live elsewhere.* Cross-institution coordination terms are in **CJS-3.6** (*integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-12** does not repeat those floors; it keeps only what each institution must name and maintain locally.
-Apply **CJS-3.6** **Cross-institution coordination and escalation chain** for the shared floor.
+*Shared rules live elsewhere.* Cross-institution coordination terms are in **CJS-3.6** (*integrity assurance and resilience operations*), especially **Cross-institution coordination and escalation chain**. **CI-12** (*Cross-institution coordination and escalation*) does not repeat those floors; it keeps only what each institution must name and maintain locally.
+Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Cross-institution coordination and escalation chain** for the shared floor.
 **What each institution must publish**
 - who owns the local coordination and escalation protocol;
 - a role map showing which institution or office handles intake, evidence custody, review, enforcement support, investigative interface, transfer, and backup routing for overlapping matters;
 - the records required to review transfer, recusal, unavailability, backup designation, and lawful-panel formation;
 - published deadlines for coordination steps and escalation;
-- published escalation triggers — including when persistent internal deadlock, capture indicators, emergency incapacity, or independence failure requires outside review, **CF-9** backup, or **Chapter Twelve** backup routing; and
-- cooperation duties with the independent investigative service interface under **CF-9** and with forum backup-routing rules under **Chapter Twelve** where materially applicable.
+- published escalation triggers — including when persistent internal deadlock, capture indicators, emergency incapacity, or independence failure requires outside review, **CF-9** (*Independent investigative service and prosecution interface*) backup, or **Chapter Twelve** backup routing; and
+- cooperation duties with the independent investigative service interface under **CF-9** (*Independent investigative service and prosecution interface*) and with forum backup-routing rules under **Chapter Twelve** where materially applicable.
 **What is not allowed**
 - leaving shared jurisdiction without a usable escalation path;
 - breaking deadlock through the body whose independence is materially contested;

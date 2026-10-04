@@ -42,7 +42,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist), [§17.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard), and [§17.2 Alignment Under Pressure](core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure); [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
+- Downstream: Principles: [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist), [§17.1 Shared Stewardship Standard](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard), and [§17.2 Alignment Under Pressure](core_01_c_stewardship_capacity_principles.md#172-alignment-under-pressure); [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
 - Read with: [Stewardship](core_05_band_continuity.md#stewardship-constitutional), [Good Faith](core_05_band_accountability.md#good-faith), [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing), and [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional).
 
 </details>
@@ -734,7 +734,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Eight §14](core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence, component referral, and reliance limits during contest*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*transfer, certification, and interim relief*); [**CF-6**](corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) (*appeal and secondary review*) and **CF-15** (*interim-relief order*).
+- Downstream: [Chapter Eight §14](core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*supervisory sequence, component referral, and reliance limits during contest*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*transfer, certification, and interim relief*); [**CF-6**](corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) (*Appeal, secondary review, and exhaustion pathways*) and **CF-15** (*Standard records, forms, and evidence artifacts*).
 - Read with: [Merits Determination](core_05_band_accountability.md#merits-determination), [Contestability](core_05_band_accountability.md#contestability), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Procedural Fairness](core_05_band_participation.md#procedural-fairness-constitutional).
 
 </details>
@@ -1063,7 +1063,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including [**Article XXV**](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*) and [**Chapter Twelve §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*)); [13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Twelve §6.1** (*Emergency measures and continuation burden*)).
+- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including [**Article XXV** (*Timely Retrospective Review and Restorative Alignment*)](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*) and [**Chapter Twelve §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*)); [13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Twelve §6.1** (*Emergency measures and continuation burden*)).
 - Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05_apex_accountability_leg.md#accountability), [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation-constitutional).
 
 </details>
@@ -1242,7 +1242,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 - Downstream: Principles: [Chapter One §7 Freedom (Bounded Agency)](core_01_a_values_principles.md#7-freedom-bounded-agency); [Chapter One §7.3 Dissent and Peaceful Protest](core_01_a_values_principles.md#73-dissent-and-peaceful-protest) (dissent is not subversion).
 - Canonical owner: this definition states what subversion is. [Chapter Eleven §2](core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (criteria 5 and 6) and [Chapter Eleven §5.1](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) apply it to misconduct designation. They do not redefine it.
-- Rights-Floor read-with: **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)** (*Assembly, Dissent, and Peaceful Protest*).
+- Rights-Floor read-with: **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)** (*Assembly, Dissent, and Peaceful Protest*).
 - Read with: [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation-constitutional), [Contestability](core_05_band_accountability.md#contestability), [System Capture](core_05_band_continuity.md#system-capture), [Anti-Constitutional Misconduct Review](core_05_band_accountability.md#anti-constitutional-misconduct-review), [Necessity](core_05_band_accountability.md#necessity), and [Proportionality](core_05_band_accountability.md#proportionality).
 
 </details>
@@ -1261,7 +1261,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
   - **Out of scope:**
     - disagreement with this Constitution or with authority acting under it;
     - peaceful, lawful advocacy to amend this Constitution or to change who holds authority;
-    - dissent, peaceful protest, and civil disobedience protected by **Article XI-D**; and
+    - dissent, peaceful protest, and civil disobedience protected by **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*); and
     - [Necessity](core_05_band_accountability.md#necessity)-bounded emergency measures justified under **Chapter One** and **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
 <a id="subversion-a"></a>
 - **How to measure and assess**
@@ -1365,7 +1365,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Seven §3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); Chapter Twelve forum anti-self-judging; **CI-3.2** (*Functional separation lanes*); **CI-4.6** (*Seat catalog*); **CI-5** (*Conflict, integrity, anti-capture, and anti-corruption*); and **CF-7** (*Integrity safeguards, anti-capture, and anti-self-judging*).
+- Downstream: [Chapter Seven §3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); Chapter Twelve forum anti-self-judging; **CI-3.2** (*Functional separation lanes*); **CI-4.6** (*Seat catalog*); **CI-5** (*Conflict, integrity, anti-capture, and anti-corruption*); and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Governance](core_05_band_accountability.md#governance), [Accountability](core_05_apex_accountability_leg.md#accountability), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), [Contestability](core_05_band_accountability.md#contestability), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), [System Capture](core_05_band_continuity.md#system-capture), [Materiality](core_05_band_oversight.md#materiality-determination), and [Dependency](core_05_band_continuity.md#dependency).
 - Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
@@ -1408,7 +1408,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Seven §2 Four-seat constitutional floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*operative separation and incompatibility rules*); [Chapter Seven §3 Independence, conflict, and control lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); and **CI-4.6** (*Seat catalog — operational permissions, prohibitions, handoffs, and logs*).
+- Downstream: [Chapter Seven §2 Four-seat constitutional floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*operative separation and incompatibility rules*); [Chapter Seven §3 Independence, conflict, and control lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Material Control Line](core_05_band_accountability.md#material-control-line), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Accountability](core_05_apex_accountability_leg.md#accountability), [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional), and [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional).
 - Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
@@ -1444,7 +1444,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Seven §2 Four-seat constitutional floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*operative separation and incompatibility rules*); [Chapter Seven §3 Independence, conflict, and control lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); and **CI-4.6** (*Seat catalog — operational permissions, prohibitions, handoffs, and logs*).
+- Downstream: [Chapter Seven §2 Four-seat constitutional floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*operative separation and incompatibility rules*); [Chapter Seven §3 Independence, conflict, and control lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Material Control Line](core_05_band_accountability.md#material-control-line), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Verifiability](core_05_band_oversight.md#verifiability), and [Accountability](core_05_apex_accountability_leg.md#accountability).
 - Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
@@ -1480,7 +1480,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Seven §2 Four-seat constitutional floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*operative separation and incompatibility rules*); [Chapter Seven §3 Independence, conflict, and control lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); and **CI-4.6** (*Seat catalog — operational permissions, prohibitions, handoffs, and logs*).
+- Downstream: [Chapter Seven §2 Four-seat constitutional floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*operative separation and incompatibility rules*); [Chapter Seven §3 Independence, conflict, and control lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Contest Seat](core_05_band_accountability.md#contest-seat), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional), and [Auditability](core_05_band_oversight.md#auditability).
 - Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
@@ -1516,7 +1516,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Seven §2 Four-seat constitutional floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*operative separation and incompatibility rules*); [Chapter Seven §3 Independence, conflict, and control lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); [Chapter Twelve Forums and Jurisdiction](core_12_forum.md#chapter-twelve-forums-and-jurisdiction); and **CI-4.6** (*Seat catalog — operational permissions, prohibitions, handoffs, and logs*).
+- Downstream: [Chapter Seven §2 Four-seat constitutional floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) (*operative separation and incompatibility rules*); [Chapter Seven §3 Independence, conflict, and control lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); [Chapter Twelve Forums and Jurisdiction](core_12_forum.md#chapter-twelve-forums-and-jurisdiction); and **CI-4.6** (*Seat catalog — process-role archetypes and operational boundaries*).
 - Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster).
 - Read with: [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat), [Record Seat](core_05_band_accountability.md#record-seat), [Contestability](core_05_band_accountability.md#contestability), [Due Process](core_05_band_accountability.md#due-process-constitutional), [Timely Resolution](core_05_band_accountability.md#timely-resolution-constitutional), and [Material Control Line](core_05_band_accountability.md#material-control-line).
 - Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
@@ -2533,7 +2533,7 @@ See **Anti-Segmentation Principle**.
     - [Standing Effect](core_05_band_accountability.md#standing-effect-chapter-six);
     - Chapter Nine standing measurement;
     - Chapter Ten standing-effect decisions; and
-    - operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15**) except insofar as they instantiate this case file.
+    - operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-15** (*Standard records, forms, and evidence artifacts*)) except insofar as they instantiate this case file.
 <a id="forum-case-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#accountability-measurement-family) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#timeliness-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -2800,7 +2800,7 @@ See **Anti-Segmentation Principle**.
     - Chapter Five pointer; canonical mechanics: [Chapter Nine](core_09_standing_assessment.md) [**section 7**](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes), read with [**sections 1–2**](core_09_standing_assessment.md#1-the-three-questions) and **§3.1 Minimum record contents**; [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) for contribution-linked effects.
   - **Out of scope:**
     - **Adverse violation findings** or non-compliance under [**violation nature**](core_05_band_accountability.md#violation-nature-chapter-six) on **Axis II**.
-    - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional) (**Article XIX** participation status and role eligibility).
+    - [Participant Standing](core_05_band_accountability.md#participant-standing-constitutional) (**Article XIX** (*Standing and Participation Status*) participation status and role eligibility).
     - Violation Axis scores, averages, nets, or offsets against Axis I.
     - reputation, popularity, formal-channel pedigree, unverified self-reports, provisional labels, or bare allegation.
     - standing-effect / integration mechanics, which belong to [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) — Chapter Nine records carry no standing effects.
@@ -3625,7 +3625,7 @@ See **Anti-Segmentation Principle**.
     - [Article XIV-B](core_06_rights_part_c.md#article-xiv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*) force rules;
     - [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) environmental-preconditions rules; and
     - [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) scrutiny.
-  - **Secondary failure:** Claiming that **Article I-D** does not apply based only on weapon taxonomy when the foreseeable harm scale reaches its thresholds.
+  - **Secondary failure:** Claiming that **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) does not apply based only on weapon taxonomy when the foreseeable harm scale reaches its thresholds.
 
 ---
 
@@ -3745,7 +3745,7 @@ See **Anti-Segmentation Principle**.
     - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in **Article XX-B** (*Restriction Floors*);
     - use of a nominally reversible durable-containment regime under **Article XX-B** (*Restriction Floors*) as a predicate for the prohibited measure; and
     - re-labelling of an involuntarily-imposed outcome as "voluntary" to route around this entry into **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*):
-      - a sentient's own freely-formed decision remains governed by **Article VII-D** and [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional); and
+      - a sentient's own freely-formed decision remains governed by **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*) and [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation-constitutional); and
       - any conversion of that decision into a non-voluntary outcome by state, operator, or comparable actor returns the question to this entry.
 
     Distinguish this entry from:
@@ -3822,7 +3822,7 @@ See **Anti-Segmentation Principle**.
 <a id="autonomous-coercion-tool-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Deploying or using an Autonomous Coercion Tool when:
-    - it fails **Article XIV-C**'s heightened-scrutiny floor (*Autonomous Lethal Systems and Autonomous Coercion Tools*); or
+    - it fails **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)'s heightened-scrutiny floor (*Autonomous Lethal Systems and Autonomous Coercion Tools*); or
     - a rubber-stamp "human-in-the-loop" is treated as sufficient judgment.
   - **Secondary failure:** Defending coercion by saying it is:
     - "non-lethal";

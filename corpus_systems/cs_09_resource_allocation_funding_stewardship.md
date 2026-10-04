@@ -16,7 +16,7 @@
 
 - Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article V-B** (*Cross-System Fairness and Sustainability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-9-1-purpose-and-role); [§2](#cs-9-2-principles-of-funding); [§4](#cs-9-4-dependent-systems-map); [§16](#cs-9-16-trigger-definitions).
-- Read with: **CS-9**; **CS-8**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
+- Read with: **CS-9** (*Resource allocation and funding stewardship*); **CS-8** (*Adaptive sustainability and ecosystem resilience*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**.
 
 </details>
 
@@ -37,22 +37,22 @@
 
 This file is the systems implementation home for **CS-9** (*Resource allocation and funding stewardship*).
 
-*In plain terms: **CS-9** covers who funds what, and what that funding obliges. Resource flows and the systems depending on them must be mapped and visible, so that quietly starving a dependent system cannot be used to achieve what an open decision could not.*
+*In plain terms: **CS-9** (*Resource allocation and funding stewardship*) covers who funds what, and what that funding obliges. Resource flows and the systems depending on them must be mapped and visible, so that quietly starving a dependent system cannot be used to achieve what an open decision could not.*
 
 <a id="cs-9-1-purpose-and-role"></a>
 ## CS-9.1 Purpose and role
 
-*In plain terms: what this file covers, which articles it implements, and where the boundary with CS-8 and Chapter Five falls.*
+*In plain terms: what this file covers, which articles it implements, and where the boundary with CS-8 (*Adaptive sustainability and ecosystem resilience*) and Chapter Five falls.*
 
 Constitutional tracing: This file specifies implementation-file-level funding stewardship, dependent-systems mapping, and cross-system resource-flow obligations implementing Sentient Constitution Chapter Six, **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*). It implements **Chapter Five** [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional) through allocation categories, reauthorization, and funding-stewardship mechanics; it does not restate that definition.
 
-**CS-8** governs adaptive adjustment of allocation in response to degradation and systemic risk. This file does not replace or narrow Sentient Constitution Chapters Two through Five. Where this file is silent, Sentient Constitution Chapters Two through Five govern.
+**CS-8** (*Adaptive sustainability and ecosystem resilience*) governs adaptive adjustment of allocation in response to degradation and systemic risk. This file does not replace or narrow Sentient Constitution Chapters Two through Five. Where this file is silent, Sentient Constitution Chapters Two through Five govern.
 
 **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*), together with **Articles I–III and VI**, state the core obligations for transparent, ecosystem-aware resource flows, cross-system fairness, and substrate wellbeing.
 
-**What Articles I-B, V-A, and V-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article V-B**, what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
+**What Articles I-B, V-A, and V-B require here — and what they do not.** Those articles require honest disclosure and comparison of footprints, dependencies, and resource flows. They do not, on their own, force footprint cuts, lock in a funding formula, or require equal splits, fixed percentages, or one funding model. Under **Article V-B** (*Cross-System Fairness and Sustainability*), what a system puts back must be traceable — and it covers both keeping shared systems running (**cross-system system support**) and repairing ecological harm (**ecological support**). Both are judged under Chapter Five [*Proportionate Cross-System Support*](../core_05_band_continuity.md#proportionate-cross-system-support-constitutional). This file supplies allocation categories, reauthorization, and funding-stewardship mechanics that implement that floor; it must not narrow it.
 
-**CS-8** governs how allocation adapts when conditions change. This file specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. It is **not** a second copy of Chapter Five.
+**CS-8** (*Adaptive sustainability and ecosystem resilience*) governs how allocation adapts when conditions change. This file specifies **funding stewardship mechanics**—dependent systems maps, flow transparency, allocation categories, reauthorization, and triggers. It is **not** a second copy of Chapter Five.
 
 Funding processes should reward contribution, sustain systems, and fund long-term resilience without permanent extraction or unaccountable concentration, consistent with **Articles V, XII, XIII, XVI-A, XIX, XX, and XXIII** where applicable.
 
@@ -157,7 +157,7 @@ Resource flows within constitutional systems must account for, at minimum, the f
 
 **Budget** it as part of ordinary **funding stewardship**, not only as **post-crisis** improvisation.
 
-Capacity must be **auditable** and **anti-captive** (**Article XVI-A** (*Auditability and Observable Evidence*), **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*), **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.13** (*procedural integrity and adjudication terms*), **CS-7 §9**).
+Capacity must be **auditable** and **anti-captive** (**Article XVI-A** (*Auditability and Observable Evidence*), **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*), **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), **CJS-3.2** (*reflexive transparency and accountability terms*) and **CJS-3.6** (*integrity assurance and resilience operations*), **CJS-3.13** (*procedural integrity and adjudication terms*), **CS-7** (*Justice safeguards, restitution, and rehabilitation*) **§9** (*Cross-jurisdiction execution and anti-evasion controls*)).
 
 Underfunding that produces **chronic non-performance** of remediation obligations is a **constitutional alignment risk** subject to review.
 
@@ -321,9 +321,9 @@ Allocation models are subject to participatory oversight under **Article XII** (
 <a id="cs-9-16-trigger-definitions"></a>
 ## CS-9.16 Trigger definitions
 
-*In plain terms: Define the measurable indicators and thresholds that set adaptive allocation in motion under CS-8.*
+*In plain terms: Define the measurable indicators and thresholds that set adaptive allocation in motion under CS-8 (*Adaptive sustainability and ecosystem resilience*).*
 
-Systems must define measurable indicators and thresholds that reflect system health, resource flows, and ecosystem impact. These indicators form the basis for adaptive allocation processes defined in **CS-8** (see Sentient Constitution **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*)).
+Systems must define measurable indicators and thresholds that reflect system health, resource flows, and ecosystem impact. These indicators form the basis for adaptive allocation processes defined in **CS-8** (*Adaptive sustainability and ecosystem resilience*) (see Sentient Constitution **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*)).
 
 <a id="cs-9-17-triggering-review-and-challenge"></a>
 ## CS-9.17 Triggering review and challenge
@@ -339,14 +339,14 @@ No minimum participation threshold is required to initiate review, though outcom
 **Challenges must**:
 - be documented and supported by evidence where feasible;
 - remain subject to audit and evaluation under **Article XVI-A** (*Auditability and Observable Evidence*);
-- be resolved through participatory processes (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, Article XX-A** (*Justice Objective and Scope*)** (justice objective and review scope).
+- be resolved through participatory processes (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Chapter Six**, section **4**, where binding collective choice applies) and, where necessary, **Article XX-A** (*Justice Objective and Scope*)** (*Justice Objective and Scope*)** (justice objective and review scope).
 
 <a id="cs-9-18-due-process-in-funding-changes"></a>
 ## CS-9.18 Due process in funding changes
 
 *In plain terms: Changing funding requires notice, a justification, a route for those affected to respond, and a record that can be audited.*
 
-Funding-related decisions apply **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), **Article XVI-A** (*Auditability and Observable Evidence*), and **CJS-3.13** (*procedural integrity and adjudication terms*) / **CJS-3.13** (*procedural integrity and adjudication terms*) for process depth, duration, reviewability, and proportionality. CS-9 funding records add:
+Funding-related decisions apply **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), **Article XVI-A** (*Auditability and Observable Evidence*), and **CJS-3.13** (*procedural integrity and adjudication terms*) / **CJS-3.13** (*procedural integrity and adjudication terms*) for process depth, duration, reviewability, and proportionality. CS-9 (*Resource allocation and funding stewardship*) funding records add:
 - transparent proposal;
 - sufficient notice and justification;
 - affected-participant response, contest, or adaptation pathway;
@@ -372,7 +372,7 @@ Where humans hold authority over allocation, enforcement, classification, or ove
 
 Material conflicts between **private financial interest** and **stewardship duties** must be **disclosed** and **managed**.
 
-Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. That process must be consistent with **CJS-3.13** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules) and **CS-4 — Critical system steward conduct, conflicts of interest, and independence**.
+Where **impartiality** for a specific decision is not credible, address conflicts through **recusal**, **segmented authority**, or **independent review**. That process must be consistent with **CJS-3.13** (*Procedural Integrity and Adjudication*) in [corpus_joint_structure.md — CJS-0: Registry and reading rules](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-0-registry-and-reading-rules) and **CS-4.8 — Conduct, conflicts of interest, and independence**.
 
 Variable pay or equity tied to metrics susceptible to **gaming** at the expense of dependents or the broader ecosystem must include **safeguards**.
 

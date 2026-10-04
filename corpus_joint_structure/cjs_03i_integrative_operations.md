@@ -14,14 +14,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional compass and cluster map*) constitutional compass.
 
 </details>
 
 <br>
 
-This file is the joint-structure implementation home for **Integrative cross-leg operations (CJS-3.22–CJS-3.23 / oDef.22–oDef.23)**.
+This file is the joint-structure implementation home for **Integrative cross-leg operations (CJS-3.22 (*Integrative: constrained-secrecy and protected-investigation terms*)–CJS-3.23 (*Integrative: intervention and override integrity terms*) / oDef.22–oDef.23)**.
 
 *In plain terms: Two clusters that no single Tetrad leg owns cleanly. Constrained secrecy sits between oversight and accountability: some investigations must stay quiet without becoming unreviewable. Intervention integrity sits between accountability and continuity: someone must be able to intervene in a running system without that power going unchecked.*
 
@@ -37,12 +37,12 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.10**; **CJS-3.3**; **CJS-3.15 and CJS-3.6**; **CJS-3.22**; **CJS-3.12**; **CJS-3.2 and CJS-3.6**.
-- Read with: **CJS-3.22 — Constrained Secrecy and Protected Investigations**
+- Read with: **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*); **CJS-3.22** (*Integrative: constrained-secrecy and protected-investigation terms*); **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*); **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
+- Read with: **CJS-3.22 — Integrative: constrained-secrecy and protected-investigation terms**
 - Read with: **CJS-3.12 — Burden of Justification and Constraint**
 - Read with: **CJS-3.2** (*Oversight: reflexive transparency and accountability terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Reflexive Transparency and Accountability
 - Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*) and **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*) — Distributed and Proportional Authority
-- Read with: **CJS-3.10 — Transparency and Disclosure**
+- Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-3.13 — Procedural Integrity and Adjudication**
@@ -73,7 +73,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 
 Use this rule when secrecy, protected investigations, oversight, or delayed release depends on standalone system behavior or combined institutional, governance, system, or implementation-layer behavior.
 
-One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because lawful-secrecy failures often surface only when authorization, minimization, oversight, reconstruction, and release review are judged together; a sub-rule can look satisfied in isolation while secrecy still blocks audit, challenge, or timely disclosure. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.22** as a whole: constrained secrecy and protected investigation must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
+One cluster-level term is pinned at the top of this section in functional reading order rather than alphabetical order, because lawful-secrecy failures often surface only when authorization, minimization, oversight, reconstruction, and release review are judged together; a sub-rule can look satisfied in isolation while secrecy still blocks audit, challenge, or timely disclosure. It states the integrated obligation, evaluation, and compliance floor for **CJS-3.22** (*Integrative: constrained-secrecy and protected-investigation terms*) as a whole: constrained secrecy and protected investigation must be assessed as one claim before any named sub-rule is treated as satisfied on its own.
 
 <a id="constrained-secrecy-and-protected-investigation-terms"></a>
 constrained-secrecy and protected-investigation terms
@@ -185,18 +185,18 @@ No permanent secrecy and anti-normalization discipline
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.23**; **CJS-3.19**; **CJS-3.3**; **CJS-3.21**; **CJS-3.15 and CJS-3.6**; **CJS-3.14 and CJS-3.23**.
-- Read with: **CJS-3.23 — Intervention and Override Rights**
+- Read with: **CJS-3.23** (*Integrative: intervention and override integrity terms*); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*); **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*); **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*) and **CJS-3.23** (*Integrative: intervention and override integrity terms*).
+- Read with: **CJS-3.23 — Integrative: intervention and override integrity terms**
 - Read with: **CJS-3.19 — Graceful Degradation and Failure Mode Integrity**
 - Read with: **CJS-3.3 — Auditability**
 - Read with: **CJS-3.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **CJS-3.15** (*Accountability: structural review, correction urgency, and disclosure terms*) and **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) — Evolution, Revalidation, and Non-Entrenchment
 - Read with: **CJS-3.14 — Intervention governance and override authorization**
 - Read with: **[Chapter One §13.1.5 Rights-Collision Procedure](../core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)**
-- Read with: **`corpus_forum.md` CF-12 through CF-14 — Forum continuity, fallback operation, and emergency adjudication**
+- Read with: **`corpus_forum.md` CF-12 (*Forum continuity*) through CF-14 (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication**
 - Read with: Constitutional hooks in **Articles X, XIII, and XIV**
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
-- Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-3.14** governance authorization.
+- Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-3.14** (*Accountability: intervention governance and override-authorization terms*) governance authorization.
 - Continuity disambiguation: Distinguish technical intervention integrity from constitutional **Continuity** aim language.
 - Chapter One basis: §15.1, §18.1, §18, §19.1, §16 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>

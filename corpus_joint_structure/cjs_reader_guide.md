@@ -38,13 +38,13 @@ You do **not** need to read this folder front to back. Most readers open one cit
 | **CI** | [Institutions](../corpus_institutions.md) | How bodies are formed, authorized, overseen, corrected, and dissolved |
 | **CF** | [Forums](../corpus_forum.md) | How panels form, cases route, appeals work, and hearings stay independent |
 
-Binding purpose of this layer: [CJS-1.0](cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer). What the layer owns and does not own: the lists on [CJS-1](cjs_01_scope_purpose_boundary_interface.md).
+Binding purpose of this layer: [CJS-1.0](cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (*Purpose of this layer*). What the layer owns and does not own: the lists on [CJS-1](cjs_01_scope_purpose_boundary_interface.md) (*Scope, purpose, and boundary interface*).
 
-Domain doors: [CS-1](../corpus_systems/cs_01_scope_purpose_identifier_rules.md), [CI-1](../corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md), [CF-1](../corpus_forum/cf_01_scope_authority_boundary_rules.md).
+Domain doors: [CS-1](../corpus_systems/cs_01_scope_purpose_identifier_rules.md) (*Scope, purpose, and boundary interface*), [CI-1](../corpus_institutions/ci_01_scope_purpose_legitimacy_interface.md) (*Scope, purpose, and legitimacy interface*), [CF-1](../corpus_forum/cf_01_scope_authority_boundary_rules.md) (*Scope, authority, and boundary rules*).
 
 ## How labels work
 
-Labels tell you which book and which shelf. Constitutional dictionary entries (**Def.***) are not the same thing as joint how-to clusters (**oDef**). The binding identifier home is [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references).
+Labels tell you which book and which shelf. Constitutional dictionary entries (**Def.***) are not the same thing as joint how-to clusters (**oDef**). The binding identifier home is [CJS-1.1](cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*).
 
 **Core references**
 
@@ -54,7 +54,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 | **Preamble** | **Preamble §2** | Foundational requirements that open the Constitution |
 | **Constitutional Tetrad** | **Participation**, **Oversight**, **Accountability**, **Timeliness** | The four scaling principles in the Preamble |
 | **Two Constitutional Aims** | **Flourishing**, **Continuity** | The two aims in the Preamble |
-| **Article** (Chapter Six) | **Article XXII**, **Article XXI-D** | Rights articles in Chapter Six |
+| **Article** (Chapter Six) | **Article XXII** (*Comprehensibility and Complexity Stewardship*), **Article XXI-D** (*Movement, Migration, Refuge, and Non-Statelessness*) | Rights articles in Chapter Six |
 | **Def** (Chapter Five definitions) | **Trust**, **Oversight**, **Def.O1**, **Def.C4** | Dictionary terms and clusters in Chapter Five |
 
 **Corpus references**
@@ -91,7 +91,7 @@ Each **oDef** entry uses three reader-facing headers:
 
 Where several entries appear together as a cluster, the head entry and the ones beneath it form one compound definition. Reading one component alone will give the wrong answer.
 
-Binding parse rules: [CJS-1.13](cjs_05_odef_parse_mechanics.md#cjs-113-operational-structure-and-subsection-local-terminology) and [CJS-1.14](cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters).
+Binding parse rules: [CJS-1.13](cjs_05_odef_parse_mechanics.md#cjs-113-operational-structure-and-subsection-local-terminology) (*CJS-1.14: oDef parse mechanics*) and [CJS-1.14](cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters) (*Operational clusters*).
 
 ## Map of CJS files
 
@@ -109,7 +109,7 @@ Come back to a CJS family file when a citation sends you there, when you need to
 
 ## Editors and auditors
 
-Seam and non-duplication contracts: [CJS-1.7](cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline), [CJS-1.8](cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail), and [CJS-1.8.1](cjs_04_drafting_contracts.md#cjs-181-implementation-boundary-primary-owner-to-cjs-seam). Maintainer drafting notes: [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes). The authoritative router table in **CJS-0.1** is maintainer-only detail — not a reader door.
+Seam and non-duplication contracts: [CJS-1.7](cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*), [CJS-1.8](cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*), and [CJS-1.8.1](cjs_04_drafting_contracts.md#cjs-181-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*). Maintainer drafting notes: [CJS-0.3](cjs_00_registry_and_reading_rules.md#cjs-03-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable identifiers, edition alignment, and drafting notes*). The authoritative router table in **CJS-0.1** (*Cross-file routing*) is maintainer-only detail — not a reader door.
 
 ---
 

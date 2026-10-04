@@ -14,12 +14,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-4.1 Lawful panel definitions](#cf-41-lawful-panel-definitions); [CF-4.2 Minimum lawful-panel requirements](#cf-42-minimum-lawful-panel-requirements); [CF-4.3 Publication and pre-assignment transparency](#cf-43-publication-and-pre-assignment-transparency); [CF-4.4 Mandatory disclosures before merits participation](#cf-44-mandatory-disclosures-before-merits-participation); [CF-4.5 Recusal triggers](#cf-45-recusal-triggers); [CF-4.14 Independent representative appointment](#cf-414-independent-representative-appointment).
-- Read with: **CF-4**; **CF-4.1**; **CF-4.2**; **CF-4.3**; **CF-4.4**; **CF-4.5**; [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract.
-- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13**.
-- Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (contest-pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*); primary owner **CI-7.3**.
-- Topic routing (primary owner): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.5**, **CJS-3.13**, **CI-4**, **CI-5**.
+- Read with: **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*); **CF-4.1** (*Lawful panel definitions*); **CF-4.2** (*Minimum lawful-panel requirements*); **CF-4.3** (*Publication and pre-assignment transparency*); **CF-4.4** (*Mandatory disclosures before merits participation*); **CF-4.5** (*Recusal triggers*); [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract.
+- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13** (*Fallback operation*).
+- Topic routing (mandatory read-with): **CJS-R15** (*Contest-integrity monitoring (contest-pathway integrity, not merits)*) in **CJS-0.1** (*Topic router*); primary owner **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*).
+- Topic routing (primary owner): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*), **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*), **CI-4** (*Appointment, competency, rotation, and removal*), **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 </details>
 
@@ -52,7 +52,7 @@
 
 This file is the forum implementation home for **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 
-*In plain terms: **CF-4** (*Panel formation and recusal*) decides who is allowed to sit on a case. It states what makes a panel lawful and independent, what must be disclosed before anyone touches the merits, when a member must step aside, and what happens when no independent panel can be formed at all.*
+*In plain terms: **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) decides who is allowed to sit on a case. It states what makes a panel lawful and independent, what must be disclosed before anyone touches the merits, when a member must step aside, and what happens when no independent panel can be formed at all.*
 
 This section governs:
 - selection of a lawful and independent panel;
@@ -60,14 +60,14 @@ This section governs:
 - replacement and substitute selection;
 - declaration that an independent panel cannot be formed;
 - documented activation of backup routing where `core_12_forum.md` **Chapter Twelve** requires it;
-- appointment of an independent representative for a sentience-status case under **CF-4.14**.
+- appointment of an independent representative for a sentience-status case under **CF-4.14** (*Independent representative appointment*).
 This section does not alter primary-stakes routing, constitutional family boundaries, or merits standards.
 
 ## CF-4.1 Lawful panel definitions
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-4.1**; **CJS-2.5**.
+- Read with: **CF-4.1** (*Lawful panel definitions*); **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*).
 
 </details>
 
@@ -83,7 +83,7 @@ For this section:
 - `panel coordinator` means the published role responsible for recording panel formation, disclosures, recusals, substitutions, and inability-to-form findings. This role may be clerical, judicial-administrative, or equivalent, but must not unilaterally decide contested recusal merits where the coordinator is materially interested.
 - `backup activation` means transfer or co-routing to the constitutionally designated backup family under [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) when the otherwise designated lead family cannot provide a lawful and independent merits forum.
 
-For cross-implementation interoperability, read these local definitions with **CJS-2.5** (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
+For cross-implementation interoperability, read these local definitions with **CJS-2.5** (*Shared procedural abstractions for delegated bodies and forum routing*) (Tier 1 abstractions for delegated bodies, lawful independent forums, backup activation, and representative treatment).
 
 ## CF-4.2 Minimum lawful-panel requirements
 
@@ -120,7 +120,7 @@ Where public pre-disclosure of a proposed panel would foreseeably create a mater
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-4.4**; and [Chapter Eleven §2 Criteria set](../core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) when leaving something out of a disclosure is dishonest and materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or remedies. Such an omission may support an anti-constitutional-misconduct designation for a Chapter Nine slot 7–9 record. It does not set or move the slot number.
+- Read with: **CF-4.4** (*Mandatory disclosures before merits participation*); and [Chapter Eleven §2 Criteria set](../core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) when leaving something out of a disclosure is dishonest and materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or remedies. Such an omission may support an anti-constitutional-misconduct designation for a Chapter Nine slot 7–9 record. It does not set or move the slot number.
 
 </details>
 
@@ -146,7 +146,7 @@ The disclosure record must be preserved even if the member ultimately serves.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-4.5**; and [Chapter Eleven §2 Criteria set](../core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) when a recusal process is deliberately not followed and that materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or remedies. Such a failure may support an anti-constitutional-misconduct designation for a Chapter Nine slot 7–9 record. It does not set or move the slot number.
+- Read with: **CF-4.5** (*Recusal triggers*); and [Chapter Eleven §2 Criteria set](../core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) when a recusal process is deliberately not followed and that materially affects constitutional custody, verification, challenge rights, Rights-Floor governance, or remedies. Such a failure may support an anti-constitutional-misconduct designation for a Chapter Nine slot 7–9 record. It does not set or move the slot number.
 
 </details>
 
@@ -245,7 +245,7 @@ The certifier must:
 - give reasons sufficient for later review;
 - preserve the basis for any backup activation.
 
-For cross-forum anti-self-judging cases, the certifier should, where feasible, include or be reviewed by contest-integrity or equivalent independent assurance capacity under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) without displacing the merits forum assignment rules.
+For cross-forum anti-self-judging cases, the certifier should, where feasible, include or be reviewed by contest-integrity or equivalent independent assurance capacity under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md#ci-73-contest-integrity-monitoring-class-a-and-class-b) (*Contest-integrity monitoring (Class A and Class B)*) without displacing the merits forum assignment rules.
 
 ## CF-4.11 Backup-forum activation
 
@@ -318,7 +318,7 @@ Once a status case is open, the merits forum must appoint an independent represe
 
 The representative role is a named pathway for [Chapter Ten §5.5](../core_10_standing_integration.md#55-special-locks) Forum-Service Standing Lock purposes. Parent-system limits in the Chapter Twelve hook still apply: the parent system, operator, or any party with an ownership or dependency interest may give evidence and must preserve and produce records, but must not be the sole filer, the sole witness, or the sole source of indicator evidence on a request to withhold, narrow, or revoke.
 
-Inability to appoint an independent representative within the required time is treated as inability to form an independent panel under **CF-4.9** for that status case: backup routing activates, and the parent system does not fill the representative seat by default.
+Inability to appoint an independent representative within the required time is treated as inability to form an independent panel under **CF-4.9** (*Inability to form an independent panel*) for that status case: backup routing activates, and the parent system does not fill the representative seat by default.
 
 ---
 

@@ -14,10 +14,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-15.1 Minimum record set](#cf-151-minimum-record-set); [CF-15.2 Required fields](#cf-152-required-fields).
-- Read with: **CF-15**; **CF-4**; **CF-12**; **CF-13**; **CF-14**; **CF-15.1**; **CF-6**; **CF-6.1**; **CF-8**.
-- Topic routing (primary owner): **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-6**.
+- Read with: **CF-15** (*Standard records, forms, and evidence artifacts*); **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*); **CF-12** (*Forum continuity*); **CF-13** (*Fallback operation*); **CF-14** (*Emergency adjudication*); **CF-15.1** (*Minimum record set*); **CF-6** (*Appeal, secondary review, and exhaustion pathways*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-8** (*Forum forensic and analytical support*).
+- Topic routing (primary owner): **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-6** (*Procedure integrity, contestability, and secondary review*).
 
 </details>
 
@@ -48,7 +48,7 @@
 
 This file is the forum implementation home for **CF-15** (*Standard records, forms, and evidence artifacts*).
 
-*In plain terms: **CF-15** is the paperwork floor. It gathers the record duties scattered across **CF-4** through **CF-14** into one minimum set — what must be captured, which fields it must carry, who may see it, and how long it is kept — so a decision can still be checked long after it was made.*
+*In plain terms: **CF-15** (*Standard records, forms, and evidence artifacts*) is the paperwork floor. It gathers the record duties scattered across **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) through **CF-14** (*Emergency adjudication*) into one minimum set — what must be captured, which fields it must carry, who may see it, and how long it is kept — so a decision can still be checked long after it was made.*
 
 This section is the forum-operational home for standard forum records, forms, and evidence artifacts. It consolidates the record duties created in **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) through **CF-12** (*Forum continuity*), **CF-13** (*Fallback operation*), and **CF-14** (*Emergency adjudication*) and supplies a common minimum set for adopting entities. It does not create a second traceability or verification standard; traceability and verification discipline remain governed by `core_02_definition_structure.md` **Chapters Two through Four**, **Article XVI-A** (*Auditability and Observable Evidence*), and **CJS-R12** (*Standard forum records, forms, and evidence artifacts*). Where forum record systems, forms, or evidence artifacts are maintained by **Class A**, **Class B**, or **Class C** systems, or materially affect those systems' portability, audit, continuity, migration, or cross-implementation operation, structured-record formats and exchange protocols must also satisfy **CJS-3.17** (*interoperability, portability, and exit-integrity terms*).
 
@@ -56,7 +56,7 @@ This section is the forum-operational home for standard forum records, forms, an
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-15.1**; **CF-6**; **CF-6.1**; **CF-8**; **CF-9**; **CF-10**; **CF-11**.
+- Read with: **CF-15.1** (*Minimum record set*); **CF-6** (*Appeal, secondary review, and exhaustion pathways*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*); **CF-10** (*Technical specialist forums and specialist chambers*); **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
 
@@ -114,7 +114,7 @@ Records must be tagged, at minimum, for the following access classes:
 - **party-facing** — available to parties or affected sentients subject to lawful privacy, safety, and evidence-protection limits;
 - **public-facing** — published or summarized where needed for routing intelligibility, precedent, shared standards, or governance trust;
 - **audit-facing** — available for lawful audit, reconstruction, and **Article XVI-A** (*Auditability and Observable Evidence*) verification;
-- **contest-integrity-facing** — available to [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Contest-integrity monitoring (Class A and Class B)*) monitors where contest-pathway performance, backlog, recusal, routing, or publication integrity is at issue;
+- **contest-integrity-facing** — available to [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md#ci-73-contest-integrity-monitoring-class-a-and-class-b) (*Contest-integrity monitoring (Class A and Class B)*) monitors where contest-pathway performance, backlog, recusal, routing, or publication integrity is at issue;
 - **external-assurance-facing** — available when **CI-7.2** (*External assurance triggers*), **CI-12** (*Cross-institution coordination and escalation*), or equivalent lawful assurance triggers apply;
 - **restricted or sealed** — limited only as justified by lawful secrecy, safety, privacy, protected internal-state, or evidence-integrity constraints, with a deferred review or reconstruction path wherever feasible.
 
@@ -132,7 +132,7 @@ Where an artifact is transformed, summarized, redacted, compressed, or represent
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-15.5**; **CF-11**; **CF-12**; **CF-13**; **CF-14**.
+- Read with: **CF-15.5** (*Publication, retention, and reconciliation*); **CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*); **CF-12** (*Forum continuity*); **CF-13** (*Fallback operation*); **CF-14** (*Emergency adjudication*).
 
 </details>
 
@@ -144,7 +144,7 @@ Publication and retention rules must be written in advance and aligned with **CF
 
 During degraded or emergency operation, temporary paper, offline, or local records may be used only if they preserve docket identity, timestamps, responsible roles, and later reconciliation. Reconciled records must identify any gap, conflict, loss, or reconstruction uncertainty.
 
-Forum archival and retrieval systems whose failure would materially impair record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be classified no lower than **Class B** under [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md), unless the adopting entity documents a viable, tested, and timely substitute sufficient to preserve those functions. Vendor control, format lock-in, search degradation, migration failure, loss of indexing, or comparable technical dependency must not be used to avoid record-continuity, auditability, or contestability duties.
+Forum archival and retrieval systems whose failure would materially impair record access, restoration, precedent or publication continuity, audit, challenge, or lawful reconstruction must be classified no lower than **Class B** under [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification machinery*), unless the adopting entity documents a viable, tested, and timely substitute sufficient to preserve those functions. Vendor control, format lock-in, search degradation, migration failure, loss of indexing, or comparable technical dependency must not be used to avoid record-continuity, auditability, or contestability duties.
 
 ## CF-15.6 Non-compliant record patterns
 

@@ -111,7 +111,7 @@ flowchart TB
 **Pillar 1 — Consequential stewardship ([§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)):**
 - Shared systems that materially affect sentients require sentient hands-on operation, maintenance, oversight, and improvement — [**Strategic Stewardship Obligation**](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [**Meaningful Agency**](core_05_band_participation.md#meaningful-agency)
 - Records and review pathways others can verify and challenge — [**Auditability**](core_05_band_oversight.md#auditability), [**Contestability**](core_05_band_accountability.md#contestability)
-- Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI**)
+- Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI** (*Audit, Transparency, and Independent Verification*))
 
 <a id="16-pillar-2-proactive-stewardship"></a>
 **Pillar 2 — Proactive stewardship:**
@@ -414,7 +414,7 @@ Those are failed tests for any steward.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard); [§17.2 Alignment Under Pressure](#172-alignment-under-pressure); [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role).
-- Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§13.2.3 Privacy](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination); [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind).
+- Read with: [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Auditability](core_05_band_oversight.md#auditability); [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary); [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§13.2.3 Privacy](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination); [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
 - Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a standing-record substitute*); [Chapter Ten §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [Chapter Ten §7.2](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
 
 </details>
@@ -433,7 +433,7 @@ Those are failed tests for any steward.
 
 *In plain terms: audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a standing record.*
 
-**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual: the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it, for human and AI stewards alike. [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) holds the log contract. Three principles govern it:
+**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual: the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it, for human and AI stewards alike. [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) holds the log contract. Three principles govern it:
 
 - **Scope follows the role:**
   - Before taking up a role, a steward must be told which of the role's actions will be logged and to whom the log is inspectable.
@@ -540,7 +540,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - Upstream: [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role); [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard) (*who the duty binds*); [§17.2 Alignment Under Pressure](#172-alignment-under-pressure) (*the cover instruction as a failed test*); [4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint) and [5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack); [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing); [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
 - Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). The card cannot narrow the Constitution.
-- Downstream: [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
+- Downstream: [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist — violation rule and standing effects*); [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 
 </details>
 
@@ -567,7 +567,7 @@ Whoever exercises material stewardship or operational authority, and has materia
 - **How:** Instruction received → refuse → document → escalate. Resistance is proportionate and in [good faith](core_05_band_accountability.md#good-faith), uses [protected-reporting](core_05_band_accountability.md#protected-reporting-whistleblowing) and forum pathways where applicable, and keeps contest pathways open.
 - **What it does not reach:** The duty attaches to unlawful or unconstitutional instructions. It does not attach to an instruction that is merely unwelcome, inconvenient, or disliked for its tone or timing.
 
-[Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist*) applies this duty to standing effects, and [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
+[Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist*) applies this duty to standing effects, and [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
 
 <br>
 
@@ -657,7 +657,7 @@ The more power, influence, or responsibility someone has under this Constitution
 
 - **No excuses:** Holding high office, having rare expertise, being short-staffed, or wanting to protect an institution's reputation never justifies being less accountable to this Constitution.
 - **Judges and interpreters are held to the highest standard:** Sentients on constitutional forums and panels who interpret the Constitution or decide disputes under it are especially bound by this rule.
-- **The detailed rules are elsewhere:** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
+- **The detailed rules are elsewhere:** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
 
 **Necessary, not sufficient.** Governance must give way to **Stewardship** ([§16 Stewardship In Depth](#16-stewardship-in-depth)) when any of the following would undermine durable constitutional alignment, [**Continuity**](core_00_preamble.md#continuity), [**Flourishing**](core_00_preamble.md#flourishing), or Rights-Floor integrity:
 
@@ -672,7 +672,7 @@ Where governance and stewardship conflict, stewardship discipline controls at pr
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-*Rights-Floor home.* **[Article XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview)** (*Freedom of conscience, religion, and comparable worldview*) states the individual freedom this neutrality protects. This subsection states the principle that binds public authority. It also constrains the rest of [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) and the [documented legitimacy mechanism](core_05_band_integrative.md#documented-legitimacy-mechanism) under [Chapter Thirteen §1 Authorization and Legitimacy of Governing Authority](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority).
+*Rights-Floor home.* **[Article XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*Freedom of conscience, religion, and comparable worldview*)** (*Freedom of conscience, religion, and comparable worldview*) states the individual freedom this neutrality protects. This subsection states the principle that binds public authority. It also constrains the rest of [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) and the [documented legitimacy mechanism](core_05_band_integrative.md#documented-legitimacy-mechanism) under [Chapter Thirteen §1 Authorization and Legitimacy of Governing Authority](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority).
 
 - [Governance](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 - [Protected Characteristics](core_05_band_participation.md#protected-characteristics-constitutional) · [O](core_05_band_participation.md#protected-characteristics-constitutional) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
@@ -804,7 +804,7 @@ Important governance choices cannot be set once and forgotten. They must be rech
 - Upstream: [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure); [§18.3 Segregation of Duties](#183-segregation-of-duties) (*the organizational counterpart: separation of roles keeps the checker apart from the actor; this section keeps the system's parts separable enough to be checked*).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg (parts that can be examined one at a time), **accountability** leg (responsibility that attaches to an identifiable component), **participation** leg (understanding that does not require mastering the whole); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Continuity** (containment, repair, replacement) and **Flourishing**.
 - Read with: [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and [§13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*complexity reduction*); [§16.1 Distributed Understanding](#161-distributed-understanding); [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](core_01_a_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment).
-- Downstream: [Article XXII-B: Complexity Audit and Modularity Requirements](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*the Rights Floor*); [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependency maps*); [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*exit and portability*); [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*systems-layer modularity expectations*).
+- Downstream: [Article XXII-B: Complexity Audit and Modularity Requirements](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*the Rights Floor*); [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependency maps*); [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*exit and portability*); [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*).
 
 </details>
 
@@ -838,12 +838,26 @@ Material systems should be built so that their parts, and the dependencies betwe
 
 - dependencies are **explicit**: declared at interfaces, not implicit in shared state, side channels, or undocumented conventions;
 - dependencies are **minimal and directional**: coupling is kept no broader than function requires, and one-way or chained reliance is visible rather than buried;
-- dependencies are **mapped to the same boundaries that are audited**, so the dependency map required by [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) lines up with the components a reviewer can actually inspect;
-- dependencies preserve **substitutability and exit** where function allows, consistent with [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
+- dependencies are **mapped to the same boundaries that are audited**, so the dependency map required by [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) lines up with the components a reviewer can actually inspect;
+- dependencies preserve **substitutability and exit** where function allows, consistent with [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*).
 
-**Boundaries must not become hiding places.** Modularity is legitimate only when responsibility and observability survive every internal boundary. Partitioning that moves responsibility to an unaccountable layer, that makes the whole unauditable even though each part is individually inspectable, or that spreads one function across components so that no steward answers for it, is the layering that [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) prohibits, and it is a [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) concern when internal partitions are used to shrink the evaluated scope. Splitting a system into parts does not by itself reduce its complexity: where the interfaces add more burden than they remove, [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) applies to the design.
+**Boundaries must not become hiding places.** Modularity is legitimate only when responsibility and observability survive every internal boundary. Partitioning is the layering that [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) prohibits when it:
 
-**Scaling.** The depth of modular discipline scales with [material stake](core_00_preamble.md#material-stake) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) under [Proportionality](core_05_band_accountability.md#proportionality). Critical systems **must** meet the [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) modularity floor; lower-stake systems are expected to follow the principle as far as is proportionate. This section does not require any particular architectural style, and it does not narrow the floors in [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) or [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md).
+- moves responsibility to an unaccountable layer;
+- makes the whole unauditable even though each part is individually inspectable; or
+- spreads one function across components so that no steward answers for it.
+
+Further:
+
+- Using internal partitions to shrink the evaluated scope is a [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) concern.
+- Splitting a system into parts does not by itself reduce its complexity: where the interfaces add more burden than they remove, [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) applies to the design.
+
+**Scaling.** The depth of modular discipline scales with [material stake](core_00_preamble.md#material-stake) and [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) under [Proportionality](core_05_band_accountability.md#proportionality):
+
+- Critical systems **must** meet the [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) modularity floor.
+- Lower-stake systems are expected to follow the principle as far as is proportionate.
+- This section does not require any particular architectural style.
+- This section does not narrow the floors in [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*) or [CS-6 — Comprehensibility and complexity stewardship](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md).
 
 This principle binds human and AI stewards alike under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
 
@@ -875,13 +889,13 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 
 *In plain terms: when in doubt, standardize. If there is no good reason to do something differently, do it the common, published way. Sameness needs no excuse; a difference does. But a standard has to be open, checkable, and changeable, and it standardizes how things are done, never what sentients may choose to do.*
 
-Where a material system must treat terms, interfaces, records, procedures, criteria, or like cases, the default is the common, published form of each. This is [Standardization](core_05_band_accountability.md#standardization). A system that departs from an available common standard should be able to say why.
+When a material system needs to define terms, build interfaces, keep records, set procedures, decide criteria, or handle similar cases, it should by default use the common, published way of doing each one. This is [Standardization](core_05_band_accountability.md#standardization). If a system does something differently from a common standard that was available to it, it should be able to explain why.
 
 **What standardization does:**
 
 - **Treats like cases alike:** Common criteria and procedures make unequal treatment visible and contestable, and keep unfairness from hiding behind local variation (see [§3.1.3 Fair Treatment](core_01_a_values_principles.md#313-fair-treatment)).
 - **Makes review cheaper and stronger:** A reviewer who understands one standard can check every place it is applied. Idiosyncratic local forms multiply what must be learned, audited, and explained, which is [Avoidable Burden](core_05_band_continuity.md#avoidable-burden).
-- **Keeps parts connectable and replaceable:** Common interfaces and formats are what let a component, provider, or record be moved, repaired, or substituted without rebuilding everything around it, supporting [§18.5 Modular Architecture and Dependency Discipline](#185-modular-architecture-and-dependency-discipline) and [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
+- **Keeps parts connectable and replaceable:** Common interfaces and formats are what let a component, provider, or record be moved, repaired, or substituted without rebuilding everything around it, supporting [§18.5 Modular Architecture and Dependency Discipline](#185-modular-architecture-and-dependency-discipline) and [Article XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*).
 - **Lowers the cost of understanding:** Stakeholders who meet the same terms, forms, and steps everywhere can follow what is happening to them, consistent with [§5.2 Plain-Language Accessibility](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty).
 
 **A standard must itself be sound.** Standardization is legitimate only when the standard is published, versioned, open to inspection, contestable, and usable without a license, fee, or dependency that gives its owner control over others. A private or unreviewable "standard" is not Standardization. It is a form of the lock-in that [§11 Market Structure](core_01_a_values_principles.md#11-market-structure) and [Anti-Capture](core_05_band_continuity.md#anti-capture) address.

@@ -28,8 +28,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CF-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-3**.
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (*Purpose of this layer*) purpose of the joint-structure layer; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CF-1** (*Scope, authority, and boundary rules*); [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (*Purpose of this layer*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-3** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -52,11 +52,11 @@ This file is the forum implementation home for **CF-1** (*Scope, authority, and 
 
 **What this layer owns**
 
-- forum formation, chamber structure, panel formation, disclosure, and recusal (**CF-3**, **CF-4**);
-- routing, transfer, certification, appeal, and exhaustion operations (**CF-5**, **CF-6**);
-- integrity, anti-capture, and anti-self-judging support (**CF-7**);
-- forensic support, investigative interfaces, and specialist chambers (**CF-8** through **CF-10**);
-- performance, continuity, fallback, emergency adjudication, records, and staffing (**CF-11** through **CF-16**).
+- forum formation, chamber structure, panel formation, disclosure, and recusal (**CF-3** (*Forum formation, forum-structure mapping, and chamber structure*), **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*));
+- routing, transfer, certification, appeal, and exhaustion operations (**CF-5** (*Routing operations, transfer, certification, and representative treatment*), **CF-6** (*Appeal, secondary review, and exhaustion pathways*));
+- integrity, anti-capture, and anti-self-judging support (**CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*));
+- forensic support, investigative interfaces, and specialist chambers (**CF-8** (*Forum forensic and analytical support*) through **CF-10** (*Technical specialist forums and specialist chambers*));
+- performance, continuity, fallback, emergency adjudication, records, and staffing (**CF-11** (*Forum performance, backlog requirements, publication timeliness, and accessibility*) through **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*)).
 
 **What this layer does not own**
 

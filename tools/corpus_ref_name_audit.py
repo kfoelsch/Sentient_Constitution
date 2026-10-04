@@ -18,8 +18,9 @@ name and must resolve:
   own heading. A gloss or link-text name must agree with the heading title
   (either contains the other, compared as lowercase words).
 
-``<details>`` widgets, headings, tables, HTML-only lines, blockquotes,
-backticks, and fenced code are out of scope. ``--changed-only`` checks
+Headings, tables, HTML-only lines, blockquotes, backticks, and fenced code
+are out of scope; ``<details>`` widget bodies (Trace, Definitions · Assessment
+· Compliance) are in scope. ``--changed-only`` checks
 added Markdown lines versus HEAD so legacy references do not block until
 those lines are edited. A list-entry label (``- **CI-14.3** — description``)
 is exempt: the description after the dash is its name.
@@ -32,7 +33,7 @@ import html
 import re
 import subprocess
 import sys
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 _TOOLS = Path(__file__).resolve().parent
@@ -43,8 +44,8 @@ from corpus_paths import binding_corpus_scope  # noqa: E402
 from local_markdown_fragment_audit import github_slug  # noqa: E402
 from section_cite_name_audit import (  # noqa: E402
     CODE_SPAN_RE,
+    FENCE_RE,
     is_exempt_line,
-    mask_details_and_fences,
 )
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -69,6 +70,8 @@ HTML_ANCHOR_RE = re.compile(r"""<a\s+(?:id|name)=["']([^"']+)["']""", re.I)
 LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)\s]+)\)")
 LABEL_ENTRY_RE = re.compile(r"^\s*(?:[-*]|\d+\.)\s+\**(?:%s)$" % ID_PATTERN)
 GLOSS_RE = re.compile(r"^[\s*_]*\(\*([^*]+?)\*\)")
+DASH_NAME_RE = re.compile(r"^[*_]*\s+[—–-]\s+([^*_\[\]]+?)\s*(?:[*_]{2}|[.;,:)]|$)")
+SUBSECTION_NAME_RE = re.compile(r"^(?:Part\s+[A-Z]\s+)?§\s*\d+(?:\.\d+)*\s*(.*)$")
 
 
 @dataclass(frozen=True)
@@ -85,6 +88,9 @@ class Section:
     files: set[str]
     title: str
     anchors: set[str]
+    # Other accepted names: titles of the other parts of a multi-file ID
+    # (CS-3 Part A / Part B) and the canonical name the registry gives it.
+    aliases: set[str] = field(default_factory=set)
 
     @property
     def short_name(self) -> str:
@@ -117,7 +123,11 @@ def build_index(root: Path) -> dict[str, Section]:
                 anchor_ids = HTML_ANCHOR_RE.findall(line)
                 if anchor_ids and not line.lstrip().startswith("#"):
                     pending.update(anchor_ids)
-                    if current is not None and gap <= 2:
+                    # An anchor inside a section body (for example the
+                    # ``<a id="10-inspectable-attributable-action">`` that
+                    # opens a named subsection) is a valid fragment of that
+                    # section, however far below its heading it sits.
+                    if current is not None:
                         current.anchors.update(anchor_ids)
                     continue
                 match = HEADING_RE.match(line)
@@ -131,11 +141,50 @@ def build_index(root: Path) -> dict[str, Section]:
                     else:
                         section.files.add(rel)
                         section.anchors.update(anchors)
+                        section.aliases.add(clean(match.group(2)))
                     current, gap = section, 0
                     pending = set()
                 elif line.strip():
                     pending = set()
+    add_registry_names(root, index)
     return index
+
+
+REGISTRY_NAME_RE = re.compile(rf"\*\*({ID_PATTERN})\s+[—–-]\s+([^*]+?)\*\*")
+
+
+def add_registry_names(root: Path, index: dict[str, Section]) -> None:
+    """Accept the canonical ``**CS-3 — System classification and handling**``
+    names the family registries use, alongside the heading titles."""
+    for family in FAMILY_DIRS:
+        for path in sorted((root / family).glob("*_00_*registry*.md")):
+            for match in REGISTRY_NAME_RE.finditer(path.read_text(encoding="utf-8")):
+                section = index.get(match.group(1).upper())
+                if section is not None:
+                    section.aliases.add(clean(match.group(2)))
+
+
+def section_title_agrees(name: str, section: Section) -> bool:
+    """Name matches the heading title, another part's title, a registry name,
+    or an anchor id of the section (anchors preserve earlier or router names,
+    for example ``cjs-01-topic-router-stable-ids``)."""
+    candidates = [section.title, *sorted(section.aliases), *sorted(section.anchors)]
+    return any(title_agrees(name, t) for t in candidates)
+
+
+_FILE_ANCHORS: dict[Path, set[str]] = {}
+
+
+def file_anchors(path: Path) -> set[str]:
+    """Every heading slug and ``<a id>`` in a file (for subsection fragments)."""
+    if path not in _FILE_ANCHORS:
+        anchors: set[str] = set()
+        for line in path.read_text(encoding="utf-8").splitlines():
+            anchors.update(HTML_ANCHOR_RE.findall(line))
+            if line.startswith("#"):
+                anchors.add(github_slug(line.lstrip("# ").strip()))
+        _FILE_ANCHORS[path] = anchors
+    return _FILE_ANCHORS[path]
 
 
 def title_agrees(name: str, title: str) -> bool:
@@ -168,6 +217,16 @@ def name_from_link_text(label: str, ident: str) -> str | None:
     return rest or None
 
 
+def subsection_fragments(root: Path, rel_path: str, target: str, section: Section) -> set[str]:
+    """Anchors of the file(s) that own the section, for a named-subsection link."""
+    owners = [(root / rel_path).parent.joinpath(target)] if target else [root / f for f in section.files]
+    found: set[str] = set()
+    for owner in owners:
+        if owner.is_file():
+            found |= file_anchors(owner.resolve())
+    return found
+
+
 def check_reference(
     root: Path,
     rel_path: str,
@@ -182,8 +241,36 @@ def check_reference(
     ident = normalize_id(ident)
     section = index.get(ident)
     if section is None:
+        if name is not None and name.lower().startswith("reserved"):
+            return []  # ``CI-2`` (*reserved family ID*): an intentionally unused ID
         return [Finding(rel_path, line_no, ident, "no corpus heading defines this ID")]
-    if name is None:
+    fragment = href.partition("#")[2] if href else ""
+    subsection = SUBSECTION_NAME_RE.match(name) if name else None
+    if subsection is not None:
+        # ``CS-4 §10 inspectable attributable action``: the name after the
+        # ``§N`` token names a subsection inside the ID's section, so it is
+        # checked against the heading title or the linked anchor, not the
+        # section title alone.
+        subname = subsection.group(1).strip(" :—–-")
+        if not subname:
+            found.append(
+                Finding(
+                    rel_path,
+                    line_no,
+                    ident,
+                    f"subsection reference {name!r} has no name; add the subsection title after the §",
+                )
+            )
+        elif not (section_title_agrees(subname, section) or title_agrees(subname, fragment)):
+            found.append(
+                Finding(
+                    rel_path,
+                    line_no,
+                    ident,
+                    f"subsection name {subname!r} matches neither heading title {section.title!r} nor the linked anchor",
+                )
+            )
+    elif name is None:
         found.append(
             Finding(
                 rel_path,
@@ -193,7 +280,10 @@ def check_reference(
                 (end, f" (*{section.short_name}*)"),
             )
         )
-    elif name is not None and not title_agrees(name, section.title):
+    elif not (
+        section_title_agrees(name, section)
+        or (fragment and title_agrees(name, fragment))
+    ):
         found.append(
             Finding(
                 rel_path,
@@ -205,6 +295,14 @@ def check_reference(
     if href is None:
         return found
     target, _, fragment = href.partition("#")
+    valid_anchors = set(section.anchors)
+    if subsection is not None:
+        # ``CS-4 §10`` points inside CS-4 at a subsection that lives under a
+        # numbered descendant (CS-4.10), so descendant anchors are valid too.
+        prefix = f"{ident}."
+        for key, child in index.items():
+            if key.startswith(prefix):
+                valid_anchors |= child.anchors
     if target:
         resolved = (root / rel_path).parent.joinpath(target).resolve()
         try:
@@ -226,7 +324,11 @@ def check_reference(
         found.append(
             Finding(rel_path, line_no, ident, "section-level reference links the file without its section anchor")
         )
-    elif fragment and fragment not in section.anchors:
+    elif fragment and fragment not in valid_anchors and not (
+        name is not None
+        and title_agrees(name, fragment)
+        and fragment in subsection_fragments(root, rel_path, target, section)
+    ):
         found.append(
             Finding(
                 rel_path,
@@ -256,6 +358,13 @@ def scan_line(
             name = name_from_link_text(link.group(1), normalize_id(ident)) if position == 0 else None
             if name is None and position == 0:
                 name = gloss_after(line[link.end() :])
+            elif position == 0 and name is not None:
+                sub = SUBSECTION_NAME_RE.match(name)
+                trailing = gloss_after(line[link.end() :])
+                if sub is not None and not sub.group(1).strip() and trailing:
+                    # ``[CS-2 §5.2](…) (*Reclassification…*)``: the gloss names
+                    # the subsection when the link text is only the number.
+                    name = f"{name} {trailing}"
             elif position == 0 and gloss_after(line[link.end() :]) is not None:
                 name = name  # name embedded in the link text wins
             findings.extend(
@@ -275,10 +384,18 @@ def scan_line(
         ident = id_match.group(1)
         before = line[: id_match.start()]
         after = line[id_match.end() :]
+        # ``CJS-3.*n*`` is a placeholder pattern, not a cite of CJS-3.
+        if re.match(r"[*_]*\.\*", after):
+            continue
         # Skip IDs that sit inside a gloss or a quoted label.
         if re.search(r"\(\*[^*)]*$", before):
             continue
         name = gloss_after(re.sub(r"^[*_]+", "", after))
+        if name is None and not re.match(r"[*_]*\s+[—–-]\s+§", after):
+            # ``**CS-4 — Critical system stewardship**``: a dash name counts.
+            dash = DASH_NAME_RE.match(after)
+            if dash is not None:
+                name = dash.group(1)
         findings.extend(
             check_reference(
                 root, rel_path, line_no, ident, None, name, index,
@@ -288,11 +405,29 @@ def scan_line(
     return findings
 
 
+def mask_fences(text: str) -> str:
+    """Blank fenced code; keep ``<details>`` widget bodies in scope.
+
+    Trace and D/A/C widgets are where most cross-family routing lives, so a
+    reference there needs a name like any other. The ``<details>``,
+    ``<summary>`` and ``</details>`` tag lines are skipped by ``is_exempt_line``.
+    """
+    out: list[str] = []
+    in_fence = False
+    for line in text.splitlines():
+        if FENCE_RE.match(line.strip()):
+            in_fence = not in_fence
+            out.append("")
+        else:
+            out.append("" if in_fence else line)
+    return "\n".join(out)
+
+
 def scan_text(
     root: Path, rel_path: str, text: str, index: dict[str, Section]
 ) -> list[Finding]:
     findings: list[Finding] = []
-    for line_no, line in enumerate(mask_details_and_fences(text).splitlines(), start=1):
+    for line_no, line in enumerate(mask_fences(text).splitlines(), start=1):
         findings.extend(scan_line(root, rel_path, line_no, line, index))
     return findings
 
@@ -359,6 +494,10 @@ def main() -> int:
             for line_no, inserts in lines_map.items():
                 text = lines[line_no - 1]
                 for col, glossed in sorted(set(inserts), reverse=True):
+                    # ``**CS-8 §9**``: a gloss after the ID would split the ID
+                    # from its § token; leave it for a person to name both.
+                    if re.match(r"\s*§", text[col:]):
+                        continue
                     text = text[:col] + glossed + text[col:]
                 lines[line_no - 1] = text
             path.write_text("\n".join(lines), encoding="utf-8")

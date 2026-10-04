@@ -14,12 +14,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [CF-7.1 Alignment rulings, component referral, and supervisory coordination](#cf-71-alignment-rulings-component-referral-and-supervisory-coordination); [CF-7.2 Constitutional alignment recognition and review](#cf-72-constitutional-alignment-recognition-and-review); [CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture](#cf-73-anti-self-judging-activation-capture-sensitive-routing-contest-integrity-interfaces-and-family-level-capture).
-- Read with: **CF-7**; **CF-7.1**; **CF-7.2**; **CF-7.3**; **CF-8**; **CF-9**; **CF-5**; **CF-6.1**; **CF-6.1.2**.
-- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13**.
-- Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*); primary owner **CI-12**.
-- Topic routing (primary owner): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-5**, **CI-7.3**.
+- Read with: **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **CF-7.1** (*Alignment rulings, component referral, and supervisory coordination*); **CF-7.2** (*Constitutional alignment recognition and review*); **CF-7.3** (*Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture*); **CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*); **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*).
+- Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13** (*Fallback operation*).
+- Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*); primary owner **CI-12** (*Cross-institution coordination and escalation*).
+- Topic routing (primary owner): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*).
 
 </details>
 
@@ -59,7 +59,7 @@
 
 This file is the forum implementation home for **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
-*In plain terms: **CF-7** (*Integrity safeguards and anti-capture*) stops a body from judging its own conduct, and stops an interested party from quietly capturing the body that reviews it. It covers alignment rulings, when a matter must be routed away from a compromised venue, and what happens when a whole forum family is compromised rather than a single member.*
+*In plain terms: **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) stops a body from judging its own conduct, and stops an interested party from quietly capturing the body that reviews it. It covers alignment rulings, when a matter must be routed away from a compromised venue, and what happens when a whole forum family is compromised rather than a single member.*
 
 **Chapter Twelve linkage.** This file implements the Chapter Twelve interfaces that Integrity forums need to run alignment work without becoming the general owner of constitutional routing:
 - **Section 4** authorizes Integrity forum alignment rulings and official constitutional alignment recognition or review for new and existing systems.
@@ -71,7 +71,7 @@ This file is the forum implementation home for **CF-7** (*Integrity safeguards, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.1**; **CF-8**; **CF-9**; **CF-5**; **CF-6.1**; **CF-6.1.2**; **CF-6.1.3**.
+- Read with: **CF-7.1** (*Alignment rulings, component referral, and supervisory coordination*); **CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*); **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*); **CF-6.1.3** (*Published Panel-Rule Disposition Effect*).
 
 </details>
 
@@ -79,7 +79,7 @@ This file is the forum implementation home for **CF-7** (*Integrity safeguards, 
 
 *In plain terms: How an Integrity forum handles a tangled, multi-part problem: keep one lead record, send each component to the body that properly owns it, and coordinate without absorbing everyone else's jurisdiction.*
 
-**Purpose.** Give adopting entities practical, reviewable mechanics for Integrity forums. Those mechanics must let the forum diagnose interlocking misalignment, keep one lead record, refer component issues to the constitutionally proper merits forum, and coordinate neutral implementation. They must remain consistent with **CF-8** (forensic support), **CF-9** (independent investigation interfaces where enforcement fact-development is implicated), and **CF-5** (routing, certification, and publication).
+**Purpose.** Give adopting entities practical, reviewable mechanics for Integrity forums. Those mechanics must let the forum diagnose interlocking misalignment, keep one lead record, refer component issues to the constitutionally proper merits forum, and coordinate neutral implementation. They must remain consistent with **CF-8** (*Forum forensic and analytical support*) (forensic support), **CF-9** (*Independent investigative service and prosecution interface*) (independent investigation interfaces where enforcement fact-development is implicated), and **CF-5** (*Routing operations, transfer, certification, and representative treatment*) (routing, certification, and publication).
 
 ### CF-7.1.1 Alignment Ruling Record
 
@@ -99,7 +99,7 @@ Adopting instruments must publish tie-break rules for ordering component referra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.1.3**; **CF-9**; **CJS-1.9**.
+- Read with: **CF-7.1.3** (*Neutral Supervisory Coordination*); **CF-9** (*Independent investigative service and prosecution interface*); **CJS-1.9** (*CJS-1.11: Support roles, hosting independence, and classification alignment*).
 
 </details>
 
@@ -115,19 +115,19 @@ Integrity forums must not issue final merits determinations reserved to another 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.1.5**; **CF-6.1**; **CF-6.1.2**; **CF-6.1.3**.
+- Read with: **CF-7.1.5** (*Disposition-Effect Labeling*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*); **CF-6.1.3** (*Published Panel-Rule Disposition Effect*).
 
 </details>
 
 <br>
 
-Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** when pattern or shared-practice stakes are material. Adopting instruments must not silently treat alignment rulings as **CF-6.1.3** general panel-rule doctrine when constitutional certification under `core_12_forum.md` **Chapter Twelve**, **section 5** is required.
+Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** (*Scope-Anchored Disposition Effect*) when pattern or shared-practice stakes are material. Adopting instruments must not silently treat alignment rulings as **CF-6.1.3** (*Published Panel-Rule Disposition Effect*) general panel-rule doctrine when constitutional certification under `core_12_forum.md` **Chapter Twelve**, **section 5** is required.
 
 ## CF-7.2 Constitutional alignment recognition and review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.2**; **CF-10**; **CJS-3**.
+- Read with: **CF-7.2** (*Constitutional alignment recognition and review*); **CF-10** (*Technical specialist forums and specialist chambers*); **CJS-3** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -135,13 +135,13 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 
 *In plain terms: How a system gets officially recognized as constitutionally aligned within a stated scope, and how that recognition is rechecked later. Recognition is contestable and does not expire into a permanent seal of approval.*
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_12_forum.md` **Chapter Twelve**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) and **CS-3 — System classification and handling** classification and revalidation duties.
+**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_12_forum.md` **Chapter Twelve**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*) and **CS-3 — System classification and handling** classification and revalidation duties.
 
 ### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.2.1**; **CF-10**.
+- Read with: **CF-7.2.1** (*Technical-Specification and Environmental-Component Separation*); **CF-10** (*Technical specialist forums and specialist chambers*).
 
 </details>
 
@@ -165,7 +165,7 @@ Alignment recognition or review must be available when any of the following mate
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.2.3**; **CJS-3**.
+- Read with: **CF-7.2.3** (*Minimum Recognition Record*); **CJS-3** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -174,7 +174,7 @@ Alignment recognition or review must be available when any of the following mate
 A recognition, validation, or revalidation record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
 - the CS-3 — System classification and handling classification, CS-4 — Critical system stewardship stewardship tier where applicable, and the evidence supporting those classifications;
-- the constitutional provisions, Rights-Floor obligations, CJS-3 (*Implementation and cross-implementation operational cluster library*) operational clusters, and implementation requirements treated as material;
+- the constitutional provisions, Rights-Floor obligations, CJS-3 (*operational cluster library (oDef)*) operational clusters, and implementation requirements treated as material;
 - where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, and testing evidence considered;
 - the audit, simulation, incident, red-team, stress, accessibility, and stakeholder-feedback evidence considered;
@@ -207,7 +207,7 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.3**; **CF-4.9**; **CF-4.10**; **CF-4.11**; **CF-5**; **CF-6**; **CF-8**; **CF-9**; [**CI-5**](../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md), **CI-7.3**, and **CI-8**.
+- Read with: **CF-7.3** (*Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture*); **CF-4.9** (*Inability to form an independent panel*); **CF-4.10** (*Certifier for inability-to-form findings*); **CF-4.11** (*Backup-forum activation*); **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-6** (*Appeal, secondary review, and exhaustion pathways*); **CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*); [**CI-5**](../corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*), **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*), and **CI-8** (*Transparency, participation, and accessible challenge and service pathways*).
 
 </details>
 
@@ -215,13 +215,13 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 
 *In plain terms: The machinery for moving a matter away from a body that cannot judge it impartially — including the severe case where an entire forum family, not just one member, has been compromised.*
 
-**Purpose.** Provide the forum-side mechanics for the Chapter Twelve cross-forum anti-self-judging rule, capture-sensitive routing, contest-integrity interfaces, and family-level capture activation. This subsection does not replace **CF-4** panel-formation rules, **CF-5** routing operations, **CF-8** forensic support, **CF-9** investigative-service boundaries, **CF-12** continuity rules, **CF-13** fallback rules, **CF-14** emergency-adjudication rules, or [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) contest-integrity monitoring. It tells those mechanisms what record, trigger, and boundary conditions must exist when the risk is that a forum, institution, system steward, or integrity process would otherwise judge its own capture, conflict, concealment, recusal failure, retaliation, or comparable process abuse.
+**Purpose.** Provide the forum-side mechanics for the Chapter Twelve cross-forum anti-self-judging rule, capture-sensitive routing, contest-integrity interfaces, and family-level capture activation. This subsection does not replace **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) panel-formation rules, **CF-5** (*Routing operations, transfer, certification, and representative treatment*) routing operations, **CF-8** (*Forum forensic and analytical support*) forensic support, **CF-9** (*Independent investigative service and prosecution interface*) investigative-service boundaries, **CF-12** (*Forum continuity*) continuity rules, **CF-13** (*Fallback operation*) fallback rules, **CF-14** (*Emergency adjudication*) emergency-adjudication rules, or [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md#ci-73-contest-integrity-monitoring-class-a-and-class-b) (*Contest-integrity monitoring (Class A and Class B)*) contest-integrity monitoring. It tells those mechanisms what record, trigger, and boundary conditions must exist when the risk is that a forum, institution, system steward, or integrity process would otherwise judge its own capture, conflict, concealment, recusal failure, retaliation, or comparable process abuse.
 
 ### CF-7.3.1 Activation Threshold
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.3.1**; **CF-4.9**.
+- Read with: **CF-7.3.1** (*Activation Threshold*); **CF-4.9** (*Inability to form an independent panel*).
 
 </details>
 
@@ -229,9 +229,9 @@ Recognition is scope-bound and time-bound by its stated cadence and reopening tr
 
 Anti-self-judging activation is available only where the record contains a non-frivolous, material basis to believe that ordinary routing would make the challenged forum family, institutional chain, or integrity process the sole final merits judge of its own integrity breach. The threshold may be met by:
 - credible allegations of capture, conflict, concealed dependency, retaliatory routing, recusal failure, evidence suppression, process abuse, or comparable integrity breach;
-- a documented inability to form an independent panel under **CF-4.9**;
+- a documented inability to form an independent panel under **CF-4.9** (*Inability to form an independent panel*);
 - a recusal or disclosure pattern that indicates coordinated manipulation, selective unavailability, or repeated failure to constitute a lawful bench;
-- contest-integrity findings under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) showing contest-pathway failure, chill, backlog abuse, evidence unavailability, or protected-escalation obstruction;
+- contest-integrity findings under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md#ci-73-contest-integrity-monitoring-class-a-and-class-b) (*Contest-integrity monitoring (Class A and Class B)*) showing contest-pathway failure, chill, backlog abuse, evidence unavailability, or protected-escalation obstruction;
 - system-alignment recognition or revalidation facts showing that the same steward, operator, forum chain, or oversight line materially controls the evidence, classification, review cadence, and contest pathway being challenged.
 
 Mere dissatisfaction with a ruling, captioning a claim against a forum, or naming a forum actor as a witness does not activate backup routing. The activation finding must explain why independent merits review is materially necessary to preserve independence, contestability, or public trust under Chapter Twelve.
@@ -262,13 +262,13 @@ Backup routing is limited to what is necessary to preserve a lawful and contesta
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.3.4**; **CF-7.2**.
+- Read with: **CF-7.3.4** (*Capture-Sensitive System-Alignment Review*); **CF-7.2** (*Constitutional alignment recognition and review*).
 
 </details>
 
 <br>
 
-For constitutional alignment recognition, validation, revalidation, withdrawal, or material condition-release under **CF-7.2**, the Integrity forum must make a capture-sensitive routing check when capture, misalignment, concealed behavior, evidence-control dependency, self-review, or contest-pathway failure is material. The check must state:
+For constitutional alignment recognition, validation, revalidation, withdrawal, or material condition-release under **CF-7.2** (*Constitutional alignment recognition and review*), the Integrity forum must make a capture-sensitive routing check when capture, misalignment, concealed behavior, evidence-control dependency, self-review, or contest-pathway failure is material. The check must state:
 - who controls the technical evidence, incident history, audit access, environmental component record, classification assumptions, and contest pathway;
 - whether the operator, steward, institutional sponsor, or forum-adjacent unit has a material incentive or dependency that could distort recognition or revalidation;
 - whether technical, Environment, Institutional, Sentient, or Constitutional component questions require referral, certification, or stay;
@@ -291,21 +291,21 @@ Where internal process remains available, the [forum case record](../core_05_ban
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.3.6**; **CF-4.10**; **CF-8**; **CF-9**.
+- Read with: **CF-7.3.6** (*Contest-Integrity Interface*); **CF-4.10** (*Certifier for inability-to-form findings*); **CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*).
 
 </details>
 
 <br>
 
-Contest-integrity monitors under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) assess whether contest, secondary review, audit access, and protected escalation pathways function in practice. They may provide pattern findings, contest-pathway records, independence observations, backlog data, escalation history, and evidence-availability information to support anti-self-judging activation, refusal, transfer, or remediation. They must not silently become the merits forum for the underlying dispute.
+Contest-integrity monitors under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md#ci-73-contest-integrity-monitoring-class-a-and-class-b) (*Contest-integrity monitoring (Class A and Class B)*) assess whether contest, secondary review, audit access, and protected escalation pathways function in practice. They may provide pattern findings, contest-pathway records, independence observations, backlog data, escalation history, and evidence-availability information to support anti-self-judging activation, refusal, transfer, or remediation. They must not silently become the merits forum for the underlying dispute.
 
-Where feasible in cross-forum anti-self-judging cases, the **CF-4.10** (*Certifier for inability-to-form findings*) certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-8** and from independent investigative-service work under **CF-9**. If monitor findings indicate material contest-pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-12** (*Cross-institution coordination and escalation*) escalation while preserving the assigned merits forum for the dispute.
+Where feasible in cross-forum anti-self-judging cases, the **CF-4.10** (*Certifier for inability-to-form findings*) certifier should include or obtain review from contest-integrity or equivalent independent assurance capacity. The resulting monitor material must be kept distinct from case-specific forensic support under **CF-8** (*Forum forensic and analytical support*) and from independent investigative-service work under **CF-9** (*Independent investigative service and prosecution interface*). If monitor findings indicate material contest-pathway failure beyond the case, the forum may refer the structural matter to remediation, external assurance, or **CI-12** (*Cross-institution coordination and escalation*) escalation while preserving the assigned merits forum for the dispute.
 
 ### CF-7.3.7 Recusal-Abuse and Routing-Abuse Detection
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.3.7**; **CF-12**; **CF-14**.
+- Read with: **CF-7.3.7** (*Recusal-Abuse and Routing-Abuse Detection*); **CF-12** (*Forum continuity*); **CF-14** (*Emergency adjudication*).
 
 </details>
 
@@ -318,13 +318,13 @@ Forum systems must track recusal, reassignment, transfer, threshold dismissal, b
 - using emergency, continuity, or restricted-evidence procedures to bypass recusal, publication, contest, or backup-forum obligations;
 - treating contest-integrity monitoring, forensic support, or internal integrity review as a substitute for the forum family assigned by Chapter Twelve.
 
-When such a pattern is material, the record must identify whether immediate backup routing, panel reconstitution, external assurance, **CI-12** (*Cross-institution coordination and escalation*) escalation, or continuity, fallback, or emergency-adjudication measures under **CF-12** through **CF-14** are required.
+When such a pattern is material, the record must identify whether immediate backup routing, panel reconstitution, external assurance, **CI-12** (*Cross-institution coordination and escalation*) escalation, or continuity, fallback, or emergency-adjudication measures under **CF-12** (*Forum continuity*) through **CF-14** (*Emergency adjudication*) are required.
 
 ### CF-7.3.8 Family-Level Capture Activation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.3.8**; **CF-14.3**.
+- Read with: **CF-7.3.8** (*Family-Level Capture Activation*); **CF-14.3** (*Restoration and reconciliation*).
 
 </details>
 

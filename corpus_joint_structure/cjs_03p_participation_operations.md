@@ -14,14 +14,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) constitutional compass.
+- Upstream: [CJS-1.3](cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: [CJS-3.1](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional compass and cluster map*) constitutional compass.
 
 </details>
 
 <br>
 
-This file is the joint-structure implementation home for **Participation leg (CJS-3.7–CJS-3.10 / oDef.7–oDef.10)**.
+This file is the joint-structure implementation home for **Participation leg (CJS-3.7 (*Participation: quorum and participatory legitimacy terms*)–CJS-3.10 (*Participation: disclosure sufficiency and observability terms*) / oDef.7–oDef.10)**.
 
 *In plain terms: These clusters carry the **Participation** leg into working terms: who must be in the room for a decision to count, whether what is disclosed can actually be understood, whether important information is buried under trivia, and whether enough is visible to contest an outcome at all.*
 
@@ -39,7 +39,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.11 and CJS-3.7**; **CJS-3.13**.
+- Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*) and **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 - Read with: **CJS-3.11** (*Accountability: distributed and proportional authority terms*), **CJS-3.7** (*Participation: quorum and participatory legitimacy terms*), and **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*) for authority, participation legitimacy, and procedural integrity terms
 - Read with: **Sentient Constitution Chapter Thirteen** section 4
 - Read with: **Chapter Six **Article X-B** (*Governance Participation and Voting Entitlement*)**
@@ -295,7 +295,7 @@ Weighted participation
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-3.8 — Comprehensibility and Cognitive Accessibility**
-- Read with: [**CS-6**](../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md)
+- Read with: [**CS-6**](../corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §5.2, §13.2, §19.1, §15 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -512,15 +512,15 @@ Summary integrity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.9 and CJS-3.10**; **CJS-3.10**; **CJS-3.21**.
+- Read with: **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 - Read with: **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*) and **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*) — System Status, Risk, and Scope Representation
-- Read with: **CJS-3.10 — Transparency and Disclosure**
+- Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **CJS-3.21 — Adversarial Robustness and Abuse Resistance**
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Six** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §3, §15.2, §6, §19.1, §15 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 
@@ -719,14 +719,14 @@ User agency and control
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-3.10**; **CJS-3.16**.
-- Read with: **CJS-3.10 — Transparency and Disclosure**
-- Read with: **CJS-3.16 — Dependency Awareness, Disclosure, and Risk Integrity** where dependencies matter
+- Read with: **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*).
+- Read with: **CJS-3.10 — Participation: disclosure sufficiency and observability terms**
+- Read with: **CJS-3.16 — Continuity: dependency integrity and disclosure terms, Disclosure, and Risk Integrity** where dependencies matter
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
 - Chapter One basis: §15.2, §18.2, §19.1, §15 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3**.
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 
 </details>
 

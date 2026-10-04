@@ -27,9 +27,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) purpose of the joint-structure layer; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (*Purpose of this layer*) purpose of the joint-structure layer; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers and **Def.*** / **oDef** homes; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-1.1: Anti-constitutional misconduct usage](#ci-11-anti-constitutional-misconduct-usage); [CI-1.2: Proportionality rule](#ci-12-proportionality-rule).
-- Read with: **CI-1**; [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-3**.
+- Read with: **CI-1** (*Scope, purpose, and legitimacy interface*); [CJS-1.0](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-10-purpose-of-this-layer) (*Purpose of this layer*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-3** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -61,12 +61,12 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 
 **What this layer owns**
 
-- institutional formation, design, appointment, conflict integrity, and procedure (**CI-3** through **CI-6**);
-- oversight, transparency, participation, and classification-linked institutional obligations (**CI-7** through **CI-9**);
-- public revenue, resource stewardship, cross-institution coordination, failure, sanctions, dissolution, and transition (**CI-10** through **CI-14**);
-- domain institutional interfaces (**CI-15** through **CI-25**);
-- compliance mapping and stable registry (**CI-26**);
-- remedy-systems institutional capacity (**CI-27**).
+- institutional formation, design, appointment, conflict integrity, and procedure (**CI-3** (*Institutional design, separation of powers, and authority custody*) through **CI-6** (*Procedure integrity, contestability, and secondary review*));
+- oversight, transparency, participation, and classification-linked institutional obligations (**CI-7** (*Oversight, assurance, controls, and evidence*) through **CI-9** (*Classification-linked institutional obligations*));
+- public revenue, resource stewardship, cross-institution coordination, failure, sanctions, dissolution, and transition (**CI-10** (*Public revenue, fees, recurring charges, and billing integrity*) through **CI-14** (*Transitional governance and institutional evolution*));
+- domain institutional interfaces (**CI-15** (*Neurodiversity, disability justice, and trauma-informed participation*) through **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*));
+- compliance mapping and stable registry (**CI-26** (*Compliance mapping and stable registry*));
+- remedy-systems institutional capacity (**CI-27** (*Remedy systems and institutional redress capacity*)).
 
 **What this layer does not own**
 
@@ -75,14 +75,14 @@ This file is the institutional implementation home for **CI-1** (*Scope, purpose
 - Rights Floors — those remain in Chapter Six;
 - system-class and steward taxonomies — those belong to **CS**;
 - forum-family operational doctrine under Chapter Twelve — those belong to **CF**;
-- anti-constitutional-misconduct designation — that remains in Chapter Eleven (see **CI-1.1** for how this layer uses the label).
+- anti-constitutional-misconduct designation — that remains in Chapter Eleven (see **CI-1.1** (*Anti-constitutional misconduct usage*) for how this layer uses the label).
 
 ## CI-1.1: Anti-constitutional misconduct usage
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [Chapter Eleven](../core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) designation; [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) standing measurement; and [Chapter Ten](../core_10_standing_integration.md) standing integration.
-- Read with: **CI-1.1**; **CI-13**; **CI-27**.
+- Read with: **CI-1.1** (*Anti-constitutional misconduct usage*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CI-27** (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -103,8 +103,8 @@ This layer does **not**:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [**CJS-3.11**](../corpus_joint_structure/cjs_03a_accountability_operations.md) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Read with: **CI-1.2**; **CJS-3.11**; **CJS-3.12**; **CJS-3.13**; **CI-9**.
+- Upstream: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack; [**CJS-3.11**](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-311-accountability-distributed-and-proportional-authority-terms) (*Accountability: distributed and proportional authority terms*) distributed and proportional authority terms; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Read with: **CI-1.2** (*Proportionality rule*); **CJS-3.11** (*Accountability: distributed and proportional authority terms*); **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*); **CI-9** (*Classification-linked institutional obligations*).
 
 </details>
 

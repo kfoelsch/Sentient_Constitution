@@ -14,10 +14,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-25.1: Publication intake and correction records](#ci-251-publication-intake-and-correction-records); [CI-25.2: Evidence, review, and reviewer custody](#ci-252-evidence-review-and-reviewer-custody); [CI-25.3: Challenge, correction, and access](#ci-253-challenge-correction-and-access); [CI-25.4: Incentive criteria](#ci-254-incentive-criteria); [CI-25.5: Ombuds, escalation, and technical forum referral](#ci-255-ombuds-escalation-and-technical-forum-referral).
-- Read with: **CI-25**; **CI-6**; **CI-12**.
-- Topic routing (mandatory read-with): **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-0.1** (*Topic router*); primary owner **CF-10**.
+- Read with: **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-12** (*Cross-institution coordination and escalation*).
+- Topic routing (mandatory read-with): **CJS-R09** (*Technical forums and specialist chambers*) in **CJS-0.1** (*Topic router*); primary owner **CF-10** (*Technical specialist forums and specialist chambers*).
 
 </details>
 
@@ -38,7 +38,7 @@
 
 This file is the institutional implementation home for **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*).
 
-*In plain terms: **CI-25** is the local owner map for publishing claims, peer review, replication, corrections, and keeping evidence trustworthy enough to rely on. Shared floors live in **CJS-3.5**; local duties sit in **CI-25.1** through **CI-25.5**.*
+*In plain terms: **CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*) is the local owner map for publishing claims, peer review, replication, corrections, and keeping evidence trustworthy enough to rely on. Shared floors live in **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); local duties sit in **CI-25.1** (*Publication intake and correction records*) through **CI-25.5** (*Ombuds, escalation, and technical forum referral*).*
 
 **Quick orientation**
 - **The basic idea** — material empirical or analytical claims must be publishable with enough method, provenance, uncertainty, and evidence detail for independent checking — not locked behind prestige gates or opaque editorial black boxes.
@@ -49,11 +49,11 @@ This file is the institutional implementation home for **CI-25** (*Scientific pu
 - **CI-25.2** — evidence, review, and reviewer custody: evidence packages, structured review, reviewer independence, and replication status.
 - **CI-25.3** — challenge, correction, and access: challenge lanes, correction history, verification access, and bundling justification.
 - **CI-25.4** — incentive criteria: rewards tied to evidence quality, not prestige proxies or hidden correction history.
-- **CI-25.5** — ombuds, escalation, and technical forum referral: dispute review, **CI-12** escalation, and **CF-10** specialist routes.
-- **Read with** — **CI-6** for local procedure maps; **CI-12** for cross-institution escalation; **CF-10** for technical specialist forum referral.
+- **CI-25.5** — ombuds, escalation, and technical forum referral: dispute review, **CI-12** (*Cross-institution coordination and escalation*) escalation, and **CF-10** (*Technical specialist forums and specialist chambers*) specialist routes.
+- **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-12** (*Cross-institution coordination and escalation*) for cross-institution escalation; **CF-10** (*Technical specialist forums and specialist chambers*) for technical specialist forum referral.
 
 *Shared rules live elsewhere.*
-- [**CJS-3.5**](../corpus_joint_structure/cjs_03o_oversight_operations.md) (*independent verification and claim-integrity terms*).
+- [**CJS-3.5**](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-35-oversight-independent-verification-and-claim-integrity-terms) (*independent verification and claim-integrity terms*).
 - **Article XVIII-E** (*Scientific Publication, Review, and Replication Integrity*).
 - **Chapter One** (*Truth*, epistemic disclosure constraints); **Article XVII-A** (*Lifecycle Governance and Environment Separation*).
 - **CF-10** (*Technical specialist forums and specialist chambers*) under **CJS-R09**.
@@ -65,7 +65,7 @@ This file is the institutional implementation home for **CI-25** (*Scientific pu
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-25.1**; **CI-25.2**.
+- Read with: **CI-25.1** (*Publication intake and correction records*); **CI-25.2** (*Evidence, review, and reviewer custody*).
 
 </details>
 
@@ -83,7 +83,7 @@ Each institution in scope must name and maintain locally:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-25.2**; **CI-25.1**; **CI-25.3**.
+- Read with: **CI-25.2** (*Evidence, review, and reviewer custody*); **CI-25.1** (*Publication intake and correction records*); **CI-25.3** (*Challenge, correction, and access*).
 
 </details>
 
@@ -102,7 +102,7 @@ Each institution in scope must name and maintain locally:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-25.3**; **CI-25.2**; **CI-25.4**.
+- Read with: **CI-25.3** (*Challenge, correction, and access*); **CI-25.2** (*Evidence, review, and reviewer custody*); **CI-25.4** (*Incentive criteria*).
 
 </details>
 
@@ -121,7 +121,7 @@ Each institution in scope must name and maintain locally:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-25.4**; **CI-25.3**.
+- Read with: **CI-25.4** (*Incentive criteria*); **CI-25.3** (*Challenge, correction, and access*).
 
 </details>
 
@@ -137,7 +137,7 @@ Each institution in scope must name and maintain locally:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-25.5**; **CI-6**; **CI-12**; **CF-10**.
+- Read with: **CI-25.5** (*Ombuds, escalation, and technical forum referral*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-12** (*Cross-institution coordination and escalation*); **CF-10** (*Technical specialist forums and specialist chambers*).
 
 </details>
 
@@ -148,10 +148,10 @@ Each institution in scope must name and maintain locally:
 Each institution in scope must name and maintain locally:
 
 - **ombuds or review-lane office** — a named body for publication, review, and replication disputes that is separated from revenue-dependent or prestige-dependent editorial control where material;
-- **CI-6 / CI-12 escalation route** — the published path when local review stalls, is captured, or cannot act independently; and
-- **CF-10 technical-forum referral route** — where science-facing specialist technical review under **CJS-R09** is required or appropriate.
+- **CI-6** (*Procedure integrity, contestability, and secondary review*) / **CI-12** (*Cross-institution coordination and escalation*) **escalation route** — the published path when local review stalls, is captured, or cannot act independently; and
+- **CF-10** (*Technical specialist forums and specialist chambers*) **technical-forum referral route** — where science-facing specialist technical review under **CJS-R09** is required or appropriate.
 
-Read **CI-6** and **CI-12** for local procedure maps and cross-institution escalation interfaces.
+Read **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Cross-institution coordination and escalation*) for local procedure maps and cross-institution escalation interfaces.
 
 ---
 

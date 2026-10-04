@@ -61,17 +61,17 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) section identifiers; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*) section identifiers; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Systems registry (stable section families)](#systems-registry-stable-section-families); [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex).
-- Read with: **CS-1**; **CJS-1.1**.
+- Read with: **CS-1** (*Scope, purpose, and boundary interface*); **CJS-1.1** (*Section identifiers and article references*).
 
 </details>
 
 <br>
 
-*In plain terms: labels like **CS-3 — System classification and handling** and **CS-5** are systems-implementation section numbers — not Sentient Constitution article numbers.*
+*In plain terms: labels like **CS-3 — System classification and handling** and **CS-5** (*User-facing capability surfaces*) are systems-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply **CJS-1.1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, **CS-1** through **CS-12** are systems implementation labels. They must not be read as Sentient Constitution **Article** or chapter numbers. The editor abbreviation **CS** may appear in owner tables, stable IDs, and short routing references, but citations should prefer `corpus_systems.md` plus the CS section label where practical.
+Apply **CJS-1.1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this folder specifically, **CS-1** (*Scope, purpose, and boundary interface*) through **CS-12** (*Decentralized continuity and partition resilience*) are systems implementation labels. They must not be read as Sentient Constitution **Article** or chapter numbers. The editor abbreviation **CS** may appear in owner tables, stable IDs, and short routing references, but citations should prefer `corpus_systems.md` plus the CS section label where practical.
 
 **Former-label aliases (this edition only).** Letter-named protocol labels remain readable as the CS family in the table below. New citations must use the **CS-N** identifier.
 
@@ -93,9 +93,9 @@ Unless another reference pattern is stated, **Article** labels with Roman numera
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex).
-- Read with: **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
+- Read with: **CS-1** (*Scope, purpose, and boundary interface*); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5** (*User-facing capability surfaces*).
 
 </details>
 
@@ -111,17 +111,17 @@ Grouped family list: [corpus_systems.md](../corpus_systems.md). Former protocol-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
 - Downstream: [Domain topic owner map (CS-D)](#domain-topic-owner-map-cs-d); [Systems overlap discipline](#systems-overlap-discipline); [Systems read-with pointers](#systems-read-with-pointers).
-- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids); **CJS-1.7**; **CJS-1.8**; [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); **CS-1**; **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**.
+- Read with: [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*); **CJS-1.7** (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); **CJS-1.8** (*Two-tier definition contract (binding abstraction + owner detail)*); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); **CS-1** (*Scope, purpose, and boundary interface*); **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5** (*User-facing capability surfaces*).
 
 </details>
 
 <br>
 
-*In plain terms: this annex tells integrators which systems file owns which systems-only topic. Cross-layer mandatory read-with stays in **CJS-0.1** — this file does not maintain a competing list.*
+*In plain terms: this annex tells integrators which systems file owns which systems-only topic. Cross-layer mandatory read-with stays in **CJS-0.1** — Cross-file routing.*
 
-**Domain-internal reading order (systems-only topics):** for classification, dependency typing, and stewardship scale, read **CS-2 — Information types and handling** → **CS-3 — System classification and handling** → **CS-4 — Critical system stewardship** before **CS-5–CS-12** unless a CS-D row below is the stated primary owner for the topic.
+**Domain-internal reading order (systems-only topics):** for classification, dependency typing, and stewardship scale, read **CS-2 — Information types and handling** → **CS-3 — System classification and handling** → **CS-4 — Critical system stewardship** before **CS-5** (*User-facing capability surfaces*)–**CS-12** (*Decentralized continuity and partition resilience*) unless a CS-D row below is the stated primary owner for the topic.
 
 When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Topic router (stable IDs)*) for the authoritative mandatory read-with list.
 
@@ -131,8 +131,8 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router.
-- Read with: **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5**; **CS-5, Part A**.
+- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router.
+- Read with: **CS-2 — Information types and handling**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-5** (*User-facing capability surfaces*); **CS-5** (*User-facing capability surfaces*), **Part A**.
 
 </details>
 
@@ -153,7 +153,7 @@ When a systems topic materially intersects **CI**, **CF**, or **CJS**, use [CJS-
 | **CS-D11** | Decentralized continuity and partition resilience | **CS-12** | **CS-5 §9**; **CS-4 — Critical system stewardship** where class scales continuity |
 | **CS-D12** | User-reachable capability surfaces | **CS-5, Part A** | **CS-2 — Information types and handling**; **CS-4** where inspectable action applies; **CS-6**; constitutional-operating owners remain Chapters Eight–Thirteen, **CF**, and **CI** |
 
-For **CS-D12**, the in-scope catalog is **CS-5, Part A**. Constitutional-operating surfaces (standing records, forum dockets, collective choice, remedy offices) stay with their existing owners. Coverage inventory (process support; cannot narrow; not a second **CF-15**): [`evidence/2026-09-10/cs_user_facing_software_audit.md`](../evidence/2026-09-10/cs_user_facing_software_audit.md).
+For **CS-D12**, the in-scope catalog is **CS-5** (*User-facing capability surfaces*), **Part A**. Constitutional-operating surfaces (standing records, forum dockets, collective choice, remedy offices) stay with their existing owners. Coverage inventory (process support; cannot narrow; not a second **CF-15** (*Standard records, forms, and evidence artifacts*)): [`evidence/2026-09-10/cs_user_facing_software_audit.md`](../evidence/2026-09-10/cs_user_facing_software_audit.md).
 
 **CS-D** row IDs are **corpus-local** domain-internal labels; they are **not** Sentient Constitution article numbers and do not replace **CJS-R** rows.
 
@@ -163,18 +163,18 @@ For **CS-D12**, the in-scope catalog is **CS-5, Part A**. Constitutional-operati
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) intentional overlap.
-- Read with: [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline); **CS-3 — System classification and handling**; **CS-5**; **CS-5, Part A**; **CS-6**.
+- Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*) intentional overlap.
+- Read with: [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*CJS-1.8.1: Drafting contracts and owner-to-CJS seam*); **CS-3 — System classification and handling**; **CS-5** (*User-facing capability surfaces*); **CS-5** (*User-facing capability surfaces*), **Part A**; **CS-6** (*Comprehensibility and complexity stewardship*).
 
 </details>
 
 <br>
 
-Some systems topics are **deliberately** split — for example taxonomy (**CS-2 — Information types and handling**), classification (**CS-3 — System classification and handling**), stewardship (**CS-4 — Critical system stewardship**), lifecycle engineering (**CS-5**), and user-reachable in-scope surfaces (**CS-5, Part A**). For those splits:
+Some systems topics are **deliberately** split — for example taxonomy (**CS-2 — Information types and handling**), classification (**CS-3 — System classification and handling**), stewardship (**CS-4 — Critical system stewardship**), lifecycle engineering (**CS-5** (*User-facing capability surfaces*)), and user-reachable in-scope surfaces (**CS-5** (*User-facing capability surfaces*), **Part A**). For those splits:
 
 - the **primary owner** named in the [Domain topic owner map (CS-D)](#domain-topic-owner-map-cs-d) states the **full operative** rules for its assigned scope;
-- adopted implementation text **CS-5–CS-12** families specialize without redefining **CS-2–CS-4** taxonomy labels;
-- do **not** restate **CJS-3** operational clusters or **CI**/**CF** checklists except in brief pointer form when needed for coherence.
+- adopted implementation text **CS-5** (*User-facing capability surfaces*)–**CS-12** (*Decentralized continuity and partition resilience*) families specialize without redefining **CS-2** (*Information types and handling*)–**CS-4** (*Critical system stewardship*) taxonomy labels;
+- do **not** restate **CJS-3** (*operational cluster library (oDef)*) operational clusters or **CI**/**CF** checklists except in brief pointer form when needed for coherence.
 
 For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-17-intentional-overlap-non-duplication-discipline) (*Intentional overlap (non-duplication discipline)*).
 
@@ -185,13 +185,13 @@ For cross-layer overlap discipline, apply [CJS-1.7](../corpus_joint_structure/cj
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Systems domain routing (integrator annex)](#systems-domain-routing-integrator-annex); [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) combined satisfaction and default reading stack.
-- Read with: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references); [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail); **CS-1**.
+- Read with: [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations); [CJS-1.1](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-11-section-identifiers-and-article-references) (*Section identifiers and article references*); [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*); **CS-1** (*Scope, purpose, and boundary interface*).
 
 </details>
 
 <br>
 
-When systems implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) routes for the topic.
+When systems implementation text intersects other implementation layers, apply the default reading stack in [Chapter One §15.4.4](../core_01_b_interaction_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined satisfaction of jointly applicable incorporated obligations*). Within that stack, read only what [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) routes for the topic.
 
 Systems-local abstractions may specialize **CJS** joint operational definitions cited in owner text but must not redefine constitutional terms or create parallel constitutional definitions. For the two-tier definition contract, apply [CJS-1.8](../corpus_joint_structure/cjs_04_drafting_contracts.md#cjs-18-two-tier-definition-contract-binding-abstraction--owner-detail) (*Two-tier definition contract (binding abstraction + owner detail)*).
 

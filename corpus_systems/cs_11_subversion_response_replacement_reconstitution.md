@@ -14,9 +14,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XX**; **Article XXIV**; **Article XXVII-A**; **Article XXVII-C**; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
+- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XX** (*Justice After Verified Violation*); **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
 - Downstream: [§1](#cs-11-1-purpose-and-role); [§2](#cs-11-2-landscape-compromise-declaration-and-activation); [§4](#cs-11-4-governance-continuity-under-multi-node-compromise); [§8](#cs-11-8-exit-restoration-and-post-incident-revalidation).
-- Read with: **CS-11**; **CS-5**; **CS-7**; **CS-10**; **CJS-3.20**; **CJS-3.13**.
+- Read with: **CS-11** (*Subversion response, replacement, and reconstitution*); **CS-5** (*User-facing capability surfaces*); **CS-7** (*Justice safeguards, restitution, and rehabilitation*); **CS-10** (*Transition constitution and migration governance*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 
 </details>
 
@@ -36,7 +36,7 @@
 
 This file is the systems implementation home for **CS-11** (*Subversion response, replacement, and reconstitution*).
 
-*In plain terms: **CS-11** is the response when constitutional systems are not merely failing but actively subverted, possibly several at once. It sets when a compromise may be declared, how authority is replaced without inventing a permanent emergency power, and how a legitimate system is rebuilt afterwards.*
+*In plain terms: **CS-11** (*Subversion response, replacement, and reconstitution*) is the response when constitutional systems are not merely failing but actively subverted, possibly several at once. It sets when a compromise may be declared, how authority is replaced without inventing a permanent emergency power, and how a legitimate system is rebuilt afterwards.*
 <a id="cs-11-1-purpose-and-role"></a>
 ## CS-11.1 Purpose and role
 
@@ -146,7 +146,7 @@ Replacement planning must include compatibility and exit-integrity protections s
 
 Response plans must treat supply-chain compromise as a first-class constitutional integrity threat. They must:
 - **identify critical upstream and downstream dependencies and trust boundaries**
-- **coordinate cross-jurisdiction containment, recognition, and fallback enforcement** consistent with **CS-7 §9** (*Cross-Jurisdiction Execution and Anti-Evasion Controls*)
+- **coordinate cross-jurisdiction containment, recognition, and fallback enforcement** consistent with **CS-7** (*Justice safeguards, restitution, and rehabilitation*) **§9** (*Cross-Jurisdiction Execution and Anti-Evasion Controls*)
 - **maintain continuity obligations** across affiliates, successor entities, and delegated operators
 - **escalate anti-evasion controls** when adversaries use relabeling, jurisdiction transfer, or proxy structures during active response
 

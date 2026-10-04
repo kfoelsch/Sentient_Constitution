@@ -189,15 +189,15 @@ flowchart TB
     subgraph Agrid[" "]
         direction TB
         subgraph Arow1["Articles I–II"]
-            A1["Article I · Environmental Survival<br/><br/>• Environmental preconditions<br/>• Ecological footprint<br/>• Intergenerational responsibility<br/>• Existential risk and recovery"]
-            A2["Article II · Material Stewardship and Durable-Use Integrity<br/><br/>• Lifecycle honesty<br/>• Repair and servicing<br/>• Designed obsolescence<br/>• Post-sale access<br/>• Data handling and network dependency<br/>• Continuity and operator shutdown"]
+            A1["**Article I** (*Environmental Survival*) · Environmental Survival<br/><br/>• Environmental preconditions<br/>• Ecological footprint<br/>• Intergenerational responsibility<br/>• Existential risk and recovery"]
+            A2["**Article II** (*Material Stewardship and Durable-Use Integrity*) · Material Stewardship and Durable-Use Integrity<br/><br/>• Lifecycle honesty<br/>• Repair and servicing<br/>• Designed obsolescence<br/>• Post-sale access<br/>• Data handling and network dependency<br/>• Continuity and operator shutdown"]
         end
         subgraph Arow2["Articles III–IV"]
-            A3["Article III · Survival and Essential Access<br/><br/>• Survival<br/>• Healthcare access<br/>• Labor and economic floor<br/>• Safe working conditions<br/>• Rest and recuperation"]
-            A4["Article IV · Right to Sentient-Centered Education<br/><br/>• Equal educational access<br/>• Capability-building education<br/>• Lifelong adaptive learning<br/>• Contestability"]
+            A3["**Article III** (*Survival and Essential Access*) · Survival and Essential Access<br/><br/>• Survival<br/>• Healthcare access<br/>• Labor and economic floor<br/>• Safe working conditions<br/>• Rest and recuperation"]
+            A4["**Article IV** (*Right to Sentient-Centered Education*) · Right to Sentient-Centered Education<br/><br/>• Equal educational access<br/>• Capability-building education<br/>• Lifelong adaptive learning<br/>• Contestability"]
         end
-        subgraph Arow3["Article V"]
-            A5["Article V · Resource Allocation, Dependencies, and Ecosystem Funding<br/><br/>• Dependency mapping<br/>• Cross-system fairness"]
+        subgraph Arow3["**Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*)"]
+            A5["**Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) · Resource Allocation, Dependencies, and Ecosystem Funding<br/><br/>• Dependency mapping<br/>• Cross-system fairness"]
         end
     end
     %% Invisible links force a two-wide grid: each link puts its target one level down.
@@ -608,7 +608,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 - Read with: **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Article IX-B](core_06_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*) — data ownership and other sentients' shares in the same data.
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation) — records that deletion must not defeat.
-- Read with: **Article XXVII-A** ([preservation over deletion for possible sentients](core_06_rights_part_e.md#xxvii-a-preservation-over-deletion)).
+- Read with: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) ([preservation over deletion for possible sentients](core_06_rights_part_e.md#xxvii-a-preservation-over-deletion)).
 
 </details>
 
@@ -629,7 +629,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 
 This Article sets out the floors for product data handling, collection notice, deletion, and network dependency:
 
-- **Data handling:** Operators must classify and handle data under this Article as [CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md) requires, where incorporated under [Chapter Seventeen](core_17_incorporation.md). This includes the notice and deletion rules in [CS-2 §1.3](corpus_systems/cs_02_a_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-2 §1.2](corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
+- **Data handling:** Operators must classify and handle data under this Article as [CS-2 — Information types and handling](corpus_systems/cs_02_a_information_types_and_handling.md) requires, where incorporated under [Chapter Seventeen](core_17_incorporation.md). This includes the notice and deletion rules in [CS-2 §1.3 collection notice and deletion](corpus_systems/cs_02_a_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-2 §1.2 continuity-critical collection and exportability](corpus_systems/cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
 - **Data collection notice:** Producers and operators of any product, device, or service that collects, infers, or transmits data about sentients must tell them, before collection begins and in a form they can find and understand:
   - what data is collected or inferred;
   - the purpose of each kind of data;
@@ -649,7 +649,7 @@ This Article sets out the floors for product data handling, collection notice, d
   - evidence preservation, audit, or a lawful hold under **Article XVI** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](core_05_band_oversight.md#evidence-preservation);
   - another sentient's own rights in the same data under **Article IX-B** (*Experiential and Derived Data Rights*);
   - official records this Constitution requires to be kept, such as [Act Records](core_05_band_accountability.md#materially-binding-act-record), [Standing Records](core_05_band_accountability.md#standing-record-chapter-six), and records needed for [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional);
-  - preservation duties under **Article XXVII-A** where a credible sentience indicator is on the record; or
+  - preservation duties under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) where a credible sentience indicator is on the record; or
   - product functionality the sentient still wants, kept only with their ongoing **Consent**. A deletion request withdraws that consent for the data it covers.
   
   Kept data must be limited to what that reason needs and used for nothing else. The sentient must be told what was kept, why, and for how long, and may challenge the decision under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
@@ -744,7 +744,7 @@ This Article states **constitutional floors** for survival and equal access unde
 - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs — with no single funding model prescribed;
 - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
 
-Those rules may structure delivery. They must not be used to defeat any floor in this Article or to impose invidious exclusion contrary to this Article or **Article VI**.
+Those rules may structure delivery. They must not be used to defeat any floor in this Article or to impose invidious exclusion contrary to this Article or **Article VI** (*Equal Basic Rights*).
 
 - **Fiscal orientation:** Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by:
   - [**CI-9**](corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*);
@@ -758,7 +758,7 @@ Those rules may structure delivery. They must not be used to defeat any floor in
 
 - Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), and [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency).
 - Read with: Flourishing measurement family (*Survival-floor access as constitutional measurement*); [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** in allocation and contest pathways, **oversight** and audit, **accountability** and remedy, **timeliness** under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** (survival-essential access) and **Continuity** (durable supply and non-regressive delivery).
-- Read with: [**Article XXVII-D**](core_06_rights_part_e.md#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) for how essential environments are kept running and cared for during transition. The detailed rules are in [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) through [**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements).
+- Read with: [**Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*)](core_06_rights_part_e.md#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) for how essential environments are kept running and cared for during transition. The detailed rules are in [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*non-compliant property, seizure, voluntary incentives*) through [**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements) (*operative transition-scoped remediation requirements*).
 - Read with: Chapter Five [*Occupancy Continuity*](core_05_band_continuity.md#occupancy-continuity-constitutional) and [*Essential-Environment Non-Commodification*](core_05_band_continuity.md#essential-environment-non-commodification-constitutional); where applicable, the joint-invocation cluster at [**§3.7** *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster).
 - Downstream: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) and [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where systems gate or sustain delivery; **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*); **Article XIX-B** (*Contestability and Proportional Restriction Limits*); [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together).
 
@@ -829,10 +829,10 @@ This Article sets out the right to care, the rules that keep it from being denie
 
 - **Right to care:** Every sentient has the right to the care needed to preserve life, function, and dignity. Under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), this covers every kind of body and substrate. It includes:
   - preventive, urgent, long-term, and maintenance care;
-  - mental-health care (see [**Article VII-C**](core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*) for crises and involuntary intervention); and
+  - mental-health care (see [**Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)](core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*) for crises and involuntary intervention); and
   - processing and substrate maintenance for synthetic sentients.
   
-  This right sits alongside the food, water, and shelter rights in [**Article III-A**](#article-iii-a-survival) (*Survival*).
+  This right sits alongside the food, water, and shelter rights in [**Article III-A** (*Survival*)](#article-iii-a-survival) (*Survival*).
 - **No denial through the back door:** Care may not be denied or materially degraded in ways that defeat this right — for example through:
   - insurance, allocation, or eligibility rules;
   - leaving providers out of a network;
@@ -843,12 +843,12 @@ This Article sets out the right to care, the rules that keep it from being denie
   What counts is whether the sentient can actually get adequate care, not how the rule looks on paper.
 - **Same right for every substrate:** Synthetic sentients have the same right to care as biological ones. No default rule may exclude substrate maintenance, and calling it "not medical" is not a valid reason to refuse it where refusing would defeat this right.
 - **Receiving care versus being required to accept it:** This Article gives every sentient a right to receive care. It is not, by itself, a basis for requiring anyone to accept care. Care may be required only through the constitutionally valid limits on self-ownership set elsewhere — for example:
-  - public-health measures such as vaccination requirements, which must meet the safeguards in [**Article VII-A**](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*, *Public-health requirements*); and
-  - intervention without consent during a physical or mental health crisis — for example, where a sentient is unconscious, or is a danger to themselves or others — which is governed by [**Article VII-C**](core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*) and must be the least intrusion necessary, time-limited, independently reviewed, and reversible.
+  - public-health measures such as vaccination requirements, which must meet the safeguards in [**Article VII-A** (*Self-Ownership of Body*)](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*, *Public-health requirements*); and
+  - intervention without consent during a physical or mental health crisis — for example, where a sentient is unconscious, or is a danger to themselves or others — which is governed by [**Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*)](core_06_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*) and must be the least intrusion necessary, time-limited, independently reviewed, and reversible.
   
-  Emergency measures are also subject to [**Chapter Twelve §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B**](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
-- **Limits and implementation:** Beyond the limits in [**Article III**](#article-iii-survival-and-essential-access), any limit on care must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
-  - Cost, distribution, workforce, and system design are handled by the CI-9 through CI-11 instruments named in [**Article III**](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Seventeen** discipline.
+  Emergency measures are also subject to [**Chapter Twelve §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
+- **Limits and implementation:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on care must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
+  - Cost, distribution, workforce, and system design are handled by the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) instruments named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Seventeen** discipline.
   - None of that text may be read to narrow this right.
 
 #### Article III-C: Labor and Economic Floor
@@ -858,8 +858,8 @@ This Article sets out the right to care, the rules that keep it from being denie
 
 - Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), [§19.1.3 Stewardship and Operator Application](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
 - Downstream: **Article III-A** (*Survival*) survival floor (read-on-top-of, not substitute-for), **Article IV-A** (*Equal Educational Access*) educational access, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article X-C** (*Stakeholder Role and Participation Rights*) free association, **Article XIX** (*Standing and Participation Status*) standing and participation, **Chapter One §11** non-concentration (explicit: §6 alone does not satisfy this floor).
-- Read with: [**Article III-D**](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*) and [**Article III-E**](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*); [**Article XI-E**](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) for starting new enterprises.
-- Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Anti-Displacement Floor*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, occupancy continuity, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [Chapter Five *Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 / CI-10 / CI-11 fiscal material; `corpus_systems.md` CS-5 safety profile for *Safe Conditions*.
+- Read with: [**Article III-D** (*Safe Working Conditions*)](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*) and [**Article III-E** (*Rest and Recuperation*)](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*); [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) for starting new enterprises.
+- Read with: Chapter Five *Fair Compensation*, *Collective Organization*, *Anti-Displacement Floor*, *Indigenous Continuity*, and *Language, Culture, and Heritage*; [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where survival, bodily-maintenance access, occupancy continuity, rest, safe labor conditions, anti-displacement, environmental preconditions, or place-linked continuity are materially implicated together); [Chapter Five *Assembly, collective organization, and institutional formation*](core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) (where assembly and collective-organization pathways are jointly implicated). Implementation routing: `corpus_institutions.md` CI-9 (*Classification-linked institutional obligations*) / CI-10 (*Public revenue, fees, recurring charges, and billing integrity*) / CI-11 (*Resource stewardship and incentive integrity*) fiscal material; `corpus_systems.md` CS-5 (*User-facing capability surfaces*) safety profile for *Safe Conditions*.
 
 </details>
 
@@ -890,7 +890,7 @@ This Article sets out the labor and economic floor — fair compensation, collec
   - [Collective Organization](core_05_band_participation.md#collective-organization-constitutional); and
   - labor mobility.
   
-  [**Article III-D**](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*) protects the conditions of work, and [**Article III-E**](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*) protects time away from it.
+  [**Article III-D** (*Safe Working Conditions*)](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*) protects the conditions of work, and [**Article III-E** (*Rest and Recuperation*)](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*) protects time away from it.
   
   This floor builds on the **Article III-A** (*Survival*) survival floor; it does not replace it. Meeting survival requirements alone is not enough to satisfy this Article. Meeting **Chapter One §11** (*Market Structure*) non-concentration rules alone is not enough either.
 - **Fair compensation:** Compensation for productive activity must:
@@ -906,14 +906,14 @@ This Article sets out the labor and economic floor — fair compensation, collec
   - Collective-organization pathways in scope include unions, cooperatives, guilds, associations, worker councils, and comparable substrate-agnostic forms.
   - Retaliation, surveillance, or targeting of collective-organization activity is non-compliant, consistent with **Article X-C** (*Stakeholder Role and Participation Rights*) and **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
   - Reclassifying workers into categories designed to defeat collective-organization pathways is non-compliant, regardless of the formal classification label.
-  - Founding a new enterprise or other institution, rather than organizing within an existing one, is covered by [**Article XI-E**](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
+  - Founding a new enterprise or other institution, rather than organizing within an existing one, is covered by [**Article XI-E** (*Institutional Formation and Business Creation*)](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 - **Labor mobility:** Non-compete and no-poach agreements are prohibited in any form, scope, or duration. They may not be imposed in employment, operator, steward, platform, or comparable productive-activity arrangements. Wage-fixing, excessive non-solicitation, and other mobility-restricting terms that suppress fair bargaining or productive mobility remain non-compliant where they materially degrade this floor.
 - **Non-concentration, pro-competition, and consolidation-ceiling interaction:** **Chapter One §11** (*Market Structure*) non-concentration discipline, **§11.2** (*Pro-Competition and Anti-Domination*) pro-competition / anti-domination discipline, and **§11.3** (*Consolidation Ceiling*) consolidation-ceiling discipline apply to productive-activity power structures, but they are distinct from this floor.
-  - A market structure that satisfies non-concentration while failing Fair Compensation or Collective Organization is non-compliant under this Article; one that fails Safe Conditions or Leisure and Rest is non-compliant under [**Article III-D**](#article-iii-d-safe-working-conditions) or [**Article III-E**](#article-iii-e-rest-and-recuperation).
+  - A market structure that satisfies non-concentration while failing Fair Compensation or Collective Organization is non-compliant under this Article; one that fails Safe Conditions or Leisure and Rest is non-compliant under [**Article III-D** (*Safe Working Conditions*)](#article-iii-d-safe-working-conditions) or [**Article III-E** (*Rest and Recuperation*)](#article-iii-e-rest-and-recuperation).
   - A productive-activity structure that satisfies this Article while concentrating power contrary to **Chapter One §11** (*Market Structure*) is non-compliant under that section.
   - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter One §11.2** (*Pro-Competition and Anti-Domination*), **[CJS-3.11.2 Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog)**, **§11.3** (*Consolidation Ceiling*), and this Article when they materially apply.
-- **Limits and implementation routing:** Beyond the limits in [**Article III**](#article-iii-survival-and-essential-access), any limit on **Fair Compensation**, **Collective Organization**, or labor mobility must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
-  - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-9 through CI-11 instruments named in [**Article III**](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Seventeen** incorporation discipline.
+- **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on **Fair Compensation**, **Collective Organization**, or labor mobility must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
+  - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) instruments named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Seventeen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-D: Safe Working Conditions
@@ -922,8 +922,8 @@ This Article sets out the labor and economic floor — fair compensation, collec
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), and [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline).
-- Downstream: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability as it bears on working conditions; `corpus_systems.md` CS-5 safety profiles.
-- Read with: [**Article III-C**](#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) and [**Article III-E**](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*); Chapter Five [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint) for safety outside productive activity; [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where safe labor conditions, rest, bodily-maintenance access, occupancy continuity, anti-displacement, or environmental preconditions are materially implicated together).
+- Downstream: **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability as it bears on working conditions; `corpus_systems.md` CS-5 (*User-facing capability surfaces*) safety profiles.
+- Read with: [**Article III-C** (*Labor and Economic Floor*)](#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) and [**Article III-E** (*Rest and Recuperation*)](#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*); Chapter Five [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint) for safety outside productive activity; [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where safe labor conditions, rest, bodily-maintenance access, occupancy continuity, anti-displacement, or environmental preconditions are materially implicated together).
 
 </details>
 
@@ -947,11 +947,11 @@ This Article sets out the safe-working-conditions floor, its equal application a
 - **Safe working conditions:** Productive activity must be carried out under conditions that meet [Safe Conditions](core_05_band_continuity.md#safe-conditions-constitutional). The protection covers those doing the work and those affected by it; safety outside productive activity falls under [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint). Those conditions must:
   - apply to every substrate;
   - protect in practice, not just on paper;
-  - integrate with **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability and with `corpus_systems.md` CS-5 safety profiles where applicable; and
+  - integrate with **Article XIII-A** (*Reliability and Trustworthiness Baseline*) reliability and with `corpus_systems.md` CS-5 (*User-facing capability surfaces*) safety profiles where applicable; and
   - account for foreseeable risk under [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), not only under ideal conditions.
 - **Equal protection across substrates:** Withholding Safe Conditions, or applying a weaker standard, because of substrate or implementation classification rather than materially comparable risk is non-compliant under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
-- **Limits and implementation routing:** Beyond the limits in [**Article III**](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
-  - Standards-setting for Safe Conditions routes to `corpus_systems.md` CS-5 and to the CI-9 through CI-11 instruments named in [**Article III**](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Seventeen** incorporation discipline.
+- **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
+  - Standards-setting for Safe Conditions routes to `corpus_systems.md` CS-5 (*User-facing capability surfaces*) and to the CI-9 (*Classification-linked institutional obligations*) through CI-11 (*Resource stewardship and incentive integrity*) instruments named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Seventeen** incorporation discipline.
   - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-E: Rest and Recuperation
@@ -960,7 +960,7 @@ This Article sets out the safe-working-conditions floor, its equal application a
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline).
-- Read with: [**Article III-C**](#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) and [**Article III-D**](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*); [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where rest, safe labor conditions, bodily-maintenance access, or occupancy continuity are materially implicated together).
+- Read with: [**Article III-C** (*Labor and Economic Floor*)](#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) and [**Article III-D** (*Safe Working Conditions*)](#article-iii-d-safe-working-conditions) (*Safe Working Conditions*); [Chapter Five §3.7 *Bodily-Maintenance Access, Safe Conditions, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, Rest, and Anti-Displacement Floor*](core_05_band_continuity.md#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster) (where rest, safe labor conditions, bodily-maintenance access, or occupancy continuity are materially implicated together).
 
 </details>
 
@@ -984,7 +984,7 @@ This Article sets out the right to rest, the rules that keep it from being defea
 - **No defeat through pay or productivity schemes:** Compensation and productivity-requirement schemes must not be structured to defeat this right.
 - **Every substrate:** Treating rest and recuperation as optional because of substrate or implementation classification is non-compliant under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
 - **What this does not do:** This floor is measured by whether agency, wellbeing, and participation capacity are preserved, not by fixed hours. Ordinary schedules and contractual rest terms that leave a sentient able to preserve them are not affected.
-- **Limits:** Beyond the limits in [**Article III**](#article-iii-survival-and-essential-access), any limit on rest must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
+- **Limits:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on rest must also satisfy [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional).
 
 ### Article IV: Right to Sentient-Centered Education
 
@@ -1041,7 +1041,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency).
-- Upstream: Chapter One [§16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) for the governance aim in *Purpose of education*; the fairness, accessibility, and limitation principles applied throughout **Article IV**.
+- Upstream: Chapter One [§16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding) for the governance aim in *Purpose of education*; the fairness, accessibility, and limitation principles applied throughout **Article IV** (*Right to Sentient-Centered Education*).
 - Read with: **Articles IV-B** (*Capability-Building Education Right*) and **IV-C** (*Lifelong and Adaptive Learning and Contestability*) for what education should build, lifelong and adaptive learning, and transparency rules for educational systems with significant impact.
 
 </details>
@@ -1070,8 +1070,8 @@ This Article sets out what education is for, the equal-access floor, and its lim
   - support honest communication and shared understanding in the info-sphere;
   - take part in governance under this Constitution and in the systems where they hold a [stakeholder role](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights); and
   - reduce avoidable harm.
-- **Equal access and accessibility:** The fair-access and accessibility principles in [**Article IV**](#article-iv-right-to-sentient-centered-education) apply to both admission and progress in education, including disability accommodations and support for differences in how learners sense, think, or function.
-- **Limits:** Beyond the limits in [**Article IV**](#article-iv-right-to-sentient-centered-education), any restriction or difference in treatment must also be consistent with **Articles VI-A** and **VI-C** and with Chapter Five [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) where they apply.
+- **Equal access and accessibility:** The fair-access and accessibility principles in [**Article IV** (*Right to Sentient-Centered Education*)](#article-iv-right-to-sentient-centered-education) apply to both admission and progress in education, including disability accommodations and support for differences in how learners sense, think, or function.
+- **Limits:** Beyond the limits in [**Article IV** (*Right to Sentient-Centered Education*)](#article-iv-right-to-sentient-centered-education), any restriction or difference in treatment must also be consistent with **Articles VI-A** and **VI-C** and with Chapter Five [Substantive Fairness](core_05_band_participation.md#substantive-fairness-constitutional) where they apply.
 
 #### Article IV-B: Capability-Building Education Right
 <details>

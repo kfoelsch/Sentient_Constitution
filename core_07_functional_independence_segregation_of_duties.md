@@ -39,7 +39,7 @@ Chapter Seven is the constitutional owner of the **functional-independence and s
 
 - Upstream: chapter opening owner claim; [Chapter One §18](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [Oversight](core_05_apex_oversight_leg.md#oversight-constitutional); [Accountability](core_05_apex_accountability_leg.md#accountability).
 - Downstream: [§2](#2-four-seat-constitutional-floor) through [§8](#8-relationship-to-later-processes); every later process that produces or changes a materially binding act.
-- Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) for verification substrate; [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) for challenge and redress; [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) for independent-verification Rights Floors.
+- Read with: [Chapter Four](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) for verification substrate; [Article XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) for challenge and redress; [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for independent-verification Rights Floors.
 
 </details>
 
@@ -74,7 +74,7 @@ This chapter states the cross-process segregation-of-duties floor. It does not r
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§1](#1-purpose-scope-and-owner-boundary); [Chapter One §18.3](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties); [Chapter One §17.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard).
-- Downstream: [§3](#3-independence-conflict-and-control-lines) through [§8](#8-relationship-to-later-processes); [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog).
+- Downstream: [§3](#3-independence-conflict-and-control-lines) through [§8](#8-relationship-to-later-processes); [CI-4.6](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog — process-role archetypes and operational boundaries*).
 - Read with: [§5](#5-proportional-scaling-and-merged-hosting) for the only permitted merged-hosting path.
 
 </details>
@@ -165,9 +165,9 @@ The functional four-seat floor applies at every class. The class-scaled question
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Downstream: [§4](#4-published-placement-vacancy-and-substitution); [§7](#7-act-records-attributable-handoffs-and-wrong-seat-routing); Chapter Eight certification component roles; Chapter Nine record custody; Chapter Twelve forum anti-self-judging.
-- Read with: [Material Control Line](core_05_band_accountability.md#material-control-line); [CI-5](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) and [CF-7](corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) for operational conflict and anti-self-judging safeguards.
+- Read with: [Material Control Line](core_05_band_accountability.md#material-control-line); [CI-5](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-7](corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
 
 </details>
 
@@ -193,7 +193,7 @@ Independence is not satisfied by a second signature, a nominal committee, an int
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-floor); [§3](#3-independence-conflict-and-control-lines); [Transparency](core_05_band_oversight.md#transparency); [Auditability](core_05_band_oversight.md#auditability).
-- Downstream: [§7](#7-act-records-attributable-handoffs-and-wrong-seat-routing); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes); [CI-4.5](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains); Chapter Eight and Chapter Nine records.
+- Downstream: [§7](#7-act-records-attributable-handoffs-and-wrong-seat-routing); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Functional separation lanes*); [CI-4.5](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-45-authorized-roles-and-accountability-chains) (*Authorized roles and accountability chains*); Chapter Eight and Chapter Nine records.
 - Read with: [Charter](core_05_band_continuity.md#charter) and [Chapter Thirteen §5](core_13_governance.md#5-authorized-roles-competency-development-and-contribution).
 
 </details>
@@ -221,7 +221,7 @@ Delegation preserves the same seat boundary, evidence duties, record, and clock,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-floor); [material stake](core_00_preamble.md#material-stake); [Necessity](core_05_band_accountability.md#necessity); [Proportionality](core_05_band_accountability.md#proportionality).
-- Downstream: [Chapter Nine §3.7](core_09_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes).
+- Downstream: [Chapter Nine §3.7](core_09_standing_assessment.md#37-informal-and-small-scope-records); [CJS-2.4](corpus_joint_structure/cjs_02_specific_joint_interlocks.md#cjs-24-class-scaled-lane-staffing-and-competency-redundancy) (*Class-scaled lane staffing and competency redundancy*); [CI-3.2](corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes) (*Functional separation lanes*).
 - Read with: [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and Chapter One [§3.3 Anti-Degrading Process](core_01_a_values_principles.md#33-anti-degrading-process).
 
 </details>
@@ -259,7 +259,7 @@ Any departure for Class C or Class B must satisfy this section's necessity, prop
 
 - Upstream: [§2](#2-four-seat-constitutional-floor); [§5](#5-proportional-scaling-and-merged-hosting); [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden); [default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
-- Read with: [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [CI-4.6 containment and release-control seats](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Read with: [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [CI-4.6 Seat catalog — process-role archetypes and operational boundaries](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -297,7 +297,7 @@ None of the following is by itself an emergency:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§2](#2-four-seat-constitutional-floor) through [§6](#6-emergency-and-urgent-action); [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record); [Attributable Action](core_05_band_accountability.md#attributable-action-constitutional); [Attribution Integrity](core_05_band_accountability.md#attribution-integrity-constitutional).
-- Downstream: [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [CI-4.6 shared seat rules](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §8; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
+- Downstream: [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action); [CI-4.6 shared seat rules](corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §8; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Read with: [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) and [Chapter Four §5](core_04_burden_traceability_verification.md#5-compliance-evidence-standard).
 
 </details>

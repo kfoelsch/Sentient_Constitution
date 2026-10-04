@@ -16,7 +16,7 @@
 
 - Upstream: **Article XX** (*Justice After Verified Violation*); [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model); **CJS-3.13** (*procedural integrity and adjudication terms*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-7-1-purpose-and-role); [§2](#cs-7-2-scope-and-trigger); [§3](#cs-7-3-mandatory-validation-record); [§11](#cs-7-11-lived-condition-floors-continuity-and-re-entry-alignment).
-- Read with: **CS-7**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-9**; **CJS-3.13**.
+- Read with: **CS-7** (*Justice safeguards, restitution, and rehabilitation*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CS-9** (*Resource allocation and funding stewardship*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 
 </details>
 
@@ -37,7 +37,7 @@
 
 This file is the systems implementation home for **CS-7** (*Justice safeguards, restitution, and rehabilitation*).
 
-*In plain terms: **CS-7** covers what a system must do when it restricts, sanctions, or penalizes someone: validate the basis first, keep the restriction as light and as short as the situation allows, make restoration a real route rather than a formality, and never let a sanction turn into retaliation.*
+*In plain terms: **CS-7** (*Justice safeguards, restitution, and rehabilitation*) covers what a system must do when it restricts, sanctions, or penalizes someone: validate the basis first, keep the restriction as light and as short as the situation allows, make restoration a real route rather than a formality, and never let a sanction turn into retaliation.*
 <a id="cs-7-1-purpose-and-role"></a>
 ## CS-7.1 Purpose and role
 
@@ -81,7 +81,7 @@ Validation and review rigor must scale with **CS-3 — System classification and
 
 **Class C:** Documented alternatives analysis and defined review cadence proportionate to impact and dependency.
 
-**Class L:** Simplified validation records are permitted where effects remain bounded and local under **CS-3** Class L. Whole-system evaluation under **Chapter Eight §3** (*Whole-System Certification Evaluation*) remains mandatory but proportionate, including lower default periodic cadence unless material change requires earlier re-evaluation.
+**Class L:** Simplified validation records are permitted where effects remain bounded and local under **CS-3** (*System classification machinery*) Class L. Whole-system evaluation under **Chapter Eight §3** (*Whole-System Certification Evaluation*) remains mandatory but proportionate, including lower default periodic cadence unless material change requires earlier re-evaluation.
 
 **Class P:** Simplified validation records and informal self-assessment are permitted while validly **Class P**. **Chapter Eight §3** (*Whole-System Certification Evaluation*) evaluation is encouraged unless reclassification or a voluntary constitutional-compliance claim makes it mandatory.
 
@@ -150,7 +150,7 @@ Those execution pathways must preserve constitutional enforceability across juri
 
 Documentation must cover pooled arrangements, escrow/holdback, and insurance or indemnity instruments where lawful. It must also cover periodic replenishment and ensure execution does not stall for lack of deployable capacity.
 
-See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and **CS-9**.
+See Sentient Constitution **Chapter Four** (*Enforcement Realism Anchors*) and **CS-9** (*Resource allocation and funding stewardship*).
 
 **Judgment and award realism:** Where foreign forums, arbitral tribunals, or sovereign regulators issue enforceable outcomes, systems must map recognition, registration, and fallback dependency-linked enforcement. They must **not** treat absence of a single global judiciary as permission for indefinite non-compliance.
 
@@ -195,7 +195,7 @@ Maintaining a lower template after trigger activation is non-compliance.
 
 **Anti-evasion template rule:** Template selection, simplification, or fragmentation must **not** be used to avoid obligations that would apply under full functional conditions.
 
-Where a material control family fails, systems must produce a control-failure disclosure packet proportionate to class, dependency, and supervised scope. Institutions with supervised scope should integrate that packet with [**CI-7.1**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Controls declaration*) controls declarations where applicable.
+Where a material control family fails, systems must produce a control-failure disclosure packet proportionate to class, dependency, and supervised scope. Institutions with supervised scope should integrate that packet with [**CI-7.1**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md#ci-71-controls-declaration) (*Controls declaration*) controls declarations where applicable.
 
 Evasive down-tiering requires corrective reclassification and enforcement review.
 
@@ -205,7 +205,7 @@ Evasive down-tiering requires corrective reclassification and enforcement review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **Article XX-B** (*Restriction Floors*) and **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*) (Rights-Floor homes); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) (crisis-intervention boundaries); **Article XX** (*Justice After Verified Violation*) and **Article XX-A** (*Justice Objective and Scope*) (proportionality, justice objective, and restoration); **CS-7** §§3–6 above; [**CI-18**](../corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md) (*Community life, voluntary association, and non-instrumental time*) through **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
+- Read with: **Article XX-B** (*Restriction Floors*) and **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*) (Rights-Floor homes); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*) (crisis-intervention boundaries); **Article XX** (*Justice After Verified Violation*) and **Article XX-A** (*Justice Objective and Scope*) (proportionality, justice objective, and restoration); **CS-7** (*Justice safeguards, restitution, and rehabilitation*) §§3–6 above; [**CI-18**](../corpus_institutions/ci_18_collective_public_health_epidemic_response_addiction_informed_care.md) (*Community life, voluntary association, and non-instrumental time*) through **CI-21** (*Relational coercive control, intimate power, and anti-domination routing*) where **community**, **care**, and **relational-autonomy** supports intersect restriction contexts.
 
 </details>
 
@@ -217,7 +217,7 @@ This subsection implements **non-degrading lived conditions** and **continuity o
 
 **Minimum lived-condition expectations (class- and context-scaled):** Responsible bodies must document and deliver, where **Necessity** and **Proportionality** allow, **healthcare and mental-health access** appropriate to the restriction’s purpose; **family, care, or trusted-contact** access where **safety** permits; **education, training, or capability development** access where the restriction is not narrowly justified to prevent it; **counsel, advocate, or independent representative** access for rights-affecting processes; **scheduled review** with **written reasons** at **intervals** that match impact and duration; **conditions** that **do not** impose **sensory deprivation**, **social isolation**, or **degradation** as an **unjustified** end; and **re-entry planning** that **does not** **sabotage** formal restoration through **withheld records**, **credential stripping without individualized predicate**, or **indefinite administrative deferral** of stated review triggers.
 
-**Cross-layer coordination:** Forums and institutions must treat **CS-7** validation records and **review cadence** as **first-class inputs** to **forum** and **institutional** performance requirements ([**CF-11**](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md) (*Forum performance, backlog requirements, publication timeliness, and accessibility*); [**CI-6**](../corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md) (*Procedure integrity, contestability, and secondary review*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*)). **Solitary** or **sensory-restrictive** measures framed as **safety** require **independent** or **secondary** **review** on a **schedule** published in advance; **endless deferral** of review is **non-compliant** where a **review date** or **sunset** was **predicated** at imposition.
+**Cross-layer coordination:** Forums and institutions must treat **CS-7** (*Justice safeguards, restitution, and rehabilitation*) validation records and **review cadence** as **first-class inputs** to **forum** and **institutional** performance requirements ([**CF-11**](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md) (*Forum performance, backlog requirements, publication timeliness, and accessibility*); [**CI-6**](../corpus_institutions/ci_06_procedure_integrity_contestability_secondary_review.md) (*Procedure integrity, contestability, and secondary review*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*)). **Solitary** or **sensory-restrictive** measures framed as **safety** require **independent** or **secondary** **review** on a **schedule** published in advance; **endless deferral** of review is **non-compliant** where a **review date** or **sunset** was **predicated** at imposition.
 
 ---
 

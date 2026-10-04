@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Read with: **CI-20**; **CI-6**; **CI-8**; **CI-5**.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Read with: **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 </details>
 
@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*).
 
-*In plain terms: **CI-20** is the local owner map for when power in close relationships is used to trap, isolate, threaten, or block exit and remedy. Shared floors live in **CJS-3.17**; this file names who receives reports, which doors actually work, and who reviews the asymmetry that makes leaving feel impossible.*
+*In plain terms: **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) is the local owner map for when power in close relationships is used to trap, isolate, threaten, or block exit and remedy. Shared floors live in **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); this file names who receives reports, which doors actually work, and who reviews the asymmetry that makes leaving feel impossible.*
 
 **Quick orientation**
 - **The basic idea** — when dependency chokepoints can defeat exit, reporting, or remedy, institutions must treat coercive-control patterns as routing facts even when no single contract label or criminal category captures the whole pattern.
@@ -48,12 +48,12 @@ This file is the institutional implementation home for **CI-20** (*Relational co
 - **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) for participation and challenge-pathway accessibility; **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity and conflict-disclosure interfaces.
 
 *Shared rules live elsewhere.*
-- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**.
+- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms) (*interoperability, portability, and exit-integrity terms*) — **Dependency-based coercion and reputation-lock pathway integrity**.
 - Chapter Five [*Coercion and Manipulation*](../core_05_band_participation.md#coercion-and-manipulation-constitutional); [*Meaningful Agency*](../core_05_band_participation.md#meaningful-agency).
 - **Article X-A** (*Freedom from Manipulation*); **Article XI-F** (*Non-Imposition and Consent in Association*); **Article XI-A** (*Freedom of Conscience, Religion, and Comparable Worldview*); **Article VIII-A** (*Family and Care Relationships*); **Article VIII-E** (*Non-Separation*).
 - **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-16** (*Care labor, dependent support, respite, and care-economy fairness*); **CI-21** (*Community life, voluntary association, and non-instrumental time*). This file does not repeat those floors.
 
-**Apply.** Apply **CJS-3.17** **Dependency-based coercion and reputation-lock pathway integrity**. **CI-20** states only the local owner duties below.
+**Apply.** Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) **Dependency-based coercion and reputation-lock pathway integrity**. **CI-20** (*Relational coercive control, intimate power, and anti-domination routing*) states only the local owner duties below.
 
 **Local anti-domination routing role map**
 Each institution in scope must name the office or body responsible for:
@@ -63,7 +63,7 @@ Each institution in scope must name the office or body responsible for:
 - **platform and abuse-path routing** — who supervises platform abuse reports, account-custody disputes, visibility cuts, scoring or reputation harms, and comparable digital chokepoints that trap dependent participants;
 - **family and household services routing** — who routes family-services, tenancy, benefits, immigration-status, or comparable household-dependency reports to practical remedy lanes while preserving lawful privacy and conscience protections; and
 - **economic, credential, platform, and reputation asymmetry review** — who reviews whether economic dependence, credential or account custody, platform power, housing leverage, care access, or reputation systems functionally block exit, reporting, or challenge — and who publishes or escalates corrective routes when they do.
-Read **CI-6**, **CI-8**, and **CI-5** for local procedure, participation, and integrity interfaces.
+Read **CI-6** (*Procedure integrity, contestability, and secondary review*), **CI-8** (*Transparency, participation, and accessible challenge and service pathways*), and **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for local procedure, participation, and integrity interfaces.
 
 ---
 

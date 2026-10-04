@@ -17,7 +17,7 @@
 - Upstream: [Article VI-B](../core_06_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*); [Sentience-Status Adjudication Record](../core_05_band_participation.md#sentience-status-adjudication-record-constitutional) (Def.P1); [Chapter Twelve §5](../core_12_forum.md#5-escalation-and-certification) (*Sentience-status adjudication* hook); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline.
 - Downstream: [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../implementation/schemas/sentience_status_adjudication_record.schema.json).
 - Read with: [Sentience Status Adjudication](../core_05_band_participation.md#sentience-status-adjudication-constitutional); [Contested-Sentient Life](../core_05_band_participation.md#contested-sentient-life-constitutional); [Chapter Twelve §5](../core_12_forum.md#5-escalation-and-certification); **CF-4** (*Panel formation*) for the independent-representative appointment path; **CF-15** (*Standard records, forms, and evidence artifacts*) — appointments schedules and filing forms stay out of this file.
-- Topic routing (mandatory read-with): **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in [**CJS-0.1**](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Topic router*). Primary owner remains **CF-15**.
+- Topic routing (mandatory read-with): **CJS-R12** (*Standard forum records, forms, and evidence artifacts*) in [**CJS-0.1**](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Topic router*). Primary owner remains **CF-15** (*Standard records, forms, and evidence artifacts*).
 
 </details>
 
@@ -62,4 +62,4 @@ When [Sentience Status Adjudication](../core_05_band_participation.md#sentience-
 - decide who counts as a sentient;
 - open, update, or substitute for a [Standing Record](../core_05_band_accountability.md#standing-record-chapter-six) or standing measurement;
 - replace the whole [Forum Case Record](../core_05_band_accountability.md#forum-case-record); or
-- hold appointments schedules, filing-form libraries, or sequencing manuals — appointment *mechanics* stay in **CF-4**; this file holds the appointment *result fields* and the intake-decline log fields the Chapter Twelve hook requires.
+- hold appointments schedules, filing-form libraries, or sequencing manuals — appointment *mechanics* stay in **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*); this file holds the appointment *result fields* and the intake-decline log fields the Chapter Twelve hook requires.

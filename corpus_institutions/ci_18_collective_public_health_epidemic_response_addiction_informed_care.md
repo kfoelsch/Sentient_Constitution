@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Read with: **CI-18**; **CI-5**; **CI-7**.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Read with: **CI-18** (*Collective public health, epidemic response, and addiction-informed care*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7** (*Oversight, assurance, controls, and evidence*).
 
 </details>
 
@@ -36,7 +36,7 @@
 
 This file is the institutional implementation home for **CI-18** (*Collective public health, epidemic response, and addiction-informed care*).
 
-*In plain terms: **CI-18** is the local owner map for epidemics, environmental exposure, population-level harm, and addiction as collective-care problems. Shared floors live in **CJS-3.12**; this file names who owns the collective-care pathway, the support bundle, addiction routing, stigma controls, and emergency-secrecy sunsets.*
+*In plain terms: **CI-18** (*Collective public health, epidemic response, and addiction-informed care*) is the local owner map for epidemics, environmental exposure, population-level harm, and addiction as collective-care problems. Shared floors live in **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*); this file names who owns the collective-care pathway, the support bundle, addiction routing, stigma controls, and emergency-secrecy sunsets.*
 
 **Quick orientation**
 - **The basic idea** — public-health and collective-care restrictions must be evaluated together with the support bundle, stigma risk, care-first alternatives, externality evidence, emergency duration, secrecy predicate, and sunset rule.
@@ -45,15 +45,15 @@ This file is the institutional implementation home for **CI-18** (*Collective pu
 - **Stigma control** — institutions must maintain explicit controls against scapegoating, unsupported quarantine, or public-health framing used to justify degrading treatment.
 - **Emergency discipline** — secrecy, continuity measures, and restrictive powers must be time-bounded, revalidated, and subject to sunset review — not indefinite by inertia.
 - **Hard limits** — unsupported quarantine, stigma-driven enforcement, indefinite opaque continuity, and coercive treatment where care-first alternatives suffice are out of bounds under **CJS-3.12** (*burden-of-justification and constraint terms*).
-- **Read with** — **CI-5** for integrity routing; **CI-7** for controls declaration and external-assurance triggers.
+- **Read with** — **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) for integrity routing; **CI-7** (*Oversight, assurance, controls, and evidence*) for controls declaration and external-assurance triggers.
 
 *Shared rules live elsewhere.*
-- [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**.
+- [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-312-accountability-burden-of-justification-and-constraint-terms) (*burden-of-justification and constraint terms*) — **Collective-health and emergency support-bundle floor**.
 - **Article I-D** (*Existential Risk and Ecological Recovery Capacity*); **Article III-B** (*Bodily-Maintenance and Healthcare Access*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
-- **CS-7 §11** (*Lived-condition floors, continuity, and re-entry alignment*); Chapter Five [*Emergency and Contingency*](../core_05_band_continuity.md#emergency-and-contingency-constitutional).
+- **CS-7** (*Justice safeguards, restitution, and rehabilitation*) **§11** (*Lived-condition floors, continuity, and re-entry alignment*); Chapter Five [*Emergency and Contingency*](../core_05_band_continuity.md#emergency-and-contingency-constitutional).
 - **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7** (*Oversight, assurance, controls, and evidence*). This file does not repeat those floors.
 
-**Apply.** Apply **CJS-3.12** **Collective-health and emergency support-bundle floor**. **CI-18** states only the local owner duties below.
+**Apply.** Apply **CJS-3.12** (*Accountability: burden-of-justification and constraint terms*) **Collective-health and emergency support-bundle floor**. **CI-18** (*Collective public health, epidemic response, and addiction-informed care*) states only the local owner duties below.
 
 **Local collective public-health and addiction-care role map**
 Each institution in scope must name the office or body responsible for:
@@ -61,8 +61,8 @@ Each institution in scope must name the office or body responsible for:
 - **support-bundle record** — who documents and maintains the paired support package for each material restriction — housing, subsistence, care access, accessibility, ventilation or filtration, treatment, stabilization, or comparable support needed to keep the restriction necessary and proportionate under **CJS-3.12** (*burden-of-justification and constraint terms*);
 - **addiction-informed routing** — who routes substance-use, dependency, and addiction-response cases to healthcare, stabilization, harm-reduction, and recovery pathways rather than punitive or stigma-only enforcement by default;
 - **stigma-control file** — who maintains published controls against scapegoating, unsupported quarantine, degrading enforcement, and public-health framing used to justify measures that fail **Necessity**, **Proportionality**, or care-first analysis; and
-- **emergency-secrecy sunset review** — who publishes and enforces sunset dates, revalidation cadence, and review routes for emergency secrecy, continuity measures, and restrictive powers — including escalation to **CI-7** external-assurance triggers when review is deferred or box-checked without meaningful risk response.
-Read **CI-5** and **CI-7** for integrity and oversight interfaces.
+- **emergency-secrecy sunset review** — who publishes and enforces sunset dates, revalidation cadence, and review routes for emergency secrecy, continuity measures, and restrictive powers — including escalation to **CI-7** (*Oversight, assurance, controls, and evidence*) external-assurance triggers when review is deferred or box-checked without meaningful risk response.
+Read **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) and **CI-7** (*Oversight, assurance, controls, and evidence*) for integrity and oversight interfaces.
 
 ---
 

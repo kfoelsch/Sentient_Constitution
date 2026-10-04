@@ -133,8 +133,8 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
     - [risk](core_05_band_continuity.md#risk).
     The system's class under *[corpus_systems.md](corpus_systems.md)*, CS-3 — System classification and handling, and related rules sets that intensity.
   - **Out of scope:**
-    - ordinary uniform process detail among systems that share the same real class under CS-3; or
-    - implementation typing and class-assignment mechanics owned by CS-3 —
+    - ordinary uniform process detail among systems that share the same real class under CS-3 (*System classification machinery*); or
+    - implementation typing and class-assignment mechanics owned by CS-3 (*System classification machinery*) —
     those sit under their own homes; this entry owns stake-scaled intensity, not the typing rules themselves.
 <a id="classification-scaled-governance-a"></a>
 - **How to measure and assess**
@@ -161,8 +161,8 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Rights-Floor: **[Article XXVII-A](core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity)** (*Phased Adoption and Rights-Floor Continuity*).
-- Canonical owner: this definition states what a gate is. [Gate Criteria](core_05_band_oversight.md#gate-criteria) states what must be shown for it to open. Implementation detail lives in **CS-10.3** and **CI-14**.
+- Downstream: Rights-Floor: **[Article XXVII-A](core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity) (*Phased Adoption and Rights-Floor Continuity*)** (*Phased Adoption and Rights-Floor Continuity*).
+- Canonical owner: this definition states what a gate is. [Gate Criteria](core_05_band_oversight.md#gate-criteria) states what must be shown for it to open. Implementation detail lives in **CS-10.3** (*Gate criteria and advancement rules*) and **CI-14** (*Transitional governance and institutional evolution*).
 - Read with: [Gate Criteria](core_05_band_oversight.md#gate-criteria), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), and [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
 
 </details>
@@ -198,8 +198,8 @@ This band holds definitions under the **Oversight** Tetrad leg — transparency,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Rights-Floor: **[Article XXVII-A](core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity)** (*Phased Adoption and Rights-Floor Continuity*); **[Article XXVII-B](core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization)** (*Transitional Authority Limits and Reauthorization*).
-- Canonical owner: this definition states what gate criteria are. The contents of any particular plan's criteria stay with that plan under **CS-10.3** and **CI-14**, and may not narrow this definition.
+- Downstream: Rights-Floor: **[Article XXVII-A](core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity) (*Phased Adoption and Rights-Floor Continuity*)** (*Phased Adoption and Rights-Floor Continuity*); **[Article XXVII-B](core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) (*Transitional Authority Limits and Reauthorization*)** (*Transitional Authority Limits and Reauthorization*).
+- Canonical owner: this definition states what gate criteria are. The contents of any particular plan's criteria stay with that plan under **CS-10.3** (*Gate criteria and advancement rules*) and **CI-14** (*Transitional governance and institutional evolution*), and may not narrow this definition.
 - Read with: [Gate](core_05_band_oversight.md#gate), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and [Reversibility](core_05_band_continuity.md#reversibility-constitutional).
 
 </details>
@@ -884,7 +884,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
-- Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B — Type O](corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Eight Part B §11](core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [Chapter Eight Part B §12](core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
+- Downstream: **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)** (*Type O baseline for Class A/B/C systems*); **[CS-2 Part B §8.3 Type O (open, public oversight baseline disclosure data)](corpus_systems/cs_02_b_data_classifications.md#83-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*); [Chapter Eight §4](core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) (*Data Types and Handling Evaluation*); [Chapter Eight Part B §11](core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) (*Certification record*); [Chapter Eight Part B §12](core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) (*Transparency, auditability, and contestability*).
 - Read with: [Transparency](core_05_band_oversight.md#transparency), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Risk Disclosure](core_05_band_oversight.md#risk-disclosure), [Charter](core_05_band_continuity.md#charter), [System Boundaries](core_05_band_continuity.md#system-boundaries), [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional), [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** (**Type O**).
 
 </details>
@@ -929,7 +929,7 @@ See **Anti-Segmentation Principle**.
 - **How to measure and assess**
   - **Primary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether the required public disclosure floor is actually published and usable for oversight and challenge — including lawful substitutes where raw records stay restricted.
 
-    **Primary assessment:** Compare published disclosure to certified scope from [Charter](core_05_band_continuity.md#charter), assigned class, and [System Boundaries](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**, confirm:
+    **Primary assessment:** Compare published disclosure to certified scope from [Charter](core_05_band_continuity.md#charter), assigned class, and [System Boundaries](core_05_band_continuity.md#system-boundaries). Where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7 type O baseline for Class A/B/C systems](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**, confirm:
     - a usable public view of the [Charter](core_05_band_continuity.md#charter), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), and [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) (or required contents) at public-baseline fidelity;
     - that purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, and constitutional compliance are each covered at baseline depth;
     - that lawful substitutes still support meaningful accountability and [Contestability](core_05_band_accountability.md#contestability); and
@@ -945,14 +945,14 @@ See **Anti-Segmentation Principle**.
     - hold-backs that hide systemic behavior, constitutional violations, material risk, dependency, failure, or externalized cost.
 <a id="public-oversight-baseline-disclosure-c"></a>
 - **What must hold**
-  - **Primary failure:** missing or inadequate Public Oversight Baseline Disclosure where the **Type O** baseline for **Class A**, **Class B**, or **Class C** applies under CS-2.
+  - **Primary failure:** missing or inadequate Public Oversight Baseline Disclosure where the **Type O** baseline for **Class A**, **Class B**, or **Class C** applies under CS-2 (*Information types and handling*).
   - **Secondary failure:**
     - non-public **Type G** audit access, paywalls, or performative summaries used as the public floor;
     - performative summaries that withhold decision-relevant baseline material;
     - paywalled or insider-only distribution of the floor where lawful online publication infrastructure exists for class-appropriate public access;
-    - omitting a usable public view of the [Charter](core_05_band_continuity.md#charter), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), or [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**; or
+    - omitting a usable public view of the [Charter](core_05_band_continuity.md#charter), [System Classification Record](core_05_band_continuity.md#system-classification-record-constitutional), [System Data Types Record](core_05_band_continuity.md#system-data-types-record-constitutional), or [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional) where the **Type O** baseline applies for a **Class A**, **Class B**, or **Class C** system under **[CS-2 Part A §7 type O baseline for Class A/B/C systems](corpus_systems/cs_02_a_information_types_and_handling.md#cs-2-7-type-o-baseline-for-class-a-b-c-systems)**; or
     - omitting baseline visibility into purpose, dependency structure, operational status, material risks, performance, failures, governance, audit outcomes, stakeholder effects, or constitutional compliance.
-  - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 and [Transparency](core_05_band_oversight.md#transparency).
+  - **Tertiary failure:** hold-backs that are not narrow, documented, proportionate, auditable, and challengeable under CS-2 (*Information types and handling*) and [Transparency](core_05_band_oversight.md#transparency).
 
 ---
 
@@ -1009,7 +1009,7 @@ See **Anti-Segmentation Principle**.
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster).
 - Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight** leg; [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), [Transparency](core_05_band_oversight.md#transparency), [Verifiability](core_05_band_oversight.md#verifiability), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and [Evaluation Completeness Constraint](core_05_band_oversight.md#evaluation-completeness-constraint).
 - Read with: **Article XVI** (*Audit, Transparency, and Independent Verification*); [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) (*one especially large audit process under oversight — not the sole auditing home*); owner-layer mechanics in [core_02_definition_structure.md](core_02_definition_structure.md) Chapters Two through Four.
-- Steward door (non-operative): Next-step card: [Audit](implementation/STEWARD_ENTRY_DOORS.md#audit). The card cannot narrow the Constitution. This definition is the property layer of the audit stack; three-layer picture: [Article XVI](core_06_rights_part_c.md#audit-three-layers).
+- Steward door (non-operative): Next-step card: [Audit](implementation/STEWARD_ENTRY_DOORS.md#audit). The card cannot narrow the Constitution. This definition is the property layer of the audit stack; three-layer picture: [Article XVI](core_06_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*).
 
 </details>
 
@@ -1156,7 +1156,7 @@ See **Anti-Segmentation Principle**.
     - adversarial pathways.
   - **Ongoing duty:** The constraint applies whenever operators, stewards, or reviewers claim constitutional compliance, readiness, or safe reliance from evaluation or assurance work — not only during certification cycles.
   - **Charter and scope process:** Where a governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument) exists for a system, institution, business, or comparable stewarded form, evaluation must test chartered purpose and in-scope / out-of-scope limits against observed [System Boundaries](core_05_band_continuity.md#system-boundaries) and plausible risk pathways inside and at the edge of that scope. Charter text does not shrink the risk pathways that must be evaluated.
-  - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [Chapter Eight §3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](corpus_systems/cs_05_design_testing_verification_deployment.md). Findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
+  - **SAC verification:** Where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) runs, this constraint is part of what certification must verify under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) — including chartered-scope-versus-functional-boundary checks under [Chapter Eight §3.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#31-systemic-scope-and-risk-factors) and class-scaled testing / regression coverage under [CS-5](corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*). Findings live on the [System Certification Record](core_05_band_continuity.md#system-certification-record-constitutional).
   - **Out of scope:**
     - [Charter](core_05_band_continuity.md#charter) text as a scope instrument alone — a Charter states intended scope; it is not itself evaluation coverage;
     - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) process mechanics as such — certification may verify this constraint; it is not the only context in which the constraint applies; or
@@ -1214,7 +1214,7 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:** Whether system behavior, outputs, and effects can be externally detected, measured, and independently validated for [Auditability](core_05_band_oversight.md#auditability). Constitutive conditions:
     - external detectability before independent validation counts;
-    - practical access ([Article XVI-C](core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
+    - practical access ([Article XVI-C](core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*); [Feasibility](core_05_band_accountability.md#feasibility));
     - independence from operator self-assertion;
     - proportionate burden under [Proportionality](core_05_band_accountability.md#proportionality) and [Material Impact](core_05_band_oversight.md#material-impact); and
     - reliability under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1239,7 +1239,7 @@ See **Anti-Segmentation Principle**.
   - **Secondary measure:** [Oversight measurement family](core_05_apex_oversight_leg.md#oversight-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether observed behavior can be independently validated by reproducible methods in practice.
 
     **Secondary assessment:** Confirm independent validation by methods that:
-    - affected and appropriately authorized parties can actually perform ([Article XVI-C](core_06_rights_part_c.md#article-xvi-c-verification-accessibility); [Feasibility](core_05_band_accountability.md#feasibility));
+    - affected and appropriately authorized parties can actually perform ([Article XVI-C](core_06_rights_part_c.md#article-xvi-c-verification-accessibility) (*Verification Accessibility*); [Feasibility](core_05_band_accountability.md#feasibility));
     - rest on externally detectable evidence — not internal claims or inferred intent;
     - are sized to system impact under [Proportionality](core_05_band_accountability.md#proportionality) and [Material Impact](core_05_band_oversight.md#material-impact); and
     - remain reliable under ordinary stress, misuse, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions).
@@ -1374,7 +1374,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     **Primary assessment:** Publication must not bypass **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, [Privacy (Informational)](core_05_band_continuity.md#privacy-informational), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional), or **Type N** handling. Except where this Constitution explicitly permits, publication must not reconstruct, infer, or expose another sentient’s protected internal cognitive or emotional states.
 <a id="protected-data-and-internal-state-publication-constraint-c"></a>
 - **What must hold**
-  - **Primary failure:** publication that violates restricted-data rules, bypasses CS-2 handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
+  - **Primary failure:** publication that violates restricted-data rules, bypasses CS-2 (*Information types and handling*) handling, or exposes protected internal states contrary to [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary-constitutional).
 
 <a id="high-impact-and-systemic-harm-publication-constraint"></a>
 
@@ -1428,7 +1428,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
 <a id="security-sensitive-disclosure-balance-c"></a>
 - **What must hold**
   - Good-faith security researchers must have a usable, non-retaliatory route to publish low-risk information — including existence notice and non-exploit-enabling detail — without treating researcher publication itself as prohibited disclosure.
-  - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-2 — then disclosed under applicable deferred-disclosure and **Type O** summary rules.
+  - Exploit-enabling or otherwise high-risk security detail must be deferred until security mitigation is complete, or until **Type S** (or equivalent) restriction justification ends under CS-2 — Information types and handling **Type O** summary rules.
   - **Primary failure:** consistent with **Chapters Two through Four**, **Chapter One**, [Risk](core_05_band_continuity.md#risk), [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions):
     - publication that materially enables circumvention of safeguards or adversarial manipulation where those risks outweigh the benefits of disclosure;
     - suppressing low-risk good-faith researcher publication; or

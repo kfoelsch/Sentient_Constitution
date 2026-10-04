@@ -24,7 +24,7 @@
 
 - Upstream: [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*Questions 1 and 2; verified records and standing measurement*).
 - This file: Question 3 integration, remedy, correction, locks, voluntary public accountability expression, competency bars and clearances, final standing effect, restoration, reassessment, enforcement realism, remedy systems, and pattern applications / Question 3 routing.
-- Downstream: [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*designation only*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*remedy-system implementation*).
+- Downstream: [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) (*designation only*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision*); [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -357,7 +357,7 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
     - fair settlements reached through a contestable process.
 <a id="54-transition-exception-misaligned-rewards"></a>
 - **Transition exception:** During approved transition phases under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
-  - operation stays within a **documented transition plan** and published [gate criteria](core_05_band_oversight.md#gate-criteria) under **Article XXVII**;
+  - operation stays within a **documented transition plan** and published [gate criteria](core_05_band_oversight.md#gate-criteria) under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*);
   - the system is proceeding toward [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification-constitutional) on a published cadence, including **conditional** or **deferred recognition** where Chapter Eight allows; and
   - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved transition scope, or using transition status to evade certification, correction, or protected reporting.
 
@@ -378,7 +378,7 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
 <a id="54-duty-to-resist-unlawful-or-unconstitutional-instructions"></a>
 **Duty to resist.**
 
-This rule applies [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) to standing effects. The duty, who it binds, and its sequence (instruction received → refuse → document → escalate) are stated there. The refusal is logged as the [CS-4 §10](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action*) minimum inspectable-action set. Steward pointer (process support; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+This rule applies [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) to standing effects. The duty, who it binds, and its sequence (instruction received → refuse → document → escalate) are stated there. The refusal is logged as the [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action*) minimum inspectable-action set. Steward pointer (process support; cannot narrow this section): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 - **Named pathway / finding:**
   - Issuing, transmitting, ratifying, or materially enforcing an instruction that requires unlawful or unconstitutional conduct is independently measurable violation conduct.
@@ -420,9 +420,9 @@ This rule applies [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capa
   - Full criminal-process or equivalent constitutional protections apply before the restriction.
   - These process protections apply whenever liberty is restricted; they do not by themselves create a conviction.
 - **Review route and reassessment:** the same process protections govern challenge, narrowing, and lifting; recurrence uncertainty and isolation from risk factors apply under [§5.1 Definition and attachment](#51-definition-and-attachment).
-- **Required imprisonment for verified violence:** Imprisonment is a liberty-restricting measure, not a standing lock. It is recorded with the same attachment fields as a lock ([§5.1 Definition and attachment](#51-definition-and-attachment)). Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. This implements the imprisonment floor in [**Article XX-B**](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*).
+- **Required imprisonment for verified violence:** Imprisonment is a liberty-restricting measure, not a standing lock. It is recorded with the same attachment fields as a lock ([§5.1 Definition and attachment](#51-definition-and-attachment)). Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. This implements the imprisonment floor in [**Article XX-B** (*Restriction Floors*)](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Restriction Floors*).
   - This applies to sentients who refuse rehabilitation offered on fair terms, and where less-restrictive protective measures cannot satisfy material safety necessity.
-  - Imprisonment must satisfy the **Article XX-B** joint requirements, individualized-attribution rules, and challenge and appeal protections, and must carry the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers that **Article XX-B** requires of every justice measure.
+  - Imprisonment must satisfy the **Article XX-B** (*Restriction Floors*) joint requirements, individualized-attribution rules, and challenge and appeal protections, and must carry the duration limits, review schedule, restoration conditions, and auditable re-evaluation triggers that **Article XX-B** (*Restriction Floors*) requires of every justice measure.
   - Substituting deprivation of life, or failing to impose imprisonment where this bullet requires it, is non-compliant.
   - Imprisonment for verified anti-constitutional misconduct is specialized in [Chapter Eleven §4.2](core_11_a_misconduct_designation.md#4-2-prevention-anti-constitutional-locks) (*Prevention — anti-constitutional locks*) and uses the same attachment fields.
 

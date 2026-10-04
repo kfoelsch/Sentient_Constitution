@@ -14,12 +14,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
 - Downstream: [CI-5.1: Shared anti-capture floors](#ci-51-shared-anti-capture-floors); [CI-5.2: Institutional owner files and named routes](#ci-52-institutional-owner-files-and-named-routes); [CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)](#ci-53-integrity-trigger-taxonomy-and-cross-layer-routing-control-package).
-- Read with: **CI-5**; **CI-5.1**; **CI-5.2**; **CI-5.3**; **CI-7.2**; **CI-12**; **CI-11**; **CI-13**; **CI-6**.
-- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4**.
-- Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*); primary owner **CF-7**.
-- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*); primary owner **CF-16**.
+- Read with: **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-5.1** (*Shared anti-capture floors*); **CI-5.2** (*Institutional owner files and named routes*); **CI-5.3** (*Integrity trigger taxonomy and cross-layer routing (control package)*); **CI-7.2** (*External assurance triggers*); **CI-12** (*Cross-institution coordination and escalation*); **CI-11** (*Resource stewardship and incentive integrity*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CI-6** (*Procedure integrity, contestability, and secondary review*).
+- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.1** (*Topic router*); primary owner **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+- Topic routing (mandatory read-with): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*); primary owner **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+- Topic routing (mandatory read-with): **CJS-R13** (*Forum staffing, shared administration, structural review, structural re…*) in **CJS-0.1** (*Topic router*); primary owner **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
 
 </details>
 
@@ -44,7 +44,7 @@
 
 This file is the institutional implementation home for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*).
 
-*In plain terms: **CI-5** is the institutions layer's honesty-and-independence rulebook — how institutions prevent capture, corruption, and hidden conflicts; what they must disclose; and where problems go when local review is not trustworthy. Shared anti-capture floors live in **CJS-3.6** (*integrity assurance and resilience operations*). What this file adds is local: what each institution must name and maintain locally.*
+*In plain terms: **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) is the institutions layer's honesty-and-independence rulebook — how institutions prevent capture, corruption, and hidden conflicts; what they must disclose; and where problems go when local review is not trustworthy. Shared anti-capture floors live in **CJS-3.6** (*integrity assurance and resilience operations*). What this file adds is local: what each institution must name and maintain locally.*
 
 **Quick orientation**
 - **CI-5.1** — shared minimum anti-capture and civic-lottery integrity rules (**CJS-3.6** (*integrity assurance and resilience operations*)).
@@ -55,21 +55,21 @@ This file is the institutional implementation home for **CI-5** (*Conflict integ
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-5.1**; **CJS-3.6** (*integrity assurance and resilience operations*).
+- Read with: **CI-5.1** (*Shared anti-capture floors*); **CJS-3.6** (*integrity assurance and resilience operations*).
 
 </details>
 
 <br>
 
-*In plain terms: cross-institution anti-capture rules live in **CJS-3.6** (*integrity assurance and resilience operations*) — including the shared control stack and sortition or civic-lottery integrity floors. **CI-5** does not repeat those rules; each institution applies them locally.*
+*In plain terms: cross-institution anti-capture rules live in **CJS-3.6** (*integrity assurance and resilience operations*) — including the shared control stack and sortition or civic-lottery integrity floors. **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) does not repeat those rules; each institution applies them locally.*
 
-Apply **CJS-3.6** **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors.
+Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Shared anti-capture control stack** and **Sortition and civic-lottery integrity controls** for the shared floors.
 
 ## CI-5.2: Institutional owner files and named routes
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-5.2**; **CI-7.2**; **CI-12**; **CI-11**; **CI-13**; **CI-6**.
+- Read with: **CI-5.2** (*Institutional owner files and named routes*); **CI-7.2** (*External assurance triggers*); **CI-12** (*Cross-institution coordination and escalation*); **CI-11** (*Resource stewardship and incentive integrity*); **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*); **CI-6** (*Procedure integrity, contestability, and secondary review*).
 
 </details>
 
@@ -85,15 +85,15 @@ Each institution must maintain and publish:
 - escalation paths to **CI-7.2** (*External assurance triggers*) or **CI-12** (*Cross-institution coordination and escalation*) when local review lacks credible independence.
 
 Each institution must also name:
-- who publishes each disclosure category, who keeps the cure-window file, and where sanctions cases escalate (**CI-11**, **CI-13**);
-- who keeps grave-breach forfeiture records and the contest route under **CI-6**; and
+- who publishes each disclosure category, who keeps the cure-window file, and where sanctions cases escalate (**CI-11** (*Resource stewardship and incentive integrity*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*));
+- who keeps grave-breach forfeiture records and the contest route under **CI-6** (*Procedure integrity, contestability, and secondary review*); and
 - for supervised contingent-claim or event-market systems: who governs resolution sources, how decision power is separated, and how insider-information abuse is prevented.
 
 ## CI-5.3: Integrity trigger taxonomy and cross-layer routing (control package)
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CI-5.3**; **CI-5**; **CI-7**; **CI-12**; **CI-3**; **CI-6**; **CJS-3.6** (*integrity assurance and resilience operations*).
+- Read with: **CI-5.3** (*Integrity trigger taxonomy and cross-layer routing (control package)*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CI-7** (*Oversight, assurance, controls, and evidence*); **CI-12** (*Cross-institution coordination and escalation*); **CI-3** (*Institutional design, separation of powers, and authority custody*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CJS-3.6** (*integrity assurance and resilience operations*).
 
 </details>
 
@@ -101,7 +101,7 @@ Each institution must also name:
 
 *In plain terms: institutions use a common set of trigger labels — corruption, fraud, self-dealing, procurement capture, and the rest — so training, control maps, and routing stay consistent. Shared cross-layer routing lives in **CJS-3.6** (*integrity assurance and resilience operations*); contribution, violation, and standing measurement stays in **Chapter Nine** and **Chapter Eleven**.*
 
-This subsection names institutional trigger labels for **CI-5** control maps and training. Apply **CJS-3.6** **Integrity-trigger routing chain** for shared cross-layer traceability.
+This subsection names institutional trigger labels for **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) control maps and training. Apply **CJS-3.6** (*Oversight: integrity assurance and resilience operations*) **Integrity-trigger routing chain** for shared cross-layer traceability.
 
 **Trigger categories:**
 - corruption;
@@ -112,14 +112,14 @@ This subsection names institutional trigger labels for **CI-5** control maps and
 - reporting suppression; and
 - conflict concealment.
 
-When a trigger fires, route it to the correct owner section — not every problem stays inside the institution that received it. Assign a **Notification Urgency Level** under **CJS-3.6** (*integrity assurance and resilience operations*) and publish notice through **CI-7.1** without waiting for routine attestation:
+When a trigger fires, route it to the correct owner section — not every problem stays inside the institution that received it. Assign a **Notification Urgency Level** under **CJS-3.6** (*integrity assurance and resilience operations*) and publish notice through **CI-7.1** (*Controls declaration*) without waiting for routine attestation:
 - **CI-5** — receiving and opening reports;
-- **CI-7** — independent assurance checks and urgency-scaled incident notification (**CI-7.1**);
+- **CI-7** — independent assurance checks and urgency-scaled incident notification (**CI-7.1** (*Controls declaration*));
 - **CI-12** — escalation when local review fails;
 - **CI-3** — structural independence and lane safeguards when capture is suspected;
 - **CI-6** — fair procedure and contest rights;
 - applicable **CF** sections — forum-side support; and
-- **CI-11**, **CI-13** — sanctions where misconduct is confirmed.
+- **CI-11** (*Resource stewardship and incentive integrity*), **CI-13** (*Institutional failure, sanctions, dissolution, and accountability*) for sanctions where misconduct is confirmed.
 
 Contribution, violation, standing, and Violation Axis measurement remain under **Chapter Nine** and **Chapter Eleven**.
 

@@ -14,8 +14,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
-- Read with: **CI-24**; **CI-6**; **CI-12**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); **CJS-3.12** (*burden-of-justification and constraint terms*).
+- Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions; and [Chapter Six](../core_06_rights_part_a.md#chapter-six-foundational-rights) rights architecture where rights interfaces are invoked.
+- Read with: **CI-24** (*Innovation reward, disclosure, and anti-enclosure*); **CI-6** (*Procedure integrity, contestability, and secondary review*); **CI-12** (*Cross-institution coordination and escalation*); **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); **CJS-3.12** (*burden-of-justification and constraint terms*).
 
 </details>
 
@@ -36,24 +36,24 @@
 
 This file is the institutional implementation home for **CI-24** (*Innovation reward, disclosure, and anti-enclosure*).
 
-*In plain terms: **CI-24** is the local owner map for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit without turning a temporary reward into permanent lock-in. Shared floors live in **CJS-3.17**; this file names who runs the registry, who hears public-interest access requests, and who sunsets claims.*
+*In plain terms: **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) is the local owner map for innovation rewards — patents, copyrights, exclusivity deals, and similar claims — so creators get fair credit without turning a temporary reward into permanent lock-in. Shared floors live in **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*); this file names who runs the registry, who hears public-interest access requests, and who sunsets claims.*
 
 **Quick orientation**
 - **The basic idea** — reward real contribution and disclosure, but do not let reward become durable enclosure, artificial scarcity, or a chokepoint on things society depends on.
 - **What must be public** — a searchable registry showing who claims what, over what scope, for how long, with what disclosure materials, and what repair or migration limits they assert.
 - **What must stay accessible** — repair, safety work, independent verification, research, education, archiving, interoperability testing, and migration where those uses are otherwise lawful and proportionate.
 - **What gets tighter over time** — when an innovation becomes dependency-critical infrastructure — a platform, protocol, model, marketplace, or payment rail — remaining exclusivity must be reassessed, narrowed, converted, or sunset.
-- **Who decides disputes** — specialist review lanes separated from claim-granting or revenue-dependent functions, with **CI-12** escalation when local review stalls or is conflicted.
-- **Read with** — **CI-6** for local procedure maps; **CI-12** for cross-institution escalation; **CJS-3.12** (*burden-of-justification and constraint terms*) for burden-of-justification and proportionality scaling; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) for shared anti-enclosure floors.
+- **Who decides disputes** — specialist review lanes separated from claim-granting or revenue-dependent functions, with **CI-12** (*Cross-institution coordination and escalation*) escalation when local review stalls or is conflicted.
+- **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for local procedure maps; **CI-12** (*Cross-institution coordination and escalation*) for cross-institution escalation; **CJS-3.12** (*burden-of-justification and constraint terms*) for burden-of-justification and proportionality scaling; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) for shared anti-enclosure floors.
 
 *Shared rules live elsewhere.*
-- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md) (*interoperability, portability, and exit-integrity terms*) — innovation-reward boundary, anti-enclosure, access-preserving reward, anti-warehousing, and duration/reclassification controls.
+- [**CJS-3.17**](../corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-317-continuity-interoperability-portability-and-exit-integrity-terms) (*interoperability, portability, and exit-integrity terms*) — innovation-reward boundary, anti-enclosure, access-preserving reward, anti-warehousing, and duration/reclassification controls.
 - Chapter Five (*Innovation Reward and Anti-Enclosure*); **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*).
-- [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md) (*burden of justification and constraint terms*).
+- [**CJS-3.12**](../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-312-accountability-burden-of-justification-and-constraint-terms) (*burden of justification and constraint terms*).
 - **CS-3** — system classification and handling where innovation reward must scale with class, dependency, and coordination effects.
 - This file does not repeat those floors.
 
-**Apply.** Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors. Apply **CJS-3.17** **Innovation-reward duration and reclassification controls** for shared timing; **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) supplies only the local review calendar and record-update duty. **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) states only the local owner duties below.
+**Apply.** Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) for the shared anti-enclosure, public-interest-use, compulsory-access, anti-warehousing, and duration/reclassification floors. Apply **CJS-3.17** (*Continuity: interoperability, portability, and exit-integrity terms*) **Innovation-reward duration and reclassification controls** for shared timing; **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) supplies only the local review calendar and record-update duty. **CI-24** (*Innovation reward, disclosure, and anti-enclosure*) states only the local owner duties below.
 **What each institution must name and maintain locally**
 **1. Disclosure and registry**
 - **registry owner** — who maintains the public searchable registry and entry format;
@@ -63,7 +63,7 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 - **secrecy or access limits** — any asserted confidentiality bounds and their justification route.
 **2. Reward proportionality and class treatment**
 - **evidence-record owner** — who keeps the local file showing how reward scaling and class treatment were decided;
-- **claim-record format** — the standard record layout for proportionality analysis under **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CS-3** where system class is material; and
+- **claim-record format** — the standard record layout for proportionality analysis under **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CS-3** (*System classification machinery*) where system class is material; and
 - **class and dependency linkage** — how **Class A**, **Class B**, and **Class C** or dependency-critical status triggers tighter review or access-preserving reward tools.
 **3. Public-interest and corrective pathways**
 - **procedure owner** — who receives and routes public-interest, compulsory-access, anti-warehousing, and domain-carve-out requests;
@@ -77,8 +77,8 @@ This file is the institutional implementation home for **CI-24** (*Innovation re
 **5. Specialized review and appeal**
 - **dedicated review-lane office** — a named body for innovation-reward disputes;
 - **structural separation** — review must be separated from claim-granting, registry custody, or revenue-dependent functions that could bias outcomes; and
-- **secondary review and CI-12 escalation** — the route when local specialist review stalls, is captured, or cannot act independently.
-Read **CI-6** and **CI-12** for local procedure maps and cross-institution escalation interfaces.
+- **secondary review and CI-12 (*Cross-institution coordination and escalation*) escalation** — the route when local specialist review stalls, is captured, or cannot act independently.
+Read **CI-6** (*Procedure integrity, contestability, and secondary review*) and **CI-12** (*Cross-institution coordination and escalation*) for local procedure maps and cross-institution escalation interfaces.
 
 ---
 

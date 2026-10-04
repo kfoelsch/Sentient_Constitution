@@ -16,7 +16,7 @@
 
 - Upstream: **Article XXII-A** (*Proportional Comprehensibility Right*); **Article XXII-B** (*Complexity Audit and Modularity Requirements*); [Chapter One §18.5 Modular Architecture and Dependency Discipline](../core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (*Modular Architecture and Dependency Discipline*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-6-1-purpose-and-role); [§2](#cs-6-2-classification-scaled-application); [§3](#cs-6-3-systems-specific-checks); [§4](#cs-6-4-gaps-and-silence).
-- Read with: **CS-6**; **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.8**; **CJS-3.9**; **CJS-3.10**; **CJS-3.16**; **CJS-3.19**; **CJS-3.21**.
+- Read with: **CS-6** (*Comprehensibility and complexity stewardship*); **CS-3 — System classification and handling**; **CS-4 — Critical system stewardship**; **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*); **CJS-3.9** (*Participation: salience integrity and attention-allocation terms*); **CJS-3.10** (*Participation: disclosure sufficiency and observability terms*); **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*); **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 
 </details>
 
@@ -34,7 +34,7 @@
 
 This file is the systems implementation home for **CS-6** (*Comprehensibility and complexity stewardship*).
 
-*In plain terms: **CS-6** exists because a system nobody can understand cannot be governed. Explanations must match the stake of the decision. Complexity must be measured and justified, not left to accumulate. A system must stay modular enough to inspect and change in parts.*
+*In plain terms: **CS-6** (*Comprehensibility and complexity stewardship*) exists because a system nobody can understand cannot be governed. Explanations must match the stake of the decision. Complexity must be measured and justified, not left to accumulate. A system must stay modular enough to inspect and change in parts.*
 
 <a id="cs-6-1-purpose-and-role"></a>
 ## CS-6.1 Purpose and role
@@ -71,7 +71,7 @@ How strict these requirements are depends on the system's class. The **Comprehen
 
 *In plain terms: the six things this file adds beyond the constitutional text — keep complexity from blocking oversight, audit it, keep the design modular and redundant, learn from failure, and simplify on a schedule.*
 
-CS-6 adds the following systems-specific checks:
+CS-6 (*Comprehensibility and complexity stewardship*) adds the following systems-specific checks:
 
 - **Complexity as a barrier:** Complexity must not become a practical barrier to audit, participation, accountability, or oversight beyond what these sources permit:
   - **Article XXII** (*Comprehensibility and Complexity Stewardship*);
@@ -79,7 +79,7 @@ CS-6 adds the following systems-specific checks:
   - **CJS-3.7** (*quorum and participatory legitimacy terms*);
   - the applicable Chapter One and Chapter Five constraints.
 - **Independent complexity audit:** Critical systems must undergo periodic independent complexity audits. Each audit must evaluate transparency and observability, dependency chains and hidden coupling, failure modes and cascading risks, and the capacity for human oversight and intervention.
-- **Modularity:** Critical systems **must** use modular components with clear responsibilities and interfaces, with dependencies between components declared at those interfaces and consistent with the dependency map under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*). Other systems should do so as far as proportionate to classification and risk. Component-level innovation must not create unmanaged consequences across other systems. Responsibility and observability must be preserved across every internal boundary (**Article XXII-B**; [Chapter One §18.5 Modular Architecture and Dependency Discipline](../core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)).
+- **Modularity:** Critical systems **must** use modular components with clear responsibilities and interfaces, with dependencies between components declared at those interfaces and consistent with the dependency map under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*). Other systems should do so as far as proportionate to classification and risk. Component-level innovation must not create unmanaged consequences across other systems. Responsibility and observability must be preserved across every internal boundary (**Article XXII-B** (*Complexity Audit and Modularity Requirements*); [Chapter One §18.5 Modular Architecture and Dependency Discipline](../core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)).
 - **Redundancy:** Critical infrastructure must incorporate redundancy and fail-safe mechanisms to prevent single points of failure. Where feasible, it must include multiple independent implementations of essential systems.
 - **Learning from failure:** Failures, anomalies, and near-misses must feed transparent post-incident learning. That learning must focus on systemic weaknesses rather than on blame.
 - **Periodic simplification:** Governance institutions must periodically simplify or remove unnecessary complexity, redundant processes, outdated rules, or excessive dependencies, where doing so preserves clarity, operability, and resilience.
@@ -89,7 +89,7 @@ CS-6 adds the following systems-specific checks:
 
 *In plain terms: if this file does not answer your question, here is where the answer lives.*
 
-Where this file is silent, the governing sources are **Article XXII** (*Comprehensibility and Complexity Stewardship*), the six **CJS-3** (*operational cluster library*) clusters listed above, Chapters Two through Five, and the applicable **CS-3** or **CS-4** profile.
+Where this file is silent, the governing sources are **Article XXII** (*Comprehensibility and Complexity Stewardship*), the six **CJS-3** (*operational cluster library*) clusters listed above, Chapters Two through Five, and the applicable **CS-3** (*System classification machinery*) or **CS-4** (*Critical system stewardship*) profile.
 
 ---
 

@@ -123,7 +123,7 @@ Where verification is technically possible but not practically achievable, treat
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Four, section 3 — Observability of Traceability Requirement](#3-observability-of-traceability-requirement); [Chapter One, section 6.2 — Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints).
-- Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling**, and **CS-5** — operational cryptography, credentials, and information-type handling.
+- Downstream: [Chapter Four, section 5 — Compliance Evidence Standard](#5-compliance-evidence-standard); [corpus_systems.md](corpus_systems.md), **CS-2 — Information types and handling**, and **CS-5** — User-facing capability surfaces, credentials, and information-type handling.
 - Read with: [Chapter Five Clustered Definitions (Foreseeability)](core_05_band_oversight.md#foreseeability-diligence) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Five Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) and [Chapter Five Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XVI-A**, and **XVII-A** where environment-separation constraints are material.
 
 </details>
