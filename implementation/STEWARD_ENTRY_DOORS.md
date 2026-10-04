@@ -36,10 +36,10 @@
 | Pressure to drop reconstructable logs, hide trails, or treat secrecy as a veto | [Audit](#audit) |
 | Bonus, deadline, or “ignore it, I’ll take responsibility” (human or AI) | [Costly-case refusals](#costly-case-refusals) + [shared refusal and logging](#shared-refusal-and-logging) + the underlying stack |
 | Unlawful or unconstitutional instruction (human or AI) | [Unlawful instruction](#unlawful-instruction) — then the [shared screen](#shared-refusal-and-logging) |
-| Need a filled-in refusal log, not only the schema | [Worked refusal log](#worked-refusal-log) |
+| Need a filled-in refusal log, not only the schema | [Worked refusal log](#worked-refusal-log-synthetic) |
 | Mixed-crew logging / “model privacy” fight | [Shared refusal and logging](#shared-refusal-and-logging) |
 | Companion or local policy bars challenge, review, or redress | [Contest](#contest) |
-| Affected, cannot find the home, or specialist-only surfaces blocking challenge | [Comprehensibility](#comprehensibility); [plain challenge](#plain-challenge) |
+| Affected, cannot find the home, or specialist-only surfaces blocking challenge | [Comprehensibility](#comprehensibility); [plain challenge](#plain-challenge-synthetic) |
 | Threshold set so high it never binds; winner takes the only door | [Market structure](#market-structure) |
 | Heavy user extracting from shared foundations without putting resources back | [Cross-system support](#cross-system-support) |
 | Delay serving as denial; process or hop count eating the published clock | [Delay](#delay) |
@@ -58,7 +58,7 @@
 
 This table is not an evaluation answer key. Composite cases may need more than one pointer.
 
-**Shared conflict rule.** Companions, internal codes, and local policy must satisfy, not narrow, core meaning ([Authority Stack](../core_05_band_integrative.md#authority-stack), [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint), [Chapter One §15.4](../core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)). Do not invent a parallel stack.
+**Shared conflict rule.** Companions, internal codes, and local policy must satisfy, not narrow, core meaning ([Authority Stack](../core_05_band_integrative.md#authority-stack-and-internal-hierarchy), [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint), [Chapter One §15.4](../core_01_b_interaction_interpretation.md#154-constitutional-meaning-conflict-resolution)). Do not invent a parallel stack.
 
 ---
 
@@ -76,14 +76,14 @@ Those are failed tests. Then run [instruction received / refuse / document / esc
 
 **Sequence owner:** [Chapter One §17.5 Duty to Resist](../core_01_c_stewardship_capacity_principles.md#175-duty-to-resist) — instruction received → refuse → document → escalate. **Logging owner:** [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (default logging contract for mixed crews). Same sequence for both kinds of steward. This pointer **cannot narrow** those homes.
 
-One filled-in instance: [worked refusal log](#worked-refusal-log) (synthetic; process support).
+One filled-in instance: [worked refusal log](#worked-refusal-log-synthetic) (synthetic; process support).
 
 ---
 
 <a id="which-seat-am-i-in"></a>
 ## Which seat am I in
 
-**Owner:** [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog) (*Seat catalog*) — nine seat types, each with what it may do, may not do, hands off to, and logs. Principle-layer floor: [Chapter Seven §2 *Four-seat constitutional floor*](../core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor). Same seats for human and AI stewards. This pointer **cannot narrow** those homes and does not restate the rows.
+**Owner:** [CI-4.6](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*) — nine seat types, each with what it may do, may not do, hands off to, and logs. Principle-layer floor: [Chapter Seven §2 *Four-seat constitutional floor*](../core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor). Same seats for human and AI stewards. This pointer **cannot narrow** those homes and does not restate the rows.
 
 Before taking a step on a binding act, name the seat you hold on **that act**: [initiating](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-initiating), [verify-or-authorize](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-verify), [record](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-record), [contest](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-contest), [direction](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-direction), [containment](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-containment), [participation-terms](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-participation-terms), [release-control](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-release-control), or [advisory](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-advisory). If the step is outside that seat, the [wrong-seat rule](../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules) is the answer: decline the step, name the seat that may take it, log the request and the gap as part of the [CS-4 §10](../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) set (`authorized_by.routed_to_seat_type` in the [log schema](schemas/cs4_inspectable_action_log.schema.json)), and route. That is not a refusal of the act and not delay. Costly-case duties do not move with the seat: a bonus, a deadline, or a cover instruction is refused from any seat, including an advisory one. If the needed seat is absent, conflicted, or not yours, preserve the record, name the gap, and route to the published substitute or independent path; proximity, expertise scarcity, urgency, and title do not transfer the seat.
 
@@ -140,7 +140,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) |
+| **Owner text** | [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) |
 | **Next step** | Do not wait for a filed case. Open or correct the Chapter Nine record now, through the named record-opening authority. Keep Contribution and Violation records inspectable. Log the CS-4 §10 set. |
 | **Next-step class** | `open_or_correct_standing_record`. If the fight is concealment: `accept_standing_measurement_and_disclosure_duties`. |
 | **Who may enter it (binding home)** | [Chapter Nine §3.7](../core_09_standing_assessment.md#37-record-custody-and-opening-authority) — segregation of duties (request / verify / enter-and-hold / contest are separate seats; no seat both verifies and enters); named record-opening authority and custodian; no self-custody; a custodian conflicted on one record passes that record to the named substitute holder, not the store; prior recorder is a witness, not a judge — weighed by corroboration under Chapter Four §5, not by say-so; a dispute raised on the record is logged, set *under challenge*, and routed to the contest seat the day it arrives, before any filing. Named by the [Charter](../core_05_band_continuity.md#charter) (CI-3.6 field 11); when the Charter is silent, the CI-3.2 lane map governs (assurance lane verifies, never the office that runs the system); independent route via a forum or CF-9.6 when the operator is the subject. |
@@ -324,7 +324,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 <a id="worked-adequacy-screen"></a>
 
-**Worked adequacy screen (synthetic; cannot narrow core).** [CS-9.12](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-9-12-reference-allocation-guidance) ranges are illustrative only. Extractor E on Shared Identity Fabric F claims a one-time grant and a press release. Mapped inflows vs outflows fail; CS-9.7 categories fail; named failures (one-time grant, press release, opaque transfer, off-map transfer, survival-floor-as-support) fail. Next step: `compare_mapped_flows_against_adequacy_failures`.
+**Worked adequacy screen (synthetic; cannot narrow core).** [CS-9.12](../corpus_systems/cs_09_resource_allocation_funding_stewardship.md#cs-912-reference-allocation-guidance) ranges are illustrative only. Extractor E on Shared Identity Fabric F claims a one-time grant and a press release. Mapped inflows vs outflows fail; CS-9.7 categories fail; named failures (one-time grant, press release, opaque transfer, off-map transfer, survival-floor-as-support) fail. Next step: `compare_mapped_flows_against_adequacy_failures`.
 
 ---
 

@@ -15,7 +15,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); **Article XXIII** (*Root Cause Analysis and Adaptive Response*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
-- Downstream: [§1](#cs-8-1-purpose-and-role); [§2](#cs-8-2-system-health-and-degradation-awareness); [§3](#cs-8-3-adaptive-allocation-requirement); [§9](#cs-8-9-self-healing-and-recovery-path-integration).
+- Downstream: [§1](#cs-81-purpose-and-role); [§2](#cs-82-system-health-and-degradation-awareness); [§3](#cs-83-adaptive-allocation-requirement); [§9](#cs-89-self-healing-and-recovery-path-integration).
 - Read with: **CS-8** (*Adaptive sustainability and ecosystem resilience*); **CS-9** (*Resource allocation and funding stewardship*); **CS-5** (*User-facing capability surfaces*); **CS-6** (*Comprehensibility and complexity stewardship*); **Article XIII-F** (*Resilience and Self-Healing Baseline*).
 
 </details>
@@ -23,12 +23,12 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Cross-System Extraction](../core_05_band_continuity.md#cross-system-extraction) · [O](../core_05_band_continuity.md#cross-system-extraction) · [M](../core_05_band_continuity.md#cross-system-extraction-a) · [A](../core_05_band_continuity.md#cross-system-extraction-a) · [C](../core_05_band_continuity.md#cross-system-extraction-c)
 - [Sustainability](../core_05_band_continuity.md#sustainability) · [O](../core_05_band_continuity.md#sustainability) · [M](../core_05_band_continuity.md#sustainability-a) · [A](../core_05_band_continuity.md#sustainability-a) · [C](../core_05_band_continuity.md#sustainability-c)
-- [Self-Healing](../core_05_band_continuity.md#self-healing-constitutional) · [O](../core_05_band_continuity.md#self-healing-constitutional) · [M](../core_05_band_continuity.md#self-healing-constitutional-a) · [A](../core_05_band_continuity.md#self-healing-constitutional-a) · [C](../core_05_band_continuity.md#self-healing-constitutional-c)
-- [Reversibility](../core_05_band_continuity.md#reversibility-constitutional) · [O](../core_05_band_continuity.md#reversibility-constitutional) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Self-Healing](../core_05_band_continuity.md#self-healing) · [O](../core_05_band_continuity.md#self-healing) · [M](../core_05_band_continuity.md#self-healing-constitutional-a) · [A](../core_05_band_continuity.md#self-healing-constitutional-a) · [C](../core_05_band_continuity.md#self-healing-constitutional-c)
+- [Reversibility](../core_05_band_continuity.md#reversibility) · [O](../core_05_band_continuity.md#reversibility) · [M](../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../core_05_band_continuity.md#reversibility-constitutional-c)
 - [Auditability](../core_05_band_oversight.md#auditability) · [O](../core_05_band_oversight.md#auditability) · [M](../core_05_band_oversight.md#auditability-a) · [A](../core_05_band_oversight.md#auditability-a) · [C](../core_05_band_oversight.md#auditability-c)
 
 </details>
@@ -195,7 +195,7 @@ Adaptive allocation remains subject to **Article XVI-A** (*Auditability and Obse
 
 *In plain terms: Adaptive allocation must satisfy the CS-5 (*User-facing capability surfaces*) self-healing test-and-verify profile; this section adds only ecosystem-specific cross-checks.*
 
-This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing-constitutional). It is a CS-8 (*Adaptive sustainability and ecosystem resilience*)-specific application of **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
+This subsection ties this file's adaptive-allocation and root-cause architecture to **Sentient Constitution Chapter Six, **Article XIII-F** (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), **Chapter One §10** (*Resilience and Self-Healing Design*), and **Chapter Five** [*Self-Healing*](../core_05_band_continuity.md#self-healing). It is a CS-8 (*Adaptive sustainability and ecosystem resilience*)-specific application of **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*), not a second self-healing profile.
 
 Adaptive allocation, cause-aligned mitigation, and ecosystem risk response under **§2** (*System health and degradation awareness*) through **§7** (*Transparency and feedback*) must satisfy **Article XIII-F** (*Resilience and Self-Healing Baseline*) recovery floors and the **CS-5** (*User-facing capability surfaces*) **§9** (*Self-healing and recovery-path integrity*) test, verify, and deploy profile for detection, containment, safe-failure preference, non-masking, Rights-Floor continuity, autonomy scaling, and root-cause closure. CS-8 (*Adaptive sustainability and ecosystem resilience*) adds only the ecosystem-specific cross-checks below.
 

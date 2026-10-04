@@ -41,7 +41,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Licensing and capital access are slow for you and easy for them. Paperwork says the market is open while gates freeze out new or disfavored founders.
 - **With this Constitution:** You must be able to start and run commercial enterprises. Shutting you out with delay or paperwork that privileges incumbents is a failure.
 
-See: [Business Creation](../../../core_05_band_participation.md#business-creation-constitutional); [Article XI-E](../../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation).
+See: [Business Creation](../../../core_05_band_participation.md#business-creation); [Article XI-E](../../../core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation).
 
 **Being bigger is not a license to trap you.**
 - **Today:** A few buyers, platforms, or employers control who you can hire, who you can sell to, and whether you can leave — and they call that competition.

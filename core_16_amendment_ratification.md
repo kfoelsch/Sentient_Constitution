@@ -28,7 +28,7 @@
 
 - Upstream: [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) Test 1 and non-regression; [Chapter Fifteen](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) supremacy and external-order interface; [Chapter Thirteen](core_13_governance.md#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) legitimacy context for collective change.
 - Subsections: [§§ 1–12](#1-heightened-review-for-rights-affecting-changes) procedural and custody validity suite (Tests 2–4, ratification, procedure requirements, and layer scope).
-- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
+- Downstream: Adoption instruments and edition custody tie to [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [Corpus and Authority Stack](core_05_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Chapters Two through Four](core_02_definition_structure.md) publication, burden, and traceability requirements invoked in Test 2 and §11.
 
 </details>
@@ -115,7 +115,7 @@ A proposed amendment is invalid unless required publication elements are satisfi
 
 - Upstream: [§4](#4-test-2--procedural-validity-and-publication-integrity) Test 2 publication integrity.
 - Downstream: [§10](#10-ratification-and-adoption) instruments and custody expectations; [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) consistency requirements.
-- Read with: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster).
+- Read with: [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) and [README.md](README.md) (edition identifiers); [Corpus and Authority Stack](core_05_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster).
 
 </details>
 
@@ -257,7 +257,7 @@ Adopters must maintain an identifiable instrument of adoption. Examples include 
 - identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
 - be consistent with document-control expectations in [README.md](README.md) and [Chapter Five *Corpus*](core_05_band_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
 - be consistent with **Corpus** in Chapter Five ([core_05__definitions_home.md](core_05_band_integrative.md#corpus)).
-- where [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the instrument or in incorporated implementation it pins — not a core-chosen numeric target.
+- where [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the instrument or in incorporated implementation it pins — not a core-chosen numeric target.
 
 #### 10.3 Joining by additional parties
 <details>
@@ -330,7 +330,7 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Fourteen §4](core_14_non_regression.md#4-layer-scope) substantive-chapter mirror; [§7](#7-review-triggers) and [§9](#9-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
-- Downstream: [Chapter Nine](core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) and [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
+- Downstream: [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) and [Chapter Eleven](core_11_a_misconduct_designation.md#chapter-eleven-anti-constitutional-misconduct) remain sole canonical homes for listed taxonomies.
 - Read with: [Chapter Six — Layer scope](core_06_rights_part_a.md#12-layer-scope) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
 </details>

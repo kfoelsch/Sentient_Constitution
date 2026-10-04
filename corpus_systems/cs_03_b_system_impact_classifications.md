@@ -23,13 +23,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application* — Chapter Five owns meanings; CS-3 (*System classification machinery*) applies them).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — dual axis with this catalog).
-- Read with: [Material Impact](../core_05_band_oversight.md#material-impact); [Materiality](../core_05_band_oversight.md#materiality-determination); [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application* — Chapter Five owns meanings; CS-3 (*System classification machinery*) applies them).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap) (*Dependency types* — dual axis with this catalog).
+- Read with: [Material Impact](../core_05_band_oversight.md#material-impact); [Materiality](../core_05_band_oversight.md#materiality); [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance).
 - Read with: [Dependency](../core_05_band_continuity.md#dependency); [Risk](../core_05_band_continuity.md#risk); [Cascading Failure](../core_05_band_continuity.md#cascading-failure); [Existential Risk](../core_05_band_continuity.md#existential-risk).
-- Read with: [Systemic](../core_05_band_continuity.md#systemic); [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional).
+- Read with: [Systemic](../core_05_band_continuity.md#systemic); [Systemic Materiality](../core_05_band_continuity.md#systemic-materiality); [System Classification Record](../core_05_band_continuity.md#system-classification-record).
 - Read with: [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*forum materiality tiers A/B/C/L/P — alphabet mirror only*).
-- Read with: [CS-4 §2 classification as steward](cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward) (*Classification as steward* — CSS follows impact class and Dep-A / Dep-B; Class C gated).
+- Read with: [CS-4 §2 classification as steward](cs_04_critical_system_stewardship.md#cs-42-classification-as-steward) (*Classification as steward* — CSS follows impact class and Dep-A / Dep-B; Class C gated).
 
 </details>
 
@@ -45,9 +45,9 @@ Impact-class findings apply the Chapter Five meanings of:
 - [Dependency](../core_05_band_continuity.md#dependency);
 - [Risk](../core_05_band_continuity.md#risk), including [Cascading Failure](../core_05_band_continuity.md#cascading-failure) and [Existential Risk](../core_05_band_continuity.md#existential-risk) where implicated.
 
-Duty intensity is scaled by [Materiality](../core_05_band_oversight.md#materiality-determination) and [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance). **Chapter Five** owns those meanings corpus-wide, and **CS-3** (*System classification machinery*) owns how classification uses them.
+Duty intensity is scaled by [Materiality](../core_05_band_oversight.md#materiality) and [Classification-Scaled Governance](../core_05_band_oversight.md#classification-scaled-governance). **Chapter Five** owns those meanings corpus-wide, and **CS-3** (*System classification machinery*) owns how classification uses them.
 
-**Dual-axis rule:** **Impact classes** use **Class A–P** in this catalog. **Dependency types** use **Dep-A–P** in [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letter bands **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must state **both** the **impact class** ([§9 Class A: Survival-critical, foundational, and irreplaceable systems](#cs-3-9-class-a-survival-critical-foundational-and-irreplaceable-systems) through [§13 Class P: Personal, private-use, isolated, and experimental systems](#cs-3-13-class-p-personal-private-use-isolated-and-experimental-systems)) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p)).
+**Dual-axis rule:** **Impact classes** use **Class A–P** in this catalog. **Dependency types** use **Dep-A–P** in [Part A §4](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap) (Absolute / Operational / Coordination / Limited / No meaningful external dependency). Matching letter bands **correlate often** but **do not** mean the axes are the same finding. A [System Classification Record](../core_05_band_continuity.md#system-classification-record) must state **both** the **impact class** ([§9 Class A: Survival-critical, foundational, and irreplaceable systems](#cs-39-class-a-survival-critical-foundational-and-irreplaceable-systems) through [§13 Class P: Personal, private-use, isolated, and experimental systems](#cs-313-class-p-personal-private-use-isolated-and-experimental-systems)) and the applicable **dependency type(s)** ([Part A §4](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap)).
 
 <a id="cs-local-systemic-classification-language"></a>
 **CS-local “systemic” (classification posture):** In this Part B catalog, **“systemic”** denotes capacity for cross-domain [Cascading Failure](../core_05_band_continuity.md#cascading-failure) across dependents — not merely large-scale or widespread impact. That posture language is **distinct from** two other things:
@@ -74,11 +74,11 @@ Duty intensity is scaled by [Materiality](../core_05_band_oversight.md#materiali
 - [§8.6 Scaled-duties intensity](#86-scaled-duties-intensity)
 
 **Per-class cards (citation / known-class lookup):**
-- [§9 Class A](#cs-3-9-class-a-survival-critical-foundational-and-irreplaceable-systems) — Survival-critical, foundational, and irreplaceable systems
-- [§10 Class B](#cs-3-10-class-b-critical-high-dependency-systemically-significant-systems) — Critical, high-dependency, systemically significant systems
-- [§11 Class C](#cs-3-11-class-c-coordinated-high-dependency-non-critical-systems) — Coordinated, high-dependency, non-critical systems
-- [§12 Class L](#cs-3-12-class-l-local-limited-impact-and-non-critical-systems) — Local, limited-impact, and non-critical systems
-- [§13 Class P](#cs-3-13-class-p-personal-private-use-isolated-and-experimental-systems) — Personal, private-use, isolated, and experimental systems
+- [§9 Class A](#cs-39-class-a-survival-critical-foundational-and-irreplaceable-systems) — Survival-critical, foundational, and irreplaceable systems
+- [§10 Class B](#cs-310-class-b-critical-high-dependency-systemically-significant-systems) — Critical, high-dependency, systemically significant systems
+- [§11 Class C](#cs-311-class-c-coordinated-high-dependency-non-critical-systems) — Coordinated, high-dependency, non-critical systems
+- [§12 Class L](#cs-312-class-l-local-limited-impact-and-non-critical-systems) — Local, limited-impact, and non-critical systems
+- [§13 Class P](#cs-313-class-p-personal-private-use-isolated-and-experimental-systems) — Personal, private-use, isolated, and experimental systems
 
 <a id="81-eligibility-and-threshold-differentials"></a>
 ### 8.1 Eligibility and threshold differentials
@@ -332,7 +332,7 @@ A matching letter is never enough by itself. Record **both** the impact class an
 <a id="85-reclassification-edges"></a>
 ### 8.5 Reclassification edges
 
-Adversarial and strategic dynamics that materially increase impact, dependency, or risk follow [Part A §3](cs_03_a_system_classification_machinery.md#cs-3-3-criticality-concentration-temporal-and-adversarial-factors) (*Criticality, concentration, temporal, and adversarial factors*).
+Adversarial and strategic dynamics that materially increase impact, dependency, or risk follow [Part A §3](cs_03_a_system_classification_machinery.md#cs-33-criticality-concentration-temporal-and-adversarial-factors) (*Criticality, concentration, temporal, and adversarial factors*).
 
 | From → toward | Reclassify when… |
 |---------------|------------------|
@@ -360,7 +360,7 @@ Per-class Trace and citation homes remain on [§9.6 Scaled duties](#96-scaled-du
 | **Intervention capability** | Immediate, reliable, fail-safe mechanisms that remain functional under degraded or adversarial conditions; authorized stakeholders can halt, isolate, or reconfigure in real time; coordination across interconnected critical systems; clear priority, arbitration, or override hierarchies for conflicting interventions | Rapid, reliable, multi-layered mechanisms that halt, constrain, or modify behavior; coordinate across dependents; respond within timeframes aligned to reasonably foreseeable systemic harm | Defined, effective mechanisms to modify, pause, or constrain behavior; timeframes appropriate to scale and foreseeable harm; coordinated multi-party intervention where required | Modify, pause, correct, or constrain within reasonable timeframes for **local** harm | Direct operator control to modify, pause, contain, or discontinue |
 | **Failure integrity** | Failure modes explicitly modeled, minimized, and continuously tested; defaults fail-safe or survival-preserving; uncontrolled or unbounded [Cascading Failure](../core_05_band_continuity.md#cascading-failure) is unacceptable | Explicitly modeled and disclosed; fail-safe or fail-contained where possible; designed to prevent uncontrolled or unbounded cascading failure or systemic disruption | Observable, controlled, and non-deceptive; **must not** silently propagate or escalate beyond the system’s dependency domain | Observable and contained; **prevent** escalation to broader systemic harm | Failures **remain within** the private boundary; **must not** externalize material harm |
 | **Resilience and continuity** | Continuous operation within survival-relevant tolerances; redundancy, geographic and systemic distribution, fallback/recovery for essential function, and contingency for degraded performance; controlled, observable, survival-preserving degradation under partial failure; treat prolonged disruption as a critical emergency | High-assurance continuity with redundancy, fallback modes, and cross-system recovery; treat prolonged disruption as a systemic risk event | Strong recovery expected; coordinated recovery that minimizes cascading disruption across dependent participants and systems | Reasonable recovery; prolonged disruption should **not** create disproportionate participant harm | Basic recovery, rollback, or correction where feasible; **no** formal continuity guarantees required |
-| **Governance** | Formal, multi-layered, and capture-resistant; constrained-scope authority, independent oversight and audit, emergency protocols, and accountability in normal and crisis conditions; test structures against failure, capture, and adversarial manipulation; Class A organizational and steward intensity continues under [CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md) (**CSS-A**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b)) | Formal, structured, and enforceable; clear authority/accountability; independent oversight or audit where appropriate; stakeholder representation/challenge; safeguards against concentration of power or systemic capture; Class B intensity continues under [CS-4](cs_04_critical_system_stewardship.md) (**CSS-B**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b)) | Structured and accountable; clear responsibility; stakeholder feedback and challenge/dispute resolution; safeguards against capture, hidden control, and unilateral decisions that materially affect participants; Critical System Steward overlay under [CS-4 §2](cs_04_critical_system_stewardship.md#cs-4-2-classification-as-steward) only when gated | Lightweight but real; basic accountability, feedback, correction, and dispute handling; safeguards against avoidable opacity, arbitrariness, and abuse within bounded scope | **No** formal external governance or participatory requirements while validly Class P |
+| **Governance** | Formal, multi-layered, and capture-resistant; constrained-scope authority, independent oversight and audit, emergency protocols, and accountability in normal and crisis conditions; test structures against failure, capture, and adversarial manipulation; Class A organizational and steward intensity continues under [CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md) (**CSS-A**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-411-integrated-risk-governance-class-ab)) | Formal, structured, and enforceable; clear authority/accountability; independent oversight or audit where appropriate; stakeholder representation/challenge; safeguards against concentration of power or systemic capture; Class B intensity continues under [CS-4](cs_04_critical_system_stewardship.md) (**CSS-B**; [Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-411-integrated-risk-governance-class-ab)) | Structured and accountable; clear responsibility; stakeholder feedback and challenge/dispute resolution; safeguards against capture, hidden control, and unilateral decisions that materially affect participants; Critical System Steward overlay under [CS-4 §2](cs_04_critical_system_stewardship.md#cs-42-classification-as-steward) only when gated | Lightweight but real; basic accountability, feedback, correction, and dispute handling; safeguards against avoidable opacity, arbitrariness, and abuse within bounded scope | **No** formal external governance or participatory requirements while validly Class P |
 | **Comprehensibility / CS-6** | **Maximum** ([CS-6](cs_06_comprehensibility_complexity_stewardship.md) / **Article XXII** (*Comprehensibility and Complexity Stewardship*)) | **Strict / high-assurance** | **Strong** — complexity audits when scale, coupling, or coordination depth warrant | **Proportionate** — deeper disclosure on contest; adversarial robustness scaled to bounded impact | **Internal / minimal external** — no standing independent complexity audits or public CS-6 reporting while Class P holds; CS-6 and corresponding **CJS-3** terms still guide design so opaque or brittle behavior does not cause material externalization that forces reclassification |
 
 ---
@@ -368,7 +368,7 @@ Per-class Trace and citation homes remain on [§9.6 Scaled duties](#96-scaled-du
 <a id="cs-3-9-class-a-survival-critical-foundational-and-irreplaceable-systems"></a>
 ## CS-3.9 Class A: Survival-critical, foundational, and irreplaceable systems
 
-**Impact posture:** Highest applicable survival-critical class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application); [§8 overview](#cs-3-8-system-impact-classifications)).
+**Impact posture:** Highest applicable survival-critical class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application); [§8 overview](#cs-38-system-impact-classifications)).
 
 *In plain terms: if this system fails within survival-relevant time and there is no real substitute, sentients lose survival conditions — treat it as foundational infrastructure with maximal, non-negotiable duties.*
 
@@ -405,12 +405,12 @@ See **§8.5** (*Reclassification edges*) — **Into A** row.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Absolute dependency often coincides).
-- Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#cs-3-5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
-- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap) (*Dependency types* — Absolute dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#cs-35-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
+- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*); **Article XXII** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*)–**CJS-3.10** (*Participation: disclosure sufficiency and observability terms*), **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*), **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*), **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
-- Read with: [CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b); **CJS-3.15** (*material classification-record honesty*).
+- Read with: [CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-411-integrated-risk-governance-class-ab); **CJS-3.15** (*material classification-record honesty*).
 - Read with: [Existential Risk](../core_05_band_continuity.md#existential-risk); [Cascading Failure](../core_05_band_continuity.md#cascading-failure); [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 
 </details>
@@ -424,7 +424,7 @@ See **§8.5** (*Reclassification edges*) — **Into A** row.
 <a id="cs-3-10-class-b-critical-high-dependency-systemically-significant-systems"></a>
 ## CS-3.10 Class B: Critical, high-dependency, systemically significant systems
 
-**Impact posture:** High-assurance infrastructure-dependency class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application); [§8 overview](#cs-3-8-system-impact-classifications)).
+**Impact posture:** High-assurance infrastructure-dependency class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application); [§8 overview](#cs-38-system-impact-classifications)).
 
 *In plain terms: dependents cannot keep core function without this system, but survival is not immediately lost if it fails and substitution remains possible within survival-relevant time — still strict, continuously validated duties.*
 
@@ -463,12 +463,12 @@ See **§8.5** (*Reclassification edges*) — **B → A** / **Into A** rows.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Operational dependency often coincides).
-- Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#cs-3-5-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
-- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap) (*Dependency types* — Operational dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §5](cs_03_a_system_classification_machinery.md#cs-35-boundaries-timeframes-and-resilience) (*Boundaries, timeframes, and resilience*).
+- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*); **Article XXII** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*)–**CJS-3.10** (*Participation: disclosure sufficiency and observability terms*), **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*), **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*), **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
-- Read with: [CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b); **CJS-3.15** (*material classification-record honesty*).
+- Read with: [CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-411-integrated-risk-governance-class-ab); **CJS-3.15** (*material classification-record honesty*).
 - Read with: [Cascading Failure](../core_05_band_continuity.md#cascading-failure); [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 
 </details>
@@ -482,7 +482,7 @@ See **§8.5** (*Reclassification edges*) — **B → A** / **Into A** rows.
 <a id="cs-3-11-class-c-coordinated-high-dependency-non-critical-systems"></a>
 ## CS-3.11 Class C: Coordinated, high-dependency, non-critical systems
 
-**Impact posture:** Strong coordination-layer class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application); [§8 overview](#cs-3-8-system-impact-classifications)).
+**Impact posture:** Strong coordination-layer class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application); [§8 overview](#cs-38-system-impact-classifications)).
 
 *In plain terms: the system shapes coordination at scale but is not an operational prerequisite for Class A/B function — still fully enforceable duties, proportional to impact and dependency.*
 
@@ -519,9 +519,9 @@ See **§8.5** (*Reclassification edges*) — **C → B** and **Into A** rows.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Coordination dependency often coincides).
-- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap) (*Dependency types* — Coordination dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*); **Article XXII** (*Comprehensibility and Complexity Stewardship*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*), **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*)–**CJS-3.10** (*Participation: disclosure sufficiency and observability terms*), **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*), **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*), **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 - Read with: **CJS-3.15** (*material classification-record honesty*); [§8 CS-local “systemic”](#cs-local-systemic-classification-language); [Cascading Failure](../core_05_band_continuity.md#cascading-failure).
 
@@ -536,7 +536,7 @@ See **§8.5** (*Reclassification edges*) — **C → B** and **Into A** rows.
 <a id="cs-3-12-class-l-local-limited-impact-and-non-critical-systems"></a>
 ## CS-3.12 Class L: Local, limited-impact, and non-critical systems
 
-**Impact posture:** Proportionate bounded-external-impact class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application); [§8 overview](#cs-3-8-system-impact-classifications)).
+**Impact posture:** Proportionate bounded-external-impact class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application); [§8 overview](#cs-38-system-impact-classifications)).
 
 *In plain terms: effects go beyond a private unit but stay local, replaceable, and containable — real accountability at a lighter scale, with reclassification when coordination or dependency grows.*
 
@@ -573,10 +573,10 @@ See **§8.5** (*Reclassification edges*) — **L → C or higher** row.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — proportionate Chapter Eight §3 evaluation).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — Limited dependency often coincides).
-- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap) (*Dependency types* — Limited dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*); **Article XXII** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*)–**CJS-3.10** (*Participation: disclosure sufficiency and observability terms*), **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*), **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*), **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 - Read with: [§8 CS-local “systemic”](#cs-local-systemic-classification-language); [Cascading Failure](../core_05_band_continuity.md#cascading-failure).
 
@@ -591,7 +591,7 @@ See **§8.5** (*Reclassification edges*) — **L → C or higher** row.
 <a id="cs-3-13-class-p-personal-private-use-isolated-and-experimental-systems"></a>
 ## CS-3.13 Class P: Personal, private-use, isolated, and experimental systems
 
-**Impact posture:** Contained private-unit class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application); [§8 overview](#cs-3-8-system-impact-classifications)).
+**Impact posture:** Contained private-unit class ([Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application); [§8 overview](#cs-38-system-impact-classifications)).
 
 *In plain terms: if effects stay inside a private unit with no meaningful outside reliance, constitutional requirements are mainly internal guidance — reclassify at least to Class L when externalization becomes real.*
 
@@ -628,10 +628,10 @@ See **§8.5** (*Reclassification edges*) — **P → at least L** row and Class 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-3-2-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
+- Topic routing (mandatory read-with): [Part A §2](cs_03_a_system_classification_machinery.md#cs-32-classification-dimensions-and-real-world-application) (*Classification dimensions and real-world application*).
 - Topic routing (mandatory read-with): [Part A §3.5](cs_03_a_system_classification_machinery.md#35-reclassification-requirement) (*Reclassification requirement* — Class P evaluation becomes mandatory on exit).
-- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-3-4-dependency-types-dep-a-p) (*Dependency types* — No meaningful external dependency often coincides).
-- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-3-7-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
+- Topic routing (mandatory read-with): [Part A §4](cs_03_a_system_classification_machinery.md#cs-34-dependency-types-dep-ap) (*Dependency types* — No meaningful external dependency often coincides).
+- Topic routing (mandatory read-with): [Part A §7](cs_03_a_system_classification_machinery.md#cs-37-classification-governance-disclosure-and-challenge) (*Classification governance, disclosure, and challenge*).
 - Read with: [CS-6](cs_06_comprehensibility_complexity_stewardship.md) (*Comprehensibility and complexity stewardship*); **Article XXII** (*Comprehensibility and Complexity Stewardship*); **CJS-3.8** (*Participation: comprehensibility and cognitive accessibility terms*)–**CJS-3.10** (*Participation: disclosure sufficiency and observability terms*), **CJS-3.16** (*Continuity: dependency integrity and disclosure terms*), **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*), **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*).
 - Read with: [§8 CS-local “systemic”](#cs-local-systemic-classification-language).
 

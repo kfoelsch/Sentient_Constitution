@@ -49,7 +49,7 @@ See: [Article VI-D](../../../core_06_rights_part_b.md#article-vi-d-accessibility
 - **Today:** A “neutral” rule does the same work as an explicit bar.
 - **With this Constitution:** Disability, health status, and variation in sensory, cognitive, or functional capability cannot be used, without adequate justification, as a basis for material disadvantage or exclusion.
 
-See: [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional); [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination).
+See: [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics); [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination).
 
 **Usable participation has an owner.**
 - **Today:** An accommodation exists on paper and fails in the room. Accommodations are favors.

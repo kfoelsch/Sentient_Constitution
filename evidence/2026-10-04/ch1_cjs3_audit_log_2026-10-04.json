@@ -359,42 +359,42 @@
     },
     "19": {
       "title": "Incentive Alignment and System Capture",
-      "line": 918,
+      "line": 932,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.1": {
       "title": "Alignment Requirement",
-      "line": 969,
+      "line": 987,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.2": {
       "title": "Convenient Proxies and Proxy Divergence",
-      "line": 1089,
+      "line": 1111,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.3": {
       "title": "Misalignment Detection",
-      "line": 1121,
+      "line": 1143,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.4": {
       "title": "Misalignment Correction and Capture Response",
-      "line": 1194,
+      "line": 1216,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.5": {
       "title": "Contingent Claims, Games of Chance, and Event-Contract Markets",
-      "line": 1247,
+      "line": 1265,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "19.6": {
-      "title": "Successor Responsibility and Formal-Structure Non-Escape",
-      "line": 1405,
+      "title": "Keeping Responsibility When Ownership or Structure Changes",
+      "line": 1409,
       "file": "core_01_c_stewardship_capacity_principles.md"
     },
     "20": {
       "title": "Integrated Application",
-      "line": 1460,
+      "line": 1464,
       "file": "core_01_c_stewardship_capacity_principles.md"
     }
   },
@@ -2620,7 +2620,7 @@
           "missing": []
         },
         {
-          "label": "Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive \u2014 including the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional), the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record-constitutional), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-2** (*Information types and handling*), **CS-3** (*System classification machinery*), and peers). How System Alignment Certification treats resulting defects lives under **Chapter Eight** and **[Part B \u00a716](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)**.",
+          "label": "Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive \u2014 including the [System Classification Record](../core_05_band_continuity.md#system-classification-record), the [System Data Types Record](../core_05_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**CS-2** (*Information types and handling*), **CS-3** (*System classification machinery*), and peers). How System Alignment Certification treats resulting defects lives under **Chapter Eight** and **[Part B \u00a716](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)**.",
           "line": 1193,
           "has_what_it_is": true,
           "has_how_to_measure": true,

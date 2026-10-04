@@ -27,7 +27,7 @@
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **`corpus_systems.md` CS-2 — Information types and handling** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality-determination).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00_preamble.md#material-stake) via [Materiality](../core_05_band_oversight.md#materiality).
 - Chapter One basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.1** (*Topic router*); primary owner **CJS-2.3** (*Cross-implementation trust integrity (joint operation model)*).
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.1** (*Topic router*); primary owner **CJS-3.6** (*Oversight: integrity assurance and resilience operations*).
@@ -43,7 +43,7 @@
 - [Transparency](../core_05_band_oversight.md#transparency) · [O](../core_05_band_oversight.md#transparency) · [M](../core_05_band_oversight.md#transparency-a) · [A](../core_05_band_oversight.md#transparency-a) · [C](../core_05_band_oversight.md#transparency-c)
 - [Dependency](../core_05_band_continuity.md#dependency) · [O](../core_05_band_continuity.md#dependency) · [M](../core_05_band_continuity.md#dependency-a) · [A](../core_05_band_continuity.md#dependency-a) · [C](../core_05_band_continuity.md#dependency-c)
 - [Material](../core_05_band_oversight.md#material) · [O](../core_05_band_oversight.md#material) · [M](../core_05_band_oversight.md#material-a) · [A](../core_05_band_oversight.md#material-a) · [C](../core_05_band_oversight.md#material-c)
-- [System](../core_05_band_continuity.md#system-definition) · [O](../core_05_band_continuity.md#system-definition) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
+- [System](../core_05_band_continuity.md#system) · [O](../core_05_band_continuity.md#system) · [M](../core_05_band_continuity.md#system-definition-a) · [A](../core_05_band_continuity.md#system-definition-a) · [C](../core_05_band_continuity.md#system-definition-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
@@ -54,9 +54,9 @@ This file is the joint-structure implementation home for **CJS-3.3** (*Audit pro
 
 *In plain terms: this is the shared audit-process home for systems, institutions, and forums — what auditing is, why we do it, how we do it, and when. The Rights Floor stays in **Article XVI** (*Audit, Transparency, and Independent Verification*); the machine-facing checklists live in the **CJS-3.3** (*auditability and reconstructability terms*)–**CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) OP annexes.*
 
-**Cluster identity.** Stable citation **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*) names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md#cjs-33-auditability-annex) under the same cluster ID — annex, not the front door.
+**Cluster identity.** Stable citation **CJS-3.3** (*Oversight: auditability and reconstructability terms (annex)*) names this process home. The guidepost **oDef** auditability and reconstructability checklist remains in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md#cjs-33-oversight-auditability-and-reconstructability-terms-annex) under the same cluster ID — annex, not the front door.
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
-**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) (Chapter Eight) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVI** (*Audit, Transparency, and Independent Verification*) floors into Chapter Eight or into any single CS / CI / CF file.
+**Oversight frame.** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) (Chapter Eight) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVI** (*Audit, Transparency, and Independent Verification*) floors into Chapter Eight or into any single CS / CI / CF file.
 
 <a id="cjs-33-what-auditing-is"></a>
 
@@ -74,7 +74,7 @@ Auditing **is**:
 
 Auditing **is not**:
 - a rubber stamp, marketing packet, or forever pass
-- the same thing as [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) alone — SAC is one large sibling mode
+- the same thing as [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) alone — SAC is one large sibling mode
 - a single auditor, operator, or gatekeeper monopolizing review (**Article XVI-B** (*Distributed Oversight and Anti-Monopoly Review*))
 - a substitute for challenge and remedy under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*)
 - satisfied by saying "audit happened" when outputs are missing, unreachable, or typed more restrictively than justified
@@ -101,7 +101,7 @@ Depth and frequency scale with [material stake](../core_00_preamble.md#material-
 
 A working audit process follows this chain:
 
-1. **Preserve evidence:** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-3.3 Auditability and reconstructability terms (annex)](cjs_03o_oversight_operations.md#cjs-33-auditability-annex); **Article XVI-A** (*Auditability and Observable Evidence*)).
+1. **Preserve evidence:** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-3.3 Auditability and reconstructability terms (annex)](cjs_03o_oversight_operations.md#cjs-33-oversight-auditability-and-reconstructability-terms-annex); **Article XVI-A** (*Auditability and Observable Evidence*)).
 2. **Choose the access path:** Use the tier that fits the data and the question:
    - **public baseline** where [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-2** (*Information types and handling*))
    - **qualified / structured audit access** to non-public source (**Type G** or other non-public typing) when raw public release is inappropriate
@@ -150,7 +150,7 @@ Audit when any of the following applies (often more than one):
 | Cross-implementation trust when layers combine | **CJS-2.3** / **CJS-R17** |
 
 **Machine-facing annexes (not this file):**
-- Auditability and reconstructability OP terms → [CJS-3.3 annex](cjs_03o_oversight_operations.md#cjs-33-auditability-annex)
+- Auditability and reconstructability OP terms → [CJS-3.3 annex](cjs_03o_oversight_operations.md#cjs-33-oversight-auditability-and-reconstructability-terms-annex)
 - Access tiers and audit-output disclosure → [CJS-3.4](cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*)
 - Independent claim verification → **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) in [cjs_03o_oversight_operations.md](cjs_03o_oversight_operations.md)
 

@@ -66,6 +66,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from ch5_paths import CH5_ALL, CH5_INDEX as CH5_PART_A, CH5_BANDS
+from local_markdown_fragment_audit import anchor_info
 
 CH5_FILENAME = CH5_PART_A
 
@@ -235,7 +236,10 @@ def collect_all_ch5_anchors(root: Path) -> set[str]:
     for name in CH5_ALL:
         p = root / name
         if p.exists():
-            merged |= collect_ch5_anchors(p.read_text(encoding="utf-8"))
+            text = p.read_text(encoding="utf-8")
+            merged |= collect_ch5_anchors(text)
+            # Heading slugs are valid link targets too (HTML-ANCHOR-LINK-01).
+            merged |= anchor_info(text)[1]
     merged |= directory_slugs_from_part_a(root)
     return merged
 

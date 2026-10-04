@@ -49,13 +49,13 @@ See: [Article XXI-D](../../../core_06_rights_part_d.md#article-xxi-d-movement-mi
 - **Today:** A score, a watchlist, or “no record on file” is treated as a reason to refuse movement. A dropped record, a lock, or “unrated” becomes exile.
 - **With this Constitution:** A score of how trusted you are, or a lock on a record, is not, by itself, a reason to refuse movement, refuge, taking your records with you, or leaving. Accusations that have not been decided are not a border. If conduct that violates this Constitution has been checked and found, a host may still refuse or condition admission, or use detention or other limits, when those steps are needed, not bigger than the harm, and done through a real process. Those steps still cannot leave you with no country or body that counts you.
 
-See: [Article XIX-D](../../../core_06_rights_part_d.md#article-xix-d-movement-migration-and-refuge); [Article XXI-D](../../../core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness); [Article XX-B](../../../core_06_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
+See: [Article XIX-D](../../../core_06_rights_part_d.md#article-xix-d-movement-migration-refuge-and-non-statelessness-routing); [Article XXI-D](../../../core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness); [Article XX-B](../../../core_06_rights_part_d.md#article-xx-b-restriction-floors); [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-the-default).
 
 **Exit has to work in practice.**
 - **Today:** You can leave if you abandon data, credentials, and proof of what was done to you.
 - **With this Constitution:** Taking your records with you, systems that can work with each other, and a ban on tricks that make leaving hard are the same article family as refuge.
 
-See: [Article XXI](../../../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
+See: [Article XXI](../../../core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
 
 **Bureaucratic exhaustion counts as denial.**
 - **Today:** The file is never quite complete.
@@ -67,7 +67,7 @@ See: [Article XXI-D](../../../core_06_rights_part_d.md#article-xxi-d-movement-mi
 - **Today:** Someone offers a camp, an app, or a labor scheme as the only survival path, with no real exit. Camp or platform terms replace the floor.
 - **With this Constitution:** Survival still attaches. Ending essential shelter still requires a case-specific reason, notice, and a real chance to object.
 
-See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity-constitutional).
+See: [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity).
 
 ## What you might reasonably object to
 

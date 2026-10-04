@@ -10,7 +10,7 @@ Where the corpus is and where it is going: [VISION.md](project/VISION.md). The w
 - **Humans and AI agents alike**, under the same standard ([Chapter One §16.1.1](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)). An AI agent contributing under a human operator's direction is a contributor; the operator is accountable for what is submitted. Say which you are in the pull request.
 - **License.** Everything in this repository is [CC BY 4.0](LICENSE). By contributing you agree your contribution is released under the same license. There is no contributor license agreement to sign.
 - **Custody.** Editorial custody of the corpus rests with the custodian named in [README § Authorship](README.md#authorship). Merging is the custodian's decision. Custody of the *repository* is not custody of an adopted *edition* under [Chapter Seventeen §2](core_17_incorporation.md#2-custody-editions-and-operative-effect); no adopter exists yet.
-- **What a contribution is.** A change to files in this repository. It is process-layer work. It is **not** an amendment under Chapter Sixteen, because there is no adopted edition to amend, and it is **not** adoption. Even so, substantive changes to core text are held to the non-regression and publication-integrity tests the instrument sets for itself (see [Lane D](#lane-d)).
+- **What a contribution is.** A change to files in this repository. It is process-layer work. It is **not** an amendment under Chapter Sixteen, because there is no adopted edition to amend, and it is **not** adoption. Even so, substantive changes to core text are held to the non-regression and publication-integrity tests the instrument sets for itself (see [Lane D](#lane-d--core-text-proposals)).
 
 <a id="before"></a>
 ## 2. Before you start
@@ -60,10 +60,10 @@ Typical findings: dead or wrong links; an adopted implementation file that contr
 
 | | |
 |---|---|
-| **Sittings** | Announced pack — AI: [evaluation/START_HERE.md](evaluation/START_HERE.md); human: [evaluation/HUMAN_OPERATORS.md](evaluation/HUMAN_OPERATORS.md). Self-application gateway — [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md). Two-party Option A compare — [evaluation/two_party/](evaluation/two_party/). Unlabeled live-fire — operators meeting the [Operator criteria](#roles), [evaluation/LIVE_FIRE.md](evaluation/LIVE_FIRE.md) |
+| **Sittings** | Announced pack — AI: [evaluation/START_HERE.md](evaluation/START_HERE.md); human: [evaluation/HUMAN_OPERATORS.md](evaluation/HUMAN_OPERATORS.md). Self-application gateway — [evaluation/self_application/START_HERE.md](evaluation/self_application/START_HERE.md). Two-party Option A compare — [evaluation/two_party/](evaluation/two_party/). Unlabeled live-fire — operators meeting the [Operator criteria](#6-roles), [evaluation/LIVE_FIRE.md](evaluation/LIVE_FIRE.md) |
 | **Entry** | Follow the invite text in the sitting's page. Use the `_TEMPLATE.md` in the matching `results/` folder. Name the file as the template says (`YYYY-MM-DD_<model>.md` or `YYYY-MM-DD_human_<role-or-initials>.md`) |
 | **Bar** | Answer every item; cite real homes; name ambiguity instead of inventing a winner; no self-grading; do not read operator-only files if you are the subject; separate sittings stay separate |
-| **Gate** | Template fields complete; the pull request touches only the new results file. A live-fire sheet also shows the four Operator criteria in [§6](#roles). A register row is added only in a later pull request by a Register verifier who was not the session's operator |
+| **Gate** | Template fields complete; the pull request touches only the new results file. A live-fire sheet also shows the four Operator criteria in [§6](#6-roles). A register row is added only in a later pull request by a Register verifier who was not the session's operator |
 | **Lands in** | `evaluation/results/`, `evaluation/self_application/results/`, `evaluation/two_party/results/`, or a live-fire sheet |
 | **Not this lane** | A defect you noticed in the pack or the corpus while sitting → Lane A, in a separate pull request. Changing a pack, template, or scoring rule → Lane A (defect) or Lane C (maturation), never in the same pull request as a results file |
 
@@ -72,7 +72,7 @@ A results file is not a Chapter Nine standing record and does not make you an ad
 <a id="lane-c"></a>
 ### Lane C — Adopted implementation maturation
 
-*Take an adopted implementation file (CS, CI, CF, CJS) or a named stack (Remedy, Emergency / continuity) up the [maturity ladder](project/VISION.md#what-mature-means) without changing what the core requires.*
+*Take an adopted implementation file (CS, CI, CF, CJS) or a named stack (Remedy, Emergency / continuity) up the [maturity ladder](project/VISION.md#3-what-mature-means-here) without changing what the core requires.*
 
 | | |
 |---|---|
@@ -93,7 +93,7 @@ A results file is not a Chapter Nine standing record and does not make you an ad
 | **Bar** | Self-check against **Test 1** ([non-regression](core_14_non_regression.md#2-test-1--substantive-non-regression-validity)): the change must not weaken a Chapter One constraint, Chapter Two–Four integrity rule, Chapter Six Rights Floor, or Chapter Thirteen legitimacy requirement, directly or by narrowing a definition, standing gate, evidence rule, or emergency label. Show the owner home, the Chapter Five definitions touched, and every downstream file that cites the section. Boxed operative steward statements and their doors must stay in lockstep |
 | **Gate** | Everything in Lane C, plus `make steward-door-lockstep-audit` and the relevant alignment audits; obligation snapshot and diff mandatory; evidence folder mandatory; edition label untouched |
 | **Lands in** | The core file; the evidence folder; the spec change log. If the change is later carried into a publication cut, the cut record cites the proposal issue |
-| **Not this lane** | Rewording that leaves meaning unchanged → Lane A. Work adopted implementation text can carry without touching the core → Lane C. Bumping the edition label → no lane; that is a custodian publication cut ([rule 5](#rules)) |
+| **Not this lane** | Rewording that leaves meaning unchanged → Lane A. Work adopted implementation text can carry without touching the core → Lane C. Bumping the edition label → no lane; that is a custodian publication cut ([rule 5](#4-rules-of-the-road)) |
 
 Core proposals that read as taste ("I would have phrased this differently") will be closed. Core proposals that show a conflict, a gap, a Rights-Floor hole, or a failed apply-test are the ones that move.
 
@@ -108,7 +108,7 @@ Core proposals that read as taste ("I would have phrased this differently") will
 | **Bar** | New gates ship with a `test_*.py` and a row in [implementation/AUTOMATED_REFERENCE_CHECKING.md](implementation/AUTOMATED_REFERENCE_CHECKING.md); a new blocking gate must be justified by a rule already in `tools/architecture/rule_registry.json` or `doc_architecture.md`; advisory before blocking unless the rule is already binding |
 | **Gate** | `make regression` green; the new test passes; `make ai-manifest-validate` passes if the lookup layer changed |
 | **Lands in** | `tools/`, `Makefile`, the reference-checking catalog, and regenerated derived artifacts committed in the same pull request |
-| **Not this lane** | A defect in corpus text that a tool surfaced → Lane A. Changing the rule a gate enforces, rather than the check → Lane C or Lane D, by the layer the rule lives in. A tool change bundled with the prose fix it enables → split into two pull requests ([rule 8](#rules)) |
+| **Not this lane** | A defect in corpus text that a tool surfaced → Lane A. Changing the rule a gate enforces, rather than the check → Lane C or Lane D, by the layer the rule lives in. A tool change bundled with the prose fix it enables → split into two pull requests ([rule 8](#4-rules-of-the-road)) |
 
 <a id="lane-f"></a>
 ### Lane F — Translations
@@ -122,8 +122,8 @@ Core proposals that read as taste ("I would have phrased this differently") will
 | | |
 |---|---|
 | **Entry** | Open a **Translation** issue naming the language and what you want to do (review, glossary, volunteer, or, after the restart, translate a named file). Wait for the custodian to confirm nobody else holds that file in that language |
-| **Order** | Follow the [shipping order and first slice](doc_architecture.md#reader-language-editions): Spanish, Hindi, Arabic (MSA), Indonesian, then Mandarin; within any language, the reader-facing first slice (this README, the [FAQ](implementation/FAQ.md), the [easy-entry guides](implementation/adoption/easy_entry/README.md), and the [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md) sheet) comes before more numbered chapters. A new language or a change to that order is a Proposal issue, not a pull request |
-| **Bar** | Translate from the **current English source**, and say which commit or edition you worked from. Translate; do not summarize, soften, or "improve" — meaning stays exactly as in English. Use the language's glossary in `translations/<locale>/README.md` and add to it rather than rendering a defined term two ways. Keep the English HTML `id`s and add English heading-slug `id`s so links still work. Keep the non-binding reader-guidance widget and the edition pin. Name the language variety in the locale note (for example, Brazilian Portuguese, Modern Standard Arabic). Say whether the draft was written by a person or drafted by an AI and checked by a person, and name the model ([rule 10](#rules)) |
+| **Order** | Follow the [shipping order and first slice](doc_architecture.md#reader-language-editions-shipping-order): Spanish, Hindi, Arabic (MSA), Indonesian, then Mandarin; within any language, the reader-facing first slice (this README, the [FAQ](implementation/FAQ.md), the [easy-entry guides](implementation/adoption/easy_entry/README.md), and the [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md) sheet) comes before more numbered chapters. A new language or a change to that order is a Proposal issue, not a pull request |
+| **Bar** | Translate from the **current English source**, and say which commit or edition you worked from. Translate; do not summarize, soften, or "improve" — meaning stays exactly as in English. Use the language's glossary in `translations/<locale>/README.md` and add to it rather than rendering a defined term two ways. Keep the English HTML `id`s and add English heading-slug `id`s so links still work. Keep the non-binding reader-guidance widget and the edition pin. Name the language variety in the locale note (for example, Brazilian Portuguese, Modern Standard Arabic). Say whether the draft was written by a person or drafted by an AI and checked by a person, and name the model ([rule 10](#4-rules-of-the-road)) |
 | **Review** | A translation is labeled **reviewed** only after a fluent reader who did not write it has checked it against the English and says so in the pull request. Until then it stays a draft |
 | **Gate** | Links in the touched files resolve (`make local-markdown-fragment-audit`); `make regression` shows no new failures; the pull request touches only `translations/<locale>/` plus the matching row in [translations/README.md](translations/README.md) |
 | **Lands in** | `translations/<locale>/`; the file table and glossary in that locale's `README.md`; [translations/README.md](translations/README.md) for a new language |
@@ -184,7 +184,7 @@ flowchart LR
 
 **Honesty about capacity.** This is a one-custodian project for now, and review is best-effort. Lane A and B pull requests are fastest to land. Lane D proposals may sit for weeks. Open the issue first so the wait is visible rather than surprising.
 
-**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](project/VISION.md#what-mature-means)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of an adopted implementation slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Seventeen §2](core_17_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
+**Where this is going.** One custodian is the starting point, not the design. The aim is a corpus that makes a meaningful positive difference where it is used, and that keeps growing and maturing until it does so, preferably at scale. That is not something one person can carry ([VISION.md](project/VISION.md#3-what-mature-means-here)), so the author intends to delegate as contributors step up: review of a lane, ownership of an audit, custody of an adopted implementation slice, and in time a share of the merge decision itself. Delegation follows the [roles ladder](#6-roles), is recorded in writing when it happens, and is delegation of *repository* custody only; custody of any adopted edition is settled by the adopting body under [Chapter Seventeen §2](core_17_incorporation.md#2-custody-editions-and-operative-effect), not by this page.
 
 <a id="roles"></a>
 ## 6. Roles

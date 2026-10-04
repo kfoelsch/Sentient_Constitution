@@ -4,6 +4,14 @@
 By default every in-repository Markdown link target is validated: the target
 file must exist and any ``#fragment`` must resolve to a real anchor. Pass
 ``--target`` to narrow the audit to inbound links for one document.
+
+Editor-resolvable fragments (HTML-ANCHOR-LINK-01). A fragment that resolves only
+through a custom ``<a id="...">`` anchor is not followed by VS Code's Markdown
+preview, while the heading's own slug is. When such an ``<a id>`` sits directly
+above a heading whose slug is unique in that file, the link must use the
+heading slug. Anchors with no heading directly below them (the ``-a``/``-c``
+measurement and compliance sub-anchors, mid-list targets) have no heading slug to
+switch to and are left alone. ``--fix`` rewrites the flagged links in place.
 """
 
 from __future__ import annotations
@@ -104,6 +112,11 @@ def parse_args() -> argparse.Namespace:
             "Optional repository-relative Markdown file whose inbound links are "
             "checked. Omit to validate every in-repository link target."
         ),
+    )
+    parser.add_argument(
+        "--fix",
+        action="store_true",
+        help="Rewrite html-anchor-link findings to the heading anchor, then re-audit.",
     )
     parser.add_argument(
         "--scope",
@@ -216,9 +229,20 @@ def github_slug(heading: str) -> str:
 
 
 def anchors_in(text: str) -> set[str]:
+    return anchor_info(text)[0]
+
+
+def anchor_info(text: str) -> tuple[set[str], set[str], dict[str, str]]:
+    """Return (all anchors, heading slugs, id -> heading slug).
+
+    The third value maps a custom ``<a id>`` to the slug of the heading directly
+    below it (only blank lines between), and only when that slug is unique in the
+    file, so the heading anchor is a stable replacement.
+    """
     lines = content_lines(text)
     anchors: set[str] = set()
     heading_bases: list[str] = []
+    heading_line_base: dict[int, str] = {}
 
     for _, line in lines:
         for match in HTML_ANCHOR_RE.finditer(line):
@@ -227,7 +251,9 @@ def anchors_in(text: str) -> set[str]:
     for index, (_, line) in enumerate(lines):
         atx = ATX_HEADING_RE.match(line)
         if atx and atx.group(2) is not None:
-            heading_bases.append(github_slug(atx.group(2)))
+            base = github_slug(atx.group(2))
+            heading_bases.append(base)
+            heading_line_base[lines[index][0]] = base
             continue
         if index + 1 < len(lines):
             next_no, next_line = lines[index + 1]
@@ -236,7 +262,9 @@ def anchors_in(text: str) -> set[str]:
                 and line.strip()
                 and SETEXT_RE.match(next_line)
             ):
-                heading_bases.append(github_slug(line.strip()))
+                base = github_slug(line.strip())
+                heading_bases.append(base)
+                heading_line_base[lines[index][0]] = base
 
     used: set[str] = set()
     next_suffix: dict[str, int] = {}
@@ -249,7 +277,24 @@ def anchors_in(text: str) -> set[str]:
         used.add(slug)
         next_suffix[base] = suffix
         anchors.add(slug)
-    return anchors
+
+    base_counts: dict[str, int] = {}
+    for base in heading_bases:
+        base_counts[base] = base_counts.get(base, 0) + 1
+    id_to_heading: dict[str, str] = {}
+    for index, (_, line) in enumerate(lines):
+        for match in HTML_ANCHOR_RE.finditer(line):
+            ident = html.unescape(next(group for group in match.groups() if group))
+            if ident in used or ident in id_to_heading:
+                continue
+            probe = index + 1
+            while probe < len(lines) and not lines[probe][1].strip():
+                probe += 1
+            if probe < len(lines):
+                base = heading_line_base.get(lines[probe][0])
+                if base and base_counts.get(base) == 1:
+                    id_to_heading[ident] = base
+    return anchors, used, id_to_heading
 
 
 def resolve_link(root: Path, link: Link) -> tuple[Path, str | None] | None:
@@ -283,7 +328,7 @@ def audit(
 ) -> list[Finding]:
     root = root.resolve()
     findings: list[Finding] = []
-    anchor_cache: dict[Path, set[str]] = {}
+    anchor_cache: dict[Path, tuple[set[str], set[str], dict[str, str]]] = {}
 
     for source_path in paths:
         source = source_path.resolve()
@@ -323,10 +368,11 @@ def audit(
             if fragment is None:
                 continue
             if target_path not in anchor_cache:
-                anchor_cache[target_path] = anchors_in(
+                anchor_cache[target_path] = anchor_info(
                     target_path.read_text(encoding="utf-8")
                 )
-            if fragment not in anchor_cache[target_path]:
+            all_anchors, _heading_slugs, id_to_heading = anchor_cache[target_path]
+            if fragment not in all_anchors:
                 findings.append(
                     Finding(
                         source_rel,
@@ -336,7 +382,52 @@ def audit(
                         f"fragment #{fragment} is absent from {target_rel}",
                     )
                 )
+            elif fragment in id_to_heading:
+                findings.append(
+                    Finding(
+                        source_rel,
+                        link.line,
+                        "html-anchor-link",
+                        link.raw_target,
+                        f"#{fragment} is a custom <a id>; use the heading anchor "
+                        f"#{id_to_heading[fragment]} (HTML-ANCHOR-LINK-01: "
+                        f"the editor preview only follows heading anchors)",
+                    )
+                )
     return findings
+
+
+def fix_html_anchor_links(root: Path, findings: list[Finding]) -> int:
+    """Rewrite html-anchor-link findings to the heading anchor. Return edits."""
+    by_source: dict[str, list[Finding]] = {}
+    for finding in findings:
+        if finding.kind == "html-anchor-link":
+            by_source.setdefault(finding.source, []).append(finding)
+    edits = 0
+    for source, items in by_source.items():
+        path = root / source
+        lines = path.read_text(encoding="utf-8").split("\n")
+        for finding in items:
+            replacement = re.search(r"use the heading anchor #(\S+) \(", finding.detail)
+            if replacement is None:
+                continue
+            old_target = finding.target
+            base, _, _frag = old_target.partition("#")
+            new_target = f"{base}#{replacement.group(1)}"
+            index = finding.line - 1
+            if index < len(lines):
+                # Whole-target match only: "x.md#a" must not rewrite the head
+                # of a sibling link such as "x.md#a-c" on the same line.
+                rewritten = re.sub(
+                    r"(?<![\w#.-])" + re.escape(old_target) + r"(?![\w-])",
+                    lambda _m: new_target,
+                    lines[index],
+                )
+                if rewritten != lines[index]:
+                    lines[index] = rewritten
+                    edits += 1
+        path.write_text("\n".join(lines), encoding="utf-8")
+    return edits
 
 
 def main() -> int:
@@ -345,6 +436,10 @@ def main() -> int:
     paths = source_files(root, args.scope)
     selected_target = (root / args.target).resolve() if args.target else None
     findings = audit(root, paths, selected_target)
+    if args.fix and findings:
+        edits = fix_html_anchor_links(root, findings)
+        print(f"local-markdown-fragment-audit: --fix rewrote {edits} link(s)")
+        findings = audit(root, paths, selected_target)
 
     if findings:
         print(

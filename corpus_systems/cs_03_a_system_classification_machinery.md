@@ -13,7 +13,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: Integrative Materiality ([Materiality](../core_05_band_oversight.md#materiality-determination)) (*Materiality gate for class scaling*); [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional); [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional); [Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Chapter Eight Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*System Classification Record as certification-record component*); [Chapter Eight Part B §12](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) and [§14](../core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*contest when class is inside an active certification record*); [Chapter Eight Part B §16](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) (*reopening on system-class misalignment*); [CS-5 — Design, testing, verification, and deployment](cs_05_design_testing_verification_deployment.md) (*recertification and regression testing*); [CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with) (*Scope, purpose, and boundary interface*).
+- Read with: Integrative Materiality ([Materiality](../core_05_band_oversight.md#materiality)) (*Materiality gate for class scaling*); [System Classification Record](../core_05_band_continuity.md#system-classification-record); [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification); [System Certification Record](../core_05_band_continuity.md#system-certification-record); [Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation); [Chapter Eight Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents) (*System Classification Record as certification-record component*); [Chapter Eight Part B §12](../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability) and [§14](../core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*contest when class is inside an active certification record*); [Chapter Eight Part B §16](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion) (*reopening on system-class misalignment*); [CS-5 — Design, testing, verification, and deployment](cs_05_design_testing_verification_deployment.md) (*recertification and regression testing*); [CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with) (*Scope, purpose, and boundary interface*).
 
 </details>
 
@@ -27,12 +27,12 @@
 
 *In plain terms: classify systems by what they actually do and what can go wrong — not by what operators say they are — keep that class in a System Classification Record that audits can check, and keep the record challengeable and up to date.*
 
-**CS-3 — System classification and handling** is how systems get a class from what they actually do and what can go wrong — not from what operators call them. Class is **material audited information**: auditing processes require it, and System Classification Record audits check it between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) cycles ([§1.3 Mandatory, functional classification](#13-mandatory-functional-classification); [§7.3 Audit the System Classification Record](#73-auditability-and-verification)).
+**CS-3 — System classification and handling** is how systems get a class from what they actually do and what can go wrong — not from what operators call them. Class is **material audited information**: auditing processes require it, and System Classification Record audits check it between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) cycles ([§1.3 Mandatory, functional classification](#13-mandatory-functional-classification); [§7.3 Audit the System Classification Record](#73-auditability-and-verification)).
 
 - **Duties scale:** Stronger impact and dependency mean stronger obligations.
 - **No evasion:** Classification **cannot evade** constitutional requirements.
-- **Record required:** For every system with **material impact**, CS-3 (*System classification machinery*) requires a [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) that states both findings — impact class and dependency type(s) — along with the reasons, assumptions, remaining uncertainty, and when the class must be checked or updated.
-- **Certification bridge:** When System Alignment Certification runs, that record must be produced or verified and included in the [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional).
+- **Record required:** For every system with **material impact**, CS-3 (*System classification machinery*) requires a [System Classification Record](../core_05_band_continuity.md#system-classification-record) that states both findings — impact class and dependency type(s) — along with the reasons, assumptions, remaining uncertainty, and when the class must be checked or updated.
+- **Certification bridge:** When System Alignment Certification runs, that record must be produced or verified and included in the [System Certification Record](../core_05_band_continuity.md#system-certification-record).
 
 CS-3 (*System classification machinery*) implements:
 
@@ -41,14 +41,14 @@ CS-3 (*System classification machinery*) implements:
   - **Existential and worst-case accounting** — classify to the highest plausible level where credible failure modes or civilization-scale harm pathways exist ([§1.2 Classification and existential risk](#12-classification-and-existential-risk))
   - **Mandatory functional classification** — class follows observed and reasonably foreseeable effects, not intent or self-description; remains transparent, auditable, challengeable, and continuously revalidated in a System Classification Record ([§1.3 Mandatory, functional classification](#13-mandatory-functional-classification))
   - **Alignment-status recognition and ambiguity default** — the System Classification Record must support forum recognition or revalidation when official alignment status is required; ambiguity defaults to protecting Foundational Rights ([§1.4 Alignment-status recognition and ambiguity default](#14-alignment-status-recognition-and-ambiguity-default))
-  - **Criticality, concentration, temporal, and adversarial factors** — operational criticality, concentration triggers, delayed/threshold behavior, and adversarial dynamics ([§3 Criticality, concentration, temporal, and adversarial factors](#cs-3-3-criticality-concentration-temporal-and-adversarial-factors))
+  - **Criticality, concentration, temporal, and adversarial factors** — operational criticality, concentration triggers, delayed/threshold behavior, and adversarial dynamics ([§3 Criticality, concentration, temporal, and adversarial factors](#cs-33-criticality-concentration-temporal-and-adversarial-factors))
 - **What the System Classification Record must state (dual axes)**
-  - **Dependency typing** — applicable **dependency type(s)** (**Dep-A–P** reliance categories) as a distinct axis from impact class ([§4 Dependency types (Dep-A–P)](#cs-3-4-dependency-types-dep-a-p))
-  - **Impact-class catalog** — **Class A** through **Class P** impact definitions and scaled duties in **[Part B §§8–13](cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications)**
-  - **Boundaries, timeframes, and resilience** — effective boundaries, survival-relevant timeframes, and class-scaled continuity ([§5 Boundaries, timeframes, and resilience](#cs-3-5-boundaries-timeframes-and-resilience))
+  - **Dependency typing** — applicable **dependency type(s)** (**Dep-A–P** reliance categories) as a distinct axis from impact class ([§4 Dependency types (Dep-A–P)](#cs-34-dependency-types-dep-ap))
+  - **Impact-class catalog** — **Class A** through **Class P** impact definitions and scaled duties in **[Part B §§8–13](cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications)**
+  - **Boundaries, timeframes, and resilience** — effective boundaries, survival-relevant timeframes, and class-scaled continuity ([§5 Boundaries, timeframes, and resilience](#cs-35-boundaries-timeframes-and-resilience))
 - **How class is applied and governed**
-  - **Domain mapping and scarce-capacity handling** — published domain crosswalk, ordinary application examples, and API/traffic priority rules ([§6 Domain taxonomy, ordinary examples, and scarce-capacity handling](#cs-3-6-domain-taxonomy-ordinary-examples-and-scarce-capacity-handling))
-  - **Classification governance** — own, disclose, audit, challenge, update, and correct the System Classification Record; prove the class it states; Class A/B org risk roles live in **[CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b)** ([§7 Classification governance, disclosure, and challenge](#cs-3-7-classification-governance-disclosure-and-challenge))
+  - **Domain mapping and scarce-capacity handling** — published domain crosswalk, ordinary application examples, and API/traffic priority rules ([§6 Domain taxonomy, ordinary examples, and scarce-capacity handling](#cs-36-domain-taxonomy-ordinary-examples-and-scarce-capacity-handling))
+  - **Classification governance** — own, disclose, audit, challenge, update, and correct the System Classification Record; prove the class it states; Class A/B org risk roles live in **[CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-411-integrated-risk-governance-class-ab)** ([§7 Classification governance, disclosure, and challenge](#cs-37-classification-governance-disclosure-and-challenge))
   - **Joint reading** — CS families, CJS clusters, CS-5 (*User-facing capability surfaces*), and Chapter Five meanings co-apply per **[CS-1](cs_01_scope_purpose_identifier_rules.md#operates-in-conjunction-with)** (*Scope, purpose, and boundary interface*)
 
 <a id="11-holistic-classification"></a>
@@ -83,7 +83,7 @@ Account for expected and credible worst-case conditions in the system's realisti
 
 **No** system may claim **reduced obligations**, **exemptions**, or **lower-impact** classification while exerting **material external** effects.
 
-**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. Operators must maintain a [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional). That record is **material audited information**: it is independently checked as a sibling audit mode under the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)**, between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) cycles. Scaled System Classification Record audit duties live in [§7.3 Audit the System Classification Record](#73-auditability-and-verification). Classification must be:
+**Classification under CS-3 — System classification and handling** is **mandatory** for all systems with **material impact**. Operators must maintain a [System Classification Record](../core_05_band_continuity.md#system-classification-record). That record is **material audited information**: it is independently checked as a sibling audit mode under the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)**, between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) cycles. Scaled System Classification Record audit duties live in [§7.3 Audit the System Classification Record](#73-auditability-and-verification). Classification must be:
 
 - **functionally determined** from observed and reasonably foreseeable effects rather than declared intent, structure, or self-description
 - **transparent**, **auditable**, and **subject to challenge** under:
@@ -99,7 +99,7 @@ Account for expected and credible worst-case conditions in the system's realisti
 
 Where classification, deployment, or continued operation depends on official constitutional alignment status:
 
-- the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must support **Integrity** forum recognition or revalidation under `core_12_forum.md` **Chapter Twelve** and [**CF-7.2**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md#cf-72-constitutional-alignment-recognition-and-review) (*Constitutional alignment recognition and review*)
+- the [System Classification Record](../core_05_band_continuity.md#system-classification-record) must support **Integrity** forum recognition or revalidation under `core_12_forum.md` **Chapter Twelve** and [**CF-7.2**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md#cf-72-constitutional-alignment-recognition-and-review) (*Constitutional alignment recognition and review*)
 - where material ecological exposure exists, it must also support **Environment** forum environmental-alignment component review before final recognition, validation, revalidation, or material release from environmental conditions
 - forum review must be able to inspect the classification rationale, assumptions, evidence, uncertainty, dependency analysis, ecological exposure analysis where material, and monitoring triggers without relying on operator self-description alone
 
@@ -212,7 +212,7 @@ For a system claimed to remain **Class P**, that evaluation becomes mandatory up
 
 Classification reassessment under this subsection must be:
 
-- **verified** on each materially impactful [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) or revalidation cycle under **[Chapter Eight §2](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** (*System Class Evaluation*) and recorded under **[Chapter Eight Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
+- **verified** on each materially impactful [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) or revalidation cycle under **[Chapter Eight §2](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** (*System Class Evaluation*) and recorded under **[Chapter Eight Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
 - **reopened** under **[Chapter Eight Part B §16](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)** where a material reassess trigger fires, or where a prior class is retained after underlying conditions no longer support it
 
 Governance timing for acting on these triggers — including prompt reclassification, pre-deployment reassessment where feasible, and failure-to-reclassify non-compliance — is in [§7.5 Update the System Classification Record](#75-reclassification-and-continuous-update).
@@ -222,7 +222,7 @@ Governance timing for acting on these triggers — including prompt reclassifica
 
 *In plain terms: separately record how hard it is to replace the system — Absolute, Operational, Coordination, Limited, or none meaningful — using Dep-A through Dep-P so the dependency axis stays distinct from impact Class A–P, even when the letter bands match.*
 
-**Dual-axis rule:** **Impact classes** use **Class A–P**. **Dependency types** use **Dep-A–P** (same letter band, `Dep-` prefix). This section owns **dependency types** (reliance categories). **[Part B §§8–13](cs_03_b_system_impact_classifications.md#cs-3-8-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letter bands **correlate often** but **do not** collapse the axes into one finding.
+**Dual-axis rule:** **Impact classes** use **Class A–P**. **Dependency types** use **Dep-A–P** (same letter band, `Dep-` prefix). This section owns **dependency types** (reliance categories). **[Part B §§8–13](cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications)** owns **impact classes** (Survival-critical through Personal/private). A [System Classification Record](../core_05_band_continuity.md#system-classification-record) must state **both** the applicable **dependency type(s)** and the **impact class**. Matching letter bands **correlate often** but **do not** collapse the axes into one finding.
 
 **Dependency, interaction, and boundary classification overview:** System classification reflects combined impact, dependency, and risk. **Dependency classification** describes structure and strength of reliance, and must account for the following when they materially alter reliance:
 
@@ -343,9 +343,9 @@ When a system offers scarce capacity — network access, compute, model inferenc
 
 *In plain terms: when certification runs, it must produce or verify the System Classification Record and put that file in the certification case file — then operators must keep owning, disclosing, auditing, challenging, updating, and proving that same file. System Classification Record audits under this section are a sibling audit mode; system alignment certification is one especially large audit process that consumes this file when SAC runs — not the sole home of auditing.*
 
-**System alignment certification (SAC) bridge.** When [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) runs for a materially impactful system, **[Chapter Eight §2](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** (*System Class Evaluation*) must **produce or verify** the [System Classification Record](../core_05_band_continuity.md#system-classification-record-constitutional) and include it (or its required contents) in the [System Certification Record](../core_05_band_continuity.md#system-certification-record-constitutional) under **[Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. Under the **oversight** Tetrad leg, that SAC cycle is one especially large audit process among others; [§7.3](#73-auditability-and-verification) System Classification Record audits continue between and beside certification cycles.
+**System alignment certification (SAC) bridge.** When [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) runs for a materially impactful system, **[Chapter Eight §2](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** (*System Class Evaluation*) must **produce or verify** the [System Classification Record](../core_05_band_continuity.md#system-classification-record) and include it (or its required contents) in the [System Certification Record](../core_05_band_continuity.md#system-certification-record) under **[Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**. Under the **oversight** Tetrad leg, that SAC cycle is one especially large audit process among others; [§7.3](#73-auditability-and-verification) System Classification Record audits continue between and beside certification cycles.
 
-Operators must maintain that System Classification Record for every system with **material impact**. It is the CS-3 (*System classification machinery*) class file — not a marketing label, and **not** the full System Certification Record. Dual-axis contents, functional determination, transparency baseline, and ambiguity defaults are owned in [§1 Purpose and scope](#cs-3-1-purpose-and-scope) ([§1.3 Mandatory, functional classification](#13-mandatory-functional-classification), [§1.4 Alignment-status recognition and ambiguity default](#14-alignment-status-recognition-and-ambiguity-default)).
+Operators must maintain that System Classification Record for every system with **material impact**. It is the CS-3 (*System classification machinery*) class file — not a marketing label, and **not** the full System Certification Record. Dual-axis contents, functional determination, transparency baseline, and ambiguity defaults are owned in [§1 Purpose and scope](#cs-31-purpose-and-scope) ([§1.3 Mandatory, functional classification](#13-mandatory-functional-classification), [§1.4 Alignment-status recognition and ambiguity default](#14-alignment-status-recognition-and-ambiguity-default)).
 
 Certification must check that:
 
@@ -360,7 +360,7 @@ The following are **certification defects** under Chapter Eight §2 System Class
 - keeping a stale class after conditions change
 - failure to reassess when [§3.5 Reclassification requirement](#35-reclassification-requirement) triggers fire
 
-Where the facts support it, those defects may also supply verified input toward adverse standing findings in [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model).
+Where the facts support it, those defects may also supply verified input toward adverse standing findings in [Chapter Nine](../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
 
 This section owns what operators must **do with** the System Classification Record between and during those certification cycles:
 
@@ -416,14 +416,14 @@ Forum verification under Chapter Eight §2 (*System Class Evaluation*) does **no
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **[CS-2 — Information types and handling](cs_02_a_information_types_and_handling.md)** (*typing*).
+- Read with: **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (*shared process — what / why / how / when*); **[CJS-3.4](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure)** (*Oversight: tiered transparency and audit-access terms*); **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **[CS-2 — Information types and handling](cs_02_a_information_types_and_handling.md)** (*typing*).
 - This subsection does **not** relocate the process home or Rights Floor (**Article XVI** (*Audit, Transparency, and Independent Verification*) / **Article XVI-A** (*Auditability and Observable Evidence*)).
 
 </details>
 
 <br>
 
-*System Classification Record duty:* run the independent **System Classification Record audit** named in the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-sibling-modes)**.
+*System Classification Record duty:* run the independent **System Classification Record audit** named in the **[CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map)**.
 
 - **Required:** Auditability of the System Classification Record is required under [§1.3 Mandatory, functional classification](#13-mandatory-functional-classification).
 - **What to check:** the class on file matches how the system actually behaves — inspect real behavior, outputs, and effects, not only claims in the file.
@@ -452,9 +452,9 @@ What triggers a fresh look, and how deep the look must go, live in [§3.5 Reclas
 
 - **before** rolling out materially bigger capabilities, **where feasible**
 - **promptly** once changed conditions are recognized
-- as part of **periodic review**, including each materially impactful [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification-constitutional) or revalidation cycle under **[Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)**
+- as part of **periodic review**, including each materially impactful [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) or revalidation cycle under **[Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)**
 
-The System Classification Record must state a **revalidation cadence scaled to class** (and monitoring triggers). How certification verifies that cadence and §3.5 Reclassification requirement reassessment, and treats failure to update after material change as a **certification defect**, live under **[Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** and **[Part B §16 Reopening, Misalignment, and Non-Evasion](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)** — see also the [§7 SAC bridge](#cs-3-7-classification-governance-disclosure-and-challenge).
+The System Classification Record must state a **revalidation cadence scaled to class** (and monitoring triggers). How certification verifies that cadence and §3.5 Reclassification requirement reassessment, and treats failure to update after material change as a **certification defect**, live under **[Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** and **[Part B §16 Reopening, Misalignment, and Non-Evasion](../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)** — see also the [§7 SAC bridge](#cs-37-classification-governance-disclosure-and-challenge).
 
 <a id="76-misclassification-and-evasion"></a>
 **7.6. Correct the System Classification Record.**
@@ -467,7 +467,7 @@ Shared correction, precautionary-default, and no-quiet-lowering discipline live 
 - Do **not** split or modularize a system just to dodge a higher class on the System Classification Record.
 - When misclassification or evasion is found, **correct** the System Classification Record.
 
-How those failures count as **certification defects**, and any standing bridge, live under **[Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)**, **[Part B §§15–16](../core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing)**, and the [§7 SAC bridge](#cs-3-7-classification-governance-disclosure-and-challenge).
+How those failures count as **certification defects**, and any standing bridge, live under **[Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)**, **[Part B §§15–16](../core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing)**, and the [§7 SAC bridge](#cs-37-classification-governance-disclosure-and-challenge).
 
 <a id="77-default-and-precautionary-classification"></a>
 **7.7. Default uncertain System Classification Record fields.**
@@ -485,7 +485,7 @@ Shared discipline lives in **[CJS-3.15 — Accountability: structural review, co
 <a id="78-integrated-risk-governance"></a>
 **7.8. Org roles that protect the System Classification Record (Class A/B).**
 
-*System Classification Record duty:* Class A/B org risk roles that protect classification honesty live in **[CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-4-11-integrated-risk-governance-class-a-b)**. Those roles surround the System Classification Record; they are **not** extra fields inside it, and they do **not** replace forum-supervised SAC or the SCR field duties in [§7.1 Own the System Classification Record](#71-responsibility-for-classification)–[§7.7 Default uncertain System Classification Record fields](#77-default-and-precautionary-classification) and [§7.9 Prove the class stated in the System Classification Record](#79-class-scaled-assurance-and-supporting-infrastructure).
+*System Classification Record duty:* Class A/B org risk roles that protect classification honesty live in **[CS-4 — Integrated risk governance (Class A/B)](cs_04_critical_system_stewardship.md#cs-411-integrated-risk-governance-class-ab)**. Those roles surround the System Classification Record; they are **not** extra fields inside it, and they do **not** replace forum-supervised SAC or the SCR field duties in [§7.1 Own the System Classification Record](#71-responsibility-for-classification)–[§7.7 Default uncertain System Classification Record fields](#77-default-and-precautionary-classification) and [§7.9 Prove the class stated in the System Classification Record](#79-class-scaled-assurance-and-supporting-infrastructure).
 
 <a id="79-class-scaled-assurance-and-supporting-infrastructure"></a>
 **7.9. Prove the class stated in the System Classification Record.**
@@ -496,7 +496,7 @@ Who must do what:
 
 - **Operator** — prove the class the System Classification Record states:
   - show that assurance depth matching that class was **actually evaluated**, not merely claimed
-  - scale resilience, continuity, and supporting-infrastructure toughness to that class under [§5 Boundaries, timeframes, and resilience](#cs-3-5-boundaries-timeframes-and-resilience)
+  - scale resilience, continuity, and supporting-infrastructure toughness to that class under [§5 Boundaries, timeframes, and resilience](#cs-35-boundaries-timeframes-and-resilience)
   - do **not** treat technical-forum measurements or tests as a substitute for that evaluation duty
 - **Technical forums** — may supply measurements and tests that feed the proof; they do **not** absorb the operator’s evaluation duty
 - **Certification under Chapter Eight §2 (*System Class Evaluation*)** — when System Alignment Certification runs, confirm and record:
@@ -521,7 +521,7 @@ A **component finding** sits inside the System Classification Record. It names o
   - The lightest column a component may be held to is **Class L**.
 - **A decoupling finding needs all three parts, shown from how the component actually runs:**
   1. **No floor gating:** The component does not gate, mediate, or decide whether sentients can reach, be told about, contest, or get back a Rights Floor the system delivers. Billing, outage and hazard notices, reconnection, hardship, appeal, and customer-service paths of a system that gates survival essentials do not qualify. [Chapter Eight §8.1 Illustrative accessibility application by class (non-exhaustive)](../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive) lists these as in-scope pathways of a Class A water system.
-  2. **Bounded and replaceable:** The rest of the system relies on it only at **[Dep-L](#44-dep-l-limited-dependency)** or **[Dep-P](#45-dep-p-no-meaningful-external-dependency)** level. Its failure, degradation, or misuse can be absorbed within [survival-relevant timeframes](#cs-3-5-boundaries-timeframes-and-resilience) by a fallback or substitute that has been shown to work, and cannot cascade through dependency chains.
+  2. **Bounded and replaceable:** The rest of the system relies on it only at **[Dep-L](#44-dep-l-limited-dependency)** or **[Dep-P](#45-dep-p-no-meaningful-external-dependency)** level. Its failure, degradation, or misuse can be absorbed within [survival-relevant timeframes](#cs-35-boundaries-timeframes-and-resilience) by a fallback or substitute that has been shown to work, and cannot cascade through dependency chains.
   3. **Separated data and control:** It shares no data path, credential, or control path that would carry a higher-depth part's data or authority into it. Separation holds under the most restrictive applicable type in **[CS-2 — Information types and handling](cs_02_a_information_types_and_handling.md)**.
 - **A Class C finding does not by itself save work:**
   - Whole-system evaluation under Chapter Eight §3 (*Whole-System Certification Evaluation*) runs at full depth for Class A, B, and C alike ([§3.5 Reclassification requirement](#35-reclassification-requirement)).
@@ -557,7 +557,7 @@ A **component finding** sits inside the System Classification Record. It names o
 Certification under **[Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** checks component findings as part of the class rationale and assumptions on the System Certification Record. An unsupported lighter finding is a misclassification defect under [§7.6 Correct the System Classification Record](#76-misclassification-and-evasion) and Chapter Eight §2 (*System Class Evaluation*).
 
 <a id="79-high-dependency-private-chokepoints"></a>
-Private chokepoint access-continuity duties (payments, identity, compute, messaging, hosting, distribution, discovery, and similar layers) live in **[CS-4.14 — Private chokepoints sentients depend on (access continuity and non-capture)](cs_04_critical_system_stewardship.md#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture)** (relocated from this file).
+Private chokepoint access-continuity duties (payments, identity, compute, messaging, hosting, distribution, discovery, and similar layers) live in **[CS-4.14 — Private chokepoints sentients depend on (access continuity and non-capture)](cs_04_critical_system_stewardship.md#cs-414-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture)** (relocated from this file).
 
 ---
 

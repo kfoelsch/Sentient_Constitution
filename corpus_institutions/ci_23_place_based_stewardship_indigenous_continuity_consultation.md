@@ -22,13 +22,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
 
-- [Indigenous Continuity](../core_05_band_continuity.md#indigenous-continuity-constitutional) · [O](../core_05_band_continuity.md#indigenous-continuity-constitutional) · [M](../core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [A](../core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [C](../core_05_band_continuity.md#indigenous-continuity-constitutional-c)
+- [Indigenous Continuity](../core_05_band_continuity.md#indigenous-continuity) · [O](../core_05_band_continuity.md#indigenous-continuity) · [M](../core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [A](../core_05_band_continuity.md#indigenous-continuity-constitutional-a) · [C](../core_05_band_continuity.md#indigenous-continuity-constitutional-c)
 - [Governance](../core_05_band_accountability.md#governance) · [O](../core_05_band_accountability.md#governance) · [M](../core_05_band_accountability.md#governance-a) · [A](../core_05_band_accountability.md#governance-a) · [C](../core_05_band_accountability.md#governance-c)
-- [Consent](../core_05_band_participation.md#consent-constitutional) · [O](../core_05_band_participation.md#consent-constitutional) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
+- [Consent](../core_05_band_participation.md#consent) · [O](../core_05_band_participation.md#consent) · [M](../core_05_band_participation.md#consent-constitutional-a) · [A](../core_05_band_participation.md#consent-constitutional-a) · [C](../core_05_band_participation.md#consent-constitutional-c)
 - [Natural Systems Standing](../core_05_band_participation.md#natural-systems-standing) · [O](../core_05_band_participation.md#natural-systems-standing) · [M](../core_05_band_participation.md#natural-systems-standing-a) · [A](../core_05_band_participation.md#natural-systems-standing-a) · [C](../core_05_band_participation.md#natural-systems-standing-c)
 - [Stakeholder Weight](../core_05_band_participation.md#stakeholder-weight) · [O](../core_05_band_participation.md#stakeholder-weight) · [M](../core_05_band_participation.md#stakeholder-weight-a) · [A](../core_05_band_participation.md#stakeholder-weight-a) · [C](../core_05_band_participation.md#stakeholder-weight-c)
 - [Oversight](../core_05_apex_oversight_leg.md#oversight-constitutional) · [O](../core_05_apex_oversight_leg.md#oversight-constitutional) · [M](../core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [Collective Organization](../core_05_band_participation.md#collective-organization-constitutional) · [O](../core_05_band_participation.md#collective-organization-constitutional) · [M](../core_05_band_participation.md#collective-organization-constitutional-a) · [A](../core_05_band_participation.md#collective-organization-constitutional-a) · [C](../core_05_band_participation.md#collective-organization-constitutional-c)
+- [Collective Organization](../core_05_band_participation.md#collective-organization) · [O](../core_05_band_participation.md#collective-organization) · [M](../core_05_band_participation.md#collective-organization-constitutional-a) · [A](../core_05_band_participation.md#collective-organization-constitutional-a) · [C](../core_05_band_participation.md#collective-organization-constitutional-c)
 
 </details>
 
@@ -51,7 +51,7 @@ This file is the institutional implementation home for **CI-23** (*Place-based s
 
 *Shared rules live elsewhere.*
 - [**CJS-3.7**](../corpus_joint_structure/cjs_03p_participation_operations.md#cjs-37-participation-quorum-and-participatory-legitimacy-terms) (*quorum and participatory legitimacy terms*) — **Stakeholder oversight and binding-governance pathway integrity**.
-- Chapter Five [*Indigenous Continuity*](../core_05_band_continuity.md#indigenous-continuity-constitutional); [*Natural Systems Standing*](../core_05_band_participation.md#natural-systems-standing).
+- Chapter Five [*Indigenous Continuity*](../core_05_band_continuity.md#indigenous-continuity); [*Natural Systems Standing*](../core_05_band_participation.md#natural-systems-standing).
 - **Article I-A** (*Environmental Preconditions and Ecological Integrity*); **Article VI-C** (*Nondiscrimination*); **Article XXI-D** (*Movement, Migration, Refuge, and Non-Statelessness*); **Chapter Seventeen**.
 - **CI-7.2** (*External assurance triggers*); **CI-8** (*Transparency, participation, and accessible challenge and service pathways*). This file does not repeat those floors.
 

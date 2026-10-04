@@ -100,6 +100,6 @@ Then confirm the Mermaid block renders and every link resolves.
 
 ## Open decisions
 
-1. **Reciprocal pointer in §9.** Add *"Also shown in the [Conceptual Overview](../../guides/CONCEPTUAL_OVERVIEW.md#stewardship-pillars)."* beneath the §9 chart? It aids navigation but creates a second place to maintain if the overview subsection is ever renamed.
+1. **Reciprocal pointer in §9.** Add *"Also shown in the [Conceptual Overview](../../guides/CONCEPTUAL_OVERVIEW.md#stewardship-three-pillars)."* beneath the §9 chart? It aids navigation but creates a second place to maintain if the overview subsection is ever renamed.
 2. **The §9 chain.** Should `P1 --> P2 --> P3a` in the §9 chart become parallel edges too, matching its own "together" prose? Handled as a separate change; this plan does not touch `core_01_c`.
 3. **Pillar colours.** Neutral slate for all three is the conservative choice. The alternative is colouring each pillar with the Tetrad leg it most carries — participation teal, timeliness purple, oversight orange — which is more informative but asserts a one-to-one pillar-to-leg mapping that §9 does not make.

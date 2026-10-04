@@ -22,7 +22,7 @@ python3 tools/corpus_lookup.py retrieve "QUESTION OR KEYWORDS"
 python3 tools/corpus_lookup.py serve   # optional local HTTP at /v1/{command}
 ```
 
-`retrieve` is token overlap over boundary-chunk locators, then `hydrate`. Vector embeddings are postponed indefinitely ([doc_architecture.md](doc_architecture.md#retrieval-no-vector-embeddings)).
+`retrieve` is token overlap over boundary-chunk locators, then `hydrate`. Vector embeddings are postponed indefinitely ([doc_architecture.md](doc_architecture.md#retrieval-locators-no-vector-embeddings)).
 
 Spine pack (generated pointers, not duties): `doc_architecture/generated/spine_pack.md`.
 

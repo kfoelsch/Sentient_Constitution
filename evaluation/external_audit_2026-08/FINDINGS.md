@@ -106,7 +106,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Climate numerics (comparator):** *Neubauer* holds that the Basic Law’s protection of future generations bars the legislature from offloading an “irreversible” share of the carbon budget onto later generations. The ICJ 2025 advisory opinion affirms a due-diligence duty to prevent significant harm to the climate system.
 
-**Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../core_05_band_continuity.md#ecological-integrity-constitutional)
+**Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../core_05_band_continuity.md#ecological-integrity)
 
 **Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article V-B](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
 

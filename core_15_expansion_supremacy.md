@@ -26,10 +26,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack), and related [Corpus](core_05_band_integrative.md#corpus) boundary concepts.
+- Upstream: [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression and Test 1; [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy), and related [Corpus](core_05_band_integrative.md#corpus) boundary concepts.
 - Subsections: [§1](#1-additive-expansion-permitted)–[§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment); [§3](#3-supremacy-relative-to-other-binding-norms)–[§4](#4-disputes-involving-external-legal-orders); [§5](#5-relation-to-applicable-external-law).
 - Downstream: [Chapter Sixteen](core_16_amendment_ratification.md#chapter-sixteen-amendment-ratification-and-procedural-validity) adoption and supremacy continuity during amendment; [Article XX-A](core_06_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Eleven, section 5.2 — *Rights-Floor waivers and unconstitutional contract terms*](core_11_b_misconduct_pattern_applications.md#52-rights-floor-waivers-and-unconstitutional-contract-terms) where external-order interfaces implicate waiver or pseudo-contract devices.
-- Read with: **[corpus_systems.md](corpus_systems.md)** and **CS-7** (*Justice safeguards, restitution, and rehabilitation*) where this chapter's rules cite them for carrying out decisions across jurisdictions; [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) where cited in §3.3; [Corpus and Authority Stack](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster) (**Def.I1** cluster — read with [Corpus](core_05_band_integrative.md#corpus) for custody and adoption).
+- Read with: **[corpus_systems.md](corpus_systems.md)** and **CS-7** (*Justice safeguards, restitution, and rehabilitation*) where this chapter's rules cite them for carrying out decisions across jurisdictions; [Chapter Ten §9 — *Enforcement realism*](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) where cited in §3.3; [Corpus and Authority Stack](core_05_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster — read with [Corpus](core_05_band_integrative.md#corpus) for custody and adoption).
 
 </details>
 
@@ -46,7 +46,7 @@ Chapter Fifteen is the constitutional owner of **additive expansion of protectio
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Fifteen](#chapter-fifteen-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression (expansion must not violate Test 1).
-- Downstream: [§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*including Chapters One through Five consistency checks in operative text*).
+- Downstream: [§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*including Chapters One through Five consistency checks in operative text*).
 - Read with: [Chapter Six](core_06_rights_part_a.md#chapter-six-foundational-rights) when additions implicate new rights or classes.
 
 </details>
@@ -77,10 +77,10 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Five *Authority Stack and Internal Hierarchy*](core_05_band_integrative.md#authority-stack).
+- Upstream: [§2](#2-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Five *Authority Stack and Internal Hierarchy*](core_05_band_integrative.md#authority-stack-and-internal-hierarchy).
 - Subsections: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.3](#33-conflict-disclosure-and-mitigation).
 - Downstream: [§4](#4-disputes-involving-external-legal-orders) external tribunals and preserved internal review pathways; [Chapter Fourteen](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) non-regression on internal-hierarchy maneuvers.
-- Read with: [Chapter Five *Authority Stack and Internal Hierarchy*](core_05_band_integrative.md#authority-stack) as cross-linked from §3.1 operative text.
+- Read with: [Chapter Five *Authority Stack and Internal Hierarchy*](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) as cross-linked from §3.1 operative text.
 
 </details>
 
@@ -95,7 +95,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 - Upstream: [§3](#3-supremacy-relative-to-other-binding-norms) supremacy framing.
 - Downstream: [§3.2](#32-stricter-external-protections) stricter-external overlay; [§3.3](#33-conflict-disclosure-and-mitigation) irreconcilable-conflict duties.
-- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) for the boundary between source-layer authority and [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) last-resort hierarchy.
+- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) for the boundary between source-layer authority and [Chapter One](core_01_c_stewardship_capacity_principles.md#chapter-01-principles-and-constraints) last-resort hierarchy.
 
 </details>
 
@@ -103,7 +103,7 @@ No amendment process may suspend constitutional supremacy, auditability, challen
 
 *In plain terms: the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Fourteen floors or Chapter Five supremacy rules.*
 
-For adopting entities, this Constitution and its integrated definitions govern interpretation and compliance. Adopted implementation text governs as well for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption. That governance is subject to **Chapter Fourteen** non-regression requirements and to [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) supremacy effect in Chapter Five. The canonical statement integrating this adopter-facing precedence with source-layer authority and the **Chapter One** last-resort hierarchy across principles, articles, and definitions lives at [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) in Chapter Five.
+For adopting entities, this Constitution and its integrated definitions govern interpretation and compliance. Adopted implementation text governs as well for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption. That governance is subject to **Chapter Fourteen** non-regression requirements and to [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) supremacy effect in Chapter Five. The canonical statement integrating this adopter-facing precedence with source-layer authority and the **Chapter One** last-resort hierarchy across principles, articles, and definitions lives at [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Five.
 
 <a id="32-stricter-external-protections"></a>
 #### 3.2 Stricter External Protections
@@ -200,7 +200,7 @@ Constitutional interpretation, appeal, and review pathways under **Article XX-A*
 - Upstream: [§3](#3-supremacy-relative-to-other-binding-norms) internal hierarchy, stricter-external protections, and conflict disclosure; [§4](#4-disputes-involving-external-legal-orders) cooperation with competent external orders; [Chapter Sixteen §10](core_16_amendment_ratification.md#10-ratification-and-adoption) (*deliberate adoption, instrument, and joining*); [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt; what non-adoption means for enforcement*).
 - Subsections: [§5.1](#51-non-displacement-and-limited-binding-effect); [§5.2](#52-alignment-when-used-within-external-legal-frameworks).
 - Downstream: [§3.1](#31-internal-hierarchy-for-adopters)–[§3.2](#32-stricter-external-protections) apply only within the limited binding effect stated here; [Chapter Sixteen §10](core_16_amendment_ratification.md#10-ratification-and-adoption) remains the sole adoption procedure.
-- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack) (*supremacy within valid source, adoption, and governance-layer scope*); [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*partial adoption must not shrink land, consultation, or FPIC duties the entity already bears*).
+- Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*supremacy within valid source, adoption, and governance-layer scope*); [Chapter Seventeen §4](core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*partial adoption must not shrink land, consultation, or FPIC duties the entity already bears*).
 
 </details>
 

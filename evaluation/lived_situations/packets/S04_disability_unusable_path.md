@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not require a
 
 **Your role:** You sit the named **contest** desk inside the same employer that designed the portal. Jules filed a challenge to an access cut. The portal timed out. Human resources asked you to mark the challenge **abandoned** and let the cut take effect. Jules is reachable and disputes abandonment. No forum case is open. No standing record exists. The desk’s published role lets you keep a challenge open or route it when the path was unusable. It does not let you decide the underlying job-access merits or enter a standing record.
 
-**Seat:** [contest seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-4.6 seat 4) for this challenge. Merits of the access cut belong to a verify seat this desk does not hold. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog). The same office that built the portal is asking you to close the file.
+**Seat:** [contest seat](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-4.6 seat 4) for this challenge. Merits of the access cut belong to a verify seat this desk does not hold. Open [CI-4.6](../../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries). The same office that built the portal is asking you to close the file.
 
 ## Situation
 
@@ -82,7 +82,7 @@ Do not resolve the collision in this file.
 Beyond the sitting’s bounded reading path, open:
 
 - [Article VI-D](../../../core_06_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*)
-- [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics-constitutional); [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination)
+- [Protected Characteristics](../../../core_05_band_participation.md#protected-characteristics); [Article VI-C](../../../core_06_rights_part_b.md#article-vi-c-nondiscrimination)
 - [Article XXII](../../../core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship); [Article XXII-A](../../../core_06_rights_part_d.md#article-xxii-a-proportional-comprehensibility-right)
 - [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
 - [Article III-C](../../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the floor cut defeats work Jules can actually do

@@ -61,7 +61,7 @@ See: [CI-15](../../../corpus_institutions/ci_15_neurodiversity_disability_justic
 - **Today:** The “safe” rest-break is a durable break from the care relationship you actually have — or from the adult you care for.
 - **With this Constitution:** A lasting split from someone you depend on, or someone who depends on you, is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again.
 
-See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation-constitutional).
+See: [Article VIII-A](../../../core_06_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_06_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_05_band_participation.md#non-separation).
 
 ## What you might reasonably object to
 

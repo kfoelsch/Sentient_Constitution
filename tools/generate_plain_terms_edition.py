@@ -34,6 +34,8 @@ if str(_TOOLS) not in sys.path:
 
 from corpus_paths import CORE_FILES  # noqa: E402
 
+from heading_anchor_href import link_fragment
+
 DEFAULT_MD_OUT = "doc_architecture/generated/plain_terms_edition.md"
 DEFAULT_JSON_OUT = "doc_architecture/generated/plain_terms_edition.json"
 
@@ -224,7 +226,7 @@ def render_markdown(reports: list[FileReport], edition: str, effective: str, pre
                 continue
             depth = min(section.level + 1, 6)
             hashes = "#" * depth
-            link = f"{prefix}{section.file}#{section.anchor}"
+            link = f"{prefix}{section.file}#{link_fragment(section.file, section.anchor)}"
             out.append(f"{hashes} {section.title}")
             out.append("")
             if section.gloss:

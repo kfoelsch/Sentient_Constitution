@@ -42,6 +42,7 @@ if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
 from local_markdown_fragment_audit import anchors_in, links_in, resolve_link
+from heading_anchor_href import link_fragment
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -588,7 +589,13 @@ def check_card_rows(index: dict, cards: str) -> list[str]:
         owners = case.get("owners") or []
         first = owners[0] if owners and isinstance(owners[0], dict) else {}
         owner_href = str(first.get("href") or "")
-        if owner_href and owner_href not in body:
+        owner_forms = {owner_href}
+        owner_file, owner_sep, owner_fragment = owner_href.partition("#")
+        if owner_sep:
+            # The card may link the heading slug instead of the stable <a id>
+            # (HTML-ANCHOR-LINK-01).
+            owner_forms.add(f"{owner_file}#{link_fragment(owner_file, owner_fragment)}")
+        if owner_href and not any(form in body for form in owner_forms):
             errors.append(
                 f"{CARDS_REL} #{title}: owner-text pointer {owner_href} for "
                 f"`{case_id}` is missing from the card "

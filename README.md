@@ -27,7 +27,7 @@ What "not yet in effect" means: [Is this in effect? ↓](#is-this-in-effect)
 
 [Español](translations/es/README.md) · [हिन्दी](translations/hi/README.md) · [العربية](translations/ar/README.md) · [Bahasa Indonesia](translations/id/README.md) · [中文](translations/zh/README.md) · [Português](translations/pt/README.md) · [বাংলা](translations/bn/README.md) · [Français](translations/fr/README.md) · [اردو](translations/ur/README.md) · [Русский](translations/ru/README.md) · [日本語](translations/ja/README.md) · [Türkçe](translations/tr/README.md) · [मराठी](translations/mr/README.md) · [Tiếng Việt](translations/vi/README.md) · [فارسی](translations/fa/README.md) · [తెలుగు](translations/te/README.md) · [한국어](translations/ko/README.md) · [தமிழ்](translations/ta/README.md) · [ไทย](translations/th/README.md)
 
-These are early draft translations and do not cover every chapter yet. Where a translation and the English text differ, the English text is the one that counts. [All languages and what's available](translations/README.md) · [Help translate](CONTRIBUTING.md#lane-f)
+These are early draft translations and do not cover every chapter yet. Where a translation and the English text differ, the English text is the one that counts. [All languages and what's available](translations/README.md) · [Help translate](CONTRIBUTING.md#lane-f--translations)
 
 ## What is this?
 
@@ -161,7 +161,7 @@ If any of these disagree, **the Constitution text wins**.
 
 - **Share feedback or ask a question:** [open an issue](https://github.com/kfoelsch/Sentient_Constitution/issues).
 - **Contribute:** see [How to contribute](CONTRIBUTING.md). Contributing is not the same as adopting.
-- **Help translate:** fluent readers can review a translation or volunteer for a language; see the [translation lane](CONTRIBUTING.md#lane-f).
+- **Help translate:** fluent readers can review a translation or volunteer for a language; see the [translation lane](CONTRIBUTING.md#lane-f--translations).
 - **See where the project is heading:** read the [Vision](project/VISION.md).
 
 <a id="editors-and-operators"></a>
@@ -189,7 +189,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Burden of proof, traceability, verification: Chapter Four
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Seven
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00_preamble.md#the-model)
-- Auditing and independent verification: Article XVI is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33-audit-process-home) is how and when; Chapter Eight is one large process that uses that stack
+- Auditing and independent verification: Article XVI is the floor; Chapter Five [Auditability](core_05_band_oversight.md#auditability) is the property; [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home) is how and when; Chapter Eight is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter One §17.5 Duty to Resist](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)
 - Remedy systems and enforcement realism: Chapter Ten §9; implementation in CI-27
 - Relation to local, national, and international law: [Chapter Fifteen §5](core_15_expansion_supremacy.md#5-relation-to-applicable-external-law)
@@ -203,7 +203,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Process guides (challenge, independent review, certification, help and harm, crisis clocks): [easy_entry process guides](implementation/adoption/easy_entry/README.md#process-guides)
 - Steward entry doors: [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md)
 - Adoption process path: [implementation/adoption/](implementation/adoption/)
-- Reader-language editions (method and shipping order): [doc_architecture.md](doc_architecture.md#reader-language-editions)
+- Reader-language editions (method and shipping order): [doc_architecture.md](doc_architecture.md#reader-language-editions-shipping-order)
 - Numbered core index for GitHub Pages: [docs/corpus_index.md](docs/corpus_index.md) via `make pages-corpus-index`
 - Full Pages render (assembled in CI; not a second constitution): [.github/workflows/pages.yml](.github/workflows/pages.yml), gated by `make pages-deploy-gate`
 - Repository integrity checks: `make regression`
@@ -230,7 +230,7 @@ Two earlier projects by Karl Ernst sit alongside this Constitution. They are bac
 <details>
 <summary>More about these projects</summary>
 
-- **The Steward Network** (stewardnetwork.org) looks at existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Five [Existential Risk](core_05_band_continuity.md#existential-risk), [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_05_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance instrument for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
+- **The Steward Network** (stewardnetwork.org) looks at existential risks facing both humanity and AI (climate change, ecological decay, AI and cyberinsecurity, weapons of mass destruction, pandemics, black-swan events, and their cascading interactions), paired with the declining societal capacities needed to respond to them (mental health and collective wellbeing, social trust, governance and institutional capacity, information quality, and strategic literacy). It proposes grassroots **Steward Scouts** and a networked coordination body operating under transparent, participatory principles, and treats AI as both a primary risk and a tool to be developed only inside a robust governance framework. Readers working with Chapter Five [Existential Risk](core_05_band_continuity.md#existential-risk), [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*), or the [Continuity](core_05_apex_continuity_aim.md) aim will recognize the same problem space; this Constitution is the governance instrument for systems that materially affect sentients, while the Steward Network is a civic and analytical effort to build the capacity to face those risks.
 - ***Rocking Change*** is the first in the Rocking Change series, available in print and electronic editions from [Amazon](https://www.amazon.com/dp/B09HH9T3PZ) and other retailers; the series website `rockingchange.com` is currently offline and is preserved at the [Internet Archive](https://web.archive.org/web/20250425114143/https://www.rockingchange.com/). It draws on evolutionary psychology, hypnotherapy, and the author's own recovery from an abusive childhood home. It is the individual-scale counterpart to what this Constitution treats at system scale under [Wellbeing](core_05_band_continuity.md#wellbeing), [Psychological Harm](core_05_band_accountability.md#psychological-harm), and the [Flourishing](core_05_apex_flourishing_aim.md) aim: the same conviction that durable change in the world starts from repaired human capacity.
 
 Both are useful background on why the Constitution weights **Flourishing** and **Continuity** as it does. Cite them as the author's related work, not as sources of constitutional meaning.

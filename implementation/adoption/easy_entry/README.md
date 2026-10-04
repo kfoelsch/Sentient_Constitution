@@ -19,7 +19,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Preamble §1](../../../core_00_preamble.md#constitutional-tetrad) (*Constitutional Tetrad*; [material stake](../../../core_00_preamble.md#material-stake)); [Chapter Seventeen §4](../../../core_17_incorporation.md#4-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Fifteen §5](../../../core_15_expansion_supremacy.md#5-relation-to-applicable-external-law) (*non-displacement of applicable external law*).
-- Downstream: [Purpose and role](#purpose-and-role); [What this is not](#what-this-is-not); [Roster](#roster); [These situations are not a niche](#how-common); [Do not use in these briefs](#do-not-use-in-these-briefs).
+- Downstream: [Purpose and role](#purpose-and-role); [What this is not](#what-this-is-not); [Roster](#roster); [These situations are not a niche](#these-situations-are-not-a-niche); [Do not use in these briefs](#do-not-use-in-these-briefs).
 - Read with: [`../../../README.md`](../../../README.md) (public door); [`../../../START_HERE.md`](../../../START_HERE.md) (adopters and operators); [`../ANNOUNCEMENT.md`](../ANNOUNCEMENT.md); [`../FIT_SITUATIONS.md`](../FIT_SITUATIONS.md); [`../../../evaluation/lived_situations/README.md`](../../../evaluation/lived_situations/README.md) (*scene source; separate sitting*).
 
 </details>

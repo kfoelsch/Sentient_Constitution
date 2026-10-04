@@ -7,7 +7,12 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from local_markdown_fragment_audit import READER_ENTRY_DOCS, audit, source_files
+from local_markdown_fragment_audit import (
+    READER_ENTRY_DOCS,
+    audit,
+    fix_html_anchor_links,
+    source_files,
+)
 
 
 class LocalMarkdownFragmentAuditTests(unittest.TestCase):
@@ -51,7 +56,7 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
             (root / "core_00_preamble.md").write_text(
-                '<a id="present"></a>\n# Preamble\n', encoding="utf-8"
+                '<a id="present"></a>\n# Present\n', encoding="utf-8"
             )
             source = root / "START_HERE.md"
             source.write_text(
@@ -118,6 +123,67 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
             )
             findings = audit(root, [source], None)
             self.assertEqual([f.target for f in findings], ["#also-absent"])
+
+    def test_custom_anchor_above_heading_must_link_heading_slug(self) -> None:
+        """HTML-ANCHOR-LINK-01: the editor preview only follows heading anchors."""
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            (root / "core_05_band_continuity.md").write_text(
+                '<a id="safety-constraint"></a>\n\n'
+                "##### Safety (Constitutional Constraint)\n\n"
+                '<a id="safety-constraint-a"></a>\n'
+                "- **How to measure**\n",
+                encoding="utf-8",
+            )
+            source = root / "START_HERE.md"
+            source.write_text(
+                "[flagged](core_05_band_continuity.md#safety-constraint)\n"
+                "[heading](core_05_band_continuity.md#safety-constitutional-constraint)\n"
+                "[sub-anchor](core_05_band_continuity.md#safety-constraint-a)\n",
+                encoding="utf-8",
+            )
+            findings = audit(root, [source], None)
+            self.assertEqual([f.kind for f in findings], ["html-anchor-link"])
+            self.assertEqual(findings[0].line, 1)
+            self.assertIn("#safety-constitutional-constraint", findings[0].detail)
+
+    def test_duplicate_heading_slug_is_not_flagged(self) -> None:
+        """A non-unique slug is a brittle target, so the stable id stays valid."""
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            (root / "core_05_band_continuity.md").write_text(
+                '<a id="first"></a>\n## Repeated\n\n<a id="second"></a>\n## Repeated\n',
+                encoding="utf-8",
+            )
+            source = root / "START_HERE.md"
+            source.write_text(
+                "[a](core_05_band_continuity.md#first)\n"
+                "[b](core_05_band_continuity.md#second)\n",
+                encoding="utf-8",
+            )
+            self.assertEqual(audit(root, [source], None), [])
+
+    def test_fix_rewrites_only_whole_targets(self) -> None:
+        """A target must not be rewritten inside a longer sibling on the same line."""
+        with tempfile.TemporaryDirectory() as temp_dir:
+            root = Path(temp_dir)
+            (root / "core_05_band_continuity.md").write_text(
+                '<a id="x"></a>\n\n## Long Heading\n\n<a id="x-a"></a>\n- item\n',
+                encoding="utf-8",
+            )
+            source = root / "START_HERE.md"
+            source.write_text(
+                "[t](core_05_band_continuity.md#x) [a](core_05_band_continuity.md#x-a)\n",
+                encoding="utf-8",
+            )
+            findings = audit(root, [source], None)
+            self.assertEqual(fix_html_anchor_links(root, findings), 1)
+            self.assertEqual(
+                source.read_text(encoding="utf-8"),
+                "[t](core_05_band_continuity.md#long-heading) "
+                "[a](core_05_band_continuity.md#x-a)\n",
+            )
+            self.assertEqual(audit(root, [source], None), [])
 
 
 if __name__ == "__main__":

@@ -5,7 +5,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Flourishing** constitutional aim. Read the **O/M/A/C** definition first; leaf definitions for constituents, measurement families, and primary-aim clusters live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#flourishing-aim-decomposition). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It is the **Chapter Five** canonical O/M/A/C home and hierarchy map for the **Flourishing** constitutional aim. Read the **O/M/A/C** definition first; leaf definitions for constituents, measurement families, and primary-aim clusters live in the Tetrad **band files** linked from [Constitutional Aim decomposition](#constitutional-aim-decomposition). Reading order and the compass live in [core_05__definitions_home.md](core_05__definitions_home.md#chapter-five-foundational-definitions).
 
 </details>
 
@@ -13,8 +13,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](core_00_preamble.md#flourishing).
-- Downstream: Principles: [Chapter One §3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Chapter One §2.1 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter One §6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity); [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#flourishing-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
-- Read with: [Wellbeing](core_05_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [System Capture](core_05_band_continuity.md#system-capture), [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) (paired aim — neither may be pursued at the expense of the other), [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) scaled to [material stake](core_00_preamble.md#material-stake) (legitimacy frame for this aim — not a fifth constituent), and Flourishing measurement family.
+- Downstream: Principles: [Chapter One §3 Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Chapter One §2.1 Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter One §6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity); [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline); [Constitutional Aim decomposition](#constitutional-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per [Chapter Five compass](core_05__definitions_home.md#chapter-five-compass-and-definition-map).
+- Read with: [Wellbeing](core_05_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Proxy Divergence](core_05_band_oversight.md#proxy-divergence), [System Capture](core_05_band_continuity.md#system-capture), [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) (paired aim — neither may be pursued at the expense of the other), [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) scaled to [material stake](core_00_preamble.md#material-stake) (legitimacy frame for this aim — not a fifth constituent), and Flourishing measurement family.
 
 </details>
 
@@ -29,10 +29,10 @@
 
 - **What it is**
   - Protect and improve sentient wellbeing — the constitutional aim this entry names.
-  - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#flourishing-aim-decomposition).
-  - **Depends on:** the building blocks named in [Preamble §1 The Model](core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#flourishing-aim-decomposition):
+  - **In scope:** judging systems against this aim using the Flourishing building blocks and measurement families listed in [Constitutional Aim decomposition](#constitutional-aim-decomposition).
+  - **Depends on:** the building blocks named in [Preamble §1 The Model](core_00_preamble.md#flourishing). Each term's detailed scope and how-to-measure rules live on its own definition; start from [Constitutional Aim decomposition](#constitutional-aim-decomposition):
     - [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint);
-    - [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint);
+    - [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint);
     - [Trustworthiness](core_05_band_continuity.md#trustworthiness); and
     - [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
   - **Out of scope:** the leaf-definition details, measurement tiers, and implementation mechanics owned by band files and CJS.
@@ -41,18 +41,18 @@
 - **How to measure and assess**
   - **Primary measure:** How to tell whether sentient wellbeing is actually protected and improved. This line only points to the measures; the how-to-measure rules sit on each linked definition.
     - **Main outcome measure:** [Wellbeing](core_05_band_continuity.md#wellbeing).
-    - **Topic map:** [Constitutional Aim decomposition](#flourishing-aim-decomposition).
-    - **Searchable index:** [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory).
+    - **Topic map:** [Constitutional Aim decomposition](#constitutional-aim-decomposition).
+    - **Searchable index:** [Chapter Five alphabetical directory](core_05__definitions_home.md#chapter-five-alphabetical-directory-non-operative).
   - **Primary assessment:**
     - Judge under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
-    - Tie claimed flourishing results to the [constituent](#flourishing-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
-    - Always read with [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
+    - Tie claimed flourishing results to the [constituent](#constitutional-aim-decomposition) conditions and to outcomes sentients actually experience, under Chapter Four and [Chapter One §19.1.5 Constitutional Outcome Claims Discipline](core_01_c_stewardship_capacity_principles.md#1915-constitutional-outcome-claims-discipline).
+    - Always read with [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim): short-term gains that foreseeably weaken long-term stability, resilience, or ecological integrity fail **Flourishing** when the two aims are judged together.
 <a id="flourishing-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** Non-compliant when:
     - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
     - flourishing claims cannot be traced to constitutional outcomes under Chapter Four; or
-    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#continuity-aim-constitutional) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) without clear permission under [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 ---
 
@@ -66,21 +66,21 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 
 **Constituents** (named in [Preamble §1 The Model](core_00_preamble.md#flourishing)) — definition home and joint-invocation cluster:
 
-- **Truth** — [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint); [Def.O2 *Truth and Epistemic Integrity*](core_05_band_oversight.md#truth-and-epistemic-integrity-cluster)
-- **Safety** — [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-and-systemic-harm-cluster)
-- **Trustworthiness** — [Trustworthiness](core_05_band_continuity.md#trustworthiness); [Def.C4 *Trust and Trustworthiness*](core_05_band_continuity.md#trust-and-trustworthiness-cluster)
-- **Meaningful agency** — [Meaningful Agency](core_05_band_participation.md#meaningful-agency); [Def.P3 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05_band_participation.md#self-determination-and-meaningful-agency-cluster)
+- **Truth** — [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint); [Def.O2 *Truth and Epistemic Integrity*](core_05_band_oversight.md#defo2-truth-and-epistemic-integrity)
+- **Safety** — [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint); [*Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](core_05_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing)
+- **Trustworthiness** — [Trustworthiness](core_05_band_continuity.md#trustworthiness); [Def.C4 *Trust and Trustworthiness*](core_05_band_continuity.md#defc4-trust-and-trustworthiness)
+- **Meaningful agency** — [Meaningful Agency](core_05_band_participation.md#meaningful-agency); [Def.P3 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](core_05_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)
 
 **Other Flourishing-primary clusters** (invoke per admission scope; not listed as constituent homes above):
 
-- [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#animal-life-sentient-life-and-sentience-status-cluster)
-- [Def.P2 *Binding Stakeholder Choice*](core_05_band_participation.md#binding-stakeholder-choice-cluster)
-- [Def.A1 *Collective Harm Boundary, Harm, and Harassment and Bullying*](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster)
-- [Def.A2 *Forum Families and Dispute Routing*](core_05_band_accountability.md#forum-families-and-dispute-routing-cluster)
-- [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#transparency-auditability-and-verification-cluster)
-- [Def.A3 *Standing State, Contribution, and Violation*](core_05_band_accountability.md#standing-state-contribution-and-violation-cluster)
-- [Def.C3 *Privacy (Informational)*](core_05_band_continuity.md#privacy-informational-cluster)
-- [Def.I1 *Corpus and Authority Stack*](core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
+- [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](core_05_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status)
+- [Def.P2 *Binding Stakeholder Choice*](core_05_band_participation.md#defp2-binding-stakeholder-choice)
+- [Def.A1 *Collective Harm Boundary, Harm, and Harassment and Bullying*](core_05_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying)
+- [Def.A2 *Forum Families and Dispute Routing*](core_05_band_accountability.md#defa2-forum-families-and-dispute-routing)
+- [Def.O1 *Transparency, Auditability, and Verification*](core_05_band_oversight.md#defo1-transparency-auditability-and-verification)
+- [Def.A3 *Standing State, Contribution, and Violation*](core_05_band_accountability.md#defa3-standing-state-contribution-and-violation)
+- [Def.C3 *Privacy (Informational)*](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head)
+- [Def.I1 *Corpus and Authority Stack*](core_05_band_integrative.md#defi1-corpus-and-authority-stack)
 
 ---
 
@@ -100,13 +100,13 @@ Leaf definitions under this aim inherit its scope unless they expressly narrow o
 
 *In plain terms: these questions ask whether sentients are actually sustained in wellbeing, safety, and agency — not proxy engagement or throughput. This is the Chapter Five home for the Flourishing measurement family; Preamble §2 (*Measurements Overview*) keeps the plain-language category question, and the family table and definition routing live here.*
 
-*Materiality* ([Materiality](core_05_band_oversight.md#materiality-determination)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
+*Materiality* ([Materiality](core_05_band_oversight.md#materiality)) is Integrative — not a separate measurement category; it scales how strongly this family applies under [material stake](core_00_preamble.md#material-stake).
 
 | Subfamily | Plain question | Main constitutional use |
 |---|---|---|
 | [Wellbeing](core_05_band_continuity.md#wellbeing) | Are sentients sustained in function, agency, and supporting conditions? | Primary **Flourishing** outcome measure (not a constituent) — not proxy engagement or throughput |
-| Safety, harm, and risk | Is foreseeable harm prevented, contained, and honestly assessed? | [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constraint); [Harm](core_05_band_accountability.md#harm) |
-| Survival-floor access | Can sentients reach essentials — food, water, shelter, care, stable environment? | [Bodily-Maintenance Access](core_05_band_continuity.md#bodily-maintenance-access-constitutional), [Occupancy Continuity](core_05_band_continuity.md#occupancy-continuity-constitutional), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions-constitutional); **Article III-A** (*Survival*) |
+| Safety, harm, and risk | Is foreseeable harm prevented, contained, and honestly assessed? | [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint); [Harm](core_05_band_accountability.md#harm) |
+| Survival-floor access | Can sentients reach essentials — food, water, shelter, care, stable environment? | [Bodily-Maintenance Access](core_05_band_continuity.md#bodily-maintenance-access), [Occupancy Continuity](core_05_band_continuity.md#occupancy-continuity), [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions); **Article III-A** (*Survival*) |
 
 Operative measurement tiers live on those definition homes.
 

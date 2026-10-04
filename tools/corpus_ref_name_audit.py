@@ -42,6 +42,7 @@ if str(_TOOLS) not in sys.path:
 
 from corpus_paths import binding_corpus_scope  # noqa: E402
 from local_markdown_fragment_audit import github_slug  # noqa: E402
+from heading_anchor_href import ids_for_fragment  # noqa: E402
 from section_cite_name_audit import (  # noqa: E402
     CODE_SPAN_RE,
     FENCE_RE,
@@ -245,6 +246,17 @@ def check_reference(
             return []  # ``CI-2`` (*reserved family ID*): an intentionally unused ID
         return [Finding(rel_path, line_no, ident, "no corpus heading defines this ID")]
     fragment = href.partition("#")[2] if href else ""
+    # A heading-slug link (HTML-ANCHOR-LINK-01) is the same target as the stable
+    # <a id> above that heading, which is what section and subsection names track.
+    fragment_forms = (fragment,)
+    if href and fragment:
+        link_file = href.partition("#")[0]
+        link_path = (
+            (root / rel_path).parent.joinpath(link_file).resolve()
+            if link_file
+            else (root / rel_path)
+        )
+        fragment_forms = (fragment, *ids_for_fragment(link_path, fragment))
     subsection = SUBSECTION_NAME_RE.match(name) if name else None
     if subsection is not None:
         # ``CS-4 §10 inspectable attributable action``: the name after the
@@ -261,7 +273,10 @@ def check_reference(
                     f"subsection reference {name!r} has no name; add the subsection title after the §",
                 )
             )
-        elif not (section_title_agrees(subname, section) or title_agrees(subname, fragment)):
+        elif not (
+            section_title_agrees(subname, section)
+            or any(title_agrees(subname, form) for form in fragment_forms)
+        ):
             found.append(
                 Finding(
                     rel_path,
@@ -282,7 +297,7 @@ def check_reference(
         )
     elif not (
         section_title_agrees(name, section)
-        or (fragment and title_agrees(name, fragment))
+        or (fragment and any(title_agrees(name, form) for form in fragment_forms))
     ):
         found.append(
             Finding(
@@ -324,10 +339,13 @@ def check_reference(
         found.append(
             Finding(rel_path, line_no, ident, "section-level reference links the file without its section anchor")
         )
-    elif fragment and fragment not in valid_anchors and not (
+    elif fragment and not any(form in valid_anchors for form in fragment_forms) and not (
         name is not None
-        and title_agrees(name, fragment)
-        and fragment in subsection_fragments(root, rel_path, target, section)
+        and any(title_agrees(name, form) for form in fragment_forms)
+        and any(
+            form in subsection_fragments(root, rel_path, target, section)
+            for form in fragment_forms
+        )
     ):
         found.append(
             Finding(
