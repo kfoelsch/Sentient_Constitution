@@ -655,9 +655,9 @@ At principle layer, [Governance](core_05_band_accountability.md#governance) is h
 
 The more power, influence, or responsibility someone has under this Constitution, the more accountability and oversight they must accept. It should never be less. How much more depends on what's at stake, and the extra duties should go no further than needed and stay fair to the situation.
 
-- **No excuses.** Holding high office, having rare expertise, being short-staffed, or wanting to protect an institution's reputation never justifies being less accountable to this Constitution.
-- **Judges and interpreters are held to the highest standard.** People on constitutional forums and panels who interpret the Constitution or decide disputes under it are especially bound by this rule.
-- **The detailed rules are elsewhere.** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
+- **No excuses:** Holding high office, having rare expertise, being short-staffed, or wanting to protect an institution's reputation never justifies being less accountable to this Constitution.
+- **Judges and interpreters are held to the highest standard:** Sentients on constitutional forums and panels who interpret the Constitution or decide disputes under it are especially bound by this rule.
+- **The detailed rules are elsewhere:** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) and [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction).
 
 **Necessary, not sufficient.** Governance must give way to **Stewardship** ([§16 Stewardship In Depth](#16-stewardship-in-depth)) when any of the following would undermine durable constitutional alignment, [**Continuity**](core_00_preamble.md#continuity), [**Flourishing**](core_00_preamble.md#flourishing), or Rights-Floor integrity:
 
@@ -735,13 +735,13 @@ This Constitution and the public governance it constrains are secular in the ins
 
 **Whoever checks the work can't be the one who did it.**
 
-Oversight and accountability only work if the checking is done independently of the action being checked. So every decision or action that materially binds people must follow the separation-of-roles rules in [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties). Those rules include:
+Oversight and accountability only work if the checking is done independently of the action being checked. So every decision or action that materially binds sentients must follow the separation-of-roles rules in [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties). Those rules include:
 
-- different people (or AI systems) in the "doing" and "checking" roles;
+- different sentients (human or AI) in the "doing" and "checking" roles;
 - combinations of roles that are off-limits;
 - independence requirements, which get stricter as the stakes rise;
 - clear, traceable handoffs from one role to the next; and
-- a way to redirect a matter that lands with the wrong person.
+- a way to redirect a matter that lands in the wrong seat.
 
 **Who it applies to.** Human and AI stewards are held to this equally ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)).
 

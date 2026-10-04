@@ -375,6 +375,7 @@ This section owns what operators must **do with** the System Classification Reco
 | [§7.7](#77-default-and-precautionary-classification) | **Defaulting** uncertain fields / barring quiet lowering |
 | [§7.8](#78-integrated-risk-governance) | **Pointing** Class A/B org risk roles to CS-4 |
 | [§7.9](#79-class-scaled-assurance-and-supporting-infrastructure) | **Proving** the class it states |
+| [§7.10](#710-component-findings-within-the-system-classification-record) | **Itemizing** the parts of the system it covers |
 
 <a id="71-responsibility-for-classification"></a>
 **7.1. Own the System Classification Record.**
@@ -389,7 +390,7 @@ The **operator** stays responsible for a correct System Classification Record:
 The operator (or other responsible party) must:
 
 - decide and document the class across **all required dimensions**
-- assign the right class or classes
+- assign the right class or classes (one system class for the whole system; lighter depth for a component only as [§7.10 Record component findings under the system's class](#710-component-findings-within-the-system-classification-record) allows)
 - justify the finding **in the System Classification Record**
 
 Forum verification under Chapter Eight §2 (*System Class Evaluation*) does **not** transfer ownership of the System Classification Record away from the operator.
@@ -503,6 +504,57 @@ Who must do what:
   - any material gaps on the System Certification Record under **[Part B §11.1](../core_08_b_system_alignment_certification_record_process.md#111-minimum-record-contents)**
 - **CS-5** — owns regression scope, results, known failures, remediations, and accepted residual risk for each recertification or revalidation cycle (**[CS-5 — Design, testing, verification, and deployment](cs_05_design_testing_verification_deployment.md)** (*Recertification, regression testing, and certification defects*)), read with **corpus_joint_structure.md** (**CJS-3.19** through **CJS-3.23** and related clusters)
 - **Defects** — skipping required regression, relying on outdated results, or leaving known breaks unfixed are certification defects under CS-5 and Chapter Eight §2 (*System Class Evaluation*) — distinct from, but often concurrent with, System Classification Record defects under [§7.6 Correct the System Classification Record](#76-misclassification-and-evasion)
+
+<a id="710-component-findings-within-the-system-classification-record"></a>
+**7.10. Record component findings under the system's class.**
+
+*System Classification Record duty:* where one system has parts with very different stakes, say so part by part, so certification can spend its depth where the stakes are — and never lower the class of the system itself.
+
+A **component finding** sits inside the System Classification Record. It names one function, process, or module of the system (the **component**), says what the component does to sentients and what relies on it, and states how deeply it must be evaluated. A component stays inside the system and under the system's class. It never becomes a separate system. Only its evaluation depth can differ, and only under these rules:
+
+- **One system class, always the highest applicable:**
+  - The record states one class for the whole system, in full functional scope.
+  - A component finding never lowers that class.
+- **The system's depth is the default:**
+  - A component is held to the system's class depth unless a decoupling finding supports lighter depth.
+  - "Depth" means a column of [§8.6 Scaled-duties intensity](cs_03_b_system_impact_classifications.md#86-scaled-duties-intensity). No new column or class is created.
+  - The lightest column a component may be held to is **Class L**.
+- **A decoupling finding needs all three parts, shown from how the component actually runs:**
+  1. **No floor gating:** The component does not gate, mediate, or decide whether sentients can reach, be told about, contest, or get back a Rights Floor the system delivers. Billing, outage and hazard notices, reconnection, hardship, appeal, and customer-service paths of a system that gates survival essentials do not qualify. [Chapter Eight §8.1 Illustrative accessibility application by class (non-exhaustive)](../core_08_a_system_alignment_certification_evaluation.md#81-illustrative-accessibility-application-by-class-non-exhaustive) lists these as in-scope pathways of a Class A water system.
+  2. **Bounded and replaceable:** The rest of the system relies on it only at **[Dep-L](#44-dep-l-limited-dependency)** or **[Dep-P](#45-dep-p-no-meaningful-external-dependency)** level. Its failure, degradation, or misuse can be absorbed within [survival-relevant timeframes](#cs-3-5-boundaries-timeframes-and-resilience) by a fallback or substitute that has been shown to work, and cannot cascade through dependency chains.
+  3. **Separated data and control:** It shares no data path, credential, or control path that would carry a higher-depth part's data or authority into it. Separation holds under the most restrictive applicable type in **[CS-2 — Information types and handling](cs_02_a_information_types_and_handling.md)**.
+- **A Class C finding does not by itself save work:**
+  - Whole-system evaluation under Chapter Eight §3 (*Whole-System Certification Evaluation*) runs at full depth for Class A, B, and C alike ([§3.5 Reclassification requirement](#35-reclassification-requirement)).
+  - Only a finding at the Class L column lightens that evaluation. A Class C finding changes duty intensity, not whether the full evaluation runs.
+- **Components are tested together:**
+  - Certification must re-test the components as a set. Lighter parts that interact or add up can raise impact, dependency, or risk ([§2.2 Real-world application](#22-real-world-application), [§3.3 Temporal and systemic effects](#33-temporal-and-systemic-effects)).
+  - Where the set would raise the class, the higher class governs the system.
+- **What the record must show for each lighter component:**
+  - its name and boundary;
+  - what it does and who relies on it;
+  - the three-part decoupling evidence;
+  - the column it is held to, and any precautionary default relied on where the facts are uncertain;
+  - who made the finding;
+  - when decoupling was last verified.
+- **Decoupling is re-verified every cycle:** Whatever cadence the component has, its decoupling is verified again on every certification or revalidation cycle of the system.
+- **No quiet lowering; contestable and disclosed:**
+  - Holding a component below the system's depth is a class lowering.
+  - It needs evidence, documentation, and review under [§7.7 Default uncertain System Classification Record fields](#77-default-and-precautionary-classification).
+  - It stays open to forum review and timely challenge.
+  - It is disclosed with the record under [§7.2 Disclose the System Classification Record](#72-disclosure-requirements). A component finding hidden from the sentients it affects is not a valid finding.
+- **Boundary moves are not component findings:**
+  - Moving a function outside the system's boundary, or splitting it into a "separate system", is not a component finding.
+  - A change that narrows evaluated scope needs a recorded, contestable rationale under [System Boundary Integrity](../core_05_band_continuity.md#system-boundary-integrity).
+  - It is also checked as possible modularization to dodge a higher class under [§7.6 Correct the System Classification Record](#76-misclassification-and-evasion).
+- **A changed fact ends the lighter finding:**
+  - The [§3.5 Reclassification requirement](#35-reclassification-requirement) triggers apply to each component.
+  - These end the lighter finding: a new reliance on the component by a higher-depth part, a new gating role, loss of its fallback, or a relevant incident.
+  - The component returns to the system's depth until its decoupling is verified again.
+- **One system, one boundary:**
+  - A component finding is made for one system and one boundary. It does not carry over to another system.
+  - A component that serves several systems is held to the highest depth of any system it serves.
+
+Certification under **[Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)** checks component findings as part of the class rationale and assumptions on the System Certification Record. An unsupported lighter finding is a misclassification defect under [§7.6 Correct the System Classification Record](#76-misclassification-and-evasion) and Chapter Eight §2 (*System Class Evaluation*).
 
 <a id="79-high-dependency-private-chokepoints"></a>
 Private chokepoint access-continuity duties (payments, identity, compute, messaging, hosting, distribution, discovery, and similar layers) live in **[CS-4 — Critical system stewardship](cs_04_critical_system_stewardship.md#cs-4-14-private-chokepoints-sentients-depend-on-access-continuity-and-non-capture)** (relocated from this file).

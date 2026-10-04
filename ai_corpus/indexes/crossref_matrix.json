@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-04T10:08:13+00:00",
+  "generated_at": "2026-10-04T12:53:07+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1656,7 +1656,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 77,
+            "count": 75,
             "anchors": [
               "#33-governance-layers",
               "#chapter-00-preamble--foundational-requirements",
@@ -1719,7 +1719,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 46,
+            "count": 44,
             "anchors": [
               "#accountability",
               "#accountability-a",
@@ -1729,7 +1729,7 @@
           },
           {
             "file": "core_05_apex_oversight_leg.md",
-            "count": 36,
+            "count": 34,
             "anchors": [
               "#oversight-constitutional",
               "#oversight-constitutional-a",
@@ -1759,7 +1759,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 340,
+            "count": 337,
             "anchors": [
               "#attributable-action-constitutional",
               "#attributable-action-constitutional-a",
@@ -13796,9 +13796,10 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#system-alignment-certification-constitutional",
+              "#system-boundary-integrity",
               "#system-certification-record-constitutional",
               "#system-classification-record-constitutional"
             ]
@@ -13821,10 +13822,11 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 10,
+            "count": 12,
             "anchors": [
               "#2-system-class-evaluation",
-              "#3-whole-system-certification-evaluation"
+              "#3-whole-system-certification-evaluation",
+              "#81-illustrative-accessibility-application-by-class-non-exhaustive"
             ]
           },
           {
@@ -13891,7 +13893,7 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -13901,8 +13903,9 @@
           },
           {
             "file": "corpus_systems/cs_03_b_system_impact_classifications.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
+              "#86-scaled-duties-intensity",
               "#cs-3-8-system-impact-classifications",
               "#cs-3-part-b-system-impact-classifications"
             ]

@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-04T10:08:14+00:00",
+  "generated_at": "2026-10-04T12:53:08+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16137,
+  "edge_count": 16140,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -14812,7 +14812,7 @@
       "source_anchor": "#181-governance-as-authorized-structure",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -14820,7 +14820,7 @@
       "source_anchor": "#181-governance-as-authorized-structure",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -14868,7 +14868,7 @@
       "source_anchor": "#181-governance-as-authorized-structure",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -14900,7 +14900,7 @@
       "source_anchor": "#181-governance-as-authorized-structure",
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
-      "count": 4
+      "count": 3
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -14964,7 +14964,7 @@
       "source_anchor": "#181-governance-as-authorized-structure",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -14972,7 +14972,7 @@
       "source_anchor": "#181-governance-as-authorized-structure",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -15100,7 +15100,7 @@
       "source_anchor": "#183-segregation-of-duties",
       "target_file": "core_05_apex_accountability_leg.md",
       "target_anchor": "#accountability",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -15132,7 +15132,7 @@
       "source_anchor": "#183-segregation-of-duties",
       "target_file": "core_05_apex_oversight_leg.md",
       "target_anchor": "#oversight-constitutional",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -15212,7 +15212,7 @@
       "source_anchor": "#183-segregation-of-duties",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#materially-binding-act",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -124954,6 +124954,14 @@
       "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "source_header": "CS-3.7 Classification governance, disclosure, and challenge",
       "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundary-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "source_header": "CS-3.7 Classification governance, disclosure, and challenge",
+      "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
       "count": 1
@@ -124964,7 +124972,15 @@
       "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
-      "count": 7
+      "count": 8
+    },
+    {
+      "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "source_header": "CS-3.7 Classification governance, disclosure, and challenge",
+      "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#81-illustrative-accessibility-application-by-class-non-exhaustive",
+      "count": 1
     },
     {
       "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
@@ -125060,7 +125076,7 @@
       "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": null,
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
@@ -125068,6 +125084,14 @@
       "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "source_header": "CS-3.7 Classification governance, disclosure, and challenge",
+      "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
+      "target_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+      "target_anchor": "#86-scaled-duties-intensity",
       "count": 1
     },
     {

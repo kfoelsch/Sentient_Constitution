@@ -170,6 +170,56 @@ Do not skip a row because it is expensive. Skipping a row and still claiming the
 
 First adopters use §10.1–§10.2. There are no published existing-adopter joining rules yet.
 
+<a id="41-first-operating-goal-reusable-standard-processes"></a>
+### 4.1 First operating goal: recognize reusable standard processes
+
+*In plain terms: once certification and forums are really running, the cheapest way to cut repeat work is to assess a shared process once and let many systems rely on it. Make that the first reuse project of the first certification cycle. It is a goal, not a step on the ladder above, and it cannot start earlier.*
+
+**Status.** Outline only. Process support: not binding, not adopted, and it cannot narrow core text. Making it real changes what a certification can rest on, so it needs a core proposal ([Lane D](../../CONTRIBUTING.md#lane-d)) touching Chapter Eight and Chapter Twelve, under [Chapter Sixteen §1 heightened review](../../core_16_amendment_ratification.md#1-heightened-review-for-rights-affecting-changes). Until then, adopters use only the component findings in [CS-3 §7.10](../../corpus_systems/cs_03_a_system_classification_machinery.md#710-component-findings-within-the-system-classification-record).
+
+**Why this goal first.**
+
+- Repeated processes are where certification work repeats most: appeal and complaint intake, change records, outage and hazard notices, hardship and reconnection intake, access requests, incident reporting.
+- [Chapter One §18.6 Standardization](../../core_01_c_stewardship_capacity_principles.md#186-standardization) already makes the common, published form the default. This goal makes that default cheaper to review.
+- CS-3 §7.10 settles first how a part of a system is bounded, shown to be decoupled, and disclosed. The standard-process work reuses those habits.
+
+**Start only when all four hold.**
+
+1. Steps 5 to 8 above are live: instrument recorded, certification steward function named, forum families mapped and staffed.
+2. At least one certification cycle has used component findings under CS-3 §7.10, with decoupling verified on the record at least once.
+3. Chapter Five defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this recognition has a name that is neither "system alignment certification" nor the forum-to-forum sense in [Chapter Twelve §5](../../core_12_forum.md#5-escalation-and-certification).
+4. The four seats of [Chapter Seven](../../core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) are filled, so the owner of a standard is never its recognizer or the hearer of challenges to it.
+
+**Outline of the mechanism (to be settled).**
+
+- **What is recognized.** A published standard process: a repeatable set of steps, decisions, records, clocks, and handoffs. Not a system, and not one operator's running instance of it. The standard must meet §18.6: published, versioned, open to inspection, contestable, and usable without a fee or dependency that gives its owner control over others.
+- **How.** The owner files the standard, its version, and the floors it touches. A forum recognizes it once, against those floors, at the **highest** class of any system that will adopt it. Recognition is scope-bound and time-bound, and states a ceiling on adopter class.
+- **How adopters use it.**
+  - The adopting system carries a conformity statement and a **local-delta note** (local data, staffing, clocks, tools, and every difference from the standard).
+  - Its own certification treats the recognition as evidence about the **design** of the process.
+  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Chapter Three §2.1.1](../../core_03_definition_integrity.md#211-formal-label-and-representation-gaming); [Chapter Eight Part B §12](../../core_08_b_system_alignment_certification_record_process.md#12-transparency-auditability-and-contestability)).
+- **Challenge.** Open at two levels, the standard and each adopter, through the existing contest chain.
+- **Reopening.** A new version of the standard, an incident in any adopter, or a credible challenge reopens the recognition and flags every adopter's reliance on it.
+
+**Guardrails carried over from CS-3 §7.10.**
+
+- The highest class served governs.
+- No quiet lowering.
+- Parts are tested together, not only one by one.
+- No narrowing of scope without a recorded, contestable rationale.
+- A change to a standard that touches a Rights Floor is a constitutional question, not the owner's call alone (see the floor-touching test in the [process-ownership draft](../../project/PROCESS_OWNERSHIP_DISPUTE_RULE_DRAFT.md)).
+- Recognition of a process is not adoption of the Constitution and not a compliance claim.
+
+**Open questions.**
+
+1. What test separates a process from a component or an institution?
+2. What is the recognition called?
+3. Can one recognition cover adopters of different classes, or does each class ceiling need its own?
+4. Who may challenge a standard, without making steward-only filing a new gatekeeper?
+5. How cheap can a local-delta note be without becoming a rubber stamp?
+6. Who pays for recognition, so the recognizer is not paid by the owner it recognizes?
+7. Which core files change: Chapter Eight Part B §11.1 record contents, and Chapter Twelve forum roles.
+
 ---
 
 <a id="5-body-inventory"></a>
@@ -376,3 +426,4 @@ Use this as a lookup, not as a new mode.
 | Date | Version | Note |
 |---|---|---|
 | 2026-09-09 | v0.1 | Initial process-support profile: *N* × Class *X*, required vs optional bodies, order of work, order-of-magnitude staff and funding. Names that the full companion stack is not standable by a forty-person lab as written. Not adoption. Not a partial-pack ladder. Does not drop **pre-release**. |
+| 2026-10-04 | v0.2 | §4.1 outlines reusable standard-process recognition as the first operating goal after the instrument and forum families are live. Outline only; needs a core proposal. Does not drop **pre-release** or add a step to the order of work. |
