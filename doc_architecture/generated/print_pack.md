@@ -45,7 +45,7 @@ Sentient freedom, survival, and wellbeing are inseparable from the systems we cr
 
 A system cannot remain legitimate if it causes preventable suffering, ignores recurring problems, shifts harm onto others without acknowledgment, or excludes sentients from the systems that shape their lives.
 
-<a id="complexity-orientation"></a>Shared systems sit in a world that is already complex and becoming more so. Healthy, durable governance has to meet that complexity — measure it, model it, and answer for it — rather than flatten it into convenient proxies. That does not mean burying affected sentients in unusable process: duties, records, and explanations must stay within what sentients can actually learn, contest, and use, and how demanding they are scales with each actor's role and with the impact, dependence, and risk at stake. Distributed understanding keeps that real. Complexity that does no constitutional work is refused: face the world's complexity, and do not outsource it into a wall.
+<a id="complexity-orientation"></a>Shared systems sit in a world that is already complex and becoming more so. Healthy, durable governance has to meet that complexity — measure it, model it, and answer for it — rather than flatten it into convenient proxies. That does not mean burying affected sentients in unusable processes: duties, records, and explanations must stay within what sentients can actually learn, contest, and use, and how demanding they are scales with each actor's role and with the impact, dependence, and risk at stake. Distributed understanding keeps that real. Complexity that does no constitutional work is refused: face the world's complexity, and do not outsource it into a wall.
 
 How systems are designed, tested, and run must support survival, wellbeing, dignity, honesty, and lasting stability. This Constitution intends to eliminate the harms described above by building better systems, and to replace the systems that created them with institutions that are more accountable, robust, and responsive to the real needs of all sentients. It begins that work by offering a better model for how we can work together justly, effectively, and sustainably.
 
@@ -127,7 +127,7 @@ These measurement categories show what matters. Standing alone, they do not set 
 
 ### 3. Governance and Stewardship
 
-*In plain terms: legitimacy needs Safety, Truth, and Trust. It also needs real opportunities to learn how the systems that affect you work and to take consequential roles in maintaining them.*
+*In plain terms: legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And people like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.*
 
 Durable legitimacy depends on [Safety](../../core_01_a_values_principles.md#4-safety-harm-constraint), [Truth](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [Trust](../../core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity). It also depends on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](../../core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration).
 

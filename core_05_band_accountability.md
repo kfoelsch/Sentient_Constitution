@@ -1915,6 +1915,7 @@ Where admission scope is met, this cluster is the joint-invocation home for:
 
 - [Harm](core_05_band_accountability.md#harm), as the general degradation concept;
 - [Cruelty](core_05_band_accountability.md#cruelty), as the conduct-character construct for suffering inflicted as an end in itself or beyond necessity and proportionality;
+- [Animal Cruelty](core_05_band_accountability.md#animal-cruelty), as the application of that construct to beings covered by the [Animal Life](core_05_band_participation.md#animal-life) floor, including neglect by those responsible for their care;
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying), as the patterned-conduct construct for unwanted conduct that materially degrades protected conditions in associational, institutional, dependency, and comparable cooperative settings; and
 - [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary), as the defined limit on freedom of action: the point where one sentient's, collective's, or system's freedom of action must yield to verifiable harm affecting another sentient's protected interests or constitutionally protected shared conditions.
 
@@ -1926,6 +1927,7 @@ These definitions do different jobs, but they must be considered together when n
 - [Psychological Harm](core_05_band_accountability.md#psychological-harm);
 - [Irreversible Harm](core_05_band_accountability.md#irreversible-harm);
 - [Cruelty](core_05_band_accountability.md#cruelty);
+- [Animal Cruelty](core_05_band_accountability.md#animal-cruelty);
 - [Harassment and Bullying](core_05_band_accountability.md#harassment-and-bullying);
 - [Collective Harm Boundary](core_05_band_accountability.md#collective-harm-boundary).
 
@@ -2073,7 +2075,7 @@ The following limits also apply:
 - Upstream: Principles: [4 Safety (Harm Constraint)](core_01_a_values_principles.md#4-safety-harm-constraint); [3.3 Anti-Degrading Process](core_01_a_values_principles.md#33-anti-degrading-process) (*humiliation, spectacle, and process-as-punishment floor*).
 - Owner floor: [Article XX-A](core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*).
 - Cluster component: [Collective Harm Boundary, Harm, and Harassment and Bullying](core_05_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying) cluster.
-- Read with: [Harm](core_05_band_accountability.md#harm), [Psychological Harm](core_05_band_accountability.md#psychological-harm), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation), [Animal Life](core_05_band_participation.md#animal-life), [Violation Nature](core_05_band_accountability.md#violation-nature), [Chapter Nine §4.2](core_09_standing_assessment.md#42-violation-severity-input-dimensions) (*conduct-character stack*), and [Chapter Ten §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*general standing locks*).
+- Read with: [Harm](core_05_band_accountability.md#harm), [Psychological Harm](core_05_band_accountability.md#psychological-harm), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation), [Animal Life](core_05_band_participation.md#animal-life), [Animal Cruelty](core_05_band_accountability.md#animal-cruelty), [Violation Nature](core_05_band_accountability.md#violation-nature), [Chapter Nine §4.2](core_09_standing_assessment.md#42-violation-severity-input-dimensions) (*conduct-character stack*), and [Chapter Ten §4.2](core_10_standing_integration.md#42-prevention--general-standing-locks) (*general standing locks*).
 
 </details>
 
@@ -2103,7 +2105,7 @@ The following limits also apply:
     - Test for suffering as an end in itself, gratuitous infliction, or degrading / humiliating design under the [Anti-Degrading-Process Principle (§3.3)](core_01_a_values_principles.md#33-anti-degrading-process) and [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing).
     - Treat verified humiliation for its own sake as the humiliation subtype of [Cruelty](core_05_band_accountability.md#cruelty); do not treat ordinary reputational adversity from fair accountability as that subtype.
     - Apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to any claimed justification.
-    - Where animal welfare is implicated, read with [Animal Life](core_05_band_participation.md#animal-life).
+    - Where animal welfare is implicated, read with [Animal Life](core_05_band_participation.md#animal-life) and apply [Animal Cruelty](core_05_band_accountability.md#animal-cruelty).
     - Where standing is implicated, record cruelty only from verified findings under [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing) and keep it on the conduct-character stack — not as a slot input.
 <a id="cruelty-c"></a>
 - **What must hold**
@@ -2113,6 +2115,62 @@ The following limits also apply:
     - humiliation for its own sake under [Chapter One §3.3 Anti-Degrading Process](core_01_a_values_principles.md#33-anti-degrading-process);
     - using justice, remedy, restriction, or process forms to degrade, humiliate, shame, or retaliate rather than protect, correct, restore, or prevent — contrary to the [Anti-Degrading-Process Principle (§3.3)](core_01_a_values_principles.md#33-anti-degrading-process); or
     - treating a cruelty finding as if it moved the Violation Axis slot, or using an unverified cruelty label as standing input.
+
+---
+
+<a id="animal-cruelty"></a>
+
+##### Animal Cruelty
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: [4 Safety (Harm Constraint)](core_01_a_values_principles.md#4-safety-harm-constraint); [3.3 Anti-Degrading Process](core_01_a_values_principles.md#33-anti-degrading-process).
+- Owner floor: [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for the cruelty / welfare floor pointer; [Article XX-A](core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*anti-cruelty floor*).
+- Cluster component: [Collective Harm Boundary, Harm, and Harassment and Bullying](core_05_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying) cluster (subtype of [Cruelty](core_05_band_accountability.md#cruelty)).
+- Read with: [Cruelty](core_05_band_accountability.md#cruelty), [Animal Life](core_05_band_participation.md#animal-life), [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), [Substrate Class](core_05_band_participation.md#substrate-class), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Harm](core_05_band_accountability.md#harm), [Stewardship](core_05_band_continuity.md#stewardship), [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), and [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing).
+
+</details>
+
+<br>
+
+*In plain terms: animal cruelty is cruelty to an animal. It is making an animal suffer for its own sake, or causing or allowing suffering beyond what necessity and proportionality allow. It includes neglect by anyone responsible for an animal's care. Farming, research, pest control, hunting, and veterinary care are not automatically cruelty, and they are not automatically excused either. Each has to pass the same necessity and proportionality test as everything else. Calling something legal, customary, or "just livestock" does not pass it.*
+
+- **What it is**
+  - **In scope:** [Cruelty](core_05_band_accountability.md#cruelty), as defined, where the one who suffers is covered by the [Animal Life](core_05_band_participation.md#animal-life) floor, by act or by omission, that:
+    - inflicts, designs, or continues suffering as an end in itself, including for entertainment, gratification, display, or contest;
+    - adds gratuitous suffering beyond what [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) allow, including in how an animal is handled, confined, transported, used, or killed; or
+    - fails, by one who holds care, custody, or control, to meet an animal's basic needs (food, water, shelter, space, relief of pain or illness) where the failure was known or reasonably should have been known, and suffering results that [Necessity](core_05_band_accountability.md#necessity) does not justify.
+    "Suffering" here means physical pain, fear, distress, or serious deprivation of basic needs.
+  - **In scope — who:** Coverage follows the [Animal Life](core_05_band_participation.md#animal-life) floor on [substrate-agnostic](core_05_band_participation.md#substrate-class) terms under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion). It is not a species, taxonomy, or ownership test. The word "animal" labels the floor; it does not limit it.
+  - **In scope — higher tiers:** Where [Elevated Communicative Life](core_05_band_participation.md#elevated-communicative-life), [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life), or [Sentient](core_05_band_participation.md#sentient) treatment applies, Animal Cruelty is the minimum, not the ceiling. The same facts may also engage [Cruelty](core_05_band_accountability.md#cruelty) and Chapter Six directly, and the more protective rule governs.
+  - **Boundary — not a lower bar:** Animal Cruelty does not add elements that make [Cruelty](core_05_band_accountability.md#cruelty) harder to find for animals. Where the facts meet the base Cruelty test, they are Animal Cruelty whether or not the custody or neglect limb applies.
+  - **Boundary — justifications:** Veterinary treatment, euthanasia to end suffering, defense against imminent harm, and food, research, population, or pest-control practices are tested under [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality). None is excluded by category, and none is excused by label. Cost, convenience, tradition, legality, or property status alone does not establish necessity.
+  - **Out of scope:**
+    - accident or unforeseeable harm without knowledge, intent, or reasonably avoidable disregard;
+    - suffering that is necessary and proportionate to a legitimate end, including care that hurts in order to heal; or
+    - ecosystem or biosphere questions with no cruelty or welfare dimension — those belong under [Natural Systems Standing](core_05_band_participation.md#natural-systems-standing).
+  - **Standing boundary:** As for [Cruelty](core_05_band_accountability.md#cruelty): when verified as conduct character on a [violation standing record](core_05_band_accountability.md#standing-record), Animal Cruelty may orient prevention, safeguards, and non-degrading remedy. It does not assign or move the Violation Axis slot.
+<a id="animal-cruelty-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) and [Flourishing measurement family](core_05_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family). Use them here to ask what the animal actually experienced and whether suffering was the point, or was piled on or allowed beyond necessity and proportionality.
+
+    **Primary assessment:**
+    - Judge by the animal's real welfare effects, using welfare indicators and the best available evidence on that kind of animal. Do not judge by species label, ownership, or category name.
+    - Apply the [Cruelty](core_05_band_accountability.md#cruelty) test first. Then ask the custody question: did the one responsible know, or reasonably should they have known, of the unmet need?
+    - Apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to any claimed justification. Test whether a less harmful means was reasonably available.
+    - Evaluate [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), especially large-scale production, experimentation, captivity, extraction, and deployment regimes, where routine practice can hide gratuitous suffering.
+    - Where status is uncertain, do not use the uncertainty to close the question. Read with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Contested-Sentient Life](core_05_band_participation.md#contested-sentient-life).
+    - Where standing is implicated, record the finding only from verified inputs under [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing).
+<a id="animal-cruelty-c"></a>
+- **What must hold**
+  - **Primary failure:** Non-compliant practices include:
+    - inflicting, designing, or continuing an animal's suffering as an end in itself, including as entertainment or contest;
+    - causing or allowing suffering beyond necessity and proportionality, in handling, confinement, transport, use, or killing;
+    - neglect or abandonment by one who holds care, custody, or control, where the unmet need was known or reasonably knowable;
+    - "not sentient" or "just property / livestock / pest" framings used to avoid the welfare analysis (see [Animal Life](core_05_band_participation.md#animal-life));
+    - treating legality, custom, cost, convenience, or ownership as sufficient to show necessity; or
+    - splitting a practice into small steps, delegating it, or scaling it so that no one step is called cruel while the practice as a whole is.
 
 ---
 

@@ -127,7 +127,7 @@ Recognized mechanism families include:
   - scope;
   - renewal or reauthorization cadence; and
   - material limits on delegated power.
-  Auditability must be proportionate to **[corpus_systems.md](corpus_systems.md)**, CS-3 — System classification and handling classification, and to **material impact** under Chapter Five ([*Material*](core_05_band_oversight.md#material), [*Dependency*](core_05_band_continuity.md#dependency), [*Stakeholder*](core_05_band_participation.md#stakeholder)).
+  Auditability must be proportionate to **[corpus_systems.md](corpus_systems.md)**, the classification under CS-3 — System classification and handling, and to **material impact** under Chapter Five ([*Material*](core_05_band_oversight.md#material), [*Dependency*](core_05_band_continuity.md#dependency), [*Stakeholder*](core_05_band_participation.md#stakeholder)).
 - **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by **Chapter Seventeen** (*Ratification and Adoption*).
 
 **Contestation, correction, and pluralism**

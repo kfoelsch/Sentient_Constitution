@@ -2,16 +2,17 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-04T10:08:21+00:00
+Generated: 2026-10-05T07:57:11+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **249/249** terms pass tier audit.
+Approved progress: **250/250** terms pass tier audit.
 
 
 ## 3.2 Flourishing
 
 | Term | Status | Tier depth | Aim role | File | Has measurements | Audit |
 | --- | --- | --- | --- | --- | --- | --- |
+| Animal Cruelty | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Anti-Displacement Floor | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Autonomous Coercion Tool | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Autonomous Lethal System | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |

@@ -69,7 +69,7 @@ shared systems cannot run on guesswork or vanity metrics. Measure whether sentie
 
 #### 3. Governance and Stewardship
 
-legitimacy needs Safety, Truth, and Trust. It also needs real opportunities to learn how the systems that affect you work and to take consequential roles in maintaining them.
+legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And people like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.
 
 [Source](../../core_00_preamble.md#3-governance-and-stewardship)
 

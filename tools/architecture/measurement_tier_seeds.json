@@ -1218,6 +1218,11 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Animal Cruelty": {
+      "ch00_category": "3.2 Flourishing",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Identity Data Protection": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_secondary",
