@@ -1792,7 +1792,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
 - उच्चस्तरीय आधार: तत्त्वे: [अध्याय एक §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय एक §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application), आणि [अध्याय आठ §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- सोबत वाचा: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **सहभाग** अंग (हितधारक प्रणाली सहभाग स्तर); [material stake](core_00_preamble.md#material-stake) च्या प्रमाणात मोजमाप; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) आणि [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- सोबत वाचा: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **सहभाग** अंग (हितधारक प्रणाली सहभाग स्तर); [material stake](core_00_preamble.md#material-stake) च्या प्रमाणात मोजमाप; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) आणि [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - स्तर: **Stakeholder System Participation (SSP)**. अधिकृततेच्या **Constitutional Contract Layer (CCL)** पेक्षा वेगळा.
 
 </details>

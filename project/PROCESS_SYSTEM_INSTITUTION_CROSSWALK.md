@@ -145,11 +145,12 @@ Confidence: 42 high, 22 medium, 3 low.
 | 7 §1 | Purpose, Scope, and Owner Boundary | Process | Institution | H | Separate jobs inside any binding process |
 | 7 §2 | Four-Seat Constitutional Floor | Process | Institution | H | Ask or act, check, keep record, hear challenge |
 | 7 §3 | Independence, Conflict, and Control Lines | Institution | Process | M | Who can direct, remove, reward or overrule whom |
-| 7 §4 | Published Placement, Vacancy, and Substitution | Institution | Process | H | Who holds each seat and who covers |
-| 7 §5 | Proportional Scaling and Merged Hosting | Institution | Process | M | Small groups, permitted pairs in one office |
-| 7 §6 | Emergency and Urgent Action | Process | — | H | Changes sequence, not seat ownership |
-| 7 §7 | Act Records, Attributable Handoffs, Wrong-Seat Routing | Process | — | H | Record, pass on, do not silently take |
-| 7 §8 | Relationship to Later Processes | Process | — | M | Routing note: this chapter separates power, later ones set content |
+| 7 §4 | Wrong-Seat Routing | Process | — | H | Do not silently take it; decline, name the seat, route |
+| 7 §5 | Published Placement, Vacancy, and Substitution | Institution | Process | H | Who holds each seat and who covers |
+| 7 §6 | Proportional Scaling and Merged Hosting | Institution | Process | M | Small groups, permitted pairs in one office |
+| 7 §7 | Emergency and Urgent Action | Process | — | H | Changes sequence, not seat ownership |
+| 7 §8 | Act Records and Attributable Handoffs | Process | — | H | Record what happened, who held each seat, where a challenge goes |
+| 7 §9 | Relationship to Later Processes | Process | — | M | Routing note: this chapter separates power, later ones set content |
 
 ## Legend
 

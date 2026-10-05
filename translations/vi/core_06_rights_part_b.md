@@ -1799,7 +1799,7 @@ Việc theo đuổi chính đáng vận hành thông qua [Tứ diện Hiến ph�
 <summary><strong><span style="color: #2563eb;">Liên kết căn cứ</span></strong></summary>
 
 - Căn cứ cấp trên: Nguyên tắc: Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Một §20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application), và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — nhánh **tham gia** (tầng Sự tham gia của Bên liên quan trong Hệ thống); mức độ theo [lợi ích vật chất](core_00_preamble.md#material-stake); [Hồ sơ Hành vi Ràng buộc Vật chất](core_05_band_accountability.md#materially-binding-act-record) và [Chương Bảy §7 Hồ sơ hành vi, Chuyển giao quy trách nhiệm và Định tuyến sai vị trí](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — nhánh **tham gia** (tầng Sự tham gia của Bên liên quan trong Hệ thống); mức độ theo [lợi ích vật chất](core_00_preamble.md#material-stake); [Hồ sơ Hành vi Ràng buộc Vật chất](core_05_band_accountability.md#materially-binding-act-record) và [Chương Bảy §7 Hồ sơ hành vi, Chuyển giao quy trách nhiệm và Định tuyến sai vị trí](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - Tầng: **Sự tham gia của Bên liên quan trong Hệ thống (SSP)**. Khác với ủy quyền tại **Tầng Hợp đồng Hiến pháp (CCL)**.
 
 </details>

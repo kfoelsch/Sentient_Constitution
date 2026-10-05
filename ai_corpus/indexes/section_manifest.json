@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-05T07:50:20+00:00",
+  "generated_at": "2026-10-05T11:58:01+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -3680,13 +3680,13 @@
       ]
     },
     "core_07_functional_independence_segregation_of_duties.md": {
-      "total_lines": 377,
+      "total_lines": 387,
       "sections": [
         {
           "header": "CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES",
           "level": 1,
           "line_start": 2,
-          "line_end": 377,
+          "line_end": 387,
           "anchor": "#chapter-seven-functional-independence-and-segregation-of-duties"
         },
         {
@@ -3711,39 +3711,46 @@
           "anchor": "#3-independence-conflict-and-control-lines"
         },
         {
-          "header": "4. Published Placement, Vacancy, and Substitution",
+          "header": "4. Wrong-Seat Routing",
           "level": 3,
           "line_start": 192,
-          "line_end": 219,
-          "anchor": "#4-published-placement-vacancy-and-substitution"
+          "line_end": 217,
+          "anchor": "#4-wrong-seat-routing"
         },
         {
-          "header": "5. Proportional Scaling and Merged Hosting",
+          "header": "5. Published Placement, Vacancy, and Substitution",
           "level": 3,
-          "line_start": 220,
-          "line_end": 256,
-          "anchor": "#5-proportional-scaling-and-merged-hosting"
+          "line_start": 218,
+          "line_end": 245,
+          "anchor": "#5-published-placement-vacancy-and-substitution"
         },
         {
-          "header": "6. Emergency and Urgent Action",
+          "header": "6. Proportional Scaling and Merged Hosting",
           "level": 3,
-          "line_start": 257,
-          "line_end": 295,
-          "anchor": "#6-emergency-and-urgent-action"
+          "line_start": 246,
+          "line_end": 276,
+          "anchor": "#6-proportional-scaling-and-merged-hosting"
         },
         {
-          "header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
+          "header": "7. Emergency and Urgent Action",
           "level": 3,
-          "line_start": 296,
-          "line_end": 341,
-          "anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing"
+          "line_start": 277,
+          "line_end": 315,
+          "anchor": "#7-emergency-and-urgent-action"
         },
         {
-          "header": "8. Relationship to Later Processes",
+          "header": "8. Act Records and Attributable Handoffs",
           "level": 3,
-          "line_start": 342,
-          "line_end": 377,
-          "anchor": "#8-relationship-to-later-processes"
+          "line_start": 316,
+          "line_end": 351,
+          "anchor": "#8-act-records-and-attributable-handoffs"
+        },
+        {
+          "header": "9. Relationship to Later Processes",
+          "level": 3,
+          "line_start": 352,
+          "line_end": 387,
+          "anchor": "#9-relationship-to-later-processes"
         }
       ]
     },

@@ -1743,7 +1743,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제1장 §20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여**의 갈래(이해관계자 체계 참여 층); [실질 이해관계](core_00_preamble.md#material-stake)에 따른 조정; [실질적 구속 행위 기록](core_05_band_accountability.md#materially-binding-act-record) 및 [제7장 §7 행위 기록, 귀속 가능한 인계, 잘못된 자리로의 전달](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여**의 갈래(이해관계자 체계 참여 층); [실질 이해관계](core_00_preamble.md#material-stake)에 따른 조정; [실질적 구속 행위 기록](core_05_band_accountability.md#materially-binding-act-record) 및 [제7장 §7 행위 기록, 귀속 가능한 인계, 잘못된 자리로의 전달](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - 층: **이해관계자 체계 참여(SSP)**. 수권을 다루는 **헌법 계약 층(CCL)**과 구별된다.
 
 </details>

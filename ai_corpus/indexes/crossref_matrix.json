@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-05T07:50:21+00:00",
+  "generated_at": "2026-10-05T11:58:02+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -3939,14 +3939,15 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 17,
+            "count": 18,
             "anchors": [
               "#1-purpose-scope-and-owner-boundary",
               "#2-four-seat-constitutional-floor",
               "#3-independence-conflict-and-control-lines",
-              "#4-published-placement-vacancy-and-substitution",
-              "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
-              "#8-relationship-to-later-processes"
+              "#4-wrong-seat-routing",
+              "#5-published-placement-vacancy-and-substitution",
+              "#8-act-records-and-attributable-handoffs",
+              "#9-relationship-to-later-processes"
             ]
           },
           {
@@ -5833,7 +5834,7 @@
           },
           {
             "file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#ci-45-authorized-roles-and-accountability-chains",
               "#ci-46-seat-catalog--process-role-archetypes-and-operational-boundaries",
@@ -6266,7 +6267,7 @@
             "count": 5,
             "anchors": [
               "#2-four-seat-constitutional-floor",
-              "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+              "#8-act-records-and-attributable-handoffs",
               "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
@@ -8574,7 +8575,7 @@
             "anchors": [
               "#2-four-seat-constitutional-floor",
               "#3-independence-conflict-and-control-lines",
-              "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+              "#8-act-records-and-attributable-handoffs",
               "#chapter-seven-functional-independence-and-segregation-of-duties"
             ]
           },
@@ -15882,7 +15883,7 @@
             "count": 4,
             "anchors": [
               "#2-four-seat-constitutional-floor",
-              "#7-act-records-attributable-handoffs-and-wrong-seat-routing"
+              "#8-act-records-and-attributable-handoffs"
             ]
           },
           {

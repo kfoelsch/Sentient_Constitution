@@ -1741,7 +1741,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
 - पूर्ववर्ती: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application), और [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-- साथ पढ़ें: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **भागीदारी** अंग (हितधारक प्रणाली भागीदारी परत); [महत्वपूर्ण दाँव](core_00_preamble.md#material-stake) का पैमाना; [महत्वपूर्ण रूप से बाध्यकारी कार्य अभिलेख](core_05_band_accountability.md#materially-binding-act-record) और [अध्याय सात §7 कार्य-अभिलेख, उत्तरदायी हस्तांतरण और गलत-स्थान मार्ग-निर्धारण](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)।
+- साथ पढ़ें: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **भागीदारी** अंग (हितधारक प्रणाली भागीदारी परत); [महत्वपूर्ण दाँव](core_00_preamble.md#material-stake) का पैमाना; [महत्वपूर्ण रूप से बाध्यकारी कार्य अभिलेख](core_05_band_accountability.md#materially-binding-act-record) और [अध्याय सात §7 कार्य-अभिलेख, उत्तरदायी हस्तांतरण और गलत-स्थान मार्ग-निर्धारण](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)।
 - परत: **हितधारक प्रणाली भागीदारी (SSP)**। **संवैधानिक अनुबंध परत (CCL)** प्राधिकरण से अलग।
 
 </details>

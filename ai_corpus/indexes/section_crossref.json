@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-05T07:50:22+00:00",
+  "generated_at": "2026-10-05T11:58:03+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16213,
+  "edge_count": 16215,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -30499,7 +30499,7 @@
       "source_header": "Materially Binding Act",
       "source_anchor": "#materially-binding-act",
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
-      "target_anchor": "#8-relationship-to-later-processes",
+      "target_anchor": "#9-relationship-to-later-processes",
       "count": 1
     },
     {
@@ -30507,7 +30507,7 @@
       "source_header": "Materially Binding Act",
       "source_anchor": "#materially-binding-act",
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
-      "target_anchor": "#4-published-placement-vacancy-and-substitution",
+      "target_anchor": "#5-published-placement-vacancy-and-substitution",
       "count": 1
     },
     {
@@ -30651,7 +30651,15 @@
       "source_header": "Materially Binding Act Record",
       "source_anchor": "#materially-binding-act-record",
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
-      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "target_anchor": "#4-wrong-seat-routing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Materially Binding Act Record",
+      "source_anchor": "#materially-binding-act-record",
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#8-act-records-and-attributable-handoffs",
       "count": 3
     },
     {
@@ -67283,7 +67291,7 @@
       "source_header": "Article XII-A: Stakeholder System Participation and Representation",
       "source_anchor": null,
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
-      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "target_anchor": "#8-act-records-and-attributable-handoffs",
       "count": 1
     },
     {
@@ -78624,280 +78632,288 @@
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "4. Published Placement, Vacancy, and Substitution",
-      "source_anchor": "#4-published-placement-vacancy-and-substitution",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#material-control-line",
-      "count": 2
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "4. Published Placement, Vacancy, and Substitution",
-      "source_anchor": "#4-published-placement-vacancy-and-substitution",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#charter",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "4. Published Placement, Vacancy, and Substitution",
-      "source_anchor": "#4-published-placement-vacancy-and-substitution",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#transparency",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "4. Published Placement, Vacancy, and Substitution",
-      "source_anchor": "#4-published-placement-vacancy-and-substitution",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "4. Published Placement, Vacancy, and Substitution",
-      "source_anchor": "#4-published-placement-vacancy-and-substitution",
-      "target_file": "core_13_governance.md",
-      "target_anchor": "#5-authorized-roles-competency-development-and-contribution",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "4. Published Placement, Vacancy, and Substitution",
-      "source_anchor": "#4-published-placement-vacancy-and-substitution",
-      "target_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
-      "target_anchor": "#ci-32-functional-separation-lanes",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "4. Published Placement, Vacancy, and Substitution",
-      "source_anchor": "#4-published-placement-vacancy-and-substitution",
-      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "target_anchor": "#ci-45-authorized-roles-and-accountability-chains",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "5. Proportional Scaling and Merged Hosting",
-      "source_anchor": "#5-proportional-scaling-and-merged-hosting",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "5. Proportional Scaling and Merged Hosting",
-      "source_anchor": "#5-proportional-scaling-and-merged-hosting",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#33-anti-degrading-process",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "5. Proportional Scaling and Merged Hosting",
-      "source_anchor": "#5-proportional-scaling-and-merged-hosting",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "5. Proportional Scaling and Merged Hosting",
-      "source_anchor": "#5-proportional-scaling-and-merged-hosting",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "5. Proportional Scaling and Merged Hosting",
-      "source_anchor": "#5-proportional-scaling-and-merged-hosting",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#avoidable-burden",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "5. Proportional Scaling and Merged Hosting",
-      "source_anchor": "#5-proportional-scaling-and-merged-hosting",
-      "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#37-informal-and-small-scope-records",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "5. Proportional Scaling and Merged Hosting",
-      "source_anchor": "#5-proportional-scaling-and-merged-hosting",
-      "target_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
-      "target_anchor": "#ci-32-functional-separation-lanes",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "5. Proportional Scaling and Merged Hosting",
-      "source_anchor": "#5-proportional-scaling-and-merged-hosting",
-      "target_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
-      "target_anchor": "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "6. Emergency and Urgent Action",
-      "source_anchor": "#6-emergency-and-urgent-action",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#default-interim-posture",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "6. Emergency and Urgent Action",
-      "source_anchor": "#6-emergency-and-urgent-action",
-      "target_file": "core_05_apex_timeliness_leg.md",
-      "target_anchor": "#timeliness-constitutional",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "6. Emergency and Urgent Action",
-      "source_anchor": "#6-emergency-and-urgent-action",
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#evidence-preservation",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "6. Emergency and Urgent Action",
-      "source_anchor": "#6-emergency-and-urgent-action",
-      "target_file": "core_12_forum.md",
-      "target_anchor": "#61-emergency-measures-and-continuation-burden",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "6. Emergency and Urgent Action",
-      "source_anchor": "#6-emergency-and-urgent-action",
-      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
-      "target_anchor": "#ci-46-seat-containment",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
-      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "4. Wrong-Seat Routing",
+      "source_anchor": "#4-wrong-seat-routing",
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#175-duty-to-resist",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
-      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
-      "target_file": "core_04_burden_traceability_verification.md",
-      "target_anchor": "#5-compliance-evidence-standard",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
-      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#materially-binding-act-record",
-      "count": 2
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
-      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#attributable-action",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
-      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#attribution-integrity",
-      "count": 1
-    },
-    {
-      "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
-      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "4. Wrong-Seat Routing",
+      "source_anchor": "#4-wrong-seat-routing",
       "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
       "target_anchor": "#ci-46-shared-seat-rules",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "7. Act Records, Attributable Handoffs, and Wrong-Seat Routing",
-      "source_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "source_header": "5. Published Placement, Vacancy, and Substitution",
+      "source_anchor": "#5-published-placement-vacancy-and-substitution",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#material-control-line",
+      "count": 2
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "5. Published Placement, Vacancy, and Substitution",
+      "source_anchor": "#5-published-placement-vacancy-and-substitution",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#charter",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "5. Published Placement, Vacancy, and Substitution",
+      "source_anchor": "#5-published-placement-vacancy-and-substitution",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "5. Published Placement, Vacancy, and Substitution",
+      "source_anchor": "#5-published-placement-vacancy-and-substitution",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "5. Published Placement, Vacancy, and Substitution",
+      "source_anchor": "#5-published-placement-vacancy-and-substitution",
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#5-authorized-roles-competency-development-and-contribution",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "5. Published Placement, Vacancy, and Substitution",
+      "source_anchor": "#5-published-placement-vacancy-and-substitution",
+      "target_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "target_anchor": "#ci-32-functional-separation-lanes",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "5. Published Placement, Vacancy, and Substitution",
+      "source_anchor": "#5-published-placement-vacancy-and-substitution",
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-45-authorized-roles-and-accountability-chains",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "6. Proportional Scaling and Merged Hosting",
+      "source_anchor": "#6-proportional-scaling-and-merged-hosting",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "6. Proportional Scaling and Merged Hosting",
+      "source_anchor": "#6-proportional-scaling-and-merged-hosting",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#33-anti-degrading-process",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "6. Proportional Scaling and Merged Hosting",
+      "source_anchor": "#6-proportional-scaling-and-merged-hosting",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "6. Proportional Scaling and Merged Hosting",
+      "source_anchor": "#6-proportional-scaling-and-merged-hosting",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "6. Proportional Scaling and Merged Hosting",
+      "source_anchor": "#6-proportional-scaling-and-merged-hosting",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#avoidable-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "6. Proportional Scaling and Merged Hosting",
+      "source_anchor": "#6-proportional-scaling-and-merged-hosting",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#37-informal-and-small-scope-records",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "6. Proportional Scaling and Merged Hosting",
+      "source_anchor": "#6-proportional-scaling-and-merged-hosting",
+      "target_file": "corpus_institutions/ci_03_institutional_design_separation_of_powers.md",
+      "target_anchor": "#ci-32-functional-separation-lanes",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "6. Proportional Scaling and Merged Hosting",
+      "source_anchor": "#6-proportional-scaling-and-merged-hosting",
+      "target_file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
+      "target_anchor": "#cjs-24-class-scaled-lane-staffing-and-competency-redundancy",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "7. Emergency and Urgent Action",
+      "source_anchor": "#7-emergency-and-urgent-action",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#default-interim-posture",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "7. Emergency and Urgent Action",
+      "source_anchor": "#7-emergency-and-urgent-action",
+      "target_file": "core_05_apex_timeliness_leg.md",
+      "target_anchor": "#timeliness-constitutional",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "7. Emergency and Urgent Action",
+      "source_anchor": "#7-emergency-and-urgent-action",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#evidence-preservation",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "7. Emergency and Urgent Action",
+      "source_anchor": "#7-emergency-and-urgent-action",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#61-emergency-measures-and-continuation-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "7. Emergency and Urgent Action",
+      "source_anchor": "#7-emergency-and-urgent-action",
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-46-seat-containment",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "8. Act Records and Attributable Handoffs",
+      "source_anchor": "#8-act-records-and-attributable-handoffs",
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#5-compliance-evidence-standard",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "8. Act Records and Attributable Handoffs",
+      "source_anchor": "#8-act-records-and-attributable-handoffs",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 2
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "8. Act Records and Attributable Handoffs",
+      "source_anchor": "#8-act-records-and-attributable-handoffs",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "8. Act Records and Attributable Handoffs",
+      "source_anchor": "#8-act-records-and-attributable-handoffs",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attribution-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "8. Act Records and Attributable Handoffs",
+      "source_anchor": "#8-act-records-and-attributable-handoffs",
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": "#ci-46-shared-seat-rules",
+      "count": 1
+    },
+    {
+      "source_file": "core_07_functional_independence_segregation_of_duties.md",
+      "source_header": "8. Act Records and Attributable Handoffs",
+      "source_anchor": "#8-act-records-and-attributable-handoffs",
       "target_file": "corpus_systems/cs_04_critical_system_stewardship.md",
       "target_anchor": "#10-inspectable-attributable-action",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "8. Relationship to Later Processes",
-      "source_anchor": "#8-relationship-to-later-processes",
+      "source_header": "9. Relationship to Later Processes",
+      "source_anchor": "#9-relationship-to-later-processes",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#4-principles-definitions-and-rights",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "8. Relationship to Later Processes",
-      "source_anchor": "#8-relationship-to-later-processes",
+      "source_header": "9. Relationship to Later Processes",
+      "source_anchor": "#9-relationship-to-later-processes",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#owner-non-relocation",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "8. Relationship to Later Processes",
-      "source_anchor": "#8-relationship-to-later-processes",
+      "source_header": "9. Relationship to Later Processes",
+      "source_anchor": "#9-relationship-to-later-processes",
       "target_file": "core_05_band_performance.md",
       "target_anchor": null,
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "8. Relationship to Later Processes",
-      "source_anchor": "#8-relationship-to-later-processes",
+      "source_header": "9. Relationship to Later Processes",
+      "source_anchor": "#9-relationship-to-later-processes",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#chapter-eight-part-a-certification-evaluation",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "8. Relationship to Later Processes",
-      "source_anchor": "#8-relationship-to-later-processes",
+      "source_header": "9. Relationship to Later Processes",
+      "source_anchor": "#9-relationship-to-later-processes",
       "target_file": "core_08_system_alignment_certification.md",
       "target_anchor": "#chapter-eight-system-alignment-certification-reading-index",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "8. Relationship to Later Processes",
-      "source_anchor": "#8-relationship-to-later-processes",
+      "source_header": "9. Relationship to Later Processes",
+      "source_anchor": "#9-relationship-to-later-processes",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-contribution-violation-and-standing-model--measurement",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "8. Relationship to Later Processes",
-      "source_anchor": "#8-relationship-to-later-processes",
+      "source_header": "9. Relationship to Later Processes",
+      "source_anchor": "#9-relationship-to-later-processes",
       "target_file": "core_12_forum.md",
       "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
     },
     {
       "source_file": "core_07_functional_independence_segregation_of_duties.md",
-      "source_header": "8. Relationship to Later Processes",
-      "source_anchor": "#8-relationship-to-later-processes",
+      "source_header": "9. Relationship to Later Processes",
+      "source_anchor": "#9-relationship-to-later-processes",
       "target_file": "core_13_governance.md",
       "target_anchor": "#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship",
       "count": 1
@@ -81307,7 +81323,7 @@
       "source_header": "11.1 Minimum record contents",
       "source_anchor": "#111-minimum-record-contents",
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
-      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "target_anchor": "#8-act-records-and-attributable-handoffs",
       "count": 1
     },
     {
@@ -104979,7 +104995,7 @@
       "source_header": "CI-4.6: Seat catalog — process-role archetypes and operational boundaries",
       "source_anchor": "#ci-46-seat-catalog",
       "target_file": "core_07_functional_independence_segregation_of_duties.md",
-      "target_anchor": "#7-act-records-attributable-handoffs-and-wrong-seat-routing",
+      "target_anchor": "#8-act-records-and-attributable-handoffs",
       "count": 2
     },
     {

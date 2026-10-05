@@ -1732,7 +1732,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">پیوندها</span></strong></summary>
 
 - بالادست: اصول: فصل یکم [§۵ حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل یکم §۷ آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [فصل یکم §۲۰ کاربردِ یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application)، و [فصل هشتم §۳ ارزیابیِ گواهیِ کلِ سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- همراه با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)—بخشِ **مشارکت** (لایهٔ مشارکتِ سامانه‌ایِ ذی‌نفعان)؛ تنظیم بر پایهٔ [اهمیتِ مادی](core_00_preamble.md#material-stake)؛ [سابقهٔ رفتارِ الزام‌آورِ مادی](core_05_band_accountability.md#materially-binding-act-record) و [فصل هفتم §۷ سوابقِ رفتار، انتقال‌های قابل‌انتساب و ارجاع به جایگاهِ نادرست](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- همراه با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)—بخشِ **مشارکت** (لایهٔ مشارکتِ سامانه‌ایِ ذی‌نفعان)؛ تنظیم بر پایهٔ [اهمیتِ مادی](core_00_preamble.md#material-stake)؛ [سابقهٔ رفتارِ الزام‌آورِ مادی](core_05_band_accountability.md#materially-binding-act-record) و [فصل هفتم §۷ سوابقِ رفتار، انتقال‌های قابل‌انتساب و ارجاع به جایگاهِ نادرست](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - لایه: **مشارکتِ سامانه‌ایِ ذی‌نفعان (SSP)**، متمایز از اختیاردهیِ **لایهٔ قراردادِ قانون اساسی (CCL)**.
 
 </details>

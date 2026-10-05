@@ -1794,7 +1794,7 @@ Meşru ilerleme, [material stake](core_00_preamble.md#material-stake) ile ölçe
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
 - Üst kaynaklar: İlkeler: [Birinci Bölüm §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Birinci Bölüm §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application) ve [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Birlikte okuyun: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (Paydaşların Sisteme Katılımı katmanı); [material stake](core_00_preamble.md#material-stake) ölçeği; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) ve [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- Birlikte okuyun: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (Paydaşların Sisteme Katılımı katmanı); [material stake](core_00_preamble.md#material-stake) ölçeği; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) ve [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - Katman: **Stakeholder System Participation (SSP)**. Yetkilendirmeyi düzenleyen **Constitutional Contract Layer (CCL)** katmanından ayrıdır.
 
 </details>

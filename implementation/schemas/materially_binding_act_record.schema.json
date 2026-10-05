@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "materially_binding_act_record.schema.json",
   "title": "Materially Binding Act Record (Act Record)",
-  "description": "Base machine-checkable form for the Chapter Five Materially Binding Act Record and Chapter Seven §7 minimum. A process-specific official record or attributable linked set may satisfy or extend this form. This schema is process support, not a second definition and not authority to narrow the binding sources.",
+  "description": "Base machine-checkable form for the Chapter Five Materially Binding Act Record and Chapter Seven §8 minimum. A process-specific official record or attributable linked set may satisfy or extend this form. This schema is process support, not a second definition and not authority to narrow the binding sources.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -222,7 +222,7 @@
     },
     "extensions": {
       "type": "object",
-      "description": "Process-specific fields that extend, and may not narrow, the Chapter Seven §7 minimum.",
+      "description": "Process-specific fields that extend, and may not narrow, the Chapter Seven §8 minimum.",
       "additionalProperties": true
     }
   },

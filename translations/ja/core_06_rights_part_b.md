@@ -1790,7 +1790,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
 - 上位原則：第一章 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application)、第八章 [§3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 併読事項：[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) の**参加**の柱（ステークホルダーのシステム参加レイヤー）；[material stake](core_00_preamble.md#material-stake) に応じた拡大；[Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) および [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)。
+- 併読事項：[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) の**参加**の柱（ステークホルダーのシステム参加レイヤー）；[material stake](core_00_preamble.md#material-stake) に応じた拡大；[Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) および [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)。
 - レイヤー：**Stakeholder System Participation (SSP)**。承認を扱う **Constitutional Contract Layer (CCL)** とは別である。
 
 </details>

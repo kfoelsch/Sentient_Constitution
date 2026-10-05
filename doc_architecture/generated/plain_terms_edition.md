@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **655** of **920** headings carry a gloss (71%).
+Coverage: **657** of **922** headings carry a gloss (71%).
 
 ## Contents
 
@@ -24,13 +24,13 @@ Coverage: **655** of **920** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (77/89 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (78/90 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/86 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
-- [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (8/9 glossed)
+- [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (22/29 glossed)
 - [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (10/13 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-eight-system-alignment-certification-reading-index) — `core_08_system_alignment_certification.md` (1/1 glossed)
@@ -1207,7 +1207,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 77/89 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 78/90 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1526,6 +1526,12 @@ irreversible harm is damage that cannot meaningfully be repaired in the time tha
 cruelty is treatment that makes someone suffer on purpose as the point of the treatment, or that piles on gratuitous or degrading suffering beyond what necessity and proportionality allow. Humiliation for its own sake is one form of that. Ordinary harm, fair consequences that hurt, and lawful restrictions are not automatically cruelty.
 
 [Source](../../core_05_band_accountability.md#cruelty)
+
+###### Animal Cruelty
+
+animal cruelty is cruelty to an animal. It is making an animal suffer for its own sake, or causing or allowing suffering beyond what necessity and proportionality allow. It includes neglect by anyone responsible for an animal's care. Farming, research, pest control, hunting, and veterinary care are not automatically cruelty, and they are not automatically excused either. Each has to pass the same necessity and proportionality test as everything else. Calling something legal, customary, or "just livestock" does not pass it.
+
+[Source](../../core_05_band_accountability.md#animal-cruelty)
 
 ###### Harassment and Bullying
 
@@ -3061,7 +3067,7 @@ these questions ask whether constitutional outcomes are actually delivered witho
 
 ## CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES
 
-Source file: [`core_07_functional_independence_segregation_of_duties.md`](../../core_07_functional_independence_segregation_of_duties.md) · 8/9 headings glossed
+Source file: [`core_07_functional_independence_segregation_of_duties.md`](../../core_07_functional_independence_segregation_of_duties.md) · 9/10 headings glossed
 
 #### 1. Purpose, Scope, and Owner Boundary
 
@@ -3081,35 +3087,41 @@ changing the name on the desk does not create independence. A verifier or review
 
 [Source](../../core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)
 
-#### 4. Published Placement, Vacancy, and Substitution
+#### 4. Wrong-Seat Routing
+
+when a step is not yours, do not silently take it and do not simply walk away. Record the gap and pass the matter to the right place.
+
+[Source](../../core_07_functional_independence_segregation_of_duties.md#4-wrong-seat-routing)
+
+#### 5. Published Placement, Vacancy, and Substitution
 
 an organization must say who holds each job before the hard case arrives, including who takes over when the ordinary holder is absent or conflicted.
 
-[Source](../../core_07_functional_independence_segregation_of_duties.md#4-published-placement-vacancy-and-substitution)
+[Source](../../core_07_functional_independence_segregation_of_duties.md#5-published-placement-vacancy-and-substitution)
 
-#### 5. Proportional Scaling and Merged Hosting
+#### 6. Proportional Scaling and Merged Hosting
 
 small and informal groups do not need four large departments. They do need a real independent check, a usable record, and a challenge path. Scale changes the staffing method, not the protected separation.
 
-[Source](../../core_07_functional_independence_segregation_of_duties.md#5-proportional-scaling-and-merged-hosting)
+[Source](../../core_07_functional_independence_segregation_of_duties.md#6-proportional-scaling-and-merged-hosting)
 
-#### 6. Emergency and Urgent Action
+#### 7. Emergency and Urgent Action
 
 a real emergency may justify acting before the ordinary check finishes. It changes sequence, not seat ownership or the class-scaled separation posture. It does not let the actor certify its own continuation, erase the trail, or become the final reviewer afterward.
 
-[Source](../../core_07_functional_independence_segregation_of_duties.md#6-emergency-and-urgent-action)
+[Source](../../core_07_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action)
 
-#### 7. Act Records, Attributable Handoffs, and Wrong-Seat Routing
+#### 8. Act Records and Attributable Handoffs
 
-every materially binding act has an Act Record showing what happened, who held each seat, what was decided, and where a challenge goes. When a step is not yours, do not silently take it and do not simply walk away. Record the gap and pass the matter to the right place.
+every materially binding act has an Act Record showing what happened, who held each seat, what was decided, and where a challenge goes.
 
-[Source](../../core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)
+[Source](../../core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)
 
-#### 8. Relationship to Later Processes
+#### 9. Relationship to Later Processes
 
 later chapters tell each process what to evaluate, record, decide, and remedy. This chapter tells those processes how power must be separated while they do it.
 
-[Source](../../core_07_functional_independence_segregation_of_duties.md#8-relationship-to-later-processes)
+[Source](../../core_07_functional_independence_segregation_of_duties.md#9-relationship-to-later-processes)
 
 ## CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
