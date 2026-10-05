@@ -115,6 +115,7 @@ flowchart TB
         I -.->|typical record lifecycle| V
         V -.->|authorization| E
         E -.-> C
+        Z["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     end
     Act["Implement or apply<br/><br/>the authorized decision"]
     M --> X
@@ -135,6 +136,7 @@ flowchart TB
     style E fill:none,stroke:#2563eb,color:#ffffff
     style C fill:none,stroke:#ea580c,color:#ffffff
     style Act fill:none,stroke:#9333ea,color:#ffffff
+    style Z fill:none,stroke:none
 ```
 
 The dotted arrows inside the seat box show a typical record lifecycle. The arrows to implementation are trace links, not a mandatory wait-for-review sequence.

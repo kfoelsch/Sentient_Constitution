@@ -157,7 +157,7 @@ Response plans must treat supply-chain compromise as a first-class constitutiona
 
 During activated response, communications must remain accurate, timely, and evidentially grounded. Systems must:
 - **publish regular status updates** with knowns, unknowns, and next review points
-- **separate coordination-critical disclosures** from exploit-sensitive details under CS-2 — Information types and handling handling rules
+- **separate coordination-critical disclosures** from exploit-sensitive details under CS-2 — Information types and handling rules
 - **flag uncertainty explicitly** and **prohibit materially misleading assurance claims**
 - **log what was communicated**, by whom, when, and with what evidential basis
 

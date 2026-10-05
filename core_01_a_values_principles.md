@@ -523,6 +523,8 @@ Where the prohibited character is suffering as an end in itself, or gratuitous o
 
 **Not prohibited merely for being hard.** Ordinary public accountability, reasoned publication, verified restriction, or proportionate remedy remains lawful even when it is unpleasant or reputationally adverse.
 
+**Fear as a tool of power.** Legitimate constitutional power must not wield fear as an instrument of intimidation: creating, threatening, or exploiting dread to deter, silence, coerce, or control sentients beyond what a lawful purpose requires. Fear that arises from a process bounded by necessity and proportionality is not prohibited. A verified restriction, a firm consequence, or an honest warning about real risk may frighten someone and still be lawful, provided it goes no further than its protective, corrective, or preventive purpose requires, is plainly stated, and can be contested. The test is the process, not the feeling. Ask whether the fear is a side effect of a measure that is itself necessary and proportionate, or whether the fear is the point. Fear manufactured to chill participation, dissent, reporting, or challenge — through vague or unpublished threats, arbitrary or selective enforcement, or exaggerated stakes — is intimidation, however lawful the outcome it supports.
+
 **Design and conduct.** Processes must not be designed, framed, carried out, or allowed to operate as degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
 
 **Scope.** This principle applies to every constitutional process, including:

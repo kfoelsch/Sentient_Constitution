@@ -173,7 +173,7 @@ Alignment recognition or review must be available when any of the following mate
 
 A recognition, validation, or revalidation record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
-- the CS-3 — System classification and handling classification, CS-4 — Critical system stewardship stewardship tier where applicable, and the evidence supporting those classifications;
+- the system's classification under CS-3 — System classification and handling, its stewardship tier under CS-4 — Critical system stewardship where applicable, and the evidence supporting those classifications;
 - the constitutional provisions, Rights-Floor obligations, CJS-3 (*operational cluster library (oDef)*) operational clusters, and implementation requirements treated as material;
 - where ecological exposure is material, the Environment forum environmental-alignment component record, including approval, conditional approval, objection, remediation requirements, or release-from-condition findings;
 - the technical specifications, measurement methods, test protocols, expert-evidence standards, and testing evidence considered;
