@@ -1636,7 +1636,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
 - 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 配合阅读：[宪法四元组](core_00_preamble.md#constitutional-tetrad)——**参与**环节（利益相关方系统参与层）；[实质利害关系](core_00_preamble.md#material-stake)的调整；[实质约束性行为记录](core_05_band_accountability.md#materially-binding-act-record)与[第七章 §7 行为记录、可归责移交与错误席位路由](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)。
+- 配合阅读：[宪法四元组](core_00_preamble.md#constitutional-tetrad)——**参与**环节（利益相关方系统参与层）；[实质利害关系](core_00_preamble.md#material-stake)的调整；[实质约束性行为记录](core_05_band_accountability.md#materially-binding-act-record)与[第七章 §7 行为记录、可归责移交与错误席位路由](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)。
 - 层次：**利益相关方系统参与（SSP）**，区别于授权性的**宪法契约层（CCL）**。
 
 </details>

@@ -2,7 +2,7 @@
 """Validate the base Materially Binding Act Record form.
 
 This validator asks whether an Act Record carries the mechanically checkable
-Chapter Seven §7 minimum. It does not decide the merits, validate the claimed
+Chapter Seven §8 minimum. It does not decide the merits, validate the claimed
 authority, or replace independent verification.
 
 Rule ID: ACT-RECORD-01

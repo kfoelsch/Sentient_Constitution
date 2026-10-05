@@ -56,7 +56,7 @@ A **System Certification Record** is a bounded, reviewable record concerning a p
 
 #### 11.1 Minimum record contents
 
-For the materially binding certification act, the System Certification Record satisfies and extends the [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) requirements and [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing). It may carry those elements directly or preserve attributable, integrity-protected links to them; it does not require a duplicate parallel record.
+For the materially binding certification act, the System Certification Record satisfies and extends the [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) requirements and [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs). It may carry those elements directly or preserve attributable, integrity-protected links to them; it does not require a duplicate parallel record.
 
 The record must identify, at minimum:
 

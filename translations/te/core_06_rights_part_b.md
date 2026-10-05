@@ -1706,7 +1706,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
 - పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application), మరియు [అధ్యాయం ఎనిమిది §3 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్య** అక్షం (వ్యవస్థలో పాలుపంచుకునే పక్షాల భాగస్వామ్య పొర); [భౌతిక ప్రాధాన్యత](core_00_preamble.md#material-stake) స్థాయీకరణ; [భౌతికంగా బంధనకర చర్య రికార్డు](core_05_band_accountability.md#materially-binding-act-record), [అధ్యాయం ఏడు §7 చర్య రికార్డులు, ఆపాదించగల బదిలీలు, తప్పు స్థానం మార్గీకరణ](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్య** అక్షం (వ్యవస్థలో పాలుపంచుకునే పక్షాల భాగస్వామ్య పొర); [భౌతిక ప్రాధాన్యత](core_00_preamble.md#material-stake) స్థాయీకరణ; [భౌతికంగా బంధనకర చర్య రికార్డు](core_05_band_accountability.md#materially-binding-act-record), [అధ్యాయం ఏడు §7 చర్య రికార్డులు, ఆపాదించగల బదిలీలు, తప్పు స్థానం మార్గీకరణ](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - పొర: **వ్యవస్థలో పాలుపంచుకునే పక్షాల భాగస్వామ్యం (SSP)**. ఇది **రాజ్యాంగ ఒప్పంద పొర (CCL)** అధికారం నుంచి వేరు.
 
 </details>

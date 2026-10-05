@@ -1685,7 +1685,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
 - ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-- সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** স্তম্ভ (অংশীজন-ব্যবস্থা অংশগ্রহণ স্তর); [বস্তুগত স্বার্থ](core_00_preamble.md#material-stake) অনুসারে মাত্রা নির্ধারণ; [বস্তুগতভাবে বাধ্যতামূলক কার্য-নথি](core_05_band_accountability.md#materially-binding-act-record) এবং [অধ্যায় সাত §7 কার্য-নথি, আরোপযোগ্য হস্তান্তর ও ভুল-আসন নির্দেশনা](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)।
+- সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** স্তম্ভ (অংশীজন-ব্যবস্থা অংশগ্রহণ স্তর); [বস্তুগত স্বার্থ](core_00_preamble.md#material-stake) অনুসারে মাত্রা নির্ধারণ; [বস্তুগতভাবে বাধ্যতামূলক কার্য-নথি](core_05_band_accountability.md#materially-binding-act-record) এবং [অধ্যায় সাত §7 কার্য-নথি, আরোপযোগ্য হস্তান্তর ও ভুল-আসন নির্দেশনা](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)।
 - স্তর: **অংশীজন-ব্যবস্থা অংশগ্রহণ (SSP)**। **সাংবিধানিক চুক্তি স্তর (CCL)**-এর অনুমোদন থেকে স্বতন্ত্র।
 
 </details>

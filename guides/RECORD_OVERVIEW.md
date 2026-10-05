@@ -46,7 +46,7 @@ flowchart TB
     style E fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-Inputs can be important evidence, but they are not automatically official determinations. An [Act Record](../core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing) supplies the attributable, versioned trail for a materially binding act. It can be carried by one applicable official record or by an integrity-preserving linked set; it does not require a duplicate parallel document. A log, signature, model trace, checklist, attestation, or unverified claim may support that trail, but does not by itself establish that the act was valid.
+Inputs can be important evidence, but they are not automatically official determinations. An [Act Record](../core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs) supplies the attributable, versioned trail for a materially binding act. It can be carried by one applicable official record or by an integrity-preserving linked set; it does not require a duplicate parallel document. A log, signature, model trace, checklist, attestation, or unverified claim may support that trail, but does not by itself establish that the act was valid.
 
 An **effect** is likewise not its source record. A later standing effect must trace to the relevant records, but it does not become part of a standing record merely because it relies on one ([Chapter Nine §2](../core_09_standing_assessment.md#2-question-1--what-happened)).
 
@@ -54,7 +54,7 @@ An **effect** is likewise not its source record. A later standing effect must tr
 
 ### 1. The common official trail: Act Records
 
-Every materially binding act has an identifiable Act Record. It identifies the act and governing authority, the required seats, determination, custody, material handoffs, current challenge route and status, and the links needed to reconstruct it. A process-specific record—such as a certification record, standing record, or forum case record—may satisfy this role for the act it records if those elements remain attributable, linked, versioned, preserved, and accessible ([Chapter Seven §7](../core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)).
+Every materially binding act has an identifiable Act Record. It identifies the act and governing authority, the required seats, determination, custody, material handoffs, current challenge route and status, and the links needed to reconstruct it. A process-specific record—such as a certification record, standing record, or forum case record—may satisfy this role for the act it records if those elements remain attributable, linked, versioned, preserved, and accessible ([Chapter Seven §8](../core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)).
 
 Think of an Act Record as the **accountability spine**, not as a separate record family that must duplicate every other file.
 
@@ -120,14 +120,14 @@ For standing records, the [custody and opening rules](../core_09_standing_assess
 
 ### Version, correction, preservation, and continuity
 
-The official trail must let an affected party and an authorized reviewer reconstruct what was relied on, what changed, why it changed, who acted under what authority, and where a challenge goes. This includes material evidence links, handoffs, refusals, clocks, superseded versions, and corrections—not simply the latest result ([Chapter Seven §7](../core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)).
+The official trail must let an affected party and an authorized reviewer reconstruct what was relied on, what changed, why it changed, who acted under what authority, and where a challenge goes. This includes material evidence links, handoffs, refusals, clocks, superseded versions, and corrections—not simply the latest result ([Chapter Seven §8](../core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)).
 
 Correction and contest are not afterthoughts. A forum reviewing a standing record may confirm it, require correction, order a new version, limit or pause reliance, or route the underlying issue; the record remains a bounded matter rather than a general reputation trial ([Chapter Twelve §2.3](../core_12_forum.md#23-forum-case-records-standing-records-and-contests)). For integration, an outage does not permit silent overwrite: manual continuity preserves the applicable fields, evidence custody, review rights, time limits, and both audit trails when electronic operation returns ([Chapter Ten §2](../core_10_standing_integration.md#2-automatic-integration-review-and-continuity)).
 
 ## The boundaries worth remembering
 
 - **Evidence, logs, and attestations are inputs, not automatically official records or valid determinations** ([Act Record](../core_05_band_accountability.md#materially-binding-act-record)).
-- **An Act Record is an accountability trail, not a substitute for a process-specific record’s independent requirements** ([Chapter Seven §7](../core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)).
+- **An Act Record is an accountability trail, not a substitute for a process-specific record’s independent requirements** ([Chapter Seven §8](../core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)).
 - **A system classification or data-types record is not the full certification file, a standing record, or an operator’s self-label** ([System Classification Record](../core_05_band_continuity.md#system-classification-record)).
 - **A Forum Case Record is not a Standing Record and does not by itself create a standing effect** ([Chapter Twelve §2.3](../core_12_forum.md#23-forum-case-records-standing-records-and-contests)).
 - **Contribution and violation records remain separately auditable** ([Chapter Nine §2](../core_09_standing_assessment.md#2-question-1--what-happened)).

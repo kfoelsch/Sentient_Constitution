@@ -1662,7 +1662,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
 - المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application)، و[الفصل الثامن §3 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (طبقة المشاركة النظامية للأطراف المعنية)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake)؛ و[سجل الفعل الملزم ماديًا](core_05_band_accountability.md#materially-binding-act-record) و[الفصل السابع §7 سجلات الأفعال والإحالات المنسوبة وتوجيه المسألة إلى الجهة غير المختصة](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (طبقة المشاركة النظامية للأطراف المعنية)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake)؛ و[سجل الفعل الملزم ماديًا](core_05_band_accountability.md#materially-binding-act-record) و[الفصل السابع §7 سجلات الأفعال والإحالات المنسوبة وتوجيه المسألة إلى الجهة غير المختصة](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - الطبقة: **المشاركة النظامية للأطراف المعنية (SSP)**. وهي متميزة عن تصريح **طبقة العقد الدستوري (CCL)**.
 
 </details>

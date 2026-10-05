@@ -1790,7 +1790,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
 - Основания: принципы [Главы первой §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главы первой §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Главы первой §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application) и [Главы восьмой §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Читать вместе с: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — элемент **участия** (уровень участия заинтересованных сторон в системе); масштабирование по [material stake](core_00_preamble.md#material-stake); [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) и [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- Читать вместе с: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — элемент **участия** (уровень участия заинтересованных сторон в системе); масштабирование по [material stake](core_00_preamble.md#material-stake); [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) и [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - Уровень: **Stakeholder System Participation (SSP)**. Отличается от санкционирования на уровне **Constitutional Contract Layer (CCL)**.
 
 </details>

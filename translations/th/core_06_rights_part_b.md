@@ -1720,7 +1720,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
 - ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
-- อ่านร่วมกับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ด้าน **การมีส่วนร่วม** (ชั้นการมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ); การปรับตาม[ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [บันทึกการกระทำที่มีผลผูกพันอย่างเป็นสาระ](core_05_band_accountability.md#materially-binding-act) และ [บทที่เจ็ด §7 บันทึกการกระทำ การส่งต่องานที่ระบุผู้รับผิดชอบ และการส่งงานไปยังผู้รับผิดชอบผิด](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)
+- อ่านร่วมกับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ด้าน **การมีส่วนร่วม** (ชั้นการมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ); การปรับตาม[ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [บันทึกการกระทำที่มีผลผูกพันอย่างเป็นสาระ](core_05_band_accountability.md#materially-binding-act) และ [บทที่เจ็ด §7 บันทึกการกระทำ การส่งต่องานที่ระบุผู้รับผิดชอบ และการส่งงานไปยังผู้รับผิดชอบผิด](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)
 - ชั้น: **การมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ (SSP)** แยกจากการให้อำนาจใน **ชั้นสัญญาทางรัฐธรรมนูญ (CCL)**
 
 </details>

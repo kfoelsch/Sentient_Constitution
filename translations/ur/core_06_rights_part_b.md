@@ -1790,7 +1790,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">تسلسل</span></strong></summary>
 
 - بالادستی ماخذ: اصول: [باب اوّل §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اوّل §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب اوّل §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application)، اور [باب ہشتم §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
-- ساتھ پڑھیں: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **شرکت** کا ستون (اسٹیک ہولڈر نظام میں شرکت کی پرت)؛ [material stake](core_00_preamble.md#material-stake) کے تناسب سے پیمانہ بندی؛ [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) اور [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing)۔
+- ساتھ پڑھیں: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **شرکت** کا ستون (اسٹیک ہولڈر نظام میں شرکت کی پرت)؛ [material stake](core_00_preamble.md#material-stake) کے تناسب سے پیمانہ بندی؛ [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) اور [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)۔
 - پرت: **Stakeholder System Participation (SSP)**۔ یہ اجازت دینے والی **Constitutional Contract Layer (CCL)** سے الگ ہے۔
 
 </details>

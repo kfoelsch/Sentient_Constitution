@@ -1781,7 +1781,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer); [material stake](core_00_preamble.md#material-stake) scaling; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) and [Chapter Seven §7 Act Records, Attributable Handoffs, and Wrong-Seat Routing](core_07_functional_independence_segregation_of_duties.md#7-act-records-attributable-handoffs-and-wrong-seat-routing).
+- Read with: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer); [material stake](core_00_preamble.md#material-stake) scaling; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) and [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - Layer: **Stakeholder System Participation (SSP)**. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 
 </details>
