@@ -311,6 +311,10 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 
 *In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](#174-aligned-self-organization)), and what it must refuse ([§17.5 Duty to Resist](#175-duty-to-resist)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development).*
 
+**A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§16 Stewardship In Depth](#16-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
+
+**Where §17 sits.** [§16 Stewardship In Depth](#16-stewardship-in-depth) is carried downstream by three sections that read together. This section, §17, supplies the role. [§18 Governance Under Stewardship Discipline](#18-governance-under-stewardship-discipline) and [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) follow it, and the chart shows how the four connect.
+
 <br>
 
 ```mermaid
@@ -337,9 +341,14 @@ flowchart TB
     style TET fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-**A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§16 Stewardship In Depth](#16-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
+**Reading the chart:**
+- **§16 and §17 both feed §18:** §16 supplies the stewardship discipline, and §17 supplies the steward role, meaning the sentients and AI systems that actually do the work. §18 sets the authorized structures that work happens inside: who may decide what, segregation of duties, ongoing justification, modular architecture, and standardization.
+- **§18 is kept aligned by §19:** [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture) keeps rewards, proxies, and ownership changes from pulling those structures, and the stewards inside them, away from constitutional outcomes. It also carries detection, correction, and capture response, and [§19.1.3](#1913-stewardship-and-operator-application) applies the rule to stewards and operators directly.
+- **§19 serves the aims and the Tetrad:** the **Flourishing** and **Continuity** aims, and the **participation**, **oversight**, **accountability**, and **timeliness** legs of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake).
 
-Role pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
+The rest of this section covers the role itself.
+
+**Two modes of the role.** Role pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
 
 - **Both modes sit inside Pillar 1:**
   - **Operations-dominant roles** carry [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)'s hands-on operation, maintenance, oversight, and improvement duties directly.
