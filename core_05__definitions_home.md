@@ -112,6 +112,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Accountability](core_05_apex_accountability_leg.md#accountability)
 - [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution)
 - [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)
+- [Animal Cruelty](core_05_band_accountability.md#animal-cruelty)
 - [Animal Life](core_05_band_participation.md#animal-life)
 - [Anti-Capture](core_05_band_continuity.md#anti-capture)
 - [Anti-Constitutional Misconduct Review](core_05_band_accountability.md#anti-constitutional-misconduct-review)

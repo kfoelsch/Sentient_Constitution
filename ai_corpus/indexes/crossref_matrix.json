@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-04T20:47:45+00:00",
+  "generated_at": "2026-10-05T07:50:21+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1656,7 +1656,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 74,
+            "count": 76,
             "anchors": [
               "#33-governance-layers",
               "#constitutional-tetrad",
@@ -2588,9 +2588,10 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 88,
+            "count": 89,
             "anchors": [
               "#adjudication-and-dispute-resolution",
+              "#animal-cruelty",
               "#anti-constitutional-misconduct-review",
               "#attributable-action",
               "#attribution-integrity",
@@ -3589,7 +3590,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 44,
+            "count": 46,
             "anchors": [
               "#11-market-structure",
               "#111-market-concentration-threshold-mechanism-adopter-tunable",
@@ -3666,7 +3667,7 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 115,
+            "count": 116,
             "anchors": [
               "#accountability",
               "#accountability-tetrad-leg-decomposition",
@@ -3682,7 +3683,7 @@
           },
           {
             "file": "core_05_apex_flourishing_aim.md",
-            "count": 12,
+            "count": 13,
             "anchors": [
               "#measuring-flourishing-preamble-measurement-family"
             ]
@@ -3705,10 +3706,11 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 664,
+            "count": 689,
             "anchors": [
               "#accountability-contestability-and-redress-pathways",
               "#adjudication-and-dispute-resolution",
+              "#animal-cruelty",
               "#anti-constitutional-misconduct-review",
               "#attributable-action",
               "#attribution-integrity",
@@ -3791,7 +3793,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 142,
+            "count": 143,
             "anchors": [
               "#anti-capture",
               "#avoidable-burden",
@@ -3837,7 +3839,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 152,
+            "count": 154,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -3858,22 +3860,26 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 99,
+            "count": 116,
             "anchors": [
               "#animal-life",
               "#coercion-and-manipulation",
               "#consent",
+              "#contested-sentient-life",
               "#dignity-and-equal-moral-standing",
+              "#elevated-communicative-life",
               "#freedom-bounded-agency",
               "#info-sphere",
               "#lifespan-equivalent-unit-lequ",
               "#meaningful-agency",
+              "#natural-systems-standing",
               "#non-imposition-cooperative-interaction",
               "#procedural-fairness",
               "#protected-characteristic-proxying-and-disparate-impact",
               "#protected-characteristics",
               "#sentience-non-exclusion",
               "#sentience-status-adjudication",
+              "#sentient",
               "#stakeholder",
               "#substantive-fairness",
               "#substrate-class"
@@ -3881,7 +3887,7 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-i-d-existential-risk-and-ecological-recovery-capacity",
@@ -3914,7 +3920,7 @@
           },
           {
             "file": "core_06_rights_part_d.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
               "#article-xx-a-justice-objective-and-scope",
               "#article-xx-b-restriction-floors",
@@ -5271,10 +5277,11 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 169,
+            "count": 170,
             "anchors": [
               "#accountability-contestability-and-redress-pathways",
               "#adjudication-and-dispute-resolution",
+              "#animal-cruelty",
               "#contestability",
               "#cruelty",
               "#due-process",

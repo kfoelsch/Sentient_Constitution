@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-04T20:47:45+00:00",
+  "generated_at": "2026-10-05T07:50:22+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16185,
+  "edge_count": 16213,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -13356,7 +13356,15 @@
       "source_anchor": "#17-consequential-stewardship-the-steward-role",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
-      "count": 2
+      "count": 3
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "17. Consequential Stewardship: The Steward Role",
+      "source_anchor": "#17-consequential-stewardship-the-steward-role",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
     },
     {
       "source_file": "core_01_c_stewardship_capacity_principles.md",
@@ -20219,6 +20227,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#animal-cruelty",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#anti-constitutional-misconduct-review",
       "count": 1
     },
@@ -25144,6 +25160,182 @@
     },
     {
       "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#33-anti-degrading-process",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#measuring-accountability",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_apex_flourishing_aim.md",
+      "target_anchor": "#measuring-flourishing-preamble-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#defa1-collective-harm-boundary-harm-and-harassment-and-bullying",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty",
+      "count": 7
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 5
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#harm",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#verified-inputs-for-standing",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#stewardship",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#adversarial-scaled-and-exploited-conditions",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#animal-life",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#elevated-communicative-life",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#contested-sentient-life",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substrate-class",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentient",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#natural-systems-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-i-a-environmental-preconditions-and-ecological-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Animal Cruelty",
+      "source_anchor": "#animal-cruelty",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xx-a-justice-objective-and-scope",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
       "source_header": "Anti-Constitutional Misconduct Review",
       "source_anchor": "#anti-constitutional-misconduct-review",
       "target_file": "core_05_apex_accountability_leg.md",
@@ -26155,6 +26347,14 @@
       "source_header": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
       "source_anchor": "#collective-harm-boundary-and-harm-cluster",
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#animal-cruelty",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
+      "source_anchor": "#collective-harm-boundary-and-harm-cluster",
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#harassment-and-bullying",
       "count": 3
     },
@@ -26220,6 +26420,14 @@
       "source_anchor": "#collective-harm-boundary-and-harm-cluster",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#non-imposition-cooperative-interaction",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying",
+      "source_anchor": "#collective-harm-boundary-and-harm-cluster",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#animal-life",
       "count": 1
     },
     {
@@ -27189,6 +27397,14 @@
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#redress-and-remediation",
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_accountability.md",
+      "source_header": "Cruelty",
+      "source_anchor": "#cruelty",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#animal-cruelty",
+      "count": 2
     },
     {
       "source_file": "core_05_band_accountability.md",
@@ -49605,6 +49821,14 @@
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#cruelty",
       "count": 11
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Animal Life",
+      "source_anchor": "#animal-life-constitutional",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#animal-cruelty",
+      "count": 1
     },
     {
       "source_file": "core_05_band_participation.md",
