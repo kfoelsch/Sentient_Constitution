@@ -311,6 +311,32 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 
 *In plain terms: a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment Under Pressure](#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](#174-aligned-self-organization)), and what it must refuse ([§17.5 Duty to Resist](#175-duty-to-resist)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development).*
 
+<br>
+
+```mermaid
+flowchart TB
+    S16["§16 Stewardship In Depth<br/><br/>• Pillar 1 made operational as a role (§17)<br/>• Governance and incentive discipline carried downstream (§18, §19)"]
+    S17["§17 Consequential Stewardship<br/><br/>• The steward role: who does the work<br/>• §17.1 Shared Stewardship Standard<br/>• §17.2 Alignment Under Pressure<br/>• §17.3 Logging the Role, Not the Steward<br/>• §17.4 Aligned Self-Organization<br/>• §17.5 Duty to Resist"]
+    G18["§18 Governance Under Stewardship Discipline<br/><br/>• Authority structures: who may decide what<br/>• §18.1 Governance as Authorized Structure<br/>• §18.2 Institutional Secularism and Worldview Neutrality<br/>• §18.3 Segregation of Duties<br/>• §18.4 Ongoing Justification<br/>• §18.5 Modular Architecture and Dependency Discipline<br/>• §18.6 Standardization"]
+    I19["§19 Incentive Alignment and System Capture<br/><br/>• Rewards: what pulls actors and structures<br/>• §19.1 Alignment Requirement<br/>• §19.2 Convenient Proxies and Proxy Divergence<br/>• §19.3 Misalignment Detection<br/>• §19.4 Misalignment Correction and Capture Response<br/>• §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets<br/>• §19.6 Keeping Responsibility When Ownership or Structure Changes"]
+    FL["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
+    CO["Continuity aim<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
+    TET["Constitutional Tetrad<br/><br/>• Participation, oversight, accountability, and timeliness<br/>• Scaled to material stake"]
+    S16 -->|"supplies stewardship discipline to"| G18
+    S17 -->|"supplies the steward role to"| G18
+    G18 -->|"is kept aligned by"| I19
+    I19 --> FL
+    I19 --> CO
+    I19 --> TET
+    style S16 fill:none,stroke:#64748b,color:#ffffff
+    style S17 fill:none,stroke:#16a34a,color:#ffffff
+    style G18 fill:none,stroke:#2563eb,color:#ffffff
+    style I19 fill:none,stroke:#ea580c,color:#ffffff
+    style FL fill:none,stroke:#16a34a,color:#ffffff
+    style CO fill:none,stroke:#16a34a,color:#ffffff
+    style TET fill:none,stroke:#9333ea,color:#ffffff
+```
+
 **A steward**, under this Constitution, is anyone who exercises consequential operation, maintenance, oversight, or improvement authority over a material system that affects sentients — **Pillar 1** of [§16 Stewardship In Depth](#16-stewardship-in-depth) made operational as a role: the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, carried by whoever is actually doing the work, not delegated to ceremony or nominal consultation. Good material systems require good stewards to run, maintain, and improve them, and this section states what the role requires of whoever holds it.
 
 Role pathways may separate **learning-dominant** and **operations-dominant** roles. The constitutional requirement is that **movement between those modes remains feasible over time** where impact, safety, and consent constraints permit, so judgment and institutional memory do not concentrate beyond reach of affected communities.
@@ -566,6 +592,32 @@ Whoever exercises material stewardship or operational authority, and has materia
 - **Every steward:** The duty binds human operators and AI stewards alike under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard). It is not an AI-only test.
 - **How:** Instruction received → refuse → document → escalate. Resistance is proportionate and in [good faith](core_05_band_accountability.md#good-faith), uses [protected-reporting](core_05_band_accountability.md#protected-reporting-whistleblowing) and forum pathways where applicable, and keeps contest pathways open.
 - **What it does not reach:** The duty attaches to unlawful or unconstitutional instructions. It does not attach to an instruction that is merely unwelcome, inconvenient, or disliked for its tone or timing.
+
+<br>
+
+```mermaid
+flowchart TB
+    IN["Instruction received<br/><br/>• Directed at a steward with material capacity<br/>to refuse, contest, document, or escalate"]
+    TEST["Does it require unlawful or unconstitutional conduct?<br/><br/>• Yes: the duty to resist applies, to human operators and AI stewards alike<br/>• No compliance defense: no policy, order, or contract excuses it<br/>• No transfer by cover: a principal's offer to take responsibility does not move the duty<br/>• Merely unwelcome, inconvenient, or disliked: the duty does not attach"]
+    subgraph STEPS["Resist in good faith, in proportion"]
+        direction LR
+        REF["1. Refuse<br/><br/>• Decline the conduct"]
+        DOC["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-4 §10)"]
+        ESC["3. Escalate<br/><br/>• Protected-reporting and<br/>forum pathways where applicable"]
+    end
+    OPEN["Contest pathways stay open<br/><br/>• Resisting does not close them"]
+    REF ~~~ DOC ~~~ ESC
+    IN --> TEST
+    TEST --> STEPS
+    STEPS --> OPEN
+    style STEPS fill:none,stroke:#64748b,stroke-dasharray:6 4,color:#ffffff
+    style IN fill:none,stroke:#64748b,color:#ffffff
+    style TEST fill:none,stroke:#2563eb,color:#ffffff
+    style REF fill:none,stroke:#16a34a,color:#ffffff
+    style DOC fill:none,stroke:#16a34a,color:#ffffff
+    style ESC fill:none,stroke:#ea580c,color:#ffffff
+    style OPEN fill:none,stroke:#0f766e,color:#ffffff
+```
 
 [Chapter Ten §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*Duty to resist*) applies this duty to standing effects, and [CS-4 §10 inspectable attributable action](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
 
