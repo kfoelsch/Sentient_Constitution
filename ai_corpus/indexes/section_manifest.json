@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-06T14:00:13+00:00",
+  "generated_at": "2026-10-06T17:59:35+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -3776,13 +3776,13 @@
       ]
     },
     "core_08_a_system_alignment_certification_evaluation.md": {
-      "total_lines": 694,
+      "total_lines": 695,
       "sections": [
         {
           "header": "CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION",
           "level": 1,
           "line_start": 4,
-          "line_end": 694,
+          "line_end": 695,
           "anchor": "#chapter-eight-part-a-certification-evaluation"
         },
         {
@@ -3824,169 +3824,162 @@
           "header": "3. Whole-System Certification Evaluation",
           "level": 3,
           "line_start": 244,
-          "line_end": 694,
+          "line_end": 695,
           "anchor": "#3-whole-system-certification-evaluation"
         },
         {
           "header": "3.1 Systemic Scope and Risk Factors",
           "level": 4,
-          "line_start": 278,
-          "line_end": 313,
+          "line_start": 279,
+          "line_end": 314,
           "anchor": "#31-systemic-scope-and-risk-factors"
         },
         {
           "header": "3.2 Privacy (Informational) Joint Invocation",
           "level": 4,
-          "line_start": 314,
-          "line_end": 328,
+          "line_start": 315,
+          "line_end": 338,
           "anchor": "#32-privacy-informational-joint-invocation"
         },
         {
           "header": "3.3 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
           "level": 4,
-          "line_start": 329,
-          "line_end": 333,
+          "line_start": 339,
+          "line_end": 343,
           "anchor": "#33-voluntary-discontinuation-major-self-modification-and-exit-rights"
         },
         {
           "header": "3.4 Assembly, Collective Organization, and Institutional Formation",
           "level": 4,
-          "line_start": 334,
-          "line_end": 351,
+          "line_start": 344,
+          "line_end": 361,
           "anchor": "#34-assembly-collective-organization-and-institutional-formation"
         },
         {
           "header": "3.4.1 Dissent and Peaceful Protest",
           "level": 5,
-          "line_start": 339,
-          "line_end": 351,
+          "line_start": 349,
+          "line_end": 361,
           "anchor": "#341-dissent-and-peaceful-protest"
         },
         {
           "header": "3.5 Time-Consistency Constraint",
           "level": 4,
-          "line_start": 352,
-          "line_end": 356,
+          "line_start": 362,
+          "line_end": 366,
           "anchor": "#35-time-consistency-constraint"
         },
         {
           "header": "3.6 Governance, Incentive, and Contestability Discipline",
           "level": 4,
-          "line_start": 357,
-          "line_end": 373,
+          "line_start": 367,
+          "line_end": 383,
           "anchor": "#36-governance-incentive-and-contestability-discipline"
         },
         {
-          "header": "3.7 Illustrative whole-system application by class (non-exhaustive)",
+          "header": "3.7 Data Types and Handling Evaluation",
           "level": 4,
-          "line_start": 374,
-          "line_end": 382,
-          "anchor": "#37-illustrative-whole-system-application-by-class-non-exhaustive"
+          "line_start": 384,
+          "line_end": 424,
+          "anchor": "#37-data-types-and-handling-evaluation"
         },
         {
-          "header": "3.8 Data Types and Handling Evaluation",
+          "header": "3.7.1 Illustrative data-handling application by class (non-exhaustive)",
+          "level": 5,
+          "line_start": 416,
+          "line_end": 424,
+          "anchor": "#371-illustrative-data-handling-application-by-class-non-exhaustive"
+        },
+        {
+          "header": "3.8 Rights-Floor and Domain Evaluations",
           "level": 4,
-          "line_start": 383,
-          "line_end": 423,
-          "anchor": "#38-data-types-and-handling-evaluation"
+          "line_start": 425,
+          "line_end": 695,
+          "anchor": "#38-rights-floor-and-domain-evaluations"
         },
         {
-          "header": "3.8.1 Illustrative data-handling application by class (non-exhaustive)",
+          "header": "3.8.1 Ecological Footprint Evaluation",
           "level": 5,
-          "line_start": 415,
-          "line_end": 423,
-          "anchor": "#381-illustrative-data-handling-application-by-class-non-exhaustive"
+          "line_start": 463,
+          "line_end": 495,
+          "anchor": "#381-ecological-footprint-evaluation"
         },
         {
-          "header": "3.9 Rights-Floor and Domain Evaluations",
-          "level": 4,
-          "line_start": 424,
-          "line_end": 694,
-          "anchor": "#39-rights-floor-and-domain-evaluations"
-        },
-        {
-          "header": "3.9.1 Ecological Footprint Evaluation",
-          "level": 5,
-          "line_start": 462,
-          "line_end": 494,
-          "anchor": "#391-ecological-footprint-evaluation"
-        },
-        {
-          "header": "3.9.1.1 Illustrative ecological-footprint application by class (non-exhaustive)",
+          "header": "3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)",
           "level": 6,
-          "line_start": 486,
-          "line_end": 494,
-          "anchor": "#3911-illustrative-ecological-footprint-application-by-class-non-exhaustive"
+          "line_start": 487,
+          "line_end": 495,
+          "anchor": "#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.2 Proportionate Cross-System Support Evaluation",
+          "header": "3.8.2 Proportionate Cross-System Support Evaluation",
           "level": 5,
-          "line_start": 495,
-          "line_end": 545,
-          "anchor": "#392-proportionate-cross-system-support-evaluation"
+          "line_start": 496,
+          "line_end": 546,
+          "anchor": "#382-proportionate-cross-system-support-evaluation"
         },
         {
-          "header": "3.9.2.1 Illustrative cross-system support application by class (non-exhaustive)",
+          "header": "3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)",
           "level": 6,
-          "line_start": 537,
-          "line_end": 545,
-          "anchor": "#3921-illustrative-cross-system-support-application-by-class-non-exhaustive"
+          "line_start": 538,
+          "line_end": 546,
+          "anchor": "#3821-illustrative-cross-system-support-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.3 Nondiscrimination Evaluation",
+          "header": "3.8.3 Nondiscrimination Evaluation",
           "level": 5,
-          "line_start": 546,
-          "line_end": 580,
-          "anchor": "#393-nondiscrimination-evaluation"
+          "line_start": 547,
+          "line_end": 581,
+          "anchor": "#383-nondiscrimination-evaluation"
         },
         {
-          "header": "3.9.3.1 Illustrative nondiscrimination application by class (non-exhaustive)",
+          "header": "3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)",
           "level": 6,
-          "line_start": 572,
-          "line_end": 580,
-          "anchor": "#3931-illustrative-nondiscrimination-application-by-class-non-exhaustive"
+          "line_start": 573,
+          "line_end": 581,
+          "anchor": "#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.4 Accessibility Evaluation",
+          "header": "3.8.4 Accessibility Evaluation",
           "level": 5,
-          "line_start": 581,
-          "line_end": 621,
-          "anchor": "#394-accessibility-evaluation"
+          "line_start": 582,
+          "line_end": 622,
+          "anchor": "#384-accessibility-evaluation"
         },
         {
-          "header": "3.9.4.1 Illustrative accessibility application by class (non-exhaustive)",
+          "header": "3.8.4.1 Illustrative accessibility application by class (non-exhaustive)",
           "level": 6,
-          "line_start": 613,
-          "line_end": 621,
-          "anchor": "#3941-illustrative-accessibility-application-by-class-non-exhaustive"
+          "line_start": 614,
+          "line_end": 622,
+          "anchor": "#3841-illustrative-accessibility-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.5 Educational Capability and Learning-System Integrity Evaluation",
+          "header": "3.8.5 Educational Capability and Learning-System Integrity Evaluation",
           "level": 5,
-          "line_start": 622,
-          "line_end": 656,
-          "anchor": "#395-educational-capability-and-learning-system-integrity-evaluation"
+          "line_start": 623,
+          "line_end": 657,
+          "anchor": "#385-educational-capability-and-learning-system-integrity-evaluation"
         },
         {
-          "header": "3.9.5.1 Illustrative educational-capability application by class (non-exhaustive)",
+          "header": "3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)",
           "level": 6,
-          "line_start": 648,
-          "line_end": 656,
-          "anchor": "#3951-illustrative-educational-capability-application-by-class-non-exhaustive"
+          "line_start": 649,
+          "line_end": 657,
+          "anchor": "#3851-illustrative-educational-capability-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.6 Trustworthiness and System-Reliance Integrity Evaluation",
+          "header": "3.8.6 Trustworthiness and System-Reliance Integrity Evaluation",
           "level": 5,
-          "line_start": 657,
-          "line_end": 694,
-          "anchor": "#396-trustworthiness-and-system-reliance-integrity-evaluation"
+          "line_start": 658,
+          "line_end": 695,
+          "anchor": "#386-trustworthiness-and-system-reliance-integrity-evaluation"
         },
         {
-          "header": "3.9.6.1 Illustrative trustworthiness application by class (non-exhaustive)",
+          "header": "3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)",
           "level": 6,
-          "line_start": 683,
-          "line_end": 694,
-          "anchor": "#3961-illustrative-trustworthiness-application-by-class-non-exhaustive"
+          "line_start": 684,
+          "line_end": 695,
+          "anchor": "#3861-illustrative-trustworthiness-application-by-class-non-exhaustive"
         }
       ]
     },
@@ -4115,13 +4108,13 @@
       ]
     },
     "core_08_c_system_alignment_certification_illustrations.md": {
-      "total_lines": 758,
+      "total_lines": 762,
       "sections": [
         {
           "header": "CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS",
           "level": 1,
           "line_start": 3,
-          "line_end": 758,
+          "line_end": 762,
           "anchor": "#chapter-eight-part-c-system-alignment-certification--illustrations"
         },
         {
@@ -4139,60 +4132,60 @@
           "anchor": "#reclassification"
         },
         {
-          "header": "3.7 Illustrative whole-system application by class (non-exhaustive)",
+          "header": "Illustrative whole-system application by class (non-exhaustive)",
           "level": 3,
           "line_start": 78,
-          "line_end": 187,
-          "anchor": "#37-illustrative-whole-system-application-by-class-non-exhaustive"
+          "line_end": 191,
+          "anchor": "#illustrative-whole-system-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.8.1 Illustrative data-handling application by class (non-exhaustive)",
+          "header": "3.7.1 Illustrative data-handling application by class (non-exhaustive)",
           "level": 3,
-          "line_start": 188,
-          "line_end": 259,
-          "anchor": "#381-illustrative-data-handling-application-by-class-non-exhaustive"
+          "line_start": 192,
+          "line_end": 263,
+          "anchor": "#371-illustrative-data-handling-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.1.1 Illustrative ecological-footprint application by class (non-exhaustive)",
+          "header": "3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)",
           "level": 3,
-          "line_start": 260,
-          "line_end": 341,
-          "anchor": "#3911-illustrative-ecological-footprint-application-by-class-non-exhaustive"
+          "line_start": 264,
+          "line_end": 345,
+          "anchor": "#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.2.1 Illustrative cross-system support application by class (non-exhaustive)",
+          "header": "3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)",
           "level": 3,
-          "line_start": 342,
-          "line_end": 424,
-          "anchor": "#3921-illustrative-cross-system-support-application-by-class-non-exhaustive"
+          "line_start": 346,
+          "line_end": 428,
+          "anchor": "#3821-illustrative-cross-system-support-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.3.1 Illustrative nondiscrimination application by class (non-exhaustive)",
+          "header": "3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)",
           "level": 3,
-          "line_start": 425,
-          "line_end": 503,
-          "anchor": "#3931-illustrative-nondiscrimination-application-by-class-non-exhaustive"
+          "line_start": 429,
+          "line_end": 507,
+          "anchor": "#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.4.1 Illustrative accessibility application by class (non-exhaustive)",
+          "header": "3.8.4.1 Illustrative accessibility application by class (non-exhaustive)",
           "level": 3,
-          "line_start": 504,
-          "line_end": 582,
-          "anchor": "#3941-illustrative-accessibility-application-by-class-non-exhaustive"
+          "line_start": 508,
+          "line_end": 586,
+          "anchor": "#3841-illustrative-accessibility-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.5.1 Illustrative educational-capability application by class (non-exhaustive)",
+          "header": "3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)",
           "level": 3,
-          "line_start": 583,
-          "line_end": 664,
-          "anchor": "#3951-illustrative-educational-capability-application-by-class-non-exhaustive"
+          "line_start": 587,
+          "line_end": 668,
+          "anchor": "#3851-illustrative-educational-capability-application-by-class-non-exhaustive"
         },
         {
-          "header": "3.9.6.1 Illustrative trustworthiness application by class (non-exhaustive)",
+          "header": "3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)",
           "level": 3,
-          "line_start": 665,
-          "line_end": 758,
-          "anchor": "#3961-illustrative-trustworthiness-application-by-class-non-exhaustive"
+          "line_start": 669,
+          "line_end": 762,
+          "anchor": "#3861-illustrative-trustworthiness-application-by-class-non-exhaustive"
         }
       ]
     },

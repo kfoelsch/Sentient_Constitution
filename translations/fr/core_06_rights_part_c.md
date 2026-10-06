@@ -123,7 +123,7 @@ Deux garanties agissent ensemble pour protéger ce droit : la certification rend
 - aux moyens de le contester ;
 - à la manière dont les problèmes sont corrigés.
 
-Si le système atteint le seuil d’importance fixé par l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*), la certification comprend également un examen de fiabilité au titre du [Chapitre Huit §3.9.6 Évaluation de la fiabilité et de l’intégrité de la dépendance au système](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation).
+Si le système atteint le seuil d’importance fixé par l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*), la certification comprend également un examen de fiabilité au titre du [Chapitre Huit §3.9.6 Évaluation de la fiabilité et de l’intégrité de la dépendance au système](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **La possibilité de contestation maintient l’honnêteté du côté du sentient :** la certification évalue un système, mais n’a pas le dernier mot à son sujet. Tout sentient affecté par le système conserve :
 

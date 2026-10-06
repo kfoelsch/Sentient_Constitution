@@ -126,7 +126,7 @@ Dos salvaguardas trabajan juntas para garantizar este derecho: la certificación
 - cómo desafiarlo
 - cómo se solucionan los problemas
 
-Si el sistema cumple con el umbral de importancia establecido en **Artículo XIII** (*Derecho a sistemas confiables y dignos de confianza*), la certificación también incluye una revisión de confiabilidad según el [Capítulo Ocho §3.9.6 Evaluación de integridad y confiabilidad del sistema](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation).
+Si el sistema cumple con el umbral de importancia establecido en **Artículo XIII** (*Derecho a sistemas confiables y dignos de confianza*), la certificación también incluye una revisión de confiabilidad según el [Capítulo Ocho §3.9.6 Evaluación de integridad y confiabilidad del sistema](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **La contestabilidad mantiene el sistema honesto desde el lado sensible:** La certificación verifica un sistema; no tiene la última palabra al respecto. Cada sintiente afectado por el sistema mantiene:
 

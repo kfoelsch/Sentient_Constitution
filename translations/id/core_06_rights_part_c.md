@@ -123,7 +123,7 @@ Dua perlindungan bekerja bersama untuk menjamin hak ini: sertifikasi menjadikan 
 - cara mengajukan keberatan terhadapnya
 - cara memperbaiki masalah
 
-Jika sistem mencapai ambang kepentingan dalam **Pasal XIII** (*Hak atas Sistem yang Andal dan Tepercaya*), sertifikasi juga mencakup peninjauan keterpercayaan berdasarkan [Bab Delapan §3.9.6 Evaluasi Integritas Keterpercayaan dan Pengandalan Sistem](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation).
+Jika sistem mencapai ambang kepentingan dalam **Pasal XIII** (*Hak atas Sistem yang Andal dan Tepercaya*), sertifikasi juga mencakup peninjauan keterpercayaan berdasarkan [Bab Delapan §3.9.6 Evaluasi Integritas Keterpercayaan dan Pengandalan Sistem](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Kemungkinan untuk menggugat menjaga kejujuran sistem dari sisi sentien:** Sertifikasi memeriksa suatu sistem; sertifikasi bukan kata akhir tentang sistem itu. Setiap sentien yang terdampak oleh sistem tetap memiliki:
 
