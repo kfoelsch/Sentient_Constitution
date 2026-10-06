@@ -1101,6 +1101,8 @@ EOF
 - [ప్రక్రియా న్యాయం](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [వ్యవస్థ స్వాధీనత](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
 
+సంబంధిత ప్రమాణాలు: [ఉల్లంఘన స్వభావం](core_05_band_accountability.md#violation-nature-chapter-six) మరియు [సచేతన అస్తిత్వాల మినహాయింపులేమి](core_05_band_participation.md#sentience-non-exclusion).
+
 </details>
 
 <br>

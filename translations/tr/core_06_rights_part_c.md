@@ -123,7 +123,7 @@ Bu hakkı iki güvence birlikte korur: sertifikasyon sistemi güvene layık hale
 - sisteme nasıl itiraz edileceği;
 - sorunların nasıl giderileceği.
 
-Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer alan önem eşiğini karşılıyorsa, sertifikasyon [Sekizinci Bölüm §10 Güven Verilebilirlik ve Sisteme Güvenme Bütünlüğü Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation) uyarınca güven verilebilirlik incelemesini de kapsar.
+Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer alan önem eşiğini karşılıyorsa, sertifikasyon [Sekizinci Bölüm §3.9.6 Güven Verilebilirlik ve Sisteme Güvenme Bütünlüğü Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation) uyarınca güven verilebilirlik incelemesini de kapsar.
 
 **İtiraz edilebilirlik sentientin tarafından sistemi dürüst tutar:** Sertifikasyon sistemi denetler; onun hakkında son sözü söylemez. Sistemden etkilenen her sentient şu hakları korur:
 

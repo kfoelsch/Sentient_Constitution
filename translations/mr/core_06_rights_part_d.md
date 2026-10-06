@@ -723,7 +723,7 @@ flowchart TB
 
 <br>
 
-*सोप्या भाषेत: **अनुच्छेद XXII** (*आकलनक्षमता आणि गुंतागुंतीचे पालकत्व*) हा समजण्यायोग्यतेचा हक्क-तळ आहे — एखादी प्रणाली तुमच्या जीवनावर भौतिक परिणाम करत असल्यास ती कशी चालते, तिच्या मर्यादा काय आहेत आणि ती अपयशी झाल्यास काय होते हे प्रत्यक्ष समजण्याचा तुम्हाला हक्क आहे. सहभाग, लेखापरीक्षण किंवा उत्तरदायित्व रोखण्यासाठी गुंतागुंत भिंत म्हणून वापरता येणार नाही. वास्तविक घटनात्मक लाभ नसताना सर्वांचा वेळ वाया घालवणारी अनावश्यक गुंतागुंत पालकांनी वाढवू नये.*
+*सोप्या भाषेत: **अनुच्छेद XXII** (*आकलनक्षमता आणि गुंतागुंतीचे पालकत्व*) हा समजण्यायोग्यतेचा हक्क-तळ आहे — एखादी प्रणाली तुमच्या जीवनावर भौतिक परिणाम करत असल्यास ती कशी चालते, तिच्या मर्यादा काय आहेत आणि ती अपयशी झाल्यास काय होते हे प्रत्यक्ष समजण्याचा तुम्हाला हक्क आहे. सहभाग, [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability), [आव्हानयोग्यता](core_05_band_accountability.md#contestability) किंवा उत्तरदायित्व रोखण्यासाठी गुंतागुंत भिंत म्हणून वापरता येणार नाही. वास्तविक घटनात्मक लाभ नसताना सर्वांचा वेळ वाया घालवणारी अनावश्यक गुंतागुंत पालकांनी वाढवू नये.*
 
 हा अनुच्छेद [दोन घटनात्मक उद्दिष्टां](core_00_preamble.md#two-constitutional-aims) अंतर्गत आकलनक्षमता आणि गुंतागुंतीच्या पालकत्वाचे **घटनात्मक तळ** सांगतो:
 - **समृद्धी:** संवेदनशील अस्तित्वांना जगणे, पर्यावरणीय पूर्वअटी, माहिती-क्षेत्राची अखंडता आणि [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) यांवर भौतिक परिणाम करणाऱ्या प्रणाली समजता याव्यात — सहभागी होण्यासाठी, अचूक माहितीवर अवलंबून राहण्यासाठी आणि तज्ज्ञ-विशेष प्रवेशाशिवाय चुका आव्हानित करण्यासाठी पुरेसे.
@@ -1099,6 +1099,7 @@ CS-6 (*आकलनक्षमता आणि गुंतागुंती�
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [प्रक्रियात्मक न्याय्यता](core_05_band_participation.md#procedural-fairness-constitutional) · [O](core_05_band_participation.md#procedural-fairness-constitutional) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 - [प्रणाली-कब्जा](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+
 
 </details>
 

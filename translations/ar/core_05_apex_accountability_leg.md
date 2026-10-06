@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- يُقرأ مع: [الفصل الأول §11 مواءمة الحوافز واستيلاء النظام](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)، [§13 بنية السوق](core_01_c_stewardship_capacity_principles.md#13-market-structure)، و[الفصل السابع §3.7 انضباط الحوكمة والحوافز وقابلية الطعن](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline).
+- يُقرأ مع: [الفصل الأول §11 مواءمة الحوافز واستيلاء النظام](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)، [§13 بنية السوق](core_01_c_stewardship_capacity_principles.md#13-market-structure)، و[الفصل السابع §3.6 انضباط الحوكمة والحوافز وقابلية الطعن](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline).
 
 </details>
 

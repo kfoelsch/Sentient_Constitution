@@ -125,7 +125,7 @@ flowchart TB
 - 시스템에 이의를 제기하는 방법
 - 문제가 해결되는 방식
 
-시스템이 **제XIII조**(*신뢰할 수 있고 믿을 수 있는 시스템에 대한 권리*)의 중요성 기준을 충족하면, 인증에는 [제8장 §10 신뢰성 및 시스템 의존 무결성 평가](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)에 따른 신뢰성 심사도 포함됩니다.
+시스템이 **제XIII조**(*신뢰할 수 있고 믿을 수 있는 시스템에 대한 권리*)의 중요성 기준을 충족하면, 인증에는 [제8장 §3.9.6 신뢰성 및 시스템 의존 무결성 평가](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation)에 따른 신뢰성 심사도 포함됩니다.
 
 **이의 제기 가능성은 감지자 측에서 시스템의 정직성을 지킵니다:** 인증은 시스템을 점검하지만 최종 판단권을 갖지는 않습니다. 시스템의 영향을 받는 모든 감지자는 다음 권리를 보유합니다.
 

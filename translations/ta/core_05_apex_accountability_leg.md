@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- இதனுடன் படிக்க: [அத்தியாயம் ஒன்று §11 ஊக்குவிப்பு இணக்கமும் அமைப்புக் கைப்பற்றுதலும்](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 சந்தை அமைப்பு](core_01_c_stewardship_capacity_principles.md#13-market-structure), மற்றும் [அத்தியாயம் ஏழு §3.7 ஆட்சி, ஊக்குவிப்பு, சவால் செய்யக்கூடிய தன்மைக் கட்டுப்பாடு](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline).
+- இதனுடன் படிக்க: [அத்தியாயம் ஒன்று §11 ஊக்குவிப்பு இணக்கமும் அமைப்புக் கைப்பற்றுதலும்](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 சந்தை அமைப்பு](core_01_c_stewardship_capacity_principles.md#13-market-structure), மற்றும் [அத்தியாயம் ஏழு §3.6 ஆட்சி, ஊக்குவிப்பு, சவால் செய்யக்கூடிய தன்மைக் கட்டுப்பாடு](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline).
 
 </details>
 

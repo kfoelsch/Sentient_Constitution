@@ -93,7 +93,7 @@
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：原則：[第三章、第 1 節 — 定義の誠実性と回避防止の制約](#1-definition-integrity-and-anti-evasion-constraints)；[第二章、§2 定義の誠実性要件](core_02_definition_structure.md#2-definition-integrity-requirement)；[第二章、§2.2 構造的または適用上の弱化による不遵守](core_02_definition_structure.md#22-non-compliance-by-structural-or-applied-weakening)。
-- 下流：第 [2.1](#21-common-evasion-patterns) 節から第 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 節までの類型カタログ；[3. 不遵守所見プロファイル](#3-non-compliance-finding-profiles)；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第四章、第 3 節 — 追跡可能性の観測可能性要件](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)；[第七章 §16](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)（*システム整合認証の再開と回避防止のポインタ*）；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
+- 下流：第 [2.1](#21-common-evasion-patterns) 節から第 [2.6](#26-uncertainty-integrity-and-non-exploitation-constraint) 節までの類型カタログ；[3. 不遵守所見プロファイル](#3-non-compliance-finding-profiles)；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-compliance-evidence-standard)；[第四章、第 3 節 — 追跡可能性の観測可能性要件](core_04_burden_traceability_verification.md#3-observability-of-traceability-requirement)；[第七章 §6](../../core_08_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening)（*システム整合認証の再開と回避防止のポインタ*）；[第八章 — 貢献、違反、軌跡モデル](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)。
 - あわせて読む：[第二章、§1 — 目的と役割](core_02_definition_structure.md#1-purpose-and-role) — 完全な機能システム条件のもとでの共同充足規則のため；[第二章、§2.4 曖昧さのもとでの解釈規則](core_02_definition_structure.md#24-interpretation-rule-under-ambiguity) — 保障を弱め、評価されなければならないものを縮め、または実世界の結果を悪化させる解釈は無効である；[第四章、第 5 節 — 遵守証拠の標準](core_04_burden_traceability_verification.md#5-compliance-evidence-standard) — 証拠は本節の規則のもとでの遵守を示さなければならない；ここで不遵守となる証明は証明の負担に失敗する；[不遵守](../../core_05_band_integrative.md#non-compliance)。
 
 </details>
@@ -241,12 +241,12 @@
 <a id="31-standing-effects-for-already-certified-systems"></a>
 #### 3.1 すでに認証されたシステムについての軌跡効果
 
-システムがすでに[システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)のもとで走っているなら — 承認、条件付き承認、または期限切れでない再検証を含む — そのシステムの機能範囲についての実質的な検証済み不遵守は、**そのシステム**についての[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)の軌跡測定に**入らなければならない**。[検証済み入力ゲート](../../core_09_standing_assessment.md#verified-inputs-for-standing)を通った事実だけが入ってよい。第八章と第九章のもとで軌跡を測定し適用せよ。再開、撤回、または他の認証の帰結は[第七章](../../core_08_b_system_alignment_certification_record_process.md#16-reopening-misalignment-and-non-evasion)のもとにとどまる。それらはそのシステムの軌跡記録を置き換えない。
+システムがすでに[システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)のもとで走っているなら — 承認、条件付き承認、または期限切れでない再検証を含む — そのシステムの機能範囲についての実質的な検証済み不遵守は、**そのシステム**についての[第八章](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model)の軌跡測定に**入らなければならない**。[検証済み入力ゲート](../../core_09_standing_assessment.md#verified-inputs-for-standing)を通った事実だけが入ってよい。第八章と第九章のもとで軌跡を測定し適用せよ。再開、撤回、または他の認証の帰結は[第七章](../../core_08_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening)のもとにとどまる。それらはそのシステムの軌跡記録を置き換えない。
 
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 最初の認証における軌跡効果
 
-システムがなお**最初の**[システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)にあり、まだ承認されていないなら — 承認が延期され、または拒否されるところを含む — 検証済み不遵守は、第一次には第七章のもとでの**認証の帰結**を決める。その帰結は、条件付き承認、承認の延期、非承認、または比較可能な結果でありうる。それらの認証記録は、事実が支えるときに、なお[第七章 §15](../../core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing)のもとで検証済み軌跡入力を供給してよい。本章は、すでに認証されて走っているシステムが受けなければならないのと同じ軌跡記録を求めない。
+システムがなお**最初の**[システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)にあり、まだ承認されていないなら — 承認が延期され、または拒否されるところを含む — 検証済み不遵守は、第一次には第七章のもとでの**認証の帰結**を決める。その帰結は、条件付き承認、承認の延期、非承認、または比較可能な結果でありうる。それらの認証記録は、事実が支えるときに、なお[第七章 §7](../../core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing)のもとで検証済み軌跡入力を供給してよい。本章は、すでに認証されて走っているシステムが受けなければならないのと同じ軌跡記録を求めない。
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 感知者と制度についての軌跡効果

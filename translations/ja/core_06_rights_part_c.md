@@ -123,7 +123,7 @@ flowchart TB
 - システムに異議を申し立てる方法
 - 問題がどのように修正されるか
 
-システムが**第XIII条**（*信頼性があり信頼に値するシステムへの権利*）の重要性基準を満たす場合、認証には[第八章§10 信頼に値する性質およびシステム依存の完全性評価](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)に基づく審査も含まれます。
+システムが**第XIII条**（*信頼性があり信頼に値するシステムへの権利*）の重要性基準を満たす場合、認証には[第八章§3.9.6 信頼に値する性質およびシステム依存の完全性評価](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation)に基づく審査も含まれます。
 
 **異議申立て可能性はセンティエント側からシステムの誠実さを保ちます：**認証はシステムを審査しますが、最終判断ではありません。そのシステムの影響を受けるすべてのセンティエントは、次の権利を保持します。
 

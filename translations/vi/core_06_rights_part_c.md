@@ -124,7 +124,7 @@ Hai biện pháp bảo vệ phối hợp với nhau để đảm bảo quyền n
 - làm thế nào để thử thách nó
 - vấn đề được khắc phục như thế nào
 
-Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*), chứng nhận cũng bao gồm đánh giá về độ tin cậy theo [Chương Tám §10 Đánh giá độ tin cậy và tính toàn vẹn của hệ thống](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation).
+Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*), chứng nhận cũng bao gồm đánh giá về độ tin cậy theo [Chương Tám §3.9.6 Đánh giá độ tin cậy và tính toàn vẹn của hệ thống](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Khả năng cạnh tranh giữ cho hệ thống trung thực từ phía người nhận:** Chứng nhận kiểm tra một hệ thống; nó không có lời cuối cùng về nó. Mỗi người bị ảnh hưởng bởi hệ thống sẽ giữ:
 
