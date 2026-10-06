@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-06T10:39:14+00:00",
+  "generated_at": "2026-10-06T11:31:36+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -12577,6 +12577,13 @@
             "anchors": []
           },
           {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 1,
+            "anchors": [
+              "#9121-type-t-access-and-handling-duties"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
             "count": 3,
             "anchors": []
@@ -13970,9 +13977,12 @@
           },
           {
             "file": "corpus_systems/cs_02_b_data_classifications.md",
-            "count": 14,
+            "count": 17,
             "anchors": [
+              "#913-commercial-grants",
+              "#9131-what-can-be-granted",
               "#93-type-o-open-public-oversight-baseline-disclosure-data",
+              "#99-type-w-works-published",
               "#cs-2-part-b-data-classifications",
               "#cs-29-data-classifications",
               "#privacy-link",
@@ -13997,6 +14007,13 @@
         "source": "corpus_systems/cs_02_b_data_classifications.md",
         "targets": [
           {
+            "file": "core_01_a_values_principles.md",
+            "count": 2,
+            "anchors": [
+              "#111-market-concentration-threshold-mechanism-adopter-tunable"
+            ]
+          },
+          {
             "file": "core_01_b_interaction_interpretation.md",
             "count": 1,
             "anchors": [
@@ -14005,10 +14022,11 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 24,
+            "count": 26,
             "anchors": [
               "#charter",
               "#defc3-privacy-informational--peer-level-cluster-head",
+              "#fair-compensation",
               "#identity-data-protection",
               "#likeness-and-documentary-depiction-interface",
               "#privacy-informational",
@@ -14030,7 +14048,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 18,
+            "count": 20,
             "anchors": [
               "#public-oversight-baseline-disclosure",
               "#risk-disclosure",
@@ -14039,10 +14057,12 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 5,
+            "count": 12,
             "anchors": [
               "#article-ix-a-self-ownership-of-likeness-and-reputation",
               "#article-ix-b-experiential-and-derived-data-rights",
+              "#article-ix-c-truthful-publication-and-high-impact-publication-limits",
+              "#article-ix-d-creative-work-training-data-use-and-anti-displacement",
               "#article-vii-a-self-ownership-of-body",
               "#article-vii-b-self-ownership-of-mind",
               "#article-x-a-agency-and-freedom-from-manipulation"
@@ -14050,9 +14070,18 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 1,
+            "count": 4,
             "anchors": [
-              "#article-xiv-a-security-intelligence-and-covert-power-limits"
+              "#article-xiv-a-security-intelligence-and-covert-power-limits",
+              "#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_d.md",
+            "count": 3,
+            "anchors": [
+              "#article-xxi-c-anti-lock-in-rule",
+              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity"
             ]
           },
           {
@@ -14070,17 +14099,37 @@
             ]
           },
           {
+            "file": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
+            "count": 2,
+            "anchors": []
+          },
+          {
+            "file": "corpus_institutions/ci_20_relational_coercive_control_intimate_power_anti_domination.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
+            "count": 2,
+            "anchors": [
+              "#access-preserving-reward-and-anti-warehousing-controls"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 63,
+            "count": 95,
             "anchors": [
               "#11-identity-self-ownership-and-recoverability",
+              "#12-continuity-critical-collection-and-exportability",
               "#50-access-posture-bands",
               "#51-proportional-access-and-handling",
               "#53-tiered-transparency-and-audit-access",
               "#56-proportional-attribution-and-retention",
               "#cs-2-part-a-information-types-and-handling",
               "#cs-22-determination-of-classification",
-              "#cs-27-type-o-baseline-for-class-abc-systems"
+              "#cs-24-anti-circumvention-and-integrity-of-classification",
+              "#cs-27-type-o-baseline-for-class-abc-systems",
+              "#most-restrictive-applicable-classification-governs"
             ]
           },
           {

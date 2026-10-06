@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-06T10:39:15+00:00",
+  "generated_at": "2026-10-06T11:31:37+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -2465,28 +2465,28 @@
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-5-cross-domain-governance-principles",
       "heading": "CS-2.5 Cross-domain governance principles",
-      "line": 191,
+      "line": 192,
       "kind": "section"
     },
     "CS-2.6": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-6-data-separation-and-attribution",
       "heading": "CS-2.6 Data separation and attribution",
-      "line": 409,
+      "line": 414,
       "kind": "section"
     },
     "CS-2.7": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "heading": "CS-2.7 Type O baseline for Class A/B/C systems",
-      "line": 512,
+      "line": 517,
       "kind": "section"
     },
     "CS-2.8": {
       "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "anchor": "#cs-2-8-system-data-types-record-governance",
       "heading": "CS-2.8 System Data Types Record governance",
-      "line": 545,
+      "line": 550,
       "kind": "section"
     },
     "CS-2.9": {
