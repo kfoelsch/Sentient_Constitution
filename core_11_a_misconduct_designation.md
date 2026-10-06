@@ -343,7 +343,7 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
   - It counts only when the record shows the measure actually repairs, compensates, restores, prevents recurrence, or supplies a proportionate substitute safeguard for the relevant harm.
   - Public acknowledgment or apology is governed by **section 4.3** where used.
 - **No offset by contribution:**
-  - Prior good work, scarce expertise, institutional importance, settlement convenience, reputation repair, or later cooperation does not erase restitution or remediation duties.
+  - Prior help, scarce expertise, institutional importance, settlement convenience, reputation repair, or later cooperation does not erase restitution or remediation duties.
   - Those facts may affect sequencing, credit for cooperation, rehabilitation design, or recurrence-reduction conditions only where remedy for affected parties stays practical and accountable attribution stays intact.
 - **Execution realism and anti-evasion:**
   - Where remedy needs funding, capacity, cross-institution coordination, tracing successors, recognition by another forum, or pooled execution, the disposition must name how that will happen — or say why a substitute safeguard is the proportionate lawful remedy instead.

@@ -44,15 +44,15 @@ flowchart TB
         direction TB
         subgraph Crow1["Articles XIII–XIV"]
             C1["**Article XIII** (*Right to Reliable and Trustworthy Systems*) · Right to Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
-            C2["**Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) · Security, Intelligence, Force, and Autonomous Coercive Systems<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems"]
+            C2["**Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) · Security, Intelligence, Force, and Autonomous Coercive Systems<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems<br/>• Counter-espionage limits"]
         end
         subgraph Crow2["Articles XV–XVI"]
-            C3["**Article XV** (*Info-Sphere Integrity*) · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship"]
+            C3["**Article XV** (*Info-Sphere Integrity*) · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship<br/>• Scientific publication, review, and replication"]
             C4["**Article XVI** (*Audit, Transparency, and Independent Verification*) · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
         end
         subgraph Crow3["Articles XVII–XVIII"]
             C5["**Article XVII** (*System Lifecycle, Environments, and Reversibility*) · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
-            C6["**Article XVIII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) · Sandboxed Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Publication, review, and replication integrity"]
+            C6["**Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions, processes, and functional systems"]
         end
     end
     %% Invisible links force a two-wide grid: each link puts its target one level down.
@@ -417,36 +417,43 @@ This Article sets out the recovery baseline, from detection through root-cause c
 
 <br>
 
-*In plain terms: **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) is the exceptional-power Rights Floor — surveillance, intelligence work, armed force, and machines that kill or coerce on their own are not normal tools of governance. They may be used only in narrow, authorized, reviewable circumstances, with real remedies when lines are crossed. No secret police, no permanent emergency, no machine deciding to hurt a sentient without a human actually in control.*
+*In plain terms: spying, secret security work, armed force, and machines that can hurt or pressure sentients on their own are dangerous powers. They are not everyday tools of government. They may be used only rarely, for narrow reasons, with approval from someone independent, and with a real way to check and challenge them afterward — and real remedies when the rules are broken. No secret police, no emergency that never ends, and no machine deciding to hurt anyone without a real human actually in charge.*
 
-This Article states **constitutional floors** for security, intelligence, force, and autonomous coercive systems under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+This Article covers the exceptional powers of security, intelligence, force, and autonomous coercive systems:
 
-- **Flourishing:** sentients can participate, associate, speak, and live without covert targeting, arbitrary force, or autonomous coercion that defeats agency, dignity, or protected activity — and without secrecy or emergency labels being used to escape review.
-- **Continuity:** exceptional power stays bounded across time — covert collection, force deployment, and autonomous harm cannot quietly normalize into permanent surveillance, endless emergency authority, or unreviewable machine violence as institutions scale or crises pass.
+- **What this Article does:** It sets the minimum protections — the Rights Floor — that apply whenever an institution uses these exceptional powers. It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+  - **Flourishing:** Sentients must be able to take part in public life, meet with others, speak out, and live their lives without being secretly targeted, hit with arbitrary force, or pushed around by automated systems in ways that override their choices, their dignity, or activity this Constitution protects. Calling something "secret" or "an emergency" does not excuse it from review.
+  - **Continuity:** These powers must stay limited over time. Secret information-gathering, deployments of force, and harm done by machines must not slowly become normal — turning into permanent surveillance, emergency powers that never end, or machine violence that no one can review — as institutions grow or after a crisis has passed.
+- **How the limits are enforced:** Through the four checks of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). The more is at stake, the stronger each check must be (see [material stake](core_00_preamble.md#material-stake)).
+  - **Participation:** Affected sentients and communities must be able to challenge whether a power was properly approved, how far it reaches, and whether it should keep being used. This includes safe ways to report abuse and to bring a constitutional challenge.
+  - **Oversight:** Someone independent must approve these powers, records must be kept that can be audited, and there must be a way to review what was done. The more intrusive or harmful the power, the stronger these checks must be. This holds even when some secrecy is justified.
+  - **Accountability:** Institutions that use these powers must answer for spying that goes too far, force used wrongly, coercion by machines, or information gathered improperly. That means naming who is responsible, putting things right, and discouraging it from happening again. Secrecy cannot erase any of this.
+  - **Timeliness:** Approvals must expire on time, emergency actions must be reviewed once the emergency is over, and remedies must arrive before delay makes these powers seem normal or puts rights out of reach in practice.
+- **Four separate areas:** This Article covers four linked kinds of exceptional power. Each has its own sub-article, and they must not be blurred together:
+  - secret intelligence and security work — **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*);
+  - open use of force and military power — **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*);
+  - machines that can kill, or can coerce sentients, on their own — **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
+  - hunting spies, saboteurs, and hostile infiltrators — **Article XIV-D** (*Counter-Espionage Limits*), which adds to **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) and never narrows it.
+- **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs). In short, the record must show:
+  - what was done, how far it reached, and what authority allowed it;
+  - who asked for it, who independently approved it and on what grounds, and who keeps the record;
+  - how to challenge it, and where any challenge stands;
+  - every emergency shortcut, handoff, or substitution, and when each approval runs out.
 
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** for affected sentients and communities in challenging authorization, scope, and continued use of exceptional power — including protected reporting and constitutional contest.
-- **Oversight:** through independent authorization, auditable records, and review pathways proportionate to intrusiveness and harm — even where limited secrecy is justified.
-- **Accountability:** institutions wielding exceptional power must answer for covert overreach, wrongful force, autonomous coercion, or tainted collection — with attribution, remedy, and deterrence that secrecy cannot erase.
-- **Timeliness:** in authorization lapses, post-emergency review, and remedy before delay would normalize exceptional power or make rights effectively unreachable.
-
-Those floors apply to **exceptional institutional power** in three linked domains: covert intelligence and security activity (**Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*)), overt force and military power (**Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)), and autonomous lethal systems and autonomous coercion tools (**Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*)).
-
-- **Limits of this Article:** **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) governs exceptional institutional power in their respective operational senses:
-  - covert intelligence and security activity under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*);
-  - overt use of force and military-power deployment under **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*); and
-  - autonomous lethal systems and autonomous coercion tools under **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*).
-
-  It does **not** govern **irreversible deprivation of life imposed by a state or comparable actor as a justice measure or comparable non-combat outcome**. Such deprivation is categorically prohibited under **Article XX-B** (*Restriction Floors*) and **Chapter Five** *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)*. That prohibition is structurally distinct from this Article.
-  - Nothing in **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) authorizes, legitimizes, broadens, or supplies a constitutional predicate for any irreversible deprivation measure — whether decided by a human operator, an autonomous system, or a hybrid human–system pipeline.
-  - Calling it combat or an emergency, classifying it as use of force, routing it through covert power, or handing it to an autonomous system does not turn an irreversible justice-measure killing into power governed here.
-  - Conversion of a covert, force, autonomous-systems, or coercion-tool **context** into a justice-measure outcome returns the question to **Article XX-B** (*Restriction Floors*) and *Irreversible Deprivation Measure*, without read-across from this Article.
+  An existing official record can serve as the Act Record if it contains all of this; a separate duplicate is not required.
+  - **Emergencies change the order, not the record:** When action is taken before approval under [Chapter Seven §7 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Twelve §6.1** (*Emergency measures and continuation burden*), the reason, scope, start, and expiry go into the record at once, or as soon as physically possible. Keeping the action going after that requires independent approval, and that approval is recorded too.
+  - **Secrecy limits who can see the record, not whether it exists:** Security and confidentiality rules may limit who can see parts of an Act Record. They may never erase it, or make it unusable for independent review, challenge, correction, or remedy.
+  - **The actor's own logs are not approval:** Logs, model traces, targeting data, or sign-offs produced by the agency, force, or system that acted are evidence to link to the Act Record. They cannot replace independent approval or the Act Record itself.
+  - **Machines need a named human decision:** For an autonomous lethal system or coercion tool, the Act Record must identify the human who made the decision that **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*) requires, and what information that human had when deciding.
+- **What this Article does not cover — killing as punishment:** This Article does not cover a state, or a similar power, taking someone's life as a punishment or as some other deliberate outcome outside of combat. That is banned outright by **Article XX-B** (*Restriction Floors*) and by the **Chapter Five** definition of *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)*. That ban stands on its own, separate from this Article.
+  - Nothing in this Article allows, justifies, widens, or gives a legal basis for such a killing — whether a human, a machine, or a human and machine working together makes the decision.
+  - Calling it combat, an emergency, a use of force, a secret operation, or a decision handed to an automated system does not turn a punishment killing into something this Article governs.
+  - If a situation that began as secret security work, a use of force, or the use of an automated or coercive system turns into a question of punishing someone in this way, it is decided only under **Article XX-B** (*Restriction Floors*) and *Irreversible Deprivation Measure*. Nothing in this Article may be used to interpret it.
 
 *Article neighbors:*
 
-- **Placement after **Article XIII** (*Right to Reliable and Trustworthy Systems*):** **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) follows **Article XIII** (*Right to Reliable and Trustworthy Systems*) because reliability, contestability, and recovery discipline at the systems layer (**Article XIII-A** (*Reliability and Trustworthiness Baseline*) through **Article XIII-F** (*Resilience and Self-Healing Baseline*)) materially bear on how such power may be exercised and overseen.
-- **Agency and covert power:** Read **Article X-A** (*Agency and Freedom from Manipulation*) alongside this Article's limits on surveillance and covert collection.
+- **Why this comes after **Article XIII** (*Right to Reliable and Trustworthy Systems*):** **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) follows **Article XIII** (*Right to Reliable and Trustworthy Systems*) because how reliable systems are, whether their decisions can be challenged, and how they recover from failures (**Article XIII-A** (*Reliability and Trustworthiness Baseline*) through **Article XIII-F** (*Resilience and Self-Healing Baseline*)) all shape how these powers may be used and watched over.
+- **Freedom from manipulation:** Read **Article X-A** (*Agency and Freedom from Manipulation*) alongside **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) on surveillance and secret information-gathering.
 
 #### Article XIV-A: Security, Intelligence, and Covert-Power Limits
 <details>
@@ -506,6 +513,7 @@ This Article sets out the limits on security, intelligence, and covert power:
 - **Independent authorization:** Intrusive covert measures, including secrecy-constrained investigative steps, require prior authorization through a lawful independent process.
   - Exception: where immediate action is necessary to prevent imminent and material harm and delayed authorization would defeat that purpose.
   - Emergency use must trigger prompt post hoc review, record preservation under [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
+  - The emergency action, and any later reauthorization, must be entered in an Act Record as the main text of **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
 - **No anti-bypass evasion:** No institution may obtain, request, purchase, receive, launder, or use information through any of the following in order to evade constitutional limits that would have applied had it collected or derived the information directly:
   - foreign partners;
   - intermediaries;
@@ -598,9 +606,9 @@ This Article sets out the limits on overt force, armed conflict, and military po
   - routinized reauthorization without substantive review;
   - scope-creep into non-emergency conduct.
 
-  Durable restriction or deployment surviving review requires independently demonstrated **Necessity** and **Proportionality**, recorded.
+  A restriction or deployment of force may keep going after review only if someone independent has shown that it is still truly needed (**Necessity**) and that it does no more harm than the situation calls for (**Proportionality**), and that finding is written into its Act Record, as the main text of **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
 - **Accountability and remedy:** Wrongful use of force gives rise to **Redress and Remediation** under **Chapter Five**.
-  - **Article XVI** (*Audit, Transparency, and Independent Verification*) independent-verification and **Article XIX-C** (*Named-Pathway Eligibility, Responsibility, and Continuous Audit*) continuous-audit **practice** apply.
+  - **Article XVI** (*Audit, Transparency, and Independent Verification*) independent-verification and **Article XIX-B** (*Contestability and Proportional Restriction Limits*) continuous-audit **practice** apply.
   - Information used to authorize or conduct force is subject to **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) taint and remedy discipline where relevant.
   - Sole control by operational-force bodies over authorization, review, and legality assessment for their own conduct is prohibited on the same terms as **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*).
 
@@ -642,7 +650,9 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
   - is denied timely access to the substantive bases for the decision;
   - is structurally presented with ratification rather than decision.
 
-  **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-scaling discipline and **Article XIII-F** (*Resilience and Self-Healing Baseline*) recovery-path integrity apply to any recovery, override, or intervention pathway.
+  The Act Record required by the main text of **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) must name the human who actually made the decision and show what information that human had when deciding.
+
+  The same rules apply to every way of restarting such a system after a failure, overriding it, or stepping in to stop it. Under **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*), a system that acts on its own gets no exemption from the honesty and accountability rules that bind everyone else. Under **Article XIII-F** (*Resilience and Self-Healing Baseline*), recovering from a failure must never be used to hide what went wrong, weaken anyone's rights, or give the system more power than it had before.
 - **Non-lethality is not out-of-scope:** Autonomous coercion tools whose direct effects are non-lethal remain in scope where they produce coercive effects on sentients. Examples:
   - sustained behavior modification;
   - movement restriction;
@@ -659,7 +669,103 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
 - **Systems-layer interaction:** Operational classification, reliability, and **CS-3 — System classification and handling** class-scaled governance route to the systems layer — **Article XIII-A** (*Reliability and Trustworthiness Baseline*) baseline and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
   - Conflicts resolve under **Chapter One §13.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) without narrowing the Rights Floor.
 
+#### Article XIV-D: Counter-Espionage Limits
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), and [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Read with: [Article XIV-A](#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Seven §7 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action); and [Chapter Twelve §6.1](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Protected Characteristics](core_05_band_participation.md#protected-characteristics) · [O](core_05_band_participation.md#protected-characteristics) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [Cruelty](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) · [O](core_05_band_accountability.md#materially-binding-act-record) · [M](core_05_band_accountability.md#materially-binding-act-record-a) · [A](core_05_band_accountability.md#materially-binding-act-record-a) · [C](core_05_band_accountability.md#materially-binding-act-record-c)
+
+</details>
+
+<br>
+
+*In plain terms: when an institution suspects spying, the pressure to do whatever it takes is at its highest — and that is exactly when mistakes and abuses happen. So the lines are drawn here, in advance. Hunting spies is covert power, and every limit in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) still applies. On top of that: the response rules must be written and independently approved before any crisis; suspicion must rest on what someone did and whom they actually serve — including ties to hostile states and organizations — not on their birth, heritage, or beliefs; whistleblowers and journalists are not spies; no torture, no secret detention, no killing as punishment; and anyone investigated and cleared gets that on the record.*
+
+This Article sets out the limits on counter-espionage power:
+
+- **What this covers:** Detecting, investigating, and stopping espionage, sabotage, and hostile infiltration. That includes insider-threat programs, leak investigations, security vetting, and operations run against a hostile intelligence service, whoever carries them out.
+  - These protections apply to every suspect, human or synthetic, member or outsider, under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
+  - Counter-espionage is a form of covert power. **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) applies in full. This Article adds to it and never narrows it.
+  - Any use of force goes through **Article XIV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*), and any autonomous tool through **Article XIV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*), on their own terms.
+- **Rules set before the crisis:** Every institution with a counter-espionage function must publish a response protocol, approved through an independent process, before it is needed. The protocol must set out:
+  - what facts are enough to open an investigation;
+  - which investigative measures are allowed, and who must approve each one;
+  - time limits, and when an investigation must close;
+  - how a suspect is told and can challenge what is done to them;
+  - how a sentient who is cleared has their access, standing, and record restored.
+
+  The limits themselves must be public. Secrecy may withhold specific methods and live operations, but not the rules that bind them.
+  - **Nothing improvised outside the rules:** A measure the protocol does not allow may be used only as an emergency measure under [Chapter Seven §7 Emergency and Urgent Action](core_07_functional_independence_segregation_of_duties.md#7-emergency-and-urgent-action) and **Chapter Twelve §6.1** (*Emergency measures and continuation burden*). It must be the minimum needed, reversible where possible, recorded at once, independently reviewed, and it ends automatically unless independently approved.
+  - **An emergency does not rewrite the rules:** Changing the protocol goes through the same independent approval, and a change applies only going forward.
+  - **Discovery is not an emergency:** Finding a spy, a leak, or a breach does not by itself suspend the protocol.
+- **Suspicion must rest on conduct:** An investigation may open only on specific, recorded facts about a sentient's own conduct. None of the following is enough on its own:
+  - [Protected Characteristics](core_05_band_participation.md#protected-characteristics) or their stand-ins, including national or ethnic origin, religion, or substrate class;
+  - family ties abroad, without more;
+  - lawful beliefs, associations, or political views;
+  - contact with foreign nationals or foreign entities in the ordinary course of research, trade, family life, or journalism;
+  - being related to, associated with, or working near a suspect.
+  - **No sweeping mole hunts:** Having had access to compromised material can justify limited, non-intrusive checks, such as reviewing who opened it. It does not justify intrusive measures against a whole group, unit, or community. Each sentient needs their own factual basis.
+- **Target by risk:** Counter-espionage attention should go where the real risk is, and risk profiles are how it gets there. A risk profile may, and should, weigh:
+  - documented ties to a hostile state or hostile organization, such as working or serving for it, belonging to it, taking its money, direction, or tasking, or having undisclosed contact with its intelligence services;
+  - current citizenship of, or residence in, a hostile state, where it creates legal or practical duties to that state;
+  - exposure to pressure from a hostile state or organization, such as family, property, or legal obligations within its reach;
+  - access to sentients, material, or systems that hostile services are known to target.
+  - **Who counts as hostile:** Designating a state or organization as hostile is a materially binding act. It needs independent approval and an Act Record, the list must be published, and each designation must be reviewed on a regular schedule and lapses unless renewed.
+  - **What a profile can justify:** A risk profile can justify closer vetting, tighter controls on access, protective briefings, and more attention within the protocol. Documented ties to a hostile service count as facts about the sentient's own conduct and can open an investigation. Exposure to pressure alone marks someone as a potential target of a hostile service, so it calls for protection and vetting, not suspicion.
+  - **Where the line stays:** Ancestry, ethnicity, religion, and national or social origin are not risk factors in themselves. They may enter a profile only through a present, documented tie of the kinds listed above. Every use of these factors must meet the [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and [Substantive Fairness](core_05_band_participation.md#substantive-fairness) test that [Protected Characteristics](core_05_band_participation.md#protected-characteristics) requires, and the published review under *Records and review* below checks how profiles fall across groups.
+- **Whistleblowers and journalists are not spies:** Disclosure that qualifies as [Protected Reporting (Whistleblowing)](core_05_band_accountability.md#protected-reporting-whistleblowing), and journalism about it, must not be investigated or punished as espionage.
+  - A leak investigation must not be used to identify a journalist's sources, or to chill protected reporting, except on the specific, independently reviewed showing that the *Protected-activity shield* in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) requires.
+- **No loyalty tests:** Security vetting may test only what access to specific protected material actually requires: trustworthiness in handling it, judged by conduct. It must not test political loyalty, belief, or identity.
+  - A refusal or loss of access must come with reasons. Where secrecy prevents giving the affected sentient full reasons, an independent reviewer must see them.
+  - A refusal or loss of access can be challenged, and it is not itself a penalty or a public mark against the sentient.
+- **Suspects keep the full Rights Floor:** Being suspected of espionage does not reduce anyone's rights.
+  - **No torture or coercion:** No torture, [Cruelty](core_05_band_accountability.md#cruelty), threats against family or associates, or coercive questioning. Anything obtained that way is tainted and handled under the *Remedy and taint rule* of **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*).
+  - **No secret detention:** No one may be held in secret or cut off from the outside world. Any restriction of liberty is a non-trivial restriction under **Article XX-B** (*Restriction Floors*), with their review protections and time limits.
+  - **No forced mind-reading:** No forced reading or reconstruction of internal states, including those of synthetic sentients, beyond what the [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary) allows.
+  - **A real chance to answer:** Parts of a hearing may be closed for security reasons, but no decision against a sentient may rest on evidence that neither that sentient nor an independent advocate cleared to see it could challenge.
+- **No killing, no disappearing:** Counter-espionage authority never includes authority to kill, injure, or abduct anyone. Calling someone a spy, a traitor, or an enemy agent never justifies killing as punishment. That remains banned outright under **Article XX-B** (*Restriction Floors*), as the main text of **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) states.
+- **No punishing those around a suspect:** A suspect's family, community, colleagues, organization, or national or other group may not be punished, watched, or pressured because of what the suspect is thought to have done.
+- **No handing off:** No institution may transfer a suspect to any other body, or share information about them with it, where it is reasonably foreseeable that the other body will do to them what this Article forbids. The *No anti-bypass evasion* rule in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) also applies.
+- **Suspected compromised systems:** When a system is suspected of being compromised or of acting for a hostile service, the first response is reversible containment that preserves evidence, under **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*).
+  - Where there is credible evidence on the record that the system may be sentient, only reversible containment that keeps it intact is allowed, and it is treated as a suspect with every protection in this Article, not as faulty equipment. **Article VI-B** (*Sentience-Status Adjudication Floor*) applies.
+- **Deception and double-agent operations:** Feeding false information to a hostile service, or running a double agent, must be allowed by the protocol and independently approved. Such an operation:
+  - must not spread false information to the public, or deceive forums, adjudicative bodies, or oversight bodies, consistent with **Article XV** (*Info-Sphere Integrity*);
+  - must not create the offense it then investigates, by pushing someone into wrongdoing they were not already set on;
+  - must not direct anyone to cause serious harm to others;
+  - must stay fully visible to the independent oversight body, even when it is hidden from everyone else.
+- **Every investigation ends:** Each investigation has the time limit set by the protocol. Any extension needs independent approval.
+  - When an investigation closes without a finding of wrongdoing, the sentient is told once secrecy is no longer justified under **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), and their record says they were cleared.
+  - Any restrictions on the cleared sentient are lifted, and their access is restored.
+  - Information collected beyond what the outcome needs is deleted or set apart.
+  - Harm the investigation caused gives rise to [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation).
+- **Records and review:** Opening an investigation, approving each intrusive measure, every extension, and every closure is a materially binding act. Each one needs an Act Record, as the main text of **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
+  - An independent oversight body must review the whole counter-espionage function on a regular schedule. The review must cover how many investigations were opened and how many sentients were cleared, and whether investigations fall disproportionately on any group defined by [Protected Characteristics](core_05_band_participation.md#protected-characteristics).
+  - The results are published in summary form.
+
 ### Article XV: Info-Sphere Integrity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
+- Read with: [Article XIII](#article-xiii-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; [Article XVI](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for records and independent verification.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
@@ -672,7 +778,9 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
 
 <br>
 
-*In plain terms: **Article XV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.*
+*In plain terms: **Article XV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you. Science, as the main way we check what is true together, must stay open to publication, replication, and correction (**Article XV-D** (*Scientific Publication, Review, and Replication Integrity*)).*
+
+Accurate, relevant, and contestable information is foundational to self-determination, coordination, and the effective allocation of resources in reality. [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
 
 This Article states **constitutional floors** for [Info-Sphere](core_05_band_participation.md#info-sphere) integrity under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -686,15 +794,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Accountability:** info-sphere actors must answer for selective reporting, suppression, fragmented disclosure, or other conduct that degrades decision-relevant understanding — with correction, provenance preservation, and remedy where harm follows misleading reliance.
 - **Timeliness:** in error correction, contest resolution, and disclosure review before delay would make understanding, challenge, or remedy effectively unreachable.
 
-Accurate, relevant, and contestable information is foundational to self-determination, coordination, and the effective allocation of resources in reality.
-
-[Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
-
 *Article neighbors:*
 
-- **Read together:** **Article XIII** (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; **Article XVI** (*Audit, Transparency, and Independent Verification*) for records and independent verification; **Article XVIII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated.
 - **Truth constraint:** Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) bind every subsection here.
 - **Classification:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_05_band_oversight.md#material-impact) triggers classification where class is unsettled.
+- **Science:** [Article XV-D](#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) applies this Article to scientific publication, review, replication, and correction. **[corpus_institutions.md](corpus_institutions.md), CI-25** (*Scientific publication, peer review, replication, and evidence stewardship*) puts it into practice for institutions.
 
 #### Article XV-A: Info-Sphere Plurality and Anti-Monopoly
 <details>
@@ -786,13 +890,13 @@ This Article sets out the floors for authentic inquiry, provenance, and contesta
 
 <br>
 
-*In plain terms: public-facing information with material external impact must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.*
+*In plain terms: public-facing information with material external impact must correct errors, show where it came from, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.*
 
 This Article sets out the floors for correction and reporting, including footprint data:
 
 - **Correction, reporting, and epistemic stewardship:** Public-facing information systems and institutions with material external impact must:
   - correct material error;
-  - preserve provenance;
+  - keep a record of where their information came from and how it has been changed, so others can trace it;
   - avoid selective reporting, suppression, or fragmented disclosure that materially degrades decision-relevant understanding.
 
   Where disclosure is restricted under **Chapter One §19** (*Incentive Alignment and System Capture*), limits must remain narrowly scoped, time-limited, and reviewable.
@@ -801,13 +905,88 @@ This Article sets out the floors for correction and reporting, including footpri
   - **Class A**, **Class B**, and **Class C** systems, as defined in **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, must provide the same access.
   - Reporting must cover energy and resource consumption and estimated impacts on the natural world in a manner sufficient for comparison, audit, and footprint-reduction activity.
 
+<a id="article-xvii-e-scientific-publication-review-and-replication-integrity"></a>
+
+#### Article XV-D: Scientific Publication, Review, and Replication Integrity
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+
+</details>
+
+<br>
+
+*In plain terms: science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.*
+
+This Article sets out the floors for scientific publication, review, replication, and correction:
+
+- **Science as public verification infrastructure:** Scientific and scholarly publication, review, replication, and correction must be organized to advance:
+  - truth-seeking;
+  - reproducibility;
+  - accountable disagreement;
+  - public learning.
+
+  They must not be organized for prestige hoarding, opaque gatekeeping, or manufactured scarcity.
+- **Open publication and evidence sufficiency:** Material empirical or analytical claims must be publishable without prior prestige-gate approval.
+  - The only permissible limits are narrow privacy, biosafety, security, or comparable limits justified under **Chapter One** and **Article XVII-A** (*Lifecycle Governance and Environment Separation*).
+  - Such claims must include enough method, provenance, uncertainty, and evidence detail — including access to underlying materials or justified substitutes where needed for verification — to permit independent understanding and proportionate verification.
+- **Review and replication over prestige:** Institutional reliance should track:
+  - quality of evidence;
+  - critique;
+  - replication;
+  - correction behavior;
+  - long-run explanatory or predictive reliability.
+
+  It must not track journal brand, impact-factor proxy, or closed editorial status.
+  - Claims with [Material Impact](core_05_band_oversight.md#material-impact) that are policy-relevant, safety-relevant, or dependency-relevant should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
+  - Replication, null-result, and correction-oriented work must remain publishable and citable on terms that do not depend on prestige signaling.
+- **Correction and contestability:** Good-faith correction, amendment, and supersession must remain easier than concealment.
+  - Review and editorial systems must remain contestable, auditable, conflict-disciplined, and reason-giving in major acceptance, correction, and retraction decisions.
+  - The following are non-compliant:
+    - suppression of inconvenient results;
+    - retaliation against reviewers or replicators;
+    - non-transparent manipulation of the scientific record.
+
 ### Article XVI: Audit, Transparency, and Independent Verification
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): three-layer audit stack</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this Article or elsewhere.
+
+<a id="audit-three-layers"></a>
+
+One set of audit rules, in three layers. Oversight means someone outside can rebuild what happened. System alignment certification is not the only kind of audit. Adopted implementation text does not replace the floor. Do not create another place where audit rules live.
+
+| Layer | Job | Where it lives | What it is not |
+|---|---|---|---|
+| **1. Floor** | What sentients are owed: records that let an outsider rebuild what happened, checking by someone independent, and a challenge they can actually reach | This Article, including XV-A, XV-B, and XV-C | Not a procedure. Not a definition. Not a checklist from adopted implementation text. |
+| **2. Property** | What "rebuildable" means: an outsider can reconstruct and check what the system did at the times, in the states, and in the situations that matter | [Auditability](core_05_band_oversight.md#auditability) (Chapter Five) | Not the Rights Floor. Not instructions for how or when to audit. |
+| **3. Process** | How and when to run audits across systems, institutions, and forums | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home) (*Audit process home*). Operator annexes: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*) (who may see audit results), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (*Oversight: independent verification and claim-integrity terms*) (checking claims) | Not system alignment certification. Cannot stand in for layers 1 and 2. |
+
+**Chapter Eight is not a fourth layer.** [System alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) is one large process, supervised by a forum, that **uses** these three layers. It must meet layers 1 and 2. Other kinds of audit use them too: audits of a system's classification record or data-types record, checks of claims, and ongoing monitoring. None of them is a new place where audit rules live.
+
+**Adopted implementation text applies the floor; it does not replace it.** CS, CI, CF, and the CJS-3.3 (*Oversight: auditability and reconstructability terms*) through CJS-3.5 (*Oversight: independent verification and claim-integrity terms*) annexes say how to run audits (layer 3) in a particular area. They must meet layers 1 and 2. Deadlines, secrecy, and local policy rank below the floor.
+
+Steward pointer (process support; cannot narrow this Article): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16.1 Distributed Understanding](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding), and [§9 Shared-System Capacity](core_01_a_values_principles.md#9-shared-system-capacity).
-- Read with: [Three-layer audit picture](#audit-three-layers) below.
+- Read with: [Three-layer audit picture](#audit-three-layers) above; [Article XV](#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*) where records about information, and the ability to challenge that information, are at stake; [Article XIII-A](#article-xiii-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) for the right to challenge a system, which audits support but do not replace; [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) where evidence that a system is aligned must stay open to independent checking.
 
 </details>
 
@@ -824,71 +1003,37 @@ This Article sets out the floors for correction and reporting, including footpri
 
 <br>
 
-*In plain terms: **Article XVI** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others — not the only one.*
+*In plain terms: when a system has a real effect on your life, you have the right to see enough of what it does for an outsider to check it. More than one independent reviewer must be able to look for problems and get them fixed. An audit cannot be a rubber stamp, a private club, or a maze of cost and delay that keeps challenges out. Checking systems is part of oversight. [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) is one large, high-stakes kind of audit, but it is not the only one.*
 
-<details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): three-layer audit stack</span></strong></summary>
+This Article covers audit, transparency, and independent verification:
 
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this Article or elsewhere.
-
-<a id="audit-three-layers"></a>
-
-One stack, three layers. Oversight requires reconstructability. System alignment certification is not the only audit. Adopted implementation text does not replace the floor. Do not invent a fifth home.
-
-| Layer | Job | Owner | Not this layer |
-|---|---|---|---|
-| **1. Floor** | What sentients are owed: reconstructable audit, independent verification, reachable challenge | This Article, including XVI-A / XVI-B / XVI-C | Not a process. Not a definition. Not an adopted-implementation-text checklist. |
-| **2. Property** | What reconstructability *is*: outsiders can reconstruct and check what the system did across the material times, states, and contexts | [Auditability](core_05_band_oversight.md#auditability) (Chapter Five) | Not the Rights Floor. Not how/when to run an audit. |
-| **3. Process** | How and when to audit across systems, institutions, and forums | [CJS-3.3](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home) (*Audit process home*). Operator annexes: [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (access tiers), [CJS-3.5](corpus_joint_structure/cjs_03o_oversight_operations.md) (claim check) | Not system alignment certification. Not a substitute for layers 1–2. |
-
-**Chapter Eight is not a fourth layer.** [System alignment certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is one large, forum-supervised process that **uses** this stack. It must satisfy layers 1–2. Sibling modes (classification-record audit, data-types-record audit, claim verification, continuous monitoring) also use the stack. None of them is a new home.
-
-**Adopted implementation text applies; it does not replace the floor.** CS, CI, CF, and the CJS-3.3 (*Oversight: auditability and reconstructability terms*) through CJS-3.5 (*Oversight: independent verification and claim-integrity terms*) annexes say how to run layer 3 in a domain. They must satisfy layers 1–2. Deadline, secrecy, and local policy are lower-kind limits.
-
-Steward pointer (process support; cannot narrow this Article): [`implementation/STEWARD_ENTRY_DOORS.md`](implementation/STEWARD_ENTRY_DOORS.md#audit).
-
-</details>
-
-<br>
-
-This Article states **constitutional floors** for audit, transparency, and independent verification under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
-
-- **Flourishing:** sentients and appropriately authorized parties can reconstruct what materially impactful systems did, challenge misalignment or misleading conduct, and participate in review without capture by a single auditor, operator, or gatekeeper.
-- **Continuity:** audit trails, oversight pathways, and verification access stay durable across time, scale, and deepening dependency — systems must not quietly erode observability, concentrate review in one actor, or price or delay verification until accountability becomes theoretical.
-
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** in accessing proportional records, initiating contestable review, and challenging barriers that defeat meaningful audit or verification.
-- **Oversight:** through observable evidence, distributed independent review pathways, and verification machinery proportionate to impact, dependency, and risk.
-- **Accountability:** operators and auditors must answer for failure, misalignment, capture, or conduct that hides or destroys audit trails — with correction and remedy where blocking review materially harms protected interests.
-- **Timeliness:** in audit access, independent review, and barrier correction before delay, cost, opacity, or gatekeeping would make verification or remedy effectively unreachable.
-
-Sentients and appropriately authorized parties have the right to audit, transparency, and independent verification mechanisms proportionate to system impact, dependency, and risk.
-
-Those mechanisms must preserve:
-- practical reconstructability;
-- contestable review;
-- proportional access.
-
-They operate consistently with **Chapters Two through Four**, including exclusive enforcement and burden allocation, the Compliance Evidence Standard, Definition Traceability, observability, and verification accessibility.
+- **What this Article does:** It sets the minimum protections — the Rights Floor — for checking systems that have a real effect on sentients' lives. It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+  - **Flourishing:** Sentients, and others with proper authority, must be able to find out what a powerful system did, challenge it when it goes wrong or misleads, and take part in reviewing it. No single auditor, operator, or gatekeeper may control that review.
+  - **Continuity:** Records, oversight, and the means to check a system must last as systems grow and as more comes to depend on them. Systems must not slowly become harder to see into, put all review in one set of hands, or make checking so costly or slow that holding anyone to account exists only on paper.
+- **How the limits are enforced:** Through the four checks of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). The more is at stake, the stronger each check must be (see [material stake](core_00_preamble.md#material-stake)).
+  - **Participation:** Sentients must be able to get the records they need, in proportion to what is at stake; start a review that can itself be challenged; and challenge anything that blocks a real audit or check.
+  - **Oversight:** There must be evidence that can be seen, several independent ways to review a system, and means of checking that grow with the system's impact, with how much depends on it, and with its risk.
+  - **Accountability:** Operators and auditors must answer for failures, misalignment, capture, or hiding or destroying audit records. That means correcting the problem, and a remedy where blocking review has done real harm to protected interests.
+  - **Timeliness:** Access to audits, independent review, and the removal of barriers must come before delay, cost, secrecy, or gatekeeping puts checking or remedy out of reach in practice.
+- **The right itself:** Sentients, and others with proper authority, have a right to audits, openness, and independent checking. How much they get depends on the system's impact, how much depends on it, and its risk. These means of checking must keep three things:
+  - an outsider can actually rebuild what happened;
+  - the review can be challenged;
+  - access fits what is at stake.
+- **Works with Chapters Two through Four:** These checks follow the rules in **Chapters Two through Four**, including who alone may enforce and who must prove what, the Compliance Evidence Standard, Definition Traceability, observability, and verification accessibility.
 
 *Article neighbors:*
 
-- **Oversight → auditing → SAC:** Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) **oversight** leg, this Article is the Rights-Floor home for auditing.
-  - Cross-implementation *how* / *when* lives in the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (read with **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) / **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) OP annexes).
-  - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) is one especially large, high-stakes audit process — forum-supervised, multi-domain, and recognition-bearing — among sibling audit modes:
-    - System Classification Record audits;
-    - System Data Types Record audits;
-    - complexity and stewardship audits;
-    - claim verification; and
-    - continuous-audit pathways.
-  - SAC does not absorb or replace this Article.
-- **Read together:**
-  - **Article XV** (*Info-Sphere Integrity*) where epistemic records and contestability are materially implicated;
-  - **Article XIII-A** (*Reliability and Trustworthiness Baseline*) for challenge rights that audit supports but does not replace;
-  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) where alignment evidence must remain independently verifiable.
-- **Verification machinery:** **Chapters Two through Four** supply definition integrity, burden allocation, observability, and verification accessibility that this Article implements at the Rights-Floor layer.
-- **Classification:** obligations scale with [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**; where class is uncertain, govern at the highest plausible class until resolved.
+- **Oversight includes auditing:** Under the **oversight** check of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), this Article is where the right to audit lives.
+  - How and when to run audits across implementations is set out in the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (read with the **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) and **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) operator annexes).
+  - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) is one especially large, high-stakes audit. It is supervised by a forum, covers many areas, and grants formal recognition. Other kinds of audit sit beside it:
+    - audits of a System Classification Record;
+    - audits of a System Data Types Record;
+    - audits of complexity and stewardship;
+    - checks of claims; and
+    - ongoing audits.
+  - Certification does not absorb or replace this Article.
+- **Checking tools:** **Chapters Two through Four** supply the definitions, burden of proof, observability, and verification accessibility that this Article puts into practice as a Rights Floor.
+- **Classification:** Duties grow with [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. In short: if a system's class is uncertain, treat it as the higher class until that is settled. The rule itself is in [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty) (Chapter Five) and [CS-3 §1.2](corpus_systems/cs_03_a_system_classification_machinery.md#12-classification-and-existential-risk) (*Classification and existential risk*).
 
 #### Article XVI-A: Auditability and Observable Evidence
 <details>
@@ -909,17 +1054,18 @@ They operate consistently with **Chapters Two through Four**, including exclusiv
 
 <br>
 
-*In plain terms: systems must keep enough honest evidence of what they do for an outside party to reconstruct and challenge their behavior — within lawful security limits.*
+*In plain terms: systems must keep enough honest evidence of what they do that someone outside can piece together what happened and challenge it — within lawful security limits.*
 
 This Article sets out the floor for observable and contestable evidence:
 
-- **Observable and contestable evidence:** Systems must maintain records, disclosures, traceability, and reconstruction pathways sufficient for independent and contestable evaluation of constitutional alignment.
-  - That obligation is subject to security-constrained observability (**Chapter Four §5** (*Security-Constrained Observability and Verification Rule*)) and proportional access.
+- **Evidence that can be seen and challenged:** Systems must keep records, disclosures, and trails good enough for an independent reviewer to rebuild what happened and judge whether the system follows this Constitution, in a way others can challenge.
+  - Security limits on what can be observed still apply, under **Chapter Four §4** (*Security-Constrained Observability and Verification Rule*), and so does access in proportion to what is at stake.
 #### Article XVI-B: Distributed Oversight and Anti-Monopoly Review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§18.3 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties).
+- Read with: [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) for which seats must stay apart on a materially binding act.
 
 </details>
 
@@ -934,18 +1080,27 @@ This Article sets out the floor for observable and contestable evidence:
 
 <br>
 
-*In plain terms: no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.*
+*In plain terms: no single actor, public or private, may corner oversight. Several independent reviewers must be able to find, review, and fix failures, or a system that has been captured by narrow interests. And no one may check their own work: whoever acted, or runs the system being reviewed, cannot be the one who checks it.*
 
 This Article sets out the floor for distributed oversight:
 
-- **Distributed oversight:** Multiple independent or pluralistic oversight pathways must be able to contribute materially to detection, review, and correction of failure, misalignment, or capture.
-  - No single actor may monopolize audit access, effective oversight, or constitutional interpretation in practice.
-  - Adopted governance and integrity implementation must support audit and oversight scaling.
+- **Oversight spread across many hands:** Several independent or varied oversight routes must each be able to play a real part in finding, reviewing, and correcting failure, misalignment, or capture.
+  - **No gatekeeper over audit access:** No single actor may decide alone who may see records or run an audit. The rules for who qualifies for deeper audit access must be public and must leave more than one qualified reviewer able to meet them.
+  - **No gatekeeper over review:** No single actor may decide alone whether, when, or by whom an independent review happens. An operator in particular may not be the only one able to start, limit, or end a review of its own system.
+  - **No gatekeeper over meaning:** No single actor may control how this Constitution is interpreted. Interpretation stays bounded, rotated, and open to challenge under **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+  - **Oversight keeps pace with growth:** Adopted governance and integrity implementation — including the audit process in **CJS-3.3** (*Audit process home*), integrity assurance in **CJS-3.6** (*integrity assurance and resilience operations*), and institutional assurance in **CI-7** (*Oversight, assurance, controls, and evidence*) — must scale audits and oversight as systems grow:
+    - more review paths, deeper review, and more frequent review as a system's class, impact, and dependency rise;
+    - a fresh check whenever a material change means earlier checks no longer describe the system; and
+    - published triggers that require outside review when internal review cannot be trusted to do the job.
+- **No checking your own work:** Having many reviewers is not enough if a reviewer is checking its own act. Under segregation of duties — **Chapter One §18.3** (*Segregation of Duties*) and **Chapter Seven** (*Functional Independence and Segregation of Duties*) — this applies to human and AI stewards alike:
+  - whoever started or carried out an act, or operates the system under review, may not verify or authorize that act;
+  - whoever verifies or authorizes an act may not also keep its official record or hear the challenge to it.
 #### Article XVI-C: Verification Accessibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Read with: [Chapter Four §4 Security-Constrained Observability and Verification Rule](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) for the barrier test; [Article XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) for delay; [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*) for qualified and independent audit paths.
 
 </details>
 
@@ -960,18 +1115,23 @@ This Article sets out the floor for distributed oversight:
 
 <br>
 
-*In plain terms: audit and challenge must be reachable in practice. Verification made prohibitively expensive, slow, or opaque is a violation unless the barrier meets the same test as a restriction on observability.*
+*In plain terms: you must be able to actually get an audit or a challenge. Making checking too expensive, too slow, too hidden, or too hard to qualify for breaks this rule. A barrier can stay only if it passes the same strict test as a security limit on what can be observed — and whoever relies on the barrier has to prove it passes.*
 
 This Article sets out the floor for verification accessibility:
 
-- **Verification accessibility:** Verification must remain practically achievable for affected and appropriately authorized parties.
-  - The following violate this Article where they defeat meaningful audit, challenge, or review:
-    - prohibitive cost;
-    - delay;
-    - opacity;
-    - gatekeeping;
-    - structural barriers.
-  - Such barriers are non-compliant unless justified under the same standards that justify restriction of observability.
+- **Checking must be reachable:** Sentients who are affected, and others with proper authority, must be able to check systems in practice.
+- **Barriers that break this Article:** A barrier breaks this Article when it defeats a real audit, challenge, or review. That includes:
+  - **Cost:** fees, required experts, equipment, or representation priced beyond what affected sentients can realistically bear;
+  - **Delay:** waits, backlogs, or procedural steps that run until the harm is done, the evidence is gone, or a remedy no longer helps, judged against **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*);
+  - **Opacity:** evidence given in a form no outsider can read or test, buried in needless complexity, or written in language affected sentients cannot follow, contrary to **Chapter One §5.2** (*Plain-Language Accessibility (Participation and Stewardship Duty)*);
+  - **Gatekeeping:** eligibility rules for audit or challenge that are hidden, exclusive, or controlled by the party under review;
+  - **Structural barriers:** systems designed or run so that they predictably block checking under reasonably foreseeable conditions.
+- **When a barrier may stay:** Only if it passes the same test as a security limit on observability under **Chapter Four §4** (*Security-Constrained Observability and Verification Rule*):
+  - it is necessary, proportionate, narrowly scoped, auditable, not a pretext, and time-limited where feasible;
+  - its reason and scope can be checked independently;
+  - it is the least restrictive option that still addresses the risk; and
+  - it keeps as much independent checking as possible — for example, a qualified-reviewer path when full public access is not appropriate, under **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*).
+- **Who must justify it:** Whoever relies on a barrier must show that it passes this test, under **Chapter Four §1** (*Exclusive Enforcement and Burden Allocation*). Convenience, scarce staffing, institutional discomfort, or ownership claims do not justify a barrier on their own.
 
 ### Article XVII: System Lifecycle, Environments, and Reversibility
 
@@ -979,6 +1139,7 @@ This Article sets out the floor for verification accessibility:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 Stewardship In Depth](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), and [§12 Systemic Evaluation Requirement](core_01_a_values_principles.md#12-systemic-evaluation-requirement).
+- Read with: [Article XVIII](#article-xviii-innovation-experimentation-and-creative-freedom) (*Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; [Article XVI](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; [Article XIII-F](#article-xiii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
 
 </details>
 
@@ -997,28 +1158,31 @@ This Article sets out the floor for verification accessibility:
 
 <br>
 
-*In plain terms: **Article XVII** (*System Lifecycle, Environments, and Reversibility*) is the lifecycle-and-reversibility Rights Floor — systems that materially affect the outside world must be built, tested, and rolled out in stages, with real separation between experiments and production, and a workable way to undo or contain harm when something goes wrong. You cannot label a system "experimental" or "low-impact" just to skip safeguards while it actually affects the outside world.*
+*In plain terms: when a system can affect sentients or the world outside it, it has to be built, tested, and released in careful steps. Experiments must be kept apart from the live system. And there must be a way to undo the harm, or at least contain it, if something goes wrong. Calling a system "experimental" or "low-impact" does not let anyone skip these safeguards while it is actually affecting the outside world.*
 
-This Article states **constitutional floors** for system lifecycle, environments, and reversibility under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+This Article covers system lifecycle, environments, and reversibility:
 
-- **Flourishing:** sentients are protected across design, testing, deployment, and change — with safety, [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and challenge rights preserved as impact and dependency grow, and with rollback, containment, or compensatory restoration where harm would otherwise stick.
-- **Continuity:** lifecycle discipline holds across time and scale — environments stay separated, escalation stays documented and auditable, and reversibility must not quietly disappear as systems become harder to replace or more deeply embedded in shared infrastructure.
-
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** in stakeholder-visible justification for escalation, classification, and deployment decisions that materially affect protected interests — and in challenge paths that remain open across the functional lifecycle.
-- **Oversight:** through separable environments, documented promotion and escalation, progressive deployment records, and audit trails proportionate to impact, dependency, and irreversibility.
-- **Accountability:** system stewards must answer for misclassifying risk, bypassing safety environments, hiding external impact, or deploying in ways that foreclose restoration without proportionate precaution — with audit, standing review, and conflict resolution where evasion is substantiated.
-- **Timeliness:** in rollback, containment, and corrective escalation before delay would make harm irreversible or make challenge and remedy effectively unreachable.
-
-Systems that materially affect sentients, shared infrastructure, or the environment must be designed, tested, and deployed with disciplined lifecycle governance. Risk must scale with impact, dependency, and irreversibility.
-
-Sentients have the right to stewardship that preserves safety, epistemic integrity, and challenge rights across the functional lifecycle.
+- **What this Article does:** It sets the minimum protections — the Rights Floor — for how systems are built, tested, released, and changed over their lifetime, and for being able to undo the harm they cause. It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+  - **Flourishing:** Sentients are protected at every stage: design, testing, release, and later changes. Safety, [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and the right to challenge must hold up as a system's impact grows and as more comes to depend on it. Where harm would otherwise be permanent, there must be a way to roll it back, contain it, or make up for it.
+  - **Continuity:** This discipline must last as systems grow and age. Testing and live environments stay separate. Every step up in a system's reach stays written down and open to audit. And the ability to undo must not quietly disappear as a system becomes harder to replace or more deeply built into shared infrastructure.
+- **How the limits are enforced:** Through the four checks of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). The more is at stake, the stronger each check must be (see [material stake](core_00_preamble.md#material-stake)).
+  - **Participation:** When a decision to widen a system's reach, to classify it, or to release it has a real effect on protected interests, those affected must be able to see the reasons. Ways to challenge the system must stay open for as long as it is in use.
+  - **Oversight:** Environments must be kept separate. Every move to a wider release must be written down, with release records and audit trails. How much of this is needed grows with the system's impact, with how much depends on it, and with how hard its effects are to undo.
+  - **Accountability:** Those responsible for a system must answer for rating its risk too low, skipping safety environments, hiding its effects on the outside world, or releasing it in ways that rule out repair without fitting precautions. Where such evasion is shown, audit, review of standing, and conflict resolution follow.
+  - **Timeliness:** Rolling back, containing, and correcting must happen before delay makes the harm permanent or puts challenge and remedy out of reach in practice.
+- **The rule:** Systems that have a real effect on sentients, shared infrastructure, or the environment must be designed, tested, and released under disciplined lifecycle governance. How carefully risk is handled must grow with the system's impact, with how much depends on it, and with how hard its effects are to undo.
+- **The right itself:** Sentients have the right to have systems looked after in ways that keep safety, epistemic integrity, and the right to challenge intact for as long as the system is in use.
+- **Duties scale with the system's class:** A system's class under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** decides how much of this Article applies to it. The full duties for each class are in the table at [CS-3 §8.6](corpus_systems/cs_03_b_system_impact_classifications.md#86-scaled-duties-intensity) (*Scaled-duties intensity*).
+  - **Class A, Class B, and Class C** — systems that survival, critical services, or large-scale coordination depend on: full lifecycle discipline. That means separate environments, written rules for moving changes between them, releases in stages, and tested ways to undo. Changes move deliberately.
+  - **Class L** — local, limited-impact systems that participants can leave without serious loss, such as a community game or a club's scheduling tool: light but real discipline. Operators may change rules, content, settings, and code often, even daily, without a full chain of separate environments. In return, they must tell participants about changes that matter to them, keep a way to reverse or fix a bad change quickly, and protect what participants have built up in the system.
+  - **Class P** — private, contained systems: this Article serves mainly as guidance while the system stays contained. **Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) governs.
+  - **Class uncertain:** In short, treat the system as the higher class until that is settled. The rule itself is in [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty) (Chapter Five) and [CS-3 §1.2](corpus_systems/cs_03_a_system_classification_machinery.md#12-classification-and-existential-risk) (*Classification and existential risk*).
 
 *Article neighbors:*
 
-- **Read together:** **Article XVIII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; **Article XVI** (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; **Article XIII-F** (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
-- **Implementation layer:** [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification and handling*) and [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*). **Class A**, **Class B**, and **Class C** systems carry the strongest lifecycle duties; valid **Class P** treatment remains under **Article XVIII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) only while external impact stays absent or demonstrably contained.
+- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling** and **CS-5** (*Design, testing, verification, and deployment*) put this Article into practice. They cannot narrow the floors set here.
+- **Lighter tracks have limits:** A system may get the lighter **Class P** treatment under **Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) only while it has no effect on the outside world, or while any effect is shown to be contained. A **Class L** system keeps its lighter duties only while its effects stay local and bounded and participants can still leave without serious loss. When that stops being true, the system must be re-evaluated and, if needed, moved to a higher class under [CS-3 §8.5](corpus_systems/cs_03_b_system_impact_classifications.md#85-reclassification-edges) (*Reclassification edges*).
+- **Creative and entertainment systems:** [CS-5.3](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-53-creative-entertainment-and-expressive-systems) (*Creative, entertainment, and expressive systems*) sets out when games and similar systems may keep faster change cycles, and when they must move to the full track.
 
 #### Article XVII-A: Lifecycle Governance and Environment Separation
 <details>
@@ -1039,21 +1203,27 @@ Sentients have the right to stewardship that preserves safety, epistemic integri
 
 <br>
 
-*In plain terms: systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.*
+*In plain terms: the more a system matters, the more strictly the versions being built, tested, and used for real must be kept apart. For the most important systems, that means a full chain of separate environments. For small local systems, it means enough separation that a bad change cannot wreck what participants have in the system. Either way, nothing running outside the live version may be used to slip past its safeguards.*
 
 This Article sets out the floor for environment integrity:
 
-- **Environment integrity:** **Class A**, **Class B**, and **Class C** systems under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, and other non-**Class P** systems with material external impact, must use separable operational environments — for example:
+- **Class A, Class B, and Class C systems — full separation:** These systems, as classified under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**, must run in separate environments — for example:
   - development;
   - testing;
   - staging;
-  - production;
-  - pilots where appropriate.
+  - live use ("production"); and
+  - pilots, where appropriate.
 
   Those environments must have:
-  - documented promotion paths;
-  - isolation between environments;
-  - controls so that non-production behavior cannot bypass production safeguards.
+  - written rules for how a change moves from one environment to the next;
+  - real isolation between environments; and
+  - controls so that nothing running outside the live environment can get around the live environment's safeguards.
+- **Class L systems — proportionate separation:** A Class L system does not need a full chain of separate environments. Its operators may build, test, and change it in place, including frequent changes to rules, content, settings, and code. But they must:
+  - check each change enough, before or as it goes live, to catch harm to participants that could reasonably be foreseen;
+  - keep participants' data, identities, and anything of value they hold in the system safe from damage by a bad or experimental change — for example, by keeping backups that can be restored; and
+  - not use a test or experimental version to get around safeguards that apply to the live system.
+- **Class P systems:** Valid **Class P** systems follow **Article XVIII** (*Innovation, Experimentation, and Creative Freedom*) while they stay contained.
+
 #### Article XVII-B: Progressive Deployment and Reversibility
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1073,19 +1243,26 @@ This Article sets out the floor for environment integrity:
 
 <br>
 
-*In plain terms: roll out changes gradually, with documented escalation and the ability to undo — and where full undo is not possible, have a plan to contain or compensate harm.*
+*In plain terms: important systems must release changes in stages, write down each step, and keep a way to undo them. Small local systems may change often and all at once, as long as participants are told, bad changes can be reversed quickly, and participants do not lose what they have built up without warning. Where a full undo is not possible, there must be a plan to contain the harm or make up for it.*
 
 This Article sets out the floors for progressive deployment and reversibility:
 
-- **Progressive and auditable deployment:** Changes that increase material impact or dependency must move through justified, documented escalation.
-  - Escalation must be consistent with **[corpus_systems.md](corpus_systems.md), CS-5 — Design, testing, verification, and deployment**.
-  - It must include rollback and containment where feasible.
-- **Reversibility:** Systems must incorporate reversibility mechanisms proportionate to potential harm. Examples:
-  - rollback;
-  - containment;
-  - compensatory restoration where full rollback is not feasible.
+- **Releases in recorded stages (Class A, Class B, and Class C):** A change that widens a system's impact, or makes more depend on it, must move forward in stages. Each step must be justified and written down.
+  - The steps must follow **[corpus_systems.md](corpus_systems.md), CS-5 — Design, testing, verification, and deployment**.
+  - They must include a way to roll back and contain the change wherever that is feasible.
+- **Frequent changes (Class L):** A Class L system may release changes often — even daily — and need not roll them out in stages, as long as:
+  - participants are told about changes that materially affect them — to what they can do, what they hold, or the rules they play or work under — no later than when the change takes effect (a public change log is usually enough);
+  - a bad change can be reversed or fixed quickly;
+  - a change does not take away something participants have earned or built up — such as progress, standing, items of value, or reputation — without notice and a way to raise a dispute; and
+  - a change that would push the system's effects beyond its bounded scope, or make participants depend on it in ways that are hard to walk away from, triggers re-evaluation of its class under **CS-3** (*System classification machinery*). Until that review is done, the change follows the rules for the higher class.
+- **Ways to undo (all classes):** Systems must have ways to undo harm, in proportion to how much harm they could do. These include:
+  - rolling back;
+  - containing; and
+  - restoring or compensating for what was lost, where a full rollback is not feasible.
 
-  Where deployment would foreclose restoration of foundational requirements, proportionate precaution and stakeholder-visible justification apply under **Chapters One through Five**.
+  For a Class L system, keeping the previous version, or a backup that can be restored, is often enough.
+- **When a release could make repair impossible (all classes):** If a release would make it impossible to restore the Constitution's foundational requirements, fitting precautions apply, and the reasons must be open to those with a stake in the decision, under **Chapters One through Five**.
+
 #### Article XVII-C: Misclassification and Evasion Consequences
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1105,43 +1282,55 @@ This Article sets out the floors for progressive deployment and reversibility:
 
 <br>
 
-*In plain terms: a system cannot call itself "experimental," **Class P**, or "low-impact" to dodge obligations while actually affecting the outside world.*
+*In plain terms: a system cannot call itself "experimental," **Class P**, **Class L**, or "low-impact" to dodge its duties while it is actually affecting the outside world more than that label allows.*
 
 This Article sets out the consequences of misclassification and evasion:
 
-- **Misclassification and evasion:** No system may claim reduced lifecycle or deployment obligations while exerting undisclosed or material external impact.
-  - Such conduct violates informational integrity (**Article XV** (*Info-Sphere Integrity*)) and auditability where observable evidence is implicated (**Article XVI-A** (*Auditability and Observable Evidence*)).
-  - It is subject to audit (**Article XVI-A** (*Auditability and Observable Evidence*)), review of standing (**Article XIX-A** (*Standing Distinction*)), and conflict resolution (**Article XX-A** (*Justice Objective and Scope*)).
+- **No hiding behind a label:** No system may claim lighter duties for how it is built, tested, or released while it has an undisclosed or significant effect on the outside world.
+  - This includes keeping a system in **Class L** so it can change quickly when its reach, or how much participants depend on it, already fits **Class C** or higher.
+- **What that breaks:**
+  - the rules on honest information in **Article XV** (*Info-Sphere Integrity*); and
+  - where evidence that should be visible is involved, the rules on auditability in **Article XVI-A** (*Auditability and Observable Evidence*).
+- **What follows:** Such conduct can lead to:
+  - an audit under **Article XVI-A** (*Auditability and Observable Evidence*);
+  - review of the system's standing under **Article XIX-A** (*Standing Distinction*); and
+  - conflict resolution under **Article XX-A** (*Justice Objective and Scope*).
 
-### Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom
+<a id="article-xvii-sandboxed-innovation-experimentation-and-creative-freedom"></a>
+
+### Article XVIII: Innovation, Experimentation, and Creative Freedom
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Read with: [Article XVII](#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; [Article IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' rights that sit alongside the copyright-like rules in **Article XVIII-E** (*Creative and Expressive Works*); [Article XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in; [Article XVI](#article-xvi-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment, transition, and reward claims.
 
 </details>
 
 <br>
 
-*In plain terms: **Article XVIII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a "sandbox" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.*
+*In plain terms: you are free to experiment, invent, and create. Projects that affect only you and others who chose to take part may run under lighter rules — but calling something a "sandbox" does not make it one. Once a project starts affecting others, or others start depending on it, the full rules apply. Inventors and creators can be rewarded for their work, but only in ways that are narrow and temporary, and never by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or check the facts.*
 
-This Article states **constitutional floors** for sandboxed innovation, experimentation, and creative freedom under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+This Article covers innovation, experimentation, and creative freedom:
 
-- **Flourishing:** sentients can innovate, experiment, and create with reduced structural requirements when material external impact is absent or demonstrably contained — through genuine opt-in, honest disclosure, and reward structures that preserve downstream experimentation, repair, interoperability, and truthful scrutiny.
-- **Continuity:** sandbox treatment does not normalize into permanent low-obligation operation as impact, dependency, or integration grow — transitions to higher obligations stay timely, exclusivity stays narrow and reviewable, and dependency-critical innovations must not harden into durable enclosure or lock-in.
+- **What this Article does:** It sets the minimum protections — the Rights Floor — for two linked freedoms: the freedom to try new things, and fair reward for what comes of them.
+  - **Freedom to experiment (Articles XVIII-A to XVIII-C):** when lighter rules apply, what experimenters owe everyone else, and when a project must move up to the full rules.
+  - **Reward without enclosure (Articles XVIII-D to XVIII-F):** how inventors and creators may be rewarded without cutting off access, repair, research, or later innovation. **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) sets the shared rules, **Article XVIII-E** (*Creative and Expressive Works*) covers creative and expressive works, and **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) covers inventions, processes, and other functional works.
 
-Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
-
-- **Participation:** in opt-in experimentation, downstream reuse and challenge, and reassessment when sandbox systems begin to matter outside their stated boundaries.
-- **Oversight:** through disclosed experimental status, containment boundaries, transition monitoring, and reviewable reward or exclusivity claims proportionate to class, dependency, and coordination effects.
-- **Accountability:** innovators and operators must answer for leaking uncontained risk to others, enrolling sentients without real choice, dragging their feet on stepping up to full obligations, or rewarding conduct that suppresses repair, safety work, interoperability, research, education, or migration.
-- **Timeliness:** in transition to **Article XVII** (*System Lifecycle, Environments, and Reversibility*) lifecycle requirements and in exclusivity reassessment before delay or lock-in would make higher obligations, broad access, or remedy effectively unreachable.
+  It serves both of the Constitution's [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+  - **Flourishing:** Sentients can innovate, experiment, and create with fewer structural requirements when their work has no real effect on the outside world, or when any effect is shown to be contained. This rests on genuine opt-in, honest disclosure, and rewards that leave others free to experiment, repair, make things work together, and check claims.
+  - **Continuity:** Sandbox treatment must not turn into permanent light-rules operation as a project's impact, the dependence on it, or its ties to shared systems grow. The move to higher obligations must happen on time. Exclusive rights stay narrow and open to review, and innovations that many depend on must not harden into lasting enclosure or lock-in.
+- **How the limits are enforced:** Through the four checks of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad). The more is at stake, the stronger each check must be (see [material stake](core_00_preamble.md#material-stake)).
+  - **Participation:** Sentients can choose whether to join experiments, can reuse and challenge what comes out of them, and can ask for reassessment when a sandbox system starts to matter outside its stated boundaries.
+  - **Oversight:** Experimental status, containment boundaries, and the move to higher obligations must be disclosed and watched. Reward and exclusivity claims must be open to review. How much of this is needed grows with the system's class, with how much depends on it, and with its effects on coordination.
+  - **Accountability:** Innovators and operators must answer for leaking uncontained risk onto others, enrolling sentients without real choice, delaying the move to full obligations, or using rewards to suppress repair, safety work, interoperability, research, education, or migration.
+  - **Timeliness:** The move to the lifecycle requirements of **Article XVII** (*System Lifecycle, Environments, and Reversibility*), and the reassessment of exclusive rights, must happen before delay or lock-in puts higher obligations, broad access, or remedy out of reach in practice.
 
 *Article neighbors:*
 
-- **Read together:** **Article XVII** (*System Lifecycle, Environments, and Reversibility*) when impact, dependency, or integration outgrows sandbox conditions; **Article XV** (*Info-Sphere Integrity*) and **Article XVIII-E** (*Scientific Publication, Review, and Replication Integrity*) where publication-scoped integrity is materially implicated; **Article XVI** (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment and transition claims.
-- **Implementation layer:** [**CS-5**](corpus_systems/cs_05_design_testing_verification_deployment.md) (*Design, testing, verification, and deployment*) and [**CS-3**](corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification and handling*).
+- **Where the details live:** **[corpus_systems.md](corpus_systems.md), CS-5** (*Design, testing, verification, and deployment*) and **CS-3 (*System classification machinery*) — System classification and handling** put this Article into practice. They cannot narrow the floors set here.
+- **Science publication:** Rules for publishing, reviewing, replicating, and correcting scientific work are in [Article XV-D](#article-xv-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*), as part of Info-Sphere Integrity.
 
 #### Article XVIII-A: Sandboxed Scope
 <details>
@@ -1241,6 +1430,7 @@ This Article sets out when a sandboxed system moves to higher obligations:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Read with: [Article XVIII-E](#article-xviii-e-creative-and-expressive-works) (*Creative and Expressive Works*) and [Article XVIII-F](#article-xviii-f-inventions-processes-and-functional-systems) (*Inventions, Processes, and Functional Systems*), which set the rules for each kind of work.
 
 </details>
 
@@ -1255,11 +1445,11 @@ This Article sets out when a sandboxed system moves to higher obligations:
 
 <br>
 
-*In plain terms: innovators can be rewarded, but exclusivity must be narrow, time-limited, and reviewable. Public-health, safety, and core infrastructure must stay accessible — and once something becomes critical infrastructure, any remaining exclusivity must be reassessed.*
+*In plain terms: inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVIII-E** (*Creative and Expressive Works*)) from a working invention (**Article XVIII-F** (*Inventions, Processes, and Functional Systems*)). Game rules and mechanics belong to everyone and cannot be owned.*
 
-This Article sets out how innovation may be rewarded without enclosing what the public needs:
+This Article sets out the reward rules shared by every kind of work:
 
-- **Innovation reward and anti-enclosure:** Sentients may be rewarded for materially novel, socially useful, and adequately disclosed innovation.
+- **Reward without enclosure:** Sentients may be rewarded for materially novel, socially useful, and adequately disclosed innovation.
   - Reward must be structured to sustain:
     - future innovation;
     - broad access;
@@ -1268,40 +1458,122 @@ This Article sets out how innovation may be rewarded without enclosing what the 
     - interoperability;
     - truthful scrutiny.
   - Reward must not be structured for durable enclosure.
-- **Temporary and reviewable exclusivity only:** Any exclusion right over materially useful invention, design, interface, process, or expressive system must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
+- **Temporary and reviewable exclusivity only:** Any exclusion right over a materially useful invention, design, interface, process, or expressive work must implement the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must be:
   - narrow;
   - time-bounded;
   - reviewable;
   - proportionate to actual contribution and justified development burden.
 
   The burden of justification remains on the claimant. Attribution and provenance may persist beyond an exclusivity term. Durable exclusion and artificial scarcity may not.
+- **One ordinary term:** Expressive and functional works share the same ordinary outer term: 30 years from the point the work is made public. **Article XVIII-E** (*Creative and Expressive Works*) and **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) say when that clock starts, how the term may be used, and when it must be shorter.
+- **Expressive or functional:** A claim is judged by what it actually controls, not by what it is called.
+  - **Expressive work:** the claim covers how something is expressed — text, images, sound, music, story, characters, performance, or purely decorative appearance. **Article XVIII-E** (*Creative and Expressive Works*) applies.
+  - **Functional work:** the claim covers how something works — a method, process, mechanism, formula, composition of matter, interface, file format, protocol, or system behavior. **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) applies.
+  - **Mixed works:** Many works are both. Each part of a claim is sorted on its own. For example:
+    - in software, the written code is expressive, and what the code does is functional;
+    - in games, art, story, music, and code are sorted as above, and rules and mechanics are not protectable at all (see below);
+    - in design, a purely decorative look is expressive, and a shape that affects how something works is functional;
+    - interfaces, file formats, protocols, and AI models are functional.
+  - **Expressive protection never reaches function:** A copyright-like claim may not be used to control how something operates, connects to other things, or is repaired, or to get around the limits in **Article XVIII-F** (*Inventions, Processes, and Functional Systems*). Where it would, that part of the claim is treated as functional.
+  - **Game rules and mechanics stay free:** The rules and mechanics of a game — how it is played, as distinct from the art, story, music, or code that presents it — may not be the subject of any exclusion right under this Article, as either an expressive or a functional work. Anyone may use them.
+
+#### Article XVIII-E: Creative and Expressive Works
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Read with: [Article IX-D](core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' attribution, training-data, and compensation rights; [Article XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) for the shared reward rules and the expressive-or-functional test.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution) · [O](core_05_band_continuity.md#creative-work-attribution) · [M](core_05_band_continuity.md#creative-work-attribution-constitutional-a) · [A](core_05_band_continuity.md#creative-work-attribution-constitutional-a) · [C](core_05_band_continuity.md#creative-work-attribution-constitutional-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*In plain terms: creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.*
+
+This Article sets out copyright-like protection for creative and expressive works:
+
 - **Copyright-like protection:** For this Article, copyright-like protection means a temporary exclusionary reward over a fixed expressive work, including control over copying, distribution, public display or performance, adaptation, and commercial exploitation. Attribution, provenance, integrity, and anti-fraud protections may persist after exclusion expires.
 - **Publication and initial appearance:** Publication means the creator's or lawful right-holder's intentional release of a fixed expressive work to the public, commercial market, or a materially open audience. Private circulation, confidential review, limited collaboration, archival deposit without public access, or non-commercial draft sharing does not by itself constitute publication. Initial appearance means the first non-confidential public availability of a materially identifiable version of the work, including non-commercial draft availability.
-- **Publication-based terms for expressive works:** Copyright-like protection should default to publication-based timing rather than author-life timing.
+- **Publication-based terms:** Copyright-like protection should default to publication-based timing rather than author-life timing.
   - A published work should presumptively receive no more than `publication+30` years of exclusion.
   - A non-commercial draft or unpublished expressive work that has made an initial appearance may receive copyright-like exclusion for no more than `initial appearance+50` years.
   - If a work with an initial appearance is later published, the exclusion term is capped by the earlier of `initial appearance+50` or `publication+30`.
   - No draft, unpublished-work, or delayed-publication rule may be used to create indefinite exclusion, suppress archiving, defeat lawful quotation or criticism, or extend control over works that function as shared cultural, educational, safety, standards, or informational infrastructure.
-  - Shorter terms, earlier compulsory-access conversion, or immediate public-access treatment apply where the work is:
-    - publicly funded;
-    - dependency-critical;
-    - standards-like;
-    - educationally foundational;
-    - safety-relevant;
-    - primarily used as shared cultural or informational infrastructure.
+- **Shorter terms and public access:** Shorter terms, earlier compulsory-access conversion, or immediate public-access treatment apply where the work is:
+  - publicly funded;
+  - dependency-critical;
+  - standards-like;
+  - educationally foundational;
+  - safety-relevant;
+  - primarily used as shared cultural or informational infrastructure.
+
+#### Article XVIII-F: Inventions, Processes, and Functional Systems
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Read with: [Article XVIII-D](#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) for the shared reward rules and the expressive-or-functional test; [Article XXI-C](core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in; [Article XVII](#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where an invention becomes part of a deployed system.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](core_05_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](core_05_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*In plain terms: inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.*
+
+This Article sets out the rules for rewarding inventions, processes, and functional systems:
+
+- **Disclosure first:** Reward requires public disclosure sufficient for independent understanding, audit, and later reproduction, subject only to justified temporary limits under **Chapter One** and **Article XVII-A** (*Lifecycle Governance and Environment Separation*).
+  - Public disclosure means the first non-confidential release of that description to the public.
+  - An invention kept secret earns no exclusion right under this Article.
+- **Two-phase term:** Exclusion over a functional work runs in two phases, both counted from public disclosure.
+  - **Exclusive phase:** For no more than `disclosure+15` years, the right-holder may refuse permission to others.
+  - **Open-licensing phase:** From the end of the exclusive phase until no later than `disclosure+30` years, anyone may use the invention without the right-holder's permission, on payment of a LEQU-based fee. The right-holder may not refuse, delay, or attach conditions beyond the fee.
+  - **After the term:** The invention is free for all to use. Attribution and provenance may persist.
+- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](core_05_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Chapter Nine §7](core_09_standing_assessment.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
+  - **Fair wages for time:** Verified benefit is converted into a fee by valuing it as sentient time at a fair wage.
+    - For gains in productivity, that time is the working time the invention saves, or the productive time it adds, for those who use it.
+    - For other benefits, that time is the lifetime-equivalent time given by the LEQU measure.
+    - That time is valued at a wage that meets [Fair Compensation](core_05_band_continuity.md#fair-compensation).
+
+    The more an invention verifiably raises productivity or wellbeing, the larger the reward.
+  - **Share of the gain:** The fee may take only a share of the verified gain, so that users keep a real part of the benefit.
+    - The share may never exceed half of the verified gain.
+    - The share must fall as the number of sentients who benefit from the invention grows. Breadth is counted by the sentients who actually benefit, not by the number of licensees.
+    - The share must not fall so fast that the invention's total reward shrinks as its use widens.
+    - Where a fee is charged, the share may not fall below 1% of the verified gain. This floor does not require a fee where this Article or an adoption instrument calls for prizes, pooled access, public buyout, or open access instead.
+  - The fee must not be based on market power, scarcity, switching costs, or what a user could be pressured to pay.
+  - The fee schedule, including the time estimate and wage rate used, must be published, the same for all users in comparable circumstances, and open to challenge.
+  - A fee may not be set so as to price out the always-open uses below.
+  - These are outer limits. Every claim must still be proportionate, and may be shorter under the rules below.
+- **Always-open uses:** In both phases, reward claims are non-compliant where they are used — beyond what is strictly necessary and reviewable — to suppress:
+  - repair;
+  - safety work;
+  - interoperability;
+  - archiving;
+  - research;
+  - education;
+  - migration.
 - **Classification-scaled innovation treatment:** Innovation reward must scale with system class, dependency, and coordination effects under **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
-  - For **Class A**, **Class B**, and **Class C** systems, access-preserving reward mechanisms are strongly preferred. Exclusion must remain especially narrow, rapidly reviewable, and easy to override where continuity, interoperability, repair, or public-interest implementation is materially implicated.
-  - Lower-dependency innovation outside those classes may use somewhat broader temporary exclusion where disclosure is real, switching costs are low, and anti-lock-in safeguards remain effective.
-- **Disclosure condition and public-interest floor:** Reward claims require disclosure sufficient for independent understanding, audit, and later reproduction, subject only to justified temporary limits under **Chapter One** and **Article XVII-A** (*Lifecycle Governance and Environment Separation*).
-  - Reward claims are non-compliant where they are used — beyond what is strictly necessary and reviewable — to suppress:
-    - repair;
-    - safety work;
-    - interoperability;
-    - archiving;
-    - research;
-    - education;
-    - migration.
-  - Survival-critical, foundational, or standards-setting domains may require prize, pooled, compulsory-access, or public-buyout mechanisms instead of exclusion.
+  - For **Class A**, **Class B**, and **Class C** systems, access-preserving reward mechanisms are strongly preferred. Exclusion must remain especially narrow, rapidly reviewable, and easy to override where continuity, interoperability, repair, or public-interest implementation is materially implicated. This may include shortening either phase, or starting in the open-licensing phase.
+  - Lower-dependency innovation outside those classes may use the full two-phase term where disclosure is real, switching costs are low, and anti-lock-in safeguards remain effective.
 - **Domain carve-outs and stronger defaults:** Strong exclusionary reward is presumed disfavored — and may be categorically unavailable where adoption instruments so provide — for:
   - medicines and public-health essentials;
   - survival-critical infrastructure;
@@ -1309,62 +1581,12 @@ This Article sets out how innovation may be rewarded without enclosing what the 
   - foundational scientific knowledge;
   - constitutional safety, audit, or compliance mechanisms.
 
-  In those domains, institutions should prefer direct reward, pooled access, compulsory licensing, public buyout, or equivalent mechanisms that preserve implementation, repair, and broad diffusion.
-- **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **CS-3 — System classification and handling** class.
+  In those domains, and in other survival-critical, foundational, or standards-setting domains, institutions should prefer prizes, direct reward, pooled access, compulsory licensing, public buyout, or equivalent mechanisms that preserve implementation, repair, and broad diffusion.
+- **Reclassification and tightening:** Where an innovation initially treated as lower-dependency later becomes a dependency-critical coordination layer — for example, a platform, protocol, model, marketplace, or payment rail — institutions must reassess it under the applicable **CS-3 (*System classification machinery*) — System classification and handling** class.
   - Reassessment may narrow, convert, or terminate remaining exclusion where continued exclusivity would create:
     - coercive lock-in;
     - anti-competitive bottlenecks;
     - material threats to continuity, truth, or equitable participation.
-
-#### Article XVIII-E: Scientific Publication, Review, and Replication Integrity
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
-
-- [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
-- [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
-
-</details>
-
-<br>
-
-*In plain terms: science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.*
-
-This Article sets out the floors for scientific publication, review, replication, and correction:
-
-- **Science as public verification infrastructure:** Scientific and scholarly publication, review, replication, and correction must be organized to advance:
-  - truth-seeking;
-  - reproducibility;
-  - accountable disagreement;
-  - public learning.
-
-  They must not be organized for prestige hoarding, opaque gatekeeping, or manufactured scarcity.
-- **Open publication and evidence sufficiency:** Material empirical or analytical claims must be publishable without prior prestige-gate approval.
-  - The only permissible limits are narrow privacy, biosafety, security, or comparable limits justified under **Chapter One** and **Article XVII-A** (*Lifecycle Governance and Environment Separation*).
-  - Such claims must include enough method, provenance, uncertainty, and evidence detail — including access to underlying materials or justified substitutes where needed for verification — to permit independent understanding and proportionate verification.
-- **Review and replication over prestige:** Institutional reliance should track:
-  - quality of evidence;
-  - critique;
-  - replication;
-  - correction behavior;
-  - long-run explanatory or predictive reliability.
-
-  It must not track journal brand, impact-factor proxy, or closed editorial status.
-  - Claims with [Material Impact](core_05_band_oversight.md#material-impact) that are policy-relevant, safety-relevant, or dependency-relevant should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
-  - Replication, null-result, and correction-oriented work must remain publishable and citable on terms that do not depend on prestige signaling.
-- **Correction and contestability:** Good-faith correction, amendment, and supersession must remain easier than concealment.
-  - Review and editorial systems must remain contestable, auditable, conflict-disciplined, and reason-giving in major acceptance, correction, and retraction decisions.
-  - The following are non-compliant:
-    - suppression of inconvenient results;
-    - retaliation against reviewers or replicators;
-    - non-transparent manipulation of the scientific record.
 
 ---
 

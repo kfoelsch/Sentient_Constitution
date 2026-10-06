@@ -400,17 +400,17 @@ flowchart TB
         subgraph Crow1["Articles XIII–XIV"]
             direction LR
             C1["Article XIII · Reliable and Trustworthy Systems<br/><br/>• Reliability baseline<br/>• Challenge, review, and redress<br/>• False trust limits<br/>• Incentive alignment<br/>• High-autonomy process integrity<br/>• Resilience and self-healing"]
-            C2["Article XIV · Security, Intelligence, Force, and Autonomous Coercion<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems"]
+            C2["Article XIV · Security, Intelligence, Force, and Autonomous Coercion<br/><br/>• Covert-power limits<br/>• Use of force and armed conflict<br/>• Autonomous lethal and coercive systems<br/>• Counter-espionage limits"]
         end
         subgraph Crow2["Articles XV–XVI"]
             direction LR
-            C3["Article XV · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship"]
+            C3["Article XV · Info-Sphere Integrity<br/><br/>• Plurality and anti-monopoly<br/>• Transparency and contestability<br/>• Validation, reporting, and epistemic stewardship<br/>• Scientific publication, review, and replication"]
             C4["Article XVI · Audit, Transparency, and Independent Verification<br/><br/>• Observable evidence<br/>• Distributed oversight<br/>• Accessible verification"]
         end
         subgraph Crow3["Articles XVII–XVIII"]
             direction LR
             C5["Article XVII · System Lifecycle, Environments, and Reversibility<br/><br/>• Environment separation<br/>• Progressive deployment and reversibility<br/>• Misclassification and evasion consequences"]
-            C6["Article XVIII · Sandboxed Innovation and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Publication, review, and replication integrity"]
+            C6["Article XVIII · Innovation, Experimentation, and Creative Freedom<br/><br/>• Sandboxed scope<br/>• Containment, disclosure, and opt-in<br/>• Transition to higher-obligation regimes<br/>• Innovation reward and anti-enclosure<br/>• Creative and expressive works<br/>• Inventions, processes, and functional systems"]
         end
     end
     C0 ~~~ Cgrid
@@ -438,18 +438,18 @@ flowchart TB
         direction TB
         subgraph Drow1["Articles XIX–XX"]
             direction LR
-            D1["Article XIX · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Named-pathway eligibility, responsibility, and audit<br/>• Movement, refuge, and non-statelessness"]
+            D1["Article XIX · Standing and Participation Status<br/><br/>• Standing distinctions<br/>• Contestability and restriction limits<br/>• Contribution, competency bars, and named-pathway eligibility<br/>• Violations and standing locks<br/>• Voting and special locks"]
             D2["Article XX · Justice After Verified Violation<br/><br/>• Justice objective and scope<br/>• Restriction floors"]
         end
         subgraph Drow2["Articles XXI–XXII"]
             direction LR
-            D3["Article XXI · Interoperability, Portability, Movement, and Exit<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Movement, migration, refuge, and non-statelessness"]
+            D3["Article XXI · Interoperability, Portability, Movement, and Exit<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Open formats and standards<br/>• Movement and relocation<br/>• Refuge from non-compliance<br/>• Non-statelessness<br/>• Limitation, custody, and emergency discipline"]
             D4["Article XXII · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
         end
         subgraph Drow3["Articles XXIII–XXIV"]
             direction LR
             D5["Article XXIII · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
-            D6["Article XXIV · Constitutional Interpretation, Review, and Anti-Capture<br/><br/>• Bounded interpretive mandate<br/>• Composition, rotation, and conflict controls<br/>• Public reasons, challenge, and external review<br/>• Removal and non-entrenchment"]
+            D6["Article XXIV · Constitutional Interpretation, Review, and Anti-Capture<br/><br/>• Bounded interpretive mandate and public reasons<br/>• Challenge rights and independent review<br/>• Forum independence and external review<br/>• Removal and non-entrenchment"]
         end
     end
     D0 ~~~ Dgrid
@@ -624,7 +624,7 @@ flowchart TB
 - When data is linked, transformed, aggregated, or reconstructed into a more sensitive type, the more protective requirements apply.
 - Type O is the public oversight baseline. It may be a lawful public substitute drawn from Type G, Type E, or another restricted source; that does not change the underlying source type.
 - Type Y and Type W cover works sentients create. A work is Type Y while private or shared and Type W once its creator makes it public. Either way the creator stays in control, and a public work is still deleted on the creator's request. Public availability does not make a work Type O.
-- Type U and Type T cover works under a commercial grant. Type U is a licence to one named party that cannot be passed on and returns to the creator when it ends. Type T is a sale of the commercial rights that the buyer may resell, limited to the exclusion term in Article XVIII-D. Under both, the creator keeps credit, control of their identity, likeness, and inner life, and the choice about training use. Only works can be licensed or sold this way, never personal records or identity data.
+- Type U and Type T cover works under a commercial grant. Type U is a licence to one named party that cannot be passed on and returns to the creator when it ends. Type T is a sale of the commercial rights that the buyer may resell, limited to the term in Article XVIII-E or XVIII-F. Under both, the creator keeps credit, control of their identity, likeness, and inner life, and the choice about training use. Only works can be licensed or sold this way, never personal records or identity data.
 - The record is periodically re-evaluated, audited, challengeable, and updated. Handling scales with the most restrictive applicable type and with system class.
 
 ### System classifications: how much governance a system needs

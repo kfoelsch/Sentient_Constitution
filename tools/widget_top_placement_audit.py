@@ -3,8 +3,14 @@
 
 Rules:
   NAV-READER-06  — chapter/part Reader guidance belongs in the opening stack
-                   before operative prose (local guidance under a later section
-                   remains allowed).
+                   before operative prose. At section level, Reader guidance
+                   that appears before any operative prose (e.g. after the
+                   Trace / D/A/C stack, a ``<br>``, or the plain-terms gloss)
+                   must move into the opening stack ahead of Trace. Guidance
+                   placed after operative prose illustrates it and stays local.
+                   Exception: a Reader guidance box that leads directly into a
+                   visible ``mermaid`` chart is the chart's caption and may
+                   stay beside it.
   NAV-TRACE-09   — when a section's *direct* content carries Trace / D/A/C,
                    those widgets open the unit (after optional anchors and
                    opening Reader guidance). Child-section widgets do not

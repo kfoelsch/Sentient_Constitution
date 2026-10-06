@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-06T11:31:37+00:00",
+  "generated_at": "2026-10-06T13:26:41+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16463,
+  "edge_count": 16647,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -2824,6 +2824,14 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
+      "source_header": "5.2 Plain-Language Accessibility (Participation and Stewardship Duty)",
+      "source_anchor": "#52-plain-language-accessibility-participation-and-stewardship-duty",
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#94-anti-evasion-and-look-through-authority",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_a_values_principles.md",
       "source_header": "5.2.1 Scope",
       "source_anchor": "#521-scope",
       "target_file": "core_05_band_participation.md",
@@ -2872,40 +2880,40 @@
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "5.2.4 Jargon-as-Defeat Discipline",
-      "source_anchor": "#524-jargon-as-defeat-discipline",
+      "source_header": "5.2.4 Complexity-as-Defeat Discipline",
+      "source_anchor": "#524-complexity-as-defeat-discipline",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "5.2.4 Jargon-as-Defeat Discipline",
-      "source_anchor": "#524-jargon-as-defeat-discipline",
+      "source_header": "5.2.4 Complexity-as-Defeat Discipline",
+      "source_anchor": "#524-complexity-as-defeat-discipline",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "5.2.4 Jargon-as-Defeat Discipline",
-      "source_anchor": "#524-jargon-as-defeat-discipline",
+      "source_header": "5.2.4 Complexity-as-Defeat Discipline",
+      "source_anchor": "#524-complexity-as-defeat-discipline",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "5.2.4 Jargon-as-Defeat Discipline",
-      "source_anchor": "#524-jargon-as-defeat-discipline",
+      "source_header": "5.2.4 Complexity-as-Defeat Discipline",
+      "source_anchor": "#524-complexity-as-defeat-discipline",
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
       "count": 1
     },
     {
       "source_file": "core_01_a_values_principles.md",
-      "source_header": "5.2.4 Jargon-as-Defeat Discipline",
-      "source_anchor": "#524-jargon-as-defeat-discipline",
+      "source_header": "5.2.4 Complexity-as-Defeat Discipline",
+      "source_anchor": "#524-complexity-as-defeat-discipline",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xvi-audit-transparency-and-independent-verification",
       "count": 1
@@ -6387,7 +6395,7 @@
       "source_header": "4. Safety (Harm Constraint)",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_anchor": "#article-xviii-innovation-experimentation-and-creative-freedom",
       "count": 1
     },
     {
@@ -6659,7 +6667,7 @@
       "source_header": "5. Truth (Epistemic Integrity Constraint)",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xviii-e-scientific-publication-review-and-replication-integrity",
+      "target_anchor": "#article-xv-d-scientific-publication-review-and-replication-integrity",
       "count": 1
     },
     {
@@ -6979,7 +6987,7 @@
       "source_header": "5.1 Science-Informed Inquiry and Decision Support",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xviii-e-scientific-publication-review-and-replication-integrity",
+      "target_anchor": "#article-xv-d-scientific-publication-review-and-replication-integrity",
       "count": 1
     },
     {
@@ -11603,7 +11611,7 @@
       "source_header": "14. Prohibition on Absolute Override",
       "source_anchor": null,
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxiv-a-bounded-interpretive-mandate",
+      "target_anchor": "#article-xxiv-a-bounded-interpretive-mandate-and-public-reasons",
       "count": 1
     },
     {
@@ -13364,6 +13372,14 @@
       "source_anchor": "#163-openness-aspiration",
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_c_stewardship_capacity_principles.md",
+      "source_header": "16.3 Openness Aspiration",
+      "source_anchor": "#163-openness-aspiration",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxi-d-open-formats-and-standards",
       "count": 1
     },
     {
@@ -18651,7 +18667,7 @@
       "source_header": "20. Integrated Application",
       "source_anchor": "#20-integrated-application",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxiv-a-bounded-interpretive-mandate",
+      "target_anchor": "#article-xxiv-a-bounded-interpretive-mandate-and-public-reasons",
       "count": 1
     },
     {
@@ -18659,7 +18675,7 @@
       "source_header": "20. Integrated Application",
       "source_anchor": "#20-integrated-application",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxiv-c-public-reasons-challenge-rights-and-external-review",
+      "target_anchor": "#article-xxiv-b-challenge-rights-and-independent-review",
       "count": 1
     },
     {
@@ -37931,7 +37947,15 @@
       "source_header": "Indigenous Continuity",
       "source_anchor": "#indigenous-continuity-constitutional",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxi-d-movement-migration-refuge-and-non-statelessness",
+      "target_anchor": "#article-xxi-f-refuge-from-non-compliance",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Indigenous Continuity",
+      "source_anchor": "#indigenous-continuity-constitutional",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxi-g-non-statelessness",
       "count": 1
     },
     {
@@ -53627,7 +53651,7 @@
       "source_header": "Movement and Relocation",
       "source_anchor": "#movement-and-relocation-constitutional",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxi-d-movement-migration-refuge-and-non-statelessness",
+      "target_anchor": "#article-xxi-e-movement-and-relocation",
       "count": 1
     },
     {
@@ -53947,7 +53971,7 @@
       "source_header": "Non-Statelessness",
       "source_anchor": "#non-statelessness-constitutional",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxi-d-movement-migration-refuge-and-non-statelessness",
+      "target_anchor": "#article-xxi-g-non-statelessness",
       "count": 1
     },
     {
@@ -54827,7 +54851,7 @@
       "source_header": "Refuge from Non-Compliance",
       "source_anchor": "#refuge-from-non-compliance-constitutional",
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#non-statelessness",
+      "target_anchor": "#sentience-non-exclusion",
       "count": 4
     },
     {
@@ -54835,8 +54859,8 @@
       "source_header": "Refuge from Non-Compliance",
       "source_anchor": "#refuge-from-non-compliance-constitutional",
       "target_file": "core_05_band_participation.md",
-      "target_anchor": "#sentience-non-exclusion",
-      "count": 4
+      "target_anchor": "#non-statelessness",
+      "count": 3
     },
     {
       "source_file": "core_05_band_participation.md",
@@ -54851,7 +54875,7 @@
       "source_header": "Refuge from Non-Compliance",
       "source_anchor": "#refuge-from-non-compliance-constitutional",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxi-d-movement-migration-refuge-and-non-statelessness",
+      "target_anchor": "#article-xxi-f-refuge-from-non-compliance",
       "count": 3
     },
     {
@@ -54859,7 +54883,7 @@
       "source_header": "Refuge from Non-Compliance",
       "source_anchor": "#refuge-from-non-compliance-constitutional",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#xx-d-climate-unlivability-refuge-adopter-decided",
+      "target_anchor": "#xxi-f-climate-unlivability-refuge-adopter-decided",
       "count": 1
     },
     {
@@ -56275,7 +56299,7 @@
       "source_header": "Movement, refuge, and non-statelessness",
       "source_anchor": "#stakeholder-weight-c",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxi-d-movement-migration-refuge-and-non-statelessness",
+      "target_anchor": "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity",
       "count": 1
     },
     {
@@ -62458,6 +62482,22 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article IX-D: Creative Work, Training-Data Use, and Anti-Displacement",
       "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xviii-e-creative-and-expressive-works",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-D: Creative Work, Training-Data Use, and Anti-Displacement",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article IX-D: Creative Work, Training-Data Use, and Anti-Displacement",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
@@ -68106,6 +68146,14 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-truth-epistemic-integrity-constraint",
       "count": 1
@@ -68218,6 +68266,30 @@
       "source_file": "core_06_rights_part_b.md",
       "source_header": "Article XII-D: Non-Capture Safeguards",
       "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": null,
       "count": 1
@@ -68228,6 +68300,30 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiv-c-constitutional-forum-independence-and-external-review",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxiv-d-removal-for-cause-and-non-entrenchment",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_e.md",
+      "target_anchor": "#article-xxvi-a-non-entrenchment-and-revisability",
       "count": 1
     },
     {
@@ -68260,6 +68356,46 @@
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#2-default-venue-and-primary-stakes",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "corpus_forum.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_b.md",
+      "source_header": "Article XII-D: Non-Capture Safeguards",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -68603,6 +68739,206 @@
       "source_header": "Part B: Personhood, agency, cooperation, and stakeholder system participation",
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#132-epistemic-disclosure-constraints",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#20-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-o",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#truth-constitutional-constraint-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity-o",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV-D: Scientific Publication, Review, and Replication Integrity",
+      "source_anchor": "#article-xvii-e-scientific-publication-review-and-replication-integrity",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material-impact",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#13-constitutional-collision-resolution-process",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#19-incentive-alignment-and-system-capture",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-d-creative-work-training-data-use-and-anti-displacement",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxi-c-anti-lock-in-rule",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
+      "source_anchor": "#article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
     },
@@ -70392,6 +70728,254 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-truth-epistemic-integrity-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#6-trust-and-trustworthiness-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#71-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1315-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#protected-reporting-whistleblowing-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#cruelty-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics",
+      "count": 5
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#7-emergency-and-urgent-action",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV-D: Counter-Espionage Limits",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#61-emergency-measures-and-continuation-burden",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -70531,7 +71115,31 @@
       "source_header": "Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#materially-binding-act-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#irreversible-deprivation-measure",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#8-act-records-and-attributable-handoffs",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#7-emergency-and-urgent-action",
       "count": 1
     },
     {
@@ -70908,6 +71516,22 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-truth-epistemic-integrity-constraint",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV: Info-Sphere Integrity",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#6-trust-and-trustworthiness-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV: Info-Sphere Integrity",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
       "count": 1
     },
     {
@@ -70916,6 +71540,14 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#132-epistemic-disclosure-constraints",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV: Info-Sphere Integrity",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#161-distributed-understanding",
       "count": 1
     },
     {
@@ -71018,6 +71650,14 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XV: Info-Sphere Integrity",
       "source_anchor": null,
+      "target_file": "corpus_institutions.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XV: Info-Sphere Integrity",
+      "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -71036,6 +71676,14 @@
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#18-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI-B: Distributed Oversight and Anti-Monopoly Review",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#183-segregation-of-duties",
       "count": 1
     },
     {
@@ -71122,6 +71770,22 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVI-B: Distributed Oversight and Anti-Monopoly Review",
       "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#2-four-seat-constitutional-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI-B: Distributed Oversight and Anti-Monopoly Review",
+      "source_anchor": null,
+      "target_file": "core_07_functional_independence_segregation_of_duties.md",
+      "target_anchor": "#3-independence-conflict-and-control-lines",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI-B: Distributed Oversight and Anti-Monopoly Review",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
@@ -71148,6 +71812,14 @@
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#20-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI-C: Verification Accessibility",
+      "source_anchor": null,
+      "target_file": "core_04_burden_traceability_verification.md",
+      "target_anchor": "#4-security-constrained-observability-and-verification-rule",
       "count": 1
     },
     {
@@ -71224,6 +71896,22 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI-C: Verification Accessibility",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_e.md",
+      "target_anchor": "#article-xxv-c-timely-resolution-and-anti-delay-floor",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI-C: Verification Accessibility",
+      "source_anchor": null,
+      "target_file": "corpus_joint_structure/cjs_03o_oversight_operations.md",
+      "target_anchor": "#cjs-34-audit-process-output-disclosure",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVI: Audit, Transparency, and Independent Verification",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
@@ -71291,6 +71979,14 @@
       "source_header": "Article XVI: Audit, Transparency, and Independent Verification",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: Audit, Transparency, and Independent Verification",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
       "count": 2
     },
@@ -71333,14 +72029,6 @@
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk-c",
       "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVI: Audit, Transparency, and Independent Verification",
-      "source_anchor": null,
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-alignment-certification",
-      "count": 3
     },
     {
       "source_file": "core_06_rights_part_c.md",
@@ -71426,8 +72114,16 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVI: Audit, Transparency, and Independent Verification",
       "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-under-uncertainty",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: Audit, Transparency, and Independent Verification",
+      "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#chapter-eight-system-alignment-certification",
+      "target_anchor": "#chapter-eight-part-a-system-alignment-certification--evaluation",
       "count": 3
     },
     {
@@ -71460,6 +72156,14 @@
       "source_anchor": null,
       "target_file": "corpus_systems.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVI: Audit, Transparency, and Independent Verification",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": "#12-classification-and-existential-risk",
       "count": 1
     },
     {
@@ -72034,8 +72738,40 @@
       "source_file": "core_06_rights_part_c.md",
       "source_header": "Article XVII: System Lifecycle, Environments, and Reversibility",
       "source_anchor": null,
-      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-under-uncertainty",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems.md",
       "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": "#12-classification-and-existential-risk",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+      "target_anchor": "#86-scaled-duties-intensity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVII: System Lifecycle, Environments, and Reversibility",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+      "target_anchor": "#85-reclassification-edges",
       "count": 1
     },
     {
@@ -72043,7 +72779,7 @@
       "source_header": "Article XVII: System Lifecycle, Environments, and Reversibility",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
-      "target_anchor": null,
+      "target_anchor": "#cs-53-creative-entertainment-and-expressive-systems",
       "count": 1
     },
     {
@@ -72448,15 +73184,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
-      "source_anchor": null,
-      "target_file": "corpus_systems.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#5-truth-epistemic-integrity-constraint",
@@ -72464,167 +73192,7 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#132-epistemic-disclosure-constraints",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#20-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#truth-constitutional-constraint-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#epistemic-integrity",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#epistemic-integrity-o",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#epistemic-integrity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#epistemic-integrity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#auditability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#material-impact",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_b.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII-E: Scientific Publication, Review, and Replication Integrity",
-      "source_anchor": null,
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#two-constitutional-aims",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#4-safety-harm-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#7-freedom-bounded-agency",
@@ -72632,15 +73200,119 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
       "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#13-constitutional-collision-resolution-process",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#18-governance-under-stewardship-discipline",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#creative-work-attribution",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#creative-work-attribution-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#creative-work-attribution-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#innovation-reward-and-anti-enclosure",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#innovation-reward-and-anti-enclosure-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#innovation-reward-and-anti-enclosure-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-E: Creative and Expressive Works",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-d-creative-work-training-data-use-and-anti-displacement",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#18-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#19-incentive-alignment-and-system-capture",
@@ -72648,17 +73320,129 @@
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
       "source_anchor": null,
-      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#fair-compensation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#innovation-reward-and-anti-enclosure",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#innovation-reward-and-anti-enclosure-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#innovation-reward-and-anti-enclosure-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#lifespan-equivalent-unit-lequ",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
       "target_anchor": null,
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_c.md",
-      "source_header": "Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
       "source_anchor": null,
-      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxi-c-anti-lock-in-rule",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_c.md",
+      "source_header": "Article XVIII-F: Inventions, Processes, and Functional Systems",
+      "source_anchor": null,
+      "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
     },
@@ -72668,382 +73452,6 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#6-trust-and-trustworthiness-coordination-integrity",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#18-governance-under-stewardship-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-m",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-a",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#standing-lock",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#standing-lock-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#standing-lock-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-bar",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-bar-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-bar-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-clearance",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-clearance-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-clearance-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#participant-standing",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#participant-standing-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#participant-standing-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#collective-accountability-failure",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#collective-accountability-failure-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#collective-accountability-failure-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trust",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trust-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#trust-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#foundational-constitutional-choice",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#foundational-constitutional-choice-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_integrative.md",
-      "target_anchor": "#foundational-constitutional-choice-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#3-whole-system-certification-evaluation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-prevention--general-standing-locks",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit",
-      "source_anchor": "#article-xix-c-named-pathway-eligibility-responsibility-and-continuous-audit",
-      "target_file": "core_13_governance.md",
-      "target_anchor": "#41-entitlement-and-eligibility",
-      "count": 4
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
-      "source_anchor": "#article-xix-d-movement-migration-and-refuge",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#1315-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
-      "source_anchor": "#article-xix-d-movement-migration-and-refuge",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#16-stewardship-in-depth",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
-      "source_anchor": "#article-xix-d-movement-migration-and-refuge",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#non-statelessness",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
-      "source_anchor": "#article-xix-d-movement-migration-and-refuge",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-prevention--general-standing-locks",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness Routing",
-      "source_anchor": "#article-xix-d-movement-migration-and-refuge",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#54-special-violation-rules",
       "count": 1
     },
     {
@@ -73180,14 +73588,14 @@
       "source_anchor": "#article-xix-standing-and-participation-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-bar",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XIX: Standing and Participation Status",
       "source_anchor": "#article-xix-standing-and-participation-status",
       "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#standing-effect",
+      "target_anchor": "#competency-clearance",
       "count": 1
     },
     {
@@ -73196,6 +73604,14 @@
       "source_anchor": "#article-xix-standing-and-participation-status",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#standing-lock",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX: Standing and Participation Status",
+      "source_anchor": "#article-xix-standing-and-participation-status",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-effect",
       "count": 1
     },
     {
@@ -73212,7 +73628,7 @@
       "source_anchor": "#article-xix-standing-and-participation-status",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material-impact",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -73236,7 +73652,7 @@
       "source_anchor": "#article-xix-standing-and-participation-status",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#stakeholder",
-      "count": 2
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -73282,8 +73698,56 @@
       "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XIX: Standing and Participation Status",
       "source_anchor": "#article-xix-standing-and-participation-status",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-iii-a-survival",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX: Standing and Participation Status",
+      "source_anchor": "#article-xix-standing-and-participation-status",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vi-a-dignity-and-equal-moral-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX: Standing and Participation Status",
+      "source_anchor": "#article-xix-standing-and-participation-status",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-stakeholder-system-participation-representation-and-due-process",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX: Standing and Participation Status",
+      "source_anchor": "#article-xix-standing-and-participation-status",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#2-question-1--what-happened",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX: Standing and Participation Status",
+      "source_anchor": "#article-xix-standing-and-participation-status",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#21-silence-is-the-default",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX: Standing and Participation Status",
+      "source_anchor": "#article-xix-standing-and-participation-status",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-contribution-violation-and-standing-model--measurement",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX: Standing and Participation Status",
+      "source_anchor": "#article-xix-standing-and-participation-status",
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#42-prevention--general-standing-locks",
       "count": 1
     },
     {
@@ -73301,6 +73765,334 @@
       "target_file": "core_13_governance.md",
       "target_anchor": "#41-entitlement-and-eligibility",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#6-trust-and-trustworthiness-coordination-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#18-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#participant-standing",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#participant-standing-constitutional-a",
+      "count": 4
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#participant-standing-constitutional-c",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contribution-nature",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contribution-nature-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#contribution-nature-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-bar",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-bar-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-bar-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-clearance",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-clearance-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-clearance-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-accountability-failure",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-accountability-failure-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-accountability-failure-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trust",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trust-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trust-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#foundational-constitutional-choice",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#foundational-constitutional-choice-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#foundational-constitutional-choice-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#3-whole-system-certification-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#2-question-1--what-happened",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#22-linked-records-and-no-offset-bridge",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#62-competency-bars-and-clearances",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
+      "source_anchor": "#article-xviii-c-pathway-eligibility-responsibility-and-continuous-audit",
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -73786,6 +74578,14 @@
       "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
       "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#163-openness-aspiration",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
       "count": 2
@@ -73828,6 +74628,54 @@
       "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#feasibility",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#feasibility-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#feasibility-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-c",
       "count": 1
     },
     {
@@ -73884,6 +74732,30 @@
       "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#occupancy-continuity",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#occupancy-continuity-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#occupancy-continuity-constitutional-c",
       "count": 1
     },
     {
@@ -74003,6 +74875,54 @@
       "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
       "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
       "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion",
       "count": 3
     },
@@ -74012,6 +74932,14 @@
       "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#54-special-violation-rules",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "source_anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -74212,159 +75140,7 @@
       "source_anchor": "#article-xxiii-root-cause-analysis-and-adaptive-response",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIII: Root Cause Analysis and Adaptive Response",
-      "source_anchor": "#article-xxiii-root-cause-analysis-and-adaptive-response",
-      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIII: Root Cause Analysis and Adaptive Response",
-      "source_anchor": "#article-xxiii-root-cause-analysis-and-adaptive-response",
-      "target_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
-      "target_anchor": null,
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#1315-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#18-governance-under-stewardship-discipline",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#20-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional",
       "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#forum-family-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-capture",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-capture-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#system-capture-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#55-special-locks",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_11_b_misconduct_pattern_applications.md",
-      "target_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_12_forum.md",
-      "target_anchor": "#2-default-venue-and-primary-stakes",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "core_12_forum.md",
-      "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-B: Composition, Rotation, and Conflict Controls",
-      "source_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
-      "target_file": "corpus_institutions.md",
-      "target_anchor": null,
-      "count": 1
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -74570,8 +75346,8 @@
       "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
       "source_anchor": "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards",
-      "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xx-justice-after-verified-violation",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-d-non-capture-safeguards",
       "count": 1
     },
     {
@@ -74627,38 +75403,6 @@
       "source_header": "Article XIX-A: Standing Distinction",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-bar",
-      "count": 4
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-A: Standing Distinction",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#competency-clearance",
-      "count": 4
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-A: Standing Distinction",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#violation-nature",
-      "count": 4
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-A: Standing Distinction",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#standing-lock",
-      "count": 5
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-A: Standing Distinction",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#participant-standing",
       "count": 2
     },
@@ -74683,6 +75427,14 @@
       "source_header": "Article XIX-A: Standing Distinction",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-bar",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-A: Standing Distinction",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-bar-a",
       "count": 2
     },
@@ -74693,6 +75445,14 @@
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#competency-bar-c",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-A: Standing Distinction",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#competency-clearance",
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -74715,6 +75475,14 @@
       "source_header": "Article XIX-A: Standing Distinction",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-A: Standing Distinction",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#standing-lock-a",
       "count": 2
     },
@@ -74731,6 +75499,14 @@
       "source_header": "Article XIX-A: Standing Distinction",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#violation-nature",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-A: Standing Distinction",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
       "target_anchor": "#violation-nature-chapter-six-a",
       "count": 2
     },
@@ -74740,6 +75516,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#violation-nature-chapter-six-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-A: Standing Distinction",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification",
       "count": 1
     },
     {
@@ -74802,6 +75586,14 @@
       "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XIX-A: Standing Distinction",
       "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#defp1-animal-life-sentient-life-and-sentience-status",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-A: Standing Distinction",
+      "source_anchor": null,
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#xi-d-dissent-and-peaceful-protest",
       "count": 1
@@ -74811,40 +75603,8 @@
       "source_header": "Article XIX-A: Standing Distinction",
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#verified-inputs-for-standing",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-A: Standing Distinction",
-      "source_anchor": null,
-      "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#21-silence-is-the-default",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-A: Standing Distinction",
-      "source_anchor": null,
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#62-competency-bars-and-clearances",
       "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-A: Standing Distinction",
-      "source_anchor": null,
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-prevention--general-standing-locks",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-A: Standing Distinction",
-      "source_anchor": null,
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#55-special-locks",
-      "count": 3
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -74852,6 +75612,14 @@
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#71-anti-aggregation-of-named-pathway-effects",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-A: Standing Distinction",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#5-escalation-and-certification",
       "count": 1
     },
     {
@@ -74988,7 +75756,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#violation-nature",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -75060,7 +75828,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#standing-lock",
-      "count": 2
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -75188,7 +75956,7 @@
       "source_anchor": null,
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#2-question-1--what-happened",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -75210,8 +75978,8 @@
       "source_file": "core_06_rights_part_d.md",
       "source_header": "Article XIX-B: Contestability and Proportional Restriction Limits",
       "source_anchor": null,
-      "target_file": "core_09_standing_assessment.md",
-      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#8-restoration-and-reassessment",
       "count": 1
     },
     {
@@ -75220,23 +75988,7 @@
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#62-competency-bars-and-clearances",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": null,
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#42-prevention--general-standing-locks",
-      "count": 3
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XIX-B: Contestability and Proportional Restriction Limits",
-      "source_anchor": null,
-      "target_file": "core_10_standing_integration.md",
-      "target_anchor": "#8-restoration-and-reassessment",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -75245,6 +75997,374 @@
       "target_file": "core_12_forum.md",
       "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-B: Contestability and Proportional Restriction Limits",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#interim-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#131-core-tradeoff-principles",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#18-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-m",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-a",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_apex_accountability_leg.md",
+      "target_anchor": "#accountability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#violation-nature",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#violation-nature-chapter-six-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#violation-nature-chapter-six-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-accountability-failure",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-accountability-failure-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#collective-accountability-failure-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#verified-inputs-for-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#2-question-1--what-happened",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#42-prevention--general-standing-locks",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#8-restoration-and-reassessment",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-D: Violations and Standing Locks",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#51-separation-limits",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#18-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#standing-lock-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-weight",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-weight-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#stakeholder-weight-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#55-special-locks",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_11_a_misconduct_designation.md",
+      "target_anchor": "#chapter-eleven-part-a-anti-constitutional-misconduct--designation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XIX-E: Voting and Special Locks",
+      "source_anchor": null,
+      "target_file": "core_13_governance.md",
+      "target_anchor": "#41-entitlement-and-eligibility",
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -75664,15 +76784,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#4-safety-harm-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#7-freedom-bounded-agency",
@@ -75680,47 +76792,23 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#71-limitation-discipline",
+      "target_anchor": "#11-market-structure",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#1313-proportionality",
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#163-openness-aspiration",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#necessity-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
@@ -75728,7 +76816,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-a",
@@ -75736,7 +76824,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality-c",
@@ -75744,55 +76832,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#feasibility",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#feasibility-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#feasibility-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#redress-and-remediation-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#systemic-lock-in",
@@ -75800,7 +76840,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#systemic-lock-in-a",
@@ -75808,7 +76848,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#systemic-lock-in-c",
@@ -75816,7 +76856,55 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-D: Open Formats and Standards",
+      "source_anchor": null,
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-E: Movement and Relocation",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-E: Movement and Relocation",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-E: Movement and Relocation",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#occupancy-continuity",
@@ -75824,7 +76912,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-E: Movement and Relocation",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#occupancy-continuity-constitutional-a",
@@ -75832,7 +76920,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-E: Movement and Relocation",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#occupancy-continuity-constitutional-c",
@@ -75840,15 +76928,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_oversight.md",
-      "target_anchor": "#oversight-dependent-clusters",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-E: Movement and Relocation",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#movement-and-relocation",
@@ -75856,7 +76936,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-E: Movement and Relocation",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#movement-and-relocation-constitutional-a",
@@ -75864,7 +76944,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-E: Movement and Relocation",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#movement-and-relocation-constitutional-c",
@@ -75872,7 +76952,55 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#71-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1313-proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#refuge-from-non-compliance",
@@ -75880,7 +77008,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#refuge-from-non-compliance-constitutional-a",
@@ -75888,7 +77016,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#refuge-from-non-compliance-constitutional-c",
@@ -75896,7 +77024,39 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-F: Refuge from Non-Compliance",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-G: Non-Statelessness",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#4-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-G: Non-Statelessness",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#7-freedom-bounded-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-G: Non-Statelessness",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#redress-and-remediation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-G: Non-Statelessness",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#non-statelessness",
@@ -75904,7 +77064,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-G: Non-Statelessness",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#non-statelessness-constitutional-a",
@@ -75912,7 +77072,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-G: Non-Statelessness",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#non-statelessness-constitutional-c",
@@ -75920,63 +77080,95 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#procedural-fairness-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
-      "source_anchor": null,
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#protected-characteristics-constitutional-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-G: Non-Statelessness",
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#sentience-non-exclusion",
-      "count": 3
+      "count": 1
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-G: Non-Statelessness",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#movement-refuge-recognition-vs-hosting",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#71-limitation-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1313-proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#non-statelessness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#non-statelessness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#non-statelessness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#54-special-violation-rules",
@@ -75984,7 +77176,15 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#51-separation-limits",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
       "source_anchor": null,
       "target_file": "core_10_standing_integration.md",
       "target_anchor": "#42-prevention--general-standing-locks",
@@ -76116,6 +77316,14 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#4-safety-harm-constraint",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII-B: Complexity Audit and Modularity Requirements",
+      "source_anchor": null,
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#524-complexity-as-defeat-discipline",
       "count": 1
     },
     {
@@ -76260,7 +77468,7 @@
       "source_anchor": null,
       "target_file": "core_01_a_values_principles.md",
       "target_anchor": "#52-plain-language-accessibility-participation-and-stewardship-duty",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -76268,7 +77476,7 @@
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#133-minimization-of-avoidable-burden",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -76276,7 +77484,7 @@
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#161-distributed-understanding",
-      "count": 3
+      "count": 2
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -76308,7 +77516,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#avoidable-burden",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -76316,7 +77524,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#productive-capacity",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -76324,7 +77532,7 @@
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#constitutional-efficiency",
-      "count": 5
+      "count": 4
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -76500,6 +77708,14 @@
       "source_anchor": null,
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#meaningful-agency-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXII: Comprehensibility and Complexity Stewardship",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -76704,7 +77920,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
@@ -76712,7 +77928,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#1315-rights-collision-decision-test",
@@ -76720,7 +77936,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_01_b_interaction_interpretation.md",
       "target_anchor": "#14-prohibition-on-absolute-override",
@@ -76728,7 +77944,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#20-integrated-application",
@@ -76736,7 +77952,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_01_c_stewardship_capacity_principles.md",
       "target_anchor": "#18-governance-under-stewardship-discipline",
@@ -76744,7 +77960,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#forum-family-constitutional",
@@ -76752,7 +77968,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#forum-family-constitutional-a",
@@ -76760,7 +77976,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#forum-family-constitutional-c",
@@ -76768,7 +77984,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability",
@@ -76776,7 +77992,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-a",
@@ -76784,7 +78000,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#contestability-c",
@@ -76792,7 +78008,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#authority-stack-and-internal-hierarchy",
@@ -76800,7 +78016,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#authority-stack-a",
@@ -76808,7 +78024,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-A: Bounded Interpretive Mandate",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#authority-stack-c",
@@ -76816,87 +78032,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#5-truth-epistemic-integrity-constraint",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_01_b_interaction_interpretation.md",
-      "target_anchor": "#1315-rights-collision-decision-test",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_01_c_stewardship_capacity_principles.md",
-      "target_anchor": "#20-integrated-application",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-m",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-a",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_apex_accountability_leg.md",
-      "target_anchor": "#accountability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-a",
-      "count": 2
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
-      "source_anchor": null,
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#contestability-c",
-      "count": 1
-    },
-    {
-      "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
@@ -76904,7 +78040,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-a",
@@ -76912,7 +78048,7 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability-c",
@@ -76920,18 +78056,266 @@
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
       "source_anchor": null,
-      "target_file": "core_12_forum.md",
-      "target_anchor": "#2-default-venue-and-primary-stakes",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#5-truth-epistemic-integrity-constraint",
       "count": 1
     },
     {
       "source_file": "core_06_rights_part_d.md",
-      "source_header": "Article XXIV-C: Public Reasons, Challenge Rights, and External Review",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1315-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#20-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-B: Challenge Rights and Independent Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1315-rights-collision-decision-test",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#18-governance-under-stewardship-discipline",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_01_c_stewardship_capacity_principles.md",
+      "target_anchor": "#20-integrated-application",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#forum-family-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-capture-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#auditability-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-d-non-capture-safeguards",
+      "count": 3
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_10_standing_integration.md",
+      "target_anchor": "#55-special-locks",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_11_b_misconduct_pattern_applications.md",
+      "target_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
+      "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#2-default-venue-and-primary-stakes",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
       "source_anchor": null,
       "target_file": "core_12_forum.md",
       "target_anchor": "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
+      "count": 2
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-C: Constitutional Forum Independence and External Review",
+      "source_anchor": null,
+      "target_file": "corpus_institutions/ci_04_appointment_competency_rotation_removal.md",
+      "target_anchor": null,
       "count": 1
     },
     {
@@ -77037,6 +78421,14 @@
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#procedural-fairness-constitutional-c",
       "count": 1
+    },
+    {
+      "source_file": "core_06_rights_part_d.md",
+      "source_header": "Article XXIV-D: Removal for Cause and Non-Entrenchment",
+      "source_anchor": null,
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-d-non-capture-safeguards",
+      "count": 3
     },
     {
       "source_file": "core_06_rights_part_d.md",
@@ -87570,8 +88962,16 @@
       "source_file": "core_11_b_misconduct_pattern_applications.md",
       "source_header": "5.10 Forum recusal failure and biased panel participation",
       "source_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-xii-d-non-capture-safeguards",
+      "count": 1
+    },
+    {
+      "source_file": "core_11_b_misconduct_pattern_applications.md",
+      "source_header": "5.10 Forum recusal failure and biased panel participation",
+      "source_anchor": "#510-forum-recusal-failure-and-biased-panel-participation",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
+      "target_anchor": "#article-xxiv-c-constitutional-forum-independence-and-external-review",
       "count": 1
     },
     {
@@ -89867,7 +91267,7 @@
       "source_header": "2. Default venue and primary stakes",
       "source_anchor": "#2-default-venue-and-primary-stakes",
       "target_file": "core_06_rights_part_d.md",
-      "target_anchor": "#article-xxiv-b-composition-rotation-and-conflict-controls",
+      "target_anchor": "#article-xxiv-c-constitutional-forum-independence-and-external-review",
       "count": 1
     },
     {
@@ -113658,6 +115058,14 @@
       "source_file": "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md",
       "source_header": "CI-24: Innovation reward, disclosure, and anti-enclosure",
       "source_anchor": null,
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#fair-compensation",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md",
+      "source_header": "CI-24: Innovation reward, disclosure, and anti-enclosure",
+      "source_anchor": null,
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#innovation-reward-and-anti-enclosure",
       "count": 2
@@ -113708,6 +115116,14 @@
       "source_anchor": null,
       "target_file": "core_06_rights_part_a.md",
       "target_anchor": "#chapter-six-foundational-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_institutions/ci_24_innovation_reward_disclosure_anti_enclosure.md",
+      "source_header": "CI-24: Innovation reward, disclosure, and anti-enclosure",
+      "source_anchor": null,
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#7-unified-proportional-lequ-scale--contribution-and-violation-axes",
       "count": 1
     },
     {
@@ -120266,6 +121682,14 @@
       "source_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "source_header": "CJS-3.17 Continuity: interoperability, portability, and exit-integrity terms",
       "source_anchor": "#substitutability-exit-constraints-and-mitigation-duties-c",
+      "target_file": "core_06_rights_part_d.md",
+      "target_anchor": "#article-xxi-d-open-formats-and-standards",
+      "count": 5
+    },
+    {
+      "source_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
+      "source_header": "CJS-3.17 Continuity: interoperability, portability, and exit-integrity terms",
+      "source_anchor": "#substitutability-exit-constraints-and-mitigation-duties-c",
       "target_file": "corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md",
       "target_anchor": "#cjs-31-constitutional-compass-and-cluster-map",
       "count": 1
@@ -126466,6 +127890,22 @@
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
       "source_header": "9.11.1 Type U access and handling duties",
       "source_anchor": "#9111-type-u-access-and-handling-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xviii-e-creative-and-expressive-works",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.11.1 Type U access and handling duties",
+      "source_anchor": "#9111-type-u-access-and-handling-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xviii-f-inventions-processes-and-functional-systems",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.11.1 Type U access and handling duties",
+      "source_anchor": "#9111-type-u-access-and-handling-duties",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
@@ -126508,6 +127948,22 @@
       "source_anchor": "#9121-type-t-access-and-handling-duties",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.12.1 Type T access and handling duties",
+      "source_anchor": "#9121-type-t-access-and-handling-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xviii-e-creative-and-expressive-works",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.12.1 Type T access and handling duties",
+      "source_anchor": "#9121-type-t-access-and-handling-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xviii-f-inventions-processes-and-functional-systems",
       "count": 1
     },
     {
@@ -126979,7 +128435,15 @@
       "source_header": "9.8.1 Type Y access and handling duties",
       "source_anchor": "#981-type-y-access-and-handling-duties",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
+      "target_anchor": "#article-xviii-e-creative-and-expressive-works",
+      "count": 2
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.8.1 Type Y access and handling duties",
+      "source_anchor": "#981-type-y-access-and-handling-duties",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xviii-f-inventions-processes-and-functional-systems",
       "count": 1
     },
     {
@@ -127372,6 +128836,14 @@
       "source_anchor": "#cs-3-1-purpose-and-scope",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-recovery-capacity",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "source_header": "CS-3.1 Purpose and scope",
+      "source_anchor": "#cs-3-1-purpose-and-scope",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality-under-uncertainty",
       "count": 1
     },
     {
@@ -129427,7 +130899,7 @@
       "source_header": "CS-5.1 Purpose and role",
       "source_anchor": "#cs-5-1-purpose-and-role",
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_anchor": "#article-xviii-innovation-experimentation-and-creative-freedom",
       "count": 2
     },
     {
@@ -129851,7 +131323,7 @@
       "source_header": "CS-5: Design, testing, verification, and deployment",
       "source_anchor": null,
       "target_file": "core_06_rights_part_c.md",
-      "target_anchor": "#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom",
+      "target_anchor": "#article-xviii-innovation-experimentation-and-creative-freedom",
       "count": 1
     },
     {

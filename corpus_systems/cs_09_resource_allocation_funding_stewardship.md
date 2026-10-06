@@ -330,7 +330,7 @@ Systems must define measurable indicators and thresholds that reflect system hea
 
 *In plain terms: Anyone with standing may challenge a funding structure or outcome, and no minimum number of participants is required to start a review.*
 
-Funding structures and allocation outcomes may be challenged by any sentient or group under **Article XIX-A** (*Standing Distinction*). Standing locks do not by themselves cut off challenge or audit pathways.
+Funding structures and allocation outcomes may be challenged by any sentient or group under **Article XIX-B** (*Contestability and Proportional Restriction Limits*). Standing locks do not by themselves cut off challenge or audit pathways.
 
 No minimum participation threshold is required to initiate review, though outcomes remain subject to [Constitutional Constraint](../core_05_band_integrative.md#constitutional-constraint) discipline and collective deliberation.
 

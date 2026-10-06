@@ -1715,7 +1715,7 @@ The short form for **Materially Binding Act Record** in this instrument is **Act
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (stable, inspectable interfaces); [Chapter One §18.6 Standardization](core_01_c_stewardship_capacity_principles.md#186-standardization); [Article XXI: Interoperability, Portability, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
+- Downstream: Principles: [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (stable, inspectable interfaces); [Chapter One §18.6 Standardization](core_01_c_stewardship_capacity_principles.md#186-standardization); [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
 - Read with: [Decentralization](core_05_band_accountability.md#decentralization), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), [Anti-Capture](core_05_band_continuity.md#anti-capture), [System Capture](core_05_band_continuity.md#system-capture), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
 
 </details>
@@ -2892,7 +2892,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions. Reputation, pedigree, or an unverified claim of good work is not enough.*
+*In plain terms: Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Verified harm belongs on Violation Axis II and cannot be averaged, netted, or offset against verified help. Reputation, pedigree, or an unverified claim of help is not enough.*
 
 - **What it is**
   - **In scope:**

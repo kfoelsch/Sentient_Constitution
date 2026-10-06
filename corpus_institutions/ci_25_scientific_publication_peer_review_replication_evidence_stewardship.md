@@ -54,7 +54,7 @@ This file is the institutional implementation home for **CI-25** (*Scientific pu
 
 *Shared rules live elsewhere.*
 - [**CJS-3.5**](../corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-35-oversight-independent-verification-and-claim-integrity-terms) (*independent verification and claim-integrity terms*).
-- **Article XVIII-E** (*Scientific Publication, Review, and Replication Integrity*).
+- **Article XV-D** (*Scientific Publication, Review, and Replication Integrity*).
 - **Chapter One** (*Truth*, epistemic disclosure constraints); **Article XVII-A** (*Lifecycle Governance and Environment Separation*).
 - **CF-10** (*Technical specialist forums and specialist chambers*) under **CJS-R09**.
 - This file does not repeat those floors.

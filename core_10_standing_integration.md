@@ -262,7 +262,7 @@ Design a lock in this order:
 - Put the terms in plain view and keep a review path ([§5.3 Record visibility and escalation](#53-record-visibility-and-escalation)).
 - Apply any special violation rules that shape that attachment ([§5.4 Special violation rules](#54-special-violation-rules)).
 - Apply any mandatory special locks, using the same attachment fields ([§5.5 Special locks](#55-special-locks)).
-- Past good work does not cancel a verified harm, skip repair, or open a locked named pathway—that no-offset rule lives in [Chapter Nine §2.2 Linked records and no-offset bridge](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
+- Past help does not cancel a verified harm, skip repair, or open a locked named pathway—that no-offset rule lives in [Chapter Nine §2.2 Linked records and no-offset bridge](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
 - [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) already says contribution does not decide locks.
 - What contribution can do later is covered in [§6 Contribution consequences second](#6-contribution-consequences-second) and [§8 Restoration and reassessment](#8-restoration-and-reassessment).
 
@@ -292,6 +292,14 @@ Two attachment qualifiers apply whenever the lock's purpose includes risk reduct
 - the [Rights Floor](core_06_rights_part_a.md#chapter-six-foundational-rights);
 - survival-critical access; or
 - the right to receive regular wages for work that is not part of the verified violation named pathway.
+
+<a id="51-separation-limits"></a>**Separation limits.** Where a lock separates a sentient from settings, networks, associations, or other sentients under the isolation qualifier above, it must:
+
+- name the specific settings, networks, or sentients — not whole regions, jurisdictions, communities at large, or populations;
+- leave access to counsel, advocates, and any forum hearing the sentient's case;
+- satisfy **Article VIII-E** (*Non-Separation*) where it separates a protected care relationship;
+- not amount to confinement: a separation that leaves the sentient no ordinary place to live, operate, or go is a liberty restriction and requires the *Coercive or liberty-restricting safeguards* rule in [§5.4](#54-special-violation-rules) (*Special violation rules*);
+- not amount to exile, refuge denial, or statelessness under **Article XXI-F** (*Refuge from Non-Compliance*) and **Article XXI-G** (*Non-Statelessness*).
 
 A lock may still close trust, role, authority, credit, oversight, recognition, influence, **governance-voting**, or **stakeholder-participation** pathways tied to the verified risk. It may not use those named pathway limits as a back door to extinguish the protections above.
 
@@ -534,7 +542,7 @@ This section starts from verified Chapter Nine contribution records that apply t
 - how current the contribution still is; and
 - whether any competency clearance for an open named pathway is met against its published bar.
 
-Past good work does not set the remedy, the correction duties, the safeguards, or the locks under [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) and [§5 Lock design and enforcement](#5-lock-design-and-enforcement). Good work also cannot cancel or balance out a verified harm—that [no-offset rule](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Nine still applies.
+Past help does not set the remedy, the correction duties, the safeguards, or the locks under [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) and [§5 Lock design and enforcement](#5-lock-design-and-enforcement). Help also cannot cancel or balance out a verified harm—that [no-offset rule](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Nine still applies.
 
 Decide contribution consequences in this order:
 

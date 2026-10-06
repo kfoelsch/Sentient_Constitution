@@ -123,7 +123,7 @@ A reader-facing lookup table lives in the [joint-structure reader guide](cjs_rea
 | **Preamble** | **Preamble §2** | Foundational requirements that open the Constitution |
 | **Constitutional Tetrad** | **Participation**, **Oversight**, **Accountability**, **Timeliness** | The four scaling principles in the Preamble |
 | **Two Constitutional Aims** | **Flourishing**, **Continuity** | The two aims in the Preamble |
-| **Article** (Chapter Six) | **Article XXII** (*Comprehensibility and Complexity Stewardship*), **Article XXI-D** (*Movement, Migration, Refuge, and Non-Statelessness*) | Rights articles in Chapter Six |
+| **Article** (Chapter Six) | **Article XXII** (*Comprehensibility and Complexity Stewardship*), **Article XXI-G** (*Non-Statelessness*) | Rights articles in Chapter Six |
 | **Def** (Chapter Five definitions) | **Trust**, **Oversight**, **Def.O1**, **Def.C4** | Dictionary terms and clusters in Chapter Five |
 
 **Corpus references**

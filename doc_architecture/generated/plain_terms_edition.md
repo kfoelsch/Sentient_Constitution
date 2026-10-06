@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **663** of **941** headings carry a gloss (70%).
+Coverage: **671** of **949** headings carry a gloss (71%).
 
 ## Contents
 
@@ -43,8 +43,8 @@ Coverage: **663** of **941** headings carry a gloss (70%).
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (27/30 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (30/31 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (25/26 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (33/34 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (30/31 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_e.md` (13/14 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
 - [CHAPTER FOURTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-fourteen-non-regression-and-substantive-amendment-validity) — `core_14_non_regression.md` (5/5 glossed)
@@ -278,7 +278,7 @@ when a system makes safety, risk, truth, or high-impact governance claims that c
 
 ##### 5.2 Plain-Language Accessibility (Participation and Stewardship Duty)
 
-rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, or audit.
+rules, decisions, and notices that bind sentients must be written so sentients can actually read, understand, and act on them — and jargon, stacked complexity, or procedural opacity may not be used to defeat contestability, agency, audit, or correction.
 
 [Source](../../core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)
 
@@ -300,11 +300,11 @@ rules, decisions, and notices that bind sentients must be written so sentients c
 
 [Source](../../core_01_a_values_principles.md#523-definitional-rigor-preserved)
 
-###### 5.2.4 Jargon-as-Defeat Discipline
+###### 5.2.4 Complexity-as-Defeat Discipline
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01_a_values_principles.md#524-jargon-as-defeat-discipline)
+[Source](../../core_01_a_values_principles.md#524-complexity-as-defeat-discipline)
 
 ###### 5.2.5 Rights-Floor Boundary
 
@@ -1632,7 +1632,7 @@ only verified, reviewable contribution records and violation findings may affect
 
 ###### Contribution Nature
 
-Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions. Reputation, pedigree, or an unverified claim of good work is not enough.
+Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Verified harm belongs on Violation Axis II and cannot be averaged, netted, or offset against verified help. Reputation, pedigree, or an unverified claim of help is not enough.
 
 [Source](../../core_05_band_accountability.md#contribution-state)
 
@@ -3590,7 +3590,7 @@ four different jobs touch a standing record — asking for a change, verifying t
 
 #### 4. Question 2 — how good or bad was it?
 
-Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified adverse findings. The axes remain separate; they are not two sides of a net score.
+Question 2 measures the verified facts from Question 1. It asks **how good was the contribution?** or **how bad was the violation?** This is where the chapter first introduces the two formal measurement axes: the **Contribution Axis** for verified help and the **Violation Axis** for verified harm. The axes remain separate; they are not two sides of a net score.
 
 [Source](../../core_09_standing_assessment.md#4-standing-measurement-evaluation-dimensions)
 
@@ -4866,13 +4866,13 @@ roles must carry real responsibility, not just titles — and anyone facing a ma
 
 ##### Article XII-D: Non-Capture Safeguards
 
-governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence. Keeping key duties in separate hands is one of the main defenses.
+every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.
 
 [Source](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 30/31 headings glossed
+Source file: [`core_06_rights_part_c.md`](../../core_06_rights_part_c.md) · 33/34 headings glossed
 
 #### Part C: Trustworthy systems, security and force limits, information integrity, verification, lifecycle, and sandboxed innovation
 
@@ -4924,7 +4924,7 @@ when something goes wrong, a system must notice it, stop the damage from spreadi
 
 #### Article XIV: Security, Intelligence, Force, and Autonomous Coercive Systems
 
-**Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) is the exceptional-power Rights Floor — surveillance, intelligence work, armed force, and machines that kill or coerce on their own are not normal tools of governance. They may be used only in narrow, authorized, reviewable circumstances, with real remedies when lines are crossed. No secret police, no permanent emergency, no machine deciding to hurt a sentient without a human actually in control.
+spying, secret security work, armed force, and machines that can hurt or pressure sentients on their own are dangerous powers. They are not everyday tools of government. They may be used only rarely, for narrow reasons, with approval from someone independent, and with a real way to check and challenge them afterward — and real remedies when the rules are broken. No secret police, no emergency that never ends, and no machine deciding to hurt anyone without a real human actually in charge.
 
 [Source](../../core_06_rights_part_c.md#article-xiv-security-intelligence-force-and-autonomous-coercive-systems)
 
@@ -4946,9 +4946,15 @@ a machine may not decide to kill, injure, or coerce a sentient on its own. "Huma
 
 [Source](../../core_06_rights_part_c.md#article-xiv-c-autonomous-lethal-systems-and-autonomous-coercion-tools)
 
+##### Article XIV-D: Counter-Espionage Limits
+
+when an institution suspects spying, the pressure to do whatever it takes is at its highest — and that is exactly when mistakes and abuses happen. So the lines are drawn here, in advance. Hunting spies is covert power, and every limit in **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) still applies. On top of that: the response rules must be written and independently approved before any crisis; suspicion must rest on what someone did and whom they actually serve — including ties to hostile states and organizations — not on their birth, heritage, or beliefs; whistleblowers and journalists are not spies; no torture, no secret detention, no killing as punishment; and anyone investigated and cleared gets that on the record.
+
+[Source](../../core_06_rights_part_c.md#article-xiv-d-counter-espionage-limits)
+
 #### Article XV: Info-Sphere Integrity
 
-**Article XV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you.
+**Article XV** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you. Science, as the main way we check what is true together, must stay open to publication, replication, and correction (**Article XV-D** (*Scientific Publication, Review, and Replication Integrity*)).
 
 [Source](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity)
 
@@ -4966,63 +4972,69 @@ information that materially affects decisions or reliance must disclose its sour
 
 ##### Article XV-C: Validation, Reporting, and Epistemic Stewardship
 
-public-facing information with material external impact must correct errors, preserve provenance, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.
+public-facing information with material external impact must correct errors, show where it came from, and not be sliced or suppressed to mislead. Ecological-footprint reporting must be accessible and decision-usable.
 
 [Source](../../core_06_rights_part_c.md#article-xv-c-validation-reporting-and-epistemic-stewardship)
 
+##### Article XV-D: Scientific Publication, Review, and Replication Integrity
+
+science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.
+
+[Source](../../core_06_rights_part_c.md#article-xv-d-scientific-publication-review-and-replication-integrity)
+
 #### Article XVI: Audit, Transparency, and Independent Verification
 
-**Article XVI** (*Audit, Transparency, and Independent Verification*) is the audit-and-verification Rights Floor — when a system materially affects your life, you must be able to see enough of what it does for an outsider to check it, and more than one independent path must be able to review and correct failure. Audit cannot be a rubber stamp, a private club, or a maze of cost and delay designed to keep challenges out. Under the **oversight** Tetrad leg, oversight requires auditing; [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification) is one especially large, high-stakes audit process among others — not the only one.
+when a system has a real effect on your life, you have the right to see enough of what it does for an outsider to check it. More than one independent reviewer must be able to look for problems and get them fixed. An audit cannot be a rubber stamp, a private club, or a maze of cost and delay that keeps challenges out. Checking systems is part of oversight. [System Alignment Certification](../../core_05_band_continuity.md#system-alignment-certification) is one large, high-stakes kind of audit, but it is not the only one.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)
 
 ##### Article XVI-A: Auditability and Observable Evidence
 
-systems must keep enough honest evidence of what they do for an outside party to reconstruct and challenge their behavior — within lawful security limits.
+systems must keep enough honest evidence of what they do that someone outside can piece together what happened and challenge it — within lawful security limits.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence)
 
 ##### Article XVI-B: Distributed Oversight and Anti-Monopoly Review
 
-no single actor — public or private — may corner oversight. Multiple independent oversight pathways must be able to find, review, and correct failure or capture.
+no single actor, public or private, may corner oversight. Several independent reviewers must be able to find, review, and fix failures, or a system that has been captured by narrow interests. And no one may check their own work: whoever acted, or runs the system being reviewed, cannot be the one who checks it.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-b-distributed-oversight-and-anti-monopoly-review)
 
 ##### Article XVI-C: Verification Accessibility
 
-audit and challenge must be reachable in practice. Verification made prohibitively expensive, slow, or opaque is a violation unless the barrier meets the same test as a restriction on observability.
+you must be able to actually get an audit or a challenge. Making checking too expensive, too slow, too hidden, or too hard to qualify for breaks this rule. A barrier can stay only if it passes the same strict test as a security limit on what can be observed — and whoever relies on the barrier has to prove it passes.
 
 [Source](../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility)
 
 #### Article XVII: System Lifecycle, Environments, and Reversibility
 
-**Article XVII** (*System Lifecycle, Environments, and Reversibility*) is the lifecycle-and-reversibility Rights Floor — systems that materially affect the outside world must be built, tested, and rolled out in stages, with real separation between experiments and production, and a workable way to undo or contain harm when something goes wrong. You cannot label a system "experimental" or "low-impact" just to skip safeguards while it actually affects the outside world.
+when a system can affect sentients or the world outside it, it has to be built, tested, and released in careful steps. Experiments must be kept apart from the live system. And there must be a way to undo the harm, or at least contain it, if something goes wrong. Calling a system "experimental" or "low-impact" does not let anyone skip these safeguards while it is actually affecting the outside world.
 
 [Source](../../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)
 
 ##### Article XVII-A: Lifecycle Governance and Environment Separation
 
-systems that materially affect the outside world must keep development, testing, and production separate — and non-production behavior must not leak through to bypass production safeguards.
+the more a system matters, the more strictly the versions being built, tested, and used for real must be kept apart. For the most important systems, that means a full chain of separate environments. For small local systems, it means enough separation that a bad change cannot wreck what participants have in the system. Either way, nothing running outside the live version may be used to slip past its safeguards.
 
 [Source](../../core_06_rights_part_c.md#article-xvii-a-lifecycle-governance-and-environment-separation)
 
 ##### Article XVII-B: Progressive Deployment and Reversibility
 
-roll out changes gradually, with documented escalation and the ability to undo — and where full undo is not possible, have a plan to contain or compensate harm.
+important systems must release changes in stages, write down each step, and keep a way to undo them. Small local systems may change often and all at once, as long as participants are told, bad changes can be reversed quickly, and participants do not lose what they have built up without warning. Where a full undo is not possible, there must be a plan to contain the harm or make up for it.
 
 [Source](../../core_06_rights_part_c.md#article-xvii-b-progressive-deployment-and-reversibility)
 
 ##### Article XVII-C: Misclassification and Evasion Consequences
 
-a system cannot call itself "experimental," **Class P**, or "low-impact" to dodge obligations while actually affecting the outside world.
+a system cannot call itself "experimental," **Class P**, **Class L**, or "low-impact" to dodge its duties while it is actually affecting the outside world more than that label allows.
 
 [Source](../../core_06_rights_part_c.md#article-xvii-c-misclassification-and-evasion-consequences)
 
-#### Article XVIII: Sandboxed Innovation, Experimentation, and Creative Freedom
+#### Article XVIII: Innovation, Experimentation, and Creative Freedom
 
-**Article XVIII** (*Sandboxed Innovation, Experimentation, and Creative Freedom*) is the innovation-and-creativity Rights Floor — sentients may experiment, build, and express themselves under lighter rules when real outside impact is absent or truly contained, but a "sandbox" label is not a loophole. Once a project starts affecting others or plugging into shared systems, it must step up to full lifecycle obligations. Innovators can be rewarded, but not by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or verify.
+you are free to experiment, invent, and create. Projects that affect only you and others who chose to take part may run under lighter rules — but calling something a "sandbox" does not make it one. Once a project starts affecting others, or others start depending on it, the full rules apply. Inventors and creators can be rewarded for their work, but only in ways that are narrow and temporary, and never by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or check the facts.
 
-[Source](../../core_06_rights_part_c.md#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom)
+[Source](../../core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom)
 
 ##### Article XVIII-A: Sandboxed Scope
 
@@ -5044,19 +5056,25 @@ once a sandbox system starts mattering in the real world, it must graduate to re
 
 ##### Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure
 
-innovators can be rewarded, but exclusivity must be narrow, time-limited, and reviewable. Public-health, safety, and core infrastructure must stay accessible — and once something becomes critical infrastructure, any remaining exclusivity must be reassessed.
+inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVIII-E** (*Creative and Expressive Works*)) from a working invention (**Article XVIII-F** (*Inventions, Processes, and Functional Systems*)). Game rules and mechanics belong to everyone and cannot be owned.
 
 [Source](../../core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure)
 
-##### Article XVIII-E: Scientific Publication, Review, and Replication Integrity
+##### Article XVIII-E: Creative and Expressive Works
 
-science is public verification infrastructure. Evidence, replication, and correction must matter more than journal brand — and correcting an error must always be easier than hiding one.
+creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.
 
-[Source](../../core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)
+[Source](../../core_06_rights_part_c.md#article-xviii-e-creative-and-expressive-works)
+
+##### Article XVIII-F: Inventions, Processes, and Functional Systems
+
+inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.
+
+[Source](../../core_06_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems)
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_d.md`](../../core_06_rights_part_d.md) · 25/26 headings glossed
+Source file: [`core_06_rights_part_d.md`](../../core_06_rights_part_d.md) · 30/31 headings glossed
 
 #### Part D: Standing, justice, interoperability, comprehensibility, root-cause review, and constitutional interpretation
 
@@ -5066,33 +5084,39 @@ Part D covers standing and participation status, justice after verified violatio
 
 #### Article XIX: Standing and Participation Status
 
-**Article XIX** (*Standing and Participation Status*) is the participation-status Rights Floor — it governs who qualifies for which roles, how those calls are made and challenged, and what happens when standing is lowered or suspended. **Participant standing** is role eligibility from verified records and fair rules — not popularity, a brand name, or a social score — and it is separate from dignity, Rights-Floor minimums, and being a stakeholder because a system actually affects you. If standing is lowered or suspended, you must get clear reasons, a real way to push back, and limits that fit the actual risk — and standing by itself must never cut off survival essentials or paths to challenge harm and get remedy. Good standing must reflect what can be checked today, not old reputation. Movement, refuge, portability, and exit are governed by **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), not by standing labels alone.
+**Article XIX** (*Standing and Participation Status*) decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) and **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) govern.
 
 [Source](../../core_06_rights_part_d.md#article-xix-standing-reputation-and-participation-status)
 
 ##### Article XIX-A: Standing Distinction
 
-trust-sensitive roles may open when verified readiness meets a published **competency bar** and **competency clearance** is in force — and may stay closed or limited through **standing locks** while a **verified violation finding** still needs correction. **governance-voting** locks pause foundational governance vote; **stakeholder-participation** locks limit stake-weighted voice inside an authorized system — they are not interchangeable, and stakeholder status is not erased by the latter. Neither named pathway is popularity, insider gatekeeping, or a substitute for dignity. Accusations alone are not violation findings; locks must fit what was actually verified and leave a real path to challenge and remedy.
+standing is about which roles and privileges you can use — nothing more. It is not your worth, your basic rights, whether you count as a sentient, or whether a system affects you. Having no record is normal and can't be held against you, and standing results can't be stitched together into a profile or public ranking.
 
 [Source](../../core_06_rights_part_d.md#article-xix-a-standing-distinction)
 
 ##### Article XIX-B: Contestability and Proportional Restriction Limits
 
-standing records, competency bars, competency clearances, and standing locks must all be open to challenge through real review paths — restrictions must come with reasons, fit the verified finding, and stay no broader than process or safety needs. Allegations and intake labels are not standing verdicts. Standing discipline alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy pathways.
+these rules apply to every standing decision, whether it opens a role or closes one. Only verified records count — allegations and intake labels are not standing verdicts. Every record and decision must be open to real challenge, and no single authority or hidden algorithm may decide standing on its own. Any restriction must come with reasons, fit what was verified, and stay no broader than process or safety needs. Standing alone must never cut off survival essentials or constitutionally required audit, challenge, and remedy.
 
 [Source](../../core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits)
 
-##### Article XIX-C: Named-Pathway Eligibility, Responsibility, and Continuous Audit
+##### Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility
 
-ordinary participation named pathways stay open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. Opening a trust-sensitive named pathway requires competency clearance against its published competency bar; closing a privilege requires a standing lock on that named pathway. Standing locks cannot permanently strip foundational voice, except that a **final** **Chapter Eleven** classification of **anti-constitutional misconduct** withholds that voice until **full restitution** as stated in [**Chapter Thirteen §4.1 Entitlement and eligibility**](../../core_13_governance.md#41-entitlement-and-eligibility).
+this is how named pathways open. Ordinary participation, including the governance vote, stays open under published, contestable eligibility rules based on present evidence — not brand, scale, or past reputation. A trust-sensitive role opens when verified competence, experience, and help meet its published **competency bar**, producing a **competency clearance**. Informal and community experience counts on the same terms as formal experience. Help is recorded on its own track and never cancels verified harm; a clearance does not lift a standing lock.
 
-[Source](../../core_06_rights_part_d.md#article-xix-c-good-standing-responsibility-and-continuous-audit)
+[Source](../../core_06_rights_part_d.md#article-xviii-c-good-standing-responsibility-and-continuous-audit)
 
-##### Article XIX-D: Movement, Migration, Refuge, and Non-Statelessness Routing
+##### Article XIX-D: Violations and Standing Locks
 
-standing status is not a border, exile, or statelessness tool — you cannot lose movement, refuge, or exit rights just because your role standing dropped or a standing lock blocked trust-sensitive named pathways. Verified violence, coercion, or anti-constitutional misconduct can still lead to lawful detention, custody, or other liberty restrictions under **Article XX-B** (*Restriction Floors*) and full process protections; those are separate justice measures, not a standing-label workaround. If a case involves movement, migration, refuge, portability, recognition, or exit, **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) supplies the governing floor.
+this is how named pathways close. Only a **verified violation finding** — never an accusation — can support a **standing lock**, and the lock must name what it blocks, whom it protects, what must be fixed, where to appeal, and when it will be reviewed. It must fit what was actually verified, can't be cancelled out by good work, and must leave a real way back once the harm is repaired. Locks that touch the vote, and three special locks for serious cases, carry extra rules in **Article XIX-E** (*Voting and Special Locks*).
 
-[Source](../../core_06_rights_part_d.md#article-xix-d-movement-migration-refuge-and-non-statelessness-routing)
+[Source](../../core_06_rights_part_d.md#article-xix-d-violations-and-standing-locks)
+
+##### Article XIX-E: Voting and Special Locks
+
+some locks carry extra rules on top of [Article XIX-D](../../core_06_rights_part_d.md#article-xix-d-violations-and-standing-locks) (*Violations and Standing Locks*). A lock on the foundational governance vote doesn't touch your weighted stakeholder voice inside a particular system, and the reverse. Taking away someone's governance vote needs a finding about them specifically, a narrow fit to what they did, and a real way back; only a **final** **Chapter Eleven** finding of anti-constitutional misconduct withholds that vote, and only until **full restitution**. Three special locks cover judges who failed to step aside, rigging stakeholder votes, and attacks on the constitution itself.
+
+[Source](../../core_06_rights_part_d.md#article-xix-e-voting-and-special-locks)
 
 #### Article XX: Justice After Verified Violation
 
@@ -5136,11 +5160,35 @@ systems that others depend on must publish their integration terms and give real
 
 [Source](../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
 
-##### Article XXI-D: Movement, Migration, Refuge, and Non-Statelessness
+##### Article XXI-D: Open Formats and Standards
 
-every sentient may move between jurisdictions, may seek refuge from regimes that violate this Constitution, and may not be left with zero recognizing regime. That is not a mandate that any particular adopter absorb coerced mass outflows — origin regimes keep primary recognition duty, with federation or shared transitional recognition as backup. Bureaucratic delay and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.
+systems should use open formats and standards — ones anyone can read and build on without permission or fees — unless no open option does the job. The way out must always include an open format when one works. This binds systems, not individuals choosing formats for their own work, and open formats never mean open content.
 
-[Source](../../core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness)
+[Source](../../core_06_rights_part_d.md#article-xxi-d-open-formats-and-standards)
+
+##### Article XXI-E: Movement and Relocation
+
+you may move within and between jurisdictions, and relocate when staying would materially harm your survival, dignity, basic protections, or freedom from manipulation — and for synthetic and hybrid sentients, moving can mean changing instance or hosting.
+
+[Source](../../core_06_rights_part_d.md#article-xxi-e-movement-and-relocation)
+
+##### Article XXI-F: Refuge from Non-Compliance
+
+if your regime materially breaks this Constitution, you may seek refuge in one that follows it, and the receiving regime must consider your claim — whatever kind of body or substrate you have. Regimes that deliberately push sentients out to overwhelm others are the violators, and a receiving adopter is not automatically forced to take everyone they push.
+
+[Source](../../core_06_rights_part_d.md#article-xxi-f-refuge-from-non-compliance)
+
+##### Article XXI-G: Non-Statelessness
+
+every sentient must always have at least one regime that answers for their basic protections — one that recognizes their rights, decides their standing, and offers a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap, and you stay protected while that is arranged. Being recognized is not the same as a right to live in any particular place.
+
+[Source](../../core_06_rights_part_d.md#article-xxi-g-non-statelessness)
+
+##### Article XXI-H: Limitation, Custody, and Emergency Discipline
+
+limits on movement or refuge must be necessary, proportionate, individual, and as light as will work. Lawful custody is still allowed where someone is a verified danger, but it cannot leave them stateless. A standing label is not a border, emergencies must end, and paperwork designed to wear sentients down counts as a denial.
+
+[Source](../../core_06_rights_part_d.md#article-xxi-h-limitation-custody-and-emergency-discipline)
 
 #### Article XXII: Comprehensibility and Complexity Stewardship
 
@@ -5184,27 +5232,27 @@ when you are not sure, pick the fix you can walk back. Uncertainty cannot be use
 
 [Source](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)
 
-##### Article XXIV-A: Bounded Interpretive Mandate
+##### Article XXIV-A: Bounded Interpretive Mandate and Public Reasons
 
-Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways.
+Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways. Every binding ruling must be published in time to challenge, with real reasons and the evidence behind them.
 
-[Source](../../core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate)
+[Source](../../core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate-and-public-reasons)
 
-##### Article XXIV-B: Composition, Rotation, and Conflict Controls
+##### Article XXIV-B: Challenge Rights and Independent Review
 
-no single bloc may control **Constitutional forums** — the bodies that decide what the Constitution means. The sentients who sit on those panels, and the authorities that appoint them, must disclose conflicts in real time. Vacancy, rotation, and recusal rules must not be used to rig outcomes. If a panelist stays on a case while materially compromised, that can count as serious misconduct — and the dispute goes to **Integrity** forums first, not back to the same **Constitutional** panel to judge itself.
+if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the record shows a serious mistake, capture, or a Rights-Floor breach.
 
-[Source](../../core_06_rights_part_d.md#article-xxiv-b-composition-rotation-and-conflict-controls)
+[Source](../../core_06_rights_part_d.md#article-xxiv-b-challenge-rights-and-independent-review)
 
-##### Article XXIV-C: Public Reasons, Challenge Rights, and External Review
+##### Article XXIV-C: Constitutional Forum Independence and External Review
 
-interpretive decisions must be published with real reasons and are open to structurally independent review — not re-reviewed by the same body that made them. On a regular schedule, **Integrity** forums also conduct mandatory outside checkups on **Constitutional** forums for capture, decision quality, and Rights-Floor integrity.
+the general rules against capture in [**Article XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.
 
-[Source](../../core_06_rights_part_d.md#article-xxiv-c-public-reasons-challenge-rights-and-external-review)
+[Source](../../core_06_rights_part_d.md#article-xxiv-c-constitutional-forum-independence-and-external-review)
 
 ##### Article XXIV-D: Removal for Cause and Non-Entrenchment
 
-**Constitutional forum** panelists can be removed for real cause through due process — but **appointing authorities** and **adopting institutions** must not use "removal," "restructuring," or "redesign" as weapons against forum independence or dissent.
+**Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.
 
 [Source](../../core_06_rights_part_d.md#article-xxiv-d-removal-for-cause-and-non-entrenchment)
 
