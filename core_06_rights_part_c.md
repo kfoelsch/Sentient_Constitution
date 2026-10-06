@@ -122,7 +122,7 @@ Two safeguards work together to secure this right: certification makes a system 
 - how to challenge it
 - how problems get fixed
 
-If the system meets the importance threshold in **Article XIII** (*Right to Reliable and Trustworthy Systems*), certification also includes a trustworthiness review under [Chapter Eight §10 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation).
+If the system meets the importance threshold in **Article XIII** (*Right to Reliable and Trustworthy Systems*), certification also includes a trustworthiness review under [Chapter Eight §3.9.6 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Contestability keeps the system honest from the sentient's side:** Certification checks a system; it does not have the last word on it. Every sentient affected by the system keeps:
 

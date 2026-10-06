@@ -101,6 +101,7 @@ CH7_PARTS: tuple[str, ...] = (
 CH8_PARTS: tuple[str, ...] = (
     "core_08_a_system_alignment_certification_evaluation.md",
     "core_08_b_system_alignment_certification_record_process.md",
+    "core_08_c_system_alignment_certification_illustrations.md",
 )
 
 CH9_PARTS: tuple[str, ...] = ("core_09_standing_assessment.md",)

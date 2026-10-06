@@ -20,15 +20,18 @@ Open these first. They point; they do not replace the numbered `core_*` files.
 Think of a path from system check to remedy. **Forums supervise throughout.** They do not replace standing measurement. A filed case is not standing by itself.
 
 ```mermaid
-flowchart LR
+flowchart TB
   C[Certify the system<br/><br/>Chapter Eight] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapter Nine]
+  A0((A)) --> C
   S --> E[Effects and remedy<br/><br/>Chapter Ten]
   E --> F[Forum families<br/><br/>Chapter Twelve]
-  F -.-> C
+  F --> A1((A))
   style C fill:none,stroke:#16a34a,color:#ffffff
   style S fill:none,stroke:#db2777,color:#ffffff
   style E fill:none,stroke:#9333ea,color:#ffffff
   style F fill:none,stroke:#ea580c,color:#ffffff
+  style A0 fill:none,stroke:#64748b,color:#ffffff
+  style A1 fill:none,stroke:#64748b,color:#ffffff
 ```
 
 *Caption: forums supervise the chain; a filed case is not standing by itself.*

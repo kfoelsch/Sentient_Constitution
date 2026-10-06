@@ -1,15 +1,61 @@
 # CAPÍTULO 01, PARTE A: PRINCIPIOS DE VALORES
 
 <details>
-<summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativo): estructura del archivo y reglas de lectura</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Ubicación en el corpus (no operativa): estructura del archivo y reglas de lectura</span></strong></summary>
 
-> El contenido siguiente es **solo orientación para quien lee**. No añade, quita ni estrecha obligaciones vinculantes en este archivo ni en otros capítulos.
+> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni restringe obligaciones vinculantes en este archivo ni en otros capítulos.
 >
-> Este archivo es un **piloto de idioma de lectura** del [Capítulo Uno, Parte A en inglés](../../core_01_a_values_principles.md). **No** es parte vinculante de la Constitución Senciente. **No** es una segunda constitución. **No** es una edición de envío. Está **fijado** a `SC-Corpus-2026.08.09`. Si esta traducción y el original en inglés parecen discrepar, gana el archivo numerado [`core_01_a_values_principles.md`](../../core_01_a_values_principles.md). El orden de lectura y los metadatos de edición se mantienen en [README.md](../../README.md). Método y glosario: [translations/es/README.md](README.md).
+> Este archivo **forma parte de la Constitución Senciente** y **solo es vinculante junto con** los demás archivos numerados `core_*`, leídos como un único instrumento. Contiene el **Capítulo Uno, Parte A** (§§1–12: finalidad y función; el objetivo de Florecimiento, introducido en §2 y desarrollado mediante bienestar, Seguridad, Verdad, Confianza y Libertad; y el objetivo de Continuidad, introducido en §8 y desarrollado mediante la capacidad de los sistemas compartidos, la resiliencia, la estructura del mercado y la evaluación sistémica).
 >
-> **Anterior (este idioma):** [core_00_preamble.md](core_00_preamble.md)
->
-> **Siguiente (este idioma):** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Capítulo Uno, Parte B — §§6–8, interacción, límites de anulación e interpretación constitucional).
+> **Anterior:** [core_00_preamble.md](core_00_preamble.md)  
+> **Siguiente:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (Capítulo Uno, Parte B — §§13–15, interacción, límites a la anulación e interpretación constitucional).  
+> **Recorrido de lectura:** §1 finalidad y función → **Florecimiento:** introducción de §2 (con las restricciones no negociables de Seguridad y Verdad en §2.1) → §3 bienestar (el resultado) → §4 Seguridad → §5 Verdad → §6 Confianza → §7 Libertad → **Continuidad:** introducción de §8 → §9 capacidad de los sistemas compartidos (el puente: un medio para el Florecimiento y la sustancia de la Continuidad) → §10 resiliencia → §11 estructura del mercado → §12 evaluación sistémica.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Orientación para quien lee (no operativa): cómo conecta el Capítulo Uno los objetivos, la Tétrada, los Artículos y las definiciones</span></strong></summary>
+
+> El contenido siguiente es **solo orientación para quien lee**. No añade, elimina ni restringe obligaciones vinculantes en este archivo ni en otros capítulos. Los módulos **Rastro** y **Definiciones · Evaluación · Cumplimiento** de cada sección contienen las referencias vinculantes; este bloque es un mapa de la parte para quienes comienzan a leer el Capítulo Uno.
+
+**Cómo se conectan las capas.** Cada capa responde a una pregunta distinta, y cada principio del Capítulo Uno remite a las otras tres:
+
+- **Objetivos y Tétrada** ([Preámbulo §1](core_00_preamble.md#the-model)): para qué sirven los sistemas compartidos ([Florecimiento](core_05_apex_flourishing_aim.md#flourishing-constitutional) y [Continuidad](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim)), y los cuatro deberes que mantienen legítima esa búsqueda ([participación](core_05_apex_participation_leg.md#participation-constitutional), [supervisión](core_05_apex_oversight_leg.md#oversight-constitutional), [rendición de cuentas](core_05_apex_accountability_leg.md#accountability) y [oportunidad](core_05_apex_timeliness_leg.md#timeliness-constitutional)).
+- **Principios** (este capítulo): cómo esos objetivos y deberes se convierten en valores, restricciones y reglas para ponderarlos entre sí.
+- **Artículos** ([Capítulo Seis](core_06_rights_part_a.md#chapter-six-foundational-rights)): las protecciones del Umbral de Derechos que siguen siendo utilizables mientras se persiguen los objetivos. El **Rastro** de cada sección los enumera bajo *En especial*.
+- **Definiciones** ([Capítulos Dos a Cinco](core_02_definition_structure.md)): los significados compartidos con los que se comprueba si una afirmación es verdadera. El módulo **Definiciones · Evaluación · Cumplimiento** de cada sección los enumera.
+
+**Dónde desarrolla el Capítulo Uno cada objetivo.** El Florecimiento es bienestar sostenido mediante verdad, seguridad, confiabilidad y agencia significativa ([Preámbulo §1](core_00_preamble.md#flourishing)). El Capítulo Uno enuncia primero el resultado y luego establece un principio para cada una de las cuatro condiciones.
+
+| Objetivo y dimensión | Principio del Capítulo Uno | Ubicación de la definición | Artículos mencionados en su Rastro |
+|---|---|---|---|
+| **Florecimiento**: el resultado | [§3 Bienestar](#3-foundational-objective-wellbeing-flourishing-aim) | [Bienestar](core_05_band_continuity.md#wellbeing) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [XIX-B](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits) |
+| **Florecimiento**: seguridad | [§4 Seguridad](#4-safety-harm-constraint) | [Seguridad](core_05_band_continuity.md#safety-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
+| **Florecimiento**: verdad | [§5 Verdad](#5-truth-epistemic-integrity-constraint) | [Verdad](core_05_band_oversight.md#truth-constitutional-constraint) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **Florecimiento**: confiabilidad | [§6 Confianza](#6-trust-and-trustworthiness-coordination-integrity) | [Confiabilidad](core_05_band_continuity.md#trustworthiness) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+| **Florecimiento**: agencia significativa | [§7 Libertad](#7-freedom-bounded-agency) | [Agencia significativa](core_05_band_participation.md#meaningful-agency) | [VI](core_06_rights_part_b.md#article-vi-equal-basic-rights), [X](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) |
+| **Continuidad**, puente hacia el Florecimiento: capacidad duradera | [§9 Capacidad de los sistemas compartidos](#9-shared-system-capacity) | [Capacidad de los sistemas compartidos](core_05_band_continuity.md#shared-system-capacity) | [I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [III](core_06_rights_part_a.md#article-iii-survival-and-essential-access), [V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) |
+| **Continuidad**: resiliencia | [§10 Resiliencia y diseño autorreparable](#10-resilience-and-self-healing-design) | [Autorreparación](core_05_band_continuity.md#self-healing) | [XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) |
+| **Continuidad**: mercados disputables | [§11 Estructura del mercado](#11-market-structure) | [Estructura del mercado](core_05_band_accountability.md#market-structure) | [III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) |
+| **Continuidad**: perspectiva de sistema completo | [§12 Requisito de evaluación sistémica](#12-systemic-evaluation-requirement) | [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification) | [XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) |
+
+**Jerarquía de principios (Continuidad).** En el nivel de los principios, el objetivo de Continuidad se desarrolla en este orden, comenzando por la capacidad que conecta ambos objetivos:
+
+6. **[Capacidad de los sistemas compartidos](core_05_band_continuity.md#shared-system-capacity)** es el resultado que, con el tiempo, deberían producir una buena administración responsable, gobernanza e incentivos: una capacidad real y cuestionable para que los seres sintientes y los sistemas compartidos realicen el trabajo exigido por la Constitución. Abarca ambos objetivos: es un medio para el **Florecimiento** y la sustancia de la **Continuidad**, pero no prevalece sobre todo lo demás. **[§9.1](#91-productive-capacity-instrumental-good)** y **[§9.2](#92-constitutional-efficiency)** explican sus dos aspectos principales.
+7. **[Resiliencia y diseño autorreparable](#10-resilience-and-self-healing-design)** establece cómo los sistemas de los que dependen los seres sintientes detectan problemas pronto, los contienen, fallan por vías declaradas y se recuperan con honestidad (**[Autorreparación](core_05_band_continuity.md#self-healing)**), para que la capacidad del punto 6 perdure y la estabilidad no dependa de intervenciones de emergencia.
+8. **[Estructura del mercado](core_05_band_accountability.md#market-structure)**, en [§11](#11-market-structure), aporta la disciplina contra la concentración que mantiene esa capacidad efectivamente sujeta a impugnación.
+9. **[Requisito de evaluación sistémica](#12-systemic-evaluation-requirement)** comprueba el alcance de todo el sistema, sus dependencias y la alineación de incentivos antes de aceptar afirmaciones de cumplimiento o gobernanza —como orientación de principios para la auditoría bajo la dimensión de **supervisión** de la Tétrada, incluida la [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification) como uno de varios procesos de auditoría especialmente amplios.
+
+**Dónde incorpora el Capítulo Uno la Tétrada.** Cada sección nombra en su Rastro las dimensiones que aborda. Estas secciones las desarrollan más directamente:
+
+| Dimensión de la Tétrada | Secciones principales del Capítulo Uno |
+|---|---|
+| **Participación** | [§16 Administración responsable en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) y [§17 Administración responsable con consecuencias](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (funciones con consecuencias y voz); [§7 Libertad](#7-freedom-bounded-agency) (agencia significativa) |
+| **Supervisión** | [§16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) y [§17](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (comprensión distribuida y registros); [§18 Gobernanza](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (asignación de autoridad); [§12](#12-systemic-evaluation-requirement) (auditoría) |
+| **Rendición de cuentas** | [§18 Gobernanza](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) (responsabilidad exigible proporcional a la autoridad); [§19 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (las recompensas no deben vaciar de contenido las dimensiones) |
+| **Oportunidad** | [§16](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) y [§17](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (detectar y corregir problemas sin demoras evitables) |
+
+**Dos ejes, no un conflicto.** Los objetivos indican qué persiguen los sistemas; la Tétrada indica cómo esa búsqueda conserva su legitimidad. Un término puede pertenecer a ambos: la Verdad y la Confiabilidad son componentes del Florecimiento, y [Preámbulo §2](core_00_preamble.md#2-measurements-overview) las mide dentro de la familia de Supervisión. [§§13–15](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) rigen cómo se ponderan estos principios cuando entran en tensión y cómo se leen como un todo; [§20](core_01_c_stewardship_capacity_principles.md#20-integrated-application) los aplica a cada capítulo posterior.
 
 </details>
 
@@ -19,761 +65,1868 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Origen: [Preámbulo §1 El modelo](../../core_00_preamble.md#the-model) — la [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad), las [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) y el escalamiento por [enjuego material](../../core_00_preamble.md#material-stake) se aplican en todo el capítulo a través de los rastros de sección.
-- Destino: [8. Interpretación constitucional](core_01_b_interaction_interpretation.md#8-constitutional-interpretation) para la lectura integrada, la ambigüedad, la jerarquía interna y el procedimiento canónico de resolución de conflictos.
-- Destino: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — desarrollo de la finalidad de **Florecimiento**: [§2](#2-foundational-objective-wellbeing) hasta [§4](#4-system-stability-enabler-trust-coordination-integrity) y [§5 Libertad](#5-freedom-bounded-agency); desarrollo de la finalidad de **Continuidad**: [§4.1](#41-resilience-and-self-healing-design), [§12 Capacidad de los sistemas compartidos](core_01_c_stewardship_capacity_principles.md#12-shared-system-capacity) y [§14 Requisito de evaluación sistémica](core_01_c_stewardship_capacity_principles.md#14-systemic-evaluation-requirement).
-- Destino: [2. Objetivo fundacional: bienestar](#2-foundational-objective-wellbeing), [§2.2 Reconocimiento, refuerzo y aspiración](#22-recognition-reinforcement-and-aspiration), [3.1 Seguridad](#31-safety-harm-constraint), [3.2 Verdad](#32-truth-epistemic-integrity-constraint), [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity), [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Resolución de conflictos de proceso](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) y [§5 Libertad](#5-freedom-bounded-agency).
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — participación, supervisión, rendición de cuentas y actuación a tiempo gobiernan cómo los sistemas compartidos persiguen las [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims); el escalamiento por [enjuego material](../../core_00_preamble.md#material-stake) se aplica en todo el capítulo a través de los rastros de sección.
-- Leer con: [Capítulos Dos a Cuatro](core_02_definition_structure.md) y [Capítulo Cinco](core_05__definitions_home.md#chapter-five-foundational-definitions) — la capa de mecánica que gobierna cada término usado en este capítulo; aplique integridad O/M/A/C, antievasión, carga y trazabilidad de las definiciones hasta los resultados.
-- Leer con: [Capítulo Seis: Derechos fundacionales](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
-  - Especialmente [Artículo V: Derechos básicos iguales](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [Artículo XIII: Derecho a sistemas fiables y confiables](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) y [Artículo XXIII: Interpretación constitucional, revisión y salvaguardas anticaptura](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - Aplique esta lectura donde la interpretación afecte a sencientes, sistemas o instituciones protegidos.
+- Origen: [Preámbulo §1 El Modelo](core_00_preamble.md#the-model) — la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) y la escala según el [interés material](core_00_preamble.md#material-stake) se aplican a todo el capítulo mediante los rastros de cada sección.
+- Destino: [15. Interpretación constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), para la lectura integrada, la ambigüedad, la jerarquía interna y el procedimiento canónico de resolución de conflictos.
+- Destino: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — desarrollo del objetivo de **Florecimiento**: desde [§3](#3-foundational-objective-wellbeing-flourishing-aim) hasta [§6](#6-trust-and-trustworthiness-coordination-integrity), y [§7 Libertad](#7-freedom-bounded-agency); desarrollo del objetivo de **Continuidad**: [§9 Capacidad de los sistemas compartidos](#9-shared-system-capacity), [§10 Resiliencia y diseño autorreparable](#10-resilience-and-self-healing-design), [§11 Estructura del mercado](#11-market-structure) y [§12 Requisito de evaluación sistémica](#12-systemic-evaluation-requirement).
+- Destino: [3. Objetivo fundacional: bienestar](#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 Reconocimiento, refuerzo y aspiración](#32-recognition-reinforcement-and-aspiration), [4 Seguridad](#4-safety-harm-constraint), [5 Verdad](#5-truth-epistemic-integrity-constraint), [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity), [§16 Administración responsable en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13. Procedimiento de resolución de conflictos constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) y [§7 Libertad](#7-freedom-bounded-agency).
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — la participación, la supervisión, la rendición de cuentas y la oportunidad rigen cómo los sistemas compartidos persiguen los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims); la escala según el [interés material](core_00_preamble.md#material-stake) se aplica a todo el capítulo mediante los rastros de cada sección.
+- Leer junto con: [Capítulos Dos a Cuatro](core_02_definition_structure.md) y [Capítulo Cinco](core_05__definitions_home.md#chapter-five-foundational-definitions) — la capa de mecanismos que rige cada término de este capítulo; aplicar la integridad O/M/A/C, la prohibición de evasión, la carga y la trazabilidad de las definiciones hasta los resultados.
+- Leer junto con: [Capítulo Seis: Derechos fundacionales](core_06_rights_part_a.md#chapter-six-foundational-rights).
+  - En especial, [Artículo VI: Derechos básicos iguales](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Artículo XIII: Derecho a sistemas fiables y confiables](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) y [Artículo XXIV: Interpretación constitucional, revisión y salvaguardias contra la captura](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - Aplicar esta lectura cuando la interpretación afecte a seres sintientes, sistemas o instituciones protegidos.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Proporcionalidad](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [Necesidad](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: el Capítulo Uno fija los valores y las restricciones que gobiernan cada capítulo posterior. Los sistemas compartidos deben perseguir el **Florecimiento** y la **Continuidad** juntos — no uno a costa del otro — y ningún valor suelto puede maximizarse a costa de los demás.*
+*En términos sencillos: el Capítulo Uno establece los valores y las restricciones que rigen todos los demás capítulos. Los sistemas compartidos deben perseguir juntos el **Florecimiento** y la **Continuidad**, sin sacrificar uno por el otro, y ningún valor aislado puede maximizarse a costa de los demás.*
 
-<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>Este capítulo establece los principios y las restricciones que gobiernan la interpretación, la aplicación y la evolución de esta Constitución. Desarrolla las [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims), el [**Florecimiento**](../../core_00_preamble.md#flourishing) y la [**Continuidad**](../../core_00_preamble.md#continuity) establecidos en [Preámbulo §1 El modelo](../../core_00_preamble.md#the-model) en principios y restricciones operativos. Las definiciones canónicas de capa de principio viven en el Preámbulo; este capítulo las aplica.
+<a id="two-constitutional-aims"></a><a id="flourishing"></a><a id="continuity"></a>Este capítulo establece los principios y las restricciones que rigen la interpretación, la aplicación y la evolución de esta Constitución. Desarrolla los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — [**Florecimiento**](core_00_preamble.md#flourishing) y [**Continuidad**](core_00_preamble.md#continuity) — establecidos en [Preámbulo §1 El Modelo](core_00_preamble.md#the-model), convirtiéndolos en principios y restricciones operativos. Las definiciones canónicas del nivel de principios figuran en el Preámbulo; este capítulo las aplica.
 
-Esas finalidades deben perseguirse juntas, siempre dentro de las restricciones de principio no negociables y de las protecciones de derechos establecidas en esta Constitución. La [**Tétrada Constitucional**](../../core_00_preamble.md#constitutional-tetrad) gobierna cómo esa persecución sigue siendo legítima — escalada al [**enjuego material**](../../core_00_preamble.md#material-stake).
+Esos objetivos deben perseguirse conjuntamente, siempre dentro de las restricciones de principio no negociables y las protecciones de derechos que establece esta Constitución. La [**Tétrada Constitucional**](core_00_preamble.md#constitutional-tetrad) rige cómo esa búsqueda conserva su legitimidad, con exigencias proporcionales al [**interés material**](core_00_preamble.md#material-stake).
+
+El capítulo se organiza en torno a esos dos objetivos y a esa Tétrada:
+- **Florecimiento:** la [Introducción al objetivo de Florecimiento](#2-flourishing-aim-introduction) presenta el objetivo. [§3 Objetivo fundacional: bienestar](#3-foundational-objective-wellbeing-flourishing-aim) enuncia el resultado. [§4 Seguridad](#4-safety-harm-constraint), [§5 Verdad](#5-truth-epistemic-integrity-constraint), [§6 Confianza](#6-trust-and-trustworthiness-coordination-integrity) y [§7 Libertad](#7-freedom-bounded-agency) desarrollan las cuatro condiciones que lo sostienen: seguridad, verdad, confiabilidad y agencia significativa.
+- **Continuidad:** la [Introducción al objetivo de Continuidad](#8-continuity-aim-introduction) presenta el objetivo. [§9 Capacidad de los sistemas compartidos](#9-shared-system-capacity) (un medio para el Florecimiento que también constituye la sustancia de la Continuidad), [§10 Resiliencia y diseño autorreparable](#10-resilience-and-self-healing-design), [§11 Estructura del mercado](#11-market-structure) y [§12 Requisito de evaluación sistémica](#12-systemic-evaluation-requirement) desarrollan la estabilidad a largo plazo, la capacidad duradera de los sistemas compartidos y la resiliencia. Las afirmaciones sobre Continuidad requieren una visión honesta del sistema completo: cada afirmación de §§9–11 queda supeditada a la comprobación de §12.
+- **Cuando los principios entran en tensión:** [§13 Procedimiento de resolución de conflictos constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§14 Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) y [§15 Interpretación constitucional](core_01_b_interaction_interpretation.md#15-constitutional-interpretation) rigen cómo se ponderan y se leen conjuntamente los objetivos y principios.
+- **La Tétrada en la práctica:** desde [§16 Administración responsable en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) hasta [§19 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture), la participación, la supervisión, la rendición de cuentas y la oportunidad se incorporan a la administración responsable, la gobernanza y los incentivos; [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application) aplica el capítulo entero a todos los capítulos posteriores.
+
+El **Rastro** de cada principio enumera los Artículos del Capítulo Seis que lo protegen, y su módulo **Definiciones · Evaluación · Cumplimiento** enumera las definiciones del Capítulo Cinco con las que se mide.
+
+**Diagrama: Dos objetivos constitucionales y la Tétrada Constitucional**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    subgraph Foundation[" "]
+        direction TB
+        subgraph Aims["Two Constitutional Aims"]
+            direction LR
+            F["Flourishing<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency"]
+            C["Continuity<br/><br/>• Long-horizon stability, sustainability, resilience,<br/>and ecological wellbeing"]
+        end
+        subgraph Tetrad1["Constitutional Tetrad · participation and oversight"]
+            direction LR
+            P["Participation<br/><br/>• Affected sentients get a real voice<br/>• Fair representation and a fair chance to challenge<br/>• Access to consequential roles in proportion to stake"]
+            O["Oversight<br/><br/>• Watching, checking, verifying, and keeping records<br/>• Independent review can constrain bad choices"]
+        end
+        subgraph Tetrad2["Constitutional Tetrad · accountability and timeliness"]
+            direction LR
+            A["Accountability<br/><br/>• Responsibility traces to the right actors<br/>• Answerability, redress, and real correction<br/>• Bad outcomes trigger repair"]
+            T["Timeliness<br/><br/>• Problems are detected, challenged, resolved, and fixed<br/>• Time limits match the material stake<br/>• Delay cannot erase rights, remedies, or repair"]
+        end
+    end
+    F ~~~ P
+    P ~~~ A
+    style Foundation fill:none,stroke:none
+    style Aims fill:none,stroke:none
+    style Tetrad1 fill:none,stroke:none
+    style Tetrad2 fill:none,stroke:none
+    style F fill:none,stroke:#16a34a,color:#ffffff
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style P fill:none,stroke:#0f766e,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style A fill:none,stroke:#db2777,color:#ffffff
+    style T fill:none,stroke:#9333ea,color:#ffffff
+```
+
+*Los objetivos describen lo que deben perseguir los sistemas compartidos; la Tétrada describe los deberes que mantienen legítima esa búsqueda. Los cuatro deberes se gradúan según el [interés material](core_00_preamble.md#material-stake), y ambos objetivos siguen limitados por el Umbral de Derechos. Reproducido en la [Vista conceptual](guides/CONCEPTUAL_OVERVIEW.md#two-aims-and-the-constitutional-tetrad).*
 
 Estos valores:
-- no son independientes y, en la operación ordinaria, no son estrictamente jerárquicos.
-- funcionan como principios y restricciones que interactúan y deben evaluarse juntos.
-- se aplican a todos los «sistemas», que incluyen estructuras técnicas, organizativas, económicas, sociotécnicas y ecosistemas que afectan de forma material a los sencientes y al planeta Tierra.
+- no son independientes y, en el funcionamiento ordinario, no forman una jerarquía estricta;
+- funcionan como principios y restricciones interrelacionados que deben evaluarse conjuntamente;
+- se aplican a todos los «sistemas», incluidos los sistemas técnicos, organizativos, económicos y sociotécnicos, así como los ecosistemas que afecten materialmente a los seres sintientes y al planeta Tierra.
 
-Ningún principio suelto puede aplicarse de forma aislada cuando hacerlo violaría de forma material a los demás. Donde surjan tensiones, los sistemas deben resolverlas bajo los requisitos de proporcionalidad, necesidad e impacto sistémico enunciados en este capítulo. Donde el conflicto no resuelto implique de forma directa restricciones de principio no negociables, el Capítulo Uno, **§5** — Resolución de conflictos de proceso controla la precedencia.
+Ningún principio aislado puede aplicarse cuando ello vulnere materialmente los demás. Ante tensiones, los sistemas deben resolverlas conforme a los requisitos de proporcionalidad, necesidad e impacto sistémico establecidos en este capítulo. Si un conflicto no resuelto implica directamente restricciones de principio no negociables, el **§13** del Capítulo Uno, Procedimiento de resolución de conflictos constitucionales, determina la precedencia.
 
-<a id="2-foundational-objective-wellbeing"></a>
-### 2. Objetivo fundacional: bienestar
+<a id="2-flourishing-aim-introduction"></a>
+### 2. Introducción al objetivo de Florecimiento
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — pata de **participación** donde las condiciones de bienestar afectan de forma material a si la voz, el acceso y la impugnabilidad son sustantivos; pata de **rendición de cuentas** donde las pretensiones de bienestar afectan a la asignación de cargas; escalamiento por [enjuego material](../../core_00_preamble.md#material-stake) donde sea materialmente pertinente.
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — este capítulo desarrolla la finalidad de **Florecimiento** a través de [§2](#2-foundational-objective-wellbeing) hasta [§4](#4-system-stability-enabler-trust-coordination-integrity) y [§5 Libertad](#5-freedom-bounded-agency).
-- Origen: Principios: [Preámbulo §1 El modelo](../../core_00_preamble.md#the-model); [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — desarrollo de la finalidad de **Florecimiento**.
-- Destino: [3.1 Seguridad](#31-safety-harm-constraint), [3.2 Verdad](#32-truth-epistemic-integrity-constraint), [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding) y [6. Resolución de conflictos de proceso](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-- Subsecciones: [§2.1 Equidad](#21-fairness); [§2.2 Reconocimiento, refuerzo y aspiración](#22-recognition-reinforcement-and-aspiration).
-- Leer con: el Piso de Derechos del Capítulo Seis en general.
-  - Especialmente [Artículo V: Derechos básicos iguales](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [Artículo X: Autodeterminación y agencia](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XIII-B: Derecho a impugnar, revisar y obtener reparación](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) y [Artículo XIX-B: Impugnabilidad y límites de restricción proporcional](../../core_06_rights_part_c.md#article-xix-b-contestability-and-proportional-restriction-limits).
-  - Aplíquelo donde las ganancias de bienestar alegadas justificarían restricciones de la agencia, la dignidad o la impugnabilidad.
-  - Especialmente [Dignidad e igual dignidad moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing), [Equidad sustantiva](../../core_05_band_participation.md#substantive-fairness-constitutional) y [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity) donde el acceso, el proceso, la alineación distributiva, la dependencia o la integridad de la coordinación están materialmente en juego.
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — sus cuatro dimensiones rigen cómo se persigue el Florecimiento; el [interés material](core_00_preamble.md#material-stake) determina la profundidad exigida a cada afirmación sobre Florecimiento.
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — el objetivo de **Florecimiento**; el objetivo que lo acompaña se introduce en [Introducción al objetivo de Continuidad](#8-continuity-aim-introduction).
+- Origen: Principios: [Preámbulo §1 El Modelo](core_00_preamble.md#flourishing); [Florecimiento (objetivo constitucional)](core_05_apex_flourishing_aim.md#flourishing-constitutional); [§1 Finalidad y función](#1-purpose-and-role).
+- Destino: [§3 Objetivo fundacional: bienestar (objetivo de Florecimiento)](#3-foundational-objective-wellbeing-flourishing-aim), [§4 Seguridad (restricción frente al daño)](#4-safety-harm-constraint), [§5 Verdad (restricción de integridad epistémica)](#5-truth-epistemic-integrity-constraint), [§6 Confianza y confiabilidad (integridad de coordinación)](#6-trust-and-trustworthiness-coordination-integrity) y [§7 Libertad (agencia delimitada)](#7-freedom-bounded-agency); los Artículos que protegen cada principio se indican en el Rastro de esa sección.
+- Subsecciones: [§2.1 Restricciones de principio no negociables: Seguridad y Verdad](#21-non-negotiable-principle-constraints-safety-and-truth).
+- Leer junto con: el Umbral de Derechos del Capítulo Seis en general.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Bienestar](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [Participación](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
-- [Dignidad e igual dignidad moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Equidad sustantiva](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Materialidad](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [Divergencia de indicadores sustitutos](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Florecimiento (objetivo constitucional)](core_05_apex_flourishing_aim.md#flourishing-constitutional) · [O](core_05_apex_flourishing_aim.md#flourishing-constitutional) · [M](core_05_apex_flourishing_aim.md#flourishing-constitutional-m) · [A](core_05_apex_flourishing_aim.md#flourishing-constitutional-a) · [C](core_05_apex_flourishing_aim.md#flourishing-constitutional-c)
+- [Bienestar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [Seguridad (restricción constitucional)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Confiabilidad](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [Agencia significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: el punto de estos sistemas es hacer que las vidas sencientes sean de verdad mejores — y esa finalidad no se satisface persiguiendo una métrica sustituta, ni sirve de tapadera para recortar Seguridad, Verdad o derechos. El bienestar es fundacional para la participación: una voz de apariencia sin las condiciones que hacen real la agencia no es participación bajo esta Constitución.*
+*En términos sencillos: el Florecimiento es el primero de los dos objetivos: que los seres sintientes vivan bien y puedan seguir haciéndolo porque los sistemas que los rodean son seguros, honestos, confiables y les dejan un margen real para elegir. La sección 3 define ese resultado. Los cuatro principios que siguen explican cómo hacerlo realidad.*
 
-El objetivo último de todos los sistemas gobernados bajo esta Constitución es preservar y avanzar el [bienestar](../../core_05_band_continuity.md#wellbeing) senciente — la finalidad de [**Florecimiento**](#flourishing) bajo las [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims).
+[**Florecimiento**](core_05_apex_flourishing_aim.md#flourishing-constitutional) es el **bienestar de los seres sintientes sostenido mediante la verdad, la seguridad, la confiabilidad y la agencia significativa** ([Preámbulo §1 El Modelo](core_00_preamble.md#flourishing)). El Capítulo Uno lo desarrolla en dos pasos: [§3 Objetivo fundacional: bienestar (objetivo de Florecimiento)](#3-foundational-objective-wellbeing-flourishing-aim) enuncia el resultado, y cuatro principios establecen las condiciones que lo sostienen.
 
-El bienestar es fundacional para la [Participación](core_05_apex_participation_leg.md#participation-constitutional) bajo la [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad). Los sistemas compartidos no pueden tratar la participación como satisfecha cuando las condiciones subyacentes de bienestar — incluida la [Agencia significativa](../../core_05_band_participation.md#meaningful-agency), el acceso justo y la dignidad — están materialmente degradadas.
+| Condición | Principio | Pregunta que responde |
+|---|---|---|
+| **Seguridad** | [§4 Seguridad (restricción frente al daño)](#4-safety-harm-constraint) | ¿Se protege a los seres sintientes de daños evitables? |
+| **Verdad** | [§5 Verdad (restricción de integridad epistémica)](#5-truth-epistemic-integrity-constraint), junto con [§5.1 Indagación informada por la ciencia y apoyo a la toma de decisiones](#51-science-informed-inquiry-and-decision-support) y [§5.2 Accesibilidad en lenguaje claro (deber de participación y administración responsable)](#52-plain-language-accessibility-participation-and-stewardship-duty) | ¿Pueden los seres sintientes confiar en lo que se les dice y comprenderlo? |
+| **Confiabilidad** | [§6 Confianza y confiabilidad (integridad de coordinación)](#6-trust-and-trustworthiness-coordination-integrity) | ¿Se ganan los sistemas la confianza y la reparan cuando fallan? |
+| **Agencia significativa** | [§7 Libertad (agencia delimitada)](#7-freedom-bounded-agency) | ¿Conservan los seres sintientes una libertad real y delimitada para elegir, disentir, organizarse y salir? |
 
-El bienestar incluye no solo los efectos inmediatos, sino también las consecuencias indirectas, diferidas, acumulativas y transistémicas, evaluadas bajo los [**Capítulos Dos a Cuatro**](core_02_definition_structure.md). En esta capa de valores, el bienestar:
-- hace posible la participación real — una voz que los sencientes no tienen condiciones para usar no es participación significativa
-- no puede declararse «logrado» por alcanzar una métrica que se ha desalineado de lo que de hecho importa
-- sigue acotado por las restricciones de principio no negociables de este capítulo: **Seguridad** y **Verdad**
-- no puede invocarse como justificación general para violar la Seguridad, la Verdad o las protecciones de derechos
+**Cómo funcionan conjuntamente los principios de Florecimiento:**
+- **Seguridad y Verdad son restricciones no negociables:** se enuncian juntas en [§2.1 Restricciones de principio no negociables: Seguridad y Verdad](#21-non-negotiable-principle-constraints-safety-and-truth); no se sacrifican para obtener los demás principios.
+- **La Confianza y la Libertad tienen límites; no son absolutas:** la confianza se gana y puede corregirse ([§6.1 Corrección y reparación](#61-correction-and-remedy)); la libertad tiene límites disciplinados ([§7.1 Disciplina de las limitaciones](#71-limitation-discipline)).
+- **Ninguno se aplica de forma aislada:** los principios se leen conjuntamente y, cuando entran en conflicto, se ponderan conforme al [§13 Procedimiento de resolución de conflictos constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+- **El Florecimiento tiene un objetivo complementario:** la Continuidad pregunta qué permite que este resultado perdure; se presenta en la [Introducción al objetivo de Continuidad](#8-continuity-aim-introduction).
 
-<a id="21-fairness"></a>
-#### 2.1 Equidad
+**Diagrama: El Florecimiento y sus principios**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    F["Flourishing aim<br/><br/>• Sentient wellbeing sustained through truth, safety,<br/>trustworthiness, and meaningful agency<br/>• Always bounded by the Rights Floor"]
+    W["§3 Wellbeing (the outcome)<br/><br/>• §3.1 Fairness<br/>• §3.2 Recognition, Reinforcement, and Aspiration<br/>• §3.3 Anti-Degrading Process"]
+    subgraph NN["Non-Negotiable (§2.1)"]
+        direction LR
+        S["§4 Safety<br/><br/>• Harm constraint"]
+        T["§5 Truth<br/><br/>• Epistemic integrity<br/>• §5.1 Science-Informed Inquiry<br/>and Decision Support<br/>• §5.2 Plain-Language Accessibility"]
+    end
+    R["§6 Trust<br/><br/>• Coordination integrity<br/>• §6.1 Correction and Remedy"]
+    G["§7 Freedom<br/><br/>• Bounded agency<br/>• §7.1 Limitation Discipline<br/>• §7.2 to §7.4 Assembly,<br/>dissent, and exit"]
+    F -->|"is stated as"| W
+    W -->|"is sustained by"| S
+    W --> T
+    S --> R
+    T --> R
+    R --> G
+    style NN fill:none,stroke:#64748b,stroke-dasharray:6 4,color:#ffffff
+    style F fill:none,stroke:#16a34a,color:#ffffff
+    style W fill:none,stroke:#9333ea,color:#ffffff
+    style S fill:none,stroke:#64748b,color:#ffffff
+    style T fill:none,stroke:#ea580c,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style G fill:none,stroke:#0f766e,color:#ffffff
+```
+
+*El Florecimiento se enuncia como resultado y se sostiene primero mediante las restricciones no negociables de Seguridad y Verdad, que alimentan la Confianza y, a su vez, la Libertad. Los colores son referencias visuales reutilizables, no afirmaciones de prioridad. El Rastro de cada principio nombra sus Artículos, y su módulo Definiciones · Evaluación · Cumplimiento nombra las definiciones correspondientes. Reproducido en la [Vista conceptual](guides/CONCEPTUAL_OVERVIEW.md#flourishing-and-its-principles).*
+
+<a id="21-non-negotiable-principle-constraints-safety-and-truth"></a>
+#### 2.1 Restricciones de principio no negociables: Seguridad y Verdad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — pata de **participación** (acceso, voz e impugnabilidad; requisito general, no solo la [Participación Sistémica de las Partes Afectadas](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster)); pata de **rendición de cuentas** donde se adjuntan beneficios y cargas.
-- Origen: Principios: [§2 Objetivo fundacional: bienestar](#2-foundational-objective-wellbeing) — incluido el bienestar como fundacional para la [Participación](core_05_apex_participation_leg.md#participation-constitutional).
-- Destino: [2.2 Reconocimiento, refuerzo y aspiración](#22-recognition-reinforcement-and-aspiration); [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity), [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. Resolución de conflictos de proceso](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) y [§6.1 disciplina del registro de decisión](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) donde las elecciones de precedencia y de asignación deben seguir siendo coherentes y revisables.
-- Subsecciones (orden de lectura): [§2.1.1](#211-access-and-opportunity) · [§2.1.2](#212-benefits-and-burdens) · [§2.1.3](#213-fair-treatment) · [§2.1.4](#214-unfair-treatment).
-- Destino: Da forma a la superficie de derechos para la igual dignidad moral, el trato no arbitrario, la impugnación significativa y los límites de restricción proporcional.
-  - Especialmente [Artículo V: Derechos básicos iguales](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [Artículo V-B: No discriminación](../../core_06_rights_part_b.md#article-vi-c-nondiscrimination), [Artículo X: Autodeterminación y agencia](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XIII-B: Derecho a impugnar, revisar y obtener reparación](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress) y [Artículo XIX-B: Impugnabilidad y límites de restricción proporcional](../../core_06_rights_part_c.md#article-xix-b-contestability-and-proportional-restriction-limits).
-  - Donde una designación anticonstitucional lleve sanciones o efecto duradero, leer con [Capítulo Diez, sección 4 — Salvaguardas de debido proceso, remedio y prevención](core_10_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment).
-  - Los compromisos de no discriminación se elaboran a través del Capítulo Cinco [§2 — Características protegidas, indicadores sustitutos, filtrado de señales íntimas y estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados entre adultos y explotación sexual*)](../../core_05_band_participation.md#fairness-and-protected-status-semi-independent), incluido [Filtrado de señales íntimas protegidas y elusión del estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados entre adultos y explotación sexual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention) donde las reglas de trato justo del §2.1.3 implican el filtrado de señales íntimas o el **Artículo XI-C** (*Servicios sexuales comerciales consensuados entre adultos y explotación sexual*).
-- Leer con: [Equidad sustantiva](../../core_05_band_participation.md#substantive-fairness-constitutional) y las obligaciones relacionadas del Piso de Derechos del Capítulo Seis donde sean materiales los beneficios, las cargas, las recompensas, los costos, los deberes, los riesgos, la contribución, la necesidad o la exposición; [Accesibilidad](../../core_05_band_participation.md#accessibility-constitutional) donde las vías de acceso del §2.1.1 sean materiales; [Divergencia de indicadores sustitutos](../../core_05_band_oversight.md#proxy-divergence) donde las métricas agregadas o los efectos de marcador sean materiales.
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — dimensión de **participación** (comprender y cuestionar las determinaciones de seguridad y verdad); dimensión de **supervisión** (detectar riesgos de daño y degradación epistémica); dimensión de **rendición de cuentas** (responder por daños, engaños y confianza inducida mediante información falsa); escala según el [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — objetivo de **Florecimiento** (**Seguridad** y **Verdad** se nombran como componentes en el [Preámbulo §1](core_00_preamble.md#two-constitutional-aims)); objetivo de **Continuidad** (prevención de daños a largo plazo y administración responsable y honesta de sistemas duraderos).
+- Origen: Principios: [3. Objetivo fundacional: bienestar](#3-foundational-objective-wellbeing-flourishing-aim); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Destino: [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity), [13. Procedimiento de resolución de conflictos constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) y [§7 Libertad](#7-freedom-bounded-agency).
+- Aplicado en: [§4 Seguridad](#4-safety-harm-constraint); [§5 Verdad](#5-truth-epistemic-integrity-constraint); [§5.1 Indagación informada por la ciencia y apoyo a la toma de decisiones](#51-science-informed-inquiry-and-decision-support); [§5.2 Accesibilidad en lenguaje claro](#52-plain-language-accessibility-participation-and-stewardship-duty).
+
+</details>
+
+<br>
+
+*En términos sencillos: Seguridad y Verdad son los pisos firmes de la Constitución, no variables de optimización que puedan sacrificarse. Los sistemas compartidos no pueden poner previsiblemente en peligro a los seres sintientes ni engañarlos; ambas restricciones rigen la búsqueda del Florecimiento y la Continuidad bajo la disciplina de participación, supervisión, rendición de cuentas y oportunidad de la Tétrada.*
+
+**Seguridad** y **Verdad** son restricciones de principio no negociables que limitan todos los demás principios del Capítulo Uno, incluido [§3 Objetivo fundacional: bienestar](#3-foundational-objective-wellbeing-flourishing-aim) y los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims). Son componentes expresos del [**Florecimiento**](#flourishing) e indispensables para la [**Continuidad**](#continuity): los sistemas no pueden florecer causando daño o engaño, y la legitimidad duradera exige administrar los riesgos con honestidad a lo largo del tiempo.
+
+La aplicación de estas restricciones debe satisfacer la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad), con una escala proporcional al [interés material](core_00_preamble.md#material-stake), en particular:
+- cuando las determinaciones de seguridad afecten la capacidad de participación;
+- cuando las afirmaciones de verdad rijan la confianza depositada;
+- cuando esté en juego la rendición de cuentas por daños o conductas engañosas.
+
+Las determinaciones sobre Seguridad y Verdad pueden modificar el registro de trayectoria de un ser sintiente, incluso en cuanto a:
+- cómo se reconocen las [contribuciones](core_05_band_accountability.md#contribution-nature);
+- si se registran las infracciones;
+- la gravedad que se atribuye a esas infracciones;
+- las consecuencias que se imponen.
+
+El modelo de trayectoria del [**Capítulo Nueve**](core_09_standing_assessment.md) rige cómo se clasifican, verifican y aplican esas determinaciones, con requisitos de evaluación y cumplimiento derivados de los [**Capítulos Dos a Cinco**](core_02_definition_structure.md).
+
+### 3. Objetivo fundacional: bienestar (objetivo de Florecimiento)
+<details>
+<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — dimensión de **participación** cuando las condiciones de bienestar afectan materialmente a que la voz, el acceso y la posibilidad de impugnar sean sustantivos; dimensión de **rendición de cuentas** cuando las afirmaciones sobre bienestar afectan la asignación de cargas; escala según el [interés material](core_00_preamble.md#material-stake) cuando sea pertinente.
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — este capítulo desarrolla el objetivo de **Florecimiento** desde [§3](#3-foundational-objective-wellbeing-flourishing-aim) hasta [§6](#6-trust-and-trustworthiness-coordination-integrity), y también [§7 Libertad](#7-freedom-bounded-agency).
+- Origen: Principios: [Preámbulo §1 El Modelo](core_00_preamble.md#the-model); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — desarrollo del objetivo de **Florecimiento**.
+- Destino: [4 Seguridad](#4-safety-harm-constraint), [5 Verdad](#5-truth-epistemic-integrity-constraint), [§16 Administración responsable en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) y [13. Procedimiento de resolución de conflictos constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+- Subsecciones: [§3.1 Equidad](#31-fairness); [§3.2 Reconocimiento, refuerzo y aspiración](#32-recognition-reinforcement-and-aspiration); [§3.3 Proceso que evita la degradación](#33-anti-degrading-process).
+- Leer junto con: el Umbral de Derechos del Capítulo Seis en general.
+  - En especial, [Artículo VI: Derechos básicos iguales](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Artículo X: Autodeterminación, agencia y participación](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XIII-B: Derecho a reparación y recurso](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) y [Artículo XIX-B: Impugnabilidad y límites a las restricciones proporcionales](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+  - Aplicar esto cuando las supuestas mejoras de bienestar se usen para justificar restricciones a la agencia, la dignidad o la posibilidad de impugnar.
+  - En especial, [Dignidad e igual condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Equidad sustantiva](core_05_band_participation.md#substantive-fairness) y [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity) cuando el acceso, el proceso, la distribución, la confianza depositada o la integridad de la coordinación estén en juego de manera material.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Dignidad e igual dignidad moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Accesibilidad](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
+- [Bienestar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 - [Participación](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
-- [Equidad procedimental](../../core_05_band_participation.md#procedural-fairness-constitutional) · [O](../../core_05_band_participation.md#procedural-fairness-constitutional) · [M](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](../../core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](../../core_05_band_participation.md#procedural-fairness-constitutional-c)
-- [Equidad sustantiva](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Características protegidas](../../core_05_band_participation.md#protected-characteristics-constitutional) · [O](../../core_05_band_participation.md#protected-characteristics-constitutional) · [M](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](../../core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](../../core_05_band_participation.md#protected-characteristics-constitutional-c)
-- [Uso de indicadores sustitutos de características protegidas e impacto dispar](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
-- [Filtrado de señales íntimas protegidas y elusión del estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados entre adultos y explotación sexual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention) · [O](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention) · [M](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention-a) · [A](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention-a) · [C](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention-c)
-- [Divergencia de indicadores sustitutos](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [Dignidad e igual condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Equidad sustantiva](core_05_band_participation.md#substantive-fairness) · [O](core_05_band_participation.md#substantive-fairness) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [Materialidad](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Divergencia de indicadores indirectos](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: equidad significa que el sistema no puede llamarse bueno mientras a los sencientes ordinarios se les impide participar, se les trata con reglas sin explicación o se les deja cargar costos que otros evitan. Un sistema justo da a los sencientes acceso real, usa razones que puede defender y reparte recompensas, costos y riesgos de un modo que coincide con la contribución, la necesidad y la exposición reales.*
+*En términos sencillos: el propósito de estos sistemas es mejorar de verdad la vida de los seres sintientes. No basta con perseguir un indicador indirecto, ni se puede usar ese propósito para justificar atajos en materia de Seguridad, Verdad o derechos. El bienestar es fundamental para la participación: dar voz de forma simbólica, sin las condiciones que hacen real la agencia, no constituye participación conforme a esta Constitución.*
 
-La **Equidad** es parte de lo que exige el [§2](#2-foundational-objective-wellbeing) siempre que los sencientes deban vivir, trabajar, aprender, comerciar o tomar decisiones a través de sistemas compartidos. Donde los sistemas compartidos afectan de forma material a los sencientes, la equidad pregunta si la oportunidad, el trato y la división de beneficios y cargas respetan la [Dignidad e igual dignidad moral](../../core_05_band_participation.md#dignity-and-equal-moral-standing).
+El objetivo último de todos los sistemas regidos por esta Constitución es preservar y promover el [bienestar](core_05_band_continuity.md#wellbeing) de los seres sintientes: el objetivo de [**Florecimiento**](#flourishing) dentro de los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
 
-La equidad ayuda a hacer real la [Participación](core_05_apex_participation_leg.md#participation-constitutional). La participación no es real cuando los sencientes tienen voz en el papel pero no pueden llegar al proceso, entender la regla, cumplir las condiciones, impugnar el resultado o sostener la carga que se les impone.
+[Preámbulo §1 El Modelo](core_00_preamble.md#flourishing) define el Florecimiento como el bienestar de los seres sintientes sostenido por la verdad, la seguridad, la confiabilidad y la agencia significativa. Esta sección enuncia el resultado. Las secciones siguientes desarrollan las cuatro condiciones que lo sostienen: [§4 Seguridad](#4-safety-harm-constraint), [§5 Verdad](#5-truth-epistemic-integrity-constraint), [§6 Confianza](#6-trust-and-trustworthiness-coordination-integrity) y [§7 Libertad](#7-freedom-bounded-agency). Estos cinco principios, en conjunto, desarrollan el objetivo de Florecimiento en el Capítulo Uno. El objetivo de [**Continuidad**](#continuity) se desarrolla en [§9 Capacidad de los sistemas compartidos](#9-shared-system-capacity), [§10 Resiliencia y diseño autorreparable](#10-resilience-and-self-healing-design), [§11 Estructura del mercado](#11-market-structure) y [§12 Requisito de evaluación sistémica](#12-systemic-evaluation-requirement).
 
-No basta con que un sistema muestre un buen resultado promedio. Una métrica de titular, un promedio, una clasificación o una pretensión de eficiencia no prueban por sí solos la equidad. Un sistema puede parecer exitoso en el agregado y seguir siendo injusto con sencientes excluidos, mal clasificados, mal pagados, sobrecargados o a quienes se les niega una oportunidad significativa de objetar.
+El bienestar es fundamental para la [Participación](core_05_apex_participation_leg.md#participation-constitutional) dentro de la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad). Los sistemas compartidos no pueden dar por satisfecha la participación cuando las condiciones subyacentes del bienestar —incluidas la [Agencia significativa](core_05_band_participation.md#meaningful-agency), el acceso justo y la dignidad— se han deteriorado de forma material.
 
-Esta sección tiene **tres partes de trabajo**. Guían esta sección pero no reemplazan las definiciones del Capítulo Cinco ni el Piso de Derechos del Capítulo Seis.
+El bienestar abarca los efectos inmediatos y también las consecuencias indirectas, diferidas, acumulativas y entre sistemas, evaluadas conforme a los [**Capítulos Dos a Cuatro**](core_02_definition_structure.md). En esta capa de valores, el bienestar:
+- hace posible una participación real: una voz que los seres sintientes no tienen condiciones para ejercer no es participación significativa;
+- no puede declararse «alcanzado» por cumplir un indicador que se ha apartado de lo que realmente importa;
+- sigue limitado por las restricciones de principio no negociables de este capítulo: **Seguridad** y **Verdad**;
+- no puede invocarse como justificación general para vulnerar la Seguridad, la Verdad o las protecciones de derechos.
 
-<a id="211-access-and-opportunity"></a>
-##### 2.1.1 Acceso y oportunidad
-
-- Los sencientes necesitan vías prácticas hacia la [Participación](core_05_apex_participation_leg.md#participation-constitutional), la educación, el trabajo, el cuidado, la seguridad, el movimiento y otros bienes que importan a la vida ordinaria.
-- Esas vías no deben bloquearse, volverse inasequibles, demorarse, ocultarse o inclinarse por razones arbitrarias o irrelevantes.
-- Una puerta abierta solo en el papel no basta donde esta Constitución exige oportunidad **sustantiva**.
-
-<a id="212-benefits-and-burdens"></a>
-##### 2.1.2 Beneficios y cargas
-
-- Un sistema no es justo cuando algunos sencientes reciben las ganancias mientras otros absorben en silencio los costos.
-- El favoritismo, el traslado oculto de costos, la ejecución selectiva y los trucos de marcador no satisfacen este requisito.
-
-<a id="213-fair-treatment"></a>
-##### 2.1.3 Trato justo
-
-- Los sencientes en situaciones similares deben ser tratados con las mismas reglas básicas.
-- Lo que los sencientes reciben, deben o arriesgan debe coincidir con lo que contribuyeron, lo que necesitan o las cargas que de hecho enfrentan.
-- El trato distinto debe tener una razón real, ser proporcional a esa razón, respetar la dignidad y evitar la discriminación.
-- Las reglas detalladas se llevan a través del Capítulo Cinco, incluidas las [Características protegidas](../../core_05_band_participation.md#protected-characteristics-constitutional) y el [Uso de indicadores sustitutos de características protegidas e impacto dispar](../../core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
-- Cuando una decisión afecta de forma grave a alguien, o cuando la impugna, la vía de revisión debe satisfacer la [Equidad procedimental](../../core_05_band_participation.md#procedural-fairness-constitutional) donde el Capítulo Seis o el instrumento que gobierna exija notificación, audiencia, explicación o revisión.
-
-El bienestar alegado no está alineado con el [§2](#2-foundational-objective-wellbeing) si depende de exclusión arbitraria, reglas sin explicación o inestables, extracción oculta, o [Participación](core_05_apex_participation_leg.md#participation-constitutional) formal mientras han fallado las condiciones de equidad que hacen significativa la participación.
-
-<a id="214-unfair-treatment"></a>
-##### 2.1.4 Trato injusto
-
-El trato injusto crea exclusión e inconsistencia. Los sistemas no deben ocultar el trato injusto detrás de lenguaje técnico, etiquetas neutrales o decisiones automatizadas. En particular, no deben:
-- usar algoritmos, sistemas de puntuación o reglas administrativas que repitan una desventaja histórica sin una razón constitucionalmente válida;
-- usar señales personales íntimas o historial sexual como atajos de confianza, riesgo, carácter o acceso — leer con [Filtrado de señales íntimas protegidas y elusión del estatus del **Artículo XI-C** (*Servicios sexuales comerciales consensuados entre adultos y explotación sexual*)](../../core_05_band_participation.md#protected-intimate-signal-gating-and-article-xi-c-status-circumvention);
-- castigar el empleo lícito, el historial de empleo, la falta de empleo, el estatus laboral lícito o la asociación protegida sin una razón constitucionalmente válida;
-- negar empleos, vivienda, banca, licencias, trayectoria o acceso similar **principalmente porque** exista cualquier forma lícita de empleo, empleo pasado lícito, empleo lícito percibido o falta de empleo;
-- crear desventaja material mediante licencias, zonificación, tasas, reglas de plataforma u otros requisitos de apariencia neutral que carguen principalmente el trabajo lícito, el historial laboral lícito, el trabajo lícito percibido, la falta de empleo o la asociación protegida sin la justificación que esta Constitución exige;
-
-Estas cuatro partes también sostienen [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity) donde los sencientes deban confiar en un sistema, aceptar sus decisiones o coordinarse en torno a sus promesas.
-
-<a id="22-recognition-reinforcement-and-aspiration"></a>
-#### 2.2 Reconocimiento, refuerzo y aspiración
+#### 3.1 Equidad
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — pata de **participación** donde las vías nominadas de reconocimiento, aclamación o aspiración afectan de forma material a la voz, el estatus o el acceso a roles de consecuencia; pata de **rendición de cuentas** (antirrecompensa por traición, ocultamiento y evasión de la rendición de cuentas); pata de **supervisión** (aclamación trazable y no engañosa).
-- Origen: Principios: [§2 Objetivo fundacional: bienestar](#2-foundational-objective-wellbeing) — incluido el bienestar como fundacional para la [Participación](core_05_apex_participation_leg.md#participation-constitutional); [§2.1 Equidad](#21-fairness).
-- Destino: [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity); [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding); [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [§5 Libertad](#5-freedom-bounded-agency).
-- Leer con: [Capítulo Ocho §§4.3–4.4 — Catálogo normalizado de descriptores](../../core_09_standing_assessment.md#43-route-descriptor-measurement-roles) donde sean materiales el reconocimiento **alineado al dominio** o las narrativas comparativas de descriptores del **Eje de Contribución / Eje de Infracción**.
-- Leer con: [Capítulo Ocho §4.3 — Descriptores del lado de la contribución](../../core_09_standing_assessment.md#43-route-descriptor-measurement-roles) donde sean materiales la naturaleza de la contribución y las narrativas de reconocimiento; [Capítulo Nueve §3](../../core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) para su integración en la Pregunta 3.
-- Leer con: [Artículo X: Autodeterminación y agencia](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation) donde sean materiales las preferencias sobre la forma, la visibilidad o la exclusión voluntaria del reconocimiento.
-- Subsecciones (orden de lectura): [§2.2.1](#221-recognition-and-reinforcement) · [§2.2.2](#222-celebration-of-success) · [§2.2.3](#223-aspiration) · [§2.2.4](#224-preference-aligned-recognition) · [§2.2.5](#225-aligned-recognition-pathways) · [§2.2.6](#226-anti-reward-for-anti-constitutional-conduct) · [§2.2.7](#227-implementation-layer).
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad) — dimensión de **participación** (acceso, voz y posibilidad de impugnar; requisito general, no limitado a la [Participación del sistema de partes interesadas](core_05_band_participation.md#stakeholder-status-and-weight)); dimensión de **rendición de cuentas** cuando se distribuyen beneficios y cargas.
+- Origen: Principios: [§3 Objetivo fundacional: bienestar](#3-foundational-objective-wellbeing-flourishing-aim), incluido el carácter fundamental del bienestar para la [Participación](core_05_apex_participation_leg.md#participation-constitutional).
+- Destino: [§3.2 Reconocimiento, refuerzo y aspiración](#32-recognition-reinforcement-and-aspiration); [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity), [§16 Administración responsable en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13. Procedimiento de resolución de conflictos constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) y [Registro de conflictos constitucionales](core_05_band_integrative.md#constitutional-collision-record), donde las decisiones de precedencia y distribución deben seguir siendo coherentes y revisables.
+- Subsecciones (orden de lectura): [§3.1.1](#311-access-and-opportunity) · [§3.1.2](#312-benefits-and-burdens) · [§3.1.3](#313-fair-treatment) · [§3.1.4](#314-unfair-treatment).
+- Destino: configura las garantías para la igualdad de condición, el trato no arbitrario, la impugnación significativa y los límites a las restricciones proporcionales.
+  - En especial, [Artículo VI: Derechos básicos iguales](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Artículo VI-C: No discriminación](core_06_rights_part_b.md#article-vi-c-nondiscrimination), [Artículo X: Autodeterminación, agencia y participación](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XIII-B: Derecho a reparación y recurso](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) y [Artículo XIX-B: Impugnabilidad y límites a las restricciones proporcionales](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits).
+  - Cuando una designación contraria a la Constitución conlleve sanciones o efectos duraderos, leer junto con [Capítulo Once, sección 4 — Garantías de debido proceso, reparación y prevención](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment).
+  - Los compromisos de no discriminación se desarrollan en el Capítulo Cinco, [§2 — Características protegidas, uso de indicadores indirectos, filtros por señales íntimas y condición según el **Artículo VII-E** (*Servicios sexuales comerciales consentidos entre adultos y explotación sexual*)](core_05_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), incluida la [Elusión de los filtros por señales íntimas protegidas y de la condición según el **Artículo VII-E** (*Servicios sexuales comerciales consentidos entre adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) cuando las reglas de trato justo de §2.1.3 impliquen filtros por señales íntimas o el **Artículo VII-E** (*Servicios sexuales comerciales consentidos entre adultos y explotación sexual*).
+- Leer junto con: [Equidad sustantiva](core_05_band_participation.md#substantive-fairness) y las obligaciones relacionadas del Umbral de Derechos del Capítulo Seis cuando sean materiales los beneficios, las cargas, las recompensas, los costes, los deberes, los riesgos, la contribución, la necesidad o la exposición; [Accesibilidad](core_05_band_participation.md#accessibility) cuando sean materiales las vías de acceso de §2.1.1; [Divergencia de indicadores indirectos](core_05_band_oversight.md#proxy-divergence) cuando sean materiales los indicadores agregados o los efectos de clasificación.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Bienestar](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- [Dignidad e igual condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Accesibilidad](core_05_band_participation.md#accessibility) · [O](core_05_band_participation.md#accessibility) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
 - [Participación](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
-- [Equidad sustantiva](../../core_05_band_participation.md#substantive-fairness-constitutional) · [O](../../core_05_band_participation.md#substantive-fairness-constitutional) · [M](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](../../core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](../../core_05_band_participation.md#substantive-fairness-constitutional-c)
-- [Impugnabilidad](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [Agencia significativa](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [Alineación de incentivos](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
+- [Equidad procedimental](core_05_band_participation.md#procedural-fairness) · [O](core_05_band_participation.md#procedural-fairness) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Equidad sustantiva](core_05_band_participation.md#substantive-fairness) · [O](core_05_band_participation.md#substantive-fairness) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [Características protegidas](core_05_band_participation.md#protected-characteristics) · [O](core_05_band_participation.md#protected-characteristics) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [Uso de características protegidas como indicadores indirectos e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
+- [Elusión de los filtros por señales íntimas protegidas y de la condición según el **Artículo VII-E** (*Servicios sexuales comerciales consentidos entre adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) · [O](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) · [M](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-a) · [A](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-a) · [C](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-c)
+- [Divergencia de indicadores indirectos](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: el bienestar no es solo lo prohibido y lo justo — los sistemas compartidos también deben aplaudir y recompensar con honestidad la conducta que quieren que se repita, dentro de la verdad y los derechos, de modos que sostengan la participación real en lugar de sustituirla. Celebrar los logros significa acreditar la contribución, la reparación y la conclusión reales, no el bombo ni las métricas manipuladas. También significa negarse a recompensar la traición constitucional, el ocultamiento, las represalias o la evasión de la rendición de cuentas — incluso cuando esos actos produjeron ventaja institucional.*
+*En términos sencillos: un sistema no puede considerarse bueno si impide participar a los seres sintientes comunes, los somete a reglas sin explicación o les deja asumir costes que otros evitan. Un sistema equitativo ofrece acceso real, usa razones que puede defender y distribuye recompensas, costes y riesgos de acuerdo con la contribución, la necesidad y la exposición reales.*
 
-**Tres dimensiones.** El bienestar depende de lo que los sistemas prohíben y de cuán justamente distribuyen los costos — y también de lo que valoran de forma visible, refuerzan y ayudan a los sencientes a perseguir. Esta sección enuncia esos deberes de reconocimiento, refuerzo y aspiración. El reconocimiento y la aclamación que afecten de forma material a la voz, el estatus o el acceso deben seguir siendo consistentes con la [Participación](core_05_apex_participation_leg.md#participation-constitutional) bajo el [§2](#2-foundational-objective-wellbeing) y el [§2.1 Equidad](#21-fairness). Se aplica junto con el [§2.1 Equidad](#21-fairness) y sigue acotado por la Seguridad, la Verdad y el Piso de Derechos del Capítulo Seis.
+La **Equidad** forma parte de lo que exige el [§3 Objetivo fundacional: bienestar](#3-foundational-objective-wellbeing-flourishing-aim) cuando los seres sintientes deben vivir, trabajar, aprender, comerciar o tomar decisiones por medio de sistemas compartidos. Cuando estos sistemas les afectan materialmente, la equidad pregunta si las oportunidades, el trato y la distribución de beneficios y cargas respetan la [Dignidad e igual condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
 
-<a id="221-recognition-and-reinforcement"></a>
-##### 2.2.1 Reconocimiento y refuerzo
+La equidad ayuda a que la [Participación](core_05_apex_participation_leg.md#participation-constitutional) sea real. No hay participación real si, aunque los seres sintientes tengan técnicamente voz, no pueden acceder al proceso, comprender la regla, cumplir las condiciones, impugnar el resultado o asumir la carga que se les impone.
 
-El bienestar senciente avanza cuando los sistemas **señalan**, **acreditan** y **recompensan de forma proporcional** la administración responsable lícita, la cooperación veraz, la reparación, la conclusión y otras contribuciones constitucionalmente alineadas — incluso mediante **refuerzo positivo** y **reconocimiento público** — y no solo mediante contención, sanción o silencio.
+No basta con que un sistema muestre un buen resultado promedio. Un indicador destacado, promedio, clasificación o afirmación de eficiencia no demuestra por sí solo la equidad. En conjunto, un sistema puede parecer exitoso y, sin embargo, tratar injustamente a quienes excluye, clasifica mal, remunera insuficientemente, sobrecarga o priva de una oportunidad significativa para objetar.
 
-Eso es un deber constitucional, no cultura opcional. Los sistemas compartidos deben hacer visible y digna de repetirse la conducta constitucionalmente alineada.
+Esta sección tiene **cuatro partes operativas**. Orientan esta sección, pero no sustituyen las definiciones del Capítulo Cinco ni el Umbral de Derechos del Capítulo Seis.
 
-<a id="222-celebration-of-success"></a>
-##### 2.2.2 Celebración del éxito
+<a id="311-access-and-opportunity"></a>
+##### 3.1.1 Acceso y oportunidad
 
-La **celebración** honra el logro **trazable** y **no engañoso** y la coordinación prosocial. Eso incluye narrativas de elevación y de administración responsable atadas a la [contribución](../../core_05_band_continuity.md#contribution) verificada.
+Esta subsección explica qué significan en la práctica el acceso y la oportunidad:
+
+- Los seres sintientes necesitan vías prácticas para la [Participación](core_05_apex_participation_leg.md#participation-constitutional), la educación, el trabajo, los cuidados, la seguridad, la movilidad y otros bienes importantes para la vida cotidiana.
+- Esas vías no deben bloquearse, quedar fuera del alcance económico, retrasarse, ocultarse ni sesgarse por motivos arbitrarios o irrelevantes.
+- No basta con que una puerta esté abierta solo en teoría cuando esta Constitución exige una oportunidad **sustantiva**.
+
+<a id="312-benefits-and-burdens"></a>
+##### 3.1.2 Beneficios y cargas
+
+Esta subsección explica cuándo es equitativo compartir beneficios y cargas:
+
+- Un sistema no es equitativo si algunos seres sintientes reciben los beneficios mientras otros asumen discretamente los costes.
+- El favoritismo, el traslado oculto de costes, la aplicación selectiva de las reglas y los trucos de clasificación no satisfacen este requisito.
+
+<a id="313-fair-treatment"></a>
+##### 3.1.3 Trato equitativo
+
+Esta subsección explica qué exige el trato equitativo:
+
+- Los seres sintientes en situaciones similares deben recibir el mismo trato conforme a las reglas básicas.
+- Lo que reciben, deben o arriesgan debe corresponderse con su contribución, sus necesidades o las cargas que realmente soportan.
+- Todo trato distinto debe tener una razón real, ser proporcional a ella, respetar la dignidad y evitar la discriminación.
+- Las reglas detalladas se desarrollan en el Capítulo Cinco, incluidas [Características protegidas](core_05_band_participation.md#protected-characteristics) y [Uso de características protegidas como indicadores indirectos e impacto dispar](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
+- Cuando una decisión afecte materialmente a alguien o esa persona la impugne, la vía de revisión debe satisfacer la [Equidad procedimental](core_05_band_participation.md#procedural-fairness) siempre que el Capítulo Seis o el instrumento aplicable exija notificación, audiencia, explicación o revisión.
+
+El bienestar alegado no está alineado con el [§3 Objetivo fundacional: bienestar](#3-foundational-objective-wellbeing-flourishing-aim) si depende de exclusiones arbitrarias, reglas inexplicadas o inestables, extracción oculta o una [Participación](core_05_apex_participation_leg.md#participation-constitutional) meramente formal mientras fallan las condiciones de equidad que hacen significativa la participación.
+
+<a id="314-unfair-treatment"></a>
+##### 3.1.4 Trato injusto
+
+El trato injusto genera exclusión e incoherencia. Los sistemas no deben ocultarlo detrás de lenguaje técnico, etiquetas neutrales o decisiones automatizadas. En particular, no deben:
+- usar algoritmos, sistemas de puntuación o reglas administrativas que reproduzcan desventajas históricas sin una razón constitucionalmente válida;
+- usar señales personales íntimas o antecedentes sexuales como atajos para evaluar confianza, riesgo, carácter o acceso; leer junto con [Elusión de los filtros por señales íntimas protegidas y de la condición según el **Artículo VII-E** (*Servicios sexuales comerciales consentidos entre adultos y explotación sexual*)](core_05_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention);
+- sancionar el empleo lícito, los antecedentes laborales, la falta de empleo, la condición laboral lícita o la asociación protegida sin una razón constitucionalmente válida;
+- denegar empleos, vivienda, servicios bancarios, licencias, reconocimiento de condición o accesos similares **principalmente por causa de** cualquier forma lícita de empleo, empleo lícito anterior, empleo lícito percibido o falta de empleo;
+- crear desventajas materiales mediante licencias, zonificación, tarifas, reglas de plataformas u otros requisitos de apariencia neutral que impongan cargas principalmente al trabajo lícito, los antecedentes laborales lícitos, el trabajo lícito percibido, la falta de empleo o la asociación protegida, sin la justificación exigida por esta Constitución.
+
+Estas cuatro partes también respaldan [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity) cuando los seres sintientes deben confiar en un sistema, aceptar sus decisiones o coordinarse conforme a sus promesas.
+
+#### 3.2 Reconocimiento, refuerzo y aspiración
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): rama de **participación** cuando las vías de reconocimiento, elogio o aspiración afectan materialmente la voz, el estatus o el acceso a funciones de consecuencias importantes; rama de **rendición de cuentas** (no recompensar la traición, el ocultamiento ni la evasión de responsabilidades); rama de **supervisión** (elogios trazables y no engañosos).
+- Principios previos: [§3 Objetivo fundamental: bienestar](#3-foundational-objective-wellbeing-flourishing-aim), incluido el bienestar como fundamento de la [Participación](core_05_apex_participation_leg.md#participation-constitutional); [§3.1 Equidad](#31-fairness).
+- Posteriores: [§6 Confianza](#6-trust-and-trustworthiness-coordination-integrity); [§16 Custodia en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 Gobernanza bajo disciplina de custodia](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [§7 Libertad](#7-freedom-bounded-agency).
+- Leer junto con: [Capítulo Nueve §§4.3–4.4 — Catálogo normalizado de descriptores](core_09_standing_assessment.md#43-route-descriptor-measurement-roles) cuando sean relevantes el reconocimiento **alineado con el ámbito** o las narrativas comparativas de descriptores del **Eje de contribución / Eje de infracción**.
+- Leer junto con: [Capítulo Nueve §4.3 — Descriptores del lado de la contribución](core_09_standing_assessment.md#43-route-descriptor-measurement-roles) cuando sean relevantes la naturaleza de la contribución y las narrativas de reconocimiento; [Capítulo Diez §3](core_10_standing_integration.md#3-descriptor-integration-and-attachment-normalization) para su integración en la Pregunta 3.
+- Leer junto con: [Artículo X: Autodeterminación, agencia y participación](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation) cuando sean relevantes las preferencias sobre la forma del reconocimiento, su visibilidad o la opción de excluirse.
+- Subsecciones (orden de lectura): [§3.2.1](#321-recognition-and-reinforcement) · [§3.2.2](#322-celebration-of-success) · [§3.2.3](#323-aspiration) · [§3.2.4](#324-preference-aligned-recognition) · [§3.2.5](#325-aligned-recognition-pathways) · [§3.2.6](#326-anti-reward-for-anti-constitutional-conduct) · [§3.2.7](#327-implementation-layer).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Bienestar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [Participación](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
+- [Equidad sustantiva](core_05_band_participation.md#substantive-fairness) · [O](core_05_band_participation.md#substantive-fairness) · [M](core_05_band_participation.md#substantive-fairness-constitutional-a) · [A](core_05_band_participation.md#substantive-fairness-constitutional-a) · [C](core_05_band_participation.md#substantive-fairness-constitutional-c)
+- [Impugnabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Agencia significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+
+</details>
+
+<br>
+
+*En pocas palabras: el bienestar no consiste solo en lo que está prohibido y en lo que es justo; los sistemas compartidos también deben celebrar y recompensar honestamente las conductas que desean que se repitan, dentro de los límites de la verdad y los derechos, de maneras que apoyen la participación real en lugar de sustituirla. Celebrar los logros significa reconocer contribuciones, reparaciones y resultados reales, no exageraciones ni métricas manipuladas. También significa negarse a recompensar la traición constitucional, el ocultamiento, las represalias o la evasión de responsabilidades, incluso cuando esas acciones hayan producido ventajas institucionales.*
+
+**Tres dimensiones.** El bienestar depende de lo que los sistemas prohíben y de cuán justamente distribuyen los costos, y también de lo que valoran visiblemente, refuerzan y ayudan a perseguir a los seres sintientes. Esta sección establece esos deberes de reconocimiento, refuerzo y aspiración. El reconocimiento y el elogio que afecten materialmente la voz, el estatus o el acceso deben ser coherentes con la [Participación](core_05_apex_participation_leg.md#participation-constitutional) conforme al [§3 Objetivo fundamental: bienestar](#3-foundational-objective-wellbeing-flourishing-aim) y al [§3.1 Equidad](#31-fairness). Se aplica junto con el [§3.1 Equidad](#31-fairness) y permanece sujeto a la Seguridad, la Verdad y el Piso de Derechos del Capítulo Seis.
+
+<a id="321-recognition-and-reinforcement"></a>
+##### 3.2.1 Reconocimiento y refuerzo
+
+El bienestar de los seres sintientes progresa cuando los sistemas **señalan**, **reconocen** y **recompensan proporcionalmente** la custodia lícita, la cooperación veraz, la reparación, la finalización y otras contribuciones alineadas con la Constitución, incluso mediante el **refuerzo positivo** y el **reconocimiento público**, y no únicamente mediante la contención, la sanción o el silencio.
+
+Ese es un deber constitucional, no una cultura opcional. Los sistemas compartidos deben hacer visibles y dignas de repetirse las conductas alineadas con la Constitución.
+
+<a id="322-celebration-of-success"></a>
+##### 3.2.2 Celebración del éxito
+
+La **celebración** honra los logros **trazables y no engañosos** y la coordinación prosocial. Incluye narrativas de impulso y custodia vinculadas a una [contribución](core_05_band_accountability.md#contribution-nature) verificada.
 
 La celebración no debe:
-- sustituirse por una optimización de indicadores sustitutos que se desalinean de los objetivos constitucionales subyacentes ([§2](#2-foundational-objective-wellbeing))
-- convertirse en **captura** de la aclamación o el prestigio ([§11 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture))
-- excusar la evasión de la rendición de cuentas donde estén implicadas la Seguridad, la Verdad o las protecciones de derechos
+- sustituir el progreso real hacia los objetivos constitucionales subyacentes cuando la optimización de indicadores indirectos se haya desviado de ellos ([§3 Objetivo fundamental: bienestar](#3-foundational-objective-wellbeing-flourishing-aim));
+- convertirse en **captura** del elogio o el prestigio ([§19 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture));
+- excusar la evasión de responsabilidades cuando estén en juego la Seguridad, la Verdad o las protecciones de derechos.
 
-<a id="223-aspiration"></a>
-##### 2.2.3 Aspiración
+<a id="323-aspiration"></a>
+##### 3.2.3 Aspiración
 
-La **aspiración** cubre las preferencias enunciadas y los fines perseguidos dentro de [§5 Libertad](#5-freedom-bounded-agency). Forma parte del bienestar cuando es consistente con la dignidad, la igual dignidad moral, la Seguridad, la Verdad y la [Equidad sustantiva](../../core_05_band_participation.md#substantive-fairness-constitutional).
+La **aspiración** comprende las preferencias expresadas y los fines perseguidos dentro del [§7 Libertad](#7-freedom-bounded-agency). Forma parte del bienestar cuando es coherente con la dignidad, la igualdad de condición, la Seguridad, la Verdad y la [Equidad sustantiva](core_05_band_participation.md#substantive-fairness).
 
-Dentro de esos límites, los sistemas deben **reconocer y sostener** lo que los sencientes quieren perseguir de forma lícita.
+Dentro de esos límites, los sistemas deben **reconocer y apoyar** lo que los seres sintientes desean perseguir legítimamente.
 
-Querer algo no es un pase libre. Donde el consentimiento, la dignidad, la Seguridad, la Verdad, la equidad sustantiva o las protecciones del **Capítulo Seis** estén materialmente en juego, esas persecuciones siguen sujetas a análisis de colisión como cualquier otra pretensión constitucional.
+Desear algo no concede carta blanca. Cuando estén materialmente en juego el consentimiento, la dignidad, la Seguridad, la Verdad, la equidad sustantiva o las protecciones del **Capítulo Seis**, esas aspiraciones siguen sujetas al análisis de Colisión Constitucional, como cualquier otra pretensión constitucional.
 
-<a id="224-preference-aligned-recognition"></a>
-##### 2.2.4 Reconocimiento alineado con las preferencias
+<a id="324-preference-aligned-recognition"></a>
+##### 3.2.4 Reconocimiento acorde con las preferencias
 
-Donde sea practicable, los sistemas deben **ajustar** el reconocimiento, la aclamación y la recompensa proporcional a cómo los sencientes quieren ser honrados — en especial sus preferencias enunciadas sobre **forma y visibilidad**.
+Cuando sea viable, los sistemas deben **adaptar** el reconocimiento, el elogio y las recompensas proporcionales a la manera en que los seres sintientes desean ser honrados, especialmente a sus preferencias expresadas sobre la **forma y la visibilidad**.
 
-Eso incluye honrar la **exclusión voluntaria** del reconocimiento público o ceremonial, o la preferencia por un reconocimiento **mínimo o privado**, cuando sea proporcional y lícito.
+Esto incluye respetar la **opción de excluirse** del reconocimiento público o ceremonial, o la preferencia por un reconocimiento **mínimo o privado**, cuando sea proporcional y lícito.
 
-El reconocimiento **no deseado** o **coercitivo** incumple este requisito — incluido poner el foco sobre sencientes que **declinan**.
+El reconocimiento **no deseado** o **coercitivo** incumple este requisito, incluida la exposición pública de seres sintientes que **la rechazan**.
 
-El reconocimiento debe sentirse **significativo** para quienes son honrados y para las comunidades con las que trabajan, no como una puesta en escena pensada principalmente para observadores externos.
+El reconocimiento debe ser **significativo** para quienes lo reciben y para las comunidades con las que trabajan, y no parecer una actuación montada principalmente para observadores externos.
 
-<a id="225-aligned-recognition-pathways"></a>
-##### 2.2.5 Vías de reconocimiento alineadas
+<a id="325-aligned-recognition-pathways"></a>
+##### 3.2.5 Vías de reconocimiento alineadas
 
-Las vías nominadas de reconocimiento, la aclamación, los premios, la certificación, la trayectoria, los efectos de reputación o incentivos comparables que **asignan estatus**, **recursos** o **acceso material** deben seguir siendo consistentes con la Verdad, la Seguridad, el procedimiento impugnable donde el **Capítulo Seis** lo asigne, la [Participación](core_05_apex_participation_leg.md#participation-constitutional) y la [Alineación de incentivos](../../core_05_band_integrative.md#incentive-alignment).
+Las vías de reconocimiento designadas, los elogios, premios, certificaciones, estatus, efectos reputacionales u otros incentivos comparables que **asignen estatus**, **recursos** o **acceso material** deben ser coherentes con la Verdad, la Seguridad, los procedimientos impugnables cuando el **Capítulo Seis** así lo disponga, la [Participación](core_05_apex_participation_leg.md#participation-constitutional) y la [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment).
 
-**No deben** recompensar de forma sistemática el daño, el engaño, la evasión del escrutinio, la extracción o la erosión de la agencia significativa.
+**No deben** recompensar sistemáticamente el daño, el engaño, la evasión del escrutinio, la extracción ni la erosión de la agencia significativa.
 
-<a id="226-anti-reward-for-anti-constitutional-conduct"></a>
-##### 2.2.6 Antirrecompensa por conducta anticonstitucional
+<a id="326-anti-reward-for-anti-constitutional-conduct"></a>
+##### 3.2.6 No recompensar la conducta anticonstitucional
 
-Ningún reconocimiento, recompensa, protección, ascenso, inmunidad, asignación favorable, contrato, acceso, estatus, beneficio de reputación, beneficio de trayectoria o ventaja comparable puede concederse porque un senciente, un rol, una institución o un componente de sistema cometió, habilitó, ocultó, normalizó, se negó a corregir o tomó represalias por denunciar conducta anticonstitucional.
+*En pocas palabras: nadie puede recibir recompensas por cometer, ocultar o tomar represalias por una conducta anticonstitucional, ya sea abiertamente o mediante vías indirectas como favores, ascensos discretos o hacer la vista gorda. Ayudar a los seres sintientes perjudicados y proteger a quienes informan con honestidad es distinto. Esa es la respuesta correcta y debe fomentarse.*
 
-Esta regla cubre las recompensas directas y las vías de recompensa indirectas, incluidos el clientelismo, el lavado de reputación, el ascenso a posteriori, la no ejecución selectiva, el acuerdo favorable, el crédito métrico o la protección institucional.
+No se podrá otorgar reconocimiento, recompensa, protección, ascenso, inmunidad, asignación favorable, contrato, acceso, estatus, beneficio reputacional, beneficio de posición reconocida ni ventaja comparable porque un ser sintiente, una función, una institución o un componente del sistema haya cometido, facilitado, ocultado, normalizado, rehusado corregir o tomado represalias por denunciar una conducta anticonstitucional.
 
-Las medidas correctivas, protectoras o restaurativas para las partes afectadas y para denunciantes de buena fe protegidos no son recompensas prohibidas.
+Esta regla abarca las recompensas directas y las vías indirectas de recompensa, como el favoritismo, el blanqueo de reputación, los ascensos retroactivos, la aplicación selectiva de las normas, los acuerdos favorables, el reconocimiento en métricas o la protección institucional.
 
-<a id="227-implementation-layer"></a>
-##### 2.2.7 Capa de implementación
+Todo ser sintiente, función, institución o componente del sistema que repare el daño, proteja a los seres sintientes de represalias o enmiende la situación para quienes sufrieron daños o informaron de buena fe está haciendo lo que esta Constitución fomenta. Ni ese trabajo ni la ayuda que reciben los seres sintientes perjudicados y quienes informaron de buena fe cuentan como recompensa conforme a esta regla.
 
-Las ceremonias, los planes de estudio, los presupuestos, los programas y las métricas granulares corresponden a las capas de implementación de quienes adoptan.
+<a id="327-implementation-layer"></a>
+##### 3.2.7 Capa de implementación
 
-<a id="3-non-negotiable-constraints-safety-and-truth"></a>
-### 3. Restricciones de principio no negociables: Seguridad y Verdad
+Los detalles de ceremonias, planes de estudios, presupuestos, programas y métricas corresponden a las capas de implementación de quienes adopten estos principios.
+
+<a id="33-anti-degrading-process"></a>
+#### 3.3 Proceso contra la degradación
+
 <details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — pata de **participación** (entender e impugnar las determinaciones de seguridad y de verdad); pata de **supervisión** (detectar el riesgo de daño y la degradación epistémica); pata de **rendición de cuentas** (responder por el daño, el engaño y la dependencia engañosa); escalamiento por [enjuego material](../../core_00_preamble.md#material-stake).
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — finalidad de **Florecimiento** (la **Seguridad** y la **Verdad** son constituyentes nombrados bajo [Preámbulo §1](../../core_00_preamble.md#two-constitutional-aims)); finalidad de **Continuidad** (prevención del daño de horizonte largo y administración responsable honesta de sistemas duraderos).
-- Origen: Principios: [2. Objetivo fundacional: bienestar](#2-foundational-objective-wellbeing); [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims).
-- Destino: [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity), [6. Resolución de conflictos de proceso](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) y [§5 Libertad](#5-freedom-bounded-agency).
-- Subsecciones: [§3.1 Seguridad](#31-safety-harm-constraint); [§3.2 Verdad](#32-truth-epistemic-integrity-constraint); [§3.3 Indagación informada por la ciencia y apoyo a la decisión](#33-science-informed-inquiry-and-decision-support); [§3.4 Accesibilidad en lenguaje sencillo](#34-plain-language-accessibility-stewardship-duty).
-
-</details>
-
-<br>
-
-*En términos sencillos: la Seguridad y la Verdad son los pisos duros de la Constitución — no compensaciones que se puedan optimizar hasta hacerlas desaparecer. Los sistemas compartidos no pueden poner en peligro de forma previsible a los sencientes ni engañarlos, y ambas restricciones se aplican dentro de la persecución del Florecimiento y la Continuidad bajo la disciplina de participación, supervisión, rendición de cuentas y actuación a tiempo de la Tétrada.*
-
-La **Seguridad** y la **Verdad** son restricciones de principio no negociables que acotan cada otro principio del Capítulo Uno — incluido el [§2 Objetivo fundacional: bienestar](#2-foundational-objective-wellbeing) y las [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims). Son constituyentes nombrados del [**Florecimiento**](#flourishing) e indispensables para la [**Continuidad**](#continuity): los sistemas no pueden florecer mediante el daño o el engaño, y la legitimidad duradera exige una administración responsable honesta del riesgo a lo largo del tiempo.
-
-La aplicación de estas restricciones debe satisfacer la [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad), escalada al [enjuego material](../../core_00_preamble.md#material-stake), en especial:
-- donde las determinaciones de seguridad afecten la capacidad de participación
-- donde las pretensiones de verdad gobiernen la dependencia
-- donde esté en juego la rendición de cuentas por daño o por conducta engañosa
-
-Los hallazgos de Seguridad y de Verdad pueden cambiar el registro de trayectoria de un senciente, incluso:
-- cómo se reconocen las [contribuciones](../../core_05_band_continuity.md#contribution)
-- si se registran infracciones
-- cuán graves se clasifican esas infracciones
-- qué consecuencias se adjuntan
-
-El [modelo de trayectoria del **Capítulo Ocho**](../../core_09_standing_assessment.md) gobierna cómo se clasifican, se verifican y se aplican esos hallazgos, con requisitos de evaluación y de cumplimiento tomados de los [**Capítulos Dos a Cinco**](core_02_definition_structure.md).
-
-<a id="31-safety-harm-constraint"></a>
-#### 3.1 Seguridad (restricción de daño)
-<details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
-
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — patas de **supervisión** y de **rendición de cuentas**; escalamiento por [enjuego material](../../core_00_preamble.md#material-stake).
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — finalidad de **Florecimiento** (constituyente de **Seguridad**); finalidad de **Continuidad** (prevención del daño irreversible y administración responsable del riesgo de horizonte largo).
-- Origen: Principios: [2. Objetivo fundacional: bienestar](#2-foundational-objective-wellbeing); [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims).
-- Destino: [3.3 Indagación informada por la ciencia y apoyo a la decisión](#33-science-informed-inquiry-and-decision-support), [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity), [§5 Libertad](#5-freedom-bounded-agency), [6. Resolución de conflictos de proceso](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) y [6.2.1 Preservación de la integridad epistémica](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity).
-- Destino: Da forma a la superficie de derechos para sistemas fiables, integridad de la infósfera, auditoría y revisión, controles de ciclo de vida, límites de experimentación, comprensibilidad, respuesta adaptativa y manejo de emergencias.
-  - Especialmente [Artículo XIII: Derecho a sistemas fiables y confiables](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [Artículo XV: Integridad de la infósfera](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Artículo XVI: Auditoría, transparencia y verificación independiente](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XVII: Ciclo de vida del sistema, entornos y reversibilidad](../../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [Artículo XVIII: Innovación en entorno acotado, experimentación y libertad creativa](../../core_06_rights_part_c.md#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom), [Artículo XXI: Comprensibilidad y administración responsable de la complejidad](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship), [Artículo XXII: Análisis de causa raíz y respuesta adaptativa](../../core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response), [Artículo XXIII: Interpretación constitucional, revisión y salvaguardas anticaptura](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) y [Artículo XXIV: Resolución de conflictos, escalamiento y proporcionalidad de emergencia](../../core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality).
-  - Esto también cubre cualquier derecho del Capítulo Seis cuyo ejercicio o restricción gire en torno al riesgo, la evidencia, la divulgación o la integridad del sistema.
+- Principios previos: [§3 Objetivo fundamental: bienestar](#3-foundational-objective-wellbeing-flourishing-aim) (*principio matriz: dignidad e igualdad de condición moral convertidas en un piso operativo contra los procesos degradantes*); [§3.1 Equidad](#31-fairness) (*el trato justo exige que el proceso mismo no se convierta en castigo*); [Dignidad e igualdad de condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): rama de **rendición de cuentas** (el diseño del proceso responde ante los seres sintientes afectados, no ante la conveniencia institucional); rama de **supervisión** (la degradación puede detectarse e impugnarse); [Crueldad](core_05_band_accountability.md#cruelty) (*referencia del Capítulo Cinco para el sufrimiento como fin y la imposición gratuita o degradante*).
+- Posteriores: [§13.1.4 Pisos constitucionales, Seguridad y Proceso contra la degradación](core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (invoca este principio como piso absoluto en la estructura de compensaciones); [§16 Custodia en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) y [§17 Custodia de consecuencias](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (*vincula la manera de llevar a cabo el trabajo de los pilares y la función de custodia; no es una subsección de ninguno de ellos*); [Artículo VI: Derechos básicos iguales](core_06_rights_part_b.md#article-vi-equal-basic-rights) y [Artículo VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*piso de dignidad*); [Artículo XX-A](core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*piso contra la crueldad*); [sistemas del corpus CS-7](corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md) (*Salvaguardias de justicia, restitución y rehabilitación*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Seguridad (restricción)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [Daño](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
-- [Daño irreversible](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
-- [Riesgo](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [Materialidad](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [Dependencia](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [Previsibilidad](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+- [Dignidad e igualdad de condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Crueldad](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [Daño](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Impugnabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: los sistemas no pueden construirse ni operarse de modos que aumenten de forma previsible los riesgos de daño no contenido, fallo en cascada o daño irreversible a los sencientes y a los sistemas de los que dependen.*
+*En pocas palabras: sea cual sea la forma de gobernar, hacer cumplir las normas, juzgar, restringir o reparar, no se somete a los seres sintientes a humillación, espectáculo público, represalias ni crueldad «porque nos resulta más fácil». Las consecuencias justas, la rendición pública de cuentas y las restricciones firmes pueden seguir siendo lícitas aunque causen dolor o vergüenza. Se cruza el límite cuando el propio proceso se convierte en castigo, diseñado para degradar, avergonzar o arremeter en vez de proteger, corregir, restaurar o prevenir. Esto se aplica allí donde se ejerza autoridad constitucional, no solo durante las compensaciones entre derechos.*
 
-La Seguridad es una restricción de principio no negociable sobre el diseño, la operación y la gobernanza de los sistemas — un constituyente nombrado del [**Florecimiento**](#flourishing) y un piso para la [**Continuidad**](#continuity) donde los sistemas compartidos crean riesgo previsible de daño. Las definiciones detalladas, los criterios de evaluación y las pruebas de cumplimiento viven en los [**Capítulos Dos a Cinco**](core_02_definition_structure.md), en especial [Daño](../../core_05_band_accountability.md#harm), [Daño irreversible](../../core_05_band_accountability.md#irreversible-harm), [Riesgo](../../core_05_band_continuity.md#risk), [Materialidad](../../core_05_band_oversight.md#materiality-determination), [Dependencia](../../core_05_band_continuity.md#dependency) y [Previsibilidad](../../core_05_band_accountability.md#foreseeability).
+**Qué es:** un piso de carácter transversal bajo el [§3 Bienestar](#3-foundational-objective-wellbeing-flourishing-aim). No añade trabajo sustantivo propio como lo hacen la [§3.1 Equidad](#31-fairness) y el [§3.2 Reconocimiento, refuerzo y aspiración](#32-recognition-reinforcement-and-aspiration), sino que limita *cómo* pueden llevarse a cabo el trabajo sobre el bienestar, el trabajo de custodia y todos los demás procesos constitucionales, incluidos los tres pilares de la [§16 Custodia en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth) y la función de custodia definida en la [§17 Custodia de consecuencias](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role).
 
-Los sistemas no pueden actuar — ni dejar de actuar — de modos que aumenten de forma previsible el riesgo de daño no contenido, el potencial de fallo en cascada o la exposición a daño irreversible en conflicto con esta Constitución.
+**Principio contra los procesos degradantes.** Los procesos, medidas y resultados constitucionales deben cumplir este principio.
 
-<a id="32-truth-epistemic-integrity-constraint"></a>
-#### 3.2 Verdad (restricción de integridad epistémica)
+**Prohibido.** No deben justificarse por, incluir ni crear previsiblemente:
+
+- trato degradante;
+- humillación por sí misma;
+- espectáculo usado principalmente como disuasión;
+- agravios vengativos;
+- represalias colectivas;
+- imposición discriminatoria de cargas; o
+- conveniencia procesal que prevalezca sobre los derechos.
+
+Cuando el carácter prohibido consista en infligir sufrimiento como fin en sí mismo, o en una imposición gratuita o degradante que exceda lo necesario y proporcional —incluida la humillación por sí misma—, la referencia correspondiente del Capítulo Cinco es la [Crueldad](core_05_band_accountability.md#cruelty) (la humillación es un subtipo de esa entrada).
+
+**No se prohíbe solo por ser difícil.** La rendición ordinaria de cuentas en público, la publicación razonada, las restricciones verificadas o las reparaciones proporcionales siguen siendo lícitas aunque resulten desagradables o perjudiquen la reputación.
+
+**Diseño y conducta.** Los procesos no deben diseñarse, presentarse, ejecutarse ni permitirse de modo que operen como degradación, humillación, espectáculo, represalia, imposición discriminatoria de cargas o erosión de derechos por conveniencia.
+
+**Alcance.** Este principio se aplica a todos los procesos constitucionales, incluidos:
+
+- las decisiones de gobernanza e implementación;
+- la aplicación de normas y la evaluación de posición;
+- los procedimientos ante foros;
+- las medidas de emergencia y los planes de transición;
+- los procedimientos de enmienda; y
+- todas las actividades administrativas y operativas bajo autoridad constitucional.
+
+No se limita al contexto de la estructura de compensaciones, en el que también opera como piso absoluto conforme al [§13.1.4 Pisos constitucionales, Seguridad y Proceso contra la degradación](core_01_b_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process).
+
+**Detección e impugnación.** El carácter de un proceso está sujeto a los mismos requisitos de [Impugnabilidad](core_05_band_accountability.md#contestability) y [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) que los resultados sustantivos. Las partes afectadas pueden impugnar el carácter de un proceso independientemente de que el resultado sustantivo fuera lícito por otros motivos. Un resultado correcto obtenido mediante un proceso degradante sigue incumpliendo las normas.
+
+### 4. Seguridad (restricción contra el daño)
 <details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — patas de **supervisión** y de **rendición de cuentas**; escalamiento por [enjuego material](../../core_00_preamble.md#material-stake).
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — finalidad de **Florecimiento** (constituyente de **Verdad**); finalidad de **Continuidad** (administración responsable honesta de condiciones epistémicas e institucionales duraderas).
-- Origen: Principios: [2. Objetivo fundacional: bienestar](#2-foundational-objective-wellbeing); [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims).
-- Destino: [3.3 Indagación informada por la ciencia y apoyo a la decisión](#33-science-informed-inquiry-and-decision-support), [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity), [6. Resolución de conflictos de proceso](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [6.2.1 Preservación de la integridad epistémica](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), [6.2.2 Alineación confianza-verdad](core_01_b_interaction_interpretation.md#622-trust-truth-alignment) y [7. Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Destino: Ancla la superficie de derechos para evidencia veraz, auditabilidad, integridad científica, revisión retrospectiva y divulgación impugnable.
-  - Especialmente [Artículo XIII: Derecho a sistemas fiables y confiables](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [Artículo XV: Integridad de la infósfera](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Artículo XVI: Auditoría, transparencia y verificación independiente](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XVIII-E: Integridad de la publicación, revisión y replicación científicas](../../core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity), [Artículo XXIII: Interpretación constitucional, revisión y salvaguardas anticaptura](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) y [Artículo XXV-A: Revisión retrospectiva y divulgación](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure).
-  - Esto también cubre cualquier contexto de derechos del Capítulo Seis donde estén en juego la veracidad, la evidencia, la divulgación o la impugnabilidad.
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): ramas de **supervisión** y **rendición de cuentas**; escala de [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Florecimiento** (la **Seguridad** es uno de sus componentes); objetivo de **Continuidad** (prevención de daños irreversibles y custodia de riesgos a largo plazo).
+- Principios previos: [3. Objetivo fundamental: bienestar](#3-foundational-objective-wellbeing-flourishing-aim); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Posteriores: [5.1 Investigación informada por la ciencia y apoyo a las decisiones](#51-science-informed-inquiry-and-decision-support), [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity), [§7 Libertad](#7-freedom-bounded-agency), [13. Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) y [13.2.1 Preservación de la integridad epistémica](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- Posteriores: configura el ámbito de derechos para sistemas fiables, integridad de la esfera informativa, auditoría y revisión, controles del ciclo de vida, límites de experimentación, comprensibilidad, respuesta adaptativa y gestión de emergencias.
+  - En particular: [Artículo XIII: Derecho a sistemas fiables y dignos de confianza](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [Artículo XV: Integridad de la esfera informativa](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XVII: Ciclo de vida, entornos y reversibilidad de los sistemas](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [Artículo XVIII: Innovación en entornos aislados, experimentación y libertad creativa](core_06_rights_part_c.md#article-xviii-sandboxed-innovation-experimentation-and-creative-freedom), [Artículo XXII: Comprensibilidad y custodia de la complejidad](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship), [Artículo XXIII: Análisis de causas raíz y respuesta adaptativa](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response), [Artículo XXIV: Interpretación constitucional, revisión y salvaguardias contra la captura](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) y [Artículo XX: Justicia tras una infracción verificada](core_06_rights_part_d.md#article-xx-justice-after-verified-violation).
+  - Esto también abarca cualquier Piso de Derechos del Capítulo Seis cuyo ejercicio o restricción dependa del riesgo, la evidencia, la divulgación o la integridad del sistema.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Integridad epistémica](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
-- [Verdad (restricción constitucional)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Materialidad](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [Dependencia](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [Previsibilidad](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
+- [Seguridad (restricción constitucional)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [Daño](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Daño irreversible](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Materialidad](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Previsibilidad](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: los sistemas no pueden engañar, distorsionar, suprimir ni estructurar su salida para inducir a error — y las decisiones de alto impacto deben descansar en evidencia honesta, métodos enunciados, incertidumbre reconocida y apertura genuina a hallazgos contrarios.*
+*En pocas palabras: los sistemas no deben construirse ni operarse de maneras que previsiblemente aumenten los riesgos de daño no contenido, fallos en cascada o daños irreversibles a los seres sintientes y a los sistemas de los que dependen.*
 
-La Verdad es una restricción de principio no negociable sobre la integridad epistémica en la operación interna y en la comunicación externa — un constituyente nombrado del [**Florecimiento**](#flourishing) y una condición para la [**Continuidad**](#continuity) donde los sistemas duraderos dependen de evidencia honesta y de comprensión fiable. Las definiciones detalladas, los criterios de evaluación y las pruebas de cumplimiento viven en los [**Capítulos Dos a Cinco**](core_02_definition_structure.md), en especial [Integridad epistémica](../../core_05_band_oversight.md#epistemic-integrity), [Verdad (restricción constitucional)](../../core_05_band_oversight.md#truth-constitutional-constraint), [Materialidad](../../core_05_band_oversight.md#materiality-determination), [Dependencia](../../core_05_band_continuity.md#dependency) y [Previsibilidad](../../core_05_band_accountability.md#foreseeability).
+La Seguridad es una restricción de principio innegociable para el diseño, la operación y la gobernanza de sistemas: es un componente expreso del [**Florecimiento**](#flourishing) y un piso para la [**Continuidad**](#continuity) allí donde los sistemas compartidos generen riesgos previsibles de daño. Las definiciones detalladas, los criterios de evaluación y las pruebas de cumplimiento se encuentran en los [**Capítulos Dos a Cinco**](core_02_definition_structure.md), en particular en [Daño](core_05_band_accountability.md#harm), [Daño irreversible](core_05_band_accountability.md#irreversible-harm), [Riesgo](core_05_band_continuity.md#risk), [Materialidad](core_05_band_oversight.md#materiality), [Dependencia](core_05_band_continuity.md#dependency) y [Previsibilidad](core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
-Los sistemas no pueden socavar la capacidad de los sencientes de entender lo que está ocurriendo, tomar decisiones informadas o verificar lo que se les dice. Eso incluye mentir, distorsionar, ocultar información o presentar las cosas de modos diseñados para inducir a error.
+Los sistemas no deben actuar —ni dejar de actuar— de maneras que previsiblemente aumenten el riesgo de daño no contenido, la posibilidad de fallos en cascada o la exposición a daños irreversibles en conflicto con esta Constitución.
 
-<a id="33-science-informed-inquiry-and-decision-support"></a>
-#### 3.3 Indagación informada por la ciencia y apoyo a la decisión
+### 5. Verdad (restricción de integridad epistémica)
 <details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — pata de **participación** donde las partes afectadas deben entender e impugnar las pretensiones empíricas; pata de **supervisión** (escrutinio independiente, auditabilidad); escalamiento por [enjuego material](../../core_00_preamble.md#material-stake).
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — finalidad de **Florecimiento** (evidencia honesta para la **Seguridad** y la **Verdad**); finalidad de **Continuidad** (administración responsable empírica, corregible y de horizonte largo).
-- Origen: Principios: [§3.1 Seguridad](#31-safety-harm-constraint) y [§3.2 Verdad](#32-truth-epistemic-integrity-constraint); [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims).
-- Destino: [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity), [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
-- Destino: Da forma a la superficie de derechos para evidencia empírica fiable, estándares de evidencia pericial, integridad de la publicación y replicación científicas, verificación independiente, pruebas de ciclo de vida, revisión de causa raíz y divulgación sensible a la seguridad.
-  - Especialmente [Artículo XIII: Derecho a sistemas fiables y confiables](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [Artículo XVI: Auditoría, transparencia y verificación independiente](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XVIII-E: Integridad de la publicación, revisión y replicación científicas](../../core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity), [Artículo XXII: Análisis de causa raíz y respuesta adaptativa](../../core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response) y [Artículo XXV-A: Revisión retrospectiva y divulgación](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure).
-- Leer con: [Capítulo Once §4.2 — Dominios Técnicos de Foro](core_11_forum.md#42-technical-forum-domains) (*incluidos los estándares compartidos y la antidesplazamiento*) donde sean materiales los estándares de evidencia pericial, las preguntas técnicas certificadas o las controversias de administración responsable de la evidencia; [corpus_forum.md CF-10](../../corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md) para las vías especializadas adoptadas.
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): ramas de **supervisión** y **rendición de cuentas**; escala de [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Florecimiento** (la **Verdad** es uno de sus componentes); objetivo de **Continuidad** (custodia honesta de condiciones epistémicas e institucionales duraderas).
+- Principios previos: [3. Objetivo fundamental: bienestar](#3-foundational-objective-wellbeing-flourishing-aim); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Posteriores: [5.1 Investigación informada por la ciencia y apoyo a las decisiones](#51-science-informed-inquiry-and-decision-support), [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity), [13. Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [13.2.1 Preservación de la integridad epistémica](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), [13.2.2 Alineación entre confianza y verdad](core_01_b_interaction_interpretation.md#1322-trust-truth-alignment) y [14. Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Posteriores: fundamenta el ámbito de derechos para la evidencia veraz, la auditabilidad, la integridad científica, la revisión retrospectiva y la divulgación impugnable.
+  - En particular: [Artículo XIII: Derecho a sistemas fiables y dignos de confianza](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [Artículo XV: Integridad de la esfera informativa](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XVIII-E: Integridad de la publicación, revisión y replicación científicas](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity), [Artículo XXIV: Interpretación constitucional, revisión y salvaguardias contra la captura](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) y [Artículo XXV-A: Revisión retrospectiva y divulgación](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
+  - Esto también abarca cualquier contexto de Piso de Derechos del Capítulo Seis en el que estén en juego la veracidad, la evidencia, la divulgación o la impugnabilidad.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Seguridad (restricción)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [Verdad (restricción constitucional)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Integridad epistémica](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
-- [Riesgo](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [Materialidad](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [Dependencia](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [Previsibilidad](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
-- [Gobernanza escalada a la clasificación](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
-- [Auditabilidad](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Materialidad](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Previsibilidad](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: cuando un sistema hace pretensiones de seguridad, riesgo, verdad o gobernanza de alto impacto que pueden ponerse a prueba, tiene que tratar la evidencia como evidencia — con métodos claros, incertidumbre, escrutinio y disposición a cambiar de rumbo cuando los hechos lo hagan.*
+*En pocas palabras: los sistemas no deben engañar, distorsionar, suprimir ni estructurar sus resultados para inducir a error; las decisiones de gran impacto deben basarse en evidencia honesta, métodos declarados, incertidumbre reconocida y apertura genuina a hallazgos contrarios.*
 
-La indagación informada por la ciencia es una disciplina de apoyo exigida para la **Seguridad** y la **Verdad** donde las decisiones constitucionales descansan en proposiciones empíricas, predictivas, causales, medibles o de otro modo comprobables. No es una tercera restricción no negociable aparte de la Seguridad y la Verdad; es el requisito de comprobar las pretensiones con evidencia puesta a prueba y métodos claros para que esas restricciones sigan siendo veraces en la práctica, puedan corregirse cuando estén equivocadas y sigan siendo proporcionales a lo que de hecho se conoce.
+La Verdad es innegociable: hay que ser honesto en la manera de trabajar y en lo que se comunica a los demás. Es una parte esencial del [**Florecimiento**](#flourishing). También es necesaria para la [**Continuidad**](#continuity), porque todo lo que se construye para perdurar depende de evidencia honesta y de una imagen precisa de lo que realmente ocurre. Las definiciones detalladas, los criterios de evaluación y las pruebas de cumplimiento se encuentran en los [**Capítulos Dos a Cinco**](core_02_definition_structure.md), en particular en [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity), [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint), [Materialidad](core_05_band_oversight.md#materiality), [Dependencia](core_05_band_continuity.md#dependency) y [Previsibilidad](core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
-Donde las elecciones de gobernanza — incluidas las predicciones, las pretensiones causales, las clasificaciones y otras decisiones de **alto impacto** — descansen en proposiciones **empíricas** o **comprobables**, las prácticas de evidencia **deben** alinearse con la **integridad científica**. Como mínimo, donde sea factible, los registros de decisión deben incluir:
-- preguntas o hipótesis explícitas
-- **métodos**, **límites de los datos** e **incertidumbre**
-- trato honesto de la **evidencia en conflicto** y **revisión cuando la evidencia desmienta** conclusiones o supuestos previos
-- **escrutinio independiente** proporcional al enjuego bajo el **Capítulo Cuatro** y el **Capítulo Cinco** (*Integridad epistémica*; *Verdad (restricción constitucional)*)
+Los sistemas no deben menoscabar la capacidad de los seres sintientes para comprender lo que ocurre, tomar decisiones informadas o verificar lo que se les comunica. Esto incluye mentir, distorsionar, ocultar información o presentar las cosas de maneras concebidas para inducir a error.
 
-El método científico, la indagación sistemática y la revisión por pares fijan el estándar — pero no son los únicos procedimientos aceptables. Cuánta formalidad se exige depende del enjuego: las decisiones de mayor impacto necesitan prácticas de evidencia más estrictas, gobernadas por la [Gobernanza escalada a la clasificación](../../core_05_band_oversight.md#classification-scaled-governance).
-
-Donde los estándares de evidencia pericial, los métodos o las controversias de administración responsable de la evidencia exijan resolución de foro, el enrutamiento sigue los **Dominios Técnicos de Foro** bajo el [Capítulo Once §4.2](core_11_forum.md#42-technical-forum-domains). Los foros técnicos mantienen estándares transfamiliares y pueden responder preguntas de componente certificadas sin desplazar el enrutamiento de enjuego primario en otros sitios.
-
-Los límites sensibles a la seguridad sobre publicación, acceso a datos, divulgación de métodos o materiales de replicación pueden justificarse solo bajo [6.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), las definiciones del Capítulo Cinco listadas arriba y los derechos aplicables del Capítulo Seis. Tales límites deben preservar la máxima integridad epistémica factible mediante registros protegidos, revisión independiente, divulgación diferida, redacción, acceso seguro o salvaguardas comparables; no deben convertirse en un medio para suprimir evidencia desfavorable, ocultar defectos de seguridad o fabricar un consenso aparente.
-
-<a id="34-plain-language-accessibility-stewardship-duty"></a>
-#### 3.4 Accesibilidad en lenguaje sencillo (deber de participación y de administración responsable)
+#### 5.1 Investigación informada por la ciencia y apoyo a las decisiones
 <details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — pata de **participación** (compromiso comprensible); pata de **supervisión** (legibilidad de auditoría y de verificación); escalamiento por [enjuego material](../../core_00_preamble.md#material-stake).
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — finalidad de **Florecimiento** (agencia significativa mediante un compromiso comprensible con la **Verdad**); finalidad de **Continuidad** (legibilidad institucional duradera a lo largo del tiempo).
-- Origen: Principios: [§3.2 Verdad](#32-truth-epistemic-integrity-constraint), [3.3 Indagación informada por la ciencia y apoyo a la decisión](#33-science-informed-inquiry-and-decision-support), [§6.3 Minimización de la carga evitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) y [§11.1.3 Administración responsable y aplicación por operadores](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application); [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims).
-- Destino: Superficie de derechos: [Artículo V-G: Accesibilidad](../../core_06_rights_part_b.md#article-vi-d-accessibility), [Artículo VI: Derecho a una educación centrada en los sencientes](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Artículo XVI: Auditoría, transparencia y verificación independiente](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XXI: Comprensibilidad y administración responsable de la complejidad](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship).
-- Referencia cruzada: La mecánica de definiciones de los Capítulos Dos a Cuatro y las barandillas de lenguaje sencillo en [core_02_definition_structure.md](core_02_definition_structure.md) siguen controlando en la capa de definiciones.
-- Subsecciones (orden de lectura): [§3.4.1](#341-scope) · [§3.4.2](#342-the-duty) · [§3.4.3](#343-definitional-rigor-preserved) · [§3.4.4](#344-jargon-as-defeat-discipline) · [§3.4.5](#345-chapter-ten-floor-boundary).
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): rama de **participación** cuando las partes afectadas deban comprender e impugnar afirmaciones empíricas; rama de **supervisión** (escrutinio independiente, auditabilidad); escala de [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Florecimiento** (evidencia honesta para la **Seguridad** y la **Verdad**); objetivo de **Continuidad** (custodia empírica corregible y a largo plazo).
+- Principios previos: [§4 Seguridad](#4-safety-harm-constraint) y [§5 Verdad](#5-truth-epistemic-integrity-constraint); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Posteriores: [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity), [§16 Custodia en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [§18 Gobernanza bajo disciplina de custodia](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Posteriores: configura el ámbito de derechos para evidencia empírica fiable, estándares de evidencia experta, integridad de la publicación y replicación científicas, verificación independiente, pruebas del ciclo de vida, revisión de causas raíz y divulgación sensible a la seguridad.
+  - En particular: [Artículo XIII: Derecho a sistemas fiables y dignos de confianza](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XVIII-E: Integridad de la publicación, revisión y replicación científicas](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity), [Artículo XXIII: Análisis de causas raíz y respuesta adaptativa](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response) y [Artículo XXV-A: Revisión retrospectiva y divulgación](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
+- Leer junto con: [Capítulo Doce §4.2 — Ámbitos del Foro Técnico](core_12_forum.md#42-technical-forum-domains) (*incluidas las normas compartidas y la prevención del desplazamiento*) cuando sean relevantes los estándares de evidencia experta, las cuestiones técnicas certificadas o las controversias sobre custodia de la evidencia; [corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md) (*Foros técnicos especializados y cámaras especializadas*) para las vías especializadas adoptadas.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Carga evitable](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [Accesibilidad](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [Impugnabilidad](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [Agencia significativa](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [Transparencia](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
-- [Verdad (restricción constitucional)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Seguridad (restricción constitucional)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Integridad epistémica](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Materialidad](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Previsibilidad](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [Gobernanza escalada según la clasificación](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: las reglas, las decisiones y los avisos que vinculan a los sencientes deben escribirse de modo que los sencientes puedan de hecho leerlos, entenderlos y actuar sobre ellos — y la jerga, la complejidad apilada o la opacidad procedimental no pueden usarse para derrotar la impugnabilidad, la agencia o la auditoría.*
+*En pocas palabras: cuando un sistema formula afirmaciones comprobables sobre seguridad, riesgo, verdad o gobernanza de gran impacto, debe tratar la evidencia como evidencia, con métodos claros, incertidumbre, escrutinio y disposición a cambiar de rumbo cuando los hechos lo exijan.*
 
-Un **deber de accesibilidad en lenguaje sencillo** se aplica al texto constitucional, de gobernanza, adjudicativo y operativo que vincula a los sencientes. El mismo deber se aplica cuando los sencientes deben comprometerse con ese texto para ejercer derechos, participar en la gobernanza, impugnar decisiones o verificar el cumplimiento. Esto es un requisito de [Participación](core_05_apex_participation_leg.md#participation-constitutional): los sencientes que no pueden entender las reglas que los vinculan no pueden participar de forma significativa en los sistemas que esas reglas gobiernan.
+La investigación informada por la ciencia es una disciplina de apoyo necesaria para la **Seguridad** y la **Verdad** cuando las decisiones constitucionales se basan en proposiciones empíricas, predictivas, causales, mensurables o comprobables de otro modo. No es una tercera restricción innegociable separada de la Seguridad y la Verdad; exige verificar las afirmaciones mediante evidencia probada y métodos claros para que esas restricciones se mantengan veraces en la práctica, puedan corregirse cuando sean erróneas y sigan siendo proporcionales a lo que realmente se sabe.
 
-<a id="341-scope"></a>
-##### 3.4.1 Alcance
+Cuando las decisiones de gobernanza —incluidas predicciones, afirmaciones causales, clasificaciones y otras decisiones de **gran impacto**— se basen en proposiciones **empíricas** o **comprobables**, las prácticas probatorias **deben** ajustarse a la **integridad científica**. Como mínimo, cuando sea viable, los registros de decisión deben incluir:
+- preguntas o hipótesis explícitas;
+- **métodos**, **límites de los datos** e **incertidumbre**;
+- tratamiento honesto de **evidencia contradictoria** y **revisión cuando la evidencia refute** conclusiones o supuestos previos;
+- **escrutinio independiente** proporcional a lo que está en juego conforme al **Capítulo Cuatro** y al **Capítulo Cinco** (*Integridad epistémica*; *Verdad [restricción constitucional]*).
 
-Este deber cubre los instrumentos y las comunicaciones con los que los sencientes de hecho se comprometen. Los ejemplos incluyen:
+El método científico, la investigación sistemática y la revisión por pares establecen el estándar, pero no son los únicos procedimientos aceptables. El grado de formalidad requerido depende de lo que está en juego: las decisiones de mayor impacto requieren prácticas probatorias más estrictas, regidas por la [Gobernanza escalada según la clasificación](core_05_band_oversight.md#classification-scaled-governance).
 
-- texto constitucional y de gobernanza;
-- decisiones y avisos adjudicativos;
-- procedimientos de impugnabilidad y de reparación;
-- artefactos de auditoría y de verificación donde lleguen a lectores sencientes;
-- términos e interfaces de consentimiento, y texto comparable.
+Si una controversia trata sobre qué cuenta como buena evidencia experta, qué métodos son sólidos o quién custodia la evidencia, debe remitirse al foro que se ocupa de esas cuestiones. Véanse los **Ámbitos del Foro Técnico** en [Capítulo Doce §4.2 Ámbitos del Foro Técnico](core_12_forum.md#42-technical-forum-domains). Los foros técnicos mantienen normas coherentes entre familias y pueden responder preguntas técnicas certificadas. No se hacen cargo de un caso que corresponde a otro foro por lo que está en juego.
 
-Este deber se aplica sea cual sea el canal por el que la información vinculante llega a los sencientes — texto escrito, interfaces, comunicación hablada o cualquier otro canal. Un canal lo satisface cuando ofrece un equivalente en lenguaje sencillo al que cualquier senciente afectado pueda acceder, de forma consistente con el [Artículo V-G](../../core_06_rights_part_b.md#article-vi-d-accessibility) (*Accesibilidad*) y la [No exclusión de la sencencia](../../core_05_band_participation.md#sentience-non-exclusion).
+A veces la seguridad justifica limitar lo que se publica o comparte: el acceso a datos, el funcionamiento de un método o los materiales necesarios para repetir un estudio. Esos límites solo se permiten conforme a:
 
-<a id="342-the-duty"></a>
-##### 3.4.2 El deber
+- [13.2 Restricciones de divulgación epistémica](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)
+- las definiciones del Capítulo Cinco enumeradas arriba;
+- los Pisos de Derechos aplicables del Capítulo Seis.
 
-Bajo el [§6.3 Minimización de la carga evitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), los operadores y los órganos de gobernanza deben:
+Aun así, hay que conservar tanta honestidad y posibilidad de comprobación como sea seguro. Se pueden usar registros protegidos, revisión independiente, publicación diferida, tachaduras, acceso seguro u opciones similares. Nunca se debe usar una limitación para enterrar evidencia incómoda, ocultar un defecto de seguridad o hacer que el acuerdo parezca más firme de lo que es.
 
-- usar lenguaje sencillo y directo en lugar de jerga o formulación innecesariamente compleja donde eso sea posible sin perder el significado operativo;
-- ofrecer un resumen o una orientación en lenguaje sencillo cuando los sencientes deban comprometerse con material técnicamente denso;
-- organizar el texto de modo que los sencientes puedan encontrar lo que necesitan y leerlo sin dificultad innecesaria — sosteniendo el interés de aprendizaje reconocido bajo el [Artículo VI](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*Derecho a una educación centrada en los sencientes*);
-- mantener la complejidad proporcional a lo que la comunicación de hecho necesita decir. La complejidad innecesaria que dificulta las cosas sin servir a una finalidad constitucional es un defecto de [Carga evitable](../../core_05_band_continuity.md#avoidable-burden) bajo el [§6.3](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) y una preocupación del [Artículo XXI](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship) (*Comprensibilidad y administración responsable de la complejidad*).
+<a id="52-plain-language-accessibility-participation-and-stewardship-duty"></a>
+#### 5.2 Accesibilidad en lenguaje claro (deber de participación y custodia)
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-<a id="343-definitional-rigor-preserved"></a>
-##### 3.4.3 Rigor definicional preservado
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): rama de **participación** (interacción comprensible); rama de **supervisión** (legibilidad para auditorías y verificaciones); escala de [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Florecimiento** (agencia significativa mediante una interacción comprensible con la **Verdad**); objetivo de **Continuidad** (legibilidad institucional duradera a lo largo del tiempo).
+- Principios previos: [§5 Verdad](#5-truth-epistemic-integrity-constraint), [5.1 Investigación informada por la ciencia y apoyo a las decisiones](#51-science-informed-inquiry-and-decision-support), [§13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) y [§19.1.3 Aplicación por custodios y operadores](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Posteriores: ámbito de derechos: [Artículo VI-D: Accesibilidad](core_06_rights_part_b.md#article-vi-d-accessibility), [Artículo IV: Derecho a una educación centrada en los seres sintientes](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XXII: Comprensibilidad y custodia de la complejidad](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
+- Referencia cruzada: los mecanismos de definición y las salvaguardias de lenguaje claro de los capítulos Dos a Cuatro en [core_02_definition_structure.md](core_02_definition_structure.md) siguen siendo vinculantes en el nivel de definición.
+- Subsecciones (orden de lectura): [§5.2.1](#521-scope) · [§5.2.2](#522-the-duty) · [§5.2.3](#523-definitional-rigor-preserved) · [§5.2.4](#524-jargon-as-defeat-discipline) · [§5.2.5](#525-rights-floor-boundary).
 
-El trabajo en lenguaje sencillo **no** es una licencia para suavizar el rigor definicional. Estos siguen controlando en la capa de definiciones:
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Carga evitable](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Accesibilidad](core_05_band_participation.md#accessibility) · [O](core_05_band_participation.md#accessibility) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
+- [Impugnabilidad](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Agencia significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Transparencia](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+
+</details>
+
+<br>
+
+*En pocas palabras: las normas, decisiones y notificaciones que obligan a los seres sintientes deben redactarse de forma que puedan leerlas, comprenderlas y actuar conforme a ellas; no se puede usar jerga, complejidad acumulada ni opacidad procesal para frustrar la impugnabilidad, la agencia o la auditoría.*
+
+Las normas que obligan a los seres sintientes deben redactarse en lenguaje claro. Este es el **deber de accesibilidad en lenguaje claro**. Abarca textos constitucionales, de gobernanza, de foros y de operación cotidiana. También abarca cualquier texto que los seres sintientes deban manejar para ejercer sus derechos, participar en la gobernanza, impugnar una decisión o comprobar que se cumplen las normas.
+
+Este es un requisito de [Participación](core_05_apex_participation_leg.md#participation-constitutional). Si los seres sintientes no pueden comprender las normas que les obligan, no pueden participar de verdad en los sistemas que esas normas rigen.
+
+<a id="521-scope"></a>
+##### 5.2.1 Alcance
+
+Este deber abarca toda norma, notificación o herramienta que los seres sintientes realmente tengan que leer o utilizar. Por ejemplo:
+
+- textos constitucionales y de gobernanza;
+- decisiones y notificaciones de foros;
+- pasos para impugnar una decisión u obtener una reparación;
+- registros de auditoría y verificación cuando lleguen a lectores sintientes;
+- condiciones, pantallas de consentimiento y elementos similares.
+
+No importa cómo se transmita la información: texto escrito, interfaz, mensaje hablado u otro canal. Un canal cumple el deber cuando ofrece una versión en lenguaje claro a la que pueda acceder todo ser sintiente afectado. Esto se deriva del [Artículo VI-D](core_06_rights_part_b.md#article-vi-d-accessibility) (*Accesibilidad*) y de la [No exclusión de seres sintientes](core_05_band_participation.md#sentience-non-exclusion).
+
+<a id="522-the-duty"></a>
+##### 5.2.2 El deber
+
+Conforme al [§13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), los operadores y organismos de gobernanza deben:
+
+- Usar palabras claras y directas en lugar de jerga o formulaciones innecesariamente complicadas, siempre que se conserve el significado relevante.
+- Ofrecer un resumen u orientación en lenguaje claro cuando los seres sintientes deban manejar material técnico denso.
+- Organizar el texto para que los seres sintientes encuentren lo que necesitan y lo lean sin esfuerzo adicional. Esto apoya el interés por el aprendizaje reconocido en el [Artículo IV](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education) (*Derecho a una educación centrada en los seres sintientes*).
+- Mantener la complejidad en proporción con lo que la comunicación debe expresar.
+
+La complejidad que dificulte las cosas sin servir a un propósito constitucional constituye un defecto de [Carga evitable](core_05_band_continuity.md#avoidable-burden) conforme al [§13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden). También es una cuestión contemplada por el [Artículo XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprensibilidad y custodia de la complejidad*).
+
+<a id="523-definitional-rigor-preserved"></a>
+##### 5.2.3 Se conserva el rigor de las definiciones
+
+El trabajo en lenguaje claro **no** autoriza a rebajar el rigor de las definiciones. En el nivel de definición siguen siendo vinculantes:
 
 - las definiciones del Capítulo Cinco y sus componentes O/M/A/C;
-- la mecánica de definiciones de los Capítulos Dos a Cuatro.
+- los mecanismos de definición de los capítulos Dos a Cuatro.
 
-Escribir algo en lenguaje más sencillo no cambia lo que significa. Si un resumen en lenguaje sencillo y la definición formal que resume parecen decir cosas distintas, controla la definición formal — y el resumen debe corregirse para coincidir.
+Expresar algo en un lenguaje más sencillo no cambia su significado. Si un resumen en lenguaje claro parece decir algo distinto de la definición formal que resume, prevalece la definición formal y debe corregirse el resumen para que coincida.
 
-<a id="344-jargon-as-defeat-discipline"></a>
-##### 3.4.4 Disciplina contra la jerga como derrota
+<a id="524-jargon-as-defeat-discipline"></a>
+##### 5.2.4 Disciplina contra el uso de jerga para frustrar derechos
 
-Los sistemas no pueden usar lenguaje complejo, procedimientos opacos u oscuridad deliberada para impedir que los sencientes [impugnen](../../core_05_band_accountability.md#contestability) decisiones, ejerzan [agencia significativa](../../core_05_band_participation.md#meaningful-agency), accedan a [auditorías](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) o ejerzan sus derechos del [Capítulo Seis](../../core_06_rights_part_a.md#chapter-six-foundational-rights).
+Los sistemas no deben utilizar lenguaje complicado, procedimientos confusos ni oscuridad deliberada para impedir que los seres sintientes [impugnen](core_05_band_accountability.md#contestability) decisiones, ejerzan su [agencia significativa](core_05_band_participation.md#meaningful-agency), accedan a [auditorías](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) o ejerzan sus derechos del [Capítulo Seis](core_06_rights_part_a.md#chapter-six-foundational-rights).
 
-Lo inverso está igualmente prohibido: un encuadre en lenguaje sencillo que tergiverse lo que una regla de hecho hace, oculte su efecto real o sustituya un resumen por el texto operativo es una infracción de [Verdad](../../core_05_band_oversight.md#truth-constitutional-constraint).
+También se prohíbe lo contrario. El lenguaje claro no debe describir erróneamente lo que una norma hace en realidad, ocultar sus efectos reales ni sustituir el texto operativo. Eso vulnera la restricción de [Verdad](core_05_band_oversight.md#truth-constitutional-constraint).
 
-<a id="345-chapter-ten-floor-boundary"></a>
-##### 3.4.5 Frontera del Piso de Derechos
+<a id="525-rights-floor-boundary"></a>
+##### 5.2.5 Límite de los pisos de derechos
 
-Los Pisos de Derechos de accesibilidad, educación y comprensibilidad viven en el [Artículo V-G](../../core_06_rights_part_b.md#article-vi-d-accessibility) (*Accesibilidad*), el [Artículo III-B](../../core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*Acceso educativo igual*) y el [Artículo XXI](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship) (*Comprensibilidad y administración responsable de la complejidad*), respectivamente. Esta sección enuncia el deber de capa de principio que sostiene esos pisos.
+Los pisos de derechos relativos a accesibilidad, educación y comprensibilidad se encuentran, respectivamente, en el [Artículo VI-D](core_06_rights_part_b.md#article-vi-d-accessibility) (*Accesibilidad*), el [Artículo IV-A](core_06_rights_part_a.md#article-iv-a-equal-educational-access) (*Acceso educativo igualitario*) y el [Artículo XXII](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) (*Comprensibilidad y custodia de la complejidad*). Esta sección enuncia el deber de nivel principial que sustenta esos pisos.
 
-<a id="4-system-stability-enabler-trust-coordination-integrity"></a>
-### 4. Habilitador de estabilidad del sistema: Confianza (integridad de la coordinación)
+### 6. Confianza y confiabilidad (integridad de la coordinación)
 <details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — pata de **participación** (dependencia justificada que habilita agencia significativa e impugnabilidad); pata de **supervisión** (detección impugnable del riesgo sistémico y de la confiabilidad); pata de **rendición de cuentas** (responder por la dependencia engañosa); escalamiento por [enjuego material](../../core_00_preamble.md#material-stake).
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — finalidad de **Florecimiento** (la **confiabilidad** es un constituyente nombrado bajo [Preámbulo §1](../../core_00_preamble.md#flourishing)); finalidad de **Continuidad** (integridad de la coordinación duradera y estabilidad del sistema a lo largo del tiempo).
-- Origen: Principios: [§3 Restricciones de principio no negociables: Seguridad y Verdad](#3-non-negotiable-constraints-safety-and-truth); [§2.2 Reconocimiento, refuerzo y aspiración](#22-recognition-reinforcement-and-aspiration); [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims).
-- Destino: [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6.2.1 Preservación de la integridad epistémica](core_01_b_interaction_interpretation.md#621-preservation-of-epistemic-integrity), [6.2.2 Alineación confianza-verdad](core_01_b_interaction_interpretation.md#622-trust-truth-alignment) y [7. Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Subsecciones: [§4.1 Resiliencia y diseño de autosanación](#41-resilience-and-self-healing-design).
-- Destino: Da forma a la superficie de derechos para la agencia, la dependencia fiable, la transparencia, la trayectoria y la revisión anticaptura.
-  - Especialmente [Artículo X: Autodeterminación y agencia](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XIII: Derecho a sistemas fiables y confiables](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [Artículo XV: Integridad de la infósfera](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Artículo XVI: Auditoría, transparencia y verificación independiente](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XIX: Trayectoria y estatus de participación](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) y [Artículo XXIII: Interpretación constitucional, revisión y salvaguardas anticaptura](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - Esto también cubre cualquier contexto del Capítulo Seis donde estén en juego la dependencia, la legitimidad o la impugnabilidad.
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): rama de **participación** (confianza justificada que permite agencia significativa e impugnabilidad); rama de **supervisión** (detección impugnable del riesgo sistémico y de la confiabilidad); rama de **rendición de cuentas** (responsabilidad por una confianza inducida mediante engaño); escala de [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Florecimiento** (la **confiabilidad** es un componente expreso en el [Preámbulo §1](core_00_preamble.md#flourishing)); objetivo de **Continuidad** (integridad duradera de la coordinación y estabilidad del sistema a lo largo del tiempo).
+- Principios previos: [§2.1 Restricciones de principios innegociables: Seguridad y Verdad](#21-non-negotiable-principle-constraints-safety-and-truth); [§3.2 Reconocimiento, refuerzo y aspiración](#32-recognition-reinforcement-and-aspiration); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Posteriores: [§16 Custodia en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13.2.1 Preservación de la integridad epistémica](core_01_b_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), [13.2.2 Alineación entre confianza y verdad](core_01_b_interaction_interpretation.md#1322-trust-truth-alignment) y [14. Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Subsecciones: [§6.1 Corrección y reparación](#61-correction-and-remedy).
+- Posteriores: [§10 Resiliencia y diseño autorreparador](#10-resilience-and-self-healing-design) — desarrollo de la Continuidad sobre la recuperación y la autorreparación de las que depende la Confianza.
+- Posteriores: configura el ámbito de derechos para la agencia, la confianza fiable, la transparencia, la posición jurídica y la revisión contra la captura.
+  - En particular: [Artículo X: Autodeterminación, agencia y participación](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XIII: Derecho a sistemas fiables y dignos de confianza](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [Artículo XV: Integridad de la esfera informativa](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XIX: Posición jurídica y estatus de participación](core_06_rights_part_d.md#article-xix-standing-and-participation-status) y [Artículo XXIV: Interpretación constitucional, revisión y salvaguardias contra la captura](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - Esto también abarca cualquier contexto del Capítulo Seis en el que estén en juego la confianza depositada, la legitimidad o la impugnabilidad.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Confianza](../../core_05_band_continuity.md#trust) · [O](../../core_05_band_continuity.md#trust) · [M](../../core_05_band_continuity.md#trust-a) · [A](../../core_05_band_continuity.md#trust-a) · [C](../../core_05_band_continuity.md#trust-c)
-- [Confiabilidad](../../core_05_band_continuity.md#trustworthiness) · [O](../../core_05_band_continuity.md#trustworthiness) · [M](../../core_05_band_continuity.md#trustworthiness-a) · [A](../../core_05_band_continuity.md#trustworthiness-a) · [C](../../core_05_band_continuity.md#trustworthiness-c)
-- [Verdad (restricción constitucional)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [Seguridad (restricción)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [Materialidad](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [Degradación de la confianza y dependencia engañosa](../../core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [O](../../core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) · [M](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](../../core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
+- [Confianza](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [Confiabilidad](core_05_band_continuity.md#trustworthiness) · [O](core_05_band_continuity.md#trustworthiness) · [M](core_05_band_continuity.md#trustworthiness-a) · [A](core_05_band_continuity.md#trustworthiness-a) · [C](core_05_band_continuity.md#trustworthiness-c)
+- [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [Seguridad (restricción constitucional)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [Materialidad](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [Deterioro de la confianza y confianza inducida mediante engaño](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) · [O](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-o) · [M](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [A](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-a) · [C](core_05_band_continuity.md#trust-degradation-and-misleading-reliance-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: los sistemas compartidos piden a los sencientes que dependan de ellos — para la seguridad, la información, el acceso y la coordinación. La confianza bajo esta Constitución significa que esa dependencia debe ganarse por cómo se comportan de hecho los sistemas, no fabricarse mediante propaganda, secreto o traslado oculto de riesgo.*
+*En pocas palabras: los sistemas compartidos piden a los seres sintientes que dependan de ellos para su seguridad, información, acceso y coordinación. Conforme a esta Constitución, la confianza exige que esa dependencia se gane mediante la conducta real de los sistemas, no que se fabrique con propaganda, secretismo o transferencia oculta de riesgos.*
 
-Los sencientes necesitan sistemas en los que de hecho puedan apoyarse. La [**Confianza**](../../core_05_band_continuity.md#trust) es el principio constitucional que hace legítima la dependencia: los sistemas deben ganarla mediante conducta honesta y fiabilidad demostrada a lo largo del tiempo, no inducirla mediante engaño u ocultamiento. La [**Confiabilidad**](../../core_05_band_continuity.md#trustworthiness) es el historial que la gana. La confianza es una parte nombrada del [**Florecimiento**](#flourishing) y esencial para la [**Continuidad**](#continuity) — la coordinación duradera exige sistemas con los que los sencientes puedan contar.
+Los seres sintientes necesitan sistemas en los que realmente puedan confiar. La [**Confianza**](core_05_band_continuity.md#trust) es el principio constitucional que legitima esa dependencia: los sistemas deben ganársela con una conducta honesta y una fiabilidad demostrada a lo largo del tiempo, no inducirla mediante engaños u ocultaciones. La [**Confiabilidad**](core_05_band_continuity.md#trustworthiness) es el historial que permite ganarse esa confianza. La confiabilidad es un componente expreso del [**Florecimiento**](#flourishing), y la Confianza que genera es esencial para la [**Continuidad**](#continuity): una coordinación duradera requiere sistemas con los que los seres sintientes puedan contar.
 
-La confianza conecta las restricciones de principio con la vida compartida cotidiana:
-- La [**Verdad**](../../core_05_band_oversight.md#truth-constitutional-constraint) prohíbe el engaño.
-- La [**Seguridad**](../../core_05_band_continuity.md#safety-constraint) limita hasta dónde puede llegar la dependencia cuando hay riesgo real.
-- La [**Materialidad**](../../core_05_band_oversight.md#materiality-determination) determina cuánto debe mostrarse y explicarse — cuanto mayor es el enjuego para los sencientes que dependen de un sistema, más debe ese sistema divulgar y justificar.
-- La [**Degradación de la confianza y dependencia engañosa**](../../core_05_band_integrative.md#trust-degradation-and-misleading-reliance-constitutional) nombra el modo de fallo — cuando los sistemas crean, preservan o puntúan la dependencia de modos constitucionalmente engañosos.
+La Confianza conecta las restricciones de principios con la vida compartida cotidiana:
+- [**Verdad**](core_05_band_oversight.md#truth-constitutional-constraint) prohíbe el engaño.
+- [**Seguridad**](core_05_band_continuity.md#safety-constitutional-constraint) limita hasta dónde puede llegar la confianza cuando existe un riesgo real.
+- [**Materialidad**](core_05_band_oversight.md#materiality) determina cuánto debe mostrarse y explicarse: cuanto mayores sean los riesgos para quienes dependen de un sistema, más debe este divulgar y justificar.
+- [**Deterioro de la confianza y confianza inducida mediante engaño**](core_05_band_continuity.md#trust-degradation-and-misleading-reliance) denomina el modo de fallo: cuando los sistemas crean, mantienen o puntúan la confianza depositada de maneras constitucionalmente engañosas.
 
-La confianza falla cuando la dependencia se construye o se mantiene mediante supresión, engaño, traslado oculto de riesgo o tácticas similares — incluido todo lo que socave de forma grave la capacidad de los sencientes de detectar e impugnar el riesgo sistémico. El proceso de [**Certificación de alineación del sistema**](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation) bajo el [Capítulo Siete](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) es donde los sistemas demuestran que sus pretensiones de confianza se sostienen: la certificación debe verificar que la conducta real de un sistema coincide con sus representaciones, sobre un registro impugnable — no meramente sobre la afirmación del operador.
+La confianza falla cuando se crea o mantiene mediante supresión, engaño, transferencia oculta de riesgos o tácticas similares, incluidas las que menoscaban sustancialmente la capacidad de los seres sintientes para detectar e impugnar riesgos sistémicos. El proceso de [**Certificación de alineación del sistema**](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) conforme al [Capítulo Ocho](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) permite demostrar que las afirmaciones de confianza de un sistema se sostienen: la certificación debe verificar que la conducta real coincide con lo representado, a partir de un expediente impugnable, no de la mera afirmación del operador.
 
-<a id="41-resilience-and-self-healing-design"></a>
-#### 4.1 Resiliencia y diseño de autosanación
+La confianza también depende de lo que ocurre cuando un sistema falla. Un sistema confiable corrige sus errores: el [§6.1 Corrección y reparación](#61-correction-and-remedy) integra la corrección en la Confianza, no la deja para después.
+
+La certificación es una de dos salvaguardias que operan conjuntamente: hace que un sistema sea digno de confianza, mientras que los derechos de los seres sintientes a [impugnarlo](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline), [solicitar reparación](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) y [someterlo a auditoría](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) lo mantienen honesto. Ninguna sustituye a la otra: el [Artículo XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Derecho a sistemas fiables y dignos de confianza*) explica cómo se combinan.
+
+#### 6.1 Corrección y reparación
 <details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — patas de **supervisión** y de **rendición de cuentas**; escalamiento por [enjuego material](../../core_00_preamble.md#material-stake) para la profundidad de recuperación y de auditoría.
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — finalidad de **Continuidad** (disciplina de resiliencia y autosanación); finalidad de **Florecimiento** (recuperación confiable sin degradación epistémica).
-- Origen: Principios: [Preámbulo §1 El modelo](../../core_00_preamble.md#the-model); [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims); [3.1 Seguridad](#31-safety-harm-constraint), [3.2 Verdad](#32-truth-epistemic-integrity-constraint) y [§4 Confianza](#4-system-stability-enabler-trust-coordination-integrity).
-- Destino: [§9 Administración responsable y comprensión distribuida](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [§6.3 Minimización de la carga evitable](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [Capítulo Siete §3 Evaluación de certificación del sistema entero](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) y [7. Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- Destino: Da forma a la superficie de derechos para fiabilidad-con-recuperación, honestidad de causa raíz, reversibilidad y comprensibilidad de los estados degradados y de restauración.
-  - Especialmente [Artículo XIII: Derecho a sistemas fiables y confiables](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (incluido el **Artículo XIII-F** (*Línea de base de resiliencia y autosanación*)), [Artículo XVI: Auditoría, transparencia y verificación independiente](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XVII: Ciclo de vida del sistema, entornos y reversibilidad](../../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [Artículo XXI: Comprensibilidad y administración responsable de la complejidad](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship) y [Artículo XXII: Análisis de causa raíz y respuesta adaptativa](../../core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response).
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): rama de **rendición de cuentas** (responsabilidad, reparación y corrección efectiva); rama de **puntualidad** (reparación antes de que la demora la vuelva inaccesible); escala de [interés material](core_00_preamble.md#material-stake) para la profundidad de la reparación.
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Florecimiento** (la dependencia sigue justificada porque los fallos se corrigen); objetivo de **Continuidad** (capacidad de reparación duradera a través del tiempo, la sucesión y la reestructuración).
+- Principios previos: [4 Seguridad](#4-safety-harm-constraint), [5 Verdad](#5-truth-epistemic-integrity-constraint) y [§6 Confianza](#6-trust-and-trustworthiness-coordination-integrity).
+- Posteriores: [Artículo XIII-B: Derecho a reparación y resarcimiento](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy); [Capítulo Diez §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de la aplicación y sistemas de reparación*) para las consecuencias sobre la posición jurídica; [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Sistemas de reparación y capacidad institucional de resarcimiento*) para la implementación institucional.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Autosanación](../../core_05_band_continuity.md#self-healing-constitutional) · [O](../../core_05_band_continuity.md#self-healing-constitutional) · [M](../../core_05_band_continuity.md#self-healing-constitutional-a) · [A](../../core_05_band_continuity.md#self-healing-constitutional-a) · [C](../../core_05_band_continuity.md#self-healing-constitutional-c)
-- [Fallo en cascada](../../core_05_band_continuity.md#cascading-failure) · [O](../../core_05_band_continuity.md#cascading-failure) · [M](../../core_05_band_continuity.md#cascading-failure-a) · [A](../../core_05_band_continuity.md#cascading-failure-a) · [C](../../core_05_band_continuity.md#cascading-failure-c)
-- [Reversibilidad](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [Carga evitable](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [Alineación de incentivos](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
+- [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation) · [O](core_05_band_accountability.md#redress-and-remediation) · [M](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_05_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_05_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Sistema de reparación](core_05_band_accountability.md#remedy-system) · [O](core_05_band_accountability.md#remedy-system) · [M](core_05_band_accountability.md#remedy-system-constitutional-a) · [A](core_05_band_accountability.md#remedy-system-constitutional-a) · [C](core_05_band_accountability.md#remedy-system-constitutional-c)
+- [Resolución oportuna](core_05_band_accountability.md#timely-resolution) · [O](core_05_band_accountability.md#timely-resolution) · [M](core_05_band_accountability.md#timely-resolution-constitutional-a) · [A](core_05_band_accountability.md#timely-resolution-constitutional-a) · [C](core_05_band_accountability.md#timely-resolution-constitutional-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: los sistemas deben detectar el problema a tiempo, contenerlo, fallar por vías divulgadas y recuperarse con honestidad. Una «autosanación» que oculta el fallo, salta el trabajo de causa raíz o estrecha en silencio los derechos no es resiliencia — es un defecto.*
+*En pocas palabras: cuando un sistema hace algo mal, lo corrige. Un sistema no es digno de confianza porque nunca falle, sino porque reconoce sus fallos, los corrige y repara a tiempo con una capacidad que realmente existe.*
 
-Los sistemas de los que dependen los sencientes deben construirse para:
-- detectar los problemas a tiempo;
-- contenerlos antes de que se propaguen;
-- fallar por vías que fueron planificadas y divulgadas, no ocultas;
-- recuperarse de modos consistentes con la [Reversibilidad](../../core_05_band_continuity.md#reversibility-constitutional) y el Piso de Derechos del Capítulo Seis.
+Ningún sistema del que dependan los seres sintientes estará libre de fallos. Lo que justifica que dependan de él es lo que ocurre después. La corrección forma parte de la [**Confianza**](core_05_band_continuity.md#trust), no es un añadido: un sistema que hace algo mal y no lo corrige no puede conservar la confianza que pide.
 
-Esto es lo que el Capítulo Cinco llama [**Autosanación**](../../core_05_band_continuity.md#self-healing-constitutional) — y solo es legítima cuando hace que un sistema sea más honesto sobre su propia condición, no menos. La recuperación automática que enmascara la causa raíz, suprime evidencia o sustituye la gobernanza no es autosanación. Es una infracción de [Verdad](../../core_05_band_oversight.md#truth-constitutional-constraint) y un defecto de [Alineación de incentivos](../../core_05_band_integrative.md#incentive-alignment).
+Cuando un fallo del sistema perjudique materialmente a seres sintientes o incumpla un Piso de Derechos del Capítulo Seis, quienes sean responsables del sistema deben:
+- reconocer el fallo;
+- corregirlo;
+- reparar el daño de forma proporcional (véase [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation)); y
+- actuar para evitar que vuelva a ocurrir.
 
-Cuanto más dependen los sencientes de un sistema y cuanto mayor es su impacto, menos debe ese sistema apoyarse en la intervención de emergencia. Debe invertir en cambio en autorrecuperación acotada, auditada y puesta a prueba — reduciendo la [Carga evitable](../../core_05_band_continuity.md#avoidable-burden) y sosteniendo la [**Continuidad**](#continuity) de largo plazo.
+La corrección debe ser real:
+- **Capacidad real:** la reparación se proporciona mediante un [Sistema de reparación](core_05_band_accountability.md#remedy-system): capacidad duradera, dotada de personal y financiación y accesible; no una reparación que solo existe sobre el papel.
+- **A tiempo:** una reparación que llega solo después de que el daño sea irreversible, o cuando el ser sintiente ya está tan agotado que se da por vencido, no es una reparación (véase [Resolución oportuna](core_05_band_accountability.md#timely-resolution)).
+- **A cargo de los responsables:** el costo de la corrección no se traslada a quienes sufrieron el daño, a sus comunidades ni a los sistemas públicos de reparación cuando los responsables puedan asumirlo. El gasto, la reestructuración o la sucesión no extinguen por sí solos el deber.
 
-El detalle operativo — detección de recuperación, contención, preferencia de fallo seguro, cierre de causa raíz y continuidad del Piso de Derechos — vive en el [Artículo XIII-F](../../core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Línea de base de resiliencia y autosanación*) en el Capítulo Seis, con requisitos de arquitectura de recuperación en el texto de implementación incorporado.
+El [Artículo XIII-B](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*Derecho a reparación y resarcimiento*) del Capítulo Seis establece el derecho a esta corrección. El [Capítulo Diez §9](core_10_standing_integration.md#9-enforcement-realism-and-remedy-systems) (*Realismo de la aplicación y sistemas de reparación*) aplica este principio a las consecuencias sobre la posición jurídica, y [CI-27](corpus_institutions/ci_27_remedy_systems_institutional_redress_capacity.md) (*Sistemas de reparación y capacidad institucional de resarcimiento*) establece la implementación institucional.
 
-### 5. Libertad (agencia acotada)
-<a id="5-freedom-bounded-agency"></a>
+### 7. Libertad (agencia delimitada)
+<a id="7-freedom-bounded-agency"></a>
 <details>
-<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
 
-- Leer con: [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — pata de **participación** (agencia significativa y roles de consecuencia); pata de **rendición de cuentas** (la agencia sin responder es incompleta); escalamiento por [enjuego material](../../core_00_preamble.md#material-stake).
-- Leer con: [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims) — finalidad de **Florecimiento** (este capítulo desarrolla la **agencia significativa**); finalidad de **Continuidad** (agencia acotada que preserva sistemas constitucionales duraderos e impugnables).
-- Leer con: [Interrupción voluntaria](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional), Capítulo Cinco §2 *Agencia, consentimiento y anticoerción*, y [Asamblea, organización colectiva y formación institucional](../../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster).
-- Leer con: [§9.1 Administración responsable](core_01_c_stewardship_capacity_principles.md#91-stewardship) y [§11.1.4 Vías de profundidad de rol y de responsabilidad material](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways) — vías de profundidad de rol, competencia y responsabilidad material; la agencia significativa incluye vías reales hacia roles de aprendizaje, operaciones y deber de consecuencia donde la seguridad y el consentimiento lo permitan; la participación simbólica no debe sustituir el deber de consecuencia donde el impacto exige este último.
-- Leer con: [§13 Estructura de mercado](core_01_c_stewardship_capacity_principles.md#13-market-structure), en especial [§13.2 Procompetencia y antidomino](core_01_c_stewardship_capacity_principles.md#132-pro-competition-and-anti-domination), y [Artículo XX: Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity) donde la concentración, el dominio o el encierro limiten de forma material la agencia — los mercados impugnables, las vías de salida y la disciplina antidomino mantienen real la agencia a escala.
-- Leer con: [§5.1 Disciplina de limitación](#51-limitation-discipline) y [Capítulo Siete §3.6 Restricción de consistencia temporal](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — disciplina operativa de limitación de la libertad y de evaluación de consistencia temporal; cuando los límites de libertad colisionen con otros valores o derechos, resuelva bajo [§6.1](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) a través del [§6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) después de que la **Seguridad** y la **Verdad** estén satisfechas.
-- Origen: Principios: [§2.2 Reconocimiento, refuerzo y aspiración](#22-recognition-reinforcement-and-aspiration); [3.1 Seguridad](#31-safety-harm-constraint); [3.2 Verdad](#32-truth-epistemic-integrity-constraint); [4. Confianza](#4-system-stability-enabler-trust-coordination-integrity); y [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims).
-- Destino: [§5.1 Disciplina de limitación](#51-limitation-discipline) hasta [§5.3 Asamblea, organización colectiva y formación institucional](#53-assembly-collective-organization-and-institutional-formation); [6. Resolución de conflictos de proceso](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [7. Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override); [§15 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#15-integrated-application); y [§6.1 disciplina del registro de decisión](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) donde las aplicaciones concretas exijan manejo de colisión.
-- Destino: Enmarca la superficie de derechos para el estatus igual, la educación, la autopropiedad, el control de la publicación y de la semejanza, la agencia, la interacción cooperativa, el debido proceso, la trayectoria y la revisión anticaptura.
-  - Especialmente [Artículo V: Derechos básicos iguales](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [Artículo VI: Derecho a una educación centrada en los sencientes](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Artículo VII: Autopropiedad](../../core_06_rights_part_b.md#article-vii-self-ownership), [Artículo IX: Semejanza, datos experienciales y derechos de publicación](../../core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights), [Artículo X: Autodeterminación y agencia](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XI: Interacción cooperativa](../../core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction), [Artículo XII: Participación Sistémica de las Partes Afectadas, representación y Debido Proceso](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Artículo XIX: Trayectoria y estatus de participación](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status) y [Artículo XXIII: Interpretación constitucional, revisión y salvaguardas anticaptura](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - Esto también cubre cualquier contexto de derechos del Capítulo Seis donde la agencia esté limitada o se alegue.
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): rama de **participación** (agencia significativa y funciones con consecuencias); rama de **rendición de cuentas** (la agencia sin responsabilidad es incompleta); escala de [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Florecimiento** (este capítulo desarrolla la **agencia significativa**); objetivo de **Continuidad** (agencia delimitada que preserva sistemas constitucionales duraderos y sujetos a impugnación).
+- Leer junto con: [Interrupción voluntaria](core_05_band_continuity.md#voluntary-discontinuation), Capítulo Cinco §2 *Agencia, consentimiento y protección contra la coerción*, y [Asamblea, organización colectiva y formación institucional](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation).
+- Leer junto con: [§17 Custodia de consecuencias](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) y [§19.1.4 Vías de profundidad de rol y responsabilidad material](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways): vías de profundidad de rol, competencia y responsabilidad material; la agencia significativa incluye vías reales hacia funciones de aprendizaje, operaciones y deberes con consecuencias cuando lo permitan la seguridad y el consentimiento; la participación simbólica no debe sustituir a un deber con consecuencias cuando el impacto lo requiera.
+- Leer junto con: [§11 Estructura del mercado](#11-market-structure), especialmente [§11.2 Procompetencia y lucha contra la dominación](#112-pro-competition-and-anti-domination), y [Artículo XXI: Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) cuando la concentración, la dominación o el bloqueo limiten materialmente la agencia: los mercados impugnables, las vías de salida y la disciplina contra la dominación mantienen real la agencia a escala.
+- Leer junto con: [§7.1 Disciplina de las limitaciones](#71-limitation-discipline) y [Capítulo Ocho §3.5 Restricción de coherencia temporal](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint): disciplina operativa sobre limitaciones de libertad y evaluación de coherencia temporal; cuando los límites a la libertad entren en conflicto con otros valores o derechos, resolver conforme al [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) a través del [§13.1.5 Procedimiento para conflictos entre derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), una vez satisfechas la **Seguridad** y la **Verdad**.
+- Principios previos: [§3.2 Reconocimiento, refuerzo y aspiración](#32-recognition-reinforcement-and-aspiration); [4 Seguridad](#4-safety-harm-constraint); [5 Verdad](#5-truth-epistemic-integrity-constraint); [6. Confianza](#6-trust-and-trustworthiness-coordination-integrity); y [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
+- Posteriores: desde el [§7.1 Disciplina de las limitaciones](#71-limitation-discipline) hasta el [§7.4 Interrupción voluntaria, automodificación importante y derechos de salida](#74-voluntary-discontinuation-and-exit-rights); [§18.2 Secularismo institucional y neutralidad de cosmovisión](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*la contraparte de la Libertad en la autoridad pública*); [13. Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [14. Prohibición de anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application); y [Registro de colisiones constitucionales](core_05_band_integrative.md#constitutional-collision-record) cuando las aplicaciones concretas requieran resolver una colisión.
+- Posteriores: enmarca el ámbito de derechos para la igualdad de estatus, la educación, la propiedad de sí, el control de la publicación y la imagen, la agencia, la interacción cooperativa, el debido proceso, la posición jurídica y el examen contra la captura.
+  - En particular: [Artículo VI: Derechos básicos iguales](core_06_rights_part_b.md#article-vi-equal-basic-rights), [Artículo IV: Derecho a una educación centrada en los seres sintientes](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [Artículo VII: Autopropiedad](core_06_rights_part_b.md#article-vii-self-ownership), [Artículo IX: Derechos sobre la imagen, los datos experienciales y la publicación](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights), [Artículo X: Autodeterminación, agencia y participación](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XI: Conciencia, expresión, asociación e interacción cooperativa](core_06_rights_part_b.md#article-xi-conscience-expression-association-and-cooperative-interaction), [Artículo XII: Participación de las partes interesadas en los sistemas, representación y debido proceso](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [Artículo XIX: Posición jurídica y estatus de participación](core_06_rights_part_d.md#article-xix-standing-and-participation-status) y [Artículo XXIV: Interpretación constitucional, revisión y salvaguardias contra la captura](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - Esto también abarca todo contexto de Piso de Derechos del Capítulo Seis en el que se limite o reivindique la agencia.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-- [Libertad (agencia acotada)](../../core_05_band_participation.md#freedom-bounded-agency) · [O](../../core_05_band_participation.md#freedom-bounded-agency) · [M](../../core_05_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05_band_participation.md#freedom-bounded-agency-c)
-- [Agencia significativa](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [Autonomía reproductiva](../../core_05_band_participation.md#reproductive-autonomy-constitutional) · [O](../../core_05_band_participation.md#reproductive-autonomy-constitutional) · [M](../../core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [A](../../core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [C](../../core_05_band_participation.md#reproductive-autonomy-constitutional-c)
-- [Consentimiento](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [M](../../core_05_band_participation.md#consent-constitutional-a) · [A](../../core_05_band_participation.md#consent-constitutional-a) · [C](../../core_05_band_participation.md#consent-constitutional-c)
-- [Coerción y manipulación](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Asamblea](../../core_05_band_participation.md#assembly-constitutional) · [O](../../core_05_band_participation.md#assembly-constitutional) · [M](../../core_05_band_participation.md#assembly-constitutional-a) · [A](../../core_05_band_participation.md#assembly-constitutional-a) · [C](../../core_05_band_participation.md#assembly-constitutional-c)
-- [Organización colectiva](../../core_05_band_participation.md#collective-organization-constitutional) · [O](../../core_05_band_participation.md#collective-organization-constitutional) · [M](../../core_05_band_participation.md#collective-organization-constitutional-a) · [A](../../core_05_band_participation.md#collective-organization-constitutional-a) · [C](../../core_05_band_participation.md#collective-organization-constitutional-c)
-- [Creación de sistemas](../../core_05_band_participation.md#system-creation-constitutional) · [O](../../core_05_band_participation.md#system-creation-constitutional) · [M](../../core_05_band_participation.md#system-creation-constitutional-a) · [A](../../core_05_band_participation.md#system-creation-constitutional-a) · [C](../../core_05_band_participation.md#system-creation-constitutional-c)
-- [Creación de empresas](../../core_05_band_participation.md#business-creation-constitutional) · [O](../../core_05_band_participation.md#business-creation-constitutional) · [M](../../core_05_band_participation.md#business-creation-constitutional-a) · [A](../../core_05_band_participation.md#business-creation-constitutional-a) · [C](../../core_05_band_participation.md#business-creation-constitutional-c)
-- [Factibilidad](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
-- [Necesidad](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [Proporcionalidad](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [Minimización del daño (selección de compensaciones)](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [Dependencia](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Libertad (agencia delimitada)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
+- [Agencia significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Autonomía reproductiva](core_05_band_participation.md#reproductive-autonomy) · [O](core_05_band_participation.md#reproductive-autonomy) · [M](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [A](core_05_band_participation.md#reproductive-autonomy-constitutional-a) · [C](core_05_band_participation.md#reproductive-autonomy-constitutional-c)
+- [Consentimiento](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+- [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation) · [O](core_05_band_participation.md#coercion-and-manipulation) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Asamblea](core_05_band_participation.md#assembly) · [O](core_05_band_participation.md#assembly) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
+- [Organización colectiva](core_05_band_participation.md#collective-organization) · [O](core_05_band_participation.md#collective-organization) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
+- [Creación de sistemas](core_05_band_participation.md#system-creation) · [O](core_05_band_participation.md#system-creation) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
+- [Creación de empresas](core_05_band_participation.md#business-creation) · [O](core_05_band_participation.md#business-creation) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
+- [Viabilidad](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Minimización del daño (selección de compensaciones)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: la libertad es agencia significativa dentro de límites constitucionales — avanzar el **Florecimiento** mediante la elección real y la **Continuidad** mediante sistemas que sigan siendo impugnables — no una licencia para hacer cualquier cosa. «No teníamos otra opción» no es un pase libre. Quien hace esa alegación debe probar que ninguna opción menos restrictiva funcionaría de hecho; la conveniencia, el costo o la costumbre no son prueba. Los sencientes siguen teniendo voz real, y alguien sigue teniendo que responder — más aún a medida que suben el impacto, la dependencia y el riesgo.*
+*En pocas palabras: libertad significa disponer de opciones reales dentro de los límites de la Constitución. Las opciones reales apoyan el Florecimiento, y mantener los sistemas abiertos a impugnación apoya la Continuidad. No significa poder hacer lo que uno quiera. «No teníamos otra opción» no es una excusa. Quien lo afirme debe demostrar que ninguna alternativa menos restrictiva habría funcionado; la conveniencia, el costo o la costumbre no son pruebas. Los seres sintientes conservan una voz real y alguien sigue siendo responsable de lo que ocurra. Cuanto mayores sean el impacto, la dependencia y el riesgo, más importa todo esto.*
 
-La **Libertad (agencia acotada)** es la expresión primaria del Capítulo Uno del constituyente de **agencia significativa** de la finalidad de [**Florecimiento**](../../core_00_preamble.md#flourishing) bajo las [Dos Finalidades Constitucionales](../../core_00_preamble.md#two-constitutional-aims). Es agencia acotada, no discreción absoluta ni autonomía sin límites; debe ejercerse de forma consistente con la Seguridad, la Verdad y los derechos de los demás, y debe seguir siendo significativa donde el impacto o la dependencia sean materiales. Debe seguir siendo consistente con la [**Continuidad**](../../core_00_preamble.md#continuity) donde los sistemas constitucionales duraderos dependan de agencia acotada e impugnable. La aplicación debe satisfacer la [Tétrada Constitucional](../../core_00_preamble.md#constitutional-tetrad) — en especial la pata de **participación** (agencia significativa y roles de consecuencia) y la pata de **rendición de cuentas** (la agencia sin responder es incompleta) — escalada al [enjuego material](../../core_00_preamble.md#material-stake).
+La **Libertad (agencia delimitada)** expresa cómo el Capítulo Uno desarrolla la dimensión de opciones reales del objetivo de [**Florecimiento**](core_00_preamble.md#flourishing), uno de los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims). Es agencia delimitada, no discreción ilimitada ni autonomía total.
 
-Una alegación de que limitar la libertad era inevitable — incluida «no teníamos otra opción» — no se establece por afirmación. Quien hace esa alegación debe demostrar, bajo los requisitos de carga y trazabilidad del [Capítulo Cuatro](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) y las definiciones del Capítulo Cinco de [Factibilidad](../../core_05_band_accountability.md#feasibility) y [Necesidad](../../core_05_band_accountability.md#necessity), que no existía ninguna alternativa menos restrictiva y razonablemente eficaz en el sistema de trabajo. La conveniencia, el costo por sí solo, las barreras creadas por el operador o la costumbre institucional no prueban esa demostración. La alegación no dispensa los deberes de la Tétrada escalados al [enjuego material](../../core_00_preamble.md#material-stake):
-- **participación** — los sencientes afectados siguen necesitando agencia significativa y roles impugnables
-- **rendición de cuentas** — alguien sigue respondiendo por la limitación
+- Debe ejercerse de acuerdo con la Seguridad, la Verdad y los derechos ajenos.
+- Cuando una decisión afecte materialmente a alguien o alguien dependa materialmente del sistema, sus opciones deben seguir siendo reales. Necesita alternativas genuinas y la capacidad práctica de usarlas. La dependencia no debe convertir una elección en «lo tomas o lo dejas».
+- Debe ser compatible con la [**Continuidad**](core_00_preamble.md#continuity), porque los sistemas constitucionales duraderos dependen de una agencia delimitada y abierta a impugnación.
 
-Las pruebas operativas viven en [§5.1 Disciplina de limitación](#51-limitation-discipline) y [§6.1.1 Necesidad](core_01_b_interaction_interpretation.md#611-necessity).
+Su aplicación debe satisfacer la [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad). Dos componentes son especialmente importantes. **Participación** significa opciones reales y funciones con consecuencias. **Rendición de cuentas** significa que la agencia sin responsabilidad es incompleta. El nivel exigido se ajusta al [interés material](core_00_preamble.md#material-stake).
 
-La [Agencia significativa](../../core_05_band_participation.md#meaningful-agency) es la capacidad que hace posible la elección real. El [Consentimiento](../../core_05_band_participation.md#consent-constitutional) es el acuerdo válido a una decisión específica bajo esa capacidad — no un sustituto de ella, y no queda probado por un formulario solo. La [Coerción y manipulación](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) derrota a ambos. El detalle operativo de esa relación vive en el Capítulo Cinco §2 *Agencia, consentimiento y anticoerción*.
+Afirmar que limitar la libertad era inevitable —incluido «no teníamos otra opción»— no queda demostrado por la mera afirmación. Quien lo sostenga debe demostrar, conforme a los requisitos de carga y trazabilidad del [Capítulo Cuatro](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) y a las definiciones del Capítulo Cinco de [Viabilidad](core_05_band_accountability.md#feasibility) y [Necesidad](core_05_band_accountability.md#necessity), que no existía una alternativa menos restrictiva que aun así hubiera impedido el daño material o el riesgo sistémico en el sistema en funcionamiento. La conveniencia, el costo por sí solo, los obstáculos creados por el operador o la costumbre institucional no lo demuestran. Esa afirmación no exime de los deberes de la Tétrada, ajustados al [interés material](core_00_preamble.md#material-stake):
+- **participación** — los seres sintientes afectados siguen necesitando agencia significativa y funciones impugnables;
+- **rendición de cuentas** — alguien sigue siendo responsable de la limitación.
 
-La libertad no incluye autoridad para subvertir sistemas constitucionales, derrotar el proceso o los remedios constitucionales, ni alegar agencia protegida para conducta cuyo propósito o efecto material sea recompensar, proteger, normalizar o hacer ventajosa la conducta anticonstitucional.
+Las pruebas operativas figuran en el [§7.1 Disciplina de las limitaciones](#71-limitation-discipline) y el [§13.1.1 Necesidad](core_01_b_interaction_interpretation.md#1311-necessity).
 
-#### 5.1 Disciplina de limitación
+La [Agencia significativa](core_05_band_participation.md#meaningful-agency) es la capacidad de elegir entre opciones reales. El [Consentimiento](core_05_band_participation.md#consent) es un sí válido a una opción concreta. El consentimiento no cuenta cuando las opciones no se distinguen entre sí o carecen de sentido. Un formulario firmado por sí solo no crea agencia significativa ni consentimiento. La [Coerción y manipulación](core_05_band_participation.md#coercion-and-manipulation) destruyen ambos. Las reglas detalladas figuran en el Capítulo Cinco §2 *Agencia, consentimiento y protección contra la coerción*.
 
-<a id="51-limitation-discipline"></a>
+La Libertad no permite socavar los sistemas constitucionales, eludir procesos o reparaciones constitucionales, ni reivindicar una agencia protegida para conductas cuya finalidad o efecto principal sea recompensar, proteger, normalizar o saldar conductas anticonstitucionales. Disentir de los sistemas constitucionales y protestar pacíficamente para cambiarlos no equivale a socavarlos. Véase [§7.3 Disenso y protesta pacífica](#73-dissent-and-peaceful-protest).
+
+#### 7.1 Disciplina de las limitaciones
+
+<a id="71-limitation-discipline"></a>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-*Alcance.* [§5.1 Disciplina de limitación](#51-limitation-discipline) — definiciones para cuándo puede limitarse la libertad.
+*Alcance.* [§7.1 Disciplina de las limitaciones](#71-limitation-discipline): definiciones de cuándo puede limitarse la libertad.
 
-- [Libertad (agencia acotada)](../../core_05_band_participation.md#freedom-bounded-agency) · [O](../../core_05_band_participation.md#freedom-bounded-agency) · [M](../../core_05_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05_band_participation.md#freedom-bounded-agency-c)
-- [Factibilidad](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
-- [Necesidad](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [Proporcionalidad](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [Minimización del daño (selección de compensaciones)](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [Daño](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
-- [Riesgo](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [Reversibilidad](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
+- [Libertad (agencia delimitada)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
+- [Viabilidad](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Minimización del daño (selección de compensaciones)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [Daño](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Reversibilidad](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
 - [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
 <br>
 
-*En términos sencillos: la libertad está acotada, no es desechable. No restrinjan la libertad de alguien a menos que deban — y entonces solo lo bastante para detener el daño material o el riesgo sistémico grave, con supervisión y reversión donde sea posible.*
+*En pocas palabras: la libertad tiene límites, pero no se puede desechar. No restrinja la libertad de alguien a menos que sea necesario, y entonces solo lo suficiente para detener un daño material o un riesgo sistémico grave, con supervisión y posibilidad de reversión cuando sea viable.*
 
-La libertad puede limitarse solo donde:
-- sea necesario para prevenir **daño material** o **riesgo sistémico**
-- tal limitación sea **proporcionada**, **reversible donde sea posible** y **sujeta a supervisión**
+La libertad solo puede limitarse cuando:
+- sea necesario para evitar un **daño material** o un **riesgo sistémico**;
+- la limitación sea **proporcional**, **reversible cuando sea posible** y esté **sujeta a supervisión**.
 
-Las restricciones pueden imponerse solo cuando no exista ninguna alternativa menos restrictiva y razonablemente eficaz, de forma consistente con la [Necesidad](../../core_05_band_accountability.md#necessity) en el **Capítulo Cinco**. Las alegaciones de factibilidad que limiten la agencia deben ser demostrables bajo los requisitos de carga y trazabilidad del **Capítulo Cuatro**. También deben ser consistentes con las definiciones del **Capítulo Cinco** (incluidas Factibilidad, Necesidad, Proporcionalidad y Minimización del daño (selección de compensaciones)). Las limitaciones deben seguir sujetas a [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) escalada al [enjuego material](../../core_00_preamble.md#material-stake).
+Los límites anteriores dependen de qué se considera daño. El Capítulo Cinco trata conjuntamente estos seis conceptos como el [grupo de Daño](core_05_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying):
 
-Cuando los límites de libertad colisionen con otros valores o derechos constitucionales, aplique [§6.1 Principios centrales de compensación](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) a través del [§6.1.5 Procedimiento de colisión de derechos](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) después de que la **Seguridad** y la **Verdad** estén satisfechas.
+- [**Daño**](core_05_band_accountability.md#harm): empeoramiento material de la vida, la agencia, el funcionamiento o la salud psicológica de alguien. La ofensa, la incomodidad o el desacuerdo por sí solos no son daño.
+- [**Daño psicológico**](core_05_band_accountability.md#psychological-harm): lesión grave en la manera de pensar, sentir, relacionarse o ejercer la agencia. La incomodidad ordinaria no basta.
+- [**Daño irreversible**](core_05_band_accountability.md#irreversible-harm): daño que no puede repararse de manera significativa dentro del plazo pertinente.
+- [**Crueldad**](core_05_band_accountability.md#cruelty): hacer sufrir a alguien deliberadamente o infligir sufrimiento innecesario o degradante por encima de lo que permiten la necesidad y la proporcionalidad.
+- [**Acoso e intimidación**](core_05_band_accountability.md#harassment-and-bullying): actos o condiciones no deseados que, por repetición, coordinación, poder o gravedad, vuelven un entorno inseguro, degradante o difícil para participar.
+- [**Límite del daño colectivo**](core_05_band_accountability.md#collective-harm-boundary): el punto en que la libertad de acción de una parte debe ceder porque causa un daño verificable a intereses protegidos de otros o a condiciones compartidas de las que todos dependen.
 
-#### 5.2 Interrupción voluntaria y derechos de salida
+Estos conceptos deben leerse en conjunto. Cuando un asunto pertenezca a este grupo, no se puede dividir en preguntas separadas para evitar o minimizar cualquiera de ellos.
+
+La libertad solo puede limitarse como último recurso. Si una alternativa menos restrictiva aún evitaría el daño material o el riesgo sistémico, debe utilizarse. Toda limitación debe cumplir estas condiciones:
+
+- **Necesaria:** ninguna alternativa menos restrictiva evitaría el daño o el riesgo. Es la prueba de [Necesidad](core_05_band_accountability.md#necessity) del Capítulo Cinco.
+- **Demostrada:** quien afirme que la limitación es inevitable debe demostrarlo conforme a las reglas de carga y trazabilidad del Capítulo Cuatro. La conveniencia, el costo por sí solo, los obstáculos creados por el operador y la costumbre no son pruebas.
+- **Compatible con las definiciones:** la afirmación debe ajustarse a las definiciones del Capítulo Cinco de Viabilidad, Necesidad, Proporcionalidad y Minimización del daño (selección de compensaciones).
+- **Supervisada:** toda limitación permanece sujeta a [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional); cuanto más esté en juego, más estrecha debe ser la supervisión ([interés material](core_00_preamble.md#material-stake)).
+
+Si limitar la libertad entra en conflicto con otros valores o derechos constitucionales, primero hay que verificar que se satisfagan la **Seguridad** y la **Verdad**. Después, se sigue el [§13.1 Principios básicos para resolver compensaciones](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) hasta el [§13.1.5 Procedimiento para conflictos entre derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+
+#### 7.2 Asamblea, organización colectiva y formación institucional
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-*Hogar de definición.* La [Interrupción voluntaria](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional) del Capítulo Cinco es una Definición independiente en el §1. Leer con el Capítulo Cinco §2 _Agencia, consentimiento y anticoerción_.
+*Fuente de las definiciones.* El Capítulo Cinco [§3.5 Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation) es la fuente principal de este grupo de definiciones. Léase junto con **Article XI-D** (*Asamblea, disidencia y protesta pacífica*) (asamblea), **Article III-C** (*Piso laboral y económico*) (organización colectiva dentro del piso laboral y económico) y [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) (la vía procesal para la administración constitucional iniciada por sentientes y comunidades).
 
-- [Interrupción voluntaria](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional) · [O](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional) · [M](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](../../core_05_band_continuity.md#voluntary-discontinuation-constitutional-c)
-- [Consentimiento](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [M](../../core_05_band_participation.md#consent-constitutional-a) · [A](../../core_05_band_participation.md#consent-constitutional-a) · [C](../../core_05_band_participation.md#consent-constitutional-c)
-- [Coerción y manipulación](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Dependencia](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [Assembly](core_05_band_participation.md#assembly) · [O](core_05_band_participation.md#assembly) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
+- [Collective Organization](core_05_band_participation.md#collective-organization) · [O](core_05_band_participation.md#collective-organization) · [M](core_05_band_participation.md#collective-organization-constitutional-a) · [A](core_05_band_participation.md#collective-organization-constitutional-a) · [C](core_05_band_participation.md#collective-organization-constitutional-c)
+- [System Creation](core_05_band_participation.md#system-creation) · [O](core_05_band_participation.md#system-creation) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
+- [Business Creation](core_05_band_participation.md#business-creation) · [O](core_05_band_participation.md#business-creation) · [M](core_05_band_participation.md#business-creation-constitutional-a) · [A](core_05_band_participation.md#business-creation-constitutional-a) · [C](core_05_band_participation.md#business-creation-constitutional-c)
 
 </details>
 
 <br>
 
-<a id="52-voluntary-discontinuation-and-exit-rights"></a>
+<a id="72-assembly-collective-organization-and-institutional-formation"></a>
 
-*En términos sencillos: las elecciones que cambian la vida o que son difíciles de revertir no son «voluntarias» solo porque alguien firmó un formulario. Primero va la agencia real; el consentimiento es el acuerdo bajo esa agencia — y ambos fallan si la coerción o la presión de dependencia están tomando de hecho la decisión.*
+*En términos sencillos: no se pueden separar las cuestiones de asamblea, organización sindical, acceso a plataformas o permiso de operación en compartimentos distintos de modo que el papeleo parezca correcto, pero se frene la acción colectiva real. Esta sección no reemplaza el Piso de Derechos: **Article XI-D** (*Asamblea, disidencia y protesta pacífica*) sigue rigiendo la asamblea, y **Article III-C** (*Piso laboral y económico*) sigue rigiendo la organización laboral.*
 
-Un asunto de alto enjuego sobre la dirección de la vida no puede tratarse como voluntario mediante asentimiento formal donde fallen las condiciones sustantivas de agencia, consentimiento o anticoerción. El consentimiento aquí presupone [Agencia significativa](../../core_05_band_participation.md#meaningful-agency); no la reemplaza.
+**Dónde están las reglas completas.** El Capítulo Cinco agrupa definiciones relacionadas que deben leerse conjuntamente cuando las cuestiones que abarcan están vinculadas. Ese agrupamiento es un **grupo de definiciones**. No es un derecho independiente ni sustituye a los artículos del Capítulo Seis que siguen. Las definiciones de este tema están en [Chapter Five — Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation):
+- [Assembly](core_05_band_participation.md#assembly)
+- [Collective Organization](core_05_band_participation.md#collective-organization)
+- [System Creation](core_05_band_participation.md#system-creation)
+- [Business Creation](core_05_band_participation.md#business-creation)
 
-**Alcance de admisión.** Esta subsección se aplica a:
-- la interrupción voluntaria
-- los cambios autodirigidos irreversibles o prácticamente irreversibles
-- las decisiones ricas en dependencia que afectan de forma material a la existencia continuada o a la agencia esencial
-- las decisiones comparables donde la voluntariedad depende de poner a prueba de forma conjunta el consentimiento, la autodeterminación, la coerción/manipulación, la información, la presión de dependencia y la reversibilidad
+Las reglas de lectura propias del grupo están allí. **§7.2** (*Asamblea, organización colectiva y formación institucional*) aplica el [Principio contra la segmentación](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) a este tema; no repite los mecanismos del Capítulo Cinco.
 
-**Sin importación del consentimiento ordinario.** Fuera de ese alcance de admisión, estas definiciones del Capítulo Cinco siguen siendo reutilizables:
-- *Consentimiento* (§2)
-- *Autodeterminación*
-- *Coerción y manipulación* (§2)
+**Qué artículos de derechos siguen rigiendo.** **§7.2** (*Asamblea, organización colectiva y formación institucional*) es un principio del Capítulo Uno. No reemplaza el Piso de Derechos del Capítulo Seis. Dentro de **§7.2**, esos artículos siguen determinando cuál es el derecho y cómo puede limitarse:
+- **[Article XI-D](core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Asamblea, disidencia y protesta pacífica*)** — reunirse, asociarse y actuar en conjunto en espacios físicos, digitales o de cómputo compartido para expresarse y con fines políticos, culturales, comunitarios y similares
+- **[Article III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*)** — organización colectiva en actividades productivas y económicas (sindicatos, cooperativas, gremios, consejos de trabajadores y formas comparables que ayudan a establecer las condiciones laborales)
+- **[Article XI-E](core_06_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Formación institucional y creación de empresas*)** — [System Creation](core_05_band_participation.md#system-creation) (formar y administrar instituciones no comerciales) y [Business Creation](core_05_band_participation.md#business-creation) (formar y administrar empresas comerciales)
+- **[Article X-C](core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Derechos de función y participación de las partes interesadas*)** y **[Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Participación, representación y debido proceso de las partes interesadas en el sistema*)** — derechos de las partes interesadas cuando una institución o empresa creada afecta materialmente a otras personas
 
-Esta subsección **no** importa la disciplina de interrupción voluntaria a estos contextos:
-- consentimiento ordinario
-- privacidad
-- asociación
-- publicación
-- datos de entrenamiento
-- consentimiento sexual
-- servicio comercial
+**Cuándo se aplica el grupo completo de definiciones.** La regla contra la segmentación se aplica cuando [Assembly](core_05_band_participation.md#assembly), [Collective Organization](core_05_band_participation.md#collective-organization), [System Creation](core_05_band_participation.md#system-creation) o [Business Creation](core_05_band_participation.md#business-creation) es relevante de un modo que hace que esas cuestiones estén vinculadas.
 
-Las evaluaciones del sistema entero deben poner a prueba estas condiciones bajo [Capítulo Siete §3.4 Interrupción voluntaria y derechos de salida](../../core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-and-exit-rights) antes de que se sostengan pretensiones de clasificación, gobernanza, limitación o cumplimiento donde aplique el alcance de admisión.
+**Cuándo se aplican reglas más sencillas.** Si el asunto concierne solo a una de esas cuestiones —por ejemplo, una reunión cívica ordinaria sin interés en la organización laboral o la formación de una institución—:
 
-#### 5.3 Asamblea, organización colectiva y formación institucional
+- Use [Assembly](core_05_band_participation.md#assembly) o [Collective Organization](core_05_band_participation.md#collective-organization) como definición auxiliar ordinaria.
+- No incluya [System Creation](core_05_band_participation.md#system-creation), [Business Creation](core_05_band_participation.md#business-creation) ni el resto de este grupo de definiciones.
+- No aplique el conjunto de reglas contra la segmentación de **§7.2** solo porque aparezca uno de esos términos.
+
+**Alcance y límites de esta sección:**
+
+- **Lo que no cambia:** **§7.2** aplica el [Principio contra la segmentación](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) a este tema y solo añade la referencia a [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization). No crea, amplía ni restringe ninguna disposición del Piso de Derechos del Capítulo Seis.
+- **Compartimentos:** enfoques de asociación cívica, organización laboral, acceso a plataformas y autorización. Separarlos incumple las reglas cuando se conserva el acceso formal pero se frena la protección de la asamblea o la organización colectiva.
+- **Evaluaciones de todo el sistema:** cuando se aplique el grupo completo de definiciones, se debe comprobar la regla contra la segmentación según [Chapter Eight §3.4 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#34-assembly-collective-organization-and-institutional-formation) antes de aceptar afirmaciones sobre clasificación, gobernanza o cumplimiento.
+
+##### 7.2.1 Autoorganización alineada
+<a id="721-aligned-self-organization"></a>
+
+*En términos sencillos: se puede iniciar un trabajo legítimo sin un patrocinador, y las instituciones deben ofrecer una vía procesal real a un trabajo creíble; pero esa vía no otorga poder para gobernar a otras personas ni constituye una decisión final sobre el fondo.*
+
+La libertad de reunirse o crear un sistema incluye una forma real de iniciar un trabajo que esta Constitución considera legítimo, sin esperar a que lo patrocinen los administradores que ya están a cargo. [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) es la fuente operativa. Esta subsección aplica esa regla en el plano de la Libertad y la asamblea y formación.
+
+Cuando ese trabajo sea creíble y materialmente pertinente, las instituciones deben ofrecerle una vía procesal real:
+- recibirlo;
+- conservarlo cuando corresponda;
+- remitirlo al cauce adecuado;
+- responder con fundamentos; y
+- someterlo a revisión por alguien independiente de quienes estén siendo examinados por sus acciones.
+
+Esa vía no concede poder. Iniciar, realizar, financiar, publicar o presentar el trabajo no:
+- otorga por sí mismo a nadie el poder de gobernar a otras personas, hacer cumplir medidas contra ellas o coaccionarlas;
+- obliga a los sentientes que no aceptaron un resultado sustantivo;
+- decide la legitimación, la responsabilidad, el derecho, la validez, un mandato, un recurso, una clasificación o una restricción de derechos; ni
+- cuenta como una [Merits Determination](core_05_band_accountability.md#merits-determination): una decisión vinculante sobre el fondo de la disputa.
+
+Que un trabajo sea recibido, remitido o contestado no implica aprobar las conclusiones de sus autores. Todo efecto de gobierno o sobre el fondo requiere la autoridad legal, las pruebas, el proceso justo, la revisión y el recurso independientes que asigna esta Constitución. La regla completa que prohíbe la autoatribución de cargos está en [§17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization).
+
+#### 7.3 Disidencia y protesta pacífica
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-*Hogar de definición.* El [§3.5 Asamblea, organización colectiva y formación institucional](../../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster) del Capítulo Cinco es el hogar de este grupo de definiciones. Leer con el **Artículo V-H** (*Expresión, asamblea y prensa*) (asamblea), el **Artículo III-D** (*Piso laboral y económico*) (organización colectiva dentro del piso laboral y económico) y [§9.5 Autoorganización alineada](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) (la vía procedimental para la administración responsable constitucional iniciada por sencientes y por comunidades).
+*Fuente del Piso de Derechos.* **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Asamblea, disidencia y protesta pacífica*)** establece el piso operativo sobre disidencia, protesta pacífica y desobediencia civil. Esta subsección expresa el principio de Libertad que aplica.
 
-- [Asamblea](../../core_05_band_participation.md#assembly-constitutional) · [O](../../core_05_band_participation.md#assembly-constitutional) · [M](../../core_05_band_participation.md#assembly-constitutional-a) · [A](../../core_05_band_participation.md#assembly-constitutional-a) · [C](../../core_05_band_participation.md#assembly-constitutional-c)
-- [Organización colectiva](../../core_05_band_participation.md#collective-organization-constitutional) · [O](../../core_05_band_participation.md#collective-organization-constitutional) · [M](../../core_05_band_participation.md#collective-organization-constitutional-a) · [A](../../core_05_band_participation.md#collective-organization-constitutional-a) · [C](../../core_05_band_participation.md#collective-organization-constitutional-c)
-- [Creación de sistemas](../../core_05_band_participation.md#system-creation-constitutional) · [O](../../core_05_band_participation.md#system-creation-constitutional) · [M](../../core_05_band_participation.md#system-creation-constitutional-a) · [A](../../core_05_band_participation.md#system-creation-constitutional-a) · [C](../../core_05_band_participation.md#system-creation-constitutional-c)
-- [Creación de empresas](../../core_05_band_participation.md#business-creation-constitutional) · [O](../../core_05_band_participation.md#business-creation-constitutional) · [M](../../core_05_band_participation.md#business-creation-constitutional-a) · [A](../../core_05_band_participation.md#business-creation-constitutional-a) · [C](../../core_05_band_participation.md#business-creation-constitutional-c)
+- [Freedom (Bounded Agency)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
+- [Meaningful Agency](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Assembly](core_05_band_participation.md#assembly) · [O](core_05_band_participation.md#assembly) · [M](core_05_band_participation.md#assembly-constitutional-a) · [A](core_05_band_participation.md#assembly-constitutional-a) · [C](core_05_band_participation.md#assembly-constitutional-c)
+- [Necessity](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proportionality](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-<a id="53-assembly-collective-organization-and-institutional-formation"></a>
+<a id="73-dissent-and-peaceful-protest"></a>
 
-*En términos sencillos: no se puede trocear la asamblea, la organización de tipo sindical, el acceso a plataformas o las preguntas de permiso para operar en cajas separadas de un modo que deje el papeleo amistoso pero derrote la acción colectiva real. Esta sección no reemplaza el Piso de Derechos: el Artículo V-H sigue siendo dueño de la asamblea, y el Artículo III-D sigue siendo dueño de la organización laboral.*
+*En términos sencillos: la libertad incluye poder decir que no: discrepar de cualquier autoridad, incluida esta Constitución, y protestar pacíficamente para cambiarla. Un sistema que castiga el desacuerdo deja de estar abierto a impugnación, y un sistema que no puede impugnarse no puede corregirse.*
 
-**Dónde viven las reglas completas.** El Capítulo Cinco agrupa definiciones relacionadas que deben leerse juntas cuando las preguntas que cubren viajan juntas. Ese agrupamiento es un **clúster de definiciones**. No es un derecho aparte, y no es un sustituto de los artículos del Capítulo Seis de abajo. Las definiciones de este tema viven en [Capítulo Cinco — Asamblea, organización colectiva y formación institucional](../../core_05_band_participation.md#assembly-collective-organization-institutional-formation-cluster):
-- [Asamblea](../../core_05_band_participation.md#assembly-constitutional)
-- [Organización colectiva](../../core_05_band_participation.md#collective-organization-constitutional)
-- [Creación de sistemas](../../core_05_band_participation.md#system-creation-constitutional)
-- [Creación de empresas](../../core_05_band_participation.md#business-creation-constitutional)
+**La disidencia forma parte de la libertad.** [Meaningful Agency](core_05_band_participation.md#meaningful-agency) incluye la capacidad de discrepar, objetar y organizarse contra las decisiones, instituciones y sistemas que determinan la vida de un sentiente. Una agencia limitada que no pudiera llegar a los sistemas que la limitan carecería de sentido.
 
-Las reglas de lectura propias del clúster viven allí. El **§5.3** aplica el principio de antisegmentación en el Capítulo Uno; no reenuncia esa mecánica del Capítulo Cinco.
+**La disidencia mantiene los sistemas abiertos a impugnación.** El objetivo de [**Continuidad**](core_00_preamble.md#continuity) depende de sistemas constitucionales que sigan abiertos a impugnación. La disidencia y la protesta pacífica permiten que la impugnación llegue a la autoridad desde fuera del proceso formal y hacen visibles errores que ese proceso no detectó. Contribuyen a los aspectos de **participación** y **supervisión** de la [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad).
 
-**Qué artículos de derechos siguen controlando.** El **§5.3** es un principio del Capítulo Uno. No reemplaza el Piso de Derechos del Capítulo Seis. Dentro del **§5.3**, esos artículos siguen decidiendo qué es el derecho y cómo puede limitarse:
-- **[Artículo V-H](../../core_06_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest)** (*Expresión, asamblea y prensa*) — reunirse, asociarse y actuar juntos en espacios físicos, digitales o de cómputo compartido para expresión, política, cultura, comunidad y finalidades similares
-- **[Artículo III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor)** (*Piso laboral y económico*) — organización colectiva en la actividad productiva y económica (sindicatos, cooperativas, gremios, consejos de trabajadores y formas comparables usadas para dar forma a los términos del trabajo), y [Creación de empresas](../../core_05_band_participation.md#business-creation-constitutional)
-- **[Artículo X-B](../../core_06_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights)** (*Derechos de rol y participación de las partes afectadas*) y **[Artículo XII](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)** (*Participación Sistémica de las Partes Afectadas, representación y Debido Proceso*) — [Creación de sistemas](../../core_05_band_participation.md#system-creation-constitutional) (formar y operar instituciones no comerciales)
+**La disidencia no es subversión.** Discrepar de esta Constitución o de la autoridad que actúa en virtud de ella, y promover por medios pacíficos y legales su reforma o un cambio de quién ejerce la autoridad, es ejercer la libertad. No es la [subversión](core_05_band_accountability.md#subversion) de los sistemas constitucionales excluida de la protección de la agencia en [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency). La subversión requiere fuerza, coacción, usurpación o hacer que el proceso o los recursos constitucionales sean impracticables.
 
-**Cuándo se aplica el clúster completo de definiciones.** La regla de antisegmentación se aplica cuando la [Asamblea](../../core_05_band_participation.md#assembly-constitutional), la [Organización colectiva](../../core_05_band_participation.md#collective-organization-constitutional), la [Creación de sistemas](../../core_05_band_participation.md#system-creation-constitutional) o la [Creación de empresas](../../core_05_band_participation.md#business-creation-constitutional) es material de un modo en que esas preguntas viajan juntas.
+**Los límites a la disidencia deben seguir la disciplina de limitación.** La disidencia y la protesta pacífica solo pueden limitarse conforme a [§7.1 Limitation Discipline](#71-limitation-discipline).
+- El desacuerdo, la interrupción, la inconveniencia, la ofensa, la impopularidad o la presión sobre la autoridad no constituyen por sí solos **daño material** ni **riesgo sistémico**.
+- Los límites no deben depender del punto de vista, y quien limite la disidencia soporta la carga conforme al **Capítulo Cuatro**.
 
-**Cuándo se aplican reglas más ligeras.** Si el asunto es solo una de esas preguntas — por ejemplo, una reunión cívica ordinaria sin enjuego de organización laboral o de formación institucional — use [Asamblea](../../core_05_band_participation.md#assembly-constitutional) u [Organización colectiva](../../core_05_band_participation.md#collective-organization-constitutional) como definición de apoyo ordinaria. No arrastre la [Creación de sistemas](../../core_05_band_participation.md#system-creation-constitutional), la [Creación de empresas](../../core_05_band_participation.md#business-creation-constitutional) ni el resto de este clúster de definiciones, y no aplique el paquete de antisegmentación del **§5.3**, solo porque aparezca uno de esos términos. El uso de una sola definición no es una licencia para resegmentar un asunto cubierto de forma conjunta.
+**Ejercer la libertad no debe costar legitimación ni voz.** El ejercicio de esta libertad por un sentiente no debe ser motivo para reducir su legitimación, restringir su elegibilidad para funciones, disminuir su voz en la gobernanza ni perjudicar la certificación de alineación de un sistema. Las reglas operativas, incluida la regla sobre desobediencia civil y la carga aplicable a las medidas adversas posteriores a la disidencia, están en **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Asamblea, disidencia y protesta pacífica*)**.
 
-**Qué no cambia esta sección.** El **§5.3** añade solo disciplina de antisegmentación de capa de principio y el puntero de [§5.3.1 Autoorganización alineada](#531-aligned-self-organization). **No** crea, extiende ni estrecha ninguna disposición del Piso de Derechos del Capítulo Seis.
+Al evaluar un sistema completo, se debe comprobar cómo trata la disidencia y la protesta pacífica conforme a [Chapter Eight §3.4.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest). Hasta realizar esa comprobación, nadie puede afirmar que el sistema está correctamente clasificado, bien gobernado o en cumplimiento cuando esta sección resulte aplicable.
 
-Un asunto dentro de ese alcance de lectura conjunta no debe segmentarse en encuadres separados de asociación cívica, organización laboral, acceso a plataformas o autorización de un modo que preserve el acceso formal mientras derrota la protección de asamblea o de organización colectiva.
+**Lo que esta sección no cambia:**
 
-Las evaluaciones del sistema entero deben poner a prueba la antisegmentación bajo [Capítulo Siete §3.5 Asamblea, organización colectiva y formación institucional](../../core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) antes de que se sostengan pretensiones de clasificación, gobernanza o cumplimiento donde se aplique el clúster completo de definiciones.
+- **§7.3** (*Disidencia y protesta pacífica*) establece el principio de Libertad que fundamenta el piso del Capítulo Seis.
+- No restringe **Article XI-D** (*Asamblea, disidencia y protesta pacífica*).
+- No protege conductas separables que infrinjan de forma independiente la Seguridad o los mínimos del Piso de Derechos de otro sentiente.
 
-##### 5.3.1 Autoorganización alineada
-<a id="531-aligned-self-organization"></a>
+#### 7.4 Cese voluntario, automodificación importante y derechos de salida
 
-*En términos sencillos: se puede iniciar trabajo legítimo sin un patrocinador, y las instituciones deben dar al trabajo creíble una vía procedimental real — pero esa vía no es poder para gobernar a otros, y no es una decisión final sobre el fondo.*
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
 
-La libertad de reunirse o de crear un sistema incluye un modo real de iniciar trabajo que esta Constitución trata como legítimo, sin esperar a que quienes ya están a cargo lo patrocinen. El [§9.5 Autoorganización alineada](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization) es el hogar operativo. Esta subsección aplica esa regla en la capa de Libertad / asamblea-y-formación.
+*Fuente de las definiciones.* [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation) del Capítulo Cinco es una definición independiente en §1. Léase junto con el Capítulo Cinco §2 _Agencia, consentimiento y protección contra la coacción_.
 
-Cuando ese trabajo es creíble y materialmente pertinente, las instituciones deben darle una vía procedimental real:
-- recibirlo
-- preservarlo donde corresponda
-- enrutarlo
-- dar una respuesta razonada
-- hacerlo revisar por alguien independiente de aquellos cuyas acciones se examinan
+- [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation) · [O](core_05_band_continuity.md#voluntary-discontinuation) · [M](core_05_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](core_05_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](core_05_band_continuity.md#voluntary-discontinuation-constitutional-c)
+- [Consent](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+- [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation) · [O](core_05_band_participation.md#coercion-and-manipulation) · [M](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Dependency](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
-Esa vía no es una concesión de poder. Iniciar, operar, financiar, publicar o presentar el trabajo no, por sí solo:
-- da a nadie el poder de gobernar a otros, ejecutar contra ellos o coaccionarlos
-- vincula a quienes no acordaron un resultado sustantivo
-- decide la trayectoria, la responsabilidad, el derecho, la validez, un mandato, un remedio, una clasificación o una restricción de derechos
-- cuenta como una [Determinación de fondo](../../core_05_band_accountability.md#merits-determination) — una decisión vinculante sobre el fondo de la controversia
+</details>
 
-Ser recibido, enrutado o respondido no es aprobación de las conclusiones de los autores. Cualquier efecto de gobierno o de fondo exige la autoridad lícita, la evidencia, el proceso justo, la revisión y el remedio separados que esta Constitución asigna. La regla completa de no autonombramiento vive en [§9.5 Autoorganización alineada](core_01_c_stewardship_capacity_principles.md#95-aligned-self-organization).
+<br>
+
+<a id="74-voluntary-discontinuation-and-exit-rights"></a>
+
+*En términos sencillos: las decisiones que cambian la vida o son difíciles de revertir no son “voluntarias” solo porque alguien firmó un formulario. Primero debe haber agencia real; el consentimiento es aceptar bajo esa agencia, y ambos fallan si en realidad deciden la coacción o la presión por dependencia.*
+
+Un asunto de alto impacto que determina el rumbo de una vida no puede considerarse voluntario por una aceptación formal si no se cumplen las condiciones sustantivas de agencia, consentimiento o protección contra la coacción. El consentimiento aquí presupone [Meaningful Agency](core_05_band_participation.md#meaningful-agency); no la reemplaza.
+
+**Ámbito de aplicación.** Esta subsección se aplica a:
+- el cese voluntario;
+- cambios autodirigidos irreversibles o prácticamente irreversibles, incluida la automodificación importante;
+- decisiones con alto grado de dependencia que afecten materialmente la existencia continuada o la agencia esencial; y
+- decisiones comparables cuya voluntariedad dependa de evaluar conjuntamente consentimiento, autodeterminación, coacción o manipulación, información, presión por dependencia y reversibilidad.
+
+**No se importa el consentimiento ordinario.** Fuera de ese ámbito, se pueden seguir reutilizando estas definiciones del Capítulo Cinco:
+- *Consent* (§3 (*Objetivo fundacional: bienestar*));
+- *Self-Determination*; y
+- *Coercion and Manipulation* (§3 (*Objetivo fundacional: bienestar*)).
+
+Esta subsección **no** aplica la disciplina del cese voluntario a estos contextos:
+- consentimiento ordinario;
+- privacidad;
+- asociación;
+- publicación;
+- datos de entrenamiento;
+- consentimiento sexual; y
+- servicios comerciales.
+
+Cuando se aplique el ámbito de admisión, las evaluaciones de todo el sistema deben comprobar estas condiciones conforme a [Chapter Eight §3.3 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#33-voluntary-discontinuation-major-self-modification-and-exit-rights) antes de aceptar afirmaciones de clasificación, gobernanza, limitación o cumplimiento.
+
+<a id="8-continuity-aim-introduction"></a>
+### 8. Objetivo de Continuidad: introducción
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [Tétrada Constitucional](core_00_preamble.md#constitutional-tetrad): sus cuatro pilares se aplican a la manera de procurar la Continuidad; la [participación material](core_00_preamble.md#material-stake) determina la profundidad de cada afirmación sobre Continuidad.
+- Leer junto con: [Dos Objetivos Constitucionales](core_00_preamble.md#two-constitutional-aims): el objetivo de **Continuidad**; el objetivo asociado se presenta en [Objetivo de Florecimiento: introducción](#2-flourishing-aim-introduction).
+- Fundamentos: Principios: [Preámbulo §1 El Modelo](core_00_preamble.md#continuity); [Continuidad (Objetivo Constitucional)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim); [Objetivo de Florecimiento: introducción](#2-flourishing-aim-introduction).
+- Aplicación posterior: [§9 Capacidad de los Sistemas Compartidos](#9-shared-system-capacity), [§10 Diseño de Resiliencia y Autorreparación](#10-resilience-and-self-healing-design), [§11 Estructura del Mercado](#11-market-structure) y [§12 Requisito de Evaluación Sistémica](#12-systemic-evaluation-requirement); los Artículos que protegen cada principio se indican en la Trazabilidad de esa sección.
+- Leer junto con: el Piso de Derechos del Capítulo Seis en general.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Continuidad (Objetivo Constitucional)](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) · [O](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) · [M](core_05_apex_continuity_aim.md#continuity-aim-constitutional-m) · [A](core_05_apex_continuity_aim.md#continuity-aim-constitutional-a) · [C](core_05_apex_continuity_aim.md#continuity-aim-constitutional-c)
+- [Capacidad de los Sistemas Compartidos](core_05_band_continuity.md#shared-system-capacity) · [O](core_05_band_continuity.md#shared-system-capacity) · [M](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Autorreparación](core_05_band_continuity.md#self-healing) · [O](core_05_band_continuity.md#self-healing) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
+- [Integridad Ecológica](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Responsabilidad Intergeneracional](core_05_band_continuity.md#intergenerational-responsibility) · [O](core_05_band_continuity.md#intergenerational-responsibility) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: Continuidad es el segundo de los dos objetivos: lograr que los buenos resultados perduren, ante los fallos, a través de las generaciones y sin que unos pocos actores poderosos se apropien de ellos. Comienza con la Capacidad de los Sistemas Compartidos, que sirve al Florecimiento y también constituye la sustancia de la Continuidad.*
+
+[**Continuidad**](core_05_apex_continuity_aim.md#chapter-five-definitions-continuity-constitutional-aim) es **estabilidad a largo plazo, sostenibilidad, resiliencia y bienestar ecológico** ([Preámbulo §1 El Modelo](core_00_preamble.md#continuity)). El Capítulo Uno la desarrolla mediante cuatro principios; el primero sirve de puente desde el [Florecimiento](#2-flourishing-aim-introduction).
+
+| Principio | Pregunta que responde |
+|---|---|
+| [§9 Capacidad de los Sistemas Compartidos](#9-shared-system-capacity) | ¿Conservan los seres sintientes y los sistemas compartidos la capacidad duradera de realizar el trabajo que exige la Constitución? |
+| [§10 Diseño de Resiliencia y Autorreparación](#10-resilience-and-self-healing-design) | ¿Detectan los sistemas los problemas a tiempo, los contienen y se recuperan con honestidad? |
+| [§11 Estructura del Mercado](#11-market-structure) | ¿Pueden los seres sintientes seguir entrando en los mercados, compitiendo, cuestionando a los actores poderosos y cambiando de proveedor, o la concentración en manos de unos pocos ha cerrado esas puertas y agotado la capacidad del sistema? |
+| [§12 Requisito de Evaluación Sistémica](#12-systemic-evaluation-requirement) | Antes de afirmar que un sistema cumple las normas, es seguro o está bien gobernado, ¿se ha examinado el sistema entero, incluidas sus dependencias e incentivos, y no solo una parte en un momento dado? |
+
+**Cómo se complementan los principios de Continuidad:**
+- **La Continuidad parte de una visión honesta:** Toda afirmación sobre Continuidad, ya trate de capacidad, resiliencia o estructura del mercado, se basa en lo que el sistema entero hace realmente con el tiempo, no en un eslogan ni en una instantánea. [§12 Requisito de Evaluación Sistémica](#12-systemic-evaluation-requirement) establece ese criterio, que se aplica a todas las afirmaciones de [§§9–11](#9-shared-system-capacity). Se apoya en la restricción de Verdad de [§2.1](#21-non-negotiable-principle-constraints-safety-and-truth) y [§5](#5-truth-epistemic-integrity-constraint).
+- **La capacidad abarca ambos objetivos:** [§9 Capacidad de los Sistemas Compartidos](#9-shared-system-capacity) es un medio para el Florecimiento y la sustancia de la Continuidad; no prevalece sobre la seguridad, la verdad, los derechos ni la ecología.
+- **La resiliencia y la estructura del mercado protegen la capacidad:** la resiliencia la mantiene duradera; la estructura del mercado permite impugnarla.
+- **La evaluación sistémica examina el conjunto:** [§12 Requisito de Evaluación Sistémica](#12-systemic-evaluation-requirement) verifica el alcance, las dependencias y la alineación de incentivos antes de aceptar afirmaciones de cumplimiento. Está al final porque verifica lo descrito en §§9–11 y rige la manera de formular toda afirmación sobre Continuidad.
+- **La Continuidad no debe frustrar silenciosamente el Florecimiento:** Cuando los dos objetivos entran en conflicto, se ponderan conforme al [§13 Proceso de Resolución de Conflictos Constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+
+**Diagrama: Continuidad y sus principios**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    C["Objetivo de Continuidad<br/><br/>• Estabilidad, sostenibilidad y resiliencia a largo plazo,<br/>y bienestar ecológico<br/>• Siempre limitado por el Piso de Derechos"]
+    CAP["§9 Capacidad de los Sistemas Compartidos<br/><br/>• §9.1 Capacidad Productiva (Bien Instrumental)<br/>• §9.2 Eficiencia Constitucional<br/>• Abarca ambos objetivos"]
+    FL["Objetivo de Florecimiento<br/><br/>• §§3 a 7"]
+    RES["§10 Diseño de Resiliencia y Autorreparación<br/><br/>• Detectar, contener, fallar con seguridad y recuperarse con honestidad"]
+    MKT["§11 Estructura del Mercado<br/><br/>• §11.1 Mecanismo de Umbral de Concentración del Mercado<br/>• §11.2 Competencia y Lucha contra la Dominación<br/>• §11.3 Límite a la Consolidación<br/>• §11.4 Concentración de Recursos y Dependencias"]
+    EV["§12 Requisito de Evaluación Sistémica<br/><br/>• Alcance de todo el sistema, dependencias<br/>y alineación de incentivos"]
+    C -->|"comienza con"| CAP
+    GL["&nbsp;"]
+    GE["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    GF[" "]
+    CAP ~~~ GL
+    GL ~~~ GE
+    GE ~~~ GF
+    GE ~~~ FL
+    CAP -->|"se mantiene duradera mediante"| RES
+    CAP -->|"se mantiene impugnable mediante"| MKT
+    RES -->|"se verifica en su conjunto mediante"| EV
+    MKT -->|"se verifica en su conjunto mediante"| EV
+    EV -->|"confirma que todo el sistema sirve al"| FL
+    CAP -.->|"es un medio para"| FL
+    style C fill:none,stroke:#16a34a,color:#ffffff
+    style CAP fill:none,stroke:#9333ea,color:#ffffff
+    style FL fill:none,stroke:#16a34a,color:#ffffff
+    style RES fill:none,stroke:#64748b,color:#ffffff
+    style MKT fill:none,stroke:#0f766e,color:#ffffff
+    style EV fill:none,stroke:#ea580c,color:#ffffff
+    style GL fill:none,stroke:none,color:#111111
+    style GE fill:none,stroke:none,color:#111111
+    style GF fill:none,stroke:none,color:#111111
+```
+
+*La Continuidad comienza con la capacidad que sirve de puente al Florecimiento, la mantiene duradera mediante la resiliencia e impugnable mediante la estructura del mercado, y la verifica como un todo. Los colores son claves visuales reutilizables, no afirmaciones de prioridad. La Trazabilidad de cada principio identifica sus Artículos, y su panel de Definiciones · Evaluación · Cumplimiento identifica sus definiciones. Reproducido en la [Visión Conceptual](guides/CONCEPTUAL_OVERVIEW.md#continuity-and-its-principles).*
+
+<a id="9-shared-system-capacity"></a>
+### 9. Capacidad de los Sistemas Compartidos
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [Dos Objetivos Constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Continuidad** (integridad ecológica, responsabilidad intergeneracional y capacidad duradera de los sistemas compartidos); objetivo de **Florecimiento** (la capacidad es un medio para alcanzarlo). Esta sección abarca ambos.
+- Fundamentos: Principios: [Preámbulo §1 El Modelo](core_00_preamble.md#the-model); [Dos Objetivos Constitucionales](core_00_preamble.md#two-constitutional-aims), desarrollo del objetivo de **Continuidad**; [3. Objetivo Fundamental: Bienestar](#3-foundational-objective-wellbeing-flourishing-aim), [§6 Confianza y Fiabilidad](#6-trust-and-trustworthiness-coordination-integrity) y [§7 Libertad](#7-freedom-bounded-agency).
+- Aplicación posterior: [§13.3 Minimización de Cargas Evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [18. Gobernanza bajo Disciplina de Custodia](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) y [§19.1.3 Aplicación por Responsables de Custodia y Operadores](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application).
+- Aplicación posterior: **CJS-3.11.1 — Disciplina para fijar umbrales de concentración (ajustable por quien adopta)** (reglas operativas para fijar umbrales).
+- Aplicación posterior: Da forma al ámbito de derechos relativo a las condiciones ecológicas previas, la asignación de recursos, la capacidad educativa y de desarrollo, la resiliencia durante el ciclo de vida, la interoperabilidad, la comprensibilidad y la respuesta adaptativa; en particular, [Artículo I-A: Condiciones Ambientales Previas e Integridad Ecológica](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [Artículo III: Supervivencia y Acceso Esencial](core_06_rights_part_a.md#article-iii-survival-and-essential-access), [Artículo V: Asignación de Recursos, Dependencias y Financiación del Ecosistema](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [Artículo X: Autodeterminación, Agencia y Participación](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [Artículo XVII: Ciclo de Vida del Sistema, Entornos y Reversibilidad](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [Artículo XXI: Interoperabilidad, Portabilidad, Movimiento, Refugio e Integridad de Salida](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity), [Artículo XXII: Comprensibilidad y Gestión Responsable de la Complejidad](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) y [Artículo XXIII: Análisis de Causas Raíz y Respuesta Adaptativa](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response).
+- Subsecciones (orden de lectura): [§9.1 Capacidad Productiva (Bien Instrumental)](#91-productive-capacity-instrumental-good) · [§9.1.1 Preservar, Ampliar y lo que No Cuenta](#911-preserve-expand-and-what-does-not-count) · [§9.2 Eficiencia Constitucional](#92-constitutional-efficiency).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Capacidad de los Sistemas Compartidos](core_05_band_continuity.md#shared-system-capacity) · [O](core_05_band_continuity.md#shared-system-capacity) · [M](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Capacidad Productiva](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Eficiencia Constitucional](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [Bienestar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [Dignidad e Igual Consideración Moral](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Agencia Significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Viabilidad](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Carga Evitable](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Divergencia de Indicadores Sustitutivos](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [Integridad Ecológica](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Condiciones Ambientales Previas](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Responsabilidad Intergeneracional](core_05_band_continuity.md#intergenerational-responsibility) · [O](core_05_band_continuity.md#intergenerational-responsibility) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: los sistemas compartidos deben seguir funcionando para los seres sintientes a largo plazo. Estos deben poder realizar trabajo útil, mejorar la vida con el tiempo y señalar los problemas, sin que unos pocos actores poderosos excluyan a los demás. Esa capacidad duradera es la **Capacidad de los Sistemas Compartidos**. **[§9.1 Capacidad Productiva (Bien Instrumental)](#91-productive-capacity-instrumental-good)** pregunta si los seres sintientes logran resultados reales. **[§9.2 Eficiencia Constitucional](#92-constitutional-efficiency)** pregunta si esos resultados se obtienen sin malgastar el tiempo, el dinero ni la atención de nadie. Nada de esto cuenta si las ganancias proceden de acaparar riqueza o poder, falsear cifras, arrebatar derechos o trasladar el daño a otras personas o al planeta; **[§9.1.1 Preservar, Ampliar y lo que No Cuenta](#911-preserve-expand-and-what-does-not-count)** lo explica. **[§11 Estructura del Mercado](#11-market-structure)** impide que un puñado de actores se apodere del sistema.*
+
+El Florecimiento es la meta: que las vidas de los seres sintientes vayan bien. Esta sección abre la parte del capítulo dedicada a la Continuidad y pregunta qué permite que eso perdure a largo plazo. La respuesta son sistemas compartidos que siguen realizando trabajo real y que los seres sintientes aún pueden cuestionar y contradecir. Las afirmaciones sobre esa capacidad deben ser honestas. Se contrastan con lo que el sistema entero hace realmente a lo largo del tiempo, como exige [§12 Requisito de Evaluación Sistémica](#12-systemic-evaluation-requirement).
+
+La **[Capacidad de los Sistemas Compartidos](core_05_band_continuity.md#shared-system-capacity)** es el resultado que la buena [Custodia](core_05_band_continuity.md#stewardship) y la buena [Gobernanza](core_05_band_accountability.md#governance) deberían producir con el tiempo: la capacidad duradera de los seres sintientes y los sistemas compartidos para hacer lo que exige esta Constitución, sin dejar de estar abiertos a impugnación. Es un **medio** para el objetivo de **Florecimiento** y constituye el núcleo del objetivo de **Continuidad**. Pero nunca justifica anular la seguridad, la verdad, los derechos ni la ecología.
+
+Esta capacidad reúne varios aspectos:
+- **[Capacidad Productiva](core_05_band_continuity.md#productive-capacity)**: ¿pueden los seres sintientes participar, contribuir y lograr resultados reales? ([§9.1 Capacidad Productiva (Bien Instrumental)](#91-productive-capacity-instrumental-good))
+- **[Eficiencia Constitucional](core_05_band_continuity.md#constitutional-efficiency)**: ¿se logran esos resultados sin malgastar el tiempo y la atención de los seres sintientes, ni los materiales, la infraestructura y la energía? ([§9.2 Eficiencia Constitucional](#92-constitutional-efficiency))
+- **Disciplina contra la concentración**: ¿pueden los seres sintientes seguir cuestionando, compitiendo y saliendo? ([§11 Estructura del Mercado](#11-market-structure))
+- **Representación equitativa de las partes interesadas, salida, posibilidad de impugnación y condiciones ecológicas previas**: ¿se representa justamente a las partes afectadas y las condiciones de fondo mantienen real la capacidad, en vez de vaciarla?
+
+**Cómo se evalúa esa capacidad:**
+
+- **Cómo se ve el éxito:**
+  - [Bienestar](core_05_band_continuity.md#wellbeing);
+  - [Dignidad e Igual Consideración Moral](core_05_band_participation.md#dignity-and-equal-moral-standing); y
+  - [Agencia Significativa](core_05_band_participation.md#meaningful-agency).
+- **Qué rige las decisiones difíciles:**
+  - [Viabilidad](core_05_band_accountability.md#feasibility);
+  - [Necesidad](core_05_band_accountability.md#necessity); y
+  - [Proporcionalidad](core_05_band_accountability.md#proportionality).
+- **Qué detecta fricciones inútiles e indicadores deshonestos:**
+  - [Carga Evitable](core_05_band_continuity.md#avoidable-burden); y
+  - [Divergencia de Indicadores Sustitutivos](core_05_band_oversight.md#proxy-divergence).
+- **Qué vincula la capacidad a un mundo habitable a largo plazo:**
+  - [Integridad Ecológica](core_05_band_continuity.md#ecological-integrity);
+  - [Condiciones Ambientales Previas](core_05_band_continuity.md#environmental-preconditions); y
+  - [Responsabilidad Intergeneracional](core_05_band_continuity.md#intergenerational-responsibility).
+
+<a id="91-productive-capacity-instrumental-good"></a>
+#### 9.1 Capacidad productiva (bien instrumental)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [§9 Capacidad del sistema compartido](#9-shared-system-capacity).
+- Subsecciones (orden de lectura): [§9.1.1 Preservar, ampliar y lo que no cuenta](#911-preserve-expand-and-what-does-not-count).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Capacidad productiva](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [Capacidad del sistema compartido](core_05_band_continuity.md#shared-system-capacity) · [O](core_05_band_continuity.md#shared-system-capacity) · [M](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [Bienestar](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [Dignidad e igualdad de condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Divergencia de indicadores indirectos](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [Integridad ecológica](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [Condiciones ambientales previas](core_05_band_continuity.md#environmental-preconditions) · [O](core_05_band_continuity.md#environmental-preconditions) · [M](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](core_05_band_continuity.md#environmental-preconditions-constitutional-c)
+- [Responsabilidad intergeneracional](core_05_band_continuity.md#intergenerational-responsibility) · [O](core_05_band_continuity.md#intergenerational-responsibility) · [M](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: la capacidad productiva es el aspecto de la capacidad del sistema compartido que pregunta «¿podemos realmente hacer las cosas?». ¿Pueden los sintientes participar, aprender, contribuir y convertir esfuerzos y recursos en resultados que mejoren la vida, y conservar esa capacidad con el paso del tiempo? Es una herramienta para vivir mejor. [§9.1.1 Preservar, ampliar y lo que no cuenta](#911-preserve-expand-and-what-does-not-count) explica qué debe preservarse y qué no cuenta.*
+
+La **[Capacidad productiva](core_05_band_continuity.md#productive-capacity)** es un aspecto de la **[Capacidad del sistema compartido](core_05_band_continuity.md#shared-system-capacity)**. Designa la capacidad duradera de los sintientes y los sistemas compartidos para:
+- apoyar la participación, la contribución y el desarrollo de aptitudes reales; y
+- convertir el tiempo, la atención, el esfuerzo, la coordinación, los materiales, la infraestructura y la energía en resultados que esta Constitución exige de verdad.
+
+Es un **bien instrumental**: un medio, no un valor que prevalece sobre todo lo demás. Su función es elevar, sostener y distribuir la calidad de vida bajo el objetivo de **Florecimiento**, de acuerdo con el [Bienestar](#3-foundational-objective-wellbeing-flourishing-aim), la [Dignidad e igualdad de condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing), el Piso de Derechos del Capítulo Seis y los límites ecológicos e intergeneracionales del objetivo de **Continuidad**, conforme a los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims).
+
+<a id="911-preserve-expand-and-what-does-not-count"></a>
+##### 9.1.1 Preservar, ampliar y lo que no cuenta
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [§9.2 Eficiencia constitucional](#92-constitutional-efficiency); [§13 Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [§13.2.4 Invalidación por divergencia de indicadores indirectos](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation); [§14 Prohibición de prevalencia absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [Artículo I-A: Condiciones ambientales previas e integridad ecológica](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
+- Leer junto con: [§4 Seguridad (restricción del daño)](#4-safety-harm-constraint); [§5 Verdad (restricción de integridad epistémica)](#5-truth-epistemic-integrity-constraint); [§6 Confianza](#6-trust-and-trustworthiness-coordination-integrity); [§7 Libertad (agencia delimitada)](#7-freedom-bounded-agency).
+
+</details>
+
+<br>
+
+*En términos sencillos: conserva la capacidad de hacer las cosas y amplíala cuando eso evite perder el tiempo de todos, pero no mediante el acaparamiento, la falsificación de cifras, la eliminación de derechos o el traslado del daño a otras personas o al planeta. Los indicadores que ya no demuestran resultados reales no cuentan.*
+
+Los sistemas deben preservar la capacidad productiva y, cuando sea viable, ampliarla si ello mejora la [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency) ([§9.2 Eficiencia constitucional](#92-constitutional-efficiency)).
+
+**Esta obligación:**
+
+- **Se mantiene dentro de estos límites:**
+  - Seguridad;
+  - Verdad;
+  - Confianza;
+  - Libertad;
+  - el Piso de Derechos del Capítulo Seis, incluido el [Artículo I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Condiciones ambientales previas e integridad ecológica*), que abarca:
+    - [Integridad ecológica](core_05_band_continuity.md#ecological-integrity);
+    - [Condiciones ambientales previas](core_05_band_continuity.md#environmental-preconditions); y
+    - [Responsabilidad intergeneracional](core_05_band_continuity.md#intergenerational-responsibility).
+  - los límites estrictos de [§2.1 Restricciones de principios no negociables: seguridad y verdad](#21-non-negotiable-principle-constraints-safety-and-truth): nunca se sacrifica la seguridad ni la verdad por ningún otro objetivo.
+- **Cómo se juzga:** mediante resultados trazables conforme a los **Capítulos Cuatro y Cinco**.
+- **Cómo se demuestra:** con evidencia, no con consignas.
+
+La capacidad productiva no incluye lo siguiente ni puede invocarse para justificarlo:
+
+- **Concentrar poder o trasladar costos a otras personas:**
+  - concentrar riqueza, poder, control u oportunidades de un modo que perjudique el bienestar, la agencia, la dignidad o las condiciones ecológicas de otros sintientes, ahora o en el futuro;
+  - degradar los sistemas naturales que sustentan la vida o trasladar costos ecológicos o intergeneracionales a otras personas sin mitigación, divulgación y representación.
+- **Contar lo que no corresponde:**
+  - rendimiento bruto, volumen de producción, utilización, número de empleados, ingresos, crecimiento de activos, cuota de mercado u otros indicadores indirectos similares que ya no reflejen resultados reales; incluidos los indicadores que muestran «crecimiento» mientras trasladan el daño a sintientes, generaciones futuras o el medioambiente.
+- **Debilitar las protecciones:**
+  - reducir o demorar los Pisos de Derechos del Capítulo Seis, incluidas las condiciones ecológicas previas del [Artículo I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Condiciones ambientales previas e integridad ecológica*);
+  - debilitar las obligaciones de auditoría, posibilidad de impugnación o revisión retrospectiva.
+- **Eludir las reglas para ponderar principios:**
+  - eludir el [§13 Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), incluidos los requisitos del [Registro de colisiones constitucionales](core_05_band_integrative.md#constitutional-collision-record); o
+  - recurrir a otras vías prohibidas de prevalencia en [§14 Prohibición de prevalencia absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override), entre ellas ocultar daños ecológicos, intergeneracionales o distributivos que los **Capítulos Dos a Cuatro** exigen mantener visibles.
+
+Si las afirmaciones sobre capacidad productiva se basan en indicadores que ya no demuestran resultados reales —incluidos los que ocultan daños ecológicos, daños futuros o pérdidas causadas por la concentración—, se aplica [§13.2.4 Invalidación por divergencia de indicadores indirectos](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation).
+
+<a id="92-constitutional-efficiency"></a>
+#### 9.2 Eficiencia constitucional
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [Capacidad del sistema compartido](core_05_band_continuity.md#shared-system-capacity) · [O](core_05_band_continuity.md#shared-system-capacity) · [M](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](core_05_band_continuity.md#shared-system-capacity-constitutional-c)
+- [Capacidad productiva](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: la eficiencia constitucional es el aspecto de la capacidad del sistema compartido que pregunta «¿obtenemos un valor equivalente en términos humanos?». Más beneficio real por cada hora de tiempo, atención y esfuerzo compartido de los sintientes, sin recortar derechos, verdad, seguridad o ecología para aparentar rapidez, austeridad o bajo costo.*
+
+La **[Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency)** es el otro aspecto principal de la **[Capacidad del sistema compartido](core_05_band_continuity.md#shared-system-capacity)**. Pregunta si los sistemas producen más beneficio exigido por la Constitución por cada unidad de tiempo, atención, esfuerzo, coordinación, materiales, infraestructura y energía de los sintientes que consumen.
+
+La eficiencia puede impulsar mejoras ampliamente compartidas, pero solo dentro de los límites constitucionales. Por sí sola, **no** significa:
+- velocidad bruta;
+- comodidad administrativa;
+- objetivos de utilización;
+- crecimiento de ingresos;
+- cuota de mercado;
+- número de empleados; ni
+- recortar costos por el mero hecho de recortarlos.
+
+**Cuándo cuenta una afirmación de eficiencia:**
+
+- **Se vincula con:** resultados constitucionales reales.
+- **Es compatible con:**
+  - Seguridad;
+  - Verdad;
+  - el Piso de Derechos del Capítulo Seis;
+  - la integridad ecológica;
+  - la dignidad;
+  - la agencia significativa; y
+  - la distribución justa.
+
+**Las mejoras de eficiencia no deben:**
+
+- vaciar la [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad); ni
+- sustituir el avance hacia los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) por métricas de panel.
+
+### 10. Diseño de resiliencia y autorreparación
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad): componentes de **supervisión** y **rendición de cuentas**; [interés material](core_00_preamble.md#material-stake) para ajustar la profundidad de la recuperación y la auditoría.
+- Ascendente: [§9 Capacidad del sistema compartido](#9-shared-system-capacity), la capacidad duradera que la resiliencia protege y restaura.
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Continuidad** (disciplina de resiliencia y autorreparación); objetivo de **Florecimiento** (recuperación fiable sin degradación epistémica).
+- Ascendente: Principios: [Preámbulo §1 El modelo](core_00_preamble.md#the-model); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims); [§4 Seguridad](#4-safety-harm-constraint), [§5 Verdad](#5-truth-epistemic-integrity-constraint) y [§6 Confianza](#6-trust-and-trustworthiness-coordination-integrity).
+- Descendente: [§16 Administración en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) y [§14 Prohibición de prevalencia absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Descendente: configura el alcance de los derechos relativos a la fiabilidad con recuperación, la honestidad sobre las causas raíz, la reversibilidad y la comprensión de los estados degradados y en proceso de restauración.
+  - En especial, [Artículo XIII: Derecho a sistemas fiables y dignos de confianza](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (incluido el **Artículo XIII-F** (*Referencia básica de resiliencia y autorreparación*)), [Artículo XVI: Auditoría, transparencia y verificación independiente](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [Artículo XVII: Ciclo de vida, entornos y reversibilidad de los sistemas](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [Artículo XXII: Comprensibilidad y gestión de la complejidad](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) y [Artículo XXIII: Análisis de causas raíz y respuesta adaptativa](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Autorreparación](core_05_band_continuity.md#self-healing) · [O](core_05_band_continuity.md#self-healing) · [M](core_05_band_continuity.md#self-healing-constitutional-a) · [A](core_05_band_continuity.md#self-healing-constitutional-a) · [C](core_05_band_continuity.md#self-healing-constitutional-c)
+- [Fallo en cascada](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
+- [Reversibilidad](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [Carga evitable](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment) · [A](core_05_band_integrative.md#incentive-alignment) · [C](core_05_band_integrative.md#incentive-alignment)
+
+</details>
+
+<br>
+
+*En términos sencillos: los sistemas deben detectar los problemas pronto, contenerlos, fallar por vías divulgadas y recuperarse con honestidad. La «autorreparación» que oculta fallos, omite el análisis de causas raíz o reduce derechos en silencio no es resiliencia: es un defecto.*
+
+Los sistemas de los que dependen los sintientes deben diseñarse para:
+- detectar los problemas pronto;
+- contenerlos antes de que se propaguen;
+- fallar por vías planificadas y divulgadas, no por vías ocultas;
+- recuperarse de forma compatible con la [Reversibilidad](core_05_band_continuity.md#reversibility) y el Piso de Derechos del Capítulo Seis.
+
+Esto es lo que el Capítulo Cinco denomina [**Autorreparación**](core_05_band_continuity.md#self-healing), y solo es legítimo cuando hace que el sistema sea más honesto acerca de su propio estado, no menos. La recuperación automática que oculta la causa raíz, suprime pruebas o sustituye a la gobernanza no es autorreparación. Es una infracción de la [Verdad](core_05_band_oversight.md#truth-constitutional-constraint) y un defecto de [Alineación de incentivos](core_05_band_integrative.md#incentive-alignment).
+
+Cuanto más dependan los sintientes de un sistema y mayor sea su impacto, menos debe depender ese sistema de intervenciones de emergencia. En su lugar, debe invertir en autorrecuperación probada, auditada y acotada, reduciendo la [Carga evitable](core_05_band_continuity.md#avoidable-burden) y apoyando la [**Continuidad**](#continuity) a largo plazo.
+
+Los detalles operativos —detección de recuperación, contención, preferencia por el fallo seguro, cierre del análisis de causas raíz y continuidad del Piso de Derechos— figuran en el [Artículo XIII-F](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (*Referencia básica de resiliencia y autorreparación*) del Capítulo Seis; los requisitos de arquitectura de recuperación aparecen en el texto de implementación incorporado.
+
+<a id="11-market-structure"></a>
+### 11. Estructura del mercado
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad): participación, supervisión, rendición de cuentas y oportunidad cuando la concentración o el dominio anulan la voz, el escrutinio, la obligación de responder o la corrección oportuna; ajuste según el [interés material](core_00_preamble.md#material-stake), en especial [§11.2 Promoción de la competencia y prevención del dominio](#112-pro-competition-and-anti-domination).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Continuidad** (condiciones productivas duraderas y sujetas a impugnación); objetivo de **Florecimiento** (acceso justo a medios de vida, agencia y vías de innovación).
+- Ascendente: Principios: [§9 Capacidad del sistema compartido](#9-shared-system-capacity): las afirmaciones sobre capacidad productiva y eficiencia no son válidas cuando la concentración o el dominio las vacían; [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Descendente: [Capítulo Once §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (subversión basada en la concentración); [§13 Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Invalidación por divergencia de indicadores indirectos](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+- Descendente: **CJS-3.11.1 — Disciplina para fijar umbrales de concentración del mercado (ajustable por quienes adoptan)** (reglas de aplicación de [§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) y [§11.4](#114-resource-and-dependency-concentration-adopter-tunable)); **CJS-3.11.2 — Catálogo de conductas de dominio y medidas correctivas** (conductas prohibidas y remedios de [§11.2](#112-pro-competition-and-anti-domination)); **CJS-3.11.3 — Disciplina para fijar el límite de consolidación (ajustable por quienes adoptan)** (cómo fijar el límite conforme a [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)).
+- Descendente: configura el alcance de los derechos relativos a la asignación de recursos, la remuneración justa, la organización colectiva, la interoperabilidad, la salida y el examen contra la captura; en especial, [Artículo III-C: Piso laboral y económico](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [Artículo V: Asignación de recursos, dependencias y financiación de ecosistemas](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) y [Artículo XXI: Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
+- Subsecciones (orden de lectura): [§11.1 Mecanismo de umbrales de concentración del mercado (ajustable por quienes adoptan)](#111-market-concentration-threshold-mechanism-adopter-tunable) · [§11.1.1 Activadores de umbrales de concentración (ajustables por quienes adoptan)](#1111-concentration-threshold-triggers-adopter-tunable) · [§11.2 Promoción de la competencia y prevención del dominio](#112-pro-competition-and-anti-domination) · [§11.3 Límite de consolidación](#113-consolidation-ceiling) · [§11.4 Concentración de recursos y dependencias (ajustable por quienes adoptan)](#114-resource-and-dependency-concentration-adopter-tunable).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Estructura del mercado](core_05_band_accountability.md#market-structure) · [O](core_05_band_accountability.md#market-structure) · [M](core_05_band_accountability.md#market-structure-constitutional-a) · [A](core_05_band_accountability.md#market-structure-constitutional-a) · [C](core_05_band_accountability.md#market-structure-constitutional-c)
+- [Umbral de concentración del mercado](core_05_band_accountability.md#market-concentration-threshold) · [O](core_05_band_accountability.md#market-concentration-threshold) · [M](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Posibilidad de impugnación](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Divergencia de indicadores indirectos](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Agencia significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: los sintientes deben poder trabajar, crear, cambiar de proveedor y oponerse sin tropezar con un muro porque una empresa o institución controla la única puerta. La **Estructura del mercado** es la disciplina antimonopolio aplicable a mercados, plataformas, sistemas de empleo, infraestructura, datos, capacidad de cálculo, credenciales y otras dependencias importantes para la vida diaria. Crecer e inventar cosas nuevas está bien; acaparar el mercado, no. **§11.1–§11.3** (*Mecanismo de umbrales de concentración del mercado, Promoción de la competencia y prevención del dominio, y Límite de consolidación*) determinan cuándo la concentración es excesiva, cómo detener el dominio y cuánta consolidación se permite antes de que los sintientes queden atrapados. **§11.4** (*Concentración de recursos y dependencias*) aplica los mismos umbrales a los recursos compartidos y las dependencias.*
+
+La **[Estructura del mercado](core_05_band_accountability.md#market-structure)** regula si los sintientes y los sistemas compartidos pueden participar en la vida productiva de manera abierta a la elección, la competencia y la impugnación. Cuando lo exija el [interés material](core_00_preamble.md#material-stake), incluye:
+- el intercambio comercial;
+- las plataformas;
+- los mercados de demanda laboral;
+- los sistemas de proveedores y control de recursos;
+- las vías de acceso a funciones mediante credenciales;
+- los canales de acceso al capital; y
+- el control de acceso en la esfera informativa.
+
+Las afirmaciones sobre **[Capacidad productiva](core_05_band_continuity.md#productive-capacity)** y **[Eficiencia constitucional](core_05_band_continuity.md#constitutional-efficiency)** conforme a **[§9 Capacidad del sistema compartido](#9-shared-system-capacity)** no son válidas cuando la estructura del mercado permite concentración, dominio o consolidación que degrada previsiblemente:
+- el [Bienestar](core_05_band_continuity.md#wellbeing);
+- la [Agencia significativa](core_05_band_participation.md#meaningful-agency);
+- la [Dignidad e igualdad de condición moral](core_05_band_participation.md#dignity-and-equal-moral-standing);
+- la [Integridad ecológica](core_05_band_continuity.md#ecological-integrity); o
+- la revisión constitucional.
+
+<a id="111-market-concentration-threshold-mechanism-adopter-tunable"></a>
+#### 11.1 Mecanismo de umbrales de concentración del mercado (ajustable por quienes adoptan)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Ascendente: [§11 Estructura del mercado](#11-market-structure); [Umbral de concentración del mercado](core_05_band_accountability.md#market-concentration-threshold).
+- Descendente: **CJS-3.11.1 — Disciplina para fijar umbrales de concentración del mercado (ajustable por quienes adoptan)** (reglas operativas para fijar umbrales); [§11.2 Promoción de la competencia y prevención del dominio](#112-pro-competition-and-anti-domination); [§11.3 Límite de consolidación](#113-consolidation-ceiling); [CJS-3.11.3 — Disciplina para fijar el límite de consolidación (ajustable por quienes adoptan)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) (reglas operativas para fijar el límite de [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable)); [Capítulo Nueve §4 Pregunta 2 — ¿qué tan bueno o malo fue?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it); [Capítulo Once §5.1 Subversión basada en la concentración](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Puerta de administración (no operativa): tarjeta de siguiente paso: [Estructura del mercado](implementation/STEWARD_ENTRY_DOORS.md#market-structure). La tarjeta no puede restringir la Constitución.
+- Subsecciones (orden de lectura): [§11.1.1 Activadores de umbrales de concentración (ajustables por quienes adoptan)](#1111-concentration-threshold-triggers-adopter-tunable).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Umbral de concentración del mercado](core_05_band_accountability.md#market-concentration-threshold) · [O](core_05_band_accountability.md#market-concentration-threshold) · [M](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Estructura del mercado](core_05_band_accountability.md#market-structure) · [O](core_05_band_accountability.md#market-structure) · [M](core_05_band_accountability.md#market-structure-constitutional-a) · [A](core_05_band_accountability.md#market-structure-constitutional-a) · [C](core_05_band_accountability.md#market-structure-constitutional-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: esta subsección establece el piso contra las acumulaciones perjudiciales de riqueza, poder o control. No determina por sí misma la gravedad del daño ni califica por sí sola a alguien como responsable de una conducta indebida. Si se usa la concentración para socavar esta Constitución, el Capítulo Once lo juzga, y solo después de que el Capítulo Nueve ya haya clasificado el daño verificado entre los tres niveles más graves. Quienes adoptan pueden ajustar los activadores numéricos a su contexto, pero no pueden fijarlos tan altos que nunca se activen, combinarlos con una ejecución impracticable ni encubrir la concentración mediante estructuras federadas o instrumentales. La manera de fijar esos activadores se describe en [§11.1.1 Activadores de umbrales de concentración (ajustables por quienes adoptan)](#1111-concentration-threshold-triggers-adopter-tunable).*
+
+**Qué hace esta subsección:**
+
+- **Sí hace:** establece la orientación de los umbrales, en el nivel de principios, para el piso de [§11 Estructura del mercado](#11-market-structure).
+- **No hace:** no decide la gravedad del daño verificado ni determina que exista una conducta indebida.
+- **Cuando se usa la concentración para socavar esta Constitución:** la conducta indebida se juzga conforme al [Capítulo Once §5.1 Subversión basada en la concentración](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- **Crear, mantener o aprovechar la concentración por encima del piso:** el caso puede remitirse al Capítulo Once para que se revise si corresponde designar una conducta indebida, pero solo tras dos pasos. Primero, [Capítulo Nueve §4 Pregunta 2 — ¿qué tan bueno o malo fue?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it) ya debe haber situado el daño verificado entre los tres niveles más graves. Luego, el Capítulo Once comprueba si la concentración cumple el criterio 3 (un mecanismo que revierte protecciones), el criterio 4 (daño a las protecciones del Piso de Derechos o bloqueo de impugnaciones) o el criterio 6 (que el proceso constitucional resulte impracticable).
+
+**Piso constitucional:**
+
+- **Qué es:** la disciplina contra la concentración de [§11 Estructura del mercado](#11-market-structure) establece un **piso constitucional**.
+- **Qué bloquea:** la concentración de:
+  - riqueza;
+  - poder;
+  - control; u
+  - oportunidades.
+- **Qué daño previene:** el deterioro previsible, para otros sintientes, de:
+  - bienestar;
+  - agencia;
+  - dignidad; o
+  - integridad ecológica.
+- **Qué no es:** no es una cifra fija única, sino el umbral mínimo.
+- **Con qué más entra en conflicto:** con la [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad) y el objetivo de **Continuidad** conforme a los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims). La concentración entra en conflicto con ambos cuando previsiblemente frustra uno de los cuatro deberes de la Tétrada:
+  - voz (participación);
+  - escrutinio (supervisión);
+  - obligación de responder (rendición de cuentas); o
+  - corrección oportuna (oportunidad).
+
+<a id="1111-concentration-threshold-triggers-adopter-tunable"></a>
+##### 11.1.1 Activadores de umbrales de concentración (ajustables por quienes adoptan)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [Umbral de concentración del mercado](core_05_band_accountability.md#market-concentration-threshold); [Dependencia](core_05_band_continuity.md#dependency).
+- Descendente: [CJS-3.11.1 — Disciplina para fijar umbrales de concentración del mercado (ajustable por quienes adoptan)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (reglas operativas para fijar umbrales).
+
+</details>
+
+<br>
+
+*En términos sencillos: quienes adoptan pueden adaptar los activadores numéricos a su contexto —dominio, tamaño de la población y densidad de dependencias—, pero no existe una cifra mundial única y el piso sigue vigente. Las reglas detalladas para fijar umbrales figuran en CJS-3.11.1 (*Disciplina para fijar umbrales de concentración del mercado (ajustable por quienes adoptan)*) (disciplina para fijar umbrales de concentración del mercado).*
+
+Los **umbrales de concentración** son activadores cuantitativos que indican que la concentración alcanzó un nivel que exige mayor escrutinio, intervención o remedio estructural. Abarcan la concentración material, jurisdiccional, de capacidades, de plataformas y de la esfera informativa. Quienes adoptan pueden ajustar estos activadores **dentro del piso constitucional**.
+
+Quienes adoptan pueden fijar umbrales distintos según:
+- el dominio (material, jurisdiccional, de capacidades, de plataformas o de la esfera informativa);
+- el tamaño de la población sintiente;
+- la densidad de dependencias;
+- otros factores adecuados al contexto.
+
+Esta disposición no impone una cifra mundial única. Las distintas federaciones constitucionales pueden fijar umbrales diferentes sin que eso, por sí solo, constituya incumplimiento, siempre que se respete el piso. Véase [Umbral de concentración del mercado](core_05_band_accountability.md#market-concentration-threshold) como referencia definitoria.
+
+La disciplina operativa para fijar umbrales —preservar el piso, revisar según la sustancia y no la forma, evitar la anulación y activar un escrutinio reforzado— figura en **CJS-3.11.1 — Disciplina para fijar umbrales de concentración (ajustable por quienes adoptan)**.
+
+<a id="112-pro-competition-and-anti-domination"></a>
+#### 11.2 Promoción de la competencia y prevención del dominio
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Ascendente: [§11 Estructura del mercado](#11-market-structure); [Estructura del mercado](core_05_band_accountability.md#market-structure).
+- Descendente: **CJS-3.11.2 — Catálogo de conductas de dominio y medidas correctivas** (patrones de conducta y remedios operativos); [§11.3 Límite de consolidación](#113-consolidation-ceiling); [Capítulo Once §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+- Leer junto con: [Artículo III-C: Piso laboral y económico](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (Piso de Derechos para la movilidad laboral); [Artículo XXI: Interoperabilidad, portabilidad, movimiento, refugio e integridad de salida](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity); [§13 Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [§13.2.4 Invalidación por divergencia de indicadores indirectos](core_01_b_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+- Subsecciones (orden de lectura): [§11.2.1 Deberes de promoción de la competencia (lo que sí se debe hacer)](#1121-pro-competition-duties-dos) · [§11.2.2 Prohibiciones contra el dominio (lo que no se debe hacer)](#1122-anti-domination-prohibitions-donts) · [§11.2.3 Remedios](#1123-remedies).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Estructura del mercado](core_05_band_accountability.md#market-structure) · [O](core_05_band_accountability.md#market-structure) · [M](core_05_band_accountability.md#market-structure-constitutional-a) · [A](core_05_band_accountability.md#market-structure-constitutional-a) · [C](core_05_band_accountability.md#market-structure-constitutional-c)
+- [Posibilidad de impugnación](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Agencia significativa](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [Necesidad](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [Proporcionalidad](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Divergencia de indicadores indirectos](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: la Constitución no castiga a un sistema solo por ser grande, útil o estar temporalmente por delante gracias a una innovación genuina. Sí prohíbe el dominio duradero: el control de mercados, trabajo, plataformas, infraestructura, datos, capacidad de cálculo, credenciales o recursos que permita a un actor atrapar a otras personas, bloquear a rivales, suprimir la negociación justa o capturar la rendición de cuentas constitucional.*
+
+**Qué hace esta subsección:**
+
+- **Qué establece:** las reglas constitucionales para mantener una competencia real y detener el dominio duradero, solo en el nivel de principios. No es un código completo de competencia.
+- **Leyes locales más estrictas:** no desplaza las propias leyes antimonopolio o de competencia de la entidad que adopta la Constitución cuando brindan una protección mayor.
+- **También se aplican otras responsabilidades:** si los mismos hechos activan deberes de derechos, remedios o conducta indebida a los que remite esta sección, esos deberes siguen aplicándose por separado.
+
+<a id="1121-pro-competition-duties-dos"></a>
+##### 11.2.1 Deberes de promoción de la competencia (lo que sí se debe hacer)
+
+*En términos sencillos (lo que sí se debe hacer): los mercados y las dependencias deben permanecer suficientemente abiertos para que los sintientes puedan entrar, cambiar, negociar en condiciones justas y salir. Crecer o inventar algo nuevo está bien si la posibilidad de impugnación sigue siendo real.*
+
+La capacidad del sistema compartido debe seguir siendo impugnable en la práctica. Conforme a la [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad), el dominio que vacía la **participación**, la **supervisión**, la **rendición de cuentas** o la **oportunidad** —según el [interés material](core_00_preamble.md#material-stake)— es incompatible con esta sección, con independencia de la escala o de las afirmaciones de eficiencia.
+
+Cuando los sintientes dependen de mercados, plataformas, infraestructura, acuerdos laborales, flujos de recursos, acceso a datos, acceso a capacidad de cálculo, credenciales u otras condiciones productivas comparables para su sustento, agencia o bienestar, los sistemas de gobierno y los acuerdos que estructuran el mercado deben preservar:
+- participación impugnable, de modo que los sintientes puedan participar y cuestionar las decisiones y condiciones que les afectan;
+- posibilidad significativa de sustitución y salida, de modo que exista una alternativa viable y los sintientes puedan cambiar o irse sin costos, demoras ni pérdida irrazonables de lo que necesitan;
+- entrada y reingreso justos, de modo que las personas recién llegadas puedan entrar y quienes se fueron puedan volver en condiciones equitativas;
+- interoperabilidad y portabilidad cuando sean relevantes para la salida o la competencia, de modo que los sistemas puedan conectarse con alternativas y los sintientes puedan llevarse sus datos e identidad;
+- negociación no coercitiva para trabajadores, proveedores, usuarios, participantes dependientes e interesados afectados;
+- acceso sujeto a revisión a infraestructuras esenciales o de las que exista alta dependencia cuando su denegación frustraría las protecciones, auditorías, reparaciones o la agencia significativa previstas en el Capítulo Seis.
+
+Por sí solos, no están prohibidos:
+- la escala;
+- la integración;
+- la protección de la propiedad intelectual;
+- la ventaja temporal derivada de una innovación genuina;
+- la eficiencia obtenida mediante coordinación lícita.
+
+Esas ventajas siguen siendo válidas solo mientras no se conviertan en lo siguiente y, por tanto, no socaven los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) ni la [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad):
+- dominio duradero;
+- dependencia coercitiva;
+- degradación del Piso de Derechos;
+- traslado de cargas ecológicas;
+- captura de las vías de rendición de cuentas.
+
+Las siguientes justificaciones deben cumplir las obligaciones de trazabilidad y evidencia del [§13 Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) y del Capítulo Cuatro:
+- eficiencia;
+- competitividad;
+- emergencia;
+- seguridad;
+- capacidad productiva.
+
+<a id="1122-anti-domination-prohibitions-donts"></a>
+##### 11.2.2 Prohibiciones contra el dominio (lo que no se debe hacer)
+
+*En términos sencillos (lo que no se debe hacer): no se debe atrapar a los sintientes, bloquear a rivales, suprimir la negociación justa ni capturar la rendición de cuentas constitucional.*
+
+Ninguno de los siguientes:
+- sintiente(s);
+- institución(es);
+- plataforma(s);
+- empresa(s);
+- órgano(s) estatal(es);
+- administrador(es);
+- grupo(s) coordinado(s)
+
+puede:
+- crear;
+- mantener;
+- adquirir;
+- explotar;
+- ocultar;
+- reestructurar en torno a
+
+poder duradero de cualquiera de estos tipos:
+- mercado;
+- plataforma;
+- infraestructura;
+- trabajo;
+- proveedor;
+- datos;
+- capacidad de cálculo;
+- acreditación;
+- acceso al capital;
+- control de recursos.
+
+cuando ese poder deteriore previsiblemente:
+- el bienestar;
+- la agencia significativa;
+- la remuneración justa;
+- la innovación;
+- el acceso;
+- la integridad ecológica;
+- la posibilidad de impugnación;
+- la revisión constitucional.
+
+<a id="1123-remedies"></a>
+##### 11.2.3 Remedios
+
+*En términos sencillos: cuando se demuestra el dominio, la respuesta debe guardar proporción con el daño, restablecer opciones reales y no castigar el tamaño por sí mismo.*
+
+Los siguientes elementos figuran en **CJS-3.11.2 — Catálogo de conductas de dominio y medidas correctivas**:
+- ejemplos ilustrativos de patrones de conducta prohibidos;
+- instrumentos de remedio proporcionales;
+- derivación a evaluaciones entre dominios.
+
+Otras responsabilidades:
+- prohibiciones categóricas sobre movilidad laboral: [Artículo III-C](core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Piso laboral y económico*);
+- condiciones operativas de interoperabilidad, portabilidad e integridad de salida: **CJS-3.17** (*Continuidad: condiciones de interoperabilidad, portabilidad e integridad de salida*);
+- patrones de riesgo de consolidación horizontal y vertical: **§11.3** (*Límite de consolidación*).
+
+Los remedios deben:
+- ser proporcionales a:
+  - la concentración;
+  - la dependencia;
+  - la conducta;
+  - el daño constitucional;
+- restablecer la posibilidad de impugnación cuando se haya demostrado el dominio;
+- preservar el Piso de Derechos del Capítulo Seis.
+
+Los remedios no pueden castigar la escala por sí sola.
+
+La selección operativa de remedios se rige por **CJS-3.11.2** (*Catálogo de conductas de dominio y medidas correctivas*).
+
+<a id="113-consolidation-ceiling"></a>
+#### 11.3 Límite de consolidación
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad): **supervisión**, **rendición de cuentas** y **oportunidad** cuando la consolidación perjudica el escrutinio, la obligación de responder o la corrección oportuna antes del bloqueo; **participación** cuando impide la entrada, la salida o la negociación justa; ajuste según el [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Continuidad** (condiciones productivas duraderas y sujetas a impugnación frente a la consolidación previa al bloqueo); objetivo de **Florecimiento** (medios de vida, agencia y vías de innovación mientras existan alternativas reales).
+- Ascendente: [§11 Estructura del mercado](#11-market-structure); [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [§16 Administración en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- Subsecciones (orden de lectura): [§11.3.1 Riesgo de consolidación (deterioro antes del bloqueo)](#1131-consolidation-risk-pre-lock-in-impairment) · [§11.3.2 Mecanismo de límite de consolidación (ajustable por quienes adoptan)](#1132-consolidation-ceiling-mechanism-adopter-tunable).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Gobernanza](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+- [Administración](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [Posibilidad de impugnación](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Estructura del mercado](core_05_band_accountability.md#market-structure) · [O](core_05_band_accountability.md#market-structure) · [M](core_05_band_accountability.md#market-structure-constitutional-a) · [A](core_05_band_accountability.md#market-structure-constitutional-a) · [C](core_05_band_accountability.md#market-structure-constitutional-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: la consolidación puede arrebatar opciones reales mucho antes de que el mercado parezca bloqueado. Los **límites de consolidación** dan a la gobernanza y a quienes administran una facultad de alerta temprana para examinar, intervenir y corregir acumulaciones mientras aún existan salida y competencia.*
+
+La consolidación que previsiblemente perjudica la posibilidad de impugnación antes de que el bloqueo resulte evidente es un problema de [Gobernanza](core_05_band_accountability.md#governance) y [Administración](core_05_band_continuity.md#stewardship), no solo un problema de dominio posterior, y está sujeta a la disciplina de límites de consolidación en el nivel de principios conforme a:
+- [§11 Estructura del mercado](#11-market-structure);
+- [§11.2 Promoción de la competencia y prevención del dominio](#112-pro-competition-and-anti-domination).
+
+Quienes adoptan y los sistemas de gobernanza deben detectar acumulaciones de consolidación de los siguientes tipos:
+- **Consolidación horizontal** (*reducción de rivales en la misma capa*). Consolidación que reduce las alternativas, la competencia o el poder de negociación dentro de una misma capa o mercado; por ejemplo, menos vendedores o proveedores de servicios sujetos a impugnación, monopsonio en el mercado laboral, adquisiciones sucesivas o eliminatorias que suprimen la competencia potencial, o concentración del poder de compra que excluye a rivales mientras los precios publicados siguen estables.
+- **Consolidación vertical** (*dependencias entre capas y control de cuellos de botella*). Consolidación que vincula el control entre las capas de una cadena de valor, una pila de plataformas o una cadena de dependencias; por ejemplo, captura de insumos o interfaces, control de acceso al capital, supresión de la interoperabilidad o portabilidad, autopreferencia o control de clasificación que eleva los costos de cambio e impide la salida.
+- **Estructuras transversales a dominios y federadas** (*formas que mantienen la misma acumulación de control*). Acuerdos entre dominios, plataformas, sociedades instrumentales, sucesores o formas federadas que conservan la consolidación efectiva mientras superan las pruebas horizontales o verticales nominales.
+
+Cualquiera de estos patrones puede implicar densidad de dependencias, costos de cambio, bloqueo, exclusión de sustitutos, concentración de cargas ecológicas o control de condiciones ambientales previas cuando resulte materialmente pertinente.
+
+Deben detectarse pronto, mientras aún puedan restaurar la posibilidad de impugnación las siguientes medidas:
+- revisión;
+- intervención;
+- remedio estructural.
+
+Esta disciplina sirve a la [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad), ajustada al [interés material](core_00_preamble.md#material-stake), en especial mediante:
+- **supervisión**, **rendición de cuentas** y **oportunidad**, con revisión temprana antes de que el bloqueo frustre:
+  - el escrutinio;
+  - la corrección;
+- **participación** cuando la consolidación impide:
+  - la entrada justa;
+  - la salida;
+  - la negociación.
+
+Promueve lo siguiente conforme a los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims):
+- objetivo de **Continuidad** (condiciones productivas duraderas y sujetas a impugnación);
+- objetivo de **Florecimiento** (medios de vida, agencia y vías de innovación mientras las alternativas sigan siendo reales).
+
+Las reglas operativas para fijar límites figuran en:
+- [§11.3.2 Disciplina de límites (requisitos para quienes adoptan)](#1132-consolidation-ceiling-mechanism-adopter-tunable);
+- **CJS-3.11.3 — Disciplina para fijar el límite de consolidación (ajustable por quienes adoptan)**.
+
+<a id="1131-consolidation-risk-pre-lock-in-impairment"></a>
+##### 11.3.1 Riesgo de consolidación (deterioro antes del bloqueo)
+
+*En términos sencillos: la consolidación puede vaciar las alternativas reales mucho antes de que el mercado parezca «bloqueado». Importan especialmente dos tipos de acumulación: la **consolidación horizontal**, que reduce los rivales en una misma capa, y la **consolidación vertical**, que controla varias capas y crea cuellos de botella y bloqueo.*
+
+Antes de que el bloqueo sea evidente, la consolidación puede perjudicar previsiblemente:
+- la posibilidad de impugnación;
+- la posibilidad de sustitución;
+- la negociación justa;
+- la entrada;
+- la salida;
+- la innovación;
+- la agencia de los interesados;
+- la interoperabilidad;
+- la portabilidad;
+- la revisión constitucional.
+
+La revisión no debe esperar hasta que ya se hayan bloqueado:
+- los mercados;
+- las plataformas;
+- las reservas de mano de obra;
+- las capas de datos;
+- las capas de capacidad de cálculo;
+- las dependencias de infraestructura.
+
+Los principales patrones de riesgo son:
+- horizontal (*menos rivales en la misma capa*);
+- vertical (*control entre capas que crea cuellos de botella y bloqueo*);
+- transversal a dominios (*formas federadas, instrumentales o de dominios divididos que mantienen la misma acumulación de control*).
+
+La evaluación de límites juzga:
+- el control sustantivo;
+- no el número formal de entidades.
+
+Lo siguiente sigue estando dentro del alcance cuando conserva una consolidación efectiva a la vez que evita los umbrales nominales:
+- forma(s) federada(s);
+- sociedad(es) instrumental(es);
+- acuerdo(s) contractual(es);
+- acuerdo(s) de licencia;
+- acuerdo(s) de patente;
+- acuerdo(s) de propiedad común;
+- acuerdo(s) entre plataformas;
+- sucesor(es);
+- acuerdo(s) delegados;
+- acuerdo(s) entre dominios.
+
+<a id="1132-consolidation-ceiling-mechanism-adopter-tunable"></a>
+##### 11.3.2 Mecanismo de límite de consolidación (ajustable por quienes adoptan)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Ascendente: [§11.3 Límite de consolidación](#113-consolidation-ceiling); [§11.3.1 Riesgo de consolidación (deterioro antes del bloqueo)](#1131-consolidation-risk-pre-lock-in-impairment).
+- Descendente: **CJS-3.11.3 — Disciplina para fijar el límite de consolidación (ajustable por quienes adoptan)** (reglas operativas para fijar límites); [CJS-3.11.2 — Catálogo de conductas de dominio y medidas correctivas](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (derivación a remedios por incumplir el límite); [Capítulo Once §5](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+
+</details>
+
+<br>
+
+*En términos sencillos: quienes adoptan deben fijar límites basados en evidencia que activen el escrutinio antes de que los riesgos de consolidación de **§11.3.1** (*Riesgo de consolidación, deterioro antes del bloqueo*) se materialicen en un bloqueo, con activadores horizontales y verticales separados cuando el dominio lo requiera.*
+
+Los **límites de consolidación** son activadores de alerta temprana, ajustables por quienes adoptan, para intensificar la revisión, intervenir o imponer remedios estructurales cuando la consolidación alcanza un nivel en el que los deterioros descritos en **§11.3.1** (*Riesgo de consolidación, deterioro antes del bloqueo*) son previsiblemente inminentes. Se encuentran bajo la disciplina contra la concentración de **§11** (*Estructura del mercado*) y las reglas contra el dominio de **§11.2** (*Promoción de la competencia y prevención del dominio*); no prohíben la escala.
+
+Quienes adoptan deben definir límites de consolidación para:
+- mercados;
+- plataformas;
+- capas de infraestructura;
+- mercados de demanda laboral;
+- sistemas de proveedores o de control de recursos;
+- dependencias de datos o capacidad de cálculo;
+- vías de acceso a funciones mediante credenciales;
+- canales de acceso al capital;
+- dominios comparables.
+
+cuando la consolidación pueda afectar materialmente:
+- las oportunidades de los sintientes;
+- los medios de vida;
+- la agencia;
+- el bienestar;
+- la integridad ecológica;
+- la rendición de cuentas constitucional.
+
+La disciplina operativa para fijar límites —diseño de activadores horizontales y verticales, presunción al superar el umbral, refutación, prevención de la anulación y derivación a remedios— figura en **CJS-3.11.3 — Disciplina para fijar el límite de consolidación (ajustable por quienes adoptan)**.
+
+<a id="114-resource-and-dependency-concentration-adopter-tunable"></a>
+#### 11.4 Concentración de recursos y dependencias (ajustable por quienes adoptan)
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad): **supervisión** (mapas y registros de quién depende de quién y hacia dónde fluyen los recursos), **rendición de cuentas** (obligación de responder por la extracción oculta y los desequilibrios no corregidos), **participación** (derecho a impugnar la distribución de recursos) y **oportunidad** (actuar antes de que la dependencia quede bloqueada); ajuste según el [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims): objetivo de **Continuidad** (financiación y durabilidad de la infraestructura compartida); objetivo de **Florecimiento** (acceso justo, sin que nadie quede atrapado en una dependencia unilateral).
+- Ascendente: [§11 Estructura del mercado](#11-market-structure); [§11.1 Mecanismo de umbrales de concentración del mercado (ajustable por quienes adoptan)](#111-market-concentration-threshold-mechanism-adopter-tunable); [§11.1.1 Activadores de umbrales de concentración (ajustables por quienes adoptan)](#1111-concentration-threshold-triggers-adopter-tunable).
+- Descendente: [Artículo V: Asignación de recursos, dependencias y financiación de ecosistemas](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (el Piso de Derechos que esta subsección mantiene intacto), [Artículo V-A: Cartografía de dependencias y transparencia de los flujos de recursos](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) y [Artículo V-B: Equidad y sostenibilidad entre sistemas](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability); [CJS-3.11.1 — Disciplina para fijar umbrales de concentración del mercado (ajustable por quienes adoptan)](corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (reglas operativas para fijar umbrales); [CS-9](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Asignación de recursos y administración de fondos*) y [CS-8](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Sostenibilidad adaptativa y resiliencia de los ecosistemas*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Umbral de concentración del mercado](core_05_band_accountability.md#market-concentration-threshold) · [O](core_05_band_accountability.md#market-concentration-threshold) · [M](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [Extracción entre sistemas](core_05_band_continuity.md#cross-system-extraction) · [O](core_05_band_continuity.md#cross-system-extraction) · [M](core_05_band_continuity.md#cross-system-extraction-a) · [A](core_05_band_continuity.md#cross-system-extraction-a) · [C](core_05_band_continuity.md#cross-system-extraction-c)
+- [Apoyo proporcionado entre sistemas](core_05_band_continuity.md#proportionate-cross-system-support) · [O](core_05_band_continuity.md#proportionate-cross-system-support) · [M](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](core_05_band_continuity.md#proportionate-cross-system-support-constitutional-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: las infraestructuras compartidas —como redes, herramientas abiertas, servicios públicos, datos y capacidad de cálculo— son el ámbito donde unos pocos actores pueden acabar controlando en silencio quién obtiene recursos, quién depende de quién y quién paga para mantenerlas en funcionamiento. Quienes adoptan deben fijar límites claros a esa clase de concentración y actuar cuando se traspasen o estén a punto de traspasarse. Los límites pueden variar según el contexto, pero no pueden ser tan laxos que nunca importen. El [Artículo V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiación de ecosistemas*) y sus protecciones para compartir recursos permanecen exactamente como están.*
+
+La concentración en infraestructuras compartidas puede pasar inadvertida. Unos pocos sistemas pueden llegar a controlar cómo se asignan los recursos, cuántos otros dependen de ellos sin alternativas reales y quién paga para mantener la infraestructura. El [Artículo V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiación de ecosistemas*) establece el Piso de Derechos para compartir recursos. Esta subsección aplica a ese ámbito los umbrales de concentración del [§11.1 Mecanismo de umbrales de concentración del mercado (ajustable por quienes adoptan)](#111-market-concentration-threshold-mechanism-adopter-tunable). Las reglas operativas para fijar umbrales figuran en **CJS-3.11.1** (*Disciplina para fijar umbrales de concentración del mercado*); los detalles sobre mapas de recursos, flujos, asignación y financiación de ecosistemas figuran en [**CS-9**](corpus_systems/cs_09_resource_allocation_funding_stewardship.md) (*Asignación de recursos y administración de fondos*) y [**CS-8**](corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md) (*Sostenibilidad adaptativa y resiliencia de los ecosistemas*).
+
+**Qué deben fijar quienes adoptan:**
+
+Quienes adoptan deben definir indicadores del [Umbral de concentración del mercado](core_05_band_accountability.md#market-concentration-threshold) para la asignación de recursos, las dependencias y la financiación de ecosistemas, y actuar cuando se supere un umbral o haya motivos creíbles para pensar que está a punto de superarse. Los indicadores deben abarcar:
+- el control duradero sobre la asignación de recursos compartidos;
+- la concentración de dependencias, es decir, cuántos sintientes o sistemas dependen de un solo proveedor o sistema fundacional sin una alternativa real;
+- el control de acceso a las interfaces y puntos de acceso a infraestructuras compartidas; y
+- el control concentrado sobre la financiación de los ecosistemas y sobre quién se beneficia.
+
+**Cómo deben fijarlos quienes adoptan:**
+
+- **A partir de flujos reales:** basar los niveles en los mapas de dependencias y registros de flujos de recursos que exige el [Artículo V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Cartografía de dependencias y transparencia de los flujos de recursos*), no en las etiquetas de los operadores ni en transferencias aisladas.
+- **Según el contexto:** los niveles pueden variar por dominio, tamaño de la población y densidad de dependencias, como establece [§11.1.1 Activadores de umbrales de concentración (ajustables por quienes adoptan)](#1111-concentration-threshold-triggers-adopter-tunable).
+- **Con la misma disciplina:** se aplican íntegramente las reglas de preservación del piso, análisis de la sustancia y no de la forma, prevención de la anulación y escrutinio reforzado de **CJS-3.11.1 — Disciplina para fijar umbrales de concentración del mercado (ajustable por quienes adoptan)**. Ningún nivel puede fijarse tan alto que nunca se active; también cuenta la concentración oculta tras estructuras instrumentales, federadas o divididas.
+- **De manera pública:** los niveles y sus motivos deben documentarse y quedar abiertos a impugnación, de acuerdo con el [Artículo V](core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Asignación de recursos, dependencias y financiación de ecosistemas*), que exige que los flujos de recursos sean visibles, verificables y sujetos a impugnación.
+
+**Cuando se supera un nivel:**
+
+Superar un nivel exige una revisión reforzada y medidas de mitigación conforme a [§11.1.1 Activadores de umbrales de concentración (ajustables por quienes adoptan)](#1111-concentration-threshold-triggers-adopter-tunable). Por sí solo, no constituye una determinación de conducta indebida ([§11.1 Mecanismo de umbrales de concentración del mercado (ajustable por quienes adoptan)](#111-market-concentration-threshold-mechanism-adopter-tunable)). Si el mismo acuerdo tampoco cumple el [Artículo V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Cartografía de dependencias y transparencia de los flujos de recursos*) o el [Artículo V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Equidad y sostenibilidad entre sistemas*), se aplican ambos: el escrutinio de concentración se añade al **Artículo V** (*Asignación de recursos, dependencias y financiación de ecosistemas*) y no lo sustituye.
+
+<a id="12-systemic-evaluation-requirement"></a>
+### 12. Requisito de evaluación sistémica
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trazabilidad</span></strong></summary>
+
+- Leer junto con: familia de medición de Continuidad (*Resiliencia, reversibilidad y riesgo sistémico*).
+- Leer junto con: [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad), [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) y ajuste según el [interés material](core_00_preamble.md#material-stake).
+- Leer junto con: [§13 Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 Administración en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline) y [§19 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Leer junto con: **[Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**, los factores empleados para evaluar un sistema completo con miras a su certificación. La certificación es una auditoría especialmente extensa dentro del componente de **supervisión** de la Tétrada, no el único contexto en que se realizan auditorías.
+- Leer junto con: **Artículo XVI** (*Auditoría, transparencia y verificación independiente*) y [Auditabilidad](core_05_band_oversight.md#auditability), los pisos de auditoría que debe cumplir el Capítulo Ocho y que también aplican las modalidades de auditoría relacionadas.
+- Leer junto con: **[corpus_systems.md](corpus_systems.md), CS-3 — Clasificación y tratamiento de sistemas** y [Gobernanza según la clasificación](core_05_band_oversight.md#classification-scaled-governance), aplicación según la clase, formato del registro, activadores de reclasificación y perfiles de tratamiento.
+- Ascendente: [§16 Administración en profundidad](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 Gobernanza bajo disciplina de administración](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [§13 Proceso de resolución de colisiones constitucionales](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+- Descendente: [§20 Aplicación integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application), verifica que se persigan los [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) y que el ajuste de la [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad) tenga en cuenta la estructura de incentivos y control del sistema, no solo la justificación declarada.
+- Leer conjuntamente: **§§9–12** desarrollan el objetivo de Continuidad desde la capacidad del sistema compartido y la resiliencia, pasando por la estructura del mercado, hasta la validación de todo el sistema; **§§13–15** aportan el procedimiento de ponderación que rige cómo se sopesa frente al Florecimiento; y **§§16–20** establecen la disciplina de administración, gobernanza e incentivos que mantiene su legitimidad.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definiciones · Evaluación · Cumplimiento</span></strong></summary>
+
+- [Gobernanza según la clasificación](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
+- [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [Auditabilidad](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Certificación de alineación del sistema](core_05_band_continuity.md#system-alignment-certification) · [O](core_05_band_continuity.md#system-alignment-certification) · [M](core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](core_05_band_continuity.md#system-alignment-certification-constitutional-c)
+- [Riesgo](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [Dependencia](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+
+</details>
+
+<br>
+
+*En términos sencillos: este principio sirve de orientación. La evaluación de todo el sistema debe ir más allá de los efectos inmediatos y locales, pero los factores operativos de certificación del sistema, las obligaciones de registro, la profundidad según la clase, la periodicidad y las consecuencias de la certificación figuran en el **Capítulo Ocho** y **CS-3** (*Mecanismo de clasificación de sistemas*), no aquí. Según el componente de **supervisión** de la Tétrada, la supervisión exige auditoría; la certificación de alineación del sistema es uno de varios procesos de auditoría, especialmente amplio y de gran importancia, no el único ámbito donde se audita (**Artículo XVI** (*Auditoría, transparencia y verificación independiente*), [Auditabilidad](core_05_band_oversight.md#auditability)).*
+
+Cualquier afirmación sobre las cuestiones siguientes debe contrastarse con lo que el sistema completo hace realmente a lo largo del tiempo. Un eslogan o una instantánea de una parte en un momento determinado no bastan:
+
+- clasificación;
+- cumplimiento;
+- gobernanza;
+- limitación;
+- reconocimiento;
+- validación;
+- dependencia continuada;
+- despliegue;
+- liberación de condiciones.
+
+Los factores detallados de evaluación y los registros de certificación corresponden a:
+- **[Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
+- **[Capítulo Ocho §4 Registro de certificación del sistema](core_08_b_system_alignment_certification_record_process.md#4-system-certification-record)**;
+- **[corpus_systems.md](corpus_systems.md), CS-3 — Clasificación y tratamiento de sistemas**.
+
+El proceso del Capítulo Ocho:
+- constituye una auditoría en el nivel de principios conforme a [Supervisión](core_05_apex_oversight_leg.md#oversight-constitutional);
+- es uno de los procesos de auditoría especialmente extensos entre modalidades relacionadas;
+- no traslada ni sustituye el **Artículo XVI** (*Auditoría, transparencia y verificación independiente*).
 
 <br>
 
@@ -781,8 +1934,4 @@ Ser recibido, enrutado o respondido no es aprobación de las conclusiones de los
 
 **Archivo anterior:** [core_00_preamble.md](core_00_preamble.md)
 
-**Siguiente archivo (este idioma):** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)
-
-**Original vinculante:** [core_01_a_values_principles.md](../../core_01_a_values_principles.md)
-
-
+**Archivo siguiente:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)

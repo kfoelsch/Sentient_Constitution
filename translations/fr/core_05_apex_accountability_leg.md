@@ -83,7 +83,7 @@ Les **termes indépendants et semi-indépendants** vivent sous [Reddition de com
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Lire avec : [Chapitre un §11 Alignement des incitations et capture du système](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Structure de marché](core_01_c_stewardship_capacity_principles.md#13-market-structure), et [Chapitre sept §3.7 Discipline de gouvernance, d’incitations et de contestabilité](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline).
+- Lire avec : [Chapitre un §11 Alignement des incitations et capture du système](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Structure de marché](core_01_c_stewardship_capacity_principles.md#13-market-structure), et [Chapitre sept §3.6 Discipline de gouvernance, d’incitations et de contestabilité](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline).
 
 </details>
 

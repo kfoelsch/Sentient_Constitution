@@ -837,7 +837,7 @@ The right to this correction is stated in [Article XIII-B](core_06_rights_part_c
 - Read with: [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation), Chapter Five §2 *Agency, consent, and anti-coercion*, and [Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation).
 - Read with: [§17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) and [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) — role-depth, competency, and material-responsibility pathways; meaningful agency includes real paths into learning roles, operations, and consequential duty where safety and consent allow; symbolic participation must not substitute for consequential duty where impact requires the latter.
 - Read with: [§11 Market Structure](#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), and [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
-- Read with: [§7.1 Limitation Discipline](#71-limitation-discipline) and [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) through [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
+- Read with: [§7.1 Limitation Discipline](#71-limitation-discipline) and [Chapter Eight §3.5 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) through [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles: [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [4 Safety](#4-safety-harm-constraint); [5 Truth](#5-truth-epistemic-integrity-constraint); [6. Trust](#6-trust-and-trustworthiness-coordination-integrity); and [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - Downstream: [§7.1 Limitation Discipline](#71-limitation-discipline) through [§7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#74-voluntary-discontinuation-and-exit-rights); [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality) (*the public-authority counterpart of Freedom*); [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); and [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record) where concrete applications require collision handling.
 - Downstream: Frames the rights surface for equal status, education, self-ownership, publication and likeness control, agency, cooperative interaction, due process, standing, and anti-capture review.
@@ -983,7 +983,7 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 
 - **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only. It does **not** create, extend, or narrow any Chapter Six Rights-Floor provision.
 - **Compartments:** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
-- **Whole-system evaluations:** Must test anti-segmentation under [Chapter Eight §3.5 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#35-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
+- **Whole-system evaluations:** Must test anti-segmentation under [Chapter Eight §3.4 Assembly, Collective Organization, and Institutional Formation](core_08_a_system_alignment_certification_evaluation.md#34-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
 ##### 7.2.1 Aligned Self-Organization
 <a id="721-aligned-self-organization"></a>
@@ -1040,7 +1040,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 **Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 
-When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Eight §3.5.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#351-dissent-and-peaceful-protest). Until that check is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
+When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Eight §3.4.1 Dissent and Peaceful Protest](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest). Until that check is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
 
 **What this section does not change:**
 
@@ -1090,7 +1090,7 @@ This subsection does **not** import voluntary-discontinuation discipline into th
 - sexual-consent
 - commercial-service
 
-Whole-system evaluations must test these conditions under [Chapter Eight §3.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#34-voluntary-discontinuation-major-self-modification-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
+Whole-system evaluations must test these conditions under [Chapter Eight §3.3 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08_a_system_alignment_certification_evaluation.md#33-voluntary-discontinuation-major-self-modification-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. Continuity Aim: Introduction
@@ -1922,7 +1922,7 @@ Any claim about the matters below must be checked against what the whole system 
 
 The detailed evaluation factors and certification records are owned by:
 - **[Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[Chapter Eight §11 System Certification Record](core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
+- **[Chapter Eight §4 System Certification Record](core_08_b_system_alignment_certification_record_process.md#4-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
 
 That Chapter Eight process:

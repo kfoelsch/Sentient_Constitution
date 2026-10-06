@@ -75,13 +75,13 @@ This chapter states which **forum families** **supervise** which primary questio
 
 2. **System Alignment Certification** ([Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification))
    - Forum-supervised recognition, conditional recognition, validation, revalidation, withdrawal, and related certification-record outcomes under [Chapter Eight Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process).
-   - Component roles under [Part B §13](core_08_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles):
+   - Component roles under [Part B §5.1](core_08_b_system_alignment_certification_record_process.md#51-forum-supervision-and-component-roles):
      - **Technical** — specifications, methods, and evidence standards
      - **Integrity** — official alignment recognition and lead coordination
      - **Environment** — environmental-alignment component where material
      - other family component findings under this chapter’s routing
    - Sentients can challenge certification results, attach conditions, and reopen the file when needed — but a certification does **not** replace standing measurement.
-   - Important findings from a certification can count as **verified inputs** when Chapter Nine measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part B §15](core_08_b_system_alignment_certification_record_process.md#15-relationship-to-standing)).
+   - Important findings from a certification can count as **verified inputs** when Chapter Nine measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part B §7](core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing)).
 
 **Forum families** are the primary institutions through which this instrument **supervises** those tracks. They are distinct from routine executive administration of enacted rules.
 
@@ -89,23 +89,23 @@ This chapter states which **forum families** **supervise** which primary questio
 **Dispute sequencing.** Inside an already-authorized system, institution, or bounded decision domain, an ordinary dispute uses the published [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight) challenge and due-process path first. If that path produces a still-contested result, is missing, is captured, or cannot lawfully grant the needed relief, this chapter routes the matter by primary stake under **section 2**. **Integrity**, **Technical Forum Domains**, **Environment**, and **Constitutional** are default lead families when that is the primary stake — not exceptions that skip sequencing. Unfinished internal process, exhaustion labels, or a claim that internal review is unfinished must not stall those leads, displace their merits, or eat **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) clocks. Direct access remains available when delay would materially endanger rights, evidence, independence, or practical restoration.
 
 ```mermaid
-flowchart TD
+flowchart TB
   dispute[Ordinary dispute in an already-authorized system]
-  challengePath[Published Stakeholder System Participation challenge path]
+  challengePath[["Published Stakeholder System Participation challenge path<br/><br/>Outside this chapter"]]
   stillOpen["Still contested, missing, captured, or cannot grant relief"]
-  ch11[Chapter Twelve routes by primary stake]
+  route[Chapter Twelve routes by primary stake]
   lead["Lead family: Sentient, Technical, Institutional, Environment, Integrity, or Constitutional"]
   direct["Direct access if delay endangers rights, evidence, independence, or restoration"]
-  dispute --> challengePath
-  challengePath --> stillOpen
-  stillOpen --> ch11
-  ch11 --> lead
+  dispute -.-> challengePath
+  challengePath -.-> stillOpen
+  stillOpen --> route
+  route --> lead
   dispute --> direct
-  direct --> ch11
+  direct --> route
   style dispute fill:none,stroke:#64748b,color:#ffffff
   style challengePath fill:none,stroke:#0f766e,color:#ffffff
   style stillOpen fill:none,stroke:#ea580c,color:#ffffff
-  style ch11 fill:none,stroke:#ea580c,color:#ffffff
+  style route fill:none,stroke:#ea580c,color:#ffffff
   style lead fill:none,stroke:#ea580c,color:#ffffff
   style direct fill:none,stroke:#ea580c,color:#ffffff
 ```
@@ -463,7 +463,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
 
 **Alignment components.** **Institutional forums** hold reviewable institutional-mandate and Rights-Floor component authority in system-alignment certification and related proceedings where an institution is a necessary party, the operator or steward is institutional, or institutional mandate or supervised compliance is the primary stake.
 - **Integrity** forums remain the default official lead for whole-system constitutional alignment recognition and validation.
-- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
+- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#51-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Institutional forums** within their lawful scope.
 
@@ -503,7 +503,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
   - release-from-condition findings.
 - **Integrity** forums remain the default official lead for whole-system constitutional alignment recognition and validation.
 - Where material ecological exposure exists, timely Environment forum environmental-alignment findings are required component determinations; sequencing with Integrity lead coordination is governed by **section 3**.
-- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
+- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#51-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Provisional operational law.** The **provisional implementation operational law** framework in **section 4.7** applies to **Environment forums** within their lawful scope.
 
@@ -545,7 +545,7 @@ The **subsections** **below** **follow** **section** **2**’s **default** **ven
   - suspension or constraint recommendations within lawful scope;
   - referral to another forum family; or
   - certification to **Constitutional** forums where constitutional meaning, validity, or class-wide structural remedy is materially at issue.
-- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#13-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
+- Component detail for those proceedings lives in [Chapter Eight](core_08_b_system_alignment_certification_record_process.md#51-forum-supervision-and-component-roles) and must **implement, not narrow**, this allocation.
 
 **Supervisory coordination.** An **Integrity** forum that issues an **alignment** ruling retains lead responsibility for one coordinated record for that proceeding and must manage neutral coordination — including stays, sequencing, status review, and implementation milestones — until alignment remediation is achieved or the forum lawfully closes supervision.
 - Coordination must not convert the forum into party advocacy.

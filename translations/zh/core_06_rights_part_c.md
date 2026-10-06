@@ -124,7 +124,7 @@ flowchart TB
 - 对系统提出质疑的方式；
 - 问题得到修复的方式。
 
-如果系统达到**第十三条**（*享有可靠且可信赖系统的权利*）规定的重要性门槛，认证还须包括依据[第八章 §10 可信赖性与系统依赖完整性评估](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation)所作的可信赖性审查。
+如果系统达到**第十三条**（*享有可靠且可信赖系统的权利*）规定的重要性门槛，认证还须包括依据[第八章 §3.9.6 可信赖性与系统依赖完整性评估](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation)所作的可信赖性审查。
 
 **可争议性从有感知者一侧确保系统诚实：**认证会检查系统，但不能对系统作最终定论。每一位受到系统影响的有感知者仍享有：
 

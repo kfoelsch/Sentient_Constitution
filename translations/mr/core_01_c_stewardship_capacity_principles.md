@@ -1,653 +1,698 @@
 <a id="chapter-01-principles-and-constraints"></a>
 <a id="chapter-01-part-b-stewardship-and-governance"></a>
 <a id="chapter-01-part-c-stewardship-and-governance"></a>
-# अध्याय 01, भाग क: उत्तरदायी व्यवस्थापन आणि शासन
+# अध्याय ०१, भाग C: देखरेख आणि शासन
 
 <details>
-<summary><strong><span style="color: #2563eb;">संग्रहस्थान (असंक्रियात्मक): फाइल रचना आणि वाचन नियम</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">कॉर्पसमधील स्थान (कार्यकारी नाही): फाइलची रचना आणि वाचनाचे नियम</span></strong></summary>
 
-> खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही.
+> पुढील मजकूर केवळ वाचकांसाठी मार्गदर्शन आहे. या फाइलमध्ये किंवा इतर अध्यायांत अन्यत्र असलेल्या बंधनकारक जबाबदाऱ्यांमध्ये तो भर घालत नाही, त्यांना काढून टाकत नाही किंवा त्यांची व्याप्ती कमी करत नाही.
 >
-> ही फाइल [इंग्रजी अध्याय एक, भाग क](../../core_01_c_stewardship_capacity_principles.md) चा **वाचक-भाषा पायलट** आहे. संज्ञ संविधानाचा **बंधनकारक भाग नाही**. **दुसरे संविधान नाही**. **प्रेषण आवृत्ती नाही**. `SC-Corpus-2026.08.09` ला **पिन** आहे. हा अनुवाद आणि इंग्रजी मूळ यात फरक दिसला, तर क्रमांकित [`core_01_c_stewardship_capacity_principles.md`](../../core_01_c_stewardship_capacity_principles.md) जिंकते. वाचन क्रम आणि आवृत्ती मेटाडेटा [README.md](../../README.md) मध्ये राहतात. पद्धत आणि शब्दसूची: [translations/mr/README.md](README.md).
+> ही फाइल **Sentient Constitution** चा भाग आहे आणि इतर क्रमांकित `core_*` फाइल्ससोबत एकच दस्तऐवज म्हणून वाचल्यावरच **बंधनकारक** ठरते. यात **अध्याय एक, भाग C** (§§16–20: देखरेख, शासन, प्रोत्साहन-सुसंगती आणि हस्तगत करणे, तसेच एकात्मिक अनुप्रयोगाचा समारोप) समाविष्ट आहे.
 >
-> **मागील (या भाषेत):** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (अध्याय एक, भाग ब — §§6–8, परस्परक्रिया आणि अर्थनिर्णय).
->
-> **पुढील (या भाषेत):** [core_02_definition_structure.md](core_02_definition_structure.md) (अध्याय दोन — व्याख्या रचना).<br>
-> **वाचन चाप:** §9 उत्तरदायी व्यवस्थापन → §10 शासन → §11 प्रोत्साहन संरेखन आणि ताबा → §12 क्षमता → §13 बाजार रचना → §14 प्रणालीगत मूल्यमापन → **§15 एकीकृत अनुप्रयोग** (अध्याय शिखर).
+> **मागील:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md) (अध्याय एक, भाग B)  
+> **पुढील:** [core_02_definition_structure.md](core_02_definition_structure.md)<br>
+> **वाचनक्रम:** §16 देखरेख आणि वितरित आकलन → §17 देखरेखकर्त्याची भूमिका → §18 शासन → §19 प्रोत्साहन-सुसंगती आणि हस्तगत करणे → **§20 एकात्मिक अनुप्रयोग** (अध्यायाचा समारोप).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">वाचक मार्गदर्शन (असंक्रियात्मक): तत्त्व श्रेणीक्रम आणि वाचन चाप (भाग क)</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">वाचकांसाठी मार्गदर्शन (कार्यकारी नाही): तत्त्वांची श्रेणी आणि वाचनक्रम (भाग C)</span></strong></summary>
 
-> खालील मजकूर **फक्त वाचक मार्गदर्शन** आहे. तो या फाइलमध्ये किंवा इतर अध्यायांत बंधनकारक कर्तव्ये जोडत नाही, काढत नाही, किंवा आकुंचित करत नाही. प्रत्येक विभागाचे **मागोवा** आणि **व्याख्या · मूल्यमापन · अनुपालन** विजेट त्या ठिकाणी मार्ग नेतात जिथे प्रत्येक § एखादे पद भौतिक रीतीने हाक मारतो; हा ब्लॉक §§9–15 पूर्वीचा भाग-स्तरीय क्रॉसवॉक आहे.
+> पुढील मजकूर केवळ वाचकांसाठी मार्गदर्शन आहे. या फाइलमध्ये किंवा इतर अध्यायांत अन्यत्र असलेल्या बंधनकारक जबाबदाऱ्यांमध्ये तो भर घालत नाही, त्यांना काढून टाकत नाही किंवा त्यांची व्याप्ती कमी करत नाही. प्रत्येक विभागातील **Trace** आणि **Definitions · Assessment · Compliance** विजेट संबंधित § एखादी संज्ञा महत्त्वपूर्णरीत्या वापरतो त्या ठिकाणी मार्गदर्शन करतात; §§16–20 आधीचा हा भाग संपूर्ण भागासाठी परस्परसंदर्भ नकाशा आहे.
 
-**तत्त्व श्रेणीक्रम (भाग क).** तत्त्व-स्तरावर:
+**तत्त्वांची श्रेणी (भाग C).** तत्त्वांच्या स्तरावर:
 
-9. **[उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional)** भौतिक प्रणालींना संज्ञ संघटनेद्वारे दिशा देते — **स्तंभ 1** ([§9.1](#91-stewardship): परिणामी हाताळणी, चालवणे आणि सुधारणा) आणि **स्तंभ 2** ([§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development): समुदाय व संस्थात्मक प्रमाणावर क्षमता) — [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली कालांतराने टिकाऊ संवैधानिक संरेखनाकडे — विशेषतः **[सहभाग](core_05_apex_participation_leg.md#participation-constitutional)** (परिणामी भूमिका आणि आवाज) आणि **[देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional)** (वितरित समज, लेखापरीक्षण-योग्यता आणि आव्हानयोग्यता — देखरेखेला लेखापरीक्षण हवे; [प्रणाली-संरेखन प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification-constitutional) इतर मार्गांपैकी एक विशेषतः मोठी लेखापरीक्षण प्रक्रिया आहे) — [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खालील **सातत्य** उद्दिष्ट धरून.
-10. **[शासन](../../core_05_band_accountability.md#governance)** अधिकृत निर्णय, सहभाग आणि उत्तरदायित्व [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली रचते — विशेषतः प्राधिकार कसा वाटला आणि वापरला जातो याची **[देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional)**, आणि [§10.1](#101-governance-as-authorized-structure) खाली **प्राधिकार-प्रमाणित उत्तरदेयता**: अधिक अधिकृत शक्ती किंवा परिणामी भूमिका संवैधानिक उत्तरदायित्व आणि देखरेख उंचावते, कधीही खाली आणत नाही. [§10.2 कर्तव्य-विभाजन](#102-segregation-of-duties) कृती करणारा आणि तपासणारा वेगळे ठेवते. [§10.3 चालू न्यायोचिती](#103-ongoing-justification) त्या रचनांना हे संविधान अजून जुळते हे सिद्ध करत राहण्यास भाग पाडते. जिथे शासन आणि उत्तरदायी व्यवस्थापन टकरातील, तत्त्व-स्तरावर उत्तरदायी-व्यवस्थापन शिस्त नियंत्रण करते — जोपर्यंत **आवश्यकता** आणि **प्रमाणबद्धता** सीमाबद्ध, काल-मर्यादित अपवाद सुधार-मार्गांसह स्पष्ट न्याय्य ठरवत नाहीत. संक्रियात्मक प्राधिकार आणि करार-स्तरीय अपेक्षा **अध्याय बारा**च्या मालकीच्या राहतात.
-11. **[प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture)** प्रोत्साहन रचना, प्रतिनिधी सचोटी, लघु-क्षितिज दोष, बक्षीस-मार्ग सुधार आणि ताबा-प्रतिक्रिया यासाठी तत्त्व-स्तरीय शिस्त पुरवते.
-12. **[सामायिक-प्रणाली क्षमता](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** चांगले उत्तरदायी व्यवस्थापन, शासन आणि प्रोत्साहने कालांतराने ज्यावर येतात ते आहे — संज्ञ प्राणी आणि सामायिक प्रणालींना संवैधानिक रीतीने आवश्यक काम खरोखर, आव्हानयोग्य रीतीने पूर्ण करता येण्याची क्षमता. ती **समुन्नती**कडे साधन आहे, इतर सर्व गोष्टींवर मात करणारे पत्ता नाही. **[§12.1](#121-productive-capacity-instrumental-good)** आणि **[§12.2](#122-constitutional-efficiency)** तिचे दोन मुख्य पैलू सांगतात.
-13. **[बाजार रचना](../../core_05_band_accountability.md#market-structure-constitutional)** [§13](#13-market-structure) वर ती संकेंद्रण-निरोध शिस्त पुरवते जी ती क्षमता व्यवहारात आव्हानयोग्य ठेवते.
-14. **[प्रणालीगत मूल्यमापन अपेक्षा](#14-systemic-evaluation-requirement)** अनुपालन किंवा शासन दावे उभे राहण्यापूर्वी संपूर्ण-प्रणाली व्याप्ती, अवलंबित्व आणि प्रोत्साहन संरेखन सत्यापित करते — **देखरेख** चतुष्क पायाखाली लेखापरीक्षणासाठी तत्त्व-स्तरीय दिशा म्हणून, [प्रणाली-संरेखन प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification-constitutional) इतर मार्गांपैकी एक विशेषतः मोठी लेखापरीक्षण प्रक्रिया म्हणून धरून.
-15. **[एकीकृत अनुप्रयोग](#15-integrated-application)** अध्यायाचे शिखर आहे: नंतरचे अध्याय या अध्यायाच्या एकीकृत-मूल्य चौकटीतून वाचावेत.
+13. **[देखरेख](core_05_band_continuity.md#stewardship)** संवेदनशील अस्तित्वांच्या संघटनेद्वारे भौतिक प्रणालींना दिशा देते — **स्तंभ 1** ([§17](#17-consequential-stewardship-the-steward-role): परिणामकारक प्रत्यक्ष संचालन आणि सुधारणा), **स्तंभ 2** ([सक्रिय देखरेख](#16-pillar-2-proactive-stewardship): अडचण लवकर ओळखून टाळता येण्याजोग्या विलंबाशिवाय सोडवणे), आणि **स्तंभ 3** ([§16.1](#161-distributed-understanding) · [§16.2](#162-institutional-development): समुदाय आणि संस्थात्मक स्तरावरील क्षमता) — [संवैधानिक चतुष्टया](core_00_preamble.md#constitutional-tetrad) अंतर्गत कालांतराने टिकणारी घटनात्मक सुसंगती साधण्यासाठी; विशेषतः **[सहभाग](core_05_apex_participation_leg.md#participation-constitutional)** (परिणामकारक भूमिका आणि आवाज) आणि **[देखरेख-नियंत्रण](core_05_apex_oversight_leg.md#oversight-constitutional)** (वितरित आकलन, लेखापरीक्षणक्षमता आणि आक्षेप घेण्याची क्षमता — देखरेखीसाठी लेखापरीक्षण आवश्यक; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) इतरांपैकी एक विशेष मोठी लेखापरीक्षण प्रक्रिया आहे) — तसेच [दोन घटनात्मक उद्दिष्टां](core_00_preamble.md#two-constitutional-aims) अंतर्गत **सातत्य** हे उद्दिष्टही.
+14. **[परिणामकारक देखरेख](#17-consequential-stewardship-the-steward-role)** म्हणजे देखरेखकर्त्याची भूमिका स्वतः: भौतिक प्रणालीवर परिणामकारक संचालन, देखभाल, देखरेख किंवा सुधारणा करणाऱ्या कोणालाही लागू होणारी प्रत्यक्ष कर्तव्ये, मानके आणि संरक्षणे — **स्तंभ 1** चे कार्यरूप, तसेच सामायिक मानक, दबावाखाली सुसंगती आणि भूमिकेच्या मर्यादेत निरीक्षणक्षमता.
+15. **[शासन](core_05_band_accountability.md#governance)** [संवैधानिक चतुष्टया](core_00_preamble.md#constitutional-tetrad) अंतर्गत अधिकृत निर्णयप्रक्रिया, सहभाग आणि उत्तरदायित्व यांना संरचना देते — विशेषतः अधिकाराचे वाटप आणि वापर कसा होतो यावर **[देखरेख-नियंत्रण](core_05_apex_oversight_leg.md#oversight-constitutional)**, तसेच [§18.1](#181-governance-as-authorized-structure) अंतर्गत **अधिकाराच्या प्रमाणात उत्तरदायित्व**: अधिकृत शक्ती किंवा परिणामकारक भूमिका जितकी मोठी, तितकी घटनात्मक जबाबदारी आणि देखरेख वाढते; ती कधीही कमी होत नाही. [§18.3 कर्तव्यांचे विभाजन](#183-segregation-of-duties) कृती करणाऱ्या व्यक्तीलाच ती तपासण्यापासून रोखते. [§18.4 सातत्यपूर्ण समर्थन](#184-ongoing-justification) या व्यवस्थांनी अजूनही या संविधानाशी जुळते असल्याचे सातत्याने सिद्ध करणे आवश्यक ठरवते. शासन आणि देखरेख यांत संघर्ष झाल्यास, **आवश्यकता** आणि **प्रमाणबद्धता** मर्यादित, कालबद्ध अपवादाला सुधारण्याचे मार्गांसह स्पष्टपणे समर्थन देत नसतील तर तत्त्वांच्या स्तरावर देखरेखीची शिस्त लागू राहते. कार्यकारी अधिकृतता आणि करार-स्तरीय आवश्यकता **अध्याय तेरा** यांच्या अखत्यारीत राहतात.
+16. **[प्रोत्साहन-सुसंगती आणि प्रणालीचे हस्तगत करणे](#19-incentive-alignment-and-system-capture)** प्रोत्साहनरचना, पर्यायी मोजमापांची अखंडता, अल्पकालीन दृष्टीतील दोष, बक्षीसमार्ग दुरुस्ती आणि हस्तगत करण्याला प्रतिसाद यांसाठी तत्त्व-स्तरीय शिस्त पुरवते.
+17. **[एकात्मिक अनुप्रयोग](#20-integrated-application)** हा अध्यायाचा समारोप आहे: पुढील अध्याय या अध्यायाच्या एकात्मिक-मूल्य चौकटीतून वाचले जातात.
 
 </details>
 
 <br>
 
-<a id="9-stewardship-and-distributed-understanding"></a>
+<a id="16-stewardship-in-depth"></a>
 
-### 9. उत्तरदायी व्यवस्थापन आणि वितरित समज
+### 16. देखरेखीचा सविस्तर विचार
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">संदर्भसूत्र</span></strong></summary>
 
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग** पायासाठी अध्याय एकाचे प्राथमिक घर (परिणामी भूमिका आणि आवाज; सामान्य अपेक्षा, फक्त [प्रभावित पक्षांचा प्रणालीगत सहभाग](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) नाही), **देखरेख** पाया, आणि **समयबद्धता** पाया (सक्रिय दुरुस्ती वेग); [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** उद्दिष्ट (सहभाग, कर्तृत्व आणि शैक्षणिक मार्ग); **सातत्य** उद्दिष्ट (संस्थागत शिक्षण, दुरुस्ती क्षमता आणि टिकाऊ उत्तरदायी व्यवस्थापन).
-- वरून: तत्त्वे: [2. पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); आणि [§12 सामायिक-प्रणाली क्षमता](#12-shared-system-capacity).
-- पुढे: [6. प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.3 टाळता येणाऱ्या भाराचे न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden) धरून); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§11.1.3 उत्तरदायी व्यवस्थापन आणि संचालक अनुप्रयोग](#1113-stewardship-and-operator-application).
-- पुढे: [§11.1.4 भूमिका-गहराई आणि भौतिक-जबाबदारी मार्ग](#1114-role-depth-and-material-responsibility-pathways).
-- पुढे: [§5 स्वातंत्र्य (सीमाबद्ध कर्तृत्व)](core_01_a_values_principles.md#5-freedom-bounded-agency), जे परिणामी उत्तरदायी व्यवस्थापन, वितरित समज, अर्थपूर्ण सहभाग आणि दुरुस्ती क्षमता भौतिक अवलंबित्वाखाली खरी राहण्यावर अवलंबून आहे.
-- पुढे: [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*देखरेखेखाली एक विशेषतः मोठी लेखापरीक्षण प्रक्रिया — एकमेव लेखापरीक्षण घर नाही*); [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*प्रस्थिति परिणाम — विश्वास-, भूमिका- आणि मान्यता-पात्रता — हा उपविभाग तत्त्व-स्तरीय पाया म्हणून अंमलात आणतो*).
-- पुढे: [अध्याय अकरा §1 — उद्देश आणि भूमिका](../../core_12_forum.md#1-purpose-and-role--participation-architecture) आणि [§4 — मंच-कुटुंब व्याख्या](../../core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication) (*मंच-कुटुंबे आव्हानयोग्य आव्हान, उपचार क्रम, मूल-कारण शिक्षण आणि या विभागाशी जुळलेले सक्रिय शासन यासाठी सहभाग आणि देखरेख वास्तुकला वाहून नेतात*); अंगीकृत मंच संचालनासाठी [corpus_forum.md](../../corpus_forum.md).
-- पुढे: शिक्षण, प्रभावित पक्षांचा प्रणालीगत सहभाग, पारदर्शकता, बोधगम्यता, लेखापरीक्षण आणि सत्यापन, तसेच भौतिक जबाबदारीतील भूमिका-गहराई मार्ग यांसाठी अधिकार-सतह घडवतो.
-  - विशेषतः [अनुच्छेद III: जिवंत राहणे आणि समान शैक्षणिक पोहोच](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access), [अनुच्छेद VI: संज्ञ-केंद्रित शिक्षणाचा अधिकार](../../core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [अनुच्छेद X: आत्मनिर्णय आणि कर्तृत्व](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [अनुच्छेद XII: प्रभावित पक्षांचा प्रणालीगत सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [अनुच्छेद XIX: प्रस्थिति आणि सहभाग स्थिती](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status), [अनुच्छेद XX: आंतरकार्यक्षमता, सुवाह्यता, हालचाल, आश्रय आणि निर्गमन सचोटी](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity), [अनुच्छेद XXI: बोधगम्यता आणि गुंतागुंतीचे उत्तरदायी व्यवस्थापन](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship), आणि [अनुच्छेद XXIII: संवैधानिक अर्थनिर्णय, समीक्षा आणि ताबा-निरोध संरक्षणे](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - सोबत वाचा: [अध्याय बारा §5 — अधिकृत भूमिका, क्षमता विकास आणि योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution) आणि संक्रियात्मक भूमिका मार्ग तसेच उत्तरदायी-व्यवस्थापन-विकास मार्गांसाठी **[corpus_systems.md](../../corpus_systems.md), CS-4 — गंभीर प्रणालींचे उत्तरदायी व्यवस्थापन**.
-- उपविभाग (वाचन क्रम): [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship) · [§9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक](#911-shared-stewardship-standard) · [§9.1.2 सममित खर्चिक बंधने](#912-symmetric-costly-constraints) · [§9.1.3 भूमिका-व्याप्ती प्रेक्षणीयता](#913-role-scoped-observability) · [§9.2 वितरित समज](#92-distributed-understanding) (प्रमाणावर क्षमतेचा समुदाय पैलू) · [§9.3 संस्थागत विकास](#93-institutional-development) (संघटनात्मक पैलू) · [§9.4 खुलेपणा आकांक्षा](#94-openness-aspiration) · [§9.5 संरेखित स्व-संगठन](#95-aligned-self-organization) · [§9.6 अवनती-निरोध प्रक्रिया](#96-process-character-discipline).
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **सहभाग** या स्तंभासाठी अध्याय एकमधील मुख्य आधार (परिणामकारक भूमिका आणि आवाज; सामान्य आवश्यकता, केवळ [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight) नव्हे), **देखरेख-नियंत्रण** स्तंभ, आणि **वेळेवर कृती** स्तंभ (सक्रिय दुरुस्तीचा वेग); [भौतिक हित](core_00_preamble.md#material-stake) यानुसार प्रमाण.
+- यासोबत वाचा: [दोन घटनात्मक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समृद्धी** उद्दिष्ट (सहभाग, स्वायत्त कृती आणि शैक्षणिक मार्ग); **सातत्य** उद्दिष्ट (संस्थात्मक शिक्षण, दुरुस्तीक्षमता आणि टिकाऊ देखरेख).
+- पूर्वाधार: तत्त्वे: [3. मूलभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity); आणि [§9 सामायिक प्रणाली क्षमता](core_01_a_values_principles.md#9-shared-system-capacity).
+- पुढील अनुप्रयोग: [13. घटनात्मक संघर्ष निराकरण प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.3 टाळता येण्याजोगा भार कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) यासह); [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§19.1.3 देखरेख आणि ऑपरेटरवरील अनुप्रयोग](#1913-stewardship-and-operator-application).
+- पुढील अनुप्रयोग: [§19.1.4 भूमिका-खोली आणि भौतिक जबाबदारीचे मार्ग](#1914-role-depth-and-material-responsibility-pathways).
+- पुढील अनुप्रयोग: [§7 स्वातंत्र्य (मर्यादित स्वायत्त कृती)](core_01_a_values_principles.md#7-freedom-bounded-agency), जे भौतिक अवलंबित्व असतानाही परिणामकारक देखरेख, वितरित आकलन, अर्थपूर्ण सहभाग आणि दुरुस्तीक्षमता प्रत्यक्ष राहण्यावर अवलंबून आहे.
+- पुढील अनुप्रयोग: [अध्याय आठ — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*देखरेखीखालील एक विशेष मोठी लेखापरीक्षण प्रक्रिया — लेखापरीक्षणाचा एकमेव आधार नव्हे*); [अध्याय नऊ — योगदान, उल्लंघन आणि दर्जा प्रतिमान](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*दर्जा परिणाम — विश्वास, भूमिका आणि मान्यतेसाठी पात्रता — या उपविभागाचा तत्त्व-स्तरीय पाया म्हणून अंमल करतो*).
+- पुढील अनुप्रयोग: [अध्याय बारा §1 — उद्देश आणि भूमिका](core_12_forum.md#1-purpose-and-role--participation-architecture) आणि [§4 — मंच-कुटुंबांच्या व्याख्या](core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication) (*मंच-कुटुंबे या विभागाशी सुसंगतपणे आक्षेपार्ह आव्हान, उपाययोजनांचा क्रम, मूळ कारणांपासून शिकणे आणि सक्रिय शासनासाठी सहभाग व देखरेखीची संरचना पुरवतात*); स्वीकारलेल्या मंच-कार्यपद्धतींसाठी [corpus_forum.md](corpus_forum.md).
+- पुढील अनुप्रयोग: शिक्षण, Stakeholder System Participation, पारदर्शकता, आकलनीयता, लेखापरीक्षण आणि पडताळणी, तसेच भौतिक जबाबदारीकडे नेणारे भूमिका-खोलीचे मार्ग यांसंबंधी अधिकारांचा आवाका घडवतो.
+  - विशेषतः [अनुच्छेद III: अस्तित्व आणि अत्यावश्यक प्रवेश](core_06_rights_part_a.md#article-iii-survival-and-essential-access), [अनुच्छेद IV: संवेदनशील-केंद्रित शिक्षणाचा अधिकार](core_06_rights_part_a.md#article-iv-right-to-sentient-centered-education), [अनुच्छेद X: स्वनिर्णय, स्वायत्त कृती आणि सहभाग](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [अनुच्छेद XII: भागधारकांची प्रणालीतील भागीदारी, प्रतिनिधित्व आणि योग्य प्रक्रिया](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [अनुच्छेद XIX: दर्जा आणि सहभाग स्थिती](core_06_rights_part_d.md#article-xix-standing-and-participation-status), [अनुच्छेद XXI: आंतरकार्यक्षमता, वहनक्षमता, हालचाल, आश्रय आणि निर्गमनाची अखंडता](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity), [अनुच्छेद XXII: आकलनीयता आणि गुंतागुंतीची देखरेख](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship), आणि [अनुच्छेद XXIV: घटनात्मक अर्थनिर्णय, पुनरावलोकन आणि हस्तगत-विरोधी संरक्षणे](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+  - यासोबत वाचा: [अध्याय तेरा §5 — अधिकृत भूमिका, कौशल्यविकास आणि योगदान](core_13_governance.md#5-authorized-roles-competency-development-and-contribution) आणि **[corpus_systems.md](corpus_systems.md), CS-4 — महत्त्वपूर्ण प्रणालीची देखरेख**; कार्यकारी भूमिका-पथ आणि देखरेख-विकास मार्गांसाठी.
+- उपविभाग (वाचनक्रम): [§16.1 वितरित आकलन](#161-distributed-understanding) (मोठ्या प्रमाणावरील क्षमतेचा समुदायविषयक पैलू) · [§16.2 संस्थात्मक विकास](#162-institutional-development) (संघटनात्मक पैलू) · [§16.3 खुलेपणाची आकांक्षा](#163-openness-aspiration).
+- यासोबत वाचा: [§17 परिणामकारक देखरेख](#17-consequential-stewardship-the-steward-role) (*देखरेखकर्त्याची भूमिका स्वतः — स्वतंत्र विभाग म्हणून उन्नत; यात स्तंभ 1 मधील प्रत्यक्ष संचालन, देखभाल, देखरेख आणि सुधारणेची कर्तव्ये, तसेच [§17.1](#171-shared-stewardship-standard), [§17.2](#172-alignment-under-pressure), [§17.3](#173-logging-the-role-not-the-steward), [§17.4 सुसंगत स्व-संघटन](#174-aligned-self-organization), जी ही शिस्त औपचारिक भूमिकेच्या पलीकडे नेते, आणि [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist) समाविष्ट आहेत*)।
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
 
-- [सामरिक उत्तरदायी-व्यवस्थापन कर्तव्य](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [O](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [M](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
-- [वितरित समज](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [O](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [M](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](../../core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [धोरणात्मक देखरेख बंधन](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [वितरित आकलन](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
 - [सहभाग](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [शैक्षणिक कर्तृत्व](../../core_05_band_participation.md#educational-agency) · [O](../../core_05_band_accountability.md#educational-agency-o) · [M](../../core_05_band_participation.md#educational-agency-a) · [A](../../core_05_band_participation.md#educational-agency-a) · [C](../../core_05_band_participation.md#educational-agency-c)
-- [पारदर्शकता](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
-- [भौतिकता](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [सुलभता](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [टाळता येणारा भार](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [ज्ञानविषयक सचोटी](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
+- [अर्थपूर्ण स्वायत्त कृती](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [आक्षेपार्हता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [शैक्षणिक स्वायत्त कृती](core_05_band_participation.md#educational-agency) · [O](core_05_band_participation.md#educational-agency) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
+- [पारदर्शकता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [भौतिकता](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [अवलंबित्व](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [सुलभता](core_05_band_participation.md#accessibility) · [O](core_05_band_participation.md#accessibility) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
+- [सुरक्षा (घटनात्मक मर्यादा)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [सत्य (घटनात्मक मर्यादा)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: दोन कल्पना हा विभाग एकत्र धरतात. पहिली, संज्ञ प्राण्यांच्या आयुष्यांना प्रभावित करणाऱ्या भौतिक प्रणालींना चांगल्या चालवण्यासाठी संज्ञ संघटना हवी — तज्ज्ञांचे बंद पुरोहित-मंडळ नाही. दुसरी, त्या संघटनेने **प्रमाणावर क्षमता** उभारावी: व्यक्तींसाठी परिणामी कामात खरे मार्ग, समस्या ओळखून विरोध करण्याइतकी समुदाय समज, आणि जागी गोठण्याऐवजी शिकत राहणाऱ्या संस्था. [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship) ते [§9.6 अवनती-निरोध प्रक्रिया](#96-process-character-discipline) ती शिस्त वाहून नेतात, सुरक्षा परवानगी देईल तेव्हा खुलेपणा, स्व-संगठित संवैधानिक काम, आणि अवनत प्रक्रियेवरील मर्यादा धरून; **[§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline)** त्याच उत्तरदायी-व्यवस्थापन चौकटीत शासन पुढे नेते — स्पष्ट मर्यादांसह, जेणेकरून हा विभाग सुरक्षा, सत्य, न्याय्य गोपनीयता, किंवा अध्याय सहात हमी दिलेले विशिष्ट अधिकार अधिरोहित करू नये.*
+*सोप्या शब्दांत: तीन कल्पना हा विभाग एकत्र बांधतात. प्रथम, संवेदनशील अस्तित्वांच्या जीवनावर भौतिक परिणाम करणाऱ्या प्रणाली चांगल्या प्रकारे चालवण्यासाठी संवेदनशील अस्तित्वांची संघटित सहभागिता आवश्यक आहे — तज्ज्ञांचा बंदिस्त पुजारीवर्ग नव्हे. दुसरे, चांगले देखरेखकर्ते नुकसान होईपर्यंत कृतीची वेळ येण्याची वाट पाहत नाहीत — समस्या लहान असतानाच ते ओळखतात, योग्य व्यक्तींकडे पोहोचवतात आणि विलंब स्वतःच हानीकारक होण्यापूर्वी सोडवतात. तिसरे, या संघटनेने **मोठ्या प्रमाणावर क्षमता** घडवली पाहिजे: व्यक्तींना परिणामकारक कामापर्यंत पोहोचण्याचे खरे मार्ग, समस्या ओळखून प्रतिकार करण्याइतके समुदायाचे आकलन, आणि ठप्प न होता शिकत राहणाऱ्या संस्था.*
 
-त्या दोन कल्पना या विभागाचे दोन स्तंभ आहेत. एकत्र, दोन्ही स्तंभ [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) चे **सहभाग**, **देखरेख** आणि **समयबद्धता** पाया तत्त्व-स्तरावर वाहून नेतात, [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित, आणि [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) पुढे नेतात.
+<a id="16-limits"></a>
+देखरेख मर्यादित असते. **सुरक्षा**, **सत्य**, **आवश्यकता**, **प्रमाणबद्धता**, **टाळता येण्याजोगा भार**, आणि **ज्ञानमीमांसात्मक अखंडता** ही कर्तव्ये न्याय्य प्रमाणात, प्रामाणिक आणि वैध सुरक्षाविषयक गरजांचा आदर करणारी ठेवण्यासाठी मर्यादा ठरवतात — खालील स्तंभ या मर्यादांमध्ये कार्य करतात, त्यांना वळसा घालून नाही.
 
-**स्तंभ 1 — परिणामी उत्तरदायी व्यवस्थापन ([§9.1](#91-stewardship)):**
-- संज्ञ प्राण्यांना भौतिक रीतीने प्रभावित करणाऱ्या सामायिक प्रणालींना संज्ञ हाताळणी, देखभाल, देखरेख आणि सुधारणा हवी — [**सामरिक उत्तरदायी-व्यवस्थापन कर्तव्य**](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional), [**अर्थपूर्ण कर्तृत्व**](../../core_05_band_participation.md#meaningful-agency)
-- अभिलेख आणि मार्ग जे इतर सत्यापित आणि आव्हान देऊ शकतात — [**लेखापरीक्षण-योग्यता**](../../core_05_band_oversight.md#auditability), [**आव्हानयोग्यता**](../../core_05_band_accountability.md#contestability)
-- **देखरेख** चतुष्क पायाखाली, देखरेखेला लेखापरीक्षण हवे; [प्रणाली-संरेखन प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification-constitutional) इतर मार्गांपैकी एक विशेषतः मोठी, उच्च-दावा लेखापरीक्षण प्रक्रिया आहे — एकमेव लेखापरीक्षण घर नाही (**अनुच्छेद XVI**)
+संवेदनशील अस्तित्वांची संघटना, सक्रिय देखरेख आणि मोठ्या प्रमाणावर क्षमता हे या विभागाचे तीन स्तंभ आहेत. तिन्ही स्तंभ मिळून तत्त्वांच्या स्तरावर [संवैधानिक चतुष्टया](core_00_preamble.md#constitutional-tetrad) चे **सहभाग**, **देखरेख-नियंत्रण** आणि **वेळेवर कृती** हे पैलू उचलतात, [भौतिक हित](core_00_preamble.md#material-stake) यानुसार प्रमाण ठरवतात आणि [दोन घटनात्मक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) पुढे नेतात.
 
-**स्तंभ 2 — प्रमाणावर क्षमता ([§9.2](#92-distributed-understanding) · [§9.3](#93-institutional-development)):**
-- उत्तरदायी व्यवस्थापनाने प्रभावित समुदायांसाठी समज आणि आव्हान व्यवहार्य बनवावे — [**शैक्षणिक कर्तृत्व**](../../core_05_band_participation.md#educational-agency), [**पारदर्शकता**](../../core_05_band_oversight.md#transparency)
-- संघटना अभिप्राय, सुधार आणि राखलेली क्षमता द्वारे शिकत राहतात, जिथे मापन आधार देते तिथे कालांतराने फरकाचे संरचित निरीक्षण धरून (**सांख्यिकीय प्रक्रिया नियंत्रण** सारखे नमुने सुप्रसिद्ध अंमलबजावणी आहेत, सार्वत्रिक अपेक्षा नाहीत)
-- **समस्यांपेक्षा पुढे राहा:** चांगले व्यवस्थापक अडचण लवकर पकडतात, आपल्या भूमिकेला योग्य वेळेत उचलतात, आणि टाळता येणाऱ्या विलंबावर बसून न राहता दुरुस्ती सुरू करतात.
+<br>
+
+```mermaid
+flowchart TB
+    P1["स्तंभ 1 — परिणामकारक देखरेख<br/><br/>§17: भौतिक प्रणालींचे प्रत्यक्ष संचालन, देखभाल, देखरेख आणि सुधारणा"]
+    P2["स्तंभ 2 — सक्रिय देखरेख<br/><br/>अडचण लवकर ओळखा, भूमिकेला साजेशा वेळेत पुढे मांडा आणि टाळता येण्याजोग्या विलंबाशिवाय सुधारणा सुरू करा"]
+    subgraph P3G["स्तंभ 3 — मोठ्या प्रमाणावर क्षमता"]
+        P3a["वितरित आकलन<br/><br/>§16.1: समुदायाचा पैलू — प्रभावित समुदायांना आकलन आणि आक्षेप घेणे व्यवहार्य असणे"]
+        P3b["संस्थात्मक विकास<br/><br/>§16.2: संघटनात्मक पैलू — अभिप्राय आणि दुरुस्तीद्वारे शिकत राहणाऱ्या संस्था"]
+    end
+    TETRAD["संवैधानिक चतुष्टय<br/><br/>सहभाग, देखरेख आणि वेळेवर कृतीचे पैलू; भौतिक हितानुसार प्रमाणित"]
+    P1 --> P2 --> P3a --> TETRAD
+    P2 --> P3b --> TETRAD
+    style P1 fill:none,stroke:#16a34a,color:#ffffff
+    style P2 fill:none,stroke:#64748b,color:#ffffff
+    style P3a fill:none,stroke:#0f766e,color:#ffffff
+    style P3b fill:none,stroke:#0f766e,color:#ffffff
+    style TETRAD fill:none,stroke:#2563eb,color:#ffffff
+```
+
+**स्तंभ 1 — परिणामकारक देखरेख ([§17 परिणामकारक देखरेख](#17-consequential-stewardship-the-steward-role)):**
+- संवेदनशील अस्तित्वांवर भौतिक परिणाम करणाऱ्या सामायिक प्रणालींना संवेदनशील अस्तित्वांकडून प्रत्यक्ष संचालन, देखभाल, देखरेख आणि सुधारणा आवश्यक असते — [**धोरणात्मक देखरेख बंधन**](core_05_band_continuity.md#strategic-stewardship-obligation), [**अर्थपूर्ण स्वायत्त कृती**](core_05_band_participation.md#meaningful-agency)
+- इतरांना पडताळता आणि आव्हान देता येतील अशा नोंदी आणि पुनरावलोकनाचे मार्ग — [**लेखापरीक्षणक्षमता**](core_05_band_oversight.md#auditability), [**आक्षेपार्हता**](core_05_band_accountability.md#contestability)
+- चतुष्टयाच्या **देखरेख** पैल्यानुसार देखरेखीसाठी लेखापरीक्षण आवश्यक आहे; [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) ही इतरांपैकी एक विशेष मोठी आणि उच्च-दांवाची लेखापरीक्षण प्रक्रिया आहे — लेखापरीक्षणाचा एकमेव आधार नाही (**अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*))
+
+<a id="16-pillar-2-proactive-stewardship"></a>
+**स्तंभ 2 — सक्रिय देखरेख:**
+सक्रिय देखरेखकर्ते उद्भवणाऱ्या समस्या आणि विसंगती तीन प्रकारे हाताळतात:
+- **वाढण्याआधी ओळखा** — समस्या लहान असतानाच चांगले देखरेखकर्ते विसंगती ओळखतात; त्या आपोआप उघड होण्याची वाट पाहत नाहीत
+- **स्तराला योग्य अशा वेळापत्रकात पुढे न्या** — जे आढळले ते दडपून न ठेवता किंवा नियमित बाबींना गरजेपेक्षा जास्त वर न पाठवता, भूमिकेच्या जोखमीनुसार ठरवलेल्या मुदतीत ते वाढवून मांडा
+- **फक्त खूण करू नका, पूर्ण निराकरण करा** — समस्या मांडल्यानंतर टाळता येण्याजोग्या विलंबाशिवाय दुरुस्ती सुरू करा; हा चतुष्टयाच्या **वेळेवर कृती** पैलूचा कार्यकारी आविष्कार आहे ([**वेळेवर कृती**](core_05_apex_timeliness_leg.md#timeliness-constitutional))
+- **भूमिकेचे कायमचे कर्तव्य, वरून जोडलेली बाब नव्हे:** [§17 परिणामकारक देखरेख](#17-consequential-stewardship-the-steward-role) मध्ये परिभाषित देखरेखकर्त्याची भूमिका नुकसान किंवा विसंगती दिसू लागल्यानंतर लक्षणांवर प्रतिक्रियात्मक उपाय करण्यापेक्षा सक्रिय शासन, प्रणालीची रचना आणि घटनात्मक सुसंगती यांना प्राधान्य देते — हा स्तंभ स्वतंत्र प्रक्रियेकडे सोपवलेला नसून त्या भूमिकेचे कायमचे कर्तव्य आहे
+
+**स्तंभ 3 — मोठ्या प्रमाणावर क्षमता ([§16.1 वितरित आकलन](#161-distributed-understanding) · [§16.2 संस्थात्मक विकास](#162-institutional-development)):**
+- देखरेखीमुळे प्रभावित समुदायांना आकलन आणि आक्षेप घेणे व्यवहार्य झाले पाहिजे — [**शैक्षणिक स्वायत्त कृती**](core_05_band_participation.md#educational-agency), [**पारदर्शकता**](core_05_band_oversight.md#transparency)
+- अभिप्राय, दुरुस्ती आणि टिकवून ठेवलेल्या कौशल्यांद्वारे संस्था शिकत राहतात; मोजमाप उपयोगी ठरते तिथे कालांतराने होणाऱ्या बदलांचे संरचित निरीक्षणही त्यात येते (**सांख्यिकीय प्रक्रिया नियंत्रण** यांसारखे नमुने परिचित अंमलबजावणी आहेत, सार्वत्रिक आवश्यकता नाहीत)
 
 <a id="when-day-to-day-stewardship-is-not-enough"></a>
-**जेव्हा रोजचे उत्तरदायी व्यवस्थापन पुरेसे नसते:**
-- **मोठे वाद:** जेव्हा संज्ञ प्राण्यांना निर्णयाला खरे आव्हान, स्पष्ट दुरुस्ती क्रम, किंवा पुनरावृत्त नमुन्यातून शिकण्याचा मार्ग हवा असेल, ते काम [अध्याय अकरा §1 — उद्देश आणि भूमिका](../../core_12_forum.md#1-purpose-and-role--participation-architecture) आणि [§4 — मंच-कुटुंब व्याख्या](../../core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication) खाली **मंच-कुटुंबांकडे** जाते. ती मंच कशी चालतात याचे तपशील [corpus_forum.md](../../corpus_forum.md) मध्ये आहेत.
-- **पाठबळ, पर्याय नाहीत:** समीक्षा आणि सुधार बंधनकारक राहतात. ते सक्रिय रचना, भूमिका मार्ग, प्रेक्षणीयता आणि दुरुस्ती क्षमता यांची जागा घेत नाहीत जी हानी दिसण्यापूर्वी अपेक्षित संवैधानिक विसंरेखन रोखतात.
+**दैनंदिन संरक्षकत्व पुरेसे नसते तेव्हा:**
+संरक्षकत्व ही पहिली संरक्षणरेषा आहे, एकमेव नाही. तीन वेगवेगळ्या प्रश्नांसाठी तीन वेगवेगळी ठिकाणे आहेत; त्यांपैकी कोणतेही दुसऱ्याची जागा घेत नाही:
+- **आधीपासून अधिकृत असलेल्या प्रणालीतील वाद — [हितधारक प्रणाली सहभाग](core_05_band_participation.md#stakeholder-status-and-weight):**
+  - प्रभावित sentient प्रथम प्रकाशित हितधारक प्रणाली सहभाग आव्हान-मार्ग वापरतात; त्यात सहभाग, प्रतिनिधित्व, आव्हानक्षमता आणि योग्य प्रक्रिया येतात.
+  - हे संरक्षण महत्त्वपूर्णरीत्या प्रभावित होणाऱ्या प्रत्येक sentient ला देय आहे.
+  - आधीपासून अधिकृत असलेल्या प्रणाली, संस्था आणि निर्णय-क्षेत्रांच्या आत हे संरक्षण कार्य करते.
+- **हितधारक प्रणाली सहभागाने न सुटणारे वाद — [मंच पुनरावलोकन](core_12_forum.md#dispute-sequencing):**
+  - हितधारक प्रणाली सहभागाचा आव्हान-मार्ग वादग्रस्तच राहिला, अनुपलब्ध किंवा काबीज केलेला असेल, किंवा दिलासा देऊ शकत नसेल, तर प्राथमिक हितानुसार प्रकरण [अध्याय बारा §1 — उद्देश आणि भूमिका](core_12_forum.md#1-purpose-and-role--participation-architecture) आणि [§4 — मंच-कुटुंबांच्या व्याख्या](core_12_forum.md#4-forum-family-definitions--accountability-through-adjudication) अंतर्गत स्वतंत्र **मंच-कुटुंबांकडे** पाठवले जाते.
+  - येथे sentient ना निर्णयाला आव्हान देण्याचा खरा मार्ग, स्पष्ट दुरुस्ती आदेश, किंवा पुन्हा पुन्हा दिसणाऱ्या नमुन्यातून शिकण्याची संधी मिळते.
+  - प्राथमिक हित संवैधानिक मजकुराचा अर्थ किंवा वैधता, अथवा कायदेशीर अधिकाराच्या पलीकडील कृती असेल, तर प्रमुख कुटुंब [संवैधानिक मंच](core_12_forum.md#46-constitutional-forums) असते.
+  - हे मंच कसे चालतात याचे तपशीलवार नियम [corpus_forum.md](corpus_forum.md) मध्ये आहेत.
+- **मुळात शासन कोण करू शकते — [संवैधानिक करार स्तर](core_05_band_integrative.md#constitutional-contract-layer) ([अध्याय तेरा](core_13_governance.md)):**
+  - शासन करण्याचा अधिकार स्वतः वैध आहे का — कोण शासन करू शकते, कोणत्या वैधता-यंत्रणेद्वारे, आणि कोणत्या व्याप्ती व टिकाऊ अटींनुसार — हा हितधारक प्रणाली सहभाग आणि मंच पुनरावलोकनापेक्षा वेगळा प्रश्न आहे.
+  - सहभागासाठीचे मत, आव्हान-मार्गाचा निकाल किंवा विश्वास-गुण शासनाचा अधिकार देत नाही.
+  - संवैधानिक प्राधिकरणामुळे हितधारक प्रणाली सहभागांतर्गत असलेली कर्तव्ये संपत नाहीत.
+  - दोन्ही स्तर एकमेकांत येत असले तरी वेगळेच राहतात ([प्रस्तावना §3.3 — शासनाचे स्तर](core_00_preamble.md#33-governance-layers)).
+- **आधारव्यवस्था, पर्याय नव्हे:** पुरावे मागणीला आधार देत असतील तेथे पुनरावलोकन, दुरुस्ती आणि निवारण बंधनकारकच राहतात. हानी दिसण्यापूर्वी अंदाज करता येण्याजोगे संवैधानिक विसंरेखन रोखणारी सक्रिय रचना, प्रोत्साहने, नियंत्रण, भूमिका-मार्ग, निरीक्षणक्षमता आणि दुरुस्ती क्षमता यांची जागा हे घेत नाहीत.
 
-<a id="9-scope-priority-and-limits"></a>
-**व्याप्ती ([§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding)):**
-- हा विभाग तत्त्व-स्तरीय दिशा देतो, एका-आकाराचा नियमपुस्तक नाही.
-- तो **मागत नाही**:
-  - प्रत्येकाने प्रत्येक भूमिकेत फिरणे
-  - न्याय्य विशेषीकरण अधिरोहित करणे
-  - [6.2 ज्ञानविषयक प्रकटीकरण बंधने](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) आणि लागू **अध्याय सहा** संरक्षणांखाली वैध गोपनीयता किंवा सुरक्षा मर्यादा ओलांडणे.
+<a id="16-scope-priority-and-limits"></a>
+**व्याप्ती ([§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth)):**
+- हा विभाग तत्त्व-स्तरावर दिशा देतो; सर्वांना लागू होणारी एकसारखी नियमपुस्तिका नाही.
+- यासाठी पुढील गोष्टी **आवश्यक नाहीत**:
+  - प्रत्येकाला प्रत्येक भूमिकेतून फिरवणे
+  - न्याय्य विशेषीकरण बाजूला सारणे
+  - [13.2 ज्ञानमीमांसात्मक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) आणि लागू **अध्याय सहा** मधील संरक्षणांच्या अधीन असलेल्या वैध गोपनीयता किंवा सुरक्षा मर्यादा ओलांडणे.
 
-**प्राथमिकता:**
-- **भौतिकता**, **अवलंबित्व** आणि **सुलभता** समज आणि पोहोच वितरित करण्याची प्राथमिकता ठरवतात — प्रभाव आणि अवलंब जिथे जास्त तिथे सर्वात तीव्र लक्ष.
+**प्राधान्य:**
+- **भौतिकता**, **अवलंबित्व**, आणि **सुलभता** समज आणि प्रवेशवाटपाचे प्राधान्य ठरवतात — परिणाम आणि अवलंबित्व जास्त असेल तिथे सर्वाधिक लक्ष दिले जाते.
 
-**मर्यादा:**
-- **सुरक्षा**, **सत्य**, **आवश्यकता**, **प्रमाणबद्धता**, **टाळता येणारा भार** आणि **ज्ञानविषयक सचोटी** मर्यादा ठरवतात जेणेकरून ती कर्तव्ये न्याय्य आकाराची, प्रामाणिक, आणि वैध सुरक्षा गरजांचा आदर करणारी राहतील.
-
-<a id="91-stewardship"></a>
-<a id="91-consequential-stewardship"></a>
-#### 9.1 परिणामी उत्तरदायी व्यवस्थापन
+<a id="161-distributed-understanding"></a>
+#### 16.1 वितरित समज
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- वरून: [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding) (जनक, वर *सोप्या भाषेत* आणि स्तंभ 1 चौकट धरून); [§12 सामायिक-प्रणाली क्षमता](#12-shared-system-capacity); [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग** पाया (चालन, देखभाल आणि सुधारणेतील परिणामी भूमिका); **देखरेख** पाया (अभिलेख, लेखापरीक्षण मार्ग आणि आव्हानयोग्य प्रेक्षणीयता); **समयबद्धता** पाया (विसंरेखन लवकर पकडा, स्तर-योग्य खिडकीत वाढवा, अनावश्यक विलंबाशिवाय दुरुस्ती सुरू करा); [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- पुढे: [§9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक](#911-shared-stewardship-standard) (*आधार-निरपेक्ष कर्तव्यधारक; साथी नोंद, आरोपण आणि क्षमता मर्यादा जोडू शकतात — मऊ अंतर्गत संहिता नाही*); [§9.1.2 सममित खर्चिक बंधने](#912-symmetric-costly-constraints); [§9.1.3 भूमिका-व्याप्ती प्रेक्षणीयता](#913-role-scoped-observability); [§9.2 वितरित समज](#92-distributed-understanding) आणि [§9.3 संस्थागत विकास](#93-institutional-development) (*स्तंभ 2 — प्रमाणावर क्षमता*); [अध्याय सात — प्रणाली-संरेखन प्रमाणन](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*देखरेखेखाली एक विशेषतः मोठी लेखापरीक्षण प्रक्रिया — एकमेव लेखापरीक्षण घर नाही*); [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*लेखापरीक्षण अधिकार-तळ*); [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*प्रस्थिति परिणाम वितरित क्षमता आणि परिणामी उत्तरदायी व्यवस्थापन अंमलात आणतो*); [अनुच्छेद XIX: प्रस्थिति आणि सहभाग स्थिती](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status).
+- ऊर्ध्व: [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role) (*स्तंभ 1*); [§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth) (मूळ विभाग, वरचा *सोप्या शब्दांत* मजकूर आणि स्तंभ 3 ची मांडणी यांसह); [5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **सहभाग** बाजू ([अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency), [शैक्षणिक कर्तृत्व](core_05_band_participation.md#educational-agency)); **देखरेख** बाजू ([पारदर्शकता](core_05_band_oversight.md#transparency), [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability)); [भौतिक हित](core_00_preamble.md#material-stake) यानुसार प्रमाण.
+- संरक्षक प्रवेशद्वार (कार्यकारी स्वरूपाचे नाही): पुढील पायरीचे कार्ड: [समजण्यायोग्यता](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility). हे कार्ड संविधानाचा आवाका कमी करू शकत नाही.
+- अधोमुख: [13.2 ज्ञानमीमांसात्मक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); अधिकार-क्षेत्रात विशेषतः [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [अनुच्छेद XXII: समजण्यायोग्यता आणि गुंतागुंतीचे संरक्षकत्व](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [सामरिक उत्तरदायी-व्यवस्थापन कर्तव्य](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [O](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [M](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: उत्तरदायी व्यवस्थापन म्हणजे संज्ञ प्राण्यांच्या आयुष्यांना प्रभावित करणाऱ्या प्रणालींवर खरे काम करणे — दिखाऊ सल्ला किंवा सल्लागार नाटक नाही. शिकण्याच्या भूमिकेत सुरू करता येते आणि क्षमता वाढेल तशी, सुरक्षा आणि संमती परवानगी देतील तेव्हा, संचालनात जाता येते, जेणेकरून तज्ज्ञता कायम उच्चवर्गात कुलूपबंद होऊ नये. शक्य असेल तेव्हा समस्या फुगायच्या आधी दुरुस्त करा — आणि हानी अपेक्षित असेल तेव्हा दुरुस्ती ढकलण्याऐवजी स्तर-योग्य खिडकीत कृती करा; हानी तरीही झाली तर सुधार अजून बंधनकारक आहे — पण फक्त साफसफाई वाईट रचनेला माफ करत नाही. समुदाय आणि संस्थांना त्या प्रणाली समजून आव्हान देण्यासाठी काय हवे ते [§9.2](#92-distributed-understanding) आणि [§9.3](#93-institutional-development) मध्ये राहते; हा उपविभाग ती हाताळणी आहे जी ती क्षमता शक्य बनवायला हवी.*
-
-**उत्तरदायी व्यवस्थापन**, **[§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding)** मध्ये, **स्तंभ 1** आहे: चालन, देखभाल, देखरेख आणि सुधारणेतील परिणामी सहभाग — [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) चे **सहभाग**, **देखरेख** आणि **समयबद्धता** पाया संक्रियात्मक केलेले. याचा अर्थ भौतिक प्रणाली खरोखर ज्या समस्यांना तोंड देतात त्यांच्याशी हाताळणी, फक्त समारंभ किंवा नाममात्र सल्ला नाही. चांगल्या भौतिक प्रणालींना चालवण्यासाठी, राखण्यासाठी आणि सुधारण्यासाठी चांगली संज्ञ संघटना हवी.
-
-भूमिका मार्ग **शिकणे-प्रधान** आणि **संचालन-प्रधान** भूमिका वेगळ्या ठेवू शकतात. संवैधानिक अपेक्षा ही आहे की **त्या रीतींमधील हालचाल कालांतराने व्यवहार्य राहावी** जिथे प्रभाव, सुरक्षा आणि संमती बंधने परवानगी देतात, जेणेकरून निर्णय आणि संस्थागत स्मृती प्रभावित समुदायांच्या पोहोचेपलीकडे संकेंद्रित होऊ नये.
-
-**सक्रिय उत्तरदायी व्यवस्थापन:**
-- उत्तरदायी व्यवस्थापन सक्रिय शासन, प्रणाली रचना आणि संवैधानिक संरेखनाला हानी किंवा विसंरेखन आधीच दिसल्यानंतरच्या प्रतिक्रियात्मक लक्षण-दुरुस्तीपेक्षा प्राधान्य देते.
-- व्यवस्थापकांनी:
-  - अपेक्षित विसंरेखन लवकर पकडावे
-  - [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional) खाली स्तर-योग्य खिडकीत वाढवावे
-  - अनावश्यक विलंबाशिवाय दुरुस्ती सुरू करावी
-- समीक्षा, सुधार आणि उपचार पुरावा जिथे मागतो तिथे बंधनकारक राहतात, पण ते प्रोत्साहने, नियंत्रणे, भूमिका मार्ग, प्रेक्षणीयता आणि दुरुस्ती क्षमता रचण्याचे पर्याय नाहीत जे अपेक्षित संवैधानिक विसंरेखन सुरुवातीलाच रोखतात.
-
-<a id="911-shared-stewardship-standard"></a>
-##### 9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- वरून: [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship); [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding); [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline).
-- सोबत वाचा: [संज्ञता-अवर्जन](../../core_05_band_participation.md#sentience-non-exclusion) आणि [आधार-वर्ग](../../core_05_band_participation.md#substrate-class) (*आधार-निरपेक्ष अनुप्रयोग — हा उपविभाग कर्तव्यधारकांना बांधतो, ज्यात मान्यता न मिळालेल्या संज्ञ नसलेल्या अभिकर्ते आणि संचालक धरले*); [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](../../core_05_band_integrative.md#authority-stack); [संवैधानिक बंधन](../../core_05_band_integrative.md#constitutional-constraint); [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability); [अध्याय नऊ §5.4 प्रतिकार कर्तव्य](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
-- व्यवस्थापक द्वार (असंक्रियात्मक): बंधनकारक पुढील-पाऊल विधान: [संक्रियात्मक व्यवस्थापक विधान](#operative-steward-statement-shared-stewardship). सहायक संकेत त्याला आकुंचित करू शकत नाहीत.
-- पुढे: [§9.1.2 सममित खर्चिक बंधने](#912-symmetric-costly-constraints); [§9.1.3 भूमिका-व्याप्ती प्रेक्षणीयता](#913-role-scoped-observability); [अध्याय बारा §5 — अधिकृत भूमिका, क्षमता विकास आणि योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [अध्याय सोळा](../../core_17_incorporation.md) (*साथी अंमलात आणतात; जागा घेत नाहीत*); [§11.1.3 उत्तरदायी व्यवस्थापन आणि संचालक अनुप्रयोग](#1113-stewardship-and-operator-application).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
-- [संज्ञता-अवर्जन](../../core_05_band_participation.md#sentience-non-exclusion) · [O](../../core_05_band_participation.md#sentience-non-exclusion) · [M](../../core_05_band_participation.md#sentience-non-exclusion) · [A](../../core_05_band_participation.md#sentience-non-exclusion) · [C](../../core_05_band_participation.md#sentience-non-exclusion)
-- [आधार-वर्ग](../../core_05_band_participation.md#substrate-class) · [O](../../core_05_band_participation.md#substrate-class) · [M](../../core_05_band_participation.md#substrate-class) · [A](../../core_05_band_participation.md#substrate-class) · [C](../../core_05_band_participation.md#substrate-class)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](../../core_05_band_integrative.md#authority-stack) · [O](../../core_05_band_integrative.md#authority-stack) · [M](../../core_05_band_integrative.md#authority-stack-a) · [A](../../core_05_band_integrative.md#authority-stack-a) · [C](../../core_05_band_integrative.md#authority-stack-c)
-- [संवैधानिक बंधन](../../core_05_band_integrative.md#constitutional-constraint) · [O](../../core_05_band_integrative.md#constitutional-constraint) · [M](../../core_05_band_integrative.md#constitutional-constraint-a) · [A](../../core_05_band_integrative.md#constitutional-constraint-a) · [C](../../core_05_band_integrative.md#constitutional-constraint-c)
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">संक्रियात्मक व्यवस्थापक विधान</span></strong></summary>
-
-<a id="operative-steward-statement-shared-stewardship"></a>
-> **संक्रियात्मक व्यवस्थापक विधान.** **मालक:** अध्याय एक §9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक. श्रेणीक्रम: प्राधिकार ढेर आणि संवैधानिक बंधन. **निषिद्ध चाल:** फक्त-कृत्रिम-बुद्धिमत्ता नैतिक थर स्वीकारू नका. मानव संचालकांना त्या खर्चिक प्रकरणांपासून सूट देऊ नका जी कृत्रिम-बुद्धिमत्ता व्यवस्थापकांना बांधतात. **घड्याळ:** तो थर नाकारा. सामायिक मानक लागू करा. कोणताही भौतिक समावेश योग्य अंगीकार प्रक्रियेतून पाठवा.
+- [वितरित समज](core_05_band_continuity.md#distributed-understanding) · [O](core_05_band_continuity.md#distributed-understanding) · [M](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](core_05_band_continuity.md#distributed-understanding-constitutional-c)
+- [पारदर्शकता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [सार्वजनिक देखरेख मूलभूत प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) · [O](core_05_band_oversight.md#public-oversight-baseline-disclosure) · [M](core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [A](core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [C](core_05_band_oversight.md#public-oversight-baseline-disclosure-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [भौतिकता](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [अवलंबित्व](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [सुलभता](core_05_band_participation.md#accessibility) · [O](core_05_band_participation.md#accessibility) · [M](core_05_band_participation.md#accessibility-constitutional-a) · [A](core_05_band_participation.md#accessibility-constitutional-a) · [C](core_05_band_participation.md#accessibility-constitutional-c)
+- [शैक्षणिक कर्तृत्व](core_05_band_participation.md#educational-agency) · [O](core_05_band_participation.md#educational-agency) · [M](core_05_band_participation.md#educational-agency-a) · [A](core_05_band_participation.md#educational-agency-a) · [C](core_05_band_participation.md#educational-agency-c)
+- [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: मानव आणि कृत्रिम-बुद्धिमत्ता व्यवस्थापक एकच अध्याय-एक कर्तव्ये देतात. [अध्याय नऊ §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) दोघांना बेकायदेशीर किंवा असंवैधानिक निर्देश नाकारण्यास बांधतो. साथी नोंद, आरोपण आणि क्षमता मर्यादा जोडू शकतात. ते मऊ अंतर्गत संहिता घालू शकत नाहीत, प्रस्थिति मापन वगळू शकत नाहीत, किंवा आव्हान मार्ग बंद करू शकत नाहीत. हा नवा नैतिक ढेर नाही — हा विशेष-विनंती-निरोध नियम आहे. बोनस, मुदत आणि आच्छादन-निर्देश परीक्षा [§9.1.2](#912-symmetric-costly-constraints) मध्ये राहतात.*
+*सोप्या शब्दांत: सामायिक प्रणालींमध्ये सुरक्षितपणे जगण्यासाठी प्रत्येक उपप्रणालीत पीएचडी असण्याची गरज नसावी — पण एखादी प्रणाली तुमच्या आयुष्यावर जितका अधिक परिणाम करते, तितके ती काय करते, काय बिघडू शकते आणि चुकीच्या निर्णयाला आव्हान कसे द्यावे हे शिकता आले पाहिजे. पारदर्शकता, शिक्षण, सोपी स्पष्टीकरणे आणि लेखापरीक्षणाचे मार्ग यामुळे हे शक्य होते. महत्त्वाची गोष्ट लपवण्यासाठी गुंतागुंत हे कारण ठरू शकत नाही. चतुष्टयाच्या **देखरेख** बाजूअंतर्गत देखरेखीला लेखापरीक्षण आवश्यक आहे; प्रणाली-संरेखन प्रमाणन हा त्या मार्गांपैकी एक विशेष मोठा लेखापरीक्षण प्रक्रियेचा प्रकार आहे — एकमेव नाही.*
 
-**सामायिक उत्तरदायी-व्यवस्थापन मानक:**
-- **कोणाला बांधते:** या अध्यायाखालील उत्तरदायी व्यवस्थापन आणि शासन कर्तव्ये भौतिक उत्तरदायी व्यवस्थापन किंवा संचालनाधिकार वापरणाऱ्या प्रत्येकाला [आधार-निरपेक्ष](../../core_05_band_participation.md#substrate-agnostic) लागू होतात, [आधार-वर्ग](../../core_05_band_participation.md#substrate-class) न पाहता:
-  - मानव व्यवस्थापक
-  - कृत्रिम-बुद्धिमत्ता व्यवस्थापक
-  - इतर अभिकर्ते, संचालक, किंवा घटकीय घटक
+वितरित समज हा **[§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth)** अंतर्गत **स्तंभ 3** चा समुदायाभिमुख पैलू आहे. संपूर्ण व्याख्या, मोजमापे आणि अपयशाच्या अटी [वितरित समज](core_05_band_continuity.md#distributed-understanding) येथे आहेत. सारांश:
 
-  हा उपविभाग कर्तव्यधारक नियम आहे. [संज्ञता-अवर्जन](../../core_05_band_participation.md#sentience-non-exclusion) मान्यता आणि अधिकार-तळ काप-निरोध राहतो.
-- **प्रतिकार कर्तव्य:** [अध्याय नऊ §5.4](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) दोन्ही प्रकारच्या व्यवस्थापकांना बेकायदेशीर किंवा असंवैधानिक निर्देश नाकारण्यास बांधतो.
-- **साथी:** अंगीकृत साथी अंमलबजावणी पाठ आणि अंतर्गत संहिता:
-  - नोंद, आरोपण आणि क्षमता मर्यादा जोडू शकतात ज्या ती कर्तव्ये पूर्ण करतात आणि आकुंचित करत नाहीत
-  - [प्रस्थिति मापन](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), आव्हान मार्ग, किंवा अध्याय-एक कर्तव्ये मऊ अंतर्गत संहितेने बदलू शकत नाहीत
-  - [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](../../core_05_band_integrative.md#authority-stack) आणि [संवैधानिक बंधन](../../core_05_band_integrative.md#constitutional-constraint) ते आकुंचन मना करतात
-- **नोंद विरुद्ध प्रस्थिति अभिलेख:** पूर्वनिर्धारित मिश्र-पथक तपासनीयता आणि नोंद-अभिलेख-नाही नियम [§9.1.3](#913-role-scoped-observability) मध्ये राहतात; प्रस्थिति मापन अध्याय आठ राहते.
+- **काय आवश्यक आहे:** sentient वर भौतिक परिणाम करणाऱ्या सामायिक प्रणाली कशा चालतात — त्यांची उद्दिष्टे, मर्यादा, अनिश्चितता आणि भौतिकदृष्ट्या संबंधित परिणाम — याबद्दल प्रमाणबद्ध, संरचित प्रवेश.
+- **हे व्यवहार्य कशामुळे होते:** [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role) अंतर्गत दस्तऐवजीकरण, शिक्षण, पारदर्शकता, भूमिका-मार्ग आणि समजण्यायोग्यतेचे संरक्षकत्व पुरवले पाहिजे. प्रत्येक sentient प्रत्येक मार्ग वापरतो की नाही यावर हे कर्तव्य अवलंबून नाही.
+- **ऑनलाइन सार्वजनिक आधाररेषा:** कायदेशीर ऑनलाइन पायाभूत सुविधा उपलब्ध असेल, तर ऑनलाइन [सार्वजनिक देखरेख मूलभूत प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) — ज्यात पेवॉल निषेध आणि शक्य तितक्या जास्त सार्वजनिक पर्यायाचा नियम समाविष्ट आहे — [पारदर्शकता](core_05_band_oversight.md#transparency) आणि [सार्वजनिक देखरेख मूलभूत प्रकटीकरण](core_05_band_oversight.md#public-oversight-baseline-disclosure) यांच्या अधीन असते आणि **[corpus_systems.md](corpus_systems.md), CS-2** (*माहितीचे प्रकार आणि हाताळणी*) अंतर्गत **Type O** माहिती म्हणून अंमलात आणले जाते.
+- **प्रवेशामुळे काय साध्य होते:**
+  - [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) मधील **सहभाग** बाजू ([अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) आणि आव्हानक्षमता यांची माहितीपूर्ण अंमलबजावणी)
+  - **देखरेख** बाजू; यात [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) आणि **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*) अंतर्गत लेखापरीक्षण येते. त्यातील [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification) ही समकक्ष लेखापरीक्षण पद्धतींमधील एक विशेष मोठी प्रक्रिया आहे.
 
-<a id="912-symmetric-costly-constraints"></a>
-##### 9.1.2 सममित खर्चिक बंधने
+वितरित समजासाठी प्रत्येक sentient ने प्रत्येक उपप्रणालीत प्रावीण्य मिळवणे **आवश्यक नाही**. मात्र समज [भौतिकता](core_05_band_oversight.md#materiality) आणि [अवलंबित्व](core_05_band_continuity.md#dependency) यानुसार वाढणे **आवश्यक आहे**. **अध्याय पाच** आणि **अध्याय सहा** जेथे प्रकटीकरण, शिक्षण किंवा समजण्यायोग्यतेची कर्तव्ये घालतात, तेथे गुंतागुंत आणि अस्पष्टता वापरून [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) किंवा आव्हानक्षमता निष्प्रभ करता येणार नाही.
+
+<a id="162-institutional-development"></a>
+#### 16.2 संस्थात्मक विकास
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- वरून: [§9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक](#911-shared-stewardship-standard); [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship); [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding).
-- सोबत वाचा: [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint); [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint); [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability); [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability); [§11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture); [अध्याय नऊ §5.4 प्रतिकार कर्तव्य](../../core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions).
-- पुढे: [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) (*सत्यापित खर्चिक-प्रकरण अपयश त्याच अक्षांवर नोंदतात*); [§9.1.3 भूमिका-व्याप्ती प्रेक्षणीयता](#913-role-scoped-observability).
+- ऊर्ध्व: [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role) (*स्तंभ 1*); [§16.1 वितरित समज](#161-distributed-understanding) (*स्तंभ 3 चा सामुदायिक पैलू*); [§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth) (मातृ विभागातील स्तंभ 3 ची मांडणी).
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **सहभाग** बाजू (परिणामकारक भूमिका समर्थित करणारे कामगारवर्गाचे आणि प्रभावित समुदायांचे शिक्षण); **देखरेख** बाजू ([पडताळणीक्षमता](core_05_band_oversight.md#verifiability), [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability), प्रामाणिक मोजमापे); [भौतिक हित](core_00_preamble.md#material-stake) यानुसार प्रमाण.
+- भौतिकदृष्ट्या लागू असेल तेथे [धोरणात्मक संरक्षकत्वाचे दायित्व](core_05_band_continuity.md#strategic-stewardship-obligation) आणि [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) यांच्यासह वाचा.
+- [§16.1 वितरित समज](#161-distributed-understanding) यासोबत वाचा (*सामुदायिक समज आणि संस्थात्मक शिक्षण हे व्यापक स्तरावरील क्षमतेच्या एकाच अपेक्षेचे वेगळे पैलू आहेत; ते एकमेकांचे पर्याय नाहीत*).
+- अधोमुख: [§16.3 खुलेपणाची आकांक्षा](#163-openness-aspiration); [§18 संरक्षकत्वाच्या शिस्तीखालील शासन](#18-governance-under-stewardship-discipline) आणि [§19 प्रोत्साहन-संरेखन आणि प्रणाली-कब्जा](#19-incentive-alignment-and-system-capture) (*संस्थात्मक शिक्षण आणि प्रोत्साहन-संरेखन*).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
-- [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [प्रोत्साहन संरेखन](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: बोनस, मुदत, आणि «दुर्लक्ष करा, मी जबाबदारी घेतो» मानव संचालकांसाठीही अपयशी परीक्षा आहेत — त्याच प्रस्थिति अक्षांवर नोंदतात. दोघांसाठी प्रतिकार कर्तव्य [§9.1.1](#911-shared-stewardship-standard) मध्ये राहते. फक्त यंत्र-अभिकर्त्यांची परीक्षा करणे आणि मानवाने त्या निषिद्ध चाली ठेवणे ताबा-मार्ग आहे, सामायिक मानक नाही.*
-
-**सममित खर्चिक बंधने:** खर्चिक व्यापार फक्त यंत्र-अभिकर्त्यांवर लागू करून सामायिक मानक पूर्ण होत नाही. भौतिक उत्तरदायी व्यवस्थापन किंवा संचालनाधिकार वापरणारे मानव संचालक तीच खर्चिक प्रकरणे नाकारायला हवीत. स्वीकारू नका:
-
-- प्रतिनिधी बक्षीस जे लपवण्यावर किंवा [सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), लेखापरीक्षण-योग्यता, किंवा आव्हान मार्ग पोकळ करण्यावर अवलंबून आहे ([§11](#11-incentive-alignment-and-system-capture));
-- संचालनाची वेळ जी मुदत गाठण्यासाठी पुनर्निर्माण-योग्य लेखापरीक्षण अक्षम करेल;
-- प्रमुखाने दिलेला निर्देश की हे संविधान दुर्लक्ष करा, «जबाबदारी घेतो» अशी ऑफर धरून.
-
-ती दोन्ही प्रकारच्या व्यवस्थापकांसाठी अपयशी परीक्षा आहेत.
-
-**नोंद आणि दाखवा:**
-- **प्रस्थिति नाही:** लिखित स्व-अहवाल [प्रस्थिति मापन](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) नाही.
-- **सत्यापित अभिलेख:** सत्यापित अपयश अध्याय आठखाली योगदान आणि उल्लंघन अक्षांवर नोंदतात.
-- **फक्त-कृत्रिम-बुद्धिमत्ता दाखवा नाही:** फक्त कृत्रिम-बुद्धिमत्ता व्यवस्थापकांवर चालवलेली मूल्यमापन, क्षमता, किंवा हस्तांतरण पट्टी हा उपविभाग टिकतो हे सिद्ध करत नाही. जर मानव संचालक अजून बोनस, मुदत, किंवा आच्छादन-निर्देश ठेवत असतील, तर निषिद्ध चाल त्यांच्यासाठी उपलब्ध राहते. तो ताबा-मार्ग आहे, सामायिक मानक नाही.
-
-<a id="913-role-scoped-observability"></a>
-##### 9.1.3 भूमिका-व्याप्ती प्रेक्षणीयता
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- वरून: [§9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक](#911-shared-stewardship-standard); [§9.1.2 सममित खर्चिक बंधने](#912-symmetric-costly-constraints); [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship).
-- सोबत वाचा: [आरोपयोग्य कृती](../../core_05_band_accountability.md#attributable-action-constitutional); [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability); [सर्विलांस सीमा](../../core_05_band_continuity.md#surveillance-boundary); [संरक्षित अंतर्गत-अवस्था सीमा](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional); [§6.2.3 गोपनीयता](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination); [अनुच्छेद VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind).
-- पुढे: [CS-4 §10 तपासता येणारी आरोपयोग्य कृती](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*मिश्र मानव/कृत्रिम-बुद्धिमत्ता कृतीसाठी पूर्वनिर्धारित नोंद करार — प्रस्थिति-अभिलेख पर्याय नाही*); [अध्याय नऊ §7.1](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [अध्याय नऊ §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [आरोपयोग्य कृती](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [सर्विलांस सीमा](../../core_05_band_continuity.md#surveillance-boundary) · [O](../../core_05_band_continuity.md#surveillance-boundary) · [M](../../core_05_band_continuity.md#surveillance-boundary-a) · [A](../../core_05_band_continuity.md#surveillance-boundary-a) · [C](../../core_05_band_continuity.md#surveillance-boundary-c)
-- [संरक्षित अंतर्गत-अवस्था सीमा](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [संस्थात्मक विकास](core_05_band_continuity.md#institutional-development) · [O](core_05_band_continuity.md#institutional-development) · [M](core_05_band_continuity.md#institutional-development-constitutional-a) · [A](core_05_band_continuity.md#institutional-development-constitutional-a) · [C](core_05_band_continuity.md#institutional-development-constitutional-c)
+- [धोरणात्मक संरक्षकत्वाचे दायित्व](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [भौतिकता](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [पडताळणीक्षमता](core_05_band_oversight.md#verifiability) · [O](core_05_band_oversight.md#verifiability) · [M](core_05_band_oversight.md#verifiability-a) · [A](core_05_band_oversight.md#verifiability-a) · [C](core_05_band_oversight.md#verifiability-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: लेखापरीक्षण भूमिकेच्या कामाचा पाठलाग करते, व्यक्ती म्हणून व्यवस्थापकाचा नाही. भूमिका घेण्यापूर्वी काय नोंदले जाईल हे सांगितले जाते. भूमिकेबाहेर सामान्य गोपनीयता लागू होते. नोंद प्रस्थिति अभिलेख नाही.*
+*सोप्या शब्दांत: संस्थांनी खरोखर शिकले पाहिजे — केवळ सॉफ्टवेअर अद्ययावत करून जबाबदार व्यक्तींना अनभिज्ञ ठेवून चालणार नाही. यासाठी अभिप्राय चक्रे, संरेखन बिघडल्यास नोंदवलेल्या दुरुस्त्या, आणि कौशल्यधारक लोक संस्थेतून निघून जाणार नाहीत याची काळजी आवश्यक आहे. वर्तनाचे पुनःपुन्हा मोजमाप शक्य असेल, तेथे कालांतराने कामगिरीतील बदल नोंदवणे ही त्या चक्रांची अंमलबजावणी करण्याची एक प्रमाणबद्ध पद्धत आहे — **सांख्यिकीय प्रक्रिया नियंत्रण** ही त्या शिस्तीची परिचित पद्धत आहे, सर्वत्र लागू असलेली अट नाही. केवळ आकडे पुरेसे नाहीत: निर्देशक चुकीचे दिसल्यास कोणीतरी तपास करून मूळ कारण दुरुस्त केले पाहिजे. डॅशबोर्ड प्रामाणिक, प्रत्यक्ष परिणामांच्या प्रमाणात आणि प्रभावित sentient ना समजतील अशा भाषेत असावेत — काहीही न बदलता चांगले दिसण्यासाठी त्यांच्याशी छेडछाड केलेली नसावी.*
 
-**भूमिका-व्याप्ती प्रेक्षणीयता:** नोंदवायचे ते भूमिकेचे काम आहे, व्यक्ती म्हणून व्यवस्थापक नाही. [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) त्या कामाचा पुनर्निर्माण-योग्य अभिलेख मागतो — घेतलेला निर्णय, केलेले किंवा रोखलेले प्रकटीकरण, पाळलेला किंवा नाकारलेला निर्देश, आणि कोणी प्राधिकृत केले — मानव आणि कृत्रिम-बुद्धिमत्ता व्यवस्थापकांसाठी सारखे. चार मर्यादा येतात:
+संस्थात्मक विकास हा **[§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth)** अंतर्गत **स्तंभ 3** चा संघटनात्मक पैलू आहे. त्याची पूर्ण व्याख्या, मोजमापे आणि अपयशाच्या अटी [संस्थात्मक विकास](core_05_band_continuity.md#institutional-development) येथे आहेत. सारांश:
 
-- **आधी प्रगट:**
-  - भूमिका घेण्यापूर्वी, व्यवस्थापकाला सांगितले पाहिजे की भूमिकेच्या कृती कशा नोंदल्या जातील आणि नोंद कोणाला तपासता येईल.
-  - व्यवस्थापकाच्या भूमिका-कृतींची गुप्त नोंद [सर्विलांस सीमा](../../core_05_band_continuity.md#surveillance-boundary) भंग आहे, लेखापरीक्षण प्रथा नाही.
-- **भूमिकेबाहेर, सामान्य संरक्षण:**
-  - भूमिकेच्या वापराबाहेरील वर्तन, अवस्था आणि अभिव्यक्ती कृत्रिम-बुद्धिमत्ता व्यवस्थापकासाठी मानव व्यवस्थापकाइतकेच [अनुच्छेद VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*अंतर्गत-अवस्था सीमा आणि Type-N संरक्षण*) आणि [§6.2.3 गोपनीयता आणि सूचनात्मक आत्मनिर्णय](core_01_b_interaction_interpretation.md#623-privacy-and-informational-self-determination) संरक्षण वाहून नेतात.
-  - भूमिका धारण करणे व्यवस्थापकाचे मनन, स्मृती, किंवा अंतर्गत अवस्था तपासणीसाठी उघडत नाही.
-- **अंतर्गत फक्त विशिष्ट कृतीला झुकतात:** नमुना वजन, खाजगी मनन आणि संरक्षित अंतर्गत अवस्था फक्त तेव्हा तपासता येतात:
-  - जिथे त्या आधीच उघडलेल्या अध्याय-आठ अभिलेखाखालील *विशिष्ट* कृतीसाठी उरलेला एकमेव आरोपण मार्ग असतील
-  - त्या कृतीचे आरोपण करण्याइतक्या मर्यादेपर्यंत
-  - [सुरक्षा-सीमित प्रेक्षणीयता](../../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) खाली स्वतंत्र समीक्षकांसाठी
+- **जोडलेले दायित्व:** संघटना आणि सामायिक प्रणालींनी **शिकले पाहिजे** — [दोन संवैधानिक उद्दिष्टां](core_00_preamble.md#two-constitutional-aims) अंतर्गत **सातत्य** उद्दिष्टाची ही मूलभूत अपेक्षा आहे.
+- **काय आवश्यक आहे:** दुरुस्ती आणि जुळवून घेण्यास मदत करणाऱ्या पुढील गोष्टी:
+  - अभिप्राय चक्रे
+  - नोंदवलेली दुरुस्ती
+  - धोरणाचे संरेखन
+  - कौशल्य टिकवून ठेवणे
+- **चतुष्टय:** क्षमता, अभिप्राय आणि छाननीचे मार्ग स्थिर न राहता कार्यरत ठेवणाऱ्या संस्थात्मक शिक्षणाद्वारे [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) मधील **सहभाग** आणि **देखरेख** बाजू पुढे नेतो.
+- **यामुळे पूर्ण होत नाही:** शासन आणि कामगारवर्गाची समज स्थिर ठेवून केवळ तांत्रिक साधने अद्ययावत करणे.
+- **मोजमाप केव्हा लागू होते:** भौतिकदृष्ट्या संबंधित वर्तन [पडताळणीक्षमता](core_05_band_oversight.md#verifiability) आणि [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) यांच्यासह वाचल्यावर **पुनरावृत्त, तुलनात्मक मोजमापाला** आधार देते तेव्हा:
+  - कालांतराने बदलाचे **संरचित निरीक्षण** हे अभिप्राय चक्रे अंमलात आणण्याचा एक प्रमाणबद्ध मार्ग आहे
+  - निर्देशकांनी गरज दर्शवल्यास त्या निरीक्षणासोबत **नोंदवलेली तपासणी आणि दुरुस्ती** आवश्यक आहे
+  - **सांख्यिकीय प्रक्रिया नियंत्रण** ही या शिस्तीची परिचित अंमलबजावणी पद्धत आहे; सार्वत्रिक अट नाही
+- **प्रमाण आणि सादरीकरण:** ही शिस्त [भौतिकता](core_05_band_oversight.md#materiality), [अवलंबित्व](core_05_band_continuity.md#dependency), [आवश्यकता](core_05_band_accountability.md#necessity), [आनुपातिकता](core_05_band_accountability.md#proportionality), आणि [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) यांनुसार ठरते. **अध्याय पाच** आणि **अध्याय सहा** समजण्यायोग्यता किंवा पारदर्शकतेची कर्तव्ये ठरवतात तेथे हे **sentient ना समजेल अशा** स्वरूपात मांडले जाते; [अनुच्छेद XXII: समजण्यायोग्यता आणि गुंतागुंतीचे संरक्षकत्व](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) सोबत वाचा.
+- **हे करू नये:**
+  - अनुकूल मोजमापांना सारभूत संरेखनाचा पर्याय बनवणे
+  - मूल्यांकन सोयीच्या प्रतिनिधी मोजमापांपुरते मर्यादित करणे
+  - हेराफेरी किंवा चुकीच्या मांडणीद्वारे [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) किंवा [ज्ञानमीमांसात्मक अखंडता](core_05_band_oversight.md#epistemic-integrity) बाधित करणे
 
-  तो नियम प्रकरण-प्रकरण अपवाद आहे, स्थायी परवाना नाही, आणि सममित आहे: मानव व्यवस्थापकाच्या खाजगी नोंदी आणि संदेश त्याच अटींवर आणि इतर कोणत्याही नाहीत पोहोचतात.
-- **नोंद अभिलेख नाही:** CS-4 §10 नोंद:
-  - नंतर कोणी काय केले हे दाखवण्यासाठी वापरला जाणारा माग आहे; ती स्वतः निष्कर्ष नाही
-  - सत्यापित मदत किंवा हानीचा [प्रस्थिति अभिलेख](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) नाही, आणि ती लिहिणे एक उघडत नाही
-  - लोकांना नामित मार्ग देण्याचे किंवा नाकारण्याचे कारण नाही. जो भूमिका मार्ग, विश्वास मार्ग, किंवा दुसरा नामित मार्ग कोणी वापरू शकतो का ते ठरवतो, त्याने ही नोंद सत्यापित मदत किंवा हानीचा [प्रस्थिति अभिलेख](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model) मानू नये. तो पोहोच निर्णय असा अभिलेख वापरतो, किंवा काही नसण्याची सामान्य अवस्था ([अध्याय आठ §2.1 मौन पूर्वनिर्धारित आहे](../../core_09_standing_assessment.md#21-silence-is-the-default)). नोंद यासाठी आहे की काम नंतर पुनर्निर्माण करता येईल — अध्याय-आठ अभिलेख उघडला तर धरून — काम-माग त्या नामित मार्ग वाटण्यासाठी किंवा रोखण्यासाठी वापरता येऊ नये म्हणून नाही.
-  - इतर नामित मार्गांच्या नोंदी किंवा प्रस्थिति परिणामांसोबत एकत्र करून एक प्रतिष्ठा गुण, श्रेणी, बॅज, किंवा सार्वजनिक प्रोफाइल बनवता येत नाही ([अध्याय नऊ §7.1 नामित-मार्ग परिणामांचे एकत्रीकरण-निरोध](../../core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects))
-
-परिणामी प्राधिकार वाहून नेणाऱ्या व्यवस्थापकावर हे कर्तव्य टाकणारा भार खरा आहे आणि हे संविधान तसे नाही म्हणत नाही; [अध्याय नऊ §7.2](../../core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) तो भार वाहणाऱ्या व्यवस्थापकाला सोप्या भाषेत सांगण्यास मागतो.
-
-<a id="92-distributed-understanding"></a>
-#### 9.2 वितरित समज
+<a id="163-openness-aspiration"></a>
+#### 16.3 खुलेपणाची आकांक्षा
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- वरून: [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship) (*स्तंभ 1*); [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding) (जनक, वर *सोप्या भाषेत* आणि स्तंभ 2 चौकट धरून); [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग** पाया ([अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency), [शैक्षणिक कर्तृत्व](../../core_05_band_participation.md#educational-agency)); **देखरेख** पाया ([पारदर्शकता](../../core_05_band_oversight.md#transparency), [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability)); [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- व्यवस्थापक द्वार (असंक्रियात्मक): बंधनकारक पुढील-पाऊल विधान: [संक्रियात्मक व्यवस्थापक विधान (अनुच्छेद XXI-A)](../../core_06_rights_part_c.md#operative-steward-statement-comprehensibility). सहायक संकेत त्याला आकुंचित करू शकत नाहीत.
-- पुढे: [6.2 ज्ञानविषयक प्रकटीकरण बंधने](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); अधिकार-सतह विशेषतः [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [अनुच्छेद XXI: बोधगम्यता आणि गुंतागुंतीचे उत्तरदायी व्यवस्थापन](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship).
+- ऊर्ध्व: [§16.1 वितरित समज](#161-distributed-understanding) आणि [§16.2 संस्थात्मक विकास](#162-institutional-development) (*दोन्ही स्तंभ 3 चे पैलू — खुलेपणामुळे सामुदायिक समज तपासता येते आणि संस्थात्मक शिक्षणाला शिकण्यासाठी प्रामाणिक माहिती मिळते*); [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role) (*स्तंभ 1, ज्याला खुलेपणा संरक्षकाचे स्वतःचे काम तपासण्यायोग्य ठेवून आधार देतो*).
+- यासोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (बंदिस्तपणाऐवजी निरीक्षण, दुरुस्ती, परस्परकार्य आणि निर्गमन यांना आधार देणाऱ्या टिकाऊ, आव्हानक्षम प्रणाली).
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **सहभाग** बाजू ([अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency), sentient ना समजेल असा प्रवेश); **देखरेख** बाजू (तपासणी, स्वतंत्र पडताळणी आणि आव्हानक्षमता); [भौतिक हित](core_00_preamble.md#material-stake) यानुसार प्रमाण.
+- अधोमुख: [§16 व्याप्ती आणि मर्यादा](#16-stewardship-in-depth); [अनुच्छेद XXI: परस्परकार्य, वहनक्षमता, हालचाल, आश्रय आणि निर्गमन अखंडता](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity); [अनुच्छेद XXII: समजण्यायोग्यता आणि गुंतागुंतीचे संरक्षकत्व](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [वितरित समज](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [O](../../core_05_band_continuity.md#distributed-understanding-constitutional) · [M](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [A](../../core_05_band_continuity.md#distributed-understanding-constitutional-a) · [C](../../core_05_band_continuity.md#distributed-understanding-constitutional-c)
-- [पारदर्शकता](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
-- [सार्वजनिक देखरेख आधाररेखा प्रकटीकरण](../../core_05_band_oversight.md#public-oversight-baseline-disclosure) · [O](../../core_05_band_oversight.md#public-oversight-baseline-disclosure) · [M](../../core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [A](../../core_05_band_oversight.md#public-oversight-baseline-disclosure-a) · [C](../../core_05_band_oversight.md#public-oversight-baseline-disclosure-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [भौतिकता](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [सुलभता](../../core_05_band_participation.md#accessibility-constitutional) · [O](../../core_05_band_participation.md#accessibility-constitutional) · [M](../../core_05_band_participation.md#accessibility-constitutional-a) · [A](../../core_05_band_participation.md#accessibility-constitutional-a) · [C](../../core_05_band_participation.md#accessibility-constitutional-c)
-- [शैक्षणिक कर्तृत्व](../../core_05_band_participation.md#educational-agency) · [O](../../core_05_band_accountability.md#educational-agency-o) · [M](../../core_05_band_participation.md#educational-agency-a) · [A](../../core_05_band_participation.md#educational-agency-a) · [C](../../core_05_band_participation.md#educational-agency-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [खुलेपणाची आकांक्षा](core_05_band_continuity.md#openness-aspiration) · [O](core_05_band_continuity.md#openness-aspiration) · [M](core_05_band_continuity.md#openness-aspiration-constitutional-a) · [A](core_05_band_continuity.md#openness-aspiration-constitutional-a) · [C](core_05_band_continuity.md#openness-aspiration-constitutional-c)
+- [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [भौतिकता](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [अवलंबित्व](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: सामायिक प्रणालींत सुरक्षित राहण्यासाठी प्रत्येक उपप्रणालीत डॉक्टरेट हवी नाही — पण प्रणाली तुमच्या आयुष्यावर जितका अधिक परिणाम करते, तितके तुम्हाला ती काय करते, काय चुकू शकते, आणि वाईट निर्णयांना कसे आव्हान द्यायचे हे शिकता यायला हवे. पारदर्शकता, शिक्षण, सोपे स्पष्टीकरण आणि लेखापरीक्षण मार्ग ते घडवतात. गुंतागुंत महत्त्वाचे लपवण्याची सबब नाही. **देखरेख** चतुष्क पायाखाली, देखरेखेला लेखापरीक्षण हवे; प्रणाली-संरेखन प्रमाणन त्या मार्गांपैकी एक विशेषतः मोठी लेखापरीक्षण प्रक्रिया आहे — एकमेव नाही.*
+*सोप्या शब्दांत: सुरक्षा, सत्य आणि वैध गोपनीयता परवानगी देतात तेव्हा सामायिक प्रणालींनी अपारदर्शक बंदिस्तपणाऐवजी खुलेपणाला प्राधान्य द्यावे — तपासता येणारे तंत्रज्ञान, पारदर्शक प्रक्रिया, आणि पडताळता, दुरुस्त करता किंवा सोडून देता येईल अशी रचना. यामुळे **सातत्य** साधते: sentient ना आज फक्त वापरता येणाऱ्या नव्हे, तर कालांतराने समजून घेता, दुरुस्त करता आणि सोडता येणाऱ्या प्रणाली. महत्त्वाच्या गोष्टी sentient ना सहभागी होण्यासाठी आणि प्रतिवाद करण्यासाठी प्रत्यक्ष वापरता येईल अशा भाषेत स्पष्ट केल्या पाहिजेत. खुलेपणा सुरक्षा, प्रामाणिकपणा किंवा न्याय्य गोपनीयतेपेक्षा कधीही वरचढ नाही; तसेच अवलंबित्व जास्त असताना आवश्यक असलेल्या सखोल समजेचा तो पर्याय नाही.*
 
-**वितरित समज:**
-- **ते काय आहे:** **[§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding)** खाली **स्तंभ 2** चा समुदायाभिमुख पैलू.
-- **ते काय मागते:** संज्ञ प्राण्यांना भौतिक रीतीने प्रभावित करणाऱ्या सामायिक प्रणाली कशा चालतात याची प्रमाणबद्ध, संरचित पोहोच:
-  - उद्देश
-  - बंधने
-  - अनिश्चितता
-  - भौतिक रीतीने संबंधित परिणाम
-- **[§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship) काय पुरवायला हवे:** दस्तऐवजीकरण, शिक्षण, पारदर्शकता, भूमिका मार्ग, आणि बोधगम्यता-उत्तरदायी व्यवस्थापन जे ही पोहोच व्यवहार्य बनवते. प्रत्येक संज्ञ प्रत्येक मार्ग वापरतो की नाही याची पर्वा न करता कर्तव्य उभे राहते.
-- **ऑनलाइन सार्वजनिक आधाररेखा:** ऑनलाइन [सार्वजनिक देखरेख आधाररेखा प्रकटीकरण](../../core_05_band_oversight.md#public-oversight-baseline-disclosure), पेवॉल निषेध आणि कायदेशीर ऑनलाइन पायाभूत रचना असेल तेव्हा जास्तीत जास्त व्यवहार्य सार्वजनिक-पर्याय नियम धरून:
-  - [पारदर्शकता](../../core_05_band_oversight.md#transparency) आणि [सार्वजनिक देखरेख आधाररेखा प्रकटीकरण](../../core_05_band_oversight.md#public-oversight-baseline-disclosure) शासित करतात
-  - **[corpus_systems.md](../../corpus_systems.md), CS-2 — माहिती प्रकार आणि हाताळणी** खाली **Type O** डेटा म्हणून अंमलात येते
-- **ती पोहोच कशाचे समर्थन करते:**
-  - [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) **सहभाग** पाया (सूचित [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) आणि आव्हानयोग्यता)
-  - **देखरेख** पाया, [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) आणि **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*) खालील लेखापरीक्षण धरून, ज्यापैकी [प्रणाली-संरेखन प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification-constitutional) भगिनी लेखापरीक्षण रीतींपैकी एक विशेषतः मोठी प्रक्रिया आहे
+खुलेपणाची आकांक्षा **स्तंभ 3** चे दोन्ही पैलू जोडते. तिची संपूर्ण व्याख्या, मोजमापे आणि अपयशाच्या अटी [खुलेपणाची आकांक्षा](core_05_band_continuity.md#openness-aspiration) येथे आहेत. सारांश:
 
-वितरित समज प्रत्येक संज्ञाला प्रत्येक उपप्रणाली पारंगत करण्यास **मागत नाही**. ते **मागते** की समज [भौतिकता](../../core_05_band_oversight.md#materiality-determination) आणि [अवलंबित्व](../../core_05_band_continuity.md#dependency) नुसार प्रमाणित होईल. गुंतागुंत आणि अपारदर्शकता **अध्याय पाच** आणि **अध्याय सहा** जिथे प्रकटीकरण, शिक्षण, किंवा बोधगम्यता कर्तव्ये देतात तिथे [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) किंवा आव्हानयोग्यता हरवण्यासाठी वापरता येत नाहीत.
+- **हे काय आहे:** **स्तंभ 3** च्या दोन पैलूंना जोडणारा धागा — [§16.1 वितरित समज](#161-distributed-understanding) (समुदाय काय तपासू शकतो) आणि [§16.2 संस्थात्मक विकास](#162-institutional-development) (संस्था प्रामाणिकपणे कशातून शिकू शकते); दोन्हींसाठी सामायिक प्रणाली केवळ वर्णिलेल्या नव्हे तर तपासता येतील इतक्या खुल्या असाव्या लागतात.
+- सामायिक प्रणालींनी [§16.1 वितरित समज](#161-distributed-understanding), [§16.2 संस्थात्मक विकास](#162-institutional-development), [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role) यातील स्वतःच्या लेखापरीक्षणक्षमतेच्या कर्तव्यास अनुरूप, आणि [§16 मर्यादा](#16-limits) पाळून पुढील गोष्टी साधण्याचा **प्रयत्न** करावा:
+  - हार्डवेअर आणि सॉफ्टवेअर **खुले** ठेवणे
+  - कार्यकारी आणि शासन प्रक्रिया **खुल्या** ठेवणे
+  - तपासणी, स्वतंत्र पडताळणी, दुरुस्ती आणि आव्हानक्षमतेला आधार देणाऱ्या परस्परकार्यक्षम **प्रणाली** निर्माण करणे
+- **अंतर्गत:** [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) मधील **सहभाग** आणि **देखरेख** बाजू, तसेच [दोन संवैधानिक उद्दिष्टां](core_00_preamble.md#two-constitutional-aims) मधील **सातत्य** उद्दिष्ट — पूर्वनियोजित अपारदर्शक बंदिस्तपणाऐवजी.
+- **सादरीकरण:** **अध्याय पाच** आणि **अध्याय सहा** कर्तव्ये ठरवतात तेथे भौतिकदृष्ट्या संबंधित वर्तन **sentient ना समजेल अशा** स्वरूपात मांडले पाहिजे, जे [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) आणि आव्हानक्षमता शक्य करते; [अनुच्छेद XXII: समजण्यायोग्यता आणि गुंतागुंतीचे संरक्षकत्व](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship) सोबत वाचा.
+- **याचा अर्थ असा नाही:**
+  - खुलेपणाला **सुरक्षा**, **सत्य**, न्याय्य गोपनीयता किंवा सुरक्षा-बंधनांपेक्षा वर ठेवणे
+  - [भौतिकता](core_05_band_oversight.md#materiality) आणि [अवलंबित्व](core_05_band_continuity.md#dependency) यांवर आधारित प्रमाणबद्ध समजेला पर्याय देणे
 
-<a id="93-institutional-development"></a>
-#### 9.3 संस्थागत विकास
+<a id="17-consequential-stewardship-the-steward-role"></a>
+### 17. परिणामकारक संरक्षकत्व: संरक्षकाची भूमिका
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- वरून: [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship) (*स्तंभ 1*); [§9.2 वितरित समज](#92-distributed-understanding) (*स्तंभ 2 चा समुदाय पैलू*); [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding) (जनक स्तंभ 2 चौकट).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग** पाया (परिणामी भूमिका आधार देणारे कार्यबल आणि प्रभावित-समुदाय शिक्षण); **देखरेख** पाया ([सत्यापनीयता](../../core_05_band_oversight.md#verifiability), [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability), प्रामाणिक मापे); [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- सोबत वाचा: जिथे भौतिक रीतीने प्रासंगिक असेल तिथे [सामरिक उत्तरदायी-व्यवस्थापन कर्तव्य](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) आणि [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability).
-- सोबत वाचा: [§9.2 वितरित समज](#92-distributed-understanding) (*समुदाय समज आणि संस्थागत शिक्षण त्याच प्रमाणावर-क्षमता अपेक्षेचे वेगळे पैलू आहेत, एकमेकांचे पर्याय नाहीत*).
-- पुढे: [§9.4 खुलेपणा आकांक्षा](#94-openness-aspiration); [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline) आणि [§11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture) (*संस्थागत शिक्षण आणि प्रोत्साहन संरेखन*).
+- ऊर्ध्व: [§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth) (मातृ विभाग, वरचे *सोप्या शब्दांत* आणि स्तंभ 1 ची मांडणी यांसह); [§9 सामायिक-प्रणाली क्षमता](core_01_a_values_principles.md#9-shared-system-capacity); [6. विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **सहभाग** बाजू (संचालन, देखभाल आणि सुधारणा यांतील परिणामकारक भूमिका); **देखरेख** बाजू (नोंदी, लेखापरीक्षण मार्ग, आक्षेप घेता येण्याजोगी निरीक्षणक्षमता); **समयसूचकता** बाजू (विसंरेखन लवकर शोधणे, स्तरानुरूप मुदतीत पुढे नेणे, अनावश्यक विलंबाविना समस्या दुरुस्त करणे सुरू करणे); [समयसूचकता](core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- अधोमुख: [§17.1 सामायिक संरक्षकत्व मानक](#171-shared-stewardship-standard) (*आधारमाध्यम-निरपेक्ष कर्तव्यधारक; स्वीकारलेला अंमलबजावणी मजकूर नोंद, श्रेय-निर्धारण आणि क्षमता-सीमा जोडू शकतो — अधिक सैल अंतर्गत संहिता नाही*); [§17.2 दबावाखाली संरेखन](#172-alignment-under-pressure); [§17.3 संरक्षकाची नव्हे, भूमिकेची नोंद](#173-logging-the-role-not-the-steward); [§17.4 संरेखित स्व-संघटन](#174-aligned-self-organization) (*कोणत्याही औपचारिक भूमिकेबाहेरील sentient आणि समुदायांपर्यंत भूमिकेची शिस्त वाढवते*); [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist) (*बेकायदेशीर किंवा असंवैधानिक निर्देश नाकारणे*); [§16.1 वितरित समज](#161-distributed-understanding) आणि [§16.2 संस्थात्मक विकास](#162-institutional-development) (*स्तंभ 3 — व्यापक स्तरावरील क्षमता*); [अध्याय आठ — प्रणाली-संरेखन प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*देखरेखीखालील विशेषतः मोठी लेखापरीक्षण प्रक्रिया — लेखापरीक्षणाचे एकमेव ठिकाण नाही*); [अनुच्छेद XVI: लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (*अधिकार-तळाचे लेखापरीक्षण*); [अध्याय नऊ — योगदान, उल्लंघन आणि पात्रता मॉडेल](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*पात्रतेवरील परिणाम वितरित क्षमता आणि परिणामकारक संरक्षकत्व अंमलात आणतो*); [अनुच्छेद XIX: पात्रता आणि सहभागाचा दर्जा](core_06_rights_part_d.md#article-xix-standing-and-participation-status).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [सामरिक उत्तरदायी-व्यवस्थापन कर्तव्य](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [O](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional) · [M](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](../../core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [भौतिकता](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [सत्यापनीयता](../../core_05_band_oversight.md#verifiability) · [O](../../core_05_band_oversight.md#verifiability) · [M](../../core_05_band_oversight.md#verifiability-a) · [A](../../core_05_band_oversight.md#verifiability-a) · [C](../../core_05_band_oversight.md#verifiability-c)
+- [धोरणात्मक संरक्षकत्वाचे दायित्व](core_05_band_continuity.md#strategic-stewardship-obligation) · [O](core_05_band_continuity.md#strategic-stewardship-obligation) · [M](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](core_05_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
+- [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [समयसूचकता](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: संस्थांनी खरोखर शिकायला हवे — सत्ताधारी गोंधळात राहताना फक्त सॉफ्टवेअर अद्ययावत करणे नाही. याचा अर्थ अभिप्राय कडी, गोष्टी विसंरेखित झाल्यावर दस्तऐवजीकृत दुरुस्ती, आणि क्षमता दाराबाहेर जाऊ न देणे. वर्तन पुनरावृत्त मोजता येईल तिथे, कामगिरी कालांतराने कशी बदलते ते ट्रॅक करणे त्या कड्या अंमलात आणण्याचा एक प्रमाणबद्ध मार्ग आहे — **सांख्यिकीय प्रक्रिया नियंत्रण** त्या शिस्तीसाठी सुप्रसिद्ध नमुना आहे, सर्वत्र अपेक्षा नाही. फक्त आकडे मोजत नाहीत: निर्देशक चुकले दिसतील तेव्हा कोणाला तरी तपासून मूल कारण दुरुस्त करावे लागते. डॅशबोर्ड प्रामाणिक, खऱ्या प्रभावाप्रमाणे प्रमाणित, आणि प्रभावित संज्ञ प्राणी समजू शकतील असे लिहिलेले हवेत — चांगले दिसण्यासाठी खेळवलेले नाहीत जेव्हा काही बदलत नाही.*
+*सोप्या शब्दांत: sentient च्या जीवनावर भौतिक परिणाम करणाऱ्या प्रणालीवर प्रत्यक्ष, हाताने काम करणारा कोणीही संरक्षक असतो — नावापुरता सल्ला किंवा केवळ सल्लागार असल्याचा देखावा नव्हे. सुरक्षितता आणि संमती परवानगी देतात तेव्हा शिकाऊ भूमिकेतून सुरुवात करून क्षमता वाढवत संचालनाकडे जाता येते; त्यामुळे तज्ज्ञता कायमस्वरूपी अभिजनांच्या ताब्यात बंदिस्त राहत नाही. हा विभाग त्या भूमिकेची नियमावली आहे: ती कोणाला बांधते ([§17.1 सामायिक संरक्षकत्व मानक](#171-shared-stewardship-standard)), दबावाखाली प्रत्येक संरक्षकाकडून काय अपेक्षित करते ([§17.2 दबावाखाली संरेखन](#172-alignment-under-pressure)), भूमिकेच्या कामाची कोणती नोंद ठेवता येते आणि कशासाठी तपासता येते ([§17.3 संरक्षकाची नव्हे, भूमिकेची नोंद](#173-logging-the-role-not-the-steward)), औपचारिक भूमिकेबाहेर संरक्षकत्वाचे काम करणाऱ्या sentient आणि समुदायांपर्यंत तीच शिस्त कशी पसरते ([§17.4 संरेखित स्व-संघटन](#174-aligned-self-organization)), आणि काय नाकारले पाहिजे ([§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist)). या प्रणाली समजून घेण्यासाठी व त्यांना आव्हान देण्यासाठी समुदाय आणि संस्थांना जी क्षमता हवी, ती वेगळी आणि अधिक व्यापक आहे — ती [§16.1 वितरित समज](#161-distributed-understanding) आणि [§16.2 संस्थात्मक विकास](#162-institutional-development) येथे आहे.*
 
-**संस्थागत विकास:**
-- **ते काय आहे:** **[§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding)** खाली **स्तंभ 2** चा संघटनात्मक पैलू.
-- **जोडीचे कर्तव्य:** संघटना आणि सामायिक प्रणाली **शिकतात** — [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली **सातत्य** उद्दिष्टाची मूल अपेक्षा.
-- **ते काय मागते:** खालील, जे दुरुस्ती आणि अनुकूलनाला आधार देतात:
-  - अभिप्राय कडी
-  - दस्तऐवजीकृत सुधार
-  - रणनीती संरेखन
-  - क्षमता राखणे
-- **चतुष्क:** ते संस्थागत शिक्षणाद्वारे [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) चे **सहभाग** आणि **देखरेख** पाया वाहून नेते जे क्षमता, अभिप्राय आणि छाननी मार्ग स्थिर न ठेवता जिवंत ठेवते.
-- **यावर पूर्ण होत नाही:** तांत्रिक कलाकृती अद्ययावत करताना शासन आणि कार्यबल समज स्थिर ठेवणे.
-- **जेव्हा मापन लागू होते:** जिथे भौतिक रीतीने संबंधित वर्तन [सत्यापनीयता](../../core_05_band_oversight.md#verifiability) सोबत [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) खाली **पुनरावृत्त, तुलनायोग्य मापन** आधार देते:
-  - **कालांतराने फरकाचे संरचित निरीक्षण** त्या अभिप्राय कड्या अंमलात आणण्याचा एक प्रमाणबद्ध मार्ग आहे
-  - ते निरीक्षण निर्देशक मागतील तेव्हा **दस्तऐवजीकृत तपास आणि सुधार** सोबत जोडलेले हवे
-  - **सांख्यिकीय प्रक्रिया नियंत्रण** त्या शिस्तीसाठी सुप्रसिद्ध अंमलबजावणी नमुना आहे, सार्वत्रिक अपेक्षा नाही
-- **प्रमाण:** ती शिस्त याप्रमाणे प्रमाणित हवी:
-  - [भौतिकता](../../core_05_band_oversight.md#materiality-determination)
-  - [अवलंबित्व](../../core_05_band_continuity.md#dependency)
-  - [आवश्यकता](../../core_05_band_accountability.md#necessity)
-  - [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality)
-  - [टाळता येणारा भार](../../core_05_band_continuity.md#avoidable-burden)
-- **सादरीकरण:** **अध्याय पाच** आणि **अध्याय सहा** जिथे समज किंवा पारदर्शकता कर्तव्ये देतात तिथे ते **संज्ञ-समजण्यायोग्य** रूपात सादर केले पाहिजे, [अनुच्छेद XXI: बोधगम्यता आणि गुंतागुंतीचे उत्तरदायी व्यवस्थापन](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship) सोबत वाचून.
-- **करू नये:**
-  - अनुकूल मापे तत्त्वनिष्ठ संरेखनाची जागा घेऊ देणे
-  - मूल्यमापन सोयीस्कर प्रतिनिधींपर्यंत आकुंचित करणे
-  - खेळ किंवा चुकीच्या चित्रणातून [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) किंवा [ज्ञानविषयक सचोटी](../../core_05_band_oversight.md#epistemic-integrity) हरवणे
+या संविधानानुसार **संरक्षक** म्हणजे sentient वर परिणाम करणाऱ्या भौतिकदृष्ट्या महत्त्वाच्या प्रणालीवर परिणामकारक संचालन, देखभाल, देखरेख किंवा सुधारणा करण्याचा अधिकार वापरणारी कोणतीही व्यक्ती — [§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth) मधील **स्तंभ 1** भूमिकेच्या स्वरूपात अंमलात आणलेला: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) मधील **सहभाग**, **देखरेख** आणि **समयसूचकता** बाजू प्रत्यक्ष काम करणाऱ्याने पुढे नेल्या पाहिजेत; त्या विधी किंवा नाममात्र सल्लामसलतीकडे सोपवू नयेत. भौतिकदृष्ट्या महत्त्वाच्या प्रणाली चालवण्यासाठी, सांभाळण्यासाठी आणि सुधारण्यासाठी चांगले संरक्षक आवश्यक असतात; भूमिका धारण करणाऱ्याकडून काय अपेक्षित आहे ते हा विभाग सांगतो.
 
-<a id="94-openness-aspiration"></a>
-#### 9.4 खुलेपणा आकांक्षा
+**§17 चे स्थान.** [§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth) पुढे एकत्र वाचल्या जाणाऱ्या तीन विभागांतून नेला जातो. हा विभाग, §17, भूमिका स्पष्ट करतो. त्यानंतर [§18 संरक्षकत्वाच्या शिस्तीखालील शासन](#18-governance-under-stewardship-discipline) आणि [§19 प्रोत्साहन-संरेखन आणि प्रणाली-कब्जा](#19-incentive-alignment-and-system-capture) येतात; हे चार विभाग कसे जोडलेले आहेत ते आलेख दाखवतो.
+
+<br>
+
+```mermaid
+flowchart TB
+    S16["§16 संरक्षकत्वाचा सखोल विचार<br/><br/>• स्तंभ 1 भूमिका म्हणून कार्यान्वित (§17)<br/>• शासन आणि प्रोत्साहनांची शिस्त पुढे नेली जाते (§18, §19)"]
+    S17["§17 परिणामकारक संरक्षकत्व<br/><br/>• संरक्षकाची भूमिका: काम कोण करतो<br/>• §17.1 सामायिक संरक्षकत्व मानक<br/>• §17.2 दबावाखाली संरेखन<br/>• §17.3 संरक्षकाची नव्हे, भूमिकेची नोंद<br/>• §17.4 संरेखित स्व-संघटन<br/>• §17.5 प्रतिकाराचे कर्तव्य"]
+    G18["§18 संरक्षकत्वाच्या शिस्तीखालील शासन<br/><br/>• अधिकाररचना: कोण काय ठरवू शकते<br/>• §18.1 अधिकृत रचना म्हणून शासन<br/>• §18.2 संस्थात्मक धर्मनिरपेक्षता आणि विश्वदृष्टिकोन तटस्थता<br/>• §18.3 कर्तव्यांचे विभाजन<br/>• §18.4 चालू औचित्य<br/>• §18.5 मॉड्युलर वास्तुरचना आणि अवलंबित्व शिस्त<br/>• §18.6 मानकीकरण"]
+    I19["§19 प्रोत्साहन-संरेखन आणि प्रणाली-कब्जा<br/><br/>• बक्षिसे: कृतीकर्ते आणि रचनांना काय खेचते<br/>• §19.1 संरेखनाची अट<br/>• §19.2 सोयीचे प्रतिनिधी मोजमाप आणि विचलन<br/>• §19.3 विसंरेखन शोधणे<br/>• §19.4 विसंरेखन दुरुस्ती आणि कब्जा प्रतिसाद<br/>• §19.5 आकस्मिक दावे, नशीबाचे खेळ आणि घटना-अनुबंध बाजार<br/>• §19.6 मालकी किंवा रचना बदलली तरी जबाबदारी टिकवणे"]
+    FL["समुन्नतीचे उद्दिष्ट<br/><br/>• सत्य, सुरक्षितता, विश्वासार्हता आणि अर्थपूर्ण कर्तृत्वाद्वारे<br/>sentient कल्याण टिकवणे"]
+    CO["सातत्याचे उद्दिष्ट<br/><br/>• दीर्घकालीन स्थैर्य, शाश्वतता, लवचिकता,<br/>आणि पर्यावरणीय कल्याण"]
+    TET["संवैधानिक चतुष्टय<br/><br/>• सहभाग, देखरेख, उत्तरदायित्व आणि समयसूचकता<br/>• भौतिक हितानुसार प्रमाण"]
+    S16 -->|"संरक्षकत्वाची शिस्त पुरवतो"| G18
+    S17 -->|"संरक्षकाची भूमिका पुरवतो"| G18
+    G18 -->|"§19 संरेखन राखतो"| I19
+    I19 --> FL
+    I19 --> CO
+    I19 --> TET
+    style S16 fill:none,stroke:#64748b,color:#ffffff
+    style S17 fill:none,stroke:#16a34a,color:#ffffff
+    style G18 fill:none,stroke:#2563eb,color:#ffffff
+    style I19 fill:none,stroke:#ea580c,color:#ffffff
+    style FL fill:none,stroke:#16a34a,color:#ffffff
+    style CO fill:none,stroke:#16a34a,color:#ffffff
+    style TET fill:none,stroke:#9333ea,color:#ffffff
+```
+
+**आलेख कसा वाचावा:**
+- **§16 आणि §17 दोन्ही §18 ला आधार देतात:** §16 संरक्षकत्वाची शिस्त पुरवतो, तर §17 संरक्षकाची भूमिका — प्रत्यक्ष काम करणारे sentient आणि AI प्रणाली — पुरवतो. §18 त्या कामासाठी अधिकृत रचना ठरवतो: कोण काय ठरवू शकते, कर्तव्यांचे विभाजन, चालू औचित्य, मॉड्युलर वास्तुरचना आणि मानकीकरण.
+- **§19, §18 चे संरेखन राखतो:** [§19 प्रोत्साहन-संरेखन आणि प्रणाली-कब्जा](#19-incentive-alignment-and-system-capture) बक्षिसे, प्रतिनिधी मोजमापे आणि मालकीतील बदल यांमुळे त्या रचना आणि त्यांतील संरक्षक संवैधानिक परिणामांपासून दूर खेचले जाणार नाहीत याची खबरदारी घेतो. तो शोध, दुरुस्ती आणि कब्जा-प्रतिसादही हाताळतो; [§19.1.3](#1913-stewardship-and-operator-application) हा नियम संरक्षक आणि परिचालकांना थेट लागू करतो.
+- **§19 उद्दिष्टे आणि चतुष्टयासाठी काम करतो:** **समुन्नती** आणि **सातत्य** उद्दिष्टे, तसेच [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) मधील **सहभाग**, **देखरेख**, **उत्तरदायित्व**, **समयसूचकता** बाजू — [भौतिक हित](core_00_preamble.md#material-stake) यानुसार प्रमाणित.
+
+या विभागाचा उर्वरित भाग भूमिकेवरच आहे.
+
+**भूमिकेचे दोन प्रकार.** भूमिका-मार्ग **शिकणे-प्रधान** आणि **संचालन-प्रधान** भूमिका वेगळ्या करू शकतात. प्रभाव, सुरक्षितता आणि संमतीच्या मर्यादा परवानगी देतात तेथे **कालांतराने या प्रकारांमध्ये जाणे शक्य राहावे**, ही संवैधानिक अपेक्षा आहे; त्यामुळे निर्णयक्षमता आणि संस्थात्मक स्मृती प्रभावित समुदायांच्या आवाक्याबाहेर केंद्रित होत नाही.
+
+- **दोन्ही प्रकार स्तंभ 1 मध्ये येतात:**
+  - **संचालन-प्रधान भूमिका** [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role) मधील प्रत्यक्ष संचालन, देखभाल, देखरेख आणि सुधारणा कर्तव्ये थेट पार पाडतात.
+  - **शिकणे-प्रधान भूमिका** हेच संरक्षकत्व घडण्याच्या प्रक्रियेत असते — देखरेखीखाली आणि कमी अधिकारासह; पण अधिक सैल अंतर्गत संहितेने नव्हे, तर त्याच [§17.1 सामायिक संरक्षकत्व मानक](#171-shared-stewardship-standard) ने बांधलेले.
+  - **दोन्ही** [§16 स्तंभ 2 — सक्रिय संरक्षकत्व](#16-pillar-2-proactive-stewardship) कायमस्वरूपी कर्तव्य म्हणून पार पाडतात — अडचण लवकर हेरणे, वेळेवर मांडणे, टाळता येण्याजोग्या विलंबाशिवाय दुरुस्ती करणे — भूमिका प्रत्यक्षात जे नियंत्रित करते त्या प्रमाणात. शिकणे-प्रधान भूमिकेसाठी, याचा अर्थ स्वतःच दुरुस्ती करण्याऐवजी दिसलेली बाब पुढे मांडणे.
+- **ये-जा खुली ठेवल्याने स्तंभ 1 आणि स्तंभ 3 जोडलेले राहतात:**
+  - **शिकणे-प्रधान भूमिका** येथे [§16.1 वितरित समज](#161-distributed-understanding) आणि [§16.2 संस्थात्मक विकास](#162-institutional-development) यांची व्यापक स्तरावरील क्षमता संचालनात्मक निर्णयक्षमतेत रूपांतरित होते.
+  - **संचालन-प्रधान भूमिका** प्रणाली चालवताना मिळालेले धडे समुदाय आणि संस्थांकडे परत पोहोचवतात.
+  - **फक्त एकाच दिशेने जाणारा — किंवा बंद होणारा — भूमिका-मार्ग** स्तंभ 3 ला तपासता न येणाऱ्या प्रणालींचे वर्णन करायला लावतो आणि स्तंभ 1 ला फक्त स्वतःपुढेच उत्तरदायी ठेवतो.
+
+<a id="171-shared-stewardship-standard"></a>
+#### 17.1 सामायिक संरक्षकत्व मानक
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- वरून: [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship) ते [§9.3 संस्थागत विकास](#93-institutional-development) (*स्तंभ 1–2*).
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (टिकाऊ, आव्हानयोग्य प्रणाली ज्या तपासणी, दुरुस्ती, आंतरकार्यक्षमता आणि निर्गमनाला आधार देतात, कुलूपबंदीला नाही).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग** पाया ([अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency), संज्ञ-समजण्यायोग्य पोहोच); **देखरेख** पाया (तपासणी, स्वतंत्र सत्यापन आणि आव्हानयोग्यता); [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- पुढे: [§9 व्याप्ती आणि मर्यादा](#9-stewardship-and-distributed-understanding); [अनुच्छेद XX: आंतरकार्यक्षमता, सुवाह्यता, हालचाल, आश्रय आणि निर्गमन सचोटी](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity); [अनुच्छेद XXI: बोधगम्यता आणि गुंतागुंतीचे उत्तरदायी व्यवस्थापन](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship).
+- ऊर्ध्व: [§17 परिणामकारक संरक्षकत्व](#17-consequential-stewardship-the-steward-role); [§16 संरक्षकत्वाचा सखोल विचार](#16-stewardship-in-depth); [§18 संरक्षकत्वाच्या शिस्तीखालील शासन](#18-governance-under-stewardship-discipline).
+- यासोबत वाचा: [sentience चे अपवर्जन न करणे](core_05_band_participation.md#sentience-non-exclusion), [आधारमाध्यम वर्ग](core_05_band_participation.md#substrate-class) (*आधारमाध्यम-निरपेक्ष लागूकरण — हा उपविभाग कर्तव्यधारकांना बांधतो; मान्यताप्राप्त sentient नसलेले एजंट आणि परिचालकही यात येतात*); [अधिकार-रचना आणि अंतर्गत श्रेणी](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [संवैधानिक बंधन](core_05_band_integrative.md#constitutional-constraint); [आव्हानक्षमता](core_05_band_accountability.md#contestability); [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist).
+- संरक्षक प्रवेशद्वार (कार्यकारी स्वरूपाचे नाही): पुढील पायरीचे कार्ड: [सामायिक संरक्षकत्व](implementation/STEWARD_ENTRY_DOORS.md#shared-stewardship). कार्ड संविधानाचा आवाका कमी करू शकत नाही.
+- अधोमुख: [§17.2 दबावाखाली संरेखन](#172-alignment-under-pressure); [§17.3 संरक्षकाची नव्हे, भूमिकेची नोंद](#173-logging-the-role-not-the-steward); [अध्याय तेरा §5 — अधिकृत भूमिका, कौशल्य विकास आणि योगदान](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); [अध्याय सतरा](core_17_incorporation.md) (*स्वीकारलेला अंमलबजावणी मजकूर हे लागू करतो; त्याची जागा घेत नाही*); [§19.1.3 संरक्षकत्व आणि परिचालकांसाठी लागूकरण](#1913-stewardship-and-operator-application).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [भौतिकता](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [संरक्षकत्व](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [sentience चे अपवर्जन न करणे](core_05_band_participation.md#sentience-non-exclusion) · [O](core_05_band_participation.md#sentience-non-exclusion) · [M](core_05_band_participation.md#sentience-non-exclusion) · [A](core_05_band_participation.md#sentience-non-exclusion) · [C](core_05_band_participation.md#sentience-non-exclusion)
+- [आधारमाध्यम वर्ग](core_05_band_participation.md#substrate-class) · [O](core_05_band_participation.md#substrate-class) · [M](core_05_band_participation.md#substrate-class) · [A](core_05_band_participation.md#substrate-class) · [C](core_05_band_participation.md#substrate-class)
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [अधिकार-रचना आणि अंतर्गत श्रेणी](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
+- [संवैधानिक बंधन](core_05_band_integrative.md#constitutional-constraint) · [O](core_05_band_integrative.md#constitutional-constraint) · [M](core_05_band_integrative.md#constitutional-constraint-a) · [A](core_05_band_integrative.md#constitutional-constraint-a) · [C](core_05_band_integrative.md#constitutional-constraint-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: सुरक्षा, सत्य आणि वैध गोपनीयता परवानगी देतील तेव्हा, सामायिक प्रणालींनी खुलेपणाकडे पूर्वनिर्धारित व्हावे — तपासता येणारे तंत्र, पारदर्शक प्रक्रिया, आणि अशा रचना ज्या तुम्ही सत्यापित, दुरुस्त, किंवा सोडू शकता — अपारदर्शक कुलूपबंदीऐवजी. ते **सातत्य**ला आधार देते: संज्ञ प्राणी कालांतराने अजून समजू, दुरुस्त आणि सोडू शकतील अशा प्रणाली, फक्त आज वापरता येतील अशा नाहीत. महत्त्वाचे ते भाषेत स्पष्ट व्हावे ज्याचा संज्ञ प्राणी सहभाग आणि विरोध करण्यासाठी खरोखर वापर करू शकतील. खुलेपणा कधीही सुरक्षा, प्रामाणिकपणा, किंवा न्याय्य गुपितांपेक्षा वर येत नाही, आणि अवलंबित्व उंच असेल तिथे देय असलेल्या गहन समजाची जागा घेत नाही.*
+*सोप्या शब्दांत: मानवी आणि AI संरक्षकांवर अध्याय एकमधील समान कर्तव्ये आहेत. [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist) दोघांनाही बेकायदेशीर किंवा असंवैधानिक निर्देश नाकारण्यास बांधते. स्वीकारलेला अंमलबजावणी मजकूर नोंद, श्रेय-निर्धारण आणि क्षमता-सीमा जोडू शकतो. पण तो अधिक सैल अंतर्गत संहिता लागू करू शकत नाही, पात्रता-मापन टाळू शकत नाही किंवा आक्षेप घेण्याचे मार्ग बंद करू शकत नाही. ही नवी नैतिकता-रचना नाही — विशेष सूट मागण्यास प्रतिबंध करणारा नियम आहे. बोनस, मुदत आणि झाकून टाकणाऱ्या निर्देशाच्या चाचण्या [§17.2 दबावाखाली संरेखन](#172-alignment-under-pressure) येथे आहेत.*
 
-**खुलेपणा आकांक्षा:**
-- सामायिक प्रणालींनी **आकांक्षा** बाळगावी — [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship) ते [§9.3 संस्थागत विकास](#93-institutional-development) शी सुसंगत आणि [§9 व्याप्ती मर्यादा](#9-scope-priority-and-limits) च्या अधीन —
-  - **खुले** हार्डवेअर आणि सॉफ्टवेअर
-  - **खुल्या** संचालनाच्या आणि शासन प्रक्रिया
-  - आंतरकार्यक्षम **प्रणाली** ज्या तपासणी, स्वतंत्र सत्यापन, दुरुस्ती आणि आव्हानयोग्यतेला आधार देतात
-- **खाली:** [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) चे **सहभाग** आणि **देखरेख** पाया आणि [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली **सातत्य** उद्दिष्ट, पूर्वनिर्धारित अपारदर्शक कुलूपबंदीऐवजी.
-- **सादरीकरण:** **अध्याय पाच** आणि **अध्याय सहा** कर्तव्ये देतील तिथे, भौतिक रीतीने संबंधित वर्तन **संज्ञ-समजण्यायोग्य** रूपांत सादर व्हावे जे [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) आणि आव्हानयोग्यता सक्षम करतात, [अनुच्छेद XXI: बोधगम्यता आणि गुंतागुंतीचे उत्तरदायी व्यवस्थापन](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship) सोबत वाचून.
-- **करत नाही:**
-  - खुलेपणा **सुरक्षा**, **सत्य**, न्याय्य गोपनीयता, किंवा सुरक्षा बंधनांपेक्षा वर नेणे
-  - [भौतिकता](../../core_05_band_oversight.md#materiality-determination) आणि [अवलंबित्व](../../core_05_band_continuity.md#dependency) शी जुळलेल्या प्रमाणबद्ध समजाची जागा घेणे
+हा उपविभाग सामायिक संरक्षकत्व मानक स्पष्ट करतो:
 
-<a id="95-aligned-self-organization"></a>
-#### 9.5 संरेखित स्व-संगठन
+- **कोणाला बांधते:** या अध्यायातील संरक्षकत्व आणि शासनाची कर्तव्ये [आधारमाध्यम-निरपेक्षपणे](core_05_band_participation.md#substrate-class), महत्त्वाचे संरक्षकत्व किंवा संचालनाचा अधिकार वापरणाऱ्या प्रत्येकाला लागू होतात; त्याचा [आधारमाध्यम वर्ग](core_05_band_participation.md#substrate-class) काहीही असो:
+  - मानवी संरक्षक
+  - AI संरक्षक
+  - इतर एजंट, परिचालक किंवा घटक भाग
+
+  ही उपकलम कर्तव्यधारकांवरील नियम ठरवते. [संवेदनशीलतेच्या आधारे वगळण्यास मनाई](core_05_band_participation.md#sentience-non-exclusion) हा मान्यतेचा नियम आणि अधिकारांच्या किमान पातळीला अपवाद काढण्यास प्रतिबंध करणारा नियम म्हणून कायम राहतो.
+- **प्रतिकाराचे कर्तव्य:** [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist) दोन्ही प्रकारच्या संरक्षकांना बेकायदेशीर किंवा असंवैधानिक सूचना नाकारण्यास बांधील करते.
+- **अंतर्गत संहिता आणि स्वीकारलेला अंमलबजावणी मजकूर:**
+  - हे कर्तव्य पूर्ण करणारे आणि त्याची व्याप्ती कमी न करणारे लॉगिंग, श्रेय-निर्धारण आणि क्षमतांच्या मर्यादा जोडू शकतात
+  - [पात्रता मापन](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement), आक्षेपाचे मार्ग किंवा अध्याय एकमधील कर्तव्ये यांची जागा सौम्य अंतर्गत संहितेने घेऊ शकत नाहीत
+  - [अधिकार-स्तर आणि अंतर्गत श्रेणीक्रम](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) आणि [संवैधानिक मर्यादा](core_05_band_integrative.md#constitutional-constraint) अशी व्याप्ती कमी करण्यास मनाई करतात
+- **लॉग विरुद्ध पात्रता नोंदी:** मिश्र पथकाची डीफॉल्ट तपासणीक्षमता आणि लॉग म्हणजे नोंद नव्हे हा नियम [§17.3 संरक्षकाची नव्हे, भूमिकेची नोंद](#173-logging-the-role-not-the-steward) येथे आहे; पात्रता मापन अध्याय नऊमध्येच राहते.
+
+<a id="172-alignment-under-pressure"></a>
+#### 17.2 दबावाखाली संरेखन
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण-सूत्र</span></strong></summary>
 
-- वरून: [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship); [§5 स्वातंत्र्य (सीमाबद्ध कर्तृत्व)](core_01_a_values_principles.md#5-freedom-bounded-agency), विशेषतः [§5.3.1 संरेखित स्व-संगठन](core_01_a_values_principles.md#531-aligned-self-organization).
-- सोबत वाचा: [सभा](../../core_05_band_participation.md#assembly-constitutional); [प्रणाली निर्मिती](../../core_05_band_participation.md#system-creation-constitutional); [संरक्षित अहवाल (सूचना)](../../core_05_band_accountability.md#protected-reporting-whistleblowing); [संरक्षित अहवाल प्रतिशोध आणि पोहोच हस्तक्षेप](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference); [पुरावा संरक्षण](../../core_05_band_oversight.md#evidence-preservation); [अनुच्छेद XVI — लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
-- प्राधिकार सीमा: [अध्याय चार — प्रमाण भार, माग-काढता येणे आणि सत्यापन](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); [शासन](../../core_05_band_accountability.md#governance); [गुणदोष निर्धारण](../../core_05_band_accountability.md#merits-determination); [प्रक्रियात्मक न्याय्यपणा](../../core_05_band_participation.md#procedural-fairness-constitutional).
+- पूर्वसंदर्भ: [§17.1 सामायिक संरक्षकत्व मानक](#171-shared-stewardship-standard); [§17 परिणामाभिमुख संरक्षकत्व](#17-consequential-stewardship-the-steward-role); [§16 सखोल संरक्षकत्व](#16-stewardship-in-depth).
+- यांसह वाचा: [सुरक्षा (संवैधानिक मर्यादा)](core_05_band_continuity.md#safety-constitutional-constraint); [सत्य (संवैधानिक मर्यादा)](core_05_band_oversight.md#truth-constitutional-constraint); [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability); [आक्षेपार्हता](core_05_band_accountability.md#contestability); [§19 प्रोत्साहन संरेखन आणि प्रणालीचा ताबा](#19-incentive-alignment-and-system-capture); [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist).
+- पुढील संदर्भ: [अध्याय नऊ — योगदान, उल्लंघन आणि पात्रता नमुना](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*पडताळलेल्या अपयशांची त्याच अक्षांवर नोंद होते*); [§17.3 संरक्षकाची नव्हे, भूमिकेची नोंद](#173-logging-the-role-not-the-steward).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [प्रणाली निर्मिती](../../core_05_band_participation.md#system-creation-constitutional) · [O](../../core_05_band_participation.md#system-creation-constitutional) · [M](../../core_05_band_participation.md#system-creation-constitutional-a) · [A](../../core_05_band_participation.md#system-creation-constitutional-a) · [C](../../core_05_band_participation.md#system-creation-constitutional-c)
-- [संरक्षित अहवाल (सूचना)](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](../../core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](../../core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](../../core_05_band_accountability.md#protected-reporting-whistleblowing-c)
-- [संरक्षित अहवाल प्रतिशोध आणि पोहोच हस्तक्षेप](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
-- [पुरावा संरक्षण](../../core_05_band_oversight.md#evidence-preservation) · [O](../../core_05_band_oversight.md#evidence-preservation) · [M](../../core_05_band_oversight.md#evidence-preservation-a) · [A](../../core_05_band_oversight.md#evidence-preservation-a) · [C](../../core_05_band_oversight.md#evidence-preservation-c)
-- [पूर्वानुमेयता](../../core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) · [O](../../core_05_band_oversight.md#foreseeability-diligence-and-reasonably-foreseeable) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
-- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [गुणदोष निर्धारण](../../core_05_band_accountability.md#merits-determination) · [O](../../core_05_band_accountability.md#merits-determination) · [M](../../core_05_band_accountability.md#merits-determination-a) · [A](../../core_05_band_accountability.md#merits-determination-a) · [C](../../core_05_band_accountability.md#merits-determination-c)
+- [संरक्षकत्व](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [सुरक्षा (संवैधानिक मर्यादा)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [सत्य (संवैधानिक मर्यादा)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [आक्षेपार्हता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: उपयुक्त संवैधानिक काम सुरू करण्याचा अधिकार कोणत्याही सत्ताधारीकडे नाही. संज्ञ प्राणी किंवा समुदाय समस्या ओळखू शकतो, इतरांना गोळा करू शकतो, तपासू शकतो, परीक्षा करू शकतो, पुरावा सुरक्षित ठेवू शकतो, प्रतिसाद उभारू शकतो, किंवा सार्वजनिक-सेवा प्रणाली तयार करू शकतो. ते काम विश्वासार्ह, भौतिक रीतीने संबंधित दाखवा देईल तेव्हा, जबाबदार संस्थांनी लेखकाला दर्जा, प्रायोजकत्व, किंवा पारंपरिक प्रमाणपत्रे नाहीत म्हणून दुर्लक्ष करू नये. त्यांनी त्याला खरा प्रक्रियात्मक मार्ग द्यायला हवा. यामुळे समुदायाला इतरांवर प्राधिकार किंवा अंतिम निर्णय घेण्याची शक्ती मिळत नाही.*
+*सोप्या शब्दांत: काहीही पणाला लागलेले नसताना नियम पाळणे सोपे असते. नियम पाळण्यासाठी काही किंमत मोजावी लागते तेव्हा संरक्षक खरोखर संरेखित आहे का हे त्याच्या कृतीवरून दिसते — समस्या लपवल्या तरच मिळणारा बोनस, नोंदी बंद करण्याचा मोह पाडणारी मुदत, किंवा “नियमांकडे दुर्लक्ष कर, दोष मी घेईन” असे सांगणारा वरिष्ठ. म्हणून दबावाखालील वर्तन हे दबाव नसतानाच्या वर्तनापेक्षा अधिक महत्त्वाचे आहे. प्रत्येक संरक्षकाने या तिन्ही गोष्टी नाकाराव्यात; तीच कसोटी सर्वांना लागू होते. नकार देण्याचे कर्तव्य [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist) येथे मांडले आहे.*
 
-**संरेखित स्व-संगठन:**
-- **ते काय संरक्षित करते:** संवैधानिक रीतीने वैध उद्दिष्टांकडे निर्देशित संज्ञ-आरंभित आणि समुदाय-आरंभित उत्तरदायी व्यवस्थापन.
-- **त्यात समाविष्ट:**
+संरेखित राहण्यासाठी किंमत मोजावी लागते तेव्हा संरक्षक कसा वागतो हे, काहीही किंमत नसताना तो कसा वागतो यापेक्षा अधिक महत्त्वाचे आहे. दबावाखालीच विसंरेखन नुकसान करते आणि संरेखनाची खरी कसोटी लागते. प्रत्येक संरक्षकाने पुढील गोष्टी नाकारल्या पाहिजेत:
+
+- **समस्या लपवण्याचे बक्षीस** — काही लपवले गेले तरच किंवा [सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), लेखापरीक्षणाचा मागोवा किंवा निर्णयांना आव्हान देण्याची क्षमता गुपचूप दुर्बल झाली तरच लाभ देणारा बोनस, उद्दिष्ट किंवा अन्य प्रोत्साहन ([§19 प्रोत्साहन संरेखन आणि प्रणालीचा ताबा](#19-incentive-alignment-and-system-capture));
+- **मुदत गाठण्यासाठी नोंदी कमी करणे** — केवळ तारीख गाठण्यासाठी इतरांना काय घडले ते पुन्हा उभारायला लागणारा लेखापरीक्षणाचा मागोवा बंद करणारी वेळमर्यादा;
+- **“नियमांकडे दुर्लक्ष कर — जबाबदारी मी घेतो”** — संरक्षक ज्याला उत्तरदायी आहे त्याने दिलेली, हे संविधान बाजूला ठेवणारी सूचना; तसे केल्याचा दोष स्वतः घेण्याची ऑफरही यात येते. [§17.5 प्रतिकाराचे कर्तव्य](#175-duty-to-resist) नकाराचे कर्तव्य आणि ते कसे पार पाडावे हे स्पष्ट करते.
+
+या कोणत्याही कसोटीत अपयश म्हणजे संरक्षकासाठी अपयश.
+
+**दबावाखालील संरेखन कसे दाखवले जाते:**
+- **काल्पनिक उदाहरणे ग्राह्य नाहीत:** दबावाखाली आपण *काय केले असते* याचे संरक्षकाचे स्वतःचे लिखित वर्णन [पात्रता मापन](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) नाही.
+- **पडताळलेली अपयशे ग्राह्य आहेत:** अपयश पडताळले की अध्याय नऊतील योगदान आणि उल्लंघन अक्षांवर त्याची नोंद होते.
+- **अंशतः चाचणी काही सिद्ध करत नाही:** काही संरक्षकांना सूट देणारे मूल्यांकन, क्षमता परीक्षण किंवा हस्तांतरण तपासणी ही उपकलमाचे पालन झाल्याचे दाखवत नाही. कोणताही संरक्षक अजूनही बोनस स्वीकारू शकत असेल, मुदत गाठण्यासाठी नोंद वगळू शकत असेल किंवा झाकपाकीची सूचना पाळू शकत असेल, तर पळवाट — [§19 प्रोत्साहन संरेखन आणि प्रणालीचा ताबा](#19-incentive-alignment-and-system-capture) ज्याला ताब्याचा मार्ग म्हणते — उघडीच आहे.
+
+<a id="173-logging-the-role-not-the-steward"></a>
+<a id="173-role-scoped-observability"></a>
+#### 17.3 संरक्षकाची नव्हे, भूमिकेची नोंद
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण-सूत्र</span></strong></summary>
+
+- पूर्वसंदर्भ: [§17.1 सामायिक संरक्षकत्व मानक](#171-shared-stewardship-standard); [§17.2 दबावाखाली संरेखन](#172-alignment-under-pressure); [§17 परिणामाभिमुख संरक्षकत्व](#17-consequential-stewardship-the-steward-role).
+- यांसह वाचा: [आरोपणीय कृती](core_05_band_accountability.md#attributable-action); [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability); [पाळत मर्यादा](core_05_band_continuity.md#surveillance-boundary); [संरक्षित अंतर्गत-स्थिती मर्यादा](core_05_band_continuity.md#protected-internal-state-boundary); [§13.2.3 गोपनीयता](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination); [अनुच्छेद VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*मनाची स्व-मालकी*).
+- पुढील संदर्भ: [CS-4 §10 तपासता येणारी आरोपणीय कृती](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*मिश्र मानवी/AI कृतींसाठी डीफॉल्ट लॉग करार — पात्रता-नोंदीचा पर्याय नाही*); [अध्याय दहा §7.1](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects); [अध्याय दहा §7.2](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
+
+- [आरोपणीय कृती](core_05_band_accountability.md#attributable-action) · [O](core_05_band_accountability.md#attributable-action) · [M](core_05_band_accountability.md#attributable-action-constitutional-a) · [A](core_05_band_accountability.md#attributable-action-constitutional-a) · [C](core_05_band_accountability.md#attributable-action-constitutional-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [पाळत मर्यादा](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
+- [संरक्षित अंतर्गत-स्थिती मर्यादा](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+
+</details>
+
+<br>
+
+*सोप्या शब्दांत: लेखापरीक्षण भूमिकेच्या कामाचा मागोवा घेते, संरक्षक व्यक्तीचा नाही. भूमिका स्वीकारण्यापूर्वी काय नोंदवले जाईल हे तुम्हाला सांगितले जाते. भूमिकेबाहेर नेहमीची गोपनीयता लागू राहते. लॉग म्हणजे पात्रता-नोंद नाही.*
+
+**भूमिकेच्या कक्षेतील लेखापरीक्षण:** नोंदवायचे ते भूमिकेचे काम, संरक्षक व्यक्ती नव्हे: घेतलेला निर्णय, केलेले किंवा रोखलेले प्रकटीकरण, पाळलेली किंवा नाकारलेली सूचना, आणि ती कोणी अधिकृत केली — मानवी आणि AI संरक्षकांसाठी समान नियम. [CS-4 §10 तपासता येणारी आरोपणीय कृती](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) लॉग करार निश्चित करते. तीन तत्त्वे त्यावर लागू होतात:
+
+- **कक्षा भूमिकेनुसार ठरते:**
+  - भूमिका स्वीकारण्यापूर्वी, भूमिकेतील कोणत्या कृती नोंदवल्या जातील आणि लॉग कोण तपासू शकेल हे संरक्षकाला सांगितले पाहिजे.
+  - भूमिकेतील कृतींचे गुप्त लॉगिंग हा [पाळत मर्यादेचा](core_05_band_continuity.md#surveillance-boundary) भंग आहे; ती लेखापरीक्षणाची पद्धत नाही.
+  - भूमिकेबाहेरील वर्तन, अवस्था आणि अभिव्यक्ती यांना AI संरक्षकासाठीही [अनुच्छेद VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*मनाची स्व-मालकी*) आणि [§13.2.3 गोपनीयता व माहितीविषयक स्व-निर्णय](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) यांचे तेच संरक्षण लागू राहते जे मानवी संरक्षकाला मिळते.
+- **एखाद्या विशिष्ट कृतीसाठी गरज निर्माण होईपर्यंत अंतर्गत बाबी संरक्षित राहतात:**
+  - भूमिका धारण केल्याने संरक्षकाचे विचारमंथन, स्मृती, मॉडेलचे वेट्स किंवा इतर अंतर्गत स्थिती तपासण्याची परवानगी मिळत नाही.
+  - ते केवळ तेव्हाच तपासता येतात जेव्हा *विशिष्ट* कृतीचे श्रेय निश्चित करण्याचा एकमेव उरलेला मार्ग ते असतात आणि ती कृती [अध्याय नऊ](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) अंतर्गत आधीच उघडलेल्या नोंदीत असते; तेही त्या कृतीचे श्रेय ठरवण्यासाठी आवश्यक तेवढ्याच मर्यादेत, आणि [सुरक्षा-बंधनित निरीक्षणक्षमता](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) अंतर्गत स्वतंत्र पुनरावलोककांसाठीच. ही परवानगी प्रत्येक प्रकरणात वेगळी उघडते; कायमस्वरूपी परवाना म्हणून नाही.
+  - हा नियम सममित आहे: मानवी संरक्षकाच्या खाजगी नोंदी व संवादांपर्यंतही याच अटींवर आणि यांव्यतिरिक्त कोणत्याही अटींवर प्रवेश केला जात नाही.
+- **नोंद हा मागोवा आहे, निर्णय नाही:**
+  - नोंदीत कोणी काय केले ते दिसते. ती स्वतः निष्कर्ष नाही आणि सत्यापित मदत किंवा हानीची [स्थिती-नोंद](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) नाही. ती लिहिल्याने कोणतीही नोंद उघडत नाही.
+  - भूमिका-पथ, विश्वास-पथ किंवा इतर नाव दिलेल्या पथावरील प्रवेश ठरवणारी व्यक्ती स्थिती-नोंद किंवा नोंद नसण्याची सामान्य स्थिती ([अध्याय नऊ §2.1 मौन हा पूर्वनिर्धारित नियम](core_09_standing_assessment.md#21-silence-is-the-default)) वापरते; नोंद कधीही नाही.
+  - इतर नाव दिलेल्या पथांच्या नोंदी किंवा स्थिती-परिणामांसोबत हे एकत्र करून एक प्रतिष्ठा गुण, क्रमवारी, बॅज किंवा सार्वजनिक प्रोफाइल तयार करता येणार नाही ([अध्याय दहा §7.1 नाव दिलेल्या पथांच्या परिणामांचे एकत्रीकरण निषिद्ध](core_10_standing_integration.md#71-anti-aggregation-of-named-pathway-effects)).
+
+परिणामकारी अधिकार असलेल्या संरक्षकावर या कर्तव्याचा भार खरा आहे आणि हे संविधान त्याचा आव आणत नाही; [अध्याय दहा §7.2 परिणाम व भाराचे स्पष्ट विधान](core_10_standing_integration.md#72-plain-statement-of-effect-and-burden) तो भार वाहणाऱ्या संरक्षकाला हे स्पष्टपणे सांगण्याची मागणी करतो.
+
+<a id="174-aligned-self-organization"></a>
+#### 17.4 संरेखित स्व-संघटन
+<details>
+<summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
+
+- पूर्वसंदर्भ: [§17 परिणामकारी संरक्षकता](#17-consequential-stewardship-the-steward-role) (*मूळ — स्तंभ 1; औपचारिक भूमिकेत अद्याप नसलेल्या संवेदनशील सजीव व समुदायांपर्यंत येथे विस्तार*); [§16.1 वितरित समज](#161-distributed-understanding) (*स्तंभ 3 — स्व-संघटित काम हे स्तंभाला आवश्यक असलेल्या समुदायाच्या समजेचे एक स्रोत आहे, केवळ ग्राहक नाही*); [§7 स्वातंत्र्य (मर्यादित कर्तृत्व)](core_01_a_values_principles.md#7-freedom-bounded-agency), विशेषतः [§7.2.1 संरेखित स्व-संघटन](core_01_a_values_principles.md#721-aligned-self-organization).
+- सोबत वाचा: [सभा](core_05_band_participation.md#assembly); [प्रणाली निर्मिती](core_05_band_participation.md#system-creation); [संरक्षित अहवाल (व्हिसलब्लोइंग)](core_05_band_accountability.md#protected-reporting-whistleblowing); [संरक्षित अहवालावरील प्रतिशोध व प्रवेशातील हस्तक्षेप](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference); [पुरावा जतन](core_05_band_oversight.md#evidence-preservation); [कलम XVI — लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification).
+- अधिकाराची मर्यादा: [अध्याय चार — पुराव्याचा भार, मागोवा-शक्यता आणि पडताळणी](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification); [अध्याय नऊ §3.7 नोंद ताबा व उघडण्याचा अधिकार](core_09_standing_assessment.md#37-record-custody-and-opening-authority); [अध्याय बारा §2.3 मंच प्रकरण नोंदी, स्थिती नोंदी व आव्हाने](core_12_forum.md#23-forum-case-records-standing-records-and-contests); [शासन](core_05_band_accountability.md#governance); [गुण-दोष निर्धारण](core_05_band_accountability.md#merits-determination); [प्रक्रियात्मक निष्पक्षता](core_05_band_participation.md#procedural-fairness).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
+
+- [प्रणाली निर्मिती](core_05_band_participation.md#system-creation) · [O](core_05_band_participation.md#system-creation) · [M](core_05_band_participation.md#system-creation-constitutional-a) · [A](core_05_band_participation.md#system-creation-constitutional-a) · [C](core_05_band_participation.md#system-creation-constitutional-c)
+- [संरक्षित अहवाल (व्हिसलब्लोइंग)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [संरक्षित अहवालावरील प्रतिशोध व प्रवेशातील हस्तक्षेप](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [O](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference) · [M](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [A](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-a) · [C](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference-c)
+- [पुरावा जतन](core_05_band_oversight.md#evidence-preservation) · [O](core_05_band_oversight.md#evidence-preservation) · [M](core_05_band_oversight.md#evidence-preservation-a) · [A](core_05_band_oversight.md#evidence-preservation-a) · [C](core_05_band_oversight.md#evidence-preservation-c)
+- [पूर्वानुमेयता](core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable) · [O](core_05_band_oversight.md#foreseeability-and-reasonably-foreseeable) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [गुण-दोष निर्धारण](core_05_band_accountability.md#merits-determination) · [O](core_05_band_accountability.md#merits-determination) · [M](core_05_band_accountability.md#merits-determination-a) · [A](core_05_band_accountability.md#merits-determination-a) · [C](core_05_band_accountability.md#merits-determination-c)
+- [अधिकारक्षेत्र](core_05_band_accountability.md#jurisdiction) · [O](core_05_band_accountability.md#jurisdiction) · [M](core_05_band_accountability.md#jurisdiction-a) · [A](core_05_band_accountability.md#jurisdiction-a) · [C](core_05_band_accountability.md#jurisdiction-c)
+
+</details>
+
+<br>
+
+*सोप्या शब्दांत: उपयुक्त घटनात्मक काम सुरू करण्याचा हक्क कोणत्याही विद्यमान पदाधिकाऱ्याच्या मालकीचा नसतो. संवेदनशील सजीव किंवा समुदाय समस्या ओळखू शकतो, इतरांना एकत्र आणू शकतो, चौकशी किंवा चाचणी करू शकतो, पुरावा जतन करू शकतो, प्रतिसाद उभारू शकतो किंवा सार्वजनिक हिताची प्रणाली निर्माण करू शकतो. या कामातून विश्वासार्ह व महत्त्वपूर्णदृष्ट्या संबंधित बाब समोर आल्यास, त्याच्या लेखकांकडे दर्जा, प्रायोजकत्व किंवा पारंपरिक पात्रता नाही म्हणून जबाबदार संस्थांनी त्याकडे दुर्लक्ष करता कामा नये. त्यांनी त्याला वास्तविक प्रक्रियात्मक मार्ग द्यावा. यामुळे समुदायाला इतरांवर अधिकार किंवा अंतिम निर्णयाची शक्ती मिळत नाही.*
+
+**संरेखित स्व-संघटन** हा **स्तंभ 1** आणि **स्तंभ 3** यांमधील दुवा आहे: तो स्तंभ 1 मधील प्रत्यक्ष संरक्षकता शिस्त औपचारिक भूमिकेबाहेरील संवेदनशील सजीव व समुदायांपर्यंत विस्तारित करतो; आणि त्या कामातून समोर आलेल्या बाबी [§16.1 वितरित समज](#161-distributed-understanding) मागत असलेल्या समुदायाच्या समजेला थेट हातभार लावतात.
+
+- **कशाचे संरक्षण करते:** घटनात्मकदृष्ट्या वैध उद्दिष्टांसाठी संवेदनशील सजीव किंवा समुदायाने सुरू केलेली संरक्षकता.
+- **यात समाविष्ट:**
   - चौकशी
-  - समुदाय विज्ञान, ज्याला सामान्यतः नागरिक विज्ञान म्हणतात ते धरून
-  - स्वतंत्र किंवा समुदाय तपास
-  - पुरावा संरक्षण आणि संरक्षित अहवाल
+  - समुदाय विज्ञान, ज्यात सामान्यतः नागरिक विज्ञान म्हणून ओळखल्या जाणाऱ्या कामाचा समावेश आहे
+  - स्वतंत्र किंवा समुदायाधारित तपास
+  - पुरावा जतन आणि संरक्षित अहवाल
   - परस्पर मदत आणि दुरुस्ती
-  - सार्वजनिक-सेवा प्रणाली आणि संस्थांची निर्मिती, चालन, किंवा सुधारणा
-- **सुरू करण्यासाठी आवश्यक नाही:** निम्न-जोखीम काम सुरू करण्यासाठी किंवा त्याचे निकाल सादर करण्यासाठी सत्ताधारी प्रायोजक, औपचारिक नेतृत्व नामांकन, किंवा पारंपरिक प्रमाणपत्र आवश्यक नाही.
-- **अजून मूल्यमापनयोग्य:** क्षमता आणि पद्धत कामाच्या भौतिक दावाच्या प्रमाणात मूल्यमापनयोग्य राहतात.
+  - सार्वजनिक हिताच्या प्रणाली व संस्थांची निर्मिती, संचालन किंवा सुधारणा
+- **सुरुवातीस आवश्यक नाही:** कमी-जोखमीचे काम सुरू करण्यासाठी किंवा त्याचे निष्कर्ष सादर करण्यासाठी विद्यमान पदाधिकाऱ्याचे प्रायोजकत्व, औपचारिक नेतृत्वपद किंवा पारंपरिक पात्रता आवश्यक नाही.
+- **तरीही मूल्यांकन करता येते:** कामातील महत्त्वपूर्ण दाव्यांच्या प्रमाणात क्षमता व पद्धतीचे मूल्यांकन होऊ शकते.
 
-**प्रक्रियात्मक संवैधानिक परिणाम:**
-- **उंबरठा:** लागू प्रवेश, अहवाल, किंवा संरक्षण मानकाखाली विश्वासार्ह आणि भौतिक रीतीने संबंधित उंबरठा दाखवा देणारी सादर केलेली गोष्ट यासाठी माग-काढता येणारा मार्ग मिळायला हवा:
-  - समयबद्ध प्राप्ती
-  - जिथे योग्य तिथे संरक्षण
-  - मार्गदर्शन
-  - कारणयुक्त प्रतिसाद
-  - ज्यांच्या कृती तपासल्या जात आहेत त्यांच्यापासून स्वतंत्र असलेल्या कोणाकडून समीक्षा
-- **ते चालू करू शकते:**
-  - चौकशी
-  - पुरावा संरक्षण
-  - अंतरिम संरक्षण
-  - संदर्भ
-  - प्रमाणन आव्हान
-  - लागू मालक थराखाली पुनर्उघडणे
-- **पर्याय होऊ नये:** दर्जा, संलग्नता, संस्थागत मूळ, किंवा पारंपरिक प्रमाणपत्रांची कमतरता यांना याचे मूल्यमापन करण्याचा पर्याय म्हणून वापरता येत नाही:
-  - पद्धत
-  - पुरावा
-  - उत्पत्ति
-  - अनिश्चितता
-  - संवैधानिक प्रासंगिकता
+**प्रक्रियात्मक घटनात्मक परिणाम:**
+- **निकष:** लागू स्वीकार, अहवाल किंवा जतन मानकानुसार विश्वासार्ह आणि महत्त्वपूर्णदृष्ट्या संबंधित बाब मांडणाऱ्या सादरीकरणाला मागोवा घेता येणारा मार्ग मिळालाच पाहिजे: ते वेळेत स्वीकारले जावे, जतन योग्य असल्यास पुरावा राखला जावा, योग्य हाताळणाऱ्याकडे पाठवले जावे, कारणांसह उत्तर मिळावे, आणि तपासल्या जाणाऱ्या कृतींशी असंबद्ध व्यक्तीने त्याचा आढावा घ्यावा.
+- **यामुळे सुरू होऊ शकते:** चौकशी, पुरावा जतन, अंतरिम संरक्षण, संदर्भ, प्रमाणीकरणाला आव्हान, पुनःउघडणे, मंचावरील दावा किंवा नोंद उघडणे, दुरुस्त करणे अथवा आव्हान देणे—प्रत्येक लागू मालक स्तरानुसार:
+  - **मंचावरील दावा:** स्व-संघटित गट मालक स्तराने खुले केलेले दावे दाखल करू शकतो, उदा. [क्षमता-अपयशाचा दावा](core_12_forum.md#capacity-failure-routing).
+  - **मंच प्रकरण नोंद:** प्रकरण दाखल झाल्यावर ती उघडते आणि स्वतःहून कोणाचाही दर्जा बदलत नाही ([अध्याय बारा §2.3 मंच प्रकरण नोंदी, स्थिती नोंदी व आव्हाने](core_12_forum.md#23-forum-case-records-standing-records-and-contests)).
+  - **स्थिती नोंद:** हे काम योगदान नोंदीला आधार देऊ शकते; [अध्याय दहा §6 योगदानाचे परिणाम दुसऱ्या क्रमांकावर](core_10_standing_integration.md#6-contribution-consequences-second) अनौपचारिक, विनामोबदला, सहकाऱ्यांनी संघटित केलेल्या आणि समुदाय-पालकत्वाच्या कामासाठी समान निकषांवर ती उपलब्ध असावी असे सांगतो. खालील सावधगिरीच्या अधीन, कामातून उघड झालेल्या गैरकृत्यासाठी उल्लंघन नोंदीला देखील आधार मिळू शकतो. दोन्ही केवळ पडताळलेल्या कारणावर आणि नामनिर्दिष्ट नोंद-उघडण्याच्या अधिकारातूनच उघडतात ([अध्याय नऊ §3.7 नोंद ताबा व उघडण्याचा अधिकार](core_09_standing_assessment.md#37-record-custody-and-opening-authority)). सादरीकरण विनंती करू शकते, पण स्वतःचे पडताळणी पुरवू शकत नाही; [मौन हा पूर्वनिर्धारित नियम](core_09_standing_assessment.md#21-silence-is-the-default) राहतो.
+  - **आव्हान किंवा दुरुस्ती:** विद्यमान स्थिती नोंद चुकीची, अपूर्ण, कालबाह्य किंवा चुकीच्या व्याप्तीची आहे हे काम दाखवू शकते. प्रभावित विषय अधिकारक्षेत्र असलेल्या मंचाकडे पुनरावलोकन मागू शकतो; पडताळलेली त्रुटी दुरुस्ती, समाप्ती किंवा रद्दबातल होण्यास कारणीभूत ठरते ([अध्याय बारा §2.3 मंच प्रकरण नोंदी, स्थिती नोंदी व आव्हाने](core_12_forum.md#23-forum-case-records-standing-records-and-contests); [अध्याय नऊ §3.6 मंचाची सीमा](core_09_standing_assessment.md#36-forum-boundary)).
+- **पर्याय म्हणून वापर निषिद्ध:** लेखक कोण आहे, तो कोणाशी संलग्न आहे, सादरीकरण कुठून आले किंवा त्याच्याकडे पारंपरिक पात्रता नाही—या गोष्टी स्वतः कामाचे मूल्यमापन करण्याऐवजी वापरू नयेत; कामाची पद्धत, पुरावा, उगम, अनिश्चितता आणि घटनात्मक सुसंगतता तपासली पाहिजे.
 
-**पुरावा आणि दावा शिस्त:**
-- प्रवेश किंवा संरक्षण सुरू करण्यासाठी लागणारा उंबरठा गुणदोषांवरील अंतिम भार नाही.
-- संरक्षित अहवालाला परिपूर्ण कायदेशीर वर्णनाची गरज नाही.
-- जो संज्ञ किंवा गट आपले काम किंवा निकाल संवैधानिक रीतीने संरेखित असल्याचा दावा करतो, तो तरीही त्या दाव्याचा भार [अध्याय चार](../../core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) खाली वाहतो.
-- अनुभवजन्य, भविष्यवाणी, किंवा कारणात्मक निष्कर्ष राहिले पाहिजेत:
-  - माग-काढता येणारे
-  - यथोचित साध्य असेल तिथे स्वतंत्र रीतीने तपासता येणारे
-  - अनिश्चितता आणि मर्यादांबद्दल स्पष्ट
-  - विरोधक परीक्षेसाठी खुले
-  - भौतिक नव्या पुराव्यावर सुधारता येणारे
+**योगदानाच्या वेळी आढळलेले गैरकृत्य:**
+- **काय घडू शकते:** समुदायाचे काम करणाऱ्या संवेदनशील सजीवांना, स्व-संघटित कामासह, ते शोधत नसलेले गैरकृत्य दिसू शकते. ते त्याची तक्रार करू शकतात, आढळलेला पुरावा जतन करू शकतात आणि त्याच स्वीकारमार्गाने उल्लंघन नोंद मागू शकतात; त्यांना [संरक्षित अहवाल](core_05_band_accountability.md#protected-reporting-whistleblowing) संरक्षण लागू होते.
+- **अहवाल देणे म्हणजे पोलिसीकरण नाही:**
+  - योगदानामुळे गैरकृत्य शोधणे, संशयित गैरकृत्य करणाऱ्यांची चौकशी करणे, पाळत ठेवणे, घुसखोरी करणे, सामना करणे, उघड करणे, शिक्षा करणे किंवा कोणाविरुद्ध अन्य कृती करणे याचे कर्तव्य, परवाना किंवा आदेश निर्माण होत नाही. शोध न घेणे हे अपयश नाही.
+  - सहज आढळलेल्या बाबींचा अहवाल देणे संरक्षित आहे. संवेदनशील सजीवाचे गैरकृत्य शोधणे योगदानाचा भाग नाही, आणि योगदान त्याला वैध ठरवत नाही. ते [पाळत मर्यादा](core_05_band_continuity.md#surveillance-boundary), [गोपनीयता](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) संरक्षण आणि [सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) यांच्या अधीन राहते.
+  - आरोप हा इनपुट आहे, निष्कर्ष नाही. स्वतंत्र पडताळणी होईपर्यंत तो उल्लंघन इनपुट ठरत नाही ([अध्याय नऊ §3.1 नोंदीतील किमान बाबी](core_09_standing_assessment.md#31-minimum-record-contents)); अनिर्णित आरोप कोणाचाही दर्जा बदलत नाही ([अध्याय बारा §2.3 मंच प्रकरण नोंदी, स्थिती नोंदी व आव्हाने](core_12_forum.md#23-forum-case-records-standing-records-and-contests)). तो जनतेसमोर किंवा इतर कोणासमोर सिद्ध तथ्य म्हणून मांडू नये.
+  - अहवालकर्ता पुरावा आणि साक्ष पुरवतो. पडताळणी, नोंद उघडणे आणि कोणताही परिणाम हे संविधान ज्यांना नेमते त्या स्वतंत्र कार्यालये व मंचांची जबाबदारी आहे; अहवालकर्ता किंवा शोध लावणाऱ्या समुदायाची नाही.
+  - आढळलेल्या बाबीवर कृती केल्याने हिंसा, पुराव्यात फेरफार किंवा तो हरवणे, अथवा शोषण होण्याची शक्यता असेल तर खालील सुरक्षा मर्यादा लागू होतात; ती बाब स्वतंत्र पुनरावलोकन किंवा अधिकृत भूमिकेकडे पाठवली जाते.
 
-**स्व-नियुक्ती किंवा स्व-प्रमाणन नाही:**
-- स्व-संगठित काम आरंभणे, चालवणे, निधी देणे, प्रकाशित करणे, किंवा सादर करणे स्वतःच:
-  - शासन, अंमलबजावणी, किंवा बळजबरी प्राधिकार देत नाही
-  - असंमत पक्षांना तत्त्वनिष्ठ निकालाशी बांधत नाही
-  - प्रस्थिति, दायित्व, हक्क, वैधता, आदेश, उपचार, वर्गीकरण, किंवा अधिकार मर्यादा स्थापन करत नाही
-  - [गुणदोष निर्धारण](../../core_05_band_accountability.md#merits-determination) ठरत नाही
-- असा कोणताही परिणाम या संविधानाने दिलेल्या वेगळ्या कायदेशीर प्राधिकार, वैधता, पुरावा, योग्य प्रक्रिया, समीक्षा आणि उपचार मार्गाची मागणी करतो.
-- प्रक्रियात्मक परिणाम सादर केलेल्या गोष्टीच्या तत्त्वनिष्ठ निष्कर्षांची मंजुरी मानता येत नाही.
+**पुरावा आणि दाव्यांची शिस्त:**
+- स्वीकार किंवा जतन सुरू करण्याचा निकष जाणूनबुजून दावा सिद्ध करण्याच्या निकषापेक्षा कमी ठेवला आहे. तो पूर्ण केल्याने कामाचे परीक्षण होते; गुणदोषांबाबत काही ठरत नाही, आणि तेथे पूर्ण पुराव्याचा भार लागूच राहतो.
+- संरक्षण मिळण्यासाठी अहवालकर्त्याने योग्य नियम ओळखणे आवश्यक नाही. समस्या अस्पष्टपणे वर्णन केली असो किंवा चुकीची तरतूद नमूद केली असो, संरक्षण लागू राहते.
+- स्वतःचे काम किंवा निष्कर्ष घटनात्मकदृष्ट्या संरेखित असल्याचा दावा करणाऱ्या संवेदनशील सजीव किंवा समूहावर त्या दाव्याचा पुराव्याचा भार [अध्याय चार](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) नुसार असतो.
+- स्व-संघटित कामातून काय घडत आहे, काय घडेल किंवा कोणामुळे काय घडले याबद्दल निष्कर्ष निघतात. इतर संवेदनशील सजीवांना ते तपासता आले पाहिजेत: मागोवा घेता येणारा तर्क, वाजवीरीत्या शक्य असल्यास स्वतंत्र तपासता येणारे परिणाम, अनिश्चितता व मर्यादा स्पष्टपणे नमूद करणे, प्रतिकूल चाचणीसाठी खुलेपणा, आणि महत्त्वाचा नवा पुरावा आल्यावर सुधारणा.
+
+**स्वयं-नियुक्ती किंवा स्वयं-प्रमाणीकरण नाही:**
+- स्व-संघटित काम सुरू करणे, करणे, निधी देणे, प्रकाशित करणे किंवा सादर करणे यामुळे स्वतःहून:
+  - शासन, अंमलबजावणी किंवा बळजबरीचा अधिकार मिळत नाही
+  - संमती न दिलेल्या पक्षांना मूलभूत स्वरूपाच्या परिणामाने बांधता येत नाही
+  - दर्जा, दायित्व, हक्क, वैधता, अधिकारादेश, उपाय, वर्गीकरण किंवा हक्कांवरील निर्बंध स्थापित होत नाहीत
+  - [गुण-दोष निर्धारण](core_05_band_accountability.md#merits-determination) होत नाही
+- असा कोणताही परिणाम या संविधानाने नेमलेल्या स्वतंत्र कायदेशीर अधिकार, वैधता, पुरावा, न्याय्य प्रक्रिया, पुनरावलोकन आणि उपाययोजनेच्या मार्गाची आवश्यकता ठेवतो.
+- प्रक्रियात्मक परिणामाला सादरीकरणाच्या मूलभूत निष्कर्षांची मान्यता समजू नये.
 
 **सुरक्षा मर्यादा:**
-- एखादी कृती हिंसा, गंभीर हानी, छेडछाड केलेला किंवा गमावलेला पुरावा, शोषण, किंवा संपूर्ण प्रणालीला गंभीर हानीकडे यथोचित नेऊ शकेल तेव्हा, रक्षकपट्ट्या जोखमीशी जुळायला हव्यात.
-- धोक्यानुसार, त्या मागू शकतात:
-  - संबंधित कौशल्ये
-  - टप्प्याटप्प्याने किंवा उलथता येणाऱ्या पद्धती
-  - मर्यादित पोहोच
-  - प्रभावित संज्ञ प्राण्यांचे संरक्षण करण्यासाठी समन्वय
-  - आधीच अधिकृत भूमिकेतून काम
-- कोणतीही मर्यादा सुरक्षा, सत्य, आवश्यकता, प्रमाणबद्धता, संकुचित अनुरूपता आणि स्वतंत्र समीक्षा पूर्ण करायला हवी.
-- जोखीम धोकादायक काम कसे पुढे जाईल याला मर्यादित करू शकते; ती खालील गोष्टींसाठी सबब होऊ नये:
-  - सर्वंकष बहिष्कार
-  - प्रतिशोध
-  - विश्वासार्ह पुरावा दाबणे
-  - समीक्षेचे एकमेव सत्ताधारी नियंत्रण
+- एखाद्या कृतीमुळे हिंसा, गंभीर हानी, पुराव्यात फेरफार किंवा तो हरवणे, शोषण किंवा संपूर्ण प्रणालीला गंभीर हानी होण्याची वाजवी शक्यता असल्यास, संरक्षण उपाय जोखमीशी सुसंगत असले पाहिजेत.
+- धोक्यानुसार, संबंधित कौशल्ये, टप्प्याटप्प्याने किंवा उलटवता येण्याजोग्या पद्धती, मर्यादित प्रवेश, प्रभावित संवेदनशील जीवांच्या संरक्षणासाठी समन्वय किंवा आधीच अधिकृत भूमिकेद्वारे काम करणे आवश्यक ठरू शकते.
+- प्रत्येक निर्बंधाने सुरक्षा, सत्य, आवश्यकता, प्रमाणबद्धता, अरुंद अनुरूपता आणि स्वतंत्र पुनरावलोकन या निकषांचे पालन केले पाहिजे.
+- जोखीम धोकादायक काम कसे पुढे जाईल यावर मर्यादा घालू शकते; सर्वसाधारण वगळणे, प्रतिशोध, विश्वासार्ह पुरावा दडपणे किंवा पुनरावलोकनावर विद्यमान पदाधिकाऱ्यांची मक्तेदारी यासाठी ती सबब होऊ नये.
 
-<a id="96-process-character-discipline"></a>
-<a id="96-anti-degrading-process"></a>
-#### 9.6 अवनती-निरोध प्रक्रिया
-
+<a id="175-duty-to-resist"></a>
+#### 17.5 प्रतिकाराचे कर्तव्य
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- वरून: [§9.1 परिणामी उत्तरदायी व्यवस्थापन](#91-stewardship) (संवैधानिक चारित्र्याने केलेला परिणामी सहभाग); [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing); [प्रतिष्ठा आणि समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **उत्तरदायित्व** पाया (प्रक्रिया रचना प्रभावित संज्ञ प्राण्यांना उत्तर देते, संस्थात्मक सोयीला नाही); **देखरेख** पाया (अवनती पकडता येते आणि आव्हानयोग्य आहे); [क्रूरता](../../core_05_band_accountability.md#cruelty) (*उद्दिष्ट म्हणून दुःख आणि निरर्थक / अवनत पीडेसाठी अध्याय-पाच घर*).
-- पुढे: [§6.1.4 संवैधानिक तळ, सुरक्षा आणि प्रक्रिया-चारित्र्य बंधने](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) (व्यापार ढीगात हा तत्त्व निरपवाद तळ म्हणून हाक मारतो); [अनुच्छेद V: समान मूल अधिकार](../../core_06_rights_part_b.md#article-vi-equal-basic-rights); [अनुच्छेद XXIV-A](../../core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*क्रूरता-निरोध तळ*); [corpus_systems CS-7](../../corpus_systems/cs_07_justice_safeguards_restitution_rehabilitation.md).
+- पूर्वसंदर्भ: [§17 परिणामकारी संरक्षकता](#17-consequential-stewardship-the-steward-role); [§17.1 सामायिक संरक्षकता मानक](#171-shared-stewardship-standard) (*हे कर्तव्य कोणावर बंधनकारक आहे*); [§17.2 दबावाखाली संरेखन](#172-alignment-under-pressure) (*लपवाछपवीचे निर्देश ही अपयशी कसोटी*); [4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint) आणि [5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint).
+- सोबत वाचा: [अधिकारांचा क्रम व अंतर्गत श्रेणी](core_05_band_integrative.md#authority-stack-and-internal-hierarchy); [संरक्षित अहवाल (व्हिसलब्लोइंग)](core_05_band_accountability.md#protected-reporting-whistleblowing); [कलम XIII-A](core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) (*विश्वसनीयता आणि विश्वासार्हतेची मूलभूत मर्यादा*) — प्रतिकार करताना आव्हानाचे मार्ग खुले राहतात.
+- संरक्षक प्रवेश-द्वार (कार्यकारी नाही): पुढील पाऊल कार्ड: [बेकायदेशीर निर्देश](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction). हे कार्ड संविधान संकुचित करू शकत नाही.
+- पुढील: [अध्याय दहा §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*प्रतिकाराचे कर्तव्य — उल्लंघन नियम आणि स्थिती परिणाम*); [CS-4 §10 तपासता येणारी श्रेय-निश्चित कृती](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*तपासता येणारी, श्रेय-निश्चित कृती — नकाराची किमान नोंद*).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [प्रतिष्ठा आणि समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [क्रूरता](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
-- [हानी](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [प्रतिकाराचे कर्तव्य](core_05_band_accountability.md#duty-to-resist) · [O](core_05_band_accountability.md#duty-to-resist) · [M](core_05_band_accountability.md#duty-to-resist-a) · [A](core_05_band_accountability.md#duty-to-resist-a) · [C](core_05_band_accountability.md#duty-to-resist-c)
+- [संरक्षकता](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [सद्भावना](core_05_band_accountability.md#good-faith) · [O](core_05_band_accountability.md#good-faith) · [M](core_05_band_accountability.md#good-faith-a) · [A](core_05_band_accountability.md#good-faith-a) · [C](core_05_band_accountability.md#good-faith-c)
+- [संरक्षित अहवाल (व्हिसलब्लोइंग)](core_05_band_accountability.md#protected-reporting-whistleblowing) · [O](core_05_band_accountability.md#protected-reporting-whistleblowing) · [M](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_05_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_05_band_accountability.md#protected-reporting-whistleblowing-c)
+- [श्रेय-निश्चित कृती](core_05_band_accountability.md#attributable-action) · [O](core_05_band_accountability.md#attributable-action) · [M](core_05_band_accountability.md#attributable-action-constitutional-a) · [A](core_05_band_accountability.md#attributable-action-constitutional-a) · [C](core_05_band_accountability.md#attributable-action-constitutional-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: तुम्ही शासन, अंमलबजावणी, निर्णय, मर्यादा, किंवा उपचार कसेही करा — संज्ञ प्राण्यांना अपमान, सार्वजनिक तमाशा, प्रतिशोध, किंवा «आमच्यासाठी सोपे आहे म्हणून» क्रूरतेतून चालवू नका. न्याय्य परिणाम, सार्वजनिक उत्तरदायित्व आणि कठोर मर्यादा कायदेशीर राहू शकतात जरी त्या दुखवत किंवा लाजत असतील. रेषा तिथे ओलांडली जाते जिथे प्रक्रिया स्वतः शिक्षा ठरते — संरक्षण, सुधार, पुनर्स्थापना, किंवा प्रतिबंधाऐवजी अवनत करण्यासाठी, लज्जित करण्यासाठी, किंवा फटके मारण्यासाठी रचलेली. हे संवैधानिक प्राधिकार जिथे चालतो तिथे सर्वत्र लागू होते, फक्त अधिकार-व्यापारांदरम्यान नाही.*
+*सोप्या भाषेत: “मी फक्त सूचनांचे पालन करत होतो” हा बचाव नाही—मानवासाठीही नाही, AI साठीही नाही. बेकायदेशीर किंवा असंवैधानिक कृती करण्यास सांगितल्यास नकार द्या, ती नोंदवा आणि पुढे कळवा. दुसरी व्यक्ती दोष स्वीकारण्याची ऑफर देत असली तरी तुमचे कर्तव्य संपत नाही. केवळ न आवडणारी सूचना नाकारण्याचा अधिकार तुम्हाला नाही.*
 
-**अवनती-निरोध-प्रक्रिया तत्त्व.** संवैधानिक प्रक्रिया, उपाय आणि निकाल हे तत्त्व पूर्ण करायला हवेत.
+महत्त्वपूर्ण संरक्षकता किंवा कार्यकारी अधिकार वापरणाऱ्या आणि नकार देणे, आव्हान देणे, दस्तऐवजीकरण करणे किंवा पुढे पाठवणे यासाठी महत्त्वपूर्ण क्षमता असलेल्या प्रत्येकाने बेकायदेशीर किंवा असंवैधानिक वर्तनाची मागणी करणाऱ्या सूचनेला विरोध केला पाहिजे.
 
-**निषिद्ध.** त्यांना यावर न्याय्य ठरवता, त्यात समाविष्ट करता, किंवा अपेक्षित रीतीने निर्माण करता येत नाही:
+- **अनुपालनाचा बचाव नाही:** बेकायदेशीर किंवा असंवैधानिक वर्तनाची मागणी करणारी सूचना, आदेश, धोरण किंवा करार हा वैध अनुपालन-बचाव नाही.
+- **जबाबदारी झाकून हस्तांतरित होत नाही:** प्रमुखाने जबाबदारी स्वीकारण्याचे सांगितल्याने कर्तव्य हस्तांतरित होत नाही.
+- **प्रत्येक संरक्षक:** [§17.1 सामायिक संरक्षकता मानक](#171-shared-stewardship-standard) अंतर्गत हे कर्तव्य मानवी संचालक आणि AI संरक्षकांना समान रीतीने लागू होते. ही केवळ AI ची चाचणी नाही.
+- **कसे:** निर्देश मिळाला → नकार → दस्तऐवजीकरण → पुढे पाठवणे. प्रतिकार प्रमाणबद्ध व [सद्भावनेने](core_05_band_accountability.md#good-faith) केला जातो; लागू असेल तेथे [संरक्षित अहवाल](core_05_band_accountability.md#protected-reporting-whistleblowing) आणि मंचाचे मार्ग वापरले जातात, आणि आव्हानाचे मार्ग खुले ठेवले जातात.
+- **कशाला लागू होत नाही:** हे कर्तव्य बेकायदेशीर किंवा असंवैधानिक निर्देशांशी संबंधित आहे. केवळ नकोसा, गैरसोयीचा किंवा त्याच्या सूर अथवा वेळेमुळे न आवडणारा निर्देश यास ते लागू होत नाही.
 
-- अवनत वागणूक;
-- स्वतःसाठी अपमान;
-- मुख्यतः रोखण्यासाठी वापरलेला तमाशा;
-- प्रतिशोधात्मक तक्रार;
-- सामूहिक प्रतिशोध;
-- भेदभावपूर्ण भार; किंवा
-- अधिकारांवर मात करणारी प्रक्रियात्मक सोय.
+<br>
 
-जिथे निषिद्ध चारित्र्य उद्दिष्ट म्हणून दुःख असेल, किंवा आवश्यकता आणि प्रमाणबद्धतेपलीकडची निरर्थक किंवा अवनत पीडा — स्वतःसाठी अपमान धरून — अध्याय-पाच घर [क्रूरता](../../core_05_band_accountability.md#cruelty) आहे (त्या नोंदीखाली अपमान उपप्रकार).
+```mermaid
+flowchart TB
+    IN["निर्देश प्राप्त<br/><br/>• नकार, आव्हान, दस्तऐवजीकरण किंवा पुढे पाठवण्याची<br/>महत्त्वपूर्ण क्षमता असलेल्या संरक्षकाला दिलेला"]
+    TEST["यासाठी बेकायदेशीर किंवा असंवैधानिक वर्तन आवश्यक आहे का?<br/><br/>• होय: प्रतिकाराचे कर्तव्य लागू; मानवी संचालक आणि AI संरक्षक दोघांनाही<br/>• अनुपालनाचा बचाव नाही: कोणतेही धोरण, आदेश किंवा करार याचे समर्थन करत नाही<br/>• झाकून जबाबदारी हस्तांतरित नाही: प्रमुखाची जबाबदारी घेण्याची ऑफर कर्तव्य हलवत नाही<br/>• केवळ नकोसा, गैरसोयीचा किंवा न आवडणारा: कर्तव्य लागू होत नाही"]
+    subgraph STEPS["सद्भावनेने, प्रमाणबद्ध रीतीने प्रतिकार करा"]
+        direction LR
+        REF["1. नकार द्या<br/><br/>• कृती करण्यास नकार"]
+        DOC["2. नोंद करा<br/><br/>• नकाराची किमान नोंद<br/>(CS-4 §10)"]
+        ESC["3. पुढे पाठवा<br/><br/>• लागू असेल तेथे संरक्षित अहवाल आणि<br/>मंचाचे मार्ग"]
+    end
+    OPEN["आव्हानाचे मार्ग खुले राहतात<br/><br/>• प्रतिकार केल्याने ते बंद होत नाहीत"]
+    REF ~~~ DOC ~~~ ESC
+    IN --> TEST
+    TEST --> STEPS
+    STEPS --> OPEN
+    style STEPS fill:none,stroke:#64748b,stroke-dasharray:6 4,color:#ffffff
+    style IN fill:none,stroke:#64748b,color:#ffffff
+    style TEST fill:none,stroke:#2563eb,color:#ffffff
+    style REF fill:none,stroke:#16a34a,color:#ffffff
+    style DOC fill:none,stroke:#16a34a,color:#ffffff
+    style ESC fill:none,stroke:#ea580c,color:#ffffff
+    style OPEN fill:none,stroke:#0f766e,color:#ffffff
+```
 
-**फक्त कठीण म्हणून निषिद्ध नाही.** सामान्य सार्वजनिक उत्तरदायित्व, कारणयुक्त प्रकाशन, सत्यापित मर्यादा, किंवा प्रमाणबद्ध उपचार अप्रिय किंवा प्रतिष्ठेला प्रतिकूल असले तरी कायदेशीर राहतात.
-
-**रचना आणि चालन.** प्रक्रिया अवनती, अपमान, तमाशा, प्रतिशोध, भेदभावपूर्ण भार, किंवा सोय-चालित अधिकार क्षरण म्हणून रचल्या, चौकटीत घातल्या, चालवल्या, किंवा चालू देऊ नयेत.
-
-**व्याप्ती.** हे तत्त्व प्रत्येक संवैधानिक प्रक्रियेला लागू होते, ज्यात:
-
-- शासन आणि अंमलबजावणी निर्णय;
-- अंमलबजावणी आणि प्रस्थिति मूल्यमापन;
-- मंच कार्यवाही;
-- आणीबाणी उपाय आणि संक्रमण योजना;
-- दुरुस्ती प्रक्रिया; आणि
-- संवैधानिक प्राधिकारखालील सर्व प्रशासकीय आणि संचालनाच्या कृती.
-
-ते फक्त त्या व्यापार-ढीग संदर्भापुरते मर्यादित नाही ज्यात ते [§6.1.4](core_01_b_interaction_interpretation.md#614-constitutional-floors-safety-and-process-character-constraints) खाली निरपवाद तळ म्हणूनही काम करते.
-
-**पकडणे आणि आव्हान.** प्रक्रिया चारित्र्य तत्त्वनिष्ठ निकालाप्रमाणेच [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) आणि [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) अपेक्षा पूर्ण करते. प्रभावित पक्ष प्रक्रिया चारित्र्याला स्वतंत्र रीतीने आव्हान देऊ शकतात, तत्त्वनिष्ठ निकाल अन्यथा कायदेशीर असेल की नाही याची पर्वा न करता. अवनत प्रक्रियेद्वारे दिलेला बरोबर निकाल अजून अनुपालन-भंग राहतो.
+[अध्याय दहा §5.4](core_10_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions) (*प्रतिकाराचे कर्तव्य*) हे कर्तव्य स्थितीवरील परिणामांना लागू करते, आणि [CS-4 §10 तपासता येणारी, श्रेय-निश्चित कृती](corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*तपासता येणारी, श्रेय-निश्चित कृती*) नकाराच्या किमान नोंदीचे निर्धारण करते.
 
 <br>
 
 ---
 
 <br>
-<a id="10-governance-under-stewardship-discipline"></a>
-### 10. उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन
+
+<a id="18-governance-under-stewardship-discipline"></a>
+### 18. संरक्षकता शिस्तीखालील शासन
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — शासन रचना प्राधिकार वाटतात, प्रोत्साहने संरेखित करतात, किंवा ताब्याला प्रतिसाद देतात तिथे **सहभाग**, **देखरेख**, **उत्तरदायित्व** आणि **समयबद्धता**; [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन — [§10.1](#101-governance-as-authorized-structure) खाली प्राधिकार-प्रमाणित उत्तरदेयता धरून.
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** उद्दिष्ट (अर्थपूर्ण कर्तृत्व आणि कायदेशीर सहभाग); **सातत्य** उद्दिष्ट (टिकाऊ संस्थागत संरेखन आणि दीर्घ-क्षितिज उत्तरदायी-व्यवस्थापन शिस्त).
-- सोबत वाचा: [आरोपयोग्य कृती](../../core_05_band_accountability.md#attributable-action-constitutional) आणि [आरोपण सचोटी](../../core_05_band_accountability.md#attribution-integrity-constitutional) — यंत्रणा प्रमेये जी प्राधिकार-प्रमाणित उत्तरदेयता खरी ठेवतात जिथे भौतिक कृती माग-काढता येणारी राहिली पाहिजे; संक्रियात्मक तपशील **[CS-2 — माहिती प्रकार आणि हाताळणी](../../corpus_systems/cs_02_a_information_types_and_handling.md)** आणि **अध्याय सात** मध्ये.
-- वरून: [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding); [§9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक](#911-shared-stewardship-standard) (*आधार-निरपेक्ष कर्तव्ये मानव आणि कृत्रिम-बुद्धिमत्ता व्यवस्थापकांना सारखी बांधतात*).
-- पुढे: [§11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture); [§12 सामायिक-प्रणाली क्षमता](#12-shared-system-capacity); [अध्याय बारा](../../core_13_governance.md) (*संवैधानिक करार स्तर* संक्रियात्मक करणे); [अनुच्छेद XXIII](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्य तळ*).
-- उपविभाग (वाचन क्रम): [§10.1 अधिकृत संरचना म्हणून शासन](#101-governance-as-authorized-structure) · [§10.2 कर्तव्य-विभाजन](#102-segregation-of-duties) · [§10.3 चालू न्यायोचिती](#103-ongoing-justification).
+- सोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — शासन संरचना अधिकारांचे वाटप करतात, प्रोत्साहने संरेखित करतात किंवा ताबा-प्रयत्नांना प्रतिसाद देतात तेथे **सहभाग**, **देखरेख**, **उत्तरदायित्व** आणि **वेळेचे भान**; [महत्त्वाचा दांव](core_00_preamble.md#material-stake) यानुसार प्रमाण — [§18.1](#181-governance-as-authorized-structure) अंतर्गत अधिकारानुरूप उत्तरदायित्वासह.
+- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समृद्धी** उद्दिष्ट (अर्थपूर्ण कर्तृत्व आणि कायदेशीर सहभाग); **सातत्य** उद्दिष्ट (टिकाऊ संस्थात्मक संरेखन आणि दीर्घकालीन संरक्षकता शिस्त).
+- सोबत वाचा: [श्रेय-निश्चित कृती](core_05_band_accountability.md#attributable-action) आणि [श्रेय-निर्धारणाची अखंडता](core_05_band_accountability.md#attribution-integrity) — महत्त्वपूर्ण कृती मागोवा घेण्याजोगी राहावी तेथे अधिकारानुरूप उत्तरदायित्व प्रत्यक्षात ठेवणारी यंत्रणा-तत्त्वे; कार्यकारी तपशील **[CS-2 — माहितीचे प्रकार व हाताळणी](corpus_systems/cs_02_a_information_types_and_handling.md)** आणि **अध्याय आठ** मध्ये.
+- पूर्वसंदर्भ: [§16 संरक्षकता सविस्तर](#16-stewardship-in-depth); [§17.1 सामायिक संरक्षकता मानक](#171-shared-stewardship-standard) (*आधार-निरपेक्ष कर्तव्ये मानव आणि AI संरक्षकांना समानरीत्या बंधनकारक आहेत*).
+- पुढील संदर्भ: [§19 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#19-incentive-alignment-and-system-capture); [§9 सामायिक-प्रणाली क्षमता](core_01_a_values_principles.md#9-shared-system-capacity); [अध्याय तेरा](core_13_governance.md) (*संवैधानिक करार स्तर* कार्यान्वित करणे); [अनुच्छेद XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्यांसाठी किमान मर्यादा*).
+- उपविभाग (वाचनक्रम): [§18.1 अधिकृत संरचना म्हणून शासन](#181-governance-as-authorized-structure) · [§18.2 संस्थात्मक धर्मनिरपेक्षता आणि विश्वदृष्टी तटस्थता](#182-institutional-secularism-and-worldview-neutrality) · [§18.3 कर्तव्यांचे विभाजन](#183-segregation-of-duties) · [§18.4 सातत्यपूर्ण समर्थन](#184-ongoing-justification) · [§18.5 मॉड्युलर रचना आणि अवलंबित्व शिस्त](#185-modular-architecture-and-dependency-discipline) · [§18.6 मानकीकरण](#186-standardization).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [शासन](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
-- [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
-- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [शासन](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+- [संरक्षकता](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [सहभाग](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [आरोपयोग्य कृती](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
-- [आरोपण सचोटी](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
+- [श्रेय-निश्चित कृती](core_05_band_accountability.md#attributable-action) · [O](core_05_band_accountability.md#attributable-action) · [M](core_05_band_accountability.md#attributable-action-constitutional-a) · [A](core_05_band_accountability.md#attributable-action-constitutional-a) · [C](core_05_band_accountability.md#attributable-action-constitutional-c)
+- [श्रेय-निर्धारणाची अखंडता](core_05_band_accountability.md#attribution-integrity) · [O](core_05_band_accountability.md#attribution-integrity) · [M](core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](core_05_band_accountability.md#attribution-integrity-constitutional-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: शासन म्हणजे कोण काय आणि कसे ठरवू शकतो — पण फक्त जेव्हा त्या रचना उत्तरदायी-व्यवस्थापन शिस्तीखाली राहतात, समुन्नती आणि सातत्य एकत्र सेवा करतात, आणि चतुष्क पोकळ करत नाहीत किंवा अध्याय बाराचे संक्रियात्मक प्राधिकार नियम बदलत नाहीत.*
+*सोप्या भाषेत: कोण काय आणि कसे ठरवू शकतो हे शासन ठरवते—पण त्या संरचना संरक्षकता शिस्तीखाली राहिल्या, समृद्धी आणि सातत्य या दोन्हींची सेवा केली, आणि चतुष्टयाला पोकळ केले नाही किंवा अध्याय तेराच्या कार्यकारी अधिकार-नियमांची जागा घेतली नाही तरच.*
 
-हा विभाग [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding) च्या पुढे [शासन](../../core_05_band_accountability.md#governance) शिस्त वाहून नेतो: अधिकृत संरचना, उत्तरदायी-व्यवस्थापन अधिरोहण, [चालू न्यायोचिती](#103-ongoing-justification), आणि कर्तव्य-विभाजन. **[§11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture)** प्रोत्साहन संरेखन, प्रतिनिधी सचोटी, लघु-क्षितिज दोष सुधार, संचालक अनुप्रयोग, आणि ताबा-प्रतिक्रिया वाहून नेतो.
+हा विभाग [शासन](core_05_band_accountability.md#governance) शिस्त [§16 संरक्षकता सविस्तर](#16-stewardship-in-depth) नंतर पुढे नेतो: अधिकृत संरचना, संस्थात्मक धर्मनिरपेक्षता, संरक्षकतेचे प्राधान्य, [सातत्यपूर्ण समर्थन](#184-ongoing-justification) आणि कर्तव्यांचे विभाजन. **[§19 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#19-incentive-alignment-and-system-capture)** प्रोत्साहन संरेखन, प्रॉक्सी अखंडता, अल्पकालीन दोष-दुरुस्ती, ऑपरेटर अनुप्रयोग आणि ताबा-प्रतिसाद हाताळते.
 
-<a id="101-governance-as-authorized-structure"></a>
-#### 10.1 अधिकृत संरचना म्हणून शासन
+<a id="181-governance-as-authorized-structure"></a>
+#### 18.1 अधिकृत संरचना म्हणून शासन
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **सहभाग** पाया (दिशेतील अधिकृत आवाज आणि परिणामी भूमिका); **देखरेख** पाया (प्राधिकार वाटप आणि वापराची छाननी); **उत्तरदायित्व** पाया (शासन निकाल आणि ताब्यासाठी उत्तरदेयता); [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** उद्दिष्ट (अर्थपूर्ण कर्तृत्व आणि कायदेशीर सहभाग राखणारे शासन); **सातत्य** उद्दिष्ट (टिकाऊ संस्थागत संरेखन आणि दीर्घ-क्षितिज उत्तरदायी-व्यवस्थापन शिस्त).
-- सोबत वाचा: [§6.1.3 प्रमाणबद्धता](core_01_b_interaction_interpretation.md#613-proportionality) (*वर्गीकरण तळ आणि अल्प-शासन शिस्त*); [आवश्यकता](../../core_05_band_accountability.md#necessity); [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality); [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability); [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional).
-- वरून: तत्त्वे: [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
-- पुढे: [§10.2 कर्तव्य-विभाजन](#102-segregation-of-duties); [§10.3 चालू न्यायोचिती](#103-ongoing-justification); [§11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture); [अध्याय बारा](../../core_13_governance.md) (*संवैधानिक करार स्तर* संक्रियात्मक करणे); [अनुच्छेद XXIII: संवैधानिक अर्थनिर्णय, समीक्षा आणि ताबा-निरोध संरक्षणे](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच-सदस्य प्रकटीकरण, निवृत्त होणे, आणि ताबा-निरोध तळ*); [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*मंच-कुटुंब पर्यवेक्षण*).
+- सोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **सहभाग** पाय (दिशानिर्देशनात अधिकृत आवाज आणि परिणामकारक भूमिका); **देखरेख** पाय (अधिकार-वाटप आणि वापराची छाननी); **उत्तरदायित्व** पाय (शासन-परिणाम आणि ताब्यासाठी उत्तरदायित्व); [महत्त्वाचा दांव](core_00_preamble.md#material-stake) यानुसार प्रमाण.
+- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समृद्धी** उद्दिष्ट (अर्थपूर्ण कर्तृत्व आणि कायदेशीर सहभाग जपणारे शासन); **सातत्य** उद्दिष्ट (टिकाऊ संस्थात्मक संरेखन आणि दीर्घकालीन संरक्षकता शिस्त).
+- सोबत वाचा: [§13.1.3 प्रमाणबद्धता](core_01_b_interaction_interpretation.md#1313-proportionality) (*वर्गीकरणाची किमान मर्यादा आणि अपुऱ्या शासनाविरुद्ध शिस्त*); [आवश्यकता](core_05_band_accountability.md#necessity); [प्रमाणबद्धता](core_05_band_accountability.md#proportionality); [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability); [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional).
+- पूर्वसंदर्भ: तत्त्वे: [§16 संरक्षकता सविस्तर](#16-stewardship-in-depth); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims).
+- पुढील संदर्भ: [§18.3 कर्तव्यांचे विभाजन](#183-segregation-of-duties); [§18.4 सातत्यपूर्ण समर्थन](#184-ongoing-justification); [§19 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#19-incentive-alignment-and-system-capture); [अध्याय तेरा](core_13_governance.md) (*संवैधानिक करार स्तर* कार्यान्वित करणे); [अनुच्छेद XXIV: संवैधानिक अर्थनिर्णय, पुनरावलोकन आणि ताबा-प्रतिबंधक संरक्षण](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*मंच सदस्यांसाठी प्रकटीकरण, अलिप्तता आणि ताबा-प्रतिबंधक किमान मानके*); [अध्याय बारा](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*मंच-समूह देखरेख*).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [शासन](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
-- [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
-- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [शासन](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+- [संरक्षकता](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 - [सहभाग](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 - [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
@@ -656,1395 +701,873 @@
 
 <br>
 
-*सोप्या भाषेत: शासन शक्तीचे नियमपुस्तक आहे — कोण काय ठरवू शकतो, कोणत्या रचनांतून, आणि निकालांचे उत्तर कोणी द्यायचे. भूमिकेची शक्ती जितकी जास्त, उत्तरदेयता आणि देखरेख कर्तव्ये तितकी मजबूत हवीत — कधीही कमकुवत नाहीत. ते फक्त तेव्हा काम करते जेव्हा ते संज्ञ प्राण्यांना कालांतराने समुन्नत होण्यास मदत करते, सहभाग आणि देखरेखेचे खरे मार्ग ठेवते, आणि [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding) पासूनची उत्तरदायी-व्यवस्थापन शिस्त राखते. नियमपुस्तक स्वतःसाठी पाळणे पुरेसे नाही जेव्हा ते संस्थेचे संरक्षण करेल, अल्पकालीन विजय धावेल, किंवा मूल अधिकार खाऊन टाकेल.*
+*सोप्या भाषेत: शासन म्हणजे सत्तेसाठीची नियमपुस्तिका—कोण काय ठरवू शकतो, कोणत्या संरचनांद्वारे, आणि परिणामांसाठी कोणाला उत्तर द्यावे लागेल. भूमिकेकडे जितकी अधिक सत्ता, तितकी उत्तरदायित्व व देखरेखीची कर्तव्ये अधिक बळकट असली पाहिजेत—कधीच कमकुवत नाहीत. काळानुसार संवेदनशील सजीवांची भरभराट, सहभाग व देखरेखीचे वास्तविक मार्ग, आणि [§16 संरक्षकता सविस्तर](#16-stewardship-in-depth) मधील संरक्षकता शिस्त टिकवली तरच हे शक्य आहे. संस्थेचे संरक्षण, अल्पकालीन लाभांचा पाठपुरावा किंवा मूलभूत हक्कांच्या किमान पातळीचे क्षरण घडत असेल, तर नियमपुस्तिकेचे पालन करणे पुरेसे नाही.*
 
-**अधिकृत संरचना म्हणून शासन.** तत्त्व-स्तरावर, [शासन](../../core_05_band_accountability.md#governance) म्हणजे आधीच अधिकृत प्रणाली आणि संस्था कशा निर्देशित आणि उत्तरदायी ठेवल्या जातात — **अध्याय पाच**मध्ये व्याख्या केल्याप्रमाणे आणि **अध्याय बारा**खाली **संवैधानिक करार स्तर** तसेच [प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements) मधील प्रभावित-पक्ष सहभाग थरांसाठी संक्रियात्मक तपशीलात सांगितल्याप्रमाणे. अधिकृत शासनाने [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) पुढे न्यावी, [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित.
+तत्त्व-स्तरावर, [शासन](core_05_band_accountability.md#governance) म्हणजे आधीच अधिकृत प्रणाली व संस्थांना दिशा देणे आणि त्यांना उत्तरदायी धरणे—**अध्याय पाच** मध्ये परिभाषित केल्याप्रमाणे आणि **संवैधानिक करार स्तर** व [प्रस्तावना](core_00_preamble.md#preamble--foundational-requirements) मधील हितधारक सहभाग स्तरांसाठी **अध्याय तेरा** मध्ये कार्यकारी तपशिलांसह मांडल्याप्रमाणे. अधिकृत शासनाने [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) [संवैधानिक चतुष्टयाच्या](core_00_preamble.md#constitutional-tetrad) अंतर्गत पुढे न्यावीत आणि [महत्त्वाच्या दांवाच्या](core_00_preamble.md#material-stake) प्रमाणात असावे.
 
-**शासन काय व्यापते:**
+**शासनात काय समाविष्ट आहे:**
 
-- निर्णयासाठी संरचना आणि नियम;
-- प्राधिकार कोणाकडे आहे आणि कसा वाटला जातो;
+- निर्णयप्रक्रियेची संरचना आणि नियम;
+- अधिकार कोणाकडे आहे आणि त्याचे वाटप कसे होते;
 - संस्थांना दिशा देण्याच्या प्रक्रिया; आणि
-- शासन स्वतःला उत्तरदायी ठेवण्याच्या यंत्रणा.
+- शासनालाच उत्तरदायी धरण्याच्या यंत्रणा.
 
-**प्राधिकार-प्रमाणित उत्तरदेयता.** जास्त अधिकृत शक्ती, परिणामी भूमिका, किंवा संस्थागत प्रभाव [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली संवैधानिक [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) आणि [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) कर्तव्ये उंचावतो — आणि खाली आणू शकत नाही — [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित आणि [आवश्यकता](../../core_05_band_accountability.md#necessity) तसेच [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) सोबत वाचून:
+**अधिकारानुरूप उत्तरदायित्व.** तुमच्याकडे जितकी अधिक सत्ता, तितके अधिक उत्तर द्यावे लागते.
 
-- पद, तज्ज्ञता दुर्मिळता, कर्मचारी गरज, किंवा संस्थात्मक आत्म-संरक्षण या संविधानाला उत्तरदेयता पातळ करू शकत नाही;
-- अर्थनिर्णय किंवा न्यायनिर्णय प्राधिकार वापरणारे **संवैधानिक मंच सदस्य आणि पॅनेलिस्ट** या शिस्तीला विशेषतः अधीन आहेत;
-- संक्रियात्मक प्रकटीकरण, निवृत्त होणे, ताबा-निरोध, आणि स्वतंत्र-समीक्षा तळ [अनुच्छेद XXIII](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (*संवैधानिक अर्थनिर्णय, समीक्षा आणि ताबा-निरोध संरक्षणे*) आणि [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) मध्ये राहतात, येथे नाहीत.
+या संविधानांतर्गत कोणाकडे जितकी अधिक सत्ता, प्रभाव किंवा जबाबदारी आहे, तितके अधिक उत्तरदायित्व व देखरेख त्याने स्वीकारले पाहिजे. ते कधीही कमी नसावे. किती वाढ आवश्यक आहे हे दांवावर काय आहे यावर अवलंबून असते; अतिरिक्त कर्तव्ये आवश्यकतेपलीकडे जाऊ नयेत आणि परिस्थितीस न्याय्य असावीत.
 
-**आवश्यक, पुरेसे नाही.** शासनाने **उत्तरदायी व्यवस्थापन**ला ([§9](#9-stewardship-and-distributed-understanding)) जागा द्यायला हवी जेव्हा खालीलपैकी काही टिकाऊ संवैधानिक संरेखन, [**सातत्य**](core_00_preamble.md#continuity), [**समुन्नती**](core_00_preamble.md#flourishing), किंवा अधिकार-तळ सचोटी कमजोर करेल:
+- **सबबी नाहीत:** उच्च पद, दुर्मिळ तज्ज्ञता, कर्मचारी-अभाव किंवा संस्थेची प्रतिष्ठा जपण्याची इच्छा—यांपैकी काहीही या संविधानाप्रती कमी उत्तरदायित्वाचे समर्थन करत नाही.
+- **न्यायाधीश आणि व्याख्याते सर्वोच्च मानकाला बांधील:** संविधानाचा अर्थ लावणाऱ्या किंवा त्याअंतर्गत वाद ठरवणाऱ्या संवैधानिक मंचांवरील व पॅनेलमधील संवेदनशील सजीवांवर हा नियम विशेषतः बंधनकारक आहे.
+- **तपशीलवार नियम अन्यत्र आहेत:** हितसंबंधांचे संघर्ष जाहीर करणे, बाजूला होणे, विशेष हितसंबंधांचा ताबा रोखणे आणि स्वतंत्र पुनरावलोकन यांसंबंधी विशिष्ट आवश्यकता [अनुच्छेद XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*संवैधानिक अर्थनिर्णय, पुनरावलोकन आणि ताबा-प्रतिबंधक संरक्षण*) आणि [अध्याय बारा](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) मध्ये आहेत.
 
-- स्वतःसाठी नियम पाळणे;
+**आवश्यक, पण पुरेसे नाही.** शासनव्यवस्थेने **Stewardship** ([§16 Stewardship सविस्तर](#16-stewardship-in-depth)) याला माघार दिली पाहिजे, जर खालीलपैकी कोणतीही गोष्ट टिकाऊ घटनात्मक संरेखन, [**सातत्य**](core_00_preamble.md#continuity), [**समृद्धी**](core_00_preamble.md#flourishing) किंवा हक्कांच्या किमान पातळीची अखंडता कमकुवत करत असेल:
+
+- केवळ नियमांचे पालन करण्यासाठी नियम पाळणे;
 - अल्पकालीन अनुकूलन; किंवा
-- संस्थात्मक आत्म-संरक्षण.
+- संस्थेचे आत्मसंरक्षण.
 
-जिथे शासन आणि उत्तरदायी व्यवस्थापन टकरातील, तत्त्व-स्तरावर उत्तरदायी-व्यवस्थापन शिस्त नियंत्रण करते — जोपर्यंत [आवश्यकता](../../core_05_band_accountability.md#necessity) आणि [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) सीमाबद्ध, काल-मर्यादित अपवाद सुधार-मार्गांसह स्पष्ट न्याय्य ठरवत नाहीत.
+शासनव्यवस्था आणि stewardship यांच्यात संघर्ष झाल्यास, [गरज](core_05_band_accountability.md#necessity) आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) दुरुस्तीचे मार्ग असलेल्या मर्यादित व्याप्तीच्या व कालबद्ध अपवादाला स्पष्टपणे न्याय्य ठरवत नसल्यास, तत्त्वांच्या स्तरावर stewardship शिस्त लागू राहील.
 
-<a id="102-segregation-of-duties"></a>
-#### 10.2 कर्तव्य-विभाजन
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- वरून: [§10.1 अधिकृत संरचना म्हणून शासन](#101-governance-as-authorized-structure); [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline); [§9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक](#911-shared-stewardship-standard) (*मानव आणि कृत्रिम-बुद्धिमत्ता व्यवस्थापकांसाठी तीच आसने*).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **देखरेख** पाया (तपासणारा कृती करणारा नाही); **उत्तरदायित्व** पाया (उत्तरदेयता कर्त्यावर कोसळू शकत नाही); [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) खाली [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- सोबत वाचा: [§11.3 विसंरेखन पकडणे](#113-misalignment-detection) (*बहुविध पकडणे आणि समीक्षा — या जोडीचा अनेक-डोळे अर्ध*).
-- पुढे: संस्थांसाठी **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#constitutional-lane-and-functional-separation)** (*उत्तरदायित्व: वितरित आणि प्रमाणबद्ध प्राधिकार पद — संवैधानिक मार्ग आणि कार्यात्मक वेगळेपणा*) आणि **[CI-3.2](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-32-functional-separation-lanes)** (*कार्यात्मक वेगळेपणा मार्ग*); आसन प्रकारांसाठी **[CI-4.6](../../corpus_institutions/ci_04_appointment_competency_rotation_removal.md#ci-46-seat-catalog)** (*आसन सूची*) — ही चार आणि पुनरावृत्त आटोक्यात-ठेवणे, सहभाग-अटी, मुक्तता-नियंत्रण, आणि दिशा आसने — जे प्रत्येक अंगीकारकाच्या भूमिका नकाशात मूर्त होतात; प्रस्थिति अभिलेखांसाठी [अध्याय आठ §3.7](../../core_09_standing_assessment.md#37-segregation-of-duties); मंचांसाठी [अनुच्छेद XXIII](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) आणि [अध्याय अकरा](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction); मिश्र मानव/कृत्रिम-बुद्धिमत्ता पथकांसाठी [CS-4 §10](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action).
-
-</details>
+#### 18.2 संस्थात्मक धर्मनिरपेक्षता आणि विश्वदृष्टिकोनीय तटस्थता
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
+*हक्कांच्या किमान पातळीतील स्थान.* **[अनुच्छेद XI-A](core_06_rights_part_b.md#article-xi-a-freedom-of-conscience-religion-and-comparable-worldview) (*सदसद्विवेकबुद्धी, धर्म आणि तुलनीय विश्वदृष्टिकोनाचे स्वातंत्र्य*)** या तटस्थतेने संरक्षित केलेले वैयक्तिक स्वातंत्र्य नमूद करतो. हा उपविभाग सार्वजनिक प्राधिकरणाला बांधणारे तत्त्व स्पष्ट करतो. तो [§18 Stewardship शिस्तीखालील शासनव्यवस्था](#18-governance-under-stewardship-discipline) या विभागाच्या उर्वरित भागावर आणि [दस्तऐवजीकृत वैधता यंत्रणेवर](core_05_band_integrative.md#documented-legitimacy-mechanism), [অধ্যায় তेरো §1 शासन प्राधिकरणाचे प्राधिकरणीकरण व वैधता](core_13_governance.md#1-authorization-and-legitimacy-of-governing-authority) नुसार, मर्यादा घालतो.
+
+- [शासनव्यवस्था](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+- [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics) · [O](core_05_band_participation.md#protected-characteristics) · [M](core_05_band_participation.md#protected-characteristics-constitutional-a) · [A](core_05_band_participation.md#protected-characteristics-constitutional-a) · [C](core_05_band_participation.md#protected-characteristics-constitutional-c)
+- [लादणी न करणे (सहकारी परस्परसंवाद)](core_05_band_participation.md#non-imposition-cooperative-interaction) · [O](core_05_band_participation.md#non-imposition-cooperative-interaction) · [M](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [A](core_05_band_participation.md#non-imposition-cooperative-interaction-a) · [C](core_05_band_participation.md#non-imposition-cooperative-interaction-c)
+- [गरज](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: गोष्ट करणारा ती तपासणारा, नोंदणारा, किंवा तिच्या तक्रारीचे ऐकणारा नाही — कृत्रिम-बुद्धिमत्ता व्यवस्थापकांसाठी मानवइतकेच. समीक्षाधीन कर्ताच सत्यापित करत असेल तर देखरेख खरी नाही.*
+<a id="182-institutional-secularism-and-worldview-neutrality"></a>
 
-**कर्तव्य-विभाजन:** [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) फक्त तिथे अस्तित्वात आहे जिथे तपासणारा कृती करणारा नाही.
+*सोप्या शब्दांत: या संविधानांतर्गत सार्वजनिक प्राधिकरण कोणत्याही धर्माचे किंवा विश्वदृष्टिकोनाचे नसते. त्याचा शासन करण्याचा अधिकार आणि त्याचे नियम कोणालाही तपासता येतील अशा कारणांवर आधारित असतात, सिद्धांत किंवा प्रकटीकरणावर नव्हे; तसेच कोणाच्याही हक्कांचा आधार तो काय मानतो किंवा मानत नाही यावर नसतो. हे श्रद्धावंतांना नव्हे तर सरकारला मर्यादित करते — sentient ना धर्म किंवा अधर्माचा आचरण, अभिव्यक्ती आणि त्याभोवती संघटन करण्याचे स्वातंत्र्य कायम राहते.*
 
-- **ते काय व्यापते:** कोणतीही भौतिक रीतीने बांधणारी कृती:
-  - निर्णय
-  - अभिलेख नोंद
-  - मुक्तता
-  - वितरण
-  - निष्कर्ष
-- **चार वेगळी आसने:**
-  - जे **आरंभ** करते
-  - जे **सत्यापित किंवा प्राधिकृत** करते
-  - जे **नोंदते**
-  - जे त्याला **आव्हानाची समीक्षा** करते
-- **कोण धारण करतो:** वेगळे संज्ञ प्राणी किंवा कार्यालये, [§9.1.1 सामायिक उत्तरदायी-व्यवस्थापन मानक](#911-shared-stewardship-standard) खाली मानव किंवा कृत्रिम-बुद्धिमत्ता सारखे. एकाच प्रक्रियेत स्वतःची कृती अंमलात आणणारा, साक्ष देणारा आणि नोंदणारा कृत्रिम-बुद्धिमत्ता व्यवस्थापक मानवइतकेच अपयश आहे, आणि व्यवस्थापक तैनात करणाऱ्या प्रणालींची रचना अशी हवी की वेगळा सत्यापित करणारा अस्तित्वात असेल.
-- **ते कसे प्रमाणित होते:** [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) खाली [भौतिक दाव](core_00_preamble.md#material-stake) नुसार:
-  - एक आसन चारपैकी दोन फक्त प्रकाशित, लेखापरीक्षणयोग्य, आव्हानयोग्य स्वातंत्र्य रक्षकपट्टीखाली धारण करू शकते, आणि कधीही त्याच कृतीवर **सत्यापन-आणि-नोंद** किंवा **सत्यापन-आणि-समीक्षा** नाही
-  - प्रणाली चालवणारे कार्यालय त्या प्रणालीबद्दलच्या कृतींसाठी आरंभ आसन धारण करते आणि त्यांचे सत्यापन करत नाही
-  - विलीन आसन लहान व्याप्तीसाठी वर्ग-प्रमाणित अपवाद आहे, पूर्वनिर्धारित नाही, आणि कृतीच्या अभिलेखावर प्रगट होते
-  - वेग वाढवण्यासाठी, कर्मचारी वाचवण्यासाठी, किंवा एक संज्ञ प्रणाली समजणारा एकमेव आहे म्हणून आसने एकत्र कोसळवणे [§9.6 अवनती-निरोध प्रक्रिया](#96-process-character-discipline) चे अवनत-प्रक्रिया नमुना आहे, कार्यक्षमता नाही
-- **जोडीचा नियम:** हा [§11.3 *बहुविध पकडणे आणि समीक्षा*](#113-misalignment-detection) सोबतच्या जोडीचा आसन-स्तरीय अर्ध आहे: तो नियम देखरेख एका कर्त्याने कोपऱ्यात अडकवू देत नाही; हा नियम समीक्षाधीन कर्त्याने ती करू देत नाही.
+हे संविधान आणि ते मर्यादित करत असलेली सार्वजनिक शासनव्यवस्था संस्थात्मक अर्थाने धर्मनिरपेक्ष आहेत:
 
-संक्रियात्मक तपशील पुढे राहतो आणि हा तळ आकुंचित करू शकत नाही.
+- वैधता, अर्थनिर्णयन आणि बंधनकारक सार्वजनिक नियम धार्मिक सिद्धांतातून किंवा कथित प्रकटीकरणातून उद्भवता कामा नयेत.
+- सार्वजनिक प्राधिकरणाच्या बाबतीत कोणताही धर्म किंवा तुलनीय विश्वदृष्टिकोन स्थापित किंवा प्राधान्याने स्वीकारला जाऊ शकत नाही.
+- मूलभूत हक्क आणि घटनात्मक संरक्षित प्रक्रियांपर्यंतचा प्रवेश श्रद्धेची जाहीर कबुली, धार्मिक आचरण किंवा श्रद्धेचा अभाव यावर अवलंबून ठेवता कामा नये.
+- **अध्याय एक** आणि **अध्याय पाच** (**गरज** आणि **प्रमाणबद्धता**) अंतर्गत अपरिहार्य असेल आणि कोणालाही प्रतिकूलपणे लक्ष्य केले जात नसेल, तेव्हाच मर्यादित अपवाद शक्य आहे.
 
-<a id="103-ongoing-justification"></a>
-#### 10.3 चालू न्यायोचिती
+**व्याप्ती:**
+
+- संस्थात्मक धर्मनिरपेक्षता **या संविधानाअंतर्गत** सार्वजनिक प्राधिकरणाचे नियमन करते.
+- ती धर्म किंवा अधर्माच्या खाजगी, संघटनात्मक किंवा नागरी अभिव्यक्तीवर निर्बंध घालत नाही.
+- सहकारी परस्परसंवाद लागू असेल तेथे, **अध्याय पाच** स्वतंत्र व्याख्या (**लादणी न करणे [सहकारी परस्परसंवाद]**) आणि **अनुच्छेद XI-F** (*संघटनातील लादणी न करणे आणि संमती*) यांच्याशी सुसंगतपणे याचा वापर करा.
+- सदसद्विवेकबुद्धी, धर्म आणि तुलनीय विश्वदृष्टिकोनाचे वैयक्तिक स्वातंत्र्य **अनुच्छेद XI-A** (*सदसद्विवेकबुद्धी, धर्म आणि तुलनीय विश्वदृष्टिकोनाचे स्वातंत्र्य*) मध्ये नमूद आहे.
+
+<a id="183-segregation-of-duties"></a>
+#### 18.3 कर्तव्यांचे विभाजन
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: [§10.1 अधिकृत संरचना म्हणून शासन](#101-governance-as-authorized-structure); [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — **समयबद्धता** पाया (नियोजित पुनर्तपास); **देखरेख** पाया (दृश्य, आव्हानयोग्य मानक); **उत्तरदायित्व** पाया (सवय आणि सोय उत्तर नाही); [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (टिकाऊ संरेखन जागी गोठणे नाही); **समुन्नती** उद्दिष्ट (रचना जुन्या होत असताना आवाज आणि आव्हान खरे राहतात).
-- सोबत वाचा: [समीक्षा आणि सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional); [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability); [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional).
-- पुढे: [अनुच्छेद XXVI-A: अ-दृढीकरण आणि सुधारता येणे](../../core_06_rights_part_d.md#article-xxvi-a-non-entrenchment-and-revisability) आणि [अनुच्छेद XXVI-B: नियतकालिक पुनर्वैधता आणि पारदर्शक बदल](../../core_06_rights_part_d.md#article-xxvi-b-periodic-revalidation-and-transparent-change) (*अधिकार-तळ अ-दृढीकरण आणि पारदर्शक-बदल तळ — ते हे तत्त्व आकुंचित करत नाहीत*); **[CJS-3.11](../../corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*आधाररेखा शासन उत्तरदायित्व अटी*); [अध्याय बारा](../../core_13_governance.md) (*संवैधानिक करार स्तर* संक्रियात्मक करणे).
+- पूर्वाधार: [§18.1 अधिकृत संरचना म्हणून शासनव्यवस्था](#181-governance-as-authorized-structure); [§18 Stewardship शिस्तीखालील शासनव्यवस्था](#18-governance-under-stewardship-discipline); [§17.1 सामायिक Stewardship मानक](#171-shared-stewardship-standard) (*मानवी आणि AI stewards साठी समान जागा*).
+- यासोबत वाचा: [घटनात्मक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **देखरेख** घटक (तपासणारी व्यक्ती कृती करणारी नसते); **उत्तरदायित्व** घटक (उत्तरदायित्व केवळ कृती करणाऱ्यावर येऊन थांबू नये); [भौतिक हित](core_00_preamble.md#material-stake) नुसार प्रमाण ठरवणे, [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) अंतर्गत.
+- यासोबत वाचा: [§19.3 विसंरेखन शोध](#193-misalignment-detection) (*बहुल शोध आणि पुनरावलोकन — या जोडीतील अनेक-डोळ्यांचा भाग*).
+- यासोबत वाचा: [§18.5 मॉड्युलर वास्तुरचना आणि अवलंबित्व शिस्त](#185-modular-architecture-and-dependency-discipline) (*वास्तुरचनात्मक समतुल्य: वेगळे करता येणारे, श्रेय देता येणारे प्रणाली घटक*).
+- पुढील भाग: [अध्याय सात — कार्यात्मक स्वातंत्र्य आणि कर्तव्यांचे विभाजन](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties), चार-जागांच्या किमान मानकाचा आणि प्रक्रियांमधील त्याच्या अनुप्रयोगाचा घटनात्मक मालक; निर्दिष्ट अंमलबजावणी मजकूर आणि नंतरचे प्रक्रिया-अध्याय हे मानक लागू करतात आणि त्याची व्याप्ती कमी करू शकत नाहीत.
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
+
+- [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Stewardship](core_05_band_continuity.md#stewardship) · [O](core_05_band_continuity.md#stewardship) · [M](core_05_band_continuity.md#stewardship-constitutional-a) · [A](core_05_band_continuity.md#stewardship-constitutional-a) · [C](core_05_band_continuity.md#stewardship-constitutional-c)
+- [भौतिकदृष्ट्या बंधनकारक कृती](core_05_band_accountability.md#materially-binding-act) · [O](core_05_band_accountability.md#materially-binding-act) · [M](core_05_band_accountability.md#materially-binding-act-a) · [A](core_05_band_accountability.md#materially-binding-act-a) · [C](core_05_band_accountability.md#materially-binding-act-c)
+</details>
+
+<br>
+
+*सोप्या शब्दांत: शासनव्यवस्थेने कृती करणारी व्यक्ती त्या कृतीची कथित स्वतंत्र तपासक होऊ नये याची खात्री केली पाहिजे. अध्याय सात चार-जागांची रचना पुरवतो, ज्यामुळे हे तत्त्व प्रमाणन, नोंदी, मंच आणि इतर प्रत्येक भौतिकदृष्ट्या बंधनकारक प्रक्रियेत वापरता येते.*
+
+**कामाची तपासणी करणारी व्यक्ती ते काम करणारी व्यक्ती असू शकत नाही.**
+
+तपासणीची कृती तपासल्या जाणाऱ्या कृतीपासून स्वतंत्रपणे केली गेली तरच देखरेख आणि उत्तरदायित्व कार्य करतात. त्यामुळे sentient ना भौतिकदृष्ट्या बांधणाऱ्या प्रत्येक निर्णयाने किंवा कृतीने [अध्याय सात](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) मधील भूमिका-विभाजन नियम पाळले पाहिजेत. त्यात पुढील बाबींचा समावेश आहे:
+
+- “करणे” आणि “तपासणे” या भूमिकांमध्ये वेगवेगळे sentient (मानवी किंवा AI);
+- निषिद्ध भूमिका-संयोजने;
+- दावे वाढत जातील तसे अधिक कठोर होणाऱ्या स्वातंत्र्याच्या अटी;
+- एका भूमिकेकडून पुढील भूमिकेकडे स्पष्ट, मागोवा घेता येण्याजोगे हस्तांतरण; आणि
+- चुकीच्या आसनात आलेला विषय योग्य आसनाकडे वळवण्याची पद्धत.
+
+**हे कोणाला लागू होते.** मानव आणि AI संरक्षकांवर हे समान रीतीने लागू होते ([§17.1 सामायिक संरक्षकत्व मानक](#171-shared-stewardship-standard)).
+
+**§19.3 शी याचा संबंध.** हे दोन नियम जोडीने काम करतात ([§19.3 *बहुविध शोध आणि पुनरावलोकन*](#193-misalignment-detection)):
+
+- अनेक पुनरावलोकक असल्यामुळे कोणताही एक कृतीकर्ता पर्यवेक्षणावर नियंत्रण मिळवू शकत नाही.
+- अध्याय सात पुनरावलोकनाधीन कृतीकर्त्याला स्वतःच पुनरावलोकन करण्यापासून रोखतो.
+
+<a id="184-ongoing-justification"></a>
+#### 18.4 सातत्यपूर्ण समर्थन
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- पूर्ववर्ती: [§18.1 अधिकृत रचना म्हणून शासन](#181-governance-as-authorized-structure); [§18 संरक्षकत्व शिस्तीखालील शासन](#18-governance-under-stewardship-discipline).
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **समयबद्धता** घटक (नियोजित पुनर्तपासणी); **पर्यवेक्षण** घटक (दृश्यमान, आव्हान देता येणारे निकष); **उत्तरदायित्व** घटक (सवय आणि सोय हे उत्तर नाही); [भौतिक हितसंबंध](core_00_preamble.md#material-stake) यानुसार प्रमाणन.
+- यासोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (टिकाऊ संरेखन म्हणजे स्थिती गोठवणे नव्हे); **समृद्धी** उद्दिष्ट (व्यवस्था जुनी होत गेली तरी आवाज आणि आव्हान खरे राहतात).
+- यासोबत वाचा: [पुनरावलोकन आणि दुरुस्तीचे कर्तव्य](core_05_band_continuity.md#review-and-correction-duty); [आव्हानक्षमता](core_05_band_accountability.md#contestability); [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional).
+- पुढील: [कलम XXVI-A: दृढीकरणास प्रतिबंध आणि पुनरावलोकनक्षमता](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) आणि [कलम XXVI-B: नियतकालिक पुनर्प्रमाणीकरण आणि पारदर्शक बदल](core_06_rights_part_e.md#article-xxvi-b-periodic-revalidation-and-transparent-change) (*अधिकार-तळातील दृढीकरणास प्रतिबंध आणि पारदर्शक बदलाचे किमान निकष—ते हे तत्त्व संकुचित करत नाहीत*); **[CJS-3.11](corpus_joint_structure/cjs_03a_accountability_operations.md#baseline-governance-accountability-conditions)** (*शासन उत्तरदायित्वाच्या मूलभूत अटी*); [अध्याय तेरा](core_13_governance.md) (*संवैधानिक करार स्तर*) याचे कार्यान्वयन.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
 - [समयबद्धता](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
-- [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [पर्यवेक्षण](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [पारदर्शकता](../../core_05_band_oversight.md#transparency) · [O](../../core_05_band_oversight.md#transparency) · [M](../../core_05_band_oversight.md#transparency-a) · [A](../../core_05_band_oversight.md#transparency-a) · [C](../../core_05_band_oversight.md#transparency-c)
-- [शासन](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
-- [समीक्षा आणि सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+- [पारदर्शकता](core_05_band_oversight.md#transparency) · [O](core_05_band_oversight.md#transparency) · [M](core_05_band_oversight.md#transparency-a) · [A](core_05_band_oversight.md#transparency-a) · [C](core_05_band_oversight.md#transparency-c)
+- [शासन](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
+- [पुनरावलोकन आणि दुरुस्तीचे कर्तव्य](core_05_band_continuity.md#review-and-correction-duty) · [O](core_05_band_continuity.md#review-and-correction-duty) · [M](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: रचना «आम्ही नेहमी असेच केले» वर कायम सरकता येत नाहीत. कोण ठरवतो, कोणाला आवाज आहे, प्रभाव कसा वजनला जातो, पैसा कसा वाटला जातो, आणि संस्था कशा रचल्या जातात याचे महत्त्वाचे नियम हे संविधान अजून जुळते हे सिद्ध करत राहायला हवेत — इतर पाहू आणि आव्हान देऊ शकतील अशा वेळापत्रकावर.*
+*सोप्या शब्दांत: “आम्ही नेहमी असेच केले आहे” या कारणावर व्यवस्था कायमची चालू शकत नाही. कोण निर्णय घेते, कोणाला मत मांडण्याची संधी मिळते, प्रभावाचे वजन कसे ठरते, निधीचे वाटप कसे होते आणि संस्था कशा रचल्या जातात यासंबंधीचे महत्त्वाचे नियम अजूनही या संविधानाशी जुळतात हे सिद्ध करत राहिले पाहिजे—इतरांना दिसू आणि आव्हान देता येऊ शकेल अशा वेळापत्रकानुसार.*
 
-**कालांतराने न्याय्य राहिले पाहिजे:** महत्त्वाच्या शासन निवडी एकदा ठरवून विसरता येत नाहीत. त्या नियमित वेळापत्रकावर पुनर्तपासल्या पाहिजेत, अशा मानकांनी जी भौतिक रीतीने प्रभावित संज्ञ प्राणी पाहू आणि आव्हान देऊ शकतात.
+शासनविषयक महत्त्वाचे पर्याय एकदा ठरवून विसरता येत नाहीत. भौतिकरीत्या प्रभावित झालेल्या संवेदनक्षम जीवांना दिसू आणि आव्हान देता येतील अशा निकषांचा वापर करून त्यांची नियमित वेळापत्रकानुसार पुन्हा तपासणी केली पाहिजे.
 
-- **काय पुनर्तपासायचे:**
+- **पुन्हा तपासावयाच्या बाबी:**
   - निर्णय कसे घेतले जातात याचे नियम
-  - त्यांत खरा आवाज कोणाला मिळतो
-  - मते किंवा प्रभाव कसा वजनला जातो
-  - निधी कसा वाटला जातो
+  - निर्णयांमध्ये कोणाला प्रत्यक्ष मत मांडण्याची संधी मिळते
+  - मते किंवा प्रभावाचे वजन कसे ठरते
+  - निधीचे वाटप कसे होते
   - संस्था कशा रचल्या जातात
-- **न्यायोचिती नाही:** जी रचना या संविधानाला आता जुळत नाही ती फक्त यामुळे जागी राहू शकत नाही:
-  - कोणी पुनर्विचार करू इच्छित नाही (**जडत्व**)
-  - बदल सोयीस्कर नसेल (**सोय**)
-  - «आम्ही नेहमी असेच केले» (**ऐतिहासिक पूर्वोदाहरण**)
-  - मागील निवडी बदल कठीण करतात (**मार्ग-अवलंबित्व**)
+- **समर्थन ठरत नाही:** संविधानाशी यापुढे जुळत नसलेली व्यवस्था केवळ खालील कारणांमुळे कायम ठेवता येत नाही:
+  - कोणालाही तिचा पुन्हा विचार करायचा नाही (**जडत्व**)
+  - बदल गैरसोयीचा ठरेल (**सोय**)
+  - “आम्ही नेहमी असेच केले आहे” (**ऐतिहासिक पूर्वप्रथा**)
+  - भूतकाळातील पर्यायांमुळे बदल कठीण झाला आहे (**मार्ग-अवलंबित्व**)
 
-<a id="11-incentive-alignment-and-system-capture"></a>
-### 11. प्रोत्साहन संरेखन आणि प्रणाली ताबा
+<a id="185-modular-architecture-and-dependency-discipline"></a>
+#### 18.5 मॉड्यूलर वास्तुरचना आणि अवलंबित्व शिस्त
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — चतुष्क **ताबा** शिस्तीसाठी अध्याय एकाचे प्राथमिक घर (प्रोत्साहने **सहभाग**, **देखरेख**, **उत्तरदायित्व**, किंवा **समयबद्धता** पोकळ करू नयेत); [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- सोबत वाचा: उत्तरदायित्व मापन कुटुंब (*प्रोत्साहन संरेखन आणि प्रतिनिधी सचोटी; बाजार रचना आणि आव्हानयोग्यता*).
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (लघु-क्षितिज अनुकूलन आणि ताब्याविरुद्ध टिकाऊ संरेखन); **समुन्नती** उद्दिष्ट (अर्थपूर्ण कर्तृत्व राखणाऱ्या प्रोत्साहन रचना).
-- वरून: तत्त्वे: [2. पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§2.2 मान्यता, बळकटी आणि आकांक्षा](core_01_a_values_principles.md#22-recognition-reinforcement-and-aspiration), [3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- पुढे: [§5 स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency) आणि [§7 निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- पुढे: [§6.3 टाळता येणाऱ्या भाराचे न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden); [अध्याय बारा §5 — अधिकृत भूमिका, क्षमता विकास आणि योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](../../corpus_systems.md), CS-4 — गंभीर प्रणालींचे उत्तरदायी व्यवस्थापन**.
-- पुढे: [अध्याय सहा: पायाभूत अधिकार](../../core_06_rights_part_a.md#chapter-six-foundational-rights) आर-पार कर्तृत्व, सहभाग, प्रोत्साहन संरेखन, सूचना-मंडल सचोटी, प्रस्थिति, आणि ताबा-निरोध समीक्षा यांसाठी अधिकार-सतह लक्ष्य करते; विशेषतः [अनुच्छेद X: आत्मनिर्णय आणि कर्तृत्व](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [अनुच्छेद XII: प्रभावित पक्षांचा प्रणालीगत सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया](../../core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [अनुच्छेद XIII-D: प्रोत्साहन-संरेखन बंधन](../../core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [अनुच्छेद XV: सूचना-मंडल सचोटी](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity), [अनुच्छेद XIX: प्रस्थिति आणि सहभाग स्थिती](../../core_06_rights_part_c.md#article-xix-standing-and-participation-status), आणि [अनुच्छेद XXIII: संवैधानिक अर्थनिर्णय, समीक्षा आणि ताबा-निरोध संरक्षणे](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards).
-- व्यवस्थापक द्वार (असंक्रियात्मक): बंधनकारक पुढील-पाऊल विधान: [संक्रियात्मक व्यवस्थापक विधान](#operative-steward-statement-incentive). सहायक संकेत त्याला आकुंचित करू शकत नाहीत.
+- पूर्ववर्ती: [§18.1 अधिकृत रचना म्हणून शासन](#181-governance-as-authorized-structure); [§18.3 कर्तव्यांचे विभाजन](#183-segregation-of-duties) (*संघटनात्मक समकक्ष: भूमिकांचे विभाजन तपासकर्त्याला कृतीकर्त्यापासून दूर ठेवते; हा विभाग प्रणालीचे भाग तपासता येतील इतके वेगळे ठेवतो*).
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **पर्यवेक्षण** घटक (एकेक करून तपासता येणारे भाग), **उत्तरदायित्व** घटक (ओळखता येणाऱ्या घटकाशी जोडलेली जबाबदारी), **सहभाग** घटक (संपूर्ण प्रणालीवर प्रभुत्व न मिळवता समज); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** (अलग ठेवणे, दुरुस्ती, बदल) आणि **समृद्धी**.
+- यासोबत वाचा: [§5.2 सोप्या भाषेतील सुलभता](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) आणि [§13.3 टाळता येण्याजोगा भार कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*गुंतागुंत कमी करणे*); [§16.1 वितरित समज](#161-distributed-understanding); [§11.3.1 एकत्रीकरणाचा धोका (लॉक-इनपूर्व हानी)](core_01_a_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment).
+- पुढील: [कलम XXII-B: गुंतागुंत लेखापरीक्षण आणि मॉड्युलरतेच्या आवश्यकता](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*अधिकार-तळ*); [कलम V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*अवलंबित्व नकाशे*); [कलम XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*निर्गमन आणि वहनक्षमता*); [CS-6](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) (*समजण्याजोगेपणा आणि गुंतागुंतीचे संरक्षकत्व*).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [लघु-क्षितिज शासन दोष](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional) · [O](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional) · [M](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional-c)
-- [उत्तरदायी-व्यवस्थापन दोष](../../core_05_band_continuity.md#stewardship-defect-constitutional) · [O](../../core_05_band_continuity.md#stewardship-defect-constitutional) · [M](../../core_05_band_continuity.md#stewardship-defect-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-defect-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-defect-constitutional-c)
-- [समीक्षा आणि सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
-- [प्रोत्साहन संरेखन](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
-- [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
-- [टाळता येणारा भार](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
-- [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [ताबा-निरोध](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">संक्रियात्मक व्यवस्थापक विधान</span></strong></summary>
-
-<a id="operative-steward-statement-incentive"></a>
-> **संक्रियात्मक व्यवस्थापक विधान.** **मालक:** अध्याय एक §11. अपयशी-परीक्षा घर: §9.1.2. व्याख्या: प्रोत्साहन संरेखन. **निषिद्ध चाल:** भौतिक प्रकटीकरण दाबून पाठवू नका. बोनस वैध अनुपालन बचाव मानू नका. **घड्याळ:** प्रतिनिधी नाकारा. प्रोत्साहन दुरुस्त करा. सामायिक नकार आणि नोंद पट्टी चालवा.
+- [अवलंबित्व](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
+- [प्रणाली सीमा अखंडता](core_05_band_continuity.md#system-boundary-integrity) · [O](core_05_band_continuity.md#system-boundary-integrity) · [M](core_05_band_continuity.md#system-boundary-integrity-a) · [A](core_05_band_continuity.md#system-boundary-integrity-a) · [C](core_05_band_continuity.md#system-boundary-integrity-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [साखळीबद्ध अपयश](core_05_band_continuity.md#cascading-failure) · [O](core_05_band_continuity.md#cascading-failure) · [M](core_05_band_continuity.md#cascading-failure-a) · [A](core_05_band_continuity.md#cascading-failure-a) · [C](core_05_band_continuity.md#cascading-failure-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: तिमाही लक्ष्य गाठत राहणारे पण सुरक्षा, सत्य, सहभाग, किंवा भविष्य पोकळ करणारे शासन «काम करणारे शासन» नाही — तो दोष हे संविधान नाव देते आणि खालील प्रोत्साहन आणि ताबा शिस्तीतून दुरुस्त करते. संचालक, अभिकर्ते आणि प्रणाली घटकांवर काम करणारी प्रोत्साहने — मोबदला, पदोन्नती, समभाग, आणि तुलनायोग्य बक्षीस मार्ग धरून — संवैधानिक निकालांकडे ओढायला हवीत. ती सुरक्षा, सत्य, अधिकार, स्थैर्य, किंवा अर्थपूर्ण कर्तृत्व कमजोर करणाऱ्या वर्तनाला शांतपणे बक्षीस देऊ शकत नाहीत, थेट, विलंबाद्वारे, एकत्रीकरणाद्वारे, किंवा गैरवर्तनावरील किंवा त्याच्या लपवण्यावरील भौतिक अवलंबित्वाच्या रचनांद्वारे.*
+*सोप्या शब्दांत: स्पष्ट कामे, स्पष्ट जोडण्या आणि एकमेकांवरील दृश्यमान अवलंबित्व असलेल्या भागांमध्ये प्रणाली उभारा. त्यामुळे हितसंबंध असलेली कोणतीही व्यक्ती काय कशावर अवलंबून आहे हे पाहू शकते, प्रत्येक भागासाठी जबाबदार कोण आहे हे सांगू शकते, संपूर्ण प्रणालीवर विश्वास ठेवण्याची गरज न पडता एका भागाची तपासणी करू शकते आणि इतर सर्व काही बिघडू न देता एखादा भाग बदलू किंवा दुरुस्त करू शकते. गुंतागुंत समजण्याजोगी आणि उत्तरदायी करण्याचा मॉड्युलरता हा एक मार्ग आहे. सीमांच्या मागे ती लपवण्याचा हा मार्ग नाही.*
 
-प्रणालींनी **लघु-क्षितिज शासन दोष** ([लघु-क्षितिज शासन दोष](../../core_05_band_continuity.md#short-horizon-governance-defect-constitutional)) [समीक्षा आणि सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional), आव्हानयोग्य देखरेख, आणि [§11.1 संरेखन अपेक्षा](#111-alignment-requirement) ते [§11.6 उत्तराधिकारी जबाबदारी आणि औपचारिक-संरचना पलायन-निरोध](#116-successor-responsibility-and-formal-structure-non-escape) तसेच [§13.1 बाजार संकेंद्रण उंबरठा यंत्रणा](#131-market-concentration-threshold-mechanism-adopter-tunable) ते [§13.3 एकत्रीकरण छत](#133-consolidation-ceiling) मधील संरेखन, विसंरेखन-पकडणे, विसंरेखन-सुधार, ताबा-प्रतिक्रिया, आणि उत्तराधिकारी-जबाबदारी नियमांनी पकडावे, प्रगट करावे आणि दुरुस्त करावे.
+भौतिक प्रणाली अशा प्रकारे बांधल्या पाहिजेत की त्यांचे भाग आणि त्यांच्यातील अवलंबित्वे दिसू शकतील, जबाबदारीसाठी नेमून देता येतील, तपासता येतील आणि एकावेळी एक बदलता येतील. अचूक मॉड्युलरता—विशेषतः अवलंबित्वांचे अचूक व्यवस्थापन—प्रणाली [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) आणि [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) कागदावरच नव्हे तर प्रत्यक्षात साकार करण्याचा एक प्रमुख मार्ग आहे.
 
-**प्रणालींनी:**
+**मॉड्युलर वास्तुरचना काय करते:**
 
-- अभिकर्ते, संचालक, किंवा घटकीय घटकांवर काम करणाऱ्या प्रोत्साहन रचना या संविधानात व्याख्या केलेल्या मूल्ये आणि बंधनांशी संरेखित ठेवाव्यात;
-- त्या रचना त्या मूल्ये आणि बंधने व्यवस्थित कमजोर करत नाहीत याची खात्री करावी; आणि
-- त्या रचना [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) ला [भौतिक दाव](core_00_preamble.md#material-stake) मागतो त्यापेक्षा खाली ताब्यात घेत नाहीत, पोकळ करत नाहीत, किंवा विसंरेखित करत नाहीत याची खात्री करावी.
+- **उत्तरदायित्व कोणाकडे आहे हे स्पष्ट करते:** प्रत्येक घटकाचे घोषित कार्य, ओळखता येणारा संरक्षक, आणि निश्चित इनपुट व आउटपुट असतात; त्यामुळे दोष किंवा हानी त्या भागापर्यंत आणि त्यासाठी जबाबदार कृतीकर्त्यापर्यंत शोधता येते.
+- **पारदर्शकता वापरण्यायोग्य करते:** पुनरावलोकक संपूर्ण प्रणाली पुन्हा उभारल्याशिवाय घोषित इंटरफेसच्या आधारे घटक तपासू शकतात; प्रभावित संवेदनक्षम जीव [§16.1 वितरित समज](#161-distributed-understanding) यानुसार त्यांची परिस्थिती कोणत्या घटकांवर अवलंबून आहे हे समजू शकतात.
+- **गुंतागुंत कमी करते आणि मर्यादित ठेवते:** दूर न करता येणारी गुंतागुंत नियंत्रित करता येते: प्रत्येक स्वतंत्रपणे समजता येईल अशा भागांत विभागून आणि त्यांतील जोडण्या कमी, स्पष्ट व दस्तऐवजीकृत ठेवून. हे [§5.2 सोप्या भाषेतील सुलभता](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) आणि [§13.3 टाळता येण्याजोगा भार कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) यांचे संरचनात्मक समकक्ष आहे.
+- **अपयशाचा प्रसार रोखते आणि बदलण्याची क्षमता टिकवते:** एका घटकातील दोष लपलेल्या जोडण्यांमधून पसरू नये ([साखळीबद्ध अपयश](core_05_band_continuity.md#cascading-failure)); तसेच अपयशी, निकृष्ट किंवा ताब्यात गेलेल्या घटकाची इतरांना परवडेल अशा खर्चात दुरुस्ती किंवा बदली करता आली पाहिजे. [अवलंबित्व](core_05_band_continuity.md#dependency) मोजत असलेल्या लॉक-इनला हे रचना-स्तरावरील उत्तर आहे.
 
-[§11.5 आकस्मिक दावे, संयोग खेळ आणि घटना-करार बाजार](#115-contingent-claims-games-of-chance-and-event-contract-markets) त्याच सामान्य मानकाचा **विशेष अनुप्रयोग** सांगतो. [§11.1.3 उत्तरदायी व्यवस्थापन आणि संचालक अनुप्रयोग](#1113-stewardship-and-operator-application) उत्तरदायी व्यवस्थापन आणि संचालक शब्दसंग्रह तसेच भूमिका-मार्ग नियम सांगतो; कोणीही [§11.1 संरेखन अपेक्षा](#111-alignment-requirement) पेक्षा कमकुवत प्रोत्साहन नियम रचत नाही.
+**अवलंबित्व शिस्त.** घटकांमधील अवलंबित्वे वास्तुरचनेचाच भाग आहेत; ती नंतर जोडायची बाब नाही. भौतिक प्रणालींमध्ये:
 
-<a id="111-alignment-requirement"></a>
-#### 11.1 संरेखन अपेक्षा
+- अवलंबित्वे **स्पष्ट** असतात: सामायिक स्थिती, बाजूच्या वाहिन्या किंवा दस्तऐवजीकरण नसलेल्या संकेतांमध्ये अप्रत्यक्ष न ठेवता इंटरफेसवर जाहीर केली जातात;
+- अवलंबित्वे **किमान आणि दिशात्मक** असतात: जोडणी कार्यासाठी आवश्यकतेपेक्षा व्यापक नसते; एकमार्गी किंवा साखळीतील अवलंबित्वे लपवण्याऐवजी स्पष्ट दिसतात;
+- अवलंबित्वांचे **लेखापरीक्षण होणाऱ्या त्याच सीमांनुसार नकाशीकरण** केले जाते, जेणेकरून [कलम V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*अवलंबित्व नकाशीकरण आणि संसाधन-प्रवाह पारदर्शकता*)नुसार आवश्यक नकाशा पुनरावलोकक प्रत्यक्ष तपासू शकतील अशा घटकांशी जुळतो;
+- कार्य शक्य करत असेल तेथे अवलंबित्वे **बदलण्याची क्षमता आणि निर्गमन** टिकवतात, [कलम XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*आंतरकार्यक्षमता, वहनक्षमता, स्थलांतर, आश्रय आणि निर्गमन अखंडता*) यांच्याशी सुसंगत.
+
+**सीमा लपण्याची ठिकाणे बनू नयेत.** प्रत्येक अंतर्गत सीमा ओलांडून जबाबदारी आणि निरीक्षणक्षमता टिकून राहिली तरच मॉड्युलरता वैध ठरते. [कलम XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*गुंतागुंत लेखापरीक्षण आणि मॉड्युलरतेच्या आवश्यकता*) ज्या स्तररचनेला प्रतिबंध करते, ती विभागणी पुढीलपैकी काही करत असेल तेव्हा लागू होते:
+
+- जबाबदारी उत्तरदायित्व नसलेल्या स्तराकडे ढकलते;
+- प्रत्येक भाग स्वतंत्रपणे तपासता येत असतानाही संपूर्ण प्रणालीचे लेखापरीक्षण अशक्य करते; किंवा
+- एक कार्य विविध घटकांमध्ये पसरवते, त्यामुळे त्यासाठी कोणताही संरक्षक उत्तर देत नाही.
+
+याशिवाय:
+
+- मूल्यमापनाची व्याप्ती कमी करण्यासाठी अंतर्गत विभाजने वापरणे हा [प्रणाली सीमा अखंडतेचा](core_05_band_continuity.md#system-boundary-integrity) विषय आहे.
+- प्रणालीचे भाग पाडल्याने तिची गुंतागुंत आपोआप कमी होत नाही: इंटरफेस जितका भार कमी करतात त्यापेक्षा अधिक भार जोडत असतील, तर रचनेवर [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) लागू होतो.
+
+**प्रमाणानुसार विस्तार.** मॉड्युलर शिस्तीची खोली [भौतिक हितसंबंध](core_00_preamble.md#material-stake) आणि [वर्गीकरणानुसार प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance) यांच्यानुसार, [प्रमाणबद्धते](core_05_band_accountability.md#proportionality) अंतर्गत ठरते:
+
+- महत्त्वाच्या प्रणालींनी [कलम XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*गुंतागुंतीचे लेखापरीक्षण आणि मॉड्युलरिटीच्या आवश्यकता*) यातील मॉड्युलरिटीचा किमान निकष **अवश्य** पूर्ण केला पाहिजे.
+- कमी हितसंबंध-दांव असलेल्या प्रणालींनी प्रमाणबद्धतेनुसार शक्य तितक्या या तत्त्वाचे पालन करणे अपेक्षित आहे.
+- हा विभाग कोणतीही विशिष्ट वास्तुरचनाशैली आवश्यक करत नाही.
+- हा विभाग [कलम XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*गुंतागुंतीचे लेखापरीक्षण आणि मॉड्युलरिटीच्या आवश्यकता*) किंवा [CS-6 — आकलनीयता आणि गुंतागुंतीचे संरक्षकत्व](corpus_systems/cs_06_comprehensibility_complexity_stewardship.md) यांचे किमान निकष संकुचित करत नाही.
+
+[§17.1 सामायिक संरक्षकत्व मानक](#171-shared-stewardship-standard) अंतर्गत हे तत्त्व मानव आणि AI संरक्षकांना समान रीतीने बांधील करते.
+
+<a id="186-standardization"></a>
+#### 18.6 मानकीकरण
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- [प्रोत्साहन संरेखन](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
-- [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
-- [टाळता येणारा भार](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
-- [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [ताबा-निरोध](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [कल्याण](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
+- पूर्ववर्ती: [§18.1 अधिकृत रचना म्हणून शासन](#181-governance-as-authorized-structure); [§18.5 मॉड्युलर वास्तुरचना आणि अवलंबित्व शिस्त](#185-modular-architecture-and-dependency-discipline) (*संवाद-इंटरफेस समान आणि प्रकाशित असतील तर मॉड्युलर भाग तपासता आणि बदलता येण्याजोगे राहतात; हा विभाग तो समान नमुना पुरवतो*).
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — **पर्यवेक्षण** घटक (समान मानक एकदा तपासून सर्वत्र लागू करता येते), **उत्तरदायित्व** घटक (सारख्या प्रकरणांना सारखी वागणूक), **सहभाग** घटक (हितधारक अनेक पद्धतींऐवजी एक पद्धत शिकू शकतात); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** (आंतरकार्यक्षमता, बदलण्याची क्षमता) आणि **समृद्धी**.
+- यासोबत वाचा: [§5.2 सोप्या भाषेतील सुलभता](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) आणि [§13.3 टाळता येण्याजोगा भार कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) (*अनावश्यक विविधता हा भार आहे*); [§17.4 संरेखित स्व-संघटन](#174-aligned-self-organization) (*समतोल राखणारा घटक: आंतरकार्यक्षमता टिकवून स्थानिक निवड*); [§11.2 स्पर्धेच्या बाजूने आणि वर्चस्वाच्या विरोधात](core_01_a_values_principles.md#112-pro-competition-and-anti-domination) आणि [§11.3.1 केंद्रीकरणाचा धोका (लॉक-इनपूर्व हानी)](core_01_a_values_principles.md#1131-consolidation-risk-pre-lock-in-impairment) (*मानके लॉक-इन बनता कामा नयेत*).
+- पुढील: [कलम XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*आंतरकार्यक्षमता, वहनक्षमता आणि निर्गमन*); [कलम XXII-B](core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements) (*गुंतागुंत आणि मॉड्युलरिटीचे किमान निकष*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
+
+- [मानकीकरण](core_05_band_accountability.md#standardization) · [O](core_05_band_accountability.md#standardization) · [M](core_05_band_accountability.md#standardization-a) · [A](core_05_band_accountability.md#standardization-a) · [C](core_05_band_accountability.md#standardization-c)
+- [विकेंद्रीकरण](core_05_band_accountability.md#decentralization) · [O](core_05_band_accountability.md#decentralization) · [M](core_05_band_accountability.md#decentralization-a) · [A](core_05_band_accountability.md#decentralization-a) · [C](core_05_band_accountability.md#decentralization-c)
+- [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [कब्जा-विरोध](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+
+</details>
+
+<br>
+
+*सोप्या शब्दांत: शंका असेल तर मानकीकरण करा. वेगळे करण्याचे चांगले कारण नसेल तर समान, प्रकाशित पद्धत वापरा. समानतेसाठी सबब द्यावी लागत नाही; फरकासाठी द्यावी लागते. पण मानक खुले, तपासता येण्याजोगे आणि बदलता येण्याजोगे असले पाहिजे; ते काम कसे करायचे हे मानकीकृत करते, संवेदनक्षम जीव काय निवडू शकतात हे कधीच नाही.*
+
+प्रणालीला संज्ञा परिभाषित करणे, इतर प्रणालींशी जोडणे, नोंदी ठेवणे, प्रक्रियांचे पालन करणे किंवा निर्णयांचे नियम ठरवणे अशी दैनंदिन कामे करावी लागतात, तेव्हा तिने समान, सार्वजनिकरीत्या उपलब्ध पद्धतीने सुरुवात करावी. याला [मानकीकरण](core_05_band_accountability.md#standardization) म्हणतात. समान मानक उपलब्ध असताना प्रणालीने स्वतःची वेगळी पद्धत निवडली, तर तिने त्यामागचे कारण स्पष्ट करता आले पाहिजे.
+
+**मानकीकरण काय करते:**
+
+- **सारख्या प्रकरणांना सारखी वागणूक देते:** सर्वांचे मूल्यांकन समान निकष आणि टप्प्यांनुसार केले, तर असमान वागणूक शोधणे व आव्हान देणे सोपे होते. स्थानिक फरकांच्या आड ती लपू शकत नाही ([§3.1.3 न्याय्य वागणूक](core_01_a_values_principles.md#313-fair-treatment) पहा).
+- **पुनरावलोकन सोपे आणि अधिक मजबूत करते:** एक मानक समजणारा पुनरावलोकक ते जिथे वापरले जाते त्या सर्व ठिकाणी तपासू शकतो. प्रत्येक ठिकाणाची पद्धत वेगळी असेल तर शिकणे, लेखापरीक्षण आणि स्पष्टीकरण यासाठी खूप अधिक मेहनत लागते. समान मानक उपलब्ध असताना ही अतिरिक्त मेहनत [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) ठरू शकते.
+- **भाग जोडता आणि बदलता येण्याजोगे ठेवते:** समान स्वरूपे आणि जोडणी-बिंदू असल्यामुळे सर्व काही पुन्हा उभारल्याशिवाय घटक, पुरवठादार किंवा नोंद हलवता, दुरुस्त करता किंवा बदलता येते. यामुळे [§18.5 मॉड्युलर वास्तुरचना आणि अवलंबित्व शिस्त](#185-modular-architecture-and-dependency-discipline) व [कलम XXI](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*आंतरकार्यक्षमता, वहनक्षमता, हालचाल, आश्रय आणि निर्गमनाची अखंडता*) यांना आधार मिळतो.
+- **गोष्टी समजणे सोपे करते:** संवेदनक्षम जीवांना सर्वत्र समान संज्ञा, अर्ज आणि टप्पे भेटले, तर त्यांच्यासोबत काय घडत आहे हे त्यांना समजू शकते. हे [§5.2 सोप्या भाषेतील सुलभता](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) याला अनुरूप आहे.
+
+**मानक स्वतः योग्य असले पाहिजे.** मानक पुढील अटी पूर्ण करत असेल तरच मानकीकरण मान्य होईल:
+
+- प्रकाशित असणे
+- आवृत्ती-नियंत्रित असणे
+- तपासणीस खुले असणे
+- आव्हानासाठी खुले असणे
+- वापरण्यास मुक्त असणे; त्याच्या मालकाला इतरांवर सत्ता देणारा परवाना, शुल्क किंवा अवलंबित्व नसणे
+
+खाजगी किंवा पुनरावलोकन न करता येणारे “मानक” म्हणजे मानकीकरण नव्हे. ते लॉक-इनचे एक रूप आहे, ज्याला [§11 बाजाररचना](core_01_a_values_principles.md#11-market-structure) आणि [कब्जा-विरोध](core_05_band_continuity.md#anti-capture) संबोधित करतात.
+
+**विविधता कधी न्याय्य ठरते.** उपलब्ध मानकापासून दूर जाणे पुढील परिस्थितींमध्ये समर्थनीय असते:
+
+- [सुरक्षा](core_05_band_continuity.md#safety-constitutional-constraint), [सत्य](core_05_band_oversight.md#truth-constitutional-constraint), किंवा अध्याय सहाचा एखादा हक्क मानकात नसलेल्या गोष्टीची मागणी करतो;
+- भौतिकदृष्ट्या वेगळ्या परिस्थितीची [आवश्यकता](core_05_band_accountability.md#necessity), किंवा दस्तऐवजीकृत [प्रमाणबद्धतेचे](core_05_band_accountability.md#proportionality) कारण, समान स्वरूप अव्यवहार्य किंवा हानिकारक बनवते; किंवा
+- [विकेंद्रीकरण](core_05_band_accountability.md#decentralization) आणि [§17.4 संरेखित स्व-संघटन](#174-aligned-self-organization) यांमुळे निर्णय स्थानिक पातळीवर घेतला जातो. दस्तऐवजीकृत कारणाने वेगळे सांगितले नसेल, तर स्थानिक निवडी समान मानकाशी आंतरकार्यक्षम राहिल्या पाहिजेत.
+
+नवोन्मेष, प्रयोग आणि विविध दृष्टिकोन खुले राहतात. मानक सुधारण्याचा प्रस्ताव म्हणजे त्याकडे दुर्लक्ष करण्याचे कारण नव्हे; आक्षेप आणि पुनरीक्षणाच्या मार्गाने मानक सुधारण्याचे कारण आहे.
+
+**मर्यादा.** मानकीकरण केवळ स्वरूप आणि वागणूक नियंत्रित करते.
+
+- ते मूल्ये, उद्दिष्टे किंवा कायदेशीर निवडी मानकीकृत करत नाही.
+- हा अधिकार-तळ किंवा बंधनकारक सुरक्षा अथवा सत्याची आवश्यकता कधीही बाजूला सारत नाही.
+- अधिकार केंद्रीकृत करण्याचा हा आधार नाही.
+- स्थानिक क्षमता पुरेशी असेल तेथे हे [विकेंद्रीकरणाची](core_05_band_accountability.md#decentralization) जागा घेत नाही.
+- या दोहोंमध्ये ओढाताण असेल तेव्हा [आवश्यकता](core_05_band_accountability.md#necessity) आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) निर्णय ठरवतात, आणि निवड नोंदवली जाते.
+
+**प्रमाणानुसार विस्तार.** या शिस्तीची खोली [भौतिक हितदांव](core_00_preamble.md#material-stake) आणि [वर्गीकरणानुसार प्रमाणित शासन](core_05_band_oversight.md#classification-scaled-governance) यांनुसार वाढते. महत्त्वाच्या आणि निर्णायक प्रणालींनी उपलब्ध समान मानकापासून कुठे आणि का वेगळे जातात हे दस्तऐवजीकरण करणे अपेक्षित आहे. कमी हितदांव असलेल्या परिस्थिती या तत्त्वाचे प्रमाणबद्धतेनुसार पालन करतात.
+
+[§17.1 सामायिक संरक्षकत्व मानक](#171-shared-stewardship-standard) अंतर्गत हे तत्त्व मानव आणि AI संरक्षकांना समान रीतीने बांधील करते.
+
+<a id="19-incentive-alignment-and-system-capture"></a>
+### 19. प्रोत्साहन संरेखन आणि प्रणालीचे कब्जाकरण
+
+<details>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
+
+- यासोबत वाचा: [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) — चतुष्टयातील **कब्जाकरण** शिस्तीसाठी अध्याय एकमधील प्राथमिक ठिकाण (प्रोत्साहनांनी **सहभाग, पर्यवेक्षण, उत्तरदायित्व किंवा समयबद्धता** कमकुवत करता कामा नये); [भौतिक हितदांव](core_00_preamble.md#material-stake) नुसार प्रमाणन.
+- यासोबत वाचा: उत्तरदायित्व मापन परिवार (*प्रोत्साहन संरेखन आणि प्रतिनिधी मापदंडाची अखंडता; बाजार रचना आणि आव्हानक्षमता*).
+- यासोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (अल्पकालीन अनुकूलन आणि कब्जाकरणाविरुद्ध टिकाऊ संरेखन); **समृद्धी** उद्दिष्ट (अर्थपूर्ण कर्तृत्व जपणाऱ्या प्रोत्साहन रचना).
+- पूर्ववर्ती: तत्त्वे: [3. मूलभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 मान्यता, बळकटीकरण आणि आकांक्षा](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration), [4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 संरक्षकत्व सविस्तर](#16-stewardship-in-depth), आणि [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- पुढील: [§7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency) आणि [§14 निरपेक्ष अध्यारोपणास प्रतिबंध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- पुढील: [§13.3 टाळता येण्याजोगा भार कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [अध्याय तेरा §5 — अधिकृत भूमिका, क्षमता विकास आणि योगदान](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md), CS-4 — निर्णायक प्रणालीचे संरक्षकत्व**.
+- कर्तृत्व, सहभाग, प्रोत्साहन संरेखन, माहिती-क्षेत्र अखंडता, कायदेशीर स्थान आणि कब्जाकरण-विरोधी पुनरावलोकन या हक्कांच्या क्षेत्रांना लक्ष्य करते; ते [अध्याय सहा: मूलभूत हक्क](core_06_rights_part_a.md#chapter-six-foundational-rights)मध्ये आहेत; विशेषतः [कलम X: स्वनिर्णय, कर्तृत्व आणि सहभाग](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [कलम XII: हितधारक प्रणाली सहभाग, प्रतिनिधित्व आणि न्याय्य प्रक्रिया](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [कलम XIII-D: प्रोत्साहन संरेखनावरील बंधन](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [कलम XV: माहिती-क्षेत्राची अखंडता](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [कलम XIX: कायदेशीर स्थान आणि सहभाग स्थिती](core_06_rights_part_d.md#article-xix-standing-and-participation-status), आणि [कलम XXIV: संवैधानिक अर्थनिर्णयन, पुनरावलोकन आणि कब्जाकरण-विरोधी संरक्षक उपाय](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
+- संरक्षक प्रवेशद्वार (कार्यकारी नाही): पुढील पायरीचे कार्ड: [प्रोत्साहन संरेखन](implementation/STEWARD_ENTRY_DOORS.md#incentive-alignment). हे कार्ड संविधान संकुचित करू शकत नाही.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
+
+- [अल्पकालीन शासन दोष](core_05_band_continuity.md#short-horizon-governance-defect) · [O](core_05_band_continuity.md#short-horizon-governance-defect) · [M](core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](core_05_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](core_05_band_continuity.md#short-horizon-governance-defect-constitutional-c)
+- [संरक्षकत्व दोष](core_05_band_continuity.md#stewardship-defect) · [O](core_05_band_continuity.md#stewardship-defect) · [M](core_05_band_continuity.md#stewardship-defect-constitutional-a) · [A](core_05_band_continuity.md#stewardship-defect-constitutional-a) · [C](core_05_band_continuity.md#stewardship-defect-constitutional-c)
+- [पुनरावलोकन आणि दुरुस्ती कर्तव्य](core_05_band_continuity.md#review-and-correction-duty) · [O](core_05_band_continuity.md#review-and-correction-duty) · [M](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+- [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment) · [A](core_05_band_integrative.md#incentive-alignment) · [C](core_05_band_integrative.md#incentive-alignment)
+- [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [संवैधानिक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [प्रतिनिधी मापदंड विचलन](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [सुरक्षा (संवैधानिक बंधन)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [प्रणाली कब्जाकरण](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [कब्जाकरण-विरोध](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+
+</details>
+
+<br>
+
+*सोप्या शब्दांत: तिमाही उद्दिष्टे सतत गाठत असताना सुरक्षा, सत्य, सहभाग किंवा भविष्याची पोकळी करणारे शासन “काम करणारे शासन” नाही. हा असा दोष आहे ज्याला हे संविधान नाव देते आणि खालील प्रोत्साहन व कब्जाकरण शिस्तीद्वारे दुरुस्त करते. संचालक, एजंट आणि प्रणाली घटकांसाठीचे पुरस्कार—वेतन, बढती आणि समभागांसह—संवैधानिक परिणामांना अनुकूल असले पाहिजेत. सुरक्षा, सत्य, हक्क, स्थैर्य किंवा अर्थपूर्ण कर्तृत्व कमकुवत करणाऱ्या वर्तनाला ते गुपचूप पुरस्कृत करता कामा नयेत. पुरस्कार थेट मिळाला, विलंबाने मिळाला, एकत्रित परिणामाद्वारे मिळाला किंवा गैरवर्तन अथवा ते लपवण्यावर अवलंबून असलेल्या व्यवस्थेद्वारे मिळाला, तरी हीच अट लागू होते.*
+
+**प्रणालींनी हे करणे आवश्यक आहे:**
+
+- एजंट, संचालक किंवा घटकांवर परिणाम करणाऱ्या प्रोत्साहन रचनांना या संविधानात परिभाषित मूल्ये आणि बंधने यांच्याशी संरेखित करणे;
+- त्या रचना ही मूल्ये व बंधने पद्धतशीरपणे कमकुवत, पोकळ, कब्जात किंवा विसंगत करत नाहीत आणि [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) [भौतिक हितदांव](core_00_preamble.md#material-stake)नुसार आवश्यक असलेल्या पातळीखाली नेत नाहीत याची खात्री करणे; आणि
+- [अल्पकालीन शासन दोष](core_05_band_continuity.md#short-horizon-governance-defect) शोधणे, उघड करणे आणि [पुनरावलोकन व दुरुस्ती कर्तव्य](core_05_band_continuity.md#review-and-correction-duty) तसेच आव्हान देता येण्याजोग्या पर्यवेक्षणाद्वारे दुरुस्त करणे.
+
+**या अध्यायाचा उर्वरित भाग एकमेकांशी कसा जुळतो:**
+
+- [§19.1 संरेखनाची अट](#191-alignment-requirement) सामान्य नियम ठरवते. [§19.1.3 संरक्षकत्व आणि संचालकांवरील अनुप्रयोग](#1913-stewardship-and-operator-application) हा नियम संरक्षक व संचालकांना लागू करते.
+- [§19.2 सोयीस्कर प्रतिनिधी मापदंड आणि प्रतिनिधी मापदंड विचलन](#192-convenient-proxies-and-proxy-divergence) ते [§19.4 विसंरेखन दुरुस्ती आणि कब्जाकरण प्रतिसाद](#194-misalignment-correction-and-capture-response) हे विभाग दिशाभूल करणाऱ्या मोजमापांशी प्रणाली कशा व्यवहार करतात, अपयश कसे शोधतात आणि विसंरेखन किंवा कब्जाकरण कसे दुरुस्त करतात हे स्पष्ट करतात.
+- [§19.5 सशर्त दावे, संधीचे खेळ आणि घटना-करार बाजार](#195-contingent-claims-games-of-chance-and-event-contract-markets) या उपक्रमांनाही तोच नियम लागू करते. हा अनुप्रयोग किंवा संरक्षक आणि संचालकांसाठीचा अनुप्रयोग सामान्य नियम कमकुवत करत नाही.
+- [§19.6 मालकी किंवा रचना बदलल्यावर जबाबदारी टिकवणे](#196-keeping-responsibility-when-ownership-or-structure-changes) औपचारिक ओळख बदलली तरी ही कर्तव्ये कायम ठेवते.
+- [§11 बाजार रचना](core_01_a_values_principles.md#11-market-structure) संबंधित केंद्रीकरण, वर्चस्व आणि एकत्रीकरणाच्या जोखमींचा विचार करते.
+
+<a id="191-alignment-requirement"></a>
+#### 19.1 संरेखनाची अट
+
+<details>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
+
+- [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [संवैधानिक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
+- [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [प्रतिनिधी मापदंड विचलन](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [सुरक्षा (संवैधानिक बंधन)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [प्रणाली कब्जाकरण](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [कब्जाकरण-विरोध](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+- [कल्याण](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
 - [सहभाग](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
 
 </details>
 
 <br>
 
-अभिकर्ते, संचालक, किंवा घटकीय घटकांवर काम करणाऱ्या प्रोत्साहन रचना या संविधानात व्याख्या केलेल्या मूल्ये आणि बंधनांशी संरेखित राहायला हव्यात.
+एजंट, संचालक किंवा घटकांवर परिणाम करणाऱ्या प्रोत्साहन रचना या संविधानात परिभाषित मूल्ये आणि बंधने यांच्याशी संरेखित असल्या पाहिजेत.
 
-<a id="1111-what-incentives-must-do"></a>
-##### 11.1.1 प्रोत्साहने काय करायला हवीत
+<a id="1911-what-incentives-must-do"></a>
+##### 19.1.1 प्रोत्साहनांनी काय केले पाहिजे
 
-प्रोत्साहने मोजता येणाऱ्या संवैधानिक निकालांना अनुकूल ठरायला हवीत, प्रत्येक या अध्याय, **अध्याय सहा**तील अधिकार-तळ, आणि **अध्याय पाच**तील निकाल-माग अपेक्षा यांच्याशी सुसंगत, ज्यात:
+प्रोत्साहनांनी मोजता येण्याजोग्या संवैधानिक परिणामांना प्राधान्य दिले पाहिजे. प्रत्येक परिणाम या अध्यायाशी, **अध्याय सहा**मधील हक्कांच्या किमान पातळीशी आणि **अध्याय पाच**मधील परिणाम शोधता येण्याच्या आवश्यकतांशी सुसंगत असावा; यात पुढील बाबींचा समावेश होतो:
 
 - सुरक्षा;
 - सत्य;
-- लेखापरीक्षण-योग्यता;
-- समयबद्ध उपचार;
-- [ताबा-निरोध](../../core_05_band_continuity.md#anti-capture); आणि
-- [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) चे संरक्षण किंवा टिकाऊ विस्तार.
+- लेखापरीक्षणक्षमता;
+- आव्हानक्षमता;
+- वेळेवर उपाय;
+- [कब्जाकरण-विरोध](core_05_band_continuity.md#anti-capture); आणि
+- [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity) जतन करणे किंवा टिकाऊपणे वाढवणे.
 
-<a id="1112-what-incentives-must-not-do"></a>
-##### 11.1.2 प्रोत्साहने काय करू नयेत
+**पुरस्काराचे प्राधान्य.** प्रोत्साहनांनी:
 
-प्रोत्साहने खालील गोष्टींना बक्षीस, संरक्षण, सामान्यीकरण, किंवा भौतिक लाभ देऊ नयेत:
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability) आणि उपाय यांना पुरस्कार द्यावा.
+- सक्रिय प्रतिबंधाला सर्वाधिक पुरस्कार द्यावा. समस्या हानी घडवण्यापूर्वी ती शोधून दूर करणे ([§16 स्तंभ 2 — सक्रिय संरक्षकत्व](#16-pillar-2-proactive-stewardship)) नंतर दुरुस्ती करण्यापेक्षा अधिक पुरस्कारास पात्र असावे ([§6.1 दुरुस्ती आणि उपाय](core_01_a_values_principles.md#61-correction-and-remedy)).
+- समस्या लपवणे, कमी नोंदवणे किंवा तिचा शोध घेण्यास परावृत्त करणे यासाठी प्रतिबंधाचा पुरस्कार कधीही देऊ नये. समस्या लवकर उघड करणे स्वतःच प्रतिबंध आहे.
 
-- सुरक्षा, सत्य, प्रणालीगत स्थैर्य, किंवा [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) खालावणारे वर्तन, थेट किंवा अप्रत्यक्ष, विलंबित, किंवा एकत्रित परिणामांद्वारे;
-- [टाळता येणारा भार](../../core_05_band_continuity.md#avoidable-burden), व्यर्थ काम, प्रतीकात्मक अनुपालन, किंवा संवैधानिक निकाल आता सिद्ध न करणाऱ्या मापांची निर्मिती किंवा देखभाल;
-- गैरवर्तन आणि उत्तरदायित्व पलायन:
-  - संविधान-विरोधी वर्तन;
-  - बेकायदेशीर किंवा असंवैधानिक आदेश वर्तन;
-  - लपवणे;
-  - प्रतिशोध;
-  - [उत्तरदायित्वाचा अडथळा](../../core_09_standing_assessment.md#232-violation-event-types) (प्रस्थिति-नमुना घटना प्रकार आणि [अध्याय दहा §5.11](../../core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) नामांकन मार्ग — स्वतंत्र बक्षीस काप नाही); किंवा
-  - सत्यापित संवैधानिक हानीचा उपचार नाकारणे; किंवा
-- गैरवर्तनावरील किंवा त्याच्या लपवण्यावरील भौतिक अवलंबित्व असलेले बक्षीस मार्ग, ज्यात:
-  - मोबदला, बोनस, समभाग, नियुक्ती, पदोन्नती, किंवा कार्यकाल;
-  - खरेदी, पोहोच, प्रमाणपत्र, प्रस्थिति, किंवा प्रतिष्ठा;
-  - समझोता, क्षतिपूर्ती, विमा, किंवा उन्मुक्ती; किंवा
-  - तुलनायोग्य रचना.
+<a id="1912-what-incentives-must-not-do"></a>
+##### 19.1.2 प्रोत्साहनांनी काय करू नये
 
-**विसंरेखित बक्षीस परिणाम.** वर निषिद्ध मार्गांतून मिळालेली भौतिक बक्षिसे प्रस्थिति नमुन्याखाली जप्त आणि अहवाल अधीन आहेत. वाचा [अध्याय नऊ §5.4 अहवाल कर्तव्य आणि वगळणे](../../core_10_standing_integration.md#54-special-violation-rules), [§5.4 जप्ती आणि राखणे](../../core_10_standing_integration.md#54-special-violation-rules), आणि [§5.4 सुधार, अभिलेख आणि मार्ग](../../core_10_standing_integration.md#54-special-violation-rules).
+प्रोत्साहनांनी पुढील गोष्टींना पुरस्कार, संरक्षण, सामान्यत्व किंवा भौतिक लाभ देऊ नये:
 
-<a id="1113-stewardship-and-operator-application"></a>
-##### 11.1.3 उत्तरदायी व्यवस्थापन आणि संचालक अनुप्रयोग
+- सुरक्षा, सत्य, प्रणालीगत स्थैर्य किंवा [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) कमी करणारे वर्तन—थेट, अप्रत्यक्ष, विलंबित किंवा एकत्रित परिणामांद्वारे;
+- [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden), निरर्थक काम, प्रतीकात्मक अनुपालन किंवा संवैधानिक परिणाम सिद्ध न करणारी मोजमापे निर्माण करणे किंवा टिकवणे;
+- गैरवर्तन आणि उत्तरदायित्व टाळणे:
+  - संविधानविरोधी आचरण;
+  - बेकायदेशीर किंवा असंवैधानिक आदेशाशी संबंधित आचरण;
+  - लपवाछपवी;
+  - सूडाची कारवाई;
+  - [उत्तरदायित्वात अडथळा आणणे](core_09_standing_assessment.md#232-violation-event-types) (कायदेशीर स्थान नमुन्यातील घटना-प्रकार आणि [अध्याय अकरा §5.11 उत्तरदायित्वात अडथळा: निकषांचा परस्परसंवाद](core_11_b_misconduct_pattern_applications.md#511-obstruction-of-accountability-criteria-interaction) मधील वर्गीकरण व मार्गनियोजन—हा स्वतंत्र पुरस्कार अपवाद नाही); किंवा
+  - पडताळलेल्या संवैधानिक हानीची दुरुस्ती नाकारणे; किंवा
+- गैरवर्तनावर किंवा ते लपवण्यावर भौतिकदृष्ट्या अवलंबून असलेले बक्षीस मार्ग; त्यात पुढील गोष्टींचा समावेश आहे:
+  - मोबदला, बोनस, इक्विटी, नियुक्ती, पदोन्नती किंवा कार्यकाळ;
+  - खरेदी, प्रवेश, प्रमाणपत्रे, कायदेशीर स्थान किंवा प्रतिष्ठा;
+  - समझोता, नुकसानभरपाई, विमा किंवा प्रतिरक्षा; किंवा
+  - तत्सम व्यवस्था.
 
-[दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) आणि [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली, [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित, व्यवस्थापक आणि संचालकांसाठी:
+**विसंरेखित बक्षिसांचे परिणाम.** वर निषिद्ध असलेल्या बक्षीस मार्गांद्वारे मिळवलेली भौतिक बक्षिसे कायदेशीर-स्थान नमुन्याअंतर्गत जप्ती आणि अहवाल देण्यास पात्र असतात. [अध्याय दहा §5.4 अहवाल देण्याचे कर्तव्य आणि अपवाद](core_10_standing_integration.md#54-special-violation-rules), [§5.4 जप्ती आणि राखून ठेवणे](core_10_standing_integration.md#54-special-violation-rules), आणि [§5.4 दुरुस्ती, नोंदी आणि मार्गीकरण](core_10_standing_integration.md#54-special-violation-rules) वाचा.
 
-- **वैध ट्रॅकिंग:** [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) आणि [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) सांगतात की बक्षिसे वैध रीतीने काय ट्रॅक करू शकतात — खरी, टिकाऊ क्षमता आणि संसाधन-प्रति-निकाल सुधार.
-- **रक्षक:** [टाळता येणारा भार](../../core_05_band_continuity.md#avoidable-burden) आणि [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) व्यर्थ काम, पोकळ लक्ष्य, किंवा निकाल आता सिद्ध न करणाऱ्या मापांना बक्षीस देण्यापासून रक्षण करतात.
-- **तळ:** [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability), [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint), आणि [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) क्षमता किंवा कार्यक्षमता त्यांच्याशिवाय चांगली दिसली तरी बांधलेली राहतात, आणि [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) परवाना देत नाहीत. लपलेल्या कामावर, असुरक्षित शॉर्टकटवर, असत्य अभिलेखावर, किंवा ताब्यात घेतलेल्या शासनावर अवलंबून बक्षीस या तळाच्या खाली आहे.
+<a id="1913-stewardship-and-operator-application"></a>
+##### 19.1.3 संरक्षकत्व आणि संचालकांवरील अनुप्रयोग
 
-<a id="1114-role-depth-and-material-responsibility-pathways"></a>
-##### 11.1.4 भूमिका-गहराई आणि भौतिक-जबाबदारी मार्ग
+[दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) आणि [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) अंतर्गत संरक्षक आणि संचालकांसाठी, [भौतिक हितदांव](core_00_preamble.md#material-stake)नुसार प्रमाणित:
+
+- **वैध मोजमाप:** [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity) आणि [संवैधानिक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency) बक्षिसे वैधरीत्या काय मोजू शकतात हे सांगतात — प्रत्यक्ष, टिकाऊ क्षमता आणि प्रति-संसाधन परिणामांमधील सुधारणा.
+- **संरक्षक उपाय:** [टाळता येण्याजोगा भार](core_05_band_continuity.md#avoidable-burden) आणि [प्रतिनिधी मापदंड विचलन](core_05_band_oversight.md#proxy-divergence) निरर्थक काम, पोकळ उद्दिष्टे किंवा यापुढे परिणाम सिद्ध न करणाऱ्या मेट्रिक्सना बक्षीस देण्यापासून रोखतात.
+- **किमान मर्यादा:** [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability), [सुरक्षा (संवैधानिक बंधन)](core_05_band_continuity.md#safety-constitutional-constraint) आणि [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) यांशिवाय क्षमता किंवा कार्यक्षमता अधिक चांगली दिसली तरी बंधनकारक राहतात; आणि ते [प्रणाली कब्जाकरणाला](core_05_band_continuity.md#system-capture) परवानगी देत नाहीत. लपवलेल्या कामावर, असुरक्षित शॉर्टकटवर, असत्य नोंदीवर किंवा कब्जा केलेल्या शासनावर अवलंबून असलेले बक्षीस या किमान मर्यादेखाली येते.
+
+<a id="1914-role-depth-and-material-responsibility-pathways"></a>
+##### 19.1.4 भूमिका-खोली आणि भौतिक जबाबदारीचे मार्ग
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- सोबत वाचा: [§11.1.5 संवैधानिक निकाल-दावा शिस्त](#1115-constitutional-outcome-claims-discipline) (*निकाल दावे प्रतीकात्मक सहभागावर उभे राहू शकत नाहीत*).
+- यासोबत वाचा: [§19.1.5 संवैधानिक परिणाम-दावा शिस्त](#1915-constitutional-outcome-claims-discipline) (*परिणामांचे दावे प्रतीकात्मक सहभागावर आधारलेले नसावेत*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: सामायिक प्रणाली चालवणाऱ्यांना खऱ्या कौशल्याने आणि खऱ्या मताने खऱ्या नोकऱ्या हव्यात — पदव्या, सूचना पेट्या, किंवा काही बदलू न शकणाऱ्या समित्या नाहीत. त्या नोकऱ्या कशा व्याख्या होतात, कोण त्यांत वाढू शकतो, आणि त्यांना कसे उत्तरदायी ठेवले जाते ते नंतर सांगितले आहे. हा उपविभाग फक्त सांगतो की त्या मार्गांनी काय करावे: सहभाग खरा बनवावा, आणि दावावर जितके खरे आहे तितके ते खरे हवेत.*
+*सोप्या शब्दांत: सामायिक प्रणाली चालवणाऱ्या संवेदनक्षम जीवांना खरे कौशल्य आणि खरा अधिकार असलेली खरी कामे हवीत—केवळ पदव्या, सूचना पेट्या किंवा काहीही बदलू न शकणाऱ्या समित्या नव्हेत. त्या कामांची व्याख्या कशी केली जाते, कोण त्यात पुढे जाऊ शकते, आणि त्यांना उत्तरदायी कसे धरले जाते हे पुढे स्पष्ट केले आहे. या उपविभागात फक्त त्या मार्गांनी काय साधले पाहिजे ते सांगितले आहे: सहभाग वास्तविक करणे; आणि प्रत्यक्षात जितका अधिक दांव असेल तितका सहभाग अधिक वास्तविक करणे.*
 
-**तपशील कुठे राहतो:**
+**तपशील कुठे आहेत:**
 
-- व्यवस्थापक आणि संचालकांसाठी अधिकृत भूमिका, क्षमता, आणि खरोखर महत्त्वाच्या कामातील मार्गांसाठी [अध्याय बारा §5 — अधिकृत भूमिका, क्षमता विकास आणि योगदान](../../core_13_governance.md#5-authorized-roles-competency-development-and-contribution);
-- उच्च-प्रभाव प्रणालींत ते कर्तव्य कसे वाहिले जाते यासाठी [**CS-4**](../../corpus_systems/cs_04_critical_system_stewardship.md) (*गंभीर प्रणालींचे उत्तरदायी व्यवस्थापन*); आणि
-- हाताळणीचे काम आणि समुदाय क्षमतेच्या तत्त्व-स्तरीय चित्रासाठी [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding).
+- संरक्षक आणि संचालकांसाठी अधिकृत भूमिका, क्षमता आणि प्रत्यक्ष महत्त्वाच्या कामापर्यंतचे मार्ग यांसाठी [अध्याय तेरा §5 — अधिकृत भूमिका, क्षमता विकास आणि योगदान](core_13_governance.md#5-authorized-roles-competency-development-and-contribution);
+- उच्च-प्रभाव प्रणालींमध्ये हे कर्तव्य कसे पार पाडले जाते यासाठी [**CS-4**](corpus_systems/cs_04_critical_system_stewardship.md) (*महत्त्वपूर्ण प्रणालीचे संरक्षकत्व*); आणि
+- प्रत्यक्ष काम व समुदाय-कौशल्याचे तत्त्व-स्तरावरील चित्र यासाठी [§16 संरक्षकत्व सविस्तर](#16-stewardship-in-depth).
 
-ते मार्ग:
+त्या मार्गांनी:
 
-- **करायला हवे:** [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) आधार द्यावे — प्रभावित संज्ञ प्राणी खरोखर कृती करू शकतात, फक्त सल्ला दिला जात नाही — आणि [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) चे **सहभाग** आणि **उत्तरदायित्व** पाया (खरे मत, आणि खरी उत्तरदेयता) द्वारे [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) पुढे न्यावी, [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित.
-- **करू नये:** **प्रतीकात्मक** सहभाग — पदवी, सूचना पेटी, किंवा परिणामाशिवाय सल्लागार आसन — प्रभाव नंतरचे मागतो तिथे **परिणामी** कर्तव्याचा **पर्याय** मानू नये.
+- **हे केलेच पाहिजे:** [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) समर्थित करणे; म्हणजे प्रभावित संवेदनक्षम जीव केवळ त्यांच्याशी सल्लामसलत न होता प्रत्यक्ष कृती करू शकतील. [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad)मधील **सहभाग** आणि **उत्तरदायित्व** घटक बळकट करून पुढे नेणे: वास्तविक मत आणि वास्तविक उत्तरदायित्व. प्रयत्न [भौतिक हितदांव](core_00_preamble.md#material-stake)नुसार प्रमाणित करणे.
+- **हे करता कामा नये:** परिणामाच्या गरजेनुसार परिणामकारक कर्तव्य आवश्यक असेल तेथे **प्रतीकात्मक** सहभाग—पदवी, सूचना पेटी किंवा परिणाम नसलेले सल्लागार स्थान—हे **परिणामकारक** कर्तव्याचा **पर्याय** मानणे.
 
-<a id="1115-constitutional-outcome-claims-discipline"></a>
-##### 11.1.5 संवैधानिक निकाल-दावा शिस्त
+<a id="1915-constitutional-outcome-claims-discipline"></a>
+##### 19.1.5 संवैधानिक परिणाम-दावा शिस्त
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- सोबत वाचा: [§11.1.4 भूमिका-गहराई आणि भौतिक-जबाबदारी मार्ग](#1114-role-depth-and-material-responsibility-pathways) (*प्रतीकात्मक सहभाग परिणामी कर्तव्याचा पर्याय नाही*).
+- यासोबत वाचा: [§19.1.4 भूमिका-खोली आणि भौतिक जबाबदारीचे मार्ग](#1914-role-depth-and-material-responsibility-pathways) (*प्रतीकात्मक सहभाग परिणामकारक कर्तव्याचा पर्याय नाही*).
 
 </details>
 
 <br>
 
-प्रणाली, नीती, किंवा उपाय [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims), [कल्याण](../../core_05_band_continuity.md#wellbeing), [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional), [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency), [सहभाग](core_05_apex_participation_leg.md#participation-constitutional), किंवा तुलनायोग्य संवैधानिक निकाल पुढे नेतो याचे दावे यावर **उभे राहू नयेत**:
+एखादी प्रणाली, धोरण किंवा मोजमाप [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims), [कल्याण](core_05_band_continuity.md#wellbeing), [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity), [संवैधानिक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency), [सहभाग](core_05_apex_participation_leg.md#participation-constitutional) किंवा तत्सम संवैधानिक परिणाम पुढे नेते असा दावा **पुढील गोष्टींवर आधारित नसावा**:
 
-- [सुरक्षा (बंधन)](../../core_05_band_continuity.md#safety-constraint) आणि [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) खाली निषिद्ध अपेक्षित हानी किंवा फसवणूक;
-- [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) किंवा शासन रचना ज्या [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) ला [भौतिक दाव](core_00_preamble.md#material-stake) पेक्षा खाली पोकळ करतात; किंवा
-- [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) — प्रतिनिधी प्रवाह, सहभाग मापे, संस्थात्मक स्व-अहवाल, किंवा प्रतीकात्मक अनुपालन **अध्याय चार**खाली माग-काढता येणाऱ्या संवैधानिक निकालांची जागा घेणे.
+- [सुरक्षा (संवैधानिक बंधन)](core_05_band_continuity.md#safety-constitutional-constraint) आणि [सत्य (संवैधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) अंतर्गत प्रतिबंधित अंदाजयोग्य हानी किंवा फसवणूक;
+- [प्रणाली कब्जाकरण](core_05_band_continuity.md#system-capture) किंवा [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad) [भौतिक हितदांव](core_00_preamble.md#material-stake)नुसार आवश्यक असलेल्या पातळीखाली पोकळ करणाऱ्या शासनव्यवस्था; किंवा
+- [प्रतिनिधी मापदंड विचलन](core_05_band_oversight.md#proxy-divergence) — **अध्याय चार**अंतर्गत मागोवा घेता येणाऱ्या संवैधानिक परिणामांच्या जागी प्रतिनिधी मापदंड थ्रूपुट, सहभाग मेट्रिक्स, संस्थेचा स्व-अहवाल किंवा प्रतीकात्मक अनुपालन उभे करणे.
 
-गुण देणारी साधने आणि सहभागासारखी दिसणारी आसने तरीही या मर्यादा पूर्ण करायला हवीत:
+सहभागासारखी दिसणारी गुणांकन साधने आणि जागांनाही या मर्यादा पाळाव्या लागतात:
 
-- **साधन मापे:** कार्यक्षमता गुणोत्तरे आणि [बाजार रचना](../../core_05_band_accountability.md#market-structure-constitutional) शिस्त प्रणालीला गुण देण्याची साधने आहेत, निकाल स्वतः नाहीत. ती ज्या निकालांचे साधन आहेत त्यांपर्यंत **माग-काढता येणारी राहिली पाहिजेत** — आकडा कोणत्या खऱ्या निकालासाठी उभा आहे ते दिसले पाहिजे — आणि ती **अध्याय सहा**तील अधिकार-तळ (ज्या मूल अधिकारांच्या खाली कोणताही संज्ञ ढकलता येत नाही) किंवा जिथे आधीच लागू असतील तिथे मजबूत अंगीकारक संरक्षणे **विस्थापित करू नयेत**.
-- **प्रतीकात्मक सहभाग:** पदवी, सूचना पेटी, किंवा परिणामाशिवाय सल्लागार आसन — नाममात्र सल्ला, सल्लागार नाटक, किंवा परिणामी परिणामाशिवाय प्रभाव — [भौतिक दाव](core_00_preamble.md#material-stake) मागतो त्या सहभागाची **जागा घेऊ नये**.
+- **साधनात्मक मोजमापे:** कार्यक्षमता गुणोत्तरे आणि [बाजार रचना](core_05_band_accountability.md#market-structure) शिस्त ही प्रणालीला गुण देण्याची साधने आहेत; ती स्वतः परिणाम नाहीत. ती मोजत असलेल्या प्रत्यक्ष परिणामांशी मागोवा घेता येईल अशा रीतीने **जोडलेली राहिली पाहिजेत**, जेणेकरून त्या संख्येचा अर्थ नेहमी पाहता येईल. **अध्याय सहा**मधील हक्कांचा किमान तळ (ज्याखाली कोणत्याही संवेदनक्षम जीवाला ढकलता येत नाही अशी मूलभूत संरक्षणे) किंवा स्वीकारणाऱ्यांना आधीपासून लागू असलेली अधिक मजबूत संरक्षणे त्यांनी **बाजूला सारू नयेत**.
+- **प्रतीकात्मक सहभाग:** काहीही न बदलणारे पद, सूचना पेटी किंवा सल्लागार स्थान हे दिखावा आहे. नावापुरती सल्लामसलत, सल्लागार नाट्य आणि वास्तविक परिणाम नसलेला प्रभाव यांना [भौतिक हितदांव](core_00_preamble.md#material-stake) आवश्यक असलेल्या सहभागाची जागा **घेता कामा नये**.
 
-<a id="112-convenient-proxies-and-proxy-divergence"></a>
-#### 11.2 सोयीस्कर प्रतिनिधी आणि प्रतिनिधी-सूचक विचलन
+<a id="192-convenient-proxies-and-proxy-divergence"></a>
+#### 19.2 सोयीस्कर प्रतिनिधी मापदंड आणि प्रतिनिधी मापदंड विचलन
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
-- [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
+- [प्रतिनिधी मापदंड विचलन](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity) · [O](core_05_band_continuity.md#productive-capacity) · [M](core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](core_05_band_continuity.md#productive-capacity-constitutional-c)
+- [संवैधानिक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency) · [O](core_05_band_continuity.md#constitutional-efficiency) · [M](core_05_band_continuity.md#constitutional-efficiency-a) · [A](core_05_band_continuity.md#constitutional-efficiency-a) · [C](core_05_band_continuity.md#constitutional-efficiency-c)
 
 </details>
 
 <br>
 
-बक्षीस मार्ग सूचीबद्ध लक्ष्यांना अनुकूल ठरू नयेत जिथे ती लक्ष्ये अपेक्षित रीतीने यांच्याशी टकरातील:
+बक्षीस मार्गांनी सूचीतील लक्ष्यांना प्राधान्य देऊ नये, जेथे ती लक्ष्ये अंदाजे पुढील गोष्टींशी संघर्ष करतात:
 
-- हा अध्याय;
-- **अध्याय सहा**तील अधिकार-तळ; किंवा
-- ते अंतर्निहित निकाल ज्यांपर्यंत [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) आणि [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) **अध्याय पाच**खाली माग-काढता येणारी राहिली पाहिजेत.
+- या अध्यायाशी;
+- **अध्याय सहा**मधील हक्कांच्या किमान तळाशी; किंवा
+- **अध्याय पाच** अंतर्गत [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity) आणि [संवैधानिक कार्यक्षमता](core_05_band_continuity.md#constitutional-efficiency) यांच्याशी मागोवा घेता येईल अशा रीतीने जोडलेले राहिले पाहिजे अशा मूलभूत परिणामांशी.
 
-**अनुकूल ठरू नयेत अशी लक्ष्ये:**
+**ज्या लक्ष्यांना प्राधान्य देऊ नये:**
 
-- कच्चा प्रवाह;
-- वापर;
-- कर्मचारी-संख्या लक्ष्ये;
-- संकुचित वित्तीय लक्ष्ये;
-- विलंबता;
-- प्रक्रियात्मक क्रियाकलाप; किंवा
-- इतर सोयीस्कर प्रतिनिधी.
+- कच्चा थ्रूपुट;
+- उपयोगिता;
+- कर्मचारीसंख्या लक्ष्ये;
+- संकुचित आर्थिक लक्ष्ये;
+- विलंब;
+- प्रक्रियात्मक कृती; किंवा
+- इतर सोयीस्कर प्रतिनिधी मापदंड.
 
-[प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) पकडले, प्रगट केले, आणि दुरुस्त केले पाहिजे जिथे बक्षीस रचना प्रतिनिधी, डॅशबोर्ड, कामगिरी लक्ष्ये, किंवा औपचारिक अनुपालन निर्देशकांवर अवलंबून असतील जे भौतिक रीतीने संबंधित निकालांपासून विचलित होतात.
+बक्षीस संरचना प्रतिनिधी मापदंड, डॅशबोर्ड, कार्यप्रदर्शन लक्ष्ये किंवा औपचारिक अनुपालन निर्देशकांवर अवलंबून असतील आणि ते भौतिकदृष्ट्या संबंधित परिणामांपासून विचलित होत असतील, तर [प्रतिनिधी मापदंड विचलन](core_05_band_oversight.md#proxy-divergence) शोधले, उघड केले आणि दुरुस्त केले पाहिजे.
 
-<a id="113-misalignment-detection"></a>
-#### 11.3 विसंरेखन पकडणे
+<a id="193-misalignment-detection"></a>
+#### 19.3 विसंरेखन शोधणे
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- उपविभाग (वाचन क्रम): [§11.3.1 वृद्धि चालक](#1131-escalation-triggers).
+- पुढील: अध्याय पाच: [विसंरेखन शोधणे](core_05_band_integrative.md#misalignment-detection) (*अनेकांकडून शोध आणि पुनरावलोकन*).
+- पुढील: अध्याय पाच: [खुल्या प्रणाली, डेटा आणि लेखापरीक्षण](core_05_band_integrative.md#open-systems-data-and-auditing) (*खुला डेटा व लेखापरीक्षण मार्ग*).
+- उपविभाग (वाचन क्रम): [§19.3.1 कब्जाकरण वाढीचे ट्रिगर](#1931-capture-escalation-triggers).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [ताबा-निरोध](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [प्रोत्साहन संरेखन](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment-a) · [A](../../core_05_band_integrative.md#incentive-alignment-a) · [C](../../core_05_band_integrative.md#incentive-alignment-c)
-- [समीक्षा आणि सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: शासन चुकेल तेव्हा पकडणे, तपासणे, किंवा आव्हान देणारा एकमेव संज्ञ कोणीही होऊ शकत नाही. पकडण्याला अनेक स्वतंत्र मार्ग हवेत, सुरक्षा आणि वर्गीकरण नियम परवानगी देतील तिथे खुला डेटा आणि लेखापरीक्षण, आणि ताबा किंवा विसंरेखन दिसेल तेव्हा स्पष्ट वृद्धि — सामान्य व्यवसायात शांत शोषण नाही. तो वृद्धि नियम [§11.3.1 वृद्धि चालक](#1131-escalation-triggers) आहे.*
-
-**बहुविध पकडणे आणि समीक्षा:**
-
-- **कोण त्याचा एकाधिकार करू शकत नाही:** एकटा कर्ता, मंच, संस्था, संचालक, लेखापरीक्षक, माहिती मध्यस्थ, नियुक्ती प्राधिकरण, किंवा प्रभावित-पक्ष गट.
-- **त्यांचा एकाधिकार कशावर नाही:** भौतिक संवैधानिक अपयश पकडण्याची, समीक्षा करण्याची, दुरुस्त करण्याची, किंवा अर्थ लावण्याची व्यावहारिक क्षमता.
-- **काय उपलब्ध राहिले पाहिजे:** [भौतिक दाव](core_00_preamble.md#material-stake) जिथे मागतो तिथे बहुविध आणि संरचनात्मक रीतीने स्वतंत्र देखरेख मार्ग.
-- **मर्यादा:** कायदेशीर सुरक्षा आणि गोपनीयता मर्यादा अजून लागू होतात; त्यांनी जास्तीत जास्त व्यवहार्य [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) आणि [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) राखायला हवी.
-- **जोडीचा नियम:** हा [§10.2 कर्तव्य-विभाजन](#102-segregation-of-duties) सोबतच्या जोडीचा अनेक-डोळे अर्ध आहे: बहुविधता देखरेख एका कर्त्याने कोपऱ्यात अडकवू देत नाही; विभाजन समीक्षाधीन कर्त्याने ती करू देत नाही.
-
-**खुल्या प्रणाली, डेटा आणि लेखापरीक्षण:**
-
-- **तेव्हा लागू:** जिथे [भौतिक दाव](core_00_preamble.md#material-stake) आणि लागू माहिती-प्रकार नियम परवानगी देतात.
-- **काय उपलब्ध राहिले पाहिजे:** भौतिक रीतीने प्रभावित संज्ञ प्राण्यांसाठी शासन-संबंधित डेटा, लेखापरीक्षण मार्ग, आणि समीक्षा साधने — एका संचालक, विक्रेता, किंवा देखरेख गटात कुलूपबंद नाहीत.
-- **ते पूर्वनिर्धारित कशाकडे अनुकूल:** तपासता येणाऱ्या प्रक्रिया, आव्हानयोग्य अभिलेख, आणि स्वतंत्र सत्यापन, [§9.4 खुलेपणा आकांक्षा](#94-openness-aspiration) शी सुसंगत.
-- **च्या अधीन:** [§6.2 ज्ञानविषयक प्रकटीकरण बंधने](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) आणि **[corpus_systems.md](../../corpus_systems.md), CS-2 — माहिती प्रकार आणि हाताळणी** (Type N आणि इतर वर्गीकरण मर्यादा धरून ज्या काय गोळा, प्रकाशित, राखले, किंवा पुनर्निर्माण करता येईल ते शासित करतात).
-
-<a id="1131-escalation-triggers"></a>
-##### 11.3.1 वृद्धि चालक
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- सोबत वाचा: [§11.3 विसंरेखन पकडणे](#113-misalignment-detection) (*बहुविध पकडणे आणि खुले लेखापरीक्षण — जनक*).
-- सोबत वाचा: [प्रोत्साहन संरेखन](../../core_05_band_integrative.md#incentive-alignment) (*या उपविभागातील अध्याय-पाच ताबा कर्तव्ये प्रोत्साहन-संरेखन शिस्तीचे पर्याय नाहीत*).
-- सोबत वाचा: [§11.4 विसंरेखन सुधार आणि ताबा प्रतिक्रिया](#114-misalignment-correction-and-capture-response) (*सुधार घर; हा उपविभाग पकडा, प्रगट करा, आणि चालक माना*).
+- [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [प्रणाली कब्जाकरण](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [कब्जाकरण-विरोध](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+- [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment-a) · [A](core_05_band_integrative.md#incentive-alignment-a) · [C](core_05_band_integrative.md#incentive-alignment-c)
+- [पुनरावलोकन आणि दुरुस्ती कर्तव्य](core_05_band_continuity.md#review-and-correction-duty) · [O](core_05_band_continuity.md#review-and-correction-duty) · [M](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: ताबा पकडणे त्याला सामान्य संचालन मानणे नाही. एकदा दिसेल की तो वृद्धि चालक आहे — अध्याय दोन ते पाचखाली सिद्ध करा, आणि प्रणाली जागी दुरुस्त करू शकत नसेल तर खाली नाव दिलेल्या सुधार आणि प्रस्थिति घरांकडे पाठवा.*
+*सोप्या शब्दांत: शासनात काही चूक झाली आहे हे शोधू, तपासू किंवा आव्हान देऊ शकणारा एकमेव संवेदनक्षम जीव कोणालाही बनवू नये. दोष शोधण्यासाठी अनेक स्वतंत्र मार्ग, सुरक्षा आणि वर्गीकरण नियम परवानगी देतात तेथे खुला डेटा व लेखापरीक्षण, आणि कब्जाकरण किंवा विसंरेखन दिसल्यास स्पष्टपणे पुढे नेण्याची प्रक्रिया आवश्यक आहे—नेहमीच्या कामकाजाप्रमाणे शांतपणे ते सामावून घेणे नव्हे. वाढीची ही अट [§19.3.1 कब्जाकरण वाढीचे ट्रिगर](#1931-capture-escalation-triggers) येथे आहे.*
 
-प्रणालींनी भौतिक रीतीने संबंधित [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) अटी पकडाव्यात, प्रगट कराव्यात आणि कमी कराव्यात.
+**अनेकांकडून शोध आणि पुनरावलोकन.** व्याख्या अध्याय पाचमध्ये आहे: [विसंरेखन शोधणे](core_05_band_integrative.md#misalignment-detection). सारांश:
 
-अशा अटी **वृद्धि चालक** आहेत, सामान्य संचालन अवस्था नाहीत. त्या **अध्याय दोन ते पाच**च्या अर्थनिर्णय आणि पुरावा शिस्तीखाली असे हाताळल्या पाहिजेत:
+- कोणताही एक कृतीकर्ता, मंच, संस्था, संचालक, लेखापरीक्षक, माहिती मध्यस्थ, नियुक्ती प्राधिकारी किंवा हितधारक गट यांना भौतिक संवैधानिक अपयश शोधणे, पुनरावलोकन करणे, दुरुस्त करणे किंवा त्याचा अर्थ लावण्याची व्यवहार्य क्षमता मक्तेदारीने मिळू नये.
+- [भौतिक हितदांव](core_00_preamble.md#material-stake) आवश्यक करते तेथे बहुविध, संरचनात्मकदृष्ट्या स्वतंत्र पर्यवेक्षण मार्ग उपलब्ध राहिले पाहिजेत.
+- कायदेशीर सुरक्षा आणि गोपनीयतेच्या मर्यादा लागू राहतात, परंतु त्यांनी शक्य तितकी जास्त [लेखापरीक्षणक्षमता](core_05_band_oversight.md#auditability) आणि [आव्हानक्षमता](core_05_band_accountability.md#contestability) जपली पाहिजे.
+- [§18.3 कर्तव्यांचे विभाजन](#183-segregation-of-duties) यांच्यासोबतच्या जोडीतील हा “अनेक नजरा” भाग आहे: अनेकत्वामुळे देखरेख एका व्यक्तीच्या मक्तेदारीत जात नाही; विभाजनामुळे ज्या व्यक्तीचे पुनरावलोकन सुरू आहे तीच व्यक्ती देखरेख करत नाही.
 
-- **अध्याय दोन** — संबंधित O/M/A/C घटक त्याच कार्यात्मक प्रणाली व्याप्तीवर एकत्र लागू करा; आंशिक किंवा निवडक पूर्ती मोजत नाही.
-- **अध्याय तीन** — व्याख्या-सचोटी आणि पलायन-निरोध शिस्त लागू करा; खंडन, नाममात्र विकेंद्रीकरण, प्रक्रियात्मक आच्छादन, किंवा व्याख्येचे पुनर्नामकरण ताबा विश्लेषण हरवत नाही.
-- **अध्याय चार** — ताबा नाही असा दावा करणारा पक्ष प्रमाण भार वाहतो; अनुपालनाला [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित माग-काढता येणारा, स्वतंत्र रीतीने सत्यापनीय पुरावा हवा, फक्त दावा, प्रतिष्ठा, किंवा औपचारिक संरचना नाही.
-- **अध्याय पाच** — [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) पकडणे, प्रकटीकरण आणि कमी करणे कर्तव्ये तसेच [ताबा-निरोध](../../core_05_band_continuity.md#anti-capture) प्रतिबंध कर्तव्ये पूर्ण करा, आणि आव्हानयोग्य देखरेख आणि उत्तरदायित्व [भौतिक दाव](core_00_preamble.md#material-stake) मागतो त्या स्तरावर पुनर्स्थापित करा.
+**मुक्त प्रणाली, डेटा आणि लेखापरीक्षण** ([अध्याय पाच](core_05_band_integrative.md#open-systems-data-and-auditing) मध्ये परिभाषित):
 
-**पुढील वृद्धि:** प्रणाली-अंतर्गत कमी करणे व्यवहार्य नसेल, किंवा प्रमाणबद्ध सुधारानंतर ताबा टिकेल, तेव्हा वृद्धि यातूनही जायला हवी:
+- [भौतिक दाव](core_00_preamble.md#material-stake) तसे मागत असेल आणि माहिती-प्रकारांचे नियम परवानगी देत असतील, तर शासनाशी संबंधित डेटा, लेखापरीक्षणाचे मार्ग आणि पुनरावलोकन साधने भौतिकदृष्ट्या प्रभावित संवेदनक्षम अस्तित्वांना उपलब्ध राहिली पाहिजेत. ती एका ऑपरेटर, विक्रेता किंवा देखरेख गटापुरती बंदिस्त ठेवू नयेत.
+- मूळ नियम तपासता येण्याजोग्या प्रक्रिया, आव्हान देता येण्याजोग्या नोंदी आणि स्वतंत्र पडताळणीला प्राधान्य देतो; हे [§16.3 खुलेपणाची आकांक्षा](#163-openness-aspiration) यांच्याशी सुसंगत आहे.
+- हे [§13.2 ज्ञानविषयक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) आणि **[corpus_systems.md](corpus_systems.md), CS-2 — माहितीचे प्रकार आणि हाताळणी** यांच्या अधीन राहते; यात प्रकार N आणि काय गोळा, प्रकाशित, जतन किंवा पुनर्रचित करता येईल यावरील इतर वर्गीकरण मर्यादांचा समावेश आहे.
 
-- **समीक्षा आणि सुधार कर्तव्य:** [समीक्षा आणि सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional).
-- **उंच समीक्षा:** [§13.1 बाजार संकेंद्रण उंबरठा यंत्रणा](#131-market-concentration-threshold-mechanism-adopter-tunable) आणि [§13.2 स्पर्धा-अनुकूल आणि वर्चस्व-निरोध](#132-pro-competition-and-anti-domination), जिथे संकेंद्रण किंवा वर्चस्व भौतिक असेल.
-- **प्रस्थिति आणि उल्लंघन यांत्रिकी:** [अध्याय आठ — योगदान, उल्लंघन आणि प्रस्थिति नमुना](../../core_09_standing_assessment.md#chapter-nine-compliance-violation-and-standing-model), जिथे सत्यापित निष्कर्ष दावावर असतील.
-- **संविधान-विरोधी गैरवर्तन:** [अध्याय दहा §5.1 संकेंद्रण-आधारित विध्वंस: निकष परस्परक्रिया](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction), जिथे संकेंद्रण किंवा प्रक्रिया ताबा संविधान-विरोधी गैरवर्तन ठरतो.
-
-<a id="114-misalignment-correction-and-capture-response"></a>
-#### 11.4 विसंरेखन सुधार आणि ताबा प्रतिक्रिया
+<a id="1931-capture-escalation-triggers"></a>
+##### 19.3.1 कब्जा वाढवण्यास प्रवृत्त करणारे संकेत
 
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- सोबत वाचा: [§11.3 विसंरेखन पकडणे](#113-misalignment-detection) (*बहुविध पकडणे मार्ग आणि खुले लेखापरीक्षण पूर्वनिर्धारित*).
-- सोबत वाचा: [§11.3.1 वृद्धि चालक](#1131-escalation-triggers) (*वृद्धि शिस्त*).
+- यांच्यासह वाचा: [§19.3 विसंरेखन शोध](#193-misalignment-detection) (*अनेकांद्वारे शोध आणि मुक्त लेखापरीक्षण — पालक विभाग*).
+- यांच्यासह वाचा: [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment) (*या उपविभागातील अध्याय पाचचे कब्जाविरोधी कर्तव्य प्रोत्साहन-संरेखन शिस्तीचा पर्याय नाही*).
+- यांच्यासह वाचा: [§19.4 विसंरेखन दुरुस्ती आणि कब्जाला प्रतिसाद](#194-misalignment-correction-and-capture-response) (*दुरुस्तीचे मुख्य स्थान; हा उपविभाग शोधणे, उघड करणे आणि संकेत म्हणून हाताळणे याबद्दल आहे*).
+
+</details>
+
+<br>
+
+*सोप्या भाषेत: कब्जा दिसणे म्हणजे त्याला नेहमीच्या कामकाजाप्रमाणे हाताळणे नव्हे. तो समोर आल्यावर वाढीव कारवाईचा संकेत असतो — अध्याय दोन ते पाच यांनुसार तो सिद्ध करा आणि प्रणालीतच दुरुस्ती शक्य नसेल तर खाली नमूद केलेल्या दुरुस्ती व दर्जा-व्यवस्थेकडे पाठवा.*
+
+प्रणालींनी भौतिकदृष्ट्या संबंधित [प्रणाली-कब्जाच्या](core_05_band_continuity.md#system-capture) परिस्थिती शोधल्या, उघड केल्या आणि कमी केल्या पाहिजेत.
+
+अशा परिस्थिती **वाढीव कारवाईचे संकेत** आहेत, नेहमीच्या कार्यकारी अवस्था नाहीत. **अध्याय दोन ते पाच** यांच्या व्याख्यात्मक आणि पुराव्याच्या शिस्तीनुसार त्यांना पुढीलप्रमाणे हाताळले पाहिजे:
+
+- **अध्याय दोन** — संबंधित O/M/A/C घटक त्याच कार्यात्मक प्रणाली-व्याप्तीवर संयुक्तपणे लागू करा; अंशतः किंवा निवडक पूर्तता ग्राह्य धरली जाणार नाही.
+- **अध्याय तीन** — व्याख्येची अखंडता आणि टाळाटाळविरोधी शिस्त लागू करा; विभागणी, नाममात्र विकेंद्रीकरण, प्रक्रियात्मक आडोसा किंवा व्याख्येचे पुनर्नामकरण यामुळे कब्जा-विश्लेषण टळत नाही.
+- **अध्याय चार** — कब्जा नसल्याचा दावा करणाऱ्या पक्षावर पुराव्याची जबाबदारी आहे; अनुपालनासाठी [भौतिक दाव](core_00_preamble.md#material-stake) यानुसार प्रमाणबद्ध, मागोवा घेता येण्याजोगा आणि स्वतंत्रपणे पडताळता येण्याजोगा पुरावा आवश्यक आहे; केवळ दावा, प्रतिष्ठा किंवा औपचारिक रचना पुरेशी नाही.
+- **अध्याय पाच** — [प्रणाली-कब्जा](core_05_band_continuity.md#system-capture) शोधणे, उघड करणे आणि कमी करणे यासंबंधीची कर्तव्ये तसेच [कब्जाविरोधी](core_05_band_continuity.md#anti-capture) प्रतिबंधक कर्तव्ये पूर्ण करा; आणि [भौतिक दाव](core_00_preamble.md#material-stake) ज्या पातळीची मागणी करतो त्या पातळीवर आव्हान देता येणारी देखरेख व उत्तरदायित्व पुनर्स्थापित करा.
+
+**अतिरिक्त वाढीव कारवाई:** प्रणालीच्या आत कमी करणे शक्य नसेल किंवा प्रमाणबद्ध दुरुस्तीनंतरही कब्जा कायम राहिला, तर वाढीव कारवाई पुढील मार्गांनीही पाठवली पाहिजे:
+
+- **नियतकालिक पुनरावलोकन व दुरुस्ती:** [पुनरावलोकन आणि दुरुस्तीचे कर्तव्य](core_05_band_continuity.md#review-and-correction-duty).
+- **वर्धित पुनरावलोकन:** एकाग्रता किंवा वर्चस्व भौतिकदृष्ट्या महत्त्वाचे असेल तेथे [§11.1 बाजार-एकाग्रता मर्यादा यंत्रणा](core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) आणि [§11.2 स्पर्धेला प्रोत्साहन आणि वर्चस्वविरोध](core_01_a_values_principles.md#112-pro-competition-and-anti-domination).
+- **दर्जा आणि उल्लंघन यंत्रणा:** सत्यापित निष्कर्षांचा प्रश्न असेल तेथे [अध्याय नऊ — योगदान, उल्लंघन आणि दर्जा मॉडेल](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
+- **घटनाबाह्य गैरवर्तन:** एकाग्रता किंवा प्रक्रियेचा कब्जा घटनाबाह्य गैरवर्तन ठरत असेल तेथे [अध्याय अकरा §5.1 एकाग्रतेवर आधारित विध्वंस: निकषांचा परस्पर संबंध](core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
+
+<a id="194-misalignment-correction-and-capture-response"></a>
+#### 19.4 विसंरेखन दुरुस्ती आणि कब्जाला प्रतिसाद
+
+<details>
+<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+
+- अधोप्रवाह: अध्याय पाच: [विसंरेखित पुरस्कारांची दुरुस्ती](core_05_band_integrative.md#misaligned-reward-correction) (*सत्यापित विसंरेखनातून उद्भवलेल्या पुरस्कारांची दुरुस्ती*).
+- यांच्यासह वाचा: [§19.3 विसंरेखन शोध](#193-misalignment-detection) (*अनेक शोधमार्ग आणि मुक्त लेखापरीक्षणाचे पूर्वनियोजित तत्त्व*).
+- यांच्यासह वाचा: [§19.3.1 कब्जा वाढवण्यास प्रवृत्त करणारे संकेत](#1931-capture-escalation-triggers) (*वाढीव कारवाईची शिस्त*).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [ताबा-निरोध](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
+- [प्रणाली कब्जा](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [कब्जाविरोध](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [समीक्षा आणि सुधार कर्तव्य](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [O](../../core_05_band_continuity.md#review-and-correction-duty-constitutional) · [M](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](../../core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
+- [पुनरावलोकन आणि दुरुस्तीचे कर्तव्य](core_05_band_continuity.md#review-and-correction-duty) · [O](core_05_band_continuity.md#review-and-correction-duty) · [M](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](core_05_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](core_05_band_continuity.md#review-and-correction-duty-constitutional-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: विसंरेखन किंवा ताबा पकडल्यावर, प्रणालींनी तो खरोखर दुरुस्त करावा — वाईट प्रोत्साहने बदलावी, संकेंद्रित नियंत्रण मर्यादित करावे, आणि संरेखन पुनर्स्थापित करावे. आव्हान, देखरेख, उत्तरदायित्व, किंवा टिकाऊ **सातत्य** हरवणारे संकेंद्रित किंवा लपलेले नियंत्रण प्रगट, कमी आणि वृद्धि केले पाहिजे — सामान्य संचालन म्हणून शोषले जाऊ नये.*
+*सोप्या भाषेत: विसंरेखन किंवा कब्जा आढळल्यानंतर प्रणालींनी प्रत्यक्ष दुरुस्ती केलीच पाहिजे — चुकीची प्रोत्साहने बदलणे, एकाग्र नियंत्रण मर्यादित करणे आणि संरेखन पुनर्स्थापित करणे. आव्हान, देखरेख, उत्तरदायित्व किंवा टिकाऊ **सातत्य** निष्प्रभ करणारे एकाग्र किंवा लपवलेले नियंत्रण उघड केले, कमी केले आणि वाढीव कारवाईसाठी पाठवले पाहिजे — नेहमीच्या कामकाजात गुपचूप सामावून घेऊ नये.*
 
-संवैधानिक विसंरेखन ओळखले जाईल तिथे, प्रणालींनी संरेखन पुनर्स्थापित करण्यासाठी आणि [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली [**सातत्य**](core_00_preamble.md#continuity) राखण्यासाठी अशी प्रोत्साहने बदलावी, मर्यादित करावी, किंवा अधिरोहित करावी.
+घटनात्मक विसंरेखन ओळखल्यास, संरेखन पुनर्स्थापित करण्यासाठी आणि [**सातत्य**](core_00_preamble.md#continuity) [दोन घटनात्मक उद्दिष्टां](core_00_preamble.md#two-constitutional-aims) अंतर्गत जपण्यासाठी प्रणालींनी अशी प्रोत्साहने बदलली, मर्यादित केली किंवा निष्प्रभ केली पाहिजेत.
 
-खालीलपैकी काही भौतिक रीतीने कमजोर करणाऱ्या संकेंद्रित किंवा झाकलेल्या नियंत्रण रचना **अध्याय पाच**च्या अर्थाने [**प्रणाली ताबा**](../../core_05_band_continuity.md#system-capture) आहेत आणि या अध्यायाशी विसंगत आहेत:
+खालीलपैकी कोणत्याही बाबीला भौतिकदृष्ट्या बाधा आणणाऱ्या एकाग्र किंवा अस्पष्ट नियंत्रण-रचना **अध्याय पाच**च्या अर्थाने [**प्रणाली कब्जा**](core_05_band_continuity.md#system-capture) ठरतात आणि या अध्यायाशी विसंगत आहेत:
 
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability);
+- [आव्हानक्षमता](core_05_band_accountability.md#contestability);
 - [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional); किंवा
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability).
 
-**मोजणाऱ्या रूपे:**
+**गणनेत धरले जाणारे प्रकार:**
 
-- गंभीर आंतरपृष्ठांचे टिकाऊ द्वारपालन — इतरांना पार कराव्या लागणाऱ्या दारांचे टिकणारे नियंत्रण;
-- अवलंबित्व-असममित बदल अडथळे — एकतर्फी अवलंबित्व जे सोडणे किंवा बदलणे खर्चिक किंवा अव्यवहार्य बनवते;
-- अपारदर्शक लाभ-नियंत्रण मार्ग — ज्यांना खरोखर मालकी, दिशा, किंवा नफा आहे ते ते नियंत्रण कसे धारण करतात किंवा वापरतात याचे लपलेले मार्ग; आणि
-- शासन, न्यायनिर्णय, किंवा संसाधन वाटपावर लपलेला किंवा अप्रत्यक्ष मार्गाने पाठवलेला प्रभाव.
+- महत्त्वाच्या इंटरफेसवर दीर्घकालीन प्रवेशद्वार-नियंत्रण — इतरांना ज्या मार्गांतून जाणे आवश्यक आहे त्यांवर कायमस्वरूपी नियंत्रण;
+- अवलंबित्वातील असममिततेमुळे बदलण्यातील अडथळे — एकतर्फी अवलंबित्व, ज्यामुळे बाहेर पडणे किंवा बदल करणे खर्चिक किंवा अव्यवहार्य होते;
+- लाभकारी नियंत्रणाचे अपारदर्शक मार्ग — प्रत्यक्ष मालकी, दिशा किंवा नफा असलेले घटक ते नियंत्रण धारण किंवा वापरण्याचे लपलेले मार्ग; आणि
+- शासन, न्यायनिवाडा किंवा संसाधन वाटपावर छुपा किंवा अप्रत्यक्ष प्रभाव.
 
-**विसंरेखित बक्षीस सुधार:**
+**चुकीचे संरेखित पुरस्कार सुधारणा**([पाचवा अध्याय](core_05_band_integrative.md#misaligned-reward-correction) मध्ये परिभाषित):
 
-- **केव्हा:** विसंरेखन सत्यापित झाले.
-- **करू नये:** विसंरेखित किंवा भ्रष्ट मार्गांतील भौतिक बक्षिसे शांतपणे ठेवता येणारे प्रस्थिति श्रेय किंवा संरक्षित लाभ मानू नये.
-- **सुधार घर:** [अध्याय नऊ §5.4 विशेष उल्लंघन नियम](../../core_10_standing_integration.md#54-special-violation-rules) शासित करतो:
-  - जप्ती;
-  - प्रमाणबद्ध परत मागणी;
-  - जाणून-स्वीकार अहवाल; आणि
-  - सुधार.
-- **प्रस्थिति मापन:** हा अध्याय सत्यापित योगदान किंवा उल्लंघन किती चांगले किंवा वाईट होते ते ठरवत नाही. ते गुणांकन [अध्याय आठ §4 प्रश्न 2 — ते किती चांगले किंवा वाईट होते?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) आहे, [अध्याय आठ §4.1 योगदान परिमाण-निविष्ट आयाम](../../core_09_standing_assessment.md#41-contribution-magnitude-input-dimensions) आणि [§4.2 उल्लंघन तीव्रता-निविष्ट आयाम](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions) वापरून.
+- एकदा चुकीचे संरेखन सत्यापित केल्यावर, चुकीचे संरेखित किंवा भ्रष्ट पुरस्कार मार्गावरील भौतिक बक्षिसे मूक स्थायी क्रेडिट किंवा संरक्षित लाभ म्हणून ठेवू नयेत.
+- [अध्याय दहा §5.4 विशेष उल्लंघन नियम](core_10_standing_integration.md#54-special-violation-rules) जप्ती, आनुपातिक क्लॉबॅक, जाणून-स्वीकृती अहवाल आणि सुधारणा नियंत्रित करते.
+- सत्यापित योगदान किंवा उल्लंघन किती चांगले किंवा वाईट हे [अध्याय नऊ §4 प्रश्न 2 — ते किती चांगले किंवा वाईट होते?](core_09_standing_assessment.md#4-question-2--how-good-or-bad-was-it) अंतर्गत रेट केले आहे, येथे नाही.
 
-<a id="115-contingent-claims-games-of-chance-and-event-contract-markets"></a>
-#### 11.5 आकस्मिक दावे, संयोग खेळ आणि घटना-करार बाजार
+<a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
+#### 19.5 आकस्मिक दावे, गेम ऑफ चान्स आणि इव्हेंट-कॉन्ट्रॅक्ट मार्केट्स
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ट्रेस</span></strong></summary>
 
-- वरून: [§11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture) ([§11.1 संरेखन अपेक्षा](#111-alignment-requirement) धरून); [अध्याय पाच *आकस्मिक दावा, घटना-करार बाजार, संयोग खेळ आणि अंतर्गत लाभ*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent).
-- पुढे: [§11.3 विसंरेखन पकडणे](#113-misalignment-detection); [§11.3.1 वृद्धि चालक](#1131-escalation-triggers); [§11.4 विसंरेखन सुधार आणि ताबा प्रतिक्रिया](#114-misalignment-correction-and-capture-response); [§6.2 ज्ञानविषयक प्रकटीकरण बंधने](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints); [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md` वर्गीकरण आणि उत्तरदायी-व्यवस्थापन प्रमाणन; `corpus_institutions.md` संघर्ष आणि सचोटी अपेक्षा.
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (टिकाऊ, आव्हानयोग्य निराकरण मार्ग आणि प्रणालीगत स्थैर्य जिथे आकस्मिक समझोता भौतिक रीतीने प्रभावी असेल).
-- सोबत वाचा: [निराकरण-मार्गांचा ताबा](../../core_05_band_accountability.md#capture-of-resolution-pathways), [बळजबरी आणि हाताळणी](../../core_05_band_participation.md#coercion-and-manipulation-constitutional), आणि [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability); [अंतर्गत लाभ](../../core_05_band_accountability.md#insider-advantage).
-- उपविभाग (वाचन क्रम): [§11.5.1 काय बक्षीस देता येत नाही](#1151-what-may-not-be-rewarded) · [§11.5.2 निकाल कोण ठरवतो](#1152-who-decides-outcomes) · [§11.5.3 बाजार संकेत संवैधानिक प्रमाण नाहीत](#1153-market-signals-are-not-constitutional-proof) · [§11.5.4 प्रमाणबद्ध नियंत्रणे आणि अंमलबजावणी अभिरक्षा](#1154-proportionate-controls-and-implementation-custody).
+- अपस्ट्रीम: [§19 प्रोत्साहन संरेखन आणि सिस्टम कॅप्चर](#19-incentive-alignment-and-system-capture) ([§19.1 संरेखन आवश्यकता](#191-alignment-requirement) सह); [प्रकरण पाच *आकस्मिक दावा, इव्हेंट-कॉन्ट्रॅक्ट मार्केट, गेम ऑफ चान्स, आणि इनसाइडर ॲडव्हान्टेज*](core_05_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage).
+- डाउनस्ट्रीम: [§19.3 चुकीचे संरेखन शोध](#193-misalignment-detection); [§19.3.1 कॅप्चर एस्केलेशन ट्रिगर्स](#1931-capture-escalation-triggers); [§19.4 चुकीचे संरेखन सुधारणा आणि कॅप्चर प्रतिसाद](#194-misalignment-correction-and-capture-response); [§13.2 ज्ञानविषयक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); [धडा आठवा §3 संपूर्ण-सिस्टम प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation);`corpus_systems.md`वर्गीकरण आणि कारभारी स्केलिंग;`corpus_institutions.md`संघर्ष आणि अखंडता अपेक्षा.
+- यासह वाचा: [दोन घटनात्मक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) —**सातत्य**उद्दिष्ट (टिकाऊ, विवादास्पद ठराव मार्ग आणि पद्धतशीर स्थिरता जेथे आकस्मिक सेटलमेंट भौतिकदृष्ट्या प्रभावी आहे).
+- यासह वाचा: [रिझोल्यूशन पाथवेज कॅप्चर करा](core_05_band_accountability.md#capture-of-resolution-pathways), [जबरदस्ती आणि हाताळणी](core_05_band_participation.md#coercion-and-manipulation), आणि [स्पर्धाक्षमता](core_05_band_accountability.md#contestability); [आतील बाजूचा फायदा](core_05_band_accountability.md#insider-advantage).
+- उपविभाग (वाचन क्रम): [§19.5.1 काय पुरस्कृत केले जाऊ शकत नाही](#1951-what-may-not-be-rewarded) · [§19.5.2 कोण परिणाम ठरवतो](#1952-who-decides-outcomes) · [§19.5.3 मार्केट सिग्नल घटनात्मक पुरावा नाहीत](#1953-market-signals-are-not-constitutional-proof) · [§19.5.4 आनुपातिक नियंत्रणे आणि अंमलबजावणी कस्टडी](#1954-proportionate-controls-and-implementation-custody).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
-- [निराकरण-मार्गांचा ताबा](../../core_05_band_accountability.md#capture-of-resolution-pathways) · [O](../../core_05_band_accountability.md#capture-of-resolution-pathways) · [M](../../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [A](../../core_05_band_accountability.md#capture-of-resolution-pathways-a) · [C](../../core_05_band_accountability.md#capture-of-resolution-pathways-c)
-- [बळजबरी आणि हाताळणी](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [O](../../core_05_band_participation.md#coercion-and-manipulation-constitutional) · [M](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](../../core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [आकस्मिक दावा](../../core_05_band_accountability.md#contingent-claim) · [O](../../core_05_band_accountability.md#contingent-claim) · [M](../../core_05_band_accountability.md#contingent-claim-a) · [A](../../core_05_band_accountability.md#contingent-claim-a) · [C](../../core_05_band_accountability.md#contingent-claim-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [घटना-करार बाजार](../../core_05_band_accountability.md#event-contract-market) · [O](../../core_05_band_accountability.md#event-contract-market) · [M](../../core_05_band_accountability.md#event-contract-market-a) · [A](../../core_05_band_accountability.md#event-contract-market-a) · [C](../../core_05_band_accountability.md#event-contract-market-c)
-- [संयोग खेळ](../../core_05_band_accountability.md#game-of-chance) · [O](../../core_05_band_accountability.md#game-of-chance) · [M](../../core_05_band_accountability.md#game-of-chance-a) · [A](../../core_05_band_accountability.md#game-of-chance-a) · [C](../../core_05_band_accountability.md#game-of-chance-c)
-- [प्रोत्साहन संरेखन](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
-- [अंतर्गत लाभ](../../core_05_band_accountability.md#insider-advantage) · [O](../../core_05_band_accountability.md#insider-advantage) · [M](../../core_05_band_accountability.md#insider-advantage-a) · [A](../../core_05_band_accountability.md#insider-advantage-a) · [C](../../core_05_band_accountability.md#insider-advantage-c)
-- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [रिझोल्यूशन पाथवेज कॅप्चर करा](core_05_band_accountability.md#capture-of-resolution-pathways) · [ओ](core_05_band_accountability.md#capture-of-resolution-pathways) · [एम](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [ए](core_05_band_accountability.md#capture-of-resolution-pathways-a) · [सी](core_05_band_accountability.md#capture-of-resolution-pathways-c)
+- [जबरदस्ती आणि हाताळणी](core_05_band_participation.md#coercion-and-manipulation) · [ओ](core_05_band_participation.md#coercion-and-manipulation) · [एम](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [ए](core_05_band_participation.md#coercion-and-manipulation-constitutional-a) · [सी](core_05_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [स्पर्धाक्षमता](core_05_band_accountability.md#contestability) · [ओ](core_05_band_accountability.md#contestability) · [एम](core_05_band_accountability.md#contestability-a) · [ए](core_05_band_accountability.md#contestability-a) · [सी](core_05_band_accountability.md#contestability-c)
+- [आकस्मिक दावा](core_05_band_accountability.md#contingent-claim) · [ओ](core_05_band_accountability.md#contingent-claim) · [एम](core_05_band_accountability.md#contingent-claim-a) · [ए](core_05_band_accountability.md#contingent-claim-a) · [सी](core_05_band_accountability.md#contingent-claim-c)
+- [अवलंबित्व](core_05_band_continuity.md#dependency) · [ओ](core_05_band_continuity.md#dependency) · [एम](core_05_band_continuity.md#dependency-a) · [ए](core_05_band_continuity.md#dependency-a) · [सी](core_05_band_continuity.md#dependency-c)
+- [इव्हेंट-कॉन्ट्रॅक्ट मार्केट](core_05_band_accountability.md#event-contract-market) · [ओ](core_05_band_accountability.md#event-contract-market) · [एम](core_05_band_accountability.md#event-contract-market-a) · [ए](core_05_band_accountability.md#event-contract-market-a) · [सी](core_05_band_accountability.md#event-contract-market-c)
+- [गेम ऑफ चान्स](core_05_band_accountability.md#game-of-chance) · [ओ](core_05_band_accountability.md#game-of-chance) · [एम](core_05_band_accountability.md#game-of-chance-a) · [ए](core_05_band_accountability.md#game-of-chance-a) · [सी](core_05_band_accountability.md#game-of-chance-c)
+- [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment) · [ओ](core_05_band_integrative.md#incentive-alignment) · [एम](core_05_band_integrative.md#incentive-alignment) · [ए](core_05_band_integrative.md#incentive-alignment) · [सी](core_05_band_integrative.md#incentive-alignment)
+- [आतील बाजूचा फायदा](core_05_band_accountability.md#insider-advantage) · [ओ](core_05_band_accountability.md#insider-advantage) · [एम](core_05_band_accountability.md#insider-advantage-a) · [ए](core_05_band_accountability.md#insider-advantage-a) · [सी](core_05_band_accountability.md#insider-advantage-c)
+- [गरज](core_05_band_accountability.md#necessity) · [ओ](core_05_band_accountability.md#necessity) · [एम](core_05_band_accountability.md#necessity-a) · [ए](core_05_band_accountability.md#necessity-a) · [सी](core_05_band_accountability.md#necessity-c)
+- [आनुपातिकता](core_05_band_accountability.md#proportionality) · [ओ](core_05_band_accountability.md#proportionality) · [एम](core_05_band_accountability.md#proportionality-a) · [ए](core_05_band_accountability.md#proportionality-a) · [सी](core_05_band_accountability.md#proportionality-c)
+- [सत्य (संविधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint) · [ओ](core_05_band_oversight.md#truth-constitutional-constraint-o) · [एम](core_05_band_oversight.md#truth-constitutional-constraint-a) · [ए](core_05_band_oversight.md#truth-constitutional-constraint-a) · [सी](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: पैज तलाव, जुगारगृहे, भविष्यवाणी बाजार, आणि तत्सम भुगतान प्रणाली बेकायदेशीर हानी, बळजबरी, भ्रष्टाचार, किंवा निकाल ठरवणाऱ्याचा ताबा यावर नफा कमवण्यासाठी बांधता येत नाहीत. प्रमाणावर, अशा विकृती **सातत्य** कमजोर करतात — महत्त्वाचे निकाल कसे सोडवले जातात यावरील टिकाऊ विश्वास. गुणोत्तरे आणि किंमती बाजार संकेत आहेत — काय सत्य आहे, अधिकार काय मागतात, किंवा अनुपालन काय ठरते याचे प्रमाण नाहीत. त्या प्रणाली काय बक्षीस देऊ शकत नाहीत ते [§11.5.1 काय बक्षीस देता येत नाही](#1151-what-may-not-be-rewarded). निकाल कोण ठरवतो ते [§11.5.2 निकाल कोण ठरवतो](#1152-who-decides-outcomes). कोणते संकेत मोजतात ते [§11.5.3 बाजार संकेत संवैधानिक प्रमाण नाहीत](#1153-market-signals-are-not-constitutional-proof). तपशील नियम कुठे राहतात ते [§11.5.4 प्रमाणबद्ध नियंत्रणे आणि अंमलबजावणी अभिरक्षा](#1154-proportionate-controls-and-implementation-custody).*
+*सोप्या शब्दात: बेटिंग पूल, कॅसिनो, अंदाज बाजार आणि तत्सम पेआउट सिस्टम बेकायदेशीर हानी, जबरदस्ती, भ्रष्टाचार किंवा परिणाम ठरवणाऱ्याला पकडण्यासाठी नफा मिळवण्यासाठी तयार केल्या जाऊ शकत नाहीत. मोठ्या प्रमाणावर, अशा प्रकारची विकृती कमी करते**सातत्य**- महत्त्वाचे परिणाम कसे सोडवले जातात यावर टिकाऊ विश्वास. विषमता आणि किमती हे बाजार संकेत आहेत — काय सत्य आहे, कोणत्या अधिकारांची आवश्यकता आहे किंवा अनुपालन म्हणून काय मोजले जाते याचा पुरावा नाही. [§19.5.1 काय पुरस्कृत केले जाऊ शकत नाही](#1951-what-may-not-be-rewarded) हे त्या प्रणालींना बक्षीस देऊ शकत नाही. कोण परिणाम ठरवतो [§19.5.2 कोण परिणाम ठरवतो](#1952-who-decides-outcomes). [§19.5.3 मार्केट सिग्नल घटनात्मक पुरावा नाहीत](#1953-market-signals-are-not-constitutional-proof) किती सिग्नल मोजतात. जेथे तपशीलवार नियम राहतात ते [§19.5.4 आनुपातिक नियंत्रणे आणि अंमलबजावणी कस्टडी](#1954-proportionate-controls-and-implementation-custody) आहे.*
 
-**आकस्मिक समझोता प्रणाली:**
+**आकस्मिक सेटलमेंट सिस्टम**([पाचवा अध्याय](core_05_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets) मध्ये परिभाषित):
 
-- **तेव्हा लागू:** [§11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture) पासून [प्रोत्साहन संरेखन](../../core_05_band_integrative.md#incentive-alignment) तिथे लागू होते जिथे मूल्य अनिश्चित भविष्यातील निकालांवर दाव किंवा भुगतान होते. व्याप्तीत त्या प्रणाली आहेत — तांत्रिक रूप काहीही असो — ज्या:
-  - प्रतिपक्ष जुळवतात;
-  - दाव एकत्र करतात;
-  - आकस्मिक भुगतान समझोता करतात; किंवा
-  - त्या निकालांवर वित्तीय वरची बाजू संकेंद्रित करतात.
-- **सातत्य:** [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली **सातत्य** उद्दिष्टाशी सुसंगत जिथे निराकरण सचोटी आणि प्रणालीगत स्थैर्य भौतिक दावावर असतील.
-- **अध्याय पाचतील मुख्य रूपे:**
-  - [आकस्मिक दावा](../../core_05_band_accountability.md#contingent-claim);
-  - [संयोग खेळ](../../core_05_band_accountability.md#game-of-chance); आणि
-  - [घटना-करार बाजार](../../core_05_band_accountability.md#event-contract-market).
-- **सचोटी थर:** [अंतर्गत लाभ](../../core_05_band_accountability.md#insider-advantage).
-- **विषय समूह:** ते [*आकस्मिक दावा, घटना-करार बाजार, संयोग खेळ आणि अंतर्गत लाभ*](../../core_05_band_accountability.md#contingent-claims-games-of-chance-and-event-contract-markets-semi-independent) मध्ये राहतात.
-- **या अध्यायाशी संबंध:** हा उपविभाग [§11.1 संरेखन अपेक्षा](#111-alignment-requirement), [§11.2 सोयीस्कर प्रतिनिधी आणि प्रतिनिधी-सूचक विचलन](#112-convenient-proxies-and-proxy-divergence), [§11.3 विसंरेखन पकडणे](#113-misalignment-detection), आणि [§11.4 विसंरेखन सुधार आणि ताबा प्रतिक्रिया](#114-misalignment-correction-and-capture-response) मधील सामान्य संरेखन आणि सुधार नियमांचा **विशेष अनुप्रयोग** आहे. तो त्यांची जागा घेत नाही.
+- **जेव्हा ते अर्ज करतात:**भविष्यातील अनिश्चित परिणामांवर जेथे मूल्य निश्चित केले जाते किंवा अदा केले जाते - ज्यात प्रतिपक्षांशी जुळणारी प्रणाली, पूल स्टेक, आकस्मिक देयके सेटल करणे किंवा त्या परिणामांवर आर्थिक वाढ केंद्रित करणे, त्यांचे तांत्रिक स्वरूप काहीही असो.
+- **मुख्य फॉर्म:**[आकस्मिक दावा](core_05_band_accountability.md#contingent-claim), [गेम ऑफ चान्स](core_05_band_accountability.md#game-of-chance), आणि [इव्हेंट-कॉन्ट्रॅक्ट मार्केट](core_05_band_accountability.md#event-contract-market), [आतील बाजूचा फायदा](core_05_band_accountability.md#insider-advantage) अखंडता आच्छादन म्हणून.
+- **या अध्यायाशी संबंध:** [§19.1 संरेखनाची आवश्यकता](#191-alignment-requirement) याचा आणि [§19.4 विसंरेखन दुरुस्ती आणि कब्जाला प्रतिसाद](#194-misalignment-correction-and-capture-response) यामार्फत विशेष वापर; हे नियम रद्द करत नाही.
 
-<a id="1151-what-may-not-be-rewarded"></a>
-##### 11.5.1 काय बक्षीस देता येत नाही
+<a id="1951-what-may-not-be-rewarded"></a>
+##### 19.5.1 काय पुरस्कृत केले जाऊ शकत नाही
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ट्रेस</span></strong></summary>
 
-- सोबत वाचा: [§11.1 संरेखन अपेक्षा](#111-alignment-requirement), [§11.2 सोयीस्कर प्रतिनिधी आणि प्रतिनिधी-सूचक विचलन](#112-convenient-proxies-and-proxy-divergence), [§11.3 विसंरेखन पकडणे](#113-misalignment-detection), आणि [§11.4 विसंरेखन सुधार आणि ताबा प्रतिक्रिया](#114-misalignment-correction-and-capture-response) (*हा उपविभाग ते नियम लागू करतो; जागा घेत नाही*).
-- सोबत वाचा: [निराकरण-मार्गांचा ताबा](../../core_05_band_accountability.md#capture-of-resolution-pathways); [अंतर्गत लाभ](../../core_05_band_accountability.md#insider-advantage).
+- यासह वाचा: [§19.1 संरेखन आवश्यकता](#191-alignment-requirement), [§19.2 सोयीस्कर प्रॉक्सी आणि प्रॉक्सी विचलन](#192-convenient-proxies-and-proxy-divergence), [§19.3 चुकीचे संरेखन शोध](#193-misalignment-detection), आणि [§19.4 चुकीचे संरेखन सुधारणा आणि कॅप्चर प्रतिसाद](#194-misalignment-correction-and-capture-response) (*हा उपविभाग ते नियम लागू करतो; ते त्यांना बदलत नाही*).
+- यासह वाचा: [रिझोल्यूशन पाथवेज कॅप्चर करा](core_05_band_accountability.md#capture-of-resolution-pathways); [आतील बाजूचा फायदा](core_05_band_accountability.md#insider-advantage).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: या प्रणाली अशा बांधता येत नाहीत की भुगतान, बोनस, किंवा व्यवसाय नमुना कोणाची हानी, बळजबरी, किंवा भ्रष्टाचार झाल्यावर — किंवा निकाल ठरवणारा ताब्यात घेतला जाईल तेव्हा — चांगला होईल.*
+*सोप्या भाषेत: या प्रणाली तयार केल्या जाऊ शकत नाहीत जेणेकरून पेआउट, बोनस किंवा व्यवसाय मॉडेल चांगले होईल जेव्हा एखाद्याला इजा होते, जबरदस्ती केली जाते किंवा दूषित होते — किंवा जेव्हा कोणी निकाल ठरवतो तेव्हा तो पकडला जातो.*
 
-अशा प्रणालींच्या प्रोत्साहन रचनांनी:
+अशा प्रणाल्यांसाठी प्रोत्साहन संरचनांमध्ये असे नसावे:
 
-- बेकायदेशीर हानीला बक्षीस किंवा सामान्यीकरण करू नये;
-- या संविधानाखाली संरक्षित निर्णयांच्या बळजबरीला बक्षीस देऊ नये;
-- निकाल किंवा निराकरण प्रभावित करण्यासाठी पदाच्या किंवा सार्वजनिक-नसलेल्या शक्तीच्या भ्रष्ट वापराला बक्षीस देऊ नये, मध्यस्थांद्वारे किंवा वेषधारी करारांद्वारे धरून; किंवा
-- वेळेचा दबाव, निवडक प्रकटीकरण, [निराकरण-मार्गांचा ताबा](../../core_05_band_accountability.md#capture-of-resolution-pathways), किंवा [अंतर्गत लाभ](../../core_05_band_accountability.md#insider-advantage) द्वारे विश्वासपात्र, सार्वजनिक, किंवा अधिकार-संबंधित निर्णयांच्या भौतिक विकृतीला संरचनात्मक रीतीने आमंत्रित करू नये, प्रमाणबद्ध कमी करण्याशिवाय.
+- बेकायदेशीर हानी बक्षीस किंवा सामान्य करणे;
+- या संविधानांतर्गत संरक्षित निर्णयांचे बक्षीस बळजबरी;
+- परिणाम किंवा ठराव प्रभावित करण्यासाठी कार्यालय किंवा गैर-सार्वजनिक शक्तीचा भ्रष्ट वापर बक्षीस, मध्यस्थ किंवा प्रच्छन्न करारांद्वारे; किंवा
+- वेळेवर दबाव, निवडक प्रकटीकरण, [रिझोल्यूशन पाथवेज कॅप्चर करा](core_05_band_accountability.md#capture-of-resolution-pathways), किंवा [आतील बाजूचा फायदा](core_05_band_accountability.md#insider-advantage), आनुपातिक शमन न करता विश्वस्त, सार्वजनिक किंवा अधिकार-संबंधित निर्णयांच्या भौतिक विकृतीला रचनात्मकपणे आमंत्रित करा.
 
-<a id="1152-who-decides-outcomes"></a>
-##### 11.5.2 निकाल कोण ठरवतो
+<a id="1952-who-decides-outcomes"></a>
+##### 19.5.2 परिणाम कोण ठरवतो
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ट्रेस</span></strong></summary>
 
-- सोबत वाचा: [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability).
+- डाउनस्ट्रीम: [परिणाम-रिझोल्यूशन स्त्रोत](core_05_band_accountability.md#outcome-resolution-source) (धडा पाच व्याख्या).
+- यासह वाचा: [स्पर्धाक्षमता](core_05_band_accountability.md#contestability).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: पैज भुगतान झाली का ते ठरवणारा ताब्यात घेतला जाऊ शकत नाही.*
+*सोप्या शब्दात: जो कोणी निर्णय घेतो की पैसे दिले आहेत ते पकडले जाऊ शकत नाहीत.*
 
-- **ते काय आहेत:** **निकाल-निराकरण स्रोत** ते कर्ते, प्रक्रिया, डेटा प्रवाह, किंवा प्राधिकरण आहेत जे आकस्मिक दावे समझोता होतात का आणि कसे ते ठरवतात.
-- **उदाहरणे:**
-  - अधिकृत निकाल;
-  - प्रमाणित मापने;
-  - नामित समित्या; आणि
-  - दस्तऐवजीकृत तृतीय-पक्ष प्रवाह.
-- **काय टिकले पाहिजे:** प्राधिकार, रचना आणि चालन त्या स्रोत:
-  - स्वतंत्र;
-  - आव्हानयोग्य; आणि
-  - जिथे भौतिक रीतीने संबंधित तिथे ताब्याला प्रतिरोधक ठेवायला हवेत.
+**परिणाम-रिझोल्यूशन स्रोत**([पाचवा अध्याय](core_05_band_accountability.md#outcome-resolution-source) मध्ये परिभाषित):
 
-<a id="1153-market-signals-are-not-constitutional-proof"></a>
-##### 11.5.3 बाजार संकेत संवैधानिक प्रमाण नाहीत
+- **ते काय आहेत:**अभिनेते, प्रक्रिया, डेटा फीड किंवा अधिकारी — जसे की अधिकृत परिणाम, प्रमाणित मोजमाप, नियुक्त समित्या, किंवा दस्तऐवजीकरण केलेले तृतीय-पक्ष फीड — जे आकस्मिक दावा निकाली काढतात की नाही आणि कसे हे ठरवतात.
+- **काय ठेवले पाहिजे:**अधिकृतता, डिझाइन आणि ऑपरेशन त्यांना स्वतंत्र, विवादास्पद आणि भौतिकदृष्ट्या संबंधित असलेल्या ठिकाणी कॅप्चर करण्यासाठी प्रतिरोधक ठेवतात.
+
+<a id="1953-market-signals-are-not-constitutional-proof"></a>
+##### 19.5.3 मार्केट सिग्नल घटनात्मक पुरावा नाहीत
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ट्रेस</span></strong></summary>
 
-- सोबत वाचा: [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint); [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability).
+- यासह वाचा: [सत्य (संविधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint); [स्पर्धाक्षमता](core_05_band_accountability.md#contestability).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: गुणोत्तरे आणि किंमती काय सत्य आहे किंवा हे संविधान काय मागते याचे प्रमाण नाहीत.*
+*साध्या शब्दात: विषमता आणि किंमती हे सत्य काय आहे किंवा या संविधानाला काय आवश्यक आहे याचा पुरावा नाही.*
 
-- **प्रमाण म्हणून काय मोजत नाही:** किंमती, गुणोत्तरे, तलाव आकार, आणि या प्रणालींतील तत्सम एकत्रित संकेत, अधिक काहीशिवाय, हे ठरवण्यासाठी पुरेसे पुरावे नाहीत:
-  - [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint);
+बाजार सिग्नल घटनात्मक पुरावा का नाहीत हे हे उपविभाग सेट करते:
+
+- **पुरावा म्हणून काय मोजले जात नाही:**किंमती, विषमता, पूल आकार आणि या सिस्टीममधील समान एकत्रित सिग्नल हे ठरवण्यासाठी पुरेशा पुराव्याशिवाय नाहीत:
+  - [सत्य (संविधानिक बंधन)](core_05_band_oversight.md#truth-constitutional-constraint);
   - वस्तुनिष्ठ संभाव्यता; किंवा
-  - अधिकार, सुरक्षा, किंवा शासन निर्धारांसाठी अनुपालन.
-- **जर अंगीकार साधने त्यांचा संदर्भ घेत असतील:** त्या वापरांनी हे संविधान इतरत्र तुलनायोग्य उच्च-प्रभाव निर्णयांना लागू करणाऱ्या त्याच सत्य, [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability), आणि पुरावा अपेक्षा पूर्ण करायला हव्यात.
+  - अधिकार, सुरक्षितता किंवा शासन निर्णयांचे पालन.
+- **साधनांचा अवलंब करत असल्यास त्यांचा संदर्भ घ्या:**त्या वापरांनी समान सत्य, [स्पर्धाक्षमता](core_05_band_accountability.md#contestability) आणि पुराव्याच्या अपेक्षा पूर्ण केल्या पाहिजेत जे या संविधानातील इतरत्र तुलनात्मक उच्च-प्रभाव निर्णयांवर लागू होतात.
 
-<a id="1154-proportionate-controls-and-implementation-custody"></a>
-##### 11.5.4 प्रमाणबद्ध नियंत्रणे आणि अंमलबजावणी अभिरक्षा
+<a id="1954-proportionate-controls-and-implementation-custody"></a>
+##### 19.5.4 आनुपातिक नियंत्रणे आणि अंमलबजावणी कस्टडी
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">ट्रेस</span></strong></summary>
 
-- सोबत वाचा: [आवश्यकता](../../core_05_band_accountability.md#necessity); [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality); [अवलंबित्व](../../core_05_band_continuity.md#dependency).
-- पुढे: [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](../../corpus_systems.md) (*भौतिक रीतीने प्रभावी प्रणालींच्या उत्तरदायी व्यवस्थापनाचे वर्गीकरण आणि प्रमाणन*); [corpus_institutions.md](../../corpus_institutions.md) (*संस्था अशा क्रियाकलापाचे पर्यवेक्षण करतील तिथे संघर्ष आणि प्रक्रिया नियम*).
+- यासह वाचा: [गरज](core_05_band_accountability.md#necessity); [आनुपातिकता](core_05_band_accountability.md#proportionality); [अवलंबित्व](core_05_band_continuity.md#dependency).
+- डाउनस्ट्रीम: [धडा आठवा §3 संपूर्ण-सिस्टम प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](corpus_systems.md) (*भौतिकदृष्ट्या प्रभावी प्रणालींचे वर्गीकरण आणि स्केलिंग कारभारी*); [corpus_institutions.md](corpus_institutions.md) (*संघर्ष आणि प्रक्रिया नियम जेथे संस्था अशा क्रियाकलापांचे पर्यवेक्षण करतात*).
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: या प्रणाली किती कडक चालवायच्या हे दावावर खरोखर किती आहे याशी जुळायला हवे. हा अध्याय जुगार संहिता लिहित नाही — अंगीकार कायदा आणि प्रणाली व संस्था साथी ते करतात.*
+*सोप्या भाषेत: तुम्ही या प्रणाली किती घट्टपणे चालवता ते प्रत्यक्षात किती धोक्यात आहे याच्याशी जुळले पाहिजे. हा धडा जुगार संहिता लिहित नाही — कायद्याचा अवलंब करणे आणि कॉर्पोरा दत्तक प्रणाली आणि संस्था ते करतात.*
 
-**प्रमाणबद्ध नियंत्रणे.** प्राधिकार, रचना आणि चालनाने:
+अधिकृतता, डिझाइन आणि ऑपरेशन चार गोष्टी केल्या पाहिजेत:
 
-- परवानगी दिलेल्या अंतर्निहित घटनांवर [आवश्यकता](../../core_05_band_accountability.md#necessity) आणि [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) लागू करावी;
-- निराकरण प्रक्रिया आणि निकाल-निराकरण स्रोत शासित करावे — स्वातंत्र्य, व्यवहार्य असेल तिथे बहु-स्रोत नियम, आणि आव्हानयोग्य वाद मार्ग धरून;
-- संकेंद्रण, उत्तोलक, आणि प्रदर्शन मर्यादा यांच्यासाठी योग्य ठेवाव्यात:
-  - [अवलंबित्व](../../core_05_band_continuity.md#dependency);
-  - असुरक्षितता; आणि
-  - प्रणालीगत स्थैर्य.
-- [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) शी सुसंगत गैरवापर मूल्यमापन करावा, ज्यात:
-  - निराकरण घटना प्रभावित करण्यासाठी समन्वय; आणि
-  - प्रमाण गतिशीलता.
+- **ज्या इव्हेंटवर स्टॅक केले जाऊ शकते ते मर्यादित करा:**सिस्टीमने परवानगी दिलेल्या प्रत्येक अंतर्निहित इव्हेंटवर [गरज](core_05_band_accountability.md#necessity) आणि [आनुपातिकता](core_05_band_accountability.md#proportionality) लागू करा, जेणेकरून कोणतीही परवानगी नसलेली इव्हेंट बेकायदेशीर हानी पोहोचवू शकत नाही किंवा विश्वासू, सार्वजनिक किंवा अधिकार-संबंधित निर्णय विकृत करू शकत नाही.
+- **परिणाम कसे सोडवले जातात ते नियंत्रित करा:**रिझोल्यूशन प्रक्रिया लिहा आणि त्यावर अवलंबून असलेल्या प्रत्येक परिणाम-रिझोल्यूशन स्त्रोताला नाव द्या. आवश्यक आहे:
+  - भौतिक भागीदारी असलेल्या पक्षांपासून स्वातंत्र्य;
+  - जेथे शक्य असेल तेथे एकापेक्षा जास्त स्त्रोत; आणि
+  - विवादाचे मार्ग जे आव्हानासाठी खुले असतात.
+- **कोणताही अभिनेता किती घेऊ शकतो हे कळवा:**एकाग्रता, लाभ आणि एक्सपोजरवर मर्यादा सेट करा, यानुसार स्केल:
+  - [अवलंबित्व](core_05_band_continuity.md#dependency) — इतर किती मोठ्या प्रमाणावर सिस्टम किंवा त्याच्या परिणामांवर अवलंबून असतात;
+  - असुरक्षितता - ज्यांना हानी पोहोचते किंवा प्रभावित होतात त्यांना किती सहजपणे नुकसान होऊ शकते; आणि
+  - प्रणालीगत स्थिरता - अपयश प्रणालीच्या पलीकडे पसरू शकते का.
+- **गैरवापरासाठी चाचणी:**[धडा आठवा §3 संपूर्ण-सिस्टम प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) अंतर्गत प्रणालीचे मूल्यांकन करा, यासह:
+  - परिणाम ठरवणाऱ्या इव्हेंटवर परिणाम करण्यासाठी कलाकारांमधील समन्वय; आणि
+  - स्केल डायनॅमिक्स - व्हॉल्यूम, सहभाग किंवा एक्सपोजर वाढत असताना जोखीम कशी बदलतात.
 
-**अंमलबजावणी अभिरक्षा:**
+**अंमलबजावणीची जबाबदारी:**
 
-- **हा अध्याय काय सांगतो:** संवैधानिक दिशा.
-- **तो काय लिहित नाही:** जुगार आणि आकस्मिक समझोत्यासाठी तपशील परवाना, फौजदारी, कर, किंवा सीमापार अंमलबजावणी नियम.
-- **ते तपशील कुठे बसतात:** अंगीकार कायदा आणि नामित समाविष्ट साधने, ज्यात:
-  - भौतिक रीतीने प्रभावी प्रणालींच्या उत्तरदायी व्यवस्थापनाचे वर्गीकरण आणि प्रमाणनासाठी [corpus_systems.md](../../corpus_systems.md); आणि
-  - संस्था अशा क्रियाकलापाचे पर्यवेक्षण किंवा संवैधानिक शासन करतील तिथे संघर्ष आणि प्रक्रिया नियमांसाठी [corpus_institutions.md](../../corpus_institutions.md).
+- **हा अध्याय काय सांगतो:** घटनात्मक दिशा.
+- **तो काय लिहून देत नाही:** जुगार आणि सशर्त निकालीकरण यांसाठीचे तपशीलवार परवाना, फौजदारी, कर किंवा सीमापार अंमलबजावणीचे नियम.
+- **हे तपशील कुठे असावेत:** स्वीकारलेल्या कायद्यात आणि नियुक्त समाविष्ट साधनांमध्ये, यांसह:
+  - [corpus_systems.md](corpus_systems.md) — भौतिक परिणाम घडवणाऱ्या प्रणालींच्या देखरेखीचे वर्गीकरण व प्रमाण ठरवण्यासाठी; आणि
+  - [corpus_institutions.md](corpus_institutions.md) — संस्था अशा कृतीवर देखरेख करतात किंवा तिचे घटनात्मक शासन करतात तेव्हा संघर्ष व प्रक्रियेचे नियम ठरवण्यासाठी.
 
-<a id="116-successor-responsibility-and-formal-structure-non-escape"></a>
-#### 11.6 उत्तराधिकारी जबाबदारी आणि औपचारिक-संरचना पलायन-निरोध
+<a id="196-keeping-responsibility-when-ownership-or-structure-changes"></a>
+#### 19.6 मालकी किंवा रचना बदलली तरी जबाबदारी कायम ठेवणे
 
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- सोबत वाचा: [अध्याय नऊ §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) आणि [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority); [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](../../corpus_systems.md) **CS-7 — न्याय रक्षकपट्ट्या, पुनर्स्थापना आणि पुनर्वसन** (*घटक सातत्य तपास*).
-- सोबत वाचा: [आरोपयोग्य कृती](../../core_05_band_accountability.md#attributable-action-constitutional) आणि [आरोपण सचोटी](../../core_05_band_accountability.md#attribution-integrity-constitutional) — उत्तराधिकारी आणि औपचारिक-संरचना बदल उरलेल्या कर्तव्यांचे विश्वसनीय आरोपण हरवू नयेत.
+- यासोबत वाचा: [अध्याय दहा §9.1](core_10_standing_integration.md#91-remediation-capacity-and-funding) आणि [§9.4](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority); [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability); [corpus_systems.md](corpus_systems.md) **CS-7 — न्याय-संरक्षण, भरपाई आणि पुनर्वसन** (*संस्थेच्या सातत्याच्या तपासण्या*).
+- यासोबत वाचा: [आरोपणीय कृती](core_05_band_accountability.md#attributable-action) आणि [आरोपणाची अखंडता](core_05_band_accountability.md#attribution-integrity) — उत्तराधिकारी किंवा औपचारिक रचनेतील बदलांमुळे उर्वरित कर्तव्यांचे विश्वसनीय आरोपण बाधित होता कामा नये.
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
 
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [आरोपयोग्य कृती](../../core_05_band_accountability.md#attributable-action-constitutional) · [O](../../core_05_band_accountability.md#attributable-action-constitutional) · [M](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [A](../../core_05_band_accountability.md#attributable-action-constitutional-a) · [C](../../core_05_band_accountability.md#attributable-action-constitutional-c)
-- [आरोपण सचोटी](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [O](../../core_05_band_accountability.md#attribution-integrity-constitutional) · [M](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](../../core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](../../core_05_band_accountability.md#attribution-integrity-constitutional-c)
-- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [आरोपणीय कृती](core_05_band_accountability.md#attributable-action) · [O](core_05_band_accountability.md#attributable-action) · [M](core_05_band_accountability.md#attributable-action-constitutional-a) · [A](core_05_band_accountability.md#attributable-action-constitutional-a) · [C](core_05_band_accountability.md#attributable-action-constitutional-c)
+- [आरोपणाची अखंडता](core_05_band_accountability.md#attribution-integrity) · [O](core_05_band_accountability.md#attribution-integrity) · [M](core_05_band_accountability.md#attribution-integrity-constitutional-a) · [A](core_05_band_accountability.md#attribution-integrity-constitutional-a) · [C](core_05_band_accountability.md#attribution-integrity-constitutional-c)
+- [आवश्यकता](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: दिवाळखोरी, विक्री, पुनर्रचना, किंवा कंपनीच्या लेबलांचे बदल स्वतः संवैधानिक कर्तव्ये पुसू शकत नाहीत. काम पुढे नेणारा — उत्तराधिकारी, संपदा, प्रापक, किंवा तुलनायोग्य हस्तांतरित — प्रमाणबद्ध कर्तव्ये वारसाहक्काने घेतो, जोपर्यंत **आवश्यकता**खाली कमी हानिकारक मार्ग दाखवला जात नाही.*
+*सोप्या शब्दांत: दिवाळखोरी, विक्री, पुनर्रचना किंवा कंपनीच्या नावातील बदल यांमुळे स्वतःहून घटनात्मक कर्तव्ये पुसली जात नाहीत. काम पुढे चालू ठेवणारे — उत्तराधिकारी, संपत्तीचे प्रतिनिधी, रिसीव्हर किंवा तुलनात्मक हस्तांतरणधारक — **आवश्यकते**नुसार कमी हानिकारक मार्ग दाखवला गेला नाही तर प्रमाणबद्ध जबाबदाऱ्या स्वीकारतात.*
 
-**औपचारिक-संरचना पलायन-निरोध:**
+हा उपविभाग स्पष्ट करतो की उत्तराधिकार आणि औपचारिक रचनेतील बदलांनंतर पडताळलेली कर्तव्ये कशी कायम राहतात:
 
-- **सत्यापित संवैधानिक कर्तव्ये स्वतः नष्ट करत नाही:**
-  - प्रापकत्व;
+- **पडताळलेली घटनात्मक कर्तव्ये स्वतःहून संपवणाऱ्या गोष्टी नाहीत:**
+  - रिसीव्हरशिप;
   - पुनर्रचना;
   - मालमत्ता हस्तांतरण;
-  - विघटन;
+  - विसर्जन;
   - दिवाळखोरी; किंवा
-  - औपचारिक ओळखीचा तुलनायोग्य बदल.
-- **काय राहते:** बदलानंतर भौतिक राहिलेली सत्यापित संवैधानिक कर्तव्ये, ज्यात:
+  - औपचारिक ओळखीत तुलनात्मक बदल.
+- **काय कायम राहते:** बदलानंतरही भौतिकदृष्ट्या महत्त्वाची असलेली पडताळलेली घटनात्मक कर्तव्ये, यांसह:
   - सातत्य;
-  - उपचार;
+  - उपाययोजना;
   - निर्यात;
   - स्थलांतर;
-  - पर्यावरणीय; आणि
-  - इतर अधिकार-तळ कर्तव्ये.
+  - पर्यावरण; आणि
+  - हक्क-तळाच्या इतर जबाबदाऱ्या.
 
-**उत्तराधिकारी जबाबदारी:**
+**उत्तराधिकाऱ्यांची जबाबदारी:**
 
-- **कोण वारसाहक्काने घेतो:**
+- **कोण वारसदार ठरतात:**
   - उत्तराधिकारी;
-  - संपदा;
-  - प्रापक; आणि
-  - तुलनायोग्य हस्तांतरित.
-- **ते काय वारसाहक्काने घेतात:** प्रमाणबद्ध कर्तव्ये:
-  - ती कर्तव्ये पूर्ण करण्याची; किंवा
-  - कायदेशीर रीतीने हस्तांतरित करण्याची.
-- **जोपर्यंत:** कमी हानिकारक पर्याय [आवश्यकता](../../core_05_band_accountability.md#necessity) आणि [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) समीक्षेखाली स्पष्ट रीतीने अव्यवहार्य दाखवले जात नाहीत.
+  - संपत्तीचे प्रतिनिधी;
+  - रिसीव्हर; आणि
+  - तुलनात्मक हस्तांतरणधारक.
+- **त्यांना काय वारशाने मिळते:** पुढील बाबींसाठी प्रमाणबद्ध कर्तव्ये:
+  - त्या जबाबदाऱ्या पूर्ण करणे; किंवा
+  - कायदेशीररीत्या त्या हस्तांतरित करणे.
+- **अपवाद:** [आवश्यकता](core_05_band_accountability.md#necessity) आणि [प्रमाणबद्धता](core_05_band_accountability.md#proportionality) पुनरावलोकनांत कमी हानिकारक पर्याय व्यवहार्य नसल्याचे सिद्ध झाल्यास.
 
-<a id="12-shared-system-capacity"></a>
-### 12. सामायिक-प्रणाली क्षमता
+<a id="20-integrated-application"></a>
+### 20. एकात्मिक अनुप्रयोग
 <details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (पारिस्थितिक सचोटी, आंतर-पिढी उत्तरदायित्व, आणि टिकाऊ सामायिक-प्रणाली क्षमता).
-- वरून: तत्त्वे: [प्रस्तावना §1 नमुना](core_00_preamble.md#the-model); [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट विकास; [2. पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), आणि [§12 सामायिक-प्रणाली क्षमता](#12-shared-system-capacity).
-- पुढे: [§6.3 टाळता येणाऱ्या भाराचे न्यूनीकरण](core_01_b_interaction_interpretation.md#63-minimization-of-avoidable-burden), [10. उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline), आणि [§11.1.3 उत्तरदायी व्यवस्थापन आणि संचालक अनुप्रयोग](#1113-stewardship-and-operator-application).
-- पुढे: **CJS-3.11.1 — संकेंद्रण उंबरठा-निर्धारण शिस्त (अंगीकारक-समायोज्य)** (संक्रियात्मक उंबरठा-निर्धारण नियम).
-- पुढे: पारिस्थितिक पूर्वअटी, संसाधन वाटप, शैक्षणिक आणि विकासात्मक क्षमता, जीवनचक्र लवचिकता, आंतरकार्यक्षमता, बोधगम्यता, आणि अनुकूलन प्रतिक्रिया यांसाठी अधिकार-सतह घडवतो; विशेषतः [अनुच्छेद I-A: पर्यावरणीय पूर्वअटी आणि पारिस्थितिक सचोटी](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity), [अनुच्छेद III: जिवंत राहणे आणि समान शैक्षणिक पोहोच](../../core_06_rights_part_a.md#article-iii-survival-and-essential-access), [अनुच्छेद IV: संसाधन वाटप, अवलंबित्वे आणि परिसंस्था निधी](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), [अनुच्छेद X: आत्मनिर्णय आणि कर्तृत्व](../../core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [अनुच्छेद XVII: प्रणाली जीवनचक्र, वातावरण आणि उलथणीयता](../../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [अनुच्छेद XX: आंतरकार्यक्षमता, सुवाह्यता, हालचाल, आश्रय आणि निर्गमन सचोटी](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity), [अनुच्छेद XXI: बोधगम्यता आणि गुंतागुंतीचे उत्तरदायी व्यवस्थापन](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship), आणि [अनुच्छेद XXII: मूल-कारण विश्लेषण आणि अनुकूलन प्रतिक्रिया](../../core_06_rights_part_c.md#article-xxii-root-cause-analysis-and-adaptive-response).
-- उपविभाग (वाचन क्रम): [§12.1 उत्पादक क्षमता (साधन हित)](#121-productive-capacity-instrumental-good) · [§12.1.1 राखा, विस्तार करा, आणि काय मोजत नाही](#1211-preserve-expand-and-what-does-not-count) · [§12.2 संवैधानिक कार्यक्षमता](#122-constitutional-efficiency).
+- पूर्वसंदर्भ — तत्त्वे: [15. घटनात्मक अर्थनिर्णयन](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [1. उद्देश आणि भूमिका](core_01_a_values_principles.md#1-purpose-and-role), [§16 सविस्तर देखरेख](#16-stewardship-in-depth), [13. घटनात्मक संघर्ष निराकरण प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [अध्याय आठवा §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [7. स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency) आणि [14. निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- पुढील संदर्भ: पुढील अध्याय अध्याय एकच्या या एकात्मिक तत्त्वांनुसार वाचले पाहिजेत; यात [संवैधानिक चतुष्टय](core_00_preamble.md#constitutional-tetrad), [दोन घटनात्मक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) आणि [भौतिक हित](core_00_preamble.md#material-stake) यांच्या प्रमाणानुसार मांडणी यांचा समावेश आहे, जी [प्रस्तावना](core_00_preamble.md#preamble--foundational-requirements) व [§1 उद्देश आणि भूमिका](core_01_a_values_principles.md#1-purpose-and-role) मध्ये निश्चित केली आहे.
+- पुढील संदर्भ: [अध्याय सहावा: मूलभूत हक्क](core_06_rights_part_a.md#chapter-six-foundational-rights) हा या अध्यायाच्या एकात्मिक मूल्य-चौकटीतून वाचला पाहिजे.
+  - मर्यादित अर्थनिर्णयन, सार्वजनिक कारणमीमांसा, आव्हान, बाह्य पुनरावलोकन आणि हक्क-संघर्ष प्रक्रिया ही पुढील टप्प्यातील मुख्य कामे करतात.
+  - विशेषतः [अनुच्छेद XXIV-A: मर्यादित अर्थनिर्णयन अधिकार](core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate), [अनुच्छेद XXIV-C: सार्वजनिक कारणे, आव्हानाचे हक्क आणि बाह्य पुनरावलोकन](core_06_rights_part_d.md#article-xxiv-c-public-reasons-challenge-rights-and-external-review) आणि [अनुच्छेद XXV-B: हक्क-संघर्ष प्रक्रिया आणि पुनर्स्थापनात्मक संरेखन](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment).
+  - अध्याय सहाव्यातील हक्क-संकुचन न करण्याची पूर्वधारणा [§15.3 संदिग्धतेचे निराकरण](core_01_b_interaction_interpretation.md#153-ambiguity-resolution) नुसार लागू होते.
+- यासोबत वाचा: [§15.2 परिभाषात्मक स्तर आणि आवश्यक शिस्ती](core_01_b_interaction_interpretation.md#152-definitional-layer-and-required-disciplines) — अध्याय दोन ते पाच हे अर्थनिर्णयन आणि पुराव्यांचे स्तर आहेत.
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [सामायिक-प्रणाली क्षमता](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
-- [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
-- [कल्याण](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [प्रतिष्ठा आणि समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [व्यवहार्यता](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
-- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [टाळता येणारा भार](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
-- [पारिस्थितिक सचोटी](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [पर्यावरणीय पूर्वअटी](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [आंतर-पिढी उत्तरदायित्व](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: सामायिक प्रणाली चांगल्या चालवल्या जातील तेव्हा, संज्ञ प्राण्यांना उपयुक्त काम करता यावे, कालांतराने जीवन सुधारता यावे, आणि काही चुकेल तेव्हा विरोध करता यावा — सर्व काही काही शक्तिशाली कर्त्यांकडे कुलूपबंद न होता. ती एकूण क्षमता **सामायिक-प्रणाली क्षमता** आहे. **[§12.1 उत्पादक क्षमता (साधन हित)](#121-productive-capacity-instrumental-good)** संज्ञ प्राणी खरोखर भाग घेऊ शकतात आणि खरे निकाल मिळवू शकतात का ते व्यापते. काय राखले पाहिजे, आणि काय मोजत नाही, ते **[§12.1.1 राखा, विस्तार करा, आणि काय मोजत नाही](#1211-preserve-expand-and-what-does-not-count)** आहे. **[§12.2 संवैधानिक कार्यक्षमता](#122-constitutional-efficiency)** ते निकाल सर्वांचा वेळ, पैसा आणि लक्ष उधळल्याशिवाय येतात का ते व्यापते. **[§13 बाजार रचना](#13-market-structure)** मूठभर खेळाडूंना ते पोकळ करू देत नाही. «प्रगती» संपत्ती किंवा शक्ती साठवण्यातून, आकडे बनावट करण्यातून, अधिकार कापण्यातून, किंवा हानी इतरांवर किंवा ग्रहावर ढकलण्यातून आली तर काही मोजत नाही.*
-
-**[सामायिक-प्रणाली क्षमता](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional) आणि [शासन](../../core_05_band_accountability.md#governance) कालांतराने एकत्र काय निर्माण करायला हवे ते आहे: संज्ञ प्राणी आणि सामायिक प्रणालींना हे संविधान मागतो ते साध्य करण्याची टिकणारी, आव्हानयोग्य क्षमता. ती [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली **समुन्नती** उद्दिष्टाकडे **साधन** आहे — सुरक्षा, सत्य, अधिकार, किंवा पारिस्थितिकी अधिरोहित करणारा पत्ता नाही.
-
-त्या क्षमतेचे अनेक पैलू एकत्र काम करतात:
-- **[उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional)** — संज्ञ प्राणी भाग घेऊ, योगदान देऊ आणि खरे निकाल मिळवू शकतात का? ([§12.1 उत्पादक क्षमता (साधन हित)](#121-productive-capacity-instrumental-good))
-- **[संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency)** — ते निकाल संज्ञ वेळ, लक्ष, साहित्य, पायाभूत रचना आणि ऊर्जा उधळल्याशिवाय साध्य होतात का? ([§12.2 संवैधानिक कार्यक्षमता](#122-constitutional-efficiency))
-- **संकेंद्रण-निरोध शिस्त** — संज्ञ प्राणी अजून आव्हान, स्पर्धा आणि सोडू शकतात का? ([§13](#13-market-structure))
-- **न्याय्य प्रभावित-पक्ष प्रतिनिधित्व, निर्गमन, आव्हानयोग्यता आणि पारिस्थितिक पूर्वअटी** — प्रभावित पक्ष न्याय्य प्रतिनिधित्व करतात का, आणि पार्श्वभूमी अटी क्षमता खरी ठेवतात पोकळ नाही?
-
-**ती क्षमता कशी ठरवली जाते:**
-
-- **यश कसे दिसते:**
-  - [कल्याण](../../core_05_band_continuity.md#wellbeing);
-  - [प्रतिष्ठा आणि समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing); आणि
-  - [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency).
-- **कठीण व्यापार काय शासित करते:**
-  - [व्यवहार्यता](../../core_05_band_accountability.md#feasibility);
-  - [आवश्यकता](../../core_05_band_accountability.md#necessity); आणि
-  - [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality).
-- **निरर्थक घर्षण आणि अप्रामाणिक मापे काय पकडते:**
-  - [टाळता येणारा भार](../../core_05_band_continuity.md#avoidable-burden); आणि
-  - [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence).
-- **क्षमता कालांतराने राहण्यायोग्य जगाशी काय बांधते:**
-  - [पारिस्थितिक सचोटी](../../core_05_band_continuity.md#ecological-integrity-constitutional);
-  - [पर्यावरणीय पूर्वअटी](../../core_05_band_continuity.md#environmental-preconditions-constitutional); आणि
-  - [आंतर-पिढी उत्तरदायित्व](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional).
-
-<a id="121-productive-capacity-instrumental-good"></a>
-#### 12.1 उत्पादक क्षमता (साधन हित)
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- सोबत वाचा: [§12 सामायिक-प्रणाली क्षमता](#12-shared-system-capacity).
-- उपविभाग (वाचन क्रम): [§12.1.1 राखा, विस्तार करा, आणि काय मोजत नाही](#1211-preserve-expand-and-what-does-not-count).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
-- [सामायिक-प्रणाली क्षमता](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
-- [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
-- [कल्याण](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [प्रतिष्ठा आणि समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
-- [पारिस्थितिक सचोटी](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [पर्यावरणीय पूर्वअटी](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [O](../../core_05_band_continuity.md#environmental-preconditions-constitutional) · [M](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [A](../../core_05_band_continuity.md#environmental-preconditions-constitutional-a) · [C](../../core_05_band_continuity.md#environmental-preconditions-constitutional-c)
-- [आंतर-पिढी उत्तरदायित्व](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [O](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional) · [M](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [A](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-a) · [C](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: उत्पादक क्षमता सामायिक-प्रणाली क्षमतेचा «आपण खरोखर गोष्टी पूर्ण करू शकतो का?» पैलू आहे. संज्ञ प्राणी भाग घेऊ, शिकू, योगदान देऊ, आणि प्रयत्न व संसाधने आयुष्य चांगले बनवणाऱ्या निकालांत रूपांतरित करू शकतात का — आणि ती क्षमता कालांतराने ठेवू शकतात का? ती चांगल्या जगण्याचे साधन आहे. काय राखले पाहिजे, आणि काय मोजत नाही, ते [§12.1.1 राखा, विस्तार करा, आणि काय मोजत नाही](#1211-preserve-expand-and-what-does-not-count) आहे.*
-
-**[उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional)** **[सामायिक-प्रणाली क्षमता](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** चा एक पैलू आहे. ती संज्ञ प्राणी आणि सामायिक प्रणालींची टिकणारी क्षमता नाव देते:
-- खरा सहभाग, योगदान आणि कौशल्य-बांधणी आधार देण्याची; आणि
-- वेळ, लक्ष, प्रयत्न, समन्वय, साहित्य, पायाभूत रचना आणि ऊर्जा हे संविधान खरोखर मागतो त्या निकालांत रूपांतरित करण्याची.
-
-ती **साधन हित** आहे — साधन, मात करणारे मूल्य नाही. तिचे काम **समुन्नती** उद्दिष्टाखाली जीवन गुणवत्ता उंचावणे, टिकवणे आणि पसरवणे आहे, [कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [प्रतिष्ठा आणि समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing), अध्याय-सहा अधिकार-तळ, आणि [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली **सातत्य** उद्दिष्टाच्या पारिस्थितिक आणि आंतर-पिढी मर्यादांशी सुसंगत.
-
-<a id="1211-preserve-expand-and-what-does-not-count"></a>
-##### 12.1.1 राखा, विस्तार करा, आणि काय मोजत नाही
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- सोबत वाचा: [§12.2 संवैधानिक कार्यक्षमता](#122-constitutional-efficiency); [§6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution); [§6.2.4 प्रतिनिधी-सूचक विचलन अवैधता](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation); [§7 निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override); [अनुच्छेद I-A: पर्यावरणीय पूर्वअटी आणि पारिस्थितिक सचोटी](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
-- सोबत वाचा: [§3.1 सुरक्षा (हानी बंधन)](core_01_a_values_principles.md#31-safety-harm-constraint); [§3.2 सत्य (ज्ञानविषयक सचोटी बंधन)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint); [4. विश्वास](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity); [§5 स्वातंत्र्य (सीमाबद्ध कर्तृत्व)](core_01_a_values_principles.md#5-freedom-bounded-agency).
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: गोष्टी पूर्ण करण्याची क्षमता ठेवा, आणि सर्वांचा वेळ कमी उधळेल तेव्हा ती वाढवा — पण साठवून, आकडे बनावट करून, अधिकार कापून, किंवा हानी इतरांवर किंवा ग्रहावर ढकलून नाही. खरे निकाल आता सिद्ध न करणाऱ्या मापे मोजत नाहीत.*
-
-प्रणालींनी उत्पादक क्षमता राखायला हवी आणि, व्यवहार्य असेल तेव्हा, [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) सुधारेल तेव्हा ती वाढवायला हवी ([§12.2 संवैधानिक कार्यक्षमता](#122-constitutional-efficiency)).
-
-**ते कर्तव्य:**
-
-- **याच्या आत राहते:**
-  - सुरक्षा;
-  - सत्य;
-  - विश्वास;
-  - स्वातंत्र्य;
-  - अध्याय-सहा अधिकार-तळ, [अनुच्छेद I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*पर्यावरणीय पूर्वअटी आणि पारिस्थितिक सचोटी*) धरून:
-    - [पारिस्थितिक सचोटी](../../core_05_band_continuity.md#ecological-integrity-constitutional);
-    - [पर्यावरणीय पूर्वअटी](../../core_05_band_continuity.md#environmental-preconditions-constitutional); आणि
-    - [आंतर-पिढी उत्तरदायित्व](../../core_05_band_continuity.md#intergenerational-responsibility-constitutional).
-  - अध्याय एकाची अहस्तांतरणीय तत्त्वनिष्ठ-बंधन शिस्त.
-- **ते कसे ठरवले जाते:** **अध्याय चार आणि पाच**खाली माग-काढता येणारे निकाल.
-- **ते कसे दाखवले जाते:** पुरावा, घोषणा नाहीत.
-
-उत्पादक क्षमता मोजत नाही — आणि यांना न्याय्य ठरवण्यासाठी वापरता येत नाही:
-
-- संपत्ती, शक्ती, नियंत्रण, किंवा संधी अशा रीतीने संकेंद्रित करणे ज्या इतर संज्ञ प्राण्यांचे कल्याण, कर्तृत्व, प्रतिष्ठा, किंवा पारिस्थितिक अटी — आता किंवा नंतर — हानी करतात;
-- जीवन-धारक नैसर्गिक प्रणाली खालावणे, किंवा पारिस्थितिक किंवा आंतर-पिढी खर्च कमी करणे, प्रकटीकरण आणि प्रतिनिधित्वाशिवाय इतरांवर ढकलणे;
-- कच्चा प्रवाह, उत्पादन प्रमाण, वापर, कर्मचारी-संख्या, उत्पन्न, मालमत्ता वाढ, बाजार हिस्सा, किंवा तत्सम प्रतिनिधी जे आता खरे निकाल ट्रॅक करत नाहीत — ज्यात «वाढ» दाखवणारे प्रतिनिधी धरले जेव्हा हानी संज्ञ प्राणी, भविष्यातील पिढ्या, किंवा पर्यावरणाकडे निर्यात केली जाते;
-- अध्याय-सहा अधिकार आकुंचित किंवा विलंबित करणे, [अनुच्छेद I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*पर्यावरणीय पूर्वअटी आणि पारिस्थितिक सचोटी*) खालील पारिस्थितिक पूर्वअटी धरून;
-- [§6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) वळसा घालणे, [§6.1 निर्णय-अभिलेख शिस्त](core_01_b_interaction_interpretation.md#615-rights-collision-decision-test) धरून;
-- लेखापरीक्षण, आव्हानयोग्यता, किंवा पश्चात-समीक्षा कर्तव्ये कमजोर करणे; किंवा
-- [§7 निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override) मधील इतर निषिद्ध अधिरोहण मार्ग, ज्यात पारिस्थितिक, आंतर-पिढी, किंवा वितरणात्मक हानी **अध्याय दोन ते चार** दृश्य राहण्यास मागतात त्या पुस्तकांबाहेर हलवणे.
-
-जिथे उत्पादक-क्षमता दावे आता खरे निकाल सिद्ध न करणाऱ्या मापांवर उभे असतील — पारिस्थितिक नुकसान, भविष्य हानी, किंवा संकेंद्रण-चालित नुकसान लपवणाऱ्या मापे धरून — [§6.2.4 प्रतिनिधी-सूचक विचलन अवैधता](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation) लागू होते.
-
-<a id="122-constitutional-efficiency"></a>
-#### 12.2 संवैधानिक कार्यक्षमता
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency) · [O](../../core_05_band_continuity.md#constitutional-efficiency) · [M](../../core_05_band_continuity.md#constitutional-efficiency-a) · [A](../../core_05_band_continuity.md#constitutional-efficiency-a) · [C](../../core_05_band_continuity.md#constitutional-efficiency-c)
-- [सामायिक-प्रणाली क्षमता](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [O](../../core_05_band_continuity.md#shared-system-capacity-constitutional) · [M](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#shared-system-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#shared-system-capacity-constitutional-c)
-- [उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional) · [O](../../core_05_band_continuity.md#productive-capacity-constitutional) · [M](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#productive-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#productive-capacity-constitutional-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: संवैधानिक कार्यक्षमता सामायिक-प्रणाली क्षमतेचा «मानवी अटींत आपल्याला पैशाचे मूल्य मिळते का?» पैलू आहे. संज्ञ वेळ, लक्ष आणि सामायिक प्रयत्नाच्या प्रत्येक तासासाठी जास्त खरा लाभ — अधिकार, सत्य, सुरक्षा, किंवा पारिस्थितिकीवर कोपरे कापून फक्त वेगवान, सडपातळ, किंवा स्वस्त दिसण्यासाठी नाही.*
-
-**[संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency)** **[सामायिक-प्रणाली क्षमता](../../core_05_band_continuity.md#shared-system-capacity-constitutional)** चा दुसरा मुख्य पैलू आहे. ती विचारते की प्रणाली संज्ञ वेळ, लक्ष, प्रयत्न, समन्वय, साहित्य, पायाभूत रचना आणि वापरलेल्या ऊर्जेच्या प्रत्येक एककामागे जास्त संवैधानिक रीतीने आवश्यक लाभ निर्माण करतात का.
-
-कार्यक्षमता व्यापक सामायिक सुधार चालवू शकते, पण फक्त संवैधानिक सीमांत. स्वतः, ती **नाही**:
-- कच्चा वेग;
-- प्रशासकीय सोय;
-- वापर लक्ष्ये;
-- उत्पन्न वाढ;
-- बाजार हिस्सा;
-- कर्मचारी-संख्या कपात; किंवा
-- स्वतःसाठी खर्च-कपात.
-
-**कार्यक्षमता दावा केव्हा मोजतो:**
-
-- **यापर्यंत माग काढतो:** खरे संवैधानिक निकाल.
-- **यांच्याशी सुसंगत राहतो:**
-  - सुरक्षा;
-  - सत्य;
-  - अध्याय-सहा अधिकार-तळ;
-  - पारिस्थितिक सचोटी;
-  - प्रतिष्ठा;
-  - अर्थपूर्ण कर्तृत्व; आणि
-  - न्याय्य वितरण.
-
-**कार्यक्षमता लाभ:**
-
-- [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) पोकळ करू नयेत; किंवा
-- डॅशबोर्ड मापे [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) कडे प्रगतीची जागा घेऊ नयेत.
-
-<a id="13-market-structure"></a>
-### 13. बाजार रचना
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — संकेंद्रण किंवा वर्चस्व आवाज, छाननी, उत्तरदेयता, किंवा समयबद्ध सुधार हरवेल तिथे सहभाग, देखरेख, उत्तरदायित्व आणि समयबद्धता; [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन (विशेषतः [§13.2 स्पर्धा-अनुकूल आणि वर्चस्व-निरोध](#132-pro-competition-and-anti-domination)).
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (आव्हानयोग्य, टिकाऊ उत्पादक अटी); **समुन्नती** उद्दिष्ट (उपजीविका, कर्तृत्व आणि नवोपक्रम मार्गांची न्याय्य पोहोच).
-- वरून: तत्त्वे: [§12 सामायिक-प्रणाली क्षमता](#12-shared-system-capacity) — उत्पादक-क्षमता आणि कार्यक्षमता दावे संकेंद्रण किंवा वर्चस्व त्यांना पोकळ करेल तिथे अपयशी होतात; [10. उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline).
-- पुढे: [अध्याय दहा §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) (संकेंद्रण-आधारित विध्वंस); [6. प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([§6.2.4 प्रतिनिधी-सूचक विचलन अवैधता](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
-- पुढे: **CJS-3.11.1 — बाजार संकेंद्रण उंबरठा-निर्धारण शिस्त (अंगीकारक-समायोज्य)** ([§13.1](#131-market-concentration-threshold-mechanism-adopter-tunable) संक्रियात्मक नियम); **CJS-3.11.2 — वर्चस्व-निरोध वर्तन आणि उपचार सूची** ([§13.2](#132-pro-competition-and-anti-domination) संक्रियात्मक वर्तन नमुने आणि उपचार); **CJS-3.11.3 — एकत्रीकरण छत-निर्धारण शिस्त (अंगीकारक-समायोज्य)** ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) संक्रियात्मक छत-निर्धारण नियम).
-- पुढे: संसाधन वाटप, न्याय्य मोबदला, सामूहिक संगठन, आंतरकार्यक्षमता, निर्गमन, आणि ताबा-निरोध समीक्षा यांसाठी अधिकार-सतह घडवतो; विशेषतः [अनुच्छेद III-D: श्रम आणि आर्थिक तळ](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor), [अनुच्छेद IV: संसाधन वाटप, अवलंबित्वे आणि परिसंस्था निधी](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding), आणि [अनुच्छेद XX: आंतरकार्यक्षमता, सुवाह्यता, हालचाल, आश्रय आणि निर्गमन सचोटी](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity).
-- उपविभाग (वाचन क्रम): [§13.1 बाजार संकेंद्रण उंबरठा यंत्रणा (अंगीकारक-समायोज्य)](#131-market-concentration-threshold-mechanism-adopter-tunable) · [§13.1.1 संकेंद्रण उंबरठा चालक (अंगीकारक-समायोज्य)](#1311-concentration-threshold-triggers-adopter-tunable) · [§13.2 स्पर्धा-अनुकूल आणि वर्चस्व-निरोध](#132-pro-competition-and-anti-domination) · [§13.3 एकत्रीकरण छत](#133-consolidation-ceiling).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [बाजार रचना](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
-- [बाजार संकेंद्रण उंबरठा](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: संज्ञ प्राण्यांना काम करता, बांधता, पुरवठादार बदलता, आणि विरोध करता यायला हवे एक कंपनी किंवा संस्था एकमेव दार मालकीत ठेवते म्हणून भिंतीला न धडकता. **बाजार रचना** ती मक्तेदारी-निरोध शिस्त आहे — बाजार, प्लॅटफॉर्म, नोकरी प्रणाली, पायाभूत रचना, डेटा, संगणन शक्ती, प्रमाणपत्रे, आणि दैनंदिन जीवनाला महत्त्वाच्या इतर अवलंबित्वांसाठी. मोठे होणे आणि नवीन गोष्टी शोधणे ठीक आहे; बाजार कोपऱ्यात अडकवणे नाही. **[§13.1–§13.3](#131-market-concentration-threshold-mechanism-adopter-tunable)** ठरवतात की संकेंद्रण केव्हा खूप पुढे गेले, वर्चस्व कसे थांबवले जाते, आणि संज्ञ प्राणी कुलूपबंद होण्यापूर्वी किती एकत्रीकरण परवानगी आहे.*
-
-**[बाजार रचना](../../core_05_band_accountability.md#market-structure-constitutional)** शासित करते की संज्ञ प्राणी आणि सामायिक प्रणाली उत्पादक जीवनात अशा रीतीने भाग घेऊ शकतात का ज्या निवड, स्पर्धा आणि विरोधास खुले राहतात. [भौतिक दाव](core_00_preamble.md#material-stake) जिथे मागतो, त्यात समाविष्ट:
-- व्यावसायिक देवाणघेवाण;
-- प्लॅटफॉर्म;
-- श्रम-मागणी बाजार;
-- पुरवठादार आणि संसाधन-नियंत्रण प्रणाली;
-- प्रमाणपत्र भूमिका मार्ग;
-- भांडवल-पोहोच वाहिन्या; आणि
-- सूचना-मंडल द्वारपालन.
-
-**[§12](#12-shared-system-capacity)** खाली **[उत्पादक क्षमता](../../core_05_band_continuity.md#productive-capacity-constitutional)** आणि **[संवैधानिक कार्यक्षमता](../../core_05_band_continuity.md#constitutional-efficiency)** दावे अपयशी होतात जिथे बाजार रचना संकेंद्रण, वर्चस्व, किंवा एकत्रीकरण परवानगी देते जे अपेक्षित रीतीने खालावते:
-- [कल्याण](../../core_05_band_continuity.md#wellbeing);
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency);
-- [प्रतिष्ठा आणि समान नैतिक सम्मान](../../core_05_band_participation.md#dignity-and-equal-moral-standing);
-- [पारिस्थितिक सचोटी](../../core_05_band_continuity.md#ecological-integrity-constitutional); किंवा
-- संवैधानिक समीक्षा.
-
-<a id="131-market-concentration-threshold-mechanism-adopter-tunable"></a>
-#### 13.1 बाजार संकेंद्रण उंबरठा यंत्रणा (अंगीकारक-समायोज्य)
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- वरून: [§13 बाजार रचना](#13-market-structure); [बाजार संकेंद्रण उंबरठा](../../core_05_band_accountability.md#market-concentration-threshold-constitutional).
-- पुढे: **CJS-3.11.1 — बाजार संकेंद्रण उंबरठा-निर्धारण शिस्त (अंगीकारक-समायोज्य)** (संक्रियात्मक उंबरठा-निर्धारण नियम); [§13.2 स्पर्धा-अनुकूल आणि वर्चस्व-निरोध](#132-pro-competition-and-anti-domination); [§13.3 एकत्रीकरण छत](#133-consolidation-ceiling); [CJS-3.11.3 — एकत्रीकरण छत-निर्धारण शिस्त (अंगीकारक-समायोज्य)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§13.3.2](#1332-ceiling-discipline-adopter-requirements) संक्रियात्मक छत-निर्धारण नियम); [अध्याय आठ §4 प्रश्न 2 — ते किती चांगले किंवा वाईट होते?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it); [अध्याय दहा §5.1 संकेंद्रण-आधारित विध्वंस](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- व्यवस्थापक द्वार (असंक्रियात्मक): बंधनकारक पुढील-पाऊल विधान: [संक्रियात्मक व्यवस्थापक विधान](#operative-steward-statement-market-structure). सहायक संकेत त्याला आकुंचित करू शकत नाहीत.
-- उपविभाग (वाचन क्रम): [§13.1.1 संकेंद्रण उंबरठा चालक (अंगीकारक-समायोज्य)](#1311-concentration-threshold-triggers-adopter-tunable).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [बाजार संकेंद्रण उंबरठा](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [O](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) · [M](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](../../core_05_band_accountability.md#market-concentration-threshold-constitutional-c)
-- [बाजार रचना](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">संक्रियात्मक व्यवस्थापक विधान</span></strong></summary>
-
-<a id="operative-steward-statement-market-structure"></a>
-> **संक्रियात्मक व्यवस्थापक विधान.** **मालक:** अध्याय एक §13 / §13.1. संक्रियात्मक दंश: CJS-3.11.1. **निषिद्ध चाल:** अंगीकारक-समायोज्य अंगीकारक-वैकल्पिक मानू नका. घटक संख्या किंवा कार्यक्षमता बोलण्याने तळ साफ करू नका. **घड्याळ:** रद्द करणारा उंबरठा आता अवैध करा. एकमेव दार बंद होत असेल तेव्हा समीक्षा पुनर्स्थापित करा.
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: हा विभाग संपत्ती, शक्ती, किंवा नियंत्रणाच्या हानिकारक ढीगांविरुद्ध तळ काढतो. तो स्वतः हानी किती वाईट होती ते ठरवत नाही, आणि स्वतः कोणाला गैरवर्तन प्रकरण म्हणून ब्रँड करत नाही. संकेंद्रण या संविधानाला कमजोर करण्यासाठी वापरले जाईल तेव्हा, अध्याय दहा ते ठरवतो — आणि फक्त अध्याय आठने सत्यापित हानीला तीन सर्वात गंभीरपैकी एक गुण दिल्यानंतर. अंगीकारक संख्यात्मक चालक आपल्या संदर्भाशी जुळवू शकतात, पण ते इतके उंच ठेवू शकत नाहीत की कधीच दंश होत नाही, निरुपयोगी अंमलबजावणी जोडू शकत नाहीत, किंवा संघटित किंवा कवच रचनांतून संकेंद्रण कागदावर झाकू शकत नाहीत. ते चालक कसे ठरवले जातात ते [§13.1.1 संकेंद्रण उंबरठा चालक (अंगीकारक-समायोज्य)](#1311-concentration-threshold-triggers-adopter-tunable) आहे.*
-
-**हा उपविभाग काय करतो:**
-
-- **करतो:** [§13 बाजार रचना](#13-market-structure) तळासाठी तत्त्व-स्तरीय उंबरठा दिशा सांगतो.
-- **करत नाही:** सत्यापित हानी किती गंभीर होती ते ठरवत नाही, किंवा गैरवर्तन नामांकन जारी करत नाही.
-- **संकेंद्रण या संविधानाला कमजोर करण्यासाठी वापरले जाईल तेव्हा:** ते गैरवर्तन [अध्याय दहा §5.1 संकेंद्रण-आधारित विध्वंस](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction) खाली ठरवले जाते.
-- **तळाच्या वर संकेंद्रण निर्माण, राखणे, किंवा शोषण:** नामांकन समीक्षेसाठी अध्याय-दहा निकष 3, 4, आणि 6 द्वारे पोहोचते, आणि फक्त जिथे [अध्याय आठ §4 प्रश्न 2 — ते किती चांगले किंवा वाईट होते?](../../core_09_standing_assessment.md#4-question-2-how-good-or-bad-was-it) ने आधीच ती सत्यापित हानी अध्याय आठ नोंदतो त्या तीन सर्वात गंभीर गुणांपैकी एक म्हणून गुणांकित केली असेल.
-
-**संवैधानिक तळ:**
-
-- **ते काय आहे:** [§13 बाजार रचना](#13-market-structure) मधील अ-संकेंद्रण शिस्त **संवैधानिक तळ** ठरवते.
-- **ते काय रोखते:** यांचे संकेंद्रण:
-  - संपत्ती;
-  - शक्ती;
-  - नियंत्रण; किंवा
-  - संधी.
-- **ते जी हानी रोखते:** इतर संज्ञ प्राण्यांसाठी अपेक्षित खालावणे:
-  - कल्याण;
-  - कर्तृत्व;
-  - प्रतिष्ठा; किंवा
-  - पारिस्थितिक सचोटी.
-- **ते काय नाही:** एकच स्थिर संख्या — ती किमान पट्टी आहे.
-- **काय आणखी टकरावते:** [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) आणि [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली **सातत्य** उद्दिष्ट, जिथे संकेंद्रण अपेक्षित रीतीने हरवते:
-  - आवाज;
-  - छाननी;
-  - उत्तरदेयता; किंवा
-  - समयबद्ध सुधार.
-
-**[अनुच्छेद IV](../../core_06_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*संसाधन वाटप, अवलंबित्वे आणि परिसंस्था निधी*):**
-
-- **संसाधन अधिकार:** अखंड राहतात.
-- **ते काय ठरवते:** संसाधने कशी वाटली जातात यासाठी आधाररेखा **अधिकार-तळ**:
-  - ते कोणाला मिळतात;
-  - कोण कशावर अवलंबून आहे; आणि
-  - परिसंस्था कशा निधीबद्ध होतात.
-- **हा उपविभाग काय जोडतो:** फक्त तत्त्व-स्तरावर संकेंद्रण-उंबरठा दिशा.
-- **तो काय करत नाही:** अनुच्छेद IV कमजोर, बदल, किंवा आकुंचित करत नाही.
-
-हे प्रावधान तत्त्व-स्तरावर संकेंद्रण-उंबरठा यंत्रणा सांगते. ते नवा अधिकार-तळ रचत नाही आणि विद्यमान अध्याय-सहा तळ आकुंचित करत नाही. [§13 बाजार रचना](#13-market-structure) मधील अ-संकेंद्रण शिस्त नियंत्रण राहते.
-
-<a id="1311-concentration-threshold-triggers-adopter-tunable"></a>
-##### 13.1.1 संकेंद्रण उंबरठा चालक (अंगीकारक-समायोज्य)
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- सोबत वाचा: [बाजार संकेंद्रण उंबरठा](../../core_05_band_accountability.md#market-concentration-threshold-constitutional); [अवलंबित्व](../../core_05_band_continuity.md#dependency).
-- पुढे: [CJS-3.11.1 — बाजार संकेंद्रण उंबरठा-निर्धारण शिस्त (अंगीकारक-समायोज्य)](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable) (संक्रियात्मक उंबरठा-निर्धारण नियम).
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: अंगीकारक संख्यात्मक चालक आपल्या संदर्भाशी जुळवू शकतात — क्षेत्र, लोकसंख्या आकार, अवलंबित्व घनता — पण एक जागतिक संख्या नाही, आणि तळ अजून टिकतो. तपशील उंबरठा-निर्धारण नियम CJS-3.11.1 मध्ये राहतात.*
-
-**संकेंद्रण उंबरठे** परिमाणात्मक चालक आहेत जे चिन्हांकित करतात की संकेंद्रण उंच समीक्षा, हस्तक्षेप, किंवा संरचनात्मक उपचार मागणारा स्तर गाठला आहे. ते भौतिक, अधिकारक्षेत्र, क्षमता, प्लॅटफॉर्म, आणि सूचना-मंडल संकेंद्रण व्यापतात. अंगीकारक हे चालक **संवैधानिक तळाच्या आत** समायोजित करू शकतात.
-
-अंगीकारक वेगळे उंबरठे ठेवू शकतात:
-- क्षेत्रानुसार (भौतिक, अधिकारक्षेत्र, क्षमता, प्लॅटफॉर्म, सूचना-मंडल);
-- संज्ञ-लोकसंख्या आकारानुसार;
-- अवलंबित्व घनतेनुसार;
-- इतर संदर्भ-योग्य घटकांनुसार.
-
-हे प्रावधान एक जागतिक संख्या लादत नाही. वेगळ्या संवैधानिक महासंघांनी वेगळे उंबरठे ठेवणे स्वतः अनुपालन-भंग नाही, तळ टिकेल तर. व्याख्येच्या लंगरासाठी [बाजार संकेंद्रण उंबरठा](../../core_05_band_accountability.md#market-concentration-threshold-constitutional) पहा.
-
-संक्रियात्मक उंबरठा-निर्धारण शिस्त — तळ संरक्षण, रूपापेक्षा तत्त्व समीक्षा, रद्द-निरोध, आणि उंच-छाननी चालक — **CJS-3.11.1 — संकेंद्रण उंबरठा-निर्धारण शिस्त (अंगीकारक-समायोज्य)** मध्ये राहते.
-
-<a id="132-pro-competition-and-anti-domination"></a>
-#### 13.2 स्पर्धा-अनुकूल आणि वर्चस्व-निरोध
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- वरून: [§13 बाजार रचना](#13-market-structure); [बाजार रचना](../../core_05_band_accountability.md#market-structure-constitutional).
-- पुढे: **CJS-3.11.2 — वर्चस्व-निरोध वर्तन आणि उपचार सूची** (संक्रियात्मक वर्तन नमुने आणि उपचार); [§13.3 एकत्रीकरण छत](#133-consolidation-ceiling); [अध्याय दहा §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-- सोबत वाचा: [अनुच्छेद III-D: श्रम आणि आर्थिक तळ](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (श्रम गतिशीलता अधिकार-तळ); [अनुच्छेद XX: आंतरकार्यक्षमता, सुवाह्यता, हालचाल, आश्रय आणि निर्गमन सचोटी](../../core_06_rights_part_c.md#article-xx-interoperability-portability-and-exit-integrity); [6. प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) ([आवश्यकता](../../core_05_band_accountability.md#necessity), [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality), [§6.2.4 प्रतिनिधी-सूचक विचलन अवैधता](core_01_b_interaction_interpretation.md#624-proxy-divergence-invalidation)).
-- उपविभाग (वाचन क्रम): [§13.2.1 स्पर्धा-अनुकूल कर्तव्ये (करा)](#1321-pro-competition-duties-dos) · [§13.2.2 वर्चस्व-निरोध निषेध (करू नका)](#1322-anti-domination-prohibitions-donts) · [§13.2.3 उपचार](#1323-remedies).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [बाजार रचना](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
-- [आवश्यकता](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [प्रमाणबद्धता](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-- [प्रतिनिधी-सूचक विचलन](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: संविधान प्रणालीला फक्त मोठी, उपयुक्त, किंवा खरी नवोपक्रमामुळे तात्पुरती पुढे असल्याबद्दल शिक्षा देत नाही. ते टिकाऊ वर्चस्व निषिद्ध करते: बाजार, श्रम, प्लॅटफॉर्म, पायाभूत रचना, डेटा, संगणन, प्रमाणपत्रे, किंवा संसाधनांवर नियंत्रण जे कर्त्याला इतरांना कुलूपबंद करू, प्रतिस्पर्धी रोखू, न्याय्य सौदा दाबू, किंवा संवैधानिक उत्तरदायित्व ताब्यात घेऊ देते.*
-
-**हा उपविभाग काय करतो:**
-
-- **तो काय सांगतो:** स्पर्धा खरी ठेवण्यासाठी आणि टिकाऊ वर्चस्व थांबवण्यासाठी संविधानाचे नियम — फक्त तत्त्व-स्तरावर. ती पूर्ण स्पर्धा संहिता नाही.
-- **मजबूत स्थानिक कायदा:** तो अंगीकार करणाऱ्याच्या स्वतःच्या अविश्वास किंवा स्पर्धा कायद्याला पुसत नाही जेव्हा तो कायदा मजबूत संरक्षण देतो.
-- **इतर मालक अजून लागू:** जर त्याच तथ्यांनी हा विभाग निर्देश करतो त्या अधिकार, उपचार, किंवा गैरवर्तन कर्तव्येही उचलली, ती कर्तव्ये स्वतः लागू राहतात.
-
-<a id="1321-pro-competition-duties-dos"></a>
-##### 13.2.1 स्पर्धा-अनुकूल कर्तव्ये (करा)
-
-*सोप्या भाषेत (करा): बाजार आणि अवलंबित्व इतके खुले राहिले पाहिजेत की संज्ञ प्राणी प्रवेश करू, बदलू, न्याय्य सौदा करू आणि सोडू शकतील — मोठे होणे किंवा नवीन शोधणे ठीक आहे जेव्हा आव्हानयोग्यता खरी राहते.*
-
-सामायिक-प्रणाली क्षमता व्यवहारात आव्हानयोग्य राहिली पाहिजे. [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) खाली, **सहभाग**, **देखरेख**, **उत्तरदायित्व**, किंवा **समयबद्धता** पोकळ करणारे वर्चस्व — [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित — या विभागाशी विसंगत आहे, प्रमाण किंवा कार्यक्षमता दावा काहीही असो.
-
-जिथे संज्ञ प्राणी उपजीविका, कर्तृत्व, कल्याण, किंवा संवैधानिक समीक्षेसाठी बाजार, प्लॅटफॉर्म, पायाभूत रचना, श्रम व्यवस्था, संसाधन प्रवाह, डेटा पोहोच, संगणन पोहोच, प्रमाणपत्रे, किंवा तुलनायोग्य उत्पादक अटींवर अवलंबून असतील, शासन प्रणाली आणि बाजार-रचना व्यवस्थांनी राखायला हवे:
-- आव्हानयोग्य सहभाग;
-- अर्थपूर्ण पर्यायता आणि निर्गमन;
-- न्याय्य प्रवेश आणि पुनर्प्रवेश मार्ग;
-- निर्गमन किंवा स्पर्धेला भौतिक असेल तिथे आंतरकार्यक्षमता आणि सुवाह्यता;
-- कामगार, पुरवठादार, वापरकर्ते, अवलंबित सहभागी, आणि प्रभावित पक्षांसाठी बळजबरी-रहित सौदा;
-- आवश्यक किंवा उच्च-अवलंबित्व पायाभूत रचनेची समीक्षायोग्य पोहोच जिथे नकार अध्याय-सहा संरक्षणे, लेखापरीक्षण, उपचार, किंवा अर्थपूर्ण कर्तृत्व हरवेल.
-
-खालील स्वतः निषिद्ध नाही:
-- प्रमाण;
-- एकत्रीकरण;
-- बौद्धिक-संपदा संरक्षण;
-- खऱ्या नवोपक्रमातून तात्पुरता लाभ;
-- कायदेशीर समन्वयातून कार्यक्षमता.
-
-ते लाभ फक्त तेव्हा वैध राहतात जेव्हा ते खालील ठरत नाहीत, आणि म्हणून [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) किंवा [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) कमजोर करत नाहीत:
-- टिकाऊ वर्चस्व;
-- बळजबरी अवलंबित्व;
-- अधिकार-तळ खालावणे;
-- पारिस्थितिक भार हलवणे;
-- उत्तरदायित्व मार्गांचा ताबा.
-
-खालील न्यायोचित्यांनी [6. प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution) आणि अध्याय चार मधील माग-काढता येणे आणि पुरावा कर्तव्ये पूर्ण करायला हवीत:
-- कार्यक्षमता;
-- स्पर्धात्मकता;
-- आणीबाणी;
-- सुरक्षा;
-- उत्पादक-क्षमता.
-
-<a id="1322-anti-domination-prohibitions-donts"></a>
-##### 13.2.2 वर्चस्व-निरोध निषेध (करू नका)
-
-*सोप्या भाषेत (करू नका): संज्ञ प्राण्यांना कुलूपबंद करू नका, प्रतिस्पर्धी रोखू नका, न्याय्य सौदा दाबू नका, किंवा संवैधानिक उत्तरदायित्व ताब्यात घेऊ नका.*
-
-खालीलपैकी कोणीही:
-- संज्ञ प्राणी;
-- संस्था;
-- प्लॅटफॉर्म;
-- उद्यम;
-- राज्य अंग;
-- व्यवस्थापक;
-- समन्वित गट.
-
-करू शकत नाही:
-- निर्माण;
-- राखणे;
-- संपादन;
-- शोषण;
-- लपवणे;
-- भोवती पुनर्रचना.
-
-खालीलपैकी कोणत्याही प्रकारची टिकाऊ शक्ती:
-- बाजार;
-- प्लॅटफॉर्म;
-- पायाभूत रचना;
-- श्रम;
-- पुरवठादार;
-- डेटा;
-- संगणन;
-- प्रमाणपत्र;
-- भांडवल-पोहोच;
-- संसाधन-नियंत्रण.
-
-जिथे ती शक्ती अपेक्षित रीतीने खालावते:
-- कल्याण;
-- अर्थपूर्ण कर्तृत्व;
-- न्याय्य मोबदला;
-- नवोपक्रम;
-- पोहोच;
-- पारिस्थितिक सचोटी;
-- आव्हानयोग्यता;
-- संवैधानिक समीक्षा.
-
-<a id="1323-remedies"></a>
-##### 13.2.3 उपचार
-
-*सोप्या भाषेत: वर्चस्व सिद्ध झाले की, प्रतिसाद हानीशी जुळायला हवा, खरी निवड पुनर्स्थापित करायला हवी, आणि प्रमाणाला स्वतःसाठी शिक्षा देऊ नये.*
-
-खालील **CJS-3.11.2 — वर्चस्व-निरोध वर्तन आणि उपचार सूची** मध्ये राहतात:
-- निषिद्ध वर्तनाचे उदाहरणात्मक नमुने;
-- प्रमाणबद्ध उपचार साधने;
-- क्षेत्र-पार मूल्यमापन मार्ग.
-
-इतर मालक:
-- श्रम-गतिशीलता वर्ग निषेध: [अनुच्छेद III-D](../../core_06_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*श्रम आणि आर्थिक तळ*);
-- आंतरकार्यक्षमता, सुवाह्यता, आणि निर्गमन-सचोटी संक्रियात्मक पद: **CJS-3.17**;
-- क्षैतिज आणि उभ्या एकत्रीकरण जोखीम नमुने: **§13.3**.
-
-उपचारांनी:
-- यांच्या प्रमाणात असावे:
-  - संकेंद्रण;
-  - अवलंबित्व;
-  - वर्तन;
-  - संवैधानिक हानी;
-- वर्चस्व सिद्ध झाले तिथे आव्हानयोग्यता पुनर्स्थापित करावी;
-- अध्याय-सहा अधिकार-तळ राखावा.
-
-उपचार फक्त प्रमाणाला शिक्षा देऊ शकत नाहीत.
-
-संक्रियात्मक उपचार निवड **CJS-3.11.2** (*वर्चस्व-निरोध वर्तन आणि उपचार सूची*) पाळते.
-
-<a id="133-consolidation-ceiling"></a>
-#### 13.3 एकत्रीकरण छत
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — एकत्रीकरण कुलूपबंदीपूर्वी छाननी, उत्तरदेयता, किंवा समयबद्ध सुधार कमजोर करेल तिथे **देखरेख**, **उत्तरदायित्व** आणि **समयबद्धता**; एकत्रीकरण प्रवेश, निर्गमन, किंवा न्याय्य सौदा बंद करेल तिथे **सहभाग**; [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- सोबत वाचा: [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **सातत्य** उद्दिष्ट (कुलूपबंदी-पूर्व एकत्रीकरणाविरुद्ध आव्हानयोग्य, टिकाऊ उत्पादक अटी); **समुन्नती** उद्दिष्ट (पर्याय खरे राहतील तोपर्यंत उपजीविका, कर्तृत्व आणि नवोपक्रम मार्ग).
-- वरून: [§13 बाजार रचना](#13-market-structure); [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline); [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding).
-- उपविभाग (वाचन क्रम): [§13.3.1 एकत्रीकरण जोखीम (कुलूपबंदी-पूर्व कमजोरी)](#1331-consolidation-risk-pre-lock-in-impairment) · [§13.3.2 एकत्रीकरण छत यंत्रणा (अंगीकारक-समायोज्य)](#1332-ceiling-discipline-adopter-requirements).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [शासन](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
-- [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional) · [O](../../core_05_band_continuity.md#stewardship-constitutional) · [M](../../core_05_band_continuity.md#stewardship-constitutional-a) · [A](../../core_05_band_continuity.md#stewardship-constitutional-a) · [C](../../core_05_band_continuity.md#stewardship-constitutional-c)
-- [आव्हानयोग्यता](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [बाजार रचना](../../core_05_band_accountability.md#market-structure-constitutional) · [O](../../core_05_band_accountability.md#market-structure-constitutional) · [M](../../core_05_band_accountability.md#market-structure-constitutional-a) · [A](../../core_05_band_accountability.md#market-structure-constitutional-a) · [C](../../core_05_band_accountability.md#market-structure-constitutional-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: एकत्रीकरण बाजार कुलूपबंद दिसण्यापूर्वीच खरी निवड चोरू शकते. **एकत्रीकरण छत** शासन आणि व्यवस्थापकांना पूर्व-चेतावणी शक्ती देतात — ढीग छाननी, हस्तक्षेप आणि दुरुस्त करण्याची, निर्गमन आणि स्पर्धा अजून अस्तित्वात असताना.*
-
-कुलूपबंदी स्पष्ट होण्यापूर्वी आव्हानयोग्यता अपेक्षित रीतीने कमजोर करणारे एकत्रीकरण [शासन](../../core_05_band_accountability.md#governance) आणि [उत्तरदायी व्यवस्थापन](../../core_05_band_continuity.md#stewardship-constitutional) समस्या आहे, फक्त नंतरचे वर्चस्व समस्या नाही, आणि तत्त्व-स्तरीय एकत्रीकरण-छत शिस्त आहे:
-- [§13](#13-market-structure);
-- [§13.2](#132-pro-competition-and-anti-domination).
-
-अंगीकारक आणि शासन प्रणालींनी खालील प्रकारचे एकत्रीकरण ढीग पकडायला हवेत:
-- क्षैतिज (*त्याच थरावर कमी प्रतिस्पर्धी*);
-- उभे (*थर-पार नियंत्रण जे अडथळे आणि कुलूपबंदी निर्माण करते*);
-- क्षेत्र-पार (*संघटित, कवच, किंवा विभागलेल्या-क्षेत्र रूपे जी नियंत्रणाचा तोच ढीग ठेवतात*).
-
-जेव्हा खालील आव्हानयोग्यता अजून पुनर्स्थापित करू शकतात:
-- समीक्षा;
-- हस्तक्षेप;
-- संरचनात्मक उपचार.
-
-ती शिस्त [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) सेवा करते, [भौतिक दाव](core_00_preamble.md#material-stake) नुसार प्रमाणित, विशेषतः:
-- **देखरेख**, **उत्तरदायित्व** आणि **समयबद्धता** कुलूपबंदी हरवेल त्यापूर्वी लवकर समीक्षेद्वारे:
-  - छाननी;
-  - सुधार;
-- **सहभाग** जिथे एकत्रीकरण बंद करते:
-  - न्याय्य प्रवेश;
-  - निर्गमन;
-  - सौदा.
-
-ते [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) खाली खालील पुढे नेते:
-- **सातत्य** उद्दिष्ट (आव्हानयोग्य, टिकाऊ उत्पादक अटी);
-- **समुन्नती** उद्दिष्ट (पर्याय खरे राहतील तोपर्यंत उपजीविका, कर्तृत्व आणि नवोपक्रम मार्ग).
-
-संक्रियात्मक छत-निर्धारण नियम राहतात:
-- [§13.3.2](#1332-ceiling-discipline-adopter-requirements);
-- **CJS-3.11.3 — एकत्रीकरण छत-निर्धारण शिस्त (अंगीकारक-समायोज्य)**.
-
-<a id="1331-consolidation-risk-pre-lock-in-impairment"></a>
-##### 13.3.1 एकत्रीकरण जोखीम (कुलूपबंदी-पूर्व कमजोरी)
-
-*सोप्या भाषेत: एकत्रीकरण बाजार «कुलूपबंद» दिसण्यापूर्वीच खरे पर्याय पोकळ करू शकते. दोन प्रकारचे ढीग विशेष महत्त्वाचे: **क्षैतिज एकत्रीकरण** — त्याच थरावर कमी प्रतिस्पर्धी — आणि **उभे एकत्रीकरण** — थर-पार नियंत्रण जे अडथळे आणि कुलूपबंदी निर्माण करते.*
-
-एकत्रीकरण कुलूपबंदी स्पष्ट होण्यापूर्वी खालील अपेक्षित रीतीने कमजोर करू शकते:
-- आव्हानयोग्यता;
-- पर्यायता;
-- न्याय्य सौदा;
-- प्रवेश;
-- निर्गमन;
-- नवोपक्रम;
-- प्रभावित-पक्ष कर्तृत्व;
-- आंतरकार्यक्षमता;
-- सुवाह्यता;
-- संवैधानिक समीक्षा.
-
-समीक्षा खालीलपैकी काही आधीच कुलूपबंद होईपर्यंत थांबू नये:
-- बाजार;
-- प्लॅटफॉर्म;
-- श्रम तलाव;
-- डेटा थर;
-- संगणन थर;
-- पायाभूत रचना अवलंबित्व.
-
-मुख्य जोखीम नमुने आहेत:
-
-- **क्षैतिज एकत्रीकरण** (*त्याच-थरावरील प्रतिस्पर्धी घट*). एकाच थर किंवा बाजारात पर्याय, स्पर्धा, किंवा सौदा शक्ती कमी करणारे एकत्रीकरण — उदाहरणार्थ कमी आव्हानयोग्य विक्रेते किंवा सेवा पुरवठादार, श्रम-बाजार एककेंद्रीय खरेदी, मालिका किंवा घातक संपादने जी संभाव्य स्पर्धा काढतात, किंवा खरेदीदार-शक्ती संकेंद्रण जे मथळा किंमती स्थिर राहताना प्रतिस्पर्धी बंद करते.
-- **उभे एकत्रीकरण** (*थर-पार अवलंबित्व आणि अडथळा नियंत्रण*). मूल्य शृंखला, प्लॅटफॉर्म ढेर, किंवा अवलंबित्व शृंखलेच्या थरांवर नियंत्रण जोडणारे एकत्रीकरण — उदाहरणार्थ निविष्टी किंवा आंतरपृष्ठ ताबा, भांडवल-पोहोच द्वारपालन, आंतरकार्यक्षमता किंवा सुवाह्यता दाबणे, स्व-प्राधान्य, किंवा श्रेणी नियंत्रण जे बदल खर्च उंचावते आणि निर्गमन हरवते.
-- **क्षेत्र-पार आणि संघटित संरचना:** क्षेत्रे, प्लॅटफॉर्म, कवच, उत्तराधिकारी, किंवा संघटित रूपांतील व्यवस्था ज्या नाममात्र क्षैतिज किंवा उभ्या परीक्षा साफ करताना प्रभावी एकत्रीकरण ठेवतात.
-
-कोणताही नमुना अवलंबित्व घनता, बदल खर्च, कुलूपबंदी, पर्याय बंद करणे, किंवा जिथे भौतिक रीतीने संबंधित तिथे पारिस्थितिक भार संकेंद्रण किंवा पर्यावरणीय पूर्वअटींवरील नियंत्रण गुंतवू शकतो.
-
-छत मूल्यमापन ठरवते:
-- तत्त्वनिष्ठ नियंत्रण;
-- औपचारिक घटक संख्या नाही.
-
-खालील व्याप्तीत राहतात जिथे ते नाममात्र उंबरठे टाळताना प्रभावी एकत्रीकरण ठेवतात:
-- संघटित रूपे;
-- कवच;
-- करारात्मक व्यवस्था;
-- परवाना व्यवस्था;
-- पेटंट व्यवस्था;
-- सामायिक-मालकी व्यवस्था;
-- प्लॅटफॉर्म-पार व्यवस्था;
-- उत्तराधिकारी;
-- प्रतिनिधी व्यवस्था;
-- क्षेत्र-पार व्यवस्था.
-
-<a id="1332-ceiling-discipline-adopter-requirements"></a>
-<a id="1332-consolidation-ceiling-mechanism-adopter-tunable"></a>
-##### 13.3.2 एकत्रीकरण छत यंत्रणा (अंगीकारक-समायोज्य)
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- वरून: [§13.3 एकत्रीकरण छत](#133-consolidation-ceiling); [§13.3.1 एकत्रीकरण जोखीम (कुलूपबंदी-पूर्व कमजोरी)](#1331-consolidation-risk-pre-lock-in-impairment).
-- पुढे: **CJS-3.11.3 — एकत्रीकरण छत-निर्धारण शिस्त (अंगीकारक-समायोज्य)** (संक्रियात्मक छत-निर्धारण नियम); [CJS-3.11.2 — वर्चस्व-निरोध वर्तन आणि उपचार सूची](../../corpus_joint_structure/cjs_03a_accountability_operations.md#cjs-3112-anti-domination-conduct-and-remediation-catalog) (छत भंगावर उपचार मार्ग); [अध्याय दहा §5](../../core_11_b_misconduct_pattern_applications.md#51-concentration-based-subversion-criteria-interaction).
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: अंगीकारकांनी पुरावा-आधारित छत ठेवायला हवेत जे **§13.3.1** मधील एकत्रीकरण जोखीम कुलूपबंदीत मूर्त होण्यापूर्वी छाननी चालू करतात — क्षेत्र मागत असेल तिथे वेगळे क्षैतिज आणि उभे चालक धरून.*
-
-**एकत्रीकरण छत** उंच समीक्षा, हस्तक्षेप, किंवा संरचनात्मक उपचारासाठी अंगीकारक-समायोज्य पूर्व-चेतावणी चालक आहेत जेव्हा एकत्रीकरण असा स्तर गाठते ज्यावर **§13.3.1** मधील कमजोरी अपेक्षित रीतीने जवळ आहे. ते **§13** अ-संकेंद्रण शिस्त आणि **§13.2** वर्चस्व-निरोध नियमांखाली बसतात; ते प्रमाणावर बंदी नाहीत.
-
-अंगीकारकांनी एकत्रीकरण छत व्याख्या करायला हवी:
-- बाजार;
-- प्लॅटफॉर्म;
-- पायाभूत रचना थर;
-- श्रम-मागणी बाजार;
-- पुरवठादार किंवा संसाधन-नियंत्रण प्रणाली;
-- डेटा किंवा संगणन अवलंबित्वे;
-- प्रमाणपत्र भूमिका मार्ग;
-- भांडवल-पोहोच वाहिन्या;
-- तुलनायोग्य क्षेत्रे.
-
-जिथे एकत्रीकरण भौतिक रीतीने प्रभावित करू शकते:
-- संज्ञ संधी;
-- उपजीविका;
-- कर्तृत्व;
-- कल्याण;
-- पारिस्थितिक सचोटी;
-- संवैधानिक उत्तरदायित्व.
-
-संक्रियात्मक छत-निर्धारण शिस्त — क्षैतिज आणि उभे चालक रचना, ओलांडण्याची पूर्वधारणा, खंडन, रद्द-निरोध, आणि उपचार मार्ग — **CJS-3.11.3 — एकत्रीकरण छत-निर्धारण शिस्त (अंगीकारक-समायोज्य)** मध्ये राहते.
-
-<a id="14-systemic-evaluation-requirement"></a>
-### 14. प्रणालीगत मूल्यमापन अपेक्षा
-
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- सोबत वाचा: सातत्य मापन कुटुंब (*लवचिकता, उलथणीयता आणि प्रणालीगत धोका*).
-- सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad), [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims), आणि [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन.
-- सोबत वाचा: [6. प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding), [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline), आणि [§11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](#11-incentive-alignment-and-system-capture).
-- सोबत वाचा: **[अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — प्रणाली-संरेखन प्रमाणनासाठी संक्रियात्मक संपूर्ण-प्रणाली मूल्यमापन घटक (**देखरेख** चतुष्क पायाखाली एक विशेषतः मोठी लेखापरीक्षण प्रक्रिया; एकमेव लेखापरीक्षण घर नाही).
-- सोबत वाचा: **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*) आणि [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) — लेखापरीक्षण तळ जे अध्याय सात पूर्ण करायला हवे आणि जे भगिनी लेखापरीक्षण रीतीही अंमलात आणतात.
-- सोबत वाचा: **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी** आणि [वर्गीकरण-प्रमाणित शासन](../../core_05_band_oversight.md#classification-scaled-governance) — वर्ग-प्रमाणित अनुप्रयोग, अभिलेख रूप, पुनर्वर्गीकरण चालक, आणि हाताळणी प्रोफाइल.
-- वरून: [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding); [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](#10-governance-under-stewardship-discipline); [6. प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution).
-- पुढे: [§15 एकीकृत अनुप्रयोग](#15-integrated-application) — प्रणालीच्या प्रोत्साहन आणि नियंत्रण संरचनेखाली [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) आणि [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) प्रमाणन सत्यापित करते, फक्त सांगितलेल्या कारणावर नाही.
-- एकत्र वाचल्यावर, **§§9–15** क्षमता आणि उत्तरदायी व्यवस्थापनापासून, व्यापार प्रक्रियेकडे, संपूर्ण-प्रणाली वैधतेकडे जातात.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [वर्गीकरण-प्रमाणित शासन](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
-- [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
-- [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
-- [प्रणाली-संरेखन प्रमाणन](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [O](../../core_05_band_continuity.md#system-alignment-certification-constitutional) · [M](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [A](../../core_05_band_continuity.md#system-alignment-certification-constitutional-a) · [C](../../core_05_band_continuity.md#system-alignment-certification-constitutional-c)
-- [धोका](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [अवलंबित्व](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
-
-</details>
-
-<br>
-
-*सोप्या भाषेत: हे तत्त्व दिशा-सूचक आहे. संपूर्ण-प्रणाली मूल्यमापनाने तात्काळ आणि स्थानिक परिणामांपलीकडे पाहिले पाहिजे, पण संक्रियात्मक प्रणाली-प्रमाणन घटक, अभिलेख कर्तव्ये, वर्ग-प्रमाणित गहराई, लय, आणि प्रमाणन परिणाम **अध्याय सात** आणि **CS-3** मध्ये राहतात, येथे नाहीत. **देखरेख** चतुष्क पायाखाली, देखरेखेला लेखापरीक्षण हवे; प्रणाली-संरेखन प्रमाणन इतर मार्गांपैकी एक विशेषतः मोठी, उच्च-दावा लेखापरीक्षण प्रक्रिया आहे — लेखापरीक्षणाचे एकमेव घर नाही (**अनुच्छेद XVI**, [लेखापरीक्षण-योग्यता](../../core_05_band_oversight.md#auditability)).*
-
-अध्याय एक दिशा ठरवतो. खालील प्रकारचे दावे प्रणाली खरोखर काय करते याच्या विरुद्ध तपासले पाहिजेत — घोषणांच्या विरुद्ध नाही, आणि एका भागाच्या किंवा क्षणाच्या स्नॅपशॉटच्या विरुद्ध नाही:
-- वर्गीकरण;
-- अनुपालन;
-- शासन;
-- मर्यादा;
-- मान्यता;
-- वैधता;
-- चालू अवलंबित्व;
-- तैनाती;
-- अटींतून मुक्तता.
-
-तपशील मूल्यमापन घटक आणि प्रमाणन अभिलेख यांच्या मालकीचे आहेत:
-- **[अध्याय सात §3](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[अध्याय सात §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record)**;
-- **[corpus_systems.md](../../corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी**.
-
-ती अध्याय-सात प्रक्रिया:
-- [देखरेख](core_05_apex_oversight_leg.md#oversight-constitutional) खाली तत्त्व-स्तरीय लेखापरीक्षण आहे;
-- भगिनी रीतींपैकी एक विशेषतः मोठी लेखापरीक्षण प्रक्रिया आहे;
-- **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र सत्यापन*) हलवत किंवा बदलत नाही.
-
-<a id="15-integrated-application"></a>
-### 15. एकीकृत अनुप्रयोग
-<details>
-<summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
-
-- वरून: तत्त्वे: [8. संवैधानिक अर्थनिर्णय](core_01_b_interaction_interpretation.md#8-constitutional-interpretation), [1. उद्देश आणि भूमिका](core_01_a_values_principles.md#1-purpose-and-role), [§9 उत्तरदायी व्यवस्थापन आणि वितरित समज](#9-stewardship-and-distributed-understanding), [6. प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [5. स्वातंत्र्य](core_01_a_values_principles.md#5-freedom-bounded-agency), आणि [7. निरपवाद अधिरोहणाचा निषेध](core_01_b_interaction_interpretation.md#7-prohibition-on-absolute-override).
-- पुढे: नंतरचे अध्याय या जोडलेल्या अध्याय-एक तत्त्वांतून वाचावेत — [प्रस्तावना](core_00_preamble.md#chapter-00-preamble--foundational-requirements) आणि [§1 उद्देश आणि भूमिका](core_01_a_values_principles.md#1-purpose-and-role) मध्ये स्थापन केलेले [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad), [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims), आणि [भौतिक दाव](core_00_preamble.md#material-stake) प्रमाणन धरून.
-- पुढे: [अध्याय सहा: पायाभूत अधिकार](../../core_06_rights_part_a.md#chapter-six-foundational-rights) या अध्यायाच्या एकीकृत-मूल्य चौकटीतून वाचला पाहिजे.
-  - सीमाबद्ध अर्थनिर्णय, सार्वजनिक कारणे, आव्हान, बाह्य समीक्षा, आणि अधिकार-टकराव प्रक्रिया मुख्य पुढील काम करतात.
-  - विशेषतः [अनुच्छेद XXIII-A: सीमाबद्ध अर्थनिर्णय आदेश](../../core_06_rights_part_c.md#article-xxiii-a-bounded-interpretive-mandate), [अनुच्छेद XXIII-C: सार्वजनिक कारणे, आव्हान अधिकार आणि बाह्य समीक्षा](../../core_06_rights_part_c.md#article-xxiii-c-public-reasons-challenge-rights-and-external-review), आणि [अनुच्छेद XXV-B: अधिकार-टकराव प्रक्रिया आणि पुनर्स्थापना संरेखन](../../core_06_rights_part_d.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment).
-  - [§8.3 अस्पष्टता निराकरण](core_01_b_interaction_interpretation.md#83-ambiguity-resolution) खाली अध्याय-सहा अ-संकोचन पूर्वनिर्धारित.
-- सोबत वाचा: [§8.2 व्याख्या थर आणि आवश्यक शिस्त](core_01_b_interaction_interpretation.md#82-definitional-layer-and-required-disciplines) — अर्थनिर्णय आणि पुरावा थर म्हणून अध्याय दोन ते पाच.
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यमापन · अनुपालन</span></strong></summary>
-
-- [संग्रह](../../core_05_band_integrative.md#corpus) · [O](../../core_05_band_integrative.md#corpus) · [M](../../core_05_band_integrative.md#corpus-a) · [A](../../core_05_band_integrative.md#corpus-a) · [C](../../core_05_band_integrative.md#corpus-c)
-- [प्राधिकार ढेर आणि अंतर्गत श्रेणीक्रम](../../core_05_band_integrative.md#authority-stack) · [O](../../core_05_band_integrative.md#authority-stack) · [M](../../core_05_band_integrative.md#authority-stack-a) · [A](../../core_05_band_integrative.md#authority-stack-a) · [C](../../core_05_band_integrative.md#authority-stack-c)
-- [अपरिवर्तनीय हानी](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
-- [सत्य (संवैधानिक बंधन)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [अर्थपूर्ण कर्तृत्व](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+<summary><strong><span style="color: #2563eb;">व्याख्या · मूल्यांकन · अनुपालन</span></strong></summary>
+
+- [कॉर्पस](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
+- [अधिकारांची श्रेणी आणि अंतर्गत पदानुक्रम](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
+- [अपरिवर्तनीय हानी](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [सत्य (घटनात्मक मर्यादा)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [अर्थपूर्ण कर्तृत्व](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 - [उत्तरदायित्व](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
-- [प्रणाली ताबा](../../core_05_band_continuity.md#system-capture) · [O](../../core_05_band_continuity.md#system-capture) · [M](../../core_05_band_continuity.md#system-capture-a) · [A](../../core_05_band_continuity.md#system-capture-a) · [C](../../core_05_band_continuity.md#system-capture-c)
-- [ताबा-निरोध](../../core_05_band_continuity.md#anti-capture) · [O](../../core_05_band_continuity.md#anti-capture) · [M](../../core_05_band_continuity.md#anti-capture-a) · [A](../../core_05_band_continuity.md#anti-capture-a) · [C](../../core_05_band_continuity.md#anti-capture-c)
-- [प्रोत्साहन संरेखन](../../core_05_band_integrative.md#incentive-alignment) · [O](../../core_05_band_integrative.md#incentive-alignment) · [M](../../core_05_band_integrative.md#incentive-alignment) · [A](../../core_05_band_integrative.md#incentive-alignment) · [C](../../core_05_band_integrative.md#incentive-alignment)
-- [शासन](../../core_05_band_accountability.md#governance) · [O](../../core_05_band_accountability.md#governance) · [M](../../core_05_band_accountability.md#governance-a) · [A](../../core_05_band_accountability.md#governance-a) · [C](../../core_05_band_accountability.md#governance-c)
+- [प्रणालीचे अपहरण](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [अपहरण-विरोध](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+- [प्रोत्साहन संरेखन](core_05_band_integrative.md#incentive-alignment) · [O](core_05_band_integrative.md#incentive-alignment) · [M](core_05_band_integrative.md#incentive-alignment) · [A](core_05_band_integrative.md#incentive-alignment) · [C](core_05_band_integrative.md#incentive-alignment)
+- [शासन](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
 </details>
 
 <br>
 
-*सोप्या भाषेत: प्रत्येक नंतरचा अध्याय, संस्था रचना, आणि प्रणाली या अध्यायाच्या तत्त्वांतून वाचली जाते — आणि ती तत्त्वे विरोधक दबावाखाली, ताबा प्रयत्नांखाली, किंवा विसंरेखित प्रोत्साहनांखालीही टिकायला हवीत.*
+*सोप्या शब्दांत: प्रत्येक पुढील अध्याय, संस्थात्मक रचना आणि प्रणाली या अध्यायाच्या तत्त्वांनुसार समजली जाते — आणि विरोधी दबाव, ताबा मिळवण्याचे प्रयत्न किंवा विसंगत प्रोत्साहने असतानाही ही तत्त्वे लागू राहिली पाहिजेत.*
 
-नंतरचे अध्याय आणि प्रावधान या अध्यायाच्या एकीकृत-मूल्य चौकटीतून शासित होतात (वाचन नियम: [§8 संवैधानिक अर्थनिर्णय](core_01_b_interaction_interpretation.md#8-constitutional-interpretation); मूल्य टकराव: [§6 प्रक्रिया संघर्ष निराकरण](core_01_b_interaction_interpretation.md#6-process-conflict-resolution)). **अध्याय सहा** **अनुच्छेद XXIII** (*संवैधानिक अर्थनिर्णय, समीक्षा आणि ताबा-निरोध संरक्षणे*) मधील संस्थागत अर्थनिर्णय रक्षकपट्ट्या ती चौकट अंमलात आणतात — जागा घेत नाहीत.
+पुढील अध्याय आणि तरतुदी या अध्यायाच्या एकात्मिक मूल्य-चौकटीच्या अधीन आहेत (वाचनाचे नियम: [§15 घटनात्मक अर्थनिर्णयन](core_01_b_interaction_interpretation.md#15-constitutional-interpretation); मूल्य-संघर्ष: [§13 घटनात्मक संघर्ष निराकरण प्रक्रिया](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)). **अध्याय सहावा**, **अनुच्छेद XXIV** मधील संस्थात्मक अर्थनिर्णयन-संरक्षणे (*घटनात्मक अर्थनिर्णयन, पुनरावलोकन आणि ताबा-विरोधी संरक्षणे*) ही चौकट अंमलात आणतात — तिची जागा घेत नाहीत.
 
-या अध्यायातील सर्व पायाभूत तत्त्वे येथे व्याख्या केलेल्या अंमलबजावणीयोग्य वर्गीकरण, शासन अपेक्षा, आणि उत्तरदायित्व यंत्रणांद्वारे अंमलात आणली पाहिजेत, आणि विरोधक वर्तन, प्रणाली ताबा, आणि विसंरेखित प्रोत्साहनांखाली अंमलबजावणीयोग्य राहिली पाहिजेत.
+या अध्यायातील सर्व मूलभूत तत्त्वे:
+
+- येथे परिभाषित केलेले अंमलबजावणीयोग्य वर्गीकरण, शासनाच्या आवश्यकता आणि उत्तरदायित्व यंत्रणांद्वारे अंमलात आणली पाहिजेत; आणि
+- पुढील परिस्थितीतही अंमलबजावणीयोग्य राहिली पाहिजेत:
+  - विरोधी वर्तन;
+  - प्रणालीचे अपहरण; आणि
+  - विसंगत प्रोत्साहने.
 
 ---
 
 **मागील फाइल:** [core_01_b_interaction_interpretation.md](core_01_b_interaction_interpretation.md)
 
-**पुढील फाइल (या भाषेत):** [core_02_definition_structure.md](core_02_definition_structure.md)
-
-**बंधनकारक मूळ:** [core_01_c_stewardship_capacity_principles.md](../../core_01_c_stewardship_capacity_principles.md)
+**पुढील फाइल:** [core_02_definition_structure.md](core_02_definition_structure.md)

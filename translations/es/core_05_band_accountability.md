@@ -409,7 +409,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Uno §10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Uno §11.6 Responsabilidad de sucesores y no elusión por estructura formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Capítulo Siete §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation) y [Capítulo Siete Parte B §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record) donde la capacidad de atribución se exija de forma material.
+- Destino: Principios: [Capítulo Uno §10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Uno §11.6 Responsabilidad de sucesores y no elusión por estructura formal](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Capítulo Siete §3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-data-types-and-handling-evaluation) y [Capítulo Siete Parte B §4](../../core_08_b_system_alignment_certification_record_process.md#4-system-certification-record) donde la capacidad de atribución se exija de forma material.
 - Leer con: [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Integridad de atribución](core_05_band_accountability.md#attribution-integrity-constitutional), [Auditabilidad](core_05_band_oversight.md#auditability), [Impugnabilidad](core_05_band_accountability.md#contestability), [Debido Proceso](core_05_band_accountability.md#due-process-constitutional) y [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional).
 - Leer con: [CS-4 §10 acción atribuible inspeccionable](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*contrato de registro predeterminado para acción mixta humana/IA; no un sustituto de registro de trayectoria*).
 
@@ -445,7 +445,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: Principios: [Capítulo Uno §10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Siete §4](../../core_08_a_system_alignment_certification_evaluation.md#4-data-types-and-handling-evaluation); [Capítulo Siete Parte B §11](../../core_08_b_system_alignment_certification_record_process.md#11-system-certification-record); y **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo** donde la acción atribuible o la responsabilidad a nivel de auditoría esté implicada de forma material.
+- Destino: Principios: [Capítulo Uno §10 Gobernanza bajo disciplina de administración responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline); [Capítulo Siete §3.8](../../core_08_a_system_alignment_certification_evaluation.md#38-data-types-and-handling-evaluation); [Capítulo Siete Parte B §4](../../core_08_b_system_alignment_certification_record_process.md#4-system-certification-record); y **[corpus_systems.md](../../corpus_systems.md), CS-2 — Tipos de información y manejo** donde la acción atribuible o la responsabilidad a nivel de auditoría esté implicada de forma material.
 - Leer con: [Acción atribuible](core_05_band_accountability.md#attributable-action-constitutional), [Rendición de cuentas](core_05_apex_accountability_leg.md#accountability), [Auditabilidad](core_05_band_oversight.md#auditability), [Transparencia](core_05_band_oversight.md#transparency), [Impugnabilidad](core_05_band_accountability.md#contestability) y [Verdad (restricción constitucional)](core_05_band_oversight.md#truth-constitutional-constraint).
 - Leer con: [CS-4 §10 acción atribuible inspeccionable](../../corpus_systems/cs_04_critical_system_stewardship.md#10-inspectable-attributable-action) (*contrato de registro predeterminado para acción mixta humana/IA; los internos no son una exención de medición de trayectoria*).
 
@@ -718,7 +718,7 @@ Esta banda sostiene definiciones bajo la pata **Rendición de cuentas** de la T�
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Destino: [Capítulo Siete §14](../../core_08_b_system_alignment_certification_record_process.md#14-supervisory-sequence-and-contestability-chain) (*secuencia de supervisión, remisión de componente y límites de confianza durante la impugnación*); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*traslado, certificación y alivio interino*); [**CF-6**](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) (*apelación y revisión secundaria*) y **CF-15** (*orden de alivio interino*).
+- Destino: [Capítulo Siete §5](../../core_08_b_system_alignment_certification_record_process.md#5-forum-process) (*secuencia de supervisión, remisión de componente y límites de confianza durante la impugnación*); [Capítulo Once](core_11_forum.md#chapter-eleven-forums-and-jurisdiction) (*traslado, certificación y alivio interino*); [**CF-6**](../../corpus_forum/cf_06_appeal_secondary_review_exhaustion_pathways.md) (*apelación y revisión secundaria*) y **CF-15** (*orden de alivio interino*).
 - Leer con: [Determinación de fondo](core_05_band_accountability.md#merits-determination), [Impugnabilidad](core_05_band_accountability.md#contestability), [Adjudicación y resolución de disputas](core_05_band_accountability.md#adjudication-and-dispute-resolution-constitutional), [Resolución oportuna](core_05_band_accountability.md#timely-resolution-constitutional), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality) y [Equidad procedimental](core_05_band_participation.md#procedural-fairness-constitutional).
 
 </details>
@@ -1499,6 +1499,7 @@ Cuando se cumple el ámbito de admisión, esta agrupación es el hogar de invoca
 - [Daño](core_05_band_accountability.md#harm), como el concepto general de degradación;
 - [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary), como el límite definido sobre la libertad de acción: el punto en el que la libertad de acción de un senciente, un colectivo o un sistema debe ceder ante el daño verificable que afecta los intereses protegidos de otro senciente o las condiciones compartidas constitucionalmente protegidas;
 - [Crueldad](core_05_band_accountability.md#cruelty), como el constructo de carácter de la conducta para el sufrimiento infligido como fin en sí mismo o más allá de la necesidad y la proporcionalidad; y
+- [Crueldad animal](core_05_band_accountability.md#animal-cruelty), como la aplicación de ese constructo a los seres cubiertos por el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional), incluido el abandono por parte de quienes son responsables de su cuidado; y
 - [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying), como el constructo de conducta pautada para la conducta no deseada que degrada de forma material las condiciones protegidas en entornos asociativos, institucionales, de dependencia y cooperativos comparables.
 
 Estas definiciones hacen trabajos distintos, pero deben considerarse juntas cuando haga falta. Cuando la conducta daña a otros — ya sea de forma directa, indirecta, a lo largo del tiempo, a través de efectos acumulados, a través de sistemas o a nivel colectivo — el análisis del daño también debe preguntar si la conducta cruza el [Límite de daño colectivo](core_05_band_accountability.md#collective-harm-boundary) y, donde sea pertinente, si equivale a [Crueldad](core_05_band_accountability.md#cruelty), acoso o intimidación.
@@ -1510,6 +1511,7 @@ Estas definiciones hacen trabajos distintos, pero deben considerarse juntas cuan
 - [Daño psicológico](core_05_band_accountability.md#psychological-harm);
 - [Daño irreversible](core_05_band_accountability.md#irreversible-harm);
 - [Crueldad](core_05_band_accountability.md#cruelty);
+- [Crueldad animal](core_05_band_accountability.md#animal-cruelty);
 - [Acoso e intimidación](core_05_band_accountability.md#harassment-and-bullying).
 
 **Antielusión.** Un asunto dentro del ámbito de admisión no debe dividirse en preguntas separadas de daño individual, daño colectivo, crueldad, acoso e intimidación, no imposición, materialidad, limitación de la libertad o remediación de un modo que:
@@ -1684,7 +1686,7 @@ También aplican los siguientes límites:
 - Origen: Principios: [3.1 Seguridad](core_01_a_values_principles.md#31-safety-harm-constraint); [9.6 Proceso antidegradante](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) (*piso de humillación, espectáculo y proceso como castigo*).
 - Piso titular: [Artículo XXIV-A](../../core_06_rights_part_d.md#article-xxiv-a-justice-objective-and-scope) (*piso anticrueldad*).
 - Componente de agrupación: agrupación [Límite de daño colectivo, daño, y acoso e intimidación](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster).
-- Leer con: [Daño](core_05_band_accountability.md#harm), [Daño psicológico](core_05_band_accountability.md#psychological-harm), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Capítulo Ocho §4.2](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions) (*pila de carácter de la conducta*) y [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos generales de trayectoria*).
+- Leer con: [Daño](core_05_band_accountability.md#harm), [Daño psicológico](core_05_band_accountability.md#psychological-harm), [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Reparación y remediación](core_05_band_accountability.md#redress-and-remediation-constitutional), [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Crueldad animal](core_05_band_accountability.md#animal-cruelty), [Naturaleza de la violación](core_05_band_accountability.md#violation-nature-chapter-six), [Capítulo Ocho §4.2](../../core_09_standing_assessment.md#42-violation-severity-input-dimensions) (*pila de carácter de la conducta*) y [Capítulo Nueve §4.2](../../core_10_standing_integration.md#42-prevention--general-standing-locks) (*bloqueos generales de trayectoria*).
 
 </details>
 
@@ -1714,7 +1716,7 @@ También aplican los siguientes límites:
     - Pruebe el sufrimiento como fin en sí mismo, la imposición gratuita o el diseño degradante / humillante bajo el [Principio de proceso antidegradante (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) y [Dignidad e igual dignidad moral](core_05_band_participation.md#dignity-and-equal-moral-standing).
     - Trate la humillación verificada por sí misma como el subtipo de humillación de [Crueldad](core_05_band_accountability.md#cruelty); no trate la adversidad reputacional ordinaria de una rendición de cuentas justa como ese subtipo.
     - Aplique [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) a cualquier justificación pretendida.
-    - Donde el bienestar animal esté implicado, lea con [Vida animal](core_05_band_participation.md#animal-life-constitutional).
+    - Donde el bienestar animal esté implicado, lea con [Vida animal](core_05_band_participation.md#animal-life-constitutional) y aplique [Crueldad animal](core_05_band_accountability.md#animal-cruelty).
     - Donde la trayectoria esté implicada, registre la crueldad solo a partir de hallazgos verificados bajo [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing) y manténgala en la pila de carácter de la conducta — no como un insumo de casilla.
 <a id="cruelty-c"></a>
 - **Qué debe sostenerse**
@@ -1724,6 +1726,62 @@ También aplican los siguientes límites:
     - humillación por sí misma bajo el [§9.6](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline);
     - usar formas de justicia, remedio, restricción o proceso para degradar, humillar, avergonzar o tomar represalia en vez de proteger, corregir, restaurar o prevenir — contrario al [Principio de proceso antidegradante (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline); o
     - tratar un hallazgo de crueldad como si moviera la casilla del Eje de Violación, o usar una etiqueta de crueldad no verificada como insumo de trayectoria.
+
+---
+
+<a id="animal-cruelty"></a>
+
+##### Crueldad animal
+
+<details>
+<summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
+
+- Origen: Principios: [4 Seguridad (restricción por daño)](core_01_a_values_principles.md#4-safety-harm-constraint); [3.3 Proceso antidegradante](core_01_a_values_principles.md#33-anti-degrading-process).
+- Piso titular: [Artículo I-A](../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Precondiciones ambientales e integridad ecológica*) como referencia del piso de crueldad / bienestar; [Artículo XX-A](../../core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*piso anticrueldad*).
+- Componente de agrupación: agrupación [Límite de daño colectivo, daño, y acoso e intimidación](core_05_band_accountability.md#collective-harm-boundary-and-harm-cluster) (subtipo de [Crueldad](core_05_band_accountability.md#cruelty)).
+- Leer con: [Crueldad](core_05_band_accountability.md#cruelty), [Vida animal](core_05_band_participation.md#animal-life-constitutional), [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional), [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion), [Clase de sustrato](core_05_band_participation.md#substrate-class), [Necesidad](core_05_band_accountability.md#necessity), [Proporcionalidad](core_05_band_accountability.md#proportionality), [Daño](core_05_band_accountability.md#harm), [Custodia](core_05_band_continuity.md#stewardship), [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions) e [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing).
+
+</details>
+
+<br>
+
+*En términos sencillos: la crueldad animal es la crueldad contra un animal. Consiste en hacer sufrir a un animal por sí mismo, o causar o permitir sufrimiento más allá de lo que permiten la necesidad y la proporcionalidad. Incluye el abandono por parte de quien sea responsable del cuidado del animal. La agricultura, la investigación, el control de plagas, la caza y la atención veterinaria no son crueldad automáticamente, pero tampoco quedan automáticamente excusados. Cada actividad debe superar la misma prueba de necesidad y proporcionalidad que todo lo demás. Llamar algo legal, tradicional o «simple ganado» no basta para superarla.*
+
+- **Qué es**
+  - **En alcance:** [Crueldad](core_05_band_accountability.md#cruelty), según su definición, cuando quien sufre está cubierto por el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional), por acción u omisión, que:
+    - inflige, diseña o continúa el sufrimiento como un fin en sí mismo, incluso para entretenimiento, gratificación, exhibición o competencia;
+    - añade sufrimiento gratuito más allá de lo que permiten la [Necesidad](core_05_band_accountability.md#necessity) y la [Proporcionalidad](core_05_band_accountability.md#proportionality), incluso en la forma de manipular, confinar, transportar, usar o matar a un animal; o
+    - no satisface, por parte de quien tiene a su cargo el cuidado, custodia o control, las necesidades básicas de un animal (alimento, agua, refugio, espacio, alivio del dolor o la enfermedad) cuando sabía o razonablemente debía haber sabido de esa falta, y se produce un sufrimiento que la [Necesidad](core_05_band_accountability.md#necessity) no justifica.
+    «Sufrimiento» aquí significa dolor físico, miedo, angustia o privación grave de necesidades básicas.
+  - **En alcance — quiénes:** La cobertura sigue el piso de [Vida animal](core_05_band_participation.md#animal-life-constitutional) en términos [agnósticos al sustrato](core_05_band_participation.md#substrate-agnostic) conforme a [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion). No es una prueba de especie, taxonomía ni propiedad. «Animal» nombra el piso; no lo limita.
+  - **En alcance — niveles superiores:** Cuando se aplica el trato de [Vida comunicativa elevada](core_05_band_participation.md#elevated-communicative-life-constitutional), [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional) o [Senciente](core_05_band_participation.md#sentient), la Crueldad animal es el mínimo, no el techo. Los mismos hechos también pueden activar directamente [Crueldad](core_05_band_accountability.md#cruelty) y el Capítulo Seis, y rige la norma más protectora.
+  - **Frontera — no es un umbral más alto:** La Crueldad animal no añade elementos que dificulten determinar [Crueldad](core_05_band_accountability.md#cruelty) en el caso de los animales. Cuando los hechos cumplen la prueba básica de Crueldad, constituyen Crueldad animal, se aplique o no la parte sobre custodia o abandono.
+  - **Frontera — justificaciones:** El tratamiento veterinario, la eutanasia para poner fin al sufrimiento, la defensa frente a un daño inminente y las prácticas de alimentación, investigación, control poblacional o de plagas se evalúan conforme a la [Necesidad](core_05_band_accountability.md#necessity) y la [Proporcionalidad](core_05_band_accountability.md#proportionality). Ninguna queda excluida por categoría ni excusada por etiqueta. El costo, la conveniencia, la tradición, la legalidad o la condición de propiedad por sí solos no demuestran necesidad.
+  - **Fuera de alcance:**
+    - daño accidental o imprevisible sin conocimiento, intención o desatención razonablemente evitable;
+    - sufrimiento necesario y proporcionado para un fin legítimo, incluido el cuidado que duele para sanar; o
+    - cuestiones de ecosistemas o biosfera sin dimensión de crueldad o bienestar — corresponden a [Trayectoria de los sistemas naturales](core_05_band_participation.md#natural-systems-standing).
+  - **Frontera de trayectoria:** Igual que para [Crueldad](core_05_band_accountability.md#cruelty): cuando se verifica como carácter de la conducta en un [registro de trayectoria de violación](core_05_band_accountability.md#standing-record-chapter-six), la Crueldad animal puede orientar la prevención, las salvaguardas y un remedio no degradante. No asigna ni mueve la casilla del Eje de Violación.
+<a id="animal-cruelty-a"></a>
+- **Cómo medir y evaluar**
+  - **Medida primaria:** [Familia de medición Rendición de cuentas](core_05_apex_accountability_leg.md#accountability-measurement-family) y [Familia de medición Florecimiento](core_05_apex_flourishing_aim.md#flourishing-measurement-family). Úselas aquí para preguntar qué experimentó realmente el animal y si el sufrimiento era el propósito, o se acumuló o permitió más allá de la necesidad y la proporcionalidad.
+
+    **Evaluación primaria:**
+    - Juzgue por los efectos reales sobre el bienestar del animal, usando indicadores de bienestar y la mejor evidencia disponible para ese tipo de animal. No juzgue por la etiqueta de especie, la propiedad ni el nombre de una categoría.
+    - Aplique primero la prueba de [Crueldad](core_05_band_accountability.md#cruelty). Luego pregunte sobre la custodia: ¿quien era responsable sabía, o razonablemente debía haber sabido, de la necesidad no satisfecha?
+    - Aplique [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) a cualquier justificación invocada. Evalúe si había razonablemente disponible un medio menos dañino.
+    - Evalúe las [Condiciones adversarias, escaladas y explotadas](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions), en especial los regímenes de producción a gran escala, experimentación, cautiverio, extracción y despliegue, donde las prácticas rutinarias pueden ocultar sufrimiento gratuito.
+    - Si el estatus es incierto, no use la incertidumbre para cerrar la cuestión. Consulte [No exclusión de la sentiencia](core_05_band_participation.md#sentience-non-exclusion) y [Vida de senciente controvertido](core_05_band_participation.md#contested-sentient-life-constitutional).
+    - Cuando esté implicada la trayectoria, registre el hallazgo solo a partir de insumos verificados conforme a [Insumos verificados para trayectoria](core_05_band_accountability.md#verified-inputs-for-standing).
+<a id="animal-cruelty-c"></a>
+- **Qué debe sostenerse**
+  - **Falla primaria:** Las prácticas incumplidoras incluyen:
+    - infligir, diseñar o continuar el sufrimiento de un animal como fin en sí mismo, incluso como entretenimiento o competencia;
+    - causar o permitir sufrimiento más allá de la necesidad y la proporcionalidad al manipular, confinar, transportar, usar o matar;
+    - abandono o descuido por parte de quien tiene a su cargo el cuidado, custodia o control, cuando la necesidad no satisfecha era conocida o razonablemente cognoscible;
+    - usar los encuadres «no es senciente» o «solo es propiedad / ganado / plaga» para eludir el análisis de bienestar (véase [Vida animal](core_05_band_participation.md#animal-life-constitutional));
+    - tratar la legalidad, la costumbre, el costo, la conveniencia o la propiedad como prueba suficiente de necesidad; o
+    - dividir una práctica en pasos pequeños, delegarla o ampliarla de modo que ningún paso sea llamado cruel aunque lo sea la práctica en conjunto.
 
 ---
 

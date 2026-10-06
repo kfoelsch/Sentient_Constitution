@@ -34,6 +34,7 @@ CORE_CHAIN = (
     "core_07_functional_independence_segregation_of_duties.md",
     "core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-certification-evaluation",
     "core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-certification-record-and-process",
+    "core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-certification-illustrations",
     "core_09_standing_assessment.md",
     "core_10_standing_integration.md",
     "core_11_a_misconduct_designation.md",

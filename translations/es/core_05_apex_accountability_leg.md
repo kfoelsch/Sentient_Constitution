@@ -83,7 +83,7 @@ Los **términos independientes y semiindependientes** viven bajo [Rendición de 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Leer con: [Capítulo Uno §11 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Estructura de mercado](core_01_c_stewardship_capacity_principles.md#13-market-structure), y [Capítulo Siete §3.7 Disciplina de gobernanza, incentivos e impugnabilidad](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline).
+- Leer con: [Capítulo Uno §11 Alineación de incentivos y captura del sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Estructura de mercado](core_01_c_stewardship_capacity_principles.md#13-market-structure), y [Capítulo Siete §3.6 Disciplina de gobernanza, incentivos e impugnabilidad](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline).
 
 </details>
 

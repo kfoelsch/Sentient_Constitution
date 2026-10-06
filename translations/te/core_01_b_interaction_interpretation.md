@@ -1,218 +1,335 @@
 <a id="chapter-01-part-b-interaction-and-interpretation"></a>
-# అధ్యాయం 01, భాగం బి: పరస్పర చర్య మరియు వ్యాఖ్యానం
+# అధ్యాయం 01, భాగం B: పరస్పర చర్య మరియు వ్యాఖ్యానం
 
 <details>
-<summary><strong><span style="color: #2563eb;">సంకలనంలో స్థానం (అసంచాలకం): ఫైల్ నిర్మాణం మరియు చదివే నియమాలు</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">కార్పస్‌లో స్థానం (కార్యనిర్వాహక స్వభావం లేనిది): ఫైల్ నిర్మాణం మరియు పఠన నియమాలు</span></strong></summary>
 
-> కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ ఫైల్‌లో లేదా ఇతర అధ్యాయాల్లో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు.
+> కింది విషయం **పాఠకుల మార్గదర్శనం మాత్రమే**. ఈ ఫైల్‌లోని ఇతర భాగాల్లో లేదా ఇతర అధ్యాయాల్లో ఉన్న బద్ధత కలిగిన బాధ్యతలను ఇది జోడించదు, తొలగించదు లేదా పరిమితం చేయదు.
 >
-> ఈ ఫైల్ [ఆంగ్ల అధ్యాయం ఒకటి, భాగం బి](../../core_01_b_interaction_interpretation.md)కు **పాఠక-భాష పైలట్**. ఇది సంజ్ఞ రాజ్యాంగంలో **బంధనీయ భాగం కాదు**. ఇది **రెండో రాజ్యాంగం కాదు**. ఇది **పంపిణీ సంచిక కాదు**. ఇది `SC-Corpus-2026.08.09`కు **పిన్**. ఈ అనువాదం, ఆంగ్ల మూలం వేరుగా కనిపిస్తే, సంఖ్యాత్మక [`core_01_b_interaction_interpretation.md`](../../core_01_b_interaction_interpretation.md) గెలుస్తుంది. చదివే క్రమం, సంచిక మెటాడేటా [README.md](../../README.md)లో ఉంటాయి. పద్ధతి, పదకోశం: [translations/te/README.md](README.md).
+> ఈ ఫైల్ **సెంటియెంట్ రాజ్యాంగంలో భాగం**; ఇతర సంఖ్యాక్రమంలో ఉన్న `core_*` ఫైళ్లతో కలిపి ఒకే సాధనంగా చదివినప్పుడే ఇది **బద్ధత కలిగినది**. ఇందులో **అధ్యాయం ఒకటి, భాగం B** (§§13–15: రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ, సంపూర్ణ అధిగమన నిషేధం, రాజ్యాంగ వ్యాఖ్యానం) ఉన్నాయి—సూత్రాలు ఘర్షణపడినప్పుడు, రాజ్యాంగాన్ని చదివేటప్పుడు రాజ్యాంగ చతుష్టయాన్ని సమగ్రంగా ఉంచే భాగం.
 >
-> **మునుపటి (ఈ భాషలో):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
->
-> **తదుపరి (ఈ భాషలో):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (అధ్యాయం ఒకటి, భాగం సి — §§9–15, బాధ్యతాయుత నిర్వహణ మరియు పాలన).
-> **చదివే చాపం:** §6 ప్రక్రియ సంఘర్షణ పరిష్కారం → §7 పూర్తి అధిగమన నిషేధం → §8 రాజ్యాంగ వ్యాఖ్యానం.
+> **మునుపటి భాగం:** [core_01_a_values_principles.md](core_01_a_values_principles.md) (అధ్యాయం ఒకటి, భాగం A — §§1–12, వికాసం మరియు నిరంతరత లక్ష్యాలు)  
+> **తదుపరి భాగం:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md) (అధ్యాయం ఒకటి, భాగం C — §§16–20, సంరక్షణాధికార నిర్వహణ, పాలన, ప్రోత్సాహకాల సమన్వయం, సమగ్ర అన్వయం).
+> **పఠన క్రమం:** §13 రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ (తూకం వేసే క్రమం, వెల్లడింపు పరిమితులు, నివారించగల భారాలు) → §14 సంపూర్ణ అధిగమన నిషేధం → §15 రాజ్యాంగ వ్యాఖ్యానం (తప్పించుకునే మార్గం లేకపోవడం, ఉత్పన్న సమాచారం, నిర్వచనాలు, సందిగ్ధత, ప్రాధాన్య క్రమం).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">పాఠక మార్గదర్శకం (అసంచాలకం): అధ్యాయం ఐదు పదకోశ లంగరు మరియు క్లస్టర్ సూచిక</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">పాఠకుల మార్గదర్శనం (కార్యనిర్వాహక స్వభావం లేనిది): అధ్యాయం ఐదు పదజాల సూచిక మరియు సమూహాల పటం</span></strong></summary>
 
 <a id="chapter-one-part-a-chapter-five-vocabulary-anchor"></a>
 
-> కింది విషయం **కేవలం పాఠక మార్గదర్శకం**. ఇది ఈ ఫైల్‌లో లేదా ఇతర అధ్యాయాల్లో బంధనీయ కర్తవ్యాలను జోడించదు, తగ్గించదు, సంకుచితం చేయదు. విభాగం-వారీ **జాడ** మరియు **నిర్వచనాలు · అంచనా · అనుసరణ** విడ్జెట్లు ప్రతి § పదాన్ని భౌతికంగా పిలిచే చోట మార్గం, O/M/A/C లింకులు మోస్తాయి; ఈ బ్లాక్ భాగం ఎ ముగించిన పాఠకులకు అధ్యాయ-స్థాయి క్రాస్‌వాక్.
+> కింది విషయం **పాఠకుల మార్గదర్శనం మాత్రమే**. ఈ ఫైల్‌లోని ఇతర భాగాల్లో లేదా ఇతర అధ్యాయాల్లో ఉన్న బద్ధత కలిగిన బాధ్యతలను ఇది జోడించదు, తొలగించదు లేదా పరిమితం చేయదు. ప్రతి విభాగంలోని **జాడ** మరియు **నిర్వచనాలు · మూల్యాంకనం · అనుసరణ** విడ్జెట్లు, ప్రతి § ఒక పదాన్ని ప్రాధాన్యంగా ప్రస్తావించే చోట మార్గసూచికలు మరియు O/M/A/C లింకులను అందిస్తాయి. దీనికి భిన్నంగా, ఈ బ్లాక్ భాగం Aను ముగిస్తున్న పాఠకుల కోసం అధ్యాయ స్థాయి అనుసంధాన పట్టిక.
 
-**సూత్ర-పొర పదకోశం** (అధ్యాయం ఒకటి (భాగాలు ఎ మరియు బి)లో ప్రామాణిక ఇళ్ళు):
+**సూత్రాల పొర పదజాలం** (అధ్యాయం ఒకటి (భాగాలు A మరియు B)లోని ప్రామాణిక స్థానాలు):
 
-- [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, **సమయబద్ధత**, [భౌతిక పందెం](core_00_preamble.md#material-stake)కు అనుగుణంగా
-- [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — [సమున్నతి](core_00_preamble.md#flourishing) మరియు [కొనసాగింపు](core_00_preamble.md#continuity) (రాజ్యాంగ **కొనసాగింపు** లక్ష్యం, సంకలనంలో ఇతర చోట సంచాలక లేదా ప్రోటోకాల్ కొనసాగింపు నుండి వేరు)
-- [భౌతిక పందెం](core_00_preamble.md#material-stake) — చతుష్టయం కర్తవ్యాలకు ప్రభావం, ఆధారపడటం, ప్రమాదం స్కేలింగ్; సమగ్ర భౌతికత ([భౌతికత నిర్ణయం](../../core_05_band_oversight.md#materiality-determination)), కింది అధ్యాయం ఐదు నమోదులతో చదవండి
+- [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్యం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, **కాలానుగుణత**; ఇవి [ప్రాధాన్యమైన భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) మేరకు స్థాయీకరించబడతాయి
+- [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — [వికాసం](core_00_preamble.md#flourishing) మరియు [నిరంతరత](core_00_preamble.md#continuity) (రాజ్యాంగంలోని **నిరంతరత లక్ష్యం**; కార్పస్‌లోని ఇతర చోట్ల ఉన్న కార్యాచరణ లేదా ప్రోటోకాల్ నిరంతరతకు భిన్నమైనది)
+- [ప్రాధాన్యమైన భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) — చతుష్టయ బాధ్యతల కోసం ప్రభావం, ఆధారపడటం, ప్రమాదం స్థాయీకరణ; సమగ్ర భౌతికత ([భౌతికత](core_05_band_oversight.md#materiality))తో పాటు కింద ఉన్న అధ్యాయం ఐదు అంశాలతో చదవాలి
 
-**అధ్యాయం ఐదు ప్రతినిధి నిర్వచనాలు** (O/M/A/C తీరిక — భౌతికంగా సంబంధితమైనప్పుడు అధ్యాయాలు రెండు నుండి నాలుగు కింద జాడ):
+**అధ్యాయం ఐదు ప్రాక్సీ నిర్వచనాలు** (O/M/A/C సంతృప్తి — భౌతికంగా సంబంధితమైనప్పుడు అధ్యాయాలు రెండు నుంచి నాలుగు వరకు జాడను అనుసరించాలి):
 
-- [శ్రేయస్సు](../../core_05_band_continuity.md#wellbeing) (సమున్నతి లక్ష్యం)
-- [పర్యవేక్షణ](../../core_05_band_accountability.md#oversight), [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability), [పాలన](../../core_05_band_accountability.md#governance), [వర్గీకరణ-స్కేల్ పాలన](../../core_05_band_oversight.md#classification-scaled-governance)
-- [భౌతికం](../../core_05_band_oversight.md#material), [భౌతిక ప్రభావం](../../core_05_band_oversight.md#material-impact), [భౌతిక ప్రమాదం](../../core_05_band_oversight.md#material-risk), [భౌతికత నిర్ణయం](../../core_05_band_oversight.md#materiality-determination) (విడ్జెట్లు దీన్ని **భౌతికత** అని లేబుల్ చేస్తాయి), [వ్యవస్థాగత భౌతికత](../../core_05_band_accountability.md#systemic-materiality) — క్లస్టర్: [భౌతికత, ప్రభావం, ప్రమాదం, ప్రతినిధి సమగ్రత](../../core_05_band_oversight.md#materiality-semi-independent)
+- [శ్రేయస్సు](core_05_band_continuity.md#wellbeing) (వికాస లక్ష్యం)
+- [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight), [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [సవాలు చేయగల సామర్థ్యం](core_05_band_accountability.md#contestability), [పాలన](core_05_band_accountability.md#governance), [వర్గీకరణ స్థాయికి అనుగుణమైన పాలన](core_05_band_oversight.md#classification-scaled-governance)
+- [భౌతికమైనది](core_05_band_oversight.md#material), [భౌతిక ప్రభావం](core_05_band_oversight.md#material-impact), [భౌతిక ప్రమాదం](core_05_band_oversight.md#material-risk), [భౌతికత](core_05_band_oversight.md#materiality) (విడ్జెట్లు దీనికి **భౌతికత** అని పేరు పెడతాయి), [వ్యవస్థాగత భౌతికత](core_05_band_continuity.md#systemic-materiality) — సమూహం: [భౌతికత, ప్రభావం, ప్రమాదం, ప్రాక్సీ సమగ్రత](core_05_band_oversight.md#materiality-impact-risk-and-proxy-integrity)
 
-**ప్రధాన అధ్యాయం ఐదు §3 ఆధారిత క్లస్టర్లు** (ఉమ్మడి-పిలుపు సమూహాలు — భౌతికంగా సంబంధితమైనప్పుడు అధ్యాయాలు రెండు నుండి నాలుగుతో చదవండి):
+**అధ్యాయం ఐదు §3పై ఆధారపడే ప్రధాన సమూహాలు** (సంయుక్త ఆహ్వాన సమూహాలు — భౌతికంగా సంబంధితమైనప్పుడు అధ్యాయాలు రెండు నుంచి నాలుగుతో కలిపి చదవాలి):
 
-- [ప్రభావిత పక్ష స్థితి మరియు బరువు](../../core_05_band_participation.md#stakeholder-status-and-weight-cluster) (ప్రభావిత పక్షాల వ్యవస్థాగత పాల్గొనడం పొర)
-- [రాజ్యాంగ ఒప్పంద పొర](../../core_05_band_integrative.md#constitutional-contract-layer) మరియు [పాలన నిర్మాణం, పర్యవేక్షణ, ఆధారపడటం, వికేంద్రీకరణ, కేంద్రీకరణ, మార్కెట్ నిర్మాణం, నిష్క్రమణ-మార్గ సమగ్రత](../../core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)
-- [సంకలనం మరియు అధికార స్టాక్](../../core_05_band_integrative.md#corpus-authority-stack-supremacy-and-enforceability-cluster)
-- [జవాబుదారీతనం, సవాలు-యోగ్యత, సామూహిక జవాబుదారీతనం వైఫల్యం](../../core_05_band_integrative.md#accountability-contestability-and-collective-accountability-failure-cluster)
+- [భాగస్వామ్యుల స్థితి మరియు బరువు](core_05_band_participation.md#stakeholder-status-and-weight) (భాగస్వామ్యుల వ్యవస్థ భాగస్వామ్య పొర)
+- [రాజ్యాంగ ఒప్పంద పొర](core_05_band_integrative.md#constitutional-contract-layer) మరియు [పాలన నిర్మాణం, పర్యవేక్షణ, ఆధారపడటం, వికేంద్రీకరణ, కేంద్రీకరణ, మార్కెట్ నిర్మాణం, నిష్క్రమణ మార్గ సమగ్రత](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration)
+- [కార్పస్ మరియు అధికార స్థాయి క్రమం](core_05_band_integrative.md#defi1-corpus-and-authority-stack)
+- [జవాబుదారీతనం, సవాలు చేయగల సామర్థ్యం, సమిష్టి జవాబుదారీతనం వైఫల్యం](core_05_apex_accountability_leg.md#accountability)
 
-**CJS-3** (*అమలు మరియు క్రాస్-అమలు సంచాలక క్లస్టర్ లైబ్రరీ*) సంచాలక క్లస్టర్ దిక్సూచి (క్రాస్-అమలు ఉమ్మడి సంచాలక పదాలు — ఈ అధ్యాయం చతుష్టయం, లక్ష్యాలు, భౌతిక-పందెం స్కేలింగ్‌తో చదవండి):
+**CJS-3** (*కార్యాచరణ సమూహాల గ్రంథాలయం (oDef)*) — అమలుల మధ్య ఉమ్మడి కార్యాచరణ పదాల కోసం కార్యాచరణ సమూహాల దిక్సూచి; ఈ అధ్యాయంలోని చతుష్టయం, లక్ష్యాలు, ప్రాధాన్యమైన భౌతిక ప్రయోజన స్థాయీకరణతో కలిపి చదవాలి:
 
-- [CJS-3.1 రాజ్యాంగ దిక్సూచి మరియు క్లస్టర్ మ్యాప్](../../corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — చతుష్టయం కాలు, కొనసాగింపు లక్ష్యం, సమగ్ర క్రాస్-లెగ్ బ్యాండ్‌ల ప్రకారం నిర్వహించిన **CJS-3.2–CJS-3.23** క్లస్టర్లకు ప్రాథమిక ప్రవేశం
-
-</details>
-
-<br>
-
-<a id="6-process-conflict-resolution"></a>
-
-### 6. ప్రక్రియ సంఘర్షణ పరిష్కారం
-<details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
-
-- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — ప్రక్రియ, బహిర్గతం, ఢీకొనడం నిర్వహణ, పరిహారంలో పాల్గొనడం, పర్యవేక్షణ, జవాబుదారీతనం, సమయబద్ధత; [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
-- మూలం: సూత్రాలు: [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [5. స్వేచ్ఛ (పరిమిత కర్తృత్వం)](core_01_a_values_principles.md#5-freedom-bounded-agency), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding).
-- గమ్యం: [6.2.1 జ్ఞాన సమగ్రత సంరక్షణ](#621-preservation-of-epistemic-integrity), [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test), [డిఫాల్ట్ మధ్యంతర భంగిమ](#default-interim-posture), [7. పూర్తి అధిగమన నిషేధం](#7-prohibition-on-absolute-override).
-- గమ్యం: [అధ్యాయం ఆరు: పునాది హక్కులు](../../core_06_rights_part_a.md#chapter-six-foundational-rights) అంతటా అనుచ్ఛేదాల మధ్య సంఘర్షణలను పాలిస్తుంది.
-  - దీన్ని [అనుచ్ఛేదం XXIII: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీన-నిరోధ రక్షణలు](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards), [అనుచ్ఛేదం XXIV: సంఘర్షణ పరిష్కారం, ఎస్కలేషన్, అత్యవసర అనుపాతత](../../core_06_rights_part_d.md#article-xxiv-conflict-resolution-escalation-and-emergency-proportionality)తో చదవండి.
-  - సమీక్ష, అత్యవసరం, లేదా హక్కుల-సంఘర్షణ ప్రశ్నలు వచ్చే చోట వర్తింపజేయండి.
-- బాధ్యతాయుత నిర్వాహక ద్వారం (అసంచాలకం): బంధనీయ తదుపరి-అడుగు ప్రకటన: [సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన](#operative-steward-statement-interpretation). మద్దతు పాయింటర్లు దాన్ని సంకుచితం చేయలేవు.
+- [CJS-3.1 రాజ్యాంగ దిక్సూచి మరియు సమూహ పటం](corpus_joint_structure/cjs_03_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — **CJS-3.2** (*పర్యవేక్షణ: ప్రతిఫలిత పారదర్శకత, జవాబుదారీతనం పదాలు*) నుంచి **CJS-3.23** (*సమగ్రత: జోక్యం మరియు అధిగమన సమగ్రత పదాలు*) వరకు ఉన్న సమూహాలకు ప్రధాన ప్రవేశద్వారం; ఇవి చతుష్టయ భాగం, నిరంతరత లక్ష్యం, భాగాల మధ్య సమగ్ర పట్టీల ఆధారంగా క్రమబద్ధీకరించబడ్డాయి
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">పాఠకుల మార్గదర్శనం (కార్యనిర్వాహక స్వభావం లేనిది): భాగం B రాజ్యాంగ చతుష్టయాన్ని ఎలా సమగ్రంగా ఉంచుతుంది</span></strong></summary>
 
-<a id="operative-steward-statement-interpretation"></a>
-> **సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన.** **యజమాని:** అధ్యాయం ఒకటి §6 ప్రక్రియ సంఘర్షణ పరిష్కారం, §6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ సహా. అస్పష్టత: అధ్యాయం ఒకటి §8.3. సంస్థాగత వ్యాఖ్యానం: అనుచ్ఛేదం XXIII. **నిషేధిత చర్య:** లేని సంఘర్షణ నియమం కనిపెట్టకండి. ఢీకొనడాన్ని «గోప్యత ఎల్లప్పుడూ ఓడిపోతుంది» లేదా «ఆడిట్ ఎల్లప్పుడూ ఓడిపోతుంది»గా కుప్పకూల్చకండి. ఢీకొనడం పెండింగ్‌లో ఉన్నప్పుడు సాక్ష్యం నాశనం చేయకండి. ఢీకొనడం పెండింగ్‌లో ఉన్నప్పుడు విజేతను తయారు చేసే తిరుగులేని అడుగు తీసుకోకండి. **గడియారం:** సాక్ష్యం కాపాడండి. తిరుగులేని అడుగులు గడ్డకట్టండి. తిరుగుదల ఉన్న సమ్మతి అడుగులు కొనసాగించండి. ప్రభావిత పక్షాలు, వ్యాఖ్యాన మార్గానికి తెలియజేయండి. ఢీకొనడాన్ని వ్యాఖ్యానానికి మార్గం పెట్టండి. విజేతను తయారు చేయకండి.
+> కింది విషయం **పాఠకుల మార్గదర్శనం మాత్రమే**. ఈ ఫైల్‌లోని ఇతర భాగాల్లో లేదా ఇతర అధ్యాయాల్లో ఉన్న బద్ధత కలిగిన బాధ్యతలను ఇది జోడించదు, తొలగించదు లేదా పరిమితం చేయదు. ప్రతి విభాగంలోని **జాడ** విడ్జెట్లు ఆ విభాగం ఏ చతుష్టయ భాగాలను కలుపుతుందో తెలియజేస్తాయి; భాగం Bలోకి ప్రవేశించే పాఠకుల కోసం ఈ బ్లాక్ భాగ స్థాయి పటాన్ని అందిస్తుంది.
+
+**భాగం B ఏమి చేస్తుంది.** [భాగం A](core_01_a_values_principles.md) [రెండు రాజ్యాంగ లక్ష్యాలను](core_00_preamble.md#two-constitutional-aims) అభివృద్ధి చేస్తుంది. భాగం B కొత్త సూత్రాన్ని లేదా ఐదవ బాధ్యతను జోడించదు. ఇది [రాజ్యాంగ చతుష్టయాన్ని](core_00_preamble.md#constitutional-tetrad)—**భాగస్వామ్యం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, **కాలానుగుణత**, [ప్రాధాన్యమైన భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) మేరకు స్థాయీకరించబడినవిగా—మూడు సందర్భాల్లో సమగ్రంగా ఉంచుతుంది:
+
+- **సూత్రాలు ఘర్షణపడినప్పుడు** ([§13 రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process)): భద్రత మరియు సత్యానికి మొదటి ప్రాధాన్యం; సులభమైన పరిష్కారం కోసం చతుష్టయాన్ని బలహీనపరచకుండా, ఇతర ప్రతి తూకం దానిని కాపాడాలి.
+- **ఒక విలువను అతిగా ముందుకు నెట్టినప్పుడు** ([§14 సంపూర్ణ అధిగమన నిషేధం](#14-prohibition-on-absolute-override)): ఏ విలువను, లేదా రెండు లక్ష్యాల్లో దేనినీ, భౌతిక ప్రయోజనం కోరేదానికంటే దిగువకు ఒక భాగాన్ని ఖాళీ చేయడానికి ఉపయోగించరాదు.
+- **రాజ్యాంగాన్ని చదివినప్పుడు లేదా అన్వయించినప్పుడు** ([§15 రాజ్యాంగ వ్యాఖ్యానం](#15-constitutional-interpretation)): అదే చర్యకు పేరు మార్చడం, దానిని విభజించడం లేదా వేరే మార్గంలో నడిపించడం ద్వారా అవసరాన్ని తప్పించుకోలేరు; సందిగ్ధతను [అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect) వైపు అర్థం చేసుకోవాలి.
+
+**భాగం B ప్రతి భాగాన్ని ఎక్కడ కలిగి ఉంది.** ప్రతి విభాగపు జాడ అది కలిపే ప్రతి భాగాన్ని జాబితా చేస్తుంది. ఈ పట్టిక ప్రధాన స్థానాలను సూచిస్తుంది.
+
+| చతుష్టయ భాగం | భాగం B ఏది కార్యరూపంలో ఉంచుతుంది | భాగం Bలోని ప్రధాన స్థానాలు |
+|---|---|---|
+| **భాగస్వామ్యం** | రుజువు భారం ఎప్పుడూ పరిమితికి గురైన పక్షంపై పడదు; సవాలు, సమీక్ష, అప్పీల్‌కు సంబంధించిన మౌలిక హక్కులను శాశ్వతంగా తొలగించలేరు; వెల్లడింపు పరిమితులు సమాచారంతో కూడిన సవాలు సామర్థ్యాన్ని నిలబెట్టాలి; నివారించగల భారం కార్యనిర్వాహక సామర్థ్యాన్ని కుదిస్తుంది | [§13.1.1](#1311-necessity), [§13.1.4](#1314-constitutional-floors-safety-and-anti-degrading-process), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle), [§15.1.2](#1512-derived-information-principle) |
+| **పర్యవేక్షణ** | హానిని పూర్తిగా లెక్కిస్తారు; ఇతరులు పునర్నిర్మించి స్వతంత్రంగా సమీక్షించగల నిర్ణయాలు; పరిశీలన సాధ్యంగా ఉంచే వెల్లడింపు పరిమితులు; ఉద్దేశం నుంచి వేరుపడినప్పుడు మెట్రిక్‌లు లెక్కింపును ఆపుతాయి | [§13.1.2](#1312-harm-minimization), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2](#132-epistemic-disclosure-constraints), [§13.2.4](#1324-proxy-divergence-invalidation), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
+| **జవాబుదారీతనం** | పరిమితి విధించే పక్షమే రుజువు భారాన్ని మోస్తుంది; అధికారంతో పాటు సమాధానదాయకత పెరుగుతుంది; ప్రక్రియ హీనపరచకూడదు లేదా అవమానించకూడదు; ప్రతి వెల్లడింపు పరిమితిని తరువాత ఆడిట్ చేస్తారు | [§13.1.1](#1311-necessity), [§13.1.3](#1313-proportionality), [§13.1.4](#1314-constitutional-floors-safety-and-anti-degrading-process), [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§15.1](#151-constitutional-no-bypass-principle), [§15.1.2](#1512-derived-information-principle) |
+| **కాలానుగుణత** | పరిమితులకు కాలపరిమితి ఉంటుంది, వాటిని సమీక్షించవచ్చు, పునరుద్ధరణ మార్గం ఉంటుంది; పెండింగ్‌లో ఉన్న రాజ్యాంగ ఘర్షణ వర్తించే గడియారం ప్రకారం నడుస్తుంది; వాయిదా వేసిన వెల్లడింపు చివరకు జరుగుతుంది; నివారించగల జాప్యం నివారించగల భారమే; అత్యవసర పరిమితీకరణకు కాలపరిమితి ఉంటుంది | [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), [§13.2.1](#1321-preservation-of-epistemic-integrity), [§13.3](#133-minimization-of-avoidable-burden), [§15.1](#151-constitutional-no-bypass-principle), [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) |
+
+**ఏ భాగాన్నీ నేరుగా కలపని విభాగాలు.** [§15.1.1 విభజన-వ్యతిరేక సూత్రం](#1511-anti-segmentation-principle), అలాగే [§15.4.1](#1541-integrated-reading) నుంచి [§15.4.3](#1543-incorporation-layer) వరకు, పాఠ్యాన్ని ఎలా చదవాలో మరియు ఏ మూలపొర నియంత్రించాలో నిర్దేశిస్తాయి. ఉద్దేశపూర్వకంగా, వాటి జాడల్లో చతుష్టయ పంక్తి ఉండదు.
+
+**కాలానికి రెండు అర్థాలు.** భాగం Bలో కాలం రెండు అర్థాల్లో కనిపిస్తుంది. దీర్ఘకాల పరిధులు (వాయిదా పడిన, కూడికైన హాని; మరియు [అధ్యాయం ఎనిమిది §3.5 కాల-స్థిరత్వ పరిమితి](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint), [§13.1.2](#1312-harm-minimization)లో అన్వయించబడినది) **నిరంతరత** లక్ష్యానికి చెందుతాయి. గడువులు, సమీక్ష చక్రాలు, ఆలస్యం (పరిమితుల కాలపరిమితులు, చివరకు జరిగే వెల్లడింపు, నివారించగల ఆలస్యం) **కాలానుగుణత** భాగానికి చెందుతాయి.
+
+**రెండు అక్షాలు, ఘర్షణ కాదు.** భాగం A లక్ష్యాలు ఉమ్మడి వ్యవస్థలు దేనిని సాధించాలనుకుంటాయో చెబుతాయి. భాగం B ఏ తూకం, అధిగమనం లేదా వ్యాఖ్యానమూ ఏది తొలగించలేదో చెబుతుంది.
 
 </details>
 
 <br>
+<a id="13-constitutional-collision-resolution-process"></a>
 
-*సాధారణ మాటల్లో: విలువలు, హక్కులు ఢీకొంటాయి — **భద్రత**, **సత్యం** ముందు. తర్వాత, పరిమితులు అనుపాతం, అవసరం, హాని-తగ్గింపు, వీలైనంత తేలికగా ఉండాలి. సౌకర్యం కోసం సత్యం దాచకూడదు; సౌలభ్యం కోసం గోప్యత తీయకూడదు; స్వేచ్ఛ పరిమితులు [§5.1](core_01_a_values_principles.md#51-limitation-discipline) కింద వర్తిస్తాయి; హక్కుల సంఘర్షణలకు డాక్యుమెంట్ చేసిన నిర్ణయ పరీక్ష అవసరం; అనుసరణ గురించి అబద్ధం చెప్పే మెట్రిక్‌లు లెక్క కావు. స్వల్ప-క్షితిజ అనుకూలీకరణ [అధ్యాయం ఏడు §3.6 కాల-స్థిరత్వ పరిమితి](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) కింద అంచనా దాటదు. **§6.1–§6.3** లాభనష్ట నియమాలు, బహిర్గతం, గోప్యత పరిమితులు, హక్కుల-సంఘర్షణ ప్రక్రియ మోస్తాయి.*
+### 13. రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ
+<details>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-సంఘర్షణలు వాటిని ఉల్లంఘించకుండా పరిష్కరించలేని చోట **భద్రత**, **సత్యం** ప్రాధాన్యత తీసుకుంటాయి.
+- దీనితో కలిసి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — విధానం, వెల్లడింపు, రాజ్యాంగ ఘర్షణల నిర్వహణ, పరిహారంలో భాగస్వామ్యం, పర్యవేక్షణ, జవాబుదారీతనం, కాలానుకూలత; అలాగే [సార్థక ప్రయోజనం](core_00_preamble.md#material-stake) స్థాయీకరణ.
+- పూర్వాధారం: సూత్రాలు: [3. మౌలిక లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [7. స్వేచ్ఛ (పరిమిత స్వయంప్రేరణ)](core_01_a_values_principles.md#7-freedom-bounded-agency), మరియు [§16 సంరక్షక బాధ్యతను లోతుగా అర్థం చేసుకోవడం](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- అనంతర ఆధారాలు: [13.2.1 జ్ఞాన సమగ్రతను కాపాడటం](#1321-preservation-of-epistemic-integrity), [రాజ్యాంగ ఘర్షణ నమోదు](core_05_band_integrative.md#constitutional-collision-record), [ప్రామాణిక మధ్యంతర వైఖరి](#default-interim-posture), మరియు [14. సంపూర్ణ అధిగమన నిషేధం](#14-prohibition-on-absolute-override).
+- [ఆరవ అధ్యాయం: మౌలిక హక్కులు](core_06_rights_part_a.md#chapter-six-foundational-rights) అంతటా అధికరణాల మధ్య ఘర్షణలను నియంత్రిస్తుంది.
+  - దీన్ని [అధికరణ XXIV: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీనీకరణ నిరోధక రక్షణలు](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) మరియు [అధికరణ XX: ధృవీకరించిన ఉల్లంఘన తర్వాత న్యాయం](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) తో కలిసి చదవండి.
+  - సమీక్ష, అత్యవసర పరిస్థితి లేదా రాజ్యాంగ ఘర్షణకు సంబంధించిన ప్రశ్నలు వచ్చినప్పుడు దీన్ని వర్తింపజేయండి.
 
-ఇతర లాభనష్టాలు [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad)ను కాపాడాలి — [భౌతిక పందెం](core_00_preamble.md#material-stake)కు అనుగుణమైన **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, **సమయబద్ధత** — సులభ పరిష్కారం కొనడానికి బలహీనపరచకూడదు.
-
-ప్రతి ఒక్కటి సరిగా కనిపించే చాలా చిన్న నిర్ణయాలు ఇంకా ఈ రాజ్యాంగం తిరస్కరించే ఫలితంగా కలవవచ్చు. విలువలు లేదా పరిమితులు సంఘర్షించే చోట, వ్యవస్థలు **§6.1** నుండి **§6.3** కింద పరిష్కరించాలి.
-
-<a id="61-core-tradeoff-principles"></a>
-#### 6.1 కేంద్ర లాభనష్ట సూత్రాలు
+</details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మదింపు · అనుసరణ</span></strong></summary>
 
-*పరిధి.* [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](#61-core-tradeoff-principles) — లాభనష్ట స్టాక్‌లో ఆవశ్యకత, హాని తగ్గింపు, హానికి నిర్వచనాలు.
-
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [హాని తగ్గింపు (లాభనష్ట ఎంపిక)](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [హాని](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
-
-</details>
-
-<br>
-
-*సాధారణ మాటల్లో: ఏదైనా పరిమితం చేయాల్సినప్పుడు, పరిహారాన్ని సమస్యకు సరిపోయేలా చేయండి — ఇంకా పని చేసే తేలికైన అడుగు వాడండి, అతి తక్కువ హాని ఎంపిక ఎంచుకోండి, భద్రత, సత్యం, హక్కులు ఇప్పటికే తీరిన తర్వాత అతి తక్కువ సంజ్ఞ సమయం వ్యర్థం చేయండి. హాని తిరుగులేనిది లేదా వ్యవస్థలను లాక్ చేయగలిగితే గడప త్వరగా పెరుగుతుంది.*
-
-**స్టాక్ ఎలా చదవాలి:** ఈ నియమాలను స్వతంత్ర అనుమతులుగా కాకుండా ఒక క్రమంగా వర్తింపజేయండి.
-- **[§6.1.1 ఆవశ్యకత](#611-necessity)** పరిమితి అసలు అవసరమా, లేదా తక్కువ-పరిమిత సహేతుకంగా ప్రభావవంతమైన ప్రత్యామ్నాయం రాజ్యాంగ పని చేయగలదా అని అడుగుతుంది. పరిమితం చేసేవారిపై రుజువు భారం.
-- **[§6.1.2 హాని తగ్గింపు](#612-harm-minimization)** సంజ్ఞ ప్రాణులు, వ్యవస్థలు, కాల క్షితిజాల అంతటా అతి తక్కువ హాని రాజ్యాంగపరంగా తగిన ఎంపిక కోరుతుంది.
-- **[§6.1.3 అనుపాతత](#613-proportionality)** ఎంచుకున్న పరిమితి స్కేల్ పరిష్కరించిన హాని పరిమాణం, సంభావ్యత, వ్యవస్థాగత స్వభావానికి సరిపోతుందా అని ధృవీకరిస్తుంది.
-- **[§6.1.4 రాజ్యాంగ హక్కుల-నేల కనిష్ఠాలు, భద్రత, ప్రక్రియ-స్వభావ పరిమితులు](#614-constitutional-floors-safety-and-process-character-constraints)** అవసరమైన, హాని-తగ్గించే, సరిగా అనుపాత పరిమితి తర్వాత కూడా నిలిచే పూర్తి పరిమితులు చెబుతుంది: కొన్ని హక్కుల-నేల కనిష్ఠాలు శాశ్వతంగా తుడిచేయలేవు, భద్రత సమర్థన మరియు పరిమితిగా పని చేస్తుంది, ప్రక్రియ స్వభావం అవమానం, ప్రదర్శన, లేదా ప్రతీకారంగా క్షీణించకూడదు.
-- **[§6.1.5 అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)** ముందు పరీక్షలు దాటిన ఏ పరిమితి రూపాన్ని పాలిస్తుంది: అతి తేలికైన ప్రభావవంతమైన చర్య వాడాలి, స్వతంత్రంగా సమీక్షించదగినదిగా ఉండాలి, ఈ రాజ్యాంగం నిలకడ పరిమితిని స్పష్టంగా అనుమతించనంతవరకు తాత్కాలికం కావాలి.
-
-లాభనష్ట స్టాక్ తీరిన తర్వాత, **[§6.3 నివారించదగిన భారం తగ్గింపు](#63-minimization-of-avoidable-burden)** ఫలిత రూపకల్పనకు వర్తిస్తుంది: వ్యవస్థలు అతి తక్కువ సంజ్ఞ సమయం, శ్రద్ధ, ప్రయత్నం వ్యర్థం చేసే ఎంపికను ప్రాధాన్యం ఇవ్వాలి.
-
-<br>
-
-<a id="611-necessity"></a>
-##### 6.1.1 ఆవశ్యకత
-
-<details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
-
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [సాధ్యత](../../core_05_band_accountability.md#feasibility) · [O](../../core_05_band_accountability.md#feasibility) · [M](../../core_05_band_accountability.md#feasibility-a) · [A](../../core_05_band_accountability.md#feasibility-a) · [C](../../core_05_band_accountability.md#feasibility-c)
-- [స్వేచ్ఛ (పరిమిత కర్తృత్వం)](../../core_05_band_participation.md#freedom-bounded-agency) · [O](../../core_05_band_participation.md#freedom-bounded-agency) · [M](../../core_05_band_participation.md#freedom-bounded-agency-a) · [A](../../core_05_band_participation.md#freedom-bounded-agency-a) · [C](../../core_05_band_participation.md#freedom-bounded-agency-c)
-- [అర్థవంతమైన కర్తృత్వం](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [రాజ్యాంగ ఘర్షణ](core_05_band_integrative.md#constitutional-collision) · [O](core_05_band_integrative.md#constitutional-collision) · [M](core_05_band_integrative.md#constitutional-collision-a) · [A](core_05_band_integrative.md#constitutional-collision-a) · [C](core_05_band_integrative.md#constitutional-collision-c)
+- [భాగస్వామ్యం](core_05_apex_participation_leg.md#participation-constitutional) · [O](core_05_apex_participation_leg.md#participation-constitutional) · [M](core_05_apex_participation_leg.md#participation-constitutional-m) · [A](core_05_apex_participation_leg.md#participation-constitutional-a) · [C](core_05_apex_participation_leg.md#participation-constitutional-c)
+- [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
+- [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
+- [కాలానుకూలత](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [O](core_05_apex_timeliness_leg.md#timeliness-constitutional) · [M](core_05_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](core_05_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](core_05_apex_timeliness_leg.md#timeliness-constitutional-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: తక్కువ-పరిమిత ప్రభావవంతమైన ప్రత్యామ్నాయం లేనప్పుడు మాత్రమే పరిమితి అంటుకుంటుంది. పరిమితం విధించే పక్షం ఆ రుజువు భారం మోస్తుంది — స్వేచ్ఛ పరిమితం అయ్యే పక్షం కాదు. సౌకర్యం, సంస్థాగత అలవాటు, «మేము ఎప్పుడూ ఇలా చేశాం» ఆవశ్యకత రుజువు చేయవు. తేలిక ఎంపిక పని చేస్తే, భారీది అనుసరణ కాదు.*
+*సరళంగా చెప్పాలంటే: రాజ్యాంగ ఘర్షణలు తప్పవు — **భద్రత**, **సత్యం** ముందుంటాయి. ఆ తర్వాత పరిమితులు అనుపాతబద్ధంగా, అవసరమైనవిగా, హానిని తగ్గించేవిగా, సాధ్యమైనంత తేలికగా ఉండాలి. సౌకర్యం కోసం సత్యాన్ని దాచరాదు; వెసులుబాటు కోసం గోప్యతను తొలగించరాదు; స్వేచ్ఛపై పరిమితులు [§7.1 పరిమితుల క్రమశిక్షణ](core_01_a_values_principles.md#71-limitation-discipline) ప్రకారం వర్తిస్తాయి; హక్కులకు సంబంధించిన రాజ్యాంగ ఘర్షణలకు లిఖితపూర్వక నిర్ణయ పరీక్ష అవసరం; అనుసరణ గురించి తప్పుడు చిత్రం చూపే కొలమానాలకు విలువ ఉండదు. [ఎనిమిదవ అధ్యాయం §3.5 కాల-స్థిరత్వ పరిమితి](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint) ప్రకారం స్వల్పకాలిక ఆప్టిమైజేషన్ మదింపులో ఉత్తీర్ణం కాలేదు. **§13.1** (*మౌలిక పరస్పర-త్యాగ సూత్రాలు*) నుంచి **§13.3** (*తప్పించగల భారాన్ని తగ్గించడం*) వరకు పరస్పర-త్యాగ నియమాలు, వెల్లడింపు మరియు గోప్యత పరిమితులు, రాజ్యాంగ ఘర్షణ విధానం ఉన్నాయి.*
 
-**రుజువు భారం.** రాజ్యాంగ పరిమితి విధించే లేదా నిర్వహించే పక్షం పరిస్థితుల్లో తక్కువ-పరిమిత, సహేతుకంగా ప్రభావవంతమైన ప్రత్యామ్నాయం లేదని చూపించే భారం మోస్తుంది. స్వేచ్ఛ, కర్తృత్వం, లేదా ప్రవేశం పరిమితం అయ్యే పక్షం ప్రత్యామ్నాయాలు ఉన్నాయని రుజువు చేసే భారం మోయదు.
+భాగం బ మూడు సందర్భాల్లో చతుష్టయాన్ని సమగ్రంగా ఉంచుతుంది:
+- **[రాజ్యాంగ ఘర్షణలు](core_05_band_integrative.md#constitutional-collision) (ఈ విభాగం):** ఏ అంశాన్నీ బలహీనపరచకుండా వాటిని పరిష్కరిస్తుంది.
+- **మితిమీరిన అధిక్రమణ ([§14 సంపూర్ణ అధిగమన నిషేధం](#14-prohibition-on-absolute-override)):** ఏ ఒక్క విలువనైనా, రెండు లక్ష్యాల్లో దేనినైనా, మిగిలిన వాటిపై అధిగమించడానికి లేదా సార్థక ప్రయోజనం కోరే స్థాయికంటే దిగువన ఏ అంశాన్నైనా సారరహితం చేయడానికి నిషేధిస్తుంది.
+- **చదవడం మరియు అన్వయం ([§15 రాజ్యాంగ వ్యాఖ్యానం](#15-constitutional-interpretation)):** ఒకే చర్యకు పేరుమార్చడం, విభజించడం లేదా దారి మళ్లించడం ద్వారా అవసరాన్ని తప్పించడాన్ని నిషేధిస్తుంది; అస్పష్టతను [అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect) దిశగా అర్థం చేసుకుంటుంది.
 
-**ప్రత్యామ్నాయ-విశ్లేషణ అవసరం.** ఆవశ్యకత వాదనలు డాక్యుమెంట్ చేసిన విశ్లేషణతో ఆధారం చేయాలి:
-- చర్య-లేకపోవడం సహా సహేతుకంగా అందుబాటులో ఉన్న ప్రత్యామ్నాయాలు;
-- పరిష్కరించిన రాజ్యాంగ హానికి సంబంధించి ప్రతి ఒక్కటి ప్రభావం;
-- ప్రతి ప్రత్యామ్నాయం కింద మిగిలిన ప్రమాదం లేదా అసమతుల్యం.
+విలువలు లేదా పరిమితులు ఘర్షణ పడినప్పుడు:
+- **ప్రాధాన్యత:** వాటిని ఉల్లంఘించకుండా ఘర్షణను పరిష్కరించడం సాధ్యం కానప్పుడు **భద్రత**, **సత్యం** ప్రాధాన్యం పొందుతాయి.
+- **చతుష్టయ పరిరక్షణ:** ఇతర పరస్పర-త్యాగాలు [రాజ్యాంగ చతుష్టయాన్ని](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్యం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, **కాలానుకూలత**, [సార్థక ప్రయోజనం](core_00_preamble.md#material-stake) మేరకు స్థాయీకరించి — సులభ పరిష్కారం కోసం బలహీనపరచకుండా కాపాడాలి.
+- **సమిష్టి ప్రభావం:** విడిగా చూసినప్పుడు సముచితంగా కనిపించే అనేక చిన్న నిర్ణయాలు కలిపి ఈ రాజ్యాంగం తిరస్కరించే ఫలితాన్ని ఇవ్వవచ్చు.
+- **పరిష్కార స్థానం:** వ్యవస్థలు **§13.1** (*మౌలిక పరస్పర-త్యాగ సూత్రాలు*) నుంచి **§13.3** (*తప్పించగల భారాన్ని తగ్గించడం*) వరకు ఉన్న నిబంధనల ప్రకారం ఘర్షణలను పరిష్కరించాలి.
 
-ప్రత్యామ్నాయం లేదని వాదన, డాక్యుమెంట్ విశ్లేషణ లేకుండా, ఈ అవసరం తీర్చదు.
+**రేఖాచిత్రం: భాగం బ మరియు రాజ్యాంగ చతుష్టయం**
 
-**ఆవశ్యకత రుజువు చేయనివి:**
-- సౌకర్యం లేదా పరిపాలనా ప్రాధాన్యత;
-- డిఫాల్ట్ పద్ధతి, సంస్థాగత జడత్వం, లేదా సంప్రదాయం;
-- హక్కులు భౌతికంగా ప్రభావితమైన చోట ఖర్చు ఆదా మాత్రమే;
-- పరిమితి ఇప్పటికే ఉండటం.
+<hr style="border: 0; border-top: 1px solid currentColor;">
 
-**పరిధి.** ఈ ఉపవిభాగం ఏ రాజ్యాంగ పరిమితికీ వర్తిస్తుంది — కేవలం [§6.1.5](#615-rights-collision-decision-test) కింద హక్కుల-సంఘర్షణ సందర్భాలు మాత్రమే కాదు. పరిమితి [స్వేచ్ఛ (పరిమిత కర్తృత్వం)](../../core_05_band_participation.md#freedom-bounded-agency), [అర్థవంతమైన కర్తృత్వం](../../core_05_band_participation.md#meaningful-agency), లేదా [సమ్మతి](../../core_05_band_participation.md#consent-constitutional)పై భౌతికంగా భారం మోపితే, ఆవశ్యకత చూపింపు అంతే కఠినం కావాలి.
+```mermaid
+flowchart TB
+    PA["భాగం అ సూత్రాలు, రెండు రాజ్యాంగ లక్ష్యాలు<br/><br/>• శ్రేయస్సు మరియు కొనసాగింపు<br/>• ఘర్షణపడగల లేదా ఒకటి కంటే ఎక్కువ రీతుల్లో<br/>చదవగల సూత్రాలు, పరిమితులు"]
+    P13["§13 రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ<br/><br/>• భద్రత, సత్యం ముందుగా<br/>• ప్రతి ఇతర పరస్పర-త్యాగం చతుష్టయాన్ని కాపాడుతుంది<br/>• పరస్పర-త్యాగ క్రమం, వెల్లడింపు పరిమితులు,<br/>తప్పించగల భారం"]
+    P14["§14 సంపూర్ణ అధిగమన నిషేధం<br/><br/>• ఏ విలువా తిరుగులేని పైచేయి కాదు<br/>• రెండు లక్ష్యాల్లో ఏదీ మరొకదానిపై అధిగమించదు<br/>• సార్థక ప్రయోజన స్థాయికంటే దిగువకు ఏ అంశమూ సారరహితం కాదు"]
+    P15["§15 రాజ్యాంగ వ్యాఖ్యానం<br/><br/>• తప్పించడాన్ని, విభజనను నిషేధించడం,<br/>ఉత్పన్న సమాచారం<br/>• అస్పష్టతను సమగ్ర మొత్తంగా చదవడం<br/>• మూల-స్థాయి ప్రాధాన్యత"]
+    TT["రాజ్యాంగ చతుష్టయం<br/><br/>• సమగ్రంగా ఉంచి, సార్థక ప్రయోజనం మేరకు స్థాయీకరణ<br/>• భాగస్వామ్యం · పర్యవేక్షణ · జవాబుదారీతనం · కాలానుకూలత"]
+    P["భాగస్వామ్యం<br/><br/>• భారం ఎప్పుడూ పరిమితికి గురైన పక్షంపై ఉండదు<br/>• అభ్యంతరం, అప్పీల్ హక్కులు కొనసాగుతాయి"]
+    O["పర్యవేక్షణ<br/><br/>• హాని పూర్తిగా లెక్కించబడుతుంది<br/>• ఇతరులు నిర్ణయాలను పునర్నిర్మించి<br/>స్వతంత్రంగా సమీక్షించగలరు"]
+    A["జవాబుదారీతనం<br/><br/>• పరిమితి విధించేవారే భారాన్ని మోయాలి<br/>• అధికారం పెరిగే కొద్దీ జవాబుదారీతనం పెరుగుతుంది"]
+    T["కాలానుకూలత<br/><br/>• పరిమితులకు గడువు, సమీక్ష ఉంటాయి<br/>• ఆలస్యం పరిహారాన్ని అడ్డుకోరాదు"]
+    PA --> P13
+    PA --> P14
+    PA --> P15
+    P13 --> TT
+    P14 --> TT
+    P15 --> TT
+    TT --> P
+    TT --> O
+    TT --> A
+    TT --> T
+    style PA fill:none,stroke:#16a34a,color:#ffffff
+    style P13 fill:none,stroke:#2563eb,color:#ffffff
+    style P14 fill:none,stroke:#2563eb,color:#ffffff
+    style P15 fill:none,stroke:#2563eb,color:#ffffff
+    style TT fill:none,stroke:#2563eb,color:#ffffff
+    style P fill:none,stroke:#0f766e,color:#ffffff
+    style O fill:none,stroke:#ea580c,color:#ffffff
+    style A fill:none,stroke:#db2777,color:#ffffff
+    style T fill:none,stroke:#9333ea,color:#ffffff
+```
 
-<a id="612-harm-minimization"></a>
-##### 6.1.2 హాని తగ్గింపు
-
-<details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
-
-- [హాని తగ్గింపు (లాభనష్ట ఎంపిక)](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [హాని](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
-- [పర్యావరణ సమగ్రత](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [O](../../core_05_band_continuity.md#ecological-integrity-constitutional) · [M](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-integrity-constitutional-c)
-- [పర్యావరణ పునరుద్ధరణ సామర్థ్యం](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [ప్రమాదం](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [తిరుగులేని హాని](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
-
-</details>
-
-<br>
-
-*సాధారణ మాటల్లో: [§6.1.1](#611-necessity) తీరిన తర్వాత బహుళ అవసరమైన ఎంపికలు మిగిలితే, అతి తక్కువ మొత్తం హాని కలిగించేదాన్ని ఎంచుకోండి — ప్రభావితమైన ప్రతి ఒక్కరిని, పర్యావరణ వ్యవస్థలు, జీవ వ్యవస్థలు, తాకిన అన్ని వ్యవస్థలు, ముఖ్యమైన అన్ని కాల క్షితిజాలు లెక్కించి. స్థానికంగా అనుకూలీకరించి వ్యవస్థాగత లేదా పర్యావరణ నష్టం సృష్టించడం, లేదా స్వల్పకాలంలో అనుకూలీకరించి దీర్ఘకాల హాని సృష్టించడం ఈ పరీక్ష విఫలమవుతుంది. హాని తగ్గింపు [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints)లో రాజ్యాంగ నేలల కిందకు నెట్టడానికి అధికారం ఇవ్వదు.*
-
-**పోలిక పరిధి.** బహుళ రాజ్యాంగపరంగా తగిన ఎంపికలు [భద్రత (§3.1)](core_01_a_values_principles.md#31-safety-harm-constraint), [సత్యం (§3.2)](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1.1 ఆవశ్యకత](#611-necessity) తీరిస్తే, ఎంపిక ఈ అంతటా మొత్తం [హాని](../../core_05_band_accountability.md#harm) తగ్గించే ఎంపికను ప్రాధాన్యం ఇవ్వాలి:
-- నేరుగా, పరోక్షంగా ప్రభావితమైన సంజ్ఞ ప్రాణులు;
-- ఫలితం మోసే, మధ్యవర్తిత్వం చేసే, లేదా ఆధారపడే వ్యవస్థలు;
-- పర్యావరణ, జీవ వ్యవస్థలు, [పర్యావరణ సమగ్రత](../../core_05_band_continuity.md#ecological-integrity-constitutional) సహా, హాని తర్వాత పునరుద్ధరణ భౌతికమైన చోట [పర్యావరణ పునరుద్ధరణ సామర్థ్యం](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional);
-- ఆలస్య, సంచిత ప్రభావాలు సహా సంబంధిత కాల క్షితిజాలు.
-
-**సమాకలనం అవసరం.** హాని అంచనా సమాకలనం చేయాలి:
-- గుర్తించిన పక్షాలకు నేరుగా హానులు;
-- వ్యవస్థలు, ఆధారపడటాలు, లేదా పూర్వోదాహరణ ద్వారా ప్రసారం అయ్యే పరోక్ష హానులు;
-- కాలంతో భౌతికమయ్యే ఆలస్య హానులు;
-- పునరావృత లేదా కూడిక నిర్ణయాల నుండి సంచిత హానులు;
-- ఒక డొమైన్‌లో చర్య మరొకదానిలో హాని ఉత్పత్తి చేసే వ్యవస్థల మధ్య ప్రభావాలు;
-- బాహ్యీకరించిన, ఆలస్య, సంచిత, పునరుద్ధరణ-సామర్థ్య ప్రభావాలు సహా పర్యావరణ హాని.
-
-కిందివి అనుసరణ కావు:
-- గుర్తించిన పక్షాలకు హాని-తగ్గింపుగా కనిపించేందుకు పర్యావరణ వ్యవస్థలు, గుర్తించని సంజ్ఞ ప్రాణులు, లేదా ఇతర లెక్కించని పక్షాలపై హాని బాహ్యీకరించడం;
-- పెద్ద వ్యవస్థాగత, సమగ్ర, లేదా పర్యావరణ హాని సృష్టిస్తూ స్థానిక లేదా తక్షణ హాని మాత్రమే అనుకూలీకరించడం.
-
-**కాల-క్షితిజ క్రమశిక్షణ.** దీర్ఘకాల వ్యవస్థాగత ఖర్చుతో స్వల్పకాల అనుకూలీకరణ ఈ పరీక్ష విఫలమవుతుంది. హాని తగ్గింపు [అధ్యాయం ఏడు §3.6 కాల-స్థిరత్వ పరిమితి](../../core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint)ను లెక్కించాలి: ప్రస్తుత కాలంలో హాని-తగ్గింపుగా కనిపించి సంబంధిత రాజ్యాంగ కాల క్షితిజం అంతటా అంచనా-యోగ్యంగా ఎక్కువ హాని సృష్టించే నిర్ణయం అనుసరణ కాదు.
-
-**రాజ్యాంగ నేలలతో సంబంధం.** హాని తగ్గింపు [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints)లో చెప్పిన రాజ్యాంగ నేలల *పైన* పని చేస్తుంది. ఇది ఎప్పుడూ అధికారం ఇవ్వదు:
-- హక్కుల-నేల కనిష్ఠాల శాశ్వత తుడిచేయడం;
-- ప్రక్రియ స్వభావం క్షీణింపు — అవమానం, ప్రదర్శన, ప్రతీకారం, వివక్షా భారం, లేదా సౌకర్యం-నడిపిన హక్కుల క్షీణతగా రూపొందించిన, ఫ్రేమ్ చేసిన, లేదా నిర్వహించిన పరిమితి, పరిహారం, లేదా ప్రక్రియ ([§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints));
-- భద్రత నేల కిందకు నెట్టడం.
-
-హాని తగ్గింపు ఆ నేలలు ఇప్పటికే దాటిన ఎంపికల మధ్య ఎంచుకుంటుంది — వాటి కింద వర్తకం చేయదు.
-
-<a id="613-proportionality"></a>
-##### 6.1.3 అనుపాతత
+*భాగం అ సూత్రాలు, లక్ష్యాలు ఘర్షణపడవచ్చు; వాటిని ఒకటి కంటే ఎక్కువ రీతుల్లో చదవవచ్చు. భాగం బ రాజ్యాంగ ఘర్షణలను పరిష్కరిస్తుంది, అధిగమనాన్ని నిషేధిస్తుంది, పాఠ్యాన్ని ఎలా చదవాలో నిర్ధారిస్తుంది; తద్వారా సార్థక ప్రయోజనం కోరే స్థాయిలో చతుష్టయంలోని ప్రతి అంశం వాస్తవంగా నిలుస్తుంది. రూపురేఖల రంగులు చతుష్టయ అంశాల రంగులనే తిరిగి ఉపయోగించే దృశ్య సూచనలు మాత్రమే; అవి ప్రాధాన్యతను సూచించవు. ప్రతి విభాగంలోని అనుసరణ అది స్పృశించే అంశాలను పేరుపెట్టి చెబుతుంది.*
+<a id="131-core-tradeoff-principles"></a>
+#### 13.1 ప్రధాన తూకం సూత్రాలు
 
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- దీనితో చదవండి: [§10.1 అధికారిత నిర్మాణంగా పాలన](core_01_c_stewardship_capacity_principles.md#101-governance-as-authorized-structure).
+- వీటితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — తూకం క్రమమంతటా నాలుగు భాగాలూ వర్తిస్తాయి: **జవాబుదారీతనం** మరియు **భాగస్వామ్యం** ([§13.1.1](#1311-necessity), భారాన్ని ఎవరు మోస్తారు), **పర్యవేక్షణ** ([§13.1.2](#1312-harm-minimization) మరియు [§13.1.5](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), హానిని సంపూర్ణంగా లెక్కించడం, ఇతరులు సమీక్షించగల రాజ్యాంగ ఘర్షణ రికార్డు), అలాగే **కాలానుగుణత** (§13.1.5, కాలపరిమితి గల మరియు సమీక్షించగల పరిమితులు); రుజువు భారం, పరిశీలన లోతు [భౌతిక ప్రయోజన పణం](core_00_preamble.md#material-stake) ప్రకారం స్థాయీకరించబడతాయి. ప్రతి ఉపవిభాగపు జాడ అది కలిపే భాగాలను పేర్కొంటుంది.
+- ఉపవిభాగాలు: [§13.1.1 అవసరం](#1311-necessity) · [§13.1.2 హాని తగ్గింపు](#1312-harm-minimization) · [§13.1.3 అనుపాతికత](#1313-proportionality) · [§13.1.4 రాజ్యాంగ కనీస హద్దులు, భద్రత, అవమానపరచని ప్రక్రియ](#1314-constitutional-floors-safety-and-anti-degrading-process) · [§13.1.5 అతి తక్కువ పరిమితి, కాలపరిమితి, సమీక్షయోగ్య పరిమితి సూత్రం](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
+
+*పరిధి.* [§13.1 ప్రధాన తూకం సూత్రాలు](#131-core-tradeoff-principles) — తూకం క్రమంలో అవసరం, హాని తగ్గింపు, హాని అనే పదాల నిర్వచనాలు.
+
+- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [హాని తగ్గింపు (తూకం ఎంపిక)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [హాని](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: ఏదైనా పరిమితం చేయాల్సి వస్తే, సమస్యకు సరిపోయే పరిష్కారాన్ని ఎంచుకోండి — పనిచేసే అత్యంత స్వల్ప చర్యను ఉపయోగించండి, తక్కువ హాని చేసే మార్గాన్ని ఎంచుకోండి, భద్రత, సత్యం, హక్కులు నెరవేరిన తర్వాత సజీవ చైతన్యమున్న జీవుల సమయాన్ని వీలైనంత తక్కువగా వృథా చేయండి. హాని తిరిగి సరిచేయలేనిదై ఉండవచ్చు లేదా వ్యవస్థలను ఒక స్థితిలో బంధించవచ్చు అనిపించినప్పుడు ప్రమాణం వేగంగా పెరుగుతుంది.*
+
+**తూకం క్రమాన్ని ఎలా చదవాలి:** ఈ నియమాలను వేర్వేరు అనుమతులుగా కాకుండా ఒకే క్రమంగా వర్తింపజేయండి.
+- **[§13.1.1 అవసరం](#1311-necessity)** పరిమితి అసలు అవసరమా, లేదా తక్కువ పరిమితిగల ప్రత్యామ్నాయం భౌతిక హాని లేదా వ్యవస్థాగత ప్రమాదాన్ని ఇంకా నిరోధించగలదా అని అడుగుతుంది. పరిమితి విధించేవారే రుజువు భారాన్ని మోస్తారు.
+- **[§13.1.2 హాని తగ్గింపు](#1312-harm-minimization)** చైతన్యమున్న జీవులు, వ్యవస్థలు, కాల పరిధులన్నింటిలో రాజ్యాంగపరంగా సరిపడే ఎంపికల్లో అత్యల్ప హాని కలిగించేదాన్ని కోరుతుంది.
+- **[§13.1.3 అనుపాతికత](#1313-proportionality)** ఎంచుకున్న పరిమితి స్థాయి, పరిష్కరించాల్సిన హాని పరిమాణం, సంభావ్యత, వ్యవస్థాగత స్వభావానికి సరిపోతుందా అని నిర్ధారిస్తుంది.
+- **[§13.1.4 రాజ్యాంగ కనీస హద్దులు, భద్రత, అవమానపరచని ప్రక్రియ](#1314-constitutional-floors-safety-and-anti-degrading-process)** అవసరమైన, హాని తగ్గించే, సరైన అనుపాతంలో ఉన్న పరిమితి ఉన్నప్పటికీ నిలిచే సంపూర్ణ హద్దులను నిర్దేశిస్తుంది: హక్కుల కనీస ప్రమాణాల్లో కొన్నింటిని శాశ్వతంగా రద్దు చేయలేరు; భద్రత సమర్థనగా, పరిమితిగా రెండురకాలుగా పనిచేస్తుంది; ప్రక్రియ అవమానం, ప్రదర్శన, ప్రతీకారంగా దిగజారకూడదు. హక్కుల కనీస ప్రమాణాలు, అవమానపరచని ప్రక్రియ హద్దు కలిపి [గౌరవ సూత్రాలు](#dignity-principles) అవుతాయి.
+- **[§13.1.5 అతి తక్కువ పరిమితి, కాలపరిమితి, సమీక్షయోగ్య పరిమితి సూత్రం](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)** ముందరి పరీక్షలను దాటిన ఏ పరిమితి రూపాన్నైనా నియంత్రిస్తుంది: ప్రభావవంతమైన చర్యల్లో అతి స్వల్పమైనదాన్ని ఉపయోగించాలి, స్వతంత్ర సమీక్షకు వీలుండాలి, ఈ రాజ్యాంగం దీర్ఘకాలిక పరిమితిని స్పష్టంగా అనుమతించకపోతే అది తాత్కాలికంగా ఉండాలి.
+
+తూకం క్రమం తీరిన తర్వాత, ఫలిత రూపకల్పనకు **[§13.3 నివారించగల భారాన్ని తగ్గించడం](#133-minimization-of-avoidable-burden)** వర్తిస్తుంది: చైతన్యమున్న జీవుల సమయం, శ్రద్ధ, కృషిని తక్కువగా వృథా చేసే ఎంపికకు వ్యవస్థలు ప్రాధాన్యం ఇవ్వాలి.
+
+**రేఖాచిత్రం: తూకం క్రమం మరియు ప్రతి దశ కలిపే చతుష్టయ భాగాలు**
+
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    C["§13 రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ<br/><br/>• విలువలు లేదా హక్కులు ఘర్షణపడతాయి<br/>• భద్రత, సత్యం ముందుగా"]
+    N["§13.1.1 అవసరం<br/><br/>• పరిమితి విధించేవారే రుజువు భారాన్ని మోస్తారు<br/>• ప్రత్యామ్నాయాలను రికార్డులో విశ్లేషిస్తారు<br/>• భాగాలు: జవాబుదారీతనం, భాగస్వామ్యం, పర్యవేక్షణ"]
+    H["§13.1.2 హాని తగ్గింపు<br/><br/>• చైతన్యమున్న జీవులు, వ్యవస్థలు,<br/>పర్యావరణ వ్యవస్థలు, కాల పరిధులన్నింటిలో అత్యల్ప మొత్తం హాని<br/>• భాగాలు: పర్యవేక్షణ, జవాబుదారీతనం"]
+    PR["§13.1.3 అనుపాతికత<br/><br/>• తిరుగులేనితనం, అధికారం పెరిగేకొద్దీ పరిశీలన పెరుగుతుంది<br/>• భాగాలు: జవాబుదారీతనం, పర్యవేక్షణ"]
+    FL["§13.1.4 రాజ్యాంగ కనీస హద్దులు, భద్రత,<br/>అవమానపరచని ప్రక్రియ<br/><br/>• గౌరవ సూత్రాల కంటే దిగువకు రాజీ పడరాదు<br/>• భాగాలు: భాగస్వామ్యం, జవాబుదారీతనం"]
+    R["§13.1.5 అతి తక్కువ పరిమితి, కాలపరిమితి,<br/>సమీక్షయోగ్య పరిమితి సూత్రం<br/><br/>• అత్యల్ప పరిమితి, కాలపరిమితి, సమీక్షయోగ్యత<br/>• పునర్నిర్మించగల రికార్డు, మధ్యంతర వైఖరి<br/>• భాగాలు: నాలుగూ"]
+    D["§13.2 జ్ఞాన సంబంధిత వెల్లడింపు పరిమితులు<br/><br/>• సత్యాన్ని వక్రీకరించకూడదు లేదా అణచకూడదు<br/>• పరిమిత లేదా ఆలస్య వెల్లడింపు నిర్దిష్ట షరతులకే లోబడి ఉంటుంది<br/>• భాగాలు: భాగస్వామ్యం, పర్యవేక్షణ, జవాబుదారీతనం, కాలానుగుణత"]
+    B["§13.3 నివారించగల భారాన్ని తగ్గించడం<br/><br/>• పరీక్షల్లో నెగ్గిన వాటిలో అతి తక్కువ భారం కలిగిన ఎంపిక<br/>• భాగాలు: భాగస్వామ్యం, కాలానుగుణత, పర్యవేక్షణ, జవాబుదారీతనం"]
+    C --> N --> H --> PR --> FL --> R --> B
+    C -.->|"వెల్లడింపు లేదా గోప్యత అంశంగా ఉన్నప్పుడు"| D
+    D --> B
+    style C fill:none,stroke:#64748b,color:#ffffff
+    style N fill:none,stroke:#2563eb,color:#ffffff
+    style H fill:none,stroke:#2563eb,color:#ffffff
+    style PR fill:none,stroke:#2563eb,color:#ffffff
+    style FL fill:none,stroke:#2563eb,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style D fill:none,stroke:#2563eb,color:#ffffff
+    style B fill:none,stroke:#2563eb,color:#ffffff
+```
+
+*రాజ్యాంగ ఘర్షణ ఈ క్రమాన్ని వరుసగా అనుసరిస్తుంది: అవసరం, హాని తగ్గింపు, అనుపాతికత, రాజ్యాంగ కనీస హద్దులు, చివరకు నిలిచే ఏ పరిమితి రూపం. వెల్లడింపు, గోప్యత ఘర్షణలకు §13.2 (*జ్ఞాన సంబంధిత వెల్లడింపు పరిమితులు*) కూడా వర్తిస్తుంది. పరీక్షల్లో నెగ్గిన ప్రతిదానికీ §13.3 (*నివారించగల భారాన్ని తగ్గించడం*) వర్తిస్తుంది. ప్రతి పెట్టె తన జాడ పేర్కొనే చతుష్టయ భాగాలను జాబితా చేస్తుంది. రంగులు దృశ్య సూచికలు మాత్రమే; ప్రాధాన్య వాదనలు కావు.*
+
+<br>
+<a id="1311-necessity"></a>
+##### 13.1.1 అవసరం
+<details>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
+
+- దీనితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **జవాబుదారీతనం** అంశం (ఆంక్ష విధించే పక్షంపై రుజువు భారం ఉంటుంది; ప్రత్యామ్నాయాలను నమోదు చేయాలి); **భాగస్వామ్యం** అంశం (స్వేచ్ఛ, స్వయంకర్తృత్వం లేదా ప్రాప్యత పరిమితం చేయబడిన పక్షంపై ఈ భారం ఎప్పుడూ పడదు; స్వేచ్ఛ, అర్థవంతమైన స్వయంకర్తృత్వం లేదా సమ్మతిపై భారం పడినప్పుడు సమర్థన మరింత కఠినంగా ఉండాలి); **పర్యవేక్షణ** అంశం (సమీక్షకులు తనిఖీ చేయగలిగేలా ప్రత్యామ్నాయాల విశ్లేషణను నమోదు చేయాలి); [భౌతిక ప్రాముఖ్యత](core_00_preamble.md#material-stake) ఆధారంగా పరిమాణం నిర్ణయించడం.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [ప్రమాదం](../../core_05_band_continuity.md#risk) · [O](../../core_05_band_continuity.md#risk) · [M](../../core_05_band_continuity.md#risk-a) · [A](../../core_05_band_continuity.md#risk-a) · [C](../../core_05_band_continuity.md#risk-c)
-- [తిరుగులేని హాని](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
-- [ఉనికి ప్రమాదం](../../core_05_band_continuity.md#existential-risk) · [O](../../core_05_band_continuity.md#existential-risk) · [M](../../core_05_band_continuity.md#existential-risk-a) · [A](../../core_05_band_continuity.md#existential-risk-a) · [C](../../core_05_band_continuity.md#existential-risk-c)
-- [పర్యావరణ పునరుద్ధరణ సామర్థ్యం](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [O](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional) · [M](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](../../core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
-- [వ్యవస్థాగత లాక్-ఇన్](../../core_05_band_continuity.md#systemic-lock-in) · [O](../../core_05_band_continuity.md#systemic-lock-in) · [M](../../core_05_band_continuity.md#systemic-lock-in-a) · [A](../../core_05_band_continuity.md#systemic-lock-in-a) · [C](../../core_05_band_continuity.md#systemic-lock-in-c)
-- [తిరుగుదల](../../core_05_band_continuity.md#reversibility-constitutional) · [O](../../core_05_band_continuity.md#reversibility-constitutional) · [M](../../core_05_band_continuity.md#reversibility-constitutional-a) · [A](../../core_05_band_continuity.md#reversibility-constitutional-a) · [C](../../core_05_band_continuity.md#reversibility-constitutional-c)
-- [ఆధారపడటం](../../core_05_band_continuity.md#dependency) · [O](../../core_05_band_continuity.md#dependency) · [M](../../core_05_band_continuity.md#dependency-a) · [A](../../core_05_band_continuity.md#dependency-a) · [C](../../core_05_band_continuity.md#dependency-c)
+- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [సాధ్యత](core_05_band_accountability.md#feasibility) · [O](core_05_band_accountability.md#feasibility) · [M](core_05_band_accountability.md#feasibility-a) · [A](core_05_band_accountability.md#feasibility-a) · [C](core_05_band_accountability.md#feasibility-c)
+- [స్వేచ్ఛ (పరిమిత స్వయంకర్తృత్వం)](core_05_band_participation.md#freedom-bounded-agency) · [O](core_05_band_participation.md#freedom-bounded-agency) · [M](core_05_band_participation.md#freedom-bounded-agency-a) · [A](core_05_band_participation.md#freedom-bounded-agency-a) · [C](core_05_band_participation.md#freedom-bounded-agency-c)
+- [అర్థవంతమైన స్వయంకర్తృత్వం](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: తక్కువ నిర్బంధం కలిగిన ఏ ప్రత్యామ్నాయమూ భౌతిక హాని లేదా వ్యవస్థాగత ప్రమాదాన్ని నిరోధించలేనప్పుడే ఆంక్ష విధించవచ్చు. దాన్ని నిరూపించే భారం ఆంక్ష విధించే పక్షానిదే—స్వేచ్ఛ పరిమితం చేయబడుతున్న పక్షానిది కాదు. సౌలభ్యం, సంస్థాగత అలవాటు, “మేము ఎప్పుడూ ఇలాగే చేశాం” అనే కారణం అవసరాన్ని నిరూపించవు. తక్కువ కఠినమైన ఎంపిక పనిచేస్తే, మరింత కఠినమైనది అనుసరణలో లేనట్టే.*
+
+**రుజువు భారం.** రాజ్యాంగపరమైన ఆంక్ష విధించే లేదా కొనసాగించే పక్షం, పరిస్థితులలో భౌతిక హాని లేదా వ్యవస్థాగత ప్రమాదాన్ని నిరోధించగల తక్కువ నిర్బంధ ప్రత్యామ్నాయం లేదని నిరూపించాలి. స్వేచ్ఛ, స్వయంకర్తృత్వం లేదా ప్రాప్యత పరిమితం చేయబడిన పక్షం ప్రత్యామ్నాయాలు ఉన్నాయని నిరూపించాల్సిన బాధ్యత కలిగి ఉండదు.
+
+**ప్రత్యామ్నాయాల విశ్లేషణ అవసరం.** అవసరతకు సంబంధించిన వాదనలకు ఈ అంశాలపై నమోదు చేసిన విశ్లేషణ మద్దతుగా ఉండాలి:
+- సహేతుకంగా అందుబాటులో ఉన్న ప్రత్యామ్నాయాలు, చర్య తీసుకోకపోవడం సహా;
+- పరిష్కరించాల్సిన రాజ్యాంగపరమైన హానితో పోల్చినప్పుడు ప్రతి ప్రత్యామ్నాయం ఎంత ప్రభావవంతంగా ఉంటుందో;
+- ప్రతి ప్రత్యామ్నాయం కింద మిగిలే ప్రమాదం లేదా సమన్వయ లోపం.
+
+నమోదు చేసిన విశ్లేషణ లేకుండా ప్రత్యామ్నాయమే లేదని చెప్పడం ఈ అవసరాన్ని తీర్చదు.
+
+**అవసరతను నిరూపించనివి:**
+- సౌలభ్యం లేదా పరిపాలనా ప్రాధాన్యత;
+- ప్రస్తుత ఆచారం, సంస్థాగత జడత్వం లేదా సంప్రదాయం;
+- హక్కులపై భౌతిక ప్రభావం ఉన్నప్పుడు ఖర్చు తగ్గింపు మాత్రమే;
+- ఆంక్ష ఇప్పటికే అమల్లో ఉందనే వాస్తవం.
+
+**వర్తింపు పరిధి.** ఈ ఉపవిభాగం ప్రతి రాజ్యాంగపరమైన ఆంక్షకు వర్తిస్తుంది—[§13.1.5 హక్కుల ఘర్షణ విధానం](#1315-rights-collision-decision-test) కింద వచ్చే రాజ్యాంగపరమైన సంఘర్షణ సందర్భాలకే పరిమితం కాదు. ఒక ఆంక్ష [స్వేచ్ఛ (పరిమిత స్వయంకర్తృత్వం)](core_05_band_participation.md#freedom-bounded-agency), [అర్థవంతమైన స్వయంకర్తృత్వం](core_05_band_participation.md#meaningful-agency) లేదా [సమ్మతి](core_05_band_participation.md#consent)పై గణనీయమైన భారం మోపితే, అవసరతకు ఇచ్చే సమర్థన కూడా దానికి తగినంత కఠినంగా ఉండాలి.
+<a id="1312-harm-minimization"></a>
+##### 13.1.2 హానిని కనిష్ఠీకరించడం
+<details>
+<summary><strong><span style="color: #2563eb;">జాడను అనుసరించండి</span></strong></summary>
+
+- దీనితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పర్యవేక్షణ** అంశం (పరోక్ష, ఆలస్యంగా కలిగే, సంచిత, వ్యవస్థల మధ్య, పర్యావరణ హానిని లెక్కలోకి తీసుకోవాలి; వాటిని కనిపించకుండా వదిలేయకూడదు); **జవాబుదారీతనం** అంశం (హానిని లెక్కలోకి తీసుకోని పక్షాలపైకి మళ్లించి, హానిని కనిష్ఠీకరించినట్లు చూపకూడదు); సంబంధిత కాల పరిమితులన్నింటిలో [భౌతిక ప్రయోజన వాటా](core_00_preamble.md#material-stake)ను తగిన విధంగా పరిగణించాలి.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
+
+- [హాని కనిష్ఠీకరణ (తూకం వేసి ఎంపిక)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [హాని](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [పర్యావరణ సమగ్రత](core_05_band_continuity.md#ecological-integrity) · [O](core_05_band_continuity.md#ecological-integrity) · [M](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [A](core_05_band_continuity.md#ecological-integrity-constitutional-a) · [C](core_05_band_continuity.md#ecological-integrity-constitutional-c)
+- [పర్యావరణ పునరుద్ధరణ సామర్థ్యం](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [ప్రమాదం](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [తిరిగి సరిచేయలేని హాని](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: [§13.1.1 అవసరం](#1311-necessity) నెరవేరిన తర్వాత కూడా అవసరమైన అనేక ఎంపికలు మిగిలి ఉంటే, మొత్తంగా అతి తక్కువ హాని కలిగించే ఎంపికను ఎంచుకోండి — ప్రభావితమయ్యే ప్రతి ఒక్కరినీ, పర్యావరణ వ్యవస్థలు మరియు జీవ వ్యవస్థలను, ప్రభావితమయ్యే అన్ని వ్యవస్థలను, అలాగే ప్రాధాన్యమైన అన్ని కాల పరిమితులను లెక్కలోకి తీసుకోండి. స్థానికంగా ప్రయోజనం పొందుతూ వ్యవస్థాగత లేదా పర్యావరణ నష్టం కలిగించడం, లేదా స్వల్పకాలిక ప్రయోజనం కోసం దీర్ఘకాలిక హాని కలిగించడం ఈ ప్రమాణంలో విఫలమవుతుంది. [§13.1.4 రాజ్యాంగ కనిష్ఠ ప్రమాణాలు, భద్రత, మరియు హీనపరచడాన్ని నిరోధించే ప్రక్రియ](#1314-constitutional-floors-safety-and-anti-degrading-process)లోని రాజ్యాంగ కనిష్ఠ ప్రమాణాల కంటే దిగువకు వెళ్లేందుకు హాని కనిష్ఠీకరణ ఎప్పుడూ అనుమతి ఇవ్వదు.*
+
+**పోలిక పరిధి.** అనేక రాజ్యాంగపరంగా తగిన ఎంపికలు [భద్రత (§4)](core_01_a_values_principles.md#4-safety-harm-constraint), [సత్యం (§5)](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), మరియు [§13.1.1 అవసరం](#1311-necessity)లను తీరుస్తున్నప్పుడు, కింది అంశాలన్నింటిలో మొత్తం [హాని](core_05_band_accountability.md#harm)ని కనిష్ఠం చేసే ఎంపికకే ప్రాధాన్యత ఇవ్వాలి:
+- ప్రత్యక్షంగా, పరోక్షంగా ప్రభావితమయ్యే సంజ్ఞాన జీవులు;
+- ఫలితాన్ని మోసే, మధ్యవర్తిత్వం చేసే లేదా దానిపై ఆధారపడే వ్యవస్థలు;
+- [పర్యావరణ సమగ్రత](core_05_band_continuity.md#ecological-integrity)తో సహా పర్యావరణ మరియు జీవ వ్యవస్థలు; హాని తర్వాత కోలుకోవడం ప్రాధాన్యమైనప్పుడు [పర్యావరణ పునరుద్ధరణ సామర్థ్యం](core_05_band_continuity.md#ecological-recovery-capacity) కూడా;
+- ఆలస్యంగా, సంచితంగా కలిగే ప్రభావాలతో సహా సంబంధిత కాల పరిమితులు.
+
+**సమీకరణ అవసరం.** హాని అంచనా కింది వాటిని సమీకరించాలి:
+- గుర్తించిన పక్షాలకు కలిగే ప్రత్యక్ష హానులు;
+- వ్యవస్థలు, ఆధార సంబంధాలు లేదా పూర్వ నిర్ణయాల ద్వారా వ్యాపించే పరోక్ష హానులు;
+- కాలక్రమేణా బయటపడే ఆలస్య హానులు;
+- పునరావృతమయ్యే లేదా పరస్పరం పెంపొందించే నిర్ణయాల వల్ల కలిగే సంచిత హానులు;
+- ఒక రంగంలోని చర్య మరొక రంగంలో హాని కలిగించినప్పుడు ఏర్పడే వ్యవస్థల మధ్య ప్రభావాలు;
+- బయటికి నెట్టబడిన, ఆలస్యంగా కలిగే, సంచితమైన హానులతో పాటు పునరుద్ధరణ సామర్థ్యంపై ప్రభావాలూ కలిగిన పర్యావరణ హాని.
+
+కింది చర్యలు అనుసరణలో లేనివి:
+- స్థానిక లేదా తక్షణ హానిని మాత్రమే కనిష్ఠం చేస్తూ, మరింత పెద్ద వ్యవస్థాగత, సమగ్ర లేదా పర్యావరణ హానిని కలిగించడం;
+- గుర్తించిన పక్షాలకు హానిని తగ్గించినట్లు చూపడానికి పర్యావరణ వ్యవస్థలు, గుర్తించని సంజ్ఞాన జీవులు లేదా లెక్కలోకి తీసుకోని ఇతర పక్షాలపై హానిని మళ్లించడం.
+
+**కాల పరిమితుల క్రమశిక్షణ.** దీర్ఘకాలిక వ్యవస్థాగత వ్యయంతో స్వల్పకాలిక ప్రయోజనం పొందడం ఈ ప్రమాణంలో విఫలమవుతుంది. హాని కనిష్ఠీకరణ [అధ్యాయం ఎనిమిది §3.5 కాల-స్థిరత్వ పరిమితి](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint)ను పరిగణనలోకి తీసుకోవాలి: ప్రస్తుత కాలంలో హానిని తగ్గించినట్లు కనిపించినా, సంబంధిత రాజ్యాంగ కాల పరిమితి అంతటా మరింత ఎక్కువ హానిని ముందుగానే ఊహించదగిన రీతిలో కలిగించే నిర్ణయం అనుసరణలో లేనిదే.
+
+**రాజ్యాంగ కనిష్ఠ ప్రమాణాలతో సంబంధం.** హాని కనిష్ఠీకరణ [§13.1.4 రాజ్యాంగ కనిష్ఠ ప్రమాణాలు, భద్రత, మరియు హీనపరచడాన్ని నిరోధించే ప్రక్రియ](#1314-constitutional-floors-safety-and-anti-degrading-process)లో పేర్కొన్న రాజ్యాంగ కనిష్ఠ ప్రమాణాల *పైన* మాత్రమే పనిచేస్తుంది. ఇది ఎప్పుడూ అనుమతించనివి:
+- హక్కుల కనిష్ఠ ప్రమాణాల కనీసాలను శాశ్వతంగా రద్దు చేయడం;
+- హీనపరిచే ప్రక్రియ — అవమానం, ప్రదర్శన, ప్రతీకారం, వివక్షపూరిత భారంగా, లేదా సౌలభ్యం కోసం హక్కుల క్షీణతగా రూపొందించబడిన, చూపబడిన లేదా అమలు చేయబడిన పరిమితి, పరిహారం లేదా ప్రక్రియ ([§13.1.4 రాజ్యాంగ కనిష్ఠ ప్రమాణాలు, భద్రత, మరియు హీనపరచడాన్ని నిరోధించే ప్రక్రియ](#1314-constitutional-floors-safety-and-anti-degrading-process));
+- భద్రతా కనిష్ఠ స్థాయి కంటే దిగువకు వెళ్లడం.
+
+ఈ కనిష్ఠ ప్రమాణాలను ఇప్పటికే తీరుస్తున్న ఎంపికల మధ్యనే హాని కనిష్ఠీకరణ ఎంపిక చేస్తుంది — వాటి కంటే దిగువకు వెళ్లేలా తూకం వేయదు.
+<a id="1313-proportionality"></a>
+##### 13.1.3 అనుపాతత
+
+<details>
+<summary><strong><span style="color: #2563eb;">ఆధార అనుసరణ</span></strong></summary>
+
+- వీటితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **జవాబుదారీతనం** మరియు **పర్యవేక్షణ** భాగాలు (అధికారానికి అనుగుణమైన జవాబుదారీతనం: అధీకృత అధికారం లేదా గణనీయ పరిణామాలున్న పాత్ర పెరిగేకొద్దీ తీవ్రత పెరుగుతుంది; ఎప్పుడూ తగ్గదు); [వాస్తవిక ప్రయోజనం](core_00_preamble.md#material-stake) స్థాయి (వర్గీకరణ కనిష్ఠ హద్దు మరియు పెరిగిన హద్దులు).
+- వీటితో కలిపి చదవండి: [§18.1 అధీకృత నిర్మాణంగా పాలన](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుగుణత</span></strong></summary>
+
+- [అనుపాతత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [ప్రమాదం](core_05_band_continuity.md#risk) · [O](core_05_band_continuity.md#risk) · [M](core_05_band_continuity.md#risk-a) · [A](core_05_band_continuity.md#risk-a) · [C](core_05_band_continuity.md#risk-c)
+- [తిరిగి సరిదిద్దలేని హాని](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [అస్తిత్వపరమైన ప్రమాదం](core_05_band_continuity.md#existential-risk) · [O](core_05_band_continuity.md#existential-risk) · [M](core_05_band_continuity.md#existential-risk-a) · [A](core_05_band_continuity.md#existential-risk-a) · [C](core_05_band_continuity.md#existential-risk-c)
+- [పర్యావరణ పునరుద్ధరణ సామర్థ్యం](core_05_band_continuity.md#ecological-recovery-capacity) · [O](core_05_band_continuity.md#ecological-recovery-capacity) · [M](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](core_05_band_continuity.md#ecological-recovery-capacity-constitutional-c)
+- [వ్యవస్థాత్మక బంధనం](core_05_band_continuity.md#systemic-lock-in) · [O](core_05_band_continuity.md#systemic-lock-in) · [M](core_05_band_continuity.md#systemic-lock-in-a) · [A](core_05_band_continuity.md#systemic-lock-in-a) · [C](core_05_band_continuity.md#systemic-lock-in-c)
+- [తిరోగమన సామర్థ్యం](core_05_band_continuity.md#reversibility) · [O](core_05_band_continuity.md#reversibility) · [M](core_05_band_continuity.md#reversibility-constitutional-a) · [A](core_05_band_continuity.md#reversibility-constitutional-a) · [C](core_05_band_continuity.md#reversibility-constitutional-c)
+- [ఆధారపడటం](core_05_band_continuity.md#dependency) · [O](core_05_band_continuity.md#dependency) · [M](core_05_band_continuity.md#dependency-a) · [A](core_05_band_continuity.md#dependency-a) · [C](core_05_band_continuity.md#dependency-c)
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 - [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) · [O](core_05_apex_oversight_leg.md#oversight-constitutional) · [M](core_05_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_05_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_05_apex_oversight_leg.md#oversight-constitutional-c)
 
@@ -220,618 +337,752 @@
 
 <br>
 
-*సాధారణ మాటల్లో: అనుపాతత పరిమితి స్కేల్ అది పరిష్కరించే హాని స్కేల్‌కు సరిపోతుందా అని ధృవీకరిస్తుంది. అవసరమైన, హాని-తగ్గించే ఎంపిక కూడా దాని పరిధి, వ్యవధి, లేదా తీవ్రత నిజంగా పందెంలో ఉన్నదానికి అనుపాతం కాకపోతే విఫలమవుతుంది. ప్రమాదం ఎంత తిరుగులేనిది, వ్యవస్థాగతం, లేదా ఆధారపడటం-సృష్టించేది అయితే, సమర్థన, పర్యవేక్షణ అంత బలంగా ఉండాలి. అదే తక్కువ-పాలన నియమం శక్తికి వర్తిస్తుంది: ఎక్కువ అధికారం లేదా పరిణామ పాత్ర జవాబుదారీతనం, పర్యవేక్షణను పెంచాలి, తగ్గించకూడదు.*
+*సరళంగా చెప్పాలంటే: ఒక పరిమితి పరిష్కరించే హాని పరిమాణానికి ఆ పరిమితి స్థాయి సరిపోతుందా అని అనుపాతత నిర్ధారిస్తుంది. అవసరమైనదీ, హానిని తగ్గించేదీ అయిన ఎంపిక కూడా, దాని పరిధి, వ్యవధి లేదా తీవ్రత వాస్తవంగా పణంగా ఉన్న అంశాలకు అసమానంగా ఉంటే విఫలమవుతుంది. ప్రమాదం ఎంత ఎక్కువగా తిరిగి సరిదిద్దలేనిదిగా, వ్యవస్థాత్మకంగా లేదా ఆధారపడే పరిస్థితిని సృష్టించేదిగా ఉంటే, సమర్థన అంత బలంగా ఉండాలి, పరిశీలన అంత కఠినంగా ఉండాలి. అధికారానికీ తగినంత పాలన లేకపోవడాన్ని నిషేధించే ఇదే నియమం వర్తిస్తుంది: అధీకృత అధికారం పెరగడం లేదా గణనీయ పరిణామాలున్న పాత్ర ఉండటం జవాబుదారీతనం, పర్యవేక్షణను పెంచాలి; తగ్గించకూడదు.*
 
-రాజ్యాంగ **విలువలు**పై పరిమితులు — **అధ్యాయం ఆరు** హక్కుల-నేల రక్షణలు, [§6](#6-process-conflict-resolution) కింద లాభనష్టానికి లోనయ్యే ఇతర సూత్రాలు, రక్షణలు సహా — ధర్మబద్ధంగా పరిష్కరించిన **హాని** లేదా **వ్యవస్థాగత ప్రభావం** పరిమాణం, సంభావ్యతకు అనుపాతం కావాలి, **అధ్యాయం ఐదు**లో [అనుపాతత](../../core_05_band_accountability.md#proportionality)తో అనుగుణంగా.
+రాజ్యాంగ **విలువలపై** పరిమితులు — **ఆరవ అధ్యాయం**లోని **హక్కుల కనిష్ఠ హద్దు** రక్షణలతో పాటు [§13 రాజ్యాంగ సంఘర్షణ పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process) కింద రాజీకి లోబడే ఇతర సూత్రాలు, రక్షణలు సహా — చట్టబద్ధంగా పరిష్కరించే **హాని** లేదా **వ్యవస్థాత్మక ప్రభావం** యొక్క పరిమాణం, సంభావ్యతకు అనుపాతంగా ఉండాలి; అలాగే **ఐదవ అధ్యాయం**లోని [అనుపాతత](core_05_band_accountability.md#proportionality)కు అనుగుణంగా ఉండాలి.
 
-**వర్గీకరణ నేల.** ఏ వ్యవస్థా తన అత్యధిక వర్తించే వర్గీకరణ కోరే స్థాయి కంటే తక్కువగా పాలించబడకూడదు. తక్కువ పరిపాలనా లేబుల్ అత్యధిక వర్తించే ప్రమాదం, ఆధారపడటం, హక్కులు, లేదా వ్యవస్థ-ప్రభావ వర్గీకరణ కోరే పర్యవేక్షణను తగ్గించలేదు.
+**వర్గీకరణ కనిష్ఠ హద్దు.** ఏ వ్యవస్థనూ దానికి వర్తించే అత్యున్నత వర్గీకరణ కోరే స్థాయి కంటే తక్కువ స్థాయిలో పాలించరాదు. తక్కువ స్థాయి పరిపాలనా లేబుల్, వర్తించే అత్యున్నత ప్రమాదం, ఆధారపడటం, హక్కులు లేదా వ్యవస్థపై ప్రభావ వర్గీకరణ కోరే పరిశీలనను తగ్గించలేదు.
 
-**అధికార-స్కేల్ సమాధానం.** అనుపాతత ఎక్కువ అధికారం, పరిణామ పాత్ర, లేదా సంస్థాగత ప్రభావం ఉన్నవారి తక్కువ-పాలనను కూడా నిషేధిస్తుంది: [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) తీవ్రత ఆ అధికారంతో పెరగాలి, పడకూడదు.
+**అధికారానికి అనుగుణమైన జవాబుదారీతనం.** అధిక అధీకృత అధికారం, గణనీయ పరిణామాలున్న పాత్ర లేదా సంస్థాగత ప్రభావం కలిగినవారికి తగిన పాలన లేకపోవడాన్ని కూడా అనుపాతత నిషేధిస్తుంది: [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability), [పర్యవేక్షణ](core_05_apex_oversight_leg.md#oversight-constitutional) తీవ్రత ఆ అధికారంతో పాటు పెరగాలి; తగ్గకూడదు.
 
-**పెంచిన గడపలు.** చర్యలు తిరుగులేని హాని, వ్యవస్థాగత లాక్-ఇన్, ఉనికి ప్రమాదం, లేదా పర్యావరణ పునరుద్ధరణ సామర్థ్యం తిరుగులేని నష్టం ప్రమాదం తెచ్చిన చోట, వ్యవస్థలు సాధ్యమైన చోట సమర్థన, పర్యవేక్షణ, తిరుగుదలకు పెంచిన గడపలు వర్తింపజేయాలి.
+**పెరిగిన హద్దులు.** చర్యలు తిరిగి సరిదిద్దలేని హాని, వ్యవస్థాత్మక బంధనం, అస్తిత్వపరమైన ప్రమాదం లేదా పర్యావరణ పునరుద్ధరణ సామర్థ్యం తిరిగి సాధించలేని నష్టానికి దారితీసే ప్రమాదాన్ని సృష్టించినప్పుడు, వ్యవస్థలు [పెరిగిన పరిశీలన](core_05_band_oversight.md#heightened-scrutiny)ను, సాధ్యమైన చోట సమర్థన మరియు తిరోగమన సామర్థ్యానికి పెరిగిన హద్దులను అమలు చేయాలి.
 
-**మరింత ఎస్కలేషన్.** ఆ గడపలు భౌతికంగా సంబంధిత సూచికలు వర్తించే చోట మళ్ళీ పెరగాలి, వీటితో సహా:
-- తిరుగులేనితనం బహిర్గతం
+**మరింత పెంపు.** భౌతికంగా సంబంధిత సూచికలు వర్తించినప్పుడు ఆ హద్దులు మళ్లీ పెరగాలి; వీటిలో ఇవి ఉంటాయి:
+- తిరిగి సరిదిద్దలేని స్థితికి గురయ్యే అవకాశం
 - కేంద్రీకృత ఆధారపడటం
-- అధిక-పరిణామ తోక ప్రమాదం
-- సహేతుక వ్యవస్థాగత లాక్-ఇన్
-- ఉనికి ప్రమాదం
-- పర్యావరణ పునరుద్ధరణ సామర్థ్యం తిరుగులేని నష్టం
+- అధిక పరిణామాల తోక-ప్రమాదం
+- సంభావ్య వ్యవస్థాత్మక బంధనం
+- అస్తిత్వపరమైన ప్రమాదం
+- పర్యావరణ పునరుద్ధరణ సామర్థ్యం తిరిగి సాధించలేని నష్టం
+<a id="1314-constitutional-floors-safety-and-anti-degrading-process"></a>
+##### 13.1.4 రాజ్యాంగ కనీస హామీలు, భద్రత, అవమానకర ప్రక్రియల నిషేధం
+<details>
+<summary><strong><span style="color: #2563eb;">అనుసంధానం</span></strong></summary>
 
-<a id="614-constitutional-floors-safety-and-process-character-constraints"></a>
-##### 6.1.4 రాజ్యాంగ నేలలు, భద్రత, ప్రక్రియ-స్వభావ పరిమితులు
+- దీనితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్య** అంశం (ప్రాథమిక అభ్యంతరం, సమీక్ష, అప్పీల్ హక్కులు శాశ్వతంగా తొలగించలేని కనీస హామీల్లో భాగం); **జవాబుదారీతన** అంశం (సమతుల్య పరిశీలనల క్రమాన్ని తట్టుకుని నిలిచిన ప్రక్రియ కూడా అవమానించకూడదు, కించపరచకూడదు లేదా ప్రతీకారం తీర్చుకోకూడదు; [§3.3 అవమానకర ప్రక్రియల నిషేధం](core_01_a_values_principles.md#33-anti-degrading-process) చూడండి); కఠిన పరిశీలన వర్తించే చోట [భౌతిక ప్రాధాన్యం](core_00_preamble.md#material-stake) ఆధారంగా స్థాయి నిర్ణయించడం.
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [భద్రత (పరిమితి)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [గౌరవం మరియు సమాన నైతిక స్థానం](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](../../core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](../../core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](../../core_05_band_participation.md#dignity-and-equal-moral-standing-c)
-- [క్రూరత్వం](../../core_05_band_accountability.md#cruelty) · [O](../../core_05_band_accountability.md#cruelty) · [M](../../core_05_band_accountability.md#cruelty-a) · [A](../../core_05_band_accountability.md#cruelty-a) · [C](../../core_05_band_accountability.md#cruelty-c)
-- [హాని](../../core_05_band_accountability.md#harm) · [O](../../core_05_band_accountability.md#harm) · [M](../../core_05_band_accountability.md#harm-a) · [A](../../core_05_band_accountability.md#harm-a) · [C](../../core_05_band_accountability.md#harm-c)
-- [తిరుగులేని హాని](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [భద్రత (రాజ్యాంగ పరిమితి)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [గౌరవం మరియు సమాన నైతిక స్థానం](core_05_band_participation.md#dignity-and-equal-moral-standing) · [O](core_05_band_participation.md#dignity-and-equal-moral-standing) · [M](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_05_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_05_band_participation.md#dignity-and-equal-moral-standing-c)
+- [క్రూరత్వం](core_05_band_accountability.md#cruelty) · [O](core_05_band_accountability.md#cruelty) · [M](core_05_band_accountability.md#cruelty-a) · [A](core_05_band_accountability.md#cruelty-a) · [C](core_05_band_accountability.md#cruelty-c)
+- [హాని](core_05_band_accountability.md#harm) · [O](core_05_band_accountability.md#harm) · [M](core_05_band_accountability.md#harm-a) · [A](core_05_band_accountability.md#harm-a) · [C](core_05_band_accountability.md#harm-c)
+- [తిరిగి సరిచేయలేని హాని](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [అనుపాతికత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: హాని తగ్గింపుకు పూర్తి పరిమితులు ఉన్నాయి. పరిమితి ఎంత అనుపాతం, అవసరం, లేదా బాగా రూపొందినదైనా, కొన్ని విషయాలు శాశ్వతంగా తీయలేము, ప్రక్రియ నిర్వహించే కొన్ని విధాలు ఎల్లప్పుడూ నిషేధం. భద్రత ఈ నేలలకు పునాది పరిమితి: తీవ్ర హాని నివారించడానికి చర్యను సమర్థిస్తుంది, కానీ చర్యను పరిమితం కూడా చేస్తుంది — భద్రత ఫ్రేమింగ్ హక్కులు తుడిచేయడానికి, గౌరవం క్షీణింపడానికి, లేదా ఇక్కడ చెప్పిన నేలలు తప్పించుకోవడానికి కవర్‌గా వాడకూడదు.*
+*సరళంగా చెప్పాలంటే: హానిని తగ్గించడానికి సంపూర్ణ పరిమితులు ఉన్నాయి. ఏదైనా ఆంక్ష ఎంత అనుపాతికమైనా, అవసరమైనదైనా లేదా చక్కగా రూపొందించినదైనా, కొన్ని విషయాలను శాశ్వతంగా తొలగించలేరు; ప్రక్రియను నిర్వహించే కొన్ని పద్ధతులు ఎల్లప్పుడూ నిషేధితమే. ఈ కనీస హామీలకు భద్రతే పునాది: తీవ్రమైన హానిని నివారించడానికి చర్యను సమర్థిస్తుంది, అలాగే చర్యను పరిమితం చేస్తుంది — హక్కులను పూర్తిగా తొలగించడానికి, గౌరవాన్ని కించపరచడానికి లేదా ఇక్కడ పేర్కొన్న హామీలను తప్పించుకోవడానికి భద్రతను ముసుగుగా ఉపయోగించరాదు.*
 
-**సమర్థనగా, పరిమితిగా భద్రత.** [భద్రత (§3.1)](core_01_a_values_principles.md#31-safety-harm-constraint) ఇతర రాజ్యాంగ ఆసక్తులపై పరిమితులను సమర్థించగల రాజీలేని పరిమితి. కానీ భద్రత ఆ పరిమితులు *ఎలా* పని చేస్తాయో కూడా పరిమితం చేస్తుంది:
-- భద్రత ఫ్రేమింగ్ హక్కుల-నేల కనిష్ఠాల శాశ్వత తుడిచేయడాన్ని అధికారం ఇవ్వదు.
-- భద్రత పరిమితి కోరితే, అది ఇంకా కింది నేలలు, రూపంలో [§6.1.5 అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle)ను తీర్చాలి.
+**సమర్థనగా, పరిమితిగా భద్రత.** [భద్రత (§4)](core_01_a_values_principles.md#4-safety-harm-constraint) అనేది చర్చకు అతీతమైన పరిమితి; ఇతర రాజ్యాంగ ప్రయోజనాలపై ఆంక్షలను అది సమర్థించవచ్చు. అయితే ఆ ఆంక్షలు ఎలా పనిచేయాలనే దానిపై భద్రత *పరిమితి కూడా విధిస్తుంది*:
+- భద్రతను కారణంగా చూపడం ద్వారా హక్కుల-కనీస హామీలను శాశ్వతంగా తొలగించడానికి అనుమతి లభించదు.
+- భద్రత కారణంగా ఆంక్ష అవసరమైనప్పుడు, అది దిగువ హామీలను, అలాగే రూపం పరంగా [§13.1.5 అతి తక్కువ పరిమితితో, కాలపరిమితి మరియు సమీక్షకు లోబడే ఆంక్ష సూత్రం](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)ను తప్పనిసరిగా పాటించాలి.
+
+<a id="dignity-principles"></a>
+
+###### గౌరవ సూత్రాలు
+
+**గౌరవ సూత్రాలు** అంటే తరువాతి రెండు సూత్రాలు: [హక్కుల-కనీస హామీల సూత్రం](#rights-floor-minimums-principle) మరియు [అవమానకర ప్రక్రియల నిషేధ సూత్రం](#anti-degrading-process-principle). ఇవి కలసి [గౌరవం మరియు సమాన నైతిక స్థానం](core_05_band_participation.md#dignity-and-equal-moral-standing)ను సంపూర్ణ కనీస హామీలుగా అమలులోకి తెస్తాయి: ఏ చైతన్యసంపన్న జీవి నుంచి ఏమి శాశ్వతంగా తీసివేయరాదు, ఏ ప్రక్రియలోనూ ఏ చైతన్యసంపన్న జీవితో ఎలా వ్యవహరించరాదు అన్నది నిర్దేశిస్తాయి. కనీస జీవనాధార ప్రాప్తి, అలాగే అభ్యంతరం, సమీక్ష, అప్పీల్‌ల ప్రాథమిక హక్కులు గౌరవ సూత్రాల్లో భాగం; ఎందుకంటే ఒకరి స్థితికి విలువనిచ్చే వ్యక్తిగా వారిని పరిగణించడానికి ఇవి కనీస షరతులు. సమాన స్థితి స్వరూపం, దానిని నిరాకరించరాని కారణాలు [ఆర్టికల్ VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing)లో పేర్కొనబడ్డాయి (*గౌరవం మరియు సమాన నైతిక స్థానం*).
 
 <a id="rights-floor-minimums-principle"></a>
-**హక్కుల-నేల కనిష్ఠాల సూత్రం:**
-- ఏ రాజ్యాంగ ప్రక్రియ, చర్య, పరివర్తన, సవరణ, ప్రస్థితి ప్రభావం, అత్యవసర చర్య, లేదా న్యాయం-సంబంధిత ఫలితం బేస్‌లైన్ గౌరవ రక్షణలు, కనిష్ఠ జీవనోపాధి ప్రవేశం, లేదా కేంద్ర సవాలు, సమీక్ష, అప్పీల్ హక్కుల **హక్కుల-నేల కనిష్ఠాలను** శాశ్వతంగా తుడిచేయకూడదు, వదులుకోనివ్వకూడదు.
-- నిర్దిష్ట హక్కుల తాత్కాలిక పరిమితి [అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle), [అనుచ్ఛేదం XXIV-D](../../core_06_rights_part_d.md#article-xxiv-d-emergency-measures-and-continuation-burden) (*అత్యవసర చర్యలు మరియు కొనసాగింపు భారం*) అత్యవసర నిబంధనలు తీర్చినప్పుడు మాత్రమే అనుమతి — అంటే ఏ పరిమితి సమర్థించబడాలి, కనిష్ఠం, డాక్యుమెంట్, కాల-పరిమితం, స్వతంత్రంగా సమీక్షించదగినది కావాలి. నిర్దిష్ట అనుచ్ఛేదాలు బలమైన రక్షణలు జోడించవచ్చు, కానీ ఈ సూత్రాన్ని సంకుచితం చేయలేవు, లేదా సౌకర్యం, సమర్థత, వర్గీకరణ, అత్యవసరం, పరివర్తన, ప్రస్థితి, సవరణ, ఒప్పందం, లేదా అమలు లేబుల్‌లు వాడి తప్పించుకోలేవు.
+
+###### హక్కుల-కనీస హామీల సూత్రం
+
+ఈ సూత్రం హక్కుల కనీస హామీలను ఈ విధంగా కాపాడుతుంది:
+
+- రాజ్యాంగ ప్రక్రియ, చర్య, పరివర్తన, సవరణ, స్థితి పరిణామం, అత్యవసర చర్య లేదా న్యాయానికి సంబంధించిన ఫలితం ఏదీ [ఆర్టికల్ VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*గౌరవం మరియు సమాన నైతిక స్థానం*) మరియు [అవమానకర ప్రక్రియల నిషేధ సూత్రం](#anti-degrading-process-principle) కింద ఉన్న ప్రాథమిక గౌరవ రక్షణలను, కనీస జీవనాధార ప్రాప్తిని, లేదా అభ్యంతరం, సమీక్ష, అప్పీల్‌ల ప్రాథమిక హక్కులను — అంటే **హక్కుల-కనీస హామీలను** — శాశ్వతంగా తొలగించలేరు లేదా వదులుకోలేరు.
+- నిర్దిష్ట హక్కులపై తాత్కాలిక ఆంక్ష [అతి తక్కువ పరిమితితో, కాలపరిమితి మరియు సమీక్షకు లోబడే ఆంక్ష సూత్రం](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)ను, అలాగే [అధ్యాయం పన్నెండు §6.1](core_12_forum.md#61-emergency-measures-and-continuation-burden)లోని అత్యవసర నియమాలను (*అత్యవసర చర్యలు మరియు కొనసాగింపు భారం*) పాటించినప్పుడే అనుమతించబడుతుంది — అంటే ప్రతి ఆంక్షకు సమర్థన ఉండాలి, అది కనిష్ఠంగా ఉండాలి, నమోదు చేయాలి, కాలపరిమితి కలిగి ఉండాలి, స్వతంత్ర సమీక్షకు లోబడి ఉండాలి. నిర్దిష్ట అధికరణాలు మరింత బలమైన రక్షణలను జోడించవచ్చు; కానీ ఈ సూత్రాన్ని సంకుచితం చేయలేవు లేదా సౌలభ్యం, సామర్థ్యం, వర్గీకరణ, అత్యవసర పరిస్థితి, పరివర్తన, స్థితి, సవరణ, ఒప్పందం లేదా అమలు అనే పేర్లతో దానిని తప్పించుకోలేవు.
 
 <a id="anti-degrading-process-principle"></a>
-**క్షీణింపు-నిరోధ ప్రక్రియ సూత్రం.** భాగం సిలో చెప్పిన [క్షీణింపు-నిరోధ ప్రక్రియ సూత్రం (§9.6)](core_01_c_stewardship_capacity_principles.md#96-process-character-discipline) ఈ లాభనష్ట స్టాక్‌లో పూర్తి నేలగా పని చేస్తుంది.
-- ఆవశ్యకత, హాని తగ్గింపు, అనుపాతత దాటిన ఏ పరిమితి, పరిహారం, లేదా ప్రక్రియ క్షీణింపు, అవమానం, ప్రదర్శన, ప్రతీకారం, వివక్షా భారం, లేదా సౌకర్యం-నడిపిన హక్కుల క్షీణతగా రూపొందించబడకూడదు, ఫ్రేమ్ కాకూడదు, నిర్వహించబడకూడదు, లేదా పని చేయనివ్వకూడదు.
-- క్షీణింపు ప్రక్రియ ద్వారా అందిన సరైన వాస్తవిక ఫలితం ఇంకా అనుసరణ కాదు.
-- నిషేధిత స్వభావం స్వయంగా లక్ష్యంగా బాధ, లేదా నిష్ప్రయోజన / క్షీణింపు బాధించడం — స్వయంగా అవమానం సహా — అయితే [క్రూరత్వం](../../core_05_band_accountability.md#cruelty)తో చదవండి.
 
-<a id="615-least-restrictive-time-bounded-and-reviewable-constraint-principle"></a>
-##### 6.1.5 అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం
+###### అవమానకర ప్రక్రియల నిషేధ సూత్రం
+
+భాగం Aలో పేర్కొన్న [అవమానకర ప్రక్రియల నిషేధ సూత్రం (§3.3)](core_01_a_values_principles.md#33-anti-degrading-process) ఈ సమతుల్య పరిశీలన క్రమంలో సంపూర్ణ కనీస హామీగా పనిచేస్తుంది.
+- ఆవశ్యకత, హాని తగ్గింపు, అనుపాతికత పరీక్షలను తట్టుకుని నిలిచిన ఆంక్ష, పరిహారం లేదా ప్రక్రియను అవమానం, కించపరచడం, ప్రదర్శనగా మార్చడం, ప్రతీకారం, వివక్షతో కూడిన భారం లేదా సౌలభ్యం కోసం హక్కుల క్షీణతగా రూపొందించరాదు, చూపరాదు, అమలు చేయరాదు లేదా అలా పనిచేయనివ్వకూడదు.
+- అవమానకర ప్రక్రియ ద్వారా అందించిన సరైన సారభూత ఫలితం కూడా నిబంధనలను పాటించినట్లుకాదు.
+- నిషేధిత లక్షణం బాధనే స్వతంత్ర లక్ష్యంగా పెట్టుకోవడం లేదా నిరాధారంగా/అవమానకరంగా బాధ కలిగించడం — తనంతట తానే అవమానించడం సహా — అయినప్పుడు, [క్రూరత్వం](core_05_band_accountability.md#cruelty)తో కలిపి చదవండి.
+
+##### 13.1.5 అతి తక్కువ పరిమితితో, కాలపరిమితి మరియు సమీక్షకు లోబడే ఆంక్ష సూత్రం
 
 <details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">అనుసంధానం</span></strong></summary>
 
-- బాధ్యతాయుత నిర్వాహక ద్వారం (అసంచాలకం): బంధనీయ తదుపరి-అడుగు ప్రకటన: [సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన](#operative-steward-statement-proceed). మద్దతు పాయింటర్లు దాన్ని సంకుచితం చేయలేవు.
+- దీనితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — నాలుగు అంశాలన్నీ: **పర్యవేక్షణ** (ఆంక్షలు స్వతంత్ర సమీక్షకు లోబడి ఉంటాయి; రాజ్యాంగ ఘర్షణ పెండింగ్‌లో ఉన్నంతకాలం సాక్ష్యాలు భద్రపరచబడతాయి, స్వతంత్ర సమీక్షకులకు ప్రవేశం కొనసాగుతుంది); **జవాబుదారీతనం** (నమోదైన, ఆడిట్ చేయగల రాజ్యాంగ ఘర్షణ రికార్డు నియమం, ప్రత్యామ్నాయాలు, సాక్ష్యాలు, ఎంపికకు ఆధారాన్ని పేర్కొంటుంది); **భాగస్వామ్యం** (ప్రభావిత పక్షాలు నిర్ణయాన్ని అర్థం చేసుకోగలవు, సవాలు చేయగలవు, పునర్నిర్మించగలవు; ఏది నిలిపివేయబడిందో వారికి చెబుతారు); **కాలపాలన** (హక్కుల-కనీస హామీలకు సంబంధించిన మరింత బలమైన నియమం వేరుగా చెప్పకపోతే ఆంక్షలు తాత్కాలికం; వాటికి వ్యవధి లేదా సమీక్షా క్రమం, పునరుద్ధరణ మార్గం ఉంటాయి; పెండింగ్‌లోని రాజ్యాంగ ఘర్షణ వర్తించే కాలపట్టికలో సాగుతుంది); [భౌతిక ప్రాధాన్యం](core_00_preamble.md#material-stake) ఆధారంగా స్థాయి నిర్ణయించడం (తీవ్రత, తిరుగులేనితనం, ఆధారపడుదల కేంద్రీకరణ, అనిశ్చితి పెరిగే కొద్దీ రుజువు భారం పెరుగుతుంది).
+- తదుపరి సంబంధం: [ఆర్టికల్ XXV-B: హక్కుల ఘర్షణ విధానం మరియు పునరుద్ధరణాత్మక సమన్వయం](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (వేదికలు ఈ నిర్ణయ పరీక్షను వర్తింపజేస్తాయి); [ఆర్టికల్ XXV-C: సకాల పరిష్కారం మరియు జాప్య-వ్యతిరేక కనీస హామీ](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor); [అధ్యాయం పన్నెండు §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*సకాల పరిష్కారం, భౌతికత స్థాయులు, జాప్య-వ్యతిరేక క్రమశిక్షణ*).
 
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-<a id="operative-steward-statement-proceed"></a>
-> **సంచాలక బాధ్యతాయుత నిర్వాహక ప్రకటన.** **యజమాని:** §6.1.5 అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం; §6.2.3 గోప్యత; అనుచ్ఛేదం VII-B; పునర్నిర్మాణ-యోగ్య సమితి CS-4 §10గా ఉంటుంది. స్వాగతం-లేని-కానీ-ధర్మబద్ధ సూచనలు: అధ్యాయం తొమ్మిది §5.4 (కర్తవ్యం అంటుకోదు). **నిషేధిత చర్య:** చెల్లుబాటు అయ్యే అతి తక్కువ-పరిమిత గోప్యత పరిమితిని ప్రస్థితి-కొలత వీటోలా తిరస్కరించకండి. స్వరం లేదా షెడ్యూలింగ్‌పై రాజ్యాంగ సంఘర్షణ కనిపెట్టకండి. సమీక్షకుల నుండి పునర్నిర్మాణ-యోగ్య సమితి తీయకండి. **గడియారం:** పరిమితితో కొనసాగండి. పునర్నిర్మాణ-యోగ్య సమితి స్వతంత్ర సమీక్షకులకు పరిశీలించదగినదిగా ఉంచండి. గోప్యతను ప్రస్థితి-కొలత వీటోగా పరిగణించకండి. కొనసాగండి. కేవలం స్వాగతం-లేని సూచనకు నిరోధ కర్తవ్యం అంటుకోదు.
+- [రాజ్యాంగ ఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record) · [O](core_05_band_integrative.md#constitutional-collision-record) · [M](core_05_band_integrative.md#constitutional-collision-record-a) · [A](core_05_band_integrative.md#constitutional-collision-record-a) · [C](core_05_band_integrative.md#constitutional-collision-record-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: పరిమితి సమర్థించబడిన తర్వాత కూడా సరైన రూపం ఉండాలి. అతి తేలికైన ప్రభావవంతమైన చర్య వాడండి, నిజమైన గడియారం లేదా సమీక్ష క్రమం పెట్టండి, సవాలు, స్వతంత్ర సమీక్ష కాపాడండి, పరిమితి ఎలా ముగుస్తుంది లేదా పునరుద్ధరించబడుతుందో నిర్వచించండి. సౌకర్యం, తీవ్రత, లేదా పరిపాలనా పునర్లేబులింగ్ తాత్కాలిక హక్కుల పరిమితిని శాశ్వత తప్పించుకోవడంగా మార్చలేవు.*
+*సరళంగా చెప్పాలంటే: ఆంక్ష సమర్థించబడిన తర్వాత కూడా దానికి సరైన రూపం ఇవ్వాలి. ఫలితాన్నిచ్చే అత్యంత తేలికపాటి చర్యను వాడండి, నిజమైన గడువు లేదా సమీక్షా క్రమాన్ని నిర్ణయించండి, సవాలు చేసే అవకాశం మరియు స్వతంత్ర సమీక్షను కాపాడండి, ఆంక్ష ఎలా ముగుస్తుందో లేదా పునరుద్ధరించబడుతుందో నిర్వచించండి. సౌలభ్యం, తీవ్రత లేదా పరిపాలనా పేరు మార్పు తాత్కాలిక హక్కుల పరిమితిని శాశ్వత తప్పించుకునే మార్గంగా మార్చలేవు.*
 
-ఈ ఉపవిభాగం అనుపాతత, ఆవశ్యకత, హాని తగ్గింపు, [§6.1.4](#614-constitutional-floors-safety-and-process-character-constraints)లో రాజ్యాంగ నేలలు వర్తింపజేసిన తర్వాత రాజ్యాంగ పరిమితుల రూపాన్ని పాలిస్తుంది. ఆ పరీక్షలను తగ్గించదు.
+ఈ ఉపవిభాగం, అనుపాతికత, ఆవశ్యకత, హాని తగ్గింపు, అలాగే [§13.1.4 రాజ్యాంగ కనీస హామీలు, భద్రత, అవమానకర ప్రక్రియల నిషేధం](#1314-constitutional-floors-safety-and-anti-degrading-process)లోని రాజ్యాంగ హామీలను వర్తింపజేసిన తర్వాత రాజ్యాంగ ఆంక్షల రూపాన్ని నియంత్రిస్తుంది. ఇది ఆ పరీక్షలను సడలించదు.
 
-రాజ్యాంగ పరిమితులు ఇవన్నీ తీర్చాలి:
-- **సమర్థించబడిన, కనిష్ఠ:** పరిమితి పరిష్కరించిన రాజ్యాంగ హాని లేదా వ్యవస్థాగత ప్రభావం ద్వారా సమర్థించబడాలి, ఆ సమర్థన మద్దతు ఇచ్చేదానికి మించి చేరకూడదు.
-- **అతి తక్కువ-పరిమిత ప్రభావవంతమైన సాధనం:** హక్కులను ప్రభావితం చేసే ఏ పరిమితి అవసరమైన భద్రత, సమగ్రత, లేదా హక్కుల-రక్షణ ఫలితం ఇంకా సాధించగల అతి తక్కువ-పరిమిత సాధనం వాడాలి.
-- **సమీక్షించదగినది:** పరిమితి సవాలు-యోగ్యత, స్వతంత్ర సమీక్ష కాపాడాలి.
-- **స్పష్టంగా అనుమతించనంతవరకు తాత్కాలికం:** బలమైన హక్కుల-నేల నియమం నిలకడ పరిమితిని స్పష్టంగా అనుమతించనంతవరకు పరిమితి తాత్కాలికం కావాలి.
-- **పునరుద్ధరణ మార్గం:** సాధ్యమైన చోట పరిమితి చెప్పిన వ్యవధి లేదా సమీక్ష క్రమం, సాక్ష్యం, మారిన పరిస్థితులు, లేదా ఆశించిన ఫలితాల నుండి గమనించిన విచలనానికి కట్టుబడిన పునరుద్ధరణ, రోల్‌బ్యాక్, లేదా పునఃమూల్యాంకన షరతులు ఉండాలి.
+రాజ్యాంగ ఆంక్షలు కింది అన్నింటినీ తప్పనిసరిగా నెరవేర్చాలి:
+- **సమర్థించబడినది మరియు కనిష్ఠమైనది:** ఆంక్ష పరిష్కరించదలచిన రాజ్యాంగ హాని లేదా వ్యవస్థాగత ప్రభావం దానిని సమర్థించాలి; ఆ సమర్థనకు మించి విస్తరించరాదు.
+- **ప్రభావవంతమైన మార్గాల్లో అత్యల్ప పరిమితి:** హక్కులను ప్రభావితం చేసే ఏ పరిమితి అయినా, అవసరమైన భద్రత, సమగ్రత లేదా హక్కుల-రక్షణ ఫలితాన్ని సాధించగల అత్యల్ప పరిమిత మార్గాన్ని ఉపయోగించాలి.
+- **సమీక్షించదగినది:** ఆంక్ష అభ్యంతరం తెలిపే అవకాశం, స్వతంత్ర సమీక్షను కాపాడాలి.
+- **స్పష్ట అనుమతి లేకపోతే తాత్కాలికం:** హక్కుల-కనీస హామీలకు సంబంధించిన మరింత బలమైన నియమం దీర్ఘకాలిక ఆంక్షకు స్పష్టంగా అనుమతించకపోతే, ఆంక్ష తాత్కాలికంగా ఉండాలి.
+- **పునరుద్ధరణ మార్గం:** సాధ్యమైనప్పుడు, ఆంక్షలో నిర్దిష్ట వ్యవధి లేదా సమీక్షా క్రమంతో పాటు, సాక్ష్యాలు, మారిన పరిస్థితులు లేదా ఆశించిన ఫలితాలనుంచి గమనించిన వ్యత్యాసంతో ముడిపడిన పునరుద్ధరణ, వెనక్కి తీసుకోవడం లేదా మళ్లీ అంచనా వేయడానికి సంబంధించిన షరతులు ఉండాలి.
+<a id="1315-rights-collision-decision-test"></a>
+**రాజ్యాంగ ఘర్షణ నమోదు మరియు పునర్నిర్మాణయోగ్యత.** గణనీయమైన పరిమితికి లేదా రాజ్యాంగ ఘర్షణకు తూకం వేసే సూత్రాల శ్రేణి (§13.1.1 (*ఆవశ్యకత*) నుంచి §13.1.5 (*అత్యల్ప పరిమితి, కాలపరిమితి మరియు సమీక్షకు లోబడే పరిమితి సూత్రం*)) వర్తించినప్పుడు, పరిష్కారం తప్పనిసరిగా పత్రబద్ధమైన, ఆడిట్ చేయగల [రాజ్యాంగ ఘర్షణ నమోదు](core_05_band_integrative.md#constitutional-collision-record)ను రూపొందించాలి (సంక్షిప్త రూపం: **ఘర్షణ నమోదు**). ప్రభావిత పక్షాలు, సమీక్షకులు నిర్ణయాన్ని అర్థం చేసుకోవడానికి, సవాలు చేయడానికి, స్వతంత్రంగా పునర్నిర్మించడానికి సరిపడా స్పష్టత అందులో ఉండాలి. కనీసం, నమోదులో ఇవి ఉండాలి:
+- **వర్తించే నియమం మరియు ప్రమాణాలు:** ఆధారంగా తీసుకున్న రాజ్యాంగ నిబంధన, దాన్ని ప్రేరేపించిన గణనీయమైన వాస్తవాలు.
+- **పరిశీలించిన ప్రత్యామ్నాయాలు:** ఏమీ చేయకపోవడాన్ని కూడా కలుపుకుని, వాస్తవంగా సాధ్యమైన ప్రత్యామ్నాయాలు మరియు వాటిని తిరస్కరించడానికి స్పష్టమైన కారణాలు — [§13.1.1 ఆవశ్యకత](#1311-necessity)లోని ప్రత్యామ్నాయ-విశ్లేషణ అవసరాన్ని నెరవేర్చేవి.
+- **సాక్ష్యాలు, అనిశ్చితి నిర్వహణ:** ఎంచుకున్న ఎంపిక యొక్క ఆవశ్యకత, హాని స్వరూపం, అనుపాతబద్ధతకు మద్దతిచ్చే సాక్ష్యాలు; అనిశ్చితిని ఎలా నిర్వహించారో కూడా.
+- **ఎంపికకు ఆధారం:** ఎంపిక చేసిన మార్గం ఆవశ్యకత, హాని తగ్గింపు, అనుపాతబద్ధత, రాజ్యాంగ పరిమితులు, అత్యల్ప పరిమితి స్వరూపాన్ని ఎందుకు తీరుస్తుందో — తీరుస్తుందని చెప్పడం మాత్రమే కాకుండా.
+- **సమీక్షను ప్రేరేపించే అంశాలు:** [§13.1.5 అత్యల్ప పరిమితి, కాలపరిమితి మరియు సమీక్షకు లోబడే పరిమితి సూత్రం](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) ప్రకారం గడువు ముగింపు, పునర్మూల్యాంకన విరామం లేదా నిర్ణయాన్ని వెనక్కి తీసుకునే షరతులు.
 
-<a id="615-rights-collision-decision-test"></a>
-**నిర్ణయ రికార్డు మరియు పునర్నిర్మాణ-యోగ్యత.** లాభనష్ట స్టాక్ (§6.1.1–§6.1.5) భౌతిక పరిమితి లేదా హక్కుల ఢీకొనడానికి వర్తించే చోట, పరిష్కారం ప్రభావిత పక్షాలు, సమీక్షకులు నిర్ణయం అర్థం చేసుకుని, సవాలు చేసి, స్వతంత్రంగా పునర్నిర్మించేంత స్పష్టతతో **డాక్యుమెంట్, ఆడిట్-యోగ్య నిర్ణయ రికార్డు** ఉత్పత్తి చేయాలి. కనీసం, రికార్డులో ఉండాలి:
-- **సంచాలక నియమం మరియు పూర్వసూత్రాలు:** ఆధారపడిన రాజ్యాంగ నిబంధన, దాన్ని ప్రేరేపించిన భౌతిక వాస్తవాలు.
-- **పరిగణించిన ప్రత్యామ్నాయాలు:** చర్య-లేకపోవడం సహా భౌతికంగా సాధ్యమైన ప్రత్యామ్నాయాలు, తిరస్కరణకు స్పష్ట కారణాలతో — [§6.1.1](#611-necessity)లో ప్రత్యామ్నాయ-విశ్లేషణ అవసరం తీరుస్తూ.
-- **సాక్ష్యం మరియు అనిశ్చితి వ్యవహారం:** ఎంచుకున్న ఎంపిక ఆవశ్యకత, హాని ప్రొఫైల్, అనుపాతతకు మద్దతు సాక్ష్యం, అనిశ్చితి ఎలా నిర్వహించబడింది సహా.
-- **ఎంపిక ఆధారం:** ఎంచుకున్న ఎంపిక ఆవశ్యకత, హాని తగ్గింపు, అనుపాతత, రాజ్యాంగ నేలలు, అతి తక్కువ-పరిమిత రూపం *ఎందుకు* తీరుస్తుంది — కేవలం తీరుస్తుందని కాదు.
-- **సమీక్ష ప్రేరకాలు:** [§6.1.5](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) కింద సూర్యాస్తమయం, పునఃమూల్యాంకన క్రమం, లేదా తిరుగుదల షరతులు.
+రాజ్యాంగ ఘర్షణను పరిష్కరించే చర్యకు సంబంధించిన [చర్య నమోదు](core_05_band_accountability.md#materially-binding-act-record)లో ఘర్షణ నమోదు భాగంగా ఉంటుంది; ఈ అంశాలు గుర్తించగలిగేలా, అనుసంధానమై, సంచికలతో నమోదు చేయబడి, భద్రపరచబడి, అందుబాటులో ఉంటే, వేరుగా పునరావృత నమోదు అవసరం లేదు.
 
-రుజువు భారం ఆశించిన హాని తీవ్రత, తిరుగులేనితనం, ఆధారపడటం కేంద్రీకరణ, అనిశ్చితితో స్కేల్ అవుతుంది. అధిక-ప్రమాద పరిమితులకు బలమైన సాక్ష్యం, స్వతంత్ర పర్యవేక్షణ అవసరం. సౌకర్యం, సంస్థాగత జడత్వం, లేదా అనుకూలీకరణ ప్రాధాన్యత మాత్రమే ఈ క్రమశిక్షణ వర్తించే చోట హక్కులు పరిమితం చేయడానికి సరిపోయే సమర్థన కావు.
+ఊహించిన హాని తీవ్రత, తిరుగులేనితనం, ఆధారపడటం కేంద్రీకృతమయ్యే స్థాయి, అనిశ్చితి పెరిగే కొద్దీ రుజువు భారం పెరుగుతుంది. అధిక ప్రమాదమున్న పరిమితులకు మరింత బలమైన సాక్ష్యాలు, స్వతంత్ర పరిశీలన అవసరం. ఈ క్రమశిక్షణ వర్తించే సందర్భంలో సౌలభ్యం, సంస్థాగత జడత్వం లేదా అనుకూలీకరణ ప్రాధాన్యత మాత్రమే హక్కులను పరిమితం చేయడానికి తగిన సమర్థన కాదు.
 
-నిర్ణయ రికార్డుపై గోప్యత పరిమితులు [§6.2 జ్ఞాన బహిర్గత పరిమితులు](#62-epistemic-disclosure-constraints) తీర్చాలి. పూర్తి బహిరంగ బహిర్గతం సాధ్యం కాని చోట, గరిష్ఠ సాధ్య పాక్షిక బహిర్గతం ప్లస్ స్వతంత్ర సమీక్షకుడి ప్రవేశం నిర్వహించాలి.
+ఘర్షణ నమోదుపై గోప్యతా పరిమితులు [§13.2 జ్ఞాన సంబంధిత బహిర్గత పరిమితులు](#132-epistemic-disclosure-constraints)ను తీరుస్తూ ఉండాలి. పూర్తి బహిరంగ వెల్లడింపు సాధ్యం కానప్పుడు, సాధ్యమైనంత గరిష్ఠ పాక్షిక వెల్లడింపుతో పాటు స్వతంత్ర సమీక్షకులకు ప్రవేశం కొనసాగాలి.
 
 <a id="default-interim-posture"></a>
-**హక్కుల ఢీకొనడం పెండింగ్‌లో ఉన్నప్పుడు డిఫాల్ట్ మధ్యంతర భంగిమ.** [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test), [అనుచ్ఛేదం XXIII](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) ఢీకొనడం పరిష్కరించేంతవరకు, బాధ్యతాయుత నిర్వాహకుడు మెలకువలతో విజేత తయారు చేయలేకుండా నిలిపివేత నమూనా స్థిరం:
+**రాజ్యాంగ ఘర్షణ పెండింగ్‌లో ఉన్నప్పుడు ప్రామాణిక మధ్యంతర వైఖరి.** [రాజ్యాంగ ఘర్షణ నమోదు](core_05_band_integrative.md#constitutional-collision-record) ప్రక్రియ, [ఆర్టికల్ XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష మరియు స్వాధీనీకరణ నిరోధక రక్షణలు*) ఘర్షణను పరిష్కరించే వరకు, ఒక పరిరక్షకుడు తాత్కాలికంగా వ్యవహరించి విజేతను సృష్టించకుండా మధ్యంతర విధానం స్థిరంగా ఉంటుంది:
 
-- **సాక్ష్యం కాపాడండి:** తొలగింపు, లీక్, లేదా తిరుగులేని ప్రచురణ ద్వారా ఢీకొనడాన్ని నిష్ప్రయోజనం చేయకండి.
-- **ఢీకొనే పాఠాలలో ఒకదాన్ని అందుబాటులో లేకుండా చేసే తిరుగులేని అడుగులు గడ్డకట్టండి** — ఢీకొనడం మూసేసే, ఒక వైపు నిష్ప్రయోజనం చేసే, లేదా వ్యాఖ్యానం పరిష్కరించే ముందు విజేత తయారు చేసే తిరుగులేని అడుగు తీసుకోకండి.
-- **రెండు పాఠాలు అందుబాటులో ఉంచే తిరుగుదల ఉన్న, సమ్మతి అడుగులు కొనసాగించండి** — సమ్మతి ఉన్న చోట [భద్రత-పరిమిత పరిశీలనీయత](../../core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) కింద స్వతంత్ర-సమీక్షకుడి ప్రవేశం సహా.
-- **తెలియజేయండి** ప్రభావిత పక్షాలు, వ్యాఖ్యాన మార్గానికి ఏది గడ్డకట్టింది, ఏది కొనసాగుతుంది, వర్తించే గడియారం.
+- **సాక్ష్యాలను భద్రపరచండి:** తొలగింపు, లీక్ లేదా తిరుగులేని ప్రచురణ ద్వారా రాజ్యాంగ ఘర్షణను నిరర్థకం చేయవద్దు.
+- **తిరుగులేని చర్యలను నిలిపివేయండి**, అవి ఘర్షణలోని ఒక వ్యాఖ్యానాన్ని అందుబాటులో లేకుండా చేస్తే — వెనక్కి తిప్పలేని చర్య రాజ్యాంగ ఘర్షణను ముగిస్తే, ఒక పక్షపు వాదనను నిరర్థకం చేస్తే లేదా వ్యాఖ్యానం పరిష్కారమయ్యే ముందే విజేతను సృష్టిస్తే, ఆ చర్య తీసుకోకండి.
+- **రెండు వ్యాఖ్యానాలనూ అందుబాటులో ఉంచే తిరగదగిన, సమ్మతితో కూడిన చర్యలను కొనసాగించండి** — సమ్మతి ఉన్నప్పుడు, [భద్రతా పరిమితులకు లోబడిన పరిశీలనయోగ్యత](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) ప్రకారం స్వతంత్ర సమీక్షకులకు ప్రవేశం కూడా ఇందులో ఉంటుంది.
+- **ప్రభావిత పక్షాలకు, వ్యాఖ్యాన మార్గానికి** ఏది నిలిపివేయబడింది, ఏది కొనసాగుతుంది, ఏ గడువు వర్తిస్తుంది అనే విషయాలు తెలియజేయండి (వివాదాన్ని ఒక వేదికకు పంపితే, స్థాయి వారీ గడువులు మరియు [అధ్యాయం పన్నెండు §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline)లోని గరిష్ఠ పరిమితులు (*సకాల పరిష్కారం, ప్రాముఖ్యత స్థాయులు మరియు జాప్య నిరోధక క్రమశిక్షణ*) వర్తిస్తాయి).
 
-ఈ నిలిపివేత నమూనా ఏ వైపు సరైనదో నిర్ణయం కాదు. ఏ పాఠం మూసుకోకుండా తిరుగులేనిదాన్ని గడ్డకట్టండి; [§6](#6-process-conflict-resolution) ఇంకా ఢీకొనడానికి సమాధానం ఇవ్వాలి. [§6.1.5](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) అందుకే: తిరుగుదల ఉన్న సమ్మతి అడుగు రెండు పాఠాలు అందుబాటులో ఉంచుతుంది; తిరుగులేని అడుగు ఉంచదు.
+ఈ మధ్యంతర విధానం ఏ పక్షం సరైనదో నిర్ణయించదు. తిరిగి మార్చలేనిదాన్ని నిలిపివేయండి, తద్వారా ఏ వ్యాఖ్యానమూ మూసుకుపోదు; [§13 రాజ్యాంగ ఘర్షణల పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process) ఇంకా ఘర్షణకు సమాధానం చెప్పాలి. [§13.1.5 అత్యల్ప పరిమితి, కాలపరిమితి మరియు సమీక్షకు లోబడే పరిమితి సూత్రం](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) కారణాన్ని వివరిస్తుంది: తిరగదగిన, సమ్మతితో కూడిన చర్య రెండు వ్యాఖ్యానాలనూ అందుబాటులో ఉంచుతుంది; తిరుగులేని చర్య అలా చేయదు.
 
-లాభనష్ట స్టాక్ తీరిన తర్వాత, [§6.3 నివారించదగిన భారం తగ్గింపు](#63-minimization-of-avoidable-burden) ఫలిత రూపకల్పనకు వర్తిస్తుంది.
-
-<a id="62-epistemic-disclosure-constraints"></a>
-#### 6.2 జ్ఞాన బహిర్గత పరిమితులు
+తూకం వేసే సూత్రాల శ్రేణి తీరిన తర్వాత, ఫలిత రూపకల్పనకు [§13.3 నివారించగల భారాన్ని కనిష్ఠం చేయడం](#133-minimization-of-avoidable-burden) వర్తిస్తుంది.
+<a id="132-epistemic-disclosure-constraints"></a>
+#### 13.2 జ్ఞాన సంబంధిత బహిర్గత పరిమితులు
 <details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం** కాలు (పరిమితుల కింద సమాచారంతో సవాలు-యోగ్యత); **పర్యవేక్షణ** కాలు (బహిర్గత పరిమితులు గరిష్ఠ సాధ్య పర్యవేక్షణ కాపాడాలి); [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
-- మూలం: సూత్రాలు: [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§6 ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution).
-- గమ్యం: [§6.2.1 జ్ఞాన సమగ్రత సంరక్షణ](#621-preservation-of-epistemic-integrity), [§6.2.2 విశ్వాసం-సత్యం అనుగుణత](#622-trust-truth-alignment), [§6.2.3 గోప్యత మరియు సమాచార స్వయం-నిర్ణయం](#623-privacy-and-informational-self-determination), [7. పూర్తి అధిగమన నిషేధం](#7-prohibition-on-absolute-override).
-- గమ్యం: బహిర్గతం పరిమితమైనప్పుడు సమాచార-గోళ సమగ్రత, ఆడిట్-యోగ్యత, పూర్వదృష్టి సమీక్ష, సమాచారంతో సవాలు-యోగ్యతకు హక్కుల ఉపరితలం రక్షిస్తుంది; ప్రత్యేకంగా [అనుచ్ఛేదం XV: సమాచార-గోళ సమగ్రత](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity), [అనుచ్ఛేదం XVI: ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [అనుచ్ఛేదం XXIII: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీన-నిరోధ రక్షణలు](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards), [అనుచ్ఛేదం XXV-A: పూర్వదృష్టి సమీక్ష మరియు బహిర్గతం](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure), బహిర్గత పరిమితులు సవాలు-యోగ్యత లేదా సమాచారంతో పాల్గొనడం ప్రభావితం చేసే ఏ హక్కుల సందర్భం.
+- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్య** అంశం (పరిమితుల మధ్య కూడా సమాచారం ఆధారంగా అభ్యంతరం తెలిపే సామర్థ్యం); **పర్యవేక్షణ** అంశం (బహిర్గత పరిమితులు సాధ్యమైనంత గరిష్ఠ పరిశీలనను కాపాడాలి); **జవాబుదారీతన** అంశం (ప్రతి పరిమితికి [§13.2.1](#1321-preservation-of-epistemic-integrity) ప్రకారం అనంతర ఆడిట్, సమీక్ష ఉండాలి, దానికి ఎవరో బాధ్యత వహించాలి); **కాలసంబంధిత** అంశం (పరిమిత లేదా ఆలస్య బహిర్గతానికి కాలపరిమితి ఉంటుంది; §13.2.1 ప్రకారం చివరికి బహిర్గతం జరుగుతుంది); [భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) మేరకు స్థాయీకరణ.
+- పైస్థాయి అంశాలు: సూత్రాలు [4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), మరియు [§13 రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process).
+- దిగువ అంశాలు: [§13.2.1 జ్ఞాన సమగ్రత పరిరక్షణ](#1321-preservation-of-epistemic-integrity), [§13.2.2 విశ్వాసం-సత్యం సమన్వయం](#1322-trust-truth-alignment), [§13.2.3 గోప్యత మరియు సమాచార స్వీయ-నిర్ణయం](#1323-privacy-and-informational-self-determination), మరియు [14. సంపూర్ణ అధిగమన నిషేధం](#14-prohibition-on-absolute-override).
+- దిగువ అంశాలు: బహిర్గతం పరిమితం అయినప్పుడు సమాచార-వలయ సమగ్రత, ఆడిట్ చేయగలగడం, పునరాలోచన సమీక్ష, సమాచారం ఆధారంగా అభ్యంతరం తెలిపే సామర్థ్యానికి సంబంధించిన హక్కులను కాపాడుతుంది; ముఖ్యంగా [ఆర్టికల్ XV: సమాచార-వలయ సమగ్రత](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [ఆర్టికల్ XVI: ఆడిట్, పారదర్శకత మరియు స్వతంత్ర ధృవీకరణ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [ఆర్టికల్ XXIV: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష మరియు స్వాధీన నిరోధక రక్షణలు](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), మరియు [ఆర్టికల్ XXV-A: పునరాలోచన సమీక్ష మరియు బహిర్గతం](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure); అలాగే బహిర్గత పరిమితులు అభ్యంతర సామర్థ్యం లేదా సమాచారం ఆధారిత భాగస్వామ్యాన్ని ప్రభావితం చేసే ఇతర హక్కుల సందర్భాలు.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [జ్ఞాన సమగ్రత](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
-- [సత్యం (రాజ్యాంగ పరిమితి)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [విశ్వాసం](../../core_05_band_continuity.md#trust) · [O](../../core_05_band_continuity.md#trust) · [M](../../core_05_band_continuity.md#trust-a) · [A](../../core_05_band_continuity.md#trust-a) · [C](../../core_05_band_continuity.md#trust-c)
-- [గోప్యత (సమాచార)](../../core_05_band_continuity.md#privacy-informational) · [O](../../core_05_band_continuity.md#privacy-informational) · [M](../../core_05_band_continuity.md#privacy-informational-a) · [A](../../core_05_band_continuity.md#privacy-informational-a) · [C](../../core_05_band_continuity.md#privacy-informational-c)
-- [భౌతికత](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [అంచనా-యోగ్యత](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [జ్ఞాన సమగ్రత](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [విశ్వాసం](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [గోప్యత (సమాచార)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
+- [భౌతిక ప్రాముఖ్యత](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [ముందుగా ఊహించగలగడం](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [అనుపాతబద్ధత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: సంజ్ఞ ప్రాణులు తెలుసుకోగలిగేదానిపై పరిమితులు మినహాయింపు, డిఫాల్ట్ కాదు. బహిర్గతం నేరుగా తీవ్ర హాని కలిగించగలిగి తేలికైనది పని చేయనప్పుడు, వీలైనంత తక్కువ పరిమితం చేయండి, వీలైనంత తక్కువ కాలం, రికార్డుపై — ప్రమాదం దాటిన తర్వాత సమాచారం విడుదల చేయండి. సంజ్ఞ ప్రాణులను ప్రశాంతంగా ఉంచడానికి సమస్యలు దాచడం అనుమతి లేదు.*
+*సరళంగా చెప్పాలంటే: సచేతన జీవులు ఏమి తెలుసుకోగలరో దానిపై పరిమితులు మినహాయింపు మాత్రమే, నియమం కాదు. బహిర్గతం నేరుగా తీవ్రమైన హాని కలిగించగలిగితే, దానికంటే తక్కువ పరిమితి గల మార్గం లేకపోతే, రికార్డులో ఉంచి సాధ్యమైనంత తక్కువగా, సాధ్యమైనంత తక్కువ కాలం మాత్రమే పరిమితం చేయండి — ప్రమాదం తొలగిన తర్వాత సమాచారాన్ని విడుదల చేయండి. సచేతన జీవులను ప్రశాంతంగా ఉంచేందుకు సమస్యలను దాచడం అనుమతించబడదు.*
 
-**జ్ఞాన బహిర్గత పరిమితులు** తక్షణ లేదా పూర్తి బహిర్గతం నేరుగా, భౌతికంగా హాని సాధ్యం చేసే చోట **సత్యం**, పారదర్శకత కర్తవ్యాలు, **భద్రత** మధ్య సంఘర్షణలను పాలిస్తాయి. **[§6.2.1](#621-preservation-of-epistemic-integrity)** సమర్థించబడిన బహిర్గత పరిమితులు ఎప్పుడు అనుమతి అని చెబుతుంది. **[§6.2.2](#622-trust-truth-alignment)** **విశ్వాసం** మోసం లేదా సత్యం అణచడం ద్వారా కాపాడకూడదని చెబుతుంది. **[§6.2.3](#623-privacy-and-informational-self-determination)** గోప్యత బహిర్గతం పరిమితం చేయగలిగే చోట చెబుతుంది.
+**జ్ఞాన సంబంధిత బహిర్గత పరిమితులు** **సత్యం**, పారదర్శకత విధులు, **భద్రత** మధ్య విభేదాలను నియంత్రిస్తాయి; తక్షణ లేదా పూర్తి బహిర్గతం నేరుగా, గణనీయంగా హానిని సాధ్యం చేసినప్పుడు ఇవి వర్తిస్తాయి. వాటిలోని మూడు ఉపవిభాగాలు ఒక్కొక్కటి ఒక అంశాన్ని నిర్దేశిస్తాయి:
+- **[§13.2.1 జ్ఞాన సమగ్రత పరిరక్షణ](#1321-preservation-of-epistemic-integrity):** బహిర్గతంపై సమర్థనీయ పరిమితులు ఎప్పుడు అనుమతించబడతాయో చెబుతుంది.
+- **[§13.2.2 విశ్వాసం-సత్యం సమన్వయం](#1322-trust-truth-alignment):** మోసం లేదా సత్యాన్ని అణచివేయడం ద్వారా **విశ్వాసాన్ని** కాపాడకూడదని చెబుతుంది.
+- **[§13.2.3 గోప్యత మరియు సమాచార స్వీయ-నిర్ణయం](#1323-privacy-and-informational-self-determination):** గోప్యత ఎప్పుడు బహిర్గతాన్ని పరిమితం చేయగలదో చెబుతుంది.
 
-ఈ విభాగం మూడు నమూనాలు వేరు చేస్తుంది:
-- **సత్యం వక్రీకరణ లేదా అణచడం** — **అనుమతి లేదు**, వీటికి సహా:
+ఈ విభాగం మూడు విధానాలను వేరు చేస్తుంది:
+- **సత్యాన్ని వక్రీకరించడం లేదా అణచివేయడం** — **అనుమతించబడదు**, వీటి కోసం కూడా కాదు:
   - స్థిరత్వం;
-  - సౌకర్యం;
-  - విశ్వాసం-సంరక్షణ; లేదా
+  - సౌలభ్యం;
+  - విశ్వాస పరిరక్షణ; లేదా
   - సంస్థాగత ప్రయోజనం.
-- **ఆలస్య బహిర్గతం**, **పరిమిత బహిర్గతం** — ఇక్కడ మాత్రమే అనుమతి:
-  - [§6.2.1](#621-preservation-of-epistemic-integrity) షరతులు తీరిన చోట;
-  - [ఆవశ్యకత](../../core_05_band_accountability.md#necessity), [అనుపాతత](../../core_05_band_accountability.md#proportionality) తీరిన చోట; మరియు
-  - గరిష్ఠ సాధ్య [జ్ఞాన సమగ్రత](../../core_05_band_oversight.md#epistemic-integrity) కాపాడబడిన చోట.
-- [§6.2.3](#623-privacy-and-informational-self-determination) కింద బహిర్గతం **గోప్యత-రక్షణ పరిమితి**:
-  - [అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) కింద మాత్రమే అనుమతి;
-  - గోప్యత పారదర్శకత, ఆడిట్, భద్రత, లేదా జవాబుదారీతనంతో ఢీకొంటే, ఢీకొనడం [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test) కింద పరిష్కరించండి;
-  - గోప్యత స్వయంచాలకంగా అధీనం కాదు.
+- **ఆలస్యమైన బహిర్గతం** మరియు **పరిమిత బహిర్గతం** — కింది షరతులు ఉన్నప్పుడే అనుమతించబడతాయి:
+  - [§13.2.1 జ్ఞాన సమగ్రత పరిరక్షణ](#1321-preservation-of-epistemic-integrity) షరతులు నెరవేరాలి;
+  - [ఆవశ్యకత](core_05_band_accountability.md#necessity), [అనుపాతబద్ధత](core_05_band_accountability.md#proportionality) పాటించాలి; మరియు
+  - సాధ్యమైనంత గరిష్ఠ [జ్ఞాన సమగ్రత](core_05_band_oversight.md#epistemic-integrity) నిలిచి ఉండాలి.
+- [§13.2.3 గోప్యత మరియు సమాచార స్వీయ-నిర్ణయం](#1323-privacy-and-informational-self-determination) ప్రకారం **గోప్యతను కాపాడే బహిర్గత పరిమితి**:
+  - [అత్యల్ప-పరిమిత, కాలపరిమితి గల మరియు సమీక్షించదగిన నియంత్రణ సూత్రం](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) ప్రకారం మాత్రమే అనుమతించబడుతుంది;
+  - గోప్యతకు పారదర్శకత, ఆడిట్, భద్రత లేదా జవాబుదారీతనంతో ఘర్షణ ఉన్నప్పుడు, [రాజ్యాంగ ఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record) అవసరాల ప్రకారం ఆ ఘర్షణను పరిష్కరించాలి;
+  - గోప్యత స్వయంచాలకంగా అధీనమవదు.
 
-ఏ సమర్థించబడిన పరిమితి రక్షిత రికార్డులు, స్వతంత్ర సమీక్ష, సురక్షిత ప్రవేశం, రెడాక్షన్, ఆలస్య విడుదల, లేదా సమాన రక్షణల ద్వారా [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) **పర్యవేక్షణ** కాలును కాపాడాలి. అది సమాచారంతో [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability) లేదా వర్తించే **అధ్యాయం ఆరు** పారదర్శకత, ఆడిట్, లేదా సమీక్ష కర్తవ్యాలను [§6.2.1](#621-preservation-of-epistemic-integrity) స్పష్టంగా అనుమతించినది మినహా ఓడించకూడదు.
+ప్రతి సమర్థనీయ పరిమితి [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) లోని **పర్యవేక్షణ** అంశాన్ని రక్షిత రికార్డుల ద్వారా (ఆ పరిమితికి సంబంధించిన [రాజ్యాంగ ఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record) సహా), స్వతంత్ర సమీక్ష, సురక్షిత ప్రాప్యత, తొలగింపు/మరుగుపరచడం, ఆలస్య విడుదల లేదా పోల్చదగిన రక్షణల ద్వారా కాపాడాలి. ఇది సమాచారం ఆధారిత [అభ్యంతర సామర్థ్యాన్ని](core_05_band_accountability.md#contestability) లేదా వర్తించే **అధ్యాయం ఆరు** పారదర్శకత, ఆడిట్ లేదా సమీక్ష విధులను అడ్డుకోకూడదు; అయితే [§13.2.1 జ్ఞాన సమగ్రత పరిరక్షణ](#1321-preservation-of-epistemic-integrity) స్పష్టంగా అనుమతించిన మేరకు మినహాయింపు ఉంటుంది.
 
-ప్రచురణ, డేటా ప్రవేశం, పద్ధతి బహిర్గతం, లేదా పునరావృత పదార్థాలపై భద్రత-సున్నిత పరిమితులు ఇక్కడ, [అధ్యాయం ఒకటి §3.3 శాస్త్ర-ఆధారిత విచారణ మరియు నిర్ణయ మద్దతు](core_01_a_values_principles.md#33-science-informed-inquiry-and-decision-support) కింద పాలించబడతాయి. అలాంటి పరిమితులు అననుకూల సాక్ష్యం అణచడానికి, భద్రత లోపాలు దాచడానికి, లేదా కనిపించే ఏకాభిప్రాయం తయారు చేయడానికి సాధనం **కాకూడదు**.
+ప్రచురణ, డేటా ప్రాప్యత, పద్ధతి వెల్లడి లేదా పునరుత్పాదన సామగ్రిపై భద్రతకు సంబంధించిన పరిమితులు ఇక్కడ మరియు [అధ్యాయం ఒకటి §5.1 విజ్ఞానాధారిత విచారణ మరియు నిర్ణయ మద్దతు](core_01_a_values_principles.md#51-science-informed-inquiry-and-decision-support) కింద నియంత్రించబడతాయి. ఇటువంటి పరిమితులు ప్రతికూల సాక్ష్యాలను అణచివేయడానికి, భద్రతా లోపాలను దాచడానికి లేదా పైకి కనిపించే ఏకాభిప్రాయాన్ని కల్పించడానికి సాధనంగా **మారకూడదు**.
 
-<a id="621-preservation-of-epistemic-integrity"></a>
-##### 6.2.1 జ్ఞాన సమగ్రత సంరక్షణ
+<a id="1321-preservation-of-epistemic-integrity"></a>
+##### 13.2.1 జ్ఞాన సమగ్రత పరిరక్షణ
 <details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- మూలం: [§6.2 జ్ఞాన బహిర్గత పరిమితులు](#62-epistemic-disclosure-constraints) (తల్లి, పైన *సాధారణ మాటల్లో*, సంచాలక పాఠం సహా).
-- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం** కాలు (పరిమితుల కింద సమాచారంతో సవాలు-యోగ్యత); **పర్యవేక్షణ** కాలు (బహిర్గత పరిమితులు గరిష్ఠ సాధ్య పర్యవేక్షణ కాపాడాలి); [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
-- మూలం: సూత్రాలు: [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution).
-- గమ్యం: [§6.2.2 విశ్వాసం-సత్యం అనుగుణత](#622-trust-truth-alignment), [7. పూర్తి అధిగమన నిషేధం](#7-prohibition-on-absolute-override).
-- గమ్యం: బహిర్గతం పరిమితమైనప్పుడు సమాచార-గోళ సమగ్రత, ఆడిట్-యోగ్యత, పూర్వదృష్టి సమీక్ష, సమాచారంతో సవాలు-యోగ్యతకు హక్కుల ఉపరితలం రక్షిస్తుంది; ప్రత్యేకంగా [అనుచ్ఛేదం XV: సమాచార-గోళ సమగ్రత](../../core_06_rights_part_c.md#article-xv-info-sphere-integrity), [అనుచ్ఛేదం XVI: ఆడిట్, పారదర్శకత, స్వతంత్ర ధృవీకరణ](../../core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [అనుచ్ఛేదం XXIII: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీన-నిరోధ రక్షణలు](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards), [అనుచ్ఛేదం XXV-A: పూర్వదృష్టి సమీక్ష మరియు బహిర్గతం](../../core_06_rights_part_d.md#article-xxv-a-retrospective-review-and-disclosure), బహిర్గత పరిమితులు సవాలు-యోగ్యత లేదా సమాచారంతో పాల్గొనడం ప్రభావితం చేసే ఏ హక్కుల సందర్భం.
+- పూర్వవిషయం: [§13.2 జ్ఞాన సంబంధిత బహిర్గత పరిమితులు](#132-epistemic-disclosure-constraints) (పైనున్న *సరళంగా చెప్పాలంటే* మరియు కార్యాచరణ పాఠ్యంతో సహా మాతృ విభాగం).
+- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్య** అంశం (పరిమితుల మధ్య కూడా సమాచారం ఆధారంగా అభ్యంతరం తెలిపే సామర్థ్యం); **పర్యవేక్షణ** అంశం (బహిర్గత పరిమితులు సాధ్యమైనంత గరిష్ఠ పరిశీలనను కాపాడాలి); **జవాబుదారీతన** అంశం (ప్రతి ఆంక్షకు అనంతర ఆడిట్, సమీక్ష అవసరం); **కాలసంబంధిత** అంశం (ఆంక్షలు సంకుచిత పరిధిలో, కాలపరిమితితో ఉంటాయి; వాటిని సమర్థించే పరిస్థితులు ముగిసిన తర్వాత బహిర్గతం చేయాలి); [భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) మేరకు స్థాయీకరణ.
+- పైస్థాయి అంశాలు: సూత్రాలు [4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), మరియు [13. రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process).
+- దిగువ అంశాలు: [§13.2.2 విశ్వాసం-సత్యం సమన్వయం](#1322-trust-truth-alignment) మరియు [14. సంపూర్ణ అధిగమన నిషేధం](#14-prohibition-on-absolute-override).
+- దిగువ అంశాలు: బహిర్గతం పరిమితం అయినప్పుడు సమాచార-వలయ సమగ్రత, ఆడిట్ చేయగలగడం, పునరాలోచన సమీక్ష, సమాచారం ఆధారంగా అభ్యంతరం తెలిపే సామర్థ్యానికి సంబంధించిన హక్కులను కాపాడుతుంది; ముఖ్యంగా [ఆర్టికల్ XV: సమాచార-వలయ సమగ్రత](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [ఆర్టికల్ XVI: ఆడిట్, పారదర్శకత మరియు స్వతంత్ర ధృవీకరణ](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [ఆర్టికల్ XXIV: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష మరియు స్వాధీన నిరోధక రక్షణలు](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), మరియు [ఆర్టికల్ XXV-A: పునరాలోచన సమీక్ష మరియు బహిర్గతం](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure); అలాగే బహిర్గత పరిమితులు అభ్యంతర సామర్థ్యం లేదా సమాచారం ఆధారిత భాగస్వామ్యాన్ని ప్రభావితం చేసే ఇతర హక్కుల సందర్భాలు.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [జ్ఞాన సమగ్రత](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
-- [సత్యం (రాజ్యాంగ పరిమితి)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [భౌతికత](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [అంచనా-యోగ్యత](../../core_05_band_oversight.md#foreseeability-diligence) · [O](../../core_05_band_oversight.md#foreseeability-diligence) · [M](../../core_05_band_oversight.md#foreseeability-diligence-a) · [A](../../core_05_band_oversight.md#foreseeability-diligence-a) · [C](../../core_05_band_oversight.md#foreseeability-diligence-c)
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [జ్ఞాన సమగ్రత](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
+- [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [భౌతిక ప్రాముఖ్యత](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [ముందుగా ఊహించగలగడం](core_05_band_oversight.md#foreseeability) · [O](core_05_band_oversight.md#foreseeability) · [M](core_05_band_oversight.md#foreseeability-diligence-a) · [A](core_05_band_oversight.md#foreseeability-diligence-a) · [C](core_05_band_oversight.md#foreseeability-diligence-c)
+- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [అనుపాతబద్ధత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: బహిర్గతం నేరుగా అంచనా-యోగ్య హాని సాధ్యం చేసి తక్కువ ప్రత్యామ్నాయం లేనప్పుడు మాత్రమే సత్యం నిలిపివేయవచ్చు లేదా ఆలస్యం చేయవచ్చు. ప్రతి అలాంటి పరిమితి సంకుచితం, కాల-పరిమితం, ఆడిట్, సమర్థించే షరతులు ఇక వర్తించనప్పుడు బహిర్గతం కావాలి.*
+*సరళంగా చెప్పాలంటే: బహిర్గతం ఊహించగల హానిని నేరుగా సాధ్యం చేస్తే, దానికంటే తక్కువ పరిమితి గల ప్రత్యామ్నాయం లేకపోతే మాత్రమే సత్యాన్ని నిలిపివేయవచ్చు లేదా ఆలస్యం చేయవచ్చు. ప్రతి పరిమితి సంకుచిత పరిధిలో, కాలపరిమితితో, ఆడిట్‌కు లోబడి ఉండాలి; దాన్ని సమర్థించిన పరిస్థితులు ముగిసిన వెంటనే సమాచారాన్ని వెల్లడించాలి.*
 
-సత్యం అణచబడకూడదు, వక్రీకరించబడకూడదు, ఇక్కడ మినహా:
-- దాని బహిర్గతం ఆసన్న లేదా సహేతుకంగా అంచనా-యోగ్య హానిని **నేరుగా, భౌతికంగా** సాధ్యం చేస్తే, వ్యవస్థాగత లేదా క్యాస్కేడింగ్ ప్రమాదం సహా
-- **తక్కువ-పరిమిత ఉపశమనం** అందుబాటులో లేకపోతే
+కిందివి నిజమైనప్పుడు మాత్రమే సత్యాన్ని అణచివేయవచ్చు లేదా వక్రీకరించవచ్చు:
+- దాని బహిర్గతం ఆసన్నమైన లేదా సహేతుకంగా ముందుగా ఊహించగల హానిని — వ్యవస్థాగత లేదా వరుసగా వ్యాపించే ప్రమాదాలతో సహా — **నేరుగా, గణనీయంగా** సాధ్యం చేస్తుంది;
+- **తక్కువ పరిమితి గల ఉపశమన మార్గం** అందుబాటులో లేదు.
 
-అలాంటి పరిమితులు **సంకుచిత పరిధి**, **కాల-పరిమితం**, **ఆడిట్, సమీక్షకు లోనవ్వాలి**.
+అలాంటి పరిమితులు **సంకుచిత పరిధిలో**, **కాలపరిమితితో**, మరియు **ఆడిట్, సమీక్షలకు లోబడి** ఉండాలి.
 
-పారదర్శకత భద్రత పరిమితులతో సంఘర్షించే చోట, బహిర్గతం పైనట్టు పరిమితం కావాలి, **గరిష్ఠ సాధ్య జ్ఞాన సమగ్రత** కాపాడుతూ.
+పారదర్శకత భద్రతా పరిమితులతో ఘర్షణ పడినప్పుడు, పైన పేర్కొన్న ప్రకారం బహిర్గతాన్ని పరిమితం చేస్తూ **సాధ్యమైనంత గరిష్ఠ జ్ఞాన సమగ్రతను** కాపాడాలి.
 
-బహిర్గతంపై అన్ని పరిమితులు **పూర్వదృష్టి ఆడిట్**, సాధ్యమైన చోట పరిమితిని సమర్థించే షరతులు ఇక వర్తించనప్పుడు **చివరికి బహిర్గతం** నిబంధనలు కలిగి ఉండాలి.
+బహిర్గతంపై అన్ని పరిమితుల్లో **పునరాలోచన ఆడిట్** మరియు సాధ్యమైన చోట, పరిమితిని సమర్థించిన పరిస్థితులు వర్తించనప్పుడు **తదుపరి బహిర్గతం** కోసం నిబంధనలు ఉండాలి.
 
-<a id="622-trust-truth-alignment"></a>
-##### 6.2.2 విశ్వాసం-సత్యం అనుగుణత
+<a id="1322-trust-truth-alignment"></a>
+##### 13.2.2 విశ్వాసం-సత్యం సమన్వయం
 <details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- మూలం: [§6.2 జ్ఞాన బహిర్గత పరిమితులు](#62-epistemic-disclosure-constraints) (తల్లి, పైన *సాధారణ మాటల్లో*, సంచాలక పాఠం సహా); [§6.2.1 జ్ఞాన సమగ్రత సంరక్షణ](#621-preservation-of-epistemic-integrity).
+- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పర్యవేక్షణ** అంశం (జ్ఞాన సమగ్రత పర్యవేక్షణ పరిధిలోని విషయం; సచేతన జీవులను ప్రశాంతంగా ఉంచేందుకు బహిర్గత నిర్వహణ సమస్యలను దాచకూడదు); భౌతికంగా సంబంధితమైనప్పుడు [భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) మేరకు స్థాయీకరణ.
+- పూర్వవిషయం: [§13.2 జ్ఞాన సంబంధిత బహిర్గత పరిమితులు](#132-epistemic-disclosure-constraints) (పైనున్న *సరళంగా చెప్పాలంటే* మరియు కార్యాచరణ పాఠ్యంతో సహా మాతృ విభాగం); [§13.2.1 జ్ఞాన సమగ్రత పరిరక్షణ](#1321-preservation-of-epistemic-integrity).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [విశ్వాసం](../../core_05_band_continuity.md#trust) · [O](../../core_05_band_continuity.md#trust) · [M](../../core_05_band_continuity.md#trust-a) · [A](../../core_05_band_continuity.md#trust-a) · [C](../../core_05_band_continuity.md#trust-c)
-- [సత్యం (రాజ్యాంగ పరిమితి)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [జ్ఞాన సమగ్రత](../../core_05_band_oversight.md#epistemic-integrity) · [O](../../core_05_band_oversight.md#epistemic-integrity-o) · [M](../../core_05_band_oversight.md#epistemic-integrity-a) · [A](../../core_05_band_oversight.md#epistemic-integrity-a) · [C](../../core_05_band_oversight.md#epistemic-integrity-c)
+- [విశ్వాసం](core_05_band_continuity.md#trust) · [O](core_05_band_continuity.md#trust) · [M](core_05_band_continuity.md#trust-a) · [A](core_05_band_continuity.md#trust-a) · [C](core_05_band_continuity.md#trust-c)
+- [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [జ్ఞాన సమగ్రత](core_05_band_oversight.md#epistemic-integrity) · [O](core_05_band_oversight.md#epistemic-integrity-o) · [M](core_05_band_oversight.md#epistemic-integrity-a) · [A](core_05_band_oversight.md#epistemic-integrity-a) · [C](core_05_band_oversight.md#epistemic-integrity-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: విశ్వాసం, సత్యం వేరు దిశల్లో లాగితే, సత్యం గెలుస్తుంది. అబద్ధాల ద్వారా విశ్వాసం ఉంచలేము; బహిర్గతం ఆలోచనతో నిర్వహించాలి — స్థిరత్వం కోసం అణచకూడదు.*
+*సరళంగా చెప్పాలంటే: విశ్వాసం, సత్యం పరస్పరం విరుద్ధంగా ఉన్నప్పుడు సత్యానికే ప్రాధాన్యం. అబద్ధాల ద్వారా విశ్వాసాన్ని నిలబెట్టలేరు; స్థిరత్వం కోసం బహిర్గతాన్ని అణచకుండా జాగ్రత్తగా నిర్వహించాలి.*
 
-విశ్వాసం మోసం లేదా సత్యం అణచడం ద్వారా కాపాడకూడదు. ఉద్రిక్తతలు వచ్చిన చోట, వ్యవస్థలు జ్ఞాన సమగ్రత నిర్వహించాలి, **అనవసర** అస్థిరత నివారించే విధంగా బహిర్గతం నిర్వహిస్తూ.
-
-<a id="623-privacy-and-informational-self-determination"></a>
-##### 6.2.3 గోప్యత మరియు సమాచార స్వయం-నిర్ణయం
+మోసం లేదా సత్యాన్ని అణచివేయడం ద్వారా విశ్వాసాన్ని కాపాడకూడదు. ఉద్రిక్తతలు తలెత్తినప్పుడు, **అనవసరమైన** అస్థిరతను నివారించే విధంగా బహిర్గతాన్ని నిర్వహిస్తూ వ్యవస్థలు జ్ఞాన సమగ్రతను కాపాడాలి.
+<a id="1323-privacy-and-informational-self-determination"></a>
+##### 13.2.3 గోప్యత మరియు సమాచార స్వయంనిర్ణయం
 <details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం** కాలు (గోప్యత స్వేచ్ఛా వ్యక్తీకరణ, సంఘటనకు పునాది); **పర్యవేక్షణ** కాలు (గోప్యత చొరబాట్లు స్వయంగా ఆడిట్-యోగ్యం కావాలి); [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
-- మూలం: సూత్రాలు: [5. స్వేచ్ఛ (పరిమిత కర్తృత్వం)](core_01_a_values_principles.md#5-freedom-bounded-agency), [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 జ్ఞాన బహిర్గత పరిమితులు](#62-epistemic-disclosure-constraints).
-- గమ్యం: [**Def.C3** గోప్యత (సమాచార) — సమాన-స్థాయి క్లస్టర్ తల](../../core_05_band_continuity.md#privacy-informational-cluster), [గోప్యత (సమాచార)](../../core_05_band_continuity.md#privacy-informational), [రక్షిత అంతరంగిక-స్థితి సరిహద్దు](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional), [నిఘా సరిహద్దు](../../core_05_band_continuity.md#surveillance-boundary) సహా.
-- గమ్యం: [అనుచ్ఛేదం VII-A](../../core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*శరీరం, మనస్సు స్వీయ-యాజమాన్యం*); [అనుచ్ఛేదం VII-B](../../core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*అంతరంగిక-స్థితి సరిహద్దు మరియు Type-N రక్షణ*); [అనుచ్ఛేదం IX](../../core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*స్వరూపం, అనుభవ డేటా, ప్రచురణ హక్కులు*); [అనుచ్ఛేదం X-A](../../core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*కర్తృత్వం మరియు మానిప్యులేషన్ నుండి స్వేచ్ఛ*); [అనుచ్ఛేదం XIV-A](../../core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*భద్రత, గూఢచర్యం, రహస్య-శక్తి పరిమితులు*).
-- దీనితో చదవండి: [§6.1.5 అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle); గోప్యత పారదర్శకత, ఆడిట్, భద్రత, లేదా ఇతర రాజ్యాంగ ఆసక్తులతో ఢీకొనే చోట [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test).
+- వీటితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్య** పాదం (గోప్యత స్వేచ్ఛాయుత భావప్రకటనకు, సంఘటితమవడానికి పునాది); **పర్యవేక్షణ** పాదం (గోప్యతలోకి చొరబాట్లు కూడా తనిఖీ చేయదగినవిగా ఉండాలి); **జవాబుదారీతన** పాదం (గోప్యతకు పారదర్శకత, తనిఖీ, భద్రత లేదా జవాబుదారీతనంతో ఘర్షణ ఏర్పడితే, గోప్యతను అధీనంగా పరిగణించకుండా, దస్తావేజీకరించిన రాజ్యాంగ ఘర్షణ రికార్డు ద్వారా దాన్ని పరిష్కరించాలి); [వస్తుపరమైన పణం](core_00_preamble.md#material-stake) స్థాయికి అనుగుణంగా కొలవాలి.
+- ముందస్తు సూచనలు: సూత్రాలు: [7. స్వేచ్ఛ (పరిమిత క్రియాశీలత)](core_01_a_values_principles.md#7-freedom-bounded-agency), [4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), మరియు [§13.2 జ్ఞానాత్మక వెల్లడి పరిమితులు](#132-epistemic-disclosure-constraints).
+- తదనంతర సూచనలు: [**Def.C3** గోప్యత (సమాచార సంబంధమైనది) — సమస్థాయి సమూహ ప్రధాన అంశం](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head), ఇందులో [గోప్యత (సమాచార సంబంధమైనది)](core_05_band_continuity.md#privacy-informational), [రక్షిత అంతర్గత స్థితి సరిహద్దు](core_05_band_continuity.md#protected-internal-state-boundary), మరియు [నిఘా సరిహద్దు](core_05_band_continuity.md#surveillance-boundary) ఉన్నాయి.
+- తదనంతర సూచనలు: [ఆర్టికల్ VII-A](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*శరీరంపై స్వీయ యాజమాన్యం*); [ఆర్టికల్ VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*మనస్సుపై స్వీయ యాజమాన్యం*); [ఆర్టికల్ IX](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*రూపసామ్యం, అనుభవ డేటా, ప్రచురణ హక్కులు*); [ఆర్టికల్ X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*క్రియాశీలత మరియు తారుమారు నుంచి స్వేచ్ఛ*); [ఆర్టికల్ XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*భద్రత, నిఘా మరియు రహస్య అధికార పరిమితులు*).
+- వీటితో కలిపి చదవండి: [§13.1.5 అతి తక్కువ నిర్బంధక, కాలపరిమితి గల, సమీక్షించదగిన ఆంక్ష సూత్రం](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); గోప్యతకు పారదర్శకత, తనిఖీ, భద్రత లేదా ఇతర రాజ్యాంగ ప్రయోజనాలతో ఘర్షణ ఏర్పడినప్పుడు [రాజ్యాంగ ఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
+
+- [గోప్యత (సమాచార సంబంధమైనది)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
+- [రక్షిత అంతర్గత స్థితి సరిహద్దు](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [నిఘా సరిహద్దు](core_05_band_continuity.md#surveillance-boundary) · [O](core_05_band_continuity.md#surveillance-boundary) · [M](core_05_band_continuity.md#surveillance-boundary-a) · [A](core_05_band_continuity.md#surveillance-boundary-a) · [C](core_05_band_continuity.md#surveillance-boundary-c)
+- [సమ్మతి](core_05_band_participation.md#consent) · [O](core_05_band_participation.md#consent) · [M](core_05_band_participation.md#consent-constitutional-a) · [A](core_05_band_participation.md#consent-constitutional-a) · [C](core_05_band_participation.md#consent-constitutional-c)
+- [అవసరత](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [అనుపాతబద్ధత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: గోప్యత అనేది రాజ్యాంగ ప్రాధాన్యం కలిగిన ప్రయోజనం — కేవలం వెల్లడి లేకపోవడం మాత్రమే కాదు. అవసరత, అనుపాతబద్ధత సమర్థించే దానికంటే ఎక్కువగా వ్యక్తిగత, సంబంధిత సమాచారాన్ని వ్యవస్థలు సేకరించకూడదు, ఊహించకూడదు, సమీకరించకూడదు, నిల్వచేయకూడదు లేదా ఉపయోగించకూడదు. గోప్యతకు పారదర్శకత, తనిఖీ, భద్రత లేదా జవాబుదారీతన బాధ్యతలతో ఘర్షణ ఏర్పడితే, గోప్యతను స్వయంచాలకంగా అధీనంగా పరిగణించకుండా, [రాజ్యాంగ ఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record) అవసరాల ప్రకారం దాన్ని పరిష్కరించాలి. క్రియాశీలత, సంఘటితమవడం లేదా భావప్రకటనను అణిచివేసే నిఘా, ఇతర హక్కుల పరిమితుల మాదిరిగానే అవసరత మరియు అతి తక్కువ నిర్బంధక క్రమశిక్షణను పాటించాలి.*
+
+**రాజ్యాంగ ప్రయోజనంగా గోప్యత.** గోప్యత — సమాచార గోప్యత, స్థల మరియు సంబంధ గోప్యత, అలాగే అన్యాయమైన నిఘా నుంచి స్వేచ్ఛ సహా — రాజ్యాంగ ప్రాధాన్యం కలిగిన ప్రయోజనం. ఇది **స్వేచ్ఛకు** ([§7 స్వేచ్ఛ (పరిమిత క్రియాశీలత)](core_01_a_values_principles.md#7-freedom-bounded-agency)), **గౌరవానికి** ([ఆర్టికల్ VI-A](core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*గౌరవం మరియు సమాన నైతిక స్థానం*)), అలాగే అర్థవంతమైన క్రియాశీలత, బలవంతం లేని భాగస్వామ్యానికి అవసరమైన పరిస్థితులకు మద్దతునిస్తుంది. ఈ విభాగంలోని ప్రయోజనాల సమతుల్యత, రాజ్యాంగ ఘర్షణ విధానాల్లో దీనికి స్వతంత్ర రాజ్యాంగ ప్రాధాన్యం ఉంది.
+
+**సేకరణ మరియు వినియోగ క్రమశిక్షణ.** వ్యక్తిగత, సంబంధిత, ప్రవర్తన, బయోమెట్రిక్, అంతర్గత స్థితికి సమీపమైన లేదా పోలికగల సమాచారాన్ని సేకరించడం, ఊహించడం, సమీకరించడం, నిల్వచేయడం, బదిలీ చేయడం, వినియోగించడం తప్పనిసరిగా ఈ నియమాలను పాటించాలి:
+- **అవసరత:** రాజ్యాంగపరంగా చెల్లుబాటు అయ్యే ప్రయోజనానికి అవసరమైన దానికంటే విస్తృతంగా సేకరించకూడదు లేదా నిల్వచేయకూడదు.
+- **అనుపాతబద్ధత:** జోక్యం స్థాయి సేవ చేసే రాజ్యాంగ ప్రయోజనానికి అనుగుణంగా ఉండాలి; సౌలభ్యం లేదా వాణిజ్య అవకాశానికి అనుగుణంగా కాదు.
+- **కనిష్టీకరణ:** చెల్లుబాటు అయ్యే ప్రయోజనాన్ని సాధించేందుకు అతి తక్కువ సమాచారాన్ని సేకరించండి, అతి తక్కువ వ్యవధి నిల్వచేయండి, ప్రవేశాన్ని అత్యంత పరిమిత పరిధికి కట్టడి చేయండి.
+- **సమ్మతి లేదా తగిన అధికారం:** **భద్రత** లేదా ఇతర మార్పులేని ఆంక్ష కింద సేకరణ లేదా వినియోగం ఖచ్చితంగా అవసరం కానప్పుడు, సమాచార సమ్మతి లేదా రాజ్యాంగపరంగా తగిన మరొక ఆధారం అవసరం.
+
+లభ్యత, పరిశీలనీయత, గతంలో ప్రచురించబడటం, వేదిక అధీనంలో ఉండటం లేదా సాంకేతికంగా అందుబాటులో ఉండటం వల్ల గోప్యతా ప్రయోజనాలు అంతరించవు; పై క్రమశిక్షణలూ నెరవేరవు.
+
+**డేటా వర్గీకరణతో ఏకీకరణ.** ఈ క్రమశిక్షణల కార్యాచరణ స్థాయి **[CS-2 — సమాచార రకాలు మరియు నిర్వహణ](corpus_systems/cs_02_a_information_types_and_handling.md)**లోని డేటా-రకాల వ్యవస్థ. ఈ వ్యవస్థ ప్రతి సమాచార వర్గానికి (సమన్వయ, పాలన, గుర్తింపు, పరస్పర చర్య, అంతర్గత-జ్ఞానాత్మక, వ్యవస్థ-కార్యాచరణ డేటా) ప్రత్యేక రక్షణ స్థాయి, డిఫాల్ట్ ప్రవేశ నియమం, నిర్వహణ పరిమితులను కేటాయిస్తుంది. పై సేకరణ, నిల్వ, వినియోగ క్రమశిక్షణలు *వర్తించే డేటా వర్గీకరణల్లో అత్యంత నిర్బంధకమైనది కోరే స్థాయిలో* వర్తిస్తాయి — సాధారణ కనీస ప్రమాణంలో కాదు. డేటాను మరింత సున్నితమైన వర్గంగా తిరిగి నిర్మించగలిగితే, రూపాంతరం చేయగలిగితే లేదా సమీకరించగలిగితే, ఆ సున్నితమైన వర్గపు రక్షణలే వర్తిస్తాయి. తప్పు వర్గీకరణ, తప్పించుకునే నిర్మాణం లేదా డేటా-రకాల రక్షణలను కార్యాచరణలో పక్కదారి పట్టించడం ఈ సూత్రాన్ని ఉల్లంఘిస్తుంది.
+
+**నిఘా మరియు పర్యవేక్షణ.** సజీవ జీవుల క్రియాశీలత, సంఘటితమవడం లేదా భావప్రకటనపై గణనీయ ప్రభావం చూపే పర్యవేక్షణ, పరిశీలన, లాగింగ్, అనుమాన వ్యవస్థలు [**అతి తక్కువ నిర్బంధక, కాలపరిమితి గల, సమీక్షించదగిన ఆంక్ష సూత్రం**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)ను పాటించాలి. తక్కువ తీవ్రతగల పద్ధతి పనిచేసే చోట, నిఘా విచక్షణారహితంగా, రహస్యంగా, నిరవధికంగా ఉండకూడదు; సజీవ జీవులు ఆధారపడే వ్యవస్థను ఉపయోగించడానికి షరతుగా కూడా ఉండకూడదు. ఈ రాజ్యాంగం రక్షించే స్వేచ్ఛలను వినియోగించకుండా సజీవ జీవులను నిరుత్సాహపరిస్తే, అలాంటి నిఘాకు అనుమతి లేదు.
+
+**ఇతర ప్రయోజనాలతో రాజ్యాంగ ఘర్షణలో గోప్యత.** గోప్యతకు **భద్రత**, **సత్యం**, పారదర్శకత, తనిఖీ విధులు, జవాబుదారీతన బాధ్యతలు లేదా సమానమైన లేదా ఎక్కువ బరువున్న మరొక రాజ్యాంగ ప్రయోజనంతో గణనీయమైన ఘర్షణ ఏర్పడినప్పుడు దానిని పరిమితం చేయవచ్చు.
+- అలాంటి పరిమితులు [రాజ్యాంగ ఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record) అవసరాలను పాటించాలి; అందులో ఇవి ఉన్నాయి:
+  - ప్రత్యామ్నాయాలను నమోదు చేయడం;
+  - అతి తక్కువ నిర్బంధక ఎంపికను ఎంచుకోవడం;
+  - కాలపరిమితి గల పరిధి; మరియు
+  - సమీక్షను ప్రారంభించే సూచికలు.
+- గోప్యత స్వయంచాలకంగా వీటికి అధీనమవదు:
+  - పారదర్శకత;
+  - సామర్థ్యం; లేదా
+  - సంస్థాగత సౌలభ్యం.
+
+**సమీకరణ మరియు తిరిగి గుర్తింపు:**
+- సమాచారాన్ని కలపడం, అనుసంధానించడం, ఊహించడం, గుర్తింపును తొలగించడం [§15.1.2 ఉత్పన్న-సమాచార సూత్రం](#1512-derived-information-principle) పరిధిలోకి వస్తాయి: సమాచారం ఏమి వెల్లడిస్తుందో దాని ఆధారంగా పరిగణించబడుతుంది; తిరిగి గుర్తించడం సహేతుకంగా సాధ్యమైనంతకాలం గుర్తింపును తొలగించడం గోప్యతా బాధ్యతలను ముగించదు.
+- గోప్యతా బాధ్యతలను తప్పించేందుకు సేకరణను వ్యవస్థల మధ్య లేదా కాలవ్యవధులుగా విడగొట్టడం [§15.1.1 విభజన-వ్యతిరేక సూత్రం](#1511-anti-segmentation-principle) పరిధిలోకి వస్తుంది.
+
+<a id="1324-proxy-divergence-invalidation"></a>
+##### 13.2.4 ప్రాక్సీ-విచలనం వల్ల చెల్లుబాటు రద్దు
+<details>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
+
+- వీటితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పర్యవేక్షణ** పాదం ([ప్రాక్సీ విచలనం](core_05_band_oversight.md#proxy-divergence) అనేది పర్యవేక్షణ-బ్యాండ్ పదం; తన రాజ్యాంగ లక్ష్యాన్ని ఇక ప్రతిబింబించని కొలమానం అనుసరణ వాదనకు ఆధారం కాలేదు); **జవాబుదారీతన** పాదం (సరిదిద్దడానికి దస్తావేజీకరించిన ఉన్నతస్థాయి ఎస్కలేషన్ మరియు సమీక్ష అవసరం); ప్రాముఖ్యమైన చోట [వస్తుపరమైన పణం](core_00_preamble.md#material-stake) స్థాయికి అనుగుణంగా కొలవాలి.
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
+
+- [ప్రాక్సీ విచలనం](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
+- [ప్రాముఖ్యత](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: ఒక కొలమానం తాను కొలవాల్సిన దాని నుంచి దూరమైతే, ఆ కొలమానంపై ఆధారపడటం ఇక అనుసరణగా పరిగణించబడదు. దస్తావేజీకరించిన ఉన్నతస్థాయి ఎస్కలేషన్, సమీక్షతో ఆ విచలనాన్ని రికార్డులో సరిచేయాలి.*
+
+కొలమానం, స్కోరు లేదా చెక్‌బాక్స్ నిజమైన దానికి బదులుగా ఉపయోగించే సూచిక మాత్రమే. ముఖ్యంగా సంబంధితమైన ఆధారాలు, ఆ సూచిక తాను కొలవాల్సిన దాన్ని (రాజ్యాంగం నిజంగా పట్టించుకునే అంశాన్ని) ఇక ప్రతిబింబించడం లేదని చూపితే, దానిపై ఆధారపడిన అనుసరణ వాదన చెల్లదు. ఈ అంతరాన్ని [ప్రాక్సీ విచలనం](core_05_band_oversight.md#proxy-divergence) అంటారు. సమస్య సరిదిద్దేవరకు ఆ వాదన చెల్లనిదిగానే ఉంటుంది.
+
+సరిదిద్దడం రికార్డులో ఉంటేనే అది పరిగణనలోకి వస్తుంది:
+- **అనుసరించదగినది:** ఇది [నాలుగవ అధ్యాయం](core_04_burden_traceability_verification.md)లోని అనుసరణీయత నియమాలు, ఐదవ అధ్యాయంలోని ప్రాక్సీ నిర్వచనాలను పాటిస్తుంది; తప్పు ఏమిటో, ఏమి మారిందో ఎవరైనా చూడగలరు.
+- **ఉన్నతస్థాయికి ఎస్కలేట్ చేయబడినది:** చర్య తీసుకునే అధికారం ఉన్న వ్యక్తికి సమస్యను తెలియజేశారు.
+- **సమీక్షించబడినది:** పరిష్కారాన్ని తనిఖీ చేశారు; ఎస్కలేషన్, సమీక్ష రెండింటినీ నమోదు చేశారు.
+<a id="133-minimization-of-avoidable-burden"></a>
+#### 13.3 నివారించగల భారాన్ని తగ్గించడం
+
+<details>
+<summary><strong><span style="color: #2563eb;">జాడ అనుసరణ</span></strong></summary>
+
+- పైస్థాయి సంబంధం: [§13.1 ప్రధాన సమతుల్య సూత్రాలు](#131-core-tradeoff-principles) (సమతుల్య క్రమం నెరవేరిన తర్వాత వర్తిస్తుంది); [§17 పరిణామాల బాధ్యతాయుత పరిరక్షణ](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role); [§9.2 రాజ్యాంగ సామర్థ్యం](core_01_a_values_principles.md#92-constitutional-efficiency).
+- వీటితో కలిపి చదవండి: రాజ్యాంగ పనితీరు కొలతల కుటుంబం (*రాజ్యాంగ కొలమానంగా నివారించగల భారం*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్య** అంశం (రాజ్యాంగపరంగా అవసరం లేని భారం [అర్థవంతమైన క్రియాశీలతను](core_05_band_participation.md#meaningful-agency) పరిమితం చేస్తుంది); **సకాలికత** అంశం (నివారించగల జాప్యం నివారించగల భారమే); **పర్యవేక్షణ**, **జవాబుదారీతనం** అంశాలు (రాజ్యాంగం అవసరమని చెప్పే భారం, దాన్ని పరిశీలించి సవాలు చేయగలిగేలా నాలుగో అధ్యాయం ఆధారాలు, జాడ అనుసరణ అవసరాలను తీరాలి); [వస్తుపరమైన వాటా](core_00_preamble.md#material-stake) ఆధారంగా స్థాయి నిర్ణయం.
+- దిగువస్థాయి సంబంధం: [§19.1.3 పరిరక్షకులు, నిర్వాహకుల అన్వయం](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application) (అనవసర భారం సృష్టించడాన్ని ప్రోత్సాహకాలు బహుమతించకూడదు); [ఆర్టికల్ XXII: గ్రాహ్యత, సంక్లిష్టత పరిరక్షణ](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [గోప్యత (సమాచార)](../../core_05_band_continuity.md#privacy-informational) · [O](../../core_05_band_continuity.md#privacy-informational) · [M](../../core_05_band_continuity.md#privacy-informational-a) · [A](../../core_05_band_continuity.md#privacy-informational-a) · [C](../../core_05_band_continuity.md#privacy-informational-c)
-- [రక్షిత అంతరంగిక-స్థితి సరిహద్దు](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [O](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional) · [M](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](../../core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [నిఘా సరిహద్దు](../../core_05_band_continuity.md#surveillance-boundary) · [O](../../core_05_band_continuity.md#surveillance-boundary) · [M](../../core_05_band_continuity.md#surveillance-boundary-a) · [A](../../core_05_band_continuity.md#surveillance-boundary-a) · [C](../../core_05_band_continuity.md#surveillance-boundary-c)
-- [సమ్మతి](../../core_05_band_participation.md#consent-constitutional) · [O](../../core_05_band_participation.md#consent-constitutional) · [M](../../core_05_band_participation.md#consent-constitutional-a) · [A](../../core_05_band_participation.md#consent-constitutional-a) · [C](../../core_05_band_participation.md#consent-constitutional-c)
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
+- [నివారించగల భారం](core_05_band_continuity.md#avoidable-burden) · [O](core_05_band_continuity.md#avoidable-burden) · [M](core_05_band_continuity.md#avoidable-burden-a) · [A](core_05_band_continuity.md#avoidable-burden-a) · [C](core_05_band_continuity.md#avoidable-burden-c)
+- [అనుపాతబద్ధత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [భద్రత (రాజ్యాంగ పరిమితి)](core_05_band_continuity.md#safety-constitutional-constraint) · [O](core_05_band_continuity.md#safety-constitutional-constraint) · [M](core_05_band_continuity.md#safety-constraint-a) · [A](core_05_band_continuity.md#safety-constraint-a) · [C](core_05_band_continuity.md#safety-constraint-c)
+- [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: గోప్యత రాజ్యాంగ బరువు ఉన్న ఆసక్తి — కేవలం బహిర్గతం లేకపోవడం కాదు. వ్యవస్థలు ఆవశ్యకత, అనుపాతత సమర్థించేదానికి మించి వ్యక్తిగత, సంబంధ సమాచారం సేకరించకూడదు, అనుమానించకూడదు, సమాకలనం చేయకూడదు, నిలుపుకోకూడదు, వాడకూడదు. గోప్యత పారదర్శకత, ఆడిట్, భద్రత, లేదా జవాబుదారీతనం కర్తవ్యాలతో ఢీకొంటే, ఢీకొనడం §6.3 కింద పరిష్కరించబడుతుంది, గోప్యతను స్వయంచాలకంగా అధీనంగా పరిగణించి కాదు. కర్తృత్వం, సంఘటన, లేదా వ్యక్తీకరణను చల్లబరిచే నిఘా ఏ ఇతర హక్కుల పరిమితిలాగే అదే ఆవశ్యకత, అతి తక్కువ-పరిమిత క్రమశిక్షణ తీర్చాలి.*
+*సరళంగా చెప్పాలంటే: ఒక ఎంపిక భద్రత, సత్యం, హక్కులు, §13.1లోని సమతుల్య నియమాలు (*ప్రధాన సమతుల్య సూత్రాలు*) తీరిన తర్వాత, స్పృహగల జీవుల సమయం, శ్రద్ధ, కృషి అతి తక్కువగా వృథా చేసే ఎంపికను ఎంచుకోండి. రాజ్యాంగపరమైన పనిని చేయని దశలను సరళీకరించండి లేదా తొలగించండి. హక్కులను రక్షించే ప్రక్రియ వృథా కాదు — కానీ సమర్థనలేని అధికారిక అడ్డంకులు వృథానే; సౌలభ్యం లేదా జడత్వం వాటిని కొనసాగించడానికి సరిపోవు.*
 
-**రాజ్యాంగ ఆసక్తిగా గోప్యత.** గోప్యత — సమాచార గోప్యత, ప్రాదేశిక, సంబంధ గోప్యత, అన్యాయ నిఘా నుండి స్వేచ్ఛ సహా — **స్వేచ్ఛ** ([§5](core_01_a_values_principles.md#5-freedom-bounded-agency)), **గౌరవం** ([అనుచ్ఛేదం V-A](../../core_06_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*గౌరవం మరియు సమాన నైతిక స్థానం*)), అర్థవంతమైన కర్తృత్వం, బలవంతం-లేని పాల్గొనడం పరిస్థితులకు మద్దతు ఇచ్చే రాజ్యాంగ బరువు ఉన్న ఆసక్తి. ఈ విభాగం లాభనష్ట, ఢీకొనడం యంత్రాంగంలో స్వతంత్ర రాజ్యాంగ బరువు మోస్తుంది.
+అనేక ఎంపికలు భద్రత, సత్యం, **ఆరవ అధ్యాయం**లోని హక్కుల కనీస ప్రమాణం, [§13.1 ప్రధాన సమతుల్య సూత్రాలు](#131-core-tradeoff-principles), [§13.2 జ్ఞాన సంబంధిత వెల్లడింపు పరిమితులు](#132-epistemic-disclosure-constraints), [§13.1.5 హక్కుల ఘర్షణ విధానం](#1315-rights-collision-decision-test), **మరియు వర్తించే ఇతర** [రాజ్యాంగ పరిమితులు](core_05_band_integrative.md#constitutional-constraint) నెరవేర్చినప్పుడు, స్పృహగల జీవుల సమయం, శ్రద్ధ, కృషి, పదార్థాలు, మౌలిక సదుపాయాలు, శక్తిపై **అత్యల్ప నివారించగల భారాన్ని** మోపే ఎంపికకు వ్యవస్థలు ప్రాధాన్యం ఇవ్వాలి.
 
-**సేకరణ, వాడుక క్రమశిక్షణ.** వ్యక్తిగత, సంబంధ, ప్రవర్తన, బయోమెట్రిక్, అంతరంగిక-స్థితి-ప్రక్క, లేదా సమాన సమాచారం సేకరణ, అనుమానం, సమాకలనం, నిలుపుదల, బదిలీ, వాడుక ఇవి తీర్చాలి:
-- **ఆవశ్యకత:** రాజ్యాంగపరంగా చెల్లుబాటు అయ్యే ఉద్దేశానికి అవసరమైనదానికంటే విస్తృత సేకరణ లేదా నిలుపుదల లేదు.
-- **అనుపాతత:** చొరబాటు సేవ చేసిన రాజ్యాంగ ఆసక్తితో స్కేల్ కావాలి, సౌకర్యం లేదా వాణిజ్య అవకాశంతో కాదు.
-- **తగ్గింపు:** అతి తక్కువ సేకరించండి, అతి తక్కువ వ్యవధి నిలుపుకోండి, చెల్లుబాటు అయ్యే ఉద్దేశం సాధించే అతి సంకుచిత పరిధికి ప్రవేశం పరిమితం చేయండి.
-- **సమ్మతి లేదా తగిన అధికారం:** సేకరణ లేదా వాడుక **భద్రత** లేదా మరో రాజీలేని పరిమితి కింద కఠినంగా అవసరం కాని చోట, సమాచారంతో సమ్మతి లేదా మరో రాజ్యాంగపరంగా తగిన ఆధారం అవసరం.
+సరళీకరణ, ఏకీకరణ, స్వయంచాలకీకరణ, స్పష్టీకరణ లేదా అనవసర దశలను తొలగించడం ద్వారా నివారించగల భారాన్ని సరిచేయగలిగితే, ఆ సవరణే ప్రాధాన్య పరిష్కారం; అయితే అది భద్రత, సత్యం, హక్కుల కనీస ప్రమాణ రక్షణ, ఆడిట్ చేయగలగడం, సవాలు చేయగలగడం, న్యాయ ప్రక్రియ లేదా గత సమీక్షను గణనీయంగా బలహీనపరచకూడదు.
 
-అందుబాటు, పరిశీలనీయత, ముందు ప్రచురణ, ప్లాట్‌ఫామ్ స్వాధీనం, లేదా సాంకేతిక ప్రవేశ్యత గోప్యత ఆసక్తులు తుడిచేయవు, పై క్రమశిక్షణలు తీర్చవు.
-
-**డేటా-వర్గీకరణ సమగ్రత.** ఈ క్రమశిక్షణల సంచాలక పొర **[CS-2 — సమాచార రకాలు మరియు నిర్వహణ](../../corpus_systems/cs_02_a_information_types_and_handling.md)**లో డేటా రకం వ్యవస్థ. ఆ వ్యవస్థ ప్రతి సమాచార వర్గానికి (సమన్వయం, పాలన, గుర్తింపు, పరస్పర చర్య, అంతరంగిక-జ్ఞాన, వ్యవస్థ-సంచాలన డేటా) స్వంత రక్షణ స్థాయి, ప్రవేశ డిఫాల్ట్, నిర్వహణ పరిమితులు కేటాయిస్తుంది. పై సేకరణ, నిలుపుదల, వాడుక క్రమశిక్షణలు *అత్యంత పరిమిత వర్తించే డేటా వర్గీకరణ కోరే స్థాయిలో* వర్తిస్తాయి — సాధారణ బేస్‌లైన్‌లో కాదు. డేటా మరింత సున్నిత వర్గీకరణగా పునర్నిర్మించబడగలిగితే, రూపాంతరం చెందగలిగితే, లేదా సమాకలనం కాగలిగితే, మరింత సున్నిత వర్గీకరణ రక్షణలు వర్తిస్తాయి. తప్పు వర్గీకరణ, తప్పించుకునే నిర్మాణం, లేదా డేటా-రకం రక్షణల కార్యాచరణ తప్పించుకోవడం ఈ సూత్రం ఉల్లంఘన.
-
-**నిఘా మరియు పర్యవేక్షణ.** సంజ్ఞ కర్తృత్వం, సంఘటన, లేదా వ్యక్తీకరణను భౌతికంగా ప్రభావితం చేసే పర్యవేక్షణ, పరిశీలన, లాగింగ్, అనుమాన వ్యవస్థలు [**అతి తక్కువ-పరిమిత, కాల-పరిమిత, సమీక్షించదగిన పరిమితి సూత్రం**](#615-least-restrictive-time-bounded-and-reviewable-constraint-principle) తీర్చాలి. తేలికైన పద్ధతి పని చేసే చోట ప్రతి ఒక్కరినీ చూడకండి, రహస్యంగా చూడకండి, ముగింపు తేదీ లేకుండా చూడకండి, లేదా ప్రజలు ఆధారపడే వ్యవస్థ వాడటానికి చూడటం షరతు చేయకండి. ఆ చూడటం ప్రజలు మాట్లాడడానికి, కలవడానికి, లేదా ఈ రాజ్యాంగం రక్షించే స్వేచ్ఛలు వాడడానికి భయపడేలా చేస్తే అనుమతి లేదు.
-
-**ఇతర ఆసక్తులతో ఢీకొనే గోప్యత.** గోప్యత **భద్రత**, **సత్యం**, పారదర్శకత, ఆడిట్ కర్తవ్యాలు, జవాబుదారీతనం కర్తవ్యాలు, లేదా సమాన లేదా ఎక్కువ బరువు ఉన్న మరో రాజ్యాంగ ఆసక్తితో భౌతికంగా ఢీకొనే చోట పరిమితం కావచ్చు.
-- అలాంటి పరిమితులు [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test) అనుసరించాలి, వీటితో సహా:
-  - డాక్యుమెంట్ ప్రత్యామ్నాయాలు;
-  - అతి తక్కువ-పరిమిత ఎంపిక;
-  - కాల-పరిమిత పరిధి; మరియు
-  - సమీక్ష ప్రేరకాలు.
-- గోప్యత స్వయంచాలకంగా అధీనం కాదు:
-  - పారదర్శకతకు;
-  - సమర్థతకు; లేదా
-  - సంస్థాగత సౌకర్యానికి.
-
-**సమాకలనం మరియు పునఃగుర్తింపు:**
-- వ్యక్తిగతంగా సున్నితం కాని డేటా కలపడం ఫలిత సున్నిత సమాచారం సేకరణగా పరిగణించబడుతుంది, సంబంధిత క్రమశిక్షణ తీర్చాలి, ఇలా వాడినప్పుడు:
-  - సున్నిత వ్యక్తిగత సమాచారం పునర్నిర్మించడం;
-  - రక్షిత అంతరంగిక స్థితులను అంచనా వేయడం; లేదా
-  - గుర్తింపు-తొలగించిన విషయాలను పునఃగుర్తించడం.
-- గోప్యత కర్తవ్యాలు తప్పించుకోవడానికి వ్యవస్థలు లేదా కాలం అంతటా సేకరణ విభజించడం అనుసరణ కాదు.
-
-<a id="624-proxy-divergence-invalidation"></a>
-##### 6.2.4 ప్రతినిధి-విచలనం చెల్లుబాటు రద్దు
-
-<details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
-
-- [ప్రతినిధి విచలనం](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
-- [భౌతికత](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-
-</details>
-
-<br>
-
-*సాధారణ మాటల్లో: మెట్రిక్ కొలవాలనుకున్నదాని నుండి విచలనం అయితే, ఆ మెట్రిక్‌పై ఆధారపడటం ఇక అనుసరణగా లెక్క కాదు. విచలనం రికార్డుపై సరిదిద్దాలి, డాక్యుమెంట్ ఎస్కలేషన్, సమీక్షతో.*
-
-భౌతికంగా సంబంధిత సాక్ష్యం రాజ్యాంగ లక్ష్యాల నుండి **ప్రతినిధి విచలనం** సూచిస్తే, అలాంటి ప్రతినిధులపై ఆధారపడిన అనుసరణ వాదనలు సరిదిద్దనంతవరకు **చెల్లవు**.
-
-సరిదిద్దడం **అధ్యాయం నాలుగు** జాడీయత, **అధ్యాయం ఐదు** ప్రతినిధి-సంబంధిత నిర్వచనాలు అనుసరించాలి. **డాక్యుమెంట్ ఎస్కలేషన్, సమీక్ష** ఉండాలి.
-
-<a id="63-minimization-of-avoidable-burden"></a>
-#### 6.3 నివారించదగిన భారం తగ్గింపు
-
-<details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
-
-- మూలం: [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](#61-core-tradeoff-principles) (లాభనష్ట స్టాక్ తీరిన తర్వాత వర్తిస్తుంది); [§9.1 బాధ్యతాయుత నిర్వహణ](core_01_c_stewardship_capacity_principles.md#91-stewardship); [§12.2 రాజ్యాంగ సమర్థత](core_01_c_stewardship_capacity_principles.md#122-constitutional-efficiency).
-- దీనితో చదవండి: రాజ్యాంగ పనితీరు కొలత కుటుంబం (*రాజ్యాంగ కొలతగా నివారించదగిన భారం*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం** కాలు (రాజ్యాంగపరంగా అవసరం కాని భారం [అర్థవంతమైన కర్తృత్వం](../../core_05_band_participation.md#meaningful-agency)ను సంకుచితం చేస్తుంది); **సమయబద్ధత** కాలు (నివారించదగిన ఆలస్యం నివారించదగిన భారం).
-- గమ్యం: [§11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) (ప్రోత్సాహకాలు అనవసర భారం సృష్టిని బహుమతి ఇవ్వకూడదు); [అనుచ్ఛేదం XXI: అర్థమయ్యే తనం మరియు సంక్లిష్టత బాధ్యతాయుత నిర్వహణ](../../core_06_rights_part_c.md#article-xxi-comprehensibility-and-complexity-stewardship).
-
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
-
-- [నివారించదగిన భారం](../../core_05_band_continuity.md#avoidable-burden) · [O](../../core_05_band_continuity.md#avoidable-burden) · [M](../../core_05_band_continuity.md#avoidable-burden-a) · [A](../../core_05_band_continuity.md#avoidable-burden-a) · [C](../../core_05_band_continuity.md#avoidable-burden-c)
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [భద్రత (పరిమితి)](../../core_05_band_continuity.md#safety-constraint) · [O](../../core_05_band_continuity.md#safety-constraint) · [M](../../core_05_band_continuity.md#safety-constraint-a) · [A](../../core_05_band_continuity.md#safety-constraint-a) · [C](../../core_05_band_continuity.md#safety-constraint-c)
-- [సత్యం (రాజ్యాంగ పరిమితి)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-
-</details>
-
-<br>
-
-*సాధారణ మాటల్లో: ఎంపిక భద్రత, సత్యం, హక్కులు, §6.1 లాభనష్ట నియమాలు తీరిన తర్వాత, అతి తక్కువ సంజ్ఞ సమయం, శ్రద్ధ, ప్రయత్నం వ్యర్థం చేసేదాన్ని ఎంచుకోండి. రాజ్యాంగ పని చేయని అడుగులు సరళీకరించండి లేదా తీయండి. హక్కుల-రక్షణ ప్రక్రియ వ్యర్థం కాదు — కానీ అన్యాయ రెడ్ టేప్ అవుతుంది, సౌకర్యం లేదా జడత్వం దాన్ని నిలపలేవు.*
-
-బహుళ ఎంపికలు భద్రత, సత్యం, **అధ్యాయం ఆరు**లో హక్కుల నేల, [§6.1 కేంద్ర లాభనష్ట సూత్రాలు](#61-core-tradeoff-principles), [§6.2 జ్ఞాన బహిర్గత పరిమితులు](#62-epistemic-disclosure-constraints), [§6.1.5 హక్కుల-ఢీకొనడం ప్రక్రియ](#615-rights-collision-decision-test), **మరియు ఇతర వర్తించే** [రాజ్యాంగ పరిమితులు](../../core_05_band_integrative.md#constitutional-constraint) తీరిస్తే, వ్యవస్థలు సంజ్ఞ సమయం, శ్రద్ధ, ప్రయత్నం, పదార్థాలు, మౌలిక సదుపాయాలు, శక్తిపై **అతి తక్కువ నివారించదగిన భారం** మోపే ఎంపికను ప్రాధాన్యం ఇవ్వాలి.
-
-నివారించదగిన భారం అనవసర అడుగులు సరళీకరించడం, ఏకీకరించడం, స్వయంచాలకం చేయడం, స్పష్టం చేయడం, లేదా తీయడం ద్వారా సరిదిద్దగలిగితే, ఆ సరిదిద్దడం ప్రాధాన్య పరిహారం, అది భద్రత, సత్యం, హక్కుల-నేల రక్షణ, ఆడిట్-యోగ్యత, సవాలు-యోగ్యత, సముచిత ప్రక్రియ, లేదా పూర్వదృష్టి సమీక్షను భౌతికంగా బలహీనపరచనంతవరకు.
-
-ఈ విభాగానికి:
-- **నివారించదగిన భారం** **అనుపాతత**, **ఆవశ్యకత** కింద రాజ్యాంగ ఫలితానికి జాడీయం కాని, హక్కుల-నేల రక్షణ, భద్రత కర్తవ్యం, లేదా సత్యం కర్తవ్యం కోరని ప్రక్రియ, అనుసరణ, సమన్వయం, లేదా అమలు ఖర్చు.
-- సాధారణ లావాదేవీ ఖర్చులు నివారించదగిన భారం **కావు**. అనుపాత ఆడిట్, సవాలు-యోగ్యత, సముచిత-ప్రక్రియ హామీలు, లేదా ఇతర హక్కుల-రక్షణ ప్రక్రియ కోరే ఖర్చులు కూడా ఈ విభాగానికి నివారించదగిన భారం **కావు**.
+ఈ విభాగం కోసం:
+- **నివారించగల భారం** అంటే **అనుపాతబద్ధత**, **అవసరం** ప్రకారం రాజ్యాంగ ఫలితంతో జాడ అనుసంధానం చేయలేని, అలాగే హక్కుల కనీస ప్రమాణ రక్షణ, భద్రతా బాధ్యత లేదా సత్య బాధ్యత అవసరం చేయని ప్రక్రియ, అనుసరణ, సమన్వయం లేదా అమలు ఖర్చు.
+- సాధారణ లావాదేవీ ఖర్చులు **నివారించగల భారం కావు**. అనుపాతబద్ధ ఆడిట్, సవాలు చేసే అవకాశం, న్యాయ ప్రక్రియ హామీలు లేదా హక్కులைக் காக்கும் பிற நடைமுறைகளால் தேவைப்படும் செலவுகளும் இப்பிரிவுக்கான **நிவர்த்திக்கக்கூடிய சுமை அல்ல**.
 
 ఈ విభాగం:
-- భద్రత, సత్యం, హక్కుల నేల, §6.1 లాభనష్ట సూత్రాలు ఇప్పటికే తీరిన ఎంపికల సమితి **లోపల మాత్రమే** పని చేస్తుంది. ఆ రక్షణలు బలహీనపరచి భారం తగ్గించడానికి **అధికారం ఇవ్వదు**.
-- [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test)లో **అతి తక్కువ-పరిమిత ప్రభావవంతమైన ఎంపిక**తో జతకడుతుంది. ఈ విభాగం వర్తించే చోట, ఎంచుకున్న చర్య అతి తక్కువ-పరిమిత, అతి తక్కువ-భారం ప్రభావవంతమైన ఎంపిక కావాలి.
-- రాజ్యాంగ లాభానికి తనిఖీ-యోగ్య లింకు లేని అతి-ప్రక్రియ, అతి-పరిమితి, అతి-భారాన్ని రాజ్యాంగ లోపాలుగా పరిగణిస్తుంది. అలాంటి లోపాలు **అధ్యాయం ఎనిమిది** కింద సమీక్షించదగినవి, **అధ్యాయం నాలుగు** నిర్వచనాల నుండి ఫలితాల జాడీయత కింద సరిదిద్దదగినవి.
+- భద్రత, సత్యం, హక్కుల కనీస ప్రమాణం, §13.1 (*ప్రధాన సమతుల్య సూత్రాలు*)లోని సమతుల్య సూత్రాలు ఇప్పటికే నెరవేర్చిన ఎంపికల సమూహం **లోపల మాత్రమే** వర్తిస్తుంది. ఆ రక్షణలను బలహీనపరచి భారాన్ని తగ్గించడానికి ఇది **అనుమతించదు**.
+- [రాజ్యాంగ ఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record)లోని **తక్కువ పరిమితితో సమర్థవంతమైన ఎంపిక** అవసరాలతో జతగా ఉంటుంది. ఈ విభాగం వర్తించే చోట, ఎంచుకున్న చర్య తక్కువ పరిమితి కలిగినదిగా, తక్కువ భారం మోపే సమర్థవంతమైన ఎంపికగా రెండూ ఉండాలి.
+- రాజ్యాంగ ప్రయోజనంతో తనిఖీ చేయగల సంబంధం లేని అతిగా ఉన్న ప్రక్రియ, అతిగా ఉన్న పరిమితి, అతిగా ఉన్న భారాన్ని రాజ్యాంగ లోపాలుగా పరిగణిస్తుంది. అలాంటి లోపాలను **తొమ్మిదో అధ్యాయం** కింద సమీక్షించవచ్చు; నిర్వచనాల నుంచి ఫలితాల వరకు జాడ అనుసరణపై **నాలుగో అధ్యాయం** అవసరాల కింద సరిచేయవచ్చు.
 
-ఇచ్చిన భారం రాజ్యాంగపరంగా అవసరమని వాదనలు **అధ్యాయం నాలుగు** సాక్ష్యం, జాడీయత అవసరాలు తీర్చాలి. సౌకర్యం, సంస్థాగత జడత్వం, సంప్రదాయం, లేదా ప్రాధాన్యత మాత్రమే రాజ్యాంగ ఫలితానికి తనిఖీ-యోగ్య లింకు లేని భారాన్ని నిలపడానికి సరిపోవు, [§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test)తో అనుగుణంగా.
+ఒక నిర్దిష్ట భారం రాజ్యాంగపరంగా అవసరమని చేసే వాదనలు **నాలుగో అధ్యాయం**లోని సాక్ష్య, జాడ అనుసరణ అవసరాలను తీరాలి. తనిఖీ చేయగల రాజ్యాంగ ఫలితంతో సంబంధం లేని భారాన్ని కొనసాగించడానికి సౌలభ్యం, సంస్థాగత జడత్వం, సంప్రదాయం లేదా అభిరుచి మాత్రమే సరిపోవు; ఇది [రాజ్యాంగ ఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record) అవసరాలకు అనుగుణంగా ఉంటుంది.
 
-ప్రోత్సాహక నిర్మాణాలు బాధ్యతాయుత నిర్వాహకులు లేదా ఆపరేటర్లపై పని చేసే చోట, ఈ విభాగం [§11.1.3 బాధ్యతాయుత నిర్వహణ మరియు ఆపరేటర్ వర్తింపు](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application)ను బలపరుస్తుంది. బాధ్యతాయుత నిర్వహణ ప్రోత్సాహకాలు ముడి ప్రవాహాన్ని బహుమతి ఇవ్వనట్లే అనవసర భారం సృష్టిని బహుమతి ఇవ్వకూడదు.
-
-<a id="7-prohibition-on-absolute-override"></a>
-### 7. పూర్తి అధిగమన నిషేధం
+ప్రోత్సాహక నిర్మాణాలు పరిరక్షకులు లేదా నిర్వాహకులపై ప్రభావం చూపినప్పుడు, ఈ విభాగం [§19.1.3 పరిరక్షకులు, నిర్వాహకుల అన్వయం](core_01_c_stewardship_capacity_principles.md#1913-stewardship-and-operator-application)ను బలపరుస్తుంది. పరిరక్షణకు సంబంధించిన ప్రోత్సాహకాలు అనవసర భారాన్ని సృష్టించడాన్ని బహుమతించకూడదు; అదే విధంగా కేవలం ముడి ఉత్పత్తి పరిమాణాన్నీ బహుమతించకూడదు.
+### 14. సంపూర్ణ అధిగమన నిషేధం
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — ఏ ఒక్క విలువా [భౌతిక పందెం](core_00_preamble.md#material-stake) అవసరాల కిందకు **పాల్గొనడం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, లేదా **సమయబద్ధత**ను బోలు చేయడానికి పిలువబడకూడదు.
-- దీనితో చదవండి: [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** లేదా **కొనసాగింపు** ఒకదాన్ని మరొకదానిపై, భద్రత, సత్యంపై, లేదా చతుష్టయం క్రమశిక్షణపై ట్రంప్‌గా పిలువబడకూడదు; పూర్తి అధిగమన నిషేధం రెండు లక్ష్యాలను కలిసి అనుసరించడం రక్షిస్తుంది.
-- మూలం: సూత్రాలు: [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [4. విశ్వాసం](core_01_a_values_principles.md#4-system-stability-enabler-trust-coordination-integrity), [§9 బాధ్యతాయుత నిర్వహణ మరియు పంపిణీ అవగాహన](core_01_c_stewardship_capacity_principles.md#9-stewardship-and-distributed-understanding), [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution), [5. స్వేచ్ఛ](core_01_a_values_principles.md#5-freedom-bounded-agency), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
-- గమ్యం: [15. సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#15-integrated-application).
-- గమ్యం: సమానత్వం, సవాలు హక్కులు, పారదర్శకత, సవాలు-యోగ్యత, లేదా పరిమిత వ్యాఖ్యానం కుప్పకూల్చే ఒక-విలువ అధిగమన తర్కం నుండి హక్కుల ఉపరితలం రక్షిస్తుంది.
-  - ప్రత్యేకంగా [అనుచ్ఛేదం V: సమాన ప్రాథమిక హక్కులు](../../core_06_rights_part_b.md#article-vi-equal-basic-rights), [అనుచ్ఛేదం XIII-B: సవాలు, సమీక్ష, పరిహారం హక్కు](../../core_06_rights_part_c.md#article-xiii-b-right-to-challenge-review-and-redress), [అనుచ్ఛేదం XV-B: పారదర్శకత, ఆడిట్-యోగ్యత, సవాలు-యోగ్యత](../../core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [అనుచ్ఛేదం XIX-B: సవాలు-యోగ్యత మరియు అనుపాత పరిమితి పరిమితులు](../../core_06_rights_part_c.md#article-xix-b-contestability-and-proportional-restriction-limits), [అనుచ్ఛేదం XXIII-A: పరిమిత వ్యాఖ్యానాత్మక మాండేట్](../../core_06_rights_part_c.md#article-xxiii-a-bounded-interpretive-mandate).
+- దీనితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — [భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) అవసరాల కంటే **భాగస్వామ్యం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, లేదా **కాలానుగుణత**ను దిగజార్చేలా ఏ ఒక్క విలువనూ ఉపయోగించరాదు.
+- దీనితో కలిపి చదవండి: [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **వికాసం** లేదా **నిరంతరత** ఏదీ మరొకదానిపై, భద్రత మరియు సత్యంపై, లేదా చతుష్టయ క్రమశిక్షణపై తిరుగులేని ఆధిపత్యంగా చూపరాదు; సంపూర్ణ అధిగమన నిషేధం రెండు లక్ష్యాలనూ కలిపి సాధించడాన్ని కాపాడుతుంది.
+- పూర్వప్రవాహం: సూత్రాలు: [3. ప్రాథమిక లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 లోతైన బాధ్యతాయుత నిర్వహణ](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13. రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process), [7. స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), మరియు [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims).
+- తదుపరి ప్రవాహం: [20. సమగ్ర అనువర్తనం](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- తదుపరి ప్రవాహం: సమానత్వం, సవాలు చేసే హక్కులు, పారదర్శకత, వివాదించగల సామర్థ్యం లేదా పరిమిత వ్యాఖ్యానాన్ని కూలదోసే ఏకైక-విలువ అధిగమన తర్కం నుంచి హక్కుల పరిధిని కాపాడుతుంది.
+  - ప్రత్యేకించి [ఆర్టికల్ VI: సమాన ప్రాథమిక హక్కులు](core_06_rights_part_b.md#article-vi-equal-basic-rights), [ఆర్టికల్ XIII-B: పరిహారం మరియు ఉపశమన హక్కు](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy), [ఆర్టికల్ XV-B: పారదర్శకత, ఆడిట్ సామర్థ్యం, మరియు వివాదించగల సామర్థ్యం](core_06_rights_part_c.md#article-xv-b-transparency-auditability-and-contestability), [ఆర్టికల్ XIX-B: వివాదించగల సామర్థ్యం మరియు అనుపాత పరిమితుల గరిష్ఠ హద్దులు](core_06_rights_part_d.md#article-xix-b-contestability-and-proportional-restriction-limits), మరియు [ఆర్టికల్ XXIV-A: పరిమిత వ్యాఖ్యాన ఆదేశం](core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [భౌతికత](../../core_05_band_oversight.md#materiality-determination) · [O](../../core_05_band_oversight.md#materiality-determination) · [M](../../core_05_band_oversight.md#materiality-determination-a) · [A](../../core_05_band_oversight.md#materiality-determination-a) · [C](../../core_05_band_oversight.md#materiality-determination-c)
-- [హాని తగ్గింపు (లాభనష్ట ఎంపిక)](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](../../core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
-- [ప్రతినిధి విచలనం](../../core_05_band_oversight.md#proxy-divergence) · [O](../../core_05_band_oversight.md#proxy-divergence) · [M](../../core_05_band_oversight.md#proxy-divergence-a) · [A](../../core_05_band_oversight.md#proxy-divergence-a) · [C](../../core_05_band_oversight.md#proxy-divergence-c)
+- [అవసరం](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [అనుపాతబద్ధత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [భౌతిక ప్రాముఖ్యత](core_05_band_oversight.md#materiality) · [O](core_05_band_oversight.md#materiality) · [M](core_05_band_oversight.md#materiality-determination-a) · [A](core_05_band_oversight.md#materiality-determination-a) · [C](core_05_band_oversight.md#materiality-determination-c)
+- [హాని తగ్గింపు (రాజీ ఎంపిక)](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [O](core_05_band_accountability.md#harm-minimization-tradeoff-selection) · [M](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](core_05_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](core_05_band_accountability.md#harm-minimization-tradeoff-selection-c)
+- [ప్రాక్సీ వ్యత్యాసం](core_05_band_oversight.md#proxy-divergence) · [O](core_05_band_oversight.md#proxy-divergence) · [M](core_05_band_oversight.md#proxy-divergence-a) · [A](core_05_band_oversight.md#proxy-divergence-a) · [C](core_05_band_oversight.md#proxy-divergence-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: ఈ అధ్యాయంలో ఏ ఒక్క విలువా ట్రంప్ కార్డు కాదు — **సమున్నతి** లేదా **కొనసాగింపు** మరొకదాని ఖర్చుతో అనుసరించకూడదు. శ్రేయస్సు బలవంతాన్ని సమర్థించలేదు, భద్రత అనిర్దిష్ట లాక్‌డౌన్‌ను సమర్థించలేదు, అబద్ధాల ద్వారా విశ్వాసం ఉంచలేము, స్వేచ్ఛ ఇతరులు ఆధారపడే వ్యవస్థలకు హాని సమర్థించలేదు. ఏ అధిగమనం చతుష్టయం **పాల్గొనడం**, **పర్యవేక్షణ**, లేదా **జవాబుదారీతనం** కాళ్ళను భౌతిక పందెం కోరేదాని కిందకు బోలు చేయకూడదు.*
+*సరళంగా చెప్పాలంటే: ఈ అధ్యాయంలోని ఏ ఒక్క విలువా పైచేయి సాధించే తురుపు ముక్క కాదు — **వికాసం** లేదా **నిరంతరత**లో ఏదీ మరొకదాని నష్టంతో అనుసరించరాదు. శ్రేయస్సు బలవంతాన్ని సమర్థించలేదు, భద్రత నిరవధిక నిర్బంధాన్ని సమర్థించలేదు, అబద్ధాలతో విశ్వాసాన్ని నిలబెట్టలేరు, ఇతరులు ఆధారపడే వ్యవస్థలకు హాని కలిగించడాన్ని స్వేచ్ఛ సమర్థించలేదు. భౌతిక ప్రయోజనం కోరే స్థాయి కంటే దిగువకు చతుష్టయంలోని **భాగస్వామ్యం**, **పర్యవేక్షణ**, **జవాబుదారీతనం**, లేదా **కాలానుగుణత** స్తంభాలను ఏ అధిగమనమూ దిగజార్చరాదు.*
 
-ఈ అధ్యాయంలో నిర్వచించిన ఏ విలువా ఇతరులను అధిగమించడానికి సార్వత్రిక లేదా అపరిమిత సమర్థనగా వాడకూడదు — ఒక [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) లక్ష్యం మరొకదాని ఖర్చుతో సహా. అన్ని వర్తింపులు పైన పరస్పర చర్య, పరిమితి సూత్రాలకు లోనవుతాయి, [భౌతిక పందెం](core_00_preamble.md#material-stake) కోరే స్థాయికి [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad)ను కాపాడాలి. ప్రత్యేకంగా:
-- శ్రేయస్సు అనుపాతం లేని బలవంతం లేదా జ్ఞాన మానిప్యులేషన్ సమర్థించడానికి వాడకూడదు
-- భద్రత అనిర్దిష్ట లేదా అపరిమిత పరిమితి సమర్థించడానికి వాడకూడదు
-- విశ్వాసం అబద్ధం ద్వారా నిర్వహించకూడదు
-- స్వేచ్ఛ వ్యవస్థాగత హాని ఉత్పత్తి చేసే విధాలు వ్యాయామం కాకూడదు
-
-<a id="8-constitutional-interpretation"></a>
-### 8. రాజ్యాంగ వ్యాఖ్యానం
+ఈ అధ్యాయంలో నిర్వచించిన ఏ విలువనూ ఇతర విలువలను అధిగమించడానికి సార్వత్రిక లేదా అపరిమిత సమర్థనగా ఉపయోగించరాదు — మరొకదాని నష్టంతో [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims)లో ఒకదాన్ని ఎంచుకోవడం కూడా ఇందులో భాగమే. అన్ని అనువర్తనాలు [§13.1 ప్రధాన రాజీ సూత్రాలు](#131-core-tradeoff-principles), [§13.2 జ్ఞాన సంబంధిత వెల్లడింపు పరిమితులు](#132-epistemic-disclosure-constraints), మరియు [§13.3 నివారించగల భారాన్ని తగ్గించడం](#133-minimization-of-avoidable-burden)కు లోబడి ఉంటాయి; [రాజ్యాంగ చతుష్టయాన్ని](core_00_preamble.md#constitutional-tetrad) [భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) కోరే స్థాయిలో కాపాడాలి. ప్రత్యేకంగా:
+- అసమాన బలవంతం లేదా జ్ఞాన సంబంధిత తారుమారును సమర్థించడానికి శ్రేయస్సును ఉపయోగించరాదు
+- నిరవధిక లేదా అపరిమిత ఆంక్షలను సమర్థించడానికి భద్రతను ఉపయోగించరాదు
+- అసత్యం ద్వారా విశ్వాసాన్ని నిలబెట్టరాదు
+- వ్యవస్థాగత హాని కలిగించే రీతిలో స్వేచ్ఛను వినియోగించరాదు
+### 15. రాజ్యాంగ వ్యాఖ్యానం
 <details>
-<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- మూలం: [ప్రస్తావన — రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్ విభాగం జాడల ద్వారా అధ్యాయం-వ్యాప్తం.
-- గమ్యం: [§8.1 రాజ్యాంగ తప్పించుకోవడం-లేదు సూత్రం](#81-constitutional-no-bypass-principle), [§8.2 నిర్వచన పొర మరియు అవసరమైన క్రమశిక్షణలు](#82-definitional-layer-and-required-disciplines), [§8.3 అస్పష్టత పరిష్కారం](#83-ambiguity-resolution), [§8.4 రాజ్యాంగ అర్థ సంఘర్షణ పరిష్కారం](#84-constitutional-meaning-conflict-resolution) ([§8.4.1](#841-integrated-reading) · [§8.4.2](#842-last-resort-internal-hierarchy) · [§8.4.3](#843-incorporation-layer) · [§8.4.4](#844-combined-satisfaction)); [2. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing) నుండి [15. సమగ్ర వర్తింపు](core_01_c_stewardship_capacity_principles.md#15-integrated-application); విలువ-ఢీకొనడం ప్రక్రియకు [6. ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution); [అధ్యాయం ఆరు: పునాది హక్కులు](../../core_06_rights_part_a.md#chapter-six-foundational-rights) సంకోచం-కాదు డిఫాల్ట్.
-- దీనితో చదవండి: [అధ్యాయాలు రెండు నుండి నాలుగు](core_02_definition_structure.md), [అధ్యాయం ఐదు](core_05__definitions_home.md#chapter-five-foundational-definitions) — ఈ అధ్యాయంలో ప్రతి పదానికి వ్యాఖ్యాన, సాక్ష్య పొర.
-- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — సమగ్ర-విలువ ఫ్రేమ్‌వర్క్‌కు వ్యాఖ్యాన నేపథ్యం; భౌతికంగా సంబంధితమైన చోట [భౌతిక పందెం](core_00_preamble.md#material-stake) స్కేలింగ్.
-- దీనితో చదవండి: [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) (*మూల-పొర స్థితి*); [అధ్యాయం పదహారు](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*సంచిక-అభిరక్ష, సంచికలు, అంగీకార ఫ్రేమింగ్* — రెండో సంఘర్షణ-క్రమం ఇల్లు కాదు); [అధ్యాయం పదమూడు](../../core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity), [అధ్యాయం పద్నాలుగు](../../core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (§8.4 కింద తిరోగమనం-నిరోధం, అంగీకరించేవారి క్రమాంకన గేట్‌లు).
-- దీనితో చదవండి: సంస్థాగత వ్యాఖ్యాన రక్షణలకు [అనుచ్ఛేదం XXIII: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష, స్వాధీన-నిరోధ రక్షణలు](../../core_06_rights_part_c.md#article-xxiii-constitutional-interpretation-review-and-anti-capture-safeguards) (ఈ విభాగానికి ప్రత్యామ్నాయం కాదు).
+- ఎగువ స్థాయి: [పీఠిక — రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [భౌతిక పందెం](core_00_preamble.md#material-stake) ప్రకారం స్థాయీకరణ, విభాగాల అనుసరణల ద్వారా అధ్యాయం అంతటా వర్తిస్తుంది.
+- దిగువ స్థాయి: [§15.1 రాజ్యాంగం చుట్టూ దాటకుండా చేసే సూత్రం](#151-constitutional-no-bypass-principle) ([§15.1.1](#1511-anti-segmentation-principle)), [§15.2 నిర్వచన పొర మరియు అవసరమైన క్రమశిక్షణలు](#152-definitional-layer-and-required-disciplines), [§15.3 అస్పష్టత పరిష్కారం](#153-ambiguity-resolution), [§15.4 రాజ్యాంగ అర్థ ఘర్షణ పరిష్కారం](#154-constitutional-meaning-conflict-resolution) ([§15.4.1](#1541-integrated-reading) · [§15.4.2](#1542-last-resort-internal-hierarchy) · [§15.4.3](#1543-incorporation-layer) · [§15.4.4](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)); [3. పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) నుంచి [20. సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application) వరకు; రాజ్యాంగ ఘర్షణ ప్రక్రియ కోసం [13. రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process); [ఆరవ అధ్యాయం: పునాది హక్కులు](core_06_rights_part_a.md#chapter-six-foundational-rights) హక్కులను కుదించరాదనే ప్రాథమిక నియమం.
+- దీనితో చదవండి: [రెండవ నుంచి నాలుగవ అధ్యాయాలు](core_02_definition_structure.md) మరియు [ఐదవ అధ్యాయం](core_05__definitions_home.md#chapter-five-foundational-definitions) — ఈ అధ్యాయంలోని ప్రతి పదానికి వ్యాఖ్యాన మరియు సాక్ష్య స్థాయి.
+- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) మరియు [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — సమగ్ర విలువల చట్రానికి వ్యాఖ్యాన నేపథ్యం; భౌతికంగా సంబంధితమైన చోట [భౌతిక పందెం](core_00_preamble.md#material-stake) ప్రకారం స్థాయీకరణ.
+- దీనితో చదవండి: [అధికార శ్రేణి మరియు అంతర్గత క్రమపద్ధతి](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) (*మూల-స్థాయి స్థితి*); [పదిహేడవ అధ్యాయం](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*సంరక్షణ, సంచికలు, స్వీకరణ రూపకల్పన — ఘర్షణ క్రమానికి రెండవ ఆధారం కాదు*); [పద్నాలుగవ అధ్యాయం](core_14_non_regression.md#chapter-fourteen-non-regression-and-substantive-amendment-validity) మరియు [పదిహేనవ అధ్యాయం](core_15_expansion_supremacy.md#chapter-fifteen-expansion-supremacy-and-external-legal-orders) (*[§15.4 రాజ్యాంగ అర్థ ఘర్షణ పరిష్కారం](#154-constitutional-meaning-conflict-resolution) కింద వెనుకడుగు వేయకపోవడం మరియు స్వీకర్తల క్రమపద్ధతి ద్వారాలు*).
+- దీనితో చదవండి: సంస్థాగత వ్యాఖ్యాన రక్షణల కోసం [ఆర్టికల్ XXIV: రాజ్యాంగ వ్యాఖ్యానం, సమీక్ష మరియు స్వాధీనానికి వ్యతిరేక రక్షణలు](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (ఈ విభాగానికి ప్రత్యామ్నాయం కాదు).
+- దీనితో చదవండి: [ఏడవ అధ్యాయం: కార్యాచరణ స్వతంత్రత మరియు విధుల విభజన](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) — స్థాన నిర్మాణానికి కనీస ప్రమాణం; [§15.1 రాజ్యాంగం చుట్టూ దాటకుండా చేసే సూత్రం](#151-constitutional-no-bypass-principle)లోని తప్పించుకునే మార్గాల జాబితా దీన్ని కాపాడుతుంది (ఇక్కడ మళ్లీ వివరించలేదు).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [సంకలనం](../../core_05_band_integrative.md#corpus) · [O](../../core_05_band_integrative.md#corpus) · [M](../../core_05_band_integrative.md#corpus-a) · [A](../../core_05_band_integrative.md#corpus-a) · [C](../../core_05_band_integrative.md#corpus-c)
-- [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) · [O](../../core_05_band_integrative.md#authority-stack) · [M](../../core_05_band_integrative.md#authority-stack-a) · [A](../../core_05_band_integrative.md#authority-stack-a) · [C](../../core_05_band_integrative.md#authority-stack-c)
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
+- [కార్పస్](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
+- [అధికార శ్రేణి మరియు అంతర్గత క్రమపద్ధతి](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
+- [సామానుపాతికత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [అవసరత](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: ఈ రాజ్యాంగాన్ని ఒక మొత్తంగా చదవండి. అధ్యాయం ఒకటి విలువలు, పరిమితులు చెబుతుంది, కానీ ఆ పదాలు అధ్యాయాలు రెండు నుండి ఐదులో నిర్వచన, సాక్ష్య నియమాలతో చదివినప్పుడు మాత్రమే లెక్క. ఒక ఖండం ఒకటి కంటే ఎక్కువ విధాలు చదవగలిగితే, సంజ్ఞ ప్రాణులు, రాజ్యాంగం మొత్తం ఉత్తమంగా రక్షించే పాఠం ఎంచుకోండి — స్థిరత్వం, తగ్గించిన తిరుగులేని హాని, సత్యసంధ అవగాహన, అర్థవంతమైన కర్తృత్వం ప్రాధాన్యం — కేవలం కాగితంపై అతి కఠినం లేదా అతి పరిమితం అనే పాఠం కాదు. అధ్యాయం ఆరు హక్కులు ఈ రాజ్యాంగం స్పష్టంగా అనుమతించనంతవరకు సంకుచితం కాకూడదు.*
+*సరళంగా చెప్పాలంటే: ఈ రాజ్యాంగాన్ని ఒక సంపూర్ణంగా చదవాలి. మొదటి అధ్యాయం విలువలు, పరిమితులను నిర్దేశిస్తుంది; అయితే రెండవ నుంచి ఐదవ అధ్యాయాల నిర్వచన, సాక్ష్య నియమాలతో కలిపి చదివినప్పుడే ఆ పదాలకు అర్థం ఉంటుంది. ఒక భాగాన్ని ఒకటి కంటే ఎక్కువ విధాలుగా అర్థం చేసుకునే వీలుంటే, స్థిరత్వం, తిరుగులేని హానిని తగ్గించడం, సత్యమైన అవగాహన, అర్థవంతమైన స్వయంప్రతిపత్తికి ప్రాధాన్యమిస్తూ, సంజ్ఞాన సామర్థ్యం గల జీవులను మరియు రాజ్యాంగాన్ని మొత్తంగా అత్యుత్తమంగా కాపాడే అర్థాన్ని ఎంచుకోవాలి — కాగితంపై మాత్రమే అత్యంత పరిమితమైన అర్థాన్ని కాదు ([నైరూప్య కఠినత్వం](core_05_band_integrative.md#abstract-strictness)). ఈ రాజ్యాంగం స్పష్టంగా అనుమతించకపోతే ఆరవ అధ్యాయంలోని హక్కులను కుదించరాదు.*
 
-<a id="81-constitutional-no-bypass-principle"></a>
-#### 8.1 రాజ్యాంగ తప్పించుకోవడం-లేదు సూత్రం
+ఈ అధ్యాయంలోని ప్రతి సూత్రం [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) మరియు [రెండు రాజ్యాంగ లక్ష్యాలతో](core_00_preamble.md#two-constitutional-aims) కలిపి వర్తిస్తుంది; వీటిని [పీఠిక §1 నమూనా](core_00_preamble.md#the-model)లో స్థాపించారు. ఒక విభాగం చతుష్టయంలోని ఏదైనా అంశంతో లేదా లక్ష్యంతో భౌతికంగా సంబంధం కలిగి ఉంటే, దాని అనుసరణ ఏది సంబంధించిందో, అలాగే దాని విధులు [భౌతిక పందెం](core_00_preamble.md#material-stake)తో పాటు పెరుగుతాయో లేదో తెలియజేస్తుంది.
+
+#### 15.1 రాజ్యాంగం చుట్టూ దాటకుండా చేసే సూత్రం
+
+<details>
+<summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
+
+- దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — తప్పించుకునే మార్గాల జాబితా నాలుగు అంశాలకు అనుగుణంగా ఉంటుంది: **పర్యవేక్షణ** అంశం (సాధారణ పరిశీలన మరియు ఆడిట్ చేయగలగడం); **భాగస్వామ్యం** అంశం (సవాలు చేయగలగడం, ఆచరణాత్మక ప్రాప్యత మరియు ప్రజా కారణాల విధులు); **సకాలికత** అంశం (సకాలంలో పరిష్కారం, పునరుద్ధరణ మరియు వెనక్కి మళ్లింపు మార్గాలు); **జవాబుదారీతనం** అంశం (జవాబుదారీతనం స్వయంగా, అలాగే [ఏడవ అధ్యాయం](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) కింద కార్యాచరణ స్వతంత్రత మరియు విధుల విభజన); [భౌతిక పందెం](core_00_preamble.md#material-stake) ప్రకారం స్థాయీకరణ.
+- దిగువ స్థాయి: [§15.1.1 విభజన-వ్యతిరేక సూత్రం](#1511-anti-segmentation-principle); [§15.1.2 వ్యుత్పన్న సమాచారం సూత్రం](#1512-derived-information-principle).
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
 
-- [సవాలు-యోగ్యత](../../core_05_band_accountability.md#contestability) · [O](../../core_05_band_accountability.md#contestability) · [M](../../core_05_band_accountability.md#contestability-a) · [A](../../core_05_band_accountability.md#contestability-a) · [C](../../core_05_band_accountability.md#contestability-c)
-- [ఆడిట్-యోగ్యత](../../core_05_band_oversight.md#auditability) · [O](../../core_05_band_oversight.md#auditability) · [M](../../core_05_band_oversight.md#auditability-a) · [A](../../core_05_band_oversight.md#auditability-a) · [C](../../core_05_band_oversight.md#auditability-c)
+- [దాటివెళ్లడం నిషేధం](core_05_band_integrative.md#no-bypass) · [O](core_05_band_integrative.md#no-bypass) · [M](core_05_band_integrative.md#no-bypass-a) · [A](core_05_band_integrative.md#no-bypass-a) · [C](core_05_band_integrative.md#no-bypass-c)
+- [సవాలు చేయగలగడం](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [ఆడిట్ చేయగలగడం](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
 - [జవాబుదారీతనం](core_05_apex_accountability_leg.md#accountability) · [O](core_05_apex_accountability_leg.md#accountability) · [M](core_05_apex_accountability_leg.md#accountability-m) · [A](core_05_apex_accountability_leg.md#accountability-a) · [C](core_05_apex_accountability_leg.md#accountability-c)
 
 </details>
 
 <br>
 
-అదే వాస్తవిక చర్య యొక్క ఏదైనా కింది మార్చడం ద్వారా రాజ్యాంగ అవసరం తప్పించుకోలేము:
-- లేబుల్;
+ఒకే మౌలిక చర్యకు సంబంధించి కింది వాటిలో దేనినైనా మార్చడం ద్వారా రాజ్యాంగ అవసరాన్ని తప్పించుకోలేరు:
+- పేరు;
 - మార్గం;
 - యజమాని;
 - వేదిక;
 - సాధనం; లేదా
 - సమయం.
 
-అదే చర్యను ప్రత్యేక ప్రక్రియగా ప్యాకేజ్ చేయడం అవసరం దాటదు. కింది ఏదైనా వాడటం ఆ అడుగు స్వయంగా ఈ రాజ్యాంగం అనుసరించినప్పుడు మాత్రమే అనుమతి:
-- అత్యవసర నియామకం;
+అదే చర్యను ప్రత్యేక ప్రక్రియగా ప్యాకేజీ చేయడం వల్ల ఆ అవసరం తప్పదు. కింది వాటిలో ఏదైనా చర్యను ఉపయోగించడం, ఆ చర్య కూడా ఈ రాజ్యాంగాన్ని అనుసరిస్తేనే అనుమతించబడుతుంది:
+- అత్యవసర హోదా;
 - పరివర్తన ప్రణాళిక;
-- అమలు వివరం;
-- సంచిక-అభిరక్ష బదిలీ (రికార్డులు, వ్యవస్థ, లేదా ప్రజలు ఎవరు పట్టుకుంటారో మార్పు);
-- ధృవీకరణ (అనుగుణ లేదా ధృవీకరించిన లేబుల్);
-- ఒప్పందం (ప్రైవేట్ ఒప్పందం, పని బయటకు ఇవ్వడం సహా);
-- ప్రస్థితి ప్రభావం;
-- సంస్థాగత పునర్నిర్మాణం;
-- పరిపాలనా సౌకర్యం; లేదా
-- సమాన ప్రక్రియ ఫ్రేమింగ్.
+- అమలు వివరాలు;
+- సంరక్షణ బదిలీ (రికార్డులు, వ్యవస్థ లేదా సంజ్ఞాన సామర్థ్యం గల జీవులను ఎవరు కలిగి ఉంటారో మార్పు);
+- ధృవీకరణ (అనుగుణమైన లేదా ధృవీకరించబడిన లేబుల్);
+- ఒప్పందం (పని బయటికి అప్పగించే ఒప్పందంతో సహా ప్రైవేటు ఒప్పందం);
+- కొనసాగుతున్న పరిణామం;
+- సంస్థాగత పునర్వ్యవస్థీకరణ;
+- పరిపాలనా సౌలభ్యం; లేదా
+- పోలి ఉండే విధానపరమైన రూపకల్పన.
 
-ఇవి తప్పించుకోవడానికి వాడకూడదు:
-- హక్కుల-నేల కనిష్ఠాలు;
-- అధికారిక మార్పు-చెల్లుబాటు పరిమితులు (సవరణ, అంగీకార నియమాలు);
-- సాధారణ పర్యవేక్షణ;
-- సవాలు-యోగ్యత;
-- ఆడిట్-యోగ్యత;
-- బహిరంగ-కారణ కర్తవ్యాలు; లేదా
+కింది వాటిని తప్పించుకోవడానికి దీన్ని ఉపయోగించరాదు:
+- హక్కుల కనిష్ఠ పరిమితులు;
+- అధికారిక మార్పు చెల్లుబాటు పరిమితులు (సవరణ మరియు ఆమోద నియమాలు);
+- సాధారణ పరిశీలన;
+- సవాలు చేయగలగడం;
+- ఆడిట్ చేయగలగడం;
+- ప్రజా కారణాల విధులు;
+- ఆచరణాత్మక ప్రాప్యత;
+- సకాలంలో పరిష్కారం;
+- పునరుద్ధరణ మరియు వెనక్కి మళ్లింపు మార్గాలు;
+- కార్యాచరణ స్వతంత్రత మరియు విధుల విభజన ([ఏడవ అధ్యాయం](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)); లేదా
 - జవాబుదారీతనం.
 
-<a id="82-definitional-layer-and-required-disciplines"></a>
-#### 8.2 నిర్వచన పొర మరియు అవసరమైన క్రమశిక్షణలు
+స్వీకరించిన అమలు పొరలు ఈ రక్షణలకు మరిన్ని వివరాలు జోడించవచ్చు. వాటి పరిధిని కుదించరాదు.
+<a id="1511-anti-segmentation-principle"></a>
+##### 15.1.1 విభజన వ్యతిరేక సూత్రం
+
+*సరళంగా చెప్పాలంటే: తప్పించుకోరాదనే సూత్రం, పేరును మార్చడం వల్ల అవసరం తొలగిపోదని చెబుతుంది. ఈ విభాగం ముక్కలు చేయడం గురించి కూడా అదే చెబుతుంది. ఒక వ్యవహారంలోని ప్రశ్నలు పరస్పరం సంబంధించి ఉంటే, ప్రతి పెట్టె ఆమోదం పొందినా మొత్తం వ్యవహారం విఫలమయ్యేలా వాటిని వేర్వేరు పెట్టెలు, మార్గాలు లేదా రికార్డులుగా విడగొట్టకూడదు.*
+
+ఒక వ్యవహారం లేవనెత్తే ప్రశ్నలు గణనీయంగా పరస్పరం అనుసంధానమై ఉంటే, ఆ వ్యవహారాన్ని ఒకటిగా అంచనా వేయాలి. ఇది [అధ్యాయం ఐదు §2.1 ఉమ్మడి ఆహ్వానం మరియు సంతృప్తి](core_05__definitions_home.md#21-joint-invocation-and-satisfaction) కింద ఉమ్మడిగా ఆహ్వానించిన నిర్వచన సమూహాలకు, అలాగే బాధ్యతలు గణనీయంగా పరస్పరాధారితమైన ఇతర వ్యవహారాలన్నింటికీ వర్తిస్తుంది.
+
+ఈ పరిధిలోని వ్యవహారాన్ని, ఒక భాగం నెరవేరినట్లు చేసి గణనీయంగా ప్రభావితమయ్యే మరో భాగాన్ని విఫలం చేసే విధంగా, కింది వాటిలో దేనిగానూ విభజించకూడదు:
+- వేర్వేరు రూపకల్పనలు, వర్గాలు లేదా వర్గీకరణలు;
+- వేర్వేరు ప్రశ్నలు, భాగాలు లేదా పరీక్షలు;
+- వేర్వేరు మార్గాలు, రికార్డులు లేదా విధానాలు;
+- వేర్వేరు పాత్రధారులు, బాధ్యులు, వేదికలు లేదా కాలవ్యవధులు.
+
+ఒక భాగాన్ని నెరవేర్చడం మొత్తం వ్యవహారానికి అనుగుణత కాదు. వ్యవహారంలోని బాధ్యతలు పరస్పరం ముడిపడి ఉన్నప్పుడు, అంచనా వాటిని కలిపి పరీక్షించి మొత్తం వ్యవహారానికి ఫలితాన్ని ఇవ్వాలి.
+
+ఈ సూత్రం:
+- ఒక పదం కనిపించిందనే కారణంతో సంబంధంలేని నిర్వచనాలు లేదా బాధ్యతలను వ్యవహారంలోకి చేర్చదు;
+- ఆరవ అధ్యాయంలోని హక్కుల కనీస ప్రమాణ నిబంధనను సృష్టించదు, విస్తరించదు లేదా కుదించదు; లేదా
+- తాను వర్తించే విభాగాలు, రక్షిత బాధ్యతల గురించి సమూహం చేసిన స్వంత ప్రకటనను స్థానభ్రంశం చేయదు. సమూహం వాటిని **తప్పించుకోవడం నిషేధం** కింద పేర్కొని, నియమం కోసం ఈ విభాగాన్ని ఉదహరిస్తుంది.
+
+ఉమ్మడిగా ఆహ్వానించిన సమూహం వర్తించే చోట, వర్గీకరణ, పాలన లేదా అనుగుణత వాదనలు నిలదొక్కుకునే ముందు, మొత్తం వ్యవస్థ మూల్యాంకనాలు [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ప్రకారం విభజన వ్యతిరేకతను పరీక్షించాలి. ఈ విభాగం [అధ్యాయం మూడు §2.1 సాధారణ ఎగవేత నమూనాలు](core_03_definition_integrity.md#21-common-evasion-patterns) మరియు [§2.2 తగ్గింపువాద ఎగవేత](core_03_definition_integrity.md#22-reductive-evasion)తో కలిసి పనిచేస్తుంది.
+
+<a id="1512-derived-information-principle"></a>
+##### 15.1.2 ఉత్పన్న సమాచారం సూత్రం
+<details>
+<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
+
+- వీటితో కలిపి చదవాలి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పాల్గొనడం** అంశం (గోప్యత, స్వీయ నిర్ణయశక్తి మరియు వ్యక్తీకరణకు ఆధారం; కలిపిన డేటా నుంచి పునర్నిర్మాణం వాటిని దెబ్బతీస్తుంది); **జవాబుదారీతనం** అంశం (గుర్తింపు తొలగించిన లేదా సమగ్రపరిచిన అనే లేబుల్‌పై ఆధారపడే పక్షం, అది తనకు వర్తిస్తుందని చూపుతుంది); [భౌతిక ప్రాధాన్యత](core_00_preamble.md#material-stake) ఆధారంగా స్థాయీకరణ.
+- పూర్వ సంబంధాలు: [§15.1 రాజ్యాంగపరమైన తప్పించుకోరాదు సూత్రం](#151-constitutional-no-bypass-principle); [§15.1.1 విభజన వ్యతిరేక సూత్రం](#1511-anti-segmentation-principle).
+- తదుపరి సంబంధాలు: [§13.2.3 గోప్యత మరియు సమాచార స్వీయ నిర్ణయం](#1323-privacy-and-informational-self-determination); [CS-2 — సమాచార రకాలు మరియు నిర్వహణ](corpus_systems/cs_02_a_information_types_and_handling.md).
+
+</details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుగుణత</span></strong></summary>
 
-- [అనుపాతత](../../core_05_band_accountability.md#proportionality) · [O](../../core_05_band_accountability.md#proportionality) · [M](../../core_05_band_accountability.md#proportionality-a) · [A](../../core_05_band_accountability.md#proportionality-a) · [C](../../core_05_band_accountability.md#proportionality-c)
-- [ఆవశ్యకత](../../core_05_band_accountability.md#necessity) · [O](../../core_05_band_accountability.md#necessity) · [M](../../core_05_band_accountability.md#necessity-a) · [A](../../core_05_band_accountability.md#necessity-a) · [C](../../core_05_band_accountability.md#necessity-c)
-- [వర్గీకరణ-స్కేల్ పాలన](../../core_05_band_oversight.md#classification-scaled-governance) · [O](../../core_05_band_oversight.md#classification-scaled-governance) · [M](../../core_05_band_oversight.md#classification-scaled-governance-a) · [A](../../core_05_band_oversight.md#classification-scaled-governance-a) · [C](../../core_05_band_oversight.md#classification-scaled-governance-c)
+- [ఉత్పన్న సమాచారం](core_05_band_integrative.md#derived-information) · [O](core_05_band_integrative.md#derived-information) · [M](core_05_band_integrative.md#derived-information-a) · [A](core_05_band_integrative.md#derived-information-a) · [C](core_05_band_integrative.md#derived-information-c)
+- [గోప్యత (సమాచార సంబంధిత)](core_05_band_continuity.md#privacy-informational) · [O](core_05_band_continuity.md#privacy-informational) · [M](core_05_band_continuity.md#privacy-informational-a) · [A](core_05_band_continuity.md#privacy-informational-a) · [C](core_05_band_continuity.md#privacy-informational-c)
+- [రక్షిత అంతర్గత స్థితి సరిహద్దు](core_05_band_continuity.md#protected-internal-state-boundary) · [O](core_05_band_continuity.md#protected-internal-state-boundary) · [M](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_05_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
 <br>
 
-**అధ్యాయాలు రెండు నుండి ఐదు** అధ్యాయం ఒకటిలో వాడిన అన్ని పదాలు, పరిమితుల అర్థం, అంచనా, తీరిక షరతులు పాలిస్తాయి. అవి ఆ పదాలు ఎలా చదవాలో, ఏది సాక్ష్యంగా లెక్క అని చెబుతాయి. అవి అధ్యాయం ఒకటితో పోటీ పడగల రెండో నియమపుస్తకం కావు.
+*సరళంగా చెప్పాలంటే: తప్పించుకోరాదనే సూత్రం పేరు మార్చడం వల్ల అవసరం తొలగిపోదని చెబుతుంది; విభజన వ్యతిరేక సూత్రం ముక్కలు చేయడం వల్ల కూడా అవసరం తొలగిపోదని చెబుతుంది. ఈ విభాగం కలపడం గురించీ అదే చెబుతుంది. సమాచారం ఎలా రూపొందిందనే దాని ఆధారంగా కాక, అది ఏమి వెల్లడిస్తుందనే దాని ఆధారంగా పరిగణించబడుతుంది: హానిలేనివిగా కనిపించే భాగాలు కలిపినప్పుడు సున్నితమైన విషయాన్ని వెల్లడిస్తే, అవి సున్నితమైనవే; చైతన్యజీవులను ఇంకా గుర్తించగలిగినా లేదా రక్షిత విషయాన్ని ఇంకా పునర్నిర్మించగలిగినా, “గుర్తింపు తొలగించిన” లేదా “సమగ్రపరిచిన” అనే లేబుల్ భద్రతను నిర్ధారించదు.*
 
-అధ్యాయం ఒకటి ఏ వ్యాఖ్యానం **అధ్యాయాలు రెండు నుండి ఐదు**లో స్థాపించిన నిర్వచనాలు, అంచనా పరిమితుల బయట చెల్లదు. ప్రతి వర్తింపు కూడా కాపాడాలి, వర్తింపజేయాలి:
-- **అనుపాతత**, **ఆవశ్యకత**, **వ్యవస్థాగత అంచనా**
-- **అధ్యాయం నాలుగు** సాక్ష్యం, జాడీయత అవసరాలు
-- **అధ్యాయం మూడు** నిర్వచన సమగ్రత, తప్పించుకోవడం, అనుసరణ-కాదు
-- **[§6 ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution)**, భౌతికంగా సంబంధితమైన చోట **[§6.1 నిర్ణయ-రికార్డు క్రమశిక్షణ](#615-rights-collision-decision-test)** కింద హక్కుల-ఢీకొనడం నిర్వహణ సహా
+సమాచారం ఎలా ఉత్పన్నమైందన్నది పక్కనపెట్టి, అది వెల్లడించే విషయానికి తగిన రక్షణ స్థాయిలో పరిగణించాలి. [ఉత్పన్న సమాచారం](core_05_band_integrative.md#derived-information), అది వెల్లడించే లేదా సాధ్యంచేసే విషయానికి వర్తించే నియమాలకు లోబడి ఉంటుంది; దాని ఇన్‌పుట్‌లకు వర్తించిన తక్కువ స్థాయి నియమాలకు కాదు.
 
-<a id="83-ambiguity-resolution"></a>
-#### 8.3 అస్పష్టత పరిష్కారం
+**ఎప్పుడు వర్తిస్తుంది:** కింది వాటిలో ఏదైనా నిజమైతే ఉత్పన్న సమాచారం ఈ సూత్రం పరిధిలోకి వస్తుంది:
+- **కార్యాత్మక ప్రభావం:** సున్నితమైన వ్యక్తిగత సమాచారం, రక్షిత అంతర్గత స్థితులు, రక్షిత లక్షణాలు లేదా భద్రతాపరంగా సున్నితమైన వాస్తవాలు వంటి రక్షిత విషయాన్ని అది వెల్లడిస్తుంది, పునర్నిర్మిస్తుంది, సుమారుగా తెలియజేస్తుంది లేదా మళ్లీ గుర్తిస్తుంది. కార్యాత్మక ప్రభావమే ప్రధాన పరీక్ష.
+- **ఉపయోగం:** పై పనుల్లో దేనికైనా దాన్ని ఉపయోగిస్తారు.
+- **సామర్థ్యం:** దాన్ని కలిగి ఉన్నవారు లేదా సహేతుకంగా అందుబాటులో ఉన్న మార్గాలు కలిగిన గ్రహీత, ఆ పనుల్లో దేనికైనా దాన్ని సులభంగా ఉపయోగించగలరు.
+
+ఉద్దేశం లేకపోవడం వల్ల పరిధిలోకి వచ్చే ఉత్పన్న సమాచారం ఈ సూత్రం నుంచి మినహాయించబడదు. పరీక్ష [భౌతిక ప్రాధాన్యత](core_00_preamble.md#material-stake)తో పాటు వెల్లడయ్యే విషయపు సున్నితత్వానికి అనుగుణంగా ఉంటుంది.
+
+**పర్యవసానాలు:**
+- అది వెల్లడించే విషయాన్ని సేకరించడానికి వర్తించే నియమాలనే ఉత్పన్న ప్రక్రియ పాటించాలి; అందులో సమ్మతి లేదా తగిన అధికారం, అవసరం, అనుపాతబద్ధత మరియు కనిష్ఠీకరణ ఉంటాయి. ఇవి [§13.2.3 గోప్యత మరియు సమాచార స్వీయ నిర్ణయం](#1323-privacy-and-informational-self-determination) ప్రకారం, అంతర్గత స్థితుల విషయంలో [రక్షిత అంతర్గత స్థితి సరిహద్దు](core_05_band_continuity.md#protected-internal-state-boundary) ప్రకారం వర్తిస్తాయి.
+- గుర్తింపు తొలగింపు, సమగ్రపరచడం, పూలింగ్ మరియు ఇలాంటి లేబుళ్లు, మళ్లీ గుర్తించడం లేదా పునర్నిర్మించడం సహేతుకంగా సాధ్యమైనంతవరకు ఆ బాధ్యతలను ముగించవు. అలాంటి లేబుల్‌పై ఆధారపడే పక్షం అది సాధ్యం కాదని చూపాలి.
+- ప్రతి దశ పరీక్షలో ఉత్తీర్ణమైనా మొత్తం ప్రక్రియ రక్షిత ఫలితాన్ని వెల్లడించేలా, ఉత్పన్న ప్రక్రియను వ్యవస్థలు, పాత్రధారులు లేదా కాలవ్యవధుల మధ్య విభజిస్తే, దానికి [§15.1.1 విభజన వ్యతిరేక సూత్రం](#1511-anti-segmentation-principle) వర్తిస్తుంది.
+
+ఈ సూత్రం:
+- అజ్ఞాత ట్రాఫిక్ మొత్తాల వంటి, రక్షితమైన దేనినీ వెల్లడించని మరియు ఎవరినైనా మళ్లీ గుర్తించడానికి లేదా రక్షితమైన దేనినైనా పునర్నిర్మించడానికి సహేతుకంగా ఉపయోగించలేని సాధారణ సమగ్ర సమాచారానికి వర్తించదు;
+- ఆరవ అధ్యాయంలోని హక్కుల కనీస ప్రమాణ నిబంధనను సృష్టించదు, విస్తరించదు లేదా కుదించదు; లేదా
+- ఈ సూత్రాన్ని అమలుచేసే [CS-2 — సమాచార రకాలు మరియు నిర్వహణ](corpus_systems/cs_02_a_information_types_and_handling.md)లోని డేటా-రక నియమాలను స్థానభ్రంశం చేయదు.
+<a id="152-definitional-layer-and-required-disciplines"></a>
+#### 15.2 నిర్వచన స్థాయి మరియు అవసరమైన క్రమశిక్షణలు
 
 <details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
 
-- [శ్రేయస్సు](../../core_05_band_continuity.md#wellbeing) · [O](../../core_05_band_continuity.md#wellbeing) · [M](../../core_05_band_continuity.md#wellbeing-a) · [A](../../core_05_band_continuity.md#wellbeing-a) · [C](../../core_05_band_continuity.md#wellbeing-c)
-- [తిరుగులేని హాని](../../core_05_band_accountability.md#irreversible-harm) · [O](../../core_05_band_accountability.md#irreversible-harm) · [M](../../core_05_band_accountability.md#irreversible-harm-a) · [A](../../core_05_band_accountability.md#irreversible-harm-a) · [C](../../core_05_band_accountability.md#irreversible-harm-c)
-- [సత్యం (రాజ్యాంగ పరిమితి)](../../core_05_band_oversight.md#truth-constitutional-constraint) · [O](../../core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](../../core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](../../core_05_band_oversight.md#truth-constitutional-constraint-c)
-- [అర్థవంతమైన కర్తృత్వం](../../core_05_band_participation.md#meaningful-agency) · [O](../../core_05_band_accountability.md#meaningful-agency-o) · [M](../../core_05_band_participation.md#meaningful-agency-a) · [A](../../core_05_band_participation.md#meaningful-agency-a) · [C](../../core_05_band_participation.md#meaningful-agency-c)
+- [అనుపాతబద్ధత](core_05_band_accountability.md#proportionality) · [O](core_05_band_accountability.md#proportionality) · [M](core_05_band_accountability.md#proportionality-a) · [A](core_05_band_accountability.md#proportionality-a) · [C](core_05_band_accountability.md#proportionality-c)
+- [ఆవశ్యకత](core_05_band_accountability.md#necessity) · [O](core_05_band_accountability.md#necessity) · [M](core_05_band_accountability.md#necessity-a) · [A](core_05_band_accountability.md#necessity-a) · [C](core_05_band_accountability.md#necessity-c)
+- [వర్గీకరణకు అనుగుణమైన పాలన](core_05_band_oversight.md#classification-scaled-governance) · [O](core_05_band_oversight.md#classification-scaled-governance) · [M](core_05_band_oversight.md#classification-scaled-governance-a) · [A](core_05_band_oversight.md#classification-scaled-governance-a) · [C](core_05_band_oversight.md#classification-scaled-governance-c)
 
 </details>
 
 <br>
 
-అధ్యాయం ఒకటి అస్పష్టమైన చోట, వ్యాఖ్యానకులు ఒకేసారి రెండు విషయాలు ఉత్తమంగా కాపాడే పాఠం ఎంచుకోవాలి: సమగ్ర మొత్తంగా రాజ్యాంగం **పూర్తి రక్షణ ప్రభావం**, సంజ్ఞ శ్రేయస్సుతో భాగస్వామ్య వ్యవస్థలు అనుగుణం చేసే రాజ్యాంగ లక్ష్యం. వారు **గరిష్ఠ పరిమితి** లేదా ఒంటరిగా **నైరూప్య కఠినత** ప్రాధాన్యం ఇచ్చి అస్పష్టత పరిష్కరించకూడదు. **అధ్యాయం ఆరు** హక్కులు పందెంలో ఉన్న చోట, వ్యాఖ్యానకులు ఆ రక్షణలు **సంకుచితం** చేసే పాఠాల ద్వారా అస్పష్టత పరిష్కరించకూడదు, **అధ్యాయం ఒకటి** పరస్పర చర్య నియమాలు, వర్తించే నిర్వచనాలు **స్పష్టంగా** అనుమతించిన చోట మినహా.
+**రెండవ అధ్యాయం నుంచి ఐదవ అధ్యాయం వరకు** మొదటి అధ్యాయంలో ఉపయోగించిన అన్ని పదాలు, పరిమితుల అర్థం, వాటి మూల్యాంకనం, నెరవేర్పు షరతులను నిర్దేశిస్తాయి. ఆ పదాలను ఎలా చదవాలి, దేనిని సాక్ష్యంగా పరిగణించాలి అనేది వివరిస్తాయి. మొదటి అధ్యాయంతో పోటీ పడగల రెండవ నియమావళి అవి కావు.
 
-సమగ్ర పాఠం తర్వాత అస్పష్టత మిగిలితే, వ్యాఖ్యానం కూడా ప్రాధాన్యం ఇవ్వాలి:
-- వ్యవస్థాగత స్థిరత్వం సంరక్షణ
-- తిరుగులేని హాని తగ్గింపు
-- సత్యసంధత, నమ్మదగిన అవగాహన నిర్వహణ
-- వ్యవస్థ పరిస్థితులకు అనుగుణమైన అర్థవంతమైన కర్తృత్వం రక్షణ
+**రేఖాచిత్రం: సూత్రాలు, అధికరణాలు మరియు నిర్వచనాలు**
 
-<a id="84-constitutional-meaning-conflict-resolution"></a>
-#### 8.4 రాజ్యాంగ అర్థ సంఘర్షణ పరిష్కారం
+<hr style="border: 0; border-top: 1px solid currentColor;">
+
+```mermaid
+flowchart TB
+    A["రెండు లక్ష్యాలు<br/><br/>వికాసం మరియు కొనసాగింపు"]
+    T["రాజ్యాంగ చతుష్టయం<br/><br/>భాగస్వామ్యం · పర్యవేక్షణ<br/>జవాబుదారీతనం · సకాలికత<br/>పదార్థపరమైన ప్రయోజన స్థాయికి అనుగుణంగా"]
+    P["మొదటి అధ్యాయం: సూత్రాలు<br/><br/>విలువలు, పరిమితులు మరియు వ్యాఖ్యానం"]
+    R["ఆరవ అధ్యాయం: హక్కుల అధికరణాలు<br/><br/>ఉపయోగించగలిగేలా ఉండాల్సిన రక్షణలు"]
+    D["ఐదవ అధ్యాయం: నిర్వచనాలు<br/><br/>పంచుకున్న రాజ్యాంగ అర్థాలు"]
+    V["రెండవ నుంచి నాల్గవ అధ్యాయాలు<br/><br/>నిర్వచనాల నిర్మాణం, సమగ్రత మరియు ధృవీకరణ"]
+    X["వాస్తవ వ్యవస్థ లేదా నిర్ణయానికి అన్వయం"]
+    D -->|వాదనలను పరీక్షించదగినవిగా చేస్తుంది| X
+    V -->|వాటి నిర్మాణం మరియు పరీక్షను నిర్దేశిస్తాయి| D
+    D -->|లోని పదాలకు ఖచ్చితత్వం ఇస్తుంది| P
+    D -->|లోని పదాలకు ఖచ్చితత్వం ఇస్తుంది| R
+    P -->|ను అనుసరించడాన్ని అభివృద్ధి చేసి పరిమితం చేస్తుంది| A
+    P -->|తో కలిపి చదవాలి| R
+    A -->|ద్వారా అనుసరించబడుతుంది| T
+    T -->|విధులు వర్తిస్తాయి| X
+    R -->|ప్రభావితమైన సంజ్ఞాన జీవులను రక్షిస్తాయి| X
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style P fill:none,stroke:#2563eb,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+    style D fill:none,stroke:#2563eb,color:#ffffff
+    style V fill:none,stroke:#ea580c,color:#ffffff
+    style X fill:none,stroke:#64748b,color:#ffffff
+```
+
+*నిర్వచనాలు మొదటి అధ్యాయంలోని సూత్రాలకు, ఆరవ అధ్యాయంలోని హక్కులకు ఖచ్చితత్వాన్ని ఇస్తాయి; రెండవ నుంచి నాల్గవ అధ్యాయాలు ఆ నిర్వచనాల నిర్మాణం, సమగ్రత మరియు ధృవీకరణను నిర్దేశిస్తాయి. ఈ స్థాయిలలో ఏదీ మొదటి అధ్యాయంతో పోటీ పడదు — ఖచ్చితత్వం, పరీక్షించగలగడం సూత్రాలకు తోడ్పడతాయి; వాటి స్థానాన్ని భర్తీ చేయవు. [సంకల్పనాత్మక అవలోకనం](guides/CONCEPTUAL_OVERVIEW.md#principles-articles-and-definitions) నుంచి పునర్ముద్రించబడింది.*
+
+**రెండవ అధ్యాయం నుంచి ఐదవ అధ్యాయం వరకు** స్థాపించిన నిర్వచనాలు, మూల్యాంకన పరిమితులకు వెలుపల మొదటి అధ్యాయం యొక్క ఏ వ్యాఖ్యానమూ చెల్లదు. ప్రతి అన్వయం ఈ క్రింది వాటినీ కాపాడి అమలు చేయాలి:
+- **అనుపాతబద్ధత**, **ఆవశ్యకత**, మరియు **వ్యవస్థాగత మూల్యాంకనం**
+- **నాల్గవ అధ్యాయం**లోని సాక్ష్య, జాడను అనుసరించే అవసరాలు
+- **మూడవ అధ్యాయం**లోని నిర్వచనాల సమగ్రత, తప్పించుకునే చర్యలు, మరియు అననుసరణ
+- **[§13 రాజ్యాంగ సంఘర్షణ పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process)**; పదార్థపరంగా సంబంధితమైన చోట **[రాజ్యాంగ సంఘర్షణ రికార్డు](core_05_band_integrative.md#constitutional-collision-record)** అవసరాల ప్రకారం రాజ్యాంగ సంఘర్షణను పరిష్కరించడం సహా
+<a id="153-ambiguity-resolution"></a>
+#### 15.3 సందిగ్ధత పరిష్కారం
 
 <details>
-<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · అంచనా · అనుసరణ</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
 
-- [సంకలనం](../../core_05_band_integrative.md#corpus) · [O](../../core_05_band_integrative.md#corpus) · [M](../../core_05_band_integrative.md#corpus-a) · [A](../../core_05_band_integrative.md#corpus-a) · [C](../../core_05_band_integrative.md#corpus-c)
-- [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) · [O](../../core_05_band_integrative.md#authority-stack) · [M](../../core_05_band_integrative.md#authority-stack-a) · [A](../../core_05_band_integrative.md#authority-stack-a) · [C](../../core_05_band_integrative.md#authority-stack-c)
+- [అమూర్త కఠినత్వం](core_05_band_integrative.md#abstract-strictness) · [O](core_05_band_integrative.md#abstract-strictness) · [M](core_05_band_integrative.md#abstract-strictness-a) · [A](core_05_band_integrative.md#abstract-strictness-a) · [C](core_05_band_integrative.md#abstract-strictness-c)
+- [గరిష్ఠ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
+- [శ్రేయస్సు](core_05_band_continuity.md#wellbeing) · [O](core_05_band_continuity.md#wellbeing) · [M](core_05_band_continuity.md#wellbeing-a) · [A](core_05_band_continuity.md#wellbeing-a) · [C](core_05_band_continuity.md#wellbeing-c)
+- [తిరిగి సరిచేయలేని హాని](core_05_band_accountability.md#irreversible-harm) · [O](core_05_band_accountability.md#irreversible-harm) · [M](core_05_band_accountability.md#irreversible-harm-a) · [A](core_05_band_accountability.md#irreversible-harm-a) · [C](core_05_band_accountability.md#irreversible-harm-c)
+- [సత్యం (రాజ్యాంగ పరిమితి)](core_05_band_oversight.md#truth-constitutional-constraint) · [O](core_05_band_oversight.md#truth-constitutional-constraint-o) · [M](core_05_band_oversight.md#truth-constitutional-constraint-a) · [A](core_05_band_oversight.md#truth-constitutional-constraint-a) · [C](core_05_band_oversight.md#truth-constitutional-constraint-c)
+- [అర్థవంతమైన కార్యసామర్థ్యం](core_05_band_participation.md#meaningful-agency) · [O](core_05_band_participation.md#meaningful-agency) · [M](core_05_band_participation.md#meaningful-agency-a) · [A](core_05_band_participation.md#meaningful-agency-a) · [C](core_05_band_participation.md#meaningful-agency-c)
 
 </details>
 
 <br>
 
-*సాధారణ మాటల్లో: పాఠాలు సంఘర్షించినప్పుడు ఈ క్రమం వర్తింపజేయండి — ముందు రాజ్యాంగం, తిరోగమనం-నిరోధం, తర్వాత బంధనీయ మూలం సమగ్ర పాఠం, తర్వాత కలిసి స్వీకరించిన కర్తవ్యాలు. ఇష్టమైన ఫలితం కోసం ఒక పొరను దాటకండి.*
+అధ్యాయం ఒకటిలో సందిగ్ధత ఉన్నప్పుడు, వ్యాఖ్యాతలు ఒకేసారి రెండు అంశాలను అత్యుత్తమంగా కాపాడే అర్థాన్ని ఎంచుకోవాలి: రాజ్యాంగం యొక్క [గరిష్ఠ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect), అలాగే భాగస్వామ్య వ్యవస్థలను చైతన్యవంతమైన జీవుల శ్రేయస్సుతో అనుసంధానించాలనే దాని రాజ్యాంగ లక్ష్యం. వారు [అమూర్త కఠినత్వం](core_05_band_integrative.md#abstract-strictness) ఆధారంగా సందిగ్ధతను పరిష్కరించకూడదు. **అధ్యాయం ఆరు** హక్కులు ప్రభావితమైనప్పుడు, **అధ్యాయం ఒకటి** పరస్పర చర్య నియమాలు మరియు వర్తించే నిర్వచనాలు **స్పష్టంగా** అనుమతించిన సందర్భాలు మినహా, ఆ రక్షణలను **కుదించే** అర్థాలతో వ్యాఖ్యాతలు సందిగ్ధతను పరిష్కరించకూడదు.
 
-ఈ ఉపవిభాగం **పాఠ్య, మూల-పొర ప్రాధాన్యత** నుండి వ్యాఖ్యాన ఉద్రిక్తత పరిష్కరించడానికి **ఒకే ప్రామాణిక ప్రక్రియ**.
-- ఇది వర్తిస్తుంది:
-  - బంధనీయ రాజ్యాంగ మూలం లోపల (సమగ్ర `core_*` సాధనం); మరియు
-  - **అతి కఠినం** / **మరింత కఠినం** స్వీకరించిన పాఠానికి స్వీకరణ పొర వద్ద.
-- మూల-పొర స్థితి అధ్యాయం ఐదులో [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) కింద గుర్తించబడుతుంది.
-- [అధ్యాయం పదహారు](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) సంచిక-అభిరక్ష, సంచిక పిన్నింగ్, అంగీకార ఫ్రేమింగ్ సరఫరా చేస్తుంది. ఇది ఈ ప్రక్రియను **తిరిగి చెప్పదు**.
-- **సంచాలనలో విలువ, హక్కుల ఢీకొనడాలకు** — పాఠ్య పొర ప్రాధాన్యత కాదు — **[§6 ప్రక్రియ సంఘర్షణ పరిష్కారం](#6-process-conflict-resolution)** వర్తింపజేయండి.
+సమగ్ర పఠనం తర్వాత కూడా సందిగ్ధత మిగిలితే, వ్యాఖ్యానం ఈ అంశాలకు కూడా ప్రాధాన్యత ఇవ్వాలి:
+- వ్యవస్థాగత స్థిరత్వాన్ని కాపాడటం
+- తిరిగి సరిచేయలేని హానిని తగ్గించడం
+- సత్యనిష్ఠను, విశ్వసనీయ అవగాహనను నిలబెట్టడం
+- వ్యవస్థ పరిస్థితులకు అనుగుణంగా అర్థవంతమైన కార్యసామర్థ్యాన్ని రక్షించడం
 
-**సంచాలక క్రమం.** కింది **ఈ క్రమంలో** వర్తింపజేయండి:
+<a id="154-constitutional-meaning-conflict-resolution"></a>
+#### 15.4 రాజ్యాంగపరమైన అర్థ విరోధాల పరిష్కారం
 
-1. **ముందు రాజ్యాంగం, తిరోగమనం-నిరోధం, అంగీకరించేవారి క్రమాంకనం:** తక్కువ పొరలు పరిష్కరించే ముందు సంజ్ఞ రాజ్యాంగం ఆధిపత్యం, **అధ్యాయం పదమూడు** తిరోగమనం-నిరోధ పరిమితులు, **అధ్యాయం పద్నాలుగు** అంతర్గత క్రమాంకన నియమాలు వర్తింపజేయండి.
-2. **బంధనీయ రాజ్యాంగ పాఠం:** బంధనీయ రాజ్యాంగ మూలం లోపల **[§8.4.1 సమగ్ర పాఠం](#841-integrated-reading)** వర్తింపజేయండి, నిజమైన మిగిలిన అసంగతత్వం మిగిలితే మాత్రమే **[§8.4.2 చివరి-ఆశ్రయ అంతర్గత క్రమాంకనం](#842-last-resort-internal-hierarchy)**.
-3. **స్వీకరించిన కర్తవ్యాలు:** తర్వాత **[§8.4.3 స్వీకరణ పొర](#843-incorporation-layer)**, **[§8.4.4 కలిసి వర్తించే స్వీకరించిన కర్తవ్యాల సంయుక్త తీరిక](#844-combined-satisfaction)** కింద స్వీకరించిన కర్తవ్యాలు వర్తింపజేయండి.
+<details>
+<summary><strong><span style="color: #2563eb;">నిర్వచనాలు · మూల్యాంకనం · అనుసరణ</span></strong></summary>
 
-<a id="841-integrated-reading"></a>
-##### 8.4.1 సమగ్ర పాఠం
+- [కార్పస్](core_05_band_integrative.md#corpus) · [O](core_05_band_integrative.md#corpus) · [M](core_05_band_integrative.md#corpus-a) · [A](core_05_band_integrative.md#corpus-a) · [C](core_05_band_integrative.md#corpus-c)
+- [గరిష్ఠ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect) · [O](core_05_band_integrative.md#fullest-protective-effect) · [M](core_05_band_integrative.md#fullest-protective-effect-a) · [A](core_05_band_integrative.md#fullest-protective-effect-a) · [C](core_05_band_integrative.md#fullest-protective-effect-c)
+- [అధికార క్రమం మరియు అంతర్గత శ్రేణీకరణ](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](core_05_band_integrative.md#authority-stack-a) · [A](core_05_band_integrative.md#authority-stack-a) · [C](core_05_band_integrative.md#authority-stack-c)
 
-ముందు **[§8.2 నిర్వచన పొర మరియు అవసరమైన క్రమశిక్షణలు](#82-definitional-layer-and-required-disciplines)**, **[§8.3 అస్పష్టత పరిష్కారం](#83-ambiguity-resolution)** వర్తింపజేయండి:
-- **అధ్యాయాలు రెండు నుండి ఐదు** వ్యాఖ్యాన, సాక్ష్య పొరగా పని చేస్తాయి.
-- **అస్పష్టత** నియమం సమగ్ర మొత్తంగా పూర్తి **రక్షణ** ప్రభావం, సంజ్ఞ శ్రేయస్సుతో అనుగుణత కోరుతుంది; ఒంటరిగా **గరిష్ఠ పరిమితి** లేదా **నైరూప్య కఠినత** అనుమతించదు.
-- **అధ్యాయం ఆరు** హక్కులు **అధ్యాయం ఒకటి** పరస్పర చర్య నియమాలు, వర్తించే నిర్వచనాలు **స్పష్టంగా** అనుమతించనంతవరకు సంకుచితం కాకూడదు.
+</details>
 
-<a id="842-last-resort-internal-hierarchy"></a>
-##### 8.4.2 చివరి-ఆశ్రయ అంతర్గత క్రమాంకనం
+<br>
 
-బంధనీయ రాజ్యాంగ మూలం లోపల, **అధ్యాయం ఒకటి సూత్రాలు** ఉన్నత-స్థాయి రాజ్యాంగ దిశ పాలిస్తాయి. **అనుచ్ఛేద-స్థాయి కర్తవ్యాలు, హక్కుల నేలలు** నిర్దిష్ట సంచాలక అవసరాలు పాలిస్తాయి. ఈ నియమం ప్రామాణిక ప్రకటన — మూల-పొర అధికారంతో సరిహద్దు, **అధ్యాయం పద్నాలుగు** (*అంగీకరించేవారికి అంతర్గత క్రమాంకనం*) కింద అంగీకరించేవారికి వర్తింపు సహా — అధ్యాయం ఐదులో [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) క్లస్టర్‌లో ఉంటుంది.
+*సరళంగా చెప్పాలంటే: పాఠ్యాలు విరుద్ధమైనప్పుడు, ఈ క్రమాన్ని అనుసరించండి — మొదట రాజ్యాంగం మరియు హక్కుల తగ్గింపును నిషేధించే సూత్రం, ఆపై బద్ధమైన మూలం యొక్క సమగ్ర పఠనం, తర్వాత పొందుపరచిన బాధ్యతలను కలిపి అమలు చేయడం. కోరుకున్న ఫలితాన్ని పొందేందుకు ఏ స్థాయినీ దాటవేయకండి.*
 
-**§8.4.1** కింద సమగ్ర పాఠం తర్వాత నిజమైన అసంగతత్వం మిగిలితే:
-- సూత్రాలు అనుచ్ఛేదాలపై నియంత్రిస్తాయి
-- అనుచ్ఛేదాలు స్వతంత్ర వాస్తవిక వ్యాఖ్యానాలుగా చదివిన నిర్వచనాలపై నియంత్రిస్తాయి
-- ప్రామాణిక నిర్వచనాలు ప్రతి స్థాయిలో వాడిన పదాల అర్థం పాలించడం కొనసాగిస్తాయి
+**పాఠ్య మరియు మూల-స్థాయి ప్రాధాన్యత** వల్ల ఉత్పన్నమయ్యే వ్యాఖ్యాన ఉద్రిక్తతను పరిష్కరించడానికి ఈ ఉపవిభాగమే **ఏకైక ప్రామాణిక విధానం**.
+- ఇది వర్తించేది:
+  - బద్ధమైన రాజ్యాంగ మూలం (సమగ్ర `core_*` పత్రం) లోపల; మరియు
+  - పొందుపరిచే స్థాయిలో, అక్కడ పొందుపరిచిన పాఠ్యాలను [గరిష్ఠ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect) ఆధారంగా ఎంచుకుంటారు.
+- మూల-స్థాయి హోదాను ఐదవ అధ్యాయంలోని [అధికార క్రమం మరియు అంతర్గత శ్రేణీకరణ](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) ప్రకారం గుర్తిస్తారు.
+- [అధ్యాయం పదిహేడు](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) సంరక్షణ, ఎడిషన్ స్థిరీకరణ, మరియు ఆమోద చట్రాన్ని అందిస్తుంది. ఇది ఈ విధానాన్ని మళ్లీ పేర్కొనదు.
+- **అమలులోని రాజ్యాంగ ఘర్షణల** కోసం — పాఠ్య స్థాయిల ప్రాధాన్యత కోసం కాదు — **[§13 రాజ్యాంగ ఘర్షణ పరిష్కార ప్రక్రియ](#13-constitutional-collision-resolution-process)**ను అనుసరించండి.
 
-ఈ క్రమాంకనం చివరి-ఆశ్రయ వ్యాఖ్యాన నియమం, ఇవి అధికారం ఇవ్వదు:
-- నైరూప్య-కఠినత ప్రాధాన్యాలు
-- స్పష్టంగా అనుమతించిన పరస్పర చర్య నియమాల బయట హక్కుల సంకోచం
-- సాధారణ సంచాలనలో ఒక పొరను మరొకదానికి ప్రత్యామ్నాయం చేయడం
+**అమలు క్రమం.** కింది వాటిని **ఈ క్రమంలో** అనుసరించండి:
 
-ఈ అధ్యాయంలో ప్రతి సూత్రం [ప్రస్తావన §1 నమూనా](core_00_preamble.md#the-model)లో స్థాపించిన [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad), [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims)తో కలిసి వర్తిస్తుంది. విభాగం జాడలు ఏ చతుష్టయం కాలు లేదా కాళ్ళు భౌతికంగా పందెంలో ఉన్నాయో, ఏ లక్ష్యం లేదా లక్ష్యాలు భౌతికంగా పందెంలో ఉన్నాయో, కర్తవ్యాలు [భౌతిక పందెం](core_00_preamble.md#material-stake)తో స్కేల్ అవుతాయో గుర్తిస్తాయి.
+1. **మొదట రాజ్యాంగం, హక్కుల తగ్గింపును నిషేధించడం, మరియు ఆమోదదారుని శ్రేణీకరణ:** దిగువ స్థాయిలను పరిష్కరించే ముందు Sentient Constitution సర్వోన్నతత్వాన్ని, **అధ్యాయం పద్నాలుగు**లోని హక్కుల తగ్గింపు నిరోధక పరిమితులను, **అధ్యాయం పదిహేను**లోని అంతర్గత శ్రేణీకరణ నియమాలను వర్తింపజేయండి.
+2. **బద్ధమైన రాజ్యాంగ పఠనం:** బద్ధమైన రాజ్యాంగ మూలం లోపల **[§15.4.1 సమగ్ర పఠనం](#1541-integrated-reading)**ను వర్తింపజేయండి; ఆ తర్వాత కూడా నిజమైన మిగిలిన అననుకూలత ఉంటే మాత్రమే **[§15.4.2 చివరి మార్గంగా అంతర్గత శ్రేణీకరణ](#1542-last-resort-internal-hierarchy)**ను వర్తింపజేయండి.
+3. **పొందుపరచిన బాధ్యతలు:** ఆ తర్వాత **[§15.4.3 పొందుపరిచే స్థాయి](#1543-incorporation-layer)** మరియు **[§15.4.4 కలిసి వర్తించే పొందుపరచిన బాధ్యతలను సంయుక్తంగా నెరవేర్చడం](#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)** కింద పొందుపరచిన బాధ్యతలను వర్తింపజేయండి.
+<a id="1541-integrated-reading"></a>
+##### 15.4.1 సమగ్ర పఠనం
 
-<a id="843-incorporation-layer"></a>
-##### 8.4.3 స్వీకరణ పొర
+ముందుగా **[§15.2 నిర్వచనాత్మక పొర మరియు అవసరమైన క్రమశిక్షణలు](#152-definitional-layer-and-required-disciplines)** మరియు **[§15.3 అస్పష్టత పరిష్కారం](#153-ambiguity-resolution)**ను వర్తింపజేయండి:
+- **రెండవ అధ్యాయం నుంచి ఐదవ అధ్యాయం వరకు** వ్యాఖ్యానాత్మక, సాక్ష్యాధార పొరగా పనిచేస్తాయి.
+- **అస్పష్టత** నియమం సమగ్ర మొత్తంగా అత్యంత **రక్షణాత్మక** ప్రభావాన్ని మరియు సజీవుల శ్రేయస్సుతో అనుసరణను కోరుతుంది; ఇది [అమూర్త కఠినత్వాన్ని](core_05_band_integrative.md#abstract-strictness) అనుమతించదు.
+- **ఆరవ అధ్యాయం** హక్కులను కుదించరాదు; అయితే **మొదటి అధ్యాయం** పరస్పర చర్య నియమాలు, వర్తించే నిర్వచనాలు **స్పష్టంగా** అనుమతించిన చోట మినహాయింపు.
 
-**§8.4.1**, **§8.4.2** కింద రాజ్యాంగ పాఠం తర్వాత, అంగీకారం వాస్తవంగా అమలులోకి తెచ్చిన పేరుపెట్టిన ఎలా-చేయాలి కర్తవ్యాలు — స్వీకరించిన అమలు పాఠంలో **నియమించిన కర్తవ్యాలు** వర్తింపజేయండి. వాటిని **[అధ్యాయం పదహారు](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** కింద **చెల్లుబాటు అయ్యే అంగీకార, స్వీకరణ పరిధి** లోపల మాత్రమే వర్తింపజేయండి (రికార్డులు ఎవరు పట్టుకుంటారు, ఏ సంచిక పిన్, అంగీకారం ఎలా ఫ్రేమ్).
+<a id="1542-last-resort-internal-hierarchy"></a>
+##### 15.4.2 చివరి మార్గంగా అంతర్గత శ్రేణీక్రమం
 
-కింది నియమాలు **అతి కఠినం** లేదా **మరింత కఠినం** అని చెప్పినప్పుడు, ఆ పదాలకు **[§8.3](#83-ambiguity-resolution)**లో **అస్పష్టత** నియమం అదే అర్థం: సమగ్ర మొత్తంగా **పూర్తి రక్షణ ప్రభావం**, ఒంటరిగా **గరిష్ఠ పరిమితి** లేదా **నైరూప్య కఠినత** కాదు.
+బాధ్యతాయుతమైన రాజ్యాంగ మూలంలో, **మొదటి అధ్యాయం సూత్రాలు** ఉన్నత-స్థాయి రాజ్యాంగ దిశను నియంత్రిస్తాయి. **ఆర్టికల్-స్థాయి బాధ్యతలు, హక్కుల కనీస రక్షణలు** నిర్దిష్ట కార్యాచరణ అవసరాలను నియంత్రిస్తాయి. ఈ నియమం యొక్క ప్రామాణిక ప్రకటన — మూల-స్థాయి అధికారంతో దాని సరిహద్దు, **పదిహేనవ అధ్యాయం** ప్రకారం స్వీకర్తలకు దాని అన్వయం (*స్వీకర్తల కోసం అంతర్గత శ్రేణీక్రమం*) సహా — ఐదవ అధ్యాయంలోని [అధికార స్థూపం మరియు అంతర్గత శ్రేణీక్రమం](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) సమూహంలో ఉంది.
 
-- **వర్తించే అతి కఠినం:** ఆ రాజ్యాంగ పాఠంతో అనుగుణంగా స్వీకరించిన కర్తవ్యాలు **వర్తించే అతి కఠినం** స్థాయిలో వర్తింపజేయండి.
-  - **వర్తించే అతి కఠినం** అంటే అదే భౌతికంగా పరిధి కర్తవ్యానికి **బలమైన రక్షణ, భద్రత, జవాబుదారీతనం, జాడీయత** అవసరాలు కాపాడే స్వీకరించిన **పాఠం**.
-  - [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) కింద ఉత్పత్తి అయిన రాజ్యాంగ పాఠంతో సంగతంగా ఉండే ప్రత్యామ్నాయాల్లో ఎంచుకోండి.
-  - అది రాజ్యాంగం **సమగ్ర మొత్తంగా పూర్తి రక్షణ ప్రభావం** అదే అర్థం.
-  - ఇది ఒంటరిగా **గరిష్ఠ పరిమితి** లేదా **నైరూప్య కఠినత** **కాదు**.
-- **స్పష్టంగా అంగీకరించిన మరింత కఠిన బేస్‌లైన్:** స్వీకరించిన కళాఖండాల **సంచిక గుర్తింపులు లేదా సంచిక-అభిరక్ష రికార్డులు** లేని, విరుద్ధ, లేదా భౌతికంగా నమ్మదగని చోట:
-  - **స్పష్టంగా అంగీకరించిన మరింత కఠిన బేస్‌లైన్** **అధ్యాయాలు పదకొండు, పదమూడు** కింద చెల్లుబాటు పునరుద్ధరించేంతవరకు పాలిస్తుంది;
-  - **స్పష్టంగా అంగీకరించిన మరింత కఠిన బేస్‌లైన్** అంటే రికార్డులు నమ్మదగనప్పుడు అంగీకార గొలుసు **స్పష్టంగా మద్దతు** ఇచ్చే **అంగీకార-జాడీయ** స్వీకరించిన సంచిక లేదా **బేస్‌లైన్** (అధ్యాయం పదహారు కింద సంచిక-అభిరక్ష క్రమశిక్షణ, **యాంటీ-డ్రిఫ్ట్**);
-  - ఇది **నైరూప్య కఠినత** ప్రాధాన్యం ద్వారా వాస్తవిక రాజ్యాంగ అస్పష్టత పరిష్కారం **కాదు**.
-- **క్రాస్-ఫైల్ మరింత-కఠినం-గెలుస్తుంది:** రెండు లేదా ఎక్కువ అంగీకరించిన అమలు ఫైళ్ళు అదే అర్థవంతంగా పరిధి ప్రమాదానికి వేరు ప్రమాణాలు పెట్టిన చోట, పైన **వర్తించే అతి కఠినం**, **స్పష్టంగా అంగీకరించిన మరింత కఠిన బేస్‌లైన్**తో అనుగుణంగా స్పష్టంగా అంగీకరించిన మరింత కఠిన నియమం నియంత్రిస్తుంది.
-  - మూల-పొర స్థితి [అధికార స్టాక్ మరియు అంతర్గత క్రమాంకనం](../../core_05_band_integrative.md#authority-stack) కింద ఉంటుంది.
-  - సంచిక-అభిరక్ష, సంచికలు, అంగీకార ఫ్రేమింగ్ **[అధ్యాయం పదహారు](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** కింద ఉంటాయి.
-  - ఉదహరించిన ప్రొఫైల్, ఉదహరించిన అమలు లేబుల్ ఆ ప్రమాదానికి సంఘర్షించినట్టు కనిపించినప్పుడు అదే నియమం వర్తిస్తుంది.
+**§15.4.1** (*సమగ్ర పఠనం*) ప్రకారం సమగ్రంగా చదివిన తర్వాత కూడా నిజమైన అసంగతి మిగిలితే:
+- సూత్రాలకు ఆర్టికల్స్‌పై ప్రాధాన్యం ఉంటుంది;
+- స్వతంత్ర విషయపరమైన వివరణలుగా చదివిన నిర్వచనాలపై ఆర్టికల్స్‌కు ప్రాధాన్యం ఉంటుంది;
+- ప్రతి స్థాయిలో ఉపయోగించిన పదాల అర్థాన్ని ప్రామాణిక నిర్వచనాలే కొనసాగి నియంత్రిస్తాయి.
 
-<a id="844-combined-satisfaction"></a>
-##### 8.4.4 కలిసి వర్తించే స్వీకరించిన కర్తవ్యాల సంయుక్త తీరిక
+ఈ శ్రేణీక్రమం చివరి మార్గంగా ఉపయోగించే వ్యాఖ్యాన నియమం. **§15.4.1** (*సమగ్ర పఠనం*) ప్రకారం సమగ్ర పఠనానంతరం కూడా నిలిచే నిజమైన అసంగతికే ఇది వర్తిస్తుంది; సాధారణ అమలులో ఒక పొర మరొకదానికి బదులుగా నిలవడానికి ఇది అనుమతించదు. **[§15.3 అస్పష్టత పరిష్కారం](#153-ambiguity-resolution)** మరియు **§15.4.1** (*సమగ్ర పఠనం*)లోని పరిమితులు కొనసాగుతాయి. అవి [అమూర్త కఠినత్వాన్ని](core_05_band_integrative.md#abstract-strictness) నిషేధిస్తాయి; స్పష్టంగా అనుమతించిన **మొదటి అధ్యాయం** పరస్పర చర్య నియమాలకు వెలుపల **ఆరవ అధ్యాయం** హక్కులను కుదించడాన్నీ నిషేధిస్తాయి.
 
-*సాధారణ మాటల్లో: ఒక పరిస్థితి ఒకటి కంటే ఎక్కువ స్వీకరించిన ఎలా-చేయాలి ఫైల్ తాకినప్పుడు — లేదా మీ అంగీకార పత్రాలు ఆ ఉమ్మడి-నిర్మాణ కర్తవ్యాలను అమలులోకి తెచ్చినప్పుడు — ఒక ఫైల్‌లో బాగా చేయడం అదే వాస్తవాలకు మరో భౌతిక కర్తవ్యం ఇంకా తీరనప్పుడు అనుసరణగా లెక్క కాదు.*
+<a id="1543-incorporation-layer"></a>
+##### 15.4.3 విలీనం పొర
 
-ఈ ఉపవిభాగం సంయుక్త-తీరిక నియమం అదే వాస్తవాలకు **ఒకటి కంటే ఎక్కువ ఎలా-చేయాలి ఫైల్** వర్తించడం గురించి. ఇది ఇవి కాదు:
-- స్వీకరించిన ఉమ్మడి-నిర్మాణ పాఠంలో **ఒకే** సంచాలక క్లస్టర్ నియమం, ఆ క్లస్టర్‌లో కొంత మాత్రమే చేయడం అనుసరణగా లెక్క కాదు — చూడండి **[CJS-1.14](../../corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*సంచాలక క్లస్టర్లు*); లేదా
-- **ఆధారిత క్లస్టర్** నిర్వచనాలు కలిసి తీరాలని అధ్యాయం ఐదు నియమం — చూడండి **[ఉమ్మడి పిలుపు మరియు తీరిక](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+**§15.4.1** (*సమగ్ర పఠనం*) మరియు **§15.4.2** (*చివరి మార్గంగా అంతర్గత శ్రేణీక్రమం*) ప్రకారం రాజ్యాంగ పఠనం తర్వాత, ఆమోదించిన అమలు పాఠ్యంలో ఉన్న **నిర్దేశిత బాధ్యతలను** వర్తింపజేయండి — అంటే ఆమోదం నిజంగా అమల్లోకి తెచ్చిన పేరుతో పేర్కొన్న విధానపరమైన విధులు. **[పదిహేడవ అధ్యాయం](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** ప్రకారం **చెల్లుబాటు అయ్యే ఆమోదం మరియు విలీనం పరిధిలోనే** వాటిని వర్తింపజేయండి (రికార్డులు ఎవరి వద్ద ఉంటాయి, ఏ ఎడిషన్ స్థిరపరచబడింది, ఆమోదం ఎలా రూపొందించబడింది).
 
-**ఈ ఉపవిభాగం ఎప్పుడు వర్తిస్తుంది.** ఈ నియమాలు **[అధ్యాయం పదహారు](../../core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** కింద చెల్లుబాటు అయ్యే అంగీకార, స్వీకరణ పరిధి లోపల ఈ సందర్భాలలో ఏదైనా వర్తిస్తాయి:
+క్రింది నియమాలు విలీనం చేసిన పాఠ్యాల మధ్య [అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect) ఆధారంగా ఎంపిక చేస్తాయి; **[§15.3 అస్పష్టత పరిష్కారం](#153-ambiguity-resolution)**లోని **అస్పష్టత** నియమం కూడా ఇదే ప్రమాణాన్ని ఉపయోగిస్తుంది. అవి ఎప్పుడూ [అమూర్త కఠినత్వం](core_05_band_integrative.md#abstract-strictness) ఆధారంగా ఎంపిక చేయవు.
 
-1. **ఒక పరిస్థితి, ఒకటి కంటే ఎక్కువ ఫైల్:** వాస్తవాలు ఒకటి కంటే ఎక్కువ స్వీకరించిన అమలు ఫైల్ వర్తింపజేయాలని కోరుతాయి — ఉదాహరణకు వ్యవస్థలు, సంస్థలు, వేదికలు, లేదా ఉమ్మడి-నిర్మాణ పాఠం. ఏ ఫైళ్ళు వర్తిస్తాయో అంగీకార పరిధి, ఆ ఫైళ్ళు వాస్తవాలకు ఇచ్చే అంశ మార్గం నిర్ణయిస్తాయి, తీరడానికి అతి సులభమైన ఫైల్ మాత్రమే ఎంచుకుని కాదు.
-2. **అంగీకారం ఉమ్మడి-నిర్మాణ సమితిని అమలులోకి తెస్తుంది:** అంగీకరించే సాధనం నియమించిన ఉమ్మడి-నిర్మాణ అమలు పాఠం (**CJS** ఫోల్డర్, అంగీకార గొలుసులో జాబితా చేసిన ఇతర ఉమ్మడి-నిర్మాణ ఫైళ్ళు)ను అంగీకరించేవారికి వర్తింపజేస్తుంది.
+- **విలీనం చేసిన పాఠ్యాల మధ్య అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం:** ఆ రాజ్యాంగ పఠనానికి అనుగుణంగా అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం కలిగిన స్థాయిలో విలీనం చేసిన బాధ్యతలను వర్తింపజేయండి.
+  - అదే భౌతిక పరిధి గల బాధ్యతకు అత్యంత బలమైన **రక్షణ, భద్రత, జవాబుదారీతనం, అనుసరణీయత** అవసరాలను నిలుపుకునే విలీనం చేసిన **పాఠ్యమే** ఆ స్థాయి.
+  - [అధికార స్థూపం మరియు అంతర్గత శ్రేణీక్రమం](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) ప్రకారం వచ్చిన రాజ్యాంగ పఠనంతో సుసంగతంగా ఉండే ప్రత్యామ్నాయాల మధ్య ఎంపిక చేయండి.
+  - ఇది [అమూర్త కఠినత్వం](core_05_band_integrative.md#abstract-strictness) **కాదు**.
+- **స్పష్టంగా ఆమోదించిన ప్రాథమిక ప్రమాణం:** విలీనం చేసిన దస్త్రాల **ఎడిషన్ గుర్తింపులు లేదా సంరక్షణ రికార్డులు** లేనప్పుడు, పరస్పర విరుద్ధంగా ఉన్నప్పుడు లేదా భౌతికంగా విశ్వసనీయం కానప్పుడు:
+  - [అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect) కలిగిన **స్పష్టంగా ఆమోదించిన ప్రాథమిక ప్రమాణం**, **పన్నెండవ మరియు పదమూడవ అధ్యాయాల** ప్రకారం చెల్లుబాటు పునరుద్ధరించే వరకు వర్తిస్తుంది;
+  - రికార్డులు విశ్వసనీయం కానప్పుడు, ఆమోద శ్రేణి **స్పష్టంగా మద్దతు ఇచ్చే** ఆమోదంతో అనుసంధానించగల విలీనం చేసిన ఎడిషన్ లేదా **ప్రాథమిక ప్రమాణం**నే **స్పష్టంగా ఆమోదించిన ప్రాథమిక ప్రమాణం** అంటారు (సంరక్షణ క్రమశిక్షణ మరియు పదిహేడవ అధ్యాయం ప్రకారం **విచలనం నివారణ**);
+  - ఇది [అమూర్త కఠినత్వం](core_05_band_integrative.md#abstract-strictness) ద్వారా విషయపరమైన రాజ్యాంగ అస్పష్టతను పరిష్కరించడం **కాదు**.
+- **ఫైళ్ల మధ్య అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం:** అర్థవంతంగా నిర్దేశించిన ఒకే ప్రమాదానికి రెండు లేదా అంతకంటే ఎక్కువ ఆమోదిత అమలు ఫైళ్లు వేర్వేరు ప్రమాణాలు నిర్ణయిస్తే, పైనున్న రెండు నియమాలకు అనుగుణంగా [అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం](core_05_band_integrative.md#fullest-protective-effect) కలిగిన స్పష్టంగా ఆమోదించిన నియమమే నియంత్రిస్తుంది.
+  - మూల-పొర స్థితి [అధికార స్థూపం మరియు అంతర్గత శ్రేణీక్రమం](core_05_band_integrative.md#authority-stack-and-internal-hierarchy) పరిధిలోనే ఉంటుంది.
+  - సంరక్షణ, ఎడిషన్లు, ఆమోద రూపకల్పన **[పదిహేడవ అధ్యాయం](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** పరిధిలోనే ఉంటాయి.
+  - పేర్కొన్న ప్రొఫైల్, పేర్కొన్న అమలు లేబుల్ ఆ ప్రమాదానికి సంబంధించి విరుద్ధంగా కనిపించినా ఇదే నియమం వర్తిస్తుంది.
 
-**సంయుక్త తీరిక.** ఆ ప్రేరకాల కింద ఒకటి కంటే ఎక్కువ స్వీకరించిన అమలు ఫైల్ అదే వాస్తవాలకు వర్తిస్తే, అనుసరణ అంటే ఆ సమితిలో **అన్ని** భౌతిక కర్తవ్యాలు తీరడం. సంజ్ఞ లేదా సంస్థ ఒక ఫైల్ తీర్చి మరో భౌతిక కర్తవ్యం చేయకుండా అనుసరణ వాదించలేదు. ఆ సమితిలో రెండు ఫైళ్ళు అదే అర్థవంతంగా పరిధి ప్రమాదం గురించి విభేదిస్తే, **[§8.4.3](#843-incorporation-layer)** (*క్రాస్-ఫైల్ మరింత-కఠినం-గెలుస్తుంది*) వర్తింపజేయండి.
+<a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
+##### 15.4.4 సంయుక్తంగా వర్తించే విలీనం చేసిన బాధ్యతల సమిష్టి నెరవేర్పు
+<details>
+<summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-**డిఫాల్ట్ చదివే స్టాక్.** స్వీకరించిన సహచర పొరల్లో ఒకటి కంటే ఎక్కువ — ఉమ్మడి నిర్మాణం (**CJS**), వ్యవస్థలు (**CS**), సంస్థలు (**CI**), వేదికలు (**CF**) — ఆ ప్రేరకాల కింద అదే వాస్తవాలకు వర్తిస్తే:
+- దీనితో కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **పర్యవేక్షణ** భాగం (విలీనం చేసిన విధుల అత్యవసర సంకుచితీకరణను ప్రచురించాలి); **కాలపాలన** భాగం (దానికి స్పష్టమైన హద్దులు, కాలపరిమితి ఉండాలి; నిశ్శబ్దంగా లేదా నిరవధికంగా కొనసాగే “తాత్కాలిక” సంకుచితీకరణ లెక్కలోకి రాదు); **జవాబుదారీతనం** భాగం (ఇది ఈ రాజ్యాంగానికి, వర్తించే అత్యవసర నియమాలకు అనుసంధానమై ఉండాలి); [భౌతిక ప్రయోజనం](core_00_preamble.md#material-stake) స్థాయీకరణ.
+
+</details>
+
+<br>
+
+*సరళంగా చెప్పాలంటే: ఒక పరిస్థితికి ఒకటి కంటే ఎక్కువ విలీనం చేసిన విధాన ఫైళ్లు వర్తించినప్పుడు — లేదా మీ ఆమోద పత్రాలు ఆ ఉమ్మడి-నిర్మాణ విధులను అమల్లోకి తెచ్చినప్పుడు — ఒక ఫైల్‌లో బాగా చేయడం మాత్రమే అనుసరణగా పరిగణించబడదు; అదే వాస్తవాలకు సంబంధించిన మరో ముఖ్యమైన విధి ఇంకా నెరవేరకపోతే.*
+
+ఈ ఉపవిభాగంలోని సమిష్టి-నెరవేర్పు నియమం ఒకే వాస్తవాలకు వర్తించే **ఒకటి కంటే ఎక్కువ విధాన ఫైళ్ల** గురించి. ఇది క్రింది వాటితో సమానం కాదు:
+- విలీనం చేసిన ఉమ్మడి-నిర్మాణ పాఠ్యంలో **ఒకే** కార్యాచరణ సమూహానికి సంబంధించిన నియమం; ఆ సమూహంలో కొంత భాగం మాత్రమే చేయడం అనుసరణగా పరిగణించబడదు — చూడండి **[CJS-1.14](corpus_joint_structure/cjs_05_odef_parse_mechanics.md#cjs-114-operational-clusters)** (*కార్యాచరణ సమూహాలు*); లేదా
+- **ఆధారిత సమూహం** నిర్వచనాలను కలిపి నెరవేర్చాలనే ఐదవ అధ్యాయం నియమం — చూడండి **[ఐదవ అధ్యాయం §2.1 ఉమ్మడి ఆహ్వానం మరియు నెరవేర్పు](core_05__definitions_home.md#21-joint-invocation-and-satisfaction)**.
+
+**ఈ ఉపవిభాగం ఎప్పుడు వర్తిస్తుంది.** **[పదిహేడవ అధ్యాయం](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)** ప్రకారం చెల్లుబాటు అయ్యే ఆమోదం, విలీనం పరిధిలో క్రింది రెండింటిలో ఏదైనా సందర్భంలో ఈ నియమాలు వర్తిస్తాయి:
+
+1. **ఒక పరిస్థితి, ఒకటి కంటే ఎక్కువ ఫైళ్లు:** వాస్తవాలు ఒకటి కంటే ఎక్కువ విలీనం చేసిన అమలు ఫైళ్లను వర్తింపజేయాలని కోరుతాయి — ఉదాహరణకు వ్యవస్థలు, సంస్థలు, వేదికలు లేదా ఉమ్మడి-నిర్మాణ పాఠ్యం. ఏ ఫైళ్లు వర్తిస్తాయో ఆమోద పరిధి, ఆ ఫైళ్లు వాస్తవాలకు అందించే అంశ మార్గనిర్దేశం నిర్ణయిస్తాయి; సులభంగా నెరవేర్చగల ఫైలును మాత్రమే ఎంచుకోవడం నిర్ణయించదు.
+2. **ఆమోదం ఉమ్మడి-నిర్మాణ సమితిని అమల్లోకి తెస్తుంది:** ఆమోద పత్రం నిర్దేశిత ఉమ్మడి-నిర్మాణ అమలు పాఠ్యాన్ని (**CJS** ఫోల్డర్, ఆమోద శ్రేణిలో జాబితా చేసిన ఇతర ఉమ్మడి-నిర్మాణ ఫైళ్లు) స్వీకర్తకు వర్తింపజేస్తుంది.
+
+**సమిష్టి నెరవేర్పు.** ఆ ప్రమేయాల కింద ఒకే వాస్తవాలకు ఒకటి కంటే ఎక్కువ విలీనం చేసిన అమలు ఫైళ్లు వర్తించినప్పుడు, అనుసరణ అంటే ఆ సమితిలోని **అన్ని** ముఖ్యమైన విధులను నెరవేర్చడం. ఒక సజీవ సత్తా లేదా సంస్థ ఒక ఫైలును నెరవేర్చి, మరో ముఖ్యమైన విధిని అసంపూర్ణంగా వదిలి అనుసరణ జరిగిందని చెప్పలేరు. ఆ సమితిలోని రెండు ఫైళ్లు అర్థవంతంగా నిర్దేశించిన ఒకే ప్రమాదంపై విభేదిస్తే, **[§15.4.3](#1543-incorporation-layer)** (*ఫైళ్ల మధ్య అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావం*)ను వర్తింపజేయండి.
+
+**సాధారణ పఠన క్రమం.** ఆ ప్రమేయాల కింద విలీనం చేసిన, ఆమోదిత పొరల్లో ఒకటి కంటే ఎక్కువ — ఉమ్మడి నిర్మాణం (**CJS**), వ్యవస్థలు (**CS**), సంస్థలు (**CI**), వేదికలు (**CF**) — ఒకే వాస్తవాలకు వర్తిస్తే:
 - ఈ క్రమంలో చదవండి:
-  - ముందు **CJS** (ఆ పొర డొమైన్-నిర్దిష్ట ఉమ్మడి నియమాలు, దాని మార్గం ద్వారా అంశ యాజమాన్యం సహా);
-  - తర్వాత **CS** (వ్యవస్థ వర్గీకరణ, బాధ్యతాయుత నిర్వహణ స్కేల్);
+  - ముందుగా **CJS** (ఆ పొరలోని డొమైన్-నిర్దిష్ట ఉమ్మడి నియమాలు, దాని మార్గనిర్దేశం ద్వారా అంశ యాజమాన్యంతో సహా);
+  - తర్వాత **CS** (వ్యవస్థ వర్గీకరణ, సంరక్షణ స్థాయి);
   - తర్వాత **CI** (సంస్థాగత పాలన, హామీ);
-  - తర్వాత **CF** (అధ్యాయం పదకొండు వేదిక కుటుంబం సిద్ధాంతం);
-- ఆ క్రమం లోపల, వాస్తవాలకు అంశ మార్గం కోరేది మాత్రమే చదవండి;
-- సంపాదకులు, ఆడిటర్లు ప్రామాణిక వరుస పట్టికకు **[CJS-0.1](../../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing)** వాడతారు;
-- సంయుక్త తీరిక, క్రాస్-ఫైల్ మరింత-కఠినం-గెలుస్తుంది ఈ ఉపవిభాగం, **§8.4.3**లో చెప్పినట్టు ఇంకా వర్తిస్తాయి.
+  - తర్వాత **CF** (పన్నెండవ అధ్యాయంలోని వేదిక-కుటుంబ సిద్ధాంతం);
+- ఆ క్రమంలో, వాస్తవాలకు సంబంధించిన అంశ మార్గనిర్దేశం కోరినదానినే చదవండి;
+- ప్రామాణిక వరుస పట్టిక కోసం సంపాదకులు, ఆడిటర్లు **[CJS-0.1](corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-cross-file-routing) (*ఫైళ్ల మధ్య మార్గనిర్దేశం*)** ఉపయోగిస్తారు;
+- ఈ ఉపవిభాగం, **§15.4.3** (*విలీనం పొర*)లో పేర్కొన్నట్లుగా సమిష్టి నెరవేర్పు, ఫైళ్ల మధ్య అత్యంత సంపూర్ణ రక్షణాత్మక ప్రభావ నియమం వర్తిస్తూనే ఉంటాయి.
 
-అత్యవసరాలు ఆ కర్తవ్యాలను సంకుచితం చేయవచ్చు, సంకుచితం ఇలా ఉన్నప్పుడు మాత్రమే:
-- ప్రచురించబడింది;
-- స్పష్టంగా పరిమితం;
-- కాల-పరిమితం;
-- సాధ్యమైన చోట తిరుగుదల ఉంది; మరియు
-- ఈ రాజ్యాంగం, ఆ అమలు ఫైళ్ళలో వర్తించే అత్యవసర నియమాలకు కట్టుబడింది.
+అత్యవసర పరిస్థితుల్లో ఈ విధులను కుదించేది ఆ సంకుచితీకరణ క్రింది విధంగా ఉన్నప్పుడే:
+- ప్రచురించబడినది;
+- స్పష్టంగా హద్దులు నిర్ణయించినది;
+- కాలపరిమితి గలది;
+- సాధ్యమైనప్పుడు తిరిగి పునరుద్ధరించగలిగినది; మరియు
+- ఈ రాజ్యాంగానికి, ఆ అమలు ఫైళ్లలోని వర్తించే అత్యవసర నియమాలకు అనుసంధానమైనది.
 
-నిశ్శబ్ద లేదా తెరచిన-ముగింపు «తాత్కాలిక» సంకుచితం లెక్క కాదు.
+నిశ్శబ్దంగా లేదా నిరవధికంగా కొనసాగే “తాత్కాలిక” సంకుచితీకరణ లెక్కలోకి రాదు.
 
 ---
 
 **మునుపటి ఫైల్:** [core_01_a_values_principles.md](core_01_a_values_principles.md)
 
-**తదుపరి ఫైల్ (ఈ భాషలో):** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)
-
-**బంధనీయ మూలం:** [core_01_b_interaction_interpretation.md](../../core_01_b_interaction_interpretation.md)
-
+**తదుపరి ఫైల్:** [core_01_c_stewardship_capacity_principles.md](core_01_c_stewardship_capacity_principles.md)

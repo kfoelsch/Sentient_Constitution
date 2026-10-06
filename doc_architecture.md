@@ -76,7 +76,7 @@ Gate: manual. [CONTRIBUTING.md](CONTRIBUTING.md) leaves contributor branch names
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
 | Rights (Articles I–XXVII) | Ch 6 | `core_06_rights_part_*.md`; titles via `make reference-audit` |
 | Functional independence and segregation of duties | Ch 7 | `core_07_functional_independence_segregation_of_duties.md`; four-seat floor, Materially Binding Act Record minimum, control-line independence, published placement, substitutes, proportionate merged hosting, emergency departures, and wrong-seat routing |
-| System alignment certification | Ch 8 | `core_08_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_08_b_system_alignment_certification_record_process.md` (Part B — record and process); reading index: `core_08_system_alignment_certification.md`. Under **oversight**, oversight requires auditing (**Article XVI** / [Auditability](core_05_band_oversight.md#auditability) / **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** and **CJS-3.3**–**CJS-3.5** OP annexes); Ch 8 is one especially large, high-stakes audit process among others — not the sole auditing home. |
+| System alignment certification | Ch 8 | `core_08_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_08_b_system_alignment_certification_record_process.md` (Part B — record and process); `core_08_c_system_alignment_certification_illustrations.md` (Part C — worked illustrations); reading index: `core_08_system_alignment_certification.md`. Under **oversight**, oversight requires auditing (**Article XVI** / [Auditability](core_05_band_oversight.md#auditability) / **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** and **CJS-3.3**–**CJS-3.5** OP annexes); Ch 8 is one especially large, high-stakes audit process among others — not the sole auditing home. |
 | Standing records and measurement (Questions 1 and 2) | Ch 9 | `core_09_standing_assessment.md`; verified records and Contribution Axis / Violation Axis slots |
 | Standing integration and effects (Question 3) | Ch 10 | `core_10_standing_integration.md`; violation, correction, and prevention before contribution gates, with lock design and enforcement, then final effect, restoration, and enforcement |
 | Anti-constitutional-misconduct designation | Ch 11 | `core_11_a_misconduct_designation.md` (Part A — designation criteria and safeguards); `core_11_b_misconduct_pattern_applications.md` (Part B — named pattern applications); designation only for qualifying fixed Ch 9 Violation Axis `s = 7–9` findings |
@@ -153,6 +153,9 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | VIS-CHART-SYNC-03 | When an Article or subarticle is renumbered, renamed, added, moved, split, or removed, update every reader-facing Mermaid chart that lists it so numbers, titles, and bullets match the current headings. | Manual (see **Chart sync on renumbering (VIS-CHART-SYNC-03)**) |
 | VIS-CHART-ORIENT-04 | Mermaid flowcharts flow top to bottom (`flowchart TB`); a left-to-right, right-to-left, or bottom-up chart needs a stated exception. | Manual (see **Chart orientation standard** below) |
 | VIS-CHART-CENTER-05 | Mermaid flowcharts keep boxes horizontally centered on one another: a node sits centered under its parent, or under the midpoint of its parents; a node that fans out to a row of siblings is centered over the row; a node that the row converges on is centered under it. Exceptions need a stated reason. | Manual (see **Chart centering standard** below) |
+| VIS-CHART-CROSSING-06 | Mermaid flowchart links must not cross one another. Rearrange nodes, end a loop at a pair of on-page connector circles (**VIS-CHART-SYMBOLS-08**) instead of drawing a long link back up the chart, or merge parallel paths into one box before publishing. No exceptions. | Manual (see **Chart crossing standard** below) |
+| VIS-CHART-EXTERNAL-07 | In a chart about one chapter's process or structure, a box for a process owned outside that chapter uses the subroutine shape (`[[ ]]`), says it is outside the chapter, and connects with a dotted link; when one section hands off, that section goes on the link label. Corpus-wide map charts are out of scope. | Manual (see **Chart external-process standard** below) |
+| VIS-CHART-SYMBOLS-08 | Mermaid flowcharts follow standard flowchart symbols (ISO 5807) wherever Mermaid can draw them: rectangle for a step, diamond for a decision, double-barred box for a predefined process defined elsewhere, and matching lettered circles (on-page connectors) for a loopback or a jump. Corpus-specific conventions apply only where no standard symbol exists. | Manual (see **Chart symbol standard** below) |
 | OWNER-OPENING-01 | Binding constitutional-owner opening statement | Manual (see **section 4**) |
 | LINK-IN-PARA-14 | Load-bearing in-paragraph links | `make in-paragraph-link-audit` |
 | LINK-OFF-CORPUS-15 | Link destinations stay in-repository in binding text; no machine-local targets anywhere | `make external-link-audit` (inventory: `make external-link-audit-report`) |
@@ -254,11 +257,11 @@ A chart that is merely easier to draw another way is not an exception.
 - Use an invisible link (`a ~~~ b ~~~ c`) to force nodes into one row when the renderer wraps them.
 - To center a node when a long link pulls the layout to one side, see **Chart centering standard (VIS-CHART-CENTER-05)** below.
 
-**Scope.** This standard covers flowcharts, the only Mermaid type the corpus uses. It sits beside **VIS-CHART-READABILITY-01** (title and content spacing) and **VIS-CHART-THEME-02** (unfilled nodes, white labels, palette outlines), and **VIS-CHART-CENTER-05** (horizontal centering); a chart meets all four.
+**Scope.** This standard covers flowcharts, the only Mermaid type the corpus uses. It sits beside **VIS-CHART-READABILITY-01** (title and content spacing) and **VIS-CHART-THEME-02** (unfilled nodes, white labels, palette outlines), **VIS-CHART-CENTER-05** (horizontal centering), **VIS-CHART-CROSSING-06** (no crossing links), **VIS-CHART-EXTERNAL-07** (outside processes), and **VIS-CHART-SYMBOLS-08** (standard flowchart symbols); a chart meets all seven.
 
 **Check.** Manual. `grep -rn -E '^\s*flowchart (LR|RL|BT)' --include='*.md' .` lists charts that need an exception or a change.
 
-**Existing charts.** On 2026-09-30, outside `translations/`, `archive/`, `evidence/`, `evaluation/`, and the generated site, the corpus held 41 `TB`, 1 `TD`, and 7 `LR` flowcharts. Two of the `LR` charts were this document's own example and the process-system-institution diagrams, both since converted. The other five (`project/VISION.md`, `guides/RECORD_OVERVIEW.md`, `CONTRIBUTING.md`, `implementation/PROCESS_PIPELINES_READER.md`, and the generated print pack) convert when next edited, in the same pass as any **VIS-CHART-SYNC-03** update, unless an exception is recorded. No bulk conversion: it would touch binding `core_*` files and every translation copy.
+**Existing charts.** On 2026-09-30, outside `translations/`, `archive/`, `evidence/`, `evaluation/`, and the generated site, the corpus held 41 `TB`, 1 `TD`, and 7 `LR` flowcharts. Two of the `LR` charts were this document's own example and the process-system-institution diagrams, both since converted. The other five (`project/VISION.md`, `guides/RECORD_OVERVIEW.md`, `CONTRIBUTING.md`, `implementation/PROCESS_PIPELINES_READER.md`, and the generated print pack) and the `TD` chart in `core_12_forum.md` were converted to `TB` in the 2026-10-06 sweep; the print pack follows its sources. Translation copies are not part of the sweep and are brought into line when each translation is next updated.
 
 ### Chart centering standard (VIS-CHART-CENTER-05)
 
@@ -286,7 +289,68 @@ Spacer nodes carry no meaning. Keep them out of the chart's caption and out of a
 
 **Reference example.** The Continuity diagram in `core_01_a_values_principles.md` (§8): the top two boxes, §12, and the Flourishing box share one axis centered between §10 and §11, and the "means toward" link runs down the right side.
 
-**Existing charts.** Apply when a chart is next edited, in the same pass as any **VIS-CHART-SYNC-03** update. No bulk conversion.
+**Existing charts.** Swept on 2026-10-06 for every English-source chart outside `translations/`, `archive/`, `evidence/`, and the generated site; new and edited charts must comply when written. Translation copies are brought into line when each translation is next updated.
+
+### Chart crossing standard (VIS-CHART-CROSSING-06)
+
+Links in a Mermaid chart **must not cross**. A crossing makes a reader stop and trace which line goes where, and it can suggest a relationship the chart does not mean. Edge labels count as part of their link; a link may not run through another link's label.
+
+**How to remove a crossing.**
+
+1. **Reorder.** Mermaid places sibling boxes roughly in the order their links are written. Write the links so that a side branch sits on the side it leads to (for example, the left-hand outcome first when its path continues down the left).
+2. **Use connectors for loops.** A long link from near the bottom of a chart back up to an earlier box almost always crosses something, and Mermaid may also reverse the whole layout to fit it. Use a pair of matching on-page connector circles instead (**VIS-CHART-SYMBOLS-08**): the loop ends at a lettered circle, and the same letter feeds the box where the flow re-enters.
+3. **Merge parallel paths.** When several paths lead to the same next step, send them to one shared box rather than drawing separate links onward from each.
+4. **Lengthen a side link.** A longer link (`-..->` or `---->`) moves a side box down a level so it sits beside the row it belongs with, which often clears a crossing and helps centering under **VIS-CHART-CENTER-05**.
+5. **Link bands, not inner boxes,** as **VIS-CHART-ORIENT-04** describes; links into the middle of a band cross easily.
+
+**Exceptions.** None. If a chart cannot be drawn without crossing links, split it into two charts or simplify it.
+
+**Check.** Manual. Render the chart with Mermaid and look for crossing lines before publishing.
+
+**Reference example.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): outcomes and the challenge path converge on one revalidation box, and the cycle ends at connector circle A, which re-enters above Part A §2, rather than a line looping back to the top.
+
+**Existing charts.** Swept on 2026-10-06 for every English-source chart outside `translations/`, `archive/`, `evidence/`, and the generated site; new and edited charts must comply when written. Translation copies are brought into line when each translation is next updated.
+
+### Chart external-process standard (VIS-CHART-EXTERNAL-07)
+
+In a chart about one chapter's process or structure, a box that stands for a process **owned outside that chapter** — another chapter, an implementation corpus, or an outside body — must look different from the chart's own steps, so readers can see where the chapter's authority ends. Other Parts of the same chapter are not outside it (Chapter Eight's chart treats Part B as its own).
+
+- **Shape.** Use Mermaid's subroutine shape, `X[["…"]]`, which draws double side bars — the standard flowchart symbol for a predefined process (**VIS-CHART-SYMBOLS-08**). Do not use a dashed outline: dashed outlines mark grouping containers (for example the Non-Negotiable band in `core_01_a_values_principles.md`).
+- **Label.** Name the outside owner or process and say it is outside the chapter, for example with a line "Outside this chapter" (two `<br/>` per **VIS-CHART-READABILITY-01**). Do not put this chapter's section numbers in the outside box.
+- **Link.** Connect it with a dotted link (`-.->`, or `-..->` when a longer link helps layout). When one section of this chapter makes the hand-off, put that section on the link label (for example "Part B §7 — verified inputs only").
+- **Color.** Outline by role under **VIS-CHART-THEME-02**, like any other box.
+
+**Scope.** Corpus-wide map charts whose boxes are all chapters or corpora (for example the chapter map in `core_00_preamble.md`, the dependency graph in this document, or `implementation/PROCESS_PIPELINES_READER.md`) are out of scope: there is no single owning chapter for a box to sit outside of.
+
+**Reference examples.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): "Chapter Nine — Standing records" is a subroutine box reached by a dotted link labeled with the Part B §7 gate. The Chapter Six overview chart in `core_06_rights_part_a.md` (and its copy in `guides/CONCEPTUAL_OVERVIEW.md`): later governance, measurement, certification, forums, remedy, and implementation sit outside Chapter Six, reached by dotted links. The dispute-sequencing chart in `core_12_forum.md` (and the forum-families chart in `guides/CONCEPTUAL_OVERVIEW.md`): the published Stakeholder System Participation challenge path is owned outside Chapter Twelve.
+
+**Check.** Manual. Render the chart and confirm every outside process uses the subroutine shape and every subroutine box is an outside process.
+
+**Existing charts.** Swept on 2026-10-06 for every English-source chart outside `translations/`, `archive/`, `evidence/`, and the generated site; new and edited charts must comply when written. Translation copies are brought into line when each translation is next updated.
+
+### Chart symbol standard (VIS-CHART-SYMBOLS-08)
+
+Mermaid flowcharts follow **standard flowchart symbols** (ISO 5807, the same shapes most readers already know) wherever Mermaid can draw them. Invent a corpus-specific convention only where no standard symbol exists, and record it in this document.
+
+| Meaning | Standard symbol | Mermaid |
+|---------|-----------------|---------|
+| Step or process | Rectangle | `X["…"]` |
+| Decision | Diamond | `X{"…"}` |
+| Predefined process defined elsewhere | Rectangle with double side bars | `X[["…"]]` (see **VIS-CHART-EXTERNAL-07**) |
+| Start or end (terminator) | Rounded "stadium" | `X(["…"])` |
+| Document or record | Wavy-bottom document | Not drawn reliably on all renderers; use a rectangle |
+| Loopback or jump on the same chart (on-page connector) | Small circle with a letter | `A1((A))` … `A2((A))` |
+| Jump to another page or file (off-page connector) | Home-plate pentagon | No built-in shape; use the predefined-process box with the destination named |
+
+**Connectors.** A loop or long jump leaves the flow at a lettered circle and re-enters at a circle with the same letter, placed just before the box where the flow resumes. Use A, B, C… for separate loops in one chart. Connector circles take the slate outline under **VIS-CHART-THEME-02** and carry no other text. Connectors are the default fix for loops under **VIS-CHART-CROSSING-06**.
+
+**Grouping.** Subgraph bands and dashed-outline group containers are Mermaid conventions, not ISO symbols; keep using them as described above.
+
+**Reference example.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): rectangles for steps, a diamond for the outcome, a predefined-process box for Chapter Nine, and connector A for the return to classification.
+
+**Check.** Manual. Render the chart and confirm each shape matches its meaning.
+
+**Existing charts.** Swept on 2026-10-06 for every English-source chart outside `translations/`, `archive/`, `evidence/`, and the generated site; new and edited charts must comply when written. Translation copies are brought into line when each translation is next updated.
 
 ### Constitutional owner opening statement (OWNER-OPENING-01)
 

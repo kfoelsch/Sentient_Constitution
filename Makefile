@@ -607,6 +607,29 @@ id-resolver-test:
 corpus-lookup-test:
 	$(PYTHON) tools/test_corpus_lookup.py
 
+.PHONY: translation-audit translation-freshness-audit translation-structure-audit translation-link-audit translation-terminology-audit translation-manifest-init translation-manifest-sync
+
+translation-audit:
+	$(PYTHON) tools/translation_audit.py all
+
+translation-freshness-audit:
+	$(PYTHON) tools/translation_audit.py freshness
+
+translation-structure-audit:
+	$(PYTHON) tools/translation_audit.py structure
+
+translation-link-audit:
+	$(PYTHON) tools/translation_audit.py links
+
+translation-terminology-audit:
+	$(PYTHON) tools/translation_audit.py terminology --verbose
+
+translation-manifest-init:
+	$(PYTHON) tools/translation_audit.py manifest-init
+
+translation-manifest-sync:
+	$(PYTHON) tools/translation_audit.py manifest-sync
+
 ai-manifest-validate:
 	@echo "Validating AI corpus manifest freshness..."
 	$(PYTHON) tools/validate_ai_manifests.py --root . --check-freshness

@@ -68,7 +68,7 @@
 
 **Sections that engage no leg directly.** [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle) and [§15.4.1](#1541-integrated-reading) through [§15.4.3](#1543-incorporation-layer) govern how the text is read and which source layer controls. Their Traces carry no Tetrad line by design.
 
-**Two meanings of time.** Time appears in Part B in two senses. Long time horizons (delayed and cumulative harm, the [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint) applied in [§13.1.2](#1312-harm-minimization)) belong to the **Continuity** aim. Clocks, review cadences, and delay (time limits on restrictions, eventual disclosure, avoidable delay) belong to the **timeliness** leg.
+**Two meanings of time.** Time appears in Part B in two senses. Long time horizons (delayed and cumulative harm, the [Chapter Eight §3.5 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint) applied in [§13.1.2](#1312-harm-minimization)) belong to the **Continuity** aim. Clocks, review cadences, and delay (time limits on restrictions, eventual disclosure, avoidable delay) belong to the **timeliness** leg.
 
 **Two axes, not a conflict.** Part A's aims say what shared systems pursue. Part B says what no tradeoff, override, or reading may take away on the way.
 
@@ -104,7 +104,7 @@
 
 <br>
 
-*In plain terms: Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.*
+*In plain terms: Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Chapter Eight §3.5 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.*
 
 Part B keeps the Tetrad intact in three situations:
 - **[Constitutional Collisions](core_05_band_integrative.md#constitutional-collision) (this section):** resolves them without weakening any leg.
@@ -304,7 +304,7 @@ The following are non-compliant:
 - optimizing on local or immediate harm alone while creating larger systemic, aggregate, or ecological harm;
 - externalizing harm onto ecosystems, unidentified sentients, or other uncounted parties in order to look harm-minimizing for identified parties.
 
-**Time-horizon discipline.** Short-term optimization at long-term systemic cost fails this test. Harm minimization must account for the [Chapter Eight §3.6 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#36-time-consistency-constraint): a decision that looks harm-minimizing in the current period but predictably creates greater harm across the relevant constitutional time horizon is non-compliant.
+**Time-horizon discipline.** Short-term optimization at long-term systemic cost fails this test. Harm minimization must account for the [Chapter Eight §3.5 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint): a decision that looks harm-minimizing in the current period but predictably creates greater harm across the relevant constitutional time horizon is non-compliant.
 
 **Relationship to constitutional floors.** Harm minimization operates *above* the constitutional floors stated in [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process). It never authorizes:
 - permanent extinguishment of Rights-Floor minimums;

@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- あわせて読む：[第一章 §11 誘因整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)、[§13 市場構造](core_01_c_stewardship_capacity_principles.md#13-market-structure)、および [第七章 §3.7 統治、誘因、争訟可能性の規律](../../core_08_a_system_alignment_certification_evaluation.md#37-governance-incentive-and-contestability-discipline)。
+- あわせて読む：[第一章 §11 誘因整合とシステム捕捉](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)、[§13 市場構造](core_01_c_stewardship_capacity_principles.md#13-market-structure)、および [第七章 §3.6 統治、誘因、争訟可能性の規律](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline)。
 
 </details>
 

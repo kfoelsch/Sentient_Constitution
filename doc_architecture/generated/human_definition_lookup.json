@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 253,
+  "term_count": 255,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -146,6 +146,13 @@
       "anchor": "#adversarial-scaled-and-exploited-conditions",
       "plain_terms": "how a system behaves under pressure — when sentients game it, coordinate across accounts, run it at massive scale, or deliberately misuse it.",
       "href": "../../core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions"
+    },
+    {
+      "term": "Animal Cruelty",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#animal-cruelty",
+      "plain_terms": "animal cruelty is cruelty to an animal. It is making an animal suffer for its own sake, or causing or allowing suffering beyond what necessity and proportionality allow. It includes neglect by anyone responsible for an animal's care. Farming, research, pest control, hunting, and veterinary care are not automatically cruelty, and they are not automatically excused either. Each has to pass the same necessity and proportionality test as everything else. Calling something legal, customary, or \"just livestock\" does not pass it.",
+      "href": "../../core_05_band_accountability.md#animal-cruelty"
     },
     {
       "term": "Animal Life",
@@ -1217,6 +1224,13 @@
       "anchor": "#openness-aspiration-constitutional",
       "plain_terms": null,
       "href": "../../core_05_band_continuity.md#openness-aspiration"
+    },
+    {
+      "term": "Outcome-Resolution Source",
+      "file": "core_05_band_accountability.md",
+      "anchor": "#outcome-resolution-source",
+      "plain_terms": "whoever or whatever decides whether a bet paid out must be independent, open to challenge, and hard to capture.",
+      "href": "../../core_05_band_accountability.md#outcome-resolution-source"
     },
     {
       "term": "Parent-System Relationship",

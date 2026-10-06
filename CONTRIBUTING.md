@@ -149,15 +149,16 @@ A translation is help for readers, never a second constitution. Where a translat
 ## 5. Workflow
 
 ```mermaid
-flowchart LR
+flowchart TB
   Issue[Finding or Proposal issue] --> Branch[Fork and branch]
   Branch --> Edit[Edit in one lane]
+  A0((A)) --> Edit
   Edit --> Regen[Regenerate derived artifacts]
-  Regen --> Gate[make regression]
-  Gate -->|red| Edit
+  Regen --> Gate{make regression}
+  Gate -->|red| A1((A))
   Gate -->|green| PR[Pull request with template]
-  PR --> Review[Custodian review]
-  Review -->|changes requested| Edit
+  PR --> Review{Custodian review}
+  Review -->|changes requested| A2((A))
   Review -->|accepted| Merge[Merge]
   Merge --> Log[Spec change log and evidence link]
   style Issue fill:none,stroke:#64748b,color:#ffffff
@@ -169,6 +170,9 @@ flowchart LR
   style Review fill:none,stroke:#ea580c,color:#ffffff
   style Merge fill:none,stroke:#9333ea,color:#ffffff
   style Log fill:none,stroke:#2563eb,color:#ffffff
+  style A0 fill:none,stroke:#64748b,color:#ffffff
+  style A1 fill:none,stroke:#64748b,color:#ffffff
+  style A2 fill:none,stroke:#64748b,color:#ffffff
 ```
 
 1. **Open an issue** for anything beyond a trivial fix (Lanes C and D always). Use the templates under `.github/ISSUE_TEMPLATE/`.

@@ -126,7 +126,7 @@ Duas salvaguardas atuam em conjunto para garantir esse direito: a certificação
 - em como contestá-lo;
 - em como os problemas são corrigidos.
 
-Se o sistema atingir o limiar de importância do **Artigo XIII** (*Direito a sistemas confiáveis e fidedignos*), a certificação também inclui uma avaliação de confiabilidade nos termos do [Capítulo Oito §10 Avaliação de confiabilidade e integridade da dependência do sistema](core_08_a_system_alignment_certification_evaluation.md#10-trustworthiness-and-system-reliance-integrity-evaluation).
+Se o sistema atingir o limiar de importância do **Artigo XIII** (*Direito a sistemas confiáveis e fidedignos*), a certificação também inclui uma avaliação de confiabilidade nos termos do [Capítulo Oito §3.9.6 Avaliação de confiabilidade e integridade da dependência do sistema](core_08_a_system_alignment_certification_evaluation.md#396-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **A possibilidade de contestação mantém o sistema honesto pelo lado do senciente:** a certificação verifica um sistema, mas não tem a palavra final sobre ele. Todo senciente afetado pelo sistema mantém:
 

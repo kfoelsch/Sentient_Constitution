@@ -94,7 +94,7 @@ The Constitution is one document split into a Preamble and seventeen chapters. Y
 | **Chapter 5**: [Definitions](core_05__definitions_home.md) | The dictionary: what each key term means ([all Chapter 5 files ↓](#chapter-five-files)) |
 | **Chapter 6**: [Part A](core_06_rights_part_a.md) · [Part B](core_06_rights_part_b.md) · [Part C](core_06_rights_part_c.md) · [Part D](core_06_rights_part_d.md) · [Part E](core_06_rights_part_e.md) | **The Rights Floor**: Articles I–XXVII |
 | **Chapter 7**: [Separation of duties](core_07_functional_independence_segregation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
-| **Chapter 8**: [Part A](core_08_a_system_alignment_certification_evaluation.md) · [Part B](core_08_b_system_alignment_certification_record_process.md) · [Index](core_08_system_alignment_certification.md) | Checking and certifying that a system meets the standard |
+| **Chapter 8**: [Part A](core_08_a_system_alignment_certification_evaluation.md) · [Part B](core_08_b_system_alignment_certification_record_process.md) · [Part C](core_08_c_system_alignment_certification_illustrations.md) · [Index](core_08_system_alignment_certification.md) | Checking and certifying that a system meets the standard |
 | **Chapter 9**: [Standing assessment](core_09_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
 | **Chapter 10**: [Standing integration](core_10_standing_integration.md) | What those records lead to: effects, restoration, and remedies |
 | **Chapter 11**: [Part A](core_11_a_misconduct_designation.md) · [Part B](core_11_b_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
