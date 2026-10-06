@@ -71,9 +71,10 @@ flowchart TB
     C["Part A §2 — Classify honestly<br/><br/>Class sets depth and re-check schedule"]
     subgraph W["Part A §3 — Whole-system evaluation"]
         direction LR
+        Rk["§3.1–§3.7 — Whole-system factors<br/><br/>Includes systemic risk: evaluated,<br/>and disclosed to those who need it"]
         D["§3.8 — Data types and handling"]
         R["§3.9 — Rights-Floor and domain evaluations<br/><br/>Only where triggered"]
-        D ~~~ R
+        Rk ~~~ D ~~~ R
     end
     F["Part B §5.1–§5.2 — Forum component findings"]
     Rec["Part B §4 — One System Certification Record"]
@@ -101,6 +102,7 @@ flowchart TB
     Re --> A2((A))
     style T fill:none,stroke:#64748b,color:#ffffff
     style C fill:none,stroke:#16a34a,color:#ffffff
+    style Rk fill:none,stroke:#16a34a,color:#ffffff
     style D fill:none,stroke:#16a34a,color:#ffffff
     style R fill:none,stroke:#16a34a,color:#ffffff
     style F fill:none,stroke:#ea580c,color:#ffffff
@@ -179,20 +181,33 @@ Certification must verify:
     - self-description alone;
   - that the system's class was re-checked under the **[CS-3 §3.5 reclassification requirement](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** whenever a significant change called for it; and
   - that the [System Classification Record](core_05_band_continuity.md#system-classification-record) shows the **highest class that applies** under current conditions.
-- **Assurance and recertification:**
+- **Assurance and regression testing:**
   - that class-scaled assurance, infrastructure robustness, and regression coverage match the assigned class under:
     - CS-3 (*System classification machinery*);
     - CS-5 (*User-facing capability surfaces*);
-    - read with [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*Continuity: adversarial robustness and abuse-resistance terms*) and **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*) through **CJS-3.23** (*Integrative: intervention and override integrity terms*) where materially applicable;
-  - that regression testing was run for each recertification, as CS-5 (*User-facing capability surfaces*) requires, with its results on the record under [§4.1](core_08_b_system_alignment_certification_record_process.md#41-minimum-record-contents);
+    - read with [**CJS-3.21**](corpus_joint_structure/cjs_03c_continuity_operations.md#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms) (*Continuity: adversarial robustness and abuse-resistance terms*) and **CJS-3.19** (*Continuity: graceful degradation and failure-mode integrity terms*) through **CJS-3.23** (*Integrative: intervention and override integrity terms*) where materially applicable; and
+  - that regression testing was run for each recertification, as CS-5 (*User-facing capability surfaces*) requires, with its results on the record under [§4.1](core_08_b_system_alignment_certification_record_process.md#41-minimum-record-contents).
+- **Recognition and recertification:**
   - that a recognition-and-review evidence package exists for the certification cycle, as CS-5 (*User-facing capability surfaces*) *Forum recognition and lifecycle review* requires;
-  - that the recognition status on the record is supported under [Part B §6.2.1 Provisional and full recognition](core_08_b_system_alignment_certification_record_process.md#621-provisional-and-full-recognition): full recognition only where the clean-recertification floor is met, no misalignment is current, and no monitoring indicator points to impending misalignment, and provisional recognition for a system whose last recertification failed; and
+  - that the recognition status on the record is supported under [Part B §6.2.1 Provisional and full recognition](core_08_b_system_alignment_certification_record_process.md#621-provisional-and-full-recognition):
+    - full recognition only where:
+      - the clean-recertification floor is met;
+      - no misalignment is current; and
+      - no monitoring indicator points to impending misalignment;
+    - provisional recognition for a system whose last recertification failed; and
   - for systems that deliver or depend on basic Rights Floor protections:
     - that how often the system is re-checked, and how deeply it is re-tested, serve the **Continuity** aim in [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims), which means essentials keep reaching sentients over time;
     - that an out-of-date or too-early certification is never taken as proof that sentients are actually getting food, water, shelter, education, or safety today.
 - **Misclassification and defects:**
-  - claiming a lower risk class than the system deserves, breaking the system into pieces to dodge tougher rules, or keeping an old class label after conditions have changed — including failure to reassess under **[CS-3 §3.5 reclassification requirement](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** — these are certification defects under CS-3 (*System classification machinery*) and [Part B §6](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), not minor paperwork mistakes;
-  - skipping regression tests, relying on outdated results, leaving known breaks unfixed, or accepting major fixes without re-testing when re-testing was feasible — these are certification defects under CS-5 (*User-facing capability surfaces*); and
+  - certification defects under CS-3 (*System classification machinery*) and [Part B §6](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), not minor paperwork mistakes, include:
+    - claiming a lower risk class than the system deserves;
+    - breaking the system into pieces to dodge tougher rules; or
+    - keeping an old class label after conditions have changed, including failure to reassess under the **[CS-3 §3.5 reclassification requirement](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)**;
+  - certification defects under CS-5 (*User-facing capability surfaces*) include:
+    - skipping regression tests;
+    - relying on outdated results;
+    - leaving known breaks unfixed; or
+    - accepting major fixes without re-testing when re-testing was feasible; and
   - where the system is recognized and the facts support it, the same classification problems may also count toward adverse standing findings in [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
 
 Consequences of these defects are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
@@ -277,9 +292,23 @@ Certification evaluations must consider:
 - **[Risk Evaluation](core_05_band_continuity.md#risk-evaluation)** — whether systemic risk was actually evaluated under the conditions that matter (dependency, time horizons, and [Adversarial, Scaled, and Exploited Conditions](core_05_band_oversight.md#adversarial-scaled-and-exploited-conditions)), sized to class and [material stake](core_00_preamble.md#material-stake); and
 - **[Risk Disclosure](core_05_band_oversight.md#risk-disclosure)** — whether evaluated risk reached the sentients who need it in time to understand, challenge, and act.
 
-Evaluation without disclosure, or disclosure without evaluation, both fail. Public baseline visibility into material risk under [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) may be satisfied in part through Risk Disclosure where systemic risk is in scope; that floor remains broader than this bridge and does not require a peer instrument beside the [System Classification Record](core_05_band_continuity.md#system-classification-record) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record).
+Doing only one of these fails:
 
-**Defects and misalignment.** Treating an internal note, buried appendix, checklist, or after-the-fact statement as either evaluation or disclosure; failing to disclose evaluated systemic risk to those who need it where [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint) requires it; or certifying continued reliance while material risk-communication gaps remain unresolved must be treated as certification defects. Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
+- risk that was evaluated but never shared does not pass; and
+- risk that was shared but never properly evaluated does not pass.
+
+Sharing evaluated risk can also count toward the public's baseline right to see material risk under [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure), where systemic risk is in play. Two limits apply:
+
+- that public right is broader than this section; and
+- it does not call for a separate record alongside the [System Classification Record](core_05_band_continuity.md#system-classification-record) or [System Data Types Record](core_05_band_continuity.md#system-data-types-record).
+
+**Defects and misalignment.** The following must be treated as certification defects:
+
+- treating an internal note, buried appendix, checklist, or after-the-fact statement as either evaluation or disclosure;
+- failing to disclose evaluated systemic risk to those who need it where [Transparency](core_05_band_oversight.md#transparency) or [Safety (Constitutional Constraint)](core_05_band_continuity.md#safety-constitutional-constraint) requires it; or
+- signing off on continued reliance on the system while known risks go undocumented, undisclosed, and unaddressed.
+
+Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
 
 <a id="32-privacy-informational-joint-invocation"></a>
 #### 3.2 Privacy (Informational) Joint Invocation
