@@ -76,7 +76,7 @@ This kit also does **not**:
 | Track | What you are founding | What it still is not | When it can go live |
 |---|---|---|---|
 | **A. Ordinary formation** | A cooperative, mutual-aid network, research body, commons body, or other non-commercial institution under [System Creation](../../core_05_band_participation.md#system-creation); or a commercial form under [Business Creation](../../core_05_band_participation.md#business-creation). Cooperatives and commons also read [CI-22](../../corpus_institutions/ci_22_commons_cooperatives_mutual_aid_non_market_governance.md). | Not governing authority over non-consenters. Not a forum family. Not CS-10 phase entry. | A qualifying body can bind the named scope, publishes a Chapter Five Charter meeting [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) in **its** custody, and passes the [§4](#4-formation-cliffs-not-a-slope) cliffs. A Chapter Sixteen instrument is **not** required to exist as an ordinary institution. |
-| **B. Constitutional-function machinery** | Oversight, standing and challenge routes, amendment and oversight machinery, and other ordinary constitutional operations named in [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization). Name the function in [§1.1](#11-track-b-function-pointers-same-kit). | Not headcount of cooperating parties. Not interim authority dressed up as maturity. Not forums (those are [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) / [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) / [Chapter Twelve](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)). Not a new kit per function. | A qualifying adopter already holds a recorded [§10.1–§10.2](../../core_16_amendment_ratification.md#101-deliberate-adoption) instrument. Then the same Charter / lane / cliff path as Track A, scaled to the function’s class. Drafting Track B before an instrument is scaffolding only. |
+| **B. Constitutional-function machinery** | Oversight, standing and challenge routes, amendment and oversight machinery, and other ordinary constitutional operations named in [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization). Name the function in [§1.1](#11-track-b-function-pointers-same-kit). | Not headcount of cooperating parties. Not interim authority dressed up as maturity. Not forums (those are [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) / [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md) / [Chapter Twelve](../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction)). Not a new kit per function. | A qualifying adopter already holds a recorded [§10.1–§10.2](../../core_16_amendment_ratification.md#101-deliberate-adoption) instrument. Then the same Charter / lane / cliff path as Track A, scaled to the function’s class. Drafting Track B before an instrument is scaffolding only. |
 
 **Same duties for both kinds of steward.** [Chapter One §16.1.1](../../core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
@@ -101,15 +101,15 @@ Track B (constitutional-function machinery)
                 ↓
         CS-10 for systems under that instrument
         CI-14 for institutional transition
-        Article XXVII-B: shrink interim authority as the machinery actually works
+        Article XXVIII-B: shrink interim authority as the machinery actually works
 ```
 
 <a id="11-track-b-function-pointers-same-kit"></a>
 ### 1.1 Track B function pointers (same kit)
 
-*In plain terms: if you are founding constitutional-function machinery, you still use this kit’s Charter and cliffs. Naming the function only tells you which owner file to read. It does not mint a new kit, and a filled row is not Article XXVII-B progress.*
+*In plain terms: if you are founding constitutional-function machinery, you still use this kit’s Charter and cliffs. Naming the function only tells you which owner file to read. It does not mint a new kit, and a filled row is not Article XXVIII-B progress.*
 
-[Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) lists forums, standing and challenge routes, amendment and oversight machinery, and other ordinary operations. Forums leave this kit. The rest stay here. Do not open a standing kit, an amendment kit, an oversight kit, or a certification kit.
+[Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) lists forums, standing and challenge routes, amendment and oversight machinery, and other ordinary operations. Forums leave this kit. The rest stay here. Do not open a standing kit, an amendment kit, an oversight kit, or a certification kit.
 
 | Function | Owner (wins on conflict) | This kit still does | Stop / leave if |
 |---|---|---|---|
@@ -145,7 +145,7 @@ Use this after the parties know which track they are on. Two parties start from 
 5. **Apply the [§4](#4-formation-cliffs-not-a-slope) cliffs** before claiming a live institution. Fail any cliff → scaffolding only.
 6. **Staff lanes, appointment, contest, and remedy** as [§6](#6-lanes-appointment-contest-remedy) requires. A paper Charter with the founding crew in every lane is not formation.
 7. **If the work is a forum family, leave this kit.** Open [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Binding formation stays in [CF-3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md). See [§7](#7-forums-are-not-this-kit).
-8. **After a live Charter**, use [§8](#8-after-a-live-charter) for CS-10, CI-14, and the Article XXVII-B progress measure.
+8. **After a live Charter**, use [§8](#8-after-a-live-charter) for CS-10, CI-14, and the Article XXVIII-B progress measure.
 
 [Chapter One §16.5](../../core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization) still lets sentients *start* low-risk work without incumbent permission. Starting that work is not appointment to governing authority.
 
@@ -280,7 +280,7 @@ A live Chapter Five Charter is still not Chapter Sixteen adoption, not CS-10 pha
 
 - **Systems under a recorded instrument** migrate under [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). Do not reuse CS-10 phase names (preparation, limited adoption, expanded adoption, steady state) as a metaphor for “we founded a body.” Do not use a 2026-04 planning annex as a CS-10 substitute.
 - **Institutional redesign, merger, or handoff** uses [CI-14](../../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md). “We are in transition” is not a license to skip named interim authority, sunset, or contest paths.
-- **Progress** under [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
+- **Progress** under [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
 
 ---
 
@@ -348,7 +348,7 @@ If the file is also not a Chapter Sixteen instrument, attach the first-adopter k
 | [Chapter Five Charter](../../core_05_band_continuity.md#charter) | Meaning of the scope instrument |
 | [System Creation](../../core_05_band_participation.md#system-creation) | Right to found non-commercial institutions |
 | [Chapter Thirteen §1.1](../../core_13_governance.md#11-mechanism-families-auditability-and-pluralism) | Legitimacy mechanism if the body will govern |
-| [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
+| [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them |
 
 ---

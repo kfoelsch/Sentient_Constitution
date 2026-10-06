@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XX** (*Justice After Verified Violation*); **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
+- Upstream: Chapter Five *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility*; **Article XX** (*Justice After Verified Violation*); **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*); **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge).
 - Downstream: [§1](#cs-111-purpose-and-role); [§2](#cs-112-landscape-compromise-declaration-and-activation); [§4](#cs-114-governance-continuity-under-multi-node-compromise); [§8](#cs-118-exit-restoration-and-post-incident-revalidation).
 - Read with: **CS-11** (*Subversion response, replacement, and reconstitution*); **CS-5** (*User-facing capability surfaces*); **CS-7** (*Justice safeguards, restitution, and rehabilitation*); **CS-10** (*Transition constitution and migration governance*); **CJS-3.20** (*Continuity: reversibility and containment terms*); **CJS-3.13** (*Accountability: procedural integrity and adjudication terms*).
 
@@ -44,10 +44,10 @@ This file is the systems implementation home for **CS-11** (*Subversion response
 
 This file operationalizes coordinated response where constitutional systems or governance pathways are materially subverted, including near-simultaneous multi-system attacks. It implements:
 - the definitional and scaling requirements in **Sentient Constitution Chapter Five** — *System Capture*, *Emergency and Contingency*, *Accountability*, *Oversight*, and *Reversibility* where applicable;
-- **Article XXV** (*Timely Retrospective Review and Restorative Alignment*) in **Chapter Six**, with [**Chapter Twelve §6.1**](../core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*), for escalation and emergency proportionality;
-- **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), for anti-capture governance safeguards;
-- **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*), where phased transition is implicated;
-- **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*), for off-ramp continuity and re-baselining.
+- **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) in **Chapter Six**, with [**Chapter Twelve §6.1**](../core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*), for escalation and emergency proportionality;
+- **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*), for anti-capture governance safeguards;
+- **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*), where phased transition is implicated;
+- **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*), for off-ramp continuity and re-baselining.
 It also operates with these operational clusters:
 - **CJS-3.20** (*reversibility and containment terms*);
 - **CJS-3.18** (*data-retention and lifecycle-integrity terms*);

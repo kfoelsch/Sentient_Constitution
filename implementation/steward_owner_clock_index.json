@@ -20,14 +20,14 @@
   },
   "clock_families": {
     "article_xxiv_c_tier_outer_bounds": {
-      "label": "Article XXV-C / Chapter Twelve §6 tier outer bounds",
+      "label": "Article XXVI-C / Chapter Twelve §6 tier outer bounds",
       "numeric_home": {
         "label": "Chapter Twelve §6",
         "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
-        "label": "Article XXV-C",
-        "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+        "label": "Article XXVI-C",
+        "href": "core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
         "label": "Chapter Twelve §6.1 restore-challenge clocks",
@@ -242,8 +242,8 @@
             "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
-            "label": "Article XXV-C",
-            "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+            "label": "Article XXVI-C",
+            "href": "core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },
@@ -495,8 +495,8 @@
           "href": "core_01_b_interaction_interpretation.md#153-ambiguity-resolution"
         },
         {
-          "label": "Article XXIV",
-          "href": "core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+          "label": "Article XXV",
+          "href": "core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
         }
       ],
       "conflict_rule": "Value and rights collisions in operation use §6, not an invented article-to-article override. Interpreters must not resolve ambiguity by Abstract Strictness or by contracting Chapter Six except where Chapter One expressly permits.",
@@ -521,8 +521,8 @@
       "fact_pattern": "An affected sentient or a tired steward cannot find the home. Specialist-only surfaces or hop count are being used as the next step.",
       "owners": [
         {
-          "label": "Article XXII-A",
-          "href": "core_06_rights_part_d.md#article-xxii-a-proportional-comprehensibility-right"
+          "label": "Article XXIII-A",
+          "href": "core_06_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right"
         },
         {
           "label": "Chapter One §16.2 Distributed Understanding",
@@ -625,8 +625,8 @@
       "fact_pattern": "A dispute, correction, or repair is still pending while harm continues. Operators add process, hop count, or more adopted implementation text reading, or treat a met throughput target as timely.",
       "owners": [
         {
-          "label": "Article XXV-C",
-          "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+          "label": "Article XXVI-C",
+          "href": "core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
         },
         {
           "label": "Chapter Twelve §6",
@@ -649,8 +649,8 @@
             "href": "core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
-            "label": "Article XXV-C",
-            "href": "core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor"
+            "label": "Article XXVI-C",
+            "href": "core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor"
           }
         ]
       },

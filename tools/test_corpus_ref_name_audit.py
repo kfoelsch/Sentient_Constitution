@@ -22,7 +22,7 @@ def make_index() -> dict[str, Section]:
         "CS-11.10": Section({CS_FILE}, "Competency", {"cs-11-10", "10-inspectable-attributable-action"}),
         "CI-14.1": Section(
             {CI_FILE},
-            "Interface — Article XXVII-D (Non-Compliant Property) (seizure, incentives)",
+            "Interface — Article XXVIII-D (Non-Compliant Property) (seizure, incentives)",
             {"ci-141"},
         ),
     }

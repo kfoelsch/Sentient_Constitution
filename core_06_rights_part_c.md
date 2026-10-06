@@ -219,7 +219,7 @@ This Article sets out the right to redress and remedy and what makes it usable i
 - **Timely redress:** Practical access includes:
   - time-bounded intake;
   - acknowledgment; and
-  - proportionate interim relief where ongoing harm is material under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
+  - proportionate interim relief where ongoing harm is material under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
 
   Indefinite pendency without documented tier-appropriate justification is incompatible with this Article.
 #### Article XIII-C: Prohibition of False Trust and Misleading Reliance
@@ -335,10 +335,10 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
   - **Truth** in **Chapter One**;
   - **Article XV** (*Info-Sphere Integrity*) and **Article XVI** (*Audit, Transparency, and Independent Verification*);
   - **Chapter Nine** where it applies; and
-  - corrective measures under **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
+  - corrective measures under **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
   This applies whenever the system's operation materially weakens sentients' ability to challenge decisions, the honesty of shared information, or constitutional process.
-- **Acting against a system is not acting against a being:** Containing, quarantining, impounding, or destroying a non-compliant deployment under **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is separate from:
+- **Acting against a system is not acting against a being:** Containing, quarantining, impounding, or destroying a non-compliant deployment under **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is separate from:
   - holding a sentient accountable under **Chapter Eleven**; and
   - **Article XX-B** (*Restriction Floors*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)).
 
@@ -348,7 +348,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 - **The reverse also holds:** Claiming that a deployed system is sentient — whether the claim is disputed or accepted — does not let anyone keep a harmful deployment running.
   - The claim protects the entity itself under **Article VI-B** (*Sentience-Status Adjudication Floor*). It does not shield the operator.
   - The deployment can still be contained, halted, or quarantined in ways that respect the entity's Rights Floor.
-  - Where credible evidence on the record suggests the entity may be sentient, only reversible containment that keeps the entity intact is allowed. Destroying it is off the table while its status is disputed or accepted, under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) and **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
+  - Where credible evidence on the record suggests the entity may be sentient, only reversible containment that keeps the entity intact is allowed. Destroying it is off the table while its status is disputed or accepted, under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) and **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*).
 
 #### Article XIII-F: Resilience and Self-Healing Baseline
 <details>
@@ -385,15 +385,15 @@ This Article sets out the recovery baseline, from detection through root-cause c
   - change stored data, credentials, obligations, or settings that belong to sentients, operators, or other systems **outside** the area it has declared as broken and under repair;
     - The only exception is a change that is recorded and traceable to whoever made it under **Article XVI-A** (*Auditability and Observable Evidence*) ([Auditability](core_05_band_oversight.md#auditability)) and that, where others are materially affected, comes with proportionate notice, permission, or a handoff they can challenge, consistent with **Chapter Six**;
   - expand its own authority — its permissions, access, or range of actions it may take — beyond what it held before the failure.
-- **When unsure, fail safely:** If it is not clear that an automatic repair will work, the system must stop safely, isolate the problem (quarantine), or hand control over in an orderly way, instead of trying a repair that is only a guess. When the options are otherwise equal, the one that is easiest to undo wins, under the [Reversibility](core_05_band_continuity.md#reversibility) preference in **Article XXIII-B** (*Auditability, Challenge, and Reversibility Preference*).
-- **No covering up:** Automatic recovery must not hide, erase, or delay the evidence needed to work out why the failure happened under **Article XXIII** (*Root Cause Analysis and Adaptive Response*).
+- **When unsure, fail safely:** If it is not clear that an automatic repair will work, the system must stop safely, isolate the problem (quarantine), or hand control over in an orderly way, instead of trying a repair that is only a guess. When the options are otherwise equal, the one that is easiest to undo wins, under the [Reversibility](core_05_band_continuity.md#reversibility) preference in **Article XXIV-B** (*Auditability, Challenge, and Reversibility Preference*).
+- **No covering up:** Automatic recovery must not hide, erase, or delay the evidence needed to work out why the failure happened under **Article XXIV** (*Root Cause Analysis and Adaptive Response*).
   - Every recovery action, every recovery attempt, and every recovery attempt that was held back or blocked must itself be recorded under **Article XVI-A** (*Auditability and Observable Evidence*), and each can be challenged (see [Contestability](core_05_band_accountability.md#contestability)).
 - **Rights stay protected in a reduced mode:** When a system is running in a reduced or backup mode, it must still protect the **Chapter Six** Rights Floor. If it cannot, it must escalate the problem openly rather than quietly cut back those protections.
-  - Quietly weakening Rights Floor protections in the name of "self-healing" is a violation of this Constitution. Such cases fall under **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) (transition governance).
+  - Quietly weakening Rights Floor protections in the name of "self-healing" is a violation of this Constitution. Such cases fall under **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) (transition governance).
 - **Limits on systems that act on their own:** When a high-autonomy system repairs itself, **Article XIII-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) applies.
   - The power to recover may never be used to get around anyone's right to challenge (see [Contestability](core_05_band_accountability.md#contestability)), challenges under **Article XIII-A** (*Reliability and Trustworthiness Baseline*), or independent checking under **Article XVI** (*Audit, Transparency, and Independent Verification*).
 - **A workaround is not a fix:** If automatic recovery gets the system running again but a known defect is still in place, the system's status is provisional, not final. It must carry:
-  - an open duty to find the root cause under **Article XXIII** (*Root Cause Analysis and Adaptive Response*);
+  - an open duty to find the root cause under **Article XXIV** (*Root Cause Analysis and Adaptive Response*);
   - a disclosed timeline for when the defect is expected to be fixed, under **Article XVI-A** (*Auditability and Observable Evidence*).
 - **No endless delay:** Keeping operators' workload down (see [Avoidable Burden](core_05_band_continuity.md#avoidable-burden) and [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)) must not be used as a reason to put off, indefinitely, fixing defects that materially affect safety or the Rights Floor.
 
@@ -553,7 +553,7 @@ This Article sets out the limits on security, intelligence, and covert power:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1.1 Necessity](core_01_b_interaction_interpretation.md#1311-necessity), [§7.1 Limitation Discipline](core_01_a_values_principles.md#71-limitation-discipline), [§13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Twelve §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXV** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
+- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Twelve §6.1** (*Emergency measures and continuation burden*) emergency-measure limits, **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance. Cross-reference: **Article XX-B** (*Restriction Floors*) and Chapter Five *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)* — **Article XIV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Five *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
@@ -1087,7 +1087,7 @@ This Article sets out the floor for distributed oversight:
 - **Oversight spread across many hands:** Several independent or varied oversight routes must each be able to play a real part in finding, reviewing, and correcting failure, misalignment, or capture.
   - **No gatekeeper over audit access:** No single actor may decide alone who may see records or run an audit. The rules for who qualifies for deeper audit access must be public and must leave more than one qualified reviewer able to meet them.
   - **No gatekeeper over review:** No single actor may decide alone whether, when, or by whom an independent review happens. An operator in particular may not be the only one able to start, limit, or end a review of its own system.
-  - **No gatekeeper over meaning:** No single actor may control how this Constitution is interpreted. Interpretation stays bounded, rotated, and open to challenge under **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+  - **No gatekeeper over meaning:** No single actor may control how this Constitution is interpreted. Interpretation stays bounded, rotated, and open to challenge under **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
   - **Oversight keeps pace with growth:** Adopted governance and integrity implementation — including the audit process in **CJS-3.3** (*Audit process home*), integrity assurance in **CJS-3.6** (*integrity assurance and resilience operations*), and institutional assurance in **CI-7** (*Oversight, assurance, controls, and evidence*) — must scale audits and oversight as systems grow:
     - more review paths, deeper review, and more frequent review as a system's class, impact, and dependency rise;
     - a fresh check whenever a material change means earlier checks no longer describe the system; and
@@ -1100,7 +1100,7 @@ This Article sets out the floor for distributed oversight:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
-- Read with: [Chapter Four §4 Security-Constrained Observability and Verification Rule](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) for the barrier test; [Article XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) for delay; [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*) for qualified and independent audit paths.
+- Read with: [Chapter Four §4 Security-Constrained Observability and Verification Rule](core_04_burden_traceability_verification.md#4-security-constrained-observability-and-verification-rule) for the barrier test; [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) for delay; [CJS-3.4](corpus_joint_structure/cjs_03o_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: tiered transparency and audit-access terms*) for qualified and independent audit paths.
 
 </details>
 
@@ -1122,7 +1122,7 @@ This Article sets out the floor for verification accessibility:
 - **Checking must be reachable:** Sentients who are affected, and others with proper authority, must be able to check systems in practice.
 - **Barriers that break this Article:** A barrier breaks this Article when it defeats a real audit, challenge, or review. That includes:
   - **Cost:** fees, required experts, equipment, or representation priced beyond what affected sentients can realistically bear;
-  - **Delay:** waits, backlogs, or procedural steps that run until the harm is done, the evidence is gone, or a remedy no longer helps, judged against **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*);
+  - **Delay:** waits, backlogs, or procedural steps that run until the harm is done, the evidence is gone, or a remedy no longer helps, judged against **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*);
   - **Opacity:** evidence given in a form no outsider can read or test, buried in needless complexity, or written in language affected sentients cannot follow, contrary to **Chapter One §5.2** (*Plain-Language Accessibility (Participation and Stewardship Duty)*);
   - **Gatekeeping:** eligibility rules for audit or challenge that are hidden, exclusive, or controlled by the party under review;
   - **Structural barriers:** systems designed or run so that they predictably block checking under reasonably foreseeable conditions.

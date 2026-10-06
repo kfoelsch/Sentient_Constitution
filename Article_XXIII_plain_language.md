@@ -1,10 +1,10 @@
 # Article XXIII, in Plain Language
 
-## Root Cause Analysis and Adaptive Response
+## Comprehensibility and Complexity Stewardship
 
-*Your right to know what really went wrong, and to have it fixed at the source.*
+*Your right to understand the systems that shape your life, and the duty to keep them from getting needlessly complicated.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXIII](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXIII](core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 
@@ -14,98 +14,92 @@
 
 This article makes three promises:
 
-1. **Find the real cause.** When a system breaks, gets worse, or keeps failing, the people in charge must work out what actually caused it, not just cover up what you can see.
-2. **Show your work.** What they found must be written down, including how sure they are, so others can check it and challenge it.
-3. **When you're not sure, choose what you can undo.** Uncertainty is never a reason to do nothing, and never a reason to pretend a permanent fix is certain.
+1. **You get to understand it.** If a system has a real effect on your life, you're entitled to understand how it works, what it relies on, where its limits are, and how it can break.
+2. **Complicated is not an excuse.** Nobody can use complexity as a wall to stop you from checking, questioning, or fixing a system.
+3. **No pointless complication.** The people in charge of a system can't pile on complexity that wastes everyone's time and effort without a good reason.
 
 ### Four words, explained
 
 | Word | What it means |
 |---|---|
-| **Root cause** | The real reason something went wrong, as opposed to the visible sign of it. |
-| **Symptom** | The visible sign of a problem. A leaking ceiling is a symptom. The broken roof is the cause. |
-| **Containment** | A quick, temporary step to stop things getting worse while the real cause is worked out. |
-| **Reversible** | Can be undone or rolled back if it turns out to be the wrong choice. |
+| **System** | Anything organized that people depend on: a computer program, a power grid, a government office, a set of rules, an AI. |
+| **Comprehensibility** | How easy something is to understand. |
+| **Steward** | Whoever is in charge of running and looking after a system. |
+| **Audit** | A careful, independent check of whether a system does what it's supposed to do. |
 
 ### Why this article exists
 
-We've all heard "the problem has been fixed," and then watched it happen again. Patching the symptom is quick and it looks good. But if the real cause is still there, the same harm comes back, often bigger.
+Modern life runs on systems most people can't see inside. When something goes wrong, the answer is often "it's complicated." Sometimes that's true. But sometimes "it's complicated" is used to shut people out, dodge blame, or avoid fixing things.
 
-The people hurt by a failure are also often the last to hear what really happened. Sometimes the explanation is a press release. Sometimes the blame is pushed onto someone else. Sometimes an automatic reset quietly wipes the evidence that would have shown what went wrong.
+If you can't understand a system that affects you, you can't make good choices about it, you can't tell when it's treating you unfairly, and you can't challenge it. So understanding isn't a luxury. It's what makes all your other rights usable.
 
 This article has two jobs:
 
-- **Help people live well.** If a failure affects you, you should be able to learn what went wrong, have a say in working it out, and get a fix aimed at the real cause.
-- **Keep things going over time.** As systems grow and more people depend on them, they must learn from failure and prevent it happening again, and keep the evidence and the ability to undo mistakes while they test fixes.
+- **Help people live well.** You should understand the systems that affect your safety, your surroundings, the information you rely on, and your freedom to make your own choices, well enough to take part, trust what's accurate, and push back when something's wrong. You shouldn't need an expert to do that.
+- **Keep things understandable over time.** As systems grow bigger and people depend on them more, they must not quietly become harder to check, challenge, or fix. And needless complexity must not slowly drain away everyone's time, energy, and ability to get things done.
 
 ---
 
-### Part A: A real diagnosis, not a show
+### Part A: You get to understand it
 
-When a system starts to degrade, becomes unstable, or shows a serious risk, you have the right to a real diagnosis, not a symbolic response. That means:
+#### Real understanding, not fine print
 
-- **Finding the causes, and writing them down promptly.** This includes the main cause and the contributing ones. Some causes are direct. Others are indirect, show up late, or build up slowly over time.
-- **More than one set of eyes when it matters.** When the stakes are high, or when the people investigating might have a reason to look the other way, the review should include independent or varied viewpoints.
-- **A fix aimed at the causes.** Meanwhile, quick containment and close monitoring are fine.
+This right is about **actually understanding** a system, not just being handed a notice or a 200-page document. You're entitled to a practical grasp of:
 
-#### Your part in it
+- **how it works;**
+- **how it can fail;**
+- **what other systems it depends on;**
+- **what limits or conditions it puts on you.**
 
-The bigger the impact on you, the bigger your role. You can:
+#### How much you understand depends on your role
 
-- **report** failures you see;
-- **supply evidence;**
-- **challenge a diagnosis** that is shallow, one-sided, or missing pieces.
+Not everyone needs the same level of detail. The explanation should fit who you are and how much is at stake:
 
-#### What's not allowed
+- **If you're affected by a system,** you should understand enough to make informed choices and to challenge it if something goes wrong.
+- **If you run a system,** you need to understand it deeply enough to operate it safely.
+- **If you oversee a system,** you need enough detail to check what it really does and how it fails.
 
-The people responding to a failure must answer for:
+The bigger the system's impact, the more understanding it owes people. And when many people's rights or participation are at stake, the explanation can't be kept where **only specialists** can reach it.
 
-- **treating only the symptoms;**
-- **shutting down questions** about the root cause;
-- **sounding more certain than they are;**
-- **skipping the fix** once the cause is known.
+#### You shouldn't need an expert to push back
 
-Blame-shifting and empty statements don't count as a response.
-
-#### Don't erase the evidence
-
-Automatic recovery is useful, but it must not wipe out the evidence needed to work out what went wrong. The trail has to be kept.
+- **You shouldn't have to hire a specialist just to challenge a decision.**
+- **A big, dense rulebook is no excuse for hiding your next step.** If you need to know what to do next, someone should point you straight to it.
+- **No scavenger hunts.** You shouldn't be sent from page to page, office to office, to find the one answer you need.
 
 ---
 
-### Part B: Show your work
+### Part B: Complicated is not an excuse
 
-A diagnosis nobody can check isn't much use. So the important parts must be written down and open to audit:
+#### Complexity can't be used as a wall
 
-- **what they concluded the cause was;**
-- **how confident they are;**
-- **what they're still unsure about;**
-- **other explanations that were plausible, and why they were set aside;**
-- **what was done as a result.**
+No one may use complexity to stop a system from being **checked**, **challenged**, or **fixed**. That includes complexity built out of:
 
-Then anyone affected can:
+- **technology**, such as code so tangled nobody can review it;
+- **organizations**, such as passing responsibility through so many departments or companies that no one is ever to blame;
+- **contracts**, such as fine print that blocks anyone from looking inside;
+- **procedures**, such as so many steps and forms that people give up.
 
-- **challenge** the findings;
-- **have them independently checked;**
-- **get them corrected** if they're wrong;
-- **get a remedy** if they were harmed.
+Stacking layers on top of each other so that no one can see through them is not allowed.
 
-Findings can't be sealed behind someone's authority. If the question is whether information itself can be trusted, the rules on protecting the information environment apply too.
+#### Important systems have to be checkable
+
+Systems that people really depend on must be built so that someone independent can look at them and judge:
+
+- **how complicated they are;**
+- **how tangled up they are with other systems**, so one failure doesn't set off a chain of others no one saw coming;
+- **how they can fail;**
+- **where responsibility passes from one part to another**, so nothing falls through the gap in between.
+
+The more detailed rules for this live in a companion document for systems (called **CS-6**). It adds things like building systems in clear, separate pieces; having backups so one failure can't take everything down; learning from mistakes without just hunting for someone to blame; and cleaning out unnecessary complexity on a regular schedule. If two sets of rules disagree, **the stricter one wins.**
 
 ---
 
-### Part C: When you're not sure, choose what you can undo
+### Part C: No pointless complication
 
-Sometimes the cause isn't clear yet, or the evidence is incomplete. In that case, the choice should lean toward:
+Some complexity is real and necessary. Keeping people safe, or getting something exactly right, sometimes takes detail. That's fine.
 
-- **fixes that can be rolled back,** and that don't lock out better choices later;
-- **more monitoring, logging, and visibility** while the cause is still unclear;
-- **temporary, limited stopgaps with a clear end point,** before making anything permanent.
-
-Being unsure must not be used as a reason for either of these:
-
-- **Avoidable delay.** Waiting to be certain isn't a good reason to hold off on protection that fits the risk.
-- **Overclaiming.** Uncertainty is no reason to present a permanent measure as though the answer were settled.
+What's not fine is complexity that **makes things harder without doing anyone any good**: extra steps, confusing wording, or needless layers that cost people time and effort and protect nothing. The constitution calls that an **avoidable burden**, and the people in charge have to answer for it and fix it.
 
 ---
 
@@ -113,22 +107,21 @@ Being unsure must not be used as a reason for either of these:
 
 The whole constitution uses four checks. Here's how each one applies to this article:
 
-- **You can take part.** You can report failures, give evidence, and challenge a weak or one-sided diagnosis.
-- **Someone is watching.** Causes are written down, independent review is used when the stakes or risk of bias call for it, and the evidence is kept.
-- **Someone is responsible.** Responders answer for patching symptoms, blocking inquiry, overstating confidence, or failing to act once the cause is known.
-- **It happens in time.** Diagnosis, containment, monitoring, and repair start **before** harm spreads, evidence disappears, or the same failure repeats.
+- **You can take part.** You get to understand the systems that affect you, and to object when complexity blocks you from making real choices.
+- **Someone is watching.** Reviewers get clear explanations and regular complexity checks, so they can confirm what systems really do and how they fail.
+- **Someone is responsible.** The people in charge must answer for needless complexity, hidden layers, or anything that stops people from checking or challenging a system, and they must fix it.
+- **It happens in time.** Confusing systems and hidden barriers must be fixed **before** delay or confusion makes understanding, challenge, or repair impossible in practice.
 
 ---
 
 ### How this fits with other articles
 
-- **Checking and challenging** findings is covered by [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (independent checks and openness) and [Article XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (challenging systems and getting things fixed). Root-cause records must stay open to both.
-- **Recovery and undoing mistakes** is covered by [Article XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility). Automatic recovery must not erase the evidence this article needs.
-- **Understanding complicated systems** is covered by [Article XXII](Article_XXII_plain_language.md). Complexity can't be used to hide a cause from the people trying to find it.
-- **Detailed rules for systems** are in a companion document (called **CS-8**), which covers how shared resources and funding should respond to a diagnosed cause. It can't water down anything stated here.
+- **Challenging decisions and getting them fixed** is covered by [Article XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems). This article makes sure you can understand a system well enough to use that right without needing an expert.
+- **Independent checks and openness** are covered by [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification). This article makes sure systems aren't made so complicated that those checks become impossible.
+- **Accessibility** for people with different needs is covered by [Article VI-D](core_06_rights_part_b.md#article-vi-d-accessibility).
 
 ---
 
 ### The whole article in one breath
 
-When something breaks or keeps failing, you have the right to a real diagnosis: the true causes found, written down with honest notes on how sure people are, and open to challenge. The fix must aim at those causes, not just the symptoms. Quick stopgaps are fine. When the cause is unclear, choose fixes that can be undone, keep watching, and don't let uncertainty become either an excuse to delay or a cover for false confidence.
+If a system really affects your life, you have the right to understand how it works, what it depends on, where its limits are, and how it can break, explained at a level that fits your role, not locked away where only experts can reach it. Nobody can hide behind complexity to avoid being checked, challenged, or corrected. And the people in charge can't pile on needless complication that wastes everyone's time without a real reason.

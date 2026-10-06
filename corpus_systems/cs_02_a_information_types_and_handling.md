@@ -25,7 +25,7 @@ Requirements and limitations scale proportionally with system classification and
 
 *In plain terms: Chapter Six Rights Floors need trustworthy data handling; CS-2 (*Information types and handling*) is the systems rulebook that makes typing, access defaults, integrity, identity self-ownership, and Class A/B/C continuity real.*
 
-**Sentient Constitution Chapter Six** (Articles **I**–**XXVI**; presentation **Parts A–E**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XV**, **XVI**, and **XXII**). CS-2 (*Information types and handling*) is the systems-layer implementation of those duties.
+**Sentient Constitution Chapter Six** (Articles **I**–**XXVII**; presentation **Parts A–E**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XV**, **XVI**, and **XXIII**). CS-2 (*Information types and handling*) is the systems-layer implementation of those duties.
 
 <a id="privacy-owner-link"></a>
 **Privacy.** CS-2 (*Information types and handling*) is also the systems-layer rulebook for the [**Def.C3** (*Privacy (Informational)* — peer-level cluster head)](../core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) privacy cluster:
@@ -132,7 +132,7 @@ Hiding, flagging, suspending, or re-labeling data while it stays usable is **not
 - evidence preservation, audit, or a lawful hold — including **Type S** data under an authorized investigation
 - another sentient's rights in the same data under **Article IX-B** (*Experiential and Derived Data Rights*)
 - official records the Constitution requires, including Act Records, Standing Records, attribution records under [§6.3 Attribution and accountability requirements](#63-attribution-and-accountability-requirements), and **Type O** public oversight data where [§7 Type O baseline for Class A/B/C systems](#cs-27-type-o-baseline-for-class-abc-systems) requires it
-- preservation duties under **Article XXVII-A** (*preservation over deletion for possible sentients*)
+- preservation duties under **Article XXVIII-A** (*preservation over deletion for possible sentients*)
 - functionality the sentient still wants, kept only with their ongoing consent — a deletion request withdraws that consent for the data it covers
 
 Each refusal must state its ground, what is kept, and for how long. Kept data must be limited to what that ground needs and must not be used for anything else. Refusals are challengeable under **Article XIII-A** (*Reliability and Trustworthiness Baseline*).

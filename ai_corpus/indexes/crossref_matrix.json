@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-06T13:26:40+00:00",
+  "generated_at": "2026-10-06T14:00:14+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1143,17 +1143,17 @@
               "#article-xix-standing-and-participation-status",
               "#article-xx-a-justice-objective-and-scope",
               "#article-xx-justice-after-verified-violation",
-              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity",
-              "#article-xxii-comprehensibility-and-complexity-stewardship",
-              "#article-xxiii-root-cause-analysis-and-adaptive-response",
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxi-interoperability-portability-and-exit-integrity",
+              "#article-xxiii-comprehensibility-and-complexity-stewardship",
+              "#article-xxiv-root-cause-analysis-and-adaptive-response",
+              "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 2,
             "anchors": [
-              "#article-xxv-a-retrospective-review-and-disclosure"
+              "#article-xxvi-a-retrospective-review-and-disclosure"
             ]
           },
           {
@@ -1573,18 +1573,18 @@
             "anchors": [
               "#article-xix-b-contestability-and-proportional-restriction-limits",
               "#article-xx-justice-after-verified-violation",
-              "#article-xxii-comprehensibility-and-complexity-stewardship",
-              "#article-xxiv-a-bounded-interpretive-mandate-and-public-reasons",
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxiii-comprehensibility-and-complexity-stewardship",
+              "#article-xxv-a-bounded-interpretive-mandate-and-public-reasons",
+              "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 4,
             "anchors": [
-              "#article-xxv-a-retrospective-review-and-disclosure",
-              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxvi-a-retrospective-review-and-disclosure",
+              "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -2035,21 +2035,21 @@
             "anchors": [
               "#article-xix-standing-and-participation-status",
               "#article-xxi-d-open-formats-and-standards",
-              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity",
-              "#article-xxii-b-complexity-audit-and-modularity-requirements",
-              "#article-xxii-comprehensibility-and-complexity-stewardship",
-              "#article-xxiv-a-bounded-interpretive-mandate-and-public-reasons",
-              "#article-xxiv-b-challenge-rights-and-independent-review",
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxi-interoperability-portability-and-exit-integrity",
+              "#article-xxiii-b-complexity-audit-and-modularity-requirements",
+              "#article-xxiii-comprehensibility-and-complexity-stewardship",
+              "#article-xxv-a-bounded-interpretive-mandate-and-public-reasons",
+              "#article-xxv-b-challenge-rights-and-independent-review",
+              "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 3,
             "anchors": [
-              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
-              "#article-xxvi-a-non-entrenchment-and-revisability",
-              "#article-xxvi-b-periodic-revalidation-and-transparent-change"
+              "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxvii-a-non-entrenchment-and-revisability",
+              "#article-xxvii-b-periodic-revalidation-and-transparent-change"
             ]
           },
           {
@@ -3718,7 +3718,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 689,
+            "count": 687,
             "anchors": [
               "#accountability-contestability-and-redress-pathways",
               "#adjudication-and-dispute-resolution",
@@ -3936,17 +3936,17 @@
             "anchors": [
               "#article-xx-a-justice-objective-and-scope",
               "#article-xx-b-restriction-floors",
-              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity"
+              "#article-xxi-interoperability-portability-and-exit-integrity"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 4,
             "anchors": [
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
-              "#article-xxv-timely-retrospective-review-and-restorative-alignment",
-              "#article-xxvi-constitutional-evolution-and-non-entrenchment",
-              "#article-xxvii-transition-governance-continuity-and-re-baselining"
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxvi-timely-retrospective-review-and-restorative-alignment",
+              "#article-xxvii-constitutional-evolution-and-non-entrenchment",
+              "#article-xxviii-transition-governance-continuity-and-re-baselining"
             ]
           },
           {
@@ -4274,7 +4274,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 791,
+            "count": 783,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -4486,19 +4486,19 @@
             "file": "core_06_rights_part_d.md",
             "count": 14,
             "anchors": [
-              "#article-xxi-f-refuge-from-non-compliance",
-              "#article-xxi-g-non-statelessness",
-              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity",
-              "#article-xxii-comprehensibility-and-complexity-stewardship",
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxi-interoperability-portability-and-exit-integrity",
+              "#article-xxii-b-refuge-from-non-compliance",
+              "#article-xxii-c-non-statelessness",
+              "#article-xxiii-comprehensibility-and-complexity-stewardship",
+              "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 4,
             "anchors": [
-              "#article-xxv-timely-retrospective-review-and-restorative-alignment",
-              "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"
+              "#article-xxvi-timely-retrospective-review-and-restorative-alignment",
+              "#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"
             ]
           },
           {
@@ -4885,8 +4885,8 @@
             "file": "core_06_rights_part_e.md",
             "count": 3,
             "anchors": [
-              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
-              "#article-xxvi-b-periodic-revalidation-and-transparent-change"
+              "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxvii-b-periodic-revalidation-and-transparent-change"
             ]
           },
           {
@@ -5092,7 +5092,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 304,
+            "count": 303,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -5171,8 +5171,8 @@
             "file": "core_06_rights_part_e.md",
             "count": 3,
             "anchors": [
-              "#article-xxvii-a-phased-adoption-and-rights-floor-continuity",
-              "#article-xxvii-b-transitional-authority-limits-and-reauthorization"
+              "#article-xxviii-a-phased-adoption-and-rights-floor-continuity",
+              "#article-xxviii-b-transitional-authority-limits-and-reauthorization"
             ]
           },
           {
@@ -5407,7 +5407,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 712,
+            "count": 710,
             "anchors": [
               "#accessibility",
               "#agency-consent-and-anti-coercion",
@@ -5526,18 +5526,18 @@
             "file": "core_06_rights_part_d.md",
             "count": 7,
             "anchors": [
-              "#article-xxi-e-movement-and-relocation",
-              "#article-xxi-f-refuge-from-non-compliance",
-              "#article-xxi-g-non-statelessness",
-              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity",
-              "#xxi-f-climate-unlivability-refuge-adopter-decided"
+              "#article-xxii-a-movement-and-relocation",
+              "#article-xxii-b-refuge-from-non-compliance",
+              "#article-xxii-c-non-statelessness",
+              "#article-xxii-movement-migration-refuge-and-non-statelessness",
+              "#xxii-b-climate-unlivability-refuge-adopter-decided"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 1,
             "anchors": [
-              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment"
+              "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment"
             ]
           },
           {
@@ -5836,7 +5836,7 @@
             "file": "core_06_rights_part_d.md",
             "count": 1,
             "anchors": [
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
@@ -6347,7 +6347,7 @@
             "file": "core_06_rights_part_e.md",
             "count": 1,
             "anchors": [
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -6757,14 +6757,14 @@
               "#article-xix-standing-and-participation-status",
               "#article-xx-a-justice-objective-and-scope",
               "#article-xx-justice-after-verified-violation",
-              "#article-xxiii-root-cause-analysis-and-adaptive-response"
+              "#article-xxiv-root-cause-analysis-and-adaptive-response"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 8,
             "anchors": [
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
               "#incentive-alignment-transition-carve-out"
             ]
           },
@@ -6829,7 +6829,8 @@
             "file": "core_11_a_misconduct_designation.md",
             "count": 4,
             "anchors": [
-              "#chapter-eleven-anti-constitutional-misconduct"
+              "#chapter-eleven-anti-constitutional-misconduct",
+              "#chapter-eleven-part-a-anti-constitutional-misconduct--designation"
             ]
           },
           {
@@ -6994,7 +6995,7 @@
             "file": "core_08_a_system_alignment_certification_evaluation.md",
             "count": 1,
             "anchors": [
-              "#chapter-eight-system-alignment-certification"
+              "#chapter-eight-part-a-system-alignment-certification--evaluation"
             ]
           },
           {
@@ -7159,8 +7160,8 @@
             "file": "core_06_rights_part_e.md",
             "count": 3,
             "anchors": [
-              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment",
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -7426,7 +7427,7 @@
             "count": 2,
             "anchors": [
               "#article-xx-a-justice-objective-and-scope",
-              "#article-xxiv-c-constitutional-forum-independence-and-external-review"
+              "#article-xxv-c-constitutional-forum-independence-and-external-review"
             ]
           },
           {
@@ -7593,7 +7594,7 @@
               "#constitutional-efficiency-a",
               "#constitutional-efficiency-c",
               "#constitutional-emergency-and-contingency",
-              "#emergency-and-contingency-constitutional",
+              "#emergency-and-contingency-1",
               "#stakeholder-emergency-and-contingency"
             ]
           },
@@ -7657,15 +7658,15 @@
             "anchors": [
               "#article-xx-a-justice-objective-and-scope",
               "#article-xx-b-restriction-floors",
-              "#article-xxiv-c-constitutional-forum-independence-and-external-review"
+              "#article-xxv-c-constitutional-forum-independence-and-external-review"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 3,
             "anchors": [
-              "#article-xxv-a-retrospective-review-and-disclosure",
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxvi-a-retrospective-review-and-disclosure",
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -7887,9 +7888,9 @@
             "file": "core_06_rights_part_e.md",
             "count": 5,
             "anchors": [
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
-              "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
-              "#xxvii-a-preservation-over-deletion"
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+              "#xxviii-a-preservation-over-deletion"
             ]
           },
           {
@@ -8306,9 +8307,9 @@
             "file": "core_06_rights_part_e.md",
             "count": 4,
             "anchors": [
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
-              "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
-              "#xxvii-a-preservation-over-deletion"
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+              "#xxviii-a-preservation-over-deletion"
             ]
           },
           {
@@ -8321,6 +8322,7 @@
               "#391-ecological-footprint-evaluation",
               "#392-proportionate-cross-system-support-evaluation",
               "#396-trustworthiness-and-system-reliance-integrity-evaluation",
+              "#chapter-eight-part-a-system-alignment-certification--evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -8382,8 +8384,8 @@
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 2,
             "anchors": [
-              "#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives",
-              "#ci-143-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements"
+              "#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives",
+              "#ci-143-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements"
             ]
           },
           {
@@ -8797,15 +8799,15 @@
             "file": "core_06_rights_part_d.md",
             "count": 3,
             "anchors": [
-              "#article-xxiv-c-constitutional-forum-independence-and-external-review",
-              "#article-xxiv-d-removal-for-cause-and-non-entrenchment"
+              "#article-xxv-c-constitutional-forum-independence-and-external-review",
+              "#article-xxv-d-removal-for-cause-and-non-entrenchment"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 1,
             "anchors": [
-              "#article-xxvi-a-non-entrenchment-and-revisability"
+              "#article-xxvii-a-non-entrenchment-and-revisability"
             ]
           },
           {
@@ -9221,7 +9223,7 @@
             "file": "core_06_rights_part_e.md",
             "count": 1,
             "anchors": [
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {
@@ -9335,7 +9337,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 27,
+            "count": 30,
             "anchors": [
               "#62-how-the-full-chain-fits-together",
               "#constitutional-tetrad",
@@ -9345,7 +9347,7 @@
           },
           {
             "file": "core_01_a_values_principles.md",
-            "count": 42,
+            "count": 45,
             "anchors": [
               "#11-market-structure",
               "#3-foundational-objective-wellbeing-flourishing-aim",
@@ -9361,7 +9363,7 @@
           },
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 30,
+            "count": 31,
             "anchors": [
               "#131-core-tradeoff-principles",
               "#1313-proportionality",
@@ -9399,7 +9401,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 311,
+            "count": 291,
             "anchors": [
               "#adjudication-and-dispute-resolution",
               "#adjudication-and-dispute-resolution-constitutional-a",
@@ -9452,7 +9454,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 157,
+            "count": 162,
             "anchors": [
               "#anti-capture",
               "#anti-capture-a",
@@ -9511,7 +9513,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 83,
+            "count": 84,
             "anchors": [
               "#auditability",
               "#auditability-a",
@@ -9537,7 +9539,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 150,
+            "count": 141,
             "anchors": [
               "#defp1-animal-life-sentient-life-and-sentience-status",
               "#dignity-and-equal-moral-standing",
@@ -9590,9 +9592,10 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
-              "#article-xiii-b-right-to-redress-and-remedy"
+              "#article-xiii-b-right-to-redress-and-remedy",
+              "#article-xvii-system-lifecycle-environments-and-reversibility"
             ]
           },
           {
@@ -9604,11 +9607,12 @@
           },
           {
             "file": "core_06_rights_part_e.md",
-            "count": 5,
+            "count": 6,
             "anchors": [
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor",
-              "#article-xxv-timely-retrospective-review-and-restorative-alignment",
-              "#article-xxvi-a-non-entrenchment-and-revisability"
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
+              "#article-xxvi-timely-retrospective-review-and-restorative-alignment",
+              "#article-xxvii-a-non-entrenchment-and-revisability",
+              "#article-xxviii-transition-governance-continuity-and-re-baselining"
             ]
           },
           {
@@ -9886,6 +9890,7 @@
             "count": 7,
             "anchors": [
               "#3-whole-system-certification-evaluation",
+              "#chapter-eight-part-a-system-alignment-certification--evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -9958,11 +9963,11 @@
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 15,
             "anchors": [
-              "#ci-141-interface--article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
-              "#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives",
-              "#ci-143-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements",
-              "#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication",
-              "#ci-145-article-xxvii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets"
+              "#ci-141-interface--article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
+              "#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives",
+              "#ci-143-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements",
+              "#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication",
+              "#ci-145-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets"
             ]
           },
           {
@@ -10095,6 +10100,7 @@
               "#sentience-non-exclusion",
               "#stakeholder",
               "#stakeholder-representation-and-weight-limits-binding-stakeholder-choice",
+              "#stakeholder-rights-collision-record-binding-stakeholder-choice",
               "#stakeholder-weight",
               "#substantive-fairness"
             ]
@@ -10129,7 +10135,7 @@
             "file": "core_06_rights_part_e.md",
             "count": 3,
             "anchors": [
-              "#article-xxv-b-rights-collision-procedure-and-restorative-alignment"
+              "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment"
             ]
           },
           {
@@ -10505,7 +10511,7 @@
             "file": "core_06_rights_part_d.md",
             "count": 1,
             "anchors": [
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
@@ -11111,14 +11117,14 @@
             "count": 2,
             "anchors": [
               "#article-xx-justice-after-verified-violation",
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
             "file": "core_06_rights_part_e.md",
             "count": 1,
             "anchors": [
-              "#article-xxvii-transition-governance-continuity-and-re-baselining"
+              "#article-xxviii-transition-governance-continuity-and-re-baselining"
             ]
           },
           {
@@ -12429,7 +12435,7 @@
             "file": "core_06_rights_part_d.md",
             "count": 1,
             "anchors": [
-              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity"
+              "#article-xxi-interoperability-portability-and-exit-integrity"
             ]
           },
           {
@@ -12503,7 +12509,7 @@
           },
           {
             "file": "corpus_joint_structure/cjs_03a_accountability_operations.md",
-            "count": 5,
+            "count": 4,
             "anchors": [
               "#cjs-3111-market-concentration-threshold-setting-discipline-adopter-tunable",
               "#cjs-3112-anti-domination-conduct-and-remediation-catalog",
@@ -14214,7 +14220,7 @@
             "count": 3,
             "anchors": [
               "#article-xxi-c-anti-lock-in-rule",
-              "#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity"
+              "#article-xxi-interoperability-portability-and-exit-integrity"
             ]
           },
           {
@@ -14980,7 +14986,7 @@
             "file": "core_06_rights_part_e.md",
             "count": 1,
             "anchors": [
-              "#article-xxv-timely-retrospective-review-and-restorative-alignment"
+              "#article-xxvi-timely-retrospective-review-and-restorative-alignment"
             ]
           },
           {
@@ -15488,7 +15494,7 @@
             "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
             "count": 1,
             "anchors": [
-              "#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication"
+              "#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication"
             ]
           },
           {
@@ -15604,7 +15610,7 @@
             "file": "core_01_c_stewardship_capacity_principles.md",
             "count": 2,
             "anchors": [
-              "#chapter-01-principles-and-constraints"
+              "#chapter-01-part-c-stewardship-and-governance"
             ]
           },
           {
@@ -15627,10 +15633,10 @@
               "#dependency",
               "#dependency-a",
               "#dependency-c",
+              "#emergency-and-contingency",
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
               "#emergency-and-contingency-constitutional-c",
-              "#emergency-and-contingency-semi-independent",
               "#reversibility",
               "#reversibility-constitutional-a",
               "#reversibility-constitutional-c",
@@ -16347,7 +16353,7 @@
             "file": "core_06_rights_part_d.md",
             "count": 1,
             "anchors": [
-              "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards"
+              "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards"
             ]
           },
           {
@@ -21100,7 +21106,7 @@
             "file": "core_06_rights_part_e.md",
             "count": 1,
             "anchors": [
-              "#article-xxv-c-timely-resolution-and-anti-delay-floor"
+              "#article-xxvi-c-timely-resolution-and-anti-delay-floor"
             ]
           },
           {

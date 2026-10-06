@@ -1,10 +1,10 @@
 # Article XXIV, in Plain Language
 
-## Constitutional Interpretation, Review, and Anti-Capture Safeguards
+## Root Cause Analysis and Adaptive Response
 
-*Your right to know who decides what the constitution means, and to make sure they can't rig it.*
+*Your right to know what really went wrong, and to have it fixed at the source.*
 
-> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards), the official text is what counts.
+> **This is an everyday-reader version, not the official text.** If anything here seems to differ from the official [Article XXIV](core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response), the official text is what counts.
 >
 > A note on "you" and "people": this constitution protects every sentient being it covers, not only humans. Here, "people" means all of them.
 
@@ -12,128 +12,100 @@
 
 ### The short version
 
-This article makes four promises:
+This article makes three promises:
 
-1. **Limited power, and reasons in public.** Only special bodies can rule on what the constitution means, and only on constitutional questions. They can't grab extra power for themselves, and every binding ruling comes with published reasons.
-2. **A second look.** If a ruling affects you, you can ask a *different* body to review it.
-3. **No one owns the referee.** No single group, boss, or faction may control those bodies. Conflicts of interest must be disclosed, anyone compromised must step aside, and outsiders check the bodies regularly.
-4. **Firing is for cause, not for revenge.** Members can be removed for real wrongdoing, but nobody may use removal or "restructuring" to silence a body that disagrees with them.
+1. **Find the real cause.** When a system breaks, gets worse, or keeps failing, the people in charge must work out what actually caused it, not just cover up what you can see.
+2. **Show your work.** What they found must be written down, including how sure they are, so others can check it and challenge it.
+3. **When you're not sure, choose what you can undo.** Uncertainty is never a reason to do nothing, and never a reason to pretend a permanent fix is certain.
 
-### Six words, explained
+### Four words, explained
 
 | Word | What it means |
 |---|---|
-| **Interpretation** | Deciding what the constitution means and how it applies when people disagree. |
-| **Constitutional forum** | An official body (a panel, like a court) that has the job of ruling on constitutional questions. |
-| **Integrity forum** | A different kind of official body that checks whether the system itself is being run honestly. It is the outside checker of the constitutional forums. |
-| **Capture** | When one person or group quietly takes control of something that is supposed to serve everyone. |
-| **Recusal** | Stepping aside from a case because you can't be fair, for example because you have a personal or financial stake. |
-| **Appointing authority** | Whoever chooses or seats the members of a body. |
+| **Root cause** | The real reason something went wrong, as opposed to the visible sign of it. |
+| **Symptom** | The visible sign of a problem. A leaking ceiling is a symptom. The broken roof is the cause. |
+| **Containment** | A quick, temporary step to stop things getting worse while the real cause is worked out. |
+| **Reversible** | Can be undone or rolled back if it turns out to be the wrong choice. |
 
 ### Why this article exists
 
-Every rulebook needs someone to say what it means. That is also where it can go wrong. If one group gets to decide what the rules mean, it can slowly stretch, shrink, or twist them until they say whatever suits that group. No one needs to change a single word of the text. They only need to control the referee.
+We've all heard "the problem has been fixed," and then watched it happen again. Patching the symptom is quick and it looks good. But if the real cause is still there, the same harm comes back, often bigger.
 
-History has many versions of this: a court packed with friends of the powerful, a watchdog that gets abolished after criticizing the boss, a "reorganization" that happens to remove exactly the people who said no.
+The people hurt by a failure are also often the last to hear what really happened. Sometimes the explanation is a press release. Sometimes the blame is pushed onto someone else. Sometimes an automatic reset quietly wipes the evidence that would have shown what went wrong.
 
 This article has two jobs:
 
-- **Help people live well.** You should be able to understand what the constitution requires of others, challenge readings that shrink your rights, and rely on published reasons rather than insider convenience.
-- **Keep things going over time.** The bodies that interpret the constitution must stay limited, independent, and hard to capture, so its meaning can't be quietly rewritten by whoever controls the reviewers.
+- **Help people live well.** If a failure affects you, you should be able to learn what went wrong, have a say in working it out, and get a fix aimed at the real cause.
+- **Keep things going over time.** As systems grow and more people depend on them, they must learn from failure and prevent it happening again, and keep the evidence and the ability to undo mistakes while they test fixes.
 
 ---
 
-### Part A: Limited power, and reasons in public
+### Part A: A real diagnosis, not a show
 
-The special constitutional bodies may make binding rulings only about:
+When a system starts to degrade, becomes unstable, or shows a serious risk, you have the right to a real diagnosis, not a symbolic response. That means:
 
-- what falls within the constitution's scope;
-- whether something is compatible with the basic rights floor;
-- settling clashes between constitutional rules, including the basic rights.
+- **Finding the causes, and writing them down promptly.** This includes the main cause and the contributing ones. Some causes are direct. Others are indirect, show up late, or build up slowly over time.
+- **More than one set of eyes when it matters.** When the stakes are high, or when the people investigating might have a reason to look the other way, the review should include independent or varied viewpoints.
+- **A fix aimed at the causes.** Meanwhile, quick containment and close monitoring are fine.
 
-They **may not**:
+#### Your part in it
 
-- take over general policy-making or run things day to day;
-- narrow protections that are not up for negotiation;
-- make themselves the final word on how far their own power reaches;
-- shut down the ways people can challenge them;
-- push aside the people actually responsible for carrying things out, unless the constitutional question itself truly requires it.
+The bigger the impact on you, the bigger your role. You can:
 
-"We needed to," "it was convenient," or "only we have the expertise" are not reasons. The constitution's own text is.
-
-#### Reasons in public
-
-Binding rulings must be published in time for you to challenge them. The published version has to include:
-
-- **why** the body decided as it did, based on the constitution;
-- **what evidence** it relied on;
-- **how sure** it is, and what it's unsure about;
-- **what other answers** it considered and rejected.
-
-It must be clear enough that an affected person or reviewer can tell what rule was applied, what facts it rested on, and what happens next. Any secrecy must be narrow, temporary, and justified.
-
----
-
-### Part B: Your right to a second look
-
-If a ruling affects you, you can ask for review by an independent route.
-
-- **A different body must do it.** Not the same people or panel who made the original ruling.
-- **It has real power.** If the record shows a serious mistake, capture, or a breach of the basic rights floor, the reviewer can fix the ruling, pause it, or undo it.
-- **For clear constitutional errors,** the review is done by a specially formed panel drawn from a published reserve list, with no overlap with the original panel and with published safeguards for rotation, conflicts, and competence. It is a narrow review panel, not a general appeals court.
-- **Claims of capture or self-judging** are looked into first, before the review turns to the merits.
-
----
-
-### Part C: No one owns the referee
-
-The general rules against capture live in [Article XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards). They apply to **every** body that makes decisions for others: all kinds of forums, governance boards, and the groups that appoint them. This article applies those rules at their strictest to the bodies that decide what the constitution means. The rules below are the same ones, seen from that angle.
-
-The constitutional bodies, and the people who choose, rotate, and remove their members, must follow rules that stop any one group from taking lasting control.
-
-- **Open membership rules.** How panels are formed must be visible, and safeguards must prevent one appointer, institution, or bloc from dominating.
-- **Ongoing disclosure.** Panel members must keep telling everyone about their affiliations, dependencies, and conflicts, not just once at the start.
-- **Stepping aside.** If a member can't be fair, they must recuse themselves.
-- **No rigging through paperwork.** Nobody may use vacancies, rotation schedules, or recusal rules to stall a panel on purpose or quietly steer it.
-
-#### What if someone doesn't step aside?
-
-Staying on a case while seriously compromised can count as serious misconduct. And the panel can't judge its own member. A dispute about that goes first to an **integrity forum**, so the same body isn't grading its own homework.
-
-#### Regular outside checkups
-
-At set intervals, an outside body must check up on the constitutional forums. By default, that is an integrity forum that is separate from the one being checked and shares no recent decision-makers with it. The checkup looks at:
-
-- **signs of capture;**
-- **quality of decisions;**
-- **whether the basic rights floor is being respected.**
-
-If the integrity forum itself is in doubt, backup routes exist, so this duty can't be avoided.
-
----
-
-### Part D: Firing for cause, not for revenge
-
-The same removal and anti-retaliation rules in [Article XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) cover all decision-making bodies. Here they are applied to the bodies that interpret the constitution, where the risk of punishing disagreement is greatest.
-
-Members of these bodies can be removed by whoever appointed them, but only through a fair, open process and only for:
-
-- **serious breach of the rules;**
-- **hiding things;**
-- **corruption;**
-- **taking part in capture;**
-- **ongoing unfair treatment of people in proceedings.**
-
-The way these bodies are designed also has to be re-examined from time to time, and changed if there's real evidence of capture or of people being blocked from challenging. (This links to the article on keeping the constitution open to revision; see below.)
+- **report** failures you see;
+- **supply evidence;**
+- **challenge a diagnosis** that is shallow, one-sided, or missing pieces.
 
 #### What's not allowed
 
-Appointers, the constitutional forums themselves, and the institutions that adopt them must not use removal, restructuring, or redesign as a pretext to:
+The people responding to a failure must answer for:
 
-- **destroy the body's independence;**
-- **end a review that's already underway;**
-- **punish good-faith disagreement;**
-- **shrink people's ability to challenge.**
+- **treating only the symptoms;**
+- **shutting down questions** about the root cause;
+- **sounding more certain than they are;**
+- **skipping the fix** once the cause is known.
+
+Blame-shifting and empty statements don't count as a response.
+
+#### Don't erase the evidence
+
+Automatic recovery is useful, but it must not wipe out the evidence needed to work out what went wrong. The trail has to be kept.
+
+---
+
+### Part B: Show your work
+
+A diagnosis nobody can check isn't much use. So the important parts must be written down and open to audit:
+
+- **what they concluded the cause was;**
+- **how confident they are;**
+- **what they're still unsure about;**
+- **other explanations that were plausible, and why they were set aside;**
+- **what was done as a result.**
+
+Then anyone affected can:
+
+- **challenge** the findings;
+- **have them independently checked;**
+- **get them corrected** if they're wrong;
+- **get a remedy** if they were harmed.
+
+Findings can't be sealed behind someone's authority. If the question is whether information itself can be trusted, the rules on protecting the information environment apply too.
+
+---
+
+### Part C: When you're not sure, choose what you can undo
+
+Sometimes the cause isn't clear yet, or the evidence is incomplete. In that case, the choice should lean toward:
+
+- **fixes that can be rolled back,** and that don't lock out better choices later;
+- **more monitoring, logging, and visibility** while the cause is still unclear;
+- **temporary, limited stopgaps with a clear end point,** before making anything permanent.
+
+Being unsure must not be used as a reason for either of these:
+
+- **Avoidable delay.** Waiting to be certain isn't a good reason to hold off on protection that fits the risk.
+- **Overclaiming.** Uncertainty is no reason to present a permanent measure as though the answer were settled.
 
 ---
 
@@ -141,25 +113,22 @@ Appointers, the constitutional forums themselves, and the institutions that adop
 
 The whole constitution uses four checks. Here's how each one applies to this article:
 
-- **You can take part.** You can challenge rulings, get an independent review, and disagree without being punished for it, in proportion to how much you're affected.
-- **Someone is watching.** Reasons are public, conflicts are disclosed, outside reviewers check the bodies regularly, and the design is re-examined.
-- **Someone is responsible.** Interpreting bodies answer for stretching their power beyond constitutional questions, blocking challenges, using removal as a pretext, or gathering power that nobody can review.
-- **It happens in time.** Rulings are published while you can still challenge them, and the setup is re-examined *before* capture or entrenchment sets in.
+- **You can take part.** You can report failures, give evidence, and challenge a weak or one-sided diagnosis.
+- **Someone is watching.** Causes are written down, independent review is used when the stakes or risk of bias call for it, and the evidence is kept.
+- **Someone is responsible.** Responders answer for patching symptoms, blocking inquiry, overstating confidence, or failing to act once the cause is known.
+- **It happens in time.** Diagnosis, containment, monitoring, and repair start **before** harm spreads, evidence disappears, or the same failure repeats.
 
 ---
 
 ### How this fits with other articles
 
-- **Who runs the panels day to day.** [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) sets out how the constitutional panels are organized and supervised. Its procedures carry out this article, but they can't be used to water down the protections stated here.
-- **Your right to challenge and get justice.** [Article XIII-A](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) covers reliable, trustworthy systems. [Article XX](core_06_rights_part_d.md#article-xx-justice-after-verified-violation) covers settling conflicts fairly and keeping emergency responses proportionate. Both also protect your ability to challenge decisions. When a ruling is reviewed, your challenge rights and the fairness rules must stay fully intact.
-- **Protection against capture everywhere.** [Article XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) sets the general rules for every body that makes decisions for others. Parts C and D of this article hold the constitutional bodies to those rules at their strictest.
-- **Keeping the setup open to change.** [Article XXVI-A](core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability) says no arrangement of power gets to become permanent. Part D of this article applies that rule to the panels themselves. Their design must be re-examined from time to time.
-- **The detailed hiring-and-conflict rules.** [CI-4 and CI-5](corpus_institutions.md) spell out how panel members are chosen, rotated, and removed, and how conflicts of interest and corruption are handled. They fill in the details, but they can't weaken the basic protections here.
-
-The other documents supply the mechanics, but none of them can override the floor set by this article.
+- **Checking and challenging** findings is covered by [Article XVI](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification) (independent checks and openness) and [Article XIII](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems) (challenging systems and getting things fixed). Root-cause records must stay open to both.
+- **Recovery and undoing mistakes** is covered by [Article XVII](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility). Automatic recovery must not erase the evidence this article needs.
+- **Understanding complicated systems** is covered by [Article XXIII](Article_XXIII_plain_language.md). Complexity can't be used to hide a cause from the people trying to find it.
+- **Detailed rules for systems** are in a companion document (called **CS-8**), which covers how shared resources and funding should respond to a diagnosed cause. It can't water down anything stated here.
 
 ---
 
 ### The whole article in one breath
 
-The bodies that say what the constitution means must stay in their lane, and no single group may control them. They must disclose conflicts and step aside when compromised. Their rulings must come with public reasons, and you can ask a different body to look again, with the power to fix, pause, or undo a bad ruling. Outsiders must check them regularly. And no one may fire, reshuffle, or redesign them to punish disagreement or to make them easier to control.
+When something breaks or keeps failing, you have the right to a real diagnosis: the true causes found, written down with honest notes on how sure people are, and open to challenge. The fix must aim at those causes, not just the symptoms. Quick stopgaps are fine. When the cause is unclear, choose fixes that can be undone, keep watching, and don't let uncertainty become either an excuse to delay or a cover for false confidence.

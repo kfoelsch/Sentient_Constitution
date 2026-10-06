@@ -397,7 +397,7 @@ A live CF-3.2 map is still not Chapter Sixteen adoption, not CS-10 phase entry, 
 - **Integrity operations** while a matter is live use [CF-7](../../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md).
 - **Continuity, fallback, and emergency adjudication** use [CF-12](../../corpus_forum/cf_12_forum_continuity.md), [CF-13](../../corpus_forum/cf_13_fallback_operation.md), and [CF-14](../../corpus_forum/cf_14_emergency_adjudication.md). Emergency is not a standing justification for family merger ([CF-3.3](../../corpus_forum/cf_03_forum_formation_chamber_structure.md#cf-33-family-distinction-and-non-collapse-rule)).
 - **Systems under a recorded instrument** migrate under [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role). Do not reuse CS-10 phase names as a metaphor for “we stood up a panel.”
-- **Progress** under [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
+- **Progress** under [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
 
 ---
 
@@ -462,7 +462,7 @@ If the file is also not a Chapter Sixteen instrument, attach the first-adopter k
 | [Article XIII-A](../../core_06_rights_part_c.md#article-xiii-a-reliability-and-trustworthiness-baseline) and [Article XIII-B](../../core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) | Challenge, review, and redress must stay reachable |
 | [CI-3.6](../../corpus_institutions/ci_03_institutional_design_separation_of_powers.md#ci-36-charter-contents-review-and-formation-template) | Binding Charter fields — leave this kit |
 | [CS-10](../../corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-101-purpose-and-role) | System migration **after** a recorded instrument |
-| [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
+| [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization) | Progress = shrinking interim authority + working machinery |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Cut gates. This kit does not close them |
 
 ---

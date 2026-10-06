@@ -40,7 +40,7 @@ The Sentient Constitution is a written framework meant to prevent that. It asks 
 - **Accountability:** decisions leave a record, and wrongs can be challenged and put right.
 - **Timeliness:** all of this happens fast enough to matter.
 
-The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 27 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems are held to the same standard.
+The more a system affects the lives of others, the stronger these duties become. They serve two goals: that sentient beings **flourish**, and that they **endure** over the long term. Underneath everything sits the **Rights Floor**, a set of 28 articles of rights that no rule or decision may go below. Humans and AIs who help run these systems are held to the same standard.
 
 The Constitution calls everyone it protects **sentients**, because it does not assume that only humans count. See [Who counts, and who decides?](implementation/FAQ.md#3-who-counts-and-who-decides)
 
@@ -92,7 +92,7 @@ The Constitution is one document split into a Preamble and seventeen chapters. Y
 | **Chapter 1**: [Part A](core_01_a_values_principles.md) · [Part B](core_01_b_interaction_interpretation.md) · [Part C](core_01_c_stewardship_capacity_principles.md) | Core values, how to read and apply the text, and what is expected of the humans and AIs who run systems |
 | **Chapters 2–4**: [2](core_02_definition_structure.md) · [3](core_03_definition_integrity.md) · [4](core_04_burden_traceability_verification.md) | How key terms are defined, protected against loopholes, and backed with evidence |
 | **Chapter 5**: [Definitions](core_05__definitions_home.md) | The dictionary: what each key term means ([all Chapter 5 files ↓](#chapter-five-files)) |
-| **Chapter 6**: [Part A](core_06_rights_part_a.md) · [Part B](core_06_rights_part_b.md) · [Part C](core_06_rights_part_c.md) · [Part D](core_06_rights_part_d.md) · [Part E](core_06_rights_part_e.md) | **The Rights Floor**: Articles I–XXVII |
+| **Chapter 6**: [Part A](core_06_rights_part_a.md) · [Part B](core_06_rights_part_b.md) · [Part C](core_06_rights_part_c.md) · [Part D](core_06_rights_part_d.md) · [Part E](core_06_rights_part_e.md) | **The Rights Floor**: Articles I–XXVIII |
 | **Chapter 7**: [Separation of duties](core_07_functional_independence_segregation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
 | **Chapter 8**: [Part A](core_08_a_system_alignment_certification_evaluation.md) · [Part B](core_08_b_system_alignment_certification_record_process.md) · [Part C](core_08_c_system_alignment_certification_illustrations.md) · [Index](core_08_system_alignment_certification.md) | Checking and certifying that a system meets the standard |
 | **Chapter 9**: [Standing assessment](core_09_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |

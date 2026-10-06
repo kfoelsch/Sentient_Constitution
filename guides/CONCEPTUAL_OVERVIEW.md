@@ -269,8 +269,8 @@ flowchart TB
         A["Part A · Articles I–V<br/><br/>Planetary conditions, material stewardship,<br/>survival, education, shared resources"]
         B["Part B · Articles VI–XII<br/><br/>Equal standing, self-ownership, family,<br/>data, agency, cooperation, stakeholder participation"]
         C["Part C · Articles XIII–XVIII<br/><br/>Trustworthy systems, security, information,<br/>audit, lifecycle, innovation"]
-        D["Part D · Articles XIX–XXIV<br/><br/>Standing, justice, portability,<br/>comprehensibility, root cause, interpretation"]
-        E["Part E · Articles XXV–XXVII<br/><br/>Conflict resolution and review,<br/>constitutional evolution, transition"]
+        D["Part D · Articles XIX–XXV<br/><br/>Standing, justice, portability, movement and refuge,<br/>comprehensibility, root cause, interpretation"]
+        E["Part E · Articles XXVI–XXVIII<br/><br/>Conflict resolution and review,<br/>constitutional evolution, transition"]
     end
     P[["Later governance, measurement, certification,<br/>forums, remedy, and implementation<br/><br/>Outside this chapter; must respect the Rights Floor"]]
     T -->|rights are read with| R
@@ -302,7 +302,7 @@ The five parts are different reading paths through the same floor:
 - [Part D](../core_06_rights_part_d.md) governs standing, justice after verified violation, portability, comprehensibility, root-cause analysis, and interpretive review.
 - [Part E](../core_06_rights_part_e.md) governs conflict resolution and review, constitutional evolution, and transition.
 
-Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Articles XIII–XVIII in Part C and Articles XIX–XXIV in Part D; Part E begins with Article XXV.
+Every part is read with the chapter-wide constraints. Later governance, measurement, certification, forums, remedy, and implementation may apply the floor but may not shrink it. The current source layout places Articles XIII–XVIII in Part C and Articles XIX–XXV in Part D; Part E begins with Article XXVI.
 
 The following five maps open that structure one level further. Each Part box sits above its article rows, and each row keeps its articles side by side. The grids show source grouping rather than a process sequence. There are no visible arrows because the articles are not procedural steps. Subarticle labels are shortened to themes so the maps remain usable alongside the full source files.
 
@@ -433,7 +433,7 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    D0["Part D<br/><br/>Standing, justice, interoperability,<br/>comprehensibility, root-cause review, and constitutional interpretation"]
+    D0["Part D<br/><br/>Standing, justice, interoperability, movement and refuge,<br/>comprehensibility, root-cause review, and constitutional interpretation"]
     subgraph Dgrid[" "]
         direction TB
         subgraph Drow1["Articles XIX–XX"]
@@ -443,13 +443,17 @@ flowchart TB
         end
         subgraph Drow2["Articles XXI–XXII"]
             direction LR
-            D3["Article XXI · Interoperability, Portability, Movement, and Exit<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Open formats and standards<br/>• Movement and relocation<br/>• Refuge from non-compliance<br/>• Non-statelessness<br/>• Limitation, custody, and emergency discipline"]
-            D4["Article XXII · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
+            D3["Article XXI · Interoperability, Portability, and Exit Integrity<br/><br/>• Portability<br/>• Reciprocal interoperability<br/>• Anti-lock-in<br/>• Open formats and standards"]
+            D4["Article XXII · Movement, Migration, Refuge, and Non-Statelessness<br/><br/>• Movement and relocation<br/>• Refuge from non-compliance<br/>• Non-statelessness<br/>• Limitation, custody, and emergency discipline"]
         end
         subgraph Drow3["Articles XXIII–XXIV"]
             direction LR
-            D5["Article XXIII · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
-            D6["Article XXIV · Constitutional Interpretation, Review, and Anti-Capture<br/><br/>• Bounded interpretive mandate and public reasons<br/>• Challenge rights and independent review<br/>• Forum independence and external review<br/>• Removal and non-entrenchment"]
+            D5["Article XXIII · Comprehensibility and Complexity Stewardship<br/><br/>• Proportional comprehensibility<br/>• Complexity audit and modularity"]
+            D6["Article XXIV · Root Cause Analysis and Adaptive Response<br/><br/>• Diagnostic rigor and causal attribution<br/>• Auditability, challenge, and reversibility"]
+        end
+        subgraph Drow4["Constitutional interpretation"]
+            direction LR
+            D7["Article XXV · Constitutional Interpretation, Review, and Anti-Capture<br/><br/>• Bounded interpretive mandate and public reasons<br/>• Challenge rights and independent review<br/>• Forum independence and external review<br/>• Removal and non-entrenchment"]
         end
     end
     D0 ~~~ Dgrid
@@ -457,13 +461,15 @@ flowchart TB
     style Drow1 fill:none,stroke:none
     style Drow2 fill:none,stroke:none
     style Drow3 fill:none,stroke:none
+    style Drow4 fill:none,stroke:none
     style D0 fill:none,stroke:#2563eb,color:#ffffff
     style D1 fill:none,stroke:#0f766e,color:#ffffff
     style D2 fill:none,stroke:#0f766e,color:#ffffff
     style D3 fill:none,stroke:#0f766e,color:#ffffff
-    style D4 fill:none,stroke:#2563eb,color:#ffffff
-    style D5 fill:none,stroke:#ea580c,color:#ffffff
+    style D4 fill:none,stroke:#0f766e,color:#ffffff
+    style D5 fill:none,stroke:#2563eb,color:#ffffff
     style D6 fill:none,stroke:#ea580c,color:#ffffff
+    style D7 fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 #### Part E · Conflict resolution, review, evolution, and transition
@@ -475,14 +481,14 @@ flowchart TB
     E0["Part E<br/><br/>Conflict resolution, review, constitutional evolution, and transition"]
     subgraph Egrid[" "]
         direction TB
-        subgraph Erow1["Articles XXV–XXVI"]
+        subgraph Erow1["Articles XXVI–XXVII"]
             direction LR
-            E1["Article XXV · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
-            E2["Article XXVI · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
+            E1["Article XXVI · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
+            E2["Article XXVII · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
         end
-        subgraph Erow2["Article XXVII"]
+        subgraph Erow2["Article XXVIII"]
             direction LR
-            E3["Article XXVII · Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Transitional authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
+            E3["Article XXVIII · Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Transitional authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
         end
     end
     E0 ~~~ Egrid
@@ -999,7 +1005,7 @@ flowchart TB
 - Later-stage coordination alone does not justify an extension. A permitted extension requires a published, tier-appropriate record showing continuing necessity, proportionality, and no less restrictive feasible alternative under [Chapter Twelve §6.1 Emergency measures and continuation burden](../core_12_forum.md#61-emergency-measures-and-continuation-burden). Later-stage windows and the default integrated-resolution outer bound may be extended under that discipline, subject to any narrower Rights-Floor window. Intake, evidence preservation, and required interim protection stay at the classified tier’s floor; an extension does not reclassify the dispute. See [CF-11.3.1](../corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors).
 - After emergency containment, the same default outer bounds govern restoration of notice and challenge. The clock runs from the start of the measure or the deferral of notice or challenge, whichever is earlier. Continuing past the bound requires the Chapter Twelve §6.1 (*Emergency measures and continuation burden*) continuation showing; it does not start a new clock. Later filing or slower stage windows cannot reset or postpone that restoration clock. See [Chapter Twelve’s restore-challenge rule](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
-These are the [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXV-C](../core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
+These are the [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) and [Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) clocks. The labels mirror the system-classification alphabet, but dispute urgency is determined by the dispute’s own materiality; a forum escalation or added party does not automatically change the tier.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

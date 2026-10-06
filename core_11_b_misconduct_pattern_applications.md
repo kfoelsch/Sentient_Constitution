@@ -539,7 +539,7 @@ This subsection does **not** add an additional designation criterion beyond the 
 
 - Upstream: [§2](core_11_a_misconduct_designation.md#2-criteria-set-for-slot-assignment) (*Criteria set*); [§3](core_11_a_misconduct_designation.md#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](core_11_a_misconduct_designation.md#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [Chapter One §3.2](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*); [Chapter One §19](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture) (*Incentive Alignment and System Capture*); [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*misaligned-reward reporting, forfeiture, correction, and records*); [Chapter Ten §2](core_10_standing_integration.md#2-automatic-integration-review-and-continuity) (*Standing integration*).
 - Related patterns: [§5.5](#55-bribery-and-improper-benefit-exchange) where benefit exchange or corrupt linkage is material; [§5.6](#56-unlawful-or-unconstitutional-command-conduct) where the reward pathway follows unlawful or unconstitutional command conduct; [§5.8](#58-enforcement-refusal-suppression-or-non-prosecution-conduct) where enforcement refusal or non-prosecution itself is the accountability-obstruction pathway; [§5.11](#511-obstruction-of-accountability-criteria-interaction) for the umbrella **obstruction of accountability** criteria interaction.
-- Read with: [Accountability](core_05_apex_accountability_leg.md#accountability), [Auditability](core_05_band_oversight.md#auditability), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference), [System Capture](core_05_band_continuity.md#system-capture), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint); [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules), subject to [Article XXVII-A](core_06_rights_part_e.md#incentive-alignment-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment transition carve-out during constitutional transition.
+- Read with: [Accountability](core_05_apex_accountability_leg.md#accountability), [Auditability](core_05_band_oversight.md#auditability), [Incentive Alignment](core_05_band_integrative.md#incentive-alignment), [Protected Reporting Retaliation and Access Interference](core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference), [System Capture](core_05_band_continuity.md#system-capture), and [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint); [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules), subject to [Article XXVIII-A](core_06_rights_part_e.md#incentive-alignment-transition-carve-out) (*Phased Adoption and Rights-Floor Continuity*) incentive-alignment transition carve-out during constitutional transition.
 
 </details>
 
@@ -953,7 +953,7 @@ It routes evaluation of the named pattern into the existing designation criteria
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks) (*forum disclosure omission and recusal-process impact*); [Article XXIV-C](core_06_rights_part_d.md#article-xxiv-c-constitutional-forum-independence-and-external-review) (*Constitutional forum recusal and enforcement routing*), applying the general floor in [Article XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
+- Upstream: [Chapter Ten §5.5](core_10_standing_integration.md#55-special-locks) (*forum disclosure omission and recusal-process impact*); [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional forum recusal and enforcement routing*), applying the general floor in [Article XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*); [corpus_forum.md](corpus_forum.md) **CF-4** (*panel formation, disclosure, recusal, and lawful bench constitution*).
 - Forum routing: [Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes) (*Integrity default lead*); [Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*cross-forum anti-self-judging rule*).
 - Read with: [Procedural Fairness](core_05_band_participation.md#procedural-fairness), [Contestability](core_05_band_accountability.md#contestability), [System Capture](core_05_band_continuity.md#system-capture), and [Forum Family, Constitutional](core_05_band_accountability.md#forum-family-constitutional).
 
@@ -990,7 +990,7 @@ It routes evaluation of the named pattern into the existing designation criteria
   - backup routing; or
   - practical contestability.
 
-The pattern is especially heightened where the panelist sits on a **Constitutional forum** under **Article XXIV-C** (*Constitutional Forum Independence and External Review*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
+The pattern is especially heightened where the panelist sits on a **Constitutional forum** under **Article XXV-C** (*Constitutional Forum Independence and External Review*), because the conduct can distort any of the following — not merely an ordinary merits dispute:
 - constitutional meaning;
 - validity review; or
 - class-wide structural remedy.
@@ -1010,7 +1010,7 @@ A **Constitutional** forum must not be the sole final merits forum for its own *
 This subsection does **not**:
 - add an additional designation criterion beyond the **section 2** set;
 - convert every recusal dispute into an Anti-Constitutional Misconduct Review matter; or
-- relocate panel-formation mechanics from **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **Chapter Twelve**, or **Article XXIV-C** (*Constitutional Forum Independence and External Review*).
+- relocate panel-formation mechanics from **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*), **Chapter Twelve**, or **Article XXV-C** (*Constitutional Forum Independence and External Review*).
 
 It routes evaluation of the named pattern into the existing designation criteria, due-process safeguards, and **Integrity**-first routing of this chapter and **Chapter Twelve**.
 

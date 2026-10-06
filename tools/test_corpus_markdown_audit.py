@@ -186,7 +186,7 @@ class HtmlBlockFollowingBlankTests(unittest.TestCase):
 class GlossItalicClosedTests(unittest.TestCase):
     def test_unclosed_gloss_with_nested_title_fails(self) -> None:
         lines = [
-            "*In plain terms: **Article XXVII** (*Transition Governance*) is the moving-day floor.",
+            "*In plain terms: **Article XXVIII** (*Transition Governance*) is the moving-day floor.",
             "",
         ]
         findings = check_gloss_italic_closed(lines, "core_example.md")

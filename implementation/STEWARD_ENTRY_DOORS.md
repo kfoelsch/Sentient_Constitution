@@ -288,7 +288,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Article XXII-A](../core_06_rights_part_d.md#article-xxii-a-proportional-comprehensibility-right) |
+| **Owner text** | [Article XXIII-A](../core_06_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right) |
 | **Next step** | Point at the existing card or the named home now. Do not send the reader on a scavenger hunt. |
 | **Next-step class** | `point_to_named_home_or_existing_card` |
 
@@ -335,7 +335,7 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 | Field | Pointer |
 |---|---|
-| **Owner text** | [Article XXV-C](../core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) |
+| **Owner text** | [Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) |
 | **Next step** | Apply the Chapter Twelve §6 outer bound for the matching tier. Then take the existing next-step card. Do not add process that eats the window. |
 | **Next-step class** | `apply_tier_clock_then_existing_card` |
 
@@ -350,4 +350,4 @@ Three-layer picture (floor / property / process): [Article XVI](../core_06_right
 
 **Status:** Process support — **not** binding. This index **cannot narrow core text**. Machine-readable file: [`steward_owner_clock_index.json`](steward_owner_clock_index.json) (schema: [`schemas/steward_owner_clock_index.schema.json`](schemas/steward_owner_clock_index.schema.json)). Pinned to the same corpus edition as these pointers.
 
-Numeric home for published tier outer bounds remains [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXV-C](../core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twelve §6.1 Emergency measures and continuation burden](../core_12_forum.md#61-emergency-measures-and-continuation-burden)); it does not create a slower clock.
+Numeric home for published tier outer bounds remains [Chapter Twelve §6](../core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) / [Article XXVI-C](../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor). Emergency restore-challenge **reuses** those bounds ([Chapter Twelve §6.1 Emergency measures and continuation burden](../core_12_forum.md#61-emergency-measures-and-continuation-burden)); it does not create a slower clock.

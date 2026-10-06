@@ -344,7 +344,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §15.1 Constitutional No-Bypass Principle](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle); [Article XXVI-B](core_06_rights_part_e.md#article-xxvi-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
+- Downstream: Principles: [Chapter One §15.1 Constitutional No-Bypass Principle](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle); [Article XXVII-B](core_06_rights_part_e.md#article-xxvii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
 - Read with: [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy), [Accountability](core_05_apex_accountability_leg.md#accountability), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability). Cluster-local **Anti-bypass** rules apply this definition inside their own cluster.
 
 </details>
@@ -374,7 +374,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (*the process that resolves collisions*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test); [Chapter One §14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [Article XXV-B](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+- Downstream: Principles: [Chapter One §13 Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (*the process that resolves collisions*); [Chapter One §13.1.5 Rights-Collision Decision Test](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test); [Chapter One §14 Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [Article XXVI-B](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with: [Constitutional Constraint](core_05_band_integrative.md#constitutional-constraint), [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#authority-stack-and-internal-hierarchy), [No-Bypass](core_05_band_integrative.md#no-bypass), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Harm Minimization (Tradeoff Selection)](core_05_band_accountability.md#harm-minimization-tradeoff-selection), [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record), and [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution).
 
 </details>
@@ -425,7 +425,7 @@ This band holds **Integrative** cross-leg definitions — terms that must be sat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (*the minimum contents of the record*); [Article XXV-B](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+- Downstream: Principles: [Chapter One §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (*the minimum contents of the record*); [Article XXVI-B](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with: [Constitutional Collision](core_05_band_integrative.md#constitutional-collision), [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record), [Materially Binding Act](core_05_band_accountability.md#materially-binding-act), [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_05_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice), [Evidence Preservation](core_05_band_oversight.md#evidence-preservation), [Auditability](core_05_band_oversight.md#auditability), and [Contestability](core_05_band_accountability.md#contestability).
 
 </details>

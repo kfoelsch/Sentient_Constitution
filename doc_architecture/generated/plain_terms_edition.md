@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **671** of **949** headings carry a gloss (71%).
+Coverage: **672** of **950** headings carry a gloss (71%).
 
 ## Contents
 
@@ -44,7 +44,7 @@ Coverage: **671** of **949** headings carry a gloss (71%).
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (27/30 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (33/34 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (30/31 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (31/32 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_e.md` (13/14 glossed)
 - [CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-thirteen-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_13_governance.md` (13/15 glossed)
 - [CHAPTER FOURTEEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-fourteen-non-regression-and-substantive-amendment-validity) — `core_14_non_regression.md` (5/5 glossed)
@@ -5074,17 +5074,17 @@ inventors must explain an invention well enough for others to rebuild it. In ret
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_d.md`](../../core_06_rights_part_d.md) · 30/31 headings glossed
+Source file: [`core_06_rights_part_d.md`](../../core_06_rights_part_d.md) · 31/32 headings glossed
 
-#### Part D: Standing, justice, interoperability, comprehensibility, root-cause review, and constitutional interpretation
+#### Part D: Standing, justice, interoperability, movement and refuge, comprehensibility, root-cause review, and constitutional interpretation
 
-Part D covers standing and participation status, justice after verified violation, interoperability and exit, comprehensibility, root-cause analysis, and constitutional interpretation and review — Articles XIX through XXIV.
+Part D covers standing and participation status, justice after verified violation, interoperability and exit, movement and refuge, comprehensibility, root-cause analysis, and constitutional interpretation and review — Articles XIX through XXV.
 
-[Source](../../core_06_rights_part_d.md#part-d-standing-justice-interoperability-comprehensibility-root-cause-review-and-constitutional-interpretation)
+[Source](../../core_06_rights_part_d.md#part-d-standing-justice-interoperability-movement-and-refuge-comprehensibility-root-cause-review-and-constitutional-interpretation)
 
 #### Article XIX: Standing and Participation Status
 
-**Article XIX** (*Standing and Participation Status*) decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) and **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) govern.
+**Article XIX** (*Standing and Participation Status*) decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XXI** (*Interoperability, Portability, and Exit Integrity*) and **Article XXII** (*Movement, Migration, Refuge, and Non-Statelessness*) govern.
 
 [Source](../../core_06_rights_part_d.md#article-xix-standing-reputation-and-participation-status)
 
@@ -5120,7 +5120,7 @@ some locks carry extra rules on top of [Article XIX-D](../../core_06_rights_part
 
 #### Article XX: Justice After Verified Violation
 
-**Article XX** (*Justice After Verified Violation*) is the justice Rights Floor. Once a violation is verified, the answer is not revenge or cruelty. It is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. Serious restrictions are held to floors of their own: a proven safety need, a clock and a way back, and never killing. Disputes, escalation, review, and timely resolution are in **Article XXV** (*Timely Retrospective Review and Restorative Alignment*). Emergency measures are in **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
+**Article XX** (*Justice After Verified Violation*) is the justice Rights Floor. Once a violation is verified, the answer is not revenge or cruelty. It is a fair process of **violation**, **correction**, and **prevention** — stopping harm, repairing damage, and reducing recurrence — scaled to how much is at stake. Serious restrictions are held to floors of their own: a proven safety need, a clock and a way back, and never killing. Disputes, escalation, review, and timely resolution are in **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*). Emergency measures are in **Chapter Twelve §6.1** (*Emergency measures and continuation burden*).
 
 [Source](../../core_06_rights_part_d.md#article-xx-justice-after-verified-violation)
 
@@ -5136,11 +5136,11 @@ this is the floor under every serious restriction. A serious restriction on a se
 
 [Source](../../core_06_rights_part_d.md#article-xx-b-restriction-floors)
 
-#### Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity
+#### Article XXI: Interoperability, Portability, and Exit Integrity
 
-**Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) is the exit-and-mobility Rights Floor — you should be able to leave a system or place that no longer serves you, take your data and identity with you, connect to alternatives without being trapped, move between jurisdictions, seek refuge from regimes that violate this Constitution, and never be left without anyone responsible for your basic protections. Exit on paper is not enough: portability, notice, and refuge must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business.
+**Article XXI** (*Interoperability, Portability, and Exit Integrity*) is the systems-exit Rights Floor — you should be able to leave a system that no longer serves you, take your data, identity, and working state with you, and connect to alternatives without being trapped. Exit on paper is not enough: portability and notice must work in practice. Tricks that make leaving costly, confusing, or impossible — opaque formats, surprise rule changes, coercive terms, endless paperwork — are violations, not normal business. Moving between places and regimes, seeking refuge, and never being left stateless are covered by **Article XXII** (*Movement, Migration, Refuge, and Non-Statelessness*).
 
-[Source](../../core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)
+[Source](../../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity)
 
 ##### Article XXI-A: Portability Rights
 
@@ -5166,95 +5166,101 @@ systems should use open formats and standards — ones anyone can read and build
 
 [Source](../../core_06_rights_part_d.md#article-xxi-d-open-formats-and-standards)
 
-##### Article XXI-E: Movement and Relocation
+#### Article XXII: Movement, Migration, Refuge, and Non-Statelessness
+
+**Article XXII** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. This doesn't mean one adopter has to take in everyone another regime forces out. The home regime is still responsible for those sentients first. If it can't or won't be, a group of regimes must share the job, so no one is left with nobody. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.
+
+[Source](../../core_06_rights_part_d.md#article-xxii-movement-migration-refuge-and-non-statelessness)
+
+##### Article XXII-A: Movement and Relocation
 
 you may move within and between jurisdictions, and relocate when staying would materially harm your survival, dignity, basic protections, or freedom from manipulation — and for synthetic and hybrid sentients, moving can mean changing instance or hosting.
 
-[Source](../../core_06_rights_part_d.md#article-xxi-e-movement-and-relocation)
+[Source](../../core_06_rights_part_d.md#article-xxii-a-movement-and-relocation)
 
-##### Article XXI-F: Refuge from Non-Compliance
+##### Article XXII-B: Refuge from Non-Compliance
 
 if your regime materially breaks this Constitution, you may seek refuge in one that follows it, and the receiving regime must consider your claim — whatever kind of body or substrate you have. Regimes that deliberately push sentients out to overwhelm others are the violators, and a receiving adopter is not automatically forced to take everyone they push.
 
-[Source](../../core_06_rights_part_d.md#article-xxi-f-refuge-from-non-compliance)
+[Source](../../core_06_rights_part_d.md#article-xxii-b-refuge-from-non-compliance)
 
-##### Article XXI-G: Non-Statelessness
+##### Article XXII-C: Non-Statelessness
 
 every sentient must always have at least one regime that answers for their basic protections — one that recognizes their rights, decides their standing, and offers a way to fix wrongs. Your origin regime keeps that duty first; if it is gone or refuses, shared or federation recognition must fill the gap, and you stay protected while that is arranged. Being recognized is not the same as a right to live in any particular place.
 
-[Source](../../core_06_rights_part_d.md#article-xxi-g-non-statelessness)
+[Source](../../core_06_rights_part_d.md#article-xxii-c-non-statelessness)
 
-##### Article XXI-H: Limitation, Custody, and Emergency Discipline
+##### Article XXII-D: Limitation, Custody, and Emergency Discipline
 
 limits on movement or refuge must be necessary, proportionate, individual, and as light as will work. Lawful custody is still allowed where someone is a verified danger, but it cannot leave them stateless. A standing label is not a border, emergencies must end, and paperwork designed to wear sentients down counts as a denial.
 
-[Source](../../core_06_rights_part_d.md#article-xxi-h-limitation-custody-and-emergency-discipline)
+[Source](../../core_06_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline)
 
-#### Article XXII: Comprehensibility and Complexity Stewardship
+#### Article XXIII: Comprehensibility and Complexity Stewardship
 
-**Article XXII** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.
+**Article XXIII** (*Comprehensibility and Complexity Stewardship*) is the understandability Rights Floor — when a system materially affects your life, you are entitled to actually grasp how it works, what its limits are, and what happens when it fails. Complexity cannot be used as a wall against participation, audit, or accountability. Stewards also may not pile on needless complexity that wastes everyone's time without a real constitutional benefit.
 
-[Source](../../core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)
+[Source](../../core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship)
 
-##### Article XXII-A: Proportional Comprehensibility Right
+##### Article XXIII-A: Proportional Comprehensibility Right
 
 if a system materially affects **sentients**, operators, stakeholders, and oversight must actually be able to understand how it works and fails — not just specialists.
 
-[Source](../../core_06_rights_part_d.md#article-xxii-a-proportional-comprehensibility-right)
+[Source](../../core_06_rights_part_d.md#article-xxiii-a-proportional-comprehensibility-right)
 
-##### Article XXII-B: Complexity Audit and Modularity Requirements
+##### Article XXIII-B: Complexity Audit and Modularity Requirements
 
 complexity cannot be used — technically, organizationally, contractually, or procedurally — as a wall against audit, contest, or correction.
 
-[Source](../../core_06_rights_part_d.md#article-xxii-b-complexity-audit-and-modularity-requirements)
+[Source](../../core_06_rights_part_d.md#article-xxiii-b-complexity-audit-and-modularity-requirements)
 
-#### Article XXIII: Root Cause Analysis and Adaptive Response
+#### Article XXIV: Root Cause Analysis and Adaptive Response
 
-**Article XXIII** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.
+**Article XXIV** (*Root Cause Analysis and Adaptive Response*) is the find-the-real-problem-and-fix-it-right floor. When something breaks, degrades, or keeps failing, you are entitled to more than a press release or a band-aid. Systems must figure out what actually caused the harm — including causes that show up late or build up over time — address those causes where they can, and leave a record others can check and challenge. Quick containment is allowed; permanent fixes without honest diagnosis are not.
 
-[Source](../../core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)
+[Source](../../core_06_rights_part_d.md#article-xxiv-root-cause-analysis-and-adaptive-response)
 
-##### Article XXIII-A: Diagnostic Rigor and Causal Attribution
+##### Article XXIV-A: Diagnostic Rigor and Causal Attribution
 
 root-cause findings must be written down, open to challenge, and open to correction — not sealed behind authority.
 
-[Source](../../core_06_rights_part_d.md#article-xxiii-a-diagnostic-rigor-and-causal-attribution)
+[Source](../../core_06_rights_part_d.md#article-xxiv-a-diagnostic-rigor-and-causal-attribution)
 
-##### Article XXIII-B: Auditability, Challenge, and Reversibility Preference
+##### Article XXIV-B: Auditability, Challenge, and Reversibility Preference
 
 when you are not sure, pick the fix you can walk back. Uncertainty cannot be used as a reason to freeze protection or to pretend permanent measures are certain.
 
-[Source](../../core_06_rights_part_d.md#article-xxiii-b-auditability-challenge-and-reversibility-preference)
+[Source](../../core_06_rights_part_d.md#article-xxiv-b-auditability-challenge-and-reversibility-preference)
 
-#### Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards
+#### Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards
 
-**Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.
+**Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.
 
-[Source](../../core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)
+[Source](../../core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards)
 
-##### Article XXIV-A: Bounded Interpretive Mandate and Public Reasons
+##### Article XXV-A: Bounded Interpretive Mandate and Public Reasons
 
 Constitutional forums rule on constitutional questions, not on everything. They cannot quietly expand their own turf or shut down challenge pathways. Every binding ruling must be published in time to challenge, with real reasons and the evidence behind them.
 
-[Source](../../core_06_rights_part_d.md#article-xxiv-a-bounded-interpretive-mandate-and-public-reasons)
+[Source](../../core_06_rights_part_d.md#article-xxv-a-bounded-interpretive-mandate-and-public-reasons)
 
-##### Article XXIV-B: Challenge Rights and Independent Review
+##### Article XXV-B: Challenge Rights and Independent Review
 
 if a ruling affects you, you can ask a different body to look at it again — not the panel that made it. That reviewer can fix, pause, or undo the ruling if the record shows a serious mistake, capture, or a Rights-Floor breach.
 
-[Source](../../core_06_rights_part_d.md#article-xxiv-b-challenge-rights-and-independent-review)
+[Source](../../core_06_rights_part_d.md#article-xxv-b-challenge-rights-and-independent-review)
 
-##### Article XXIV-C: Constitutional Forum Independence and External Review
+##### Article XXV-C: Constitutional Forum Independence and External Review
 
-the general rules against capture in [**Article XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.
+the general rules against capture in [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply to every decision-making body. **Constitutional forums** — the bodies that decide what the Constitution means — are held to them at their strictest. Their outside checkups are mandatory and are not scaled down.
 
-[Source](../../core_06_rights_part_d.md#article-xxiv-c-constitutional-forum-independence-and-external-review)
+[Source](../../core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review)
 
-##### Article XXIV-D: Removal for Cause and Non-Entrenchment
+##### Article XXV-D: Removal for Cause and Non-Entrenchment
 
-**Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D**](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.
+**Constitutional forum** panelists can be removed for real cause through due process, exactly as under [**Article XII-D** (*Non-Capture Safeguards*)](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*). For the bodies that interpret the Constitution, the ban on using "removal," "restructuring," or "redesign" as a weapon against independence or dissent is applied with special force.
 
-[Source](../../core_06_rights_part_d.md#article-xxiv-d-removal-for-cause-and-non-entrenchment)
+[Source](../../core_06_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment)
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
@@ -5262,81 +5268,81 @@ Source file: [`core_06_rights_part_e.md`](../../core_06_rights_part_e.md) · 13/
 
 #### Part E: Conflict resolution, review, constitutional evolution, and transition
 
-Part E covers conflict resolution, review-and-resolution discipline, constitutional evolution, and transition — Articles XXV through XXVII, including re-baselining under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).
+Part E covers conflict resolution, review-and-resolution discipline, constitutional evolution, and transition — Articles XXVI through XXVIII, including re-baselining under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*).
 
 [Source](../../core_06_rights_part_e.md#part-e-conflict-resolution-review-constitutional-evolution-and-transition)
 
-#### Article XXV: Timely Retrospective Review and Restorative Alignment
+#### Article XXVI: Timely Retrospective Review and Restorative Alignment
 
-**Article XXV** (*Timely Retrospective Review and Restorative Alignment*) is the conflict-resolution and review Rights Floor, and the companion to **Article XX** (*Justice After Verified Violation*). When sentients, systems, or institutions collide over constitutional Rights Floors, the answer is a fair, usable, contestable process — not indefinite delay or a permanent emergency. After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.
+**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) is the conflict-resolution and review Rights Floor, and the companion to **Article XX** (*Justice After Verified Violation*). When sentients, systems, or institutions collide over constitutional Rights Floors, the answer is a fair, usable, contestable process — not indefinite delay or a permanent emergency. After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](../../core_05_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.
 
-[Source](../../core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment)
+[Source](../../core_06_rights_part_e.md#article-xxvi-timely-retrospective-review-and-restorative-alignment)
 
-##### Article XXV-A: Retrospective Review and Disclosure
+##### Article XXVI-A: Retrospective Review and Disclosure
 
 after the emergency, look back honestly and publish what you find — with only narrow, time-limited confidentiality.
 
-[Source](../../core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)
+[Source](../../core_06_rights_part_e.md#article-xxvi-a-retrospective-review-and-disclosure)
 
-##### Article XXV-B: Rights-Collision Procedure and Restorative Alignment
+##### Article XXVI-B: Rights-Collision Procedure and Restorative Alignment
 
 rights conflicts must be resolved on the record; restoration is preferred where appropriate but must not replace real protection. Voluntary public apology rules are governed by **Chapter Ten** §4.3 (*Voluntary public accountability expression*) generally, and by **Chapter Eleven** §4.3 (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct.
 
-[Source](../../core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment)
+[Source](../../core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment)
 
-##### Article XXV-C: Timely Resolution and Anti-Delay Floor
+##### Article XXVI-C: Timely Resolution and Anti-Delay Floor
 
 constitutional problem resolution is a coordination and restoration system — quick, efficient, and just — not a warehouse where harm sits for years. Material disputes must move on bounded clocks through intake, verification, standing measurement, integration, and remedy. Moving quickly is not an excuse to skip fact-checking, punish the wrong party, offer a fix that does not fit the harm, or cut off challenge and appeal.
 
-[Source](../../core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)
+[Source](../../core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)
 
-#### Article XXVI: Constitutional Evolution and Non-Entrenchment
+#### Article XXVII: Constitutional Evolution and Non-Entrenchment
 
-**Article XXVI** (*Constitutional Evolution and Non-Entrenchment*) is the no-permanent-lock-in floor for how we govern ourselves. Rules for who decides, how sentients participate, how votes are weighted, and how money flows must keep proving they still serve the Constitution — they cannot freeze in place just because they are old, familiar, or convenient for those already in power. When the Constitution itself evolves, that change must happen in the open, with stated reasons — not through emergency shortcuts or hidden implementation tricks. Review must speed up when capture, exclusion, or failure signals show up.
+**Article XXVII** (*Constitutional Evolution and Non-Entrenchment*) is the no-permanent-lock-in floor for how we govern ourselves. Rules for who decides, how sentients participate, how votes are weighted, and how money flows must keep proving they still serve the Constitution — they cannot freeze in place just because they are old, familiar, or convenient for those already in power. When the Constitution itself evolves, that change must happen in the open, with stated reasons — not through emergency shortcuts or hidden implementation tricks. Review must speed up when capture, exclusion, or failure signals show up.
 
-[Source](../../core_06_rights_part_e.md#article-xxvi-constitutional-evolution-and-non-entrenchment)
+[Source](../../core_06_rights_part_e.md#article-xxvii-constitutional-evolution-and-non-entrenchment)
 
-##### Article XXVI-A: Non-Entrenchment and Revisability
+##### Article XXVII-A: Non-Entrenchment and Revisability
 
 governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up.
 
-[Source](../../core_06_rights_part_e.md#article-xxvi-a-non-entrenchment-and-revisability)
+[Source](../../core_06_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability)
 
-##### Article XXVI-B: Periodic Revalidation and Transparent Change
+##### Article XXVII-B: Periodic Revalidation and Transparent Change
 
 constitutional change must happen in the open, with stated reasons — not through emergency, implementation, or custody shortcuts.
 
-[Source](../../core_06_rights_part_e.md#article-xxvi-b-periodic-revalidation-and-transparent-change)
+[Source](../../core_06_rights_part_e.md#article-xxvii-b-periodic-revalidation-and-transparent-change)
 
-#### Article XXVII: Transition Governance, Continuity, and Re-Baselining
+#### Article XXVIII: Transition Governance, Continuity, and Re-Baselining
 
-**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. Nobody can run a full set of Rights Floors on day one, because a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those have to be built. So when a community shifts from legacy systems to constitutional operation, this Article asks for two different things. What the adopter must **not do** — make things worse, start new violations, destroy possible minds, hide the gap — binds from the start. What it must **deliver** — access, review, remedy — becomes enforceable step by step, scope by scope, as the institutions and culture that enforce it are verified ready. The Rights Floors are the fixed target the whole way, and the gap to them is measured, published, and shrinking on a dated path. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.
+**Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. Nobody can run a full set of Rights Floors on day one, because a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those have to be built. So when a community shifts from legacy systems to constitutional operation, this Article asks for two different things. What the adopter must **not do** — make things worse, start new violations, destroy possible minds, hide the gap — binds from the start. What it must **deliver** — access, review, remedy — becomes enforceable step by step, scope by scope, as the institutions and culture that enforce it are verified ready. The Rights Floors are the fixed target the whole way, and the gap to them is measured, published, and shrinking on a dated path. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.
 
-[Source](../../core_06_rights_part_e.md#article-xxvii-transition-governance-continuity-and-re-baselining)
+[Source](../../core_06_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining)
 
-##### Article XXVII-A: Phased Adoption and Rights-Floor Continuity
+##### Article XXVIII-A: Phased Adoption and Rights-Floor Continuity
 
 transitions move forward by meeting real gates, not by clocks or pressure. What the adopter must not do binds from day one. What it must deliver becomes enforceable as the forums, oversight, capability, and culture to enforce it are verified ready — scope by scope, on a dated path. The gap, and the data showing it closing, are public.
 
-[Source](../../core_06_rights_part_e.md#article-xxvii-a-phased-adoption-and-rights-floor-continuity)
+[Source](../../core_06_rights_part_e.md#article-xxviii-a-phased-adoption-and-rights-floor-continuity)
 
-##### Article XXVII-B: Transitional Authority Limits and Reauthorization
+##### Article XXVIII-B: Transitional Authority Limits and Reauthorization
 
 temporary authority really is temporary — and a transition that is going well shows it. You should see interim powers shrinking phase by phase while constitutional forums, rights processes, and ordinary governance machinery work better and take on more of the load, and the measured gap to the full Rights Floors getting smaller on schedule. Extending temporary authority requires real reasons and real data — and the longer it runs, the higher the bar.
 
-[Source](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization)
+[Source](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization)
 
-##### Article XXVII-C: Failure Off-Ramps, Re-Baselining, and Traceability
+##### Article XXVIII-C: Failure Off-Ramps, Re-Baselining, and Traceability
 
 when a transition stalls or fails, there must be a real off-ramp — and a stalled state cannot quietly become the new normal. Resetting the plan is allowed, but only through lawful process, with reasons anyone can check — and never by lowering basic Rights Floors. A reset is not trustworthy if alignment certification keeps blessing misaligned systems or standing review keeps misreading real harm; fix that truth-telling machinery first, or governance is structurally unreliable no matter how polished the new plan looks.
 
-[Source](../../core_06_rights_part_e.md#article-xxvii-c-failure-off-ramps-re-baselining-and-traceability)
+[Source](../../core_06_rights_part_e.md#article-xxviii-c-failure-off-ramps-re-baselining-and-traceability)
 
-##### Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
+##### Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
 
 non-compliant systems and property can be remediated during transition — but only through narrow, documented, reviewable processes that protect basic Rights Floors, bar pretext, and do not turn into retaliation or political targeting. Ownership also does not shield property that is being used to carry out anti-constitutional conduct, though that case runs through the anti-constitutional misconduct chapter, not through transition powers. How institutions carry that out — roles, triggers, custody, appeals, funds, and incentive mechanics — lives in **CI-14.1** (*non-compliant property, seizure, voluntary incentives*) through **CI-14.3** (*operative transition-scoped remediation requirements*).
 
-[Source](../../core_06_rights_part_e.md#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives)
+[Source](../../core_06_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives)
 
 ## CHAPTER THIRTEEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP
 

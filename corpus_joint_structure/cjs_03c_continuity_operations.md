@@ -258,7 +258,7 @@ Substitutability, exit constraints, and mitigation duties
 - Read with: [**CS-2**](../corpus_systems/cs_02_a_information_types_and_handling.md) (*Information types and handling*)
 - Read with: [**CS-3**](../corpus_systems/cs_03_a_system_classification_machinery.md) (*System classification machinery*)
 - Read with: [**CS-4**](../corpus_systems/cs_04_critical_system_stewardship.md) (*Critical system stewardship*)
-- Read with: **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*)
+- Read with: **Article XXI** (*Interoperability, Portability, and Exit Integrity*)
 - Read with: **Article II-E** (*Data Handling and Network Dependency*)
 - Read with: **Article II-F** (*Continuity and Operator Shutdown*)
 - Read with: **Article XVI-A** (*Auditability and Observable Evidence*)

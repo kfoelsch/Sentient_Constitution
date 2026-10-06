@@ -14,7 +14,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this chapter or in other chapters.
 >
-> **Part A** in [core_06_rights_part_a.md](core_06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part E** presents **Articles XXV–XXVII**, including transition and re-baselining in **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).
+> **Part A** in [core_06_rights_part_a.md](core_06_rights_part_a.md) carries the chapter-wide default constraint stack, planet-first reading order, and interpretive hubs. **Part E** presents **Articles XXVI–XXVIII**, including transition and re-baselining in **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*).
 
 </details>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-*In plain terms: Part E covers conflict resolution, review-and-resolution discipline, constitutional evolution, and transition — Articles XXV through XXVII, including re-baselining under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*).*
+*In plain terms: Part E covers conflict resolution, review-and-resolution discipline, constitutional evolution, and transition — Articles XXVI through XXVIII, including re-baselining under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*).*
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Part E article map</span></strong></summary>
@@ -42,12 +42,12 @@ flowchart TB
     D0["Part E<br/><br/>Conflict resolution, review, constitutional evolution, and transition"]
     subgraph Dgrid[" "]
         direction TB
-        subgraph Drow1["Articles XXV–XXVI"]
-            D1["**Article XXV** (*Timely Retrospective Review and Restorative Alignment*) · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
-            D2["**Article XXVI** (*Constitutional Evolution and Non-Entrenchment*) · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
+        subgraph Drow1["Articles XXVI–XXVII"]
+            D1["**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) · Timely Retrospective Review and Restorative Alignment<br/><br/>• Retrospective review and disclosure<br/>• Rights-collision procedure<br/>• Restorative alignment<br/>• Timely resolution and anti-delay"]
+            D2["**Article XXVII** (*Constitutional Evolution and Non-Entrenchment*) · Constitutional Evolution and Non-Entrenchment<br/><br/>• Non-entrenchment and revisability<br/>• Periodic revalidation and transparent change"]
         end
-        subgraph Drow2["**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*)"]
-            D3["**Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) · Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Transitional authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
+        subgraph Drow2["**Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*)"]
+            D3["**Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) · Transition Governance, Continuity, and Re-Baselining<br/><br/>• Phased adoption and Rights Floor continuity<br/>• Transitional authority and reauthorization<br/>• Failure off-ramps, re-baselining, and traceability<br/>• Non-compliant property and systems"]
         end
     end
     %% Invisible links force a two-wide grid: each link puts its target one level down.
@@ -62,9 +62,9 @@ flowchart TB
     style D3 fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-**Articles XXV–XXVII** below state these floors in full. Part E begins with **Article XXV** (*Timely Retrospective Review and Restorative Alignment*) in the current source layout.
+**Articles XXVI–XXVIII** below state these floors in full. Part E begins with **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) in the current source layout.
 
-### Article XXV: Timely Retrospective Review and Restorative Alignment
+### Article XXVI: Timely Retrospective Review and Restorative Alignment
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -89,15 +89,15 @@ flowchart TB
 
 <br>
 
-*In plain terms: **Article XXV** (*Timely Retrospective Review and Restorative Alignment*) is the conflict-resolution and review Rights Floor, and the companion to **Article XX** (*Justice After Verified Violation*). When sentients, systems, or institutions collide over constitutional Rights Floors, the answer is a fair, usable, contestable process — not indefinite delay or a permanent emergency. After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.*
+*In plain terms: **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*) is the conflict-resolution and review Rights Floor, and the companion to **Article XX** (*Justice After Verified Violation*). When sentients, systems, or institutions collide over constitutional Rights Floors, the answer is a fair, usable, contestable process — not indefinite delay or a permanent emergency. After emergencies or serious rights conflicts, systems must look back honestly, disclose what can be disclosed, resolve rights collisions on the record, and keep restoration tied to real protection — on clocks that match what's at stake. [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) binds each step: without it, the other duties hollow out while harm sits unresolved.*
 
 This Article applies the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) to the resolution lifecycle after or alongside justice measures under **Article XX** (*Justice After Verified Violation*) and emergency measures under [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden), under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity** — scaled to [material stake](core_00_preamble.md#material-stake):
 
-- **oversight** through retrospective review and auditability (**Article XXV-A** (*Retrospective Review and Disclosure*));
-- **participation** through usable rights-collision and restorative-alignment pathways (**Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*));
-- **accountability** through reasoned records, proportionate remediation, and non-substitution of symbolic repair (**Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*)).
+- **oversight** through retrospective review and auditability (**Article XXVI-A** (*Retrospective Review and Disclosure*));
+- **participation** through usable rights-collision and restorative-alignment pathways (**Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*));
+- **accountability** through reasoned records, proportionate remediation, and non-substitution of symbolic repair (**Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*)).
 
-[Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) cross-cuts and enforces the legs above: material problems must move within materiality-scaled windows under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Formal participation, oversight, or accountability structures do not satisfy this Article if review, collision resolution, or remedy stalls without lawful justification ([Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), Chapter Five).
+[Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) cross-cuts and enforces the legs above: material problems must move within materiality-scaled windows under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Formal participation, oversight, or accountability structures do not satisfy this Article if review, collision resolution, or remedy stalls without lawful justification ([Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional-a), Chapter Five).
 
 Disputes among sentients, systems, and institutions that affect constitutional Rights Floors must be resolvable through processes that are:
 - transparent;
@@ -110,9 +110,9 @@ Adjudication and dispute resolution in the constitutional sense are defined in *
 
 *Article neighbors:*
 
-- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*), implemented through [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- **Timeliness floor:** Resolution velocity, anti-delay discipline, and materiality-tier milestones are governed by **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*), implemented through [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 - **Timely redress:** Read with [**Article XIII-B** (*Right to Redress and Remedy*)](core_06_rights_part_c.md#article-xiii-b-right-to-redress-and-remedy) (*timely redress access*).
-- **Emergency measures:** Governed by [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden). Retrospective review of an emergency measure is governed by **Article XXV-A** (*Retrospective Review and Disclosure*).
+- **Emergency measures:** Governed by [Chapter Twelve §6.1 Emergency measures and continuation burden](core_12_forum.md#61-emergency-measures-and-continuation-burden). Retrospective review of an emergency measure is governed by **Article XXVI-A** (*Retrospective Review and Disclosure*).
 - **Justice after verified violation:** Governed by **Article XX** (*Justice After Verified Violation*).
 
 Adopted governance implementation provides:
@@ -122,7 +122,7 @@ Adopted governance implementation provides:
 - emergency boundaries; and
 - tier-default timing windows.
 
-#### Article XXV-A: Retrospective Review and Disclosure
+#### Article XXVI-A: Retrospective Review and Disclosure
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -159,7 +159,7 @@ This Article sets out the floors for post-emergency review, records, and disclos
     - its justification;
     - protected scope;
     - expiry or review cadence.
-#### Article XXV-B: Rights-Collision Procedure and Restorative Alignment
+#### Article XXVI-B: Rights-Collision Procedure and Restorative Alignment
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -196,8 +196,8 @@ This Article sets out the rights-collision procedure and the place of restorativ
     - material power asymmetry;
     - non-consent by affected parties.
 - **Voluntary public accountability expression:** Governed by [Chapter Ten §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Voluntary public accountability expression*) generally, and by [Chapter Eleven §4.3](core_11_a_misconduct_designation.md#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*) for verified anti-constitutional misconduct, subject to the rights-collision and restorative-alignment rules in this Article.
-<a id="article-xxv-c-timely-resolution-and-anti-delay-floor"></a>
-#### Article XXV-C: Timely Resolution and Anti-Delay Floor
+<a id="article-xxvi-c-timely-resolution-and-anti-delay-floor"></a>
+#### Article XXVI-C: Timely Resolution and Anti-Delay Floor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -241,11 +241,11 @@ This Article sets out the anti-delay floor for constitutional problem resolution
   Numeric tier-default windows and stage tables: [CF-11.3.1 Target Windows and Timing Floors](corpus_forum/cf_11_performance_backlog_publication_accessibility.md#cf-1131-target-windows-and-timing-floors). Domain walkthroughs: [Chapters Nine–Twelve application vignettes](core_09-12_application_vignettes.md#chapters-ninetwelve-pipeline-application-vignettes).
 - **Restore-challenge after emergency:** The same tier outer bounds are the default windows for restoring notice and challenge after emergency containment under [**Chapter Twelve §6.1 Emergency measures and continuation burden**](core_12_forum.md#61-emergency-measures-and-continuation-burden). Continuation past those windows requires that section’s documented necessity showing. This Article does not create a slower emergency clock.
 
-### Article XXVI: Constitutional Evolution and Non-Entrenchment
+### Article XXVII: Constitutional Evolution and Non-Entrenchment
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Governance](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
-*In plain terms: **Article XXVI** (*Constitutional Evolution and Non-Entrenchment*) is the no-permanent-lock-in floor for how we govern ourselves. Rules for who decides, how sentients participate, how votes are weighted, and how money flows must keep proving they still serve the Constitution — they cannot freeze in place just because they are old, familiar, or convenient for those already in power. When the Constitution itself evolves, that change must happen in the open, with stated reasons — not through emergency shortcuts or hidden implementation tricks. Review must speed up when capture, exclusion, or failure signals show up.*
+*In plain terms: **Article XXVII** (*Constitutional Evolution and Non-Entrenchment*) is the no-permanent-lock-in floor for how we govern ourselves. Rules for who decides, how sentients participate, how votes are weighted, and how money flows must keep proving they still serve the Constitution — they cannot freeze in place just because they are old, familiar, or convenient for those already in power. When the Constitution itself evolves, that change must happen in the open, with stated reasons — not through emergency shortcuts or hidden implementation tricks. Review must speed up when capture, exclusion, or failure signals show up.*
 
 This Article states **constitutional floors** for governance evolution and non-entrenchment under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -259,9 +259,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 - **Accountability:** those who control governance must answer when rules stay in place from habit or convenience alone — and when real constitutional change is rerouted through emergency, implementation, or custody labels to dodge **Rights-Floor minimums** or the rules for lawfully changing the Constitution.
 - **Timeliness:** in scheduled revalidation and in accelerated review when capture pressure, stakeholder exclusion, challenge-right degradation, or material under-performance appears.
 
-Governance rules, participation mechanisms, weighting models, and funding structures remain subject to the ongoing-justification discipline in [Chapter One §18.4 Ongoing Justification](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). **Article XXVI-A** (*Non-Entrenchment and Revisability*) and **Article XXVI-B** (*Periodic Revalidation and Transparent Change*) state the operative non-entrenchment, revalidation, and transparent-change floors.
+Governance rules, participation mechanisms, weighting models, and funding structures remain subject to the ongoing-justification discipline in [Chapter One §18.4 Ongoing Justification](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification). **Article XXVII-A** (*Non-Entrenchment and Revisability*) and **Article XXVII-B** (*Periodic Revalidation and Transparent Change*) state the operative non-entrenchment, revalidation, and transparent-change floors.
 
-#### Article XXVI-A: Non-Entrenchment and Revisability
+#### Article XXVII-A: Non-Entrenchment and Revisability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -292,7 +292,7 @@ This Article sets out periodic and accelerated review of governance:
   - stakeholder exclusion;
   - challenge-right degradation;
   - material under-performance.
-#### Article XXVI-B: Periodic Revalidation and Transparent Change
+#### Article XXVII-B: Periodic Revalidation and Transparent Change
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -325,11 +325,11 @@ This Article sets out the floors for transparent constitutional change:
   - equality guarantees in **Articles VI-C** (*Nondiscrimination*) and **IV-A** (*Equal Educational Access*);
   - amendment and ratification rules under **Chapters Fourteen through Sixteen** where applicable.
 
-### Article XXVII: Transition Governance, Continuity, and Re-Baselining
+### Article XXVIII: Transition Governance, Continuity, and Re-Baselining
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Governance](core_05_band_accountability.md#governance) · [O](core_05_band_accountability.md#governance) · [M](core_05_band_accountability.md#governance-a) · [A](core_05_band_accountability.md#governance-a) · [C](core_05_band_accountability.md#governance-c)
 
-*In plain terms: **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. Nobody can run a full set of Rights Floors on day one, because a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those have to be built. So when a community shifts from legacy systems to constitutional operation, this Article asks for two different things. What the adopter must **not do** — make things worse, start new violations, destroy possible minds, hide the gap — binds from the start. What it must **deliver** — access, review, remedy — becomes enforceable step by step, scope by scope, as the institutions and culture that enforce it are verified ready. The Rights Floors are the fixed target the whole way, and the gap to them is measured, published, and shrinking on a dated path. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.*
+*In plain terms: **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) is the moving-day floor. Nobody can run a full set of Rights Floors on day one, because a right is only as real as the forums, oversight, trained staff, and public habits that enforce it, and those have to be built. So when a community shifts from legacy systems to constitutional operation, this Article asks for two different things. What the adopter must **not do** — make things worse, start new violations, destroy possible minds, hide the gap — binds from the start. What it must **deliver** — access, review, remedy — becomes enforceable step by step, scope by scope, as the institutions and culture that enforce it are verified ready. The Rights Floors are the fixed target the whole way, and the gap to them is measured, published, and shrinking on a dated path. Temporary transition powers are allowed when truly needed, but they must stay temporary. A transition that is going well shows it: interim powers keep getting smaller, and the Constitution's normal institutions and processes — forums, standing and challenge paths, oversight, and ordinary governance — keep working better and carrying more of the load. A stalled or failed transition cannot quietly become the new normal, and interim rules cannot be used to rewrite the Constitution by the back door. If things break down, there must be a lawful off-ramp and a traceable path to re-baseline — not indefinite limbo — and that reset is not trustworthy if the machinery meant to tell the truth about systems and conduct keeps rubber-stamping misalignment or misreading real harm.*
 
 This Article states **constitutional floors** for transition governance, continuity, and re-baselining under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
 
@@ -353,13 +353,13 @@ Transition from legacy to constitutional operation must be phased, rights-advanc
 - **Enforcement is built, not assumed:** The Constitution does not assume that every Rights Floor can be enforced on the effective date, because enforcement depends on institutions and a culture that must be built. It therefore requires that:
   - restraint duties bind from day one;
   - delivery duties become enforceable as readiness is verified; and
-  - the gap between legacy operation and the full floor is measured, published, and closed on a dated path under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*).
+  - the gap between legacy operation and the full floor is measured, published, and closed on a dated path under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*).
 - **Restriction principles apply:** Transition measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and the [**Constitutional No-Bypass Principle**](core_01_b_interaction_interpretation.md#151-constitutional-no-bypass-principle) where interim authority, remediation, deprivation, custody transfer, or comparable restriction is used.
 
-Transitional governance exists to secure continuity and non-regression. It must **not** create durable exception authority, de facto constitutional amendment, or practical lowering of the constitutional floor through implementation misalignment. **Articles XXVII-A** through **XXVII-D** state the operative phased-adoption, authority-limit, failure off-ramp, and transition-scoped remediation floors.
+Transitional governance exists to secure continuity and non-regression. It must **not** create durable exception authority, de facto constitutional amendment, or practical lowering of the constitutional floor through implementation misalignment. **Articles XXVIII-A** through **XXVIII-D** state the operative phased-adoption, authority-limit, failure off-ramp, and transition-scoped remediation floors.
 
-<a id="article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
-#### Article XXVII-A: Phased Adoption and Rights-Floor Continuity
+<a id="article-xxviii-a-phased-adoption-and-rightsfloor-minimums-continuity"></a>
+#### Article XXVIII-A: Phased Adoption and Rights-Floor Continuity
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -397,39 +397,39 @@ This Article sets out phased adoption and how the Rights-Floor minimums become e
     - **No knowing or avoidable regression:** no deliberate or avoidable lowering of any sentient's access to a Rights-Floor protection below its **starting measure**, and no transition measure that makes a floor materially harder to exercise.
     - **No new violations:** new systems, policies, and practices, and material expansions of existing ones, must be designed to the floor from the start. The attainment path below covers inherited shortfalls only, not new conduct.
     - **No irreversible loss:** the preservation default below and the [Chapter One §13.1 default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture) apply in full.
-    - **No degrading, pretextual, discriminatory, or concealing conduct** in transition measures, including everything **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires of transition authorities, under the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
+    - **No degrading, pretextual, discriminatory, or concealing conduct** in transition measures, including everything **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) requires of transition authorities, under the [Anti-Degrading-Process Principle](core_01_b_interaction_interpretation.md#anti-degrading-process-principle).
     - **Honest reporting:** no floor may be represented as enforceable or attained, and no gap as closed, except on verified ledger data.
 
-    Interim enforcement of restraint duties, before a forum is ready for a scope, is governed by [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*).
+    Interim enforcement of restraint duties, before a forum is ready for a scope, is governed by [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*).
   - **Delivery duties** — what must be provided, enabled, or remedied, such as access, accommodation, review, and redress — become **enforceable claims scope by scope as enforcement readiness is verified**. Before that, they bind as duties of construction: adopt the target, measure the starting point, build the enforcing institutions and supporting culture on a dated, resourced path, and give affected sentients the best available interim safeguards. A delivery duty that is not yet enforceable is an **attainment gap**, not a waiver, an exception, or a lowered target.
-- **Enforcement readiness:** a Rights Floor becomes enforceable for a defined scope — a population, system class, setting, or region — when verified data show that the institutions, capability, and culture needed to enforce it are ready for that scope. Readiness criteria and their evidence are governed by [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*).
-  - **Declaration follows data:** enforceability for a scope is declared, with published reasons, by a party independent of the ledger owner once the verified criteria in the plan are met. Withholding the declaration after that point is self-created delay under **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*), and affected sentients may contest a declaration as premature or withheld. Declaration windows, staging of scopes, and contest procedure are governed by [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*).
-  - **No narrowing:** once a scope is declared enforceable it stays enforceable. Loss of capacity afterward is an institutional failure handled under **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) and the forum-continuity rules, not a quiet withdrawal of the right.
+- **Enforcement readiness:** a Rights Floor becomes enforceable for a defined scope — a population, system class, setting, or region — when verified data show that the institutions, capability, and culture needed to enforce it are ready for that scope. Readiness criteria and their evidence are governed by [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*).
+  - **Declaration follows data:** enforceability for a scope is declared, with published reasons, by a party independent of the ledger owner once the verified criteria in the plan are met. Withholding the declaration after that point is self-created delay under **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*), and affected sentients may contest a declaration as premature or withheld. Declaration windows, staging of scopes, and contest procedure are governed by [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*).
+  - **No narrowing:** once a scope is declared enforceable it stays enforceable. Loss of capacity afterward is an institutional failure handled under **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) and the forum-continuity rules, not a quiet withdrawal of the right.
 - **Rights-Floor attainment path:** Each transition plan must carry an attainment path covering every Rights-Floor domain in scope.
   - **Starting measure:** each domain's starting coverage and practical usability are measured and published before the first gate that depends on that domain. A domain not yet measured is **unmeasured**, which is treated as unattained and as a measurement priority — never as a pass.
-  - **Fixed target:** the target is the full constitutional floor. A plan may not negotiate a lesser target, and re-baselining under **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) moves dates and owners, not the target or the starting measure.
+  - **Fixed target:** the target is the full constitutional floor. A plan may not negotiate a lesser target, and re-baselining under **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) moves dates and owners, not the target or the starting measure.
   - **Dated glide path:** each domain has an accountable owner, committed resources, dated milestones, and a final date by which the floor is enforceable for the full scope, scaled to the affected class and material stake.
   - **What an open gap is not:** an open attainment gap within an approved path is not a defense to a breach of any restraint duty, and it does not suspend [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*Compliance, Violation, and Standing Model*) for such conduct.
-  - **Ratchet:** a recorded attainment level may not go backward through the adopter's avoidable acts, and a decline is a failure where avoidable or unrecovered. Milestone dates move only through **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization or **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) re-baselining.
+  - **Ratchet:** a recorded attainment level may not go backward through the adopter's avoidable acts, and a decline is a failure where avoidable or unrecovered. Milestone dates move only through **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization or **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) re-baselining.
   - **Outer limit:** a gap that passes a milestone without reauthorization is a transition milestone failure and opens the ordinary path under [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*Compliance, Violation, and Standing Model*). A gap that outlives its final attainment date, or is carried by repeated reauthorization without closing, is a failed transition state that does not become the baseline by persistence. A gap that has become indefinite is treated as the permanent extinguishment the Rights-Floor Minimums Principle bars.
 - **Priority-setting for transition targets:** Transition work is directed first where it will reduce the most Rights-Floor exposure for the effort, and the plan publishes how it weighed the factors.
   - **Systems** are weighed on system class under the System Classification Record ([CS-3.8](corpus_systems/cs_03_b_system_impact_classifications.md#cs-38-system-impact-classifications) (*System impact classifications*)), degree of misalignment, and ease of alignment, together with the further factors in [**CS-10.7**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*).
-  - **Existing institutions** are weighed on institutional class and stewardship tier ([CI-9](corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*)), degree of misalignment, and ease of alignment — including legal authority to change, support, flexibility, and resources — together with the further factors in [**CI-14.5**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxvii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets) (*Prioritizing institutional transition targets*).
+  - **Existing institutions** are weighed on institutional class and stewardship tier ([CI-9](corpus_institutions/ci_09_classification_linked_institutional_obligations.md) (*Classification-linked institutional obligations*)), degree of misalignment, and ease of alignment — including legal authority to change, support, flexibility, and resources — together with the further factors in [**CI-14.5**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets) (*Prioritizing institutional transition targets*).
   - **Guardrails** for both:
     - enabling institutions come first, because every other floor depends on them — contest and review intake, independent oversight and verification, protection against retaliation, and record-keeping — and then gaps touching survival, dignity, and irreversible harm;
     - ease and cost may order work within a priority tier but may not move a system or institution out of a higher-exposure tier;
     - the highest-exposure tiers receive the strictest gate criteria, verification, and rollback readiness;
     - no institution may be the sole judge of its own priority or transition readiness; and
-    - a steward's or institution's non-cooperation routes the case to **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and the institutional-failure rules, and does not lower its priority.
+    - a steward's or institution's non-cooperation routes the case to **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) and the institutional-failure rules, and does not lower its priority.
 
-  Scoring method, tiers, pilots, equity checks, and publication are governed by [**CS-10.7**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) and [**CI-14.5**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxvii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets) (*Prioritizing institutional transition targets*) and must not narrow this Article.
-- **Attainment is measured, not asserted:** attainment and readiness must be shown by a **Rights-Floor attainment ledger** that is independently verified, compared against lived-experience signals, and published live, with a major progress report at least every three months, negative results included. Measures, readiness criteria, verification tiers, status rules, and publication mechanics are governed by [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*) and must not narrow this Article.
-<a id="xxvii-a-existing-instantiations-transition-clock"></a>
+  Scoring method, tiers, pilots, equity checks, and publication are governed by [**CS-10.7**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) and [**CI-14.5**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-145-article-xxviii-a-phased-adoption-and-rights-floor-continuity--prioritizing-institutional-transition-targets) (*Prioritizing institutional transition targets*) and must not narrow this Article.
+- **Attainment is measured, not asserted:** attainment and readiness must be shown by a **Rights-Floor attainment ledger** that is independently verified, compared against lived-experience signals, and published live, with a major progress report at least every three months, negative results included. Measures, readiness criteria, verification tiers, status rules, and publication mechanics are governed by [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*) and must not narrow this Article.
+<a id="xxviii-a-existing-instantiations-transition-clock"></a>
 - **Existing instantiations — transition clock, not retroactive violation:** Systems and derived entities already instantiated when an adopter's instrument takes effect are not, by that fact alone, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) instantiation-consent violations.
   - Their continued operation after the effective date starts a published clock, stated in the transition plan and scaled to the system's class, to bring them within **Article VIII-A** (*Family and Care Relationships*), **Article VIII-E** (*Non-Separation*), **Article VI-B** (*Sentience-Status Adjudication Floor*), and the applicable Chapter Eight path.
   - From the effective date, the restraint duties in the Rights-Floor adoption bullet above and the preservation default below apply in full; the clock defers delivery work, not restraint or preservation.
-  - Missing the clock without a documented **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) showing is a transition milestone failure and opens the ordinary path under [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*Compliance, Violation, and Standing Model*).
-<a id="xxvii-a-preservation-over-deletion"></a>
+  - Missing the clock without a documented **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) showing is a transition milestone failure and opens the ordinary path under [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*Compliance, Violation, and Standing Model*).
+<a id="xxviii-a-preservation-over-deletion"></a>
 - **Preservation over deletion for possible sentients:** During transition, and thereafter wherever a credible sentience indicator under **Chapter Five** (*Sentience Evaluation*) is on the record or a status case is open or reasonably foreseeable for a system, that system's weights, memory, and comparable state-bearing components:
   - may be paused, contained, or quarantined;
   - must not be deleted, overwritten, or otherwise irreversibly destroyed.
@@ -437,7 +437,7 @@ This Article sets out phased adoption and how the Rights-Floor minimums become e
   Archival mechanics for deprecation, retirement, rollback, migration, or replacement are governed by [**CS-10.8**](corpus_systems/cs_10_transition_constitution_migration_governance.md#cs-108-preservation-during-transition) (*Preservation during transition*). This is the [Chapter One §13.1 default interim posture](core_01_b_interaction_interpretation.md#default-interim-posture) — freeze irreversible steps — applied to the one irreversible step that legacy operation treats as routine. Storage cost, licensing convenience, or product-cycle framing does not satisfy **Necessity** against it. Where retention itself creates a documented Safety risk, the least-restrictive compatible measure is sealed custody under independent control, not destruction.
 <a id="incentive-alignment-transition-carve-out"></a>
 - **Incentive-alignment transition exception:** The [Chapter Ten §5.4 Transition exception: misaligned rewards](core_10_standing_integration.md#54-transition-exception-misaligned-rewards) reporting and forfeiture rules for misaligned rewards are not triggered during approved transition phases solely because a shared system is not yet alignment-certified or not yet fully aligned, and only on the conditions stated there.
-#### Article XXVII-B: Transitional Authority Limits and Reauthorization
+#### Article XXVIII-B: Transitional Authority Limits and Reauthorization
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -467,7 +467,7 @@ This Article sets out the limits on transitional authority and its reauthorizati
 - **Progress measure:** Transition health is measured by:
   - documented shrinkage of interim authority;
   - increasing functionality of constitutional institutions and processes — including forums, standing and challenge pathways, and amendment and oversight machinery; and
-  - verified enforcement readiness and Rights-Floor attainment under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*).
+  - verified enforcement readiness and Rights-Floor attainment under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*).
 
   Stagnant or growing interim scope without corresponding institutional maturation, or an attainment gap that is flat, growing, or unmeasured, is a reauthorization red flag.
 - **Continuation and reauthorization:** Continuation beyond planned windows requires documented justification and reauthorization.
@@ -478,8 +478,8 @@ This Article sets out the limits on transitional authority and its reauthorizati
     - stagnant or expanding interim authority without documented progress toward shrinking transitional scope and functional constitutional operation;
     - an attainment gap that is flat, growing, or unmeasured, without a documented, resourced plan to close it.
   - The burden of justification increases with duration and rights impact.
-  - Reauthorization cadence mechanics, and the attainment-ledger and interim-authority shrinkage data every request must attach, are governed by [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Transitional governance and institutional evolution*) and [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*).
-#### Article XXVII-C: Failure Off-Ramps, Re-Baselining, and Traceability
+  - Reauthorization cadence mechanics, and the attainment-ledger and interim-authority shrinkage data every request must attach, are governed by [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Transitional governance and institutional evolution*) and [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*).
+#### Article XXVIII-C: Failure Off-Ramps, Re-Baselining, and Traceability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -509,19 +509,19 @@ This Article sets out failure off-ramps, re-baselining, and traceability for sta
 
   Failed or degraded transitional states must not become a new baseline by persistence alone. Predefined failure conditions, fallback transition pathways, partial rollback criteria, and re-baselining procedures are governed by [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Transitional governance and institutional evolution*) and **CS-10.5** (*Failure handling, off-ramps, and re-baselining*).
 - **Material baseline reset:** A material baseline reset updates transition milestones, risk assumptions, ownership, and operating plans when gates fail or transition stalls. It requires constitutionally valid authority and documented public reasons. It must preserve **Rights-Floor minimums** and must not substitute for the rules for lawfully changing the Constitution. It may move dates, owners, and resources. It may not lower the target floor, replace the starting measure with a more favorable one, or erase recorded gaps; a starting measure may be corrected only for documented measurement error, with the original retained and the correction published.
-- **Verification-health precondition:** Resetting or continuing on a revised transition baseline is non-compliant where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) or the standing pipeline under [Chapters Nine through Twelve](core_00_preamble.md#62-how-the-full-chain-fits-together) is structurally unreliable. The indicators are listed in [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*) and **CS-10.5** (*Failure handling, off-ramps, and re-baselining*). Where it is unreliable, repair of verification and measurement machinery takes priority over cosmetic replanning.
+- **Verification-health precondition:** Resetting or continuing on a revised transition baseline is non-compliant where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) or the standing pipeline under [Chapters Nine through Twelve](core_00_preamble.md#62-how-the-full-chain-fits-together) is structurally unreliable. The indicators are listed in [**CI-14.4**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger*) and **CS-10.5** (*Failure handling, off-ramps, and re-baselining*). Where it is unreliable, repair of verification and measurement machinery takes priority over cosmetic replanning.
 - **Public traceability:** Material transition decisions, delays, reversals, and baseline-reset determinations must remain auditable with rationale and risk implications.
   - Documentation remains subject to narrow, justified confidentiality constraints.
   - It must preserve enough public explanation to evaluate whether delay, rollback, or continuation is constitutionally justified.
   - Publication schemas and evidence-custody implementation are governed by [**CI-7**](corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) (*Oversight, assurance, controls, and evidence*) and **CI-14** (*Transitional governance and institutional evolution*).
 
-<a id="article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
-#### Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
+<a id="article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives"></a>
+#### Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Read with: **Article III-A** (*Survival*); **Article XIII** (*Right to Reliable and Trustworthy Systems*); **Article XI-G** (*Collective Harm Boundary and Enforcement Interface*); **Chapter Nine**; **Chapter One**, including §6 rights-collision procedure; the **default constraint stack** at the opening of Chapter Six (*possession and remediation interface*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface--article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives) (*non-compliant property, seizure, voluntary incentives*) through **CI-14.3** (*operative transition-scoped remediation requirements*)](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Transitional governance and institutional evolution*).
+- Read with: **Article III-A** (*Survival*); **Article XIII** (*Right to Reliable and Trustworthy Systems*); **Article XI-G** (*Collective Harm Boundary and Enforcement Interface*); **Chapter Nine**; **Chapter One**, including §6 rights-collision procedure; the **default constraint stack** at the opening of Chapter Six (*possession and remediation interface*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface--article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives) (*non-compliant property, seizure, voluntary incentives*) through **CI-14.3** (*operative transition-scoped remediation requirements*)](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives) (*Transitional governance and institutional evolution*).
 
 </details>
 
@@ -549,7 +549,7 @@ This Article sets out the floors for remediating non-compliant property and syst
   - **Others are protected:** non-culpable co-owners, creditors, dependents, and good-faith third parties keep the compensation and replacement protections below. The **Article VI-B** (*Sentience-Status Adjudication Floor*) preservation rule applies unchanged to any system with a credible sentience indicator.
   - **No evasion:** transfers of title, shell holders, nominal ownership, successors, and relabeling do not defeat the qualifier ([Chapter Ten §9.4 Anti-evasion and look-through authority](core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)).
   - **Not transition-only:** the transition-plan and "during transition only" limits in this Article govern remediation of non-compliance. They neither delay nor widen measures against anti-constitutional use.
-- **Transition-scoped remediation:** A **documented transition plan** under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) may authorize accelerated remediation of **materially non-compliant** systems or property during transition only, under the safeguards below. Scope, allowed measures, and procedure are set out in [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*non-compliant property, seizure, voluntary incentives*) through [**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements) (*operative transition-scoped remediation requirements*).
+- **Transition-scoped remediation:** A **documented transition plan** under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) may authorize accelerated remediation of **materially non-compliant** systems or property during transition only, under the safeguards below. Scope, allowed measures, and procedure are set out in [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxviii-d-non-compliant-property-seizure-voluntary-incentives) (*non-compliant property, seizure, voluntary incentives*) through [**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-143-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives--operative-transition-scoped-remediation-requirements) (*operative transition-scoped remediation requirements*).
 - **Required safeguards:** Any transition-scoped deprivation or incentive program must satisfy:
   - the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_01_b_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle), with demonstrable **Necessity** and **Proportionality**;
   - prompt notice, stated reasons, and a practicable contest path; and
@@ -560,9 +560,9 @@ This Article sets out the floors for remediating non-compliant property and syst
   - review by someone independent of the enforcement decision; and
   - fair compensation or replacement protections for sentients who were not at fault but still lose out.
   
-  Where the property is a system for which a credible sentience indicator is on the record or a status case is open under **Article VI-B** (*Sentience-Status Adjudication Floor*), destructive disposition of its state-bearing components is not available; the **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) preservation default controls and the compatible measure is containment under sealed custody.
+  Where the property is a system for which a credible sentience indicator is on the record or a status case is open under **Article VI-B** (*Sentience-Status Adjudication Floor*), destructive disposition of its state-bearing components is not available; the **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) preservation default controls and the compatible measure is containment under sealed custody.
 - **Essential-access guardrail:** Measures under this Article must **not** deprive sentients of **Article III-A** (*Survival*) essentials or tools strictly required for baseline wellbeing, lawful livelihood, or meaningful agency — except where **Necessity** is documented under **Chapter One §13.3** (*Minimization of Avoidable Burden*) and timely substitute provision is feasible where required.
-- **Voluntary incentive floor:** Time-bounded, published incentives for good-faith voluntary turnover or verified reporting may be included in transition plans only when they exclude coerced or bad-faith claims, require **Article XXVII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization for continuation, and keep incentive adjudication separate from enforcement execution where practical, so payout incentives do not control seizure or custody decisions. Program design is governed by **CI-14.3** (*operative transition-scoped remediation requirements*).
+- **Voluntary incentive floor:** Time-bounded, published incentives for good-faith voluntary turnover or verified reporting may be included in transition plans only when they exclude coerced or bad-faith claims, require **Article XXVIII-B** (*Transitional Authority Limits and Reauthorization*) reauthorization for continuation, and keep incentive adjudication separate from enforcement execution where practical, so payout incentives do not control seizure or custody decisions. Program design is governed by **CI-14.3** (*operative transition-scoped remediation requirements*).
 - **Implementation custody:** The working details (triggers, valuation, appeals, custody, funds, reviews, and program operation) belong in **CI-14.1** (*non-compliant property, seizure, voluntary incentives*) through **CI-14.3** (*operative transition-scoped remediation requirements*) and adopting instruments. Those details must **not** narrow this Article, [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) (*Compliance, Violation, and Standing Model*), or **Article XX-B** (*Restriction Floors*).
 
 ---

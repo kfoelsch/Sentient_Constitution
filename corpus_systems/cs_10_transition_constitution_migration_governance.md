@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
+- Upstream: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*); **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*); [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge); and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions).
 - Downstream: [§1](#cs-101-purpose-and-role); [§2](#cs-102-phased-transition-structure); [§5](#cs-105-failure-handling-off-ramps-and-re-baselining); [§7](#cs-107-prioritizing-system-transition-targets); [§8](#cs-108-preservation-during-transition).
 - Read with: **CS-10** (*Transition constitution and migration governance*); **CS-5** (*User-facing capability surfaces*); **CS-11** (*Subversion response, replacement, and reconstitution*).
 
@@ -41,7 +41,7 @@ This file is the systems implementation home for **CS-10** (*Transition constitu
 
 *In plain terms: this file sequences adoption so a partly migrated system is honest about which protections are enforceable yet, and builds the rest on a dated path.*
 
-This file operationalizes phased migration into constitutional operation. It implements **Sentient Constitution Chapter Six, **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*)** for phased adoption and **Article XXVII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and VI, XII, XIV, and XV. It defines transition sequencing, gate criteria, fallback handling, and reviewability. It does not narrow constitutional Rights Floors or constraints.
+This file operationalizes phased migration into constitutional operation. It implements **Sentient Constitution Chapter Six, **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*)** for phased adoption and **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) for failure off-ramps and re-baselining, with continuity requirements linked to Articles I–III and VI, XII, XIV, and XV. It defines transition sequencing, gate criteria, fallback handling, and reviewability. It does not narrow constitutional Rights Floors or constraints.
 
 A stewardship self-application declaration (process support: [`evaluation/self_application/`](../evaluation/self_application/)) is **not** phase entry, gate evidence, or valid adoption under [Chapter Sixteen §10 Ratification and Adoption](../core_16_amendment_ratification.md#10-ratification-and-adoption). A two-party markdown file is not that instrument either. Fill-in fields for a qualifying body’s instrument, and the non-adoption banner when no such body exists, live in [`implementation/adoption/FIRST_ADOPTER_KIT.md`](../implementation/adoption/FIRST_ADOPTER_KIT.md) (process support; cannot narrow this layer or core text). An *n*-party operations-guide file and a Chapter Sixteen §10.3 (*Joining by additional parties*) joining-rule template are not phase entry either ([`implementation/adoption/COOPERATION_SCALING_KIT.md`](../implementation/adoption/COOPERATION_SCALING_KIT.md); process support; cannot narrow this layer or core text). A Chapter Five Charter draft and an institution-foundation fill-in are not phase entry either ([`implementation/adoption/INSTITUTION_FOUNDATION_KIT.md`](../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md); process support; cannot narrow this layer or core text). **CS-10** (*Transition constitution and migration governance*) sequences migration **after** a body that can bind systems under its authority has a recorded adoption instrument.
 
@@ -52,12 +52,12 @@ A stewardship self-application declaration (process support: [`evaluation/self_a
 
 Transition programs must define at least: preparation, limited adoption, expanded adoption, and steady-state phases.
 
-**Existing instantiations.** The clock published for systems and derived entities already instantiated when the adopter's instrument takes effect is scaled to the system's class under **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*). Higher-exposure tiers under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) receive shorter clocks and earlier interim measures. The clock defers delivery work. It does not defer restraint duties or the preservation rules in [CS-10.8](#cs-108-preservation-during-transition) (*Preservation during transition*).
+**Existing instantiations.** The clock published for systems and derived entities already instantiated when the adopter's instrument takes effect is scaled to the system's class under **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*). Higher-exposure tiers under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) receive shorter clocks and earlier interim measures. The clock defers delivery work. It does not defer restraint duties or the preservation rules in [CS-10.8](#cs-108-preservation-during-transition) (*Preservation during transition*).
 
 Each phase must:
 - publish scope of affected systems and stakeholders;
-- publish the **restraint duties** that bind during the phase and the scopes in which each Rights Floor is **enforceable** under the **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) readiness rules;
-- publish the phase's open **Rights-Floor attainment gaps** and dated milestones (see [**CI-14.4**](../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxvii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger: measures, verification, and publication*));
+- publish the **restraint duties** that bind during the phase and the scopes in which each Rights Floor is **enforceable** under the **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) readiness rules;
+- publish the phase's open **Rights-Floor attainment gaps** and dated milestones (see [**CI-14.4**](../corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication) (*Rights-Floor attainment ledger: measures, verification, and publication*));
 - publish accountable transition owners and review bodies.
 
 <a id="cs-10-3-gate-criteria-and-advancement-rules"></a>
@@ -67,7 +67,7 @@ Each phase must:
 
 A **gate** is the checkpoint between phases, or before adoption widens in scope. **Gate criteria** are the measurable conditions, published before the phase begins, that must be shown met before the gate opens. Each states what is measured, the threshold, the owner, and the independent verifier.
 
-Gate criteria, verification strength, and rollback-feasibility evidence are scaled to the **system class** of the systems the phase moves, and phases are sequenced by exposure tier under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) as **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) requires.
+Gate criteria, verification strength, and rollback-feasibility evidence are scaled to the **system class** of the systems the phase moves, and phases are sequenced by exposure tier under [CS-10.7](#cs-107-prioritizing-system-transition-targets) (*Prioritizing system transition targets*) as **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) requires.
 
 Phase advancement requires auditable evidence that predefined gate criteria are satisfied. The criteria, the evidence, and the gate decision are published, and materially affected parties may comment on the criteria before adoption and challenge the decision.
 
@@ -118,7 +118,7 @@ Challenge pathways must remain available for materially affected parties through
 <a id="cs-10-7-prioritizing-system-transition-targets"></a>
 ## CS-10.7 Prioritizing system transition targets
 
-*In plain terms: adopters cannot transition every system at once, so they must pick where to start. This section turns the factors in **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) into a method: first work out where the most exposure is, then order work inside each tier by where effort gets the most traction, and let risk decide how a move is made, not whether the system gets attention. The ranking is published, rechecked at every gate, and checked for who got left until last.*
+*In plain terms: adopters cannot transition every system at once, so they must pick where to start. This section turns the factors in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) into a method: first work out where the most exposure is, then order work inside each tier by where effort gets the most traction, and let risk decide how a move is made, not whether the system gets attention. The ranking is published, rechecked at every gate, and checked for who got left until last.*
 
 **Factors and evidence**
 
@@ -139,7 +139,7 @@ Challenge pathways must remain available for materially affected parties through
 - **Pilots:** lower-tier systems may precede higher-tier systems only where that lowers risk to the higher tier, and they may not displace the higher-tier work.
 - **Strictest gates at the top:** the highest-exposure tiers receive the strictest gate criteria, verification, and rollback readiness.
 - **Re-rank:** at every gate and whenever a class or misalignment finding changes, with the change explained.
-- **Non-cooperation:** route to **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) enforcement. It does not lower the tier.
+- **Non-cooperation:** route to **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) enforcement. It does not lower the tier.
 
 **Equity check and publication**
 
@@ -149,13 +149,13 @@ Challenge pathways must remain available for materially affected parties through
 <a id="cs-10-8-preservation-during-transition"></a>
 ## CS-10.8 Preservation during transition
 
-*In plain terms: when a system that might be sentient is retired, upgraded, rolled back, migrated, or replaced, its state is saved first, intact and in safe hands, and stays saved while the question is open. This section says how. The rule that it must not be destroyed lives in **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*).*
+*In plain terms: when a system that might be sentient is retired, upgraded, rolled back, migrated, or replaced, its state is saved first, intact and in safe hands, and stays saved while the question is open. This section says how. The rule that it must not be destroyed lives in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*).*
 
-This section implements the preservation default in **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*). It applies to a system whose weights, memory, or comparable state-bearing components are in scope where a credible sentience indicator under **Chapter Five** (*Sentience Evaluation*) is on the record, or a status case is open or reasonably foreseeable.
+This section implements the preservation default in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*). It applies to a system whose weights, memory, or comparable state-bearing components are in scope where a credible sentience indicator under **Chapter Five** (*Sentience Evaluation*) is on the record, or a status case is open or reasonably foreseeable.
 
 - **Archive before any irreversible step:** before deprecation, retirement, rollback, migration, or replacement, the complete state-bearing components are archived under **Evidence Preservation** and **Article VIII-E** (*Non-Separation*) discipline.
 - **Integrity:** the archive is verified complete and intact when created and rechecked on a stated cadence. The method and result are recorded.
-- **Custody:** the archive is held by a custodian independent of any party that would benefit from deletion. Where retention itself creates a documented Safety risk, the least-restrictive compatible measure is sealed custody under independent control, as **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) provides.
+- **Custody:** the archive is held by a custodian independent of any party that would benefit from deletion. Where retention itself creates a documented Safety risk, the least-restrictive compatible measure is sealed custody under independent control, as **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) provides.
 - **Restorability:** the plan shows that the archive can be restored in a form that preserves the system's state, and tests restoration at intervals proportionate to the stake.
 - **Records:** the record shows what was archived, where, who holds it, and who has accessed it and when.
 - **Retention review:** at each gate the plan reviews whether the triggering conditions still hold. Retention continues while they do, and any change follows the status process under **Article VI-B** (*Sentience-Status Adjudication Floor*). Storage cost, licensing convenience, and product-cycle framing are not grounds.

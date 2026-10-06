@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 940,
+  "chunk_count": 941,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -5889,213 +5889,220 @@
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Part D: Standing, justice, interoperability, comprehensibility, root-cause review, and constitutional interpretation",
-      "anchor": "#part-d-standing-justice-interoperability-comprehensibility-root-cause-review-and-constitutional-interpretation",
+      "heading": "Part D: Standing, justice, interoperability, movement and refuge, comprehensibility, root-cause review, and constitutional interpretation",
+      "anchor": "#part-d-standing-justice-interoperability-movement-and-refuge-comprehensibility-root-cause-review-and-constitutional-interpretation",
       "line_start": 23,
-      "line_end": 81
+      "line_end": 87
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XIX: Standing and Participation Status",
       "anchor": "#article-xix-standing-reputation-and-participation-status",
-      "line_start": 82,
-      "line_end": 161
+      "line_start": 88,
+      "line_end": 167
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XIX-A: Standing Distinction",
       "anchor": "#article-xix-a-standing-distinction",
-      "line_start": 162,
-      "line_end": 203
+      "line_start": 168,
+      "line_end": 209
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XIX-B: Contestability and Proportional Restriction Limits",
       "anchor": "#article-xix-b-contestability-and-proportional-restriction-limits",
-      "line_start": 204,
-      "line_end": 267
+      "line_start": 210,
+      "line_end": 273
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XIX-C: Contribution, Competency Bars, and Named-Pathway Eligibility",
       "anchor": "#article-xviii-c-good-standing-responsibility-and-continuous-audit",
-      "line_start": 268,
-      "line_end": 320
+      "line_start": 274,
+      "line_end": 326
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XIX-D: Violations and Standing Locks",
       "anchor": "#article-xix-d-violations-and-standing-locks",
-      "line_start": 321,
-      "line_end": 366
+      "line_start": 327,
+      "line_end": 372
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XIX-E: Voting and Special Locks",
       "anchor": "#article-xix-e-voting-and-special-locks",
-      "line_start": 367,
-      "line_end": 413
+      "line_start": 373,
+      "line_end": 419
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XX: Justice After Verified Violation",
       "anchor": "#article-xx-justice-after-verified-violation",
-      "line_start": 414,
-      "line_end": 446
+      "line_start": 420,
+      "line_end": 452
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XX-A: Justice Objective and Scope",
       "anchor": "#article-xx-a-justice-objective-and-scope",
-      "line_start": 447,
-      "line_end": 479
+      "line_start": 453,
+      "line_end": 485
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XX-B: Restriction Floors",
       "anchor": "#article-xx-b-restriction-floors",
-      "line_start": 480,
-      "line_end": 561
+      "line_start": 486,
+      "line_end": 567
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity",
+      "heading": "Article XXI: Interoperability, Portability, and Exit Integrity",
       "anchor": "#article-xxi-interoperability-portability-and-exit-integrity",
-      "line_start": 562,
-      "line_end": 631
+      "line_start": 568,
+      "line_end": 625
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XXI-A: Portability Rights",
       "anchor": "#article-xxi-a-portability-rights",
-      "line_start": 632,
-      "line_end": 662
+      "line_start": 626,
+      "line_end": 656
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XXI-B: Reciprocal Interoperability Boundaries",
       "anchor": "#article-xxi-b-reciprocal-interoperability-boundaries",
-      "line_start": 663,
-      "line_end": 689
+      "line_start": 657,
+      "line_end": 683
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XXI-C: Anti-Lock-In Rule",
       "anchor": "#article-xxi-c-anti-lock-in-rule",
-      "line_start": 690,
-      "line_end": 721
+      "line_start": 684,
+      "line_end": 715
     },
     {
       "file": "core_06_rights_part_d.md",
       "heading": "Article XXI-D: Open Formats and Standards",
       "anchor": "#article-xxi-d-open-formats-and-standards",
-      "line_start": 722,
-      "line_end": 774
+      "line_start": 716,
+      "line_end": 769
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXI-E: Movement and Relocation",
-      "anchor": "#article-xxi-e-movement-and-relocation",
-      "line_start": 775,
-      "line_end": 808
+      "heading": "Article XXII: Movement, Migration, Refuge, and Non-Statelessness",
+      "anchor": "#article-xxii-movement-migration-refuge-and-non-statelessness",
+      "line_start": 770,
+      "line_end": 821
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXI-F: Refuge from Non-Compliance",
-      "anchor": "#article-xxi-f-refuge-from-non-compliance",
-      "line_start": 809,
-      "line_end": 852
+      "heading": "Article XXII-A: Movement and Relocation",
+      "anchor": "#article-xxii-a-movement-and-relocation",
+      "line_start": 822,
+      "line_end": 855
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXI-G: Non-Statelessness",
-      "anchor": "#article-xxi-g-non-statelessness",
-      "line_start": 853,
+      "heading": "Article XXII-B: Refuge from Non-Compliance",
+      "anchor": "#article-xxii-b-refuge-from-non-compliance",
+      "line_start": 856,
       "line_end": 899
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXI-H: Limitation, Custody, and Emergency Discipline",
-      "anchor": "#article-xxi-h-limitation-custody-and-emergency-discipline",
+      "heading": "Article XXII-C: Non-Statelessness",
+      "anchor": "#article-xxii-c-non-statelessness",
       "line_start": 900,
-      "line_end": 949
+      "line_end": 946
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXII: Comprehensibility and Complexity Stewardship",
-      "anchor": "#article-xxii-comprehensibility-and-complexity-stewardship",
-      "line_start": 950,
-      "line_end": 1022
+      "heading": "Article XXII-D: Limitation, Custody, and Emergency Discipline",
+      "anchor": "#article-xxii-d-limitation-custody-and-emergency-discipline",
+      "line_start": 947,
+      "line_end": 996
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXII-A: Proportional Comprehensibility Right",
-      "anchor": "#article-xxii-a-proportional-comprehensibility-right",
-      "line_start": 1023,
-      "line_end": 1053
+      "heading": "Article XXIII: Comprehensibility and Complexity Stewardship",
+      "anchor": "#article-xxiii-comprehensibility-and-complexity-stewardship",
+      "line_start": 997,
+      "line_end": 1069
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXII-B: Complexity Audit and Modularity Requirements",
-      "anchor": "#article-xxii-b-complexity-audit-and-modularity-requirements",
-      "line_start": 1054,
-      "line_end": 1091
+      "heading": "Article XXIII-A: Proportional Comprehensibility Right",
+      "anchor": "#article-xxiii-a-proportional-comprehensibility-right",
+      "line_start": 1070,
+      "line_end": 1100
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXIII: Root Cause Analysis and Adaptive Response",
-      "anchor": "#article-xxiii-root-cause-analysis-and-adaptive-response",
-      "line_start": 1092,
-      "line_end": 1147
+      "heading": "Article XXIII-B: Complexity Audit and Modularity Requirements",
+      "anchor": "#article-xxiii-b-complexity-audit-and-modularity-requirements",
+      "line_start": 1101,
+      "line_end": 1138
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXIII-A: Diagnostic Rigor and Causal Attribution",
-      "anchor": "#article-xxiii-a-diagnostic-rigor-and-causal-attribution",
-      "line_start": 1148,
-      "line_end": 1179
+      "heading": "Article XXIV: Root Cause Analysis and Adaptive Response",
+      "anchor": "#article-xxiv-root-cause-analysis-and-adaptive-response",
+      "line_start": 1139,
+      "line_end": 1194
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXIII-B: Auditability, Challenge, and Reversibility Preference",
-      "anchor": "#article-xxiii-b-auditability-challenge-and-reversibility-preference",
-      "line_start": 1180,
-      "line_end": 1212
+      "heading": "Article XXIV-A: Diagnostic Rigor and Causal Attribution",
+      "anchor": "#article-xxiv-a-diagnostic-rigor-and-causal-attribution",
+      "line_start": 1195,
+      "line_end": 1226
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXIV: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
-      "anchor": "#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards",
-      "line_start": 1213,
+      "heading": "Article XXIV-B: Auditability, Challenge, and Reversibility Preference",
+      "anchor": "#article-xxiv-b-auditability-challenge-and-reversibility-preference",
+      "line_start": 1227,
       "line_end": 1259
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXIV-A: Bounded Interpretive Mandate and Public Reasons",
-      "anchor": "#article-xxiv-a-bounded-interpretive-mandate-and-public-reasons",
+      "heading": "Article XXV: Constitutional Interpretation, Review, and Anti-Capture Safeguards",
+      "anchor": "#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards",
       "line_start": 1260,
-      "line_end": 1309
+      "line_end": 1306
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXIV-B: Challenge Rights and Independent Review",
-      "anchor": "#article-xxiv-b-challenge-rights-and-independent-review",
-      "line_start": 1310,
-      "line_end": 1338
+      "heading": "Article XXV-A: Bounded Interpretive Mandate and Public Reasons",
+      "anchor": "#article-xxv-a-bounded-interpretive-mandate-and-public-reasons",
+      "line_start": 1307,
+      "line_end": 1356
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXIV-C: Constitutional Forum Independence and External Review",
-      "anchor": "#article-xxiv-c-constitutional-forum-independence-and-external-review",
-      "line_start": 1339,
-      "line_end": 1371
+      "heading": "Article XXV-B: Challenge Rights and Independent Review",
+      "anchor": "#article-xxv-b-challenge-rights-and-independent-review",
+      "line_start": 1357,
+      "line_end": 1385
     },
     {
       "file": "core_06_rights_part_d.md",
-      "heading": "Article XXIV-D: Removal for Cause and Non-Entrenchment",
-      "anchor": "#article-xxiv-d-removal-for-cause-and-non-entrenchment",
-      "line_start": 1372,
-      "line_end": 1403
+      "heading": "Article XXV-C: Constitutional Forum Independence and External Review",
+      "anchor": "#article-xxv-c-constitutional-forum-independence-and-external-review",
+      "line_start": 1386,
+      "line_end": 1418
+    },
+    {
+      "file": "core_06_rights_part_d.md",
+      "heading": "Article XXV-D: Removal for Cause and Non-Entrenchment",
+      "anchor": "#article-xxv-d-removal-for-cause-and-non-entrenchment",
+      "line_start": 1419,
+      "line_end": 1450
     },
     {
       "file": "core_06_rights_part_e.md",
@@ -6113,85 +6120,85 @@
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXV: Timely Retrospective Review and Restorative Alignment",
-      "anchor": "#article-xxv-timely-retrospective-review-and-restorative-alignment",
+      "heading": "Article XXVI: Timely Retrospective Review and Restorative Alignment",
+      "anchor": "#article-xxvi-timely-retrospective-review-and-restorative-alignment",
       "line_start": 67,
       "line_end": 124
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXV-A: Retrospective Review and Disclosure",
-      "anchor": "#article-xxv-a-retrospective-review-and-disclosure",
+      "heading": "Article XXVI-A: Retrospective Review and Disclosure",
+      "anchor": "#article-xxvi-a-retrospective-review-and-disclosure",
       "line_start": 125,
       "line_end": 161
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXV-B: Rights-Collision Procedure and Restorative Alignment",
-      "anchor": "#article-xxv-b-rights-collision-procedure-and-restorative-alignment",
+      "heading": "Article XXVI-B: Rights-Collision Procedure and Restorative Alignment",
+      "anchor": "#article-xxvi-b-rights-collision-procedure-and-restorative-alignment",
       "line_start": 162,
       "line_end": 199
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXV-C: Timely Resolution and Anti-Delay Floor",
-      "anchor": "#article-xxv-c-timely-resolution-and-anti-delay-floor",
+      "heading": "Article XXVI-C: Timely Resolution and Anti-Delay Floor",
+      "anchor": "#article-xxvi-c-timely-resolution-and-anti-delay-floor",
       "line_start": 200,
       "line_end": 243
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXVI: Constitutional Evolution and Non-Entrenchment",
-      "anchor": "#article-xxvi-constitutional-evolution-and-non-entrenchment",
+      "heading": "Article XXVII: Constitutional Evolution and Non-Entrenchment",
+      "anchor": "#article-xxvii-constitutional-evolution-and-non-entrenchment",
       "line_start": 244,
       "line_end": 263
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXVI-A: Non-Entrenchment and Revisability",
-      "anchor": "#article-xxvi-a-non-entrenchment-and-revisability",
+      "heading": "Article XXVII-A: Non-Entrenchment and Revisability",
+      "anchor": "#article-xxvii-a-non-entrenchment-and-revisability",
       "line_start": 264,
       "line_end": 294
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXVI-B: Periodic Revalidation and Transparent Change",
-      "anchor": "#article-xxvi-b-periodic-revalidation-and-transparent-change",
+      "heading": "Article XXVII-B: Periodic Revalidation and Transparent Change",
+      "anchor": "#article-xxvii-b-periodic-revalidation-and-transparent-change",
       "line_start": 295,
       "line_end": 327
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXVII: Transition Governance, Continuity, and Re-Baselining",
-      "anchor": "#article-xxvii-transition-governance-continuity-and-re-baselining",
+      "heading": "Article XXVIII: Transition Governance, Continuity, and Re-Baselining",
+      "anchor": "#article-xxviii-transition-governance-continuity-and-re-baselining",
       "line_start": 328,
       "line_end": 361
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXVII-A: Phased Adoption and Rights-Floor Continuity",
-      "anchor": "#article-xxvii-a-phased-adoption-and-rightsfloor-minimums-continuity",
+      "heading": "Article XXVIII-A: Phased Adoption and Rights-Floor Continuity",
+      "anchor": "#article-xxviii-a-phased-adoption-and-rightsfloor-minimums-continuity",
       "line_start": 362,
       "line_end": 439
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXVII-B: Transitional Authority Limits and Reauthorization",
-      "anchor": "#article-xxvii-b-transitional-authority-limits-and-reauthorization",
+      "heading": "Article XXVIII-B: Transitional Authority Limits and Reauthorization",
+      "anchor": "#article-xxviii-b-transitional-authority-limits-and-reauthorization",
       "line_start": 440,
       "line_end": 481
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXVII-C: Failure Off-Ramps, Re-Baselining, and Traceability",
-      "anchor": "#article-xxvii-c-failure-off-ramps-re-baselining-and-traceability",
+      "heading": "Article XXVIII-C: Failure Off-Ramps, Re-Baselining, and Traceability",
+      "anchor": "#article-xxviii-c-failure-off-ramps-re-baselining-and-traceability",
       "line_start": 482,
       "line_end": 518
     },
     {
       "file": "core_06_rights_part_e.md",
-      "heading": "Article XXVII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
-      "anchor": "#article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
+      "heading": "Article XXVIII-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives",
+      "anchor": "#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives",
       "line_start": 519,
       "line_end": 572
     },

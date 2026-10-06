@@ -18,12 +18,12 @@ Insert after **Cross-forum anti-self-judging rule**, same section, same house st
 
 - **Owner envelope.** An owner of a procedure may change how, when, by whom, on what record, and on what clock a duty is carried out. An owner may not change what is owed, to whom, or at what threshold.
 - **Floor-touching change.** A procedure change is **floor-touching** if it would, in practice, do any of the following:
-  - delay a remedy or lengthen a clock beyond the **Article XXV-C** tier outer bounds;
+  - delay a remedy or lengthen a clock beyond the **Article XXVI-C** tier outer bounds;
   - narrow who may participate, be represented, or contest;
   - remove, hide, or make costlier a published challenge path;
   - reduce the record available to an affected sentient or to a reviewing forum.
 - **Floor-touching changes are constitutional questions.** They are not decided by the procedure's owner alone. They go to certification under **section 5**.
-- **Change record and contest window.** A material procedure change must carry a public change record (reasons, expected effects, and the clocks or paths it touches) under the **Material-change record** floor in **Article XXVI-B**. It takes effect only after a published contest window. Retroactive change of a pending matter's procedure is not allowed unless the affected sentient consents or an interim order under **section 5** permits it.
+- **Change record and contest window.** A material procedure change must carry a public change record (reasons, expected effects, and the clocks or paths it touches) under the **Material-change record** floor in **Article XXVII-B**. It takes effect only after a published contest window. Retroactive change of a pending matter's procedure is not allowed unless the affected sentient consents or an interim order under **section 5** permits it.
 - **Lead forum.**
   - Disputes about ownership or scope of a procedure go first to the **Institutional** forum, which already applies **section 4.7** operational law.
   - A dispute whose primary issue is that the owner's own process is biased, captured, or abusive is covered by the **cross-forum anti-self-judging rule** and routes as that rule assigns.
@@ -42,7 +42,7 @@ To sit in `corpus_institutions.md` near **CI-6** (procedure), not in the core:
 
 ## Part 3. Integration notes
 
-**What this reuses.** Institutional forums and **section 4.7**, certification under **section 5**, the anti-self-judging assignments, interim protection and coordinating-forum language, the **Article XXV-C** anti-delay floor and material-change record, and role-separation lanes **CI-3** and **CI-6**.
+**What this reuses.** Institutional forums and **section 4.7**, certification under **section 5**, the anti-self-judging assignments, interim protection and coordinating-forum language, the **Article XXVI-C** anti-delay floor and material-change record, and role-separation lanes **CI-3** and **CI-6**.
 
 **What is new.** The term *process-ownership dispute*, the *floor-touching* test, the contest window, and the "prior procedure stays in force" interim default.
 
@@ -52,7 +52,7 @@ To sit in `corpus_institutions.md` near **CI-6** (procedure), not in the core:
 
 ## Part 4. Open questions for the author
 
-1. **Is "floor-touching" the right test?** It is deliberately narrow, tied to Article XXV-C, Participation and Contestability. Too narrow lets process stewards erode rights through small steps. Too broad turns every form change into a constitutional case.
+1. **Is "floor-touching" the right test?** It is deliberately narrow, tied to Article XXVI-C, Participation and Contestability. Too narrow lets process stewards erode rights through small steps. Too broad turns every form change into a constitutional case.
 2. **Who files?** Any materially affected sentient, or only designated stakeholder stewards? Steward-only filing risks a new gatekeeper.
 3. **Contest window length** and whether it should differ by tier.
 4. **Pattern abuse.** Many small non-floor changes can add up to a floor-touching one. Should the forum be able to treat a series as one change?

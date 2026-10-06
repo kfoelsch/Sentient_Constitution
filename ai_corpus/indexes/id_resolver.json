@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-06T13:26:42+00:00",
+  "generated_at": "2026-10-06T14:00:16+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1309,36 +1309,36 @@
     },
     "CI-14.1": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-141-interface-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
-      "heading": "CI-14.1: Interface — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)",
+      "anchor": "#ci-141-interface-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
+      "heading": "CI-14.1: Interface — **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)",
       "line": 81,
       "kind": "section"
     },
     "CI-14.2": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-142-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-trigger-catalog-anti-abuse-metrics-and-publication-requirements",
-      "heading": "CI-14.2: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements",
+      "anchor": "#ci-142-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-trigger-catalog-anti-abuse-metrics-and-publication-requirements",
+      "heading": "CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements",
       "line": 110,
       "kind": "section"
     },
     "CI-14.3": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements",
-      "heading": "CI-14.3: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements",
+      "anchor": "#ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements",
+      "heading": "CI-14.3: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements",
       "line": 158,
       "kind": "section"
     },
     "CI-14.4": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication",
-      "heading": "CI-14.4: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication",
+      "anchor": "#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication",
+      "heading": "CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication",
       "line": 230,
       "kind": "section"
     },
     "CI-14.5": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-145-article-xxvii-a-prioritizing-institutional-transition-targets",
-      "heading": "CI-14.5: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets",
+      "anchor": "#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets",
+      "heading": "CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets",
       "line": 360,
       "kind": "section"
     },

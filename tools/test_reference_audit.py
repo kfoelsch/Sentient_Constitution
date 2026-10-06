@@ -25,8 +25,8 @@ class SemanticRuleGuardTests(unittest.TestCase):
             "VI": "Equal Basic Rights",
             "XVII": "System Lifecycle, Environments, and Reversibility",
             "XIX": "Standing and Participation Status",
-            "XXII": "Comprehensibility and Complexity Stewardship",
-            "XXIII": "Root Cause Analysis and Adaptive Response",
+            "XXIII": "Comprehensibility and Complexity Stewardship",
+            "XXIV": "Root Cause Analysis and Adaptive Response",
             "XX": "Justice After Verified Violation",
         }
 

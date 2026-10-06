@@ -43,7 +43,7 @@ A branch name tells reviewers what the work is. It should describe the work the 
 
 **When to change the name.**
 
-- The branch name describes earlier work and this session is doing something different. Example: `restructure-justice-article-xx-part-split` now carries Article XXVII commits.
+- The branch name describes earlier work and this session is doing something different. Example: `restructure-justice-article-xx-part-split` now carries Article XXVIII commits.
 - The new work is unrelated to the commits already on the branch. Start a new branch from `main` instead of renaming, so each branch stays about one piece of work.
 - The name is vague (`fix`, `updates`, `wip`) or has no scope.
 
@@ -74,7 +74,7 @@ Gate: manual. [CONTRIBUTING.md](CONTRIBUTING.md) leaves contributor branch names
 | Layer | Primary home | Routing |
 |--------|--------------|---------|
 | Values, definition mechanics, definitions | Sentient Constitution `core_*` Ch 1–5 | [README.md](README.md) reading order |
-| Rights (Articles I–XXVII) | Ch 6 | `core_06_rights_part_*.md`; titles via `make reference-audit` |
+| Rights (Articles I–XXVIII) | Ch 6 | `core_06_rights_part_*.md`; titles via `make reference-audit` |
 | Functional independence and segregation of duties | Ch 7 | `core_07_functional_independence_segregation_of_duties.md`; four-seat floor, Materially Binding Act Record minimum, control-line independence, published placement, substitutes, proportionate merged hosting, emergency departures, and wrong-seat routing |
 | System alignment certification | Ch 8 | `core_08_a_system_alignment_certification_evaluation.md` (Part A — evaluation); `core_08_b_system_alignment_certification_record_process.md` (Part B — record and process); `core_08_c_system_alignment_certification_illustrations.md` (Part C — worked illustrations); reading index: `core_08_system_alignment_certification.md`. Under **oversight**, oversight requires auditing (**Article XVI** / [Auditability](core_05_band_oversight.md#auditability) / **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** and **CJS-3.3**–**CJS-3.5** OP annexes); Ch 8 is one especially large, high-stakes audit process among others — not the sole auditing home. |
 | Standing records and measurement (Questions 1 and 2) | Ch 9 | `core_09_standing_assessment.md`; verified records and Contribution Axis / Violation Axis slots |
@@ -97,7 +97,7 @@ Gate: manual. [CONTRIBUTING.md](CONTRIBUTING.md) leaves contributor branch names
 2. **Implementation files own** *how* (taxonomies, protocols, institutions, forums, joint interlocks).
 3. **No duplicate definitions** across layers — implementation files *apply* Chapter Five terms.
 4. **Stricter wins** where the corpus already says so; core values and rights prevail over conflicting operational wording.
-5. **Chapter Six implements detail** for Articles I–XXVII; do not invent parallel Rights Floors in implementation files.
+5. **Chapter Six implements detail** for Articles I–XXVIII; do not invent parallel Rights Floors in implementation files.
 
 ---
 
@@ -950,7 +950,7 @@ When a Chapter Six article or subarticle is cited in **body prose** — outside 
 
 **Format:** `**Article {label}** (*{title}*)`
 
-Examples: `**Article XVI-C** (*Verification Accessibility*)`; `**Article XXV-C** (*Timely Resolution and Anti-Delay Floor*)`.
+Examples: `**Article XVI-C** (*Verification Accessibility*)`; `**Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*)`.
 
 **Rules**
 
