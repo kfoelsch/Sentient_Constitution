@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 255,
+  "term_count": 258,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -778,6 +778,13 @@
       "href": "../../core_05_band_participation.md#freedom-bounded-agency"
     },
     {
+      "term": "Full Recognition",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#full-recognition",
+      "plain_terms": "**full recognition** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.",
+      "href": "../../core_05_band_continuity.md#full-recognition"
+    },
+    {
       "term": "Fullest Protective Effect",
       "file": "core_05_band_integrative.md",
       "anchor": "#fullest-protective-effect",
@@ -1352,6 +1359,13 @@
       "href": "../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference"
     },
     {
+      "term": "Provisional Recognition",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#provisional-recognition",
+      "plain_terms": "**provisional recognition** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full recognition.",
+      "href": "../../core_05_band_continuity.md#provisional-recognition"
+    },
+    {
       "term": "Proxy Divergence",
       "file": "core_05_band_oversight.md",
       "anchor": "#proxy-divergence",
@@ -1385,6 +1399,13 @@
       "anchor": "#reasonably-foreseeable",
       "plain_terms": "outcomes a careful analyst using known methods could identify before acting — including under adversarial and scaled conditions — not every conceivable outcome or pure hindsight.",
       "href": "../../core_05_band_oversight.md#reasonably-foreseeable"
+    },
+    {
+      "term": "Recertification",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#recertification",
+      "plain_terms": "**recertification** is the scheduled re-check that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.",
+      "href": "../../core_05_band_continuity.md#recertification"
     },
     {
       "term": "Record Seat",

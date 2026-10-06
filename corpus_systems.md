@@ -67,7 +67,7 @@
 | Stable family | Authoritative subfile |
 |---|---|
 | CS-2, Part A — Handling rules (§1–§8) | [cs_02_a_information_types_and_handling.md](corpus_systems/cs_02_a_information_types_and_handling.md) |
-| CS-2, Part B — Data classifications (§8) | [cs_02_b_data_classifications.md](corpus_systems/cs_02_b_data_classifications.md) |
+| CS-2, Part B — Data classifications (§9) | [cs_02_b_data_classifications.md](corpus_systems/cs_02_b_data_classifications.md) |
 | CS-3, Part A — Classification machinery (§1–§7) | [cs_03_a_system_classification_machinery.md](corpus_systems/cs_03_a_system_classification_machinery.md) |
 | CS-3, Part B — System impact classifications (§8–§13) | [cs_03_b_system_impact_classifications.md](corpus_systems/cs_03_b_system_impact_classifications.md) |
 | CS-4 — Critical system stewardship | [cs_04_critical_system_stewardship.md](corpus_systems/cs_04_critical_system_stewardship.md) |

@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-06T08:12:29+00:00",
+  "generated_at": "2026-10-06T10:39:15+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16350,
+  "edge_count": 16414,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -10012,7 +10012,7 @@
       "source_anchor": "#1323-privacy-and-informational-self-determination",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#privacy-informational",
-      "count": 3
+      "count": 4
     },
     {
       "source_file": "core_01_b_interaction_interpretation.md",
@@ -10020,6 +10020,14 @@
       "source_anchor": "#1323-privacy-and-informational-self-determination",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#protected-internal-state-boundary",
+      "count": 3
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "13.2.3 Privacy and Informational Self-Determination",
+      "source_anchor": "#1323-privacy-and-informational-self-determination",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#identity-data-protection",
       "count": 3
     },
     {
@@ -10060,6 +10068,22 @@
       "source_anchor": "#1323-privacy-and-informational-self-determination",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#protected-internal-state-boundary-constitutional-c",
+      "count": 1
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "13.2.3 Privacy and Informational Self-Determination",
+      "source_anchor": "#1323-privacy-and-informational-self-determination",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#identity-data-protection-a",
+      "count": 2
+    },
+    {
+      "source_file": "core_01_b_interaction_interpretation.md",
+      "source_header": "13.2.3 Privacy and Informational Self-Determination",
+      "source_anchor": "#1323-privacy-and-informational-self-determination",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#identity-data-protection-c",
       "count": 1
     },
     {
@@ -38728,6 +38752,22 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Likeness and Documentary Depiction Interface",
+      "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#95-type-i-identity-and-attribution-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Likeness and Documentary Depiction Interface",
+      "source_anchor": "#likeness-and-documentary-depiction-interface-constitutional",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#96-type-n-neurocognitive-and-internal-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Occupancy Continuity",
       "source_anchor": "#occupancy-continuity-constitutional",
       "target_file": "core_01_a_values_principles.md",
@@ -39112,6 +39152,22 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Privacy (Informational)",
+      "source_anchor": "#privacy-informational",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-22-determination-of-classification",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Privacy (Informational)",
+      "source_anchor": "#privacy-informational",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#cs-29-data-classifications",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Def.C3 Privacy (Informational) — peer-level cluster head",
       "source_anchor": "#privacy-informational-cluster",
       "target_file": "core_00_preamble.md",
@@ -39210,6 +39266,14 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Def.C3 Privacy (Informational) — peer-level cluster head",
       "source_anchor": "#privacy-informational-cluster",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#identity-data-protection",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C3 Privacy (Informational) — peer-level cluster head",
+      "source_anchor": "#privacy-informational-cluster",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#truth-constitutional-constraint",
       "count": 1
@@ -39301,6 +39365,22 @@
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C3 Privacy (Informational) — peer-level cluster head",
+      "source_anchor": "#privacy-informational-cluster",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#privacy-owner-link",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Def.C3 Privacy (Informational) — peer-level cluster head",
+      "source_anchor": "#privacy-informational-cluster",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#privacy-link",
+      "count": 1
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -41736,6 +41816,38 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Surveillance Boundary",
+      "source_anchor": "#surveillance-boundary",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#94-type-h-historical-relational-transactional-and-participation-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Surveillance Boundary",
+      "source_anchor": "#surveillance-boundary",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#95-type-i-identity-and-attribution-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Surveillance Boundary",
+      "source_anchor": "#surveillance-boundary",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#96-type-n-neurocognitive-and-internal-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Surveillance Boundary",
+      "source_anchor": "#surveillance-boundary",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#97-type-s-safety-security-and-restricted-investigation-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Sustainability",
       "source_anchor": "#sustainability",
       "target_file": "core_01_a_values_principles.md",
@@ -42928,6 +43040,14 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "System Data Types Record",
+      "source_anchor": "#system-data-types-record-constitutional",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#13-collection-notice-and-deletion",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "System",
       "source_anchor": "#system-definition",
       "target_file": "core_05_apex_continuity_aim.md",
@@ -43365,6 +43485,30 @@
       "target_file": "core_06_rights_part_b.md",
       "target_anchor": "#article-ix-b-experiential-and-derived-data-rights",
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Training-Data Use",
+      "source_anchor": "#training-data-use-constitutional",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#94-type-h-historical-relational-transactional-and-participation-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Training-Data Use",
+      "source_anchor": "#training-data-use-constitutional",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#95-type-i-identity-and-attribution-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Training-Data Use",
+      "source_anchor": "#training-data-use-constitutional",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#96-type-n-neurocognitive-and-internal-data",
+      "count": 1
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -48835,7 +48979,7 @@
       "source_header": "Public Oversight Baseline Disclosure",
       "source_anchor": "#public-oversight-baseline-disclosure",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "count": 1
     },
     {
@@ -54400,6 +54544,30 @@
     },
     {
       "source_file": "core_05_band_participation.md",
+      "source_header": "Protected Characteristics",
+      "source_anchor": "#protected-characteristics-constitutional",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-22-determination-of-classification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Protected Characteristics",
+      "source_anchor": "#protected-characteristics-constitutional",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#95-type-i-identity-and-attribution-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Protected Characteristics",
+      "source_anchor": "#protected-characteristics-constitutional",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#96-type-n-neurocognitive-and-internal-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
       "source_header": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
       "source_anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
       "target_file": "core_01_a_values_principles.md",
@@ -54564,6 +54732,30 @@
       "source_anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+      "source_anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-22-determination-of-classification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+      "source_anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#95-type-i-identity-and-attribution-data",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_participation.md",
+      "source_header": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
+      "source_anchor": "#protected-intimate-signal-gating-and-article-vii-e-status-circumvention",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#96-type-n-neurocognitive-and-internal-data",
       "count": 1
     },
     {
@@ -80338,6 +80530,14 @@
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "3.2 Privacy (Informational) Joint Invocation",
       "source_anchor": "#32-privacy-informational-joint-invocation",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-data-types-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "3.2 Privacy (Informational) Joint Invocation",
+      "source_anchor": "#32-privacy-informational-joint-invocation",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
@@ -80468,6 +80668,22 @@
       "source_anchor": "#37-illustrative-whole-system-application-by-class-non-exhaustive",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
       "target_anchor": "#37-illustrative-whole-system-application-by-class-non-exhaustive",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "3.8 Data Types and Handling Evaluation",
+      "source_anchor": "#38-data-types-and-handling-evaluation",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "3.8 Data Types and Handling Evaluation",
+      "source_anchor": "#38-data-types-and-handling-evaluation",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
       "count": 1
     },
     {
@@ -80620,6 +80836,14 @@
       "source_anchor": "#38-data-types-and-handling-evaluation",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#cs-27-type-o-baseline-for-class-abc-systems",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "3.8 Data Types and Handling Evaluation",
+      "source_anchor": "#38-data-types-and-handling-evaluation",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#privacy-link",
       "count": 1
     },
     {
@@ -125562,6 +125786,54 @@
       "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "source_header": "CS-2.1 Purpose and scope",
       "source_anchor": "#cs-2-1-purpose-and-scope",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1323-privacy-and-informational-self-determination",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.1 Purpose and scope",
+      "source_anchor": "#cs-2-1-purpose-and-scope",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#defc3-privacy-informational--peer-level-cluster-head",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.1 Purpose and scope",
+      "source_anchor": "#cs-2-1-purpose-and-scope",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.1 Purpose and scope",
+      "source_anchor": "#cs-2-1-purpose-and-scope",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.1 Purpose and scope",
+      "source_anchor": "#cs-2-1-purpose-and-scope",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#identity-data-protection",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.1 Purpose and scope",
+      "source_anchor": "#cs-2-1-purpose-and-scope",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#surveillance-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.1 Purpose and scope",
+      "source_anchor": "#cs-2-1-purpose-and-scope",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-data-types-record",
       "count": 1
@@ -125611,6 +125883,14 @@
       "source_header": "CS-2.1 Purpose and scope",
       "source_anchor": "#cs-2-1-purpose-and-scope",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#privacy-link",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.1 Purpose and scope",
+      "source_anchor": "#cs-2-1-purpose-and-scope",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
       "target_anchor": "#cs-2-part-b-data-classifications",
       "count": 2
     },
@@ -125619,7 +125899,7 @@
       "source_header": "CS-2.1 Purpose and scope",
       "source_anchor": "#cs-2-1-purpose-and-scope",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#cs-28-data-classifications",
+      "target_anchor": "#cs-29-data-classifications",
       "count": 1
     },
     {
@@ -125627,7 +125907,7 @@
       "source_header": "CS-2.1 Purpose and scope",
       "source_anchor": "#cs-2-1-purpose-and-scope",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "count": 1
     },
     {
@@ -125643,7 +125923,31 @@
       "source_header": "CS-2.4 Anti-circumvention and integrity of classification",
       "source_anchor": "#cs-2-4-anti-circumvention-and-integrity-of-classification",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#cs-28-data-classifications",
+      "target_anchor": "#cs-29-data-classifications",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.5 Cross-domain governance principles",
+      "source_anchor": "#cs-2-5-cross-domain-governance-principles",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1323-privacy-and-informational-self-determination",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.5 Cross-domain governance principles",
+      "source_anchor": "#cs-2-5-cross-domain-governance-principles",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.5 Cross-domain governance principles",
+      "source_anchor": "#cs-2-5-cross-domain-governance-principles",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
       "count": 1
     },
     {
@@ -125698,6 +126002,14 @@
       "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "source_header": "CS-2.5 Cross-domain governance principles",
       "source_anchor": "#cs-2-5-cross-domain-governance-principles",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#consent",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.5 Cross-domain governance principles",
+      "source_anchor": "#cs-2-5-cross-domain-governance-principles",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#38-data-types-and-handling-evaluation",
       "count": 1
@@ -125731,7 +126043,7 @@
       "source_header": "CS-2.5 Cross-domain governance principles",
       "source_anchor": "#cs-2-5-cross-domain-governance-principles",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#cs-28-data-classifications",
+      "target_anchor": "#cs-29-data-classifications",
       "count": 1
     },
     {
@@ -125739,7 +126051,15 @@
       "source_header": "CS-2.5 Cross-domain governance principles",
       "source_anchor": "#cs-2-5-cross-domain-governance-principles",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_anchor": "#privacy-link",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.5 Cross-domain governance principles",
+      "source_anchor": "#cs-2-5-cross-domain-governance-principles",
+      "target_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "target_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "count": 1
     },
     {
@@ -125786,6 +126106,14 @@
       "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "source_header": "CS-2.7 Type O baseline for Class A/B/C systems",
       "source_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1323-privacy-and-informational-self-determination",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.7 Type O baseline for Class A/B/C systems",
+      "source_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 1
@@ -125810,9 +126138,25 @@
       "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "source_header": "CS-2.7 Type O baseline for Class A/B/C systems",
       "source_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#derived-information",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.7 Type O baseline for Class A/B/C systems",
+      "source_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#constitutional-collision-record",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "source_header": "CS-2.7 Type O baseline for Class A/B/C systems",
+      "source_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
-      "count": 3
+      "count": 4
     },
     {
       "source_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
@@ -125835,7 +126179,7 @@
       "source_header": "CS-2.7 Type O baseline for Class A/B/C systems",
       "source_anchor": "#cs-2-7-type-o-baseline-for-class-a-b-c-systems",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "target_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "count": 1
     },
     {
@@ -125992,219 +126336,379 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.1 Type E: Environmental, emergency, and survival-coordination data",
-      "source_anchor": "#81-type-e-environmental-emergency-and-survival-coordination-data",
+      "source_header": "9.1 Type E: Environmental, emergency, and survival-coordination data",
+      "source_anchor": "#91-type-e-environmental-emergency-and-survival-coordination-data",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.1 Type E: Environmental, emergency, and survival-coordination data",
-      "source_anchor": "#81-type-e-environmental-emergency-and-survival-coordination-data",
+      "source_header": "9.1 Type E: Environmental, emergency, and survival-coordination data",
+      "source_anchor": "#91-type-e-environmental-emergency-and-survival-coordination-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.1 Type E: Environmental, emergency, and survival-coordination data",
-      "source_anchor": "#81-type-e-environmental-emergency-and-survival-coordination-data",
+      "source_header": "9.1 Type E: Environmental, emergency, and survival-coordination data",
+      "source_anchor": "#91-type-e-environmental-emergency-and-survival-coordination-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#51-proportional-access-and-handling",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.1 Type E: Environmental, emergency, and survival-coordination data",
-      "source_anchor": "#81-type-e-environmental-emergency-and-survival-coordination-data",
+      "source_header": "9.1 Type E: Environmental, emergency, and survival-coordination data",
+      "source_anchor": "#91-type-e-environmental-emergency-and-survival-coordination-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#53-tiered-transparency-and-audit-access",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.2 Type G: Governance and operational source data",
-      "source_anchor": "#82-type-g-governance-and-operational-source-data",
+      "source_header": "9.2 Type G: Governance and operational source data",
+      "source_anchor": "#92-type-g-governance-and-operational-source-data",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.2 Type G: Governance and operational source data",
-      "source_anchor": "#82-type-g-governance-and-operational-source-data",
+      "source_header": "9.2 Type G: Governance and operational source data",
+      "source_anchor": "#92-type-g-governance-and-operational-source-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.2.1 Type G access and handling duties",
-      "source_anchor": "#821-type-g-access-and-handling-duties",
+      "source_header": "9.2.1 Type G access and handling duties",
+      "source_anchor": "#921-type-g-access-and-handling-duties",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.2.1 Type G access and handling duties",
-      "source_anchor": "#821-type-g-access-and-handling-duties",
+      "source_header": "9.2.1 Type G access and handling duties",
+      "source_anchor": "#921-type-g-access-and-handling-duties",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.2.1 Type G access and handling duties",
-      "source_anchor": "#821-type-g-access-and-handling-duties",
+      "source_header": "9.2.1 Type G access and handling duties",
+      "source_anchor": "#921-type-g-access-and-handling-duties",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#53-tiered-transparency-and-audit-access",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.2.1 Type G access and handling duties",
-      "source_anchor": "#821-type-g-access-and-handling-duties",
+      "source_header": "9.2.1 Type G access and handling duties",
+      "source_anchor": "#921-type-g-access-and-handling-duties",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#cs-22-determination-of-classification",
       "count": 3
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.2.1 Type G access and handling duties",
-      "source_anchor": "#821-type-g-access-and-handling-duties",
+      "source_header": "9.2.1 Type G access and handling duties",
+      "source_anchor": "#921-type-g-access-and-handling-duties",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#cs-27-type-o-baseline-for-class-abc-systems",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-boundaries",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-classification-record",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-data-types-record",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-certification-record",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-alignment-certification",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
       "count": 5
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#risk-disclosure",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3 Type O: Open public oversight baseline disclosure data",
-      "source_anchor": "#83-type-o-open-public-oversight-baseline-disclosure-data",
+      "source_header": "9.3 Type O: Open public oversight baseline disclosure data",
+      "source_anchor": "#93-type-o-open-public-oversight-baseline-disclosure-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#cs-27-type-o-baseline-for-class-abc-systems",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.4 Type H: Historical, relational, transactional, and participation data",
-      "source_anchor": "#84-type-h-historical-relational-transactional-and-participation-data",
+      "source_header": "9.4 Type H: Historical, relational, transactional, and participation data",
+      "source_anchor": "#94-type-h-historical-relational-transactional-and-participation-data",
+      "target_file": "core_01_b_interaction_interpretation.md",
+      "target_anchor": "#1512-derived-information-principle",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.4 Type H: Historical, relational, transactional, and participation data",
+      "source_anchor": "#94-type-h-historical-relational-transactional-and-participation-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.4 Type H: Historical, relational, transactional, and participation data",
+      "source_anchor": "#94-type-h-historical-relational-transactional-and-participation-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#surveillance-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.4 Type H: Historical, relational, transactional, and participation data",
+      "source_anchor": "#94-type-h-historical-relational-transactional-and-participation-data",
+      "target_file": "core_05_band_integrative.md",
+      "target_anchor": "#derived-information",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.4 Type H: Historical, relational, transactional, and participation data",
+      "source_anchor": "#94-type-h-historical-relational-transactional-and-participation-data",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-b-experiential-and-derived-data-rights",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.4 Type H: Historical, relational, transactional, and participation data",
+      "source_anchor": "#94-type-h-historical-relational-transactional-and-participation-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.5 Type I: Identity and attribution data",
-      "source_anchor": "#85-type-i-identity-and-attribution-data",
+      "source_header": "9.5 Type I: Identity and attribution data",
+      "source_anchor": "#95-type-i-identity-and-attribution-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.5 Type I: Identity and attribution data",
+      "source_anchor": "#95-type-i-identity-and-attribution-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#identity-data-protection",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.5 Type I: Identity and attribution data",
+      "source_anchor": "#95-type-i-identity-and-attribution-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#likeness-and-documentary-depiction-interface",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.5 Type I: Identity and attribution data",
+      "source_anchor": "#95-type-i-identity-and-attribution-data",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-ix-a-self-ownership-of-likeness-and-reputation",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.5 Type I: Identity and attribution data",
+      "source_anchor": "#95-type-i-identity-and-attribution-data",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-a-self-ownership-of-body",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.5 Type I: Identity and attribution data",
+      "source_anchor": "#95-type-i-identity-and-attribution-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.6 Type N: Neurocognitive and internal data",
-      "source_anchor": "#86-type-n-neurocognitive-and-internal-data",
+      "source_header": "9.6 Type N: Neurocognitive and internal data",
+      "source_anchor": "#96-type-n-neurocognitive-and-internal-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#protected-internal-state-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.6 Type N: Neurocognitive and internal data",
+      "source_anchor": "#96-type-n-neurocognitive-and-internal-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.6 Type N: Neurocognitive and internal data",
+      "source_anchor": "#96-type-n-neurocognitive-and-internal-data",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-vii-b-self-ownership-of-mind",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.6 Type N: Neurocognitive and internal data",
+      "source_anchor": "#96-type-n-neurocognitive-and-internal-data",
+      "target_file": "core_06_rights_part_b.md",
+      "target_anchor": "#article-x-a-agency-and-freedom-from-manipulation",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.6 Type N: Neurocognitive and internal data",
+      "source_anchor": "#96-type-n-neurocognitive-and-internal-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.7 Type S: Safety, security, and restricted investigation data",
-      "source_anchor": "#87-type-s-safety-security-and-restricted-investigation-data",
+      "source_header": "9.7 Type S: Safety, security, and restricted investigation data",
+      "source_anchor": "#97-type-s-safety-security-and-restricted-investigation-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#surveillance-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.7 Type S: Safety, security, and restricted investigation data",
+      "source_anchor": "#97-type-s-safety-security-and-restricted-investigation-data",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.7 Type S: Safety, security, and restricted investigation data",
+      "source_anchor": "#97-type-s-safety-security-and-restricted-investigation-data",
+      "target_file": "core_06_rights_part_c.md",
+      "target_anchor": "#article-xiv-a-security-intelligence-and-covert-power-limits",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.7 Type S: Safety, security, and restricted investigation data",
+      "source_anchor": "#97-type-s-safety-security-and-restricted-investigation-data",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 2
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "CS-2.8 Data classifications",
-      "source_anchor": "#cs-2-8-data-classifications",
+      "source_header": "CS-2.9 Data classifications",
+      "source_anchor": "#cs-2-9-data-classifications",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#defc3-privacy-informational--peer-level-cluster-head",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "CS-2.9 Data classifications",
+      "source_anchor": "#cs-2-9-data-classifications",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#privacy-informational",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "CS-2.9 Data classifications",
+      "source_anchor": "#cs-2-9-data-classifications",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
       "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "CS-2.8 Data classifications",
-      "source_anchor": "#cs-2-8-data-classifications",
+      "source_header": "CS-2.9 Data classifications",
+      "source_anchor": "#cs-2-9-data-classifications",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
       "count": 5
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "CS-2.9 Data classifications",
+      "source_anchor": "#cs-2-9-data-classifications",
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-22-determination-of-classification",
+      "count": 1
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
@@ -126224,7 +126728,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.1.1 Type E access and handling duties",
+      "source_header": "9.1.1 Type E access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
@@ -126232,7 +126736,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.1.1 Type E access and handling duties",
+      "source_header": "9.1.1 Type E access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#53-tiered-transparency-and-audit-access",
@@ -126240,7 +126744,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
@@ -126248,7 +126752,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-boundaries",
@@ -126256,7 +126760,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-alignment-certification",
@@ -126264,7 +126768,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-certification-record",
@@ -126272,7 +126776,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-classification-record",
@@ -126280,7 +126784,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-data-types-record",
@@ -126288,7 +126792,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#public-oversight-baseline-disclosure",
@@ -126296,7 +126800,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency",
@@ -126304,7 +126808,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#38-data-types-and-handling-evaluation",
@@ -126312,7 +126816,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#4-system-certification-record",
@@ -126320,7 +126824,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
@@ -126328,7 +126832,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#cs-27-type-o-baseline-for-class-abc-systems",
@@ -126336,7 +126840,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#53-tiered-transparency-and-audit-access",
@@ -126344,7 +126848,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.3.1 Type O access and handling duties",
+      "source_header": "9.3.1 Type O access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#cs-22-determination-of-classification",
@@ -126352,7 +126856,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.4.1 Type H access and handling duties",
+      "source_header": "9.4.1 Type H access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
@@ -126360,7 +126864,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.4.1 Type H access and handling duties",
+      "source_header": "9.4.1 Type H access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#51-proportional-access-and-handling",
@@ -126368,7 +126872,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.4.1 Type H access and handling duties",
+      "source_header": "9.4.1 Type H access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#56-proportional-attribution-and-retention",
@@ -126376,7 +126880,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.5.1 Type I access and handling duties",
+      "source_header": "9.5.1 Type I access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#11-identity-self-ownership-and-recoverability",
@@ -126384,7 +126888,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.5.1 Type I access and handling duties",
+      "source_header": "9.5.1 Type I access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
@@ -126392,7 +126896,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.6.1 Type N access and handling duties",
+      "source_header": "9.6.1 Type N access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
@@ -126400,7 +126904,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.6.1 Type N access and handling duties",
+      "source_header": "9.6.1 Type N access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#53-tiered-transparency-and-audit-access",
@@ -126408,7 +126912,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.7.1 Type S access and handling duties",
+      "source_header": "9.7.1 Type S access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#50-access-posture-bands",
@@ -126416,7 +126920,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.7.1 Type S access and handling duties",
+      "source_header": "9.7.1 Type S access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#53-tiered-transparency-and-audit-access",
@@ -126424,7 +126928,15 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.7.1 Type S access and handling duties",
+      "source_header": "9.7.1 Type S access and handling duties",
+      "source_anchor": null,
+      "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+      "target_anchor": "#cs-22-determination-of-classification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "source_header": "9.7.1 Type S access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": null,
@@ -126432,7 +126944,7 @@
     },
     {
       "source_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "source_header": "8.7.1 Type S access and handling duties",
+      "source_header": "9.7.1 Type S access and handling duties",
       "source_anchor": null,
       "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "target_anchor": null,
@@ -127659,7 +128171,7 @@
       "source_header": "CS-4.10 Competency, succession, and oversight effectiveness",
       "source_anchor": "#cs-4-10-competency-succession-and-oversight-effectiveness",
       "target_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "target_anchor": "#86-type-n-neurocognitive-and-internal-data",
+      "target_anchor": "#96-type-n-neurocognitive-and-internal-data",
       "count": 1
     },
     {

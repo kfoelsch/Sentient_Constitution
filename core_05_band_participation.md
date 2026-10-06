@@ -1213,6 +1213,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
       - lawful employment, employment history, lawful work status, lack of employment, or protected association.
     - **Economic and social station:** economic, property, or social station when used to foreclose Rights-Floor minimums or equitable opportunity.
     - **Open texture:** any other trait or correlate that functions in context as an invidious proxy, consistent with [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion) and [Sentience Evaluation](core_05_band_participation.md#sentience-evaluation-e) requirements.
+  - **Data types:** Stored or inferred protected-characteristic attributes are [**Type I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data) where they attach to an identifiable sentient. Intimate, health, belief, or comparable inferences that reveal internal states are also [**Type N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data). Proxy or correlate data used to infer a characteristic takes the type of what it reveals ([CS-2 Part A §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*Determination of classification*)).
   - **Out of scope:** justified role or safety qualifications that do not use a trait as an invidious basis for exclusion; exploitation, trafficking, lack of [Consent, Sexual](core_05_band_participation.md#consent-sexual), or other independent harm predicates outside consensual adult private sexual conduct.
 <a id="protected-characteristics-constitutional-a"></a>
 - **How to measure and assess**
@@ -1292,6 +1293,7 @@ Operational mechanics — registration, [Charter](core_05_band_continuity.md#cha
       - material disadvantage;
       - exclusion; or
       - neutral-form circumvention of the decriminalization floor.
+  - **Data types:** Intimate media, sexual-history signals, and intimate-status inferences are [**Type I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data) where they attach to an identifiable sentient, and [**Type N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data) where they infer intimate or internal states. The more protective handling governs ([CS-2 Part A §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*Determination of classification*)).
   - **Out of scope:**
     - narrow documented safeguarding uses that meet necessity and proportionality;
     - ordinary trait discrimination that does not use intimate signals;

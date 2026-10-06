@@ -291,7 +291,7 @@ The same surface binds human stewards, AI stewards, and other agents under [Chap
 
 - model weights;
 - private deliberation;
-- protected internal states under **Article VII-B** (*Self-Ownership of Mind*) and **[CS-2 Type N](cs_02_b_data_classifications.md#86-type-n-neurocognitive-and-internal-data)**.
+- protected internal states under **Article VII-B** (*Self-Ownership of Mind*) and **[CS-2 Type N](cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data)**.
 
 **Residual rule.** If internals are the **only remaining attribution path** for a material action, they do **not** stay hidden. If they are not the only path, they are **not** a standing-measurement exemption.
 

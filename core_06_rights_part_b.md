@@ -1012,7 +1012,7 @@ Ownership of experiential or interaction-derived data does not grant the right t
 - bypass data-classification constraints defined in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**;
 - access, infer, reconstruct, or approximate another sentient's internal states (Type N data as defined in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**);
 - misattribute shared events or portray inferred internal states as observed fact;
-- violate consent, privacy, or informational-integrity protections under **Articles I, II, XIII, and XIV**.
+- violate consent, privacy, or informational-integrity protections under **Article VII-A** (*Self-Ownership of Body*), **Article VII-B** (*Self-Ownership of Mind*), **Article IX-A** (*Self-Ownership of Likeness and Reputation*), **Article X-A** (*Agency and Freedom from Manipulation*), **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*), or **Article XV** (*Info-Sphere Integrity*).
 
 All use, storage, transformation, and disclosure of such data must remain subject to:
 - the data-classification requirements in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**;

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-06T08:12:28+00:00",
+  "generated_at": "2026-10-06T10:39:14+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -1399,7 +1399,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 114,
+            "count": 121,
             "anchors": [
               "#avoidable-burden",
               "#avoidable-burden-a",
@@ -1417,6 +1417,9 @@
               "#existential-risk",
               "#existential-risk-a",
               "#existential-risk-c",
+              "#identity-data-protection",
+              "#identity-data-protection-a",
+              "#identity-data-protection-c",
               "#privacy-informational",
               "#privacy-informational-a",
               "#privacy-informational-c",
@@ -4269,7 +4272,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 790,
+            "count": 791,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -4596,6 +4599,27 @@
             "file": "corpus_systems.md",
             "count": 11,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 4,
+            "anchors": [
+              "#13-collection-notice-and-deletion",
+              "#cs-22-determination-of-classification",
+              "#privacy-owner-link"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 11,
+            "anchors": [
+              "#94-type-h-historical-relational-transactional-and-participation-data",
+              "#95-type-i-identity-and-attribution-data",
+              "#96-type-n-neurocognitive-and-internal-data",
+              "#97-type-s-safety-security-and-restricted-investigation-data",
+              "#cs-29-data-classifications",
+              "#privacy-link"
+            ]
           },
           {
             "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
@@ -5198,7 +5222,7 @@
             "file": "corpus_systems/cs_02_b_data_classifications.md",
             "count": 1,
             "anchors": [
-              "#83-type-o-open-public-oversight-baseline-disclosure-data"
+              "#93-type-o-open-public-oversight-baseline-disclosure-data"
             ]
           },
           {
@@ -5588,6 +5612,21 @@
             "file": "corpus_systems.md",
             "count": 1,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
+            "count": 2,
+            "anchors": [
+              "#cs-22-determination-of-classification"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 4,
+            "anchors": [
+              "#95-type-i-identity-and-attribution-data",
+              "#96-type-n-neurocognitive-and-internal-data"
+            ]
           }
         ]
       },
@@ -5956,7 +5995,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 16,
+            "count": 18,
             "anchors": [
               "#contestability",
               "#governance-architecture-decentralization-and-concentration",
@@ -5967,7 +6006,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 68,
+            "count": 69,
             "anchors": [
               "#charter",
               "#cross-system-extraction",
@@ -6160,6 +6199,13 @@
               "#52-reclassification-and-lifecycle-governance",
               "#cs-27-type-o-baseline-for-class-abc-systems",
               "#cs-28-system-data-types-record-governance"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 1,
+            "anchors": [
+              "#privacy-link"
             ]
           },
           {
@@ -13822,25 +13868,32 @@
         "targets": [
           {
             "file": "core_01_b_interaction_interpretation.md",
-            "count": 1,
+            "count": 4,
             "anchors": [
+              "#1323-privacy-and-informational-self-determination",
               "#1512-derived-information-principle"
             ]
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 10,
+            "count": 12,
             "anchors": [
               "#attributable-action",
-              "#attribution-integrity"
+              "#attribution-integrity",
+              "#necessity",
+              "#proportionality"
             ]
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 15,
+            "count": 20,
             "anchors": [
               "#charter",
+              "#defc3-privacy-informational--peer-level-cluster-head",
               "#identity-data-protection",
+              "#privacy-informational",
+              "#protected-internal-state-boundary",
+              "#surveillance-boundary",
               "#system-alignment-certification",
               "#system-boundaries",
               "#system-certification-record",
@@ -13848,11 +13901,26 @@
             ]
           },
           {
+            "file": "core_05_band_integrative.md",
+            "count": 2,
+            "anchors": [
+              "#constitutional-collision-record",
+              "#derived-information"
+            ]
+          },
+          {
             "file": "core_05_band_oversight.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#public-oversight-baseline-disclosure",
               "#transparency"
+            ]
+          },
+          {
+            "file": "core_05_band_participation.md",
+            "count": 1,
+            "anchors": [
+              "#consent"
             ]
           },
           {
@@ -13902,11 +13970,12 @@
           },
           {
             "file": "corpus_systems/cs_02_b_data_classifications.md",
-            "count": 12,
+            "count": 14,
             "anchors": [
-              "#83-type-o-open-public-oversight-baseline-disclosure-data",
+              "#93-type-o-open-public-oversight-baseline-disclosure-data",
               "#cs-2-part-b-data-classifications",
-              "#cs-28-data-classifications",
+              "#cs-29-data-classifications",
+              "#privacy-link",
               "#type-s-interaction-with-type-e"
             ]
           },
@@ -13928,15 +13997,35 @@
         "source": "corpus_systems/cs_02_b_data_classifications.md",
         "targets": [
           {
+            "file": "core_01_b_interaction_interpretation.md",
+            "count": 1,
+            "anchors": [
+              "#1512-derived-information-principle"
+            ]
+          },
+          {
             "file": "core_05_band_continuity.md",
-            "count": 13,
+            "count": 24,
             "anchors": [
               "#charter",
+              "#defc3-privacy-informational--peer-level-cluster-head",
+              "#identity-data-protection",
+              "#likeness-and-documentary-depiction-interface",
+              "#privacy-informational",
+              "#protected-internal-state-boundary",
+              "#surveillance-boundary",
               "#system-alignment-certification",
               "#system-boundaries",
               "#system-certification-record",
               "#system-classification-record",
               "#system-data-types-record"
+            ]
+          },
+          {
+            "file": "core_05_band_integrative.md",
+            "count": 1,
+            "anchors": [
+              "#derived-information"
             ]
           },
           {
@@ -13946,6 +14035,24 @@
               "#public-oversight-baseline-disclosure",
               "#risk-disclosure",
               "#transparency"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_b.md",
+            "count": 5,
+            "anchors": [
+              "#article-ix-a-self-ownership-of-likeness-and-reputation",
+              "#article-ix-b-experiential-and-derived-data-rights",
+              "#article-vii-a-self-ownership-of-body",
+              "#article-vii-b-self-ownership-of-mind",
+              "#article-x-a-agency-and-freedom-from-manipulation"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_c.md",
+            "count": 1,
+            "anchors": [
+              "#article-xiv-a-security-intelligence-and-covert-power-limits"
             ]
           },
           {
@@ -13964,7 +14071,7 @@
           },
           {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 61,
+            "count": 63,
             "anchors": [
               "#11-identity-self-ownership-and-recoverability",
               "#50-access-posture-bands",
@@ -14415,7 +14522,7 @@
             "file": "corpus_systems/cs_02_b_data_classifications.md",
             "count": 1,
             "anchors": [
-              "#86-type-n-neurocognitive-and-internal-data"
+              "#96-type-n-neurocognitive-and-internal-data"
             ]
           },
           {
