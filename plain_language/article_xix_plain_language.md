@@ -63,6 +63,8 @@ The constitution sorts data into kinds, and each kind has its own rules. Here's 
 | Kind of data | What happens |
 |---|---|
 | **Things you made**: writing, photos, videos, code, designs, whether private, shared, or public | You can take it, at full quality. Even after you make something public, it's still yours, and you can have it taken down or deleted. |
+| **Things you made and licensed or sold**: a book you let a publisher sell, a song whose rights you sold | You can take your own copy and the record of the deal. The company keeps only what the deal gives it, and you always keep the credit. |
+| **Things you bought**: a copy of someone else's book, song, or program | You can take your copy with you. |
 | **Your activity**: your history, and conclusions the system drew about you that affect your rights or chances | You can take it. |
 | **Things others shared with you** | You can take your copy, within what they shared it for. |
 | **Your identity**: accounts, usernames, and your own keys and passwords | You can take it, and you can still cancel, replace, or fix it afterward. |

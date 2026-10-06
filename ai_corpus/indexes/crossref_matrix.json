@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-09-29T21:11:05+00:00",
+  "generated_at": "2026-10-06T10:55:34+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -7823,8 +7823,15 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 14,
+            "count": 15,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 1,
+            "anchors": [
+              "#811-type-u-use-licensed"
+            ]
           }
         ]
       },
@@ -8305,8 +8312,15 @@
           },
           {
             "file": "corpus_systems.md",
-            "count": 23,
+            "count": 25,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 2,
+            "anchors": [
+              "#811-type-u-use-licensed"
+            ]
           },
           {
             "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
@@ -11266,6 +11280,13 @@
             "anchors": []
           },
           {
+            "file": "corpus_systems/cs_02_b_data_classifications.md",
+            "count": 1,
+            "anchors": [
+              "#8121-type-t-access-and-handling-duties"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_03_a_system_classification_machinery.md",
             "count": 3,
             "anchors": []
@@ -12601,8 +12622,10 @@
           },
           {
             "file": "corpus_systems/cs_02_b_data_classifications.md",
-            "count": 12,
+            "count": 14,
             "anchors": [
+              "#813-commercial-grants",
+              "#8131-what-can-be-granted",
               "#83-type-o-open-public-oversight-baseline-disclosure-data",
               "#89-type-w-works-published",
               "#cs-2-8-data-classifications",
@@ -12628,10 +12651,18 @@
         "source": "corpus_systems/cs_02_b_data_classifications.md",
         "targets": [
           {
+            "file": "core_01_c_stewardship_capacity_principles.md",
+            "count": 2,
+            "anchors": [
+              "#141-market-concentration-threshold-mechanism-adopter-tunable"
+            ]
+          },
+          {
             "file": "core_05_band_continuity.md",
-            "count": 13,
+            "count": 14,
             "anchors": [
               "#charter",
+              "#fair-compensation-constitutional",
               "#system-alignment-certification-constitutional",
               "#system-boundaries",
               "#system-certification-record-constitutional",
@@ -12650,7 +12681,7 @@
           },
           {
             "file": "core_06_rights_part_b.md",
-            "count": 4,
+            "count": 6,
             "anchors": [
               "#article-viii-a-self-ownership-of-likeness-and-reputation",
               "#article-viii-c-truthful-publication-and-high-impact-publication-limits",
@@ -12659,10 +12690,14 @@
           },
           {
             "file": "core_06_rights_part_c.md",
-            "count": 3,
+            "count": 10,
             "anchors": [
+              "#article-xix-c-anti-lock-in-rule",
+              "#article-xix-d-open-formats-and-standards",
               "#article-xix-interoperability-portability-and-exit-integrity",
-              "#article-xvii-e-creative-and-expressive-works"
+              "#article-xvii-d-innovation-reward-disclosure-and-anti-enclosure",
+              "#article-xvii-e-creative-and-expressive-works",
+              "#article-xvii-f-inventions-processes-and-functional-systems"
             ]
           },
           {
@@ -12681,7 +12716,7 @@
           },
           {
             "file": "corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md",
-            "count": 1,
+            "count": 2,
             "anchors": []
           },
           {
@@ -12690,8 +12725,15 @@
             "anchors": []
           },
           {
+            "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
+            "count": 2,
+            "anchors": [
+              "#access-preserving-reward-and-anti-warehousing-controls"
+            ]
+          },
+          {
             "file": "corpus_systems/cs_02_a_information_types_and_handling.md",
-            "count": 78,
+            "count": 93,
             "anchors": [
               "#11-identity-self-ownership-and-recoverability",
               "#12-continuity-critical-collection-and-exportability",
