@@ -280,6 +280,8 @@ Boxes in a Mermaid chart are **horizontally centered on one another**. A chart t
 2. Add invisible spacer nodes on the side opposite the pull and chain them with invisible links: `CAP ~~~ GL ~~~ GE ~~~ GF`. Define each spacer with a blank label (`GL["&nbsp;"]`) and style it with no fill, no outline, and a label color that matches the canvas (`style GL fill:none,stroke:none,color:#111111`).
 3. To center a box that the long link also reaches, link a spacer to it as well (`GE ~~~ FL`).
 4. Widen a spacer with extra `&nbsp;` to move the result a few pixels, then render again.
+5. **Balance with invisible links.** An invisible link between two real boxes can steer the layout without a spacer node. Link a box on one side to a box at the same level on the other side (`Rec ~~~ S`) so a parent centers over the whole row, and lengthen an invisible link (`O ~~~~ Ch`) so a side box lands on the row it belongs with. Invisible links carry no meaning; keep them out of any audit of chart contents.
+6. **Balance the whole figure, not just the chain.** A chart can have every box on one axis and still look off-center, because the page centers the figure's full width. Measure the axis against the SVG `viewBox` (axis minus left edge versus right edge minus axis); the two should match within a few pixels. The usual cause is a wide side box or edge label on one side. Narrow it with `<br/>` breaks in the box text and in the long link's label, then re-measure. Re-measure under several fonts (Trebuchet, Carlito, FreeSans, Inter, DejaVu Sans); the sides should stay within about 15px, because the reader's font is not the renderer's. A gate that must come before a step (for example the published challenge path before forum sign-off) goes on the main line, not on a side branch, and its exit is stated in its box text rather than drawn as a long side link.
 
 Spacer nodes carry no meaning. Keep them out of the chart's caption and out of any audit of chart contents. Keep them out of the **VIS-CHART-SYNC-03** list of boxes that must match headings.
 
@@ -307,7 +309,7 @@ Links in a Mermaid chart **must not cross**. A crossing makes a reader stop and 
 
 **Check.** Manual. Render the chart with Mermaid and look for crossing lines before publishing.
 
-**Reference example.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): outcomes and the challenge path converge on one revalidation box, and the cycle ends at connector circle A, which re-enters above Part A §2, rather than a line looping back to the top.
+**Reference example.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): outcomes and the challenge path converge on one recertification box, and the cycle ends at connector circle A, which re-enters above Part A §2, rather than a line looping back to the top.
 
 **Existing charts.** Swept on 2026-10-06 for every English-source chart outside `translations/`, `archive/`, `evidence/`, and the generated site; new and edited charts must comply when written. Translation copies are brought into line when each translation is next updated.
 

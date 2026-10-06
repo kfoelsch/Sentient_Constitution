@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-06T05:37:35+00:00",
+  "generated_at": "2026-10-06T08:00:44+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2348,7 +2348,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 3,
             "anchors": [
-              "#6-outcomes-revalidation-and-reopening",
+              "#6-outcomes-recertification-and-reopening",
               "#7-relationship-to-standing"
             ]
           },
@@ -2488,7 +2488,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#6-outcomes-revalidation-and-reopening"
+              "#6-outcomes-recertification-and-reopening"
             ]
           },
           {
@@ -2680,7 +2680,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 88,
+            "count": 91,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -2708,6 +2708,7 @@
               "#essential-environment-non-commodification",
               "#existential-risk",
               "#fair-compensation",
+              "#full-recognition",
               "#identity-data-protection",
               "#indigenous-continuity",
               "#institutional-development",
@@ -2721,6 +2722,8 @@
               "#productive-capacity",
               "#proportionate-cross-system-support",
               "#protected-internal-state-boundary",
+              "#provisional-recognition",
+              "#recertification",
               "#residual-risk--misalignment",
               "#reversibility",
               "#review-and-correction-duty",
@@ -4196,7 +4199,7 @@
           },
           {
             "file": "core_05_apex_continuity_aim.md",
-            "count": 52,
+            "count": 55,
             "anchors": [
               "#chapter-five-definitions-continuity-constitutional-aim",
               "#measuring-continuity-preamble-measurement-family"
@@ -4266,7 +4269,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 751,
+            "count": 790,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -4297,6 +4300,7 @@
               "#essential-environment-non-commodification",
               "#existential-risk",
               "#fair-compensation",
+              "#full-recognition",
               "#identity-data-protection",
               "#indigenous-continuity",
               "#institutional-development",
@@ -4310,6 +4314,8 @@
               "#productive-capacity",
               "#proportionate-cross-system-support",
               "#protected-internal-state-boundary",
+              "#provisional-recognition",
+              "#recertification",
               "#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing",
               "#reversibility",
               "#review-and-correction-duty",
@@ -4365,7 +4371,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 253,
+            "count": 254,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4498,7 +4504,7 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 43,
+            "count": 45,
             "anchors": [
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
@@ -4513,19 +4519,21 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 14,
+            "count": 20,
             "anchors": [
               "#4-system-certification-record",
               "#41-minimum-record-contents",
               "#5-forum-process",
               "#531-contestability-paths",
-              "#6-outcomes-revalidation-and-reopening",
+              "#6-outcomes-recertification-and-reopening",
+              "#62-recertification-and-reopening",
+              "#621-provisional-and-full-recognition",
               "#7-relationship-to-standing"
             ]
           },
           {
             "file": "core_09_standing_assessment.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#2-question-1--what-happened",
               "#37-record-custody-and-opening-authority",
@@ -4534,7 +4542,7 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
               "#43-institutional-forums",
               "#61-emergency-measures-and-continuation-burden",
@@ -4588,6 +4596,13 @@
             "file": "corpus_systems.md",
             "count": 11,
             "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+            "count": 2,
+            "anchors": [
+              "#cs-510-recertification-regression-testing-and-certification-defects"
+            ]
           },
           {
             "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
@@ -5952,7 +5967,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 66,
+            "count": 68,
             "anchors": [
               "#charter",
               "#cross-system-extraction",
@@ -6061,16 +6076,17 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 76,
+            "count": 77,
             "anchors": [
               "#4-system-certification-record",
               "#41-minimum-record-contents",
               "#42-record-integrity-transparency-and-auditability",
               "#5-forum-process",
               "#51-forum-supervision-and-component-roles",
-              "#6-outcomes-revalidation-and-reopening",
+              "#6-outcomes-recertification-and-reopening",
               "#61-certification-outcomes",
-              "#62-revalidation-and-reopening",
+              "#62-recertification-and-reopening",
+              "#621-provisional-and-full-recognition",
               "#63-non-evasion",
               "#7-relationship-to-standing",
               "#chapter-eight-part-b-system-alignment-certification--record-and-process"
@@ -6212,11 +6228,13 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 13,
+            "count": 15,
             "anchors": [
               "#charter",
               "#ecological-footprint",
+              "#full-recognition",
               "#proportionate-cross-system-support",
+              "#provisional-recognition",
               "#risk-evaluation",
               "#safe-conditions",
               "#system-certification-record",
@@ -6334,13 +6352,14 @@
           },
           {
             "file": "core_12_forum.md",
-            "count": 14,
+            "count": 15,
             "anchors": [
               "#23-forum-case-records-standing-records-and-contests",
               "#3-transfer-consolidation-and-coordination--continuity-and-anti-capture",
               "#4-forum-family-definitions--accountability-through-adjudication",
               "#42-technical-forum-domains",
               "#5-escalation-and-certification",
+              "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
               "#chapter-twelve-forums-and-jurisdiction",
               "#dispute-sequencing"
             ]
@@ -6457,7 +6476,7 @@
             "count": 6,
             "anchors": [
               "#4-system-certification-record",
-              "#6-outcomes-revalidation-and-reopening",
+              "#6-outcomes-recertification-and-reopening",
               "#chapter-eight-part-b-certification-record-and-process",
               "#chapter-eight-part-b-system-alignment-certification--record-and-process"
             ]
@@ -8256,7 +8275,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 4,
             "anchors": [
-              "#6-outcomes-revalidation-and-reopening"
+              "#6-outcomes-recertification-and-reopening"
             ]
           },
           {
@@ -12254,7 +12273,7 @@
             "file": "core_08_b_system_alignment_certification_record_process.md",
             "count": 1,
             "anchors": [
-              "#6-outcomes-revalidation-and-reopening"
+              "#6-outcomes-recertification-and-reopening"
             ]
           },
           {
@@ -13851,7 +13870,7 @@
               "#41-minimum-record-contents",
               "#42-record-integrity-transparency-and-auditability",
               "#53-challenging-a-certification",
-              "#6-outcomes-revalidation-and-reopening"
+              "#6-outcomes-recertification-and-reopening"
             ]
           },
           {
@@ -14023,7 +14042,7 @@
               "#41-minimum-record-contents",
               "#42-record-integrity-transparency-and-auditability",
               "#53-challenging-a-certification",
-              "#6-outcomes-revalidation-and-reopening",
+              "#6-outcomes-recertification-and-reopening",
               "#7-relationship-to-standing"
             ]
           },
@@ -15809,7 +15828,7 @@
             "count": 2,
             "anchors": [
               "#41-minimum-record-contents",
-              "#6-outcomes-revalidation-and-reopening"
+              "#6-outcomes-recertification-and-reopening"
             ]
           },
           {

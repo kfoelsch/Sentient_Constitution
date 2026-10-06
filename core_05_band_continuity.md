@@ -75,6 +75,140 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 ---
 
+<a id="full-recognition"></a>
+
+#### Full Recognition
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight Part B §6.2.1 Provisional and full recognition](core_08_b_system_alignment_certification_record_process.md#621-provisional-and-full-recognition) (*earning, keeping, and losing recognition status*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Read with: [Provisional Recognition](core_05_band_continuity.md#provisional-recognition), [Recertification](core_05_band_continuity.md#recertification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [System Classification Record](core_05_band_continuity.md#system-classification-record), and [Proxy Divergence](core_05_band_oversight.md#proxy-divergence).
+
+</details>
+
+<br>
+
+*In plain terms: **full recognition** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.*
+
+- **What it is**
+  - **In scope:** The status of recognition held by a system that was recognized provisionally, has completed the required consecutive clean provisional recertifications, and at its latest [Recertification](core_05_band_continuity.md#recertification) showed no current misalignment and no monitoring indicator pointing to impending misalignment. Full recognition runs on the class-scaled recertification cadence, remains time-bound, and remains open to reopening.
+  - **Out of scope:**
+    - [Provisional Recognition](core_05_band_continuity.md#provisional-recognition);
+    - conditional recognition, which concerns conditions on recognition and may attach to either status;
+    - a permanent permission slip, reputation score, or standing effect — [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement) alone decides standing —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Provisional Recognition](core_05_band_continuity.md#provisional-recognition); [Recertification](core_05_band_continuity.md#recertification).
+  - The clean-recertification floor, step-down, and response clocks are stated in [Chapter Eight Part B §6.2.1](core_08_b_system_alignment_certification_record_process.md#621-provisional-and-full-recognition); this entry is the Chapter Five meaning only.
+<a id="full-recognition-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the class-scaled number of consecutive clean provisional recertifications was actually completed;
+    2. no misalignment is current — no open misalignment, unremedied defect, overdue check, or failed regression testing; and
+    3. the monitoring triggers and trend metrics stated on the record show no threshold crossed and no drift toward one, and those indicators are independently reviewable and were not set so that drift cannot show.
+<a id="full-recognition-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - granting full recognition before the clean-recertification floor is met, or despite current misalignment or an indicator of impending misalignment;
+    - keeping full recognition after a failed recertification or a reopened review that found misalignment;
+    - indicators defined so narrowly that nothing could point to impending misalignment; or
+    - treating full recognition as a reason to skip or delay a reopening trigger.
+
+---
+
+<a id="provisional-recognition"></a>
+
+#### Provisional Recognition
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight Part B §6.2.1 Provisional and full recognition](core_08_b_system_alignment_certification_record_process.md#621-provisional-and-full-recognition) (*earning, keeping, and losing recognition status*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Read with: [Full Recognition](core_05_band_continuity.md#full-recognition), [Recertification](core_05_band_continuity.md#recertification), [System Certification Record](core_05_band_continuity.md#system-certification-record), and [Reversibility](core_05_band_continuity.md#reversibility).
+
+</details>
+
+<br>
+
+*In plain terms: **provisional recognition** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full recognition.*
+
+- **What it is**
+  - **In scope:** The status of recognition held by a system on its first recognition, including a newly deployed system, and by a system recognized after a failed [Recertification](core_05_band_continuity.md#recertification) or after a reopened review that found misalignment. Provisional recognition runs on a recertification cadence shorter than the full-recognition cadence for the same class, with limits on reliance stated on the record.
+  - **Out of scope:**
+    - [Full Recognition](core_05_band_continuity.md#full-recognition);
+    - conditional recognition, which concerns conditions on recognition and may attach to either status;
+    - deferred recognition or non-recognition, where no recognition is granted —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Recertification](core_05_band_continuity.md#recertification).
+  - The entry and exit rules, the cadence relationship, and the response clocks are stated in [Chapter Eight Part B §6.2.1](core_08_b_system_alignment_certification_record_process.md#621-provisional-and-full-recognition); this entry is the Chapter Five meaning only.
+<a id="provisional-recognition-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. a first recognition, and a recognition after a failed recertification, is recorded as provisional and not as full;
+    2. the record states a recertification cadence shorter than the full-recognition cadence for the class, together with limits on reliance; and
+    3. a system that has met the full-recognition conditions is moved up, and one that has not stays provisional for stated reasons.
+<a id="provisional-recognition-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - treating a new or post-failure system as fully recognized;
+    - stating provisional status without a shorter cadence or any limit on reliance, so that the status exists on paper only;
+    - holding a system provisional without a stated reason after it has met the full-recognition conditions; or
+    - interrupting a system whose interruption would foreclose survival essentials before substitutes arrive, as though provisional status itself required it.
+
+---
+
+<a id="recertification"></a>
+
+#### Recertification
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening) (*outcomes, recertification cadence, and reopening*); read with [Chapter Eight Part A §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*class-scaled assurance and recertification*) and [CS-5.10](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-510-recertification-regression-testing-and-certification-defects) (*recertification, regression testing, and certification defects*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Downstream: [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision of recognition and recertification records*).
+- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), [Provisional Recognition](core_05_band_continuity.md#provisional-recognition), [Full Recognition](core_05_band_continuity.md#full-recognition), [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty), and [Reversibility](core_05_band_continuity.md#reversibility).
+
+</details>
+
+<br>
+
+*In plain terms: **recertification** is the scheduled re-check that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.*
+
+- **What it is**
+  - **In scope:** The scheduled renewal of a [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) for a system that already holds a [System Certification Record](core_05_band_continuity.md#system-certification-record). The evaluations the record requires are carried out again, at the depth the system's class requires, on the cadence the record states, with regression testing, so that continued reliance rests on current evidence and not on an earlier finding. A recertification ends in an outcome stated on the record, including the recognition status — [Provisional Recognition](core_05_band_continuity.md#provisional-recognition) or [Full Recognition](core_05_band_continuity.md#full-recognition) — that the findings support.
+  - **Out of scope:**
+    - the first [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) of a system;
+    - reopening — review that does not wait for the schedule because a trigger has fired (material change, concealed behavior, dependency growth, incident, or credible challenge), which is stated in [Chapter Eight Part B §6.2](core_08_b_system_alignment_certification_record_process.md#62-recertification-and-reopening);
+    - reclassification under **CS-3 §3.5** (*Reclassification requirement*) or periodic data-type re-evaluation under **CS-2 §5.2** (*Reclassification and lifecycle governance*) taken alone — each recertification must verify those, and neither substitutes for it; or
+    - periodic revalidation of other things, such as stewardship claims under [Review and Correction Duty](core_05_band_continuity.md#review-and-correction-duty) or governance mechanisms under **Article XXVI-B** (*Periodic Revalidation and Transparent Change*) —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification); [System Certification Record](core_05_band_continuity.md#system-certification-record).
+  - The recertification cadence, outcomes, reopening triggers, and regression-testing duty are stated in [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) and [CS-5.10](corpus_systems/cs_05_design_testing_verification_deployment.md#cs-510-recertification-regression-testing-and-certification-defects); this entry is the Chapter Five meaning only.
+<a id="recertification-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the [System Certification Record](core_05_band_continuity.md#system-certification-record) states a recertification cadence scaled to the system's class, and the cadence has been kept;
+    2. each recertification repeated the evaluations the record requires at class-scaled depth — including regression testing and re-verification of the [System Classification Record](core_05_band_continuity.md#system-classification-record) and [System Data Types Record](core_05_band_continuity.md#system-data-types-record) findings — and did not carry earlier findings forward unchanged; and
+    3. the results and outcome are on the record, and an expired or overdue certification is not relied on as proof that sentients are getting Rights-Floor essentials today.
+<a id="recertification-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - letting a certification lapse while reliance on the system continues, or treating an expired or overdue certification as current proof of alignment;
+    - a recertification that skips required evaluations or regression testing, relies on outdated results, or accepts major fixes without re-testing where re-testing was feasible;
+    - a cadence that is unstated or not scaled to class; or
+    - using scheduled recertification in place of reopening after a reopening trigger has fired.
+
+---
+
 <a id="residual-risk--misalignment"></a>
 
 #### Residual Risk / Misalignment
@@ -146,7 +280,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** wherever recognition, conditional recognition, validation, revalidation, continued reliance, deployment, or material release from conditions is at issue; wherever a material-impact [System Classification Record](core_05_band_continuity.md#system-classification-record) is required under CS-3 (*System classification machinery*); and wherever a material-impact [System Data Types Record](core_05_band_continuity.md#system-data-types-record) is required under CS-2 (*Information types and handling*).
+- **Joint invocation:** wherever recognition, conditional recognition, validation, recertification, continued reliance, deployment, or material release from conditions is at issue; wherever a material-impact [System Classification Record](core_05_band_continuity.md#system-classification-record) is required under CS-3 (*System classification machinery*); and wherever a material-impact [System Data Types Record](core_05_band_continuity.md#system-data-types-record) is required under CS-2 (*Information types and handling*).
 - **Scope:** where joint invocation is met, the Continuity home for the Chapter Eight gate that checks whether a [System](core_05_band_continuity.md#system) is constitutionally aligned before sentients rely on it at scale, including the CS-3 (*System classification machinery*) [System Classification Record](core_05_band_continuity.md#system-classification-record) and the CS-2 (*Information types and handling*) [System Data Types Record](core_05_band_continuity.md#system-data-types-record) that certification must incorporate when SAC runs. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others — not the sole auditing home (**Article XVI** (*Audit, Transparency, and Independent Verification*) and [Auditability](core_05_band_oversight.md#auditability) remain).
 - **Canonical owner:** process, record contents, supervisory sequence, contestability chain, and the standing-record bridge are stated in [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); System Classification Record dual-axis contents, disclosure, challenge, and reclassification live in [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**; System Data Types Record contents, disclosure, challenge, and retyping live in **CS-2 — Information types and handling**; these entries provide the Chapter Five meanings only.
 - **Cluster boundary:** [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support) remains outside this group — certification may check **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) duties when shared-infrastructure reliance is in scope, but it is not a member of that **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) pair.
@@ -172,7 +306,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - Canonical owner: [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) (*process, record contents, supervisory sequence, and standing-record bridge*); read with [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation) and the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream: [Chapter Nine — Standing records and verified-input gate](core_09_standing_assessment.md#2-question-1--what-happened); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision*); [Article III-A](core_06_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*); [Article V-A](core_06_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
-- Read with: [System Certification Record](core_05_band_continuity.md#system-certification-record); [System Classification Record](core_05_band_continuity.md#system-classification-record); [System Data Types Record](core_05_band_continuity.md#system-data-types-record); [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support) where shared-infrastructure reliance or **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource stewardship is materially implicated; [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Timely Resolution](core_05_band_accountability.md#timely-resolution), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [System Boundaries](core_05_band_continuity.md#system-boundaries), [Charter](core_05_band_continuity.md#charter), [System Capture](core_05_band_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**.
+- Read with: [System Certification Record](core_05_band_continuity.md#system-certification-record); [System Classification Record](core_05_band_continuity.md#system-classification-record); [System Data Types Record](core_05_band_continuity.md#system-data-types-record); [Dependency and cross-system support](core_05_band_continuity.md#dependency-and-cross-system-support) where shared-infrastructure reliance or **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource stewardship is materially implicated; [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance), [Auditability](core_05_band_oversight.md#auditability), [Contestability](core_05_band_accountability.md#contestability), [Timely Resolution](core_05_band_accountability.md#timely-resolution), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record), [Trustworthiness](core_05_band_continuity.md#trustworthiness), [System Boundaries](core_05_band_continuity.md#system-boundaries), [Charter](core_05_band_continuity.md#charter), [System Capture](core_05_band_continuity.md#system-capture), and [corpus_systems.md](corpus_systems.md) **CS-3 — System classification and handling**, and [Recertification](core_05_band_continuity.md#recertification).
 
 </details>
 
@@ -185,7 +319,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - recognition;
     - conditional recognition;
     - validation;
-    - revalidation;
+    - recertification;
     - continued reliance;
     - deployment; or
     - material release from conditions.
@@ -200,7 +334,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - survival-essential access under **Article III-A** (*Survival*) where deployment, operation, or continued reliance would supply, gate, or sustain food, water, shelter, operating-environment, or comparable substrate-agnostic essentials; and
     - resource allocation under **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) where operation or continued reliance materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies.
   - It supports **Continuity** through:
-    - class-scaled revalidation;
+    - class-scaled recertification;
     - regression testing where required;
     - misalignment reopening; and
     - non-regressive review.
@@ -265,10 +399,10 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eight Part B §4 — System Certification Record](core_08_b_system_alignment_certification_record_process.md#4-system-certification-record) (*minimum contents and record integrity*); read with [Chapter Eight Part A §3.9](core_08_a_system_alignment_certification_evaluation.md#39-rights-floor-and-domain-evaluations) (*Rights-Floor non-substitution*), [Part B §5](core_08_b_system_alignment_certification_record_process.md#5-forum-process) (*forum process, supervisory sequence, and contestability chain*), [§6](core_08_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening) (*outcomes, reopening, and non-evasion*), and [§7](core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing) (*standing-record bridge*).
+- Canonical owner: [Chapter Eight Part B §4 — System Certification Record](core_08_b_system_alignment_certification_record_process.md#4-system-certification-record) (*minimum contents and record integrity*); read with [Chapter Eight Part A §3.9](core_08_a_system_alignment_certification_evaluation.md#39-rights-floor-and-domain-evaluations) (*Rights-Floor non-substitution*), [Part B §5](core_08_b_system_alignment_certification_record_process.md#5-forum-process) (*forum process, supervisory sequence, and contestability chain*), [§6](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening) (*outcomes, reopening, and non-evasion*), and [§7](core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing) (*standing-record bridge*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](core_05_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream: [Chapter Nine — Standing records and verified-input gate](core_09_standing_assessment.md#2-question-1--what-happened); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum supervision and reopening*).
-- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication), and [Charter](core_05_band_continuity.md#charter).
+- Read with: [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification), [System Classification Record](core_05_band_continuity.md#system-classification-record), [System Data Types Record](core_05_band_continuity.md#system-data-types-record), [Contestability](core_05_band_accountability.md#contestability), [Auditability](core_05_band_oversight.md#auditability), [Verified Inputs for Standing](core_05_band_accountability.md#verified-inputs-for-standing), [Standing Record](core_05_band_accountability.md#standing-record), [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication), and [Charter](core_05_band_continuity.md#charter), and [Recertification](core_05_band_continuity.md#recertification).
 
 </details>
 
@@ -315,7 +449,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
        - supervisory sequence;
        - outcome;
        - reliance limits;
-       - revalidation cadence; and
+       - recertification cadence; and
        - contestability chain and named contestability paths under [Chapter Eight Part B §5.3.1](core_08_b_system_alignment_certification_record_process.md#531-contestability-paths);
     3. where a Chapter Eight evaluation was required by an applicable materiality trigger, the record states the actual findings from that evaluation — not section titles or checkmarks alone — under [Chapter Eight Part B §4.1](core_08_b_system_alignment_certification_record_process.md#41-minimum-record-contents); and
     4. the record remains separately traceable from standing records and standing effects.
@@ -368,7 +502,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - key assumptions;
     - uncertainty and any precautionary class relied on;
     - material ecological-exposure analysis where required; and
-    - monitoring and revalidation triggers.
+    - monitoring and recertification triggers.
   - It must be forum-inspectable without relying on operator self-description alone.
   - It is required for all systems with [material impact](core_05_band_oversight.md#material-impact) under CS-3 (*System classification machinery*). When [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) runs, the System Classification Record must be produced or verified and included as a required component of the [System Certification Record](core_05_band_continuity.md#system-certification-record).
   - **Out of scope:**
@@ -385,7 +519,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     **Primary assessment:** Evaluate whether:
     1. the record states both dual-axis findings required by CS-3 (*System classification machinery*) — impact class and applicable dependency type(s) — without collapsing the axes into one finding;
     2. classification follows observed and reasonably foreseeable effects under [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk), not declared intent, [Charter](core_05_band_continuity.md#charter) text alone, or self-description alone;
-    3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or revalidation triggers are stated and independently reviewable; and
+    3. rationale, key assumptions, uncertainty or precautionary class, material ecological-exposure analysis where required, and monitoring or recertification triggers are stated and independently reviewable; and
     4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) runs, the System Classification Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record) under [Chapter Eight §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) and [Part B §4.1](core_08_b_system_alignment_certification_record_process.md#41-minimum-record-contents).
 <a id="system-classification-record-constitutional-c"></a>
 - **What must hold**

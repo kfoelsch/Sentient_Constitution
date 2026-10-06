@@ -908,6 +908,21 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Full Recognition": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Provisional Recognition": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Recertification": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Redress and Remediation": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **659** of **937** headings carry a gloss (70%).
+Coverage: **663** of **941** headings carry a gloss (70%).
 
 ## Contents
 
@@ -25,14 +25,14 @@ Coverage: **659** of **937** headings carry a gloss (70%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (78/90 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (25/86 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (28/89 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (15/30 glossed)
-- [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (9/16 glossed)
+- [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (10/17 glossed)
 - [CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-eight-part-c-system-alignment-certification--illustrations) — `core_08_c_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-eight-system-alignment-certification-reading-index) — `core_08_system_alignment_certification.md` (1/1 glossed)
 - [CHAPTER NINE: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-nine-contribution-violation-and-standing-model--measurement) — `core_09_standing_assessment.md` (13/33 glossed)
@@ -1746,7 +1746,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 25/86 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 28/89 headings glossed
 
 #### Continuity: Independent terms
 
@@ -1759,6 +1759,24 @@ Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) ·
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05_band_continuity.md#essential-environment-non-commodification)
+
+##### Full Recognition
+
+**full recognition** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.
+
+[Source](../../core_05_band_continuity.md#full-recognition)
+
+##### Provisional Recognition
+
+**provisional recognition** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full recognition.
+
+[Source](../../core_05_band_continuity.md#provisional-recognition)
+
+##### Recertification
+
+**recertification** is the scheduled re-check that keeps a certification from going stale. A certified system is evaluated and tested again on a schedule that matches its class, and the result is renewed, conditioned, or withdrawn on current evidence. It is not a challenge, not a reopening after something goes wrong, and not a rubber stamp that carries last cycle's findings forward.
+
+[Source](../../core_05_band_continuity.md#recertification)
 
 ##### Residual Risk / Misalignment
 
@@ -3136,7 +3154,7 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 ##### 1.1 Certification at a glance
 
-classify the system honestly, run the evaluations that apply, gather the forums' findings into one record, decide an outcome, keep the record open to challenge, and check again on schedule or whenever the facts change.
+classify the system honestly, run the evaluations that apply, open the challenge path before any forum signs off, gather the forums' findings into one record, decide an outcome, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance)
 
@@ -3304,7 +3322,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
-Source file: [`core_08_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) · 9/16 headings glossed
+Source file: [`core_08_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) · 10/17 headings glossed
 
 #### 4. System Certification Record
 
@@ -3366,11 +3384,11 @@ a certification record only works if sentients can push back when it is wrong. A
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#533-anti-bypass)
 
-#### 6. Outcomes, Revalidation, and Reopening
+#### 6. Outcomes, Recertification, and Reopening
 
 every certification ends in a stated outcome, and no outcome lasts forever. When the system, the risks, or the facts change — or when someone credibly challenges the record — review must reopen. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#6-outcomes-revalidation-and-reopening)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening)
 
 ##### 6.1 Certification outcomes
 
@@ -3378,11 +3396,17 @@ every certification ends in a stated outcome, and no outcome lasts forever. When
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes)
 
-##### 6.2 Revalidation and reopening
+##### 6.2 Recertification and reopening
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#62-revalidation-and-reopening)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#62-recertification-and-reopening)
+
+###### 6.2.1 Provisional and full recognition
+
+a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now and nothing heading that way graduates to full recognition and a longer interval. Failing a check sends it back to the short leash.
+
+[Source](../../core_08_b_system_alignment_certification_record_process.md#621-provisional-and-full-recognition)
 
 ##### 6.3 Non-evasion
 
@@ -3392,7 +3416,7 @@ every certification ends in a stated outcome, and no outcome lasts forever. When
 
 #### 7. Relationship to Standing
 
-certification can feed standing, but it is not standing. A good or bad certification record may supply verified facts to Chapter Nine — only through a strict gate — and Chapters Nine and Ten alone decide standing records and effects.
+certification can feed standing, but it is not standing. The certification record of a recognized system, good or bad, may supply verified facts to Chapter Nine — only through a strict gate — and Chapters Nine and Ten alone decide standing records and effects.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing)
 
