@@ -1445,16 +1445,16 @@ Cette sous-section explique pourquoi les signaux du marché ne constituent pas u
 
 L’autorisation, la conception et le fonctionnement doivent satisfaire à quatre exigences :
 
-- **Limiter les événements sur lesquels il est permis de miser.** Appliquer la [Nécessité](core_05_band_accountability.md#necessity) et la [Proportionnalité](core_05_band_accountability.md#proportionality) à chaque événement sous-jacent autorisé par le système, afin qu’aucun événement permis ne récompense un préjudice illégal ni ne fausse des décisions fiduciaires, publiques ou relatives aux droits.
-- **Contrôler la résolution des résultats.** Consigner la procédure de résolution et nommer toutes les sources de résolution dont elle dépend. Exiger :
+- **Limiter les événements sur lesquels il est permis de miser:** Appliquer la [Nécessité](core_05_band_accountability.md#necessity) et la [Proportionnalité](core_05_band_accountability.md#proportionality) à chaque événement sous-jacent autorisé par le système, afin qu’aucun événement permis ne récompense un préjudice illégal ni ne fausse des décisions fiduciaires, publiques ou relatives aux droits.
+- **Contrôler la résolution des résultats:** Consigner la procédure de résolution et nommer toutes les sources de résolution dont elle dépend. Exiger :
   - l’indépendance à l’égard des parties ayant un intérêt matériel ;
   - plusieurs sources lorsque cela est possible ; et
   - des voies de règlement des différends qui restent ouvertes à la contestation.
-- **Plafonner ce qu’un acteur peut prendre en charge.** Fixer des limites à la concentration, à l’effet de levier et à l’exposition, en fonction :
+- **Plafonner ce qu’un acteur peut prendre en charge:** Fixer des limites à la concentration, à l’effet de levier et à l’exposition, en fonction :
   - de la [Dépendance](core_05_band_continuity.md#dependency) — la mesure dans laquelle les autres dépendent du système ou de ses résultats ;
   - de la vulnérabilité — la facilité avec laquelle les personnes qui misent ou sont affectées peuvent subir un préjudice ; et
   - de la stabilité systémique — la possibilité qu’une défaillance se propage au-delà du système.
-- **Tester les détournements.** Évaluer le système conformément au [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), notamment :
+- **Tester les détournements:** Évaluer le système conformément au [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), notamment :
   - la coordination entre acteurs visant à influer sur l’événement qui détermine le résultat ; et
   - les dynamiques d’échelle — l’évolution des risques à mesure qu’augmentent le volume, la participation ou l’exposition.
 

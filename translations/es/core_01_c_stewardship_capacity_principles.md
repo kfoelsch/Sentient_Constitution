@@ -1445,16 +1445,16 @@ Esta subsección explica por qué las señales del mercado no son prueba constit
 
 La autorización, el diseño y el funcionamiento deben cumplir cuatro requisitos:
 
-- **Limitar los eventos por los que se puede apostar.** Aplicar [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) a cada evento subyacente que el sistema permita, para que ningún evento permitido recompense daños ilícitos ni distorsione decisiones fiduciarias, públicas o pertinentes para los derechos.
-- **Controlar la resolución de los resultados.** Documentar el procedimiento de resolución e identificar todas las fuentes de resolución de resultados de las que dependa. Exigir:
+- **Limitar los eventos por los que se puede apostar:** Aplicar [Necesidad](core_05_band_accountability.md#necessity) y [Proporcionalidad](core_05_band_accountability.md#proportionality) a cada evento subyacente que el sistema permita, para que ningún evento permitido recompense daños ilícitos ni distorsione decisiones fiduciarias, públicas o pertinentes para los derechos.
+- **Controlar la resolución de los resultados:** Documentar el procedimiento de resolución e identificar todas las fuentes de resolución de resultados de las que dependa. Exigir:
   - independencia de las partes con un interés material;
   - más de una fuente cuando sea viable; y
   - vías de disputa que sigan abiertas a impugnación.
-- **Limitar lo que puede asumir un solo actor.** Fijar límites a la concentración, el apalancamiento y la exposición, en proporción a:
+- **Limitar lo que puede asumir un solo actor:** Fijar límites a la concentración, el apalancamiento y la exposición, en proporción a:
   - [Dependencia](core_05_band_continuity.md#dependency) — cuánto dependen otros del sistema o de sus resultados;
   - vulnerabilidad — con qué facilidad pueden sufrir daños quienes apuestan o se ven afectados; y
   - estabilidad sistémica — si un fallo podría propagarse más allá del sistema.
-- **Comprobar el uso indebido.** Evaluar el sistema conforme a [Capítulo Ocho §3 Evaluación de la certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), incluyendo:
+- **Comprobar el uso indebido:** Evaluar el sistema conforme a [Capítulo Ocho §3 Evaluación de la certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), incluyendo:
   - coordinación entre actores para influir en el evento que determina el resultado; y
   - dinámicas de escala — cómo cambian los riesgos a medida que crecen el volumen, la participación o la exposición.
 

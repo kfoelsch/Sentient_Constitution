@@ -1445,16 +1445,16 @@ Subbagian ini menjelaskan mengapa sinyal pasar bukan bukti konstitusional:
 
 Otorisasi, desain, dan operasi harus melakukan empat hal:
 
-- **Batasi peristiwa yang dapat dipertaruhkan.** Terapkan [Keniscayaan](core_05_band_accountability.md#necessity) dan [Proporsionalitas](core_05_band_accountability.md#proportionality) pada setiap peristiwa mendasar yang diizinkan sistem, sehingga tidak ada peristiwa yang diizinkan memberi imbalan atas bahaya yang melanggar hukum atau mendistorsi keputusan fidusia, publik, atau yang terkait hak.
-- **Kendalikan cara hasil ditentukan.** Dokumentasikan prosedur penyelesaian dan sebutkan setiap sumber penyelesaian hasil yang diandalkan. Wajibkan:
+- **Batasi peristiwa yang dapat dipertaruhkan:** Terapkan [Keniscayaan](core_05_band_accountability.md#necessity) dan [Proporsionalitas](core_05_band_accountability.md#proportionality) pada setiap peristiwa mendasar yang diizinkan sistem, sehingga tidak ada peristiwa yang diizinkan memberi imbalan atas bahaya yang melanggar hukum atau mendistorsi keputusan fidusia, publik, atau yang terkait hak.
+- **Kendalikan cara hasil ditentukan:** Dokumentasikan prosedur penyelesaian dan sebutkan setiap sumber penyelesaian hasil yang diandalkan. Wajibkan:
   - independensi dari pihak yang memiliki taruhan material;
   - lebih dari satu sumber jika memungkinkan; dan
   - jalur sengketa yang tetap terbuka untuk digugat.
-- **Batasi seberapa besar eksposur yang dapat diambil satu aktor.** Tetapkan batas konsentrasi, leverage, dan eksposur, dengan skala yang disesuaikan terhadap:
+- **Batasi seberapa besar eksposur yang dapat diambil satu aktor:** Tetapkan batas konsentrasi, leverage, dan eksposur, dengan skala yang disesuaikan terhadap:
   - [Ketergantungan](core_05_band_continuity.md#dependency) — seberapa besar pihak lain bergantung pada sistem atau hasilnya;
   - kerentanan — seberapa mudah pihak yang bertaruh atau terdampak dapat dirugikan; dan
   - stabilitas sistemik — apakah kegagalan dapat menyebar ke luar sistem.
-- **Uji penyalahgunaan.** Evaluasi sistem berdasarkan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Menyeluruh](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), termasuk:
+- **Uji penyalahgunaan:** Evaluasi sistem berdasarkan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Menyeluruh](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), termasuk:
   - koordinasi antaraktor untuk memengaruhi peristiwa yang menentukan hasil; dan
   - dinamika skala — bagaimana risiko berubah saat volume, partisipasi, atau eksposur meningkat.
 

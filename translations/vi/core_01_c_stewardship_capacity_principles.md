@@ -1445,16 +1445,16 @@ Tiểu mục này nêu lý do tín hiệu thị trường không phải bằng c
 
 Việc ủy quyền, thiết kế và vận hành phải thực hiện bốn điều:
 
-- **Giới hạn những sự kiện có thể đặt cược.** Áp dụng [Tính cần thiết](core_05_band_accountability.md#necessity) và [Tính tương xứng](core_05_band_accountability.md#proportionality) cho từng sự kiện nền tảng mà hệ thống cho phép, để không sự kiện được phép nào khen thưởng tổn hại bất hợp pháp hoặc bóp méo các quyết định ủy thác, công quyền hay liên quan đến quyền.
-- **Kiểm soát cách thức giải quyết kết quả.** Ghi lại thủ tục giải quyết và nêu tên mọi nguồn quyết định kết quả mà thủ tục dựa vào. Yêu cầu:
+- **Giới hạn những sự kiện có thể đặt cược:** Áp dụng [Tính cần thiết](core_05_band_accountability.md#necessity) và [Tính tương xứng](core_05_band_accountability.md#proportionality) cho từng sự kiện nền tảng mà hệ thống cho phép, để không sự kiện được phép nào khen thưởng tổn hại bất hợp pháp hoặc bóp méo các quyết định ủy thác, công quyền hay liên quan đến quyền.
+- **Kiểm soát cách thức giải quyết kết quả:** Ghi lại thủ tục giải quyết và nêu tên mọi nguồn quyết định kết quả mà thủ tục dựa vào. Yêu cầu:
   - độc lập với các bên có lợi ích trọng yếu;
   - có nhiều hơn một nguồn khi khả thi; và
   - duy trì các lộ trình tranh chấp mở để phản biện.
-- **Giới hạn mức độ một tác nhân đơn lẻ có thể gánh chịu.** Đặt giới hạn về mức độ tập trung, đòn bẩy và mức độ phơi nhiễm, tương xứng với:
+- **Giới hạn mức độ một tác nhân đơn lẻ có thể gánh chịu:** Đặt giới hạn về mức độ tập trung, đòn bẩy và mức độ phơi nhiễm, tương xứng với:
   - [Sự phụ thuộc](core_05_band_continuity.md#dependency) — mức độ người khác dựa vào hệ thống hoặc kết quả của nó;
   - tính dễ tổn thương — mức độ dễ gây tổn hại cho người đặt cược hoặc chịu ảnh hưởng; và
   - sự ổn định hệ thống — liệu sự cố có thể lan ra ngoài hệ thống hay không.
-- **Kiểm tra việc lạm dụng.** Đánh giá hệ thống theo [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), bao gồm:
+- **Kiểm tra việc lạm dụng:** Đánh giá hệ thống theo [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), bao gồm:
   - sự phối hợp giữa các tác nhân nhằm tác động đến sự kiện quyết định kết quả; và
   - động lực quy mô — rủi ro thay đổi như thế nào khi khối lượng, mức độ tham gia hoặc mức độ phơi nhiễm tăng lên.
 

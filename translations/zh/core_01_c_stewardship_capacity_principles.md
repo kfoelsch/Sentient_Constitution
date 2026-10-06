@@ -1445,16 +1445,16 @@ flowchart TB
 
 授权、设计和运营必须做到以下四点：
 
-- **限制可下注的事件。** 对系统允许的每项基础事件适用[必要性](core_05_band_accountability.md#necessity)及[比例性](core_05_band_accountability.md#proportionality)原则，确保任何获准事件都不会奖励非法伤害，或扭曲涉及信托责任、公共利益或权利的决策。
-- **控制结果裁定方式。** 记录结果裁定程序并列明其依赖的所有来源。要求：
+- **限制可下注的事件：** 对系统允许的每项基础事件适用[必要性](core_05_band_accountability.md#necessity)及[比例性](core_05_band_accountability.md#proportionality)原则，确保任何获准事件都不会奖励非法伤害，或扭曲涉及信托责任、公共利益或权利的决策。
+- **控制结果裁定方式：** 记录结果裁定程序并列明其依赖的所有来源。要求：
   - 独立于具有重大利害关系的各方；
   - 可行时采用多个来源；并且
   - 保持争议解决渠道开放，以供质疑。
-- **限制任何单一行为者可承担的规模。** 设定与以下因素相称的集中度、杠杆和风险敞口限额：
+- **限制任何单一行为者可承担的规模：** 设定与以下因素相称的集中度、杠杆和风险敞口限额：
   - [依赖性](core_05_band_continuity.md#dependency) — 他人对系统或其结果的依赖程度；
   - 脆弱性——下注者或受影响者受到伤害的难易程度；以及
   - 系统稳定性——故障是否可能扩散到系统之外。
-- **测试滥用风险。** 依据 [第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 进行评估，包括：
+- **测试滥用风险：** 依据 [第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 进行评估，包括：
   - 行为者协调行动以影响决定结果的事件；以及
   - 规模动态——随着数量、参与度或风险敞口增长而变化的风险。
 

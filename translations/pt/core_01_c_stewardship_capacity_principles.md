@@ -1445,16 +1445,16 @@ Esta subseção explica por que sinais de mercado não são prova constitucional
 
 Autorização, projeto e operação devem fazer quatro coisas:
 
-- **Limitar os eventos que podem ser objeto de aposta.** Aplicar [Necessidade](core_05_band_accountability.md#necessity) e [Proporcionalidade](core_05_band_accountability.md#proportionality) a cada evento subjacente permitido pelo sistema, para que nenhum evento autorizado recompense danos ilícitos ou distorça decisões fiduciárias, públicas ou relacionadas a direitos.
-- **Controlar como os resultados são resolvidos.** Registrar por escrito o procedimento de resolução e nomear cada fonte de resolução de resultados em que ele se baseia. Exigir:
+- **Limitar os eventos que podem ser objeto de aposta:** Aplicar [Necessidade](core_05_band_accountability.md#necessity) e [Proporcionalidade](core_05_band_accountability.md#proportionality) a cada evento subjacente permitido pelo sistema, para que nenhum evento autorizado recompense danos ilícitos ou distorça decisões fiduciárias, públicas ou relacionadas a direitos.
+- **Controlar como os resultados são resolvidos:** Registrar por escrito o procedimento de resolução e nomear cada fonte de resolução de resultados em que ele se baseia. Exigir:
   - independência em relação às partes com interesse material;
   - mais de uma fonte sempre que viável; e
   - vias de contestação que permaneçam abertas a desafios.
-- **Limitar quanto um único ator pode assumir.** Estabelecer limites de concentração, alavancagem e exposição, proporcionais a:
+- **Limitar quanto um único ator pode assumir:** Estabelecer limites de concentração, alavancagem e exposição, proporcionais a:
   - [Dependência](core_05_band_continuity.md#dependency) — o grau em que terceiros dependem do sistema ou de seus resultados;
   - vulnerabilidade — a facilidade com que quem aposta ou é afetado pode sofrer danos; e
   - estabilidade sistêmica — se uma falha pode se espalhar para além do sistema.
-- **Testar usos indevidos.** Avaliar o sistema nos termos do [Capítulo Oito §3 Avaliação de Certificação de Todo o Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), incluindo:
+- **Testar usos indevidos:** Avaliar o sistema nos termos do [Capítulo Oito §3 Avaliação de Certificação de Todo o Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), incluindo:
   - coordenação entre atores para afetar o evento que determina o resultado; e
   - dinâmicas de escala — como os riscos mudam quando aumentam o volume, a participação ou a exposição.
 

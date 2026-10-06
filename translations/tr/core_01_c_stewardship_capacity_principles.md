@@ -1445,16 +1445,16 @@ Bu alt bölüm, piyasa sinyallerinin neden anayasal kanıt olmadığını açık
 
 Yetkilendirme, tasarım ve işletim dört şeyi yapmalıdır:
 
-- **Bahis konusu olabilecek olayları sınırlayın.** Sistem tarafından izin verilen her temel olaya [Gereklilik](core_05_band_accountability.md#necessity) ve [Orantılılığı](core_05_band_accountability.md#proportionality) uygulayın; böylece izin verilen hiçbir olay yasa dışı zararı ödüllendirmesin veya vekâlet, kamu ya da haklarla ilgili kararları çarpıtmasın.
-- **Sonuçların nasıl çözüme bağlandığını kontrol edin.** Çözüm prosedürünü yazılı hâle getirin ve dayandığı her sonuç çözüm kaynağını adlandırın. Şunları zorunlu kılın:
+- **Bahis konusu olabilecek olayları sınırlayın:** Sistem tarafından izin verilen her temel olaya [Gereklilik](core_05_band_accountability.md#necessity) ve [Orantılılığı](core_05_band_accountability.md#proportionality) uygulayın; böylece izin verilen hiçbir olay yasa dışı zararı ödüllendirmesin veya vekâlet, kamu ya da haklarla ilgili kararları çarpıtmasın.
+- **Sonuçların nasıl çözüme bağlandığını kontrol edin:** Çözüm prosedürünü yazılı hâle getirin ve dayandığı her sonuç çözüm kaynağını adlandırın. Şunları zorunlu kılın:
   - maddi çıkarı olan taraflardan bağımsızlık;
   - uygulanabilir olduğunda birden fazla kaynak; ve
   - itiraza açık kalmaya devam eden uyuşmazlık yolları.
-- **Herhangi bir aktörün üstlenebileceği miktarı sınırlayın.** Yoğunlaşma, kaldıraç ve risk için sınırlar belirleyin; bunları şu unsurlara göre ölçeklendirin:
+- **Herhangi bir aktörün üstlenebileceği miktarı sınırlayın:** Yoğunlaşma, kaldıraç ve risk için sınırlar belirleyin; bunları şu unsurlara göre ölçeklendirin:
   - [Bağımlılık](core_05_band_continuity.md#dependency) — başkalarının sisteme veya sonuçlarına ne ölçüde dayandığı;
   - kırılganlık — bahis oynayanların veya etkilenenlerin ne kadar kolay zarara uğratılabileceği; ve
   - sistemik istikrar — bir arızanın sistem dışına yayılıp yayılamayacağı.
-- **Kötüye kullanımı sınayın.** Sistemi [Sekizinci Bölüm §3 Tüm Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) kapsamında değerlendirin; buna şunlar dâhildir:
+- **Kötüye kullanımı sınayın:** Sistemi [Sekizinci Bölüm §3 Tüm Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) kapsamında değerlendirin; buna şunlar dâhildir:
   - sonucu belirleyen olayı etkilemek için aktörler arasındaki koordinasyon; ve
   - ölçek dinamikleri — hacim, katılım veya risk arttıkça risklerin nasıl değiştiği.
 
