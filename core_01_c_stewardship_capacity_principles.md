@@ -1445,16 +1445,16 @@ This subsection sets out why market signals are not constitutional proof:
 
 Authorization, design, and operation must do four things:
 
-- **Limit the events that can be staked on.** Apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to each underlying event the system permits, so that no permitted event rewards unlawful harm or distorts fiduciary, public, or rights-relevant decisions.
-- **Control how outcomes are resolved.** Write down the resolution procedure and name every outcome-resolution source it relies on. Require:
+- **Limit the events that can be staked on:** apply [Necessity](core_05_band_accountability.md#necessity) and [Proportionality](core_05_band_accountability.md#proportionality) to each underlying event the system permits, so that no permitted event rewards unlawful harm or distorts fiduciary, public, or rights-relevant decisions.
+- **Control how outcomes are resolved:** write down the resolution procedure and name every outcome-resolution source it relies on. Require:
   - independence from parties with a material stake;
   - more than one source where feasible; and
   - dispute pathways that stay open to challenge.
-- **Cap how much any one actor can take on.** Set limits on concentration, leverage, and exposure, scaled to:
+- **Cap how much any one actor can take on:** set limits on concentration, leverage, and exposure, scaled to:
   - [Dependency](core_05_band_continuity.md#dependency) — how heavily others rely on the system or its outcomes;
   - vulnerability — how easily those who stake or are affected can be harmed; and
   - systemic stability — whether a failure could spread beyond the system.
-- **Test for misuse.** Evaluate the system under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), including:
+- **Test for misuse:** evaluate the system under [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), including:
   - coordination among actors to affect the event that decides the outcome; and
   - scale dynamics — how risks change as volume, participation, or exposure grows.
 

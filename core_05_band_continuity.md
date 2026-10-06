@@ -1000,7 +1000,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 - **What it is**
   - **In scope:** Risk of large-scale, civilization-relevant, or survival-critical harm, including:
-    - irreversible loss of [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity);
+    - irreversible loss of [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity) at a scale that threatens survival-critical layers (the loss of any natural ecosystem's recovery capacity, at any scale, is a separate highest-scrutiny trigger under [Article I-D](core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity));
     - collapse of critical layers supporting sentient life;
     - failures of coordination around [Environmental Preconditions](core_05_band_continuity.md#environmental-preconditions); and
     - rare paths that are unlikely to occur, but would cause catastrophic harm if they did.

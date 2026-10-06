@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-06T05:09:22+00:00",
+  "generated_at": "2026-10-06T05:37:34+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -3970,118 +3970,118 @@
       ]
     },
     "core_08_b_system_alignment_certification_record_process.md": {
-      "total_lines": 489,
+      "total_lines": 492,
       "sections": [
         {
           "header": "CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS",
           "level": 1,
           "line_start": 2,
-          "line_end": 489,
+          "line_end": 492,
           "anchor": "#chapter-eight-part-b-certification-record-and-process"
         },
         {
           "header": "4. System Certification Record",
           "level": 3,
           "line_start": 39,
-          "line_end": 168,
+          "line_end": 171,
           "anchor": "#4-system-certification-record"
         },
         {
           "header": "4.1 Minimum record contents",
           "level": 4,
           "line_start": 61,
-          "line_end": 121,
+          "line_end": 124,
           "anchor": "#41-minimum-record-contents"
         },
         {
           "header": "4.2 Record integrity: transparency and auditability",
           "level": 4,
-          "line_start": 122,
-          "line_end": 168,
+          "line_start": 125,
+          "line_end": 171,
           "anchor": "#42-record-integrity-transparency-and-auditability"
         },
         {
           "header": "5. Forum Process",
           "level": 3,
-          "line_start": 169,
-          "line_end": 340,
+          "line_start": 172,
+          "line_end": 343,
           "anchor": "#5-forum-process"
         },
         {
           "header": "5.1 Forum supervision and component roles",
           "level": 4,
-          "line_start": 200,
-          "line_end": 240,
+          "line_start": 203,
+          "line_end": 243,
           "anchor": "#51-forum-supervision-and-component-roles"
         },
         {
           "header": "5.2 Supervisory sequence",
           "level": 4,
-          "line_start": 241,
-          "line_end": 263,
+          "line_start": 244,
+          "line_end": 266,
           "anchor": "#52-supervisory-sequence"
         },
         {
           "header": "5.3 Challenging a certification",
           "level": 4,
-          "line_start": 264,
-          "line_end": 340,
+          "line_start": 267,
+          "line_end": 343,
           "anchor": "#53-challenging-a-certification"
         },
         {
           "header": "5.3.1 Contestability paths",
           "level": 5,
-          "line_start": 299,
-          "line_end": 318,
+          "line_start": 302,
+          "line_end": 321,
           "anchor": "#531-contestability-paths"
         },
         {
           "header": "5.3.2 Contestability chain",
           "level": 5,
-          "line_start": 319,
-          "line_end": 332,
+          "line_start": 322,
+          "line_end": 335,
           "anchor": "#532-contestability-chain"
         },
         {
           "header": "5.3.3 Anti-bypass",
           "level": 5,
-          "line_start": 333,
-          "line_end": 340,
+          "line_start": 336,
+          "line_end": 343,
           "anchor": "#533-anti-bypass"
         },
         {
           "header": "6. Outcomes, Revalidation, and Reopening",
           "level": 3,
-          "line_start": 341,
-          "line_end": 415,
+          "line_start": 344,
+          "line_end": 418,
           "anchor": "#6-outcomes-revalidation-and-reopening"
         },
         {
           "header": "6.1 Certification outcomes",
           "level": 4,
-          "line_start": 359,
-          "line_end": 382,
+          "line_start": 362,
+          "line_end": 385,
           "anchor": "#61-certification-outcomes"
         },
         {
           "header": "6.2 Revalidation and reopening",
           "level": 4,
-          "line_start": 383,
-          "line_end": 405,
+          "line_start": 386,
+          "line_end": 408,
           "anchor": "#62-revalidation-and-reopening"
         },
         {
           "header": "6.3 Non-evasion",
           "level": 4,
-          "line_start": 406,
-          "line_end": 415,
+          "line_start": 409,
+          "line_end": 418,
           "anchor": "#63-non-evasion"
         },
         {
           "header": "7. Relationship to Standing",
           "level": 3,
-          "line_start": 416,
-          "line_end": 489,
+          "line_start": 419,
+          "line_end": 492,
           "anchor": "#7-relationship-to-standing"
         }
       ]

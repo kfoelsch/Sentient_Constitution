@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-06T05:09:23+00:00",
+  "generated_at": "2026-10-06T05:37:35+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4426,7 +4426,7 @@
           },
           {
             "file": "core_06_rights_part_a.md",
-            "count": 37,
+            "count": 38,
             "anchors": [
               "#article-i-a-environmental-preconditions-and-ecological-integrity",
               "#article-i-b-ecological-footprint-and-transparency",
@@ -8011,7 +8011,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 246,
+            "count": 247,
             "anchors": [
               "#anti-displacement-floor",
               "#anti-displacement-floor-constitutional-a",
@@ -13976,8 +13976,9 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 16,
+            "count": 17,
             "anchors": [
+              "#ecological-recovery-capacity",
               "#system-alignment-certification",
               "#system-boundary-integrity",
               "#system-certification-record",
@@ -13990,6 +13991,13 @@
             "anchors": [
               "#materiality",
               "#public-oversight-baseline-disclosure"
+            ]
+          },
+          {
+            "file": "core_06_rights_part_a.md",
+            "count": 1,
+            "anchors": [
+              "#article-i-d-existential-risk-and-ecological-recovery-capacity"
             ]
           },
           {

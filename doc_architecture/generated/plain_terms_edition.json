@@ -5161,52 +5161,52 @@
           "level": 4,
           "title": "4.2 Record integrity: transparency and auditability",
           "anchor": "42-record-integrity-transparency-and-auditability",
-          "line": 122,
+          "line": 125,
           "gloss": "a certification record only works if sentients can read it and check it. This section puts transparency and auditability directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XVI** (*Audit, Transparency, and Independent Verification*) or sibling audit modes. The third requirement — that sentients can push back — is in [§5.3](#53-challenging-a-certification).",
-          "gloss_line": 134
+          "gloss_line": 137
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
           "title": "5. Forum Process",
           "anchor": "5-forum-process",
-          "line": 169,
+          "line": 172,
           "gloss": "certification is not a pile of opinions from different corners. Different forum families each handle a defined piece of the work, one lawful supervisory sequence decides what counts and in what order, and a matching chain of challenge paths tells affected parties how to push back at each step without getting lost in internal bureaucracy or bounced between forums.",
-          "gloss_line": 183
+          "gloss_line": 186
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "5.1 Forum supervision and component roles",
           "anchor": "51-forum-supervision-and-component-roles",
-          "line": 200,
+          "line": 203,
           "gloss": "certifying that a system meets constitutional alignment is not a one-person or one-department job. Different forum families each handle a defined piece of that work. No single specialty — not even technical review or Integrity coordination — can run the whole process alone.",
-          "gloss_line": 202
+          "gloss_line": 205
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "5.2 Supervisory sequence",
           "anchor": "52-supervisory-sequence",
-          "line": 241,
+          "line": 244,
           "gloss": "when this section says **stay**, it means a temporary pause — holding off final approval, reliance, or the next supervisory step until the right forum finishes review. A stay is not a final yes or no.",
-          "gloss_line": 243
+          "gloss_line": 246
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "5.3 Challenging a certification",
           "anchor": "53-challenging-a-certification",
-          "line": 264,
+          "line": 267,
           "gloss": "a certification record only works if sentients can push back when it is wrong. A challenge has to be real — able to reopen review, pause reliance, and reach the forum with authority over the point in dispute — not a ceremonial complaints box.",
-          "gloss_line": 275
+          "gloss_line": 278
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 5,
           "title": "5.3.1 Contestability paths",
           "anchor": "531-contestability-paths",
-          "line": 299,
+          "line": 302,
           "gloss": null,
           "gloss_line": null
         },
@@ -5215,7 +5215,7 @@
           "level": 5,
           "title": "5.3.2 Contestability chain",
           "anchor": "532-contestability-chain",
-          "line": 319,
+          "line": 322,
           "gloss": null,
           "gloss_line": null
         },
@@ -5224,7 +5224,7 @@
           "level": 5,
           "title": "5.3.3 Anti-bypass",
           "anchor": "533-anti-bypass",
-          "line": 333,
+          "line": 336,
           "gloss": null,
           "gloss_line": null
         },
@@ -5233,16 +5233,16 @@
           "level": 3,
           "title": "6. Outcomes, Revalidation, and Reopening",
           "anchor": "6-outcomes-revalidation-and-reopening",
-          "line": 341,
+          "line": 344,
           "gloss": "every certification ends in a stated outcome, and no outcome lasts forever. When the system, the risks, or the facts change — or when someone credibly challenges the record — review must reopen. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.",
-          "gloss_line": 355
+          "gloss_line": 358
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "6.1 Certification outcomes",
           "anchor": "61-certification-outcomes",
-          "line": 359,
+          "line": 362,
           "gloss": null,
           "gloss_line": null
         },
@@ -5251,7 +5251,7 @@
           "level": 4,
           "title": "6.2 Revalidation and reopening",
           "anchor": "62-revalidation-and-reopening",
-          "line": 383,
+          "line": 386,
           "gloss": null,
           "gloss_line": null
         },
@@ -5260,7 +5260,7 @@
           "level": 4,
           "title": "6.3 Non-evasion",
           "anchor": "63-non-evasion",
-          "line": 406,
+          "line": 409,
           "gloss": null,
           "gloss_line": null
         },
@@ -5269,9 +5269,9 @@
           "level": 3,
           "title": "7. Relationship to Standing",
           "anchor": "7-relationship-to-standing",
-          "line": 416,
+          "line": 419,
           "gloss": "certification can feed standing, but it is not standing. A good or bad certification record may supply verified facts to Chapter Nine — only through a strict gate — and Chapters Nine and Ten alone decide standing records and effects.",
-          "gloss_line": 429
+          "gloss_line": 432
         }
       ]
     },

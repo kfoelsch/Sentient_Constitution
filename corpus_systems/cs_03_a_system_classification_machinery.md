@@ -38,7 +38,7 @@ CS-3 (*System classification machinery*) implements:
 
 - **How class is determined**
   - **Holistic multi-dimension classification** — evaluate impact, dependency, and risk together under real and foreseeable conditions ([§1.1 Holistic classification](#11-holistic-classification); [§2.1 Classification dimensions](#21-classification-dimensions); [§2.2 Real-world application](#22-real-world-application))
-  - **Existential and worst-case accounting** — classify to the highest plausible level where credible failure modes or civilization-scale harm pathways exist ([§1.2 Classification and existential risk](#12-classification-and-existential-risk))
+  - **Existential and worst-case accounting** — classify to the highest plausible level where credible failure modes, civilization-scale harm pathways, or paths to loss of any natural ecosystem's ecological recovery capacity exist ([§1.2 Classification and existential risk](#12-classification-and-existential-risk))
   - **Mandatory functional classification** — class follows observed and reasonably foreseeable effects, not intent or self-description; remains transparent, auditable, challengeable, and continuously revalidated in a System Classification Record ([§1.3 Mandatory, functional classification](#13-mandatory-functional-classification))
   - **Alignment-status recognition and ambiguity default** — the System Classification Record must support forum recognition or revalidation when official alignment status is required; ambiguity defaults to protecting Foundational Rights ([§1.4 Alignment-status recognition and ambiguity default](#14-alignment-status-recognition-and-ambiguity-default))
   - **Criticality, concentration, temporal, and adversarial factors** — operational criticality, concentration triggers, delayed/threshold behavior, and adversarial dynamics ([§3 Criticality, concentration, temporal, and adversarial factors](#cs-33-criticality-concentration-temporal-and-adversarial-factors))
@@ -67,13 +67,13 @@ That evaluation must align governance, responsibility, and rights with performan
 <a id="12-classification-and-existential-risk"></a>
 **1.2. Classification and existential risk.**
 
-*In plain terms: classify for credible worst cases in the system's real environment — and treat irreversible or civilization-scale harm pathways as highest-class stakes.*
+*In plain terms: classify for credible worst cases in the system's real environment — and treat irreversible or civilization-scale harm pathways, and the loss of any ecosystem's ability to recover, as highest-class stakes.*
 
 Account for expected and credible worst-case conditions in the system's realistic environment:
 
 - Where credible failure modes produce materially higher impact, dependency, or risk, classification must reflect them unless they are **demonstrably excluded** through robust, verifiable constraints
 - Where classification is **uncertain**, govern at the **highest plausible** classification until resolved
-- Where failure, combination, or aggregation creates credible causal pathways to irreversible or civilization-scale harm — including collapse of critical system layers or loss of ecological recovery capacity — treat as existential risk
+- Where failure, combination, or aggregation creates credible causal pathways to irreversible or civilization-scale harm — including collapse of critical system layers — or to irreversible loss of the [Ecological Recovery Capacity](../core_05_band_continuity.md#ecological-recovery-capacity) of any natural ecosystem, at any scale, treat as existential risk or ecological-recovery risk under [Article I-D](../core_06_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (highest scrutiny)
 - Systems contributing materially to such risk must be classified and governed at the **highest applicable** level regardless of isolated impact
 
 <a id="13-mandatory-functional-classification"></a>

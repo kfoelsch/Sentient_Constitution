@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-06T05:09:24+00:00",
+  "generated_at": "2026-10-06T05:37:35+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16305,
+  "edge_count": 16308,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -37370,6 +37370,14 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "Existential Risk",
       "source_anchor": "#existential-risk",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-i-d-existential-risk-and-ecological-recovery-capacity",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Existential Risk",
+      "source_anchor": "#existential-risk",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
@@ -56756,7 +56764,7 @@
       "source_anchor": "#article-i-d-existential-risk-and-recovery-capacity",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-recovery-capacity",
-      "count": 4
+      "count": 5
     },
     {
       "source_file": "core_06_rights_part_a.md",
@@ -126116,6 +126124,22 @@
       "source_anchor": "#cs-3-1-purpose-and-scope",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-certification-record",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "source_header": "CS-3.1 Purpose and scope",
+      "source_anchor": "#cs-3-1-purpose-and-scope",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-recovery-capacity",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "source_header": "CS-3.1 Purpose and scope",
+      "source_anchor": "#cs-3-1-purpose-and-scope",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-i-d-existential-risk-and-ecological-recovery-capacity",
       "count": 1
     },
     {

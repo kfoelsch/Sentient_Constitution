@@ -111,7 +111,10 @@ The record must identify, at minimum:
   - ecological exposure, [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) attribution, environmental-precondition dependency, lifecycle burden, restoration duty, and environmental-alignment component review where material;
   - capture, self-review, incentive-alignment, evidence-control, and contest-pathway risks;
 - **Forum supervision:** the forum family or authority issuing, adopting, referring, certifying, staying, or reviewing each component, and the supervisory sequence — who oversees what, and in what order — under [§5.2 Supervisory sequence](#52-supervisory-sequence);
-- **Functional-independence record:** the initiating seat, verify-or-authorize seat, record seat, and contest seat required by [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor), including each holder and authority; every recusal, delegation, substitute, permitted merger, or emergency departure; and enough control-line information to show that the operator or proponent did not verify its own certification claim or control the challenge to it;
+- **Functional-independence record:**
+  - the initiating seat, verify-or-authorize seat, record seat, and contest seat required by [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor), including each holder and authority;
+  - every recusal, delegation, substitute, permitted merger, or emergency departure; and
+  - enough control-line information to show that the operator or proponent did not verify its own certification claim or control the challenge to it;
 - **Challenge paths:** the named [contestability paths](#531-contestability-paths) and the contestability chain under [§5.3 Challenging a certification](#53-challenging-a-certification) — how affected parties can challenge at each step;
 - **Outcome and reliance limits:** the certification outcome under [§6.1 Certification outcomes](#61-certification-outcomes), the revalidation cadence, reopening triggers, and limits on reliance.
 
