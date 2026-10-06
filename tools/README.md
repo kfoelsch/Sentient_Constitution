@@ -2,6 +2,29 @@
 
 Python utilities for this repository. Run from the repo root unless noted.
 
+## Translation maintenance
+
+`tools/translation_audit.py` uses the English-source column in each locale's
+`translations/<locale>/README.md` table to run the translation checks:
+
+| Command | Checks |
+|---|---|
+| `make translation-audit` | Freshness/review status, anchor and Markdown structure, local links/fragments, glossary surface-form review, and the Chapter Five definition directory |
+| `make translation-freshness-audit` | Source/translation hashes against `translations/review_status.json`; reports unreviewed files separately from drift |
+| `make translation-structure-audit` | Preserved English IDs, heading levels, lists, tables, details blocks, and code fences |
+| `make translation-link-audit` | Reuses `local_markdown_fragment_audit.py` on translated files and locale README tables |
+| `make translation-terminology-audit` | Counts exact locale-glossary forms and emits possible review flags; it does not assess meaning or morphology |
+| `make translation-manifest-init` | Creates an inventory-only manifest snapshot; no file is marked reviewed |
+| `make translation-manifest-sync` | Adds newly mapped translations without resetting existing hashes or review records |
+
+After a fluent reader who did not draft the translation has reviewed it against
+English, record that attestation with
+`python3 tools/translation_audit.py record-review --locale es --file core_00_preamble.md --reviewer 'Name' --confirm-fluent-independent-review`.
+The command updates the source and
+translation hashes and review date. Do not use it to label an AI draft or an
+unreviewed file as reviewed. The glossary and structural reports are review
+queues, not quality certifications.
+
 ## Markdown conventions
 
 Put a **blank line before** `---` when you mean a horizontal rule between sections. If `---` sits directly under a paragraph, CommonMark-style parsers may treat that paragraph as a Setext-style heading instead. `make corpus-markdown-audit` enforces this rule on corpus files.
