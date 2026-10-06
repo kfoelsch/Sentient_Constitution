@@ -167,7 +167,7 @@ The functional four-seat floor applies at every class. The class-scaled question
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Article XXIV](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- Upstream: [§2](#2-four-seat-constitutional-floor); [Authority-scaled answerability](core_01_c_stewardship_capacity_principles.md#181-governance-as-authorized-structure); [Article XXV](core_06_rights_part_d.md#article-xxv-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Downstream: [§4](#4-wrong-seat-routing); [§5](#5-published-placement-vacancy-and-substitution); [§8](#8-act-records-and-attributable-handoffs); Chapter Eight certification component roles; Chapter Nine record custody; Chapter Twelve forum anti-self-judging.
 - Read with: [Material Control Line](core_05_band_accountability.md#material-control-line); [CI-5](corpus_institutions/ci_05_conflict_integrity_anti_capture_anti_corruption.md) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-7](corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
 

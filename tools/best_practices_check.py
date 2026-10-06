@@ -45,7 +45,7 @@ REVIEWS = [
     DomainReview(
         domain="Rights, equitable treatment, and protected persons",
         external_sections="OECD 2023 II; OHCHR 2011 GP/I/II/III",
-        internal_anchor="SC Arts V-XIII, XVIII, XXIV; Defs Ch 3-5",
+        internal_anchor="SC Arts V-XIII, XVIII, XXV; Defs Ch 3-5",
         design=3,
         operationalization=3,
         evidence=2,
@@ -60,7 +60,7 @@ REVIEWS = [
     DomainReview(
         domain="Separation of powers, role clarity, and anti-self-judging",
         external_sections="FRC 2024 Section 2; IIA Principles 1-5; OECD Integrity 2/12",
-        internal_anchor="SC Ch 10; Art XXIII; Ch 6 sec. 5; CI-3 to CI-8",
+        internal_anchor="SC Ch 10; Art XXIV; Ch 6 sec. 5; CI-3 to CI-8",
         design=3,
         operationalization=3,
         evidence=2,
@@ -75,7 +75,7 @@ REVIEWS = [
     DomainReview(
         domain="Composition, competency, succession, and removal",
         external_sections="FRC 2024 Section 3; IIA Applying the model; OECD Integrity leadership/capacity",
-        internal_anchor="Art XXIII-B to XXIII-D; Ch 6 sec. 5; CI-4, CI-14; CF-10",
+        internal_anchor="Art XXIV-B to XXIV-D; Ch 6 sec. 5; CI-4, CI-14; CF-10",
         design=2,
         operationalization=2,
         evidence=2,
@@ -90,7 +90,7 @@ REVIEWS = [
     DomainReview(
         domain="Conflict integrity, anti-corruption, and anti-capture",
         external_sections="OECD Integrity 4/10/11; ISO 37001/37301 by analogy",
-        internal_anchor="SC Ch 1 sec. 7.2; Arts XII-D, XIII-D, XXIII; Ch 9; CI-5, CI-11, CI-13",
+        internal_anchor="SC Ch 1 sec. 7.2; Arts XII-D, XIII-D, XXIV; Ch 9; CI-5, CI-11, CI-13",
         design=2,
         operationalization=2,
         evidence=1,
@@ -120,7 +120,7 @@ REVIEWS = [
     DomainReview(
         domain="Transparency, disclosure, and public intelligibility",
         external_sections="OECD 2023 IV; OECD Integrity 9/13; NIST Govern/Measure; OHCHR II/III",
-        internal_anchor="Arts IX, XIV, XV, XXI, XXIII-C, XXIV-E; Defs Ch 4; CI-12, CI-26; CJS-3.3/CJS-3.4/CJS-3.14-CJS-3.12",
+        internal_anchor="Arts IX, XIV, XV, XXI, XXIV-C, XXV-E; Defs Ch 4; CI-12, CI-26; CJS-3.3/CJS-3.4/CJS-3.14-CJS-3.12",
         design=3,
         operationalization=2,
         evidence=2,
@@ -135,7 +135,7 @@ REVIEWS = [
     DomainReview(
         domain="Independent assurance and verification",
         external_sections="IIA Principles 4-5; OECD Integrity 12; FRC 2024 Section 4",
-        internal_anchor="Arts XV and XXIII; Ch 10; Defs Ch 4; CI-7, CI-8; CF-8, CF-9, CF-10; doc_architecture sec. 15-17",
+        internal_anchor="Arts XV and XXIV; Ch 10; Defs Ch 4; CI-7, CI-8; CF-8, CF-9, CF-10; doc_architecture sec. 15-17",
         design=3,
         operationalization=3,
         evidence=3,
@@ -165,7 +165,7 @@ REVIEWS = [
     DomainReview(
         domain="Remedy, redress, contestability, and restorative closure",
         external_sections="OHCHR III; OECD 2023 II; OECD Integrity 11/13",
-        internal_anchor="Arts XIII-B, XV, XVIII-B, XXIV, XXV; Ch 8; CI-6, CI-13; CS-7",
+        internal_anchor="Arts XIII-B, XV, XVIII-B, XXV, XXVI; Ch 8; CI-6, CI-13; CS-7",
         design=3,
         operationalization=2,
         evidence=2,
@@ -180,7 +180,7 @@ REVIEWS = [
     DomainReview(
         domain="Continuity, resilience, transition, and emergency discipline",
         external_sections="OECD 2023 VI; FRC 2024 Section 4; NIST Manage; ISO 37000 risk governance/social responsibility",
-        internal_anchor="Arts XXIV-XXV; Amendment Ch 13-15; CI-14; CS-10/CS-11/CS-12/CS-8",
+        internal_anchor="Arts XXV-XXVI; Amendment Ch 13-15; CI-14; CS-10/CS-11/CS-12/CS-8",
         design=3,
         operationalization=3,
         evidence=3,
@@ -195,7 +195,7 @@ REVIEWS = [
     DomainReview(
         domain="Amendment validity, non-regression, and controlled change",
         external_sections="OECD 2023 I/V/VI; FRC 2024 Section 1/4; ISO/IEC 42001 9-10 by analogy",
-        internal_anchor="Amendment Ch 13-15; Art XX; Art XXV; Ch 15",
+        internal_anchor="Amendment Ch 13-15; Art XX; Art XXVI; Ch 15",
         design=3,
         operationalization=3,
         evidence=2,

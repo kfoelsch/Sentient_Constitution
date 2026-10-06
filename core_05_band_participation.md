@@ -1834,7 +1834,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
 
 - **Joint invocation:** where mobility rights, refuge from non-compliance, or baseline recognition across regime boundaries is material.
 - **Scope:** where joint invocation is met, the Participation home for mobility rights and baseline recognition across regime boundaries — keeping constitutional protection in force across jurisdictional and structural breaks.
-- **Owner floor:** implements [Article XXI-D](core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+- **Owner floor:** implements [Article XXII](core_06_rights_part_d.md#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), through **Article XXII-A** (*Movement and Relocation*) to **Article XXII-D** (*Limitation, Custody, and Emergency Discipline*).
 
 <a id="movement-refuge-admission-qualifier"></a>
 
@@ -1907,7 +1907,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XXI-D](core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+- Owner floor: [Article XXII-A](core_06_rights_part_d.md#article-xxii-a-movement-and-relocation) (*Movement and Relocation*).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with: [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance), [Non-Statelessness](core_05_band_participation.md#non-statelessness), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
@@ -1934,7 +1934,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
       - equivalent.
   - **Boundary:**
     - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
-    - Distinct from and read with [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) under **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart).
+    - Distinct from and read with [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) under **Article XXI** (*Interoperability, Portability, and Exit Integrity*) (operational interoperability / portability / exit-integrity counterpart).
     - Governed by [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
     - ordinary travel preference or tourism; or
@@ -1981,10 +1981,10 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XXI-D](core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+- Owner floor: [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*).
 - Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) (movement, dependency, procedural fairness scaling).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
-- Read with: [Accountability, contestability, and redress pathways](core_05_band_accountability.md#accountability-contestability-and-redress-pathways); [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05_band_oversight.md#oversight-dependent-clusters), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation), [Non-Statelessness](core_05_band_participation.md#non-statelessness), [Article XXI-D](core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
+- Read with: [Accountability, contestability, and redress pathways](core_05_band_accountability.md#accountability-contestability-and-redress-pathways); [Movement, Refuge, Non-Statelessness, and Exit Integrity](core_05_band_oversight.md#oversight-dependent-clusters), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation), [Non-Statelessness](#non-statelessness), [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
 
 <br>
@@ -1997,13 +1997,13 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - federation; or
     - adopter regime
     whose practice is materially non-compliant with this Constitution holds a right to seek refuge in a compliant regime.
-  - **In scope — receiving-regime duty:** The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XXI-D](core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*).
+  - **In scope — receiving-regime duty:** The receiving regime's duty to consider and, where consistent with its own Rights-Floor, grant refuge is stated at [Article XXII-B](core_06_rights_part_d.md#article-xxii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*).
   - **Boundary:**
     - Subject to the cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - The floor applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
     - Zero-regime recognition gaps are tested under [Non-Statelessness](core_05_band_participation.md#non-statelessness).
   - **Out of scope:** ordinary relocation preference where the origin regime is not materially non-compliant.
-    Climate making a place unlivable, without a showing that the origin regime is materially non-compliant, is not this definition's refuge predicate. Whether an adopter treats that displacement as a reason to grant refuge is owned at [Article XXI-D](core_06_rights_part_d.md#xx-d-climate-unlivability-refuge-adopter-decided) (*Climate-unlivability refuge (adopter-decided)*) and does not expand or shrink this definition.
+    Climate making a place unlivable, without a showing that the origin regime is materially non-compliant, is not this definition's refuge predicate. Whether an adopter treats that displacement as a reason to grant refuge is owned at [Article XXII-B](core_06_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided) (*Climate-unlivability refuge (adopter-decided)*) and does not expand or shrink this definition.
 <a id="refuge-from-non-compliance-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Participation measurement family](core_05_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether refuge tracks:
@@ -2043,7 +2043,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Owner floor: [Article XXI-D](core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*); transitional-recognition mechanics route to **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
+- Owner floor: [Article XXII-C](core_06_rights_part_d.md#article-xxii-c-non-statelessness) (*Non-Statelessness*); transitional-recognition mechanics route to **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition governance.
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with: [Movement and Relocation](core_05_band_participation.md#movement-and-relocation), [Refuge from Non-Compliance](core_05_band_participation.md#refuge-from-non-compliance), cluster [admission qualifier](#movement-refuge-admission-qualifier), and [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
 </details>
@@ -2064,7 +2064,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
     - comparable structural discontinuity.
   - **Boundary — recognition duty ladder:**
     - **First in line:** The regime that originated, expelled, collapsed, withdrew, or exited keeps primary recognition duty if it still exists and can still recognize the sentient.
-    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation transitional recognition must fill it — under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
+    - **Backup:** If that regime is gone, refuses, or leaves a recognition gap, shared or federation transitional recognition must fill it — under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) — so the sentient never hits zero recognition.
     - **Not a hosting mandate:** Recognition is not the same as a right to be hosted by a particular adopter. Weaponized outflow and particular-adopter refusal rules live at cluster [recognition vs hosting](#movement-refuge-recognition-vs-hosting).
     - **Non-exclusion:** Applies under [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion).
   - **Boundary — restricted-status recognition:** Where documented:
@@ -2824,7 +2824,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner floor: [Chapter Thirteen §4.3](core_13_governance.md#43-decision-resolution-requirements-for-binding-stakeholder-choice) (*Decision-resolution requirements for binding stakeholder choice*).
-- Read with: [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers); [Charter](core_05_band_continuity.md#charter); [Stakeholder Status and Weight](core_05_band_participation.md#stakeholder-status-and-weight), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Weight](core_05_band_participation.md#stakeholder-weight), [Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXV-B: Rights-Collision Procedure and Restorative Alignment](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §13.1.5](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
+- Read with: [Preamble §3.3 governance-layer discipline](core_00_preamble.md#33-governance-layers); [Charter](core_05_band_continuity.md#charter); [Stakeholder Status and Weight](#stakeholder-status-and-weight), [Governance](core_05_band_accountability.md#governance), [Constitutional Contract Layer](core_05_band_integrative.md#constitutional-contract-layer), [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice), [Stakeholder Weight](#stakeholder-weight), [Article XII](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*), [Article XXVI-B: Rights-Collision Procedure and Restorative Alignment](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment), and [Chapter One §13.1.5](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality](core_05_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
@@ -2973,7 +2973,7 @@ See **Anti-Segmentation Principle**.
     - structural duties —
     the **Stakeholder System Participation** record discipline read together with:
     - [Chapter One §13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test); and
-    - **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*).
+    - **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*).
   - This record is the Stakeholder System Participation instance of the [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
   - **Out of scope:**
     - ordinary meeting minutes; or
@@ -2988,7 +2988,7 @@ See **Anti-Segmentation Principle**.
     - accepted trade-offs;
     - uncertainty treatment; and
     - review or reversal triggers —
-    consistent with **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §13.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXV-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
+    consistent with **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter One §13.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVI-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or

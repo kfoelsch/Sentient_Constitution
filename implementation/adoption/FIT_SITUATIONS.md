@@ -136,7 +136,7 @@ Each sketch names a kit door. Filling that kit is still not adoption.
 
 **In-house mixed-crew ops inside one lab.** A system operator binds *its* deploy stack: refuse unlawful or unconstitutional instructions, keep reconstructable logs, no “model internals” veto over standing measurement, no human exemption from the costly cases. Kit door: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging); if a qualifying body will record an instrument, [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md).
 
-**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded instrument (Track B under [Article XXVII-B](../../core_06_rights_part_e.md#article-xxvii-b-transitional-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-7](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) oversight.
+**Safety or alignment institute.** Ordinary research body first (Track A). Certification-steward or oversight machinery only after a recorded instrument (Track B under [Article XXVIII-B](../../core_06_rights_part_e.md#article-xxviii-b-transitional-authority-limits-and-reauthorization)). Do not relabel the working group as [CI-7](../../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md) oversight.
 
 <a id="42-high-impact-system-operators"></a>
 ### 4.2 High-impact system operators (deploy, platform, product)

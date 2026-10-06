@@ -1,10 +1,10 @@
 # Article XX: Justice After Verified Violation
-*Plain-language version of Article XX (Justice After Verified Violation), including XX-A and XX-B in `core_06_rights_part_c.md`. Disputes and timely review are in Article XXV, and emergency rules are in Chapter Twelve §6.1. The official text remains the binding version.*
+*Plain-language version of Article XX (Justice After Verified Violation), including XX-A and XX-B in `core_06_rights_part_c.md`. Disputes and timely review are in Article XXVI, and emergency rules are in Chapter Twelve §6.1. The official text remains the binding version.*
 
 ## The big idea
 When someone has been shown to have caused serious harm, the answer is never revenge, endless delay, or cruelty for its own sake. The answer is a fair process that does three things: **stop the harm, repair the damage, and make it less likely to happen again.** Any action taken should be as small as it can be while still working, last no longer than needed, and be open to challenge and review.
 
-This article covers what justice may and may not do after a violation is verified. Ordinary disputes and rights collisions go to Article XXV. Emergency measures go to Chapter Twelve §6.1.
+This article covers what justice may and may not do after a violation is verified. Ordinary disputes and rights collisions go to Article XXVI. Emergency measures go to Chapter Twelve §6.1.
 
 ## A. What justice is for
 - Stop harm that is still happening.
@@ -67,7 +67,7 @@ The emergency rules now live in Chapter Twelve §6.1, not in Article XX-B. Any r
 - If an emergency delayed notice, treat it as Tier A (one week) unless a lower-urgency reason is documented.
 - Restoring rights earlier is always fine. Going later is not, unless the "keeping it going" test above is met.
 - A full independent review must start inside the same window.
-- These numbers come from Chapter Twelve §6 and Article XXV-C. Other timing tables can't slow them down.
+- These numbers come from Chapter Twelve §6 and Article XXVI-C. Other timing tables can't slow them down.
 
 **Emergencies don't become the new normal.** Making an emergency measure permanent needs a Chapter One justification (necessity and proportionality), documented independent reauthorization, and, if it would change the constitution itself, the Chapter Seventeen process.
 

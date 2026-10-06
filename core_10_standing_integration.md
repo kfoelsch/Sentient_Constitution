@@ -262,7 +262,7 @@ Design a lock in this order:
 - Put the terms in plain view and keep a review path ([§5.3 Record visibility and escalation](#53-record-visibility-and-escalation)).
 - Apply any special violation rules that shape that attachment ([§5.4 Special violation rules](#54-special-violation-rules)).
 - Apply any mandatory special locks, using the same attachment fields ([§5.5 Special locks](#55-special-locks)).
-- Past good work does not cancel a verified harm, skip repair, or open a locked named pathway—that no-offset rule lives in [Chapter Nine §2.2 Linked records and no-offset bridge](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
+- Past help does not cancel a verified harm, skip repair, or open a locked named pathway—that no-offset rule lives in [Chapter Nine §2.2 Linked records and no-offset bridge](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) and applies here.
 - [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) already says contribution does not decide locks.
 - What contribution can do later is covered in [§6 Contribution consequences second](#6-contribution-consequences-second) and [§8 Restoration and reassessment](#8-restoration-and-reassessment).
 
@@ -292,6 +292,14 @@ Two attachment qualifiers apply whenever the lock's purpose includes risk reduct
 - the [Rights Floor](core_06_rights_part_a.md#chapter-six-foundational-rights);
 - survival-critical access; or
 - the right to receive regular wages for work that is not part of the verified violation named pathway.
+
+<a id="51-separation-limits"></a>**Separation limits.** Where a lock separates a sentient from settings, networks, associations, or other sentients under the isolation qualifier above, it must:
+
+- name the specific settings, networks, or sentients — not whole regions, jurisdictions, communities at large, or populations;
+- leave access to counsel, advocates, and any forum hearing the sentient's case;
+- satisfy **Article VIII-E** (*Non-Separation*) where it separates a protected care relationship;
+- not amount to confinement: a separation that leaves the sentient no ordinary place to live, operate, or go is a liberty restriction and requires the *Coercive or liberty-restricting safeguards* rule in [§5.4](#54-special-violation-rules) (*Special violation rules*);
+- not amount to exile, refuge denial, or statelessness under **Article XXII-B** (*Refuge from Non-Compliance*) and **Article XXII-C** (*Non-Statelessness*).
 
 A lock may still close trust, role, authority, credit, oversight, recognition, influence, **governance-voting**, or **stakeholder-participation** pathways tied to the verified risk. It may not use those named pathway limits as a back door to extinguish the protections above.
 
@@ -356,8 +364,8 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
     - money paid to repair harm to affected parties; and
     - fair settlements reached through a contestable process.
 <a id="54-transition-exception-misaligned-rewards"></a>
-- **Transition exception:** During approved transition phases under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
-  - operation stays within a **documented transition plan** and published [gate criteria](core_05_band_oversight.md#gate-criteria) under **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*);
+- **Transition exception:** During approved transition phases under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
+  - operation stays within a **documented transition plan** and published [gate criteria](core_05_band_oversight.md#gate-criteria) under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*);
   - the system is proceeding toward [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) on a published cadence, including **conditional** or **deferred recognition** where Chapter Eight allows; and
   - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved transition scope, or using transition status to evade certification, correction, or protected reporting.
 
@@ -534,7 +542,7 @@ This section starts from verified Chapter Nine contribution records that apply t
 - how current the contribution still is; and
 - whether any competency clearance for an open named pathway is met against its published bar.
 
-Past good work does not set the remedy, the correction duties, the safeguards, or the locks under [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) and [§5 Lock design and enforcement](#5-lock-design-and-enforcement). Good work also cannot cancel or balance out a verified harm—that [no-offset rule](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Nine still applies.
+Past help does not set the remedy, the correction duties, the safeguards, or the locks under [§4 Violation, correction, and prevention](#4-violation-correction-and-prevention) and [§5 Lock design and enforcement](#5-lock-design-and-enforcement). Help also cannot cancel or balance out a verified harm—that [no-offset rule](core_09_standing_assessment.md#22-linked-records-and-no-offset-bridge) from Chapter Nine still applies.
 
 Decide contribution consequences in this order:
 
@@ -703,7 +711,7 @@ This subsection sets out who may see named-pathway effects and what aggregation 
 
 This subsection sets out what the subject must be told when an effect attaches:
 
-- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and **Article XXII-A** (*Proportional Comprehensibility Right*), and must name:
+- **Plain-language statement to the subject:** When a final effect other than **no effect** attaches, the subject must receive a plain-language statement. The statement must satisfy [Chapter One §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) and **Article XXIII-A** (*Proportional Comprehensibility Right*), and must name:
   - each affected named pathway;
   - what the subject may and may not do while the effect holds;
   - the corrective conditions and reassessment point;
@@ -822,7 +830,7 @@ Forums and implementation systems must be able to look through formal structure 
 <a id="95-timely-implementation"></a>
 #### 9.5 Timely implementation
 
-Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Nine slot.
+Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Nine slot.
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 

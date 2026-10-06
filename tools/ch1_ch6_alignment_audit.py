@@ -234,8 +234,8 @@ RIGHTS_FAMILIES = {
     "equality/access": ["VI", "VII", "VIII", "IX"],
     "agency/participation": ["X", "XI", "XII"],
     "systems/trust/audit": ["XIII", "XIV", "XV", "XVI", "XVII", "XVIII"],
-    "standing/interpretation": ["XIX", "XXI", "XXII", "XXIII", "XXIV"],
-    "justice/emergency/transition": ["XX", "XXV", "XXVI", "XXVII"],
+    "standing/interpretation": ["XIX", "XXI", "XXIII", "XXIV", "XXV"],
+    "justice/emergency/transition": ["XX", "XXVI", "XXVII", "XXVIII"],
 }
 
 PRINCIPLE_RULES = [
@@ -513,7 +513,7 @@ def is_measurement_dependent(article: Article) -> bool:
     if any(term in text for terms in MEASUREMENT_FAMILIES.values() for term in terms):
         return True
     return article.article_id.split("-")[0] in {
-        "I", "III", "IV", "V", "VI", "XIII", "XVI", "XIX", "XXII", "XXV"
+        "I", "III", "IV", "V", "VI", "XIII", "XVI", "XIX", "XXIII", "XXVI"
     }
 
 

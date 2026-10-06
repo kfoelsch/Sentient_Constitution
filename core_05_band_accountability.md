@@ -609,14 +609,14 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
     **Primary assessment:**
     - Apply [Due Process](core_05_band_accountability.md#due-process), [Procedural Fairness](core_05_band_participation.md#procedural-fairness), [Contestability](core_05_band_accountability.md#contestability), [Timely Resolution](core_05_band_accountability.md#timely-resolution), [Merits Determination](core_05_band_accountability.md#merits-determination), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation), and resistance to [System Capture](core_05_band_continuity.md#system-capture).
-    - Requirements for access, review, restoration, and timely resolution are governed here, in [Due Process](core_05_band_accountability.md#due-process), [Timely Resolution](core_05_band_accountability.md#timely-resolution), **Article XIII-B** (*Right to Redress and Remedy*), and **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
+    - Requirements for access, review, restoration, and timely resolution are governed here, in [Due Process](#due-process), [Timely Resolution](#timely-resolution), **Article XIII-B** (*Right to Redress and Remedy*), and **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
     - Designated incorporated governance, institutional, and forum texts may set owner-layer procedures, but they must not narrow this definition.
 <a id="adjudication-and-dispute-resolution-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - deny access when Chapter Six or binding instruments require it;
     - capture forum decision power to prevent meaningful review;
-    - materially exceed **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or
+    - materially exceed **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) tier windows without a lawful extension; or
     - use delay instead of deciding the merits.
 
     A dispute-resolution pathway that exists only as a label or paperwork and has no real effect in the situation being evaluated is also non-compliant.
@@ -676,7 +676,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
-- Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06_rights_part_e.md](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor)); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XIII-B** (*Right to Redress and Remedy*); [Chapter Ten §9.2](core_10_standing_integration.md#92-remedy-system-durability) (*remedy-organ durability*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum intake and routing*).
+- Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) ([core_06_rights_part_e.md](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor)); [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and pipeline milestones*); **Article XIII-B** (*Right to Redress and Remedy*); [Chapter Ten §9.2](core_10_standing_integration.md#92-remedy-system-durability) (*remedy-organ durability*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*forum intake and routing*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](core_05_apex_accountability_leg.md#accountability).
 - Read with: [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Procedural Fairness](core_05_band_participation.md#procedural-fairness), [Materiality](core_05_band_oversight.md#materiality), and [Preamble §6.2 How the full chain fits together](core_00_preamble.md#62-how-the-full-chain-fits-together).
 
@@ -687,13 +687,13 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 *In plain terms: resolve serious constitutional disputes and deliver proportionate remedies within deadlines that match the stakes, without avoidable delay, exhaustion tactics, or captured resolution pathways — and without sacrificing fact-checking or appeal rights for speed.*
 
 - **What it is**
-  - **In scope:** Resolve material constitutional disputes, verify standing records, and provide proportionate remedies within the materiality-scaled windows in **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Outcomes must be verified and must avoid unnecessary delay, tactics that exhaust participants, and capture of resolution pathways.
+  - **In scope:** Resolve material constitutional disputes, verify standing records, and provide proportionate remedies within the materiality-scaled windows in **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Outcomes must be verified and must avoid unnecessary delay, tactics that exhaust participants, and capture of resolution pathways.
   - **Out of scope:** ordinary scheduling preferences or calendar targets outside material constitutional dispute windows.
 <a id="timely-resolution-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Timeliness measurement family](core_05_apex_timeliness_leg.md#measuring-timeliness) — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
 
-    **Primary assessment:** Apply the materiality tiers and pipeline-stage milestones in [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). Measure timely access and verification, not just the number of matters processed.
+    **Primary assessment:** Apply the materiality tiers and pipeline-stage milestones in [Chapter Twelve §6 Timely resolution, materiality tiers, and anti-delay discipline](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). Measure timely access and verification, not just the number of matters processed.
   - **Secondary measure:** [Timeliness](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), and [Contestability](core_05_band_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
 
     **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution), [Capture of Resolution Pathways](core_05_band_accountability.md#capture-of-resolution-pathways), [Constitutional Efficiency](core_05_band_continuity.md#constitutional-efficiency), [Avoidable Burden](core_05_band_continuity.md#avoidable-burden), and [Procedural Fairness](core_05_band_participation.md#procedural-fairness). Speed does not excuse skipping checked facts under [Chapters Two through Four](core_02_definition_structure.md), the joint requirements of **Article XX-B** (*Restriction Floors*), or core challenge and appeal rights.
@@ -1106,7 +1106,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including [**Article XXV** (*Timely Retrospective Review and Restorative Alignment*)](core_06_rights_part_e.md#article-xxv-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*) and [**Chapter Twelve §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*)); [13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Twelve §6.1** (*Emergency measures and continuation burden*)).
+- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including [**Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)](core_06_rights_part_e.md#article-xxvi-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*) and [**Chapter Twelve §6.1**](core_12_forum.md#61-emergency-measures-and-continuation-burden) (*Emergency measures and continuation burden*)); [13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Twelve §6.1** (*Emergency measures and continuation burden*)).
 - Read with: the [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](core_05_apex_accountability_leg.md#accountability), [Emergency and Contingency](core_05_band_continuity.md#emergency-and-contingency-constitutional), [Accountability](core_05_apex_accountability_leg.md#accountability), [Contestability](core_05_band_accountability.md#contestability), [Adjudication and Dispute Resolution](core_05_band_accountability.md#adjudication-and-dispute-resolution), and [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation).
 
 </details>
@@ -1715,7 +1715,7 @@ The short form for **Materially Binding Act Record** in this instrument is **Act
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (stable, inspectable interfaces); [Chapter One §18.6 Standardization](core_01_c_stewardship_capacity_principles.md#186-standardization); [Article XXI: Interoperability, Portability, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity).
+- Downstream: Principles: [Chapter One §18.5 Modular Architecture and Dependency Discipline](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) (stable, inspectable interfaces); [Chapter One §18.6 Standardization](core_01_c_stewardship_capacity_principles.md#186-standardization); [Article XXI: Interoperability, Portability, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity).
 - Read with: [Decentralization](core_05_band_accountability.md#decentralization), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Contestability](core_05_band_accountability.md#contestability), [Anti-Capture](core_05_band_continuity.md#anti-capture), [System Capture](core_05_band_continuity.md#system-capture), and [Meaningful Agency](core_05_band_participation.md#meaningful-agency).
 
 </details>
@@ -2582,7 +2582,7 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](core_05_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Preserve **Article XXV** (*Timely Retrospective Review and Restorative Alignment*)-class review safeguards and Chapter Eleven due-process hooks when a lower family certifies or escalates a matter.
+    - Preserve **Article XXVI** (*Timely Retrospective Review and Restorative Alignment*)-class review safeguards and Chapter Eleven due-process hooks when a lower family certifies or escalates a matter.
     - Distinguish certified constitutional questions from provisional implementation rulings on operational law under Chapter Twelve §4.6 (*Constitutional forums*), §4.7 (*Provisional implementation operational law*), and §5 (*Escalation and certification*).
 <a id="forum-family-constitutional-c"></a>
 - **What must hold**
@@ -2892,7 +2892,7 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Adverse findings belong on Violation Axis II and cannot be averaged, netted, or offset against contributions. Reputation, pedigree, or an unverified claim of good work is not enough.*
+*In plain terms: Contribution Nature is the positive-only Axis I classification, applied only from auditable, contestable verified contribution records. Verified harm belongs on Violation Axis II and cannot be averaged, netted, or offset against verified help. Reputation, pedigree, or an unverified claim of help is not enough.*
 
 - **What it is**
   - **In scope:**
@@ -3806,7 +3806,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [3. Foundational Objective: Wellbeing](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with **Article XX-B** (*Restriction Floors*)).
-- Owner floor: [Article XX-B](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: the least-restrictive and time-bounded floor in the same Article (durable-containment discipline); [Article XXVI](core_06_rights_part_e.md#article-xxvi-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*) non-entrenchment; [Article XXVII](core_06_rights_part_e.md#article-xxvii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) transition governance and "no durable exception authority" rule.
+- Owner floor: [Article XX-B](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: the least-restrictive and time-bounded floor in the same Article (durable-containment discipline); [Article XXVII](core_06_rights_part_e.md#article-xxvii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*) non-entrenchment; [Article XXVIII](core_06_rights_part_e.md#article-xxviii-transition-governance-continuity-and-re-baselining) (*Transition Governance, Continuity, and Re-Baselining*) transition governance and "no durable exception authority" rule.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_05_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with: [Reversibility](core_05_band_continuity.md#reversibility), [Redress and Remediation](core_05_band_accountability.md#redress-and-remediation), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation), [Use of Force](core_05_band_accountability.md#use-of-force), [Weapons of Mass Harm](core_05_band_accountability.md#weapons-of-mass-harm), [Autonomous Lethal System](core_05_band_accountability.md#autonomous-lethal-system), [Autonomous Coercion Tool](core_05_band_accountability.md#autonomous-coercion-tool), [Sentience Non-Exclusion](core_05_band_participation.md#sentience-non-exclusion), and [Irreversible Harm](core_05_band_accountability.md#irreversible-harm).
 
@@ -3840,7 +3840,7 @@ See **Anti-Segmentation Principle**.
     - re-introduction framings that route the prohibited measure through:
       - Chapter Nine impact slots or Chapter Eleven designation ("final s = 8 / s = 9" predicates);
       - **Chapter Twelve §6.1** (*Emergency measures and continuation burden*) emergency measures;
-      - **Article XXVII** (*Transition Governance, Continuity, and Re-Baselining*) transition or re-baselining governance;
+      - **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*) transition or re-baselining governance;
       - adopter-instrument custody; or
       - comparable mechanisms;
     - "rehabilitation infeasibility" or "less-restrictive measures cannot achieve safety" framings used to carry the prohibited measure past the categorical prohibition in **Article XX-B** (*Restriction Floors*);

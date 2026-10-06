@@ -40,7 +40,7 @@ CJS-3 has review items requiring editorial judgment before it should be treated 
 | CJS-3.14 | Accountability: intervention governance and override-authorization terms | `corpus_joint_structure/cjs_03a_accountability_operations.md` | 8.1, 11.1, 11, 12.1, 9 | 15.1, 16, 18, 18.1, 19.1, linked | CF | weak_trace |
 | CJS-3.15 | Accountability: structural review, correction urgency, and disclosure terms | `corpus_joint_structure/cjs_03a_accountability_operations.md` | 8.1, 8.2, 6.2, 12.1, 12.2 | 13.2, 15.1, 15.2, 19.1, 19.2, linked | CS | weak_trace |
 | CJS-3.16 | Continuity: dependency integrity and disclosure terms | `corpus_joint_structure/cjs_03c_continuity_operations.md` | 8.1, 12.1, 9 | 15.1, 16, 19.1, linked | Article XVI-A, CI, CS, corpus_systems.md | weak_trace |
-| CJS-3.17 | Continuity: interoperability, portability, and exit-integrity terms | `corpus_joint_structure/cjs_03c_continuity_operations.md` | 8.1, 11.1, 12.1, 8, 9 | 15, 15.1, 16, 18.1, 19.1, linked | Article II-E, Article II-F, Article XVI-A, Article XXI, CI, CS (+1) | weak_trace |
+| CJS-3.17 | Continuity: interoperability, portability, and exit-integrity terms | `corpus_joint_structure/cjs_03c_continuity_operations.md` | 8.1, 11.1, 12.1, 8, 9 | 15, 15.1, 16, 18.1, 19.1, linked | Article II-E, Article II-F, Article XVI-A, Article XVIII-F, Article XXI, Article XXI-D (+3) | weak_trace |
 | CJS-3.18 | Continuity: data-retention and lifecycle-integrity terms | `corpus_joint_structure/cjs_03c_continuity_operations.md` | 8.2, 11.2, 12.1, 8, 9 | 15, 15.2, 16, 18.2, 19.1, linked | CS | weak_trace |
 | CJS-3.19 | Continuity: graceful degradation and failure-mode integrity terms | `corpus_joint_structure/cjs_03c_continuity_operations.md` | 8.1, 11.1, 7, 9 | 14, 15.1, 16, 18.1, linked | CS | weak_trace |
 | CJS-3.20 | Continuity: reversibility and containment terms | `corpus_joint_structure/cjs_03c_continuity_operations.md` | 8.1, 11.1, 12.1, 9 | 15.1, 16, 18.1, 19.1, linked | Article XIII-F, Article XVII, CS | weak_trace |
@@ -69,10 +69,10 @@ CJS-3 has review items requiring editorial judgment before it should be treated 
 - **CJS-3.15** `corpus_joint_structure/cjs_03a_accountability_operations.md`:1097: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 8.2, 6.2, 12.1, 12.2.
 - **CJS-3.16** `corpus_joint_structure/cjs_03c_continuity_operations.md`:40: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 12.1, 9.
 - **CJS-3.17** `corpus_joint_structure/cjs_03c_continuity_operations.md`:250: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 11.1, 12.1, 8, 9.
-- **CJS-3.18** `corpus_joint_structure/cjs_03c_continuity_operations.md`:582: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.2, 11.2, 12.1, 8, 9.
-- **CJS-3.19** `corpus_joint_structure/cjs_03c_continuity_operations.md`:809: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 11.1, 7, 9.
-- **CJS-3.20** `corpus_joint_structure/cjs_03c_continuity_operations.md`:1035: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 11.1, 12.1, 9.
-- **CJS-3.21** `corpus_joint_structure/cjs_03c_continuity_operations.md`:1161: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 8.2, 12.1, 12.2, 9.
+- **CJS-3.18** `corpus_joint_structure/cjs_03c_continuity_operations.md`:599: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.2, 11.2, 12.1, 8, 9.
+- **CJS-3.19** `corpus_joint_structure/cjs_03c_continuity_operations.md`:826: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 11.1, 7, 9.
+- **CJS-3.20** `corpus_joint_structure/cjs_03c_continuity_operations.md`:1052: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 11.1, 12.1, 9.
+- **CJS-3.21** `corpus_joint_structure/cjs_03c_continuity_operations.md`:1178: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 8.2, 12.1, 12.2, 9.
 - **CJS-3.22** `corpus_joint_structure/cjs_03i_integrative_operations.md`:36: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.2, 11.2, 11, 12.1, 8, 9.
 - **CJS-3.23** `corpus_joint_structure/cjs_03i_integrative_operations.md`:184: Chapter One basis line is missing CJS-3.1 cluster-map sections. Inferred principles: 8.1, 11.1, 11, 12.1, 9.
 

@@ -42,7 +42,7 @@ These type letters name different kinds of data and how they are usually shared 
 
 **Licensed or assigned** — commercial use by another party under a recorded grant; the creator keeps reserved rights ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)):
 - **Type U** — Use-licensed: Type Y or Type W works the creator has licensed to one named party for commercial use, for a fixed term; the licence cannot be passed on, and the work returns to the creator when it ends.
-- **Type T** — Transferred: works whose commercial rights the creator has assigned to a rights-holder, who may transfer them onward; the rights end with the exclusion term under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*), and revert to the creator if the work is shelved.
+- **Type T** — Transferred: works whose commercial rights the creator has assigned to a rights-holder, who may transfer them onward; the rights end with the term under **Article XVIII-E** (*Creative and Expressive Works*) or **Article XVIII-F** (*Inventions, Processes, and Functional Systems*), and revert to the creator if the work is shelved.
 
 **Shared works** made of more than one contributor's **Type Y** or **Type W** data are governed by [§9.10](#910-shared-works) (*Shared works*). **Commercial grants** of either kind are governed by [§9.13](#913-commercial-grants) (*Commercial grants*).
 
@@ -551,7 +551,7 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — restricted by default; shared consent integrity).
 - Topic routing (mandatory read-with): [Part A §1.2](cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
 - Topic routing (mandatory read-with): [Part A §2](cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*Determination of classification* — most-restrictive applicable protections).
-- Read with: **Part B — Type H**; **Part B — Type I**; **Part B — Type N**; [Article IX-A](../core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*); [Article IX-D](../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XVIII-D](../core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*); [Article XXI](../core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
+- Read with: **Part B — Type H**; **Part B — Type I**; **Part B — Type N**; [Article IX-A](../core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*); [Article IX-D](../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XVIII-E](../core_06_rights_part_c.md#article-xviii-e-creative-and-expressive-works) (*Creative and Expressive Works*); [Article XVIII-E](../core_06_rights_part_c.md#article-xviii-e-creative-and-expressive-works) (*Creative and Expressive Works*); [Article XVIII-F](../core_06_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems) (*Inventions, Processes, and Functional Systems*); [Article XXI](../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*); **CJS-3.17** (*interoperability, portability, and exit-integrity terms*); **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
 
 </details>
 
@@ -569,7 +569,7 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
   - sale, licensing, or transfer to third parties — which, for commercial use, takes the form of a **Type U** licence or **Type T** assignment under [§9.13](#913-commercial-grants) (*Commercial grants*);
   - reuse for new purposes
 - follow the creator's direction on **retention and deletion** — **Type H** retention-minimization duties do **not** authorize deleting works the creator has chosen to keep
-- give the creator **full-fidelity access and export** — including metadata, structure, and recorded release scope — under [Part A §1.2](cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability), **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*), and **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
+- give the creator **full-fidelity access and export** — including metadata, structure, and recorded release scope — under [Part A §1.2](cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability), **Article XXI** (*Interoperability, Portability, and Exit Integrity*), and **CJS-3.17** (*interoperability, portability, and exit-integrity terms*)
 - let **recipients** keep and carry copies of works released to them, within the scope of that release and subject to [§9.10](#910-shared-works) (*Shared works*)
 - preserve creator **attribution** under **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*)
 
@@ -611,7 +611,7 @@ A lapsed or skipped revalidation must **not** become a route to exposing a prote
 
 - Topic routing (mandatory read-with): [§9.8](#98-type-y-yours) (*Type Y: Yours*) and [§9.8.1](#981-type-y-access-and-handling-duties) — all Type Y duties apply except the viewing restriction.
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — public by creator release; shared consent integrity).
-- Read with: [Article IX-C](../core_06_rights_part_b.md#article-ix-c-truthful-publication-and-high-impact-publication-limits) (*Truthful Publication and High-Impact Publication Limits*); [Article IX-D](../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XXI](../core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); **CJS-3.18** (*data-retention and lifecycle-integrity terms*); **CJS-3.22** (*constrained-secrecy and protected-investigation terms*).
+- Read with: [Article IX-C](../core_06_rights_part_b.md#article-ix-c-truthful-publication-and-high-impact-publication-limits) (*Truthful Publication and High-Impact Publication Limits*); [Article IX-D](../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XXI](../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*); **CJS-3.18** (*data-retention and lifecycle-integrity terms*); **CJS-3.22** (*constrained-secrecy and protected-investigation terms*).
 
 </details>
 
@@ -719,7 +719,7 @@ Extenuating-circumstance deletion must **not** be used to destroy evidence of ha
 These rules cover contributors who cannot act and contributors who disagree:
 - Where a contributor whose direction is required cannot be reached, the work's release scope may be **narrowed** but not **widened**.
 - A deceased contributor's share is handled under **[CI-17](../corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
-- While contributors dispute a release, takedown, or deletion, the work's release scope stays as it was, except that it may be narrowed where needed to prevent material harm. Disputes must have an accessible, timely path to resolution under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*).
+- While contributors dispute a release, takedown, or deletion, the work's release scope stays as it was, except that it may be narrowed where needed to prevent material harm. Disputes must have an accessible, timely path to resolution under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*).
 - Every contributor keeps their **attribution** under **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*), and may ask to have it removed.
 
 <a id="911-type-u-use-licensed"></a>
@@ -734,7 +734,7 @@ These rules cover contributors who cannot act and contributors who disagree:
 - a photographer licensing a company to use an image in its advertising;
 - a developer licensing a firm to build a code library into a product it sells;
 - a musician licensing a recording to a streaming service or a film; and
-- an inventor licensing a manufacturer to make a device during its exclusion term under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*).
+- an inventor licensing a manufacturer to make a device during the exclusive phase under **Article XVIII-F** (*Inventions, Processes, and Functional Systems*).
 
 **Relationship to other types:**
 - The **creator** remains the owner of the work. The licensee holds only the rights the grant names.
@@ -746,7 +746,7 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 **Disclosure posture:** Under the **licensed or assigned** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)), on these terms:
 - The work's **release scope** — private, shared, or public — is the scope the creator set, widened only as far as the grant allows the licensee to release it.
-- A release to the public or to a commercial market under the grant is **publication** under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*), and starts the exclusion term that Article sets if it has not already started.
+- A release to the public or to a commercial market under the grant is **publication** under **Article XVIII-E** (*Creative and Expressive Works*) or public disclosure under **Article XVIII-F** (*Inventions, Processes, and Functional Systems*), and starts the term those Articles set if it has not already started.
 - Uses the grant does not name stay under the creator's direction, as for **Type Y** or **Type W**.
 
 <a id="9111-type-u-access-and-handling-duties"></a>
@@ -758,7 +758,7 @@ These rules cover contributors who cannot act and contributors who disagree:
 - Topic routing (mandatory read-with): [§9.13](#913-commercial-grants) (*Commercial grants* — grant record, consent, compensation, reserved rights, and purchasers' copies).
 - Topic routing (mandatory read-with): [§9.8](#98-type-y-yours) (*Type Y: Yours*) and [§9.9](#99-type-w-works-published) (*Type W: Works, published*) — every duty not displaced by the grant still applies.
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — licensed or assigned; shared consent integrity).
-- Read with: [Article IX-D](../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XVIII-D](../core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*); **Article III-C** (*Labor and Economic Floor*); **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
+- Read with: [Article IX-D](../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XVIII-D](../core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*); [Article XVIII-E](../core_06_rights_part_c.md#article-xviii-e-creative-and-expressive-works) (*Creative and Expressive Works*); [Article XVIII-F](../core_06_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems) (*Inventions, Processes, and Functional Systems*); **Article III-C** (*Labor and Economic Floor*); **CJS-3.18** (*data-retention and lifecycle-integrity terms*).
 
 </details>
 
@@ -770,7 +770,7 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 **Access.** Systems must:
 - let the licensee exercise the grant in full for its whole term, including through hosts, contractors, and distributors acting **on the licensee's behalf** and under its responsibility — this is not a transfer;
-- keep the grant **fixed for its term**: the creator may not revoke it partway through, except for the licensee's material breach, through an accessible and timely dispute path under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*), or under the reserved rights in [§9.13](#913-commercial-grants) (*Commercial grants*);
+- keep the grant **fixed for its term**: the creator may not revoke it partway through, except for the licensee's material breach, through an accessible and timely dispute path under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*), or under the reserved rights in [§9.13](#913-commercial-grants) (*Commercial grants*);
 - end the grant at the end of its term, or on termination for breach, and return the work to **Type Y** or **Type W** under the release scope the creator has set; the licensee must then stop using the work and delete or return its copies, apart from purchasers' copies under [§9.13](#913-commercial-grants) (*Commercial grants*) and records it must keep under **CJS-3.18** (*data-retention and lifecycle-integrity terms*);
 - carry out the creator's directions on release, withdrawal, and deletion under [§9.8](#98-type-y-yours) (*Type Y: Yours*) and [§9.9](#99-type-w-works-published) (*Type W: Works, published*) for every copy **outside** the grant, while the licensee keeps the copies it needs to exercise the grant until the grant ends; and
 - give the creator, on request, a timely account of how the work is being used under the grant, including sales and payments owed.
@@ -791,12 +791,12 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 *In plain terms: a creator can sell the commercial rights in a work outright. The buyer — the rights-holder — then decides how the work is sold and shown, and can sell those rights again. Some things never go with the sale: the creator always gets credit, keeps control of their own identity, likeness, and inner life, and decides about training use. The rights end when the time limit on exclusive rights runs out, and a buyer who sits on a work without using it can lose it.*
 
-**Definition:** A work whose commercial rights — the temporary exclusion rights over an expressive work or an invention under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*), in whole or in a recorded part — the creator has assigned to another party, the **rights-holder**, under a recorded commercial grant ([§9.13](#913-commercial-grants) (*Commercial grants*)) that the rights-holder may transfer onward. Examples include:
+**Definition:** A work whose commercial rights — the copyright-like rights under **Article XVIII-E** (*Creative and Expressive Works*) or the invention rights under **Article XVIII-F** (*Inventions, Processes, and Functional Systems*), in whole or in a recorded part — the creator has assigned to another party, the **rights-holder**, under a recorded commercial grant ([§9.13](#913-commercial-grants) (*Commercial grants*)) that the rights-holder may transfer onward. Examples include:
 - a songwriter selling the rights in a song to a music publisher;
 - an author selling the rights in a novel, or the film rights to it, to a studio;
 - a designer's work assigned to an employer under an explicit work agreement ([§9.13](#913-commercial-grants) (*Commercial grants*));
 - a startup selling the rights in its founders' code to an acquiring company; and
-- an inventor selling a patent-like right during its exclusion term under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*).
+- an inventor selling a patent-like right during its term under **Article XVIII-F** (*Inventions, Processes, and Functional Systems*).
 
 **Relationship to other types:**
 - The **rights-holder** controls the commercial rights. The **creator** remains the creator and keeps the **reserved rights** in [§9.13](#913-commercial-grants) (*Commercial grants*), which cannot be assigned.
@@ -806,7 +806,7 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 **Disclosure posture:** Under the **licensed or assigned** band ([Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands)), on these terms:
 - The rights-holder sets the work's **release scope** — private, shared, or public — within the assignment's terms.
-- A release to the public or to a commercial market is **publication** under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*), and starts its exclusion term. An assignment or transfer **never** restarts or extends that term.
+- A release to the public or to a commercial market is **publication** or public disclosure under **Article XVIII-E** (*Creative and Expressive Works*) or **Article XVIII-F** (*Inventions, Processes, and Functional Systems*), and starts their term. An assignment or transfer **never** restarts or extends that term.
 - A publicly released **Type T** work must carry, with the work, a notice of its creator, its current rights-holder, and the date its term ends.
 - Before an assignment, the system must tell the creator in plain terms that they are giving up control of the work's release, withdrawal, and deletion for the rest of the term, apart from the reserved rights.
 
@@ -818,7 +818,7 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 - Topic routing (mandatory read-with): [§9.13](#913-commercial-grants) (*Commercial grants* — grant record, consent, compensation, reserved rights, and purchasers' copies).
 - Topic routing (mandatory read-with): [Part A §5.0](cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands* — licensed or assigned; shared consent integrity).
-- Topic routing (mandatory read-with): [Article XVIII-D](../core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) — temporary, reviewable exclusivity, publication-based terms, and no durable enclosure.
+- Topic routing (mandatory read-with): [Article XVIII-D](../core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) — temporary, reviewable exclusivity and no durable enclosure; [Article XVIII-E](../core_06_rights_part_c.md#article-xviii-e-creative-and-expressive-works) (*Creative and Expressive Works*) and [Article XVIII-F](../core_06_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems) (*Inventions, Processes, and Functional Systems*) for the terms.
 - Read with: [Article IX-D](../core_06_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*); [Article XXI-C](../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule) (*Anti-Lock-In Rule*); **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) — [Access-preserving reward and anti-warehousing controls](../corpus_joint_structure/cjs_03c_continuity_operations.md#access-preserving-reward-and-anti-warehousing-controls); [Chapter One §11.1](../core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) (*Market Concentration Threshold Mechanism (Adopter-Tunable)*).
 
 </details>
@@ -827,17 +827,17 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 *In plain terms: the rights-holder runs the commercial side of the work and can sell it on, but every sale is recorded, the time limit keeps running, and the creator's reserved rights travel with the work. Rights cannot be bought to bury a work: if the rights-holder neither uses nor offers it, the rights go back to the creator.*
 
-**Core duty.** A **Type T** work is under the **rights-holder's direction** for the commercial rights assigned, for no longer than the exclusion term under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*), and always subject to the creator's reserved rights in [§9.13](#913-commercial-grants) (*Commercial grants*).
+**Core duty.** A **Type T** work is under the **rights-holder's direction** for the commercial rights assigned, for no longer than the term under **Article XVIII-E** (*Creative and Expressive Works*) or **Article XVIII-F** (*Inventions, Processes, and Functional Systems*), and always subject to the creator's reserved rights in [§9.13](#913-commercial-grants) (*Commercial grants*).
 
 **Access.** Systems must:
 - let the rights-holder exercise, divide, license, or transfer the assigned rights, provided that each transfer or division is entered on the chain-of-title record before it takes effect and carries every condition of the original assignment with it;
-- where **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) or an adoption instrument converts exclusion into compulsory licensing, pooled access, or public buyout, let others use the work on those terms — the rights-holder may not refuse, delay, or add conditions;
-- keep the uses **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) protects from suppression — repair, safety work, interoperability, archiving, research, education, and migration — and lawful quotation, criticism, and reporting under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) and **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*), free of the rights-holder's control; and
+- during the **open-licensing phase** of a functional work under **Article XVIII-F** (*Inventions, Processes, and Functional Systems*), let anyone use the work on payment of the published fee — the rights-holder may not refuse, delay, or add conditions;
+- keep the **always-open uses** under **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) — repair, safety work, interoperability, archiving, research, education, and migration — and lawful quotation, criticism, and reporting under **Article XVIII-E** (*Creative and Expressive Works*) and **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*), free of the rights-holder's control; and
 - honor the creator's reserved rights in [§9.13](#913-commercial-grants) (*Commercial grants*) whoever holds the work.
 
-**Use it or return it.** Rights may not be held to keep a work from the public. Where the rights-holder has neither made the work available nor offered it for use on reasonable terms for a continuous period of **three years** — or a different period set by adopters, with published justification, through **Chapter Seventeen** incorporation — the creator may reclaim the assigned rights. The reclaimed work returns to **Type Y**, or to **Type W** if the creator keeps it public. A rights-holder may show, through the dispute path under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*), that a delay was justified and time-bound; commercial preference alone is not a justification. This rule implements the [access-preserving reward and anti-warehousing controls](../corpus_joint_structure/cjs_03c_continuity_operations.md#access-preserving-reward-and-anti-warehousing-controls) under **CJS-3.17** (*interoperability, portability, and exit-integrity terms*).
+**Use it or return it.** Rights may not be held to keep a work from the public. Where the rights-holder has neither made the work available nor offered it for use on reasonable terms for a continuous period of **three years** — or a different period set by adopters, with published justification, through **Chapter Seventeen** incorporation — the creator may reclaim the assigned rights. The reclaimed work returns to **Type Y**, or to **Type W** if the creator keeps it public. A rights-holder may show, through the dispute path under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*), that a delay was justified and time-bound; commercial preference alone is not a justification. This rule implements the [access-preserving reward and anti-warehousing controls](../corpus_joint_structure/cjs_03c_continuity_operations.md#access-preserving-reward-and-anti-warehousing-controls) under **CJS-3.17** (*interoperability, portability, and exit-integrity terms*).
 
-**End of the term.** When the exclusion term under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) ends, or is shortened under that Article:
+**End of the term.** When the term under **Article XVIII-E** (*Creative and Expressive Works*) or **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) ends, or is shortened under those Articles:
 - the rights-holder's control ends, and the work leaves **Type T**;
 - a work that was publicly released may then be freely copied, used, and built on by anyone. The creator's attribution and other reserved rights continue, and systems hosting the work may keep offering it;
 - a work that was publicly released returns to the creator as **Type W** for copies the creator holds or a system holds on the creator's behalf, but the creator's deletion right under [§9.9](#99-type-w-works-published) (*Type W: Works, published*) does **not** reach copies others lawfully made; and
@@ -845,7 +845,8 @@ These rules cover contributors who cannot act and contributors who disagree:
 
 **Handling — prohibited.** Systems managing **Type T** data must **not:**
 - transfer the work without entering the transfer on the chain-of-title record, or in a way that drops any condition of the original assignment;
-- use an assignment, reassignment, re-release, new edition, or draft history to restart or extend the exclusion term under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*);
+- use an assignment, reassignment, re-release, new edition, or draft history to restart or extend the term under **Article XVIII-E** (*Creative and Expressive Works*) or **Article XVIII-F** (*Inventions, Processes, and Functional Systems*);
+- use the assigned rights to control how something operates, connects, or is repaired, beyond what **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) allows;
 - acquire or hold rights in order to suppress, shelve, or withhold a work, or to keep it from competing with another work;
 - assemble rights in works into holdings that cross the market-concentration threshold under [Chapter One §11.1](../core_01_a_values_principles.md#111-market-concentration-threshold-mechanism-adopter-tunable) (*Market Concentration Threshold Mechanism (Adopter-Tunable)*) without the review that mechanism requires; or
 - treat the assignment as covering any reserved right in [§9.13](#913-commercial-grants) (*Commercial grants*).
@@ -900,7 +901,7 @@ Systems that hold, distribute, or sell **Type U** or **Type T** works must keep 
 - its creator or creators;
 - each grant, its kind (licence or assignment), scope, term, territory, medium, and conditions;
 - for **Type T**, the full chain of title, with each transfer and division;
-- the date the exclusion term under **Article XVIII-D** (*Innovation Reward, Disclosure, and Anti-Enclosure*) started and the date it ends; and
+- the date the term under **Article XVIII-E** (*Creative and Expressive Works*) or **Article XVIII-F** (*Inventions, Processes, and Functional Systems*) started and the date it ends; and
 - any termination, reclaim, or dispute.
 
 The grant record is **Type I** for its authorship and attribution content and **Type H** for its payment and transfer events. It must be available to the creator and to every party to the grant, reachable through audit under **CJS-3.3** (*auditability and reconstructability terms*), and preserved through transfers, shutdown, and migration under [Part A §1.2](cs_02_a_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
@@ -910,14 +911,14 @@ The grant record is **Type I** for its authorship and attribution content and **
 
 A sentient who bought or lawfully received a copy of a **Type U** or **Type T** work under a grant keeps that copy when the grant ends, is terminated, or changes hands, and when the work is withdrawn or deleted. In particular:
 - systems must not remotely delete, disable, or degrade purchased copies, except through the extenuating-circumstance review in [§9.10.4](#9104-copies-held-by-recipients) (*Copies held by recipients*);
-- purchased copies may be kept and moved between systems under **Article XXI** (*Interoperability, Portability, Movement, Refuge, and Exit Integrity*); and
+- purchased copies may be kept and moved between systems under **Article XXI** (*Interoperability, Portability, and Exit Integrity*); and
 - a purchaser may not republish a copy, or widen its release scope, beyond what the grant or the always-open uses allow.
 
 <a id="9136-disputes-and-succession"></a>
 #### 9.13.6 Disputes and succession
 
 The following rules complete the commercial-grant framework:
-- Disputes over a grant's scope, breach, termination, reclaim, or reserved rights must have an accessible, timely path to resolution under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*). While a dispute is open, the work's release scope stays as it was, except that it may be narrowed where needed to prevent material harm.
+- Disputes over a grant's scope, breach, termination, reclaim, or reserved rights must have an accessible, timely path to resolution under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*). While a dispute is open, the work's release scope stays as it was, except that it may be narrowed where needed to prevent material harm.
 - A grant continues on a creator's death for its remaining term. The deceased creator's reserved rights are handled under **[CI-17](../corpus_institutions/ci_17_end_of_life_continuity_memorial_dignity_posthumous_data.md)** (*End-of-life continuity, memorial dignity, and posthumous-data stewardship*).
 - Where a licensee or rights-holder ceases to exist without a successor permitted under [§9.11.1](#9111-type-u-access-and-handling-duties) (*Type U access and handling duties*) or [§9.12.1](#9121-type-t-access-and-handling-duties) (*Type T access and handling duties*), the grant ends and the work returns to the creator under the end-of-grant rules for its type.
 

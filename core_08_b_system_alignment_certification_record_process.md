@@ -139,7 +139,7 @@ The record must identify, at minimum:
 This section applies [Transparency](core_05_band_oversight.md#transparency) and [Auditability](core_05_band_oversight.md#auditability) to system alignment certification records. Canonical term homes and owner boundaries are under the [Preamble — constitutional owner register](core_00_preamble.md#4-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](core_05_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
 
 - **Transparency** and **auditability** implement **oversight**;
-- Record clarity under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) implements **timeliness** scaled to system class and [material stake](core_00_preamble.md#material-stake).
+- Record clarity under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) implements **timeliness** scaled to system class and [material stake](core_00_preamble.md#material-stake).
 
 **Transparency** — sentients must be able to see what matters:
 
@@ -279,7 +279,7 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
 
 *In plain terms: a certification record only works if sentients can push back when it is wrong. A challenge has to be real — able to reopen review, pause reliance, and reach the forum with authority over the point in dispute — not a ceremonial complaints box.*
 
-Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Contestability](core_05_band_accountability.md#contestability) implements **accountability** and preserves **participation** in challenge paths; contest clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) implement **timeliness**.
+Under the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), [Contestability](core_05_band_accountability.md#contestability) implements **accountability** and preserves **participation** in challenge paths; contest clocks under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) implement **timeliness**.
 
 Affected parties must have real ways to challenge the record:
 
@@ -310,14 +310,14 @@ A System Certification Record must name these challenge paths. They implement Di
 - **Published record challenge path** — the ordinary first step for an ordinary dispute about the certification record. The record names the [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight) contest seat:
   - who receives the challenge;
   - how to file it; and
-  - that clocks under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) run from receipt.
+  - that clocks under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) run from receipt.
   
   Internal operator review, vendor attestation, or technical sign-off is not this path.
 - **Component forum path** — the Chapter Twelve forum family with merits authority over a challenged component finding.
 - **Lead-integrity path** — Integrity routing and anti-self-judging backup when the challenge is how the lead forum ran the process, including capture, hidden information, self-review, or calling certification finished too soon.
 - **Escalation path** — Chapter Twelve transfer, certification, backup routing, and family-to-family escalation when primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it.
 
-Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or eat **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) clocks.
+Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or eat **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) clocks.
 
 <a id="532-contestability-chain"></a>
 
@@ -331,7 +331,7 @@ The contestability chain uses those paths in this order:
 2. **Component challenge** (component forum path). A challenge confined to a component finding routes to the forum family with merits authority over that component. The lead forum may [stay](core_05_band_accountability.md#stay) reliance on the challenged component pending timely review.
 3. **Lead-coordination challenge** (lead-integrity path). A challenge about how the lead forum ran the process routes under [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) integrity and anti-self-judging rules. That includes capture, hidden information, self-review, abusive step-ordering, calling certification finished too soon, or other lead-forum integrity problems. When the challenge targets that lead forum's own bias, capture, conflict, or process abuse, backup routing under those rules applies so review is not confined to the same lead forum.
 4. **Escalation and certification** (escalation path). Where primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection requires it, challenge routing continues through Chapter Twelve transfer, certification, backup routing, and family-to-family escalation.
-5. **Reliance limits during contest:** A material and timely challenge may limit or pause reliance on the certification record to the extent necessary to prevent foreseeable harm, preserve evidence, or prevent irreversible dependence on a contested finding, subject to prompt review under [Article XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+5. **Reliance limits during contest:** A material and timely challenge may limit or pause reliance on the certification record to the extent necessary to prevent foreseeable harm, preserve evidence, or prevent irreversible dependence on a contested finding, subject to prompt review under [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 <a id="533-anti-bypass"></a>
 

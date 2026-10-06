@@ -177,7 +177,7 @@ This Article sets out the floor of inherent dignity and equal standing:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [§13.1.3 Proportionality](core_01_b_interaction_interpretation.md#1313-proportionality).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article XXIV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards, **Chapter Twelve** forums and jurisdiction — default lead [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) under the [Chapter Twelve §5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification).
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article XXV** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) anti-capture safeguards, **Chapter Twelve** forums and jurisdiction — default lead [Forum Family, Technical](core_05_band_accountability.md#forum-family-technical) / [Technical Forum Domains](core_12_forum.md#42-technical-forum-domains) under the [Chapter Twelve §5 Sentience-status adjudication hook](core_12_forum.md#5-escalation-and-certification).
 - Read with: Chapter Five *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
 
 </details>
@@ -1072,7 +1072,7 @@ This Article sets out the freedom to publish in good faith and its limits:
 
 - Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Productive Capacity (Instrumental Good)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Downstream: **Article III-C** (*Labor and Economic Floor*) labor-and-economic floor; **Article IX-A** (*Self-Ownership of Likeness and Reputation*) likeness; **Article IX-B** (*Experiential and Derived Data Rights*) experiential and derived data; **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) publication; **Chapter One §11** non-concentration and **§13.1** concentration-threshold mechanism.
-- Read with: [**Def.C1** *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work) (joint invocation with **Articles III-C** (*Labor and Economic Floor*), **III-D** (*Safe Working Conditions*), and **III-E** (*Rest and Recuperation*), and [**Def.C3** (*Privacy (Informational)*)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) where materially implicated).
+- Read with: [**Def.C1** *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work) (joint invocation with **Articles III-C** (*Labor and Economic Floor*), **III-D** (*Safe Working Conditions*), and **III-E** (*Rest and Recuperation*), and [**Def.C3** (*Privacy (Informational)*)](core_05_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) where materially implicated). For copyright-like terms over creative work, read with [Article XVIII-E](core_06_rights_part_c.md#article-xviii-e-creative-and-expressive-works) (*Creative and Expressive Works*) and the shared reward rules in [Article XVIII-D](core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*).
 
 </details>
 
@@ -1239,7 +1239,7 @@ This Article sets out freedom of agency, freedom from manipulation, and freedom 
 This Article covers two things: who gets to vote, and the rule that votes on the biggest questions count equally.
 
 - **The right to vote:** Sentients have the right to vote in **governance voting** and in other **binding collective choice** that decides how authority is granted. The details are in [Chapter Thirteen §4.1 Entitlement and eligibility](core_13_governance.md#41-entitlement-and-eligibility).
-  - **Who can vote:** Anyone who meets the published eligibility criteria can vote. The only exception is a [Standing Lock](core_05_band_accountability.md#standing-lock) that specifically blocks governance voting, applied under **Article XIX-A** (*Standing Distinction*) and **Article XIX-C** (*Named-Pathway Eligibility, Responsibility, and Continuous Audit*).
+  - **Who can vote:** Anyone who meets the published eligibility criteria can vote. The only exception is a [Standing Lock](core_05_band_accountability.md#standing-lock) that specifically blocks governance voting, applied under **Article XIX-D** (*Violations and Standing Locks*) and **Article XIX-E** (*Voting and Special Locks*).
   - **Not the same as a stakeholder's say:** This vote is separate from a stakeholder's say in how an already-established system is run, which is covered in [**Article X-C** (*Stakeholder Role and Participation Rights*)](#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*). A lock on one does not lock the other.
   - **Local rules:** Each adopter's own recorded process for granting authority (its [documented legitimacy mechanism](core_05_band_integrative.md#documented-legitimacy-mechanism)), and any extra criteria set by its designated owners, apply alongside this right. They may not shrink it.
 - **Equal votes on the biggest questions:** Some decisions set the foundations — who holds governing authority, how that authority is legitimately granted, and what its scope and lasting terms are. **Chapter Five** calls these [Foundational Constitutional Choice](core_05_band_integrative.md#foundational-constitutional-choice). For these decisions, a **political-equality floor** applies:
@@ -1911,8 +1911,8 @@ This Article sets out the floors for internal roles and due process:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Read with: [System Capture](core_05_band_continuity.md#system-capture); [Anti-Capture](core_05_band_continuity.md#anti-capture); [Chapter Seven: Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Read with: [System Capture](core_05_band_continuity.md#system-capture); [Anti-Capture](core_05_band_continuity.md#anti-capture); [Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes) (*Default venue and primary stakes*) and [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*); [Chapter Eleven §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*named misconduct pattern*); [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*heightened application to **Constitutional** forums*); [Chapter Seven: Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>
 
@@ -1923,26 +1923,57 @@ This Article sets out the floors for internal roles and due process:
 - [Anti-Capture](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
 - [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
 - [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Procedural Fairness](core_05_band_participation.md#procedural-fairness) · [O](core_05_band_participation.md#procedural-fairness) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
 <br>
 
-*In plain terms: governance must actively look for — and push back against — capture, collusion, and hidden concentration of influence. Keeping key duties in separate hands is one of the main defenses.*
+*In plain terms: every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.*
 
-This Article sets out the non-capture safeguard and its link to separated duties:
+This Article sets out the non-capture safeguards for every body that decides for others, and their link to separated duties:
 
 - **Non-capture:** Governance processes must detect, disclose, and mitigate:
   - monopolization;
   - collusion;
   - structural capture.
-  
+
   Concentration of influence — including hidden or indirectly routed control — without auditability or challenge is non-compliant and implicates **Articles XI**, **XIV**, and **XV**.
 - **Separated duties:** [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) (*Functional Independence and Segregation of Duties*) sets the floor for keeping duties apart on every materially binding act:
   - distinct seats to start, approve, record, and challenge the act ([§2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor));
   - independence from whoever controls the actor ([§3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines)).
 
   Where one sentient, office, or bloc holds seats that must be separate, or controls those who hold them, that is also a sign of structural capture under this Article.
+- **Scope:** The safeguards below apply to every body that exercises decision, adjudicative, or interpretive authority over others — every **forum** family under **Chapter Twelve**, **Stakeholder System Participation** bodies under this Article, and the **appointing authorities** and **adopting institutions** that design, seat, rotate, and remove their members. Requirements scale with [material stake](core_00_preamble.md#material-stake) and dependency; the floors on disclosure, recusal, procedural gaming, and pretextual removal apply to every such body. **Constitutional forums** are held to these safeguards at their most stringent under [**Article XXV-C**](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*) and [**Article XXV-D**](core_06_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment) (*Removal for Cause and Non-Entrenchment*).
+- **Composition and conflict-control floor:** Covered bodies must be structured to preserve impartiality, prevent capture, and remain contestable. They, their **appointing authorities**, and **adopting institutions** must use transparent membership rules and conflict safeguards sufficient to prevent durable control by any single appointing authority, institution, or stakeholder bloc.
+- **Ongoing disclosure and recusal:** Members and panelists must disclose material affiliations, dependencies, and conflicts on an ongoing basis. **Recusal** must be available where impartiality is materially compromised.
+- **Enforcement and routing:**
+  - **Misconduct path:** A verified **failure to recuse** while **impartiality was materially compromised** may be alleged as **anti-constitutional misconduct** under **Chapter Eleven** when substantiated under **Chapters Two through Four** and the **Chapter Eleven** criteria set.
+  - **Integrity-first routing:** If the dispute is mainly about that recusal failure — or about a final serious misconduct finding that comes from it — it goes to **Integrity** forums first under **Chapter Twelve §2** (*Default venue and primary stakes*), using the anti-self-judging rule in **Chapter Twelve §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*).
+  - **No self-judging:** No body may be the only final forum deciding whether its own member should have stepped aside.
+- **No procedural gaming:** Covered bodies and the bodies that govern vacancy, rotation, and recusal continuity must not use those levers to create:
+  - selective paralysis;
+  - covert control.
+- **Independent external review:** At defined intervals, independent external review of covered bodies is mandatory, with depth and frequency scaled to material stake and dependency. By default, **Integrity** forums conduct it under **[Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes)** (*Default venue and primary stakes*) and the **cross-forum anti-self-judging rule** in **[Chapter Twelve §3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)** (*Transfer, consolidation, and coordination — continuity and anti-capture*). The reviewer must be structurally separate from the body under review and must not include overlapping decision-makers from its recent panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twelve §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*) applies without narrowing this obligation. The review must assess:
+  - capture indicators;
+  - decision quality;
+  - Rights-Floor integrity.
+- **Removal for cause:** Members and panelists are removable by their **appointing authorities** through transparent due-process procedures for:
+  - material breach;
+  - concealment;
+  - corruption;
+  - capture participation;
+  - persistent procedural unfairness.
+- **Periodic revalidation:** The institutional design of covered bodies — and **adopting institutions** that govern their composition, operation, and challenge pathways — must be periodically revalidated under [**Article XXVII-A**](core_06_rights_part_e.md#article-xxvii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*). **Adopting institutions** must revise that design where capture risk or challenge-rights failure is materially evidenced.
+- **Anti-pretext:** **Appointing authorities**, covered bodies, and **adopting institutions** must not use removal, restructuring, or redesign of a body or its panels as a pretext to:
+  - defeat independence;
+  - terminate pending review;
+  - retaliate for good-faith dissent;
+  - narrow challenge rights.
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures are governed by:
+  - [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
+  - **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*);
+  - for forum panels, **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) in [corpus_forum.md](corpus_forum.md).
 
 ---
 

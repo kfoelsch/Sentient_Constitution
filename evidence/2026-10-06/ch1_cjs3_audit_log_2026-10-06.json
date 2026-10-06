@@ -134,92 +134,92 @@
     },
     "6": {
       "title": "Trust and Trustworthiness (Coordination Integrity)",
-      "line": 745,
+      "line": 748,
       "file": "core_01_a_values_principles.md"
     },
     "6.1": {
       "title": "Correction and Remedy",
-      "line": 791,
+      "line": 794,
       "file": "core_01_a_values_principles.md"
     },
     "7": {
       "title": "Freedom (Bounded Agency)",
-      "line": 830,
+      "line": 833,
       "file": "core_01_a_values_principles.md"
     },
     "7.1": {
       "title": "Limitation Discipline",
-      "line": 891,
+      "line": 894,
       "file": "core_01_a_values_principles.md"
     },
     "7.2": {
       "title": "Assembly, Collective Organization, and Institutional Formation",
-      "line": 940,
+      "line": 943,
       "file": "core_01_a_values_principles.md"
     },
     "7.3": {
       "title": "Dissent and Peaceful Protest",
-      "line": 1010,
+      "line": 1013,
       "file": "core_01_a_values_principles.md"
     },
     "7.4": {
       "title": "Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
-      "line": 1051,
+      "line": 1054,
       "file": "core_01_a_values_principles.md"
     },
     "8": {
       "title": "Continuity Aim: Introduction",
-      "line": 1096,
+      "line": 1099,
       "file": "core_01_a_values_principles.md"
     },
     "9": {
       "title": "Shared-System Capacity",
-      "line": 1179,
+      "line": 1182,
       "file": "core_01_a_values_principles.md"
     },
     "9.1": {
       "title": "Productive Capacity (Instrumental Good)",
-      "line": 1245,
+      "line": 1248,
       "file": "core_01_a_values_principles.md"
     },
     "9.2": {
       "title": "Constitutional Efficiency",
-      "line": 1329,
+      "line": 1332,
       "file": "core_01_a_values_principles.md"
     },
     "10": {
       "title": "Resilience and Self-Healing Design",
-      "line": 1372,
+      "line": 1375,
       "file": "core_01_a_values_principles.md"
     },
     "11": {
       "title": "Market Structure",
-      "line": 1414,
+      "line": 1417,
       "file": "core_01_a_values_principles.md"
     },
     "11.1": {
       "title": "Market Concentration Threshold Mechanism (Adopter-Tunable)",
-      "line": 1461,
+      "line": 1464,
       "file": "core_01_a_values_principles.md"
     },
     "11.2": {
       "title": "Pro-Competition and Anti-Domination",
-      "line": 1541,
+      "line": 1544,
       "file": "core_01_a_values_principles.md"
     },
     "11.3": {
       "title": "Consolidation Ceiling",
-      "line": 1685,
+      "line": 1688,
       "file": "core_01_a_values_principles.md"
     },
     "11.4": {
       "title": "Resource and Dependency Concentration (Adopter-Tunable)",
-      "line": 1830,
+      "line": 1833,
       "file": "core_01_a_values_principles.md"
     },
     "12": {
       "title": "Systemic Evaluation Requirement",
-      "line": 1878,
+      "line": 1881,
       "file": "core_01_a_values_principles.md"
     },
     "13": {
@@ -817,7 +817,7 @@
         "Article XVI",
         "Article XVI-A",
         "Article XVI-B",
-        "Article XXII",
+        "Article XXIII",
         "CF",
         "CI",
         "CS",
@@ -2824,7 +2824,7 @@
       "title": "Continuity: interoperability, portability, and exit-integrity terms",
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "start_line": 250,
-      "end_line": 581,
+      "end_line": 598,
       "read_with": [],
       "direct_ch1_refs": [
         "15",
@@ -2845,7 +2845,9 @@
         "Article II-E",
         "Article II-F",
         "Article XVI-A",
+        "Article XVIII-F",
         "Article XXI",
+        "Article XXI-D",
         "CI",
         "CS",
         "Foundational Rights"
@@ -2874,7 +2876,7 @@
           "missing": []
         },
         {
-          "label": "Collection-time exportability and continuity-critical data integrity",
+          "label": "Closed-format justification and open-format transition controls",
           "line": 326,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2885,7 +2887,7 @@
           "missing": []
         },
         {
-          "label": "Commitment, renewal, and charge-exit integrity",
+          "label": "Collection-time exportability and continuity-critical data integrity",
           "line": 343,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2896,7 +2898,7 @@
           "missing": []
         },
         {
-          "label": "Continuity-preserving transition safeguards",
+          "label": "Commitment, renewal, and charge-exit integrity",
           "line": 360,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2907,7 +2909,7 @@
           "missing": []
         },
         {
-          "label": "Dependency-based coercion and reputation-lock pathway integrity",
+          "label": "Continuity-preserving transition safeguards",
           "line": 377,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2918,7 +2920,7 @@
           "missing": []
         },
         {
-          "label": "Digital self-service pathway integrity",
+          "label": "Dependency-based coercion and reputation-lock pathway integrity",
           "line": 394,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2929,7 +2931,7 @@
           "missing": []
         },
         {
-          "label": "Exit-feasibility disclosure and dependency transparency",
+          "label": "Digital self-service pathway integrity",
           "line": 411,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2940,7 +2942,7 @@
           "missing": []
         },
         {
-          "label": "High-vulnerability personal-service pathway integrity",
+          "label": "Exit-feasibility disclosure and dependency transparency",
           "line": 428,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2951,7 +2953,7 @@
           "missing": []
         },
         {
-          "label": "Innovation reward boundary and anti-enclosure controls",
+          "label": "High-vulnerability personal-service pathway integrity",
           "line": 445,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2962,7 +2964,7 @@
           "missing": []
         },
         {
-          "label": "Innovation-reward duration and reclassification controls",
+          "label": "Innovation reward boundary and anti-enclosure controls",
           "line": 462,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2973,7 +2975,7 @@
           "missing": []
         },
         {
-          "label": "Interchange and open-interface baseline",
+          "label": "Innovation-reward duration and reclassification controls",
           "line": 479,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2984,7 +2986,7 @@
           "missing": []
         },
         {
-          "label": "Lock-in and anti-coercion safeguards",
+          "label": "Interchange and open-interface baseline",
           "line": 496,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2995,7 +2997,7 @@
           "missing": []
         },
         {
-          "label": "Open data-format and protocol presumption",
+          "label": "Lock-in and anti-coercion safeguards",
           "line": 513,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3006,7 +3008,7 @@
           "missing": []
         },
         {
-          "label": "Portability quality and non-obstruction controls",
+          "label": "Open data-format and protocol presumption",
           "line": 530,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3017,7 +3019,7 @@
           "missing": []
         },
         {
-          "label": "Proportional application",
+          "label": "Portability quality and non-obstruction controls",
           "line": 547,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3028,8 +3030,19 @@
           "missing": []
         },
         {
-          "label": "Right-to-exit pathway integrity",
+          "label": "Proportional application",
           "line": 564,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Right-to-exit pathway integrity",
+          "line": 581,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -3047,8 +3060,8 @@
       "cluster_id": "CJS-3.18",
       "title": "Continuity: data-retention and lifecycle-integrity terms",
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "start_line": 582,
-      "end_line": 808,
+      "start_line": 599,
+      "end_line": 825,
       "read_with": [],
       "direct_ch1_refs": [
         "15",
@@ -3071,17 +3084,6 @@
       "op_rules": [
         {
           "label": "data-retention and lifecycle-integrity terms",
-          "line": 621,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Accountability-preserving record floor",
           "line": 638,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3092,7 +3094,7 @@
           "missing": []
         },
         {
-          "label": "Anti-surveillance and anti-coercion accumulation limits",
+          "label": "Accountability-preserving record floor",
           "line": 655,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3103,7 +3105,7 @@
           "missing": []
         },
         {
-          "label": "Classification and information-type alignment",
+          "label": "Anti-surveillance and anti-coercion accumulation limits",
           "line": 672,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3114,7 +3116,7 @@
           "missing": []
         },
         {
-          "label": "Justification and bounded-retention floor",
+          "label": "Classification and information-type alignment",
           "line": 689,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3125,7 +3127,7 @@
           "missing": []
         },
         {
-          "label": "Lifecycle expiry, deletion, de-identification, and reclassification controls",
+          "label": "Justification and bounded-retention floor",
           "line": 706,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3136,7 +3138,7 @@
           "missing": []
         },
         {
-          "label": "Proportional application",
+          "label": "Lifecycle expiry, deletion, de-identification, and reclassification controls",
           "line": 723,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3147,7 +3149,7 @@
           "missing": []
         },
         {
-          "label": "Purpose and proportionality criteria",
+          "label": "Proportional application",
           "line": 740,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3158,7 +3160,7 @@
           "missing": []
         },
         {
-          "label": "Review, revalidation, and prohibited patterns",
+          "label": "Purpose and proportionality criteria",
           "line": 757,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3169,7 +3171,7 @@
           "missing": []
         },
         {
-          "label": "Transition continuity and authority-transfer lifecycle integrity",
+          "label": "Review, revalidation, and prohibited patterns",
           "line": 774,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3180,8 +3182,19 @@
           "missing": []
         },
         {
-          "label": "Transparency disclosures and stakeholder legibility",
+          "label": "Transition continuity and authority-transfer lifecycle integrity",
           "line": 791,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Transparency disclosures and stakeholder legibility",
+          "line": 808,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -3199,8 +3212,8 @@
       "cluster_id": "CJS-3.19",
       "title": "Continuity: graceful degradation and failure-mode integrity terms",
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "start_line": 809,
-      "end_line": 1034,
+      "start_line": 826,
+      "end_line": 1051,
       "read_with": [],
       "direct_ch1_refs": [
         "14",
@@ -3221,17 +3234,6 @@
       "op_rules": [
         {
           "label": "graceful degradation and failure-mode integrity terms",
-          "line": 847,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Bounded operation, safe-mode transitions, and shutdown discipline",
           "line": 864,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3242,7 +3244,7 @@
           "missing": []
         },
         {
-          "label": "Cross-boundary propagation controls",
+          "label": "Bounded operation, safe-mode transitions, and shutdown discipline",
           "line": 881,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3253,7 +3255,7 @@
           "missing": []
         },
         {
-          "label": "Degraded-condition preservation order",
+          "label": "Cross-boundary propagation controls",
           "line": 898,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3264,7 +3266,7 @@
           "missing": []
         },
         {
-          "label": "Fail-soft within constraints and non-externalization",
+          "label": "Degraded-condition preservation order",
           "line": 915,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3275,7 +3277,7 @@
           "missing": []
         },
         {
-          "label": "Failure-integrity floor",
+          "label": "Fail-soft within constraints and non-externalization",
           "line": 932,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3286,7 +3288,7 @@
           "missing": []
         },
         {
-          "label": "Graceful degradation floor and defined failure-mode coverage",
+          "label": "Failure-integrity floor",
           "line": 949,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3297,7 +3299,7 @@
           "missing": []
         },
         {
-          "label": "Monitoring, transition traceability, escalation, and revalidation",
+          "label": "Graceful degradation floor and defined failure-mode coverage",
           "line": 966,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3308,7 +3310,7 @@
           "missing": []
         },
         {
-          "label": "Priority order and honest representation",
+          "label": "Monitoring, transition traceability, escalation, and revalidation",
           "line": 983,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3319,7 +3321,7 @@
           "missing": []
         },
         {
-          "label": "Proportional application",
+          "label": "Priority order and honest representation",
           "line": 1000,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3330,8 +3332,19 @@
           "missing": []
         },
         {
-          "label": "Signaling integrity and anti-silent-failure controls",
+          "label": "Proportional application",
           "line": 1017,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Signaling integrity and anti-silent-failure controls",
+          "line": 1034,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -3349,8 +3362,8 @@
       "cluster_id": "CJS-3.20",
       "title": "Continuity: reversibility and containment terms",
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "start_line": 1035,
-      "end_line": 1160,
+      "start_line": 1052,
+      "end_line": 1177,
       "read_with": [],
       "direct_ch1_refs": [
         "15.1",
@@ -3373,17 +3386,6 @@
       "op_rules": [
         {
           "label": "reversibility and containment terms",
-          "line": 1075,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Compensatory restoration and limitation disclosure",
           "line": 1092,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3394,7 +3396,7 @@
           "missing": []
         },
         {
-          "label": "Higher-impact tested-recovery requirement",
+          "label": "Compensatory restoration and limitation disclosure",
           "line": 1109,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3405,7 +3407,7 @@
           "missing": []
         },
         {
-          "label": "Irreversibility-limitation floor",
+          "label": "Higher-impact tested-recovery requirement",
           "line": 1126,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3416,8 +3418,19 @@
           "missing": []
         },
         {
-          "label": "Rollback and containment capability",
+          "label": "Irreversibility-limitation floor",
           "line": 1143,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Rollback and containment capability",
+          "line": 1160,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -3435,8 +3448,8 @@
       "cluster_id": "CJS-3.21",
       "title": "Continuity: adversarial robustness and abuse-resistance terms",
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-      "start_line": 1161,
-      "end_line": 1428,
+      "start_line": 1178,
+      "end_line": 1445,
       "read_with": [],
       "direct_ch1_refs": [
         "15.1",
@@ -3460,17 +3473,6 @@
       "op_rules": [
         {
           "label": "adversarial robustness and abuse-resistance terms",
-          "line": 1204,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Adversarial robustness floor",
           "line": 1221,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3481,7 +3483,7 @@
           "missing": []
         },
         {
-          "label": "Automated auditing where feasible",
+          "label": "Adversarial robustness floor",
           "line": 1238,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3492,7 +3494,7 @@
           "missing": []
         },
         {
-          "label": "Best-practices and external-learning revalidation",
+          "label": "Automated auditing where feasible",
           "line": 1255,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3503,7 +3505,7 @@
           "missing": []
         },
         {
-          "label": "Defense-boundary and Rights-Floor limits",
+          "label": "Best-practices and external-learning revalidation",
           "line": 1272,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3514,7 +3516,7 @@
           "missing": []
         },
         {
-          "label": "Detection, monitoring, and response integrity",
+          "label": "Defense-boundary and Rights-Floor limits",
           "line": 1289,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3525,7 +3527,7 @@
           "missing": []
         },
         {
-          "label": "False-positive and overreach governance",
+          "label": "Detection, monitoring, and response integrity",
           "line": 1306,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3536,7 +3538,7 @@
           "missing": []
         },
         {
-          "label": "High-risk exploitation-surface controls",
+          "label": "False-positive and overreach governance",
           "line": 1323,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3547,7 +3549,7 @@
           "missing": []
         },
         {
-          "label": "Partial-compromise resilience and graceful degradation",
+          "label": "High-risk exploitation-surface controls",
           "line": 1340,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3558,7 +3560,7 @@
           "missing": []
         },
         {
-          "label": "Proportional application",
+          "label": "Partial-compromise resilience and graceful degradation",
           "line": 1357,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3569,7 +3571,7 @@
           "missing": []
         },
         {
-          "label": "Testing, regression, and hardening cycle obligations",
+          "label": "Proportional application",
           "line": 1374,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3580,7 +3582,7 @@
           "missing": []
         },
         {
-          "label": "Threat modeling and vulnerability mapping discipline",
+          "label": "Testing, regression, and hardening cycle obligations",
           "line": 1391,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3591,8 +3593,19 @@
           "missing": []
         },
         {
-          "label": "Threat-model transparency, auditability, and update cadence",
+          "label": "Threat modeling and vulnerability mapping discipline",
           "line": 1408,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Threat-model transparency, auditability, and update cadence",
+          "line": 1425,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -4093,7 +4106,7 @@
         "cluster_id": "CJS-3.18",
         "title": "Continuity: data-retention and lifecycle-integrity terms",
         "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-        "line": 582,
+        "line": 599,
         "issue": "Chapter One basis line is missing CJS-3.1 cluster-map sections.",
         "inferred_principles": [
           "8.2",
@@ -4107,7 +4120,7 @@
         "cluster_id": "CJS-3.19",
         "title": "Continuity: graceful degradation and failure-mode integrity terms",
         "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-        "line": 809,
+        "line": 826,
         "issue": "Chapter One basis line is missing CJS-3.1 cluster-map sections.",
         "inferred_principles": [
           "8.1",
@@ -4120,7 +4133,7 @@
         "cluster_id": "CJS-3.20",
         "title": "Continuity: reversibility and containment terms",
         "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-        "line": 1035,
+        "line": 1052,
         "issue": "Chapter One basis line is missing CJS-3.1 cluster-map sections.",
         "inferred_principles": [
           "8.1",
@@ -4133,7 +4146,7 @@
         "cluster_id": "CJS-3.21",
         "title": "Continuity: adversarial robustness and abuse-resistance terms",
         "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
-        "line": 1161,
+        "line": 1178,
         "issue": "Chapter One basis line is missing CJS-3.1 cluster-map sections.",
         "inferred_principles": [
           "8.1",

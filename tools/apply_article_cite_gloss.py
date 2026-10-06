@@ -25,7 +25,15 @@ HEADING_RE = re.compile(
     r"^#{3,5} Article ([IVXLCDM]+(?:-[A-Z](?:\.\d+)?)?): (.+?)\s*$"
 )
 LABEL_RE = r"[IVXLCDM]+(?:-[A-Z](?:\.\d+)?)?"
-BOLD_CITE_RE = re.compile(rf"\*\*Article ({LABEL_RE})\*\*(?!\s*\(\*)")
+# Skip a bold cite that is already glossed, either directly after it or after
+# the closing link: ``[**Article XI**](url) (*Title*)`` must not gain a second gloss.
+BOLD_CITE_RE = re.compile(
+    rf"\*\*Article ({LABEL_RE})\*\*(?!\s*\(\*)(?!\]\([^)]*\)\s*\(\*)"
+)
+# Repair links that already carry a gloss inside the link text and repeat it after.
+DUP_GLOSS_RE = re.compile(
+    r"(\[[^\]]*\(\*(?P<t>[^*()]+)\*\)\]\([^)]*\))\s*\(\*(?P=t)\*\)"
+)
 LINK_CITE_RE = re.compile(
     rf"\[Article ({LABEL_RE})\]\(([^)]+)\)(?!\s*\(\*)"
 )

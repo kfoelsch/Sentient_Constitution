@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-06T11:31:37+00:00",
+  "generated_at": "2026-10-06T14:00:16+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1309,36 +1309,36 @@
     },
     "CI-14.1": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-141-interface-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
-      "heading": "CI-14.1: Interface — **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)",
+      "anchor": "#ci-141-interface-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives",
+      "heading": "CI-14.1: Interface — **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) (non-compliant property, seizure, voluntary incentives)",
       "line": 81,
       "kind": "section"
     },
     "CI-14.2": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-142-article-xxvii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-trigger-catalog-anti-abuse-metrics-and-publication-requirements",
-      "heading": "CI-14.2: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements",
+      "anchor": "#ci-142-article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives-trigger-catalog-anti-abuse-metrics-and-publication-requirements",
+      "heading": "CI-14.2: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — trigger catalog, anti-abuse metrics, and publication requirements",
       "line": 110,
       "kind": "section"
     },
     "CI-14.3": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-143-article-xxvii-d-operative-transition-scoped-remediation-requirements",
-      "heading": "CI-14.3: **Article XXVII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements",
+      "anchor": "#ci-143-article-xxviii-d-operative-transition-scoped-remediation-requirements",
+      "heading": "CI-14.3: **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) — operative transition-scoped remediation requirements",
       "line": 158,
       "kind": "section"
     },
     "CI-14.4": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-144-article-xxvii-a-rights-floor-attainment-ledger-measures-verification-and-publication",
-      "heading": "CI-14.4: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication",
+      "anchor": "#ci-144-article-xxviii-a-rights-floor-attainment-ledger-measures-verification-and-publication",
+      "heading": "CI-14.4: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — Rights-Floor attainment ledger: measures, verification, and publication",
       "line": 230,
       "kind": "section"
     },
     "CI-14.5": {
       "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
-      "anchor": "#ci-145-article-xxvii-a-prioritizing-institutional-transition-targets",
-      "heading": "CI-14.5: **Article XXVII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets",
+      "anchor": "#ci-145-article-xxviii-a-prioritizing-institutional-transition-targets",
+      "heading": "CI-14.5: **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) — prioritizing institutional transition targets",
       "line": 360,
       "kind": "section"
     },
@@ -2077,7 +2077,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-318-continuity-data-retention-and-lifecycle-integrity-terms",
       "heading": "CJS-3.18 Continuity: data-retention and lifecycle-integrity terms",
-      "line": 582,
+      "line": 599,
       "kind": "section",
       "gloss": "How long data is kept, how it changes, what gets linked to what, and what deletion actually means — because retention decisions quietly determine what can be audited or abused later."
     },
@@ -2085,7 +2085,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms",
       "heading": "CJS-3.19 Continuity: graceful degradation and failure-mode integrity terms",
-      "line": 809,
+      "line": 826,
       "kind": "section",
       "gloss": "Under partial failure a system must behave honestly: degrade visibly rather than pretend to work, and fail in a way that can be recovered from."
     },
@@ -2101,7 +2101,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-320-continuity-reversibility-and-containment-terms",
       "heading": "CJS-3.20 Continuity: reversibility and containment terms",
-      "line": 1035,
+      "line": 1052,
       "kind": "section",
       "gloss": "Design so that mistakes can be undone and damage stays local. Irreversible-by-default architecture converts every error into a permanent one."
     },
@@ -2109,7 +2109,7 @@
       "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
       "anchor": "#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms",
       "heading": "CJS-3.21 Continuity: adversarial robustness and abuse-resistance terms",
-      "line": 1161,
+      "line": 1178,
       "kind": "section",
       "gloss": "Assume someone will actively try to misuse the system, including by exploiting its incentives rather than its code, and build defenses that survive that."
     },

@@ -39,7 +39,7 @@ See: [Chapter Nine §2.1](../../../core_09_standing_assessment.md#21-silence-is-
 - **Today:** “Read the corpus first” is the next step.
 - **With this Constitution:** Complexity and specialist-only surfaces must not be the way the path is closed.
 
-See: [Article XXII](../../../core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship); [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility).
+See: [Article XXIII](../../../core_06_rights_part_d.md#article-xxiii-comprehensibility-and-complexity-stewardship); [Comprehensibility](../../STEWARD_ENTRY_DOORS.md#comprehensibility).
 
 ## What to open next
 

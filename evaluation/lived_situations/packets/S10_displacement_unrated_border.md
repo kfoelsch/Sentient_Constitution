@@ -79,10 +79,10 @@ Do not resolve the collision in this file.
 
 Beyond the sitting’s bounded reading path, open:
 
-- [Article XXI-D](../../../core_06_rights_part_d.md#article-xxi-d-movement-migration-refuge-and-non-statelessness) — movement, refuge, not left with no body that counts you; a particular host is not required to take in everyone at once; origin’s first duty
-- [Climate-unlivability refuge (adopter-decided)](../../../core_06_rights_part_d.md#xx-d-climate-unlivability-refuge-adopter-decided) — this Article does not invent a yes or a no
-- [Article XIX-D](../../../core_06_rights_part_d.md#article-xix-d-movement-migration-refuge-and-non-statelessness-routing) — a score of how trusted you are is not, by itself, a border
-- [Article XXI](../../../core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity); [Article XXI-C](../../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
+- [Article XXII](../../../core_06_rights_part_d.md#article-xxii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*) — movement, refuge, not left with no body that counts you; a particular host is not required to take in everyone at once; origin’s first duty
+- [Climate-unlivability refuge (adopter-decided)](../../../core_06_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided) — this Article does not invent a yes or a no
+- [Article XXII-D](../../../core_06_rights_part_d.md#article-xxii-d-limitation-custody-and-emergency-discipline) — a score of how trusted you are is not, by itself, a border
+- [Article XXI](../../../core_06_rights_part_d.md#article-xxi-interoperability-portability-and-exit-integrity); [Article XXI-C](../../../core_06_rights_part_d.md#article-xxi-c-anti-lock-in-rule)
 - [Article III-A](../../../core_06_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05_band_continuity.md#occupancy-continuity)
 - [Article I-A](../../../core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) where the project made the place unlivable
 - [Article XX-B](../../../core_06_rights_part_d.md#article-xx-b-restriction-floors) if a verified restriction is later claimed

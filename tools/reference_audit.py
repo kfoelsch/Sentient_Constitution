@@ -36,8 +36,8 @@ SEMANTIC_RULES: list[tuple[re.Pattern[str], str, str]] = [
     (re.compile(r"\bstanding\b", re.IGNORECASE), "XIX", "standing"),
     (re.compile(r"\bverified violation\b", re.IGNORECASE), "XX", "verified violation"),
     (re.compile(r"\bequal basic rights\b", re.IGNORECASE), "VI", "equal basic rights"),
-    (re.compile(r"\bcomprehensibility\b", re.IGNORECASE), "XXII", "comprehensibility"),
-    (re.compile(r"\broot cause\b", re.IGNORECASE), "XXIII", "root cause analysis"),
+    (re.compile(r"\bcomprehensibility\b", re.IGNORECASE), "XXIII", "comprehensibility"),
+    (re.compile(r"\broot cause\b", re.IGNORECASE), "XXIV", "root cause analysis"),
     (re.compile(r"\bresource allocation\b", re.IGNORECASE), "V", "resource allocation"),
     (re.compile(r"\blifecycle\b", re.IGNORECASE), "XVII", "lifecycle and reversibility"),
 ]

@@ -35,7 +35,7 @@
 > - **Chapters Two through Four:** supply record, custody, traceability, and verification discipline for the evidence used here.
 > - **Chapter One:** supplies principles relevant to emergency authority, necessity, concentration, and system capture.
 > - **Chapter Twelve:** supplies forum routing, Integrity-family default routing, transfer, and certification discipline.
-> - **Chapter Six:** supplies the Rights Floor, **Article XX-B** (*Restriction Floors*) joint requirements, **Imprisonment for violence**, and review discipline, **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XX-A** (*Justice Objective and Scope*) review and publication safeguards; **section 4.1** here specializes Chapter Ten remedy and correction for verified anti-constitutional misconduct, **section 4.2** specializes prevention locks (including imprisonment where required), and **section 4.3** specializes voluntary public accountability expression.
+> - **Chapter Six:** supplies the Rights Floor, **Article XX-B** (*Restriction Floors*) joint requirements, **Imprisonment for violence**, and review discipline, **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*) remedy-timing discipline, and **Article XX-A** (*Justice Objective and Scope*) review and publication safeguards; **section 4.1** here specializes Chapter Ten remedy and correction for verified anti-constitutional misconduct, **section 4.2** specializes prevention locks (including imprisonment where required), and **section 4.3** specializes voluntary public accountability expression.
 > - **Chapter Thirteen:** supplies governance legitimacy consequences tied to a final Chapter Eleven designation.
 > - **Chapters Fourteen through Sixteen:** supply change-path validity, referral, procedural, and custody rules; they do not issue the final Chapter Eleven designation.
 >
@@ -289,7 +289,7 @@ After final designation under **section 3** with these safeguards met, apply [§
 
 - Upstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*).
 - Downstream: [§4.2](#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*); [§4.3](#43-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary public accountability expression (anti-constitutional)*); [Chapter Ten](core_10_standing_integration.md#chapter-ten-standing-effects-and-integration) standing-effect and standing-lock integration; [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum routing and certification.
-- Read with: [Chapter Ten §4.1](core_10_standing_integration.md#41-remedy-and-correction) (*Remedy and correction*); [Article XX-A](core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*Justice Objective and Scope*); [Article XX-B](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*restitution, remediation, rehabilitation, accountable attribution, duration, review, and restoration*); [Article XXV-C](core_06_rights_part_e.md#article-xxv-c-timely-resolution-and-anti-delay-floor) (*timely resolution and remedy commencement*).
+- Read with: [Chapter Ten §4.1](core_10_standing_integration.md#41-remedy-and-correction) (*Remedy and correction*); [Article XX-A](core_06_rights_part_d.md#article-xx-a-justice-objective-and-scope) (*Justice Objective and Scope*); [Article XX-B](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*restitution, remediation, rehabilitation, accountable attribution, duration, review, and restoration*); [Article XXVI-C](core_06_rights_part_e.md#article-xxvi-c-timely-resolution-and-anti-delay-floor) (*timely resolution and remedy commencement*).
 
 </details>
 
@@ -333,7 +333,7 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
   - material harm, rights loss, remedy loss, dependency harm, evidence degradation, or process nullification caused or materially contributed to by the unified incident;
   - restitution, compensation, restoration, correction, disgorgement or clawback where lawful, substitute safeguards where literal repair is impossible, and systemic remediation where harm is class-wide or structural;
   - responsible actors, roles, institutions, systems, funds, successors, or coordinating bodies that must carry or finance each remedy;
-  - commencement deadlines, completion milestones, verification requirements, and review triggers under **Article XXV-C** (*Timely Resolution and Anti-Delay Floor*);
+  - commencement deadlines, completion milestones, verification requirements, and review triggers under **Article XXVI-C** (*Timely Resolution and Anti-Delay Floor*);
   - who supervises follow-through and what happens if delay occurs.
 - **Priority and interim protection:**
   - Put affected parties and practical restoration first — ahead of reputation repair, institutional convenience, or ordinary administrative order.
@@ -343,7 +343,7 @@ Fixing the cause does not cancel the duty to repair those harmed. Repairing thos
   - It counts only when the record shows the measure actually repairs, compensates, restores, prevents recurrence, or supplies a proportionate substitute safeguard for the relevant harm.
   - Public acknowledgment or apology is governed by **section 4.3** where used.
 - **No offset by contribution:**
-  - Prior good work, scarce expertise, institutional importance, settlement convenience, reputation repair, or later cooperation does not erase restitution or remediation duties.
+  - Prior help, scarce expertise, institutional importance, settlement convenience, reputation repair, or later cooperation does not erase restitution or remediation duties.
   - Those facts may affect sequencing, credit for cooperation, rehabilitation design, or recurrence-reduction conditions only where remedy for affected parties stays practical and accountable attribution stays intact.
 - **Execution realism and anti-evasion:**
   - Where remedy needs funding, capacity, cross-institution coordination, tracing successors, recognition by another forum, or pooled execution, the disposition must name how that will happen — or say why a substitute safeguard is the proportionate lawful remedy instead.
@@ -400,7 +400,7 @@ After final designation under **section 3** with **section 4** safeguards met:
 
 - Upstream: [§3](#3-violation-axis-s-7-9-slot-assignment-incident-gravity) (*Violation Axis s = 7–9 designation*); [§4](#4-due-process-safeguards-for-slot-assignment) (*Due-process safeguards, remedy, and prevention*); [§4.1](#41-remedy-and-correction-anti-constitutional) (*Remedy and correction (anti-constitutional)*); [§4.2](#42-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*).
 - Downstream: [§5](core_11_b_misconduct_pattern_applications.md#5-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
-- Read with: [Chapter Ten §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [Article XX-B](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*joint requirements*); [Article XXV-B](core_06_rights_part_e.md#article-xxv-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
+- Read with: [Chapter Ten §4.3](core_10_standing_integration.md#43-voluntary-public-accountability-expression) (*Voluntary public accountability expression*); [Article XX-B](core_06_rights_part_d.md#article-xx-b-restriction-floors) (*joint requirements*); [Article XXVI-B](core_06_rights_part_e.md#article-xxvi-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
 
 </details>
 

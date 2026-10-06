@@ -34,7 +34,7 @@ human and AI stewards owe the same Chapter One duties. [§17.5 Duty to Resist](.
 
 ## Rights Floor one-liners
 
-130 Article headings. Generated sheet: [rights_floor_sheet.md](../../doc_architecture/generated/rights_floor_sheet.md).
+139 Article headings. Generated sheet: [rights_floor_sheet.md](../../doc_architecture/generated/rights_floor_sheet.md).
 
 ## Steward-door classes
 

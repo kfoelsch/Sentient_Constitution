@@ -46,11 +46,11 @@ This file is the institutional implementation home for **CI-15** (*Neurodiversit
 - **Digital parity** — **CI-8.3** (*Digital self-service pathway integrity*) self-service paths must document accommodation and accessibility routing alongside entry, management, and exit paths.
 - **Hard limits** — **CJS-3.8** (*comprehensibility and cognitive accessibility terms*) puts four things out of bounds: symbolic substitutes, inaccessible formats, retaliation-linked chill, and trauma-amplifying process design.
 - **Read with** — **CI-6** (*Procedure integrity, contestability, and secondary review*) for secondary review; **CI-8.3** (*Digital self-service pathway integrity*) for digital self-service pathway interfaces.
-- **Article XXII** (*Comprehensibility and Complexity Stewardship*) in **Chapter Six** — proportional comprehensibility and complexity-stewardship duties must not be used to block participation or accountability.
+- **Article XXIII** (*Comprehensibility and Complexity Stewardship*) in **Chapter Six** — proportional comprehensibility and complexity-stewardship duties must not be used to block participation or accountability.
 
 *Shared rules live elsewhere.*
 - [**CJS-3.8**](../corpus_joint_structure/cjs_03p_participation_operations.md#cjs-38-participation-comprehensibility-and-cognitive-accessibility-terms) (*comprehensibility and cognitive accessibility terms*) — **Institutional participation and challenge-pathway accessibility floor**; **Adaptive participation and support controls**.
-- **Article VI-D** (*Accessibility*); **Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Article XXII** (*Comprehensibility and Complexity Stewardship*); **Article XX** (*Justice After Verified Violation*).
+- **Article VI-D** (*Accessibility*); **Article XII** (*Stakeholder System Participation, Representation, and Due Process*); **Article XXIII** (*Comprehensibility and Complexity Stewardship*); **Article XX** (*Justice After Verified Violation*).
 - Chapter Five [*Accessibility*](../core_05_band_participation.md#accessibility); [*Procedural Fairness*](../core_05_band_participation.md#procedural-fairness); [*Protected Characteristics*](../core_05_band_participation.md#protected-characteristics).
 - **CI-8** (*Transparency, participation, and accessible challenge and service pathways*) / **CI-8.3** (*Digital self-service pathway integrity*); **CI-6** (*Procedure integrity, contestability, and secondary review*). This file does not repeat those floors.
 

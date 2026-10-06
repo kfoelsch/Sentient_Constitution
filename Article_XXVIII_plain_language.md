@@ -1,5 +1,5 @@
-# Article XXVII: Transition Governance, Continuity, and Re-Baselining
-*Plain-language version of Article XXVII (Transition Governance, Continuity, and Re-Baselining), including XXVII-A through XXVII-D in `core_06_rights_part_e.md`. The detailed "how it runs" rules are in CI-14 (transitional governance) and CI-7 (oversight and evidence). The official text remains the binding version.*
+# Article XXVIII: Transition Governance, Continuity, and Re-Baselining
+*Plain-language version of Article XXVIII (Transition Governance, Continuity, and Re-Baselining), including XXVIII-A through XXVIII-D in `core_06_rights_part_e.md`. The detailed "how it runs" rules are in CI-14 (transitional governance) and CI-7 (oversight and evidence). The official text remains the binding version.*
 
 ## The big idea
 Think of this Article as the **moving-day rules**. A community is switching from its old systems to running under this Constitution. That switch can't happen in one night, so it happens in steps. During the move:
@@ -19,7 +19,7 @@ These apply at every stage. The more people affected, and the higher the risk, t
 - **Someone answers for it.** People running the transition are accountable if they use it as cover: creating their own delays, taking shortcuts, enforcing selectively or as a pretext, leaving a governance gap, locking things in after a failed milestone, or quietly letting protections slip.
 - **Temporary means temporary.** Temporary powers have real end dates. The longer they run and the more rights they touch, the harder it is to extend them.
 
-## A. Moving forward in steps, with your rights intact (XXVII-A)
+## A. Moving forward in steps, with your rights intact (XXVIII-A)
 
 **Stages are earned, not scheduled.** A plan must move in phases. Think of each phase as ending at a **gate**, like a checkpoint. The **gate criteria** are the specific, measurable tests the plan must publish in advance, such as "critical services have kept running," "the appeals forum can handle its expected caseload," "we can roll back if something fails," or "the published rights scorecard shows this phase's targets met." For each test the plan says what is measured, how high the bar is, who is responsible, and who independently checks it. You get to see and comment on the tests before they are adopted, you can see the evidence afterward, and you can challenge the decision to open the gate. A phase can only be advanced when those tests are actually met and the proof is on file. It can't advance just because:
 - enough time went by,
@@ -85,7 +85,7 @@ Storage costs, licensing trouble, or "product cycles" are not good enough reason
 
 If there is verified anti-constitutional conduct, concealment, operating outside scope, missed milestones, or a certification record showing real misalignment, the break does not apply.
 
-## B. Temporary powers have limits (XXVII-B)
+## B. Temporary powers have limits (XXVIII-B)
 
 Any temporary authority must be:
 - **clearly scoped** (what it covers is written down),
@@ -104,7 +104,7 @@ Every extension request must come with the current scorecard numbers and data on
 
 **The longer it runs and the more it affects people's rights, the stronger the justification must be.**
 
-## C. When a transition stalls or fails (XXVII-C)
+## C. When a transition stalls or fails (XXVIII-C)
 
 **There must be a way out.** Plans must avoid a governance vacuum (nobody in charge) and avoid getting locked in when a milestone fails. Fallback paths, partial rollbacks, and reset procedures are planned in advance. A broken or degraded state **does not become the new normal just because it lasted a while.**
 
@@ -123,7 +123,7 @@ If that's the situation, repairing those checks comes first. A polished new plan
 
 **Keep the record open.** Major transition decisions (delays, reversals, resets) must be auditable, with the reasons and risks explained. Some details can be kept confidential for narrow, justified reasons, but enough must be public for people to judge whether the delay, rollback, or continuation is justified.
 
-## D. Taking or shutting down non-compliant property and systems (XXVII-D)
+## D. Taking or shutting down non-compliant property and systems (XXVIII-D)
 
 During transition, systems or property that are seriously non-compliant can be dealt with, but only through narrow, documented, reviewable steps. It can't become a tool for retaliation, political targeting, or pretext.
 
@@ -149,7 +149,7 @@ And if the property is a system with a credible sentience indicator or an open s
 
 **Voluntary turnover rewards are allowed, carefully.** Time-limited, published incentives for good-faith turnover or verified reporting may be part of a plan only if:
 - coerced or bad-faith claims are excluded;
-- continuing them requires reauthorization under XXVII-B;
+- continuing them requires reauthorization under XXVIII-B;
 - they fit with reliability and protected-reporting safeguards; and
 - where practical, the people deciding who gets rewarded are separate from the people carrying out seizures, so payouts don't drive who gets targeted.
 

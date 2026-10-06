@@ -7,7 +7,8 @@ parallel ``**Also read**`` (or equivalent) routing sections with bullet lists,
 standalone ``Read it with:`` headers followed by routing bullets, nor
 line-initial ``Read with`` / ``**Read with**`` routing (with or without a
 colon) outside Trace, including operative bullet labels such as
-``- *Read with.*`` / ``- *Read with:*``. Standalone ``#### … Read-with: …`` subsection headings
+``- *Read with.*`` / ``- *Read with:*``, and ``Read together`` /
+``- **Read together:**`` labels (the same routing under another name). Standalone ``#### … Read-with: …`` subsection headings
 and line-initial ``Read [`` cross-link routing are also forbidden outside Trace.
 
 Disguised read-with routing in operative prose is also forbidden — for example

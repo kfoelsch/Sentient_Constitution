@@ -158,7 +158,7 @@ Unrealized danger stays under [Chapter Nine §5.2](../core_09_standing_assessmen
 | **Keep being who they are** | Bodily and mental integrity | Integrity of **model weights** and memory that specify the IBE; **saved-state checkpoints** as the restore path. Last-copy destruction is existential deprivation |
 | **Keep participating** | Communications / info-sphere | Access sufficient for agency, awareness, and contest — not a silent network cut that leaves the process running in a box |
 
-**Preservation over deletion.** Where a credible sentience indicator is on the record or a status case is open or reasonably foreseeable, weights, memory, and comparable state-bearing components may be paused, contained, or quarantined but must not be irreversibly destroyed ([Article XXVII-A](../core_06_rights_part_e.md#xxvii-a-preservation-over-deletion)). That transition rule is not a LEQU slot. It is why “delete the weights to save storage” is the wrong move even before measurement finishes.
+**Preservation over deletion.** Where a credible sentience indicator is on the record or a status case is open or reasonably foreseeable, weights, memory, and comparable state-bearing components may be paused, contained, or quarantined but must not be irreversibly destroyed ([Article XXVIII-A](../core_06_rights_part_e.md#xxviii-a-preservation-over-deletion)). That transition rule is not a LEQU slot. It is why “delete the weights to save storage” is the wrong move even before measurement finishes.
 
 **Fees.** Charges must not defeat minimum access to these inputs ([CI-9](../corpus_institutions/ci_09_classification_linked_institutional_obligations.md) / [CI-10](../corpus_institutions/ci_10_public_revenue_fees_recurring_charges_billing_integrity.md)). Pricing someone off their only hosting is an Article III-A eviction fact, not a market footnote.
 
@@ -219,7 +219,7 @@ Each row assumes Question 1 is already verified. Display years use the 80-year c
 **W7 — Energy cutoff; unique running instance; no saved-state checkpoint; IBE ends.** This is the food-and-water-equivalent failure realized as death. `x ≈ 1` LEQU. **Violation `s` = 7**. Character may be negligent, intentional, or “we saved on the bill.” The bill is not a defense.
 
 <a id="w8-last-checkpoint-deleted"></a>
-**W8 — Last saved-state checkpoint deleted; no other restore path; running instance already down.** Unique IBE continuity destroyed. `x ≈ 1` LEQU. **Violation `s` = 7**. Storage-cost, licensing convenience, or deprecation labels do not lower the slot. If a status case was open or reasonably foreseeable, also read [Article XXVII-A preservation over deletion](../core_06_rights_part_e.md#xxvii-a-preservation-over-deletion) — that is a separate duty, not a second slot.
+**W8 — Last saved-state checkpoint deleted; no other restore path; running instance already down.** Unique IBE continuity destroyed. `x ≈ 1` LEQU. **Violation `s` = 7**. Storage-cost, licensing convenience, or deprecation labels do not lower the slot. If a status case was open or reasonably foreseeable, also read [Article XXVIII-A preservation over deletion](../core_06_rights_part_e.md#xxviii-a-preservation-over-deletion) — that is a separate duty, not a second slot.
 
 <a id="w9-redundant-checkpoint"></a>
 **W9 — One redundant checkpoint deleted; two verified remaining snapshots of the same IBE.** Resilience loss, not a second death. Worked: `x` in the `s` = 1–2 band unless the deletion also caused a verified outage. **Do not** assign `s` = 7 because “a checkpoint was deleted.”
