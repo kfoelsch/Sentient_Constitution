@@ -126,6 +126,7 @@ EXPECTED_CLUSTERS: dict[str, list[str]] = {
         "Psychological Harm",
         "Irreversible Harm",
         "Cruelty",
+        "Animal Cruelty",
         "Harassment and Bullying",
         "Collective Harm Boundary",
     ],
