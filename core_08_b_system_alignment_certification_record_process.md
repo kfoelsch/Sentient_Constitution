@@ -424,9 +424,9 @@ Recognition is held in one of two statuses. Each has its own recertification clo
 - **[Full recognition](core_05_band_continuity.md#full-recognition)** is earned only at a recertification of a system holding provisional recognition, and only where all of the following hold:
   1. the system has completed the required number of consecutive clean provisional recertifications — at least one, and more for higher classes as the adopted instrument sets;
   2. no misalignment is current: the record shows no open misalignment, unremedied defect, overdue check, or failed regression testing; and
-  3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the record show no threshold crossed and no drift toward one.
+  3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the record show no threshold crossed and no trend toward one.
 
-  Full recognition runs on the class-scaled recertification cadence. It remains time-bound and is not a permanent approval.
+Full recognition runs on the class-scaled recertification cadence. It remains time-bound and is not a permanent approval.
 
 A recertification is **clean** when it meets conditions 2 and 3.
 
@@ -440,7 +440,7 @@ A recertification is **clean** when it meets conditions 2 and 3.
 
 **Class A reliance.** Provisional recognition changes the scrutiny, the cadence, and the limits on reliance. It does not by itself require interrupting a system whose interruption would foreclose survival essentials before substitutes arrive; interim protection and conditions under [§6.1](#61-certification-outcomes) carry that case.
 
-**Verification, not assertion.** Status, clean-recertification counts, and monitoring indicators must be verified and independently reviewable. Indicators may not be chosen or set so that drift cannot show. Full recognition does not suspend any reopening trigger in [§6.2](#62-recertification-and-reopening); evasion is treated under [§6.3](#63-non-evasion).
+**Verification, not assertion.** Status, clean-recertification counts, and monitoring indicators must be verified and independently reviewable. Indicators may not be chosen or set so that misalignment cannot show. Full recognition does not suspend any reopening trigger in [§6.2 Recertification and reopening](#62-recertification-and-reopening); evasion is treated under [§6.3 Non-evasion](#63-non-evasion).
 
 <a id="63-non-evasion"></a>
 

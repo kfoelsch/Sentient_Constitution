@@ -44,6 +44,26 @@
       "tier_depth": "full",
       "status": "approved"
     },
+    "Misalignment Detection": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Open Systems, Data, and Auditing": {
+      "ch00_category": "3.5 Oversight",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Misaligned Reward Correction": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Outcome-Resolution Source": {
+      "ch00_category": "3.6 Accountability",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Duty to Resist": {
       "ch00_category": "3.6 Accountability",
       "tier_depth": "primary_only",

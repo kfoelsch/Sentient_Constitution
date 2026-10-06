@@ -2,10 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-06T10:39:16+00:00
+Generated: 2026-10-06T15:46:45+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **253/253** terms pass tier audit.
+Approved progress: **257/257** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -178,6 +178,8 @@ Approved progress: **253/253** terms pass tier audit.
 | Material Risk | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Materiality Integrity Constraint | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Materiality Under Uncertainty | approved | primary_secondary | cluster_member | `core_05_band_oversight.md` | yes | pass |
+| Misalignment Detection | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
+| Open Systems, Data, and Auditing | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Oversight | approved | primary_only | tetrad_leg_head | `core_05_apex_oversight_leg.md` | yes | pass |
 | Press and Journalistic Activity | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
 | Protected Data and Internal-State Publication Constraint | approved | primary_only | cluster_member | `core_05_band_oversight.md` | yes | pass |
@@ -250,11 +252,13 @@ Approved progress: **253/253** terms pass tier audit.
 | Materially Binding Act | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Materially Binding Act Record | approved | primary_secondary | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Merits Determination | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Misaligned Reward Correction | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Necessity | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Negligence | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | No-Bypass | approved | primary_only | cluster_member | `core_05_band_integrative.md` | yes | pass |
 | Non-Compliance | approved | primary_only | independent | `core_05_band_integrative.md` | yes | pass |
 | Non-Compliance Finding Profile | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
+| Outcome-Resolution Source | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Participant Standing | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Primary-Stakes Routing | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |
 | Proportionality | approved | primary_only | cluster_member | `core_05_band_accountability.md` | yes | pass |

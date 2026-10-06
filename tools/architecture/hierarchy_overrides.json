@@ -82,6 +82,12 @@
     }
   },
   "terms": {
+    "Misalignment Detection": {
+      "ch00_measurement": ["3.5 Oversight"]
+    },
+    "Open Systems, Data, and Auditing": {
+      "ch00_measurement": ["3.5 Oversight"]
+    },
     "Derived Information": {
       "ch00_measurement": ["3.4 Participation"]
     },
