@@ -2,7 +2,7 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-06T08:12:30+00:00
+Generated: 2026-10-06T10:39:16+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
 Approved progress: **253/253** terms pass tier audit.
@@ -60,7 +60,6 @@ Approved progress: **253/253** terms pass tier audit.
 | Essential-Environment Non-Commodification | approved | primary_only | independent | `core_05_band_continuity.md` | yes | pass |
 | Existential Risk | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Full Recognition | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
-| Identity Data Protection | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Institutional Development | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
@@ -120,6 +119,7 @@ Approved progress: **253/253** terms pass tier audit.
 | Freedom (Bounded Agency) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Graduated Capability | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Hard Content | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
+| Identity Data Protection | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Info-Sphere | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Instantiation Consent | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |
 | Lifespan Equivalent Unit (LEQU) | approved | primary_only | cluster_member | `core_05_band_participation.md` | yes | pass |

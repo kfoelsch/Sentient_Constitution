@@ -558,6 +558,9 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - **What it is**
   - **In scope:** The bounded, reviewable record of data types and handling under CS-2 (*Information types and handling*). A **System Data Types Record** is **material audited information** — data that auditing processes require. It states:
     - data types materially in scope (Part B types and access-posture bands);
+    - the purpose of each type in scope, and the recipients, processors, and linked systems that receive it — the same facts the collection notice under [CS-2 Part A §1.3](corpus_systems/cs_02_a_information_types_and_handling.md#13-collection-notice-and-deletion) (*Collection notice and deletion*) gives affected sentients;
+    - for each restricted or non-accessible type, the basis relied on: operational necessity, consent under the shared consent-integrity standard, or a justified override under **CJS-3.12** (*burden-of-justification and constraint terms*);
+    - derived or inferred data the system produces, with its type — including any process that infers or reconstructs internal states and is therefore **Type N**;
     - classification rationale for ambiguous or multi-type data;
     - separation and cross-domain-linkage controls relied on;
     - retention and lifecycle posture;
@@ -582,7 +585,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
   - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
 
     **Primary assessment:** Evaluate whether:
-    1. the record states the data types materially in scope and the handling, separation, lifecycle, and attribution posture required by CS-2 — Information types and handling, format, or pipeline stage as the type;
+    1. the record states the data types materially in scope; the purpose, recipients, and basis for each; the derived or inferred data the system produces; and the handling, separation, lifecycle, and attribution posture required by CS-2 (*Information types and handling*);
     2. typing follows functional effect under CS-2 (*Information types and handling*) and [Chapter Eight §3.8 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#38-data-types-and-handling-evaluation), not declared intent, [Charter](core_05_band_continuity.md#charter) text alone, or self-description alone;
     3. rationale for ambiguous or multi-type data, the most recent periodic re-evaluation, justified disclosure restrictions with public substitutes, and Type O coverage where applicable are stated and independently reviewable; and
     4. where [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) runs, the System Data Types Record is included in the [System Certification Record](core_05_band_continuity.md#system-certification-record) under [Chapter Eight §3.8 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#38-data-types-and-handling-evaluation) and [Part B §4.1](core_08_b_system_alignment_certification_record_process.md#41-minimum-record-contents).
@@ -593,6 +596,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - [Charter](core_05_band_continuity.md#charter) text, vendor attestation, or self-description offered as the System Data Types Record; or
     - type inventory collapsed into a marketing label;
   - **Secondary failure:**
+    - a restricted or non-accessible type recorded without its purpose, recipients, basis, or derived data;
     - missing System Data Types Record for a material-impact system under CS-2 (*Information types and handling*); or
     - omitting the System Data Types Record from a materially impactful [System Certification Record](core_05_band_continuity.md#system-certification-record) when SAC runs;
   - **Tertiary failure:**
@@ -3403,6 +3407,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - depiction of a sentient in documentary, reporting, or comparable factual framing;
     - synthetic or generated depiction held out as authentic; and
     - voice and comparable identity-bearing modalities where a sentient remains reasonably identifiable.
+  - **Data types:** Recognizably identifiable likeness and voice are [**Type I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data). Depiction or analysis that infers a sentient's internal states from likeness or voice is also [**Type N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data).
   - **Out of scope:**
     - non-identifiable generic imagery or anonymized depiction that cannot reasonably identify a sentient;
     - coincidental resemblance that is not presented as, and would not reasonably be taken to be, a particular sentient;
@@ -3525,6 +3530,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - experiential-data discipline under **Article IX-B** (*Experiential and Derived Data Rights*);
     - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational); and
     - [Creative Work Attribution](core_05_band_continuity.md#creative-work-attribution).
+  - **Data types:** Covered work is [**Type H**](corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data) as participation- or interaction-derived data, and [**Type I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data) where it is identifiable to the sentient who produced it. Training, evaluation, or analysis that infers or reconstructs a sentient's internal states is [**Type N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data). Pooling does not lower the type while re-identification or reconstruction remains reasonably possible.
   - **Out of scope:**
     - non-sentient-produced material where **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) consent and attribution duties do not apply; or
     - ordinary operational aggregates that are not traced to specific sentients — for example:
@@ -4175,7 +4181,7 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Participation measurement family (*Privacy and data stewardship as constitutional measurement*); Principles: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [2.1. Non-Negotiable Constraints: Safety and Truth](core_01_a_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth), [Chapter One §13.2.3 Privacy and Informational Self-Determination](core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination), and Chapter Six privacy-distribution articles where informational handling affects agency, dignity, security, or truth.
 - Downstream: [Article VII-A](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*self-ownership of body*); [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*self-ownership of mind*); [Article IX](core_06_rights_part_b.md#article-ix-likeness-experiential-data-and-publication-rights) (*likeness, experiential data, and publication rights*); [Article X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*agency and freedom from manipulation*); [Article XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*security, intelligence, and covert-power limits*).
-- Read with: Apply [Consent](core_05_band_participation.md#consent), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** where Type N or comparable handling is implicated.
+- Read with: Apply [Consent](core_05_band_participation.md#consent), [Truth (Constitutional Constraint)](core_05_band_oversight.md#truth-constitutional-constraint), [Dignity and Equal Moral Standing](core_05_band_participation.md#dignity-and-equal-moral-standing), [Coercion and Manipulation](core_05_band_participation.md#coercion-and-manipulation), [Meaningful Agency](core_05_band_participation.md#meaningful-agency), [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary), [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary), and **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling** where Type H, Type I, Type N, Type S, or comparable handling is implicated.
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00_preamble.md#material-stake) via [Materiality](core_05_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Participation** and **Oversight**.
@@ -4187,8 +4193,8 @@ See **Anti-Segmentation Principle**.
 **Dependent cluster context** (joint invocation under admission scope):
 
 - **Admission scope:** privacy matters that materially implicate more than one article-level locus in the members list, or where informational handling, internal-state protection, or surveillance-boundary analysis is materially interdependent. Outside that scope, individual definitions may operate alone.
-- **Scope:** where admission scope is met, the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction).
-- **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, including Type N protections for internal-state data and proportional safeguards for all CS-2 (*Information types and handling*) data types.
+- **Scope:** where admission scope is met, the canonical O/M/A/C home for **Privacy (Informational)**, **Protected Internal-State Boundary**, **Identity Data Protection**, and **Surveillance Boundary**, and the peer-level joint-invocation home for distributed privacy coverage across Chapter Six articles under [§2.1 Joint invocation and satisfaction](core_05__definitions_home.md#21-joint-invocation-and-satisfaction).
+- **Operational alignment:** data handling must align with **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, which is the systems-layer rulebook for this cluster (see the [privacy paragraph](corpus_systems/cs_02_a_information_types_and_handling.md#privacy-owner-link) in its purpose and scope). The restricted and non-accessible types name their privacy homes in its [privacy link](corpus_systems/cs_02_b_data_classifications.md#privacy-link): **Type H** and **Type I** for personal, relational, behavioral, likeness, and metadata information; **Type N** for internal states; and **Type S** for protected-party data during justified investigations. Proportional safeguards apply to all CS-2 (*Information types and handling*) data types, and personal content inside open or audit-accessible material keeps its protective type.
 - **Anti-bypass:** privacy analysis must not be separated across articles or definitions, or from internal-state-boundary or surveillance-boundary assessment, where that satisfies one standard while evading another materially implicated discipline (see [§15.1.1 Anti-Segmentation Principle](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)). Anti-read-across for standard-setting remains as stated under **Def.C3**.
 
 See **Anti-Segmentation Principle**.
@@ -4196,6 +4202,7 @@ See **Anti-Segmentation Principle**.
 **Cluster members.** This cluster comprises the **Def.C3** enumeration:
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational) — lifecycle protection of personal, relational, experiential, likeness, metadata, internal-state-adjacent, and comparable information;
 - [Protected Internal-State Boundary](core_05_band_continuity.md#protected-internal-state-boundary) — protection of cognitive, emotional, motivational, memory, preference, identity, and volitional internal states from unauthorized extraction, compelled disclosure, inference, or bypass;
+- [Identity Data Protection](core_05_band_continuity.md#identity-data-protection) — the ban on using identity-linked data to infer or reconstruct protected internal states;
 - [Surveillance Boundary](core_05_band_continuity.md#surveillance-boundary) — the line between permissible observation or logging and surveillance that impairs agency, privacy, or Rights-Floor access;
 - [Article VII-A](core_06_rights_part_b.md#article-vii-a-self-ownership-of-body) (*Self-Ownership of Body*);
 - [Article VII-B](core_06_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*);
@@ -4203,7 +4210,7 @@ See **Anti-Segmentation Principle**.
 - [Article X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*);
 - [Article XIV-A](core_06_rights_part_c.md#article-xiv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 
-*Measurements (family routing):* Measured under the Continuity measurement family. Find the concrete measures on the member definitions below.
+*Measurements (family routing):* Measured under the Participation measurement family (*Privacy and data stewardship*). Find the concrete measures on the member definitions below.
 
 <a id="privacy-informational"></a>
 
@@ -4221,6 +4228,15 @@ See **Anti-Segmentation Principle**.
     - comparable —
 
     against collection, inference, exposure, retention, transfer, or use that materially impairs dignity, agency, safety, consent, or Rights-Floor access without adequate authority and safeguards.
+  - **Data types:** Each category above is typed under [CS-2 Part B §9](corpus_systems/cs_02_b_data_classifications.md#cs-29-data-classifications) (*Data classifications*). Where more than one type fits, the most protective governs ([CS-2 Part A §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*Determination of classification*)):
+    - personal — **Type I** where it identifies a sentient; otherwise **Type H**;
+    - relational and metadata — **Type H**;
+    - experiential and behavioral — **Type H**; also **Type N** where it can reconstruct or infer internal states;
+    - likeness — **Type I**;
+    - internal-state-adjacent — **Type N**;
+    - comparable — typed by functional effect under [CS-2 Part A §2](corpus_systems/cs_02_a_information_types_and_handling.md#cs-22-determination-of-classification) (*Determination of classification*).
+
+    Personal content inside **Type E**, **Type G**, **Type O**, or **Type S** material keeps these types. The surrounding type does not open it up.
   - **Out of scope:** technical telemetry or public facts that never enter personal, relational, experiential, likeness, metadata, or comparable informational domains in a way that impairs dignity, agency, safety, consent, or Rights-Floor access — including ordinary operational aggregates not traced to specific sentients, such as:
     - anonymous traffic totals; and
     - anonymous sales totals.
@@ -4310,7 +4326,7 @@ See **Anti-Segmentation Principle**.
 ##### Identity Data Protection
 
 - **What it is**
-  - **In scope:** The restriction on using identity and attribution data (Type H, I) to expose or reconstruct internal and cognitive data (Type N), including by inferring internal states from identity-linked signals.
+  - **In scope:** The restriction on using identity and attribution data (**Type I**), and activity or relational records (**Type H**) once linked to an identity, to expose or reconstruct internal and cognitive data (**Type N**), including by inferring internal states from identity-linked signals.
   - **Core constraint:** no system may use identity-linked data to infer internal states without **explicit consent** or **justified override** under **CJS-3.12** (*burden-of-justification and constraint terms*).
   - **Out of scope:** ordinary identity or credential use that does not link to, infer, or reconstruct Type N internal states.
 <a id="identity-data-protection-a"></a>
@@ -4337,6 +4353,7 @@ See **Anti-Segmentation Principle**.
     - privacy;
     - internal state; or
     - Rights-Floor access.
+  - **Data types:** Logs, measurements, and monitoring records that reach sentients are at least [**Type H**](corpus_systems/cs_02_b_data_classifications.md#94-type-h-historical-relational-transactional-and-participation-data); identity-linked monitoring is also [**Type I**](corpus_systems/cs_02_b_data_classifications.md#95-type-i-identity-and-attribution-data); monitoring that infers or reconstructs internal states is [**Type N**](corpus_systems/cs_02_b_data_classifications.md#96-type-n-neurocognitive-and-internal-data). Security monitoring and investigation material is [**Type S**](corpus_systems/cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) while restricted, and its personal components keep their **H**, **I**, or **N** type when that restriction ends. Ordinary logging outside this boundary still produces typed data and stays under its type's handling rules.
   - **Out of scope:**
     - ordinary measurement, security logging, or evidence gathering that does not chill, coerce, manipulate, expose, reconstruct, or control agency, privacy, or internal state; and
     - ordinary operational aggregates not traced to specific sentients, such as:
