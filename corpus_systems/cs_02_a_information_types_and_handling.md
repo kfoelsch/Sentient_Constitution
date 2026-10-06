@@ -6,7 +6,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other CS-2 parts.
 >
-> This file contains **CS-2, Part A** — purpose and scope (including identity self-ownership and continuity-critical export), classification determination, anti-circumvention, cross-domain governance principles, data separation / attribution, Type O baseline, and **System Data Types Record** governance (**§§1–8**). **Part B** — data classifications (**Type E** through **Type S**, including **Type O**) as **§9** — is in [`cs_02_b_data_classifications.md`](cs_02_b_data_classifications.md).
+> This file contains **CS-2, Part A** — purpose and scope (including identity self-ownership and continuity-critical export), classification determination, anti-circumvention, cross-domain governance principles, data separation / attribution, Type O baseline, and **System Data Types Record** governance (**§§1–8**). **Part B** — data classifications (**Type E** through **Type T**, including **Type O**) as **§9** — is in [`cs_02_b_data_classifications.md`](cs_02_b_data_classifications.md).
 
 </details>
 
@@ -38,9 +38,9 @@ It also carries out the collection, retention, and use disciplines in [Chapter O
 
 CS-2 (*Information types and handling*) implements:
 
-- **Data typing** — every material dataset is assigned one or more types defined in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** (**Type E**, **G**, **O**, **H**, **I**, **N**, and **S**)
+- **Data typing** — every material dataset is assigned one or more types defined in **[Part B](cs_02_b_data_classifications.md#cs-2-part-b-data-classifications)** (**Type E**, **G**, **O**, **H**, **I**, **N**, **S**, **Y**, **W**, **U**, and **T**)
 - **System Data Types Record** — for every system with **material impact**, operators must maintain a [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) stating types in scope, handling posture, and re-evaluation status. That record is **material audited information**: auditing processes require it, and System Data Types Record audits check it between and beside [System Alignment Certification](../core_05_band_continuity.md#system-alignment-certification) cycles ([§8 System Data Types Record governance](#cs-28-system-data-types-record-governance)). When System Alignment Certification runs, **[Chapter Eight §3.8 Data Types and Handling Evaluation](../core_08_a_system_alignment_certification_evaluation.md#38-data-types-and-handling-evaluation)** must produce or verify the record and include it in the [System Certification Record](../core_05_band_continuity.md#system-certification-record) under **[Part B §4.1](../core_08_b_system_alignment_certification_record_process.md#41-minimum-record-contents)**
-- **Default access posture** — each type belongs to one of four **access-posture bands** defined in **[Part B §9](cs_02_b_data_classifications.md#cs-29-data-classifications)** (*open / accessible by default*; *audit-accessible, not public*; *restricted by default*; *non-accessible by default*), plus type-specific disclosure, consent, and handling rules. Bands group shared defaults; they are **not** a ranked sensitivity score
+- **Default access posture** — each type belongs to one of six **access-posture bands** defined in **[Part B §9](cs_02_b_data_classifications.md#cs-29-data-classifications)** (*open / accessible by default*; *audit-accessible, not public*; *restricted by default*; *non-accessible by default*; *public by creator release*; *licensed or assigned*), plus type-specific disclosure, consent, and handling rules. Bands group shared defaults; they are **not** a ranked sensitivity score
 - **Most-restrictive rule** — where more than one type applies, the strongest applicable protections govern ([§2](#cs-22-determination-of-classification) *When it is unclear*), subject to proportionality (**CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*))
 - **Classification integrity** — type follows the **functional nature of the data** and the **effects it enables**, not format, origin, or pipeline stage; systems may not evade typing by fragmentation, re-labeling, or indirection ([§2 Determination of classification](#cs-22-determination-of-classification)–[§4 Anti-circumvention and integrity of classification](#cs-24-anti-circumvention-and-integrity-of-classification))
 - **Identity self-ownership** — identity and attribution data remain under sentient control through revocation, rotation, correction, and recoverability ([§1.1 Identity self-ownership and recoverability](#11-identity-self-ownership-and-recoverability); **Article VII** (*Self-Ownership*))
@@ -184,8 +184,9 @@ Data classification under CS-2 — Information types and handling is binding acr
 - **distribute** processing across multiple systems, stages, agents, or time-separated operations to achieve outcomes that would be prohibited if performed within a single system
 - **rely** on intermediate systems, agents, or third parties to perform actions that would be prohibited if performed directly
 - **de-anonymize** anonymized data except under **CJS-3.12** (*burden-of-justification and constraint terms*), with such actions **fully documented and auditable**
+- **license, assign, or place under any commercial grant** data that is not a work eligible under [Part B §9.13.1](cs_02_b_data_classifications.md#9131-what-can-be-granted) (*What can be granted*), or use a grant to escape the audit, accessibility, or disclosure duties of any type
 - **use** classification to **evade** constitutional requirements, **justify unnecessary** restriction of participation or access, **conceal** systemic risk or harm, or **create artificial barriers** to audit, verification, or accountability
-- **treat** restricted source data (including **Type H**, **Type I**, **Type N**, or **Type S**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 (*Type O baseline for Class A/B/C systems*) and [Part B §9](cs_02_b_data_classifications.md#cs-29-data-classifications)
+- **treat** restricted source data (including **Type H**, **Type I**, **Type N**, **Type S**, **Type Y**, **Type U**, or **Type T**) as reclassified to **Type O** merely because a system is Class A/B/C or merely by copying that data, without meeting the substitute, reclassification, or release requirements in §7 (*Type O baseline for Class A/B/C systems*) and [Part B §9](cs_02_b_data_classifications.md#cs-29-data-classifications)
 
 <a id="cs-2-5-cross-domain-governance-principles"></a>
 ## CS-2.5 Cross-domain governance principles
@@ -200,7 +201,7 @@ Part B type sections state type-specific defaults, definitions, and handling rul
 
 **5.0. Access-posture bands.**
 
-*In plain terms: types share a default sharing style — open, audit-only, restricted, or off-limits — so common rules can attach to that style. The letter codes are still not a least-to-most sensitive ranking.*
+*In plain terms: types share a default sharing style — open, audit-only, restricted, off-limits, public by the creator's choice, or licensed or assigned — so common rules can attach to that style. The letter codes are still not a least-to-most sensitive ranking.*
 
 Each type belongs to one **access-posture band**. Bands define shared default access and restriction posture. They are **labels for shared defaults**, not a ranked list from “least sensitive” to “most sensitive.” Type-specific content and deltas are in **[Part B §9](cs_02_b_data_classifications.md#cs-29-data-classifications)**.
 
@@ -208,8 +209,10 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
 |---|---|---|
 | **Open / accessible by default** | **Type O**, **Type E** | Strong presumption of openness or accessibility; hold-backs are narrow |
 | **Audit-accessible, not public** | **Type G** | Fully auditable through structured or qualified audit access; not public by default; public face is [Public Oversight Baseline Disclosure](../core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) |
-| **Restricted by default** | **Type H**, **Type I**, **Type S** | Access only for defined legitimate purposes, consent, or justified override as the type requires; **Type S** is also time-bound and review-bound |
+| **Restricted by default** | **Type H**, **Type I**, **Type S**, **Type Y** | Access only for defined legitimate purposes, consent, or justified override as the type requires; **Type S** is also time-bound and review-bound; **Type Y** release, reuse, and retention follow the creator's direction |
 | **Non-accessible by default** | **Type N** | Access only through explicit, informed, freely given consent or justified override under **CJS-3.12** (*burden-of-justification and constraint terms*) |
+| **Public by creator release** | **Type W** | Open to view while the creator keeps it public; every other use needs the creator's consent; withdrawn or deleted on the creator's request |
+| **Licensed or assigned** | **Type U**, **Type T** | Release scope and commercial use follow a recorded grant; uses the grant does not name need the consent of the creator (**Type U**) or rights-holder (**Type T**); the creator's reserved rights are never part of the grant |
 
 **Band-level rules:**
 - **Open / accessible by default:** Presumptive accessibility or open release applies. Restrictions that withhold otherwise-accessible or disclosable material must satisfy [§5.3 Tiered transparency and audit access](#53-tiered-transparency-and-audit-access). For **Type E**, restriction is permitted only when disclosure would **itself** create material risk of enabling targeted or disproportionate harm, exploitation, or system compromise, unless a narrower type-specific rule applies.
@@ -218,6 +221,8 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
   - **expose** that data beyond what is necessary for its justified purpose
   - **create persistent tracking** across unrelated contexts **by default** — any cross-context aggregation or linkage requires explicit justification under **CJS-3.11** (*distributed and proportional authority terms*) and **CJS-3.7** (*quorum and participatory legitimacy terms*), including demonstration that it does **not** materially undermine autonomy or create **coercive power asymmetries**
 - **Non-accessible by default:** Maximum restriction. No access, inference, reconstruction, or exposure without consent or justified override under **CJS-3.12** (*burden-of-justification and constraint terms*).
+- **Public by creator release:** Openness exists only by the creator's choice and only for viewing. The creator's withdrawal or deletion request is **not** a restriction subject to [§5.3 Tiered transparency and audit access](#53-tiered-transparency-and-audit-access), and systems must carry it out under [Part B §9.9](cs_02_b_data_classifications.md#99-type-w-works-published) (*Type W: Works, published*).
+- **Licensed or assigned:** Commercial use by a licensee or rights-holder is lawful only within a grant recorded and made under [Part B §9.13](cs_02_b_data_classifications.md#913-commercial-grants) (*Commercial grants*). A grant binds the creator for its term, but never reaches the creator's reserved rights, and never lets data other than eligible works be sold or licensed through these types.
 
 **Privacy discipline in the restricted and non-accessible bands.** [Chapter One §13.2.3 Privacy and Informational Self-Determination](../core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) applies most directly to the **restricted by default** and **non-accessible by default** bands. Its disciplines are [Necessity](../core_05_band_accountability.md#necessity), [Proportionality](../core_05_band_accountability.md#proportionality), minimization, and [Consent](../core_05_band_participation.md#consent) or other adequate authority. Band rules carry out those disciplines. They do not replace the [privacy homes](cs_02_b_data_classifications.md#privacy-link) named on each type.
 

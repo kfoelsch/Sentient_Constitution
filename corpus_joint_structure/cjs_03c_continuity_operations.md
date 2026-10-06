@@ -311,7 +311,7 @@ Access-preserving reward and anti-warehousing controls
 *In plain terms: where multiple reward mechanisms are feasible, implementation should prefer the least restrictive mechanism that can sustain future innovation, including attribution, milestone prizes, public or cooperative buyouts, levy-funded reward…*
 
 - **What it is**
-  - **In scope:** Where multiple reward mechanisms are feasible, implementation should prefer the least restrictive mechanism that can sustain future innovation, including attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, compulsory-access tools, or equivalent public-access regimes before broad exclusion rights for high-dependency domains.
+  - **In scope:** Where multiple reward mechanisms are feasible, implementation should prefer the least restrictive mechanism that can sustain future innovation, including attribution, milestone prizes, public or cooperative buyouts, levy-funded reward pools, pooled or standardized licensing, compulsory-access tools, or equivalent public-access regimes before broad exclusion rights for high-dependency domains. Where rights in a work have been assigned as **Type T**, the use-it-or-return-it rule in [CS-2 Part B §9.12.1](../corpus_systems/cs_02_b_data_classifications.md#9121-type-t-access-and-handling-duties) (*Type T access and handling duties*) applies.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in access-preserving reward and anti-warehousing.
 <a id="access-preserving-reward-and-anti-warehousing-controls-a"></a>
 - **How to measure and assess**
