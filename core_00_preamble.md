@@ -102,7 +102,7 @@ These measurement categories show what matters. Standing alone, they do not set 
 
 ### 3. Governance and Stewardship
 
-*In plain terms: legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And people like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.*
+*In plain terms: legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And sentients like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.*
 
 Durable legitimacy depends on [Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity). It also depends on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration).
 

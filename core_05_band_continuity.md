@@ -108,7 +108,7 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     **Primary assessment:** Evaluate whether:
     1. the class-scaled number of consecutive clean provisional recertifications was actually completed;
     2. no misalignment is current — no open misalignment, unremedied defect, overdue check, or failed regression testing; and
-    3. the monitoring triggers and trend metrics stated on the record show no threshold crossed and no drift toward one, and those indicators are independently reviewable and were not set so that drift cannot show.
+    3. the monitoring triggers and trend metrics stated on the record show no threshold crossed and no trend toward one, and those indicators are independently reviewable and were not set so that misalignment cannot show.
 <a id="full-recognition-c"></a>
 - **What must hold**
   - **Primary failure:**
