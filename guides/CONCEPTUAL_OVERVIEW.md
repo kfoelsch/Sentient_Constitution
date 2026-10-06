@@ -272,18 +272,18 @@ flowchart TB
         D["Part D · Articles XIX–XXIV<br/><br/>Standing, justice, portability,<br/>comprehensibility, root cause, interpretation"]
         E["Part E · Articles XXV–XXVII<br/><br/>Conflict resolution and review,<br/>constitutional evolution, transition"]
     end
-    P["Later governance, measurement, certification,<br/><br/>forums, remedy, and implementation<br/>must respect the Rights Floor"]
+    P[["Later governance, measurement, certification,<br/>forums, remedy, and implementation<br/><br/>Outside this chapter; must respect the Rights Floor"]]
     T -->|rights are read with| R
     R --> A
     R --> B
     R --> C
     R --> D
     R --> E
-    A --> P
-    B --> P
-    C --> P
-    D --> P
-    E --> P
+    A -.-> P
+    B -.-> P
+    C -.-> P
+    D -.-> P
+    E -.-> P
     style T fill:none,stroke:#2563eb,color:#ffffff
     style R fill:none,stroke:#2563eb,color:#ffffff
     style A fill:none,stroke:#16a34a,color:#ffffff
@@ -882,7 +882,7 @@ That protection belongs to the entity. It does not shield an operator’s proper
 ```mermaid
 flowchart TB
     D["Ordinary dispute inside an authorized system"]
-    P["Published stakeholder challenge path"]
+    P[["Published stakeholder challenge path<br/><br/>Outside this chapter"]]
     R["Chapter Twelve: route by primary stake<br/><br/>Family intake sorts; merits panels decide"]
     subgraph F["Forum families"]
         direction TB
@@ -903,8 +903,8 @@ flowchart TB
             end
         end
     end
-    D --> P
-    P -->|still contested, missing, captured, or unable to grant relief| R
+    D -.-> P
+    P -.->|still contested, missing, captured, or unable to grant relief| R
     D -->|direct access when delay endangers protected interests| R
     R --> S
     R --> T

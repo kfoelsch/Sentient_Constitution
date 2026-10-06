@@ -62,7 +62,7 @@ The publication cut gate is already written: [PRE_PUBLICATION_SPEC §2](../imple
 This is a **maturity** ladder for text, not an adoption ladder. It does not create tiers of partial constitutional adoption ([PRE_PUBLICATION_SPEC §6.4](../implementation/PRE_PUBLICATION_SPEC.md#64-smallest-honest-adoption-claim--resolved-reframed)). Operations-guide use and full adoption remain the only two modes.
 
 ```mermaid
-flowchart LR
+flowchart TB
   L0[L0 drafted] --> L1[L1 regression green]
   L1 --> L2[L2 owner-aligned]
   L2 --> L3[L3 readable]

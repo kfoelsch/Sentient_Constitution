@@ -90,8 +90,8 @@ Shared operational clusters (**oDef.*n***, same as **CJS-3.*n***) live in [CJS-3
 
 A hybrid design that names home and rotating roles but omits **CJS-2.1.2** (*Attachment publication*) publication mechanics does not satisfy **CJS-2.1** (*Hybrid delegated authority (delegated binding bodies)*). Naming the mix is not enough; the published term rules have to be there too.
 
-- **Composition floor** — [CJS-2.1.1](#cjs-211-composition-floor) (*Composition floor*)
-- **Attachment publication** — [CJS-2.1.2](#cjs-212-attachment-publication) (*Attachment publication*)
+- [CJS-2.1.1](#cjs-211-composition-floor) (*Composition floor*)
+- [CJS-2.1.2](#cjs-212-attachment-publication) (*Attachment publication*)
 
 ### CJS-2.1.1 Composition floor
 <a id="cjs-211-composition-floor"></a>

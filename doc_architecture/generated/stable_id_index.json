@@ -116,6 +116,11 @@
       "status": "present"
     },
     {
+      "file": "core_08_c_system_alignment_certification_illustrations.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
       "file": "core_08_system_alignment_certification.md",
       "label": "core",
       "status": "present"

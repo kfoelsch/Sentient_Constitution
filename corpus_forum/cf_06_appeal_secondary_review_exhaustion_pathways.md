@@ -77,10 +77,10 @@ When an adopting system permits depositions, the rules must define at least: who
 **Usage.** Adopting instruments should use the categories in this subsection when a disposition may matter beyond the immediate case. The categories say how far the ruling travels: only to the parties, to a class or shared practice, to later panels, or through a technical standard. For structured records, each category is assigned through the stable **CF-6.1.1** (*Party-Bound Disposition Effect*) through **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*) class labels below. These are local **forum disposition-effect** categories and record labels. They are not CJS-3 (*operational cluster library (oDef)*) operational cluster labels, not `corpus_systems.md` data-type labels, not `corpus_systems.md` system-class labels, and not institutional **CI-** anchors.
 
 **Disposition-effect categories:**
-- **Party-bound** (**CF-6.1.1** (*Party-Bound Disposition Effect*)) — effect remains with the parties and decided issues.
-- **Scope-anchored** (**CF-6.1.2** (*Scope-Anchored Disposition Effect*)) — effect reaches a class, subclass, shared practice, common rule, or representative stake.
-- **Published panel-rule** (**CF-6.1.3** (*Published Panel-Rule Disposition Effect*)) — effect supplies a presumptive rule, threshold, or disposition pattern for later panels.
-- **Technical shared-standard** (**CF-6.1.4** (*Technical Shared-Standard Disposition Effect*)) — effect travels mainly through a recognized technical or expert-evidence standard.
+- **CF-6.1.1** (*Party-Bound Disposition Effect*) — effect remains with the parties and decided issues.
+- **CF-6.1.2** (*Scope-Anchored Disposition Effect*) — effect reaches a class, subclass, shared practice, common rule, or representative stake.
+- **CF-6.1.3** (*Published Panel-Rule Disposition Effect*) — effect supplies a presumptive rule, threshold, or disposition pattern for later panels.
+- **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*) — effect travels mainly through a recognized technical or expert-evidence standard.
 
 **Recordkeeping.** When a disposition carries **CF-6.1.2** (*Scope-Anchored Disposition Effect*), **CF-6.1.3** (*Published Panel-Rule Disposition Effect*), or **CF-6.1.4** (*Technical Shared-Standard Disposition Effect*), the attributable record must identify the applicable disposition-effect category or categories, the corresponding **CF-6.1** (*Disposition-effect categories and record labels*) class label or labels, the covered population or panel scope, any sunset or review cadence, and the published path for challenge, certification, appeal, or standards reconsideration. Rights-collision records elsewhere in this section still apply where relevant.
 
