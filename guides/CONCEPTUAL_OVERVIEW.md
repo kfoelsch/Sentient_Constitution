@@ -617,7 +617,7 @@ flowchart TB
 flowchart TB
     R["System Classification Record<br/><br/>Mandatory for every materially impactful system"]
     Assess["Assess together<br/><br/>Impact · dependency · risk<br/>Boundaries · timeframes · scale<br/>Normal · degraded · adversarial conditions"]
-    Outcome["Highest applicable classification governs<br/><br/>Duties, evidence, oversight, and revalidation scale with it"]
+    Outcome["Highest applicable classification governs<br/><br/>Duties, evidence, oversight, and recertification scale with it"]
     subgraph ImpactBand["Impact Class"]
         direction TB
         subgraph ImpactRow1["Higher impact or wider reach"]

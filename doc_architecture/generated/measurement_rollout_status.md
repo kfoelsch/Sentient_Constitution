@@ -2,11 +2,10 @@
 
 Auto-generated. Do not edit by hand.
 
-Generated: 2026-10-06T05:37:34+00:00
-Generated: 2026-10-05T07:57:11+00:00
+Generated: 2026-10-06T08:12:30+00:00
 
 Grouped by Preamble measurement category. **Approved** terms must carry guidepost O/M/A/C measurement and assessment tiers per [doc_architecture.md](../../doc_architecture.md) MEAS-DEF-01.
-Approved progress: **250/250** terms pass tier audit.
+Approved progress: **253/253** terms pass tier audit.
 
 
 ## 3.2 Flourishing
@@ -60,6 +59,7 @@ Approved progress: **250/250** terms pass tier audit.
 | Emergency Pre-Deliberation Action (Binding Collective Choice) | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Essential-Environment Non-Commodification | approved | primary_only | independent | `core_05_band_continuity.md` | yes | pass |
 | Existential Risk | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Full Recognition | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Identity Data Protection | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Institutional Development | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
@@ -67,6 +67,8 @@ Approved progress: **250/250** terms pass tier audit.
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Openness Aspiration | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Proportionate Cross-System Support | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Provisional Recognition | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Recertification | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Residual Risk / Misalignment | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Reversibility | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Review and Correction Duty | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |

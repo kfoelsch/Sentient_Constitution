@@ -300,7 +300,7 @@ This subsection is an operational profile. It does not create rights and must no
 
 *In plain terms: Every recertification must rerun regression coverage so previously verified behavior still holds, or the break is on the record.*
 
-Every recertification or revalidation of a system alignment certification record must include **regression testing** showing that previously verified behavior, controls, and safeguards still hold — or that any break is identified, remediated, bounded by conditions, or reflected in the certification outcome. The certification record must state the regression scope, standard test suites run, custom tests run, results, known failures, remediations, and any accepted residual risk with justification.
+Every recertification of a system alignment certification record must include **regression testing** showing that previously verified behavior, controls, and safeguards still hold — or that any break is identified, remediated, bounded by conditions, or reflected in the certification outcome. The certification record must state the regression scope, standard test suites run, custom tests run, results, known failures, remediations, and any accepted residual risk with justification.
 
 For **Class A**, **Class B**, and **Class C** systems, regression testing on each recertification must include both:
 

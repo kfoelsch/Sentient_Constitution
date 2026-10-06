@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-06T05:37:35+00:00",
+  "generated_at": "2026-10-06T08:12:29+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16308,
+  "edge_count": 16350,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -19355,7 +19355,7 @@
       "source_header": "2. Non-Compliance from Observable System Behavior",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -19467,7 +19467,7 @@
       "source_header": "3.1 Standing Effects for Already-Certified Systems",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -19907,7 +19907,7 @@
       "source_header": "6. Relationship to System Alignment Certification",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -21019,6 +21019,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#full-recognition",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#identity-data-protection",
       "count": 1
     },
@@ -21116,6 +21124,22 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#protected-internal-state-boundary",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#provisional-recognition",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#recertification",
       "count": 1
     },
     {
@@ -37616,6 +37640,78 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#measuring-continuity-preamble-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#provisional-recognition",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#recertification",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-certification-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-classification-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#proxy-divergence",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#621-provisional-and-full-recognition",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Full Recognition",
+      "source_anchor": "#full-recognition",
+      "target_file": "core_09_standing_assessment.md",
+      "target_anchor": "#chapter-nine-contribution-violation-and-standing-model--measurement",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Identity Data Protection",
       "source_anchor": "#identity-data-protection",
       "target_file": "core_05_apex_participation_leg.md",
@@ -39517,6 +39613,182 @@
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Provisional Recognition",
+      "source_anchor": "#provisional-recognition",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#measuring-continuity-preamble-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Provisional Recognition",
+      "source_anchor": "#provisional-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Provisional Recognition",
+      "source_anchor": "#provisional-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#full-recognition",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Provisional Recognition",
+      "source_anchor": "#provisional-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#recertification",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Provisional Recognition",
+      "source_anchor": "#provisional-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-certification-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Provisional Recognition",
+      "source_anchor": "#provisional-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#reversibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Provisional Recognition",
+      "source_anchor": "#provisional-recognition",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#621-provisional-and-full-recognition",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#measuring-continuity-preamble-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification",
+      "count": 5
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-certification-record",
+      "count": 4
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-classification-record",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-data-types-record",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#provisional-recognition",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#full-recognition",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#review-and-correction-duty",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#reversibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#2-system-class-evaluation",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#chapter-eight-system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#62-recertification-and-reopening",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Recertification",
+      "source_anchor": "#recertification",
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": "#cs-510-recertification-regression-testing-and-certification-defects",
+      "count": 2
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -41715,6 +41987,14 @@
       "source_header": "System Alignment Certification",
       "source_anchor": "#system-alignment-certification-constitutional",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#recertification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "System Alignment Certification",
+      "source_anchor": "#system-alignment-certification-constitutional",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system",
       "count": 1
     },
@@ -42178,6 +42458,14 @@
       "source_file": "core_05_band_continuity.md",
       "source_header": "System Certification Record",
       "source_anchor": "#system-certification-record-constitutional",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#recertification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "System Certification Record",
+      "source_anchor": "#system-certification-record-constitutional",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#auditability",
       "count": 1
@@ -42251,7 +42539,7 @@
       "source_header": "System Certification Record",
       "source_anchor": "#system-certification-record-constitutional",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -60843,7 +61131,7 @@
       "source_header": "Article V-A: Dependency Mapping and Resource-Flow Transparency",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 2
     },
     {
@@ -61155,7 +61443,7 @@
       "source_header": "Article V-B: Cross-System Fairness and Sustainability",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -61291,7 +61579,7 @@
       "source_header": "Article V: Resource Allocation, Dependencies, and Ecosystem Funding",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -79267,7 +79555,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -79456,6 +79744,22 @@
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1.2 Proportionality and the Tetrad",
+      "source_anchor": "#12-proportionality-and-the-tetrad",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1.2 Proportionality and the Tetrad",
+      "source_anchor": "#12-proportionality-and-the-tetrad",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-recovery-capacity",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_00_preamble.md",
@@ -79555,7 +79859,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 2
     },
     {
@@ -79564,6 +79868,14 @@
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#41-minimum-record-contents",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "2. System Class Evaluation",
+      "source_anchor": "#2-system-class-evaluation",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#621-provisional-and-full-recognition",
       "count": 1
     },
     {
@@ -79723,7 +80035,7 @@
       "source_header": "2.1 How class scales every evaluation",
       "source_anchor": "#21-how-class-scales-every-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#62-revalidation-and-reopening",
+      "target_anchor": "#62-recertification-and-reopening",
       "count": 1
     },
     {
@@ -79867,7 +80179,7 @@
       "source_header": "3. Whole-System Certification Evaluation",
       "source_anchor": "#3-whole-system-certification-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80147,7 +80459,7 @@
       "source_header": "3.7 Illustrative whole-system application by class (non-exhaustive)",
       "source_anchor": "#37-illustrative-whole-system-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80243,7 +80555,7 @@
       "source_header": "3.8 Data Types and Handling Evaluation",
       "source_anchor": "#38-data-types-and-handling-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80315,7 +80627,7 @@
       "source_header": "3.8.1 Illustrative data-handling application by class (non-exhaustive)",
       "source_anchor": "#381-illustrative-data-handling-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80363,7 +80675,7 @@
       "source_header": "3.9 Rights-Floor and Domain Evaluations",
       "source_anchor": "#39-rights-floor-and-domain-evaluations",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80467,7 +80779,7 @@
       "source_header": "3.9.1 Ecological Footprint Evaluation",
       "source_anchor": "#391-ecological-footprint-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80643,7 +80955,7 @@
       "source_header": "3.9.2 Proportionate Cross-System Support Evaluation",
       "source_anchor": "#392-proportionate-cross-system-support-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 2
     },
     {
@@ -80683,7 +80995,7 @@
       "source_header": "3.9.2.1 Illustrative cross-system support application by class (non-exhaustive)",
       "source_anchor": "#3921-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80795,7 +81107,7 @@
       "source_header": "3.9.3 Nondiscrimination Evaluation",
       "source_anchor": "#393-nondiscrimination-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80827,7 +81139,7 @@
       "source_header": "3.9.3.1 Illustrative nondiscrimination application by class (non-exhaustive)",
       "source_anchor": "#3931-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80963,7 +81275,7 @@
       "source_header": "3.9.4 Accessibility Evaluation",
       "source_anchor": "#394-accessibility-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -80995,7 +81307,7 @@
       "source_header": "3.9.4.1 Illustrative accessibility application by class (non-exhaustive)",
       "source_anchor": "#3941-illustrative-accessibility-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -81123,7 +81435,7 @@
       "source_header": "3.9.5 Educational Capability and Learning-System Integrity Evaluation",
       "source_anchor": "#395-educational-capability-and-learning-system-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -81155,7 +81467,7 @@
       "source_header": "3.9.5.1 Illustrative educational-capability application by class (non-exhaustive)",
       "source_anchor": "#3951-illustrative-educational-capability-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -81299,7 +81611,7 @@
       "source_header": "3.9.6 Trustworthiness and System-Reliance Integrity Evaluation",
       "source_anchor": "#396-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -81331,7 +81643,7 @@
       "source_header": "3.9.6.1 Illustrative trustworthiness application by class (non-exhaustive)",
       "source_anchor": "#3961-illustrative-trustworthiness-application-by-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -82240,96 +82552,96 @@
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_03_definition_integrity.md",
       "target_anchor": "#1-definition-integrity-and-anti-evasion-constraints",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_03_definition_integrity.md",
       "target_anchor": "#2-non-compliance-from-observable-system-behavior",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_03_definition_integrity.md",
       "target_anchor": "#21-common-evasion-patterns",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#39-rights-floor-and-domain-evaluations",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": "#chapter-nine-contribution-violation-and-standing-model--measurement",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "core_12_forum.md",
       "target_anchor": "#chapter-twelve-forums-and-jurisdiction",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#52-reclassification-and-lifecycle-governance",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6. Outcomes, Revalidation, and Reopening",
-      "source_anchor": "#6-outcomes-revalidation-and-reopening",
+      "source_header": "6. Outcomes, Recertification, and Reopening",
+      "source_anchor": "#6-outcomes-recertification-and-reopening",
       "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "target_anchor": "#35-reclassification-requirement",
       "count": 1
@@ -82376,58 +82688,82 @@
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6.2 Revalidation and reopening",
-      "source_anchor": "#62-revalidation-and-reopening",
+      "source_header": "6.2 Recertification and reopening",
+      "source_anchor": "#62-recertification-and-reopening",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6.2 Revalidation and reopening",
-      "source_anchor": "#62-revalidation-and-reopening",
+      "source_header": "6.2 Recertification and reopening",
+      "source_anchor": "#62-recertification-and-reopening",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#charter",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6.2 Revalidation and reopening",
-      "source_anchor": "#62-revalidation-and-reopening",
+      "source_header": "6.2 Recertification and reopening",
+      "source_anchor": "#62-recertification-and-reopening",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 2
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6.2 Revalidation and reopening",
-      "source_anchor": "#62-revalidation-and-reopening",
+      "source_header": "6.2 Recertification and reopening",
+      "source_anchor": "#62-recertification-and-reopening",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#39-rights-floor-and-domain-evaluations",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6.2 Revalidation and reopening",
-      "source_anchor": "#62-revalidation-and-reopening",
+      "source_header": "6.2 Recertification and reopening",
+      "source_anchor": "#62-recertification-and-reopening",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#31-systemic-scope-and-risk-factors",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6.2 Revalidation and reopening",
-      "source_anchor": "#62-revalidation-and-reopening",
+      "source_header": "6.2 Recertification and reopening",
+      "source_anchor": "#62-recertification-and-reopening",
       "target_file": "corpus_systems/cs_02_a_information_types_and_handling.md",
       "target_anchor": "#52-reclassification-and-lifecycle-governance",
       "count": 1
     },
     {
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
-      "source_header": "6.2 Revalidation and reopening",
-      "source_anchor": "#62-revalidation-and-reopening",
+      "source_header": "6.2 Recertification and reopening",
+      "source_anchor": "#62-recertification-and-reopening",
       "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
       "target_anchor": "#35-reclassification-requirement",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "6.2.1 Provisional and full recognition",
+      "source_anchor": "#621-provisional-and-full-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#provisional-recognition",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "6.2.1 Provisional and full recognition",
+      "source_anchor": "#621-provisional-and-full-recognition",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#full-recognition",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "6.2.1 Provisional and full recognition",
+      "source_anchor": "#621-provisional-and-full-recognition",
+      "target_file": "core_12_forum.md",
+      "target_anchor": "#6-timely-resolution-materiality-tiers-and-anti-delay-discipline",
       "count": 1
     },
     {
@@ -83291,7 +83627,7 @@
       "source_header": "Reclassification",
       "source_anchor": "#reclassification",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -104867,7 +105203,7 @@
       "source_header": "CI-3.6: Charter contents, review, and formation template",
       "source_anchor": null,
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -117827,7 +118163,7 @@
       "source_header": "CJS-3.15 Accountability: structural review, correction urgency, and disclosure terms",
       "source_anchor": "#records-transparency-and-challenge-pathway-duties-c",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -125571,7 +125907,7 @@
       "source_header": "CS-2.8 System Data Types Record governance",
       "source_anchor": "#cs-2-8-system-data-types-record-governance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 4
     },
     {
@@ -126219,7 +126555,7 @@
       "source_header": "CS-3.3 Criticality, concentration, temporal, and adversarial factors",
       "source_anchor": "#cs-3-3-criticality-concentration-temporal-and-adversarial-factors",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {
@@ -126339,7 +126675,7 @@
       "source_header": "CS-3.7 Classification governance, disclosure, and challenge",
       "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 5
     },
     {
@@ -126539,7 +126875,7 @@
       "source_header": "CS-3, Part A: System classification machinery",
       "source_anchor": "#cs-3-part-a-system-classification-machinery",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-outcomes-revalidation-and-reopening",
+      "target_anchor": "#6-outcomes-recertification-and-reopening",
       "count": 1
     },
     {

@@ -126,7 +126,7 @@ Audit when any of the following applies (often more than one):
 - **Periodic cadence** — on a schedule scaled to class and how fast the subject changes
 - **Incident, dispute, or credible risk** — including escalation to forensic depth when reconstruction is needed
 - **Continuous or automated monitoring** — where impact or criticality (including system class where assigned) requires ongoing detection (including systems-layer monitoring profiles such as CS-5 (*User-facing capability surfaces*) ACA), without treating monitoring alone as a complete audit
-- **Certification or revalidation cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens
+- **Certification or recertification cycles** — including System Alignment Certification, which is one trigger among others, not the only time auditing happens
 
 "Where feasible" does **not** make required independent audit paths soft-optional for high-impact subjects. Eligibility rules for qualified independent or third-party paths must stay public and non-exclusive (**CJS-3.4** (*Oversight: tiered transparency and audit-access terms*)).
 
