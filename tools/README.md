@@ -108,7 +108,7 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](archi
 
 `ch1_dac_order_audit.py` guards Chapter One D/A/C functional ordering using [tools/architecture/ch1_dac_order.json](architecture/ch1_dac_order.json) (rule NAV-DAC-CH1-ORDER).
 
-`readability_audit.py` excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
+`readability_audit.py` scores prose only: before counting, it removes fenced code (including Mermaid charts), HTML comments and tags, `<summary>` widget labels, link and image targets (keeping the link text), reference definitions, inline code, and table rule rows, and it does not count headings. Line numbers in findings still match the source file. It also excludes `MEMLOG.md` and `TODO.md` by default because those files are treated as AI-only working memory and project task tracking rather than reader-facing corpus prose.
 
 `plain_language_audit.py` is an advisory checker for jargon-heavy reader notes and navigation prose. It flags exact phrases such as `extended narrative context` and `non-operative explanatory framing`, plus dense guidance sentences that stack abstract terms instead of plain words. Start by running it manually and tune the rule list before promoting it into a blocking bundle.
 

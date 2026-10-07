@@ -1,0 +1,257 @@
+{
+  "format": "obligation-diff-slim/1",
+  "generated": "2026-10-07",
+  "files": {
+    "core_05_band_accountability.md": {
+      "before": 330,
+      "after": 330,
+      "unchanged": 330
+    },
+    "core_05_band_continuity.md": {
+      "before": 191,
+      "after": 191,
+      "unchanged": 189
+    },
+    "core_05_band_oversight.md": {
+      "before": 96,
+      "after": 96,
+      "unchanged": 96
+    },
+    "core_05_band_participation.md": {
+      "before": 181,
+      "after": 181,
+      "unchanged": 181
+    },
+    "core_06_rights_part_a.md": {
+      "before": 149,
+      "after": 149,
+      "unchanged": 148
+    },
+    "core_06_rights_part_b.md": {
+      "before": 181,
+      "after": 181,
+      "unchanged": 181
+    },
+    "core_06_rights_part_c.md": {
+      "before": 280,
+      "after": 280,
+      "unchanged": 280
+    },
+    "core_08_a_system_alignment_certification_evaluation.md": {
+      "before": 120,
+      "after": 117,
+      "unchanged": 113
+    },
+    "core_08_b_system_alignment_certification_record_process.md": {
+      "before": 70,
+      "after": 70,
+      "unchanged": 65
+    },
+    "core_08_c_system_alignment_certification_illustrations.md": {
+      "before": 76,
+      "after": 78,
+      "unchanged": 76
+    },
+    "core_08_system_alignment_certification.md": {
+      "before": 0,
+      "after": 0,
+      "unchanged": 0
+    },
+    "corpus_systems/cs_02_a_information_types_and_handling.md": {
+      "before": 125,
+      "after": 125,
+      "unchanged": 123
+    },
+    "corpus_systems/cs_02_b_data_classifications.md": {
+      "before": 143,
+      "after": 143,
+      "unchanged": 143
+    },
+    "corpus_systems/cs_03_a_system_classification_machinery.md": {
+      "before": 74,
+      "after": 74,
+      "unchanged": 74
+    }
+  },
+  "changes": {
+    "core_05_band_continuity.md": {
+      "removed": [
+        {
+          "modality": "DUTY",
+          "text": "the System Data Types Record (or its required contents) under CS-2 (Information types and handling) and Chapter Eight \u00a73.8 Data Types and Handling Evaluation, risk-evaluation and risk-disclosure findings where systemic r"
+        },
+        {
+          "modality": "DUTY",
+          "text": "where System Alignment Certification runs, the System Data Types Record is included in the System Certification Record under Chapter Eight \u00a73.8 Data Types and Handling Evaluation and Part B \u00a74.1., What must hold, Primary"
+        }
+      ],
+      "added": [
+        {
+          "modality": "DUTY",
+          "text": "the System Data Types Record (or its required contents) under CS-2 (Information types and handling) and Chapter Eight \u00a73.7 Data Types and Handling Evaluation, risk-evaluation and risk-disclosure findings where systemic r"
+        },
+        {
+          "modality": "DUTY",
+          "text": "where System Alignment Certification runs, the System Data Types Record is included in the System Certification Record under Chapter Eight \u00a73.7 Data Types and Handling Evaluation and Part B \u00a74.1., What must hold, Primary"
+        }
+      ]
+    },
+    "core_06_rights_part_a.md": {
+      "removed": [
+        {
+          "modality": "DUTY",
+          "text": "How certification checks it: Certification evaluates this floor under Chapter Eight \u00a73.9.2 Proportionate Cross-System Support Evaluation, which sets what it must verify, how its depth scales with system class, what goes "
+        }
+      ],
+      "added": [
+        {
+          "modality": "DUTY",
+          "text": "How certification checks it: Certification evaluates this floor under Chapter Eight \u00a73.8.2 Proportionate Cross-System Support Evaluation, which sets what it must verify, how its depth scales with system class, what goes "
+        }
+      ]
+    },
+    "core_08_a_system_alignment_certification_evaluation.md": {
+      "removed": [
+        {
+          "modality": "DUTY",
+          "text": "A Class B exchange whose outage would now block emergency care within survival-relevant timeframes must be reclassified upward \u2014 including to Class A where survival essentials are gated \u2014 and recertified under \u00a72 System "
+        },
+        {
+          "modality": "DUTY",
+          "text": "A Class C scheduling platform that becomes the only practical path to emergency staffing or survival-essential routing must receive Class A or Class B whole-system depth on the facts \u2014 not the lighter coordination review"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Certification must use the System Data Types Record verified under \u00a73.8 Data Types and Handling Evaluation as evidence for each privacy locus it reaches: the types in scope and their purpose, recipients, basis, and deriv"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Class sets how deeply every evaluation in this chapter is carried out \u2014 the whole-system factors in \u00a73, data handling in \u00a73.8, and each Rights-Floor and domain evaluation in \u00a73.9 \u2014 and how often it is repeated: Higher-cl"
+        },
+        {
+          "modality": "DUTY",
+          "text": "For Type H, Type I, Type N, and Type S data, certification must also verify that handling satisfies the privacy homes each type names in CS-2 (Information types and handling), including Necessity, Proportionality, minimi"
+        },
+        {
+          "modality": "DUTY",
+          "text": "The factors in \u00a73.1 Systemic Scope and Risk Factors through \u00a73.6 Governance, Incentive, and Contestability Discipline apply to all three systems; class changes how deeply each factor must be evaluated and recorded."
+        },
+        {
+          "modality": "PROHIBITION",
+          "text": "A Class A survival-critical system must not be downclassified while it gates water, energy, or comparable survival essentials with no timely substitute."
+        }
+      ],
+      "added": [
+        {
+          "modality": "DUTY",
+          "text": "Certification must use the System Data Types Record verified under \u00a73.7 Data Types and Handling Evaluation as evidence for each privacy locus it reaches: the types in scope and their purpose, recipients, basis, and deriv"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Class sets how deeply every evaluation in this chapter is carried out \u2014 the whole-system factors in \u00a73 Whole-System Certification Evaluation, data handling in \u00a73.7 Data Types and Handling Evaluation, and each Rights-Floo"
+        },
+        {
+          "modality": "DUTY",
+          "text": "For Type H, Type I, Type N, Type S, and Type Y data, certification must also verify that handling satisfies the privacy homes each type names in CS-2 (Information types and handling), including Necessity, Proportionality"
+        },
+        {
+          "modality": "DUTY",
+          "text": "For Type W, Type U, and Type T works, certification must also verify that the creator's control is honored \u2014 including withdrawal of a public release under CS-2 Part B \u00a79.9 (Type W: Works, published), the limits of each "
+        }
+      ]
+    },
+    "core_08_b_system_alignment_certification_record_process.md": {
+      "removed": [
+        {
+          "modality": "DUTY",
+          "text": "Rights-Floor and domain findings: for each protection in the Part A \u00a73.9 table whose trigger applies: the materiality trigger relied on and the evaluation scope, the findings for that protection:, survival essentials, ed"
+        },
+        {
+          "modality": "DUTY",
+          "text": "System Data Types Record: the System Data Types Record \u2014 or its required contents under CS-2 (Information types and handling) \u2014 produced or verified under Part A \u00a73.8 Data Types and Handling Evaluation, stating: the data"
+        },
+        {
+          "modality": "DUTY",
+          "text": "a material defect found under a Part A evaluation that was required, including:, a data-handling defect under \u00a73.8, a risk-evaluation or risk-disclosure defect where systemic risk was in scope under \u00a73.1"
+        },
+        {
+          "modality": "DUTY",
+          "text": "footprint misrepresentation where disclosure was required under \u00a73.9.1, a nondiscrimination or proxy-discrimination defect under \u00a73.9.3, an accessibility or substantive-participation defect under \u00a73.9.4, an educational-c"
+        },
+        {
+          "modality": "PERMISSION",
+          "text": "A certification record may feed Chapter Nine standing only when it is bounded, traceable, contestable, and verified under: Part A \u00a72 System Class Evaluation (system class) and \u00a73.8 Data Types and Handling Evaluation (dat"
+        }
+      ],
+      "added": [
+        {
+          "modality": "DUTY",
+          "text": "Rights-Floor and domain findings: for each protection in the Part A \u00a73.8 Rights-Floor and Domain Evaluations table whose trigger applies: the materiality trigger relied on and the evaluation scope, the findings for that "
+        },
+        {
+          "modality": "DUTY",
+          "text": "System Data Types Record: the System Data Types Record \u2014 or its required contents under CS-2 (Information types and handling) \u2014 produced or verified under Part A \u00a73.7 Data Types and Handling Evaluation, stating: the data"
+        },
+        {
+          "modality": "DUTY",
+          "text": "a material defect found under a Part A evaluation that was required, including:, a data-handling defect under \u00a73.7 Data Types and Handling Evaluation, a risk-evaluation or risk-disclosure defect where systemic risk was i"
+        },
+        {
+          "modality": "DUTY",
+          "text": "footprint misrepresentation where disclosure was required under \u00a73.8.1 Ecological Footprint Evaluation, a nondiscrimination or proxy-discrimination defect under \u00a73.8.3 Nondiscrimination Evaluation, an accessibility or su"
+        },
+        {
+          "modality": "PERMISSION",
+          "text": "A certification record may feed Chapter Nine standing only when it is bounded, traceable, contestable, and verified under: Part A \u00a72 System Class Evaluation (system class) and \u00a73.7 Data Types and Handling Evaluation (dat"
+        }
+      ]
+    },
+    "core_08_c_system_alignment_certification_illustrations.md": {
+      "removed": [],
+      "added": [
+        {
+          "modality": "DUTY",
+          "text": "it must be moved up a class \u2014 to Class A where survival essentials depend on it \u2014 and recertified under \u00a72 System Class Evaluation and Part B \u00a76 Outcomes, Recertification, and Reopening."
+        },
+        {
+          "modality": "PROHIBITION",
+          "text": "So: if the Class C scheduling platform becomes the only practical way to staff emergencies or route survival essentials, it gets Class A or Class B review depth \u2014 not the lighter review its operator would prefer, the Cla"
+        }
+      ]
+    },
+    "corpus_systems/cs_02_a_information_types_and_handling.md": {
+      "removed": [
+        {
+          "modality": "DUTY",
+          "text": "When System Alignment Certification runs for a materially impactful system, Chapter Eight \u00a73.8 (Data Types and Handling Evaluation) must produce or verify the System Data Types Record"
+        },
+        {
+          "modality": "DUTY",
+          "text": "When System Alignment Certification runs, Chapter Eight \u00a73.8 Data Types and Handling Evaluation must produce or verify the record and include it in the System Certification Record under Part B \u00a74.1, Default access postur"
+        }
+      ],
+      "added": [
+        {
+          "modality": "DUTY",
+          "text": "When System Alignment Certification runs for a materially impactful system, Chapter Eight \u00a73.7 (Data Types and Handling Evaluation) must produce or verify the System Data Types Record"
+        },
+        {
+          "modality": "DUTY",
+          "text": "When System Alignment Certification runs, Chapter Eight \u00a73.7 Data Types and Handling Evaluation must produce or verify the record and include it in the System Certification Record under Part B \u00a74.1, Default access postur"
+        }
+      ]
+    }
+  },
+  "findings": [
+    "core_08_a_system_alignment_certification_evaluation.md: DROPPED or WEAKENED PROHIBITION (62% of terms survive; missing ['comparable', 'essentials', 'gates', 'survival', 'timely']): 'A Class A survival-critical system must not be downclassified while it gates water, energy, or comparable survival essentials with'",
+    "core_08_a_system_alignment_certification_evaluation.md: ADDED DUTY not in the source (58% of terms traceable; new ['commercial', 'control', 'creator', 'grant', 'grants', 'honored', 'name', 'reserved']): \"For Type W, Type U, and Type T works, certification must also verify that the creator's control is honored \u2014 including withdrawal \"",
+    "core_08_c_system_alignment_certification_illustrations.md: ADDED PROHIBITION not in the source (3% of terms traceable; new ['another', 'becomes', 'block', 'care', 'class', 'controls', 'depth', 'emergencies']): 'So: if the Class C scheduling platform becomes the only practical way to staff emergencies or route survival essentials, it gets C'",
+    "core_08_c_system_alignment_certification_illustrations.md: ADDED DUTY not in the source (33% of terms traceable; new ['depend', 'essentials', 'moved', 'outcomes', 'recertification', 'reopening', 'survival', 'system']): 'it must be moved up a class \u2014 to Class A where survival essentials depend on it \u2014 and recertified under \u00a72 System Class Evaluation'"
+  ],
+  "notes": [
+    "core_08_a_system_alignment_certification_evaluation.md: DUTY clause count 106 -> 104 (split or merged; coverage still checked)",
+    "core_08_a_system_alignment_certification_evaluation.md: PROHIBITION clause count 12 -> 11 (split or merged; coverage still checked)",
+    "core_08_c_system_alignment_certification_illustrations.md: DUTY clause count 68 -> 69 (split or merged; coverage still checked)",
+    "core_08_c_system_alignment_certification_illustrations.md: PROHIBITION clause count 3 -> 4 (split or merged; coverage still checked)"
+  ]
+}

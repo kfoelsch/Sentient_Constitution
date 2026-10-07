@@ -179,9 +179,74 @@ def count_syllables(word: str) -> int:
     return max(1, count)
 
 
+# Markup that is not prose. Readers do not read link targets, anchor ids, HTML
+# widget tags, or code, so none of it may count toward sentence length or
+# syllables-per-word.
+FENCE_RE = re.compile(r"^\s*(```|~~~)")
+IMAGE_RE = re.compile(r"!\[([^\]]*)\]\([^)]*\)")
+INLINE_LINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+REF_LINK_RE = re.compile(r"\[([^\]]+)\]\[[^\]]*\]")
+REF_DEF_RE = re.compile(r"^\s*\[[^\]]+\]:\s*\S+.*$")
+AUTOLINK_RE = re.compile(r"<(?:https?|mailto):[^>]*>")
+BARE_URL_RE = re.compile(r"\b(?:https?|file)://\S+")
+HTML_COMMENT_RE = re.compile(r"<!--.*?-->")
+SUMMARY_RE = re.compile(r"<summary>.*?</summary>", re.IGNORECASE)
+HTML_TAG_RE = re.compile(r"</?[A-Za-z][^>]*>")
+HTML_ENTITY_RE = re.compile(r"&[A-Za-z#0-9]+;")
+INLINE_CODE_RE = re.compile(r"`[^`]*`")
+TABLE_RULE_RE = re.compile(r"^\s*\|?[\s:|-]+\|?\s*$")
+
+
+def prose_lines(text: str) -> list[str]:
+    """Return the file's lines with non-prose markup removed.
+
+    The result has one entry per source line, so line numbers in findings stay
+    correct. Fenced code (including Mermaid charts), HTML comments, widget
+    labels in <summary>, HTML tags,
+    link targets, reference definitions, inline code, and table rule rows are
+    blanked; link and image text is kept.
+    """
+    out: list[str] = []
+    in_fence = False
+    in_comment = False
+    for line in text.splitlines():
+        if FENCE_RE.match(line):
+            in_fence = not in_fence
+            out.append("")
+            continue
+        if in_fence:
+            out.append("")
+            continue
+        if in_comment:
+            if "-->" in line:
+                line = line.split("-->", 1)[1]
+                in_comment = False
+            else:
+                out.append("")
+                continue
+        line = HTML_COMMENT_RE.sub(" ", line)
+        line = SUMMARY_RE.sub(" ", line)
+        if "<!--" in line:
+            line = line.split("<!--", 1)[0]
+            in_comment = True
+        if REF_DEF_RE.match(line) or TABLE_RULE_RE.match(line):
+            out.append("")
+            continue
+        line = IMAGE_RE.sub(r"\1", line)
+        line = INLINE_LINK_RE.sub(r"\1", line)
+        line = REF_LINK_RE.sub(r"\1", line)
+        line = AUTOLINK_RE.sub(" ", line)
+        line = BARE_URL_RE.sub(" ", line)
+        line = HTML_TAG_RE.sub(" ", line)
+        line = HTML_ENTITY_RE.sub(" ", line)
+        line = INLINE_CODE_RE.sub(" ", line)
+        out.append(line)
+    return out
+
+
 def split_sentences_with_lines(text: str) -> list[tuple[int, str]]:
     results: list[tuple[int, str]] = []
-    for line_no, raw_line in enumerate(text.splitlines(), start=1):
+    for line_no, raw_line in enumerate(prose_lines(text), start=1):
         stripped = raw_line.strip()
         if not stripped:
             continue
@@ -192,7 +257,7 @@ def split_sentences_with_lines(text: str) -> list[tuple[int, str]]:
         sentences = SENTENCE_SPLIT_RE.split(stripped)
         for sentence in sentences:
             sentence = sentence.strip()
-            if sentence:
+            if sentence and WORD_RE.search(sentence):
                 results.append((line_no, sentence))
     return results
 
@@ -300,7 +365,9 @@ def analyze_file(
     rel_path = str(path.relative_to(root))
     sentences = split_sentences_with_lines(text)
 
-    all_words = word_list(text)
+    # Totals come from the same prose the sentences were drawn from, so headings
+    # (which are not sentences) and markup do not skew words-per-sentence.
+    all_words = [word for _, sentence in sentences for word in word_list(sentence)]
     total_words = len(all_words)
     total_syllables = sum(count_syllables(word) for word in all_words)
 

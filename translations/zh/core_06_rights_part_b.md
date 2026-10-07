@@ -214,7 +214,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯关系</span></strong></summary>
 
 - 上游：原则：第一章[§3.1公平](core_01_a_values_principles.md#31-fairness)、[第一章§7自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第一章§13.1.5权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 下游：参与度衡量系列（*实质公平、受保护特征的代理指标与差别影响*）；[第八章§3.9.3](core_08_a_system_alignment_certification_evaluation.md#393-nondiscrimination-evaluation)（*认证将分类、排序、定价、准入限制或负担分配作为门槛时的不歧视评估*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)的论坛、行政和执行程序（*裁决与运行义务*）。
+- 下游：参与度衡量系列（*实质公平、受保护特征的代理指标与差别影响*）；[第八章§3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation)（*认证将分类、排序、定价、准入限制或负担分配作为门槛时的不歧视评估*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)的论坛、行政和执行程序（*裁决与运行义务*）。
 - 配合阅读：第五章[受保护特征](core_05_band_participation.md#protected-characteristics-constitutional)与[语言、文化和遗产](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；第五章[原住民延续](core_05_band_continuity.md#indigenous-continuity-constitutional)（*以社区为基础的权利底线；所属底线为**第VI-C条**（不歧视）与**第I-A条**（环境前提与生态完整性）*），适用于原住民延续和领土延续问题；此类问题转由[第I-A条](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)（*生态系统完整性的前提条件*）及[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*采纳方管辖纪律*）处理。
 
 </details>
@@ -261,7 +261,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
 - 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 通俗语言无障碍](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 VI-C 条**（*不歧视*）在裁决和运营中的不歧视与充分包容；**第 IV-A 条**（*平等教育机会*）的平等教育机会（教育专属无障碍仍由该条负责；本条规定跨领域权利底线）；**第 X-B 条**（*治理参与与投票资格*）；**第 XII 条**（*利益相关方系统参与、代表与正当程序*）；**第 XVI 条**（*审计、透明度与独立核验*）；参与度量系列（*作为宪法衡量指标的无障碍*）；[第八章 §3.9.4](core_08_a_system_alignment_certification_evaluation.md#394-accessibility-evaluation)（*认证门槛影响实质参与时的无障碍评估*）。
+- 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 VI-C 条**（*不歧视*）在裁决和运营中的不歧视与充分包容；**第 IV-A 条**（*平等教育机会*）的平等教育机会（教育专属无障碍仍由该条负责；本条规定跨领域权利底线）；**第 X-B 条**（*治理参与与投票资格*）；**第 XII 条**（*利益相关方系统参与、代表与正当程序*）；**第 XVI 条**（*审计、透明度与独立核验*）；参与度量系列（*作为宪法衡量指标的无障碍*）；[第八章 §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation)（*认证门槛影响实质参与时的无障碍评估*）。
 - 与第五章术语*无障碍*、*受保护特征*、*实质公平*、*重要性*、*依赖*、*有意义的能动性*一并阅读。跨领域无障碍原则见[第一章 §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)（*通俗语言无障碍*）。
 
 </details>

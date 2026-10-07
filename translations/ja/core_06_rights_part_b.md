@@ -218,7 +218,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠と連関</span></strong></summary>
 
 - 上流：原則：第一章 [§3.1 公正](core_01_a_values_principles.md#31-fairness)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、および[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 下流：参加測定群（*実質的公正、保護特性の代理指標化および不均衡な影響*）；[第八章 §3.9.3](core_08_a_system_alignment_certification_evaluation.md#393-nondiscrimination-evaluation)（*認証が分類、順位付け、価格設定、利用制限または負担配分の条件となる場合の差別禁止評価*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)のフォーラム、行政および執行の手続（*裁定および運用上の義務*）。
+- 下流：参加測定群（*実質的公正、保護特性の代理指標化および不均衡な影響*）；[第八章 §3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation)（*認証が分類、順位付け、価格設定、利用制限または負担配分の条件となる場合の差別禁止評価*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)のフォーラム、行政および執行の手続（*裁定および運用上の義務*）。
 - あわせて読む：第五章の[保護特性](core_05_band_participation.md#protected-characteristics-constitutional)および[言語、文化、遺産](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；先住民の継続性および領域の継続性に関する問いについては、第五章の[先住民の継続性](core_05_band_continuity.md#indigenous-continuity-constitutional)（*コミュニティに根ざした権利の床；所管する床は**Article VI-C**（差別の禁止）および**Article I-A**（環境上の前提条件と生態系の完全性）*）を参照する。これらの問いは[Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)（*生態系の完全性という前提条件*）および[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*採用主体の管轄規律*）に導かれる。
 
 </details>
@@ -265,7 +265,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
 - 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 平易な言葉によるアクセシビリティ](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 下流：**第VI-A条**（*尊厳と道徳的地位の平等*）の尊厳の最低基準、**第VI-C条**（*差別禁止*）の裁定および運用における差別禁止と完全な包摂、**第IV-A条**（*教育への平等なアクセス*）の教育への平等なアクセス（重複なし。教育固有のアクセシビリティは同条が扱い、本条は分野横断的な権利の床を定める）、**第X-B条**（*統治参加と投票資格*）の統治参加、**第XII条**（*利害関係者のシステム参加、代表および適正手続*）の利害関係者参加、**第XVI条**（*監査、透明性および独立検証*）の独立検証、参加測定群（*憲法上の測定としてのアクセシビリティ*）、[第八章 §3.9.4](core_08_a_system_alignment_certification_evaluation.md#394-accessibility-evaluation)（*認証が実質的な参加の条件となる場合のアクセシビリティ評価*）。
+- 下流：**第VI-A条**（*尊厳と道徳的地位の平等*）の尊厳の最低基準、**第VI-C条**（*差別禁止*）の裁定および運用における差別禁止と完全な包摂、**第IV-A条**（*教育への平等なアクセス*）の教育への平等なアクセス（重複なし。教育固有のアクセシビリティは同条が扱い、本条は分野横断的な権利の床を定める）、**第X-B条**（*統治参加と投票資格*）の統治参加、**第XII条**（*利害関係者のシステム参加、代表および適正手続*）の利害関係者参加、**第XVI条**（*監査、透明性および独立検証*）の独立検証、参加測定群（*憲法上の測定としてのアクセシビリティ*）、[第八章 §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation)（*認証が実質的な参加の条件となる場合のアクセシビリティ評価*）。
 - 併読：第五章の*アクセシビリティ*、*保護特性*、*実質的公正*、*実質的利害*、*依存*、*意味ある主体性*。分野横断的なアクセシビリティ原則：[第一章 §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)（*平易な言葉によるアクセシビリティ*）。
 
 </details>
