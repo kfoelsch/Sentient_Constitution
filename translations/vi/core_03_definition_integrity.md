@@ -246,7 +246,7 @@ Nếu một hệ thống đã chạy dưới một [chứng nhận thẳng hàng
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 Hiệu ứng quỹ đạo ở lần chứng nhận đầu
 
-Nếu hệ thống vẫn ở **lần đầu** [chứng nhận thẳng hàng hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) và chưa được công nhận — kể cả nơi công nhận bị hoãn hoặc từ chối — không tuân thủ đã xác minh quyết chủ yếu **kết quả chứng nhận** dưới Chương Bảy. Kết quả đó có thể là công nhận có điều kiện, công nhận bị hoãn, không công nhận, hoặc một kết quả tương đương. Những hồ sơ chứng nhận đó vẫn có thể cung cấp đầu vào quỹ đạo đã xác minh dưới [Chương Bảy §8](../../core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) khi các sự kiện nâng đỡ. Chương này không đòi cùng hồ sơ quỹ đạo mà một hệ thống đang chạy đã được chứng nhận phải nhận.
+Nếu hệ thống vẫn ở **lần đầu** [chứng nhận thẳng hàng hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) và chưa được công nhận — kể cả nơi công nhận bị hoãn hoặc từ chối — không tuân thủ đã xác minh quyết chủ yếu **kết quả chứng nhận** dưới Chương Bảy. Kết quả đó có thể là công nhận có điều kiện, công nhận bị hoãn, không công nhận, hoặc một kết quả tương đương. Những hồ sơ chứng nhận đó vẫn có thể cung cấp đầu vào quỹ đạo đã xác minh dưới [Chương Bảy §9](../../core_08_b_system_alignment_certification_record_process.md#9-relationship-to-standing) khi các sự kiện nâng đỡ. Chương này không đòi cùng hồ sơ quỹ đạo mà một hệ thống đang chạy đã được chứng nhận phải nhận.
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 Hiệu ứng quỹ đạo cho hữu tri và thể chế

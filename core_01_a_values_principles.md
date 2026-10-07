@@ -1925,7 +1925,7 @@ Any claim about the matters below must be checked against what the whole system 
 
 The detailed evaluation factors and certification records are owned by:
 - **[Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[Chapter Eight §6 System Certification Record](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[Chapter Eight §7 System Certification Record](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**.
 
 That Chapter Eight process:

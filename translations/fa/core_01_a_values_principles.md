@@ -1920,7 +1920,7 @@ flowchart TB
 
 مالکیت عوامل تفصیلی ارزیابی و سوابق گواهی‌دهی بر عهدهٔ موارد زیر است:
 - **[فصل هشت §4 ارزیابی گواهی‌دهی کل‌نظام](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**؛
-- **[فصل هشت §6 سابقهٔ گواهی‌دهی نظام](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**؛
+- **[فصل هشت §7 سابقهٔ گواهی‌دهی نظام](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**؛
 - **[corpus_systems.md](corpus_systems.md)، CS-3 — طبقه‌بندی و رسیدگی به نظام‌ها**.
 
 آن فرایند فصل هشت:

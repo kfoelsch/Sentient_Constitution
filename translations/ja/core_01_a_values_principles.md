@@ -1920,7 +1920,7 @@ flowchart TB
 
 詳細な評価要素と認証記録は、次が所管する。
 - **[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**。
-- **[第八章 §6 システム認証記録](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**。
+- **[第八章 §7 システム認証記録](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**。
 - **[corpus_systems.md](corpus_systems.md)、CS-3 — システムの分類と取扱い**。
 
 第八章の手続は、次のとおりである。

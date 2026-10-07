@@ -1920,7 +1920,7 @@ flowchart TB
 
 تفصیلی جائزہ عوامل اور تصدیقی ریکارڈ ان کی ذمہ داری ہیں:
 - **[باب ہشتم §4 پورے نظام کی تصدیقی جانچ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**؛
-- **[باب ہشتم §6 نظام کی تصدیق کا ریکارڈ](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**؛
+- **[باب ہشتم §7 نظام کی تصدیق کا ریکارڈ](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**؛
 - **[corpus_systems.md](corpus_systems.md)، CS-3 — نظام کی درجہ بندی اور برتاؤ**۔
 
 باب ہشتم کا طریقۂ کار:

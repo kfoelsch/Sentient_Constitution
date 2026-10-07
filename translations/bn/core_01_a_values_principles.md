@@ -1920,7 +1920,7 @@ lock-in স্পষ্ট হওয়ার আগেই একত্রীক
 
 বিস্তারিত মূল্যায়ন-উপাদান ও প্রত্যয়ন-নথির দায়িত্ব রয়েছে:
 - **[অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[অধ্যায় আট §6 ব্যবস্থা-প্রত্যয়ন নথি](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[অধ্যায় আট §7 ব্যবস্থা-প্রত্যয়ন নথি](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — ব্যবস্থা শ্রেণিবিন্যাস ও ব্যবস্থাপনা**-এর।
 
 অধ্যায় আটের সেই প্রক্রিয়া:

@@ -1919,7 +1919,7 @@ flowchart TB
 
 详细评估因素与认证记录由以下文件负责：
 - **[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**；
-- **[第八章 §6 系统认证记录](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**；
+- **[第八章 §7 系统认证记录](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**；
 - **[corpus_systems.md](corpus_systems.md)，CS-3 — 系统分类与处理**。
 
 第八章的程序：

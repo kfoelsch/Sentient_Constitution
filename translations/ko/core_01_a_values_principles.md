@@ -1920,7 +1920,7 @@ flowchart TB
 
 상세한 평가 요소와 인증 기록은 다음 문서가 담당합니다.
 - **[제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[제8장 §6 시스템 인증 기록](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[제8장 §7 시스템 인증 기록](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — 시스템 분류 및 처리**.
 
 제8장의 절차는 다음과 같습니다.

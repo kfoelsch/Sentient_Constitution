@@ -1920,7 +1920,7 @@ Cualquier afirmación sobre las cuestiones siguientes debe contrastarse con lo q
 
 Los factores detallados de evaluación y los registros de certificación corresponden a:
 - **[Capítulo Ocho §4 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[Capítulo Ocho §6 Registro de certificación del sistema](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[Capítulo Ocho §7 Registro de certificación del sistema](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — Clasificación y tratamiento de sistemas**.
 
 El proceso del Capítulo Ocho:

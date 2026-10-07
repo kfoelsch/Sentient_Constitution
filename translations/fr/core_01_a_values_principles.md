@@ -1920,7 +1920,7 @@ Toute affirmation portant sur les éléments ci-dessous doit être vérifiée au
 
 Les facteurs d’évaluation détaillés et les dossiers de certification relèvent de :
 - **[Chapitre huit §4 Évaluation de certification du système entier](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)** ;
-- **[Chapitre huit §6 Registre de certification du système](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)** ;
+- **[Chapitre huit §7 Registre de certification du système](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)** ;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — Classification et traitement des systèmes**.
 
 Cette procédure du chapitre huit :

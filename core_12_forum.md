@@ -81,7 +81,7 @@ This chapter states which **forum families** **supervise** which primary questio
      - **Environment** — environmental-alignment component where material
      - other family component findings under this chapter’s routing
    - Sentients can challenge certification results, attach conditions, and reopen the file when needed — but a certification does **not** replace standing measurement.
-   - Important findings from a certification can count as **verified inputs** when Chapter Nine measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part B §8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing)).
+   - Important findings from a certification can count as **verified inputs** when Chapter Nine measures standing. A certification does **not**, by itself, assign anyone a standing slot ([Part B §9](core_08_b_system_alignment_certification_record_process.md#9-relationship-to-standing)).
 
 **Forum families** are the primary institutions through which this instrument **supervises** those tracks. They are distinct from routine executive administration of enacted rules.
 

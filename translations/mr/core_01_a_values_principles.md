@@ -1920,7 +1920,7 @@ flowchart TB
 
 तपशीलवार मूल्यमापन घटक आणि प्रमाणन नोंदींची जबाबदारी पुढील स्रोतांकडे आहे:
 - **[अध्याय आठवा §4 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[अध्याय आठवा §6 प्रणाली प्रमाणन नोंद](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[अध्याय आठवा §7 प्रणाली प्रमाणन नोंद](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण आणि हाताळणी**.
 
 अध्याय आठव्याची ती प्रक्रिया:

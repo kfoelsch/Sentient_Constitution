@@ -3,8 +3,8 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 942,
-  "glossed_count": 672,
+  "heading_count": 943,
+  "glossed_count": 675,
   "files": [
     {
       "file": "core_00_preamble.md",
@@ -45,7 +45,7 @@
           "title": "3. Governance and Stewardship",
           "anchor": "3-governance-and-stewardship",
           "line": 103,
-          "gloss": "legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And people like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.",
+          "gloss": "legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And sentients like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.",
           "gloss_line": 105
         },
         {
@@ -1666,18 +1666,18 @@
           "level": 3,
           "title": "Chapter Five compass and definition map",
           "anchor": "chapter-five-compass-and-definition-map",
-          "line": 396,
+          "line": 398,
           "gloss": "Chapter Five is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.",
-          "gloss_line": 410
+          "gloss_line": 412
         },
         {
           "file": "core_05__definitions_home.md",
           "level": 3,
           "title": "Measurement crosswalk (reader guidance)",
           "anchor": "measurement-crosswalk-reader-guidance",
-          "line": 428,
+          "line": 430,
           "gloss": "Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Five homes that answer it.",
-          "gloss_line": 430
+          "gloss_line": 432
         }
       ]
     },
@@ -2712,8 +2712,8 @@
     {
       "file": "core_05_band_continuity.md",
       "title": "Continuity Constitutional Definitions",
-      "heading_count": 89,
-      "glossed_count": 28,
+      "heading_count": 91,
+      "glossed_count": 30,
       "sections": [
         {
           "file": "core_05_band_continuity.md",
@@ -3179,7 +3179,7 @@
           "level": 4,
           "title": "System",
           "anchor": "system-definition",
-          "line": 2637,
+          "line": 2639,
           "gloss": null,
           "gloss_line": null
         },
@@ -3188,7 +3188,7 @@
           "level": 4,
           "title": "System Boundaries",
           "anchor": "system-boundaries",
-          "line": 2672,
+          "line": 2674,
           "gloss": null,
           "gloss_line": null
         },
@@ -3197,25 +3197,43 @@
           "level": 4,
           "title": "System Boundary Integrity",
           "anchor": "system-boundary-integrity",
-          "line": 2704,
+          "line": 2706,
           "gloss": null,
           "gloss_line": null
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
+          "title": "Process",
+          "anchor": "process",
+          "line": 2740,
+          "gloss": "a **Process** is a repeatable way a duty actually gets carried out: the steps, decisions, records, deadlines, and handoffs. It is judged as part of the system it runs in. It does not get its own class or its own certification.",
+          "gloss_line": 2754
+        },
+        {
+          "file": "core_05_band_continuity.md",
+          "level": 4,
+          "title": "Institution",
+          "anchor": "institution",
+          "line": 2785,
+          "gloss": "an **Institution** is a lasting holder of authority, such as an office, agency, organization, or forum. It keeps its mandate when its occupants change. What counts is what it actually decides and who answers for it, not what it calls itself or how it is incorporated.",
+          "gloss_line": 2800
+        },
+        {
+          "file": "core_05_band_continuity.md",
+          "level": 4,
           "title": "Charter",
           "anchor": "charter",
-          "line": 2740,
+          "line": 2833,
           "gloss": "a **Charter** is the published statement of what a system, institution, or business is for and what it is allowed to do. Where binding stakeholder decisions will stick inside that scope, the Charter must point to the published process rules — it does not replace them. Scope can change, but not silently — amendments and periodic review keep the paper matched to real behavior. A Charter is not a shield against impact-based classification or full-boundary evaluation.",
-          "gloss_line": 2755
+          "gloss_line": 2848
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "Systemic Lock-In",
           "anchor": "systemic-lock-in",
-          "line": 2797,
+          "line": 2890,
           "gloss": null,
           "gloss_line": null
         },
@@ -3224,7 +3242,7 @@
           "level": 4,
           "title": "Survival-floor continuity: bodily maintenance, occupancy, and environment",
           "anchor": "stewardship-governance-discipline-and-shared-system-capacity-semi-independent",
-          "line": 2846,
+          "line": 2939,
           "gloss": null,
           "gloss_line": null
         },
@@ -3233,7 +3251,7 @@
           "level": 4,
           "title": "Bodily-Maintenance Access",
           "anchor": "bodily-maintenance-access-constitutional",
-          "line": 2866,
+          "line": 2959,
           "gloss": null,
           "gloss_line": null
         },
@@ -3242,7 +3260,7 @@
           "level": 4,
           "title": "Occupancy Continuity",
           "anchor": "tenure-security-constitutional",
-          "line": 2923,
+          "line": 3016,
           "gloss": null,
           "gloss_line": null
         },
@@ -3251,7 +3269,7 @@
           "level": 4,
           "title": "Community-anchored continuity: indigenous, language, culture, and heritage",
           "anchor": "indigenous-continuity-language-culture-heritage-semi-independent",
-          "line": 2982,
+          "line": 3075,
           "gloss": null,
           "gloss_line": null
         },
@@ -3260,7 +3278,7 @@
           "level": 4,
           "title": "Indigenous Continuity",
           "anchor": "indigenous-continuity-constitutional",
-          "line": 3000,
+          "line": 3093,
           "gloss": null,
           "gloss_line": null
         },
@@ -3269,7 +3287,7 @@
           "level": 4,
           "title": "Language, Culture, and Heritage",
           "anchor": "language-culture-and-heritage-constitutional",
-          "line": 3063,
+          "line": 3156,
           "gloss": null,
           "gloss_line": null
         },
@@ -3278,7 +3296,7 @@
           "level": 3,
           "title": "Continuity: Dependent clusters",
           "anchor": "continuity-dependent-clusters",
-          "line": 3123,
+          "line": 3216,
           "gloss": null,
           "gloss_line": null
         },
@@ -3287,7 +3305,7 @@
           "level": 4,
           "title": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
           "anchor": "defc1",
-          "line": 3128,
+          "line": 3221,
           "gloss": null,
           "gloss_line": null
         },
@@ -3296,7 +3314,7 @@
           "level": 5,
           "title": "Fair Compensation",
           "anchor": "fair-compensation-constitutional",
-          "line": 3191,
+          "line": 3284,
           "gloss": null,
           "gloss_line": null
         },
@@ -3305,34 +3323,34 @@
           "level": 5,
           "title": "Safe Conditions",
           "anchor": "safe-conditions-constitutional",
-          "line": 3259,
+          "line": 3352,
           "gloss": "every sentient has the right to work in conditions where they are genuinely protected from foreseeable harm — not just on paper, but in reality. This applies whether the worker is human, synthetic, or any other substrate. Box-checking safety programs that leave sentients actually exposed don't count.",
-          "gloss_line": 3273
+          "gloss_line": 3366
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 5,
           "title": "Leisure and Rest",
           "anchor": "leisure-and-rest-constitutional",
-          "line": 3324,
+          "line": 3417,
           "gloss": "every working sentient has a right to real time off — enough rest and recuperation to stay healthy, maintain their agency, and participate fully in life. Productivity demands that exhaust sentients don't satisfy this floor.",
-          "gloss_line": 3338
+          "gloss_line": 3431
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 5,
           "title": "Likeness and Documentary Depiction Interface",
           "anchor": "likeness-and-documentary-depiction-interface-constitutional",
-          "line": 3386,
+          "line": 3479,
           "gloss": "your likeness is how others recognize you — your appearance and your voice, whether recorded, edited, or generated. This entry is the home for what \"likeness\" means across the Constitution, and for how depicting someone in reporting or documentary work interacts with their control over it.",
-          "gloss_line": 3399
+          "gloss_line": 3492
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 5,
           "title": "Creative Work Attribution",
           "anchor": "creative-work-attribution-constitutional",
-          "line": 3449,
+          "line": 3542,
           "gloss": null,
           "gloss_line": null
         },
@@ -3341,7 +3359,7 @@
           "level": 5,
           "title": "Training-Data Use",
           "anchor": "training-data-use-constitutional",
-          "line": 3520,
+          "line": 3613,
           "gloss": null,
           "gloss_line": null
         },
@@ -3350,16 +3368,16 @@
           "level": 5,
           "title": "Anti-Displacement Floor",
           "anchor": "anti-displacement-floor-constitutional",
-          "line": 3577,
+          "line": 3670,
           "gloss": "when automation or generative systems take work away from sentients at population scale, those sentients must get real mitigation — pay, transition support, credit for their work, and a share in the value created — not slogans about productivity or innovation. Looking only at one company or one platform does not settle the question.",
-          "gloss_line": 3591
+          "gloss_line": 3684
         },
         {
           "file": "core_05_band_continuity.md",
           "level": 4,
           "title": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
           "anchor": "defc2",
-          "line": 3650,
+          "line": 3743,
           "gloss": null,
           "gloss_line": null
         },
@@ -3368,7 +3386,7 @@
           "level": 5,
           "title": "Stewardship",
           "anchor": "stewardship-constitutional",
-          "line": 3720,
+          "line": 3813,
           "gloss": null,
           "gloss_line": null
         },
@@ -3377,7 +3395,7 @@
           "level": 5,
           "title": "Distributed Understanding",
           "anchor": "distributed-understanding-constitutional",
-          "line": 3779,
+          "line": 3872,
           "gloss": null,
           "gloss_line": null
         },
@@ -3386,7 +3404,7 @@
           "level": 5,
           "title": "Institutional Development",
           "anchor": "institutional-development-constitutional",
-          "line": 3855,
+          "line": 3948,
           "gloss": null,
           "gloss_line": null
         },
@@ -3395,7 +3413,7 @@
           "level": 5,
           "title": "Openness Aspiration",
           "anchor": "openness-aspiration-constitutional",
-          "line": 3928,
+          "line": 4021,
           "gloss": null,
           "gloss_line": null
         },
@@ -3404,7 +3422,7 @@
           "level": 5,
           "title": "Strategic Stewardship Obligation",
           "anchor": "strategic-stewardship-obligation-constitutional",
-          "line": 3978,
+          "line": 4071,
           "gloss": null,
           "gloss_line": null
         },
@@ -3413,7 +3431,7 @@
           "level": 5,
           "title": "Short-Horizon Governance Defect",
           "anchor": "short-horizon-governance-defect-constitutional",
-          "line": 4034,
+          "line": 4127,
           "gloss": null,
           "gloss_line": null
         },
@@ -3422,7 +3440,7 @@
           "level": 5,
           "title": "Stewardship Defect",
           "anchor": "stewardship-defect-constitutional",
-          "line": 4079,
+          "line": 4172,
           "gloss": null,
           "gloss_line": null
         },
@@ -3431,7 +3449,7 @@
           "level": 5,
           "title": "Review and Correction Duty",
           "anchor": "review-and-correction-duty-constitutional",
-          "line": 4138,
+          "line": 4231,
           "gloss": null,
           "gloss_line": null
         },
@@ -3440,7 +3458,7 @@
           "level": 4,
           "title": "Def.C3 Privacy (Informational) — peer-level cluster head",
           "anchor": "defc3",
-          "line": 4179,
+          "line": 4272,
           "gloss": null,
           "gloss_line": null
         },
@@ -3449,7 +3467,7 @@
           "level": 5,
           "title": "Privacy (Informational)",
           "anchor": "privacy-informational",
-          "line": 4219,
+          "line": 4312,
           "gloss": null,
           "gloss_line": null
         },
@@ -3458,7 +3476,7 @@
           "level": 5,
           "title": "Protected Internal-State Boundary",
           "anchor": "protected-internal-state-boundary-constitutional",
-          "line": 4282,
+          "line": 4375,
           "gloss": null,
           "gloss_line": null
         },
@@ -3467,7 +3485,7 @@
           "level": 5,
           "title": "Identity Data Protection",
           "anchor": "identity-data-protection",
-          "line": 4328,
+          "line": 4421,
           "gloss": null,
           "gloss_line": null
         },
@@ -3476,7 +3494,7 @@
           "level": 5,
           "title": "Surveillance Boundary",
           "anchor": "surveillance-boundary",
-          "line": 4349,
+          "line": 4442,
           "gloss": null,
           "gloss_line": null
         },
@@ -3485,7 +3503,7 @@
           "level": 4,
           "title": "Def.C4 Trust and Trustworthiness",
           "anchor": "defc4",
-          "line": 4401,
+          "line": 4494,
           "gloss": null,
           "gloss_line": null
         },
@@ -3494,7 +3512,7 @@
           "level": 5,
           "title": "Trust",
           "anchor": "trust",
-          "line": 4450,
+          "line": 4543,
           "gloss": null,
           "gloss_line": null
         },
@@ -3503,7 +3521,7 @@
           "level": 5,
           "title": "Trustworthiness",
           "anchor": "trustworthiness",
-          "line": 4485,
+          "line": 4578,
           "gloss": null,
           "gloss_line": null
         },
@@ -3512,7 +3530,7 @@
           "level": 5,
           "title": "Trust Degradation and Misleading Reliance",
           "anchor": "trust-degradation-and-misleading-reliance",
-          "line": 4551,
+          "line": 4644,
           "gloss": null,
           "gloss_line": null
         }
@@ -4902,7 +4920,7 @@
           "title": "1.1 Certification at a glance",
           "anchor": "11-certification-at-a-glance",
           "line": 63,
-          "gloss": "classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, gather them into one record, decide an outcome, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.",
+          "gloss": "classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, gather it all into one record, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.",
           "gloss_line": 65
         },
         {
@@ -4910,7 +4928,7 @@
           "level": 4,
           "title": "1.2 Proportionality and the Tetrad",
           "anchor": "12-proportionality-and-the-tetrad",
-          "line": 142,
+          "line": 141,
           "gloss": null,
           "gloss_line": null
         },
@@ -4919,16 +4937,16 @@
           "level": 3,
           "title": "2. System Class Evaluation",
           "anchor": "2-system-class-evaluation",
-          "line": 160,
+          "line": 159,
           "gloss": "certification has to check whether the system is classified honestly — not by what the operator calls it, but by what it actually does, what depends on it, and what could go wrong. Higher classes mean stricter proof, faster re-checks, and stronger resilience expectations. See [Part C — Illustrations](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations) for one example system per class and how evaluation applies to each of them.",
-          "gloss_line": 173
+          "gloss_line": 172
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "2.1 How class scales every evaluation",
           "anchor": "21-how-class-scales-every-evaluation",
-          "line": 235,
+          "line": 234,
           "gloss": null,
           "gloss_line": null
         },
@@ -4937,16 +4955,16 @@
           "level": 3,
           "title": "3. Challenging a Certification",
           "anchor": "3-challenging-a-certification",
-          "line": 262,
+          "line": 261,
           "gloss": "a certification record only works if sentients can push back when it is wrong. A challenge has to be real — able to reopen review, pause reliance, and reach the forum with authority over the point in dispute — not a ceremonial complaints box.",
-          "gloss_line": 273
+          "gloss_line": 272
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "3.1 Contestability paths",
           "anchor": "31-contestability-paths",
-          "line": 297,
+          "line": 296,
           "gloss": null,
           "gloss_line": null
         },
@@ -4955,16 +4973,16 @@
           "level": 3,
           "title": "4. Whole-System Certification Evaluation",
           "anchor": "4-whole-system-certification-evaluation",
-          "line": 317,
+          "line": 316,
           "gloss": "you cannot green-light one piece of a system and ignore the rest. Reviewers need the full picture — what it depends on, what breaks when something upstream fails, harms that show up later or add up over time, whether sentients can actually use it (not just on paper), whether private information stays properly walled off, whether sentients can leave without being trapped, whether groups can still organize without the system splitting them apart, whether short-term wins hide long-term damage, and whether real oversight and accountability will still work when a lot is on the line.",
-          "gloss_line": 331
+          "gloss_line": 330
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "4.1 Systemic Scope and Risk Factors",
           "anchor": "41-systemic-scope-and-risk-factors",
-          "line": 357,
+          "line": 356,
           "gloss": null,
           "gloss_line": null
         },
@@ -4973,7 +4991,7 @@
           "level": 4,
           "title": "4.2 Time-Consistency Constraint",
           "anchor": "42-time-consistency-constraint",
-          "line": 393,
+          "line": 392,
           "gloss": null,
           "gloss_line": null
         },
@@ -4982,34 +5000,34 @@
           "level": 4,
           "title": "4.3 Governance, Incentive, and Contestability Discipline",
           "anchor": "43-governance-incentive-and-contestability-discipline",
-          "line": 398,
+          "line": 397,
           "gloss": "the review is not finished unless reviewers ask whether the four legs of the [Tetrad](core_00_preamble.md#constitutional-tetrad) will still hold at the level of risk involved — participation (whether sentients can actually take part), oversight (whether the work can be watched and checked), accountability (whether wrongdoing can be answered for), and timeliness (whether decisions will move fast enough when it matters). Reviewers also need to know who actually holds material authority and who answers for what — not a vague \"the team\" or a blame-shifting shell. Those questions must be answered for a valid certification.",
-          "gloss_line": 400
+          "gloss_line": 399
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "4.4 Data Types and Handling Evaluation",
           "anchor": "44-data-types-and-handling-evaluation",
-          "line": 415,
+          "line": 414,
           "gloss": "certification also has to look at what kinds of data the system touches and whether it handles them appropriately — including whether types are still right on the current review cycle, and whether the underlying infrastructure is strong enough for that data at that system class. The type rules and the System Data Types Record live in the systems corpus; certification checks that the rules were actually applied and that the record is honest.",
-          "gloss_line": 429
+          "gloss_line": 428
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "4.5 Privacy (Informational) Joint Invocation",
           "anchor": "45-privacy-informational-joint-invocation",
-          "line": 514,
+          "line": 513,
           "gloss": "Chapter Six spreads privacy protections across several articles — not one tidy corner. If a certification review touches more than one of those protections, reviewers must check every one that actually applies. Clearing the easiest box and calling it done is not enough.",
-          "gloss_line": 516
+          "gloss_line": 515
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "4.6 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
           "anchor": "46-voluntary-discontinuation-major-self-modification-and-exit-rights",
-          "line": 538,
+          "line": 537,
           "gloss": null,
           "gloss_line": null
         },
@@ -5018,7 +5036,7 @@
           "level": 4,
           "title": "4.7 Assembly, Collective Organization, and Institutional Formation",
           "anchor": "47-assembly-collective-organization-and-institutional-formation",
-          "line": 543,
+          "line": 542,
           "gloss": null,
           "gloss_line": null
         },
@@ -5027,80 +5045,80 @@
           "level": 5,
           "title": "4.7.1 Dissent and Peaceful Protest",
           "anchor": "471-dissent-and-peaceful-protest",
-          "line": 548,
+          "line": 547,
           "gloss": "a system cannot be certified as aligned if it quietly punishes the sentients who disagree with it. Reviewers must check whether sentients can actually object and protest, and whether dissent is being counted against them anywhere in the system's logic — including when the dissenter is the system itself.",
-          "gloss_line": 550
+          "gloss_line": 549
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "4.8 Rights-Floor and Domain Evaluations",
           "anchor": "48-rights-floor-and-domain-evaluations",
-          "line": 562,
+          "line": 561,
           "gloss": "some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the check has to be real — not a box the operator ticked. The table shows which protection each check covers, when it applies, and where it is evaluated.",
-          "gloss_line": 575
+          "gloss_line": 574
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "4.8.1 Ecological Footprint Evaluation",
           "anchor": "481-ecological-footprint-evaluation",
-          "line": 600,
+          "line": 599,
           "gloss": "certification has to evaluate attributable environmental burdens honestly when they matter — including upstream and downstream links — not only whether the operator claims the system is green. Footprint accounting methods and numeric reduction targets live in other instruments; certification checks that attribution, disclosure, and comparison were actually evaluated where material. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§4.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#4811-illustrative-ecological-footprint-application-by-class-non-exhaustive).",
-          "gloss_line": 614
+          "gloss_line": 613
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "4.8.2 Proportionate Cross-System Support Evaluation",
           "anchor": "482-proportionate-cross-system-support-evaluation",
-          "line": 651,
+          "line": 650,
           "gloss": "when a system materially draws on shared foundations, certification has to check whether it puts enough traceable support back — not whether the operator says the books balance. Allocation formulas and numeric targets live in other instruments; certification checks that dependency maps, return flows, and cross-system fairness were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§4.8.2.1 Illustrative cross-system support application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#4821-illustrative-cross-system-support-application-by-class-non-exhaustive).",
-          "gloss_line": 665
+          "gloss_line": 664
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "4.8.3 Nondiscrimination Evaluation",
           "anchor": "483-nondiscrimination-evaluation",
-          "line": 752,
+          "line": 751,
           "gloss": "when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other instruments, later corpus additions, or adoption instruments; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§4.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#4831-illustrative-nondiscrimination-application-by-class-non-exhaustive).",
-          "gloss_line": 766
+          "gloss_line": 765
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "4.8.4 Accessibility Evaluation",
           "anchor": "484-accessibility-evaluation",
-          "line": 791,
+          "line": 790,
           "gloss": "when a system materially controls whether sentients can actually take part — not just whether a door is labeled \"open\" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other instruments, later corpus additions, or adoption instruments; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§4.8.4.1 Illustrative accessibility application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#4841-illustrative-accessibility-application-by-class-non-exhaustive).",
-          "gloss_line": 805
+          "gloss_line": 804
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "4.8.5 Educational Capability and Learning-System Integrity Evaluation",
           "anchor": "485-educational-capability-and-learning-system-integrity-evaluation",
-          "line": 836,
+          "line": 835,
           "gloss": "when a school, platform, or training system can materially affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) (*Illustrative class profiles*) are in [§4.8.5.1 Illustrative educational-capability application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#4851-illustrative-educational-capability-application-by-class-non-exhaustive).",
-          "gloss_line": 850
+          "gloss_line": 849
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "4.8.6 Trustworthiness and System-Reliance Integrity Evaluation",
           "anchor": "486-trustworthiness-and-system-reliance-integrity-evaluation",
-          "line": 875,
+          "line": 874,
           "gloss": "when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other instruments; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§4.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#4861-illustrative-trustworthiness-application-by-class-non-exhaustive).",
-          "gloss_line": 889
+          "gloss_line": 888
         }
       ]
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "title": "CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS",
-      "heading_count": 15,
-      "glossed_count": 9,
+      "heading_count": 14,
+      "glossed_count": 10,
       "sections": [
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
@@ -5108,7 +5126,7 @@
           "title": "CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS",
           "anchor": "chapter-eight-part-b-certification-record-and-process",
           "line": 2,
-          "gloss": "Part A says how to **frame** and **evaluate** a system, including the challenge path that must be open before any sign-off. Part B says how **forums** review the findings and how affected sentients **challenge** them, what must go **on the record**, what **outcomes** follow and when review **reopens**, and how certification may feed **standing** — without letting certification substitute for standing measurement or effects.",
+          "gloss": "Part A says how to **frame** and **evaluate** a system, including the challenge path that must be open before any sign-off. Part B says how **forums** review the findings and how affected sentients **challenge** them, what **outcome** follows, what must go **on the record**, how the certification is **kept current** and when review **reopens**, and how certification may feed **standing** — without letting certification substitute for standing measurement or effects.",
           "gloss_line": 33
         },
         {
@@ -5159,83 +5177,74 @@
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
-          "title": "6. System Certification Record",
-          "anchor": "6-system-certification-record",
+          "title": "6. Certification Outcomes",
+          "anchor": "6-certification-outcomes",
           "line": 158,
+          "gloss": "every certification ends in a stated outcome. The forum decides it after the review, and the record that follows must state it. Defects found in any evaluation are not paperwork mistakes: they can lead to conditions, deferral, refusal, withdrawal, or a fresh review.",
+          "gloss_line": 171
+        },
+        {
+          "file": "core_08_b_system_alignment_certification_record_process.md",
+          "level": 3,
+          "title": "7. System Certification Record",
+          "anchor": "7-system-certification-record",
+          "line": 197,
           "gloss": "a certification record is the auditable case file for one system under review — who runs it, what was checked, what was found, what was decided, and how to challenge it. It is not a marketing packet or a one-line approval stamp. Record depth, disclosure, and challenge burden scale with system class under [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) — a **Class A** survival-critical system requires a fuller, more contestable file than a **Class C** coordination layer, though both must state class honestly and reflect required evaluations.",
-          "gloss_line": 172
+          "gloss_line": 211
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
-          "title": "6.1 Minimum record contents",
-          "anchor": "61-minimum-record-contents",
-          "line": 180,
+          "title": "7.1 Minimum record contents",
+          "anchor": "71-minimum-record-contents",
+          "line": 219,
           "gloss": null,
           "gloss_line": null
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
-          "title": "6.2 Record integrity: transparency and auditability",
-          "anchor": "62-record-integrity-transparency-and-auditability",
-          "line": 244,
+          "title": "7.2 Record integrity: transparency and auditability",
+          "anchor": "72-record-integrity-transparency-and-auditability",
+          "line": 283,
           "gloss": "a certification record only works if sentients can read it and check it. This section puts transparency and auditability directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XVI** (*Audit, Transparency, and Independent Verification*) or sibling audit modes. The third requirement — that sentients can push back — is in [§3 Challenging a Certification](core_08_a_system_alignment_certification_evaluation.md#3-challenging-a-certification).",
-          "gloss_line": 256
+          "gloss_line": 295
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
-          "title": "7. Outcomes, Recertification, and Reopening",
-          "anchor": "7-outcomes-recertification-and-reopening",
-          "line": 291,
-          "gloss": "every certification ends in a stated outcome, and no outcome lasts forever. When the system, the risks, or the facts change — or when someone credibly challenges the record — review must reopen. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.",
-          "gloss_line": 305
+          "title": "8. Recertification and Reopening",
+          "anchor": "8-recertification-and-reopening",
+          "line": 330,
+          "gloss": "no outcome lasts forever. This is the operating phase: a recognized system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.",
+          "gloss_line": 344
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
-          "title": "7.1 Certification outcomes",
-          "anchor": "71-certification-outcomes",
-          "line": 309,
-          "gloss": null,
-          "gloss_line": null
-        },
-        {
-          "file": "core_08_b_system_alignment_certification_record_process.md",
-          "level": 4,
-          "title": "7.2 Recertification and reopening",
-          "anchor": "72-recertification-and-reopening",
-          "line": 335,
-          "gloss": null,
-          "gloss_line": null
-        },
-        {
-          "file": "core_08_b_system_alignment_certification_record_process.md",
-          "level": 5,
-          "title": "7.2.1 Provisional and full recognition",
-          "anchor": "721-provisional-and-full-recognition",
-          "line": 358,
+          "title": "8.1 Provisional and full recognition",
+          "anchor": "81-provisional-and-full-recognition",
+          "line": 367,
           "gloss": "a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now and nothing heading that way graduates to full recognition and a longer interval. Failing a check sends it back to the short leash.",
-          "gloss_line": 360
+          "gloss_line": 369
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
-          "title": "7.3 Non-evasion",
-          "anchor": "73-non-evasion",
-          "line": 392,
+          "title": "8.2 Non-evasion",
+          "anchor": "82-non-evasion",
+          "line": 401,
           "gloss": null,
           "gloss_line": null
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
-          "title": "8. Relationship to Standing",
-          "anchor": "8-relationship-to-standing",
-          "line": 402,
+          "title": "9. Relationship to Standing",
+          "anchor": "9-relationship-to-standing",
+          "line": 411,
           "gloss": "certification can feed standing, but it is not standing. The certification record of a recognized system, good or bad, may supply verified facts to Chapter Nine — only through a strict gate — and Chapters Nine and Ten alone decide standing records and effects.",
-          "gloss_line": 415
+          "gloss_line": 424
         }
       ]
     },
@@ -5358,7 +5367,7 @@
           "title": "CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)",
           "anchor": "chapter-eight-system-alignment-certification-index",
           "line": 2,
-          "gloss": "Chapter Eight is split in three — Part A for how to frame and evaluate, Part B for the review, the record, and the outcome, Part C for worked examples of the evaluation. Its sections are numbered in the order the work is done, in five phases. Read the three parts as one chapter.",
+          "gloss": "Chapter Eight is split in three — Part A for how to frame and evaluate, Part B for the review, the outcome, the record, and keeping the certification current, Part C for worked examples of the evaluation. Its sections are numbered in the order the work is done, in six phases. Read the three parts as one chapter.",
           "gloss_line": 24
         }
       ]

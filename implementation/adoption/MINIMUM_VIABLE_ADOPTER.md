@@ -197,7 +197,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 - **How adopters use it.**
   - The adopting system carries a conformity statement and a **local-delta note** (local data, staffing, clocks, tools, and every difference from the standard).
   - Its own certification treats the recognition as evidence about the **design** of the process.
-  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Chapter Three §2.1.1](../../core_03_definition_integrity.md#211-formal-label-and-representation-gaming); [Chapter Eight Part B §6.2](../../core_08_b_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability)).
+  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Chapter Three §2.1.1](../../core_03_definition_integrity.md#211-formal-label-and-representation-gaming); [Chapter Eight Part B §7.2](../../core_08_b_system_alignment_certification_record_process.md#72-record-integrity-transparency-and-auditability)).
 - **Challenge.** Open at two levels, the standard and each adopter, through the existing contest chain.
 - **Reopening.** A new version of the standard, an incident in any adopter, or a credible challenge reopens the recognition and flags every adopter's reliance on it.
 
@@ -218,7 +218,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 4. Who may challenge a standard, without making steward-only filing a new gatekeeper?
 5. How cheap can a local-delta note be without becoming a rubber stamp?
 6. Who pays for recognition, so the recognizer is not paid by the owner it recognizes?
-7. Which core files change: Chapter Eight Part B §6.1 record contents, and Chapter Twelve forum roles.
+7. Which core files change: Chapter Eight Part B §7.1 record contents, and Chapter Twelve forum roles.
 
 ---
 
