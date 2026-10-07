@@ -29,7 +29,7 @@ Resolved checklist items are archived in [TODO_RESOLVED_2026-09-17.md](archive/T
 
 Evaluation outcome: do not add independent process certification or process classes to the core before the pre-release announcement. Draft component findings at the implementation layer (A); outline reusable standard-process recognition as a post-adoption goal (B).
 
-- [ ] **Review CS-3 §7.10** (component findings under the system's class). Lane C: `make regression`, readability, obligation diff in `evidence/2026-10-04/`. Decide whether the §7.1 pointer and the §7 table row stay.
+- [x] **Review CS-3 §7.10** (component findings under the system's class). Lane C: `make regression`, readability, obligation diff in `evidence/2026-10-04/`. Decide whether the §7.1 pointer and the §7 table row stay. **Decided 2026-10-07:** keep the §7.1 pointer and the §7 table row as they are; `make regression` green.
 - [ ] **Define Process in Chapter Five** with a test (placeholder tests in `project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md`). Prerequisite for B. Institution has no standalone definition either.
 - [ ] **Name B** so it is neither "system alignment certification" nor the Chapter Twelve §5 forum-to-forum sense.
 - [ ] **Check `MINIMUM_VIABLE_ADOPTER.md` §4.1** against `adoption/ANNOUNCEMENT.md` so the outline never reads as a promised feature.
