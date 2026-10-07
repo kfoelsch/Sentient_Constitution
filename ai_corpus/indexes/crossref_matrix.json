@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-07T18:09:54+00:00",
+  "generated_at": "2026-10-07T18:17:35+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2685,7 +2685,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 91,
+            "count": 92,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -2724,6 +2724,7 @@
               "#occupancy-continuity",
               "#openness-aspiration",
               "#privacy-informational",
+              "#process",
               "#productive-capacity",
               "#proportionate-cross-system-support",
               "#protected-internal-state-boundary",
@@ -4118,7 +4119,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 50,
+            "count": 53,
             "anchors": [
               "#2-measurements-overview",
               "#33-governance-layers",
@@ -4204,7 +4205,7 @@
           },
           {
             "file": "core_05_apex_continuity_aim.md",
-            "count": 55,
+            "count": 56,
             "anchors": [
               "#chapter-five-definitions-continuity-constitutional-aim",
               "#measuring-continuity-preamble-measurement-family"
@@ -4242,13 +4243,14 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 221,
+            "count": 228,
             "anchors": [
               "#accountability-contestability-and-redress-pathways",
               "#attributable-action",
               "#attribution-integrity",
               "#capture-of-resolution-pathways",
               "#contestability",
+              "#due-process",
               "#feasibility",
               "#force-majeure",
               "#good-faith",
@@ -4274,7 +4276,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 783,
+            "count": 790,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -4316,6 +4318,7 @@
               "#occupancy-continuity",
               "#openness-aspiration",
               "#privacy-informational",
+              "#process",
               "#productive-capacity",
               "#proportionate-cross-system-support",
               "#protected-internal-state-boundary",
@@ -4399,7 +4402,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 192,
+            "count": 195,
             "anchors": [
               "#accessibility",
               "#business-creation",

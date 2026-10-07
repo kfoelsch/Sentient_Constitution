@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-07T18:09:55+00:00",
+  "generated_at": "2026-10-07T18:17:37+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16699,
+  "edge_count": 16713,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -21140,6 +21140,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#privacy-informational",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#process",
       "count": 1
     },
     {
@@ -42331,6 +42339,14 @@
       "source_header": "System boundaries, integrity, and exit",
       "source_anchor": "#system-boundaries-integrity-and-exit",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#process",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "System boundaries, integrity, and exit",
+      "source_anchor": "#system-boundaries-integrity-and-exit",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#systemic-lock-in",
       "count": 1
     },
@@ -42381,6 +42397,102 @@
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality",
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#constitutional-tetrad",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#two-constitutional-aims",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#measuring-continuity-preamble-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#governance",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#due-process",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#timely-resolution",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#attributable-action",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundaries",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Process",
+      "source_anchor": "#system-boundary-integrity-c",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#procedural-fairness",
+      "count": 3
     },
     {
       "source_file": "core_05_band_continuity.md",

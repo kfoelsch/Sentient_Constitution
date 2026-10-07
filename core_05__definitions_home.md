@@ -275,6 +275,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Primary-Stakes Routing](core_05_band_accountability.md#primary-stakes-routing)
 - [Privacy (Informational)](core_05_band_continuity.md#privacy-informational)
 - [Procedural Fairness](core_05_band_participation.md#procedural-fairness)
+- [Process](core_05_band_continuity.md#process)
 - [Productive Capacity](core_05_band_continuity.md#productive-capacity)
 - [Proportionality](core_05_band_accountability.md#proportionality)
 - [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support)
