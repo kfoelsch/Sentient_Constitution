@@ -85,6 +85,7 @@
 > | Forum supervision | Review ([Part B §5.2](core_08_b_system_alignment_certification_record_process.md#52-supervisory-sequence)) |
 > | Functional-independence record | Review |
 > | Challenge paths | Frame and Review ([Part A §3](core_08_a_system_alignment_certification_evaluation.md#3-challenging-a-certification), [Part B §5.3](core_08_b_system_alignment_certification_record_process.md#53-contestability-chain)) |
+> | Concerns raised in review and decision | Review and Decide ([Part B §5.2](core_08_b_system_alignment_certification_record_process.md#52-supervisory-sequence), [§6](core_08_b_system_alignment_certification_record_process.md#6-certification-outcomes)) |
 > | Outcome and reliance limits | Decide ([Part B §6](core_08_b_system_alignment_certification_record_process.md#6-certification-outcomes)) |
 
 </details>

@@ -706,6 +706,8 @@ Gate: manual. Charts must also keep **VIS-CHART-READABILITY-01** and **VIS-CHART
 
 **Second move (Record after Decide; Operate added).** Part B, from the five-phase numbering: 6 → 7 (6.1 → 7.1, 6.2 → 7.2), 7 and 7.1 → 6 (the old §7 introduction and §7.1 merge into one section, retitled "Certification Outcomes"), 7.2 → 8 (retitled "Recertification and Reopening"), 7.2.1 → 8.1, 7.3 → 8.2, 8 → 9. Part A and Part C numbers did not change. The reason: the record states the outcome, so the decision comes first; and a certification that is in force needs a phase of its own for keeping it current.
 
+**Later addition (one new obligation, 2026-10-07).** With the record now written after the decision, §7.1 gained one required item, **Concerns raised in review and decision**: every objection, dissent, concern, and challenge raised in review or in reaching the outcome, with who raised it, how it was resolved or why it stays open, and any condition, reliance limit, or reopening trigger it produced. The Completeness paragraph and §6 say the same in one sentence each. This is the only operative change since the reorder; it is the one place where the conserved-obligations statement above no longer holds. Note: [evidence/2026-10-07/ch08_record_decision_concerns.md](evidence/2026-10-07/ch08_record_decision_concerns.md).
+
 **Why the challenge path moved to Part A.** The published record challenge path opens when the system first has stakeholders, which can be before any forum review starts. It is framing, so it belongs in Phase I. The contestability chain (Part B §5.3) stays with the forum process because it mirrors the supervisory sequence.
 
 **Rules going forward.**

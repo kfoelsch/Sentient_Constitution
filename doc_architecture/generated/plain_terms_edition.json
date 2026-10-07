@@ -5180,7 +5180,7 @@
           "title": "6. Certification Outcomes",
           "anchor": "6-certification-outcomes",
           "line": 158,
-          "gloss": "every certification ends in a stated outcome. The forum decides it after the review, and the record that follows must state it. Defects found in any evaluation are not paperwork mistakes: they can lead to conditions, deferral, refusal, withdrawal, or a fresh review.",
+          "gloss": "every certification ends in a stated outcome. The forum decides it after the review, and the record that follows must state it along with any concerns raised on the way. Defects found in any evaluation are not paperwork mistakes: they can lead to conditions, deferral, refusal, withdrawal, or a fresh review.",
           "gloss_line": 171
         },
         {
@@ -5206,34 +5206,34 @@
           "level": 4,
           "title": "7.2 Record integrity: transparency and auditability",
           "anchor": "72-record-integrity-transparency-and-auditability",
-          "line": 283,
+          "line": 287,
           "gloss": "a certification record only works if sentients can read it and check it. This section puts transparency and auditability directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XVI** (*Audit, Transparency, and Independent Verification*) or sibling audit modes. The third requirement — that sentients can push back — is in [§3 Challenging a Certification](core_08_a_system_alignment_certification_evaluation.md#3-challenging-a-certification).",
-          "gloss_line": 295
+          "gloss_line": 299
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
           "title": "8. Recertification and Reopening",
           "anchor": "8-recertification-and-reopening",
-          "line": 330,
+          "line": 334,
           "gloss": "no outcome lasts forever. This is the operating phase: a recognized system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.",
-          "gloss_line": 344
+          "gloss_line": 348
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "8.1 Provisional and full recognition",
           "anchor": "81-provisional-and-full-recognition",
-          "line": 367,
+          "line": 371,
           "gloss": "a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now and nothing heading that way graduates to full recognition and a longer interval. Failing a check sends it back to the short leash.",
-          "gloss_line": 369
+          "gloss_line": 373
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "8.2 Non-evasion",
           "anchor": "82-non-evasion",
-          "line": 401,
+          "line": 405,
           "gloss": null,
           "gloss_line": null
         },
@@ -5242,9 +5242,9 @@
           "level": 3,
           "title": "9. Relationship to Standing",
           "anchor": "9-relationship-to-standing",
-          "line": 411,
+          "line": 415,
           "gloss": "certification can feed standing, but it is not standing. The certification record of a recognized system, good or bad, may supply verified facts to Chapter Nine — only through a strict gate — and Chapters Nine and Ten alone decide standing records and effects.",
-          "gloss_line": 424
+          "gloss_line": 428
         }
       ]
     },

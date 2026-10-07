@@ -56,7 +56,7 @@ As an oversight instrument, certification is one especially large audit process 
   - continuous audit under **CS-5** (*Design, testing, verification, and deployment*) ACA
   - complexity audits under **CS-6** (*Comprehensibility and complexity stewardship*) and **Article XXIII-B** (*Complexity Audit and Modularity Requirements*)
   - claim verification under **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*)
-- Those modes also remain available on their own outside certification, and certification does not replace them.
+- You can still run any of these checks on their own, without going through certification. Certification doesn't replace them.
 
 <a id="11-certification-at-a-glance"></a>
 

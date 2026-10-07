@@ -3332,7 +3332,7 @@ when this section says **stay**, it means a temporary pause — holding off fina
 
 #### 6. Certification Outcomes
 
-every certification ends in a stated outcome. The forum decides it after the review, and the record that follows must state it. Defects found in any evaluation are not paperwork mistakes: they can lead to conditions, deferral, refusal, withdrawal, or a fresh review.
+every certification ends in a stated outcome. The forum decides it after the review, and the record that follows must state it along with any concerns raised on the way. Defects found in any evaluation are not paperwork mistakes: they can lead to conditions, deferral, refusal, withdrawal, or a fresh review.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#6-certification-outcomes)
 
