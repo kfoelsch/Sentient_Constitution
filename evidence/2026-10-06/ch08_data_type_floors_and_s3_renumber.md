@@ -41,8 +41,14 @@
 | `make regression` (77 targets) | Run on clean exports of `41678b5f` and of this branch. Three failures, all **identical to HEAD** in output: `ch5-measurement-coverage-audit`, `prose-continuity-audit`, `lexical-vocabulary-audit`. All other targets pass, including `reference-audit`, `local-markdown-fragment-audit`, `section-cite-name-audit`, `corpus-ref-name-audit`, `article-cite-gloss-audit`, `anchor-heading-drift-audit`, `fossil-anchor-audit`, and `in-paragraph-link-audit` |
 | Link-label consistency (session script) | Every link into Parts A and C shows the same section number as the heading it lands on; no links to removed anchors remain outside `archive/`, `evidence/`, `evaluation/results/`, and old `tools/ch8_*` migration scripts |
 | `translation-link-audit` | Output identical to HEAD (pre-existing findings only) |
-| Readability (touched Chapter Eight files) | Part A 20.49 → 20.57; Part B 16.58 → 16.83 (mostly titled link text, finding 9); Part C 16.78 → 16.77; Chapter Five continuity band unchanged |
+| Readability (touched Chapter Eight files) | Measured with the corrected `readability_audit.py` (prose only; see *Readability tool fix* below): Part A 19.02 → 19.04; Part B 14.88 → 15.18 (real reader-facing words: section titles added to link text, finding 9); Part C 15.37 → 15.32; Chapter Five continuity band 14.78 → 14.77. The earlier figures (Part A 20.49 → 20.57, Part B 16.58 → 16.83) were inflated by link targets and markup |
 | Derived artifacts | Regenerated `ai-corpus-sync`, `architecture-index`, `plain-terms-edition`, `reader-accessibility`, `boundary-chunks`; timestamp-only changes reverted |
+
+## Readability tool fix
+
+`tools/readability_audit.py` scored the raw markdown, so link targets (file names and anchor slugs), HTML anchors, `<details>`/`<summary>` widgets, Mermaid code, and inline code counted as words, and heading words counted without adding sentences. Link targets also counted *inside* sentences, inflating sentence length. The tool now removes that markup before scoring (keeping link text and source line numbers) and draws word and syllable totals from the scored sentences only. New test: `tools/test_readability_audit.py` (`make readability-audit-test`, added to `make regression`).
+
+Effect across the 41 `core_*` files: overall grade 15.56 → 14.03; files above the 14.0 target 36 → 23; long-sentence counts roughly halved. Three files score slightly higher (Chapters Nine, Fifteen, and Sixteen, +0.2 to +0.6) because one-syllable URL fragments ("md", "core", "a") had been diluting their syllables-per-word. Earlier readability evidence was measured the old way and is not directly comparable.
 
 ## Environment note
 
