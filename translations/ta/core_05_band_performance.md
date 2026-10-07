@@ -58,7 +58,7 @@
 - செயல் அளவீட்டு அடுக்குகள் அத்தியாயம் ஐந்து வரையறை இல்லங்களில் வாழ்கின்றன — காண்க [அரசியலமைப்பு திறன்](core_05_band_continuity.md#constitutional-efficiency), [தவிர்க்கக்கூடிய சுமை](core_05_band_continuity.md#avoidable-burden), [உற்பத்தித் திறன்](core_05_band_continuity.md#productive-capacity-constitutional), மற்றும் [சுமை-குறைப்புக் கடமை](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - செயல்திறன் இலக்குகள், வெகுமதிகள், வள அளவீடுகள் அரசியலமைப்பு விளைவுகளுக்குத் தடமறியக்கூடியவையாக இருக்கும் அளவுக்கு மட்டுமே செல்லுபடியாகும்.
 - அவை அரசியலமைப்பு திறன், [உற்பத்தித் திறன்](core_05_band_continuity.md#productive-capacity-constitutional), அல்லது உரிமைத் தள இணக்கத்துக்குப் பதிலீடாக நிற்க முடியாது.
-- முழு-அமைப்பு செயல்திறன் பொருள்ரீதியாக எல்லையில் இருக்கும் இடத்தில் [அத்தியாயம் ஏழு §3 முழு-அமைப்புச் சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) உடன் படிக்க.
+- முழு-அமைப்பு செயல்திறன் பொருள்ரீதியாக எல்லையில் இருக்கும் இடத்தில் [அத்தியாயம் ஏழு §4 முழு-அமைப்புச் சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) உடன் படிக்க.
 
 ---
 

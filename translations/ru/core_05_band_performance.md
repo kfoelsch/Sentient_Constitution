@@ -58,7 +58,7 @@
 - Оперативные ярусы измерения живут на домах определений Главы пятой — см. [Конституционная эффективность](core_05_band_continuity.md#constitutional-efficiency), [Избежимая нагрузка](core_05_band_continuity.md#avoidable-burden), [Производительная способность](core_05_band_continuity.md#productive-capacity-constitutional) и [Обязанность снижения нагрузки](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Цели результативности, вознаграждения и меры ресурсов действительны только в той мере, в какой они остаются прослеживаемыми к конституционным исходам.
 - Они не могут подменять Конституционную эффективность, [Производительную способность](core_05_band_continuity.md#productive-capacity-constitutional) или соответствие Полу прав.
-- Читать вместе с [Глава седьмая §3 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), где результативность целой системы материально в охвате.
+- Читать вместе с [Глава седьмая §4 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), где результативность целой системы материально в охвате.
 
 ---
 

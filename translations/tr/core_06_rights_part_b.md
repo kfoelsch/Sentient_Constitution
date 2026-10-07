@@ -218,7 +218,7 @@ Bu Madde, algılayan statüsü ihtilaflı olduğunda karar verilmesi için taban
 <summary><strong><span style="color: #2563eb;">İzleme</span></strong></summary>
 
 - Üst kaynaklar: İlk Bölüm İlkeleri [§3.1 Adalet](core_01_a_values_principles.md#31-fairness), [İlk Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [İlk Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Alt kaynaklar: Katılım ölçüm ailesi (*Esasa İlişkin Adalet, Korunan Özelliklerin Vekil Göstergeleri ve Farklı Etki*); [Sekizinci Bölüm §3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*belgelendirmenin sınıflandırma, sıralama, fiyatlandırma, erişim kısıtlama veya yük dağıtımını belirlediği yerlerde ayrımcılık yasağı değerlendirmesi*); [On İkinci Bölüm](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum, idari ve uygulama süreçleri (*karara bağlama ve işletim yükümlülüğü*).
+- Alt kaynaklar: Katılım ölçüm ailesi (*Esasa İlişkin Adalet, Korunan Özelliklerin Vekil Göstergeleri ve Farklı Etki*); [Sekizinci Bölüm §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*belgelendirmenin sınıflandırma, sıralama, fiyatlandırma, erişim kısıtlama veya yük dağıtımını belirlediği yerlerde ayrımcılık yasağı değerlendirmesi*); [On İkinci Bölüm](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum, idari ve uygulama süreçleri (*karara bağlama ve işletim yükümlülüğü*).
 - Birlikte okuyun: Beşinci Bölüm [Korunan Özellikler](core_05_band_participation.md#protected-characteristics-constitutional) ve [Dil, Kültür ve Miras](core_05_band_continuity.md#language-culture-and-heritage-constitutional); Beşinci Bölüm [Yerli Halkların Sürekliliği](core_05_band_continuity.md#indigenous-continuity-constitutional) (*topluluk temelli Hak Tabanı; sahiplik tabanları **Madde VI-C** (Ayrımcılık Yasağı) ve **Madde I-A** (Çevresel Önkoşullar ve Ekolojik Bütünlük)*) yerli halkların ve bölgelerin sürekliliğiyle ilgili konular için; bu konular [Madde I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*ekosistem bütünlüğü önkoşulu*) ile [On Yedinci Bölüm](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*benimseyen yargı yetkisi disiplini*) kapsamına yönlendirilir.
 
 </details>
@@ -264,8 +264,8 @@ Bu Madde, ayrımcılık yasağının tabanını, dil, kültür ve mirasa ilişki
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanaklar: İlkeler: Birinci Bölüm [§3 Temel Amaç: Esenlik](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Sınırlama Disiplini](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 Sade Dille Erişilebilirlik](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Alt bağlantılar: **Madde VI-A** (*Onur ve Eşit Ahlaki Statü*) onur tabanı; **Madde VI-C** (*Ayrımcılık Yasağı*) yargılama ve operasyonlarda ayrımcılık yasağı ve tam kapsayıcılık; **Madde IV-A** (*Eğitime Eşit Erişim*) eğitime eşit erişim (yinelenmez — eğitime özgü erişilebilirlik orada düzenlenir; bu madde kesişen Hak Tabanını ortaya koyar); **Madde X-B** (*Yönetime Katılım ve Oy Hakkı*) yönetime katılım; **Madde XII** (*Paydaşların Sistem Katılımı, Temsil ve Usul Güvencesi*) paydaş katılımı; **Madde XVI** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) bağımsız doğrulama; Katılım ölçümü ailesi (*Anayasal ölçüm olarak erişilebilirlik*); [Sekizinci Bölüm §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*sertifikasyonun esaslı katılımı koşula bağladığı durumlarda erişilebilirlik değerlendirmesi*).
+- Üst dayanaklar: İlkeler: Birinci Bölüm [§3 Temel Amaç: Esenlik](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Sınırlama Disiplini](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 Sade Dille Erişilebilirlik](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Alt bağlantılar: **Madde VI-A** (*Onur ve Eşit Ahlaki Statü*) onur tabanı; **Madde VI-C** (*Ayrımcılık Yasağı*) yargılama ve operasyonlarda ayrımcılık yasağı ve tam kapsayıcılık; **Madde IV-A** (*Eğitime Eşit Erişim*) eğitime eşit erişim (yinelenmez — eğitime özgü erişilebilirlik orada düzenlenir; bu madde kesişen Hak Tabanını ortaya koyar); **Madde X-B** (*Yönetime Katılım ve Oy Hakkı*) yönetime katılım; **Madde XII** (*Paydaşların Sistem Katılımı, Temsil ve Usul Güvencesi*) paydaş katılımı; **Madde XVI** (*Denetim, Şeffaflık ve Bağımsız Doğrulama*) bağımsız doğrulama; Katılım ölçümü ailesi (*Anayasal ölçüm olarak erişilebilirlik*); [Sekizinci Bölüm §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*sertifikasyonun esaslı katılımı koşula bağladığı durumlarda erişilebilirlik değerlendirmesi*).
 - Şunlarla birlikte okuyun: Beşinci Bölüm *Erişilebilirlik*, *Korunan Özellikler*, *Esasa İlişkin Hakkaniyet*, *Maddi Önem*, *Bağımlılık*, *Anlamlı Eyleyicilik*. Kesişen erişilebilirlik ilkesi: [Birinci Bölüm §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*Sade Dille Erişilebilirlik*).
 
 </details>
@@ -1024,7 +1024,7 @@ Bu tür verilerin her türlü kullanımı, saklanması, dönüştürülmesi ve a
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst kaynak: İlkeler: [Birinci Bölüm §5 Gerçek](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst kaynak: İlkeler: [Birinci Bölüm §5 Gerçek](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1071,7 +1071,7 @@ Bu Madde, iyi niyetle yayın yapma özgürlüğünü ve sınırlarını belirler
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst kaynak: İlkeler: [Birinci Bölüm §5 Gerçek](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Üretken Kapasite (Araçsal İyi)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Birinci Bölüm §13.3 Önlenebilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Sorumlu Yönetim Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst kaynak: İlkeler: [Birinci Bölüm §5 Gerçek](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Üretken Kapasite (Araçsal İyi)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Birinci Bölüm §13.3 Önlenebilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Sorumlu Yönetim Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Alt kaynak: **Madde III-C** (*Emek ve Ekonomik Taban*) emek ve ekonomi tabanı; **Madde IX-A** (*Benzerlik ve İtibar Üzerinde Öz-Sahiplik*) benzerlik; **Madde IX-B** (*Deneyimsel ve Türetilmiş Veri Hakları*) deneyimsel ve türetilmiş veriler; **Madde IX-C** (*Doğru Yayın ve Yüksek Etkili Yayın Sınırları*) yayın; **Birinci Bölüm §11** yoğunlaşmama ve **§13.1** yoğunlaşma eşiği mekanizması.
 - Birlikte okuyun: [**Def.C1** *Emek ve Ekonomik Taban: Ücret, Örgütlenme, Güvenli Koşullar, Boş Zaman ve Yaratıcı Emek*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (**Madde III-C** (*Emek ve Ekonomik Taban*), **III-D** (*Güvenli Çalışma Koşulları*) ve **III-E** (*Dinlenme ve İyileşme*) ile birlikte uygulama) ve maddi olarak ilgili olduğunda [**Def.C3** (*Mahremiyet (Bilgisel)*)](core_05_band_continuity.md#privacy-informational-cluster).
 
@@ -1254,7 +1254,7 @@ Bu Madde iki konuyu kapsar: kimin oy kullanabileceği ve en büyük sorulardaki 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst kaynak: İlkeler: [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst kaynak: İlkeler: [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency), [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1565,7 +1565,7 @@ Bu Madde, toplanma, muhalefet ve barışçıl protesto tabanlarını ve bunları
   - **Chapter Ten** ya da **Article XIX** (*Standing and Participation Status*) kapsamında statü kilidini destekleyemez, yetkinlik onayını reddedemez veya geciktiremez ya da adlandırılmış bir yolu daraltamaz;
   - [Chapter Eleven](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out) kapsamında anayasa karşıtı suistimal atamasını destekleyemez;
   - **Article X-B** (*Governance Participation and Voting Entitlement*) ve **Chapter Thirteen** uyarınca yönetişim oyu, paydaş katılımı, adaylık, makam üstlenme, forum hizmeti veya geri çağırma haklarını azaltamaz;
-  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest) kapsamında sistemin uyum sertifikasına karşı sayılamaz;
+  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest) kapsamında sistemin uyum sertifikasına karşı sayılamaz;
   - **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) tarafından zaten yasaklanan gözetim, sızma, tehdit puanlaması veya kayıt birikimini haklı çıkaramaz; ya da
   - yaşam için zorunlu ihtiyaçları, Hak Tabanı asgari düzeylerini, istihdamı, olağan ticareti veya itiraz ve çözüm yollarına erişimi koşula bağlayamaz.
 
@@ -1793,7 +1793,7 @@ Meşru ilerleme, [material stake](core_00_preamble.md#material-stake) ile ölçe
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst kaynaklar: İlkeler: [Birinci Bölüm §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Birinci Bölüm §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application) ve [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Üst kaynaklar: İlkeler: [Birinci Bölüm §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Birinci Bölüm §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Birinci Bölüm §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application) ve [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Birlikte okuyun: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **katılım** ayağı (Paydaşların Sisteme Katılımı katmanı); [material stake](core_00_preamble.md#material-stake) ölçeği; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) ve [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - Katman: **Stakeholder System Participation (SSP)**. Yetkilendirmeyi düzenleyen **Constitutional Contract Layer (CCL)** katmanından ayrıdır.
 
@@ -1840,7 +1840,7 @@ Mevcut, sürece özgü resmî bir kayıt bu şartı karşılayabilir; yinelenen 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst kaynaklar: [Birinci Bölüm §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst kaynaklar: [Birinci Bölüm §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1926,7 +1926,7 @@ Bu Madde, iç roller ve usule ilişkin güvenceler için asgari standartları be
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanaklar: İlkeler: Birinci Bölüm [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §3 Tüm Sistemin Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Emanet Sorumluluğu Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst dayanaklar: İlkeler: Birinci Bölüm [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §4 Tüm Sistemin Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Emanet Sorumluluğu Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Şunlarla birlikte okunmalıdır: [Sistemin Ele Geçirilmesi](core_05_band_continuity.md#system-capture); [Ele Geçirmeyi Önleme](core_05_band_continuity.md#anti-capture); [Yedinci Bölüm: İşlevsel Bağımsızlık ve Görevlerin Ayrılığı](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>

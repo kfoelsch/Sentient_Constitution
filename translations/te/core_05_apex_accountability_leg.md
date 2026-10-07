@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- దీనితో చదవండి: [అధ్యాయం ఒకటి §11 ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 మార్కెట్ నిర్మాణం](core_01_c_stewardship_capacity_principles.md#13-market-structure), మరియు [అధ్యాయం ఏడు §3.6 పాలన, ప్రోత్సాహక, మరియు సవాలు-యోగ్యత క్రమశిక్షణ](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline).
+- దీనితో చదవండి: [అధ్యాయం ఒకటి §11 ప్రోత్సాహక అనుగుణత మరియు వ్యవస్థ స్వాధీనం](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 మార్కెట్ నిర్మాణం](core_01_c_stewardship_capacity_principles.md#13-market-structure), మరియు [అధ్యాయం ఏడు §4.3 పాలన, ప్రోత్సాహక, మరియు సవాలు-యోగ్యత క్రమశిక్షణ](../../core_08_a_system_alignment_certification_evaluation.md#43-governance-incentive-and-contestability-discipline).
 
 </details>
 

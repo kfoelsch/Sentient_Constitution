@@ -74,7 +74,7 @@ Corrections to the first table: Unlawful Instruction and Market Structure are **
 | **Market Structure** | Covered at the operative layer | CJS-3.11.1 (~120-121): no threshold above the level where concentration degrades wellbeing, agency, dignity, or ecological integrity, "whatever the justification, including efficiency, competitiveness"; "Thresholds judge substantive concentration, not headcount of legal entities"; anti-nullification. Ch1 §14.1: thresholds may differ "provided the floor holds" | Remove the box. "Invalidate the nullifying threshold now" is a steward action for the card |
 | **Comprehensibility** | Covered in substance | XXIII-A: understanding "must not be confined to specialist-only surfaces where broader accountability or participation is materially implicated". XXIII-B: complexity cannot be a wall against audit, contest, or correction | Remove the box. "Point at the existing card... no scavenger hunt" is routing for the card |
 | **Proceed** | Mostly covered; one real gap | Covered: Ch1 §6.2.3 and §6.2 (privacy carries independent weight, "not automatically subordinate", collisions go through the §6.1 decision record); §6.1 confidentiality limits must keep "independent reviewer access"; §10.5 "What it does not reach" (merely unwelcome instruction). Gap: nothing in Ch9/10 says privacy or model-internals opacity is not an exemption from standing measurement (the Standing box also says this) | See draft below |
-| **SAC** | Mostly covered; one check left | Covered: Ch8 A proportionality ("not a one-size-fits-all checklist"), ~202 (a checklist or after-the-fact statement is not evaluation), Ch6 Part B ~214 (badge/LEQU is not sentience status), challenge and stakeholder review at ~74 and ~147 | Not confirmed: that Ch8 Part B §4.2–§5 makes the challenge window a precondition of the aligned claim ("do not skip the challenge window"). Read Ch8 Part B §4.2–§5 before removing the box |
+| **SAC** | Mostly covered; one check left | Covered: Ch8 A proportionality ("not a one-size-fits-all checklist"), ~202 (a checklist or after-the-fact statement is not evaluation), Ch6 Part B ~214 (badge/LEQU is not sentience status), challenge and stakeholder review at ~74 and ~147 | Not confirmed: that Ch8 Part A §3 and Part B §5–§6.2 makes the challenge window a precondition of the aligned claim ("do not skip the challenge window"). Read Ch8 Part A §3 and Part B §5–§6.2 before removing the box |
 
 **Draft sentence for the one real gap** (Chapter Nine, in the verified-record/measurement section; not applied). It is framed to stay consistent with §6.2.3's "privacy is not automatically subordinate":
 
@@ -86,7 +86,7 @@ If adopted, it closes both the Proceed and Standing boxes on this point.
 
 - **Remove outright (principle already in article or corpus; Clock is procedure):** Interpretation, Shared Stewardship, Unlawful Instruction, Incentive, Audit, Market Structure, Comprehensibility, Emergency.
 - **Remove once one sentence is added:** Contest (XIII-A bullet), Proceed and Standing (Ch9 privacy sentence), Delay (Ch12 §6 "harm persists" sentence).
-- **Remove once one check is done:** SAC (Ch8 Part B §4.2–§5), Remedy (Ch10 §9 and §4.1 "institutionally real" / "published form is not remedy").
+- **Remove once one check is done:** SAC (Ch8 Part A §3 and Part B §5–§6.2), Remedy (Ch10 §9 and §4.1 "institutionally real" / "published form is not remedy").
 - **Different treatment:** Functional Independence (check whether Ch7's body already states it).
 - Every Clock still needs to land in the implementation cards and JSON, with the audit tool and `TODO.md` updated in one change.
 
@@ -98,7 +98,7 @@ If adopted, it closes both the Proceed and Standing boxes on this point.
 |---|---|---|---|
 | **Remedy** | Covered, one soft spot | Ch10 §9: "Standing integration fails if consequences exist only on paper"; capacity must "preserve records", "enforce safeguards"; "Costs must not be externalized onto:". Ch10 ~90: "A filed case is not standing by itself." Soft spot: nothing states outright that evidence is preserved before a case is filed | Remove the box. Optionally add "preservation does not wait for a filed case" to §9's preservation item |
 | **Functional Independence** | Covered; the box is a condensed restatement | Ch7 §2 four-seat floor (initiator cannot verify own act; verifier cannot record or hear challenge); §1 (~68) "A title, delegation, technical capability... does not enlarge the seat held"; §4 substitute for an absent, excluded, captured, or conflicted holder; §7 wrong-seat routing; §6 emergencies. The only phrase I did not find verbatim is "expertise scarcity" as a non-transferring factor | Remove from the article, or keep as a steward quick-reference in the implementation layer. Not a principle gap |
-| **SAC** | Mostly covered; **one real question** | Ch8 Part B §5.3.1: a certification record must name challenge paths; "Internal operator review, vendor attestation, or technical sign-off is not this path"; Article XXVI-C clocks run from receipt. Ch8 Part A and Ch6 Part B cover checklists and badge/LEQU | Not found: a rule that the challenge opportunity must open **before the aligned claim** is made ("Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, before the aligned claim"). Decide whether that is a rule you want. If yes, it needs one sentence in Ch8 Part B §5.3; if no, the Clock is just procedure and the box can go |
+| **SAC** | Mostly covered; **one real question** | Ch8 Part A §3.1: a certification record must name challenge paths; "Internal operator review, vendor attestation, or technical sign-off is not this path"; Article XXVI-C clocks run from receipt. Ch8 Part A and Ch6 Part B cover checklists and badge/LEQU | Not found: a rule that the challenge opportunity must open **before the aligned claim** is made ("Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, before the aligned claim"). Decide whether that is a rule you want. If yes, it needs one sentence in Ch8 Part A §3; if no, the Clock is just procedure and the box can go |
 
 ## Final tally (15 boxes)
 
@@ -116,7 +116,7 @@ Decision: the challenge window opens once the system has stakeholders. For high-
 
 Note: Chapter Eight Parts A and B do not mention pilots at all (only two passing uses elsewhere: `core_05_band_continuity.md` ~3498 and `core_06_rights_part_c.md` ~1066). The pilot expectation is therefore new text, not a restatement.
 
-**Draft for Chapter Eight Part B §5.3.1** (not applied):
+**Draft for Chapter Eight Part A §3.1** (not applied):
 
 > **When the path opens.** The published record challenge path opens when the system first has stakeholders: sentients it materially affects or who materially rely on it, as found in evaluation and not as identified by the operator. For a pilot, it opens at pilot go-live. A high-impact system is expected to run a pilot before full deployment; one that does not records why, and its path opens no later than full deployment. The path stays open while the system has stakeholders, and a system that gains stakeholders after certification reopens it under §16. An aligned claim is not supported while a system with stakeholders has no open, contestable path.
 
@@ -128,7 +128,7 @@ Open choice: which systems count as "high-impact" for the pilot expectation (Cla
 
 **Pilot scope decision:** the pilot expectation applies to all classes (A, B, and C), not only high-impact systems. The "high-impact" qualifier in the Follow-up 4 draft therefore drops out. Chapter Eight §2 defines exactly three classes.
 
-**Revised draft for Chapter Eight Part B §5.3.1** (not applied):
+**Revised draft for Chapter Eight Part A §3.1** (not applied):
 
 > **When the path opens.** The published record challenge path opens when the system first has stakeholders: sentients it materially affects or who materially rely on it, as found in evaluation and not as identified by the operator. For a pilot, it opens at pilot go-live. A system at any class is expected to run a pilot before full deployment, scaled to its class under Proportionality; one that does not records why, and its path opens no later than full deployment. The path stays open while the system has stakeholders, and a system that gains stakeholders after certification reopens it under §16. An aligned claim is not supported while a system with stakeholders has no open, contestable path.
 
@@ -145,5 +145,5 @@ This sits under the list's existing lead-in, "non-compliant where they foreseeab
 1. Contest: XIII-A bullet (Follow-up 1)
 2. Privacy: Chapter Nine sentence (Follow-up 2), closes Proceed and Standing
 3. Delay: Chapter Twelve §6 bullet (above)
-4. SAC: Chapter Eight Part B §5.3.1 paragraph (above)
+4. SAC: Chapter Eight Part A §3.1 paragraph (above)
 Optional: Remedy clause in Chapter Ten §9 (preservation does not wait for a filed case).

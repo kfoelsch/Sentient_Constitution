@@ -267,7 +267,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: [অধ্যায় এক §18.4 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); অধ্যায় এক [§3 মৌলিক লক্ষ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- পূর্ববর্তী ভিত্তি: নীতি: [অধ্যায় এক §18.4 চলমান ন্যায্যতা](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); অধ্যায় এক [§3 মৌলিক লক্ষ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় আট §4 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [অধ্যায় এক §14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 
 </details>
 
@@ -299,7 +299,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §4 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [অধ্যায় এক §14 নিরঙ্কুশ অগ্রাহ্যকরণের নিষেধ](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 
 </details>
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [Chapter Ten §5.4](core_10_standing_integration.md#54-special-violation-rules) (*misaligned-reward forfeiture and reporting limited during transition by this Article*); [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -525,7 +525,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">সূত্র-সংযোগ</span></strong></summary>
 
-- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- পূর্ববর্তী ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [অধ্যায় আট §4 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 - সঙ্গে পড়ুন: **অনুচ্ছেদ III-A** (*জীবনরক্ষা*); **অনুচ্ছেদ XIII** (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*); **অনুচ্ছেদ XI-G** (*সম্মিলিত ক্ষতির সীমানা ও প্রয়োগ-সংযোগ*); **অধ্যায় নয়**; **অধ্যায় এক**, এর §6 অধিকার-সংঘাত পদ্ধতিসহ; অধ্যায় ছয়ের শুরুতে **ডিফল্ট বিধিনিষেধ স্তর** (*দখল ও প্রতিকারের সংযোগ*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*অননুগত সম্পত্তি, জব্দ, স্বেচ্ছামূলক প্রণোদনা*) থেকে **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*রূপান্তর শাসন ও প্রাতিষ্ঠানিক বিবর্তন*) পর্যন্ত।
 
 </details>

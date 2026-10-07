@@ -58,7 +58,7 @@
 - 操作性の測定層は第五章の定義の本拠に住む — [憲法上の効率](core_05_band_continuity.md#constitutional-efficiency)、[回避可能な負担](core_05_band_continuity.md#avoidable-burden)、[生産能力](core_05_band_continuity.md#productive-capacity-constitutional)、および [負担軽減の義務](core_05_band_continuity.md#burden-reduction-duty-constitutional) を見よ。
 - 実績の目標、報酬、および資源の測定は、憲法上の成果へとたどれるままである範囲でのみ有効である。
 - それらは憲法上の効率、[生産能力](core_05_band_continuity.md#productive-capacity-constitutional)、または権利の床の遵守の代わりにはならない。
-- システム全体の実績が実質的に範囲にあるところでは、[第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) とあわせて読め。
+- システム全体の実績が実質的に範囲にあるところでは、[第七章 §4 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) とあわせて読め。
 
 ---
 

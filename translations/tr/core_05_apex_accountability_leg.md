@@ -83,7 +83,7 @@ Bu bacak altındaki yaprak tanımlar, açıkça daraltmadıkça ya da genişletm
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Birlikte oku: [Birinci Bölüm §11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Piyasa yapısı](core_01_c_stewardship_capacity_principles.md#13-market-structure), ve [Yedinci Bölüm §3.6 Yönetişim, teşvik ve itiraz edilebilirlik disiplini](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline).
+- Birlikte oku: [Birinci Bölüm §11 Teşvik hizalaması ve sistem ele geçirmesi](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Piyasa yapısı](core_01_c_stewardship_capacity_principles.md#13-market-structure), ve [Yedinci Bölüm §4.3 Yönetişim, teşvik ve itiraz edilebilirlik disiplini](../../core_08_a_system_alignment_certification_evaluation.md#43-governance-incentive-and-contestability-discipline).
 
 </details>
 

@@ -613,7 +613,7 @@ flowchart TB
 - 함께 읽기: [헌법의 사중 구조](core_00_preamble.md#constitutional-tetrad) — 영향을 받는 당사자가 경험적 주장을 이해하고 문제를 제기해야 하는 경우 **참여** 기둥; **감독** 기둥(독립적 검토, 감사 가능성); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 비례 조정.
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **번영** 목표(**안전**과 **진실**을 위한 정직한 증거); **연속성** 목표(교정 가능하고 장기적인 경험적 책임관리).
 - 상류: 원칙: [§4 안전](#4-safety-harm-constraint) 및 [§5 진실](#5-truth-epistemic-integrity-constraint); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims).
-- 하류: [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [§16 심층 책임관리](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 책임관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 하류: [6. 신뢰](#6-trust-and-trustworthiness-coordination-integrity), [§16 심층 책임관리](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§18 책임관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - 하류: 신뢰할 수 있는 경험적 증거, 전문가 증거 기준, 과학 출판 및 재현의 무결성, 독립 검증, 수명주기 시험, 근본 원인 검토, 안전에 민감한 공개에 관한 권리 범위를 형성한다.
   - 특히 [제XIII조: 신뢰할 수 있는 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems), [제XVI조: 감사, 투명성 및 독립 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVIII-E조: 과학 출판, 검토 및 재현의 무결성](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity), [제XXIII조: 근본 원인 분석과 적응형 대응](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response), [제XXV-A조: 사후 검토와 공개](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure).
 - 함께 읽기: [제12장 §4.2 — 기술 포럼 분야](core_12_forum.md#42-technical-forum-domains)(*공통 기준 및 영역 대체 방지 포함*), 전문가 증거 기준, 인증된 기술 질문 또는 증거 책임관리 분쟁이 실질적인 경우; 채택된 전문 경로에 관해서는 [corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)(*기술 전문 포럼 및 전문 심의부*) 참조.
@@ -835,7 +835,7 @@ flowchart TB
 - 함께 읽기: [Voluntary Discontinuation](core_05_band_continuity.md#voluntary-discontinuation), 제5장 §2 *Agency, consent, and anti-coercion*, [Assembly, Collective Organization, and Institutional Formation](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation).
 - 함께 읽기: [§17 Consequential Stewardship](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) 및 [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) — 역할 깊이, 역량, 중대한 책임의 경로; 의미 있는 행위 주체성에는 안전과 동의가 허용하는 범위에서 학습 역할, 운영, 결과에 중대한 의무를 맡는 역할로 나아가는 실질적 경로가 포함됨; 영향이 결과에 중대한 의무를 요구하는 경우 상징적 참여가 그 의무를 대신해서는 안 됨.
 - 함께 읽기: [§11 Market Structure](#11-market-structure), 특히 [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination), 그리고 집중, 지배 또는 종속 상태가 행위 주체성을 실질적으로 제한하는 경우의 [Article XXI: Interoperability, Portability, Movement, Refuge, and Exit Integrity](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity) — 경쟁 가능한 시장, 이탈 경로, 반지배 원칙은 대규모 환경에서도 행위 주체성을 실질적으로 유지함.
-- 함께 읽기: [§7.1 Limitation Discipline](#71-limitation-discipline) 및 [Chapter Eight §3.5 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint) — 자유 제한과 시간적 일관성을 평가하는 운영 규율; 자유의 제한이 다른 가치나 권리와 충돌하면 **Safety**와 **Truth**를 충족한 뒤 [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)부터 [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)까지의 절차에 따라 해결함.
+- 함께 읽기: [§7.1 Limitation Discipline](#71-limitation-discipline) 및 [Chapter Eight §4.2 Time-Consistency Constraint](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint) — 자유 제한과 시간적 일관성을 평가하는 운영 규율; 자유의 제한이 다른 가치나 권리와 충돌하면 **Safety**와 **Truth**를 충족한 뒤 [§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)부터 [§13.1.5 Rights-Collision Procedure](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)까지의 절차에 따라 해결함.
 - 선행 원칙: [§3.2 Recognition, Reinforcement, and Aspiration](#32-recognition-reinforcement-and-aspiration); [4 Safety](#4-safety-harm-constraint); [5 Truth](#5-truth-epistemic-integrity-constraint); [6. Trust](#6-trust-and-trustworthiness-coordination-integrity); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims).
 - 후속 원칙: [§7.1 Limitation Discipline](#71-limitation-discipline)부터 [§7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](#74-voluntary-discontinuation-and-exit-rights)까지; [§18.2 Institutional Secularism and Worldview Neutrality](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)(*공적 권한에서 Freedom에 대응하는 원칙*); [13. Constitutional Collision Resolution Process](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process); [14. Prohibition on Absolute Override](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override); [§20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application); 구체적 적용에서 충돌 처리가 필요한 경우 [Constitutional Collision Record](core_05_band_integrative.md#constitutional-collision-record).
 - 후속 원칙: 평등한 지위, 교육, 자기 소유권, 출판과 초상 통제, 행위 주체성, 협력적 상호작용, 적법 절차, 당사자 지위, 포획 방지 심사와 관련한 권리의 범위를 설정함.
@@ -981,7 +981,7 @@ flowchart TB
 
 - **변경하지 않는 사항:** **§7.2** (*집회, 집단 조직, 제도 형성*)는 이 주제에 [분할 금지 원칙](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)을 적용하고 [§7.2.1 정렬된 자기 조직화](#721-aligned-self-organization) 참조만 추가한다. 제6장 권리 최저선 조항을 만들거나 확대하거나 축소하지 **않는다**.
 - **분리된 틀:** 시민 결사, 노동 조직, 플랫폼 접근, 운영 허가의 관점. 이를 분리해 형식상 접근은 유지하면서 집회 또는 집단 조직의 보호를 무력화하면 규정 위반이다.
-- **시스템 전체 평가:** 전체 정의 클러스터가 적용되는 경우 분류, 거버넌스 또는 준수 주장을 인정하기 전에 [제8장 §3.4 집회, 집단 조직, 제도 형성](core_08_a_system_alignment_certification_evaluation.md#34-assembly-collective-organization-and-institutional-formation)에 따라 분할 금지를 평가해야 한다.
+- **시스템 전체 평가:** 전체 정의 클러스터가 적용되는 경우 분류, 거버넌스 또는 준수 주장을 인정하기 전에 [제8장 §4.7 집회, 집단 조직, 제도 형성](core_08_a_system_alignment_certification_evaluation.md#47-assembly-collective-organization-and-institutional-formation)에 따라 분할 금지를 평가해야 한다.
 
 ##### 7.2.1 정렬된 자기 조직화
 <a id="721-aligned-self-organization"></a>
@@ -1038,7 +1038,7 @@ flowchart TB
 
 **자유를 행사해도 지위나 발언권을 잃어서는 안 된다.** 지성체가 이 자유를 행사했다는 이유로 지위나 역할 자격을 낮추거나, 거버넌스 발언권을 줄이거나, 시스템 정렬 인증에 불리하게 반영해서는 안 된다. 시민 불복종 규칙과 반대 의견 이후의 불리한 조치에 대한 입증 책임을 포함한 실질 규칙은 **[Article XI-D](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*집회, 반대 의견, 평화적 시위*)**에 있다.
 
-시스템 전체를 평가할 때는 [제8장 §3.4.1 반대 의견과 평화적 시위](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest)를 사용해 시스템이 반대 의견과 평화적 시위를 어떻게 다루는지 확인해야 한다. 해당 점검이 끝나기 전에는 이 절이 적용되는 경우 시스템이 적절히 분류되었거나, 올바르게 운영되거나, 규정을 준수한다고 주장할 수 없다.
+시스템 전체를 평가할 때는 [제8장 §4.7.1 반대 의견과 평화적 시위](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest)를 사용해 시스템이 반대 의견과 평화적 시위를 어떻게 다루는지 확인해야 한다. 해당 점검이 끝나기 전에는 이 절이 적용되는 경우 시스템이 적절히 분류되었거나, 올바르게 운영되거나, 규정을 준수한다고 주장할 수 없다.
 
 **이 절이 변경하지 않는 사항:**
 
@@ -1088,7 +1088,7 @@ flowchart TB
 - 성적 동의
 - 상업 서비스
 
-적용 범위에 해당하는 경우 분류, 거버넌스, 제한 또는 준수 주장을 인정하기 전에 시스템 전체 평가에서 [제8장 §3.3 자발적 중단, 중대한 자기 변경, 탈퇴 권리](core_08_a_system_alignment_certification_evaluation.md#33-voluntary-discontinuation-major-self-modification-and-exit-rights)에 따라 이러한 요건을 검증해야 한다.
+적용 범위에 해당하는 경우 분류, 거버넌스, 제한 또는 준수 주장을 인정하기 전에 시스템 전체 평가에서 [제8장 §4.6 자발적 중단, 중대한 자기 변경, 탈퇴 권리](core_08_a_system_alignment_certification_evaluation.md#46-voluntary-discontinuation-major-self-modification-and-exit-rights)에 따라 이러한 요건을 검증해야 한다.
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. 연속성 목표: 서론
@@ -1375,7 +1375,7 @@ flowchart TB
 - 상위 근거: [§9 공유 시스템 역량](#9-shared-system-capacity) — 회복탄력성이 보호하고 회복시키는 지속적 역량입니다.
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **연속성** 목표(회복탄력성과 자가 치유 규율), **번영** 목표(인식론적 저하 없이 신뢰할 수 있는 복구).
 - 상위 근거: 원칙: [서문 §1 모형](core_00_preamble.md#the-model); [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims); [§4 안전](#4-safety-harm-constraint), [§5 진실](#5-truth-epistemic-integrity-constraint), [§6 신뢰](#6-trust-and-trustworthiness-coordination-integrity).
-- 하위 연결: [§16 관리 심층 검토](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), [§14 절대적 우선 적용 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 하위 연결: [§16 관리 심층 검토](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), [§14 절대적 우선 적용 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하위 연결: 복구를 동반한 신뢰성, 근본 원인에 관한 정직성, 가역성, 성능 저하 및 복구 중 상태의 이해 가능성에 관한 권리의 범위를 형성합니다.
   - 특히 [제XIII조: 신뢰할 수 있고 믿을 만한 시스템에 대한 권리](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)(**제XIII-F조**(*회복탄력성과 자가 치유의 기준선*) 포함), [제XVI조: 감사, 투명성, 독립적 검증](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification), [제XVII조: 시스템 생애주기, 환경, 가역성](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility), [제XXII조: 이해 가능성과 복잡성 관리](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship), [제XXIII조: 근본 원인 분석과 적응적 대응](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)를 참조하십시오.
 
@@ -1881,7 +1881,7 @@ flowchart TB
 - 함께 읽기: 연속성 측정 체계(*회복탄력성, 가역성, 시스템적 위험*).
 - 함께 읽기: [헌법적 사중 구조](core_00_preamble.md#constitutional-tetrad), [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims), [물질적 이해관계](core_00_preamble.md#material-stake)에 따른 범위 조정.
 - 함께 읽기: [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [§16 관리 심층 검토](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth), [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), [§19 유인 정합성과 시스템 포획](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
-- 함께 읽기: **[제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)** — 전체 시스템의 인증 평가에 사용하는 요소입니다. 인증은 사중 구조의 **감독** 요소에 따른 특히 큰 규모의 감사일 뿐, 감사가 이루어지는 유일한 경우는 아닙니다.
+- 함께 읽기: **[제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)** — 전체 시스템의 인증 평가에 사용하는 요소입니다. 인증은 사중 구조의 **감독** 요소에 따른 특히 큰 규모의 감사일 뿐, 감사가 이루어지는 유일한 경우는 아닙니다.
 - 함께 읽기: **제XVI조**(*감사, 투명성, 독립적 검증*) 및 [감사 가능성](core_05_band_oversight.md#auditability) — 제8장이 충족해야 하며 다른 감사 방식도 이행하는 감사 최저선입니다.
 - 함께 읽기: **[corpus_systems.md](corpus_systems.md), CS-3 — 시스템 분류 및 처리** 및 [분류별 거버넌스](core_05_band_oversight.md#classification-scaled-governance) — 분류에 따른 적용, 기록 형식, 재분류 발동 기준, 처리 프로필입니다.
 - 상위 근거: [§16 관리 심층 검토](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline); [§13 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process).
@@ -1919,8 +1919,8 @@ flowchart TB
 - 조건의 해제.
 
 상세한 평가 요소와 인증 기록은 다음 문서가 담당합니다.
-- **[제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**;
-- **[제8장 §4 시스템 인증 기록](core_08_b_system_alignment_certification_record_process.md#4-system-certification-record)**;
+- **[제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
+- **[제8장 §6 시스템 인증 기록](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — 시스템 분류 및 처리**.
 
 제8장의 절차는 다음과 같습니다.

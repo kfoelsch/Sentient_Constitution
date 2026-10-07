@@ -265,7 +265,7 @@ Các quy tắc quản trị, cơ chế tham gia, mô hình trọng số và cấ
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: [Chương Một §18.4 Biện minh liên tục](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Chương Một [§3 Mục tiêu nền tảng: Sức khỏe](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Nguồn thượng tầng: [Chương Một §18.4 Biện minh liên tục](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Chương Một [§3 Mục tiêu nền tảng: Sức khỏe](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), và [Chương Một §14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -296,7 +296,7 @@ Các quy tắc quản trị, cơ chế tham gia, mô hình trọng số và cấ
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), và [Chương Một §14 Cấm quyền ưu tiên tuyệt đối](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -363,7 +363,7 @@ Quản trị chuyển tiếp nhằm bảo đảm tính liên tục và không th
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc cân bằng cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chương Mười §5.4](core_10_standing_integration.md#54-special-violation-rules) (*quy tắc tước bỏ và báo cáo phần thưởng không phù hợp bị giới hạn trong thời kỳ chuyển tiếp theo Điều này*); [Chương Tám — Chứng nhận mức độ phù hợp hệ thống](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Nguồn thượng tầng: Các nguyên tắc Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Các nguyên tắc cân bằng cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [Chương Mười §5.4](core_10_standing_integration.md#54-special-violation-rules) (*quy tắc tước bỏ và báo cáo phần thưởng không phù hợp bị giới hạn trong thời kỳ chuyển tiếp theo Điều này*); [Chương Tám — Chứng nhận mức độ phù hợp hệ thống](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -519,7 +519,7 @@ Tình trạng chuyển tiếp thất bại hoặc suy giảm không được tr�
 <details>
 <summary><strong><span style="color: #2563eb;">Truy xuất</span></strong></summary>
 
-- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §13.1.5 Thủ tục giải quyết xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Nguồn thượng tầng: Các nguyên tắc tại Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §13.1.5 Thủ tục giải quyết xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), và [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Đọc cùng: **Điều III-A** (*Sinh tồn*); **Điều XIII** (*Quyền có hệ thống đáng tin cậy và có thể tin cậy*); **Điều XI-G** (*Ranh giới tổn hại tập thể và giao diện thực thi*); **Chương Chín**; **Chương Một**, bao gồm thủ tục giải quyết xung đột quyền tại §6; **hệ thống hạn chế mặc định** ở đầu Chương Sáu (*giao diện chiếm hữu và khắc phục*); từ [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*tài sản không tuân thủ, tịch thu, khuyến khích tự nguyện*) đến **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Quản trị chuyển tiếp và tiến hóa thể chế*).
 
 </details>

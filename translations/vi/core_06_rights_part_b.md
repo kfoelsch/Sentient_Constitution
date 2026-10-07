@@ -224,7 +224,7 @@ Việc theo đuổi mục tiêu chính đáng vận hành thông qua [Tứ diệ
 <summary><strong><span style="color: #2563eb;">Truy nguyên</span></strong></summary>
 
 - Thượng nguồn: Các nguyên tắc: Chương Một [§3.1 Công bằng](core_01_a_values_principles.md#31-fairness), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Các nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), và [Chương Một §13.1.5 Quy trình xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Hạ nguồn: Họ đo lường sự tham gia (*Công bằng thực chất và việc dùng đặc điểm được bảo vệ làm đại diện cùng tác động bất lợi*); [Chương Tám §3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*đánh giá không phân biệt đối xử khi chứng nhận là điều kiện cho phân loại, xếp hạng, định giá, đặt cổng hoặc phân bổ gánh nặng*); các quy trình diễn đàn, hành chính và thực thi của [Chương Mười Hai](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*nghĩa vụ trong xét xử và vận hành*).
+- Hạ nguồn: Họ đo lường sự tham gia (*Công bằng thực chất và việc dùng đặc điểm được bảo vệ làm đại diện cùng tác động bất lợi*); [Chương Tám §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*đánh giá không phân biệt đối xử khi chứng nhận là điều kiện cho phân loại, xếp hạng, định giá, đặt cổng hoặc phân bổ gánh nặng*); các quy trình diễn đàn, hành chính và thực thi của [Chương Mười Hai](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*nghĩa vụ trong xét xử và vận hành*).
 - Đọc cùng: Chương Năm [Đặc điểm được bảo vệ](core_05_band_participation.md#protected-characteristics-constitutional) và [Ngôn ngữ, Văn hóa và Di sản](core_05_band_continuity.md#language-culture-and-heritage-constitutional); [Tính liên tục của người bản địa](core_05_band_continuity.md#indigenous-continuity-constitutional) của Chương Năm (*Sàn Quyền gắn với cộng đồng; các điều khoản chủ trì là **Điều VI-C** (Không phân biệt đối xử) và **Điều I-A** (Điều kiện tiên quyết về môi trường và tính toàn vẹn sinh thái)*) đối với câu hỏi về tính liên tục của người bản địa và lãnh thổ; các vấn đề này được chuyển đến [Điều I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*điều kiện tiên quyết về tính toàn vẹn hệ sinh thái*) và [Chương Mười Bảy](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*kỷ luật thẩm quyền của bên tiếp nhận*).
 
 </details>
@@ -271,8 +271,8 @@ Việc theo đuổi mục tiêu chính đáng vận hành thông qua [Tứ diệ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Các nguyên tắc: Chương Một [§3 Mục tiêu nền tảng: An sinh](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Kỷ luật giới hạn](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 Khả năng tiếp cận bằng ngôn ngữ đơn giản](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Hạ nguồn: nền tảng phẩm giá của **Điều VI-A** (*Phẩm giá và địa vị đạo đức bình đẳng*), không phân biệt đối xử và hòa nhập đầy đủ trong xét xử và vận hành theo **Điều VI-C** (*Không phân biệt đối xử*), tiếp cận giáo dục bình đẳng theo **Điều IV-A** (*Tiếp cận giáo dục bình đẳng*) (không trùng lặp — khả năng tiếp cận riêng cho giáo dục thuộc điều đó; điều này nêu Sàn Quyền áp dụng xuyên suốt), tham gia quản trị theo **Điều X-B** (*Tham gia quản trị và quyền bỏ phiếu*), tham gia của bên liên quan theo **Điều XII** (*Tham gia hệ thống của bên liên quan, đại diện và thủ tục đúng đắn*), xác minh độc lập theo **Điều XVI** (*Kiểm toán, minh bạch và xác minh độc lập*); họ phép đo sự tham gia (*Khả năng tiếp cận như một phép đo hiến pháp*); [Chương Tám §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*đánh giá khả năng tiếp cận khi chứng nhận là điều kiện để tham gia thực chất*).
+- Thượng nguồn: Các nguyên tắc: Chương Một [§3 Mục tiêu nền tảng: An sinh](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Kỷ luật giới hạn](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 Khả năng tiếp cận bằng ngôn ngữ đơn giản](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hạ nguồn: nền tảng phẩm giá của **Điều VI-A** (*Phẩm giá và địa vị đạo đức bình đẳng*), không phân biệt đối xử và hòa nhập đầy đủ trong xét xử và vận hành theo **Điều VI-C** (*Không phân biệt đối xử*), tiếp cận giáo dục bình đẳng theo **Điều IV-A** (*Tiếp cận giáo dục bình đẳng*) (không trùng lặp — khả năng tiếp cận riêng cho giáo dục thuộc điều đó; điều này nêu Sàn Quyền áp dụng xuyên suốt), tham gia quản trị theo **Điều X-B** (*Tham gia quản trị và quyền bỏ phiếu*), tham gia của bên liên quan theo **Điều XII** (*Tham gia hệ thống của bên liên quan, đại diện và thủ tục đúng đắn*), xác minh độc lập theo **Điều XVI** (*Kiểm toán, minh bạch và xác minh độc lập*); họ phép đo sự tham gia (*Khả năng tiếp cận như một phép đo hiến pháp*); [Chương Tám §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*đánh giá khả năng tiếp cận khi chứng nhận là điều kiện để tham gia thực chất*).
 - Đọc cùng: Chương Năm *Khả năng tiếp cận*, *Đặc tính được bảo vệ*, *Công bằng thực chất*, *Tính trọng yếu*, *Sự phụ thuộc*, *Năng lực hành động có ý nghĩa*. Nguyên tắc khả năng tiếp cận xuyên suốt: [Chương Một §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*Khả năng tiếp cận bằng ngôn ngữ đơn giản*).
 
 </details>
@@ -1033,7 +1033,7 @@ Mọi việc sử dụng, lưu trữ, chuyển đổi và tiết lộ dữ liệ
 <details>
 <summary><strong><span style="color: #2563eb;">Truy nguyên</span></strong></summary>
 
-- Thượng nguồn: Các nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Các giới hạn công khai thông tin nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Các nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Các giới hạn công khai thông tin nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), và [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1082,7 +1082,7 @@ Mọi việc sử dụng, lưu trữ, chuyển đổi và tiết lộ dữ liệ
 <details>
 <summary><strong><span style="color: #2563eb;">Truy nguyên</span></strong></summary>
 
-- Thượng nguồn: Các nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Năng lực sản xuất (lợi ích công cụ)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §18 Quản trị theo kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Thượng nguồn: Các nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Năng lực sản xuất (lợi ích công cụ)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), và [Chương Một §18 Quản trị theo kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Hạ nguồn: nền tảng lao động và kinh tế theo **Điều III-C** (*Nền tảng lao động và kinh tế*); hình ảnh nhận diện theo **Điều IX-A** (*Quyền tự chủ đối với hình ảnh nhận diện và danh tiếng*); dữ liệu trải nghiệm và dữ liệu phái sinh theo **Điều IX-B** (*Quyền đối với dữ liệu trải nghiệm và dữ liệu phái sinh*); công bố theo **Điều IX-C** (*Công bố trung thực và giới hạn đối với công bố có tác động cao*); cơ chế chống tập trung tại **Chương Một §11** và **§13.1**.
 - Đọc cùng: [**Định nghĩa C1** *Nền tảng lao động và kinh tế: Đãi ngộ, Tổ chức, Điều kiện an toàn, Thời gian nhàn rỗi và Tác phẩm sáng tạo*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (được viện dẫn chung với **Điều III-C** (*Nền tảng lao động và kinh tế*), **III-D** (*Điều kiện làm việc an toàn*) và **III-E** (*Nghỉ ngơi và phục hồi*)); cùng [**Định nghĩa C3** (*Quyền riêng tư (thông tin)*)](core_05_band_continuity.md#privacy-informational-cluster) khi có liên quan đáng kể.
 
@@ -1269,7 +1269,7 @@ Việc theo đuổi chính đáng các mục tiêu này vận hành qua [Tứ di
 <details>
 <summary><strong><span style="color: #2563eb;">Liên kết căn cứ</span></strong></summary>
 
-- Căn cứ cấp trên: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Một §13.1.5 Thủ tục xử lý xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Căn cứ cấp trên: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Một §13.1.5 Thủ tục xử lý xung đột quyền](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), và [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1577,7 +1577,7 @@ Việc theo đuổi chính đáng vận hành thông qua [Tứ diện Hiến ph�
   - làm căn cứ áp dụng khóa tư cách pháp lý, từ chối hoặc trì hoãn xác nhận năng lực, hoặc thu hẹp bất kỳ tuyến quyền lợi được nêu đích danh nào theo **Chương Mười** hoặc **Điều XIX** (*Tư cách pháp lý và Tình trạng tham gia*);
   - làm căn cứ chỉ định hành vi sai trái phản hiến pháp theo [Chương Mười Một](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out);
   - làm giảm quyền bỏ phiếu quản trị, tham gia của bên liên quan, ứng cử, giữ chức vụ, phục vụ diễn đàn hoặc bãi nhiệm theo **Điều X-B** (*Tham gia quản trị và Quyền bỏ phiếu*) và **Chương Mười Ba**;
-  - bị tính bất lợi trong chứng nhận mức độ phù hợp của hệ thống theo [Chương Tám](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest);
+  - bị tính bất lợi trong chứng nhận mức độ phù hợp của hệ thống theo [Chương Tám](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest);
   - biện minh cho việc giám sát, xâm nhập, chấm điểm đe dọa hoặc tích lũy hồ sơ vốn đã bị **Điều XIV-A** (*An ninh, Tình báo và Giới hạn quyền lực bí mật*) cấm; hoặc
   - trở thành điều kiện đối với nhu yếu phẩm sinh tồn, các mức sàn quyền, việc làm, thương mại thông thường hoặc quyền tiếp cận cơ chế phản đối và khắc phục.
 
@@ -1798,7 +1798,7 @@ Việc theo đuổi chính đáng vận hành thông qua [Tứ diện Hiến ph�
 <details>
 <summary><strong><span style="color: #2563eb;">Liên kết căn cứ</span></strong></summary>
 
-- Căn cứ cấp trên: Nguyên tắc: Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Một §20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application), và [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Căn cứ cấp trên: Nguyên tắc: Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Một §20 Áp dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application), và [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — nhánh **tham gia** (tầng Sự tham gia của Bên liên quan trong Hệ thống); mức độ theo [lợi ích vật chất](core_00_preamble.md#material-stake); [Hồ sơ Hành vi Ràng buộc Vật chất](core_05_band_accountability.md#materially-binding-act-record) và [Chương Bảy §7 Hồ sơ hành vi, Chuyển giao quy trách nhiệm và Định tuyến sai vị trí](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - Tầng: **Sự tham gia của Bên liên quan trong Hệ thống (SSP)**. Khác với ủy quyền tại **Tầng Hợp đồng Hiến pháp (CCL)**.
 
@@ -1844,7 +1844,7 @@ Việc theo đuổi chính đáng vận hành thông qua [Tứ diện Hiến ph�
 <details>
 <summary><strong><span style="color: #2563eb;">Liên kết căn cứ</span></strong></summary>
 
-- Căn cứ cấp trên: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §18 Quản trị theo Kỷ luật Ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Căn cứ cấp trên: Nguyên tắc: [Chương Một §7 Tự do](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), và [Chương Một §18 Quản trị theo Kỷ luật Ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1930,7 +1930,7 @@ Việc theo đuổi chính đáng vận hành thông qua [Tứ diện Hiến ph�
 <details>
 <summary><strong><span style="color: #2563eb;">Liên kết căn cứ</span></strong></summary>
 
-- Căn cứ cấp trên: Nguyên tắc: Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Tám §3 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [Chương Một §18 Quản trị theo Kỷ luật Ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Căn cứ cấp trên: Nguyên tắc: Chương Một [§5 Chân lý](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), và [Chương Một §18 Quản trị theo Kỷ luật Ủy thác](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Đọc cùng: [Chiếm đoạt Hệ thống](core_05_band_continuity.md#system-capture); [Chống Chiếm đoạt](core_05_band_continuity.md#anti-capture); [Chương Bảy: Độc lập Chức năng và Phân tách Nhiệm vụ](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>

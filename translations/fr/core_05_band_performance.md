@@ -58,7 +58,7 @@ Ces mesures transversales demandent si les systèmes livrent efficacement des r�
 - Les paliers de mesure opératoires vivent sur les foyers de définition du Chapitre cinq — voir [Efficacité constitutionnelle](core_05_band_continuity.md#constitutional-efficiency), [Charge évitable](core_05_band_continuity.md#avoidable-burden), [Capacité productive](core_05_band_continuity.md#productive-capacity-constitutional) et [Devoir de réduction de charge](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Les cibles de performance, les récompenses et les mesures de ressources ne sont valides que dans la mesure où elles restent traçables aux résultats constitutionnels.
 - Elles ne peuvent pas se substituer à l’Efficacité constitutionnelle, à la [Capacité productive](core_05_band_continuity.md#productive-capacity-constitutional) ni à la conformité au Plancher des droits.
-- Lire avec [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) lorsque la performance du système entier est matériellement dans la portée.
+- Lire avec [Chapitre sept §4 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) lorsque la performance du système entier est matériellement dans la portée.
 
 ---
 

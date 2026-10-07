@@ -173,6 +173,7 @@ Keep constitutional concept + O/M/A/C boundary only; cite owner homes for instit
 | MEAS-ANCHOR | No links to removed Preamble §3 `#measuring-*` category anchors | `make measurement-anchor-audit` |
 | MEAS-DEF-01 | Definition-anchored measurement tiers inform A/C authoring | `make ch5-measurement-tier-audit` and `make ch5-measurement-coverage-audit`; seeds at [tools/architecture/measurement_tier_seeds.json](tools/architecture/measurement_tier_seeds.json); editorial progress report (not corpus text): [doc_architecture/generated/measurement_rollout_status.md](doc_architecture/generated/measurement_rollout_status.md) |
 | CH5-HIER-01 | Definition hierarchy layers, tags, and placement rules | `make hierarchy-map` (generated index) |
+| CH8-PROCESS-ORDER-01 | Chapter Eight sections follow the order the certification work is done, in five phases | Manual (see **section 4**); links and anchors by `make local-markdown-fragment-audit`, `make section-label-anchor-audit`, `make fossil-anchor-audit` |
 | ROUTER-CJS01 | Cross-implementation routing | `make router-bidirectional-audit` |
 
 Historical D/A/C rollout: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).
@@ -309,7 +310,7 @@ Links in a Mermaid chart **must not cross**. A crossing makes a reader stop and 
 
 **Check.** Manual. Render the chart with Mermaid and look for crossing lines before publishing.
 
-**Reference example.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): outcomes and the challenge path converge on one recertification box, and the cycle ends at connector circle A, which re-enters above Part A §2, rather than a line looping back to the top.
+**Reference example.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): the two outcome branches converge on one recertification box, and the cycle ends at connector circle A, which re-enters above Phase I (§2), rather than a line looping back to the top.
 
 **Existing charts.** Swept on 2026-10-06 for every English-source chart outside `translations/`, `archive/`, `evidence/`, and the generated site; new and edited charts must comply when written. Translation copies are brought into line when each translation is next updated.
 
@@ -319,12 +320,12 @@ In a chart about one chapter's process or structure, a box that stands for a pro
 
 - **Shape.** Use Mermaid's subroutine shape, `X[["…"]]`, which draws double side bars — the standard flowchart symbol for a predefined process (**VIS-CHART-SYMBOLS-08**). Do not use a dashed outline: dashed outlines mark grouping containers (for example the Non-Negotiable band in `core_01_a_values_principles.md`).
 - **Label.** Name the outside owner or process and say it is outside the chapter, for example with a line "Outside this chapter" (two `<br/>` per **VIS-CHART-READABILITY-01**). Do not put this chapter's section numbers in the outside box.
-- **Link.** Connect it with a dotted link (`-.->`, or `-..->` when a longer link helps layout). When one section of this chapter makes the hand-off, put that section on the link label (for example "Part B §7 — verified inputs only").
+- **Link.** Connect it with a dotted link (`-.->`, or `-..->` when a longer link helps layout). When one section of this chapter makes the hand-off, put that section on the link label (for example "§8 — verified inputs only").
 - **Color.** Outline by role under **VIS-CHART-THEME-02**, like any other box.
 
 **Scope.** Corpus-wide map charts whose boxes are all chapters or corpora (for example the chapter map in `core_00_preamble.md`, the dependency graph in this document, or `implementation/PROCESS_PIPELINES_READER.md`) are out of scope: there is no single owning chapter for a box to sit outside of.
 
-**Reference examples.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): "Chapter Nine — Standing records" is a subroutine box reached by a dotted link labeled with the Part B §7 gate. The Chapter Six overview chart in `core_06_rights_part_a.md` (and its copy in `guides/CONCEPTUAL_OVERVIEW.md`): later governance, measurement, certification, forums, remedy, and implementation sit outside Chapter Six, reached by dotted links. The dispute-sequencing chart in `core_12_forum.md` (and the forum-families chart in `guides/CONCEPTUAL_OVERVIEW.md`): the published Stakeholder System Participation challenge path is owned outside Chapter Twelve.
+**Reference examples.** The certification process chart in `core_08_a_system_alignment_certification_evaluation.md` (§1.1): "Chapter Nine — Standing records" is a subroutine box reached by a dotted link labeled with the §8 gate. The Chapter Six overview chart in `core_06_rights_part_a.md` (and its copy in `guides/CONCEPTUAL_OVERVIEW.md`): later governance, measurement, certification, forums, remedy, and implementation sit outside Chapter Six, reached by dotted links. The dispute-sequencing chart in `core_12_forum.md` (and the forum-families chart in `guides/CONCEPTUAL_OVERVIEW.md`): the published Stakeholder System Participation challenge path is owned outside Chapter Twelve.
 
 **Check.** Manual. Render the chart and confirm every outside process uses the subroutine shape and every subroutine box is an outside process.
 
@@ -685,6 +686,35 @@ Mermaid chart labels are plain text, so link and anchor audits do not catch a ch
 - **Translations:** localized charts follow the translation re-sync, not the English change.
 
 Gate: manual. Charts must also keep **VIS-CHART-READABILITY-01** and **VIS-CHART-THEME-02**.
+
+### Chapter Eight process order (CH8-PROCESS-ORDER-01)
+
+**Decision (2026-10-07, before the pre-release announcement).** Chapter Eight sections are numbered in the order the certification work is done, in five phases. The numbers were moved before the announcement, not after, because once outside readers cite sections, a renumbering costs every citation (NAV-PRE-RELEASE-FRAGMENT-01 forbids redirect anchors, so a later move could not be softened). Only order, labels, and links changed. No obligation was added, dropped, or reworded; a clause-level inventory (`tools/obligation_inventory_diff.py`) shows the same clauses before and after.
+
+| Phase | Sections | File |
+|-------|----------|------|
+| I. Frame | §2 System Class Evaluation, §3 Challenging a Certification | Part A |
+| II. Evaluate | §4 Whole-System Certification Evaluation: **always** §4.1–§4.4, **when implicated** §4.5–§4.7, **when triggered** §4.8 | Part A |
+| III. Review | §5 Forum Process | Part B |
+| IV. Record | §6 System Certification Record | Part B |
+| V. Decide and keep current | §7 Outcomes, Recertification, and Reopening; §8 Relationship to Standing | Part B |
+
+§1 Purpose and Role precedes the phases. Numbering stays continuous across Part A and Part B; Part C keeps the Part A numbers it illustrates.
+
+**Old to new.** Part A: 3 → 4, 3.1 → 4.1, 3.5 → 4.2, 3.6 → 4.3, 3.7 → 4.4, 3.2 → 4.5, 3.3 → 4.6, 3.4 → 4.7, 3.4.1 → 4.7.1, 3.8 → 4.8 (3.8.k → 4.8.k). Part B: 4 → 6, 4.1 → 6.1, 4.2 → 6.2, 5 and 5.1–5.2 unchanged, 5.3 → Part A §3 (retitled "Challenging a Certification"), 5.3.1 → Part A §3.1, 5.3.2 → 5.3, 5.3.3 → 5.4, 6 → 7 (6.1 → 7.1, 6.2 → 7.2, 6.2.1 → 7.2.1, 6.3 → 7.3), 7 → 8. Part C: 3.7.1 → 4.4.1, 3.8.k.1 → 4.8.k.1. Sections 1, 1.1, 1.2, 2, and 2.1 did not move.
+
+**Why the challenge path moved to Part A.** The published record challenge path opens when the system first has stakeholders, which can be before any forum review starts. It is framing, so it belongs in Phase I. The contestability chain (Part B §5.3) stays with the forum process because it mirrors the supervisory sequence.
+
+**Rules going forward.**
+
+- A new Chapter Eight section goes in the phase where the work it describes is done. Do not append it to the end of a file.
+- The tier labels in §4 (always, when implicated, when triggered) orient the reader. They do not narrow what a subsection requires, and the subsection's own trigger wording controls.
+- Reader aids (phase table, run sheet, record checklist, recognition-status table) are non-operative widgets under NAV-READER-06. Where an aid and a section differ, the section controls.
+- The §1.1 chart, the phase tables in `core_08_a_system_alignment_certification_evaluation.md` (§1.1) and `core_08_system_alignment_certification.md`, and the §4 tier table move together (VIS-CHART-SYNC-03 applies by analogy).
+
+**Evidence.** [evidence/2026-10-07/ch08_process_order_reorder.md](evidence/2026-10-07/ch08_process_order_reorder.md) holds the full map, verification, and open items. The rewrite tool is `tools/ch8_process_order_reorder.py`.
+
+Gate: manual for placement; links, anchors, and section-cite names are held by the audits in the registry row above.
 
 ### Adopted implementation subfile anatomy (NAV-IMPL-SUBFILE-01)
 

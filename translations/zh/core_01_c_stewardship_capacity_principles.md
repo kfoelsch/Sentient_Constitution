@@ -42,7 +42,7 @@
 - 配合阅读：[宪法四要素](core_00_preamble.md#constitutional-tetrad)——第一章主要阐述**参与**要素（具有实质后果的角色与发声权；一般要求，不仅限于[利益相关者系统参与](core_05_band_participation.md#stakeholder-status-and-weight)）、**监督**要素和**及时性**要素（主动修复速度）；并按[重大利益关联](core_00_preamble.md#material-stake)调整尺度。
 - 配合阅读：[宪法两大目标](core_00_preamble.md#two-constitutional-aims)——**繁荣**目标（参与、能动性与教育路径）；**连续性**目标（机构学习、修复能力与持久受托管理）。
 - 上游：原则：[3. 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)；[5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)；[6. 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)；以及[§9 共享系统能力](core_01_a_values_principles.md#9-shared-system-capacity)。
-- 下游：[13. 宪法冲突解决流程](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)（包括[§13.3 减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)）；[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[§19.1.3 受托管理与运营者的应用](#1913-stewardship-and-operator-application)。
+- 下游：[13. 宪法冲突解决流程](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)（包括[§13.3 减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)）；[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)；[§19.1.3 受托管理与运营者的应用](#1913-stewardship-and-operator-application)。
 - 下游：[§19.1.4 角色深度与重大责任路径](#1914-role-depth-and-material-responsibility-pathways)。
 - 下游：[§7 自由（受限能动性）](core_01_a_values_principles.md#7-freedom-bounded-agency)：它依赖于在重大依赖关系下，具有实质后果的受托管理、分布式理解、有意义的参与和修复能力仍然真实有效。
 - 下游：[第八章——系统一致性认证](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*监督下规模尤其大的审计流程之一，并非唯一的审计章节*）；[第九章——贡献、违规与地位模型](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement)（*地位影响——信任、角色与获得认可的资格——以本小节作为原则层基础来落实*）。
@@ -998,7 +998,7 @@ flowchart TB
 - 配合阅读：[宪制四元组](core_00_preamble.md#constitutional-tetrad)——第一章有关四元组**俘获**纪律的主要依据（激励不得掏空**参与**、**监督**、**问责**或**及时性**）；并按[重大利害程度](core_00_preamble.md#material-stake)分级适用。
 - 配合阅读：问责衡量系列（*激励协调与代理指标完整性；市场结构与可竞争性*）。
 - 配合阅读：[两个宪制目标](core_00_preamble.md#two-constitutional-aims)——**延续性**目标（针对短期优化和俘获保持持久协调）；**繁荣**目标（维护有意义能动性的激励结构）。
-- 上游：原则：[3. 根本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§3.2 认可、强化与追求](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)、[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§16 深入探讨监管](#16-stewardship-in-depth)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：[3. 根本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§3.2 认可、强化与追求](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)、[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§16 深入探讨监管](#16-stewardship-in-depth)，以及[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 - 下游：[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)和[§14 禁止绝对性覆盖](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下游：[§13.3 尽量减轻可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)；[第十三章 §5——授权角色、能力发展与贡献](core_13_governance.md#5-authorized-roles-competency-development-and-contribution)；**[corpus_systems.md](corpus_systems.md)，CS-4——关键系统监管**。
 - 下游：针对[第六章：基本权利](core_06_rights_part_a.md#chapter-six-foundational-rights)中的权利范围，涵盖能动性、参与、激励协调、信息领域完整性、资格地位及反俘获审查；尤其是[第 X 条：自我决定、能动性与参与](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第 XII 条：利益相关者系统参与、代表与正当程序](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)、[第 XIII-D 条：激励协调约束](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)、[第 XV 条：信息领域完整性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第 XIX 条：资格地位与参与身份](core_06_rights_part_d.md#article-xix-standing-and-participation-status)，以及[第 XXIV 条：宪制解释、审查与反俘获保障](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)。
@@ -1329,7 +1329,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">关联</span></strong></summary>
 
 - 上游关联： [§19 激励协调与系统俘获](#19-incentive-alignment-and-system-capture)（包括 [§19.1 协调要求](#191-alignment-requirement))； [第五章 *或有债权、事件合约市场、机会游戏与内部人优势*](core_05_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)。
-- 下游关联： [§19.3 错位识别](#193-misalignment-detection)； [§19.3.1 俘获升级触发条件](#1931-capture-escalation-triggers)； [§19.4 错位纠正与俘获应对](#194-misalignment-correction-and-capture-response)； [§13.2 认知披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)； [第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)； `corpus_systems.md` 中的分类及按影响程度实施的治理; `corpus_institutions.md` 中的利益冲突与诚信要求.
+- 下游关联： [§19.3 错位识别](#193-misalignment-detection)； [§19.3.1 俘获升级触发条件](#1931-capture-escalation-triggers)； [§19.4 错位纠正与俘获应对](#194-misalignment-correction-and-capture-response)； [§13.2 认知披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)； [第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)； `corpus_systems.md` 中的分类及按影响程度实施的治理; `corpus_institutions.md` 中的利益冲突与诚信要求.
 - 参见： [两项宪法目标](core_00_preamble.md#two-constitutional-aims) — **连续性**目标（可持续且可质疑的裁决途径，以及或有结算产生重大影响时的系统稳定性)。
 - 参见： [裁决途径的俘获](core_05_band_accountability.md#capture-of-resolution-pathways)， [胁迫与操纵](core_05_band_participation.md#coercion-and-manipulation)， 以及[可质疑性](core_05_band_accountability.md#contestability)； [内部人优势](core_05_band_accountability.md#insider-advantage)。
 - 子节（阅读顺序）： [§19.5.1 不得奖励的事项](#1951-what-may-not-be-rewarded) · [§19.5.2 谁决定结果](#1952-who-decides-outcomes) · [§19.5.3 市场信号不是宪法性证明](#1953-market-signals-are-not-constitutional-proof) · [§19.5.4 合比例控制与实施责任](#1954-proportionate-controls-and-implementation-custody)。
@@ -1435,7 +1435,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">关联</span></strong></summary>
 
 - 参见： [必要性](core_05_band_accountability.md#necessity)； [比例性](core_05_band_accountability.md#proportionality)； [依赖性](core_05_band_continuity.md#dependency)。
-- 下游关联： [第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)； [corpus_systems.md](corpus_systems.md)（*对具有重大影响的系统进行分类并按比例实施管理*)； [corpus_institutions.md](corpus_institutions.md)（*监督此类活动的机构所适用的利益冲突与程序规则*)。
+- 下游关联： [第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)； [corpus_systems.md](corpus_systems.md)（*对具有重大影响的系统进行分类并按比例实施管理*)； [corpus_institutions.md](corpus_institutions.md)（*监督此类活动的机构所适用的利益冲突与程序规则*)。
 
 </details>
 
@@ -1454,7 +1454,7 @@ flowchart TB
   - [依赖性](core_05_band_continuity.md#dependency) — 他人对系统或其结果的依赖程度；
   - 脆弱性——下注者或受影响者受到伤害的难易程度；以及
   - 系统稳定性——故障是否可能扩散到系统之外。
-- **测试滥用风险：** 依据 [第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 进行评估，包括：
+- **测试滥用风险：** 依据 [第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)， 进行评估，包括：
   - 行为者协调行动以影响决定结果的事件；以及
   - 规模动态——随着数量、参与度或风险敞口增长而变化的风险。
 
@@ -1526,7 +1526,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：[15. 宪法解释](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)、[1. 目的与作用](core_01_a_values_principles.md#1-purpose-and-role)、[§16 深入理解托管责任](#16-stewardship-in-depth)、[13. 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[7. 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)，以及[14. 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上游：原则：[15. 宪法解释](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)、[1. 目的与作用](core_01_a_values_principles.md#1-purpose-and-role)、[§16 深入理解托管责任](#16-stewardship-in-depth)、[13. 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[7. 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)，以及[14. 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下游：后续章节应依照本章所链接的第一章原则进行解读——包括[宪法四元原则](core_00_preamble.md#constitutional-tetrad)、[两项宪法目标](core_00_preamble.md#two-constitutional-aims)以及[重大利益关系](core_00_preamble.md#material-stake)分级标准；该分级标准在[序言](core_00_preamble.md#preamble--foundational-requirements)和[§1 目的与作用](core_01_a_values_principles.md#1-purpose-and-role)中确立。
 - 下游：[第六章：基础权利](core_06_rights_part_a.md#chapter-six-foundational-rights)必须依照本章的综合价值框架解读。
   - 有界解释、公开理由、质疑权、外部审查以及权利冲突程序承担关键的下游工作。

@@ -124,7 +124,7 @@ flowchart TB
 - اسے چیلنج کرنے کا طریقہ
 - مسائل کیسے حل ہوتے ہیں
 
-اگر نظام اہمیت کی حد کو پورا کرتا ہے۔ **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*)، سرٹیفیکیشن میں قابل اعتماد جائزہ بھی شامل ہے [باب آٹھ §3.9.6 اعتماد اور سسٹم ریلائنس سالمیت کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+اگر نظام اہمیت کی حد کو پورا کرتا ہے۔ **آرٹیکل XIII** (*قابل اعتماد اور قابل اعتماد نظاموں کا حق*)، سرٹیفیکیشن میں قابل اعتماد جائزہ بھی شامل ہے [باب آٹھ §4.8.6 اعتماد اور سسٹم ریلائنس سالمیت کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **مسابقت نظام کو صاحبِ شعور پہلو سے ایماندار رکھتی ہے:** سرٹیفیکیشن ایک نظام کی جانچ کرتا ہے؛ اس پر آخری لفظ نہیں ہے۔ نظام سے متاثر ہر احساس رکھتا ہے:
 
@@ -362,7 +362,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 لچک اور خود شفا بخش ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 لچک اور خود شفا بخش ڈیزائن](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [باب اول §13.3 قابل گریز بوجھ کو کم کرنا](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، اور [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -714,7 +714,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، اور [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -787,7 +787,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -938,7 +938,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 انتظامی نظم و ضبط کے تحت](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب اول §18 انتظامی نظم و ضبط کے تحت](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1046,7 +1046,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1081,7 +1081,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 بنیادی تجارت کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1114,7 +1114,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1173,7 +1173,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1240,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ٹریس</span></strong></summary>
 
-- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §3 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: اصول: باب اول [§4 حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint), [باب آٹھ §4 پورے نظام کے سرٹیفیکیشن کی تشخیص](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب ایک §20 مربوط درخواست](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

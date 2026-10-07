@@ -150,7 +150,7 @@ German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and
 
 **Non-regression (comparator):** “Amendments to this Basic Law affecting the division of the Federation into Länder, their participation in principle in the legislative process, or the principles laid down in Articles 1 and 20 shall be inadmissible.” — German Basic Law Art. 79(3)
 
-**Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Eight owns evaluation/record; Chapter Nine owns standing records; this chapter “may supply verified inputs only.” — [Chapter Eight §7](../../core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing)
+**Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Eight owns evaluation/record; Chapter Nine owns standing records; this chapter “may supply verified inputs only.” — [Chapter Eight §7](../../core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing)
 
 **Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Twelve §3](../../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture)
 

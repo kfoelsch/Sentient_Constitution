@@ -343,6 +343,8 @@ Failure integrity, intervention, and steward scaling co-apply through **corpus_j
 
 **Class C, L, and P** still need **proportional** risk management. They do **not** need the full three-lines model unless scale, coupling, or dependency makes similar measures warranted under ordinary classification and stewardship rules.
 
+**Steward assurance review.** The checks that test steward conduct and governance, rather than a system's own record or its complexity, form one sibling audit mode in the [CJS-3.3 audit process home](../corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) (*Sibling audit modes (owner map)*): the third-line independent assurance above, the periodic oversight effectiveness review below, and the conflict-register audit cadence in [§CS-4.8 Conduct, conflicts of interest, and independence](#cs-48-conduct-conflicts-of-interest-and-independence). Organizational complexity audits under **CSS-A**, **CSS-B**, and **CSS-C** ([§CS-4.5 Comprehensibility and complexity stewardship](#cs-45-comprehensibility-and-complexity-stewardship)) are complexity audits applied to the steward and follow **CS-6** (*Comprehensibility and complexity stewardship*). This paragraph names the mode. Each check keeps its own duties and cadence.
+
 **Periodic oversight effectiveness review:** On cadences **proportional to class and tier**, assess whether oversight/audit/challenge (**including [Integrated risk governance (Class A/B)](#cs-411-integrated-risk-governance-class-ab)** second line where applicable) **actually detect**, **escalate**, and **remediate** misalignment—not only paper charters.
 
 Use **independent** or **functionally independent** evaluators where **Class A/B** or **CSS-A/B** stakes require.

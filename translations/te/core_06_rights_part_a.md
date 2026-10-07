@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), మరియు [అధ్యాయం ఏడు §4 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -203,7 +203,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 జ్ఞాన బహిర్గత పరిమితులు](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 జ్ఞాన బహిర్గత పరిమితులు](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), మరియు [అధ్యాయం ఏడు §4 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -343,7 +343,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §4 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -471,7 +471,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.1 భద్రత](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §4 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - దీనితో చదవండి: [అనుచ్ఛేదం XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*పోర్టబిలిటీ హక్కులు*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — సమాచార రకాలు మరియు నిర్వహణ**; **CJS-3.17** (*అంతర్‌చర్యాయోగ్యత, పోర్టబిలిటీ, మరియు నిష్క్రమణ-సమగ్రత నిబంధనలు*) మరియు **CJS-3.18** (*డేటా-నిలుపుదల మరియు జీవితచక్ర-సమగ్రత నిబంధనలు*); [అధ్యాయం ఒకటి §11.6 వారస బాధ్యత మరియు అధికారిక-నిర్మాణం తప్పించుకోవడం-నిషేధం](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [అధ్యాయం తొమ్మిది §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) మరియు [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -793,7 +793,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§3.2 సత్యం](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [అధ్యాయం ఏడు §4 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), మరియు [§10 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - దీనితో చదవండి: కొనసాగింపు కొలత కుటుంబం (*రాజ్యాంగ కొలతగా ఆధారపడటం మరియు వనరు ప్రవాహాలు*); [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — పారదర్శక ఆధారపడటం మ్యాప్‌లు మరియు ఆడిట్ చేయదగిన వనరు-ప్రవాహ రికార్డుల ద్వారా **పర్యవేక్షణ**, **అనుచ్ఛేదం XV-A** (*ఆడిట్-యోగ్యత మరియు పరిశీలించదగిన సాక్ష్యం*) కింద సవాలు చేయదగిన సమీక్షలో **పాల్గొనడం**; [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** (కనిపించే ఖర్చు-మరియు-లాభం కేటాయింపు) మరియు **కొనసాగింపు** (మారుతున్న వ్యవస్థల అంతటా నిలకడ ఆధారపడటం కనిపించే తనం).
 - గమ్యం: వ్యవస్థలు భాగస్వామ్య మౌలిక సదుపాయం లేదా పునాది ఆధారపడటాల నుండి కేటాయించే, మార్గం పెట్టే, నిధులు ఇచ్చే, లేదా వెలికితీసే చోట [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) మరియు [అధ్యాయం ఏడు](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*వనరు కేటాయింపు మరియు నిధుల బాధ్యతాయుత నిర్వహణ*), మరియు **CS-8** (*అనుకూల స్థిరత్వం మరియు పర్యావరణ వ్యవస్థ స్థితిస్థాపకత*).
 
@@ -825,7 +825,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- మూలం: సూత్రాలు: అధ్యాయం ఒకటి [§2 పునాది లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 మూల లాభనష్ట సూత్రాలు](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), మరియు [అధ్యాయం ఏడు §4 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - దీనితో చదవండి: [*పాలన నిర్మాణం, పర్యవేక్షణ, ఆధారపడటం, వికేంద్రీకరణ, కేంద్రీకరణ, మార్కెట్ నిర్మాణం, మరియు నిష్క్రమణ-మార్గ సమగ్రత*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (కేంద్రీకరణ, పర్యవేక్షణ, ఆధారపడటం, పాలన-అధికార నిర్మాణం, లేదా ప్రోత్సాహక మార్గం కింది సంచాలక పాఠంలో **§5** / **§5** మరియు *కేంద్రీకరణ-గడప పరస్పర చర్య* క్రమశిక్షణను కలుస్తున్న చోట ఉమ్మడి పిలుపు).
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — సవాలు మరియు సవాలు మార్గాల్లో **పాల్గొనడం**, **పర్యవేక్షణ** మరియు ఆడిట్, **జవాబుదారీతనం** మరియు సరిదిద్దు సమీక్ష, **అనుచ్ఛేదం XXIV-C** (*సమయానుకూల పరిష్కారం మరియు ఆలస్య-నిరోధ నేల*) కింద **సమయబద్ధత**; [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **సమున్నతి** (వ్యవస్థల-మధ్య న్యాయం మరియు వెలికితీత-నిషేధం) మరియు **కొనసాగింపు** (దీర్ఘకాల స్థిరత్వం మరియు పర్యావరణ వ్యవస్థ నిధులు).
 - గమ్యం: వ్యవస్థల-మధ్య న్యాయం, పర్యావరణ వ్యవస్థ నిధులు, లేదా భాగస్వామ్య మౌలిక సదుపాయం నుండి నిలకడ వెలికితీత భౌతికంగా ప్రశ్నలో ఉన్న చోట [వ్యవస్థ అనుగుణత ధృవీకరణ](core_05_band_continuity.md#system-alignment-certification-constitutional) మరియు [అధ్యాయం ఏడు](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).

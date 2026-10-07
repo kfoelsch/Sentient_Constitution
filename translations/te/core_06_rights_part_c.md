@@ -124,7 +124,7 @@ flowchart TB
 - దానిని ఎలా సవాలు చేయాలి
 - సమస్యలు ఎలా పరిష్కరించబడతాయి
 
-సిస్టమ్ ప్రాముఖ్యత థ్రెషోల్డ్‌ను చేరుకుంటే **ఆర్టికల్ XIII** (*విశ్వసనీయ మరియు విశ్వసనీయ వ్యవస్థల హక్కు*), ధృవీకరణలో విశ్వసనీయత సమీక్ష కూడా ఉంటుంది [చాప్టర్ ఎనిమిది §3.9.6 విశ్వసనీయత మరియు సిస్టమ్-రిలయన్స్ సమగ్రత మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+సిస్టమ్ ప్రాముఖ్యత థ్రెషోల్డ్‌ను చేరుకుంటే **ఆర్టికల్ XIII** (*విశ్వసనీయ మరియు విశ్వసనీయ వ్యవస్థల హక్కు*), ధృవీకరణలో విశ్వసనీయత సమీక్ష కూడా ఉంటుంది [చాప్టర్ ఎనిమిది §4.8.6 విశ్వసనీయత మరియు సిస్టమ్-రిలయన్స్ సమగ్రత మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **పోటీతత్వం వ్యవస్థను సెంటింట్ వైపు నుండి నిజాయితీగా ఉంచుతుంది:** ధృవీకరణ వ్యవస్థను తనిఖీ చేస్తుంది; దానిపై చివరి పదం లేదు. సిస్టమ్ ద్వారా ప్రభావితమైన ప్రతి సెంటింట్ ఉంచుతుంది:
 
@@ -362,7 +362,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 నమ్మకం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 స్థితిస్థాపకత మరియు స్వీయ-స్వస్థత రూపకల్పన](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [అధ్యాయం 1 §13.3 నివారించదగిన భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), మరియు [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 నమ్మకం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 స్థితిస్థాపకత మరియు స్వీయ-స్వస్థత రూపకల్పన](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [అధ్యాయం 1 §13.3 నివారించదగిన భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), మరియు [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -714,7 +714,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 నమ్మకం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), మరియు [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 నమ్మకం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), మరియు [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -787,7 +787,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ఎపిస్టెమిక్ డిస్‌క్లోజర్ పరిమితులు](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), మరియు [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ఎపిస్టెమిక్ డిస్‌క్లోజర్ పరిమితులు](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), మరియు [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -938,7 +938,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [అధ్యాయం 1 §18 స్టీవార్డ్‌షిప్ క్రమశిక్షణలో పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), మరియు [అధ్యాయం 1 §18 స్టీవార్డ్‌షిప్ క్రమశిక్షణలో పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1046,7 +1046,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [అధ్యాయం 1 §20 ఇంటిగ్రేటెడ్ అప్లికేషన్](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), మరియు [అధ్యాయం 1 §20 ఇంటిగ్రేటెడ్ అప్లికేషన్](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1081,7 +1081,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 కోర్ ట్రేడ్ఆఫ్ ప్రిన్సిపల్స్](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), మరియు [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 కోర్ ట్రేడ్ఆఫ్ ప్రిన్సిపల్స్](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), మరియు [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1114,7 +1114,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [అధ్యాయం 1 §20 ఇంటిగ్రేటెడ్ అప్లికేషన్](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§5 నిజం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), మరియు [అధ్యాయం 1 §20 ఇంటిగ్రేటెడ్ అప్లికేషన్](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1173,7 +1173,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [అధ్యాయం 1 §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), మరియు [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [అధ్యాయం 1 §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), మరియు [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1240,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ట్రేస్ చేయండి</span></strong></summary>
 
-- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [చాప్టర్ ఎనిమిది §3 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [అధ్యాయం 1 §20 ఇంటిగ్రేటెడ్ అప్లికేషన్](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- అప్‌స్ట్రీమ్: సూత్రాలు: మొదటి అధ్యాయం [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [చాప్టర్ ఎనిమిది §4 హోల్-సిస్టమ్ సర్టిఫికేషన్ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), మరియు [అధ్యాయం 1 §20 ఇంటిగ్రేటెడ్ అప్లికేషన్](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

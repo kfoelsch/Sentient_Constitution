@@ -224,7 +224,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">연계 추적</span></strong></summary>
 
 - 상위 원칙: 제1장 원칙: [§3.1 공정성](core_01_a_values_principles.md#31-fairness), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- 하위 연계: 참여 측정군 (*실질적 공정성, 보호 특성의 대리 지표 사용 및 불균등 영향*); [제8장 §3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*인증이 분류, 순위화, 가격 책정, 접근 제한 또는 부담 배분의 관문이 되는 경우의 차별 금지 평가*); [제12장](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)의 포럼, 행정 및 집행 절차 (*심판 및 운영상의 의무*).
+- 하위 연계: 참여 측정군 (*실질적 공정성, 보호 특성의 대리 지표 사용 및 불균등 영향*); [제8장 §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*인증이 분류, 순위화, 가격 책정, 접근 제한 또는 부담 배분의 관문이 되는 경우의 차별 금지 평가*); [제12장](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)의 포럼, 행정 및 집행 절차 (*심판 및 운영상의 의무*).
 - 함께 읽을 조항: 제5장 [보호 특성](core_05_band_participation.md#protected-characteristics-constitutional), [언어·문화·유산](core_05_band_continuity.md#language-culture-and-heritage-constitutional); 토착민 및 영토의 연속성에 관한 쟁점은 제5장 [토착민의 연속성](core_05_band_continuity.md#indigenous-continuity-constitutional) (*공동체에 뿌리를 둔 권리 바닥; 이를 담당하는 조항은 **제VI-C조**(차별 금지)와 **제I-A조**(환경적 전제조건 및 생태계 온전성)*)을 따르며, [제I-A조](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*생태계 온전성의 전제조건*)와 [제17장](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*채택 관할권의 규율*)로 연결됩니다.
 
 </details>
@@ -271,8 +271,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연계</span></strong></summary>
 
-- 상위 근거: 제1장 원칙 [§3 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 제한의 규율](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 쉬운 언어 접근성](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- 하위 연계: **제VI-A조** (*존엄과 동등한 도덕적 지위*)의 존엄 기준, **제VI-C조** (*차별 금지*)에 따른 심의 및 운영의 비차별과 완전한 포용, **제IV-A조** (*교육에 대한 동등한 접근*)의 교육 접근(중복 아님 — 교육에 특화된 접근성은 해당 조항이 다루며, 이 조항은 여러 분야에 걸친 권리 최저선을 정함), **제X-B조** (*거버넌스 참여와 투표권*)의 거버넌스 참여, **제XII조** (*이해관계자 시스템 참여, 대표성 및 적법절차*)의 이해관계자 참여, **제XVI조** (*감사, 투명성 및 독립적 검증*)의 독립적 검증; 참여 측정 체계 (*헌법상 측정으로서의 접근성*); [제8장 §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*인증이 실질적 참여의 관문일 때의 접근성 평가*).
+- 상위 근거: 제1장 원칙 [§3 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 제한의 규율](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 쉬운 언어 접근성](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 하위 연계: **제VI-A조** (*존엄과 동등한 도덕적 지위*)의 존엄 기준, **제VI-C조** (*차별 금지*)에 따른 심의 및 운영의 비차별과 완전한 포용, **제IV-A조** (*교육에 대한 동등한 접근*)의 교육 접근(중복 아님 — 교육에 특화된 접근성은 해당 조항이 다루며, 이 조항은 여러 분야에 걸친 권리 최저선을 정함), **제X-B조** (*거버넌스 참여와 투표권*)의 거버넌스 참여, **제XII조** (*이해관계자 시스템 참여, 대표성 및 적법절차*)의 이해관계자 참여, **제XVI조** (*감사, 투명성 및 독립적 검증*)의 독립적 검증; 참여 측정 체계 (*헌법상 측정으로서의 접근성*); [제8장 §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*인증이 실질적 참여의 관문일 때의 접근성 평가*).
 - 제5장의 *접근성*, *보호 특성*, *실질적 공정성*, *중요성*, *의존성*, *의미 있는 행위능력*과 함께 읽음. 여러 분야에 걸친 접근성 원칙: [제1장 §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*쉬운 언어 접근성*).
 
 </details>
@@ -971,7 +971,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1019,7 +1019,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 생산 역량(수단적 선)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [제1장 §13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §18 책임 있는 관리 규율 아래의 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 생산 역량(수단적 선)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [제1장 §13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [제1장 §18 책임 있는 관리 규율 아래의 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - 하위 적용: **제III-C조** (*노동 및 경제 권리 바닥*)의 노동·경제 권리 바닥; **제IX-A조** (*초상과 평판의 자기소유*)의 초상; **제IX-B조** (*경험 및 파생 데이터 권리*)의 경험 및 파생 데이터; **제IX-C조** (*진실한 출판 및 고영향 출판 제한*)의 출판; 제1장 **§11**의 집중 방지 및 **§13.1**의 집중 임계치 메커니즘.
 - 함께 읽기: [**Def.C1** *노동 및 경제 권리 바닥: 보상, 조직, 안전한 조건, 여가 및 창작 활동*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (**제III-C조** (*노동 및 경제 권리 바닥*), **III-D조** (*안전한 노동 조건*), **III-E조** (*휴식과 회복*)와 함께 적용; 실질적 관련성이 있으면 [**Def.C3** (*프라이버시(정보)*)](core_05_band_continuity.md#privacy-informational-cluster)).
 
@@ -1206,7 +1206,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위 근거: 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상위 근거: 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1517,7 +1517,7 @@ flowchart TB
   - **제10장** 또는 **제XIX조** (*지위 및 참여 상태*)에 따른 지위 잠금, 역량 승인 거부·지연, 명명된 경로 축소;
   - [제11장](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)에 따른 반헌법적 부정행위 지정 뒷받침;
   - **제X-B조** (*거버넌스 참여 및 투표 자격*) 및 **제13장**에 따른 거버넌스 투표, 이해관계자 참여, 후보 자격, 직위 보유, 포럼 업무, 소환 권리 축소;
-  - [제8장](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest)에 따른 시스템 정렬 인증에 불리하게 반영;
+  - [제8장](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest)에 따른 시스템 정렬 인증에 불리하게 반영;
   - **제XIV-A조** (*안보, 정보 활동 및 비밀 권력 제한*)가 이미 금지한 감시·침투·위협 점수화·기록 축적 정당화; 또는
   - 생존 필수품, 권리 바닥 최소치, 고용, 통상적 상거래, 이의 제기 및 구제 접근을 조건부로 제공.
 
@@ -1742,7 +1742,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제1장 §20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제1장 §20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — **참여**의 갈래(이해관계자 체계 참여 층); [실질 이해관계](core_00_preamble.md#material-stake)에 따른 조정; [실질적 구속 행위 기록](core_05_band_accountability.md#materially-binding-act-record) 및 [제7장 §7 행위 기록, 귀속 가능한 인계, 잘못된 자리로의 전달](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - 층: **이해관계자 체계 참여(SSP)**. 수권을 다루는 **헌법 계약 층(CCL)**과 구별된다.
 
@@ -1788,7 +1788,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위 근거: 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §18 책임 있는 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상위 근거: 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [제1장 §18 책임 있는 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1874,7 +1874,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §18 책임 있는 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [제1장 §18 책임 있는 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - 함께 읽기: [시스템 장악](core_05_band_continuity.md#system-capture); [장악 방지](core_05_band_continuity.md#anti-capture); [제7장: 기능적 독립성과 직무 분리](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>

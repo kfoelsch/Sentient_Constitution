@@ -68,7 +68,7 @@
 
 **不直接涉及任何支柱的章节。**[§15.1.1 禁止分割原则](#1511-anti-segmentation-principle)以及[§15.4.1](#1541-integrated-reading)至[§15.4.3](#1543-incorporation-layer)规定如何阅读文本以及由哪个来源层级控制。按照设计，这些章节的追踪不标注四元结构支柱。
 
-**时间的两种含义。**B部分中的时间有两种含义。较长的时间跨度（延迟与累积损害，以及在[第八章§3.5 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint)在[§13.1.2](#1312-harm-minimization)中的适用）属于**延续**目标。时钟、复核频率与延误（限制的时限、最终披露、可避免的延误）则属于**及时性**支柱。
+**时间的两种含义。**B部分中的时间有两种含义。较长的时间跨度（延迟与累积损害，以及在[第八章§4.2 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint)在[§13.1.2](#1312-harm-minimization)中的适用）属于**延续**目标。时钟、复核频率与延误（限制的时限、最终披露、可避免的延误）则属于**及时性**支柱。
 
 **这是两条轴线，并非冲突。**A部分的目标说明共享系统追求什么。B部分说明在此过程中，任何权衡、凌驾或解释都不得剥夺什么。
 
@@ -103,7 +103,7 @@
 
 <br>
 
-*简而言之：宪法冲突必然会发生——**安全**与**真相**优先。此后，限制必须合乎比例、确有必要、尽量减少伤害，并尽可能轻微。不得为了图方便而隐瞒真相；不得为了省事而剥夺隐私；自由限制适用[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)；涉及权利的宪法冲突需要有记录的决策检验；歪曲合规情况的指标不予采信。依据[第八章§3.5 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint)，短期优化无法通过评估。**§13.1**（*核心权衡原则*）至**§13.3**（*尽量减少可避免负担*）规定权衡规则、披露和隐私限制以及宪法冲突程序。*
+*简而言之：宪法冲突必然会发生——**安全**与**真相**优先。此后，限制必须合乎比例、确有必要、尽量减少伤害，并尽可能轻微。不得为了图方便而隐瞒真相；不得为了省事而剥夺隐私；自由限制适用[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)；涉及权利的宪法冲突需要有记录的决策检验；歪曲合规情况的指标不予采信。依据[第八章§4.2 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint)，短期优化无法通过评估。**§13.1**（*核心权衡原则*）至**§13.3**（*尽量减少可避免负担*）规定权衡规则、披露和隐私限制以及宪法冲突程序。*
 
 B部分在以下三种情况下维护四元结构的完整性：
 - **[宪法冲突](core_05_band_integrative.md#constitutional-collision)（本节）：**解决冲突时不削弱任何一项支柱。
@@ -300,7 +300,7 @@ flowchart TB
 - 只优化局部或即时伤害，却造成更大的系统性、总体或生态伤害；
 - 为了让已识别各方看起来受到的伤害最小，而将伤害外部化到生态系统、未识别的有感存在或其他未计入的各方身上。
 
-**时间跨度纪律。** 以长期系统代价换取短期优化，不符合这项检验。伤害最小化必须考虑[第八章 §3.5 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint)：某项决策在当前期间看似能使伤害最小化，但可预见地会在相关宪法时间跨度内造成更大伤害，则不合规。
+**时间跨度纪律。** 以长期系统代价换取短期优化，不符合这项检验。伤害最小化必须考虑[第八章 §4.2 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint)：某项决策在当前期间看似能使伤害最小化，但可预见地会在相关宪法时间跨度内造成更大伤害，则不合规。
 
 **与宪法底线的关系。** 伤害最小化仅在[§13.1.4 宪法底线、安全与反退化程序](#1314-constitutional-floors-safety-and-anti-degrading-process)所述宪法底线**之上**运作。它绝不授权：
 - 永久取消权利底线的最低保障；
@@ -846,7 +846,7 @@ A 部分所述的[禁止贬损性程序原则（§3.3）](core_01_a_values_princ
 - 创设、扩展或缩小第六章任何权利底线条款；或
 - 取代定义簇自身关于其涵盖哪些分区和受保护义务的说明。定义簇会在**反规避**项下说明这些内容，并引用本节作为规则依据。
 
-在联合援引的定义簇适用时，整体系统评估必须依照[第八章 §3 整体系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)检验是否存在拆分规避，然后分类、治理或合规主张才能成立。本节与[第三章 §2.1 常见规避模式](core_03_definition_integrity.md#21-common-evasion-patterns)和[§2.2 还原式规避](core_03_definition_integrity.md#22-reductive-evasion)共同适用。
+在联合援引的定义簇适用时，整体系统评估必须依照[第八章 §4 整体系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)检验是否存在拆分规避，然后分类、治理或合规主张才能成立。本节与[第三章 §2.1 常见规避模式](core_03_definition_integrity.md#21-common-evasion-patterns)和[§2.2 还原式规避](core_03_definition_integrity.md#22-reductive-evasion)共同适用。
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 派生信息原则

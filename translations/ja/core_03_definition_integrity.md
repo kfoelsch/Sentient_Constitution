@@ -246,7 +246,7 @@
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 最初の認証における軌跡効果
 
-システムがなお**最初の**[システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)にあり、まだ承認されていないなら — 承認が延期され、または拒否されるところを含む — 検証済み不遵守は、第一次には第七章のもとでの**認証の帰結**を決める。その帰結は、条件付き承認、承認の延期、非承認、または比較可能な結果でありうる。それらの認証記録は、事実が支えるときに、なお[第七章 §7](../../core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing)のもとで検証済み軌跡入力を供給してよい。本章は、すでに認証されて走っているシステムが受けなければならないのと同じ軌跡記録を求めない。
+システムがなお**最初の**[システム整合認証](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)にあり、まだ承認されていないなら — 承認が延期され、または拒否されるところを含む — 検証済み不遵守は、第一次には第七章のもとでの**認証の帰結**を決める。その帰結は、条件付き承認、承認の延期、非承認、または比較可能な結果でありうる。それらの認証記録は、事実が支えるときに、なお[第七章 §8](../../core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing)のもとで検証済み軌跡入力を供給してよい。本章は、すでに認証されて走っているシステムが受けなければならないのと同じ軌跡記録を求めない。
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 感知者と制度についての軌跡効果

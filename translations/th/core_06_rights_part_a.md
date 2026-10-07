@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [บทที่เจ็ด §4 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ข้อจำกัดการเปิดเผยทางญาณ](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ข้อจำกัดการเปิดเผยทางญาณ](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [บทที่เจ็ด §4 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เจ็ด §4 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.1 ความปลอดภัย](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เจ็ด §4 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - อ่านคู่กับ: [มาตรา XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*สิทธิในการย้าย*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — ประเภทข้อมูลและการจัดการ**; **CJS-3.17** (*เงื่อนไขการทำงานร่วมกัน การย้าย และความครบถ้วนของการออก*) และ **CJS-3.18** (*เงื่อนไขการเก็บข้อมูลและความครบถ้วนของวงชีวิต*); [บทที่หนึ่ง §11.6 ความรับผิดผู้สืบทอดและการไม่หนีด้วยโครงรูป](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [บทที่เก้า §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) และ [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§3.2 ความจริง](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [บทที่เจ็ด §4 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§10 การปกครองภายใต้วินัยการบริหารอย่างรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - อ่านคู่กับ: ครอบครัวการวัดความต่อเนื่อง (*การพึ่งพาและกระแสทรัพยากรเป็นการวัดทางรัฐธรรมนูญ*); [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การกำกับดูแล** ผ่านแผนที่การพึ่งพาที่โปร่งใสและบันทึกกระแสทรัพยากรที่ตรวจได้ **การมีส่วนร่วม** ในการทบทวนที่โต้แย้งได้ภายใต้ **มาตรา XV-A** (*ความสามารถตรวจและหลักฐานที่สังเกตได้*); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **ความเจริญงอกงาม** (การจัดสรรต้นทุน–ประโยชน์ที่เห็น) และ **ความต่อเนื่อง** (ทัศนวิสัยการพึ่งพาที่ยืนยาวข้ามระบบที่เปลี่ยน)
 - ปลายทาง: [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เจ็ด](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ที่ระบบจัดสรร จัดเส้นทาง ให้ทุน หรือสกัดจากโครงสร้างพื้นฐานร่วมหรือการพึ่งพื้นฐาน; **[corpus_systems.md](../../corpus_systems.md)** **CS-9** (*การจัดสรรทรัพยากรและการบริหารอย่างรับผิดชอบทางทุน*) **CS-8** (*ความยั่งยืนแบบปรับตัวและความยืดหยุ่นของระบบนิเวศ*)
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ตามรอย</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เจ็ด §3 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§2 เป้าประสงค์พื้นฐาน: ความผาสุก](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [บทที่เจ็ด §4 การประเมินการรับรองทั้งระบบ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - อ่านคู่กับ: [*สถาปัตยกรรมการปกครอง การกำกับดูแล การพึ่งพา การกระจายอำนาจ ความเข้มข้น โครงตลาด และความครบถ้วนของเส้นทางออก*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (การเรียกร่วมที่ความเข้มข้น การกำกับดูแล การพึ่งพา โครงอำนาจปกครอง หรือการจัดเส้นทางสิ่งจูงใจตัดกับ **§5** / **§5** และวินัย *ปฏิสัมพันธ์ธรณีประตูความเข้มข้น* ในตัวบทปฏิบัติด้านล่าง)
 - อ่านคู่กับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — **การมีส่วนร่วม** ในเส้นทางท้าทายและโต้แย้ง **การกำกับดูแล** และการตรวจ **ความรับผิดชอบ** และการทบทวนแก้ไข **ความทันเวลา** ภายใต้ **มาตรา XXIV-C** (*พื้นการยุติที่ทันเวลาและต้านความล่าช้า*); [สองเป้าประสงค์ทางรัฐธรรมนูญ](core_00_preamble.md#two-constitutional-aims) — **ความเจริญงอกงาม** (ความเป็นธรรมข้ามระบบและห้ามสกัด) และ **ความต่อเนื่อง** (ความยั่งยืนระยะยาวและการให้ทุนระบบนิเวศ)
 - ปลายทาง: [การรับรองความสอดคล้องของระบบ](core_05_band_continuity.md#system-alignment-certification-constitutional) และ [บทที่เจ็ด](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) ที่ความเป็นธรรมข้ามระบบ การให้ทุนระบบนิเวศ หรือการสกัดยืนจากโครงสร้างพื้นฐานร่วมเป็นประเด็นอย่างเป็นสาระ

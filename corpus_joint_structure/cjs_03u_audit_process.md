@@ -140,11 +140,13 @@ Audit when any of the following applies (often more than one):
 |---|---|
 | Rights Floor — audit, transparency, independent verification | **Article XVI** (*Audit, Transparency, and Independent Verification*) (XVI-A / XVI-B / XVI-C) |
 | System Alignment Certification (large, forum-supervised, recognition-bearing) | **Chapter Eight** |
-| System Classification Record audit | **CS-3** §7.3 |
 | System Data Types Record audit | **CS-2** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-3.4** |
-| Complexity / comprehensibility audits (systems profile) | **CS-6**; **Article XXIII** (*Comprehensibility and Complexity Stewardship*) |
-| Claim integrity and independent verification terms | **CJS-3.5** |
+| System Classification Record audit | **CS-3** §7.3 |
+| Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-4** (*Critical system stewardship*) §CS-4.8 *Conduct, conflicts of interest, and independence* and §CS-4.11 *Integrated risk governance (Class A/B)* |
+| Continuous audit (systems layer: automated constitutional auditing) | **CS-5** (*Design, testing, verification, and deployment*) ACA. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XIX-B** (*Contestability and Proportional Restriction Limits*) and **Article XIX-C** (*Contribution, Competency Bars, and Named-Pathway Eligibility*), not this row |
+| Complexity audits (systems profile) | **CS-6**; **Article XXIII-B** (*Complexity Audit and Modularity Requirements*); applied to the steward organization under **CS-4** (*Critical system stewardship*) §CS-4.5 *Comprehensibility and complexity stewardship* |
+| Claim verification (material-claim verification scope, structured claim-testing, and correction integrity) | **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*); **Article XVI-C** (*Verification Accessibility*) |
 | Institutional transparency and accessible challenge and service pathways | **CI-8** (read with **CI-7.3** where monitoring or escalation applies) |
 | Forum performance, backlog, publication, accessibility | **CF-11** |
 | Cross-implementation trust when layers combine | **CJS-2.3** / **CJS-R17** |

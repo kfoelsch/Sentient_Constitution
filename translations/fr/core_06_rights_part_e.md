@@ -269,7 +269,7 @@ Les règles de gouvernance, les mécanismes de participation, les modèles de po
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : [Chapitre Un §18.4 Justification continue](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Chapitre Un [§3 Objectif fondamental : bien-être](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §14 Interdiction de toute dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- En amont : Principes : [Chapitre Un §18.4 Justification continue](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Chapitre Un [§3 Objectif fondamental : bien-être](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) et [Chapitre Un §14 Interdiction de toute dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -300,7 +300,7 @@ Le présent Article prévoit l’examen périodique et accéléré de la gouvern
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §14 Interdiction de toute dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- En amont : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) et [Chapitre Un §14 Interdiction de toute dérogation absolue](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -366,7 +366,7 @@ La gouvernance transitoire sert à assurer la continuité et à éviter la régr
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Chapitre Dix §5.4](core_10_standing_integration.md#54-special-violation-rules) (*le présent Article limite pendant la transition la perte de récompenses désadaptées et leur signalement*); [Chapitre Huit — Certification de l’alignement du système](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- En amont : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [Chapitre Dix §5.4](core_10_standing_integration.md#54-special-violation-rules) (*le présent Article limite pendant la transition la perte de récompenses désadaptées et leur signalement*); [Chapitre Huit — Certification de l’alignement du système](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -523,7 +523,7 @@ Le présent Article prévoit des voies de sortie en cas d’échec, le réétalo
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §13.1.5 Procédure de conflit entre droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §13.1.5 Procédure de conflit entre droits](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) et [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - À lire avec : **Article III-A** (*Survie*); **Article XIII** (*Droit à des systèmes fiables et dignes de confiance*); **Article XI-G** (*Limite des préjudices collectifs et interface d’application*); **Chapitre Neuf**; **Chapitre Un**, y compris le §6 sur la procédure de conflit entre droits; l’**ensemble de contraintes par défaut** à l’ouverture du Chapitre Six (*interface entre possession et mesures correctives*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*biens non conformes, saisie et incitations volontaires*) à **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Gouvernance transitoire et évolution institutionnelle*).
 
 </details>

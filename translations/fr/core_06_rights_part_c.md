@@ -123,7 +123,7 @@ Deux garanties agissent ensemble pour protéger ce droit : la certification rend
 - aux moyens de le contester ;
 - à la manière dont les problèmes sont corrigés.
 
-Si le système atteint le seuil d’importance fixé par l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*), la certification comprend également un examen de fiabilité au titre du [Chapitre Huit §3.9.6 Évaluation de la fiabilité et de l’intégrité de la dépendance au système](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+Si le système atteint le seuil d’importance fixé par l’**Article XIII** (*Droit à des systèmes fiables et dignes de confiance*), la certification comprend également un examen de fiabilité au titre du [Chapitre Huit §4.8.6 Évaluation de la fiabilité et de l’intégrité de la dépendance au système](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **La possibilité de contestation maintient l’honnêteté du côté du sentient :** la certification évalue un système, mais n’a pas le dernier mot à son sujet. Tout sentient affecté par le système conserve :
 
@@ -363,7 +363,7 @@ Le présent Article précise comment les systèmes à forte autonomie restent so
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Conception résiliente et autoréparatrice](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chapitre Un §13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Conception résiliente et autoréparatrice](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chapitre Un §13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) et [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -715,7 +715,7 @@ Des informations exactes, pertinentes et contestables sont fondamentales pour l�
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) et [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -789,7 +789,7 @@ Le présent Article fixe les seuils d’une enquête authentique, de la provenan
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) et [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -941,7 +941,7 @@ Le présent Article fixe le seuil des éléments de preuve observables et contes
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §18 Gouvernance sous discipline de stewardship](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) et [Chapitre Un §18 Gouvernance sous discipline de stewardship](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1050,7 +1050,7 @@ Les sentients ont droit à une stewardship qui préserve la sécurité, l’int�
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1086,7 +1086,7 @@ Le présent Article fixe le seuil d’intégrité des environnements :
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1120,7 +1120,7 @@ Le présent Article fixe les seuils applicables au déploiement progressif et à
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1179,7 +1179,7 @@ La poursuite légitime passe par la [Tétrade constitutionnelle](core_00_preambl
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1247,7 +1247,7 @@ Le présent Article fixe les seuils de confinement, de divulgation, d’adhésio
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §4 Évaluation de certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
