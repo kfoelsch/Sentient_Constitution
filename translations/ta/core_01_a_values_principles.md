@@ -1920,7 +1920,7 @@ flowchart TB
 
 விரிவான மதிப்பீட்டுக் காரணிகள் மற்றும் சான்றளிப்புப் பதிவுகளுக்குப் பொறுப்பானவை:
 - **[எட்டாம் அத்தியாயம் §4 முழு அமைப்புச் சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[எட்டாம் அத்தியாயம் §6 அமைப்புச் சான்றளிப்புப் பதிவு](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[எட்டாம் அத்தியாயம் §7 அமைப்புச் சான்றளிப்புப் பதிவு](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — அமைப்பு வகைப்படுத்தலும் கையாளுதலும்**.
 
 அந்த எட்டாம் அத்தியாய நடைமுறை:

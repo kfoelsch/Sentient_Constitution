@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **672** of **942** headings carry a gloss (71%).
+Coverage: **675** of **943** headings carry a gloss (72%).
 
 ## Contents
 
@@ -25,14 +25,14 @@ Coverage: **672** of **942** headings carry a gloss (71%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (78/90 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (28/89 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (30/91 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (9/10 glossed)
 - [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (16/24 glossed)
-- [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (9/15 glossed)
+- [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (10/14 glossed)
 - [CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-eight-part-c-system-alignment-certification--illustrations) — `core_08_c_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-eight-system-alignment-certification-reading-index) — `core_08_system_alignment_certification.md` (1/1 glossed)
 - [CHAPTER NINE: CONTRIBUTION, VIOLATION, AND STANDING MODEL — MEASUREMENT](#chapter-nine-contribution-violation-and-standing-model--measurement) — `core_09_standing_assessment.md` (13/33 glossed)
@@ -70,7 +70,7 @@ shared systems cannot run on guesswork or vanity metrics. Measure whether sentie
 
 #### 3. Governance and Stewardship
 
-legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And people like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.
+legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And sentients like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.
 
 [Source](../../core_00_preamble.md#3-governance-and-stewardship)
 
@@ -1746,7 +1746,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 28/89 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 30/91 headings glossed
 
 #### Continuity: Independent terms
 
@@ -2065,6 +2065,18 @@ do not wait for capture to show up. Where concentrated power or incentives could
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05_band_continuity.md#system-boundary-integrity)
+
+##### Process
+
+a **Process** is a repeatable way a duty actually gets carried out: the steps, decisions, records, deadlines, and handoffs. It is judged as part of the system it runs in. It does not get its own class or its own certification.
+
+[Source](../../core_05_band_continuity.md#process)
+
+##### Institution
+
+an **Institution** is a lasting holder of authority, such as an office, agency, organization, or forum. It keeps its mandate when its occupants change. What counts is what it actually decides and who answers for it, not what it calls itself or how it is incorporated.
+
+[Source](../../core_05_band_continuity.md#institution)
 
 ##### Charter
 
@@ -3154,7 +3166,7 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 ##### 1.1 Certification at a glance
 
-classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, gather them into one record, decide an outcome, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.
+classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, gather it all into one record, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance)
 
@@ -3286,7 +3298,7 @@ when a system materially affects whether sentients can trust what it says and do
 
 ## CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 
-Source file: [`core_08_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) · 9/15 headings glossed
+Source file: [`core_08_b_system_alignment_certification_record_process.md`](../../core_08_b_system_alignment_certification_record_process.md) · 10/14 headings glossed
 
 #### 5. Forum Process
 
@@ -3318,59 +3330,53 @@ when this section says **stay**, it means a temporary pause — holding off fina
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#54-anti-bypass)
 
-#### 6. System Certification Record
+#### 6. Certification Outcomes
+
+every certification ends in a stated outcome. The forum decides it after the review, and the record that follows must state it. Defects found in any evaluation are not paperwork mistakes: they can lead to conditions, deferral, refusal, withdrawal, or a fresh review.
+
+[Source](../../core_08_b_system_alignment_certification_record_process.md#6-certification-outcomes)
+
+#### 7. System Certification Record
 
 a certification record is the auditable case file for one system under review — who runs it, what was checked, what was found, what was decided, and how to challenge it. It is not a marketing packet or a one-line approval stamp. Record depth, disclosure, and challenge burden scale with system class under [Illustrative class profiles (non-exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) — a **Class A** survival-critical system requires a fuller, more contestable file than a **Class C** coordination layer, though both must state class honestly and reflect required evaluations.
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)
 
-##### 6.1 Minimum record contents
+##### 7.1 Minimum record contents
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#71-minimum-record-contents)
 
-##### 6.2 Record integrity: transparency and auditability
+##### 7.2 Record integrity: transparency and auditability
 
 a certification record only works if sentients can read it and check it. This section puts transparency and auditability directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XVI** (*Audit, Transparency, and Independent Verification*) or sibling audit modes. The third requirement — that sentients can push back — is in [§3 Challenging a Certification](../../core_08_a_system_alignment_certification_evaluation.md#3-challenging-a-certification).
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#72-record-integrity-transparency-and-auditability)
 
-#### 7. Outcomes, Recertification, and Reopening
+#### 8. Recertification and Reopening
 
-every certification ends in a stated outcome, and no outcome lasts forever. When the system, the risks, or the facts change — or when someone credibly challenges the record — review must reopen. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.
+no outcome lasts forever. This is the operating phase: a recognized system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#7-outcomes-recertification-and-reopening)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#8-recertification-and-reopening)
 
-##### 7.1 Certification outcomes
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_b_system_alignment_certification_record_process.md#71-certification-outcomes)
-
-##### 7.2 Recertification and reopening
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_b_system_alignment_certification_record_process.md#72-recertification-and-reopening)
-
-###### 7.2.1 Provisional and full recognition
+##### 8.1 Provisional and full recognition
 
 a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now and nothing heading that way graduates to full recognition and a longer interval. Failing a check sends it back to the short leash.
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#721-provisional-and-full-recognition)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#81-provisional-and-full-recognition)
 
-##### 7.3 Non-evasion
+##### 8.2 Non-evasion
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#73-non-evasion)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#82-non-evasion)
 
-#### 8. Relationship to Standing
+#### 9. Relationship to Standing
 
 certification can feed standing, but it is not standing. The certification record of a recognized system, good or bad, may supply verified facts to Chapter Nine — only through a strict gate — and Chapters Nine and Ten alone decide standing records and effects.
 
-[Source](../../core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing)
+[Source](../../core_08_b_system_alignment_certification_record_process.md#9-relationship-to-standing)
 
 ## CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS
 

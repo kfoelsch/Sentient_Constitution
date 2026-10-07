@@ -1920,7 +1920,7 @@ flowchart TB
 
 Подробными факторами оценки и записями о сертификации ведают:
 - **[глава восьмая, §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[глава восьмая, §6 Запись о сертификации системы](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[глава восьмая, §7 Запись о сертификации системы](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — Классификация и обработка систем**.
 
 Процесс главы восьмой:

@@ -1920,7 +1920,7 @@ Setiap klaim mengenai hal-hal di bawah ini harus diperiksa terhadap apa yang seb
 
 Faktor evaluasi terperinci dan catatan sertifikasi menjadi tanggung jawab:
 - **[Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[Bab Delapan §6 Catatan Sertifikasi Sistem](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[Bab Delapan §7 Catatan Sertifikasi Sistem](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — Klasifikasi dan penanganan sistem**.
 
 Proses Bab Delapan tersebut:

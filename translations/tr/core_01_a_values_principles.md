@@ -1920,7 +1920,7 @@ Aşağıdaki konulara ilişkin her iddia, tüm sistemin zaman içinde gerçekte 
 
 Ayrıntılı değerlendirme etkenleri ve sertifikasyon kayıtlarının sorumluluğu şunlardadır:
 - **[Sekizinci Bölüm §4 Tüm Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[Sekizinci Bölüm §6 Sistem Sertifikasyon Kaydı](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[Sekizinci Bölüm §7 Sistem Sertifikasyon Kaydı](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — Sistem sınıflandırması ve işleme**.
 
 Sekizinci Bölüm süreci:

@@ -1920,7 +1920,7 @@ flowchart TB
 
 विस्तृत मूल्यांकन कारक और प्रमाणन अभिलेख इनके अधीन हैं:
 - **[अध्याय आठ §4 पूरी प्रणाली का प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[अध्याय आठ §6 प्रणाली प्रमाणन अभिलेख](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[अध्याय आठ §7 प्रणाली प्रमाणन अभिलेख](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — प्रणाली वर्गीकरण और प्रबंधन**।
 
 अध्याय आठ की वह प्रक्रिया:

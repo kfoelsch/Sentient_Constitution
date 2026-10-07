@@ -1920,7 +1920,7 @@ Mọi tuyên bố về các nội dung dưới đây phải được đối chi�
 
 Các yếu tố đánh giá chi tiết và hồ sơ chứng nhận thuộc trách nhiệm của:
 - **[Chương Tám §4 Đánh giá chứng nhận toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[Chương Tám §6 Hồ sơ chứng nhận hệ thống](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[Chương Tám §7 Hồ sơ chứng nhận hệ thống](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — Phân loại và xử lý hệ thống**.
 
 Quy trình ở Chương Tám:

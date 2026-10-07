@@ -1921,7 +1921,7 @@ flowchart TB
 
 వివరణాత్మక మూల్యాంకన అంశాలు, ధృవీకరణ రికార్డుల బాధ్యత కింది వాటిదే:
 - **[ఎనిమిదవ అధ్యాయం §4 సమగ్ర-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[ఎనిమిదవ అధ్యాయం §6 వ్యవస్థ ధృవీకరణ రికార్డు](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[ఎనిమిదవ అధ్యాయం §7 వ్యవస్థ ధృవీకరణ రికార్డు](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — వ్యవస్థ వర్గీకరణ, నిర్వహణ**.
 
 ఎనిమిదవ అధ్యాయం ప్రక్రియ:

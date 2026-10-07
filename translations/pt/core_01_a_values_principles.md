@@ -1920,7 +1920,7 @@ Toda alegação sobre os assuntos abaixo deve ser verificada em relação ao que
 
 Os fatores detalhados de avaliação e os registros de certificação são de responsabilidade de:
 - **[Capítulo Oito §4 Avaliação de Certificação do Sistema Integral](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**;
-- **[Capítulo Oito §6 Registro de Certificação do Sistema](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**;
+- **[Capítulo Oito §7 Registro de Certificação do Sistema](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**;
 - **[corpus_systems.md](corpus_systems.md), CS-3 — Classificação e tratamento de sistemas**.
 
 Esse processo do Capítulo Oito:

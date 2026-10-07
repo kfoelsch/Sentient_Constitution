@@ -1920,7 +1920,7 @@ flowchart TB
 
 تتولى الجهات التالية مسؤولية عوامل التقييم التفصيلية وسجلات الاعتماد:
 - **[الفصل الثامن §4 تقييم اعتماد النظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**؛
-- **[الفصل الثامن §6 سجل اعتماد النظام](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**؛
+- **[الفصل الثامن §7 سجل اعتماد النظام](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**؛
 - **[corpus_systems.md](corpus_systems.md)، CS-3 — تصنيف الأنظمة ومعالجتها**.
 
 إن إجراء الفصل الثامن:
