@@ -29,6 +29,7 @@ import json
 import re
 import sys
 from collections import Counter
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -310,6 +311,43 @@ def compare(before: dict, after: dict, threshold: float) -> tuple[list[str], lis
     return failures, notes
 
 
+def slim_evidence(before: dict, after: dict, findings: list[str], notes: list[str]) -> dict:
+    """Evidence payload that keeps only what a reviewer needs.
+
+    Unchanged obligations carry no information, and each record's ``terms`` list
+    is computed from its ``text`` by ``content_terms``, so neither is stored.
+    What remains is per-file counts, the obligations that were removed or added
+    (modality and wording), and the findings and notes. The full inventories can
+    be rebuilt from git plus ``--snapshot``; pass ``--full-evidence`` to write
+    them anyway.
+    """
+    files: dict[str, dict] = {}
+    changes: dict[str, dict] = {}
+    for path in sorted(set(before["files"]) | set(after["files"])):
+        old = Counter((i["modality"], i["text"]) for i in before["files"].get(path, []))
+        new = Counter((i["modality"], i["text"]) for i in after["files"].get(path, []))
+        files[path] = {
+            "before": sum(old.values()),
+            "after": sum(new.values()),
+            "unchanged": sum((old & new).values()),
+        }
+        removed = sorted((old - new).elements())
+        added = sorted((new - old).elements())
+        if removed or added:
+            changes[path] = {
+                "removed": [{"modality": m, "text": t} for m, t in removed],
+                "added": [{"modality": m, "text": t} for m, t in added],
+            }
+    return {
+        "format": "obligation-diff-slim/1",
+        "generated": after.get("generated"),
+        "files": files,
+        "changes": changes,
+        "findings": findings,
+        "notes": notes,
+    }
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", type=Path, default=ROOT)
@@ -323,6 +361,11 @@ def parse_args() -> argparse.Namespace:
         help="Minimum fraction of a clause's terms that must survive at the same modality.",
     )
     parser.add_argument("--write-evidence", action="store_true")
+    parser.add_argument(
+        "--full-evidence",
+        action="store_true",
+        help="With --write-evidence: also store the complete before/after inventories (large).",
+    )
     return parser.parse_args()
 
 
@@ -343,18 +386,12 @@ def main() -> int:
             stem = Path(args.compare).stem.replace("obligation_snapshot", "").strip("_")
             suffix = f"_{stem}" if stem else ""
             target = out_dir / f"obligation_inventory_diff{suffix}.json"
-            target.write_text(
-                json.dumps(
-                    {
-                        "before": before,
-                        "after": after,
-                        "findings": findings,
-                        "notes": notes,
-                    },
-                    indent=2,
-                ),
-                encoding="utf-8",
+            payload = (
+                {"before": before, "after": after, "findings": findings, "notes": notes}
+                if args.full_evidence
+                else slim_evidence(before, after, findings, notes)
             )
+            target.write_text(json.dumps(payload, indent=2), encoding="utf-8")
             print(f"Evidence: {target.relative_to(root)}")
 
         total_before = sum(len(v) for v in before["files"].values())

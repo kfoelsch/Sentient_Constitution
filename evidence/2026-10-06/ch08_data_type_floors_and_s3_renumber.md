@@ -29,7 +29,7 @@
 ## Non-regression self-check (Test 1)
 
 - **No Rights Floor narrowed.** Finding 1 generalizes a floor (Type N → every applicable type) and keeps Type N/VII-B named explicitly. Findings 2–3 add types to existing lists.
-- **Obligation diff** ([obligation_inventory_diff_ch08_type_floors_s3.json](obligation_inventory_diff_ch08_type_floors_s3.json)), 14 core/CS files, 2016 → 2015 obligations, 4 flags:
+- **Obligation diff** ([obligation_inventory_diff_ch08_type_floors_s3.json](obligation_inventory_diff_ch08_type_floors_s3.json)), 14 core/CS files, 2016 → 2015 obligations, 4 flags. The file is slim (14 KB): it holds per-file counts, the 33 changed obligations in old and new wording, and the findings and notes. Unchanged records (98%) and the derived `terms` lists are not stored; `tools/obligation_inventory_diff.py --full-evidence` writes the complete inventories, which can also be rebuilt from git and `--snapshot`:
   - `core_08_a` **DROPPED or WEAKENED PROHIBITION** ("A Class A survival-critical system must not be downclassified…") and `core_08_c` **ADDED PROHIBITION / ADDED DUTY**: one item **moved**, not dropped (finding 6). The rule also stands in Part A itself: §2 requires the System Classification Record to show the **highest class that applies** under current conditions and treats keeping an old class label after conditions change as a defect; §2.1 requires a system whose real role outgrows its class to be reclassified and re-evaluated.
   - `core_08_a` **ADDED DUTY** (Type W/U/T creator-control check): intended (finding 2). It adds certification burden only where those types are in scope, and implements duties CS-2 Part B §9.9–§9.13 already set.
 - **The renumber changes no wording of any duty**; only section labels and link targets move.
