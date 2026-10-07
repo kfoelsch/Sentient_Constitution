@@ -226,6 +226,22 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
 
 **Privacy discipline in the restricted and non-accessible bands.** [Chapter One §13.2.3 Privacy and Informational Self-Determination](../core_01_b_interaction_interpretation.md#1323-privacy-and-informational-self-determination) applies most directly to the **restricted by default** and **non-accessible by default** bands. Its disciplines are [Necessity](../core_05_band_accountability.md#necessity), [Proportionality](../core_05_band_accountability.md#proportionality), minimization, and [Consent](../core_05_band_participation.md#consent) or other adequate authority. Band rules carry out those disciplines. They do not replace the [privacy homes](cs_02_b_data_classifications.md#privacy-link) named on each type.
 
+**Protective storage and key custody.**
+
+*In plain terms: restricted data stays encrypted wherever it is kept, is opened only inside the part of the system that needs it, and its keys go only to that part. The owner can still keep a plain copy of their own, and audit, export, and lawful-override routes keep working.*
+
+Systems holding data in the **restricted by default** or **non-accessible by default** band must:
+- keep it **encrypted in storage**, including backups, caches, logs, swap, and crash dumps
+- **decrypt it only** inside the process or component that needs it for the justified purpose, and hold plaintext in memory no longer than that purpose requires, with memory isolation or protection proportionate to system class under CS-3 (*System classification machinery*)
+- **limit encryption keys** to the processes that need direct access to the data, enforced by the platform layer (operating system, hypervisor, runtime, or hardware) and kept separate from the data they protect
+- keep **audit, export, and lawful-override** paths working through logged, authorized use of keys, not through bypass or undisclosed key escrow
+
+This floor has four limits:
+- **Owner's own copy.** It does not require encrypting a copy the data's owner chooses to keep under their own control — the creator for **Type Y**, the sentient the data concerns for **Type H**, **Type I**, and **Type N**. That choice must meet the shared consent-integrity standard above, must not come from defaults or pressure, and cannot remove another party's protection in the same data (**Article IX-B** (*Experiential and Derived Data Rights*)). **Type S** has no owner exception.
+- **Keys are protected material.** Keys and other cryptographic material that protect this data are handled as **Type S** under [Part B §9.7](cs_02_b_data_classifications.md#97-type-s-safety-security-and-restricted-investigation-data) (*Type S: Safety, security, and restricted investigation data*) where that entry applies.
+- **No lock-out.** Encryption, key rotation, and key loss must not defeat export under [§1.2 Continuity-critical collection and exportability](#12-continuity-critical-collection-and-exportability) or access-control integrity under [§5.3 Tiered transparency and audit access](#53-tiered-transparency-and-audit-access).
+- **Key destruction and deletion.** Destroying the only keys to encrypted data counts as deletion only when it is irreversible and no copy of the keys survives. **Article II-E** (*Data Handling and Network Dependency*) still applies: hiding data is not deletion.
+
 **Shared anti-abuse limits.** Across all types, systems must **not**:
 - use data handling to enable **coercion, surveillance, or manipulation** (**Article VII-B** (*Self-Ownership of Mind*)), including consolidating power or control through data or identity dependency (**CJS-3.17** (*interoperability, portability, and exit-integrity terms*))
 - **restrict access** to participation, resources, or systems **without justified cause** (**CJS-3.12** (*burden-of-justification and constraint terms*))

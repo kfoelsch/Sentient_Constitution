@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 940,
+  "chunk_count": 933,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -3701,105 +3701,56 @@
       "heading": "3.7 Data Types and Handling Evaluation",
       "anchor": "#37-data-types-and-handling-evaluation",
       "line_start": 384,
-      "line_end": 415
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3.7.1 Illustrative data-handling application by class (non-exhaustive)",
-      "anchor": "#371-illustrative-data-handling-application-by-class-non-exhaustive",
-      "line_start": 416,
-      "line_end": 424
+      "line_end": 484
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8 Rights-Floor and Domain Evaluations",
       "anchor": "#38-rights-floor-and-domain-evaluations",
-      "line_start": 425,
-      "line_end": 462
+      "line_start": 485,
+      "line_end": 522
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.1 Ecological Footprint Evaluation",
       "anchor": "#381-ecological-footprint-evaluation",
-      "line_start": 463,
-      "line_end": 486
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)",
-      "anchor": "#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive",
-      "line_start": 487,
-      "line_end": 495
+      "line_start": 523,
+      "line_end": 574
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.2 Proportionate Cross-System Support Evaluation",
       "anchor": "#382-proportionate-cross-system-support-evaluation",
-      "line_start": 496,
-      "line_end": 537
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)",
-      "anchor": "#3821-illustrative-cross-system-support-application-by-class-non-exhaustive",
-      "line_start": 538,
-      "line_end": 546
+      "line_start": 575,
+      "line_end": 676
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.3 Nondiscrimination Evaluation",
       "anchor": "#383-nondiscrimination-evaluation",
-      "line_start": 547,
-      "line_end": 572
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-      "anchor": "#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive",
-      "line_start": 573,
-      "line_end": 581
+      "line_start": 677,
+      "line_end": 716
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.4 Accessibility Evaluation",
       "anchor": "#384-accessibility-evaluation",
-      "line_start": 582,
-      "line_end": 613
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3.8.4.1 Illustrative accessibility application by class (non-exhaustive)",
-      "anchor": "#3841-illustrative-accessibility-application-by-class-non-exhaustive",
-      "line_start": 614,
-      "line_end": 622
+      "line_start": 717,
+      "line_end": 762
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.5 Educational Capability and Learning-System Integrity Evaluation",
       "anchor": "#385-educational-capability-and-learning-system-integrity-evaluation",
-      "line_start": 623,
-      "line_end": 648
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)",
-      "anchor": "#3851-illustrative-educational-capability-application-by-class-non-exhaustive",
-      "line_start": 649,
-      "line_end": 657
+      "line_start": 763,
+      "line_end": 802
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.6 Trustworthiness and System-Reliance Integrity Evaluation",
       "anchor": "#386-trustworthiness-and-system-reliance-integrity-evaluation",
-      "line_start": 658,
-      "line_end": 683
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)",
-      "anchor": "#3861-illustrative-trustworthiness-application-by-class-non-exhaustive",
-      "line_start": 684,
-      "line_end": 695
+      "line_start": 803,
+      "line_end": 845
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",

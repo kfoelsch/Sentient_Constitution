@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **672** of **949** headings carry a gloss (71%).
+Coverage: **672** of **942** headings carry a gloss (71%).
 
 ## Contents
 
@@ -31,7 +31,7 @@ Coverage: **672** of **949** headings carry a gloss (71%).
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (9/10 glossed)
-- [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (15/29 glossed)
+- [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (15/22 glossed)
 - [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (10/17 glossed)
 - [CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-eight-part-c-system-alignment-certification--illustrations) — `core_08_c_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-eight-system-alignment-certification-reading-index) — `core_08_system_alignment_certification.md` (1/1 glossed)
@@ -3144,7 +3144,7 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 ## CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) · 15/29 headings glossed
+Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) · 15/22 headings glossed
 
 #### 1. Purpose and Role
 
@@ -3230,15 +3230,9 @@ certification also has to look at what kinds of data the system touches and whet
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#37-data-types-and-handling-evaluation)
 
-###### 3.7.1 Illustrative data-handling application by class (non-exhaustive)
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#371-illustrative-data-handling-application-by-class-non-exhaustive)
-
 ##### 3.8 Rights-Floor and Domain Evaluations
 
-some systems have a big effect on whether sentients get their basic protections — food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the check has to be real — not a box the operator ticked. The table shows which protection each check covers, when it applies, and where it is evaluated.
+some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the check has to be real — not a box the operator ticked. The table shows which protection each check covers, when it applies, and where it is evaluated.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#38-rights-floor-and-domain-evaluations)
 
@@ -3248,23 +3242,11 @@ certification has to evaluate attributable environmental burdens honestly when t
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#381-ecological-footprint-evaluation)
 
-###### 3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive)
-
 ###### 3.8.2 Proportionate Cross-System Support Evaluation
 
 when a system materially draws on shared foundations, certification has to check whether it puts enough traceable support back — not whether the operator says the books balance. Allocation formulas and numeric targets live in other instruments; certification checks that dependency maps, return flows, and cross-system fairness were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#3821-illustrative-cross-system-support-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#382-proportionate-cross-system-support-evaluation)
-
-###### 3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#3821-illustrative-cross-system-support-application-by-class-non-exhaustive)
 
 ###### 3.8.3 Nondiscrimination Evaluation
 
@@ -3272,23 +3254,11 @@ when a system materially decides who gets in, who pays more, who ranks lower, or
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation)
 
-###### 3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive)
-
 ###### 3.8.4 Accessibility Evaluation
 
 when a system materially controls whether sentients can actually take part — not just whether a door is labeled "open" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other instruments, later corpus additions, or adoption instruments; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.4.1 Illustrative accessibility application by class (non-exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#3841-illustrative-accessibility-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation)
-
-###### 3.8.4.1 Illustrative accessibility application by class (non-exhaustive)
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#3841-illustrative-accessibility-application-by-class-non-exhaustive)
 
 ###### 3.8.5 Educational Capability and Learning-System Integrity Evaluation
 
@@ -3296,23 +3266,11 @@ when a school, platform, or training system can materially affect a sentient's f
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#385-educational-capability-and-learning-system-integrity-evaluation)
 
-###### 3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#3851-illustrative-educational-capability-application-by-class-non-exhaustive)
-
 ###### 3.8.6 Trustworthiness and System-Reliance Integrity Evaluation
 
 when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other instruments; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)](../../core_08_c_system_alignment_certification_illustrations.md#3861-illustrative-trustworthiness-application-by-class-non-exhaustive).
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation)
-
-###### 3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#3861-illustrative-trustworthiness-application-by-class-non-exhaustive)
 
 ## CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS
 

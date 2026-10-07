@@ -14,7 +14,7 @@
 > | **Part B — Record and process** | [`core_08_b_system_alignment_certification_record_process.md`](core_08_b_system_alignment_certification_record_process.md) | §4–§7: the certification record and its integrity (including governing [Charter](core_05_band_continuity.md#charter) fields), forum process (roles, supervisory sequence, and challenge paths), outcomes, recertification, and reopening, and the standing bridge — continuous chapter numbering from Part A §3 |
 > | **Part C — Illustrations** | [`core_08_c_system_alignment_certification_illustrations.md`](core_08_c_system_alignment_certification_illustrations.md) | the illustrative class profiles, §3.7, §3.7.1, and §3.8.1.1–§3.8.6.1: worked Class A / B / C walkthroughs for each Part A evaluation area, numbered to match Part A and linked both ways |
 >
-> The illustration sections (§3.7, §3.7.1, and §3.8.1.1–§3.8.6.1) also appear on Part A as short pointers that keep each section's binding **Reading across classes** paragraph; the narratives are in Part C. Generic **Chapter Eight** links in other files route to the appropriate part by section number.
+> The illustration sections (§3.7.1 and §3.8.1.1–§3.8.6.1), including their **Reading across classes** paragraphs, are in Part C only; the binding class-scaling and escalation rules they illustrate stay in Part A (§2.1, §3.7, and §3.8.1–§3.8.6). Generic **Chapter Eight** links in other files route to the appropriate part by section number.
 > Institutional Charter formation, minimum fields, and periodic-review duties live in [`corpus_institutions`](corpus_institutions/ci_03_institutional_design_separation_of_powers.md) **CI-3.6** — Chapter Eight consumes those fields; it does not redefine them.
 
 </details>

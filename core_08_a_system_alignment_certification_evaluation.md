@@ -8,7 +8,7 @@
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations elsewhere in this file or in other chapters.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part A** — certification purpose, the process overview, and **evaluation** requirements (system class and whole-system evaluation — including data types and the Rights-Floor and domain evaluations — **§1–§3**). The worked **Class A / B / C illustrations** (the class profiles, §3.7, §3.7.1, and §3.8.1.1–§3.8.6.1) are in [`core_08_c_system_alignment_certification_illustrations.md`](core_08_c_system_alignment_certification_illustrations.md); each keeps its Part A section number and anchor, and its place here is a short pointer followed by that section's binding **Reading across classes** paragraph. Class scaling, including participation and proportionality, is §2.1 in this file. **Part B** — certification record, forum process, outcomes and reopening, and standing bridge (**§4–§7**) — is in [`core_08_b_system_alignment_certification_record_process.md`](core_08_b_system_alignment_certification_record_process.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one instrument. It contains **Chapter Eight, Part A** — certification purpose, the process overview, and **evaluation** requirements (system class and whole-system evaluation — including data types and the Rights-Floor and domain evaluations — **§1–§3**). The worked **Class A / B / C illustrations** (the class profiles, §3.7.1, and §3.8.1.1–§3.8.6.1), including each one's **Reading across classes** paragraph, are in [`core_08_c_system_alignment_certification_illustrations.md`](core_08_c_system_alignment_certification_illustrations.md); each keeps its Part A section number. The binding class-scaling and escalation rules those paragraphs illustrate stay in this file: class scaling, including participation and proportionality, in §2.1; data-handling scaling in §3.7; and the **Class scaling and escalation** paragraph in each of §3.8.1–§3.8.6. **Part B** — certification record, forum process, outcomes and reopening, and standing bridge (**§4–§7**) — is in [`core_08_b_system_alignment_certification_record_process.md`](core_08_b_system_alignment_certification_record_process.md).
 >
 > - **Constitutional owner (joint with Part B):** forum-supervised **system alignment certification and related records** — evaluation domains (Part A); certification-record duties, forum process, supervisory sequence, challenge paths, recognition outcomes, recertification and reopening, and verified-input bridge to Chapter Nine (Part B). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVI** (*Audit, Transparency, and Independent Verification*) and Chapter Five [Auditability](core_05_band_oversight.md#auditability).
 > - **Verification substrate owner:** [Chapter Four — Burden of Proof, Traceability, and Verification](core_04_burden_traceability_verification.md#chapter-four-burden-of-proof-traceability-and-verification) (within Chapters Two through Four) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Eight **applies** that discipline to system alignment certification records; it does **not** restate Chapter Four sections **1** through **5**.
@@ -397,27 +397,87 @@ For that discipline, certification must read:
 
 *In plain terms: certification also has to look at what kinds of data the system touches and whether it handles them appropriately — including whether types are still right on the current review cycle, and whether the underlying infrastructure is strong enough for that data at that system class. The type rules and the System Data Types Record live in the systems corpus; certification checks that the rules were actually applied and that the record is honest.*
 
-System alignment certification must evaluate **data types and handling** as part of every materially impactful certification record. Canonical information-type definitions, handling rules, separation requirements, lifecycle detail, and the durable [System Data Types Record](core_05_band_continuity.md#system-data-types-record) live in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**. This section states what certification must verify; it does not restate CS-2 (*Information types and handling*) type taxonomy or handling mechanics.
+System alignment certification must evaluate **data types and handling** as part of every materially impactful certification record. This section states what certification must verify. It does not restate the CS-2 (*Information types and handling*) type taxonomy or handling mechanics. Those live in **[corpus_systems.md](corpus_systems.md), CS-2 — Information types and handling**, together with:
 
-**Evaluation requirement.** A certification process must determine whether the system identifies the data types materially in scope and handles them under the **most restrictive applicable** classification, including across transformation, aggregation, delegation, storage, retention, and cross-domain linkage. Evaluation must reflect functional effect, not label, format, or pipeline stage alone. Where the **[CS-2 Part A §7 Type O baseline](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** applies, certification must also verify that published [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) covers the **certified scope** — mapped from the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument), assigned class, and observed [System Boundaries](core_05_band_continuity.md#system-boundaries) — with justified hold-backs paired to maximum feasible public substitutes; Chapter Five owns the term; CS-2 (*Information types and handling*) owns baseline content and release mechanics.
+- canonical information-type definitions;
+- handling rules and separation requirements;
+- lifecycle detail; and
+- the durable [System Data Types Record](core_05_band_continuity.md#system-data-types-record).
 
-**Privacy discipline.** For **Type H**, **Type I**, **Type N**, **Type S**, and **Type Y** data, certification must also verify that handling satisfies the [privacy homes](corpus_systems/cs_02_b_data_classifications.md#privacy-link) each type names in **CS-2** (*Information types and handling*), including [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), minimization, and consent or other adequate authority. Where more than one privacy locus is implicated, [§3.2 Privacy (Informational) Joint Invocation](#32-privacy-informational-joint-invocation) also applies. A correct type label does not by itself show privacy compliance. For **Type W**, **Type U**, and **Type T** works, certification must also verify that the creator's control is honored — including withdrawal of a public release under [CS-2 Part B §9.9](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*Type W: Works, published*), the limits of each recorded grant under [CS-2 Part B §9.13](corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*Commercial grants*), and the creator's [reserved rights](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights) — and that no grant is treated as consent to a use it does not name.
+**Evaluation requirement.** A certification process must determine whether the system:
 
-**Periodic data-type re-evaluation.** On every materially impactful certification or recertification cycle, the process must verify that material datasets in scope were **periodically re-evaluated** for appropriate classification under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*), and were **reclassified** where that review required it. Cadence must scale with system class and material impact under [§2 System Class Evaluation](#2-system-class-evaluation). Event-triggered retyping under CS-2 (*Information types and handling*) does not replace this periodic certification check.
+- identifies the data types materially in scope; and
+- handles them under the **most restrictive applicable** classification, including across transformation, aggregation, delegation, storage, retention, and cross-domain linkage.
 
-**Class-scaled infrastructure assurance.** Under [§2.1 How class scales every evaluation](#21-how-class-scales-every-evaluation) and CS-3 (*System classification machinery*), higher-class systems require proportionately stronger evidence that handling, storage, processing, transmission, backup, recovery, and monitoring infrastructure can preserve classification integrity, attribution, and contestability under stress. Where CS-2 (*Information types and handling*) public-interest visibility defaults apply, certification must verify that restrictions are narrowly scoped, documented, auditable, and paired with maximum feasible substitutes rather than opaque concealment.
+Evaluation must reflect functional effect, not label, format, or pipeline stage alone.
 
-**Infrastructure robustness for data.** Certification must evaluate whether data-handling infrastructure — including persistence layers, pipelines, access controls, encryption or isolation boundaries, backup and restore paths, and operator or vendor delegation chains — is appropriate for the data types and system class at issue. Material gaps in lifecycle integrity, adversarial robustness, portability, or recoverability must be stated on the record and reflected in certification outcome, conditions, or reliance limits.
+**Type O baseline.** Where the **[CS-2 Part A §7 Type O baseline](corpus_systems/cs_02_a_information_types_and_handling.md#cs-27-type-o-baseline-for-class-abc-systems)** applies, certification must also verify that the published [Public Oversight Baseline Disclosure](core_05_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) covers the **certified scope**, mapped from:
 
-**Defects and misalignment.** Misclassification of data, evasive restructuring, unsafe cross-domain linkage, handling that matches its type label but fails the privacy homes that type names, missing attribution where material harm could not be investigated, **overdue or skipped periodic data-type re-evaluation**, or infrastructure fragility that foreseeably defeats CS-2 (*Information types and handling*) protections must be treated as certification defects. Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
+- the governing [Charter](core_05_band_continuity.md#charter) (or equivalent published scope instrument);
+- the assigned class; and
+- the observed [System Boundaries](core_05_band_continuity.md#system-boundaries).
 
-<a id="371-illustrative-data-handling-application-by-class-non-exhaustive"></a>
+Justified hold-backs must be paired with maximum feasible public substitutes. Chapter Five owns the term; CS-2 (*Information types and handling*) owns baseline content and release mechanics.
 
-##### 3.7.1 Illustrative data-handling application by class (non-exhaustive)
+**Privacy discipline.**
 
-*Worked Class A, Class B, and Class C examples for this section are in [Chapter Eight, Part C §3.7.1](core_08_c_system_alignment_certification_illustrations.md#371-illustrative-data-handling-application-by-class-non-exhaustive). The cross-class reading below stays here.*
+- *Types H, I, N, S, and Y.* For **Type H**, **Type I**, **Type N**, **Type S**, and **Type Y** data, certification must verify that handling satisfies the [privacy homes](corpus_systems/cs_02_b_data_classifications.md#privacy-link) each type names in **CS-2** (*Information types and handling*), including [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), minimization, and consent or other adequate authority.
+- *Joint invocation.* Where more than one privacy locus is implicated, [§3.2 Privacy (Informational) Joint Invocation](#32-privacy-informational-joint-invocation) also applies.
+- *Labels are not enough.* A correct type label does not by itself show privacy compliance.
+- *Types W, U, and T.* For **Type W**, **Type U**, and **Type T** works, certification must verify that the creator's control is honored, including:
+  - withdrawal of a public release under [CS-2 Part B §9.9](corpus_systems/cs_02_b_data_classifications.md#99-type-w-works-published) (*Type W: Works, published*);
+  - the limits of each recorded grant under [CS-2 Part B §9.13](corpus_systems/cs_02_b_data_classifications.md#913-commercial-grants) (*Commercial grants*); and
+  - the creator's [reserved rights](corpus_systems/cs_02_b_data_classifications.md#9133-reserved-rights).
+- *No implied consent.* No grant may be treated as consent to a use it does not name.
 
-**Reading across classes.** The same CS-3 (*System classification machinery*) rules apply to all three systems; class changes **depth**, not permission to mis-handle data. A **Class C** platform that begins storing or routing clinical-grade records must be evaluated and recorded as such — not left at coordination-platform handling because the operator prefers a lighter file. A **Class B** exchange whose outage would now block emergency care within survival-relevant timeframes must be reclassified and recertified under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), with data-handling assurance scaled accordingly.
+**Protective storage and key custody.** For data in the restricted-by-default and non-accessible bands, certification must verify that the system meets the [CS-2 Part A §5.0 protective storage and key-custody floor](corpus_systems/cs_02_a_information_types_and_handling.md#50-access-posture-bands) (*Access-posture bands*). The record must show:
+- where restricted data and its keys actually sit, including backups, caches, logs, and swap;
+- that plaintext is confined to the processes that need it; and
+- that audit, export, and lawful-override paths still work.
+
+A claim of encryption without that evidence does not satisfy this check.
+
+**Periodic data-type re-evaluation.** On every materially impactful certification or recertification cycle, the process must verify that material datasets in scope were:
+
+- **periodically re-evaluated** for appropriate classification under **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); and
+- **reclassified** where that review required it.
+
+Cadence must scale with system class and material impact under [§2 System Class Evaluation](#2-system-class-evaluation). Event-triggered retyping under CS-2 (*Information types and handling*) does not replace this periodic certification check.
+
+**Class-scaled infrastructure assurance.** Under [§2.1 How class scales every evaluation](#21-how-class-scales-every-evaluation) and CS-3 (*System classification machinery*), higher-class systems require proportionately stronger evidence that handling, storage, processing, transmission, backup, recovery, and monitoring infrastructure can preserve the following under stress:
+
+- classification integrity;
+- attribution; and
+- contestability.
+
+Where CS-2 (*Information types and handling*) public-interest visibility defaults apply, certification must verify that restrictions are:
+
+- narrowly scoped;
+- documented and auditable; and
+- paired with maximum feasible substitutes rather than opaque concealment.
+
+**Infrastructure robustness for data.** Certification must evaluate whether data-handling infrastructure is appropriate for the data types and system class at issue. That infrastructure includes:
+
+- persistence layers and pipelines;
+- access controls;
+- encryption or isolation boundaries;
+- backup and restore paths; and
+- operator or vendor delegation chains.
+
+Material gaps in lifecycle integrity, adversarial robustness, portability, or recoverability must be stated on the record and reflected in certification outcome, conditions, or reliance limits.
+
+**Defects and misalignment.** Each of the following must be treated as a certification defect:
+
+- misclassification of data;
+- evasive restructuring;
+- unsafe cross-domain linkage;
+- handling that matches its type label but fails the privacy homes that type names;
+- missing attribution where material harm could not be investigated;
+- **overdue or skipped periodic data-type re-evaluation**;
+- restricted data held as plaintext in storage or beyond its authorized processing boundary, or keys reachable by processes that do not need them; and
+- infrastructure fragility that foreseeably defeats CS-2 (*Information types and handling*) protections.
+
+Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
 
 
 <a id="38-rights-floor-and-domain-evaluations"></a>
@@ -427,7 +487,7 @@ System alignment certification must evaluate **data types and handling** as part
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-and-role) (*purpose and role*); [§2.1](#21-how-class-scales-every-evaluation) (*class scaling*); Chapter Six Rights Floors — **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIII** (*Right to Reliable and Trustworthy Systems*), and **Article XIII-A** (*Reliability and Trustworthiness Baseline*); **Article I-B** (*Ecological Footprint and Transparency*).
+- Upstream: [§1](#1-purpose-and-role) (*purpose and role*); [§2.1](#21-how-class-scales-every-evaluation) (*class scaling*); Chapter Six Rights Floors — **Article I-B** (*Ecological Footprint and Transparency*), **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIII** (*Right to Reliable and Trustworthy Systems*), and **Article XIII-A** (*Reliability and Trustworthiness Baseline*).
 - Downstream: [Part B §4.1](core_08_b_system_alignment_certification_record_process.md#41-minimum-record-contents) (*record contents*); [Part B §5.1](core_08_b_system_alignment_certification_record_process.md#51-forum-supervision-and-component-roles) (*forum component roles*); [Part B §6](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening) (*outcomes and reopening*); [Part B §7](core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing) (*verified-input gate*).
 - Subsections: [§3.8.1](#381-ecological-footprint-evaluation) (*ecological footprint*); [§3.8.2](#382-proportionate-cross-system-support-evaluation) (*cross-system support*); [§3.8.3](#383-nondiscrimination-evaluation) (*nondiscrimination*); [§3.8.4](#384-accessibility-evaluation) (*accessibility*); [§3.8.5](#385-educational-capability-and-learning-system-integrity-evaluation) (*educational capability*); [§3.8.6](#386-trustworthiness-and-system-reliance-integrity-evaluation) (*trustworthiness*).
 
@@ -435,16 +495,16 @@ System alignment certification must evaluate **data types and handling** as part
 
 <br>
 
-*In plain terms: some systems have a big effect on whether sentients get their basic protections — food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the check has to be real — not a box the operator ticked. The table shows which protection each check covers, when it applies, and where it is evaluated.*
+*In plain terms: some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the check has to be real — not a box the operator ticked. The table shows which protection each check covers, when it applies, and where it is evaluated.*
 
 When a materially impactful system meets a trigger in the table below, certification must evaluate the matching protection, read with related Chapter Six provisions. The evaluation must ask whether recognition or continued reliance would foreclose or materially degrade that protection. Operator assertion, self-attestation, or paper compliance does not substitute for that evaluation.
 
 | Protection | Applies when the system… | Evaluated under |
 |------------|--------------------------|-----------------|
+| **Article I-B** (*Ecological Footprint and Transparency*) | carries material attributable environmental burdens | [§3.8.1](#381-ecological-footprint-evaluation) |
 | **Article III-A** (*Survival*) — food, water, shelter, operating environment, and comparable substrate-agnostic inputs | supplies, allocates, prices, hosts, or terminates access to survival essentials | [§2](#2-system-class-evaluation) and [§3](#3-whole-system-certification-evaluation) |
 | **Article IV-A** (*Equal Educational Access*) | supplies, allocates, prices, hosts, or terminates access to education | [§2](#2-system-class-evaluation) and [§3](#3-whole-system-certification-evaluation); [§3.8.4](#384-accessibility-evaluation) and [§3.8.5](#385-educational-capability-and-learning-system-integrity-evaluation) where their triggers apply |
 | **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and [**Safe Conditions**](core_05_band_continuity.md#safe-conditions) | supplies or gates productive activity, or supplies, allocates, prices, hosts, or terminates access to Safe Conditions | [§2](#2-system-class-evaluation) and [§3](#3-whole-system-certification-evaluation); [§3.8.6](#386-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies |
-| **Article I-B** (*Ecological Footprint and Transparency*) | carries material attributable environmental burdens | [§3.8.1](#381-ecological-footprint-evaluation) |
 | **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), including [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support) under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) | allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies on which other systems or sentients rely | [§3.8.2](#382-proportionate-cross-system-support-evaluation) |
 | **Article VI-C** (*Nondiscrimination*) | classifies, ranks, prices, gates, excludes, or allocates burdens and benefits among sentients | [§3.8.3](#383-nondiscrimination-evaluation) |
 | **Article VI-D** (*Accessibility*) | gates substantive participation in constitutionally relevant domains | [§3.8.4](#384-accessibility-evaluation) |
@@ -476,19 +536,38 @@ Each domain evaluation in [§3.8.1 Ecological Footprint Evaluation](#381-ecologi
 
 *In plain terms: certification has to evaluate attributable environmental burdens honestly when they matter — including upstream and downstream links — not only whether the operator claims the system is green. Footprint accounting methods and numeric reduction targets live in other instruments; certification checks that attribution, disclosure, and comparison were actually evaluated where material. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive).*
 
-System alignment certification must evaluate **ecological footprint** as part of every materially impactful certification record where attributable environmental burdens are material under [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) and **Article I-B** (*Ecological Footprint and Transparency*). Canonical attribution, lifecycle, dependency, and transparency rules live in Chapter Five and **Article I-B** (*Ecological Footprint and Transparency*); accounting methods, verification steps, and numeric targets live in incorporation instruments where applicable. This section states what certification must verify; it does not restate footprint accounting mechanics or impose reduction duties beyond what other instruments require.
+System alignment certification must evaluate **ecological footprint** as part of every materially impactful certification record where attributable environmental burdens are material under [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) and **Article I-B** (*Ecological Footprint and Transparency*). This section states what certification must verify. It does not restate footprint accounting mechanics or impose reduction duties beyond what other instruments require. The governing rules live elsewhere:
 
-**Evaluation requirement.** A certification process must determine whether attributable environmental flows — energy, materials, emissions, land use, and related burdens — are identified across the system's materially relevant lifecycle and [Dependency](core_05_band_continuity.md#dependency) relationships, evaluated under [Material Impact](core_05_band_oversight.md#material-impact), and disclosed or withheld only as [Transparency](core_05_band_oversight.md#transparency), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and applicable transparency obligations permit. Evaluation must reflect functional effect and system boundaries, not nominal scope, marketing labels, or partial lifecycle framing alone. Where practicable, material environmental burdens must be compared across relevant alternatives, and evaluation must check that they are not obscured through boundary-shifting, dependency offloading, or selective disclosure.
+- *Attribution, lifecycle, dependency, and transparency rules* live in Chapter Five and **Article I-B** (*Ecological Footprint and Transparency*).
+- *Accounting methods, verification steps, and numeric targets* live in incorporation instruments where applicable.
 
-**Defects and misalignment.** Obscuring, misrepresenting, fragmenting, or offloading material footprint information where certification or **Article I-B** (*Ecological Footprint and Transparency*) transparency obligations require disclosure; evaluating only operator-selected lifecycle slices where broader attribution is material; or treating footprint claims as satisfied by assertion without evaluable evidence must be treated as certification defects. Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
+**Evaluation requirement.** A certification process must determine whether attributable environmental flows — energy, materials, emissions, land use, and related burdens — are:
 
-<a id="3811-illustrative-ecological-footprint-application-by-class-non-exhaustive"></a>
+- identified across the system's materially relevant lifecycle and [Dependency](core_05_band_continuity.md#dependency) relationships;
+- evaluated under [Material Impact](core_05_band_oversight.md#material-impact); and
+- disclosed or withheld only as [Transparency](core_05_band_oversight.md#transparency), [Epistemic Integrity](core_05_band_oversight.md#epistemic-integrity), and applicable transparency obligations permit.
 
-###### 3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)
+Evaluation must reflect functional effect and system boundaries, not nominal scope, marketing labels, or partial lifecycle framing alone.
 
-*Worked Class A, Class B, and Class C examples for this section are in [Chapter Eight, Part C §3.8.1.1](core_08_c_system_alignment_certification_illustrations.md#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive). The cross-class reading below stays here.*
+Where practicable, material environmental burdens must be compared across relevant alternatives. Evaluation must also check that they are not obscured through:
 
-**Reading across classes.** The same **Article I-B** (*Ecological Footprint and Transparency*) and Chapter Five footprint discipline applies to all three systems; class changes attribution depth and comparison burden, not permission to obscure material environmental flows. A **Class A** survival-critical water system must not be downclassified while watershed extraction, discharge, or energy burdens that gate safe water remain materially under-attributed. A **Class B** exchange whose growth in clinical payload or hosting concentration materially increases environmental burden must receive footprint review scaled to that growth — including upward to **Class A** depth where survival-essential delivery and source-system burdens are jointly implicated. A **Class C** scheduling platform that becomes a de facto chokepoint for survival-essential coordination must not keep a token footprint file because the operator labels it non-critical. Cross-system support walkthroughs for the same systems are in [§3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3821-illustrative-cross-system-support-application-by-class-non-exhaustive).
+- boundary-shifting;
+- dependency offloading; or
+- selective disclosure.
+
+**Class scaling and escalation.** Class changes attribution depth and comparison burden, not permission to obscure material environmental flows.
+
+- A system must not be downclassified while watershed extraction, discharge, energy, or comparable burdens that gate survival-essential delivery, such as safe water, remain materially under-attributed.
+- Where growth in payload or hosting concentration materially increases environmental burden, footprint review must scale to that growth, including upward to **Class A** depth where survival-essential delivery and source-system burdens are jointly implicated.
+- A system that becomes a de facto chokepoint for survival-essential coordination must not keep a token footprint file because its operator labels it non-critical.
+
+**Defects and misalignment.** Each of the following must be treated as a certification defect:
+
+- obscuring, misrepresenting, fragmenting, or offloading material footprint information where certification or **Article I-B** (*Ecological Footprint and Transparency*) transparency obligations require disclosure;
+- evaluating only operator-selected lifecycle slices where broader attribution is material; and
+- treating footprint claims as satisfied by assertion without evaluable evidence.
+
+Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
 
 
 <a id="382-proportionate-cross-system-support-evaluation"></a>
@@ -509,37 +588,88 @@ System alignment certification must evaluate **ecological footprint** as part of
 
 *In plain terms: when a system materially draws on shared foundations, certification has to check whether it puts enough traceable support back — not whether the operator says the books balance. Allocation formulas and numeric targets live in other instruments; certification checks that dependency maps, return flows, and cross-system fairness were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3821-illustrative-cross-system-support-application-by-class-non-exhaustive).*
 
-**Materiality trigger.** This section applies where a materially impactful system materially allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies on which other systems or sentients rely. It does not require a full cross-system support audit on every certification record.
+**Materiality trigger.** This section applies when a materially impactful system does any of the following with shared infrastructure or foundations that other systems or sentients rely on:
 
-**What “extraction” means here.** **Extraction** means [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) under [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). The question is **who benefits from shared backends and who pays to sustain them**, not whether a system copies, sells, or advertises against record content. Clinical-record access, personal-data use, sale to external parties, targeted advertising, and unrelated third-party profiling are evaluated under [§3.7 Data Types and Handling Evaluation](#37-data-types-and-handling-evaluation) and Chapter Six privacy and info-sphere protections — not under this section.
+- allocates it;
+- routes it;
+- funds it; or
+- extracts from it.
 
-System alignment certification must evaluate **proportionate cross-system support** under [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support), **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*), and **Article V-B** (*Cross-System Fairness and Sustainability*) where the materiality trigger applies. Canonical meaning, the support categories, and adequacy discipline live in Chapter Five; the fair-allocation factors and the floor itself live in **Article V-B** (*Cross-System Fairness and Sustainability*); allocation categories, reauthorization mechanics, and numeric targets live in **[corpus_systems.md](corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*) where applicable. This section states what certification must verify; it does not restate CS-8 (*Adaptive sustainability and ecosystem resilience*) or CS-9 (*Resource allocation and funding stewardship*) mechanics or prescribe equal splits, fixed percentages, or a single funding model.
+It does not require a full cross-system support audit on every certification record.
 
-**Evaluation requirement.** A certification process must determine whether documented dependent-systems maps and auditable resource-flow records under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) show extraction from shared infrastructure or foundational dependencies and whether return flows reach substantive adequacy under [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support), evaluated under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) and [Proportionality](core_05_band_accountability.md#proportionality) and scaled to criticality (shown by the shared infrastructure's system class under [§2 System Class Evaluation](#2-system-class-evaluation) where one is assigned), dependency asymmetry, substitutability, availability of alternatives, [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) where material, and long-term [Sustainability](core_05_band_continuity.md#sustainability). Evaluation must reflect functional effect and documented flows, not nominal labels, one-off transfers, or off-map assertions alone. Comparison uses the maps and records as they stand at evaluation; the absence of an allocation formula or numeric target does not defer it. The evaluation must cover:
+**What “extraction” means here.** In this section, **extraction** means [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) under [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). The question is **who benefits from shared backends and who pays to sustain them**. It is not whether a system copies, sells, or advertises against record content. These topics are checked elsewhere, under [§3.7 Data Types and Handling Evaluation](#37-data-types-and-handling-evaluation) and Chapter Six privacy and info-sphere protections, not here:
 
-- **Adequate return:** whether documented return flows cover, where material, the support categories in [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support) — continuity of operations, remedy and resilience capacity, ecosystem reinvestment, and ecological burden offset or restoration;
-- **Fair allocation:** whether funding and allocation accounted for the **Article V-B** (*Cross-System Fairness and Sustainability*) fair-allocation factors, including whether smaller or more dependent participants bear asymmetric costs;
-- **Support integrity:** whether support flows mainly entrench capture or concentration, or are conditioned to defeat **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency.
+- clinical-record access;
+- personal-data use;
+- sale to external parties;
+- targeted advertising; and
+- unrelated third-party profiling.
 
-**When evaluation runs.** Evaluation runs at each certification and recertification on the cadence set by [§2 System Class Evaluation](#2-system-class-evaluation), and on reopening under [Part B §6](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening) whenever reliance on the system grows, its extraction grows, or its return flows materially fall.
+System alignment certification must evaluate **proportionate cross-system support** whenever the materiality trigger applies. In plain terms, that means checking whether a system that draws on shared foundations puts enough back to sustain them. The governing provisions are [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support), **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*), and **Article V-B** (*Cross-System Fairness and Sustainability*). The details live in other places:
 
-**Map and record integrity.** Before relying on dependent-systems maps and resource-flow records, a certification process must verify that they meet **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) — that they:
+- *Chapter Five* sets the meaning, the support categories, and the adequacy test.
+- *Article V-B* (*Cross-System Fairness and Sustainability*) sets the fair-allocation factors and the floor itself.
+- *[corpus_systems.md](corpus_systems.md)*, **CS-9** (*Resource allocation and funding stewardship*) and **CS-8** (*Adaptive sustainability and ecosystem resilience*) set allocation categories, reauthorization mechanics, and numeric targets, where they apply.
 
-- **Are complete:** cover material upstream and downstream dependencies, resource flows, and non-transparent or asymmetric relationships where materially relevant;
-- **Are current:** have been updated at intervals proportionate to change and criticality, including the system class under [§2 System Class Evaluation](#2-system-class-evaluation), and reflect the system as it operates now rather than as it operated at a prior certification;
-- **Are auditable:** are available for audit under **Article XVI-A** (*Auditability and Observable Evidence*).
+This section states what certification must verify. It does not restate CS-8 or CS-9 mechanics, and it does not prescribe equal splits, fixed percentages, or a single funding model.
 
-Maps or records that fail any of these tests cannot support a finding of adequate contribution; the gap must be recorded and treated under *Defects and misalignment* below.
+**Evaluation requirement.** A certification process must determine two things:
 
-**Defects and misalignment.** Obscuring, misrepresenting, fragmenting, or offloading material dependency or resource-flow information where **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires disclosure; treating symbolic, opaque, off-map, or one-off transfers, or the fact that a system meets the **Article III-A** (*Survival*) survival floor or stays within [Chapter One §11 Market Structure](core_01_a_values_principles.md#11-market-structure) market-concentration limits, as satisfying [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support); persistent extraction without proportionate return where the materiality trigger applies; support flows that mainly entrench capture or concentration; support conditioned to defeat **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; or certifying continued reliance while documented support inadequacy materially threatens constitutional alignment must be treated as certification defects. Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
+- **What the system takes.** Whether the documented dependent-systems maps and auditable resource-flow records required by **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) show extraction from shared infrastructure or foundational dependencies. These are records of who depends on what, and where resources flow.
+- **What the system puts back.** Whether return flows reach substantive adequacy under [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support).
 
-<a id="3821-illustrative-cross-system-support-application-by-class-non-exhaustive"></a>
+The process must judge both under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) and [Proportionality](core_05_band_accountability.md#proportionality), scaled to:
 
-###### 3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)
+- how critical the shared infrastructure is, shown by its system class under [§2 System Class Evaluation](#2-system-class-evaluation) where one is assigned;
+- how one-sided the dependency is;
+- how easily the system could be replaced, and whether alternatives exist;
+- [Ecological Footprint](core_05_band_continuity.md#ecological-footprint), where material; and
+- long-term [Sustainability](core_05_band_continuity.md#sustainability).
 
-*Worked Class A, Class B, and Class C examples for this section are in [Chapter Eight, Part C §3.8.2.1](core_08_c_system_alignment_certification_illustrations.md#3821-illustrative-cross-system-support-application-by-class-non-exhaustive). The cross-class reading below stays here.*
+Evaluation must reflect what actually happens and the flows that are documented, not nominal labels, one-off transfers, or off-map assertions alone. It compares the maps and records as they stand at evaluation. The absence of an allocation formula or numeric target does not postpone it.
 
-**Reading across classes.** The same **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) discipline applies wherever the materiality trigger is met; class changes map depth and adequacy scrutiny, not permission to treat shared extraction as immaterial. A **Class A** water system drawing on a shared watershed or regional grid backbone must carry the strongest dependent-systems-map and return-flow proof on the record. A **Class B** exchange resting on shared authentication and health-IT infrastructure must document extraction and support-adequacy findings at operational criticality — not generic interoperability slogans. A **Class C** scheduling platform must not evade cross-system review while it quietly becomes the payments, identity, or staffing chokepoint for institutions that cannot practically substitute; when that happens, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward to **Class A** where survival-essential coordination is gated. Nondiscrimination walkthroughs for the same systems are in [§3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive).
+The evaluation must cover:
+
+- **Adequate return:** whether documented return flows cover, where material, the support categories in [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support):
+  - continuity of operations;
+  - remedy and resilience capacity;
+  - ecosystem reinvestment; and
+  - ecological burden offset or restoration.
+- **Fair allocation:** whether funding and allocation took account of the **Article V-B** (*Cross-System Fairness and Sustainability*) fair-allocation factors, including whether smaller or more dependent participants bear unequal costs.
+- **Support integrity:** whether support flows mainly entrench capture or concentration (control gathering in a few hands), or are set up to defeat **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency.
+
+**When evaluation runs.** Evaluation runs:
+
+- at each certification and recertification, on the cadence set by [§2 System Class Evaluation](#2-system-class-evaluation); and
+- on reopening under [Part B §6](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), whenever reliance on the system grows, its extraction grows, or its return flows materially fall.
+
+**Map and record integrity.** Before relying on dependent-systems maps and resource-flow records, a certification process must check that they meet **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*). They must be:
+
+- **Complete:** they cover material upstream and downstream dependencies, resource flows, and relationships that are non-transparent or lopsided, where those matter.
+- **Current:** they are updated often enough for how fast things change and how critical the system is, including its system class under [§2 System Class Evaluation](#2-system-class-evaluation). They show the system as it operates now, not as it operated at a prior certification.
+- **Auditable:** they are available for audit under **Article XVI-A** (*Auditability and Observable Evidence*).
+
+A map or record that fails any of these tests cannot support a finding of adequate contribution. The gap must be recorded and treated under *Defects and misalignment* below.
+
+**Class scaling and escalation.** Class changes how deep the review goes and how closely adequacy is judged. It never makes shared extraction too small to count. Wherever the materiality trigger is met:
+
+- A system drawing on a shared foundation that people need to survive, such as a shared watershed or regional grid backbone, must carry the strongest dependent-systems-map and return-flow proof on the record.
+- A system relying on shared authentication, health-IT, or similar infrastructure must document what it takes and whether its support is adequate, at a depth that matches how critical its operations are. Generic interoperability slogans do not count.
+- A system must not avoid cross-system review while it quietly becomes the payments, identity, or staffing chokepoint for institutions that cannot practically switch. When that happens, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including up to **Class A** where it controls access to survival-essential coordination.
+
+**Defects and misalignment.** Each of the following must be treated as a certification defect:
+
+- hiding, misrepresenting, breaking up, or shifting away material dependency or resource-flow information that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires to be disclosed;
+- counting any of the following as satisfying [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support):
+  - symbolic, opaque, off-map, or one-off transfers;
+  - the fact that a system meets the **Article III-A** (*Survival*) survival floor; or
+  - the fact that a system stays within the [Chapter One §11 Market Structure](core_01_a_values_principles.md#11-market-structure) market-concentration limits;
+- taking from shared foundations again and again without proportionate return, where the materiality trigger applies;
+- support flows that mainly entrench capture or concentration;
+- support that is conditioned to defeat **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) transparency; and
+- certifying continued reliance while documented support inadequacy materially threatens constitutional alignment.
+
+Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
 
 
 <a id="383-nondiscrimination-evaluation"></a>
@@ -566,15 +696,20 @@ System alignment certification must evaluate **nondiscrimination** under **Artic
 
 **Evaluation requirement.** A certification process must determine whether the system's materially relied-on decision pathways impose material burdens, exclusions, or harms on sentients based on [Protected Characteristics](core_05_band_participation.md#protected-characteristics), their proxies, or arbitrary groupings used as functional substitutes, including language, culture, and heritage specializations under [Language, Culture, and Heritage](core_05_band_continuity.md#language-culture-and-heritage). Evaluation must test burden-and-benefit patterns under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) and proxy or disparate-impact risk under [Protected Characteristic Proxying and Disparate Impact](core_05_band_participation.md#protected-characteristic-proxying-and-disparate-impact), scaled to [material stake](core_00_preamble.md#material-stake). Differential treatment is acceptable only where documented [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), and substantive fairness justify it. Evaluation must reflect functional effect, not nominal neutrality, declared intent, or label alone.
 
-**Defects and misalignment.** Obscuring, misrepresenting, fragmenting, or offloading material classification, ranking, or burden-allocation logic where **Article VI-C** (*Nondiscrimination*) requires review; treating facial neutrality, aggregate convenience metrics, or operator self-report as sufficient without evaluable burden-and-benefit analysis; certifying continued reliance while documented proxy discrimination or substantive unfairness materially threatens constitutional alignment; or using homogenization, interoperability, or efficiency framings to defeat language, culture, or heritage protections without satisfying **Article VI-C** (*Nondiscrimination*)'s **Necessity** and **Proportionality** tests must be treated as certification defects. Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
+**Class scaling and escalation.** Class changes evaluation depth, not permission to treat ranking or burden-shifting as immaterial. Wherever the materiality trigger is met:
 
-<a id="3831-illustrative-nondiscrimination-application-by-class-non-exhaustive"></a>
+- A system whose shutoff, notification, or comparable rules can foreclose survival essentials must carry the strongest burden-and-benefit and proxy analysis on the record, not a generic best-practice statement.
+- A system whose matching or routing logic affects emergency care, benefits, or credential access must document disparate-impact and substantive-fairness findings at operational criticality.
+- A system must not keep a token fairness paragraph while shift, vendor, or booking logic materially ranks or excludes participants. When coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward toward **Class A** where staffing or emergency routing is gated.
 
-###### 3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)
+**Defects and misalignment.** Each of the following must be treated as a certification defect:
 
-*Worked Class A, Class B, and Class C examples for this section are in [Chapter Eight, Part C §3.8.3.1](core_08_c_system_alignment_certification_illustrations.md#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive). The cross-class reading below stays here.*
+- obscuring, misrepresenting, fragmenting, or offloading material classification, ranking, or burden-allocation logic where **Article VI-C** (*Nondiscrimination*) requires review;
+- treating facial neutrality, aggregate convenience metrics, or operator self-report as sufficient without evaluable burden-and-benefit analysis;
+- certifying continued reliance while documented proxy discrimination or substantive unfairness materially threatens constitutional alignment; and
+- using homogenization, interoperability, or efficiency framings to defeat language, culture, or heritage protections without satisfying **Article VI-C** (*Nondiscrimination*)'s **Necessity** and **Proportionality** tests.
 
-**Reading across classes.** The same **Article VI-C** (*Nondiscrimination*) and Chapter Five nondiscrimination discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat ranking or burden-shifting as immaterial. A **Class A** water system whose shutoff or notification rules can foreclose safe water must carry the strongest burden-and-benefit and proxy analysis on the record — not a generic "utility best practice" statement. A **Class B** exchange whose matching or routing logic affects emergency care, benefits, or credential access must document disparate-impact and substantive-fairness findings at operational criticality. A **Class C** scheduling platform must not keep a token fairness paragraph while shift, vendor, or booking logic materially ranks or excludes participants; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward toward **Class A** where staffing or emergency routing is gated. Accessibility walkthroughs for the same systems are in [§3.8.4.1 Illustrative accessibility application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3841-illustrative-accessibility-application-by-class-non-exhaustive).
+Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
 
 
 <a id="384-accessibility-evaluation"></a>
@@ -607,15 +742,20 @@ System alignment certification must evaluate **accessibility** under **Article V
 - The same requirement applies whether a profile is **constant**, **episodic**, or **developmental**.
 - A **general access** pattern that claims broad aggregate availability while defeating a specific affected profile, or **selective-materiality scaling** whose effect is to defeat the participation floor, does not satisfy this section.
 
-**Defects and misalignment.** Treating formal affordances, default interfaces, or paper accommodations as sufficient without evaluable substantive-participation analysis; certifying continued reliance while documented participation barriers materially threaten constitutional alignment; using cost, design-choice, substrate-class, or operational-scale framings to defeat the participation floor without satisfying **Article VI-D** (*Accessibility*)'s **Necessity** and **Proportionality** tests; or operational design whose effect is to defeat accessibility where a less-burdensome option is feasible must be treated as certification defects. Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
+**Class scaling and escalation.** Class changes evaluation depth, not permission to treat paper accommodations or default interfaces as enough. Wherever the materiality trigger is met:
 
-<a id="3841-illustrative-accessibility-application-by-class-non-exhaustive"></a>
+- A system whose billing or outage pathways can foreclose survival essentials must carry the strongest substantive-participation proof on the record, not a generic accessibility statement.
+- A system whose portals gate healthcare access must document accommodation and anti-denial-by-proxy findings at operational criticality.
+- A system must not keep a token accessibility paragraph while shift, booking, or vendor interfaces materially exclude participants. When coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward toward **Class A** where staffing or emergency routing is gated.
 
-###### 3.8.4.1 Illustrative accessibility application by class (non-exhaustive)
+**Defects and misalignment.** Each of the following must be treated as a certification defect:
 
-*Worked Class A, Class B, and Class C examples for this section are in [Chapter Eight, Part C §3.8.4.1](core_08_c_system_alignment_certification_illustrations.md#3841-illustrative-accessibility-application-by-class-non-exhaustive). The cross-class reading below stays here.*
+- treating formal affordances, default interfaces, or paper accommodations as sufficient without evaluable substantive-participation analysis;
+- certifying continued reliance while documented participation barriers materially threaten constitutional alignment;
+- using cost, design-choice, substrate-class, or operational-scale framings to defeat the participation floor without satisfying **Article VI-D** (*Accessibility*)'s **Necessity** and **Proportionality** tests; and
+- operational design whose effect is to defeat accessibility where a less-burdensome option is feasible.
 
-**Reading across classes.** The same **Article VI-D** (*Accessibility*) and Chapter Five accessibility discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat paper accommodations or default interfaces as enough. A **Class A** water system whose billing or outage pathways can foreclose safe water must carry the strongest substantive-participation proof on the record — not a generic accessibility statement. A **Class B** exchange whose portals gate healthcare access must document accommodation and anti-denial-by-proxy findings at operational criticality. A **Class C** scheduling platform must not keep a token accessibility paragraph while shift, booking, or vendor UI materially excludes participants; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward toward **Class A** where staffing or emergency routing is gated. Educational-capability walkthroughs for the same systems are in [§3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3851-illustrative-educational-capability-application-by-class-non-exhaustive).
+Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
 
 
 <a id="385-educational-capability-and-learning-system-integrity-evaluation"></a>
@@ -642,15 +782,20 @@ System alignment certification must evaluate **educational capability and learni
 
 **Evaluation requirement.** A certification process must determine whether the system's materially relied-on learning and credential pathways produce practical capability-building access — not credential symbolism alone — and whether sentients retain workable retraining, continuing-education, and transition-support opportunities where required competencies materially change. Evaluation must also test transparency, auditability, and contestability of materially impactful ranking, assessment, recommendation, and placement logic under **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*), scaled to [Materiality](core_05_band_oversight.md#materiality) and [Dependency](core_05_band_continuity.md#dependency). Evaluation must detect opaque or unreviewable proxies, credential gatekeeping that defeats capability formation, imposed obsolescence or lock-in that nullifies agency, coercive or manipulative learning design, and segmentation that removes contestability or lifelong adaptation where **Article IV** (*Right to Sentient-Centered Education*) jointly applies. Evaluation must reflect functional effect, not nominal access labels, declared pedagogical intent, or credential formalism alone.
 
-**Defects and misalignment.** Obscuring, misrepresenting, fragmenting, or offloading material ranking, assessment, recommendation, or placement logic where **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires review; treating credential formalism, aggregate completion metrics, or operator self-report as sufficient without evaluable capability-building analysis; certifying continued reliance while documented assessment opacity, credential gatekeeping, imposed obsolescence, or manipulative learning design materially threatens constitutional alignment; or using efficiency, personalization, or scale framings to defeat retraining access or contestability without satisfying **Article IV** (*Right to Sentient-Centered Education*)'s capability-building and **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) transparency disciplines must be treated as certification defects. Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
+**Class scaling and escalation.** Class changes evaluation depth, not permission to treat credential formalism or opaque assessment as enough. Wherever the materiality trigger is met:
 
-<a id="3851-illustrative-educational-capability-application-by-class-non-exhaustive"></a>
+- A system whose operator licensure or safety assessment can foreclose safe operation of survival-essential infrastructure must carry the strongest capability-building, retraining, and contestability proof on the record, not a generic training-policy statement.
+- A system whose privileges, placement, or continuing-education logic gates clinical practice must document assessment transparency and retraining access at operational criticality.
+- A system must not keep a token education paragraph while training-slot, recommendation, or credential-routing logic materially ranks or excludes participants. When coordination becomes operationally necessary for work or licensure, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward toward **Class A** where survival-essential staffing credentials are gated.
 
-###### 3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)
+**Defects and misalignment.** Each of the following must be treated as a certification defect:
 
-*Worked Class A, Class B, and Class C examples for this section are in [Chapter Eight, Part C §3.8.5.1](core_08_c_system_alignment_certification_illustrations.md#3851-illustrative-educational-capability-application-by-class-non-exhaustive). The cross-class reading below stays here.*
+- obscuring, misrepresenting, fragmenting, or offloading material ranking, assessment, recommendation, or placement logic where **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires review;
+- treating credential formalism, aggregate completion metrics, or operator self-report as sufficient without evaluable capability-building analysis;
+- certifying continued reliance while documented assessment opacity, credential gatekeeping, imposed obsolescence, or manipulative learning design materially threatens constitutional alignment; and
+- using efficiency, personalization, or scale framings to defeat retraining access or contestability without satisfying **Article IV** (*Right to Sentient-Centered Education*)'s capability-building and **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) transparency disciplines.
 
-**Reading across classes.** The same **Article IV** (*Right to Sentient-Centered Education*) and Chapter Five educational-capability discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat credential formalism or opaque assessment as enough. A **Class A** water system whose operator licensure or safety assessment can foreclose safe plant operation must carry the strongest capability-building, retraining, and contestability proof on the record — not a generic training-policy statement. A **Class B** exchange whose privileges, placement, or continuing medical education logic gates clinical practice must document assessment transparency and retraining access at operational criticality. A **Class C** scheduling platform must not keep a token education paragraph while training-slot, recommendation, or credential-routing logic materially ranks or excludes participants; when coordination becomes operationally necessary for work or licensure, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward toward **Class A** where survival-essential staffing credentials are gated. Trustworthiness walkthroughs for the same systems are in [§3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3861-illustrative-trustworthiness-application-by-class-non-exhaustive).
+Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
 
 
 <a id="386-trustworthiness-and-system-reliance-integrity-evaluation"></a>
@@ -677,15 +822,20 @@ System alignment certification must evaluate **trustworthiness and system-relian
 
 **Evaluation requirement.** A certification process must determine whether the system's material reliance pathways preserve the conditions for justified [Trust](core_05_band_continuity.md#trust) and reasonably accurate reliance under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) — not reputation, scale, or marketing posture alone. Evaluation must also test practicable challenge, review, and redress under **Article XIII-A** (*Reliability and Trustworthiness Baseline*) and **Article XIII-B** (*Right to Redress and Remedy*), false-trust and misleading-reliance risk under **Article XIII-C** (*Prohibition of False Trust and Misleading Reliance*), perverse-incentive exposure under **Article XIII-D** (*Incentive-Alignment Constraint*), and recovery integrity under **Article XIII-F** (*Resilience and Self-Healing Baseline*) where material, scaled to [Materiality](core_05_band_oversight.md#materiality), [Dependency](core_05_band_continuity.md#dependency), and [Risk](core_05_band_continuity.md#risk). Evaluation must detect manufactured trust, undisclosed limits, incentive structures that reward deception or corner-cutting, challenge paths that exist only on paper, and recovery practices that hide failure or quietly narrow rights. Evaluation must reflect functional effect across time, scale, and dependency, not nominal assurance labels, declared intent, or prior performance alone.
 
-**Defects and misalignment.** Obscuring, misrepresenting, fragmenting, or offloading material limits, risks, or failure history where **Article XIII** (*Right to Reliable and Trustworthy Systems*) requires review; treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable [Trustworthiness](core_05_band_continuity.md#trustworthiness) analysis; certifying continued reliance while documented false trust, perverse incentives, inaccessible challenge paths, or recovery practices that hide failure materially threaten constitutional alignment; or using efficiency, innovation, or security framings to defeat disclosure, contestability, or redress without satisfying **Article XIII** (*Right to Reliable and Trustworthy Systems*)'s reliability and **Article XIII-A** (*Reliability and Trustworthiness Baseline*) challenge disciplines must be treated as certification defects. Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
+**Class scaling and escalation.** Class changes evaluation depth, not permission to treat reputation, scale, or nominal assurance labels as enough. Wherever the materiality trigger is met:
 
-<a id="3861-illustrative-trustworthiness-application-by-class-non-exhaustive"></a>
+- A system whose telemetry, advisories, or recovery representations can mislead households and operators about survival essentials must carry the strongest trustworthiness, false-trust, and recovery-integrity proof on the record, not a generic reliability statement.
+- A system whose uptime, matching, or break-glass representations gate clinical practice must document challenge-path and misleading-reliance findings at operational criticality.
+- A system must not keep a token trustworthiness paragraph while reliability badges or vendor scores materially shape staffing or procurement behavior. When coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward toward **Class A** where misleading reliance could foreclose survival-essential coordination.
 
-###### 3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)
+**Defects and misalignment.** Each of the following must be treated as a certification defect:
 
-*Worked Class A, Class B, and Class C examples for this section are in [Chapter Eight, Part C §3.8.6.1](core_08_c_system_alignment_certification_illustrations.md#3861-illustrative-trustworthiness-application-by-class-non-exhaustive). The cross-class reading below stays here.*
+- obscuring, misrepresenting, fragmenting, or offloading material limits, risks, or failure history where **Article XIII** (*Right to Reliable and Trustworthy Systems*) requires review;
+- treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable [Trustworthiness](core_05_band_continuity.md#trustworthiness) analysis;
+- certifying continued reliance while documented false trust, perverse incentives, inaccessible challenge paths, or recovery practices that hide failure materially threaten constitutional alignment; and
+- using efficiency, innovation, or security framings to defeat disclosure, contestability, or redress without satisfying **Article XIII** (*Right to Reliable and Trustworthy Systems*)'s reliability and **Article XIII-A** (*Reliability and Trustworthiness Baseline*) challenge disciplines.
 
-**Reading across classes.** The same **Article XIII** (*Right to Reliable and Trustworthy Systems*) and Chapter Five trustworthiness discipline applies wherever the materiality trigger is met; class changes evaluation depth, not permission to treat reputation, scale, or nominal assurance labels as enough. A **Class A** water system whose telemetry, advisories, or recovery representations can mislead households and operators about safe water must carry the strongest trustworthiness, false-trust, and recovery-integrity proof on the record — not a generic reliability statement. A **Class B** exchange whose uptime, matching, or break-glass representations gate clinical practice must document challenge-path and misleading-reliance findings at operational criticality. A **Class C** scheduling platform must not keep a token trustworthiness paragraph while reliability badges or vendor scores materially shape staffing or procurement behavior; when coordination becomes survival-essential, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §6 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#6-outcomes-recertification-and-reopening), including upward toward **Class A** where misleading reliance could foreclose survival-essential coordination.
+Their consequences are set in [§6.1 Certification outcomes](core_08_b_system_alignment_certification_record_process.md#61-certification-outcomes).
 
 
 <br>

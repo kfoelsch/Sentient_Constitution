@@ -3,7 +3,7 @@
   "effective_date": "2026-08-09",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 949,
+  "heading_count": 942,
   "glossed_count": 672,
   "files": [
     {
@@ -4875,7 +4875,7 @@
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "title": "CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION",
-      "heading_count": 29,
+      "heading_count": 22,
       "glossed_count": 15,
       "sections": [
         {
@@ -5015,129 +5015,66 @@
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
-          "level": 5,
-          "title": "3.7.1 Illustrative data-handling application by class (non-exhaustive)",
-          "anchor": "371-illustrative-data-handling-application-by-class-non-exhaustive",
-          "line": 416,
-          "gloss": null,
-          "gloss_line": null
-        },
-        {
-          "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 4,
           "title": "3.8 Rights-Floor and Domain Evaluations",
           "anchor": "38-rights-floor-and-domain-evaluations",
-          "line": 425,
-          "gloss": "some systems have a big effect on whether sentients get their basic protections — food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the check has to be real — not a box the operator ticked. The table shows which protection each check covers, when it applies, and where it is evaluated.",
-          "gloss_line": 438
+          "line": 485,
+          "gloss": "some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the check has to be real — not a box the operator ticked. The table shows which protection each check covers, when it applies, and where it is evaluated.",
+          "gloss_line": 498
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "3.8.1 Ecological Footprint Evaluation",
           "anchor": "381-ecological-footprint-evaluation",
-          "line": 463,
+          "line": 523,
           "gloss": "certification has to evaluate attributable environmental burdens honestly when they matter — including upstream and downstream links — not only whether the operator claims the system is green. Footprint accounting methods and numeric reduction targets live in other instruments; certification checks that attribution, disclosure, and comparison were actually evaluated where material. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive).",
-          "gloss_line": 477
-        },
-        {
-          "file": "core_08_a_system_alignment_certification_evaluation.md",
-          "level": 6,
-          "title": "3.8.1.1 Illustrative ecological-footprint application by class (non-exhaustive)",
-          "anchor": "3811-illustrative-ecological-footprint-application-by-class-non-exhaustive",
-          "line": 487,
-          "gloss": null,
-          "gloss_line": null
+          "gloss_line": 537
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "3.8.2 Proportionate Cross-System Support Evaluation",
           "anchor": "382-proportionate-cross-system-support-evaluation",
-          "line": 496,
+          "line": 575,
           "gloss": "when a system materially draws on shared foundations, certification has to check whether it puts enough traceable support back — not whether the operator says the books balance. Allocation formulas and numeric targets live in other instruments; certification checks that dependency maps, return flows, and cross-system fairness were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3821-illustrative-cross-system-support-application-by-class-non-exhaustive).",
-          "gloss_line": 510
-        },
-        {
-          "file": "core_08_a_system_alignment_certification_evaluation.md",
-          "level": 6,
-          "title": "3.8.2.1 Illustrative cross-system support application by class (non-exhaustive)",
-          "anchor": "3821-illustrative-cross-system-support-application-by-class-non-exhaustive",
-          "line": 538,
-          "gloss": null,
-          "gloss_line": null
+          "gloss_line": 589
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "3.8.3 Nondiscrimination Evaluation",
           "anchor": "383-nondiscrimination-evaluation",
-          "line": 547,
+          "line": 677,
           "gloss": "when a system materially decides who gets in, who pays more, who ranks lower, or who bears worse burdens, certification has to check whether that pattern loads harm onto protected characteristics or their proxies — not whether the operator says the rules are neutral. Inclusion quotas and specific fairness algorithms may live in other instruments, later corpus additions, or adoption instruments; certification checks that burden-and-benefit patterns and proxy risk were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive).",
-          "gloss_line": 561
-        },
-        {
-          "file": "core_08_a_system_alignment_certification_evaluation.md",
-          "level": 6,
-          "title": "3.8.3.1 Illustrative nondiscrimination application by class (non-exhaustive)",
-          "anchor": "3831-illustrative-nondiscrimination-application-by-class-non-exhaustive",
-          "line": 573,
-          "gloss": null,
-          "gloss_line": null
+          "gloss_line": 691
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "3.8.4 Accessibility Evaluation",
           "anchor": "384-accessibility-evaluation",
-          "line": 582,
+          "line": 717,
           "gloss": "when a system materially controls whether sentients can actually take part — not just whether a door is labeled \"open\" — certification has to check whether participation is genuinely reachable across sensory, cognitive, mobility, communication, substrate-interface, and comparable needs. Accommodation catalogs and interface standards may live in other instruments, later corpus additions, or adoption instruments; certification checks that substantive participation was actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.4.1 Illustrative accessibility application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3841-illustrative-accessibility-application-by-class-non-exhaustive).",
-          "gloss_line": 596
-        },
-        {
-          "file": "core_08_a_system_alignment_certification_evaluation.md",
-          "level": 6,
-          "title": "3.8.4.1 Illustrative accessibility application by class (non-exhaustive)",
-          "anchor": "3841-illustrative-accessibility-application-by-class-non-exhaustive",
-          "line": 614,
-          "gloss": null,
-          "gloss_line": null
+          "gloss_line": 731
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "3.8.5 Educational Capability and Learning-System Integrity Evaluation",
           "anchor": "385-educational-capability-and-learning-system-integrity-evaluation",
-          "line": 623,
+          "line": 763,
           "gloss": "when a school, platform, or training system can materially affect a sentient's future — through grades, rankings, recommendations, placement, or credential gates — certification has to check whether sentients can actually build capability, retrain when competencies change, and see, audit, and challenge those decisions. Curricula, rubrics, and funding models live in other instruments; certification checks that capability-building substance and learning-system integrity were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) (*Illustrative class profiles*) are in [§3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3851-illustrative-educational-capability-application-by-class-non-exhaustive).",
-          "gloss_line": 637
-        },
-        {
-          "file": "core_08_a_system_alignment_certification_evaluation.md",
-          "level": 6,
-          "title": "3.8.5.1 Illustrative educational-capability application by class (non-exhaustive)",
-          "anchor": "3851-illustrative-educational-capability-application-by-class-non-exhaustive",
-          "line": 649,
-          "gloss": null,
-          "gloss_line": null
+          "gloss_line": 777
         },
         {
           "file": "core_08_a_system_alignment_certification_evaluation.md",
           "level": 5,
           "title": "3.8.6 Trustworthiness and System-Reliance Integrity Evaluation",
           "anchor": "386-trustworthiness-and-system-reliance-integrity-evaluation",
-          "line": 658,
+          "line": 803,
           "gloss": "when a system materially affects whether sentients can trust what it says and does — and push back when that trust fails — certification has to check whether reliance is actually warranted, honestly disclosed, and repairable. Reliability metrics and test-suite designs live in other instruments; certification checks that trustworthiness, false-trust risk, and challenge paths were actually evaluated where the trigger applies. Worked examples for the illustrative systems in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) are in [§3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#3861-illustrative-trustworthiness-application-by-class-non-exhaustive).",
-          "gloss_line": 672
-        },
-        {
-          "file": "core_08_a_system_alignment_certification_evaluation.md",
-          "level": 6,
-          "title": "3.8.6.1 Illustrative trustworthiness application by class (non-exhaustive)",
-          "anchor": "3861-illustrative-trustworthiness-application-by-class-non-exhaustive",
-          "line": 684,
-          "gloss": null,
-          "gloss_line": null
+          "gloss_line": 817
         }
       ]
     },
