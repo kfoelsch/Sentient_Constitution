@@ -2625,6 +2625,8 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 - [System](core_05_band_continuity.md#system) — structured technical, organizational, and governance components producing effects on sentients, environments, or other systems;
 - [System Boundaries](core_05_band_continuity.md#system-boundaries) — functional scope defined by material impact and dependency rather than formal or jurisdictional limits;
 - [System Boundary Integrity](core_05_band_continuity.md#system-boundary-integrity) — accuracy and stability in boundary definition against manipulation or silent exclusion;
+- [Process](core_05_band_continuity.md#process) — a repeatable sequence of steps, decisions, records, clocks, or handoffs by which a duty is carried out, judged as part of its system;
+- [Institution](core_05_band_continuity.md#institution) — a durable holder of authority or of an organized role, defined by function and continuing through turnover of its occupants;
 - [Charter](core_05_band_continuity.md#charter) — the published, amendable scope instrument stating what a system, institution, or business claims authority to do, subject to periodic alignment review;
 - [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in) — conditions where exit or corrective action is foreclosed, negating meaningful agency or contestability.
 
@@ -2732,6 +2734,97 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
     - dependencies;
     - actors; or
     - effects.
+
+---
+
+#### Process
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
+- Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
+- Read with: [System](core_05_band_continuity.md#system), [System Boundaries](core_05_band_continuity.md#system-boundaries), [Governance](core_05_band_accountability.md#governance), [Due Process](core_05_band_accountability.md#due-process), [Procedural Fairness](core_05_band_participation.md#procedural-fairness), [Timely Resolution](core_05_band_accountability.md#timely-resolution), [Attributable Action](core_05_band_accountability.md#attributable-action), and [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification).
+- Distinguish: [Due Process](core_05_band_accountability.md#due-process) and [Procedural Fairness](core_05_band_participation.md#procedural-fairness) are standards a process must meet; they do not define what a process is. A forum-to-forum transfer under Chapter Twelve is a routing act, not a Process in this sense.
+
+</details>
+
+<br>
+
+*In plain terms: a **Process** is a repeatable way a duty actually gets carried out: the steps, decisions, records, deadlines, and handoffs. It is judged as part of the system it runs in. It does not get its own class or its own certification.*
+
+- **What it is**
+  - **In scope:** A repeatable sequence of steps, decisions, records, clocks, or handoffs by which a duty or a function that affects sentients is carried out. A sequence is a Process when it passes all three of these tests:
+    1. it repeats, or is meant to repeat, for like cases;
+    2. it has a defined start and end, or a defined output; and
+    3. someone can be named who performs each step, and a record shows that it ran.
+  - **Out of scope:**
+    - one-off or ad-hoc action with no repeatable sequence;
+    - a standard or value that a Process must meet, such as [Due Process](core_05_band_accountability.md#due-process) or [Procedural Fairness](core_05_band_participation.md#procedural-fairness);
+    - a bounded set of components in operation, which is a [System](core_05_band_continuity.md#system); and
+    - a durable holder of authority, such as an office or organization, which is not defined here.
+<a id="process-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Identify the Process by what is actually done, not by its label. Find the steps, the clocks, the records, and each handoff, and test whether:
+    1. each step is performed by an identifiable actor and leaves a record;
+    2. the clocks and handoffs match those that are published; and
+    3. relabeling, rerouting, splitting, or moving the sequence to another owner leaves every requirement that applied to it in place.
+  - **Secondary measure:** [System Boundaries](core_05_band_continuity.md#system-boundaries) and [Timely Resolution](core_05_band_accountability.md#timely-resolution) — co-measures that place the Process inside the system it serves and test its clocks.
+
+    **Secondary assessment:** When evaluating the primary trace, evaluate the Process in the full functional scope of the [System](core_05_band_continuity.md#system) it runs in. A Process is held to that system's class and is not classified or certified separately.
+<a id="process-c"></a>
+- **What must hold**
+  - Every requirement that applies to a Process stays in force when it is relabeled, rerouted, split, merged, outsourced, or transferred to another owner.
+  - **Primary failure:** treating a sequence as outside this entry, or as a different thing, to avoid a requirement that would apply to it.
+  - **Secondary failure:** evaluating a Process on part of its steps, clocks, records, or handoffs, so that the omitted part escapes review.
+
+---
+
+#### Institution
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Constitutional frame: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); scales with [material stake](core_00_preamble.md#material-stake).
+- Downstream: [Chapter One §19.6 Keeping Responsibility When Ownership or Structure Changes](core_01_c_stewardship_capacity_principles.md#196-keeping-responsibility-when-ownership-or-structure-changes) (*duties follow the work through reorganization*); [corpus_institutions.md](corpus_institutions.md) (*institutional design, authority, and redress mechanics*).
+- Cluster component: [System boundaries, integrity, and exit](#system-boundaries-integrity-and-exit).
+- Read with: [System](core_05_band_continuity.md#system), [Process](core_05_band_continuity.md#process), [Charter](core_05_band_continuity.md#charter), [Governance](core_05_band_accountability.md#governance), [Stewardship](core_05_band_continuity.md#stewardship), [Institutional Development](core_05_band_continuity.md#institutional-development), [System Creation](core_05_band_participation.md#system-creation), [Business Creation](core_05_band_participation.md#business-creation), [Material Control Line](core_05_band_accountability.md#material-control-line), and [Attributable Action](core_05_band_accountability.md#attributable-action).
+- Distinguish: an Institution is defined here by its function, not by legal form or name. [Chapter Thirteen](core_13_governance.md) treaty, compact, or charter instruments that found a political community are a different matter. The mechanics of forming, staffing, supervising, and dissolving Institutions live in [corpus_institutions.md](corpus_institutions.md), not in this entry.
+
+</details>
+
+<br>
+
+*In plain terms: an **Institution** is a lasting holder of authority, such as an office, agency, organization, or forum. It keeps its mandate when its occupants change. What counts is what it actually decides and who answers for it, not what it calls itself or how it is incorporated.*
+
+- **What it is**
+  - **In scope:** A durable holder of authority or of an organized role, which continues when its occupants change. A body is an Institution when it passes all three of these tests:
+    1. it outlasts any single occupant, because offices, mandate, or membership carry on through turnover;
+    2. it holds a defined mandate, authority, or stewarded resource that it uses to decide, act, or hold something for or over others; and
+    3. an accountable office or steward can be identified for what it does, including a successor when it is reorganized.
+  - **Out of scope:**
+    - a one-time or ad-hoc group with no continuing mandate or offices;
+    - a [System](core_05_band_continuity.md#system), which is a set of components in operation. An Institution may run Systems but is not one;
+    - a [Process](core_05_band_continuity.md#process), which is a repeatable sequence. An Institution may own Processes but is not one; and
+    - a single sentient acting alone, even when that sentient holds an office. The office is the Institution; the occupant is a steward of it.
+<a id="institution-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess responsibility for use of authority.
+
+    **Primary assessment:** Identify the Institution by what it actually decides, holds, and controls, not by its label or legal form. Find the mandate, the offices, the stewards, and the successor, and test whether:
+    1. each use of authority can be attributed to an accountable office or steward;
+    2. the mandate shown in practice matches the published [Charter](core_05_band_continuity.md#charter) or equivalent instrument; and
+    3. reorganizing, renaming, splitting, merging, or reincorporating the body leaves every duty that applied to it in place.
+  - **Secondary measure:** [Governance](core_05_band_accountability.md#governance) and [Material Control Line](core_05_band_accountability.md#material-control-line) — co-measures that test who actually directs the body.
+
+    **Secondary assessment:** When evaluating the primary trace, identify any actor that holds real control without holding the formal office, and evaluate the Institution by where authority actually sits.
+<a id="institution-c"></a>
+- **What must hold**
+  - Every duty that applies to an Institution follows its function through relabeling, reorganization, succession, subsidiary structure, or change of legal form.
+  - **Primary failure:** using a form, name, or structure to claim that a body holding durable authority is not an Institution, so that a duty that would apply to it does not.
+  - **Secondary failure:** leaving authority held in practice by an actor that no office or steward answers for.
 
 ---
 
