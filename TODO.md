@@ -33,7 +33,7 @@ Evaluation outcome: do not add independent process certification or process clas
 - [ ] **Define Process in Chapter Five** with a test (placeholder tests in `project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md`). Prerequisite for B. Institution has no standalone definition either.
 - [ ] **Name B** so it is neither "system alignment certification" nor the Chapter Twelve §5 forum-to-forum sense.
 - [ ] **Check `MINIMUM_VIABLE_ADOPTER.md` §4.1** against `adoption/ANNOUNCEMENT.md` so the outline never reads as a promised feature.
-- [ ] **B needs a core proposal (Lane D)** touching Chapter Eight Part B §4.1 (formerly §11.1) and Chapter Twelve; Chapter Sixteen §1 heightened review applies. Hold until after the announcement.
+- [ ] **B needs a core proposal (Lane D)** touching Chapter Eight Part B §6.1 (formerly §11.1) and Chapter Twelve; Chapter Sixteen §1 heightened review applies. Hold until after the announcement.
 - [ ] **Connect to the process-ownership draft:** its floor-touching test is reused as a B guardrail, and its use of "certification" for forum-to-forum routing is part of the naming collision.
 
 ### 2026-10-01 — Chapter One structure pass: done, and open follow-ups

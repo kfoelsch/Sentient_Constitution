@@ -153,7 +153,7 @@ Le Chapitre cinq définit ces conditions sous **Préconditions environnementales
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§2 Objectif fondateur : bien-être](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), et [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§2 Objectif fondateur : bien-être](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), et [Chapitre sept §4 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@ Le Chapitre cinq définit ces conditions sous **Préconditions environnementales
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3.2 Vérité](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), et [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§3.2 Vérité](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Contraintes de divulgation épistémique](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), et [Chapitre sept §4 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@ Le détail procédural de l’**Article II** (*Administration responsable matér
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3.2 Vérité](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Principes d’arbitrage centraux](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), et [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§3.2 Vérité](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Principes d’arbitrage centraux](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), et [Chapitre sept §4 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@ Le détail procédural de l’**Article II** (*Administration responsable matér
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Principes d’arbitrage centraux](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), et [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§3.1 Sécurité](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Principes d’arbitrage centraux](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), et [Chapitre sept §4 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Lire avec : [Article XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Droits de portabilité*) ; [corpus_systems.md](../../corpus_systems.md) **CS-2 — Types d’information et traitement** ; **CJS-3.17** (*termes d’interopérabilité, de portabilité et d’intégrité de sortie*) et **CJS-3.18** (*termes de rétention des données et d’intégrité du cycle de vie*) ; [Chapitre un §11.6 Responsabilité du successeur et non-évasion de structure formelle](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape) ; [Chapitre neuf §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) et [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@ Ces exigences protègent l’infrastructure partagée et les systèmes qui en d�
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§3.2 Vérité](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [§10 Gouvernance sous discipline d’administration responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- En amont : Principes : Chapitre un [§3.2 Vérité](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chapitre sept §4 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), et [§10 Gouvernance sous discipline d’administration responsable](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Lire avec : famille de mesure Continuité (*Dépendance et flux de ressources comme mesure constitutionnelle*) ; [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **supervision** à travers des cartes de dépendance transparentes et des registres auditables de flux de ressources, **participation** dans un examen contestable sous l’**Article XV-A** (*Auditabilité et preuve observable*) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** (allocation visible des coûts et des bénéfices) et **Continuité** (visibilité durable des dépendances à travers des systèmes qui changent).
 - En aval : [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) et [Chapitre sept](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) là où des systèmes allouent, routent, financent ou extraient de l’infrastructure partagée ou de dépendances fondatrices ; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Allocation des ressources et administration responsable du financement*), et **CS-8** (*Durabilité adaptive et résilience de l’écosystème*).
 
@@ -828,7 +828,7 @@ Ces exigences protègent l’infrastructure partagée et les systèmes qui en d�
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- En amont : Principes : Chapitre un [§2 Objectif fondateur : bien-être](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Principes d’arbitrage centraux](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), et [Chapitre sept §3 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre un [§2 Objectif fondateur : bien-être](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Principes d’arbitrage centraux](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), et [Chapitre sept §4 Évaluation de certification du système entier](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Lire avec : [*Architecture de gouvernance, supervision, dépendance, décentralisation, concentration, structure de marché, et intégrité de la voie de sortie*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (invocation conjointe là où la concentration, la supervision, la dépendance, la structure d’autorité gouvernante, ou le routage des incitations croisent **§5** / **§5** et la discipline d’*Interaction de seuil de concentration* dans le texte opératoire ci-dessous).
 - Lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) — **participation** dans les voies de contestation, **supervision** et audit, **reddition de comptes** et examen correctif, **action en temps** sous l’**Article XXIV-C** (*Résolution en temps et plancher anti-retard*) ; [Deux fins constitutionnelles](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** (équité inter-systèmes et non-extraction) et **Continuité** (durabilité de long terme et financement de l’écosystème).
 - En aval : [Certification d’alignement du système](core_05_band_continuity.md#system-alignment-certification-constitutional) et [Chapitre sept](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) là où l’équité inter-systèmes, le financement de l’écosystème, ou l’extraction persistante de l’infrastructure partagée est matériellement en jeu.

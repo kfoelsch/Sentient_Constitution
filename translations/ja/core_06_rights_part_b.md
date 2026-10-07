@@ -218,7 +218,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">根拠と連関</span></strong></summary>
 
 - 上流：原則：第一章 [§3.1 公正](core_01_a_values_principles.md#31-fairness)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、および[第一章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 下流：参加測定群（*実質的公正、保護特性の代理指標化および不均衡な影響*）；[第八章 §3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation)（*認証が分類、順位付け、価格設定、利用制限または負担配分の条件となる場合の差別禁止評価*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)のフォーラム、行政および執行の手続（*裁定および運用上の義務*）。
+- 下流：参加測定群（*実質的公正、保護特性の代理指標化および不均衡な影響*）；[第八章 §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation)（*認証が分類、順位付け、価格設定、利用制限または負担配分の条件となる場合の差別禁止評価*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)のフォーラム、行政および執行の手続（*裁定および運用上の義務*）。
 - あわせて読む：第五章の[保護特性](core_05_band_participation.md#protected-characteristics-constitutional)および[言語、文化、遺産](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；先住民の継続性および領域の継続性に関する問いについては、第五章の[先住民の継続性](core_05_band_continuity.md#indigenous-continuity-constitutional)（*コミュニティに根ざした権利の床；所管する床は**Article VI-C**（差別の禁止）および**Article I-A**（環境上の前提条件と生態系の完全性）*）を参照する。これらの問いは[Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)（*生態系の完全性という前提条件*）および[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*採用主体の管轄規律*）に導かれる。
 
 </details>
@@ -264,8 +264,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 平易な言葉によるアクセシビリティ](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 下流：**第VI-A条**（*尊厳と道徳的地位の平等*）の尊厳の最低基準、**第VI-C条**（*差別禁止*）の裁定および運用における差別禁止と完全な包摂、**第IV-A条**（*教育への平等なアクセス*）の教育への平等なアクセス（重複なし。教育固有のアクセシビリティは同条が扱い、本条は分野横断的な権利の床を定める）、**第X-B条**（*統治参加と投票資格*）の統治参加、**第XII条**（*利害関係者のシステム参加、代表および適正手続*）の利害関係者参加、**第XVI条**（*監査、透明性および独立検証*）の独立検証、参加測定群（*憲法上の測定としてのアクセシビリティ*）、[第八章 §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation)（*認証が実質的な参加の条件となる場合のアクセシビリティ評価*）。
+- 上流：原則：第一章 [§3 基本目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 制限の規律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 平易な言葉によるアクセシビリティ](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 下流：**第VI-A条**（*尊厳と道徳的地位の平等*）の尊厳の最低基準、**第VI-C条**（*差別禁止*）の裁定および運用における差別禁止と完全な包摂、**第IV-A条**（*教育への平等なアクセス*）の教育への平等なアクセス（重複なし。教育固有のアクセシビリティは同条が扱い、本条は分野横断的な権利の床を定める）、**第X-B条**（*統治参加と投票資格*）の統治参加、**第XII条**（*利害関係者のシステム参加、代表および適正手続*）の利害関係者参加、**第XVI条**（*監査、透明性および独立検証*）の独立検証、参加測定群（*憲法上の測定としてのアクセシビリティ*）、[第八章 §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation)（*認証が実質的な参加の条件となる場合のアクセシビリティ評価*）。
 - 併読：第五章の*アクセシビリティ*、*保護特性*、*実質的公正*、*実質的利害*、*依存*、*意味ある主体性*。分野横断的なアクセシビリティ原則：[第一章 §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)（*平易な言葉によるアクセシビリティ*）。
 
 </details>
@@ -1024,7 +1024,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位原則：[第1章 §5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 認識上の開示制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第8章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1071,7 +1071,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§9.1 生産能力（手段的善）](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)、[第1章 §13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第1章 §18 責任ある管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：[第1章 §5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§9.1 生産能力（手段的善）](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)、[第1章 §13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第8章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[第1章 §18 責任ある管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 下流規定：**第III-C条**（*労働と経済の最低基準*）の労働・経済の最低基準、**第IX-A条**（*肖像および評判に対する自己所有権*）の肖像、**第IX-B条**（*経験データおよび派生データに関する権利*）の経験データと派生データ、**第IX-C条**（*真実に基づく公開と影響の大きい公開の制限*）の公開、第1章 **§11**の集中防止および**§13.1**の集中閾値メカニズム。
 - 次と併せて読むこと：[**Def.C1** *労働と経済の最低基準：報酬、組織、安全な条件、余暇、創作労働*](core_05_band_continuity.md#labor-and-economic-floor-cluster)（**第III-C条**（*労働と経済の最低基準*）、**第III-D条**（*安全な労働条件*）、**第III-E条**（*休息と回復*）と併せて適用）、および実質的に関係する場合の[**Def.C3**（*プライバシー（情報）*）](core_05_band_continuity.md#privacy-informational-cluster)。
 
@@ -1254,7 +1254,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連性</span></strong></summary>
 
-- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位原則：[第1章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第1章 §13.1.5 権利衝突手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[第8章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1563,7 +1563,7 @@ flowchart TB
   - **Chapter Ten** または **Article XIX** (*Standing and Participation Status*) に基づき、地位ロックを支持し、能力認証を拒否・遅延し、指定経路を狭めること。
   - [Chapter Eleven](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out) に基づく反憲法的非行指定を支持すること。
   - **Article X-B** (*Governance Participation and Voting Entitlement*) および **Chapter Thirteen** に基づく統治投票、利害関係者参加、立候補、役職就任、フォーラムでの職務、解任請求の権利を減らすこと。
-  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest) に基づくシステムの整合性認証に不利に算入すること。
+  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest) に基づくシステムの整合性認証に不利に算入すること。
   - **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) がすでに禁じる監視、潜入、脅威スコアリングまたは記録蓄積を正当化すること。
   - 生存に不可欠なもの、権利保障の最低限、雇用、通常の商取引、異議申立て・救済へのアクセスを条件付きにすること。
 
@@ -1789,7 +1789,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：第一章 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application)、第八章 [§3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位原則：第一章 [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application)、第八章 [§4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 - 併読事項：[Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) の**参加**の柱（ステークホルダーのシステム参加レイヤー）；[material stake](core_00_preamble.md#material-stake) に応じた拡大；[Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) および [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)。
 - レイヤー：**Stakeholder System Participation (SSP)**。承認を扱う **Constitutional Contract Layer (CCL)** とは別である。
 
@@ -1836,7 +1836,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連関係</span></strong></summary>
 
-- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第一章 §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：[第一章 §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[第一章 §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 
 </details>
 
@@ -1923,7 +1923,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">関連根拠</span></strong></summary>
 
-- 上位原則：原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第8章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、および[第1章 §18 受託責任の規律下における統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位原則：原則：第1章 [§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第8章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、および[第1章 §18 受託責任の規律下における統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 次と併せて読む：[システムの支配](core_05_band_continuity.md#system-capture)、[支配防止](core_05_band_continuity.md#anti-capture)、[第7章：機能上の独立性と職務分離](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)。
 
 </details>

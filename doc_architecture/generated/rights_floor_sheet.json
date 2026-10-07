@@ -673,7 +673,7 @@
       "title": "Article XVI-A: Auditability and Observable Evidence",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xvi-a-auditability-and-observable-evidence",
-      "line": 1038,
+      "line": 1040,
       "plain_terms": "systems must keep enough honest evidence of what they do that someone outside can piece together what happened and challenge it — within lawful security limits.",
       "href": "../../core_06_rights_part_c.md#article-xvi-a-auditability-and-observable-evidence"
     },
@@ -681,7 +681,7 @@
       "title": "Article XVI-B: Distributed Oversight and Anti-Monopoly Review",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xvi-b-distributed-oversight-and-anti-monopoly-review",
-      "line": 1063,
+      "line": 1065,
       "plain_terms": "no single actor, public or private, may corner oversight. Several independent reviewers must be able to find, review, and fix failures, or a system that has been captured by narrow interests. And no one may check their own work: whoever acted, or runs the system being reviewed, cannot be the one who checks it.",
       "href": "../../core_06_rights_part_c.md#article-xvi-b-distributed-oversight-and-anti-monopoly-review"
     },
@@ -689,7 +689,7 @@
       "title": "Article XVI-C: Verification Accessibility",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xvi-c-verification-accessibility",
-      "line": 1098,
+      "line": 1100,
       "plain_terms": "you must be able to actually get an audit or a challenge. Making checking too expensive, too slow, too hidden, or too hard to qualify for breaks this rule. A barrier can stay only if it passes the same strict test as a security limit on what can be observed — and whoever relies on the barrier has to prove it passes.",
       "href": "../../core_06_rights_part_c.md#article-xvi-c-verification-accessibility"
     },
@@ -697,7 +697,7 @@
       "title": "Article XVII: System Lifecycle, Environments, and Reversibility",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xvii-system-lifecycle-environments-and-reversibility",
-      "line": 1136,
+      "line": 1138,
       "plain_terms": "when a system can affect sentients or the world outside it, it has to be built, tested, and released in careful steps. Experiments must be kept apart from the live system. And there must be a way to undo the harm, or at least contain it, if something goes wrong. Calling a system \"experimental\" or \"low-impact\" does not let anyone skip these safeguards while it is actually affecting the outside world.",
       "href": "../../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility"
     },
@@ -705,7 +705,7 @@
       "title": "Article XVII-A: Lifecycle Governance and Environment Separation",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xvii-a-lifecycle-governance-and-environment-separation",
-      "line": 1187,
+      "line": 1189,
       "plain_terms": "the more a system matters, the more strictly the versions being built, tested, and used for real must be kept apart. For the most important systems, that means a full chain of separate environments. For small local systems, it means enough separation that a bad change cannot wreck what participants have in the system. Either way, nothing running outside the live version may be used to slip past its safeguards.",
       "href": "../../core_06_rights_part_c.md#article-xvii-a-lifecycle-governance-and-environment-separation"
     },
@@ -713,7 +713,7 @@
       "title": "Article XVII-B: Progressive Deployment and Reversibility",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xvii-b-progressive-deployment-and-reversibility",
-      "line": 1227,
+      "line": 1229,
       "plain_terms": "important systems must release changes in stages, write down each step, and keep a way to undo them. Small local systems may change often and all at once, as long as participants are told, bad changes can be reversed quickly, and participants do not lose what they have built up without warning. Where a full undo is not possible, there must be a plan to contain the harm or make up for it.",
       "href": "../../core_06_rights_part_c.md#article-xvii-b-progressive-deployment-and-reversibility"
     },
@@ -721,7 +721,7 @@
       "title": "Article XVII-C: Misclassification and Evasion Consequences",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xvii-c-misclassification-and-evasion-consequences",
-      "line": 1266,
+      "line": 1268,
       "plain_terms": "a system cannot call itself \"experimental,\" **Class P**, **Class L**, or \"low-impact\" to dodge its duties while it is actually affecting the outside world more than that label allows.",
       "href": "../../core_06_rights_part_c.md#article-xvii-c-misclassification-and-evasion-consequences"
     },
@@ -729,7 +729,7 @@
       "title": "Article XVIII: Innovation, Experimentation, and Creative Freedom",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xvii-sandboxed-innovation-experimentation-and-creative-freedom",
-      "line": 1301,
+      "line": 1303,
       "plain_terms": "you are free to experiment, invent, and create. Projects that affect only you and others who chose to take part may run under lighter rules — but calling something a \"sandbox\" does not make it one. Once a project starts affecting others, or others start depending on it, the full rules apply. Inventors and creators can be rewarded for their work, but only in ways that are narrow and temporary, and never by locking up knowledge, tools, or infrastructure that others need to live, learn, repair, or check the facts.",
       "href": "../../core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom"
     },
@@ -737,7 +737,7 @@
       "title": "Article XVIII-A: Sandboxed Scope",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-a-sandboxed-scope",
-      "line": 1335,
+      "line": 1337,
       "plain_terms": "experimentation and creative work can operate under lighter rules — but only when real external impact is either absent or demonstrably contained. The \"sandbox\" label alone is not enough.",
       "href": "../../core_06_rights_part_c.md#article-xviii-a-sandboxed-scope"
     },
@@ -745,7 +745,7 @@
       "title": "Article XVIII-B: Containment, Disclosure, and Opt-In",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-b-containment-disclosure-and-opt-in",
-      "line": 1367,
+      "line": 1369,
       "plain_terms": "experimental systems must be honest about being experimental, must not dump risk onto outsiders, and must not conscript non-participants through design defaults or hidden dependencies.",
       "href": "../../core_06_rights_part_c.md#article-xviii-b-containment-disclosure-and-opt-in"
     },
@@ -753,7 +753,7 @@
       "title": "Article XVIII-C: Transition to Higher-Obligation Regimes",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-c-transition-to-higher-obligation-regimes",
-      "line": 1400,
+      "line": 1402,
       "plain_terms": "once a sandbox system starts mattering in the real world, it must graduate to real-world obligations — promptly, not at the operator's convenience.",
       "href": "../../core_06_rights_part_c.md#article-xviii-c-transition-to-higher-obligation-regimes"
     },
@@ -761,7 +761,7 @@
       "title": "Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-d-innovation-reward-disclosure-and-anti-enclosure",
-      "line": 1428,
+      "line": 1430,
       "plain_terms": "inventors and creators can be rewarded, but any control they get must be narrow, temporary, and open to review, and it may never lock up what others need. This subsection sets the rules shared by every kind of work, and says how to tell a creative work (**Article XVIII-E** (*Creative and Expressive Works*)) from a working invention (**Article XVIII-F** (*Inventions, Processes, and Functional Systems*)). Game rules and mechanics belong to everyone and cannot be owned.",
       "href": "../../core_06_rights_part_c.md#article-xviii-d-innovation-reward-disclosure-and-anti-enclosure"
     },
@@ -769,7 +769,7 @@
       "title": "Article XVIII-E: Creative and Expressive Works",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-e-creative-and-expressive-works",
-      "line": 1480,
+      "line": 1482,
       "plain_terms": "creators get a limited time of control over copying, sharing, and selling their work — at most 30 years after publication — and credit that never expires. The clock runs from when the work comes out, not from the creator's death, and drafts or delays cannot be used to stretch it.",
       "href": "../../core_06_rights_part_c.md#article-xviii-e-creative-and-expressive-works"
     },
@@ -777,7 +777,7 @@
       "title": "Article XVIII-F: Inventions, Processes, and Functional Systems",
       "file": "core_06_rights_part_c.md",
       "anchor": "article-xviii-f-inventions-processes-and-functional-systems",
-      "line": 1519,
+      "line": 1521,
       "plain_terms": "inventors must explain an invention well enough for others to rebuild it. In return they get at most 15 years of exclusive control, then at most 15 more years in which anyone may use the invention for a fee. The fee is worked out as fair wages for the time the invention saves or the good it does, so inventions that make everyone more productive earn more. The fee may take at most half of the gain, and a smaller share the more widely the invention is used, but never less than 1%. It does not depend on what the market will bear. Medicines, critical infrastructure, standards, and the systems many depend on get shorter terms or open access. No invention right may be used to block repair, safety work, research, or switching providers.",
       "href": "../../core_06_rights_part_c.md#article-xviii-f-inventions-processes-and-functional-systems"
     },

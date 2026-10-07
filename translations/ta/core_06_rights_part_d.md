@@ -264,7 +264,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [அத்தியாயம் ஒன்று §18 பொறுப்பாட்சி ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [அத்தியாயம் ஒன்று §18 பொறுப்பாட்சி ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -530,7 +530,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -562,7 +562,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -591,7 +591,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [அத்தியாயம் ஒன்று §18 பொறுப்பாட்சி ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- மேல்நிலை: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [அத்தியாயம் ஒன்று §18 பொறுப்பாட்சி ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -770,7 +770,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - இணைத்துப் படிக்க: [அத்தியாயம் ஒன்று §5.2 எளிய மொழி அணுகல் (பொறுப்பாட்சி கடமை)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [அத்தியாயம் ஒன்று பகுதி C §16.1 பரவலாக்கப்பட்ட புரிதல்](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -804,7 +804,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [அத்தியாயம் ஒன்று §18.5 தொகுதிக் கட்டமைப்பும் சார்பு ஒழுங்கும்](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [அத்தியாயம் ஒன்று §18.5 தொகுதிக் கட்டமைப்பும் சார்பு ஒழுங்கும்](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -841,7 +841,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - இணைத்துப் படிக்க: [அரசியலமைப்பு நாற்கூறு](core_00_preamble.md#constitutional-tetrad); [இரு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு**, **தொடர்ச்சி**; **அத்தியாயம் ஐந்து**-இல் [மீள்தன்மை](core_05_band_continuity.md#reversibility-constitutional), [ஆபத்து](core_05_band_continuity.md#risk), [அமைப்பு கைப்பற்றல்](core_05_band_continuity.md#system-capture).
 
 </details>
@@ -889,7 +889,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -924,7 +924,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மையப் பரிமாற்றக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றிதழ் மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 

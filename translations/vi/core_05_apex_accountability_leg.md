@@ -83,7 +83,7 @@ Các **thuật ngữ độc lập và bán độc lập** sống dưới [Trách
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Đọc cùng: [Chương Một §11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Cấu trúc thị trường](core_01_c_stewardship_capacity_principles.md#13-market-structure), và [Chương Bảy §3.6 Kỷ luật quản trị, khuyến khích, và khả năng tranh biện](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline).
+- Đọc cùng: [Chương Một §11 Thẳng hàng khuyến khích và chiếm hệ thống](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Cấu trúc thị trường](core_01_c_stewardship_capacity_principles.md#13-market-structure), và [Chương Bảy §4.3 Kỷ luật quản trị, khuyến khích, và khả năng tranh biện](../../core_08_a_system_alignment_certification_evaluation.md#43-governance-incentive-and-contestability-discipline).
 
 </details>
 

@@ -214,7 +214,7 @@ Pasal ini menetapkan lantai untuk memutus status kesentienan yang disengketakan.
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
 - Hulu: Prinsip: Bab Satu [§3.1 Keadilan](core_01_a_values_principles.md#31-fairness), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Satu §13.1.5 Prosedur Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Hilir: Keluarga pengukuran partisipasi (*Keadilan Substantif dan Proksi Karakteristik yang Dilindungi serta Dampak yang Berbeda*); [Bab Delapan §3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*evaluasi nondiskriminasi ketika sertifikasi menjadi gerbang klasifikasi, pemeringkatan, penetapan harga, pembatasan akses, atau alokasi beban*); proses forum, administrasi, dan penegakan [Bab Dua Belas](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*kewajiban adjudikasi dan operasi*).
+- Hilir: Keluarga pengukuran partisipasi (*Keadilan Substantif dan Proksi Karakteristik yang Dilindungi serta Dampak yang Berbeda*); [Bab Delapan §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*evaluasi nondiskriminasi ketika sertifikasi menjadi gerbang klasifikasi, pemeringkatan, penetapan harga, pembatasan akses, atau alokasi beban*); proses forum, administrasi, dan penegakan [Bab Dua Belas](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*kewajiban adjudikasi dan operasi*).
 - Baca bersama: Bab Lima [Karakteristik yang Dilindungi](core_05_band_participation.md#protected-characteristics-constitutional) dan [Bahasa, Budaya, dan Warisan](core_05_band_continuity.md#language-culture-and-heritage-constitutional); Bab Lima [Keberlanjutan Masyarakat Adat](core_05_band_continuity.md#indigenous-continuity-constitutional) (*Landasan Hak yang bertumpu pada komunitas; landasan pemilik **Pasal VI-C** (Nondiskriminasi) dan **Pasal I-A** (Prasyarat Lingkungan dan Integritas Ekologis)*) untuk persoalan keberlanjutan masyarakat adat dan kesinambungan wilayah, yang dirujuk ke [Pasal I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*prasyarat integritas ekosistem*) dan [Bab Tujuh Belas](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*disiplin yurisdiksi pengadopsi*).
 
 </details>
@@ -260,8 +260,8 @@ Pasal ini menetapkan landasan nondiskriminasi, perlindungannya atas bahasa, buda
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Disiplin Pembatasan](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 Aksesibilitas Bahasa Sederhana](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- Hilir: lantai martabat **Pasal VI-A** (*Martabat dan Kedudukan Moral yang Setara*), nondiskriminasi dan inklusi penuh dalam ajudikasi serta operasi pada **Pasal VI-C** (*Nondiskriminasi*), akses pendidikan setara **Pasal IV-A** (*Akses Pendidikan Setara*)—aksesibilitas khusus pendidikan tetap diatur di sana; pasal ini menetapkan Lantai Hak lintas bidang—partisipasi pemerintahan **Pasal X-B** (*Partisipasi Pemerintahan dan Hak Memilih*), **Pasal XII** (*Partisipasi Sistem Pemangku Kepentingan, Perwakilan, dan Proses Hukum yang Layak*), verifikasi independen **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*); rumpun pengukuran Partisipasi (*aksesibilitas sebagai pengukuran konstitusional*); [Bab Delapan §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*evaluasi aksesibilitas ketika sertifikasi menjadi gerbang partisipasi substantif*).
+- Hulu: Prinsip: Bab Satu [§3 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Disiplin Pembatasan](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 Aksesibilitas Bahasa Sederhana](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hilir: lantai martabat **Pasal VI-A** (*Martabat dan Kedudukan Moral yang Setara*), nondiskriminasi dan inklusi penuh dalam ajudikasi serta operasi pada **Pasal VI-C** (*Nondiskriminasi*), akses pendidikan setara **Pasal IV-A** (*Akses Pendidikan Setara*)—aksesibilitas khusus pendidikan tetap diatur di sana; pasal ini menetapkan Lantai Hak lintas bidang—partisipasi pemerintahan **Pasal X-B** (*Partisipasi Pemerintahan dan Hak Memilih*), **Pasal XII** (*Partisipasi Sistem Pemangku Kepentingan, Perwakilan, dan Proses Hukum yang Layak*), verifikasi independen **Pasal XVI** (*Audit, Transparansi, dan Verifikasi Independen*); rumpun pengukuran Partisipasi (*aksesibilitas sebagai pengukuran konstitusional*); [Bab Delapan §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*evaluasi aksesibilitas ketika sertifikasi menjadi gerbang partisipasi substantif*).
 - Baca bersama Bab Lima: *Aksesibilitas*, *Karakteristik yang Dilindungi*, *Keadilan Substantif*, *Materialitas*, *Ketergantungan*, *Agensi Bermakna*. Prinsip lintas bidang: [Bab Satu §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*Aksesibilitas Bahasa Sederhana*).
 
 </details>
@@ -895,7 +895,7 @@ Setiap penggunaan, penyimpanan, transformasi, dan pengungkapan data tersebut har
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Landasan hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Landasan hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -942,7 +942,7 @@ Pasal ini menetapkan kebebasan untuk menerbitkan dengan itikad baik beserta bata
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Landasan hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Kapasitas Produktif (Kebaikan Instrumental)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Bab Satu §13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola di Bawah Disiplin Pengelolaan yang Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Landasan hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Kapasitas Produktif (Kebaikan Instrumental)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Bab Satu §13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola di Bawah Disiplin Pengelolaan yang Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Dampak hilir: lantai kerja dan ekonomi **Pasal III-C** (*Lantai Kerja dan Ekonomi*); rupa **Pasal IX-A** (*Kepemilikan Diri atas Rupa dan Reputasi*); data pengalaman dan data turunan **Pasal IX-B** (*Hak atas Data Pengalaman dan Data Turunan*); publikasi **Pasal IX-C** (*Publikasi yang Benar dan Batas Publikasi Berdampak Tinggi*); mekanisme anti-konsentrasi **Bab Satu §11** dan ambang konsentrasi **§13.1**.
 - Baca bersama: [**Def.C1** *Lantai Kerja dan Ekonomi: Kompensasi, Organisasi, Kondisi Aman, Waktu Luang, dan Karya Kreatif*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (pemanggilan bersama dengan **Pasal III-C** (*Lantai Kerja dan Ekonomi*), **III-D** (*Kondisi Kerja Aman*), dan **III-E** (*Istirahat dan Pemulihan*), serta [**Def.C3** (*Privasi (Informasional)*)](core_05_band_continuity.md#privacy-informational-cluster) jika berdampak material).
 
@@ -1125,7 +1125,7 @@ Pasal ini mencakup dua hal: siapa yang berhak memilih dan aturan bahwa suara dal
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Landasan hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Satu §13.1.5 Prosedur Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Landasan hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Satu §13.1.5 Prosedur Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1433,7 +1433,7 @@ Pasal ini menetapkan lantai untuk perkumpulan, perbedaan pendapat, dan protes da
   - mendukung penguncian kedudukan, menolak atau menunda kelulusan kompetensi, atau mempersempit jalur yang disebutkan menurut **Bab Sepuluh** atau **Pasal XIX** (*Status Kedudukan dan Partisipasi*);
   - mendukung penetapan pelanggaran tata kelakuan antikonstitusional menurut [Bab Sebelas](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out);
   - mengurangi hak suara tata kelola, partisipasi pemangku kepentingan, pencalonan, pemegang jabatan, layanan forum, atau penarikan kembali menurut **Pasal X-B** (*Partisipasi Tata Kelola dan Hak Memilih*) dan **Bab Tiga Belas**;
-  - diperhitungkan secara merugikan terhadap sertifikasi keselarasan sistem menurut [Bab Delapan](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest);
+  - diperhitungkan secara merugikan terhadap sertifikasi keselarasan sistem menurut [Bab Delapan](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest);
   - membenarkan pemantauan, penyusupan, penilaian ancaman, atau penumpukan catatan yang sudah dilarang oleh **Pasal XIV-A** (*Keamanan, Intelijen, dan Batas Kekuasaan Terselubung*); atau
   - dijadikan syarat bagi kebutuhan dasar untuk bertahan hidup, minimum Lantai Hak, pekerjaan, perdagangan biasa, atau akses untuk menggugat dan memperoleh pemulihan.
 
@@ -1654,7 +1654,7 @@ Upaya yang sah berjalan melalui [Tetrad Konstitusional](core_00_preamble.md#cons
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Landasan: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Satu §20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Landasan: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Satu §20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Baca bersama: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad) — aspek **partisipasi** (lapisan Partisipasi Sistem Pemangku Kepentingan); penskalaan menurut [kepentingan material](core_00_preamble.md#material-stake); [Catatan Tindakan yang Mengikat secara Material](core_05_band_accountability.md#materially-binding-act-record) dan [Bab Tujuh §7 Catatan Tindakan, Serah Terima yang Dapat Diatribusikan, dan Pengalihan ke Kursi yang Keliru](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - Lapisan: **Partisipasi Sistem Pemangku Kepentingan (SSP)**. Berbeda dari otorisasi pada **Lapisan Kontrak Konstitusional (CCL)**.
 
@@ -1700,7 +1700,7 @@ Pasal ini menetapkan lantai untuk catatan deliberasi, representasi dalam keputus
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Prinsip hulu: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Prinsip hulu: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1786,7 +1786,7 @@ Pasal ini menetapkan batas minimum untuk peran internal dan proses yang semestin
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Prinsip hulu: [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Prinsip hulu: [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola di bawah Disiplin Pengelolaan Bertanggung Jawab](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Baca bersama: [Penguasaan Sistem](core_05_band_continuity.md#system-capture); [Anti-Penguasaan](core_05_band_continuity.md#anti-capture); [Bab Tujuh: Kemandirian Fungsional dan Pemisahan Tugas](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>

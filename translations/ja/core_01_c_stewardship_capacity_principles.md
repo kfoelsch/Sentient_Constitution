@@ -42,7 +42,7 @@
 - 併読：[憲法上の四原則](core_00_preamble.md#constitutional-tetrad) — 第1章において**参加**の柱（結果を左右する役割と発言。一般的要件であり、[ステークホルダーのシステム参加](core_05_band_participation.md#stakeholder-status-and-weight)だけを指すものではない）、**監督**の柱、**適時性**の柱（積極的な修復の速度）を扱う中心箇所。[重要な利害](core_00_preamble.md#material-stake)の大きさに応じる。
 - 併読：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**の目的（参加、主体性、教育への経路）、**継続性**の目的（制度的学習、修復能力、持続可能なスチュワードシップ）。
 - 上流：原則：[3. 基礎的目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)；[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)；[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)；[§9 共有システム能力](core_01_a_values_principles.md#9-shared-system-capacity)。
-- 下流：[13. 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)（[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)を含む）；[第8章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[§19.1.3 スチュワードシップと運用者への適用](#1913-stewardship-and-operator-application)。
+- 下流：[13. 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)（[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)を含む）；[第8章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)；[§19.1.3 スチュワードシップと運用者への適用](#1913-stewardship-and-operator-application)。
 - 下流：[§19.1.4 役割の深度と重要な責任への経路](#1914-role-depth-and-material-responsibility-pathways)。
 - 下流：[§7 自由（制約された主体性）](core_01_a_values_principles.md#7-freedom-bounded-agency)。これは、重要な依存関係の下でも、結果を左右するスチュワードシップ、分散した理解、意味ある参加、修復能力が実効性を保つことを前提とする。
 - 下流：[第8章 — システム整合性認証](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)（*監督の下で行われる特に大規模な監査プロセスの一つであり、監査の唯一の基盤ではない*）；[第9章 — 貢献・違反・地位モデル](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement)（*信頼、役割、承認資格に関わる地位への効果を通じて、本小節を原則レベルの基盤として実装する*）。
@@ -998,7 +998,7 @@ flowchart TB
 - あわせて読む：[憲法上の四要素](core_00_preamble.md#constitutional-tetrad) — 四要素の**乗っ取り**規律に関する第一章の主たる箇所（インセンティブが**参加、監督、説明責任、適時性**を空洞化させてはならない）；[重大な利害](core_00_preamble.md#material-stake)に応じた調整。
 - あわせて読む：説明責任の測定群（*インセンティブの整合と代理指標の完全性；市場構造と異議申立て可能性*）。
 - あわせて読む：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **継続性**の目的（短期的な最適化や乗っ取りに対する持続的な整合）；**繁栄**の目的（意味ある主体性を保つインセンティブ構造）。
-- 上流：原則：[3. 基本目標：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§3.2 承認、強化、志向](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)、[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§16 スチュワードシップの詳細](#16-stewardship-in-depth)、および[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上流：原則：[3. 基本目標：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[§3.2 承認、強化、志向](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)、[4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[6. 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§16 スチュワードシップの詳細](#16-stewardship-in-depth)、および[第八章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 - 下流：[§7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)および[§14 絶対的な上書きの禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下流：[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [第十三章 §5 — 授権された役割、能力開発、貢献](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[corpus_systems.md](corpus_systems.md)、CS-4 — 重要システムのスチュワードシップ**。
 - 下流：主体性、参加、インセンティブの整合、情報圏の完全性、法的地位、乗っ取り防止の審査に関わる権利領域を対象とする。これらは[第六章：基本的権利](core_06_rights_part_a.md#chapter-six-foundational-rights)に定められ、特に[第X条：自己決定、主体性、参加](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation)、[第XII条：利害関係者のシステム参加、代表、適正手続](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process)、[第XIII-D条：インセンティブ整合の制約](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint)、[第XV条：情報圏の完全性](core_06_rights_part_c.md#article-xv-info-sphere-integrity)、[第XIX条：法的地位と参加資格](core_06_rights_part_d.md#article-xix-standing-and-participation-status)、[第XXIV条：憲法解釈、審査、乗っ取り防止措置](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards)が含まれる。
@@ -1329,7 +1329,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - 上流：[§19 インセンティブの整合とシステムの乗っ取り](#19-incentive-alignment-and-system-capture)（[§19.1 整合要件](#191-alignment-requirement)を含む）；[第5章 *条件付き請求権、イベント契約市場、運任せのゲーム、内部者優位*](core_05_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage)。
-- 下流：[§19.3 不整合の検出](#193-misalignment-detection)；[§19.3.1 乗っ取りのエスカレーション発動条件](#1931-capture-escalation-triggers)；[§19.4 不整合の是正と乗っ取りへの対応](#194-misalignment-correction-and-capture-response)；[§13.2 認識論的開示の制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)；[第8章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；`corpus_systems.md`の分類および監督の段階的適用；`corpus_institutions.md`の利益相反と完全性に関する期待。
+- 下流：[§19.3 不整合の検出](#193-misalignment-detection)；[§19.3.1 乗っ取りのエスカレーション発動条件](#1931-capture-escalation-triggers)；[§19.4 不整合の是正と乗っ取りへの対応](#194-misalignment-correction-and-capture-response)；[§13.2 認識論的開示の制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)；[第8章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)；`corpus_systems.md`の分類および監督の段階的適用；`corpus_institutions.md`の利益相反と完全性に関する期待。
 - [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)と併せて読む — **継続性**の目的（条件付き決済が重大な影響を与える場合に、持続的で異議申立て可能な解決経路とシステム安定性を確保すること）。
 - [解決経路の乗っ取り](core_05_band_accountability.md#capture-of-resolution-pathways)、[強制と操作](core_05_band_participation.md#coercion-and-manipulation)、[異議申立て可能性](core_05_band_accountability.md#contestability)、[内部者優位](core_05_band_accountability.md#insider-advantage)と併せて読む。
 - 小節（読む順序）：[§19.5.1 報酬の対象としてはならないもの](#1951-what-may-not-be-rewarded) · [§19.5.2 結果を決めるのは誰か](#1952-who-decides-outcomes) · [§19.5.3 市場シグナルは憲法上の証明ではない](#1953-market-signals-are-not-constitutional-proof) · [§19.5.4 比例的な統制と実施の監督](#1954-proportionate-controls-and-implementation-custody)。
@@ -1435,7 +1435,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
 - [必要性](core_05_band_accountability.md#necessity)、[比例性](core_05_band_accountability.md#proportionality)、[依存](core_05_band_continuity.md#dependency)と併せて読む。
-- 下流：[第8章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[corpus_systems.md](corpus_systems.md)（*重大な影響を伴うシステムの分類と監督の段階的適用*）；[corpus_institutions.md](corpus_institutions.md)（*このような活動を監督する機関に適用される利益相反および手続規則*）。
+- 下流：[第8章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)；[corpus_systems.md](corpus_systems.md)（*重大な影響を伴うシステムの分類と監督の段階的適用*）；[corpus_institutions.md](corpus_institutions.md)（*このような活動を監督する機関に適用される利益相反および手続規則*）。
 
 </details>
 
@@ -1454,7 +1454,7 @@ flowchart TB
   - [依存](core_05_band_continuity.md#dependency) — 他者がシステムまたはその結果にどの程度依存しているか。
   - 脆弱性 — 賭ける者または影響を受ける者が、どれほど容易に被害を受けるか。
   - システム安定性 — 障害がシステムの外に広がり得るかどうか。
-- **悪用を検証する：**[第8章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)に基づいてシステムを評価し、次を含める。
+- **悪用を検証する：**[第8章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)に基づいてシステムを評価し、次を含める。
   - 結果を決めるイベントに影響を及ぼすための主体間の協調。
   - 規模の動態 — 量、参加、またはエクスポージャーの拡大に伴うリスクの変化。
 
@@ -1526,7 +1526,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">参照記録</span></strong></summary>
 
-- 上流：原則：[15. 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)、[1. 目的と役割](core_01_a_values_principles.md#1-purpose-and-role)、[§16 スチュワードシップの詳細](#16-stewardship-in-depth)、[13. 憲法上の衝突を解決する手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[7. 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、および[14. 絶対的優越の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上流：原則：[15. 憲法解釈](core_01_b_interaction_interpretation.md#15-constitutional-interpretation)、[1. 目的と役割](core_01_a_values_principles.md#1-purpose-and-role)、[§16 スチュワードシップの詳細](#16-stewardship-in-depth)、[13. 憲法上の衝突を解決する手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[第八章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[7. 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、および[14. 絶対的優越の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下流：後続の章は、ここにリンクされた第一章の原則に照らして解釈する。これには、[憲法上の四要素](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、および[重要な利害関係](core_00_preamble.md#material-stake)に応じた段階設定が含まれ、この段階設定は[序文](core_00_preamble.md#preamble--foundational-requirements)と[§1 目的と役割](core_01_a_values_principles.md#1-purpose-and-role)で定められる。
 - 下流：[第六章：基本的権利](core_06_rights_part_a.md#chapter-six-foundational-rights)は、本章の統合的な価値枠組みに照らして解釈する。
   - 制約された解釈、公的理由、異議申立て、外部審査、および権利衝突の手続が、下流での主要な役割を果たす。

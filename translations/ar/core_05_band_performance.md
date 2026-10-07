@@ -58,7 +58,7 @@
 - تعيش مستويات القياس التشغيلية في مواطن تعريف الفصل الخامس — انظر [الكفاءة الدستورية](core_05_band_continuity.md#constitutional-efficiency)، [العبء القابل للتجنّب](core_05_band_continuity.md#avoidable-burden)، [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity-constitutional) و[واجب تقليل العبء](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - أهداف الأداء والمكافآت ومقاييس الموارد لا تصح إلا بقدر ما تبقى قابلة للتتبّع إلى نواتج دستورية.
 - لا يجوز أن تحل محل الكفاءة الدستورية أو [القدرة الإنتاجية](core_05_band_continuity.md#productive-capacity-constitutional) أو الامتثال لأرضية الحقوق.
-- يُقرأ مع [الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) حيث يكون أداء النظام كاملًا داخل النطاق على نحو مادي الصلة.
+- يُقرأ مع [الفصل السابع §4 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) حيث يكون أداء النظام كاملًا داخل النطاق على نحو مادي الصلة.
 
 ---
 

@@ -124,7 +124,7 @@ Hai biện pháp bảo vệ phối hợp với nhau để đảm bảo quyền n
 - làm thế nào để thử thách nó
 - vấn đề được khắc phục như thế nào
 
-Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*), chứng nhận cũng bao gồm đánh giá về độ tin cậy theo [Chương Tám §3.9.6 Đánh giá độ tin cậy và tính toàn vẹn của hệ thống](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+Nếu hệ thống đáp ứng ngưỡng quan trọng trong **Điều XIII** (*Quyền được sử dụng các hệ thống đáng tin cậy và đáng tin cậy*), chứng nhận cũng bao gồm đánh giá về độ tin cậy theo [Chương Tám §4.8.6 Đánh giá độ tin cậy và tính toàn vẹn của hệ thống](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Khả năng cạnh tranh giữ cho hệ thống trung thực từ phía người nhận:** Chứng nhận kiểm tra một hệ thống; nó không có lời cuối cùng về nó. Mỗi người bị ảnh hưởng bởi hệ thống sẽ giữ:
 
@@ -362,7 +362,7 @@ Hai sự đảm bảo này là hai mặt của sự tin cậy liên tục: sự 
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Thiết kế có khả năng phục hồi và tự phục hồi](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh được](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Thiết kế có khả năng phục hồi và tự phục hồi](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chương Một §13.3 Giảm thiểu gánh nặng có thể tránh được](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), Và [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -714,7 +714,7 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Niềm tin](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), Và [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -787,7 +787,7 @@ Thông tin chính xác, phù hợp và có thể tranh cãi là nền tảng cho
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Hạn chế tiết lộ nhận thức](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), Và [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -938,7 +938,7 @@ Chúng hoạt động ổn định với **Chương hai đến chương bốn**,
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §18 Quản trị theo Kỷ luật Quản lý](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), Và [Chương Một §18 Quản trị theo Kỷ luật Quản lý](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1046,7 +1046,7 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1081,7 +1081,7 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), Và [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1114,7 +1114,7 @@ Người nhận có quyền quản lý để duy trì sự an toàn, tính toàn
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Thượng nguồn: Nguyên tắc: Chương Một [§5 Sự thật](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1173,7 +1173,7 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §7 Tự Do](core_01_a_values_principles.md#7-freedom-bounded-agency), Và [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương Một §7 Tự Do](core_01_a_values_principles.md#7-freedom-bounded-agency), Và [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1240,7 @@ Sự theo đuổi chính đáng xuyên suốt [Bộ tứ hiến pháp](core_00_p
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §3 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Thượng nguồn: Nguyên tắc: Chương Một [§4 An toàn](core_01_a_values_principles.md#4-safety-harm-constraint), [Chương 8 §4 Đánh giá chứng chỉ toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), Và [Chương Một §20 Ứng dụng tích hợp](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

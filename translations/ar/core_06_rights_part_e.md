@@ -265,7 +265,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: [الفصل الأول §18.4 التبرير المستمر](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)؛ والفصل الأول [§3 الهدف الأساسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، و[الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- المنبع: المبادئ: [الفصل الأول §18.4 التبرير المستمر](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)؛ والفصل الأول [§3 الهدف الأساسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، و[الفصل الثامن §4 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -296,7 +296,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[الفصل الثامن §4 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §14 حظر التجاوز المطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 المبادئ الأساسية للمفاضلة](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ و[الفصل العاشر §5.4](core_10_standing_integration.md#54-special-violation-rules) (*مصادرة المكافآت غير المتوائمة والإبلاغ عنها، على نحو يحده هذا المقال أثناء الانتقال*)؛ و[الفصل الثامن — شهادة مواءمة النظام](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 المبادئ الأساسية للمفاضلة](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §4 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)؛ و[الفصل العاشر §5.4](core_10_standing_integration.md#54-special-violation-rules) (*مصادرة المكافآت غير المتوائمة والإبلاغ عنها، على نحو يحده هذا المقال أثناء الانتقال*)؛ و[الفصل الثامن — شهادة مواءمة النظام](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -522,7 +522,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">مسار الإحالة</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[الفصل الأول §13.1.5 إجراءات تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- المنبع: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[الفصل الأول §13.1.5 إجراءات تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[الفصل الثامن §4 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - تُقرأ مع: **المادة III-A** (*البقاء*)؛ **المادة XIII** (*الحق في الأنظمة الموثوقة والجديرة بالثقة*)؛ **المادة XI-G** (*حد الضرر الجماعي وواجهة الإنفاذ*)؛ **الفصل التاسع**؛ **الفصل الأول**، بما في ذلك إجراءات تعارض الحقوق في §6؛ **مجموعة القيود الافتراضية** عند بداية الفصل السادس (*واجهة الحيازة والمعالجة*)؛ ومن [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*الممتلكات غير الممتثلة والمصادرة والحوافز الطوعية*) إلى **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*الحوكمة الانتقالية والتطور المؤسسي*).
 
 </details>

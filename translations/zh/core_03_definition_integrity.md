@@ -246,7 +246,7 @@
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 首次认证时的轨迹效果
 
-若该系统仍处于其**首次**[系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)且尚未被承认 — 包括承认被推迟或被拒绝之处 — 经核实的不合规主要决定第七章下的**认证结果**。该结果可以是有条件承认、推迟承认、不承认，或一项可比结果。当事实支撑时，那些认证记录仍可在[第七章 §7](../../core_08_b_system_alignment_certification_record_process.md#7-relationship-to-standing)下提供经核实的轨迹输入。本章不要求已认证运行中系统必须接收的同一套轨迹记录。
+若该系统仍处于其**首次**[系统对齐认证](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)且尚未被承认 — 包括承认被推迟或被拒绝之处 — 经核实的不合规主要决定第七章下的**认证结果**。该结果可以是有条件承认、推迟承认、不承认，或一项可比结果。当事实支撑时，那些认证记录仍可在[第七章 §8](../../core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing)下提供经核实的轨迹输入。本章不要求已认证运行中系统必须接收的同一套轨迹记录。
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 感知者与机构的轨迹效果

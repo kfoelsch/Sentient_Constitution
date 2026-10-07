@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint) и [Глава седьмая §4 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Ограничения эпистемического раскрытия](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Ограничения эпистемического раскрытия](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) и [Глава седьмая §4 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [Глава седьмая §4 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§3.1 Безопасность](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [Глава седьмая §4 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Читать вместе с: [Статья XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Права переносимости*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Типы информации и обращение**; **CJS-3.17** (*условия интероперабельности, переносимости и целостности выхода*) и **CJS-3.18** (*условия хранения данных и целостности жизненного цикла*); [Глава первая §11.6 Ответственность преемника и запрет бегства через формальную структуру](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Глава девятая §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) и [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Глава седьмая §3 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Исход: Принципы: Глава первая [§3.2 Истина](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Глава седьмая §4 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [§10 Управление под дисциплиной ответственного управления](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Читать вместе с: семьёй измерений Преемственности (*Зависимость и потоки ресурсов как конституционное измерение*); [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad) — **надзор** через прозрачные карты зависимостей и аудитируемые записи потоков ресурсов, **участие** в оспоримом пересмотре под **Статьёй XV-A** (*Аудитируемость и наблюдаемые доказательства*); [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — **Расцвет** (видимое распределение издержек и выгод) и **Преемственность** (долговечная видимость зависимости сквозь меняющиеся системы).
 - Назначение: [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) там, где системы распределяют, маршрутизируют, финансируют или извлекают из общей инфраструктуры или основополагающих зависимостей; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Ответственное управление распределением ресурсов и финансированием*) и **CS-8** (*Адаптивная устойчивость и живучесть экосистемы*).
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Трассировка</span></strong></summary>
 
-- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [Глава седьмая §3 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Исход: Принципы: Глава первая [§2 Основополагающая цель: благополучие](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) и [Глава седьмая §4 Оценка сертификации целой системы](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Читать вместе с: [*Архитектура управления, надзор, зависимость, децентрализация, концентрация, рыночная структура и целостность пути выхода*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (совместный вызов там, где концентрация, надзор, зависимость, структура управляющей власти или маршрутизация стимулов пересекают **§5** / **§5** и дисциплину *Взаимодействие порога концентрации* в оперативном тексте ниже).
 - Читать вместе с: [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad) — **участие** в путях оспаривания и возражения, **надзор** и аудит, **подотчётность** и исправительный пересмотр, **своевременность** под **Статьёй XXIV-C** (*Своевременное разрешение и пол против промедления*); [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — **Расцвет** (межсистемная справедливость и неизвлечение) и **Преемственность** (долгосрочная устойчивость и финансирование экосистемы).
 - Назначение: [Сертификация согласования системы](core_05_band_continuity.md#system-alignment-certification-constitutional) и [Глава седьмая](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) там, где межсистемная справедливость, финансирование экосистемы или устойчивое извлечение из общей инфраструктуры материально стоят на кону.

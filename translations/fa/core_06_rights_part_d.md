@@ -264,7 +264,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یکم §18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- بالادست: اصول: فصل یکم [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و [فصل یکم §18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -532,7 +532,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -563,7 +563,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -590,7 +590,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یکم §18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- بالادست: اصول: [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و [فصل یکم §18 حکمرانی تحت انضباط سرپرستی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -769,7 +769,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل یکم §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، و [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - همراه با این موارد خوانده شود: [فصل یکم §5.2 دسترس‌پذیری زبان ساده (تکلیف سرپرستی)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)، [§13.3 کمینه‌سازی بار اجتناب‌پذیر](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) و [فصل یکم بخش ج §16.1 فهم توزیع‌شده](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -801,7 +801,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [فصل یکم §18.5 معماری ماژولار و انضباط وابستگی](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)، و [فصل یکم §20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- بالادست: اصول: فصل یکم [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، [فصل یکم §18.5 معماری ماژولار و انضباط وابستگی](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)، و [فصل یکم §20 کاربرد یکپارچه](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -841,7 +841,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - همراه با این موارد خوانده شود: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** و **پیوستگی**؛ [برگشت‌پذیری](core_05_band_continuity.md#reversibility-constitutional)، [خطر](core_05_band_continuity.md#risk) و [تسخیر سیستم](core_05_band_continuity.md#system-capture) در **فصل پنجم**.
 
 </details>
@@ -887,7 +887,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -920,7 +920,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §3 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §4 ارزیابی گواهی کل سیستم](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 

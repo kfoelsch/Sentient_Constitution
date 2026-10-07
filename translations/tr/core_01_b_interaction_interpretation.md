@@ -68,7 +68,7 @@
 
 **Hiçbir bacakla doğrudan bağlantı kurmayan bölümler.** [§15.1.1 Bölümlere Ayırmayı Önleme İlkesi](#1511-anti-segmentation-principle) ve [§15.4.1](#1541-integrated-reading) ila [§15.4.3](#1543-incorporation-layer), metnin nasıl okunacağını ve hangi kaynak katmanının belirleyici olduğunu düzenler. Tasarım gereği bunların Trace bileşenlerinde Dörtlü bacağı bulunmaz.
 
-**Zamanın iki anlamı.** Kısım B'de zaman iki anlamda kullanılır. Uzun zaman ufukları (ertelenmiş ve birikimli zarar; Sekizinci Bölüm §3.6'daki [Zaman Tutarlılığı Kısıtı](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint), [§13.1.2](#1312-harm-minimization)'de uygulandığında **Süreklilik** amacına aittir). Saatler, inceleme sıklıkları ve gecikme (kısıtlamaların süre sınırları, sonunda yapılacak açıklama, önlenebilir gecikme) **zamanlılık** bacağına aittir.
+**Zamanın iki anlamı.** Kısım B'de zaman iki anlamda kullanılır. Uzun zaman ufukları (ertelenmiş ve birikimli zarar; Sekizinci Bölüm §3.6'daki [Zaman Tutarlılığı Kısıtı](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint), [§13.1.2](#1312-harm-minimization)'de uygulandığında **Süreklilik** amacına aittir). Saatler, inceleme sıklıkları ve gecikme (kısıtlamaların süre sınırları, sonunda yapılacak açıklama, önlenebilir gecikme) **zamanlılık** bacağına aittir.
 
 **Çatışma olmayan iki eksen.** Kısım A'nın amaçları, ortak sistemlerin neyi hedeflediğini söyler. Kısım B ise yol boyunca hiçbir ödünleşimin, üstün kılmanın veya yorumun neleri ortadan kaldıramayacağını söyler.
 
@@ -103,7 +103,7 @@
 
 <br>
 
-*Sade ifadeyle: Anayasal Çatışmalar yaşanacaktır — **Güvenlik** ve **Hakikat** önce gelir. Bundan sonra sınırlamalar orantılı, gerekli, zararı azaltıcı ve mümkün olduğunca hafif olmalıdır. Rahatlık için hakikat gizlenemez; kolaylık için mahremiyet ortadan kaldırılamaz; özgürlük sınırlamaları [§7.1 Sınırlama Disiplini](core_01_a_values_principles.md#71-limitation-discipline) uyarınca uygulanır; haklarla ilgili Anayasal Çatışmalar belgelenmiş bir karar testini gerektirir; uyum hakkında yanıltıcı ölçütler hesaba katılmaz. Kısa vadeli optimizasyon, [Sekizinci Bölüm §3.5 Zaman Tutarlılığı Kısıtı](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint) kapsamında değerlendirmeyi geçemez. **§13.1** (*Temel Ödünleşim İlkeleri*) ile **§13.3** (*Önlenebilir Yükün En Aza İndirilmesi*) arasındaki hükümler ödünleşim kurallarını, açıklama ve mahremiyet kısıtlarını ve Anayasal Çatışma sürecini düzenler.*
+*Sade ifadeyle: Anayasal Çatışmalar yaşanacaktır — **Güvenlik** ve **Hakikat** önce gelir. Bundan sonra sınırlamalar orantılı, gerekli, zararı azaltıcı ve mümkün olduğunca hafif olmalıdır. Rahatlık için hakikat gizlenemez; kolaylık için mahremiyet ortadan kaldırılamaz; özgürlük sınırlamaları [§7.1 Sınırlama Disiplini](core_01_a_values_principles.md#71-limitation-discipline) uyarınca uygulanır; haklarla ilgili Anayasal Çatışmalar belgelenmiş bir karar testini gerektirir; uyum hakkında yanıltıcı ölçütler hesaba katılmaz. Kısa vadeli optimizasyon, [Sekizinci Bölüm §4.2 Zaman Tutarlılığı Kısıtı](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint) kapsamında değerlendirmeyi geçemez. **§13.1** (*Temel Ödünleşim İlkeleri*) ile **§13.3** (*Önlenebilir Yükün En Aza İndirilmesi*) arasındaki hükümler ödünleşim kurallarını, açıklama ve mahremiyet kısıtlarını ve Anayasal Çatışma sürecini düzenler.*
 
 Kısım B, Dörtlü'yü üç durumda korur:
 - **[Anayasal Çatışmalar](core_05_band_integrative.md#constitutional-collision) (bu bölüm):** hiçbir ayağı zayıflatmadan çözer.
@@ -300,7 +300,7 @@ Aşağıdakiler uyumlu değildir:
 - daha büyük sistemik, toplam veya ekolojik zarar yaratırken yalnızca yerel ya da anlık zararı en aza indirmek;
 - belirlenmiş taraflar açısından zararı en aza indiriyor görünmek amacıyla zararı ekosistemlere, kimliği belirlenmemiş duyarlı varlıklara veya hesaba katılmayan diğer taraflara yüklemek.
 
-**Zaman ufku disiplini.** Uzun vadeli sistemik maliyet pahasına kısa vadeli iyileştirme bu testi geçemez. Zararı en aza indirme, [Sekizinci Bölüm §3.5 Zaman Tutarlılığı Kısıtını](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint) dikkate almalıdır: mevcut dönemde zararı en aza indiriyor gibi görünen, ancak ilgili anayasal zaman ufku boyunca öngörülebilir biçimde daha fazla zarar yaratan bir karar uyumlu değildir.
+**Zaman ufku disiplini.** Uzun vadeli sistemik maliyet pahasına kısa vadeli iyileştirme bu testi geçemez. Zararı en aza indirme, [Sekizinci Bölüm §4.2 Zaman Tutarlılığı Kısıtını](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint) dikkate almalıdır: mevcut dönemde zararı en aza indiriyor gibi görünen, ancak ilgili anayasal zaman ufku boyunca öngörülebilir biçimde daha fazla zarar yaratan bir karar uyumlu değildir.
 
 **Anayasal tabanlarla ilişki.** Zararı en aza indirme, [§13.1.4 Anayasal Tabanlar, Güvenlik ve Aşağılayıcı Olmayan Süreç](#1314-constitutional-floors-safety-and-anti-degrading-process) içinde belirtilen anayasal tabanların *üzerinde* işler. Şunlara hiçbir zaman izin vermez:
 - Haklar Tabanı asgari güvencelerinin kalıcı olarak ortadan kaldırılmasına;
@@ -846,7 +846,7 @@ Bu ilke:
 - Altıncı Bölümdeki herhangi bir Haklar Tabanı hükmü oluşturmaz, genişletmez veya daraltmaz; ya da
 - bir kümenin kapsadığı bölümleri ve korunan yükümlülükleri kendi açıklamasını hükümsüz kılmaz. Küme bunları **Atlatmayı Önleme** başlığı altında belirtir ve kural için bu bölüme atıfta bulunur.
 
-Birlikte çağrılmış bir kümenin geçerli olduğu durumlarda, bütün sistem değerlendirmeleri, sınıflandırma, yönetişim veya uyum iddiaları kabul edilmeden önce [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) kapsamında bölümlere ayırmayı önlemeyi sınamalıdır. Bu bölüm, [Üçüncü Bölüm §2.1 Yaygın Kaçınma Örüntüleri](core_03_definition_integrity.md#21-common-evasion-patterns) ve [§2.2 İndirgemeci Kaçınma](core_03_definition_integrity.md#22-reductive-evasion) ile birlikte işler.
+Birlikte çağrılmış bir kümenin geçerli olduğu durumlarda, bütün sistem değerlendirmeleri, sınıflandırma, yönetişim veya uyum iddiaları kabul edilmeden önce [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) kapsamında bölümlere ayırmayı önlemeyi sınamalıdır. Bu bölüm, [Üçüncü Bölüm §2.1 Yaygın Kaçınma Örüntüleri](core_03_definition_integrity.md#21-common-evasion-patterns) ve [§2.2 İndirgemeci Kaçınma](core_03_definition_integrity.md#22-reductive-evasion) ile birlikte işler.
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 Türetilmiş Bilgi İlkesi

@@ -216,7 +216,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">উৎস ও সংযোগ</span></strong></summary>
 
 - ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3.1 ন্যায্যতা](core_01_a_values_principles.md#31-fairness), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 মূল সমঝোতা-নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), এবং [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)।
-- নিম্নসূত্র: অংশগ্রহণ পরিমাপ-পরিবার (*বস্তুগত ন্যায্যতা, সুরক্ষিত বৈশিষ্ট্যের প্রক্সি ব্যবহার ও বৈষম্যমূলক প্রভাব*); [অধ্যায় আট §3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*সার্টিফিকেশন যখন শ্রেণিবিন্যাস, র‌্যাঙ্কিং, মূল্য নির্ধারণ, প্রবেশাধিকার-নিয়ন্ত্রণ বা বোঝা বণ্টনের শর্ত হয়, তখন বৈষম্য-নিষেধ মূল্যায়ন*); [অধ্যায় বারো](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)-এর মঞ্চ, প্রশাসনিক ও প্রয়োগ-প্রক্রিয়া (*বিচারনির্ণয় ও কার্যক্রমের দায়িত্ব*)।
+- নিম্নসূত্র: অংশগ্রহণ পরিমাপ-পরিবার (*বস্তুগত ন্যায্যতা, সুরক্ষিত বৈশিষ্ট্যের প্রক্সি ব্যবহার ও বৈষম্যমূলক প্রভাব*); [অধ্যায় আট §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*সার্টিফিকেশন যখন শ্রেণিবিন্যাস, র‌্যাঙ্কিং, মূল্য নির্ধারণ, প্রবেশাধিকার-নিয়ন্ত্রণ বা বোঝা বণ্টনের শর্ত হয়, তখন বৈষম্য-নিষেধ মূল্যায়ন*); [অধ্যায় বারো](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)-এর মঞ্চ, প্রশাসনিক ও প্রয়োগ-প্রক্রিয়া (*বিচারনির্ণয় ও কার্যক্রমের দায়িত্ব*)।
 - একসঙ্গে পড়ুন: অধ্যায় পাঁচের [সুরক্ষিত বৈশিষ্ট্য](core_05_band_participation.md#protected-characteristics-constitutional) এবং [ভাষা, সংস্কৃতি ও ঐতিহ্য](core_05_band_continuity.md#language-culture-and-heritage-constitutional); আদিবাসী ও ভূখণ্ডগত ধারাবাহিকতার প্রশ্নে অধ্যায় পাঁচের [আদিবাসী ধারাবাহিকতা](core_05_band_continuity.md#indigenous-continuity-constitutional) (*সম্প্রদায়-ভিত্তিক অধিকার-তল; এর মালিকানাধীন তল **Article VI-C** (বৈষম্য-নিষেধ) এবং **Article I-A** (পরিবেশগত পূর্বশর্ত ও প্রতিবেশতন্ত্রের অখণ্ডতা)*)। এসব প্রশ্ন [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*প্রতিবেশতন্ত্রের অখণ্ডতার পূর্বশর্ত*) এবং [অধ্যায় সতেরো](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*গ্রহণকারী কর্তৃপক্ষের এখতিয়ার-শৃঙ্খলা*)-র দিকে নির্দেশিত।
 
 </details>
@@ -257,8 +257,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 সীমাবদ্ধতার শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 সরল-ভাষার অভিগম্যতা](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
-- নিম্নসূত্র: **অনুচ্ছেদ VI-A** (*মর্যাদা ও সমান নৈতিক অবস্থান*)-এর মর্যাদা-তল; **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*)-এর বিচারনির্ধারণ ও কার্যক্রমে বৈষম্যহীনতা ও পূর্ণ অন্তর্ভুক্তি; **অনুচ্ছেদ IV-A** (*সমান শিক্ষাগত প্রবেশাধিকার*)-এর সমান শিক্ষাগত প্রবেশাধিকার (শিক্ষা-নির্দিষ্ট অভিগম্যতা ওই অনুচ্ছেদের অধীনেই থাকে; এই অনুচ্ছেদ সর্বক্ষেত্রের অধিকার-তল জানায়); **অনুচ্ছেদ X-B** (*শাসন-অংশগ্রহণ ও ভোটের অধিকার*); **অনুচ্ছেদ XII** (*অংশীজন-ব্যবস্থায় অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*); **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*); অংশগ্রহণ পরিমাপ-পরিবার (*সাংবিধানিক পরিমাপ হিসেবে অভিগম্যতা*); [অধ্যায় আট §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*প্রত্যয়নের শর্তে প্রকৃত অংশগ্রহণ নির্ধারিত হলে অভিগম্যতা মূল্যায়ন*)।
+- ঊর্ধ্বসূত্র: নীতি: অধ্যায় এক [§3 মৌলিক উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 সীমাবদ্ধতার শৃঙ্খলা](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 সরল-ভাষার অভিগম্যতা](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- নিম্নসূত্র: **অনুচ্ছেদ VI-A** (*মর্যাদা ও সমান নৈতিক অবস্থান*)-এর মর্যাদা-তল; **অনুচ্ছেদ VI-C** (*বৈষম্যহীনতা*)-এর বিচারনির্ধারণ ও কার্যক্রমে বৈষম্যহীনতা ও পূর্ণ অন্তর্ভুক্তি; **অনুচ্ছেদ IV-A** (*সমান শিক্ষাগত প্রবেশাধিকার*)-এর সমান শিক্ষাগত প্রবেশাধিকার (শিক্ষা-নির্দিষ্ট অভিগম্যতা ওই অনুচ্ছেদের অধীনেই থাকে; এই অনুচ্ছেদ সর্বক্ষেত্রের অধিকার-তল জানায়); **অনুচ্ছেদ X-B** (*শাসন-অংশগ্রহণ ও ভোটের অধিকার*); **অনুচ্ছেদ XII** (*অংশীজন-ব্যবস্থায় অংশগ্রহণ, প্রতিনিধিত্ব ও যথাযথ প্রক্রিয়া*); **অনুচ্ছেদ XVI** (*নিরীক্ষা, স্বচ্ছতা ও স্বাধীন যাচাই*); অংশগ্রহণ পরিমাপ-পরিবার (*সাংবিধানিক পরিমাপ হিসেবে অভিগম্যতা*); [অধ্যায় আট §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*প্রত্যয়নের শর্তে প্রকৃত অংশগ্রহণ নির্ধারিত হলে অভিগম্যতা মূল্যায়ন*)।
 - অধ্যায় পাঁচের *অভিগম্যতা*, *সুরক্ষিত বৈশিষ্ট্য*, *বস্তুগত ন্যায্যতা*, *বস্তুগত গুরুত্ব*, *নির্ভরতা* ও *অর্থপূর্ণ সক্ষমতা* শব্দের সঙ্গে পড়ুন। সর্বক্ষেত্রের নীতি: [অধ্যায় এক §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*সরল-ভাষার অভিগম্যতা*)।
 
 </details>
@@ -901,7 +901,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সীমা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [অধ্যায় আট §3 পূর্ণ-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সীমা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [অধ্যায় আট §4 পূর্ণ-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 
 </details>
 
@@ -950,7 +950,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 উৎপাদনক্ষমতা (উপকরণগত মঙ্গল)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [অধ্যায় আট §3 পূর্ণ-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 উৎপাদনক্ষমতা (উপকরণগত মঙ্গল)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [অধ্যায় আট §4 পূর্ণ-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 - অধঃসূত্র: **অনুচ্ছেদ III-C** (*শ্রম ও অর্থনৈতিক অধিকার-তল*)-এর শ্রম ও অর্থনৈতিক অধিকার-তল; **অনুচ্ছেদ IX-A** (*সাদৃশ্য ও সুনামের স্ব-স্বত্ব*)-এর সাদৃশ্য; **অনুচ্ছেদ IX-B** (*অভিজ্ঞতামূলক ও উদ্ভূত তথ্যের অধিকার*)-এর অভিজ্ঞতামূলক ও উদ্ভূত তথ্য; **অনুচ্ছেদ IX-C** (*সত্যনিষ্ঠ প্রকাশনা ও উচ্চ-প্রভাবের প্রকাশনার সীমা*)-এর প্রকাশনা; **অধ্যায় এক §11**-এর কেন্দ্রীভবন-রোধ এবং **§13.1**-এর কেন্দ্রীভবন-সীমা ব্যবস্থা।
 - সঙ্গে পড়ুন: [**Def.C1** *শ্রম ও অর্থনৈতিক অধিকার-তল: পারিশ্রমিক, সংগঠন, নিরাপদ শর্ত, অবসর ও সৃজনশীল কাজ*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (**অনুচ্ছেদ III-C** (*শ্রম ও অর্থনৈতিক অধিকার-তল*), **III-D** (*নিরাপদ কর্মপরিবেশ*) এবং **III-E** (*বিশ্রাম ও পুনরুদ্ধার*)-এর সঙ্গে যৌথ প্রয়োগ), এবং বস্তুগতভাবে প্রাসঙ্গিক হলে [**Def.C3** (*গোপনীয়তা (তথ্যগত)*)](core_05_band_continuity.md#privacy-informational-cluster)।
 
@@ -1139,7 +1139,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণপথ</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [অধ্যায় আট §3 পূর্ণ-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বসূত্র: নীতিমালা: [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [অধ্যায় এক §13.1.5 অধিকার-সংঘাত পদ্ধতি](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), এবং [অধ্যায় আট §4 পূর্ণ-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 
 </details>
 
@@ -1454,7 +1454,7 @@ flowchart TB
   - **অধ্যায় দশ** বা **অনুচ্ছেদ XIX** (*প্রস্থিতি ও অংশগ্রহণের মর্যাদা*)-এর অধীন প্রস্থিতি-তালা সমর্থন, দক্ষতা-অনুমোদন অস্বীকার বা বিলম্ব, অথবা নামকৃত কোনো পথ সংকুচিত করা;
   - [অধ্যায় এগারো](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)-এর অধীন সংবিধান-বিরোধী অসদাচরণের পরিচিতি সমর্থন;
   - **অনুচ্ছেদ X-B** (*শাসনে অংশগ্রহণ ও ভোটাধিকার*) ও **অধ্যায় তেরো**-এর অধীন শাসন-ভোট, প্রভাবিত-পক্ষের অংশগ্রহণ, প্রার্থী হওয়া, পদ ধারণ, মঞ্চে দায়িত্ব বা প্রত্যাহারের অধিকার কমানো;
-  - [অধ্যায় আট](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest)-এর অধীন কোনো ব্যবস্থার সামঞ্জস্য সনদায়নের বিরুদ্ধে গণনা;
+  - [অধ্যায় আট](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest)-এর অধীন কোনো ব্যবস্থার সামঞ্জস্য সনদায়নের বিরুদ্ধে গণনা;
   - নজরদারি, অনুপ্রবেশ, হুমকি-স্কোরিং বা নথি জমা ন্যায্য করা—যা **অনুচ্ছেদ XIV-A** (*নিরাপত্তা, গোয়েন্দা কার্যক্রম ও গোপন ক্ষমতার সীমা*) আগেই নিষিদ্ধ করে; অথবা
   - জীবনধারণের অপরিহার্য উপকরণ, অধিকার-তলের ন্যূনতম সুরক্ষা, কর্মসংস্থান, স্বাভাবিক বাণিজ্য, বা চ্যালেঞ্জ ও প্রতিকারের প্রবেশাধিকার শর্তাধীন করা।
 
@@ -1684,7 +1684,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application), এবং [অধ্যায় আট §4 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — **অংশগ্রহণ** স্তম্ভ (অংশীজন-ব্যবস্থা অংশগ্রহণ স্তর); [বস্তুগত স্বার্থ](core_00_preamble.md#material-stake) অনুসারে মাত্রা নির্ধারণ; [বস্তুগতভাবে বাধ্যতামূলক কার্য-নথি](core_05_band_accountability.md#materially-binding-act-record) এবং [অধ্যায় সাত §7 কার্য-নথি, আরোপযোগ্য হস্তান্তর ও ভুল-আসন নির্দেশনা](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)।
 - স্তর: **অংশীজন-ব্যবস্থা অংশগ্রহণ (SSP)**। **সাংবিধানিক চুক্তি স্তর (CCL)**-এর অনুমোদন থেকে স্বতন্ত্র।
 
@@ -1732,7 +1732,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্বসূত্র: নীতিমালা: [অধ্যায় এক §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), [অধ্যায় আট §4 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
@@ -1822,7 +1822,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ-সূত্র</span></strong></summary>
 
-- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্বসূত্র: নীতিমালা: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §4 সমগ্র-ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 দায়িত্বশীল তত্ত্বাবধানের শৃঙ্খলায় শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 - সঙ্গে পড়ুন: [ব্যবস্থা দখল](core_05_band_continuity.md#system-capture); [দখল-প্রতিরোধ](core_05_band_continuity.md#anti-capture); [অধ্যায় সাত: কার্যগত স্বাধীনতা ও দায়িত্বের পৃথকীকরণ](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)।
 
 </details>

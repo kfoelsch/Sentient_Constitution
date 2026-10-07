@@ -126,7 +126,7 @@ flowchart TB
 - доступные способы оспаривания;
 - порядок устранения проблем.
 
-Если система достигает порога значимости, установленного **Статьёй XIII** (*Право на надёжные системы, заслуживающие доверия*), сертификация также включает оценку надёжности по [Главе восьмой §3.9.6 «Оценка надёжности и целостности доверия к системе»](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+Если система достигает порога значимости, установленного **Статьёй XIII** (*Право на надёжные системы, заслуживающие доверия*), сертификация также включает оценку надёжности по [Главе восьмой §4.8.6 «Оценка надёжности и целостности доверия к системе»](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Возможность оспаривания сохраняет честность системы со стороны разумного существа:** сертификация проверяет систему, но не выносит окончательного решения о ней. Каждое разумное существо, затронутое системой, сохраняет:
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Проектирование с устойчивостью и самовосстановлением](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [§13.3 Минимизация предотвратимого бремени](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) и [Главой восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Проектирование с устойчивостью и самовосстановлением](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [§13.3 Минимизация предотвратимого бремени](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) и [Главой восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -718,7 +718,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) и [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) и [Главе восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -792,7 +792,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [Главе восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -944,7 +944,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §18 «Управление в условиях дисциплины попечительства»](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главе восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Главе первой §18 «Управление в условиях дисциплины попечительства»](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1053,7 +1053,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Главе восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1089,7 +1089,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы компромисса](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Главе восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1123,7 +1123,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главе восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1182,7 +1182,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [Главе восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1250,7 +1250,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Основания</span></strong></summary>
 
-- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Главе восьмой §3 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основано на принципах Главы первой: [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Главе восьмой §4 «Оценка сертификации всей системы»](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Главе первой §20 «Комплексное применение»](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

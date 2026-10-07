@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), और [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ज्ञानमीमांसीय प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ज्ञानमीमांसीय प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), और [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 - साथ पढ़ें: [अनुच्छेद XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*सुवाह्यता अधिकार*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*अंतरसंचालन, सुवाह्यता, और निकास-अखंडता शर्तें*) और **CJS-3.18** (*डेटा-धारण और जीवनचक्र-अखंडता शर्तें*); [अध्याय एक §11.6 उत्तराधिकारी जिम्मेदारी और औपचारिक-संरचना गैर-पलायन](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [अध्याय नौ §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) और [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)।
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), और [§10 उत्तरदायी-प्रबंधन अनुशासन के अधीन शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
 - साथ पढ़ें: सातत्य मापन परिवार (*संवैधानिक मापन के रूप में निर्भरता और संसाधन प्रवाह*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — पारदर्शी निर्भरता मानचित्रों और लेखापरीक्षा-योग्य संसाधन-प्रवाह अभिलेखों के माध्यम से **निगरानी**, **अनुच्छेद XV-A** (*लेखापरीक्षा-योग्यता और प्रेक्षणीय साक्ष्य*) के अधीन चुनौती-योग्य समीक्षा में **सहभागिता**; [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** (दृश्य लागत-और-लाभ आवंटन) और **सातत्य** (बदलती प्रणालियों के आर-पार टिकाऊ निर्भरता दृश्यता)।
 - अधो: [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) जहाँ प्रणालियाँ साझा अवसंरचना या आधारभूत निर्भरताओं से आवंटित, मार्गित, वित्तपोषित, या निष्कर्षित करें; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), और **CS-8** (*Adaptive sustainability and ecosystem resilience*)।
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- ऊर्ध्व: सिद्धांत: अध्याय एक [§2 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 मूल व्यापार सिद्धांत](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), और [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 - साथ पढ़ें: [*शासन वास्तुकला, निगरानी, निर्भरता, विकेंद्रीकरण, संकेंद्रण, बाज़ार संरचना, और निकास-मार्ग अखंडता*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (संयुक्त आह्वान जहाँ संकेंद्रण, निगरानी, निर्भरता, शासन-प्राधिकार संरचना, या प्रोत्साहन मार्गन **§5** / **§5** और नीचे संक्रियात्मक पाठ में *संकेंद्रण-देहलीज़ अंतःक्रिया* अनुशासन से कटें)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — चुनौती और विवाद मार्गों में **सहभागिता**, **निगरानी** और लेखापरीक्षा, **जवाबदेही** और सुधारक समीक्षा, **अनुच्छेद XXIV-C** (*समयबद्ध समाधान और देरी-निरोध तल*) के अधीन **समयबद्धता**; [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समुन्नति** (अंतर-प्रणाली निष्पक्षता और गैर-निष्कर्षण) और **सातत्य** (दीर्घकाल स्थिरता और पारिस्थितिकी तंत्र वित्तपोषण)।
 - अधो: [प्रणाली-संरेखण प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) और [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) जहाँ अंतर-प्रणाली निष्पक्षता, पारिस्थितिकी तंत्र वित्तपोषण, या साझा अवसंरचना से स्थायी निष्कर्षण तात्विक रूप से मुद्दा हो।

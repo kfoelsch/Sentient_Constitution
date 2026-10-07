@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)，以及[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)，以及[第七章 §4 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[§6.2 认知披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)，以及[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[§6.2 认知披露约束](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)，以及[第七章 §4 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第七章 §4 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第七章 §4 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 - 一并阅读：[Article XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights)（《可携权》）；[corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**；**CJS-3.17**（《互操作、可携与退出完整性条件》）与 **CJS-3.18**（《数据持有与生命周期完整性条件》）；[第一章 §11.6 继任者责任与形式结构不逃避](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)；[第九章 §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding)与[§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)。
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
+- 上游：原则：第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)、[第七章 §4 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)，以及[§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
 - 一并阅读：延续测量族（《作为宪法测量的依赖与资源流》）；[宪法四元](core_00_preamble.md#constitutional-tetrad) — 经由透明依赖图与可审计资源流记录的**监督**，**Article XV-A**（《可审计性与可观测证据》）下可质疑审查中的**参与**；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**（可见的成本与收益分配）与**延续**（跨变化系统的耐久依赖可见性）。
 - 下游：[系统对齐认证](core_05_band_continuity.md#system-alignment-certification-constitutional)与[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)，凡系统从共享基础设施或基础依赖中分配、路由、融资或提取；**[corpus_systems.md](../../corpus_systems.md)**、**CS-9**（《Resource allocation and funding stewardship》）与 **CS-8**（《Adaptive sustainability and ecosystem resilience》）。
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§2 基础目标：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing)、[§6.1 核心权衡原则](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)，以及[第七章 §4 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 - 一并阅读：[*治理架构、监督、依赖、去中心化、集中、市场结构与退出路径完整性*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster)（凡集中、监督、依赖、治理权威结构或激励路由与 **§5** / **§5** 及下面操作性文本中*集中阈值互动*纪律相交时联合调用）。
 - 一并阅读：[宪法四元](core_00_preamble.md#constitutional-tetrad) — 质疑与争议路径中的**参与**，**监督**与审计，**问责**与纠正审查，**Article XXIV-C**（《及时解决与反拖延底线》）下的**及时性**；[两项宪法宗旨](core_00_preamble.md#two-constitutional-aims) — **繁盛**（跨系统公平与非提取）与**延续**（长期可持续性与生态系统融资）。
 - 下游：[系统对齐认证](core_05_band_continuity.md#system-alignment-certification-constitutional)与[第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)，凡跨系统公平、生态系统融资或从共享基础设施的持久提取具有实质问题。

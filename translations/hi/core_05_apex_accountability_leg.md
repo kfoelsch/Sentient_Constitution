@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">अनुरेख</span></strong></summary>
 
-- साथ पढ़ें: [अध्याय एक §11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 बाज़ार संरचना](core_01_c_stewardship_capacity_principles.md#13-market-structure), और [अध्याय सात §3.6 शासन, प्रोत्साहन और चुनौती-योग्यता अनुशासन](../../core_08_a_system_alignment_certification_evaluation.md#36-governance-incentive-and-contestability-discipline)।
+- साथ पढ़ें: [अध्याय एक §11 प्रोत्साहन संरेखण और प्रणाली कब्ज़ा](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 बाज़ार संरचना](core_01_c_stewardship_capacity_principles.md#13-market-structure), और [अध्याय सात §4.3 शासन, प्रोत्साहन और चुनौती-योग्यता अनुशासन](../../core_08_a_system_alignment_certification_evaluation.md#43-governance-incentive-and-contestability-discipline)।
 
 </details>
 

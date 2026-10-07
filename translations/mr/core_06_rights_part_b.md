@@ -218,7 +218,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">संबंध आणि आधार</span></strong></summary>
 
 - उर्ध्वसंबंध: तत्त्वे: अध्याय एक [§3.1 न्याय्यता](core_01_a_values_principles.md#31-fairness), [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मुख्य तडजोड-तत्त्वे](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), आणि [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- अधोप्रवाह: सहभाग-मापन कुटुंब (*वास्तविक न्याय्यता, संरक्षित वैशिष्ट्यांचे प्रतिनिधी निर्देशक म्हणून वापर आणि असमान परिणाम*); [अध्याय आठ §3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*प्रमाणीकरणामुळे वर्गीकरण, क्रमवारी, किंमत, प्रवेश-नियंत्रण किंवा भारवाटप ठरत असल्यास भेदभावनिषेध मूल्यांकन*); [अध्याय बारा](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) मधील मंच, प्रशासकीय आणि अंमलबजावणी प्रक्रिया (*न्यायनिर्णय आणि संचालनाचे कर्तव्य*).
+- अधोप्रवाह: सहभाग-मापन कुटुंब (*वास्तविक न्याय्यता, संरक्षित वैशिष्ट्यांचे प्रतिनिधी निर्देशक म्हणून वापर आणि असमान परिणाम*); [अध्याय आठ §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*प्रमाणीकरणामुळे वर्गीकरण, क्रमवारी, किंमत, प्रवेश-नियंत्रण किंवा भारवाटप ठरत असल्यास भेदभावनिषेध मूल्यांकन*); [अध्याय बारा](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) मधील मंच, प्रशासकीय आणि अंमलबजावणी प्रक्रिया (*न्यायनिर्णय आणि संचालनाचे कर्तव्य*).
 - यांसह वाचा: अध्याय पाचमधील [संरक्षित वैशिष्ट्ये](core_05_band_participation.md#protected-characteristics-constitutional) आणि [भाषा, संस्कृती व वारसा](core_05_band_continuity.md#language-culture-and-heritage-constitutional); आदिवासी सातत्य आणि प्रादेशिक सातत्याच्या प्रश्नांसाठी अध्याय पाचमधील [आदिवासी सातत्य](core_05_band_continuity.md#indigenous-continuity-constitutional) (*समुदायाधारित अधिकार-तळ; मालकीचे तळ **Article VI-C** (भेदभावनिषेध) आणि **Article I-A** (पर्यावरणीय पूर्वअटी आणि परिसंस्थेची अखंडता)*)—हे प्रश्न [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*परिसंस्था-अखंडतेची पूर्वअट*) आणि [अध्याय सतरा](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*अंगीकारकर्त्याच्या अधिकारक्षेत्राचे शिस्तनियम*) यांकडे निर्देशित होतात.
 
 </details>
@@ -264,8 +264,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-साखळी</span></strong></summary>
 
-- ऊर्ध्वाधार: तत्त्वे: अध्याय एक [§3 मूलभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 मर्यादांचे शिस्तबद्ध नियमन](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 सोप्या भाषेतील सुलभता](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [अध्याय आठ §3 संपूर्ण प्रणालीचे प्रमाणन-मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
-- अधःसंबंध: **अनुच्छेद VI-A** (*प्रतिष्ठा आणि समान नैतिक दर्जा*) प्रतिष्ठेची किमान मर्यादा; **अनुच्छेद VI-C** (*भेदभावनिषेध*) न्यायनिर्णयन व कार्यपद्धतींमध्ये भेदभावनिषेध आणि पूर्ण समावेश; **अनुच्छेद IV-A** (*शिक्षणातील समान प्रवेश*) शिक्षणातील समान प्रवेश (पुनरावृत्ती नाही — शिक्षणविशिष्ट सुलभता तेथेच येते; हा अनुच्छेद सर्व क्षेत्रांना लागू अधिकार-तळ मांडतो); **अनुच्छेद X-B** (*शासनातील सहभाग आणि मतदानाचा हक्क*) शासनातील सहभाग; **अनुच्छेद XII** (*हितधारकांचा प्रणालीगत सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया*) हितधारकांचा सहभाग; **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*) स्वतंत्र पडताळणी; सहभाग-मापन समूह (*संवैधानिक मापन म्हणून सुलभता*); [अध्याय आठ §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*प्रमाणनामुळे अर्थपूर्ण सहभागाची अट निर्माण होते तेव्हा सुलभतेचे मूल्यांकन*).
+- ऊर्ध्वाधार: तत्त्वे: अध्याय एक [§3 मूलभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 मर्यादांचे शिस्तबद्ध नियमन](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 सोप्या भाषेतील सुलभता](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [अध्याय आठ §4 संपूर्ण प्रणालीचे प्रमाणन-मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- अधःसंबंध: **अनुच्छेद VI-A** (*प्रतिष्ठा आणि समान नैतिक दर्जा*) प्रतिष्ठेची किमान मर्यादा; **अनुच्छेद VI-C** (*भेदभावनिषेध*) न्यायनिर्णयन व कार्यपद्धतींमध्ये भेदभावनिषेध आणि पूर्ण समावेश; **अनुच्छेद IV-A** (*शिक्षणातील समान प्रवेश*) शिक्षणातील समान प्रवेश (पुनरावृत्ती नाही — शिक्षणविशिष्ट सुलभता तेथेच येते; हा अनुच्छेद सर्व क्षेत्रांना लागू अधिकार-तळ मांडतो); **अनुच्छेद X-B** (*शासनातील सहभाग आणि मतदानाचा हक्क*) शासनातील सहभाग; **अनुच्छेद XII** (*हितधारकांचा प्रणालीगत सहभाग, प्रतिनिधित्व आणि योग्य प्रक्रिया*) हितधारकांचा सहभाग; **अनुच्छेद XVI** (*लेखापरीक्षण, पारदर्शकता आणि स्वतंत्र पडताळणी*) स्वतंत्र पडताळणी; सहभाग-मापन समूह (*संवैधानिक मापन म्हणून सुलभता*); [अध्याय आठ §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*प्रमाणनामुळे अर्थपूर्ण सहभागाची अट निर्माण होते तेव्हा सुलभतेचे मूल्यांकन*).
 - यांसह वाचा: अध्याय पाचमधील *सुलभता*, *संरक्षित वैशिष्ट्ये*, *वास्तविक न्याय्यता*, *भौतिक महत्त्व*, *अवलंबित्व*, *अर्थपूर्ण कर्तृत्व*. सुलभतेचे आडवे लागू तत्त्व: [अध्याय एक §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*सोप्या भाषेतील सुलभता*).
 
 </details>
@@ -1024,7 +1024,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- पूर्वस्रोत: तत्त्वे: [अध्याय एक §5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानविषयक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), आणि [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- पूर्वस्रोत: तत्त्वे: [अध्याय एक §5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानविषयक प्रकटीकरण मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), आणि [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1071,7 +1071,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- पूर्वस्रोत: तत्त्वे: [अध्याय एक §5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 उत्पादक क्षमता (साधनात्मक हित)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [अध्याय एक §13.3 टाळता येण्याजोग्या भाराचे कमीतमीकरण](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §18 उत्तरदायी व्यवस्थापन शिस्तीअंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- पूर्वस्रोत: तत्त्वे: [अध्याय एक §5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 उत्पादक क्षमता (साधनात्मक हित)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [अध्याय एक §13.3 टाळता येण्याजोग्या भाराचे कमीतमीकरण](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §18 उत्तरदायी व्यवस्थापन शिस्तीअंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - पुढील परिणाम: **अनुच्छेद III-C** (*श्रम आणि आर्थिक आधारस्तर*) मधील श्रम-आर्थिक आधारस्तर; **अनुच्छेद IX-A** (*प्रतिरूप आणि प्रतिष्ठेवरील स्व-मालकी*) मधील प्रतिरूप; **अनुच्छेद IX-B** (*अनुभवात्मक आणि व्युत्पन्न डेटा अधिकार*) मधील अनुभवात्मक व व्युत्पन्न डेटा; **अनुच्छेद IX-C** (*सत्यनिष्ठ प्रकाशन आणि उच्च-प्रभावी प्रकाशन मर्यादा*) मधील प्रकाशन; **अध्याय एक §11** मधील एकाग्रता-प्रतिबंध आणि **§13.1** मधील एकाग्रता-उंबरठा यंत्रणा.
 - यांसह वाचा: [**Def.C1** *श्रम आणि आर्थिक आधारस्तर: मोबदला, संघटन, सुरक्षित परिस्थिती, विरंगुळा आणि सर्जनशील श्रम*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (**अनुच्छेद III-C** (*श्रम आणि आर्थिक आधारस्तर*), **III-D** (*सुरक्षित कामकाजाच्या परिस्थिती*) आणि **III-E** (*विश्रांती आणि पुनर्प्राप्ती*) यांच्या संयुक्त वापरासह), तसेच भौतिकदृष्ट्या संबंधित असेल तेथे [**Def.C3** (*गोपनीयता (माहितीविषयक)*)](core_05_band_continuity.md#privacy-informational-cluster).
 
@@ -1254,7 +1254,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- पूर्वस्रोत: तत्त्वे: [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), आणि [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- पूर्वस्रोत: तत्त्वे: [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), आणि [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1565,7 +1565,7 @@ flowchart TB
   - **Chapter Ten** किंवा **Article XIX** (*Standing and Participation Status*) अंतर्गत प्रस्थिति कुलूप समर्थित करणे, क्षमता-मंजुरी नाकारणे किंवा विलंबित करणे, किंवा नामित मार्ग संकुचित करणे;
   - [Chapter Eleven](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out) अंतर्गत संविधानविरोधी गैरवर्तन-निर्देशनास आधार देणे;
   - **Article X-B** (*Governance Participation and Voting Entitlement*) आणि **Chapter Thirteen** अंतर्गत शासनविषयक मतदान, प्रभावित पक्षांचा सहभाग, उमेदवारी, पदधारण, मंच-सेवा किंवा पदच्युतीचे अधिकार कमी करणे;
-  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest) अंतर्गत प्रणालीच्या संरेखन प्रमाणनाविरुद्ध गणना करणे;
+  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest) अंतर्गत प्रणालीच्या संरेखन प्रमाणनाविरुद्ध गणना करणे;
   - **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) ने आधीच प्रतिबंधित केलेली पाळत, घुसखोरी, धोका-मूल्यांकन किंवा नोंदींचा संचय योग्य ठरवणे; किंवा
   - जीवनावश्यक गरजा, अधिकार-तळाची किमान पातळी, रोजगार, सामान्य व्यापार किंवा आव्हान व उपायांपर्यंत पोहोचणे यांना अटी घालणे.
 
@@ -1791,7 +1791,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- उच्चस्तरीय आधार: तत्त्वे: [अध्याय एक §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय एक §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application), आणि [अध्याय आठ §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- उच्चस्तरीय आधार: तत्त्वे: [अध्याय एक §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय एक §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application), आणि [अध्याय आठ §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - सोबत वाचा: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **सहभाग** अंग (हितधारक प्रणाली सहभाग स्तर); [material stake](core_00_preamble.md#material-stake) च्या प्रमाणात मोजमाप; [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) आणि [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - स्तर: **Stakeholder System Participation (SSP)**. अधिकृततेच्या **Constitutional Contract Layer (CCL)** पेक्षा वेगळा.
 
@@ -1838,7 +1838,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- उच्चस्तरीय आधार: [अध्याय एक §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय आठ §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- उच्चस्तरीय आधार: [अध्याय एक §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय आठ §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1924,7 +1924,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §18 विश्वस्त-शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- आधार: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §18 विश्वस्त-शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - यांसह वाचा: [प्रणालीचा ताबा](core_05_band_continuity.md#system-capture); [ताबा-विरोध](core_05_band_continuity.md#anti-capture); [अध्याय सात: कार्यात्मक स्वातंत्र्य आणि कर्तव्यांचे विभाजन](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>

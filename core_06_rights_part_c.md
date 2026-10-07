@@ -122,7 +122,7 @@ Two safeguards work together to secure this right: certification makes a system 
 - how to challenge it
 - how problems get fixed
 
-If the system meets the importance threshold in **Article XIII** (*Right to Reliable and Trustworthy Systems*), certification also includes a trustworthiness review under [Chapter Eight §3.8.6 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
+If the system meets the importance threshold in **Article XIII** (*Right to Reliable and Trustworthy Systems*), certification also includes a trustworthiness review under [Chapter Eight §4.8.6 Trustworthiness and System-Reliance Integrity Evaluation](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Contestability keeps the system honest from the sentient's side:** Certification checks a system; it does not have the last word on it. Every sentient affected by the system keeps:
 
@@ -354,7 +354,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Resilience and Self-Healing Design](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 Resilience and Self-Healing Design](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Chapter One §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -804,7 +804,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -875,7 +875,7 @@ This Article sets out the floors for authentic inquiry, provenance, and contesta
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1026,11 +1026,13 @@ This Article covers audit, transparency, and independent verification:
 - **Oversight includes auditing:** Under the **oversight** check of the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), this Article is where the right to audit lives.
   - How and when to run audits across implementations is set out in the **[CJS-3.3 audit process home](corpus_joint_structure/cjs_03u_audit_process.md#cjs-33--odef3-audit-process-home)** (read with the **CJS-3.4** (*Oversight: tiered transparency and audit-access terms*) and **CJS-3.5** (*Oversight: independent verification and claim-integrity terms*) operator annexes).
   - [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation) is one especially large, high-stakes audit. It is supervised by a forum, covers many areas, and grants formal recognition. Other kinds of audit sit beside it:
-    - audits of a System Classification Record;
     - audits of a System Data Types Record;
-    - audits of complexity and stewardship;
-    - checks of claims; and
-    - ongoing audits.
+    - audits of a System Classification Record;
+    - steward assurance reviews;
+    - continuous audit;
+    - complexity audits; and
+    - claim verification.
+  - Each mode keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_03u_audit_process.md#sibling-audit-modes-owner-map) of the audit process home.
   - Certification does not absorb or replace this Article.
 - **Checking tools:** **Chapters Two through Four** supply the definitions, burden of proof, observability, and verification accessibility that this Article puts into practice as a Rights Floor.
 - **Classification:** Duties grow with [Classification-Scaled Governance](core_05_band_oversight.md#classification-scaled-governance) and **[corpus_systems.md](corpus_systems.md), CS-3 — System classification and handling**. In short: if a system's class is uncertain, treat it as the higher class until that is settled. The rule itself is in [Materiality Under Uncertainty](core_05_band_oversight.md#materiality-under-uncertainty) (Chapter Five) and [CS-3 §1.2](corpus_systems/cs_03_a_system_classification_machinery.md#12-classification-and-existential-risk) (*Classification and existential risk*).
@@ -1064,7 +1066,7 @@ This Article sets out the floor for observable and contestable evidence:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§18.3 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§18.3 Segregation of Duties](core_01_c_stewardship_capacity_principles.md#183-segregation-of-duties).
 - Read with: [Chapter Seven §2 Four-Seat Constitutional Floor](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-floor) and [§3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines) for which seats must stay apart on a materially binding act.
 
 </details>
@@ -1188,7 +1190,7 @@ This Article covers system lifecycle, environments, and reversibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1228,7 +1230,7 @@ This Article sets out the floor for environment integrity:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1267,7 +1269,7 @@ This Article sets out the floors for progressive deployment and reversibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1336,7 +1338,7 @@ This Article covers innovation, experimentation, and creative freedom:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), and [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -1401,7 +1403,7 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principles: Chapter One [§4 Safety](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), and [Chapter One §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

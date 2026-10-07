@@ -266,7 +266,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- पूर्ववर्ती आधार: सिद्धांत: [अध्याय एक §18.4 सतत औचित्य](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); अध्याय एक [§3 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन आकलन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §14 निरपेक्ष अध्यारोपण का निषेध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- पूर्ववर्ती आधार: सिद्धांत: [अध्याय एक §18.4 सतत औचित्य](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); अध्याय एक [§3 आधारभूत उद्देश्य: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [अध्याय आठ §4 समग्र-प्रणाली प्रमाणन आकलन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), और [अध्याय एक §14 निरपेक्ष अध्यारोपण का निषेध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 
 </details>
 
@@ -298,7 +298,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- पूर्ववर्ती आधार: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन आकलन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §14 निरपेक्ष अध्यारोपण का निषेध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
+- पूर्ववर्ती आधार: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §4 समग्र-प्रणाली प्रमाणन आकलन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), और [अध्याय एक §14 निरपेक्ष अध्यारोपण का निषेध](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)।
 
 </details>
 
@@ -365,7 +365,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- पूर्ववर्ती आधार: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन आकलन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [अध्याय दस §5.4](core_10_standing_integration.md#54-special-violation-rules) (*इस अनुच्छेद द्वारा संक्रमण के दौरान असंगत पुरस्कारों की जब्ती और रिपोर्टिंग सीमित*); [अध्याय आठ — प्रणाली-संरेखण प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)।
+- पूर्ववर्ती आधार: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §4 समग्र-प्रणाली प्रमाणन आकलन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [अध्याय दस §5.4](core_10_standing_integration.md#54-special-violation-rules) (*इस अनुच्छेद द्वारा संक्रमण के दौरान असंगत पुरस्कारों की जब्ती और रिपोर्टिंग सीमित*); [अध्याय आठ — प्रणाली-संरेखण प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)।
 
 </details>
 
@@ -526,7 +526,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ</span></strong></summary>
 
-- पूर्ववर्ती आधार: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), और [अध्याय आठ §3 समग्र-प्रणाली प्रमाणन आकलन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
+- पूर्ववर्ती आधार: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §13.1.5 अधिकार-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), और [अध्याय आठ §4 समग्र-प्रणाली प्रमाणन आकलन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
 - साथ में पढ़ें: **अनुच्छेद III-A** (*जीवन-रक्षा*); **अनुच्छेद XIII** (*विश्वसनीय और भरोसेमंद प्रणालियों का अधिकार*); **अनुच्छेद XI-G** (*सामूहिक हानि सीमा और प्रवर्तन-संपर्क*); **अध्याय नौ**; **अध्याय एक**, जिसमें §6 अधिकार-संघर्ष प्रक्रिया शामिल है; अध्याय छह के आरंभ में **डिफ़ॉल्ट बाध्यता-समूह** (*अधिकार-कब्ज़ा और सुधार का संपर्क*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*गैर-अनुपालक संपत्ति, ज़ब्ती, स्वैच्छिक प्रोत्साहन*) से **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*संक्रमण शासन और संस्थागत विकास*) तक।
 
 </details>

@@ -65,7 +65,7 @@ Two context records describe a materially impactful system before or alongside c
 - The [System Classification Record](../core_05_band_continuity.md#system-classification-record) records impact class, dependency type, rationale, assumptions, uncertainty, and recertification triggers. It is not the full certification file or a standing record.
 - The [System Data Types Record](../core_05_band_continuity.md#system-data-types-record) records material data types and handling posture, including relevant separation, lifecycle, attribution, disclosure, and re-evaluation information. It too is not a certification case file or standing record.
 
-The [System Certification Record](../core_08_b_system_alignment_certification_record_process.md#4-system-certification-record) is the bounded, reviewable case file for a system, version, operator, scope, time window, material-impact profile, and decision context. It reflects the applicable evaluation outputs and includes the classification and data-type records when certification runs. Certification is not a one-line approval, and it does not replace the later rules for standing measurement or effects.
+The [System Certification Record](../core_08_b_system_alignment_certification_record_process.md#6-system-certification-record) is the bounded, reviewable case file for a system, version, operator, scope, time window, material-impact profile, and decision context. It reflects the applicable evaluation outputs and includes the classification and data-type records when certification runs. Certification is not a one-line approval, and it does not replace the later rules for standing measurement or effects.
 
 ### 3. Forum Case Records
 

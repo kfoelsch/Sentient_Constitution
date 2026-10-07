@@ -269,7 +269,7 @@ Las reglas de gobernanza, los mecanismos de participación, los modelos de ponde
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: [Capítulo Uno §18.4 Justificación continua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Capítulo Uno [§3 Objetivo fundacional: bienestar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo Uno §14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Antecedentes: Principios: [Capítulo Uno §18.4 Justificación continua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Capítulo Uno [§3 Objetivo fundacional: bienestar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Capítulo Ocho §4 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) y [Capítulo Uno §14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -300,7 +300,7 @@ Este Artículo establece la revisión periódica y acelerada de la gobernanza:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) y [Capítulo Uno §14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Antecedentes: Principios: Capítulo Uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Ocho §4 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) y [Capítulo Uno §14 Prohibición de la anulación absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -367,7 +367,7 @@ La gobernanza transitoria existe para asegurar la continuidad y evitar retroceso
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de ponderación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) y [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Diez §5.4](core_10_standing_integration.md#54-special-violation-rules) (*este Artículo limita durante la transición la pérdida de recompensas desalineadas y la notificación correspondiente*); [Capítulo Ocho — Certificación de alineación del sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de ponderación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) y [Capítulo Ocho §4 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [Capítulo Diez §5.4](core_10_standing_integration.md#54-special-violation-rules) (*este Artículo limita durante la transición la pérdida de recompensas desalineadas y la notificación correspondiente*); [Capítulo Ocho — Certificación de alineación del sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -524,7 +524,7 @@ Este Artículo establece vías de salida ante fallos, reajuste de la base y traz
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Uno §13.1.5 Procedimiento para conflictos entre derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) y [Capítulo Ocho §3 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Antecedentes: Principios: Capítulo Uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Uno §13.1.5 Procedimiento para conflictos entre derechos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) y [Capítulo Ocho §4 Evaluación de certificación de todo el sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Leer junto con: **Artículo III-A** (*Supervivencia*); **Artículo XIII** (*Derecho a sistemas fiables y dignos de confianza*); **Artículo XI-G** (*Límite del daño colectivo e interfaz de cumplimiento*); **Capítulo Nueve**; **Capítulo Uno**, incluido el §6 sobre el procedimiento para conflictos entre derechos; el **conjunto predeterminado de restricciones** al inicio del Capítulo Seis (*interfaz de posesión y reparación*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*bienes no conformes, incautación e incentivos voluntarios*) a través de **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Gobernanza transitoria y evolución institucional*).
 
 </details>

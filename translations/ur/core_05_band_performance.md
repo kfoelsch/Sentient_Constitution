@@ -58,7 +58,7 @@
 - عملی پیمائش تہیں باب پنجم تعریف گھروں پر رہتی ہیں — دیکھیں [آئینی کارآمدگی](core_05_band_continuity.md#constitutional-efficiency)، [قابلِ اجتناب بوجھ](core_05_band_continuity.md#avoidable-burden)، [پیداواری صلاحیت](core_05_band_continuity.md#productive-capacity-constitutional)، اور [بوجھ کم کرنے کا فرض](core_05_band_continuity.md#burden-reduction-duty-constitutional)۔
 - کارکردگی کے اہداف، انعامات، اور وسائل کے پیمانے صرف اس حد تک درست ہیں جس حد تک وہ آئینی نتائج تک سراغ لگانے کے قابل رہیں۔
 - وہ آئینی کارآمدگی، [پیداواری صلاحیت](core_05_band_continuity.md#productive-capacity-constitutional)، یا حقوق کی تہہ کی اطاعت کی جگہ نہیں لے سکتے۔
-- ساتھ پڑھیں [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) جہاں پورے نظام کی کارکردگی مادی طور پر دائرے میں ہو۔
+- ساتھ پڑھیں [باب ہفتم §4 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) جہاں پورے نظام کی کارکردگی مادی طور پر دائرے میں ہو۔
 
 ---
 

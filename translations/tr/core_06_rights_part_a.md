@@ -153,7 +153,7 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint) ve [Yedinci Bölüm §4 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@ Beşinci Bölüm o koşulları **Çevresel önkoşullar** altında tanımlar. O 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Epistemik açıklama kısıtları](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Epistemik açıklama kısıtları](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) ve [Yedinci Bölüm §4 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@ O kavramlar için kanonik Beşinci Bölüm çapaları, bu Maddenin onları işle
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Yedinci Bölüm §4 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@ O kavramlar için kanonik Beşinci Bölüm çapaları, bu Maddenin onları işle
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§3.1 Güvenlik](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Yedinci Bölüm §4 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Birlikte oku: [Madde XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Taşınabilirlik hakları*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Bilgi türleri ve işleme**; **CJS-3.17** (*birlikte işlerlik, taşınabilirlik ve çıkış-bütünlüğü terimleri*) ve **CJS-3.18** (*veri-tutma ve yaşam-döngüsü-bütünlüğü terimleri*); [Birinci Bölüm §11.6 Halef sorumluluğu ve biçimsel-yapı kaçış-yok](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Dokuzuncu Bölüm §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) ve [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Yukarı: İlkeler: Birinci Bölüm [§3.2 Doğruluk](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Yedinci Bölüm §4 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [§10 Sorumlu yönetim disiplini altında yönetişim](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Birlikte oku: Süreklilik ölçüm ailesi (*anayasal ölçüm olarak bağımlılık ve kaynak akışları*); [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — şeffaf bağımlılık haritaları ve denetlenebilir kaynak-akışı kayıtları üzerinden **gözetim**, **Madde XV-A** (*Denetlenebilirlik ve gözlemlenebilir kanıt*) altında itiraz edilebilir incelemede **katılım**; [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — **Gelişim** (görünür maliyet-ve-yarar tahsisi) ve **Süreklilik** (değişen sistemler boyunca kalıcı bağımlılık görünürlüğü).
 - Aşağı: sistemler paylaşılan altyapıdan ya da kurucu bağımlılıklardan tahsis ettiğinde, yönlendirdiğinde, finanse ettiğinde ya da çıkardığında [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Yedinci Bölüm](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Kaynak tahsisi ve finansman sorumlu yönetimi*) ve **CS-8** (*Uyarlanabilir sürdürülebilirlik ve ekosistem dayanıklılığı*).
 
@@ -828,7 +828,7 @@ O gerekler, paylaşılan altyapıyı ve ona bel bağlayan sistemleri gizli çık
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Yedinci Bölüm §3 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Yukarı: İlkeler: Birinci Bölüm [§2 Temel hedef: Esenlik](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Temel ödün ilkeleri](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) ve [Yedinci Bölüm §4 Bütün-sistem belgelendirme değerlendirmesi](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Birlikte oku: [*Yönetişim mimarisi, gözetim, bağımlılık, merkezsizleşme, yoğunlaşma, piyasa yapısı ve çıkış-yolu bütünlüğü*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (yoğunlaşma, gözetim, bağımlılık, yöneten-yetki yapısı ya da teşvik yönlendirmesi aşağıdaki işlemsel metindeki **§5** / **§5** ve *Yoğunlaşma-eşiği etkileşimi* disipliniyle kesiştiğinde ortak çağrı).
 - Birlikte oku: [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) — itiraz ve itiraz yollarında **katılım**, **gözetim** ve denetim, **hesap verebilirlik** ve düzeltici inceleme, **Madde XXIV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında **zamanındalık**; [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims) — **Gelişim** (sistemler arası adillik ve çıkarmama) ve **Süreklilik** (uzun vadeli sürdürülebilirlik ve ekosistem finansmanı).
 - Aşağı: sistemler arası adillik, ekosistem finansmanı ya da paylaşılan altyapıdan kalıcı çıkarma maddi olarak söz konusu olduğunda [Sistem hizalama belgelendirmesi](core_05_band_continuity.md#system-alignment-certification-constitutional) ve [Yedinci Bölüm](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).

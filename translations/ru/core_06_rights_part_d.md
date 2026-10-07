@@ -262,7 +262,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: принципы Главы первой — [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Глава первая §18 Управление при ответственном попечительстве](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основания: принципы Главы первой — [§6 Доверие](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Глава первая §18 Управление при ответственном попечительстве](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -530,7 +530,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Основные принципы компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основания: [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Основные принципы компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -563,7 +563,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Основные принципы компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основания: [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Основные принципы компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -591,7 +591,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Глава первая §18 Управление при ответственном попечительстве](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основания: [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Глава первая §18 Управление при ответственном попечительстве](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -771,7 +771,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: принципы [Главы первой §5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [Главы восьмой §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основания: принципы [Главы первой §5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency) и [Главы восьмой §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Читать вместе с: [Главой первой §5.2 Доступность изложения простым языком (обязанность попечительства)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Сокращение предотвратимого бремени](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) и [Главой первой, Частью C, §16.1 Распределённое понимание](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -805,7 +805,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: [Глава первая §4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Глава первая §18.5 Модульная архитектура и дисциплина зависимостей](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) и [Глава первая §20 Интегрированное применение](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Основания: [Глава первая §4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [Глава первая §18.5 Модульная архитектура и дисциплина зависимостей](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) и [Глава первая §20 Интегрированное применение](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -842,7 +842,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: [Глава первая §4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Основные принципы компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основания: [Глава первая §4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Основные принципы компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Читать вместе с: [Конституционной тетрадой](core_00_preamble.md#constitutional-tetrad); [Двумя конституционными целями](core_00_preamble.md#two-constitutional-aims) — **Благополучием** и **Преемственностью**; [Обратимостью](core_05_band_continuity.md#reversibility-constitutional), [Риском](core_05_band_continuity.md#risk) и [Захватом системы](core_05_band_continuity.md#system-capture) по **Главе пятой**.
 
 </details>
@@ -890,7 +890,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: [Глава первая §4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основания: [Глава первая §4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -925,7 +925,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: [Глава первая §4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Основания: [Глава первая §4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 

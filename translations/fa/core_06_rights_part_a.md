@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، و [فصل هفتم §4 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 قیدهای افشای معرفتی](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، و [فصل هفتم §4 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §4 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§3.1 ایمنی](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §4 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - خوانده شود با: [اصل XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*حقوق حمل‌پذیری*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**؛ **CJS-3.17** (*اصطلاحات هم‌کنش‌پذیری، حمل‌پذیری، و یکپارچگی خروج*) و **CJS-3.18** (*اصطلاحات نگهداشت داده و یکپارچگی چرخهٔ عمر*)؛ [فصل یکم §11.6 مسئولیت جانشین و عدم‌گریز ساختار صوری](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [فصل نهم §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) و [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- بالادست: اصول: فصل یکم [§3.2 حقیقت](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [فصل هفتم §4 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و [§10 حکمرانی زیر انضباط مدیریت مسئولانه](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - خوانده شود با: خانوادهٔ اندازه‌گیری پیوستگی (*وابستگی و جریان‌های منابع به‌عنوان اندازه‌گیری قانون اساسی*)؛ [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — **نظارت** از راه نقشه‌های شفاف وابستگی و سوابق حسابرسی‌پذیر جریان منابع، **مشارکت** در بازبینی قابل‌اعتراض زیر **اصل XV-A** (*قابلیت حسابرسی و شاهد مشاهده‌پذیر*)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** (تخصیص دیدنی هزینه و نفع) و **پیوستگی** (دیدنی ماندن وابستگی در سراسر نظام‌های درحال‌تغییر).
 - پایین‌دست: [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جایی که نظام‌ها زیرساخت مشترک یا وابستگی‌های بنیادین را تخصیص، مسیر، تأمین، یا از آن استخراج کنند؛ **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*مدیریت مسئولانهٔ تخصیص منابع و تأمین*)، و **CS-8** (*پایداری سازگار و تاب‌آوری زیست‌بوم*).
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">ردگیری</span></strong></summary>
 
-- بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §3 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- بالادست: اصول: فصل یکم [§2 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 اصول اصلی بده‌بستان](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و [فصل هفتم §4 ارزیابی گواهی کل‌نظام](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - خوانده شود با: [*معماری حکمرانی، نظارت، وابستگی، تمرکززدایی، تمرکز، ساختار بازار، و یکپارچگی مسیر خروج*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (فراخوانی مشترک جایی که تمرکز، نظارت، وابستگی، ساختار اختیار حکمران، یا مسیرگذاری انگیزه با **§5** / **§5** و انضباط *تعامل آستانهٔ تمرکز* در متن عملیاتی زیر تلاقی کنند).
 - خوانده شود با: [چهارگانهٔ قانون اساسی](core_00_preamble.md#constitutional-tetrad) — **مشارکت** در مسیرهای اعتراض و قابلیت اعتراض، **نظارت** و حسابرسی، **پاسخگویی** و بازبینی اصلاحی، **به‌هنگامی** زیر **اصل XXIV-C** (*حل به‌هنگام و کف ضدتأخیر*)؛ [دو هدف قانون اساسی](core_00_preamble.md#two-constitutional-aims) — **شکوفایی** (انصاف میان‌سیستمی و عدم‌استخراج) و **پیوستگی** (پایداری بلندمدت و تأمین زیست‌بوم).
 - پایین‌دست: [گواهی هم‌راستایی نظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و [فصل هفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جایی که انصاف میان‌سیستمی، تأمین زیست‌بوم، یا استخراج ماندگار از زیرساخت مشترک از نظر مادی محل نزاع باشد.

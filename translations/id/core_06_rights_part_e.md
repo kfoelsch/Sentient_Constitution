@@ -265,7 +265,7 @@ Aturan tata kelola, mekanisme partisipasi, model pembobotan, dan struktur pendan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §18.4 Pembenaran Berkelanjutan](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Bab Satu [§3 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Hulu: Prinsip: [Bab Satu §18.4 Pembenaran Berkelanjutan](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Bab Satu [§3 Tujuan Dasar: Kesejahteraan](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -296,7 +296,7 @@ Pasal ini menetapkan peninjauan tata kelola secara berkala dan dipercepat:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §14 Larangan Pengesampingan Mutlak](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -363,7 +363,7 @@ Tata kelola transisi bertujuan menjamin keberlanjutan dan mencegah kemunduran. T
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Bab Sepuluh §5.4](core_10_standing_integration.md#54-special-violation-rules) (*perampasan imbalan yang tidak selaras dan pelaporan dibatasi selama transisi oleh Pasal ini*); [Bab Delapan — Sertifikasi Penyelarasan Sistem](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pertukaran](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [Bab Sepuluh §5.4](core_10_standing_integration.md#54-special-violation-rules) (*perampasan imbalan yang tidak selaras dan pelaporan dibatasi selama transisi oleh Pasal ini*); [Bab Delapan — Sertifikasi Penyelarasan Sistem](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -523,7 +523,7 @@ Kondisi transisi yang gagal atau menurun tidak boleh menjadi dasar baru hanya ka
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak rujukan</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §13.1.5 Prosedur Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §13.1.5 Prosedur Benturan Hak](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - Baca bersama: **Pasal III-A** (*Kelangsungan Hidup*); **Pasal XIII** (*Hak atas Sistem yang Andal dan Dapat Dipercaya*); **Pasal XI-G** (*Batas Kerugian Kolektif dan Antarmuka Penegakan*); **Bab Sembilan**; **Bab Satu**, termasuk prosedur benturan hak §6; **rangkaian pembatasan baku** di pembukaan Bab Enam (*antarmuka kepemilikan dan perbaikan*); [**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*properti yang tidak patuh, penyitaan, insentif sukarela*) sampai **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Tata kelola transisi dan evolusi kelembagaan*).
 
 </details>

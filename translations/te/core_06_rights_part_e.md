@@ -268,7 +268,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: [అధ్యాయం ఒకటి §18.4 నిరంతర సమర్థన](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); అధ్యాయం ఒకటి [§3 ప్రాథమిక లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: [అధ్యాయం ఒకటి §18.4 నిరంతర సమర్థన](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); అధ్యాయం ఒకటి [§3 ప్రాథమిక లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [అధ్యాయం ఎనిమిది §4 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -300,7 +300,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఎనిమిది §4 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §14 సంపూర్ణ అధిగమన నిషేధం](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -367,7 +367,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [అధ్యాయం పది §5.4](core_10_standing_integration.md#54-special-violation-rules) (*ఈ వ్యాసం ద్వారా పరివర్తనలో అసమతుల్య బహుమతుల జప్తు, నివేదన పరిమితం*); [అధ్యాయం ఎనిమిది—వ్యవస్థ సమలేఖన ధృవీకరణ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §4 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [అధ్యాయం పది §5.4](core_10_standing_integration.md#54-special-violation-rules) (*ఈ వ్యాసం ద్వారా పరివర్తనలో అసమతుల్య బహుమతుల జప్తు, నివేదన పరిమితం*); [అధ్యాయం ఎనిమిది—వ్యవస్థ సమలేఖన ధృవీకరణ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -526,7 +526,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">సూచన-జాడ</span></strong></summary>
 
-- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [అధ్యాయం ఒకటి §13.1.5 హక్కుల ఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [అధ్యాయం ఎనిమిది §3 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- పైస్థాయి ఆధారాలు: సూత్రాలు: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [అధ్యాయం ఒకటి §13.1.5 హక్కుల ఘర్షణ ప్రక్రియ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [అధ్యాయం ఎనిమిది §4 మొత్తం వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - వీటితో కలిపి చదవాలి: **వ్యాసం III-A** (*జీవనాధారం*); **వ్యాసం XIII** (*నమ్మదగిన వ్యవస్థల హక్కు*); **వ్యాసం XI-G** (*సామూహిక హాని సరిహద్దు, అమలు అనుసంధానం*); **అధ్యాయం తొమ్మిది**; **అధ్యాయం ఒకటి**, అందులో §6 హక్కుల ఘర్షణ ప్రక్రియ; అధ్యాయం ఆరు ప్రారంభంలోని **డిఫాల్ట్ పరిమితుల శ్రేణి** (*ఆస్తి స్వాధీనం, పరిహార అనుసంధానం*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*అనుగుణం కాని ఆస్తి, స్వాధీనం, స్వచ్ఛంద ప్రోత్సాహకాలు*) నుంచి **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*పరివర్తన పాలన, సంస్థాగత పరిణామం*).
 
 </details>

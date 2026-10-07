@@ -214,7 +214,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">追溯关系</span></strong></summary>
 
 - 上游：原则：第一章[§3.1公平](core_01_a_values_principles.md#31-fairness)、[第一章§7自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第一章§13.1.5权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)。
-- 下游：参与度衡量系列（*实质公平、受保护特征的代理指标与差别影响*）；[第八章§3.9.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation)（*认证将分类、排序、定价、准入限制或负担分配作为门槛时的不歧视评估*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)的论坛、行政和执行程序（*裁决与运行义务*）。
+- 下游：参与度衡量系列（*实质公平、受保护特征的代理指标与差别影响*）；[第八章§4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation)（*认证将分类、排序、定价、准入限制或负担分配作为门槛时的不歧视评估*）；[第十二章](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)的论坛、行政和执行程序（*裁决与运行义务*）。
 - 配合阅读：第五章[受保护特征](core_05_band_participation.md#protected-characteristics-constitutional)与[语言、文化和遗产](core_05_band_continuity.md#language-culture-and-heritage-constitutional)；第五章[原住民延续](core_05_band_continuity.md#indigenous-continuity-constitutional)（*以社区为基础的权利底线；所属底线为**第VI-C条**（不歧视）与**第I-A条**（环境前提与生态完整性）*），适用于原住民延续和领土延续问题；此类问题转由[第I-A条](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)（*生态系统完整性的前提条件*）及[第十七章](core_17_incorporation.md#chapter-seventeen-incorporation-bridge)（*采纳方管辖纪律*）处理。
 
 </details>
@@ -260,8 +260,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 通俗语言无障碍](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
-- 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 VI-C 条**（*不歧视*）在裁决和运营中的不歧视与充分包容；**第 IV-A 条**（*平等教育机会*）的平等教育机会（教育专属无障碍仍由该条负责；本条规定跨领域权利底线）；**第 X-B 条**（*治理参与与投票资格*）；**第 XII 条**（*利益相关方系统参与、代表与正当程序*）；**第 XVI 条**（*审计、透明度与独立核验*）；参与度量系列（*作为宪法衡量指标的无障碍*）；[第八章 §3.9.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation)（*认证门槛影响实质参与时的无障碍评估*）。
+- 上游：原则：第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§7.1 限制纪律](core_01_a_values_principles.md#71-limitation-discipline)、[§5.2 通俗语言无障碍](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 下游：**第 VI-A 条**（*尊严与平等道德地位*）的尊严底线；**第 VI-C 条**（*不歧视*）在裁决和运营中的不歧视与充分包容；**第 IV-A 条**（*平等教育机会*）的平等教育机会（教育专属无障碍仍由该条负责；本条规定跨领域权利底线）；**第 X-B 条**（*治理参与与投票资格*）；**第 XII 条**（*利益相关方系统参与、代表与正当程序*）；**第 XVI 条**（*审计、透明度与独立核验*）；参与度量系列（*作为宪法衡量指标的无障碍*）；[第八章 §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation)（*认证门槛影响实质参与时的无障碍评估*）。
 - 与第五章术语*无障碍*、*受保护特征*、*实质公平*、*重要性*、*依赖*、*有意义的能动性*一并阅读。跨领域无障碍原则见[第一章 §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)（*通俗语言无障碍*）。
 
 </details>
@@ -888,7 +888,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第13.2节 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -934,7 +934,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第9.1节 生产能力（工具性善）](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)、[第一章第13.3节 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章第18节 监护职责约束下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[第5节 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第9.1节 生产能力（工具性善）](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)、[第一章第13.3节 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)，以及[第一章第18节 监护职责约束下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 下游：**第六章第III-C条**（*劳动与经济底线*）劳动与经济底线；**第IX-A条**（*肖像与声誉的自我所有权*）肖像；**第IX-B条**（*体验数据与衍生数据权利*）体验与衍生数据；**第IX-C条**（*真实发布与高影响发布限制*）发布；**第一章第11节**防止集中，以及**第13.1节**集中门槛机制。
 - 联读：[**Def.C1** *劳动与经济底线：报酬、组织、安全条件、休闲与创作劳动*](core_05_band_continuity.md#labor-and-economic-floor-cluster)（与**第III-C条**（*劳动与经济底线*）、**第III-D条**（*安全工作条件*）及**第III-E条**（*休息与恢复*）共同援引；若涉及实质影响，则联读[**Def.C3**（*隐私（信息方面）*）](core_05_band_continuity.md#privacy-informational-cluster)）。
 
@@ -1113,7 +1113,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：[第一章第7节 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章第13.1.5节 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)，以及[第八章第3节 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1415,7 +1415,7 @@ flowchart TB
   - 支持地位锁定、拒绝或延迟能力认证，或缩窄**第十章**或**第十九条**（*地位与参与身份*）中的任何指定途径；
   - 支持[第十一章](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)中的违宪不当行为认定；
   - 依据**第十-B条**（*治理参与与投票资格*）和**第十三章**，减少治理投票、利益相关方参与、候选资格、任职、论坛服务或罢免权；
-  - 计入[第八章](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest)的系统一致性认证不利因素；
+  - 计入[第八章](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest)的系统一致性认证不利因素；
   - 成为监控、渗透、威胁评分或累积记录的理由，而这些行为已由**第十四-A条**（*安全、情报与秘密权力限制*）禁止；或
   - 成为附加生存必需品、权利底线最低标准、就业、普通商业活动，或质疑与补救渠道准入条件的依据。
 
@@ -1635,7 +1635,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)，以及[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 - 配合阅读：[宪法四元组](core_00_preamble.md#constitutional-tetrad)——**参与**环节（利益相关方系统参与层）；[实质利害关系](core_00_preamble.md#material-stake)的调整；[实质约束性行为记录](core_05_band_accountability.md#materially-binding-act-record)与[第七章 §7 行为记录、可归责移交与错误席位路由](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)。
 - 层次：**利益相关方系统参与（SSP）**，区别于授权性的**宪法契约层（CCL）**。
 
@@ -1681,7 +1681,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 
 </details>
 
@@ -1767,7 +1767,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章[§5 真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)，以及[第一章 §18 受托管纪律约束的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 配合阅读：[系统俘获](core_05_band_continuity.md#system-capture)；[反俘获](core_05_band_continuity.md#anti-capture)；[第七章：职能独立与职责分离](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)。
 
 </details>

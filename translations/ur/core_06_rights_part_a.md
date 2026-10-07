@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، اور [باب ہفتم §4 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، اور [باب ہفتم §4 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §4 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§3.1 حفاظت](core_01_a_values_principles.md#31-safety-harm-constraint)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §4 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: [دفعہ XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*نقل پذیری کے حقوق*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — معلومات کی اقسام اور ہینڈلنگ**؛ **CJS-3.17** (*باہم چلن، نقل پذیری، اور خروج کی دیانت کی اصطلاحیں*) اور **CJS-3.18** (*ڈیٹا برقرار رکھنے اور زندگی چکر کی دیانت کی اصطلاحیں*)؛ [باب یکم §11.6 جانشین کی ذمہ داری اور رسمی ڈھانچے سے فرار کی ممانعت](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [باب نہم §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) اور [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)۔
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)۔
+- بالائی: اصول: باب یکم [§3.2 سچائی](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، [باب ہفتم §4 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [§10 ذمہ دارانہ انتظام کی ضبط کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)۔
 - ساتھ پڑھیں: استمرار پیمائش خاندان (*انحصار اور وسائل کا بہاؤ بطور آئینی پیمائش*)؛ [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — شفاف انحصار نقشوں اور آڈٹ کے قابل وسائل-بہاؤ ریکارڈ سے **نگرانی**، **دفعہ XV-A** (*آڈٹ پذیری اور مشاہدہ پذیر ثبوت*) کے تحت چیلنج کے قابل جائزے میں **شرکت**؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** (دکھائی دینے والی لاگت-اور-فائدہ تقسیم) اور **استمرار** (بدلتے نظاموں کے پار پائیدار انحصار نظر)۔
 - زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جہاں نظام مشترکہ بنیادی ڈھانچے یا بنیادی انحصار تقسیم، راہ بندی، فنڈ، یا نکاسی کریں؛ **[corpus_systems.md](../../corpus_systems.md)**، **CS-9** (*وسائل کی تقسیم اور مالی معاونت کا ذمہ دارانہ انتظام*)، اور **CS-8** (*موافق پائیداری اور ماحولیاتی نظام کی لچک*)۔
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §3 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- بالائی: اصول: باب یکم [§2 بنیادی مقصد: بہبود](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، [§6.1 بنیادی سودے کے اصول](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، اور [باب ہفتم §4 پورے نظام کی سرٹیفیکیشن جانچ](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: [*حکمرانی معماری، نگرانی، انحصار، عدمِ مرکزیت، ارتکاز، بازار کا ڈھانچہ، اور خروج-راستہ دیانت*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (مشترکہ پکار جہاں ارتکاز، نگرانی، انحصار، حکمران-اختیار ڈھانچہ، یا محرک راہ بندی نیچے عملی متن میں **§5** / **§5** اور *ارتکاز-حد تعامل* ضبط سے ٹکرائیں)۔
 - ساتھ پڑھیں: [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad) — چیلنج اور چیلنج نامزد راستوں میں **شرکت**، **نگرانی** اور آڈٹ، **جوابدہی** اور اصلاحی جائزہ، **دفعہ XXIV-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت **بروقت کارروائی**؛ [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims) — **شگفتگی** (بین نظامی انصاف اور عدمِ نکاسی) اور **استمرار** (لمبے افق کی پائیداری اور ماحولیاتی نظام فنڈنگ)۔
 - زیریں: [نظام ہم آہنگی سرٹیفیکیشن](core_05_band_continuity.md#system-alignment-certification-constitutional) اور [باب ہفتم](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) جہاں بین نظامی انصاف، ماحولیاتی نظام فنڈنگ، یا مشترکہ بنیادی ڈھانچے سے مستقل نکاسی مادی طور پر داؤ پر ہو۔

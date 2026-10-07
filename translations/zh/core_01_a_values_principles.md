@@ -613,7 +613,7 @@ flowchart TB
 - 配合阅读：[宪法四元框架](core_00_preamble.md#constitutional-tetrad)——受影响方必须理解并质疑经验性主张时适用**参与**支柱；**监督**支柱（独立审查、可审计性）；按[重大利害关系](core_00_preamble.md#material-stake)调整适用程度。
 - 配合阅读：[两个宪法目标](core_00_preamble.md#two-constitutional-aims)——**繁盛**目标（为**安全**和**真相**提供诚实证据）；**延续**目标（可纠正的长期经验责任治理）。
 - 上游：原则：[§4 安全](#4-safety-harm-constraint)和[§5 真相](#5-truth-epistemic-integrity-constraint)；[两个宪法目标](core_00_preamble.md#two-constitutional-aims)。
-- 下游：[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)、[§16 深入探讨责任治理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13.2 认识披露约束](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)以及[§18 在责任治理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 下游：[6. 信任](#6-trust-and-trustworthiness-coordination-integrity)、[§16 深入探讨责任治理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13.2 认识披露约束](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)以及[§18 在责任治理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 下游：塑造可靠经验性证据、专家证据标准、科学出版与复现完整性、独立核验、生命周期测试、根因审查和安全敏感披露的权利范围。
   - 尤其包括[第 XIII 条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第 XVI 条：审计、透明度与独立核验](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第 XVIII-E 条：科学出版、审查与复现完整性](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)、[第 XXIII 条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)以及[第 XXV-A 条：回顾性审查与披露](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)。
 - 配合阅读：[第十二章 §4.2——技术论坛领域](core_12_forum.md#42-technical-forum-domains)（*包括共同标准和防止取代*），当专家证据标准、经认证的技术问题或证据责任治理争议具有实质意义时；已采纳的专门路径参阅[corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)（*技术专家论坛和专家审议庭*）。
@@ -835,7 +835,7 @@ flowchart TB
 - 参见：[自愿终止](core_05_band_continuity.md#voluntary-discontinuation)、第五章 §2 *自主性、同意与反胁迫*，以及[集会、集体组织与机构形成](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation)。
 - 参见：[§17 后果责任治理](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)与[§19.1.4 角色深度与重大责任路径](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways)——角色深度、能力和重大责任路径；在安全与同意允许时，有意义的自主性包括进入学习角色、运营和承担实质后果义务的真实途径；当影响要求承担实质义务时，象征性参与不得取而代之。
 - 参见：[§11 市场结构](#11-market-structure)，尤其是[§11.2 促进竞争与反支配](#112-pro-competition-and-anti-domination)，以及[第XXI条：互操作性、可移植性、迁移、避难与退出完整性](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)：当集中、支配或锁定实质限制自主性时，可受质疑的市场、退出途径和反支配纪律能使大规模自主性保持真实。
-- 参见：[§7.1 限制纪律](#71-limitation-discipline)与[第八章 §3.5 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#35-time-consistency-constraint)——关于限制自由和评估时间一致性的操作纪律；当自由限制与其他价值或权利冲突时，在满足**安全**和**真实**之后，依据[§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)至[§13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)解决。
+- 参见：[§7.1 限制纪律](#71-limitation-discipline)与[第八章 §4.2 时间一致性约束](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint)——关于限制自由和评估时间一致性的操作纪律；当自由限制与其他价值或权利冲突时，在满足**安全**和**真实**之后，依据[§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)至[§13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)解决。
 - 上游：原则：[§3.2 认可、强化与志向](#32-recognition-reinforcement-and-aspiration)；[§4 安全](#4-safety-harm-constraint)；[§5 真实](#5-truth-epistemic-integrity-constraint)；[§6 信任](#6-trust-and-trustworthiness-coordination-integrity)；以及[宪法的两个目标](core_00_preamble.md#two-constitutional-aims)。
 - 下游：[§7.1 限制纪律](#71-limitation-discipline)至[§7.4 自愿终止、重大自我修改与退出权](#74-voluntary-discontinuation-and-exit-rights)；[§18.2 机构世俗主义与世界观中立](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)（*自由原则在公共权力领域的对应规定*）；[第13节 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)；[第14节 禁止绝对优先](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)；[§20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)；以及具体适用需要处理冲突时的[宪法冲突记录](core_05_band_integrative.md#constitutional-collision-record)。
 - 下游：界定平等地位、教育、自我所有权、出版与肖像控制、自主性、合作互动、正当程序、诉讼资格和反俘获审查等权利范围。
@@ -981,7 +981,7 @@ flowchart TB
 
 - **本节不作的改变：****§7.2**（*集会、集体组织与制度形成*）将[反分割原则](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)应用于本主题，并仅增列[§7.2.1 协调一致的自我组织](#721-aligned-self-organization)这一指引。它不会创设、扩张或缩窄任何第六章权利底线条款。
 - **分项处理：**公民结社、劳动组织、平台访问及许可框架。如果这种分割保留了形式上的访问权，却挫败集会或集体组织保护，即属不合规。
-- **整体系统评估：**凡完整定义簇适用，在分类、治理或合规主张成立之前，必须依据[第八章§3.4 集会、集体组织与制度形成](core_08_a_system_alignment_certification_evaluation.md#34-assembly-collective-organization-and-institutional-formation)检验是否违反反分割原则。
+- **整体系统评估：**凡完整定义簇适用，在分类、治理或合规主张成立之前，必须依据[第八章§4.7 集会、集体组织与制度形成](core_08_a_system_alignment_certification_evaluation.md#47-assembly-collective-organization-and-institutional-formation)检验是否违反反分割原则。
 
 ##### 7.2.1 协调一致的自我组织
 <a id="721-aligned-self-organization"></a>
@@ -1038,7 +1038,7 @@ flowchart TB
 
 **行使自由不得导致资格或发言权受损。**感知者行使这项自由，不得成为降低其资格、缩小其角色任职范围、减少其治理发言权，或在系统一致性认证中对其不利的理由。具体规则，包括公民不服从规则，以及对异议之后不利措施所适用的举证责任，载于**[第 XI-D 条](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)（*集会、异议与和平抗议*）**。
 
-评估整个系统时，必须依据[第八章§3.4.1 异议与和平抗议](core_08_a_system_alignment_certification_evaluation.md#341-dissent-and-peaceful-protest)检查系统如何对待异议与和平抗议。在完成该检查之前，在本节适用之处，任何人都不得宣称系统已得到妥善分类、治理良好或合规。
+评估整个系统时，必须依据[第八章§4.7.1 异议与和平抗议](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest)检查系统如何对待异议与和平抗议。在完成该检查之前，在本节适用之处，任何人都不得宣称系统已得到妥善分类、治理良好或合规。
 
 **本节不作的改变：**
 
@@ -1088,7 +1088,7 @@ flowchart TB
 - 性同意
 - 商业服务
 
-凡适用范围成立，在分类、治理、限制或合规主张成立之前，整体系统评估必须依照[第八章§3.3 自愿终止、重大自我修改与退出权](core_08_a_system_alignment_certification_evaluation.md#33-voluntary-discontinuation-major-self-modification-and-exit-rights)检验这些条件。
+凡适用范围成立，在分类、治理、限制或合规主张成立之前，整体系统评估必须依照[第八章§4.6 自愿终止、重大自我修改与退出权](core_08_a_system_alignment_certification_evaluation.md#46-voluntary-discontinuation-major-self-modification-and-exit-rights)检验这些条件。
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. 连续性目标：引言
@@ -1375,7 +1375,7 @@ flowchart TB
 - 上游：[§9 共享系统能力](#9-shared-system-capacity)——韧性所保护并恢复的持久能力。
 - 与以下内容一并阅读：[两项宪法目标](core_00_preamble.md#two-constitutional-aims)——**连续性**目标（韧性与自我修复规约）；**繁荣**目标（恢复可信，且不损害认知完整性）。
 - 上游：原则：[序言 §1 模型](core_00_preamble.md#the-model)；[两项宪法目标](core_00_preamble.md#two-constitutional-aims)；[§4 安全](#4-safety-harm-constraint)、[§5 真相](#5-truth-epistemic-integrity-constraint)及[§6 信任](#6-trust-and-trustworthiness-coordination-integrity)。
-- 下游：[§16 深入探讨管理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)以及[§14 禁止绝对优先](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 下游：[§16 深入探讨管理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)以及[§14 禁止绝对优先](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下游：塑造有关可靠性与恢复、根因诚实性、可逆性，以及降级和恢复状态可理解性的权利范围。
   - 尤其包括[第XIII条：获得可靠可信系统的权利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)（包括**第XIII-F条**（*韧性与自我修复基线*））、[第XVI条：审计、透明度与独立验证](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XVII条：系统生命周期、环境与可逆性](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[第XXII条：可理解性与复杂性管理](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)以及[第XXIII条：根因分析与适应性响应](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)。
 
@@ -1880,7 +1880,7 @@ flowchart TB
 - 与以下内容一并阅读：连续性测量系列（*韧性、可逆性与系统性风险*）。
 - 与以下内容一并阅读：[宪法四元结构](core_00_preamble.md#constitutional-tetrad)、[两项宪法目标](core_00_preamble.md#two-constitutional-aims)，并按[实质利益](core_00_preamble.md#material-stake)调整尺度。
 - 与以下内容一并阅读：[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[§16 深入探讨管理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)以及[§19 激励一致性与系统俘获](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)。
-- 与以下内容一并阅读：**[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**——用于评估整个系统是否可获认证的因素。认证是四元结构中**监督**要素下的一项特别大型审计，并非唯一的审计场景。
+- 与以下内容一并阅读：**[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**——用于评估整个系统是否可获认证的因素。认证是四元结构中**监督**要素下的一项特别大型审计，并非唯一的审计场景。
 - 与以下内容一并阅读：**第XVI条**（*审计、透明度与独立验证*）及[可审计性](core_05_band_oversight.md#auditability)——第八章必须满足且其他同类审计模式也须落实的审计底线。
 - 与以下内容一并阅读：**[corpus_systems.md](corpus_systems.md)，CS-3 — 系统分类与处理**及[按分类调整的治理](core_05_band_oversight.md#classification-scaled-governance)——按类别适用、记录形式、重新分类触发条件和处理方案。
 - 上游：[§16 深入探讨管理](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)；[§18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)；[§13 宪法冲突解决程序](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)。
@@ -1918,8 +1918,8 @@ flowchart TB
 - 解除条件。
 
 详细评估因素与认证记录由以下文件负责：
-- **[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**；
-- **[第八章 §4 系统认证记录](core_08_b_system_alignment_certification_record_process.md#4-system-certification-record)**；
+- **[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**；
+- **[第八章 §6 系统认证记录](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**；
 - **[corpus_systems.md](corpus_systems.md)，CS-3 — 系统分类与处理**。
 
 第八章的程序：

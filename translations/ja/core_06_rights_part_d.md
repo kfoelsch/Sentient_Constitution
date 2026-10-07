@@ -257,7 +257,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：第一章の原則[§6 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第一章 §18 管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位根拠：第一章の原則[§6 信頼](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[第一章 §18 管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 
 </details>
 
@@ -517,7 +517,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位根拠：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -547,7 +547,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位根拠：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -573,7 +573,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第一章 §18 管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上位根拠：[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[第一章 §18 管理規律下の統治](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 
 </details>
 
@@ -749,7 +749,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：第一章の原則[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位根拠：第一章の原則[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 - 併せて読む：[第一章 §5.2 平易な言葉でのアクセシビリティ（管理義務）](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)、[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第一章パートC §16.1 分散した理解](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)。
 
 </details>
@@ -780,7 +780,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[第一章 §18.5 モジュール型アーキテクチャと依存規律](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)、[第一章 §20 統合適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[第一章 §18.5 モジュール型アーキテクチャと依存規律](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)、[第一章 §20 統合適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 
@@ -819,7 +819,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 - 併せて読む：[憲法上の四本柱](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)（**繁栄**と**継続**）、**第五章**の[可逆性](core_05_band_continuity.md#reversibility-constitutional)、[リスク](core_05_band_continuity.md#risk)、[システム捕獲](core_05_band_continuity.md#system-capture)。
 
 </details>
@@ -864,7 +864,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 
@@ -896,7 +896,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
+- 上位根拠：第一章の原則[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的なトレードオフ原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
 
 </details>
 

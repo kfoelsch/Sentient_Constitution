@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), आणि [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -203,7 +203,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ज्ञानविषयक प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 ज्ञानविषयक प्रकटीकरण बंधन](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), आणि [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -342,7 +342,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 
 </details>
 
@@ -471,7 +471,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§3.1 सुरक्षा](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - सोबत वाचा: [अनुच्छेद XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*सुवाह्यता अधिकार*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — माहिती प्रकार आणि हाताळणी**; **CJS-3.17** (*आंतरकार्यक्षमता, सुवाह्यता, आणि निर्गमन-सचोटी अटी*) आणि **CJS-3.18** (*डेटा-धारण आणि जीवनचक्र-सचोटी अटी*); [अध्याय एक §11.6 उत्तराधिकारी जबाबदारी आणि औपचारिक-संरचना पलायन-निरोध](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [अध्याय नऊ §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) आणि [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -791,7 +791,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- वरून: तत्त्वे: अध्याय एक [§3.2 सत्य](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [§10 उत्तरदायी-व्यवस्थापन शिस्तीखालील शासन](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - सोबत वाचा: सातत्य मापन कुटुंब (*संवैधानिक मापन म्हणून अवलंबित्व आणि संसाधन प्रवाह*); [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — पारदर्शक अवलंबित्व नकाशे आणि लेखापरीक्षण-योग्य संसाधन-प्रवाह अभिलेखांद्वारे **देखरेख**, **अनुच्छेद XV-A** (*लेखापरीक्षण-योग्यता आणि प्रेक्षणीय पुरावा*) खाली आव्हानयोग्य समीक्षेतील **सहभाग**; [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** (दृश्य खर्च-आणि-लाभ वाटप) आणि **सातत्य** (बदलत्या प्रणालीपार टिकाऊ अवलंबित्व दृश्यता).
 - पुढे: प्रणाली सामायिक पायाभूत सुविधा किंवा पायाभूत अवलंबित्वांचे वाटप, मार्गनिर्देशन, वित्त, किंवा काढणी करतील तिथे [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*संसाधन वाटप आणि वित्त उत्तरदायी व्यवस्थापन*), आणि **CS-8** (*अनुकूलन टिकाऊपणा आणि परिसंस्था लवचिकता*).
 
@@ -823,7 +823,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- वरून: तत्त्वे: अध्याय एक [§2 पायाभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 मूल व्यापार तत्त्व](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), आणि [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यमापन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
 - सोबत वाचा: [*शासन वास्तुकला, देखरेख, अवलंबित्व, विकेंद्रीकरण, संकेंद्रण, बाजार रचना, आणि निर्गमन-मार्ग सचोटी*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (संकेंद्रण, देखरेख, अवलंबित्व, शासन-प्राधिकार संरचना, किंवा प्रोत्साहन मार्गनिर्देशन खालील संक्रियात्मक पाठातील **§5** / **§5** आणि *संकेंद्रण-उंबरठा परस्परक्रिया* शिस्तीशी छेदतील तिथे संयुक्त आवाहन).
 - सोबत वाचा: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad) — आव्हान आणि आव्हान नामित मार्गांतील **सहभाग**, **देखरेख** आणि लेखापरीक्षण, **उत्तरदायित्व** आणि सुधारक समीक्षा, **अनुच्छेद XXIV-C** (*समयबद्ध निराकरण आणि विलंब-विरोधी तळ*) खाली **समयबद्धता**; [दोन संवैधानिक उद्दिष्टे](core_00_preamble.md#two-constitutional-aims) — **समुन्नती** (आंतर-प्रणाली न्याय्यपणा आणि अ-काढणी) आणि **सातत्य** (दीर्घकालीन टिकाऊपणा आणि परिसंस्था वित्त).
 - पुढे: आंतर-प्रणाली न्याय्यपणा, परिसंस्था वित्त, किंवा सामायिक पायाभूत सुविधांपासून सतत काढणी भौतिक रीतीने प्रश्नात असेल तिथे [प्रणाली-संरेखन प्रमाणन](core_05_band_continuity.md#system-alignment-certification-constitutional) आणि [अध्याय सात](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
