@@ -450,7 +450,7 @@ Evaluation must reflect functional effect, not label, format, or pipeline stage 
 
 Justified hold-backs must be paired with maximum feasible public substitutes. Chapter Five owns the term; CS-2 (*Information types and handling*) owns baseline content and release mechanics.
 
-**Privacy discipline.**
+**Privacy discipline:**
 
 - *Types H, I, N, S, and Y.* For **Type H**, **Type I**, **Type N**, **Type S**, and **Type Y** data, certification must verify that handling satisfies the [privacy homes](corpus_systems/cs_02_b_data_classifications.md#privacy-link) each type names in **CS-2** (*Information types and handling*), including [Necessity](core_05_band_accountability.md#necessity), [Proportionality](core_05_band_accountability.md#proportionality), minimization, and consent or other adequate authority.
 - *Joint invocation.* Where more than one privacy locus is implicated, [§4.5 Privacy (Informational) Joint Invocation](#45-privacy-informational-joint-invocation) also applies.
@@ -691,8 +691,8 @@ This section states what certification must verify. It does not restate CS-8 or 
 
 **Evaluation requirement.** A certification process must determine two things:
 
-- **What the system takes.** Whether the documented dependent-systems maps and auditable resource-flow records required by **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) show extraction from shared infrastructure or foundational dependencies. These are records of who depends on what, and where resources flow.
-- **What the system puts back.** Whether return flows reach substantive adequacy under [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support).
+- **What the system takes:** Whether the documented dependent-systems maps and auditable resource-flow records required by **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) show extraction from shared infrastructure or foundational dependencies. These are records of who depends on what, and where resources flow.
+- **What the system puts back:** Whether return flows reach substantive adequacy under [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support).
 
 The process must judge both under [Substantive Fairness](core_05_band_participation.md#substantive-fairness) and [Proportionality](core_05_band_accountability.md#proportionality), scaled to:
 
@@ -729,7 +729,7 @@ A map or record that fails any of these tests cannot support a finding of adequa
 
 **Class scaling and escalation.** Class changes how deep the review goes and how closely adequacy is judged. It never makes shared extraction too small to count. Wherever the materiality trigger is met:
 
-- A system drawing on a shared foundation that people need to survive, such as a shared watershed or regional grid backbone, must carry the strongest dependent-systems-map and return-flow proof on the record.
+- A system drawing on a shared foundation that sentients need to survive, such as a shared watershed or regional grid backbone, must carry the strongest dependent-systems-map and return-flow proof on the record.
 - A system relying on shared authentication, health-IT, or similar infrastructure must document what it takes and whether its support is adequate, at a depth that matches how critical its operations are. Generic interoperability slogans do not count.
 - A system must not avoid cross-system review while it quietly becomes the payments, identity, or staffing chokepoint for institutions that cannot practically switch. When that happens, certification must escalate review and reclassification under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §7 Outcomes, Recertification, and Reopening](core_08_b_system_alignment_certification_record_process.md#7-outcomes-recertification-and-reopening), including up to **Class A** where it controls access to survival-essential coordination.
 
