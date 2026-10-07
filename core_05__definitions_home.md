@@ -227,6 +227,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Innovation Reward and Anti-Enclosure](core_05_band_integrative.md#innovation-reward-and-anti-enclosure)
 - [Insider Advantage](core_05_band_accountability.md#insider-advantage)
 - [Instantiation Consent](core_05_band_participation.md#instantiation-consent)
+- [Institution](core_05_band_continuity.md#institution)
 - [Institutional Development](core_05_band_continuity.md#institutional-development)
 - [Intergenerational Responsibility](core_05_band_continuity.md#intergenerational-responsibility)
 - [Irreversible Deprivation Measure](core_05_band_accountability.md#irreversible-deprivation-measure)

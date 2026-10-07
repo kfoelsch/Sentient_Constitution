@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-07T18:17:37+00:00",
+  "generated_at": "2026-10-07T18:24:04+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -3253,28 +3253,28 @@
       "file": "core_05_band_continuity.md",
       "anchor": "#defc1",
       "heading": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
-      "line": 3174,
+      "line": 3221,
       "kind": "cluster"
     },
     "Def.C2": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc2",
       "heading": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
-      "line": 3696,
+      "line": 3743,
       "kind": "cluster"
     },
     "Def.C3": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc3",
       "heading": "Def.C3 Privacy (Informational) — peer-level cluster head",
-      "line": 4225,
+      "line": 4272,
       "kind": "cluster"
     },
     "Def.C4": {
       "file": "core_05_band_continuity.md",
       "anchor": "#defc4",
       "heading": "Def.C4 Trust and Trustworthiness",
-      "line": 4447,
+      "line": 4494,
       "kind": "cluster"
     },
     "Def.I1": {
@@ -4090,8 +4090,8 @@
       "term": "Anti-Displacement Floor",
       "file": "core_05_band_continuity.md",
       "anchor": "#anti-displacement-floor-constitutional",
-      "line_start": 3623,
-      "line_end": 3695
+      "line_start": 3670,
+      "line_end": 3742
     },
     {
       "term": "Assembly",
@@ -4167,8 +4167,8 @@
       "term": "Bodily-Maintenance Access",
       "file": "core_05_band_continuity.md",
       "anchor": "#bodily-maintenance-access-constitutional",
-      "line_start": 2912,
-      "line_end": 2968
+      "line_start": 2959,
+      "line_end": 3015
     },
     {
       "term": "Burden-Reduction Duty",
@@ -4209,8 +4209,8 @@
       "term": "Charter",
       "file": "core_05_band_continuity.md",
       "anchor": "#charter",
-      "line_start": 2786,
-      "line_end": 2842
+      "line_start": 2833,
+      "line_end": 2889
     },
     {
       "term": "Classification-Scaled Governance",
@@ -4391,8 +4391,8 @@
       "term": "Creative Work Attribution",
       "file": "core_05_band_continuity.md",
       "anchor": "#creative-work-attribution-constitutional",
-      "line_start": 3495,
-      "line_end": 3565
+      "line_start": 3542,
+      "line_end": 3612
     },
     {
       "term": "Cross-System Extraction",
@@ -4454,8 +4454,8 @@
       "term": "Distributed Understanding",
       "file": "core_05_band_continuity.md",
       "anchor": "#distributed-understanding-constitutional",
-      "line_start": 3825,
-      "line_end": 3900
+      "line_start": 3872,
+      "line_end": 3947
     },
     {
       "term": "Documented Legitimacy Mechanism",
@@ -4587,8 +4587,8 @@
       "term": "Fair Compensation",
       "file": "core_05_band_continuity.md",
       "anchor": "#fair-compensation-constitutional",
-      "line_start": 3237,
-      "line_end": 3304
+      "line_start": 3284,
+      "line_end": 3351
     },
     {
       "term": "Family and Care Relationships",
@@ -4790,8 +4790,8 @@
       "term": "Identity Data Protection",
       "file": "core_05_band_continuity.md",
       "anchor": "#identity-data-protection",
-      "line_start": 4374,
-      "line_end": 4394
+      "line_start": 4421,
+      "line_end": 4441
     },
     {
       "term": "Incentive Alignment",
@@ -4832,8 +4832,8 @@
       "term": "Indigenous Continuity",
       "file": "core_05_band_continuity.md",
       "anchor": "#indigenous-continuity-constitutional",
-      "line_start": 3046,
-      "line_end": 3108
+      "line_start": 3093,
+      "line_end": 3155
     },
     {
       "term": "Info-Sphere",
@@ -4871,11 +4871,18 @@
       "line_end": 1646
     },
     {
+      "term": "Institution",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#institution",
+      "line_start": 2785,
+      "line_end": 2832
+    },
+    {
       "term": "Institutional Development",
       "file": "core_05_band_continuity.md",
       "anchor": "#institutional-development-constitutional",
-      "line_start": 3901,
-      "line_end": 3973
+      "line_start": 3948,
+      "line_end": 4020
     },
     {
       "term": "Intergenerational Responsibility",
@@ -4909,15 +4916,15 @@
       "term": "Language, Culture, and Heritage",
       "file": "core_05_band_continuity.md",
       "anchor": "#language-culture-and-heritage-constitutional",
-      "line_start": 3109,
-      "line_end": 3173
+      "line_start": 3156,
+      "line_end": 3220
     },
     {
       "term": "Leisure and Rest",
       "file": "core_05_band_continuity.md",
       "anchor": "#leisure-and-rest-constitutional",
-      "line_start": 3370,
-      "line_end": 3431
+      "line_start": 3417,
+      "line_end": 3478
     },
     {
       "term": "Lifespan Equivalent Unit (LEQU)",
@@ -4930,8 +4937,8 @@
       "term": "Likeness and Documentary Depiction Interface",
       "file": "core_05_band_continuity.md",
       "anchor": "#likeness-and-documentary-depiction-interface-constitutional",
-      "line_start": 3432,
-      "line_end": 3494
+      "line_start": 3479,
+      "line_end": 3541
     },
     {
       "term": "Market Concentration Threshold",
@@ -5126,8 +5133,8 @@
       "term": "Occupancy Continuity",
       "file": "core_05_band_continuity.md",
       "anchor": "#occupancy-continuity-constitutional",
-      "line_start": 2969,
-      "line_end": 3027
+      "line_start": 3016,
+      "line_end": 3074
     },
     {
       "term": "Open Systems, Data, and Auditing",
@@ -5140,8 +5147,8 @@
       "term": "Openness Aspiration",
       "file": "core_05_band_continuity.md",
       "anchor": "#openness-aspiration-constitutional",
-      "line_start": 3974,
-      "line_end": 4023
+      "line_start": 4021,
+      "line_end": 4070
     },
     {
       "term": "Outcome-Resolution Source",
@@ -5189,8 +5196,8 @@
       "term": "Privacy (Informational)",
       "file": "core_05_band_continuity.md",
       "anchor": "#privacy-informational",
-      "line_start": 4265,
-      "line_end": 4327
+      "line_start": 4312,
+      "line_end": 4374
     },
     {
       "term": "Procedural Fairness",
@@ -5203,8 +5210,8 @@
       "term": "Process",
       "file": "core_05_band_continuity.md",
       "anchor": "#process",
-      "line_start": 2739,
-      "line_end": 2785
+      "line_start": 2740,
+      "line_end": 2784
     },
     {
       "term": "Productive Capacity",
@@ -5252,8 +5259,8 @@
       "term": "Protected Internal-State Boundary",
       "file": "core_05_band_continuity.md",
       "anchor": "#protected-internal-state-boundary-constitutional",
-      "line_start": 4328,
-      "line_end": 4373
+      "line_start": 4375,
+      "line_end": 4420
     },
     {
       "term": "Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention",
@@ -5385,8 +5392,8 @@
       "term": "Review and Correction Duty",
       "file": "core_05_band_continuity.md",
       "anchor": "#review-and-correction-duty-constitutional",
-      "line_start": 4184,
-      "line_end": 4224
+      "line_start": 4231,
+      "line_end": 4271
     },
     {
       "term": "Risk",
@@ -5413,8 +5420,8 @@
       "term": "Safe Conditions",
       "file": "core_05_band_continuity.md",
       "anchor": "#safe-conditions-constitutional",
-      "line_start": 3305,
-      "line_end": 3369
+      "line_start": 3352,
+      "line_end": 3416
     },
     {
       "term": "Safety (Constitutional Constraint)",
@@ -5483,8 +5490,8 @@
       "term": "Short-Horizon Governance Defect",
       "file": "core_05_band_continuity.md",
       "anchor": "#short-horizon-governance-defect-constitutional",
-      "line_start": 4080,
-      "line_end": 4124
+      "line_start": 4127,
+      "line_end": 4171
     },
     {
       "term": "Single Catastrophic Incident",
@@ -5567,22 +5574,22 @@
       "term": "Stewardship",
       "file": "core_05_band_continuity.md",
       "anchor": "#stewardship-constitutional",
-      "line_start": 3766,
-      "line_end": 3824
+      "line_start": 3813,
+      "line_end": 3871
     },
     {
       "term": "Stewardship Defect",
       "file": "core_05_band_continuity.md",
       "anchor": "#stewardship-defect-constitutional",
-      "line_start": 4125,
-      "line_end": 4183
+      "line_start": 4172,
+      "line_end": 4230
     },
     {
       "term": "Strategic Stewardship Obligation",
       "file": "core_05_band_continuity.md",
       "anchor": "#strategic-stewardship-obligation-constitutional",
-      "line_start": 4024,
-      "line_end": 4079
+      "line_start": 4071,
+      "line_end": 4126
     },
     {
       "term": "Substantive Fairness",
@@ -5609,8 +5616,8 @@
       "term": "Surveillance Boundary",
       "file": "core_05_band_continuity.md",
       "anchor": "#surveillance-boundary",
-      "line_start": 4395,
-      "line_end": 4446
+      "line_start": 4442,
+      "line_end": 4493
     },
     {
       "term": "Sustainability",
@@ -5630,8 +5637,8 @@
       "term": "System",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-definition",
-      "line_start": 2638,
-      "line_end": 2672
+      "line_start": 2639,
+      "line_end": 2673
     },
     {
       "term": "System Alignment Certification",
@@ -5644,15 +5651,15 @@
       "term": "System Boundaries",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-boundaries",
-      "line_start": 2673,
-      "line_end": 2704
+      "line_start": 2674,
+      "line_end": 2705
     },
     {
       "term": "System Boundary Integrity",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-boundary-integrity",
-      "line_start": 2705,
-      "line_end": 2738
+      "line_start": 2706,
+      "line_end": 2739
     },
     {
       "term": "System Capture",
@@ -5700,8 +5707,8 @@
       "term": "Systemic Lock-In",
       "file": "core_05_band_continuity.md",
       "anchor": "#systemic-lock-in",
-      "line_start": 2843,
-      "line_end": 2891
+      "line_start": 2890,
+      "line_end": 2938
     },
     {
       "term": "Systemic Materiality",
@@ -5721,8 +5728,8 @@
       "term": "Training-Data Use",
       "file": "core_05_band_continuity.md",
       "anchor": "#training-data-use-constitutional",
-      "line_start": 3566,
-      "line_end": 3622
+      "line_start": 3613,
+      "line_end": 3669
     },
     {
       "term": "Transparency",
@@ -5735,22 +5742,22 @@
       "term": "Trust",
       "file": "core_05_band_continuity.md",
       "anchor": "#trust",
-      "line_start": 4496,
-      "line_end": 4530
+      "line_start": 4543,
+      "line_end": 4577
     },
     {
       "term": "Trust Degradation and Misleading Reliance",
       "file": "core_05_band_continuity.md",
       "anchor": "#trust-degradation-and-misleading-reliance",
-      "line_start": 4597,
-      "line_end": 4696
+      "line_start": 4644,
+      "line_end": 4743
     },
     {
       "term": "Trustworthiness",
       "file": "core_05_band_continuity.md",
       "anchor": "#trustworthiness",
-      "line_start": 4531,
-      "line_end": 4596
+      "line_start": 4578,
+      "line_end": 4643
     },
     {
       "term": "Truth (Constitutional Constraint)",

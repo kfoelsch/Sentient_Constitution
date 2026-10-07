@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-07T18:17:35+00:00",
+  "generated_at": "2026-10-07T18:24:02+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2685,7 +2685,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 92,
+            "count": 93,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -2716,6 +2716,7 @@
               "#full-recognition",
               "#identity-data-protection",
               "#indigenous-continuity",
+              "#institution",
               "#institutional-development",
               "#intergenerational-responsibility",
               "#language-culture-and-heritage",
@@ -4119,7 +4120,7 @@
         "targets": [
           {
             "file": "core_00_preamble.md",
-            "count": 53,
+            "count": 56,
             "anchors": [
               "#2-measurements-overview",
               "#33-governance-layers",
@@ -4168,7 +4169,7 @@
           },
           {
             "file": "core_01_c_stewardship_capacity_principles.md",
-            "count": 41,
+            "count": 42,
             "anchors": [
               "#16-stewardship-in-depth",
               "#161-distributed-understanding",
@@ -4184,6 +4185,7 @@
               "#1915-constitutional-outcome-claims-discipline",
               "#193-misalignment-detection",
               "#194-misalignment-correction-and-capture-response",
+              "#196-keeping-responsibility-when-ownership-or-structure-changes",
               "#chapter-01-part-c-stewardship-and-governance"
             ]
           },
@@ -4198,9 +4200,10 @@
           },
           {
             "file": "core_05_apex_accountability_leg.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
-              "#accountability"
+              "#accountability",
+              "#measuring-accountability"
             ]
           },
           {
@@ -4243,7 +4246,7 @@
           },
           {
             "file": "core_05_band_accountability.md",
-            "count": 228,
+            "count": 233,
             "anchors": [
               "#accountability-contestability-and-redress-pathways",
               "#attributable-action",
@@ -4276,7 +4279,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 790,
+            "count": 799,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -4310,6 +4313,7 @@
               "#full-recognition",
               "#identity-data-protection",
               "#indigenous-continuity",
+              "#institution",
               "#institutional-development",
               "#intergenerational-responsibility",
               "#language-culture-and-heritage",
@@ -4402,7 +4406,7 @@
           },
           {
             "file": "core_05_band_participation.md",
-            "count": 195,
+            "count": 197,
             "anchors": [
               "#accessibility",
               "#business-creation",
@@ -4561,7 +4565,7 @@
           },
           {
             "file": "core_13_governance.md",
-            "count": 9,
+            "count": 10,
             "anchors": [
               "#3-strategy-stewardship-direction-and-ecosystem-value-non-corporate",
               "#43-decision-resolution-requirements-for-binding-stakeholder-choice"
@@ -4586,7 +4590,7 @@
           },
           {
             "file": "corpus_institutions.md",
-            "count": 2,
+            "count": 4,
             "anchors": []
           },
           {

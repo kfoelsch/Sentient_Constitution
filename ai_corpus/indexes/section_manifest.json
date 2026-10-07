@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-10-07T18:17:34+00:00",
+  "generated_at": "2026-10-07T18:24:01+00:00",
   "files": {
     "core_00_preamble.md": {
       "total_lines": 473,
@@ -1221,13 +1221,13 @@
       ]
     },
     "core_05__definitions_home.md": {
-      "total_lines": 462,
+      "total_lines": 463,
       "sections": [
         {
           "header": "CHAPTER FIVE: FOUNDATIONAL DEFINITIONS",
           "level": 1,
           "line_start": 2,
-          "line_end": 462,
+          "line_end": 463,
           "anchor": "#chapter-five-foundational-definitions"
         },
         {
@@ -1276,35 +1276,35 @@
           "header": "Chapter Five alphabetical directory (non-operative)",
           "level": 3,
           "line_start": 88,
-          "line_end": 396,
+          "line_end": 397,
           "anchor": "#chapter-five-alphabetical-directory"
         },
         {
           "header": "Definitions A-Z",
           "level": 4,
           "line_start": 108,
-          "line_end": 372,
+          "line_end": 373,
           "anchor": "#definitions-a-z"
         },
         {
           "header": "Clusters A-Z",
           "level": 4,
-          "line_start": 373,
-          "line_end": 396,
+          "line_start": 374,
+          "line_end": 397,
           "anchor": "#clusters-a-z"
         },
         {
           "header": "Chapter Five compass and definition map",
           "level": 3,
-          "line_start": 397,
-          "line_end": 428,
+          "line_start": 398,
+          "line_end": 429,
           "anchor": "#chapter-five-compass-and-definition-map"
         },
         {
           "header": "Measurement crosswalk (reader guidance)",
           "level": 3,
-          "line_start": 429,
-          "line_end": 462,
+          "line_start": 430,
+          "line_end": 463,
           "anchor": null
         }
       ]
@@ -2101,13 +2101,13 @@
       ]
     },
     "core_05_band_continuity.md": {
-      "total_lines": 4696,
+      "total_lines": 4743,
       "sections": [
         {
           "header": "Continuity Constitutional Definitions",
           "level": 1,
           "line_start": 1,
-          "line_end": 4696,
+          "line_end": 4743,
           "anchor": null
         },
         {
@@ -2163,7 +2163,7 @@
           "header": "Continuity: Semi-independent terms",
           "level": 3,
           "line_start": 275,
-          "line_end": 3168,
+          "line_end": 3215,
           "anchor": "#voluntary-discontinuation-constitutional-c"
         },
         {
@@ -2457,280 +2457,287 @@
           "header": "System boundaries, integrity, and exit",
           "level": 4,
           "line_start": 2616,
-          "line_end": 2637,
+          "line_end": 2638,
           "anchor": "#system-boundaries-integrity-and-exit"
         },
         {
           "header": "System",
           "level": 4,
-          "line_start": 2638,
-          "line_end": 2672,
+          "line_start": 2639,
+          "line_end": 2673,
           "anchor": "#system-definition"
         },
         {
           "header": "System Boundaries",
           "level": 4,
-          "line_start": 2673,
-          "line_end": 2704,
+          "line_start": 2674,
+          "line_end": 2705,
           "anchor": "#system-boundaries"
         },
         {
           "header": "System Boundary Integrity",
           "level": 4,
-          "line_start": 2705,
-          "line_end": 2738,
+          "line_start": 2706,
+          "line_end": 2739,
           "anchor": "#system-boundary-integrity"
         },
         {
           "header": "Process",
           "level": 4,
-          "line_start": 2739,
-          "line_end": 2785,
+          "line_start": 2740,
+          "line_end": 2784,
           "anchor": "#system-boundary-integrity-c"
+        },
+        {
+          "header": "Institution",
+          "level": 4,
+          "line_start": 2785,
+          "line_end": 2832,
+          "anchor": "#process-c"
         },
         {
           "header": "Charter",
           "level": 4,
-          "line_start": 2786,
-          "line_end": 2842,
+          "line_start": 2833,
+          "line_end": 2889,
           "anchor": "#charter"
         },
         {
           "header": "Systemic Lock-In",
           "level": 4,
-          "line_start": 2843,
-          "line_end": 2891,
+          "line_start": 2890,
+          "line_end": 2938,
           "anchor": "#systemic-lock-in"
         },
         {
           "header": "Survival-floor continuity: bodily maintenance, occupancy, and environment",
           "level": 4,
-          "line_start": 2892,
-          "line_end": 2911,
+          "line_start": 2939,
+          "line_end": 2958,
           "anchor": "#safe-conditions-occupancy-continuity-and-environmental-preconditions-cluster"
         },
         {
           "header": "Bodily-Maintenance Access",
           "level": 4,
-          "line_start": 2912,
-          "line_end": 2968,
+          "line_start": 2959,
+          "line_end": 3015,
           "anchor": "#bodily-maintenance-access-constitutional"
         },
         {
           "header": "Occupancy Continuity",
           "level": 4,
-          "line_start": 2969,
-          "line_end": 3027,
+          "line_start": 3016,
+          "line_end": 3074,
           "anchor": "#occupancy-continuity-constitutional"
         },
         {
           "header": "Community-anchored continuity: indigenous, language, culture, and heritage",
           "level": 4,
-          "line_start": 3028,
-          "line_end": 3045,
+          "line_start": 3075,
+          "line_end": 3092,
           "anchor": "#indigenous-continuity-language-culture-heritage-semi-independent"
         },
         {
           "header": "Indigenous Continuity",
           "level": 4,
-          "line_start": 3046,
-          "line_end": 3108,
+          "line_start": 3093,
+          "line_end": 3155,
           "anchor": "#indigenous-continuity-constitutional"
         },
         {
           "header": "Language, Culture, and Heritage",
           "level": 4,
-          "line_start": 3109,
-          "line_end": 3168,
+          "line_start": 3156,
+          "line_end": 3215,
           "anchor": "#language-culture-and-heritage-constitutional"
         },
         {
           "header": "Continuity: Dependent clusters",
           "level": 3,
-          "line_start": 3169,
-          "line_end": 4696,
+          "line_start": 3216,
+          "line_end": 4743,
           "anchor": "#language-culture-and-heritage-constitutional-c"
         },
         {
           "header": "Def.C1 Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work",
           "level": 4,
-          "line_start": 3174,
-          "line_end": 3695,
+          "line_start": 3221,
+          "line_end": 3742,
           "anchor": "#labor-and-economic-floor-cluster"
         },
         {
           "header": "Fair Compensation",
           "level": 5,
-          "line_start": 3237,
-          "line_end": 3304,
+          "line_start": 3284,
+          "line_end": 3351,
           "anchor": "#fair-compensation-constitutional"
         },
         {
           "header": "Safe Conditions",
           "level": 5,
-          "line_start": 3305,
-          "line_end": 3369,
+          "line_start": 3352,
+          "line_end": 3416,
           "anchor": "#safe-conditions-constitutional"
         },
         {
           "header": "Leisure and Rest",
           "level": 5,
-          "line_start": 3370,
-          "line_end": 3431,
+          "line_start": 3417,
+          "line_end": 3478,
           "anchor": "#leisure-and-rest-constitutional"
         },
         {
           "header": "Likeness and Documentary Depiction Interface",
           "level": 5,
-          "line_start": 3432,
-          "line_end": 3494,
+          "line_start": 3479,
+          "line_end": 3541,
           "anchor": "#likeness-and-documentary-depiction-interface-constitutional"
         },
         {
           "header": "Creative Work Attribution",
           "level": 5,
-          "line_start": 3495,
-          "line_end": 3565,
+          "line_start": 3542,
+          "line_end": 3612,
           "anchor": "#creative-work-attribution-constitutional"
         },
         {
           "header": "Training-Data Use",
           "level": 5,
-          "line_start": 3566,
-          "line_end": 3622,
+          "line_start": 3613,
+          "line_end": 3669,
           "anchor": "#training-data-use-constitutional"
         },
         {
           "header": "Anti-Displacement Floor",
           "level": 5,
-          "line_start": 3623,
-          "line_end": 3695,
+          "line_start": 3670,
+          "line_end": 3742,
           "anchor": "#anti-displacement-floor-constitutional"
         },
         {
           "header": "Def.C2 Stewardship, Governance Discipline, and Shared-System Capacity",
           "level": 4,
-          "line_start": 3696,
-          "line_end": 4224,
+          "line_start": 3743,
+          "line_end": 4271,
           "anchor": "#stewardship-governance-discipline-and-shared-system-capacity-cluster"
         },
         {
           "header": "Stewardship",
           "level": 5,
-          "line_start": 3766,
-          "line_end": 3824,
+          "line_start": 3813,
+          "line_end": 3871,
           "anchor": "#stewardship-constitutional"
         },
         {
           "header": "Distributed Understanding",
           "level": 5,
-          "line_start": 3825,
-          "line_end": 3900,
+          "line_start": 3872,
+          "line_end": 3947,
           "anchor": "#distributed-understanding-constitutional"
         },
         {
           "header": "Institutional Development",
           "level": 5,
-          "line_start": 3901,
-          "line_end": 3973,
+          "line_start": 3948,
+          "line_end": 4020,
           "anchor": "#institutional-development-constitutional"
         },
         {
           "header": "Openness Aspiration",
           "level": 5,
-          "line_start": 3974,
-          "line_end": 4023,
+          "line_start": 4021,
+          "line_end": 4070,
           "anchor": "#openness-aspiration-constitutional"
         },
         {
           "header": "Strategic Stewardship Obligation",
           "level": 5,
-          "line_start": 4024,
-          "line_end": 4079,
+          "line_start": 4071,
+          "line_end": 4126,
           "anchor": "#strategic-stewardship-obligation-constitutional"
         },
         {
           "header": "Short-Horizon Governance Defect",
           "level": 5,
-          "line_start": 4080,
-          "line_end": 4124,
+          "line_start": 4127,
+          "line_end": 4171,
           "anchor": "#short-horizon-governance-defect-constitutional"
         },
         {
           "header": "Stewardship Defect",
           "level": 5,
-          "line_start": 4125,
-          "line_end": 4183,
+          "line_start": 4172,
+          "line_end": 4230,
           "anchor": "#stewardship-defect-constitutional"
         },
         {
           "header": "Review and Correction Duty",
           "level": 5,
-          "line_start": 4184,
-          "line_end": 4224,
+          "line_start": 4231,
+          "line_end": 4271,
           "anchor": "#review-and-correction-duty-constitutional"
         },
         {
           "header": "Def.C3 Privacy (Informational) — peer-level cluster head",
           "level": 4,
-          "line_start": 4225,
-          "line_end": 4446,
+          "line_start": 4272,
+          "line_end": 4493,
           "anchor": "#privacy-informational-cluster"
         },
         {
           "header": "Privacy (Informational)",
           "level": 5,
-          "line_start": 4265,
-          "line_end": 4327,
+          "line_start": 4312,
+          "line_end": 4374,
           "anchor": "#privacy-informational"
         },
         {
           "header": "Protected Internal-State Boundary",
           "level": 5,
-          "line_start": 4328,
-          "line_end": 4373,
+          "line_start": 4375,
+          "line_end": 4420,
           "anchor": "#protected-internal-state-boundary-constitutional"
         },
         {
           "header": "Identity Data Protection",
           "level": 5,
-          "line_start": 4374,
-          "line_end": 4394,
+          "line_start": 4421,
+          "line_end": 4441,
           "anchor": "#identity-data-protection"
         },
         {
           "header": "Surveillance Boundary",
           "level": 5,
-          "line_start": 4395,
-          "line_end": 4446,
+          "line_start": 4442,
+          "line_end": 4493,
           "anchor": "#surveillance-boundary"
         },
         {
           "header": "Def.C4 Trust and Trustworthiness",
           "level": 4,
-          "line_start": 4447,
-          "line_end": 4696,
+          "line_start": 4494,
+          "line_end": 4743,
           "anchor": "#trust-and-trustworthiness-cluster"
         },
         {
           "header": "Trust",
           "level": 5,
-          "line_start": 4496,
-          "line_end": 4530,
+          "line_start": 4543,
+          "line_end": 4577,
           "anchor": "#trust"
         },
         {
           "header": "Trustworthiness",
           "level": 5,
-          "line_start": 4531,
-          "line_end": 4596,
+          "line_start": 4578,
+          "line_end": 4643,
           "anchor": "#trustworthiness"
         },
         {
           "header": "Trust Degradation and Misleading Reliance",
           "level": 5,
-          "line_start": 4597,
-          "line_end": 4696,
+          "line_start": 4644,
+          "line_end": 4743,
           "anchor": "#trust-degradation-and-misleading-reliance"
         }
       ]
