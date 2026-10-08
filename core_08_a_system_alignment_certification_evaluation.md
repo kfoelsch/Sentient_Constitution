@@ -62,7 +62,7 @@ As an oversight instrument, certification is one especially large audit process 
 
 #### 1.1 Certification at a glance
 
-*In plain terms: classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, complete the one record that was opened at the start, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.*
+*In plain terms: classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, complete the one record that was opened at the start, and check again on schedule, each time on a new record — closely at first, less often once a system has proven clean — or whenever the facts change.*
 
 The process runs in **six phases**: **I Frame**, **II Evaluate**, **III Review**, **IV Decide**, **V Record**, and **VI Operate**. The chart shows the whole certification process in that order. Part A covers the first two phases, framing and evaluation; [Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) covers the last four: the forum process, the outcome, the record, and operation (recertification and reopening, and the standing bridge).
 
@@ -84,7 +84,7 @@ flowchart TB
     O{"Phase IV, Decide — §6<br/>Outcome"}
     U["Reliance within stated limits<br/><br/>Provisional: shorter recertification clock<br/>Full: longer clock, earned only by clean recertification"]
     X["Remedy the defects<br/><br/>Response runs on the Chapter Twelve tier clocks<br/>Next recognition is provisional"]
-    Re["Phase VI, Operate — §8<br/>Recertification, reopening,<br/>or fresh review"]
+    Re["Phase VI, Operate — §8<br/>Recertification, reopening,<br/>or fresh review<br/><br/>Each pass opens a new record"]
     T --> C
     A1((A)) --> C
     C --> Ch

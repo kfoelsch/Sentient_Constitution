@@ -63,7 +63,7 @@
 > | **V. Record** | | |
 > | 9 | Complete the one System Certification Record opened at the start: add the outcome and the concerns raised in reaching it, and check its integrity, transparency, and auditability. | [Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-minimum-record-contents), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-record-integrity-transparency-and-auditability) |
 > | **VI. Operate** | | |
-> | 10 | Recertify on the class cadence and reopen when a trigger is met. | [Part B §8](core_08_b_system_alignment_certification_record_process.md#8-recertification-and-reopening), [§8.2](core_08_b_system_alignment_certification_record_process.md#82-non-evasion) |
+> | 10 | Recertify on the class cadence and reopen when a trigger is met; each pass opens a new record linked to the last. | [Part B §8](core_08_b_system_alignment_certification_record_process.md#8-recertification-and-reopening), [§8.2](core_08_b_system_alignment_certification_record_process.md#82-non-evasion) |
 > | 11 | Supply standing input only from the record of a recognized system, and only through the verified-input gate. | [Part B §9](core_08_b_system_alignment_certification_record_process.md#9-relationship-to-standing) |
 
 </details>

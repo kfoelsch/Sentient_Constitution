@@ -42,3 +42,16 @@ Question raised: should the working record in §5.2 turn into the certification 
 - **Part B §7 introduction:** one sentence tying the section to step 1 and saying no separate record is made for the decision.
 - **Reader aids:** Part A §1.1 plain-terms line, chart node for Phase V, Phase V question in the Part A and hub tables, hub run-sheet step 9.
 - **Not done:** versioning on recertification and reopening (§8 opening a new linked version instead of editing a completed record). Left for the steward to decide.
+
+## Follow-up: a new record for each recertification (same day)
+
+Steward decision: for clarity, recertification gets a new record instead of reopening the completed one. Applied to recertification and to reopened or fresh review (all three are the same Phase VI pass). Narrow it to recertification only if that is not what was meant. This is a new obligation; the wording below is a draft for the steward's sign-off.
+
+- **Part B §8, new paragraph "New record for each pass":** each recertification, and each reopened or fresh review, opens a new record; it links to the completed record, states what changed, and runs §5.2 from step 1; the completed record is preserved, not edited in place, and stays open to challenge under §5.3; recognition status, clean-recertification count, and monitoring indicators carry forward through the link and are verified on the new record under §8.1.
+- **Part B §7.1, new record item "Prior record":** for a recertification or a reopened or fresh review, an attributable, integrity-protected link to the completed record it follows, and what has changed since.
+- **Part B §7.2:** "What changed between versions" now reads "between versions of the open record and, for a new record, since the completed record it follows".
+- **Part B §5.2 step 1:** "one coordinated certification record for each official ... act".
+- **Part B §7 introduction, §8 plain-terms and trace:** matching sentences; the §8 trace no longer says the record is "kept current".
+- **Reader aids:** Part A §1.1 plain-terms line and the Phase VI chart node; hub run-sheet step 10.
+- **Checked, no change needed:** Chapter Five *Recertification* ("a system that already holds a System Certification Record ... an outcome stated on the record") and *System Certification Record* (time-bound) read the same with a new record per pass; CS-5 already says later recertifications compare to "the prior record".
+- **Open:** Chapter Five *Recertification* could say "stated on the new record"; left alone because Chapter Five definitions are Lane D.

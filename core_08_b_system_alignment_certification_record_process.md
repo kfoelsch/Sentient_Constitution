@@ -116,7 +116,7 @@ This section assigns forum-family **component roles** within **system alignment 
 
 The **supervisory sequence** is the step-by-step order in which forums supervise a certification record. Chapter Twelve may require a different lawful order when primary stakes, anti-self-judging protection, or certification routing applies. Otherwise, the default sequence is:
 
-1. **Lead coordination:** An **Integrity** forum maintains one coordinated certification record for official constitutional alignment recognition, validation, recertification, withdrawal, or non-recognition unless Chapter Twelve assigns a different lawful lead for the primary stake.
+1. **Lead coordination:** An **Integrity** forum maintains one coordinated certification record for each official constitutional alignment recognition, validation, recertification, withdrawal, or non-recognition unless Chapter Twelve assigns a different lawful lead for the primary stake.
 2. **Component findings:** Technical, Environment, Institutional, Sentient, Constitutional, and other assigned forum families produce bounded component findings within their lawful merits authority:
    - **Technical forums** supply specifications, methods, tests, and technical adequacy findings — including [Sentience Status Adjudication](core_05_band_participation.md#sentience-status-adjudication) component findings where [§5.1 Forum Supervision and Component Roles](#51-forum-supervision-and-component-roles) assigns that stake;
    - **Environment forums** supply required environmental-alignment component findings where material ecological exposure exists — including [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) evaluation under [§4.8.1 Ecological Footprint Evaluation](core_08_a_system_alignment_certification_evaluation.md#481-ecological-footprint-evaluation) where attributable environmental burdens are material;
@@ -213,7 +213,7 @@ Certification defects found under any Part A evaluation are not minor paperwork 
 
 A **System Certification Record** is a bounded, reviewable record concerning a particular system, version, operator or steward, scope, time window, material-impact profile, and decision context — scope-bound, time-bound, and contestable under the Chapter Five meaning in [System Certification Record](core_05_band_continuity.md#system-certification-record).
 
-This section is the single home for what goes on the record. The evaluations in Part A say what must be checked; the findings they produce are recorded here. The record is the one opened at [§5.2 Supervisory sequence](#52-supervisory-sequence) step 1 and kept through review and decision; this section completes it, and no separate record is made for the decision.
+This section is the single home for what goes on the record. The evaluations in Part A say what must be checked; the findings they produce are recorded here. The record is the one opened at [§5.2 Supervisory sequence](#52-supervisory-sequence) step 1 and kept through review and decision; this section completes it, and no separate record is made for the decision. A later recertification, or a reopened or fresh review, opens a new record under [§8 Recertification and Reopening](#8-recertification-and-reopening).
 
 <a id="71-minimum-record-contents"></a>
 
@@ -224,6 +224,7 @@ For the materially binding certification act, the System Certification Record sa
 The record must identify, at minimum:
 
 - **System identity, scope, and status:** the system, version, operator or steward, scope, governing [Charter](core_05_band_continuity.md#charter) or equivalent published scope instrument (or reasoned absence where immaterial), affected communities, dependencies, and review status — including whether certified scope matches the Charter's stated scope where a Charter exists;
+- **Prior record:** for a recertification, or a reopened or fresh review, an attributable, integrity-protected link to the completed record it follows, and what has changed since;
 - **System Classification Record:** the [System Classification Record](core_05_band_continuity.md#system-classification-record) — or its required contents under CS-3 (*System classification machinery*) — reflecting the evaluation under [Part A §2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), stating:
   - the assigned class;
   - the classification rationale;
@@ -324,7 +325,7 @@ This section applies [Transparency](core_05_band_oversight.md#transparency) and 
 - It must identify:
   - Who issued, adopted, referred, certified, [stayed](core_05_band_accountability.md#stay), or reviewed each material component;
   - What evidence was materially relied on;
-  - What changed between versions;
+  - What changed between versions of the open record and, for a new record, since the completed record it follows;
 - Audit scope must be sufficient to test whether the recorded outcome follows from the recorded evidence and assumptions;
 - Operators, stewards, and forums must not fragment, relabel, or conceal certification-relevant behavior in a way that defeats practical reconstructability.
 
@@ -337,7 +338,7 @@ This section applies [Transparency](core_05_band_oversight.md#transparency) and 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§6](#6-certification-outcomes) (*the outcome in force*); [§7](#7-system-certification-record) (*the record being kept current*); [Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§4.8](core_08_a_system_alignment_certification_evaluation.md#48-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*); [Part A §3](core_08_a_system_alignment_certification_evaluation.md#3-challenging-a-certification) (*credible challenge*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Chapter Three §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) and [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*); [Charter](core_05_band_continuity.md#charter) (*charter–behavior mismatch and overdue review*).
+- Upstream: [§6](#6-certification-outcomes) (*the outcome in force*); [§7](#7-system-certification-record) (*the completed record that each recertification or reopened review follows*); [Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§4.8](core_08_a_system_alignment_certification_evaluation.md#48-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*); [Part A §3](core_08_a_system_alignment_certification_evaluation.md#3-challenging-a-certification) (*credible challenge*); [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims); [Chapter Three §1](core_03_definition_integrity.md#1-definition-integrity-and-anti-evasion-constraints) and [§2](core_03_definition_integrity.md#2-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*); [Charter](core_05_band_continuity.md#charter) (*charter–behavior mismatch and overdue review*).
 - Downstream: [§9](#9-relationship-to-standing) (*verified-input gate where facts support adverse findings*); [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*reopened forum supervision*); [Chapter Nine](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
 - Read with: [corpus_systems.md](corpus_systems.md) (*incorporated system implementation duties*), including **[CS-2 §5.2](corpus_systems/cs_02_a_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-3 §3.5](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections: [§8.1](#81-provisional-and-full-recognition) (*provisional and full recognition*); [§8.2](#82-non-evasion) (*non-evasion*).
@@ -346,7 +347,7 @@ This section applies [Transparency](core_05_band_oversight.md#transparency) and 
 
 <br>
 
-*In plain terms: no outcome lasts forever. This is the operating phase: a recognized system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.*
+*In plain terms: no outcome lasts forever. This is the operating phase: a recognized system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Each re-check or reopened review starts a new record, linked to the last. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.*
 
 A **System Certification Record** is **scope-bound** and **time-bound**. It must be recertified on the cadence set for its class under [Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation). Review also reopens under Chapter Twelve and incorporated system implementation duties when any of the following is material:
 
@@ -366,6 +367,8 @@ A **System Certification Record** is **scope-bound** and **time-bound**. It must
 - **Evaluation misalignment:** misalignment or a defect reflected on the certification record under any Part A evaluation that applied — [§2 System Class Evaluation](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) through [§4.8 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#48-rights-floor-and-domain-evaluations) — including risk-evaluation or risk-disclosure defects under [§4.1 Systemic Scope and Risk Factors](core_08_a_system_alignment_certification_evaluation.md#41-systemic-scope-and-risk-factors).
 
 **Why reopening matters.** Reopening on misalignment, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) where shared systems gate durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety. Stale certification must not substitute for current Rights-Floor compliance.
+
+**New record for each pass.** Each recertification, and each reopened or fresh review, opens a new System Certification Record. The new record links to the completed record it follows, states what has changed since, and runs through [§5.2 Supervisory sequence](#52-supervisory-sequence) from step 1 as a first certification does. The completed record is preserved as it stood and is not edited in place; it remains the record for the period it covers and stays open to challenge under [§5.3 Contestability chain](#53-contestability-chain). Recognition status, the count of clean recertifications, and monitoring indicators carry forward through the link and are verified on the new record under [§8.1 Provisional and full recognition](#81-provisional-and-full-recognition).
 
 <a id="81-provisional-and-full-recognition"></a>
 

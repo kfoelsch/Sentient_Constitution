@@ -3166,7 +3166,7 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 ##### 1.1 Certification at a glance
 
-classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, complete the one record that was opened at the start, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.
+classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, complete the one record that was opened at the start, and check again on schedule, each time on a new record — closely at first, less often once a system has proven clean — or whenever the facts change.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance)
 
@@ -3356,7 +3356,7 @@ a certification record only works if sentients can read it and check it. This se
 
 #### 8. Recertification and Reopening
 
-no outcome lasts forever. This is the operating phase: a recognized system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.
+no outcome lasts forever. This is the operating phase: a recognized system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Each re-check or reopened review starts a new record, linked to the last. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#8-recertification-and-reopening)
 
