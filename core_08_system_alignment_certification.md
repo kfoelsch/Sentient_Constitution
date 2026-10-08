@@ -32,10 +32,10 @@
 > |-------|----------|----------------------------|------|
 > | **I. Frame** | [§2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) | What class is the system, and how deeply and how often must it be evaluated? | A |
 > | **II. Evaluate** | [§3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) | What does the whole system do — always, where implicated, and where triggered? | A |
-> | **III. Review** | [§4](core_08_b_system_alignment_certification_record_process.md#4-forum-process) | Which forums review the findings, in what order, and how can they be contested? | B |
+> | **III. Review** | [§4](core_08_b_system_alignment_certification_record_process.md#4-forum-process) | Which independent forums review the evidence and stakeholder concerns, in what order, and how can they be contested? | B |
 > | **IV. Decide** | [§5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) | What outcome do the forums reach, and may the system go live? | B |
-> | **V. Record** | [§6](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record) | Is the one record, opened at the start, now complete with the outcome and everything behind it, and can it be audited? | B |
-> | **VI. Operate** | [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening), starting with the challenge path at [§7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification) · [§8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) | Can affected sentients contest the outcome, how is the certification kept current, when is it reopened, and what reaches standing? | B |
+> | **V. Record** | [§6](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record) | Is the one record opened for forum review complete with the outcome, supporting findings, conditions, and operating plan, and can it be audited? | B |
+> | **VI. Operate** | [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening), [§8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) | Who monitors outcomes and responds to incidents and challenges, how are corrections verified, when is review repeated, and what reaches standing? | B |
 >
 > The chart of the whole process is [Part A §1.1 Certification at a glance](core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance).
 
@@ -55,16 +55,16 @@
 > | 3 | Where implicated: check privacy loci, exit rights, and assembly and dissent. | [Part A §3.5–§3.7](core_08_a_system_alignment_certification_evaluation.md#35-privacy-informational-joint-invocation) |
 > | 4 | Where triggered: run each Rights-Floor and domain evaluation whose trigger is met. | [Part A §3.8](core_08_a_system_alignment_certification_evaluation.md#38-rights-floor-and-domain-evaluations) |
 > | **III. Review** | | |
-> | 5 | Have the lead forum coordinate and the component forums issue bounded findings. | [Part B §4.1](core_08_b_system_alignment_certification_record_process.md#41-forum-supervision-and-component-roles), [§4.2](core_08_b_system_alignment_certification_record_process.md#42-supervisory-sequence) |
-> | 6 | Refer, certify, or stay unfinished component questions; keep the contestability chain open. | [Part B §4.2](core_08_b_system_alignment_certification_record_process.md#42-supervisory-sequence), [§4.3](core_08_b_system_alignment_certification_record_process.md#43-contestability-chain) |
+> | 5 | Open the coordinated record for forum review; have independent component forums review evidence and stakeholder concerns and issue bounded findings. | [Part B §4.1](core_08_b_system_alignment_certification_record_process.md#41-forum-supervision-and-component-roles), [§4.2](core_08_b_system_alignment_certification_record_process.md#42-supervisory-sequence) |
+> | 6 | Refer, certify, or stay unfinished component questions; provide accessible stakeholder input and review challenge paths. Required findings and dispositions must support the authorized scope. | [Part B §4.2](core_08_b_system_alignment_certification_record_process.md#42-supervisory-sequence), [§4.3](core_08_b_system_alignment_certification_record_process.md#43-contestability-chain) |
 > | **IV. Decide** | | |
-> | 7 | Reach the outcome and the certification status; where a defect was found, decide on conditions, deferral, refusal, withdrawal, or a fresh review. Nothing goes live, pilot or full, before certification; a system already operating follows its Article XXVIII-A transition clock instead. | [Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification) |
+> | 7 | Reach the outcome and status; distinguish conditions before go-live, continuing conditions, and corrective work under bounded authorization. State protection and verification requirements for defects. Nothing goes live before certification; existing systems retain the **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) transition exception. | [Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification) |
 > | **V. Record** | | |
-> | 8 | Complete the one System Certification Record opened at the start: add the outcome and the concerns raised in reaching it, confirm it names the challenge paths, and check its integrity, transparency, and auditability. | [Part B §6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents), [§6.2](core_08_b_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) |
+> | 8 | Complete the one record opened for forum review: add the outcome, concerns, and operating plan, including owners, clocks, monitoring, conditions, and verification criteria; check its transparency, auditability, and challenge paths. | [Part B §6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents), [§6.2](core_08_b_system_alignment_certification_record_process.md#62-record-integrity-transparency-and-auditability) |
 > | **VI. Operate** | | |
-> | 9 | Open the published record challenge path when the outcome is published (it is already open for a system already operating). | [Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification), [§7.1.1](core_08_b_system_alignment_certification_record_process.md#711-contestability-paths) |
-> | 10 | Recertify on the class cadence and reopen when a trigger is met; each pass opens a new record linked to the last. | [Part B §7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening), [§7.3](core_08_b_system_alignment_certification_record_process.md#73-non-evasion) |
-> | 11 | Supply standing input only from the record of a certified system, and only through the verified-input gate. | [Part B §8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) |
+> | 9 | Publish the completed record and open its challenge path (already open for an operating system). Before a first go-live or material expansion, satisfy the notice interval, independently verified prerequisites, and applicable stays or reliance limits. | [Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [§7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification), [§7.1.1](core_08_b_system_alignment_certification_record_process.md#711-contestability-paths) |
+> | 10 | Monitor outcomes and respond to incidents and challenges; protect affected sentients, correct defects, and obtain independent verification before authorization or condition release. Recertify on the class and status cadence or reopen on a material trigger; each pass opens a new linked record. | [Part B §7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening), [§7.3](core_08_b_system_alignment_certification_record_process.md#73-non-evasion) |
+> | 11 | Supply standing input only through the verified-input gate, from a currently certified system or facts arising during an earlier period of certification. | [Part B §8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) |
 
 </details>
 
@@ -76,6 +76,7 @@
 > | Record heading in §6.1 | Produced in |
 > |------------------------|-------------|
 > | System identity, scope, and status | Frame |
+> | Prior record | Frame and Review (later passes) |
 > | System Classification Record | Frame ([Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation)) |
 > | Whole-system evaluation findings, including risk evaluation and disclosure | Evaluate ([Part A §3](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)) |
 > | System Data Types Record | Evaluate ([Part A §3.4](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation)) |
@@ -86,7 +87,9 @@
 > | Functional-independence record | Review |
 > | Challenge paths | Review and Record ([Part B §4.3](core_08_b_system_alignment_certification_record_process.md#43-contestability-chain), [Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification)) |
 > | Concerns raised in review and decision | Review and Decide ([Part B §4.2](core_08_b_system_alignment_certification_record_process.md#42-supervisory-sequence), [§5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)) |
+> | Cause finding | Evaluate and Review ([Part B §7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification)) |
 > | Outcome and reliance limits | Decide ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)) |
+> | Operating plan | Decide and Record; carried out during Operate ([Part B §6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents)) |
 
 </details>
 
@@ -100,7 +103,7 @@
 > | **Who holds it** | A first certification, including a newly deployed system; a system certified after a failed recertification or a reopened review that found misalignment | A system that earned it at a recertification while holding provisional certification |
 > | **How it is earned** | Granted with a certification outcome | Required number of consecutive clean provisional recertifications (at least one), no current misalignment, and no indicator of impending misalignment |
 > | **Recertification clock** | Shorter than the full-certification clock for the same class | The class-scaled clock; still time-bound |
-> | **If a recertification fails** | Stays provisional; the clean count restarts at zero | Next certification is provisional; the clean count restarts at zero |
+> | **If a recertification fails** | Consequences under §5 apply; next certification is provisional and the clean count restarts at zero | Consequences under §5 apply; next certification is provisional and the clean count restarts at zero |
 > | **If an indicator of impending misalignment shows** | Stays provisional; the count does not advance | Steps down to provisional |
 
 </details>

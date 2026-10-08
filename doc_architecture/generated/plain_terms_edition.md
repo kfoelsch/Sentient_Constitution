@@ -3166,7 +3166,7 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 ##### 1.1 Certification at a glance
 
-classify the system honestly, run the evaluations that apply, have forums review the findings, and decide an outcome — nothing goes live before certification. Complete the one record that was opened at the start, open the challenge path when the outcome is published, and check again on schedule, each time on a new record — closely at first, less often once a system has proven clean — or whenever the facts change.
+classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its conditions. Each review pass uses a new record linked to the last.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance)
 
@@ -3296,7 +3296,7 @@ certification is not a pile of opinions from different corners. Different forum 
 
 ##### 4.1 Forum supervision and component roles
 
-certifying that a system meets constitutional alignment is not a one-person or one-department job. Different forum families each handle a defined piece of that work. No single specialty — not even technical review or Integrity coordination — can run the whole process alone.
+certifying that a system meets constitutional alignment requires independent review of evidence and stakeholder concerns. Different forum families each handle an assigned piece of that work. Affected sentients can contribute evidence and challenge the review before the outcome is published, through the component and integrity paths. No single specialty — not even technical review or Integrity coordination — can run the whole process alone.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#41-forum-supervision-and-component-roles)
 
@@ -3320,7 +3320,7 @@ when this section says **stay**, it means a temporary pause — holding off fina
 
 #### 5. Certification Outcomes
 
-every certification ends in a stated outcome. The forum decides it after the review, and the record that follows must state it along with any concerns raised on the way. Nothing goes live before it is certified. Defects found in any evaluation are not paperwork mistakes: they can lead to conditions, deferral, refusal, withdrawal, or a fresh review.
+every certification review ends in a stated outcome, supported by evidence and the concerns raised on the way. Nothing goes live before it is certified, the published outcome has allowed a practicable opportunity for challenge, and the protections required before go-live have been checked. Conditions state what must be done before operation, what must hold during operation, and what corrective work may follow under bounded authorization. Defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review; correction must be independently verified before it supports authorization or release from conditions.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)
 
@@ -3344,7 +3344,7 @@ a certification record only works if sentients can read it and check it. This se
 
 #### 7. Recertification and Reopening
 
-no outcome lasts forever. This is the operating phase: a certified system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Each re-check or reopened review starts a new record, linked to the last. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.
+no outcome lasts forever. During operation, named owners monitor actual outcomes and safeguards, respond to incidents and challenges, and meet the conditions on the record. A certified system is checked again on schedule, and review reopens when material facts change or a credible challenge requires it. Defects lead to protection, correction, and independent verification. Each review pass starts a new record linked to the last; a new record does not erase the earlier record or challenges to it. Stale approval cannot stand in for current Rights-Floor compliance.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening)
 

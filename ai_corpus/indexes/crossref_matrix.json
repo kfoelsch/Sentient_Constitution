@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-08T08:05:20+00:00",
+  "generated_at": "2026-10-08T09:58:06+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -6138,7 +6138,7 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 96,
+            "count": 102,
             "anchors": [
               "#4-forum-process",
               "#41-forum-supervision-and-component-roles",
@@ -6391,7 +6391,7 @@
           },
           {
             "file": "core_07_functional_independence_segregation_of_duties.md",
-            "count": 7,
+            "count": 8,
             "anchors": [
               "#2-four-seat-constitutional-floor",
               "#8-act-records-and-attributable-handoffs",
@@ -6479,6 +6479,13 @@
             "count": 3,
             "anchors": [
               "#35-reclassification-requirement"
+            ]
+          },
+          {
+            "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+            "count": 2,
+            "anchors": [
+              "#cs-510-recertification-regression-testing-and-certification-defects"
             ]
           }
         ]
@@ -6619,7 +6626,7 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 29,
+            "count": 31,
             "anchors": [
               "#4-forum-process",
               "#41-forum-supervision-and-component-roles",
