@@ -284,6 +284,7 @@ The record must identify, at minimum:
   - who raised it and what was raised;
   - how it was resolved, or why it remains open; and
   - any condition, reliance limit, or reopening trigger it produced;
+- **Cause finding:** where the review, a recertification, or a reopened review found misalignment or a defect, whether its cause is design, operation, or not yet determined under [§7.2 Provisional and full certification](#72-provisional-and-full-certification), and the evidence relied on;
 - **Outcome and reliance limits:** the certification outcome under [§5 Certification Outcomes](#5-certification-outcomes), its certification status (provisional or full) under [§7.2 Provisional and full certification](#72-provisional-and-full-certification), the recertification cadence for that status, reopening triggers, and limits on reliance.
 
 **Completeness.** A certification record is incomplete if it omits the findings of any evaluation that applied: [Part A §2](core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation), [§3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§3.4 Data Types and Handling Evaluation](core_08_a_system_alignment_certification_evaluation.md#34-data-types-and-handling-evaluation) for every materially impactful system, and each [§3.8 Rights-Floor and Domain Evaluations](core_08_a_system_alignment_certification_evaluation.md#38-rights-floor-and-domain-evaluations) domain whose trigger is met. Those findings must reflect what the evaluation actually found — not section titles or operator self-attestation. A record is also incomplete if it omits a concern, objection, or dissent raised in review or in reaching the outcome, including one that did not change the outcome.
@@ -456,6 +457,14 @@ A recertification is **clean** when it meets conditions 2 and 3.
 - A recertification that finds current misalignment is a **failed** recertification. The consequences in [§5 Certification Outcomes](#5-certification-outcomes) apply. The next certification the system can earn is provisional certification, however clean that next check is, and its count of clean recertifications restarts at zero.
 - A recertification that finds no current misalignment but shows an indicator of impending misalignment is not a failure, and it is not clean. A system holding provisional certification stays provisional and its count does not advance. A system holding full certification steps down to provisional certification.
 - A reopened review under [§7 Recertification and Reopening](#7-recertification-and-reopening) that finds misalignment has the same effect as a failed recertification.
+
+**Cause of misalignment.** Where an evaluation, a recertification, or a reopened review finds misalignment, the record states its cause as one of:
+
+- **design:** the system or its process is built so that it produces misaligned results even when run as intended;
+- **operating:** the design is sound on its face, but the way the system is run, fed, or maintained makes its results misaligned; or
+- **not yet determined**, in which case the remedies for design and for operation both stay open until the forum finds the cause.
+
+Persistent misaligned results are misalignment whatever the design says. A design that would produce misaligned results is misalignment before any such result appears. The cause finding sets the remedy sought and the scope of any reopened review. It never decides whether the system is misaligned.
 
 **Response clocks.** Where a recertification or reopened review finds misalignment, the matter is classified under the materiality tiers of [Chapter Twelve §6](core_12_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline), presumptively in the tier matching the system's class — a misaligned Class A system is presumptively Tier A. Intake, evidence preservation, interim protection, and the decision run on that tier's windows and outer bounds, and an overrun is reviewed as that section requires.
 

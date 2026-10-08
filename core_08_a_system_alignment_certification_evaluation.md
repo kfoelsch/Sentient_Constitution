@@ -85,7 +85,7 @@ flowchart TB
     Fc["Full Certification — §5, §7.2<br/><br/>Earned only at a recertification of a system<br/>holding Provisional Certification<br/>Longer recertification clock"]
     Pc["Provisional Certification — §5, §7.2<br/><br/>First certification, or after a failed recertification<br/>Shorter recertification clock"]
     Nc["Not Certified — §5<br/><br/>Deferred, refused, or withdrawn: no go-live<br/>Remedy the defects; response runs on the<br/>Chapter Twelve tier clocks<br/>Next certification is provisional"]
-    G{{"Publication and go-live gate — §5, §7.1<br/><br/>The outcome is published and the challenge path opens;<br/>a certified system may then go live,<br/>within the limits on the record"}}
+    G{{"Publication and go-live gate — §5, §7.1<br/><br/>1. The outcome is published<br/>2. The challenge path is open<br/>3. A certified system may go live,<br/>only as far as its record allows"}}
     Re["Phase VI, Operate — §7<br/>Recertification, reopening,<br/>or fresh review<br/><br/>Each pass opens a new record"]
     T --> C
     A1((A)) --> C
@@ -122,6 +122,37 @@ flowchart TB
     style A1 fill:none,stroke:#64748b,color:#ffffff
     style A2 fill:none,stroke:#64748b,color:#ffffff
 ```
+
+<details>
+<summary><strong><span style="color: #2563eb;">Reader guide (non-operative): what happens at go-live</span></strong></summary>
+
+> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this chapter or in other chapters. Where this list and a section differ, the section controls.
+>
+> "Go live" is a permission, not a stage of work. The gate in the chart sets it. The chapter does not describe a separate go-live procedure. This list gathers what the sections say is true when a system goes live, and what keeps running after.
+>
+> **Before the system goes live**
+>
+> - Its System Certification Record carries Provisional or Full certification, with or without conditions ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)). A system that is Not Certified, including one whose certification is deferred, refused, withdrawn, or expired, may not go live. A pilot is a go-live, so this applies to a pilot as it does to full deployment.
+> - The outcome is published on the record, together with the concerns raised in reaching it ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [§6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents)).
+> - The published record challenge path is open ([Part B §7.1.1](core_08_b_system_alignment_certification_record_process.md#711-contestability-paths)), so a challenge can be filed, and reliance stayed, before the system goes live.
+>
+> **What the system may do once live**
+>
+> - It operates only within the scope, population, and duration stated on the record. A pilot's certification covers only what its own record states, and full deployment needs its own certification ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)).
+> - It stays within the conditions and the limits on reliance on the record. Provisional certification carries limits on reliance ([Part B §6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification)).
+> - A material expansion is new conduct, so it must meet the same gate before it goes live ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)).
+>
+> **What keeps running after go-live**
+>
+> - The challenge path stays open while the outcome stands and the system has stakeholders. A credible challenge can reopen review and stay or limit reliance ([Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification)).
+> - The system is re-checked on the recertification cadence for its status, shorter for Provisional than for Full. Each re-check opens a new record linked to the last ([Part B §7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification)).
+> - Review also reopens when the system, its use, or the facts change ([Part B §7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening)).
+>
+> **Not covered by this gate**
+>
+> - A system already operating when an adopter's instrument takes effect is not barred while its transition clock runs ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [Article XXVIII-A](core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-clock) (*Phased Adoption and Rights-Floor Continuity*)).
+
+</details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guide (non-operative): the six phases</span></strong></summary>
