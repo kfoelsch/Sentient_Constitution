@@ -58,7 +58,7 @@ Những đo lường cắt ngang này hỏi liệu hệ thống giao kết quả
 - Bậc đo lường vận hành sống ở các nhà định nghĩa Chương Năm — xem [Hiệu quả hiến pháp](core_05_band_continuity.md#constitutional-efficiency), [Gánh nặng có thể tránh](core_05_band_continuity.md#avoidable-burden), [Năng lực sản xuất](core_05_band_continuity.md#productive-capacity-constitutional), và [Nghĩa vụ giảm gánh](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - Mục tiêu hiệu năng, phần thưởng, và đo lường tài nguyên chỉ hợp lệ tới mức chúng vẫn truy được về kết quả hiến pháp.
 - Chúng không thể thay Hiệu quả hiến pháp, [Năng lực sản xuất](core_05_band_continuity.md#productive-capacity-constitutional), hay tuân thủ Sàn Quyền.
-- Đọc cùng [Chương Bảy §4 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) nơi hiệu năng toàn hệ thống đang trong phạm vi một cách vật chất.
+- Đọc cùng [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) nơi hiệu năng toàn hệ thống đang trong phạm vi một cách vật chất.
 
 ---
 

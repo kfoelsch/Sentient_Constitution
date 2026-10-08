@@ -258,7 +258,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
@@ -524,7 +524,7 @@ sentients और उन पर निर्भर प्रणालियों
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -556,7 +556,7 @@ sentients और उन पर निर्भर प्रणालियों
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -584,7 +584,7 @@ sentients और उन पर निर्भर प्रणालियों
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ऊर्ध्व-स्रोत: सिद्धांत: [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), और [अध्याय एक §18 संरक्षकता-अनुशासन के अंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
@@ -764,7 +764,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय एक §7 स्वतंत्रता](core_01_a_values_principles.md#7-freedom-bounded-agency), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - साथ पढ़ें: [अध्याय एक §5.2 सरल भाषा में सुगम्यता (संरक्षकता कर्तव्य)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 टाले जा सकने वाले भार को न्यूनतम करना](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), और [अध्याय एक भाग C §16.1 वितरित समझ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)।
 
 </details>
@@ -797,7 +797,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [अध्याय एक §18.5 मॉड्यूलर संरचना और निर्भरता-अनुशासन](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), तथा [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [अध्याय एक §18.5 मॉड्यूलर संरचना और निर्भरता-अनुशासन](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), तथा [अध्याय एक §20 एकीकृत अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
 
 </details>
 
@@ -835,7 +835,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - साथ पढ़ें: [संवैधानिक चतुष्क](core_00_preamble.md#constitutional-tetrad); [दो संवैधानिक उद्देश्य](core_00_preamble.md#two-constitutional-aims) — **समृद्धि** और **निरंतरता**; **अध्याय पाँच** में [प्रत्यावर्तनीयता](core_05_band_continuity.md#reversibility-constitutional), [जोखिम](core_05_band_continuity.md#risk) और [प्रणाली पर कब्ज़ा](core_05_band_continuity.md#system-capture)।
 
 </details>
@@ -882,7 +882,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), और [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -916,7 +916,7 @@ sentients को जीवन-रक्षा, पर्यावरणीय �
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ऊर्ध्व-स्रोत: सिद्धांत: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मूल व्यापार-बंद सिद्धांत](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), और [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 

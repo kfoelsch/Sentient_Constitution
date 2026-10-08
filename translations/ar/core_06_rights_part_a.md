@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[الفصل السابع §4 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[§6.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، و[الفصل السابع §4 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[§6.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل السابع §4 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل السابع §4 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§3.1 السلامة](core_01_a_values_principles.md#31-safety-harm-constraint)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - يُقرأ مع: [المادة XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*حقوق قابلية النقل*)؛ [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**؛ **CJS-3.17** (*شروط التشغيل البيني وقابلية النقل ونزاهة الخروج*) و**CJS-3.18** (*شروط الاحتفاظ بالبيانات ونزاهة دورة الحياة*)؛ [الفصل الأول §11.6 مسؤولية الخلف وعدم الهروب بالبنية الشكلية](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape)؛ [الفصل التاسع §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) و[§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[الفصل السابع §4 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[§10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- أعلى: المبادئ: الفصل الأول [§3.2 الحقيقة](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[§10 الحوكمة تحت انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - يُقرأ مع: أسرة قياس الاستمرارية (*الاعتماد وتدفقات الموارد قياسًا دستوريًا*)؛ [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — **الرقابة** عبر خرائط اعتماد شفافة وسجلات تدفق موارد قابلة للتدقيق، و**المشاركة** في المراجعة القابلة للطعن تحت **المادة XV-A** (*قابلية التدقيق والدليل القابل للرصد*)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — **الازدهار** (تخصيص مرئي للتكلفة والمنفعة) و**الاستمرارية** (رؤية اعتماد متينة عبر أنظمة متغيّرة).
 - أسفل: [تصديق مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و[الفصل السابع](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) حيث تخصّص الأنظمة من بنية تحتية مشتركة أو اعتمادات أساسية أو توجّه منها أو تموّل منها أو تستخرج منها؛ **[corpus_systems.md](../../corpus_systems.md)**، و**CS-9** (*Resource allocation and funding stewardship*)، و**CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل السابع §4 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- أعلى: المبادئ: الفصل الأول [§2 الهدف التأسيسي: العافية](core_01_a_values_principles.md#2-foundational-objective-wellbeing)، و[§6.1 مبادئ المقايضة الجوهرية](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles)، و[الفصل السابع §3 تقييم تصديق النظام كاملًا](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - يُقرأ مع: [*عمارة الحوكمة والرقابة والاعتماد واللامركزية والتركيز وبنية السوق ونزاهة مسار الخروج*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (استدعاء مشترك حيث يقطع التركيز أو الرقابة أو الاعتماد أو بنية سلطة الحوكمة أو توجيه الحوافز **§5** / **§5** وانضباط *تفاعل عتبة التركيز* في النص التشغيلي أدناه).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — **المشاركة** في مسارات الطعن والنزاع، و**الرقابة** والتدقيق، و**المساءلة** والمراجعة التصحيحية، و**حسن التوقيت** تحت **المادة XXIV-C** (*الحل في وقته وأرضية منع التأخير*)؛ [المقصدان الدستوريان](core_00_preamble.md#two-constitutional-aims) — **الازدهار** (الإنصاف العابر للأنظمة وعدم الاستخراج) و**الاستمرارية** (الاستدامة طويلة الأجل وتمويل النظام البيئي).
 - أسفل: [تصديق مواءمة النظام](core_05_band_continuity.md#system-alignment-certification-constitutional) و[الفصل السابع](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) حيث يكون الإنصاف العابر للأنظمة أو تمويل النظام البيئي أو الاستخراج الدائم من البنية التحتية المشتركة مسألة مادية.

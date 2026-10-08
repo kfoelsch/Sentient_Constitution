@@ -124,7 +124,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 - จะท้าทายมันอย่างไร
 - ปัญหาได้รับการแก้ไขอย่างไร
 
-หากระบบตรงตามเกณฑ์ความสำคัญใน **ข้อ XIII** (*สิทธิ์ในระบบที่เชื่อถือได้และเชื่อถือได้*) การรับรองยังรวมถึงการตรวจสอบความน่าเชื่อถือภายใต้ [บทที่แปด §4.8.6 ความน่าเชื่อถือและความสมบูรณ์ของการพึ่งพาระบบ](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
+หากระบบตรงตามเกณฑ์ความสำคัญใน **ข้อ XIII** (*สิทธิ์ในระบบที่เชื่อถือได้และเชื่อถือได้*) การรับรองยังรวมถึงการตรวจสอบความน่าเชื่อถือภายใต้ [บทที่แปด §3.8.6 ความน่าเชื่อถือและความสมบูรณ์ของการพึ่งพาระบบ](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **ความสามารถในการแข่งขันทำให้ระบบมีความซื่อสัตย์จากฝั่งความรู้สึก:** การรับรองจะตรวจสอบระบบ มันไม่มีคำสุดท้ายอยู่ ทุกความรู้สึกที่ได้รับผลกระทบจากระบบจะเก็บ:
 
@@ -362,7 +362,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 การออกแบบความยืดหยุ่นและการรักษาตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 การออกแบบความยืดหยุ่นและการรักษาตนเอง](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้ให้เหลือน้อยที่สุด](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -714,7 +714,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -787,7 +787,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดในการเปิดเผยข้อมูลเชิง Epistemic](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -938,7 +938,7 @@ Sentient มีสิทธิ์ในการโต้ตอบกับร�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยในการพิทักษ์](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1046,7 +1046,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1081,7 +1081,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการแลกเปลี่ยนหลัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1114,7 +1114,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1173,7 +1173,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1240,7 @@ Sentient มีสิทธิในการพิทักษ์รักษ�
 <details>
 <summary><strong><span style="color: #2563eb;">ติดตาม</span></strong></summary>
 
-- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- ต้นน้ำ: หลักการ: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), และ [บทที่หนึ่ง §20 แอปพลิเคชันบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

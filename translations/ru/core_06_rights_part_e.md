@@ -269,7 +269,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: [Глава первая §18.4 Постоянное обоснование](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Глава первая [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Глава первая §14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Предшествующие положения: Принципы: [Глава первая §18.4 Постоянное обоснование](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Глава первая [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Глава первая §14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -300,7 +300,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Глава первая §14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Предшествующие положения: Принципы: Глава первая [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Глава первая §14 Запрет абсолютного преодоления](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [Глава десятая §5.4](core_10_standing_integration.md#54-special-violation-rules) (*эта Статья ограничивает на время перехода лишение несоответствующих вознаграждений и связанное с этим сообщение*); [Глава восьмая — Сертификация согласованности системы](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Глава десятая §5.4](core_10_standing_integration.md#54-special-violation-rules) (*эта Статья ограничивает на время перехода лишение несоответствующих вознаграждений и связанное с этим сообщение*); [Глава восьмая — Сертификация согласованности системы](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -523,7 +523,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Прослеживаемость</span></strong></summary>
 
-- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Глава первая §13.1.5 Процедура разрешения конфликтов прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Предшествующие положения: Принципы: Глава первая [§4 Безопасность](core_01_a_values_principles.md#4-safety-harm-constraint), [Глава первая §13.1.5 Процедура разрешения конфликтов прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Читать вместе с: **Статьёй III-A** (*Выживание*); **Статьёй XIII** (*Право на надёжные и заслуживающие доверия системы*); **Статьёй XI-G** (*Граница коллективного вреда и интерфейс исполнения*); **Главой девятой**; **Главой первой**, включая §6 о процедуре разрешения конфликтов прав; **набором ограничений по умолчанию** в начале Главы шестой (*интерфейс владения и исправления*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*несоответствующее имущество, изъятие, добровольные стимулы*) по **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Временное управление и эволюция институтов*).
 
 </details>

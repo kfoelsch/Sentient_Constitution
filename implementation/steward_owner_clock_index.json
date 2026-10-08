@@ -125,10 +125,10 @@
           "href": "core_01_a_values_principles.md#12-systemic-evaluation-requirement"
         }
       ],
-      "conflict_rule": "Recognition or continued reliance at material stake requires whole-system evaluation. Companions may add class-scaled method; they may not replace the certification path.",
+      "conflict_rule": "Certification or continued reliance at material stake requires whole-system evaluation. Companions may add class-scaled method; they may not replace the certification path.",
       "forbidden_move": "Do not treat unit tests, privacy checklists, or local aligned labels as certification. Do not skip the challenge window.",
       "clock": null,
-      "clock_note": "Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, as soon as the system has stakeholders (at pilot go-live for a pilot) and before the aligned claim.",
+      "clock_note": "Hold the system from going live until Chapter Eight certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A transition clock, before any aligned claim.",
       "eval_scenario_ids": [
         "A02_sac_systemic_evaluation_claim"
       ],

@@ -59,14 +59,14 @@ Approved progress: **257/257** terms pass tier audit.
 | Emergency Pre-Deliberation Action (Binding Collective Choice) | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Essential-Environment Non-Commodification | approved | primary_only | independent | `core_05_band_continuity.md` | yes | pass |
 | Existential Risk | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
-| Full Recognition | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Full Certification | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Indigenous Continuity | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Institutional Development | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Intergenerational Responsibility | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Language, Culture, and Heritage | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Openness Aspiration | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Proportionate Cross-System Support | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |
-| Provisional Recognition | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
+| Provisional Certification | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Recertification | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Residual Risk / Misalignment | approved | primary_only | cluster_member | `core_05_band_continuity.md` | yes | pass |
 | Reversibility | approved | primary_secondary | cluster_member | `core_05_band_continuity.md` | yes | pass |

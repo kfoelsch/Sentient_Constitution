@@ -267,7 +267,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：[第一章 §18.4 継続的正当化](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)；第一章の[§3 基礎的目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第八章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上位原則：[第一章 §18.4 継続的正当化](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)；第一章の[§3 基礎的目的：ウェルビーイング](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 
 </details>
 
@@ -298,7 +298,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上位原則：第一章の[§5 真実](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§14 絶対的な優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 
 </details>
 
@@ -365,7 +365,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)；[第十章 §5.4](core_10_standing_integration.md#54-special-violation-rules)（*本条により移行中の不整合な報酬の没収と報告が制限される*）；[第八章—システム整合性認証](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
+- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 中核的な均衡原則](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第十章 §5.4](core_10_standing_integration.md#54-special-violation-rules)（*本条により移行中の不整合な報酬の没収と報告が制限される*）；[第八章—システム整合性認証](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
 
 </details>
 
@@ -521,7 +521,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">根拠</span></strong></summary>
 
-- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[第八章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上位原則：第一章の[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - あわせて読む：**第III-A条**（*生存*）；**第XIII条**（*信頼でき、信用に足るシステムへの権利*）；**第XI-G条**（*集団的損害の境界と執行上の接続*）；**第九章**；権利衝突の手続を含む**第一章 §6**；第六章冒頭の**既定の制約一式**（*占有と是正の接続*）；[[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)（*不適合な財産、差押え、自発的インセンティブ*）から[**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives)まで（*移行期の統治と制度的進化*）。
 
 </details>

@@ -156,7 +156,7 @@ Lookup locators are not duties. [AI navigation guide](../ai_corpus/AI_NAVIGATION
 | Field | Pointer |
 |---|---|
 | **Owner text** | [Chapter Eight](../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) |
-| **Next step** | Open or restore a contestable Chapter Eight path, including a stakeholder challenge window, as soon as the system has stakeholders (at pilot go-live for a pilot) and before the aligned claim. |
+| **Next step** | Hold the system from going live until Chapter Eight certification (a pilot needs its own) grants it provisional or full certification, and open the contestable path when the outcome is published. For a system already operating, open or restore the path now and follow its Article XXVIII-A transition clock, before any aligned claim. |
 | **Next-step class** | `require_systemic_evaluation_or_sac_path` |
 
 ---

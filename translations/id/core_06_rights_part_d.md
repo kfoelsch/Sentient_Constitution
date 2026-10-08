@@ -259,7 +259,7 @@ Pasal ini menetapkan batas-batas kontestabilitas dan proporsionalitas pada pemba
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -525,7 +525,7 @@ Masyarakat yang hidup dan sistem yang bergantung memiliki hak untuk keluar, berm
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -556,7 +556,7 @@ Artikel ini menetapkan batas portabilitas:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -583,7 +583,7 @@ Pasal ini menetapkan batasan untuk interoperabilitas timbal balik dan pemberitah
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola Di Bawah Disiplin Penatalayanan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -762,7 +762,7 @@ Disiplin penatalayanan untuk kompleksitas, akses bahasa sederhana, dan minimalis
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Baca dengan: [Bab Satu §5.2 Aksesibilitas Bahasa Biasa (Tugas Penatalayanan)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Meminimalkan Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), dan [Bab Satu Bagian C §16.1 Pemahaman Terdistribusi](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -794,7 +794,7 @@ Pasal ini menetapkan landasan untuk pemahaman proporsional:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §18.5 Arsitektur Modular dan Disiplin Ketergantungan](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), dan [Bab Satu §20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18.5 Arsitektur Modular dan Disiplin Ketergantungan](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), dan [Bab Satu §20 Aplikasi Terintegrasi](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -833,7 +833,7 @@ Artikel ini menetapkan landasan untuk audit kompleksitas, modularitas, anti-pela
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Baca dengan: [Tetrad Konstitusional](core_00_preamble.md#constitutional-tetrad); [Dua Tujuan Konstitusi](core_00_preamble.md#two-constitutional-aims) — **Maju** dan **Kontinuitas**; [Reversibilitas](core_05_band_continuity.md#reversibility-constitutional), [Mempertaruhkan](core_05_band_continuity.md#risk), dan [Penangkapan Sistem](core_05_band_continuity.md#system-capture) di dalam **Bab Lima**.
 
 </details>
@@ -879,7 +879,7 @@ Ketelitian diagnostik harus tetap dapat diaudit dan ditantang. Itu harus konsist
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), dan [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -912,7 +912,7 @@ Artikel ini menguraikan dokumentasi dan landasan tantangan untuk temuan akar per
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §4 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keamanan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Inti Pengorbanan](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Sistem Keseluruhan](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 

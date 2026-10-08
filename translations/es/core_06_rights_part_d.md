@@ -263,7 +263,7 @@ Este artículo establece los límites de impugnabilidad y proporcionalidad de la
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: Capítulo uno [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), y [Capítulo Uno §18 Gobernanza bajo la disciplina de mayordomía](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principios: Capítulo uno [§6 Confianza](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), y [Capítulo Uno §18 Gobernanza bajo la disciplina de mayordomía](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -529,7 +529,7 @@ Los sistemas sensibles y dependientes tienen derecho a una salida, migración, i
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Upstream: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -560,7 +560,7 @@ Este artículo establece el piso de portabilidad:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Upstream: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -587,7 +587,7 @@ Este artículo establece los suelos de interoperabilidad recíproca y notificaci
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), y [Capítulo Uno §18 Gobernanza bajo la disciplina de mayordomía](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Upstream: Principios: [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), y [Capítulo Uno §18 Gobernanza bajo la disciplina de mayordomía](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -766,7 +766,7 @@ La disciplina de gestión de la complejidad, el acceso en lenguaje sencillo y la
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), y [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Upstream: Principios: Capítulo uno [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo uno §7 Libertad](core_01_a_values_principles.md#7-freedom-bounded-agency), y [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Leer con: [Capítulo Uno §5.2 Accesibilidad en lenguaje sencillo (deber de mayordomía)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Minimización de cargas evitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), y [Capítulo Uno Parte C §16.1 Comprensión Distribuida](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -798,7 +798,7 @@ Este artículo establece el piso de comprensibilidad proporcional:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), y [Capítulo Uno §18.5 Arquitectura Modular y Disciplina de Dependencia](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), y [Capítulo Primero §20 Solicitud Integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), y [Capítulo Uno §18.5 Arquitectura Modular y Disciplina de Dependencia](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), y [Capítulo Primero §20 Solicitud Integrada](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -837,7 +837,7 @@ Este artículo establece los pisos para las auditorías de complejidad, modulari
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Leer con: [Tétrada constitucional](core_00_preamble.md#constitutional-tetrad); [Dos objetivos constitucionales](core_00_preamble.md#two-constitutional-aims) — **Floreciente** y **Continuidad**; [Reversibilidad](core_05_band_continuity.md#reversibility-constitutional), [Riesgo](core_05_band_continuity.md#risk), y [Captura del sistema](core_05_band_continuity.md#system-capture) en **Capítulo cinco**.
 
 </details>
@@ -883,7 +883,7 @@ El rigor del diagnóstico debe seguir siendo auditable y cuestionable. Debe ser 
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), y [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Verdad](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), y [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -916,7 +916,7 @@ Este artículo establece la documentación y los pisos de desafío para los hall
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Ocho §4 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Upstream: Principios: Capítulo uno [§4 Seguridad](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principios básicos de compensación](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), y [Capítulo Ocho §3 Evaluación de Certificación de Todo el Sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 

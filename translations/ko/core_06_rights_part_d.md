@@ -256,7 +256,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: 제1장 [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [제1장 §18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상위 원칙: 제1장 [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -521,7 +521,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상위 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -551,7 +551,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상위 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -577,7 +577,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [제1장 §18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 상위 원칙: [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §18 수탁 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -753,7 +753,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상위 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 함께 읽기: [제1장 §5.2 평이한 언어 접근성(수탁 의무)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 피할 수 있는 부담 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [제1장 C부 §16.1 분산된 이해](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -785,7 +785,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [제1장 §18.5 모듈형 구조와 의존성 규율](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), [제1장 §20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §18.5 모듈형 구조와 의존성 규율](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), [제1장 §20 통합 적용](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -824,7 +824,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 함께 읽기: [헌법 사분면](core_00_preamble.md#constitutional-tetrad); [두 가지 헌법상 목적](core_00_preamble.md#two-constitutional-aims) — **번영**과 **연속성**; **제5장**의 [가역성](core_05_band_continuity.md#reversibility-constitutional), [위험](core_05_band_continuity.md#risk), [시스템 포획](core_05_band_continuity.md#system-capture).
 
 </details>
@@ -870,7 +870,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -903,7 +903,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적 정보</span></strong></summary>
 
-- 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상위 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 

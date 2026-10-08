@@ -224,7 +224,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">అనుసంధాన వివరాలు</span></strong></summary>
 
 - పూర్వ సంబంధం: అధ్యాయం ఒకటిలోని సూత్రాలు: [§3.1 న్యాయం](core_01_a_values_principles.md#31-fairness), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), మరియు [అధ్యాయం ఒకటి §13.1.5 హక్కుల ఘర్షణ విధానం](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- తదనంతర సంబంధం: భాగస్వామ్య కొలతల సమూహం (*సారాంశ న్యాయం; రక్షిత లక్షణాలకు బదులుగా ఉపయోగించే సూచికలు మరియు అసమాన ప్రభావం*); [అధ్యాయం ఎనిమిది §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*ధృవీకరణ వర్గీకరణ, ర్యాంకింగ్, ధర నిర్ణయం, ప్రవేశ నియంత్రణ లేదా భారాల కేటాయింపుకు ద్వారమయ్యే చోట వివక్షారాహిత్య మదింపు*); [అధ్యాయం పన్నెండు](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)లోని వేదిక, పరిపాలనా, అమలు ప్రక్రియలు (*విచారణ మరియు కార్యకలాపాల్లో విధి*).
+- తదనంతర సంబంధం: భాగస్వామ్య కొలతల సమూహం (*సారాంశ న్యాయం; రక్షిత లక్షణాలకు బదులుగా ఉపయోగించే సూచికలు మరియు అసమాన ప్రభావం*); [అధ్యాయం ఎనిమిది §3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*ధృవీకరణ వర్గీకరణ, ర్యాంకింగ్, ధర నిర్ణయం, ప్రవేశ నియంత్రణ లేదా భారాల కేటాయింపుకు ద్వారమయ్యే చోట వివక్షారాహిత్య మదింపు*); [అధ్యాయం పన్నెండు](core_12_forum.md#chapter-twelve-forums-and-jurisdiction)లోని వేదిక, పరిపాలనా, అమలు ప్రక్రియలు (*విచారణ మరియు కార్యకలాపాల్లో విధి*).
 - వీటితో కలిపి చదవాలి: అధ్యాయం ఐదులోని [రక్షిత లక్షణాలు](core_05_band_participation.md#protected-characteristics-constitutional), [భాష, సంస్కృతి, వారసత్వం](core_05_band_continuity.md#language-culture-and-heritage-constitutional); ఆదివాసీ మరియు భూభాగ నిరంతరత్వ ప్రశ్నల కోసం అధ్యాయం ఐదులోని [ఆదివాసీ నిరంతరత్వం](core_05_band_continuity.md#indigenous-continuity-constitutional) (*సమాజ ఆధారిత హక్కుల కనిష్ఠ ప్రమాణం; దానికి బాధ్యత వహించే నిబంధనలు **ఆర్టికల్ VI-C** (వివక్షారాహిత్యం), **ఆర్టికల్ I-A** (పర్యావరణ పూర్వావసరాలు మరియు పర్యావరణ సమగ్రత)*). ఆ ప్రశ్నలు [ఆర్టికల్ I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*పర్యావరణ వ్యవస్థ సమగ్రతకు పూర్వావసరం*) మరియు [అధ్యాయం పదిహేడు](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*స్వీకరించే అధికార పరిధి క్రమశిక్షణ*)కు దారి తీస్తాయి.
 
 </details>
@@ -269,8 +269,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">అనుసంధానం</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటిలోని సూత్రాలు [§3 ప్రాథమిక లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 పరిమితుల క్రమశిక్షణ](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 సరళ భాషలో అందుబాటు](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [అధ్యాయం ఎనిమిది §4 మొత్తం-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
-- తదనంతర సంబంధం: **ఆర్టికల్ VI-A** (*గౌరవం మరియు సమాన నైతిక స్థాయి*)లోని గౌరవ కనీస ప్రమాణం; **ఆర్టికల్ VI-C** (*వివక్ష నిషేధం*)లోని వివక్షారాహిత్యం, విచారణ మరియు కార్యకలాపాల్లో పూర్తి అంతర్భాగం; **ఆర్టికల్ IV-A** (*సమాన విద్యా ప్రవేశం*)లోని సమాన విద్యా ప్రవేశం (పునరుక్తి కాదు — విద్యా-నిర్దిష్ట అందుబాటు అక్కడే ఉంటుంది; ఈ ఆర్టికల్ అంతటా వర్తించే హక్కుల కనీస ప్రమాణాన్ని పేర్కొంటుంది); **ఆర్టికల్ X-B** (*పాలనలో భాగస్వామ్యం మరియు ఓటు హక్కు*)లోని పాలనా భాగస్వామ్యం; **ఆర్టికల్ XII** (*పాలుదారుల వ్యవస్థ భాగస్వామ్యం, ప్రాతినిధ్యం మరియు న్యాయబద్ధ ప్రక్రియ*)లోని పాలుదారుల భాగస్వామ్యం; **ఆర్టికల్ XVI** (*ఆడిట్, పారదర్శకత మరియు స్వతంత్ర ధృవీకరణ*)లోని స్వతంత్ర ధృవీకరణ; భాగస్వామ్య కొలతల కుటుంబం (*రాజ్యాంగ కొలతగా అందుబాటు*); [అధ్యాయం ఎనిమిది §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*ధృవీకరణ ద్వారా వాస్తవ భాగస్వామ్యానికి షరతు విధించినప్పుడు అందుబాటు మూల్యాంకనం*).
+- పూర్వాధారం: అధ్యాయం ఒకటిలోని సూత్రాలు [§3 ప్రాథమిక లక్ష్యం: శ్రేయస్సు](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 పరిమితుల క్రమశిక్షణ](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 సరళ భాషలో అందుబాటు](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [అధ్యాయం ఎనిమిది §3 మొత్తం-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- తదనంతర సంబంధం: **ఆర్టికల్ VI-A** (*గౌరవం మరియు సమాన నైతిక స్థాయి*)లోని గౌరవ కనీస ప్రమాణం; **ఆర్టికల్ VI-C** (*వివక్ష నిషేధం*)లోని వివక్షారాహిత్యం, విచారణ మరియు కార్యకలాపాల్లో పూర్తి అంతర్భాగం; **ఆర్టికల్ IV-A** (*సమాన విద్యా ప్రవేశం*)లోని సమాన విద్యా ప్రవేశం (పునరుక్తి కాదు — విద్యా-నిర్దిష్ట అందుబాటు అక్కడే ఉంటుంది; ఈ ఆర్టికల్ అంతటా వర్తించే హక్కుల కనీస ప్రమాణాన్ని పేర్కొంటుంది); **ఆర్టికల్ X-B** (*పాలనలో భాగస్వామ్యం మరియు ఓటు హక్కు*)లోని పాలనా భాగస్వామ్యం; **ఆర్టికల్ XII** (*పాలుదారుల వ్యవస్థ భాగస్వామ్యం, ప్రాతినిధ్యం మరియు న్యాయబద్ధ ప్రక్రియ*)లోని పాలుదారుల భాగస్వామ్యం; **ఆర్టికల్ XVI** (*ఆడిట్, పారదర్శకత మరియు స్వతంత్ర ధృవీకరణ*)లోని స్వతంత్ర ధృవీకరణ; భాగస్వామ్య కొలతల కుటుంబం (*రాజ్యాంగ కొలతగా అందుబాటు*); [అధ్యాయం ఎనిమిది §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*ధృవీకరణ ద్వారా వాస్తవ భాగస్వామ్యానికి షరతు విధించినప్పుడు అందుబాటు మూల్యాంకనం*).
 - అధ్యాయం ఐదులోని *అందుబాటు*, *రక్షిత లక్షణాలు*, *వాస్తవిక న్యాయం*, *భౌతిక ప్రాముఖ్యత*, *ఆధారపడటం*, *అర్థవంతమైన కార్యసామర్థ్యం*తో కలిపి చదవాలి. అంతటా వర్తించే అందుబాటు సూత్రం: [అధ్యాయం ఒకటి §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*సరళ భాషలో అందుబాటు*).
 
 </details>
@@ -960,7 +960,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 జ్ఞానపరమైన వెల్లడింపు పరిమితులు](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), మరియు [అధ్యాయం ఎనిమిది §4 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 జ్ఞానపరమైన వెల్లడింపు పరిమితులు](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), మరియు [అధ్యాయం ఎనిమిది §3 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1006,7 +1006,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 ఉత్పాదక సామర్థ్యం (సాధనాత్మక శ్రేయస్సు)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [అధ్యాయం ఒకటి §13.3 నివారించగల భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), మరియు [అధ్యాయం ఒకటి §18 సంరక్షకత్వ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 ఉత్పాదక సామర్థ్యం (సాధనాత్మక శ్రేయస్సు)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [అధ్యాయం ఒకటి §13.3 నివారించగల భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [అధ్యాయం ఒకటి §18 సంరక్షకత్వ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - తదుపరి సంబంధం: **ఆర్టికల్ III-C** (*కార్మిక మరియు ఆర్థిక కనిష్ఠ ప్రమాణం*)లోని కార్మిక-ఆర్థిక కనిష్ఠ ప్రమాణం; **ఆర్టికల్ IX-A** (*రూపసాదృశ్యం మరియు ప్రతిష్ఠపై స్వాధికారము*)లోని రూపసాదృశ్యం; **ఆర్టికల్ IX-B** (*అనుభవాత్మక మరియు ఉత్పన్న డేటా హక్కులు*)లోని అనుభవాత్మక, ఉత్పన్న డేటా; **ఆర్టికల్ IX-C** (*సత్యనిష్ఠ ప్రచురణ మరియు అధిక-ప్రభావ ప్రచురణ పరిమితులు*)లోని ప్రచురణ; **అధ్యాయం ఒకటి §11**లోని కేంద్రీకరణ నిరోధం, **§13.1**లోని కేంద్రీకరణ-పరిమితి విధానం.
 - కలిపి చదవండి: [**Def.C1** *కార్మిక మరియు ఆర్థిక కనిష్ఠ ప్రమాణం: పరిహారం, సంఘటనం, సురక్షిత పరిస్థితులు, విశ్రాంతి మరియు సృజనాత్మక పని*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (**ఆర్టికల్స్ III-C** (*కార్మిక మరియు ఆర్థిక కనిష్ఠ ప్రమాణం*), **III-D** (*సురక్షిత పని పరిస్థితులు*), **III-E** (*విశ్రాంతి మరియు పునరుద్ధరణ*)తో ఉమ్మడి ప్రయోగం; భౌతిక ప్రాసంగికత ఉన్నచోట [**Def.C3** (*గోప్యత (సమాచార సంబంధిత)*)](core_05_band_continuity.md#privacy-informational-cluster)).
 
@@ -1185,7 +1185,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఒకటి §13.1.5 హక్కుల సంఘర్షణ విధానం](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), మరియు [అధ్యాయం ఎనిమిది §4 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఒకటి §13.1.5 హక్కుల సంఘర్షణ విధానం](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), మరియు [అధ్యాయం ఎనిమిది §3 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1487,7 +1487,7 @@ flowchart TB
   - స్థాన నిరోధానికి మద్దతివ్వడం, సామర్థ్య అనుమతిని నిరాకరించడం లేదా ఆలస్యం చేయడం, లేదా **అధ్యాయం పది** లేదా **ఆర్టికల్ XIX** (*స్థాన మరియు భాగస్వామ్య స్థితి*) కింద పేరు పెట్టిన మార్గాన్ని కుదించడం;
   - [అధ్యాయం పదకొండు](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out) కింద రాజ్యాంగవ్యతిరేక దుష్ప్రవర్తనగా గుర్తించడానికి మద్దతివ్వడం;
   - **ఆర్టికల్ X-B** (*పాలనలో భాగస్వామ్యం మరియు ఓటు అర్హత*), **అధ్యాయం పదమూడు** కింద పాలనా ఓటు, పాలుపంచుకునే పక్షాల భాగస్వామ్యం, అభ్యర్థిత్వం, పదవిలో ఉండటం, వేదిక సేవ, పదవీచ్యుతి హక్కులను తగ్గించడం;
-  - [అధ్యాయం ఎనిమిది](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest) కింద వ్యవస్థ అలైన్‌మెంట్ ధృవీకరణకు వ్యతిరేకంగా లెక్కించడం;
+  - [అధ్యాయం ఎనిమిది](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest) కింద వ్యవస్థ అలైన్‌మెంట్ ధృవీకరణకు వ్యతిరేకంగా లెక్కించడం;
   - **ఆర్టికల్ XIV-A** (*భద్రత, గూఢచర్యం, రహస్య అధికార పరిమితులు*) ఇప్పటికే నిషేధించిన పర్యవేక్షణ, చొరబాటు, ముప్పు స్కోరింగ్ లేదా రికార్డుల పోగుకు కారణం కావడం; లేదా
   - మనుగడకు అవసరమైన వనరులు, హక్కుల కనిష్ఠ ప్రమాణాలు, ఉపాధి, సాధారణ వాణిజ్యం, సవాలు మరియు పరిహారానికి ప్రవేశాన్ని షరతులతో కట్టిపెట్టడం.
 
@@ -1705,7 +1705,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application), మరియు [అధ్యాయం ఎనిమిది §4 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application), మరియు [అధ్యాయం ఎనిమిది §3 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - కలిపి చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad) — **భాగస్వామ్య** అక్షం (వ్యవస్థలో పాలుపంచుకునే పక్షాల భాగస్వామ్య పొర); [భౌతిక ప్రాధాన్యత](core_00_preamble.md#material-stake) స్థాయీకరణ; [భౌతికంగా బంధనకర చర్య రికార్డు](core_05_band_accountability.md#materially-binding-act-record), [అధ్యాయం ఏడు §7 చర్య రికార్డులు, ఆపాదించగల బదిలీలు, తప్పు స్థానం మార్గీకరణ](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - పొర: **వ్యవస్థలో పాలుపంచుకునే పక్షాల భాగస్వామ్యం (SSP)**. ఇది **రాజ్యాంగ ఒప్పంద పొర (CCL)** అధికారం నుంచి వేరు.
 
@@ -1750,7 +1750,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), మరియు [అధ్యాయం ఒకటి §18 సంరక్షకత్వ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [అధ్యాయం ఒకటి §18 సంరక్షకత్వ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1834,7 +1834,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">అనుసరణ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), మరియు [అధ్యాయం ఒకటి §18 సంరక్షకత్వ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ-వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), మరియు [అధ్యాయం ఒకటి §18 సంరక్షకత్వ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - కలిపి చదవండి: [వ్యవస్థ ఆక్రమణ](core_05_band_continuity.md#system-capture); [ఆక్రమణ నిరోధం](core_05_band_continuity.md#anti-capture); [అధ్యాయం ఏడు: కార్యాచరణ స్వాతంత్ర్యం మరియు విధుల విభజన](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>

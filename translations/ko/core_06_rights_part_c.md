@@ -125,7 +125,7 @@ flowchart TB
 - 시스템에 이의를 제기하는 방법
 - 문제가 해결되는 방식
 
-시스템이 **제XIII조**(*신뢰할 수 있고 믿을 수 있는 시스템에 대한 권리*)의 중요성 기준을 충족하면, 인증에는 [제8장 §4.8.6 신뢰성 및 시스템 의존 무결성 평가](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation)에 따른 신뢰성 심사도 포함됩니다.
+시스템이 **제XIII조**(*신뢰할 수 있고 믿을 수 있는 시스템에 대한 권리*)의 중요성 기준을 충족하면, 인증에는 [제8장 §3.8.6 신뢰성 및 시스템 의존 무결성 평가](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation)에 따른 신뢰성 심사도 포함됩니다.
 
 **이의 제기 가능성은 감지자 측에서 시스템의 정직성을 지킵니다:** 인증은 시스템을 점검하지만 최종 판단권을 갖지는 않습니다. 시스템의 영향을 받는 모든 감지자는 다음 권리를 보유합니다.
 
@@ -362,7 +362,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 탄력성과 자가 치유 설계](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), 그리고 [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 탄력성과 자가 치유 설계](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [제1장 §13.3 회피 가능한 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -714,7 +714,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), 그리고 [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -787,7 +787,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 인식적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -938,7 +938,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), 그리고 [제1장 §18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [제1장 §18 관리 규율에 따른 거버넌스](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1046,7 +1046,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1081,7 +1081,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 트레이드오프 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), 그리고 [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 트레이드오프 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1114,7 +1114,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1173,7 +1173,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제1장 §7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 그리고 [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1240,7 @@ Steward 포인터(프로세스 지원, 이 기사의 범위를 좁힐 수 없음
 <details>
 <summary><strong><span style="color: #2563eb;">추적하다</span></strong></summary>
 
-- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter 8 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- 업스트림: 원칙: 1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapter 8 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), 그리고 [1장 §20 통합 애플리케이션](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

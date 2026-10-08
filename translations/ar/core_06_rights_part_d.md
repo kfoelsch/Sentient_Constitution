@@ -257,7 +257,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ الفصل الأول [§6 الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الرعاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- الأساس الأعلى: مبادئ الفصل الأول [§6 الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الرعاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -520,7 +520,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- الأساس الأعلى: مبادئ [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -550,7 +550,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- الأساس الأعلى: مبادئ [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -576,7 +576,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الرعاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- الأساس الأعلى: مبادئ [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الرعاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -752,7 +752,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- الأساس الأعلى: مبادئ الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - تُقرأ مع: [الفصل الأول §5.2 الإتاحة بلغة واضحة (واجب الرعاية)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)، و[§13.3 تقليل العبء الممكن تجنبه](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، و[الجزء ج من الفصل الأول §16.1 الفهم الموزع](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -783,7 +783,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §18.5 البنية المعيارية وانضباط الاعتماد](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- الأساس الأعلى: مبادئ الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18.5 البنية المعيارية وانضباط الاعتماد](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)، و[§20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -822,7 +822,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- الأساس الأعلى: مبادئ الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - تُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad)؛ [المقصدين الدستوريين](core_00_preamble.md#two-constitutional-aims) — **الازدهار** و**الاستمرارية**؛ [قابلية الرجوع](core_05_band_continuity.md#reversibility-constitutional) و[الخطر](core_05_band_continuity.md#risk) و[الاستحواذ على النظام](core_05_band_continuity.md#system-capture) في **الفصل الخامس**.
 
 </details>
@@ -867,7 +867,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- الأساس الأعلى: مبادئ الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -899,7 +899,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبع</span></strong></summary>
 
-- الأساس الأعلى: مبادئ الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §4 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- الأساس الأعلى: مبادئ الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، و[§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §3 تقييم الشهادة على مستوى النظام كله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 

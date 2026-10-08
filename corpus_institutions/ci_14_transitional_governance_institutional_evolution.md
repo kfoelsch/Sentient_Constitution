@@ -322,7 +322,7 @@ Institutions may add measures. They may not drop a family.
 
 These indicators apply to the **Article XXVIII-C** (*Failure Off-Ramps, Re-Baselining, and Traceability*) verification-health precondition:
 
-- certification records that routinely recognize systems later found to materially defeat Rights Floors;
+- certification records that routinely certify systems later found to materially defeat Rights Floors;
 - standing measurement that routinely diverges from verified material reality;
 - ledger data that cannot be independently verified, or that routinely diverge from contests, complaints, and affected-sentient reports; and
 - contest and review pathways that cannot correct those gaps within materiality-scaled time.

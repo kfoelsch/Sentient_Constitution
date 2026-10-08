@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint) এবং [অধ্যায় সাত §4 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) এবং [অধ্যায় সাত §4 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 জ্ঞানতাত্ত্বিক প্রকাশ বন্ধন](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় সাত §4 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় সাত §4 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.1 নিরাপত্তা](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - সঙ্গে পড়ুন: [অনুচ্ছেদ XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*বহনযোগ্যতা অধিকার*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*আন্তঃক্রিয়াশীলতা, বহনযোগ্যতা ও প্রস্থান-সততা শর্ত*) এবং **CJS-3.18** (*তথ্য-ধারণ ও জীবনচক্র-সততা শর্ত*); [অধ্যায় এক §11.6 উত্তরসূরি দায়িত্ব ও আনুষ্ঠানিক-কাঠামো অ-পলায়ন](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [অধ্যায় নয় §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) এবং [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority)।
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [অধ্যায় সাত §4 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§3.2 সত্য](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) এবং [§10 দায়িত্বশীল ব্যবস্থাপনা শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)।
 - সঙ্গে পড়ুন: সাতত্য পরিমাপ পরিবার (*নির্ভরতা ও সম্পদ প্রবাহ সাংবিধানিক পরিমাপ হিসেবে*); [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — স্বচ্ছ নির্ভরতা মানচিত্র ও নিরীক্ষাযোগ্য সম্পদ-প্রবাহ নথির মধ্য দিয়ে **তত্ত্বাবধান**, **অনুচ্ছেদ XV-A** (*নিরীক্ষাযোগ্যতা ও পর্যবেক্ষণযোগ্য প্রমাণ*)-এর অধীনে চ্যালেঞ্জযোগ্য পর্যালোচনায় **অংশগ্রহণ**; [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** (দৃশ্যমান খরচ-ও-লাভ বরাদ্দ) এবং **সাতত্য** (বদলাতে থাকা ব্যবস্থা জুড়ে স্থায়ী নির্ভরতা দৃশ্যমানতা)।
 - অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) এবং [অধ্যায় সাত](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) যেখানে ব্যবস্থা ভাগ করা অবকাঠামো বা ভিত্তিগত নির্ভরতা বরাদ্দ, রাউট, অর্থায়ন বা নিষ্কাশন করে; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*সম্পদ বরাদ্দ ও অর্থায়ন দায়িত্বশীল ব্যবস্থাপনা*), এবং **CS-8** (*অভিযোজিত স্থায়িত্ব ও বাস্তুতন্ত্র স্থিতিস্থাপকতা*)।
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">সন্ধান</span></strong></summary>
 
-- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় সাত §4 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্ব: নীতি: অধ্যায় এক [§2 ভিত্তিগত উদ্দেশ্য: কল্যাণ](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 মূল বাণিজ্য নীতি](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles) এবং [অধ্যায় সাত §3 পুরো-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 - সঙ্গে পড়ুন: [*শাসন স্থাপত্য, তত্ত্বাবধান, নির্ভরতা, বিকেন্দ্রীকরণ, ঘনত্ব, বাজার কাঠামো ও প্রস্থান-পথ সততা*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (যৌথ আহ্বান যেখানে ঘনত্ব, তত্ত্বাবধান, নির্ভরতা, শাসন-কর্তৃত্ব কাঠামো বা প্রণোদনা রাউটিং নিচের কার্যকরী পাঠে **§5** / **§5** এবং *ঘনত্ব-সীমা মিথস্ক্রিয়া* শৃঙ্খলার সঙ্গে ছেদ করে)।
 - সঙ্গে পড়ুন: [সাংবিধানিক চতুষ্ক](core_00_preamble.md#constitutional-tetrad) — চ্যালেঞ্জ ও প্রতিদ্বন্দ্বিতা নামকৃত পথে **অংশগ্রহণ**, **তত্ত্বাবধান** ও নিরীক্ষা, **জবাবদিহি** ও সংশোধনমূলক পর্যালোচনা, **অনুচ্ছেদ XXIV-C** (*সময়মতো সমাধান ও দেরি-নিরোধ তল*)-এর অধীনে **সময়ানুবর্তিতা**; [দুই সাংবিধানিক উদ্দেশ্য](core_00_preamble.md#two-constitutional-aims) — **সমুন্নতি** (আন্তঃব্যবস্থা ন্যায্যতা ও অ-নিষ্কাশন) এবং **সাতত্য** (দীর্ঘমেয়াদি স্থায়িত্ব ও বাস্তুতন্ত্র অর্থায়ন)।
 - অধঃ: [ব্যবস্থা-সারিবদ্ধতা প্রত্যয়ন](core_05_band_continuity.md#system-alignment-certification-constitutional) এবং [অধ্যায় সাত](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) যেখানে আন্তঃব্যবস্থা ন্যায্যতা, বাস্তুতন্ত্র অর্থায়ন, বা ভাগ করা অবকাঠামো থেকে স্থায়ী নিষ্কাশন বস্তুগতভাবে জড়ায়।

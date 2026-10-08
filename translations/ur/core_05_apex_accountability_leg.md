@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- ساتھ پڑھیں: [باب یکم §11 محرکات کی ہم آہنگی اور نظام پر قبضہ](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)، [§13 بازار کا ڈھانچہ](core_01_c_stewardship_capacity_principles.md#13-market-structure)، اور [باب ہفتم §4.3 حکمرانی، محرک، اور چیلنج پذیری ضبط](../../core_08_a_system_alignment_certification_evaluation.md#43-governance-incentive-and-contestability-discipline)۔
+- ساتھ پڑھیں: [باب یکم §11 محرکات کی ہم آہنگی اور نظام پر قبضہ](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture)، [§13 بازار کا ڈھانچہ](core_01_c_stewardship_capacity_principles.md#13-market-structure)، اور [باب ہفتم §3.3 حکمرانی، محرک، اور چیلنج پذیری ضبط](../../core_08_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline)۔
 
 </details>
 

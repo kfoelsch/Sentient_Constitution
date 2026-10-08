@@ -153,7 +153,7 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), và [Chương Bảy §4 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@ Chương Năm định nghĩa những điều kiện đó dưới **Tiền điề
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Ràng buộc công bố nhận thức](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), và [Chương Bảy §4 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 Ràng buộc công bố nhận thức](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@ Chi tiết thủ tục cho **Điều II** (*Quản trị có trách nhiệm vậ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Bảy §4 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@ Chi tiết thủ tục cho **Điều II** (*Quản trị có trách nhiệm vậ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Bảy §4 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.1 An toàn](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Đọc cùng: [Điều XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Quyền khả năng chuyển*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Loại thông tin và xử lý**; **CJS-3.17** (*điều khoản khả năng tương tác, khả năng chuyển, và tính toàn vẹn lối ra*) và **CJS-3.18** (*điều khoản lưu giữ dữ liệu và tính toàn vẹn vòng đời*); [Chương Một §11.6 Trách nhiệm người kế và không thoát bằng cấu trúc hình thức](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [Chương Chín §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) và [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chương Bảy §4 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), và [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- Thượng nguồn: Nguyên tắc: Chương Một [§3.2 Sự thật](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), và [§10 Quản trị dưới kỷ luật quản trị có trách nhiệm](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - Đọc cùng: gia đình đo lường Liên tục (*Phụ thuộc và dòng tài nguyên như đo lường hiến pháp*); [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **giám sát** qua bản đồ phụ thuộc minh bạch và hồ sơ dòng tài nguyên kiểm toán được, **tham gia** trong rà soát tranh biện được dưới **Điều XV-A** (*Khả năng kiểm toán và bằng chứng quan sát được*); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Hưng thịnh** (phân bổ chi-lợi nhìn thấy) và **Liên tục** (khả năng thấy phụ thuộc bền xuyên hệ thống đang đổi).
 - Hạ nguồn: [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) nơi hệ thống phân bổ, định tuyến, tài trợ, hoặc khai thác từ hạ tầng chung hoặc phụ thuộc nền tảng; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Quản trị có trách nhiệm phân bổ tài nguyên và tài trợ*), và **CS-8** (*Bền vững thích nghi và khả năng phục hồi hệ sinh thái*).
 
@@ -828,7 +828,7 @@ Những yêu cầu đó bảo vệ hạ tầng chung và các hệ thống phụ
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Bảy §4 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Thượng nguồn: Nguyên tắc: Chương Một [§2 Mục tiêu nền tảng: phúc lợi](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 Nguyên tắc đánh đổi cốt lõi](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), và [Chương Bảy §3 Đánh giá chứng nhận toàn hệ thống](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Đọc cùng: [*Kiến trúc quản trị, Giám sát, Phụ thuộc, Phân tán, Tập trung, Cấu trúc thị trường, và Tính toàn vẹn đường ra*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (viện chung nơi tập trung, giám sát, phụ thuộc, cấu trúc thẩm quyền quản trị, hoặc định tuyến khuyến khích giao **§5** / **§5** và kỷ luật *Tương tác ngưỡng tập trung* trong văn bản vận hành dưới).
 - Đọc cùng: [Tứ diện Hiến pháp](core_00_preamble.md#constitutional-tetrad) — **tham gia** trong đường dẫn tranh biện và tranh, **giám sát** và kiểm toán, **trách nhiệm giải trình** và rà soát sửa, **kịp thời** dưới **Điều XXIV-C** (*Giải quyết kịp thời và sàn chống trì hoãn*); [Hai Mục tiêu Hiến pháp](core_00_preamble.md#two-constitutional-aims) — **Hưng thịnh** (công bằng xuyên hệ thống và không khai thác) và **Liên tục** (bền vững dài hạn và tài trợ hệ sinh thái).
 - Hạ nguồn: [Chứng nhận thẳng hàng hệ thống](core_05_band_continuity.md#system-alignment-certification-constitutional) và [Chương Bảy](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) nơi công bằng xuyên hệ thống, tài trợ hệ sinh thái, hoặc khai thác bền từ hạ tầng chung đang đặt lên bàn về mặt vật chất.

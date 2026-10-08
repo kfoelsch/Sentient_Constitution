@@ -613,7 +613,7 @@ flowchart TB
 - 併読：[憲法の四元](core_00_preamble.md#constitutional-tetrad) — 影響を受ける当事者が経験的主張を理解し異議を申し立てる必要がある場合の**参加**の柱；**監督**の柱（独立した精査、監査可能性）；[重大な利害](core_00_preamble.md#material-stake)に応じた適用。
 - 併読：[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄**の目的（**安全**と**真実**のための誠実な証拠）；**継続性**の目的（是正可能で長期的な経験的責任管理）。
 - 上流：原則：[§4 安全](#4-safety-harm-constraint)および[§5 真実](#5-truth-epistemic-integrity-constraint)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
-- 下流：[6. 信頼](#6-trust-and-trustworthiness-coordination-integrity)、[§16 責任管理の詳細](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13.2 認識情報の開示に関する制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第八章 §4 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[§18 責任管理規律下のガバナンス](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 下流：[6. 信頼](#6-trust-and-trustworthiness-coordination-integrity)、[§16 責任管理の詳細](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[13.2 認識情報の開示に関する制約](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)、[第八章 §3 全システム認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§18 責任管理規律下のガバナンス](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 - 下流：信頼できる経験的証拠、専門家証拠の基準、科学出版と再現性の完全性、独立検証、ライフサイクル試験、根本原因の検討、安全に関わる開示に関する権利の範囲を形作る。
   - 特に、[第XIII条：信頼できるシステムに対する権利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)、[第XVI条：監査、透明性および独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XVIII-E条：科学出版、審査、再現の完全性](core_06_rights_part_c.md#article-xviii-e-scientific-publication-review-and-replication-integrity)、[第XXIII条：根本原因分析と適応的対応](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)、[第XXV-A条：遡及的審査と開示](core_06_rights_part_e.md#article-xxv-a-retrospective-review-and-disclosure)が該当する。
 - 併読：[第十二章 §4.2 — 技術フォーラムの領域](core_12_forum.md#42-technical-forum-domains)（*共通基準と領域の置き換え防止を含む*）。専門家証拠の基準、認証された技術的論点、証拠の責任管理をめぐる紛争が重要な場合に参照する。採用された専門ルートについては[corpus_forum.md CF-10](corpus_forum/cf_10_technical_specialist_forums_specialist_chambers.md)（*技術専門フォーラムおよび専門審議部*）を参照。
@@ -835,7 +835,7 @@ flowchart TB
 - 併読：[自発的な継続停止](core_05_band_continuity.md#voluntary-discontinuation)、第5章 §2 *主体性、同意、反強制*、[集会、集団組織、制度形成](core_05_band_participation.md#assembly-collective-organization-and-institutional-formation)。
 - 併読：[§17 結果に対する責任管理](core_01_c_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)および[§19.1.4 役割の深度と重大な責任の経路](core_01_c_stewardship_capacity_principles.md#1914-role-depth-and-material-responsibility-pathways) — 役割の深度、能力、重大な責任への経路。意味ある主体性には、安全と同意が許す場合、学習上の役割、運用、結果を伴う義務へ進む実質的な道筋が含まれる。影響上必要な結果責任を、象徴的な参加で代替してはならない。
 - 併読：[§11 市場構造](#11-market-structure)、特に[§11.2 競争促進と支配の防止](#112-pro-competition-and-anti-domination)、および[第XXI条：相互運用性、移転可能性、移動、避難、退出の完全性](core_06_rights_part_d.md#article-xxi-interoperability-portability-movement-refuge-and-exit-integrity)。集中、支配、ロックインによって主体性が重大に制限される場合、異議を申し立てられる市場、退出経路、反支配の規律によって大規模環境でも主体性を実質的なものに保つ。
-- 併読：[§7.1 制限に関する規律](#71-limitation-discipline)および[第八章 §4.2 時間整合性の制約](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint) — 自由の制限に関する実施基準と時間整合性の評価規律。自由の制限が他の価値や権利と衝突する場合、**安全**と**真実**を満たした上で、[§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)から[§13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)に従って解決する。
+- 併読：[§7.1 制限に関する規律](#71-limitation-discipline)および[第八章 §3.2 時間整合性の制約](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) — 自由の制限に関する実施基準と時間整合性の評価規律。自由の制限が他の価値や権利と衝突する場合、**安全**と**真実**を満たした上で、[§13.1](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)から[§13.1.5 権利衝突の手続](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)に従って解決する。
 - 上流：原則：[§3.2 認識、強化、志向](#32-recognition-reinforcement-and-aspiration)；[§4 安全](#4-safety-harm-constraint)；[§5 真実](#5-truth-epistemic-integrity-constraint)；[6. 信頼](#6-trust-and-trustworthiness-coordination-integrity)；[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)。
 - 下流：[§7.1 制限に関する規律](#71-limitation-discipline)から[§7.4 自発的な継続停止、重大な自己変更、退出の権利](#74-voluntary-discontinuation-and-exit-rights)まで；[§18.2 制度の世俗性と世界観の中立性](core_01_c_stewardship_capacity_principles.md#182-institutional-secularism-and-worldview-neutrality)（*自由に対応する公権力上の原則*）；[13. 憲法上の衝突を解決する手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)；[14. 絶対的優先適用の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)；[§20 統合的適用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)；具体的な適用で衝突処理が必要な場合は[憲法衝突の記録](core_05_band_integrative.md#constitutional-collision-record)。
 - 下流：平等な地位、教育、自己所有、出版と肖像の管理、主体性、協力的な相互作用、適正手続、当事者適格、反捕捉審査に関する権利の範囲を定める。
@@ -981,7 +981,7 @@ flowchart TB
 
 - **変更しない事項：** **§7.2**（*集会、集団的組織化および制度の形成*）は、[分断禁止原則](core_01_b_interaction_interpretation.md#1511-anti-segmentation-principle)をこの主題に適用し、[§7.2.1 整合的な自己組織化](#721-aligned-self-organization)への参照を加えるにとどまる。第6章の権利の最低保障に関する規定を創設、拡張、縮小するものではない。
 - **区分：** 市民的結社、労働組織、プラットフォームアクセス、および運営許可という捉え方。形式上のアクセスを保ちながら集会または集団的組織化の保護を妨げる場合、それらを切り分けることは遵守違反となる。
-- **システム全体の評価：** 定義クラスター全体が適用される場合、分類、統治、または遵守に関する主張を確定する前に、[第8章 §4.7 集会、集団的組織化および制度の形成](core_08_a_system_alignment_certification_evaluation.md#47-assembly-collective-organization-and-institutional-formation)に基づき分断禁止を検証しなければならない。
+- **システム全体の評価：** 定義クラスター全体が適用される場合、分類、統治、または遵守に関する主張を確定する前に、[第8章 §3.7 集会、集団的組織化および制度の形成](core_08_a_system_alignment_certification_evaluation.md#37-assembly-collective-organization-and-institutional-formation)に基づき分断禁止を検証しなければならない。
 
 ##### 7.2.1 整合的な自己組織化
 <a id="721-aligned-self-organization"></a>
@@ -1038,7 +1038,7 @@ flowchart TB
 
 **自由の行使によって当事者適格や発言権を失わせてはならない。** 知覚存在がこの自由を行使したことを理由に、その当事者適格を引き下げ、役割の適格性を狭め、統治における発言権を減らし、またはシステムの整合性認証に不利に数えてはならない。市民的不服従の規則や、異議申立て後の不利益措置に関する立証責任を含む運用規則は、**[第XI-D条](core_06_rights_part_b.md#xi-d-dissent-and-peaceful-protest)（*集会、異議申立ておよび平和的抗議*）**に定める。
 
-システム全体を評価する場合、評価では[第8章 §4.7.1 異議申立てと平和的抗議](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest)を用いて、異議申立てと平和的抗議の扱いを確認しなければならない。この確認が済むまで、この節が適用される場面で、システムが適切に分類され、適切に統治され、または遵守していると主張することはできない。
+システム全体を評価する場合、評価では[第8章 §3.7.1 異議申立てと平和的抗議](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest)を用いて、異議申立てと平和的抗議の扱いを確認しなければならない。この確認が済むまで、この節が適用される場面で、システムが適切に分類され、適切に統治され、または遵守していると主張することはできない。
 
 **本節が変更しない事項：**
 
@@ -1088,7 +1088,7 @@ flowchart TB
 - 性的同意
 - 商業サービス
 
-適用範囲に該当する場合、分類、統治、制限、または遵守に関する主張を確定する前に、システム全体の評価で[第8章 §4.6 自発的な終了、重大な自己改変および離脱の権利](core_08_a_system_alignment_certification_evaluation.md#46-voluntary-discontinuation-major-self-modification-and-exit-rights)に基づきこれらの条件を検証しなければならない。
+適用範囲に該当する場合、分類、統治、制限、または遵守に関する主張を確定する前に、システム全体の評価で[第8章 §3.6 自発的な終了、重大な自己改変および離脱の権利](core_08_a_system_alignment_certification_evaluation.md#36-voluntary-discontinuation-major-self-modification-and-exit-rights)に基づきこれらの条件を検証しなければならない。
 
 <a id="8-continuity-aim-introduction"></a>
 ### 8. 継続性の目的：序論
@@ -1375,7 +1375,7 @@ flowchart TB
 - 前提：[§9 共有システム能力](#9-shared-system-capacity) — レジリエンスが保護し、回復させる持続的能力。
 - [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)と併読する — **継続性**の目的（レジリエンスと自己修復の規律）、**繁栄**の目的（認識論的健全性を損なわない、信頼できる回復）。
 - 上流の原則：[前文 §1 モデル](core_00_preamble.md#the-model)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、[§4 安全](#4-safety-harm-constraint)、[§5 真実](#5-truth-epistemic-integrity-constraint)、[§6 信頼](#6-trust-and-trustworthiness-coordination-integrity)。
-- 下流への影響：[§16 スチュワードシップの詳細](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)、[§18 スチュワードシップ規律の下でのガバナンス](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)、[§14 絶対的優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 下流への影響：[§16 スチュワードシップの詳細](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§13.3 回避可能な負担の最小化](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)、[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)、[§18 スチュワードシップ規律の下でのガバナンス](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)、[§14 絶対的優先の禁止](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 - 下流への影響：回復を伴う信頼性、根本原因を正直に究明すること、可逆性、ならびに劣化中と復旧中の状態の理解可能性に関する権利の範囲を形成する。
   - とりわけ、[第XIII条：信頼できるシステムに関する権利](core_06_rights_part_c.md#article-xiii-right-to-reliable-and-trustworthy-systems)（**第XIII-F条** (*レジリエンスと自己修復の基準*) を含む）、[第XVI条：監査、透明性、独立検証](core_06_rights_part_c.md#article-xvi-audit-transparency-and-independent-verification)、[第XVII条：システムのライフサイクル、環境、可逆性](core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility)、[第XXII条：理解可能性と複雑性の適切な管理](core_06_rights_part_d.md#article-xxii-comprehensibility-and-complexity-stewardship)、[第XXIII条：根本原因分析と適応的対応](core_06_rights_part_d.md#article-xxiii-root-cause-analysis-and-adaptive-response)。
 
@@ -1881,7 +1881,7 @@ flowchart TB
 - 継続性の測定群（*レジリエンス、可逆性、システムリスク*）と併読する。
 - [憲法上の四本柱](core_00_preamble.md#constitutional-tetrad)、[二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims)、および[実質的重要性](core_00_preamble.md#material-stake)に応じた段階設定と併読する。
 - [§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)、[§16 スチュワードシップの詳細](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§18 スチュワードシップ規律の下でのガバナンス](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)、[§19 インセンティブの整合とシステムの取り込み](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture)と併読する。
-- **[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**と併読する — システム全体を認証のために評価する要素。認証は四本柱の**監督**における特に大規模な監査の一つであり、監査が行われる唯一の場ではない。
+- **[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**と併読する — システム全体を認証のために評価する要素。認証は四本柱の**監督**における特に大規模な監査の一つであり、監査が行われる唯一の場ではない。
 - **第XVI条** (*監査、透明性、独立検証*) および[監査可能性](core_05_band_oversight.md#auditability)と併読する — 第八章が満たすべき監査の最低基準であり、他の監査方式も実装する。
 - **[corpus_systems.md](corpus_systems.md)、CS-3 — システムの分類と取扱い**および[分類に応じたガバナンス](core_05_band_oversight.md#classification-scaled-governance)と併読する — クラスに応じた適用、記録形式、再分類トリガー、取扱いプロファイル。
 - 前提：[§16 スチュワードシップの詳細](core_01_c_stewardship_capacity_principles.md#16-stewardship-in-depth)、[§18 スチュワードシップ規律の下でのガバナンス](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)、[§13 憲法上の衝突解決手続](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)。
@@ -1919,8 +1919,8 @@ flowchart TB
 - 条件の解除。
 
 詳細な評価要素と認証記録は、次が所管する。
-- **[第八章 §4 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)**。
-- **[第八章 §7 システム認証記録](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record)**。
+- **[第八章 §3 システム全体の認証評価](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)**。
+- **[第八章 §6 システム認証記録](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record)**。
 - **[corpus_systems.md](corpus_systems.md)、CS-3 — システムの分類と取扱い**。
 
 第八章の手続は、次のとおりである。

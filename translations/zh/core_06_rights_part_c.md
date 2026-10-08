@@ -124,7 +124,7 @@ flowchart TB
 - 对系统提出质疑的方式；
 - 问题得到修复的方式。
 
-如果系统达到**第十三条**（*享有可靠且可信赖系统的权利*）规定的重要性门槛，认证还须包括依据[第八章 §4.8.6 可信赖性与系统依赖完整性评估](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation)所作的可信赖性审查。
+如果系统达到**第十三条**（*享有可靠且可信赖系统的权利*）规定的重要性门槛，认证还须包括依据[第八章 §3.8.6 可信赖性与系统依赖完整性评估](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation)所作的可信赖性审查。
 
 **可争议性从有感知者一侧确保系统诚实：**认证会检查系统，但不能对系统作最终定论。每一位受到系统影响的有感知者仍享有：
 
@@ -371,7 +371,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§10 韧性与自我修复设计](core_01_a_values_principles.md#10-resilience-and-self-healing-design)、[第一章 §13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)，以及[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)、[§10 韧性与自我修复设计](core_01_a_values_principles.md#10-resilience-and-self-healing-design)、[第一章 §13.3 尽量减少可避免负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -728,7 +728,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)，以及[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -804,7 +804,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[§13.2 认识论披露限制](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -959,7 +959,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)及[第一章 §18 受托治理纪律](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)及[第一章 §18 受托治理纪律](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 
 </details>
 
@@ -1071,7 +1071,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)，以及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 
@@ -1108,7 +1108,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)，以及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1143,7 +1143,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)，以及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：第一章原则：[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)，以及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 
@@ -1204,7 +1204,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)及[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)及[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -1274,7 +1274,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">脉络</span></strong></summary>
 
-- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：第一章原则：[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)及[第一章 §20 综合适用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 

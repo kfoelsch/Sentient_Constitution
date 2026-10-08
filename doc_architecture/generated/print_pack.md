@@ -127,7 +127,7 @@ These measurement categories show what matters. Standing alone, they do not set 
 
 ### 3. Governance and Stewardship
 
-*In plain terms: legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And people like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.*
+*In plain terms: legitimacy needs Safety, Truth, and Trust. It also needs two things in practice. You can find out how the systems that affect you work, such as why a loan was denied or why an app showed you what it did. And sentients like you can hold real jobs overseeing those systems, such as serving on a review panel or checking the work, not just giving feedback.*
 
 Durable legitimacy depends on [Safety](../../core_01_a_values_principles.md#4-safety-harm-constraint), [Truth](../../core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), and [Trust](../../core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity). It also depends on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter One states this recognition dimension in [Recognition, Reinforcement, and Aspiration](../../core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
@@ -302,7 +302,7 @@ flowchart TB
 
 [Chapter Seven](../../core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties) supplies the independence floor that makes every act in this chain validly checkable. It requires the functions of initiation, verification or authorization, official record custody, and challenge review to be assigned and kept distinct under the applicable scaling and independence rules. Chapters Eight through Twelve then apply that architecture in sequence:
 
-- **Chapter Eight** uses independent verification to decide whether a materially impactful system is aligned enough to recognize, rely on, deploy, or release from conditions within a stated scope and time window.
+- **Chapter Eight** uses independent verification to decide whether a materially impactful system is aligned enough to certify, rely on, deploy, or release from conditions within a stated scope and time window.
 - **Chapter Nine** takes the verified facts and records them on separate Contribution and Violation axes. Verified contribution toward flourishing does not offset, cancel, or reduce a separately verified harm or accountability failure; each remains recorded and subject to its own consequences.
 - **Chapter Ten** converts those classifications into proportionate standing effects, including competency clearances and recognition on the contribution track and standing locks, correction, and remedy on the violation track.
 - **Chapter Eleven** applies only after Chapter Nine has assigned a high-level violation. It decides whether the conduct independently meets the criteria for a final anti-constitutional-misconduct designation, after due-process safeguards.
@@ -395,7 +395,7 @@ Each step below states what the chapter owns and what it produces, filling in th
 **Chapter Eight — [System alignment certification](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)**
 
 - **What it owns:** Ensures systems with material impact stay constitutionally aligned.
-  - Before a system that materially affects sentients is recognized or relied on at scale, evidence must be gathered and reviewed under forum supervision.
+  - Before a system that materially affects sentients is certified or relied on at scale, evidence must be gathered and reviewed under forum supervision.
   - The review must cover:
     - whether the system respects survival essentials;
     - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) resource allocation and dependency stewardship — including [Proportionate Cross-System Support](../../core_05_band_continuity.md#proportionate-cross-system-support) where shared-infrastructure reliance is materially at issue;
@@ -404,7 +404,7 @@ Each step below states what the chapter owns and what it produces, filling in th
     - other constitutional floors.
   - Sentients with standing must be able to challenge the result.
   - High-risk systems must be recertified on a regular schedule. Certification is never permanent.
-- **What it produces:** A **system alignment certification record** — a bounded, contestable answer to whether that system is aligned enough to recognize, continue relying on, deploy, or release from conditions *right now*, within a stated scope and time window.
+- **What it produces:** A **system alignment certification record** — a bounded, contestable answer to whether that system is aligned enough to certify, continue relying on, deploy, or release from conditions *right now*, within a stated scope and time window.
 
 **Chapter Nine — [Standing measurement](../../core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement)**
 

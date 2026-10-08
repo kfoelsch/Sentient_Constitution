@@ -366,10 +366,10 @@ These rules shape how a lock or safeguard is attached under [§5.1 Definition an
 <a id="54-transition-exception-misaligned-rewards"></a>
 - **Transition exception:** During approved transition phases under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-part-a-system-alignment-certification--evaluation), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
   - operation stays within a **documented transition plan** and published [gate criteria](core_05_band_oversight.md#gate-criteria) under **Article XXVIII** (*Transition Governance, Continuity, and Re-Baselining*);
-  - the system is proceeding toward [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) on a published cadence, including **conditional** or **deferred recognition** where Chapter Eight allows; and
+  - the system is proceeding toward [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) on a published cadence, including **conditional** or **deferred certification** where Chapter Eight allows; and
   - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved transition scope, or using transition status to evade certification, correction, or protected reporting.
 
-  The exception does **not** apply where verified anti-constitutional conduct, knowing concealment, operation outside approved transition scope, failed or exceeded transition milestones, or a certification record — including **conditional recognition** — documents material misalignment or misaligned reward pathways.
+  The exception does **not** apply where verified anti-constitutional conduct, knowing concealment, operation outside approved transition scope, failed or exceeded transition milestones, or a certification record — including **conditional certification** — documents material misalignment or misaligned reward pathways.
 - **Review route and reassessment:**
   - The record must show how the system was abused.
   - The record must show what the sentient knew.
@@ -500,7 +500,7 @@ These locks are mandatory when their verified trigger is met. Each must be recor
 - **Named pathway:**
   - Direct or indirect influence over Class A/B/C systems.
   - Constitutional forums.
-  - Alignment recognition.
+  - Alignment certification.
   - Critical-system stewardship.
   - Audit, evidence, safety, access-continuity, investigation, enforcement, restitution, and protected-reporting pathways.
   - Appointment, budget, ownership, voting, procurement, standards, ranking, access-allocation, model-governance, or policy authority affecting those functions.

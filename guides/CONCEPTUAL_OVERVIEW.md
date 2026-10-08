@@ -960,7 +960,7 @@ These are **six families with different responsibilities**. The boxes identify t
 
 The **Constitutional decision review panel** is shown inside the Constitutional family because it is a limited review process for manifest constitutional error, not a seventh forum family or a general appellate tier.
 
-The families also work together. In **system alignment certification**, Integrity leads official recognition, Technical Forum Domains supply specifications and evidence standards, and Environment supplies the required environmental component review where material. A mixed matter ordinarily has one lead and one record, with component questions referred to their proper owners. [Chapter Twelve §§2–3](../core_12_forum.md#2-default-venue-and-primary-stakes) describes these connections.
+The families also work together. In **system alignment certification**, Integrity leads official certification, Technical Forum Domains supply specifications and evidence standards, and Environment supplies the required environmental component review where material. A mixed matter ordinarily has one lead and one record, with component questions referred to their proper owners. [Chapter Twelve §§2–3](../core_12_forum.md#2-default-venue-and-primary-stakes) describes these connections.
 
 Independence applies to reviewers themselves. A forum cannot be the sole final judge of a material challenge to its own integrity; [coordination and backup routing](../core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) provide other review paths. Timeliness and interim protection apply while routing is resolved. These safeguards are shared across the families, rather than another rung above them.
 

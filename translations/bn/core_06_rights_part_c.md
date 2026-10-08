@@ -123,7 +123,7 @@ flowchart TB
 - কীভাবে তাকে চ্যালেঞ্জ করতে হয়;
 - সমস্যাগুলো কীভাবে ঠিক হয়।
 
-ব্যবস্থা **অনুচ্ছেদ XIII**-এর (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) গুরুত্ব-সীমা পূরণ করলে, প্রত্যয়নের মধ্যে [অধ্যায় আট §4.8.6 বিশ্বাসযোগ্যতা ও ব্যবস্থা-নির্ভরতার অখণ্ডতা মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation) অনুসারে বিশ্বাসযোগ্যতার পর্যালোচনাও থাকবে।
+ব্যবস্থা **অনুচ্ছেদ XIII**-এর (*নির্ভরযোগ্য ও বিশ্বাসযোগ্য ব্যবস্থার অধিকার*) গুরুত্ব-সীমা পূরণ করলে, প্রত্যয়নের মধ্যে [অধ্যায় আট §3.8.6 বিশ্বাসযোগ্যতা ও ব্যবস্থা-নির্ভরতার অখণ্ডতা মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) অনুসারে বিশ্বাসযোগ্যতার পর্যালোচনাও থাকবে।
 
 **আপত্তি জানানোর সুযোগ সংজ্ঞের দিক থেকে ব্যবস্থাকে সৎ রাখে:** প্রত্যয়ন কোনো ব্যবস্থাকে যাচাই করে, কিন্তু তার বিষয়ে চূড়ান্ত কথা বলে না। ব্যবস্থায় প্রভাবিত প্রত্যেক সংজ্ঞের থাকে:
 
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), এবং [অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 স্থিতিস্থাপকতা ও স্ব-নিরাময় নকশা](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [অধ্যায় এক §13.3 এড়ানো সম্ভব এমন বোঝা কমানো](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -715,7 +715,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), এবং [অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 আস্থা](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -789,7 +789,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 জ্ঞানতাত্ত্বিক প্রকাশ-সংক্রান্ত সীমাবদ্ধতা](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -941,7 +941,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §18 তত্ত্বাবধানের শৃঙ্খলার অধীনে শাসন](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)।
 
 </details>
 
@@ -1050,7 +1050,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
 
 </details>
 
@@ -1086,7 +1086,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বাণিজ্য-বিনিময় নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), এবং [অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 মূল বাণিজ্য-বিনিময় নীতি](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), এবং [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -1120,7 +1120,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §4 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতি: অধ্যায় এক [§5 সত্য](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [অধ্যায় আট §3 সমগ্র-ব্যবস্থা প্রত্যয়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [অধ্যায় এক §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
 
 </details>
 
@@ -1179,7 +1179,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [অষ্টম অধ্যায় §4 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [প্রথম অধ্যায় §7 স্বাধীনতা](core_01_a_values_principles.md#7-freedom-bounded-agency), এবং [অষ্টম অধ্যায় §3 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)।
 
 </details>
 
@@ -1247,7 +1247,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">অনুসরণ</span></strong></summary>
 
-- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অষ্টম অধ্যায় §4 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), এবং [প্রথম অধ্যায় §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
+- ঊর্ধ্বতন ভিত্তি: নীতিমালা: প্রথম অধ্যায় [§4 নিরাপত্তা](core_01_a_values_principles.md#4-safety-harm-constraint), [অষ্টম অধ্যায় §3 সামগ্রিক ব্যবস্থা সনদায়ন মূল্যায়ন](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), এবং [প্রথম অধ্যায় §20 সমন্বিত প্রয়োগ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)।
 
 </details>
 

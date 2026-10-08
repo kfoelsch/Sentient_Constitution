@@ -124,7 +124,7 @@ flowchart TB
 - كيفية الطعن فيه؛
 - كيفية إصلاح المشكلات.
 
-إذا بلغ النظام عتبة الأهمية في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*)، تشمل الشهادة أيضًا مراجعة للجدارة بالثقة بموجب [الفصل الثامن §4.8.6 تقييم الجدارة بالثقة ونزاهة الاعتماد على النظام](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
+إذا بلغ النظام عتبة الأهمية في **المادة XIII** (*الحق في أنظمة موثوقة وجديرة بالثقة*)، تشمل الشهادة أيضًا مراجعة للجدارة بالثقة بموجب [الفصل الثامن §3.8.6 تقييم الجدارة بالثقة ونزاهة الاعتماد على النظام](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **تحافظ قابلية الطعن على نزاهة النظام من جانب الكائن الواعي:** تفحص الشهادة النظام، لكنها لا تكون الكلمة الأخيرة فيه. ويحتفظ كل كائن واعٍ يتأثر بالنظام بما يلي:
 
@@ -371,7 +371,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [10 المرونة وتصميم التعافي الذاتي](core_01_a_values_principles.md#10-resilience-and-self-healing-design)، [الفصل الأول §13.3 تقليل الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، و[الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [10 المرونة وتصميم التعافي الذاتي](core_01_a_values_principles.md#10-resilience-and-self-healing-design)، [الفصل الأول §13.3 تقليل الأعباء الممكن تجنبها](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، و[الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -729,7 +729,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و[الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§6 الثقة](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، و[الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -805,7 +805,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 قيود الإفصاح المعرفي](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -960,7 +960,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الرعاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الرعاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1072,7 +1072,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1109,7 +1109,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1144,7 +1144,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المرجع الأعلى: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1205,7 +1205,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، و[الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1275,7 +1275,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [الفصل الثامن §4 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- المرجع الأعلى: المبادئ: الفصل الأول [§4 السلامة](core_01_a_values_principles.md#4-safety-harm-constraint)، [الفصل الثامن §3 تقييم الشهادة للنظام ككل](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

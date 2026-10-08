@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), and [第七章 §4 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), and [第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [第七章 §4 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 認識的開示の制約](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), and [第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -341,7 +341,7 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §4 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -470,7 +470,7 @@ Procedural detail for **Article II**（《物質の責務ある管理と耐久�
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §4 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 上流： 原則： 第一章 [§3.1 安全](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - あわせて読む： [Article XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*Portability Rights*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — Information types and handling**; **CJS-3.17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.18** (*data-retention and lifecycle-integrity terms*); [第一章 §11.6 承継者の責任と形式構造による逃避の禁止](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [第九章 §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) and [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -793,7 +793,7 @@ Those requirements protect shared infrastructureとsystems that depend on it fro
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [第七章 §4 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), and [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- 上流： 原則： 第一章 [§3.2 真理](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§10 責務ある管理の規律のもとでの統治](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - あわせて読む： 継続 measurement family (*依存 and resource flows as constitutional measurement*); [憲法四元](core_00_preamble.md#constitutional-tetrad) — **oversight** through transparent dependency maps and auditable resource-flow records, **participation** in contestable review under **Article XV-A** (*Auditability and Observable Evidence*); [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄** (visible cost-and-benefit allocation) and **継続** (durable dependency visibility across changing systems).
 - 下流： [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) and [第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where systems allocate, route, fund, or extract from shared infrastructure or foundational dependencies; **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*Resource allocation and funding stewardship*), and **CS-8** (*Adaptive sustainability and ecosystem resilience*).
 
@@ -825,7 +825,7 @@ Those requirements protect shared infrastructureとsystems that depend on it fro
 <details>
 <summary><strong><span style="color: #2563eb;">追跡</span></strong></summary>
 
-- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §4 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 上流： 原則： 第一章 [§2 基礎目標：福祉](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 中核の取引原則](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), and [第七章 §3 システム全体の認証評価](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - あわせて読む： [*統治アーキテクチャ、監督、依存、分散、集中、市場構造、退出経路の誠実性*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (joint invocation where concentration, oversight, dependency, governing-authority structure, or incentive routing intersect **§5** / **§5**と*Concentration-threshold interaction* discipline in the operative text below).
 - あわせて読む： [憲法四元](core_00_preamble.md#constitutional-tetrad) — **participation** in challenge and contest pathways, **oversight** and audit, **accountability** and corrective review, **timeliness** under **Article XXIV-C**（《適時の解決と遅延防止の床》）; [二つの憲法上の目的](core_00_preamble.md#two-constitutional-aims) — **繁栄** (cross-system fairness and non-extraction) and **継続** (long-term sustainability and ecosystem funding).
 - 下流： [システム整合認証](core_05_band_continuity.md#system-alignment-certification-constitutional) and [第七章](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification) where cross-system fairness, ecosystem funding, or persistent extraction from shared infrastructure is 実質的に at issue.

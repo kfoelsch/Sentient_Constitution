@@ -58,7 +58,7 @@
 - సంచాలక కొలత స్థాయిలు అధ్యాయం ఐదు నిర్వచన ఇళ్ళలో ఉంటాయి — చూడండి [రాజ్యాంగ సమర్థత](core_05_band_continuity.md#constitutional-efficiency), [నివారించదగిన భారం](core_05_band_continuity.md#avoidable-burden), [ఉత్పాదక సామర్థ్యం](core_05_band_continuity.md#productive-capacity-constitutional) మరియు [భారం-తగ్గింపు కర్తవ్యం](core_05_band_continuity.md#burden-reduction-duty-constitutional).
 - పనితీరు లక్ష్యాలు, బహుమతులు, వనరు కొలతలు రాజ్యాంగ ఫలితాలకు అనుసరణీయంగా ఉన్నంతవరకు మాత్రమే చెల్లుబాటు.
 - అవి రాజ్యాంగ సమర్థత, [ఉత్పాదక సామర్థ్యం](core_05_band_continuity.md#productive-capacity-constitutional), లేదా హక్కుల నేల అనుసరణను భర్తీ చేయలేవు.
-- మొత్తం-వ్యవస్థ పనితీరు భౌతికంగా పరిధిలో ఉన్న చోట [అధ్యాయం ఏడు §4 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)తో చదవండి.
+- మొత్తం-వ్యవస్థ పనితీరు భౌతికంగా పరిధిలో ఉన్న చోట [అధ్యాయం ఏడు §3 మొత్తం-వ్యవస్థ ధృవీకరణ అంచనా](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)తో చదవండి.
 
 ---
 

@@ -269,7 +269,7 @@ Regras de governança, mecanismos de participação, modelos de ponderação e e
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: [Capítulo Um §18.4 Justificação contínua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Capítulo Um [§3 Objetivo fundamental: bem-estar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Capítulo Oito §4 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) e [Capítulo Um §14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Antecedentes: Princípios: [Capítulo Um §18.4 Justificação contínua](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Capítulo Um [§3 Objetivo fundamental: bem-estar](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Capítulo Oito §3 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [Capítulo Um §14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -300,7 +300,7 @@ Este Artigo estabelece a revisão periódica e acelerada da governança:
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Oito §4 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) e [Capítulo Um §14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Antecedentes: Princípios: Capítulo Um [§5 Verdade](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Capítulo Oito §3 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) e [Capítulo Um §14 Proibição de sobreposição absoluta](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -366,7 +366,7 @@ A governança transitória existe para garantir continuidade e evitar regressõe
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Oito §4 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [Capítulo Dez §5.4](core_10_standing_integration.md#54-special-violation-rules) (*este Artigo limita, durante a transição, a perda e a comunicação de recompensas desalinhadas*); [Capítulo Oito — Certificação de alinhamento do sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Princípios centrais de ponderação](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) e [Capítulo Oito §3 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Capítulo Dez §5.4](core_10_standing_integration.md#54-special-violation-rules) (*este Artigo limita, durante a transição, a perda e a comunicação de recompensas desalinhadas*); [Capítulo Oito — Certificação de alinhamento do sistema](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -523,7 +523,7 @@ Este Artigo estabelece rotas de saída em caso de falha, reajuste da linha de ba
 <details>
 <summary><strong><span style="color: #2563eb;">Rastreabilidade</span></strong></summary>
 
-- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Um §13.1.5 Procedimento para conflitos entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) e [Capítulo Oito §4 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Antecedentes: Princípios: Capítulo Um [§4 Segurança](core_01_a_values_principles.md#4-safety-harm-constraint), [Capítulo Um §13.1.5 Procedimento para conflitos entre direitos](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) e [Capítulo Oito §3 Avaliação de certificação de todo o sistema](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Leitura conjunta: **Artigo III-A** (*Sobrevivência*); **Artigo XIII** (*Direito a sistemas confiáveis e fidedignos*); **Artigo XI-G** (*Limite de dano coletivo e interface de aplicação*); **Capítulo Nove**; **Capítulo Um**, incluindo §6 sobre procedimento para conflitos entre direitos; a **estrutura padrão de restrições** no início do Capítulo Seis (*interface de posse e reparação*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*bens não conformes, apreensão, incentivos voluntários*) até **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Governança transitória e evolução institucional*).
 
 </details>

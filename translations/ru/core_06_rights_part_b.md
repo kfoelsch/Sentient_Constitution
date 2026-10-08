@@ -218,7 +218,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
 - Основания: принципы Главы Первой [§3.1 Справедливость](core_01_a_values_principles.md#31-fairness), [§7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Основные принципы разрешения компромиссов](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) и [§13.1.5 Процедура коллизии прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- Последствия: семейство показателей участия (*содержательная справедливость, использование защищённых признаков как заместителей и различное воздействие*); [Глава Восемь §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*оценка недискриминации, если сертификация обусловливает классификацию, ранжирование, ценообразование, допуск или распределение бремени*); форумы, административные и правоприменительные процессы [Главы Двенадцать](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*обязанность при рассмотрении дел и в операционной деятельности*).
+- Последствия: семейство показателей участия (*содержательная справедливость, использование защищённых признаков как заместителей и различное воздействие*); [Глава Восемь §3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*оценка недискриминации, если сертификация обусловливает классификацию, ранжирование, ценообразование, допуск или распределение бремени*); форумы, административные и правоприменительные процессы [Главы Двенадцать](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*обязанность при рассмотрении дел и в операционной деятельности*).
 - Читать вместе с главой Пять: [Защищённые признаки](core_05_band_participation.md#protected-characteristics-constitutional), [Язык, культура и наследие](core_05_band_continuity.md#language-culture-and-heritage-constitutional) и [Коренное непрерывное существование](core_05_band_continuity.md#indigenous-continuity-constitutional) (*минимум прав, основанный на общине; соответствующие минимумы **Article VI-C** (Запрет дискриминации) и **Article I-A** (Экологические предпосылки и экологическая целостность)*) для вопросов коренного и территориального непрерывного существования; они направляются к [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*предпосылка целостности экосистем*) и [Главе Семнадцать](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*ограничения юрисдикции принимающего актора*).
 
 </details>
@@ -264,8 +264,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: Принципы: Глава первая [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Дисциплина ограничений](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 Доступность простого языка](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
-- Последствия: **Статья VI-A** (*Достоинство и равное моральное положение*) — минимум достоинства; **Статья VI-C** (*Недискриминация*) — недискриминация и полное включение в рассмотрение дел и операции; **Статья IV-A** (*Равный доступ к образованию*) — равный доступ к образованию (без дублирования: доступность, специфичная для образования, регулируется там; эта статья устанавливает сквозной Пол прав); **Статья X-B** (*Участие в управлении и право голоса*) — участие в управлении; **Статья XII** (*Участие заинтересованных сторон в системе, представительство и надлежащая процедура*) — участие заинтересованных сторон; **Статья XVI** (*Аудит, прозрачность и независимая проверка*) — независимая проверка; семейство показателей участия (*Доступность как конституционное измерение*); [Глава восьмая §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*оценка доступности, когда сертификация служит условием содержательного участия*).
+- Основания: Принципы: Глава первая [§3 Основополагающая цель: благополучие](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 Дисциплина ограничений](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 Доступность простого языка](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- Последствия: **Статья VI-A** (*Достоинство и равное моральное положение*) — минимум достоинства; **Статья VI-C** (*Недискриминация*) — недискриминация и полное включение в рассмотрение дел и операции; **Статья IV-A** (*Равный доступ к образованию*) — равный доступ к образованию (без дублирования: доступность, специфичная для образования, регулируется там; эта статья устанавливает сквозной Пол прав); **Статья X-B** (*Участие в управлении и право голоса*) — участие в управлении; **Статья XII** (*Участие заинтересованных сторон в системе, представительство и надлежащая процедура*) — участие заинтересованных сторон; **Статья XVI** (*Аудит, прозрачность и независимая проверка*) — независимая проверка; семейство показателей участия (*Доступность как конституционное измерение*); [Глава восьмая §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*оценка доступности, когда сертификация служит условием содержательного участия*).
 - Читать вместе с: Глава пятая: *Доступность*, *Защищённые признаки*, *Содержательная справедливость*, *Материальность*, *Зависимость*, *Значимая субъектность*. Сквозной принцип доступности: [Глава первая §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*Доступность простого языка*).
 
 </details>
@@ -1024,7 +1024,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Вышестоящие принципы: [Глава первая §5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Вышестоящие принципы: [Глава первая §5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Ограничения на раскрытие эпистемической информации](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1071,7 +1071,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Вышестоящие принципы: [Глава первая §5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Производительная способность (инструментальное благо)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Глава первая §13.3 Минимизация предотвратимого бремени](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Глава первая §18 Управление в рамках дисциплины ответственного управления](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Вышестоящие принципы: [Глава первая §5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 Производительная способность (инструментальное благо)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [Глава первая §13.3 Минимизация предотвратимого бремени](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Глава первая §18 Управление в рамках дисциплины ответственного управления](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Последующие нормы: трудовой и экономический минимум **Статьи III-C** (*Трудовой и экономический минимум*); образ по **Статье IX-A** (*Самостоятельное право на образ и репутацию*); данные опыта и производные данные по **Статье IX-B** (*Права на данные опыта и производные данные*); публикация по **Статье IX-C** (*Достоверная публикация и ограничения публикаций с высоким воздействием*); недопущение концентрации по **Главе первой §11** и механизм порога концентрации по **§13.1**.
 - Читать вместе с: [**Def.C1** *Трудовой и экономический минимум: оплата, организация, безопасные условия, досуг и творческий труд*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (совместное применение со **Статьями III-C** (*Трудовой и экономический минимум*), **III-D** (*Безопасные условия труда*) и **III-E** (*Отдых и восстановление*)), а также [**Def.C3** (*Информационная конфиденциальность*)](core_05_band_continuity.md#privacy-informational-cluster), если это имеет существенное значение.
 
@@ -1254,7 +1254,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Вышестоящие принципы: [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [Глава первая §13.1.5 Процедура разрешения конфликта прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) и [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Вышестоящие принципы: [Глава первая §7 Свобода](core_01_a_values_principles.md#7-freedom-bounded-agency), [Глава первая §13.1.5 Процедура разрешения конфликта прав](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) и [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1563,7 +1563,7 @@ flowchart TB
   - служить основанием для блокировки статуса, отказа или задержки допуска по компетенции либо ограничения установленного маршрута согласно **Chapter Ten** или **Article XIX** (*Standing and Participation Status*);
   - поддерживать признание проступка антиконституционным согласно [Chapter Eleven](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out);
   - сокращать права голоса в управлении, участия заинтересованных сторон, выдвижения кандидатур, занятия должностей, работы в форуме или отзыва согласно **Article X-B** (*Governance Participation and Voting Entitlement*) и **Chapter Thirteen**;
-  - учитываться против сертификации соответствия системы согласно [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest);
+  - учитываться против сертификации соответствия системы согласно [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest);
   - оправдывать наблюдение, внедрение, оценку угроз или накопление записей, уже запрещенные **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*); или
   - ставить в зависимость от этого жизненно необходимые средства, минимальные гарантии прав, занятость, обычную торговлю или доступ к оспариванию и возмещению.
 
@@ -1789,7 +1789,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Основания: принципы [Главы первой §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главы первой §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Главы первой §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application) и [Главы восьмой §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Основания: принципы [Главы первой §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Главы первой §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Главы первой §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application) и [Главы восьмой §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Читать вместе с: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — элемент **участия** (уровень участия заинтересованных сторон в системе); масштабирование по [material stake](core_00_preamble.md#material-stake); [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) и [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - Уровень: **Stakeholder System Participation (SSP)**. Отличается от санкционирования на уровне **Constitutional Contract Layer (CCL)**.
 
@@ -1836,7 +1836,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи</span></strong></summary>
 
-- Основания: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapter Eight §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основания: [Chapter One §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Chapter One §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1923,7 +1923,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Связи и основания</span></strong></summary>
 
-- Основания: Принципы: Глава первая [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Глава восьмая §4 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) и [Глава первая §18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Основания: Принципы: Глава первая [§5 Истина](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Глава восьмая §3 Оценка сертификации всей системы](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) и [Глава первая §18 Управление в условиях дисциплины попечительства](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - Читать вместе с: [Захват системы](core_05_band_continuity.md#system-capture); [Противодействие захвату](core_05_band_continuity.md#anti-capture); [Глава седьмая: Функциональная независимость и разделение обязанностей](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>

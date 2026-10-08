@@ -246,7 +246,7 @@
 <a id="32-standing-effects-at-first-certification"></a>
 #### 3.2 첫 인증에서의 궤적 효과
 
-체계가 아직 **첫** [체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)에 있고 아직 인정되지 않았다면 — 인정이 미뤄지거나 거절되는 곳을 포함 — 확인된 비준수는 일차로 제7장 아래의 **인증 결과**를 정한다. 그 결과는 조건부 인정, 미룬 인정, 비인정, 또는 견줄 수 있는 결과일 수 있다. 그 인증 기록은 사실이 받칠 때, 여전히 [제7장 §9](../../core_08_b_system_alignment_certification_record_process.md#9-relationship-to-standing) 아래 확인된 궤적 입력을 공급할 수 있다. 이 장은 이미 인증되어 돌아가는 체계가 받아야 하는 것과 같은 궤적 기록을 요구하지 않는다.
+체계가 아직 **첫** [체계 정합 인증](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)에 있고 아직 인정되지 않았다면 — 인정이 미뤄지거나 거절되는 곳을 포함 — 확인된 비준수는 일차로 제7장 아래의 **인증 결과**를 정한다. 그 결과는 조건부 인정, 미룬 인정, 비인정, 또는 견줄 수 있는 결과일 수 있다. 그 인증 기록은 사실이 받칠 때, 여전히 [제7장 §8](../../core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) 아래 확인된 궤적 입력을 공급할 수 있다. 이 장은 이미 인증되어 돌아가는 체계가 받아야 하는 것과 같은 궤적 기록을 요구하지 않는다.
 
 <a id="33-standing-effects-for-sentients-and-institutions"></a>
 #### 3.3 감지자와 제도에 대한 궤적 효과

@@ -59,14 +59,14 @@ This file is the systems implementation home for **CS-5** (*Design, testing, ver
 **What this file owns**
 
 - the systems-layer operational profile for design, testing, verification, environment separation, progressive deployment, crisis continuity exercises, self-healing path testing, and recertification regression;
-- engineering evidence readiness for forum recognition and lifecycle review.
+- engineering evidence readiness for forum certification and lifecycle review.
 
 **What this file does not own**
 
 - Rights Floors in **Article XVII** (*System Lifecycle, Environments, and Reversibility*), **Article XVIII** (*Innovation, Experimentation, and Creative Freedom*), and **Article XIII-F** (*Resilience and Self-Healing Baseline*) — this file implements those articles and does not replace or narrow them;
 - Chapter Five meanings (*Reversibility*; *Self-Healing*; *Emergency and Contingency*; *Force Majeure*);
 - shared operational detail in **CJS-3.19** (*graceful degradation and failure-mode integrity*), **CJS-3.20** (*reversibility and containment*), and **CJS-3.21** (*adversarial robustness and abuse resistance*);
-- process recognition mechanics in **CF-7.2** (*Constitutional alignment recognition and review*) and Chapter Eight;
+- process certification mechanics in **CF-7.2** (*Constitutional alignment certification and review*) and Chapter Eight;
 - user-reachable in-scope capability surfaces — those are in **[CS-5, Part A](cs_05_a_user_facing_capabilities.md#cs-5-part-a-user-facing-capability-surfaces)**.
 
 **Implements.** Sentient Constitution Chapter Six, **[Article XVII](../core_06_rights_part_c.md#article-xvii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*)** (*System Lifecycle, Environments, and Reversibility*), **[Article XVIII](../core_06_rights_part_c.md#article-xviii-innovation-experimentation-and-creative-freedom) (*Innovation, Experimentation, and Creative Freedom*)** (*Innovation, Experimentation, and Creative Freedom*), and **[Article XIII-F](../core_06_rights_part_c.md#article-xiii-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*)** (*Resilience and Self-Healing Baseline*), read with [Chapter One §10](../core_01_a_values_principles.md#10-resilience-and-self-healing-design) (*Resilience and Self-Healing Design*), Chapter Five, and **[Chapter Four](../core_04_burden_traceability_verification.md)** where evidence and verification claims are material.
@@ -75,7 +75,7 @@ This file supplies engineering and deployment profiles that implement, rather th
 Creating new systems, tools, and environments is an act of stewardship. New deployments must be designed for the holistic wellbeing of the constitutional community and must **not** introduce avoidable harm. Requirements in this file must be applied proportionally to system scope, impact, and dependency under **CS-3 — System classification and handling** and **CS-4 — Critical system stewardship**.
 Where this file is silent, Sentient Constitution Chapters Two through Five govern. Where this file and `corpus_joint_structure.md` conflict, the applicable requirement with the [Fullest Protective Effect](../core_05_band_integrative.md#fullest-protective-effect) governs.
 
-**Forum recognition and lifecycle review.** New systems with material impact, and existing systems whose scope, behavior, dependency, autonomy, incentive structure, or risk profile materially changes, must be prepared for official **constitutional alignment recognition or review** through the forum pathways in `core_12_forum.md` **Chapter Twelve** and [**CF-7.2**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md#cf-72-constitutional-alignment-recognition-and-review) (*Constitutional alignment recognition and review*). System owners must maintain evidence packages sufficient for the forum to evaluate scope, classification, testing, stakeholder impact, residual risk, remediation readiness, and ongoing monitoring. Where a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the evidence package must also support **Environment** forum environmental-alignment component review, including ecological baseline, lifecycle and resource-flow analysis, foreseeable failure modes, restoration or remediation plan, monitoring cadence, uncertainty, and contest path. Forum recognition is scope-bound and does **not** replace operator responsibility, CS-3 (*System classification machinery*) classification, CS-4 (*Critical system stewardship*) stewardship, **Article XVI-A** (*Auditability and Observable Evidence*) auditability, **Article XIII-A** (*Reliability and Trustworthiness Baseline*) challenge rights, or Environment forum authority over ecological merits. Process recognition mechanics live in CF-7.2 (*Constitutional alignment recognition and review*) and Chapter Eight; this file owns engineering evidence readiness.
+**Forum certification and lifecycle review.** New systems with material impact, and existing systems whose scope, behavior, dependency, autonomy, incentive structure, or risk profile materially changes, must be prepared for official **constitutional alignment certification or review** through the forum pathways in `core_12_forum.md` **Chapter Twelve** and [**CF-7.2**](../corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md#cf-72-constitutional-alignment-certification-and-review) (*Constitutional alignment certification and review*). System owners must maintain evidence packages sufficient for the forum to evaluate scope, classification, testing, stakeholder impact, residual risk, remediation readiness, and ongoing monitoring. Where a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the evidence package must also support **Environment** forum environmental-alignment component review, including ecological baseline, lifecycle and resource-flow analysis, foreseeable failure modes, restoration or remediation plan, monitoring cadence, uncertainty, and contest path. Forum certification is scope-bound and does **not** replace operator responsibility, CS-3 (*System classification machinery*) classification, CS-4 (*Critical system stewardship*) stewardship, **Article XVI-A** (*Auditability and Observable Evidence*) auditability, **Article XIII-A** (*Reliability and Trustworthiness Baseline*) challenge rights, or Environment forum authority over ecological merits. Process certification mechanics live in CF-7.2 (*Constitutional alignment certification and review*) and Chapter Eight; this file owns engineering evidence readiness.
 
 <a id="cs-5-2-personal-isolated-and-experimental-systems"></a>
 ## CS-5.2 Personal, isolated, and experimental systems
@@ -106,7 +106,7 @@ Rights-floor creative freedom, containment, disclosure, opt-in, and transition t
 
 The prohibition on claiming reduced lifecycle or sandbox obligations while exerting undisclosed or material external impact, and the consequence chain under **Articles XV**, **XVI-A**, **XIX-A**, and **XX-A**, are owned by **[Article XVII-C](../core_06_rights_part_c.md#article-xvii-c-misclassification-and-evasion-consequences) (*Misclassification and Evasion Consequences*)** (*Misclassification and Evasion Consequences*). This subsection does not restate that Article.
 
-**Systems-layer indicators (non-exhaustive):** concealed dependencies; concealed stakeholders; concealed risk exposure; **Class P** or "experimental" labeling used to evade CS-4 (*Critical system stewardship*) class-scaled assurance, CS-4 (*Critical system stewardship*) stewardship, or **§7** (*Non-experimental systems*) environment and promotion controls. Detection and evidence packaging for forum or certification review remain operator duties under *Forum recognition and lifecycle review* and the closing recertification block.
+**Systems-layer indicators (non-exhaustive):** concealed dependencies; concealed stakeholders; concealed risk exposure; **Class P** or "experimental" labeling used to evade CS-4 (*Critical system stewardship*) class-scaled assurance, CS-4 (*Critical system stewardship*) stewardship, or **§7** (*Non-experimental systems*) environment and promotion controls. Detection and evidence packaging for forum or certification review remain operator duties under *Forum certification and lifecycle review* and the closing recertification block.
 
 <a id="cs-5-5-transition-to-higher-impact-systems"></a>
 ## CS-5.5 Transition to higher-impact systems
@@ -159,7 +159,7 @@ Systems that do not qualify under **Articles XVIII-A** and **XVIII-B** (and **§
 
 - Monitoring alone is not a complete audit. ACA detections count as audit evidence only where they meet the independence, reconstructability, and verification floors above.
 - ACA does not replace periodic audits, System Classification Record audits, System Data Types Record audits, or certification, and certification does not replace ACA.
-- Where ACA runs, its detections and trend metrics may be offered to the forum as evidence for the monitoring indicators stated on the certification record under [Chapter Eight Part B §8.1 Provisional and full recognition](../core_08_b_system_alignment_certification_record_process.md#81-provisional-and-full-recognition). Indicators may not be set so that movement toward misalignment cannot show.
+- Where ACA runs, its detections and trend metrics may be offered to the forum as evidence for the monitoring indicators stated on the certification record under [Chapter Eight Part B §7.2 Provisional and full certification](../core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification). Indicators may not be set so that movement toward misalignment cannot show.
 - ACA concerns systems. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XIX-B** (*Contestability and Proportional Restriction Limits*) and **Article XIX-C** (*Contribution, Competency Bars, and Named-Pathway Eligibility*), which this file does not own.
 
 **Open-source integrity:** Foundational designs and deployment logs should be transparent and accessible to the constitutional community. That access supports auditability and meaningful consent. Avoid black-box systems that bypass consent.
@@ -299,7 +299,7 @@ This subsection is an operational profile. It does not create rights and must no
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Eight §7 System Certification Record](../core_08_b_system_alignment_certification_record_process.md#7-system-certification-record) (*record contents*); [Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*certification verification hook*); **CS-3 — System classification and handling** (*class scaling*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*) (*adversarial robustness and abuse-resistance terms*, including regression and hardening cycle obligations).
+- Read with: [Chapter Eight §6 System Certification Record](../core_08_b_system_alignment_certification_record_process.md#6-system-certification-record) (*record contents*); [Chapter Eight §2 System Class Evaluation](../core_08_a_system_alignment_certification_evaluation.md#2-system-class-evaluation) (*certification verification hook*); **CS-3 — System classification and handling** (*class scaling*); **CJS-3.21** (*Continuity: adversarial robustness and abuse-resistance terms*) (*adversarial robustness and abuse-resistance terms*, including regression and hardening cycle obligations).
 
 </details>
 
@@ -316,9 +316,9 @@ For **Class A**, **Class B**, and **Class C** systems, regression testing on eac
 
 For **Class L** and **Class P** systems where recertification applies, regression depth remains proportionate under **CS-3 — System classification and handling**, but recertification without regression coverage where feasible is a certification defect.
 
-**Initial recognition** may rely on pre-deployment evidence prepared under this file, including:
+**Initial certification** may rely on pre-deployment evidence prepared under this file, including:
 
-- **Forum recognition and lifecycle review:** evidence packages for scope, classification, testing, residual risk, remediation readiness, and monitoring;
+- **Forum certification and lifecycle review:** evidence packages for scope, classification, testing, residual risk, remediation readiness, and monitoring;
 - **Pre-deployment stress testing;**
 - **Development and test environments;**
 - **Progressive deployment and escalation;**
@@ -329,7 +329,7 @@ For **Class A** and **Class B** systems, that evidence must also cover:
 - **Recovery-path testing and verification;** and
 - remediated **Exercises and drills** findings where this file requires them.
 
-**Each later recertification** must rerun or extend regression coverage for material changes since the prior record, read with *Forum recognition and lifecycle review* (ongoing alignment review), *Root cause analysis*, and the requirement to validate corrective measures before deployment.
+**Each later recertification** must rerun or extend regression coverage for material changes since the prior record, read with *Forum certification and lifecycle review* (ongoing alignment review), *Root cause analysis*, and the requirement to validate corrective measures before deployment.
 
 Missing regression testing, stale results, unfixed regressions, or material fixes accepted without regression confirmation where feasible must be treated as certification defects.
 

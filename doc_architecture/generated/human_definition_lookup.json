@@ -89,7 +89,7 @@
       "file": "core_05_band_continuity.md",
       "anchor": "#system-alignment-certification-constitutional",
       "title": "System Alignment Certification",
-      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
+      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and status-granting — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
       "href": "../../core_05_band_continuity.md#system-alignment-certification"
     },
     {
@@ -117,7 +117,7 @@
       "href": "../../core_12_forum.md#chapter-twelve-forums-and-jurisdiction"
     }
   ],
-  "term_count": 258,
+  "term_count": 260,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -778,11 +778,11 @@
       "href": "../../core_05_band_participation.md#freedom-bounded-agency"
     },
     {
-      "term": "Full Recognition",
+      "term": "Full Certification",
       "file": "core_05_band_continuity.md",
-      "anchor": "#full-recognition",
-      "plain_terms": "**full recognition** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.",
-      "href": "../../core_05_band_continuity.md#full-recognition"
+      "anchor": "#full-certification",
+      "plain_terms": "**full certification** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.",
+      "href": "../../core_05_band_continuity.md#full-certification"
     },
     {
       "term": "Fullest Protective Effect",
@@ -958,6 +958,13 @@
       "anchor": "#instantiation-consent-constitutional",
       "plain_terms": "if you build or spin up a new sentient — synthetically, by hybrid derivation, or under operator or institutional control — you need real early-care consent and best-interest protection. Getting pregnant and having a child, planned or not, is not an Instantiation Consent offense. A terms-of-service click by the creator still does not count as the new sentient's consent.",
       "href": "../../core_05_band_participation.md#instantiation-consent"
+    },
+    {
+      "term": "Institution",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#institution",
+      "plain_terms": "an **Institution** is a lasting holder of authority, such as an office, agency, organization, or forum. It keeps its mandate when its occupants change. What counts is what it actually decides and who answers for it, not what it calls itself or how it is incorporated.",
+      "href": "../../core_05_band_continuity.md#institution"
     },
     {
       "term": "Institutional Development",
@@ -1289,6 +1296,13 @@
       "href": "../../core_05_band_participation.md#procedural-fairness"
     },
     {
+      "term": "Process",
+      "file": "core_05_band_continuity.md",
+      "anchor": "#process",
+      "plain_terms": "a **Process** is a repeatable way a duty actually gets carried out: the steps, decisions, records, deadlines, and handoffs. It is judged as part of the system it runs in. It does not get its own class or its own certification.",
+      "href": "../../core_05_band_continuity.md#process"
+    },
+    {
       "term": "Productive Capacity",
       "file": "core_05_band_continuity.md",
       "anchor": "#productive-capacity-constitutional",
@@ -1359,11 +1373,11 @@
       "href": "../../core_05_band_accountability.md#protected-reporting-retaliation-and-access-interference"
     },
     {
-      "term": "Provisional Recognition",
+      "term": "Provisional Certification",
       "file": "core_05_band_continuity.md",
-      "anchor": "#provisional-recognition",
-      "plain_terms": "**provisional recognition** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full recognition.",
-      "href": "../../core_05_band_continuity.md#provisional-recognition"
+      "anchor": "#provisional-certification",
+      "plain_terms": "**provisional certification** is the closely watched status for a system that is new, or that has just failed a check. It is re-checked on a short interval until it has earned the longer-interval status of full certification.",
+      "href": "../../core_05_band_continuity.md#provisional-certification"
     },
     {
       "term": "Proxy Divergence",
@@ -1719,7 +1733,7 @@
       "term": "System Alignment Certification",
       "file": "core_05_band_continuity.md",
       "anchor": "#system-alignment-certification-constitutional",
-      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and recognition-bearing — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
+      "plain_terms": "**system alignment certification** (non-operative shorthand: **SAC**) is the forum-supervised check that a system is actually aligned with constitutional outcomes before sentients rely on it at scale — including checks that critical Rights Floors such as food, water, and shelter are not quietly defeated by how the system is built, classified, or operated. Under the **oversight** Tetrad leg, oversight requires auditing; SAC is one especially large, high-stakes audit process among others — forum-supervised, multi-domain, and status-granting — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](../../core_05_band_oversight.md#auditability), and sibling audit modes remain).",
       "href": "../../core_05_band_continuity.md#system-alignment-certification"
     },
     {

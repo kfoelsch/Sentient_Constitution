@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§2 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [제7장 §4 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§2 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [제7장 §4 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 인식 공개 제약](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제7장 §4 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제7장 §4 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§3.1 안전](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 함께 읽기: [제 XIX-A조](core_06_rights_part_c.md#article-xix-a-portability-rights) (*이식권*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — 정보 유형과 취급**; **CJS-3.17** (*상호운용, 이식, 출구 완전성 조건*)과 **CJS-3.18** (*데이터 보존과 수명주기 완전성 조건*); [제1장 §11.6 승계 책임과 형식 구조 비탈출](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [제9장 §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding)과 [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [제7장 §4 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- 상류: 원칙: 제1장 [§3.2 진실](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 책임 있는 관리 규율 아래 거버넌스](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - 함께 읽기: 연속 측정 가족 (*헌법 측정으로서의 의존과 자원 흐름*); [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 투명한 의존 지도와 감사 가능한 자원 흐름 기록을 통한 **감독**, **제 XV-A조** (*감사 가능성과 관찰 가능한 증거*) 아래 다툴 수 있는 검토에서의 **참여**; [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** (보이는 비용–편익 배분)과 **연속** (바뀌는 체계를 가로지른 오래가는 의존 가시성).
 - 하류: 체계가 공유 기반시설이나 기초 의존에서 배분, 라우팅, 자금, 또는 추출하는 곳의 [체계 정합 인증](core_05_band_continuity.md#system-alignment-certification-constitutional)과 [제7장](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*자원 배분과 자금의 책임 있는 관리*), **CS-8** (*적응 지속가능성과 생태계 회복력*).
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상류: 원칙: 제1장 [§2 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제7장 §4 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상류: 원칙: 제1장 [§2 기초 목표: 복지](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 핵심 교환 원칙](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 함께 읽기: [*거버넌스 구조, 감독, 의존, 분권, 집중, 시장 구조, 출구 경로 완전성*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (집중, 감독, 의존, 통치 권위 구조, 또는 유인 라우팅이 아래 운영 텍스트의 **§5** / **§5**와 *집중 문턱 상호작용* 규율과 교차하는 곳의 공동 호출).
 - 함께 읽기: [헌법 사원(四元)](core_00_preamble.md#constitutional-tetrad) — 다툼과 쟁의 경로에서의 **참여**, **감독**과 감사, **책무**와 교정 검토, **제 XXIV-C조** (*제때 해결과 지연 금지 바닥*) 아래 **적시성**; [두 헌법 목적](core_00_preamble.md#two-constitutional-aims) — **번영** (체계 간 공정과 추출 금지)과 **연속** (장기 지속가능성과 생태계 자금).
 - 하류: 체계 간 공정, 생태계 자금, 또는 공유 기반시설에서의 지속 추출이 실질로 쟁점인 곳의 [체계 정합 인증](core_05_band_continuity.md#system-alignment-certification-constitutional)과 [제7장](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).

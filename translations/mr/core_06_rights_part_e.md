@@ -268,7 +268,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: [अध्याय एक §18.4 सातत्यपूर्ण समर्थन](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); अध्याय एक [§3 मूलभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [अध्याय आठ §4 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- वरच्या स्तरावरील आधार: तत्त्वे: [अध्याय एक §18.4 सातत्यपूर्ण समर्थन](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); अध्याय एक [§3 मूलभूत उद्दिष्ट: कल्याण](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -300,7 +300,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §4 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §14 निरपेक्ष अधिलंघनास मनाई](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -367,7 +367,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य समतोल तत्त्वे](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), आणि [अध्याय आठ §4 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [अध्याय दहा §5.4](core_10_standing_integration.md#54-special-violation-rules) (*या लेखाद्वारे संक्रमणकाळात विसंगत बक्षिसांचे जप्ती व अहवाल देणे मर्यादित*); [अध्याय आठ—प्रणाली संरेखन प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य समतोल तत्त्वे](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), आणि [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [अध्याय दहा §5.4](core_10_standing_integration.md#54-special-violation-rules) (*या लेखाद्वारे संक्रमणकाळात विसंगत बक्षिसांचे जप्ती व अहवाल देणे मर्यादित*); [अध्याय आठ—प्रणाली संरेखन प्रमाणन](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -526,7 +526,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">संदर्भ-चिन्हे</span></strong></summary>
 
-- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §13.1.5 हक्क-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), आणि [अध्याय आठ §4 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- वरच्या स्तरावरील आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §13.1.5 हक्क-संघर्ष प्रक्रिया](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), आणि [अध्याय आठ §3 संपूर्ण प्रणाली प्रमाणन मूल्यमापन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - यासोबत वाचा: **लेख III-A** (*जगणे*); **लेख XIII** (*विश्वसनीय व भरोसेमंद प्रणालींचा अधिकार*); **लेख XI-G** (*सामूहिक हानीची सीमा व अंमलबजावणी-संपर्क*); **अध्याय नऊ**; **अध्याय एक**, त्यात §6 हक्क-संघर्ष प्रक्रिया; अध्याय सहाव्याच्या सुरुवातीची **पूर्वनिश्चित निर्बंध-रचना** (*ताबा व सुधारणा संपर्क*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*अनुपालक नसलेली मालमत्ता, जप्ती, स्वेच्छा प्रोत्साहने*) ते **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*संक्रमण शासन व संस्थात्मक उत्क्रांती*).
 
 </details>

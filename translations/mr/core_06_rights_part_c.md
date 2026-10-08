@@ -123,7 +123,7 @@ flowchart TB
 - तिला आव्हान कसे द्यायचे;
 - समस्या कशा दुरुस्त होतात.
 
-प्रणालीने **अनुच्छेद XIII** (*विश्वसनीय आणि भरवशाच्या प्रणालींचा हक्क*) मधील महत्त्वाची मर्यादा गाठल्यास, प्रमाणीकरणात [अध्याय आठ §4.8.6 विश्वसनीयता आणि प्रणाली-अवलंबित्व अखंडता मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation) अंतर्गत विश्वासार्हतेचे पुनरावलोकनही समाविष्ट असते.
+प्रणालीने **अनुच्छेद XIII** (*विश्वसनीय आणि भरवशाच्या प्रणालींचा हक्क*) मधील महत्त्वाची मर्यादा गाठल्यास, प्रमाणीकरणात [अध्याय आठ §3.8.6 विश्वसनीयता आणि प्रणाली-अवलंबित्व अखंडता मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) अंतर्गत विश्वासार्हतेचे पुनरावलोकनही समाविष्ट असते.
 
 **आव्हानक्षमता संज्ञांच्या बाजूने प्रणालीला प्रामाणिक ठेवते:** प्रमाणीकरण प्रणालीची तपासणी करते; त्यावर अंतिम शब्द त्याचा नसतो. प्रणालीमुळे प्रभावित प्रत्येक संज्ञाला पुढील हक्क कायम राहतात:
 
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 लवचिकता व स्व-उपचार रचना](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [अध्याय एक §13.3 टाळता येणारे ओझे कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), आणि [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 लवचिकता व स्व-उपचार रचना](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [अध्याय एक §13.3 टाळता येणारे ओझे कमी करणे](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), आणि [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -715,7 +715,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), आणि [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 विश्वास](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), आणि [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -789,7 +789,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानमीमांसक प्रकटीकरणाच्या मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), आणि [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ज्ञानमीमांसक प्रकटीकरणाच्या मर्यादा](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), आणि [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -939,7 +939,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §18 अभिरक्षण शिस्तीअंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §18 अभिरक्षण शिस्तीअंतर्गत शासन](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1048,7 +1048,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1084,7 +1084,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य तडजोड तत्त्वे](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), आणि [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 मुख्य तडजोड तत्त्वे](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), आणि [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1118,7 +1118,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- आधार: तत्त्वे: अध्याय एक [§5 सत्य](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1177,7 +1177,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), आणि [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय एक §7 स्वातंत्र्य](core_01_a_values_principles.md#7-freedom-bounded-agency), आणि [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1245,7 +1245,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">अनुसरण</span></strong></summary>
 
-- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §4 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), आणि [अध्याय एक §20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- आधार: तत्त्वे: अध्याय एक [§4 सुरक्षा](core_01_a_values_principles.md#4-safety-harm-constraint), [अध्याय आठ §3 संपूर्ण-प्रणाली प्रमाणीकरण मूल्यांकन](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), आणि [अध्याय एक §20 एकात्मिक अनुप्रयोग](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

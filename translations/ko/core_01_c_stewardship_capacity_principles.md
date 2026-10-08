@@ -42,7 +42,7 @@
 - 함께 읽기: [헌법의 사중 원칙](core_00_preamble.md#constitutional-tetrad) — **참여** 원칙(중대한 역할과 발언권; 일반 요건이며 [Stakeholder System Participation](core_05_band_participation.md#stakeholder-status-and-weight)에만 한정되지 않음), **감독** 원칙, **적시성** 원칙(선제적 시정 속도)에 관한 제1장의 주요 근거; [물질적 이해관계](core_00_preamble.md#material-stake)에 맞춘 수준 설정.
 - 함께 읽기: [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims) — **번영** 목표(참여, 행위 주체성, 교육 경로); **연속성** 목표(제도적 학습, 시정 역량, 지속 가능한 관리).
 - 선행 원칙: [3. 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint); [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity); [§9 공유 시스템 역량](core_01_a_values_principles.md#9-shared-system-capacity).
-- 후속 적용: [13. 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)([§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) 포함); [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [§19.1.3 관리 및 운영자 적용](#1913-stewardship-and-operator-application).
+- 후속 적용: [13. 헌법적 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process)([§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) 포함); [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [§19.1.3 관리 및 운영자 적용](#1913-stewardship-and-operator-application).
 - 후속 적용: [§19.1.4 역할 심화 및 물질적 책임 경로](#1914-role-depth-and-material-responsibility-pathways).
 - 후속 적용: [§7 자유(제약된 행위 주체성)](core_01_a_values_principles.md#7-freedom-bounded-agency). 이는 물질적 의존 아래에서도 결과를 수반하는 관리, 분산된 이해, 의미 있는 참여, 시정 역량이 실질적으로 유지되는 데 달려 있습니다.
 - 후속 적용: [제8장 — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)(*감독 아래 수행되는 특히 대규모 감사 절차 중 하나이며 감사의 유일한 근거는 아님*); [제9장 — 기여, 위반 및 지위 모델](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement)(*신뢰·역할·인정 자격에 미치는 지위 효과가 이 절의 원칙 차원 기반을 구현함*).
@@ -998,7 +998,7 @@ flowchart TB
 - 함께 읽기: [헌법적 사중요소](core_00_preamble.md#constitutional-tetrad) — 사중요소의 **포획** 규율을 주로 다루는 제1장의 조항(인센티브가 **참여**, **감독**, **책임성** 또는 **적시성**을 약화해서는 안 됨); [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 비례 적용.
 - 함께 읽기: 책임성 측정군(*인센티브 정렬과 대리 지표 무결성; 시장 구조와 이의 제기 가능성*).
 - 함께 읽기: [헌법의 두 가지 목표](core_00_preamble.md#two-constitutional-aims) — **연속성** 목표(단기 최적화와 포획에 맞선 지속 가능한 정렬); **번영** 목표(의미 있는 행위주체성을 보존하는 인센티브 구조).
-- 상위 연결: 원칙: [3. 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 인정, 강화 및 열망](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration), [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5 진실성](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 스튜어드십 심화](#16-stewardship-in-depth), 및 [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상위 연결: 원칙: [3. 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [§3.2 인정, 강화 및 열망](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration), [4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [5 진실성](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [6. 신뢰](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§16 스튜어드십 심화](#16-stewardship-in-depth), 및 [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 하위 연결: [§7 자유](core_01_a_values_principles.md#7-freedom-bounded-agency) 및 [§14 절대적 우선권 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하위 연결: [§13.3 피할 수 있는 부담의 최소화](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden); [제13장 §5 — 승인된 역할, 역량 개발 및 기여](core_13_governance.md#5-authorized-roles-competency-development-and-contribution); **[c또는pus_systems.md](corpus_systems.md), CS-4 — 핵심 시스템 스튜어드십**.
 - 하위 연결: 행위주체성, 참여, 인센티브 정렬, 정보 환경의 무결성, 당사자 적격 및 포획 방지 검토에 관한 권리 영역을 다음 장 전반에 걸쳐 다룬다: [제6장: 기본권](core_06_rights_part_a.md#chapter-six-foundational-rights); 특히 [제X조: 자기결정, 행위주체성 및 참여](core_06_rights_part_b.md#article-x-self-determination-agency-and-participation), [제XII조: 이해관계자의 시스템 참여, 대표성 및 적법 절차](core_06_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), [제XIII-D조: 인센티브 정렬 제약](core_06_rights_part_c.md#article-xiii-d-incentive-alignment-constraint), [제XV조: 정보 환경의 무결성](core_06_rights_part_c.md#article-xv-info-sphere-integrity), [제XIX조: 당사자 적격 및 참여 지위](core_06_rights_part_d.md#article-xix-standing-and-participation-status), 및 [제XXIV조: 헌법 해석, 검토 및 포획 방지 장치](core_06_rights_part_d.md#article-xxiv-constitutional-interpretation-review-and-anti-capture-safeguards).
@@ -1329,7 +1329,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 상위 항목: [§19 인센티브 정렬 및 시스템 포획](#19-incentive-alignment-and-system-capture)([§19.1 정렬 요건](#191-alignment-requirement) 포함); [제5장 *조건부 청구, 이벤트 계약 시장, 우연 게임 및 내부자 이점*](core_05_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage).
-- 하위 항목: [§19.3 불일치 탐지](#193-misalignment-detection); [§19.3.1 포획 상향 보고 발동 요건](#1931-capture-escalation-triggers); [§19.4 불일치 시정 및 포획 대응](#194-misalignment-correction-and-capture-response); [§13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); `corpus_systems.md`의 분류 및 관리 수준 조정; `corpus_institutions.md`의 이해상충 및 무결성 기대사항.
+- 하위 항목: [§19.3 불일치 탐지](#193-misalignment-detection); [§19.3.1 포획 상향 보고 발동 요건](#1931-capture-escalation-triggers); [§19.4 불일치 시정 및 포획 대응](#194-misalignment-correction-and-capture-response); [§13.2 인식론적 공개 제약](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints); [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); `corpus_systems.md`의 분류 및 관리 수준 조정; `corpus_institutions.md`의 이해상충 및 무결성 기대사항.
 - 함께 읽을 것: [두 가지 헌법적 목적](core_00_preamble.md#two-constitutional-aims) — **연속성** 목적 (조건부 결제가 중대한 영향을 미치는 곳에서 지속 가능하고 이의를 제기할 수 있는 해결 경로와 시스템 안정성을 확보한다).
 - 함께 읽을 것: [해결 경로 포획](core_05_band_accountability.md#capture-of-resolution-pathways), [강압과 조작](core_05_band_participation.md#coercion-and-manipulation), [이의제기 가능성](core_05_band_accountability.md#contestability); [내부자 이점](core_05_band_accountability.md#insider-advantage).
 - 하위 절 (읽기 순서): [§19.5.1 보상해서는 안 되는 것](#1951-what-may-not-be-rewarded) · [§19.5.2 결과를 누가 결정하는가](#1952-who-decides-outcomes) · [§19.5.3 시장 신호는 헌법적 증거가 아니다](#1953-market-signals-are-not-constitutional-proof) · [§19.5.4 비례적 통제와 이행 관리](#1954-proportionate-controls-and-implementation-custody).
@@ -1435,7 +1435,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
 - 함께 읽을 것: [필요성](core_05_band_accountability.md#necessity); [비례성](core_05_band_accountability.md#proportionality); [의존성](core_05_band_continuity.md#dependency).
-- 하위 항목: [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [corpus_systems.md](corpus_systems.md) (*실질적 영향을 미치는 시스템의 관리를 분류하고 규모에 맞게 조정*); [corpus_institutions.md](corpus_institutions.md) (*기관이 그러한 활동을 감독할 때 적용되는 이해상충 및 절차 규칙*).
+- 하위 항목: [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [corpus_systems.md](corpus_systems.md) (*실질적 영향을 미치는 시스템의 관리를 분류하고 규모에 맞게 조정*); [corpus_institutions.md](corpus_institutions.md) (*기관이 그러한 활동을 감독할 때 적용되는 이해상충 및 절차 규칙*).
 
 </details>
 
@@ -1454,7 +1454,7 @@ flowchart TB
   - [의존성](core_05_band_continuity.md#dependency) — 다른 이들이 시스템이나 그 결과에 얼마나 의존하는지;
   - 취약성 — 베팅하거나 영향을 받는 이들이 얼마나 쉽게 피해를 입을 수 있는지; 그리고
   - 시스템 안정성 — 실패가 시스템 밖으로 확산될 수 있는지.
-- **오용 여부를 시험한다:** [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)에 따라 시스템을 평가하며, 다음을 포함한다:
+- **오용 여부를 시험한다:** [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)에 따라 시스템을 평가하며, 다음을 포함한다:
   - 결과를 결정하는 사건에 영향을 주려는 행위자 간 공조; 그리고
   - 규모 역학 — 거래량, 참여 또는 노출이 커질 때 위험이 어떻게 변하는지.
 
@@ -1526,7 +1526,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 상위 근거: 원칙: [15. 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [1. 목적과 역할](core_01_a_values_principles.md#1-purpose-and-role), [§16 스튜어드십 심층 검토](#16-stewardship-in-depth), [13. 헌법 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [7. 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 및 [14. 절대적 우위 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 상위 근거: 원칙: [15. 헌법 해석](core_01_b_interaction_interpretation.md#15-constitutional-interpretation), [1. 목적과 역할](core_01_a_values_principles.md#1-purpose-and-role), [§16 스튜어드십 심층 검토](#16-stewardship-in-depth), [13. 헌법 충돌 해결 절차](core_01_b_interaction_interpretation.md#13-constitutional-collision-resolution-process), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [7. 자유](core_01_a_values_principles.md#7-freedom-bounded-agency), 및 [14. 절대적 우위 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - 하위 적용: 후속 장은 여기 연결된 제1장의 원칙에 따라 읽어야 한다. 여기에는 [헌법 4원 원칙](core_00_preamble.md#constitutional-tetrad), [두 가지 헌법적 목표](core_00_preamble.md#two-constitutional-aims), 그리고 [중대한 이해관계](core_00_preamble.md#material-stake)에 따른 단계화가 포함되며, 그 단계화는 [서문](core_00_preamble.md#preamble--foundational-requirements) 및 [§1 목적과 역할](core_01_a_values_principles.md#1-purpose-and-role)에서 정한다.
 - 하위 적용: [제6장: 기본권](core_06_rights_part_a.md#chapter-six-foundational-rights)은 이 장의 통합 가치 체계에 따라 읽어야 한다.
   - 제한된 해석, 공개 이유, 이의 제기, 외부 검토 및 권리 충돌 절차가 핵심적인 하위 적용 역할을 한다.

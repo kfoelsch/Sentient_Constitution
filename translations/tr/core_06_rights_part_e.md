@@ -266,7 +266,7 @@ Yönetişim kuralları, katılım mekanizmaları, ağırlıklandırma modelleri 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: [Birinci Bölüm §18.4 Süregelen Gerekçelendirme](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Birinci Bölüm [§3 Temel Amaç: Esenlik](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §14 Mutlak Üstünlük Tanıma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Üst dayanak: İlkeler: [Birinci Bölüm §18.4 Süregelen Gerekçelendirme](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); Birinci Bölüm [§3 Temel Amaç: Esenlik](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §14 Mutlak Üstünlük Tanıma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -297,7 +297,7 @@ Bu Madde, yönetişimin dönemsel ve hızlandırılmış incelemesini belirler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §14 Mutlak Üstünlük Tanıma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Üst dayanak: İlkeler: Birinci Bölüm [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §14 Mutlak Üstünlük Tanıma Yasağı](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -364,7 +364,7 @@ Geçiş yönetimi sürekliliği ve geriye gitmeme ilkesini güvence altına alma
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [Onuncu Bölüm §5.4](core_10_standing_integration.md#54-special-violation-rules) (*yanlış hizalanmış ödüllerden mahrum bırakma ve raporlama, bu Maddeyle geçiş sırasında sınırlandırılır*); [Sekizinci Bölüm — Sistem Uyum Sertifikasyonu](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [Onuncu Bölüm §5.4](core_10_standing_integration.md#54-special-violation-rules) (*yanlış hizalanmış ödüllerden mahrum bırakma ve raporlama, bu Maddeyle geçiş sırasında sınırlandırılır*); [Sekizinci Bölüm — Sistem Uyum Sertifikasyonu](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -523,7 +523,7 @@ Bu Madde, durmuş geçişlerde başarısızlık çıkış yollarını, yeniden t
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Üst dayanak: İlkeler: Birinci Bölüm [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §13.1.5 Hak Çatışması Usulü](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - Birlikte okuyun: **III-A. Madde** (*Hayatta Kalma*); **XIII. Madde** (*Güvenilir ve İtimat Edilebilir Sistemler Hakkı*); **XI-G. Madde** (*Kolektif Zarar Sınırı ve Uygulama Arayüzü*); **Dokuzuncu Bölüm**; Birinci Bölüm, §6 hak çatışması usulü dahil; Altıncı Bölümün başındaki **varsayılan kısıtlar bütünü** (*mülkiyet ve telafi arayüzü*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*uyumsuz mülk, el koyma, gönüllü teşvikler*) ile **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*Geçiş yönetişimi ve kurumsal evrim*).
 
 </details>

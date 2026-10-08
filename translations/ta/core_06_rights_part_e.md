@@ -267,7 +267,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">மேல்மூலக் குறிப்பு</span></strong></summary>
 
-- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §18.4 தொடர்ச்சியான நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); அத்தியாயம் ஒன்று [§3 அடிப்படை நோக்கம்: நலவாழ்வு](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: [அத்தியாயம் ஒன்று §18.4 தொடர்ச்சியான நியாயப்படுத்தல்](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); அத்தியாயம் ஒன்று [§3 அடிப்படை நோக்கம்: நலவாழ்வு](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -299,7 +299,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">மேல்மூலக் குறிப்பு</span></strong></summary>
 
-- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- மேல்நிலை ஆதாரங்கள்: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §14 முழுமையான மேலாதிக்கத் தடுப்பு](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மைய சமநிலைக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [அத்தியாயம் பத்து §5.4](core_10_standing_integration.md#54-special-violation-rules) (*ஒத்திசைவற்ற வெகுமதி பறிமுதலும் அறிக்கையிடலும் இடைமாற்றத்தில் இக்கட்டுரையால் வரையறுக்கப்படுகின்றன*); [அத்தியாயம் எட்டு — அமைப்பு ஒத்திசைவு சான்றளிப்பு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 மைய சமநிலைக் கோட்பாடுகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [அத்தியாயம் பத்து §5.4](core_10_standing_integration.md#54-special-violation-rules) (*ஒத்திசைவற்ற வெகுமதி பறிமுதலும் அறிக்கையிடலும் இடைமாற்றத்தில் இக்கட்டுரையால் வரையறுக்கப்படுகின்றன*); [அத்தியாயம் எட்டு — அமைப்பு ஒத்திசைவு சான்றளிப்பு](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -523,7 +523,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §13.1.5 உரிமை மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), மற்றும் [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்நிலை: கோட்பாடுகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §13.1.5 உரிமை மோதல் நடைமுறை](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - இதனுடன் வாசிக்க: **கட்டுரை III-A** (*உயிர்வாழ்வு*); **கட்டுரை XIII** (*நம்பகமான, உறுதியான அமைப்புகளுக்கான உரிமை*); **கட்டுரை XI-G** (*கூட்டுத் தீங்கு எல்லையும் அமலாக்க இடைமுகமும்*); **அத்தியாயம் ஒன்பது**; உரிமை மோதல் நடைமுறை §6 உட்பட **அத்தியாயம் ஒன்று**; அத்தியாயம் ஆறின் தொடக்கத்திலுள்ள **இயல்புநிலைக் கட்டுப்பாட்டு அடுக்கு** (*உடைமை மற்றும் சீரமைப்பு இடைமுகம்*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*இணங்காத சொத்து, பறிமுதல், தன்னார்வ ஊக்கங்கள்*) முதல் **CI-14.3** வரை](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*இடைமாற்ற ஆட்சியும் நிறுவனப் பரிணாமமும்*).
 
 </details>

@@ -259,7 +259,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)， 和 [第一章 §18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游：原则：第一章 [§6 信任](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 
 </details>
 
@@ -525,7 +525,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -556,7 +556,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -583,7 +583,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)， 和 [第一章 §18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
+- 上游： 原则： [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency), [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18 管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)。
 
 </details>
 
@@ -762,7 +762,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [第一章 §7 自由](core_01_a_values_principles.md#7-freedom-bounded-agency)， 和 [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 阅读： [第一章 §5.2 通俗语言可访问性（管理责任）](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 尽量减少可避免的负担](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)， 和 [第一章 C 部分 §16.1 分布式理解](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)。
 
 </details>
@@ -794,7 +794,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)， 和 [第一章 §18.5 模块化架构和依赖性规则](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)， 和 [第一章 §20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
+- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)， 和 [第一章 §18.5 模块化架构和依赖性规则](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)， 和 [第一章 §20 综合应用](core_01_c_stewardship_capacity_principles.md#20-integrated-application)。
 
 </details>
 
@@ -833,7 +833,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 阅读： [宪法四联体](core_00_preamble.md#constitutional-tetrad); [两个宪法目标](core_00_preamble.md#two-constitutional-aims) — **芊芊** 和 **连续性**; [可逆性](core_05_band_continuity.md#reversibility-constitutional), [风险](core_05_band_continuity.md#risk)， 和 [系统捕获](core_05_band_continuity.md#system-capture) 在 **第五章**。
 
 </details>
@@ -879,7 +879,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)， 和 [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 真相](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)， 和 [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 
@@ -912,7 +912,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">痕迹</span></strong></summary>
 
-- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第八章§4 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：原则：第一章 [§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)， 和 [第八章§3 全体系认证评价](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 
 </details>
 

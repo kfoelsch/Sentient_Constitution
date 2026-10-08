@@ -266,7 +266,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: [제1장 §18.4 지속적 정당화](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); 제1장 [§3 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [제1장 §14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 상위 근거: 원칙: [제1장 §18.4 지속적 정당화](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); 제1장 [§3 기본 목표: 웰빙](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -297,7 +297,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [제1장 §14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- 상위 근거: 원칙: 제1장 [§5 진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [제1장 §14 절대적 우선권 부여 금지](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -364,7 +364,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [제10장 §5.4](core_10_standing_integration.md#54-special-violation-rules)(*불일치 보상 박탈 및 보고는 이 조항에 따라 과도기 중 제한됨*); [제8장 — 시스템 정렬 인증](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 핵심 상충 조정 원칙](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [제10장 §5.4](core_10_standing_integration.md#54-special-violation-rules)(*불일치 보상 박탈 및 보고는 이 조항에 따라 과도기 중 제한됨*); [제8장 — 시스템 정렬 인증](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -523,7 +523,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">연결</span></strong></summary>
 
-- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [제8장 §4 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- 상위 근거: 원칙: 제1장 [§4 안전](core_01_a_values_principles.md#4-safety-harm-constraint), [제1장 §13.1.5 권리 충돌 절차](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test), [제8장 §3 전체 시스템 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - 함께 읽을 자료: **제3-A조**(*생존*); **제13조**(*신뢰할 수 있고 믿을 만한 시스템에 대한 권리*); **제11-G조**(*집단적 피해 경계와 집행 인터페이스*); **제9장**; §6 권리 충돌 절차를 포함하는 **제1장**; 제6장 서두의 **기본 제약 체계**(*점유와 시정의 인터페이스*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)(*비준수 재산, 압류, 자발적 유인*)부터 **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives)(*과도기 거버넌스와 기관 진화*).
 
 </details>

@@ -73,7 +73,7 @@ Technical specialist forums may:
   - validation quality and causal inference;
   - safety margins and standards conformance;
   - meta-analysis quality and conflicting findings;
-- publish and periodically revise, for use in system-alignment assessment and in **Integrity** forum recognition, validation, and recertification records:
+- publish and periodically revise, for use in system-alignment assessment and in **Integrity** forum certification, validation, and recertification records:
   - technical specifications;
   - measurement methods;
   - test protocols;

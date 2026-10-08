@@ -253,7 +253,7 @@ Le présent Article énonce les limites de contestabilité et de proportionnalit
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), et [Chapitre Un §18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fondement : Principes : Chapitre Un [§6 Confiance](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [Chapitre Un §18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -516,7 +516,7 @@ Les sentients et les systèmes dépendants ont droit à une sortie, une migratio
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -547,7 +547,7 @@ Le présent Article énonce le plancher de portabilité :
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -575,7 +575,7 @@ Le présent Article énonce les planchers d’interopérabilité réciproque et 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), et [Chapitre Un §18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Fondement : Principes : [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), et [Chapitre Un §18 Gouvernance sous discipline de gestion responsable](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -753,7 +753,7 @@ La discipline de gestion responsable de la complexité, de l’accès en langage
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Fondement : Principes : Chapitre Un [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapitre Un §7 Liberté](core_01_a_values_principles.md#7-freedom-bounded-agency) et [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - À lire avec : [Chapitre Un §5.2 Accessibilité en langage clair (devoir de gestion responsable)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 Réduction des charges évitables](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) et [Chapitre Un Partie C §16.1 Compréhension distribuée](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -786,7 +786,7 @@ Le présent Article énonce le plancher d’intelligibilité proportionnée :
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [Chapitre Un §18.5 Architecture modulaire et discipline des dépendances](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Fondement : Principes : Chapitre Un [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [Chapitre Huit §3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [Chapitre Un §18.5 Architecture modulaire et discipline des dépendances](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), et [Chapitre Un §20 Application intégrée](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -823,7 +823,7 @@ Le présent Article énonce les planchers applicables aux audits de complexité,
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et Chapitre huit [§4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et Chapitre huit [§3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - À lire avec : [Tétrade constitutionnelle](core_00_preamble.md#constitutional-tetrad) ; [Deux objectifs constitutionnels](core_00_preamble.md#two-constitutional-aims) — **Épanouissement** et **Continuité** ; [Réversibilité](core_05_band_continuity.md#reversibility-constitutional), [Risque](core_05_band_continuity.md#risk) et [Captation du système](core_05_band_continuity.md#system-capture) du **Chapitre cinq**.
 
 </details>
@@ -869,7 +869,7 @@ La rigueur diagnostique doit rester vérifiable et contestable. Elle doit être 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) et Chapitre huit [§4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Vérité](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) et Chapitre huit [§3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -902,7 +902,7 @@ Le présent Article établit les seuils de documentation et de contestation des 
 <details>
 <summary><strong><span style="color: #2563eb;">Traçabilité</span></strong></summary>
 
-- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et Chapitre huit [§4 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- En amont : Principes : Chapitre premier [§4 Sécurité](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Principes fondamentaux d’arbitrage](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) et Chapitre huit [§3 Évaluation de la certification de l’ensemble du système](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
