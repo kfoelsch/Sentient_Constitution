@@ -265,7 +265,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: [บทที่หนึ่ง §18.4 การให้เหตุผลรองรับอย่างต่อเนื่อง](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: สุขภาวะ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) และ [บทที่หนึ่ง §14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- หลักการต้นทาง: [บทที่หนึ่ง §18.4 การให้เหตุผลรองรับอย่างต่อเนื่อง](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification); บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: สุขภาวะ](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -296,7 +296,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) และ [บทที่หนึ่ง §14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- หลักการต้นทาง: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §14 ข้อห้ามการลบล้างโดยเด็ดขาด](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานสำหรับการชั่งน้ำหนักข้อแลกเปลี่ยน](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation); [บทที่สิบ §5.4](core_10_standing_integration.md#54-special-violation-rules) (*มาตรานี้จำกัดการริบผลตอบแทนที่ไม่สอดคล้องและการรายงานในช่วงเปลี่ยนผ่าน*); [บทที่แปด — การรับรองความสอดคล้องของระบบ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานสำหรับการชั่งน้ำหนักข้อแลกเปลี่ยน](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation); [บทที่สิบ §5.4](core_10_standing_integration.md#54-special-violation-rules) (*มาตรานี้จำกัดการริบผลตอบแทนที่ไม่สอดคล้องและการรายงานในช่วงเปลี่ยนผ่าน*); [บทที่แปด — การรับรองความสอดคล้องของระบบ](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -520,7 +520,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มา</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- หลักการต้นทาง: บทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - อ่านร่วมกับ: **มาตรา III-A** (*การอยู่รอด*); **มาตรา XIII** (*สิทธิในระบบที่เชื่อถือได้และไว้วางใจได้*); **มาตรา XI-G** (*ขอบเขตความเสียหายร่วมและส่วนเชื่อมต่อการบังคับใช้*); **บทที่เก้า**; **บทที่หนึ่ง** รวมถึงกระบวนการจัดการความขัดแย้งระหว่างสิทธิ §6; **ชุดข้อจำกัดเริ่มต้น** ที่ต้นบทที่หก (*ส่วนเชื่อมต่อด้านการครอบครองและการเยียวยา*); [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*ทรัพย์สินที่ไม่เป็นไปตามข้อกำหนด การยึด และแรงจูงใจโดยสมัครใจ*) ถึง **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*การกำกับดูแลช่วงเปลี่ยนผ่านและวิวัฒนาการสถาบัน*).
 
 </details>

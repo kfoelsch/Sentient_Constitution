@@ -253,7 +253,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§6 ความไว้วางใจ](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
 
 </details>
 
@@ -512,7 +512,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -542,7 +542,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -568,7 +568,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 การปกครองภายใต้วินัยการดูแลรับผิดชอบ](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
 
 </details>
 
@@ -742,7 +742,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 - อ่านร่วมกับ: [บทที่หนึ่ง §5.2 การเข้าถึงภาษาสามัญ (หน้าที่ในการดูแลรับผิดชอบ)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) และ [บทที่หนึ่ง ส่วน C §16.1 ความเข้าใจที่กระจายอยู่ทั่วระบบ](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)
 
 </details>
@@ -773,7 +773,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [บทที่หนึ่ง §18.5 สถาปัตยกรรมแบบโมดูลและวินัยการพึ่งพา](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [บทที่หนึ่ง §18.5 สถาปัตยกรรมแบบโมดูลและวินัยการพึ่งพา](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline) และ [§20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application)
 
 </details>
 
@@ -811,7 +811,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และบทที่แปด [§4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 - อ่านร่วมกับ: [จตุรธรรมรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad); [เป้าหมายตามรัฐธรรมนูญสองประการ](core_00_preamble.md#two-constitutional-aims) — **ความรุ่งเรือง** และ **ความต่อเนื่อง**; [การย้อนกลับได้](core_05_band_continuity.md#reversibility-constitutional), [ความเสี่ยง](core_05_band_continuity.md#risk) และ [การผูกขาดระบบ](core_05_band_continuity.md#system-capture) ใน **บทที่ห้า**
 
 </details>
@@ -856,7 +856,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และบทที่แปด [§4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -888,7 +888,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และบทที่แปด [§4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการในบทที่หนึ่ง [§4 ความปลอดภัย](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 หลักการพื้นฐานในการชั่งน้ำหนัก](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และบทที่แปด [§3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 

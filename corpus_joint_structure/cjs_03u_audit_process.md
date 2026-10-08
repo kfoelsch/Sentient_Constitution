@@ -139,7 +139,7 @@ Audit when any of the following applies (often more than one):
 | Mode | Owner (do not restate doctrine here) |
 |---|---|
 | Rights Floor — audit, transparency, independent verification | **Article XVI** (*Audit, Transparency, and Independent Verification*) (XVI-A / XVI-B / XVI-C) |
-| System Alignment Certification (large, forum-supervised, recognition-bearing) | **Chapter Eight** |
+| System Alignment Certification (large, forum-supervised, status-granting) | **Chapter Eight** |
 | System Data Types Record audit | **CS-2** §8.3 |
 | Data typing and access-posture for audit outputs | **CS-2** (Type O / Type G / bands); output-tier preference in **CJS-3.4** |
 | System Classification Record audit | **CS-3** §7.3 |

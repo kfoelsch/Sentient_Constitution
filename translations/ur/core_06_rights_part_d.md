@@ -256,7 +256,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب اول §18 نگہبانی کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
+- بالادستی اصول: باب اول [§6 اعتماد](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity)، [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 نگہبانی کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 
 </details>
 
@@ -520,7 +520,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادستی اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -550,7 +550,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادستی اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -576,7 +576,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب اول §18 نگہبانی کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
+- بالادستی اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 نگہبانی کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 
 </details>
 
@@ -753,7 +753,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادستی اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: [باب اول §5.2 سادہ زبان تک رسائی (نگہبانی کی ذمہ داری)](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)، [§13.3 قابلِ اجتناب بوجھ میں کمی](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، اور [باب اول حصہ ج §16.1 تقسیم شدہ فہم](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding)۔
 
 </details>
@@ -785,7 +785,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint)، [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، [باب اول §18.5 ماڈیولر ساخت اور انحصار کا نظم](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)، اور [باب اول §20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-integrated-application)۔
+- بالادستی اصول: باب اول [§4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint)، [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، [باب اول §18.5 ماڈیولر ساخت اور انحصار کا نظم](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline)، اور [باب اول §20 مربوط اطلاق](core_01_c_stewardship_capacity_principles.md#20-integrated-application)۔
 
 </details>
 
@@ -824,7 +824,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادستی اصول: باب اول [§4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: [آئینی چارگانہ](core_00_preamble.md#constitutional-tetrad)؛ [آئینی اہدافِ دوگانہ](core_00_preamble.md#two-constitutional-aims) — **فلاح** اور **استمرار**؛ باب پانچ میں [واپسی پذیری](core_05_band_continuity.md#reversibility-constitutional)، [خطرہ](core_05_band_continuity.md#risk)، اور [نظامی قبضہ](core_05_band_continuity.md#system-capture)۔
 
 </details>
@@ -870,7 +870,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادستی اصول: باب اول [§4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint)، [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -903,7 +903,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادستی اصول: باب اول [§4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §4 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادستی اصول: باب اول [§4 تحفظ](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب آٹھ §3 پورے نظام کی سند کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 

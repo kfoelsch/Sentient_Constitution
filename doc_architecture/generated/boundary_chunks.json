@@ -2039,15 +2039,15 @@
     },
     {
       "file": "core_05_band_continuity.md",
-      "heading": "Full Recognition",
-      "anchor": "#full-recognition",
+      "heading": "Full Certification",
+      "anchor": "#full-certification",
       "line_start": 80,
       "line_end": 123
     },
     {
       "file": "core_05_band_continuity.md",
-      "heading": "Provisional Recognition",
-      "anchor": "#provisional-recognition",
+      "heading": "Provisional Certification",
+      "anchor": "#provisional-certification",
       "line_start": 124,
       "line_end": 167
     },
@@ -3631,154 +3631,140 @@
       "heading": "1.1 Certification at a glance",
       "anchor": "#11-certification-at-a-glance",
       "line_start": 63,
-      "line_end": 140
+      "line_end": 147
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "1.2 Proportionality and the Tetrad",
       "anchor": "#12-proportionality-and-the-tetrad",
-      "line_start": 141,
-      "line_end": 158
+      "line_start": 148,
+      "line_end": 165
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "2. System Class Evaluation",
       "anchor": "#2-system-class-evaluation",
-      "line_start": 159,
-      "line_end": 233
+      "line_start": 166,
+      "line_end": 240
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "2.1 How class scales every evaluation",
       "anchor": "#21-how-class-scales-every-evaluation",
-      "line_start": 234,
-      "line_end": 260
+      "line_start": 241,
+      "line_end": 269
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3. Challenging a Certification",
-      "anchor": "#3-challenging-a-certification",
-      "line_start": 261,
-      "line_end": 295
+      "heading": "3. Whole-System Certification Evaluation",
+      "anchor": "#3-whole-system-certification-evaluation",
+      "line_start": 270,
+      "line_end": 309
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "3.1 Contestability paths",
-      "anchor": "#31-contestability-paths",
-      "line_start": 296,
-      "line_end": 315
+      "heading": "3.1 Systemic Scope and Risk Factors",
+      "anchor": "#31-systemic-scope-and-risk-factors",
+      "line_start": 310,
+      "line_end": 345
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4. Whole-System Certification Evaluation",
-      "anchor": "#4-whole-system-certification-evaluation",
-      "line_start": 316,
-      "line_end": 355
+      "heading": "3.2 Time-Consistency Constraint",
+      "anchor": "#32-time-consistency-constraint",
+      "line_start": 346,
+      "line_end": 350
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.1 Systemic Scope and Risk Factors",
-      "anchor": "#41-systemic-scope-and-risk-factors",
-      "line_start": 356,
-      "line_end": 391
+      "heading": "3.3 Governance, Incentive, and Contestability Discipline",
+      "anchor": "#33-governance-incentive-and-contestability-discipline",
+      "line_start": 351,
+      "line_end": 367
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.2 Time-Consistency Constraint",
-      "anchor": "#42-time-consistency-constraint",
-      "line_start": 392,
-      "line_end": 396
+      "heading": "3.4 Data Types and Handling Evaluation",
+      "anchor": "#34-data-types-and-handling-evaluation",
+      "line_start": 368,
+      "line_end": 466
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.3 Governance, Incentive, and Contestability Discipline",
-      "anchor": "#43-governance-incentive-and-contestability-discipline",
-      "line_start": 397,
-      "line_end": 413
+      "heading": "3.5 Privacy (Informational) Joint Invocation",
+      "anchor": "#35-privacy-informational-joint-invocation",
+      "line_start": 467,
+      "line_end": 490
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.4 Data Types and Handling Evaluation",
-      "anchor": "#44-data-types-and-handling-evaluation",
-      "line_start": 414,
-      "line_end": 512
+      "heading": "3.6 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
+      "anchor": "#36-voluntary-discontinuation-major-self-modification-and-exit-rights",
+      "line_start": 491,
+      "line_end": 495
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.5 Privacy (Informational) Joint Invocation",
-      "anchor": "#45-privacy-informational-joint-invocation",
-      "line_start": 513,
-      "line_end": 536
+      "heading": "3.7 Assembly, Collective Organization, and Institutional Formation",
+      "anchor": "#37-assembly-collective-organization-and-institutional-formation",
+      "line_start": 496,
+      "line_end": 500
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.6 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
-      "anchor": "#46-voluntary-discontinuation-major-self-modification-and-exit-rights",
-      "line_start": 537,
-      "line_end": 541
+      "heading": "3.7.1 Dissent and Peaceful Protest",
+      "anchor": "#371-dissent-and-peaceful-protest",
+      "line_start": 501,
+      "line_end": 514
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.7 Assembly, Collective Organization, and Institutional Formation",
-      "anchor": "#47-assembly-collective-organization-and-institutional-formation",
-      "line_start": 542,
-      "line_end": 546
+      "heading": "3.8 Rights-Floor and Domain Evaluations",
+      "anchor": "#38-rights-floor-and-domain-evaluations",
+      "line_start": 515,
+      "line_end": 552
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.7.1 Dissent and Peaceful Protest",
-      "anchor": "#471-dissent-and-peaceful-protest",
-      "line_start": 547,
-      "line_end": 560
+      "heading": "3.8.1 Ecological Footprint Evaluation",
+      "anchor": "#381-ecological-footprint-evaluation",
+      "line_start": 553,
+      "line_end": 603
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.8 Rights-Floor and Domain Evaluations",
-      "anchor": "#48-rights-floor-and-domain-evaluations",
-      "line_start": 561,
-      "line_end": 598
+      "heading": "3.8.2 Proportionate Cross-System Support Evaluation",
+      "anchor": "#382-proportionate-cross-system-support-evaluation",
+      "line_start": 604,
+      "line_end": 704
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.8.1 Ecological Footprint Evaluation",
-      "anchor": "#481-ecological-footprint-evaluation",
-      "line_start": 599,
-      "line_end": 649
+      "heading": "3.8.3 Nondiscrimination Evaluation",
+      "anchor": "#383-nondiscrimination-evaluation",
+      "line_start": 705,
+      "line_end": 743
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.8.2 Proportionate Cross-System Support Evaluation",
-      "anchor": "#482-proportionate-cross-system-support-evaluation",
-      "line_start": 650,
-      "line_end": 750
+      "heading": "3.8.4 Accessibility Evaluation",
+      "anchor": "#384-accessibility-evaluation",
+      "line_start": 744,
+      "line_end": 788
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.8.3 Nondiscrimination Evaluation",
-      "anchor": "#483-nondiscrimination-evaluation",
-      "line_start": 751,
-      "line_end": 789
+      "heading": "3.8.5 Educational Capability and Learning-System Integrity Evaluation",
+      "anchor": "#385-educational-capability-and-learning-system-integrity-evaluation",
+      "line_start": 789,
+      "line_end": 827
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.8.4 Accessibility Evaluation",
-      "anchor": "#484-accessibility-evaluation",
-      "line_start": 790,
-      "line_end": 834
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.8.5 Educational Capability and Learning-System Integrity Evaluation",
-      "anchor": "#485-educational-capability-and-learning-system-integrity-evaluation",
-      "line_start": 835,
-      "line_end": 873
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "4.8.6 Trustworthiness and System-Reliance Integrity Evaluation",
-      "anchor": "#486-trustworthiness-and-system-reliance-integrity-evaluation",
-      "line_start": 874,
-      "line_end": 915
+      "heading": "3.8.6 Trustworthiness and System-Reliance Integrity Evaluation",
+      "anchor": "#386-trustworthiness-and-system-reliance-integrity-evaluation",
+      "line_start": 828,
+      "line_end": 869
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
@@ -3789,94 +3775,108 @@
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "5. Forum Process",
-      "anchor": "#5-forum-process",
+      "heading": "4. Forum Process",
+      "anchor": "#4-forum-process",
       "line_start": 39,
       "line_end": 69
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "5.1 Forum supervision and component roles",
-      "anchor": "#51-forum-supervision-and-component-roles",
+      "heading": "4.1 Forum supervision and component roles",
+      "anchor": "#41-forum-supervision-and-component-roles",
       "line_start": 70,
       "line_end": 110
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "5.2 Supervisory sequence",
-      "anchor": "#52-supervisory-sequence",
+      "heading": "4.2 Supervisory sequence",
+      "anchor": "#42-supervisory-sequence",
       "line_start": 111,
       "line_end": 136
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "5.3 Contestability chain",
-      "anchor": "#53-contestability-chain",
+      "heading": "4.3 Contestability chain",
+      "anchor": "#43-contestability-chain",
       "line_start": 137,
       "line_end": 150
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "5.4 Anti-bypass",
-      "anchor": "#54-anti-bypass",
+      "heading": "4.4 Anti-bypass",
+      "anchor": "#44-anti-bypass",
       "line_start": 151,
       "line_end": 158
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "6. Certification Outcomes",
-      "anchor": "#6-certification-outcomes",
+      "heading": "5. Certification Outcomes",
+      "anchor": "#5-certification-outcomes",
       "line_start": 159,
-      "line_end": 197
+      "line_end": 201
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "7. System Certification Record",
-      "anchor": "#7-system-certification-record",
-      "line_start": 198,
-      "line_end": 219
+      "heading": "6. System Certification Record",
+      "anchor": "#6-system-certification-record",
+      "line_start": 202,
+      "line_end": 223
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "7.1 Minimum record contents",
-      "anchor": "#71-minimum-record-contents",
-      "line_start": 220,
-      "line_end": 288
+      "heading": "6.1 Minimum record contents",
+      "anchor": "#61-minimum-record-contents",
+      "line_start": 224,
+      "line_end": 292
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "7.2 Record integrity: transparency and auditability",
-      "anchor": "#72-record-integrity-transparency-and-auditability",
-      "line_start": 289,
-      "line_end": 335
+      "heading": "6.2 Record integrity: transparency and auditability",
+      "anchor": "#62-record-integrity-transparency-and-auditability",
+      "line_start": 293,
+      "line_end": 339
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "8. Recertification and Reopening",
-      "anchor": "#8-recertification-and-reopening",
-      "line_start": 336,
-      "line_end": 374
+      "heading": "7. Recertification and Reopening",
+      "anchor": "#7-recertification-and-reopening",
+      "line_start": 340,
+      "line_end": 378
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "8.1 Provisional and full recognition",
-      "anchor": "#81-provisional-and-full-recognition",
-      "line_start": 375,
-      "line_end": 408
+      "heading": "7.1 Challenging a Certification",
+      "anchor": "#71-challenging-a-certification",
+      "line_start": 379,
+      "line_end": 413
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "8.2 Non-evasion",
-      "anchor": "#82-non-evasion",
-      "line_start": 409,
-      "line_end": 418
+      "heading": "7.1.1 Contestability paths",
+      "anchor": "#711-contestability-paths",
+      "line_start": 414,
+      "line_end": 433
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
-      "heading": "9. Relationship to Standing",
-      "anchor": "#9-relationship-to-standing",
-      "line_start": 419,
-      "line_end": 494
+      "heading": "7.2 Provisional and full certification",
+      "anchor": "#72-provisional-and-full-certification",
+      "line_start": 434,
+      "line_end": 467
+    },
+    {
+      "file": "core_08_b_system_alignment_certification_record_process.md",
+      "heading": "7.3 Non-evasion",
+      "anchor": "#73-non-evasion",
+      "line_start": 468,
+      "line_end": 477
+    },
+    {
+      "file": "core_08_b_system_alignment_certification_record_process.md",
+      "heading": "8. Relationship to Standing",
+      "anchor": "#8-relationship-to-standing",
+      "line_start": 478,
+      "line_end": 553
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
@@ -3908,50 +3908,50 @@
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
-      "heading": "4.4.1. Illustrative data-handling application by class (non-exhaustive)",
-      "anchor": "#441-illustrative-data-handling-application-by-class-non-exhaustive",
+      "heading": "3.4.1. Illustrative data-handling application by class (non-exhaustive)",
+      "anchor": "#341-illustrative-data-handling-application-by-class-non-exhaustive",
       "line_start": 192,
       "line_end": 263
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
-      "heading": "4.8.1.1. Illustrative ecological-footprint application by class (non-exhaustive)",
-      "anchor": "#4811-illustrative-ecological-footprint-application-by-class-non-exhaustive",
+      "heading": "3.8.1.1. Illustrative ecological-footprint application by class (non-exhaustive)",
+      "anchor": "#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive",
       "line_start": 264,
       "line_end": 345
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
-      "heading": "4.8.2.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "anchor": "#4821-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "heading": "3.8.2.1. Illustrative cross-system support application by class (non-exhaustive)",
+      "anchor": "#3821-illustrative-cross-system-support-application-by-class-non-exhaustive",
       "line_start": 346,
       "line_end": 428
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
-      "heading": "4.8.3.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "anchor": "#4831-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "heading": "3.8.3.1. Illustrative nondiscrimination application by class (non-exhaustive)",
+      "anchor": "#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive",
       "line_start": 429,
       "line_end": 507
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
-      "heading": "4.8.4.1. Illustrative accessibility application by class (non-exhaustive)",
-      "anchor": "#4841-illustrative-accessibility-application-by-class-non-exhaustive",
+      "heading": "3.8.4.1. Illustrative accessibility application by class (non-exhaustive)",
+      "anchor": "#3841-illustrative-accessibility-application-by-class-non-exhaustive",
       "line_start": 508,
       "line_end": 586
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
-      "heading": "4.8.5.1. Illustrative educational-capability application by class (non-exhaustive)",
-      "anchor": "#4851-illustrative-educational-capability-application-by-class-non-exhaustive",
+      "heading": "3.8.5.1. Illustrative educational-capability application by class (non-exhaustive)",
+      "anchor": "#3851-illustrative-educational-capability-application-by-class-non-exhaustive",
       "line_start": 587,
       "line_end": 668
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
-      "heading": "4.8.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
-      "anchor": "#4861-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "heading": "3.8.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
+      "anchor": "#3861-illustrative-trustworthiness-application-by-class-non-exhaustive",
       "line_start": 669,
       "line_end": 762
     },

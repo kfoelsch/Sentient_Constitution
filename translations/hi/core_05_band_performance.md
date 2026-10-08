@@ -58,7 +58,7 @@
 - संक्रियात्मक मापन स्तर अध्याय-पाँच परिभाषा घरों पर रहते हैं — देखें [संवैधानिक दक्षता](core_05_band_continuity.md#constitutional-efficiency), [परिहार्य भार](core_05_band_continuity.md#avoidable-burden), [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity-constitutional) और [भार-कमी कर्तव्य](core_05_band_continuity.md#burden-reduction-duty-constitutional)।
 - प्रदर्शन लक्ष्य, पुरस्कार, और संसाधन माप केवल उस हद तक वैध हैं जहाँ तक वे संवैधानिक परिणामों तक पता-योग्य रहें।
 - वे संवैधानिक दक्षता, [उत्पादक क्षमता](core_05_band_continuity.md#productive-capacity-constitutional), या अधिकार-तल अनुपालन का स्थानापन्न नहीं हो सकते।
-- साथ पढ़ें [अध्याय सात §4 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) जहाँ संपूर्ण-प्रणाली प्रदर्शन तात्विक रूप से दायरे में हो।
+- साथ पढ़ें [अध्याय सात §3 संपूर्ण-प्रणाली प्रमाणन मूल्यांकन](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) जहाँ संपूर्ण-प्रणाली प्रदर्शन तात्विक रूप से दायरे में हो।
 
 ---
 

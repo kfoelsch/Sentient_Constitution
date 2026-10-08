@@ -123,7 +123,7 @@ Bu hakkı iki güvence birlikte korur: sertifikasyon sistemi güvene layık hale
 - sisteme nasıl itiraz edileceği;
 - sorunların nasıl giderileceği.
 
-Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer alan önem eşiğini karşılıyorsa, sertifikasyon [Sekizinci Bölüm §4.8.6 Güven Verilebilirlik ve Sisteme Güvenme Bütünlüğü Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation) uyarınca güven verilebilirlik incelemesini de kapsar.
+Sistem **XIII. Madde**de (*Güvenilir ve Güven Verilebilir Sistem Hakkı*) yer alan önem eşiğini karşılıyorsa, sertifikasyon [Sekizinci Bölüm §3.8.6 Güven Verilebilirlik ve Sisteme Güvenme Bütünlüğü Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) uyarınca güven verilebilirlik incelemesini de kapsar.
 
 **İtiraz edilebilirlik sentientin tarafından sistemi dürüst tutar:** Sertifikasyon sistemi denetler; onun hakkında son sözü söylemez. Sistemden etkilenen her sentient şu hakları korur:
 
@@ -363,7 +363,7 @@ Bu Madde, yüksek otonomili sistemlerin süreç bütünlüğüne nasıl bağlı 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Dayanıklılık ve Kendi Kendini İyileştirme Tasarımı](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Birinci Bölüm §13.3 Kaçınılabilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Dayanıklılık ve Kendi Kendini İyileştirme Tasarımı](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Birinci Bölüm §13.3 Kaçınılabilir Yükün Azaltılması](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -711,7 +711,7 @@ Doğru, ilgili ve itiraz edilebilir bilgi; kendi kaderini tayinin, eşgüdümün
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Güven](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -785,7 +785,7 @@ Bu Madde; sahici araştırma, kaynak kökeni ve itiraz edilebilir bilgi tabanlar
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemik Açıklama Kısıtları](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -936,7 +936,7 @@ Bu Madde, gözlemlenebilir ve itiraz edilebilir kanıt tabanını düzenler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §18 Vesayet Disiplini Altında Yönetişim](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1044,7 +1044,7 @@ Sentientler, işlevsel yaşam döngüsü boyunca güvenliği, epistemik bütünl
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1080,7 +1080,7 @@ Bu Madde, ortam bütünlüğü tabanını düzenler:
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Temel Ödünleşim İlkeleri](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1114,7 +1114,7 @@ Bu Madde, aşamalı devreye alma ve tersine çevrilebilirlik tabanlarını düze
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§5 Hakikat](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1172,7 +1172,7 @@ Meşru amaçlar, [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad) 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Birinci Bölüm §7 Özgürlük](core_01_a_values_principles.md#7-freedom-bounded-agency) ve [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1240,7 @@ Bu Madde, deneysel sistemler için sınırlandırma, açıklama, isteğe bağlı
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Sekizinci Bölüm §4 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Üst dayanak: Birinci Bölüm İlkeleri [§4 Güvenlik](core_01_a_values_principles.md#4-safety-harm-constraint), [Sekizinci Bölüm §3 Bütün Sistem Sertifikasyon Değerlendirmesi](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ve [Birinci Bölüm §20 Bütünleşik Uygulama](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

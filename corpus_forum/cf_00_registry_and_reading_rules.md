@@ -61,9 +61,9 @@
 
 <br>
 
-*In plain terms: labels like **CF-7.2** (*Constitutional alignment recognition and review*) are forum-implementation section numbers — not Sentient Constitution article numbers.*
+*In plain terms: labels like **CF-7.2** (*Constitutional alignment certification and review*) are forum-implementation section numbers — not Sentient Constitution article numbers.*
 
-Apply **CJS-1.1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) and **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*) through **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-7.2** (*Constitutional alignment recognition and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** means the *corpus forum* implementation layer ([corpus_forum.md](../corpus_forum.md)). Domain routing formerly labeled **CF-2** (*reserved family ID*) now lives in this registry annex.
+Apply **CJS-1.1** (*Section identifiers and article references*) as the shared implementation-corpus identifier rule. In this file specifically, headings use **CF-1** (*Scope, authority, and boundary rules*) and **CF-3** (*Forum formation, forum-structure mapping, and chamber structure*) through **CF-16** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*). Subsections use **CF-*n*.*m*** (for example **CF-7.2** (*Constitutional alignment certification and review*)). They must not be read as Sentient Constitution **Article** numbers. The abbreviation **CF** means the *corpus forum* implementation layer ([corpus_forum.md](../corpus_forum.md)). Domain routing formerly labeled **CF-2** (*reserved family ID*) now lives in this registry annex.
 
 Unless another reference pattern is stated, **Article** labels with Roman numerals in this file point to Sentient Constitution Chapter Six in the `core_06_rights_part_*.md` files.
 

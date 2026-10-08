@@ -104,7 +104,7 @@ CH5-HIER-01 tag vocabulary: [doc_architecture.md](../../doc_architecture.md) sec
 | Forum Family, Technical | `core_05_band_accountability.md` | cluster_member | Flourishing | Accountability | 3.6 Accountability · 3.7 Timeliness | Def.A2 Forum Families and Dispute Routing |
 | Foundational Constitutional Choice | `core_05_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
 | Freedom (Bounded Agency) | `core_05_band_participation.md` | cluster_member | Flourishing | Participation | 3.4 Participation | Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity |
-| Full Recognition | `core_05_band_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
+| Full Certification | `core_05_band_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
 | Fullest Protective Effect | `core_05_band_integrative.md` | cluster_member | cross-cutting | Integrative | 3.6 Accountability | — |
 | Game of Chance | `core_05_band_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | — |
 | Gate | `core_05_band_oversight.md` | cluster_member | cross-cutting | Oversight | 3.5 Oversight | — |
@@ -188,7 +188,7 @@ CH5-HIER-01 tag vocabulary: [doc_architecture.md](../../doc_architecture.md) sec
 | Protected Intimate-Signal Gating and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status Circumvention | `core_05_band_participation.md` | cluster_member | cross-cutting | Participation | 3.4 Participation | — |
 | Protected Reporting (Whistleblowing) | `core_05_band_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | — |
 | Protected Reporting Retaliation and Access Interference | `core_05_band_accountability.md` | cluster_member | cross-cutting | Accountability | 3.6 Accountability · 3.7 Timeliness | — |
-| Provisional Recognition | `core_05_band_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
+| Provisional Certification | `core_05_band_continuity.md` | cluster_member | cross-cutting | Continuity | 3.3 Continuity | — |
 | Proxy Divergence | `core_05_band_oversight.md` | measurement_family_member | cross-cutting | Oversight | 3.5 Oversight · 3.6 Accountability | — |
 | Psychological Harm | `core_05_band_accountability.md` | cluster_member | Flourishing | Accountability | 3.2 Flourishing · 3.6 Accountability | Def.A1 Collective Harm Boundary, Harm, and Harassment and Bullying |
 | Public Oversight Baseline Disclosure | `core_05_band_oversight.md` | cluster_member | Flourishing | Oversight | 3.5 Oversight | Def.O1 Transparency, Auditability, and Verification |

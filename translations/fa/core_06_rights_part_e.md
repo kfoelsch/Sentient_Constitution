@@ -269,7 +269,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: [فصل یک §18.4 توجیه مستمر](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)؛ فصل یک [§3 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [فصل هشتم §4 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیوندهای بالادستی: اصول: [فصل یک §18.4 توجیه مستمر](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)؛ فصل یک [§3 هدف بنیادین: بهزیستی](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -301,7 +301,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §4 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- پیوندهای بالادستی: اصول: فصل یک [§5 حقیقت](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و [فصل یک §14 منع لغو مطلق](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override).
 
 </details>
 
@@ -368,7 +368,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §4 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)؛ [فصل دهم §5.4](core_10_standing_integration.md#54-special-violation-rules) (*محدودشدن ضبط پاداش و گزارش‌دهیِ پاداش‌های ناسازگار در دوره گذار به‌موجب این ماده*)؛ [فصل هشتم—گواهی هم‌راستایی سامانه](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 اصول بنیادین موازنه](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [فصل دهم §5.4](core_10_standing_integration.md#54-special-violation-rules) (*محدودشدن ضبط پاداش و گزارش‌دهیِ پاداش‌های ناسازگار در دوره گذار به‌موجب این ماده*)؛ [فصل هشتم—گواهی هم‌راستایی سامانه](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).
 
 </details>
 
@@ -527,7 +527,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ردیابی</span></strong></summary>
 
-- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل یک §13.1.5 رویه تعارض حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [فصل هشتم §4 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- پیوندهای بالادستی: اصول: فصل یک [§4 ایمنی](core_01_a_values_principles.md#4-safety-harm-constraint)، [فصل یک §13.1.5 رویه تعارض حقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و [فصل هشتم §3 ارزیابی گواهی کل سامانه](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - همراه با: **ماده III-A** (*بقا*)؛ **ماده XIII** (*حق سامانه‌های قابل‌اعتماد و مطمئن*)؛ **ماده XI-G** (*مرز زیان جمعی و رابط اجرا*)؛ **فصل نهم**؛ **فصل یک**، از جمله §6 رویه تعارض حقوق؛ چارچوب محدودیت پیش‌فرض در آغاز فصل ششم (*رابط تملک و جبران*)؛ [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*اموال ناسازگار، توقیف و مشوق‌های داوطلبانه*) تا **CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*حکمرانی گذار و تحول نهادی*).
 
 </details>

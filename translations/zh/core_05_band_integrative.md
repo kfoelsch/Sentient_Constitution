@@ -323,7 +323,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">溯源</span></strong></summary>
 
-- 下游：问责测量族（*激励对齐与替代指标完整性作为宪法测量*）；原则：[宪法四元](core_00_preamble.md#constitutional-tetrad)（[§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) 下的四元俘获纪律；按[实质利害](core_00_preamble.md#material-stake)缩放）；[第七章 §4 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) 与 [§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
+- 下游：问责测量族（*激励对齐与替代指标完整性作为宪法测量*）；原则：[宪法四元](core_00_preamble.md#constitutional-tetrad)（[§10](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline) 下的四元俘获纪律；按[实质利害](core_00_preamble.md#material-stake)缩放）；[第七章 §3 整系统认证评价](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) 与 [§10 尽责管理纪律下的治理](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline)。
 - 原则层规则：[第一章 §11.1 对齐要求](core_01_c_stewardship_capacity_principles.md#111-alignment-requirement) 与 [第一章 §11.2 图方便的替代指标与替代指标偏离](core_01_c_stewardship_capacity_principles.md#112-convenient-proxies-and-proxy-divergence)；尽责管理与运营者适用：[第一章 §11.1.3 尽责管理与运营者适用](core_01_c_stewardship_capacity_principles.md#1113-stewardship-and-operator-application) 与 [§11.1.4 角色深度与实质责任路径](core_01_c_stewardship_capacity_principles.md#1114-role-depth-and-material-responsibility-pathways)。
 - 错位检测：[第一章 §11.3 错位检测](core_01_c_stewardship_capacity_principles.md#113-misalignment-detection)。
 - 主动纠正与俘获升级：[第一章 §11.4 错位纠正与俘获响应](core_01_c_stewardship_capacity_principles.md#114-misalignment-correction-and-capture-response)。

@@ -1452,9 +1452,9 @@
       "notes": ""
     },
     {
-      "term": "Full Recognition",
+      "term": "Full Certification",
       "canonical_file": "core_05_band_continuity.md",
-      "anchor": "#full-recognition",
+      "anchor": "#full-certification",
       "line_start": 80,
       "definition_class": "semi_independent",
       "tetrad_leg": "Continuity",
@@ -2741,9 +2741,9 @@
       "notes": ""
     },
     {
-      "term": "Provisional Recognition",
+      "term": "Provisional Certification",
       "canonical_file": "core_05_band_continuity.md",
-      "anchor": "#provisional-recognition",
+      "anchor": "#provisional-certification",
       "line_start": 124,
       "definition_class": "semi_independent",
       "tetrad_leg": "Continuity",

@@ -224,7 +224,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
 - ต้นทาง: หลักการในบทที่หนึ่ง ได้แก่ [§3.1 ความเป็นธรรม](core_01_a_values_principles.md#31-fairness), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 หลักการสำคัญในการจัดการความขัดแย้ง](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles) และ [บทที่หนึ่ง §13.1.5 กระบวนการจัดการเมื่อสิทธิขัดกัน](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- ปลายทาง: กลุ่มการวัดการมีส่วนร่วม (*ความเป็นธรรมในสาระสำคัญ และการใช้คุณลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนรวมถึงผลกระทบที่แตกต่างกัน*); [บทที่แปด §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*การประเมินการไม่เลือกปฏิบัติเมื่อการรับรองเป็นเงื่อนไขของการจัดประเภท จัดอันดับ กำหนดราคา กำหนดด่าน หรือจัดสรรภาระ*); กระบวนการของเวที กระบวนการทางปกครอง และการบังคับใช้ใน [บทที่สิบสอง](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*หน้าที่ในการวินิจฉัยและการดำเนินงาน*).
+- ปลายทาง: กลุ่มการวัดการมีส่วนร่วม (*ความเป็นธรรมในสาระสำคัญ และการใช้คุณลักษณะที่ได้รับความคุ้มครองเป็นตัวแทนรวมถึงผลกระทบที่แตกต่างกัน*); [บทที่แปด §3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*การประเมินการไม่เลือกปฏิบัติเมื่อการรับรองเป็นเงื่อนไขของการจัดประเภท จัดอันดับ กำหนดราคา กำหนดด่าน หรือจัดสรรภาระ*); กระบวนการของเวที กระบวนการทางปกครอง และการบังคับใช้ใน [บทที่สิบสอง](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*หน้าที่ในการวินิจฉัยและการดำเนินงาน*).
 - อ่านร่วมกับ: บทที่ห้า [คุณลักษณะที่ได้รับความคุ้มครอง](core_05_band_participation.md#protected-characteristics-constitutional) และ [ภาษา วัฒนธรรม และมรดก](core_05_band_continuity.md#language-culture-and-heritage-constitutional); สำหรับคำถามเรื่องความต่อเนื่องของชนพื้นเมืองและดินแดน ให้อ่าน [ความต่อเนื่องของชนพื้นเมือง](core_05_band_continuity.md#indigenous-continuity-constitutional) ในบทที่ห้า (*พื้นสิทธิที่ยึดโยงกับชุมชน; มาตราที่รับผิดชอบคือ **มาตรา VI-C** (การไม่เลือกปฏิบัติ) และ **มาตรา I-A** (เงื่อนไขเบื้องต้นด้านสิ่งแวดล้อมและความสมบูรณ์ของระบบนิเวศ)*). คำถามเหล่านี้เชื่อมไปยัง [มาตรา I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*เงื่อนไขเบื้องต้นด้านความสมบูรณ์ของระบบนิเวศ*) และ [บทที่สิบเจ็ด](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*วินัยด้านเขตอำนาจของผู้รับไปใช้*).
 
 </details>
@@ -271,8 +271,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและความเชื่อมโยง</span></strong></summary>
 
-- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 การเข้าถึงได้ด้วยภาษาที่เข้าใจง่าย](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [บทที่แปด §4 การประเมินเพื่อรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
-- ผลต่อเนื่อง: หลักประกันศักดิ์ศรีใน **มาตรา VI-A** (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียมกัน*); การไม่เลือกปฏิบัติและการมีส่วนร่วมอย่างเต็มที่ในการพิจารณาและการดำเนินงานตาม **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*); การเข้าถึงการศึกษาอย่างเสมอภาคตาม **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเสมอภาค*) (ไม่ซ้ำซ้อน — มาตรานั้นกำกับการเข้าถึงที่เฉพาะกับการศึกษา ส่วนมาตรานี้กำหนดพื้นสิทธิที่ใช้ข้ามด้าน); การมีส่วนร่วมในการปกครองตาม **มาตรา X-B** (*การมีส่วนร่วมในการปกครองและสิทธิเลือกตั้ง*); การมีส่วนร่วมของผู้มีส่วนได้เสียตาม **มาตรา XII** (*การมีส่วนร่วมในระบบผู้มีส่วนได้เสีย การเป็นตัวแทน และกระบวนการอันชอบธรรม*); การตรวจสอบยืนยันโดยอิสระตาม **มาตรา XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบยืนยันโดยอิสระ*); กลุ่มการวัดการมีส่วนร่วม (*การเข้าถึงได้ในฐานะการวัดตามรัฐธรรมนูญ*); [บทที่แปด §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*การประเมินการเข้าถึงได้เมื่อการรับรองเป็นเงื่อนไขให้มีส่วนร่วมอย่างแท้จริง*).
+- หลักการต้นทาง: บทที่หนึ่ง [§3 วัตถุประสงค์พื้นฐาน: ความเป็นอยู่ที่ดี](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§7.1 วินัยในการจำกัดสิทธิ](core_01_a_values_principles.md#71-limitation-discipline), [§5.2 การเข้าถึงได้ด้วยภาษาที่เข้าใจง่าย](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [บทที่แปด §3 การประเมินเพื่อรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- ผลต่อเนื่อง: หลักประกันศักดิ์ศรีใน **มาตรา VI-A** (*ศักดิ์ศรีและสถานะทางศีลธรรมที่เท่าเทียมกัน*); การไม่เลือกปฏิบัติและการมีส่วนร่วมอย่างเต็มที่ในการพิจารณาและการดำเนินงานตาม **มาตรา VI-C** (*การไม่เลือกปฏิบัติ*); การเข้าถึงการศึกษาอย่างเสมอภาคตาม **มาตรา IV-A** (*การเข้าถึงการศึกษาอย่างเสมอภาค*) (ไม่ซ้ำซ้อน — มาตรานั้นกำกับการเข้าถึงที่เฉพาะกับการศึกษา ส่วนมาตรานี้กำหนดพื้นสิทธิที่ใช้ข้ามด้าน); การมีส่วนร่วมในการปกครองตาม **มาตรา X-B** (*การมีส่วนร่วมในการปกครองและสิทธิเลือกตั้ง*); การมีส่วนร่วมของผู้มีส่วนได้เสียตาม **มาตรา XII** (*การมีส่วนร่วมในระบบผู้มีส่วนได้เสีย การเป็นตัวแทน และกระบวนการอันชอบธรรม*); การตรวจสอบยืนยันโดยอิสระตาม **มาตรา XVI** (*การตรวจสอบ ความโปร่งใส และการตรวจสอบยืนยันโดยอิสระ*); กลุ่มการวัดการมีส่วนร่วม (*การเข้าถึงได้ในฐานะการวัดตามรัฐธรรมนูญ*); [บทที่แปด §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*การประเมินการเข้าถึงได้เมื่อการรับรองเป็นเงื่อนไขให้มีส่วนร่วมอย่างแท้จริง*).
 - อ่านประกอบกับบทที่ห้า: *การเข้าถึงได้*, *ลักษณะที่ได้รับความคุ้มครอง*, *ความเป็นธรรมในเนื้อหา*, *ความสำคัญในสาระ*, *การพึ่งพา*, *ความสามารถในการกระทำการอย่างมีความหมาย*. หลักการเข้าถึงได้ที่ใช้ข้ามด้าน: [บทที่หนึ่ง §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*การเข้าถึงได้ด้วยภาษาที่เข้าใจง่าย*).
 
 </details>
@@ -950,7 +950,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 ข้อจำกัดการเปิดเผยเชิงญาณวิทยา](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -998,7 +998,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 กำลังการผลิต (คุณค่าเชิงเครื่องมือ)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§9.1 กำลังการผลิต (คุณค่าเชิงเครื่องมือ)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good), [บทที่หนึ่ง §13.3 การลดภาระที่หลีกเลี่ยงได้](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
 - ปลายทาง: พื้นด้านแรงงานและเศรษฐกิจตาม **บทความ III-C** (*พื้นด้านแรงงานและเศรษฐกิจ*); รูปลักษณ์ตาม **บทความ IX-A** (*การเป็นเจ้าของรูปลักษณ์และชื่อเสียงของตนเอง*); ข้อมูลจากประสบการณ์และข้อมูลอนุมานตาม **บทความ IX-B** (*สิทธิในข้อมูลจากประสบการณ์และข้อมูลอนุมาน*); การเผยแพร่ตาม **บทความ IX-C** (*การเผยแพร่ข้อเท็จจริงและข้อจำกัดการเผยแพร่ที่มีผลกระทบสูง*); การป้องกันการกระจุกตัวตาม **บทที่หนึ่ง §11** และกลไกเกณฑ์การกระจุกตัวตาม **§13.1**
 - อ่านร่วมกับ: [**Def.C1** *พื้นด้านแรงงานและเศรษฐกิจ: ค่าตอบแทน การจัดองค์กร สภาพที่ปลอดภัย เวลาว่าง และงานสร้างสรรค์*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (เรียกใช้ร่วมกับ **บทความ III-C** (*พื้นด้านแรงงานและเศรษฐกิจ*), **III-D** (*สภาพการทำงานที่ปลอดภัย*) และ **III-E** (*การพักผ่อนและการฟื้นฟู*) และ [**Def.C3** (*ความเป็นส่วนตัว (ด้านข้อมูล)*)](core_05_band_continuity.md#privacy-informational-cluster) เมื่อมีผลอย่างมีนัยสำคัญ)
 
@@ -1184,7 +1184,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §13.1.5 กระบวนการจัดการความขัดแย้งระหว่างสิทธิ](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 
 </details>
 
@@ -1494,7 +1494,7 @@ flowchart TB
   - สนับสนุนการระงับสถานะ ปฏิเสธหรือชะลอการรับรองความสามารถ หรือทำให้เส้นทางที่มีชื่อใดแคบลงตาม **บทที่สิบ** หรือ **บทความ XIX** (*สถานะและสถานะการมีส่วนร่วม*);
   - สนับสนุนการกำหนดสถานะการประพฤติมิชอบที่ขัดต่อรัฐธรรมนูญตาม[บทที่สิบเอ็ด](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out);
   - ลดสิทธิลงคะแนนด้านธรรมาภิบาล การมีส่วนร่วมของผู้มีส่วนได้เสีย การสมัครรับเลือกตั้ง การดำรงตำแหน่ง การทำหน้าที่ในเวที หรือสิทธิเรียกคืนตำแหน่งตาม **บทความ X-B** (*การมีส่วนร่วมในการปกครองและสิทธิในการลงคะแนน*) และ **บทที่สิบสาม**;
-  - นับเป็นผลเสียต่อการรับรองความสอดคล้องของระบบตาม[บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest);
+  - นับเป็นผลเสียต่อการรับรองความสอดคล้องของระบบตาม[บทที่แปด](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest);
   - ใช้เป็นเหตุให้สอดส่อง แทรกซึม ให้คะแนนภัยคุกคาม หรือสะสมบันทึก ซึ่ง **บทความ XIV-A** (*ความมั่นคง ข่าวกรอง และข้อจำกัดอำนาจลับ*) ห้ามไว้แล้ว; หรือ
   - กำหนดเงื่อนไขต่อปัจจัยจำเป็นต่อการอยู่รอด ขั้นต่ำของพื้นสิทธิ การจ้างงาน การค้าตามปกติ หรือการเข้าถึงการโต้แย้งและการเยียวยา
 
@@ -1719,7 +1719,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application) และ [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่หนึ่ง §20 การประยุกต์ใช้แบบบูรณาการ](core_01_c_stewardship_capacity_principles.md#20-integrated-application) และ [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)
 - อ่านร่วมกับ: [จตุรภาคทางรัฐธรรมนูญ](core_00_preamble.md#constitutional-tetrad) — ด้าน **การมีส่วนร่วม** (ชั้นการมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ); การปรับตาม[ส่วนได้เสียที่เป็นสาระ](core_00_preamble.md#material-stake); [บันทึกการกระทำที่มีผลผูกพันอย่างเป็นสาระ](core_05_band_accountability.md#materially-binding-act) และ [บทที่เจ็ด §7 บันทึกการกระทำ การส่งต่องานที่ระบุผู้รับผิดชอบ และการส่งงานไปยังผู้รับผิดชอบผิด](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)
 - ชั้น: **การมีส่วนร่วมของผู้มีส่วนได้เสียในระบบ (SSP)** แยกจากการให้อำนาจใน **ชั้นสัญญาทางรัฐธรรมนูญ (CCL)**
 
@@ -1766,7 +1766,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: [บทที่หนึ่ง §7 เสรีภาพ](core_01_a_values_principles.md#7-freedom-bounded-agency), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
 
 </details>
 
@@ -1854,7 +1854,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">ที่มาและการเชื่อมโยง</span></strong></summary>
 
-- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §4 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
+- ต้นทาง: หลักการ: บทที่หนึ่ง [§5 ความจริง](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [บทที่แปด §3 การประเมินการรับรองทั้งระบบ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) และ [บทที่หนึ่ง §18 ธรรมาภิบาลภายใต้วินัยการพิทักษ์ดูแล](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)
 - อ่านร่วมกับ: [การยึดครองระบบ](core_05_band_continuity.md#system-capture); [การป้องกันการยึดครอง](core_05_band_continuity.md#anti-capture); [บทที่เจ็ด: ความเป็นอิสระเชิงหน้าที่และการแยกหน้าที่](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)
 
 </details>

@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">मागोवा</span></strong></summary>
 
-- सोबत वाचा: [अध्याय एक §11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 बाजार रचना](core_01_c_stewardship_capacity_principles.md#13-market-structure), आणि [अध्याय सात §4.3 शासन, प्रोत्साहन आणि आव्हानयोग्यता शिस्त](../../core_08_a_system_alignment_certification_evaluation.md#43-governance-incentive-and-contestability-discipline).
+- सोबत वाचा: [अध्याय एक §11 प्रोत्साहन संरेखन आणि प्रणाली ताबा](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 बाजार रचना](core_01_c_stewardship_capacity_principles.md#13-market-structure), आणि [अध्याय सात §3.3 शासन, प्रोत्साहन आणि आव्हानयोग्यता शिस्त](../../core_08_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
 
 </details>
 

@@ -68,7 +68,7 @@
 
 **어떤 축도 직접 다루지 않는 절.** [§15.1.1 분할 방지 원칙](#1511-anti-segmentation-principle)과 [§15.4.1](#1541-integrated-reading)부터 [§15.4.3](#1543-incorporation-layer)까지는 텍스트를 읽는 방법과 어느 출처 계층이 우선하는지를 규율합니다. 의도적으로 해당 추적에는 네 요소의 축이 표시되지 않습니다.
 
-**시간의 두 가지 의미.** 제B부에서 시간은 두 의미로 쓰입니다. 장기 시간 지평(지연되거나 누적되는 피해, 그리고 [제8장 §4.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint)이 [§13.1.2](#1312-harm-minimization)에 적용되는 경우)은 **연속성** 목표에 속합니다. 시계, 검토 주기, 지연(제한의 시간 한도, 최종 공개, 피할 수 있는 지연)은 **적시성** 축에 속합니다.
+**시간의 두 가지 의미.** 제B부에서 시간은 두 의미로 쓰입니다. 장기 시간 지평(지연되거나 누적되는 피해, 그리고 [제8장 §3.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)이 [§13.1.2](#1312-harm-minimization)에 적용되는 경우)은 **연속성** 목표에 속합니다. 시계, 검토 주기, 지연(제한의 시간 한도, 최종 공개, 피할 수 있는 지연)은 **적시성** 축에 속합니다.
 
 **두 축이지 충돌이 아닙니다.** 제A부의 목표는 공유 시스템이 무엇을 추구하는지 말해 줍니다. 제B부는 그 과정에서 어떠한 상충관계, 우선권 행사 또는 해석도 무엇을 빼앗을 수 없는지 말해 줍니다.
 
@@ -103,7 +103,7 @@
 
 <br>
 
-*쉽게 말해, 헌법상 충돌은 발생합니다. **안전**과 **진실**이 우선입니다. 그다음에는 제한이 비례적이고 필요하며 피해를 최소화하고 가능한 한 가벼워야 합니다. 편의를 위해 진실을 숨겨서는 안 됩니다. 편리함을 위해 프라이버시를 박탈해서는 안 됩니다. 자유 제한은 [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline)에 따라 적용됩니다. 권리와 관련된 헌법상 충돌에는 문서화된 의사결정 검사가 필요하며, 준수 여부를 거짓으로 보여 주는 지표는 인정되지 않습니다. [제8장 §4.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint)에 따라 단기 최적화는 평가를 통과할 수 없습니다. **§13.1**(*핵심 상충 원칙*)부터 **§13.3**(*피할 수 있는 부담의 최소화*)까지는 상충 규칙, 공개 및 프라이버시 제한, 헌법상 충돌 절차를 규정합니다.*
+*쉽게 말해, 헌법상 충돌은 발생합니다. **안전**과 **진실**이 우선입니다. 그다음에는 제한이 비례적이고 필요하며 피해를 최소화하고 가능한 한 가벼워야 합니다. 편의를 위해 진실을 숨겨서는 안 됩니다. 편리함을 위해 프라이버시를 박탈해서는 안 됩니다. 자유 제한은 [§7.1 제한 규율](core_01_a_values_principles.md#71-limitation-discipline)에 따라 적용됩니다. 권리와 관련된 헌법상 충돌에는 문서화된 의사결정 검사가 필요하며, 준수 여부를 거짓으로 보여 주는 지표는 인정되지 않습니다. [제8장 §3.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)에 따라 단기 최적화는 평가를 통과할 수 없습니다. **§13.1**(*핵심 상충 원칙*)부터 **§13.3**(*피할 수 있는 부담의 최소화*)까지는 상충 규칙, 공개 및 프라이버시 제한, 헌법상 충돌 절차를 규정합니다.*
 
 제B부는 다음 세 상황에서 네 요소를 온전히 유지합니다.
 - **[헌법상 충돌](core_05_band_integrative.md#constitutional-collision)(이 절):** 어느 요소도 약화시키지 않고 충돌을 해결합니다.
@@ -300,7 +300,7 @@ flowchart TB
 - 더 큰 시스템적·집계적·생태적 피해를 만들면서 지역적 또는 즉각적 피해만을 기준으로 최적화하는 행위;
 - 확인된 당사자의 피해를 최소화하는 것처럼 보이게 하려고 생태계, 확인되지 않은 감응 존재 또는 그 밖에 산정되지 않은 당사자에게 피해를 전가하는 행위.
 
-**시간 범위 규율.** 장기적 시스템 비용을 치르며 단기적으로 최적화하는 것은 이 기준을 통과하지 못합니다. 피해 최소화는 [제8장 §4.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint)을 고려해야 합니다. 현재 기간에는 피해를 최소화하는 것처럼 보이더라도 관련 헌법상 시간 범위에 걸쳐 예측 가능한 더 큰 피해를 일으키는 결정은 준수하지 않는 것입니다.
+**시간 범위 규율.** 장기적 시스템 비용을 치르며 단기적으로 최적화하는 것은 이 기준을 통과하지 못합니다. 피해 최소화는 [제8장 §3.2 시간 일관성 제약](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint)을 고려해야 합니다. 현재 기간에는 피해를 최소화하는 것처럼 보이더라도 관련 헌법상 시간 범위에 걸쳐 예측 가능한 더 큰 피해를 일으키는 결정은 준수하지 않는 것입니다.
 
 **헌법상 최저선과의 관계.** 피해 최소화는 [§13.1.4 헌법상 최저선, 안전 및 비하 방지 절차](#1314-constitutional-floors-safety-and-anti-degrading-process)에 명시된 헌법상 최저선 *위에서* 작동합니다. 다음을 결코 허용하지 않습니다.
 - 권리 최저선의 영구적 소멸;
@@ -846,7 +846,7 @@ A부에 명시된 [존엄 훼손 절차 금지 원칙(§3.3)](core_01_a_values_p
 - 제6장의 어떤 권리 최저선 조항을 만들거나, 확대하거나, 축소하는 것; 또는
 - 어떤 구획과 보호 의무를 포괄하는지에 관한 정의 묶음 자체의 설명을 대체하는 것. 정의 묶음은 **우회 방지** 항목에서 이를 설명하고 규칙은 이 절을 참조합니다.
 
-공동 원용된 정의 묶음이 적용되는 경우, 시스템 전체 평가는 분류, 거버넌스 또는 준수 주장이 성립하기 전에 [제8장 §4 시스템 전체 인증 평가](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)에 따라 분할 방지를 검증해야 합니다. 이 절은 [제3장 §2.1 일반적 회피 유형](core_03_definition_integrity.md#21-common-evasion-patterns) 및 [§2.2 축소적 회피](core_03_definition_integrity.md#22-reductive-evasion)와 함께 작동합니다.
+공동 원용된 정의 묶음이 적용되는 경우, 시스템 전체 평가는 분류, 거버넌스 또는 준수 주장이 성립하기 전에 [제8장 §3 시스템 전체 인증 평가](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)에 따라 분할 방지를 검증해야 합니다. 이 절은 [제3장 §2.1 일반적 회피 유형](core_03_definition_integrity.md#21-common-evasion-patterns) 및 [§2.2 축소적 회피](core_03_definition_integrity.md#22-reductive-evasion)와 함께 작동합니다.
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 파생 정보 원칙

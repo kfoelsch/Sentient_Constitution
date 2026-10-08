@@ -153,7 +153,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஏழு §4 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -204,7 +204,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 அறிவார்ந்த வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [அத்தியாயம் ஏழு §4 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.2 அறிவார்ந்த வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#62-epistemic-disclosure-constraints), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -344,7 +344,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §4 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -473,7 +473,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §4 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.1 பாதுகாப்பு](core_01_a_values_principles.md#31-safety-harm-constraint), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - இதனுடன் படிக்க: [சரத்து XIX-A](core_06_rights_part_c.md#article-xix-a-portability-rights) (*இடமாற்ற உரிமை*); [corpus_systems.md](../../corpus_systems.md) **CS-2 — தகவல் வகைகளும் கையாளுதலும்**; **CJS-3.17** (*இயைபு, இடமாற்றம், வெளியேறல் முழுமை நிபந்தனைகள்*) மற்றும் **CJS-3.18** (*தரவு பாதுகாப்பும் வாழ்க்கைச் சுழற்சி முழுமை நிபந்தனைகளும்*); [அத்தியாயம் ஒன்று §11.6 வாரிசுப் பொறுப்பும் வடிவ அமைப்புத் தப்பித்தல் தடையும்](core_01_c_stewardship_capacity_principles.md#116-successor-responsibility-and-formal-structure-non-escape); [அத்தியாயம் ஒன்பது §9.1](../../core_10_standing_integration.md#91-remediation-capacity-and-funding) மற்றும் [§9.4](../../core_10_standing_integration.md#94-anti-evasion-and-look-through-authority).
 
 </details>
@@ -796,7 +796,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [அத்தியாயம் ஏழு §4 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§10 பொறுப்பான நிர்வாக ஒழுங்கு கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§3.2 உண்மை](core_01_a_values_principles.md#32-truth-epistemic-integrity-constraint), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [§10 பொறுப்பான நிர்வாக ஒழுங்கு கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#10-governance-under-stewardship-discipline).
 - இதனுடன் படிக்க: தொடர்ச்சி அளவீட்டுக் குடும்பம் (*அரசியலமைப்பு அளவீடாக சார்பும் வள ஓட்டங்களும்*); [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — வெளிப்படையான சார்பு வரைபடங்கள் மற்றும் தணிக்கை செய்யக்கூடிய வள ஓட்டப் பதிவுகள் வழியாக **மேற்பார்வை**, **சரத்து XV-A** (*தணிக்கைத் தன்மையும் கவனிக்கக்கூடிய சான்றும்*) கீழ் சவால் செய்யக்கூடிய மதிப்பாயில் **பங்கேற்பு**; [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** (தெரியும் செலவு–பயன் ஒதுக்கீடு) மற்றும் **தொடர்ச்சி** (மாறும் அமைப்புகள் முழுவதும் நீடிக்கும் சார்பு தெரிவு).
 - கீழ்வழி: அமைப்புகள் பகிர்ந்த உள்கட்டமைப்பு அல்லது அடிப்படைச் சார்பிலிருந்து ஒதுக்கும், வழிமாற்றும், நிதியளிக்கும், அல்லது பிரித்தெடுக்கும் இடத்தின் [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); **[corpus_systems.md](../../corpus_systems.md)**, **CS-9** (*வள ஒதுக்கீடும் நிதி பொறுப்பான நிர்வாகமும்*), **CS-8** (*தகவமைப்பு நீடித்த நிலைத்தன்மையும் சூழல் அமைப்பு மீள்திறனும்*).
 
@@ -828,7 +828,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">தடம்</span></strong></summary>
 
-- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §4 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்வழி: கொள்கை: அத்தியாயம் ஒன்று [§2 அடிப்படை நோக்கம்: நல்வாழ்வு](core_01_a_values_principles.md#2-foundational-objective-wellbeing), [§6.1 முக்கிய பரிமாற்றக் கொள்கைகள்](core_01_b_interaction_interpretation.md#61-core-tradeoff-principles), [அத்தியாயம் ஏழு §3 முழு அமைப்பு சான்றளிப்பு மதிப்பீடு](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - இதனுடன் படிக்க: [*ஆட்சி அமைப்பு, மேற்பார்வை, சார்பு, பரவலாக்கம், செறிவு, சந்தை அமைப்பு, வெளியேறல் பாதை முழுமை*](core_05_band_accountability.md#governance-architecture-oversight-decentralization-and-concentration-cluster) (செறிவு, மேற்பார்வை, சார்பு, ஆளும் அதிகார அமைப்பு, அல்லது ஊக்குவிப்பு வழிமாற்றம் கீழ் இயக்க உரையின் **§5** / **§5** மற்றும் *செறிவு வாசல் இடைவினை* ஒழுங்குடன் குறுக்கிடும் இடத்தின் கூட்டு அழைப்பு).
 - இதனுடன் படிக்க: [அரசியலமைப்பு நான்மம்](core_00_preamble.md#constitutional-tetrad) — சவால் மற்றும் தகராறு பாதைகளில் **பங்கேற்பு**, **மேற்பார்வை** மற்றும் தணிக்கை, **பொறுப்புக்கூறல்** மற்றும் திருத்த மதிப்பாய்வு, **சரத்து XXIV-C** (*காலந்தவறாத் தீர்வும் தாமத எதிர்ப்புத் தளமும்*) கீழ் **காலந்தவறாமை**; [இரண்டு அரசியலமைப்பு நோக்கங்கள்](core_00_preamble.md#two-constitutional-aims) — **செழிப்பு** (அமைப்புகளுக்கிடையிலான நியாயமும் பிரித்தெடுத்தல் தடையும்) மற்றும் **தொடர்ச்சி** (நீண்டகால நீடித்த நிலைத்தன்மையும் சூழல் அமைப்பு நிதியும்).
 - கீழ்வழி: அமைப்புகளுக்கிடையிலான நியாயம், சூழல் அமைப்பு நிதி, அல்லது பகிர்ந்த உள்கட்டமைப்பிலிருந்து நீடித்த பிரித்தெடுத்தல் பொருளுள்ள விதத்தில் பிரச்சினையாக இருக்கும் இடத்தின் [அமைப்பு இணக்கச் சான்றளிப்பு](core_05_band_continuity.md#system-alignment-certification-constitutional) மற்றும் [அத்தியாயம் ஏழு](../../core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification).

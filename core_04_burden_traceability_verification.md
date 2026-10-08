@@ -190,13 +190,13 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 - Upstream: [Chapter Two — Definition Structure and Component Requirements](core_02_definition_structure.md#chapter-two-definition-structure-and-component-requirements); [Chapter Three — Definition Integrity, Evasion, and Non-Compliance](core_03_definition_integrity.md#chapter-three-definition-integrity-evasion-and-non-compliance); [Chapter Four, sections 1 through 5](#1-exclusive-enforcement-and-burden-allocation).
 - Downstream: [Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification); [Chapter Nine — Contribution, Violation, and Standing Model](core_09_standing_assessment.md#chapter-nine-contribution-violation-and-standing-model--measurement).
-- Read with: [Chapter Eight §6 — Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#6-certification-outcomes) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior recognition.
+- Read with: [Chapter Eight §5 — Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) — verified non-compliance under Chapters Two through Four can reopen or defeat certification regardless of prior certification.
 
 </details>
 
 <br>
 
-*In plain terms: Chapters Two through Four set the rules every compliance claim must meet — what definitions mean, when behavior fails them, and how proof must be shown. Chapter Eight is a separate forum-supervised certification process that uses those rules when a system needs formal alignment recognition. A current certification is not a free pass around Two through Four.*
+*In plain terms: Chapters Two through Four set the rules every compliance claim must meet — what definitions mean, when behavior fails them, and how proof must be shown. Chapter Eight is a separate forum-supervised certification process that uses those rules when a system needs formal alignment certification. A current certification is not a free pass around Two through Four.*
 
 This section is **non-operative**. It states a **layer boundary** only.
 
@@ -207,11 +207,11 @@ This section is **non-operative**. It states a **layer boundary** only.
 
 These apply whenever compliance is evaluated — with or without certification.
 
-**[Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** supplies the forum-supervised **certification process** where material: whole-system evaluation domains, certification-record duties, recognition outcomes, recertification cadence, contestability chain, and verified-input bridge to Chapter Nine. It **applies** Chapters Two through Four; it does **not** restate them.
+**[Chapter Eight — System Alignment Certification](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)** supplies the forum-supervised **certification process** where material: whole-system evaluation domains, certification-record duties, certification outcomes, recertification cadence, contestability chain, and verified-input bridge to Chapter Nine. It **applies** Chapters Two through Four; it does **not** restate them.
 
 Readers must not treat:
 - a **certification record** as a substitute for ongoing compliance under Chapters Two through Four
-- **Chapter Eight** recognition, conditional recognition, or recertification as lowering the proof, trace, or evidence standards in this chapter
+- **Chapter Eight** certification, conditional certification, or recertification as lowering the proof, trace, or evidence standards in this chapter
 - **Chapters Two through Four** as optional because a system was previously certified — verified non-compliance under those chapters can reopen or defeat certification under Chapter Eight
 
 ---

@@ -218,7 +218,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
 - بالادست: اصول: Chapter One [§3.1 انصاف](core_01_a_values_principles.md#31-fairness)، [Chapter One §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [Chapter One §13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)۔
-- زیریں: شرکت کی پیمائش کا خاندان (*حقیقی انصاف اور محفوظ خصوصیات کو بدل کے طور پر استعمال کرنا اور غیر متناسب اثر*)؛ [Chapter Eight §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*جہاں تصدیق درجہ بندی، قیمت، رسائی یا بوجھ کی تقسیم کو مشروط کرے وہاں عدمِ امتیاز کا جائزہ*)؛ [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) کے فورم، انتظامی اور نفاذی عمل (*فیصلہ سازی اور کارروائیوں کا فرض*)۔
+- زیریں: شرکت کی پیمائش کا خاندان (*حقیقی انصاف اور محفوظ خصوصیات کو بدل کے طور پر استعمال کرنا اور غیر متناسب اثر*)؛ [Chapter Eight §3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*جہاں تصدیق درجہ بندی، قیمت، رسائی یا بوجھ کی تقسیم کو مشروط کرے وہاں عدمِ امتیاز کا جائزہ*)؛ [Chapter Twelve](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) کے فورم، انتظامی اور نفاذی عمل (*فیصلہ سازی اور کارروائیوں کا فرض*)۔
 - ساتھ پڑھیں: Chapter Five کی [محفوظ خصوصیات](core_05_band_participation.md#protected-characteristics-constitutional) اور [زبان، ثقافت اور ورثہ](core_05_band_continuity.md#language-culture-and-heritage-constitutional)؛ مقامی اور علاقائی تسلسل کے سوالات کے لیے Chapter Five کا [مقامی تسلسل](core_05_band_continuity.md#indigenous-continuity-constitutional) (*برادری سے جڑا حقوق کا تلا؛ متعلقہ تلے **Article VI-C** (عدمِ امتیاز) اور **Article I-A** (ماحولیاتی پیشگی شرائط اور ماحولیاتی سالمیت)*)، جو [Article I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*ماحولیاتی نظام کی سالمیت کی پیشگی شرط*) اور [Chapter Seventeen](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*اختیار اپنانے والے کی پابندی*) کی طرف رہنمائی کرتا ہے۔
 
 </details>
@@ -264,8 +264,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ رسانی</span></strong></summary>
 
-- بالادست: اصول: باب اوّل [§3 بنیادی مقصد: فلاح و بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [باب اوّل §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 پابندیوں کا نظم](core_01_a_values_principles.md#71-limitation-discipline)، [§5.2 سادہ زبان میں قابلِ رسائی ہونا](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)، [باب ہشتم §4 پورے نظام کی تصدیقی جانچ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
-- زیریں: **آرٹیکل VI-A** (*وقار اور مساوی اخلاقی مرتبہ*) وقار کی کم از کم حد؛ **آرٹیکل VI-C** (*عدمِ امتیاز*) فیصلہ کاری اور عملی کارروائیوں میں عدمِ امتیاز اور مکمل شمولیت؛ **آرٹیکل IV-A** (*تعلیم تک مساوی رسائی*) تعلیم تک مساوی رسائی (تکرار نہیں — تعلیم سے مخصوص رسائی اسی آرٹیکل کے دائرے میں ہے؛ یہ آرٹیکل تمام شعبوں پر محیط حقوق کی کم از کم حد بیان کرتا ہے)؛ **آرٹیکل X-B** (*حکمرانی میں شرکت اور ووٹ کا استحقاق*) حکمرانی میں شرکت؛ **آرٹیکل XII** (*متعلقہ فریقوں کی نظام میں شرکت، نمائندگی اور منصفانہ کارروائی*) متعلقہ فریقوں کی شرکت؛ **آرٹیکل XVI** (*آڈٹ، شفافیت اور آزادانہ تصدیق*) آزادانہ تصدیق؛ شرکت کی پیمائش کا خاندان (*آئینی پیمائش کے طور پر قابلِ رسائی ہونا*)؛ [باب ہشتم §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*جہاں تصدیق بامعنی شرکت کی شرط بنے وہاں رسائی کی جانچ*)۔
+- بالادست: اصول: باب اوّل [§3 بنیادی مقصد: فلاح و بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [باب اوّل §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 پابندیوں کا نظم](core_01_a_values_principles.md#71-limitation-discipline)، [§5.2 سادہ زبان میں قابلِ رسائی ہونا](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)، [باب ہشتم §3 پورے نظام کی تصدیقی جانچ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
+- زیریں: **آرٹیکل VI-A** (*وقار اور مساوی اخلاقی مرتبہ*) وقار کی کم از کم حد؛ **آرٹیکل VI-C** (*عدمِ امتیاز*) فیصلہ کاری اور عملی کارروائیوں میں عدمِ امتیاز اور مکمل شمولیت؛ **آرٹیکل IV-A** (*تعلیم تک مساوی رسائی*) تعلیم تک مساوی رسائی (تکرار نہیں — تعلیم سے مخصوص رسائی اسی آرٹیکل کے دائرے میں ہے؛ یہ آرٹیکل تمام شعبوں پر محیط حقوق کی کم از کم حد بیان کرتا ہے)؛ **آرٹیکل X-B** (*حکمرانی میں شرکت اور ووٹ کا استحقاق*) حکمرانی میں شرکت؛ **آرٹیکل XII** (*متعلقہ فریقوں کی نظام میں شرکت، نمائندگی اور منصفانہ کارروائی*) متعلقہ فریقوں کی شرکت؛ **آرٹیکل XVI** (*آڈٹ، شفافیت اور آزادانہ تصدیق*) آزادانہ تصدیق؛ شرکت کی پیمائش کا خاندان (*آئینی پیمائش کے طور پر قابلِ رسائی ہونا*)؛ [باب ہشتم §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*جہاں تصدیق بامعنی شرکت کی شرط بنے وہاں رسائی کی جانچ*)۔
 - ساتھ پڑھیں: باب پنجم *قابلِ رسائی ہونا*، *محفوظ خصوصیات*، *حقیقی انصاف*، *مادیت*، *انحصار*، *بامعنی اختیار*۔ رسائی کا ہمہ گیر اصول: [باب اوّل §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*سادہ زبان میں قابلِ رسائی ہونا*)۔
 
 </details>
@@ -1024,7 +1024,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادست ماخذ: اصول: [باب اول §5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [باب ہشتم §4 پورے نظام کے سرٹیفیکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادست ماخذ: اصول: [باب اول §5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 علمی انکشاف کی پابندیاں](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، اور [باب ہشتم §3 پورے نظام کے سرٹیفیکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -1071,7 +1071,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادست اصول: [باب اول §5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§9.1 پیداواری صلاحیت (وسائلی خیر)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)، [باب اول §13.3 قابلِ اجتناب بوجھ میں کمی](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، [باب ہشتم §4 پورے نظام کے سرٹیفیکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب اول §18 ذمہ دارانہ نگہداشت کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
+- بالادست اصول: [باب اول §5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§9.1 پیداواری صلاحیت (وسائلی خیر)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)، [باب اول §13.3 قابلِ اجتناب بوجھ میں کمی](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، [باب ہشتم §3 پورے نظام کے سرٹیفیکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §18 ذمہ دارانہ نگہداشت کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 - ذیلی اثرات: **آرٹیکل III-C** (*محنت اور معاشی حق کی کم از کم بنیاد*) کی محنت و معیشت کی بنیاد؛ **آرٹیکل IX-A** (*شبیہ اور شہرت پر خود ملکیت*) کی شبیہ؛ **آرٹیکل IX-B** (*تجرباتی اور اخذ کردہ ڈیٹا کے حقوق*) کا تجرباتی اور اخذ کردہ ڈیٹا؛ **آرٹیکل IX-C** (*سچی اشاعت اور بلند اثر اشاعت کی حدود*) کی اشاعت؛ **باب اول §11** کی عدم ارتکاز اور **§13.1** کا ارتکاز حد کا طریقۂ کار۔
 - ساتھ پڑھیں: [**Def.C1** *محنت اور معاشی حق کی کم از کم بنیاد: معاوضہ، تنظیم، محفوظ حالات، فراغت اور تخلیقی کام*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (**آرٹیکلز III-C** (*محنت اور معاشی حق کی کم از کم بنیاد*)، **III-D** (*محفوظ کام کے حالات*)، اور **III-E** (*آرام اور بحالی*) کے ساتھ مشترکہ اطلاق)، نیز جہاں مادی طور پر متعلق ہو [**Def.C3** (*رازداری (معلوماتی)*)](core_05_band_continuity.md#privacy-informational-cluster)۔
 
@@ -1254,7 +1254,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادست اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب اول §13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، اور [باب ہشتم §4 پورے نظام کے سرٹیفیکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادست اصول: [باب اول §7 آزادی](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب اول §13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، اور [باب ہشتم §3 پورے نظام کے سرٹیفیکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 
 </details>
 
@@ -1563,7 +1563,7 @@ flowchart TB
   - **Chapter Ten** یا **Article XIX** (*Standing and Participation Status*) کے تحت حیثیتی تالے کی تائید، اہلیت کی منظوری سے انکار یا تاخیر، یا کسی نامزد راستے کو محدود کرنے؛
   - [Chapter Eleven](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out) کے تحت آئین مخالف بدعملی کے تعین کی تائید؛
   - **Article X-B** (*Governance Participation and Voting Entitlement*) اور **Chapter Thirteen** کے تحت حکمرانی کے ووٹ، اسٹیک ہولڈر شرکت، امیدوار بننے، عہدہ رکھنے، فورم میں خدمت یا واپس بلانے کے حقوق کم کرنے؛
-  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest) کے تحت نظام کی مطابقت کی تصدیق کے خلاف شمار ہونے؛
+  - [Chapter Eight](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest) کے تحت نظام کی مطابقت کی تصدیق کے خلاف شمار ہونے؛
   - نگرانی، دراندازی، خطرے کی درجہ بندی یا ریکارڈ جمع کرنے کا جواز بننے، جنہیں **Article XIV-A** (*Security, Intelligence, and Covert-Power Limits*) پہلے ہی ممنوع قرار دیتا ہے؛ یا
   - بقا کے لیے ضروری چیزوں، حقوقی کم از کم معیار، روزگار، معمول کی تجارت، یا اعتراض اور تدارک تک رسائی کو مشروط کرنے کے لیے استعمال نہیں ہو سکتا۔
 
@@ -1789,7 +1789,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تسلسل</span></strong></summary>
 
-- بالادستی ماخذ: اصول: [باب اوّل §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اوّل §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب اوّل §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application)، اور [باب ہشتم §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادستی ماخذ: اصول: [باب اوّل §5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب اوّل §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب اوّل §20 Integrated Application](core_01_c_stewardship_capacity_principles.md#20-integrated-application)، اور [باب ہشتم §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad) — **شرکت** کا ستون (اسٹیک ہولڈر نظام میں شرکت کی پرت)؛ [material stake](core_00_preamble.md#material-stake) کے تناسب سے پیمانہ بندی؛ [Materially Binding Act Record](core_05_band_accountability.md#materially-binding-act-record) اور [Chapter Seven §8 Act Records and Attributable Handoffs](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs)۔
 - پرت: **Stakeholder System Participation (SSP)**۔ یہ اجازت دینے والی **Constitutional Contract Layer (CCL)** سے الگ ہے۔
 
@@ -1836,7 +1836,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">تسلسل</span></strong></summary>
 
-- بالادستی ماخذ: اصول: [باب اوّل §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب ہشتم §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب اوّل §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
+- بالادستی ماخذ: اصول: [باب اوّل §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [باب ہشتم §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اوّل §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 
 </details>
 
@@ -1923,7 +1923,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بنیادی ماخذ: اصول: باب اوّل [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب ہشتم §4 پورے نظام کی تصدیق کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب اوّل §18 امانت داری کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
+- بنیادی ماخذ: اصول: باب اوّل [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب ہشتم §3 پورے نظام کی تصدیق کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اوّل §18 امانت داری کے نظم کے تحت حکمرانی](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline)۔
 - ساتھ پڑھیں: [نظام پر قبضہ](core_05_band_continuity.md#system-capture)؛ [قبضہ مخالف تحفظ](core_05_band_continuity.md#anti-capture)؛ [باب ہفتم: فعلی خودمختاری اور فرائض کی علیحدگی](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties)۔
 
 </details>

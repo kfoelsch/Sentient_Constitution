@@ -58,7 +58,7 @@
 - 운영 측정 단계는 제5장 정의 거처에 산다 — [헌법 효율](core_05_band_continuity.md#constitutional-efficiency), [피할 수 있는 부담](core_05_band_continuity.md#avoidable-burden), [생산 능력](core_05_band_continuity.md#productive-capacity-constitutional), 그리고 [부담 감축 의무](core_05_band_continuity.md#burden-reduction-duty-constitutional)를 보라.
 - 성과 목표, 보상, 자원 측정은 헌법 결과에 추적 가능하게 남는 한에서만 유효하다.
 - 그것들은 헌법 효율, [생산 능력](core_05_band_continuity.md#productive-capacity-constitutional), 또는 권리 바닥 준수를 대체할 수 없다.
-- 전체 체계 성과가 실질로 범위에 있을 때 [제7장 §4 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)와 함께 읽으라.
+- 전체 체계 성과가 실질로 범위에 있을 때 [제7장 §3 전체 체계 인증 평가](../../core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)와 함께 읽으라.
 
 ---
 

@@ -215,7 +215,7 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
 - المنبع: المبادئ: الفصل الأول [§3.1 الإنصاف](core_01_a_values_principles.md#31-fairness)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§13.1 مبادئ المفاضلة الأساسية](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، و[الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test).
-- المصب: عائلة قياس المشاركة (*الإنصاف الجوهري والاستعاضة بالسمات المحمية والأثر المتفاوت*)؛ [الفصل الثامن §4.8.3](core_08_a_system_alignment_certification_evaluation.md#483-nondiscrimination-evaluation) (*تقييم عدم التمييز حيث يشترط الاعتماد التصنيف أو الترتيب أو التسعير أو فرض القيود أو توزيع الأعباء*)؛ وعمليات المحافل والإدارة والإنفاذ في [الفصل الثاني عشر](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*واجب الفصل في القضايا والتشغيل*).
+- المصب: عائلة قياس المشاركة (*الإنصاف الجوهري والاستعاضة بالسمات المحمية والأثر المتفاوت*)؛ [الفصل الثامن §3.8.3](core_08_a_system_alignment_certification_evaluation.md#383-nondiscrimination-evaluation) (*تقييم عدم التمييز حيث يشترط الاعتماد التصنيف أو الترتيب أو التسعير أو فرض القيود أو توزيع الأعباء*)؛ وعمليات المحافل والإدارة والإنفاذ في [الفصل الثاني عشر](core_12_forum.md#chapter-twelve-forums-and-jurisdiction) (*واجب الفصل في القضايا والتشغيل*).
 - يُقرأ مع: الفصل الخامس [السمات المحمية](core_05_band_participation.md#protected-characteristics-constitutional) و[اللغة والثقافة والتراث](core_05_band_continuity.md#language-culture-and-heritage-constitutional)؛ والفصل الخامس [استمرارية الشعوب الأصلية](core_05_band_continuity.md#indigenous-continuity-constitutional) (*أرضية حقوق مرتكزة إلى المجتمع؛ وأرضيتا الحماية الأساسيتان **المادة VI-C** (عدم التمييز) و**المادة I-A** (الشروط البيئية المسبقة والسلامة الإيكولوجية)*) في مسائل استمرارية الشعوب الأصلية والاستمرارية الإقليمية، وهي مسائل تُحال إلى [المادة I-A](core_06_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*شرط مسبق لسلامة النظام الإيكولوجي*) و[الفصل السابع عشر](core_17_incorporation.md#chapter-seventeen-incorporation-bridge) (*انضباط ولاية الجهة المعتمِدة*).
 
 </details>
@@ -261,8 +261,8 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، [§5.2 الإتاحة بلغة واضحة](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)، [الفصل الثامن §4 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
-- المصب: حدّ الكرامة في **المادة VI-A** (*الكرامة والمكانة الأخلاقية المتساوية*)، وعدم التمييز والإدماج الكامل في الفصل في المنازعات والعمليات في **المادة VI-C** (*عدم التمييز*)، وتكافؤ فرص التعليم في **المادة IV-A** (*تكافؤ فرص التعليم*)—فالإتاحة الخاصة بالتعليم من اختصاصها؛ وتقرر هذه المادة حدّ الحقوق المشترك بين المجالات—ومشاركة الحوكمة في **المادة X-B** (*المشاركة في الحوكمة واستحقاق التصويت*)، ومشاركة أصحاب المصلحة وتمثيلهم والإجراءات الواجبة في **المادة XII**، والتحقق المستقل في **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*)؛ وأسرة قياس المشاركة (*الإتاحة بوصفها قياسًا دستوريًا*)؛ [الفصل الثامن §4.8.4](core_08_a_system_alignment_certification_evaluation.md#484-accessibility-evaluation) (*تقييم الإتاحة حيث يجعل الاعتماد المشاركة الفعلية شرطًا جوهريًا*).
+- المنبع: المبادئ: الفصل الأول [§3 الهدف التأسيسي: الرفاه](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§7.1 انضباط القيود](core_01_a_values_principles.md#71-limitation-discipline)، [§5.2 الإتاحة بلغة واضحة](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)، [الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
+- المصب: حدّ الكرامة في **المادة VI-A** (*الكرامة والمكانة الأخلاقية المتساوية*)، وعدم التمييز والإدماج الكامل في الفصل في المنازعات والعمليات في **المادة VI-C** (*عدم التمييز*)، وتكافؤ فرص التعليم في **المادة IV-A** (*تكافؤ فرص التعليم*)—فالإتاحة الخاصة بالتعليم من اختصاصها؛ وتقرر هذه المادة حدّ الحقوق المشترك بين المجالات—ومشاركة الحوكمة في **المادة X-B** (*المشاركة في الحوكمة واستحقاق التصويت*)، ومشاركة أصحاب المصلحة وتمثيلهم والإجراءات الواجبة في **المادة XII**، والتحقق المستقل في **المادة XVI** (*التدقيق والشفافية والتحقق المستقل*)؛ وأسرة قياس المشاركة (*الإتاحة بوصفها قياسًا دستوريًا*)؛ [الفصل الثامن §3.8.4](core_08_a_system_alignment_certification_evaluation.md#384-accessibility-evaluation) (*تقييم الإتاحة حيث يجعل الاعتماد المشاركة الفعلية شرطًا جوهريًا*).
 - تُقرأ مع مصطلحات الفصل الخامس: *الإتاحة* و*الخصائص المحمية* و*الإنصاف الجوهري* و*الأهمية المادية* و*الاعتماد* و*القدرة الفاعلة ذات المعنى*. ومبدأ الإتاحة المشترك: [الفصل الأول §5.2](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (*الإتاحة بلغة واضحة*).
 
 </details>
@@ -901,7 +901,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[الفصل الثامن §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [§13.2 Epistemic Disclosure Constraints](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints)، و[الفصل الثامن §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -949,7 +949,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التسلسل المرجعي</span></strong></summary>
 
-- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§9.1 Productive Capacity (Instrumental Good)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)، [الفصل الأول §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، [الفصل الثامن §4 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- الأسس العليا: المبادئ: الفصل الأول [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 Freedom](core_01_a_values_principles.md#7-freedom-bounded-agency)، [§9.1 Productive Capacity (Instrumental Good)](core_01_a_values_principles.md#91-productive-capacity-instrumental-good)، [الفصل الأول §13.3 Minimization of Avoidable Burden](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)، [الفصل الثامن §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - الآثار اللاحقة: أرضية العمل والاقتصاد في **Article III-C** (*Labor and Economic Floor*)؛ الصورة في **Article IX-A** (*Self-Ownership of Likeness and Reputation*)؛ البيانات التجريبية والمشتقة في **Article IX-B** (*Experiential and Derived Data Rights*)؛ النشر في **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*)؛ منع التركز في **Chapter One §11** وآلية عتبة التركز في **§13.1**.
 - يُقرأ مع: [**Def.C1** *Labor and Economic Floor: Compensation, Organization, Safe Conditions, Leisure, and Creative Work*](core_05_band_continuity.md#labor-and-economic-floor-cluster) (استدعاء مشترك مع **Articles III-C** (*Labor and Economic Floor*) و**III-D** (*Safe Working Conditions*) و**III-E** (*Rest and Recuperation*))، ومع [**Def.C3** (*Privacy (Informational)*)](core_05_band_continuity.md#privacy-informational-cluster) حيث تكون ذات صلة جوهرية.
 
@@ -1132,7 +1132,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[الفصل الثامن §4 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §13.1.5 إجراء تعارض الحقوق](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، و[الفصل الثامن §3 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1440,7 +1440,7 @@ flowchart TB
   - دعم قفل للصفة، أو رفض تصريح الكفاءة أو تأخيره، أو تضييق أي مسار مسمى بموجب **الفصل العاشر** أو **Article XIX** (*الصفة وحالة المشاركة*)؛
   - دعم تصنيف سوء سلوك مناهض للدستور بموجب [الفصل الحادي عشر](core_11_a_misconduct_designation.md#dissent-and-peaceful-protest-carve-out)؛
   - الانتقاص من حقوق التصويت في الحوكمة أو مشاركة الأطراف المعنية أو الترشح أو تولي المناصب أو الخدمة في المنتديات أو سحب الثقة بموجب **Article X-B** (*المشاركة في الحوكمة واستحقاق التصويت*) و**الفصل الثالث عشر**؛
-  - احتساب أمرٍ ضد شهادة توافق النظام بموجب [الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#471-dissent-and-peaceful-protest)؛
+  - احتساب أمرٍ ضد شهادة توافق النظام بموجب [الفصل الثامن](core_08_a_system_alignment_certification_evaluation.md#371-dissent-and-peaceful-protest)؛
   - تبرير المراقبة أو الاختراق أو تقييم التهديد أو تراكم السجلات، وهي أمور يحظرها أصلًا **Article XIV-A** (*حدود الأمن والاستخبارات والسلطة السرية*)؛ أو
   - جعل أساسيات البقاء أو الحدود الدنيا لأرضية الحقوق أو العمل أو التجارة العادية أو الوصول إلى الاعتراض والانتصاف مشروطةً بذلك.
 
@@ -1661,7 +1661,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application)، و[الفصل الثامن §4 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- المنابع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الأول §20 التطبيق المتكامل](core_01_c_stewardship_capacity_principles.md#20-integrated-application)، و[الفصل الثامن §3 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - يُقرأ مع: [الرباعية الدستورية](core_00_preamble.md#constitutional-tetrad) — ضلع **المشاركة** (طبقة المشاركة النظامية للأطراف المعنية)؛ والتدرج بحسب [المصلحة المادية](core_00_preamble.md#material-stake)؛ و[سجل الفعل الملزم ماديًا](core_05_band_accountability.md#materially-binding-act-record) و[الفصل السابع §7 سجلات الأفعال والإحالات المنسوبة وتوجيه المسألة إلى الجهة غير المختصة](core_07_functional_independence_segregation_of_duties.md#8-act-records-and-attributable-handoffs).
 - الطبقة: **المشاركة النظامية للأطراف المعنية (SSP)**. وهي متميزة عن تصريح **طبقة العقد الدستوري (CCL)**.
 
@@ -1707,7 +1707,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">المسار</span></strong></summary>
 
-- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الثامن §4 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنابع: المبادئ: [الفصل الأول §7 الحرية](core_01_a_values_principles.md#7-freedom-bounded-agency)، [الفصل الثامن §3 تقييم التصديق على النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، و[الفصل الأول §18 الحوكمة في ظل انضباط الإدارة المسؤولة](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1794,7 +1794,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">التتبّع</span></strong></summary>
 
-- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الثامن §4 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، والفصل الأول [§18 الحوكمة في ظل الانضباط بالوصاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- المنبع: المبادئ: الفصل الأول [§5 الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [الفصل الثامن §3 تقييم اعتماد النظام بأكمله](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، والفصل الأول [§18 الحوكمة في ظل الانضباط بالوصاية](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 - تُقرأ مع: [الاستحواذ على النظام](core_05_band_continuity.md#system-capture)؛ [مناهضة الاستحواذ](core_05_band_continuity.md#anti-capture)؛ [الفصل السابع: الاستقلال الوظيفي وفصل الواجبات](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
 
 </details>

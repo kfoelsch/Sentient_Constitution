@@ -68,7 +68,7 @@
 
 **Bagian yang tidak secara langsung membahas komponen mana pun.** [§15.1.1 Prinsip Anti-Segmentasi](#1511-anti-segmentation-principle) dan [§15.4.1](#1541-integrated-reading) sampai [§15.4.3](#1543-incorporation-layer) mengatur cara teks dibaca dan lapisan sumber mana yang mengendalikan. Sesuai rancangan, Jejaknya tidak memuat baris Tetrad.
 
-**Dua makna waktu.** Dalam Bagian B, waktu muncul dalam dua makna. Cakrawala waktu panjang (kerugian tertunda dan kumulatif, serta [§4.2 Batasan Konsistensi Waktu Bab Delapan](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint) yang diterapkan dalam [§13.1.2](#1312-harm-minimization)) termasuk dalam tujuan **Kesinambungan**. Tenggat, irama peninjauan, dan penundaan (batas waktu pembatasan, pengungkapan pada akhirnya, penundaan yang dapat dihindari) termasuk dalam komponen **ketepatan waktu**.
+**Dua makna waktu.** Dalam Bagian B, waktu muncul dalam dua makna. Cakrawala waktu panjang (kerugian tertunda dan kumulatif, serta [§3.2 Batasan Konsistensi Waktu Bab Delapan](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) yang diterapkan dalam [§13.1.2](#1312-harm-minimization)) termasuk dalam tujuan **Kesinambungan**. Tenggat, irama peninjauan, dan penundaan (batas waktu pembatasan, pengungkapan pada akhirnya, penundaan yang dapat dihindari) termasuk dalam komponen **ketepatan waktu**.
 
 **Dua sumbu, tanpa pertentangan.** Tujuan Bagian A menyatakan apa yang hendak dicapai sistem bersama. Bagian B menyatakan apa yang tidak boleh diambil oleh penyeimbangan, pengesampingan, atau penafsiran apa pun.
 
@@ -103,7 +103,7 @@
 
 <br>
 
-*Secara sederhana: Benturan Konstitusional akan terjadi — **Keselamatan** dan **Kebenaran** didahulukan. Setelah itu, pembatasan harus proporsional, diperlukan, meminimalkan bahaya, dan seringan mungkin. Kebenaran tidak boleh disembunyikan demi kenyamanan; privasi tidak boleh dicabut demi kemudahan; pembatasan kebebasan berlaku menurut [§7.1 Disiplin Pembatasan](core_01_a_values_principles.md#71-limitation-discipline); Benturan Konstitusional mengenai hak memerlukan uji keputusan yang terdokumentasi; dan metrik yang memberikan gambaran keliru tentang kepatuhan tidak diperhitungkan. Optimalisasi jangka pendek tidak dapat lolos evaluasi berdasarkan [Kendala Konsistensi Waktu Bab Delapan §4.2](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint). **§13.1** (*Prinsip Inti Pertukaran*) sampai **§13.3** (*Meminimalkan Beban yang Dapat Dihindari*) memuat aturan pertukaran, kendala pengungkapan dan privasi, serta prosedur Benturan Konstitusional.*
+*Secara sederhana: Benturan Konstitusional akan terjadi — **Keselamatan** dan **Kebenaran** didahulukan. Setelah itu, pembatasan harus proporsional, diperlukan, meminimalkan bahaya, dan seringan mungkin. Kebenaran tidak boleh disembunyikan demi kenyamanan; privasi tidak boleh dicabut demi kemudahan; pembatasan kebebasan berlaku menurut [§7.1 Disiplin Pembatasan](core_01_a_values_principles.md#71-limitation-discipline); Benturan Konstitusional mengenai hak memerlukan uji keputusan yang terdokumentasi; dan metrik yang memberikan gambaran keliru tentang kepatuhan tidak diperhitungkan. Optimalisasi jangka pendek tidak dapat lolos evaluasi berdasarkan [Kendala Konsistensi Waktu Bab Delapan §3.2](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). **§13.1** (*Prinsip Inti Pertukaran*) sampai **§13.3** (*Meminimalkan Beban yang Dapat Dihindari*) memuat aturan pertukaran, kendala pengungkapan dan privasi, serta prosedur Benturan Konstitusional.*
 
 Bagian B menjaga Tetrad tetap utuh dalam tiga situasi:
 - **[Benturan Konstitusional](core_05_band_integrative.md#constitutional-collision) (bagian ini):** menyelesaikannya tanpa melemahkan unsur mana pun.
@@ -300,7 +300,7 @@ Hal-hal berikut tidak patuh:
 - hanya mengoptimalkan bahaya lokal atau langsung sambil menimbulkan bahaya sistemik, agregat, atau ekologis yang lebih besar;
 - mengalihkan bahaya kepada ekosistem, makhluk sentien yang tidak teridentifikasi, atau pihak lain yang tidak diperhitungkan agar tampak meminimalkan bahaya bagi pihak yang teridentifikasi.
 
-**Disiplin cakrawala waktu.** Pengoptimalan jangka pendek dengan mengorbankan sistem jangka panjang tidak lulus uji ini. Minimalisasi bahaya harus memperhitungkan [Kendala Konsistensi Waktu Bab Delapan §4.2](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint): keputusan yang tampak meminimalkan bahaya pada periode berjalan, tetapi secara terduga menimbulkan bahaya yang lebih besar sepanjang cakrawala waktu konstitusional yang relevan, tidak patuh.
+**Disiplin cakrawala waktu.** Pengoptimalan jangka pendek dengan mengorbankan sistem jangka panjang tidak lulus uji ini. Minimalisasi bahaya harus memperhitungkan [Kendala Konsistensi Waktu Bab Delapan §3.2](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): keputusan yang tampak meminimalkan bahaya pada periode berjalan, tetapi secara terduga menimbulkan bahaya yang lebih besar sepanjang cakrawala waktu konstitusional yang relevan, tidak patuh.
 
 **Hubungan dengan batas minimum konstitusional.** Minimalisasi bahaya berlaku *di atas* batas minimum konstitusional yang ditetapkan dalam [§13.1.4 Batas Minimum Konstitusional, Keselamatan, dan Proses Anti-Degradasi](#1314-constitutional-floors-safety-and-anti-degrading-process). Prinsip ini tidak pernah mengizinkan:
 - penghapusan permanen atas minimum Lantai Hak;
@@ -846,7 +846,7 @@ Prinsip ini tidak:
 - menciptakan, memperluas, atau mempersempit ketentuan Rights-Floor Bab Enam; atau
 - menggantikan pernyataan gugus itu sendiri tentang kompartemen dan kewajiban terlindungi yang dicakupnya. Gugus menyatakan hal tersebut di bawah **Anti-bypass** dan merujuk bagian ini untuk aturannya.
 
-Evaluasi seluruh sistem harus menguji anti-segmentasi berdasarkan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) ketika gugus yang dipanggil bersama berlaku, sebelum klaim klasifikasi, tata kelola, atau kepatuhan dapat dianggap berlaku. Bagian ini bekerja bersama [Bab Tiga §2.1 Pola Pengelakan Umum](core_03_definition_integrity.md#21-common-evasion-patterns) dan [§2.2 Pengelakan Reduktif](core_03_definition_integrity.md#22-reductive-evasion).
+Evaluasi seluruh sistem harus menguji anti-segmentasi berdasarkan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) ketika gugus yang dipanggil bersama berlaku, sebelum klaim klasifikasi, tata kelola, atau kepatuhan dapat dianggap berlaku. Bagian ini bekerja bersama [Bab Tiga §2.1 Pola Pengelakan Umum](core_03_definition_integrity.md#21-common-evasion-patterns) dan [§2.2 Pengelakan Reduktif](core_03_definition_integrity.md#22-reductive-evasion).
 
 <a id="1512-derived-information-principle"></a>
 ##### Prinsip Informasi Turunan

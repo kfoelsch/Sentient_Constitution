@@ -83,7 +83,7 @@ Os **termos independentes e semi-independentes** vivem sob [Prestação de conta
 <details>
 <summary><strong><span style="color: #2563eb;">Rastro</span></strong></summary>
 
-- Ler com: [Capítulo Um §11 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Estrutura de mercado](core_01_c_stewardship_capacity_principles.md#13-market-structure), e [Capítulo Sete §4.3 Disciplina de governança, incentivos e impugnabilidade](../../core_08_a_system_alignment_certification_evaluation.md#43-governance-incentive-and-contestability-discipline).
+- Ler com: [Capítulo Um §11 Alinhamento de incentivos e captura do sistema](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 Estrutura de mercado](core_01_c_stewardship_capacity_principles.md#13-market-structure), e [Capítulo Sete §3.3 Disciplina de governança, incentivos e impugnabilidade](../../core_08_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
 
 </details>
 

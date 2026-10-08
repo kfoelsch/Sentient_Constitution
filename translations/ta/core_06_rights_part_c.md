@@ -123,7 +123,7 @@ flowchart TB
 - அதை எவ்வாறு சவால் செய்வது;
 - சிக்கல்கள் எவ்வாறு சரிசெய்யப்படுகின்றன.
 
-அமைப்பு **கட்டுரை XIII** (*நம்பகமான அமைப்புகளுடன் தொடர்புகொள்வதற்கான உரிமை*)-இன் முக்கியத்துவ வரம்பை அடைந்தால், சான்றளிப்பில் [அத்தியாயம் எட்டு §4.8.6 நம்பகத்தன்மை மற்றும் அமைப்பைச் சார்ந்திருக்கும் ஒருமைப்பாட்டு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation) கீழான நம்பகத்தன்மை மறுஆய்வும் அடங்கும்.
+அமைப்பு **கட்டுரை XIII** (*நம்பகமான அமைப்புகளுடன் தொடர்புகொள்வதற்கான உரிமை*)-இன் முக்கியத்துவ வரம்பை அடைந்தால், சான்றளிப்பில் [அத்தியாயம் எட்டு §3.8.6 நம்பகத்தன்மை மற்றும் அமைப்பைச் சார்ந்திருக்கும் ஒருமைப்பாட்டு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation) கீழான நம்பகத்தன்மை மறுஆய்வும் அடங்கும்.
 
 **sentient-இன் தரப்பிலிருந்து சவால் செய்யத்தன்மை அமைப்பை நேர்மையாக வைக்கிறது:** சான்றளிப்பு அமைப்பைச் சரிபார்க்கிறது; அதுவே இறுதி முடிவல்ல. அந்த அமைப்பால் பாதிக்கப்படும் ஒவ்வொரு sentient-க்கும் பின்வருவன தொடர்ந்தும் உண்டு:
 
@@ -363,7 +363,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 மீள்திறன் மற்றும் சுய-குணமடைதல் வடிவமைப்பு](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [அத்தியாயம் ஒன்று §13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), மற்றும் [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [10 மீள்திறன் மற்றும் சுய-குணமடைதல் வடிவமைப்பு](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [அத்தியாயம் ஒன்று §13.3 தவிர்க்கக்கூடிய சுமையைக் குறைத்தல்](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -713,7 +713,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), மற்றும் [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 நம்பிக்கை](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -787,7 +787,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 அறிவுசார் வெளிப்படுத்தல் கட்டுப்பாடுகள்](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -937,7 +937,7 @@ sentients மீது பொருள்சார் தாக்கம் ஏ�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §18 பொறுப்பேற்பு ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §18 பொறுப்பேற்பு ஒழுங்கின் கீழ் ஆட்சி](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1046,7 +1046,7 @@ sentients, பகிரப்பட்ட உள்கட்டமைப்ப�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1082,7 +1082,7 @@ sentients, பகிரப்பட்ட உள்கட்டமைப்ப�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 அடிப்படை சமரசக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 அடிப்படை சமரசக் கொள்கைகள்](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1116,7 +1116,7 @@ sentients, பகிரப்பட்ட உள்கட்டமைப்ப�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§5 உண்மை](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1175,7 +1175,7 @@ sentients, பகிரப்பட்ட உள்கட்டமைப்ப�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), மற்றும் [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் ஒன்று §7 சுதந்திரம்](core_01_a_values_principles.md#7-freedom-bounded-agency), மற்றும் [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1243,7 +1243,7 @@ sentients, பகிரப்பட்ட உள்கட்டமைப்ப�
 <details>
 <summary><strong><span style="color: #2563eb;">தடமறிதல்</span></strong></summary>
 
-- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் எட்டு §4 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- மேல்நிலை ஆதாரம்: கொள்கைகள்: அத்தியாயம் ஒன்று [§4 பாதுகாப்பு](core_01_a_values_principles.md#4-safety-harm-constraint), [அத்தியாயம் எட்டு §3 முழு-அமைப்பு சான்றளிப்பு மதிப்பீடு](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), மற்றும் [அத்தியாயம் ஒன்று §20 ஒருங்கிணைந்த பயன்பாடு](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

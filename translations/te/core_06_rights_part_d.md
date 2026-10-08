@@ -257,7 +257,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§6 విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- పూర్వాధారం: సూత్రాలు: అధ్యాయం ఒకటి [§6 విశ్వాసం](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -515,7 +515,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -546,7 +546,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -573,7 +573,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- పూర్వాధారం: సూత్రాలు: [అధ్యాయం ఒకటి §7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18 బాధ్యతాయుత నిర్వహణ క్రమశిక్షణ కింద పాలన](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -749,7 +749,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§7 స్వేచ్ఛ](core_01_a_values_principles.md#7-freedom-bounded-agency), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - దీనితో చదవండి: [అధ్యాయం ఒకటి §5.2 సరళ భాషా ప్రవేశం](core_01_a_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [§13.3 తప్పించగల భారాన్ని తగ్గించడం](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), [అధ్యాయం ఒకటి భాగం C §16.1 వికేంద్రీకృత అవగాహన](core_01_c_stewardship_capacity_principles.md#161-distributed-understanding).
 
 </details>
@@ -781,7 +781,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18.5 మాడ్యులర్ నిర్మాణం, ఆధారపడటం క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), [అధ్యాయం ఒకటి §18.5 మాడ్యులర్ నిర్మాణం, ఆధారపడటం క్రమశిక్షణ](core_01_c_stewardship_capacity_principles.md#185-modular-architecture-and-dependency-discipline), [అధ్యాయం ఒకటి §20 సమగ్ర అన్వయం](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -819,7 +819,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 - దీనితో చదవండి: [రాజ్యాంగ చతుష్టయం](core_00_preamble.md#constitutional-tetrad); [రెండు రాజ్యాంగ లక్ష్యాలు](core_00_preamble.md#two-constitutional-aims) — **వికాసం**, **కొనసాగింపు**; **అధ్యాయం ఐదు**లోని [తిరోగమన సామర్థ్యం](core_05_band_continuity.md#reversibility-constitutional), [ప్రమాదం](core_05_band_continuity.md#risk), [వ్యవస్థ స్వాధీనత](core_05_band_continuity.md#system-capture).
 
 </details>
@@ -863,7 +863,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 సత్యం](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -896,7 +896,7 @@ EOF
 <details>
 <summary><strong><span style="color: #2563eb;">జాడ</span></strong></summary>
 
-- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §4 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- పూర్వాధారం: అధ్యాయం ఒకటి [§4 భద్రత](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 ప్రధాన సమతుల్య సూత్రాలు](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), [అధ్యాయం ఎనిమిది §3 సంపూర్ణ వ్యవస్థ ధృవీకరణ మూల్యాంకనం](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 

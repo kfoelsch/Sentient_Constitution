@@ -269,7 +269,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
-- ماقبل: اصول: [باب اول §18.4 مسلسل جواز](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)؛ باب اول [§3 بنیادی مقصد: بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [باب ہشتم §4 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب اول §14 مطلق فوقیت کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
+- ماقبل: اصول: [باب اول §18.4 مسلسل جواز](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)؛ باب اول [§3 بنیادی مقصد: بہبود](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)، [باب ہشتم §3 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §14 مطلق فوقیت کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
 
 </details>
 
@@ -300,7 +300,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
-- ماقبل: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب ہشتم §4 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)، اور [باب اول §14 مطلق فوقیت کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
+- ماقبل: اصول: باب اول [§5 سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)، [باب ہشتم §3 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)، اور [باب اول §14 مطلق فوقیت کی ممانعت](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)۔
 
 </details>
 
@@ -366,7 +366,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ پذیری</span></strong></summary>
 
-- ماقبل: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب ہشتم §4 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)؛ [باب دہم §5.4](core_10_standing_integration.md#54-special-violation-rules) (*یہ دفعہ انتقال کے دوران عدم مطابقت والے انعامات کے ضبط اور اطلاع دہی کو محدود کرتی ہے*)؛ [باب ہشتم — نظامی ہم آہنگی کی سرٹیفکیشن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)۔
+- ماقبل: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [§13.1 بنیادی توازن کے اصول](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)، اور [باب ہشتم §3 پورے نظام کی سرٹیفکیشن کا جائزہ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)؛ [باب دہم §5.4](core_10_standing_integration.md#54-special-violation-rules) (*یہ دفعہ انتقال کے دوران عدم مطابقت والے انعامات کے ضبط اور اطلاع دہی کو محدود کرتی ہے*)؛ [باب ہشتم — نظامی ہم آہنگی کی سرٹیفکیشن](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)۔
 
 </details>
 
@@ -523,7 +523,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- بالادست ماخذ: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [باب اول §13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، اور [باب ہشتم §4 پورے نظام کی توثیقی جانچ](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)۔
+- بالادست ماخذ: اصول: باب اول [§4 سلامتی](core_01_a_values_principles.md#4-safety-harm-constraint)، [باب اول §13.1.5 حقوق کے تصادم کا طریقۂ کار](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)، اور [باب ہشتم §3 پورے نظام کی توثیقی جانچ](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)۔
 - ساتھ پڑھیں: **دفعہ III-A** (*بقا*)؛ **دفعہ XIII** (*قابلِ اعتماد اور بھروسا مند نظاموں کا حق*)؛ **دفعہ XI-G** (*اجتماعی نقصان کی حد اور نفاذی رابطہ*)؛ **باب نہم**؛ **باب اول** بشمول §6 حقوق کے تصادم کا طریقۂ کار؛ باب ششم کے آغاز میں **پابندیوں کا طے شدہ سلسلہ** (*قبضہ اور تدارک کا رابطہ*)؛ [[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*غیر مطابق املاک، ضبطی، رضاکارانہ ترغیبات*) سے **CI-14.3** تک](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives) (*عبوری حکمرانی اور ادارہ جاتی ارتقا*)۔
 
 </details>

@@ -83,7 +83,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">추적</span></strong></summary>
 
-- 함께 읽기: [제1장 §11 유인 정합과 체계 포획](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 시장 구조](core_01_c_stewardship_capacity_principles.md#13-market-structure), 그리고 [제7장 §4.3 거버넌스, 유인, 다툴 수 있음 규율](../../core_08_a_system_alignment_certification_evaluation.md#43-governance-incentive-and-contestability-discipline).
+- 함께 읽기: [제1장 §11 유인 정합과 체계 포획](core_01_c_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture), [§13 시장 구조](core_01_c_stewardship_capacity_principles.md#13-market-structure), 그리고 [제7장 §3.3 거버넌스, 유인, 다툴 수 있음 규율](../../core_08_a_system_alignment_certification_evaluation.md#33-governance-incentive-and-contestability-discipline).
 
 </details>
 

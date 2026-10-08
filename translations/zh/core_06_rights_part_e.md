@@ -265,7 +265,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：[第一章 §18.4 持续正当化](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)；第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)和[第一章 §14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上游：原则：[第一章 §18.4 持续正当化](core_01_c_stewardship_capacity_principles.md#184-ongoing-justification)；第一章[§3 基本目标：福祉](core_01_a_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)和[第一章 §14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 
 </details>
 
@@ -296,7 +296,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)和[第一章 §14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
+- 上游：原则：第一章[§5 真实](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)、[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)和[第一章 §14 禁止绝对凌驾](core_01_b_interaction_interpretation.md#14-prohibition-on-absolute-override)。
 
 </details>
 
@@ -363,7 +363,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)和[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)；[第十章 §5.4](core_10_standing_integration.md#54-special-violation-rules)（*本条在过渡期间限制不一致奖励的没收和报告*）；[第八章——系统协调认证](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[§13.1 核心权衡原则](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles)和[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)；[第十章 §5.4](core_10_standing_integration.md#54-special-violation-rules)（*本条在过渡期间限制不一致奖励的没收和报告*）；[第八章——系统协调认证](core_08_a_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification)。
 
 </details>
 
@@ -522,7 +522,7 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)和[第八章 §4 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)。
+- 上游：原则：第一章[§4 安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[第一章 §13.1.5 权利冲突程序](core_01_b_interaction_interpretation.md#1315-rights-collision-decision-test)和[第八章 §3 全系统认证评估](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation)。
 - 配合阅读：**第 III-A 条**（*生存*）；**第 XIII 条**（*获得可靠且可信系统的权利*）；**第 XI-G 条**（*集体伤害边界与执法接口*）；**第九章**；**第一章**，包括 §6 的权利冲突程序；第六章开篇的**默认约束序列**（*占有与补救接口*）；从[**CI-14.1**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md)（*不合规财产、扣押、自愿激励*）到**CI-14.3**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md#ci-141-interface-article-xxvii-d-non-compliant-property-seizure-voluntary-incentives)（*过渡治理与机构演进*）。
 
 </details>

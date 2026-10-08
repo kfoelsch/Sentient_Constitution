@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/definition_registry.schema.json",
-  "generated_at": "2026-10-07T19:13:47+00:00",
+  "generated_at": "2026-10-08T06:12:14+00:00",
   "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
   "definition_count": 260,
   "definitions": [
@@ -995,9 +995,9 @@
       }
     },
     {
-      "term": "Full Recognition",
+      "term": "Full Certification",
       "source_file": "core_05_band_continuity.md",
-      "anchor": "#full-recognition",
+      "anchor": "#full-certification",
       "line_start": 80,
       "line_end": 123,
       "category": "semi_independent",
@@ -1828,9 +1828,9 @@
       "cluster_membership": null
     },
     {
-      "term": "Provisional Recognition",
+      "term": "Provisional Certification",
       "source_file": "core_05_band_continuity.md",
-      "anchor": "#provisional-recognition",
+      "anchor": "#provisional-certification",
       "line_start": 124,
       "line_end": 167,
       "category": "semi_independent",

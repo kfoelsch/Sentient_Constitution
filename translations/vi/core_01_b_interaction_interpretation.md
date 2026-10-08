@@ -68,7 +68,7 @@
 
 **Các điều mục không trực tiếp liên quan đến trụ cột nào.** [§15.1.1 Nguyên tắc Chống Phân đoạn](#1511-anti-segmentation-principle) và [§15.4.1](#1541-integrated-reading) đến [§15.4.3](#1543-incorporation-layer) điều chỉnh cách đọc văn bản và tầng nguồn nào chi phối. Theo thiết kế, Trace của chúng không mang dòng nào của Tứ trụ.
 
-**Hai nghĩa của thời gian.** Trong Phần B, thời gian xuất hiện theo hai nghĩa. Các chân trời thời gian dài (tổn hại bị trì hoãn và tích lũy; [Ràng buộc Tính nhất quán theo Thời gian](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint) tại Chương Tám §3.6 được áp dụng ở [§13.1.2](#1312-harm-minimization)) thuộc về mục tiêu **Liên tục**. Đồng hồ, chu kỳ xem xét và sự chậm trễ (thời hạn của hạn chế, tiết lộ cuối cùng, chậm trễ có thể tránh được) thuộc về trụ cột **tính kịp thời**.
+**Hai nghĩa của thời gian.** Trong Phần B, thời gian xuất hiện theo hai nghĩa. Các chân trời thời gian dài (tổn hại bị trì hoãn và tích lũy; [Ràng buộc Tính nhất quán theo Thời gian](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint) tại Chương Tám §3.6 được áp dụng ở [§13.1.2](#1312-harm-minimization)) thuộc về mục tiêu **Liên tục**. Đồng hồ, chu kỳ xem xét và sự chậm trễ (thời hạn của hạn chế, tiết lộ cuối cùng, chậm trễ có thể tránh được) thuộc về trụ cột **tính kịp thời**.
 
 **Hai trục, không phải xung đột.** Các mục tiêu trong Phần A nêu điều mà các hệ thống chung theo đuổi. Phần B nêu điều mà không sự đánh đổi, quyền ưu tiên hay cách diễn giải nào được phép tước bỏ trên con đường đó.
 
@@ -103,7 +103,7 @@
 
 <br>
 
-*Nói một cách đơn giản: Xung đột Hiến định sẽ xảy ra — **An toàn** và **Sự thật** được đặt lên trước. Sau đó, các giới hạn phải tương xứng, cần thiết, giảm thiểu tổn hại và nhẹ nhất có thể. Không thể che giấu sự thật để tạo cảm giác dễ chịu; không thể tước bỏ quyền riêng tư cho tiện lợi; các giới hạn tự do được áp dụng theo [§7.1 Kỷ luật Giới hạn](core_01_a_values_principles.md#71-limitation-discipline); Xung đột Hiến định liên quan đến quyền cần có phép thử quyết định được lập hồ sơ; các chỉ số nói sai về sự tuân thủ sẽ không được tính. Tối ưu hóa theo chân trời ngắn hạn không thể vượt qua đánh giá theo [Chương Tám §4.2 Ràng buộc Tính nhất quán theo Thời gian](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint). Từ **§13.1** (*Các Nguyên tắc Đánh đổi Cốt lõi*) đến **§13.3** (*Giảm thiểu Gánh nặng Có thể Tránh được*) là các quy tắc đánh đổi, giới hạn công bố và quyền riêng tư, cùng quy trình Xung đột Hiến định.*
+*Nói một cách đơn giản: Xung đột Hiến định sẽ xảy ra — **An toàn** và **Sự thật** được đặt lên trước. Sau đó, các giới hạn phải tương xứng, cần thiết, giảm thiểu tổn hại và nhẹ nhất có thể. Không thể che giấu sự thật để tạo cảm giác dễ chịu; không thể tước bỏ quyền riêng tư cho tiện lợi; các giới hạn tự do được áp dụng theo [§7.1 Kỷ luật Giới hạn](core_01_a_values_principles.md#71-limitation-discipline); Xung đột Hiến định liên quan đến quyền cần có phép thử quyết định được lập hồ sơ; các chỉ số nói sai về sự tuân thủ sẽ không được tính. Tối ưu hóa theo chân trời ngắn hạn không thể vượt qua đánh giá theo [Chương Tám §3.2 Ràng buộc Tính nhất quán theo Thời gian](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint). Từ **§13.1** (*Các Nguyên tắc Đánh đổi Cốt lõi*) đến **§13.3** (*Giảm thiểu Gánh nặng Có thể Tránh được*) là các quy tắc đánh đổi, giới hạn công bố và quyền riêng tư, cùng quy trình Xung đột Hiến định.*
 
 Phần B bảo toàn Tứ trụ trong ba tình huống:
 - **[Xung đột Hiến định](core_05_band_integrative.md#constitutional-collision) (phần này):** giải quyết các xung đột mà không làm suy yếu trụ cột nào.
@@ -300,7 +300,7 @@ Những trường hợp sau đây không tuân thủ:
 - chỉ tối ưu hóa tác hại cục bộ hoặc tức thời trong khi gây ra tác hại có tính hệ thống, tổng hợp hoặc sinh thái lớn hơn;
 - chuyển tác hại sang hệ sinh thái, các thực thể có tri giác chưa được xác định hoặc các bên khác không được tính đến để khiến tác hại đối với những bên đã xác định có vẻ được giảm thiểu.
 
-**Kỷ luật về khung thời gian.** Tối ưu hóa ngắn hạn phải trả giá bằng tổn thất hệ thống dài hạn là không đạt phép thử này. Việc giảm thiểu tác hại phải tính đến [Ràng buộc nhất quán theo thời gian tại Chương Tám §4.2](core_08_a_system_alignment_certification_evaluation.md#42-time-consistency-constraint): một quyết định có vẻ giảm thiểu tác hại trong giai đoạn hiện tại nhưng có thể dự đoán là sẽ gây ra tác hại lớn hơn trong khung thời gian hiến định có liên quan thì không tuân thủ.
+**Kỷ luật về khung thời gian.** Tối ưu hóa ngắn hạn phải trả giá bằng tổn thất hệ thống dài hạn là không đạt phép thử này. Việc giảm thiểu tác hại phải tính đến [Ràng buộc nhất quán theo thời gian tại Chương Tám §3.2](core_08_a_system_alignment_certification_evaluation.md#32-time-consistency-constraint): một quyết định có vẻ giảm thiểu tác hại trong giai đoạn hiện tại nhưng có thể dự đoán là sẽ gây ra tác hại lớn hơn trong khung thời gian hiến định có liên quan thì không tuân thủ.
 
 **Quan hệ với các giới hạn hiến định.** Giảm thiểu tác hại chỉ vận hành *trên* các giới hạn hiến định được nêu tại [§13.1.4 Các giới hạn hiến định, An toàn và Quy trình chống suy thoái](#1314-constitutional-floors-safety-and-anti-degrading-process). Việc này không bao giờ cho phép:
 - xóa bỏ vĩnh viễn các mức tối thiểu của Ngưỡng Quyền;
@@ -846,7 +846,7 @@ Nguyên tắc này không:
 - tạo ra, mở rộng hoặc thu hẹp bất kỳ quy định nào về Sàn Quyền trong Chương Sáu; hoặc
 - thay thế tuyên bố riêng của một cụm về các ngăn phần và nghĩa vụ được bảo vệ mà cụm đó bao quát. Cụm nêu các nội dung ấy trong mục **Chống lách tránh** và dẫn chiếu phần này về quy tắc.
 
-Khi một cụm được viện dẫn chung áp dụng, các đánh giá toàn hệ thống phải kiểm tra việc chống phân đoạn theo [Chương Tám §4 Đánh giá Chứng nhận Toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) trước khi chấp nhận các tuyên bố về phân loại, quản trị hoặc tuân thủ. Phần này phối hợp với [Chương Ba §2.1 Các kiểu lẩn tránh thường gặp](core_03_definition_integrity.md#21-common-evasion-patterns) và [§2.2 Lẩn tránh bằng cách thu hẹp](core_03_definition_integrity.md#22-reductive-evasion).
+Khi một cụm được viện dẫn chung áp dụng, các đánh giá toàn hệ thống phải kiểm tra việc chống phân đoạn theo [Chương Tám §3 Đánh giá Chứng nhận Toàn hệ thống](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation) trước khi chấp nhận các tuyên bố về phân loại, quản trị hoặc tuân thủ. Phần này phối hợp với [Chương Ba §2.1 Các kiểu lẩn tránh thường gặp](core_03_definition_integrity.md#21-common-evasion-patterns) và [§2.2 Lẩn tránh bằng cách thu hẹp](core_03_definition_integrity.md#22-reductive-evasion).
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 Nguyên tắc Thông tin Phái sinh

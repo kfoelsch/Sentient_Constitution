@@ -123,7 +123,7 @@ Dua perlindungan bekerja bersama untuk menjamin hak ini: sertifikasi menjadikan 
 - cara mengajukan keberatan terhadapnya
 - cara memperbaiki masalah
 
-Jika sistem mencapai ambang kepentingan dalam **Pasal XIII** (*Hak atas Sistem yang Andal dan Tepercaya*), sertifikasi juga mencakup peninjauan keterpercayaan berdasarkan [Bab Delapan §4.8.6 Evaluasi Integritas Keterpercayaan dan Pengandalan Sistem](core_08_a_system_alignment_certification_evaluation.md#486-trustworthiness-and-system-reliance-integrity-evaluation).
+Jika sistem mencapai ambang kepentingan dalam **Pasal XIII** (*Hak atas Sistem yang Andal dan Tepercaya*), sertifikasi juga mencakup peninjauan keterpercayaan berdasarkan [Bab Delapan §3.8.6 Evaluasi Integritas Keterpercayaan dan Pengandalan Sistem](core_08_a_system_alignment_certification_evaluation.md#386-trustworthiness-and-system-reliance-integrity-evaluation).
 
 **Kemungkinan untuk menggugat menjaga kejujuran sistem dari sisi sentien:** Sertifikasi memeriksa suatu sistem; sertifikasi bukan kata akhir tentang sistem itu. Setiap sentien yang terdampak oleh sistem tetap memiliki:
 
@@ -363,7 +363,7 @@ Pasal ini menetapkan cara sistem berotonomi tinggi tetap terikat pada integritas
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Desain Ketangguhan dan Pemulihan Mandiri](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Bab Satu §13.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [§10 Desain Ketangguhan dan Pemulihan Mandiri](core_01_a_values_principles.md#10-resilience-and-self-healing-design), [Bab Satu §13.3 Minimalisasi Beban yang Dapat Dihindari](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -711,7 +711,7 @@ Informasi yang akurat, relevan, dan dapat digugat merupakan dasar penentuan nasi
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Kepercayaan](core_01_a_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -785,7 +785,7 @@ Pasal ini menetapkan lantai penyelidikan autentik, asal-usul, dan informasi yang
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Batasan Pengungkapan Epistemik](core_01_b_interaction_interpretation.md#132-epistemic-disclosure-constraints), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -936,7 +936,7 @@ Pasal ini menetapkan lantai bagi bukti yang dapat diamati dan digugat:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola di Bawah Disiplin Pengampuan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §18 Tata Kelola di Bawah Disiplin Pengampuan](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
 
 </details>
 
@@ -1044,7 +1044,7 @@ Sentien berhak atas pengampuan yang menjaga keselamatan, integritas epistemik, d
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1080,7 +1080,7 @@ Pasal ini menetapkan lantai integritas lingkungan:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Pertukaran Inti](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [§13.1 Prinsip Pertukaran Inti](core_01_b_interaction_interpretation.md#131-core-tradeoff-principles), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1114,7 +1114,7 @@ Pasal ini menetapkan lantai penerapan bertahap dan reversibilitas:
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§5 Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 
@@ -1172,7 +1172,7 @@ Pengejaran yang sah berlangsung melalui [Tetrad Konstitusional](core_00_preamble
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Satu §7 Kebebasan](core_01_a_values_principles.md#7-freedom-bounded-agency), dan [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation).
 
 </details>
 
@@ -1240,7 +1240,7 @@ Pasal ini menetapkan lantai pembatasan, pengungkapan, keikutsertaan atas pilihan
 <details>
 <summary><strong><span style="color: #2563eb;">Jejak</span></strong></summary>
 
-- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Delapan §4 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), dan [Bab Satu §20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
+- Hulu: Prinsip: Bab Satu [§4 Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Bab Delapan §3 Evaluasi Sertifikasi Seluruh Sistem](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), dan [Bab Satu §20 Penerapan Terpadu](core_01_c_stewardship_capacity_principles.md#20-integrated-application).
 
 </details>
 

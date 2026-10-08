@@ -15,8 +15,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [CJS-1.3](../corpus_joint_structure/cjs_01_scope_purpose_boundary_interface.md#cjs-13-shared-implementation-corpus-preamble-contract) (*Shared implementation-corpus preamble contract*) shared implementation-corpus contract; [CJS-0.1](../corpus_joint_structure/cjs_00_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-file routing*) topic router; [Chapter Twelve](../core_12_forum.md#chapter-twelve-forums-and-jurisdiction) forum-family routing; [Chapter Seventeen](../core_17_incorporation.md#chapter-seventeen-incorporation-bridge) incorporation discipline; and [Chapter Five](../core_05__definitions_home.md#chapter-five-foundational-definitions) canonical definitions.
-- Downstream: [CF-7.1 Alignment rulings, component referral, and supervisory coordination](#cf-71-alignment-rulings-component-referral-and-supervisory-coordination); [CF-7.2 Constitutional alignment recognition and review](#cf-72-constitutional-alignment-recognition-and-review); [CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture](#cf-73-anti-self-judging-activation-capture-sensitive-routing-contest-integrity-interfaces-and-family-level-capture).
-- Read with: **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **CF-7.1** (*Alignment rulings, component referral, and supervisory coordination*); **CF-7.2** (*Constitutional alignment recognition and review*); **CF-7.3** (*Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture*); **CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*); **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*).
+- Downstream: [CF-7.1 Alignment rulings, component referral, and supervisory coordination](#cf-71-alignment-rulings-component-referral-and-supervisory-coordination); [CF-7.2 Constitutional alignment certification and review](#cf-72-constitutional-alignment-certification-and-review); [CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture](#cf-73-anti-self-judging-activation-capture-sensitive-routing-contest-integrity-interfaces-and-family-level-capture).
+- Read with: **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **CF-7.1** (*Alignment rulings, component referral, and supervisory coordination*); **CF-7.2** (*Constitutional alignment certification and review*); **CF-7.3** (*Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture*); **CF-8** (*Forum forensic and analytical support*); **CF-9** (*Independent investigative service and prosecution interface*); **CF-5** (*Routing operations, transfer, certification, and representative treatment*); **CF-6.1** (*Disposition-effect categories and record labels*); **CF-6.1.2** (*Scope-Anchored Disposition Effect*).
 - Topic routing (mandatory read-with): **CJS-R11A** (*Fallback operation*) in **CJS-0.1** (*Topic router*); primary owner **CF-13** (*Fallback operation*).
 - Topic routing (mandatory read-with): **CJS-R16** (*Cross-institution coordination, deadlock, and escalation*) in **CJS-0.1** (*Topic router*); primary owner **CI-12** (*Cross-institution coordination and escalation*).
 - Topic routing (primary owner): **CJS-R06** (*Forum integrity operations, anti-capture, anti-self-judging support*) in **CJS-0.1** (*Topic router*). Mandatory read-with: **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-7.3** (*Contest-integrity monitoring (Class A and Class B)*).
@@ -62,10 +62,10 @@ This file is the forum implementation home for **CF-7** (*Integrity safeguards, 
 *In plain terms: **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) stops a body from judging its own conduct, and stops an interested party from quietly capturing the body that reviews it. It covers alignment rulings, when a matter must be routed away from a compromised venue, and what happens when a whole forum family is compromised rather than a single member.*
 
 **Chapter Twelve linkage.** This file implements the Chapter Twelve interfaces that Integrity forums need to run alignment work without becoming the general owner of constitutional routing:
-- **Section 4** authorizes Integrity forum alignment rulings and official constitutional alignment recognition or review for new and existing systems.
+- **Section 4** authorizes Integrity forum alignment rulings and official constitutional alignment certification or review for new and existing systems.
 - **Section 4** also authorizes Environment forum environmental-alignment component review where material ecological exposure exists, together with supervisory coordination.
 - **Section 6** provides for integrity-led alignment coordination with other forum families.
-- **Section 7** limits alignment rulings that would establish general doctrine and requires records for system recognition and recertification.
+- **Section 7** limits alignment rulings that would establish general doctrine and requires records for system certification and recertification.
 
 ## CF-7.1 Alignment rulings, component referral, and supervisory coordination
 <details>
@@ -123,19 +123,19 @@ Integrity forums must not issue final merits determinations reserved to another 
 
 Where an alignment ruling materially stabilizes outcomes beyond the named parties, adopting instruments should identify the applicable **CF-6.1** (*Disposition-effect categories and record labels*) category or categories. The record should also identify the corresponding class label or labels. The ordinary floor is at least **CF-6.1.2** (*Scope-Anchored Disposition Effect*) when pattern or shared-practice stakes are material. Adopting instruments must not silently treat alignment rulings as **CF-6.1.3** (*Published Panel-Rule Disposition Effect*) general panel-rule doctrine when constitutional certification under `core_12_forum.md` **Chapter Twelve**, **section 5** is required.
 
-## CF-7.2 Constitutional alignment recognition and review
+## CF-7.2 Constitutional alignment certification and review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.2** (*Constitutional alignment recognition and review*); **CF-10** (*Technical specialist forums and specialist chambers*); **CJS-3** (*operational cluster library (oDef)*).
+- Read with: **CF-7.2** (*Constitutional alignment certification and review*); **CF-10** (*Technical specialist forums and specialist chambers*); **CJS-3** (*operational cluster library (oDef)*).
 
 </details>
 
 <br>
 
-*In plain terms: How a system gets officially recognized as constitutionally aligned within a stated scope, and how that recognition is rechecked later. Recognition is contestable and does not expire into a permanent seal of approval.*
+*In plain terms: How a system gets officially certified as constitutionally aligned within a stated scope, and how that certification is rechecked later. Certification is contestable and does not expire into a permanent seal of approval.*
 
-**Purpose.** Provide official, contestable forum mechanics for recognizing new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_12_forum.md` **Chapter Twelve**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*) and **CS-3 — System classification and handling** classification and recertification duties.
+**Purpose.** Provide official, contestable forum mechanics for certifying new materially impactful systems as constitutionally aligned within a stated scope. The same mechanics also check whether existing systems remain aligned over time. This subsection implements `core_12_forum.md` **Chapter Twelve**, **sections 3, 5, and 8**, and works with [**CS-5**](../corpus_systems/cs_05_design_testing_verification_deployment.md) (*User-facing capability surfaces*) and **CS-3 — System classification and handling** classification and recertification duties.
 
 ### CF-7.2.1 Technical-Specification and Environmental-Component Separation
 <details>
@@ -149,29 +149,29 @@ Where an alignment ruling materially stabilizes outcomes beyond the named partie
 
 Technical specialist forums under **CF-10** (*Technical specialist forums and specialist chambers*) maintain the specifications, measurement methods, test protocols, expert-evidence standards, and domain-specific criteria. Those materials support system-alignment assessment. Environment forums hold environmental-alignment component review where material ecological exposure exists. The same review applies where there is environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk.
 
-Integrity forums make the official constitutional alignment recognition, validation, recertification, and remediation-supervision record. They must use technical-forum standards where materially applicable. They may certify technical questions to the proper technical forum, but must not rewrite technical specifications as a substitute for referral. Where material ecological exposure exists, Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment recognition unless `core_12_forum.md` independently assigns that primary stake to them.
+Integrity forums make the official constitutional alignment certification, validation, recertification, and remediation-supervision record. They must use technical-forum standards where materially applicable. They may certify technical questions to the proper technical forum, but must not rewrite technical specifications as a substitute for referral. Where material ecological exposure exists, Integrity forums must obtain and record the Environment forum's environmental-alignment approval, conditional approval, objection, remediation requirement, or release-from-condition finding. Technical forums must not treat specification maintenance or technical adequacy findings as final constitutional alignment certification unless `core_12_forum.md` independently assigns that primary stake to them.
 
 ### CF-7.2.2 Triggering Events
 
-Alignment recognition or review must be available when any of the following materially applies:
-- a new system seeks constitutional recognition, incorporation, deployment approval, reliance by a public or critical steward, or other official status within an adopting order;
+Alignment certification or review must be available when any of the following materially applies:
+- a new system seeks constitutional certification, incorporation, deployment approval, reliance by a public or critical steward, or other official status within an adopting order;
 - an existing system undergoes material change in capability, scale, dependency, stakeholder exposure, integration, autonomy, incentive structure, or risk profile;
 - a system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk that requires Environment forum environmental-alignment review;
 - periodic review is due under the system's class, stewardship tier, or prior forum order;
 - credible evidence indicates misalignment, concealed behavior, under-classification, misclassification, capture, unresolved residual risk, Rights-Floor exposure, ecological exposure, or info-sphere integrity risk;
 - a stakeholder, steward, affected institution, technical specialist forum, or lawful oversight body makes a good-faith request for review with a non-frivolous evidentiary basis.
 
-### CF-7.2.3 Minimum Recognition Record
+### CF-7.2.3 Minimum Certification Record
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.2.3** (*Minimum Recognition Record*); **CJS-3** (*operational cluster library (oDef)*).
+- Read with: **CF-7.2.3** (*Minimum Certification Record*); **CJS-3** (*operational cluster library (oDef)*).
 
 </details>
 
 <br>
 
-A recognition, validation, or recertification record must identify:
+A certification, validation, or recertification record must identify:
 - the system, operator or steward, claimed scope, deployment context, and affected stakeholder or dependency classes;
 - the system's classification under CS-3 — System classification and handling, its stewardship tier under CS-4 — Critical system stewardship where applicable, and the evidence supporting those classifications;
 - the constitutional provisions, Rights-Floor obligations, CJS-3 (*operational cluster library (oDef)*) operational clusters, and implementation requirements treated as material;
@@ -185,23 +185,23 @@ A recognition, validation, or recertification record must identify:
 ### CF-7.2.4 Permitted Dispositions
 
 An Integrity forum may issue any of the following within lawful scope:
-- **recognition** for the stated scope and cadence;
-- **conditional recognition** with remediation milestones, monitoring, limits, or sunset;
-- **deferred recognition** pending specified evidence, testing, correction, or component determination;
-- **non-recognition** where the record does not support constitutional alignment;
-- **withdrawal or constraint recommendation** where an existing system materially drifts, conceals risk, defeats contestability, or no longer satisfies its recognized scope.
+- **certification** for the stated scope and cadence;
+- **conditional certification** with remediation milestones, monitoring, limits, or sunset;
+- **deferred certification** pending specified evidence, testing, correction, or component determination;
+- **non-certification** where the record does not support constitutional alignment;
+- **withdrawal or constraint recommendation** where an existing system materially drifts, conceals risk, defeats contestability, or no longer satisfies its certified scope.
 
 ### CF-7.2.5 Environmental Sign-Off Effect
 
-Where Environment forum review is required, final recognition, validation, recertification, or material release from environmental conditions must not issue while a timely Environment forum objection remains pending. The same bar applies while an unresolved remediation condition or certified environmental question remains pending. An Integrity forum may issue deferred or conditional recognition only if the record explains why interim operation remains compatible with **Article I** (*Environmental Survival*). The record must also identify environmental limits and monitoring, and preserve Environment forum review and reopening authority.
+Where Environment forum review is required, final certification, validation, recertification, or material release from environmental conditions must not issue while a timely Environment forum objection remains pending. The same bar applies while an unresolved remediation condition or certified environmental question remains pending. An Integrity forum may issue deferred or conditional certification only if the record explains why interim operation remains compatible with **Article I** (*Environmental Survival*). The record must also identify environmental limits and monitoring, and preserve Environment forum review and reopening authority.
 
 ### CF-7.2.6 Component Referrals and Certification
 
-Technical adequacy, institutional mandate, ecological merits, environmental-alignment component review, sentience-status, rights restriction, and constitutional-validity questions must be referred, certified, or stayed under `core_12_forum.md` **Chapter Twelve** and this file's routing rules. Alignment recognition does not let an Integrity forum displace another forum's assigned role. That includes a specialized technical panel's standards function, an Institutional forum's mandate determination, an Environment forum's ecological merits or environmental-alignment authority, and a Constitutional forum's final authority over constitutional meaning and structural remedy.
+Technical adequacy, institutional mandate, ecological merits, environmental-alignment component review, sentience-status, rights restriction, and constitutional-validity questions must be referred, certified, or stayed under `core_12_forum.md` **Chapter Twelve** and this file's routing rules. Alignment certification does not let an Integrity forum displace another forum's assigned role. That includes a specialized technical panel's standards function, an Institutional forum's mandate determination, an Environment forum's ecological merits or environmental-alignment authority, and a Constitutional forum's final authority over constitutional meaning and structural remedy.
 
 ### CF-7.2.7 No Permanent Certificate
 
-Recognition is scope-bound and time-bound by its stated cadence and reopening triggers. Material change reopens review. So does newly discovered evidence, stakeholder challenge, incident history, dependency growth, or classification drift. Reopening review does not require proof that the original recognition was bad faith.
+Certification is scope-bound and time-bound by its stated cadence and reopening triggers. Material change reopens review. So does newly discovered evidence, stakeholder challenge, incident history, dependency growth, or classification drift. Reopening review does not require proof that the original certification was bad faith.
 
 ## CF-7.3 Anti-self-judging activation, capture-sensitive routing, contest-integrity interfaces, and family-level capture
 <details>
@@ -232,7 +232,7 @@ Anti-self-judging activation is available only where the record contains a non-f
 - a documented inability to form an independent panel under **CF-4.9** (*Inability to form an independent panel*);
 - a recusal or disclosure pattern that indicates coordinated manipulation, selective unavailability, or repeated failure to constitute a lawful bench;
 - contest-integrity findings under [**CI-7.3**](../corpus_institutions/ci_07_oversight_assurance_controls_evidence.md#ci-73-contest-integrity-monitoring-class-a-and-class-b) (*Contest-integrity monitoring (Class A and Class B)*) showing contest-pathway failure, chill, backlog abuse, evidence unavailability, or protected-escalation obstruction;
-- system-alignment recognition or recertification facts showing that the same steward, operator, forum chain, or oversight line materially controls the evidence, classification, review cadence, and contest pathway being challenged.
+- system-alignment certification or recertification facts showing that the same steward, operator, forum chain, or oversight line materially controls the evidence, classification, review cadence, and contest pathway being challenged.
 
 Mere dissatisfaction with a ruling, captioning a claim against a forum, or naming a forum actor as a witness does not activate backup routing. The activation finding must explain why independent merits review is materially necessary to preserve independence, contestability, or public trust under Chapter Twelve.
 
@@ -246,7 +246,7 @@ Every activation or refusal to activate must produce a reviewable record. At min
 - any interim relief, evidence-preservation order, stay, sequencing order, or restricted-evidence handling needed while the routing question is resolved;
 - the contest, appeal, publication, and later-review path for the activation decision.
 
-The record must preserve allegations and verified findings separately. An activation record may support routing, preservation, interim protection, or referral, but it must not by itself create a Chapter Nine standing effect, final Chapter Eleven anti-constitutional-misconduct designation, system non-recognition, disciplinary finding, or merits judgment unless the governing merits process independently verifies the necessary facts.
+The record must preserve allegations and verified findings separately. An activation record may support routing, preservation, interim protection, or referral, but it must not by itself create a Chapter Nine standing effect, final Chapter Eleven anti-constitutional-misconduct designation, system non-certification, disciplinary finding, or merits judgment unless the governing merits process independently verifies the necessary facts.
 
 ### CF-7.3.3 Backup Family Map and Limits
 
@@ -262,19 +262,19 @@ Backup routing is limited to what is necessary to preserve a lawful and contesta
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CF-7.3.4** (*Capture-Sensitive System-Alignment Review*); **CF-7.2** (*Constitutional alignment recognition and review*).
+- Read with: **CF-7.3.4** (*Capture-Sensitive System-Alignment Review*); **CF-7.2** (*Constitutional alignment certification and review*).
 
 </details>
 
 <br>
 
-For constitutional alignment recognition, validation, recertification, withdrawal, or material condition-release under **CF-7.2** (*Constitutional alignment recognition and review*), the Integrity forum must make a capture-sensitive routing check when capture, misalignment, concealed behavior, evidence-control dependency, self-review, or contest-pathway failure is material. The check must state:
+For constitutional alignment certification, validation, recertification, withdrawal, or material condition-release under **CF-7.2** (*Constitutional alignment certification and review*), the Integrity forum must make a capture-sensitive routing check when capture, misalignment, concealed behavior, evidence-control dependency, self-review, or contest-pathway failure is material. The check must state:
 - who controls the technical evidence, incident history, audit access, environmental component record, classification assumptions, and contest pathway;
-- whether the operator, steward, institutional sponsor, or forum-adjacent unit has a material incentive or dependency that could distort recognition or recertification;
+- whether the operator, steward, institutional sponsor, or forum-adjacent unit has a material incentive or dependency that could distort certification or recertification;
 - whether technical, Environment, Institutional, Sentient, or Constitutional component questions require referral, certification, or stay;
 - whether contest-integrity monitoring, independent forensic support, external assurance, or **CI-12** (*Cross-institution coordination and escalation*) escalation is needed to make the record reviewable.
 
-Where the same institution or system steward materially controls both the system under review and the ordinary contest pathway, the record must explain why the contest pathway remains independent enough to proceed or must activate backup routing, external assurance, or both. Conditional recognition may not be used to defer unresolved capture or self-review defects that would defeat practical contestability.
+Where the same institution or system steward materially controls both the system under review and the ordinary contest pathway, the record must explain why the contest pathway remains independent enough to proceed or must activate backup routing, external assurance, or both. Conditional certification may not be used to defer unresolved capture or self-review defects that would defeat practical contestability.
 
 ### CF-7.3.5 Internal Integrity Process and Forum Access
 
@@ -283,7 +283,7 @@ Institutional internal integrity process may precede Integrity forum adjudicatio
 - protected escalation or evidence access is obstructed;
 - retaliation, concealment, or capture allegations require independent merits review;
 - cross-institution deadlock or dependency makes local resolution unreliable;
-- a Chapter Eleven designation, Rights-Floor, system-recognition, or public-trust consequence requires forum-level verification.
+- a Chapter Eleven designation, Rights-Floor, system-certification, or public-trust consequence requires forum-level verification.
 
 Where internal process remains available, the [forum case record](../core_05_band_accountability.md#forum-case-record) must state what issues are stayed, what issues proceed, what evidence must be preserved, and what deadline or trigger returns the matter to the forum if the internal process fails.
 

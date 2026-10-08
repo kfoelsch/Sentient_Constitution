@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-10-07T19:13:50+00:00",
+  "generated_at": "2026-10-08T07:24:13+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -940,8 +940,8 @@
     },
     "CF-7.2": {
       "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
-      "anchor": "#cf-72-constitutional-alignment-recognition-and-review",
-      "heading": "CF-7.2 Constitutional alignment recognition and review",
+      "anchor": "#cf-72-constitutional-alignment-certification-and-review",
+      "heading": "CF-7.2 Constitutional alignment certification and review",
       "line": 126,
       "kind": "section",
       "gloss": "How a system gets officially recognized as constitutionally aligned within a stated scope, and how that recognition is rechecked later. Recognition is contestable and does not expire into a permanent seal of approval."
@@ -962,8 +962,8 @@
     },
     "CF-7.2.3": {
       "file": "corpus_forum/cf_07_integrity_safeguards_anti_capture_anti_self_judging.md",
-      "anchor": "#cf-723-minimum-recognition-record",
-      "heading": "CF-7.2.3 Minimum Recognition Record",
+      "anchor": "#cf-723-minimum-certification-record",
+      "heading": "CF-7.2.3 Minimum Certification Record",
       "line": 164,
       "kind": "section"
     },
@@ -4689,9 +4689,9 @@
       "line_end": 232
     },
     {
-      "term": "Full Recognition",
+      "term": "Full Certification",
       "file": "core_05_band_continuity.md",
-      "anchor": "#full-recognition",
+      "anchor": "#full-certification",
       "line_start": 80,
       "line_end": 123
     },
@@ -5284,9 +5284,9 @@
       "line_end": 1280
     },
     {
-      "term": "Provisional Recognition",
+      "term": "Provisional Certification",
       "file": "core_05_band_continuity.md",
-      "anchor": "#provisional-recognition",
+      "anchor": "#provisional-certification",
       "line_start": 124,
       "line_end": 167
     },
