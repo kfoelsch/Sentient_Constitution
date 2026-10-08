@@ -62,31 +62,34 @@ As an oversight instrument, certification is one especially large audit process 
 
 #### 1.1 Certification at a glance
 
-*In plain terms: classify the system honestly, run the evaluations that apply, have forums review the findings, and decide an outcome — nothing goes live before certification. Complete the one record that was opened at the start, open the challenge path when the outcome is published, and check again on schedule, each time on a new record — closely at first, less often once a system has proven clean — or whenever the facts change.*
+*In plain terms: classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its conditions. Each review pass uses a new record linked to the last.*
 
 The process runs in **six phases**: **I Frame**, **II Evaluate**, **III Review**, **IV Decide**, **V Record**, and **VI Operate**. The chart shows the whole certification process in that order. Part A covers the first two phases, framing and evaluation; [Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) covers the last four: the forum process, the outcome and the go-live gate, the record, and operation (the challenge path, recertification and reopening, and the standing bridge).
 
 ```mermaid
 flowchart TB
-    T["System with material impact seeks certification,<br/>or reliance on it grows"]
+    T(["System with material impact seeks certification,<br/>or reliance on it grows"])
     C["Phase I, Frame — §2<br/>Classify honestly<br/><br/>Class sets depth and re-check schedule"]
-    Ch["Phase VI, Operate — §7.1<br/>Challenge path stays open<br/><br/>Open while the outcome stands and the system operates;<br/>a credible challenge reopens review at §7"]
+    Ch["Phase VI, Operate — §7–§7.2<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
     subgraph W["Phase II, Evaluate — §3 Whole-system evaluation"]
         direction LR
         Al["§3.1–§3.4 — Always<br/><br/>Systemic risk: evaluated, and disclosed<br/>to those who need it; time horizon;<br/>governance; data types"]
         Im["§3.5–§3.7 — When implicated<br/><br/>Privacy loci, exit rights,<br/>assembly and dissent"]
-        Tr["§3.8 — When triggered<br/><br/>Six Rights-Floor and domain evaluations"]
+        Tr["§3.8 — When triggered<br/><br/>Applicable Rights-Floor checks<br/>and six domain evaluations"]
         Al ~~~ Im ~~~ Tr
     end
-    F["Phase III, Review — §4<br/>Forum component findings<br/><br/>Roles, then supervisory sequence;<br/>the contestability chain runs alongside"]
-    Rec["Phase V, Record — §6<br/>One System Certification Record<br/><br/>Opened at the start; completed with the outcome<br/>and everything behind it"]
+    F["Phase III, Review — §4<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>review challenge paths remain available"]
+    Rec["Phase V, Record — §6<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, conditions, and operating plan"]
     S[["Chapter Nine — Standing<br/>records<br/><br/>Outside this chapter"]]
-    O{"Phase IV, Decide — §5<br/>Outcome<br/>No go-live before certification"}
-    Fc["Full Certification — §5, §7.2<br/><br/>Earned only at a recertification of a system<br/>holding Provisional Certification<br/>Longer recertification clock"]
-    Pc["Provisional Certification — §5, §7.2<br/><br/>First certification, or after a failed recertification<br/>Shorter recertification clock"]
-    Nc["Not Certified — §5<br/><br/>Deferred, refused, or withdrawn: no go-live<br/>Remedy the defects; response runs on the<br/>Chapter Twelve tier clocks<br/>Next certification is provisional"]
-    G{{"Publication and go-live gate — §5, §7.1<br/><br/>1. The outcome is published<br/>2. The challenge path is open<br/>3. A certified system may go live,<br/>only as far as its record allows"}}
-    Re["Phase VI, Operate — §7<br/>Recertification, reopening,<br/>or fresh review<br/><br/>Each pass opens a new record"]
+    O{"Phase IV, Decide — §5<br/><br/>What outcome and status<br/>does the evidence support?"}
+    Fc["Full Certification — §5, §7.2<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Longer recertification clock; conditions may apply"]
+    Pc["Provisional Certification — §5, §7.2<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Shorter recertification clock; conditions may apply"]
+    Nc["Not Certified — §5<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
+    Pub["Publish the completed record — §5, §7.1<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
+    G{"Go-live gate — §5<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
+    Hold["Meet go-live prerequisites — §5<br/><br/>Complete notice and independently verify<br/>conditions required before go-live"]
+    Rm["Protect and correct — §5, §7.2<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
+    Re["Next review pass — §7<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new record linked to the last"]
     T --> C
     A1((A)) --> C
     C --> W
@@ -98,15 +101,22 @@ flowchart TB
     Fc --> Rec
     Pc --> Rec
     Nc --> Rec
-    Rec -...->|Verified process<br/>contributions and<br/>violations| S
-    Rec --> G
-    Ch -.->|§8 —<br/>verified inputs<br/>from certified<br/>systems only| S
-    G -->|Full or Provisional: go live<br/>Not Certified: no go-live, remedy| Ch
-    Ch -->|recheck on schedule, after remedy,<br/>or when facts change| Re
+    Rec -.->|§8 — verified inputs only;<br/>current certification or facts<br/>arising during certification| S
+    Rec --> Pub
+    Pub --> G
+    G -->|Yes: operate within the record| Ch
+    G -->|Not Certified| C2((C))
+    G -->|Certified, prerequisites pending| Hold
+    Hold --> B2((B))
+    B1((B)) --> G
+    C1((C)) --> Rm
+    Ch -->|Material defect: protect and correct| Rm
+    Ch -->|On schedule, or material change<br/>or credible challenge requires review| Re
+    Rm -->|Correction evidence is checked<br/>in the next review pass| Re
     Re --> A2((A))
     style T fill:none,stroke:#64748b,color:#ffffff
     style C fill:none,stroke:#16a34a,color:#ffffff
-    style Ch fill:none,stroke:#ea580c,color:#ffffff
+    style Ch fill:none,stroke:#16a34a,color:#ffffff
     style Al fill:none,stroke:#16a34a,color:#ffffff
     style Im fill:none,stroke:#16a34a,color:#ffffff
     style Tr fill:none,stroke:#16a34a,color:#ffffff
@@ -118,9 +128,16 @@ flowchart TB
     style Pc fill:none,stroke:#9333ea,color:#ffffff
     style Nc fill:none,stroke:#9333ea,color:#ffffff
     style G fill:none,stroke:#ea580c,color:#ffffff
+    style Pub fill:none,stroke:#2563eb,color:#ffffff
+    style Rm fill:none,stroke:#9333ea,color:#ffffff
+    style Hold fill:none,stroke:#16a34a,color:#ffffff
     style Re fill:none,stroke:#16a34a,color:#ffffff
     style A1 fill:none,stroke:#64748b,color:#ffffff
     style A2 fill:none,stroke:#64748b,color:#ffffff
+    style B1 fill:none,stroke:#64748b,color:#ffffff
+    style B2 fill:none,stroke:#64748b,color:#ffffff
+    style C1 fill:none,stroke:#64748b,color:#ffffff
+    style C2 fill:none,stroke:#64748b,color:#ffffff
 ```
 
 <details>
@@ -135,6 +152,7 @@ flowchart TB
 > - Its System Certification Record carries Provisional or Full certification, with or without conditions ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)). A system that is Not Certified, including one whose certification is deferred, refused, withdrawn, or expired, may not go live. A pilot is a go-live, so this applies to a pilot as it does to full deployment.
 > - The outcome is published on the record, together with the concerns raised in reaching it ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [§6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents)).
 > - The published record challenge path is open ([Part B §7.1.1](core_08_b_system_alignment_certification_record_process.md#711-contestability-paths)), so a challenge can be filed, and reliance stayed, before the system goes live.
+> - The notice interval set by the forum has elapsed, every condition required before go-live has been independently verified, and no applicable stay bars the proposed operation. The record states the earliest permitted go-live and the authority that can promptly stay or limit reliance ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [§6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents)).
 >
 > **What the system may do once live**
 >
@@ -144,13 +162,15 @@ flowchart TB
 >
 > **What keeps running after go-live**
 >
-> - The challenge path stays open while the outcome stands and the system has stakeholders. A credible challenge can reopen review and stay or limit reliance ([Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification)).
+> - The challenge path stays open while the system has stakeholders; earlier completed records remain challengeable. A credible challenge can reopen review and stay or limit reliance ([Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification), [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening)).
+> - Named owners monitor actual outcomes and respond to incidents, challenges, and unmet conditions under the operating plan on the record. Corrections are independently verified before authorization of the affected scope or release from conditions ([Part B §6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents), [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening)).
 > - The system is re-checked on the recertification cadence for its status, shorter for Provisional than for Full. Each re-check opens a new record linked to the last ([Part B §7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification)).
 > - Review also reopens when the system, its use, or the facts change ([Part B §7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening)).
 >
 > **Not covered by this gate**
 >
 > - A system already operating when an adopter's instrument takes effect is not barred while its transition clock runs ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [Article XXVIII-A](core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-clock) (*Phased Adoption and Rights-Floor Continuity*)).
+> - For an operating system under corrective review, interim protection and any continued reliance are decided under the applicable forum process, including protection of survival-essential delivery. The correction box does not itself order interruption ([Part B §7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification)).
 
 </details>
 
@@ -163,10 +183,10 @@ flowchart TB
 > |-------|----------|----------------------------|-------|
 > | **I. Frame** | [§2](#2-system-class-evaluation) | What class is the system, and how deeply and how often must it be evaluated? | Part A |
 > | **II. Evaluate** | [§3](#3-whole-system-certification-evaluation) | What does the whole system do — always, where implicated, and where triggered? | Part A |
-> | **III. Review** | [§4](core_08_b_system_alignment_certification_record_process.md#4-forum-process) | Which forums review the findings, in what order, and how can they be contested? | Part B |
+> | **III. Review** | [§4](core_08_b_system_alignment_certification_record_process.md#4-forum-process) | Which independent forums review the evidence and stakeholder concerns, in what order, and how can they be contested? | Part B |
 > | **IV. Decide** | [§5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) | What outcome do the forums reach, and may the system go live? | Part B |
-> | **V. Record** | [§6](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record) | Is the one record, opened at the start, now complete with the outcome and everything behind it, and can it be audited? | Part B |
-> | **VI. Operate** | [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening), starting with the challenge path at [§7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification) · [§8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) | Can affected sentients contest the outcome, how is the certification kept current, when is it reopened, and what reaches standing? | Part B |
+> | **V. Record** | [§6](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record) | Is the one record opened for forum review complete with the outcome, supporting findings, conditions, and operating plan, and can it be audited? | Part B |
+> | **VI. Operate** | [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening) · [§8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) | Who monitors outcomes and responds to incidents and challenges, how are corrections verified, when is review repeated, and what reaches standing? | Part B |
 
 </details>
 
@@ -284,7 +304,7 @@ Participation and proportionality requirements scale the same way:
 - **Class A** systems require the strongest practicable participation paths, because errors can foreclose survival essentials before remedy is possible. These include:
   - accessible challenge;
   - stakeholder review; and
-  - Sentient-forum component findings where Rights Floors are implicated.
+  - findings from the forum family assigned the affected stake under [Part B §4.1 Forum supervision and component roles](core_08_b_system_alignment_certification_record_process.md#41-forum-supervision-and-component-roles), including Institutional or Sentient forums as that section requires.
 - **Class B** systems require robust participation where the system gates:
   - healthcare;
   - education;
