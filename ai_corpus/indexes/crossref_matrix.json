@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-08T07:24:12+00:00",
+  "generated_at": "2026-10-08T08:05:20+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -6122,6 +6122,13 @@
             ]
           },
           {
+            "file": "core_06_rights_part_e.md",
+            "count": 1,
+            "anchors": [
+              "#xxviii-a-existing-instantiations-transition-clock"
+            ]
+          },
+          {
             "file": "core_07_functional_independence_segregation_of_duties.md",
             "count": 2,
             "anchors": [
@@ -6131,7 +6138,7 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 83,
+            "count": 96,
             "anchors": [
               "#4-forum-process",
               "#41-forum-supervision-and-component-roles",
@@ -6141,6 +6148,7 @@
               "#62-record-integrity-transparency-and-auditability",
               "#7-recertification-and-reopening",
               "#71-challenging-a-certification",
+              "#711-contestability-paths",
               "#72-provisional-and-full-certification",
               "#73-non-evasion",
               "#8-relationship-to-standing",
