@@ -4920,7 +4920,7 @@
           "title": "1.1 Certification at a glance",
           "anchor": "11-certification-at-a-glance",
           "line": 63,
-          "gloss": "classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, gather it all into one record, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.",
+          "gloss": "classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, complete the one record that was opened at the start, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.",
           "gloss_line": 65
         },
         {
@@ -5161,7 +5161,7 @@
           "level": 4,
           "title": "5.3 Contestability chain",
           "anchor": "53-contestability-chain",
-          "line": 136,
+          "line": 137,
           "gloss": null,
           "gloss_line": null
         },
@@ -5170,7 +5170,7 @@
           "level": 4,
           "title": "5.4 Anti-bypass",
           "anchor": "54-anti-bypass",
-          "line": 150,
+          "line": 151,
           "gloss": null,
           "gloss_line": null
         },
@@ -5179,25 +5179,25 @@
           "level": 3,
           "title": "6. Certification Outcomes",
           "anchor": "6-certification-outcomes",
-          "line": 158,
+          "line": 159,
           "gloss": "every certification ends in a stated outcome. The forum decides it after the review, and the record that follows must state it along with any concerns raised on the way. Defects found in any evaluation are not paperwork mistakes: they can lead to conditions, deferral, refusal, withdrawal, or a fresh review.",
-          "gloss_line": 171
+          "gloss_line": 172
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
           "title": "7. System Certification Record",
           "anchor": "7-system-certification-record",
-          "line": 197,
+          "line": 198,
           "gloss": "a certification record is the auditable case file for one system under review — who runs it, what was checked, what was found, what was decided, and how to challenge it. It is not a marketing packet or a one-line approval stamp. Record depth, disclosure, and challenge burden scale with system class under [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive) — a **Class A** survival-critical system requires a fuller, more contestable file than a **Class C** coordination layer, though both must state class honestly and reflect required evaluations.",
-          "gloss_line": 211
+          "gloss_line": 212
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "7.1 Minimum record contents",
           "anchor": "71-minimum-record-contents",
-          "line": 219,
+          "line": 220,
           "gloss": null,
           "gloss_line": null
         },
@@ -5206,34 +5206,34 @@
           "level": 4,
           "title": "7.2 Record integrity: transparency and auditability",
           "anchor": "72-record-integrity-transparency-and-auditability",
-          "line": 287,
+          "line": 288,
           "gloss": "a certification record only works if sentients can read it and check it. This section puts transparency and auditability directly on the record itself, not as abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process that must satisfy those floors here — it does not own or replace **Article XVI** (*Audit, Transparency, and Independent Verification*) or sibling audit modes. The third requirement — that sentients can push back — is in [§3 Challenging a Certification](core_08_a_system_alignment_certification_evaluation.md#3-challenging-a-certification).",
-          "gloss_line": 299
+          "gloss_line": 300
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 3,
           "title": "8. Recertification and Reopening",
           "anchor": "8-recertification-and-reopening",
-          "line": 334,
+          "line": 335,
           "gloss": "no outcome lasts forever. This is the operating phase: a recognized system is re-checked on a schedule, and review reopens when the system, the risks, or the facts change — or when someone credibly challenges the record. Stale approval cannot stand in for current Rights-Floor compliance, and operators may not evade these duties by relabeling or boundary games.",
-          "gloss_line": 348
+          "gloss_line": 349
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "8.1 Provisional and full recognition",
           "anchor": "81-provisional-and-full-recognition",
-          "line": 371,
+          "line": 372,
           "gloss": "a system earns trust in steps. New systems, and systems that have failed a check, start on a short leash and are re-checked often. Only a system with nothing wrong now and nothing heading that way graduates to full recognition and a longer interval. Failing a check sends it back to the short leash.",
-          "gloss_line": 373
+          "gloss_line": 374
         },
         {
           "file": "core_08_b_system_alignment_certification_record_process.md",
           "level": 4,
           "title": "8.2 Non-evasion",
           "anchor": "82-non-evasion",
-          "line": 405,
+          "line": 406,
           "gloss": null,
           "gloss_line": null
         },
@@ -5242,9 +5242,9 @@
           "level": 3,
           "title": "9. Relationship to Standing",
           "anchor": "9-relationship-to-standing",
-          "line": 415,
+          "line": 416,
           "gloss": "certification can feed standing, but it is not standing. The certification record of a recognized system, good or bad, may supply verified facts to Chapter Nine — only through a strict gate — and Chapters Nine and Ten alone decide standing records and effects.",
-          "gloss_line": 428
+          "gloss_line": 429
         }
       ]
     },

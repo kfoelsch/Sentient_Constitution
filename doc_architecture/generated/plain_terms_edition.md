@@ -3166,7 +3166,7 @@ When a system really matters to sentients' lives, certification has to be **prop
 
 ##### 1.1 Certification at a glance
 
-classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, gather it all into one record, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.
+classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, complete the one record that was opened at the start, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance)
 

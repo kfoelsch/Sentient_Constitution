@@ -128,8 +128,9 @@ The **supervisory sequence** is the step-by-step order in which forums supervise
    - an objection;
    - a remediation condition; or
    - a certified question that must be resolved on time.
-4. **Record integration:** The lead forum integrates component findings into one certification record that states each component authority, finding, unresolved item, condition, and limit on reliance.
+4. **Integration for decision:** The lead forum integrates component findings into the one certification record opened at step 1, so that it states each component authority, finding, unresolved item, condition, and limit on reliance as they stand when the decision is made.
 5. **Constitutional disposition:** Where constitutional meaning, validity, or class-wide structural remedy is materially at issue, the lead forum must certify or escalate under Chapter Twelve before treating the matter as finally resolved on that dimension.
+6. **Decision and completing the record:** The lead forum states the outcome under [§6 Certification Outcomes](#6-certification-outcomes) and completes the record under [§7 System Certification Record](#7-system-certification-record), adding the outcome and the concerns raised in reaching it. It does not open a second record for the decision.
 
 <a id="53-contestability-chain"></a>
 
@@ -212,7 +213,7 @@ Certification defects found under any Part A evaluation are not minor paperwork 
 
 A **System Certification Record** is a bounded, reviewable record concerning a particular system, version, operator or steward, scope, time window, material-impact profile, and decision context — scope-bound, time-bound, and contestable under the Chapter Five meaning in [System Certification Record](core_05_band_continuity.md#system-certification-record).
 
-This section is the single home for what goes on the record. The evaluations in Part A say what must be checked; the findings they produce are recorded here.
+This section is the single home for what goes on the record. The evaluations in Part A say what must be checked; the findings they produce are recorded here. The record is the one opened at [§5.2 Supervisory sequence](#52-supervisory-sequence) step 1 and kept through review and decision; this section completes it, and no separate record is made for the decision.
 
 <a id="71-minimum-record-contents"></a>
 

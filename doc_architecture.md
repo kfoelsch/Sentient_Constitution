@@ -708,6 +708,8 @@ Gate: manual. Charts must also keep **VIS-CHART-READABILITY-01** and **VIS-CHART
 
 **Later addition (one new obligation, 2026-10-07).** With the record now written after the decision, §7.1 gained one required item, **Concerns raised in review and decision**: every objection, dissent, concern, and challenge raised in review or in reaching the outcome, with who raised it, how it was resolved or why it stays open, and any condition, reliance limit, or reopening trigger it produced. The Completeness paragraph and §6 say the same in one sentence each. This is the only operative change since the reorder; it is the one place where the conserved-obligations statement above no longer holds. Note: [evidence/2026-10-07/ch08_record_decision_concerns.md](evidence/2026-10-07/ch08_record_decision_concerns.md).
 
+**One record throughout (2026-10-07).** The certification record is a single record opened at the start of Phase III (§5.2 step 1), kept through review and decision, and completed in Phase V (§7). It is not a working record that is later replaced. §5.2 step 4 is "Integration for decision" and step 6 hands off to §6 and §7; §7 says no separate record is made for the decision. This keeps the anti-bypass rule in §5.4 (no hidden sub-records) intact.
+
 **Why the challenge path moved to Part A.** The published record challenge path opens when the system first has stakeholders, which can be before any forum review starts. It is framing, so it belongs in Phase I. The contestability chain (Part B §5.3) stays with the forum process because it mirrors the supervisory sequence.
 
 **Rules going forward.**

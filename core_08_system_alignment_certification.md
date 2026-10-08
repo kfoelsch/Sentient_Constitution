@@ -34,7 +34,7 @@
 > | **II. Evaluate** | [§4](core_08_a_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) | What does the whole system do — always, where implicated, and where triggered? | A |
 > | **III. Review** | [§5](core_08_b_system_alignment_certification_record_process.md#5-forum-process) | Which forums review the findings, in what order, and how can they be contested? | B |
 > | **IV. Decide** | [§6](core_08_b_system_alignment_certification_record_process.md#6-certification-outcomes) | What outcome do the forums reach? | B |
-> | **V. Record** | [§7](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record) | Is the outcome, and everything behind it, in one record that can be audited? | B |
+> | **V. Record** | [§7](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record) | Is the one record, opened at the start, now complete with the outcome and everything behind it, and can it be audited? | B |
 > | **VI. Operate** | [§8](core_08_b_system_alignment_certification_record_process.md#8-recertification-and-reopening) · [§9](core_08_b_system_alignment_certification_record_process.md#9-relationship-to-standing) | How is the certification kept current, when is it reopened, and what reaches standing? | B |
 >
 > The chart of the whole process is [Part A §1.1 Certification at a glance](core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance).
@@ -61,7 +61,7 @@
 > | **IV. Decide** | | |
 > | 8 | Reach the outcome and the recognition status; where a defect was found, decide on conditions, deferral, refusal, withdrawal, or a fresh review. | [Part B §6](core_08_b_system_alignment_certification_record_process.md#6-certification-outcomes), [§8.1](core_08_b_system_alignment_certification_record_process.md#81-provisional-and-full-recognition) |
 > | **V. Record** | | |
-> | 9 | Integrate everything, outcome included, into one System Certification Record, and check its integrity, transparency, and auditability. | [Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-minimum-record-contents), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-record-integrity-transparency-and-auditability) |
+> | 9 | Complete the one System Certification Record opened at the start: add the outcome and the concerns raised in reaching it, and check its integrity, transparency, and auditability. | [Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-minimum-record-contents), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-record-integrity-transparency-and-auditability) |
 > | **VI. Operate** | | |
 > | 10 | Recertify on the class cadence and reopen when a trigger is met. | [Part B §8](core_08_b_system_alignment_certification_record_process.md#8-recertification-and-reopening), [§8.2](core_08_b_system_alignment_certification_record_process.md#82-non-evasion) |
 > | 11 | Supply standing input only from the record of a recognized system, and only through the verified-input gate. | [Part B §9](core_08_b_system_alignment_certification_record_process.md#9-relationship-to-standing) |

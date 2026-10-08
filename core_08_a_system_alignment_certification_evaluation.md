@@ -62,7 +62,7 @@ As an oversight instrument, certification is one especially large audit process 
 
 #### 1.1 Certification at a glance
 
-*In plain terms: classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, gather it all into one record, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.*
+*In plain terms: classify the system honestly and open the challenge path as soon as it has stakeholders, run the evaluations that apply, have forums review the findings, decide an outcome, complete the one record that was opened at the start, and check again on schedule — closely at first, less often once a system has proven clean — or whenever the facts change.*
 
 The process runs in **six phases**: **I Frame**, **II Evaluate**, **III Review**, **IV Decide**, **V Record**, and **VI Operate**. The chart shows the whole certification process in that order. Part A covers the first two phases, framing and evaluation; [Part B](core_08_b_system_alignment_certification_record_process.md#chapter-eight-part-b-system-alignment-certification--record-and-process) covers the last four: the forum process, the outcome, the record, and operation (recertification and reopening, and the standing bridge).
 
@@ -79,7 +79,7 @@ flowchart TB
         Al ~~~ Im ~~~ Tr
     end
     F["Phase III, Review — §5<br/>Forum component findings<br/><br/>Roles, then supervisory sequence;<br/>the contestability chain runs alongside"]
-    Rec["Phase V, Record — §7<br/>One System Certification Record<br/><br/>States the outcome and everything behind it"]
+    Rec["Phase V, Record — §7<br/>One System Certification Record<br/><br/>Opened at the start; completed with the outcome<br/>and everything behind it"]
     S[["Chapter Nine — Standing<br/>records<br/><br/>Outside this chapter"]]
     O{"Phase IV, Decide — §6<br/>Outcome"}
     U["Reliance within stated limits<br/><br/>Provisional: shorter recertification clock<br/>Full: longer clock, earned only by clean recertification"]
@@ -127,7 +127,7 @@ flowchart TB
 > | **II. Evaluate** | [§4](#4-whole-system-certification-evaluation) | What does the whole system do — always, where implicated, and where triggered? | Part A |
 > | **III. Review** | [§5](core_08_b_system_alignment_certification_record_process.md#5-forum-process) | Which forums review the findings, in what order, and how can they be contested? | Part B |
 > | **IV. Decide** | [§6](core_08_b_system_alignment_certification_record_process.md#6-certification-outcomes) | What outcome do the forums reach? | Part B |
-> | **V. Record** | [§7](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record) | Is the outcome, and everything behind it, in one record that can be audited? | Part B |
+> | **V. Record** | [§7](core_08_b_system_alignment_certification_record_process.md#7-system-certification-record) | Is the one record, opened at the start, now complete with the outcome and everything behind it, and can it be audited? | Part B |
 > | **VI. Operate** | [§8](core_08_b_system_alignment_certification_record_process.md#8-recertification-and-reopening) · [§9](core_08_b_system_alignment_certification_record_process.md#9-relationship-to-standing) | How is the certification kept current, when is it reopened, and what reaches standing? | Part B |
 
 </details>
