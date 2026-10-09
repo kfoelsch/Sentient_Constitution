@@ -70,7 +70,6 @@ The process runs in **six phases**: **I Frame**, **II Evaluate**, **III Review**
 flowchart TB
     T(["System with material impact seeks certification,<br/>or reliance on it grows"])
     C["Phase I, Frame — §2<br/>Classify honestly<br/><br/>Class sets depth and re-check schedule"]
-    Ch["Phase VI, Operate — §7–§7.2<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
     subgraph W["Phase II, Evaluate — §3 Whole-system evaluation"]
         direction LR
         Al["§3.1–§3.4 — Always<br/><br/>Systemic risk: evaluated, and disclosed<br/>to those who need it; time horizon;<br/>governance; data types"]
@@ -89,6 +88,10 @@ flowchart TB
     G{"Go-live gate — §5<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
     Hold["Meet go-live prerequisites — §5<br/><br/>Complete notice and independently verify<br/>conditions required before go-live"]
     Rm["Protect and correct — §5, §7.2<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
+    Ch["Phase VI, Operate — §7–§7.2<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
+    Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     Re["Next review pass — §7<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new record linked to the last"]
     T --> C
     A1((A)) --> C
@@ -103,17 +106,22 @@ flowchart TB
     Nc --> Rec
     Rec -.->|§8 — verified inputs only;<br/>current certification or facts<br/>arising during certification| S
     Rec --> Pub
+    Rec ~~~ Sp
     Pub --> G
-    G -->|Yes: operate within the record| Ch
-    G -->|Not Certified| C2((C))
-    G -->|Certified, prerequisites pending| Hold
-    Hold --> B2((B))
-    B1((B)) --> G
-    C1((C)) --> Rm
-    Ch -->|Material defect: protect and correct| Rm
-    Ch -->|On schedule, or material change<br/>or credible challenge requires review| Re
-    Rm -->|Correction evidence is checked<br/>in the next review pass| Re
+    G ~~~ SpL
+    G -->|Not Certified| Rm
+    G --->|Yes: operate<br/>within the record| Ch
+    G --->|Certified,<br/>prerequisites pending| Hold
+    Hold --> G
+    Ch -->|Material defect:<br/>protect and correct| Rm
+    Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
+    Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
+    Hold ~~~~ SpA
+    SpA ~~~ Re
     Re --> A2((A))
+    style Sp fill:none,stroke:none,color:#111111
+    style SpL fill:none,stroke:none,color:#111111
+    style SpA fill:none,stroke:none,color:#111111
     style T fill:none,stroke:#64748b,color:#ffffff
     style C fill:none,stroke:#16a34a,color:#ffffff
     style Ch fill:none,stroke:#16a34a,color:#ffffff
@@ -134,10 +142,6 @@ flowchart TB
     style Re fill:none,stroke:#16a34a,color:#ffffff
     style A1 fill:none,stroke:#64748b,color:#ffffff
     style A2 fill:none,stroke:#64748b,color:#ffffff
-    style B1 fill:none,stroke:#64748b,color:#ffffff
-    style B2 fill:none,stroke:#64748b,color:#ffffff
-    style C1 fill:none,stroke:#64748b,color:#ffffff
-    style C2 fill:none,stroke:#64748b,color:#ffffff
 ```
 
 <details>
