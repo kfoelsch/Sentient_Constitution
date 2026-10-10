@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **675** of **943** headings carry a gloss (72%).
+Coverage: **675** of **942** headings carry a gloss (72%).
 
 ## Contents
 
@@ -31,7 +31,7 @@ Coverage: **675** of **943** headings carry a gloss (72%).
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (9/10 glossed)
-- [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (15/22 glossed)
+- [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (15/21 glossed)
 - [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (11/16 glossed)
 - [CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-eight-part-c-system-alignment-certification--illustrations) — `core_08_c_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-eight-system-alignment-certification-reading-index) — `core_08_system_alignment_certification.md` (1/1 glossed)
@@ -3156,11 +3156,11 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 ## CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) · 15/22 headings glossed
+Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) · 15/21 headings glossed
 
 #### 1. Purpose and Role
 
-When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is.
+When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once its effects reach beyond a private unit or its operator claims constitutional compliance.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#1-purpose-and-role)
 
@@ -3169,12 +3169,6 @@ When a system really matters to sentients' lives, certification has to be **prop
 classify the system honestly, run the evaluations that apply, have forums independently review the evidence and stakeholder concerns, and decide an outcome. Complete the one record opened for forum review and publish it with an open challenge path. A certified system goes live only after its notice interval and required protections are satisfied. Monitor actual outcomes, respond to incidents and challenges, and check again on schedule or when the facts change. Correct defects and have the correction independently verified before authorizing the affected scope or releasing its conditions. Each review pass uses a new record linked to the last.
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#11-certification-at-a-glance)
-
-##### 1.2 Proportionality and the Tetrad
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_08_a_system_alignment_certification_evaluation.md#12-proportionality-and-the-tetrad)
 
 #### 2. System Class Evaluation
 
@@ -3320,7 +3314,7 @@ when this section says **stay**, it means a temporary pause — holding off fina
 
 #### 5. Certification Outcomes
 
-every certification review ends in a stated outcome, supported by evidence and the concerns raised on the way. Nothing goes live before it is certified, the published outcome has allowed a practicable opportunity for challenge, and the protections required before go-live have been checked. Conditions state what must be done before operation, what must hold during operation, and what corrective work may follow under bounded authorization. Defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review; correction must be independently verified before it supports authorization or release from conditions.
+every certification review ends in a stated outcome, supported by evidence and the concerns raised on the way. Nothing goes live before it is certified, the published outcome has allowed a practicable opportunity for challenge, and the protections required before go-live have been checked. Going live is a permission, not a separate stage of work: it is granted when the system is certified, the notice interval has run, and the conditions required before go-live have been independently verified. Conditions state what must be done before operation, what must hold during operation, and what corrective work may follow under bounded authorization. Defects can lead to conditions, deferral, refusal, withdrawal, or a fresh review; correction must be independently verified before it supports authorization or release from conditions.
 
 [Source](../../core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)
 

@@ -40,11 +40,31 @@ Chapter Eight, **Part A**, is the constitutional owner of **system alignment cer
 
 <br>
 
-*In plain terms: When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is.*
+*In plain terms: When a system really matters to sentients' lives, certification has to be **proportionate** — as demanding as the system's real impact, dependency, and risk require, not a one-size-fits-all checklist or a rubber stamp. It also has to be **participatory** — affected sentients and communities must be able to see what was reviewed, understand what was decided, and challenge it when something is wrong. Forums review evidence, write it down in a certification record, and require re-checks on a schedule that matches how risky the system is. Classes A, B, and C get the full process and Class L a lighter one. Class P is encouraged to use it, and must once its effects reach beyond a private unit or its operator claims constitutional compliance.*
 
 *A certification is not a popularity score, a forever pass, or a way to skip rights review. It is a time-bound, challengeable statement of what is known about the system's alignment right now. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVI** (*Audit, Transparency, and Independent Verification*), [Auditability](core_05_band_oversight.md#auditability)).*
 
 **System alignment certification** exists to answer one question for a stated scope and review schedule: Has the system shown constitutional alignment well enough for certification, conditional certification, validation, recertification, continued reliance, deployment, or material release from conditions?
+
+Certification depth, record burden, recertification cadence, stakeholder review, and contest paths must scale with [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality):
+
+- Higher-impact, higher-dependency, and higher-risk systems require stronger proof, clearer records, and more practicable participation — including substantive accessibility, stakeholder input, and challenge routes scaled to who relies on the system.
+- Lower classes and bounded scopes still require honest classification and proportionate assurance; they do not receive a free pass from material obligations where external effects exist.
+
+The process applies by impact class, as [CS-3 §3.5 Reclassification requirement](corpus_systems/cs_03_a_system_classification_machinery.md#35-reclassification-requirement) sets out:
+
+- **Class A, Class B, and Class C:** these systems carry the highest impact, dependency, and risk, and whole-system evaluation under [§3 Whole-System Certification Evaluation](#3-whole-system-certification-evaluation) is mandatory at full depth;
+- **Class L:** the same evaluation is mandatory but proportionate, with a lower default re-check cadence and simpler records where CS-3 (*System classification machinery*) permits; and
+- **Class P:** the process is encouraged while the system is validly Class P, and a Class P system may use it voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the operator voluntarily asserts constitutional compliance for the system.
+
+Certification implements the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
+
+- **[Flourishing](core_00_preamble.md#flourishing)** — certification verifies that certification or continued reliance would not quietly defeat Rights Floors or block fair participation in constitutionally relevant life;
+- **[Continuity](core_00_preamble.md#continuity)** — certification verifies durable, non-regressive supply that sustains rather than depletes healthy natural systems ([Ecological Integrity](core_05_band_continuity.md#ecological-integrity), including [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity)), and class-scaled recertification where shared systems gate or sustain delivery;
+- **Participation** — affected sentients and communities can understand, contest, and take part in review paths that matter to them;
+- **Oversight** — records, evidence, and assumptions are visible and auditable enough for independent checking; certification itself is one especially large audit process under that oversight duty, not the only one;
+- **Accountability** — defects, misclassification, and floor-defeating operation route to remedy, conditions, withdrawal, or standing input where the facts support it;
+- **Timeliness** — review and contest clocks keep certification from going stale while harm can still be prevented or reversed.
 
 As an oversight instrument, certification is one especially large audit process under [Auditability](core_05_band_oversight.md#auditability) and **Article XVI** (*Audit, Transparency, and Independent Verification*):
 
@@ -89,9 +109,10 @@ flowchart TB
     Hold["Meet go-live prerequisites — §5<br/><br/>Complete notice and independently verify<br/>conditions required before go-live"]
     Rm["Protect and correct — §5, §7.2<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
     Ch["Phase VI, Operate — §7–§7.2<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and conditions;<br/>monitor outcomes and respond to incidents and challenges"]
+    S2[["Chapter Nine — Standing<br/>records<br/><br/>Outside this chapter"]]
     Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
-    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
-    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
+    SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     Re["Next review pass — §7<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new record linked to the last"]
     T --> C
     A1((A)) --> C
@@ -115,8 +136,9 @@ flowchart TB
     Hold --> G
     Ch -->|Material defect:<br/>protect and correct| Rm
     Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
+    Ch -.->|§8 — verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
     Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
-    Hold ~~~~ SpA
+    S2 ~~~~ SpA
     SpA ~~~ Re
     Re --> A2((A))
     style Sp fill:none,stroke:none,color:#111111
@@ -131,6 +153,7 @@ flowchart TB
     style F fill:none,stroke:#ea580c,color:#ffffff
     style Rec fill:none,stroke:#2563eb,color:#ffffff
     style S fill:none,stroke:#db2777,color:#ffffff
+    style S2 fill:none,stroke:#db2777,color:#ffffff
     style O fill:none,stroke:#ea580c,color:#ffffff
     style Fc fill:none,stroke:#9333ea,color:#ffffff
     style Pc fill:none,stroke:#9333ea,color:#ffffff
@@ -145,40 +168,6 @@ flowchart TB
 ```
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guide (non-operative): what happens at go-live</span></strong></summary>
-
-> The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this chapter or in other chapters. Where this list and a section differ, the section controls.
->
-> "Go live" is a permission, not a stage of work. The gate in the chart sets it. The chapter does not describe a separate go-live procedure. This list gathers what the sections say is true when a system goes live, and what keeps running after.
->
-> **Before the system goes live**
->
-> - Its System Certification Record carries Provisional or Full certification, with or without conditions ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)). A system that is Not Certified, including one whose certification is deferred, refused, withdrawn, or expired, may not go live. A pilot is a go-live, so this applies to a pilot as it does to full deployment.
-> - The outcome is published on the record, together with the concerns raised in reaching it ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [§6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents)).
-> - The published record challenge path is open ([Part B §7.1.1](core_08_b_system_alignment_certification_record_process.md#711-contestability-paths)), so a challenge can be filed, and reliance stayed, before the system goes live.
-> - The notice interval set by the forum has elapsed, every condition required before go-live has been independently verified, and no applicable stay bars the proposed operation. The record states the earliest permitted go-live and the authority that can promptly stay or limit reliance ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [§6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents)).
->
-> **What the system may do once live**
->
-> - It operates only within the scope, population, and duration stated on the record. A pilot's certification covers only what its own record states, and full deployment needs its own certification ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)).
-> - It stays within the conditions and the limits on reliance on the record. Provisional certification carries limits on reliance ([Part B §6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification)).
-> - A material expansion is new conduct, so it must meet the same gate before it goes live ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes)).
->
-> **What keeps running after go-live**
->
-> - The challenge path stays open while the system has stakeholders; earlier completed records remain challengeable. A credible challenge can reopen review and stay or limit reliance ([Part B §7.1](core_08_b_system_alignment_certification_record_process.md#71-challenging-a-certification), [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening)).
-> - Named owners monitor actual outcomes and respond to incidents, challenges, and unmet conditions under the operating plan on the record. Corrections are independently verified before authorization of the affected scope or release from conditions ([Part B §6.1](core_08_b_system_alignment_certification_record_process.md#61-minimum-record-contents), [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening)).
-> - The system is re-checked on the recertification cadence for its status, shorter for Provisional than for Full. Each re-check opens a new record linked to the last ([Part B §7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening), [§7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification)).
-> - Review also reopens when the system, its use, or the facts change ([Part B §7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening)).
->
-> **Not covered by this gate**
->
-> - A system already operating when an adopter's instrument takes effect is not barred while its transition clock runs ([Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes), [Article XXVIII-A](core_06_rights_part_e.md#xxviii-a-existing-instantiations-transition-clock) (*Phased Adoption and Rights-Floor Continuity*)).
-> - For an operating system under corrective review, interim protection and any continued reliance are decided under the applicable forum process, including protection of survival-essential delivery. The correction box does not itself order interruption ([Part B §7.2](core_08_b_system_alignment_certification_record_process.md#72-provisional-and-full-certification)).
-
-</details>
-
-<details>
 <summary><strong><span style="color: #2563eb;">Reader guide (non-operative): the six phases</span></strong></summary>
 
 > The following content is **reader guidance only**. It does not add, remove, or narrow binding obligations in this chapter or in other chapters.
@@ -191,30 +180,12 @@ flowchart TB
 > | **IV. Decide** | [§5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) | What outcome do the forums reach, and may the system go live? | Part B |
 > | **V. Record** | [§6](core_08_b_system_alignment_certification_record_process.md#6-system-certification-record) | Is the one record opened for forum review complete with the outcome, supporting findings, conditions, and operating plan, and can it be audited? | Part B |
 > | **VI. Operate** | [§7](core_08_b_system_alignment_certification_record_process.md#7-recertification-and-reopening) · [§8](core_08_b_system_alignment_certification_record_process.md#8-relationship-to-standing) | Who monitors outcomes and responds to incidents and challenges, how are corrections verified, when is review repeated, and what reaches standing? | Part B |
+>
+> Illustrative **Class A**, **Class B**, and **Class C** profiles — and how class scales certification depth across this chapter — are in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive). Worked walkthroughs of the same three systems for each evaluation area in [§3 Whole-System Certification Evaluation](#3-whole-system-certification-evaluation) through [§3.8.6 Trustworthiness and System-Reliance Integrity Evaluation](#386-trustworthiness-and-system-reliance-integrity-evaluation) follow there, in [Part C — Illustrations](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations), which links each profile and walkthrough back to the Part A section it illustrates.
 
 </details>
 
 <br>
-
-Illustrative **Class A**, **Class B**, and **Class C** profiles — and how class scales certification depth across this chapter — are in [Illustrative class profiles (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#illustrative-class-profiles-non-exhaustive). Worked walkthroughs of the same three systems for each evaluation area in [§3 Whole-System Certification Evaluation](#3-whole-system-certification-evaluation) through [§3.8.6 Trustworthiness and System-Reliance Integrity Evaluation](#386-trustworthiness-and-system-reliance-integrity-evaluation) follow there, in [Part C — Illustrations](core_08_c_system_alignment_certification_illustrations.md#chapter-eight-part-c-system-alignment-certification--illustrations), which links each profile and walkthrough back to the Part A section it illustrates.
-
-<a id="12-proportionality-and-the-tetrad"></a>
-
-#### 1.2 Proportionality and the Tetrad
-
-Certification depth, record burden, recertification cadence, stakeholder review, and contest paths must scale with [material stake](core_00_preamble.md#material-stake) under [Proportionality](core_05_band_accountability.md#proportionality):
-
-- Higher-impact, higher-dependency, and higher-risk systems require stronger proof, clearer records, and more practicable participation — including substantive accessibility, stakeholder input, and challenge routes scaled to who relies on the system.
-- Lower classes and bounded scopes still require honest classification and proportionate assurance; they do not receive a free pass from material obligations where external effects exist.
-
-Certification implements the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad):
-
-- **[Flourishing](core_00_preamble.md#flourishing)** — certification verifies that certification or continued reliance would not quietly defeat Rights Floors or block fair participation in constitutionally relevant life;
-- **[Continuity](core_00_preamble.md#continuity)** — certification verifies durable, non-regressive supply that sustains rather than depletes healthy natural systems ([Ecological Integrity](core_05_band_continuity.md#ecological-integrity), including [Ecological Recovery Capacity](core_05_band_continuity.md#ecological-recovery-capacity)), and class-scaled recertification where shared systems gate or sustain delivery;
-- **Participation** — affected sentients and communities can understand, contest, and take part in review paths that matter to them;
-- **Oversight** — records, evidence, and assumptions are visible and auditable enough for independent checking; certification itself is one especially large audit process under that oversight duty, not the only one;
-- **Accountability** — defects, misclassification, and floor-defeating operation route to remedy, conditions, withdrawal, or standing input where the facts support it;
-- **Timeliness** — review and contest clocks keep certification from going stale while harm can still be prevented or reversed.
 
 <a id="2-system-class-evaluation"></a>
 

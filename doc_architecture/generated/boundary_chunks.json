@@ -5,7 +5,7 @@
   "cannot_narrow_core": true,
   "split_rule": "headings outside details; never inside O/M/A/C blocks",
   "embeddings": "postponed_indefinitely",
-  "chunk_count": 934,
+  "chunk_count": 933,
   "chunks": [
     {
       "file": "core_00_preamble.md",
@@ -3624,147 +3624,140 @@
       "heading": "1. Purpose and Role",
       "anchor": "#1-purpose-and-role",
       "line_start": 30,
-      "line_end": 62
+      "line_end": 82
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "1.1 Certification at a glance",
       "anchor": "#11-certification-at-a-glance",
-      "line_start": 63,
-      "line_end": 198
-    },
-    {
-      "file": "core_08_a_system_alignment_certification_evaluation.md",
-      "heading": "1.2 Proportionality and the Tetrad",
-      "anchor": "#12-proportionality-and-the-tetrad",
-      "line_start": 199,
-      "line_end": 216
+      "line_start": 83,
+      "line_end": 191
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "2. System Class Evaluation",
       "anchor": "#2-system-class-evaluation",
-      "line_start": 217,
-      "line_end": 291
+      "line_start": 192,
+      "line_end": 266
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "2.1 How class scales every evaluation",
       "anchor": "#21-how-class-scales-every-evaluation",
-      "line_start": 292,
-      "line_end": 320
+      "line_start": 267,
+      "line_end": 295
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3. Whole-System Certification Evaluation",
       "anchor": "#3-whole-system-certification-evaluation",
-      "line_start": 321,
-      "line_end": 360
+      "line_start": 296,
+      "line_end": 335
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.1 Systemic Scope and Risk Factors",
       "anchor": "#31-systemic-scope-and-risk-factors",
-      "line_start": 361,
-      "line_end": 396
+      "line_start": 336,
+      "line_end": 371
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.2 Time-Consistency Constraint",
       "anchor": "#32-time-consistency-constraint",
-      "line_start": 397,
-      "line_end": 401
+      "line_start": 372,
+      "line_end": 376
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.3 Governance, Incentive, and Contestability Discipline",
       "anchor": "#33-governance-incentive-and-contestability-discipline",
-      "line_start": 402,
-      "line_end": 418
+      "line_start": 377,
+      "line_end": 393
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.4 Data Types and Handling Evaluation",
       "anchor": "#34-data-types-and-handling-evaluation",
-      "line_start": 419,
-      "line_end": 517
+      "line_start": 394,
+      "line_end": 492
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.5 Privacy (Informational) Joint Invocation",
       "anchor": "#35-privacy-informational-joint-invocation",
-      "line_start": 518,
-      "line_end": 541
+      "line_start": 493,
+      "line_end": 516
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.6 Voluntary Discontinuation, Major Self-Modification, and Exit Rights",
       "anchor": "#36-voluntary-discontinuation-major-self-modification-and-exit-rights",
-      "line_start": 542,
-      "line_end": 546
+      "line_start": 517,
+      "line_end": 521
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.7 Assembly, Collective Organization, and Institutional Formation",
       "anchor": "#37-assembly-collective-organization-and-institutional-formation",
-      "line_start": 547,
-      "line_end": 551
+      "line_start": 522,
+      "line_end": 526
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.7.1 Dissent and Peaceful Protest",
       "anchor": "#371-dissent-and-peaceful-protest",
-      "line_start": 552,
-      "line_end": 565
+      "line_start": 527,
+      "line_end": 540
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8 Rights-Floor and Domain Evaluations",
       "anchor": "#38-rights-floor-and-domain-evaluations",
-      "line_start": 566,
-      "line_end": 603
+      "line_start": 541,
+      "line_end": 578
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.1 Ecological Footprint Evaluation",
       "anchor": "#381-ecological-footprint-evaluation",
-      "line_start": 604,
-      "line_end": 654
+      "line_start": 579,
+      "line_end": 629
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.2 Proportionate Cross-System Support Evaluation",
       "anchor": "#382-proportionate-cross-system-support-evaluation",
-      "line_start": 655,
-      "line_end": 755
+      "line_start": 630,
+      "line_end": 730
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.3 Nondiscrimination Evaluation",
       "anchor": "#383-nondiscrimination-evaluation",
-      "line_start": 756,
-      "line_end": 794
+      "line_start": 731,
+      "line_end": 769
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.4 Accessibility Evaluation",
       "anchor": "#384-accessibility-evaluation",
-      "line_start": 795,
-      "line_end": 839
+      "line_start": 770,
+      "line_end": 814
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.5 Educational Capability and Learning-System Integrity Evaluation",
       "anchor": "#385-educational-capability-and-learning-system-integrity-evaluation",
-      "line_start": 840,
-      "line_end": 878
+      "line_start": 815,
+      "line_end": 853
     },
     {
       "file": "core_08_a_system_alignment_certification_evaluation.md",
       "heading": "3.8.6 Trustworthiness and System-Reliance Integrity Evaluation",
       "anchor": "#386-trustworthiness-and-system-reliance-integrity-evaluation",
-      "line_start": 879,
-      "line_end": 920
+      "line_start": 854,
+      "line_end": 895
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
@@ -3813,70 +3806,70 @@
       "heading": "5. Certification Outcomes",
       "anchor": "#5-certification-outcomes",
       "line_start": 157,
-      "line_end": 211
+      "line_end": 219
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "6. System Certification Record",
       "anchor": "#6-system-certification-record",
-      "line_start": 212,
-      "line_end": 233
+      "line_start": 220,
+      "line_end": 241
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "6.1 Minimum record contents",
       "anchor": "#61-minimum-record-contents",
-      "line_start": 234,
-      "line_end": 313
+      "line_start": 242,
+      "line_end": 321
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "6.2 Record integrity: transparency and auditability",
       "anchor": "#62-record-integrity-transparency-and-auditability",
-      "line_start": 314,
-      "line_end": 360
+      "line_start": 322,
+      "line_end": 368
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "7. Recertification and Reopening",
       "anchor": "#7-recertification-and-reopening",
-      "line_start": 361,
-      "line_end": 401
+      "line_start": 369,
+      "line_end": 409
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "7.1 Challenging a Certification",
       "anchor": "#71-challenging-a-certification",
-      "line_start": 402,
-      "line_end": 436
+      "line_start": 410,
+      "line_end": 444
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "7.1.1 Contestability paths",
       "anchor": "#711-contestability-paths",
-      "line_start": 437,
-      "line_end": 456
+      "line_start": 445,
+      "line_end": 464
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "7.2 Provisional and full certification",
       "anchor": "#72-provisional-and-full-certification",
-      "line_start": 457,
-      "line_end": 498
+      "line_start": 465,
+      "line_end": 506
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "7.3 Non-evasion",
       "anchor": "#73-non-evasion",
-      "line_start": 499,
-      "line_end": 508
+      "line_start": 507,
+      "line_end": 516
     },
     {
       "file": "core_08_b_system_alignment_certification_record_process.md",
       "heading": "8. Relationship to Standing",
       "anchor": "#8-relationship-to-standing",
-      "line_start": 509,
-      "line_end": 584
+      "line_start": 517,
+      "line_end": 592
     },
     {
       "file": "core_08_c_system_alignment_certification_illustrations.md",
