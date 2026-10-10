@@ -119,6 +119,97 @@ This band holds definitions under the constitutional [Continuity aim](core_00_pr
 
 ---
 
+<a id="go-live"></a>
+
+#### Go-Live
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) (*the go-live gate: what must hold before a system goes live*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Downstream: [Chapter Eight Part A §2.2 Pilot certification](core_08_a_system_alignment_certification_evaluation.md#22-pilot-certification) (*a pilot is a go-live*).
+- Read with: [Pilot](core_05_band_continuity.md#pilot), [Provisional Certification](core_05_band_continuity.md#provisional-certification), [Full Certification](core_05_band_continuity.md#full-certification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [Material Impact](core_05_band_oversight.md#material-impact), [Dependency](core_05_band_continuity.md#dependency), [System Boundaries](core_05_band_continuity.md#system-boundaries), and [Reversibility](core_05_band_continuity.md#reversibility).
+
+</details>
+
+<br>
+
+*In plain terms: a **go-live** is the moment a system stops being something that is being built or tested and starts being something that actually affects sentients, or that sentients start to rely on. It is judged by what the system is really doing, not by what the launch is called.*
+
+- **What it is**
+  - **In scope:** The point at which a system first operates so that it [materially affects](core_05_band_oversight.md#material-impact) sentients, or so that sentients materially rely on it (see [Dependency](core_05_band_continuity.md#dependency)), whether as a [Pilot](core_05_band_continuity.md#pilot) or in full deployment. Each of these is its own go-live: a pilot, full deployment after a pilot, and a material expansion of an operating system beyond the scope, population, or duration its certification covers (as to the expanded part). Whether a go-live has occurred is decided by actual operation and effect, not by a launch label such as "beta," "trial," "preview," "early access," "soft launch," or "experimental," and not by an announcement date or an internal milestone.
+  - **Out of scope:**
+    - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
+    - a system that neither materially affects sentients nor is materially relied on by them;
+    - a system already operating when an adopter's instrument takes effect, which is governed during its transition period by the clock in **Article XXVIII-A** (*Phased Adoption and Rights-Floor Continuity*) and not treated as going live a second time; or
+    - ordinary changes to an operating system that are not a material expansion —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Material Impact](core_05_band_oversight.md#material-impact); [Dependency](core_05_band_continuity.md#dependency).
+  - The gate that must be satisfied before a go-live, the notice interval, and the verification of conditions are stated in [Chapter Eight Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes); this entry is the Chapter Five meaning only.
+<a id="go-live-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the date a system went live is identified from when it actually began to materially affect sentients, or to be materially relied on, and not from a launch label, announcement, or internal milestone;
+    2. nothing operated with live effect or reliance before the earliest permitted go-live stated on the [System Certification Record](core_05_band_continuity.md#system-certification-record); and
+    3. a pilot, full deployment after a pilot, and a material expansion were each treated as a go-live of their own, and not as a continuation of an earlier one.
+<a id="go-live-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - going live, as a pilot or in full deployment, before the gate in [Chapter Eight Part B §5](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) is satisfied;
+    - relabeling live operation as a beta, trial, preview, or test so that it appears not to be a go-live;
+    - releasing a system in increments, each below the point of material effect or reliance, so that the whole escapes the gate; or
+    - treating a material expansion as a continuation of an earlier go-live, or setting the go-live date after the fact.
+
+---
+
+<a id="pilot"></a>
+
+#### Pilot
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Canonical owner: [Chapter Eight Part A §2.2 Pilot certification](core_08_a_system_alignment_certification_evaluation.md#22-pilot-certification) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Chapter Eight Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) (*the go-live gate*).
+- Cluster component: none. This entry stands beside the [System Alignment Certification](core_05_band_continuity.md#system-alignment-certification) topic group and does not join it.
+- Downstream: [CS-5 — Design, testing, verification, and deployment](corpus_systems/cs_05_design_testing_verification_deployment.md) (*progressive deployment*).
+- Read with: [Go-Live](core_05_band_continuity.md#go-live), [Provisional Certification](core_05_band_continuity.md#provisional-certification), [System Certification Record](core_05_band_continuity.md#system-certification-record), [System Classification Record](core_05_band_continuity.md#system-classification-record), [Dependency](core_05_band_continuity.md#dependency), [Systemic Lock-In](core_05_band_continuity.md#systemic-lock-in), and [Reversibility](core_05_band_continuity.md#reversibility).
+
+</details>
+
+<br>
+
+*In plain terms: a **pilot** is a real but deliberately limited launch. Real sentients are affected, or start to rely on the system, so it is not a test in a sandbox; and it is limited in advance by a stated scope, population, and length of time. Because it is real, it needs its own certification before it starts, and it may not quietly grow past the limits it was certified for.*
+
+- **What it is**
+  - **In scope:** A [Go-Live](core_05_band_continuity.md#go-live) limited by a scope, a population, and a duration stated in advance on its own [System Certification Record](core_05_band_continuity.md#system-certification-record), run ahead of full deployment, in which the system actually affects sentients or sentients actually rely on it. A pilot is a go-live in every respect that matters to certification. Its certification covers only the scope, population, and duration stated on that record. Operation beyond them is a further go-live, as a material expansion, and needs its own certification. Whether a release is a pilot is decided by actual operation and effect, not by label: a live release called a "beta," "trial," "preview," "early access," or "limited release" is at least a pilot.
+  - **Out of scope:**
+    - operation in development, testing and validation, or staging environments, and simulation, where the system has no live effect on sentients and is not relied on by them;
+    - full deployment, which needs its own certification and may draw on the pilot's record; or
+    - the sequencing rules in [**CS-10**](corpus_systems/cs_10_transition_constitution_migration_governance.md) (*Transition constitution and migration governance*) and [**CI-14**](corpus_institutions/ci_14_transitional_governance_institutional_evolution.md) (*Transitional governance and institutional evolution*), under which lower-tier systems or institutions may precede higher-tier ones to lower risk — a system sequenced that way which then goes live is a pilot under this entry only where it meets the meaning above —
+    those sit under their own homes, not under this entry.
+  - **Depends on:** [Go-Live](core_05_band_continuity.md#go-live); [System Certification Record](core_05_band_continuity.md#system-certification-record).
+  - How deeply a pilot is evaluated, and the expectation that a system at any class runs a pilot before full deployment or records why it did not, are stated in [Chapter Eight Part A §2.2](core_08_a_system_alignment_certification_evaluation.md#22-pilot-certification); this entry is the Chapter Five meaning only.
+<a id="pilot-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Continuity measurement family](core_05_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
+
+    **Primary assessment:** Evaluate whether:
+    1. the pilot was certified on its own record before it began, and its scope, population, and duration were stated on that record in advance;
+    2. the pilot stayed inside those limits, and operation beyond them was certified as a go-live of its own before it began; and
+    3. live operation called by another name — a beta, trial, preview, or test — was treated as a pilot, or as full deployment, for certification.
+<a id="pilot-c"></a>
+- **What must hold**
+  - **Primary failure:**
+    - treating a pilot as a test that needs no certification of its own;
+    - an open-ended pilot, or one with no stated population or end, that in practice is full deployment under another name;
+    - letting a pilot grow past its certified scope, population, or duration without a fresh certification; or
+    - using a pilot to build reliance or [lock-in](core_05_band_continuity.md#systemic-lock-in) that makes later refusal, conditioning, or withdrawal of certification costly for the sentients affected.
+
+---
+
 <a id="provisional-certification"></a>
 
 #### Provisional Certification
