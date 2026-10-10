@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-09T18:35:13+00:00",
+  "generated_at": "2026-10-10T03:54:09+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16730,
+  "edge_count": 16722,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -81228,7 +81228,7 @@
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#constitutional-tetrad",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -81236,7 +81236,7 @@
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#two-constitutional-aims",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -81244,6 +81244,22 @@
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_00_preamble.md",
       "target_anchor": "#material-stake",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#flourishing",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#continuity",
       "count": 1
     },
     {
@@ -81276,7 +81292,7 @@
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
-      "count": 1
+      "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -81292,6 +81308,22 @@
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#system-certification-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-integrity",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-recovery-capacity",
       "count": 1
     },
     {
@@ -81504,10 +81536,10 @@
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_06_rights_part_e.md",
-      "target_anchor": "#xxviii-a-existing-instantiations-transition-clock",
+      "source_header": "1. Purpose and Role",
+      "source_anchor": "#1-purpose-and-role",
+      "target_file": "corpus_systems/cs_03_a_system_classification_machinery.md",
+      "target_anchor": "#35-reclassification-requirement",
       "count": 1
     },
     {
@@ -81523,54 +81555,6 @@
       "source_header": "1.1 Certification at a glance",
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#5-certification-outcomes",
-      "count": 7
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#61-minimum-record-contents",
-      "count": 4
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#711-contestability-paths",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#72-provisional-and-full-certification",
-      "count": 3
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#71-challenging-a-certification",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#7-recertification-and-reopening",
-      "count": 5
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#4-forum-process",
       "count": 1
     },
@@ -81579,7 +81563,23 @@
       "source_header": "1.1 Certification at a glance",
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#5-certification-outcomes",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1.1 Certification at a glance",
+      "source_anchor": "#11-certification-at-a-glance",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#6-system-certification-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1.1 Certification at a glance",
+      "source_anchor": "#11-certification-at-a-glance",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#7-recertification-and-reopening",
       "count": 1
     },
     {
@@ -81604,70 +81604,6 @@
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
       "target_anchor": "#chapter-eight-part-c-system-alignment-certification--illustrations",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.2 Proportionality and the Tetrad",
-      "source_anchor": "#12-proportionality-and-the-tetrad",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.2 Proportionality and the Tetrad",
-      "source_anchor": "#12-proportionality-and-the-tetrad",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#two-constitutional-aims",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.2 Proportionality and the Tetrad",
-      "source_anchor": "#12-proportionality-and-the-tetrad",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#constitutional-tetrad",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.2 Proportionality and the Tetrad",
-      "source_anchor": "#12-proportionality-and-the-tetrad",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#flourishing",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.2 Proportionality and the Tetrad",
-      "source_anchor": "#12-proportionality-and-the-tetrad",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#continuity",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.2 Proportionality and the Tetrad",
-      "source_anchor": "#12-proportionality-and-the-tetrad",
-      "target_file": "core_05_band_accountability.md",
-      "target_anchor": "#proportionality",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.2 Proportionality and the Tetrad",
-      "source_anchor": "#12-proportionality-and-the-tetrad",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#ecological-integrity",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.2 Proportionality and the Tetrad",
-      "source_anchor": "#12-proportionality-and-the-tetrad",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#ecological-recovery-capacity",
       "count": 1
     },
     {
