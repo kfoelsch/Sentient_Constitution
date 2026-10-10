@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-10T03:54:09+00:00",
+  "generated_at": "2026-10-10T05:50:23+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16722,
+  "edge_count": 16763,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -21067,6 +21067,14 @@
       "source_header": "Definitions A-Z",
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#go-live",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
       "target_anchor": "#identity-data-protection",
       "count": 1
     },
@@ -21140,6 +21148,14 @@
       "source_anchor": "#definitions-a-z",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#openness-aspiration",
+      "count": 1
+    },
+    {
+      "source_file": "core_05__definitions_home.md",
+      "source_header": "Definitions A-Z",
+      "source_anchor": "#definitions-a-z",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#pilot",
       "count": 1
     },
     {
@@ -37768,6 +37784,102 @@
     },
     {
       "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#measuring-continuity-preamble-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#pilot",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#provisional-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#full-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-certification-record",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-boundaries",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#reversibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material-impact",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#22-pilot-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Go-Live",
+      "source_anchor": "#go-live",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#5-certification-outcomes",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
       "source_header": "Identity Data Protection",
       "source_anchor": "#identity-data-protection",
       "target_file": "core_05_apex_participation_leg.md",
@@ -39109,6 +39221,118 @@
       "target_file": "core_06_rights_part_d.md",
       "target_anchor": "#article-xxiii-comprehensibility-and-complexity-stewardship",
       "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_apex_continuity_aim.md",
+      "target_anchor": "#measuring-continuity-preamble-measurement-family",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-alignment-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#go-live",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#provisional-certification",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-certification-record",
+      "count": 3
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#system-classification-record",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#systemic-lock-in",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#reversibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#22-pilot-certification",
+      "count": 2
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#5-certification-outcomes",
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_05_band_continuity.md",
+      "source_header": "Pilot",
+      "source_anchor": "#pilot",
+      "target_file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
+      "target_anchor": null,
+      "count": 1
     },
     {
       "source_file": "core_05_band_continuity.md",
@@ -81834,6 +82058,38 @@
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
+      "target_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
+      "target_anchor": "#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "2. System Class Evaluation",
+      "source_anchor": "#2-system-class-evaluation",
+      "target_file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
+      "target_anchor": "#cjs-320-continuity-reversibility-and-containment-terms",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "2. System Class Evaluation",
+      "source_anchor": "#2-system-class-evaluation",
+      "target_file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
+      "target_anchor": "#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "2. System Class Evaluation",
+      "source_anchor": "#2-system-class-evaluation",
+      "target_file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
+      "target_anchor": "#cjs-323-integrative-intervention-and-override-integrity-terms",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "2. System Class Evaluation",
+      "source_anchor": "#2-system-class-evaluation",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
       "count": 2
@@ -81874,14 +82130,6 @@
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "2.1 How class scales every evaluation",
       "source_anchor": "#21-how-class-scales-every-evaluation",
-      "target_file": "core_05_band_continuity.md",
-      "target_anchor": "#dependency",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "2.1 How class scales every evaluation",
-      "source_anchor": "#21-how-class-scales-every-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-recertification-and-reopening",
       "count": 1
@@ -81891,15 +82139,39 @@
       "source_header": "2.1 How class scales every evaluation",
       "source_anchor": "#21-how-class-scales-every-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#5-certification-outcomes",
+      "target_anchor": "#41-forum-supervision-and-component-roles",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "2.1 How class scales every evaluation",
-      "source_anchor": "#21-how-class-scales-every-evaluation",
+      "source_header": "2.2 Pilot certification",
+      "source_anchor": "#22-pilot-certification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#pilot",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "2.2 Pilot certification",
+      "source_anchor": "#22-pilot-certification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#go-live",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "2.2 Pilot certification",
+      "source_anchor": "#22-pilot-certification",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "2.2 Pilot certification",
+      "source_anchor": "#22-pilot-certification",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#41-forum-supervision-and-component-roles",
+      "target_anchor": "#5-certification-outcomes",
       "count": 1
     },
     {
@@ -83946,6 +84218,22 @@
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "5. Certification Outcomes",
       "source_anchor": "#5-certification-outcomes",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#go-live",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "5. Certification Outcomes",
+      "source_anchor": "#5-certification-outcomes",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#pilot",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "5. Certification Outcomes",
+      "source_anchor": "#5-certification-outcomes",
       "target_file": "core_06_rights_part_e.md",
       "target_anchor": "#xxviii-a-existing-instantiations-transition-clock",
       "count": 1
@@ -83979,7 +84267,7 @@
       "source_header": "5. Certification Outcomes",
       "source_anchor": "#5-certification-outcomes",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#21-how-class-scales-every-evaluation",
+      "target_anchor": "#22-pilot-certification",
       "count": 1
     },
     {
@@ -131554,6 +131842,22 @@
       "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "source_header": "CS-5.7 Non-experimental systems",
       "source_anchor": "#cs-5-7-non-experimental-systems",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#pilot",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "source_header": "CS-5.7 Non-experimental systems",
+      "source_anchor": "#cs-5-7-non-experimental-systems",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#go-live",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "source_header": "CS-5.7 Non-experimental systems",
+      "source_anchor": "#cs-5-7-non-experimental-systems",
       "target_file": "core_06_rights_part_c.md",
       "target_anchor": "#article-xvii-a-lifecycle-governance-and-environment-separation",
       "count": 1
@@ -131570,8 +131874,24 @@
       "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
       "source_header": "CS-5.7 Non-experimental systems",
       "source_anchor": "#cs-5-7-non-experimental-systems",
+      "target_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "target_anchor": "#22-pilot-certification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "source_header": "CS-5.7 Non-experimental systems",
+      "source_anchor": "#cs-5-7-non-experimental-systems",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#72-provisional-and-full-certification",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
+      "source_header": "CS-5.7 Non-experimental systems",
+      "source_anchor": "#cs-5-7-non-experimental-systems",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#5-certification-outcomes",
       "count": 1
     },
     {
@@ -133068,6 +133388,14 @@
       "source_anchor": "#cs-10-2-phased-transition-structure",
       "target_file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
       "target_anchor": "#ci-144-article-xxviii-a-phased-adoption-and-rights-floor-continuity--rights-floor-attainment-ledger-measures-verification-and-publication",
+      "count": 1
+    },
+    {
+      "source_file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
+      "source_header": "CS-10.7 Prioritizing system transition targets",
+      "source_anchor": "#cs-10-7-prioritizing-system-transition-targets",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#pilot",
       "count": 1
     },
     {

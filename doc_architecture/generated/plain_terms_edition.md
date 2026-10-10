@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **675** of **942** headings carry a gloss (72%).
+Coverage: **677** of **945** headings carry a gloss (72%).
 
 ## Contents
 
@@ -25,13 +25,13 @@ Coverage: **675** of **942** headings carry a gloss (72%).
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
 - [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (78/90 glossed)
-- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (30/91 glossed)
+- [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (32/93 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
 - [Participation Constitutional Definitions](#participation-constitutional-definitions) — `core_05_band_participation.md` (53/68 glossed)
 - [Constitutional Performance Definitions](#constitutional-performance-definitions) — `core_05_band_performance.md` (2/2 glossed)
 - [CHAPTER SEVEN: FUNCTIONAL INDEPENDENCE AND SEGREGATION OF DUTIES](#chapter-seven-functional-independence-and-segregation-of-duties) — `core_07_functional_independence_segregation_of_duties.md` (9/10 glossed)
-- [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (15/21 glossed)
+- [CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-part-a-system-alignment-certification--evaluation) — `core_08_a_system_alignment_certification_evaluation.md` (15/22 glossed)
 - [CHAPTER EIGHT, PART B: SYSTEM ALIGNMENT CERTIFICATION — RECORD AND PROCESS](#chapter-eight-part-b-system-alignment-certification--record-and-process) — `core_08_b_system_alignment_certification_record_process.md` (11/16 glossed)
 - [CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS](#chapter-eight-part-c-system-alignment-certification--illustrations) — `core_08_c_system_alignment_certification_illustrations.md` (10/11 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)](#chapter-eight-system-alignment-certification-reading-index) — `core_08_system_alignment_certification.md` (1/1 glossed)
@@ -1746,7 +1746,7 @@ an Autonomous Coercion Tool restricts, pressures, or manipulates sentients — i
 
 ## Continuity Constitutional Definitions
 
-Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 30/91 headings glossed
+Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) · 32/93 headings glossed
 
 #### Continuity: Independent terms
 
@@ -1765,6 +1765,18 @@ Source file: [`core_05_band_continuity.md`](../../core_05_band_continuity.md) ·
 **full certification** is the longer-interval status a system earns only after clean re-checks, with nothing wrong now and nothing pointing toward trouble. It is not permanent. Failing a check, or a warning sign in the monitoring numbers, takes it away.
 
 [Source](../../core_05_band_continuity.md#full-certification)
+
+##### Go-Live
+
+a **go-live** is the moment a system stops being something that is being built or tested and starts being something that actually affects sentients, or that sentients start to rely on. It is judged by what the system is really doing, not by what the launch is called.
+
+[Source](../../core_05_band_continuity.md#go-live)
+
+##### Pilot
+
+a **pilot** is a real but deliberately limited launch. Real sentients are affected, or start to rely on the system, so it is not a test in a sandbox; and it is limited in advance by a stated scope, population, and length of time. Because it is real, it needs its own certification before it starts, and it may not quietly grow past the limits it was certified for.
+
+[Source](../../core_05_band_continuity.md#pilot)
 
 ##### Provisional Certification
 
@@ -3156,7 +3168,7 @@ later chapters tell each process what to evaluate, record, decide, and remedy. T
 
 ## CHAPTER EIGHT, PART A: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION
 
-Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) · 15/21 headings glossed
+Source file: [`core_08_a_system_alignment_certification_evaluation.md`](../../core_08_a_system_alignment_certification_evaluation.md) · 15/22 headings glossed
 
 #### 1. Purpose and Role
 
@@ -3181,6 +3193,12 @@ certification has to check whether the system is classified honestly — not by 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_08_a_system_alignment_certification_evaluation.md#21-how-class-scales-every-evaluation)
+
+##### 2.2 Pilot certification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_08_a_system_alignment_certification_evaluation.md#22-pilot-certification)
 
 #### 3. Whole-System Certification Evaluation
 

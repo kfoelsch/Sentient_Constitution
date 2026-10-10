@@ -933,6 +933,16 @@
       "tier_depth": "primary_only",
       "status": "approved"
     },
+    "Go-Live": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Pilot": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
     "Provisional Certification": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",
@@ -1214,6 +1224,16 @@
       "status": "approved"
     },
     "Charter": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Institution": {
+      "ch00_category": "3.3 Continuity",
+      "tier_depth": "primary_only",
+      "status": "approved"
+    },
+    "Process": {
       "ch00_category": "3.3 Continuity",
       "tier_depth": "primary_only",
       "status": "approved"

@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-10T03:54:08+00:00",
+  "generated_at": "2026-10-10T05:50:22+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -2685,7 +2685,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 93,
+            "count": 95,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -2714,6 +2714,7 @@
               "#existential-risk",
               "#fair-compensation",
               "#full-certification",
+              "#go-live",
               "#identity-data-protection",
               "#indigenous-continuity",
               "#institution",
@@ -2724,6 +2725,7 @@
               "#likeness-and-documentary-depiction-interface",
               "#occupancy-continuity",
               "#openness-aspiration",
+              "#pilot",
               "#privacy-informational",
               "#process",
               "#productive-capacity",
@@ -4208,7 +4210,7 @@
           },
           {
             "file": "core_05_apex_continuity_aim.md",
-            "count": 56,
+            "count": 58,
             "anchors": [
               "#chapter-five-definitions-continuity-constitutional-aim",
               "#measuring-continuity-preamble-measurement-family"
@@ -4279,7 +4281,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 799,
+            "count": 824,
             "anchors": [
               "#anti-capture",
               "#anti-displacement-floor",
@@ -4311,6 +4313,7 @@
               "#existential-risk",
               "#fair-compensation",
               "#full-certification",
+              "#go-live",
               "#identity-data-protection",
               "#indigenous-continuity",
               "#institution",
@@ -4321,6 +4324,7 @@
               "#likeness-and-documentary-depiction-interface",
               "#occupancy-continuity",
               "#openness-aspiration",
+              "#pilot",
               "#privacy-informational",
               "#process",
               "#productive-capacity",
@@ -4383,7 +4387,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 254,
+            "count": 257,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -4517,9 +4521,10 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 45,
+            "count": 48,
             "anchors": [
               "#2-system-class-evaluation",
+              "#22-pilot-certification",
               "#3-whole-system-certification-evaluation",
               "#31-systemic-scope-and-risk-factors",
               "#32-time-consistency-constraint",
@@ -4532,7 +4537,7 @@
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 20,
+            "count": 24,
             "anchors": [
               "#4-forum-process",
               "#5-certification-outcomes",
@@ -4599,6 +4604,11 @@
             "anchors": []
           },
           {
+            "file": "corpus_institutions/ci_14_transitional_governance_institutional_evolution.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
             "file": "corpus_joint_structure/cjs_02_specific_joint_interlocks.md",
             "count": 1,
             "anchors": [
@@ -4640,13 +4650,18 @@
           },
           {
             "file": "corpus_systems/cs_05_design_testing_verification_deployment.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
               "#cs-510-recertification-regression-testing-and-certification-defects"
             ]
           },
           {
             "file": "corpus_systems/cs_09_resource_allocation_funding_stewardship.md",
+            "count": 1,
+            "anchors": []
+          },
+          {
+            "file": "corpus_systems/cs_10_transition_constitution_migration_governance.md",
             "count": 1,
             "anchors": []
           }
@@ -6026,7 +6041,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 70,
+            "count": 72,
             "anchors": [
               "#charter",
               "#cross-system-extraction",
@@ -6036,7 +6051,9 @@
               "#ecological-integrity",
               "#ecological-recovery-capacity",
               "#environmental-preconditions",
+              "#go-live",
               "#language-culture-and-heritage",
+              "#pilot",
               "#privacy-informational",
               "#proportionate-cross-system-support",
               "#reversibility",
@@ -6198,9 +6215,19 @@
           },
           {
             "file": "corpus_joint_structure/cjs_03c_continuity_operations.md",
+            "count": 4,
+            "anchors": [
+              "#cjs-319-continuity-graceful-degradation-and-failure-mode-integrity-terms",
+              "#cjs-320-continuity-reversibility-and-containment-terms",
+              "#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms"
+            ]
+          },
+          {
+            "file": "corpus_joint_structure/cjs_03i_integrative_operations.md",
             "count": 2,
             "anchors": [
-              "#cjs-321-continuity-adversarial-robustness-and-abuse-resistance-terms"
+              "#cjs-322-integrative-constrained-secrecy-and-protected-investigation-terms",
+              "#cjs-323-integrative-intervention-and-override-integrity-terms"
             ]
           },
           {
@@ -6310,11 +6337,13 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 16,
+            "count": 18,
             "anchors": [
               "#charter",
               "#ecological-footprint",
               "#full-certification",
+              "#go-live",
+              "#pilot",
               "#proportionate-cross-system-support",
               "#provisional-certification",
               "#risk-evaluation",
@@ -6397,7 +6426,7 @@
               "#1-purpose-and-role",
               "#11-certification-at-a-glance",
               "#2-system-class-evaluation",
-              "#21-how-class-scales-every-evaluation",
+              "#22-pilot-certification",
               "#3-whole-system-certification-evaluation",
               "#31-systemic-scope-and-risk-factors",
               "#34-data-types-and-handling-evaluation",
@@ -14992,7 +15021,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 32,
+            "count": 34,
             "anchors": [
               "#dependency",
               "#dependency-a",
@@ -15000,6 +15029,8 @@
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
               "#emergency-and-contingency-constitutional-c",
+              "#go-live",
+              "#pilot",
               "#reversibility",
               "#reversibility-constitutional-a",
               "#reversibility-constitutional-c",
@@ -15054,15 +15085,17 @@
           },
           {
             "file": "core_08_a_system_alignment_certification_evaluation.md",
-            "count": 1,
+            "count": 2,
             "anchors": [
-              "#2-system-class-evaluation"
+              "#2-system-class-evaluation",
+              "#22-pilot-certification"
             ]
           },
           {
             "file": "core_08_b_system_alignment_certification_record_process.md",
-            "count": 2,
+            "count": 3,
             "anchors": [
+              "#5-certification-outcomes",
               "#6-system-certification-record",
               "#72-provisional-and-full-certification"
             ]
@@ -15540,11 +15573,12 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 15,
+            "count": 16,
             "anchors": [
               "#emergency-and-contingency-constitutional",
               "#emergency-and-contingency-constitutional-a",
               "#emergency-and-contingency-constitutional-c",
+              "#pilot",
               "#reversibility",
               "#reversibility-constitutional-a",
               "#reversibility-constitutional-c",

@@ -136,7 +136,7 @@ Challenge pathways must remain available for materially affected parties through
 - **Exposure tier first:** the plan states, before applying them, the rules that combine class, misalignment, irreversibility and urgency, and who bears the harm into exposure tiers.
 - **Traction within a tier:** inside a tier, order by leverage, then lock-in, then ease and cost.
 - **Risk shapes the approach:** transition risk selects pilot, staged cutover, or enhanced rollback readiness. It does not change the tier, and it does not defer measurement, interim safeguards, or restraint duties.
-- **Pilots:** lower-tier systems may precede higher-tier systems only where that lowers risk to the higher tier, and they may not displace the higher-tier work.
+- **Pilots:** lower-tier systems may precede higher-tier systems only where that lowers risk to the higher tier, and they may not displace the higher-tier work. A system sequenced this way that goes live is also a [Pilot](../core_05_band_continuity.md#pilot) where it meets that definition.
 - **Strictest gates at the top:** the highest-exposure tiers receive the strictest gate criteria, verification, and rollback readiness.
 - **Re-rank:** at every gate and whenever a class or misalignment finding changes, with the change explained.
 - **Non-cooperation:** route to **Article XXVIII-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) enforcement. It does not lower the tier.

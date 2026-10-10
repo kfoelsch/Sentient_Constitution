@@ -179,7 +179,7 @@ Systems that do not qualify under **Articles XVIII-A** and **XVIII-B** (and **§
 - **Testing and validation**: structured evaluation, simulation, and verification of behavior
 - **Staging or pre-deployment**: high-fidelity, production-like conditions
 - **Production**: live operation affecting sentients, the info-sphere, or the environment
-- **Pilot**: small-scale live testing of critical systems (optional but recommended, especially for substrate-related systems)
+- **[Pilot](../core_05_band_continuity.md#pilot)**: a limited live [go-live](../core_05_band_continuity.md#go-live), not a non-production environment. It needs its own certification before it starts under [Chapter Eight Part B §5](../core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes) and [Part A §2.2](../core_08_a_system_alignment_certification_evaluation.md#22-pilot-certification). A system at any class is expected to run one before full deployment, especially a substrate-related system, or to record why it did not
 
 **Environment isolation and risk containment:** Maintain monitoring and alerting across environments, proportionate to scope, so anomalous non-production activity is visible without exposing production.
 
@@ -203,7 +203,7 @@ Network paths between environments are explicitly controlled, limited, and audit
 
 The same isolation applies to real stakeholder data unless use is explicitly consented and controlled.
 
-**Progressive deployment and escalation:** Where feasible, changes move **development -> testing and validation -> staging -> pilots (when present) -> production**. Escalation between environments must be justified, documented, evaluated against constitutional requirements, and include rollback and containment consistent with **Article XVII-B** (*Progressive Deployment and Reversibility*), Chapter Five (*Reversibility*), and **CJS-3.20** (*Continuity: reversibility and containment terms*).
+**Progressive deployment and escalation:** Where feasible, changes move **development -> testing and validation -> staging -> pilots (when run) -> production**. Escalation between environments must be justified, documented, evaluated against constitutional requirements, and include rollback and containment consistent with **Article XVII-B** (*Progressive Deployment and Reversibility*), Chapter Five (*Reversibility*), and **CJS-3.20** (*Continuity: reversibility and containment terms*).
 
 **Simulation and stress testing:** Testing environments must support expected and adversarial simulation, including system failures, stakeholder behavior, ecosystem interactions, and worst-case scenarios.
 
