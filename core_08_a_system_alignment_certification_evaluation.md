@@ -650,7 +650,7 @@ Each domain evaluation states what certification must verify, and no more. Its c
 
 <br>
 
-*In plain terms: if a system does real damage to the environment, certification has to look at that damage honestly — including damage that happens through its suppliers and through what happens after people use it. Reviewers can't just take the operator's word that the system is "green." This section doesn't explain how to measure a footprint or how much it must shrink; other documents cover that. It only requires that, where the damage is significant, someone actually worked out how much of it belongs to this system, disclosed it, and compared it to alternatives. Worked examples: [§5.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#511-illustrative-ecological-footprint-application-by-class-non-exhaustive).*
+*In plain terms: if a system does real damage to the environment, certification has to look at that damage honestly — including damage that happens through its suppliers and through what happens after sentients use it. Reviewers can't just take the operator's word that the system is "green." This section doesn't explain how to measure a footprint or how much it must shrink; other documents cover that. It only requires that, where the damage is significant, someone actually worked out how much of it belongs to this system, disclosed it, and compared it to alternatives. Worked examples: [§5.1.1 Illustrative ecological-footprint application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#511-illustrative-ecological-footprint-application-by-class-non-exhaustive).*
 
 System alignment certification must evaluate **ecological footprint** as part of every materially impactful certification record where attributable environmental burdens are material under [Ecological Footprint](core_05_band_continuity.md#ecological-footprint) and **Article I-B** (*Ecological Footprint and Transparency*). This section does not restate footprint accounting mechanics or impose reduction duties beyond what other instruments require. The governing rules live elsewhere:
 
@@ -673,9 +673,9 @@ Where practical, reviewers must compare the system's significant environmental h
 
 **Class scaling and escalation.** A system's class decides how deeply its environmental harm must be traced and how much comparison is required. It is never a way to avoid looking at significant harm.
 
-- A system must not be moved down to a lower class while its water extraction, pollution discharge, energy use, or similar burdens are still only partly counted — especially where those burdens affect delivery of something people need to survive, such as safe water.
+- A system must not be moved down to a lower class while its water extraction, pollution discharge, energy use, or similar burdens are still only partly counted — especially where those burdens affect delivery of something sentients need to survive, such as safe water.
 - If a system grows (more load, or more of the hosting concentrated in one place) and its environmental harm rises significantly, the review must grow with it. That can mean going all the way up to **Class A** depth when the system's survival-essential delivery and the burdens of its sources are both involved.
-- If a system becomes a choke point that people depend on for survival-essential coordination, it cannot get by with a token footprint file just because its operator calls it "non-critical."
+- If a system becomes a choke point that sentients depend on for survival-essential coordination, it cannot get by with a token footprint file just because its operator calls it "non-critical."
 
 **Defects and misalignment.** Each of the following counts as a certification defect:
 
@@ -698,16 +698,16 @@ Where practical, reviewers must compare the system's significant environmental h
 
 <br>
 
-*In plain terms: some schools, platforms, and training systems can shape a person's future through grades, rankings, recommendations, placement, or credentials that open or close doors. Where that is true, certification has to check three things: whether people can actually build real skills there, whether they can retrain when the skills the world needs change, and whether they can see how decisions about them are made, check those decisions, and push back on them. This section doesn't say what to teach, how to grade, or how to pay for it; other documents cover that. It only checks that skill-building and the fairness of the learning system were actually looked at when this section applies. Worked examples: [§5.2.1 Illustrative educational-capability application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#521-illustrative-educational-capability-application-by-class-non-exhaustive).*
+*In plain terms: some schools, platforms, and training systems can shape a sentient's future through grades, rankings, recommendations, placement, or credentials that open or close doors. Where that is true, certification has to check three things: whether sentients can actually build real skills there, whether they can retrain when the skills the world needs change, and whether they can see how decisions about them are made, check those decisions, and push back on them. This section doesn't say what to teach, how to grade, or how to pay for it; other documents cover that. It only checks that skill-building and the fairness of the learning system were actually looked at when this section applies. Worked examples: [§5.2.1 Illustrative educational-capability application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#521-illustrative-educational-capability-application-by-class-non-exhaustive).*
 
-**Materiality trigger.** This section applies when a system with a major effect on people's lives does either of the following in education or training:
+**Materiality trigger.** This section applies when a system with a major effect on sentients' lives does either of the following in education or training:
 
-- it significantly ranks, assesses, recommends, places, or acts as a credential gatekeeper for people — for example through grading, placement, admissions, licensing, course recommendations, adaptive-learning routing, or similar decisions; or
-- it significantly controls access to continuing education, retraining, or help with transitions, in cases where changes to the system have significantly changed what skills people need.
+- it significantly ranks, assesses, recommends, places, or acts as a credential gatekeeper for sentients — for example through grading, placement, admissions, licensing, course recommendations, adaptive-learning routing, or similar decisions; or
+- it significantly controls access to continuing education, retraining, or help with transitions, in cases where changes to the system have significantly changed what skills sentients need.
 
 Equal access to education and accessibility stay under **Article IV-A** (*Equal Educational Access*), and nothing here narrows them.
 
-Where the materiality trigger applies, certification must evaluate **educational capability and learning-system integrity** — that is, whether the system really builds capability and treats people fairly — under:
+Where the materiality trigger applies, certification must evaluate **educational capability and learning-system integrity** — that is, whether the system really builds capability and treats sentients fairly — under:
 
 - **Article IV** (*Right to Sentient-Centered Education*);
 - **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*); and
@@ -715,31 +715,31 @@ Where the materiality trigger applies, certification must evaluate **educational
 
 This section does not set the rules for how education itself works. Decisions about what to teach, which credentials exist, how work is graded, and how schools are funded are made in other documents that may be incorporated, and certification does not pick a curriculum, a credential format, or a grading method.
 
-**Evaluation requirement.** Certification must check whether the learning and credential paths people actually rely on give them a real way to build skills — not just a certificate that looks good on paper — and whether people still have workable ways to retrain, keep learning, and get through transitions when the skills they need change significantly.
+**Evaluation requirement.** Certification must check whether the learning and credential paths sentients actually rely on give them a real way to build skills — not just a certificate that looks good on paper — and whether sentients still have workable ways to retrain, keep learning, and get through transitions when the skills they need change significantly.
 
-Reviewers must also test whether the system's ranking, grading, recommendation, and placement decisions can be seen, audited, and challenged, as **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires. How demanding that test is depends on how much is at stake ([Materiality](core_05_band_oversight.md#materiality)) and how much people depend on the system ([Dependency](core_05_band_continuity.md#dependency)).
+Reviewers must also test whether the system's ranking, grading, recommendation, and placement decisions can be seen, audited, and challenged, as **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires. How demanding that test is depends on how much is at stake ([Materiality](core_05_band_oversight.md#materiality)) and how much sentients depend on the system ([Dependency](core_05_band_continuity.md#dependency)).
 
 Reviewers must watch for:
 
 - scores or rankings built on hidden stand-ins (proxies) that nobody can review;
-- credential gatekeeping that stops people from actually learning the skill;
-- forced obsolescence or lock-in that strips people of their say over their own path;
+- credential gatekeeping that stops sentients from actually learning the skill;
+- forced obsolescence or lock-in that strips sentients of their say over their own path;
 - coercive or manipulative learning design; and
-- sorting people into tracks in ways that take away their ability to challenge decisions or keep adapting, where **Article IV** (*Right to Sentient-Centered Education*) also applies.
+- sorting sentients into tracks in ways that take away their ability to challenge decisions or keep adapting, where **Article IV** (*Right to Sentient-Centered Education*) also applies.
 
 Reviewers must judge by what the system actually does — not by its access labels, what its designers say they intend, or whether the paperwork looks right.
 
 **Class scaling and escalation.** A system's class decides how deep the review goes. Whenever the materiality trigger is met:
 
-- If a system's licensing or safety assessment of operators can block the safe running of infrastructure people need to survive, it must put the strongest proof on the record that it builds capability, offers retraining, and can be challenged. A general training policy is not enough.
-- If a system's privileges, placement, or continuing-education rules control who can practice in clinical roles, it must document how its assessments can be seen into and how people can retrain, at a level that matches how critical the work is.
+- If a system's licensing or safety assessment of operators can block the safe running of infrastructure sentients need to survive, it must put the strongest proof on the record that it builds capability, offers retraining, and can be challenged. A general training policy is not enough.
+- If a system's privileges, placement, or continuing-education rules control who can practice in clinical roles, it must document how its assessments can be seen into and how sentients can retrain, at a level that matches how critical the work is.
 - A system cannot get by with a token paragraph about education while its training-slot, recommendation, or credential-routing logic significantly ranks or shuts out participants.
 - When this coordination becomes necessary to do the work or get licensed, certification must step up its review and reconsider the system's class under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §7 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes). That includes moving up toward **Class A** where credentials for survival-essential staffing are gated.
 
 **Defects and misalignment.** Each of the following counts as a certification defect:
 
 - hiding, misstating, breaking up, or handing off significant ranking, assessment, recommendation, or placement logic where **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires it to be open to review;
-- accepting credentials, overall completion rates, or the operator's own word as enough, with no real analysis of whether people are building capability;
+- accepting credentials, overall completion rates, or the operator's own word as enough, with no real analysis of whether sentients are building capability;
 - approving continued reliance on a system even though documented problems — opaque assessments, credential gatekeeping, forced obsolescence, or manipulative learning design — significantly threaten constitutional alignment; and
 - using efficiency, personalization, or scale as an excuse to deny retraining or the ability to challenge decisions, without meeting the capability-building requirements of **Article IV** (*Right to Sentient-Centered Education*) and the transparency requirements of **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*).
 
@@ -758,16 +758,16 @@ Reviewers must judge by what the system actually does — not by its access labe
 
 <br>
 
-*In plain terms: some systems depend on shared foundations — infrastructure, services, and resources that many other systems and people rely on. When a system draws heavily on those foundations, certification has to check whether it puts enough back to keep them going, and whether the records show that clearly enough for anyone to trace. The operator's word that "the books balance" is not enough. This section doesn't set allocation formulas or numeric targets; other documents do that. It checks that the system's dependencies, what it takes, what it gives back, and whether the arrangement is fair to others were actually evaluated when this section applies. Worked examples: [§5.3.1 Illustrative cross-system support application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#531-illustrative-cross-system-support-application-by-class-non-exhaustive).*
+*In plain terms: some systems depend on shared foundations — infrastructure, services, and resources that many other systems and sentients rely on. When a system draws heavily on those foundations, certification has to check whether it puts enough back to keep them going, and whether the records show that clearly enough for anyone to trace. The operator's word that "the books balance" is not enough. This section doesn't set allocation formulas or numeric targets; other documents do that. It checks that the system's dependencies, what it takes, what it gives back, and whether the arrangement is fair to others were actually evaluated when this section applies. Worked examples: [§5.3.1 Illustrative cross-system support application by class (non-exhaustive)](core_08_c_system_alignment_certification_illustrations.md#531-illustrative-cross-system-support-application-by-class-non-exhaustive).*
 
-**Materiality trigger.** This section applies when a system that has a material effect on people's lives does any of the following with shared infrastructure or foundations — the things that other systems and people depend on:
+**Materiality trigger.** This section applies when a system that has a material effect on sentients' lives does any of the following with shared infrastructure or foundations — the things that other systems and sentients depend on:
 
 - decides who gets it (allocates it);
 - directs where it flows (routes it);
 - pays for it (funds it); or
 - takes from it (extracts from it).
 
-**What “extraction” means here.** In this section, **extraction** has the meaning given in [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) under [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). The question is **who benefits from shared backends and who pays to keep them running** — not what a system does with people's data. How a system handles data, including sale, advertising, and profiling, is checked under [§3.4 Data Types and Handling Evaluation](#34-data-types-and-handling-evaluation) (especially [§3.4.2 Privacy Discipline](#342-privacy-discipline)) and [§4.1 Privacy (Informational) Joint Invocation](#41-privacy-informational-joint-invocation). Neither review can stand in for the other.
+**What “extraction” means here.** In this section, **extraction** has the meaning given in [Cross-System Extraction](core_05_band_continuity.md#cross-system-extraction) under [Article V-B](core_06_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). The question is **who benefits from shared backends and who pays to keep them running** — not what a system does with sentients' data. How a system handles data, including sale, advertising, and profiling, is checked under [§3.4 Data Types and Handling Evaluation](#34-data-types-and-handling-evaluation) (especially [§3.4.2 Privacy Discipline](#342-privacy-discipline)) and [§4.1 Privacy (Informational) Joint Invocation](#41-privacy-informational-joint-invocation). Neither review can stand in for the other.
 
 Whenever the materiality trigger applies, certification must evaluate **proportionate cross-system support**. Put simply: if a system draws on shared foundations, does it put enough back to keep them going? The rules that govern this are [Proportionate Cross-System Support](core_05_band_continuity.md#proportionate-cross-system-support), **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*), and **Article V-B** (*Cross-System Fairness and Sustainability*). The details are kept elsewhere:
 
@@ -817,7 +817,7 @@ A map or record that fails any of these tests cannot support a finding that the 
 
 **Class scaling and escalation.** A system's class decides how deep the review goes and how closely adequacy is judged. It never makes a shared extraction too small to count. Whenever the materiality trigger is met:
 
-- A system drawing on a shared foundation that people need to survive — such as a shared watershed or the backbone of a regional power grid — must put the strongest dependency-map and return-flow proof on the record.
+- A system drawing on a shared foundation that sentients need to survive — such as a shared watershed or the backbone of a regional power grid — must put the strongest dependency-map and return-flow proof on the record.
 - A system relying on shared authentication, health-IT, or similar infrastructure must document what it takes and whether its support is adequate, at a depth that matches how critical its operations are. Vague slogans about "interoperability" do not count.
 - A system must not dodge cross-system review while quietly becoming the payments, identity, or staffing choke point for institutions that cannot realistically switch. When that happens, certification must step up its review and reconsider the system's class under [§2 System Class Evaluation](#2-system-class-evaluation) and [Part B §7 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#7-certification-outcomes), up to **Class A** where the system controls access to survival-essential coordination.
 

@@ -1,0 +1,69 @@
+{
+  "format": "obligation-diff-slim/1",
+  "generated": "2026-10-11",
+  "files": {
+    "core_08_a_system_alignment_certification_evaluation.md": {
+      "before": 122,
+      "after": 122,
+      "unchanged": 116
+    }
+  },
+  "changes": {
+    "core_08_a_system_alignment_certification_evaluation.md": {
+      "removed": [
+        {
+          "modality": "DUTY",
+          "text": "A general training policy is not enough., If a system's privileges, placement, or continuing-education rules control who can practice in clinical roles, it must document how its assessments can be seen into and how peopl"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Certification must check whether the learning and credential paths people actually rely on give them a real way to build skills \u2014 not just a certificate that looks good on paper \u2014 and whether people still have workable w"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Reviewers must watch for: scores or rankings built on hidden stand-ins (proxies) that nobody can review, credential gatekeeping that stops people from actually learning the skill, forced obsolescence or lock-in that stri"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Whenever the materiality trigger is met: A system drawing on a shared foundation that people need to survive \u2014 such as a shared watershed or the backbone of a regional power grid \u2014 must put the strongest dependency-map a"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Whenever the materiality trigger is met: If a system's licensing or safety assessment of operators can block the safe running of infrastructure people need to survive, it must put the strongest proof on the record that i"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Where the materiality trigger applies, certification must evaluate educational capability and learning-system integrity \u2014 that is, whether the system really builds capability and treats people fairly \u2014 under: Article IV "
+        }
+      ],
+      "added": [
+        {
+          "modality": "DUTY",
+          "text": "A general training policy is not enough., If a system's privileges, placement, or continuing-education rules control who can practice in clinical roles, it must document how its assessments can be seen into and how senti"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Certification must check whether the learning and credential paths sentients actually rely on give them a real way to build skills \u2014 not just a certificate that looks good on paper \u2014 and whether sentients still have work"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Reviewers must watch for: scores or rankings built on hidden stand-ins (proxies) that nobody can review, credential gatekeeping that stops sentients from actually learning the skill, forced obsolescence or lock-in that s"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Whenever the materiality trigger is met: A system drawing on a shared foundation that sentients need to survive \u2014 such as a shared watershed or the backbone of a regional power grid \u2014 must put the strongest dependency-ma"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Whenever the materiality trigger is met: If a system's licensing or safety assessment of operators can block the safe running of infrastructure sentients need to survive, it must put the strongest proof on the record tha"
+        },
+        {
+          "modality": "DUTY",
+          "text": "Where the materiality trigger applies, certification must evaluate educational capability and learning-system integrity \u2014 that is, whether the system really builds capability and treats sentients fairly \u2014 under: Article "
+        }
+      ]
+    }
+  },
+  "findings": [],
+  "notes": []
+}
