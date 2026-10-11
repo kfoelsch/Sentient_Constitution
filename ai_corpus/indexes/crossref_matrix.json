@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-11T01:49:14+00:00",
+  "generated_at": "2026-10-11T05:11:41+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -4542,7 +4542,7 @@
               "#34-data-types-and-handling-evaluation",
               "#38-rights-floor-and-domain-evaluations",
               "#381-ecological-footprint-evaluation",
-              "#382-proportionate-cross-system-support-evaluation",
+              "#383-proportionate-cross-system-support-evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -5585,7 +5585,7 @@
             "count": 11,
             "anchors": [
               "#3-whole-system-certification-evaluation",
-              "#384-accessibility-evaluation"
+              "#385-accessibility-evaluation"
             ]
           },
           {
@@ -6095,7 +6095,7 @@
           },
           {
             "file": "core_05_band_oversight.md",
-            "count": 28,
+            "count": 27,
             "anchors": [
               "#adversarial-scaled-and-exploited-conditions",
               "#auditability",
@@ -6179,12 +6179,12 @@
             "file": "core_08_c_system_alignment_certification_illustrations.md",
             "count": 56,
             "anchors": [
-              "#341-illustrative-data-handling-application-by-class-non-exhaustive",
+              "#348-illustrative-data-handling-application-by-class-non-exhaustive",
               "#3811-illustrative-ecological-footprint-application-by-class-non-exhaustive",
-              "#3821-illustrative-cross-system-support-application-by-class-non-exhaustive",
-              "#3831-illustrative-nondiscrimination-application-by-class-non-exhaustive",
-              "#3841-illustrative-accessibility-application-by-class-non-exhaustive",
-              "#3851-illustrative-educational-capability-application-by-class-non-exhaustive",
+              "#3821-illustrative-educational-capability-application-by-class-non-exhaustive",
+              "#3831-illustrative-cross-system-support-application-by-class-non-exhaustive",
+              "#3841-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+              "#3851-illustrative-accessibility-application-by-class-non-exhaustive",
               "#3861-illustrative-trustworthiness-application-by-class-non-exhaustive",
               "#chapter-eight-part-c-system-alignment-certification--illustrations",
               "#illustrative-class-profiles-non-exhaustive",
@@ -6443,10 +6443,10 @@
               "#34-data-types-and-handling-evaluation",
               "#38-rights-floor-and-domain-evaluations",
               "#381-ecological-footprint-evaluation",
-              "#382-proportionate-cross-system-support-evaluation",
-              "#383-nondiscrimination-evaluation",
-              "#384-accessibility-evaluation",
-              "#385-educational-capability-and-learning-system-integrity-evaluation",
+              "#382-educational-capability-and-learning-system-integrity-evaluation",
+              "#383-proportionate-cross-system-support-evaluation",
+              "#384-nondiscrimination-evaluation",
+              "#385-accessibility-evaluation",
               "#386-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-eight-part-a-certification-evaluation",
               "#chapter-eight-part-a-system-alignment-certification--evaluation"
@@ -6587,10 +6587,10 @@
               "#37-assembly-collective-organization-and-institutional-formation",
               "#38-rights-floor-and-domain-evaluations",
               "#381-ecological-footprint-evaluation",
-              "#382-proportionate-cross-system-support-evaluation",
-              "#383-nondiscrimination-evaluation",
-              "#384-accessibility-evaluation",
-              "#385-educational-capability-and-learning-system-integrity-evaluation",
+              "#382-educational-capability-and-learning-system-integrity-evaluation",
+              "#383-proportionate-cross-system-support-evaluation",
+              "#384-nondiscrimination-evaluation",
+              "#385-accessibility-evaluation",
               "#386-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-eight-part-a-system-alignment-certification--evaluation"
             ]
@@ -8414,7 +8414,7 @@
               "#3-whole-system-certification-evaluation",
               "#38-rights-floor-and-domain-evaluations",
               "#381-ecological-footprint-evaluation",
-              "#382-proportionate-cross-system-support-evaluation",
+              "#383-proportionate-cross-system-support-evaluation",
               "#386-trustworthiness-and-system-reliance-integrity-evaluation",
               "#chapter-eight-part-a-system-alignment-certification--evaluation",
               "#chapter-eight-system-alignment-certification"
@@ -8937,8 +8937,8 @@
               "#2-system-class-evaluation",
               "#3-whole-system-certification-evaluation",
               "#371-dissent-and-peaceful-protest",
-              "#383-nondiscrimination-evaluation",
-              "#384-accessibility-evaluation",
+              "#384-nondiscrimination-evaluation",
+              "#385-accessibility-evaluation",
               "#chapter-eight-system-alignment-certification"
             ]
           },
@@ -14473,7 +14473,7 @@
             "file": "core_08_c_system_alignment_certification_illustrations.md",
             "count": 1,
             "anchors": [
-              "#3841-illustrative-accessibility-application-by-class-non-exhaustive"
+              "#3851-illustrative-accessibility-application-by-class-non-exhaustive"
             ]
           },
           {
