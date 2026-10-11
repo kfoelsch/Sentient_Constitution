@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-10-11T09:56:40+00:00",
+  "generated_at": "2026-10-11T13:07:10+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
-  "edge_count": 16929,
+  "edge_count": 16977,
   "edges": [
     {
       "source_file": "core_00_preamble.md",
@@ -82875,7 +82875,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "target_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "count": 1
     },
     {
@@ -82883,7 +82883,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "target_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -82891,7 +82891,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#348-illustrative-data-handling-application-by-class-non-exhaustive",
+      "target_anchor": "#348-illustrative-data-handling-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -82899,7 +82899,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
+      "target_anchor": "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -82907,7 +82907,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#521-illustrative-educational-capability-application-by-class-non-exhaustive",
+      "target_anchor": "#525-illustrative-educational-capability-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -82915,7 +82915,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "target_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -82923,7 +82923,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "target_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -82931,7 +82931,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "target_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -82939,7 +82939,7 @@
       "source_header": "1. Purpose and Role",
       "source_anchor": "#1-purpose-and-role",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "target_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83011,6 +83011,14 @@
       "source_header": "1.1 Certification at a glance",
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#9-recertification-and-reopening",
+      "count": 2
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "1.1 Certification at a glance",
+      "source_anchor": "#11-certification-at-a-glance",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#6-forum-process",
       "count": 1
     },
@@ -83035,14 +83043,6 @@
       "source_header": "1.1 Certification at a glance",
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#9-recertification-and-reopening",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "1.1 Certification at a glance",
-      "source_anchor": "#11-certification-at-a-glance",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#10-relationship-to-standing",
       "count": 1
     },
@@ -83051,7 +83051,7 @@
       "source_header": "1.1 Certification at a glance",
       "source_anchor": "#11-certification-at-a-glance",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "target_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "count": 1
     },
     {
@@ -83187,7 +83187,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "target_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "count": 1
     },
     {
@@ -83195,7 +83195,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "target_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83203,7 +83203,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#348-illustrative-data-handling-application-by-class-non-exhaustive",
+      "target_anchor": "#348-illustrative-data-handling-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83211,7 +83211,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
+      "target_anchor": "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83219,7 +83219,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#521-illustrative-educational-capability-application-by-class-non-exhaustive",
+      "target_anchor": "#525-illustrative-educational-capability-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83227,7 +83227,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "target_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83235,7 +83235,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "target_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83243,7 +83243,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "target_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83251,7 +83251,7 @@
       "source_header": "2. System Class Evaluation",
       "source_anchor": "#2-system-class-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "target_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83360,16 +83360,16 @@
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "2.1 How class scales every evaluation",
-      "source_anchor": "#21-how-class-scales-every-evaluation",
+      "source_header": "2.1 How System Class Scales Every Evaluation",
+      "source_anchor": "#21-how-system-class-scales-every-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#9-recertification-and-reopening",
       "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "2.1 How class scales every evaluation",
-      "source_anchor": "#21-how-class-scales-every-evaluation",
+      "source_header": "2.1 How System Class Scales Every Evaluation",
+      "source_anchor": "#21-how-system-class-scales-every-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#61-forum-supervision-and-component-roles",
       "count": 1
@@ -83555,7 +83555,7 @@
       "source_header": "3. Whole-System Certification Evaluation",
       "source_anchor": "#3-whole-system-certification-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "target_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "count": 2
     },
     {
@@ -83563,7 +83563,7 @@
       "source_header": "3. Whole-System Certification Evaluation",
       "source_anchor": "#3-whole-system-certification-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "target_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "count": 1
     },
     {
@@ -83803,7 +83803,7 @@
       "source_header": "3.4 Data Types and Handling Evaluation",
       "source_anchor": "#34-data-types-and-handling-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "target_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -83811,7 +83811,7 @@
       "source_header": "3.4 Data Types and Handling Evaluation",
       "source_anchor": "#34-data-types-and-handling-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#348-illustrative-data-handling-application-by-class-non-exhaustive",
+      "target_anchor": "#348-illustrative-data-handling-application-by-system-class-non-exhaustive",
       "count": 2
     },
     {
@@ -83819,7 +83819,7 @@
       "source_header": "3.4 Data Types and Handling Evaluation",
       "source_anchor": "#34-data-types-and-handling-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
+      "target_anchor": "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -84252,7 +84252,7 @@
       "source_anchor": "#51-ecological-footprint-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84260,7 +84260,7 @@
       "source_anchor": "#51-ecological-footprint-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84284,7 +84284,7 @@
       "source_anchor": "#51-ecological-footprint-evaluation",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material-impact",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84292,7 +84292,7 @@
       "source_anchor": "#51-ecological-footprint-evaluation",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#transparency",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84300,7 +84300,7 @@
       "source_anchor": "#51-ecological-footprint-evaluation",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#epistemic-integrity",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84339,15 +84339,15 @@
       "source_header": "5.1 Ecological Footprint Evaluation",
       "source_anchor": "#51-ecological-footprint-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
-      "count": 2
+      "target_anchor": "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
+      "count": 3
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "5.1 Ecological Footprint Evaluation",
       "source_anchor": "#51-ecological-footprint-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "target_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {
@@ -84364,6 +84364,46 @@
       "source_anchor": "#51-ecological-footprint-evaluation",
       "target_file": "corpus_systems/cs_08_adaptive_sustainability_ecosystem_resilience.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.1.1 Scope and Governing Rules",
+      "source_anchor": "#511-scope-and-governing-rules",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-footprint",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.1.2 Evaluation Requirement",
+      "source_anchor": "#512-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.1.2 Evaluation Requirement",
+      "source_anchor": "#512-evaluation-requirement",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#material-impact",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.1.2 Evaluation Requirement",
+      "source_anchor": "#512-evaluation-requirement",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#transparency",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.1.2 Evaluation Requirement",
+      "source_anchor": "#512-evaluation-requirement",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#epistemic-integrity",
       "count": 1
     },
     {
@@ -84396,7 +84436,7 @@
       "source_anchor": "#52-educational-capability-and-learning-system-integrity-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84420,7 +84460,7 @@
       "source_anchor": "#52-educational-capability-and-learning-system-integrity-evaluation",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84428,7 +84468,7 @@
       "source_anchor": "#52-educational-capability-and-learning-system-integrity-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#educational-agency",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84476,22 +84516,46 @@
       "source_anchor": "#52-educational-capability-and-learning-system-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "5.2 Educational Capability and Learning-System Integrity Evaluation",
       "source_anchor": "#52-educational-capability-and-learning-system-integrity-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#521-illustrative-educational-capability-application-by-class-non-exhaustive",
-      "count": 2
+      "target_anchor": "#525-illustrative-educational-capability-application-by-system-class-non-exhaustive",
+      "count": 3
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "5.3 Proportionate Cross-System Support Evaluation",
-      "source_anchor": "#53-proportionate-cross-system-support-evaluation",
-      "target_file": "core_01_a_values_principles.md",
-      "target_anchor": "#11-market-structure",
+      "source_header": "5.2.1 Materiality Trigger and Governing Rules",
+      "source_anchor": "#521-materiality-trigger-and-governing-rules",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#educational-agency",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.2.2 Evaluation Requirement",
+      "source_anchor": "#522-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.2.2 Evaluation Requirement",
+      "source_anchor": "#522-evaluation-requirement",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.2.3 System Class Scaling and Escalation",
+      "source_anchor": "#523-system-class-scaling-and-escalation",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#7-certification-outcomes",
       "count": 1
     },
     {
@@ -84500,7 +84564,7 @@
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84516,7 +84580,7 @@
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#cross-system-extraction",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84524,7 +84588,7 @@
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#proportionate-cross-system-support",
-      "count": 5
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84540,7 +84604,7 @@
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84548,7 +84612,7 @@
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#sustainability",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84556,14 +84620,6 @@
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness",
-      "count": 2
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "5.3 Proportionate Cross-System Support Evaluation",
-      "source_anchor": "#53-proportionate-cross-system-support-evaluation",
-      "target_file": "core_06_rights_part_a.md",
-      "target_anchor": "#article-v-b-cross-system-fairness-and-sustainability",
       "count": 1
     },
     {
@@ -84596,15 +84652,15 @@
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
-      "count": 3
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "5.3 Proportionate Cross-System Support Evaluation",
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
-      "count": 2
+      "target_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
+      "count": 3
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84612,14 +84668,102 @@
       "source_anchor": "#53-proportionate-cross-system-support-evaluation",
       "target_file": "corpus_systems.md",
       "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.2 Meaning of Extraction",
+      "source_anchor": "#532-meaning-of-extraction",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#cross-system-extraction",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.2 Meaning of Extraction",
+      "source_anchor": "#532-meaning-of-extraction",
+      "target_file": "core_06_rights_part_a.md",
+      "target_anchor": "#article-v-b-cross-system-fairness-and-sustainability",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.3 Governing Rules",
+      "source_anchor": "#533-governing-rules",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.3 Governing Rules",
+      "source_anchor": "#533-governing-rules",
+      "target_file": "corpus_systems.md",
+      "target_anchor": null,
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.4 Evaluation Requirement",
+      "source_anchor": "#534-evaluation-requirement",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.4 Evaluation Requirement",
+      "source_anchor": "#534-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support",
       "count": 2
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "5.4 Nondiscrimination Evaluation",
-      "source_anchor": "#54-nondiscrimination-evaluation",
-      "target_file": "core_00_preamble.md",
-      "target_anchor": "#material-stake",
+      "source_header": "5.3.4 Evaluation Requirement",
+      "source_anchor": "#534-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#ecological-footprint",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.4 Evaluation Requirement",
+      "source_anchor": "#534-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#sustainability",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.4 Evaluation Requirement",
+      "source_anchor": "#534-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.6 System Class Scaling and Escalation",
+      "source_anchor": "#536-system-class-scaling-and-escalation",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#7-certification-outcomes",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.7 Defects and Misalignment",
+      "source_anchor": "#537-defects-and-misalignment",
+      "target_file": "core_01_a_values_principles.md",
+      "target_anchor": "#11-market-structure",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.3.7 Defects and Misalignment",
+      "source_anchor": "#537-defects-and-misalignment",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support",
       "count": 1
     },
     {
@@ -84628,7 +84772,7 @@
       "source_anchor": "#54-nondiscrimination-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84636,7 +84780,7 @@
       "source_anchor": "#54-nondiscrimination-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84644,7 +84788,7 @@
       "source_anchor": "#54-nondiscrimination-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#language-culture-and-heritage",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84652,7 +84796,7 @@
       "source_anchor": "#54-nondiscrimination-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness",
-      "count": 3
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84660,7 +84804,7 @@
       "source_anchor": "#54-nondiscrimination-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84668,7 +84812,7 @@
       "source_anchor": "#54-nondiscrimination-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
-      "count": 3
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84708,15 +84852,95 @@
       "source_anchor": "#54-nondiscrimination-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "5.4 Nondiscrimination Evaluation",
       "source_anchor": "#54-nondiscrimination-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
-      "count": 2
+      "target_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
+      "count": 3
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.1 Materiality Trigger and Governing Rules",
+      "source_anchor": "#541-materiality-trigger-and-governing-rules",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.1 Materiality Trigger and Governing Rules",
+      "source_anchor": "#541-materiality-trigger-and-governing-rules",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.2 Evaluation Requirement",
+      "source_anchor": "#542-evaluation-requirement",
+      "target_file": "core_00_preamble.md",
+      "target_anchor": "#material-stake",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.2 Evaluation Requirement",
+      "source_anchor": "#542-evaluation-requirement",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.2 Evaluation Requirement",
+      "source_anchor": "#542-evaluation-requirement",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.2 Evaluation Requirement",
+      "source_anchor": "#542-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#language-culture-and-heritage",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.2 Evaluation Requirement",
+      "source_anchor": "#542-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.2 Evaluation Requirement",
+      "source_anchor": "#542-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.2 Evaluation Requirement",
+      "source_anchor": "#542-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.4.3 System Class Scaling and Escalation",
+      "source_anchor": "#543-system-class-scaling-and-escalation",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#7-certification-outcomes",
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84724,7 +84948,7 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84732,7 +84956,7 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84740,7 +84964,7 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84748,7 +84972,7 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84756,7 +84980,7 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#accessibility",
-      "count": 3
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84772,7 +84996,7 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84780,7 +85004,7 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84788,14 +85012,6 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness",
-      "count": 2
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "5.5 Accessibility Evaluation",
-      "source_anchor": "#55-accessibility-evaluation",
-      "target_file": "core_05_band_participation.md",
-      "target_anchor": "#sentience-non-exclusion",
       "count": 1
     },
     {
@@ -84828,15 +85044,103 @@
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
       "source_header": "5.5 Accessibility Evaluation",
       "source_anchor": "#55-accessibility-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
-      "count": 2
+      "target_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
+      "count": 3
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.1 Materiality Trigger and Governing Rules",
+      "source_anchor": "#551-materiality-trigger-and-governing-rules",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#necessity",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_accountability.md",
+      "target_anchor": "#proportionality",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#accessibility",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#sentience-non-exclusion",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristics",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.2 Evaluation Requirement",
+      "source_anchor": "#552-evaluation-requirement",
+      "target_file": "core_05_band_participation.md",
+      "target_anchor": "#substantive-fairness",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.5.4 System Class Scaling and Escalation",
+      "source_anchor": "#554-system-class-scaling-and-escalation",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#7-certification-outcomes",
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84876,7 +85180,7 @@
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trustworthiness",
-      "count": 3
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84884,7 +85188,7 @@
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84892,7 +85196,7 @@
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-degradation-and-misleading-reliance",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84908,7 +85212,7 @@
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84916,7 +85220,7 @@
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84932,7 +85236,7 @@
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#materiality",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84956,7 +85260,7 @@
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#10-relationship-to-standing",
-      "count": 2
+      "count": 1
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
@@ -84964,22 +85268,6 @@
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
-      "count": 2
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "5.6 Trustworthiness and System-Reliance Integrity Evaluation",
-      "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#chapter-eight-part-b-system-alignment-certification--record-and-process",
-      "count": 1
-    },
-    {
-      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "5.6 Trustworthiness and System-Reliance Integrity Evaluation",
-      "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
-      "target_file": "core_08_b_system_alignment_certification_record_process.md",
-      "target_anchor": "#6-forum-process",
       "count": 1
     },
     {
@@ -84987,13 +85275,101 @@
       "source_header": "5.6 Trustworthiness and System-Reliance Integrity Evaluation",
       "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
-      "count": 2
+      "target_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
+      "count": 3
     },
     {
       "source_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "source_header": "5.6 Trustworthiness and System-Reliance Integrity Evaluation",
-      "source_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
+      "source_header": "5.6.1 Materiality Trigger and Governing Rules",
+      "source_anchor": "#561-materiality-trigger-and-governing-rules",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.1 Materiality Trigger and Governing Rules",
+      "source_anchor": "#561-materiality-trigger-and-governing-rules",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trust-degradation-and-misleading-reliance",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.2 Evaluation Requirement",
+      "source_anchor": "#562-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trust",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.2 Evaluation Requirement",
+      "source_anchor": "#562-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#dependency",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.2 Evaluation Requirement",
+      "source_anchor": "#562-evaluation-requirement",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#risk",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.2 Evaluation Requirement",
+      "source_anchor": "#562-evaluation-requirement",
+      "target_file": "core_05_band_oversight.md",
+      "target_anchor": "#materiality",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.3 System Class Scaling and Escalation",
+      "source_anchor": "#563-system-class-scaling-and-escalation",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#7-certification-outcomes",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.4 Defects and Misalignment",
+      "source_anchor": "#564-defects-and-misalignment",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#trustworthiness",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.4 Defects and Misalignment",
+      "source_anchor": "#564-defects-and-misalignment",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#chapter-eight-part-b-system-alignment-certification--record-and-process",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.4 Defects and Misalignment",
+      "source_anchor": "#564-defects-and-misalignment",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#6-forum-process",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.4 Defects and Misalignment",
+      "source_anchor": "#564-defects-and-misalignment",
+      "target_file": "core_08_b_system_alignment_certification_record_process.md",
+      "target_anchor": "#10-relationship-to-standing",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_a_system_alignment_certification_evaluation.md",
+      "source_header": "5.6.4 Defects and Misalignment",
+      "source_anchor": "#564-defects-and-misalignment",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
       "target_anchor": "#chapter-eight-part-c-system-alignment-certification--illustrations",
       "count": 1
@@ -85811,7 +86187,7 @@
       "source_header": "8. System Certification Record",
       "source_anchor": "#8-system-certification-record",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "target_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "count": 1
     },
     {
@@ -86210,6 +86586,14 @@
       "source_file": "core_08_b_system_alignment_certification_record_process.md",
       "source_header": "9. Recertification and Reopening",
       "source_anchor": "#9-recertification-and-reopening",
+      "target_file": "core_05_band_continuity.md",
+      "target_anchor": "#proportionate-cross-system-support",
+      "count": 1
+    },
+    {
+      "source_file": "core_08_b_system_alignment_certification_record_process.md",
+      "source_header": "9. Recertification and Reopening",
+      "source_anchor": "#9-recertification-and-reopening",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 3
@@ -86488,344 +86872,344 @@
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "3.4.8. Illustrative data-handling application by class (non-exhaustive)",
-      "source_anchor": "#348-illustrative-data-handling-application-by-class-non-exhaustive",
+      "source_header": "3.4.8. Illustrative Data-Handling Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#348-illustrative-data-handling-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_integrative.md",
       "target_anchor": "#fullest-protective-effect",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "3.4.8. Illustrative data-handling application by class (non-exhaustive)",
-      "source_anchor": "#348-illustrative-data-handling-application-by-class-non-exhaustive",
+      "source_header": "3.4.8. Illustrative Data-Handling Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#348-illustrative-data-handling-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#34-data-types-and-handling-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "3.4.8. Illustrative data-handling application by class (non-exhaustive)",
-      "source_anchor": "#348-illustrative-data-handling-application-by-class-non-exhaustive",
+      "source_header": "3.4.8. Illustrative Data-Handling Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#348-illustrative-data-handling-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "3.4.8. Illustrative data-handling application by class (non-exhaustive)",
-      "source_anchor": "#348-illustrative-data-handling-application-by-class-non-exhaustive",
+      "source_header": "3.4.8. Illustrative Data-Handling Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#348-illustrative-data-handling-application-by-system-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.1.1. Illustrative ecological-footprint application by class (non-exhaustive)",
-      "source_anchor": "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
+      "source_header": "5.1.5. Illustrative Ecological-Footprint Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#dependency",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.1.1. Illustrative ecological-footprint application by class (non-exhaustive)",
-      "source_anchor": "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
+      "source_header": "5.1.5. Illustrative Ecological-Footprint Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#material-impact",
       "count": 2
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.1.1. Illustrative ecological-footprint application by class (non-exhaustive)",
-      "source_anchor": "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
+      "source_header": "5.1.5. Illustrative Ecological-Footprint Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#51-ecological-footprint-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.2.1. Illustrative educational-capability application by class (non-exhaustive)",
-      "source_anchor": "#521-illustrative-educational-capability-application-by-class-non-exhaustive",
+      "source_header": "5.2.5. Illustrative Educational-Capability Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#525-illustrative-educational-capability-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#52-educational-capability-and-learning-system-integrity-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.2.1. Illustrative educational-capability application by class (non-exhaustive)",
-      "source_anchor": "#521-illustrative-educational-capability-application-by-class-non-exhaustive",
+      "source_header": "5.2.5. Illustrative Educational-Capability Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#525-illustrative-educational-capability-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.2.1. Illustrative educational-capability application by class (non-exhaustive)",
-      "source_anchor": "#521-illustrative-educational-capability-application-by-class-non-exhaustive",
+      "source_header": "5.2.5. Illustrative Educational-Capability Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#525-illustrative-educational-capability-application-by-system-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#proportionate-cross-system-support",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#ecological-footprint",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#sustainability",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#53-proportionate-cross-system-support-evaluation",
       "count": 2
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#34-data-types-and-handling-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.3.1. Illustrative cross-system support application by class (non-exhaustive)",
-      "source_anchor": "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
+      "source_header": "5.3.8. Illustrative Cross-System Support Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#language-culture-and-heritage",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#54-nondiscrimination-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.4.1. Illustrative nondiscrimination application by class (non-exhaustive)",
-      "source_anchor": "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
+      "source_header": "5.4.5. Illustrative Nondiscrimination Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.5.1. Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "source_header": "5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#necessity",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.5.1. Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "source_header": "5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_accountability.md",
       "target_anchor": "#proportionality",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.5.1. Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "source_header": "5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristics",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.5.1. Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "source_header": "5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#protected-characteristic-proxying-and-disparate-impact",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.5.1. Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "source_header": "5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_participation.md",
       "target_anchor": "#substantive-fairness",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.5.1. Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "source_header": "5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#55-accessibility-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.5.1. Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "source_header": "5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.5.1. Illustrative accessibility application by class (non-exhaustive)",
-      "source_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "source_header": "5.5.6. Illustrative Accessibility Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "source_header": "5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "source_header": "5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#trust-degradation-and-misleading-reliance",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "source_header": "5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "source_header": "5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "source_header": "5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "source_header": "5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#chapter-eight-part-b-certification-record-and-process",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "5.6.1. Illustrative trustworthiness application by class (non-exhaustive)",
-      "source_anchor": "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+      "source_header": "5.6.5. Illustrative Trustworthiness Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
       "target_file": "core_09_standing_assessment.md",
       "target_anchor": null,
       "count": 1
@@ -86843,7 +87227,7 @@
       "source_header": "CHAPTER EIGHT, PART C: SYSTEM ALIGNMENT CERTIFICATION — ILLUSTRATIONS",
       "source_anchor": "#chapter-eight-part-c-system-alignment-certification--illustrations",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#21-how-class-scales-every-evaluation",
+      "target_anchor": "#21-how-system-class-scales-every-evaluation",
       "count": 1
     },
     {
@@ -86952,184 +87336,184 @@
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative class profiles (non-exhaustive)",
-      "source_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "source_header": "Illustrative System Class Profiles (Non-Exhaustive)",
+      "source_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative class profiles (non-exhaustive)",
-      "source_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "source_header": "Illustrative System Class Profiles (Non-Exhaustive)",
+      "source_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 2
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative class profiles (non-exhaustive)",
-      "source_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "source_header": "Illustrative System Class Profiles (Non-Exhaustive)",
+      "source_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#34-data-types-and-handling-evaluation",
       "count": 2
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative class profiles (non-exhaustive)",
-      "source_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "source_header": "Illustrative System Class Profiles (Non-Exhaustive)",
+      "source_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "count": 2
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative class profiles (non-exhaustive)",
-      "source_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "source_header": "Illustrative System Class Profiles (Non-Exhaustive)",
+      "source_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#21-how-class-scales-every-evaluation",
+      "target_anchor": "#21-how-system-class-scales-every-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative class profiles (non-exhaustive)",
-      "source_anchor": "#illustrative-class-profiles-non-exhaustive",
+      "source_header": "Illustrative System Class Profiles (Non-Exhaustive)",
+      "source_anchor": "#illustrative-system-class-profiles-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#8-system-certification-record",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_continuity.md",
       "target_anchor": "#risk-evaluation",
       "count": 3
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_05_band_oversight.md",
       "target_anchor": "#risk-disclosure",
       "count": 3
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#3-whole-system-certification-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#4-evaluations-where-implicated",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#31-systemic-scope-and-risk-factors",
       "count": 6
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#43-assembly-collective-organization-and-institutional-formation",
       "count": 6
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#55-accessibility-evaluation",
       "count": 3
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#41-privacy-informational-joint-invocation",
       "count": 3
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#42-voluntary-discontinuation-major-self-modification-and-exit-rights",
       "count": 3
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#32-time-consistency-constraint",
       "count": 3
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#33-governance-incentive-and-contestability-discipline",
       "count": 3
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#34-data-types-and-handling-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#5-rights-floor-and-domain-evaluations",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#56-trustworthiness-and-system-reliance-integrity-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#21-how-class-scales-every-evaluation",
+      "target_anchor": "#21-how-system-class-scales-every-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
       "target_anchor": "#2-system-class-evaluation",
       "count": 1
     },
     {
       "source_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "source_header": "Illustrative whole-system application by class (non-exhaustive)",
-      "source_anchor": "#illustrative-whole-system-application-by-class-non-exhaustive",
+      "source_header": "Illustrative Whole-System Application by System Class (Non-Exhaustive)",
+      "source_anchor": "#illustrative-whole-system-application-by-system-class-non-exhaustive",
       "target_file": "core_08_b_system_alignment_certification_record_process.md",
       "target_anchor": "#7-certification-outcomes",
       "count": 1
@@ -87227,7 +87611,7 @@
       "source_header": "CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION (READING INDEX)",
       "source_anchor": "#chapter-eight-system-alignment-certification-index",
       "target_file": "core_08_a_system_alignment_certification_evaluation.md",
-      "target_anchor": "#21-how-class-scales-every-evaluation",
+      "target_anchor": "#21-how-system-class-scales-every-evaluation",
       "count": 1
     },
     {
@@ -131251,7 +131635,7 @@
       "source_header": "CS-3.7 Classification governance, disclosure, and challenge",
       "source_anchor": "#cs-3-7-classification-governance-disclosure-and-challenge",
       "target_file": "core_08_c_system_alignment_certification_illustrations.md",
-      "target_anchor": "#551-illustrative-accessibility-application-by-class-non-exhaustive",
+      "target_anchor": "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
       "count": 1
     },
     {

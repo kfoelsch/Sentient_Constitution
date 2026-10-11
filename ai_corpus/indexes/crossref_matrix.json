@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/crossref_matrix.schema.json",
-  "generated_at": "2026-10-11T09:56:39+00:00",
+  "generated_at": "2026-10-11T13:07:09+00:00",
   "description": "Source-derived file-to-file Markdown reference graph.",
   "graph": {
     "nodes": [
@@ -6189,18 +6189,18 @@
           },
           {
             "file": "core_08_c_system_alignment_certification_illustrations.md",
-            "count": 44,
+            "count": 50,
             "anchors": [
-              "#348-illustrative-data-handling-application-by-class-non-exhaustive",
-              "#511-illustrative-ecological-footprint-application-by-class-non-exhaustive",
-              "#521-illustrative-educational-capability-application-by-class-non-exhaustive",
-              "#531-illustrative-cross-system-support-application-by-class-non-exhaustive",
-              "#541-illustrative-nondiscrimination-application-by-class-non-exhaustive",
-              "#551-illustrative-accessibility-application-by-class-non-exhaustive",
-              "#561-illustrative-trustworthiness-application-by-class-non-exhaustive",
+              "#348-illustrative-data-handling-application-by-system-class-non-exhaustive",
+              "#515-illustrative-ecological-footprint-application-by-system-class-non-exhaustive",
+              "#525-illustrative-educational-capability-application-by-system-class-non-exhaustive",
+              "#538-illustrative-cross-system-support-application-by-system-class-non-exhaustive",
+              "#545-illustrative-nondiscrimination-application-by-system-class-non-exhaustive",
+              "#556-illustrative-accessibility-application-by-system-class-non-exhaustive",
+              "#565-illustrative-trustworthiness-application-by-system-class-non-exhaustive",
               "#chapter-eight-part-c-system-alignment-certification--illustrations",
-              "#illustrative-class-profiles-non-exhaustive",
-              "#illustrative-whole-system-application-by-class-non-exhaustive"
+              "#illustrative-system-class-profiles-non-exhaustive",
+              "#illustrative-whole-system-application-by-system-class-non-exhaustive"
             ]
           },
           {
@@ -6360,7 +6360,7 @@
           },
           {
             "file": "core_05_band_continuity.md",
-            "count": 18,
+            "count": 19,
             "anchors": [
               "#charter",
               "#ecological-footprint",
@@ -6470,7 +6470,7 @@
             "count": 2,
             "anchors": [
               "#chapter-eight-part-c-certification-illustrations",
-              "#illustrative-class-profiles-non-exhaustive"
+              "#illustrative-system-class-profiles-non-exhaustive"
             ]
           },
           {
@@ -6589,7 +6589,7 @@
             "count": 77,
             "anchors": [
               "#2-system-class-evaluation",
-              "#21-how-class-scales-every-evaluation",
+              "#21-how-system-class-scales-every-evaluation",
               "#3-whole-system-certification-evaluation",
               "#31-systemic-scope-and-risk-factors",
               "#32-time-consistency-constraint",
@@ -6662,7 +6662,7 @@
             "anchors": [
               "#11-certification-at-a-glance",
               "#2-system-class-evaluation",
-              "#21-how-class-scales-every-evaluation",
+              "#21-how-system-class-scales-every-evaluation",
               "#3-whole-system-certification-evaluation",
               "#34-data-types-and-handling-evaluation",
               "#4-evaluations-where-implicated",
@@ -14494,7 +14494,7 @@
             "file": "core_08_c_system_alignment_certification_illustrations.md",
             "count": 1,
             "anchors": [
-              "#551-illustrative-accessibility-application-by-class-non-exhaustive"
+              "#556-illustrative-accessibility-application-by-system-class-non-exhaustive"
             ]
           },
           {
