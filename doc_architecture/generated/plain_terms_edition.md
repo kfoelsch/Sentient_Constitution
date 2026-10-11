@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.08.09` · effective **2026-08-09**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Fifteen](../../core_15_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **677** of **945** headings carry a gloss (72%).
+Coverage: **679** of **947** headings carry a gloss (72%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **677** of **945** headings carry a gloss (72%).
 - [CHAPTER FIVE DEFINITIONS: OVERSIGHT (TETRAD LEG)](#chapter-five-definitions-oversight-tetrad-leg) — `core_05_apex_oversight_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: PARTICIPATION (TETRAD LEG)](#chapter-five-definitions-participation-tetrad-leg) — `core_05_apex_participation_leg.md` (3/3 glossed)
 - [CHAPTER FIVE DEFINITIONS: TIMELINESS (TETRAD LEG)](#chapter-five-definitions-timeliness-tetrad-leg) — `core_05_apex_timeliness_leg.md` (3/3 glossed)
-- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (78/90 glossed)
+- [Accountability Constitutional Definitions](#accountability-constitutional-definitions) — `core_05_band_accountability.md` (79/91 glossed)
 - [Continuity Constitutional Definitions](#continuity-constitutional-definitions) — `core_05_band_continuity.md` (32/93 glossed)
 - [Integrative Constitutional Definitions](#integrative-constitutional-definitions) — `core_05_band_integrative.md` (22/27 glossed)
 - [Oversight Constitutional Definitions](#oversight-constitutional-definitions) — `core_05_band_oversight.md` (29/39 glossed)
@@ -42,7 +42,7 @@ Coverage: **677** of **945** headings carry a gloss (72%).
 - [CHAPTER TWELVE: FORUMS AND JURISDICTION](#chapter-twelve-forums-and-jurisdiction) — `core_12_forum.md` (9/28 glossed)
 - [CHAPTERS NINE–TWELVE: PIPELINE APPLICATION VIGNETTES](#chapters-ninetwelve-pipeline-application-vignettes) — `core_09-12_application_vignettes.md` (9/35 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_a.md` (27/30 glossed)
-- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (41/42 glossed)
+- [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_b.md` (42/43 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_c.md` (33/34 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_d.md` (31/32 glossed)
 - [CHAPTER SIX: FOUNDATIONAL RIGHTS](#chapter-six-foundational-rights) — `core_06_rights_part_e.md` (13/14 glossed)
@@ -1208,7 +1208,7 @@ these questions ask whether problems actually move in time — not whether a das
 
 ## Accountability Constitutional Definitions
 
-Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 78/90 headings glossed
+Source file: [`core_05_band_accountability.md`](../../core_05_band_accountability.md) · 79/91 headings glossed
 
 #### Accountability: Independent terms
 
@@ -1431,6 +1431,12 @@ Governance is how a system assigns and limits power, makes decisions, changes ov
 a Material Control Line is the real chain of power around a particular act. It includes the sentients, offices, or systems that can meaningfully direct, overrule, reward, punish, remove, delay, or suppress the work, even when an organization chart calls the seat independent.
 
 [Source](../../core_05_band_accountability.md#material-control-line)
+
+##### Interested Party
+
+an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the record, and an interested party cannot also be the one who checks, records, or decides it.
+
+[Source](../../core_05_band_accountability.md#interested-party)
 
 ##### Initiating Seat
 
@@ -4592,7 +4598,7 @@ systems that lean heavily on shared foundations must put enough back to keep the
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 
-Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 41/42 headings glossed
+Source file: [`core_06_rights_part_b.md`](../../core_06_rights_part_b.md) · 42/43 headings glossed
 
 #### Part B: Personhood, agency, cooperation, and stakeholder system participation
 
@@ -4839,6 +4845,12 @@ roles must carry real responsibility, not just titles — and anyone facing a ma
 every body that makes decisions for others — forums, governance boards, and the institutions that appoint them — must be built so no single group can quietly take it over. Members disclose conflicts and step aside when compromised; nobody rigs vacancies or rotations; outsiders check the body regularly; and members can be removed for real cause but never as punishment for disagreeing. Keeping key duties in separate hands is one of the main defenses.
 
 [Source](../../core_06_rights_part_b.md#article-xii-d-non-capture-safeguards)
+
+##### Article XII-E: Influence-Contact and Lobbying Boundaries
+
+**Article XII-E** (*Influence-Contact and Lobbying Boundaries*) is the floor for how sentients with a stake may approach those who decide. Open advocacy is protected. Private, unrecorded, bought, faked, or machine-multiplied influence is not: contact is recorded and disclosed, offers and threats are conflicts, a later job from a party you decided on waits out a cooling-off period, and a system's contact must say what it is and who it acts for.
+
+[Source](../../core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries)
 
 ## CHAPTER SIX: FOUNDATIONAL RIGHTS
 

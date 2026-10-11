@@ -1331,7 +1331,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 
 **Semi-independent context** (component definitions may still operate outside joint-invocation scope):
 
-- **Joint invocation:** where governance architecture, functional independence, material control relationships, decentralization scale, market structure, or material concentration of authority is material.
+- **Joint invocation:** where governance architecture, functional independence, material control relationships, interested-party relationships, decentralization scale, market structure, or material concentration of authority is material.
 - **Scope:** where joint invocation is met, the Accountability home for how authority is organized, constrained, and separated through distributed, accountable authority structures.
 - **Owner floor:** implements [Chapter One §11 Market Structure](core_01_a_values_principles.md#11-market-structure) and constrains [System Capture](core_05_band_continuity.md#system-capture).
 - **Principle-layer interface:** read with [Chapter One §17.4 Aligned Self-Organization](core_01_c_stewardship_capacity_principles.md#174-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or merits authority and is not an additional definition in this group.
@@ -1339,6 +1339,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 **Topic group members.** This group comprises:
 - [Governance](core_05_band_accountability.md#governance) — structures, rules, and processes by which systems are directed and held accountable.
 - [Material Control Line](core_05_band_accountability.md#material-control-line) — the real chain of practical power that can materially affect a required seat's independent judgment or action on a particular act.
+- [Interested Party](core_05_band_accountability.md#interested-party) — for a particular matter, a sentient, institution, or system with a material stake in the outcome, and anyone, or any system, acting for it or inside its Material Control Line.
 - [Initiating Seat](core_05_band_accountability.md#initiating-seat) — the role that requests, proposes, operates, claims, or otherwise begins a particular act.
 - [Verify-or-Authorize Seat](core_05_band_accountability.md#verify-or-authorize-seat) — the role that checks evidence and authority against the governing standard and determines whether the act may proceed.
 - [Record Seat](core_05_band_accountability.md#record-seat) — the role that enters, versions, holds, preserves, and publishes the official record of the determination.
@@ -1350,7 +1351,7 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - [Market Structure](core_05_band_accountability.md#market-structure) — principle-layer discipline for contestable productive conditions.
 - [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold) — operational trigger for heightened review when material concentration reaches problematic levels.
 
-*Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on [Material Control Line](core_05_band_accountability.md#material-control-line), the four seat definitions, [Market Structure](core_05_band_accountability.md#market-structure), and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold) below.
+*Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on [Material Control Line](core_05_band_accountability.md#material-control-line), [Interested Party](core_05_band_accountability.md#interested-party), the four seat definitions, [Market Structure](core_05_band_accountability.md#market-structure), and [Market Concentration Threshold](core_05_band_accountability.md#market-concentration-threshold) below.
 
 ---
 
@@ -1441,6 +1442,48 @@ This band holds definitions under the **Accountability** Tetrad leg — harm, fo
 - **What must hold**
   - **Primary failure:** Where a governing rule requires independence, a seat is non-compliant if it sits within the Material Control Line of the initiating seat or a materially interested party. Indirect control through an affiliate, contractor, committee, proxy, technical administrator, or automated system does not cure the failure.
   - **Secondary failure:** It is non-compliant to treat a seat as independent solely because it has a different title, office, employer, legal entity, signature, or nominal recusal while material practical control remains. It is also non-compliant to assert a Material Control Line from shared infrastructure, administrative support, appointment history, or another relationship alone without showing practical power material to the act.
+
+---
+
+<a id="interested-party"></a>
+
+#### Interested Party
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: [Chapter Seven §3 Independence, Conflict, and Control Lines](core_07_functional_independence_segregation_of_duties.md#3-independence-conflict-and-control-lines); [Article XII-E](core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries and post-service and prospective-role conflicts; [Chapter Thirteen §1.2](core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, contested selection, and democratic minimums*) for selection-funding boundaries; [Chapter Nine §3.7 Record custody and opening authority](core_09_standing_assessment.md#37-record-custody-and-opening-authority); **CI-4.2** (*Role criteria, appointment standards, and removal pathways*); **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*); **CJS-3.6** (*integrity assurance and resilience operations*); and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+- Cluster component: [Governance architecture, decentralization, and concentration](core_05_band_accountability.md#governance-architecture-decentralization-and-concentration).
+- Read with: [Material Control Line](core_05_band_accountability.md#material-control-line), [Initiating Seat](core_05_band_accountability.md#initiating-seat), [Governance](core_05_band_accountability.md#governance), [Contestability](core_05_band_accountability.md#contestability), [System Capture](core_05_band_continuity.md#system-capture), [Anti-Capture](core_05_band_continuity.md#anti-capture), [Materiality](core_05_band_oversight.md#materiality), and [Dependency](core_05_band_continuity.md#dependency).
+- Layer: applies within both the **Constitutional Contract Layer (CCL)** and **Stakeholder System Participation (SSP)** under [Preamble §3.3](core_00_preamble.md#33-governance-layers).
+
+</details>
+
+<br>
+
+*In plain terms: an interested party is anyone with a real stake in how a particular matter comes out, and anyone acting for them or under their control. The label does not take away anyone's right to be heard. It means contact with the sentients deciding the matter is made on the record, and an interested party cannot also be the one who checks, records, or decides it.*
+
+- **What it is**
+  - **In scope:** For a particular matter, a sentient, institution, or system that has a [material stake](core_00_preamble.md#material-stake) in the outcome, together with anyone, or any system, acting for it or inside its [Material Control Line](core_05_band_accountability.md#material-control-line). A matter is any decision, finding, certification, appointment, selection, procurement, audit, review, interpretation, or challenge. A material stake exists where the outcome could materially change the party's rights, duties, status, standing, resources, or position, whether directly or through ownership, funding, employment, contract, or comparable [dependency](core_05_band_continuity.md#dependency). Depending on the matter, interested parties include:
+    - the initiator, requester, claimant, subject, or challenger;
+    - a bidder, counterparty, funder, or beneficiary; and
+    - an affected sentient whose rights or position the outcome materially changes.
+
+    Interested-party status is decided matter by matter. A sentient can be interested in one matter and not in another.
+  - **Out of scope:** A general interest in the outcome shared with the public, expertise, advice, advocacy for a cause with no stake of the advocate's own, professional association, or ordinary participation does not by itself make a sentient an interested party. The stake must be material to the particular matter. Interested-party status never removes a right to participate, be heard, or contest. It governs how the party may contact the sentients deciding the matter and which seats it may hold. Those rules are stated in [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties), [Article XII-E](core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*), and the implementation text listed above; this entry is the Chapter Five meaning only.
+  - **Depends on:** [Materiality](core_05_band_oversight.md#materiality); [Dependency](core_05_band_continuity.md#dependency); [Material Control Line](core_05_band_accountability.md#material-control-line).
+<a id="interested-party-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_05_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_05_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a body identified who has a material stake in a matter and kept those parties out of the checking seats.
+
+    **Primary assessment:** Evaluate whether:
+    1. the interested parties were identified for the matter from the actual stake, and not from titles, legal entities, intermediaries, or who happened to appear;
+    2. no interested party, and no one in an interested party's Material Control Line, held the verify-or-authorize, record, or contest seat for the matter; and
+    3. contact between interested parties and those deciding or supporting the matter was recorded and disclosed under the applicable rules, with open advocacy on the record left available.
+<a id="interested-party-c"></a>
+- **What must hold**
+  - **Primary failure:** Treat a party with a material stake as not interested because of its title, legal entity, intermediary, nominal arm's length, or because it did not appear in the matter. Indirect interest through an affiliate, funder, contractor, proxy, or automated system does not cure the failure.
+  - **Secondary failure:** Use interested-party status as a ground to keep an affected sentient from being heard, or assert the status from a general public interest, advice, or shared infrastructure alone without showing a material stake in the particular matter.
 
 ---
 

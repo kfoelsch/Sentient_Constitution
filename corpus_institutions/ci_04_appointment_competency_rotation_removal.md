@@ -88,6 +88,15 @@ Apply **CJS-2.4** (*Class-scaled lane staffing and competency redundancy*) for t
 
 This subsection states institutional owner duties: each institution must publish role criteria, qualification and disqualification standards, succession coverage, rotation or cooling-off rules where needed for independence, and a removal pathway with due process. Role assignment must not rely on arbitrary gatekeeping. Every role decision must apply the relevant [Chapter Ten §6.2 Competency bars and clearances](../core_10_standing_integration.md#62-competency-bars-and-clearances) competency bar and clearance only after checking for a controlling general or special standing lock under [Chapter Ten §4.2 Prevention — general standing locks](../core_10_standing_integration.md#42-prevention--general-standing-locks) and [§5.5 Special locks](../core_10_standing_integration.md#55-special-locks).
 
+**Post-service and prospective-role rules.** Where a role decides, reviews, audits, procures, or supports a decision on a matter in which an [interested party](../core_05_band_accountability.md#interested-party) has a material stake, the institution must publish:
+
+- a duty to disclose, as a conflict under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), any discussion of a later role, employment, contract, or benefit with that party while the matter is open, with recusal until an independent seat clears it;
+- a cooling-off period before the role holder may accept a role or benefit from that party in connection with the matter they handled, which is five years by default from the end of the role holder's last involvement in the matter, may be longer, and may be shorter only where material stake is low and the institution publishes its reasons;
+- limits on using non-public information from the role after leaving it; and
+- a record of clearances and refusals.
+
+These rules implement the post-service conflicts in [**Article XII-E**](../core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*). Sortition panels apply them through the sortition controls in **CJS-3.6** (*integrity assurance and resilience operations*).
+
 ## CI-4.3: Periodic performance and capability review
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>

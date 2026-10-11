@@ -83,6 +83,11 @@
       "status": "approved",
       "ch00_category": "3.6 Accountability"
     },
+    "Interested Party": {
+      "tier_depth": "primary_only",
+      "status": "approved",
+      "ch00_category": "3.6 Accountability"
+    },
     "Initiating Seat": {
       "tier_depth": "primary_secondary",
       "status": "approved",

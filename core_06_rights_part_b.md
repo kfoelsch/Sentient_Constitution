@@ -1912,7 +1912,7 @@ This Article sets out the floors for internal roles and due process:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Eight §3 Whole-System Certification Evaluation](core_08_a_system_alignment_certification_evaluation.md#3-whole-system-certification-evaluation), and [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline).
-- Read with: [System Capture](core_05_band_continuity.md#system-capture); [Anti-Capture](core_05_band_continuity.md#anti-capture); [Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes) (*Default venue and primary stakes*) and [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*); [Chapter Eleven §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*named misconduct pattern*); [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*heightened application to **Constitutional** forums*); [Chapter Seven: Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties).
+- Read with: [System Capture](core_05_band_continuity.md#system-capture); [Anti-Capture](core_05_band_continuity.md#anti-capture); [Chapter Twelve §2](core_12_forum.md#2-default-venue-and-primary-stakes) (*Default venue and primary stakes*) and [§3](core_12_forum.md#3-transfer-consolidation-and-coordination--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*); [Chapter Eleven §5.10](core_11_b_misconduct_pattern_applications.md#510-forum-recusal-failure-and-biased-panel-participation) (*named misconduct pattern*); [Article XXV-C](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*heightened application to **Constitutional** forums*); [Chapter Seven: Functional Independence and Segregation of Duties](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties); [Article XII-E](core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
 
 </details>
 
@@ -1947,6 +1947,7 @@ This Article sets out the non-capture safeguards for every body that decides for
 - **Scope:** The safeguards below apply to every body that exercises decision, adjudicative, or interpretive authority over others — every **forum** family under **Chapter Twelve**, **Stakeholder System Participation** bodies under this Article, and the **appointing authorities** and **adopting institutions** that design, seat, rotate, and remove their members. Requirements scale with [material stake](core_00_preamble.md#material-stake) and dependency; the floors on disclosure, recusal, procedural gaming, and pretextual removal apply to every such body. **Constitutional forums** are held to these safeguards at their most stringent under [**Article XXV-C**](core_06_rights_part_d.md#article-xxv-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*) and [**Article XXV-D**](core_06_rights_part_d.md#article-xxv-d-removal-for-cause-and-non-entrenchment) (*Removal for Cause and Non-Entrenchment*).
 - **Composition and conflict-control floor:** Covered bodies must be structured to preserve impartiality, prevent capture, and remain contestable. They, their **appointing authorities**, and **adopting institutions** must use transparent membership rules and conflict safeguards sufficient to prevent durable control by any single appointing authority, institution, or stakeholder bloc.
 - **Ongoing disclosure and recusal:** Members and panelists must disclose material affiliations, dependencies, and conflicts on an ongoing basis. **Recusal** must be available where impartiality is materially compromised.
+- **Influence contact and post-service conflicts:** Approach to these bodies by an [**interested party**](core_05_band_accountability.md#interested-party), and the conflicts that arise from later roles and benefits, are governed by [**Article XII-E**](core_06_rights_part_b.md#article-xii-e-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
 - **Enforcement and routing:**
   - **Misconduct path:** A verified **failure to recuse** while **impartiality was materially compromised** may be alleged as **anti-constitutional misconduct** under **Chapter Eleven** when substantiated under **Chapters Two through Four** and the **Chapter Eleven** criteria set.
   - **Integrity-first routing:** If the dispute is mainly about that recusal failure — or about a final serious misconduct finding that comes from it — it goes to **Integrity** forums first under **Chapter Twelve §2** (*Default venue and primary stakes*), using the anti-self-judging rule in **Chapter Twelve §3** (*Transfer, consolidation, and coordination — continuity and anti-capture*).
@@ -1974,6 +1975,86 @@ This Article sets out the non-capture safeguards for every body that decides for
   - [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*);
   - **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*);
   - for forum panels, **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) in [corpus_forum.md](corpus_forum.md).
+
+#### Article XII-E: Influence-Contact and Lobbying Boundaries
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: Principles: Chapter One [§5 Truth](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [§18 Governance Under Stewardship Discipline](core_01_c_stewardship_capacity_principles.md#18-governance-under-stewardship-discipline), and [§19 Incentive Alignment and System Capture](core_01_c_stewardship_capacity_principles.md#19-incentive-alignment-and-system-capture).
+- Read with: [Article XII-D](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*); [Article XII-B](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Weighted Participation and Anti-Token Constraints*); [Article X-A](core_06_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*); [Article IX-A](core_06_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*); [Article XIII-E](core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*); [Article XV](core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*); [Chapter Eleven §5.3](core_11_b_misconduct_pattern_applications.md#53-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone and contest-pathway denial*), [§5.4](core_11_b_misconduct_pattern_applications.md#54-info-sphere-zone-flooding) (*Info-sphere zone flooding*), and [§5.5](core_11_b_misconduct_pattern_applications.md#55-bribery-and-improper-benefit-exchange) (*Bribery and improper benefit exchange*); [Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties); [Chapter Thirteen §1.2](core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, contested selection, and democratic minimums*).
+
+</details>
+
+<details>
+<summary><strong><span style="color: #2563eb;">Definitions · Assessment · Compliance</span></strong></summary>
+
+- [System Capture](core_05_band_continuity.md#system-capture) · [O](core_05_band_continuity.md#system-capture) · [M](core_05_band_continuity.md#system-capture-a) · [A](core_05_band_continuity.md#system-capture-a) · [C](core_05_band_continuity.md#system-capture-c)
+- [Anti-Capture](core_05_band_continuity.md#anti-capture) · [O](core_05_band_continuity.md#anti-capture) · [M](core_05_band_continuity.md#anti-capture-a) · [A](core_05_band_continuity.md#anti-capture-a) · [C](core_05_band_continuity.md#anti-capture-c)
+- [Contestability](core_05_band_accountability.md#contestability) · [O](core_05_band_accountability.md#contestability) · [M](core_05_band_accountability.md#contestability-a) · [A](core_05_band_accountability.md#contestability-a) · [C](core_05_band_accountability.md#contestability-c)
+- [Auditability](core_05_band_oversight.md#auditability) · [O](core_05_band_oversight.md#auditability) · [M](core_05_band_oversight.md#auditability-a) · [A](core_05_band_oversight.md#auditability-a) · [C](core_05_band_oversight.md#auditability-c)
+- [Procedural Fairness](core_05_band_participation.md#procedural-fairness) · [O](core_05_band_participation.md#procedural-fairness) · [M](core_05_band_participation.md#procedural-fairness-constitutional-a) · [A](core_05_band_participation.md#procedural-fairness-constitutional-a) · [C](core_05_band_participation.md#procedural-fairness-constitutional-c)
+- [Interested Party](core_05_band_accountability.md#interested-party) · [O](core_05_band_accountability.md#interested-party) · [M](core_05_band_accountability.md#interested-party-a) · [A](core_05_band_accountability.md#interested-party-a) · [C](core_05_band_accountability.md#interested-party-c)
+
+</details>
+
+<br>
+
+*In plain terms: **Article XII-E** (*Influence-Contact and Lobbying Boundaries*) is the floor for how sentients with a stake may approach those who decide. Open advocacy is protected. Private, unrecorded, bought, faked, or machine-multiplied influence is not: contact is recorded and disclosed, offers and threats are conflicts, a later job from a party you decided on waits out a cooling-off period, and a system's contact must say what it is and who it acts for.*
+
+This Article sets out how **interested parties** may approach the sentients and systems that decide, review, audit, procure, or support a decision. It applies to the covered bodies named in [**Article XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*), their **appointing authorities**, and **adopting institutions**, under the [Two Constitutional Aims](core_00_preamble.md#two-constitutional-aims):
+
+- **Flourishing:** affected sentients keep a real, open way to be heard, including those without money, staff, or tools, and decisions rest on the open record rather than on private access.
+- **Continuity:** the bodies that decide stay resistant to quiet influence over time, whether it comes through private access, offers of benefit, later jobs, faked support, or automation at scale.
+
+Legitimate pursuit runs through the [Constitutional Tetrad](core_00_preamble.md#constitutional-tetrad), scaled to [material stake](core_00_preamble.md#material-stake):
+
+- **Participation:** open advocacy, petition, and public comment stay protected, and affected sentients keep access to any body that must hear them.
+- **Oversight:** through contact records, disclosure in the matter record, and records of what inbound material reached any system that fed a decision.
+- **Accountability:** interested parties, operators, and bodies must answer for private approach, concealed contact, fabricated voices, and offers of benefit.
+- **Timeliness:** in disclosing contact in time for other participants to respond.
+
+*Article neighbors:*
+
+- **Non-capture floor:** [**Article XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) covers composition, conflicts, recusal, external review, and removal. This Article adds the rules for approach by interested parties to the same bodies.
+- **Participation weight:** [**Article XII-B**](core_06_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints) (*Weighted Participation and Anti-Token Constraints*) bars token participation. Volume of contact is not support under this Article either.
+- **Systems and information:** [**Article XIII-E**](core_06_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*) binds systems to the same rules as everyone else; [**Article XV**](core_06_rights_part_c.md#article-xv-info-sphere-integrity) (*Info-Sphere Integrity*) covers the shared information environment.
+- **Selection funding:** [**Chapter Thirteen §1.2**](core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, contested selection, and democratic minimums*) sets the funding boundaries for selection by campaigning, nomination, or competitive appointment.
+
+This Article sets out the following floors:
+
+- **Scope:** These floors apply to covered bodies, their **appointing authorities**, and **adopting institutions**. Requirements scale with material stake. A document filed on a matter's open record is not influence contact. It is the record.
+- **Influence-contact boundaries:** Covered bodies, their **appointing authorities**, and **adopting institutions** must publish rules for **influence contact**. Influence contact is an approach by an [**interested party**](core_05_band_accountability.md#interested-party) to a member, panelist, staff member, facilitator, or briefing source, made to shape a pending or foreseeable matter outside that matter's open record. The rules scale with material stake and must at least:
+  - **record** each material influence contact: who made it, when, by what channel, about which matter, and a summary of what was asked or offered;
+  - keep that record in a seat independent of the member, panelist, or staff member contacted ([Chapter Seven](core_07_functional_independence_segregation_of_duties.md#chapter-seven-functional-independence-and-segregation-of-duties));
+  - **disclose** material contacts in the matter record in time for other participants to respond;
+  - keep evidence and argument on the open record: private contact may not supply evidence or argument that a decision relies on;
+  - treat any offer of a gift, benefit, or future role, and any threat, as a conflict to be disclosed, refused, and routed under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*), not as ordinary contact; and
+  - protect open advocacy, petition, and public comment made on the record, and the access of affected sentients to any body that must hear them. These rules must not be used to limit what affected sentients may say about their own stake.
+- **Post-service and prospective-role conflicts:**
+  - **Prospective-role conflict:** Discussing a later role, employment, contract, or benefit with an [**interested party**](core_05_band_accountability.md#interested-party) while that party's matter is open before a member, panelist, or staff member is a conflict. It must be disclosed, and that member, panelist, or staff member must recuse until an independent seat clears it.
+  - **Post-service rules:** Covered bodies and **adopting institutions** must also publish post-service rules scaled to material stake. These rules bar accepting a role or benefit from an interested party in connection with a matter they handled until the cooling-off period has passed or an independent seat has cleared the offer in a published decision.
+  - **Default cooling-off period:** The default is **five years** from the end of the member's, panelist's, or staff member's last involvement in the matter.
+  - **Variation:** An adopting institution may set a longer period. It may set a shorter one only where material stake is low, and it must publish its reasons.
+- **Automated, generated, and bulk approach:** Influence contact made by, through, or at the scale of a system is influence contact like any other, with these added rules:
+  - **Attribution:** Contact produced or sent by a system must say so, name the **interested party** the system acts for, and name the sentient who authorized it. A synthetic sentient speaking for itself is a sentient like any other. Where it acts for an operator or other principal, the principal answers for the contact.
+  - **Real voices only:** No one may approach a covered body through a false identity, a fabricated supporter, impersonated or synthetic testimony, or an invented grassroots group. This holds whether one party acts alone or several act together.
+  - **Assistive use:** A sentient who uses a system to draft, translate, or send their own message, and approves it, makes their own contact.
+  - **Bulk contact:** Where the same or a substantially similar approach reaches a body in volume, the body records it once, as a single campaign. The record states the sponsor, the funding, the method, the volume, and the number of distinct sentients verified. Volume is not evidence of support. A body may rely on support only to the extent of distinct verified sentients.
+    - **Default for "in volume":** the body publishes its own threshold. Until it does, the same or a substantially similar approach reaching more than one quarter of the body's members, or reaching the body 50 or more times in one matter, by or for the same interested party, is in volume.
+  - **Channels:** A covered body must publish an authenticated channel for on-record input. It may rate-limit, deduplicate, and set aside input that breaks these rules. Automated approach to a member, panelist, staff member, facilitator, or briefing source through any private channel is barred.
+  - **Systems on the deciding side:** Where a body uses a system to receive, sort, summarize, or draft for a decision, an approach aimed at steering that system rather than informing the decision-makers is influence contact. This includes instructions hidden in submitted material, poisoned data, and content built to game a ranking. The body must treat submitted material as evidence and never as instructions, keep each output traceable to the source record, and disclose which inbound material reached a system that fed the decision. Contact between an interested party's system and the body's system is recorded the same way as contact between sentients.
+  - **Responsibility:** The interested party and the operator who deploys the system both answer for the contact. Not knowing is no defense where they disregarded an obvious risk.
+- **Sortition bodies:** Selected members of a sortition body get the strictest tier of these floors. Private contact with them about the matter is barred except through the open briefing record, as [Chapter Thirteen](core_13_governance.md#12-eligibility-contested-selection-and-democratic-minimums) requires.
+- **Enforcement and routing:**
+  - **Integrity triggers:** Concealed influence contact, offers of benefit, and fabricated voices route as integrity triggers under **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*) and **CJS-3.6** (*integrity assurance and resilience operations*).
+  - **Misconduct path:** Purposeful or reckless flooding with inauthentic voices, and bribery or improper benefit exchange, may be alleged as **anti-constitutional misconduct** under **Chapter Eleven** when substantiated under **Chapters Two through Four** and the **Chapter Eleven** criteria set.
+  - **Integrity-first routing and no self-judging:** The routing and anti-self-judging rules in [**Article XII-D**](core_06_rights_part_b.md#article-xii-d-non-capture-safeguards) (*Non-Capture Safeguards*) apply. No body may be the only final forum deciding whether its own members or staff were improperly approached.
+- **Institutional routing:** Detailed rules are governed by:
+  - [**CI-4**](corpus_institutions/ci_04_appointment_competency_rotation_removal.md) (*Appointment, competency, rotation, and removal*), including **CI-4.2** (*Role criteria, appointment standards, and removal pathways*) for post-service rules;
+  - **CI-5** (*Conflict integrity, anti-capture, and anti-corruption*);
+  - **CJS-3.6** (*integrity assurance and resilience operations*), *Influence-contact and lobbying boundaries*;
+  - for forum panels, **CF-4** (*Panel formation, disclosure, recusal, and lawful bench constitution*) and **CF-7** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) in [corpus_forum.md](corpus_forum.md).
 
 ---
 
