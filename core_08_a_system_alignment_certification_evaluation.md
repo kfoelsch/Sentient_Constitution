@@ -296,7 +296,13 @@ Participation and proportionality requirements scale the same way:
 
 #### 2.2 Pilot certification
 
-A **[pilot](core_05_band_continuity.md#pilot)** is a [go-live](core_05_band_continuity.md#go-live), so it needs its own certification before it starts, under the go-live rule in [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes). It is evaluated on its own record, at a depth scaled to its class and to how substitutable the system is: whether a viable alternative exists for the sentients it would affect or who would rely on it, and at what cost, delay, and loss of function (see [Dependency](core_05_band_continuity.md#dependency)). The more readily the system can be replaced, and the lower its class, the lighter the pilot's evaluation may be. A pilot of a system that cannot readily be replaced is evaluated at the depth its class requires at full deployment. A pilot still needs an honest classification and every evaluation whose trigger applies, and its scope, population, and duration are stated on its record. A system at any class is expected to run a pilot before full deployment; one that does not records why.
+A **[pilot](core_05_band_continuity.md#pilot)** is a [go-live](core_05_band_continuity.md#go-live), so it needs its own certification before it starts, under the go-live rule in [Part B §5 Certification Outcomes](core_08_b_system_alignment_certification_record_process.md#5-certification-outcomes).
+
+- A system at any class is expected to run a pilot before full deployment; one that does not records why.
+- A pilot still needs an honest classification and every evaluation whose trigger applies, and its scope, population, and duration are stated on its record.
+- It is evaluated on its own record, at a depth scaled to its class and to how substitutable the system is: whether a viable alternative exists for the sentients it would affect or who would rely on it, and at what cost, delay, and loss of function (see [Dependency](core_05_band_continuity.md#dependency)).
+  - The more readily the system can be replaced, and the lower its class, the lighter the pilot's evaluation may be.
+  - A pilot of a system that cannot readily be replaced is evaluated at the depth its class requires at full deployment.
 
 <a id="3-whole-system-certification-evaluation"></a>
 
@@ -316,7 +322,7 @@ A **[pilot](core_05_band_continuity.md#pilot)** is a [go-live](core_05_band_cont
 
 *In plain terms: you cannot green-light one piece of a system and ignore the rest. Reviewers need the full picture — what it depends on, what breaks when something upstream fails, harms that show up later or add up over time, whether sentients can actually use it (not just on paper), whether private information stays properly walled off, whether sentients can leave without being trapped, whether groups can still organize without the system splitting them apart, whether short-term wins hide long-term damage, and whether real oversight and accountability will still work when a lot is on the line.*
 
-*Worked examples: [Part C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-class-non-exhaustive) (*Illustrative whole-system application by class*) walks one example system per class through this section.*
+*Worked examples: [Part C](core_08_c_system_alignment_certification_illustrations.md#illustrative-whole-system-application-by-class-non-exhaustive) shows how this section plays out in practice. It takes three sample systems, one for each class, and walks each through the checks above.*
 
 A system alignment certification evaluation is incomplete if it considers only immediate or local effects.
 
